@@ -8,7 +8,7 @@ set :repo_url, 'git@github.com:jamietanna/jvt.me'
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-set :deploy_to, '/usr/share/nginx/html/jvt.me'
+set :deploy_to, '/home/jvt_me/jvt.me'
 
 # Default value for :scm is :git
 # set :scm, :git
