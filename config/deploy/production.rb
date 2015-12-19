@@ -8,6 +8,7 @@
 # server 'db.example.com', user: 'deploy', roles: %w{db}
 
 server '178.62.92.107', user: 'jvt_me', roles: %w{app}
+set :deploy_to, '/home/jvt_me/jvt.me/production'
 
 
 # role-based syntax
