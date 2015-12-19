@@ -23,4 +23,4 @@ markdown: kramdown
 sass:
     # sass_dir: assets/sass
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib']
+exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor']
