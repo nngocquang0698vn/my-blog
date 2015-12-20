@@ -73,7 +73,7 @@ projects:
 
   <section class="wrapper spotlight style1 {{ class }} {{ altclass }}">
 		<div class="inner">
-			<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+			<a href="#" onclick="return false" class="image"><img src="{{ section.image | prepend: "images/" | prepend: site.baseurl }}" alt="" /></a>
 			<div class="content">
 				<h2 class="major">{{ section.title }}</h2>
 				{% for paragraph in section.description: %}
