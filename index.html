@@ -95,7 +95,7 @@ projects:
       <h2 class="major">My Projects</h2>
       <p>Below you can find some of the projects I've worked on in the past.</p>
       <section class="features">
-        {% for project in projects: %}
+        {% for project in page.projects: %}
         <article>
           <a href="#" class="image"><img src="{{ project.image | prepend: "images/" | prepend: site.baseurl }}" alt="" /></a>
           <h3 class="major">{{ project.title }} </h3>
