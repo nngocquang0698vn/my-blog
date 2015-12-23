@@ -58,116 +58,6 @@ sections:
    picture: lore.png
    description:
    - <span style="color:red">TODO</span>
-projects:
- - title: MyMLH Backend
-   image:
-   github:
-   gitlab:
-   description: 
-    - While organising <a href="https://hacknotts.com">HackNotts</a>, I found that while <a href="https://my.mlh.io/">MyMLH</a> API was great for collecting the data from all attendees, it did not provide any ability for us to have ticket release features like releasing tickets in batches, or working out when to allocate tickets into the waitlist.
-    - <span style="color:red">As such, I have organised a <a href="">Trello board</a> with feature requests I will be aiming to complete for the system. This will be hacked upon in my free time, and when I go to hacks without an idea</span>
- - title: jvt.me
-   image:
-   github: jamietanna/jvt.me
-   gitlab:
-   description: 
-   - My personal site is built on <a href="http://jekyllrb.com">Jekyll</a> using the HTML5Up theme, <a href="http://html5up.net/solid-state">Solid State</a>, and is released under <span style="color:red">The Creative Commons Attribution 3.0 License</span>.
- - title: Claritag
-   image:
-   github:
-   gitlab: rwdrich/claritag
-   description: 
-   - Claritag is a <a href="https://clarifai.com">Clarifai</a> application that organises your Dropbox photos for you. The application is built in <a href="http://flask.pocoo.org/">Flask</a> and integrates with the <a href="https://www.dropbox.com/developers">Dropbox API</a> in order to list your images.
- - title: Dotfiles
-   image:
-   github: jamietanna/dotfiles-arch
-   gitlab:
-   description: 
-    - My dotfiles are all the configuration files I use with my Arch install, such as Vim and my Window Manager, BSPWM. These configs are shared on Github so I can easily clone them wherever I am, and also so others can see how I like things configured.
-    - I try to keep my dotfiles following good practices, both with Git, and with its code. As such, my commit messages explain the reasonings for the changes, in such a way that I'll be able to go back and work out why I added it. 
-    - I recently added the ability to bootstrap my system by simply cloning the repo and running `./bootstrap.sh`, which installs my dotfiles in the correct places and installs all associated dependencies needed.
- - title: Git talk
-   image: projects-gittalk15.png
-   github: jamietanna/gittalk15
-   gitlab:
-   description: 
-   - I gave a talk to <a href="http://hacksocnotts.co.uk">Hacksoc Nottingham</a> about using Git in October 2015. The slides are built using <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">LaTeX Beamer</a> and is released under the Creative Commons Attribution ShareAlike 4.0, with a copy of the generated PDF in the Github releases.
- - title: nggroup
-   image: projects-nggroup.png
-   github: jamietanna/nggroup
-   gitlab:
-   description: 
-    - When working at Intel<span style="color:red";>(*#link* to Intel bit)</span>, I was administering a server which required multiple users to have access to different areas of the web server via authentication means. Instead of working on some sort of server-side application to manage this, I decided to go with HTTP Basic Authentication. However, to reduce the amount of repetition needed, I threw together a script called Nginx htgroups, or nggroup for short, which provided a CLI-driven method of organising multiple users and their access rights.
- - title: Mendelync
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: Docker Build System for Intel on Android
-   image: projects-intel_docker.png
-   github:
-   gitlab:
-   description: 
-    - While working at Intel, I was part of an Android tablet project for a large UK retailer. As part of this, we worked on building versions of the Android Operating System with custom patches. The turnaround for the whole build process was around 40 minutes, which at times was <span style="color:red">unforgiving</span>. Therefore, I was tasked with setting up a server internally that would allow us to build Android much more quickly.
-    - I used Docker to set up isolated environments which would contain all necessary dependencies for the version of Android needed for different Intel devices, as well as <span style="color:red">reusing previous builds</span> to speed up 
-    - <span style="color:red">Login system, email, Samba</span>
- - title: HackSocNotts (site? devops? itp?)
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: Browser Public Key Infrastructure
-   image: projects-bpki.png
-   github:
-   gitlab:
-   description: 
-    - 
- - title: Storyti.me
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: HackNotts (site? devops?)
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: Football Facsimile
-   image: projects-footballfacsimile.png
-   github:
-   gitlab:
-   description: 
-   - In my second year group project, we created an application called Football Facsimile, which aimed to recreate the game of football as a fully independent computer simulation. Each player in the <span style="color:red">five-aside</span> game was modelled as an <span style="color:red">agent in the simulation</span>, and <span style="color:red">???</span>.
-   - The project was created with Java using the <a href="http://lwjgl.org">Lightweight Java Game Library</a>.
- - title: Portapay
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: PySnake
-   image:
-   github:
-   gitlab:
-   description: 
-    - 
- - title: disARM
-   image: projects-disarm.png
-   github:
-   gitlab:
-   description: 
-   - disARM is the final coursework from my first year Introduction to Programming course at Nottingham. We were tasked with creating a disassembler, which would take in a compiled ARM Executable and Linked Format file, and output the instructions that the file contains. I asked my lecturer whether it were possible to determine what label the <code>ADR</code> and <code>ADRL</code> instructions were pointing to, but he mentioned it was not. However, I decided to look into the ELF format, and discovered the Symbol table. Following this, I was able to work out the correct addresses, and insert them instead of some offset.
-   - This project was one of my first large achievements, and as such I am really happy with the resulting program. The code, however, is not at all something I'm happy with, but I realise a few years really does make a difference.
- - title: Libelius Student Organiser
-   image: projects-libelius.png
-   github:
-   gitlab:
-   description: 
-   -
 ---
 <!-- Banner -->
 <section id="banner">
@@ -215,13 +105,15 @@ projects:
       <h2 class="major">My Projects</h2>
       <p>Below you can find some of the projects I've worked on in the past.</p>
       <section class="features">
-        {% for project in page.projects: %}
+		{% for project in site.pages %}
+		{% if project.layout == 'project' %}
         <article>
           <a href="#" class="image"><img src="{{ project.image | prepend: "images/" | prepend: site.baseurl }}" alt="" /></a>
           <h3 class="major">{{ project.title }} </h3>
           {% for paragraph in project.description: %}
           <p>{{ paragraph }}</p>
           {% endfor %}
+          <a href="{{ project.url }}" class="special">Read More</a>
           {% if project.gitlab: %}
           <a href="https://gitlab.com/{{ project.gitlab }}" class="special">Gitlab</a>
           {% endif %}
@@ -229,6 +121,7 @@ projects:
           <a href="https://github.com/{{ project.github }}" class="special">Github</a>
           {% endif %}
         </article>
+        {% endif %}
         {% endfor %}
       </section>
       <ul class="actions">
