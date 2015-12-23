@@ -2,7 +2,7 @@
 layout: project
 title: Mobile Style App Permissions for Linux
 image:
-image: projects-lap.png
+image: projects-linux_access_permissions.png
 github:
 gitlab:
 description: A project to provide permissions for Linux packages, which inform the user of potential privacy issues such as access to personal files.
