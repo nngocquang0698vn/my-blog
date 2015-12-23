@@ -4,5 +4,5 @@ title: Portapay
 image:
 github:
 gitlab:
-description: TODO
+description: Portapay is a Firefox OS app that finds the nearest public restroom in London, and allows you to pay via PayPal.
 ---

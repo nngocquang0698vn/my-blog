@@ -1,8 +1,8 @@
 ---
 layout: project
-title: HackNotts (site? devops?)
+title: HackNotts
 image:
 github:
 gitlab:
-description: TODO
+description: <span style="color:red">TODO (site? devops?)</span>
 ---

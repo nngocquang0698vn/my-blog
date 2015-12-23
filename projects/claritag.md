@@ -4,7 +4,7 @@ title: Claritag
 image:
 github:
 gitlab: rwdrich/claritag
-description: TODO
+description: A web application to automatically categorise your Dropbox photos for you.
 tech_stack:
 - flask
 - dropbox

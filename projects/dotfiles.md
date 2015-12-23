@@ -4,7 +4,7 @@ title: Dotfiles
 image:
 github: jamietanna/dotfiles-arch
 gitlab:
-description: TODO
+description: My configuration files for my Linux installations; be it Vim, Zsh, or BSPWM.
 ---
 My dotfiles are all the configuration files I use with my Arch install, such as Vim and my Window Manager, BSPWM. These configs are shared on Github so I can easily clone them wherever I am, and also so others can see how I like things configured.
 

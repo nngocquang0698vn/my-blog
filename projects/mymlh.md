@@ -4,7 +4,7 @@ title: MyMLH Backend
 image:
 github:
 gitlab:
-description: A backend for the MyMLH API
+description: An open-source backend to enable hackathon organisers to easily and meaningfully integrate the MyMLH backend into their organisation workflow.
 ---
 
 While organising <a href="https://hacknotts.com">HackNotts</a>, I found that while <a href="https://my.mlh.io/">MyMLH</a> API was great for collecting the data from all attendees, it did not provide any ability for us to have ticket release features like releasing tickets in batches, or working out when to allocate tickets into the waitlist.
