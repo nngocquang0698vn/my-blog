@@ -12,30 +12,23 @@ layout: default
 		<div class="wrapper">
 				<div class="inner">
 						<div class="post-content">
-								<h3 class="major">Overview</h3>
-								{{ content | markdownify }}
+								<div class="row">
+										<div class="8u 12u$(medium)">
+												<h3 class="major">Overview</h3>
+												{{ content | markdownify }}
+										</div>
+										<div class="4u 12u$(medium)">
+												<h3 class="major">Tech Stack</h3>
+												<p>This project was built using the following technologies:</p>
+												<ul>
+														{% for tech_item in page.tech_stack %}
+														{% assign tech = site.data.techstack[tech_item] %}
+														<li><a href="{{ tech.link }}">{{ tech.title }}</a></li>
+														{% endfor %}
+												</ul>
+										</div>
+								</div>
 						</div>
 				</div>
 		</div>
-
-		<div class="wrapper">
-				<div class="inner">
-						<h3>Tech Stack</h3>
-
-						<p>This project was built using the following technologies:</p>
-						<section class="features">
-								{% for tech_item in page.tech_stack %}
-								{% assign tech = site.data.techstack[tech_item] %}
-								<article>
-										<a href="{{ tech.link }}" class="image"><img src="images/{{ tech.image }}" alt="" /></a>
-										<h3 class="major">{{ tech.title }}</h3>
-										<p>{{ tech.description }}</p>
-										<a href="{{ tech.link }}" class="special">Learn more</a>
-								</article>
-
-								{% endfor %}
-						</section>
-				</div>
-		</div>
-
 </article>
