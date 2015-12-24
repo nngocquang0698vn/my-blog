@@ -17,6 +17,7 @@ layout: default
 												<h3 class="major">Overview</h3>
 												{{ content | markdownify }}
 										</div>
+										{% if page.tech_stack.size > 0 %}
 										<div class="4u 12u$(medium)">
 												<h3 class="major">Tech Stack</h3>
 												<p>This project was built using the following technologies:</p>
@@ -27,6 +28,7 @@ layout: default
 														{% endfor %}
 												</ul>
 										</div>
+										{% endif %}
 								</div>
 						</div>
 				</div>
