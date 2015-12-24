@@ -24,7 +24,7 @@ layout: default
 												<ul>
 														{% for tech_item in page.tech_stack %}
 														{% assign tech = site.data.techstack[tech_item] %}
-														<li><a href="{{ tech.link }}">{{ tech.title }}</a></li>
+														<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
 														{% endfor %}
 												</ul>
 										</div>
