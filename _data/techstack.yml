@@ -2,19 +2,35 @@ flask:
   title: Flask
   link: http://flask.pocoo.org
   description: Flask is a microwebframework built in Python, with a focus on simplicity and ease of use.
-  image: techstack-flask.jpg
 dropbox:
   title: Dropbox
   link: https://www.dropbox.com/developers
-  description: TODO
-  image: techstack-dropbox.jpg
+  description: Dropbox is a file hosting service with a _host of native applications_
 clarifai:
   title: Clarifai
   link: https://clarifai.com/
   description: TODO
-  image: techstack-clarifai.jpg
 mysql:
   title: MySQL
   link: https://mysql.com/
   description: TODO
-  image: techstack-mysql.jpg
+docker:
+  title: Docker
+  link: https://docker.io/
+  description: TODO
+tmux:
+  title: Tmux
+  link: http://tmux.github.io/
+  description: TODO
+exim:
+  title: Exim
+  link: http://exim.org/
+  description: TODO
+python:
+  title: Python
+  link: http://python.org/
+  description: TODO
+samba:
+  title: Samba
+  link: http://samba.org/
+  description: TODO
