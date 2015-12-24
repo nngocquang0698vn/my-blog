@@ -10,4 +10,9 @@ tech_stack:
 - capistrano
 - solidstatehtml5up
 ---
-My personal site is built on <a href="http://jekyllrb.com">Jekyll</a> using the HTML5Up theme, <a href="http://html5up.net/solid-state">Solid State</a>, and is released under <span style="color:red">The Creative Commons Attribution 3.0 License</span>.
+
+The design for my personal site is adapted using the Solid State theme by HTML5Up, because I'm a developer, not a designer, although I would have loved to have created my own design.
+
+I adapted the site and integrated it into Jekyll, which powers the site. As my first full Jekyll project, I have used as many best Jekyll practices as possible, such as taking advantage of the `_data` directory, and using different layouts for the projects pages.
+
+The site is released under <span style="color:red">The Creative Commons Attribution 3.0 License</span>.
