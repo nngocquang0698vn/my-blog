@@ -9,4 +9,4 @@ tech_stack:
 - bash
 - python
 ---
-When working at Intel<span style="color:red";>(*#link* to Intel bit)</span>, I was administering a server which required multiple users to have access to different areas of the web server via authentication means. Instead of working on some sort of server-side application to manage this, I decided to go with HTTP Basic Authentication. However, to reduce the amount of repetition needed, I threw together a script called Nginx htgroups, or nggroup for short, which provided a CLI-driven method of organising multiple users and their access rights.
+When working at Intel, I was administering a server which required multiple users to have access to different areas of the web server via authentication means. Instead of working on some sort of server-side application to manage this, I decided to go with HTTP Basic Authentication. However, to reduce the amount of repetition needed, I threw together a script called Nginx htgroups, or nggroup for short, which provided a CLI-driven method of organising multiple users and their access rights.
