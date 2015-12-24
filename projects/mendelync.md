@@ -5,4 +5,8 @@ image: projects-mendelync.png
 github:
 gitlab:
 description: An Android application to provide easy access to Mendeley papers via NFC.
+tech_stack:
+- nodejs
+- android
+- mendeley
 ---
