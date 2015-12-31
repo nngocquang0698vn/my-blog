@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign isTechStack = page.tech_stack.size > 0 %}
+{% assign isRepoAvailable = page.github or page.gitlab %}
 <article class="post wrapper project">
 		<header class="post-header">
 				<div class="inner">
@@ -20,12 +22,18 @@ layout: default
 				<div class="inner">
 						<div class="post-content">
 								<div class="row">
+										{% if isTechStack or isRepoAvailable: %}
 										<div class="8u 12u$(medium)">
+										{% else %}
+										<div class="12u">
+										{% endif %}
+
 												<h3 class="major">Overview</h3>
 												{{ content | markdownify }}
 										</div>
+										{% if isTechStack or isRepoAvailable: %}
 										<div class="4u 12u$(medium)">
-										{% if page.tech_stack.size > 0 %}
+										{% if isTechStack: %}
 												<h3 class="major">Tech Stack</h3>
 												<p>This project was built using the following technologies:</p>
 												<ul>
@@ -35,7 +43,7 @@ layout: default
 														{% endfor %}
 												</ul>
 										{% endif %}
-										{% if page.github or page.gitlab: %}
+										{% if isRepoAvailable: %}
 												<h3 class="major">Project Links</h3>
 												{% if page.github: %}
 												<p>Find the project on <a href="https://github.com/{{ page.github }}" class="special">Github</a></p>
@@ -45,6 +53,7 @@ layout: default
 												{% endif %}
 										{% endif %}
 										</div>
+										{% endif %}
 								</div>
 						</div>
 				</div>
