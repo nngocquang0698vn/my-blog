@@ -24,8 +24,8 @@ layout: default
 												<h3 class="major">Overview</h3>
 												{{ content | markdownify }}
 										</div>
-										{% if page.tech_stack.size > 0 %}
 										<div class="4u 12u$(medium)">
+										{% if page.tech_stack.size > 0 %}
 												<h3 class="major">Tech Stack</h3>
 												<p>This project was built using the following technologies:</p>
 												<ul>
@@ -34,8 +34,17 @@ layout: default
 														<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
 														{% endfor %}
 												</ul>
-										</div>
 										{% endif %}
+										{% if page.github or page.gitlab: %}
+												<h3 class="major">Project Links</h3>
+												{% if page.github: %}
+												<p>Find the project on <a href="https://github.com/{{ page.github }}" class="special">Github</a></p>
+												{% endif %}
+												{% if page.gitlab: %}
+												<p>Find the project on <a href="https://gitlab.com/{{ page.github }}" class="special">Gitlab</a></p>
+												{% endif %}
+										{% endif %}
+										</div>
 								</div>
 						</div>
 				</div>
