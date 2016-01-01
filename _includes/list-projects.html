@@ -5,7 +5,7 @@
 		{% for project in site.pages %}
 		{% if project.layout == 'project' %}
 		<article>
-			<a href="{{ project.url}}" class="image"><img src="{{ project.image | prepend: "images/" | prepend: site.baseurl }}" alt="" /></a>
+			<a href="{{ project.url}}" class="image"><img src="{{site.url + '/' + site.baseurl | append: '/images/' | append: project.image}}" alt="" /></a>
 			<h3 class="major">{{ project.title }} </h3>
 			{% for paragraph in project.description: %}
 			<p>{{ paragraph }}</p>
