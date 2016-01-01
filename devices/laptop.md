@@ -2,5 +2,4 @@
 layout: page
 title: My Laptop Setup
 ---
-<span style="color:red">TODO</span>
-
+This page is currently under construction!

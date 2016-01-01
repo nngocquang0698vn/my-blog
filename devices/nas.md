@@ -2,6 +2,4 @@
 layout: page
 title: My NAS Setup
 ---
-<span style="color:red">TODO</span>
-
-
+This page is currently under construction!
