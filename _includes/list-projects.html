@@ -1,0 +1,28 @@
+<div class="inner">
+	<h2 class="major">My Projects</h2>
+	<p>Below you can find some of the projects I've worked on in the past.</p>
+	<section class="features">
+		{% for project in site.pages %}
+		{% if project.layout == 'project' %}
+		<article>
+			<a href="{{ project.url}}" class="image"><img src="{{ project.image | prepend: "images/" | prepend: site.baseurl }}" alt="" /></a>
+			<h3 class="major">{{ project.title }} </h3>
+			{% for paragraph in project.description: %}
+			<p>{{ paragraph }}</p>
+			{% endfor %}
+			<a href="{{ project.url }}" class="special">Read More</a>
+			{% if project.gitlab: %}
+			<a href="https://gitlab.com/{{ project.gitlab }}" class="special">Gitlab</a>
+			{% endif %}
+			{% if project.github: %}
+			<a href="https://github.com/{{ project.github }}" class="special">Github</a>
+			{% endif %}
+		</article>
+		{% endif %}
+		{% endfor %}
+	</section>
+	<ul class="actions">
+		<li><a href="#" class="button">Browse All</a></li>
+	</ul>
+
+</div>
