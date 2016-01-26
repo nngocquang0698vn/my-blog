@@ -15,4 +15,4 @@ The design for my personal site is adapted using the Solid State theme by HTML5U
 
 I adapted the site and integrated it into Jekyll, which powers the site. As my first full Jekyll project, I have used as many best Jekyll practices as possible, such as taking advantage of the `_data` directory, and using different layouts for the projects pages.
 
-The site is released under <span style="color:red">The Creative Commons Attribution 3.0 License</span>.
+The site is released under the GNU General Public License 3.0 and the theme under The Creative Commons Attribution 3.0 License.
