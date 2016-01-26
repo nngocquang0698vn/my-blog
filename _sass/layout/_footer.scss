@@ -26,6 +26,10 @@
 
 			.contact {
 				width: calc(50% - #{_size(section-spacing, large) * 0.5});
+				li {
+						font-size: 110%;
+						font-variant: small-caps;
+				}
 			}
 
 			.copyright {
