@@ -26,7 +26,13 @@ title: Jamie Tanna | Developer
 
   <section class="wrapper spotlight style1 {{ class }} {{ altclass }}">
 		<div class="inner">
-			<img class="image" src="{{ site.url + '/' + site.baseurl | append: '/images/' | append: section.image }}" alt="" />
+			<div class="image">
+				{% if section.image %}
+				<img src="{{ site.url + '/' + site.baseurl | append: '/images/' | append: section.image }}" alt="" />
+				{% else if section.icon %}
+				<i class="fa {{ section.icon }}"></i>
+				{% endif %}
+			</div>
 			<div class="content">
 				<h2 class="major">{{ section.title }}</h2>
 				{% for paragraph in section.description: %}

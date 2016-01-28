@@ -161,7 +161,6 @@
 			}
 
 			.image {
-				border-radius: 100%;
 				margin: 0 _size(section-spacing, large) _size(element-margin) 0;
 				width: 22em;
 				overflow: hidden;
@@ -170,6 +169,12 @@
 				img {
 					border-radius: 100%;
 					width: 100%;
+				}
+
+				i {
+					font-size:120px;
+					width: 100%;
+					padding-left: 25%;
 				}
 			}
 
@@ -186,6 +191,10 @@
 
 				.image {
 					margin: 0 0 _size(element-margin) _size(section-spacing, large);
+
+					i {
+							padding-right: 25%;
+					}
 				}
 			}
 
