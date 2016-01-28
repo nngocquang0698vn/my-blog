@@ -1,14 +1,14 @@
  - title: Student
    image: uon_logo.png
    description:
-    - I'm now in my third and final year of Computer Science at the University of Nottingham. I spent a year placement at Intel between my second and third year, where I worked in the Developer Relation Division, working on a large UK Android tablet project, and playing with <a href="http://software.intel.com/realsense">Intel Realsense</a>.
-    - For my final year dissertation, I am working on <em>'Mobile Style Applications for Linux'</em>, which aims to provide permissions for Linux packages, focussing on protection of privacy. For more details, please check out <a href="/projects/linux_access_permissions">the project page</a>.
-    - This year I'm most looking forward to <em>Compilers</em>, <em>Software Quality Management</em>, <em>Security</em>, <em>Operating Systems</em> and <em>Mobile Device Programming</em>.
+    - I'm now in my third and final year of Computer Science at the University of Nottingham. I spent a year placement at Intel between my second and third year, where I worked in the Developer Relation Division, working on a large UK Android tablet project, and playing with [Intel Realsense](http://software.intel.com/realsense).
+    - For my final year dissertation, I am working on *'Mobile Style Applications for Linux'*, which aims to provide permissions for Linux packages, focussing on protection of privacy. For more details, please check out [the project page](/projects/linux_access_permissions).
+    - This year I'm most looking forward to *Compilers*, *Software Quality Management*, *Security*, *Operating Systems* and *Mobile Device Programming*.
  - title: Teacher
    image: teaching.png
    description:
    - I have always enjoyed teaching people; from GCSE my Computing teachers often told me that I should pursue a career in teaching, as I have always taken pleasure in the ability to help others. This has continued into my second year at University, where I applied to the Guru scheme, which was a team of hand-selected students to provide mentoring for first-year students, and aiding them with academic issues where required.
-   - In addition, I co-organised the first Hacksoc <em>Introduction to Programming sessions</em>, which took students with no prior programming knowledge and brought them to the level of learning how to develop Android apps. After returning from my year at Intel, I decided that this was not the best course of action; the knowledge needed was vast, and required too much work to teach the fundamentals of programming through Java, and then leading into Android programming, all within one term. Instead, I decided that we would teach programming through Python, as a beginner-friendly language, with the final goal of learning Flask, the microwebframework. Over the autumn term in 2015, I've found this to be an extremely effective course of action, and have had great feedback on the sessions.
+   - In addition, I co-organised the first Hacksoc *Introduction to Programming sessions*, which took students with no prior programming knowledge and brought them to the level of learning how to develop Android apps. After returning from my year at Intel, I decided that this was not the best course of action; the knowledge needed was vast, and required too much work to teach the fundamentals of programming through Java, and then leading into Android programming, all within one term. Instead, I decided that we would teach programming through Python, as a beginner-friendly language, with the final goal of learning Flask, the microwebframework. Over the autumn term in 2015, I've found this to be an extremely effective course of action, and have had great feedback on the sessions.
  - title: Automater
    icon: fa-cogs
    description:
@@ -16,7 +16,7 @@
     - One of the best things about being a programmer is that I have the ability to do this - to automate the repetitive tasks that I'd rather not continually do. Whether this is rerunning my tests as soon as a source file has changed, or filling out a form that little bit quicker, I'll automate it.
     - By automating these small tasks, it means I get to spend more time on the important things, like actually building cool things.
     - I primarily use one-liners in Bash, but if it gets to be more complicated I will most probably write a Bash script, or for more robust scripts, and ease of readability and maintenance, write it in Python.
-    - Unfortunately, I seem to fall prey to the ever relevant XKCDs; <a href="https://xkcd.com/1319">Automation</a>, <a href="https://xkcd.com/1205/">Is It Worth the Time?</a> and <a href="https://xkcd.com/974/">The General Problem</a>.
+    - Unfortunately, I seem to fall prey to the ever relevant XKCDs; [Automation](https://xkcd.com/1319) [Is It Worth the Time?](https://xkcd.com/1205/)and [The General Problem](https://xkcd.com/974/)
  - title: Hacker
    image: hackathon.jpg
    description:
@@ -33,15 +33,15 @@
    description:
    - For the past few years, I have been developing my skills as a sysadmin, by hosting a web server that provides websites for a few clients that I developed websites for.
    - My server skills were built upon further when I was working at Intel, and was tasked with setting up an internal server in which to host files, and run Android builds on.
-   - As part of my work, I have also been working with Continuous Integration and Continuous Deployment tools, such as setting up the <a href="http://hacknotts.com">HackNotts</a> site with <a href="http://travis-ci.com">Travis-CI</a> which deployed to Amazon S3, or <a href="http://capistranorb.com">Capistrano</a> as a deploy tool for <a href="http://inspirewit.com">the Nottingham Women in Tech conference site</a>.
+   - As part of my work, I have also been working with Continuous Integration and Continuous Deployment tools, such as setting up the [HackNotts](http://hacknotts.com) site with [Travis-CI](http://travis-ci.com) which deployed to Amazon S3, or [http://capistranorb.com](Capistrano) as a deploy tool for [the Nottingham Women in Tech conference site](http://inspirewit.com).
  - title: Arch Linux User
    image: arch_logo.png
    description:
-    - I run <a href="https://archlinux.org">Arch Linux</a> installations on my <a href="/devices/desktop">desktop</a> and <a href="/devices/laptop">laptop</a>. They run a minimal system, preferring a Tiling WM called <a href="https://github.com/baskerville/bspwm">BSPWM</a> over a fully blown environment such as Gnome, as it allows me to maintain a keyboard-driven setup which greatly increases my productivity.
+    - I run [Arch Linux](https://archlinux.org) installations on my [desktop](/devices/desktop) and [laptop](/devices/laptop). They run a minimal system, preferring a Tiling WM called [BSPWM](https://github.com/baskerville/bspwm) over a fully blown environment such as Gnome, as it allows me to maintain a keyboard-driven setup which greatly increases my productivity.
     - I choose to use Arch Linux over other distributions because Arch gives me the choice with how I want to run my machine; by default Arch has a very limited base Operating System, which provides the ability for users to control how their system is set up. I enjoy developing and optimising my workflow, and as such, I like having a system in which I can limit the number of moving parts and ensure I have the minimal working environment required.
-    - I also love <a href="https://wiki.installgentoo.com/index.php/GNU/Linux_ricing">ricing</a> <a href="//blog.jamietanna.co.uk/devices">my Arch Linux installs</a>. I constantly try to improve my setup; my installs are evolutionary, not static, and adapt to my changing usage model.
+    - I also love [ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing) [my Arch Linux installs](//blog.jamietanna.co.uk/devices). I constantly try to improve my setup; my installs are evolutionary, not static, and adapt to my changing usage model.
  - title: Gamer
    icon: fa-gamepad
    description:
    - I enjoy playing games as a passtime, where I usually join a number of my friends to play together.
-   - I can be found playing a variety of games on <a href="https://steamcommunity.com/id/professorgumby/">Steam</a>, such as my new found love for <a href="http://steamcommunity.com/app/299360">Block N Load</a>, as well as leading my squad on <a href="http://battlelog.battlefield.com/bf4/user/gumbyesq/">Battlefield 4</a>, and until recently, running heists on <a href="https://pd2stats.com/profiles/76561197994125679">Payday 2</a>.
+   - I can be found playing a variety of games on [Steam](https://steamcommunity.com/id/professorgumby/), such as my new found love for [Block N Load](http://steamcommunity.com/app/299360), as well as leading my squad on [Battlefield 4](http://battlelog.battlefield.com/bf4/user/gumbyesq/), and until recently, running heists on [Payday 2](https://pd2stats.com/profiles/76561197994125679).
