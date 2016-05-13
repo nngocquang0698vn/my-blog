@@ -49,13 +49,16 @@ layout: default
 										{% if isRepoAvailable or isSiteAvailable: %}
 												<h3 class="major">Project Links</h3>
 												{% if page.site_url: %}
-												<p> Visit the project's official site at <a href="{{ page.site_url }}" class="special">{{ page.site_name }}</a></p>
+												<p> Visit the project's official site at:</p><a href="{{ page.site_url }}" class="special">{{ page.site_name }}</a>
+												{% endif %}
+												{% if isRepoAvailable: %}
+												<p>Find the project on:</p>
 												{% endif %}
 												{% if page.github: %}
-												<p>Find the project on <a href="https://github.com/{{ page.github }}" class="special github">Github</a></p>
+												<a href="https://github.com/{{ page.github }}" class="special github">Github</a>
 												{% endif %}
 												{% if page.gitlab: %}
-												<p>Find the project on <a href="https://gitlab.com/{{ page.gitlab }}" class="special gitlab">Gitlab</a></p>
+												<a href="https://gitlab.com/{{ page.gitlab }}" class="special gitlab">Gitlab</a>
 												{% endif %}
 										{% endif %}
 										</div>
