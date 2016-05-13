@@ -2,7 +2,9 @@
 layout: default
 ---
 {% assign isTechStack = page.tech_stack.size > 0 %}
-{% assign isRepoAvailable = page.github or page.gitlab %}
+{% capture isRepoAvailable %}
+	{{ page.gitlab}}{{ page.github }}
+{% endcapture %}
 {% assign isSiteAvailable = page.site_url %}
 <article class="post wrapper project">
 		<header class="post-header">
