@@ -86,6 +86,19 @@
 		}
 	}
 
+	a.special.github {
+		&:before {
+			content: '\f09b';
+		}
+	}
+
+	a.special.gitlab {
+		&:before {
+			content: '\f296';
+		}
+	}
+
+
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);

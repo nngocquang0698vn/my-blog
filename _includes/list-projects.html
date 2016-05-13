@@ -12,10 +12,10 @@
 			{% endfor %}
 			<a href="{{ project.url }}" class="special">Read More</a>
 			{% if project.gitlab: %}
-			<a href="https://gitlab.com/{{ project.gitlab }}" class="special">Gitlab</a>
+			<a href="https://gitlab.com/{{ project.gitlab }}" class="special gitlab">Gitlab</a>
 			{% endif %}
 			{% if project.github: %}
-			<a href="https://github.com/{{ project.github }}" class="special">Github</a>
+			<a href="https://github.com/{{ project.github }}" class="special github">Github</a>
 			{% endif %}
 		</article>
 		{% endif %}
