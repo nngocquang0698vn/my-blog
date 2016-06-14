@@ -11,6 +11,9 @@ github_username:  jamietanna
 # Build settings
 markdown: kramdown
 
+kramdown:
+    input: GFM
+
 sass:
     # sass_dir: assets/sass
 
