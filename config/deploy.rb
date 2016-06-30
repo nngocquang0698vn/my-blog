@@ -39,6 +39,7 @@ namespace :deploy do
   task :build do
     on roles(:app) do
       within(release_path) do
+        execute :grunt
         if fetch(:stage) == :staging
           execute :bundle, 'exec jekyll build --config _config.yml,_config.staging.yml'
         elsif fetch(:stage) == :production
