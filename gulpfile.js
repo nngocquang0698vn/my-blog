@@ -52,7 +52,7 @@ gulp.task('optimize-html', function() {
 
 gulp.task('default', function(callback) {
   runSequence(
-        // 'optimize-images',
+        'optimize-images',
         'optimize-css',
         'optimize-html'
 	);
