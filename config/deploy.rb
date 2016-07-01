@@ -40,7 +40,9 @@ namespace :deploy do
   task :use_production_packagejson do
     on roles(:app) do
       within(release_path) do
-        execute "mv #{release_path}/package.prod.json #{release_path}/package.json"
+        if fetch(:stage) == :production
+          execute "mv #{release_path}/package.prod.json #{release_path}/package.json"
+        end
       end
     end
   end
