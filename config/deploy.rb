@@ -36,29 +36,18 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 
 namespace :deploy do
   desc "Build site"
-
-  task :use_production_packagejson do
-    on roles(:app) do
-      within(release_path) do
-        execute "mv #{release_path}/package.prod.json #{release_path}/package.json"
-      end
-    end
-  end
-
   task :build do
     on roles(:app) do
       within(release_path) do
+        execute :grunt
         if fetch(:stage) == :staging
           execute :bundle, 'exec jekyll build --config _config.yml,_config.staging.yml'
         elsif fetch(:stage) == :production
-          execute :grunt
-          execute :gulp
           execute :bundle, 'exec jekyll build --config _config.yml,_config.prod.yml'
         end
       end
     end
   end
 
-  before "npm:install", "deploy:use_production_packagejson"
   after :updated, :build
 end

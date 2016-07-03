@@ -19,4 +19,4 @@ highlighter: rouge
 sass:
     # sass_dir: assets/sass
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor', 'LICENSE.*', 'README.txt', TODO, 'tmp', 'node_modules', 'Gruntfile.js', 'package.json', 'gulpfile.js', 'package.json', 'README.md', 'elements.html']
+exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor', 'LICENSE.*', 'README.txt', TODO, 'tmp', 'node_modules', 'Gruntfile.js']

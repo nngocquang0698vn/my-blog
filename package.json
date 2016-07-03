@@ -16,5 +16,10 @@
     "url": "https://github.com/jamietanna/jvt.me/issues"
   },
   "dependencies": {
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-uglify": "1.0.1",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-cli": "1.0.1",
+    "grunt": "1.0.1"
   }
 }

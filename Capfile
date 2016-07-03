@@ -4,6 +4,10 @@ require 'capistrano/setup'
 # Include default deployment tasks
 require 'capistrano/deploy'
 
+# Add Grunt and NPM support to Cap
+require 'capistrano/grunt'
+require 'capistrano/npm'
+
 # Include tasks from other gems included in your Gemfile
 #
 # For documentation on these, see for example:
@@ -22,10 +26,6 @@ require 'capistrano/bundler'
 # require 'capistrano/rails/assets'
 # require 'capistrano/rails/migrations'
 # require 'capistrano/passenger'
-
-require 'capistrano/npm'
-require 'capistrano/gulp'
-require 'capistrano/grunt'
 
 # Load custom tasks from `lib/capistrano/tasks` if you have any defined
 Dir.glob('lib/capistrano/tasks/*.rake').each { |r| import r }
