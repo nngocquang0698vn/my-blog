@@ -1,0 +1,43 @@
+image: ruby:2.3
+
+# cache our bundle to speed up builds
+cache:
+  paths:
+    - vendor
+
+before_script:
+  - bundle install --path vendor
+
+stages:
+  - test
+  - deploy
+
+# Ensure that the site can correctly build {{{
+test_build:
+  stage: test
+  script:
+    - bundle exec jekyll build -d _site
+  artifacts:
+    paths:
+      - _site
+# }}}
+
+# Any branches that aren't master should autobuild, but _not_ deploy to
+# production {{{
+staging_deploy:
+  stage: deploy
+  script:
+    - bundle exec cap staging deploy
+  except:
+    - master
+# }}}
+
+# Only master should auto build to production {{{
+prod_deploy:
+  stage: deploy
+  script:
+    - bundle exec cap production deploy
+  only:
+    - master
+# }}}
+
