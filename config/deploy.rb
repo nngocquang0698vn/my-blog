@@ -2,7 +2,7 @@
 lock '3.5.0'
 
 set :application, 'jvt.me'
-set :repo_url, 'git@github.com:jamietanna/jvt.me'
+set :repo_url, 'git@gitlab.com:jamietanna/jvt.me'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
