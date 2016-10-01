@@ -4,8 +4,7 @@ lock '3.5.0'
 set :application, 'jvt.me'
 set :repo_url, 'git@gitlab.com:jamietanna/jvt.me'
 
-# Default branch is :master
-# ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
+set :branch, ENV['CI_BUILD_REF_NAME'] if ENV['CI_BUILD_REF_NAME']
 
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, '/home/jvt_me/jvt.me'
