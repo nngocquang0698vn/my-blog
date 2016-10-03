@@ -3,8 +3,9 @@ layout: page
 title: Blog Posts
 description: Below you can find links to all the posts I've written.
 ---
-<ul>
 {% for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<h2><a href="{{ BASE_PATH }}{{ post.url }}"><span>{{ post.date | date_to_string }}</span>&nbsp;&raquo;&nbsp;{{ post.title }}</a></h2>
+{% if post.description %}
+<p>{{ post.description | markdownify }}</p>
+{% endif %}
 {% endfor %}
-</ul>
