@@ -52,7 +52,7 @@ I found that just running the automated tests was not very ideal, and took time 
 
 While testing I found that with the new version, we would need to explicitly install the Python2 development headers; that the version of Node.JS v0.10 was outdated; and that v0.10 wasn't actually even being installed.
 
-Not only did these changes make it possible to use a newer Operating System (and so newer versions of libraries and software) but also `TODO`.
+These changes made it possible to use a newer Operating System, which meant that the build would be run against newer versions of libraries and software.
 
 ## Finding a Project
 
