@@ -34,6 +34,17 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 # set :keep_releases, 5
 
 namespace :deploy do
+
+  task :use_production_packagejson do
+    on roles(:app) do
+      within(release_path) do
+        if fetch(:stage) == :production
+          execute "mv #{release_path}/package.prod.json #{release_path}/package.json"
+        end
+      end
+    end
+  end
+
   desc "Build site"
   task :build do
     on roles(:app) do
