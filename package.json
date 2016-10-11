@@ -1,0 +1,20 @@
+{
+  "name": "jvt.me",
+  "version": "0.0.1",
+  "description": "Jamie Tanna's personal website",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamietanna/jvt.me.git"
+  },
+  "author": "Jamie Tanna",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jamietanna/jvt.me/issues"
+  },
+  "dependencies": {
+  }
+}
