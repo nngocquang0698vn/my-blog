@@ -5,7 +5,8 @@ Jamie Tanna's personal site, built in Jekyll.
 To build:
 
 ```
+npm install
 bundle install
-bundle exec jekyll build
+gulp build
 ```
 
