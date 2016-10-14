@@ -7,21 +7,8 @@ var autoprefixer = require('gulp-autoprefixer');
 var replace = require('gulp-replace');
 var runSequence = require('run-sequence');
 
-var imagemin = require('gulp-imagemin');
-var pngquant = require('imagemin-pngquant');
-var jpegtran = require('imagemin-jpegtran');
-var gifsicle = require('imagemin-gifsicle');
 
 
-gulp.task('optimize-images', function () {
-    return gulp.src(['_site/**/*.jpg', '_site/**/*.jpeg', '_site/**/*.gif', '_site/**/*.png'])
-        .pipe(imagemin({
-            progressive: false,
-            svgoPlugins: [{removeViewBox: false}],
-            use: [pngquant(), jpegtran(), gifsicle()]
-        }))
-        .pipe(gulp.dest('_site/'));
-});
 
 gulp.task('optimize-css', function() {
    return gulp.src('_site/css/main.css')
@@ -52,7 +39,6 @@ gulp.task('optimize-html', function() {
 
 gulp.task('default', function(callback) {
   runSequence(
-        // 'optimize-images',
         'optimize-css',
         'optimize-html'
 	);
