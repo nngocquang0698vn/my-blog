@@ -6,6 +6,9 @@ cache:
     - vendor
 
 before_script:
+  - apt update
+  - apt install -y build-essential git libfontconfig
+  - gem install bundle
   - bundle install --path vendor
   # ensure that deployments can use the SSH key that is passed in via the
   # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
@@ -22,6 +25,7 @@ stages:
 test_build:
   stage: test
   script:
+    - npm install -g gulp
     - npm install
     - gulp build
   artifacts:
