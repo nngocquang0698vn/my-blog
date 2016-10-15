@@ -1,4 +1,4 @@
-image: beevelop/nodejs-ruby
+image: registry.gitlab.com/jamietanna/jvt.me
 
 # cache our bundle to speed up builds
 cache:
@@ -6,8 +6,6 @@ cache:
     - vendor
 
 before_script:
-  - apt update
-  - apt install -y build-essential git libfontconfig
   - gem install bundle
   - bundle install --path vendor
   # ensure that deployments can use the SSH key that is passed in via the
