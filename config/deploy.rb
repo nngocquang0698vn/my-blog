@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '3.5.0'
+lock '3.6.1'
 
 set :application, 'jvt.me'
 set :repo_url, 'git@gitlab.com:jamietanna/jvt.me'
