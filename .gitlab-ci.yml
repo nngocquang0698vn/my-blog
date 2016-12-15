@@ -34,8 +34,8 @@ staging_deploy:
   stage: deploy
   script:
     - bundle exec cap staging deploy
-  except:
-    - master
+  only:
+    - develop
 # }}}
 
 # Only master should auto build to production {{{
