@@ -36,14 +36,6 @@ gulp.task('optimize-html', function() {
         .pipe(minifyHTML({
             quotes: true
         }))
-        .pipe(replace(/<link.*href=\"\/css\/main.css\"[^>]*>/, function(s) {
-            var style = fs.readFileSync('_site/css/main.css', 'utf8');
-            return '<style>\n' + style + '\n</style>';
-        }))
-        .pipe(replace(/<link.*href=\"\/css\/gruvbox.css\"[^>]*>/, function(s) {
-            var style = fs.readFileSync('_site/css/gruvbox.css', 'utf8');
-            return '<style>\n' + style + '\n</style>';
-        }))
         .pipe(gulp.dest('_site/'));
 });
 
