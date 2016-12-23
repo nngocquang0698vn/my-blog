@@ -1,8 +1,6 @@
-
-# cache our bundle to speed up builds
-cache:
-  paths:
-    - vendor
+variables:
+  CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
+  CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
 
 before_script:
   # ensure that deployments can use the SSH key that is passed in via the
@@ -14,6 +12,7 @@ before_script:
 
 stages:
   - test
+  - release
   - deploy
 
 # Ensure that the site can correctly build {{{
@@ -23,11 +22,23 @@ test_build:
     - docker:dind
   stage: test
   script:
-  - docker pull registry.gitlab.com/jamietanna/jvt.me
-  - docker run -v $(readlink -f .):/site -it registry.gitlab.com/jamietanna/jvt.me gulp
-  artifacts:
-    paths:
-      - _site
+    - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker build -t registry.gitlab.com/jamietanna/jvt.me .
+    # any other test commands on the end site would go here
+# }}}
+
+# Push the image up to the registry as our latest image, on master {{{
+release_image:
+  image: docker:latest
+  services:
+    - docker:dind
+  stage: release
+  script:
+    - docker pull $CONTAINER_TEST_IMAGE
+    - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker push $CONTAINER_RELEASE_IMAGE
+  only:
+    - master
 # }}}
 
 # Any branches that aren't master should autobuild, but _not_ deploy to
