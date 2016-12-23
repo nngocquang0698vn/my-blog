@@ -1,4 +1,3 @@
-image: registry.gitlab.com/jamietanna/jvt.me
 
 # cache our bundle to speed up builds
 cache:
@@ -6,8 +5,6 @@ cache:
     - vendor
 
 before_script:
-  - gem install bundle
-  - bundle install --path vendor
   # ensure that deployments can use the SSH key that is passed in via the
   # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
   - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
@@ -21,11 +18,13 @@ stages:
 
 # Ensure that the site can correctly build {{{
 test_build:
+  image: docker:latest
+  services:
+    - docker:dind
   stage: test
   script:
-    - npm install -g gulp
-    - npm install
-    - gulp build
+  - docker pull registry.gitlab.com/jamietanna/jvt.me
+  - docker run -v $(readlink -f .):/site -it registry.gitlab.com/jamietanna/jvt.me gulp
   artifacts:
     paths:
       - _site
