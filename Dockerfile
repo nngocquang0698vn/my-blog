@@ -48,4 +48,10 @@ ENV PATH=$PATH:/site/node_modules/.bin
 RUN bundle install
 # }}}
 
+# Build our site {{{
+# Finally, we need to build the site, so we've got the latest version of the
+# site as part of our image; this means that when deploying, we'll only need to
+# mount the _site folder
+# }}}
+RUN gulp
 # }}}
