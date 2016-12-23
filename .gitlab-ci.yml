@@ -8,6 +8,7 @@ before_script:
 variables:
   CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
   CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
+  DOCKER_DRIVER: overlay
 
 stages:
   - test
