@@ -37,8 +37,6 @@ release_image:
     - docker pull $CONTAINER_TEST_IMAGE
     - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
     - docker push $CONTAINER_RELEASE_IMAGE
-  only:
-    - master
 # }}}
 
 # Any branches that aren't master should autobuild, but _not_ deploy to
