@@ -1,7 +1,6 @@
 var fs = require('fs');
 var gulp = require('gulp');
 var minifyHTML = require('gulp-minify-html');
-var uncss = require('gulp-uncss');
 var uglify = require('gulp-uglify');
 var cleanCSS = require('gulp-clean-css');
 var autoprefixer = require('gulp-autoprefixer');
@@ -28,10 +27,6 @@ gulp.task('optimize-js', function() {
 gulp.task('optimize-css', function() {
    return gulp.src('_site/css/*.css')
        .pipe(autoprefixer())
-       .pipe(uncss({
-           html: ['_site/**/*.html'],
-           ignore: []
-       }))
        .pipe(cleanCSS({compatability: '*'}))
        .pipe(gulp.dest('_site/css/'));
 });
