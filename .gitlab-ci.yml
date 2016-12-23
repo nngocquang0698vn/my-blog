@@ -1,3 +1,10 @@
+image: docker:latest
+services:
+  - docker:dind
+
+before_script:
+  - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+
 variables:
   CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
   CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
@@ -7,22 +14,16 @@ stages:
   - release
 
 # Ensure that the site can correctly build {{{
-test_build:
-  image: docker:latest
-  services:
-    - docker:dind
+build_image:
   stage: test
   script:
-    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker build -t registry.gitlab.com/jamietanna/jvt.me .
+    - docker build --pull -t $CONTAINER_TEST_IMAGE .
+    - docker push $CONTAINER_TEST_IMAGE
     # any other test commands on the end site would go here
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
 release_image:
-  image: docker:latest
-  services:
-    - docker:dind
   stage: release
   script:
     - docker pull $CONTAINER_TEST_IMAGE
