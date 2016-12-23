@@ -13,7 +13,7 @@ test_build:
     - docker:dind
   stage: test
   script:
-    - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     - docker build -t registry.gitlab.com/jamietanna/jvt.me .
     # any other test commands on the end site would go here
 # }}}
