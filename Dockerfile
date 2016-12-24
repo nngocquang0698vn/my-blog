@@ -55,3 +55,7 @@ RUN bundle install
 # }}}
 RUN gulp
 # }}}
+
+# Default action is to serve the site {{{
+CMD ["gulp", "serve"]
+# }}}

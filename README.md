@@ -9,7 +9,7 @@ The easiest way to build the site is via the Docker container that holds all the
 ```
 cd /path/to/repo
 docker pull registry.gitlab.com/jamietanna/jvt.me
-docker run -p 3000:3000 --net host -v $(readlink -f .):/site -it registry.gitlab.com/jamietanna/jvt.me gulp serve
+docker run -p 3000:3000 --net host -v $(readlink -f .):/site -it registry.gitlab.com/jamietanna/jvt.me
 ```
 
 This will automagically rebuild the site and serve it on `http://localhost:3000`.
