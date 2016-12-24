@@ -33,21 +33,32 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 # Default value for keep_releases is 5
 # set :keep_releases, 5
 
-namespace :deploy do
-  desc "Build site"
+set :registry_url, "registry.gitlab.com"
+set :repo_name, "jamietanna/jvt.me"
+set :tag, fetch(:branch)
+set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}:#{fetch(:tag)}"
 
-  task :build do
+namespace :deploy do
+  desc "Deploy the site"
+
+  task :pull do
+    desc "Pull the latest image"
+    on roles(:app) do
+      execute "docker pull #{fetch:image_to_deploy}"
+    end
+  end
+
+  task :copy do
+    desc "Copy the files from the new image to the release_path"
     on roles(:app) do
       within(release_path) do
-        if fetch(:stage) == :staging
-          execute :bundle, 'exec jekyll build --config _config.yml,_config.staging.yml'
-        elsif fetch(:stage) == :production
-          execute :gulp
-          execute :bundle, 'exec jekyll build --config _config.yml,_config.prod.yml'
-        end
+        container_id = capture("docker run -d #{fetch:image_to_deploy}")
+        execute "docker cp #{container_id}:/site/_site #{release_path}"
+        execute "docker kill #{container_id}"
       end
     end
   end
 
-  after :updated, :build
+  after :updated, :pull
+  after :pull, :copy
 end
