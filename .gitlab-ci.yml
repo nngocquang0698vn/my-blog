@@ -10,9 +10,18 @@ variables:
   CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
   DOCKER_DRIVER: overlay
 
+before_script:
+  # ensure that deployments can use the SSH key that is passed in via the
+  # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+  - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
+
 stages:
   - test
   - release
+  - deploy
 
 # Ensure that the site can correctly build {{{
 build_image:
@@ -34,3 +43,23 @@ release_image:
   only:
     - master
 # }}}
+
+# Any branches that aren't master should autobuild, but _not_ deploy to
+# production {{{
+staging_deploy:
+  stage: deploy
+  script:
+    - bundle exec cap staging deploy
+  except:
+    - master
+# }}}
+
+# Only master should auto build to production {{{
+prod_deploy:
+  stage: deploy
+  script:
+    - bundle exec cap production deploy
+  only:
+    - master
+# }}}
+
