@@ -2,9 +2,6 @@ image: docker:1.13-rc
 services:
     - docker:1.13-rc-dind
 
-before_script:
-  - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-
 variables:
   CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
   CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
@@ -19,6 +16,7 @@ stages:
 build_image:
   stage: test
   script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     - docker pull $CONTAINER_TEST_IMAGE
     - docker build --pull --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE .
     - docker push $CONTAINER_TEST_IMAGE
