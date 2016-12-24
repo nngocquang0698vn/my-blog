@@ -5,7 +5,6 @@
 
 require 'capistrano/npm'
 require 'capistrano/gulp'
-require 'capistrano/grunt'
 
 # server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
 # server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value

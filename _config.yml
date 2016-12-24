@@ -19,6 +19,6 @@ highlighter: rouge
 sass:
     # sass_dir: assets/sass
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor', 'LICENSE.*', 'README.txt', TODO, 'tmp', 'node_modules', 'Gruntfile.js', 'gulpfile.js', 'package.json', 'README.md', 'elements.html', 'builder']
+exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor', 'LICENSE.*', 'README.txt', TODO, 'tmp', 'node_modules', 'gulpfile.js', 'package.json', 'README.md', 'elements.html', 'builder']
 gems:
   - jekyll-seo-tag
