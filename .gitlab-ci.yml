@@ -37,7 +37,7 @@ release_image:
 # Any branches that aren't master should autobuild, but _not_ deploy to
 # production {{{
 staging_deploy:
-  image: debian
+  image: $CONTAINER_TEST_IMAGE
   stage: deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
@@ -46,15 +46,14 @@ staging_deploy:
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
     - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
-  script:
-    - bundle exec cap staging deploy
+    - cap staging deploy
   except:
     - master
 # }}}
 
 # Only master should auto build to production {{{
 prod_deploy:
-  image: debian
+  image: $CONTAINER_TEST_IMAGE
   stage: deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
@@ -63,7 +62,7 @@ prod_deploy:
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
     - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
-    - bundle exec cap production deploy
+    - cap production deploy
   only:
     - master
 # }}}
