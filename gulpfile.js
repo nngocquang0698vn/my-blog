@@ -48,7 +48,10 @@ gulp.task('watch', function() {
     gulp.watch('*', ['build']);
 });
 
-gulp.task('serve', ['watch'], serve('_site'));
+gulp.task('serve', ['watch'], serve({
+		root: '_site',
+		port: process.env.PORT || 4000
+}));
 
 gulp.task('build', function() {
   runSequence(
