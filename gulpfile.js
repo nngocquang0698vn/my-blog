@@ -40,7 +40,7 @@ gulp.task('optimize-html', function() {
 });
 
 gulp.task('jekyll-build', function(done) {
-    return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
+    return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--incremental'], {stdio: 'inherit'})
         .on('close', done);
 });
 
