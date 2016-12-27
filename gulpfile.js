@@ -45,7 +45,13 @@ gulp.task('jekyll-build', function(done) {
 });
 
 gulp.task('watch', function() {
-    gulp.watch('*', ['build']);
+    // via https://robwise.github.io/blog/jekyll-and-gulp
+    gulp.watch(['**/*.html', '!_site/**/*.*'], ['build']);
+    gulp.watch('**/*.md', ['build']);
+    gulp.watch('feed.xml', ['build']);
+    gulp.watch('_data/*', ['build']);
+    gulp.watch('projects/*', ['build']);
+    // gulp.watch(['_*'], ['build']);
 });
 
 gulp.task('serve', ['watch'], serve({
