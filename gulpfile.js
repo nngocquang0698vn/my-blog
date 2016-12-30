@@ -13,6 +13,7 @@ var watch = require('gulp-watch');
 var gutil = require('gulp-util');
 
 var config = {
+    drafts: !!gutil.env.drafts,
     production: !!gutil.env.production,
 };
 
@@ -45,7 +46,12 @@ gulp.task('optimize-html', function() {
 });
 
 gulp.task('jekyll-build', function(done) {
-    return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--incremental'], {stdio: 'inherit'})
+		args = ['exec', 'jekyll', 'build', '--incremental']
+		if (config.drafts) {
+			args.push('--drafts')
+		}
+
+    return cp.spawn('bundle', args, {stdio: 'inherit'})
         .on('close', done);
 });
 
