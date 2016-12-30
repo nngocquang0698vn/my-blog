@@ -10,6 +10,11 @@ var runSequence = require('run-sequence');
 var cp = require('child_process');
 var serve = require('gulp-serve');
 var watch = require('gulp-watch');
+var gutil = require('gulp-util');
+
+var config = {
+    production: !!gutil.env.production,
+};
 
 gulp.task('optimize-js', function() {
     return gulp.src([
@@ -60,12 +65,20 @@ gulp.task('serve', ['watch'], serve({
 }));
 
 gulp.task('build', function() {
-  runSequence(
-        'jekyll-build',
-        'optimize-js',
-        'optimize-css',
-        'optimize-html'
-	);
+		// if we're deploying this to production, we want to optimise our output,
+		// otherwise, it's just going to slow us down
+		if (config.production) {
+				runSequence(
+						'jekyll-build',
+						'optimize-js',
+						'optimize-css',
+						'optimize-html'
+				);
+		} else {
+				runSequence(
+						'jekyll-build'
+				);
+		}
 });
 
 gulp.task('default', ['build']);

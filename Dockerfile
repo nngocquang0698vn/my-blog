@@ -53,7 +53,7 @@ RUN bundle install
 # site as part of our image; this means that when deploying, we'll only need to
 # mount the _site folder
 # }}}
-RUN gulp
+RUN gulp build --production
 # }}}
 
 # Default action is to serve the site {{{
