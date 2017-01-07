@@ -36,6 +36,9 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 set :registry_url, "registry.gitlab.com"
 set :repo_name, "jamietanna/jvt.me"
 set :tag, fetch(:branch)
+if "master" == fetch(:tag)
+  set :tag, "latest"
+end
 set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}:#{fetch(:tag)}"
 
 namespace :deploy do
