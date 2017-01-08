@@ -5,13 +5,15 @@ description: How to get up and running with using Gitlab CI and the Capistrano d
 categories: capistrano deploy ci gitlab
 ---
 
-[Capistrano][capistrano-rb] is a deploy tool written in Ruby, that I adopted _last year_, and started using on `hacknotts.com` and `inspirewit.com`.
+[Capistrano][capistrano-rb] is a deploy tool written in Ruby that I adopted last year, and started use with `jvt.me`, `hacknotts.com` and `inspirewit.com`.
 
 # Continuous Delivery
 
 ## What's the Point?
 
-Continuous Delivery is a brilliant method of ensuring that your `_??_`.
+Continuous Delivery is a brilliant method of ensuring that your software is pushed to (ideally) the production environment, to increase the confidence you have with your deployment process, and the `???`. Additionally, it helps unlock functionality and _worth_ for the end user much, much more quickly.
+
+As you would expect, this ties in very nicely with Continuous Integration.
 
 # A Brief Introduction to Capistrano
 
@@ -19,9 +21,11 @@ Continuous Delivery is a brilliant method of ensuring that your `_??_`.
 
 Capistrano employs a powerful Domain Specific Language in which you can describe the method of which your deployments should occur.
 
-`_??_`
+Capistrano provides the ability to perform a deployment to a given environment, host, `??`, as well as orchestrating rollbacks if needed, too.
 
-For instance, what does it have over a shell script / something else?
+Capistrano also has a concept called roles which provides the ability to describe whether a given host is a web server, a database server, or some other given part of infrastructure. As part of this, you can ensure that only the required hosts are touched with the latest changes, instead of the whole deployment infrastructure being updated.
+
+Although this functionality can all be done with a set of shell scripts (or indeed one of the many other deploy tools), Capistrano's simplicity makes it an ideal tool for simple and complex applications alike. My choice to use Capistrano was due to my use of Jekyll, and its ability to work with many different ecosystems, such as the ability to run `grunt` for `hacknotts.com`.
 
 # How to Hook into Gitlab Continuous Integration
 
@@ -113,10 +117,11 @@ staging_deploy:
     - develop
 ```
 
-This requires that we have added our SSH key into the `Variables` section in the Gitlab project. As per the workaround, this can be done with the following:
+This requires that we have added our SSH key into the `Variables` section in the Gitlab project. As per the workaround, this can be done by replacing each of the newlines with a literal `\n`.
 
 ```bash
-TODO
+# http://stackoverflow.com/a/1252191
+sed ':a;N;$!ba;s/\n/ /g' /path/to/private_key
 ```
 
 With this in place, our deploy will now correctly authenticate to the end server, and perform our deploy as requested!
