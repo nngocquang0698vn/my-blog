@@ -29,7 +29,7 @@ gulp.task('concat-js', function() {
 	return gulp.src('_assets/js/**/*.js')
     .pipe(concat('main.min.js'))
     //.pipe(gulp.dest('_site'));
-    .pipe(gulp.dest('assets/js/'));
+    .pipe(gulp.dest('_site/assets/js/'));
 });
 
 gulp.task('optimize-css', function() {
@@ -88,8 +88,8 @@ gulp.task('build', function() {
 				);
 		} else {
 				runSequence(
-						'concat-js',
-						'jekyll-build'
+						'jekyll-build',
+						'concat-js'
 				);
 		}
 });
