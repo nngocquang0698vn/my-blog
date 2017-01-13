@@ -19,15 +19,17 @@ var config = {
 
 gulp.task('optimize-js', function() {
     return gulp.src([
-        'assets/js/skel.min.js',
-        'assets/js/jquery.min.js',
-        'assets/js/jquery.scrollex.min.js',
-        'assets/js/util.js',
-        'assets/js/main.js',
+        'assets/js/main.min.js',
     ])
-    .pipe(concat('assets/js/main.min.js'))
     .pipe(uglify())
     .pipe(gulp.dest('_site'));
+});
+
+gulp.task('concat-js', function() {
+	return gulp.src('_assets/js/**/*.js')
+    .pipe(concat('main.min.js'))
+    //.pipe(gulp.dest('_site'));
+    .pipe(gulp.dest('assets/js/'));
 });
 
 gulp.task('optimize-css', function() {
@@ -79,12 +81,14 @@ gulp.task('build', function() {
 		if (config.production) {
 				runSequence(
 						'jekyll-build',
+						'concat-js',
 						'optimize-js',
 						'optimize-css',
 						'optimize-html'
 				);
 		} else {
 				runSequence(
+						'concat-js',
 						'jekyll-build'
 				);
 		}
