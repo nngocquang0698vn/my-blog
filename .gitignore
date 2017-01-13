@@ -19,5 +19,5 @@ vendor
 /test/source/file_name.txt
 .analysis
 tmp
-assets/js/main.min.js
+assets/**/*
 node_modules
