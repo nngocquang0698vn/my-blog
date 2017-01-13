@@ -19,10 +19,10 @@ var config = {
 
 gulp.task('optimize-js', function() {
     return gulp.src([
-        'assets/js/main.min.js',
+        '_site/assets/js/main.min.js',
     ])
     .pipe(uglify())
-    .pipe(gulp.dest('_site'));
+    .pipe(gulp.dest('_site/assets/js/'));
 });
 
 gulp.task('concat-js', function() {
