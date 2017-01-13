@@ -26,7 +26,13 @@ gulp.task('optimize-js', function() {
 });
 
 gulp.task('concat-js', function() {
-	return gulp.src('_assets/js/**/*.js')
+	return gulp.src([
+		'_assets/js/skel.min.js',
+		'_assets/js/jquery.min.js',
+		'_assets/js/jquery.scrollex.min.js',
+		'_assets/js/util.js',
+		'_assets/js/main.js',
+	])
     .pipe(concat('main.min.js'))
     //.pipe(gulp.dest('_site'));
     .pipe(gulp.dest('_site/assets/js/'));
