@@ -46,10 +46,12 @@ gulp.task('optimize-html', function() {
 });
 
 gulp.task('jekyll-build', function(done) {
-		args = ['exec', 'jekyll', 'build', '--incremental']
+		args = ['exec', 'jekyll', 'build']
 		if (config.drafts) {
+			// we need this as the first argument after `build`
 			args.push('--drafts')
 		}
+		args.push('--incremental')
 
     return cp.spawn('bundle', args, {stdio: 'inherit'})
         .on('close', done);
@@ -62,6 +64,7 @@ gulp.task('watch', function() {
     gulp.watch('feed.xml', ['build']);
     gulp.watch('_data/*', ['build']);
     gulp.watch('projects/*', ['build']);
+    gulp.watch('_drafts/*', ['build']);
     // gulp.watch(['_*'], ['build']);
 });
 
