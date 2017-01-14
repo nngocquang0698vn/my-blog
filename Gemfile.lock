@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/sn0w/jekyll-git_metadata
+  revision: 7205be1b8d580302ecf5667c9b381d85161e71ba
+  specs:
+    jekyll-git_metadata (0.0.5)
+      jekyll (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -68,6 +75,7 @@ DEPENDENCIES
   capistrano-bundler
   capistrano-rvm
   jekyll
+  jekyll-git_metadata!
   jekyll-seo-tag
   rouge
 
