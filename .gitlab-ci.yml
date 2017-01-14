@@ -1,48 +1,67 @@
-image: ruby:2.3
+image: docker:1.13-rc
+services:
+    - docker:1.13-rc-dind
 
-# cache our bundle to speed up builds
-cache:
-  paths:
-    - vendor
-
-before_script:
-  - bundle install --path vendor
-  # ensure that deployments can use the SSH key that is passed in via the
-  # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
-  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
-  - eval $(ssh-agent -s)
-  # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-  - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
+variables:
+  CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
+  CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
+  DOCKER_DRIVER: overlay
 
 stages:
   - test
+  - release
   - deploy
 
 # Ensure that the site can correctly build {{{
-test_build:
+build_image:
   stage: test
   script:
-    - bundle exec jekyll build -d _site
-  artifacts:
-    paths:
-      - _site
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker pull $CONTAINER_TEST_IMAGE
+    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE .
+    - docker push $CONTAINER_TEST_IMAGE
+    # any other test commands on the end site would go here
 # }}}
 
-# Any branches that aren't master should autobuild, but _not_ deploy to
-# production {{{
+# Push the image up to the registry as our latest image, on master {{{
+release_image:
+  stage: release
+  script:
+    - docker pull $CONTAINER_TEST_IMAGE
+    - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker push $CONTAINER_RELEASE_IMAGE
+  only:
+    - master
+# }}}
+
+# Only develop should deploy to staging {{{
 staging_deploy:
+  image: $CONTAINER_TEST_IMAGE
   stage: deploy
   script:
-    - bundle exec cap staging deploy
+    # ensure that deployments can use the SSH key that is passed in via the
+    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+    - which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )
+    - eval $(ssh-agent -s)
+      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+    - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
+    - cap staging deploy
   only:
     - develop
 # }}}
 
-# Only master should auto build to production {{{
+# Only master should auto deploy to production {{{
 prod_deploy:
+  image: $CONTAINER_TEST_IMAGE
   stage: deploy
   script:
-    - bundle exec cap production deploy
+    # ensure that deployments can use the SSH key that is passed in via the
+    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+    - which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )
+    - eval $(ssh-agent -s)
+      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+    - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
+    - cap production deploy
   only:
     - master
 # }}}

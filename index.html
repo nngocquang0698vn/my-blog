@@ -15,7 +15,7 @@ title: Jamie Tanna | Developer
 <section id="wrapper">
 
   {% assign isalt = false %}
-	{% for section in site.data.aboutme: %}
+	{% for section in site.data.aboutme %}
     {% capture class %} {% cycle 'style1', 'style2', 'style3' %} {% endcapture %}
     {% capture altclass %} {% cycle '', 'alt' %} {% endcapture %}
     {% if altclass == ' alt ' %}
@@ -28,14 +28,14 @@ title: Jamie Tanna | Developer
 		<div class="inner">
 			<div class="image">
 				{% if section.image %}
-				<img src="{{ site.url + '/' + site.baseurl | append: '/images/' | append: section.image }}" alt="" />
+				<img src="{{ site.url | append: '/' | append: site.baseurl | append: '/images/' | append: section.image }}" alt="" />
 				{% else if section.icon %}
 				<i class="fa {{ section.icon }}"></i>
 				{% endif %}
 			</div>
 			<div class="content">
 				<h2 class="major">{{ section.title }}</h2>
-				{% for paragraph in section.description: %}
+				{% for paragraph in section.description %}
 				<p>{{ paragraph | markdownify }}</p>
 				{% endfor %}
 			</div>
