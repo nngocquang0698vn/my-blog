@@ -27,6 +27,7 @@ build_image:
 release_image:
   stage: release
   script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     - docker pull $CONTAINER_TEST_IMAGE
     - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
     - docker push $CONTAINER_RELEASE_IMAGE
