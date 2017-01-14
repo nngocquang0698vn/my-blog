@@ -33,5 +33,6 @@ exclude:
 - elements.html
 - builder
 - assets
+- Dockerfile
 gems:
   - jekyll-seo-tag
