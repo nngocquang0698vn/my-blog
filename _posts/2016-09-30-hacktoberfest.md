@@ -68,27 +68,27 @@ So now you've found a project that you want to work on, it's a case of actually 
 
 When I say that no contribution is too small, I honestly mean it. The FOSS community are incredibly welcoming, and are always happy to help accommodate new contributors. This is especially true because everyone has to start somewhere!
 
-<!-- Documentation {{{ -->
+<!-- Documentation  -->
 One incredibly valuable method of contribution is that of documentation. Documentation is as valuable as the code that it is written about. For instance, a project that doesn't easily describe how to get it set up and installed is useless; five or ten minutes of time cost to a single developer while they search around to set up the environment doesn't sound like a lot, but it adds up over time, over a number of developers. By helping reduce this time cost, you can save many hundreds of developer hours, which could save thousands of dollars just for a short amount of work from you.
 
 The other great thing about working on documentation is that it gives you a great way to contribute if you're not as confident in your programming knowledge, or just want to get involved in a project without knowing it inside out. By working on the documentation, you'll learn a lot more about your project of choice, and this will lead to you being much more able to contribute more technical work in the future.
 
 Remember that documentation doesn't just consist of the "how to get started", although that's always important. It can be anything from explaining what the project is, summarising the main things it does, and why you people should use it. Then there's information on how to use the project, such as what options you can use to run it, code snippets, sample code or how to run tests.
-<!-- }}} -->
+<!-- / -->
 
-<!-- Browsing Open Issues {{{ -->
+<!-- Browsing Open Issues  -->
 A method of easily determining what needs to be done on a project is checking out the issue tracker. This will be a list feature requests, bugs, and other conversations between the community and the developer(s).
 
 It's always worth reading through the issues to see what outstanding problems there are that people have reported, and trying to determine whether there are missing facts that could be useful, or whether this is something that you'd be interested in investigating. From here, it's a case of trying to reproduce the issue - if you can easily reproduce the issue, try debugging to find out if you can find the root of the problem. From there, you may have more of an idea how to fix it. Unfortunately the process to debug and fix an issue is out of the scope of this post.
-<!-- }}} -->
+<!-- / -->
 
-<!-- New functionality {{{ -->
+<!-- New functionality  -->
 Do you want the project to do something new? Do you wish that your shell's autocomplete added support for your favourite commands? Do you feel like helping out the developers by fulfilling someone else's feature request?
-<!-- }}} -->
+<!-- / -->
 
-<!-- Refactoring / TODOs {{{ -->
+<!-- Refactoring / TODOs  -->
 It can also be useful to scan through the source code, finding any `TODO`s commented in the code, or see if you can find any code that could be written better. If you find something you feel you could fix up, get stuck in!
-<!-- }}} -->
+<!-- / -->
 
 For any changes made, make sure that the functionality of the project isn't broken - often projects will have a method in which to test the project against a set of tests. The method in which to test the project will differ, and of course if the documentation is lacking, make sure that you update it so future developers don't have to hunt it down!
 
