@@ -3,8 +3,9 @@ services:
     - docker:1.13-rc-dind
 
 variables:
-  CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_SLUG
-  CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
+  CONTAINER_IMAGE_URL: registry.gitlab.com/jamietanna/jvt.me
+  CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_URL:$CI_BUILD_REF_SLUG
+  CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_URL:latest
   DOCKER_DRIVER: overlay
 
 stages:
@@ -17,8 +18,8 @@ build_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_TEST_IMAGE || true
-    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE .
+    - docker pull $CONTAINER_TEST_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
+    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_TEST_IMAGE .
     - docker push $CONTAINER_TEST_IMAGE
     # any other test commands on the end site would go here
 # }}}
