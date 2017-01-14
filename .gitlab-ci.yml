@@ -3,7 +3,7 @@ services:
     - docker:1.13-rc-dind
 
 variables:
-  CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_NAME
+  CONTAINER_TEST_IMAGE: registry.gitlab.com/jamietanna/jvt.me:$CI_BUILD_REF_SLUG
   CONTAINER_RELEASE_IMAGE: registry.gitlab.com/jamietanna/jvt.me:latest
   DOCKER_DRIVER: overlay
 
