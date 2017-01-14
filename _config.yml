@@ -1,14 +1,13 @@
 title: Jamie Tanna | Developer
 title_short: Jamie Tanna
 email: hi@jamietanna.co.uk
-description: > # this means to ignore newlines until "baseurl:"
+description: >
     The personal website for Jamie Tanna, a software developer from London.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: ""
+url: ""
 twitter_username: jamietanna
 github_username:  jamietanna
 
-# Build settings
 markdown: kramdown
 
 kramdown:
@@ -16,9 +15,23 @@ kramdown:
 
 highlighter: rouge
 
-sass:
-    # sass_dir: assets/sass
-
-exclude: ['Gemfile', 'Gemfile.lock', 'Capfile', 'config', 'lib', 'vendor', 'LICENSE.*', 'README.txt', TODO, 'tmp', 'node_modules', 'gulpfile.js', 'package.json', 'README.md', 'elements.html', 'builder', 'assets']
+exclude:
+- Gemfile
+- Gemfile.lock
+- Capfile
+- config
+- lib
+- vendor
+- LICENSE.*
+- README.txt
+- TODO
+- tmp
+- node_modules
+- gulpfile.js
+- package.json
+- README.md
+- elements.html
+- builder
+- assets
 gems:
   - jekyll-seo-tag
