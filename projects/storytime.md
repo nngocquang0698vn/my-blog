@@ -4,7 +4,7 @@ title: Storyti.me
 image: projects-storytime.png
 github:
 gitlab:
-site_url: http://storyti.me
+site_url:
 site_name: Storyti.me
 description: Storyti.me is a rich, immersive environment to encourage young children to read by pairing books with a Lifx smart lightbulb.
 tech_stack:
