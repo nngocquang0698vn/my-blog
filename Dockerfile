@@ -17,7 +17,7 @@ RUN apt update &&\
 	curl -sL https://nodejs.org/dist/v${NODEJS_VERSION}/node-v${NODEJS_VERSION}-linux-x64.tar.gz | tar xz --strip-components=1 &&\
 	# }}}
 	# Ruby {{{
-	apt install -y git build-essential ruby-full &&\
+	apt install -y git build-essential ruby-full zlib1g-dev &&\
   gem install bundle &&\
 	# }}}
 	# Cleanup {{{
