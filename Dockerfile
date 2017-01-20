@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:jessie
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 
 ENV DEBIAN_FRONTEND=noninteractive \
