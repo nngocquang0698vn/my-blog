@@ -34,6 +34,9 @@ ADD package.json /site/
 ADD Gemfile /site/
 ADD Gemfile.lock /site/
 
+# https://github.com/docker-library/ruby/issues/45
+ENV LANG C.UTF-8
+
 # Install Ruby and NPM depdendencies, globally {{{
 # This is so we don't have to work out a nice way of mounting site dependencies
 # as well as our site itself
