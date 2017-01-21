@@ -19,7 +19,8 @@ build_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $DOCKER_BASE_IMAGE
+    # pull the latest base image on a master build
+    - [[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true
     - docker pull $CONTAINER_TEST_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
     - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_TEST_IMAGE .
     - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
