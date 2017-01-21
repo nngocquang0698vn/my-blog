@@ -1,15 +1,21 @@
  - title: Software Engineer
-   image: capitalone_logo.png
+   image:
+     src: capitalone_logo.png
+     alt: Capital One UK Logo
    description:
        - As of September 2016, I have joined [Capital One](http://www.capitalone.co.uk/) as a Graduate Software Engineer, working in the UK Core Services team. Our team is currently working on creating a Java [Jersey](http://jersey.java.net) + [Spring](http://spring.io) application that will be one of the first UK applications that are to be deployed to [Amazon Web Services](http://aws.amazon.com).
        - I've found this an incredibly exciting time, being able to take my experience with Web Applications, Continuous Integration and Continuous Deployment (via [Jenkins](http://jenkins.io)) and Java development skills to a whole new level. Additionally, I've been able to work in my first Agile software development team, and have been able to experience Test Driven Development and Sprints in a real world situation.
  - title: Student
-   image: uon_logo.png
+   image:
+     src: uon_logo.png
+     alt: University of Nottingham Logo
    description:
     - In August 2016 graduated from the University of Nottingham with a First in Computer Science. I spent a year placement at Intel between my second and third year, where I worked in the Developer Relation Division, working on a large UK Android tablet project, and playing with [Intel Realsense](http://software.intel.com/realsense).
-    - For my final year dissertation, I worked on [*'Evaluating Application Sandbox Systems on Linux'*](/projects/linux_access_permissions.html), which aims to provide permissions for Linux packages, focussing on protection of privacy.
+    - For my final year dissertation, I worked on [*'Evaluating Application Sandbox Systems on Linux'*](/projects/linux_access_permissions/), which aims to provide permissions for Linux packages, focussing on protection of privacy.
  - title: Teacher
-   image: teaching.png
+   image:
+     src: teaching.png
+     alt: Myself teaching an Introduction to Python Programming
    description:
    - I have always enjoyed teaching people; from GCSE my Computing teachers often told me that I should pursue a career in teaching, as I have always taken pleasure in the ability to help others. This has continued into my second year at University, where I applied to the Guru scheme, which was a team of hand-selected students to provide mentoring for first-year students, and aiding them with academic issues where required.
    - In addition, I co-organised the first Hacksoc *Introduction to Programming sessions*, which took students with no prior programming knowledge and brought them to the level of learning how to develop Android apps. After returning from my year at Intel, I decided that this was not the best course of action; the knowledge needed was vast, and required too much work to teach the fundamentals of programming through Java, and then leading into Android programming, all within one term. Instead, I decided that we would teach programming through Python, as a beginner-friendly language, with the final goal of learning Flask, the microwebframework. Over the autumn term in 2015, I found this to be an extremely effective course of action, and have had great feedback on the sessions.
@@ -21,27 +27,35 @@
     - I primarily use one-liners, but if it gets to be more complicated I will most probably write a Bash script, or for more robust scripts, with ease of readability and maintenance, write it in Python.
     - Unfortunately, I seem to fall prey to the ever relevant XKCDs; [Automation](https://xkcd.com/1319) [Is It Worth the Time?](https://xkcd.com/1205/) and [The General Problem](https://xkcd.com/974/)
  - title: Hacker
-   image: hackathon.png
+   image:
+     src: hackathon.png
+     alt: Enjoying Hack24 in Nottingham, 2016
    description:
    - I regularly participate in hackathons, where I love spending the weekend learning something new and building something awesome. I don't always have a finished project to show for it, but I really enjoy the learning process itself.
    - I have found recently that I have been taking more of a teaching role, teaming up with less experienced hackers, and helping them with learning something new, than building something myself. On the whole, this provides me with a way to test my own knowledge, and to also give back to the community.
  - title: Competitive Programmer
-   image: icpc_logo.jpg
+   image:
+     src: icpc_logo.jpg
+     alt: International Collegiate Programming Contest Logo
    description:
    - Since my second year of university, I have enjoyed participating in ACM-style programming competitions. These have been useful not just for the ability to expand my problem solving skills, but also for the chance to learn C++ in much more depth, exposing me to the ins and outs of the C++ Standard Library.
    - I've recently started using a TDD approach to automate testing of problems, which allows me to run my tests on each file save. The rapid method in which I am able to increment my solution allows me to more quickly tackle the problem, and lets me focus on implementing solutions instead of being bogged down by working out the best method of testing.
  - title: Sysadmin
-   image: sysadmin.jpg
+   image:
+     src: sysadmin.jpg
+     alt: Sysadmin t-shirt
    description:
    - For the past few years, I have been developing my skills as a sysadmin, by hosting a web server that provides websites for a few clients that I developed websites for.
    - My server skills were built upon further when I was working at Intel, and was tasked with setting up an internal server in which to host files, and run Android builds on.
    - As part of my work, I have also been working with Continuous Integration and Continuous Deployment tools, such as setting up the [HackNotts](http://hacknotts.com) site with [Travis-CI](http://travis-ci.com) which deployed to Amazon S3, or [Capistrano](http://capistranorb.com) as a deploy tool for [the Nottingham Women in Tech conference site](http://inspirewit.com).
  - title: Arch Linux User
-   image: arch_logo.png
+   image:
+     src: arch_logo.png
+     alt: Arch Linux logo
    description:
-    - I run [Arch Linux](https://archlinux.org) installations on my [desktop](/devices/desktop) and [laptop](/devices/laptop). They run a minimal system, preferring a Tiling WM called [BSPWM](https://github.com/baskerville/bspwm) over a fully blown environment such as Gnome, as it allows me to maintain a keyboard-driven setup which greatly increases my productivity.
+    - I run [Arch Linux](https://archlinux.org) installations on my [desktop](/devices/desktop/) and [laptop](/devices/laptop/). They run a minimal system, preferring a Tiling WM called [BSPWM](https://github.com/baskerville/bspwm) over a fully blown environment such as Gnome, as it allows me to maintain a keyboard-driven setup which greatly increases my productivity.
     - I choose to use Arch Linux over other distributions because Arch gives me the choice with how I want to run my machine; by default Arch has a very limited base Operating System, which provides the ability for users to control how their system is set up. I enjoy developing and optimising my workflow, and as such, I like having a system in which I can limit the number of moving parts and ensure I have the minimal working environment required.
-    - I also love [ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing) [my Arch Linux installs](//blog.jamietanna.co.uk/devices). I constantly try to improve my setup; my installs are evolutionary, not static, and adapt to my changing usage model.
+    - I also love [ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing) [my Arch Linux installs](/devices/). I constantly try to improve my setup; my installs are evolutionary, not static, and adapt to my changing usage model.
  - title: Gamer
    icon: fa-gamepad
    description:

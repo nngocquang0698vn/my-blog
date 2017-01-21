@@ -7,6 +7,7 @@ variables:
   CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_URL:$CI_BUILD_REF_SLUG
   CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_URL:latest
   DOCKER_DRIVER: overlay
+  DOCKER_BASE_IMAGE: debian:jessie
 
 stages:
   - test
@@ -18,8 +19,11 @@ build_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    # pull the latest base image on a master build
+    - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
     - docker pull $CONTAINER_TEST_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
     - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_TEST_IMAGE .
+    - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
     - docker push $CONTAINER_TEST_IMAGE
     # any other test commands on the end site would go here
 # }}}

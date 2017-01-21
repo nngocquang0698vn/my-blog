@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:jessie
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 
 ENV DEBIAN_FRONTEND=noninteractive \
@@ -17,7 +17,7 @@ RUN apt update &&\
 	curl -sL https://nodejs.org/dist/v${NODEJS_VERSION}/node-v${NODEJS_VERSION}-linux-x64.tar.gz | tar xz --strip-components=1 &&\
 	# }}}
 	# Ruby {{{
-	apt install -y git build-essential ruby-full &&\
+	apt install -y git build-essential ruby-full zlib1g-dev &&\
   gem install bundle &&\
 	# }}}
 	# Cleanup {{{
@@ -33,6 +33,9 @@ WORKDIR "/site"
 ADD package.json /site/
 ADD Gemfile /site/
 ADD Gemfile.lock /site/
+
+# https://github.com/docker-library/ruby/issues/45
+ENV LANG C.UTF-8
 
 # Install Ruby and NPM depdendencies, globally {{{
 # This is so we don't have to work out a nice way of mounting site dependencies

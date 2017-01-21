@@ -15,7 +15,7 @@ layout: default
 										<p>{{ page.description }}</p>
 								</div>
 								<div class="4u 12u$(medium)">
-										<img class="post-image" src="{{ site.url | append: '/' | append: site.baseurl | append: '/images/' | append: page.image }}" />
+										<img class="post-image" src="{{ append: site.baseurl | append: '/images/' | append: page.image }}" alt="{{ page.title}}"/>
 								</div>
 						</div>
 				</div>

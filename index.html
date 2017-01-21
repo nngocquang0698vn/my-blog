@@ -28,7 +28,7 @@ title: Jamie Tanna | Developer
 		<div class="inner">
 			<div class="image">
 				{% if section.image %}
-				<img src="{{ site.baseurl | append: '/images/' | append: section.image }}" alt="" />
+				<img src="{{ site.baseurl | append: 'images/' | append: section.image.src }}" alt="{{ section.image.src }}" />
 				{% else if section.icon %}
 				<i class="fa {{ section.icon }}"></i>
 				{% endif %}

@@ -8,6 +8,8 @@ url: ""
 twitter_username: jamietanna
 github_username:  jamietanna
 
+permalink: /posts/:categories/:year/:month/:day/:title/
+
 markdown: kramdown
 
 kramdown:
