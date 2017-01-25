@@ -71,8 +71,9 @@ gulp.task('watch', function() {
 	gulp.watch('feed.xml', ['build']);
 	gulp.watch('_data/*', ['build']);
 	gulp.watch('projects/*', ['build']);
-	gulp.watch('_drafts/*', ['build']);
-	// gulp.watch(['_*'], ['build']);
+	if (config.drafts) {
+		gulp.watch('_drafts/*', ['build']);
+	}
 });
 
 gulp.task('serve', ['watch'], serve({
