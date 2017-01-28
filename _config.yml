@@ -8,6 +8,13 @@ url: ""
 twitter_username: jamietanna
 github_username:  jamietanna
 
+# html minify
+# compress_html:
+#   clippings: all
+#   comments: all
+#   endings: []
+#   profile: false
+
 permalink: /posts/:categories/:year/:month/:day/:title/
 
 markdown: kramdown
@@ -34,7 +41,6 @@ exclude:
 - README.md
 - elements.html
 - builder
-- assets
 - Dockerfile
 
 gems:
