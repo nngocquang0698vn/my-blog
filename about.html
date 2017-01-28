@@ -1,0 +1,73 @@
+---
+layout: minimal
+---
+<img itemprop="image" class="img-rounded about_perfil" src="/assets/img/profile.jpg" alt="Victor Igor">
+
+<h2>About Me</h2>
+
+{% for section in site.data.aboutme %}
+<section>
+		<div class="image">
+			{% if section.image %}
+			<img src="/assets/img/{{  section.image.src }}" alt="{{ section.image.src }}" />
+			{% else if section.icon %}
+			<i class="fa {{ section.icon }}"></i>
+			{% endif %}
+		</div>
+		<div class="content">
+			<h2 class="major">{{ section.title }}</h2>
+			{% for paragraph in section.description %}
+			<p>{{ paragraph | markdownify }}</p>
+			{% endfor %}
+		</div>
+
+</section>
+{% endfor %}
+
+
+
+
+<div class="aboutme">
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h2 class="post-title" itemprop="name">{{ project.name }}</h2></a></li>
+	    {% endfor %}
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    {% include head.html %}
+    <body>
+        <div class="page_posts">
+        </div>
+        {% include scripts.html %}
+    </body>
+</html>
+
+{% assign isalt = false %}
+{% for section in site.data.aboutme %}
+  {% capture class %} {% cycle 'style1', 'style2', 'style3' %} {% endcapture %}
+  {% capture altclass %} {% cycle '', 'alt' %} {% endcapture %}
+  {% if altclass == ' alt ' %}
+    {% assign isalt = true %}
+  {% else %}
+    {% assign isalt = false %}
+  {% endif %}
+
+<section class="wrapper spotlight style1 {{ class }} {{ altclass }}">
+	<div class="inner">
+	</div>
+</section>
+{% endfor %}
