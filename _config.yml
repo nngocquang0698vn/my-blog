@@ -20,7 +20,7 @@ gitlab_username:  jamietanna
 #   endings: []
 #   profile: false
 
-permalink: /posts/:categories/:year/:month/:day/:title/
+permalink: /posts/:year/:month/:day/:title/
 
 markdown: kramdown
 
