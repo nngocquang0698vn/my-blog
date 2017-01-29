@@ -85,7 +85,7 @@
     bs.searchform.toggleClass('active');
     bs.searchform.find('input').focus();
     bs.canvas.toggleClass('search-overlay');
-    $('.search-field').simpleJekyllSearch();
+    $('.search-field').simpleJekyllSearch(jekyllSearchOptions);
   });
 
   bs.close.on('click', function() {

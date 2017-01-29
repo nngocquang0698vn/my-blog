@@ -11,6 +11,13 @@ layout: compress
         {% include header-post.html %}
         {% include tree-projects.html %}
         </div>
+        <script type="text/javascript" charset="utf-8">
+        var jekyllSearchOptions = {
+          jsonFile        : '/search/projects.json',
+          jsonFormat      : 'title,tech_stack,description,url,date,shortdate',
+          template : '<li><article><a href="{url}">{title}: {description}</a></article></li>',
+        };
+        </script>
         {% include scripts.html %}
     </body>
 </html>

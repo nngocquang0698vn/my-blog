@@ -11,6 +11,13 @@ layout: compress
         {% include header-post.html %}
         {% include tree-posts.html %}
         </div>
+        <script type="text/javascript" charset="utf-8">
+        var jekyllSearchOptions = {
+          jsonFile        : '/search/posts.json',
+          jsonFormat      : 'title,category,desc,url,date,shortdate',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
+        };
+        </script>
         {% include scripts.html %}
     </body>
 </html>
