@@ -29,13 +29,13 @@ layout: minimal
 										<div class="12u">
 										{% endif %}
 
-												<h3 class="major">Overview</h3>
+												<h2 class="major">Overview</h2>
 												{{ content | markdownify }}
 										</div>
 										{% if isTechStack or isRepoAvailable or isSiteAvailable %}
 										<div class="4u 12u$(medium)">
 										{% if isTechStack %}
-												<h3 class="major">Tech Stack</h3>
+												<h2 class="major">Tech Stack</h2>
 												<p>This project was built using the following technologies:</p>
 												<ul>
 														{% for tech_item in page.tech_stack %}
@@ -45,7 +45,7 @@ layout: minimal
 												</ul>
 										{% endif %}
 										{% if isRepoAvailable or isSiteAvailable %}
-												<h3 class="major">Project Links</h3>
+												<h2 class="major">Project Links</h2>
 												{% if page.site_url %}
 												<p> Visit the project's official site at:</p><a href="{{ page.site_url }}" class="special">{{ page.site_name }}</a>
 												{% endif %}
