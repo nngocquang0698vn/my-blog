@@ -32,14 +32,14 @@ highlighter: rouge
 links:
   - title: home
     url: /
+  - title: about me
+    url: /about
   - title: my blog
     url: /posts
   - title: series
     url: /series
   - title: tags
     url: /tags
-  - title: about me
-    url: /about
 
 exclude:
 - Gemfile
