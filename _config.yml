@@ -2,7 +2,9 @@ name: Jamie Tanna
 title: Jamie Tanna | Developer
 title_short: Jamie Tanna
 email: hi@jamietanna.co.uk
-image: profile.png
+image:
+  src: profile.png
+  alt: Me at Hack24
 description: >
     The personal website for Jamie Tanna, a software developer from London.
 baseurl: ""
