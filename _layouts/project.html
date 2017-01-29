@@ -2,10 +2,8 @@
 layout: minimal
 ---
 {% assign isTechStack = page.tech_stack.size > 0 %}
-{% capture isRepoAvailable %}
-	{{ page.gitlab}}{{ page.github }}
-{% endcapture %}
-{% assign isSiteAvailable = page.site_url %}
+{% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
+{% assign isSiteAvailable = page.site_url is defined %}
 <article class="post wrapper project">
 		<header class="post-header">
 				<div class="inner">
