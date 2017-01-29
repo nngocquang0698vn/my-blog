@@ -9,7 +9,8 @@ var gulp        = require('gulp'),
 	koutoSwiss  = require('kouto-swiss'),
 	prefixer    = require('autoprefixer-stylus'),
 	imagemin    = require('gulp-imagemin'),
-	cp          = require('child_process');
+	cp          = require('child_process'),
+	gutil       = require('gulp-util');
 
 var messages = {
 	jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -17,12 +18,22 @@ var messages = {
 
 var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'bundle';
 
+var config = {
+	drafts: !!gutil.env.drafts,
+	production: !!gutil.env.production,
+};
+
 /**
  * Build the Jekyll Site
  */
 gulp.task('jekyll-build', function (done) {
 	browserSync.notify(messages.jekyllBuild);
-	return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
+	args = ['exec', 'jekyll', 'build'];
+	if (config.drafts) {
+		// we need this as the first argument after `build`
+		args.push('--drafts');
+	}
+	return cp.spawn('bundle', args, {stdio: 'inherit'})
 		.on('close', done);
 });
 
@@ -90,11 +101,15 @@ gulp.task('watch', function () {
 	gulp.watch('src/styl/**/*.styl', ['stylus']);
 	gulp.watch('src/js/**/*.js', ['js']);
 	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
-	gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
+	gulp.watch(['_data/*', '*.md','*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
+	if (config.drafts) {
+		gulp.watch('_drafts/*', ['jekyll-rebuild']);
+	}
 });
 
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
+gulp.task('default', ['build', 'browser-sync', 'watch']);
+gulp.task('build', ['js', 'stylus', 'jekyll-build']);
