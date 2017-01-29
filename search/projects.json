@@ -1,0 +1,11 @@
+---
+---
+[
+  {% assign projects = site.pages | where:'layout','project' %}
+  {% for project in projects %}
+  {
+    "title"     : "{{ project.title | escape }}",
+    "tech_stack": "{{ project.tech_stack | join:',' }}",
+    "url"       : "{{ site.baseurl }}{{ project.url }}"
+  }{% unless forloop.last %},{% endunless %}{% endfor %}
+]
