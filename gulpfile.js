@@ -16,8 +16,6 @@ var messages = {
 	jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
-var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'bundle';
-
 var config = {
 	drafts: !!gutil.env.drafts,
 	production: !!gutil.env.production,
