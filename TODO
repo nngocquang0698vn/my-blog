@@ -1,7 +1,13 @@
-- scripts
 - link to site by clicking site name in `_includes/header-post.html`
-- footer!
 - use `last-modified` attribute for each page
 - fix `/tags/`
 - fix running on Windows? or remove
-- add anything useful from `--production` from `master`
+- should have search across everything?
+- should have default search option
+- icons don't display correctly (at large sizes, as with previous site)
+- /projects/
+	- [ ] `img`s point to wrong URL
+	- [ ] no CSS (still using old theme)
+	- [ ] Is this the way we want it to be done? Or like on the homepage?
+- /posts/
+	- list the blog entries, blurb
