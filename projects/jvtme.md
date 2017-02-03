@@ -1,7 +1,7 @@
 ---
 layout: project
 title: jvt.me
-image: projects-jvtme.png
+image: jvtme.png
 github:
 gitlab: jamietanna/jvt.me
 description: My personal website and blog, built on Jekyll.

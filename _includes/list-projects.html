@@ -5,7 +5,7 @@
 		{% assign projects = site.pages | where:"layout", "project" %}
 		{% for project in projects %}
 		<article>
-			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/images/' | append: project.image}}" alt="{{ project.title }}" /></a>
+			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/assets/img/projects/' | append: project.image}}" alt="{{ project.title }}" /></a>
 			<h3 class="major">{{ project.title }} </h3>
 			{% for paragraph in project.description: %}
 			<p>{{ paragraph }}</p>

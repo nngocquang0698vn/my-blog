@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Dotfiles
-image: projects-dotfiles.png
+image: dotfiles.png
 github: jamietanna/dotfiles-arch
 gitlab:
 description: My configuration files for my Linux installations; be it Vim, Zsh, or BSPWM.

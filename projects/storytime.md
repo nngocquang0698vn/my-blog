@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Storyti.me
-image: projects-storytime.png
+image: storytime.png
 github:
 gitlab:
 site_url:
