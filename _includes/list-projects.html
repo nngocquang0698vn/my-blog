@@ -10,13 +10,18 @@
 			{% for paragraph in project.description: %}
 			<p>{{ paragraph }}</p>
 			{% endfor %}
-			<a href="{{ project.url }}" class="special">Read More</a>
-			{% if project.gitlab: %}
-			<a href="https://gitlab.com/{{ project.gitlab }}" class="special gitlab">Gitlab</a>
-			{% endif %}
-			{% if project.github: %}
-			<a href="https://github.com/{{ project.github }}" class="special github">Github</a>
-			{% endif %}
+			<caption>
+				<a href="{{ project.url }}">Read more about the project</a>
+				{% if project.gitlab or project.github %}
+				, or view the project on
+				{% if project.gitlab %}
+				<a href="https://gitlab.com/{{ project.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
+				{% endif %}
+				{% if project.github %}
+				<a href="https://github.com/{{ project.github }}"><i class="fa fa-github"></i> Github</a>
+				{% endif %}
+				{% endif %}
+			</caption>
 		</article>
 		{% endfor %}
 	</section>
