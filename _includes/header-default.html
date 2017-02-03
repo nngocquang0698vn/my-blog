@@ -58,12 +58,11 @@
 
         <ul class="recent">
             <p>Recent projects:</p>
-            {% for project in site.pages %}
-            {% if project.layout == 'project' %}
+            {% assign projects = site.pages | where:"layout", "project" %}
+            {% for project in projects %}
             <li>
                 <a href="{{ project.url }}"><h2 class="post-title" itemprop="name">{{ project.title }}</h2></a>
             </li>
-            {% endif %}
             {% endfor %}
         </ul>
 

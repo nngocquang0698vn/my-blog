@@ -2,8 +2,8 @@
 	<h2 class="major">My Projects</h2>
 	<p>Below you can find some of the projects I've worked on in the past.</p>
 	<section class="features">
-		{% for project in site.pages %}
-		{% if project.layout == 'project' %}
+		{% assign projects = site.pages | where:"layout", "project" %}
+		{% for project in projects %}
 		<article>
 			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/images/' | append: project.image}}" alt="{{ project.title }}" /></a>
 			<h3 class="major">{{ project.title }} </h3>
@@ -18,7 +18,6 @@
 			<a href="https://github.com/{{ project.github }}" class="special github">Github</a>
 			{% endif %}
 		</article>
-		{% endif %}
 		{% endfor %}
 	</section>
 </div>
