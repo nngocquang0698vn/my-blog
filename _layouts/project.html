@@ -4,6 +4,14 @@ layout: minimal
 {% assign isTechStack = page.tech_stack.size > 0 %}
 {% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
 {% assign isSiteAvailable = page.site_url is defined %}
+{% capture repoLinks %}
+{% if page.gitlab %}
+<a href="https://gitlab.com/{{ page.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
+{% endif %}
+{% if page.github %}
+<a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i> Github</a>
+{% endif %}
+{% endcapture %}
 <article class="post wrapper project">
 		<header class="post-header">
 				<div class="inner">
@@ -47,16 +55,10 @@ layout: minimal
 										{% if isRepoAvailable or isSiteAvailable %}
 												<h2 class="major">Project Links</h2>
 												{% if page.site_url %}
-												<p> Visit the project's official site at:</p><a href="{{ page.site_url }}" class="special">{{ page.site_name }}</a>
+												<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name }}</a>.</p>
 												{% endif %}
 												{% if isRepoAvailable %}
-												<p>Find the project on:</p>
-												{% endif %}
-												{% if page.github %}
-												<a href="https://github.com/{{ page.github }}" class="special github">Github</a>
-												{% endif %}
-												{% if page.gitlab %}
-												<a href="https://gitlab.com/{{ page.gitlab }}" class="special gitlab">Gitlab</a>
+                        <p>Find the project on {{ repoLinks }}.</p>
 												{% endif %}
 										{% endif %}
 										</div>
