@@ -1,12 +1,12 @@
 <div class="inner">
-	<h2 class="major">My Projects</h2>
+	<h1 class="major">My Projects</h1>
 	<p>Below you can find some of the projects I've worked on in the past.</p>
 	<section class="features">
 		{% assign projects = site.pages | where:"layout", "project" %}
 		{% for project in projects %}
 		<article>
 			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/assets/img/projects/' | append: project.image}}" alt="{{ project.title }}" /></a>
-			<h3 class="major">{{ project.title }} </h3>
+			<h2 class="major">{{ project.title }}</h2>
 			<caption>
 				{% for paragraph in project.description: %}
 				<p>{{ paragraph }}</p>
