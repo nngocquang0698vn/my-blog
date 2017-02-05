@@ -80,6 +80,15 @@
     dothis: $('.dosearch')
   };
 
+  if ('undefined' === typeof jekyllSearchOptions) {
+    var jekyllSearchOptions = {
+      jsonFile        : '/search/all.json',
+      jsonFormat      : 'title,description,url,date,shortdate',
+      template : '<li><article><a href="{url}">{title}: {description}</a></article></li>',
+    };
+
+  }
+
   bs.dothis.on('click', function() {
     $('.search-wrapper').toggleClass('active');
     bs.searchform.toggleClass('active');
