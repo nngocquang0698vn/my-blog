@@ -1,23 +1,18 @@
 ---
-layout: compress
+layout: minimal
+title: My Posts
+description: Some of the blog posts I've made over time.
 ---
-
-<!DOCTYPE html>
-<html lang="pt-br">
-    {% include head.html %}
-    <body>
-        <div class="page_posts">
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        {% include tree-posts.html %}
-        </div>
-        <script type="text/javascript" charset="utf-8">
-        var jekyllSearchOptions = {
-          jsonFile        : '/search/posts.json',
-          jsonFormat      : 'title,category,desc,url,date,shortdate',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
-        };
-        </script>
-        {% include scripts.html %}
-    </body>
-</html>
+<div>
+	<h1>{{ page.title }}</h1>
+	<p>{{ page.description }}</p>
+	<section>
+		{% for post in site.posts %}
+		<article>
+			<h2>{{ post.title }}</h2>
+			<p>{{ post.description | markdownify }}</p>
+			<p><a href="{{ post.url }}">Read more</a></p>
+		</article>
+		{% endfor %}
+	</section>
+</div>
