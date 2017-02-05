@@ -1,0 +1,19 @@
+---
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "Post: {{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date | date_to_string}}"
+    },
+  {% endfor %}
+  {% assign projects = site.pages | where:'layout','project' %}
+  {% for project in projects %}
+  {
+    "title"     : "Project: {{ project.title | escape }}",
+    "description"     : "{{ project.description | escape }}",
+    "url"       : "{{ site.baseurl }}{{ project.url }}"
+  }{% unless forloop.last %},{% endunless %}{% endfor %}
+]
+
