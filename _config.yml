@@ -58,6 +58,8 @@ exclude:
 - elements.html
 - builder
 - Dockerfile
+- src
+- log
 
 gems:
   - jekyll-seo-tag
