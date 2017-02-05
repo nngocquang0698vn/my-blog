@@ -6,7 +6,7 @@ layout: minimal
 <h2>About Me</h2>
 
 {% for section in site.data.aboutme %}
-<section>
+<section class="aboutme">
 		<div class="image">
 			{% if section.image %}
 			<img src="/assets/img/{{  section.image.src }}" alt="{{ section.image.src }}" />
