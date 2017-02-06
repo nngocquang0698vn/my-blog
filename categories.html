@@ -6,17 +6,6 @@ description: "Take a look at my beautiful categories."
 ---
 <h1>Categories</h1>
 <div class="categories">
-{% assign categories_list = site.tags %}
-  {% if categories_list.first[0] == null %}
-    {% for tag in categories_list %}
-        <a data-scroll href="#{{ tag | slugify }}">{{ tag }}</a>
-    {% endfor %}
-  {% else %}
-    {% for tag in categories_list %}
-        <a data-scroll href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
-    {% endfor %}
-  {% endif %}
-{% assign categories_list = nil %}
 </div>
 
 {% for tag in site.categories  %}
