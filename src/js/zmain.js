@@ -83,8 +83,8 @@
   if ('undefined' === typeof jekyllSearchOptions) {
     var jekyllSearchOptions = {
       jsonFile        : '/search/all.json',
-      jsonFormat      : 'title,description,url,date,shortdate',
-      template : '<li><article><a href="{url}"><strong>{title}</strong>: {description}</a></article></li>',
+      jsonFormat      : 'title,description,url,categories,date,shortdate',
+      template : '<li><article><a href="{url}"><strong>{title}</strong>: {description} (<code>{categories}</code>)</a></article></li>',
     };
 
   }

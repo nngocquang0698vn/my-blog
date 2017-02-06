@@ -6,7 +6,8 @@
       "title"    : "Post: {{ post.title | escape }}",
       "description": "{{ post.description | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date_to_string}}"
+      "date"     : "{{ post.date | date_to_string}}",
+      "categories": "{{ post.categories | join:',' }}"
     },
   {% endfor %}
   {% assign projects = site.pages | where:'layout','project' %}
@@ -14,7 +15,8 @@
   {
     "title"     : "Project: {{ project.title | escape }}",
     "description"     : "{{ project.description | escape }}",
-    "url"       : "{{ site.baseurl }}{{ project.url }}"
+    "url"       : "{{ site.baseurl }}{{ project.url }}",
+    "categories": "{{ project.tech_stack | join:',' }}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
 
