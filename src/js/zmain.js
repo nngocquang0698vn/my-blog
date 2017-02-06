@@ -84,7 +84,7 @@
     var jekyllSearchOptions = {
       jsonFile        : '/search/all.json',
       jsonFormat      : 'title,description,url,date,shortdate',
-      template : '<li><article><a href="{url}">{title}: {description}</a></article></li>',
+      template : '<li><article><a href="{url}"><strong>{title}</strong>: {description}</a></article></li>',
     };
 
   }
