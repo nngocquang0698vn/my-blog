@@ -32,6 +32,11 @@
         case "Escape":
           $('#fade').trigger('click');
           break;
+        case '/':
+          $('#fade').trigger('click');
+          $("#search").trigger('click');
+          e.preventDefault();
+          break;
       }
     }
     //sidebar active
