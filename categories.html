@@ -5,13 +5,10 @@ permalink: /categories/index.html
 description: "Take a look at my beautiful categories."
 ---
 <h1>Categories</h1>
-<div class="categories">
-</div>
-
-{% for tag in site.categories  %}
-    <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] }}</span>
+{% for category in site.categories  %}
+    <span class="category-title" id="{{ category[0] | slugify }}">{{ category[0] }}</span>
     <ul class="post-list">
-        {% assign pages_list = tag[1] %}
+        {% assign pages_list = category[1] %}
         {% for post in pages_list reversed %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
