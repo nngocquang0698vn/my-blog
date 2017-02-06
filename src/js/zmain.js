@@ -60,6 +60,9 @@
         case "g":
           $("#sidebar ul:nth-child(2) li:first-child a").trigger('click');
           break;
+        case "h":
+          $("#sidebar ul:nth-child(2) li:nth-child(2) a").trigger('click');
+          break;
         case "s":
           $('#fade').trigger('click');
           $("#search").trigger('click');
