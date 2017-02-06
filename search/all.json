@@ -4,6 +4,7 @@
   {% for post in site.posts %}
     {
       "title"    : "Post: {{ post.title | escape }}",
+      "description": "{{ post.description | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date_to_string}}"
     },
