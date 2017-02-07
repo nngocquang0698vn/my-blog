@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Open S-awesome
-description: A month of giving back, and what I learned
+description: A month of giving back, and a very honest post-mortem of what I learned.
 categories: open-source free-software community
 ---
 
@@ -48,17 +48,17 @@ I managed to make all 24 contributions, which can be found below:
 - [bertrandkeller/overkyll-jekyll-theme](https://github.com/bertrandkeller/overkyll-jekyll-theme)
     - [Add screenshot to the README](https://github.com/bertrandkeller/overkyll-jekyll-theme/pull/6)
 
-One thing you'll notice is that I made a number of commits to the HacksocNotts repos: _11_ in total, in fact. Almost half of the things I helped out with were _??_.
+A total of 16 (66%) of the contributions I made were through projects I've previously contributed to. In effect, a mere third of my contributions over the month were for new projects I found.
 
-- Not great
-- Lots of smalelr changes
-- Not nearly as mcuh of an impact as Hacktoberfest
-- Felt making commits just because I had to
-- Lots of "easy" ones
-- Hacksoc were ones that were discussed/useful
-	- Things that can help with them (previously discussed)
-	- Things that have helped me understand more about Jekyll
-		- But the site should be Hacksoc people
+I found that looking forward during the month, I would collate a list of "easy" pull requests - these would be things I would much more easily be able to collect and get things `sorted` with. These would be some minor changes, such as adding links or pictures, and I would save them in a saved note, while browsing reddit or Hacker News threads. However, these minor changes, although they can be seen to be useful, didn't really add too much to the end user's experience, which is ideally what should be focussed on for the contributions we make.
+
+Because of this, I found that I didn't really have many large contributions to be proud of, unlike something like Hacktoberfest. I say that, but there are a couple of contributions such as the use of `htmlproofer` and programatically listing contributors to [`hacksocnotts.co.uk`](http://hacksocnotts.co.uk).
 
 
-**TODO** source of script?
+One thing you'll notice is that I made a number of commits to the HacksocNotts repos: _11_ in total, in fact. This number is a lot higher than I would have hoped; but again, a number of these contributions are ones that we have previously discussed as a "nice-to-have" and as I had the chance to work on changes, it made sense for me to make them. However, the issue with this is that Hacksoc is all about the members learning - and I shouldn't be taking that away from them. Instead of making these contributions, I should have made them as issues, and then given the community the chance to learn for themselves how to go about doing these. Although I was personally able to learn a lot, it isn't up to me to be learning through the Hacksoc sites!
+
+Overall, I am happy that I went through the experience, to see if I could, and what sort of level of commitment it would require. However, it's shown me how allocating time to side projects (on a deadline, no less) during a very busy month is not the best method of breeding strong contributions. I now know for the future not to push myself to hit a deadline with too high a limit, and instead realise that I need to aim for much more attainable goals.
+
+PS: I would say that actually, the script that let me determine which contributions I made over the month was slightly more useful in some cases. It can be found at [`get_pr.py`](https://gitlab.com/jamietanna/jvt.me/blob/master/get_pr.py), and will hopefully shed some insight into how the above Markdown list was generated automagically.
+
+[24pr]: http://24pullrequests.com/
