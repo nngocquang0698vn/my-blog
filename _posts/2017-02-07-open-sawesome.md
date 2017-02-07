@@ -2,7 +2,7 @@
 layout: post
 title:  Open S-awesome
 description: A month of giving back, and a very honest post-mortem of what I learned.
-categories: open-source free-software community
+categories: opensource freesoftware community
 ---
 
 In December, an event called [24 Pull Requests][24pr] promotes giving back to various FLOSS projects in _an advent-calendar esque_ way.
