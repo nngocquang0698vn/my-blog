@@ -64,12 +64,13 @@ strong {
 
 /* =Header */
 .wrapper {
-    max-width: 800px;
     margin: 100px auto;
 }
 
 .header {
     overflow: hidden;
+    max-width: 800px;
+    margin: 100px auto;
 }
 
 .navigation {
@@ -303,3 +304,39 @@ strong {
         font-size: 18px;
     }
 }
+
+/* Stolen from jekyll-space-theme {{{ */
+
+.highlight {
+	white-space: pre;
+	overflow: auto;
+	word-wrap: normal;
+	border-radius: 0;
+	padding: 20px;
+	background-color: #2f2f33;
+	color: #c1c2c3;
+	margin: 0;
+	margin-bottom: 30px;
+}
+
+.content p, .content h1, .content h2, .content h3, .content h4, .content ul, .content ol, .content .tags, .content iframe {
+    max-width: 50rem;
+    padding: 0 1.25rem;
+    margin: 0 auto 1.875rem;
+    line-height: 2;
+    letter-spacing: .01rem;
+}
+
+pre code {
+	width: auto;
+	max-width: 50rem;
+	float: none;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0;
+	padding-right: 0;
+	padding: 0 1.25rem;
+}
+
+/* }}} */
