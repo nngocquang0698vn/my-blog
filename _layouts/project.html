@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<div class="content">
 {% assign isTechStack = page.tech_stack.size > 0 %}
 {% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
 {% assign isSiteAvailable = page.site_url is defined %}
@@ -68,3 +69,4 @@ layout: page
 				</div>
 		</div>
 </article>
+</div>
