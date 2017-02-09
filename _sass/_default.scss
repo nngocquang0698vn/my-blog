@@ -319,7 +319,7 @@ strong {
 	margin-bottom: 30px;
 }
 
-.content {
+.content,footer {
 	p, h1, h2, h3, h4, ul, ol, .tags, iframe {
 		max-width: 50rem;
 		padding: 0 1.25rem;
@@ -355,4 +355,5 @@ a {
 
 footer ul {
 	list-style: none;
+	text-align: center;
 }
