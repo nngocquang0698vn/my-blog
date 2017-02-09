@@ -1,0 +1,71 @@
+<header class="header-site" role="banner">
+    <div class="content">
+
+        <div class="person">
+            <img src="/assets/img/{{ site.image.src }}" alt="{{ site.image.alt }}">
+        </div>
+
+        <h1>
+            <span class="site-title default">[@{{ site.username }}]</span>
+        </h1>
+
+        <div class="icons-home">
+            {% if site.email: %}
+            <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
+                <i class="icon fa fa-envelope"></i>
+            </a>
+            {% endif %}
+
+            {% if site.twitter_username: %}
+            <a aria-label="My Twitter" title="Follow me on Twitter" target="_blank" href="https://twitter.com/{{site.twitter_username}}">
+                <i class="icon fa fa-twitter"></i>
+            </a>
+            {% endif %}
+
+            {% if site.gplus_username: %}
+            <a aria-label="My Google Plus" title="Show my feed" target="_blank" href="https://plus.google.com/u/0/+{{site.gplus_username}}/posts">
+                <i class="icon fa fa-google-plus"></i>
+            </a>
+            {% endif %}
+
+            {% if site.gitlab_username: %}
+            <a aria-label="My Gitlab" title="Show my projects" target="_blank" href="https://gitlab.com/{{site.gitlab_username}}">
+                <i class="icon fa fa-gitlab"></i>
+            </a>
+            {% endif %}
+
+            {% if site.github_username: %}
+            <a aria-label="My Github" title="Show my projects" target="_blank" href="https://github.com/{{site.github_username}}">
+                <i class="icon fa fa-github"></i>
+            </a>
+            {% endif %}
+
+            <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                <i class="icon fa fa-rss"></i>
+            </a>
+        </div>
+
+        <ul class="recent">
+            <p>Recent posts:</p>
+             {% for post in site.posts limit:5 %}
+                <li>
+                    <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
+                        <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+                    </a>
+                </li>
+              {% endfor %}
+        </ul>
+
+        <ul class="recent">
+            <p>Recent projects:</p>
+            {% assign projects = site.pages | where:"layout", "project" %}
+            {% for project in projects limit:5 %}
+            <li>
+                <a href="{{ project.url }}"><h2 class="post-title" itemprop="name">{{ project.title }}</h2></a>
+            </li>
+            {% endfor %}
+        </ul>
+
+    </div>
+    {% include menu-search.html %}
+</header>

@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<img itemprop="image" class="img-rounded about_perfil" src="/assets/img/{{ site.image.src }}" alt="{{ site.image.alt }}" />
+
+<h1>About Me</h1>
+
+{% for section in site.data.aboutme %}
+<section class="aboutme">
+		<div class="image">
+			{% if section.image %}
+			<img src="/assets/img/{{  section.image.src }}" alt="{{ section.image.src }}" />
+			{% else if section.icon %}
+			<i class="fa {{ section.icon }}"></i>
+			{% endif %}
+		</div>
+		<div class="content">
+			<h2 class="major">{{ section.title }}</h2>
+			{% for paragraph in section.description %}
+			<p>{{ paragraph | markdownify }}</p>
+			{% endfor %}
+		</div>
+
+</section>
+{% endfor %}

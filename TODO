@@ -1,0 +1,17 @@
+- use `last-modified` attribute for each page
+- fix `/tags/`
+- fix running on Windows? or remove
+- /projects/
+	- [ ] `img`s point to wrong URL
+	- [ ] no CSS (still using old theme)
+	- [ ] Is this the way we want it to be done? Or like on the homepage?
+- update `/projects/jvt.me`
+
+- add `#`s before each header
+- search
+- footer
+- frontpage
+- highlight on `get_pr.py`
+- add browsersync
+- gulp-ify it again
+- footer - i.e. copyright, commit

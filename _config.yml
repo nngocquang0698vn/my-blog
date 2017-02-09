@@ -1,14 +1,27 @@
+name: Jamie Tanna
 title: Jamie Tanna | Developer
 title_short: Jamie Tanna
 email: hi@jamietanna.co.uk
+image:
+  src: profile.png
+  alt: Me at Hack24
 description: >
     The personal website for Jamie Tanna, a software developer from London.
 baseurl: ""
 url: ""
+username: jamietanna
 twitter_username: jamietanna
 github_username:  jamietanna
+gitlab_username:  jamietanna
 
-permalink: /posts/:categories/:year/:month/:day/:title/
+# html minify
+# compress_html:
+#   clippings: all
+#   comments: all
+#   endings: []
+#   profile: false
+
+permalink: /posts/:year/:month/:day/:title/
 
 markdown: kramdown
 
@@ -16,6 +29,18 @@ kramdown:
     input: GFM
 
 highlighter: rouge
+
+links:
+  - title: home
+    url: /
+  - title: about me
+    url: /about
+  - title: my blog
+    url: /posts
+  - title: my projects
+    url: /projects
+  - title: categories
+    url: /categories/
 
 exclude:
 - Gemfile
@@ -34,8 +59,10 @@ exclude:
 - README.md
 - elements.html
 - builder
-- assets
 - Dockerfile
+- src
+- log
+- get_pr.py
 
 gems:
   - jekyll-seo-tag

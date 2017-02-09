@@ -1,7 +1,7 @@
 ---
 layout: project
 title: PySnake
-image: projects-pysnake.png
+image: pysnake.png
 github: jamietanna/pysnake
 gitlab:
 description: PySnake is a Snake game written in PyGame, with a few extra game mechanics to throw off the experienced.

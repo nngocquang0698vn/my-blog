@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Dotfiles
-image: projects-dotfiles.png
+image: dotfiles.png
 github: jamietanna/dotfiles-arch
 gitlab:
 description: My configuration files for my Linux installations; be it Vim, Zsh, or BSPWM.
@@ -12,4 +12,4 @@ I try to keep my dotfiles following good practices, both with Git, and with its 
 
 I recently added the ability to bootstrap my system by simply cloning the repo and running `./bootstrap.sh`, which installs my dotfiles in the correct places and installs all associated dependencies needed.
 
-I keep a branch for each of my devices, which allows me to have separate settings in each; in reality both branches are incredibly similar, and only differ with respect to DPI settings.
+Device-specific code is stored in the same branch, with the suffix set to the host. For instance, a custom `.vimrc` for the host `TheColonel` would be stored as `.vimrc.TheColonel`, and then will be unpacked to `.vimrc.local`.

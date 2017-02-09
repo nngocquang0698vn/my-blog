@@ -1,6 +1,17 @@
 ---
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap:
+  exclude: 'yes'
 ---
+@charset "utf-8";
 
-@import "main";
+/* =Colors */
+$dorian: #F5F5F5;
+$iron: #333333;
+$cloudy: #828282;
+
+@import
+    "mixins",
+    "default",
+    "404"
+;

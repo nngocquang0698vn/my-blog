@@ -15,9 +15,10 @@ coverage
 .sass-cache
 tmp/*
 .jekyll-metadata
-vendor
+/vendor
 /test/source/file_name.txt
 .analysis
 tmp
-assets/**/*
 node_modules
+assets/css/main.css
+assets/js/main.js

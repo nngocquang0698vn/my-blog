@@ -1,11 +1,18 @@
 ---
-layout: default
+layout: page
 ---
+<div class="content">
 {% assign isTechStack = page.tech_stack.size > 0 %}
-{% capture isRepoAvailable %}
-	{{ page.gitlab}}{{ page.github }}
+{% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
+{% assign isSiteAvailable = page.site_url is defined %}
+{% capture repoLinks %}
+{% if page.gitlab %}
+<a href="https://gitlab.com/{{ page.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
+{% endif %}
+{% if page.github %}
+<a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i> Github</a>
+{% endif %}
 {% endcapture %}
-{% assign isSiteAvailable = page.site_url %}
 <article class="post wrapper project">
 		<header class="post-header">
 				<div class="inner">
@@ -15,7 +22,7 @@ layout: default
 										<p>{{ page.description }}</p>
 								</div>
 								<div class="4u 12u$(medium)">
-										<img class="post-image" src="{{ site.baseurl | append: '/images/' | append: page.image }}" alt="{{ page.title}}"/>
+									<img class="post-image" src="/assets/img/projects/{{ page.image }}" alt="{{ page.title }}"/>
 								</div>
 						</div>
 				</div>
@@ -31,13 +38,13 @@ layout: default
 										<div class="12u">
 										{% endif %}
 
-												<h3 class="major">Overview</h3>
+												<h2 class="major">Overview</h2>
 												{{ content | markdownify }}
 										</div>
 										{% if isTechStack or isRepoAvailable or isSiteAvailable %}
 										<div class="4u 12u$(medium)">
 										{% if isTechStack %}
-												<h3 class="major">Tech Stack</h3>
+												<h2 class="major">Tech Stack</h2>
 												<p>This project was built using the following technologies:</p>
 												<ul>
 														{% for tech_item in page.tech_stack %}
@@ -47,18 +54,12 @@ layout: default
 												</ul>
 										{% endif %}
 										{% if isRepoAvailable or isSiteAvailable %}
-												<h3 class="major">Project Links</h3>
+												<h2 class="major">Project Links</h2>
 												{% if page.site_url %}
-												<p> Visit the project's official site at:</p><a href="{{ page.site_url }}" class="special">{{ page.site_name }}</a>
+												<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name }}</a>.</p>
 												{% endif %}
 												{% if isRepoAvailable %}
-												<p>Find the project on:</p>
-												{% endif %}
-												{% if page.github %}
-												<a href="https://github.com/{{ page.github }}" class="special github">Github</a>
-												{% endif %}
-												{% if page.gitlab %}
-												<a href="https://gitlab.com/{{ page.gitlab }}" class="special gitlab">Gitlab</a>
+                        <p>Find the project on {{ repoLinks }}.</p>
 												{% endif %}
 										{% endif %}
 										</div>
@@ -68,3 +69,4 @@ layout: default
 				</div>
 		</div>
 </article>
+</div>
