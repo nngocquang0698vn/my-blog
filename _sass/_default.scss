@@ -319,12 +319,14 @@ strong {
 	margin-bottom: 30px;
 }
 
-.content p, .content h1, .content h2, .content h3, .content h4, .content ul, .content ol, .content .tags, .content iframe {
-    max-width: 50rem;
-    padding: 0 1.25rem;
-    margin: 0 auto 1.875rem;
-    line-height: 2;
-    letter-spacing: .01rem;
+.content {
+	p, h1, h2, h3, h4, ul, ol, .tags, iframe {
+		max-width: 50rem;
+		padding: 0 1.25rem;
+		margin: 0 auto 1.875rem;
+		line-height: 2;
+		letter-spacing: .01rem;
+	}
 }
 
 pre code {
