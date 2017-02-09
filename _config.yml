@@ -62,6 +62,7 @@ exclude:
 - Dockerfile
 - src
 - log
+- get_pr.py
 
 gems:
   - jekyll-seo-tag
