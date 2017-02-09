@@ -1,13 +1,11 @@
 var gulp        = require('gulp'),
 	plumber     = require('gulp-plumber'),
 	browserSync = require('browser-sync'),
-	stylus      = require('gulp-stylus'),
 	uglify      = require('gulp-uglify'),
 	concat      = require('gulp-concat'),
 	jeet        = require('jeet'),
 	rupture     = require('rupture'),
 	koutoSwiss  = require('kouto-swiss'),
-	prefixer    = require('autoprefixer-stylus'),
 	imagemin    = require('gulp-imagemin'),
 	cp          = require('child_process'),
 	gutil       = require('gulp-util');
@@ -55,21 +53,6 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
 });
 
 /**
- * Stylus task
- */
-gulp.task('stylus', function(){
-		gulp.src('src/styl/main.styl')
-		.pipe(plumber())
-		.pipe(stylus({
-			use:[koutoSwiss(), prefixer(), jeet(),rupture()],
-			compress: true
-		}))
-		.pipe(gulp.dest('_site/assets/css/'))
-		.pipe(browserSync.reload({stream:true}))
-    .pipe(gulp.dest('assets/css'));
-});
-
-/**
  * Javascript Task
  */
 gulp.task('js', function(){
@@ -93,11 +76,9 @@ gulp.task('imagemin', function() {
 });
 
 /**
- * Watch stylus files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function () {
-	gulp.watch('src/styl/**/*.styl', ['stylus']);
 	gulp.watch('src/js/**/*.js', ['js']);
 	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
 	gulp.watch(['search/*', '_config*.yml', '_data/*', '*.md','*.html', '_includes/*.html', '_layouts/*.html', '_posts/*', 'projects/*'], ['jekyll-rebuild']);
@@ -111,4 +92,4 @@ gulp.task('watch', function () {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', ['build', 'browser-sync', 'watch']);
-gulp.task('build', ['js', 'stylus', 'jekyll-build']);
+gulp.task('build', ['js', 'jekyll-build']);
