@@ -5,7 +5,7 @@ layout: default
 		<ul class="recent">
 				<p>Recent posts:</p>
 				{% for post in site.posts limit:5 %}
-				<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>: {{ post.description }}</li>
+				<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>: {{ post.description | markdownify }}</li>
 				{% endfor %}
 		</ul>
 </div>
