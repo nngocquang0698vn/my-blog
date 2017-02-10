@@ -1,21 +1,10 @@
 {
-  "name": "victorigortemplate",
+  "name": "jvt.me",
   "version": "1.0.0",
-  "description": "My jekyll blog template.",
+  "description": "The site of Jamie Tanna, built with Jekyll and Gulp",
   "main": "gulpfile.js",
-  "scripts": {
-    "test": "test"
-  },
-  "keywords": [
-    "frontend",
-    "blog",
-    "css",
-    "gulp",
-    "jekyll",
-    "js"
-  ],
-  "author": "Victor Igor",
-  "license": "ISC",
+  "author": "Jamie Tanna",
+  "license": "GPL3",
   "devDependencies": {
     "browser-sync": "^1.9.0",
     "grunt": "^0.4.5",
