@@ -114,10 +114,6 @@ capistrano:
   title: Capistrano
   link: http://capistranorb.com
   description: An tool for making web application deployments easier.
-solidstatehtml5up:
-  title: Solid State Theme
-  link: http://html5up.net/solid-state
-  description: An HTML5 template that powers this site.
 mongodb:
   title: MongoDB
   link: http://mongodb.org
@@ -130,3 +126,19 @@ jquerymobile:
   title: jQuery Mobile
   link: http://jquerymobile.com
   description: A web framework which is optimised for touch devices.
+gitlabci:
+  title: Gitlab.com Continuous Integration
+  link: https://about.gitlab.com/gitlab-ci/
+  description: Docker container-based Continuous Integration and Continuous Deployment pipelines built into Gitlab.com.
+daktilo:
+  title: Daktilo Jekyll Theme
+  link: https://github.com/kronik3r/daktilo
+  description: Daktilo is a Jekyll theme with a minimal design inspired from typewriters.
+gulp:
+  title: Gulp
+  link: http://gulpjs.com/
+  description: Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something.
+browsersync:
+  title: Browsersync
+  link: https://www.browsersync.io/
+  description: Time-saving synchronised browser testing that provides features such as live reloads, click mirroring and form replication.
