@@ -1,6 +1,6 @@
 /* =Base */
 body {
-    font-family: 'Inconsolata', ;
+    font-family: 'Inconsolata', monospace;
     color: $iron;
     background-color: $dorian;
 }
@@ -253,10 +253,6 @@ strong {
         line-height: 1.6;
     }
 
-    .wrapper {
-        width: 90%;
-    }
-
     .navigation,
     .social-links {
         @include centered-block();
@@ -357,3 +353,41 @@ footer ul {
 	list-style: none;
 	text-align: center;
 }
+
+.divider {
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 8.18px;
+    color: $cloudy;
+    margin-top: 100px;
+}
+
+// Markdownify {{{
+@function getMultipleOfCharacter($char, $count) {
+	$content: "";
+	@for $i from 1 through $count {
+		$content: "#{$content}#{$char}";
+	}
+	@return $content
+}
+
+.wrapper {
+	@for $headingLevel from 1 through 4 {
+		h#{$headingLevel}::before {
+			content: getMultipleOfCharacter('#', $headingLevel);
+			margin-right: 10px;
+		}
+	}
+}
+.content {
+	ul {
+		list-style: none;
+		li::before {
+			content: "-";
+			color: $iron;
+			font-size: 1.0rem;
+			margin-right: 10px;
+		}
+	}
+}
+// }}}
