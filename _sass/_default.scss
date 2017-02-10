@@ -253,10 +253,6 @@ strong {
         line-height: 1.6;
     }
 
-    .wrapper {
-        width: 90%;
-    }
-
     .navigation,
     .social-links {
         @include centered-block();
