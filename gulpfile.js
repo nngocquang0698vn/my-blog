@@ -90,7 +90,7 @@ gulp.task('js', function(){
  * Imagemin Task
  */
 gulp.task('imagemin', function() {
-	return gulp.src('src/img/**/*.{jpg,png,gif}')
+	return gulp.src('assets/img/**/*.{jpg,png,gif}')
 		.pipe(plumber())
 		.pipe(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true }))
 		.pipe(gulp.dest('assets/img/'));
@@ -101,7 +101,7 @@ gulp.task('imagemin', function() {
  */
 gulp.task('watch', function () {
 	gulp.watch('src/js/**/*.js', ['js']);
-	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
+	gulp.watch('assets/img/**/*.{jpg,png,gif}', ['imagemin']);
 	gulp.watch(['_sass/*', 'search/*', '_config*.yml', '_data/*', '*.md','*.html', '_includes/*.html', '_layouts/*.html', '_posts/*', 'projects/*'], ['jekyll-rebuild']);
 	if (config.drafts) {
 		gulp.watch('_drafts/*', ['jekyll-rebuild']);
