@@ -4,12 +4,8 @@ layout: default
 <div class="content">
 		<ul class="recent">
 				<p>Recent posts:</p>
-				{% for post in site.posts limit:5 %}
-				<li>
-						<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
-						{{ post.description | markdownify }}
-				</li>
-				{% endfor %}
+				{% assign limit = 3 %}
+				{% include list-posts.html %}
 		</ul>
 </div>
 
