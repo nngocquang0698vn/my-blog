@@ -102,7 +102,18 @@ gulp.task('imagemin', function() {
 gulp.task('watch', function () {
 	gulp.watch('src/js/**/*.js', ['js']);
 	gulp.watch('assets/img/**/*.{jpg,png,gif}', ['imagemin']);
-	gulp.watch(['_sass/*', 'search/*', '_config*.yml', '_data/*', '*.md','*.html', '_includes/*.html', '_layouts/*.html', '_posts/*', 'projects/*'], ['jekyll-rebuild']);
+	gulp.watch(['_sass/**/*',
+		'assets/css/**/*',
+		'search/*',
+		'_config*.yml',
+		'_data/*',
+		'*.md',
+		'*.html',
+		'_includes/**/*.html',
+		'_layouts/**/*.html',
+		'_posts/*',
+		'projects/*'],
+		['jekyll-rebuild']);
 	if (config.drafts) {
 		gulp.watch('_drafts/*', ['jekyll-rebuild']);
 	}
