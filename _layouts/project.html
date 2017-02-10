@@ -2,71 +2,50 @@
 layout: page
 ---
 <div class="content">
-{% assign isTechStack = page.tech_stack.size > 0 %}
-{% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
-{% assign isSiteAvailable = page.site_url is defined %}
-{% capture repoLinks %}
-{% if page.gitlab %}
-<a href="https://gitlab.com/{{ page.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
-{% endif %}
-{% if page.github %}
-<a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i> Github</a>
-{% endif %}
-{% endcapture %}
-<article class="post wrapper project">
+	{% assign isTechStack = page.tech_stack.size > 0 %}
+	{% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
+	{% assign isSiteAvailable = page.site_url is defined %}
+	{% capture repoLinks %}
+	{% if page.gitlab %}
+	<a href="https://gitlab.com/{{ page.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
+	{% endif %}
+	{% if page.github %}
+	<a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i> Github</a>
+	{% endif %}
+	{% endcapture %}
+	<article class="post wrapper project">
 		<header class="post-header">
-				<div class="inner">
-						<div class="row">
-								<div class="8u 12u$(medium)">
-										<h1 class="post-title">{{ page.title }}</h1>
-										<p>{{ page.description }}</p>
-								</div>
-								<div class="4u 12u$(medium)">
-									<img class="post-image" src="/assets/img/projects/{{ page.image }}" alt="{{ page.title }}"/>
-								</div>
-						</div>
-				</div>
+			<h1 class="post-title">{{ page.title }}</h1>
+			<p>{{ page.description }}</p>
+			<div class="post-image">
+				<img class="post-image" src="/assets/img/projects/{{ page.image }}" alt="{{ page.title }}"/>
+			</div>
 		</header>
+		<section class="post-content">
+			<h2 class="major">Overview</h2>
+			{{ content | markdownify }}
 
-		<div class="wrapper">
-				<div class="inner">
-						<div class="post-content">
-								<div class="row">
-										{% if isTechStack or isRepoAvailable or isSiteAvailable %}
-										<div class="8u 12u$(medium)">
-										{% else %}
-										<div class="12u">
-										{% endif %}
-
-												<h2 class="major">Overview</h2>
-												{{ content | markdownify }}
-										</div>
-										{% if isTechStack or isRepoAvailable or isSiteAvailable %}
-										<div class="4u 12u$(medium)">
-										{% if isTechStack %}
-												<h2 class="major">Tech Stack</h2>
-												<p>This project was built using the following technologies:</p>
-												<ul>
-														{% for tech_item in page.tech_stack %}
-														{% assign tech = site.data.techstack[tech_item] %}
-														<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
-														{% endfor %}
-												</ul>
-										{% endif %}
-										{% if isRepoAvailable or isSiteAvailable %}
-												<h2 class="major">Project Links</h2>
-												{% if page.site_url %}
-												<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name }}</a>.</p>
-												{% endif %}
-												{% if isRepoAvailable %}
-                        <p>Find the project on {{ repoLinks }}.</p>
-												{% endif %}
-										{% endif %}
-										</div>
-										{% endif %}
-								</div>
-						</div>
-				</div>
-		</div>
-</article>
+			{% if isTechStack or isRepoAvailable or isSiteAvailable %}
+			<h2 class="major">Tech Stack</h2>
+				{% if isTechStack %}
+				<p>This project was built using the following technologies:</p>
+				<ul>
+					{% for tech_item in page.tech_stack %}
+						{% assign tech = site.data.techstack[tech_item] %}
+						<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
+					{% endfor %}
+				</ul>
+				{% endif %}
+				{% if isRepoAvailable or isSiteAvailable %}
+					<h2 class="major">Project Links</h2>
+					{% if page.site_url %}
+					<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name }}</a>.</p>
+					{% endif %}
+					{% if isRepoAvailable %}
+						<p>Find the project on {{ repoLinks }}.</p>
+					{% endif %}
+				{% endif %}
+			{% endif %}
+		</section>
+	</article>
 </div>
