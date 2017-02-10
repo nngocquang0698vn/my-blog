@@ -8,6 +8,7 @@ var gulp        = require('gulp'),
 	koutoSwiss  = require('kouto-swiss'),
 	imagemin    = require('gulp-imagemin'),
 	cp          = require('child_process'),
+	minifyHTML  = require('gulp-minify-html'),
 	gutil       = require('gulp-util');
 
 var messages = {
@@ -18,6 +19,14 @@ var config = {
 	drafts: !!gutil.env.drafts,
 	production: !!gutil.env.production,
 };
+
+gulp.task('optimise-html', function() {
+	return gulp.src('_site/**/*.html')
+		.pipe(minifyHTML({
+			quotes: true
+		}))
+		.pipe(gulp.dest('_site/'));
+});
 
 /**
  * Build the Jekyll Site
@@ -44,7 +53,7 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['jekyll-build'], function() {
+gulp.task('browser-sync', ['build'], function() {
 	browserSync({
 		server: {
 			baseDir: '_site'
@@ -92,4 +101,4 @@ gulp.task('watch', function () {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', ['build', 'browser-sync', 'watch']);
-gulp.task('build', ['js', 'jekyll-build']);
+gulp.task('build', ['js', 'jekyll-build', 'optimise-html']);
