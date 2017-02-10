@@ -361,3 +361,33 @@ footer ul {
     color: $cloudy;
     margin-top: 100px;
 }
+
+// Markdownify {{{
+@function getMultipleOfCharacter($char, $count) {
+	$content: "";
+	@for $i from 1 through $count {
+		$content: "#{$content}#{$char}";
+	}
+	@return $content
+}
+
+.wrapper {
+	@for $headingLevel from 1 through 4 {
+		h#{$headingLevel}::before {
+			content: getMultipleOfCharacter('#', $headingLevel);
+			margin-right: 10px;
+		}
+	}
+}
+.content {
+	ul {
+		list-style: none;
+		li::before {
+			content: "-";
+			color: $iron;
+			font-size: 1.0rem;
+			margin-right: 10px;
+		}
+	}
+}
+// }}}
