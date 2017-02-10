@@ -9,7 +9,7 @@ var gulp        = require('gulp'),
 	imagemin    = require('gulp-imagemin'),
 	cp          = require('child_process'),
 	minifyHTML  = require('gulp-minify-html'),
-	minifyCSS   = require('gulp-minify-css'),
+	cleanCSS   = require('gulp-clean-css'),
 	cleanCSS    = require('gulp-clean-css'),
 	autoprefixer = require('gulp-autoprefixer'),
 	runSequence = require('run-sequence'),
@@ -36,7 +36,6 @@ gulp.task('optimise-html', function() {
 gulp.task('optimise-css', function() {
 	return gulp.src('_site/assets/css/**/*.css')
 		.pipe(autoprefixer())
-		.pipe(minifyCSS())
 		.pipe(cleanCSS({compatability: '*'}))
 		.pipe(gulp.dest('_site/assets/css/'));
 });
