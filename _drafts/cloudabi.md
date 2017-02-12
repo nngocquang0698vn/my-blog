@@ -3,46 +3,61 @@ layout: post
 categories: fosdem
 tags: cloud
 title: CloudABI
+title: CloudABI - Easily develop sandboxed apps for UNIX
 description: <
 ---
+CloudABI is a project born out of the need to sandbox applications such that exploits are unable to cause any undue access or `??`. This is more prevalent in the Cloud world, where all your applications are `on a machine somewhere`, and `??`.
+
+For instance
+
+```markdown
+There currently are a few security frameworks around that provide such functionality, such as [AppArmor][AppArmor], [SELinux][SELinux] and [POSIX 1003.1e capabilities][POSIX10031e] which run on the OS around the application. However, these are usually built with the mindset that the default security model - Discretionary Access Control (**DEFINE**) - isn't best.
+  Instead, they provide an extra level of security in the kernel, that provides extra security to prevent any access through Mandatory Access Control (**DEFINE**).
+  The issue with these frameworks is that they provide the wrapping external to the application. That is, the application itself isn't developed with this in mind. Because of this, the rulesets required to make it function within the framework are created by observing the system in use. However, this can lead to false positives, and assumptions that certain steps in the application are well-formed, when in fact they may not be. Alternatively, these steps could even be abused (**HOW??**).
+```
+
+Therefore, as **presenter** goes on to discuss, applications should be built with this sandboxing inherent, such that they can ensure they will always perform valid actions. Additionally, the application developer should always know what their code will be doing, and how it should perform. __NAME__ goes on to discuss how the problem should be fixed at the root, rather than at the top - if the application itself is defined with the well-formed routes, and the sandbox it runs in is __??__, then it __should work__.
+
+The issue is that we can't be expecting all developers to be security experts, or to care and fully understand everything that needs to be done.
+
+
+One such tool is [Capsicum][Capsicum], an Object Oriented Operating System API which allows developers to __??__. Capsicum works by providing file descriptors that have fine grained controls, such that __??__. Because these file descriptors are simply a handle to some resource, they don't provide implicit read-write access, therefore __??__.
+  **Where do objects come into this?**
+  Capsicum's main selling point is that it builds on the POSIX API, such that __??__.
+
+  Additionally, this methodology (much like that of a Mandatory Access Control system) means that even if a process is running as `root`, it still doesn't have the full system access as it has to work within the file descriptors provided to it. This means that a process would only be able to open a socket at `/tmp/tmux.1000`, instead of `/tmp/tmux-socket` or `/tmp/tmux-x11` or similar.
+
+However, there are a number of things that don't work out of the box - setting the timezone, using `tzset`, and even `open('/dev/urandom')`. These inconveniences, for programs that would expect such behaviour to _just work_ brought the comment "sandboxing is stupid, and you shouldn't use it!" **Name** went on to discuss how often, you spend far too long working out why the program isn't working, instead of doing **more useful things**. And "even if it works, not necessarily working as intended"; the idea that just because the rules have been configured to make sure that the application works, doesn't mean it does the right things. For instance, the application could be malformed, and could be taking steps that it _shouldn't be_, such as overreaching the file access it's making. For instance, **??**.
+
+
+**alternative to capsicum - seccomp**
+
 If running user-provided data, make it sandboxed! even if non-executing
 
-Lots of choices for security frameworks:
-- static
-	- i.e. AppArmor, SELinux, POSIX 1003.1e capabilities
-	- built with mindset - security model isn't great - it's a framework for the kernel
-	-
+**analyse the code i.e. run it with general usage, and then see what's recommended**
 
-analyse the code i.e. run it with general usage, and then see what's recommended
+**i.e. browser shouldn't need full FS access: just certain folders**
 
-i.e. browser shouldn't need full FS access: just certain folders
+<div class="divider">^^^^^</div>
 
-problem: expect the developer to do it, but actually they don't care / fully understand it
+But this still doesn't make things optimal - what if we made it so we had unconditional sandboxing? And if any incompatible APIs were completely removed from the built application? Where anything that is compatible with the APIs, is implemented to work well with sandboxing? And what if that optimal system was enforced at build-time, not run-time? This is where we get to CloudABI.
 
-usually set up by the user, rather than being API app should conform to
+In a world where this is enforced at build-time, you would have to work against compiler errors, incrementally fixing your application against the static set of issues, until you finally had a build. This final version would be well-formed, and __??__.
 
+CloudABI was built by taking the C functions in the POSIX spec, then adding common extensions following the Capsicum API, and removing anything that would break the Capsicum API. This still works, however, and provides just under 60 syscalls, ensuring to remove (`https://github.com/NuxiNL/cloudlibc#cloudlibc-standard-c-library-for-cloudabi`). This resulting set of __??__ provides an Operating System independent ABI for sandboxed applications; and additionally, one that is much more lean than a standard Operating System - for reference, Linux has ~300 syscalls.
+
+
+
+
+
+
+```markdown
 Capsicum
-- OO OS API
-	- i.e. objects are files in UNIX
-	- directory fd = FS subtree
-	- FD is just a handle - doesn't necessarily mean you get `rw` access
 - use these objects to determine what process can do
 	- `fork` - one process can `close(socket_rw)`
-- `root` doesn't mean you have full access - still done through FDs
 
-`cap_enter` - looks like strict `seccomp` mode
 - means then can only do things that are enforced
-- i.e. only open socket at `/tmp/predefined` instead of `/tmp/anythingelse`
-- *But* requires apps to have to worry about it - can't hook into existing (i.e. AppArmor, SELinux)
-
-however, some things don't work
-- setting time with `tzset`
-- `newlocale` and `mbstowcs_l` to convert strings between encoding
-- `open('/dev/urandom')` but won't work?
-
-sandboxing is stupid, and you shouldn't use it!
-- spend too long working out why it doesn't work
-- "even if it works, not necessarily working as intended"
+**- *But* requires apps to have to worry about it - can't hook into existing (i.e. AppArmor, SELinux)**
 
 **do not use on 3rd party code**
 - no one sandboxes on their own stuff
@@ -50,23 +65,8 @@ sandboxing is stupid, and you shouldn't use it!
 - you'd need to fight with their code to make it work
 - they can update it at any point - breaking your sandbox exceptions etc
 
-
 ## Unconditional Sandboxing
 
-what if it's always enabled?
-incompatible APIs removed entirely
-else is implemented to work well with sandboxing
-
-fail at build time - _not_ runtime - easier!
-
-keep going at it until it compiles
-
-- take the C functions in POSIX spec
-- add common extensions, Capsicum API
-- remove anything that breaks Capsicum
-- but still works! <60 syscalls
-- OS-independent ABI for sandboxed apps
-- also, much more lean OS that doesn't require huge number (300 - linux) of syscalls
 
 machine-generated API
 
@@ -101,7 +101,9 @@ cluster-management i.e. via Kubernetes/Prometheus
 
 
 
-trying to solve it at the root, not at the top level
+```
 
 
-
+[lwn674770]: https://lwn.net/Articles/674770/
+[cloudlibc]: https://github.com/NuxiNL/cloudlibc
+[Capsicum]: https://www.freebsd.org/cgi/man.cgi?query=capsicum&sektion=4
