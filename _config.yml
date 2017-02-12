@@ -14,13 +14,6 @@ twitter_username: jamietanna
 github_username:  jamietanna
 gitlab_username:  jamietanna
 
-# html minify
-# compress_html:
-#   clippings: all
-#   comments: all
-#   endings: []
-#   profile: false
-
 permalink: /posts/:year/:month/:day/:title/
 
 markdown: kramdown
@@ -29,18 +22,6 @@ kramdown:
     input: GFM
 
 highlighter: rouge
-
-links:
-  - title: home
-    url: /
-  - title: about me
-    url: /about
-  - title: my blog
-    url: /posts
-  - title: my projects
-    url: /projects
-  - title: categories
-    url: /categories/
 
 exclude:
 - Gemfile
