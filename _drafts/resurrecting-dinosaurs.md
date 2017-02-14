@@ -3,30 +3,61 @@ layout: post
 categories: fosdem
 tags:
 title: Resurrecting dinosaurs, what could possibly go wrong?
-description: "How containerised apps could eat our users"
+description: "How containerised apps (AppImage, Snappy and Flatpak) could eat our users"
 ---
-DLL hell - Win 3.1/95
-- no ABI backwards compat
-- most DLLS in `C:\WINDOWS\` `C:\WINDOWS\SYSTEM`
-- things would break constantly between upgrades
-- made it a service/maintenance nightmare
-- applications stealing resources from others
+> This article is developed from a talk by [Richard Brown at FOSDEM 2017][dinosaurs-fosdem]. Although aimed towards the desktop market, there are a lot of learnings that can be applied to the services ecosystem.
 
-*had* to dev and test on every possible DLL combination
-then the same for patches
+## A Brief History Lesson
 
-Win2000 meant to have fixed it
-- SideBySide (SxS) - DLL "containerisation"
-	- mem space different for app, DLLs
-	- 'Private DLLs' could be loaded from App dir
+Richard started off the talk by discussing the past - in particular, Windows 3.1/95, and the term "DLL Hell".
+
+At this point in time, there was no backwards compatibility in the Application Binary Interface that Windows provided. These DLLs would be stored within either`C:\WINDOWS\` or `C:\WINDOWS\SYSTEM`, in such a way that applications would be able to load them automagically. However, because of the global state of these libraries, and the lack of a fixed ABI, it would mean that between upgrades of your Windows installation, applications would constantly break.
+
+As you can imagine, this was an absolute nightmare for service and maintenance for developers and sysadmins alike. For the developers, they would have to develop and test that _every possible DLL combination_ would work. But then, to make it even worse, they would also have to do the same for patches.
+
+With Windows 2000, Microsoft managed to fix this. Or so they thought. They created the SideBySide _?system?_, `SxS`, which would make it possible to have DLL "containerisation", which would mean that the memory space and loaded DLLs for all applications would be different. This would mean that "Private DLLs" could be loaded from any directory by the application, such that they would be able to _??_.
+
+In order to help fix these issues, the [DLL Universal Problem Solver][dups] was released, to audit the DLLs being used by applications, and to help migrate the legacy applications that were **TODO: what exactly was going on here again?**
+
+
+However, this turned out to be less than ideal, for four main reasons:
+
+- **Security**: When a DLL was found to have a vulnerability, that DLL had to be located amongst the countless applications that used that version, and be updated. But what if that then broke an app?
+- **Maintenance**: How can the developer actually update their app once it's installed on the end-user machine? By shipping an updater that can check if it needs updates, and if so, perform them.
+- **Legal**: Are we actually, legally, allowed to redistribute the DLLs?
+- **Storage**: More copies of the same files drives more disk consumption.
+
+This issue was largely fixed using the distribution model that \*nix (**does UNIX?**) uses. Distributions themselves handle these points:
+
+- **Security**: Audits are done via third parties, ensuring that __??__. Monitoring of CVEs and embargoed lists are done, and updates are shipped to the users.
+- **Maintenance**: Testing that packages work with the new library version bump, and once they are, rolling out the changes to the end-user.
+- **Legal**: Lawyers will be able to perform audits and ensure compatibility and compliance in a __??__ way.
+- **Storage**: *N/A*
+
+
+
+
+
+
+
+
+
+- **Security**:
+- **Maintenance**:
+- **Legal**:
+- **Storage**:
+
+
+
+
+
+
+## How This Relates to Containerised Deployments
+
+
+
+```markdown
 - Windows File Protection - isolation of system DLLs
-- DLL Universal Problem solver - audit DLL in use, help migrate legacy apps
-
-*NOPE*
-- security - DLLs with vulns, in countless app folders
-- maintenance - how can we update app? ship an updater!
-- legal - can we actually, legally, redistribute these?
-- storage - more disk consumption
 
 distros would do this for you
 - security is done via audits, monitoring CVEs, embargoed lists
@@ -101,4 +132,7 @@ don't reinvent the wheel, just because we can!
 
 get apps into user's hands much quicker, more easily - best model available for this
 guaranteed an integrated "built together" experience `??`
+```
 
+[dinosaurs-fosdem]: https://fosdem.org/2017/schedule/event/dinosaurs/
+[dups]: https://www.tutorialspoint.com/dll/dll_tools.htm
