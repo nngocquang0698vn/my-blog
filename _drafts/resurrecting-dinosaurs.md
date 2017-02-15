@@ -11,14 +11,13 @@ description: "How containerised apps (AppImage, Snappy and Flatpak) could eat ou
 
 Richard started off the talk by discussing the past - in particular, Windows 3.1/95, and the term "DLL Hell".
 
-At this point in time, there was no backwards compatibility in the Application Binary Interface that Windows provided. These DLLs would be stored within either`C:\WINDOWS\` or `C:\WINDOWS\SYSTEM`, in such a way that applications would be able to load them automagically. However, because of the global state of these libraries, and the lack of a fixed ABI, it would mean that between upgrades of your Windows installation, applications would constantly break.
+At this point in time, there was no backwards compatibility in the Application Binary Interface that Windows provided. These DLLs would be stored within either `C:\WINDOWS\` or `C:\WINDOWS\SYSTEM`, in such a way that applications would be able to load them automagically. However, because of the global state of these libraries, and the lack of a fixed ABI, it would mean that between upgrades of your Windows installation, applications would constantly break.
 
 As you can imagine, this was an absolute nightmare for service and maintenance for developers and sysadmins alike. For the developers, they would have to develop and test that _every possible DLL combination_ would work. But then, to make it even worse, they would also have to do the same for patches.
 
-With Windows 2000, Microsoft managed to fix this. Or so they thought. They created the SideBySide _?system?_, `SxS`, which would make it possible to have DLL "containerisation", which would mean that the memory space and loaded DLLs for all applications would be different. This would mean that "Private DLLs" could be loaded from any directory by the application, such that they would be able to _??_.
+With Windows 2000, Microsoft managed to fix this. Or so they thought. They created the SideBySide assembly, `SxS`, which would make it possible to have DLL "containerisation", which would mean that the memory space and loaded DLLs for all applications would be different. This would mean that "Private DLLs" could be loaded from any directory by the application, such that they would be able to version pin their libraries.
 
-In order to help fix these issues, the [DLL Universal Problem Solver][dups] was released, to audit the DLLs being used by applications, and to help migrate the legacy applications that were **TODO: what exactly was going on here again?**
-
+In order to help fix these issues, the [DLL Universal Problem Solver][dups] was released, to audit the DLLs being used by applications, and to help migrate the legacy applications that were still using global DLLs.
 
 However, this turned out to be less than ideal, for four main reasons:
 
@@ -27,11 +26,11 @@ However, this turned out to be less than ideal, for four main reasons:
 - **Legal**: Are we actually, legally, allowed to redistribute the DLLs?
 - **Storage**: More copies of the same files drives more disk consumption.
 
-This issue was largely fixed using the distribution model that \*nix (**does UNIX?**) uses. Distributions themselves handle these points:
+This issue was largely fixed using the distribution model that \*nix uses. Distributions themselves handle these points:
 
-- **Security**: Audits are done via third parties, ensuring that __??__. Monitoring of CVEs and embargoed lists are done, and updates are shipped to the users.
+- **Security**: Audits are done via third parties, ensuring that packages are secure. Monitoring of CVEs and embargoed lists are done, and updates are shipped to the users.
 - **Maintenance**: Testing that packages work with the new library version bump, and once they are, rolling out the changes to the end-user.
-- **Legal**: Lawyers will be able to perform audits and ensure compatibility and compliance in a __??__ way.
+- **Legal**: Lawyers will be able to perform audits and ensure compatibility and compliance in a more structured and maintainable way.
 - **Storage**: *N/A*
 
 This can additionally be mitigated by the use of shared libraries. These allow the sharing of library functionality across multiple files, while only using a single library file.
@@ -66,7 +65,7 @@ This is made slightly better by using the concept of a framework/runtime to targ
 **But wait** - does this look familiar? We're back to where we started.
 
 - **Security**: If there's an issue in a common library, all container images need to be updated
-	- Not only at a library or application level, but at an underlying Operating System level - i.e. __?TODO?__.
+	- Not only at a library or application level, but at an underlying Operating System level - i.e. `libc` or `openssl` issues
 - **Maintenance**: Fragmentation of libraries, versions, and even base Operating Systems used for any given images.
 - **Legal**:
 	- Are the licenses for all the dependencies used correct and compliant?
@@ -98,17 +97,31 @@ Richard proclaims that until there is a "Linux Standard Base for the container a
 
 Alternatively, give up on your containerised applications is the advice Richard gives. He mentions that distributions have been building on decades of tools, and have the talent for dealing with these sorts of problems in the real world, on a huge scale, for _years_. We shouldn't be reinventing the wheel, just because we can. The distribution maintainers are a team of well practiced, intelligent people, who have been doing this for so long - whereas application developers buying into this containerised work will be coming in with fresh eyes, and therefore won't be nearly as experienced to handle these issues.
 
-An alternate method to deal with this is to have the users who want the more cutting-edge applications to move to a rolling release distribution. The whole point of these distributions is to make ti much easier to get into the user's hands, and to guarantee an integrated "built together" experience, such that things are tested and __??__.
+An alternate method to deal with this is to have the users who want the more cutting-edge applications to move to a rolling release distribution. The whole point of these distributions is to make ti much easier to get into the user's hands, and to guarantee an integrated "built together" experience, such that things are tested a bit more carefully across the whole distribution.
 
 ## How This Relates to Containerised Deployments
 
+Although the talk, and this article, have been primarily concerned with the use of containers for packaging applications for desktop users, there is a huge amount of work recently in containers for server-oriented applications such as web services. They're used for building self-contained applications, that (much like the aforementioned tools) have all the dependencies they need, and are used to enable composability of services, and to increase the deployment speeds - from anywhere up to an hour to spin up and provision a machine, to literally a matter of seconds.
 
+However, they're following the same issues - everything is bundled into a single container, which is then used by other projects and is deployed into use.
 
-```markdown
-- Windows File Protection - isolation of system DLLs
+- **Security**:
+	- What if there's a security update for the base OS/image that we depend on?
+	- What if there's a security update for the packages or libraries we depend on?
+	- What if we have to build packages or libraries from source?
+- **Maintenance**:
+	- How can we automate the process of rolling out a new update to all the machines that are relying on the image?
+- **Legal**:
+	- Are we able to distribute everything that's in the image?
+	- How do we perform audits and reviews?
+- **Storage**:
+	- We now have hundreds of layers of images littered around our machines, many of which are no longer required. Each has its own version of dependencies and applications.
 
+The issue of security updates is one that I've had to think about as part of [`adc5c6a`][jvtme-adc5c6a] and [`8edd6ce`][jvtme-8edd6ce] on my personal website, and that is done via an i.e. `apt update && apt upgrade` as the first major step within each Docker build. This makes sure that I pull my latest base image for Debian, and then make sure all upgrades are performed, such that the box that's deployed is using the latest packages and libraries as of that time. However, there is no "refresh" job that will perform an automated rebuild in order to make sure I'm constantly up to date with versions. For instance, if I were on holiday, or just not committing to my website, there could be a number of security updates that are unprotected. Additionally, although the base image is updated, none of the dependencies are - they are currently locked into the versions that they always have been. Although this is only around a month, there should be a more regular refresh (at least to ensure security fixes are available).
 
-```
+This is something that should be considered when planning the orchestration and architecture of applications built on container platforms. Compared to a standard OS install, which can potentially have tools like i.e. Chef Agent running on the box, making sure updates are installed when required, a container is meant to be an immutable, deployable, instance of an application in a bundled state. Therefore, something needs to be run in an automated timeframe to roll out new security updates and fixes, as well as ensure that the applications are at their latest version.
+
+In conclusion, although containers are useful for bundling dependencies into a single place, at the same time, that means that you will be using outdated software that cannot be easily refreshed without a container rebuild. In order to keep secure when using containers, infrastructure must be put in place to automate this. Containers also bring the issue of having to perform this extra maintenance and bundling yourself, on a potentially commercially unsupported distribution.
 
 [dinosaurs-fosdem]: https://fosdem.org/2017/schedule/event/dinosaurs/
 [dups]: https://www.tutorialspoint.com/dll/dll_tools.htm
@@ -121,3 +134,5 @@ An alternate method to deal with this is to have the users who want the more cut
 [lsb-wiki]: https://en.wikipedia.org/wiki/Linux_Standard_Base
 [bus-factor-wiki]: https://en.wikipedia.org/wiki/Bus_factor
 [heartbleed-wiki]: https://en.wikipedia.org/wiki/Heartbleed
+[jvtme-adc5c6a]: https://gitlab.com/jamietanna/jvt.me/commit/adc5c6a6a0c707554c3723c3a58c2c0d72226070
+[jvtme-8edd6ce]: https://gitlab.com/jamietanna/jvt.me/commit/8edd6ce0ee2ac59dbcb00cd14af673c6f3c36346
