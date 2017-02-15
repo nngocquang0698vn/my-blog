@@ -346,6 +346,12 @@ pre code {
 	padding: 0 1.25rem;
 }
 
+code {
+	&::before, &::after {
+			content: "`";
+	}
+}
+
 /* }}} */
 
 a {
