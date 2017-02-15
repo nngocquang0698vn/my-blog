@@ -10,21 +10,34 @@ There are a number of things that you need to know ahead of making a technical p
 ## General Admin
 
 - What is the workshop title?
-- What is the workshop description? Does it provide enough insight for someone who's never coded before? Does it provide enough insight for someone who's well versed in the topic?
+- What is the workshop description?
+  - Does it provide enough insight for someone who's never coded before?
+  - Does it provide enough insight for someone who's well versed in the topic?
+- Do you know how long your workshop will take?
+	- Do you know how long the workshop is _meant to_ take?
+	- Do you know if people will arrive on time? I.e. if it's after lunch, people may arrive a bit later
+	- Do you know how many people are attending?
+	- Do you know what level of knowledge they are at? I.e. beginner, advanced
 
 ## The Machines
 
-- What os are you running on?
-- Are you comfortable with that os?
+- What OS are provided machines running on?
+  - Are you comfortable with that OS?
+  - Are you comfortable providing technical assistance for attendees?
 - Can attendees use their own machine?
   - If attendees use their own machines, can/will they preinstall software?
+	- If attendees use their own machines, will you be comfortable providing technical assistance?
 - Can the presenter use their own machine?
-- If presenting on own machine, do you have the right AV components?
-- If presenting on own machine, do you have the right network access?
+  - If presenting on own machine, do you have the right AV components?
+  - If presenting on own machine, do you have the right network access?
 
 ## The Format
 
 ### Presentation
+
+- Can you run your slides on any machine?
+	- Or do you need it to run on your own machine?
+- Can the attendees access the slides?
 
 ### Workshop
 
@@ -32,6 +45,7 @@ There are a number of things that you need to know ahead of making a technical p
 	- What editor should people have to use? Does it matter?
 	- What IDE should people have to use? Does it matter?
 	- What language are you writing in?
+
 ## The Demographics
 
 - What level of knowledge does the talk expect of the subject area?
@@ -47,7 +61,7 @@ There are a number of things that you need to know ahead of making a technical p
 
 ### People
 
-- Will you need (extra) volunteer helpers to make sure there is help around?
+- Will you need volunteer helpers to make sure there is help around?
 - Will you need volunteer helpers that know the tech you're playing with?
 
 ### Tech
@@ -56,6 +70,7 @@ There are a number of things that you need to know ahead of making a technical p
 	- Can these be pre-installed to save download time during the workshop?
 	- I.e. do you need NodeJS? If so, what version?
 	- I.e. do you need `expressJS v1.3.2`?
+	- I.e. do you need IntelliJ?
 - Are there any other dependencies you can think of that you _may_ need downloaded as part of the workshop?
 	- Can these be pre-installed to save download time during the workshop?
 - What language-specific tools will you need?
@@ -76,12 +91,6 @@ There are a number of things that you need to know ahead of making a technical p
   - Is there an online IDE I can use?
   - Can I spin up a VPS that has temporary access?
 		- Why not check out [`workshopr`][workshopr]?
-
-
-
-
-
-
 
 [inspirewit2017]: http://2017.inspirewit.com
 [workshopr]: {{ site.baseurl }}/projects/workshopr/
