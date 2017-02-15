@@ -347,6 +347,7 @@ pre code {
 }
 
 code {
+	color: $cloudy;
 	&::before, &::after {
 			content: "`";
 	}
