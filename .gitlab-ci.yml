@@ -10,22 +10,30 @@ variables:
   DOCKER_BASE_IMAGE: debian:jessie
 
 stages:
+  - build
   - test
   - release
   - deploy
 
-# Ensure that the site can correctly build {{{
+# Ensure that the site builds {{{
 build_image:
-  stage: test
+  stage: build
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     # pull the latest base image on a master build
     - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
     - docker pull $CONTAINER_TEST_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
     - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_TEST_IMAGE .
-    - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
     - docker push $CONTAINER_TEST_IMAGE
-    # any other test commands on the end site would go here
+# }}}
+
+# Ensure that all tests pass {{{
+test_image:
+  stage: test
+  script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker pull $CONTAINER_TEST_IMAGE
+    - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
