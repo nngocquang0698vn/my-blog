@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing a Technical Workshop - A Checklist
-description: What you need to remember to ask the organisers and what to consider in order to ensure you __??__.
+description: What you need to remember to ask the organisers and what to consider in order to ensure your workshop goes smoothly.
 categories:
 ---
 
