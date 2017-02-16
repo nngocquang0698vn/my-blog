@@ -7,6 +7,8 @@ categories:
 
 There are a number of things that you need to know ahead of making a technical presentation. These have come out recently as part of preparing for the [InspireWIT 2017][inspirewit2017] conference at Capital One, but also leading on from previous presentations I've made. In order to make it easier for others to start on a presentation, I've documented them below.
 
+Another thing to remember is that the team running the event are going to be limited for time themselves, too, and will no doubt be working on other preparation ahead of the event. Please make sure that you send through any requirements _at least_ a couple of weeks in advance, in case there are any issues with the requirements. Additionally, _have a backup_ in case requirements can't be made. For instance, as detailed below, can you run something like [`workshopr`][workshopr] to get around any installation requirements?
+
 ## General Admin
 
 - What is the workshop title?
