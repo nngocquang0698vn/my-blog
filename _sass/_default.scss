@@ -345,10 +345,10 @@ pre code {
 	padding: 0 1.25rem;
 }
 
-code {
-	// TODO not on `pre code` color: $cloudy;
+:not(pre) > code {
+	color: $cloudy;
 	&::before, &::after {
-			content: "`";
+		content: "`";
 	}
 }
 
