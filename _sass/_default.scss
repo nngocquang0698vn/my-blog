@@ -231,7 +231,6 @@ strong {
 .about {
     color: $cloudy;
     margin-top: 70px;
-    text-align: center;
     line-height: 24px;
 }
 
@@ -312,7 +311,7 @@ strong {
 	margin-bottom: 30px;
 }
 
-.content,footer {
+.content,footer,div.about {
 	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div.post-meta {
 		max-width: 50rem;
 		padding: 0 1.25rem;
