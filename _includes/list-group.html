@@ -1,0 +1,28 @@
+{% assign isGroup = group is defined %}
+{% unless isGroup %}
+{% assign group = site.categories %}
+{% endunless %}
+
+{% assign isItemClass = itemClass is defined %}
+{% unless isItemClass %}
+{% assign itemClass = 'category' %}
+{% endunless %}
+
+{% for item in group %}
+<h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">{{ item[0] | capitalize }}</h2>
+  <ul class="post-list">
+    {% assign pages_list = item[1] %}
+    {% for post in pages_list reversed %}
+      {% if post.title != null %}
+      <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
+							<span class="entry-date">
+					</a>
+					<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
+      </li>
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+  </ul>
+{% endfor %}
+
