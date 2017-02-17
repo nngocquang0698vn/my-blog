@@ -1,7 +1,9 @@
 <div class="about">
     <div class="divider">*****</div>
     <div class="about__text">
-        Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
-        on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+		<p>
+			<a name="about"></a>
+			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong> on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+		</p>
     </div>
 </div>
