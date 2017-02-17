@@ -324,7 +324,7 @@ strong {
 }
 
 .content,footer {
-	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div {
+	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div.post-meta {
 		max-width: 50rem;
 		padding: 0 1.25rem;
 		margin: 0 auto 1.875rem;
