@@ -64,6 +64,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    jekyll_tagger (1.0.0)
     json (1.8.6)
     kramdown (1.13.2)
     liquid (3.0.6)
@@ -110,6 +111,7 @@ DEPENDENCIES
   jekyll
   jekyll-git_metadata!
   jekyll-seo-tag
+  jekyll_tagger
   rouge
 
 BUNDLED WITH

@@ -25,6 +25,10 @@ kramdown:
 
 highlighter: rouge
 
+tagger:
+  types: ['page']
+  folders: { 'page': 'tags' }
+
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -50,3 +54,4 @@ exclude:
 gems:
   - jekyll-seo-tag
   - jekyll-git_metadata
+  - jekyll_tagger
