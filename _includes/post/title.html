@@ -1,8 +1,22 @@
+{% if page.tags.size == 1 %}
+{% assign tagOutput = 'tag' %}
+{% else %}
+{% assign tagOutput = 'tags' %}
+{% endif %}
+
+{% if page.categories.size == 1 %}
+{% assign categoryOutput = 'category' %}
+{% else %}
+{% assign categoryOutput = 'categories' %}
+{% endif %}
+
 <h1 class="page-title post-title">
     <span class="page-title__text post-title__text">{{ page.title }}</span>
     <div class="page-title__subtitle post-title__subtitle">{{ page.subtitle }}</div>
     <div class="post-meta">
         <span class="posted-on">{{ page.date | date: "%d %B %Y" }}</span>
+        <br />
+       <span class="post-categories-tags"><a href="#about">Filed under {{ page.categories.size | count }} {{ categoryOutput }} and {{ page.tags.size }} {{ tagOutput }}</a></span>
         <br />
         {% include post/read-time.html %}
 	</div>

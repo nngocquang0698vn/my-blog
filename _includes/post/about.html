@@ -5,5 +5,27 @@
 			<a name="about"></a>
 			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong> on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
 		</p>
+
+		<h3>Tags</h3>
+		{% if page.tags.size > 0 %}
+		<ul class="post-tags">
+			{% for tag in page.tags %}
+			<li>{{ tag }}</li>
+			{% endfor %}
+		</ul>
+		{% else %}
+		<p>This post has no tags.</p>
+		{% endif %}
+
+		<h3>Categories</h3>
+		{% if page.categories.size > 0 %}
+		<ul class="post-categories">
+			{% for category in page.categories %}
+			<li>{{ category }}</li>
+			{% endfor %}
+		</ul>
+		{% else %}
+		<p>This post has no categories.</p>
+		{% endif %}
     </div>
 </div>
