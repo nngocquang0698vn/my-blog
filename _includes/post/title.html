@@ -1,5 +1,9 @@
 <h1 class="page-title post-title">
     <span class="page-title__text post-title__text">{{ page.title }}</span>
     <div class="page-title__subtitle post-title__subtitle">{{ page.subtitle }}</div>
-    {% include post/read-time.html %}
+    <div class="post-meta">
+        <span class="posted-on">{{ page.date | date: "%d %B %Y" }}</span>
+        <br />
+        {% include post/read-time.html %}
+	</div>
 </h1>
