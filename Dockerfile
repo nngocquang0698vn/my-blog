@@ -1,29 +1,24 @@
-FROM debian:jessie
+FROM alpine:3.5
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
-
-ENV DEBIAN_FRONTEND=noninteractive \
-    TERM=xterm
 
 # Install NodeJS and Ruby {{{
 WORKDIR "/opt/node"
 
-ENV NODEJS_VERSION=7.3.0 \
-    PATH=$PATH:/opt/node/bin
+ENV PATH=$PATH:/opt/node/bin
 
-RUN apt update &&\
-	apt upgrade -y &&\
+RUN apk update && \
+	apk upgrade && \
 	# NodeJS {{{
-	apt install -y curl ca-certificates bzip2 &&\
-	curl -sL https://nodejs.org/dist/v${NODEJS_VERSION}/node-v${NODEJS_VERSION}-linux-x64.tar.gz | tar xz --strip-components=1 &&\
+	apk add nodejs && \
 	# }}}
 	# Ruby {{{
-	apt install -y git build-essential ruby-full zlib1g-dev &&\
-  gem install bundle &&\
-	# }}}
-	# Cleanup {{{
-	rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* &&\
-	apt-get autoremove -y &&\
-	apt-get clean
+	apk add ruby-dev ruby-bundler && \
+	apk add git \
+		build-base \
+		# for the FFI gem: https://github.com/ffi/ffi/issues/485#issuecomment-191159190
+		libffi-dev \
+		# for the nokogiri gem: https://github.com/gliderlabs/docker-alpine/issues/53#issuecomment-173412882
+		libxml2-dev libxslt-dev
 	# }}}
 # }}}
 
