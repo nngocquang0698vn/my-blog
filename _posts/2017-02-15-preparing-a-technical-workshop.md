@@ -21,6 +21,8 @@ Another thing to remember is that the team running the event are going to be lim
 	- Do you know if people will arrive on time? I.e. if it's after lunch, people may arrive a bit later
 	- Do you know how many people are attending?
 	- Do you know what level of knowledge they are at? I.e. beginner, advanced
+- What do you want your audience to understand by the end of the session?
+  - Via [@MrAndrew](https://twitter.com/MrAndrew)
 
 ## The Machines
 
