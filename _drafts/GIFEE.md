@@ -1,15 +1,33 @@
 ---
 layout: post
 categories: fosdem
-tags:
-title: GIFEE
+title: GIFEE - Google Infrastructure for Everyone
 description:
+categories:
+tags: containers docker kubernetes
 ---
-- run your distros as lightweight
-- because it's difficult to make sure all right versions
-- don't need special deployment + config management - all done in-container
+> This article is developed from a talk by [Brandon Philips at FOSDEM 2017][GIFEE-fosdem].
+
+
+
+
+## Why Containers?
+
+Kubernetes, on the other hand, is all about having your distribution running as lightweight as possible. This is in part due to the fact that getting everything to the right version can be difficult. By containerising your application, you can avoid the need for special steps for deployment and configuration management, as it's then all done within a single container. This avoids the issues of trying to get certain versions of libraries playing nicely, on the distribution you're deploying to - for instance, if you use RHEL7.1, and want to be running a very new version of __??__, then you would have to install it via a third-party or from source. This is not ideal, and therefore means that __??__.
+
+On the other hand, the container will contain the pre-packaged environment that is required to run your application, and allows for running multiple __??__. Note that this does, of course, have some drawbacks which I have detailed previously in [Resurrecting Dinosaurs][resurrecting-dinosaurs].
+
+This container can be run on a hardened host, such as a RHEL7.1 image, but the base image could be something like [Alpine Linux][alpine].
+
+
+
+Another perk of using containers is knowing that the same image (minus issues like proxies) will work exactly the same way whether it's running in development, continuous integration, on the end environment, and anywhere in between. This increases the confidence the developers can have within their application, and not have to worry even about any differences between their staging and production environments.
+
+## So What's Kubernetes?
+
+
+```markdown
 - get everything bundled perfectly, will work everywhere
-- devs know will work on ci, server, etc
 
 - clustering = botnet
 - if a server goes down, you have to remember what's on it, what needs to be on it, if you have or haven't copied latest stuff
@@ -53,3 +71,8 @@ description:
 
 - dancing on the edge of secure and insecure
 - need to be able to patch and update systems so quickly
+```
+
+[GIFEE-fosdem]: https://fosdem.org/2017/schedule/event/kubernetes/
+[alpine]: https://alpinelinux.org/
+[resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
