@@ -1,0 +1,8 @@
+{% assign projectStatus = site.data.project_status[project.project_status] %}
+{% assign isProjectStatus = projectStatus is defined %}
+{% if isProjectStatus %}
+{% assign project = page %}
+<strong>{{ site.data.project_status[project.project_status].title }}</strong>: {{ site.data.project_status[project.project_status].description }}
+{% else %}
+<span style="color:red">Invalid Project Status: <a href="http://non-existent.server-jvtme">TODO add a <code>project_status</code>!</a></span>
+{% endif %}
