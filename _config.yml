@@ -29,6 +29,10 @@ tagger:
   types: ['page']
   folders: { 'page': 'tags' }
 
+collections:
+  projects:
+    output: true
+
 exclude:
 - Gemfile
 - Gemfile.lock
