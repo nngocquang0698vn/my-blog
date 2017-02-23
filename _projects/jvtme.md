@@ -1,6 +1,5 @@
 ---
 layout: project
-date:
 title: jvt.me
 image: jvtme.png
 github:
