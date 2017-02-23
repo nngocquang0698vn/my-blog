@@ -25,6 +25,61 @@ Another perk of using containers is knowing that the same image (minus issues li
 
 ## So What's Kubernetes?
 
+Kubernetes is a __??__.
+
+Brandon describes the concept of clustering as a botnet.
+
+
+### TODO: Replication is Hard
+
+
+One problem with conventional (pre-config management with on-box agents) server maintenance is that if a given server goes down, you will have to remember exactly what is on the server,
+
+For instance, let's assume that we have three servers:
+
+```
+  A - LAMP v1, Client v2
+  B - LAMP v1, Client v2
+  C - LAMP v1, Server v3.5
+```
+
+Now, one day, server `B` goes down due to i.e. a power outage.
+
+```
+  A - LAMP v1, Client v2
+~~B~~
+	C - LAMP v1, Server v3.5
+```
+
+But we need to run some security upgrades, and so the different servers are bumped to the latest versions.
+
+```
+  A - LAMP v1.1, Client v2.0.1
+~~B~~
+	C - LAMP v1.1, Server v3.5.1
+```
+
+But then, when we bring `B` back up online, how is it going to cope?
+
+```
+  A - LAMP v1.1, Client v2.1
+  B ????
+	C - LAMP v1.1, Server v3.5
+```
+
+
+
+`Another example - what if the master node in your identity server goes down?`
+
+
+###
+
+Because the fact is that replication is hard, it's a core feature of Kubernetes to run all this for you. Kubernetes has a set of 'control servers' which will manage the Infrastructure for you. These servers will handle what to do if a server dies, and how the 'botnet' will handle it.
+
+
+
+
+
 
 ```markdown
 - get everything bundled perfectly, will work everywhere
