@@ -1,7 +1,7 @@
 <div class="content">
 	<p>Below you can find some of the projects I've worked on in the past.</p>
 	<section class="features">
-		{% assign projects = site.projects %}
+		{% assign projects = site.projects | sort:"date" | reverse %}
 		{% for project in projects %}
 		<article>
 			{% if project.image %}
