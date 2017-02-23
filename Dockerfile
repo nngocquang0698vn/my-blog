@@ -25,23 +25,13 @@ RUN apk update && \
 # Install package dependencies {{{
 RUN mkdir -p /site/_site
 WORKDIR "/site"
-ADD package.json /site/
-ADD Gemfile /site/
-ADD Gemfile.lock /site/
 
 # https://github.com/docker-library/ruby/issues/45
 ENV LANG C.UTF-8
 
-# Install Ruby and NPM depdendencies, globally {{{
-# This is so we don't have to work out a nice way of mounting site dependencies
-# as well as our site itself
-RUN npm install -g
-RUN bundle install --system
-# }}}
-
 # Ensure that with the new files, we have the right dependencies etc locally {{{
 ADD . /site
-RUN npm link
+RUN npm install
 ENV PATH=$PATH:/site/node_modules/.bin
 RUN bundle install
 # }}}
