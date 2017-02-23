@@ -9,6 +9,14 @@
 			{% endif %}
 			<h2 class="major">{{ project.title }}</h2>
 			<caption>
+				<div class="posted-on">
+					{% if project.project_status == 'work-in-progress' %}
+					<p>{% include project/status.html %}</p>
+					{% else %}
+					<p>{{ project.date | date: "%d %B %Y" }}</p>
+					{% endif %}
+				</div>
+
 				{% for paragraph in project.description: %}
 				<p>{{ paragraph }}</p>
 				{% endfor %}
