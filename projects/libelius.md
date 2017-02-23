@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2012-06-1
 title: Libelius Student Organiser
 image: libelius.png
 github:

@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2013-04-30
 title: PySnake
 image: pysnake.png
 github: jamietanna/pysnake

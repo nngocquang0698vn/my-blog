@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2015-10-12
 title: Storyti.me
 image: storytime.png
 github:

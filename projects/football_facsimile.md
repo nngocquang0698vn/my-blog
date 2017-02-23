@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2014-04-11
 title: Football Facsimile
 image:
 image: footballfacsimile.png

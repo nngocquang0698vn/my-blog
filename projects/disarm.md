@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2013-01-1
 title: disARM
 image: disarm.png
 github: jamietanna/disARM

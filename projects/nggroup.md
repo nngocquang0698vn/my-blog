@@ -1,5 +1,6 @@
 ---
 layout: project
+date: 2015-01-7
 title: nggroup
 image: nggroup.png
 github: jamietanna/nggroup
