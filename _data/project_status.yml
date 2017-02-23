@@ -1,6 +1,6 @@
 work-in-progress:
   title: WIP
-  description: This project is currently an ongoing work in progress.
+  description: This project is currently a work in progress.
 planned:
   title: Planned
   description: This project is on the horizon, but as yet, there probably hasn't been any code written.
@@ -10,3 +10,6 @@ completed:
 open-sourced:
   title: Open Sourced
   description: This project has been released into the world under a Free / Open Source Software license.
+ongoing:
+  title: Ongoing
+  description: This project will never be "complete", but will be continually refined.

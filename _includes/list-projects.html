@@ -10,7 +10,7 @@
 			<h2 class="major">{{ project.title }}</h2>
 			<caption>
 				<div class="posted-on">
-					{% if project.project_status == 'work-in-progress' %}
+					{% if project.project_status == 'work-in-progress' or project.project_status == 'ongoing' %}
 					<p>{% include project/status.html %}</p>
 					{% else %}
 					<p>{{ project.date | date: "%d %B %Y" }}</p>
