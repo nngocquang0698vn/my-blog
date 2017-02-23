@@ -16,6 +16,16 @@ layout: page
 	<article class="post wrapper project">
 		<header class="post-header">
 			<p>{{ page.description }}</p>
+
+			<div class="project-status">
+				{% assign projectStatus = site.data.project_status[page.project_status] %}
+				{% assign isProjectStatus = projectStatus is defined %}
+				{% if isProjectStatus %}
+				<p><strong>{{ projectStatus.title }}</strong>: {{ projectStatus.description }}</p>
+				{% else %}
+				<p style="color:red">Invalid Project Status: <a href="http://non-existent.server-jvtme">TODO add a <code>project_status</code>!</a></p>
+				{% endif %}
+			</div>
 			{% if page.image %}
 			<div class="post-image">
 				<img class="post-image" src="/assets/img/projects/{{ page.image }}" alt="{{ page.title }}"/>
