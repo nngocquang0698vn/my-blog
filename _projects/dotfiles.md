@@ -1,5 +1,6 @@
 ---
 layout: project
+date:
 title: Dotfiles
 image: dotfiles.png
 github: jamietanna/dotfiles-arch
