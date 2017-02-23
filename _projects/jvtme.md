@@ -13,6 +13,7 @@ tech_stack:
 - daktilo
 - gulp
 - browsersync
+project_status: open-sourced
 ---
 
 The design for my personal site is adapted using the Daktilo, because I'm a developer, not a designer, although I would have loved to have created my own design.

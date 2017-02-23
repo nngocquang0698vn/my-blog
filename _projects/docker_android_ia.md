@@ -12,6 +12,7 @@ tech_stack:
 - exim
 - samba
 - tmux
+project_status: completed
 ---
 While working at Intel, I was part of an Android tablet project for a large UK retailer. As part of this, we worked on building versions of the Android Operating System with custom patches. The turnaround for the whole build process was around 40 minutes, which at times was extremely unforgiving. Therefore, I was tasked with setting up a server internally that would allow us to build Android much more quickly.
 

@@ -13,6 +13,7 @@ tech_stack:
 - express
 - mongodb
 - googlemaps
+project_status: completed
 ---
 
 PortaPay is Firefox OS application that allows a user to find the nearest public restroom in London. The app integrates with Google Maps to provide a realtime view of the user compared to nearby public restrooms.

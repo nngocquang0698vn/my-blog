@@ -9,6 +9,7 @@ gitlab:
 description: A project to evaluate the different methods to sandbox Linux packages, aiming to find a method which will provide ease-of-use at the same time as protecting the privacy of the user.
 tech_stack:
 - c
+project_status: completed
 ---
 For my final year dissertation, I worked on a project to determine different methods of sandboxing GNU/Linux applications. The below extract is the abstract:
 

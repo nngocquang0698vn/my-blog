@@ -9,6 +9,7 @@ gitlab:
 description: A self-playing, top-down agent-based football simulation built in Java.
 tech_stack:
 - lwjgl
+project_status: completed
 ---
 In my second year group project, we created an application called Football Facsimile, which aimed to recreate the game of football as a fully independent computer simulation.
 

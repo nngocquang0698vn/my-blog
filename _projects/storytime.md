@@ -15,6 +15,7 @@ tech_stack:
 - bootstrap
 - paypal
 - mysql
+project_status: completed
 ---
 The Storytime project aims to provide a more immersive environment for reading to children, by providing context-sensitive lighting for a smart lightbulb that changes depending on the page's content; for instance, if there is a flame on the page, the light will flicker like a candle.
 

@@ -11,6 +11,7 @@ tech_stack:
 - mysql
 - bootstrap
 - chromeextension
+project_status: completed
 ---
 Public Key Web Authentication is a project aiming to abolish passwords by using key-based authentication. It is built in two parts; a Chrome extension which can authenticate as the user, and a simple server that acts as a reference for the concept.
 

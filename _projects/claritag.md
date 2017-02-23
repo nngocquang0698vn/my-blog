@@ -11,6 +11,7 @@ tech_stack:
 - dropbox
 - clarifai
 - mysql
+project_status: open-sourced
 ---
 
 Claritag is a web app that categorises photos in a user's Dropbox folder. The categorisation is done through the Clarifai API, which provides an endpoint for us to send through a link to the image. Fortunately Dropbox provides the [`.media`](https://www.dropbox.com/developers-v1/core/docs#media) API call, which allows us to get a public link to the file so we can plug it into Clarifai's API. If we did not have this available, we would need to provide some public facing server, such as AWS S3 or DigitalOcean in which to save these images temporarily for analysis.

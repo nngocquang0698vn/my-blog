@@ -10,6 +10,7 @@ tech_stack:
 - nodejs
 - android
 - mendeley
+project_status: completed
 ---
 
 Mendelync is an Android application that simplifies the process of authorizing access to Mendeley papers.

@@ -9,6 +9,7 @@ description: An Introduction to Git - a talk with a focus for getting started wi
 tech_stack:
 - latex
 - beamer
+project_status: open-sourced
 ---
 
 I gave a talk to <a href="http://hacksocnotts.co.uk">Hacksoc Nottingham</a> about using Git in October 2015. The talk covers a quick introduction to what Git is, and why it was created, leading into a few examples of Git in use. I then worked through a practical demo, with slides on one half of the screen, and a terminal in the other. This was found to be very useful by attendees, and allowed them to see both context and the practical application of using Git.

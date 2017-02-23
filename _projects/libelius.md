@@ -11,6 +11,7 @@ tech_stack:
 - mysql
 - jquery
 - jquerymobile
+project_status: completed
 ---
 Libelius was my A2 computing project, where I developed a PHP web application that provided access to school timetables, and enabled users to set their timetable for each lesson, as well as teachers to set their class homework.
 

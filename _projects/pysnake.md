@@ -8,6 +8,7 @@ gitlab:
 description: PySnake is a Snake game written in PyGame, with a few extra game mechanics to throw off the experienced.
 tech_stack:
 - pygame
+project_status: open-sourced
 ---
 PySnake is the result of a first year *Foundations of Software Engineering* project, where we practiced pairs programming while learning Python and Pygame.
 
