@@ -63,7 +63,7 @@ Overall, I am happy that I went through the experience, to see if I could, and w
 PS: I would say that actually, the script that let me determine which contributions I made over the month was slightly more useful in some cases. It can be found below, or at [`get_pr.py`](https://gitlab.com/jamietanna/jvt.me/blob/master/_includes/get_pr.py), and will hopefully shed some insight into how the above Markdown list was generated automagically.
 
 {% highlight python %}
-{% include get_pr.py %}
+{% include src/get_pr.py %}
 {% endhighlight %}
 
 [24pr]: http://24pullrequests.com/
