@@ -3,6 +3,11 @@
   <div class="post-meta">
     <span class="posted-on">Posted on {{ post.date  | date_to_long_string }}</span>
   </div>
-  <p>{{ post.description | markdownify }}</p>
+  {% capture desc %}{{ post.description | markdownify }}{% endcapture %}
+  {% if (post.description | length) == 0 %}
+  <p>{{ desc }}</p>
+  {% else %}
+  <p>No description set {% include error.html %}.</p>
+  {% endif %}
 </article>
 
