@@ -42,7 +42,7 @@ layout: page
 						{% if isTech %}
 						<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
 						{% else %}
-						<li><a href="http://non-existent.server-jvtme" style="color:red" target="_blank">TODO {{tech_item}} does not have a specified _data mapping</a></li>
+						<li>{% include error.html %} TODO {{tech_item}} does not have a specified _data mapping</li>
 						{% endif %}
 					{% endfor %}
 				</ul>
