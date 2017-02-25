@@ -60,7 +60,7 @@ One thing you'll notice is that I made a number of commits to the HacksocNotts r
 
 Overall, I am happy that I went through the experience, to see if I could, and what sort of level of commitment it would require. However, it's shown me how allocating time to side projects (on a deadline, no less) during a very busy month is not the best method of breeding strong contributions. I now know for the future not to push myself to hit a deadline with too high a limit, and instead realise that I need to aim for much more attainable goals.
 
-PS: I would say that actually, the script that let me determine which contributions I made over the month was slightly more useful in some cases. It can be found below, or at [`get_pr.py`](https://gitlab.com/jamietanna/jvt.me/blob/master/_includes/get_pr.py), and will hopefully shed some insight into how the above Markdown list was generated automagically.
+PS: I would say that actually, the script that let me determine which contributions I made over the month was slightly more useful in some cases. It can be found below, or at [`get_pr.py`](https://gitlab.com/jamietanna/jvt.me/blob/master/_includes/src/get_pr.py), and will hopefully shed some insight into how the above Markdown list was generated automagically.
 
 {% highlight python %}
 {% include src/get_pr.py %}
