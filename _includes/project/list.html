@@ -7,37 +7,7 @@
 	<section class="features">
 		{% assign projects = site.projects | sort:"date" | reverse %}
 		{% for project in projects | limit:limit %}
-		<article>
-			{% if project.image %}
-			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/assets/img/projects/' | append: project.image}}" alt="{{ project.title }}" /></a>
-			{% endif %}
-			<h2 class="major">{{ project.title }}</h2>
-			<caption>
-				<div class="posted-on">
-					{% if project.project_status == 'work-in-progress' or project.project_status == 'ongoing' %}
-					<p>{% include project/status.html %}</p>
-					{% else %}
-					<p>{{ project.date | date: "%d %B %Y" }}</p>
-					{% endif %}
-				</div>
-
-				{% for paragraph in project.description: %}
-				<p>{{ paragraph }}</p>
-				{% endfor %}
-				<p>
-				<a href="{{ project.url }}">Read more about the project</a>
-				{% if project.gitlab or project.github %}
-				, or view the project on
-				{% if project.gitlab %}
-				<a href="https://gitlab.com/{{ project.gitlab }}"><i class="fa fa-gitlab"></i> Gitlab</a>
-				{% endif %}
-				{% if project.github %}
-				<a href="https://github.com/{{ project.github }}"><i class="fa fa-github"></i> Github</a>
-				{% endif %}
-				</p>
-				{% endif %}
-			</caption>
-		</article>
+		{% include project/preview.html %}
 		{% endfor %}
 	</section>
 </div>
