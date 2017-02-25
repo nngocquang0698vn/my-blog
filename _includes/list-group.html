@@ -8,8 +8,18 @@
 {% assign itemClass = 'category' %}
 {% endunless %}
 
+{% assign isGroupContextRoot = groupContextRoot is defined %}
+{% unless isGroupContextRoot %}
+{% assign groupContextRoot = 'category' %}
+{% endunless %}
+
 {% for item in group %}
-<h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">{{ item[0] | capitalize }}</h2>
+{% capture groupLink %}
+{{ site.baseurl }}/{{ groupContextRoot }}/{{ item[0] }}
+{% endcapture %}
+  <h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">
+    <a href="{{ groupLink }}">{{ item[0] | capitalize }}</a>
+  </h2>
   <ul class="post-list">
     {% assign pages_list = item[1] %}
     {% for post in pages_list reversed %}
