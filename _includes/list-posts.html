@@ -4,7 +4,7 @@
 {% endunless %}
 <section>
 	{% for post in site.posts limit:limit %}
-	{% include list-post-details.html %}
+	{% include post/preview.html %}
 	{% endfor %}
 </section>
 
