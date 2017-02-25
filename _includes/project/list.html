@@ -1,8 +1,12 @@
+{% assign isLimit = limit is defined %}
+{% unless isLimit %}
+{% assign limit = 1000 %}
+{% endunless %}
 <div class="content">
 	<p>Below you can find some of the projects I've worked on in the past.</p>
 	<section class="features">
 		{% assign projects = site.projects | sort:"date" | reverse %}
-		{% for project in projects %}
+		{% for project in projects | limit:limit %}
 		<article>
 			{% if project.image %}
 			<a href="{{ project.url }}" class="image"><img src="{{ site.baseurl | append: '/assets/img/projects/' | append: project.image}}" alt="{{ project.title }}" /></a>
