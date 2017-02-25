@@ -10,7 +10,14 @@
 		{% if page.tags.size > 0 %}
 		<ul class="post-tags">
 			{% for tag in page.tags %}
-			<li>{{ tag }}</li>
+			{% capture tagLink %}
+			{{ site.baseurl }}/tags/{{ tag }}/
+			{% endcapture %}
+			<li>
+				<a href="{{ tagLink }}">
+					{{ tag }}
+				</a>
+			</li>
 			{% endfor %}
 		</ul>
 		{% else %}
@@ -21,7 +28,14 @@
 		{% if page.categories.size > 0 %}
 		<ul class="post-categories">
 			{% for category in page.categories %}
-			<li>{{ category }}</li>
+			{% capture categoryLink %}
+			{{ site.baseurl }}/categories/{{ category }}/
+			{% endcapture %}
+			<li>
+				<a href="{{ categoryLink }}">
+					{{ category }}
+				</a>
+			</li>
 			{% endfor %}
 		</ul>
 		{% else %}
