@@ -112,7 +112,8 @@ gulp.task('watch', function () {
 		'_includes/**/*.html',
 		'_layouts/**/*.html',
 		'_posts/*',
-		'_projects/*'],
+		'_projects/*',
+		'_plugins/*'],
 		['jekyll-rebuild']);
 	if (config.drafts) {
 		gulp.watch('_drafts/*', ['jekyll-rebuild']);
