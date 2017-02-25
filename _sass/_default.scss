@@ -404,3 +404,12 @@ footer ul {
 		font-size: 60%;
 	}
 }
+
+.toc-entry {
+	&.toc-h3 {
+		margin-left: 1.2rem;
+	}
+	&.toc-h4 {
+		margin-left: 2.4rem;
+	}
+}
