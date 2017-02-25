@@ -2,6 +2,10 @@
 {% unless isLimit %}
 {% assign limit = 1000 %}
 {% endunless %}
+{% assign isImage = showImage is defined %}
+{% unless isImage %}
+{% assign showImage = true %}
+{% endunless %}
 <div class="content">
 	<p>Below you can find some of the projects I've worked on in the past.</p>
 	<section class="features">
