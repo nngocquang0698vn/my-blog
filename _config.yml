@@ -25,10 +25,6 @@ kramdown:
 
 highlighter: rouge
 
-tagger:
-  types: ['page']
-  folders: { 'page': 'tags' }
-
 collections:
   projects:
     output: true
@@ -58,5 +54,4 @@ exclude:
 gems:
   - jekyll-seo-tag
   - jekyll-git_metadata
-  - jekyll_tagger
   - jekyll-toc
