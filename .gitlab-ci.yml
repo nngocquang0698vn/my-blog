@@ -15,7 +15,8 @@ stages:
   - build
   - test
   - release
-  - deploy
+  - staging_deploy
+  - prod_deploy
 
 # Ensure that the site builds {{{
 build_image:
@@ -53,7 +54,7 @@ release_image:
 # Only develop should deploy to staging {{{
 staging_deploy:
   image: $CONTAINER_RELEASE_IMAGE
-  stage: deploy
+  stage: staging_deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
@@ -72,7 +73,7 @@ staging_deploy:
 # Only master should auto deploy to production {{{
 prod_deploy:
   image: $CONTAINER_RELEASE_IMAGE
-  stage: deploy
+  stage: prod_deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
