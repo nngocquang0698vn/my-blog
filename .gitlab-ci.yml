@@ -8,6 +8,8 @@ variables:
   CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_URL:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
+  STAGING_URL: https://dev.jvt.me
+  PRODUCTION_URL: https://jvt.me
 
 stages:
   - build
@@ -60,6 +62,9 @@ staging_deploy:
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
     - ssh-add <(echo -e "$SSH_PRIVATE_KEY")
     - cap staging deploy
+  environment:
+    name: staging
+    url: $STAGING_URL
   only:
     - master
 # }}}
@@ -78,6 +83,9 @@ prod_deploy:
     - chmod 600 key
     - ssh-add key
     - cap production deploy
+  environment:
+    name: production
+    url: $PRODUCTION_URL
   only:
     - master
 # }}}
