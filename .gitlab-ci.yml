@@ -64,7 +64,7 @@ staging_deploy:
     - echo -e "$SSH_PRIVATE_KEY" > key
     - chmod 600 key
     - ssh-add key
-    - cap production deploy
+    - cap staging deploy
   environment:
     name: staging
     url: https://dev.jvt.me
