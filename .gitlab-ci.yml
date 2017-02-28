@@ -67,7 +67,7 @@ staging_deploy:
     - cap staging deploy
   environment:
     name: staging
-    url: https://dev.jvt.me
+    url: $STAGING_URL
   only:
     - master
 # }}}
