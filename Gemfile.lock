@@ -1,10 +1,3 @@
-GIT
-  remote: https://github.com/sn0w/jekyll-git_metadata
-  revision: 7205be1b8d580302ecf5667c9b381d85161e71ba
-  specs:
-    jekyll-git_metadata (0.0.5)
-      jekyll (~> 3.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -58,6 +51,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-git_metadata (0.1.2)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-seo-tag (2.1.0)
@@ -111,7 +106,7 @@ DEPENDENCIES
   capistrano-rvm
   html-proofer
   jekyll
-  jekyll-git_metadata!
+  jekyll-git_metadata
   jekyll-seo-tag
   jekyll-toc
   jekyll_tagger
