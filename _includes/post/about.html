@@ -3,7 +3,7 @@
     <div class="about__text">
 		<p>
 			<a name="about"></a>
-			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong> on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong> on <strong>{{ page.date | date: "%d %B %Y" }}</strong>, and last updated on <strong>{{ page.git.last_commit.author_date | date: "%d %B %Y" }}</strong>.
 		</p>
 
 		<h3>Tags</h3>
