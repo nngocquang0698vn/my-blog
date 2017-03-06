@@ -1,7 +1,7 @@
 # adapted from Jekyll docs
 module Jekyll
 
-  class MetadataPage < Page
+  class MetadataChildPage < Page
     def initialize(site, base, dir, metadataKey, metadataList, metadataHtml, metadataPrefixKey, metadataPrefix)
       @site = site
       @base = base
@@ -18,11 +18,11 @@ module Jekyll
     end
   end
 
-  class MetadataPageGenerator < Generator
+  class MetadataChildPageGenerator < Generator
     safe true
 
     def initialize(*args)
-      set_metadataLayout('metadata_page_index')
+      set_metadataLayout('metadata_page_child')
       @metadataDirKey = 'metadata_dir'
       @metadataDir = 'metadata'
       @metadataKey = nil
@@ -39,13 +39,13 @@ module Jekyll
       unless @metadataKey.nil?
         metadata = site.post_attr_hash("#{@metadataKey}")
         metadata.each_key do |item|
-          site.pages << MetadataPage.new(site, site.source, File.join(@metadataDir, item), item, metadata, @metadataLayoutHtml, @metadataPrefixKey, @metadataPrefix)
+          site.pages << MetadataChildPage.new(site, site.source, File.join(@metadataDir, item), item, metadata, @metadataLayoutHtml, @metadataPrefixKey, @metadataPrefix)
         end
       end
     end
   end
 
-  class CategoryPageGenerator < MetadataPageGenerator
+  class CategoryPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
       # make sure we use the superclass's attributes
@@ -59,7 +59,7 @@ module Jekyll
     end
   end
 
-  class TagPageGenerator < MetadataPageGenerator
+  class TagPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
       # make sure we use the superclass's attributes
