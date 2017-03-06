@@ -2,7 +2,7 @@
 module Jekyll
 
   class MetadataPage < Page
-    def initialize(site, base, dir, collectionKey, collectionList, collectionHtml = 'metadata_page_index.html', collectionPrefixKey = 'collection_title_prefix', collectionPrefix = 'Collection: ')
+    def initialize(site, base, dir, collectionKey, collectionList, collectionHtml, collectionPrefixKey, collectionPrefix)
       @site = site
       @base = base
       @dir = dir
