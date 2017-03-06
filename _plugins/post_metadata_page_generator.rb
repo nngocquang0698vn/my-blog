@@ -22,13 +22,17 @@ module Jekyll
     safe true
 
     def initialize(*args)
-      @collectionLayoutKey = 'metadata_page_index'
-      @collectionLayoutHtml = 'metadata_page_index.html'
+      set_collectionLayout('metadata_page_index')
       @collectionDirKey = 'collections_dir'
       @collectionDir = 'collections'
       @collectionKey = nil
       @collectionPrefix = 'Collection: '
       @collectionPrefixKey = 'collection_title_prefix'
+    end
+
+    def set_collectionLayout(key)
+      @collectionLayoutKey = key
+      @collectionLayoutHtml = "#{key}.html"
     end
 
     def generate(site)
