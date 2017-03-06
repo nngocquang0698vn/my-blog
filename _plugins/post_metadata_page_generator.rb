@@ -1,8 +1,8 @@
 # adapted from Jekyll docs
 module Jekyll
 
-  class CollectionPage < Page
-    def initialize(site, base, dir, collectionKey, collectionList, collectionHtml = 'collection_index.html', collectionPrefixKey = 'collection_title_prefix', collectionPrefix = 'Collection: ')
+  class MetadataPage < Page
+    def initialize(site, base, dir, collectionKey, collectionList, collectionHtml = 'metadata_page_index.html', collectionPrefixKey = 'collection_title_prefix', collectionPrefix = 'Collection: ')
       @site = site
       @base = base
       @dir = dir
@@ -18,12 +18,12 @@ module Jekyll
     end
   end
 
-  class CollectionPageGenerator < Generator
+  class MetadataPageGenerator < Generator
     safe true
 
     def initialize(*args)
-      @collectionLayoutKey = 'collection_index'
-      @collectionLayoutHtml = 'collection_index.html'
+      @collectionLayoutKey = 'metadata_page_index'
+      @collectionLayoutHtml = 'metadata_page_index.html'
       @collectionDirKey = 'collections_dir'
       @collectionDir = 'collections'
       @collectionKey = nil
@@ -35,13 +35,13 @@ module Jekyll
       unless @collectionKey.nil?
         collection = site.post_attr_hash("#{@collectionKey}")
         collection.each_key do |item|
-          site.pages << CollectionPage.new(site, site.source, File.join(@collectionDir, item), item, collection, @collectionLayoutHtml, @collectionPrefixKey, @collectionPrefix)
+          site.pages << MetadataPage.new(site, site.source, File.join(@collectionDir, item), item, collection, @collectionLayoutHtml, @collectionPrefixKey, @collectionPrefix)
         end
       end
     end
   end
 
-  class CategoryPageGenerator < CollectionPageGenerator
+  class CategoryPageGenerator < MetadataPageGenerator
     safe true
     def initialize(*args)
       # make sure we use the superclass's attributes
@@ -55,7 +55,7 @@ module Jekyll
     end
   end
 
-  class TagPageGenerator < CollectionPageGenerator
+  class TagPageGenerator < MetadataPageGenerator
     safe true
     def initialize(*args)
       # make sure we use the superclass's attributes
