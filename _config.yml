@@ -29,6 +29,9 @@ collections:
   projects:
     output: true
 
+category_title_prefix: 'Category: '
+tag_title_prefix: 'Tag: '
+
 exclude:
 - Gemfile
 - Gemfile.lock

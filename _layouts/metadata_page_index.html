@@ -1,0 +1,9 @@
+---
+layout: page
+---
+{% assign metadata = page.metadataList[page.metadataKey] %}
+
+{% for post in metadata %}
+{% include post/preview.html %}
+{% endfor %}
+
