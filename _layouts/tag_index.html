@@ -1,0 +1,8 @@
+---
+layout: page
+---
+{% assign tags = site.tags[page.tag] %}
+
+{% for post in tags %}
+{% include post/preview.html %}
+{% endfor %}
