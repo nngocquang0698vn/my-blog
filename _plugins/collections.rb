@@ -18,31 +18,54 @@ module Jekyll
     end
   end
 
-  class CategoryPageGenerator < Generator
+  class CollectionPageGenerator < Generator
     safe true
 
-    # TODO make this generic, too!
+    def initialize(*args)
+      @collectionLayoutKey = 'collection_index'
+      @collectionLayoutHtml = 'collection_index.html'
+      @collectionDirKey = 'collections_dir'
+      @collectionDir = 'collections'
+      @collectionKey = nil
+      @collectionPrefix = 'Collection: '
+      @collectionPrefixKey = 'collection_title_prefix'
+    end
+
     def generate(site)
-      if site.layouts.key? 'category_index'
-        dir = site.config['category_dir'] || 'categories'
-        site.categories.each_key do |category|
-          site.pages << CollectionPage.new(site, site.source, File.join(dir, category), category, site.categories, 'collection_index.html', 'category_title_prefix')
+      unless @collectionKey.nil?
+        collection = site.post_attr_hash("#{@collectionKey}")
+        collection.each_key do |item|
+          site.pages << CollectionPage.new(site, site.source, File.join(@collectionDir, item), item, collection, @collectionLayoutHtml, @collectionPrefixKey, @collectionPrefix)
         end
       end
     end
   end
 
-  class TagPageGenerator < Generator
+  class CategoryPageGenerator < CollectionPageGenerator
     safe true
-
-    def generate(site)
-      if site.layouts.key? 'tag_index'
-        dir = site.config['tag_dir'] || 'tags'
-        site.tags.each_key do |tag|
-          site.pages << CollectionPage.new(site, site.source, File.join(dir, tag), tag, site.tags, 'collection_index.html', 'tag_title_prefix')
-        end
-      end
+    def initialize(*args)
+      # make sure we use the superclass's attributes
+      super(args)
+      # and override what we need
+      @collectionDirKey = 'categories_dir'
+      @collectionDir = 'categories'
+      @collectionKey = 'categories'
+      @collectionPrefix = 'Category: '
+      @collectionPrefixKey = 'categories_title_prefix'
     end
   end
 
+  class TagPageGenerator < CollectionPageGenerator
+    safe true
+    def initialize(*args)
+      # make sure we use the superclass's attributes
+      super(args)
+      # and override what we need
+      @collectionDirKey = 'tags_dir'
+      @collectionDir = 'tags'
+      @collectionKey = 'tags'
+      @collectionPrefix = 'Tag: '
+      @collectionPrefixKey = 'tags_title_prefix'
+    end
+  end
 end
