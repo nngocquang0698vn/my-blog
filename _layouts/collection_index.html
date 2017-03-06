@@ -1,0 +1,9 @@
+---
+layout: page
+---
+{% assign collections = page.collectionList[page.collectionKey] %}
+
+{% for post in collections %}
+{% include post/preview.html %}
+{% endfor %}
+
