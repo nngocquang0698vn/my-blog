@@ -2,30 +2,31 @@
 module Jekyll
 
   class MetadataParentPage < Page
-    def initialize(site, base, dir, metadataKey, metadataList, metadataHtml, metadataTitleKey, metadataTitle)
+    def initialize(site, base, metadataDirKey, metadataDir, metadataKey, metadataList, metadataHtml, metadataTitleKey, metadataTitle)
       @site = site
       @base = base
-      @dir = dir
+      @dir = metadataDir
       @name = 'index.html'
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), metadataHtml)
-      self.data['metadataDir'] = dir
       self.data['metadataKey'] = metadataKey
       self.data['metadataList'] = metadataList
 
       metadata_title = site.config[metadataTitleKey] || metadataTitle
       self.data['title'] = "#{metadata_title}"
+      metadata_dir = site.config[metadataDirKey] || metadataDir
+      self.data['metadataDir'] = metadata_dir
 
       self.data['base'] = "#{base}"
     end
   end
 
   class MetadataChildPage < Page
-    def initialize(site, base, dir, metadataKey, metadataList, metadataHtml, metadataPrefixKey, metadataPrefix)
+    def initialize(site, base, metadataDirKey, metadataDir, metadataKey, metadataList, metadataHtml, metadataPrefixKey, metadataPrefix)
       @site = site
       @base = base
-      @dir = dir
+      @dir = metadataDir
       @name = 'index.html'
 
       self.process(@name)
@@ -35,6 +36,8 @@ module Jekyll
 
       metadata_title_prefix = site.config[metadataPrefixKey] || metadataPrefix
       self.data['title'] = "#{metadata_title_prefix}#{metadataKey}"
+      metadata_dir = site.config[metadataDirKey] || metadataDir
+      self.data['metadataDir'] = metadata_dir
     end
   end
 
@@ -58,7 +61,7 @@ module Jekyll
     def generate(site)
       unless @metadataKey.nil?
         metadata = site.post_attr_hash("#{@metadataKey}")
-        site.pages << MetadataParentPage.new(site, site.source, @metadataDir, @metadataKey, metadata, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+        site.pages << MetadataParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, metadata, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
       end
     end
   end
@@ -112,7 +115,7 @@ module Jekyll
       unless @metadataKey.nil?
         metadata = site.post_attr_hash("#{@metadataKey}")
         metadata.each_key do |item|
-          site.pages << MetadataChildPage.new(site, site.source, File.join(@metadataDir, item), item, metadata, @metadataLayoutHtml, @metadataPrefixKey, @metadataPrefix)
+          site.pages << MetadataChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, item), item, metadata, @metadataLayoutHtml, @metadataPrefixKey, @metadataPrefix)
         end
       end
     end
