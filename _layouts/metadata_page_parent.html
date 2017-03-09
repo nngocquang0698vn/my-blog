@@ -3,7 +3,7 @@ layout: page
 ---
 {% for item in page.metadataList %}
 {% capture groupLink %}
-{{ site.baseurl }}/{{ page.metadataDir }}/{{ item[0] }}
+{{ site.baseurl }}/{{ page.metadataDir }}/{{ item[0] }}/
 {% endcapture %}
   <h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">
     <a href="{{ groupLink }}">{{ item[0] | capitalize }}</a>
