@@ -1,24 +1,12 @@
-{% assign isGroup = group is defined %}
-{% unless isGroup %}
-{% assign group = site.categories %}
-{% endunless %}
-
-{% assign isItemClass = itemClass is defined %}
-{% unless isItemClass %}
-{% assign itemClass = 'category' %}
-{% endunless %}
-
-{% assign isGroupContextRoot = groupContextRoot is defined %}
-{% unless isGroupContextRoot %}
-{% assign groupContextRoot = 'category' %}
-{% endunless %}
-
-{% for item in group %}
-{% capture groupLink %}
-{{ site.baseurl }}/{{ groupContextRoot }}/{{ item[0] }}
+---
+layout: page
+---
+{% for item in page.metadataList %}
+{% capture childLink %}
+{{ site.baseurl }}/{{ page.metadataDir }}/{{ item[0] }}/
 {% endcapture %}
   <h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">
-    <a href="{{ groupLink }}">{{ item[0] | capitalize }}</a>
+    <a href="{{ childLink }}">{{ item[0] | capitalize }}</a>
   </h2>
   <ul class="post-list">
     {% assign pages_list = item[1] %}
@@ -36,3 +24,10 @@
   </ul>
 {% endfor %}
 
+<div class="divider">
+
+</div>
+
+{% for post in metadata %}
+{% include post/preview.html %}
+{% endfor %}
