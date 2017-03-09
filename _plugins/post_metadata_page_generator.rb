@@ -18,7 +18,7 @@ module Jekyll
       metadata_dir = site.config[metadataDirKey] || metadataDir
       self.data['metadataDir'] = metadata_dir
 
-      self.data['base'] = "#{base}"
+      self.data['base'] = base
     end
   end
 
