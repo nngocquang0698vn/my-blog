@@ -1,4 +1,3 @@
-# adapted from Jekyll docs
 module Jekyll
 
   class MetadataParentPage < Page
