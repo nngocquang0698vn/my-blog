@@ -25,7 +25,14 @@ layout: page
 
 </div>
 
-{% for post in metadata %}
-{% include post/preview.html %}
+<h2>Others</h2>
+<p>The following projects don't have a tech stack associated with them:</p>
+{% for project in page.uncategorised_projects %}
+  <ul class="project-list">
+    {% if project.title != null %}
+    <li>
+      <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
+    </li>
+    {% endif %}
+  </ul>
 {% endfor %}
-

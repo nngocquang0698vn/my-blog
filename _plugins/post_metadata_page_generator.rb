@@ -185,13 +185,13 @@ module Jekyll
       unless @metadataKey.nil?
         projects = sorted_projects
         # puts(projects.docs[0].data['title'])
-        site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+        site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, sorted_projects, uncategorised_projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
       end
     end
   end
 
   class TechStackParentPage < Page
-    def initialize(site, base, techDirKey, techDir, techKey, projects, techHtml, techTitleKey, techTitle)
+    def initialize(site, base, techDirKey, techDir, techKey, projects, uncategorised_projects, techHtml, techTitleKey, techTitle)
       @site = site
       @base = base
       @dir = techDir
@@ -201,6 +201,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), techHtml)
       self.data['techKey'] = techKey
       self.data['projects'] = projects
+      self.data['uncategorised_projects'] = uncategorised_projects
       # puts(projects)
 
       tech_title = site.config[techTitleKey] || techTitle
