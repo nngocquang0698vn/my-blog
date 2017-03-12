@@ -231,28 +231,10 @@ module Jekyll
     end
   end
 
-  class TechStackParentPage < Page
+  class TechStackParentPage < MetadataParentPage
     def initialize(site, base, techDirKey, techDir, techKey, projects, uncategorised_projects, techHtml, techTitleKey, techTitle)
-      @site = site
-      @base = base
-      @dir = techDir
-      @name = 'index.html'
-
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), techHtml)
-      self.data['techKey'] = techKey
-      self.data['projects'] = projects
+      super(site, base, techDirKey, techDir, techKey, projects, techHtml, techTitleKey, techTitle)
       self.data['uncategorised_projects'] = uncategorised_projects
-      # puts(projects)
-
-      tech_title = site.config[techTitleKey] || techTitle
-      self.data['title'] = "#{tech_title}"
-      tech_dir = site.config[techDirKey] || techDir
-      self.data['techDir'] = tech_dir
-      tech_dir = site.config[techDirKey] || techDir
-      self.data['techDir'] = tech_dir
-
-      self.data['base'] = base
     end
   end
 
