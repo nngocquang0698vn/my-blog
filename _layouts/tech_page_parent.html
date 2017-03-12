@@ -25,6 +25,7 @@ layout: page
 
 </div>
 
+{% if page.uncategorised_projects and page.uncategorised_projects.size > 0 %}
 <h2>Others</h2>
 <p>The following projects don't have a tech stack associated with them:</p>
 {% for project in page.uncategorised_projects %}
@@ -36,3 +37,4 @@ layout: page
     {% endif %}
   </ul>
 {% endfor %}
+{% endif %}
