@@ -55,7 +55,7 @@ namespace :deploy do
     desc "Copy the files from the new image to the release_path"
     on roles(:app) do
       within(release_path) do
-        container_id = capture("docker run --rm -d #{fetch:image_to_deploy}")
+        container_id = capture("docker run -d #{fetch:image_to_deploy}")
         execute "docker cp #{container_id}:/site/_site #{release_path}"
         execute "docker kill #{container_id}"
       end
