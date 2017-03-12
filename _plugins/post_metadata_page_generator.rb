@@ -225,7 +225,7 @@ module Jekyll
       unless @metadataKey.nil?
         projects = sorted_projects
         projects.each do |tech, projects|
-          site.pages << TechStackChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, tech), tech, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+          site.pages << MetadataChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, tech), tech, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
         end
       end
     end
@@ -256,29 +256,4 @@ module Jekyll
     end
   end
 
-  class TechStackChildPage < Page
-    def initialize(site, base, techDirKey, techDir, techKey, projects, techHtml, techPrefixKey, techPrefix)
-      @site = site
-      @base = base
-      @dir = techDir
-      @name = 'index.html'
-      puts("#{techKey} #{projects}")
-
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), techHtml)
-      self.data['techKey'] = techKey
-      self.data['projects'] = projects
-      # puts(projects)
-
-      tech_title_prefix = site.config[techPrefixKey] || techPrefix
-      self.data['title'] = "#{tech_title_prefix}#{techKey}"
-
-      tech_dir = site.config[techDirKey] || techDir
-      self.data['techDir'] = tech_dir
-      tech_dir = site.config[techDirKey] || techDir
-      self.data['techDir'] = tech_dir
-
-      self.data['base'] = base
-    end
-  end
 end
