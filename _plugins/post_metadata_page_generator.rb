@@ -68,9 +68,7 @@ module Jekyll
   class CategoryParentPageGenerator < MetadataParentPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'categories_dir'
       @metadataDir = 'categories'
       @metadataKey = 'categories'
@@ -82,9 +80,7 @@ module Jekyll
   class TagParentPageGenerator < MetadataParentPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'tags_dir'
       @metadataDir = 'tags'
       @metadataKey = 'tags'
@@ -123,9 +119,7 @@ module Jekyll
   class CategoryPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'categories_dir'
       @metadataDir = 'categories'
       @metadataKey = 'categories'
@@ -137,9 +131,7 @@ module Jekyll
   class TagPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'tags_dir'
       @metadataDir = 'tags'
       @metadataKey = 'tags'
@@ -152,7 +144,6 @@ module Jekyll
     safe true
     def initialize(*args)
       super(args)
-      # and override what we need
       @metadataDirKey = 'tech_dir'
       @metadataDir = 'projects/tech'
       @metadataKey = 'tech_stack'
@@ -163,7 +154,6 @@ module Jekyll
 
     def generate(site)
       projects = site.collections['projects']
-      # puts(site.site_data)
 
       sorted_projects = {}
       uncategorised_projects = []
@@ -173,7 +163,6 @@ module Jekyll
           next
         end
 
-        # puts("#{project.data['title']} #{project.data['tech_stack']} !")
         for tech in project.data['tech_stack']
           unless sorted_projects[tech]
             sorted_projects[tech] = []
@@ -183,7 +172,6 @@ module Jekyll
       end
 
       unless @metadataKey.nil?
-        # puts(projects.docs[0].data['title'])
         site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, sorted_projects, uncategorised_projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
       end
     end
@@ -193,7 +181,6 @@ module Jekyll
     safe true
     def initialize(*args)
       super(args)
-      # and override what we need
       @metadataDirKey = 'tech_dir'
       @metadataDir = 'projects/tech'
       @metadataKey = 'tech_stack'
@@ -203,7 +190,6 @@ module Jekyll
 
     def generate(site)
       projects = site.collections['projects']
-      # puts(site.site_data)
 
       sorted_projects = {}
       uncategorised_projects = []
@@ -213,7 +199,6 @@ module Jekyll
           next
         end
 
-        # puts("#{project.data['title']} #{project.data['tech_stack']} !")
         for tech in project.data['tech_stack']
           unless sorted_projects[tech]
             sorted_projects[tech] = []
