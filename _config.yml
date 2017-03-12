@@ -10,11 +10,11 @@ description: >
 baseurl: ""
 url: ""
 username: jamietanna
-twitter_username: jamietanna
-github_username:  jamietanna
-gitlab_username:  jamietanna
 author:
   fullname: Jamie Tanna
+  gitlab: jamietanna
+  github: jamietanna
+  twitter: jamietanna
 
 permalink: /posts/:year/:month/:day/:title/
 
