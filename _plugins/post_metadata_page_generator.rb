@@ -183,9 +183,50 @@ module Jekyll
       end
 
       unless @metadataKey.nil?
-        projects = sorted_projects
         # puts(projects.docs[0].data['title'])
         site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, sorted_projects, uncategorised_projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+      end
+    end
+  end
+
+  class TechStackChildPageGenerator < MetadataParentPageGenerator
+    safe true
+    def initialize(*args)
+      super(args)
+      # and override what we need
+      @metadataDirKey = 'tech_dir'
+      @metadataDir = 'projects/tech'
+      @metadataKey = 'tech_stack'
+      @metadataTitle = 'Tech: '
+      @metadataLayoutHtml = 'tech_page_child.html'
+    end
+
+    def generate(site)
+      projects = site.collections['projects']
+      # puts(site.site_data)
+
+      sorted_projects = {}
+      uncategorised_projects = []
+      for project in projects.docs
+        unless project.data['tech_stack']
+          uncategorised_projects.push(project)
+          next
+        end
+
+        # puts("#{project.data['title']} #{project.data['tech_stack']} !")
+        for tech in project.data['tech_stack']
+          unless sorted_projects[tech]
+            sorted_projects[tech] = []
+          end
+          sorted_projects[tech].push(project)
+        end
+      end
+
+      unless @metadataKey.nil?
+        projects = sorted_projects
+        projects.each do |tech, projects|
+          site.pages << TechStackChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, tech), tech, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+        end
       end
     end
   end
@@ -206,6 +247,32 @@ module Jekyll
 
       tech_title = site.config[techTitleKey] || techTitle
       self.data['title'] = "#{tech_title}"
+      tech_dir = site.config[techDirKey] || techDir
+      self.data['techDir'] = tech_dir
+      tech_dir = site.config[techDirKey] || techDir
+      self.data['techDir'] = tech_dir
+
+      self.data['base'] = base
+    end
+  end
+
+  class TechStackChildPage < Page
+    def initialize(site, base, techDirKey, techDir, techKey, projects, techHtml, techPrefixKey, techPrefix)
+      @site = site
+      @base = base
+      @dir = techDir
+      @name = 'index.html'
+      puts("#{techKey} #{projects}")
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), techHtml)
+      self.data['techKey'] = techKey
+      self.data['projects'] = projects
+      # puts(projects)
+
+      tech_title_prefix = site.config[techPrefixKey] || techPrefix
+      self.data['title'] = "#{tech_title_prefix}#{techKey}"
+
       tech_dir = site.config[techDirKey] || techDir
       self.data['techDir'] = tech_dir
       tech_dir = site.config[techDirKey] || techDir
