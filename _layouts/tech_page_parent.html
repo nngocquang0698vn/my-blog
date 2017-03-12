@@ -1,0 +1,40 @@
+---
+layout: page
+---
+{% for item in page.metadataList %}
+{% capture childLink %}
+{{ site.baseurl }}/{{ page.techDir }}/{{ item[0] }}/
+{% endcapture %}
+  <h2 class="{{ itemClass }}-title" id="{{ item.slug }}">
+    <a href="{{ childLink }}">{{ item[0] }}</a>
+  </h2>
+  <ul class="project-list">
+    {% assign projects_list = item[1] %}
+    {% for project in projects_list reversed %}
+      {% if project.title != null %}
+      <li>
+        <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
+      </li>
+      {% endif %}
+    {% endfor %}
+    {% assign projects_list = nil %}
+  </ul>
+{% endfor %}
+
+<div class="divider">
+
+</div>
+
+{% if page.uncategorised_projects and page.uncategorised_projects.size > 0 %}
+<h2>Others</h2>
+<p>The following projects don't have a tech stack associated with them:</p>
+<ul class="project-list">
+	{% for project in page.uncategorised_projects %}
+	{% if project.title != null %}
+	<li>
+		<a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
+	</li>
+	{% endif %}
+	{% endfor %}
+</ul>
+{% endif %}

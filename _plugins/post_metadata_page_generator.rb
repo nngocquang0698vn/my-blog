@@ -1,4 +1,3 @@
-# adapted from Jekyll docs
 module Jekyll
 
   class MetadataParentPage < Page
@@ -69,9 +68,7 @@ module Jekyll
   class CategoryParentPageGenerator < MetadataParentPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'categories_dir'
       @metadataDir = 'categories'
       @metadataKey = 'categories'
@@ -83,9 +80,7 @@ module Jekyll
   class TagParentPageGenerator < MetadataParentPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'tags_dir'
       @metadataDir = 'tags'
       @metadataKey = 'tags'
@@ -124,9 +119,7 @@ module Jekyll
   class CategoryPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'categories_dir'
       @metadataDir = 'categories'
       @metadataKey = 'categories'
@@ -138,9 +131,7 @@ module Jekyll
   class TagPageGenerator < MetadataChildPageGenerator
     safe true
     def initialize(*args)
-      # make sure we use the superclass's attributes
       super(args)
-      # and override what we need
       @metadataDirKey = 'tags_dir'
       @metadataDir = 'tags'
       @metadataKey = 'tags'
@@ -148,4 +139,88 @@ module Jekyll
       @metadataPrefixKey = 'tags_title_prefix'
     end
   end
+
+  class TechStackParentPageGenerator < MetadataParentPageGenerator
+    safe true
+    def initialize(*args)
+      super(args)
+      @metadataDirKey = 'tech_dir'
+      @metadataDir = 'projects/tech'
+      @metadataKey = 'tech_stack'
+      @metadataTitle = 'tech'
+      @metadataTitleKey = 'tech_title_title'
+      @metadataLayoutHtml = 'tech_page_parent.html'
+    end
+
+    def generate(site)
+      projects = site.collections['projects']
+
+      sorted_projects = {}
+      uncategorised_projects = []
+      for project in projects.docs
+        unless project.data['tech_stack']
+          uncategorised_projects.push(project)
+          next
+        end
+
+        for tech in project.data['tech_stack']
+          unless sorted_projects[tech]
+            sorted_projects[tech] = []
+          end
+          sorted_projects[tech].push(project)
+        end
+      end
+
+      unless @metadataKey.nil?
+        site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, sorted_projects, uncategorised_projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+      end
+    end
+  end
+
+  class TechStackChildPageGenerator < MetadataParentPageGenerator
+    safe true
+    def initialize(*args)
+      super(args)
+      @metadataDirKey = 'tech_dir'
+      @metadataDir = 'projects/tech'
+      @metadataKey = 'tech_stack'
+      @metadataTitle = 'Tech: '
+      @metadataLayoutHtml = 'tech_page_child.html'
+    end
+
+    def generate(site)
+      projects = site.collections['projects']
+
+      sorted_projects = {}
+      uncategorised_projects = []
+      for project in projects.docs
+        unless project.data['tech_stack']
+          uncategorised_projects.push(project)
+          next
+        end
+
+        for tech in project.data['tech_stack']
+          unless sorted_projects[tech]
+            sorted_projects[tech] = []
+          end
+          sorted_projects[tech].push(project)
+        end
+      end
+
+      unless @metadataKey.nil?
+        projects = sorted_projects
+        projects.each do |tech, projects|
+          site.pages << MetadataChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, tech), tech, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+        end
+      end
+    end
+  end
+
+  class TechStackParentPage < MetadataParentPage
+    def initialize(site, base, techDirKey, techDir, techKey, projects, uncategorised_projects, techHtml, techTitleKey, techTitle)
+      super(site, base, techDirKey, techDir, techKey, projects, techHtml, techTitleKey, techTitle)
+      self.data['uncategorised_projects'] = uncategorised_projects
+    end
+  end
+
 end
