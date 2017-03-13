@@ -11,8 +11,6 @@ end
 
 group :capistrano do
 	gem 'capistrano'
-	gem 'capistrano-rvm'
-	gem 'capistrano-bundler'
 end
 
 gem 'html-proofer'
