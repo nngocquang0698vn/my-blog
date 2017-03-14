@@ -2,8 +2,6 @@
 
 Jamie Tanna's personal site, built in Jekyll, and enhanced with Gulp.
 
-![Website front page](./assets/img/site.png)
-
 ## Building
 
 The easiest way to build the site is via the Docker container that holds all the dependencies:
