@@ -4,13 +4,13 @@ layout: default
 {% include post/title.html %}
 
 <div class="content">
-    {% if page.toc %}
+    {% unless page.no_toc %}
     <div class="toc">
         <h2>Table of Contents </h2>
         {{ content | toc_only }}
     </div>
     <div class="divider"></div>
-    {% endif %}
+    {% endunless %}
 
     {{ content }}
 </div>
