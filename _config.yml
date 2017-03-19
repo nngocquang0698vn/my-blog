@@ -25,6 +25,13 @@ kramdown:
 
 highlighter: rouge
 
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
+      toc: true
+
 collections:
   projects:
     output: true
