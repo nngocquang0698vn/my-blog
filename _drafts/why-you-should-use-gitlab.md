@@ -43,7 +43,7 @@ Environments are a feature of the CI platform, that help capture the different s
 
 Gitlab also provides the ability to [check out your deployments locally][gitlab-docs-env-ref] does- it does this by creating a Git `ref` which then tracks the commit in each environment - this makes it much less effort to determine which code is currently in which environment, and then whenever you perform a `git pull` you'll be running the latest version of the code.
 
-### Review Apps
+#### Review Apps
 
 Very tightly related to CI and Environments is the [Review Apps][review-apps] functionality.
 
@@ -53,11 +53,11 @@ Right now, the code only works for static sites (more details are in the [Gitlab
 
 ### Gitlab Pages
 
-Gitlab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different, such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [Gitlab's provided example repos][gitlab-pages-group]. Additionally, because it's built on Gitlab's CI platform, you can run many steps before you publish your site. For instance, I run [htmlproofer][htmlproofer] against my site, so I can check that all the links within the site resolve correctly.
+Gitlab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different, such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [Gitlab's provided example repos][gitlab-pages-group]. Additionally, because it's built on Gitlab's CI platform, you can run many steps before you publish your site. For instance, I run [html-proofer][html-proofer] against my site, so I can check that all the links within the site resolve correctly.
 
-### Process Improvements
+#### Process Improvements
 
-Only today, while setting up a new repo for [Hack24][hack24], __@anna__ and I found that unless I was given Master permissions, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
+Only today, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given Master permissions, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
 
 By having more of a delve, I found the following options:
 
@@ -67,7 +67,7 @@ In order to make Merge Requests more robust, it can be useful to enforce the amo
 
 ![Gitlab's protected branches](/assets/img/gitlab-protected-branches.png "Gitlab's protected branches")
 
-Protected branches on Gitlab provide a bit more control over the ability to push and merge - this means that you can limit the two options separately - i.e. you can have a your CI or service account that can push directly to `develop` when running something like [mvn-jgitflow][jgitflow], but that any of the developers in your team can perform a merge. This extra control can be greatly useful when working on larger, distributed teams, and will make it possible to __??__.
+Protected branches on Gitlab provide a bit more control over the ability to push and merge - this means that you can limit the two options separately - i.e. you can ensure only your CI or service account can push directly to `develop` (for instance, when running workflows using something like [mvn-jgitflow][jgitflow]) but that any of the developers in your team can perform a merge _into_ `develop`. This extra control can be greatly useful when working on larger, distributed teams, and will make it possible to more tightly restrict access control to ensure that your project is managed correctly.
 
 ![Gitlab's push rules](/assets/img/gitlab-push-rules.png "Gitlab's approvals section")
 
@@ -79,9 +79,26 @@ Additionally there can be enforcement on the commit messages, making sure that t
 
 ### Open-ness
 
+#### Open Publicity
+
 Gitlab is very different to other companies - most notably how amazingly open and transparent they are with all they do.
 
-For instance, <https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/>
+For instance, they recently [performed an oops and deleted their production database][] while finding that their backup procedures were actually silently failing. They were incredibly open with what actually went wrong, sharing the internal Google Doc that they had been updating live, __??__:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">We accidentally deleted production data and might have to restore from backup. Google Doc with live notes <a href="https://t.co/EVRbHzYlk8">https://t.co/EVRbHzYlk8</a></p>&mdash; GitLab.com Status (@gitlabstatus) <a href="https://twitter.com/gitlabstatus/status/826591961444384768">1 February 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+They even set up a live stream so the public could hop in on their conversations about what to do, and to follow the restore process copying files back to the production server! They also released [a very detailed postmortem][], that explained exactly what happened, and what issues they encountered. Normally, such a postmortem would be only internally available, and therefore the service consumers would have missed out on the real context for what caused the outage. However, Gitlab's incredibly open way of working prevailed, and as Sid had explained to me, it was so everyone could learn from their mistakes, and understand why it happened.
+
+They posted the other day a [follow up][how-is-team-member-1-doing], announcing the promotion for the team member who had __??__.
+
+#### Open Operations
+
+#### Open Source
+
+- Open source (unlike competitors)
+- Open Core (not amazing, _but_ ...)
+
 <https://about.gitlab.com/2017/03/15/gitter-acquisition/>
 
 ## Caveats
@@ -98,6 +115,7 @@ For instance, <https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/>
 [gitlab-ee-docs-container-registry-project]: https://docs.gitlab.com/ee/user/project/container_registry.html#enable-the-container-registry-for-your-project
 [sytses]: https://twitter.com/sytses
 [ayufanpl]: https://twitter.com/ayufanpl
+[anna_hax]: https://twitter.com/anna_hax
 [dind]: https://github.com/jpetazzo/dind
 [octopress]: http://octopress.org/
 [hugo]: https://gohugo.io
@@ -105,3 +123,7 @@ For instance, <https://about.gitlab.com/2017/03/17/how-is-team-member-1-doing/>
 [gitlab-pages-group]: https://gitlab.com/groups/pages
 [jgitflow]: https://bitbucket.org/atlassian/jgit-flow
 [aws-bill-6k]: https://awsinsider.net/articles/2015/09/08/aws-bug-bill.aspx
+[hack24]: https://hack24.co.uk
+[html-proofer]: https://github.com/gjtorikian/html-proofer
+[]: https://techcrunch.com/2017/02/01/gitlab-suffers-major-backup-failure-after-data-deletion-incident/
+[]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
