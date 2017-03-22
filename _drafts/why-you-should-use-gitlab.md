@@ -7,15 +7,22 @@ tags: gitlab opensource
 
 ## tl;dr
 
-`TODO`
+> I would say the main difference is GitHub is designed for people who want to collaborate on writing software, but that's where it stops. GitLab is designed for people to collaborate _and_ take that software right through to build and deployment. &mdash; [eddieajua][eddieajua-dear-github]
+
+- Do you want a 'batteries included' platform, that means you can write, build, review, deploy?
+- Do you want to enhance the process of building software, without having to jump around different services just to get everything done?
+- Do you want to be building on a platform that's built transparently and as actual Open Source?
+- Do you want to support a project built to support you?
+
+If any of the above questions are 'yes', please read on! Sorry in advance for the wall of text, though.
 
 ## On a technical level
 
-There are a number of reasons why Gitlab is technically superior to other hosting providers, and should be considered __??__.
+There are a number of technical reasons why Gitlab is superior to other hosting providers, and should be very strongly considered against using another service.
 
 ### Unlimited Public and Private Repos
 
-Gitlab.com provides, _for free_, unlimited an unlimited amount of both public and private repositories. This was the first reason that got me moved to Gitlab, especially as it was coming to the end of my time using Github's education pack. I had previously used Bitbucket for any private repos I wanted in excess of Github's five repos, but when I found that Gitlab made it possible to have all my repos on a single service, and even better - _for free_ - I was sold.
+Gitlab.com provides an unlimited amount of both public and private repositories, _for free_. This was the first reason that got me moved to Gitlab, especially as it was coming to the end of my time using Github's education pack. I had previously used Bitbucket for any private repos I wanted in excess of Github's five repos, but when I found that Gitlab made it possible to have all my repos on a single service, and even better - _for free_ - I was sold.
 
 ### CI
 
@@ -25,7 +32,7 @@ With Gitlab's CI, you also gain the option of using Docker-based infrastructure,
 
 This removes a lot of the cruft of configuration, making it possible to "just get it working" much more quickly, and not have to work out all the dependencies required for Ruby 2.4.0 on an Ubuntu 14.04 box - instead, you would specify i.e. `image: ruby:2.4.0` and be done.
 
-Additionally, unlike other offerings, you can run the same CI job locally using the Open Source [Gitlab Runner][gitlab-runner], in the same fashion that would be run on Gitlab.com's infrastructure. This is a huge plus - no more `WIP: Travis please run this time` commits! Because of this, you can also configure a runner to run on your own infrastructure - for instance if there is some special configuration, or if it needs to run on a machine __??__.
+Additionally, unlike other offerings, you can run the same CI job locally using the Open Source [Gitlab Runner][gitlab-runner], in the same fashion that would be run on Gitlab.com's infrastructure. This is a huge plus - no more `WIP: Travis please run this time` commits! Because of this, you can also configure a runner to run on your own infrastructure - for instance if there is some special configuration that would take too long on the existing CI infrastructure.
 
 Finally, using [Docker-in-Docker][dind], you can also build Docker images through your CI pipeline - for instance, this site is built using Docker and an image is published to [my container registry][jvtme-container-registry].
 
@@ -37,7 +44,7 @@ Because this is a private registry, too, it means that you don't have to worry a
 
 #### Environments
 
-Environments are a feature of the CI platform, that help capture the different stages that an application must go through before reaching end user consumption, i.e. `dev`, `qa`, `prod`. This is something that is tracked within the [`.gitlab-ci.yml`][jvtme-ci-yaml] file, and then provides an easy way to see what environments are running what code, as well as exposing links to the environments themselves from the Gitlab UI:
+Environments are a feature of the CI platform that help capture the different stages that an application must go through before reaching end user consumption, i.e. `dev`, `qa`, `prod`. This is something that is tracked within the [`.gitlab-ci.yml`][jvtme-ci-yaml] file, and then provides an easy way to see what environments are running what code, as well as exposing links to the environments themselves from the Gitlab UI:
 
 ![The environments page on the repository for `jvt.me`](/assets/img/jvt.me-environments-21-03-17.png)
 
@@ -45,19 +52,17 @@ Gitlab also provides the ability to [check out your deployments locally][gitlab-
 
 #### Review Apps
 
-Very tightly related to CI and Environments is the [Review Apps][review-apps] functionality.
+[Review Apps][review-apps] are very tightly related to CI and Environments and provide the ability to dynamically spin up an `environment` for the Merge Request you are working on, that will be rebuilt on every commit, allowing for quick feedback in your own production-like environment. Because this is integrated in with the CI, it means that it can be achieved using the same toolset that is used for your staging and production environments. This is great because it means that Code Review doesn't require everyone to spin up the code in a staging environment individually, but it instead will perform all of the workload for you, and let the focus be on reviewing the code and application.
 
-Review apps provide the ability to dynamically spin up an `environment` for the Merge Request you are working on, that will be rebuilt on every commit, allowing for quick feedback in your own production-like environment. Because this is integrated in with the CI, it means that it can be achieved using the same toolset that is used for your staging and production environments. This is great because it means that Code Review doesn't require everyone to spin up the code in a staging environment individually, but it instead will perform all of the workload for you, and let the focus be on reviewing the code and application.
-
-Right now, the code only works for static sites (more details are in the [Gitlab Pages section](#gitlab-pages)) but from a conversation I had with [`@systses`][sytses] and [`@ayufanpl`][ayufanpl] at FOSDEM 2017, there is a lot of thought, and work, going into the ability to run full applications through Gitlab itself.
+Right now, the code only works for static sites (more details are in the [Gitlab Pages section](#gitlab-pages)) but from a conversation I had with [@systses][sytses] and [@ayufanpl][ayufanpl] at FOSDEM 2017, there is a lot of thought, and work, going into the ability to run full applications through Gitlab itself.
 
 ### Gitlab Pages
 
-Gitlab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different, such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [Gitlab's provided example repos][gitlab-pages-group]. Additionally, because it's built on Gitlab's CI platform, you can run many steps before you publish your site. For instance, I run [html-proofer][html-proofer] against my site, so I can check that all the links within the site resolve correctly.
+Gitlab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different than [Jekyll][jekyll], such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [Gitlab's provided example repos][gitlab-pages-group]. Additionally, because it's built on Gitlab's CI platform, you can run many steps before you publish your site. For instance, I run [html-proofer][html-proofer] against my site, so I can check that all the links within the site resolve correctly.
 
 #### Process Improvements
 
-Only today, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given Master permissions, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
+Only today, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given the Gitlab `Master` role for the repository, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
 
 By having more of a delve, I found the following options:
 
@@ -75,35 +80,65 @@ In addition, Gitlab adds some extra controls over what can be pushed up - such a
 
 Additionally there can be enforcement on the commit messages, making sure that the messages follow a set format, and that it's committed only from a certain email, or that it's only via a Gitlab.com user.
 
+> **TODO**: Add `merge when PR passes image`
+
+This is another really great feature - having a MR auto-merge when the CI job finishes. No longer do you have to keep checking back to see if i.e. Jenkins has succeeded for the MR. This is something that can be triggered and then you can just go and work on something else, freeing you up to focus on other things. This may not sound like a killer feature, but when you have relatively large build pipelines, this saves you from context switching back and forth to check if things have passed, so you can then merge them.
+
 ## Non-technically
+
+Gitlab also has a few reasons that are about them as a company, and how they approach their work.
 
 ### Open-ness
 
-#### Open Publicity
+Gitlab runs a company that embraces transparency and open-ness, and makes it much easier to want to support them.
+
+#### Open Communication
 
 Gitlab is very different to other companies - most notably how amazingly open and transparent they are with all they do.
 
-For instance, they recently [performed an oops and deleted their production database][] while finding that their backup procedures were actually silently failing. They were incredibly open with what actually went wrong, sharing the internal Google Doc that they had been updating live, __??__:
+In response to the [Dear Github][dear-github] letter, [Gitlab responded][dear-github-gitlab] to show that there were actually a number of features requested that were already available on Gitlab. There were links to the issues raised on their own issue board, for the features that hadn't yet been released, such that anyone would be able to see their progress, opposed to the black box that other companies are.
+
+This transparency was also shown when they recently [did an oops and deleted their production database][techcrunch-gitlab-backup] while finding that their backup procedures were actually silently failing. They were incredibly open with what actually went wrong, sharing the internal Google Doc that they had been updating live, such that the world could see exactly what the internal Gitlab team could:
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">We accidentally deleted production data and might have to restore from backup. Google Doc with live notes <a href="https://t.co/EVRbHzYlk8">https://t.co/EVRbHzYlk8</a></p>&mdash; GitLab.com Status (@gitlabstatus) <a href="https://twitter.com/gitlabstatus/status/826591961444384768">1 February 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-They even set up a live stream so the public could hop in on their conversations about what to do, and to follow the restore process copying files back to the production server! They also released [a very detailed postmortem][], that explained exactly what happened, and what issues they encountered. Normally, such a postmortem would be only internally available, and therefore the service consumers would have missed out on the real context for what caused the outage. However, Gitlab's incredibly open way of working prevailed, and as Sid had explained to me, it was so everyone could learn from their mistakes, and understand why it happened.
-
-They posted the other day a [follow up][how-is-team-member-1-doing], announcing the promotion for the team member who had __??__.
+They even set up a live stream so the public could hop in on their conversations about what to do, and to follow the restore process copying files back to the production server! They also released [a very detailed postmortem][gitlab-database-postmortem], that explained exactly what happened, and what issues they encountered. Normally, such a postmortem would be only internally available, and therefore the service consumers would have missed out on the real context for what caused the outage. However, Gitlab's incredibly open way of working prevailed, and as Sid had explained to me, it was so everyone could learn from their mistakes, and understand why it happened.
 
 #### Open Operations
 
+As above, there is a lot of open-ness that Gitlab __??__. For instance, [their 'team handbook' is source available][gitlab-handbook], and details 'about 500 pages of text' about how exactly they run the company - for instance the benefits that can be found, the values and beliefs they hold as a company, and technical information about team structures.
+
+As well as how the company itself is run, they also have all their issue tracking about their [infrastructure and day-to-day jobs][gitlab-infrastructure] all on Gitlab.com, too. I adore the fact that the whole world is able to watch as Gitlab approach problems, and communicate in the most collaborative way possible - it's a huge plus, and shows that they live 'open-ness'.
+
 #### Open Source
 
-- Open source (unlike competitors)
-- Open Core (not amazing, _but_ ...)
+Although this is a technical reason, I thought I'd put this in the 'Open-ness' section, as it fits in well with the others.
+
+Gitlab has an 'open core' model, which means that it provides a free, core version of Gitlab, called [Gitlab Community Edition][gitlab-ce] which is MIT Expat licensed. This product is completely free, __??__. There is a proprietary version called Gitlab Enterprise Edition, which is the version you will find on Gitlab.com. This means that although it's not 100% open, it's a lot more open than their competitors. The main feature differences between the versions are [compared here][gitlab-compare-editions], but EE is primarily aimed at Enterprises, so are built for access management over hundreds or thousands of users.
+
+The reasoning for Open Core is simple - by having an Enterprise version, they can keep Gitlab.com gratis (free as in beer). The income gained by Gitlab EE licenses pays for a blinding majority of the costs of the company, making it possible to have the work on the Open Source project as well as providing the ability to have Gitlab.com completely gratis. However, just because features are in Gitlab EE doesn't mean that they won't reach the CE.
+
+There was recently [an issue raised][gitlab-issue-pages-ce] that a number of people wanted Gitlab Pages in the Community Edition, as it was only available for Gitlab EE. After __??__, Gitlab realised that there was a lot of users who wanted this, and therefore [decided to bring Pages to Gitlab CE][gitlab-issue-pages-ce]. These sorts of wins for the community are huge - a company that's built on Open Source, Open-ness and general respect and love for their users is one that you should always want to support.
 
 <https://about.gitlab.com/2017/03/15/gitter-acquisition/>
 
 ## Caveats
 
-`TODO`
+### Open Core
+
+Although they're Open Source, it's still not quite open enough. As there are a number of features only available in Gitlab.com, there may be workflows you start to use that you then can't reproduce on CE, meaning that you're then locked into using EE. However, as mentioned, Gitlab do release features from EE into CE regularly, so there is always the chance that something you'd like to have in the CE can be requested.
+
+### Infrastructure Issues
+
+Since I've been using Gitlab (about 18 months) there have been a few times where they've had issues with their infrastructure - such that they have had service outages for short periods of time (the worst being around 45 minutes, excluding their backups mishap).
+
+### Less Community Usage
+
+Being a lesser used platform, there are less projects that are hosted solely on Gitlab, meaning that it's harder to get exposure, as less people are going to be using it. Additionally, the search and [discoverability functionality isn't ideal][systses-discoverability], and therefore it's a bit harder to find what you want.
+
+There's an easy fix for this though - let this article persuade you to give it a go, and to start using it for a couple of projects you have. Then, if you're happy with it, convince a friend to join. Very soon, it'll be growing pretty large and building the community even more.
+
 
 [review-apps]: https://about.gitlab.com/features/review-apps/
 [environments]: https://gitlab.com/help/ci/environments
@@ -125,5 +160,15 @@ They posted the other day a [follow up][how-is-team-member-1-doing], announcing 
 [aws-bill-6k]: https://awsinsider.net/articles/2015/09/08/aws-bug-bill.aspx
 [hack24]: https://hack24.co.uk
 [html-proofer]: https://github.com/gjtorikian/html-proofer
-[]: https://techcrunch.com/2017/02/01/gitlab-suffers-major-backup-failure-after-data-deletion-incident/
-[]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
+[techcrunch-gitlab-backup]: https://techcrunch.com/2017/02/01/gitlab-suffers-major-backup-failure-after-data-deletion-incident/
+[gitlab-database-postmortem]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
+[gitlab-handbook]: https://about.gitlab.com/handbook/
+[gitlab-infrastructure]: https://gitlab.com/gitlab-com/infrastructure/issues
+[gitlab-ce]: https://gitlab.com/gitlab-org/gitlab-ce
+[gitlab-compare-editions]: https://about.gitlab.com/products/#compare-options
+[gitlab-issue-pages-ce]: https://gitlab.com/gitlab-org/gitlab-ce/issues/14605
+[systses-discoverability]: https://twitter.com/sytses/status/842806897447116801
+[eddieajua-dear-github]: https://github.com/dear-github/dear-github/issues/56#issuecomment-236050643
+[dear-github]: https://github.com/dear-github/dear-github/tree/2f45c3255a55c3ac111817840537151d96e1649e
+[dear-github-gitlab]: https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
+[jekyll]: https://jekyllrb.com
