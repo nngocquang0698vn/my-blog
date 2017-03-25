@@ -62,7 +62,7 @@ Right now, the code only works for static sites (more details are in the [Gitlab
 
 Gitlab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different than [Jekyll][jekyll], such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [Gitlab's provided example repos][gitlab-pages-group]. Additionally, because it's built on Gitlab's CI platform, you can run many steps before you publish your site. For instance, I run [html-proofer][html-proofer] against my site, so I can check that all the links within the site resolve correctly.
 
-#### Process Improvements
+### Process Improvements
 
 Last weekend, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given the Gitlab `Master` role for the repository, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
 
@@ -88,13 +88,15 @@ Additionally there can be enforcement on the commit messages, making sure that t
 
 <div class="divider"></div>
 
-> **TODO**: Add `merge when PR passes image`
+![Gitlab Merge Requests can be automerged when CI pipelines succeed](/assets/img/gitlab-merge-when-ci-succeeds.png "You can set Gitlab to automerge a Merge Request when the CI Pipeline succeeds")
 
 This is another really great feature - having a MR auto-merge when the CI job finishes. No longer do you have to keep checking back to see if i.e. Jenkins has succeeded for the MR. This is something that can be triggered and then you can just go and work on something else, freeing you up to focus on other things. This may not sound like a killer feature, but when you have relatively large build pipelines, this saves you from context switching back and forth to check if things have passed, so you can then merge them.
 
 <div class="divider"></div>
 
-**TODO: WIP MR**
+![Gitlab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](/assets/img/gitlab-wip-merge.png "A WIP Merge Request cannot be merged until the `WIP` is removed from the title")
+
+![Gitlab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](/assets/img/gitlab-wip-merge-2.png "A WIP Merge Request cannot be merged until the `WIP` is removed from the title")
 
 This is something that I've found when working on teams using Github - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-Gitlab article` and then add a `DO_NOT_MERGE` label. However, Gitlab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
 
@@ -110,7 +112,7 @@ Gitlab runs a company that embraces transparency and open-ness, and makes it muc
 
 Gitlab is very different to other companies - most notably how amazingly open and transparent they are with all they do.
 
-In response to the [Dear Github][dear-github] letter, [Gitlab responded][dear-github-gitlab] to show that there were actually a number of features requested that were already available on Gitlab. There were links to the issues raised on their own issue board, for the features that hadn't yet been released, such that anyone would be able to see their progress, opposed to the black box that other companies are.
+In response to the [Dear Github][dear-github] letter, [Gitlab responded][dear-github-gitlab] to show that there were actually a number of features requested that were already available on Gitlab. For the features that hadn't yet been released, there were links to the issues raised on their own issue board, such that anyone would be able to see Gitlab's discussion on the progress of the feature. This stark contrast compared to the black box that other companies are was a welcome change for a number of people.
 
 This transparency was also shown when they recently [did an oops and deleted their production database][techcrunch-gitlab-backup] while finding that their backup procedures were actually silently failing. They were incredibly open with what actually went wrong, sharing the internal Google Doc that they had been updating live, such that the world could see exactly what the internal Gitlab team could:
 
@@ -121,15 +123,15 @@ They even set up a live stream so the public could hop in on their conversations
 
 #### Open Operations
 
-As above, there is a lot of open-ness that Gitlab __??__. For instance, [their 'team handbook' is source available][gitlab-handbook], and details 'about 500 pages of text' about how exactly they run the company - for instance the benefits that can be found, the values and beliefs they hold as a company, and technical information about team structures.
+As above, there is a lot of open-ness that Gitlab practices. For instance, [their 'team handbook' is source available][gitlab-handbook], and there are 'about 500 pages of text' about the ins-and-outs of how they run the company - for instance the benefits that can be found, the values and beliefs they hold as a company, and technical information about team structures.
 
 As well as how the company itself is run, they also have all their issue tracking about their [infrastructure and day-to-day jobs][gitlab-infrastructure] all on Gitlab.com, too. I adore the fact that the whole world is able to watch as Gitlab approach problems, and communicate in the most collaborative way possible - it's a huge plus, and shows that they live 'open-ness'.
 
 #### Open Source
 
-Although this is a technical reason, I thought I'd put this in the 'Open-ness' section, as it fits in well with the others.
+Although this is a technical reason, I thought I'd put this in the 'Open-ness' section, as it complements the others in this section.
 
-Gitlab has an 'open core' model, which means that it provides a free, core version of Gitlab, called [Gitlab Community Edition][gitlab-ce] which is MIT Expat licensed. This product is completely free, __??__. There is a proprietary version called Gitlab Enterprise Edition, which is the version you will find on Gitlab.com. This means that although it's not 100% open, it's a lot more open than their competitors. The main feature differences between the versions are [compared here][gitlab-compare-editions], but EE is primarily aimed at Enterprises, so are built for access management over hundreds or thousands of users.
+Gitlab has an 'open core' model, which means that it provides a free, core version of Gitlab, called [Gitlab Community Edition][gitlab-ce] which is MIT Expat licensed. This product is completely free and is available in different means - via [source][gitlab-ce-source], via [Docker image][gitlab-ce-docker] and via [Omnibus package][gitlab-ce-omnibus]. There is a proprietary version called Gitlab Enterprise Edition, which is the version you will find running on Gitlab.com. This means that although it's not 100% open, it's a lot more open than their competitors. The main feature differences between the versions are [compared here][gitlab-compare-editions], but EE is primarily aimed at Enterprises, so are built for access management over hundreds or thousands of users.
 
 The reasoning for Open Core is simple - by having an Enterprise version, they can keep Gitlab.com gratis (free as in beer). The income gained by Gitlab EE licenses pays for a blinding majority of the costs of the company, making it possible to have the work on the Open Source project as well as providing the ability to have Gitlab.com completely gratis. However, just because features are in Gitlab EE doesn't mean that they won't reach the CE.
 
@@ -152,6 +154,10 @@ Since I've been using Gitlab (about 18 months) there have been a few times where
 Being a lesser used platform, there are less projects that are hosted solely on Gitlab, meaning that it's harder to get exposure, as less people are going to be using it. Additionally, the search and [discoverability functionality isn't ideal][systses-discoverability], and therefore it's a bit harder to find what you want.
 
 There's an easy fix for this though - let this article persuade you to give it a go, and to start using it for a couple of projects you have. Then, if you're happy with it, convince a friend to join. Very soon, it'll be growing pretty large and building the community even more.
+
+## Conclusion
+
+Overall, I hope that the above reasons give you enough reason to at least try out Gitlab.com and to experience the unified platform it provides. I hope that given a bit of exposure to what it can provide you, Gitlab can help you become more productive, and at the same time, you can help shape Gitlab into something that will help others everywhere.
 
 
 [review-apps]: https://about.gitlab.com/features/review-apps/
@@ -186,3 +192,6 @@ There's an easy fix for this though - let this article persuade you to give it a
 [dear-github]: https://github.com/dear-github/dear-github/tree/2f45c3255a55c3ac111817840537151d96e1649e
 [dear-github-gitlab]: https://about.gitlab.com/2016/01/15/making-gitlab-better-for-large-open-source-projects/
 [jekyll]: https://jekyllrb.com
+[gitlab-ce-source]: https://gitlab.com/gitlab-org/gitlab-ce
+[gitlab-ce-docker]: https://hub.docker.com/r/gitlab/gitlab-ce/
+[gitlab-ce-omnibus]: https://gitlab.com/gitlab-org/omnibus-gitlab/
