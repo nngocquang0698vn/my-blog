@@ -80,7 +80,7 @@ Protected branches on Gitlab provide a bit more control over the ability to push
 
 <div class="divider"></div>
 
-![Gitlab's push rules](/assets/img/gitlab-push-rules.png "Gitlab's approvals section")
+![Gitlab's push rules](/assets/img/gitlab-push-rules.png "Gitlab's push rules")
 
 In addition, Gitlab adds some extra controls over what can be pushed up - such as blocking any secrets, which is common to hear about, and I can see being a great thing to have enabled, for that one time you forget and then end up with a [$6000 AWS bill][aws-bill-6k].
 
