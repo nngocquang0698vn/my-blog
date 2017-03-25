@@ -135,7 +135,7 @@ Gitlab has an 'open core' model, which means that it provides a free, core versi
 
 The reasoning for Open Core is simple - by having an Enterprise version, they can keep Gitlab.com gratis (free as in beer). The income gained by Gitlab EE licenses pays for a blinding majority of the costs of the company, making it possible to have the work on the Open Source project as well as providing the ability to have Gitlab.com completely gratis. However, just because features are in Gitlab EE doesn't mean that they won't reach the CE.
 
-There was recently [an issue raised][gitlab-issue-pages-ce] that a number of people wanted Gitlab Pages in the Community Edition, as it was only available for Gitlab EE. After __??__, Gitlab realised that there was a lot of users who wanted this, and therefore [decided to bring Pages to Gitlab CE][gitlab-issue-pages-ce]. These sorts of wins for the community are huge - a company that's built on Open Source, Open-ness and general respect and love for their users is one that you should always want to support.
+There was recently [an issue raised][gitlab-issue-pages-ce] that a number of people wanted Gitlab Pages in the Community Edition, as it was only available for Gitlab EE. After announcing the release, Gitlab realised that there was a lot of users who wanted this, and therefore [decided to bring Pages to Gitlab CE][gitlab-issue-pages-ce]. These sorts of wins for the community are huge - a company that's built on Open Source, Open-ness and general respect and love for their users is one that you should always want to support.
 
 <https://about.gitlab.com/2017/03/15/gitter-acquisition/>
 
