@@ -8,7 +8,7 @@ description:
 Managing infrastructure with OpsTheatre
 Full self hosted solutions
 
-Mattermost integrated with Gitlab ce
+Mattermost integrated with GitLab ce
 Communication is so important - doesn't happen nearly enough
 
 Infrastructure not important

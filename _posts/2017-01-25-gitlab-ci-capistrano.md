@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Continuous Delivery with Capistrano and Gitlab Continuous Integration
-description: How to get up and running with using Gitlab CI and the Capistrano deploy tool
+title:  Continuous Delivery with Capistrano and GitLab Continuous Integration
+description: How to get up and running with using GitLab CI and the Capistrano deploy tool
 categories:
 tags: capistrano deploy ci gitlab docker
 ---
@@ -28,13 +28,13 @@ Capistrano also has a concept called roles which provides the ability to describ
 
 Although this functionality can all be done with a set of shell scripts (or indeed one of the many other deploy tools), Capistrano's simplicity makes it an ideal tool for simple and complex applications alike. My choice to use Capistrano was due to my use of Jekyll, and its ability to work with many different ecosystems, such as the ability to run `grunt` for `hacknotts.com`.
 
-## How to Hook into Gitlab Continuous Integration
+## How to Hook into GitLab Continuous Integration
 
-Now we understand why we would want to use Capistrano, let's look at how to integrate the process into Gitlab's CI.
+Now we understand why we would want to use Capistrano, let's look at how to integrate the process into GitLab's CI.
 
 ### CI Images + Dependencies
 
-One of the great things about [Gitlab CI][gitlab-ci], that is not available in something like [Travis CI][travis-ci], is that you can provide your own Docker images to be run as part of the CI infrastructure. For instance, instead of having a set image in Travis, which may or may not have dependencies, which you then need to install, you can leverage this and specify what you want your tests to run on.
+One of the great things about [GitLab CI][gitlab-ci], that is not available in something like [Travis CI][travis-ci], is that you can provide your own Docker images to be run as part of the CI infrastructure. For instance, instead of having a set image in Travis, which may or may not have dependencies, which you then need to install, you can leverage this and specify what you want your tests to run on.
 
 For instance, we want to be using Capistrano, which is a Ruby tool. Therefore, we would want to have Ruby preinstalled. This can be done with the following line in our `.gitlab-ci.yml` file, which specifies a Docker image that can be grabbed straight from the Docker hub.
 
@@ -102,7 +102,7 @@ However, there is an issue; Capistrano won't work! Due to the method it uses SSH
 
 However, due to the way that key-based authentication works, this will require the saving of the private key for the job. As such, this needs to be carefully done; if the private key is at any point exposed in the logs, this will compromise the security of the server.
 
-Therefore, the best method is to use `ssh-agent`, as outlined in [the Gitlab docs][ssh-keys-in-gitlab-ci]. Note that these steps will only work on a Debian-based host. If running on a different Operating System, you will need to install `ssh-agent` through your package manager.
+Therefore, the best method is to use `ssh-agent`, as outlined in [the GitLab docs][ssh-keys-in-gitlab-ci]. Note that these steps will only work on a Debian-based host. If running on a different Operating System, you will need to install `ssh-agent` through your package manager.
 
 ```yml
 staging_deploy:
@@ -118,7 +118,7 @@ staging_deploy:
     - develop
 ```
 
-This requires that we have added our SSH key into the `Variables` section in the Gitlab project. A workaround that fixes a bug where the private key isn't interpreted correctly can be done by replacing each of the newlines with a literal `\n`.
+This requires that we have added our SSH key into the `Variables` section in the GitLab project. A workaround that fixes a bug where the private key isn't interpreted correctly can be done by replacing each of the newlines with a literal `\n`.
 
 ```bash
 # http://stackoverflow.com/a/1252191
