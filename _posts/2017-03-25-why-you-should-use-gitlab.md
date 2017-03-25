@@ -165,7 +165,7 @@ Overall, I hope that the above reasons give you enough reason to at least try ou
 [ci-stages]: https://docs.gitlab.com/ce/ci/pipelines.html#pipelines
 [gitlab-runner]: https://docs.gitlab.com/runner/
 [gitlab-docs-env-ref]: https://gitlab.com/help/ci/environments
-[jvtme-ci-yaml]: https://gitlab.com/jamietanna/jvt.me/blob/.gitlab-ci.yml
+[jvtme-ci-yaml]: https://gitlab.com/jamietanna/jvt.me/blob/master/.gitlab-ci.yml
 [jvtme-container-registry]: https://gitlab.com/jamietanna/jvt.me/container_registry
 [gitlab-ee-docs-container-registry-project]: https://docs.gitlab.com/ee/user/project/container_registry.html#enable-the-container-registry-for-your-project
 [sytses]: https://twitter.com/sytses
