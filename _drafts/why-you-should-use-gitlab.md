@@ -9,7 +9,7 @@ tags: gitlab opensource
 
 > I would say the main difference is GitHub is designed for people who want to collaborate on writing software, but that's where it stops. GitLab is designed for people to collaborate _and_ take that software right through to build and deployment. &mdash; [eddieajua][eddieajua-dear-github]
 
-- Do you want a 'batteries included' platform, that means you can write, build, review, deploy?
+- Do you want a 'batteries included' platform, that means you can write, build, review, deploy all within the same place?
 - Do you want to enhance the process of building software, without having to jump around different services just to get everything done?
 - Do you want to be building on a platform that's built transparently and as actual Open Source?
 - Do you want to support a project built to support you?
@@ -38,9 +38,11 @@ Finally, using [Docker-in-Docker][dind], you can also build Docker images throug
 
 #### Private Registry
 
-As mentioned above, Gitlab.com provides a private Docker registry, per project. That means that if you're using Docker for your project, you can instantly build up to it, and pull from it, with no extra steps. All you need to do [is enable it][gitlab-ee-docs-container-registry-project].
+As mentioned above, Gitlab.com provides a private Docker registry per project. That means that if you're using Docker for your project, you can anonymously pull images, and push images easily once you've performed a `docker login`. All you need to do [is enable it][gitlab-ee-docs-container-registry-project] for your project, and then you're ready to go.
 
 Because this is a private registry, too, it means that you don't have to worry about getting a paid subscription to the Docker hub, or work out how to set one up yourself - it all _just works_!
+
+For instance, this is how I [distribute this site][jvtme-container-registry], and I use it for its ability to contain all my dependencies for development, CI, and deployments.
 
 #### Environments
 
@@ -48,13 +50,13 @@ Environments are a feature of the CI platform that help capture the different st
 
 ![The environments page on the repository for `jvt.me`](/assets/img/jvt.me-environments-21-03-17.png)
 
-Gitlab also provides the ability to [check out your deployments locally][gitlab-docs-env-ref] does- it does this by creating a Git `ref` which then tracks the commit in each environment - this makes it much less effort to determine which code is currently in which environment, and then whenever you perform a `git pull` you'll be running the latest version of the code.
+Gitlab also provides the ability to [check out your deployments locally][gitlab-docs-env-ref] - it does this by creating a Git `ref` which then tracks the commit in each environment. This makes it much less effort to determine which code is currently in which environment in a way that requires no manual (or even scripted) work by yourself, as it is handled through Gitlab itself, and you can easily hook into it as the link describes.
 
 #### Review Apps
 
-[Review Apps][review-apps] are very tightly related to CI and Environments and provide the ability to dynamically spin up an `environment` for the Merge Request you are working on, that will be rebuilt on every commit, allowing for quick feedback in your own production-like environment. Because this is integrated in with the CI, it means that it can be achieved using the same toolset that is used for your staging and production environments. This is great because it means that Code Review doesn't require everyone to spin up the code in a staging environment individually, but it instead will perform all of the workload for you, and let the focus be on reviewing the code and application.
+[Review Apps][review-apps] are very tightly related to [CI](#ci) and [Environments](#environments) and provide the ability to dynamically spin up an `environment` for the Merge Request you are working on, that will be rebuilt on every commit, allowing for quick feedback in your own production-like environment. Because this is integrated in with the CI, it means that it can be achieved using the same toolset that is used for your staging and production environments. This is great because it means that Code Review doesn't require everyone to spin up the code in a staging environment individually, but it instead will perform all of the workload for you, and let the focus be on reviewing the code and application.
 
-Right now, the code only works for static sites (more details are in the [Gitlab Pages section](#gitlab-pages)) but from a conversation I had with [@systses][sytses] and [@ayufanpl][ayufanpl] at FOSDEM 2017, there is a lot of thought, and work, going into the ability to run full applications through Gitlab itself.
+Right now, the code only works for static sites (more details are in the [Gitlab Pages section](#gitlab-pages)) but from a conversation I had with [@systses][sytses] and [@ayufanpl][ayufanpl] at FOSDEM 2017, there is a lot of thought and work going into the ability to run full, dynamic, applications through Gitlab.
 
 ### Gitlab Pages
 
@@ -62,7 +64,7 @@ Gitlab Pages has a huge advantage over other providers - you can use _any static
 
 #### Process Improvements
 
-Only today, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given the Gitlab `Master` role for the repository, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
+Last weekend, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given the Gitlab `Master` role for the repository, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
 
 By having more of a delve, I found the following options:
 
@@ -70,9 +72,13 @@ By having more of a delve, I found the following options:
 
 In order to make Merge Requests more robust, it can be useful to enforce the amount of approvals that must be given in order to allow a merge to occur. At the same time, there may be specific people in your project that you'd want to perform an approval for, and therefore you can call them out here, too.
 
+<div class="divider"></div>
+
 ![Gitlab's protected branches](/assets/img/gitlab-protected-branches.png "Gitlab's protected branches")
 
 Protected branches on Gitlab provide a bit more control over the ability to push and merge - this means that you can limit the two options separately - i.e. you can ensure only your CI or service account can push directly to `develop` (for instance, when running workflows using something like [mvn-jgitflow][jgitflow]) but that any of the developers in your team can perform a merge _into_ `develop`. This extra control can be greatly useful when working on larger, distributed teams, and will make it possible to more tightly restrict access control to ensure that your project is managed correctly.
+
+<div class="divider"></div>
 
 ![Gitlab's push rules](/assets/img/gitlab-push-rules.png "Gitlab's approvals section")
 
@@ -80,9 +86,17 @@ In addition, Gitlab adds some extra controls over what can be pushed up - such a
 
 Additionally there can be enforcement on the commit messages, making sure that the messages follow a set format, and that it's committed only from a certain email, or that it's only via a Gitlab.com user.
 
+<div class="divider"></div>
+
 > **TODO**: Add `merge when PR passes image`
 
 This is another really great feature - having a MR auto-merge when the CI job finishes. No longer do you have to keep checking back to see if i.e. Jenkins has succeeded for the MR. This is something that can be triggered and then you can just go and work on something else, freeing you up to focus on other things. This may not sound like a killer feature, but when you have relatively large build pipelines, this saves you from context switching back and forth to check if things have passed, so you can then merge them.
+
+<div class="divider"></div>
+
+**TODO: WIP MR**
+
+This is something that I've found when working on teams using Github - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-Gitlab article` and then add a `DO_NOT_MERGE` label. However, Gitlab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
 
 ## Non-technically
 
