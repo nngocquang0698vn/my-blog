@@ -344,7 +344,9 @@ pre code {
 /* }}} */
 
 a {
-	color: #b324d4;
+	&, & code {
+		color: #b324d4;
+	}
 }
 
 .image i {
