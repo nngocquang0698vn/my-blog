@@ -5,7 +5,7 @@ layout: page
 {% capture childLink %}
 {{ site.baseurl }}/{{ page.metadataDir }}/{{ item[0] }}/
 {% endcapture %}
-  <h2 class="{{ itemClass }}-title" id="{{ item[0] | slugify }}">
+  <h2 id="{{ item[0] | slugify }}">
     <a href="{{ childLink }}">{{ item[0] | capitalize }}</a>
   </h2>
   <ul class="post-list">
