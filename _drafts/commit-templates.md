@@ -82,10 +82,6 @@ Once hitting `<TAB>` in the file, I can then move around the file quickly, addin
 
 [![asciicast](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0.png)](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0)
 
-
-
-<div class="divider"></div>
-
 [beams-commit]: https://chris.beams.io/posts/git-commit/
 [tpope-commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [jvt-talk]: https://github.com/jamietanna/gittalk15/releases/tag/v2
