@@ -80,7 +80,7 @@ cmt
 
 Once hitting `<TAB>` in the file, I can then move around the file quickly, adding a message as follows:
 
-**TODO: Asciinema**
+[![asciicast](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0.png)](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0)
 
 
 
