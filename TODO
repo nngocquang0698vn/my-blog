@@ -1,3 +1,8 @@
+Review apps may be easier if we move the Nginx configs in-tree first
+- We can get Capistrano/Rake to perform our deploy, symlink and config
+- Then we can add a Capistrano/Rake task for i.e. `review:start`, `review:update` and `review:end`?
+
+
 - use `last-modified` attribute for each page
 - fix `/tags/`
 - fix running on Windows? or remove
