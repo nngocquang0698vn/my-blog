@@ -50,7 +50,6 @@ gulp.task('jekyll-build', function (done) {
 		// we need this as the first argument after `build`
 		args.push('--drafts');
 	}
-	args.push('--incremental');
 	return cp.spawn('bundle', args, {stdio: 'inherit'})
 		.on('close', done);
 });
