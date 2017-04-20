@@ -3,8 +3,10 @@
      src: capitalone_logo.png
      alt: Capital One UK Logo
    description:
-       - As of September 2016, I have joined [Capital One](http://www.capitalone.co.uk/) as a Graduate Software Engineer, working in the UK Core Services team. Our team is currently working on creating a Java [Jersey](http://jersey.java.net) + [Spring](http://spring.io) application that will be one of the first UK applications that are to be deployed to [Amazon Web Services](http://aws.amazon.com).
-       - I've found this an incredibly exciting time, being able to take my experience with Web Applications, Continuous Integration and Continuous Deployment (via [Jenkins](http://jenkins.io)) and Java development skills to a whole new level. Additionally, I've been able to work in my first Agile software development team, and have been able to experience Test Driven Development and Sprints in a real world situation.
+       - I am currently working as a Graduate Software Engineer at [Capital One](http://www.capitalone.co.uk/), working in the Customer Account Services team as part of the Platform Services group.
+       - We are currently working on an insourcing of the Online Account System that our customers see when visiting our site, and are part of a number of teams working towards the front- and back-end infrastructure and software to support this. Our current focus is building the Identity and Access Management Service, utilising [Forgerock OpenAM](https://en.wikipedia.org/wiki/OpenAM). As part of this, we are building using Java, and performing a host of Configuration Management tasks using [Chef](https://en.wikipedia.org/wiki/Chef_(software)).
+       - We have previously done work on creating a Java [Jersey](http://jersey.java.net) + [Spring](http://spring.io) application that was the third UK application that was deployed live to [Amazon Web Services](http://aws.amazon.com).
+       - I've found this an incredibly exciting time, being able to take my experience with performing more of a "build it, support it model", which is encouraged by the DevOps culture that Capital One practices internally. This gives us, the developers, the understanding of how to get our project from local development through to production, as well as setting up CI/CD pipelines as well as gated promotions for artefacts via [Jenkins](http://jenkins.io). This experience has been really useful, and has exposed me to tools such as Chef, which I am now personally utilising for my own infrastructure needs, and am championing internally. Additionally, I've been able to work in my first Agile software development team, and have been able to experience Test Driven Development and Sprints in a real world situation.
  - title: Student
    image:
      src: uon_logo.png
@@ -24,7 +26,8 @@
    description:
     - <blockquote>If you have to repeat a task more than twice, you need to automate it</blockquote>
     - One of the best things about being a programmer is that I have the ability to automate the repetitive tasks that I'd rather not continually do. Whether this is rerunning my tests as soon as a source file has changed, or filling out a form that little bit quicker, I'll automate it. By automating these small tasks, it means I get to spend more time on the important things, like actually building cool things.
-    - I primarily use one-liners, but if it gets to be more complicated I will most probably write a Bash script, or for more robust scripts, with ease of readability and maintenance, write it in Python.
+    - Working quite a lot on the command line, I have had experience writing Bash one-liners, and automating a lot of tasks via Bash (or Python) scripts.
+    - However, I have recently been working with [Chef](https://en.wikipedia.org/wiki/Chef_(software)) and [Ansible](https://en.wikipedia.org/wiki/Ansible_(software)) for configuration management. My experience with Chef at Capital One has given me the experience to start using it for my own infrastructure configuration.
     - Unfortunately, I seem to fall prey to the ever relevant XKCDs; [Automation](https://xkcd.com/1319) [Is It Worth the Time?](https://xkcd.com/1205/) and [The General Problem](https://xkcd.com/974/)
  - title: Hacker
    image:
