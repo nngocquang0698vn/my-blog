@@ -1,10 +1,4 @@
-{% capture categoryLink %}
-{% if post.categories[0] %}
-<a href="/categories/{{ post.categories[0] }}/">{{ post.categories[0] }}</a>
-{% else %}
-{% include error.html %}
-{% endif %}
-{% endcapture %}
+{% capture categoryLink %}{% if post.categories[0] %}<a href="/categories/{{ post.categories[0] }}/">{{ post.categories[0] }}</a>{% else %}{% include error.html %}{% endif %}{% endcapture %}
 <article>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <div class="post-meta">
