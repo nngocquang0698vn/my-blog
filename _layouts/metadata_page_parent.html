@@ -15,6 +15,7 @@ layout: page
       <li>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
 					</a>
+					&nbsp;
 					<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
       </li>
       {% endif %}
