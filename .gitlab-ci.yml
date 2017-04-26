@@ -37,6 +37,7 @@ test_image:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     - docker pull $CONTAINER_TEST_IMAGE
     - docker run $CONTAINER_TEST_IMAGE bundle exec jekyll doctor -d _site
+    - docker run $CONTAINER_TEST_IMAGE bundle exec ls -R _site
     - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
 # }}}
 
