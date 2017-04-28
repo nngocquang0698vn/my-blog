@@ -3,9 +3,10 @@ services:
     - docker:1.13-rc-dind
 
 variables:
-  CONTAINER_IMAGE_URL: registry.gitlab.com/jamietanna/jvt.me
-  CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_URL:$CI_BUILD_REF_SLUG
-  CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_URL:latest
+  CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
+  CONTAINER_BUILD_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
+  CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
+  CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
   STAGING_URL: https://dev.jvt.me
@@ -25,9 +26,11 @@ build_image:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     # pull the latest base image on a master build
     - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
-    - docker pull $CONTAINER_TEST_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
-    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_TEST_IMAGE .
-    - docker push $CONTAINER_TEST_IMAGE
+    - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
+    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILD_IMAGE .
+    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker push $CONTAINER_BUILD_IMAGE
+    - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
 
 # Ensure that all tests pass {{{
@@ -35,9 +38,9 @@ test_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_TEST_IMAGE
-    - docker run $CONTAINER_TEST_IMAGE bundle exec jekyll doctor -d _site
-    - docker run $CONTAINER_TEST_IMAGE bundle exec htmlproofer --only-4xx _site
+    - docker pull $CONTAINER_BUILD_IMAGE
+    - docker run $CONTAINER_BUILD_IMAGE bundle exec jekyll doctor -d _site
+    - docker run $CONTAINER_BUILD_IMAGE bundle exec htmlproofer --only-4xx _site
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
@@ -45,8 +48,8 @@ release_image:
   stage: release
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_TEST_IMAGE
-    - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker pull $CONTAINER_BUILD_IMAGE
+    - docker tag $CONTAINER_BUILD_IMAGE $CONTAINER_RELEASE_IMAGE
     - docker push $CONTAINER_RELEASE_IMAGE
   only:
     - master

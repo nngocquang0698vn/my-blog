@@ -33,7 +33,7 @@ ENV LANG C.UTF-8
 ADD . /site
 RUN npm install
 ENV PATH=$PATH:/site/node_modules/.bin
-RUN bundle install
+RUN bundle install --without capistrano
 # }}}
 
 # Build our site {{{
