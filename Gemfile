@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-group :jekyll do
+group :build do
 	gem 'jekyll'
 	gem 'jekyll-git_metadata'
 	gem 'jekyll-seo-tag'
@@ -9,8 +9,10 @@ group :jekyll do
 	gem 'rouge'
 end
 
-group :capistrano do
-	gem 'capistrano'
+group :test do
+  gem 'html-proofer'
 end
 
-gem 'html-proofer'
+group :deploy do
+  gem 'capistrano'
+end
