@@ -57,7 +57,7 @@ release_image:
 
 # Only develop should deploy to staging {{{
 staging_deploy:
-  image: $CONTAINER_RELEASE_IMAGE
+  image: $CONTAINER_DEPLOY_IMAGE
   stage: deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
@@ -78,7 +78,7 @@ staging_deploy:
 
 # Only master should auto deploy to production {{{
 prod_deploy:
-  image: $CONTAINER_RELEASE_IMAGE
+  image: $CONTAINER_DEPLOY_IMAGE
   stage: prod_deploy
   script:
     # ensure that deployments can use the SSH key that is passed in via the
