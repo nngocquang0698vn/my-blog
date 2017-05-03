@@ -1,3 +1,15 @@
-FROM registry.gitlab.com/jamietanna/jvt.me:latest
+FROM alpine:3.5
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
-RUN bundle install --with capistrano
+
+WORKDIR "/site"
+
+RUN apk update && \
+    apk upgrade && \
+	apk add ruby-dev ruby-bundler && \
+	apk add git \
+		build-base
+
+ADD Gemfile /site
+ADD Gemfile.lock /site
+
+RUN bundle install --without build test
