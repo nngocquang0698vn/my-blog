@@ -1,7 +1,7 @@
 <article>
   <h2>{{ talk.title }}</h2>
 		{% for paragraph in talk.description: %}
-		<p>{{ paragraph }}</p>
+		<p>{{ paragraph | markdownify }}</p>
 		{% endfor %}
 		<p><a href="{{ talk.url }}">Read more about the talk</a>.</p>
 </article>
