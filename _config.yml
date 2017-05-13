@@ -35,6 +35,8 @@ defaults:
 collections:
   projects:
     output: true
+  talks:
+    output: true
 
 category_title_prefix: 'Category: '
 tag_title_prefix: 'Tag: '
