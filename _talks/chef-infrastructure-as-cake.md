@@ -3,7 +3,7 @@ title: Infrastructure as Cake - Testing Your Configuration Management in the Kit
 type:
 - talk
 - workshop
-description: <
+description:
   Learn about how Configuration Management can be performed in a test-first manner (in these examples) using Chef, in a talk full of food puns. I'll discuss how investing time into the manner in which your application is deployed is almost as important as the software that is deployed.
 ---
 Chef is a great tool for provisioning your infrastructure, as well as performing scripted deployments for your applications.

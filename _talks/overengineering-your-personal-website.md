@@ -2,7 +2,7 @@
 title: Overengineering Your Personal Website - How I Learn Things Best
 type:
 - lightning
-description: <
+description:
   I often want to test new things, but don't have many full on projects. If I want to test a full deployment pipeline, from local development to production, I need something to deploy. So I've made my personal website _super complicated_.
 ---
 In this lightning talk, I'll take your through the journey I've taken to making a static site _super complicated_.
