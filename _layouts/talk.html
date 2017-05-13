@@ -1,0 +1,29 @@
+---
+layout: page
+---
+<div class="content">
+
+	<article class="post wrapper project">
+		<header class="post-header">
+			<blockquote>{{ page.description }}</blockquote>
+      <div class="divider"></div>
+
+			<div class="talk-type">
+        <p>This can be done in the following formats:</p>
+        <ul>
+        {% for type in page.type %}
+        <li>{% include talk/type.html %} </li>
+        {% endfor %}
+        </ul>
+			</div>
+			{% if page.image %}
+			<div class="post-image">
+				<img class="post-image" src="/assets/img/talks/{{ page.image }}" alt="{{ page.title }}"/>
+			</div>
+			{% endif %}
+		</header>
+		<section class="post-content">
+			{{ content | markdownify }}
+    </section>
+  </article>
+</div>
