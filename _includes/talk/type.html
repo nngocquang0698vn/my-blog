@@ -1,0 +1,8 @@
+{% assign talkType = site.data.talk_types[type] %}
+{% assign isTalkType = talkType is defined %}
+{% if isTalkType %}
+<strong>{{ talkType.title }}</strong>: {{ talkType.description }}
+{% else %}
+<span style="color:red">Invalid Talk Type: TODO add a <code>site.data.talk_types[{{ type }}]</code>!{% include error.html %}</span>
+{% endif %}
+

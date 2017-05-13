@@ -9,9 +9,10 @@ layout: page
       <div class="divider"></div>
 
 			<div class="talk-type">
+        <p>This can be done in the following formats:</p>
         <ul>
         {% for type in page.type %}
-        <li>{{ type }}</li>
+        <li>{% include talk/type.html %} </li>
         {% endfor %}
         </ul>
 			</div>
