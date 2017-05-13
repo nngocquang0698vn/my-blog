@@ -1,5 +1,6 @@
 ---
 title: Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with a Sprinkles and Love
+layout: talk
 type:
 - talk
 - workshop

@@ -1,5 +1,6 @@
 ---
 title: Kickstarting your Automated Build and Continuous Delivery platform with GitLab CI
+layout: talk
 type:
 - workshop
 description:

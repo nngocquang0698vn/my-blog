@@ -1,5 +1,6 @@
 ---
 title: Overengineering Your Personal Website - How I Learn Things Best
+layout: talk
 type:
 - lightning
 description:
