@@ -8,6 +8,8 @@ tags: howto finding gitlab chef test-kitchen docker gitlab-ci
 
 **Want a TL;DR?** - Go to the [GitLab CI](#gitlab-ci) section, for the snippet you'll need to add to your `.gitlab-ci.yml` file to add integration test support.
 
+The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/user-cookbook][example-repo].
+
 Note: This tutorial is using `master` as the primary branch for development. This is not the method in which I normally work, which I will expand on in the next part of the series.
 
 ## Bootstrapping
@@ -22,7 +24,7 @@ Let's start by [pushing the code up][cmt-1] to GitLab, i.e. `git remote add orig
 
 Now we have our empty cookbook available, let's start [adding some functionality][cmt-2]:
 
-**`user_01`**
+{% include src/chef-gitlab/1-cmt-2-7566dbda74a4819b32b8a196651053fdea2d8b95.md %}
 
 Now let's push this to GitLab.
 
@@ -30,33 +32,39 @@ Now let's push this to GitLab.
 
 As we've not configured anything in GitLab CI to run, we won't actually have any automated means of determining whether the code we're pushing is correct or not.
 
-What if we set up our pipeline to run our unit tests whenever we pushed a commit?
+In an ideal world, we'd want to at least have our pipeline set up to run our unit tests whenever we pushed a commit.
 
 The easiest route we can go is to run on a Debian image, and install the ChefDK on top via the handy `.deb` package. At the time of writing, the latest version is 1.3.43, which is [done as follows][cmt-3]:
 
-**`ci_01`**
+{% include src/chef-gitlab/1-cmt-3-57ded223d14d9208196e04ad0d4ee6aeb90e7306.md %}
+
+Which now means that when we push to GitLab, our [CI][ci-3] process runs our unit tests against the code.
 
 ## Making Our Recipe More Useful
 
-Okay, so now we've got [a bit more interactive feedback][ci-4], let's start making our recipe more configurable ([CI][ci-4]).
+### Having a configurable user
 
-**`user_02`**
+Now, having a cookbook that only ever creates a single, hardcoded, user isn't actually very useful. So let's make it possible to configure it [via our cookbook's attributes][cmt-4] ([CI][ci-4]):
+
+{% include src/chef-gitlab/1-cmt-4-26b32e270d97961fe08cf538837c949b6aa63741.md %}
+
+### Having a configurable group
 
 So what if we want to [specify the `group` of the user][cmt-5] ([CI][ci-5])?
 
-**`user_03`**
+{% include src/chef-gitlab/1-cmt-5-c7532efef2496b7b53b60c760c13df025781ac74.md %}
+
+### Create a file for the user
 
 Next, we will create a file, owned by the user, in their own home directory, [which is done as follows][cmt-6] ([CI][ci-6]):
 
-**`user_04`**
+{% include src/chef-gitlab/1-cmt-6-669609062d55db87239c9588e849ddd327570885.md %}
 
 ## Integration Testing
 
-So now we've got a few cases where there can be different combinations of attributes. However, our unit tests can only tell us so much, as they're based on assumptions. It is not until we actually run our recipes on a real machine that we can see how it's going to __execute/perform__.
+So now we've got a few cases where there can be different combinations of attributes. However, our unit tests can only tell us so much, as they're based on assumptions. It is not until we actually run our recipes on a real machine that we can see how it's going to actually work.
 
-Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop` / on its way to `master`. However, we'll cover this workflow in the next part of the series.
-
-**TODO: Describe test kitchen**
+Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop` / on its way to `master`. However, we'll cover this workflow in the next part of the series, and for now, we'll run it on every commit.
 
 ### Local Testing
 
@@ -66,22 +74,13 @@ We can do this by using the [`kitchen-docker`][kitchen-docker] driver for [Test 
 
 The specific Docker-related settings in our `.kitchen.yml` are:
 
-```yaml
-driver:
-  name: docker
-  # make kitchen detect the Docker CLI tool correctly, via
-  # https://github.com/test-kitchen/kitchen-docker/issues/54#issuecomment-203248997
-  use_sudo: false
-```
+{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-driver.md %}
 
 This ensures that we're using the `kitchen-docker` driver, and that we ensure that it can correctly hook into the `docker` CLI tools. **NOTE:** This requires you to have set yourself up with the [`Manage Docker as a non-root user` steps][docker-post-install-linux].
 
 Next, within our `.kitchen.yml`, we'll add the following:
 
-```yaml
-# TODO: .kitchen.yml
-# TODO: remove `verifier` steps?
-```
+{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-platforms.md %}
 
 The steps in full can be found in [this commit][cmt-7] ([CI][ci-7]).
 
@@ -93,7 +92,7 @@ To test this, we'll run `kitchen converge`. This will create our image if it's n
 
 So that works. Let's [add some more integration tests][cmt-8] ([CI][ci-8]) to cover all our bases:
 
-**`add more`, then test**
+{% include src/chef-gitlab/1-cmt-8-80a2c5e5fcb3dfabb27b4cca77ef9ae20cbe4231.md %}
 
 Uh oh - it looks like things _weren't_ actually working after all.
 
@@ -107,7 +106,7 @@ It looks like it's trying to add `jamie` to the `test` group, which is what we e
 
 This is fixed [by adding][cmt-9] ([CI][ci-9]):
 
-**`fix/custom_group`**
+{% include src/chef-gitlab/1-cmt-9-2d221178b8c15f8f7cda6ac9bc2361d4641d14e3.md %}
 
 #### `hello`
 
@@ -115,28 +114,17 @@ This is a problem due to the `~jamie` actually not working, because Chef doesn't
 
 The easiest (but not nicest) way of doing this, is to [update the home directory path][cmt-10] ([CI][ci-10]) to `/home/#{node['user']}`, which expands out to i.e. `/home/jamie`:
 
-**`CI_FIX_HOME`**
+{% include src/chef-gitlab/1-cmt-10-0c881e50bdc603532a21ce403703bdc74ee10ad1.md %}
 
 However, that still doesn't quite work. Chef by default doesn't actually 'manage' the home directory, so we need to [explicitly set `manage_home true`][cmt-11] ([CI][ci-11]) when creating the user:
 
-**`CI_FIX_HOME_2`**
+{% include src/chef-gitlab/1-cmt-11-359954d76e1ecaadfbdf04cef6a77542e9f0371e.md %}
 
 ### GitLab CI
 
 Now we have it working locally, let's add our setup to [test this when we're pushing up to GitLab][cmt-12] ([CI][ci-12]), too:
 
-`.gitlab-ci.yml`:
-```
-docker_test:
-  image: docker:latest
-  services:
-    - docker:dind
-  stage: test
-  script:
-    - 'echo gem: --no-document > $HOME/.gemrc' && apk update && apk add build-base git libffi-dev ruby-dev ruby-bundler
-    - gem install kitchen-docker kitchen-inspec berkshelf
-    - kitchen test
-```
+{% include src/chef-gitlab/1-cmt-12-f5d858c3bccd41f2bf3b98a37be09db17df52df0.md %}
 
 ## So it converged, now what?
 
@@ -144,52 +132,49 @@ You may notice that when running `kitchen test`, _[we actually fail][ci-12] **TO
 
 Notice that we've not actually got any cases where there is a different `user`, just `group`. Let's [tack it on with the `hello` case][cmt-13] ([CI][ci-13]), and _ensure that it works correctly_.
 
+{% include src/chef-gitlab/1-cmt-13-6c759fd225e2316548caa2152b9d76025d34bcec.md %}
+
 Let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
 
-*TODO: Remove TODOs*
+{% include src/chef-gitlab/1-cmt-14-88f134a1b7e9e6bc39be7bd0c1cb9a8d8e5b6ddf.md %}
 
-**`Integration tests`**
+## Conclusion
+
 
 [gitlab-new-project]: https://gitlab.com/projects/new
 [chefdk]: https://downloads.chef.io/chefdk
 [vagrant]: https://vagrantup.com
 [docker]: https://docker.com
 [docker-post-install-linux]: https://docs.docker.com/engine/installation/linux/linux-postinstall/
+[kitchen-docker]: https://github.com/test-kitchen/kitchen-docker
+[test-kitchen]: http://kitchen.ci
 
-
-```bash
-git rebase -i --exec 'git push origin HEAD:master; sleep 10' $rootcommit
-
-git log --reverse --format=%H | cat -n | awk '{ \
-printf "[cmt-" $1 "]: https://gitlab.com/jamietanna/user-cookbook/commit/" $2 "\n[ci-" $1 "]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}\n" \
-}' | xclip
-```
-
+[example-repo]: https://gitlab.com/jamietanna/user-cookbook
 [cmt-1]: https://gitlab.com/jamietanna/user-cookbook/commit/a35132e30dfe51ffbc8374bac16dd5e0dba8e1b8
 [ci-1]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
 [cmt-2]: https://gitlab.com/jamietanna/user-cookbook/commit/7566dbda74a4819b32b8a196651053fdea2d8b95
 [ci-2]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
 [cmt-3]: https://gitlab.com/jamietanna/user-cookbook/commit/57ded223d14d9208196e04ad0d4ee6aeb90e7306
-[ci-3]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-3]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517361
 [cmt-4]: https://gitlab.com/jamietanna/user-cookbook/commit/26b32e270d97961fe08cf538837c949b6aa63741
-[ci-4]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-4]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517364
 [cmt-5]: https://gitlab.com/jamietanna/user-cookbook/commit/c7532efef2496b7b53b60c760c13df025781ac74
-[ci-5]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-5]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517366
 [cmt-6]: https://gitlab.com/jamietanna/user-cookbook/commit/669609062d55db87239c9588e849ddd327570885
-[ci-6]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-6]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517369
 [cmt-7]: https://gitlab.com/jamietanna/user-cookbook/commit/3806dd4c86a75be895393b60f91248f9d7af5be5
-[ci-7]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-7]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517371
 [cmt-8]: https://gitlab.com/jamietanna/user-cookbook/commit/80a2c5e5fcb3dfabb27b4cca77ef9ae20cbe4231
-[ci-8]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-8]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517373
 [cmt-9]: https://gitlab.com/jamietanna/user-cookbook/commit/2d221178b8c15f8f7cda6ac9bc2361d4641d14e3
-[ci-9]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-9]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517374
 [cmt-10]: https://gitlab.com/jamietanna/user-cookbook/commit/0c881e50bdc603532a21ce403703bdc74ee10ad1
-[ci-10]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-10]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517376
 [cmt-11]: https://gitlab.com/jamietanna/user-cookbook/commit/359954d76e1ecaadfbdf04cef6a77542e9f0371e
-[ci-11]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-11]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517378
 [cmt-12]: https://gitlab.com/jamietanna/user-cookbook/commit/f5d858c3bccd41f2bf3b98a37be09db17df52df0
-[ci-12]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-12]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517379
 [cmt-13]: https://gitlab.com/jamietanna/user-cookbook/commit/6c759fd225e2316548caa2152b9d76025d34bcec
-[ci-13]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-13]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517381
 [cmt-14]: https://gitlab.com/jamietanna/user-cookbook/commit/88f134a1b7e9e6bc39be7bd0c1cb9a8d8e5b6ddf
-[ci-14]: https://gitlab.com/jamietanna/user-cookbook/pipelines/${PIPELINE}
+[ci-14]: https://gitlab.com/jamietanna/user-cookbook/pipelines/8517385
