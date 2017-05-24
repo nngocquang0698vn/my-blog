@@ -6,15 +6,17 @@ categories: guide chef gitlab
 tags: howto finding gitlab chef test-kitchen docker gitlab-ci
 ---
 
+## Foreword
+
 **Want a TL;DR?** - Go to the [GitLab CI](#gitlab-ci) section, for the snippet you'll need to add to your `.gitlab-ci.yml` file to add integration test support.
 
 The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/user-cookbook][example-repo].
 
+This tutorial expects you have the [Chef Development Kit (ChefDK)][chefdk] and [Docker Command Line tools][docker] installed, have an account on GitLab.com with a [repo created][gitlab-new-project].
+
 Note: This tutorial is using `master` as the primary branch for development. This is not the method in which I normally work, which I will expand on in the next part of the series.
 
 ## Bootstrapping
-
-This tutorial expects you have the [Chef Development Kit (ChefDK)][chefdk] and [Docker Command Line tools][docker] installed, have an account on GitLab.com with a [repo created][gitlab-new-project].
 
 We'll start by creating a new cookbook, by running `chef exec generate cookbook user-cookbook`. This is going to be a pretty boring cookbook which will create a user and optionally create a file in their home directory.
 
@@ -64,43 +66,47 @@ Next, we will create a file, owned by the user, in their own home directory, [wh
 
 So now we've got a few cases where there can be different combinations of attributes. However, our unit tests can only tell us so much, as they're based on assumptions. It is not until we actually run our recipes on a real machine that we can see how it's going to actually work.
 
-Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop` / on its way to `master`. However, we'll cover this workflow in the next part of the series, and for now, we'll run it on every commit.
+Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop`, or as it is on its way to `master`. However, we'll cover this workflow in the next part of the series, and for now, we'll run it on every commit.
 
 ### Local Testing
 
-The most common method of integration testing cookbooks is by using [Vagrant][vagrant]. However, that's a little slow and requires a full Virtual Machine. Instead, we can speed up our testing by using Docker.
+The most common method of integration testing cookbooks is by using [Vagrant][vagrant]. However, I've found that can be a little slow, as it has the overhead of requiring a full Virtual Machine. We can instead speed up our testing by using Docker (which conveniently means that we can use the same method of integration testing both locally and as part of our pipelines.
 
 We can do this by using the [`kitchen-docker`][kitchen-docker] driver for [Test Kitchen][test-kitchen], which provides the same goodness that we can expect from Test Kitchen, but with the perk of it being run against a Docker image.
 
-The specific Docker-related settings in our `.kitchen.yml` are:
+The first Docker-related changes we need to make in our `.kitchen.yml`:
 
 {% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-driver.md %}
 
-This ensures that we're using the `kitchen-docker` driver, and that we ensure that it can correctly hook into the `docker` CLI tools. **NOTE:** This requires you to have set yourself up with the [`Manage Docker as a non-root user` steps][docker-post-install-linux].
+This ensures that we're using the `kitchen-docker` driver, and that we ensure that it can correctly hook into the `docker` CLI tools. Note that this process requires you to have set yourself up with the [`Manage Docker as a non-root user` steps][docker-post-install-linux].
 
-Next, within our `.kitchen.yml`, we'll add the following:
+Next, we need to tell `kitchen-docker` what platforms we want to be running against:
 
 {% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-platforms.md %}
 
-The steps in full can be found in [this commit][cmt-7] ([CI][ci-7]).
-
 This will specify that we want to test against Debian Jessie. Adding another platform to test against is straightforward and won't be expanded on until the next post.
 
-Next, we define our test suite to run against. In this case, we're simply **????**. We specify which recipes we actually want to run, as well as any attributes we want to pass into the cookbook to test how it responds to any non-default configuration.
+Next, we define our test suite to run against.
 
-To test this, we'll run `kitchen converge`. This will create our image if it's not already created, and then will run the cookbook on the new __node__.
+{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-suites.md %}
 
-So that works. Let's [add some more integration tests][cmt-8] ([CI][ci-8]) to cover all our bases:
+This lets us specify the recipes we want to run (our `run_list`) as well as any `attributes` we want to pass in to configure the node. For now, let's ignore the `verifier` section, which is [covered later](#so-it-converged-now-what).
+
+These steps in full can be found in [this commit][cmt-7] ([CI][ci-7]).
+
+To test this, we'll run `kitchen converge`. This will create our image if it's not already created, and then will run the cookbook on the new node.
+
+Now that it works with basic settings, let's [add some more integration tests][cmt-8] ([CI][ci-8]) to cover some more combinations:
 
 {% include src/chef-gitlab/1-cmt-8-80a2c5e5fcb3dfabb27b4cca77ef9ae20cbe4231.md %}
 
-Uh oh - it looks like things _weren't_ actually working after all.
+After running another `kitchen converge`, it turns out that _actually_ things aren't quite working!
 
 ### Fixing integration test issues
 
-So it looks like we've got an issue. Looking into **the integration test output**, we're failing due to:
+When we look at the errors returned by Chef, we can see a couple of glaring issues in the test suites.
 
-#### `custom_group`
+#### `custom_group` test suite
 
 It looks like it's trying to add `jamie` to the `test` group, which is what we expected. But what we didn't know is that the group needs to be created _before_ we can add it to the group. This is the reason we do integration tests!
 
@@ -108,29 +114,80 @@ This is fixed [by adding][cmt-9] ([CI][ci-9]):
 
 {% include src/chef-gitlab/1-cmt-9-2d221178b8c15f8f7cda6ac9bc2361d4641d14e3.md %}
 
-#### `hello`
+#### `hello` test suite
 
-This is a problem due to the `~jamie` actually not working, because Chef doesn't expand out the special `~` character to the home directory of the `jamie` user.
+This is a problem due to the expansion of the string `~jamie` not working, due to Chef not interpolating the `~` character as a special marker to denote a user's home directory.
 
 The easiest (but not nicest) way of doing this, is to [update the home directory path][cmt-10] ([CI][ci-10]) to `/home/#{node['user']}`, which expands out to i.e. `/home/jamie`:
 
 {% include src/chef-gitlab/1-cmt-10-0c881e50bdc603532a21ce403703bdc74ee10ad1.md %}
 
-However, that still doesn't quite work. Chef by default doesn't actually 'manage' the home directory, so we need to [explicitly set `manage_home true`][cmt-11] ([CI][ci-11]) when creating the user:
+However, that still doesn't quite work. Chef by default doesn't actually 'manage' the home directory. This means that we don't actually have the directory created until we [explicitly set `manage_home true`][cmt-11] ([CI][ci-11]) when creating the user:
 
 {% include src/chef-gitlab/1-cmt-11-359954d76e1ecaadfbdf04cef6a77542e9f0371e.md %}
 
 ### GitLab CI
 
-Now we have it working locally, let's add our setup to [test this when we're pushing up to GitLab][cmt-12] ([CI][ci-12]), too:
+Now we have it working locally, let's add our setup to [test this when we're pushing up to GitLab][cmt-12], too:
 
 {% include src/chef-gitlab/1-cmt-12-f5d858c3bccd41f2bf3b98a37be09db17df52df0.md %}
 
+**TODO: Describe what's going on here, and why we need it**
+
+And now, looking at our pipelines, we can see that [this commit][ci-12] has run the integration tests! **But**, the job is still failing...
+
 ## So it converged, now what?
 
-You may notice that when running `kitchen test`, _[we actually fail][ci-12] **TODO: link**_. This is due to the `verifier` not being found, *explain*.
+You may notice that when running `kitchen test`, _[we actually fail][ci-12]_. This is due to [Inspec][inspec], a system verification tool, not finding the correct integration tests in the specified directories in our `.kitchen.yml`:
 
-Notice that we've not actually got any cases where there is a different `user`, just `group`. Let's [tack it on with the `hello` case][cmt-13] ([CI][ci-13]), and _ensure that it works correctly_.
+```yaml
+---
+driver:
+  name: docker
+  # make kitchen detect the Docker CLI tool correctly, via
+  # https://github.com/test-kitchen/kitchen-docker/issues/54#issuecomment-203248997
+  use_sudo: false
+  privileged: true
+
+provisioner:
+  name: chef_zero
+  # You may wish to disable always updating cookbooks in CI or other testing environments.
+  # For example:
+  #   always_update_cookbooks: <%= !ENV['CI'] %>
+  always_update_cookbooks: true
+  require_chef_omnibus: 12.19.36
+
+verifier:
+  name: inspec
+
+platforms:
+  - name: debian
+    driver_config:
+      image: debian:jessie
+
+suites:
+  - name: default
+    # ...
+    verifier:
+      inspec_tests:
+        - test/integration/default # <----
+  - name: custom-group
+    # ...
+    verifier:
+      inspec_tests:
+        - test/integration/custom-group # <----
+    # ...
+  - name: hello
+    run_list:
+      - recipe[user-cookbook::default]
+    verifier:
+      inspec_tests:
+        - test/integration/hello # <----
+    attributes:
+      # ...
+```
+
+Before we get to this, though, we notice as we're looking through the test suites that we've not actually got any cases where there is a different `user`, just `group`. Let's [tack it on with the `hello` case][cmt-13] ([CI][ci-13]), and run a quick `kitchen converge` to ensure that the cookbook still converges.
 
 {% include src/chef-gitlab/1-cmt-13-6c759fd225e2316548caa2152b9d76025d34bcec.md %}
 
@@ -140,6 +197,9 @@ Let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
 
 ## Conclusion
 
+So we've seen how to build a basic cookbook from the ground up, taking care to unit test first, then work on integration tests after the functionality is complete.
+
+Once our integration tests have worked locally, we've configured our GitLab CI pipelines to perform the same tests, so we know that when pushing code, we can ensure that it will have full integration coverage, too.
 
 [gitlab-new-project]: https://gitlab.com/projects/new
 [chefdk]: https://downloads.chef.io/chefdk
@@ -148,6 +208,7 @@ Let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
 [docker-post-install-linux]: https://docs.docker.com/engine/installation/linux/linux-postinstall/
 [kitchen-docker]: https://github.com/test-kitchen/kitchen-docker
 [test-kitchen]: http://kitchen.ci
+[inspec]: https://inspec.io
 
 [example-repo]: https://gitlab.com/jamietanna/user-cookbook
 [cmt-1]: https://gitlab.com/jamietanna/user-cookbook/commit/a35132e30dfe51ffbc8374bac16dd5e0dba8e1b8

@@ -8,7 +8,7 @@ suites:
       - recipe[user-cookbook::default]
     verifier:
       inspec_tests:
-        - test/integration/custom-group # TODO
+        - test/integration/custom-group
     attributes:
       group: 'test'
   - name: hello
@@ -16,7 +16,7 @@ suites:
       - recipe[user-cookbook::default]
     verifier:
       inspec_tests:
-        - test/integration/hello # TODO
+        - test/integration/hello
     attributes:
       hello: true
 ```
