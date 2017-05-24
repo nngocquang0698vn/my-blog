@@ -5,6 +5,9 @@ description: An introduction to how to build a cookbook using GitLab's Continuou
 categories: guide chef gitlab
 tags: howto finding gitlab chef test-kitchen docker gitlab-ci
 ---
+
+**Want a TL;DR?** - Go to the [GitLab CI](#gitlab-ci) section, for the snippet you'll need to add to your `.gitlab-ci.yml` file to add integration test support.
+
 Note: This tutorial is using `master` as the primary branch for development. This is not the method in which I normally work, which I will expand on in the next part of the series.
 
 ## Bootstrapping
