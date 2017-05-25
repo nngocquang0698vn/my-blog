@@ -64,7 +64,7 @@ Next, we will create a file, owned by the user, in their own home directory, [wh
 
 ## Integration Testing
 
-So now we've got a few cases where there can be different combinations of attributes. However, our unit tests can only tell us so much, as they're based on assumptions. It is not until we actually run our recipes on a real machine that we can see how it's going to actually work.
+As well as writing unit tests to ensure that at the component level we have a fully tested set of recipes, we also need to ensure that once the recipes are used in conjunction, everything still works. This is where we can bring in our integration tests.
 
 Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop`, or as it is on its way to `master`. However, we'll cover this workflow in the next part of the series, and for now, we'll run it on every commit.
 
@@ -132,7 +132,9 @@ Now we have it working locally, let's add our setup to [test this when we're pus
 
 {% include src/chef-gitlab/1-cmt-12-f5d858c3bccd41f2bf3b98a37be09db17df52df0.md %}
 
-**TODO: Describe what's going on here, and why we need it**
+So there are a few things new here. Firstly, we're now using the `docker` image as our base. This is so we get access to the `docker` CLI tools, which are required by `kitchen-docker`. Next, we use the `dind`, or Docker in Docker, service which allows us to build and run another Docker image within our `docker` image.
+
+We then need to install some dependencies such as the gems we need so we can actually run our tests, after which, we can run `kitchen test` to perform a full run of all our test suites.
 
 And now, looking at our pipelines, we can see that [this commit][ci-12] has run the integration tests! **But**, the job is still failing...
 
@@ -191,7 +193,7 @@ Before we get to this, though, we notice as we're looking through the test suite
 
 {% include src/chef-gitlab/1-cmt-13-6c759fd225e2316548caa2152b9d76025d34bcec.md %}
 
-Let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
+Now that's resolved, let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
 
 {% include src/chef-gitlab/1-cmt-14-88f134a1b7e9e6bc39be7bd0c1cb9a8d8e5b6ddf.md %}
 
