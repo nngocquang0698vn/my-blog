@@ -3,7 +3,7 @@ layout: post
 title: git commit --verbose
 description: Viewing your diff while writing your commits.
 categories: finding
-tags: git commit shell
+tags: git commit shell workflow
 ---
 Note that this article can be summed up by viewing the asciicast:
 
