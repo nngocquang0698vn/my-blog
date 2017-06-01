@@ -1,17 +1,15 @@
 ---
 layout: post
-title: git commit --verbose
-description: Viewing your diff while writing your commits.
+title: Viewing your diff while writing your commits with git commit --verbose
+description: Making it easier to write commit messages by having the diff in your editor.
 categories: finding
 tags: git commit shell workflow
 ---
-Note that this article can be summed up by viewing the asciicast:
+I am a firm believer of the fact that Git history should be documentation for the reasoning behind _why_ the code is as it is. As such, I take care to make my commits follow [Chris Beams' commit guidelines][git-commit], which usually involves writing the commit while reading the diff of what's changed, so I don't forget anything.
 
-[![asciicast](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb.png)](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb)
+## Manual `git diff`s
 
-<div class="divider"></div>
-
-My common workflow for writing commit messages, used to be something like:
+My common workflow for writing commit messages used to be along the lines of:
 
 ```bash
 $ vim $file
@@ -20,11 +18,29 @@ $ git diff --cached
 $ git commit
 ```
 
-Alternatively, when using [vim-fugitive][vim-fugitive], while writing a commit, I would run `:Gdiff`, which would open up the diff in a split.
+This meant I would have fresh in my mind the changes that I had recently made, and therefore would be able to have the message accurately detail the _why_ of the changes I made in a commit.
 
-However, as an even better way of doing this, we can take advantage of Git's `git commit --verbose` mode, which prepopulates a commit message with the full diff, i.e.
+However, this wasn't great for large diffs, as I'd have to either remember the full diff and all the changes made, or switch between `$EDITOR` and diff.
+
+## Using `vim-fugitive`
+
+Then, I discovered [vim-fugitive][vim-fugitive] which adds easy access to Git-specific information from Vim. This allowed me to run `:Gdiff` while editing a commit, which would open up the diff in a split.
+
+## Using `git commit --verbose`
+
+However, as an even better way of doing this, I found I can take advantage of Git's `commit --verbose` mode, which prepopulates a commit message with the full diff, i.e.
 
 ```diff
+Commit message goes here
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+
+Part of #93.
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
@@ -67,9 +83,13 @@ index 0000000..03deabc
 +[vim-fugitive]: https://github.com/tpope/vim-fugitive
 ```
 
-This gives you the ease of being able to see the diff as you're writing your commit, meaning that it's much more efficient, and isn't as much swapping between commit message and diff.
+This means that I don't need any plugins, and can remain in my `$EDITOR`, as well as it being a fully supported configuration by Git, by running `git config --global commit.verbose true`.
 
-This is especially useful because I spend a lot of time crafting the actual commits themselves, ensuring that the commit message follows [commit guidelines][git-commit], and that I can easily swap between the code and the commit message.
+## In Summary
+
+To see this article in action, check out the asciicast:
+
+[![asciicast](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb.png)](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb)
 
 [vim-fugitive]: https://github.com/tpope/vim-fugitive
 [git-commit]: https://chris.beams.io/posts/git-commit/
