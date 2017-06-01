@@ -5,6 +5,12 @@ description: Viewing your diff while writing your commits.
 categories: finding
 tags: git commit shell
 ---
+Note that this article can be summed up by viewing the asciicast:
+
+[![asciicast](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb.png)](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb)
+
+<div class="divider"></div>
+
 My common workflow for writing commit messages, used to be something like:
 
 ```bash
