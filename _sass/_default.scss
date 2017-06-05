@@ -335,7 +335,6 @@ pre code {
 }
 
 :not(pre) > code {
-	color: $cloudy;
 	&::before, &::after {
 		content: "`";
 	}
