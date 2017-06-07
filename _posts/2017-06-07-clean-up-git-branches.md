@@ -5,6 +5,8 @@ description: Remove any merged local or branches from your local Git repository
 categories: findings
 tags: findings git
 ---
+## Intro
+
 I follow the [Git Flow][gitflow] practice for my branches, both personally and professionally, making heavy use of feature branches. This branch structure means that I will have aptly named feature branches, such as `feature/404-page` or `feature/readme_screenshot`.
 
 However, I've recently found that I'm running into having quite a few branches stored locally, such as:
@@ -34,9 +36,9 @@ revert-0f7ef013
 revert-dda5c692
 ```
 
-This means that whenever I'm trying to use my tab completion, I have a load of options to scroll through, which is a less than ideal user experience as it increases the number of characters needed to type before a branch can be autocompleted.
+This means that whenever I'm trying to use my tab completion, I have a load of options to scroll through, which is a less than ideal user experience as it increases the number of characters needed to type before a branch can be autocompleted. To this end, I've recently been looking at how to clean up the number of branches I have.
 
-To this end, I've I've recently been looking at how to clean up my _?_. Each time I've [DuckDuckGo'd][ddg] the commands, the last time of which made me think I should document it somewhere that I can easily browse to in future. And in the light of wanting to [document my findings for everyone to consume][blog-as-documentation], I've rolled it into a blog post.
+Each time I've [DuckDuckGo'd][ddg] the commands, the last time of which made me think I should document it somewhere that I can easily browse to in future. And in the light of wanting to [document my findings for everyone to consume][blog-as-documentation], I've rolled it into a blog post.
 
 ## Removing Local Checked-Out Branches
 
@@ -85,5 +87,5 @@ $ git remote prune origin
 
 [gitflow]: https://datasift.github.io/gitflow/IntroducingGitFlow.html
 [so-merge]: https://stackoverflow.com/a/6127884
-[ddg]: http://duckduckgo.com/
+[ddg]: https://duckduckgo.com/
 [blog-as-documentation]: https://gitlab.com/jamietanna/jvt.me/issues/124
