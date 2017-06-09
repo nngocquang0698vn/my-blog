@@ -43,18 +43,6 @@ test_image:
     - docker run $CONTAINER_BUILD_IMAGE bundle exec rake test
 # }}}
 
-# Push the image up to the registry as our latest image, on master {{{
-release_image:
-  stage: release
-  script:
-    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_BUILD_IMAGE
-    - docker tag $CONTAINER_BUILD_IMAGE $CONTAINER_RELEASE_IMAGE
-    - docker push $CONTAINER_RELEASE_IMAGE
-  only:
-    - master
-# }}}
-
 # Only develop should deploy to staging {{{
 staging_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
@@ -72,6 +60,18 @@ staging_deploy:
   environment:
     name: staging
     url: $STAGING_URL
+  only:
+    - master
+# }}}
+
+# Push the image up to the registry as our latest image, on master {{{
+release_image:
+  stage: release
+  script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker pull $CONTAINER_BUILD_IMAGE
+    - docker tag $CONTAINER_BUILD_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker push $CONTAINER_RELEASE_IMAGE
   only:
     - master
 # }}}
