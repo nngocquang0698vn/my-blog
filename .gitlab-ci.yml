@@ -15,8 +15,8 @@ variables:
 stages:
   - build
   - test
-  - release
   - deploy
+  - release
   - prod_deploy
 
 # Ensure that the site builds {{{
