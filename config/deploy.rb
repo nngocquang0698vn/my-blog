@@ -37,7 +37,11 @@ set :registry_url, "registry.gitlab.com"
 set :repo_name, "jamietanna/jvt.me"
 set :tag, fetch(:branch)
 if "master" == fetch(:tag)
-  set :tag, "latest"
+  if 'production' == fetch(:stage)
+    set :tag, "latest"
+  elsif 'staging' == fetch(:stage)
+    set :tag, 'master'
+  end
 end
 set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}:#{fetch(:tag)}"
 
