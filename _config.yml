@@ -7,8 +7,9 @@ image:
   alt: Me at Hack24
 description: >
     The personal website for Jamie Tanna, a Software Engineer based in Nottingham.
-long_description: >
-  I'm a Software Engineer with a passion for backend engineering, especially with regard to APIs and automation. I've recently been gaining a hands-on experience of DevOps culture and practices, and use my site as a method of blogging about my learnings, as well as sharing information about projects I have previously, or are currently, working on in my spare time.
+long_description:
+  - I'm a Software Engineer with a passion for backend engineering, especially with regard to APIs and automation. I've recently been gaining a hands-on experience of DevOps culture and practices, and use my site as a method of blogging about my learnings, as well as sharing information about projects I have previously, or are currently, working on in my spare time.
+  - I'm a GNU/Linux user, a big advocate for the Free Software Movement, and I try to self host my own services where possible, instead of relying on other providers.
 baseurl: ""
 url: ""
 username: jamietanna

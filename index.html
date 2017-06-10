@@ -3,7 +3,9 @@ layout: default
 ---
 <div class="content">
 		<div class="about">
-			<p class="about__text">{{ site.long_description }}</p>
+			{% for line in site.long_description %}
+			<p class="about__text">{{ line }}</p>
+			{% endfor %}
 		</div>
 		<ul class="recent">
 				<h1>Recent Posts</h1>
