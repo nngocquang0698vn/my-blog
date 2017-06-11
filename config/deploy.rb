@@ -43,7 +43,7 @@ if "master" == fetch(:tag)
     set :tag, 'master'
   end
 end
-set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}:#{fetch(:tag)}"
+set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}/builder:#{fetch(:tag)}"
 
 namespace :deploy do
   desc "Deploy the site"
