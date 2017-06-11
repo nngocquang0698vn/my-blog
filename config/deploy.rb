@@ -35,7 +35,7 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 
 set :registry_url, "registry.gitlab.com"
 set :repo_name, "jamietanna/jvt.me"
-set :tag, fetch(:branch)
+set :tag, ENV['CI_COMMIT_REF_SLUG']
 if "master" == fetch(:tag)
   if 'production' == fetch(:stage)
     set :tag, "latest"
