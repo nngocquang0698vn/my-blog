@@ -28,10 +28,18 @@ build_image:
     - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
     - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
     - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILD_IMAGE .
-    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_BUILD_IMAGE
-    - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
+
+build_deploy_image:
+  stage: build
+  script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    # pull the latest base image on a master build
+    - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
+    - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
+    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker push $CONTAINER_DEPLOY_IMAGE
 
 # Ensure that all tests pass {{{
 test_image:
