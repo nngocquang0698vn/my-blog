@@ -4,6 +4,7 @@ services:
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
+  CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:$CI_COMMIT_REF_SLUG
   CONTAINER_BUILD_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
   CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
@@ -29,8 +30,14 @@ build_image:
     - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
     - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILD_IMAGE .
     - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - container_id=$(docker run -d $CONTAINER_BUILD_IMAGE)
+    - echo $container_id
+    - docker cp $container_id:/site/_site _site
+    - docker kill $container_id
+    - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.built .
     - docker push $CONTAINER_BUILD_IMAGE
     - docker push $CONTAINER_DEPLOY_IMAGE
+    - docker push $CONTAINER_BUILT_IMAGE
 # }}}
 
 # Ensure that all tests pass {{{
