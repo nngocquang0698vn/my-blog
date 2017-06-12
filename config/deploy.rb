@@ -40,6 +40,7 @@ if "master" == fetch(:tag)
   if :production == fetch(:stage)
     set :tag, "latest"
   elsif :staging == fetch(:stage)
+    set repo_name, "#{fetch(:repo_name)}/builder"
     set :tag, 'master'
   end
 end
