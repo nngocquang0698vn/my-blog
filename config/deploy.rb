@@ -37,9 +37,9 @@ set :registry_url, "registry.gitlab.com"
 set :repo_name, "jamietanna/jvt.me"
 set :tag, fetch(:branch)
 if "master" == fetch(:tag)
-  if 'production' == fetch(:stage)
+  if :production == fetch(:stage)
     set :tag, "latest"
-  elsif 'staging' == fetch(:stage)
+  elsif :staging == fetch(:stage)
     set :tag, 'master'
   end
 end
