@@ -34,16 +34,14 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 # set :keep_releases, 5
 
 set :registry_url, "registry.gitlab.com"
-set :repo_name, "jamietanna/jvt.me"
+set :image_path, "jamietanna/jvt.me"
 set :tag, ENV['CI_COMMIT_REF_SLUG']
 if "master" == fetch(:tag)
-  if 'production' == fetch(:stage)
+  if :production == fetch(:stage) || :staging == fetch(:stage)
     set :tag, "latest"
-  elsif 'staging' == fetch(:stage)
-    set :tag, 'master'
   end
 end
-set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:repo_name)}/builder:#{fetch(:tag)}"
+set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:image_path)}:#{fetch(:tag)}"
 
 namespace :deploy do
   desc "Deploy the site"
