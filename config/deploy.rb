@@ -37,8 +37,10 @@ set :registry_url, "registry.gitlab.com"
 set :image_path, "jamietanna/jvt.me"
 set :tag, ENV['CI_COMMIT_REF_SLUG']
 if "master" == fetch(:tag)
-  if :production == fetch(:stage) || :staging == fetch(:stage)
+  if :production == fetch(:stage)
     set :tag, "latest"
+  elsif :staging == fetch(:stage)
+    set :tag, 'master'
   end
 end
 set :image_to_deploy, "#{fetch(:registry_url)}/#{fetch(:image_path)}:#{fetch(:tag)}"
