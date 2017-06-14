@@ -77,6 +77,7 @@ review_deploy:
   environment:
     name: review/$CI_COMMIT_REF_SLUG
     url: http://$CI_COMMIT_REF_SLUG.review.jvt.me
+    on_stop: review_stop
   only:
     - branches
   except:
