@@ -97,6 +97,10 @@ review_stop:
     name: review/$CI_COMMIT_REF_SLUG
     action: stop
   when: manual
+  only:
+    - branches
+  except:
+    - master
 # }}}
 
 # Only develop should deploy to staging {{{
