@@ -76,6 +76,24 @@ review_deploy:
     - branches
   except:
     - master
+
+review_stop:
+  image: $CONTAINER_DEPLOY_IMAGE
+  stage: deploy
+  script:
+    # ensure that deployments can use the SSH key that is passed in via the
+    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+    - apk --update add openssh-client
+    - eval $(ssh-agent -s)
+      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+    - echo -e "$SSH_PRIVATE_KEY" > key
+    - chmod 600 key
+    - ssh-add key
+    - cap review stop
+  environment:
+    name: review/$CI_COMMIT_REF_SLUG
+    action: stop
+  when: manual
 # }}}
 
 # Only develop should deploy to staging {{{
