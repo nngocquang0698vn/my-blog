@@ -40,7 +40,6 @@ if "master" == fetch(:tag)
   if :production == fetch(:stage)
     set :tag, "latest"
   elsif :staging == fetch(:stage)
-    set :image_path, "#{fetch(:image_path)}/builder"
     set :tag, 'master'
   end
 end
