@@ -4,7 +4,8 @@ services:
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
-  CONTAINER_BUILD_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
+  CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:$CI_COMMIT_REF_SLUG
+  CONTAINER_BUILDER_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
   CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
   DOCKER_DRIVER: overlay
@@ -26,29 +27,78 @@ build_image:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
     # pull the latest base image on a master build
     - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
-    - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
-    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILD_IMAGE .
-    - docker push $CONTAINER_BUILD_IMAGE
+    - docker pull $CONTAINER_BUILDER_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
+    # Build the builder image {{{
+    - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILDER_IMAGE .
+    - docker push $CONTAINER_BUILDER_IMAGE
+    # }}}
+    # Build the built image {{{
+    - container_id=$(docker run -d $CONTAINER_BUILDER_IMAGE)
+    - echo $container_id
+    - docker cp $container_id:/site/_site _site
+    - docker kill $container_id
+    - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.built .
+    - docker push $CONTAINER_BUILT_IMAGE
+    # }}}
 # }}}
 
+# Build the deploy image {{{
 build_deploy_image:
   stage: build
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    # pull the latest base image on a master build
-    - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
-    - docker pull $CONTAINER_BUILD_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
-    - docker build --pull --cache-from $CONTAINER_BUILD_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_DEPLOY_IMAGE
+# }}}
 
 # Ensure that all tests pass {{{
 test_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_BUILD_IMAGE
-    - docker run $CONTAINER_BUILD_IMAGE bundle exec jekyll doctor -d _site
-    - docker run $CONTAINER_BUILD_IMAGE bundle exec rake test
+    - docker pull $CONTAINER_BUILDER_IMAGE
+    - docker run $CONTAINER_BUILDER_IMAGE bundle exec jekyll doctor -d _site
+    - docker run $CONTAINER_BUILDER_IMAGE bundle exec rake test
+# }}}
+
+review_deploy:
+  image: $CONTAINER_DEPLOY_IMAGE
+  stage: deploy
+  script:
+    # ensure that deployments can use the SSH key that is passed in via the
+    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+    - apk --update add openssh-client
+    - eval $(ssh-agent -s)
+      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+    - echo -e "$SSH_PRIVATE_KEY" > key
+    - chmod 600 key
+    - ssh-add key
+    - cap review deploy
+  environment:
+    name: review/$CI_COMMIT_REF_SLUG
+    url: http://$CI_COMMIT_REF_SLUG.review.jvt.me
+  only:
+    - branches
+  except:
+    - master
+
+review_stop:
+  image: $CONTAINER_DEPLOY_IMAGE
+  stage: deploy
+  script:
+    # ensure that deployments can use the SSH key that is passed in via the
+    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
+    - apk --update add openssh-client
+    - eval $(ssh-agent -s)
+      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+    - echo -e "$SSH_PRIVATE_KEY" > key
+    - chmod 600 key
+    - ssh-add key
+    - cap review stop
+  environment:
+    name: review/$CI_COMMIT_REF_SLUG
+    action: stop
+  when: manual
 # }}}
 
 # Only develop should deploy to staging {{{
@@ -77,8 +127,8 @@ release_image:
   stage: release
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
-    - docker pull $CONTAINER_BUILD_IMAGE
-    - docker tag $CONTAINER_BUILD_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker pull $CONTAINER_BUILDER_IMAGE
+    - docker tag $CONTAINER_BUILDER_IMAGE $CONTAINER_RELEASE_IMAGE
     - docker push $CONTAINER_RELEASE_IMAGE
   only:
     - master
