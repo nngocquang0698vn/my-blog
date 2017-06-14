@@ -7,7 +7,8 @@ RUN apk update && \
     apk upgrade && \
 	apk add ruby-dev ruby-bundler && \
 	apk add git \
-		build-base
+		build-base \
+		openssh-client
 
 ADD Gemfile /site
 ADD Gemfile.lock /site
