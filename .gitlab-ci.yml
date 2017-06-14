@@ -32,10 +32,6 @@ build_image:
     - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILDER_IMAGE .
     - docker push $CONTAINER_BUILDER_IMAGE
     # }}}
-    # Build the deploy image {{{
-    - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
-    - docker push $CONTAINER_DEPLOY_IMAGE
-    # }}}
     # Build the built image {{{
     - container_id=$(docker run -d $CONTAINER_BUILDER_IMAGE)
     - echo $container_id
@@ -44,6 +40,15 @@ build_image:
     - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.built .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
+# }}}
+
+# Build the deploy image {{{
+build_deploy_image:
+  stage: build
+  script:
+    - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
 
 # Ensure that all tests pass {{{
