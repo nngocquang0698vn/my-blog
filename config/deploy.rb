@@ -61,6 +61,7 @@ namespace :deploy do
       within(release_path) do
         container_id = capture("docker create #{fetch:image_to_deploy} echo")
         execute "docker cp #{container_id}:/site #{release_path}"
+        execute "chmod -R o-rwX #{release_path}"
         execute "docker rm #{container_id}"
       end
     end
