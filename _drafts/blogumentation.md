@@ -4,7 +4,6 @@ title: Blogumentation - Writing Blog Posts as a Method of Documentation
 description: Why I'm starting to use blog posts as a form of documentation, and why I think they're so well suited.
 categories: musings thoughts
 tags: musings blogumentation thoughts
-no_toc: true
 ---
 You may have noticed that recently I've been writing more articles, often tagged under [`findings`][findings]. These short articles are concerned with documenting a piece of information about certain workflow-enhancing tips, and I find they fit under a term I have coined `blogumentation`, that is, blog posts as a form of documentation.
 
