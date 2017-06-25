@@ -52,4 +52,4 @@ If you wish to hear me write about something, please [raise an issue on my issue
 [docker-systemd-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/151
 [technotts-twitter]: https://twitter.com/TechNottingham
 [technotts-blog-channel]: https://technottingham.slack.com/messages/C4WR48CTB/
-[emma-twitter]: https://twitter.com/mrsemma
+[twitter-emma]: https://twitter.com/mrsemma
