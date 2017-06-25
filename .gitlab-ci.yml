@@ -69,7 +69,7 @@ review_deploy:
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$SSH_PRIVATE_KEY" > key
+    - echo -e "$REVIEW_SSH_PRIVATE_KEY" > key
     - chmod 600 key
     - ssh-add key
     - cap review deploy
@@ -90,7 +90,7 @@ review_stop:
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$SSH_PRIVATE_KEY" > key
+    - echo -e "$REVIEW_SSH_PRIVATE_KEY" > key
     - chmod 600 key
     - ssh-add key
     - cap review stop
