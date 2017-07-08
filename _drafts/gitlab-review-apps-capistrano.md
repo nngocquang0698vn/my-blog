@@ -5,22 +5,27 @@ description: Spinning up a version of your application on every push.
 categories: guide
 tags: guide gitlab review-apps capistrano
 ---
-I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review. **What does this mean?**
-**Link to a review-apps (i.e. for this article? A fake one, to show how it looks?)**
+## Wait, What are Review Apps?
+
+I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review.
+
+For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the [`review/example/review-apps`][review-apps-environment] environment to <http://example-review-apps.review.jvt.me/>.
+
+This means that each branch I push to will spin up a new instance of my site under the `review.jvt.me` subdomain.
+
+Being a static site, this hasn't got a lot of overhead, especially as each Review App is going to have minimal traffic, due to it only being used by me in review. However, for a larger static site, or even a fully fledged web application, it can be understood why you may not want to be having each and every branch being built and deployed. **TODO: Needed? Does it fit here?**
 
 ## Changes for Capistrano
 
-For my site, I'm using [Capistrano][capistrano] as the deployment tool, which means that when I want to perform a deploy, I can run something like `cap production deploy`.
+For my site, I'm using [Capistrano][capistrano] as the deployment tool, which means that when I want to perform a deploy, I can run something like `cap production deploy`. I'd ideally want to follow the same structure, and have a new stage so I can run `cap review deploy`.
 
-However, I'd want to have a separate state for the review apps.
-
-I decided to have `review` as the stage name, so we can simply run `cap review deploy`. This is easy to do, by creating the file `config/deploy/review.rb`:
+This is easy to do, by creating the file `config/deploy/review.rb`:
 
 ```
 { include src/gitlab-review-apps-capistrano/config-deploy-review.rb }
 ```
 
-Next, we want to have the ability to tear down the environment once we're finished with it. This can be done by creating our own Rake task file, in `lib/capistrano/tasks/review.rake`, and allows us to run `cap review:stop`.
+Next, we want to have the ability to tear down the environment once we're finished with it. This can be done by creating our own Rake task file, in `lib/capistrano/tasks/review.rake`, and allows us to run `cap review stop`.
 
 ```
 { include src/gitlab-review-apps-capistrano/lib-capistrano-tasks-review.rake }
@@ -49,10 +54,13 @@ review_deploy:
     - master
 ```
 
-Note the `on_stop` attribute - **TODO**.
+Note the `on_stop` attribute, which is the name of the stage that is to be called once we tear down a Review App.
 
+However, this only does half of the work - we've spun up our Review App, but we haven't yet gotten anything to tear it down! For instance, if you're deploying a site with lots of images, or an application that may require resources such as CPU or memory to run, you may not always want to have the Review App always there.
 
-However, this only does half of the work - so we have the
+Additionally, if you're deploying a sufficiently large Git repo, or a site with a number of images, the disk space on your server may start to run out.
+
+To run a stop action, we use the name of the stage from the `environment.on_stop` attribute:
 
 ```yaml
 review_stop:
@@ -62,7 +70,7 @@ review_stop:
     - eval $(ssh-agent -s)
     # ...
     - ssh-add key
-    - cap review deploy
+    - cap review stop
   environment:
     name: review/$CI_COMMIT_REF_SLUG
     action: stop
@@ -71,13 +79,17 @@ review_stop:
     - branches
   except:
     - master
-# }}}
 ```
 
+Note that the only significant changes to the above are that we now:
+
+- use the previously created `cap review stop` command
+- change `environment.action` to `stop`
+- make it run as a `manual` action, instead of it being automagically run (and therefore removing our Review App before we can view it!)
 
 ## Changes for Nginx
 
-As I'm using Nginx, I can take advantage of **regex replacement**, which means I can add the following to my config:
+While investigating the easiest way of setting up Nginx to work with this, I stumbled upon the [regular expression names][nginx-regex] functionality in Nginx, which allows you to define regular expressions for a DNS name. This was perfect, allowing me to add the following to my config:
 
 ```
 { include src/gitlab-review-apps-capistrano/nginx }
@@ -85,15 +97,13 @@ As I'm using Nginx, I can take advantage of **regex replacement**, which means I
 
 ## Points for Improvements
 
-**TODO link to label:review-apps**
-
-- GitLab changes
-- Capistrano config
-  - Adding new tasks
-  - Adding new stage
-- Server config
-  - Nginx wildcard bits
+I've not yet got this configured yet as I fully want. I've collected future improvements and other useful thoughts in the [`~review-apps`][review-apps-label] label in my site's issue tracker.
 
 [review-apps]: https://about.gitlab.com/features/review-apps/
 [review-apps-doc]: https://docs.gitlab.com/ee/ci/review_apps/
 [capistrano]: http://capistranorb.com/
+[review-apps-branch]: https://gitlab.com/jamietanna/jvt.me/commits/example/review-apps
+[review-apps-environment]: https://gitlab.com/jamietanna/jvt.me/environments/144866
+[review-apps-url]: http://example-review-apps.review.jvt.me/
+[review-apps-label]: https://gitlab.com/jamietanna/jvt.me/issues?label_name%5B%5D=review-apps
+[nginx-regex]: https://nginx.org/en/docs/http/server_names.html#regex_names
