@@ -5,6 +5,14 @@ type:
 - talk
 - workshop
 events:
+- name: Capital One (Brown Bag)
+  date: 2017-02-28
+  url:
+  type: talk
+- name: Capital One (Brown Bag)
+  date: 2017-05-02
+  url:
+  type: talk
 - name: Hackference
   date: 2017-10-20
   url: https://2017.hackference.co.uk/
