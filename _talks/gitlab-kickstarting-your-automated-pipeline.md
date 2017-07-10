@@ -3,6 +3,10 @@ title: Kickstarting your Automated Build and Continuous Delivery platform with G
 layout: talk
 type:
 - workshop
+dates:
+- event: Tech Nottingham
+  date: 2017-11-06
+  url:
 description:
   In this workshop, I'll take you through the basics of GitLab's Continuous Integration platform, with a very simple web application. This will go through local development to production deployments in a controlled fashion, with automated builds through to deployment.
 ---
