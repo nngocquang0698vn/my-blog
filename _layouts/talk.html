@@ -1,11 +1,30 @@
 ---
 layout: page
 ---
+{% capture now_sec %}{{ 'now' | date: '%s' }}{% endcapture %}
+{% assign previous_str_arr = '' %}
+{% assign future_str = '' %}
+
+{% for event in page.events %}
+	{% capture date_sec %}{{ event.date | date: '%s' }}{% endcapture %}
+
+  {% capture event_render %}{% include talk/event.html %}{% endcapture %}
+
+	{% if now_sec > date_sec %}
+		{% capture previous_str_arr %}{{ previous_str_arr | append: event_render | append: '|' }}{% endcapture %}
+	{% else %}
+		{% capture future_str_arr %}{{ future_str_arr | append: event_render | append: '|' }}{% endcapture %}
+	{% endif %}
+{% endfor %}
+
+{% assign previous_arr = previous_str_arr | split: '|' %}
+{% assign future_arr = future_str_arr | split: '|' %}
+
 <div class="content">
 
 	<article class="post wrapper project">
 		<header class="post-header">
-			<blockquote>{{ page.description }}</blockquote>
+			<blockquote>{{ page.description | markdownify }}</blockquote>
       <div class="divider"></div>
 
 			<div class="talk-type">
@@ -15,6 +34,25 @@ layout: page
         <li>{% include talk/type.html %} </li>
         {% endfor %}
         </ul>
+
+				{% if previous_arr.size > 0 %}
+				<p>I have previously done this at the following event{% if previous_arr.size > 1 %}s{% endif %}:</p>
+				<ul>
+						{% for line in previous_arr %}
+						<li>{{ line }}</li>
+						{% endfor %}
+				</ul>
+				{% endif %}
+
+				{% if future_arr.size > 0 %}
+				<p>I am going to be doing this at the following event{% if future_arr.size > 1 %}s{% endif %}:</p>
+				<ul>
+						{% for line in future_arr %}
+						<li>{{ line }}</li>
+						{% endfor %}
+				</ul>
+				{% endif %}
+
 			</div>
 			{% if page.image %}
 			<div class="post-image">
