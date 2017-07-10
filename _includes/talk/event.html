@@ -1,1 +1,1 @@
-{% if event.url %}<a href="{{ event.url }}">{{ event.name }}</a>{% else %}{{ event.name }}{% endif %} on {{ event.date | date: "%B %d, %Y" }}
+{% if event.url %}<a href="{{ event.url }}">{{ event.name }}</a>{% else %}{{ event.name }}{% endif %} on {{ event.date | date: "%B %d, %Y" }} as a {{ event.type }}
