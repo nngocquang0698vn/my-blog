@@ -36,7 +36,7 @@ layout: page
         </ul>
 
 				{% if previous_arr.size > 0 %}
-				<p>I have previously done this at the following event(s):</p>
+				<p>I have previously done this at the following event{% if previous_arr.size > 1 %}s{% endif %}:</p>
 				<ul>
 						{% for line in previous_arr %}
 						<li>{{ line }}</li>
@@ -45,7 +45,7 @@ layout: page
 				{% endif %}
 
 				{% if future_arr.size > 0 %}
-				<p>I am going to be doing this at the following event(s):</p>
+				<p>I am going to be doing this at the following event{% if future_arr.size > 1 %}s{% endif %}:</p>
 				<ul>
 						{% for line in future_arr %}
 						<li>{{ line }}</li>
