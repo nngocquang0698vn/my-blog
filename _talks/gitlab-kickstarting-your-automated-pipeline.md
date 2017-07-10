@@ -4,6 +4,9 @@ layout: talk
 type:
 - workshop
 dates:
+- event: PHPMinds
+  date: 2017-05-11
+  url: https://phpminds.org/event/2017/05
 - event: Tech Nottingham
   date: 2017-11-06
   url:
