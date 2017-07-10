@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+{% capture now_sec %}{{ 'now' | date: '%s' }}{% endcapture %}
 <div class="content">
 
 	<article class="post wrapper project">
@@ -15,6 +16,27 @@ layout: page
         <li>{% include talk/type.html %} </li>
         {% endfor %}
         </ul>
+				{% assign previous_str = '' %}
+				{% assign future_str = '' %}
+
+				{% for event in page.events %}
+					{% capture date_sec %}{{ event.date | date: '%s' }}{% endcapture %}
+					{% if now_sec > date_sec %}
+						{% capture previous_str %}{{ previous_str }}<li>{% include talk/event.html %}</li>{% endcapture %}
+					{% else %}
+						{% capture future_str %}{{ future_str }}<li>{% include talk/event.html %}</li>{% endcapture %}
+					{% endif %}
+				{% endfor %}
+
+				<p>I have previously done this at the following event(s):</p>
+				<ul>
+						{{ previous_str }}
+				</ul>
+				<p>I am going to be doing this at the following event(s):</p>
+				<ul>
+						{{ future_str }}
+				</ul>
+
 			</div>
 			{% if page.image %}
 			<div class="post-image">

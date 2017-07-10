@@ -3,11 +3,11 @@ title: Kickstarting your Automated Build and Continuous Delivery platform with G
 layout: talk
 type:
 - workshop
-dates:
-- event: PHPMinds
+events:
+- name: PHPMinds
   date: 2017-05-11
   url: https://phpminds.org/event/2017/05
-- event: Tech Nottingham
+- name: Tech Nottingham
   date: 2017-11-06
   url:
 description:

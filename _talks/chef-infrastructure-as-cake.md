@@ -4,8 +4,8 @@ layout: talk
 type:
 - talk
 - workshop
-dates:
-- event: Hackference
+events:
+- name: Hackference
   date: 2017-10-20
   url: https://2017.hackference.co.uk/
 description:
