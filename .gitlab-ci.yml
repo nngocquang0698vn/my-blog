@@ -15,6 +15,7 @@ variables:
 
 stages:
   - build
+  - review
   - test
   - deploy
   - release
@@ -63,7 +64,7 @@ test_image:
 
 review_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
-  stage: deploy
+  stage: review
   script:
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
@@ -84,7 +85,7 @@ review_deploy:
 
 review_stop:
   image: $CONTAINER_DEPLOY_IMAGE
-  stage: deploy
+  stage: review
   script:
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
