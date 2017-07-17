@@ -108,7 +108,6 @@ I've not yet got this configured yet as I fully want, and have been collecting f
 [review-apps-doc]: https://docs.gitlab.com/ee/ci/review_apps/
 [capistrano]: http://capistranorb.com/
 [review-apps-branch]: https://gitlab.com/jamietanna/jvt.me/commits/example/review-apps
-[review-apps-environment]: https://gitlab.com/jamietanna/jvt.me/environments/144866
 [review-apps-url]: http://example-review-apps.review.jvt.me/
 [review-apps-label]: https://gitlab.com/jamietanna/jvt.me/issues?label_name%5B%5D=review-apps
 [nginx-regex]: https://nginx.org/en/docs/http/server_names.html#regex_names
