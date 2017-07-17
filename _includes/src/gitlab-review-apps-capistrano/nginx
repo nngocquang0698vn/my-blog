@@ -1,0 +1,16 @@
+server {
+    listen 80;
+    server_name ~^(www\.)?(?<sname>.+?).review.jvt.me$;
+    root /srv/www/review.jvt.me/review.jvt.me/review/$sname/current/site;
+
+    index index.html index.htm index.php;
+
+    charset utf-8;
+
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    access_log /var/log/nginx/$sname-access.log;
+    error_log  /var/log/nginx/review.jvt.me-error.log debug;
+}
