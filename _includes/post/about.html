@@ -11,7 +11,7 @@
 		<ul class="post-tags">
 			{% for tag in page.tags %}
 			{% capture tagLink %}
-			{{ site.baseurl }}/tags/{{ tag }}/
+			{{ site.url }}/tags/{{ tag }}/
 			{% endcapture %}
 			<li>
 				<a href="{{ tagLink }}">
@@ -29,7 +29,7 @@
 		<ul class="post-categories">
 			{% for category in page.categories %}
 			{% capture categoryLink %}
-			{{ site.baseurl }}/categories/{{ category }}/
+			{{ site.url }}/categories/{{ category }}/
 			{% endcapture %}
 			<li>
 				<a href="{{ categoryLink }}">
