@@ -21,7 +21,7 @@
 			{% endfor %}
 		</ul>
 		{% else %}
-		<p>This post has no tags.</p>
+		<p>This post has no tags.{% include error.html %}</p>
 		{% endif %}
 
 		<h3>Categories</h3>
@@ -39,7 +39,7 @@
 			{% endfor %}
 		</ul>
 		{% else %}
-		<p>This post has no categories.</p>
+		<p>This post has no categories.{% include error.html %}</p>
 		{% endif %}
     </div>
 </div>
