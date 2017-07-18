@@ -9,7 +9,7 @@ tags: guide gitlab review-apps capistrano
 
 I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review.
 
-For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the [`review/example/review-apps`][review-apps-environment] environment to <http://example-review-apps.review.jvt.me/>:
+For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the `review/example/review-apps` environment to <http://example-review-apps.review.jvt.me/>:
 
 ![`example/review-apps` environment]({{ site.url }}/assets/img/gitlab-review-apps-capistrano/example-review-apps.png)
 
