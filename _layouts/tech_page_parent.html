@@ -3,7 +3,7 @@ layout: page
 ---
 {% for item in page.metadataList %}
 {% capture childLink %}
-{{ site.baseurl }}/{{ page.techDir }}/{{ item[0] }}/
+{{ site.url }}/{{ page.techDir }}/{{ item[0] }}/
 {% endcapture %}
   <h2 id="{{ item.slug }}">
     <a href="{{ childLink }}">{{ item[0] }}</a>
@@ -13,7 +13,7 @@ layout: page
     {% for project in projects_list reversed %}
       {% if project.title != null %}
       <li>
-        <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
+        <a href="{{ site.url }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
       </li>
       {% endif %}
     {% endfor %}
@@ -32,7 +32,7 @@ layout: page
 	{% for project in page.uncategorised_projects %}
 	{% if project.title != null %}
 	<li>
-		<a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
+		<a href="{{ site.url }}{{ project.url }}">{{ project.title }}</a>: {{ project.description }}
 	</li>
 	{% endif %}
 	{% endfor %}
