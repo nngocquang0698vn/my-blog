@@ -1,1 +1,1 @@
-{% if event.url %}<a href="{{ event.url }}">{{ event.name }}</a>{% else %}{{ event.name }}{% endif %} on {{ event.date | date: "%B %d, %Y" }} as a {{ event.type }}
+{% if event.url %}<a href="{{ event.url }}">{{ event.name }}</a>{% else %}{{ event.name }}{% endif %} on {{ event.date | date: "%B %d, %Y" }} as a {{ event.type }}{% if event.slides %}, and the slides are <a href="{{ event.slides.url }}">released under the {{ event.slides.license }} license</a>{% endif %}.

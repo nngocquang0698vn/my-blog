@@ -8,6 +8,9 @@ events:
   date: 2017-05-11
   url: https://phpminds.org/event/2017/05
   type: workshop
+  slides:
+    url: https://gitlab.com/jamietanna/talks/tags/gitlab-ci-phpminds
+    license: GPLv3
 - name: Tech Nottingham
   date: 2017-11-06
   url:
