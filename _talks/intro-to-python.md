@@ -8,6 +8,9 @@ events:
   date: 2016-02-20
   url: http://2016.inspirewit.com
   type: workshop
+  slides:
+    url: https://gitlab.com/jamietanna/talks/tags/intro-to-python
+    license: CC BY-SA 4.0
 description:
   In the age where video games focus on graphics and fast-pased gameplay, it is sometimes nice to go back to basics. Learn Python programming by building your first text-based adventure game.
 ---
