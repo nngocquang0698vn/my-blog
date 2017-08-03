@@ -8,7 +8,7 @@ events:
   date: 2017-05-16
   url:
   type: talk
-  slides
+  slides:
     url: https://gitlab.com/jamietanna/talks/uploads/cd414d616966cbb043b7fb773f4e7d37/intro-to-vi.pdf
     license: GPLv3
 description:
