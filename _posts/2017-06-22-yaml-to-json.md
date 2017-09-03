@@ -36,8 +36,10 @@ To convert from JSON to YAML, we can use the following:
 Again, we can shorten this down to the following oneliner:
 
 ```ruby
-ruby -ryaml -rjson -e 'puts(JSON.load(ARGF.read).to_yaml)'
+ruby -ryaml -e 'puts(YAML.load(ARGF.read).to_yaml)'
 ```
+
+Thanks to [Jack Gough](https://www.testingsyndicate.com/) for a tip on reducing the above - due to JSON being parseable as YAML, we can reduce dependency on the JSON library.
 
 [test-kitchen]: https://kitchen.ci
 [vagrant]: https://vagrantup.com
