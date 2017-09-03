@@ -98,7 +98,7 @@ Following the advice in [Stack Overflow: Kitchen-Docker and Systemd][so-kitchen-
 
 As mentioned, we also need to give it the `SYS_ADMIN` capability, which gives it root access across the machine.
 
-Finally, we also need to give it access to the [cgroups][cgroups] config, which I believe gives it **access to control how the docker processes are managed**.
+Finally, we also need to give it access to the [cgroups][cgroups] config, which is an [expectation of systemd][systemd-mounted-cgroups].
 
 
 [test-kitchen]: http://kitchen.ci
@@ -110,3 +110,4 @@ Finally, we also need to give it access to the [cgroups][cgroups] config, which 
 [init]: https://en.wikipedia.org/wiki/Init
 [cap-sys-admin-lwn]: https://lwn.net/Articles/486306/
 [cgroups]: https://en.wikipedia.org/wiki/Cgroups
+[systemd-mounted-cgroups]: https://developers.redhat.com/blog/2016/09/13/running-systemd-in-a-non-privileged-container/
