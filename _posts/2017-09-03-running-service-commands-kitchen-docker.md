@@ -79,7 +79,7 @@ This is due to the whole point of docker containers running a single application
 
 Therefore, you need to extend the Docker container to have its own init system, as well as giving it root access across the host system: that is, this new container that is meant to be separate, and have its own nicely sandboxed resources will have [**root access to your machine**][cap-sys-admin-lwn]. Be aware of the security risks this can cause on your machine - I have no responsibility for issues caused.
 
-Following the advice in [so-kitchen-docker-systemd][so-kitchen-docker-systemd]:
+Following the advice in [Stack Overflow: Kitchen-Docker and Systemd][so-kitchen-docker-systemd]:
 
 ```diff
  driver:
