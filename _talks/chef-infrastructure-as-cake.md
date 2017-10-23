@@ -17,7 +17,7 @@ events:
   date: 2017-10-20
   url: https://2017.hackference.co.uk/
   type: talk
-	slides:
+  slides:
     url: http://jamietanna.gitlab.io/talks/chef-infrastructure-as-cake/
     license: GPLv3
 description:
