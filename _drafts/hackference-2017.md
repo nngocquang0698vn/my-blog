@@ -17,24 +17,27 @@ Additionally, it was the first time that I'd been speaking to a group of ~40 peo
 
 Humbled to be speaking with a number of amazing and interesting speakers.
 
-## So I heard you like engineering.. - Jonathan Kingsley
+## Talks
 
-Jonathan's talk was concerned with how
+There were some really awesome talks here! I've documented each of the talks I attended, in chronological order, and am looking at [follow-up articles][milestone-hackference] for a few of the talks that I had some extra content and thoughts for on top of.
 
-- insecurity of tech
-- IoT is easily hackable
+### So I heard you like engineering.. - Jonathan Kingsley
 
-## Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with Sprinkles and Love
+Jonathan spoke about the impending doom of the insecurity of tech everywhere, including how he worked on making his drone perform a flip when he whistled.
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">.<a href="https://twitter.com/JamieTanna?ref_src=twsrc%5Etfw">@JamieTanna</a> digging into Chef and writing cookbooks, and what pains it can save you! <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/Ec53ym97BS">pic.twitter.com/Ec53ym97BS</a></p>&mdash; Jess Not Spooky West (@jessicaewest) <a href="https://twitter.com/jessicaewest/status/921317470375497728?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
+**TODO: add more!**
 
-As mentioned, this was a talk I'd done previously, and had practiced the previous day at work, which had given me a lot more confidence, and a few general tips for making the content better.
+### Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with Sprinkles and Love - Jamie Tanna
 
-I'd had a few engagements post-talk regarding __??__.
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">.<a href="https://twitter.com/JamieTanna?ref_src=twsrc%5Etfw">@JamieTanna</a> digging into Chef and writing cookbooks, and what pains it can save you! <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/Ec53ym97BS">pic.twitter.com/Ec53ym97BS</a></p>&mdash; Jess West (@jessicaewest) <a href="https://twitter.com/jessicaewest/status/921317470375497728?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
 
-The [Reveal.JS][revealjs] slides for my talk can be found served on [GitLab pages][chef-talk-slides].
+Although I'd done variations on this talk a couple of times previously at Capital One, this was the first time I had done the talk externally. I felt the talk went well, and gave a good _taste_ for what Chef and Configuration Management can do for you.
 
-## Hardware Hacking for JavaScript Developers - Tim Perry
+I'd also had a few engagements post-talk regarding the best ways to use Chef, including how to build it into your pipelines, for which I was able to share some insight from my previous work with it.
+
+The Reveal.JS slides for my talk can be found served on [GitLab pages][chef-talk-slides].
+
+### Hardware Hacking for JavaScript Developers - Tim Perry
 
 [Tim][tim-perry] showed us during his talk how easy it can be to work with hardware hacking using JavaScript, proving it very aptly by literally programming his own slide clicker before our eyes.
 
@@ -48,7 +51,7 @@ Tim also discussed [Resin][resin], the company he works for, and their approach 
 
 Slides: [Slideshare][tim-slides]
 
-## How to build a website that will (eventually) work on Mars? - Slobodan Stojanović
+### How to build a website that will (eventually) work on Mars? - Slobodan Stojanović
 
 Slobodan had an interesting (and fundamentally important) take on the move to our expansion to Mars - how are we going to deal with the high latency of Earth-Mars communication until AWS launches `mars-west-1`?
 
@@ -58,57 +61,58 @@ I'll cover this in a [follow-up article][slobodan-article-issue], as there are a
 
 Slides: [Slideshare][slobodan-slides]
 
-## Code is not only for computers, but also for humans - Parham Doustdar
+### Code is not only for computers, but also for humans - Parham Doustdar
 
-[Parham][parham] raised a number of important points about building software, all centred around the fact that software is a human-centric job. Yes, the code we write is performed by a machine, but as the famous saying goes - code is read more times than it's written.
+[Parham][parham] raised a number of important points about building software, all centred around the fact that software is a human-centric job.
 
-His talk started with us thinking about what we'd do to someone **??**.
+Yes, the code we write is performed by a machine, but as the famous saying goes - code is read more times than it's written.
 
-Much like https://blog.codinghorror.com/coding-for-violent-psychopaths/ via http://wiki.c2.com/?CodeForTheMaintainer
+Much like [Coding For Violent Psychopaths][coding-for-violent-psychopaths] (via [Code for the Maintainer][code-for-the-maintainer]), Parham's talk revolved around the theme of:
 
 >  Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
 
-I'll be following up with [an article covering Parham's talk][parham-article-issue] in more detail.
+Along these lines, Parham started the talk off with how we would _interact_ with someone who wrote the code that we've just found is poorly documented, and went through to discussing the ways in which we should be **??**.
 
-## Building a Serverless Data Pipeline - Lorna Mitchell
+I'll cover this in a [follow-up article][parham-article-issue], as there were some great points Parham raised that I'd like to add some extra commentary to.
 
-[Lorna][lorna] described a
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">I&#39;m sold on Serverless and CouchDB great talk by <a href="https://twitter.com/lornajane?ref_src=twsrc%5Etfw">@lornajane</a>  <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://twitter.com/hashtag/attractedToDatabases?src=hash&amp;ref_src=twsrc%5Etfw">#attractedToDatabases</a> <a href="https://t.co/TS5gj8ZvJP">pic.twitter.com/TS5gj8ZvJP</a></p>&mdash; Anna (@anna_hax) <a href="https://twitter.com/anna_hax/status/921384434913472514?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
-
-- StackOverflow
-- alerted when new pop up
-- into dashboard
-- share when people are looking into it
-- don't need a heavy server always running - can check it every `x` mins
-
-I'll be following up with [an article covering Lorna's talk][lorna-article-issue] in more detail.
-
-## JavaScript - the exotic parts: Workers, WebGL and Web Assembly - Martin Splitt
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">This is speaking my language, JavaScript image analysis and why its so slow without web workers and webGL! <a href="https://twitter.com/g33konaut?ref_src=twsrc%5Etfw">@g33konaut</a> <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/SzOyfgSJAy">pic.twitter.com/SzOyfgSJAy</a></p>&mdash; Bevis in TheOldSmoke (@bevishalperry) <a href="https://twitter.com/bevishalperry/status/921395202417463297?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
-
-## Privacy could be the next big thing - Stuart Langridge
-
-Stuart's talk concerned itself with how **??**.
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Superb definition of &#39;creepy&#39; analytics by <a href="https://twitter.com/sil?ref_src=twsrc%5Etfw">@sil</a> - &quot;data collection is creepy when you use it to deduce things you weren&#39;t told and shouldn&#39;t know&quot; <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/RSsRuKgYY7">pic.twitter.com/RSsRuKgYY7</a></p>&mdash; Tim Perry (@pimterry) <a href="https://twitter.com/pimterry/status/921402198495555584?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">What I&#39;m hearing is &quot;who wants free chocolate?&quot; <a href="https://twitter.com/sil?ref_src=twsrc%5Etfw">@sil</a> <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/W9RPfg9dRT">pic.twitter.com/W9RPfg9dRT</a></p>&mdash; Jamie Tanna (@JamieTanna) <a href="https://twitter.com/JamieTanna/status/921403960497451009?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
-
-- speaking at https://2017.hackference.co.uk/
-- first time attending conference
-- unfortunately Sam not talking
-- Preparing for talk during JavaScript Browser Bits
-- tosdr.org (like tldr)
+### Building a Serverless Data Pipeline - Lorna Mitchell
 
 
-Talks:
-- `So I heard you like engineering..`
-- (Break)
+https://twitter.com/anna_hax/status/921384434913472514
+https://twitter.com/bevishalperry/status/921384146798305280
+https://twitter.com/sil/status/921375722463268864
+
+[Lorna][lorna] took us through the process of creating a Serverless pipeline to help the team track questions on StackOverflow about IBM CloudAnt, and determine whether the team had replied. The idea behind the application was to have a dashboard that would have a list of questions about CloudAnt that appeared on StackOverflow and for the team to be able to self-organise and ensure that answers are provided, but also that there are not duplicate responses.
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">.<a href="https://twitter.com/lornajane?ref_src=twsrc%5Etfw">@lornajane</a> explained a concept that I had hardly a clue about, now I fully understand. Brilliant talk. Serverless is useful! <a href="https://twitter.com/hashtag/hackference?src=hash&amp;ref_src=twsrc%5Etfw">#hackference</a> <a href="https://t.co/RSdT0nCh4F">pic.twitter.com/RSdT0nCh4F</a></p>&mdash; Bevis (@bevishalperry) <a href="https://twitter.com/bevishalperry/status/921384146798305280?ref_src=twsrc%5Etfw">20 October 2017</a></blockquote>
+
+This was also my first introduction to IBM Cloud and was very interesting seeing that the Serverless offering, [Cloud Functions][ibm-cloud-functions] was running an Open Source project, [Apache OpenWhisk][apache-openwhisk], which really boasted an easy way to get started and test out your functions.
+
+I'll cover this in a [follow-up article][lorna-article-issue] as it was a great showcase for Serverless and how it can be used in a really simple way, being one of the first real explanations I've had done well.
+
+Slides: [SpeakerDeck][lorna-slides]
+
+### JavaScript - the exotic parts: Workers, WebGL and Web Assembly - Martin Splitt
+
+https://twitter.com/bevishalperry/status/921395202417463297
+https://twitter.com/slsoftworks/status/921439171209846785
 
 
-[revealjs]: https://github.com/hakimel/reveal.js
+### Privacy could be the next big thing - Stuart Langridge
+
+Stuart's talk was concerned with reminding everyone of how
+
+https://twitter.com/JamieTanna/status/921408393532858375
+https://twitter.com/bevishalperry/status/921409312974569473
+https://twitter.com/JamieTanna/status/921407957274955776
+https://twitter.com/JamieTanna/status/921403960497451009
+https://twitter.com/pimterry/status/921403371860439041
+https://twitter.com/pimterry/status/921402198495555584
+https://twitter.com/Michiel_R/status/921402080853659649
+https://twitter.com/bevishalperry/status/921400192447983617
+
+[milestone-hackference]: https://gitlab.com/jamietanna/jvt.me/milestones/10
+
 
 [chef-talk]: /talks/chef-infrastructure-as-cake/
 [chef-talk-slides]: http://jamietanna.gitlab.io/talks/chef-infrastructure-as-cake/
@@ -122,7 +126,11 @@ Talks:
 
 [parham]: https://twitter.com/PD90
 [parham-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/191
+[coding-for-violent-psychopaths]: https://blog.codinghorror.com/coding-for-violent-psychopaths/
+[code-for-the-maintainer]: http://wiki.c2.com/?CodeForTheMaintainer
 
 [lorna]: https://twitter.com/lornajane
 [lorna-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/189
-
+[lorna-slides]: https://speakerdeck.com/lornajane/building-a-serverless-data-pipeline
+[ibm-cloud-functions]: https://www.ibm.com/cloud/functions
+[apache-openwhisk]: https://openwhisk.apache.org/
