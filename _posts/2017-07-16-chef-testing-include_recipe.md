@@ -10,7 +10,7 @@ While writing cookbooks, both personally and professionally, I practice a heavy 
 ```ruby
 describe 'cookbook::default' do
   let(:chef_run) do
-		# ...
+    # ...
   end
 
   it 'includes the ::user recipe' do
@@ -42,7 +42,7 @@ describe 'cookbook::default' do
   end
 
   it 'includes the ::user recipe' do
-  # ...
+    # ...
 end
 ```
 
@@ -66,8 +66,8 @@ describe 'cookbook::default' do
   end
 
   it 'includes the ::user recipe' do
-  # ...
-	end
+    # ...
+  end
 end
 ```
 
