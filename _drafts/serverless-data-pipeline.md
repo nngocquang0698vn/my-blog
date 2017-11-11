@@ -1,4 +1,6 @@
 ---
+slides: https://twitter.com/lornajane/status/921374319539867649
+
 So -> serverless -> dashboard
 -> slack etc
 
