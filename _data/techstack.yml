@@ -142,3 +142,15 @@ browsersync:
   title: Browsersync
   link: https://www.browsersync.io/
   description: Time-saving synchronised browser testing that provides features such as live reloads, click mirroring and form replication.
+github_status:
+  title: GitHub Statuses
+  link: https://developer.github.com/v3/repos/statuses/
+  description: The status API allows external services to mark commits with an `error`, `failure`, `pending`, or `success` state, which is then reflected in pull requests involving those commits.
+quickbooks:
+  title: QuickBooks
+  link: https://developer.intuit.com/docs/api/
+  description: QuickBooks is accounting software that allows developer integrations.
+starling:
+  title: Starling Bank
+  link: https://developer.starlingbank.com/docs
+  description: The Starling API enables seamless integration of Starling account and transactional data into your application.
