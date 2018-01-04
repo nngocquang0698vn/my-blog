@@ -6,7 +6,6 @@ type:
 events:
 - name: 'Hacksoc presents: InspireWIT Conference'
   date: 2016-02-20
-  url: http://2016.inspirewit.com
   type: workshop
   slides:
     url: https://gitlab.com/jamietanna/talks/tags/intro-to-python
