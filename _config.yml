@@ -67,6 +67,7 @@ exclude:
 - log
 - get_pr.py
 - tags
+- worktree
 
 gems:
   - jekyll-seo-tag
