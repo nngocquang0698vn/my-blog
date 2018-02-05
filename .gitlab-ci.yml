@@ -34,10 +34,7 @@ build_image:
     - docker push $CONTAINER_BUILDER_IMAGE
     # }}}
     # Build the built image {{{
-    - container_id=$(docker run -d $CONTAINER_BUILDER_IMAGE)
-    - echo $container_id
-    - docker cp $container_id:/site/_site _site
-    - docker kill $container_id
+    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE gulp build --production
     - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.built .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
@@ -57,9 +54,18 @@ test_image:
   stage: test
   script:
     - docker login -u jamietanna -p $CI_BUILD_TOKEN registry.gitlab.com
+    # Ensure Jekyll configuration is correct {{{
     - docker pull $CONTAINER_BUILDER_IMAGE
-    - docker run $CONTAINER_BUILDER_IMAGE bundle exec jekyll doctor -d _site
-    - docker run $CONTAINER_BUILDER_IMAGE bundle exec rake test
+    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec jekyll doctor -d _site
+    # }}}
+
+    # Ensure the generated site is correct {{{
+    - docker pull $CONTAINER_BUILT_IMAGE
+    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
+    - docker cp $container_id:/site _site
+    - docker rm $container_id
+    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec rake test
+    # }}}
 # }}}
 
 review_deploy:

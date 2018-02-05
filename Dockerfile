@@ -23,26 +23,32 @@ RUN apk update && \
 # }}}
 
 # Install package dependencies {{{
-RUN mkdir -p /site/_site
-WORKDIR "/site"
+RUN mkdir -p /app/site/_site
+WORKDIR "/app"
 
 # https://github.com/docker-library/ruby/issues/45
 ENV LANG C.UTF-8
 
-# Ensure that with the new files, we have the right dependencies etc locally {{{
-ADD . /site
+# Set /app as the initial directory for the dependencies, allowing the site to
+# then be mounted into /app/site, so we don't override any of our
+# pre-downloaded NPM dependencies {{{
+# Ensure we have the latest Node dependencies, which should be changed less
+# often than the Ruby dependencies (ie Jekyll, Capistrano) so will want to be
+# cached longer {{{
+COPY package.json /app/
 RUN npm install
-ENV PATH=$PATH:/site/node_modules/.bin
-RUN bundle install --without deploy
+ENV PATH=$PATH:/app/node_modules/.bin
+# }}}
+# Ensure we have the latest Ruby dependencies {{{
+COPY Gemfile Gemfile.lock /app/
+# Don't pull in deploy dependencies as they're a separate Docker image
+ENV BUNDLE_WITHOUT=deploy
+RUN bundle install
+# }}}
 # }}}
 
-# Build our site {{{
-# Finally, we need to build the site, so we've got the latest version of the
-# site as part of our image; this means that when deploying, we'll only need to
-# mount the _site folder
-# }}}
-RUN gulp build --production
-# }}}
+# Once set up, use our mounted directory for the site
+WORKDIR "/app/site"
 
 # Default action is to serve the site {{{
 CMD ["gulp", "serve"]

@@ -127,10 +127,13 @@ gulp.task('do-build', function(done) {
 	runSequence('js', 'jekyll-build', 'optimise', done);
 });
 
+gulp.task('serve', ['browser-sync','watch'], function() {
+});
+
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['browser-sync','watch']);
+gulp.task('default', ['serve']);
 // TODO what can we do in parallel?
 gulp.task('build', ['do-build']);
