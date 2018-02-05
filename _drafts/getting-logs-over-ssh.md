@@ -3,7 +3,7 @@ layout: post
 title: Downloading log files over SSH when your log aggregation service doesn't work
 description: '**Without making changes to the files themselves**'
 categories:
-tags: break-glass logs ssh finding shell tips
+tags: break-glass logs ssh findings shell tips
 ---
 ## Context
 
