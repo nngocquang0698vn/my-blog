@@ -11,6 +11,7 @@ events:
   slides:
     url: https://gitlab.com/jamietanna/talks/tags/docker-ia
     license: GPLv3
+  video:
 description:
   A Docker-based container infrastructure to build the Android Source Code for different Intel Architecture platforms.
 ---
