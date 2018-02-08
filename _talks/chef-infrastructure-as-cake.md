@@ -22,7 +22,7 @@ events:
   slides:
     url: http://jamietanna.gitlab.io/talks/chef-infrastructure-as-cake/
     license: GPLv3
-  video:
+  video: https://www.youtube.com/watch?v=CjvaUHXe4KQ
 description:
   Learn about how Configuration Management can be performed in a test-first manner (in these examples) using Chef, in a talk full of food puns. I'll discuss how investing time into the manner in which your application is deployed is almost as important as the software that is deployed.
 ---
