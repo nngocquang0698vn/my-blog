@@ -10,6 +10,7 @@ events:
   slides:
     url: https://gitlab.com/jamietanna/talks/tags/intro-to-python
     license: CC BY-SA 4.0
+  video:
 description:
   In the age where video games focus on graphics and fast-pased gameplay, it is sometimes nice to go back to basics. Learn Python programming by building your first text-based adventure game.
 ---
