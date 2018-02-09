@@ -63,38 +63,77 @@ def merge_requests_and_issues_to_h(issues, merge_requests, year_to_use)
   h
 end
 
+def get_issue_line(state, count)
+  out = "- #{count} issues "
+  out += (
+    case state
+    when 'opened'
+      'raised, but not yet closed'
+    else
+      state
+    end
+  )
+  out
+end
+
+def get_merge_request_line(state, count)
+  out = "- #{count} MRs "
+  out += (
+    case state
+    when 'opened'
+      'raised, but not yet merged'
+    else
+      state
+    end
+  )
+  out
+end
+
 def report_merge_requests_and_issues(merge_requests_and_issues_h)
+  issues = {
+    'closed' => 0,
+    'opened' => 0
+  }
+
+  merge_requests = {
+    'closed' => 0,
+    'locked' => 0,
+    'merged' => 0,
+    'opened' => 0
+  }
+
   merge_requests_and_issues_h.each do |project_id, h|
     project_path = get_project_name(ENDPOINT + '/projects/' + project_id.to_s, PRIVATE_TOKEN)
     puts "Project #{project_path} has had:"
 
     if h['issues']
       h['issues'].each do |state_h|
-        out = "- #{state_h[1].length} issues "
-        case state_h[0]
-        when 'opened'
-          out += 'opened, but not yet closed'
-        else
-          out += state_h[0]
-        end
-        puts out
+        issues[state_h[0]] += state_h[1].length
+
+        puts get_issue_line(state_h[0], state_h[1].length)
       end
     end
     if h['merge_requests']
       h['merge_requests'].each do |state_h|
-        out = "- #{state_h[1].length} MRs "
-        case state_h[0]
-        when 'opened'
-          out += 'raised, but not yet merged'
-        else
-          out += state_h[0]
-        end
-        puts out
+        merge_requests[state_h[0]] += state_h[1].length
+
+        puts get_merge_request_line(state_h[0], state_h[1].length)
       end
     end
     # extra newline for better spacing
     puts ''
   end
+
+  number_projects = merge_requests_and_issues_h.length
+  puts "In total, over #{number_projects} projects there have been:"
+
+  issues.each do |state_h|
+    puts get_issue_line(state_h[0], state_h[1])
+  end
+  merge_requests.each do |state_h|
+    puts get_merge_request_line(state_h[0], state_h[1])
+  end
+  puts ''
 end
 
 all_issues = follow_and_parse_pagination(ENDPOINT + '/issues', PRIVATE_TOKEN)
