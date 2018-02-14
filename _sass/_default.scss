@@ -5,6 +5,13 @@ body {
     background-color: $dorian;
 }
 
+.spoiler {
+    color: $dorian;
+    &:hover {
+        color: $iron;
+    }
+}
+
 a {
     color: $cloudy;
     font-weight: bold;
