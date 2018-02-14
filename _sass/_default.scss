@@ -314,7 +314,7 @@ strong {
 
 .content,footer,div.about {
 	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div.post-meta {
-		max-width: 50rem;
+		max-width: 75rem;
 		padding: 0 1.25rem;
 		margin: 0 auto 1.875rem;
 		line-height: 2;
@@ -324,7 +324,7 @@ strong {
 
 pre code {
 	width: auto;
-	max-width: 50rem;
+	max-width: 75rem;
 	float: none;
 	display: block;
 	margin-right: auto;
