@@ -2,7 +2,7 @@
 layout: post
 title:  Open S-awesome
 description: A month of giving back, and a very honest post-mortem of what I learned.
-categories: restrospective
+categories: retrospective
 tags: opensource freesoftware community
 no_toc: true
 ---
