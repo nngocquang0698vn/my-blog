@@ -2,7 +2,7 @@
 layout: post
 title: 'Testing `include_recipe`s with Chef and ChefSpec'
 description: How to best test `include_recipe`s within your Chef recipes, as well as how to ensure that you aren't running any dependent recipes in your tests.
-categories: finding
+categories: findings
 tags: findings chef tdd chefspec
 ---
 While writing cookbooks, both personally and professionally, I practice a heavy use of TDD to ensure that the recipes are doing what I expect them to. As part of this, I will want to test both standard resources, as well as `include_recipe`s:
