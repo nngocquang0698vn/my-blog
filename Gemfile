@@ -4,6 +4,7 @@ group :build do
   gem 'jekyll'
   gem 'jekyll-git_metadata'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
   gem 'jekyll-toc'
   gem 'jekyll_tagger'
   gem 'rouge'
