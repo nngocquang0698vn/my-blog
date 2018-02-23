@@ -14,11 +14,12 @@ end
 
 task notify: ['notify:google', 'notify:bing']
 namespace :notify do
+  require 'net/http'
+  require 'uri'
+
   desc 'Notify Google of updated sitemap'
   task :google, [:fqdn] do |_, args|
     begin
-      require 'net/http'
-      require 'uri'
       raise 'Top-level URL not specified' unless args[:fqdn]
 
       puts '* Notifying Google that the site has updated'
@@ -32,8 +33,6 @@ namespace :notify do
   desc 'Notify Bing of updated sitemap'
   task :bing, [:fqdn] do |_, args|
     begin
-      require 'net/http'
-      require 'uri'
       raise 'Top-level URL not specified' unless args[:fqdn]
 
       puts '* Notifying Bing that the site has updated'
