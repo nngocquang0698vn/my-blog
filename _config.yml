@@ -72,4 +72,6 @@ exclude:
 gems:
   - jekyll-seo-tag
   - jekyll-git_metadata
+  - jekyll-last-modified-at
+  - jekyll-sitemap
   - jekyll-toc
