@@ -22,7 +22,12 @@ task :test do
                              ).run
 end
 
-task notify: ['notify:google', 'notify:bing']
+desc 'Notify all search engines'
+task :notify, [:fqdn] do |_, args|
+  Rake::Task['notify:google'].invoke(args[:fqdn])
+  Rake::Task['notify:bing'].invoke(args[:fqdn])
+end
+
 namespace :notify do
   require 'net/http'
   require 'uri'
