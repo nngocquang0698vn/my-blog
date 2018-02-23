@@ -18,4 +18,5 @@ end
 
 group :deploy do
   gem 'capistrano'
+  gem 'rake'
 end
