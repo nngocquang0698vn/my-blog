@@ -1,4 +1,14 @@
 #!/usr/bin/env ruby
+
+def notify_search_engine(base_url, search_engine_url)
+  raise 'Top-level URL not specified' unless base_url
+
+  uri = URI(search_engine_url + URI.escape("#{base_url}/sitemap.xml"))
+  response = Net::HTTP.get_response(uri)
+  raise response unless response.is_a? Net::HTTPSuccess
+  puts "Received code #{response.code} back from #{uri}"
+end
+
 desc 'Test links'
 task :test do
   # as Alpine doesn't have `nproc`, this is the next best thing
@@ -19,28 +29,12 @@ namespace :notify do
 
   desc 'Notify Google of updated sitemap'
   task :google, [:fqdn] do |_, args|
-    begin
-      raise 'Top-level URL not specified' unless args[:fqdn]
-
-      puts '* Notifying Google that the site has updated'
-      Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' +
-                    URI.escape("#{args[:fqdn]}/sitemap.xml"))
-    rescue LoadError
-      puts '! Could not ping Google about our sitemap, because Net::HTTP or URI could not be found.'
-    end
+    notify_search_engine(args[:fqdn], 'https://google.com/webmasters/tools/ping?sitemap=')
   end
 
   desc 'Notify Bing of updated sitemap'
   task :bing, [:fqdn] do |_, args|
-    begin
-      raise 'Top-level URL not specified' unless args[:fqdn]
-
-      puts '* Notifying Bing that the site has updated'
-      Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' +
-                    URI.escape("#{args[:fqdn]}/sitemap.xml"))
-    rescue LoadError
-      puts '! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found.'
-    end
+    notify_search_engine(args[:fqdn], 'https://bing.com/webmaster/ping.aspx?siteMap=')
   end
 end
 
