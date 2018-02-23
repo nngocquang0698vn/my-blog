@@ -15,26 +15,30 @@ end
 task notify: ['notify:google', 'notify:bing']
 namespace :notify do
   desc 'Notify Google of updated sitemap'
-  task :google do
+  task :google, [:fqdn] do |_, args|
     begin
       require 'net/http'
       require 'uri'
+      raise 'Top-level URL not specified' unless args[:fqdn]
+
       puts '* Notifying Google that the site has updated'
       Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' +
-                    URI.escape('https://jvt.me/sitemap.xml'))
+                    URI.escape("#{args[:fqdn]}/sitemap.xml"))
     rescue LoadError
       puts '! Could not ping Google about our sitemap, because Net::HTTP or URI could not be found.'
     end
   end
 
   desc 'Notify Bing of updated sitemap'
-  task :bing do
+  task :bing, [:fqdn] do |_, args|
     begin
       require 'net/http'
       require 'uri'
+      raise 'Top-level URL not specified' unless args[:fqdn]
+
       puts '* Notifying Bing that the site has updated'
       Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' +
-                    URI.escape('https://jvt.me/sitemap.xml'))
+                    URI.escape("#{args[:fqdn]}/sitemap.xml"))
     rescue LoadError
       puts '! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found.'
     end
