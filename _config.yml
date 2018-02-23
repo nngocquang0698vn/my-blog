@@ -19,6 +19,8 @@ author:
   github: jamietanna
   twitter: jamietanna
   linkedin: jamietanna
+twitter:
+  username: jamietanna
 
 permalink: /posts/:year/:month/:day/:title/
 
@@ -36,6 +38,7 @@ defaults:
       layout: "post"
       toc: true
       is_post: true
+      image: /assets/img/profile.png
 
 collections:
   projects:
