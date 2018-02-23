@@ -109,6 +109,7 @@ gulp.task('watch', function () {
 		'*.md',
 		'*.html',
 		'_includes/**/*.html',
+		'_includes/**/*.var',
 		'_layouts/**/*.html',
 		'_posts/*',
 		'_projects/*',
