@@ -13,7 +13,9 @@
 <meta name="twitter:label1" value="Reading time" />
 <meta name="twitter:data1" value="{{ estimated_read }}" />
 {% endif %}
+{% if cover %}
 <meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
+{% endif %}
 
 <!-- Google plus -->
 <meta name="author" content="{{ site.author.googleplus }}">
