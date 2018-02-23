@@ -11,7 +11,7 @@ I very recently set up [GitLab's Review Apps][review-apps] for this site, meanin
 
 For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the `review/example/review-apps` environment to <http://example-review-apps.review.jvt.me/>:
 
-![`example/review-apps` environment]({{ site.url }}/assets/img/gitlab-review-apps-capistrano/example-review-apps.png)
+![`example/review-apps` environment](/assets/img/gitlab-review-apps-capistrano/example-review-apps.png)
 
 This means that each branch I push to will spin up a new instance of my site under the `review.jvt.me` subdomain.
 
