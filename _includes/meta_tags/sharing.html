@@ -3,11 +3,16 @@
 
 {% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
 {% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
+{% capture estimated_read %} {% if words <= 180 %} 1 min {% else %} {{ words | divided_by:180 | ceil }} mins {% endif %} {% endcapture %}
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ title }}" />
 <meta name="twitter:description" content="{{ description }}" />
+{% if page.is_post %}
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="{{ estimated_read }}" />
+{% endif %}
 <meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
 
 <!-- Google plus -->
