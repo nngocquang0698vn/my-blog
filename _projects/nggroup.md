@@ -2,7 +2,7 @@
 layout: project
 date: 2015-01-7
 title: nggroup
-image: nggroup.png
+image: /assets/img/projects/nggroup.png
 github: jamietanna/nggroup
 gitlab:
 description: Fine grained user/group access control for nginx basic HTTP authentication.

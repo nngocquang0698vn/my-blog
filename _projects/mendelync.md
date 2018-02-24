@@ -2,7 +2,7 @@
 layout: project
 date: 2014-10-4
 title: Mendelync
-image: mendelync.png
+image: /assets/img/projects/mendelync.png
 github:
 gitlab:
 description: An Android application to provide easy access to Mendeley papers via NFC.

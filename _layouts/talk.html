@@ -54,9 +54,9 @@ layout: page
 				{% endif %}
 
 			</div>
-			{% if page.image %}
+			{% if page.image and site.image.src != page.image %}
 			<div class="post-image">
-				<img class="post-image" src="/assets/img/talks/{{ page.image }}" alt="{{ page.title }}"/>
+				<img class="post-image" src="{{ page.image }}" alt="{{ page.title }}"/>
 			</div>
 			{% endif %}
 		</header>

@@ -3,7 +3,7 @@ layout: project
 date: 2016-04-17
 title: Evaluating Application Sandbox Systems on Linux
 image:
-image: linux_access_permissions.png
+image: /assets/img/projects/linux_access_permissions.png
 github:
 gitlab:
 description: A project to evaluate the different methods to sandbox Linux packages, aiming to find a method which will provide ease-of-use at the same time as protecting the privacy of the user.

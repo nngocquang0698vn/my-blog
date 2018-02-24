@@ -2,7 +2,7 @@
 layout: project
 date: 2015-10-15
 title: Git talk
-image: gittalk15.png
+image: /assets/img/projects/gittalk15.png
 github: jamietanna/gittalk15
 gitlab:
 description: An Introduction to Git - a talk with a focus for getting started with Git practically.

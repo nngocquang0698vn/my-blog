@@ -3,7 +3,7 @@ layout: project
 date: 2014-04-11
 title: Football Facsimile
 image:
-image: footballfacsimile.png
+image: /assets/img/projects/footballfacsimile.png
 github:
 gitlab:
 description: A self-playing, top-down agent-based football simulation built in Java.

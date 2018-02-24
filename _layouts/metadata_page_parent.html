@@ -3,7 +3,7 @@ layout: page
 ---
 {% for item in page.metadataList %}
 {% capture childLink %}
-{{ site.url }}/{{ page.metadataDir }}/{{ item[0] }}/
+/{{ page.metadataDir }}/{{ item[0] }}/
 {% endcapture %}
   <h2 id="{{ item[0] | slugify }}">
     <a href="{{ childLink }}">{{ item[0] | capitalize }}</a>
@@ -13,7 +13,7 @@ layout: page
     {% for post in pages_list reversed %}
       {% if post.title != null %}
       <li>
-          <a href="{{ site.url }}{{ post.url }}">{{ post.title }}
+          <a href="{{ post.url }}">{{ post.title }}
 					</a>
 					&nbsp;
 					<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>

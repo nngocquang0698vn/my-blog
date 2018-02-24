@@ -99,4 +99,4 @@ Another thing to remember is that the team running the event are going to be lim
 		- Why not check out [`workshopr`][workshopr]?
 
 [inspirewit2017]: http://2017.inspirewit.com
-[workshopr]: {{ site.url }}/projects/workshopr/
+[workshopr]: /projects/workshopr/
