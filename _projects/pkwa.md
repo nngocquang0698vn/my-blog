@@ -2,7 +2,7 @@
 layout: project
 date: 2015-02-8
 title: Public Key Web Authentication
-image: pkwa.png
+image: /assets/img/projects/pkwa.png
 github:
 gitlab:
 description: Public Key Web Authentication is a project aiming to abolish passwords by using key-based authentication.

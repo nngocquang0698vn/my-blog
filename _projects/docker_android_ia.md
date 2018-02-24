@@ -2,7 +2,7 @@
 layout: project
 date: 2015-02-10
 title: Docker Build System for Android on Intel Architecture
-image: docker_android_ia.png
+image: /assets/img/projects/docker_android_ia.png
 github:
 gitlab:
 description: A Docker-based container infrastructure to build the Android Source Code for different Intel Architecture platforms.

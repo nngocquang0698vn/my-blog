@@ -2,7 +2,7 @@
 layout: project
 date: 2012-06-1
 title: Libelius Student Organiser
-image: libelius.png
+image: /assets/img/projects/libelius.png
 github:
 gitlab:
 description: A web application for students with timetable integration and the ability to set homework.

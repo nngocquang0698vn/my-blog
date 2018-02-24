@@ -2,7 +2,7 @@
 layout: project
 date: 2015-11-1
 title: Claritag
-image: claritag.png
+image: /assets/img/projects/claritag.png
 github:
 gitlab: rwdrich/claritag
 description: A web application to automatically categorise your Dropbox photos for you.
