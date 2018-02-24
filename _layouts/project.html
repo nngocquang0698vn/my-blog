@@ -21,7 +21,7 @@ layout: page
 				{% assign project = page %}
 				<p>{% include project/status.html %}</p>
 			</div>
-			{% if page.image %}
+			{% if page.image and site.image.src != page.image %}
 			<div class="post-image">
 				<img class="post-image" src="{{ page.image }}" alt="{{ page.title }}"/>
 			</div>
