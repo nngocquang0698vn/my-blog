@@ -32,13 +32,16 @@ kramdown:
 highlighter: rouge
 
 defaults:
+  - values:
+      path: ""
+    values:
+      image: /assets/img/profile.png
   - scope:
       type: "posts"
     values:
       layout: "post"
       toc: true
       is_post: true
-      image: /assets/img/profile.png
 
 collections:
   projects:
