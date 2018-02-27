@@ -3,7 +3,7 @@ layout: post
 title: Trusting Self-Signed Certificates from the Chef Development Kit
 description: How to get the ChefDK (and associated tools) to trust internal / self-signed certificates, in an easy oneliner.
 categories: findings chef
-tags: chef chefdk certs berkshelf
+tags: chef chefdk certificates berkshelf
 no_toc: true
 ---
 If you're writing Chef cookbooks in a corporate environment, you may be developing against services on your internal network. As the services are not going to be exposed externally, the certificate used for HTTPS will be an intranet-only/self-signed cert, and therefore will require you to manually add it to your trust store.
