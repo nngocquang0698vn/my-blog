@@ -111,7 +111,8 @@ review_stop:
     - master
 # }}}
 
-# Only develop should deploy to staging {{{
+# Deploy to staging to get an early warning if deployment to production will
+# fail {{{
 staging_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: deploy
