@@ -8,6 +8,9 @@ ENV PATH=$PATH:/opt/node/bin
 
 RUN apk update && \
 	apk upgrade && \
+	# Required to set timezone {{{
+	apk add tzdata && \
+	# }}}
 	# NodeJS {{{
 	apk add nodejs && \
 	# }}}
@@ -20,6 +23,11 @@ RUN apk update && \
 		# for the nokogiri gem: https://github.com/gliderlabs/docker-alpine/issues/53#issuecomment-173412882
 		libxml2-dev libxslt-dev
 	# }}}
+# }}}
+
+# Ensure timezone is set correctly {{{
+RUN cp /usr/share/zoneinfo/Europe/London /etc/localtime
+RUN echo 'Europe/London' > /etc/timezone
 # }}}
 
 # Install package dependencies {{{
