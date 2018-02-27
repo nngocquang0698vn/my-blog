@@ -18,8 +18,8 @@ task :test do
                               only_4xx: true,
                               parallel: {
                                 in_processes: num_cpus
-                              }
-                             ).run
+                              },
+                              internal_domains: ['jvt.me']).run
 end
 
 desc 'Notify all search engines'
