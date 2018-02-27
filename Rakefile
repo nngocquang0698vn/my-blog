@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'yaml'
+
 def notify_search_engine(base_url, search_engine_url)
   raise 'Top-level URL not specified' unless base_url
 
@@ -7,6 +9,23 @@ def notify_search_engine(base_url, search_engine_url)
   response = Net::HTTP.get_response(uri)
   raise response unless response.is_a? Net::HTTPSuccess
   puts "Received code #{response.code} back from #{uri}"
+end
+
+def get_field_from_yaml(filename, field_name)
+  h = YAML.load_file(filename)
+  if h.key?(field_name) && h[field_name]
+    h[field_name].split ' '
+  else
+    []
+  end
+end
+
+def get_field_from_files(glob, field)
+  arr = []
+  Dir.glob(glob).each do |f|
+    arr << get_field_from_yaml(f, field)
+  end
+  arr.flatten!.uniq!.sort!
 end
 
 desc 'Test links'
@@ -40,6 +59,20 @@ namespace :notify do
   desc 'Notify Bing of updated sitemap'
   task :bing, [:fqdn] do |_, args|
     notify_search_engine(args[:fqdn], 'https://bing.com/webmaster/ping.aspx?siteMap=')
+  end
+end
+
+namespace :list do
+  desc 'List all tags in the site'
+  task :tags do
+    arr = get_field_from_files('_posts/*.md', 'tags')
+    puts "There are #{arr.length} tags: #{arr}"
+  end
+
+  desc 'List all categories in the site'
+  task :categories do
+    arr = get_field_from_files('_posts/*.md', 'categories')
+    puts "There are #{arr.length} categories: #{arr}"
   end
 end
 
