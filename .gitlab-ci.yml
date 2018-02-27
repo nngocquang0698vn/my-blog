@@ -139,6 +139,8 @@ release_image:
     - docker pull $CONTAINER_BUILT_IMAGE
     - docker tag $CONTAINER_BUILT_IMAGE $CONTAINER_RELEASE_IMAGE
     - docker push $CONTAINER_RELEASE_IMAGE
+  variables:
+    GIT_STRATEGY: none
   only:
     - master
 # }}}
