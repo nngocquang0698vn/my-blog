@@ -46,11 +46,17 @@ gulp.task('optimise-css', function() {
 gulp.task('jekyll-build', function (done) {
 	browserSync.notify(messages.jekyllBuild);
 	args = ['exec', 'jekyll', 'build'];
+	var env = process.env;
+	if (config.production) {
+		env["JEKYLL_ENV"] = "production";
+	} else {
+		env["JEKYLL_ENV"] = "development";
+	}
 	if (config.drafts) {
 		// we need this as the first argument after `build`
 		args.push('--drafts');
 	}
-	return cp.spawn('bundle', args, {stdio: 'inherit'})
+	return cp.spawn('bundle', args, {stdio: 'inherit', env: env})
 		.on('close', done);
 });
 
