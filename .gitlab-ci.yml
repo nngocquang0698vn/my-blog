@@ -22,6 +22,7 @@ stages:
   - deploy
   - release
   - prod_deploy
+  - notify
 
 # Ensure that the site builds {{{
 build_image:
@@ -211,3 +212,10 @@ prod_deploy:
     - master
 # }}}
 
+notify:
+  image: $CONTAINER_BUILDER_IMAGE
+  stage: notify
+  script:
+    - rake notify[$PRODUCTION_URL]
+  only:
+    - master
