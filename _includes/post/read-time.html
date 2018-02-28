@@ -1,4 +1,8 @@
 <span class="post-title__read-time" title="Estimated read time">
-  {% include variables/estimated_read.var %}
-  {{ estimated_read }}
+  {% assign words = post.content | number_of_words | plus: 0.0 %}
+  {% if words <= 180 %}
+    1 min
+  {% else %}
+    {{ words | divided_by:180 | ceil }} mins
+  {% endif %}
 </span>
