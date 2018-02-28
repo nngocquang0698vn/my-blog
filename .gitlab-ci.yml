@@ -152,7 +152,9 @@ release_builder_image:
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - .ci/pull-and-tag.sh "$CONTAINER_BUILDER_IMAGE" "$RELEASE_CONTAINER_BUILDER_IMAGE"
+    - docker pull "$CONTAINER_BUILDER_IMAGE"
+    - docker tag "$CONTAINER_BUILDER_IMAGE" "$RELEASE_CONTAINER_BUILDER_IMAGE"
+    - docker push "$RELEASE_CONTAINER_BUILDER_IMAGE"
   variables:
     GIT_STRATEGY: none
   only:
@@ -162,7 +164,9 @@ release_built_image:
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - .ci/pull-and-tag.sh "$CONTAINER_BUILT_IMAGE" "$RELEASE_CONTAINER_BUILT_IMAGE"
+    - docker pull "$CONTAINER_BUILT_IMAGE"
+    - docker tag "$CONTAINER_BUILT_IMAGE" "$RELEASE_CONTAINER_BUILT_IMAGE"
+    - docker push "$RELEASE_CONTAINER_BUILT_IMAGE"
   variables:
     GIT_STRATEGY: none
   only:
@@ -172,7 +176,9 @@ release_deploy_image:
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - .ci/pull-and-tag.sh "$CONTAINER_DEPLOY_IMAGE" "$RELEASE_CONTAINER_DEPLOY_IMAGE"
+    - docker pull "$CONTAINER_DEPLOY_IMAGE"
+    - docker tag "$CONTAINER_DEPLOY_IMAGE" "$RELEASE_CONTAINER_DEPLOY_IMAGE"
+    - docker push "$RELEASE_CONTAINER_DEPLOY_IMAGE"
   variables:
     GIT_STRATEGY: none
   only:
