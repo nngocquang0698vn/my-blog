@@ -7,7 +7,9 @@ variables:
   CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:$CI_COMMIT_REF_SLUG
   CONTAINER_BUILDER_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
-  CONTAINER_RELEASE_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
+  RELEASE_CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
+  RELEASE_CONTAINER_BUILDER_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:latest
+  RELEASE_CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
   STAGING_URL: https://dev.jvt.me
@@ -28,9 +30,9 @@ build_image:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     # pull the latest base image on a master build
     - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
-    - docker pull $CONTAINER_BUILDER_IMAGE || docker pull $CONTAINER_RELEASE_IMAGE
+    - docker pull $CONTAINER_BUILDER_IMAGE || docker pull $RELEASE_CONTAINER_BUILDER_IMAGE
     # Build the builder image {{{
-    - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $CONTAINER_RELEASE_IMAGE -t $CONTAINER_BUILDER_IMAGE .
+    - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $RELEASE_CONTAINER_BUILDER_IMAGE -t $CONTAINER_BUILDER_IMAGE .
     - docker push $CONTAINER_BUILDER_IMAGE
     # }}}
     # Build the built image {{{
@@ -133,13 +135,31 @@ staging_deploy:
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
-release_image:
+release_builder_image:
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_BUILT_IMAGE
-    - docker tag $CONTAINER_BUILT_IMAGE $CONTAINER_RELEASE_IMAGE
-    - docker push $CONTAINER_RELEASE_IMAGE
+    - .ci/pull-and-tag.sh "$CONTAINER_BUILDER_IMAGE" "$RELEASE_CONTAINER_BUILDER_IMAGE"
+  variables:
+    GIT_STRATEGY: none
+  only:
+    - master
+
+release_built_image:
+  stage: release
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - .ci/pull-and-tag.sh "$CONTAINER_BUILT_IMAGE" "$RELEASE_CONTAINER_BUILT_IMAGE"
+  variables:
+    GIT_STRATEGY: none
+  only:
+    - master
+
+release_deploy_image:
+  stage: release
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - .ci/pull-and-tag.sh "$CONTAINER_DEPLOY_IMAGE" "$RELEASE_CONTAINER_DEPLOY_IMAGE"
   variables:
     GIT_STRATEGY: none
   only:
