@@ -202,7 +202,6 @@ prod_deploy:
     - chmod 600 key
     - ssh-add key
     - cap production deploy
-    - rake notify[$PRODUCTION_URL]
   environment:
     name: production
     url: $PRODUCTION_URL
