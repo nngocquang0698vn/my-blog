@@ -47,7 +47,8 @@ build_deploy_image:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker pull $CONTAINER_DEPLOY_IMAGE || docker pull $RELEASE_CONTAINER_DEPLOY_IMAGE || true
+    - docker build --pull --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $RELEASE_CONTAINER_DEPLOY_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
 
