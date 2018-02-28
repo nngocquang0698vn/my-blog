@@ -72,6 +72,8 @@ review_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: review
   script:
+    # ensure we're in the directory with our capistrano configuration
+    - cd /site
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
@@ -86,6 +88,8 @@ review_deploy:
     on_stop: review_stop
   only:
     - branches
+  variables:
+    GIT_STRATEGY: none
   except:
     - master
 
@@ -93,6 +97,8 @@ review_stop:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: review
   script:
+    # ensure we're in the directory with our capistrano configuration
+    - cd /site
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
@@ -104,6 +110,8 @@ review_stop:
   environment:
     name: review/$CI_COMMIT_REF_SLUG
     action: stop
+  variables:
+    GIT_STRATEGY: none
   when: manual
   only:
     - branches
@@ -117,6 +125,8 @@ staging_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: deploy
   script:
+    # ensure we're in the directory with our capistrano configuration
+    - cd /site
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
@@ -128,6 +138,8 @@ staging_deploy:
   environment:
     name: staging
     url: $STAGING_URL
+  variables:
+    GIT_STRATEGY: none
   only:
     - master
 # }}}
@@ -151,6 +163,8 @@ prod_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: prod_deploy
   script:
+    # ensure we're in the directory with our capistrano configuration
+    - cd /site
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - apk --update add openssh-client
@@ -164,6 +178,8 @@ prod_deploy:
   environment:
     name: production
     url: $PRODUCTION_URL
+  variables:
+    GIT_STRATEGY: none
   only:
     - master
 # }}}
