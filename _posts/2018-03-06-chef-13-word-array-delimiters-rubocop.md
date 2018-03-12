@@ -22,5 +22,5 @@ For most cases, you will be able to perform one of the following commands:
 # use Rubocop's automagic autocorrect, if possible
 rubocop --auto-correct
 # or fall back to a search and replace
-find . -iname "*.rb" -exec sed 's/%w(\([^)]*\))/%w[\1]/g' {} \;
+find . -iname "*.rb" -exec sed -i 's/%w(\([^)]*\))/%w[\1]/g' {} \;
 ```
