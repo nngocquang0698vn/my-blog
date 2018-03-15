@@ -3,6 +3,7 @@
 
 {% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
 
+{% assign words = page.content | number_of_words | plus: 0.0 %}
 {% capture estimated_read %} {% if words <= 180 %} 1 min {% else %} {{ words | divided_by:180 | ceil }} mins {% endif %} {% endcapture %}
 
 <!-- Twitter Cards -->
