@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{{ page.hash_arr | jsonify }}
