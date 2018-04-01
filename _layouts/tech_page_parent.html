@@ -8,7 +8,8 @@ layout: page
   <h2 id="{{ item.slug }}">
     <a href="{{ childLink }}">{{ item[0] }}</a>
   </h2>
-  <ul class="project-list">
+  <p id="no-search-matches" class="hidden">No matches found.</p>
+  <ul id="content-list">
     {% assign projects_list = item[1] %}
     {% for project in projects_list reversed %}
       {% if project.title != null %}
@@ -28,7 +29,8 @@ layout: page
 {% if page.uncategorised_projects and page.uncategorised_projects.size > 0 %}
 <h2>Others</h2>
 <p>The following projects don't have a tech stack associated with them:</p>
-<ul class="project-list">
+<p id="no-search-matches" class="hidden">No matches found.</p>
+<ul id="content-list">
 	{% for project in page.uncategorised_projects %}
 	{% if project.title != null %}
 	<li>

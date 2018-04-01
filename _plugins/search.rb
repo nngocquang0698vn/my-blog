@@ -1,15 +1,33 @@
+require 'jekyll/utils'
+
 module Jekyll
-  class SearchPage < Page
-    def initialize(site, base, name, hash_arr)
+  class SearchPageJavaScript < Page
+    def initialize(site, base, var_name, hash_arr)
       @site = site
       @base = base
       @hash_arr = hash_arr
       @dir = 'search'
-      @name = name
+      @name = var_name + '.js'
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'search.js')
+      self.data['hash_arr'] = hash_arr
+      self.data['var_name'] = var_name
+    end
+  end
+
+  class SearchPageJson < Page
+    def initialize(site, base, var_name, hash_arr)
+      @site = site
+      @base = base
+      @hash_arr = hash_arr
+      @dir = 'search'
+      @name = var_name + '.json'
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'search.json')
       self.data['hash_arr'] = hash_arr
+      self.data['var_name'] = var_name
     end
   end
 
@@ -51,16 +69,23 @@ module Jekyll
     end
 
     def generate(site)
-      posts = site.collections['posts'].docs.map do |post|
-        SearchGenerator.post_to_hash post
+      posts = {}
+      site.collections['posts'].docs.each do |post|
+        slug = Utils.slugify(post.url)
+        posts[slug] = SearchGenerator.post_to_hash post
       end
-      projects = site.collections['projects'].docs.map do |project|
-        SearchGenerator.project_to_hash project
+      projects = {}
+      site.collections['projects'].docs.map do |project|
+        slug = Utils.slugify(project.url)
+        projects[slug] = SearchGenerator.project_to_hash project
       end
-      all = posts + projects
-      site.pages << SearchPage.new(site, site.source, 'all.json', all)
-      site.pages << SearchPage.new(site, site.source, 'posts.json', posts)
-      site.pages << SearchPage.new(site, site.source, 'projects.json', projects)
+      all = posts.merge(projects)
+      site.pages << SearchPageJavaScript.new(site, site.source, 'all', all)
+      site.pages << SearchPageJson.new(site, site.source, 'all', all)
+      site.pages << SearchPageJavaScript.new(site, site.source, 'posts', posts)
+      site.pages << SearchPageJson.new(site, site.source, 'posts', posts)
+      site.pages << SearchPageJavaScript.new(site, site.source, 'projects', projects)
+      site.pages << SearchPageJson.new(site, site.source, 'projects', projects)
     end
   end
 end

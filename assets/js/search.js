@@ -18,4 +18,39 @@ var search = function(needle, haystack) {
   return keys;
 }
 
+var show = function show(element, showBool) {
+  if (showBool) {
+    element.classList.remove('hidden');
+  } else {
+    element.classList.add('hidden');
+  }
+}
+
+var showMatches = function showMatches(matches, container, noMatchesElement) {
+  show(noMatchesElement, (0 == matches.length));
+
+  var len = container.children.length;
+  for (var i = 0; i < len; i++) {
+    show(container.children[i], (matches.includes(container.children[i].id)));
+  }
+}
+
+var onSearchInput = function onSearchInput(haystack, searchInput, container, noMatchesElement) {
+  var matches = search(searchInput.value, haystack);
+  // where we have no search, show everything
+  if('' === searchInput.value) {
+    var len = container.children.length;
+    for (var i = 0; i < len; i++) {
+      show(container.children[i], true);
+    }
+    // except the "no matches"
+    show(noMatchesElement, false);
+  } else {
+    // otherwise, only show our matches
+    showMatches(matches, container, noMatchesElement);
+  }
+}
+
 exports.search = search;
+exports.showMatches = showMatches;
+exports.onSearchInput = onSearchInput;

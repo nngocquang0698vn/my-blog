@@ -8,7 +8,13 @@
 {% endunless %}
 <div class="content">
 	<p>Below you can find some of the projects I've worked on in the past.</p>
-	<section class="features">
+
+	<p class="search-wrapper">
+		You can also search the below projects: <input type="text" id="search-input" value="" placeholder="Search projects..." />
+	</p>
+
+	<p id="no-search-matches" class="hidden">No matches found.</p>
+	<section id="content-list">
 		{% assign projects = site.projects | sort:"date" | reverse %}
 		{% for project in projects | limit:limit %}
 		{% include project/preview.html %}
