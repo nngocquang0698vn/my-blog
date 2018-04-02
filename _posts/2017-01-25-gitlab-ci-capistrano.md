@@ -122,7 +122,7 @@ This requires that we have added our SSH key into the `Variables` section in the
 
 ```bash
 # http://stackoverflow.com/a/1252191
-sed ':a;N;$!ba;s/\n/ /g' /path/to/private_key
+sed ':a;N;$!ba;s/\n/\\n/g' /path/to/private_key
 ```
 
 With this in place, our deploy will now correctly authenticate to the end server, and perform our deploy as requested!
