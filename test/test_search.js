@@ -76,5 +76,16 @@ describe('search', function() {
     expect(actual).to.have.length(1);
     expect(actual[0]).to.equal('key1');
   });
+
+  it('searches for each space-delimited word indivudually', function() {
+    var haystack = {
+      'key': {
+        another_key: 'This is a long sentence in order'
+      }
+    };
+    var actual = search.search('long foo', haystack);
+    expect(actual).to.have.length(1);
+    expect(actual[0]).to.equal('key');
+  });
 });
 
