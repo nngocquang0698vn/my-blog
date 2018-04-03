@@ -1,8 +1,13 @@
+<p class="search-wrapper">
+	You can also search the below posts: <input type="text" id="search-input" value="" placeholder="Search posts..." />
+</p>
+
 {% assign isLimit = limit is defined %}
 {% unless isLimit %}
 {% assign limit = 1000 %}
 {% endunless %}
-<section>
+<p id="no-search-matches" class="hidden">No matches found.</p>
+<section id="content-list">
 	{% for post in site.posts limit:limit %}
 	{% include post/preview.html %}
 	{% endfor %}

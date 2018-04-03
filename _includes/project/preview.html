@@ -7,7 +7,7 @@
 {% endif %}
 {% endif %}
 {% endcapture %}
-<article>
+<article id="{{ project.url | slugify }}">
 	{% if project.image == true and showImage == true %}
 	<a href="{{ project.url }}" class="image"><img src="/assets/img/projects/{{project.image}}" alt="{{ project.title }}" /></a>
 	{% endif %}

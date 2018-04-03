@@ -1,4 +1,4 @@
-<article>
+<article id="{{ talk.url | slugify }}">
   <h2>{{ talk.title }}</h2>
 		{% for paragraph in talk.description: %}
 		<p>{{ paragraph | markdownify }}</p>

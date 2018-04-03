@@ -8,7 +8,8 @@ layout: page
   <h2 id="{{ item[0] | slugify }}">
     <a href="{{ childLink }}">{{ item[0] | capitalize }}</a>
   </h2>
-  <ul class="post-list">
+  <p id="no-search-matches" class="hidden">No matches found.</p>
+  <ul id="content-list">
     {% assign pages_list = item[1] %}
     {% for post in pages_list reversed %}
       {% if post.title != null %}
