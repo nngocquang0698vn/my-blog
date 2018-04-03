@@ -15,13 +15,12 @@ mapping:
   'type':
     type: seq
     required: yes
-    # Validate more? i.e via YAML loading at verify time?
     sequence:
       - type: str
+        enum: [AUTO_GENERATED]
   'events':
     type: seq
     required: no
-    # Validate more? i.e via YAML loading at verify time?
     sequence:
       - type: map
         mapping:

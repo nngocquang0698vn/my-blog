@@ -11,17 +11,13 @@ mapping:
   'project_status':
     type: str
     required: yes
-    enum:
-      - work-in-progress
-      - planned
-      - completed
-      - open-sourced
-      - ongoing
+    enum: [AUTO_GENERATED]
   'tech_stack':
     type: seq
     required: yes
     sequence:
       - type: str
+        enum: [AUTO_GENERATED]
   'site_url':
     type: str
     required: no
