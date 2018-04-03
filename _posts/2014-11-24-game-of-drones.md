@@ -4,6 +4,7 @@ title: Game of Drones
 description: Discussing how drones will be shaping the future of the delivery business.
 categories: drones
 tags: impact-nottingham drones internet-of-things
+no_toc: true
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/11/game-of-drones/) for [Impact Nottingham](http://www.impactnottingham.com).
 

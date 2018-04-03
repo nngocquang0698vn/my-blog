@@ -4,6 +4,7 @@ title: "The Hour of Code: What's the Worst that Could Happen?"
 description: Why you should invest just a single hour in learning how code can be useful to you.
 categories: persuasive
 tags: learning learn-to-code hour-of-code impact-nottingham
+no_toc: true
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/) for [Impact Nottingham](http://www.impactnottingham.com).
 
