@@ -8,7 +8,17 @@ var search = function(needle, haystack) {
       }
       var field_ic = haystack[key][field].toUpperCase();
       var needle_ic = needle.toUpperCase();
-      if(field_ic.includes(needle_ic)) {
+
+      var found = false;
+      var needle_split = needle_ic.split(' ');
+      for(var word in needle_split) {
+        if(field_ic.includes(needle_split[word])) {
+          found = true;
+          break;
+        }
+      }
+
+      if(found) {
         keys.push(key);
         // we have a match, don't bother going through fields
         break;
