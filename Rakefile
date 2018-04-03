@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require 'kwalify'
 require 'yaml'
 
 def notify_search_engine(base_url, search_engine_url)
@@ -77,5 +78,29 @@ namespace :list do
     puts "There are #{arr.length} categories: #{arr}"
   end
 end
+
+namespace :validate do
+  desc 'Validate posts are well-formed'
+  task :posts do
+    schema = YAML.load_file('.schema/post.yml')
+    validator = Kwalify::Validator.new(schema)
+    all_errors = {}
+    Dir.glob('_posts/*').each do |filename|
+      document = YAML.load_file(filename)
+      errors = validator.validate(document)
+      all_errors[filename] = errors unless errors.length.zero?
+    end
+    puts 'Errors:'
+    all_errors.each do |filename, errors|
+      puts filename
+      errors.each do |e|
+        puts "- #{e}"
+      end
+    end
+    fail unless all_errors.length.zero?
+  end
+end
+
+task validate: ['validate:posts']
 
 task default: ['test']

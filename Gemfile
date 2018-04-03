@@ -13,6 +13,7 @@ end
 
 group :test do
   gem 'html-proofer'
+  gem 'kwalify'
   gem 'rake'
 end
 
