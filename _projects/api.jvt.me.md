@@ -6,6 +6,7 @@ github:
 gitlab: jamietanna/api.jvt.me
 description: An API to get information about me.
 project_status: planned
+tech_stack: []
 ---
 This is an API to get information about me, born out of house hunting, and realising that to get certain information, such as previous addresses, I needed to search through emails to find exact details.
 

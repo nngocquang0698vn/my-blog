@@ -6,6 +6,7 @@ gitlab:
 description: A tool to spin up a VPS for a workshop, configure the software to install, and provision it with a set number of users.
 tech_stack:
 project_status: work-in-progress
+tech_stack: []
 ---
 `workshopr` is a (WIP) tool that simplifies the setup for an online environment required to get up and running for a workshop.
 
