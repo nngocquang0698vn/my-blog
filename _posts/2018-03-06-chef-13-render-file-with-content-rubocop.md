@@ -4,6 +4,7 @@ description: 'How to resolve the `Parenthesize the param render_file` Rubocop er
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef-13-upgrade-chefspec chef chefspec
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 {% include posts/chef-13/intro.html %}
 

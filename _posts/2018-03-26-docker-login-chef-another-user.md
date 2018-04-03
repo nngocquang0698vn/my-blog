@@ -5,6 +5,7 @@ description: 'Hitting the error `permission denied while trying to connect to th
 categories: findings
 tags: docker chef findings
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 Yesterday I was writing a cookbook, where I needed to log in to GitLab's private registry:
 

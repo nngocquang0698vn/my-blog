@@ -4,6 +4,7 @@ description: 'Disabling the `Missing space after #` and `Do not use block commen
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef knife-cookbook-doc chef-13 documentation chef-13-upgrade-rubocop
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 {% include posts/chef-13/intro.html %}
 

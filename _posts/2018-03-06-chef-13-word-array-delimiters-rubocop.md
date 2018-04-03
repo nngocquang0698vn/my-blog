@@ -4,6 +4,7 @@ description: 'A one-liner shell command to fix Rubocop errors `%w-literals shoul
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef-13-upgrade-rubocop chef rubocop chef-13 rubocop-0-49
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 {% include posts/chef-13/intro.html %}
 

@@ -5,6 +5,7 @@ description: How to handle getting an `EACCES` when trying to run ChefSpec on a 
 categories: findings
 tags: findings chef chefspec chefdk
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 
 You may find that when running ChefSpec on your Chef cookbook, you may hit an error such as the following, spouting `Permission denied`:

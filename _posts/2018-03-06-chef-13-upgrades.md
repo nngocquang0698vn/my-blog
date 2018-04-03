@@ -4,6 +4,7 @@ description: 'Notes on the main problems encountered when upgrading from Chef 12
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef-13-upgrade-rubocop chef-13-upgrade-chefspec chef rubocop chefspec chef-13 chefspec-7 rubocop-0-49
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 I've recently been working through upgrading my Chef 12 cookbooks to Chef 13, as Chef 12 is to be [End of Life'd in April 2018][chef-12-eol].
 

@@ -4,6 +4,7 @@ description: 'Preparing for breaking changes in Chef 14 by renaming `property_na
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef-13-upgrade-deprecation chef chef-13 chef-14
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 
 In Chef 12 and Chef 13, the following code would work, allowing the `file` resource to access the `my_content` property:

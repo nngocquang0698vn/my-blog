@@ -5,6 +5,7 @@ description: 'Getting around the pesky `OpenSSL::SSL::SSLError SSLv2/v3 read ser
 categories: findings
 tags: chef findings proxy cli shell chefdk berkshelf
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 I found recently that when trying to download cookbooks in an environment that required a proxy, I would encounter the error `OpenSSL::SSL::SSLError: SSL_connect SYSCALL returned=5 errorno=0 state=SSLv2/v3 read server hello A`, even when I had a proxy set for i.e. `.example.com`:
 

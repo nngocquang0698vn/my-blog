@@ -4,6 +4,7 @@ description: 'Replace your `block.old_run_action` with `block.block.call` to tri
 categories: findings chef-13-upgrade
 tags: findings chef-13-upgrade chef-13-upgrade-chefspec chef chefspec chef-13 chefspec-7
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 {% include posts/chef-13/intro.html %}
 
