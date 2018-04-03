@@ -119,8 +119,28 @@ namespace :validate do
     end
     fail unless all_errors.length.zero?
   end
+
+  desc 'Validate talks are well-formed'
+  task :talks do
+    schema = YAML.load_file('.schema/talk.yml')
+    validator = Kwalify::Validator.new(schema)
+    all_errors = {}
+    Dir.glob('_talks/*').each do |filename|
+      document = YAML.load_file(filename)
+      errors = validator.validate(document)
+      all_errors[filename] = errors unless errors.length.zero?
+    end
+    puts 'Errors:'
+    all_errors.each do |filename, errors|
+      puts filename
+      errors.each do |e|
+        puts "- #{e}"
+      end
+    end
+    fail unless all_errors.length.zero?
+  end
 end
 
-task validate: ['validate:posts', 'validate:projects']
+task validate: ['validate:posts', 'validate:projects', 'validate:talks']
 
 task default: ['test']
