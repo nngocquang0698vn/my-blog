@@ -1,0 +1,48 @@
+type: map
+mapping:
+  'title':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'description':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'project_status':
+    type: str
+    required: yes
+    enum:
+      - work-in-progress
+      - planned
+      - completed
+      - open-sourced
+      - ongoing
+  'tech_stack':
+    type: seq
+    required: yes
+    sequence:
+      - type: str
+  'site_url':
+    type: str
+    required: no
+  'site_name':
+    type: str
+    required: no
+
+  'image':
+    type: str
+    required: no
+    pattern: /^\/assets\/img\/projects\//
+  'github':
+    type: str
+    required: no
+  'gitlab':
+    type: str
+    required: no
+  'date':
+    type: date
+    required: no
+  'layout':
+    type: str
+    required: no
+    pattern: /^project$/
