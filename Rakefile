@@ -147,4 +147,4 @@ end
 
 task validate: ['validate:posts', 'validate:projects', 'validate:talks']
 
-task default: ['test']
+task default: ['validate', 'test']
