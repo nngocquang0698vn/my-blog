@@ -7,7 +7,6 @@
 		</p>
 
 		<h3>Tags</h3>
-		{% if page.tags.size > 0 %}
 		<ul class="post-tags">
 			{% for tag in page.tags %}
 			{% capture tagLink %}
@@ -20,12 +19,8 @@
 			</li>
 			{% endfor %}
 		</ul>
-		{% else %}
-		<p>This post has no tags.{% include error.html %}</p>
-		{% endif %}
 
 		<h3>Categories</h3>
-		{% if page.categories.size > 0 %}
 		<ul class="post-categories">
 			{% for category in page.categories %}
 			{% capture categoryLink %}
@@ -38,8 +33,5 @@
 			</li>
 			{% endfor %}
 		</ul>
-		{% else %}
-		<p>This post has no categories.{% include error.html %}</p>
-		{% endif %}
     </div>
 </div>

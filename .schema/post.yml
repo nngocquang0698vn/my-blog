@@ -1,0 +1,29 @@
+type: map
+mapping:
+  'layout':
+    type: str
+    required: no
+    pattern: /^post$/
+  'title':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'description':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'categories':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'tags':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'no_toc':
+    type: bool
+    required: no
+  'image':
+    type: str
+    required: no
+    pattern: /^\/assets\/img\//

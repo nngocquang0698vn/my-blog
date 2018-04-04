@@ -58,16 +58,23 @@ test_image:
   stage: test
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    # Ensure Jekyll configuration is correct {{{
     - docker pull $CONTAINER_BUILDER_IMAGE
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec jekyll doctor -d _site
+    # Ensure collections are formed correctly {{{
+    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec rake validate
     # }}}
 
-    # Ensure the generated site is correct {{{
+    # Get the generated site content {{{
     - docker pull $CONTAINER_BUILT_IMAGE
     - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
     - docker cp $container_id:/site _site
     - docker rm $container_id
+    # }}}
+
+    # Ensure Jekyll configuration is correct {{{
+    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec jekyll doctor -d _site
+    # }}}
+
+    # Ensure the generated site is correct {{{
     - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec rake test
     # }}}
 # }}}
