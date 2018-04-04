@@ -38,12 +38,7 @@ layout: page
 				<ul>
 					{% for tech_item in page.tech_stack %}
 						{% assign tech = site.data.techstack[tech_item] %}
-						{% assign isTech = tech is defined %}
-						{% if isTech %}
 						<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
-						{% else %}
-						<li>{% include error.html %} TODO {{tech_item}} does not have a specified _data mapping</li>
-						{% endif %}
 					{% endfor %}
 				</ul>
 				{% endif %}

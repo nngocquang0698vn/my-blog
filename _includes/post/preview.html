@@ -1,4 +1,4 @@
-{% capture categoryLink %}{% if post.categories[0] %}<a href="/categories/{{ post.categories[0] }}/">{{ post.categories[0] }}</a>{% else %}{% include error.html %}{% endif %}{% endcapture %}
+{% capture categoryLink %}<a href="/categories/{{ post.categories[0] }}/">{{ post.categories[0] }}</a>{% endcapture %}
 <article id="{{ post.url | slugify }}">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <div class="post-meta">
@@ -6,10 +6,5 @@
       <span class="read-time">Estimated read time of {% include post/read-time.html %}.</span>
   </div>
   {% capture desc %}{{ post.description | markdownify }}{% endcapture %}
-  {% if (post.description | length) == 0 %}
   <p>{{ desc }}</p>
-  {% else %}
-  <p>No description set {% include error.html %}.</p>
-  {% endif %}
 </article>
-
