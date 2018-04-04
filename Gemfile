@@ -18,6 +18,6 @@ group :test do
 end
 
 group :deploy do
-  gem 'capistrano'
+  gem 'capistrano', '= 3.7.1'
   gem 'rake'
 end

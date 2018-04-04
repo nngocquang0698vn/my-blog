@@ -102,7 +102,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capistrano
+  capistrano (= 3.7.1)
   html-proofer
   jekyll
   jekyll-git_metadata
