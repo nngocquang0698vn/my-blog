@@ -45,6 +45,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-analytics (0.1.9)
     jekyll-git_metadata (0.1.2)
       jekyll (~> 3.0)
     jekyll-last-modified-at (1.0.1)
@@ -104,6 +105,7 @@ DEPENDENCIES
   capistrano
   html-proofer
   jekyll
+  jekyll-analytics
   jekyll-git_metadata
   jekyll-last-modified-at
   jekyll-seo-tag
