@@ -29,6 +29,19 @@ def get_field_from_files(glob, field)
   arr.flatten!.uniq!.sort!
 end
 
+def report_errors(all_errors)
+  return false if all_errors.size.zero?
+
+  puts 'Errors:'
+  all_errors.each do |filename, errors|
+    puts filename
+    errors.each do |e|
+      puts "- #{e}"
+    end
+  end
+  true
+end
+
 desc 'Test links'
 task :test do
   # as Alpine doesn't have `nproc`, this is the next best thing
@@ -90,14 +103,7 @@ namespace :validate do
       errors = validator.validate(document)
       all_errors[filename] = errors unless errors.length.zero?
     end
-    puts 'Errors:'
-    all_errors.each do |filename, errors|
-      puts filename
-      errors.each do |e|
-        puts "- #{e}"
-      end
-    end
-    fail unless all_errors.length.zero?
+    fail if report_errors(all_errors)
   end
 
   desc 'Validate projects are well-formed'
@@ -117,14 +123,7 @@ namespace :validate do
       errors = validator.validate(document)
       all_errors[filename] = errors unless errors.length.zero?
     end
-    puts 'Errors:'
-    all_errors.each do |filename, errors|
-      puts filename
-      errors.each do |e|
-        puts "- #{e}"
-      end
-    end
-    fail unless all_errors.length.zero?
+    fail if report_errors(all_errors)
   end
 
   desc 'Validate talks are well-formed'
@@ -142,14 +141,7 @@ namespace :validate do
       errors = validator.validate(document)
       all_errors[filename] = errors unless errors.length.zero?
     end
-    puts 'Errors:'
-    all_errors.each do |filename, errors|
-      puts filename
-      errors.each do |e|
-        puts "- #{e}"
-      end
-    end
-    fail unless all_errors.length.zero?
+    fail if report_errors(all_errors)
   end
 end
 
