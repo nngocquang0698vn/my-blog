@@ -1,13 +1,11 @@
 ---
-title: Bundling Common Rake Tasks (for Chef Development) into a Gem
-description: 'An example of how to create a helper gem for common rake task across multiple projects, using the **example of** Chef cookbooks.'
+title: Bundling Common Rake Tasks into a Gem
+description: 'An example of how to create a helper gem for common Rake task, using the real-world example of Chef cookbooks.'
 categories: guide gem
 tags: chef chefdk gem ruby rake foodcritic rubocop rspec knife-cookbook-doc gitlab-ci
 image: /assets/img/vendor/chef-logo.png
 ---
-**Note: The code snippets in this post are licensed as Apache-2.0.**
-
-<span style="color:red">TODO: get the code actually working in a repo</span>
+**Note: The code snippets in this post are licensed as Apache-2.0 and available at [<i class="fa fa-gitlab"></i> jamietanna/example-cookbook-helper-gem][example-cookbook-helper-gem].**
 
 ## Foreword
 
@@ -123,9 +121,7 @@ require 'foodcritic'
 FoodCritic::Rake::LintTask.new(:foodcritic)
 ```
 
-However, this doesn't quite mirror the functionality of the FoodCritic CLI, which always returns an error code if any tag is caught, whereas
-
-However, this doesn't quite mirror the functionality of the FoodCritic CLI. I found some time ago that the Rake task [only fails on `correctness` tags][fc-12-2-1-fail], whereas the CLI returns an error code if `any` tags fail.
+However, this doesn't quite mirror the functionality of the FoodCritic CLI. For instance, when the CLI finds any FoodCritic violations, it returns an error code, whereas the Rake task [only fails on `correctness` tags][fc-12-2-1-fail], whereas the CLI returns an error code if `any` tags fail.
 
 To preserve the functionality of the `foodcritic`, we can add the following config to the Rake task:
 
@@ -180,7 +176,7 @@ For pulling in `knife-cookbook-doc`, we also need to specify the version of `che
 Gem::Specification.new do |spec|
   # ...
   spec.add_runtime_dependency 'chef', '= 13.6.4'
-  spec.add_runtime_dependency 'knife-cookbook-doc', '<~ 0.25'
+  spec.add_runtime_dependency 'knife-cookbook-doc', '~> 0.25'
 ```
 
 Note that we need a minimum of `0.25.0` to support generating documentation for Chef 13, but this could be anything, really. In this case, we'll pull in anything matching [Semantic Versioning minor bumps][semver].
@@ -204,8 +200,8 @@ end
 
 task doc_test: [:readme_test_dir, :readme_test] do
   unless FileUtils.identical?('README.md', 'tmp/README.md')
-    # the command will fail with an error code, therefore failing the Rake task
     $stderr.puts "Generated file is not identical to the README.md in the repo. Please update it:"
+    # the command will fail with an error code, therefore failing the Rake task
     sh 'diff -aur --color README.md tmp/README.md'
   end
 end
@@ -261,7 +257,7 @@ end
 This makes it much clearer when reading through the source, as well as being able to see what each task corresponds with. For instance, before:
 
 ```shell
-$ rake -T
+$ chef exec rake -T
 rake foodcritic            # Lint Chef cookbooks
 rake readme                # Generate cookbook documentation
 rake readme_test           # Generate cookbook documentation
@@ -273,7 +269,7 @@ rake spec                  # Run RSpec code examples
 And after:
 
 ```shell
-$ rake -T
+$ chef exec rake -T
 rake doc:readme                  # Generate cookbook documentation
 rake doc:readme_test             # Generate cookbook documentation
 rake style:foodcritic            # Lint Chef cookbooks
@@ -302,7 +298,7 @@ This is because they don't have corresponding documentation lines, i.e.
 This then makes the `doc:test` task appear:
 
 ```shell
-$ rake -T
+$ chef exec rake -T
 rake doc:readme                  # Generate cookbook documentation
 rake doc:readme_test             # Generate cookbook documentation
 rake doc:test                    # Verify that documentation has been generated from latest source code
@@ -331,7 +327,7 @@ task default: ['style', 'doc:test', 'unit']
 
 ## Integrating into Cookbooks
 
-Now we've set up our Rake tasks, we need to actually integrate into another cookbook. However, we don't need to push it up to <RubyGems.org> quite yet, as we can test it all locally.
+Now we've set up our Rake tasks, we need to actually integrate into another cookbook. However, we don't need to push it up to [RubyGems][rubygems] quite yet, as we can test it all locally.
 
 First, we need a cookbook. For convenience, we'll create a fresh cookbook:
 
@@ -350,7 +346,7 @@ As well as making sure that the Gem is included in the cookbook via the `Gemfile
 ```ruby
 source 'https://rubygems.org'
 
-gem 'cookbook_helper', local: '/path/to/cookbook_helper'
+gem 'cookbook_helper', path: '/path/to/cookbook_helper'
 ```
 
 To verify this has worked, we can run the following:
@@ -367,13 +363,17 @@ rake unit:spec                   # Run RSpec code examples
 
 At this point, we've now got a Gem ready to release to RubyGems which pins exactly to a given version of the ChefDK.
 
+There will be a follow-up post to describe how I build out my GitLab CI configuration for cookbooks.
+
 [name-your-gem]: http://guides.rubygems.org/name-your-gem
 [tags-knife-cookbook-doc]: /tags/knife-cookbook-doc/
 [rubocop]: https://github.com/bbatsov/rubocop
-[foodcritic]: foodcritic.io
+[foodcritic]: http://foodcritic.io
 [chefspec]: https://github.com/chefspec/chefspec
 [berkshelf]: https://github.com/berkshelf/berkshelf
 [knife-cookbook-doc]: https://github.com/realityforge/knife-cookbook-doc/
 [chef-13-upgrade]: {% post_url 2018-03-06-chef-13-upgrades %}
 [fc-12-2-1-fail]: https://github.com/Foodcritic/foodcritic/blob/v12.2.1/lib/foodcritic/rake_task.rb#L37
 [semver]: http://guides.rubygems.org/patterns/#semantic-versioning
+[example-cookbook-helper-gem]: https://gitlab.com/jamietanna/example-cookbook-helper-gem
+[rubygems]: https://rubygems.org
