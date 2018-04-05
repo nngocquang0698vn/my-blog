@@ -75,6 +75,7 @@ exclude:
 - get_pr.py
 - tags
 - worktree
+- test
 
 gems:
   - jekyll-seo-tag
