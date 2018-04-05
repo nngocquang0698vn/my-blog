@@ -2,37 +2,84 @@
 title: Bundling Common Rake Tasks (for Chef Development) into a Gem
 description: 'An example of how to create a helper gem for common rake task across multiple projects, using the **example of** Chef cookbooks.'
 categories: guide gem
-tags: chef gem ruby rake foodcritic rubocop rspec knife-cookbook-doc gitlab-ci
-image: TODO
+tags: chef chefdk gem ruby rake foodcritic rubocop rspec knife-cookbook-doc gitlab-ci
+image: /assets/img/vendor/chef-logo.png
 ---
 **Note: The code snippets in this post are licensed as Apache-2.0.**
+
+<span style="color:red">TODO: get the code actually working in a repo</span>
+
+## Foreword
 
 As the number of cookbooks I'm working on grows, there are a number of common tasks that I need to have automated. These include, but are not limited to, linting, unit testing and generating documentation. For cookbooks I test with GitLab CI, I also autogenerate the `.gitlab-ci.yml` file, creating a separate phase per test suite. These tasks are performed using Rake, the Ruby task runner.
 
 Having multiple copies of the same code was starting to grind on me, and as part of my [Chef 13 upgrades][chef-13-upgrade], I've found there are a number of style changes to take effect in each `Rakefile`. Instead of making the changes in each repo, I bit the bullet and learned how to create my own Gem which would contain these tasks and make it easier to upgrade all Gems in one fell swoop. I've written this post to document it for posterity, and to show how easy it is to do.
 
+**Note**: All the below commands are prefaced with `chef exec`, to tie the version of Ruby, RubyGems and Bundler with the version in the ChefDK, making sure all dependencies will be aligned.
+
+## Determining Dependency Versions
+
 Now, this seems like quite an easy task, but to throw a slight spanner in the works, we'll also require that the Gem tests against the **exact versions of tools** as in the ChefDK at version 2.4.17, which is the version I'm currently using. This ensures that across any machine, they'll only ever use the right versions, instead of potentially polluting our installation with incorrect Gem versions.
 
-**HOw to check versions?**
+To check the versions of each of the dependencies we have, I ran the following:
+
+```shell
+$ docker run --rm chef/chefdk:2.4.17 chef gem list |\
+  grep -e rubocop -e chef -e berkshelf -e chefspec -e foodcritic
+berkshelf (6.3.1)
+chef (13.6.4)
+chef-api (0.7.1)
+chef-config (13.6.4)
+chef-dk (2.4.17)
+chef-provisioning (2.6.0)
+chef-provisioning-aws (3.0.0)
+chef-provisioning-azure (0.6.0)
+chef-provisioning-fog (0.26.0)
+chef-sugar (3.6.0)
+chef-vault (3.3.0)
+chef-zero (13.1.0)
+cheffish (13.1.0)
+chefspec (7.1.1)
+chefstyle (0.6.0)
+foodcritic (12.2.1)
+rubocop (0.49.1)
+```
 
 ## Creating our Gem
 
 For example, we'll call this Gem `cookbook_helper`, following the [naming scheme as defined in RubyGems' docs][name-your-gem].
 
-We can create our Gem boilerplate by running the handy `bundle gem cookbook_helper` command. This creates the folder structure:
+We can create our Gem boilerplate by running the handy `chef exec bundle gem cookbook_helper`:
 
-**TODO: Asciicast**
+```shell
+$ chef exec bundle gem cookbook_helper
+Creating gem 'cookbook_helper'...
+      create  cookbook_helper/Gemfile
+      create  cookbook_helper/lib/cookbook_helper.rb
+      create  cookbook_helper/lib/cookbook_helper/version.rb
+      create  cookbook_helper/cookbook_helper.gemspec
+      create  cookbook_helper/Rakefile
+      create  cookbook_helper/README.md
+      create  cookbook_helper/bin/console
+      create  cookbook_helper/bin/setup
+      create  cookbook_helper/.gitignore
+      create  cookbook_helper/.travis.yml
+      create  cookbook_helper/.rspec
+      create  cookbook_helper/spec/spec_helper.rb
+      create  cookbook_helper/spec/cookbook_helper_spec.rb
+Initializing git repo in /path/to/cookbook_helper
+```
 
 Let's start by filling in some of the information in the `cookbook_helper.gemspec`:
 
 ```ruby
 Gem::Specification.new do |spec|
   spec.name          = "cookbook_helper"
-  spec.version       = CookbookHelperGem::VERSION
+  spec.version       = CookbookHelper::VERSION
   spec.authors       = ["Jamie Tanna"]
   spec.email         = ["..."]
 
-  spec.summary       = %q{Opinionated Rake tasks for aiding with building a cookbook.}
+  spec.summary       = %q{Opinionated Rake tasks for aiding with building a cookbook in line with ChefDK 2.4.17}
   ...
 ```
 
@@ -91,7 +138,7 @@ To preserve the functionality of the `foodcritic`, we can add the following conf
 +  t.options = {
 +    fail_tags: ['any']
 +  }
-end
++end
 ```
 
 
@@ -108,7 +155,7 @@ Gem::Specification.new do |spec|
 Adding the Rake task to `lib/cookbook_helper_gem/rake_task.rb`:
 
 ```ruby
-require "rspec/core/rake_task"
+require 'rspec/core/rake_task'
 # ...
 RSpec::Core::RakeTask.new(:spec)
 ```
@@ -123,7 +170,7 @@ Gem::Specification.new do |spec|
 
 ## Documentation Rake Tasks
 
-As I've [spoken about before][tags-knife-cookbook-doc], I use [knife-cookbook-doc] as a means to pull inline documentation into the `README.md`.
+As I've [mentioned before][tags-knife-cookbook-doc], I use [knife-cookbook-doc] as a means to pull inline documentation into the `README.md`.
 
 ### Generating Documentation
 
@@ -143,6 +190,10 @@ Note that we need a minimum of `0.25.0` to support generating documentation for 
 It may be useful to be able to generate documentation, but it'd also be pretty useful to be able to confirm whether the `README.md` has been updated.
 
 ```ruby
+require 'knife_cookbook_doc/rake_task'
+# ...
+KnifeCookbookDoc::RakeTask.new(:readme)
+
 KnifeCookbookDoc::RakeTask.new(:readme_test) do |t|
   t.options[:output_file] = 'tmp/README.md'
 end
@@ -153,6 +204,7 @@ end
 
 task doc_test: [:readme_test_dir, :readme_test] do
   unless FileUtils.identical?('README.md', 'tmp/README.md')
+    # the command will fail with an error code, therefore failing the Rake task
     $stderr.puts "Generated file is not identical to the README.md in the repo. Please update it:"
     sh 'diff -aur --color README.md tmp/README.md'
   end
@@ -198,6 +250,7 @@ namespace :doc do
 
   task test: [:test_dir, :readme_test] do
     unless FileUtils.identical?('README.md', 'tmp/README.md')
+      # the command will fail with an error code, therefore failing the Rake task
       $stderr.puts "Generated file is not identical to the README.md in the repo. Please update it:"
       sh 'diff -aur --color README.md tmp/README.md'
     end
@@ -233,17 +286,17 @@ However, note that we're missing our `doc:test_dir` and `doc:test` tasks!
 
 This is because they don't have corresponding documentation lines, i.e.
 
-```ruby
-namespace :doc do
-  # ...
-  desc 'Verify that documentation has been generated from latest source code'
-  task test: [:test_dir, :readme_test] do
-    unless FileUtils.identical?('README.md', 'tmp/README.md')
-      $stderr.puts "Generated file is not identical to the README.md in the repo. Please update it:"
-      sh 'diff -aur --color README.md tmp/README.md'
-    end
-  end
-end
+```diff
+ namespace :doc do
+   # ...
++  desc 'Verify that documentation has been generated from latest source code'
+   task test: [:test_dir, :readme_test] do
+     unless FileUtils.identical?('README.md', 'tmp/README.md')
+       $stderr.puts "Generated file is not identical to the README.md in the repo. Please update it:"
+       sh 'diff -au --color README.md tmp/README.md'
+     end
+   end
+ end
 ```
 
 This then makes the `doc:test` task appear:
@@ -286,25 +339,38 @@ First, we need a cookbook. For convenience, we'll create a fresh cookbook:
 $ chef generate cookbook test-cookbook
 ```
 
-**TODO asciicast**
+We create a `Rakefile` to include our Gem's Rake tasks:
 
+```ruby
+require 'cookbook_helper/rake_task'
+```
 
-However we should probably test this works before pushing it up to RubyGems.
+As well as making sure that the Gem is included in the cookbook via the `Gemfile`, taking care to reference the path on disk to the `cookbook_helper` folder:
 
+```ruby
+source 'https://rubygems.org'
 
+gem 'cookbook_helper', local: '/path/to/cookbook_helper'
+```
 
-Let's assume we've just created a new cookbook:
+To verify this has worked, we can run the following:
 
-- `chef generate cookbook`
-- create `Rakefile`
-- add `Gemfile` reference to `local`
-- asciicast
+```shell
+$ chef exec bundle exec rake -T
+rake doc:readme                  # Generate cookbook documentation
+rake doc:readme_test             # Generate cookbook documentation
+rake style:foodcritic            # Lint Chef cookbooks
+rake style:rubocop               # Run RuboCop
+rake style:rubocop:auto_correct  # Auto-correct RuboCop offenses
+rake unit:spec                   # Run RSpec code examples
+```
 
-- via RubyGems?
-
+At this point, we've now got a Gem ready to release to RubyGems which pins exactly to a given version of the ChefDK.
 
 [name-your-gem]: http://guides.rubygems.org/name-your-gem
 [tags-knife-cookbook-doc]: /tags/knife-cookbook-doc/
+[rubocop]: https://github.com/bbatsov/rubocop
+[foodcritic]: foodcritic.io
 [chefspec]: https://github.com/chefspec/chefspec
 [berkshelf]: https://github.com/berkshelf/berkshelf
 [knife-cookbook-doc]: https://github.com/realityforge/knife-cookbook-doc/
