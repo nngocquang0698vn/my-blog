@@ -52,11 +52,6 @@ collections:
 category_title_prefix: 'Category: '
 tag_title_prefix: 'Tag: '
 
-jekyll_analytics:
-  Matomo:
-    url: stats.jvt.me
-    siteId: '1'
-
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -82,7 +77,6 @@ exclude:
 - worktree
 
 gems:
-  - jekyll-analytics
   - jekyll-seo-tag
   - jekyll-git_metadata
   - jekyll-last-modified-at
