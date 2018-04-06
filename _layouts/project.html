@@ -2,9 +2,16 @@
 layout: page
 ---
 <div class="content">
-	{% assign isTechStack = page.tech_stack.size > 0 %}
-	{% assign isRepoAvailable = page.gitlab is defined or page.github is defined %}
-	{% assign isSiteAvailable = page.site_url is defined %}
+	{% assign isTechStack = false %}
+	{% if page.tech_stack.size > 0 %}
+	{% assign isTechStack = true %}
+	{% endif %}
+
+	{% assign isRepoAvailable = false %}
+	{% if page.gitlab or page.github %}
+	{% assign isRepoAvailable = true %}
+	{% endif %}
+
 	{% capture repoLinks %}
 	{% if page.gitlab %}
 	<a href="https://gitlab.com/{{ page.gitlab }}"><i class="fa fa-gitlab"></i> GitLab</a>

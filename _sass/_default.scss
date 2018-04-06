@@ -312,11 +312,13 @@ strong {
 	overflow: auto;
 	word-wrap: normal;
 	border-radius: 0;
-	padding: 20px;
 	background-color: #2f2f33;
 	color: #c1c2c3;
+}
+
+pre.highlight {
+	padding: 20px;
 	margin: 0;
-	margin-bottom: 30px;
 }
 
 .content,footer,div.about {
@@ -413,14 +415,16 @@ footer ul {
 	}
 }
 
+.toc ul {
+	margin-bottom: 0px;
+}
+
 .toc-entry {
 	&.toc-h3 {
-		margin-left: 1.2rem;
 		font-size: 90%;
 	}
 	&.toc-h4 {
-		margin-left: 2.4rem;
-		font-size: 80%;
+		font-size: 90%;
 	}
 }
 

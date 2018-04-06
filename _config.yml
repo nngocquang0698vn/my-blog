@@ -77,7 +77,7 @@ exclude:
 - worktree
 - test
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-git_metadata
   - jekyll-last-modified-at
