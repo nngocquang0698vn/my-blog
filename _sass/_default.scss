@@ -415,13 +415,15 @@ footer ul {
 	}
 }
 
+.toc ul {
+	margin-bottom: 0px;
+}
+
 .toc-entry {
 	&.toc-h3 {
-		margin-left: 1.2rem;
 		font-size: 90%;
 	}
 	&.toc-h4 {
-		margin-left: 2.4rem;
 		font-size: 80%;
 	}
 }
