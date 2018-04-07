@@ -8,6 +8,7 @@ group :build do
   gem 'jekyll-sitemap'
   gem 'jekyll-toc'
   gem 'jekyll_tagger'
+  gem 'json'
   gem 'rouge'
 end
 
