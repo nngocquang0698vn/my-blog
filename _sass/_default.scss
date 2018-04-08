@@ -325,7 +325,7 @@ pre.highlight {
 	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div.post-meta {
 		max-width: 75rem;
 		padding: 0 1.25rem;
-		margin: 0 auto 1.875rem;
+		margin: 0.9rem auto 0.9rem;
 		line-height: 2;
 		letter-spacing: .01rem;
 	}
@@ -415,7 +415,13 @@ footer ul {
 	}
 }
 
+.content ul ul, .content ul ul ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
 .toc ul {
+	margin-top: 0px;
 	margin-bottom: 0px;
 }
 
