@@ -4,6 +4,7 @@ title: GitLab Review Apps with Capistrano and Nginx
 description: Spinning up a version of your application on every push, so others don't have to manually get the code up and running locally.
 categories: guide
 tags: guide gitlab review-apps capistrano
+image: /assets/img/vendor/gitlab-wordmark.png
 ---
 ## Wait, What are Review Apps?
 
