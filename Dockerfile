@@ -12,7 +12,9 @@ RUN apk update && \
 	apk add tzdata && \
 	# }}}
 	# NodeJS {{{
-	apk add nodejs && \
+	apk add nodejs \
+		# gifsicle jpegtran-bin
+		autoconf automake file nasm && \
 	# }}}
 	# Ruby {{{
 	apk add ruby-dev ruby-bundler && \
