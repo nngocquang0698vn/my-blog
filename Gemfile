@@ -13,6 +13,7 @@ group :build do
 end
 
 group :test do
+  gem 'git'
   gem 'html-proofer'
   gem 'kwalify'
   gem 'rake'

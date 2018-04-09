@@ -145,6 +145,17 @@ namespace :validate do
   end
 end
 
+desc 'Determine if images have changed'
+task :images_changed? do
+  require 'git'
+  g = Git.open('.')
+  images_to_minify = g.diff('assets/img').map do |f|
+    f.path
+  end
+
+  fail "Images are not all minified: #{images_to_minify}" unless images_to_minify.size.zero?
+end
+
 task validate: ['validate:posts', 'validate:projects', 'validate:talks']
 
 task default: ['validate', 'test']
