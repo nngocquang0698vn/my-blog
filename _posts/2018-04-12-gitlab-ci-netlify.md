@@ -12,7 +12,7 @@ However, as I was using GitLab pages, I wasn't able to get this functionality wo
 
 The first step I needed to take was to move from GitLab Pages to Netlify, which I detail below, followed by configuring Netlify for Review Apps / Deploy Preview. I'll be [covering that in a later article][netlify-review-apps], once I've worked out how to do it, as at first glance, the URL structure for branch deploys doesn't work quite as nicely out-of-the-box with GitLab Review Apps.
 
-As building the talks require a few tools to exist on the box, I would prefer to continue using GitLab CI as my platform to build the content. Note that I'm trying to [make the process better][package-deps] but I'd still like to retain GitLab as the **source of truth for ??**.
+As building the talks require a few tools to exist on the box, I would prefer to continue using GitLab CI as my platform to build the content. Note that I'm trying to [make the process better][package-deps] but I'd still like to retain GitLab as the owner of the build process.
 
 While looking at how to transition, I couldn't find anything explicitly sharing how to get this up and running. That may have been because it's incredibly simple to bake in using the [`netlify-cli`][netlify-cli] tool.
 
