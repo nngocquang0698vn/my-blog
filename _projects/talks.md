@@ -9,6 +9,7 @@ tech_stack:
 - revealjs
 - beamer
 project_status: ongoing
+site_url: https://talks.jvt.me
 ---
 I have a public repository with each of my talks available for others to be able to view, as well as being able to track changes to the talks over time.
 

@@ -52,7 +52,7 @@ layout: page
 				{% if isRepoAvailable or isSiteAvailable %}
 					<h2 class="major">Project Links</h2>
 					{% if page.site_url %}
-					<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name }}</a>.</p>
+					<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name | default: page.site_url }}</a>.</p>
 					{% endif %}
 					{% if isRepoAvailable %}
 						<p>Find the project on {{ repoLinks }}.</p>
