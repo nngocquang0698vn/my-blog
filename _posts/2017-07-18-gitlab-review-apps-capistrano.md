@@ -6,6 +6,8 @@ categories: guide
 tags: guide gitlab review-apps capistrano
 image: /assets/img/vendor/gitlab-wordmark.png
 ---
+Note: This post describes how to work with Nginx. There is an alternate post on [Serving Branches with GitLab Review Apps using Caddy], which may be of interest.
+
 ## Wait, What are Review Apps?
 
 I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review.
