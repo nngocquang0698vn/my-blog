@@ -22,7 +22,11 @@ a {
     }
 }
 
-p, p code {
+code {
+    font-family: 'Inconsolata', monospace;
+}
+
+p {
     font-size: 20px;
     line-height: 32px;
 }
@@ -314,6 +318,7 @@ strong {
 	border-radius: 0;
 	background-color: #2f2f33;
 	color: #c1c2c3;
+	font-size: 20px;
 }
 
 pre.highlight {
