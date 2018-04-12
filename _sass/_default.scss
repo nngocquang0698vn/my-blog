@@ -22,7 +22,11 @@ a {
     }
 }
 
-p, p code {
+code {
+    font-family: 'Inconsolata', monospace;
+}
+
+p {
     font-size: 20px;
     line-height: 32px;
 }
