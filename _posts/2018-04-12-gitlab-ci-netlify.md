@@ -45,7 +45,7 @@ Next, I needed to create a personal access token to authorize myself to the Netl
 
 I set this as the secret variable `NETLIFY_ACCESS_TOKEN` in the GitLab repo's `CI/CD` subsection under the `Settings`, and that was it, ready to go!
 
-Then, [we can see a deploy succeeds][deploy], and you can now access the site at [https://talks.jvt.me](https://talks.jvt.me), with certificates managed by Netlify, and provisioned by [Let's Encyrpt][le].
+Then, [we can see a deploy succeeds][deploy], and you can now access the site at [https://talks.jvt.me](https://talks.jvt.me), with certificates managed by Netlify, and provisioned by [Let's Encrypt][le].
 
 [netlify]: https://netlify.com
 [review-apps]: {% post_url 2017-07-18-gitlab-review-apps-capistrano %}
