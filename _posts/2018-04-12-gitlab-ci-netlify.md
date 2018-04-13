@@ -4,7 +4,7 @@ description: 'How adding two lines to my `.gitlab-ci.yml` migrated my existing s
 categories: guide
 tags: netlify gitlab-ci automation continuous-deployment ci deploy howto
 no_toc: true
-image: /assets/img/vendor/netlify-full-logo-white.svg
+image: /assets/img/vendor/netlify-full-logo-white.png
 ---
 Since I migrated my [meetups + conference talks repo][gl-talks] to Reveal.JS, I've found that I've been wanting to have a branch spun up with the talk's content at a publically accessible URL, exactly how [I have configured Review Apps][review-apps] for my personal site.
 

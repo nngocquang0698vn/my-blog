@@ -26,4 +26,4 @@ mapping:
   'image':
     type: str
     required: no
-    pattern: /^\/assets\/img\//
+    pattern: /^\/assets\/img\/.*\.png/
