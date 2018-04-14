@@ -7,8 +7,8 @@
 # server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
 # server 'db.example.com', user: 'deploy', roles: %w{db}
 
-server 'staging.jvt.me', user: 'staging-jvt-me', roles: %w{app}
-set :deploy_to, '/srv/www/staging.jvt.me'
+server 'jvt.me', user: 'jvt_me', roles: %w{app}
+set :deploy_to, '/srv/www/jvt.me/jvt.me/staging'
 
 # role-based syntax
 # ==================
