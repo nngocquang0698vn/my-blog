@@ -1,6 +1,6 @@
-image: docker:1.13-rc
+image: docker:1.13
 services:
-  - docker:1.13-rc-dind
+  - docker:1.13-dind
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
