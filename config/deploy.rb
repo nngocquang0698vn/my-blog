@@ -35,6 +35,7 @@ set :deploy_to, '/home/jvt_me/jvt.me'
 
 set :registry_url, "registry.gitlab.com"
 set :image_path, "jamietanna/jvt.me"
+# TODO: default if no `CI_COMMIT_REF_SLUG`
 set :tag, ENV['CI_COMMIT_REF_SLUG']
 if "master" == fetch(:tag)
   if :production == fetch(:stage)
@@ -59,8 +60,9 @@ namespace :deploy do
     desc "Copy the files from the new image to the release_path"
     on roles(:app) do
       within(release_path) do
+        execute "mkdir -p #{release_path}/_dist"
         container_id = capture("docker create #{fetch:image_to_deploy} echo")
-        execute "docker cp #{container_id}:/site #{release_path}"
+        execute "docker cp #{container_id}:/site #{release_path}/_dist/html"
         execute "chmod -R o-rwX #{release_path}"
         execute "docker rm #{container_id}"
       end
