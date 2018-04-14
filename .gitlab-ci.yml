@@ -1,6 +1,6 @@
-image: docker:1.13-rc
+image: docker:latest
 services:
-    - docker:1.13-rc-dind
+  - docker:dind
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
@@ -12,16 +12,18 @@ variables:
   RELEASE_CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
-  STAGING_URL: https://dev.jvt.me
-  PRODUCTION_URL: https://jvt.me
+  URL_PRODUCTION: https://www.jvt.me
+  URL_STAGING: https://www.staging.jvt.me
+  URL_REVIEW_SUFFIX: www.review.jvt.me
+  GIT_SUBMODULE_STRATEGY: normal
 
 stages:
   - build
   - review
   - test
-  - deploy
+  - staging
   - release
-  - prod_deploy
+  - production
   - notify
 
 # Ensure that the site builds {{{
@@ -84,6 +86,7 @@ test_image:
     # }}}
 # }}}
 
+# Review Apps {{{
 review_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
   stage: review
@@ -100,7 +103,7 @@ review_deploy:
     - cap review deploy
   environment:
     name: review/$CI_COMMIT_REF_SLUG
-    url: http://$CI_COMMIT_REF_SLUG.review.jvt.me
+    url: https://$CI_COMMIT_REF_SLUG.$URL_REVIEW_SUFFIX
     on_stop: review_stop
   only:
     - branches
@@ -135,11 +138,10 @@ review_stop:
     - master
 # }}}
 
-# Deploy to staging to get an early warning if deployment to production will
-# fail {{{
+# Staging {{{
 staging_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
-  stage: deploy
+  stage: staging
   script:
     # ensure we're in the directory with our capistrano configuration
     - cd /site
@@ -147,17 +149,18 @@ staging_deploy:
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$SSH_PRIVATE_KEY" > key
+    - echo -e "$STAGING_SSH_PRIVATE_KEY" > key
     - chmod 600 key
     - ssh-add key
     - cap staging deploy
   environment:
     name: staging
-    url: $STAGING_URL
+    url: $URL_STAGING
   variables:
     GIT_STRATEGY: none
   only:
     - master
+# }}}
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
@@ -198,25 +201,24 @@ release_deploy_image:
     - master
 # }}}
 
-# Only master should auto deploy to production {{{
+# Production {{{
 prod_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
-  stage: prod_deploy
+  stage: production
   script:
     # ensure we're in the directory with our capistrano configuration
     - cd /site
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
-    - apk --update add openssh-client
     - eval $(ssh-agent -s)
       # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$SSH_PRIVATE_KEY" > key
+    - echo -e "$PRODUCTION_SSH_PRIVATE_KEY" > key
     - chmod 600 key
     - ssh-add key
     - cap production deploy
   environment:
     name: production
-    url: $PRODUCTION_URL
+    url: $URL_PRODUCTION
   variables:
     GIT_STRATEGY: none
   only:
@@ -227,6 +229,6 @@ notify:
   image: $CONTAINER_BUILDER_IMAGE
   stage: notify
   script:
-    - rake notify[$PRODUCTION_URL]
+    - rake notify[$URL_PRODUCTION]
   only:
     - master

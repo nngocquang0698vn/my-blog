@@ -1,2 +1,2 @@
-server 'review.jvt.me', user: 'review_jvt_me', roles: %w{app}
-set :deploy_to, "/srv/www/review.jvt.me/review.jvt.me/review/#{ENV['CI_COMMIT_REF_SLUG']}"
+server 'www.review.jvt.me', user: 'www-review-jvt-me', roles: %w{app}
+set :deploy_to, "/srv/www/www.review.jvt.me/#{fetch :tag}"
