@@ -52,7 +52,7 @@ task :test do
     parallel: {
       in_processes: num_cpus
     },
-    internal_domains: ['jvt.me']
+    internal_domains: ['jvt.me', 'www.jvt.me']
   }
   HTMLProofer.check_directory('./_site', options).run
 end
