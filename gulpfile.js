@@ -3,13 +3,9 @@ var gulp        = require('gulp'),
 	browserSync = require('browser-sync'),
 	uglify      = require('gulp-uglify'),
 	concat      = require('gulp-concat'),
-	jeet        = require('jeet'),
-	rupture     = require('rupture'),
-	koutoSwiss  = require('kouto-swiss'),
 	imagemin    = require('gulp-imagemin'),
 	cp          = require('child_process'),
-	minifyHTML  = require('gulp-minify-html'),
-	cleanCSS   = require('gulp-clean-css'),
+	htmlmin     = require('gulp-htmlmin'),
 	cleanCSS    = require('gulp-clean-css'),
 	autoprefixer = require('gulp-autoprefixer'),
 	runSequence = require('run-sequence'),
@@ -26,8 +22,11 @@ var config = {
 
 gulp.task('optimise-html', function() {
 	return gulp.src('_site/**/*.html')
-		.pipe(minifyHTML({
-			quotes: true
+		.pipe(htmlmin({
+			collapseWhitespace: true,
+			minifyJS: true,
+			removeComments: true,
+			removeRedundantAttributes: true
 		}))
 		.pipe(gulp.dest('_site/'));
 });

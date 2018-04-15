@@ -12,15 +12,10 @@
     "gulp-clean-css": "^3.0.2",
     "gulp-concat": "^2.4.3",
     "gulp-imagemin": "^4.1.0",
-    "gulp-minify-html": "^1.0.6",
+    "gulp-htmlmin": "^4.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "3.0.8",
     "run-sequence": "^2.2.1"
-  },
-  "dependencies": {
-    "jeet": "^7.2.0",
-    "kouto-swiss": "^1.1.0",
-    "rupture": "^0.7.1"
   }
 }
