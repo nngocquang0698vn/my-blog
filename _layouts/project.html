@@ -38,7 +38,7 @@ layout: page
 			<h2 class="major">Overview</h2>
 			{{ content | markdownify }}
 
-			{% if isTechStack or isRepoAvailable or isSiteAvailable %}
+			{% if isTechStack %}
 			<h2 class="major">Tech Stack</h2>
 				{% if isTechStack %}
 				<p>This project was built using the following technologies:</p>
@@ -48,8 +48,8 @@ layout: page
 						<li><a href="{{ tech.link }}">{{ tech.title }}</a>: {{ tech.description }}</li>
 					{% endfor %}
 				</ul>
-				{% endif %}
-				{% if isRepoAvailable or isSiteAvailable %}
+			{% endif %}
+			{% if isRepoAvailable or isSiteAvailable %}
 					<h2 class="major">Project Links</h2>
 					{% if page.site_url %}
 					<p>Visit the project's official site at <a href="{{ page.site_url }}">{{ page.site_name | default: page.site_url }}</a>.</p>
