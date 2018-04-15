@@ -5,7 +5,7 @@ var gulp        = require('gulp'),
 	concat      = require('gulp-concat'),
 	imagemin    = require('gulp-imagemin'),
 	cp          = require('child_process'),
-	minifyHTML  = require('gulp-minify-html'),
+	htmlmin     = require('gulp-htmlmin'),
 	cleanCSS    = require('gulp-clean-css'),
 	autoprefixer = require('gulp-autoprefixer'),
 	runSequence = require('run-sequence'),
@@ -22,8 +22,10 @@ var config = {
 
 gulp.task('optimise-html', function() {
 	return gulp.src('_site/**/*.html')
-		.pipe(minifyHTML({
-			quotes: true
+		.pipe(htmlmin({
+			collapseWhitespace: true,
+			removeComments: true,
+			removeRedundantAttributes: true
 		}))
 		.pipe(gulp.dest('_site/'));
 });
