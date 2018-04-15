@@ -24,6 +24,7 @@ gulp.task('optimise-html', function() {
 	return gulp.src('_site/**/*.html')
 		.pipe(htmlmin({
 			collapseWhitespace: true,
+			minifyJS: true,
 			removeComments: true,
 			removeRedundantAttributes: true
 		}))
