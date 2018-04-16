@@ -43,3 +43,5 @@ Let us take the example above, and we come in on `https://example-review-apps.ww
 [caddy-https]: https://caddyserver.com/docs/automatic-https
 [gitlab-ci-vars]: https://docs.gitlab.com/ce/ci/variables/README.html
 [nginx-regex]: https://nginx.org/en/docs/http/server_names.html#regex_names
+[Caddy labels]: https://github.com/mholt/caddy/pull/2072
+[Caddy 0.10.12]: https://github.com/mholt/caddy/milestone/16
