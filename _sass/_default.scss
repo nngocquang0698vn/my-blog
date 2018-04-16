@@ -74,13 +74,13 @@ strong {
 
 /* =Header */
 .wrapper {
-    margin: 100px auto;
+    margin: 50px auto;
 }
 
 .header {
     overflow: hidden;
-    max-width: 800px;
-    margin: 100px auto;
+    max-width: 1000px;
+    margin: 50px auto 0px auto;
 }
 
 .navigation {
@@ -130,8 +130,8 @@ strong {
 
 /* =Titles */
 .page-title {
-    margin-top:100px;
-    margin-bottom:125px;
+    margin-top: 40px;
+    margin-bottom: 25px;
     text-align: center;
     &:not(.post-title)::before {
         font-size: 40px;
@@ -150,7 +150,7 @@ strong {
 }
 
 .post-title {
-    margin-bottom: 110px;
+    margin-bottom: 25px;
 }
 
 .post-title__text {
@@ -241,7 +241,6 @@ strong {
 /* =Post page */
 .about {
     color: $cloudy;
-    margin-top: 70px;
     line-height: 24px;
     text-align: center;
 }
@@ -250,11 +249,13 @@ strong {
     font-size: 18px;
 }
 
-#disqus_thread {
-    margin-top: 100px;
-}
-
 @media (max-width: 800px) {
+	.wrapper {
+		margin: 25px auto;
+	}
+	.header {
+		margin: 25px auto 0px auto;
+	}
     /* =Base */
     p {
         font-size: 16px;
@@ -269,11 +270,6 @@ strong {
     .social-links {
         font-size: 30px;
         margin-top: 35px;
-    }
-
-    .page-title {
-        margin-top: 80px;
-        margin-bottom: 60px;
     }
 
     .page-title__text {
@@ -378,7 +374,8 @@ footer ul {
     font-size: 18px;
     letter-spacing: 8.18px;
     color: $cloudy;
-    margin-top: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 // Markdownify {{{
