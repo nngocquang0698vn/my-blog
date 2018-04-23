@@ -230,5 +230,6 @@ notify:
   stage: notify
   script:
     - rake notify[$URL_PRODUCTION]
+    - rake notify:pushbullet
   only:
     - master

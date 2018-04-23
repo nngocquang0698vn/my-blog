@@ -76,6 +76,22 @@ namespace :notify do
   task :bing, [:fqdn] do |_, args|
     notify_search_engine(args[:fqdn], 'https://bing.com/webmaster/ping.aspx?siteMap=')
   end
+
+  desc 'Notify Pushbullet of deployment'
+  task :pushbullet do
+    require 'pushbullet_ruby'
+    client = PushbulletRuby::Client.new(ENV['PUSHBULLET_ACCESS_TOKEN'])
+    out = client.push_link(
+      receiver: :device,
+      id: client.devices[0].id,
+      params: {
+        title: 'Deploy successful',
+        body: 'jvt.me has deployed successfully',
+        url: 'https://www.jvt.me'
+      }
+    )
+    puts "Notification sent: #{out.id}"
+  end
 end
 
 namespace :list do

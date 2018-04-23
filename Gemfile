@@ -9,6 +9,7 @@ group :build do
   gem 'jekyll-toc'
   gem 'jekyll_tagger'
   gem 'json'
+  gem 'pushbullet_ruby'
   gem 'rouge'
 end
 
