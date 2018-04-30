@@ -1,8 +1,8 @@
 ---
 title: 'Chef 13 Upgrade: `knife-cookbook-doc` Rubocop Updates'
 description: 'Disabling the `Missing space after #` and `Do not use block comments` errors for your `knife-cookbook-doc` formatted comments.'
-categories: findings chef-13-upgrade
-tags: findings chef-13-upgrade chef knife-cookbook-doc chef-13 documentation chef-13-upgrade-rubocop
+categories: blogumentation chef-13-upgrade
+tags: blogumentation chef-13-upgrade chef knife-cookbook-doc chef-13 documentation chef-13-upgrade-rubocop
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---

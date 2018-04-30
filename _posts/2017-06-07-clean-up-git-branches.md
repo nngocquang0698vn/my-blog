@@ -2,8 +2,8 @@
 layout: post
 title: Clean up your Git branches
 description: Remove any merged local or branches from your local Git repository
-categories: findings
-tags: findings git
+categories: blogumentation
+tags: blogumentation git
 ---
 ## Intro
 
@@ -38,7 +38,7 @@ revert-dda5c692
 
 This means that whenever I'm trying to use my tab completion, I have a load of options to scroll through, which is a less than ideal user experience as it increases the number of characters needed to type before a branch can be autocompleted. To this end, I've recently been looking at how to clean up the number of branches I have.
 
-Each time I've [DuckDuckGo'd][ddg] the commands, the last time of which made me think I should document it somewhere that I can easily browse to in future. And in the light of wanting to [document my findings for everyone to consume][blog-as-documentation], I've rolled it into a blog post.
+Each time I've [DuckDuckGo'd][ddg] the commands, the last time of which made me think I should document it somewhere that I can easily browse to in future. And in the light of wanting to [document my blogumentation for everyone to consume][blog-as-documentation], I've rolled it into a blog post.
 
 ## Removing Local Checked-Out Branches
 

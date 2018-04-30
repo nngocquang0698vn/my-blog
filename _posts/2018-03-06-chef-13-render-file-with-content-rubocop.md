@@ -1,8 +1,8 @@
 ---
 title: 'Chef 13 Upgrade: Rubocop Changes for Testing `render_file` with ChefSpec and a `with_content` Block'
 description: 'How to resolve the `Parenthesize the param render_file` Rubocop error when upgrading your cookbook to Chef 13.'
-categories: findings chef-13-upgrade
-tags: findings chef-13-upgrade chef-13-upgrade-chefspec chef chefspec
+categories: blogumentation chef-13-upgrade
+tags: blogumentation chef-13-upgrade chef-13-upgrade-chefspec chef chefspec
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---

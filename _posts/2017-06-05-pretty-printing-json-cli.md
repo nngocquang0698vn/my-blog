@@ -2,8 +2,8 @@
 layout: post
 title: Pretty Printing JSON on the Command Line with Python
 description: Using Python's JSON module to pretty print JSON objects from the command line.
-categories: findings
-tags: findings python json
+categories: blogumentation
+tags: blogumentation python json
 no_toc: true
 ---
 You may often find yourself on a command-line, for instance when SSH'd into a server, and need to read some JSON. This could be a JSON configuration file, or indeed it could be simply a response from an API endpoint.

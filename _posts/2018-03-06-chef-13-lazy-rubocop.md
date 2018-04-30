@@ -1,8 +1,8 @@
 ---
 title: 'Chef 13 Upgrade: Rubocop Changes for `lazy` Parameters'
 description: 'How to resolve the `Parenthesize the param lazy` Rubocop error when upgrading your cookbook to Chef 13.'
-categories: findings chef-13-upgrade
-tags: findings chef-13-upgrade chef-13-upgrade-rubocop chef rubocop chef-13 rubocop-0-49
+categories: blogumentation chef-13-upgrade
+tags: blogumentation chef-13-upgrade chef-13-upgrade-rubocop chef rubocop chef-13 rubocop-0-49
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---

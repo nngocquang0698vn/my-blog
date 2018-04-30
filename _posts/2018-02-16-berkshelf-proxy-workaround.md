@@ -2,8 +2,8 @@
 layout: post
 title: '`SSLError` When Running Berkshelf Behind a Proxy'
 description: 'Getting around the pesky `OpenSSL::SSL::SSLError SSLv2/v3 read server hello A` error when running Berkshelf behind a proxy'
-categories: findings
-tags: chef findings proxy cli shell chefdk berkshelf
+categories: blogumentation
+tags: chef blogumentation proxy cli shell chefdk berkshelf
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---
