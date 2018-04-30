@@ -2,8 +2,8 @@
 layout: post
 title: 'Running `service` resources in Kitchen-Docker'
 description: How to get up and running with `service` resources when running Test Kitchen with the Docker driver, in this example for use with GitLab CI.
-categories: findings chef kitchen docker
-tags: findings chef kitchen docker howto
+categories: blogumentation chef kitchen docker
+tags: blogumentation chef kitchen docker howto
 image: /assets/img/vendor/chef-logo.png
 ---
 

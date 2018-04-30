@@ -2,7 +2,7 @@
 layout: post
 title:  Extracting SSL/TLS Certificate Chains Using OpenSSL
 description: A quick one-liner to get you the full certificate chain in `.pem` format.
-categories: findings
+categories: blogumentation
 tags: bash shell oneliner openssl certificates
 no_toc: true
 ---

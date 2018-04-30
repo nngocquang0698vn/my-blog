@@ -1,8 +1,8 @@
 ---
 title: 'Chef 13 Upgrade: Deprecation of Namespace Collisions in Custom Resources'
 description: 'Preparing for breaking changes in Chef 14 by renaming `property_name` to `new_resource.property_name` in Custom Resources.'
-categories: findings chef-13-upgrade
-tags: findings chef-13-upgrade chef-13-upgrade-deprecation chef chef-13 chef-14
+categories: blogumentation chef-13-upgrade
+tags: blogumentation chef-13-upgrade chef-13-upgrade-deprecation chef chef-13 chef-14
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---

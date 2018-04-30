@@ -1,8 +1,8 @@
 ---
 title: Executing an Interactive Python Shell (REPL) for a Script
 description: 'Using `python -i` to get an interactive REPL after running a Python source file.'
-categories: findings
-tags: cli python findings tools howto
+categories: blogumentation
+tags: cli python blogumentation tools howto
 image: /assets/img/vendor/python-logo-notext.png
 no_toc: true
 ---

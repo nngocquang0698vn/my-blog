@@ -5,7 +5,7 @@ description: Why I'm starting to use blog posts as a form of documentation, and 
 categories: musings thoughts
 tags: musings blogumentation thoughts
 ---
-You may have noticed that recently I've been writing more articles, often tagged under [`findings`][findings]. These short articles are concerned with documenting a piece of information about certain workflow-enhancing tips, and I find they fit under a term I have coined `blogumentation`, that is, blog posts as a form of documentation.
+You may have noticed that recently I've been writing more articles, often tagged under [`blogumentation`][blogumentation]. These short articles are concerned with documenting a piece of information about certain workflow-enhancing tips, and I find they fit under a term I have coined `blogumentation`, that is, blog posts as a form of documentation.
 
 I believe that blog posts can be better suited for documentation than a wiki for cases where it helps to have more of a narrative as to _why_ you'd want to do something, rather than just the "this is how you do it". Of course you have to be careful not to make it a large wall of text, ensuring that it is also possible to skim-read and extract out the required tidbits to complete the task.
 
@@ -48,7 +48,7 @@ If you wish to hear me write about something, please [raise an issue on my issue
 [issue-board-article]: https://gitlab.com/jamietanna/jvt.me/boards/320660
 [keysleft]: http://keysleft.com
 [extracting-certs]: {% post_url 2017-04-28-extract-tls-certificate %}
-[findings]: /categories/findings/
+[blogumentation]: /categories/blogumentation/
 [docker-systemd-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/151
 [technotts-twitter]: https://twitter.com/TechNottingham
 [technotts-blog-channel]: https://technottingham.slack.com/messages/C4WR48CTB/

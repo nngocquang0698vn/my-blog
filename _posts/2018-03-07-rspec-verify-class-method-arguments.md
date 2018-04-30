@@ -1,8 +1,8 @@
 ---
 title: Verify a Ruby Class Method is Called with Arguments in Rspec, Without Doubles or Mocks
 description: Rspec code to verify that a Ruby Class Method is called from another method, without needing to mock anything.
-categories: findings ruby
-tags: findings ruby testing rspec
+categories: blogumentation ruby
+tags: blogumentation ruby testing rspec
 no_toc: true
 ---
 While working on [Testing Chef's `ruby_block`s with ChefSpec][testing-ruby_block-chefspec], I found that I was struggling to find any resources explaining my seemingly niche request:

@@ -2,8 +2,8 @@
 layout: post
 title: 'Getting around `Permission Denied` when running ChefSpec'
 description: How to handle getting an `EACCES` when trying to run ChefSpec on a recipe.
-categories: findings
-tags: findings chef chefspec chefdk
+categories: blogumentation
+tags: blogumentation chef chefspec chefdk
 no_toc: true
 image: /assets/img/vendor/chef-logo.png
 ---

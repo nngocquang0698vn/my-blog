@@ -2,8 +2,8 @@
 layout: post
 title: Converting YAML to JSON and vice versa (Part 1 - Ruby)
 description: Coerce YAML to JSON and vice versa, from the comfort of your Gem-studded command line.
-categories: findings
-tags: findings ruby cli
+categories: blogumentation
+tags: blogumentation ruby cli
 ---
 I've recently been finding myself trying to coerce YAML to JSON and vice versa quite a bit, partly to convert attributes from a [Test Kitchen][test-kitchen] YAML file to a nice JSON object that can be consumed by [Vagrant][vagrant]'s [Chef provisioner][vagrant-chef].
 
