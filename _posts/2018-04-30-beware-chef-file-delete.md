@@ -4,6 +4,7 @@ description: "Why you should explicitly add `backup false` when `delete`ing a `f
 categories: blogumentation
 tags: blogumentation chef
 no_toc: true
+image: /assets/img/vendor/chef-logo.png
 ---
 **Note** - this is slightly clickbait, as this behaviour is somewhat documented in the [Chef docs for the `file` resource][file-resource], although it is not made obvious, and can be a little gotcha.
 
