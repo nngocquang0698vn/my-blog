@@ -4,6 +4,7 @@ title: Viewing your diff while writing your commits with git commit --verbose
 description: Making it easier to write commit messages by having the diff in your editor.
 categories: blogumentation
 tags: git commit shell workflow
+image: /assets/img/vendor/git.png
 ---
 I am a firm believer of the fact that Git history should be documentation for the reasoning behind _why_ the code is as it is. As such, I take care to make my commits follow [Chris Beams' commit guidelines][git-commit], which usually involves writing the commit while reading the diff of what's changed, so I don't forget anything.
 

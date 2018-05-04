@@ -4,6 +4,7 @@ title: Saving Repetition with Git Commit Templates
 description: Speed up your commit message writing by providing a template for when you run `git commit`.
 categories: blogumentation
 tags: tools git workflow automation
+image: /assets/img/vendor/git.png
 ---
 ## Creating Your Commit Template
 
