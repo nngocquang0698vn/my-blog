@@ -19,7 +19,7 @@ MSG
         site = context.registers[:site]
 
         site.posts.docs.each do |p|
-          return p.title if @post == p
+          return p.data['title'] if @post == p
         end
 
         # New matching method did not match, fall back to old method
