@@ -3,6 +3,7 @@ title: Better Git Diff Outputs with Git Submodules
 description: How to get nicer `diff`s when working with submodules.
 categories: blogumentation
 tags: blogumentation git cli
+image: /assets/img/vendor/git.png
 ---
 I've recently been playing around with [Git Submodules] a little bit more, and have been frustrated by the output of `git diff`s:
 
