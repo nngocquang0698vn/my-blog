@@ -3,10 +3,24 @@
 <script type="text/javascript" charset="utf-8">
 
   var searchInput = document.getElementById('search-input');
-  var container = document.getElementById('content-list');
-  var noMatchesElement = document.getElementById('no-search-matches');
+  if(searchInput) {
+    var container = document.getElementById('content-list');
+    var noMatchesElement = document.getElementById('no-search-matches');
 
-  searchInput.oninput = function() {
-    onSearchInput(all_json, searchInput, container, noMatchesElement);
-  };
+    searchInput.oninput = function() {
+      onSearchInput(all_json, searchInput, container, noMatchesElement);
+    };
+  }
+
+  var el = document.getElementById('toggle-toc');
+  if (el) {
+    console.log(el);
+    el.addEventListener('click', function(e) {
+      console.log(e);
+      var toc_div = document.getElementsByClassName('section-nav');
+      for (var i = 0, len = toc_div.length; i < len; i++) {
+        toc_div[i].style.display = ('none' === toc_div[i].style.display) ? 'block' : 'none';
+      }
+    });
+  }
 </script>
