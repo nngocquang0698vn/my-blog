@@ -7,7 +7,8 @@ layout: default
 <div class="content">
     {% unless page.no_toc %}
     <div class="toc">
-        <h2>Table of Contents </h2>
+		<a name="toc"></a>
+        <h2>Table of Contents <a id="toggle-toc" href="#toc">Toggle</a></h2>
         {{ content | toc_only }}
     </div>
     <div class="divider"></div>
