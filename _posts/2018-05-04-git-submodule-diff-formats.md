@@ -119,7 +119,7 @@ You can set this as your default by running:
 
 ```bash
 # either
-$ git config --global diff.submodule diff
+$ git config --global diff.submodule log
 # or
 $ git config --global -e
 ```
