@@ -81,7 +81,7 @@ cmt
 
 Once hitting `<TAB>` in the file, I can then move around the file quickly, adding a message as follows:
 
-[![asciicast](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0.png)](https://asciinema.org/a/4pi14qw9mwhcls4u2gk6jc3f0)
+<asciinema-player src="/assets/casts/commit-message-templates.json"></asciinema-player>
 
 [beams-commit]: https://chris.beams.io/posts/git-commit/
 [tpope-commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html

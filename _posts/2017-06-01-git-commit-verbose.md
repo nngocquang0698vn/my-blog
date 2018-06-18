@@ -90,7 +90,7 @@ This means that I don't need any plugins, and can remain in my `$EDITOR`, as wel
 
 To see this article in action, check out the asciicast:
 
-[![asciicast](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb.png)](https://asciinema.org/a/f0wcjzdp608d1k25ps2nqd4mb)
+<asciinema-player src="/assets/casts/git-commit-verbose.json"></asciinema-player>
 
 [vim-fugitive]: https://github.com/tpope/vim-fugitive
 [git-commit]: https://chris.beams.io/posts/git-commit/
