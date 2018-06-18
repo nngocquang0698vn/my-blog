@@ -40,4 +40,4 @@ $ python -m json.tool < file.json
 
 To see this article in action, check out the asciicast:
 
-[![asciicast](https://asciinema.org/a/akbug6abp2mi6mpxypuc9ilzn.png)](https://asciinema.org/a/akbug6abp2mi6mpxypuc9ilzn)
+<asciinema-player src="/assets/casts/pretty-printing-json-cli.json"></asciinema-player>
