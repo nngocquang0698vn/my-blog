@@ -6,6 +6,8 @@ tags: netlify gitlab-ci automation continuous-deployment ci deploy howto
 no_toc: true
 image: /assets/img/vendor/netlify-full-logo-white.png
 ---
+**Update** The code snippet below has been updated to point to `netlifyctl` rather than the `netlify` Node CLI, as `netlifyctl` is now the recommended CLI interface.
+
 Since I migrated my [meetups + conference talks repo][gl-talks] to Reveal.JS, I've found that I've been wanting to have a branch spun up with the talk's content at a publically accessible URL, exactly how [I have configured Review Apps][review-apps] for my personal site.
 
 However, as I was using GitLab pages, I wasn't able to get this functionality working (and it [likely will not be configured upstream][gl-pages-review]). Recently I've been hearing a lot about [Netlify], which made this a perfect opportunity to see what everyone was raving about.
@@ -32,8 +34,10 @@ I simply had to change my `.gitlab-ci.yml` to add the following:
      - "touch public/index.html"
      - "./.ci/deploy-reveal-site.sh chef-infrastructure-as-cake 'Chef: Infrastructure as Cake'"
      - "./.ci/deploy-reveal-site.sh came-for-the-campus-stayed-for-the-community 'Came for the Campus, Stayed for the Community'"
-+    - npm i -g netlify-cli
-+    - netlify deploy -s b758cf8f-9eeb-4770-ba63-ce7defafe8f6 -p public -t $NETLIFY_ACCESS_TOKEN -e production
++    - apk add --update curl
++    - curl https://github.com/netlify/netlifyctl/releases/download/v0.4.0/netlifyctl-linux-amd64-0.4.0.tar.gz -LO
++    - tar xvf netlifyctl-linux-amd64-0.4.0.tar.gz
++    - ./netlifyctl deploy -s b758cf8f-9eeb-4770-ba63-ce7defafe8f6 -P public -A $NETLIFY_ACCESS_TOKEN
    artifacts:
      paths:
        - public
@@ -54,6 +58,6 @@ Then, [we can see a deploy succeeds][deploy], and you can now access the site at
 [appl]: https://app.netlify.com/account/applications
 [le]: https://letsencrypt.org/
 [gl-talks]: https://gitlab.com/jamietanna/talks
-[deploy]: https://gitlab.com/jamietanna/talks/-/jobs/62424872
+[deploy]: https://gitlab.com/jamietanna/talks/-/jobs/79611358
 [netlify-review-apps]: https://gitlab.com/jamietanna/jvt.me/issues/247
 [gl-pages-review]: https://gitlab.com/gitlab-org/gitlab-ce/issues/26621
