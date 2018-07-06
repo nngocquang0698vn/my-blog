@@ -12,7 +12,7 @@ RUN apk update && \
 	apk add tzdata && \
 	# }}}
 	# NodeJS {{{
-	apk add nodejs \
+	apk add nodejs npm \
 		# gifsicle jpegtran-bin
 		autoconf automake file nasm && \
 	# }}}
