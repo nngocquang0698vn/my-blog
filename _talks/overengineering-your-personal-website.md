@@ -3,6 +3,12 @@ title: Overengineering Your Personal Website - How I Learn Things Best
 layout: talk
 type:
 - lightning
+events:
+- name: DevOpsDays London
+  date: 2018-09-20
+  url:
+  type: lightning
+  video:
 description:
   I often want to test new things, but don't have many full on projects. If I want to test a full deployment pipeline, from local development to production, I need something to deploy. So I've made my personal website _super complicated_.
 ---
