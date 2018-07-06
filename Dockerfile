@@ -17,7 +17,7 @@ RUN apk update && \
 		autoconf automake file nasm && \
 	# }}}
 	# Ruby {{{
-	apk add ruby-dev ruby-bundler && \
+	apk add ruby-dev ruby-bundler ruby-bigdecimal && \
 	apk add git \
 		build-base \
 		# for the FFI gem: https://github.com/ffi/ffi/issues/485#issuecomment-191159190
