@@ -19,7 +19,7 @@ I'm also looking to share some of the practices I've pushed a lot in Software En
 
 ## Creating Chef Training Courses with Packt Publishing
 
-About six weeks ago, I received an email from one of the folks over at [Packt Publishing], reaching out to me about interest in me creating a couple of courses with them. This is a really exciting chance for me to share my Chef knowledge with others in an easily digestible way.
+About six weeks ago, I received an email from one of the folks over at [Packt Publishing][packt], reaching out to me about interest in me creating a couple of courses with them. This is a really exciting chance for me to share my Chef knowledge with others in an easily digestible way.
 
 I've now signed contracts for both courses and am happy to share that I'll be creating:
 
