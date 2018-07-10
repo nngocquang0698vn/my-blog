@@ -52,11 +52,11 @@ taxonomy:
   tags:
     title: Tags
     child_title_prefix: 'Tags: '
-    path: tags
+    path: posts/tags
   categories:
     title: Categories
     child_title_prefix: 'Category: '
-    path: categories
+    path: posts/categories
   tech:
     title: Tech
     child_title_prefix: 'Tech: '

@@ -366,7 +366,7 @@ At this point, we've now got a Gem ready to release to RubyGems which pins exact
 There will be a follow-up post to describe how I build out my GitLab CI configuration for cookbooks.
 
 [name-your-gem]: http://guides.rubygems.org/name-your-gem
-[tags-knife-cookbook-doc]: /tags/knife-cookbook-doc/
+[tags-knife-cookbook-doc]: /posts/tags/knife-cookbook-doc/
 [rubocop]: https://github.com/bbatsov/rubocop
 [foodcritic]: http://foodcritic.io
 [chefspec]: https://github.com/chefspec/chefspec

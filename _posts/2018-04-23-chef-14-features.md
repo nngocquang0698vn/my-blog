@@ -138,7 +138,7 @@ The full release notes are documented on the [Chef Docs website][14-release-note
 
 Additionally, Chef has released a [webinar on their YouTube channel][14-youtube] to help explain about the upgrade.
 
-[Chef 13 upgrades]: /tags/chef-13-upgrade/
+[Chef 13 upgrades]: /posts/tags/chef-13-upgrade/
 [Thom May]: https://twitter.com/thommay
 [Chef Users UK]: https://www.meetup.com/Chef-Users-London/events/249461424/
 [14-release-notes]: https://docs.chef.io/release_notes.html#what-s-new-in-14-0
