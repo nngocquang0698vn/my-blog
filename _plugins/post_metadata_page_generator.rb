@@ -1,226 +1,163 @@
 module Jekyll
+  class CategoryParentPage < Page
+    def initialize(site, base)
+      config = site.config['taxonomy']['categories']
 
-  class MetadataParentPage < Page
-    def initialize(site, base, metadataDirKey, metadataDir, metadataKey, metadataList, metadataHtml, metadataTitleKey, metadataTitle)
       @site = site
       @base = base
-      @dir = metadataDir
       @name = 'index.html'
+      @dir = config['path']
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), metadataHtml)
-      self.data['metadataKey'] = metadataKey
-      self.data['metadataList'] = metadataList
-
-      metadata_title = site.config[metadataTitleKey] || metadataTitle
-      self.data['title'] = "#{metadata_title}"
-      metadata_dir = site.config[metadataDirKey] || metadataDir
-      self.data['metadataDir'] = metadata_dir
-
+      self.read_yaml(File.join(base, '_layouts'), 'metadata_page_parent.html')
       self.data['base'] = base
+
+      self.data['metadataList'] = site.categories
+
+      self.data['title'] = config['title']
     end
   end
 
-  class MetadataChildPage < Page
-    def initialize(site, base, metadataDirKey, metadataDir, metadataKey, metadataList, metadataHtml, metadataPrefixKey, metadataPrefix)
+  class CategoryChildPage < Page
+    def initialize(site, base, category_name, category_documents)
+      config = site.config['taxonomy']['categories']
+
       @site = site
       @base = base
-      @dir = metadataDir
       @name = 'index.html'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), metadataHtml)
-      self.data['metadataKey'] = metadataKey
-      self.data['metadataList'] = metadataList
+      self.read_yaml(File.join(base, '_layouts'), 'metadata_page_child.html')
+      self.data['base'] = base
 
-      metadata_title_prefix = site.config[metadataPrefixKey] || metadataPrefix
-      self.data['title'] = "#{metadata_title_prefix}#{metadataKey}"
-      metadata_dir = site.config[metadataDirKey] || metadataDir
-      self.data['metadataDir'] = metadata_dir
+      self.data['metadataKey'] = category_name
+      self.data['metadataList'] = category_documents
+
+      self.data['title'] = "#{config['child_title_prefix']}#{category_name}"
+
+      @dir = "#{config['path']}/#{category_name}"
     end
   end
 
-  class MetadataParentPageGenerator < Generator
+  class TagParentPage < Page
+    def initialize(site, base)
+      config = site.config['taxonomy']['tags']
+
+      @site = site
+      @base = base
+      @name = 'index.html'
+      @dir = config['path']
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'metadata_page_parent.html')
+      self.data['base'] = base
+
+      self.data['metadataList'] = site.tags
+
+      self.data['title'] = config['title']
+    end
+  end
+
+  class TagChildPage < Page
+    def initialize(site, base, tag_name, tag_documents)
+      config = site.config['taxonomy']['tags']
+
+      @site = site
+      @base = base
+      @name = 'index.html'
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'metadata_page_child.html')
+      self.data['base'] = base
+
+      self.data['metadataKey'] = tag_name
+      self.data['metadataList'] = tag_documents
+
+      self.data['title'] = "#{config['child_title_prefix']}#{tag_name}"
+
+      @dir = "#{config['path']}/#{tag_name}"
+    end
+  end
+
+  class TaxonomyPageGenerator < Generator
     safe true
-
-    def initialize(*args)
-      set_metadataLayout('metadata_page_parent')
-      @metadataDirKey = 'metadata_dir'
-      @metadataDir = 'metadata'
-      @metadataKey = nil
-      @metadataTitle = 'Metadata'
-      @metadataTitleKey = 'metadata_title'
-    end
-
-    def set_metadataLayout(key)
-      @metadataLayoutKey = key
-      @metadataLayoutHtml = "#{key}.html"
-    end
-
     def generate(site)
-      unless @metadataKey.nil?
-        metadata = site.post_attr_hash("#{@metadataKey}")
-        site.pages << MetadataParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, metadata, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
+      site.pages << CategoryParentPage.new(site, site.source)
+      site.post_attr_hash('categories').each do |category_name, category_documents|
+        site.pages << CategoryChildPage.new(site, site.source, category_name, category_documents)
+      end
+
+      site.pages << TagParentPage.new(site, site.source)
+      site.post_attr_hash('tags').each do |tag_name, tag_documents|
+        site.pages << TagChildPage.new(site, site.source, tag_name, tag_documents)
       end
     end
   end
 
-  class CategoryParentPageGenerator < MetadataParentPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'categories_dir'
-      @metadataDir = 'categories'
-      @metadataKey = 'categories'
-      @metadataTitle = 'Categories'
-      @metadataTitleKey = 'categories_title_title'
-    end
-  end
+  class TechParentPage < Page
+    def initialize(site, base, categorised_projects, uncategorised_projects)
+      config = site.config['taxonomy']['tech']
 
-  class TagParentPageGenerator < MetadataParentPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'tags_dir'
-      @metadataDir = 'tags'
-      @metadataKey = 'tags'
-      @metadataTitle = 'Tags'
-      @metadataTitleKey = 'tags_title_title'
-    end
-  end
+      @site = site
+      @base = base
+      @name = 'index.html'
+      @dir = config['path']
 
-  class MetadataChildPageGenerator < Generator
-    safe true
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'tech_page_parent.html')
+      self.data['base'] = base
 
-    def initialize(*args)
-      set_metadataLayout('metadata_page_child')
-      @metadataDirKey = 'metadata_dir'
-      @metadataDir = 'metadata'
-      @metadataKey = nil
-      @metadataPrefix = 'Metadata: '
-      @metadataPrefixKey = 'metadata_title_prefix'
-    end
-
-    def set_metadataLayout(key)
-      @metadataLayoutKey = key
-      @metadataLayoutHtml = "#{key}.html"
-    end
-
-    def generate(site)
-      unless @metadataKey.nil?
-        metadata = site.post_attr_hash("#{@metadataKey}")
-        metadata.each_key do |item|
-          site.pages << MetadataChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, item), item, metadata, @metadataLayoutHtml, @metadataPrefixKey, @metadataPrefix)
-        end
-      end
-    end
-  end
-
-  class CategoryPageGenerator < MetadataChildPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'categories_dir'
-      @metadataDir = 'categories'
-      @metadataKey = 'categories'
-      @metadataPrefix = 'Category: '
-      @metadataPrefixKey = 'categories_title_prefix'
-    end
-  end
-
-  class TagPageGenerator < MetadataChildPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'tags_dir'
-      @metadataDir = 'tags'
-      @metadataKey = 'tags'
-      @metadataPrefix = 'Tag: '
-      @metadataPrefixKey = 'tags_title_prefix'
-    end
-  end
-
-  class TechStackParentPageGenerator < MetadataParentPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'tech_dir'
-      @metadataDir = 'projects/tech'
-      @metadataKey = 'tech_stack'
-      @metadataTitle = 'tech'
-      @metadataTitleKey = 'tech_title_title'
-      @metadataLayoutHtml = 'tech_page_parent.html'
-    end
-
-    def generate(site)
-      projects = site.collections['projects']
-
-      sorted_projects = {}
-      uncategorised_projects = []
-      for project in projects.docs
-        unless project.data['tech_stack']
-          uncategorised_projects.push(project)
-          next
-        end
-
-        for tech in project.data['tech_stack']
-          unless sorted_projects[tech]
-            sorted_projects[tech] = []
-          end
-          sorted_projects[tech].push(project)
-        end
-      end
-
-      unless @metadataKey.nil?
-        site.pages << TechStackParentPage.new(site, site.source, @metadataDirKey, @metadataDir, @metadataKey, sorted_projects, uncategorised_projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
-      end
-    end
-  end
-
-  class TechStackChildPageGenerator < MetadataParentPageGenerator
-    safe true
-    def initialize(*args)
-      super(args)
-      @metadataDirKey = 'tech_dir'
-      @metadataDir = 'projects/tech'
-      @metadataKey = 'tech_stack'
-      @metadataTitle = 'Tech: '
-      @metadataLayoutHtml = 'tech_page_child.html'
-    end
-
-    def generate(site)
-      projects = site.collections['projects']
-
-      sorted_projects = {}
-      uncategorised_projects = []
-      for project in projects.docs
-        unless project.data['tech_stack']
-          uncategorised_projects.push(project)
-          next
-        end
-
-        for tech in project.data['tech_stack']
-          unless sorted_projects[tech]
-            sorted_projects[tech] = []
-          end
-          sorted_projects[tech].push(project)
-        end
-      end
-
-      unless @metadataKey.nil?
-        projects = sorted_projects
-        projects.each do |tech, projects|
-          site.pages << MetadataChildPage.new(site, site.source, @metadataDirKey, File.join(@metadataDir, tech), tech, projects, @metadataLayoutHtml, @metadataTitleKey, @metadataTitle)
-        end
-      end
-    end
-  end
-
-  class TechStackParentPage < MetadataParentPage
-    def initialize(site, base, techDirKey, techDir, techKey, projects, uncategorised_projects, techHtml, techTitleKey, techTitle)
-      super(site, base, techDirKey, techDir, techKey, projects, techHtml, techTitleKey, techTitle)
+      self.data['categorised_projects'] = categorised_projects
       self.data['uncategorised_projects'] = uncategorised_projects
+
+      self.data['title'] = config['title']
     end
   end
 
+  class TechChildPage < Page
+    def initialize(site, base, tech_name, projects)
+      config = site.config['taxonomy']['tech']
+
+      @site = site
+      @base = base
+      @name = 'index.html'
+      @dir = config['path']
+
+      self.process(@name)
+      self.read_yaml(File.join(base, '_layouts'), 'tech_page_child.html')
+      self.data['base'] = base
+
+      self.data['projects'] = projects
+
+      self.data['title'] = "#{config['child_title_prefix']}#{tech_name}"
+
+      @dir = "#{config['path']}/#{tech_name}"
+    end
+  end
+
+  class TechPageGenerator < Generator
+    safe true
+    def generate(site)
+      uncategorised_projects = []
+      projects_by_tech = {}
+      for project in site.collections['projects'].docs
+        for tech in project.data['tech_stack']
+          unless project.data['tech_stack']
+            uncategorised_projects.push(project)
+            next
+          end
+
+          unless projects_by_tech[tech]
+            projects_by_tech[tech] = []
+          end
+          projects_by_tech[tech].push(project)
+        end
+      end
+
+      site.pages << TechParentPage.new(site, site.source, projects_by_tech, uncategorised_projects)
+      projects_by_tech.each do |tech_name, projects|
+        site.pages << TechChildPage.new(site, site.source, tech_name, projects)
+      end
+    end
+  end
 end

@@ -1,12 +1,9 @@
 ---
 layout: page
 ---
-{% for item in page.metadataList %}
-{% capture childLink %}
-/{{ page.techDir }}/{{ item[0] }}/
-{% endcapture %}
+{% for item in page.categorised_projects %}
   <h2 id="{{ item.slug }}">
-    <a href="{{ childLink }}">{{ item[0] }}</a>
+    <a href="{{ page.techDir }}{{ item[0] }}/">{{ item[0] }}</a>
   </h2>
   <p id="no-search-matches" class="hidden">No matches found.</p>
   <ul id="content-list">
