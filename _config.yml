@@ -48,8 +48,19 @@ collections:
   talks:
     output: true
 
-category_title_prefix: 'Category: '
-tag_title_prefix: 'Tag: '
+taxonomy:
+  tags:
+    title: Tags
+    child_title_prefix: 'Tags: '
+    path: tags
+  categories:
+    title: Categories
+    child_title_prefix: 'Category: '
+    path: categories
+  tech:
+    title: Tech
+    child_title_prefix: 'Tech: '
+    path: projects/tech
 
 exclude:
 - Gemfile
