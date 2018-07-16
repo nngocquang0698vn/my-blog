@@ -322,6 +322,12 @@ pre.highlight {
 	margin: 0;
 }
 
+h1.page-title, h1.post-title {
+	max-width: 75rem;
+	padding: 0 1.25rem;
+	margin: 0.9rem auto 0.9rem;
+}
+
 .content,footer,div.about {
 	p, h1, h2, h3, h4, ul, ol, .tags, iframe, blockquote, div.post-meta {
 		max-width: 75rem;
