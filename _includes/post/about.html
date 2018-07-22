@@ -1,9 +1,13 @@
+{% assign publishDate = page.date | date: "%d %B %Y" %}
+{% assign gitUpdateDate = page.git.last_commit.author_date | date: "%d %B %Y" %}
+{% capture updatedDates %}on <strong>{{ page.date | date: "%d %B %Y" }}</strong>{% if publishDate != gitUpdateDate %}, and last updated on <strong><a href="https://gitlab.com/jamietanna/jvt.me/commit/{{ page.git.last_commit.long_sha }}" >{{ page.git.last_commit.author_date | date: "%d %B %Y" }}</a></strong>{% endif %}{% endcapture %}
+
 <div class="about">
     <div class="divider">*****</div>
     <div class="about__text">
 		<p>
 			<a name="about"></a>
-			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong> on <strong>{{ page.date | date: "%d %B %Y" }}</strong>, and last updated on <strong><a href="https://gitlab.com/jamietanna/jvt.me/commit/{{ page.git.last_commit.long_sha }}" >{{ page.git.last_commit.author_date | date: "%d %B %Y" }}</a></strong>.
+			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>{{ updatedDates }}.
 		</p>
 
 		<h3>Tags</h3>
