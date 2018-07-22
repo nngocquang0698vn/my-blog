@@ -12,13 +12,17 @@
     };
   }
 
+  function toggle_toc() {
+    var toc_div = document.getElementsByClassName('section-nav');
+    for (var i = 0, len = toc_div.length; i < len; i++) {
+      toc_div[i].style.display = ('none' === toc_div[i].style.display) ? 'block' : 'none';
+    }
+  }
+
   var el = document.getElementById('toggle-toc');
   if (el) {
     el.addEventListener('click', function(e) {
-      var toc_div = document.getElementsByClassName('section-nav');
-      for (var i = 0, len = toc_div.length; i < len; i++) {
-        toc_div[i].style.display = ('none' === toc_div[i].style.display) ? 'block' : 'none';
-      }
+      toggle_toc();
     });
   }
 </script>
