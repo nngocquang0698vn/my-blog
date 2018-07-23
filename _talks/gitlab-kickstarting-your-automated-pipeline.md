@@ -31,6 +31,6 @@ Next, we'll look at how to get the application deployed easily using Environment
 
 However, what if we want to see what a new UI change on a Merge Request looks like? Well, here come Review Apps, to let us try out the new changes without even needing to set it up locally.
 
-[gitlab-ci]: https://about.gitlab.com/gitlab-ci/
+[gitlab-ci]: https://about.gitlab.com/features/gitlab-ci-cd/
 [review-apps]: https://about.gitlab.com/features/review-apps/
 [environments]: https://docs.gitlab.com/ce/ci/environments.html
