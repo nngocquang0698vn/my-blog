@@ -132,7 +132,7 @@ Now, when we perform a push to our `master` or `develop` branches, we'll be able
 
 
 [travis-ci]: http://travis-ci.org/
-[gitlab-ci]: https://about.gitlab.com/gitlab-ci/
+[gitlab-ci]: https://about.gitlab.com/features/gitlab-ci-cd/
 [capistrano-rb]: http://www.capistranorb.com/
 [ssh-keys-in-gitlab-ci]: https://docs.gitlab.com/ce/ci/ssh_keys/README.html
 [ssh-keys-in-gitlab-ci-workaround]: https://gitlab.com/jamietanna/gitlab-ce/commits/patch-6
