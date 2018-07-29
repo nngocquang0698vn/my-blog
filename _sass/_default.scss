@@ -405,10 +405,13 @@ footer ul {
 .content, .about {
 	ul {
 		list-style: none;
+		li {
+			font-size: 20px;
+		}
 		li::before {
 			content: "-";
 			color: $iron;
-			font-size: 1.0rem;
+			font-size: 20px;
 			margin-right: 10px;
 		}
 	}
