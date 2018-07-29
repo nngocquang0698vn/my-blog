@@ -18,6 +18,8 @@
         <br />
        <span class="post-categories-tags"><a href="#about">Filed under {{ page.categories.size | count }} {{ categoryOutput }} and {{ page.tags.size }} {{ tagOutput }}</a></span>
         <br />
+        {% include post/license-header.html %}
+        <br />
         {% include post/read-time.html %}
 	</div>
 </h1>

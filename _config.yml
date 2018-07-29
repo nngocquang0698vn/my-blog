@@ -41,6 +41,9 @@ defaults:
       layout: "post"
       toc: true
       is_post: true
+      licenses:
+        code: Apache-20
+        prose: CC-BY-NC-SA-40
 
 collections:
   projects:
