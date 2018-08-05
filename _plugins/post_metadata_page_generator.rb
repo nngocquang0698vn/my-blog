@@ -15,6 +15,7 @@ module Jekyll
       self.data['metadataList'] = site.categories
 
       self.data['title'] = config['title']
+      self.data['description'] = config['description']
     end
   end
 
@@ -34,6 +35,7 @@ module Jekyll
       self.data['metadataList'] = category_documents
 
       self.data['title'] = "#{config['child_title_prefix']}#{category_name}"
+      self.data['description'] = "#{config['child_description_prefix']} `#{category_name}`"
 
       @dir = "#{config['path']}/#{category_name}"
     end
@@ -55,6 +57,7 @@ module Jekyll
       self.data['metadataList'] = site.tags
 
       self.data['title'] = config['title']
+      self.data['description'] = config['description']
     end
   end
 
@@ -74,6 +77,7 @@ module Jekyll
       self.data['metadataList'] = tag_documents
 
       self.data['title'] = "#{config['child_title_prefix']}#{tag_name}"
+      self.data['description'] = "#{config['child_description_prefix']} `#{tag_name}`"
 
       @dir = "#{config['path']}/#{tag_name}"
     end
