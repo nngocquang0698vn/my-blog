@@ -262,6 +262,18 @@ strong {
         line-height: 1.6;
     }
 
+    .content, .about {
+        ul {
+            li {
+                font-size: 16px;
+            }
+
+            li::before {
+                font-size: 16px;
+            }
+        }
+    }
+
     .navigation,
     .social-links {
         @include centered-block();
@@ -405,14 +417,23 @@ footer ul {
 .content, .about {
 	ul {
 		list-style: none;
-		li {
-			font-size: 20px;
-		}
 		li::before {
 			content: "-";
 			color: $iron;
-			font-size: 20px;
 			margin-right: 10px;
+		}
+	}
+}
+
+@media (min-width: 800px) {
+	.content, .about {
+		ul {
+			li {
+				font-size: 20px;
+			}
+			li::before {
+				font-size: 20px;
+			}
 		}
 	}
 }
