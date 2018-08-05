@@ -7,13 +7,13 @@ tags: hacktoberfest opensource freesoftware community
 ---
 ## On Hacktoberfest
 
-[The month of Hacktoberfest has returned to us again][hacktoberfest-announce], thanks to the teams over at [DigitalOcean][digitalocean] and [Github][github].
+[The month of Hacktoberfest has returned to us again][hacktoberfest-announce], thanks to the teams over at [DigitalOcean][digitalocean] and [GitHub][github].
 
 For those of you who haven't experienced a Hacktoberfest before, it's a month long event aiming to expose more people to contributing to Open Source (software in which "source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose" [Wikipedia: Free Software][wiki-free-software]) / Free Software ("users are freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software" [Wikipedia: Free Software][wiki-free-software]) projects, henceforth referred to **F**ree and **O**pen **S**ource **S**oftware) for the rest of this article; the reward being kick-ass T-shirts (my favourite tech T-shirts without a doubt) and a bunch of cool stickers!
 
 The task at hand is relatively simple; contribute four Pull Requests (the act of sending of your own personal changes) to any number of projects. This means that you need to find four different contributions that you can add to the project. This can be anywhere from documentation to a whole new set of functionality.
 
-To register yourself to participate in Hacktoberfest, check out the [official site][hacktoberfest], and register with your Github account. This will pull your name and email address, and will allow the team behind Hacktoberfest to monitor your progress more easily.
+To register yourself to participate in Hacktoberfest, check out the [official site][hacktoberfest], and register with your GitHub account. This will pull your name and email address, and will allow the team behind Hacktoberfest to monitor your progress more easily.
 
 ## Getting Involved
 
@@ -121,7 +121,7 @@ Ensure that before you push the commit that you:
 - check the project's `LICENSE`, and determine what the project legally allows you to do with it. More details can be found at [ChooseALicense][choosealicense] and [TLDR;Legal][tldrlegal].
 - use a coding style that follows that of the project, be it explicitly or implicitly defined
 
-So once you've actually made your changes, you need to be able to send it back to the original project. This requires you to create a Pull Request. This can be done through the Github interface. Once sent, the maintainer(s) will be able to discuss the contribution, and determine if there are any further steps required before they accept them into the project.
+So once you've actually made your changes, you need to be able to send it back to the original project. This requires you to create a Pull Request. This can be done through the GitHub interface. Once sent, the maintainer(s) will be able to discuss the contribution, and determine if there are any further steps required before they accept them into the project.
 
 ## Fancy a Hand?
 
@@ -129,7 +129,7 @@ If you're looking at getting started and would like some help, feel free to drop
 
 ### Hacktoberfest Session <a name="hacktoberfest-session"></a>
 
-On 6th October, I am running a [Git Workshop][git-workshop] which will serve as an introduction to Git and version control. In the interactive section of the workshop, I will be taking Hacksoc members through their first contribution - through a Pull Request to a blog post about Hacktoberfest on the Hacksoc website. The initial Pull Request can be found [on Github][hacksoc-repo-hacktoberfest-pr].
+On 6th October, I am running a [Git Workshop][git-workshop] which will serve as an introduction to Git and version control. In the interactive section of the workshop, I will be taking Hacksoc members through their first contribution - through a Pull Request to a blog post about Hacktoberfest on the Hacksoc website. The initial Pull Request can be found [on GitHub][hacksoc-repo-hacktoberfest-pr].
 
 Also join us on the [`#Hacktoberfest` Slack channel][hacktoberfest-slack] to chat about what you're working on, get some ideas, and just get to know the others who are contributing. Additionally, you can even try and organise a Hacktoberfest meetup to work on FOSS contributions together.
 
