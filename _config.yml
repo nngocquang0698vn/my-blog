@@ -54,11 +54,15 @@ collections:
 taxonomy:
   tags:
     title: Tags
+    description: Blog posts, categorised by tags
     child_title_prefix: 'Tags: '
+    child_description_prefix: Blog posts, categorised by the tag
     path: posts/tags
   categories:
     title: Categories
+    description: Blog posts, categorised by categories
     child_title_prefix: 'Category: '
+    child_description_prefix: Blog posts, categorised by the category
     path: posts/categories
   tech:
     title: Tech
