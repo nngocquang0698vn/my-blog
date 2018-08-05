@@ -42,20 +42,42 @@ def report_errors(all_errors)
   true
 end
 
-desc 'Test links'
-task :test do
-  # as Alpine doesn't have `nproc`, this is the next best thing
-  num_cpus = `grep 'processor' /proc/cpuinfo  | wc -l`.to_i
-  require 'html-proofer'
-  options = {
-    only_4xx: true,
-    parallel: {
-      in_processes: num_cpus
-    },
-    internal_domains: ['jvt.me', 'www.jvt.me']
-  }
-  HTMLProofer.check_directory('./_site', options).run
+namespace :test do
+  desc 'Test links'
+  task :links do
+    # as Alpine doesn't have `nproc`, this is the next best thing
+    num_cpus = `grep 'processor' /proc/cpuinfo  | wc -l`.to_i
+    require 'html-proofer'
+    options = {
+      only_4xx: true,
+      parallel: {
+        in_processes: num_cpus
+      },
+      internal_domains: ['jvt.me', 'www.jvt.me']
+    }
+    HTMLProofer.check_directory('./_site', options).run
+  end
+
+  desc 'Test GitHub/GitLab casing'
+  task :git_casing do
+    all_incorect_cases = {}
+    Dir.glob('_site/**/*.html') do |f|
+      contents = File.read f
+       if contents.include?('Github')
+         all_incorect_cases[f] ||= []
+         all_incorect_cases[f] << 'Github should be capitalised'
+       end
+
+       if contents.include?('Gitlab')
+         all_incorect_cases[f] ||= []
+         all_incorect_cases[f] << 'Gitlab should be capitalised'
+       end
+    end
+    fail if report_errors(all_incorect_cases)
+  end
 end
+
+task test: ['test:links', 'test:git_casing']
 
 desc 'Notify all search engines'
 task :notify, [:fqdn] do |_, args|
