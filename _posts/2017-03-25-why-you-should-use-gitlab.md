@@ -24,11 +24,11 @@ There are a number of technical reasons why GitLab is superior to other hosting 
 
 ### Unlimited Public and Private Repos
 
-GitLab.com provides an unlimited amount of both public and private repositories, _for free_. This was the first reason that got me moved to GitLab, especially as it was coming to the end of my time using Github's education pack. I had previously used Bitbucket for any private repos I wanted in excess of Github's five repos, but when I found that GitLab made it possible to have all my repos on a single service, and even better - _for free_ - I was sold.
+GitLab.com provides an unlimited amount of both public and private repositories, _for free_. This was the first reason that got me moved to GitLab, especially as it was coming to the end of my time using GitHub's education pack. I had previously used Bitbucket for any private repos I wanted in excess of GitHub's five repos, but when I found that GitLab made it possible to have all my repos on a single service, and even better - _for free_ - I was sold.
 
 ### CI
 
-Having Continuous Integration built into the platform is hugely useful. Although CI platforms for i.e. Github are great, and integrate nicely, there's nothing better than not even having to leave GitLab to see how your builds performed.
+Having Continuous Integration built into the platform is hugely useful. Although CI platforms for i.e. GitHub are great, and integrate nicely, there's nothing better than not even having to leave GitLab to see how your builds performed.
 
 With GitLab's CI, you also gain the option of using Docker-based infrastructure, which means that you don't have to wait for all your dependencies to be installed as part of your CI build, slowing down time to feedback. As you can choose any Docker image, be it from the Hub or a private registry (more details can be found in the [Private Registry section](#private-registry)), you can prepackage the large (or even all) dependencies in an easy to access format, such that your CI can start as soon as the image is downloaded.
 
@@ -100,7 +100,7 @@ This is another really great feature - having a MR auto-merge when the CI job fi
 
 ![GitLab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](/assets/img/gitlab-wip-merge-2.png "A WIP Merge Request cannot be merged until the `WIP` is removed from the title")
 
-This is something that I've found when working on teams using Github - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-GitLab article` and then add a `DO_NOT_MERGE` label. However, GitLab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
+This is something that I've found when working on teams using GitHub - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-GitLab article` and then add a `DO_NOT_MERGE` label. However, GitLab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
 
 ## Non-technically
 
@@ -114,7 +114,7 @@ GitLab runs a company that embraces transparency and open-ness, and makes it muc
 
 GitLab is very different to other companies - most notably how amazingly open and transparent they are with all they do.
 
-In response to the [Dear Github][dear-github] letter, [GitLab responded][dear-github-gitlab] to show that there were actually a number of features requested that were already available on GitLab. For the features that hadn't yet been released, there were links to the issues raised on their own issue board, such that anyone would be able to see GitLab's discussion on the progress of the feature. This stark contrast compared to the black box that other companies are was a welcome change for a number of people.
+In response to the [Dear GitHub][dear-github] letter, [GitLab responded][dear-github-gitlab] to show that there were actually a number of features requested that were already available on GitLab. For the features that hadn't yet been released, there were links to the issues raised on their own issue board, such that anyone would be able to see GitLab's discussion on the progress of the feature. This stark contrast compared to the black box that other companies are was a welcome change for a number of people.
 
 This transparency was also shown when they recently [did an oops and deleted their production database][techcrunch-gitlab-backup] while finding that their backup procedures were actually silently failing. They were incredibly open with what actually went wrong, sharing the internal Google Doc that they had been updating live, such that the world could see exactly what the internal GitLab team could:
 
