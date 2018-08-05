@@ -3,7 +3,9 @@ layout: page
 ---
 {% for item in page.metadataList %}
   <h2 id="{{ item[0] | slugify }}">
-    <a href="{{ page.dir }}{{ item[0] }}/">{{ item[0] | capitalize }}</a>
+      <a href="{{ page.dir }}{{ item[0] }}/">
+          {% if 'github' == item[0] %}GitHub{% elsif 'gitlab' == item[0] %}GitLab{% elsif 'gitlab-ci' == item[0] %}GitLab-CI{% else %}{{ item[0] | capitalize }}{% endif %}
+      </a>
   </h2>
   <p id="no-search-matches" class="hidden">No matches found.</p>
   <ul id="content-list">
