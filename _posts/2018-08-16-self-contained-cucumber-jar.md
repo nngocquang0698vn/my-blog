@@ -292,6 +292,106 @@ OK (2 tests)
 
 Now, we only run our Cucumber tests.
 
+### Running Cucumber from the JAR as Part of a `mvn verify`
+
+We can also hook in our Cucumber run from the JAR as part of our Maven build, [hooking into the `integration-test` phase in our parent POM]:
+
+```diff
+             </plugin>
++            <plugin>
++                <groupId>org.codehaus.mojo</groupId>
++                <artifactId>exec-maven-plugin</artifactId>
++                <version>1.6.0</version>
++                <executions>
++                    <execution>
++                        <phase>integration-test</phase>
++                        <goals>
++                            <goal>java</goal>
++                        </goals>
++                    </execution>
++                </executions>
++                <configuration>
++                    <mainClass>me.jvt.hacking.RunCukes</mainClass>
++                </configuration>
++            </plugin>
+         </plugins>
+```
+
+This means that when we run a `mvn clean verify`:
+
+```
+[INFO] Scanning for projects...
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building fat-cucumber.jar 0.3
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ fat-cucumber.jar ---
+[INFO] Deleting /home/jamie/workspaces/cucumber-jar/new-repo/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ fat-cucumber.jar ---
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ fat-cucumber.jar ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to /home/jamie/workspaces/cucumber-jar/new-repo/target/classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ fat-cucumber.jar ---
+[INFO] skip non existing resourceDirectory /home/jamie/workspaces/cucumber-jar/new-repo/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ fat-cucumber.jar ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /home/jamie/workspaces/cucumber-jar/new-repo/target/test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ fat-cucumber.jar ---
+[INFO] Surefire report directory: /home/jamie/workspaces/cucumber-jar/new-repo/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running me.jvt.hacking.StepsTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.432 sec
+
+Results :
+
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ fat-cucumber.jar ---
+[INFO] Building jar: /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar
+[INFO]
+[INFO] --- maven-shade-plugin:3.1.1:shade (default) @ fat-cucumber.jar ---
+[INFO] Including io.cucumber:cucumber-junit:jar:3.0.2 in the shaded jar.
+[INFO] Including io.cucumber:cucumber-core:jar:3.0.2 in the shaded jar.
+[INFO] Including io.cucumber:cucumber-html:jar:0.2.7 in the shaded jar.
+[INFO] Including io.cucumber:gherkin:jar:5.0.0 in the shaded jar.
+[INFO] Including io.cucumber:tag-expressions:jar:1.1.1 in the shaded jar.
+[INFO] Including io.cucumber:cucumber-expressions:jar:5.0.19 in the shaded jar.
+[INFO] Including io.cucumber:datatable:jar:1.0.3 in the shaded jar.
+[INFO] Including io.cucumber:datatable-dependencies:jar:1.0.3 in the shaded jar.
+[INFO] Including io.cucumber:cucumber-java:jar:3.0.2 in the shaded jar.
+[INFO] Including junit:junit:jar:4.12 in the shaded jar.
+[INFO] Including org.hamcrest:hamcrest-core:jar:1.3 in the shaded jar.
+[INFO] Including org.assertj:assertj-core:jar:3.10.0 in the shaded jar.
+[INFO] Replacing original artifact with shaded artifact.
+[INFO] Replacing /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar with /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/jamie/workspaces/cucumber-jar/new-repo/dependency-reduced-pom.xml
+[INFO]
+[INFO] --- exec-maven-plugin:1.6.0:java (default) @ fat-cucumber.jar ---
+JUnit version 4.12
+..
+2 Scenarios (2 passed)
+7 Steps (7 passed)
+0m0.093s
+
+
+Time: 0.089
+
+OK (2 tests)
+```
+
+Which as we can see, runs Cucumber right at the end of the Maven build.
+
 ## Summary
 
 We're now building a JAR for our Cucumber tests, which allows us to build once and run many times. We have confidence in releasing our JARs by writing tests for our steps, meaning we're able to release our tests before we actually run them against our API, as we are happy they'll do what they are meant to.
@@ -300,6 +400,7 @@ Note that I've also implemented this process for Gatling, which follows a very s
 
 [our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/5367d363f4038dcce2cec5a04856dc3d7c9afc0e/pom.xml
 [update our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/cccd0c167eb444cb1c8d7cf9e09eb23b564b4b4e/pom.xml
+[hooking into the `integration-test` phase in our parent POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/d1f3458a0b6e601d0043f65afe1344a9308c7de3/pom.xml
 [resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
 [fat-cucumber-jar]: https://gitlab.com/jamietanna/fat-cucumber-jar
 [issue-gatling-article]: https://gitlab.com/jamietanna/jvt.me/issues/265
