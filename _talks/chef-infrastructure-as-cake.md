@@ -25,7 +25,10 @@ events:
   video: https://www.youtube.com/watch?v=CjvaUHXe4KQ
 - name: OggCamp
   date: 2018-08-18
-  url:
+  url: https://joind.in/talk/df08e
+  slides:
+    url: http://jamietanna.gitlab.io/talks/chef-infrastructure-as-cake/
+    license: GPLv3
   type: talk
   video:
 description:
