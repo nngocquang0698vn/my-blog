@@ -1,5 +1,5 @@
 ---
-title: 'Creating a versionable, self-contained (fat-/uber-jar) JAR for Cucumber tests'
+title: 'Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests'
 description: Why you'd want a fat JAR and how you'd achieve it.
 categories: blogumentation
 tags: java cucumber testing jar artifact artefact maven uber-jar
