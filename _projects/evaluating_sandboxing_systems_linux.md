@@ -18,3 +18,5 @@ For my final year dissertation, I worked on a project to determine different met
 > Therefore, it is becoming more important to sandbox applications from one another in the interest of security and privacy. Sandboxing should restrict the application from performing any tasks outside their normal working behaviour, and any attempts to overreach will be denied.
 
 > This report evaluates the ways that such a system could be comprised by researching a number of different approaches for sandboxing applications. I will follow a natural progression in technical complexity in order to increase my understanding of these different methods and of sandboxing in general. The final deliverable of this project is a conclusion as to which of the researched system(s) should be used as part of such an application sandboxing system.
+
+My full dissertation can be found [in PDF format](https://gitlab.com/jamietanna/IDS/uploads/dfc019cf0d30f8f46ed3f8bba193eb3a/psyjvta-dissertation-report.pdf).
