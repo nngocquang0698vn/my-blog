@@ -20,5 +20,6 @@ If you like some of my blog posts, I'd recommend reading some of the following b
 - <https://www.harrymt.com>
 - <https://www.hanselman.com>
 - <https://zwischenzugs.com>
+- <https://lifewithcode.blogspot.com>
 
 I'll update this page as-and-when I find new content that I like to read and want to share. I may also look at creating a curated RSS feed for the above blogs for easier consumption.
