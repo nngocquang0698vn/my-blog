@@ -73,7 +73,7 @@ commit 6e777721c9fee2ee29aff80f613dbf0b884a056f
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:47:47 2017 +0000
 
-    Fix link on Why-Gitlab article
+    Fix link on Why-GitLab article
 
  _posts/2017-03-25-why-you-should-use-gitlab.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -82,7 +82,7 @@ commit 51bb45c770913117650a9b8f1319bc375e518986
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:45:10 2017 +0000
 
-    Remove TODO from Why-Gitlab article
+    Remove TODO from Why-GitLab article
 
  _posts/2017-03-25-why-you-should-use-gitlab.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -91,7 +91,7 @@ commit 5239f250d87cbf9ca27097ce7ff482f2a45814ae
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:36:57 2017 +0000
 
-    Promote: Why-Gitlab article
+    Promote: Why-GitLab article
 
  _posts/2017-03-25-why-you-should-use-gitlab.md | 197 +++++++++++++++++++++++++
  1 file changed, 197 insertions(+)
@@ -105,7 +105,7 @@ commit 5239f250d87cbf9ca27097ce7ff482f2a45814ae
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:36:57 2017 +0000
 
-    Promote: Why-Gitlab article
+    Promote: Why-GitLab article
 
 diff --git a/_drafts/why-you-should-use-gitlab.md b/_posts/2017-03-25-why-you-should-use-gitlab.md
 similarity index 100%
@@ -186,7 +186,7 @@ commit 6e777721c9fee2ee29aff80f613dbf0b884a056f
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:47:47 2017 +0000
 
-    Fix link on Why-Gitlab article
+    Fix link on Why-GitLab article
 
  _posts/2017-03-25-why-you-should-use-gitlab.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -195,7 +195,7 @@ commit 51bb45c770913117650a9b8f1319bc375e518986
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:45:10 2017 +0000
 
-    Remove TODO from Why-Gitlab article
+    Remove TODO from Why-GitLab article
 
  _posts/2017-03-25-why-you-should-use-gitlab.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -204,7 +204,7 @@ commit 5239f250d87cbf9ca27097ce7ff482f2a45814ae
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:36:57 2017 +0000
 
-    Promote: Why-Gitlab article
+    Promote: Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md => _posts/2017-03-25-why-you-should-use-gitlab.md | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
@@ -213,7 +213,7 @@ commit 9d0cf783edff2796063a63fd23aecf90da48eb67
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:36:14 2017 +0000
 
-    Add Why-Gitlab article description
+    Add Why-GitLab article description
 
  _drafts/why-you-should-use-gitlab.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
@@ -222,7 +222,7 @@ commit deeb7f29fad8b8fb1cbf1f498702eb7cc07a50a7
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 10:30:47 2017 +0000
 
-    Finalise Why-Gitlab article
+    Finalise Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 23 ++++++++++++++++-------
  1 file changed, 16 insertions(+), 7 deletions(-)
@@ -240,7 +240,7 @@ commit 99363f9d0d043bcd0f2a80d8cf79b650300ebf46
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sat Mar 25 09:15:13 2017 +0000
 
-    Almost finalise Why-Gitlab article
+    Almost finalise Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 26 ++++++++++++++++++++------
  1 file changed, 20 insertions(+), 6 deletions(-)
@@ -249,7 +249,7 @@ commit 65409c97942cdb2f5981226742ad9f08d9eb9bb3
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Wed Mar 22 01:03:42 2017 +0000
 
-    Almost finish Why-Gitlab article
+    Almost finish Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 87 +++++++++++++++++++++++++++---------
  1 file changed, 66 insertions(+), 21 deletions(-)
@@ -258,7 +258,7 @@ commit 091e03ab120d41e8b5db77353abb4693510bc3e0
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Tue Mar 21 21:48:40 2017 +0000
 
-    Update Why-Gitlab article
+    Update Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 34 ++++++++++++++++++++++++++++------
  1 file changed, 28 insertions(+), 6 deletions(-)
@@ -267,7 +267,7 @@ commit 3ae1c29d6280b814c11b6140fe6834ef832f6ccb
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Tue Mar 21 18:37:05 2017 +0000
 
-    Update Why-Gitlab article
+    Update Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 36 +++++++++++++++++++++++++++---------
  1 file changed, 27 insertions(+), 9 deletions(-)
@@ -276,7 +276,7 @@ commit f8b969c5ece43b5a4e07df95d3be57a8ac9e91ff
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Tue Mar 21 11:58:07 2017 +0000
 
-    Update Why-Gitlab article
+    Update Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 35 ++++++++++++++++++++++++-----------
  1 file changed, 24 insertions(+), 11 deletions(-)
@@ -285,7 +285,7 @@ commit 82ebf4039c25cbc17622438a3a872a76c57b59b0
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Sun Mar 19 12:54:53 2017 +0000
 
-    Update Why-Gitlab article
+    Update Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 37 ++++++++++++++++++++++++++++++------
  1 file changed, 31 insertions(+), 6 deletions(-)
@@ -294,7 +294,7 @@ commit a5d59ec5070fd92b8c90592264cb009ff603fc30
 Author: Jamie Tanna <jamie@jamietanna.co.uk>
 Date:   Fri Mar 17 00:24:53 2017 +0000
 
-    Add initial work for Why-Gitlab article
+    Add initial work for Why-GitLab article
 
  _drafts/why-you-should-use-gitlab.md | 51 ++++++++++++++++++++++++++++++++++++
  1 file changed, 51 insertions(+)
