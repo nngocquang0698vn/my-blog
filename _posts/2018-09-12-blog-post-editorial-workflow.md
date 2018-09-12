@@ -56,7 +56,7 @@ compdef '_path_files -W $PWD/_drafts' jekyll_promote
 
 This has a little sugar for ZSH (the shell I use) to autocomplete filenames from the `_drafts` folder:
 
-<asciinema-player src="/assets/casts/blog-post-editorial-process/jekyll-promote.json"></asciinema-player>
+<asciinema-player src="/assets/casts/blog-post-editorial-workflow/jekyll-promote.json"></asciinema-player>
 
 I realise that this one-liner looks rather innocuous, but at first, I wasn't aware of `date -I`, so would be writing:
 
