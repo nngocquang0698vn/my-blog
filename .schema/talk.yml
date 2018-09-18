@@ -2,7 +2,7 @@ type: map
 mapping:
   'layout':
     type: str
-    required: no
+    required: yes
     pattern: /^talk$/
   'title':
     type: str
@@ -20,7 +20,7 @@ mapping:
         enum: [AUTO_GENERATED]
   'events':
     type: seq
-    required: no
+    required: yes
     sequence:
       - type: map
         mapping:
