@@ -319,7 +319,7 @@ strong {
 
 /* Stolen from jekyll-space-theme {{{ */
 
-.highlight {
+.highlight, :not(pre) > code {
 	white-space: pre;
 	overflow: auto;
 	word-wrap: normal;
@@ -367,6 +367,8 @@ pre code {
 	&::before, &::after {
 		content: "`";
 	}
+	padding: 5px;
+	color: #fbf1c7;
 }
 
 /* }}} */
