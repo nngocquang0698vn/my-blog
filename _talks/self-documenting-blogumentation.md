@@ -3,6 +3,7 @@ title: Powering up your personal development and brand with Blogumentation
 layout: talk
 type:
 - talk
+events: []
 description:
   Blogumentation is a term that I've coined around blogging as a form of documentation. Although started as a way to have a single place for little tips-and-tricks or common issues I was facing, it's become more widely known and used.
   Not only for helping myself remember facts, it's been a wealth of knowledge for my colleagues  at Capital One and through my site's analytics, I can tell it's quite popular outside of the business, too.
