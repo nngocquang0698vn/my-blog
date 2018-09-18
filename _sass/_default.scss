@@ -364,9 +364,6 @@ pre code {
 }
 
 :not(pre) > code {
-	&::before, &::after {
-		content: "`";
-	}
 	padding: 5px;
 	color: #fbf1c7;
 }
