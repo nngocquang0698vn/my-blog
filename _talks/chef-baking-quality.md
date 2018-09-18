@@ -4,7 +4,7 @@ layout: talk
 type:
 - talk
 - workshop
-events:
+events: []
 description:
   Learn how you can write fully testable provisioning code using Chef, giving you greater confidence in the servers you deploy your awesome applications to. In this example we'll create a cookbook from scratch, and go through the process of testing different code paths through unit and integration tests. The food puns hopefully won't leave a bad taste in your mouth as you learn some secret sauce.
 ---
