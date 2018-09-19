@@ -371,8 +371,11 @@ pre code {
 /* }}} */
 
 a {
-	&, & code {
+	& {
 		color: #b324d4;
+	}
+	:not(pre) & > code {
+		color: #e3c3eb;
 	}
 }
 
