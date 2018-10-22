@@ -11,6 +11,10 @@
 		</p>
 		<p>Content for this article is shared under the terms of the {% assign prose = site.data.licenses[page.licenses.prose] %}<a href="{{ prose.url }}">{{ prose.long_name }}</a>, and code is shared under {% assign code = site.data.licenses[page.licenses.code] %}<a href="{{ code.url }}">{{ code.long_name }}</a>.</p>
 
+		{% if post.canonical_url %}
+		<p>This article was originally posted on <a href="{{ post.canonical_url }}">{{ post.canonical_url }}</a>.</p>
+		{% endif %}
+
 		<h3>Tags</h3>
 		<ul class="post-tags">
 			{% for tag in page.tags %}

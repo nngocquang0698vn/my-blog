@@ -27,3 +27,6 @@ mapping:
     type: str
     required: no
     pattern: /^\/assets\/img\/.*\.(png|jpg)/
+  'canonical_url':
+    type: str
+    required: no

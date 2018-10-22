@@ -5,6 +5,7 @@ description: Bringing the Internet of Things to the home, and to help monitor yo
 categories: internet-of-things
 tags: internet-of-things impact-nottingham
 no_toc: true
+canonical_url: http://www.impactnottingham.com/2014/07/intelligent-parenting/
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/07/intelligent-parenting/) for [Impact Nottingham](http://www.impactnottingham.com).
 

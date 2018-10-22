@@ -5,6 +5,7 @@ description: A discussion about Sony Pictures Entertainment being hacked in the 
 categories: infosec
 tags: infosec impact-nottingham
 no_toc: true
+canonical_url: http://www.impactnottingham.com/2015/04/the-sony-hack/
 ---
 > This article was [originally published](http://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](http://www.impactnottingham.com).
 
