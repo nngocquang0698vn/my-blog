@@ -86,6 +86,27 @@ $ git remote prune origin
  * [pruned] origin/feature/separate_builder_image
 ```
 
+## Auto-pruning branches
+
+As per the following tweet, we can also set Git to auto prune our `remote`s, too:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Neat trick:<br>`git config remote.origin.prune true`<br><br>Removes branches locally when you do a git pull/fetch if the branches was deleted on the remote. e.g. merge request/delete branch on next pull local, will delete local branch</p>&mdash; Patrick O&#39;Connor (@dontrebootme) <a href="https://twitter.com/dontrebootme/status/1045552600588808193?ref_src=twsrc%5Etfw">September 28, 2018</a></blockquote>
+
+```bash
+$ git config remote.origin.prune true
+```
+
+This can also be set globally:
+
+```bash
+# via the CLI
+$ git config --global remote.origin.prune true
+# or in your Git config
+$ cat ~/.gitconfig
+[remote "origin"]
+	prune = true
+```
+
 [gitflow]: https://datasift.github.io/gitflow/IntroducingGitFlow.html
 [so-merge]: https://stackoverflow.com/a/6127884
 [ddg]: https://duckduckgo.com/
