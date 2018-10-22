@@ -5,6 +5,7 @@ description: The future of lighting - using smart, long-lived lightbulbs that ca
 categories: internet-of-things
 tags: internet-of-things impact-nottingham
 no_toc: true
+canonical_url: http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/) for [Impact Nottingham](http://www.impactnottingham.com).
 
