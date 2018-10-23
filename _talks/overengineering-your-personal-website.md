@@ -8,7 +8,7 @@ events:
   date: 2018-09-20
   url:
   type: lightning
-  video:
+  video: https://www.youtube.com/watch?v=DUdaRJU2B3A&index=8&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm
 description:
   I often want to test new things, but don't have many full on projects. If I want to test a full deployment pipeline, from local development to production, I need something to deploy. So I've made my personal website _super complicated_.
 ---
