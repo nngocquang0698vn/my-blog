@@ -30,3 +30,13 @@ mapping:
   'canonical_url':
     type: str
     required: no
+  'licenses':
+    type: map
+    required: no
+    mapping:
+      'code':
+        type: str
+        required: no
+      'prose':
+        type: str
+        required: no
