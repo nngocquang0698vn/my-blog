@@ -392,6 +392,58 @@ OK (2 tests)
 
 Which as we can see, runs Cucumber right at the end of the Maven build.
 
+## Adding HTML outputs
+
+As an avid reader has reminded me, we may also want to have HTML reports from our Cucumber run. This can be done by [amending the `CucumberOptions` annotation]:
+
+```diff
+-@CucumberOptions(plugin = "json:target/report.json", features = {"classpath:features"})
++@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
+```
+
+Now, after running our Cucumber tests, we can we have populated `target/cucumber-html`:
+
+```
+$ ls target/cucumber-html
+formatter.js  index.html  jquery-1.8.2.min.js  report.js  style.css
+```
+
+## Prettier Cucumber Command-Line Output
+
+If we wanted a slightly more `pretty` output for our test run, we can update our `CucumberOptions`:
+
+```diff
+-@CucumberOptions(plugin = "json:target/report.json", features = {"classpath:features"})
++@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
+```
+
+This gives us the following output:
+
+```
+Feature: List
+
+  Scenario: When I append to a list, it appends # features/List.feature:3
+.    Given I create a new List                   # Steps.createANewList()
+    When I append a new item                    # Steps.appendItemToList()
+    Then the list has 1 item in it              # Steps.theListHasItemsInIt(int)
+
+  Scenario: When I append to a list, it appends # features/List.feature:8
+.    Given I create a new List                   # Steps.createANewList()
+    When I append a new item                    # Steps.appendItemToList()
+    And I append a new item                     # Steps.appendItemToList()
+    Then the list has 2 items in it             # Steps.theListHasItemsInIt(int)
+
+2 Scenarios (2 passed)
+7 Steps (7 passed)
+0m0.084s
+
+
+Time: 0.083
+
+OK (2 tests)
+```
+
+
 ## Summary
 
 We're now building a JAR for our Cucumber tests, which allows us to build once and run many times. We have confidence in releasing our JARs by writing tests for our steps, meaning we're able to release our tests before we actually run them against our API, as we are happy they'll do what they are meant to.
@@ -404,3 +456,4 @@ Note that I've also implemented this process for Gatling, which follows a very s
 [resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
 [fat-cucumber-jar]: https://gitlab.com/jamietanna/fat-cucumber-jar
 [issue-gatling-article]: https://gitlab.com/jamietanna/jvt.me/issues/265
+[amending the `CucumberOptions` annotation]: https://gitlab.com/jamietanna/fat-cucumber-jar/commit/8e61448d656bd39b4f2e3daa0d3391bbec2decd1
