@@ -327,24 +327,24 @@ This means that when we run a `mvn clean verify`:
 [INFO] ------------------------------------------------------------------------
 [INFO]
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ fat-cucumber.jar ---
-[INFO] Deleting /home/jamie/workspaces/cucumber-jar/new-repo/target
+[INFO] Deleting /home/jamie/workspaces/cucumber-jar/target
 [INFO]
 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ fat-cucumber.jar ---
 [INFO] Copying 1 resource
 [INFO]
 [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ fat-cucumber.jar ---
 [INFO] Changes detected - recompiling the module!
-[INFO] Compiling 2 source files to /home/jamie/workspaces/cucumber-jar/new-repo/target/classes
+[INFO] Compiling 2 source files to /home/jamie/workspaces/cucumber-jar/target/classes
 [INFO]
 [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ fat-cucumber.jar ---
-[INFO] skip non existing resourceDirectory /home/jamie/workspaces/cucumber-jar/new-repo/src/test/resources
+[INFO] skip non existing resourceDirectory /home/jamie/workspaces/cucumber-jar/src/test/resources
 [INFO]
 [INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ fat-cucumber.jar ---
 [INFO] Changes detected - recompiling the module!
-[INFO] Compiling 1 source file to /home/jamie/workspaces/cucumber-jar/new-repo/target/test-classes
+[INFO] Compiling 1 source file to /home/jamie/workspaces/cucumber-jar/target/test-classes
 [INFO]
 [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ fat-cucumber.jar ---
-[INFO] Surefire report directory: /home/jamie/workspaces/cucumber-jar/new-repo/target/surefire-reports
+[INFO] Surefire report directory: /home/jamie/workspaces/cucumber-jar/target/surefire-reports
 
 -------------------------------------------------------
  T E S T S
@@ -358,7 +358,7 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 
 [INFO]
 [INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ fat-cucumber.jar ---
-[INFO] Building jar: /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar
+[INFO] Building jar: /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3.jar
 [INFO]
 [INFO] --- maven-shade-plugin:3.1.1:shade (default) @ fat-cucumber.jar ---
 [INFO] Including io.cucumber:cucumber-junit:jar:3.0.2 in the shaded jar.
@@ -374,8 +374,8 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Including org.hamcrest:hamcrest-core:jar:1.3 in the shaded jar.
 [INFO] Including org.assertj:assertj-core:jar:3.10.0 in the shaded jar.
 [INFO] Replacing original artifact with shaded artifact.
-[INFO] Replacing /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar with /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3-shaded.jar
-[INFO] Dependency-reduced POM written at: /home/jamie/workspaces/cucumber-jar/new-repo/dependency-reduced-pom.xml
+[INFO] Replacing /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3.jar with /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/jamie/workspaces/cucumber-jar/dependency-reduced-pom.xml
 [INFO]
 [INFO] --- exec-maven-plugin:1.6.0:java (default) @ fat-cucumber.jar ---
 JUnit version 4.12
