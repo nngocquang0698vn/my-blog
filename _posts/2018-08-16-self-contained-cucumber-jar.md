@@ -327,24 +327,24 @@ This means that when we run a `mvn clean verify`:
 [INFO] ------------------------------------------------------------------------
 [INFO]
 [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ fat-cucumber.jar ---
-[INFO] Deleting /home/jamie/workspaces/cucumber-jar/new-repo/target
+[INFO] Deleting /home/jamie/workspaces/cucumber-jar/target
 [INFO]
 [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ fat-cucumber.jar ---
 [INFO] Copying 1 resource
 [INFO]
 [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ fat-cucumber.jar ---
 [INFO] Changes detected - recompiling the module!
-[INFO] Compiling 2 source files to /home/jamie/workspaces/cucumber-jar/new-repo/target/classes
+[INFO] Compiling 2 source files to /home/jamie/workspaces/cucumber-jar/target/classes
 [INFO]
 [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ fat-cucumber.jar ---
-[INFO] skip non existing resourceDirectory /home/jamie/workspaces/cucumber-jar/new-repo/src/test/resources
+[INFO] skip non existing resourceDirectory /home/jamie/workspaces/cucumber-jar/src/test/resources
 [INFO]
 [INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ fat-cucumber.jar ---
 [INFO] Changes detected - recompiling the module!
-[INFO] Compiling 1 source file to /home/jamie/workspaces/cucumber-jar/new-repo/target/test-classes
+[INFO] Compiling 1 source file to /home/jamie/workspaces/cucumber-jar/target/test-classes
 [INFO]
 [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ fat-cucumber.jar ---
-[INFO] Surefire report directory: /home/jamie/workspaces/cucumber-jar/new-repo/target/surefire-reports
+[INFO] Surefire report directory: /home/jamie/workspaces/cucumber-jar/target/surefire-reports
 
 -------------------------------------------------------
  T E S T S
@@ -358,7 +358,7 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 
 [INFO]
 [INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ fat-cucumber.jar ---
-[INFO] Building jar: /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar
+[INFO] Building jar: /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3.jar
 [INFO]
 [INFO] --- maven-shade-plugin:3.1.1:shade (default) @ fat-cucumber.jar ---
 [INFO] Including io.cucumber:cucumber-junit:jar:3.0.2 in the shaded jar.
@@ -374,8 +374,8 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Including org.hamcrest:hamcrest-core:jar:1.3 in the shaded jar.
 [INFO] Including org.assertj:assertj-core:jar:3.10.0 in the shaded jar.
 [INFO] Replacing original artifact with shaded artifact.
-[INFO] Replacing /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3.jar with /home/jamie/workspaces/cucumber-jar/new-repo/target/fat-cucumber.jar-0.3-shaded.jar
-[INFO] Dependency-reduced POM written at: /home/jamie/workspaces/cucumber-jar/new-repo/dependency-reduced-pom.xml
+[INFO] Replacing /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3.jar with /home/jamie/workspaces/cucumber-jar/target/fat-cucumber.jar-0.3-shaded.jar
+[INFO] Dependency-reduced POM written at: /home/jamie/workspaces/cucumber-jar/dependency-reduced-pom.xml
 [INFO]
 [INFO] --- exec-maven-plugin:1.6.0:java (default) @ fat-cucumber.jar ---
 JUnit version 4.12
@@ -392,6 +392,58 @@ OK (2 tests)
 
 Which as we can see, runs Cucumber right at the end of the Maven build.
 
+## Adding HTML outputs
+
+As an avid reader has reminded me, we may also want to have HTML reports from our Cucumber run. This can be done by [amending the `CucumberOptions` annotation]:
+
+```diff
+-@CucumberOptions(plugin = "json:target/report.json", features = {"classpath:features"})
++@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
+```
+
+Now, after running our Cucumber tests, we can we have populated `target/cucumber-html`:
+
+```
+$ ls target/cucumber-html
+formatter.js  index.html  jquery-1.8.2.min.js  report.js  style.css
+```
+
+## Prettier Cucumber Command-Line Output
+
+If we wanted a slightly more `pretty` output for our test run, we can update our `CucumberOptions`:
+
+```diff
+-@CucumberOptions(plugin = "json:target/report.json", features = {"classpath:features"})
++@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
+```
+
+This gives us the following output:
+
+```
+Feature: List
+
+  Scenario: When I append to a list, it appends # features/List.feature:3
+.    Given I create a new List                   # Steps.createANewList()
+    When I append a new item                    # Steps.appendItemToList()
+    Then the list has 1 item in it              # Steps.theListHasItemsInIt(int)
+
+  Scenario: When I append to a list, it appends # features/List.feature:8
+.    Given I create a new List                   # Steps.createANewList()
+    When I append a new item                    # Steps.appendItemToList()
+    And I append a new item                     # Steps.appendItemToList()
+    Then the list has 2 items in it             # Steps.theListHasItemsInIt(int)
+
+2 Scenarios (2 passed)
+7 Steps (7 passed)
+0m0.084s
+
+
+Time: 0.083
+
+OK (2 tests)
+```
+
+
 ## Summary
 
 We're now building a JAR for our Cucumber tests, which allows us to build once and run many times. We have confidence in releasing our JARs by writing tests for our steps, meaning we're able to release our tests before we actually run them against our API, as we are happy they'll do what they are meant to.
@@ -404,3 +456,4 @@ Note that I've also implemented this process for Gatling, which follows a very s
 [resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
 [fat-cucumber-jar]: https://gitlab.com/jamietanna/fat-cucumber-jar
 [issue-gatling-article]: https://gitlab.com/jamietanna/jvt.me/issues/265
+[amending the `CucumberOptions` annotation]: https://gitlab.com/jamietanna/fat-cucumber-jar/commit/8e61448d656bd39b4f2e3daa0d3391bbec2decd1
