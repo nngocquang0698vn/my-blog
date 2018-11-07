@@ -24,6 +24,8 @@ This is likely a separate post altogether but the short of it is that until you 
 
 This has the added bonus if you're in a situation where you can write your test changes ahead-of-time to the implementation changes, you can make the changes, release the artefact, and wait for the implementation changes to be tested against the new contract.
 
+**Update**: I've expanded on this point in the article [_Why You Should Be Unit Testing Your Functional (i.e. Cucumber) Tests_]({% post_url 2018-11-07-unit-test-functional-tests %}).
+
 ### "Why would I want a versionable JAR?"
 
 Although checking out the source code of the project (be it using a Git commit hash, Git tag, or just a branch reference) is a great way to ensure you're running a given version of the tests, it doesn't beat having a source-of-truth in the form of an artefact that can be published to i.e. Maven Central.
