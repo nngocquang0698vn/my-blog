@@ -5,6 +5,8 @@ categories: chef-14
 tags: chef-14 chef foodcritic cookstyle rubocop ruby test-kitchen
 image: /assets/img/vendor/chef-logo.png
 ---
+Update: I've also started to document [any interesting changes required for Chef 14](/posts/tags/chef-14-upgrade).
+
 Last Wednesday, I was able to attend the [Chef Users UK] meetup where Chef Community Engineer [Thom May] came to talk about Chef 14 (and beyond):
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Tonight I’m talking about chef from the future… <a href="https://twitter.com/hashtag/chef?src=hash&amp;ref_src=twsrc%5Etfw">#chef</a> <a href="https://twitter.com/hashtag/cheffriends?src=hash&amp;ref_src=twsrc%5Etfw">#cheffriends</a> <a href="https://t.co/u8BBbIH7id">pic.twitter.com/u8BBbIH7id</a></p>&mdash; Thom May (@thommay) <a href="https://twitter.com/thommay/status/986665948991107082?ref_src=twsrc%5Etfw">18 April 2018</a></blockquote>
