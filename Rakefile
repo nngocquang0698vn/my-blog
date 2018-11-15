@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require 'json'
 require 'kwalify'
 require 'yaml'
 
@@ -192,6 +193,32 @@ task :images_changed? do
   end
 
   fail "Images are not all minified: #{images_to_minify}" unless images_to_minify.size.zero?
+end
+
+desc 'Create Bit.ly short URLs for a given article URL'
+task :bitly_urls, [:url] do |_, args|
+  raise 'Bit.ly personal access token not provided in ENV[BITLY_TOKEN]' if ENV.fetch('BITLY_TOKEN').to_s.length.zero?
+  %w[slack.tn slack.c1 pulse twitter linkedin].each do |medium|
+    body = {
+      group_guid: 'Bb31fK0maG9',
+      domain: 'u.jvt.me',
+      long_url: args[:url] + "?utm_medium=#{medium}"
+    }
+
+    uri = URI.parse('https://api-ssl.bitly.com/v4/bitlinks')
+    https = Net::HTTP.new(uri.host, uri.port)
+    https.use_ssl = true
+    req = Net::HTTP::Post.new(uri.path, initheader = {'Content-Type' =>'application/json'})
+    req['Authorization'] = 'Bearer ' + ENV['BITLY_TOKEN']
+    req.body = body.to_json
+    res = https.request(req)
+    if res.is_a?(Net::HTTPSuccess)
+      res_body = JSON.parse(res.body)
+      puts "#{medium}: #{res_body['link']}"
+    else
+      raise "Unsuccessful: Response #{res.code} #{res.message}: #{res.body}"
+    end
+  end
 end
 
 task validate: ['validate:posts', 'validate:projects', 'validate:talks']
