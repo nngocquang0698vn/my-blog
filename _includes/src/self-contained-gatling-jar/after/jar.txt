@@ -1,0 +1,26 @@
+% ls -al target/*.jar
+-rw-r--r-- 1 jamie jamie 44578503 Nov 18 14:14 target/fat-gatling-jar-0.4.jar
+-rw-r--r-- 1 jamie jamie     7559 Nov 18 14:14 target/original-fat-gatling-jar-0.4.jar
+% unzip -l target/fat-gatling-jar-0.4.jar
+Archive:  target/fat-gatling-jar-0.4.jar
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+      167  2018-11-18 14:14   META-INF/MANIFEST.MF
+        0  2018-11-18 14:14   META-INF/
+        0  2018-11-18 14:14   me/
+        0  2018-11-18 14:14   me/jvt/
+        0  2018-11-18 14:14   me/jvt/hacking/
+     5272  2018-11-18 14:14   me/jvt/hacking/BasicSimulation.class
+     5272  2018-11-18 14:14   me/jvt/hacking/OtherSimulation.class
+        0  2018-11-18 14:14   META-INF/maven/
+        0  2018-11-18 14:14   META-INF/maven/me.jvt.hacking/
+        0  2018-11-18 14:14   META-INF/maven/me.jvt.hacking/fat-gatling-jar/
+     4148  2018-11-18 14:12   META-INF/maven/me.jvt.hacking/fat-gatling-jar/pom.xml
+      112  2018-11-18 14:14   META-INF/maven/me.jvt.hacking/fat-gatling-jar/pom.properties
+        ...
+        0  2018-11-18 14:14   META-INF/maven/com.eatthepath/
+        0  2018-11-18 14:14   META-INF/maven/com.eatthepath/fast-uuid/
+     5857  2018-01-26 21:04   META-INF/maven/com.eatthepath/fast-uuid/pom.xml
+       87  2018-01-26 21:04   META-INF/maven/com.eatthepath/fast-uuid/pom.properties
+---------                     -------
+102144180                     24150 files

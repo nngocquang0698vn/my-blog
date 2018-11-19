@@ -1,0 +1,143 @@
+% java -jar target/fat-gatling-jar-0.4.jar -s me.jvt.hacking.BasicSimulation
+14:20:32.782 [main] INFO io.gatling.core.config.GatlingConfiguration$ - Gatling will try to use 'gatling.conf' as custom config file.
+...
+14:20:34.374 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Write request WritableRequest{request=DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 0, cap: 0))
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: close
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-encoding: gzip
+origin: https://gatling.io
+host: gatling.io, content=null}
+14:20:34.380 [gatling-http-1-1] DEBUG io.netty.handler.ssl.SslHandler - [id: 0x6aeb6892, L:/192.168.0.19:52922 - R:gatling.io/52.47.152.183:443] HANDSHAKEN: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+14:20:34.456 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: nginx/1.12.1
+Date: Sun, 18 Nov 2018 14:20:34 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/7.0.31
+Link: <https://gatling.io/wp-json/>; rel="https://api.w.org/"
+Link: <https://gatling.io/?p=3640>; rel=shortlink
+X-Cache: HIT'
+14:20:34.458 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 8192, cap: 8192/8192, unwrapped: PooledUnsafeDirectByteBuf(ridx: 8517, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.459 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 7867, cap: 7867/7867, unwrapped: PooledUnsafeDirectByteBuf(ridx: 16384, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.461 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 8192, cap: 8192/8192, unwrapped: PooledUnsafeDirectByteBuf(ridx: 8192, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.461 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 8192, cap: 8192/8192, unwrapped: PooledUnsafeDirectByteBuf(ridx: 16384, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.484 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 325, cap: 325/325, unwrapped: PooledUnsafeDirectByteBuf(ridx: 327, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.485 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 8192, cap: 8192/8192, unwrapped: PooledUnsafeDirectByteBuf(ridx: 8525, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.485 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 7859, cap: 7859/7859, unwrapped: PooledUnsafeDirectByteBuf(ridx: 16384, widx: 16384, cap: 16413)), decoderResult: success)'
+14:20:34.488 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 1741, cap: 1741/1741, unwrapped: PooledUnsafeDirectByteBuf(ridx: 1743, widx: 1748, cap: 1777)), decoderResult: success)'
+14:20:34.488 [gatling-http-1-1] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='EmptyLastHttpContent'
+14:20:34.491 [main] DEBUG io.gatling.http.engine.HttpEngine - Warm up request https://gatling.io successful
+14:20:34.493 [main] INFO io.gatling.http.engine.HttpEngine - Warm up done
+14:20:34.537 [main] DEBUG io.gatling.http.cache.HttpCaches - HTTP/2 disabled
+Simulation me.jvt.hacking.BasicSimulation started...
+14:20:34.609 [GatlingSystem-akka.actor.default-dispatcher-4] DEBUG io.gatling.http.engine.tx.HttpTxExecutor - Sending request=request_1 uri=http://computer-database.gatling.io/: scenario=BasicSimulation, userId=1
+14:20:34.614 [GatlingSystem-akka.actor.default-dispatcher-4] DEBUG io.gatling.core.controller.inject.open.OpenWorkload - Start user #1
+14:20:34.615 [GatlingSystem-akka.actor.default-dispatcher-4] DEBUG io.gatling.core.controller.inject.open.OpenWorkload - Injecting 1 users in scenario BasicSimulation, continue=false
+14:20:34.616 [GatlingSystem-akka.actor.default-dispatcher-4] INFO io.gatling.core.controller.inject.Injector - StoppedInjecting
+14:20:34.693 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Write request WritableRequest{request=DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 0, cap: 0))
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+DNT: 1
+Accept-Language: en-US,en;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+accept-encoding: gzip, deflate
+origin: http://computer-database.gatling.io
+host: computer-database.gatling.io, content=null}
+14:20:34.733 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 303 See Other
+Server: nginx/1.12.1
+Date: Sun, 18 Nov 2018 14:20:34 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=5
+Location: /computers'
+14:20:34.734 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='EmptyLastHttpContent'
+14:20:34.749 [gatling-http-1-2] DEBUG io.gatling.http.engine.tx.HttpTxExecutor - Sending request=request_1 uri=http://computer-database.gatling.io/computers: scenario=BasicSimulation, userId=1
+14:20:34.749 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Write request WritableRequest{request=DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: UnpooledByteBufAllocator$InstrumentedUnpooledUnsafeHeapByteBuf(ridx: 0, widx: 0, cap: 0))
+GET /computers HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+DNT: 1
+Accept-Language: en-US,en;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+Referer: http://computer-database.gatling.io/
+accept-encoding: gzip, deflate
+origin: http://computer-database.gatling.io
+host: computer-database.gatling.io, content=null}
+14:20:34.785 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Server: nginx/1.12.1
+Date: Sun, 18 Nov 2018 14:20:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 7197
+Connection: keep-alive
+Keep-Alive: timeout=5'
+14:20:34.785 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 837, cap: 837/837, unwrapped: PooledUnsafeDirectByteBuf(ridx: 1024, widx: 1024, cap: 1024)), decoderResult: success)'
+14:20:34.786 [gatling-http-1-2] DEBUG io.gatling.http.client.impl.HttpAppHandler - Read msg='DefaultLastHttpContent(data: PooledSlicedByteBuf(ridx: 0, widx: 6360, cap: 6360/6360, unwrapped: PooledUnsafeDirectByteBuf(ridx: 6360, widx: 6360, cap: 16384)), decoderResult: success)'
+14:20:34.807 [gatling-http-1-2] DEBUG io.gatling.core.action.Pause - Pausing for 5000ms (real=4980ms)
+
+================================================================================
+2018-11-18 14:20:38                                           5s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_1                                                (OK=1      KO=0     )
+> request_1 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[--------------------------------------------------------------------------]  0%
+          waiting: 0      / active: 1      / done: 0
+================================================================================
+
+14:20:39.806 [GatlingSystem-akka.actor.default-dispatcher-5] DEBUG io.gatling.core.action.Exit - End user #1
+14:20:39.812 [GatlingSystem-akka.actor.default-dispatcher-5] INFO io.gatling.core.controller.inject.Injector - All users of scenario BasicSimulation are stopped
+14:20:39.812 [GatlingSystem-akka.actor.default-dispatcher-5] INFO io.gatling.core.controller.inject.Injector - Stopping
+14:20:39.813 [GatlingSystem-akka.actor.default-dispatcher-4] INFO io.gatling.core.controller.Controller - Injector has stopped, initiating graceful stop
+
+================================================================================
+2018-11-18 14:20:39                                           6s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_1                                                (OK=1      KO=0     )
+> request_1 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[##########################################################################]100%
+          waiting: 0      / active: 0      / done: 1
+================================================================================
+
+14:20:39.900 [GatlingSystem-akka.actor.default-dispatcher-3] INFO io.gatling.core.controller.Controller - StatsEngineStopped
+Simulation me.jvt.hacking.BasicSimulation completed in 5 seconds
+Parsing log file(s)...
+14:20:39.950 [main] INFO io.gatling.charts.stats.LogFileReader - Collected ArrayBuffer(/home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/results/basicsimulation-20181118142033626/simulation.log) from basicsimulation-20181118142033626
+14:20:39.957 [main] INFO io.gatling.charts.stats.LogFileReader - First pass
+14:20:39.963 [main] INFO io.gatling.charts.stats.LogFileReader - First pass done: read 5 lines
+14:20:39.971 [main] INFO io.gatling.charts.stats.LogFileReader - Second pass
+14:20:39.999 [main] INFO io.gatling.charts.stats.LogFileReader - Second pass: read 5 lines
+Parsing log file(s) done
+Generating reports...
+
+================================================================================
+---- Global Information --------------------------------------------------------
+> request count                                          2 (OK=2      KO=0     )
+> min response time                                     37 (OK=37     KO=-     )
+> max response time                                    122 (OK=122    KO=-     )
+> mean response time                                    80 (OK=80     KO=-     )
+> std deviation                                         43 (OK=43     KO=-     )
+> response time 50th percentile                         80 (OK=80     KO=-     )
+> response time 75th percentile                        101 (OK=101    KO=-     )
+> response time 95th percentile                        118 (OK=118    KO=-     )
+> response time 99th percentile                        121 (OK=121    KO=-     )
+> mean requests/sec                                  0.333 (OK=0.333  KO=-     )
+---- Response Time Distribution ------------------------------------------------
+> t < 25 ms                                              0 (  0%)
+> 25 ms < t < 50 ms                                      1 ( 50%)
+> t > 50 ms                                              1 ( 50%)
+> failed                                                 0 (  0%)
+================================================================================
+
+Reports generated in 0s.
+Please open the following file: /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/results/basicsimulation-20181118142033626/index.html

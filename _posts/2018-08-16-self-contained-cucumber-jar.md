@@ -450,12 +450,12 @@ OK (2 tests)
 
 We're now building a JAR for our Cucumber tests, which allows us to build once and run many times. We have confidence in releasing our JARs by writing tests for our steps, meaning we're able to release our tests before we actually run them against our API, as we are happy they'll do what they are meant to.
 
-Note that I've also implemented this process for Gatling, which follows a very similar set of instructions. I'll be creating a follow-up article with the Gatling steps, but you can [vote on the <i class="fa fa-gitlab"></i> issue][issue-gatling-article] to make me aware you'd like it prioritised.
+Note that I've also implemented this process for Gatling, which follows a very similar set of instructions. I've created a follow-up article with the Gatling steps in [_Creating a versionable, self-contained (fat-/uber-) JAR for Gatling tests_][fat-gatling-jar].
 
 [our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/5367d363f4038dcce2cec5a04856dc3d7c9afc0e/pom.xml
 [update our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/cccd0c167eb444cb1c8d7cf9e09eb23b564b4b4e/pom.xml
 [hooking into the `integration-test` phase in our parent POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/d1f3458a0b6e601d0043f65afe1344a9308c7de3/pom.xml
 [resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
 [fat-cucumber-jar]: https://gitlab.com/jamietanna/fat-cucumber-jar
-[issue-gatling-article]: https://gitlab.com/jamietanna/jvt.me/issues/265
+[fat-gatling-jar]: {% post_url 2018-11-19-self-contained-gatling-jar %}
 [amending the `CucumberOptions` annotation]: https://gitlab.com/jamietanna/fat-cucumber-jar/commit/8e61448d656bd39b4f2e3daa0d3391bbec2decd1
