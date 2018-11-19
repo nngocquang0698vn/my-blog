@@ -1,0 +1,144 @@
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -------------------< me.jvt.hacking:fat-gatling-jar >-------------------
+[INFO] Building fat-gatling-jar 0.3
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ fat-gatling-jar ---
+[INFO] Deleting /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/target
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ fat-gatling-jar ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ fat-gatling-jar ---
+[INFO] No sources to compile
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ fat-gatling-jar ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/src/test/resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ fat-gatling-jar ---
+[INFO] No sources to compile
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ fat-gatling-jar ---
+[INFO] No tests to run.
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ fat-gatling-jar ---
+[INFO] Building jar: /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/target/fat-gatling-jar-0.3.jar
+[INFO]
+[INFO] --- gatling-maven-plugin:3.0.0:test (BasicSimulation) @ fat-gatling-jar ---
+Simulation me.jvt.hacking.BasicSimulation started...
+
+================================================================================
+2018-11-18 14:03:45                                           5s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_1                                                (OK=1      KO=0     )
+> request_1 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[--------------------------------------------------------------------------]  0%
+          waiting: 0      / active: 1      / done: 0
+================================================================================
+
+
+================================================================================
+2018-11-18 14:03:47                                           6s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_1                                                (OK=1      KO=0     )
+> request_1 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[##########################################################################]100%
+          waiting: 0      / active: 0      / done: 1
+================================================================================
+
+Simulation me.jvt.hacking.BasicSimulation completed in 5 seconds
+Parsing log file(s)...
+Parsing log file(s) done
+Generating reports...
+
+================================================================================
+---- Global Information --------------------------------------------------------
+> request count                                          2 (OK=2      KO=0     )
+> min response time                                     32 (OK=32     KO=-     )
+> max response time                                    117 (OK=117    KO=-     )
+> mean response time                                    75 (OK=75     KO=-     )
+> std deviation                                         43 (OK=43     KO=-     )
+> response time 50th percentile                         75 (OK=75     KO=-     )
+> response time 75th percentile                         96 (OK=96     KO=-     )
+> response time 95th percentile                        113 (OK=113    KO=-     )
+> response time 99th percentile                        116 (OK=116    KO=-     )
+> mean requests/sec                                  0.333 (OK=0.333  KO=-     )
+---- Response Time Distribution ------------------------------------------------
+> t < 25 ms                                              0 (  0%)
+> 25 ms < t < 50 ms                                      1 ( 50%)
+> t > 50 ms                                              1 ( 50%)
+> failed                                                 0 (  0%)
+================================================================================
+
+Reports generated in 0s.
+Please open the following file: /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/target/gatling/basicsimulation-20181118140340625/index.html
+[INFO]
+[INFO] --- gatling-maven-plugin:3.0.0:test (OtherSimulation) @ fat-gatling-jar ---
+Simulation me.jvt.hacking.OtherSimulation started...
+
+================================================================================
+2018-11-18 14:03:57                                           5s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_2                                                (OK=1      KO=0     )
+> request_2 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[--------------------------------------------------------------------------]  0%
+          waiting: 0      / active: 1      / done: 0
+================================================================================
+
+
+================================================================================
+2018-11-18 14:03:58                                           6s elapsed
+---- Requests ------------------------------------------------------------------
+> Global                                                   (OK=2      KO=0     )
+> request_2                                                (OK=1      KO=0     )
+> request_2 Redirect 1                                     (OK=1      KO=0     )
+
+---- BasicSimulation -----------------------------------------------------------
+[##########################################################################]100%
+          waiting: 0      / active: 0      / done: 1
+================================================================================
+
+Simulation me.jvt.hacking.OtherSimulation completed in 5 seconds
+Parsing log file(s)...
+Parsing log file(s) done
+Generating reports...
+
+================================================================================
+---- Global Information --------------------------------------------------------
+> request count                                          2 (OK=2      KO=0     )
+> min response time                                     39 (OK=39     KO=-     )
+> max response time                                    105 (OK=105    KO=-     )
+> mean response time                                    72 (OK=72     KO=-     )
+> std deviation                                         33 (OK=33     KO=-     )
+> response time 50th percentile                         72 (OK=72     KO=-     )
+> response time 75th percentile                         89 (OK=89     KO=-     )
+> response time 95th percentile                        102 (OK=102    KO=-     )
+> response time 99th percentile                        104 (OK=104    KO=-     )
+> mean requests/sec                                  0.333 (OK=0.333  KO=-     )
+---- Response Time Distribution ------------------------------------------------
+> t < 25 ms                                              0 (  0%)
+> 25 ms < t < 50 ms                                      1 ( 50%)
+> t > 50 ms                                              1 ( 50%)
+> failed                                                 0 (  0%)
+================================================================================
+
+Reports generated in 0s.
+Please open the following file: /home/jamie/workspaces/jvt.me/tmp/fat-gatling-jar/target/gatling/othersimulation-20181118140352474/index.html
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  33.747 s
+[INFO] Finished at: 2018-11-18T14:03:59Z
+[INFO] ------------------------------------------------------------------------

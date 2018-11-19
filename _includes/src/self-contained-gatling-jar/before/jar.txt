@@ -1,0 +1,15 @@
+% ls -al target/*.jar
+-rw-r--r-- 1 jamie jamie 2019 Nov 18 14:03 target/fat-gatling-jar-0.3.jar
+% unzip -l target/*.jar
+Archive:  target/fat-gatling-jar-0.3.jar
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2018-11-18 14:03   META-INF/
+      131  2018-11-18 14:03   META-INF/MANIFEST.MF
+        0  2018-11-18 14:03   META-INF/maven/
+        0  2018-11-18 14:03   META-INF/maven/me.jvt.hacking/
+        0  2018-11-18 14:03   META-INF/maven/me.jvt.hacking/fat-gatling-jar/
+     2563  2018-11-18 14:03   META-INF/maven/me.jvt.hacking/fat-gatling-jar/pom.xml
+      112  2018-11-18 14:03   META-INF/maven/me.jvt.hacking/fat-gatling-jar/pom.properties
+---------                     -------
+     2903                     8 files
