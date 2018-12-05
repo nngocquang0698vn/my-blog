@@ -333,7 +333,7 @@ Outside of pure technical roles, you also have people management or project mana
 
 That doesn't mean this list isn't exhaustive, there are no doubt tonnes of other roles which may be of interest.
 
-If any of these roles sound of interest, [Capital One are hiring](https://rolp.co/i3LJa)! And if you're interested in Grad/Intern roles let me know and I can keep you posted for when they're open.
+If any of these roles sound of interest, Capital One are always hiring! And if you're interested in Grad/Intern roles let me know and I can keep you posted for when they're open.
 
 ### Employers shouldn't necessarily just look at grades (in an ideal world) / You should aim for more than "just a degree"
 
