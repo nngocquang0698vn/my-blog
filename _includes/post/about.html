@@ -9,7 +9,7 @@
 			<a name="about"></a>
 			Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>{{ updatedDates }}.
 		</p>
-		<p>Content for this article is shared under the terms of the {% assign prose = site.data.licenses[page.licenses.prose] %}<a href="{{ prose.url }}">{{ prose.long_name }}</a>, and code is shared under {% assign code = site.data.licenses[page.licenses.code] %}<a href="{{ code.url }}">{{ code.long_name }}</a>.</p>
+		<p>Content for this article is shared under the terms of the {{ page.licenses.prose | spdx_link_name }}, and code is shared under {{ page.licenses.code | spdx_link_name }}.</p>
 
 		{% if post.canonical_url %}
 		<p>This article was originally posted on <a href="{{ post.canonical_url }}">{{ post.canonical_url }}</a>.</p>
