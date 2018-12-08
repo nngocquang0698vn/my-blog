@@ -43,8 +43,8 @@ defaults:
       toc: true
       is_post: true
       licenses:
-        code: Apache-20
-        prose: CC-BY-NC-SA-40
+        code: Apache-2.0
+        prose: CC-BY-NC-SA-4.0
 
 collections:
   projects:
@@ -100,4 +100,5 @@ plugins:
   - jekyll-git_metadata
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-spdx_licenses
   - jekyll-toc

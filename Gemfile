@@ -11,6 +11,7 @@ group :build do
   gem 'json'
   gem 'pushbullet_ruby'
   gem 'rouge'
+  gem 'jekyll-spdx_licenses'
 end
 
 group :test do
