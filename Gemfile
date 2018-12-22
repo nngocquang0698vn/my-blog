@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 group :build do
+  gem 'hash-joiner'
   gem 'jekyll'
   gem 'jekyll-git_metadata'
   gem 'jekyll-last-modified-at'
