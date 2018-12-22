@@ -71,6 +71,7 @@ gulp.task('jekyll-rebuild', ['do-build'], function () {
  */
 gulp.task('browser-sync', ['do-build'], function() {
 	browserSync({
+		open: false,
 		server: {
 			baseDir: '_site'
 		}
