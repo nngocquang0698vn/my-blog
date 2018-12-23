@@ -16,7 +16,7 @@ date: 2018-03-07
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 I use the gem [`knife-cookbook-doc`][knife-cookbook-doc] to autogenerate documentation from my Chef cookbooks. It allows me to ensure that documentation is kept right next to source files, which promotes changing of documentation at the same time as code, as well as make it easier to keep updated as it's a task that can be automated.
 

@@ -15,7 +15,7 @@ date: 2018-03-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 When testing that Chef's `template`s are being rendered correctly, the easiest way to do this is via `render_file(...).with_content(&block)`.
 

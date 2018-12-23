@@ -17,7 +17,7 @@ date: 2018-03-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 When running Rubocop from ChefDK 2 against the following code, we receive the error `Parenthesize the param lazy { ... } to make sure that the block will be associated with the lazy method call` twice:
 

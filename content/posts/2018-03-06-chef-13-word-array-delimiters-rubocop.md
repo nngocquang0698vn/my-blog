@@ -17,7 +17,7 @@ date: 2018-03-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 One recommended change with the new version of Rubocop is the error `%w-literals should be delimited by [ and ]`.
 

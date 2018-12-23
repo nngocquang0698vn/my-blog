@@ -17,7 +17,7 @@ date: 2018-03-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 ChefSpec doesn't execute `ruby_block`s by default, and instead requires you to manually trigger it within your test. In Chef 12, we would be able to do this by calling `block.old_run_action(:run)`:
 

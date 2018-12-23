@@ -17,7 +17,7 @@ date: 2018-03-09
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-{% include posts/chef-13/intro.html %}
+{{< partialCached "posts/chef-13/intro.html" >}}
 
 As mentioned in ['Chef 13 Upgrade: `knife-cookbook-doc` gem upgrade'][chef-13-knife-cookbook-doc] I use the [`knife-cookbook-doc`][knife-cookbook-doc] gem to autogenerate my cookbook documentation, with formatting of the formats:
 
