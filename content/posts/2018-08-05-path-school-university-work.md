@@ -1,8 +1,20 @@
 ---
 title: My Path from School to University to Work
 description: A look back at my journey up to now, the choices I've made, and what advice I have for others who are embarking on their own journeys into tech.
-categories: musings blogumentation
-tags: musings blogumentation capitalone career university nottingham school a-level gcse
+categories:
+- musings
+- blogumentation
+tags:
+- musings
+- blogumentation
+- capitalone
+- career
+- university
+- nottingham
+- school
+- a-level
+- gcse
+date: 2018-08-05
 ---
 **Note**: the below article is purely my point of view, and does not represent the perspectives of my employer(s), university, school, or any persons other than myself. This is purely meant to describe my journey, and isn't a set path to follow! It'll depend entirely on you as a person, and what path you want to take.
 

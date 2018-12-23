@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Emoji Support in Dunst
 description: How to see Emoji when using the Dunst notification system.
-categories: blogumentation
-tags: archlinux dunst dotfiles blogumentation emoji
-no_toc: true
+categories:
+- blogumentation
+tags:
+- archlinux
+- dunst
+- dotfiles
+- blogumentation
+- emoji
+date: 2018-03-01
 ---
 ## TL;DR
 

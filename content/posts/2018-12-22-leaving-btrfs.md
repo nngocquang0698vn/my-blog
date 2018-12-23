@@ -1,9 +1,13 @@
 ---
 title: Leaving BTRFS as my primary filesystem
 description: Why I'm moving away from using BTRFS as the primary filesystem on my personal devices, and why it had nothing to do with BTRFS itself.
-categories: thoughts
-tags: thoughts linux btrfs
-no_toc: true
+categories:
+- thoughts
+tags:
+- thoughts
+- linux
+- btrfs
+date: 2018-12-22
 ---
 I've been happily using [BTRFS] as my main filesystem for almost 3 years. However, I'm looking to retire my usage and replace it with a more boring filesystem.
 

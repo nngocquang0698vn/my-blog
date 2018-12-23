@@ -1,9 +1,12 @@
 ---
 title: Finally Returning to Full Time Work After 123 Days
 description: Receiving the final sign off after four months off for my ruptured appendix.
-categories: thoughts
-tags: appendix health
-no_toc: true
+categories:
+- thoughts
+tags:
+- appendix
+- health
+date: 2018-04-19
 ---
 Yesterday I met with my consultant for my final sign off - the bottom line being that _I'm all healed_!
 

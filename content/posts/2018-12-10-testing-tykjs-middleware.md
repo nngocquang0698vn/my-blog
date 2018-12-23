@@ -1,12 +1,22 @@
 ---
 title: Unit Testing Your TYK (TYKJS) Middleware
 description: Writing unit tests (in this case using Jasmine) for the TYK API Gateway's JavaScript middleware functionality.
-categories: blogumentation tyk tykjs
-tags: blogumentation tyk tykjs unit-testing testing javascript nodejs
+categories:
+- blogumentation
+- tyk
+- tykjs
+tags:
+- blogumentation
+- tyk
+- tykjs
+- unit-testing
+- testing
+- javascript
+- nodejs
 licenses:
   code: Apache-2.0
-no_toc: true
 image: /img/vendor/tyk.io.jpg
+date: 2018-12-10
 ---
 Since properly playing around with [Auth0] at Hackference, I've been looking into how to integrate this with tools like [`api.jvt.me`] and soon-to-be [IndieAuth] support to help me manage my personal identity services, and help me strive for Single Sign On everywhere!
 

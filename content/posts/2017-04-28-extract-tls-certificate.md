@@ -1,10 +1,15 @@
 ---
-layout: post
 title:  Extracting SSL/TLS Certificate Chains Using OpenSSL
 description: A quick one-liner to get you the full certificate chain in `.pem` format.
-categories: blogumentation
-tags: bash shell oneliner openssl certificates
-no_toc: true
+categories:
+- blogumentation
+tags:
+- bash
+- shell
+- oneliner
+- openssl
+- certificates
+date: 2017-04-28
 ---
 Have you ever needed to add a certificate to your certificate chain, for instance when trusting a new self-signed certificate?
 

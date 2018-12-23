@@ -1,8 +1,22 @@
 ---
 title: My editorial workflow for blog posts
 description: Taking you through the journey I go on when writing blog posts, from ideation to publishing the post.
-categories: blogumentation jvt.me
-tags: jvt.me website workflow ci gitlab git automation cli shell gitlab-ci review-apps
+categories:
+- blogumentation
+- jvt.me
+tags:
+- jvt.me
+- website
+- workflow
+- ci
+- gitlab
+- git
+- automation
+- cli
+- shell
+- gitlab-ci
+- review-apps
+date: 2018-09-12
 ---
 I'm a big fan of code review. We practice it heavily at Capital One, and [I strive to self-review personal/private projects][personal-code-review]. But when working on articles that I'm writing for my blog I also want to make sure that I've gone through a similar review process before publishing.
 

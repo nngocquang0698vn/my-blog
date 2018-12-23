@@ -1,10 +1,17 @@
 ---
 title: Serving Branches on a Subdomain using Caddy and GitLab Review Apps
 description: How to dynamically serve a branch on a subdomain for GitLab Review Apps using Caddy Labels.
-categories: guide
-tags: guide gitlab review-apps caddy howto deploy
+categories:
+- guide
+tags:
+- guide
+- gitlab
+- review-apps
+- caddy
+- howto
+- deploy
 image: /img/vendor/gitlab-wordmark.png
-no_toc: true
+date: 2018-04-15
 ---
 This post describes how to work with Caddy. I've previously written about how to use [GitLab Review Apps with Capistrano and Nginx][gitlab-review-apps-capistrano], which may be of interest.
 

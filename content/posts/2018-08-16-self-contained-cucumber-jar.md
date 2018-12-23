@@ -1,8 +1,18 @@
 ---
 title: 'Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests'
 description: Why you'd want a fat JAR and how you'd achieve it.
-categories: blogumentation
-tags: java cucumber testing jar artifact artefact maven uber-jar
+categories:
+- blogumentation
+tags:
+- java
+- cucumber
+- testing
+- jar
+- artifact
+- artefact
+- maven
+- uber-jar
+date: 2018-08-16
 ---
 There are three key reasons for why we would want a self-contained (fat-/uber-jar) JAR for Cucumber tests:
 

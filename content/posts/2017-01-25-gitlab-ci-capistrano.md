@@ -1,10 +1,16 @@
 ---
-layout: post
 title:  Continuous Delivery with Capistrano and GitLab Continuous Integration
 description: How to get up and running with using GitLab CI and the Capistrano deploy tool
-categories: guide
-tags: capistrano deploy ci gitlab docker
+categories:
+- guide
+tags:
+- capistrano
+- deploy
+- ci
+- gitlab
+- docker
 image: /img/vendor/gitlab-wordmark.png
+date: 2017-01-25
 ---
 
 [Capistrano][capistrano-rb] is a deploy tool written in Ruby that I adopted last year, and started use with `jvt.me`, `hacknotts.com` and `inspirewit.com`.

@@ -1,10 +1,16 @@
 ---
-layout: post
 title: How to run tests from the ChefDK in Docker
 description: How to get up and running with the ChefDK to perform common tests, such as unit tests and linting.
-categories: blogumentation chef
-tags: blogumentation chef chefdk docker
+categories:
+- blogumentation
+- chef
+tags:
+- blogumentation
+- chef
+- chefdk
+- docker
 image: /img/vendor/chef-logo.png
+date: 2018-12-05
 ---
 It can be really helpful to run your local ChefDK setup using Docker, rather than installing it on your workstation, to ensure that everything works with a clean ChefDK.
 

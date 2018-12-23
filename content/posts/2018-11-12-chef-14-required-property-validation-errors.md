@@ -1,11 +1,17 @@
 ---
-layout: post
 title: "Chef 14 Upgrade: Change in `ValidationFailed` error messages when setting `required` properties"
 description: The updated error message returned by a Chef `ValidationFailed` error, when you're specifying which properties are `required` on a custom resource.
-categories: blogumentation chef-14-upgrade
-tags: blogumentation chef-14-upgrade chef chefspec chef-14
-no_toc: true
+categories:
+- blogumentation
+- chef-14-upgrade
+tags:
+- blogumentation
+- chef-14-upgrade
+- chef
+- chefspec
+- chef-14
 image: /img/vendor/chef-logo.png
+date: 2018-11-12
 ---
 While upgrading one of my cookbooks to Chef 14.5.33 (ChefDK 3.3.23), I noticed some test failures around the title of exceptions raised by Chef's validation on `required` properties within custom resources.
 

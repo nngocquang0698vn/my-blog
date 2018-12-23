@@ -1,11 +1,13 @@
 ---
-layout: post
 title: My First Week Back to Working (Remotely) After Three Months
 description: How I've found the first week back to work after almost three months, and the productivity gains of working reduced hours.
-categories: thoughts
-tags: capitalone spectatdesigns
-no_toc: true
+categories:
+- thoughts
+tags:
+- capitalone
+- spectatdesigns
 image: /img/first-week-back-remote-work.png
+date: 2018-03-15
 ---
 After almost three months off work, due to my [Ruptured Appendix][ruptured-appendix], I started working again last week, albeit with reduced hours.
 

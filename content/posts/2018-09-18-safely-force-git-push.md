@@ -1,10 +1,15 @@
 ---
 title: "Safely Force Pushing with Git using `--force-with-lease=ref`"
 description: "How `git push --force-with-lease=ref` can save you from overriding others' changes on shared Git branches"
-categories: blogumentation git
-tags: git blogumentation cli
-no_toc: true
+categories:
+- blogumentation
+- git
+tags:
+- git
+- blogumentation
+- cli
 image: /img/vendor/git.png
+date: 2018-09-18
 ---
 There are times where you just _have_ to `git push --force`, such as, but not limited to, cleaning up your Git history on a branch ahead of a merge. But `git push --force` is super dangerous because it will wipe out whatever is on the branch _at the point you push_, so one solution is to just tell people not to push to the branch.
 

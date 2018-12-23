@@ -1,8 +1,20 @@
 ---
 title: Why You Should Be Unit Testing Your Functional Acceptance Tests
 description: A few reasons explaining why you should be writing unit tests for your functional tests.
-categories: persuasive software-testing
-tags: persuasive testing software-testing tdd bdd cucumber software-quality quality-engineering unit-testing
+categories:
+- persuasive
+- software-testing
+tags:
+- persuasive
+- testing
+- software-testing
+- tdd
+- bdd
+- cucumber
+- software-quality
+- quality-engineering
+- unit-testing
+date: 2018-11-07
 ---
 If this seems like a crazy idea, I recommend you to carry on reading, as it just might change your mind!
 

@@ -1,10 +1,19 @@
 ---
-layout: post
 title: 'Running `service` resources in Kitchen-Docker'
 description: How to get up and running with `service` resources when running Test Kitchen with the Docker driver, in this example for use with GitLab CI.
-categories: blogumentation chef kitchen docker
-tags: blogumentation chef kitchen docker howto
+categories:
+- blogumentation
+- chef
+- kitchen
+- docker
+tags:
+- blogumentation
+- chef
+- kitchen
+- docker
+- howto
 image: /img/vendor/chef-logo.png
+date: 2017-09-03
 ---
 
 When writing cookbooks, you need to actually test that they work. This is often done using [Test Kitchen][test-kitchen], a tool that allows you to converge your cookbooks on a real machine. There are a number of drivers that can be used, such as [kitchen-vagrant][kitchen-vagrant] and [kitchen-docker][kitchen-docker].

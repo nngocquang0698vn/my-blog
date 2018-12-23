@@ -1,10 +1,18 @@
 ---
 title: 'Chef 13 Upgrade: Deprecation of Namespace Collisions in Custom Resources'
 description: 'Preparing for breaking changes in Chef 14 by renaming `property_name` to `new_resource.property_name` in Custom Resources.'
-categories: blogumentation chef-13-upgrade
-tags: blogumentation chef-13-upgrade chef-13-upgrade-deprecation chef chef-13 chef-14
-no_toc: true
+categories:
+- blogumentation
+- chef-13-upgrade
+tags:
+- blogumentation
+- chef-13-upgrade
+- chef-13-upgrade-deprecation
+- chef
+- chef-13
+- chef-14
 image: /img/vendor/chef-logo.png
+date: 2018-03-07
 ---
 
 In Chef 12 and Chef 13, the following code would work, allowing the `file` resource to access the `my_content` property:

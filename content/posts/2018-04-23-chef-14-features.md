@@ -1,9 +1,18 @@
 ---
 title: "Morsels of Goodness: What's Cooking in Chef 14?"
 description: A look at the new features coming in the new Chef 14 release, as well as what to watch out for when upgrading.
-categories: chef-14
-tags: chef-14 chef foodcritic cookstyle rubocop ruby test-kitchen
+categories:
+- chef-14
+tags:
+- chef-14
+- chef
+- foodcritic
+- cookstyle
+- rubocop
+- ruby
+- test-kitchen
 image: /img/vendor/chef-logo.png
+date: 2018-04-23
 ---
 Update: I've also started to document [any interesting changes required for Chef 14](/posts/tags/chef-14-upgrade).
 

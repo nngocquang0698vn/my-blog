@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Chef 14: ChefSpec Coverage Reporting Deprecation"
 description: Noting the deprecation of using `ChefSpec::Coverage.start!` when using Chef 14 and above.
-categories: blogumentation chef-14-upgrade
-tags: chef-14 chef-14-upgrade chefspec test-coverage
-no_toc: true
+categories:
+- blogumentation
+- chef-14-upgrade
+tags:
+- chef-14
+- chef-14-upgrade
+- chefspec
+- test-coverage
 image: /img/vendor/chef-logo.png
+date: 2018-11-13
 ---
 Since [ChefSpec 7.1.2](https://github.com/chefspec/chefspec/tree/v7.1.2), the coverage reporting within ChefSpec is deprecated.
 

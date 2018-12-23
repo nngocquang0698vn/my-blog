@@ -1,9 +1,16 @@
 ---
 title: "Testing Chef's `ruby_block`s with ChefSpec"
 description: 'Testing implementation of a `ruby_block` in ChefSpec, to ensure that the code executes as expected'
-categories: blogumentation chef
-tags: blogumentation chef chefspec testing
+categories:
+- blogumentation
+- chef
+tags:
+- blogumentation
+- chef
+- chefspec
+- testing
 image: /img/vendor/chef-logo.png
+date: 2018-03-07
 ---
 I like to ensure that all my code is as well unit tested as possible, both so I can quickly iterate changes, and to ensure that future changes don't inadvertently break functionality.
 

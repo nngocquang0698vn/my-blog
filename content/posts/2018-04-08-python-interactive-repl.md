@@ -1,10 +1,16 @@
 ---
 title: Executing an Interactive Python Shell (REPL) for a Script
 description: 'Using `python -i` to get an interactive REPL after running a Python source file.'
-categories: blogumentation
-tags: cli python blogumentation tools howto
+categories:
+- blogumentation
+tags:
+- cli
+- python
+- blogumentation
+- tools
+- howto
 image: /img/vendor/python-logo-notext.png
-no_toc: true
+date: 2018-04-08
 ---
 Sometimes you want to be able to get a [REPL][repl] (**R**ead **E**val **P**rint **L**oop) shell when running a Python script. This can help you interactively test manipulations of data and functions with your code, without having to amend your script, write the file, and then re-run it.
 

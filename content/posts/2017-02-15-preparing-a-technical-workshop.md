@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Preparing a Technical Workshop - A Checklist
 description: What you need to remember to ask the organisers and what to consider in order to ensure your workshop goes smoothly.
+tags:
+- workshop
+- checklist
+- guide
 categories:
-tags: workshop checklist guide
-categories: guide
+- guide
+date: 2017-02-15
 ---
 
 There are a number of things that you need to know ahead of making a technical presentation. These have come out recently as part of preparing for the [InspireWIT 2017][inspirewit2017] conference at Capital One, but also leading on from previous presentations I've made. In order to make it easier for others to start on a presentation, I've documented them below.

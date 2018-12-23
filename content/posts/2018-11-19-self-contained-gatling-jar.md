@@ -1,9 +1,19 @@
 ---
 title: 'Creating a versionable, self-contained (fat-/uber-) JAR for Gatling tests'
 description: Why you'd want a fat JAR for your Gatling tests and how you'd achieve it.
-categories: blogumentation
-tags: java gatling testing jar artifact artefact maven uber-jar
+categories:
+- blogumentation
+tags:
+- java
+- gatling
+- testing
+- jar
+- artifact
+- artefact
+- maven
+- uber-jar
 image: /img/vendor/gatling-logo.png
+date: 2018-11-19
 ---
 ## Why
 

@@ -1,10 +1,18 @@
 ---
 title: Deploying to Netlify using GitLab CI
 description: 'How adding two lines to my `.gitlab-ci.yml` migrated my existing site from GitLab Pages to Netlify.'
-categories: guide
-tags: netlify gitlab-ci automation continuous-deployment ci deploy howto
-no_toc: true
+categories:
+- guide
+tags:
+- netlify
+- gitlab-ci
+- automation
+- continuous-deployment
+- ci
+- deploy
+- howto
 image: /img/vendor/netlify-full-logo-white.png
+date: 2018-04-12
 ---
 **Update** The code snippet below has been updated to point to `netlifyctl` rather than the `netlify` Node CLI, as `netlifyctl` is now the recommended CLI interface.
 

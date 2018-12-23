@@ -1,12 +1,22 @@
 ---
 title: TYKJS Middleware Gotcha When Base 64 Decoding Data
 description: "How to workaround the `Failed to base64 decode: illegal base64 data at input byte` error when trying to use `b64dec` in TYKJS middleware"
-categories: blogumentation tyk tykjs
-tags: blogumentation tyk tykjs unit-testing testing javascript nodejs
+categories:
+- blogumentation
+- tyk
+- tykjs
+tags:
+- blogumentation
+- tyk
+- tykjs
+- unit-testing
+- testing
+- javascript
+- nodejs
 licenses:
   code: Apache-2.0
-no_toc: true
 image: /img/vendor/tyk.io.jpg
+date: 2018-12-10
 ---
 As mentioned in [_Unit Testing Your TYK (TYKJS) Middleware_][unit-test-tykjs], I've recently been playing around with the [TYK API Gateway] and in this example I had been introspecting JSON Web Tokens (JWTs).
 

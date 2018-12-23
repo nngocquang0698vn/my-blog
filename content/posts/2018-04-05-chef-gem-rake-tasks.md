@@ -1,9 +1,22 @@
 ---
 title: Bundling Common Rake Tasks into a Gem
 description: 'An example of how to create a helper gem for common Rake task, using the real-world example of Chef cookbooks.'
-categories: guide gem
-tags: chef chefdk gem ruby rake foodcritic rubocop rspec knife-cookbook-doc gitlab-ci
+categories:
+- guide
+- gem
+tags:
+- chef
+- chefdk
+- gem
+- ruby
+- rake
+- foodcritic
+- rubocop
+- rspec
+- knife-cookbook-doc
+- gitlab-ci
 image: /img/vendor/chef-logo.png
+date: 2018-04-05
 ---
 **Note: The code snippets in this post are licensed as Apache-2.0 and available at [<i class="fa fa-gitlab"></i> jamietanna/example-cookbook-helper-gem][example-cookbook-helper-gem].**
 

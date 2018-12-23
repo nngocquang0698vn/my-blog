@@ -1,13 +1,17 @@
 ---
-layout: post
 title: "Backporting/Replaying Changes Using `git cherry-pick`"
 description: "Using `git cherry-pick` to make it easier to backport or replay Git commits across different versions of your codebase."
-categories: blogumentation git
-tags: blogumentation git git-cherry-pick
+categories:
+- blogumentation
+- git
+tags:
+- blogumentation
+- git
+- git-cherry-pick
 image: /img/vendor/git.png
-no_toc: true
 licenses:
   code: MIT
+date: 2018-10-28
 ---
 If you've ever supporting multiple versions of the same piece of software, you may need to apply fixes to each of the versions you're supporting. This could be backporting a fix that has been contributed to a newer version of the software, or vice versa.
 

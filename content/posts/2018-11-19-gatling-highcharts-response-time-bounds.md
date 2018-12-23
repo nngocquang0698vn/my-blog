@@ -1,11 +1,15 @@
 ---
-layout: post
 title: Tweaking Gatling HighCharts Response Time Bounds
 description: How to configure the bounds that Gatling marks your response times within for console output and graphing purposes.
-categories: blogumentation gatling
-tags: blogumentation gatling gatling-highcharts
-no_toc: true
+categories:
+- blogumentation
+- gatling
+tags:
+- blogumentation
+- gatling
+- gatling-highcharts
 image: /img/vendor/gatling-logo.png
+date: 2018-11-19
 ---
 It feels that since I've moved to having a [Fat/Uber- Jar for my Gatling tests][fat-gatling-jar], the reports that Gatling produces haven't quite looked the same.
 

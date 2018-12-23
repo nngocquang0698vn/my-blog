@@ -1,10 +1,15 @@
 ---
-layout: post
 title: GitLab Review Apps with Capistrano and Nginx
 description: Spinning up a version of your application on every push, so others don't have to manually get the code up and running locally.
-categories: guide
-tags: guide gitlab review-apps capistrano
+categories:
+- guide
+tags:
+- guide
+- gitlab
+- review-apps
+- capistrano
 image: /img/vendor/gitlab-wordmark.png
+date: 2017-07-18
 ---
 Note: This post describes how to work with Nginx. There is an alternate post on [Serving Branches with GitLab Review Apps using Caddy], which may be of interest.
 

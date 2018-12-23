@@ -1,10 +1,20 @@
 ---
-layout: post
 title: Building Chef Cookbooks with GitLab (Part 1)
 description: An introduction to how to build a cookbook using GitLab's Continuous Integration platform in conjunction with `kitchen-docker`.
-categories: guide chef gitlab
-tags: howto blogumentation gitlab chef test-kitchen docker gitlab-ci
+categories:
+- guide
+- chef
+- gitlab
+tags:
+- howto
+- blogumentation
+- gitlab
+- chef
+- test-kitchen
+- docker
+- gitlab-ci
 image: /img/vendor/chef-logo.png
+date: 2017-05-25
 ---
 
 ## Foreword

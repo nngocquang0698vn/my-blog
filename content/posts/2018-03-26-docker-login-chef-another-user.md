@@ -1,11 +1,14 @@
 ---
-layout: post
 title: 'Running `docker login` as another user in Chef'
 description: 'Hitting the error `permission denied while trying to connect to the Docker daemon socket` when trying to run `docker login` as a non-root user in Chef.'
-categories: blogumentation
-tags: docker chef blogumentation
-no_toc: true
+categories:
+- blogumentation
+tags:
+- docker
+- chef
+- blogumentation
 image: /img/vendor/chef-logo.png
+date: 2018-03-26
 ---
 Yesterday I was writing a cookbook, where I needed to log in to GitLab's private registry:
 

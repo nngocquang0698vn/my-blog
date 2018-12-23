@@ -1,11 +1,13 @@
 ---
-layout: post
 title: 'Smart is the New Black: Lightbulbs to Reflect a Modern Age'
 description: The future of lighting - using smart, long-lived lightbulbs that can be configured to only turn on when there's someone in the house.
-categories: internet-of-things
-tags: internet-of-things impact-nottingham
-no_toc: true
+categories:
+- internet-of-things
+tags:
+- internet-of-things
+- impact-nottingham
 canonical_url: http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/
+date: 2014-11-21
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/) for [Impact Nottingham](http://www.impactnottingham.com).
 

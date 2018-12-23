@@ -1,9 +1,14 @@
 ---
 title: Sharing Multiple SSH Sessions over the Same Network Socket
 description: Reusing network sockets for speed and reduction of authentication handshakes with OpenSSH.
-categories: blogumentation
-tags: blogumentation ssh openssh cli
-no_toc: true
+categories:
+- blogumentation
+tags:
+- blogumentation
+- ssh
+- openssh
+- cli
+date: 2018-05-04
 ---
 At Capital One, we deploy our services to the AWS Cloud, where I will sometimes need to SSH onto a development instance to debug using log files or by attaching a debugger.
 

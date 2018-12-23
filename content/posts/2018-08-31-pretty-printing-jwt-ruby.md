@@ -1,9 +1,16 @@
 ---
 title: Pretty Printing JSON Web Tokens (JWTs) on the Command Line using Ruby
 description: How to easily introspect and pretty print a JWT on the command line using Ruby's standard library, or using the ruby-jwt external library.
-categories: blogumentation
-tags: blogumentation ruby cli jwt json
+categories:
+- blogumentation
+tags:
+- blogumentation
+- ruby
+- cli
+- jwt
+- json
 image: /img/vendor/jwt.io.jpg
+date: 2018-08-31
 ---
 Let's say you're starting to work with JWTs, and to confirm that their payload is correct, you want to introspect their contents. However, you may be aware that JWTs can contain sensitive information such as the hostname of a server, personally identifiable information, or could be used as a bearer token to access a service, so you shouldn't really be introspecting it in some public space such as [JWT.io].
 

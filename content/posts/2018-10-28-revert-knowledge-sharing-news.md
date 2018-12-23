@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Revert 'Some knowledge-sharing news'
 description: The unfortunate decision to cancel my Packt training courses.
-categories: news
-tags: events chef testing tdd
-no_toc: true
+categories:
+- news
+tags:
+- events
+- chef
+- testing
+- tdd
+date: 2018-10-28
 ---
 It's an unfortunate decision to announce, but I've decided to discontinue my work with [Packt Publishing][packt] to create two Chef video training courses, as announced in [_Some exciting job and knowledge-sharing news_]({% post_url 2018-07-06-exciting-news %}#creating-chef-training-courses-with-packt-publishing).
 

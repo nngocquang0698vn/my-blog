@@ -1,9 +1,13 @@
 ---
 title: Being More Explicit on Content Licensing
 description: Why I'm re-licensing the code snippets and post content on my site is, and how I'm making it more obvious.
-categories: thoughts
-tags: thoughts site licensing
-no_toc: true
+categories:
+- thoughts
+tags:
+- thoughts
+- site
+- licensing
+date: 2018-07-29
 ---
 I was recently writing some code at work and remembered that I'd solved the issue before and had written a under [blogumentation][blogumentation] post about it. As I was about to copy-paste in the solution, I stopped myself, remembering that the site was explicitly licensed as GNU Affero General Public License V3. I share my blog with colleagues, and realised that they too were under the same risk. Therefore, I've decided a few changes:
 

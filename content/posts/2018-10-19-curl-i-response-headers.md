@@ -1,9 +1,13 @@
 ---
 title: Showing response headers with `curl -i`
 description: Showing just response headers when `curl`ing a resource, using `curl -i`.
-categories: blogumentation curl
-tags: blogumentation curl
-no_toc: true
+categories:
+- blogumentation
+- curl
+tags:
+- blogumentation
+- curl
+date: 2018-10-19
 ---
 Sometimes you want to `curl` a resource, while also receiving the response headers. In the past, I would reach for `curl -v`:
 

@@ -1,9 +1,17 @@
 ---
-layout: post
 title: Resurrecting dinosaurs, what could possibly go wrong?
 description: "How containerised apps (AppImage, Snappy and Flatpak) could eat our users"
-categories: fosdem
-tags: fosdem opensource containers docker flatpak snappy appimage
+categories:
+- fosdem
+tags:
+- fosdem
+- opensource
+- containers
+- docker
+- flatpak
+- snappy
+- appimage
+date: 2017-02-15
 ---
 > This article is developed from a talk by [Richard Brown at FOSDEM 2017][dinosaurs-fosdem]. Although aimed towards the desktop market, there are a lot of learnings that can be applied to the services ecosystem.
 

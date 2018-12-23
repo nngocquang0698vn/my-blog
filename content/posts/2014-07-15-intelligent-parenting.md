@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Intelligent Parenting
 description: Bringing the Internet of Things to the home, and to help monitor your children.
-categories: internet-of-things
-tags: internet-of-things impact-nottingham
-no_toc: true
+categories:
+- internet-of-things
+tags:
+- internet-of-things
+- impact-nottingham
 canonical_url: http://www.impactnottingham.com/2014/07/intelligent-parenting/
+date: 2014-07-15
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/07/intelligent-parenting/) for [Impact Nottingham](http://www.impactnottingham.com).
 

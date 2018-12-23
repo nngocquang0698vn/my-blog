@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Chef 14 Upgrade: Custom Resource Properties are Silently Coerced to `Hash` if they are a `nil`"
 description: Finding out that a `nil` gets silently coerced to an empty `Hash` if given to a custom resource's property of type `Hash`.
-categories: blogumentation chef-14-upgrade
-tags: chef-14 chef-14-upgrade chefspec test-coverage
-no_toc: true
+categories:
+- blogumentation
+- chef-14-upgrade
+tags:
+- chef-14
+- chef-14-upgrade
+- chefspec
+- test-coverage
 image: /img/vendor/chef-logo.png
+date: 2018-11-13
 ---
 While [upgrading to Chef 14](/posts/tags/chef-14-upgrade/), I found that `nil`s are being silently coerced to an empty `Hash`, `{}`.
 

@@ -1,11 +1,17 @@
 ---
-layout: post
 title: Setting your default AWS profile for the AWS CLI and SDKs
 description: Setting the default AWS profile when working with multiple profiles and the AWS CLI / SDKs.
-categories: blogumentation aws
-tags: blogumentation aws aws-cli aws-sdk command-line
-no_toc: true
+categories:
+- blogumentation
+- aws
+tags:
+- blogumentation
+- aws
+- aws-cli
+- aws-sdk
+- command-line
 image: /img/vendor/AmazonWebservices_Logo.png
+date: 2018-11-14
 ---
 If you're working with multiple AWS accounts, or at least multiple roles within the same account, you may be aware that you will have to have to specify the AWS profile you're working i.e. on the command line. This can be quite a pain if you're having to prefix each command you run with i.e. `aws --profile spectat_prod_read_only`.
 

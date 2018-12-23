@@ -1,9 +1,19 @@
 ---
 title: Some exciting job and knowledge-sharing news
 description: Moving into Quality Engineering, publishing Chef training courses, conference speaking about Chef at OggCamp and the complex mess that is this very static website at DevOpsDays London.
-categories: news
-tags: capitalone events chef testing conference job tdd oggcamp devopsdays
-no_toc: true
+categories:
+- news
+tags:
+- capitalone
+- events
+- chef
+- testing
+- conference
+- job
+- tdd
+- oggcamp
+- devopsdays
+date: 2018-07-06
 ---
 ## Moving into Quality Engineering
 

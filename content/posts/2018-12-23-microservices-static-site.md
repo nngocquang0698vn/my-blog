@@ -1,9 +1,16 @@
 ---
 title: Creating Microservices for my Static Website
 description: "Exploring moving data out of my site's remit and into its own 'microservices' which can be consumed at build-time, as well as via client-side JavaScript."
-categories: announcement
-tags: jamstack microservices jvt.me spectatdesigns netlifycms jekyll
-no_toc: true
+categories:
+- announcement
+tags:
+- jamstack
+- microservices
+- jvt.me
+- spectatdesigns
+- netlifycms
+- jekyll
+date: 2018-12-23
 ---
 As I mentioned in my [DevOpsDays London talk, _Overengineering Your Personal Website - How I Learn Things Best_][DevOpsDays talk], I want to overengineer my personal website a little bit more than it already is, and convert it into a fully fledged orchestration layer.
 

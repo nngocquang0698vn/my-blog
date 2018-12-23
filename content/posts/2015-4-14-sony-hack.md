@@ -1,11 +1,13 @@
 ---
-layout: post
 title: The Sony Hack
 description: A discussion about Sony Pictures Entertainment being hacked in the months before the release of the action comedy, The Interview, and its depiction of Kim Jong Un.
-categories: infosec
-tags: infosec impact-nottingham
-no_toc: true
+categories:
+- infosec
+tags:
+- infosec
+- impact-nottingham
 canonical_url: http://www.impactnottingham.com/2015/04/the-sony-hack/
+date: 2015-04-14
 ---
 > This article was [originally published](http://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](http://www.impactnottingham.com).
 

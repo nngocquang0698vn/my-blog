@@ -1,10 +1,17 @@
 ---
 title: 'Merging multiple repositories into a monorepo, while preserving history, using `git subtree`'
 description: 'How to merge multiple repositories, with their history, into a single repository, using the `git subtree add` command'
-categories: blogumentation howto
-tags: blogumentation git monorepo git-subtree cli
+categories:
+- blogumentation
+- howto
+tags:
+- blogumentation
+- git
+- monorepo
+- git-subtree
+- cli
 image: /img/vendor/git.png
-no_toc: true
+date: 2018-06-01
 ---
 When I started to give talks, either at [Hacksoc][hacksoc] or Meetups, I wanted a nice way to share both my slides and the sources, so others could see what I did to write them, as well as supporting my passion for Free Software and spreading knowledge.
 

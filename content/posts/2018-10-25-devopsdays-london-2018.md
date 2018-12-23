@@ -1,9 +1,27 @@
 ---
 title: DevOpsDays London 2018
 description: My writeup of my first DevOpsDays conference, and the awesome talks and conversations I was part of.
-categories: events devopsdays london
-tags: devopsdays aws cloud devops capitalone cloud-custodian dashboards bash monolith serverless management agile testing microservices
+categories:
+- events
+- devopsdays
+- london
+tags:
+- devopsdays
+- aws
+- cloud
+- devops
+- capitalone
+- cloud-custodian
+- dashboards
+- bash
+- monolith
+- serverless
+- management
+- agile
+- testing
+- microservices
 image: /img/vendor/devopsdays-london-2018.png
+date: 2018-10-25
 ---
 DevOpsDays London was awesome! The talks were all really interesting and informative and there were some really great conversations I was lucky to be part of.
 

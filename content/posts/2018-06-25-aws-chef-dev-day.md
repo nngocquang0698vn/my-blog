@@ -1,9 +1,21 @@
 ---
-layout: post
 title: Notes from the AWS + Chef Dev Day Roadshow in London
 description: "Notes from the AWS Dev Day Roadshow in London, where we got to play around with Chef, Chef Automate and InSpec using AWS OpsWorks."
-categories: events
-tags: aws chef events chef-server opsworks cloud-formation cloud-custodian deployment containers chef-automate inspec
+categories:
+- events
+tags:
+- aws
+- chef
+- events
+- chef-server
+- opsworks
+- cloud-formation
+- cloud-custodian
+- deployment
+- containers
+- chef-automate
+- inspec
+date: 2018-06-25
 ---
 Last Tuesday I travelled to London to attend the [AWS Dev Day Roadshow in London], where I'd be learning all about the intersection between Chef and AWS.
 

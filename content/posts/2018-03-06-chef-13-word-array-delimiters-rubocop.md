@@ -1,10 +1,19 @@
 ---
 title: 'Chef 13 Upgrade: Rubocop Changes for Word Array Literals (`%w`)'
 description: 'A one-liner shell command to fix Rubocop errors `%w-literals should be delimited by [ and ].`'
-categories: blogumentation chef-13-upgrade
-tags: blogumentation chef-13-upgrade chef-13-upgrade-rubocop chef rubocop chef-13 rubocop-0-49
-no_toc: true
+categories:
+- blogumentation
+- chef-13-upgrade
+tags:
+- blogumentation
+- chef-13-upgrade
+- chef-13-upgrade-rubocop
+- chef
+- rubocop
+- chef-13
+- rubocop-0-49
 image: /img/vendor/chef-logo.png
+date: 2018-03-06
 ---
 {% include posts/chef-13/intro.html %}
 

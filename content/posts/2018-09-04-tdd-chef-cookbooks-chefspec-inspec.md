@@ -1,9 +1,21 @@
 ---
 title: Test-Driven Chef Cookbook Development Using ChefSpec (and a sprinkling of InSpec)
 description: Using the example of deploying and running a Java JAR file as a way to show the lifecycle of a fully test-driven Chef cookbook.
-categories: blogumentation chef tdd
-tags: howto blogumentation chef test-kitchen chefspec tdd testing guide
+categories:
+- blogumentation
+- chef
+- tdd
+tags:
+- howto
+- blogumentation
+- chef
+- test-kitchen
+- chefspec
+- tdd
+- testing
+- guide
 image: /img/vendor/chef-logo.png
+date: 2018-09-04
 ---
 For the example of how to create a Chef cookbook in a truly test-driven manner, we'll be building a _relatively_ simple Chef cookbook for downloading and running a Java JAR file. Note that this post won't be going into the intricacies of _why_ you would practice TDD, just _how_ you'd do it with Chef through ChefSpec.
 

@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Viewing your diff while writing your commits with git commit --verbose
 description: Making it easier to write commit messages by having the diff in your editor.
-categories: blogumentation
-tags: git commit shell workflow
+categories:
+- blogumentation
+tags:
+- git
+- commit
+- shell
+- workflow
 image: /img/vendor/git.png
+date: 2017-06-01
 ---
 I am a firm believer of the fact that Git history should be documentation for the reasoning behind _why_ the code is as it is. As such, I take care to make my commits follow [Chris Beams' commit guidelines][git-commit], which usually involves writing the commit while reading the diff of what's changed, so I don't forget anything.
 
@@ -61,7 +66,6 @@ index 0000000..03deabc
 +++ b/_drafts/git-commit-verbose.md
 @@ -0,0 +1,22 @@
 +---
-+layout: post
 +title: `git commit --verbose`
 +description: Viewing your diff while writing your commits.
 +categories: blogumentation

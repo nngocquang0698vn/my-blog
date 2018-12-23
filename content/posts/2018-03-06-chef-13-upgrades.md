@@ -1,10 +1,22 @@
 ---
 title: 'Chef 13 Upgrade: Lessons Learnt and Documented for Posterity'
 description: 'Notes on the main problems encountered when upgrading from Chef 12 to Chef 13, both with ChefSpec and Rubocop.'
-categories: blogumentation chef-13-upgrade
-tags: blogumentation chef-13-upgrade chef-13-upgrade-rubocop chef-13-upgrade-chefspec chef rubocop chefspec chef-13 chefspec-7 rubocop-0-49
-no_toc: true
+categories:
+- blogumentation
+- chef-13-upgrade
+tags:
+- blogumentation
+- chef-13-upgrade
+- chef-13-upgrade-rubocop
+- chef-13-upgrade-chefspec
+- chef
+- rubocop
+- chefspec
+- chef-13
+- chefspec-7
+- rubocop-0-49
 image: /img/vendor/chef-logo.png
+date: 2018-03-06
 ---
 I've recently been working through upgrading my Chef 12 cookbooks to Chef 13, as Chef 12 is to be [End of Life'd in April 2018][chef-12-eol].
 
