@@ -46,4 +46,4 @@ To see this article in action, check out the asciicast:
 <asciinema-player src="/casts/pretty-printing-json-ruby-cli.json"></asciinema-player>
 
 [so-stdin]: https://stackoverflow.com/questions/273262/best-practices-with-stdin-in-ruby
-[pp-python-json]: {% post_url 2017-06-05-pretty-printing-json-cli %}
+[pp-python-json]: {{< ref 2017-06-05-pretty-printing-json-cli >}}

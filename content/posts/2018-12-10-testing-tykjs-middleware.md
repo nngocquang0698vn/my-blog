@@ -268,7 +268,7 @@ And that's it, it's as simple as injecting in some fake code, and leaving our ex
 [samplePostProcessMiddleware]: https://github.com/TykTechnologies/tyk/blob/v2.7.4/middleware/samplePostProcessMiddleware.js
 [unit-test-tykjs]: https://gitlab.com/jamietanna/unit-test-tykjs
 [new-issue]: https://gitlab.com/jamietanna/jvt.me/issues/new
-[blogumentation]: {% post_url 2017-06-25-blogumentation %}
+[blogumentation]: {{< ref 2017-06-25-blogumentation >}}
 [Auth0]: https://auth0.com/
 [`api.jvt.me`]: /projects/api.jvt.me
 [IndieAuth]: https://indieweb.org/indieauth

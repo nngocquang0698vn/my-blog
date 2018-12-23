@@ -88,4 +88,4 @@ You can see the asciicast in action:
 <asciinema-player src="/casts/pretty-printing-jwt-ruby-rubyjwt-library.json"></asciinema-player>
 
 [JWT.io]: https://jwt.io
-[Pretty Printing JSON with Ruby on the CLI]: {% post_url 2017-06-05-pretty-printing-json-cli %}
+[Pretty Printing JSON with Ruby on the CLI]: {{< ref 2017-06-05-pretty-printing-json-cli >}}

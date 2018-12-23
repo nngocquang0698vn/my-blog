@@ -127,9 +127,9 @@ Finally, as a way to future-proof my testing, I also made sure that my `b64dec` 
 It appears that [issue &#35;1808][tyk-issue-pad] covers this, and although a fix was made, this has not yet been resolved. I've reached out about looking to see if I can raise a PR to fix it.
 
 [stackoverflow]: https://stackoverflow.com/a/50857394/2257038
-[unit-test-tykjs]: {% post_url 2018-12-10-testing-tykjs-middleware %}
+[unit-test-tykjs]: {{< ref 2018-12-10-testing-tykjs-middleware >}}
 [TYK API Gateway]: https://tyk.io/
-[decode-jwt]: {% post_url 2018-08-31-pretty-printing-jwt-ruby %}
+[decode-jwt]: {{< ref 2018-08-31-pretty-printing-jwt-ruby >}}
 [Docker]: https://@github.com/lonelycode/tyk-gateway-docker
 [tykjs-go]: https://github.com/TykTechnologies/tyk/blob/v2.7.4/mw_js_plugin.go#L421-L438
 [stackoverflow-b64-encode]: https://stackoverflow.com/a/23097961/2257038

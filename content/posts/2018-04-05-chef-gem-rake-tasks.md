@@ -387,7 +387,7 @@ There will be a follow-up post to describe how I build out my GitLab CI configur
 [chefspec]: https://github.com/chefspec/chefspec
 [berkshelf]: https://github.com/berkshelf/berkshelf
 [knife-cookbook-doc]: https://github.com/realityforge/knife-cookbook-doc/
-[chef-13-upgrade]: {% post_url 2018-03-06-chef-13-upgrades %}
+[chef-13-upgrade]: {{< ref 2018-03-06-chef-13-upgrades >}}
 [fc-12-2-1-fail]: https://github.com/Foodcritic/foodcritic/blob/v12.2.1/lib/foodcritic/rake_task.rb#L37
 [semver]: http://guides.rubygems.org/patterns/#semantic-versioning
 [example-cookbook-helper-gem]: https://gitlab.com/jamietanna/example-cookbook-helper-gem

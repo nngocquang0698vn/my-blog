@@ -49,4 +49,4 @@ A couple of points to note:
 - by using an `expect` here, instead of an `allow`, Rspec will raise an error if `run_state_public_key` isn't received
 - `.and_call_original` ensures we will preserve original functionality of `run_state_public_key`
 
-[testing-ruby_block-chefspec]: {% post_url 2018-03-07-testing-ruby_block-chefspec %}
+[testing-ruby_block-chefspec]: {{< ref 2018-03-07-testing-ruby_block-chefspec >}}

@@ -24,7 +24,7 @@ index eda0a67..5daffc9 160000
 +Subproject commit 5daffc976c4a8769129f98733c961a0df90d0246
 ```
 
-When trying to write commit messages, via [{% post_title 2017-06-01-git-commit-verbose %}], I've found that there's nothing really useful in the diff that I can describe as I'm writing the commit. To gain some understanding of what's happened in the submodule, I run:
+When trying to write commit messages, via [_Viewing your diff while writing your commits with `git commit --verbose`_][git-commit-verbose], I've found that there's nothing really useful in the diff that I can describe as I'm writing the commit. To gain some understanding of what's happened in the submodule, I run:
 
 ```
 $ git log --oneline eda0a676f655da9e909464eec6a028757b880bf0...5daffc976c4a8769129f98733c961a0df90d0246
@@ -140,6 +140,6 @@ And adding:
 
 [Git Submodules]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
-[{% post_title 2017-06-01-git-commit-verbose %}]: {% post_url 2017-06-01-git-commit-verbose %}
+[git-commit-verbose]: {{< ref 2017-06-01-git-commit-verbose >}}
 [so-submodule-diff]: https://stackoverflow.com/questions/10757091/git-list-of-all-changed-files-including-those-in-submodules
 

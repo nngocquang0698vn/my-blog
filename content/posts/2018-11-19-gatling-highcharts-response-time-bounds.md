@@ -88,5 +88,5 @@ As well as doing the same within the report:
 
 ![Response times split between the higher and lower bounds within the Gatling report](/img/gatling-highcharts-response-time-bounds/after.png).
 
-[fat-gatling-jar]: {% post_url 2018-11-19-self-contained-gatling-jar %}
+[fat-gatling-jar]: {{< ref 2018-11-19-self-contained-gatling-jar >}}
 [gatling-defaults]: https://github.com/gatling/gatling/blob/master/gatling-core/src/main/resources/gatling-defaults.conf

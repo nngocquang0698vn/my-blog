@@ -49,4 +49,4 @@ $ berks
 Using java (x.x.x)
 ```
 
-[self-signed-certs-chefdk]: {% post_url 2017-08-17-self-signed-certs-chefdk %}
+[self-signed-certs-chefdk]: {{< ref 2017-08-17-self-signed-certs-chefdk >}}

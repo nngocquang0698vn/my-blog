@@ -94,5 +94,5 @@ This then makes sure that _just when testing_, ChefSpec will know how to use tha
 As mentioned, this can be a really nice pattern for reducing complexity in resource-testing recipes, as well as remove the fake recipes from being used accidentally by our cookbook consumers.
 
 [Custom Resources]: https://docs.chef.io/custom_resources.html
-[tdd-chef]: {% post_url 2018-09-04-tdd-chef-cookbooks-chefspec-inspec %}
+[tdd-chef]: {{< ref 2018-09-04-tdd-chef-cookbooks-chefspec-inspec >}}
 [line cookbook]: https://github.com/sous-chefs/line

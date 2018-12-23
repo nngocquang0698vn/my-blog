@@ -94,5 +94,5 @@ As mentioned, I've found it most beneficial being in a place where the feedback 
 
 And if you're following this pattern with Java, I'd greatly recommend creating a [Cucumber JARtifact][cucumber-jar]. This is a really great pattern for improving the split of your implementation (Cucumber) code and the unit tests itself.
 
-[cucumber-jar]: {% post_url 2018-08-16-self-contained-cucumber-jar %}
+[cucumber-jar]: {{< ref 2018-08-16-self-contained-cucumber-jar >}}
 [Mutation Testing]: https://en.wikipedia.org/wiki/Mutation_testing

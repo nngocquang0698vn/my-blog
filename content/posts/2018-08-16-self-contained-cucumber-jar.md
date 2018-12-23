@@ -36,7 +36,7 @@ This is likely a separate post altogether but the short of it is that until you 
 
 This has the added bonus if you're in a situation where you can write your test changes ahead-of-time to the implementation changes, you can make the changes, release the artefact, and wait for the implementation changes to be tested against the new contract.
 
-**Update**: I've expanded on this point in the article [_Why You Should Be Unit Testing Your Functional (i.e. Cucumber) Tests_]({% post_url 2018-11-07-unit-test-functional-tests %}).
+**Update**: I've expanded on this point in the article [_Why You Should Be Unit Testing Your Functional (i.e. Cucumber) Tests_]({{< ref 2018-11-07-unit-test-functional-tests >}}).
 
 ### "Why would I want a versionable JAR?"
 
@@ -467,7 +467,7 @@ Note that I've also implemented this process for Gatling, which follows a very s
 [our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/5367d363f4038dcce2cec5a04856dc3d7c9afc0e/pom.xml
 [update our POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/cccd0c167eb444cb1c8d7cf9e09eb23b564b4b4e/pom.xml
 [hooking into the `integration-test` phase in our parent POM]: https://gitlab.com/jamietanna/fat-cucumber-jar/blob/d1f3458a0b6e601d0043f65afe1344a9308c7de3/pom.xml
-[resurrecting-dinosaurs]: {% post_url 2017-02-15-resurrecting-dinosaurs %}
+[resurrecting-dinosaurs]: {{< ref 2017-02-15-resurrecting-dinosaurs >}}
 [fat-cucumber-jar]: https://gitlab.com/jamietanna/fat-cucumber-jar
-[fat-gatling-jar]: {% post_url 2018-11-19-self-contained-gatling-jar %}
+[fat-gatling-jar]: {{< ref 2018-11-19-self-contained-gatling-jar >}}
 [amending the `CucumberOptions` annotation]: https://gitlab.com/jamietanna/fat-cucumber-jar/commit/8e61448d656bd39b4f2e3daa0d3391bbec2decd1

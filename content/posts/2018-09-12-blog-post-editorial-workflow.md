@@ -172,7 +172,7 @@ Hopefully this helps share some light on what's working for me and whether there
 [articles-issue-board]: https://gitlab.com/jamietanna/jvt.me/boards/320660
 [jekyll-promote]: https://gitlab.com/jamietanna/dotfiles-arch/commit/821acdfcbe70776a6f67db71f0023c3e4402d96d
 [review-apps]: https://about.gitlab.com/features/review-apps/
-[review-apps-caddy]: {% post_url 2018-04-15-caddy-gitlab-review-apps %}
+[review-apps-caddy]: {{< ref 2018-04-15-caddy-gitlab-review-apps >}}
 [matomo]: https://matomo.org/
 [gitflow]: https://github.com/nvie/gitflow
 [netlify-branch-preview]: https://www.netlify.com/docs/continuous-deployment/

@@ -118,7 +118,7 @@ Finally, we also need to give it access to the [cgroups][cgroups] config, which 
 [kitchen-vagrant]: https://github.com/test-kitchen/kitchen-vagrant
 [kitchen-docker]: https://github.com/test-kitchen/kitchen-docker
 [chef-service-resource]: https://docs.chef.io/resource_service.html
-[chef-docker-gitlab-ci-article]: {% post_url 2017-05-25-chef-gitlab-ci-kitchen-docker %}
+[chef-docker-gitlab-ci-article]: {{< ref 2017-05-25-chef-gitlab-ci-kitchen-docker >}}
 [init]: https://en.wikipedia.org/wiki/Init
 [cap-sys-admin-lwn]: https://lwn.net/Articles/486306/
 [cgroups]: https://en.wikipedia.org/wiki/Cgroups

@@ -48,7 +48,7 @@ Let us take the example above, and we come in on `https://example-review-apps.ww
 
 [caddy-community-review-apps]: https://caddy.community/t/serving-different-roots-from-a-wildcard-host/3510/7?u=jamietanna
 
-[gitlab-review-apps-capistrano]: {% post_url 2017-07-18-gitlab-review-apps-capistrano %}
+[gitlab-review-apps-capistrano]: {{< ref 2017-07-18-gitlab-review-apps-capistrano >}}
 [caddy-https]: https://caddyserver.com/docs/automatic-https
 [gitlab-ci-vars]: https://docs.gitlab.com/ce/ci/variables/README.html
 [nginx-regex]: https://nginx.org/en/docs/http/server_names.html#regex_names

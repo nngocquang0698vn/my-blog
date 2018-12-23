@@ -28,4 +28,4 @@ $ openssl s_client -showcerts -connect "internal-supermarket.example.com:443" < 
 
 Note that this can be applied to _any_ hosts inside your network that require communication over HTTPS, not just your Supermarket.
 
-[extract-tls-certificate]: {% post_url 2017-04-28-extract-tls-certificate %}
+[extract-tls-certificate]: {{< ref 2017-04-28-extract-tls-certificate >}}

@@ -62,7 +62,7 @@ I set this as the secret variable `NETLIFY_ACCESS_TOKEN` in the GitLab repo's `C
 Then, [we can see a deploy succeeds][deploy], and you can now access the site at [https://talks.jvt.me](https://talks.jvt.me), with certificates managed by Netlify, and provisioned by [Let's Encrypt][le].
 
 [netlify]: https://netlify.com
-[review-apps]: {% post_url 2017-07-18-gitlab-review-apps-capistrano %}
+[review-apps]: {{< ref 2017-07-18-gitlab-review-apps-capistrano >}}
 [package-deps]: https://gitlab.com/jamietanna/talks/issues/13
 [netlify-cli]: https://www.netlify.com/docs/cli/
 [appl]: https://app.netlify.com/account/applications

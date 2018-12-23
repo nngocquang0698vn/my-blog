@@ -53,4 +53,4 @@ Thanks to [Jack Gough](https://www.testingsyndicate.com/) for a tip on reducing 
 [so-stdin]: https://stackoverflow.com/questions/273262/best-practices-with-stdin-in-ruby
 [otobrglez-gist]: https://gist.github.com/otobrglez/66274639697f377de8ec8047a248b8f0
 [unix-philosophy]: https://en.wikipedia.org/wiki/Unix_philosophy
-[python-mjson]: {% post_url 2017-06-05-pretty-printing-json-cli %}
+[python-mjson]: {{< ref 2017-06-05-pretty-printing-json-cli >}}

@@ -130,7 +130,7 @@ You may be running in an environment where your services are not publicly access
 
 ### Trusting Internal Certificates
 
-Following the steps in [_Trusting Self-Signed Certificates from the Chef Development Kit_]({% post_url 2017-08-17-self-signed-certs-chefdk %}), we would want to modify Chef's certificates to trust the internal certificate. However, if we want to use our upstream images as-is, we can instead mount a custom CA certs bundle into the image, otherwise we would receive an error similar to:
+Following the steps in [_Trusting Self-Signed Certificates from the Chef Development Kit_]({{< ref 2017-08-17-self-signed-certs-chefdk >}}), we would want to modify Chef's certificates to trust the internal certificate. However, if we want to use our upstream images as-is, we can instead mount a custom CA certs bundle into the image, otherwise we would receive an error similar to:
 
 ```
 $ docker run --rm -w=/cookbook -v $PWD/java:/cookbook -ti chef/chefdk:3.5.13 berks
@@ -166,7 +166,7 @@ Using test (0.1.0) from source at test/fixtures/cookbooks/test
 
 ### Not using proxy for internal hosts
 
-If we've got an internal Supermarket and are operating behind a proxy, we'd want to follow the steps within [_`SSLError` When Running Berkshelf Behind a Proxy_]({% post_url 2018-02-16-berkshelf-proxy-workaround %}) and add our Supermarket's FQDN to our `no_proxy`. I.e. when we're running our ChefSpec tests:
+If we've got an internal Supermarket and are operating behind a proxy, we'd want to follow the steps within [_`SSLError` When Running Berkshelf Behind a Proxy_]({{< ref 2018-02-16-berkshelf-proxy-workaround >}}) and add our Supermarket's FQDN to our `no_proxy`. I.e. when we're running our ChefSpec tests:
 
 ```
 $ docker run --rm -e no_proxy=supermarket.example.com -w=/cookbook -v $PWD/java:/cookbook -ti chef/chefdk:3.5.13 rspec

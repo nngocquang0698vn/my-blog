@@ -422,7 +422,7 @@ I started off the space by prompting with my "learn by doing" attitude that I'd 
 
 Pairing was called out as a great way to impart knowledge, especially as it forces the person driving to share their thoughts out loud for the navigator.
 
-A few participants mentioned that we should be careful not to alienate our juniors by describing terminology with further terminology. This is something I've been trying to keep in mind when talking to everyone, not just juniors, which I've written about in my article [_Context is key: thinking about your audience_]({% post_url 2018-08-16-context-is-king %}).
+A few participants mentioned that we should be careful not to alienate our juniors by describing terminology with further terminology. This is something I've been trying to keep in mind when talking to everyone, not just juniors, which I've written about in my article [_Context is key: thinking about your audience_]({{< ref 2018-08-16-context-is-king >}}).
 
 > With so much in the tech stack now, where would you even start?
 
@@ -469,7 +469,7 @@ Regarding a comment about university group projects being good for teamwork skil
 
 Guest lectures were mentioned as a route to get more students gaining industry insight, as it'll help engage students by giving them persons in the tech industry who would be able to share "best practices". However, again, I felt that I i.e. didn't actually "get Agile" until I was practicing it. It was all well and good having workshops and people speaking about it, but until I'd done it in a real environment it didn't help.
 
-I've expanded on my thoughts about University preparing you for work (in general, not specifically around DevOps) in [_My Path from School to University to Work_]({% post_url 2018-08-05-path-school-university-work %}), which I'd recommend reading.
+I've expanded on my thoughts about University preparing you for work (in general, not specifically around DevOps) in [_My Path from School to University to Work_]({{< ref 2018-08-05-path-school-university-work >}}), which I'd recommend reading.
 
 Another comment on this was again reminding that DevOps is a cultural change, and is about the breaking down of silos to encourage better collaboration, which means that it's more the people skills than the technical ones.
 
@@ -539,7 +539,7 @@ I want to say another huge thanks to the organisers, it was a really great coupl
 [blameless-failure]: https://www.emmabutton.co.uk/post/blameless-failure/
 [Travis CI in April]: https://blog.travis-ci.com/2018-04-03-incident-post-mortem
 [gitlab-db-2017]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
-[aws-chef-day]: {% post_url 2018-06-25-aws-chef-dev-day %}
+[aws-chef-day]: {{< ref 2018-06-25-aws-chef-dev-day >}}
 [clmystery]: https://github.com/veltman/clmystery
 [stephenmann]: https://stephenmann.io/
 [tf-modules]: https://www.terraform.io/docs/modules/index.html
@@ -548,4 +548,4 @@ I want to say another huge thanks to the organisers, it was a really great coupl
 [cloud-custodian]: https://github.com/capitalone/cloud-custodian
 [bats]: https://github.com/bats-core/bats-core
 [ddd]: https://en.wikipedia.org/wiki/Domain-driven_design
-[anchor-appendix]: {% post_url 2018-02-16-2017-in-review %}#ruptured-appendix
+[anchor-appendix]: {{< ref 2018-02-16-2017-in-review >}}#ruptured-appendix

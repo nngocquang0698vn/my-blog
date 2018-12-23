@@ -146,5 +146,5 @@ That being said, our test hasn't been updated to check that the method was calle
 
 This ensures that we'll defer to the expected implementation if we're calling it with the correct arguments, and in the case we're not calling it with expected arguments, we'll break the test by raising an error.
 
-[chef-13-ruby_block]: {% post_url 2018-03-06-chef-13-ruby_block-chefspec %}
+[chef-13-ruby_block]: {{< ref 2018-03-06-chef-13-ruby_block-chefspec >}}
 [chef-libraries]: https://docs.chef.io/libraries.html

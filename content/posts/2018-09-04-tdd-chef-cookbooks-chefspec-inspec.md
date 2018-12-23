@@ -2073,5 +2073,5 @@ We've discovered how best to test-drive a Chef cookbook, using ChefSpec as our m
 [Java community cookbook]: https://supermarket.chef.io/cookbooks/java
 [jar-deploy-cookbook]: https://gitlab.com/jamietanna/jar-deploy-cookbook
 [remote_file]: https://docs.chef.io/resource_remote_file.html
-[include_recipe]: {% post_url 2017-07-16-chef-testing-include_recipe %}
+[include_recipe]: {{< ref 2017-07-16-chef-testing-include_recipe >}}
 [Ohai's]: https://github.com/chef/ohai

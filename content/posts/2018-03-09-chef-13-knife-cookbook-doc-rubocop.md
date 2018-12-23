@@ -55,5 +55,5 @@ Layout/LeadingCommentSpace:
     - 'attributes/default.rb'
 ```
 
-[chef-13-knife-cookbook-doc]: {% post_url 2018-03-07-chef-13-knife-cookbook-doc %}
+[chef-13-knife-cookbook-doc]: {{< ref 2018-03-07-chef-13-knife-cookbook-doc >}}
 [knife-cookbook-doc]: https://github.com/realityforge/knife-cookbook-doc
