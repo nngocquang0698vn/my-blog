@@ -13,3 +13,12 @@ enableGitInfo = true
   posts = "/posts/:year/:month/:day/:slug/"
   tags = "/posts/tags/:title/"
   categories = "/posts/categories/:title/"
+
+# https://discourse.gohugo.io/t/how-can-i-change-the-rss-url/118/17
+[outputs]
+home = [ "RSS", "HTML"]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
