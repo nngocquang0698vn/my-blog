@@ -8,6 +8,8 @@ tags:
 - spectatdesigns
 image: /img/first-week-back-remote-work.png
 date: 2018-03-15
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 After almost three months off work, due to my [Ruptured Appendix][ruptured-appendix], I started working again last week, albeit with reduced hours.
 

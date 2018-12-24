@@ -14,6 +14,8 @@ tags:
 - chef-13-upgrade-rubocop
 image: /img/vendor/chef-logo.png
 date: 2018-03-09
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 {% include posts/chef-13/intro.html %}
 

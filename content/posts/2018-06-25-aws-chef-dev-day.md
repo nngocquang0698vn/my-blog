@@ -16,6 +16,8 @@ tags:
 - chef-automate
 - inspec
 date: 2018-06-25
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Last Tuesday I travelled to London to attend the [AWS Dev Day Roadshow in London], where I'd be learning all about the intersection between Chef and AWS.
 

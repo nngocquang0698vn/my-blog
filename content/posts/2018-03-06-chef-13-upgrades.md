@@ -17,6 +17,8 @@ tags:
 - rubocop-0-49
 image: /img/vendor/chef-logo.png
 date: 2018-03-06
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 I've recently been working through upgrading my Chef 12 cookbooks to Chef 13, as Chef 12 is to be [End of Life'd in April 2018][chef-12-eol].
 

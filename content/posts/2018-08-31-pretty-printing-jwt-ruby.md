@@ -11,6 +11,8 @@ tags:
 - json
 image: /img/vendor/jwt.io.jpg
 date: 2018-08-31
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Let's say you're starting to work with JWTs, and to confirm that their payload is correct, you want to introspect their contents. However, you may be aware that JWTs can contain sensitive information such as the hostname of a server, personally identifiable information, or could be used as a bearer token to access a service, so you shouldn't really be introspecting it in some public space such as [JWT.io].
 

@@ -16,6 +16,8 @@ tags:
 - guide
 image: /img/vendor/chef-logo.png
 date: 2018-09-04
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 For the example of how to create a Chef cookbook in a truly test-driven manner, we'll be building a _relatively_ simple Chef cookbook for downloading and running a Java JAR file. Note that this post won't be going into the intricacies of _why_ you would practice TDD, just _how_ you'd do it with Chef through ChefSpec.
 

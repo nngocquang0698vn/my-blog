@@ -8,6 +8,8 @@ categories:
 - persuasive
 image: /img/vendor/gitlab-wordmark.png
 date: 2017-03-25
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 
 ## tl;dr

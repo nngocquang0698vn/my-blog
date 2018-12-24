@@ -10,6 +10,8 @@ tags:
 - cli
 image: /img/vendor/git.png
 date: 2018-09-18
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 There are times where you just _have_ to `git push --force`, such as, but not limited to, cleaning up your Git history on a branch ahead of a merge. But `git push --force` is super dangerous because it will wipe out whatever is on the branch _at the point you push_, so one solution is to just tell people not to push to the branch.
 

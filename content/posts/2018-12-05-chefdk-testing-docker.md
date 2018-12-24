@@ -11,6 +11,8 @@ tags:
 - docker
 image: /img/vendor/chef-logo.png
 date: 2018-12-05
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 It can be really helpful to run your local ChefDK setup using Docker, rather than installing it on your workstation, to ensure that everything works with a clean ChefDK.
 

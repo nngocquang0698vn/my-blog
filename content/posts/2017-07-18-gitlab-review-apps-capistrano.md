@@ -10,6 +10,8 @@ tags:
 - capistrano
 image: /img/vendor/gitlab-wordmark.png
 date: 2017-07-18
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Note: This post describes how to work with Nginx. There is an alternate post on [Serving Branches with GitLab Review Apps using Caddy], which may be of interest.
 

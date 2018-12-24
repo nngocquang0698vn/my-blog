@@ -17,6 +17,8 @@ tags:
 - gitlab-ci
 image: /img/vendor/chef-logo.png
 date: 2018-04-05
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 **Note: The code snippets in this post are licensed as Apache-2.0 and available at [<i class="fa fa-gitlab"></i> jamietanna/example-cookbook-helper-gem][example-cookbook-helper-gem].**
 

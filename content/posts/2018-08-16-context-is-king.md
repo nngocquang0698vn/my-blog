@@ -9,6 +9,8 @@ tags:
 - capitalone
 - context
 date: 2018-08-16
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 ## Uninclusive Conversations
 

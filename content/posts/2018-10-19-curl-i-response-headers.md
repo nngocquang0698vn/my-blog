@@ -8,6 +8,8 @@ tags:
 - blogumentation
 - curl
 date: 2018-10-19
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Sometimes you want to `curl` a resource, while also receiving the response headers. In the past, I would reach for `curl -v`:
 

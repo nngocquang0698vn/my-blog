@@ -8,6 +8,8 @@ tags:
 - ruby
 - json
 date: 2018-06-18
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 This is a follow up to the popular post [Pretty Printing JSON on the Command Line with Python][pp-python-json] that uses Ruby to perform the pretty-printing.
 

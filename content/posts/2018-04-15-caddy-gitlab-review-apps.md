@@ -12,6 +12,8 @@ tags:
 - deploy
 image: /img/vendor/gitlab-wordmark.png
 date: 2018-04-15
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 This post describes how to work with Caddy. I've previously written about how to use [GitLab Review Apps with Capistrano and Nginx][gitlab-review-apps-capistrano], which may be of interest.
 

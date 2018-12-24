@@ -8,6 +8,8 @@ tags:
 - git
 image: /img/vendor/git.png
 date: 2017-06-07
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 ## Intro
 

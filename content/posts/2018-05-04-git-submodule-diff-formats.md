@@ -9,6 +9,8 @@ tags:
 - cli
 image: /img/vendor/git.png
 date: 2018-05-04
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 I've recently been playing around with [Git Submodules] a little bit more, and have been frustrated by the output of `git diff`s:
 

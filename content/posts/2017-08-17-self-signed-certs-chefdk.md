@@ -11,6 +11,8 @@ tags:
 - berkshelf
 image: /img/vendor/chef-logo.png
 date: 2017-08-17
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 If you're writing Chef cookbooks in a corporate environment, you may be developing against services on your internal network. As the services are not going to be exposed externally, the certificate used for HTTPS will be an intranet-only/self-signed cert, and therefore will require you to manually add it to your trust store.
 

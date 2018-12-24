@@ -11,6 +11,8 @@ tags:
 - testing
 image: /img/vendor/chef-logo.png
 date: 2018-03-07
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 I like to ensure that all my code is as well unit tested as possible, both so I can quickly iterate changes, and to ensure that future changes don't inadvertently break functionality.
 

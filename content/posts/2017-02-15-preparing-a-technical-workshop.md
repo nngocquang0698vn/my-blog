@@ -8,6 +8,8 @@ tags:
 categories:
 - guide
 date: 2017-02-15
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 
 There are a number of things that you need to know ahead of making a technical presentation. These have come out recently as part of preparing for the [InspireWIT 2017][inspirewit2017] conference at Capital One, but also leading on from previous presentations I've made. In order to make it easier for others to start on a presentation, I've documented them below.

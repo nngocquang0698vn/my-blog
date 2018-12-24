@@ -10,6 +10,8 @@ tags:
 - chefdk
 image: /img/vendor/chef-logo.png
 date: 2017-08-12
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 
 You may find that when running ChefSpec on your Chef cookbook, you may hit an error such as the following, spouting `Permission denied`:

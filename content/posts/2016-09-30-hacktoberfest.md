@@ -10,6 +10,8 @@ tags:
 - freesoftware
 - community
 date: 2016-09-30
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 ## On Hacktoberfest
 

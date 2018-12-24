@@ -7,6 +7,8 @@ tags:
 - appendix
 - health
 date: 2018-04-19
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Yesterday I met with my consultant for my final sign off - the bottom line being that _I'm all healed_!
 

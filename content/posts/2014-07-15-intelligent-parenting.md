@@ -8,6 +8,8 @@ tags:
 - impact-nottingham
 canonical_url: http://www.impactnottingham.com/2014/07/intelligent-parenting/
 date: 2014-07-15
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/07/intelligent-parenting/) for [Impact Nottingham](http://www.impactnottingham.com).
 

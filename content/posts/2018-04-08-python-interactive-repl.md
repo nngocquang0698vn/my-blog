@@ -11,6 +11,8 @@ tags:
 - howto
 image: /img/vendor/python-logo-notext.png
 date: 2018-04-08
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Sometimes you want to be able to get a [REPL][repl] (**R**ead **E**val **P**rint **L**oop) shell when running a Python script. This can help you interactively test manipulations of data and functions with your code, without having to amend your script, write the file, and then re-run it.
 

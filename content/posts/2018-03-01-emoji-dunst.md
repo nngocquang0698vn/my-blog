@@ -10,6 +10,8 @@ tags:
 - blogumentation
 - emoji
 date: 2018-03-01
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 ## TL;DR
 

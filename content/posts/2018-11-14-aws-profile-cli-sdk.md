@@ -12,6 +12,8 @@ tags:
 - command-line
 image: /img/vendor/AmazonWebservices_Logo.png
 date: 2018-11-14
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 If you're working with multiple AWS accounts, or at least multiple roles within the same account, you may be aware that you will have to have to specify the AWS profile you're working i.e. on the command line. This can be quite a pain if you're having to prefix each command you run with i.e. `aws --profile spectat_prod_read_only`.
 

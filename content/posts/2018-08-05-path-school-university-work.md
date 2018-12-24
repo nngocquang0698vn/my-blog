@@ -15,6 +15,8 @@ tags:
 - a-level
 - gcse
 date: 2018-08-05
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 **Note**: the below article is purely my point of view, and does not represent the perspectives of my employer(s), university, school, or any persons other than myself. This is purely meant to describe my journey, and isn't a set path to follow! It'll depend entirely on you as a person, and what path you want to take.
 

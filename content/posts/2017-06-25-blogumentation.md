@@ -9,6 +9,8 @@ tags:
 - blogumentation
 - thoughts
 date: 2017-06-25
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 You may have noticed that recently I've been writing more articles, often tagged under [`blogumentation`][blogumentation]. These short articles are concerned with documenting a piece of information about certain workflow-enhancing tips, and I find they fit under a term I have coined `blogumentation`, that is, blog posts as a form of documentation.
 

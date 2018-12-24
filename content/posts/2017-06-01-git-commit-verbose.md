@@ -10,6 +10,8 @@ tags:
 - workflow
 image: /img/vendor/git.png
 date: 2017-06-01
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 I am a firm believer of the fact that Git history should be documentation for the reasoning behind _why_ the code is as it is. As such, I take care to make my commits follow [Chris Beams' commit guidelines][git-commit], which usually involves writing the commit while reading the diff of what's changed, so I don't forget anything.
 

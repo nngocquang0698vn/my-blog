@@ -11,6 +11,8 @@ tags:
 - der
 - openssl
 date: 2018-11-02
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 Let's say that we have a certificate in a file, such as `cert.crt`:
 

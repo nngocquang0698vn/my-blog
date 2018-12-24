@@ -10,6 +10,8 @@ tags:
 - testing
 - rspec
 date: 2018-03-07
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 While working on [Testing Chef's `ruby_block`s with ChefSpec][testing-ruby_block-chefspec], I found that I was struggling to find any resources explaining my seemingly niche request:
 

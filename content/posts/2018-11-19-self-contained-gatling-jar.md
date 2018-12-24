@@ -14,6 +14,8 @@ tags:
 - uber-jar
 image: /img/vendor/gatling-logo.png
 date: 2018-11-19
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
 ---
 ## Why
 
