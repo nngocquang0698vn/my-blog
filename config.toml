@@ -1,5 +1,7 @@
 title = "Jamie Tanna | Software (Quality) Engineer"
 
+languageCode = "en-GB"
+
 # allow fenced code blocks, instead of `{{< highlight ... >}}` shortcodes,
 # which are unwieldly and less fun than using pure Markdown syntax
 pygmentsCodeFences = true
