@@ -18,7 +18,7 @@ It can be really helpful to run your local ChefDK setup using Docker, rather tha
 
 I'll be taking you through this process, while avoiding editing the existing upstream image, instead overriding specific functionality using command-line flags on the host.
 
-## Getting it running
+# Getting it running
 
 Let us assume that we're using ChefDK version v3.5.13, but this should be valid for any other ChefDK version. We can start this off by checking the versions of the core ChefDK tools by running:
 
@@ -32,7 +32,7 @@ kitchen version: 1.23.2
 inspec version: 3.0.52
 ```
 
-## Running our unit tests + linting
+# Running our unit tests + linting
 
 We'll use the [Java cookbook](https://github.com/sous-chefs/java) in this example, as it's got all aspects of cookbook workflow to try out.
 
@@ -65,7 +65,7 @@ CHANGELOG.md  Dangerfile          README.md    templates
 chefignore    libraries           recipes      test
 ```
 
-### Cookstyle
+## Cookstyle
 
 Now we have our setup ready, we want to run our code style checks through `cookstyle`:
 
@@ -77,7 +77,7 @@ Inspecting 68 files
 68 files inspected, no offenses detected
 ```
 
-### FoodCritic
+## FoodCritic
 
 For our Chef-specific linting, we run `foodcritic`:
 
@@ -87,7 +87,7 @@ Checking 11 files
 ...........
 ```
 
-### ChefSpec
+## ChefSpec
 
 If we want to check that our unit tests pass successfully, we'd run `rspec`:
 
@@ -109,12 +109,12 @@ Finished in 0.69453 seconds (files took 2.4 seconds to load)
 56 examples, 0 failures
 ```
 
-## Test Kitchen
+# Test Kitchen
 
 Depending on which driver you're using, this step may or not be possible - for instance, getting a Vagrant instance running from a Docker image _may not_ be possible.
 
 
-### Kitchen-EC2
+## Kitchen-EC2
 
 Depending on how you have the [EC2 driver for Test-Kitchen, kitchen-ec2][kitchen-ec2] configured, you _may_ have a configuration file in your home directory (`~/.kitchen/config.yml`) which has configuration such as default tags for an instance. This will need to be mounted into the image:
 
@@ -124,11 +124,11 @@ $ docker run --rm -w=/cookbook -v ~/.kitchen/config.yml:/root/.kitchen/config.ym
 
 Note that this all should work as long as the docker image can access the EC2 metadata endpoint (see [Not using the proxy for the EC2 Metadata Endpoint](#not-using-the-proxy-for-the-ec2-metadata-endpoint) below), you're good to go!
 
-## Hey, what about internal setups?
+# Hey, what about internal setups?
 
 You may be running in an environment where your services are not publicly accessible, or are having to route through a proxy. The following changes may be required:
 
-### Trusting Internal Certificates
+## Trusting Internal Certificates
 
 Following the steps in [_Trusting Self-Signed Certificates from the Chef Development Kit_]({{< ref 2017-08-17-self-signed-certs-chefdk >}}), we would want to modify Chef's certificates to trust the internal certificate. However, if we want to use our upstream images as-is, we can instead mount a custom CA certs bundle into the image, otherwise we would receive an error similar to:
 
@@ -164,7 +164,7 @@ Installing windows (5.2.2)
 Using test (0.1.0) from source at test/fixtures/cookbooks/test
 ```
 
-### Not using proxy for internal hosts
+## Not using proxy for internal hosts
 
 If we've got an internal Supermarket and are operating behind a proxy, we'd want to follow the steps within [_`SSLError` When Running Berkshelf Behind a Proxy_]({{< ref 2018-02-16-berkshelf-proxy-workaround >}}) and add our Supermarket's FQDN to our `no_proxy`. I.e. when we're running our ChefSpec tests:
 
@@ -172,7 +172,7 @@ If we've got an internal Supermarket and are operating behind a proxy, we'd want
 $ docker run --rm -e no_proxy=supermarket.example.com -w=/cookbook -v $PWD/java:/cookbook -ti chef/chefdk:3.5.13 rspec
 ```
 
-### Not using the proxy for the EC2 Metadata Endpoint
+## Not using the proxy for the EC2 Metadata Endpoint
 
 If you're using i.e. kitchen-ec2 as a Test Kitchen driver, you'll also need to add the EC2 metadata endpoint to your `no_proxy` list:
 

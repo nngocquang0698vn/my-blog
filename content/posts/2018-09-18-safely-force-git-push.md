@@ -17,7 +17,7 @@ There are times where you just _have_ to `git push --force`, such as, but not li
 
 This isn't great UX, so Git added a lesser-known flag to `git push` which makes it slightly safer to force push to a shared branch.
 
-## Setup
+# Setup
 
 Let us assume we have one shared repository called `upstream`, onto which we have a shared feature branch `update` which we are committing to:
 
@@ -150,7 +150,7 @@ index 0000000..ce01362
 
 Great, this has set up the case where there has been some divergence between `copy-0` and the `upstream`.
 
-## Without `--force-with-lease`
+# Without `--force-with-lease`
 
 If we push with `--force`, but _not_ `--force-with-lease`:
 
@@ -202,7 +202,7 @@ index 0000000..ce01362
 +hello
 ```
 
-## With `--force-with-lease`
+# With `--force-with-lease`
 
 However, if we now push with `--force` _and_ `--force-with-lease`:
 
@@ -249,7 +249,7 @@ index 0000000..ce01362
 +hello
 ```
 
-## Caveats
+# Caveats
 
 Unfortunately, this is a little too good to be true. As called out by the [Stack Overflow question] around it, it seems that if at any point you've refreshed your Git references with a `git fetch` or a `git pull`, you'll won't be safe:
 
@@ -285,7 +285,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Note that the ref could be one of many Git refs, such as the branch name.
 
-## How does it all work?
+# How does it all work?
 
 So how does this work? When using the 'lease', Git negotiates with the remote to determine whether its local set of refs are aligned with the refs of the branch the local client is pushing to - if these are different, we're told we have "stale info", otherwise we'll be able to push normally.
 

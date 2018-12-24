@@ -17,7 +17,7 @@ date: 2018-07-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## Moving into Quality Engineering
+# Moving into Quality Engineering
 
 I'm excited to announce that I will be moving from Software Engineering to Quality Engineering at Capital One! There's a great opportunity that has just opened up, and I feel I'm ready to try out something a bit different.
 
@@ -29,7 +29,7 @@ Quality Engineering itself has always been something I've been interested in - I
 
 I'm also looking to share some of the practices I've pushed a lot in Software Engineering such as code reuse and standardisation, as well as my deep understanding of the AWS and Chef infrastructure internally. I'm hoping to bring more of that knowledge into the QE department, as well as share practices back into the SE department, too.
 
-## Creating Chef Training Courses with Packt Publishing
+# Creating Chef Training Courses with Packt Publishing
 
 **Update: As detailed in [_Revert "Some knowledge-sharing news"_]({{< ref 2018-10-28-revert-knowledge-sharing-news >}}) I will no longer be writing these courses.**
 
@@ -44,13 +44,13 @@ Both courses will share practices that can be found in older Chef versions but w
 
 I'm currently a couple of weeks into the _Hands On_ course, which should be landing some time in Q4 after which I'll start work on _Learning Chef 14_ which should be released for Q1.
 
-## Speaking at OggCamp
+# Speaking at OggCamp
 
 I'm really happy to announce I'll be speaking at [OggCamp] in August about [Infrastructure as Cake - Testing Your Configuration Management in the Kitchen, with Sprinkles and Love][chef-infrastructure-as-cake].
 
 This is the first time I'll be attending OggCamp, which if I remember correctly, I'd heard about from the folks on [Late Night Linux][lnl]. It sounds like it's gonna be a great event, and I'm looking to having a great focus on the digital rights and Free/Open Source Software, which often is a talk or two at a conference, not the main theme.
 
-## Speaking at DevOpsDays London
+# Speaking at DevOpsDays London
 
 I've also been selected to talk at DevOpsDays London about [overengineering my personal website][website-talk], a talk I've not yet had the chance to do. It's called an "ignite" talk, which means I'll have 5 minutes to speak over auto-incrementing slides, so I'll need to have a fair bit of practice required in order to hit the timings right. It's not a talk style I've done before, nor this talk itself, so I'll be very interested to see how it goes.
 

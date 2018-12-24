@@ -19,7 +19,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
 
-## Foreword
+# Foreword
 
 **Want a TL;DR?** - Go to the [GitLab CI](#gitlab-ci) section, for the snippet you'll need to add to your `.gitlab-ci.yml` file to add integration test support.
 
@@ -29,13 +29,13 @@ This tutorial expects you have the [Chef Development Kit (ChefDK)][chefdk] and [
 
 Note: This tutorial is using `master` as the primary branch for development. This is not the method in which I normally work, which I will expand on in the next part of the series.
 
-## Bootstrapping
+# Bootstrapping
 
 We'll start by creating a new cookbook, by running `chef exec generate cookbook user-cookbook`. This is going to be a pretty boring cookbook which will create a user and optionally create a file in their home directory.
 
 Let's start by [pushing the code up][cmt-1] to GitLab, i.e. `git remote add origin git@gitlab.com:jamietanna/user-cookbook.git && git push -u origin master`.
 
-## Creating a Recipe
+# Creating a Recipe
 
 Now we have our empty cookbook available, let's start [adding some functionality][cmt-2]:
 
@@ -74,7 +74,7 @@ end
 
 Now let's push this to GitLab.
 
-## Initial CI Setup
+# Initial CI Setup
 
 As we've not configured anything in GitLab CI to run, we won't actually have any automated means of determining whether the code we're pushing is correct or not.
 
@@ -96,9 +96,9 @@ test:
 
 Which now means that when we push to GitLab, our [CI][ci-3] process runs our unit tests against the code.
 
-## Making Our Recipe More Useful
+# Making Our Recipe More Useful
 
-### Having a configurable user
+## Having a configurable user
 
 Now, having a cookbook that only ever creates a single, hardcoded, user isn't actually very useful. So let's make it possible to configure it [via our cookbook's attributes][cmt-4] ([CI][ci-4]):
 
@@ -148,7 +148,7 @@ describe 'user-cookbook::default' do
 end
 ```
 
-### Having a configurable group
+## Having a configurable group
 
 So what if we want to [specify the `group` of the user][cmt-5] ([CI][ci-5])?
 
@@ -207,7 +207,7 @@ describe 'user-cookbook::default' do
 end
 ```
 
-### Create a file for the user
+## Create a file for the user
 
 Next, we will create a file, owned by the user, in their own home directory, [which is done as follows][cmt-6] ([CI][ci-6]):
 
@@ -275,13 +275,13 @@ describe 'user-cookbook::default' do
 end
 ```
 
-## Integration Testing
+# Integration Testing
 
 As well as writing unit tests to ensure that at the component level we have a fully tested set of recipes, we also need to ensure that once the recipes are used in conjunction, everything still works. This is where we can bring in our integration tests.
 
 Now, it's not often worth running integration tests against all combinations of machines you're going to run against, every time you commit. I prefer to run them when it gets to `develop`, or as it is on its way to `master`. However, we'll cover this workflow in the next part of the series, and for now, we'll run it on every commit.
 
-### Local Testing
+## Local Testing
 
 The most common method of integration testing cookbooks is by using [Vagrant][vagrant]. However, I've found that can be a little slow, as it has the overhead of requiring a full Virtual Machine. We can instead speed up our testing by using Docker (which conveniently means that we can use the same method of integration testing both locally and as part of our pipelines.
 
@@ -359,11 +359,11 @@ suites:
 
 After running another `kitchen converge`, it turns out that _actually_ things aren't quite working!
 
-### Fixing integration test issues
+## Fixing integration test issues
 
 When we look at the errors returned by Chef, we can see a couple of glaring issues in the test suites.
 
-#### `custom_group` test suite
+### `custom_group` test suite
 
 It looks like it's trying to add `jamie` to the `test` group, which is what we expected. But what we didn't know is that the group needs to be created _before_ we can add it to the group. This is the reason we do integration tests!
 
@@ -427,7 +427,7 @@ describe 'user-cookbook::default' do
 end
 ```
 
-#### `hello` test suite
+### `hello` test suite
 
 This is a problem due to the expansion of the string `~jamie` not working, due to Chef not interpolating the `~` character as a special marker to denote a user's home directory.
 
@@ -550,7 +550,7 @@ describe 'user-cookbook::default' do
 end
 ```
 
-### GitLab CI
+## GitLab CI
 
 Now we have it working locally, let's add our setup to [test this when we're pushing up to GitLab][cmt-12], too:
 
@@ -576,7 +576,7 @@ We then need to install some dependencies such as the gems we need so we can act
 
 And now, looking at our pipelines, we can see that [this commit][ci-12] has run the integration tests! **But**, the job is still failing...
 
-## So it converged, now what?
+# So it converged, now what?
 
 You may notice that when running `kitchen test`, _[we actually fail][ci-12]_. This is due to [Inspec][inspec], a system verification tool, not finding the correct integration tests in the specified directories in our `.kitchen.yml`:
 
@@ -703,7 +703,7 @@ describe file('/home/everybody/hello.txt') do
 end
 ```
 
-## Conclusion
+# Conclusion
 
 So we've seen how to build a basic cookbook from the ground up, taking care to unit test first, then work on integration tests after the functionality is complete.
 

@@ -17,7 +17,7 @@ license_code: Apache-2.0
 ---
 > This article is developed from a talk by [Richard Brown at FOSDEM 2017][dinosaurs-fosdem]. Although aimed towards the desktop market, there are a lot of learnings that can be applied to the services ecosystem.
 
-## A Brief History Lesson
+# A Brief History Lesson
 
 Richard started off the talk by discussing the past - in particular, Windows 3.1/95, and the term "DLL Hell".
 
@@ -62,7 +62,7 @@ One method to avoid the issues of a fixed-release distribution is to work with r
 
 
 
-## Where We Are Now
+# Where We Are Now
 
 The solution for this problem is to make it possible for developers themselves to perform releases, such that they can package their application in a format that the end user will be able to use. Currently, [FlatPak][FlatPak], [Snappy][Snappy] and [AppImage][AppImage] are the main formats for creating a bundle of application(s) and libraries to provide a usable, out-of-the-box package for an application, that will work independent of the user's Operating System. The perk of this is it gives the developers the chance to package things in their own time, and make it available to the end user, without having to rely on maintainers.
 
@@ -70,7 +70,7 @@ However, it's often made with an assumption that "my app, _and its dependencies_
 
 This is made slightly better by using the concept of a framework/runtime to target, which basically says "target this _Middledistro_ and it'll be cool". However, Richard goes on to discuss how this is a really bad idea, and that instead we can simplify this by simply having a well defined [Linux Standard Base][lsb-wiki].
 
-## One Step Forward, Two Steps Back
+# One Step Forward, Two Steps Back
 
 **But wait** - does this look familiar? We're back to where we started.
 
@@ -90,7 +90,7 @@ Additionally, these questions that aren't easy to answer, in the case that there
 - What happens if the [bus factor][bus-factor] is tested?
 
 
-## Thinking as a Distribution
+# Thinking as a Distribution
 
 The issue with the above points is that if at any point a project is being used actively, but the developer stops making changes for any point, who's going to pick up the slack? Will a user slate their distribution if, in an incredibly unlikely example, suddenly LibreOffice has a security issue but it isn't maintained any more? If they don't understand they're using i.e. Snappy, but just that they got hacked?
 
@@ -101,7 +101,7 @@ Therefore, in order to really do this right - and _honestly_ as developers, we s
 
 But then, we additionally need to start testing the different platforms and combinations to make sure that it will _just work_ everywhere, in the right way. This adds a lot of overhead to someone who just wants to push out their application for people to use it. Sound familiar?
 
-## Where do we go from here?
+# Where do we go from here?
 
 Richard proclaims that until there is a "Linux Standard Base for the container age", portability cannot be promised by anyone. Because there are just so many combinations and different versions of tools and applications and libraries, nothing can be safely said to work, until it is fully standardised.
 
@@ -109,7 +109,7 @@ Alternatively, give up on your containerised applications is the advice Richard 
 
 An alternate method to deal with this is to have the users who want the more cutting-edge applications to move to a rolling release distribution. The whole point of these distributions is to make ti much easier to get into the user's hands, and to guarantee an integrated "built together" experience, such that things are tested a bit more carefully across the whole distribution.
 
-## How This Relates to Containerised Deployments
+# How This Relates to Containerised Deployments
 
 Although the talk, and this article, have been primarily concerned with the use of containers for packaging applications for desktop users, there is a huge amount of work recently in containers for server-oriented applications such as web services. They're used for building self-contained applications, that (much like the aforementioned tools) have all the dependencies they need, and are used to enable composability of services, and to increase the deployment speeds - from anywhere up to an hour to spin up and provision a machine, to literally a matter of seconds.
 

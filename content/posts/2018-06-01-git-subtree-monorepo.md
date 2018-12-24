@@ -31,7 +31,7 @@ Subtrees allow subprojects to be included within a subdirectory of the main proj
 For example, you could include the source code for a library as a subdirectory of your application.
 ```
 
-## Example
+# Example
 
 In this example, we've got a new repo, with a single commit:
 

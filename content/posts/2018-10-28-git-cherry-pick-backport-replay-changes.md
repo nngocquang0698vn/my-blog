@@ -113,7 +113,7 @@ Now we've picked the commits we want, we can see that now our `.travis-ci.yml` f
 * dd5685bb (12 months) <ashmaroli>          Bump JRuby version in Travis config (#6561)
 ```
 
-## Finding Who `git cherry-pick`'d
+# Finding Who `git cherry-pick`'d
 
 It can sometimes be useful tracking down who actually `cherry-pick`'d a commit. However, that information is hidden from you when you perform a regular `git show`, which simply displays the original commit:
 

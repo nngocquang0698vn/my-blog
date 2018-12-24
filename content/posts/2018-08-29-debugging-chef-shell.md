@@ -30,11 +30,11 @@ chef (13.6.4)> node.run_list
 chef (13.6.4)>
 ```
 
-## Getting it Running
+# Getting it Running
 
 Due to the deployment models of Chef, `chef-shell` needs to be started with certain configuration depending on how your node is hooked up.
 
-### On nodes that connect to Chef Server
+## On nodes that connect to Chef Server
 
 When running against a Chef server, you need to run it in client mode, with `-z` / `--client`:
 
@@ -62,7 +62,7 @@ Chef (13.6.4)>
 
 Notice that in this case, the shell connects to the Chef server, requesting what versions of dependencies and what the run list was for the node. This also pulls down all attributes that are available for the node, as well as syncing the local cookbook cache.
 
-### On nodes that do not connect to Chef Server
+## On nodes that do not connect to Chef Server
 
 When you're not running against a Chef server, for instance when you're using [Chef Solo], you will either want to run it in standalone mode:
 
@@ -108,7 +108,7 @@ chef (13.6.4)>
 
 Confusingly, this is different to running `chef-client`, which asks for `-z` for a Chef Solo session.
 
-### On a Test-Kitchen Node
+## On a Test-Kitchen Node
 
 When running on a node that you're using Test-Kitchen with, you will need to run it at a minimum with `-c client.rb` to prefer the local cookbooks and config. Additionally, to ensure that attribute config is correct, it's worth also adding `-j dna.json`:
 
@@ -130,7 +130,7 @@ Ohai2u kitchen@2be8ff185c16!
 Chef (13.6.4)>
 ```
 
-## Interacting with the Chef Shell
+# Interacting with the Chef Shell
 
 Once you're in your `chef-shell`, you can now look to list what attributes you have available, and can interactively request information about the node. If we want to know what top-level attributes we have access to, we can take advantage of the `node` object responding to `:keys` as if it were a `Hash`:
 

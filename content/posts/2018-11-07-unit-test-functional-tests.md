@@ -34,7 +34,7 @@ It was a hugely beneficial approach, not least because we couldn't run them when
 
 Now you have a little context on why we've taken this approach with testing, below I've written some further reasons you too may want to follow this.
 
-## Unit tests provide confidence
+# Unit tests provide confidence
 
 The reason we write unit tests (in general) is to build greater confidence in the code we write. This can be used as a tool to drive the design of our code, a-la-TDD, or at least it can be used to ensure that the code we've written returns an expected output for some input.
 
@@ -44,13 +44,13 @@ This also gives us a much greater confidence in performing refactorings on the e
 
 If we follow the process of making sure our Cucumber steps are also well tested, this helps us gain confidence that when we perform a real test run, we'll be much more likely to have everything working successfully.
 
-## Test-driving our test's API
+# Test-driving our test's API
 
 This can be a contentious point, so take this with a pinch of salt, but using TDD as a way to drive the design of your methods and interactions is a valuable tool.
 
 Working in a heavy TDD team has helped brainwash me somewhat, but I've found it is a really great practice in line with writing the steps first.
 
-## Don't be lazy, even if you can
+# Don't be lazy, even if you can
 
 It's easy to be lazy, I get that. As engineers, laziness is one of our best (and worst) traits. When the component you're testing is small, you can easily spin it up in your build/test process to check your functional tests pass. Why would you want to invest in writing some more tests, which requires up-front investment, when you can instead just keep running and refactoring the functional tests themselves until they pass?
 
@@ -64,7 +64,7 @@ It gets harder the more you have to do in order to get your tests running, and b
 
 However, if you look at the unit level, it's super simple. There's nothing else you need, and you can just get it running in, most often, literally seconds.
 
-## Test-first, for contracts, not implementation
+# Test-first, for contracts, not implementation
 
 Although I'm a massive fan of cross-functional teams where engineers responsible for functional tests will work very much alongside engineers responsible for functionality, I would love to be writing my functional acceptance tests before a line of implementation code is even thought about.
 
@@ -72,13 +72,13 @@ For instance, I'd love to be in a place where I can create a new branch, read th
 
 We're not writing the tests _after_ the functionality is implemented and then running it to make sure that the tests match what's been written. The test has to be created separately, honouring the specs, which we can drive through the tests to ensure we're happy with our implementation.
 
-## Speed of execution + faster feedback
+# Speed of execution + faster feedback
 
 Unit tests are meant to run as quickly as possible, preferably in sub-second measurements. They provide a much faster level of feedback than running our full suite of tests with their full HTTP request/responses.
 
 Because we don't need to have everything up and running each time we run a test, it means we can close our feedback loop considerably. If we had to wait 2 hours every time we did a one-line change, we'd be losing our minds.
 
-## "Quality" Engineering
+# "Quality" Engineering
 
 As a software tester/quality engineer/&lt;insert job title here&gt;, you're almost certainly responsible for ensuring quality in the software you build. So why would you not want your verification tests to be written to the same level of quality?
 
@@ -86,7 +86,7 @@ If developers are writing unit tests to ensure their methods and classes operate
 
 Additionally, by building your test suite in this way, you can start to monitor code quality of your tests themselves. This allows us to investigate whether our code functions correctly, through code coverage and [Mutation Testing], as with all other pieces of code on the project.
 
-## Closing Remarks
+# Closing Remarks
 
 I would thoroughly recommend this pattern for all the reasons detailed above.
 

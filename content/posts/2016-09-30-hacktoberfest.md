@@ -13,7 +13,7 @@ date: 2016-09-30
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## On Hacktoberfest
+# On Hacktoberfest
 
 [The month of Hacktoberfest has returned to us again][hacktoberfest-announce], thanks to the teams over at [DigitalOcean][digitalocean] and [GitHub][github].
 
@@ -23,13 +23,13 @@ The task at hand is relatively simple; contribute four Pull Requests (the act of
 
 To register yourself to participate in Hacktoberfest, check out the [official site][hacktoberfest], and register with your GitHub account. This will pull your name and email address, and will allow the team behind Hacktoberfest to monitor your progress more easily.
 
-## Getting Involved
+# Getting Involved
 
-### Example Contributions
+## Example Contributions
 
 As an idea of what sort of additions you can make, it may be worth seeing the range of Pull Requests I have made over the years.
 
-#### Smaller Contributions
+### Smaller Contributions
 
 For instance, below are some of the smaller Pull Requests I have made over time:
 
@@ -39,7 +39,7 @@ For instance, below are some of the smaller Pull Requests I have made over time:
 	- [Seafile][seafile]: [`haiwen/seahub`][seafile-contrib-1] [`haiwen/seafile`][seafile-contrib-2]
 	- [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/18)
 
-#### Medium Contributions
+### Medium Contributions
 
 I stumbled upon [`youtube-mpv`][youtube-mpv], a tool which allowed sending any given URL to the `mpv` media player on Linux by chance, but immediately started using it. I had been performing similar actions, but by manually calling the media player with the given URL. The program consisted of a basic web server, which upon being sent a URL, will then spawn an instance of `mpv`.
 
@@ -49,7 +49,7 @@ By making it more generic, however, I found that I wanted to be able to install 
 
 However, my first contribution was actually a clean up of the code; I found that the author had created a version for Python2 and Python3, with the caveat that there was a huge amount of code duplication, and that actually only a few lines needed to be different. Therefore, I took my Python knowledge, and made it into one file. This file then would determine which Python version was running, and require the correct packages for each Python version. This patch made it much less likely for bugs to occur - having two different code files with different versions could result in a bug being fixed in one file and not the other. Note that this is a slightly contrived example due to the project having just over 100 lines of code, and not being incredibly complex. But that doesn't mean that in the future, the codebase wouldn't be much more complex.
 
-#### Large Contributions
+### Large Contributions
 
 One larger Pull Request I have made was to update the Continuous Integration infrastructure for the [MRAA Project][mraa] from Ubuntu 12.04 to Ubuntu 14.04.
 
@@ -63,7 +63,7 @@ While testing I found that with the new version, we would need to explicitly ins
 
 These changes made it possible to use a newer Operating System, which meant that the build would be run against newer versions of libraries and software.
 
-### Finding a Project
+## Finding a Project
 
 Actually finding a project to help out with to is often a difficult task. There are literally millions of projects out there, and finding one that is relevant is difficult, especially as you want something that you would be more motivated to contribute to.
 
@@ -71,7 +71,7 @@ Actually finding a project to help out with to is often a difficult task. There 
 
 Alternatively, the Hacktoberfest team have set up a great resource for finding projects that have requested help [on their Featured Projects page][hacktoberfest-featured-projects]. The projects listed have assigned a number of issues the [`hacktoberfest` label][github-hacktoberfest-label] which makes it easy to discover issues that are targeted to new contributors. These may be a bit more manageable than other issues, and are of a slightly smaller size that make it easy to get started with. There are a few other sites which will provide you with project ideas, that can be found at [the Hacktoberfest site][hacktoberfest-resources]. These are all worth looking at, too, so you can find some more ideas for projects to work on.
 
-### Determining Your Contribution
+## Determining Your Contribution
 
 So now you've found a project that you want to work on, it's a case of actually deciding _what_ you want to actually do.
 
@@ -103,7 +103,7 @@ For any changes made, make sure that the functionality of the project isn't brok
 
 As I mentioned before, no contribution is too small; make your first contribution a nice bite-sized contribution which will allow you to build some confidence and start to tackle slightly larger problems. Before long, you'll be able to start producing more complex contributions, and start working on projects much more easily.
 
-### Actually Contributing It
+## Actually Contributing It
 
 In order to make your contribution, you will need to create a copy, or fork, of the repository. This can be done by navigating to the repo of choice, and selecting the "Fork" button, which will create a copy of the repository in your own account, so you can easily commit your changes at your own leisure.
 
@@ -131,17 +131,17 @@ Ensure that before you push the commit that you:
 
 So once you've actually made your changes, you need to be able to send it back to the original project. This requires you to create a Pull Request. This can be done through the GitHub interface. Once sent, the maintainer(s) will be able to discuss the contribution, and determine if there are any further steps required before they accept them into the project.
 
-## Fancy a Hand?
+# Fancy a Hand?
 
 If you're looking at getting started and would like some help, feel free to drop me a message in one of the formats in the page footer.
 
-### Hacktoberfest Session <a name="hacktoberfest-session"></a>
+## Hacktoberfest Session <a name="hacktoberfest-session"></a>
 
 On 6th October, I am running a [Git Workshop][git-workshop] which will serve as an introduction to Git and version control. In the interactive section of the workshop, I will be taking Hacksoc members through their first contribution - through a Pull Request to a blog post about Hacktoberfest on the Hacksoc website. The initial Pull Request can be found [on GitHub][hacksoc-repo-hacktoberfest-pr].
 
 Also join us on the [`#Hacktoberfest` Slack channel][hacktoberfest-slack] to chat about what you're working on, get some ideas, and just get to know the others who are contributing. Additionally, you can even try and organise a Hacktoberfest meetup to work on FOSS contributions together.
 
-## Keeping up momentum
+# Keeping up momentum
 
 Once Hacktoberfest is over, you may not really find the motivation to contribute to projects if you're not being rewarded by stickers and free T-shirts. But remember just how much time and cost you could be saving other developers. And also how much you're helping all these other people, just for the little things.
 

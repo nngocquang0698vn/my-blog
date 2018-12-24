@@ -22,7 +22,7 @@ When writing cookbooks, you need to actually test that they work. This is often 
 
 For instance, I run against Docker due to its incredible speed compared to running on a virtual machine, and also due to the fact that this means I can use [Docker with GitLab CI][chef-docker-gitlab-ci-article].
 
-## Getting kitchen-docker set up
+# Getting kitchen-docker set up
 
 For instance, let's assume we have a `.kitchen.yml` configured to use Vagrant as a driver:
 
@@ -77,7 +77,7 @@ This is due to the Docker driver not being able to correctly find the CLI tool. 
 +  use_sudo: false
 ```
 
-## Running service commands
+# Running service commands
 
 Next, we want to be able to interact with services via Chef's [`service` resources][chef-service-resource]. Trying to interface with a service in a Docker container results in the following error:
 

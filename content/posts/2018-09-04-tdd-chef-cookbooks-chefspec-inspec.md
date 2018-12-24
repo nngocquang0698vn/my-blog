@@ -44,7 +44,7 @@ Also note that although this is a fairly Java-specific example, all the practice
 
 Finally, you'll notice there is are no FoodCritic, CookStyle, or other checks that are performed as part of the cookbook written as part of this article. These definitely should be practiced, but for the purpose of this cookbook, we won't bother.
 
-## A note about versioning
+# A note about versioning
 
 Chef cookbooks in and around the community are built with [Semantic Versioning] as their versioning scheme.
 
@@ -57,9 +57,9 @@ Although I'd recommend reading the specification in full, the TL;DR is:
 - if you have any functional changes, that **are** backwards compatible, the cookbook will be released as a minor bump, i.e as `0.2.0`.
 - if you have any bug/security fixes, that **are** backwards compatible, the cookbook will be released as a patch bump, i.e as `0.1.1`.
 
-## jar-deploy-cookbook v0.1
+# jar-deploy-cookbook v0.1
 
-### Bootstrapping our Cookbook
+## Bootstrapping our Cookbook
 
 We want to start by generating our cookbook boilerplate:
 
@@ -69,7 +69,7 @@ $ chef generate cookbook jar-deploy-cookbook
 
 This will give us the basic structure of our cookbook.
 
-### Contract-Driven Tests with InSpec and Test Kitchen
+## Contract-Driven Tests with InSpec and Test Kitchen
 
 In a very test-first manner, we'll write our smoke tests using InSpec to give us confidence that our cookbook converges successfully.
 
@@ -112,11 +112,11 @@ attributes:
 
 This has helped us drive our contract for the cookbook and defines how it'll be consumed. While implementing the cookbook itself, we'll be able to find out if our contract isn't as clear/obvious as we thought.
 
-### Installing Java
+## Installing Java
 
 Now we've set up what our initial cookbook attributes and recipes should look like, we need perform our first piece of required functionality - installing Java.
 
-#### Manually installing the package
+### Manually installing the package
 
 The quickest path to getting Java installed is to simply install package with the `package` resource:
 
@@ -214,11 +214,11 @@ Finished in 0.68183 seconds (files took 2.51 seconds to load)
 4 examples, 0 failures
 ```
 
-#### Supporting multiple platforms
+### Supporting multiple platforms
 
 As we can see, this is already getting a little complex, and will be made more difficult for each and every platform that we want to support. Not only that but there may be different versions of Java we want to install, or we may want to have different flavours, i.e. the Oracle JDK or the IBM JDK.
 
-#### Re-using the `java` community cookbook
+### Re-using the `java` community cookbook
 
 To reduce the complexity within this cookbook, we can instead delegate the installation of the package to the [Java community cookbook], which is well-maintained and is much more configurable.
 
@@ -313,11 +313,11 @@ Finished in 6.56 seconds (files took 2.41 seconds to load)
 4 examples, 0 failures
 ```
 
-### Downloading the JAR
+## Downloading the JAR
 
 Now we've installed Java, we can go about getting our JAR file onto the box.
 
-#### Creating a directory structure
+### Creating a directory structure
 
 First, we need to create a directory for the JAR to be pulled into. Following the practice of least privileges, we'll also need a user to be created, which can then own the directory.
 
@@ -502,7 +502,7 @@ Finished in 6.44 seconds (files took 2.5 seconds to load)
 10 examples, 0 failures
 ```
 
-#### Making that directory configurable
+### Making that directory configurable
 
 Now although we've created that directory for the JAR to be run from, consumers of the cookbook want to make it configurable, for instance provide some logging agent access to it. In fact, we'd even specified it should be configurable in our `.kitchen.yml`!
 
@@ -664,7 +664,7 @@ Finished in 6.89 seconds (files took 2.56 seconds to load)
 11 examples, 0 failures
 ```
 
-#### What's the default JAR file?
+### What's the default JAR file?
 
 It turns out that we can't actually default this cookbook to a JAR file, as there's no default generic JAR a consumer would want. Instead, we want to throw an error when no JAR is specified:
 
@@ -913,7 +913,7 @@ As we can see, we now need to set the `jar.jar_uri` in each of our other tests, 
 
 Once this is in, our tests will pass successfully.
 
-#### Actually downloading it
+### Actually downloading it
 
 Now, we've checked that there's a `jar.jar_uri`, but we don't actually pull that JAR. We can do that using the `remote_file` resource built in to Chef:
 
@@ -1060,7 +1060,7 @@ Finished in 9.87 seconds (files took 2.59 seconds to load)
 16 examples, 0 failures
 ```
 
-#### Note about `remote_file`
+### Note about `remote_file`
 
 `remote_file` is an awesome way to download artefacts from various locations, from [the Chef documentation][remote_file]:
 
@@ -1070,7 +1070,7 @@ This is useful for when you have locally cached dependencies i.e. in a VM share 
 
 It also allows for a vast amount of goodness such as being able to provide remote authentication, HTTP headers, and more.
 
-#### Splitting Complexity Out
+### Splitting Complexity Out
 
 When developing using TDD, if you encounter a method to a method/class being too complex, you look to refactor it as it feels painful to work with. We're also seeing that here, where due to the `raise`, we have to complicate the required attributes for the recipe.
 
@@ -1294,7 +1294,7 @@ remote_file 'download the JAR' do
 end
 ```
 
-### Creating a systemd service
+## Creating a systemd service
 
 To create a systemd service to run our JAR file, we need to interact with a Chef `template` resource:
 
@@ -1536,7 +1536,7 @@ service 'starts the jar service' do
 end
 ```
 
-### Converging the Node
+## Converging the Node
 
 Wow, we're finally at the stage that we can converge our recipe on a node!
 
@@ -1602,7 +1602,7 @@ Recipe: jar-deploy-cookbook::default
     executable=/opt/chef/embedded/bin/chef-client
 ```
 
-#### Creating the `jar.group` before we create the `jar.user`
+### Creating the `jar.group` before we create the `jar.user`
 
 Woops! It looks like the `jar.group` that we thought was created at the same time as the `jar.user` is configured was _not_.
 
@@ -1665,7 +1665,7 @@ And now if we re-test:
 
 We can set that out as v0.1 happily!
 
-## jar-deploy-cookbook v0.2
+# jar-deploy-cookbook v0.2
 
 Wait, what about any run-time configuration?
 
@@ -2039,15 +2039,15 @@ Now we're happy with it, we'll perform a minor bump on the cookbook version in o
 +version '0.2.0'
 ```
 
-## Reflections
+# Reflections
 
-### Refactoring Choices
+## Refactoring Choices
 
-#### Using `context` blocks more effectively
+### Using `context` blocks more effectively
 
 In a few places, we've got uses of Ubuntu / CentOS, but they're actually irrelevant to the tests, as there's nothing platform-specific. It'd be good to refactor this out, and make it more clear what is actually platform-specific.
 
-#### Making `context` block nest better
+### Making `context` block nest better
 
 We could also update our context blocks:
 
@@ -2059,13 +2059,13 @@ We could also update our context blocks:
 
 Which gives us the end result of i.e. `On Ubuntu 16.04 when all attributes are default installs Java using the java::default recipe`.
 
-### Test Coverage
+## Test Coverage
 
 You'll notice that we've been making decisions about _where_ we test attributes and how they get passed into resources. There currently is no way to test your coverage of parameters to resources, which unfortunately means it's something you need to be conscious of while writing a cookbook.
 
 I'm looking to write some tooling around it, but until then, it's something that needs to be remembered!
 
-## Conclusion
+# Conclusion
 
 We've discovered how best to test-drive a Chef cookbook, using ChefSpec as our main weapon of choice, but supported by Test Kitchen and InSpec to ensure that the converged cookbook works as expected. We've seen the power of unit testing in both speed and ease of use, and can see how we'd be able to apply the principles of TDD to developing Chef cookbooks.
 

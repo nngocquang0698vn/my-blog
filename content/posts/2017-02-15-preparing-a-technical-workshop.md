@@ -16,7 +16,7 @@ There are a number of things that you need to know ahead of making a technical p
 
 Another thing to remember is that the team running the event are going to be limited for time themselves, too, and will no doubt be working on other preparation ahead of the event. Please make sure that you send through any requirements _at least_ a couple of weeks in advance, in case there are any issues with the requirements. Additionally, _have a backup_ in case requirements can't be made. For instance, as detailed below, can you run something like [`workshopr`][workshopr] to get around any installation requirements?
 
-## General Admin
+# General Admin
 
 - What is the workshop title?
 - What is the workshop description?
@@ -30,7 +30,7 @@ Another thing to remember is that the team running the event are going to be lim
 - What do you want your audience to understand by the end of the session?
   - Via [@MrAndrew](https://twitter.com/MrAndrew)
 
-## The Machines
+# The Machines
 
 - What OS are provided machines running on?
   - Are you comfortable with that OS?
@@ -42,22 +42,22 @@ Another thing to remember is that the team running the event are going to be lim
   - If presenting on own machine, do you have the right AV components?
   - If presenting on own machine, do you have the right network access?
 
-## The Format
+# The Format
 
-### Presentation
+## Presentation
 
 - Can you run your slides on any machine?
 	- Or do you need it to run on your own machine?
 - Can the attendees access the slides?
 
-### Workshop
+## Workshop
 
 - Are you writing code?
 	- What editor should people have to use? Does it matter?
 	- What IDE should people have to use? Does it matter?
 	- What language are you writing in?
 
-## The Demographics
+# The Demographics
 
 - What level of knowledge does the talk expect of the subject area?
 - What level of knowledge does the talk expect of the language used?
@@ -68,14 +68,14 @@ Another thing to remember is that the team running the event are going to be lim
   - Plan content to be suited to low, medium and (potentially) advanced attendees, with the option to skip chunks of content
 
 
-## The Dependencies
+# The Dependencies
 
-### People
+## People
 
 - Will you need volunteer helpers to make sure there is help around?
 - Will you need volunteer helpers that know the tech you're playing with?
 
-### Tech
+## Tech
 
 - What dependencies will you need?
 	- Can these be pre-installed to save download time during the workshop?

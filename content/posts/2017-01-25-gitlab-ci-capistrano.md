@@ -17,17 +17,17 @@ license_code: Apache-2.0
 
 [Capistrano][capistrano-rb] is a deploy tool written in Ruby that I adopted last year, and started use with `jvt.me`, `hacknotts.com` and `inspirewit.com`.
 
-## Continuous Delivery
+# Continuous Delivery
 
-### What's the Point?
+## What's the Point?
 
 Continuous Delivery is a brilliant method of ensuring that your software is pushed to (ideally) the production environment, to increase the confidence you have with your deployment process, and to help unlock functionality and value for the end user much, much more quickly.
 
 As you would expect, this ties in very nicely with Continuous Integration.
 
-## A Brief Introduction to Capistrano
+# A Brief Introduction to Capistrano
 
-### Why use Capistrano?
+## Why use Capistrano?
 
 Capistrano employs a powerful Domain Specific Language in which you can describe the method of which your deployments should occur.
 
@@ -37,11 +37,11 @@ Capistrano also has a concept called roles which provides the ability to describ
 
 Although this functionality can all be done with a set of shell scripts (or indeed one of the many other deploy tools), Capistrano's simplicity makes it an ideal tool for simple and complex applications alike. My choice to use Capistrano was due to my use of Jekyll, and its ability to work with many different ecosystems, such as the ability to run `grunt` for `hacknotts.com`.
 
-## How to Hook into GitLab Continuous Integration
+# How to Hook into GitLab Continuous Integration
 
 Now we understand why we would want to use Capistrano, let's look at how to integrate the process into GitLab's CI.
 
-### CI Images + Dependencies
+## CI Images + Dependencies
 
 One of the great things about [GitLab CI][gitlab-ci], that is not available in something like [Travis CI][travis-ci], is that you can provide your own Docker images to be run as part of the CI infrastructure. For instance, instead of having a set image in Travis, which may or may not have dependencies, which you then need to install, you can leverage this and specify what you want your tests to run on.
 
@@ -105,7 +105,7 @@ production_deploy:
 
 Note that this isn't always the best pattern; for true Continuous Delivery, we would be using short-lived branches, and for Eventual Integration projects, this could be updated to deploy separate branches into respective stages.
 
-### Capistrano Secrets
+## Capistrano Secrets
 
 However, there is an issue; Capistrano won't work! Due to the method it uses SSH keys for deployment, we need to bake in an SSH key for the deploy job to be able to communicate with the end server.
 

@@ -15,7 +15,7 @@ license_code: Apache-2.0
 ---
 Note: This post describes how to work with Nginx. There is an alternate post on [Serving Branches with GitLab Review Apps using Caddy], which may be of interest.
 
-## Wait, What are Review Apps?
+# Wait, What are Review Apps?
 
 I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review.
 
@@ -27,7 +27,7 @@ This means that each branch I push to will spin up a new instance of my site und
 
 Being a static site, this hasn't got a lot of overhead, especially as each Review App is going to have minimal traffic, due to it only being used by me in review. However, for a larger static site, or even a fully fledged web application, it can be understood why you may not want to be having each and every branch being built and deployed. This can be changed by setting it to be a `manual` task, rather than on each and every push.
 
-## Changes for Capistrano
+# Changes for Capistrano
 
 For my site, I'm using [Capistrano][capistrano] as the deployment tool, which means that when I want to perform a deploy, I can run something like `cap production deploy`. I'd ideally want to follow the same structure, and have a new stage so I can run `cap review deploy`.
 
@@ -52,7 +52,7 @@ task :stop do
 end
 ```
 
-## Changes for GitLab CI
+# Changes for GitLab CI
 
 GitLab has the full steps required for setting up Review Apps in the [Review Apps documentation][review-apps-doc]. The first step required is to add a new entry in the `deploy` stage, which deploys into a `review/...` environment:
 
@@ -108,7 +108,7 @@ Note that the only significant changes to the above are that we now:
 - change `environment.action` to `stop`
 - make it run as a `manual` action, instead of it being automagically run (and therefore removing our Review App before we can view it!)
 
-## Changes for Nginx
+# Changes for Nginx
 
 While investigating the easiest way of setting up Nginx to work with this, I stumbled upon the [regular expression names][nginx-regex] functionality in Nginx, which allows you to define regular expressions for a DNS name. This was perfect, allowing me to add the following to my config:
 
@@ -129,7 +129,7 @@ server {
 }
 ```
 
-## Points for Improvements
+# Points for Improvements
 
 I've not yet got this configured yet as I fully want, and have been collecting future improvements and other useful thoughts in the [`~review-apps`][review-apps-label] label in my site's issue tracker. I'm sure I'll be tweaking it over the coming weeks as I find out what I like and want to have done with it.
 

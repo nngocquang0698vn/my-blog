@@ -12,7 +12,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
 
-## tl;dr
+# tl;dr
 
 > I would say the main difference is GitHub is designed for people who want to collaborate on writing software, but that's where it stops. GitLab is designed for people to collaborate _and_ take that software right through to build and deployment. &mdash; [eddieajua][eddieajua-dear-github]
 
@@ -23,15 +23,15 @@ license_code: Apache-2.0
 
 If any of the above questions are 'yes', please read on! Sorry in advance for the wall of text, though.
 
-## On a technical level
+# On a technical level
 
 There are a number of technical reasons why GitLab is superior to other hosting providers, and should be very strongly considered against using another service.
 
-### Unlimited Public and Private Repos
+## Unlimited Public and Private Repos
 
 GitLab.com provides an unlimited amount of both public and private repositories, _for free_. This was the first reason that got me moved to GitLab, especially as it was coming to the end of my time using GitHub's education pack. I had previously used Bitbucket for any private repos I wanted in excess of GitHub's five repos, but when I found that GitLab made it possible to have all my repos on a single service, and even better - _for free_ - I was sold.
 
-### CI
+## CI
 
 Having Continuous Integration built into the platform is hugely useful. Although CI platforms for i.e. GitHub are great, and integrate nicely, there's nothing better than not even having to leave GitLab to see how your builds performed.
 
@@ -43,7 +43,7 @@ Additionally, unlike other offerings, you can run the same CI job locally using 
 
 Finally, using [Docker-in-Docker][dind], you can also build Docker images through your CI pipeline - for instance, this site is built using Docker and an image is published to [my container registry][jvtme-container-registry].
 
-#### Private Registry
+### Private Registry
 
 As mentioned above, GitLab.com provides a private Docker registry per project. That means that if you're using Docker for your project, you can anonymously pull images, and push images easily once you've performed a `docker login`. All you need to do [is enable it][gitlab-ee-docs-container-registry-project] for your project, and then you're ready to go.
 
@@ -51,7 +51,7 @@ Because this is a private registry, too, it means that you don't have to worry a
 
 For instance, this is how I [distribute this site][jvtme-container-registry], and I use it for its ability to contain all my dependencies for development, CI, and deployments.
 
-#### Environments
+### Environments
 
 Environments are a feature of the CI platform that help capture the different stages that an application must go through before reaching end user consumption, i.e. `dev`, `qa`, `prod`. This is something that is tracked within the [`.gitlab-ci.yml`][jvtme-ci-yaml] file, and then provides an easy way to see what environments are running what code, as well as exposing links to the environments themselves from the GitLab UI:
 
@@ -59,17 +59,17 @@ Environments are a feature of the CI platform that help capture the different st
 
 GitLab also provides the ability to [check out your deployments locally][gitlab-docs-env-ref] - it does this by creating a Git `ref` which then tracks the commit in each environment. This makes it much less effort to determine which code is currently in which environment in a way that requires no manual (or even scripted) work by yourself, as it is handled through GitLab itself, and you can easily hook into it as the link describes.
 
-#### Review Apps
+### Review Apps
 
 [Review Apps][review-apps] are very tightly related to [CI](#ci) and [Environments](#environments) and provide the ability to dynamically spin up an `environment` for the Merge Request you are working on, that will be rebuilt on every commit, allowing for quick feedback in your own production-like environment. Because this is integrated in with the CI, it means that it can be achieved using the same toolset that is used for your staging and production environments. This is great because it means that Code Review doesn't require everyone to spin up the code in a staging environment individually, but it instead will perform all of the workload for you, and let the focus be on reviewing the code and application.
 
 Right now, the code only works for static sites (more details are in the [GitLab Pages section](#gitlab-pages)) but from a conversation I had with [@systses][sytses] and [@ayufanpl][ayufanpl] at FOSDEM 2017, there is a lot of thought and work going into the ability to run full, dynamic, applications through GitLab.
 
-### GitLab Pages
+## GitLab Pages
 
 GitLab Pages has a huge advantage over other providers - you can use _any static site generator_ that you want! So that means that if you wish to try out something different than [Jekyll][jekyll], such as [Hugo][hugo], [Octopress][octopress] or [Hakyll][hakyll]. And because this all runs off the Docker-based infrastructure, it's very easy to get started with any of the static site generators, even more so due to [GitLab's provided example repos][gitlab-pages-group]. Additionally, because it's built on GitLab's CI platform, you can run many steps before you publish your site. For instance, I run [html-proofer][html-proofer] against my site, so I can check that all the links within the site resolve correctly.
 
-### Process Improvements
+## Process Improvements
 
 Last weekend, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna_hax] and I found that unless I was given the GitLab `Master` role for the repository, I wouldn't be able to push into `master`. This took us by surprise, but made sense - it's one of those things, you don't want every developer to be able to blindly push in, you'd want to ensure that there is a lot more control over the `master` branch.
 
@@ -107,15 +107,15 @@ This is another really great feature - having a MR auto-merge when the CI job fi
 
 This is something that I've found when working on teams using GitHub - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-GitLab article` and then add a `DO_NOT_MERGE` label. However, GitLab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
 
-## Non-technically
+# Non-technically
 
 GitLab also has a few reasons that are about them as a company, and how they approach their work.
 
-### Open-ness
+## Open-ness
 
 GitLab runs a company that embraces transparency and open-ness, and makes it much easier to want to support them.
 
-#### Open Communication
+### Open Communication
 
 GitLab is very different to other companies - most notably how amazingly open and transparent they are with all they do.
 
@@ -128,13 +128,13 @@ This transparency was also shown when they recently [did an oops and deleted the
 
 They even set up a live stream so the public could hop in on their conversations about what to do, and to follow the restore process copying files back to the production server! They also released [a very detailed postmortem][gitlab-database-postmortem], that explained exactly what happened, and what issues they encountered. Normally, such a postmortem would be only internally available, and therefore the service consumers would have missed out on the real context for what caused the outage. However, GitLab's incredibly open way of working prevailed, and as Sid had explained to me, it was so everyone could learn from their mistakes, and understand why it happened.
 
-#### Open Operations
+### Open Operations
 
 As above, there is a lot of open-ness that GitLab practices. For instance, [their 'team handbook' is source available][gitlab-handbook], and there are 'about 500 pages of text' about the ins-and-outs of how they run the company - for instance the benefits that can be found, the values and beliefs they hold as a company, and technical information about team structures.
 
 As well as how the company itself is run, they also have all their issue tracking about their [infrastructure and day-to-day jobs][gitlab-infrastructure] all on GitLab.com, too. I adore the fact that the whole world is able to watch as GitLab approach problems, and communicate in the most collaborative way possible - it's a huge plus, and shows that they live 'open-ness'.
 
-#### Open Source
+### Open Source
 
 Although this is a technical reason, I thought I'd put this in the 'Open-ness' section, as it complements the others in this section.
 
@@ -146,23 +146,23 @@ There was recently [an issue raised][gitlab-issue-pages-ce] that a number of peo
 
 <https://about.gitlab.com/2017/03/15/gitter-acquisition/>
 
-## Caveats
+# Caveats
 
-### Open Core
+## Open Core
 
 Although they're Open Source, it's still not quite open enough. As there are a number of features only available in GitLab.com, there may be workflows you start to use that you then can't reproduce on CE, meaning that you're then locked into using EE. However, as mentioned, GitLab do release features from EE into CE regularly, so there is always the chance that something you'd like to have in the CE can be requested.
 
-### Infrastructure Issues
+## Infrastructure Issues
 
 Since I've been using GitLab (about 18 months) there have been a few times where they've had issues with their infrastructure - such that they have had service outages for short periods of time (the worst being around 45 minutes, excluding their backups mishap).
 
-### Less Community Usage
+## Less Community Usage
 
 Being a lesser used platform, there are less projects that are hosted solely on GitLab, meaning that it's harder to get exposure, as less people are going to be using it. Additionally, the search and [discoverability functionality isn't ideal][systses-discoverability], and therefore it's a bit harder to find what you want.
 
 There's an easy fix for this though - let this article persuade you to give it a go, and to start using it for a couple of projects you have. Then, if you're happy with it, convince a friend to join. Very soon, it'll be growing pretty large and building the community even more.
 
-## Conclusion
+# Conclusion
 
 Overall, I hope that the above reasons give you enough reason to at least try out GitLab.com and to experience the unified platform it provides. I hope that given a bit of exposure to what it can provide you, GitLab can help you become more productive, and at the same time, you can help shape GitLab into something that will help others everywhere.
 

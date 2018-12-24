@@ -11,7 +11,7 @@ date: 2017-06-07
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## Intro
+# Intro
 
 I follow the [Git Flow][gitflow] practice for my branches, both personally and professionally, making heavy use of feature branches. This branch structure means that I will have aptly named feature branches, such as `feature/404-page` or `feature/readme_screenshot`.
 
@@ -46,23 +46,23 @@ This means that whenever I'm trying to use my tab completion, I have a load of o
 
 Each time I've [DuckDuckGo'd][ddg] the commands, the last time of which made me think I should document it somewhere that I can easily browse to in future. And in the light of wanting to [document my blogumentation for everyone to consume][blog-as-documentation], I've rolled it into a blog post.
 
-## Removing Local Checked-Out Branches
+# Removing Local Checked-Out Branches
 
 Credit to [StackOverflow][so-merge], we can use the following pipeline to delete any merged branches, except the _current_ branch, and the `master` and `develop` branches:
 
 ```bash
 $ git branch --merged | egrep -v "(^\*|master|develop)" | xargs git branch -d
 # ^ list all the branches that have been merged
-                      # ^ except from our current branch (`*`)
-                      # ^ and `master` and `develop`
-                                                        # ^ and then delete them all
+#                      ^ except from our current branch (`*`)
+#                      ^ and `master` and `develop`
+#                                                         ^ and then delete them all
 ```
 
 This can obviously be updated to reflect the branching scheme you use, and whether there are any other branches you don't want to have deleted.
 
 I'd also advise running `git branch --merged` on its own, _before_ running the full command, in order to just check that you're not going to delete something you didn't mean to! This is important, as you won't be able to undo any branch deletions!
 
-## Removing Branches from Remotes
+# Removing Branches from Remotes
 
 So now that we've deleted all the local branches, we're done, right? Not quite.
 
@@ -91,7 +91,7 @@ $ git remote prune origin
  * [pruned] origin/feature/separate_builder_image
 ```
 
-## Auto-pruning branches
+# Auto-pruning branches
 
 As per the following tweet, we can also set Git to auto prune our `remote`s, too:
 

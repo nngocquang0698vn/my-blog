@@ -28,7 +28,7 @@ In the [spirit of Blogumentation][blogumentation] I'm writing up my experiences 
 
 The source code for this article can be found at [<i class="fa fa-gitlab"></i> unit-test-tykjs][unit-test-tykjs], and unless specified otherwise, code snippets below are licensed Apache 2.0.
 
-## The Middleware
+# The Middleware
 
 Let's assume we've written a piece of middleware, such as [`samplePostProcessMiddleware` from the TYK repo][samplePostProcessMiddleware]:
 
@@ -70,7 +70,7 @@ samplePostProcessMiddleware.NewProcessRequest(function(request, session) {
 log("Sample POST middleware initialised");
 ```
 
-## Hooking in Unit Tests
+# Hooking in Unit Tests
 
 In this example I'm using `jasmine@3.3.0`, as this was what I was most comfortable with at the time. It should be possible to use other testing frameworks to achieve a similar solution, but if you would like me to share an example using a different framework, [raise an issue on this repo][new-issue] and I'll look at creating it when I've got some time.
 

@@ -29,7 +29,7 @@ DevOpsDays London was awesome! The talks were all really interesting and informa
 
 I've collected a [Twitter Moment of the tweets I felt summed up the conference](https://twitter.com/i/moments/1052667806607704065), and have embedded some of them in the below posts.
 
-## Inclusivity
+# Inclusivity
 
 I was very, very impressed with the inclusivity aspect of the conference. As a privileged, well-abled, fairly social, mixed-but-visibly-white male, I'm incredibly fortunate as a person, and am not very often challenged by being at events like this.
 
@@ -53,17 +53,17 @@ It was also really cool to see gender-neutral toilets in a number of places. Alt
 
 Since the conference, I've been much more aware about comments made by people, use of pronouns, and being more aware of inclusivity, which is a positive personal outcome! I've been really happy about. I've been looking to share these practices around with my family, colleagues and friends, but there's still a good way to go!
 
-## Open Spaces
+# Open Spaces
 
 The open spaces idea was something I'd not seen before at a conference - I'd first thought it was meant to be an unconference of more talk topics, but quickly found and understood it was all about giving attendees a chance to have a more structured discussion. I found this was great for topics that attendees wanted to crowdsource ideas or get a debate going. It also seemed like there were some participants who had a lot of knowledge they wanted to share, but maybe didn't have the confidence or the amount of content to fit a full conference talk, so the open spaces were a good space to utilise for knowledge-sharing.
 
 I found it really interesting that the spaces were built around the idea of being very free to move around in, recommending that if you weren't getting enough out of the session, you moved on to a different space. With so many going on, it helped you not get "stuck" in a conversation you didn't find useful, as well as helping you not feel committed to a single session.
 
-## Speaker Dinner
+# Speaker Dinner
 
 As a speaker, I was invited to have drinks and canapes on Wednesday night with the fellow speakers and organisers, which was a nice icebreaker and a good way to meet the personalities behind the faces I'd be seeing on stage. Always a bit socially awkward, it was a nice icebreaker and a good way to ease into some networking before the full conference.
 
-## Neurodiversity and the Essence of DevOps
+# Neurodiversity and the Essence of DevOps
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=AbKhi8J3Kh8&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=1)
 
@@ -77,7 +77,7 @@ Jeff spoke primarily about how we need to realise that empathy is important, eve
 
 The main take away was that we need to ensure that we seek wisdom in everyone - whether that's their experience, thoughtfulness, or something else of value they can contribute.
 
-## How to leverage AWS features to secure and centrally monitor your accounts
+# How to leverage AWS features to secure and centrally monitor your accounts
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=KQqB-hc2JxM&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=2)
 
@@ -87,25 +87,25 @@ Kate from _The Guardian_ spoke about how their teams manage their own AWS accoun
 
 Kate mentioned that teams have the build, deploy and support ownership, so they should also own the security of their accounts and software that supports it. However, that requires the extra expertise and responsibility that developers also need to learn from the operations side, which is where tools like Trusted Adviser and Inspector come in.
 
-### AWS Trusted Adviser
+## AWS Trusted Adviser
 
 [Trusted Adviser](https://aws.amazon.com/premiumsupport/trustedadvisor/) is a free product which can help report against your AWS accounts and find areas of noncompliance such as S3 buckets being public.
 
 It can also be used to flag open or overly permissive Security Group rules, warn about uneven Availability Zone distribution, buckets that are not versioned, or access keys that have been exposed i.e. by accidentally pushes to a public repository.
 
-### AWS Inspector
+## AWS Inspector
 
 [Inspector](https://aws.amazon.com/inspector/) can get quite expensive, but can serve another purpose around an integrated AWS product for managing security scanning.
 
 Kate warned that there can be number of false positives, describing a time where they received some warnings about a number of unencrypted outbound connections to port 80. Once digging into this, it turns out it was the EC2 Metadata endpoints, which is definitely not a security hole!
 
-### Capital One Cloud Custodian
+## Capital One Cloud Custodian
 
 Although not mentioned in the talk, I'd like to add in here a quick note about [Cloud Custodian][cloud-custodian], an Open Source product built by my overlords at Capital One US, which helps create rules and helps track down compliance across your AWS (and some Azure) resources. It helps us manage all of our UK and US AWS accounts, helping us hit both regulatory and internal compliance targets.
 
 As a developer, I've found it's really useful to help keep me on my toes and ensure that our resources are abiding by internal compliance ruling. I've especially been a fan of the ability for it to automagically remediate findings, which means that you don't personally need to do anything until i.e. your next deployment, which should include the remediation steps.
 
-### Death by Dashboards
+## Death by Dashboards
 
 Kate went on to speak about dashboards, and that "when you have too many, build one more", pointing out that dashboards that aren't immediately useful aren't useful.
 
@@ -129,7 +129,7 @@ One of Kate's top tips was to get feedback from both the most junior and most se
 
 And, unfortunately, no one will read the docs! So try and make sure it's as user-friendly as possible, to the point where it shouldn't need any supporting documentation.
 
-### General notes
+## General notes
 
 Kate mentioned that in the cases of rules within Security Groups, the most permissive is applied when there are duplicates of the same port, which is an interesting gotcha to keep in mind!
 
@@ -144,7 +144,7 @@ Kate spoke about their use of AWS StackSets as a method to create/update/delete 
 As mentioned, using something like [InSpec](https://inspec.io) can also be great, which I wrote about in my blog post [_Notes from the AWS + Chef Dev Day Roadshow in London_][aws-chef-day].
 
 
-## Don't Panic!
+# Don't Panic!
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=zRmr2iqyhX4&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=3)
 
@@ -184,29 +184,29 @@ Euan highlighted a writeup from [Travis CI in April], where they shared, in a di
 
 As an aside, this highlights that letting people have access to production from their machines can always be dangerous! You can put as many barriers in place, but at the end of the day, if you can get to production, it's likely you'll break it. We have a model where production access requires extra steps, to help make it much less likely that we'll be there, and that when we are, we're even more careful.
 
-## Bright Screens, Blue Days: Developing Self-Care Tech
+# Bright Screens, Blue Days: Developing Self-Care Tech
 
 Velvet's talk spoke about the implicit assumptions we make in our tech and how we should be considering our users more carefully. They used an example of a Mental Health application which allows the user to take notes, then determines from written content whether the user is in a "good" or "bad" period. However, Velvet mentioned that actually, the user could be grieving and therefore writing something that could be categorised as a "bad" period, but grieving is a healthy process, and therefore you're miscategorising them.
 
-## 10 Practical Steps Towards Creating an Extraordinary Team
+# 10 Practical Steps Towards Creating an Extraordinary Team
 
 Unfortunately I didn't get any notes, but you can [watch the talk on YouTube](https://www.youtube.com/watch?v=nH3tlzgc8Po&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=4).
 
-## Taking the 3 Ways of DevOps on the Road
+# Taking the 3 Ways of DevOps on the Road
 
 Unfortunately I didn't get any notes, but you can [watch the talk on YouTube](https://www.youtube.com/watch?v=X1Ud2V-6iSc&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=5)
 
-## What is Cloud Native, and why should I care?
+# What is Cloud Native, and why should I care?
 
 Unfortunately I didn't get any notes, but you can [watch the talk on YouTube](https://www.youtube.com/watch?v=DPV9Gr4Elv8&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=6)
 
-## Bash is testing
+# Bash is testing
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=i5wAJLZgfZk&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=7)
 
 Matt took us through some of the ways that you can use Bash as a means to test branch points. Although there are even testing frameworks around for Bash, such as [bats], I'm still adamant that by the time you feel you need to reach for something like this, you should instead be nuking the Bash script from orbit and replacing it with something in a (cue flame war) _real language_.
 
-## Overengineering Your Personal Website - How I Learn Things Best
+# Overengineering Your Personal Website - How I Learn Things Best
 
 I spoke about this very website, and the "monstrosity" it is - [I'll be writing a follow-up post about it in more depth][article-overengineering], but in the mean time, check out [the talk on YouTube][overengineering-talk].
 
@@ -220,7 +220,7 @@ It was still a great experience, and I'm really glad I was invited to attend and
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So, I think I&#39;m gonna over-engineer my website now... 😆 <a href="https://twitter.com/JamieTanna?ref_src=twsrc%5Etfw">@JamieTanna</a> - thanks for the insights and inspiration to just &#39;go for it&#39;. 👊🏻<a href="https://twitter.com/DevOpsDaysLDN?ref_src=twsrc%5Etfw">@DevOpsDaysLDN</a> <a href="https://twitter.com/hashtag/DevOpsDays?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDays</a> <a href="https://t.co/PjGHbNEMEV">pic.twitter.com/PjGHbNEMEV</a></p>&mdash; ✯ (@ninypops) <a href="https://twitter.com/ninypops/status/1042870751466909696?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 
-## Fargate - why and when?
+# Fargate - why and when?
 
 In the first open spaces session, we spoke about using [Fargate](https://aws.amazon.com/fargate/) as a completely managed service, allowing you to push Docker images as-and-when you want, without having to worry about the underlying node, removing another set of patching requirements for your fleet.
 
@@ -240,7 +240,7 @@ There were questions around security:
 
 One question was around the monitoring of the Fargate host, and checking that it was still running okay. I mentioned, in the form of a counter-question, that you wouldn't do the same with a managed RDS cluster, as one of the perks of having a managed service is not needing to worry, and instead letting AWS work on the hard stuff.
 
-## DevOps in a regulated industry
+# DevOps in a regulated industry
 
 We spoke around the various difficulties of working in a regulated environment, down to paper trail, extra hoops to jump through, and various other difficulties.
 
@@ -262,7 +262,7 @@ Speaking about compliance, one comment was about how in the scheme of things (fo
 
 Finally we spoke around having common architectures, such as having consistent testing strategies, infrastructure architectures and use of services, which then makes internal design reviews much more of a box-ticking exercise. This makes it easier for engineers to get stuff done, and easier for compliance and audit sign-off.
 
-## What's wrong with a good monolith?
+# What's wrong with a good monolith?
 
 Coming from working on a monolithic Identity Service (due to use of a commercial off-the-shelf solution), I was interested to find why anyone else would want to use a monolith themselves.
 
@@ -272,7 +272,7 @@ Robert, one of the participants has also written up this conversation in [_Well 
 
 And like with all services, creating a good monolith requires a good app design, as it would with a (micro)services-oriented architecture.
 
-## Serverless DevOps
+# Serverless DevOps
 
 As I felt I'd gotten all I wanted out of the Monolith discussion, I left and went to this open space - but as I was a little late I had missed a fair bit.
 
@@ -288,7 +288,7 @@ The final advice was to look at using something like the [Serverless Framework](
 
 One thing I'm looking to learn more about is the QA side of serverless - how do you test the integration points as well as the component-level functions themselves.
 
-## Who Broke Prod? Growing a Culture of Blameless Failure
+# Who Broke Prod? Growing a Culture of Blameless Failure
 
 Emma wrote [a great post about her talk][blameless-failure], which I'd recommend reading for her own expansion of points, as well as [watching the talk on YouTube](https://www.youtube.com/watch?v=5lzDIJLTbT4&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=9).
 
@@ -316,7 +316,7 @@ And finally, organisations need to stop punishing people for experimenting with 
 
 Using the term "we" instead of "I", "you", "them" can also help build trust, and shows a level of care - by actively changing the way we communicate, it shows that "we're all in this together".
 
-## Managing people and other horror stories
+# Managing people and other horror stories
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=7m49scWq9sM&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=10)
 
@@ -338,7 +338,7 @@ Ramez touched upon a time where his manager wasn't noticing issues in the team, 
 
 And leading into his Alfred point, Ramez described how tennis as a sport is exciting because it's a show. It's all about keeping the game tense, always wondering who's point is next, and who will win. But the most important people on the court aren't the players, it's the ball collectors - without them, there would be lots of uninteresting waiting for players to collect the balls. Managers are the ball collector - they help keep that excitement and rush towards the common goal.
 
-## Why are Distributed Systems so hard? A network partition survival guide
+# Why are Distributed Systems so hard? A network partition survival guide
 
 [Watch the talk on YouTube]()
 
@@ -356,7 +356,7 @@ We learned a little about the differences between the options (and trade-offs as
 
 Denise reminded us that software and hardware failure is inevitable - networks will have blips, a switch or router between the nodes may get accidentally unplugged, or a "noisy neighbour" may steal your resources. This is all unavoidable, so you need to decide what makes the most sense operationally.
 
-## Tickets and Silos Ruin Everything
+# Tickets and Silos Ruin Everything
 
 Damon took us on an [entertaining journey](https://www.youtube.com/watch?v=2fVTaHKWSjs&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=12) from what looked like a simple production change to a huge ticket queue and many hours of person time to get it resolved. I'd thoroughly recommend watching it!
 
@@ -378,7 +378,7 @@ He mentioned that we can remove our silos by creating cross-functional teams. He
 
 Damon described an [Ops-as-a-Service guide][oaas] design, with the ability to self-serve your Operations processes. For instance, you should build platforms that allow pull-based workflows, that can be consumed as needed in either responsibility model. This still sits in the remit of the delivery team, as they're closest to the code and the platform.
 
-## Andrew Bean - Five hops to DevOps – Changing the culture around software deployment in the public sector
+# Andrew Bean - Five hops to DevOps – Changing the culture around software deployment in the public sector
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=Q9ehPE14axI&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=13)
 
@@ -390,11 +390,11 @@ Being "the DevOps person" in the organisation has been tough for Andrew, explain
 
 Noting that DevOps is "different things to different people", Andrew said that it doesn't matter, and shouldn't be a barrier to getting started because you don't feel like you'll "do DevOps right". Although there's some overhead, as long as it improves the metrics you care about, it's a success!
 
-## Louise Paling - Agile Software Development: A Lego Star Wars Story
+# Louise Paling - Agile Software Development: A Lego Star Wars Story
 
 Although I've seen Louise's talk before, I'm still bowled over by what an absolutely awesome analogy of Agile is - I'll say nothing other than [watch it yourself][vid-louise].
 
-## Philipp Krenn - Building Distributed Systems in Distributed Teams
+# Philipp Krenn - Building Distributed Systems in Distributed Teams
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=nuTJ_LGZQJ4&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=15)
 
@@ -408,13 +408,13 @@ Next is the issue around communications failure - working asynchronously can lea
 
 One interesting metric to keep an eye on, Philipp mentioned, is the number of new staff joining compared to the number leaving. In Elastic's case, 130 employees joined compared to 9 leaving; "we must be doing something alright".
 
-## Richard Marshall - Life with Kube
+# Richard Marshall - Life with Kube
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=rkCJ1c74LAA&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=16)
 
 Richard took us on his journey of using Kubernetes through the medium of Emoji, which was a hilarious and well-planned talk. As someone not really in-the-know with Kubernetes, I couldn't relate much to the talk, but found it interesting and engaging nonetheless!
 
-## "I'm a junior, where should I start with DevOps?"
+# "I'm a junior, where should I start with DevOps?"
 
 This was a great session to hear about the experiences of juniors getting into the business from a group of ~50 juniors as well as a number of non-juniors and their approach for how they help prepare their new team members. It was especially interesting with a new set of grads joining us only the week before, so I was interested to hear what other new-ish juniors were thinking and how they'd like to get started.
 
@@ -459,7 +459,7 @@ One positive reminder from a participant to all juniors who are questioning thei
 
 And finally, remember that you're not going to know everything, and it'll take time to start feeling like you're really knowledgeable. We all suffer from [Imposter Syndrome](https://www.youtube.com/watch?v=0JyFHYzpX7g), but you can ground yourself by reminding yourself about all the stuff you've learnt up until now.
 
-### The role of universities
+## The role of universities
 
 There was a comment around how universities don't really prepare you for working in a DevOps environment, and a discussion around the role of universities and whether they even _should_ be teaching this.
 
@@ -475,7 +475,7 @@ Another comment on this was again reminding that DevOps is a cultural change, an
 
 One participant mentioned that they were being taught Pascal at University, but by the time they came to market, the jobs weren't Pascal. That being said, the programming languages you use are a "conduit to programming", as one participant nicely put it - it's not that you can only ever write in that language. Although I didn't echo this at the time, I definitely feel like the Java I wrote at University was very different to that of the code I write in industry and this would likely be true for the DevOps practices, too.
 
-## Where is the QA in DevOps?
+# Where is the QA in DevOps?
 
 > If it works, it's quality
 
@@ -496,7 +496,7 @@ We also spoke a little about quality gates and how we approach them:
 
 I'd also recommend a read of [_DevTestOps According to the Experts_ on mabl.com](https://www.mabl.com/blog/an-expert-talks-to-experts-about-devtestops) which I've seen doing the rounds today, which digs into it a little more.
 
-## Code Reusage with Microservices
+# Code Reusage with Microservices
 
 This open space was concerned with how we can share code amongst microservices; both application code and infrastructure configuration.
 
@@ -508,11 +508,11 @@ We spoke a little about canary/blue-green deployments and how just having the st
 
 Like with many things, there's the trade-off between doing the "right thing" versus the "get it done right now" option.
 
-### Application Code
+## Application Code
 
 One participant had an issue where they had a monolithic "shared library" which contained a lot of shared code, but each of their modules depended on it, which meant that refactorings or new features required careful planning in order to prevent breakage across multiple components. A solution shared by another participant was to split the library into multiple smaller libraries with their own domain scope, and which could be updated more independently.
 
-### Infrastructure
+## Infrastructure
 
 One pattern that I've seen colleagues use for infrastructure code-reuse is using a tool like [Troposphere](https://github.com/cloudtools/troposphere), which creates Python bindings for CloudFormation. This allows you to share your CloudFormation Templates using Python packaging, allowing for code reuse in common Python ways. One alternative was to use [Terraform Modules][tf-modules]. However, whichever way you do it, one attendee mentioned that it's likely going to be made generic to the point it's a maintenance burden and hard to use anywhere. A counter argument is that yes, it will be generic, but it can be manageable using [Terraform Workspaces][tf-workspaces].
 
@@ -522,7 +522,7 @@ This led to a conversation around secrets, and at what point do you recycle them
 
 We also had a quick discussion around autogenerating code, such as [swagger-codegen], and I mentioned that we'd spoken about it only the previous month in my team but discussed that we'd not go this route because there was no traceability or consistency with code style and quality when using autogenerated code.
 
-## Closing Remarks
+# Closing Remarks
 
 I want to say another huge thanks to the organisers, it was a really great couple of days, and I've very much looking forward to coming next year, too!
 

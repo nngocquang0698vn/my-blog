@@ -22,7 +22,7 @@ license_code: Apache-2.0
 ---
 **Note: The code snippets in this post are licensed as Apache-2.0 and available at [<i class="fa fa-gitlab"></i> jamietanna/example-cookbook-helper-gem][example-cookbook-helper-gem].**
 
-## Foreword
+# Foreword
 
 As the number of cookbooks I'm working on grows, there are a number of common tasks that I need to have automated. These include, but are not limited to, linting, unit testing and generating documentation. For cookbooks I test with GitLab CI, I also autogenerate the `.gitlab-ci.yml` file, creating a separate phase per test suite. These tasks are performed using Rake, the Ruby task runner.
 
@@ -30,7 +30,7 @@ Having multiple copies of the same code was starting to grind on me, and as part
 
 **Note**: All the below commands are prefaced with `chef exec`, to tie the version of Ruby, RubyGems and Bundler with the version in the ChefDK, making sure all dependencies will be aligned.
 
-## Determining Dependency Versions
+# Determining Dependency Versions
 
 Now, this seems like quite an easy task, but to throw a slight spanner in the works, we'll also require that the Gem tests against the **exact versions of tools** as in the ChefDK at version 2.4.17, which is the version I'm currently using. This ensures that across any machine, they'll only ever use the right versions, instead of potentially polluting our installation with incorrect Gem versions.
 
@@ -58,7 +58,7 @@ foodcritic (12.2.1)
 rubocop (0.49.1)
 ```
 
-## Creating our Gem
+# Creating our Gem
 
 For example, we'll call this Gem `cookbook_helper`, following the [naming scheme as defined in RubyGems' docs][name-your-gem].
 
@@ -96,11 +96,11 @@ Gem::Specification.new do |spec|
   ...
 ```
 
-## Code Style Tasks
+# Code Style Tasks
 
 The quickest tasks we can bring in are the code style tasks, [Rubocop] and [FoodCritic].
 
-### Rubocop
+## Rubocop
 
 Starting with Rubocop, we need to first add the dependency to our `cookbook_helper.gemspec`:
 
@@ -118,7 +118,7 @@ require 'rubocop/rake_task'
 RuboCop::RakeTask.new(:rubocop)
 ```
 
-### FoodCritic
+## FoodCritic
 
 Again, we simply need to version pin FoodCritic:
 
@@ -153,7 +153,7 @@ To preserve the functionality of the `foodcritic`, we can add the following conf
 ```
 
 
-## Unit Testing Tasks
+# Unit Testing Tasks
 
 Cookbook unit testing is traditionally done using [ChefSpec][chefspec], which wraps some Chef-iness around RSpec:
 
@@ -179,11 +179,11 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'berkshelf', '= 6.3.1'
 ```
 
-## Documentation Rake Tasks
+# Documentation Rake Tasks
 
 As I've [mentioned before][tags-knife-cookbook-doc], I use [knife-cookbook-doc] as a means to pull inline documentation into the `README.md`.
 
-### Generating Documentation
+## Generating Documentation
 
 For pulling in `knife-cookbook-doc`, we also need to specify the version of `chef`, which matches the version ChefDK 2.4.17 provides:
 
@@ -196,7 +196,7 @@ Gem::Specification.new do |spec|
 
 Note that we need a minimum of `0.25.0` to support generating documentation for Chef 13, but this could be anything, really. In this case, we'll pull in anything matching [Semantic Versioning minor bumps][semver].
 
-### Testing Documentation
+## Testing Documentation
 
 It may be useful to be able to generate documentation, but it'd also be pretty useful to be able to confirm whether the `README.md` has been updated.
 
@@ -226,9 +226,9 @@ We utilise Rake's dependencies functionality to ensure that `doc_test` isn't run
 
 When the files aren't identical, we output a friendly error message to inform the user that they need to update the documentation, as well as outputting the raw diff between the files. The diff itself is to make it easier to debug any cases where they're different.
 
-## Cleaning up our `Rakefile`
+# Cleaning up our `Rakefile`
 
-### Wrapping Related Blocks in `namespace`s
+## Wrapping Related Blocks in `namespace`s
 
 Rake's `namespace`s functionality allows us to place common code into blocks, such as:
 
@@ -323,7 +323,7 @@ rake style:rubocop:auto_correct  # Auto-correct RuboCop offenses
 rake unit:spec                   # Run RSpec code examples
 ```
 
-### Creating Helper `task`s
+## Creating Helper `task`s
 
 Now we're using `namespace`s, it's more complicated to call certain tasks, such as `rake style:rubocop && rake style:foodcritic` to run our style checks. By combining these in a top-level `task`, we can prevent this:
 
@@ -340,7 +340,7 @@ We can also add in a `default` task to allow us to simply run `rake`, and call t
 task default: ['style', 'doc:test', 'unit']
 ```
 
-## Integrating into Cookbooks
+# Integrating into Cookbooks
 
 Now we've set up our Rake tasks, we need to actually integrate into another cookbook. However, we don't need to push it up to [RubyGems][rubygems] quite yet, as we can test it all locally.
 

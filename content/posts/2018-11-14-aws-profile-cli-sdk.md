@@ -21,7 +21,7 @@ Although the `~/.aws/config` file allows you to specify a default region, you ca
 
 However, as I found earlier today in the [Stack Overflow post _How do I set the name of the default profile in AWS CLI?_](https://stackoverflow.com/a/48524810), we can see that we are able to specify the environment variable `AWS_PROFILE`, which will then be automagically picked up by the AWS CLI as well as any of the SDKs you use.
 
-## Example
+# Example
 
 In this example, we'll use the `iam list-account-aliases` subcommand, purely to verify a connection to AWS using a profile set.
 

@@ -15,7 +15,7 @@ I've recently been finding myself trying to coerce YAML to JSON and vice versa q
 
 As it's been required a number of times, I decided that I needed to script it. The key requirement I have for scripting it is that the script follows the [UNIX Philosophy][unix-philosophy] - more specifically the second point, `Expect the output of every program to become the input to another, as yet unknown, program.`. This means that I can easily create Bash pipelines, i.e. in conjunction with [Python's JSON module][python-mjson]: `ytoj < file.yml | python -m json.tool`.
 
-## Converting from YAML to JSON
+# Converting from YAML to JSON
 
 To convert from YAML to JSON, we can use the following:
 
@@ -35,7 +35,7 @@ Using inspiration from [otobrglez's gist][otobrglez-gist], we can shorten this d
 ruby -ryaml -rjson -e 'puts(YAML.load(ARGF.read).to_json)'
 ```
 
-## Converting from JSON to YAML
+# Converting from JSON to YAML
 
 To convert from JSON to YAML, we can use the following:
 

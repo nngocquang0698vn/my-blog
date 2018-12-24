@@ -13,7 +13,7 @@ date: 2017-04-17
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## Creating Your Commit Template
+# Creating Your Commit Template
 
 Do you find that you have difficulty remembering what your commits should look like? And how to best ensure that you're following best practices[[1]][beams-commit][[2]][tpope-commit][[3]][jvt-talk]? Do you wish there was a way to make yourself remember how to do it, for instance in the `$EDITOR` you're using to write the commits?
 
@@ -63,7 +63,7 @@ $ cat ~/.gitconfig
 
 This means that when you next run `git commit` (note the lack of `-m`, which is recommended against in [_5 Useful Tips For A Better Commit Message_][thoughtbot-commit]) your `$EDITOR` will be filled with the above message. This will then give you the reminder of what to put, and to help you edit it to your heart's content. Additionally, using an editor such as Vim or Emacs will provide automatic syntax highlighting that auto wraps the content to 72 characters, and highlight the summary line when greater than 50 characters.
 
-## Using a Snippet
+# Using a Snippet
 
 However, I personally don't like using a big block of text to remind me this, as I'm a bit more used to verbose commits. Instead, what I want is to easily create my commit template and be able to `<TAB>` through it.
 

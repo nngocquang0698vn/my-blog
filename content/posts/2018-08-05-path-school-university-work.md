@@ -26,7 +26,7 @@ In the run up to the afternoon of speed networking, I had been thinking back abo
 
 After some of the questions I received at the speed networking session with the current boys, I decided that in [the spirit of Blogumentation][blogumentation] I would write these answers up for posterity, as well as to be able to add any new questions that I may receive in the future.
 
-## Timeline
+# Timeline
 
 I feel a small timeline of the run up to "now" would be of use especially around giving some further context on my experiences.
 
@@ -154,9 +154,9 @@ __2018-2018__ - Software Development Engineer 2 at Capital One UK
 - Promotion to Software Development Engineer 2 in January 2018
 - Started move into Quality Engineering at the start of July
 
-## Common Questions
+# Common Questions
 
-### "What project did you do for your A2 final project?"
+## "What project did you do for your A2 final project?"
 
 For my A2 project, I built a student organiser web application, which had the ability to display a colour-coded timetable as well as being able to enter homework. More details can be found on the [Libelius Student Organiser](/projects/libelius/) project page.
 
@@ -168,7 +168,7 @@ I learnt a huge amount through the project, and enjoyed my first foray into buil
 
 If I was able to redo the project with only one piece of knowledge I've learnt since, it would be version control. Git was one of the most important things I learned outside of uni, and has helped me with so many headaches - this project could've been one of them!
 
-### "How many languages did you learn at uni?"
+## "How many languages did you learn at uni?"
 
 During my course I was exposed to a number of languages, with various levels of depth of knowledge. However, the "core" language would be Java, used by the compulsory modules that required programming experience.
 
@@ -203,7 +203,7 @@ __Third Year__
 - Haskell (Compilers)
 - Unreal Engine (Games)
 
-### "What languages do you use at work?"
+## "What languages do you use at work?"
 
 In terms of the languages that I regularly use:
 
@@ -220,23 +220,23 @@ But in terms of the tech stack our Software Engineering department as a whole us
 - Backend Services - Java
 - Scripting - Ruby, Shell Scripts, Groovy, Python
 
-### "What would you do if you hadn't done Computer Science"
+## "What would you do if you hadn't done Computer Science"
 
 I was fortunate to know since year 8 that I wanted to go into technology, so aside from that I didn't really have any other draws. As mentioned, I did Latin and English Literature at A Level because I enjoyed the subjects and wanted to explore them further, not because I saw them as an end goal for my career.
 
 So honestly I couldn't say what I would be doing if it weren't for Computer Science.
 
-### "Do you need A Level Computing to study Computer Science/Software Engineering/...?"
+## "Do you need A Level Computing to study Computer Science/Software Engineering/...?"
 
 No! I would say about 25-50% of my university year came with no previous experience of computing.
 
 Although it made the first year easier, as I was a little ahead, and therefore needed to work a little less hard (at times), it didn't necessarily mean I was better. A number of students who joined without computing backgrounds came out with higher grades in the first year, when they were still learning, and came out of university with some of the highest grades.
 
-### "Do you need a degree to become a Computer Scientist/Software Engineer/...?"
+## "Do you need a degree to become a Computer Scientist/Software Engineer/...?"
 
 Also no! At least a quarter of my immediate colleagues, let alone the wider department, haven't had a formal education in Computer Science / Software Engineering. Many exceed their colleagues who _have_ had formal educations, partly due to the fact that they've had to work harder to get to the same level.
 
-### "Information/Cyber Security is pretty hot right now, should I be doing that?"
+## "Information/Cyber Security is pretty hot right now, should I be doing that?"
 
 I had originally looked at Cybersecurity, as it was how I first got properly interested in tech (see [Pre-GCSEs](#timeline)).
 
@@ -246,7 +246,7 @@ This was admittedly before the security field was as "hot" as it is now, but I f
 
 As I mentioned, it turns out that this was exactly the right choice __for me__, as I found that security wasn't quite the path I wanted to take.
 
-### "How much of your day do you spend coding?"
+## "How much of your day do you spend coding?"
 
 As a controversial counter question, what do you define as "coding"? If you mean writing Java application code, then very little. If you include automation/scripting, then a tonne.
 
@@ -258,7 +258,7 @@ More recently I've been involved in a lot of cross-team sessions as we've been w
 
 There are definitely a lot of jobs out there that are just concerned with being a (for want of a better term) "code monkey" where you can just write code. Surprisingly, I've found that I actually enjoy a role where I have the opportunity to look at wider impacts and how to standardise approaches, while still being able to deliver functional work. I say this which is a surprise, as I didn't think I'd be as much of a fan of working with other people as I do!
 
-### "Why Nottingham?"
+## "Why Nottingham?"
 
 I've previously done [a whole talk][came-for-the-campus-stayed-for-the-community] on this subject, but to summarise:
 
@@ -281,7 +281,7 @@ Being able to get a year working on real projects really appealed to me, but unf
 
 I found it was much more rewarding to do all the work to get my placement year sorted off my own back and network, rather than relying on the University's contacts, even if it did sink into the time I had available in my second year. The university were more than happy for me to do one, it just anything that would count to my degree.
 
-### "How much of your degree do you use day-to-day?"
+## "How much of your degree do you use day-to-day?"
 
 A lot of the base programming knowledge I developed as part of my degree are used whenever I'm programming, as well as:
 
@@ -291,7 +291,7 @@ A lot of the base programming knowledge I developed as part of my degree are use
 
 That being said, I would still say that a lot of the practical techniques for development have come from my side projects or time at hackathons, and there's also a fair amount of my degree that I've not been given the opportunity to use.
 
-### "Did your degree prepare you for day one work?"
+## "Did your degree prepare you for day one work?"
 
 No:
 
@@ -306,7 +306,7 @@ Yes:
 - I had a level of confidence in my knowledge that meant I could get started much earlier than other new hires
 - It was easier to have conversations and gain understanding, as I already had some fundamentals in place
 
-### "Where do you see yourself in a few years?"
+## "Where do you see yourself in a few years?"
 
 When joining Capital One, I had already started thinking about what my next steps would be. But after actually getting stuck in after a month or so of being there, I realised that _no_, I had _so much to learn_ from some really amazing engineers, and that it was silly me thinking of moving on before I've really grown as an engineer and an individual.
 
@@ -318,11 +318,11 @@ One of the pieces of feedback I received from my manager at my end of year appra
 
 **Note**: Since originally writing the above, I have announced [I will be moving into Quality Engineering][qe-announce]. This will be a great opportunity to see the other side of developing the Identity Service, as well as looking to move into one of the more business-facing parts of the company in the future. I'm looking at bringing over some of the practices I've helped share in Software Engineering such as shared library and pattern reusage, to help standardise some common pieces of Quality Engineering.
 
-## Points from me
+# Points from me
 
 There have been a few other items that I hadn't been asked specifically about, but that were points I mentioned in passing or wanted to share more info about.
 
-### There's more to Tech than just "regular software engineer"
+## There's more to Tech than just "regular software engineer"
 
 __Note__: I am using the term "regular software engineering" here to quote a term that I've heard used before. I do not agree with it.
 
@@ -349,7 +349,7 @@ That doesn't mean this list isn't exhaustive, there are no doubt tonnes of other
 
 If any of these roles sound of interest, Capital One are always hiring! And if you're interested in Grad/Intern roles let me know and I can keep you posted for when they're open.
 
-### Employers shouldn't necessarily just look at grades (in an ideal world) / You should aim for more than "just a degree"
+## Employers shouldn't necessarily just look at grades (in an ideal world) / You should aim for more than "just a degree"
 
 __Note__: This section is my personal view, and pictures an ideal world in which everything is possible. It doesn't _necessarily_ frame the state of the world right now.
 
@@ -367,7 +367,7 @@ Interviews are always hard, and you're always nervous, but you can get a little 
 
 However, this __often is not possible__; you may need to work a job while you're at university, as you're not barely able to make your accommodation costs, or you may not have the time to go to events because you're finding you're spending more time learning than everyone else. So don't go beating yourself up if you aren't fortunate enough to have the free time, as employers should also be mindful of circumstances.
 
-### Privilege
+## Privilege
 
 I would like to reiterate that I've had incredible privilege while I've been at university:
 
@@ -376,11 +376,11 @@ I would like to reiterate that I've had incredible privilege while I've been at 
 - I've been able to work on high end hardware
 - I've not needed to work my way through university just to be able to pay for my accommodation and put food on the table
 
-## Any more questions?
+# Any more questions?
 
 If there's anything you want answered, reach out to me using my contact details in the page footer.
 
-## Looking Forward
+# Looking Forward
 
 I find it incredibly rewarding to be able to help others find fulfillment, and I'd love to help others find the same level of job and career satisfaction that I have. I'd love to be able to share my experiences and any help I can.
 

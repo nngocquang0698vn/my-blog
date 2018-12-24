@@ -15,7 +15,7 @@ license_code: Apache-2.0
 ---
 I am a firm believer of the fact that Git history should be documentation for the reasoning behind _why_ the code is as it is. As such, I take care to make my commits follow [Chris Beams' commit guidelines][git-commit], which usually involves writing the commit while reading the diff of what's changed, so I don't forget anything.
 
-## Manual `git diff`s
+# Manual `git diff`s
 
 My common workflow for writing commit messages used to be along the lines of:
 
@@ -30,11 +30,11 @@ This meant I would have fresh in my mind the changes that I had recently made, a
 
 However, this wasn't great for large diffs, as I'd have to either remember the full diff and all the changes made, or switch between `$EDITOR` and diff.
 
-## Using `vim-fugitive`
+# Using `vim-fugitive`
 
 Then, I discovered [vim-fugitive][vim-fugitive] which adds easy access to Git-specific information from Vim. This allowed me to run `:Gdiff` while editing a commit, which would open up the diff in a split.
 
-## Using `git commit --verbose`
+# Using `git commit --verbose`
 
 However, as an even better way of doing this, I found I can take advantage of Git's `commit --verbose` mode, which prepopulates a commit message with the full diff, i.e.
 
@@ -54,7 +54,6 @@ Part of #93.
 # with '#' will be ignored, and an empty message aborts the commit.
 # On branch master
 # Your branch is up-to-date with 'origin/master'.
-#
 # Changes to be committed:
 #	new file:   _drafts/git-commit-verbose.md
 #
@@ -92,7 +91,7 @@ index 0000000..03deabc
 
 This means that I don't need any plugins, and can remain in my `$EDITOR`, as well as it being a fully supported configuration by Git, by running `git config --global commit.verbose true`.
 
-## In Summary
+# In Summary
 
 To see this article in action, check out the asciicast:
 

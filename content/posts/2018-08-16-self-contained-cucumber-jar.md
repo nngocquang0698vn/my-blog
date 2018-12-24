@@ -26,11 +26,11 @@ Although you may only be interested in one of the above, all three are enabled w
 
 This post is supported by the Git repo [<i class="fa fa-gitlab"></i> fat-cucumber-jar][fat-cucumber-jar] and uses the very arbitrary example of testing that adding items to a `List` works. However, these examples will work with more complicated examples such as working with an API.
 
-## Why?
+# Why?
 
 Let's break down each of these reasons into an explanation of why they're important.
 
-### "Why would I want tests for my Cucumber steps?"
+## "Why would I want tests for my Cucumber steps?"
 
 This is likely a separate post altogether but the short of it is that until you can run your Cucumber steps against i.e. your API, you have no idea if it will work. By testing the steps themselves, before they're actually run by Cucumber, we can gain further confidence that the behaviour of the steps once we run it in Cucumber will be correct.
 
@@ -38,19 +38,19 @@ This has the added bonus if you're in a situation where you can write your test 
 
 **Update**: I've expanded on this point in the article [_Why You Should Be Unit Testing Your Functional (i.e. Cucumber) Tests_]({{< ref 2018-11-07-unit-test-functional-tests >}}).
 
-### "Why would I want a versionable JAR?"
+## "Why would I want a versionable JAR?"
 
 Although checking out the source code of the project (be it using a Git commit hash, Git tag, or just a branch reference) is a great way to ensure you're running a given version of the tests, it doesn't beat having a source-of-truth in the form of an artefact that can be published to i.e. Maven Central.
 
 Not only does this mean that you don't risk conversations like "what branch are you on? What's the SHA hash of the commit you're on?", but you also don't have to worry about local build environments being different, as you can simply say "I used v1.2.2018-08-13.123 and here is the direct link" to that arefact.
 
-### "Why would I want a self-contained artefact?"
+## "Why would I want a self-contained artefact?"
 
 By having a self-contained artefact, we only need to pull down one JAR instead of using Maven dependency management to pull all the dependencies at runtime. This simplifies the process as there's now only a single artefact to download.
 
 However, as outlined in [Resurrecting dinosaurs, what could possibly go wrong?][resurrecting-dinosaurs], this will result in downloading many copies of the same version of Cucumber (and all other dependencies) which is duplicated in each artifact, increasing your download sizes and the size of your Maven cache.
 
-## Before
+# Before
 
 A traditional setup for a Cucumber project in Maven is as follows:
 
@@ -217,9 +217,9 @@ Archive:  target/fat-cucumber.jar-0.1.jar
      2084                     7 files
 ```
 
-## After
+# After
 
-### Splitting Implementation and Tests
+## Splitting Implementation and Tests
 
 Firstly, we need to change our directory structure:
 
@@ -233,7 +233,7 @@ src/test/java/me/jvt/hacking/StepsTest.java
 
 Notice that we now only have `StepsTest` in our `src/test` folder, and that the other files are now in `src/main` as they're implementation-specific.
 
-### Building a JAR
+## Building a JAR
 
 We need to [update our POM] to replace `maven-surefire-plugin` with `maven-shade-plugin`:
 
@@ -281,7 +281,7 @@ Note here that our `features` need to be pulled from the `classpath`. This is im
 
 This means that when we run `java -jar` it'll pick up the right class, and run our Cucumber tests with the JUnit runner (which `maven-failsafe-plugin` does under the hood).
 
-### Updating Dependency Scopes
+## Updating Dependency Scopes
 
 Finally we need to update the `scope` of our dependencies, ensuring we now have everything relevant outside of `test`:
 
@@ -315,7 +315,7 @@ Finally we need to update the `scope` of our dependencies, ensuring we now have 
      </dependencies>
 ```
 
-### Building the Project
+## Building the Project
 
 We can now build the project with a `mvn clean verify`:
 
@@ -416,7 +416,7 @@ Archive:  target/fat-cucumber.jar-0.2.jar
  18569423                     5356 files
 ```
 
-### Running Cucumber
+## Running Cucumber
 
 You'll notice there was no Cucumber run at this point. As Surefire is no longer triggered, we'll need to manually run our Cucumber tests using `java -jar`:
 
@@ -436,7 +436,7 @@ OK (2 tests)
 
 Now, we only run our Cucumber tests.
 
-### Running Cucumber from the JAR as Part of a `mvn verify`
+## Running Cucumber from the JAR as Part of a `mvn verify`
 
 We can also hook in our Cucumber run from the JAR as part of our Maven build, [hooking into the `integration-test` phase in our parent POM]:
 
@@ -536,7 +536,7 @@ OK (2 tests)
 
 Which as we can see, runs Cucumber right at the end of the Maven build.
 
-## Adding HTML outputs
+# Adding HTML outputs
 
 As an avid reader has reminded me, we may also want to have HTML reports from our Cucumber run. This can be done by [amending the `CucumberOptions` annotation]:
 
@@ -552,7 +552,7 @@ $ ls target/cucumber-html
 formatter.js  index.html  jquery-1.8.2.min.js  report.js  style.css
 ```
 
-## Prettier Cucumber Command-Line Output
+# Prettier Cucumber Command-Line Output
 
 If we wanted a slightly more `pretty` output for our test run, we can update our `CucumberOptions`:
 
@@ -588,7 +588,7 @@ OK (2 tests)
 ```
 
 
-## Summary
+# Summary
 
 We're now building a JAR for our Cucumber tests, which allows us to build once and run many times. We have confidence in releasing our JARs by writing tests for our steps, meaning we're able to release our tests before we actually run them against our API, as we are happy they'll do what they are meant to.
 

@@ -28,7 +28,7 @@ We don't care about looking at the signature, only the header and payload.
 
 As per [Pretty Printing JSON with Ruby on the CLI], we can take the core of the commandline to perform the pretty printing of `ARGF`, but have two choices as to how to proceed:
 
-## Using Ruby's Standard Library
+# Using Ruby's Standard Library
 
 For a purely dependency-less method to decode our JWT, we can use Ruby's built in libraries to decode and pretty-print the result. Because JWTs are Base64 and URL encoded, we need to correctly decode the JWT fields.
 
@@ -59,7 +59,7 @@ You can see the asciicast in action:
 
 <asciinema-player src="/casts/pretty-printing-jwt-ruby-stdlib.json"></asciinema-player>
 
-## Using `ruby-jwt` library
+# Using `ruby-jwt` library
 
 If you're willing to pull in some external dependencies, or have them already got them installed i.e. in the ChefDK, you can update your script to use the `ruby-jwt` library:
 

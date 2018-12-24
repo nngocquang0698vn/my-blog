@@ -24,7 +24,7 @@ Last Wednesday, I was able to attend the [Chef Users UK] meetup where Chef Commu
 
 Although I've only recently gone through [Chef 13 upgrades], I hadn't yet had a chance to look at what was coming in Chef 14. This made it a great talk, as there was a great mix of what's coming, and the reasoning behind why.
 
-## Notable News
+# Notable News
 
 Notable news (according to me):
 
@@ -36,7 +36,7 @@ Notable news (according to me):
 - InSpec 2.0 brings a number of features, such as being able to audit your AWS and Azure resources
 - Chef will now work to an annual release cadence
 
-## New Resources in Chef Client
+# New Resources in Chef Client
 
 A tonne of new resources have been merged from the community cookbooks into the Chef core:
 
@@ -47,7 +47,7 @@ A tonne of new resources have been merged from the community cookbooks into the 
 
 This means it's even easier to get up and running without needing (as many) community cookbooks.
 
-## Fleet and Workstation Management
+# Fleet and Workstation Management
 
 Chef has recently been doing some great work to make it a great platform for managing the machines in your fleet as well as the servers you deploy to, with big names like Facebook and Slack using it for managing their fleet.
 
@@ -55,11 +55,11 @@ As mentioned, Chef 14 pulls a lot of Windows and OSX-specific functionality from
 
 This will definitely help reduce the number of tools required to get managing your fleet, as well as building the same quality into your workstations as that of your servers.
 
-## Making Deprecations Easier in Custom Resources
+# Making Deprecations Easier in Custom Resources
 
 There are a few new ways to announce deprecations to users with Chef 14. Code snippets via [Chef 14 Release Notes][14-release-notes].
 
-### Deprecating a Resource
+## Deprecating a Resource
 
 ```ruby
 deprecated "The foo_bar resource has been deprecated and will be removed in the next major release of this cookbook scheduled for 12/25/2018!"
@@ -71,19 +71,19 @@ action :create do
 end
 ```
 
-### Deprecating a Property without Migration Path
+## Deprecating a Property without Migration Path
 
 ```ruby
 property :thing2, String, deprecated: 'The thing2 property has been deprecated and will be removed in the next major release of this cookbook scheduled for 12/25/2018!'
 ```
 
-### Deprecating a Property with a Migration Path
+## Deprecating a Property with a Migration Path
 
 ```ruby
 deprecated_property_alias 'thing2', 'the_second_thing', 'The thing2 property was renamed the_second_thing in the 2.0 release of this cookbook. Please update your cookbooks to use the new property name.'
 ```
 
-## Documenting Resources
+# Documenting Resources
 
 As I've blogged about a number of times before, I use [`knife-cookbook-doc` gem][knife-cookbook-doc] to document my resources. However, it looks like Chef 14 may be making this easier, by allowing inline description for properties:
 
@@ -103,7 +103,7 @@ action :add do
 end
 ```
 
-## Breaking Changes
+# Breaking Changes
 
 It is worth reading through the full release notes on [Chef Docs website][14-release-notes], as they have a full list, however notable changes (according to me):
 
@@ -124,13 +124,13 @@ It is worth reading through the full release notes on [Chef Docs website][14-rel
 
 
 
-## "Soon"
+# "Soon"
 
 Thom mentioned we'll soon have semantic logging which will make it easier to both log, and filter, messages more easily.
 
 ChefDK 3 will soon be out which includes many bugfixes and feature bumps for Chef development tools such as FoodCritic, Cookstyle/Rubocop, Test Kitchen, InSpec, and ChefSpec.
 
-## Preparing for Chef 14
+# Preparing for Chef 14
 
 Thom mentioned that the best way to pre-warn upgrade issues is to configure the `provisioner` in Test Kitchen to raise an error if any deprecations are found (via [Chef Deprecation Warnings][testing-for-deprecations]):
 
@@ -145,7 +145,7 @@ Additionally, by regularly upgrading to new minor/patch versions, you'll be able
 
 FoodCritic 13, included in ChefDK 3, will also start complaining about deprecation warnings to help reduce feedback time for determining breaking future breaking changes. Because this gem can be used on its own, you don't need to fully upgrade your ChefDK or Chef Client version to pick up new deprecations!
 
-## Full Release Notes
+# Full Release Notes
 
 The full release notes are documented on the [Chef Docs website][14-release-notes].
 

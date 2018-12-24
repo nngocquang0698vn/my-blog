@@ -43,7 +43,7 @@ e51780f Make site subtitle bold
 
 However, after getting annoyed by this I've now discovered some other options, thanks to [Stack Overflow][so-submodule-diff], which can make it much easier to view changes with.
 
-## `diff` Format
+# `diff` Format
 
 Perhaps the most useful of the options is an actual diff of changes within the submodule:
 
@@ -82,7 +82,7 @@ And adding:
   submodule=diff
 ```
 
-## `short` Format
+# `short` Format
 
 `short` simply shows the commit at the beginning and the end of a stage, such as:
 
@@ -112,7 +112,7 @@ And adding:
   submodule=short
 ```
 
-## `log` Format
+# `log` Format
 
 Alternatively, you can get a log format, which is nice for putting in a CHANGELOG/commit message:
 

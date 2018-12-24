@@ -17,7 +17,7 @@ date: 2018-11-19
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## Why
+# Why
 
 The reasoning behind this post is very similar to [_Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests_]({{< ref 2018-08-16-self-contained-cucumber-jar >}}), but doesn't include the comment about the separation of unit tests and cucumber steps.
 
@@ -28,7 +28,7 @@ This means that the two reasons we'd want a fat JAR is:
 
 As mentioned in the Cucumber post, we don't necessarily want both of these, but they're both achieved with this approach.
 
-## Before
+# Before
 
 A traditional setup for a Gatling project in Maven is as follows:
 
@@ -277,7 +277,7 @@ Archive:  target/fat-gatling-jar-0.3.jar
      2903                     8 files
 ```
 
-## After
+# After
 
 To enable the creation of a self-contained Gatling artefact, we first need to move our Gatling files from `src/test` to `src/main` to fit within Maven's directory structures:
 
@@ -845,7 +845,7 @@ We ideally should remove our `gatling-maven-plugin` and instead run our JARs sep
                  </executions>
 ```
 
-## Notes
+# Notes
 
 You may receive the following error if your Maven shade configuration doesn't include the `excludes` mentioned in [this StackOverflow post](https://stackoverflow.com/a/6743609):
 

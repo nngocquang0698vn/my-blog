@@ -32,7 +32,7 @@ describe 'cookbook::default' do
 end
 ```
 
-## Ensuring dependent recipes don't get run
+# Ensuring dependent recipes don't get run
 
 When you're performing a `runner.converge` with ChefSpec, it is performing a converge by going through each of the recipes and running them in-memory. Because it actually runs the recipe, it means that if a given recipe requires any attributes to be set, then you will also need to put your attributes into the calling recipe. As I'm sure you can guess, having recipes including each other will then start to have quite a large set of attributes and configuration required in order to test what looks like a single recipe, but is instead the full chain of recipes required. This breaks the idea of "unit testing", as it doesn't give us a single unit to test against.
 
@@ -55,7 +55,7 @@ end
 ```
 
 
-## Defensive `include_recipe`s
+# Defensive `include_recipe`s
 
 However, if we have this running, it won't flag up `include_recipe` being called on any other recipes that we've not predicted in our tests. Yes, this should be more obvious when practicing TDD, but it **???**. This would mean that recipes could be silently executing in the background, slowing down tests, which may not be as noticeable in the case that they don't require any extra attributes set.
 

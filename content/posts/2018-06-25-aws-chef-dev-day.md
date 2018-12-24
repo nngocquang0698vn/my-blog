@@ -27,7 +27,7 @@ The day was a mix of information via slideshows and a practical demo from Jonath
 
 Although I'd misjudged the level of knowledge required, as well as coming in with very little knowledge about the event due to no agenda or information being published, I had a great time as I got to play around with OpsWorks (which I had recently been pondering) and was able to see the Chef Automate platform in action!
 
-## State of the Union
+# State of the Union
 
 We started off by hearing from Jonathan about how Amazon has changed over the last 15 years, starting with a monolithic C binary that was literally gigabytes in size, which adhered to a fixed release cadence and a lot of complaining if any team broke the release and meant everyone's work from the last week was blocked until debugging could be completed. And now they run a service-oriented architecture using microservices, with teams owning all their own processes, which allowed a whopping 1430 feature releases to Amazon customers over 2017.
 
@@ -35,7 +35,7 @@ It was interesting to hear how the company is actually run as hundreds of differ
 
 Jonathan mentioned that this has led to a common experience within the AWS console UI, where there may be different UI styles between pages. This happens due to teams deciding that they prioritise feature releases over consistent UI, with the aim to pick it up after more important features.
 
-### Pessimistic Deployments
+## Pessimistic Deployments
 
 One key learning over this migration to microservices was that although there was a drive to build confidence in their release process, they had resigned themselves to realise that there would _always_ be something they missed in their quality gates or release readiness, regardless of best intentions. The idea that there would always be a non-zero possibility of negative effects in a release; you may as well prepare for it rather than be surprised when it happens.
 
@@ -51,7 +51,7 @@ Once happy with how that box is responding, other instances in the Availability 
 
 Once all AZs in the first region are migrated, the next region can be deployed to, again starting with a single box, and slowly increasing load while monitoring compared to the previous region.
 
-## Application vs Infrastructure
+# Application vs Infrastructure
 
 Jonathan discussed some differences that AWS see around key components in a piece of software, and how they largely split into two:
 
@@ -79,7 +79,7 @@ Infrastructure pipeline (i.e. AWS services, maybe DNS or Proxy):
 
 There could also be pipelines for your compliance, security, policies or canary deployments, as well as many others depending on how your organisation works.
 
-## An Introduction to CloudFormation Templates (CFTs)
+# An Introduction to CloudFormation Templates (CFTs)
 
 Darko started off by explained how CFTs were of use and what a template looked like. This gave some context for those in the group who weren't as experienced with the AWS Cloud.
 
@@ -92,7 +92,7 @@ It helped frame how, when you're building a new service, you have a number of fa
 
 Once the designs are in place, you still have the task of building it, which can be quite repetitive, so you'd want a way to easily duplicate your designs, in a form that is easily versionable. This is something that CloudFormation can excel at, with a self-documenting syntax, and leveraging [Parameters] for customisation.
 
-## An Introduction to Chef
+# An Introduction to Chef
 
 Tom explained what Chef was, and how it could be used for an array of business needs:
 
@@ -107,7 +107,7 @@ He shared how Chef was used to describe the "desired state" of a node in a human
 
 One interesting feature of Chef is that it's built to idempotent. It means Chef can be run more than one time on the same node, but always end up in the same desired state. This allows scheduling of a Chef-client run at i.e. 30 minute intervals, ensuring that your nodes don't have any configuration drift, such as someone logging onto the node and changing debug logging, or adding their own SSH keys.
 
-## AWS OpsWorks
+# AWS OpsWorks
 
 AWS OpsWorks is a fully managed Chef Server, with the additional functionality of Chef Automate. It makes it easer to get up and running with Chef and makes it possible to focus on getting applications running.
 
@@ -121,7 +121,7 @@ As an AWS service, it heavily integrates with IAM policies for access control, a
 
 An unfortunate issue with the current architecture of the OpsWorks is that it can't be set up in a true Highly Available setup, but can be hacked around in order to resemble one. The recommended solution is to run two OpsWorks servers, and have nodes connecting to either instance. However, this means that you will have a much harder time determining which of your fleet are connected where, and also have two Chef Automate dashboards, which may be less than ideal.
 
-### Chef Automate
+## Chef Automate
 
 ![The Chef Automate platform](/img/aws-chef-day/chef-automate.jpg)
 
@@ -129,7 +129,7 @@ It was my first time seeing Chef Automate, which has some great visualisation ov
 
 These mappings of compliance can help you meet your organisation's internal policies around not only general and data security, but also fit within any regulatory requirements that your business needs to fulfill.
 
-## Elephant in the room - Containers / Serverless
+# Elephant in the room - Containers / Serverless
 
 A common question Darko regularly receives is "where does Chef come in with containers?", to which he pointed us to watch [the keynote of ChefConf 2018][chefconf-keynote], in which Arun Gupta of AWS talks about how Chef usage will change.
 
@@ -139,7 +139,7 @@ This is targeted by [InSpec], the Open Source compliance tool Chef Software buil
 
 A note from me is that this is not quite true on a hosted container platform, such as Google Kubernetes Enginer or AWS Fargate, nor when working on a "Serverless" platform such as AWS Lambda. In these cases, provisioning is mostly unnecessary, which means tools like Chef will lose their edge.
 
-## "Enterprise as code"
+# "Enterprise as code"
 
 A term I'd not heard used before, but which I quite like is "Enterprise as code":
 
@@ -154,7 +154,7 @@ Where
 
 Not only should (in an ideal world) these all be in an easily machine-readable format, such that tools can take advantage of policies and configuration, but they should be built independently - for instance, changing the directory that Apache installs to shouldn't mean your CloudFront distribution should need to rebuild.
 
-## Inspec
+# Inspec
 
 [InSpec] is a compliance tool built by Chef Software, aiming to shift left the risk of finding compliance issues - from runtime to the build/test phase. InSpec 2 also brings the ability to test databases for i.e. overly open access controls, or verify that cloud infrastructure i.e. doesn't allow incoming traffic from any location.
 
@@ -169,15 +169,15 @@ Two main repos that are of interest are:
 
 A recent finding of mine was that it is built as an agent-less tool with no extra dependencies to pull onto the box. This is great, because you wouldn't want to have your production box, that you'd tested carefully and ensured you only installed what you needed, suddenly pulling down a tonne of new dependencies just to ensure it's secure.
 
-## Other interesting tidbits
+# Other interesting tidbits
 
 There were a number of other gems of knowledge that weren't part of the official planned day, but I wanted to capture as they were of interest.
 
-### `taskcat`
+## `taskcat`
 
 Mentioned in passing, [`taskcat`][taskcat] seems to be a tool to help with testing CloudFormation templates by deploying them against multiple Availability Zones and Regions.
 
-### AWS On-Prem Services
+## AWS On-Prem Services
 
 I'd not heard before about [AWS Snowball], an appliance to help migrating "petabyte-scale data sets into and out of AWS". As I'd not considered the work that must be required to migrate over large datasets to the cloud, this was new information to me - but it makes a lot of sense.
 
@@ -185,27 +185,27 @@ AWS [CodeDeploy] also appears to be able to run on-prem with a licensed agent-ba
 
 AWS OpsWorks is also able to work with any on-prem nodes you have, as long as there is network connectivity, which means it can be much easier to manage both sets of infrastructure while migrating.
 
-### Node de-registration
+## Node de-registration
 
 Chef Automate/Server isn't actually aware of when an instance has i.e. had network traffic interruption, or when it's been destroyed. This means that there are manual steps required to perform cleanup on i.e. EC2s being destroyed in the AWS account.
 
-### AWS Systems Manager
+## AWS Systems Manager
 
 Another service I hadn't heard of before is [AWS Systems Manager][systems-manager], which makes operations easier by adding visualisation on top of groups of resources. An example we were given was the case that you had a known memory leak in your Tomcat servers, and that the trick was just to restart Tomcat when nearing memory limits.
 
-### CloudFormation Template Visual Designer
+## CloudFormation Template Visual Designer
 
 Although it's not something that I'd generally find myself using, the fact AWS have built a [visual designer for CloudFormation][visual-cft] is pretty cool, as you can take any pre-written CFTs and it can generate you a clear architecture diagram.
 
-### VSCode Plugin
+## VSCode Plugin
 
 Darko showed us the [CloudFormation plugin][vscode-cft], which provides autocomplete for CFTs, as well as being aware of the properties for a i.e. an EC2 resource. Although not a VSCode user, it's definitely piqued my interest to looking at what plugins Vim has for writing CFTs.
 
-### `berks install` vs `berks vendor`
+## `berks install` vs `berks vendor`
 
 Tom mentioned that `berks install` pushes the cookbooks into the main Berkshelf directory, for instance `$HOME/.berkshelf/cookbooks`, whereas `berks vendor wibble` creates a bundle of cookbooks in the folder `wibble`.
 
-### Capital One Cloud Custodian
+## Capital One Cloud Custodian
 
 On the topic of Cloud compliance policies, I thought I'd be remiss not to plug Capital One's [Cloud Custodian][custodian] tool. It started as an internal tool, but has since been Open Sourced as it's helped make managing our cloud infrastructure across the enterprise much easier, because it can check things like:
 

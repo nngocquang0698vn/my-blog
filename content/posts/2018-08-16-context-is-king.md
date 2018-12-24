@@ -12,7 +12,7 @@ date: 2018-08-16
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## Uninclusive Conversations
+# Uninclusive Conversations
 
 I've recently been thinking about how I explain myself when talking to others, both those I do and do not work with. This has come out of some reflections on how we've been onboarding a new Technical Programme Manager and Engineering Manager, as well as two engineers on secondment, a new development engineer, a new quality engineer and intern.
 
@@ -26,7 +26,7 @@ These issues make our conversations inadvertently uninclusive, which isn't the i
 
 Fortunately I've found that it's not just our team having this issue - around April we joined the PSD2 / Open Banking compliance Goal Team internally and started interacting with teams who had already been working on the solution for over a year. They too were using terminology that for them and the project was technically correct, but for us as outsiders, we were having difficulty keeping up (which isn't helped by the many confusingly acronyms like AISP, PISP and ASPSP). Although in the previous months the two core engineers had been looking into the regulations and had been involved in some planning meetings around it, it wasn't the nearly the same level of depth of knowledge that can be gleamed by working on it full time.
 
-## How I'm Improving
+# How I'm Improving
 
 Since realising this is an issue, one of the key questions I've been keeping in mind is:
 

@@ -18,7 +18,7 @@ I like to ensure that all my code is as well unit tested as possible, both so I 
 
 However, when I first needed to touch Chef's `ruby_block`s, I found that they were not being executed as part of the ChefSpec run. During a ChefSpec run, I could confirm that the block _would_ be called on a code path, but I wouldn't be able to confirm until an integration test (i.e. converging with Test Kitchen) that the code inside them would actually work.
 
-## Using `ruby_block.block.call`
+# Using `ruby_block.block.call`
 
 Investigating this further, I found that it was possible to use `block.old_run_action(:action)` to trigger the block to run as if the block was actually called during a Chef run:
 
@@ -64,7 +64,7 @@ However, as mentioned in [Chef 13 Upgrade: Testing `ruby_block`s with ChefSpec][
  end
 ```
 
-## Extracting to a Helper Class
+# Extracting to a Helper Class
 
 With the code now working in Chef 13, I started to think about how ideal it was to have this method only tested within the block itself.
 

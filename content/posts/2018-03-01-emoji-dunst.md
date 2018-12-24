@@ -13,13 +13,13 @@ date: 2018-03-01
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---
-## TL;DR
+# TL;DR
 
 - Install [an emoji font][aw-emoji]
 - Restart Dunst
 - Optional: explicitly configure `~/.config/dunst/dunstrc` to include the font
 
-## A little more context
+# A little more context
 
 Although I've used [Dunst][dunst] for a couple of years, it wasn't until recently that I realised I wanted emoji support.
 
