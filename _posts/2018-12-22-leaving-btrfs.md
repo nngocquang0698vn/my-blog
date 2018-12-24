@@ -9,7 +9,7 @@ I've been happily using [BTRFS] as my main filesystem for almost 3 years. Howeve
 
 **Note**: Before I continue, I would like to call out the fact that the decision is *not* to do with anything wrong with BTRFS - I've had a great, stable, time with it, and the reason I'm moving is due to my misuse of it.
 
-The announcement that [Dropbox weer dropping support for any non-ext4 filesystems][dropbox] started me thinking about my usage of BTRFS, and realise that it actually wasn't as important to my life as I thought.
+The announcement that [Dropbox were dropping support for any non-ext4 filesystems][dropbox] started me thinking about my usage of BTRFS, and realise that it actually wasn't as important to my life as I thought.
 
 I started using BTRFS when I got my Dell XPS 13 (9343), and the process of installing Arch Linux on it. Before that, while I was on placement at Intel, I had been using a Lenovo IdeaPad Yoga Pro 2 which started with Ubuntu, but I migrated to Arch after spending too much time on [/r/UnixPorn (Safe for Work)][UnixPorn].
 
