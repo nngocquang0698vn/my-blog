@@ -15,6 +15,10 @@ pygmentsUseClasses = true
 # get information about the Git repo, such as last commit to a file
 enableGitInfo = true
 
+[params]
+  liveSiteUrl = "https://www.jvt.me"
+  image = "/img/profile.png"
+
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
   tags = "/posts/tags/:title/"
