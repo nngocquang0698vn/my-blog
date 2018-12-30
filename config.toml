@@ -5,3 +5,6 @@ title = "Jamie Tanna | Software (Quality) Engineer"
 pygmentsCodeFences = true
 # allow us to hook in custom CSS to render the site's styles
 pygmentsUseClasses = true
+
+# get information about the Git repo, such as last commit to a file
+enableGitInfo = true
