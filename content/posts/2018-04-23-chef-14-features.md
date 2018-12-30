@@ -15,6 +15,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-04-23
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-14-features
 ---
 Update: I've also started to document [any interesting changes required for Chef 14](/posts/tags/chef-14-upgrade).
 

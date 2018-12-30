@@ -10,6 +10,7 @@ tags:
 date: 2018-07-29
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: more-explicit-post-licensing
 ---
 I was recently writing some code at work and remembered that I'd solved the issue before and had written a under [blogumentation][blogumentation] post about it. As I was about to copy-paste in the solution, I stopped myself, remembering that the site was explicitly licensed as GNU Affero General Public License V3. I share my blog with colleagues, and realised that they too were under the same risk. Therefore, I've decided a few changes:
 

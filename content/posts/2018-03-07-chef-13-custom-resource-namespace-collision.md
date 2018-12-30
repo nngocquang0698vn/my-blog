@@ -15,6 +15,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-03-07
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-13-custom-resource-namespace-collision
 ---
 
 In Chef 12 and Chef 13, the following code would work, allowing the `file` resource to access the `my_content` property:

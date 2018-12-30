@@ -12,6 +12,7 @@ image: /img/vendor/gatling-logo.png
 date: 2018-11-19
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: gatling-highcharts-response-time-bounds
 ---
 It feels that since I've moved to having a [Fat/Uber- Jar for my Gatling tests][fat-gatling-jar], the reports that Gatling produces haven't quite looked the same.
 

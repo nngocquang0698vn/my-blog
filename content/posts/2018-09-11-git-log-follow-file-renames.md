@@ -13,6 +13,7 @@ image: /img/vendor/git.png
 date: 2018-09-11
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: git-log-follow-file-renames
 ---
 You'll often want to see the various changes that have been made to a file over time:
 

@@ -16,6 +16,7 @@ tags:
 date: 2018-07-06
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: exciting-news
 ---
 # Moving into Quality Engineering
 

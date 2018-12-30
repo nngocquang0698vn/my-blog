@@ -16,6 +16,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-03-09
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-13-knife-cookbook-doc-rubocop
 ---
 {{< partialCached "posts/chef-13/intro.html" >}}
 

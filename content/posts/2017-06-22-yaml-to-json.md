@@ -10,6 +10,7 @@ tags:
 date: 2017-06-22
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: yaml-to-json
 ---
 I've recently been finding myself trying to coerce YAML to JSON and vice versa quite a bit, partly to convert attributes from a [Test Kitchen][test-kitchen] YAML file to a nice JSON object that can be consumed by [Vagrant][vagrant]'s [Chef provisioner][vagrant-chef].
 

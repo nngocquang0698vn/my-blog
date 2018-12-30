@@ -14,6 +14,7 @@ image: /img/vendor/git.png
 date: 2018-06-01
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: git-subtree-monorepo
 ---
 When I started to give talks, either at [Hacksoc][hacksoc] or Meetups, I wanted a nice way to share both my slides and the sources, so others could see what I did to write them, as well as supporting my passion for Free Software and spreading knowledge.
 

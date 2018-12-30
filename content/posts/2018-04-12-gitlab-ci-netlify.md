@@ -15,6 +15,7 @@ image: /img/vendor/netlify-full-logo-white.png
 date: 2018-04-12
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: gitlab-ci-netlify
 ---
 **Update** The code snippet below has been updated to point to `netlifyctl` rather than the `netlify` Node CLI, as `netlifyctl` is now the recommended CLI interface.
 

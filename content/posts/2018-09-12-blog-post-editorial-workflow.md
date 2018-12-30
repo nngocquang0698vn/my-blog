@@ -19,6 +19,7 @@ tags:
 date: 2018-09-12
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: blog-post-editorial-workflow
 ---
 I'm a big fan of code review. We practice it heavily at Capital One, and [I strive to self-review personal/private projects][personal-code-review]. But when working on articles that I'm writing for my blog I also want to make sure that I've gone through a similar review process before publishing.
 

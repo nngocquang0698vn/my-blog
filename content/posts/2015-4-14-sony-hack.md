@@ -10,6 +10,7 @@ canonical_url: http://www.impactnottingham.com/2015/04/the-sony-hack/
 date: 2015-04-14
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: sony-hack
 ---
 > This article was [originally published](http://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](http://www.impactnottingham.com).
 

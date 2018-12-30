@@ -12,6 +12,7 @@ tags:
 date: 2017-04-28
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: extract-tls-certificate
 ---
 Have you ever needed to add a certificate to your certificate chain, for instance when trusting a new self-signed certificate?
 

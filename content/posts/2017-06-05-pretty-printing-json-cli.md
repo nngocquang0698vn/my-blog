@@ -10,6 +10,7 @@ tags:
 date: 2017-06-05
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: pretty-printing-json-cli
 ---
 You may often find yourself on a command-line, for instance when SSH'd into a server, and need to read some JSON. This could be a JSON configuration file, or indeed it could be simply a response from an API endpoint.
 

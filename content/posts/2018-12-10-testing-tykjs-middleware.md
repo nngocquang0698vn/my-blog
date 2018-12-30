@@ -17,6 +17,7 @@ image: /img/vendor/tyk.io.jpg
 date: 2018-12-10
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: testing-tykjs-middleware
 ---
 Since properly playing around with [Auth0] at Hackference, I've been looking into how to integrate this with tools like [`api.jvt.me`] and soon-to-be [IndieAuth] support to help me manage my personal identity services, and help me strive for Single Sign On everywhere!
 

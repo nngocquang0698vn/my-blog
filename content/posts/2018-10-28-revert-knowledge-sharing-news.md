@@ -11,6 +11,7 @@ tags:
 date: 2018-10-28
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: revert-knowledge-sharing-news
 ---
 It's an unfortunate decision to announce, but I've decided to discontinue my work with [Packt Publishing][packt] to create two Chef video training courses, as announced in [_Some exciting job and knowledge-sharing news_]({{< ref 2018-07-06-exciting-news >}}#creating-chef-training-courses-with-packt-publishing).
 

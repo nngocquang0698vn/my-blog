@@ -10,6 +10,7 @@ tags:
 date: 2018-12-22
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: leaving-btrfs
 ---
 I've been happily using [BTRFS] as my main filesystem for almost 3 years. However, I'm looking to retire my usage and replace it with a more boring filesystem.
 

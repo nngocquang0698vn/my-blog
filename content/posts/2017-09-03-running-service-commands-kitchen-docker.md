@@ -16,6 +16,7 @@ image: /img/vendor/chef-logo.png
 date: 2017-09-03
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: running-service-commands-kitchen-docker
 ---
 
 When writing cookbooks, you need to actually test that they work. This is often done using [Test Kitchen][test-kitchen], a tool that allows you to converge your cookbooks on a real machine. There are a number of drivers that can be used, such as [kitchen-vagrant][kitchen-vagrant] and [kitchen-docker][kitchen-docker].

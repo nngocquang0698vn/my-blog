@@ -13,6 +13,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-11-13
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-14-chefspec-coverage
 ---
 Since [ChefSpec 7.1.2](https://github.com/chefspec/chefspec/tree/v7.1.2), the coverage reporting within ChefSpec is deprecated.
 

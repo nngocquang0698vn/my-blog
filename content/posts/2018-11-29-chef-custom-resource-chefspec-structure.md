@@ -13,6 +13,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-11-29
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-custom-resource-chefspec-structure
 ---
 In line with my article [_Test-Driven Chef Cookbook Development Using ChefSpec (and a sprinkling of InSpec)_][tdd-chef], I heavily unit test the [Custom Resources] I write with my Chef code.
 

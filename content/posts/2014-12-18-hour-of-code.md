@@ -12,6 +12,7 @@ canonical_url: http://www.impactnottingham.com/2014/12/the-hour-of-code-whats-th
 date: 2014-12-18
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: hour-of-code
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/) for [Impact Nottingham](http://www.impactnottingham.com).
 

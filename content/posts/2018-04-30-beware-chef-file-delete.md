@@ -10,6 +10,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-04-30
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: beware-chef-file-delete
 ---
 **Note** - this is slightly clickbait, as this behaviour is somewhat documented in the [Chef docs for the `file` resource][file-resource], although it is not made obvious, and can be a little gotcha.
 

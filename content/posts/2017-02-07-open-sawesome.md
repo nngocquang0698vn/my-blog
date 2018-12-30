@@ -10,6 +10,7 @@ tags:
 date: 2017-02-07
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: open-sawesome
 ---
 
 In December, an event called [24 Pull Requests][24pr] promotes giving back to various FLOSS projects in _an advent-calendar esque_ way.

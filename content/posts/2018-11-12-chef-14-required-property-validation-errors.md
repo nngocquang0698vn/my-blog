@@ -14,6 +14,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-11-12
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-14-required-property-validation-errors
 ---
 While upgrading one of my cookbooks to Chef 14.5.33 (ChefDK 3.3.23), I noticed some test failures around the title of exceptions raised by Chef's validation on `required` properties within custom resources.
 

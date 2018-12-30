@@ -17,6 +17,7 @@ tags:
 date: 2018-11-07
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: unit-test-functional-tests
 ---
 If this seems like a crazy idea, I recommend you to carry on reading, as it just might change your mind!
 

@@ -24,6 +24,7 @@ image: /img/vendor/devopsdays-london-2018.png
 date: 2018-10-25
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: devopsdays-london-2018
 ---
 DevOpsDays London was awesome! The talks were all really interesting and informative and there were some really great conversations I was lucky to be part of.
 

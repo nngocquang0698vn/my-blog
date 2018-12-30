@@ -13,6 +13,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-11-13
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-14-coerce-nil-to-hash-property
 ---
 While [upgrading to Chef 14](/posts/tags/chef-14-upgrade/), I found that `nil`s are being silently coerced to an empty `Hash`, `{}`.
 

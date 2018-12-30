@@ -11,6 +11,7 @@ canonical_url: http://www.impactnottingham.com/2014/11/game-of-drones/
 date: 2014-11-24
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: game-of-drones
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/11/game-of-drones/) for [Impact Nottingham](http://www.impactnottingham.com).
 

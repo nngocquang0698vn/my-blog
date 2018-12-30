@@ -15,6 +15,7 @@ image: /img/vendor/chef-logo.png
 date: 2018-02-16
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: berkshelf-proxy-workaround
 ---
 I found recently that when trying to download cookbooks in an environment that required a proxy, I would encounter the error `OpenSSL::SSL::SSLError: SSL_connect SYSCALL returned=5 errorno=0 state=SSLv2/v3 read server hello A`, even when I had a proxy set for i.e. `.example.com`:
 

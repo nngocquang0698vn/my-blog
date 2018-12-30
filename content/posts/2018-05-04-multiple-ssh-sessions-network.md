@@ -11,6 +11,7 @@ tags:
 date: 2018-05-04
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: multiple-ssh-sessions-network
 ---
 At Capital One, we deploy our services to the AWS Cloud, where I will sometimes need to SSH onto a development instance to debug using log files or by attaching a debugger.
 

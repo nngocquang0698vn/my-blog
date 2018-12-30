@@ -13,6 +13,7 @@ tags:
 date: 2018-12-23
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: microservices-static-site
 ---
 As I mentioned in my [DevOpsDays London talk, _Overengineering Your Personal Website - How I Learn Things Best_][DevOpsDays talk], I want to overengineer my personal website a little bit more than it already is, and convert it into a fully fledged orchestration layer.
 

@@ -14,6 +14,7 @@ tags:
 date: 2017-02-15
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: resurrecting-dinosaurs
 ---
 > This article is developed from a talk by [Richard Brown at FOSDEM 2017][dinosaurs-fosdem]. Although aimed towards the desktop market, there are a lot of learnings that can be applied to the services ecosystem.
 

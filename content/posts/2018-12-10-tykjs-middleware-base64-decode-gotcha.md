@@ -17,6 +17,7 @@ image: /img/vendor/tyk.io.jpg
 date: 2018-12-10
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: tykjs-middleware-base64-decode-gotcha
 ---
 As mentioned in [_Unit Testing Your TYK (TYKJS) Middleware_][unit-test-tykjs], I've recently been playing around with the [TYK API Gateway] and in this example I had been introspecting JSON Web Tokens (JWTs).
 

@@ -12,6 +12,7 @@ image: /img/vendor/git.png
 date: 2018-10-28
 license_prose: CC-BY-NC-SA-4.0
 license_code: MIT
+slug: git-cherry-pick-backport-replay-changes
 ---
 If you've ever supporting multiple versions of the same piece of software, you may need to apply fixes to each of the versions you're supporting. This could be backporting a fix that has been contributed to a newer version of the software, or vice versa.
 

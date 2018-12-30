@@ -12,6 +12,7 @@ image: /img/vendor/chef-logo.png
 date: 2017-07-16
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
+slug: chef-testing-include_recipe
 ---
 While writing cookbooks, both personally and professionally, I practice a heavy use of TDD to ensure that the recipes are doing what I expect them to. As part of this, I will want to test both standard resources, as well as `include_recipe`s:
 
