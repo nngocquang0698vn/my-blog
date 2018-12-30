@@ -1,1 +1,7 @@
 title = "Jamie Tanna | Software (Quality) Engineer"
+
+# allow fenced code blocks, instead of `{{< highlight ... >}}` shortcodes,
+# which are unwieldly and less fun than using pure Markdown syntax
+pygmentsCodeFences = true
+# allow us to hook in custom CSS to render the site's styles
+pygmentsUseClasses = true
