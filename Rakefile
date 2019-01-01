@@ -144,44 +144,6 @@ namespace :validate do
     end
     fail if report_errors(all_errors)
   end
-
-  desc 'Validate projects are well-formed'
-  task :projects do
-    schema = YAML.load_file('.schema/project.yml')
-    # we have some extra requirements for projects {{{
-    project_status = YAML.load_file('_data/project_status.yml')
-    schema['mapping']['project_status']['enum'] = project_status.keys
-    tech_stack = YAML.load_file('_data/techstack.yml')
-    schema['mapping']['tech_stack']['sequence'][0]['enum'] = tech_stack.keys
-    # }}}
-
-    validator = Kwalify::Validator.new(schema)
-    all_errors = {}
-    Dir.glob('_projects/*').each do |filename|
-      document = YAML.load_file(filename)
-      errors = validator.validate(document)
-      all_errors[filename] = errors unless errors.length.zero?
-    end
-    fail if report_errors(all_errors)
-  end
-
-  desc 'Validate talks are well-formed'
-  task :talks do
-    schema = YAML.load_file('.schema/talk.yml')
-    # we have some extra requirements for projects {{{
-    talk_types = YAML.load_file('_data/talk_types.yml')
-    schema['mapping']['type']['sequence'][0]['enum'] = talk_types.keys
-    # }}}
-
-    validator = Kwalify::Validator.new(schema)
-    all_errors = {}
-    Dir.glob('_talks/*').each do |filename|
-      document = YAML.load_file(filename)
-      errors = validator.validate(document)
-      all_errors[filename] = errors unless errors.length.zero?
-    end
-    fail if report_errors(all_errors)
-  end
 end
 
 desc 'Determine if images have changed'
@@ -221,6 +183,6 @@ task :bitly_urls, [:url] do |_, args|
   end
 end
 
-task validate: ['validate:posts', 'validate:projects', 'validate:talks']
+task validate: ['validate:posts']
 
 task default: ['validate', 'test']
