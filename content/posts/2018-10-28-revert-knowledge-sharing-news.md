@@ -19,7 +19,7 @@ I'd like to call out that this is not due to a negative experience, nor any issu
 
 The decision was made in late September, but as I've not yet had the chance to write up the reasoning, I thought I'd leave the announcement until I could explain the factors that led to the decision.
 
-As mentioned in the write-up of my talk at [_DevOpsDays London 2018_]({{< ref 2018-10-25-devopsdays-london-2018 >}}#overengineering-your-personal-website---how-i-learn-things-best), I found that writing the transcript for my talk was stressing me out. Reflecting on this a little made me realise realise I'd not been enjoying that aspect of preparing my Packt courses.
+As mentioned in the write-up of my talk at [_DevOpsDays London 2018_]({{< ref 2018-10-25-devopsdays-london-2018 >}}#overengineering-your-personal-website-how-i-learn-things-best), I found that writing the transcript for my talk was stressing me out. Reflecting on this a little made me realise realise I'd not been enjoying that aspect of preparing my Packt courses.
 
 One of the saving graces of conference or meetup speaking is that you don't have to be 100% perfect in your delivery. You can mumble some words, miss a bit of the content you wanted to share, or just say the wrong thing and then correct yourself!. Although you obviously want to have a well delivered and informative talk, it doesn't need to be perfect. You also don't need your words to perfectly match a pre-written script, as I found with my transcript actually just being a guide for the live signing and closed captioning to understand the words I would roughly be using.
 
