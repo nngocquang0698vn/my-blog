@@ -54,7 +54,11 @@ namespace :test do
       parallel: {
         in_processes: num_cpus
       },
-      internal_domains: ['jvt.me', 'www.jvt.me']
+      internal_domains: ['jvt.me', 'www.jvt.me'],
+      url_ignore: [
+        /pic\.twiter\.com/,
+        /t\.co/
+      ]
     }
     HTMLProofer.check_directory('./_site', options).run
   end
