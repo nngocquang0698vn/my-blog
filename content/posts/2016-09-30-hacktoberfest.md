@@ -150,33 +150,33 @@ And remember that you can help out in any way possible - be it Pull Requests, pr
 
 
 
-[seafile]: <https://seafile.com>
-[seafile-contrib-1]: <https://github.com/haiwen/seahub/pull/1350>
-[seafile-contrib-2]: <https://github.com/haiwen/seafile/pull/1753>
-[hacktoberfest-announce]: <https://www.digitalocean.com/company/blog/ready-set-hacktoberfest/>
-[hacktoberfest]: <https://hacktoberfest.digitalocean.com>
-[hacktoberfest-featured-projects]: <https://hacktoberfest.digitalocean.com#featured-projects>
-[hacktoberfest-resources]: <https://hacktoberfest.digitalocean.com#resources>
-[github-hacktoberfest-label]: <https://github.com/search?l=&q=state%3Aopen+label%3Ahacktoberfest&ref=advsearch&type=Issues&utf8=%E2%9C%93>
+[seafile]: https://seafile.com
+[seafile-contrib-1]: https://github.com/haiwen/seahub/pull/1350
+[seafile-contrib-2]: https://github.com/haiwen/seafile/pull/1753
+[hacktoberfest-announce]: https://www.digitalocean.com/company/blog/ready-set-hacktoberfest/
+[hacktoberfest]: https://hacktoberfest.digitalocean.com
+[hacktoberfest-featured-projects]: https://hacktoberfest.digitalocean.com#featured-projects
+[hacktoberfest-resources]: https://hacktoberfest.digitalocean.com#resources
+[github-hacktoberfest-label]: https://github.com/search?l=&q=state%3Aopen+label%3Ahacktoberfest&ref=advsearch&type=Issues&utf8=%E2%9C%93
 
-[digitalocean]: <https://digitalocean.com>
-[github]: <https://github.com>
+[digitalocean]: https://digitalocean.com
+[github]: https://github.com
 
-[hacksoc]: <http://hacksocnotts.co.uk>
-[hacksoc-repo]: <https://github.com/HackSocNotts/HackSocNotts.github.io>
-[hacksoc-repo-hacktoberfest-pr]: <https://github.com/HackSocNotts/HackSocNotts.github.io/pulls/11>
+[hacksoc]: http://hacksocnotts.co.uk
+[hacksoc-repo]: https://github.com/HackSocNotts/HackSocNotts.github.io
+[hacksoc-repo-hacktoberfest-pr]: https://github.com/HackSocNotts/HackSocNotts.github.io/pulls/11
 
-[git-workshop]: <https://github.com/jamietanna/gittalk15/tree/master/intro-to-git-workshop>
-[youtube-mpv]: <https://github.com/agiz/youtube-mpv>
+[git-workshop]: https://github.com/jamietanna/gittalk15/tree/master/intro-to-git-workshop
+[youtube-mpv]: https://github.com/agiz/youtube-mpv
 
-[choosealicense]: <http://choosealicense.com/>
-[tldrlegal]: <http://tldrlegal.com/>
+[choosealicense]: http://choosealicense.com/
+[tldrlegal]: http://tldrlegal.com/
 
-[mraa]: <https://github.com/intel-iot-devkit/mraa>
-[travis-ci]: <https://travisci.org>
-[vagrantup]: <https://vagrantup.com>
+[mraa]: https://github.com/intel-iot-devkit/mraa
+[travis-ci]: https://travisci.org
+[vagrantup]: https://vagrantup.com
 
-[wiki-free-software]: <https://en.wikipedia.org/wiki/Free_and_open-source_software>
-[wiki-open-source-software]: <https://en.wikipedia.org/wiki/Open-source_software>
+[wiki-free-software]: https://en.wikipedia.org/wiki/Free_and_open-source_software
+[wiki-open-source-software]: https://en.wikipedia.org/wiki/Open-source_software
 
-[hacktoberfest-slack]: <https://hacksocnotts.slack.com/messages/hacktoberfest/>
+[hacktoberfest-slack]: https://hacksocnotts.slack.com/messages/hacktoberfest/
