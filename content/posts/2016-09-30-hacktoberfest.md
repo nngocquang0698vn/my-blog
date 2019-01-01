@@ -1,6 +1,6 @@
 ---
 title:  Hacktoberfest 2016
-description: A few words about my excitement for the start of [Hacktoberfest](https://www.digitalocean.com/company/blog/ready-set-hacktoberfest/), and some ideas on how to get started yourself.
+description: A few words about my excitement for the start of Hacktoberfest, and some ideas on how to get started yourself.
 categories:
 - guide
 - opensource
