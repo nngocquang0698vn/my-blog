@@ -1,9 +1,5 @@
 type: map
 mapping:
-  'layout':
-    type: str
-    required: no
-    pattern: /^post$/
   'title':
     type: str
     required: yes
@@ -13,30 +9,36 @@ mapping:
     required: yes
     length: { min: 1 }
   'categories':
-    type: str
+    type: seq
     required: yes
-    length: { min: 1 }
+    sequence:
+      - type: str
   'tags':
-    type: str
+    type: seq
     required: yes
-    length: { min: 1 }
-  'no_toc':
-    type: bool
-    required: no
+    sequence:
+      - type: str
   'image':
     type: str
     required: no
-    pattern: /^\/assets\/img\/.*\.(png|jpg)/
+    pattern: /^\/img\/.*\.(png|jpg)/
   'canonical_url':
     type: str
     required: no
-  'licenses':
-    type: map
+  'license_code':
+    type: str
+    required: yes
+  'license_prose':
+    type: str
+    required: yes
+  'date':
+    type: date
+    required: yes
+  'slug':
+    type: str
     required: no
-    mapping:
-      'code':
-        type: str
-        required: no
-      'prose':
-        type: str
-        required: no
+    length: { min: 1 }
+  'draft':
+    type: bool
+    required: no
+    pattern: /true/

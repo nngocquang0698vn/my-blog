@@ -141,7 +141,7 @@ namespace :validate do
     schema = YAML.load_file('.schema/post.yml')
     validator = Kwalify::Validator.new(schema)
     all_errors = {}
-    Dir.glob('_posts/*').each do |filename|
+    Dir.glob('content/posts/*').each do |filename|
       document = YAML.load_file(filename)
       errors = validator.validate(document)
       all_errors[filename] = errors unless errors.length.zero?
