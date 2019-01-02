@@ -150,17 +150,6 @@ namespace :validate do
   end
 end
 
-desc 'Determine if images have changed'
-task :images_changed? do
-  require 'git'
-  g = Git.open('.')
-  images_to_minify = g.diff('assets/img').map do |f|
-    f.path
-  end
-
-  fail "Images are not all minified: #{images_to_minify}" unless images_to_minify.size.zero?
-end
-
 desc 'Create Bit.ly short URLs for a given article URL'
 task :bitly_urls, [:url] do |_, args|
   raise 'Bit.ly personal access token not provided in ENV[BITLY_TOKEN]' if ENV.fetch('BITLY_TOKEN').to_s.length.zero?

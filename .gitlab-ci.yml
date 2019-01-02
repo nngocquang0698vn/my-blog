@@ -78,11 +78,6 @@ test_image:
     - docker rm $container_id
     # }}}
 
-    # Ensure images have all been minified via `gulp imagemin` {{{
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE gulp imagemin
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_BUILDER_IMAGE bundle exec rake images_changed?
-    # }}}
-
     # Ensure the generated site is correct {{{
     - docker run -v $(readlink -f .):/app/site $CONTAINER_TEST_IMAGE bundle exec rake test
     # }}}
