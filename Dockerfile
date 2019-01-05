@@ -1,65 +1,17 @@
-FROM alpine:latest
-MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
+FROM debian:9
 
-# Install NodeJS and Ruby {{{
-WORKDIR "/opt/node"
+ENV HUGO_VERSION 0.52
+ENV HUGO_SHA 0fbc4106f89727e1568772a969a675b73844ea6104df07d1e31b6455bc40ce4c
 
-ENV PATH=$PATH:/opt/node/bin
+# Install HUGO
+RUN apt update \
+  && apt install -y curl git \
+  && rm -rf /var/lib/apt/lists/* \
+  && curl -SL https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb -o /tmp/hugo.deb \
+  && echo "${HUGO_SHA}  /tmp/hugo.deb" | sha256sum -c \
+  && dpkg -i /tmp/hugo.deb \
+  && hugo version
 
-RUN apk update && \
-	apk upgrade && \
-	# Required to set timezone {{{
-	apk add tzdata && \
-	# }}}
-	# NodeJS {{{
-	apk add nodejs npm \
-		# gifsicle jpegtran-bin
-		autoconf automake file nasm && \
-	# }}}
-	# Ruby {{{
-	apk add ruby-dev ruby-bundler ruby-bigdecimal && \
-	apk add git \
-		build-base \
-		# for the FFI gem: https://github.com/ffi/ffi/issues/485#issuecomment-191159190
-		libffi-dev \
-		# for the nokogiri gem: https://github.com/gliderlabs/docker-alpine/issues/53#issuecomment-173412882
-		libxml2-dev libxslt-dev
-	# }}}
-# }}}
+WORKDIR /site
 
-# Ensure timezone is set correctly {{{
-RUN cp /usr/share/zoneinfo/Europe/London /etc/localtime
-RUN echo 'Europe/London' > /etc/timezone
-# }}}
-
-# Install package dependencies {{{
-RUN mkdir -p /app/site/_site
-WORKDIR "/app"
-
-# https://github.com/docker-library/ruby/issues/45
-ENV LANG C.UTF-8
-
-# Set /app as the initial directory for the dependencies, allowing the site to
-# then be mounted into /app/site, so we don't override any of our
-# pre-downloaded NPM dependencies {{{
-# Ensure we have the latest Node dependencies, which should be changed less
-# often than the Ruby dependencies (ie Jekyll, Capistrano) so will want to be
-# cached longer {{{
-COPY package.json /app/
-RUN npm install
-ENV PATH=$PATH:/app/node_modules/.bin
-# }}}
-# Ensure we have the latest Ruby dependencies {{{
-COPY Gemfile Gemfile.lock /app/
-# Don't pull in deploy dependencies as they're a separate Docker image
-ENV BUNDLE_WITHOUT=deploy
-RUN bundle install
-# }}}
-# }}}
-
-# Once set up, use our mounted directory for the site
-WORKDIR "/app/site"
-
-# Default action is to serve the site {{{
-CMD ["gulp", "serve"]
-# }}}
+CMD ["hugo", "-d", "public", "--enableGitInfo", "--minify"]
