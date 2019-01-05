@@ -20,7 +20,11 @@ As it's been required a number of times, I decided that I needed to script it. T
 To convert from YAML to JSON, we can use the following:
 
 ```ruby
-{% include src/yaml-json/ytoj.rb %}
+#!/usr/bin/env ruby
+require 'yaml'
+require 'json'
+
+puts(YAML.load(ARGF.read).to_json)
 ```
 
 This takes advantage of [`ARGF`][so-stdin], which is a file descriptor that points to `stdin`.
@@ -36,7 +40,11 @@ ruby -ryaml -rjson -e 'puts(YAML.load(ARGF.read).to_json)'
 To convert from JSON to YAML, we can use the following:
 
 ```ruby
-{% include src/yaml-json/jtoy.rb %}
+#!/usr/bin/env ruby
+require 'yaml'
+require 'json'
+
+puts(JSON.load(ARGF.read).to_yaml)
 ```
 
 Again, we can shorten this down to the following oneliner:

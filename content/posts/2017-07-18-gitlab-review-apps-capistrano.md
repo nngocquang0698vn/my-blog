@@ -35,14 +35,21 @@ This is easy to do, by creating the file `config/deploy/review.rb`:
 
 ```ruby
 # config/review/deploy.rb
-{% include src/gitlab-review-apps-capistrano/config-deploy-review.rb %}
+server 'review.jvt.me', user: 'review_jvt_me', roles: %w{app}
+set :deploy_to, "/srv/www/review.jvt.me/review.jvt.me/review/#{ENV['CI_COMMIT_REF_SLUG']}"
 ```
 
 Next, we want to have the ability to tear down the environment once we're finished with it. This can be done by creating our own Rake task file, in `lib/capistrano/tasks/review.rake`, and allows us to run `cap review stop`.
 
 ```ruby
 # lib/capistrano/tasks/review.rake
-{% include src/gitlab-review-apps-capistrano/lib-capistrano-tasks-review.rake %}
+task :stop do
+  on  roles(:app) do
+    within(release_path) do
+      execute "rm -rf #{fetch:deploy_to}"
+    end
+  end
+end
 ```
 
 ## Changes for GitLab CI
@@ -107,7 +114,19 @@ While investigating the easiest way of setting up Nginx to work with this, I stu
 
 ```nginx
 # /etc/nginx/sites-enabled/review.jvt.me
-{% include src/gitlab-review-apps-capistrano/nginx %}
+server {
+    listen 80;
+    server_name ~^(www\.)?(?<sname>.+?).review.jvt.me$;
+    root /srv/www/review.jvt.me/review.jvt.me/review/$sname/current/site;
+
+    index index.html index.htm index.php;
+    error_page 404 /404.html;
+
+    charset utf-8;
+
+    access_log /var/log/nginx/review.jvt.me-access.log;
+    error_log  /var/log/nginx/review.jvt.me-error.log debug;
+}
 ```
 
 ## Points for Improvements

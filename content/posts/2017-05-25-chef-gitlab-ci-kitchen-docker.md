@@ -39,7 +39,38 @@ Let's start by [pushing the code up][cmt-1] to GitLab, i.e. `git remote add orig
 
 Now we have our empty cookbook available, let's start [adding some functionality][cmt-2]:
 
-{% include src/chef-gitlab/1-cmt-2-7566dbda74a4819b32b8a196651053fdea2d8b95.md %}
+`recipes/default.rb`:
+
+```rb
+user 'create user jamie' do
+  username 'jamie'
+end
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    let(:chef_run) do
+      # for a complete list of available platforms and versions see:
+      # https://github.com/customink/fauxhai/blob/master/PLATFORMS.md
+      runner = ChefSpec::ServerRunner.new(platform: 'ubuntu', version: '16.04')
+      runner.converge(described_recipe)
+    end
+
+    it 'converges successfully' do
+      expect { chef_run }.to_not raise_error
+    end
+
+    it 'creates the jamie user' do
+      expect(chef_run).to create_user('create user jamie')
+        .with(username: 'jamie')
+    end
+  end
+end
+```
 
 Now let's push this to GitLab.
 
@@ -51,7 +82,17 @@ In an ideal world, we'd want to at least have our pipeline set up to run our uni
 
 The easiest route we can go is to run on a Debian image, and install the ChefDK on top via the handy `.deb` package. At the time of writing, the latest version is 1.3.43, which is [done as follows][cmt-3]:
 
-{% include src/chef-gitlab/1-cmt-3-57ded223d14d9208196e04ad0d4ee6aeb90e7306.md %}
+`.gitlab-ci.yml`:
+```yaml
+image: debian:jessie
+
+test:
+  script:
+    - apt update && apt install -yq curl
+    - curl https://packages.chef.io/files/stable/chefdk/1.3.43/debian/8/chefdk_1.3.43-1_amd64.deb -o /tmp/chefdk.deb
+    - dpkg -i /tmp/chefdk.deb
+    - chef exec rspec
+```
 
 Which now means that when we push to GitLab, our [CI][ci-3] process runs our unit tests against the code.
 
@@ -61,19 +102,178 @@ Which now means that when we push to GitLab, our [CI][ci-3] process runs our uni
 
 Now, having a cookbook that only ever creates a single, hardcoded, user isn't actually very useful. So let's make it possible to configure it [via our cookbook's attributes][cmt-4] ([CI][ci-4]):
 
-{% include src/chef-gitlab/1-cmt-4-26b32e270d97961fe08cf538837c949b6aa63741.md %}
+`attributes/default.rb`:
+```rb
+node.default['user'] = 'jamie'
+```
+
+`recipes/default.rb`:
+```rb
+user "create user #{node['user']}" do
+  username node['user']
+end
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+
+    it 'creates the jamie user' do
+      expect(chef_run).to create_user('create user jamie')
+        .with(username: 'jamie')
+    end
+  end
+
+  context 'When the user attribute is set' do
+    let(:chef_run) do
+      runner = ChefSpec::ServerRunner.new(platform: 'ubuntu', version: '16.04') do |node|
+        node.automatic['user'] = 'test'
+      end
+      runner.converge(described_recipe)
+    end
+
+    it 'converges successfully' do
+      expect { chef_run }.to_not raise_error
+    end
+
+    it 'creates the test user' do
+      expect(chef_run).to create_user('create user test')
+        .with(username: 'test')
+    end
+  end
+end
+```
 
 ### Having a configurable group
 
 So what if we want to [specify the `group` of the user][cmt-5] ([CI][ci-5])?
 
-{% include src/chef-gitlab/1-cmt-5-c7532efef2496b7b53b60c760c13df025781ac74.md %}
+`recipes/default.rb`:
+```rb
+user "create user #{node['user']}" do
+  username node['user']
+  group node['group']
+end
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+
+    it 'creates the jamie user' do
+      expect(chef_run).to create_user('create user jamie')
+        .with(username: 'jamie')
+        .with(group: nil)
+    end
+  end
+
+  context 'When the user attribute is set' do
+    # ...
+
+    it 'creates the test user' do
+      expect(chef_run).to create_user('create user test')
+        .with(username: 'test')
+        .with(group: nil)
+    end
+  end
+
+  context 'When the user and group attributes are set' do
+    let(:chef_run) do
+      runner = ChefSpec::ServerRunner.new(platform: 'ubuntu', version: '16.04') do |node|
+        node.automatic['user'] = 'test'
+        node.automatic['group'] = 'users'
+      end
+      runner.converge(described_recipe)
+    end
+
+    it 'converges successfully' do
+      expect { chef_run }.to_not raise_error
+    end
+
+    it 'creates the test user' do
+      expect(chef_run).to create_user('create user test')
+        .with(username: 'test')
+        .with(group: 'users')
+    end
+  end
+end
+```
 
 ### Create a file for the user
 
 Next, we will create a file, owned by the user, in their own home directory, [which is done as follows][cmt-6] ([CI][ci-6]):
 
-{% include src/chef-gitlab/1-cmt-6-669609062d55db87239c9588e849ddd327570885.md %}
+`recipes/default.rb`:
+```rb
+file 'creates the hello.txt file' do
+  path "~#{node['user']}/hello.txt"
+  content "hello #{node['user']}"
+  mode '0600'
+  owner node['user']
+  only_if { node['hello'] }
+end
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+
+    it 'doesn\'t create the hello.txt file' do
+      expect(chef_run).to_not create_file('creates the hello.txt file')
+    end
+  end
+
+  context 'When the user attribute is set' do
+    # ...
+
+    it 'doesn\'t create the hello.txt file' do
+      expect(chef_run).to_not create_file('creates the hello.txt file')
+    end
+  end
+
+  context 'When the user and group attributes are set' do
+    # ...
+
+    it 'doesn\'t create the hello.txt file' do
+      expect(chef_run).to_not create_file('creates the hello.txt file')
+    end
+  end
+
+  context 'When the hello attribute is set' do
+    let(:chef_run) do
+      runner = ChefSpec::ServerRunner.new(platform: 'ubuntu', version: '16.04') do |node|
+        node.automatic['user'] = 'jamie'
+        node.automatic['hello'] = true
+      end
+      runner.converge(described_recipe)
+    end
+
+    it 'converges successfully' do
+      expect { chef_run }.to_not raise_error
+    end
+
+    it 'creates the hello.txt file' do
+      expect(chef_run).to create_file('creates the hello.txt file')
+        .with(path: '~jamie/hello.txt')
+        .with(content: 'hello jamie')
+        .with(mode: '0600')
+        .with(owner: 'jamie')
+    end
+  end
+end
+```
 
 ## Integration Testing
 
@@ -89,19 +289,42 @@ We can do this by using the [`kitchen-docker`][kitchen-docker] driver for [Test 
 
 The first Docker-related changes we need to make in our `.kitchen.yml`:
 
-{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-driver.md %}
+```yaml
+---
+driver:
+  name: docker
+  # make kitchen detect the Docker CLI tool correctly, via
+  # https://github.com/test-kitchen/kitchen-docker/issues/54#issuecomment-203248997
+  use_sudo: false
+  privileged: true
+```
 
 This ensures that we're using the `kitchen-docker` driver, and that we ensure that it can correctly hook into the `docker` CLI tools. Note that this process requires you to have set yourself up with the [`Manage Docker as a non-root user` steps][docker-post-install-linux].
 
 Next, we need to tell `kitchen-docker` what platforms we want to be running against:
 
-{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-platforms.md %}
+```yaml
+platforms:
+  - name: debian
+    driver_config:
+      image: debian:jessie
+```
 
 This will specify that we want to test against Debian Jessie. Adding another platform to test against is straightforward and won't be expanded on until the next post.
 
 Next, we define our test suite to run against.
 
-{% include src/chef-gitlab/1-cmt-7-3806dd4c86a75be895393b60f91248f9d7af5be5-suites.md %}
+```yaml
+suites:
+  - name: default
+    run_list:
+      - recipe[user-cookbook::default]
+    verifier:
+      inspec_tests:
+        - test/integration/default
+    attributes:
+      user: 'tester'
+```
 
 This lets us specify the recipes we want to run (our `run_list`) as well as any `attributes` we want to pass in to configure the node. For now, let's ignore the `verifier` section, which is [covered later](#so-it-converged-now-what).
 
@@ -111,7 +334,28 @@ To test this, we'll run `kitchen converge`. This will create our image if it's n
 
 Now that it works with basic settings, let's [add some more integration tests][cmt-8] ([CI][ci-8]) to cover some more combinations:
 
-{% include src/chef-gitlab/1-cmt-8-80a2c5e5fcb3dfabb27b4cca77ef9ae20cbe4231.md %}
+`.kitchen.yml`:
+```yaml
+suites:
+  - name: default
+    # ...
+  - name: custom-group
+    run_list:
+      - recipe[user-cookbook::default]
+    verifier:
+      inspec_tests:
+        - test/integration/custom-group
+    attributes:
+      group: 'test'
+  - name: hello
+    run_list:
+      - recipe[user-cookbook::default]
+    verifier:
+      inspec_tests:
+        - test/integration/hello
+    attributes:
+      hello: true
+```
 
 After running another `kitchen converge`, it turns out that _actually_ things aren't quite working!
 
@@ -125,7 +369,63 @@ It looks like it's trying to add `jamie` to the `test` group, which is what we e
 
 This is fixed [by adding][cmt-9] ([CI][ci-9]):
 
-{% include src/chef-gitlab/1-cmt-9-2d221178b8c15f8f7cda6ac9bc2361d4641d14e3.md %}
+`recipes/default.rb`:
+```rb
+group 'create the group' do
+  group_name node['group']
+  not_if { node['group'].nil? }
+end
+
+# ...
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+
+    it 'doesn\'t create the users group' do
+      expect(chef_run).to_not create_group('create the group')
+    end
+
+    # ...
+  end
+
+  context 'When the user attribute is set' do
+    # ...
+
+    it 'doesn\'t create the users group' do
+      expect(chef_run).to_not create_group('create the group')
+    end
+
+    # ...
+  end
+
+  context 'When the user and group attributes are set' do
+    # ...
+
+    it 'creates the users group' do
+      expect(chef_run).to create_group('create the group')
+        .with(group_name: 'users')
+    end
+
+    # ...
+  end
+
+  context 'When the hello attribute is set' do
+    # ...
+
+    it 'doesn\'t create the users group' do
+      expect(chef_run).to_not create_group('create the group')
+    end
+
+    # ...
+  end
+end
+```
 
 #### `hello` test suite
 
@@ -133,17 +433,142 @@ This is a problem due to the expansion of the string `~jamie` not working, due t
 
 The easiest (but not nicest) way of doing this, is to [update the home directory path][cmt-10] ([CI][ci-10]) to `/home/#{node['user']}`, which expands out to i.e. `/home/jamie`:
 
-{% include src/chef-gitlab/1-cmt-10-0c881e50bdc603532a21ce403703bdc74ee10ad1.md %}
+`recipes/default.rb`:
+```rb
+# ...
+
+file 'creates the hello.txt file' do
+  path "/home/#{node['user']}/hello.txt"
+  content "hello #{node['user']}"
+  mode '0600'
+  owner node['user']
+  only_if { node['hello'] }
+end
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+  end
+
+  context 'When the user attribute is set' do
+    # ...
+  end
+
+  context 'When the user and group attributes are set' do
+    # ...
+  end
+
+  context 'When the hello attribute is set' do
+    # ...
+
+    it 'creates the hello.txt file' do
+      expect(chef_run).to create_file('creates the hello.txt file')
+        .with(path: '/home/jamie/hello.txt')
+        .with(content: 'hello jamie')
+        .with(mode: '0600')
+        .with(owner: 'jamie')
+    end
+  end
+end
+```
 
 However, that still doesn't quite work. Chef by default doesn't actually 'manage' the home directory. This means that we don't actually have the directory created until we [explicitly set `manage_home true`][cmt-11] ([CI][ci-11]) when creating the user:
 
-{% include src/chef-gitlab/1-cmt-11-359954d76e1ecaadfbdf04cef6a77542e9f0371e.md %}
+`recipes/default.rb`:
+```rb
+# ...
+
+user "create user #{node['user']}" do
+  username node['user']
+  group node['group']
+  manage_home true
+end
+
+# ...
+```
+
+`spec/unit/recipes/default_spec.rb`:
+```rb
+require 'spec_helper'
+
+describe 'user-cookbook::default' do
+  context 'When all attributes are default, on an Ubuntu 16.04' do
+    # ...
+
+    it 'creates the jamie user' do
+      expect(chef_run).to create_user('create user jamie')
+        .with(username: 'jamie')
+        .with(group: nil)
+        .with(manage_home: true)
+    end
+
+    # ...
+  end
+
+  context 'When the user attribute is set' do
+    # ...
+
+    it 'creates the test user' do
+      expect(chef_run).to create_user('create user test')
+        .with(username: 'test')
+        .with(group: nil)
+        .with(manage_home: true)
+    end
+
+    # ...
+  end
+
+  context 'When the user and group attributes are set' do
+    # ...
+
+    it 'creates the test user' do
+      expect(chef_run).to create_user('create user test')
+        .with(username: 'test')
+        .with(group: 'users')
+        .with(manage_home: true)
+    end
+
+    # ...
+  end
+
+  context 'When the hello attribute is set' do
+    # ...
+
+    it 'creates the hello.txt file' do
+      expect(chef_run).to create_file('creates the hello.txt file')
+        .with(path: '/home/jamie/hello.txt')
+        .with(content: 'hello jamie')
+        .with(mode: '0600')
+        .with(owner: 'jamie')
+    end
+  end
+end
+```
 
 ### GitLab CI
 
 Now we have it working locally, let's add our setup to [test this when we're pushing up to GitLab][cmt-12], too:
 
-{% include src/chef-gitlab/1-cmt-12-f5d858c3bccd41f2bf3b98a37be09db17df52df0.md %}
+`.gitlab-ci.yml`:
+
+```yaml
+# ...
+integration_test:
+  image: docker:latest
+  services:
+  - docker:dind
+  script:
+    - 'echo gem: --no-document > $HOME/.gemrc'
+    - apk update
+    - apk add build-base git libffi-dev ruby-dev ruby-bundler
+    - gem install kitchen-docker kitchen-inspec berkshelf
+    - kitchen test
+```
 
 So there are a few things new here. Firstly, we're now using the `docker` image as our base. This is so we get access to the `docker` CLI tools, which are required by `kitchen-docker`. Next, we use the `dind`, or Docker in Docker, service which allows us to build and run another Docker image within our `docker` image.
 
@@ -204,11 +629,79 @@ suites:
 
 Before we get to this, though, we notice as we're looking through the test suites that we've not actually got any cases where there is a different `user`, just `group`. Let's [tack it on with the `hello` case][cmt-13] ([CI][ci-13]), and run a quick `kitchen converge` to ensure that the cookbook still converges.
 
-{% include src/chef-gitlab/1-cmt-13-6c759fd225e2316548caa2152b9d76025d34bcec.md %}
+`.kitchen.yml`:
+```yaml
+---
+# ...
+suites:
+  # ...
+  - name: hello
+    run_list:
+      - recipe[user-cookbook::default]
+    verifier:
+      inspec_tests:
+        - test/integration/hello
+    attributes:
+      user: 'everybody'
+      hello: true
+```
 
 Now that's resolved, let's [write some quick integration tests][cmt-14] ([CI][ci-14]):
 
-{% include src/chef-gitlab/1-cmt-14-88f134a1b7e9e6bc39be7bd0c1cb9a8d8e5b6ddf.md %}
+`test/integration/custom-group/default.rb`:
+```rb
+describe user('jamie') do
+  it { should exist }
+  its('groups') { should eq ['test'] }
+end
+
+describe group('test') do
+  it { should exist }
+end
+
+describe directory('/home/jamie') do
+  it { should exist }
+end
+```
+
+`test/integration/default/default.rb`:
+```rb
+describe user('jamie') do
+  it { should exist }
+  its('groups') { should eq ['jamie'] }
+end
+
+describe group('jamie') do
+  it { should exist }
+end
+
+describe directory('/home/jamie') do
+  it { should exist }
+end
+```
+
+`test/integration/hello/default.rb`:
+```rb
+describe user('everybody') do
+  it { should exist }
+  its('groups') { should eq ['everybody'] }
+end
+
+describe group('everybody') do
+  it { should exist }
+end
+
+describe directory('/home/everybody') do
+  it { should exist }
+end
+
+describe file('/home/everybody/hello.txt') do
+  it { should exist }
+  its('mode') { should cmp '0600' }
+  its('owner') { should eq 'everybody' }
+  its('content') { should eq 'hello everybody' }
+end
+```
 
 ## Conclusion
 

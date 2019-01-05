@@ -27,7 +27,19 @@ My Nginx configuration was quite simple, utilising nginx's [regular expression n
 
 ```nginx
 # /etc/nginx/sites-enabled/review.jvt.me
-{% include src/gitlab-review-apps-capistrano/nginx %}
+server {
+    listen 80;
+    server_name ~^(www\.)?(?<sname>.+?).review.jvt.me$;
+    root /srv/www/review.jvt.me/review.jvt.me/review/$sname/current/site;
+
+    index index.html index.htm index.php;
+    error_page 404 /404.html;
+
+    charset utf-8;
+
+    access_log /var/log/nginx/review.jvt.me-access.log;
+    error_log  /var/log/nginx/review.jvt.me-error.log debug;
+}
 ```
 
 The ease of this solution made me concerned that I would not be able to easily migrate to the same automagic redirection using Caddy. However, in [Caddy 0.10.12], this was included using the concept of [Caddy labels], [via confirmation in the Caddy Community forums][caddy-community-review-apps]:
