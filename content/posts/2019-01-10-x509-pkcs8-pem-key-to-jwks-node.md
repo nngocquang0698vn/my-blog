@@ -113,7 +113,7 @@ keystore
 
 # The Result
 
-This gives us a nice, pretty-printed JWKS that we can then use with other tooling - yay!
+This gives us a nice, [pretty-printed]({{< ref 2019-01-11-pretty-printing-json-node-cli >}}) JWKS that we can then use with other tooling - yay!
 
 ```
 # get our public
