@@ -14,6 +14,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-10
 slug: "x509-pkcs8-pem-key-to-jwks-node"
+image: /img/vendor/nodejs.png
 ---
 When working with public/private keypairs, it's most likely you'll be dealing with files most commonly ending in `.pem` (X.509 certificates). However, there are cases where you'll want to convert your traditionally formatted file to a JWKS format.
 
