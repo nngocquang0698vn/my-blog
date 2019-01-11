@@ -60,7 +60,7 @@ namespace :test do
         /t\.co/
       ]
     }
-    HTMLProofer.check_directory('./_site', options).run
+    HTMLProofer.check_directory('./public', options).run
   end
 
   desc 'Test GitHub/GitLab casing'
