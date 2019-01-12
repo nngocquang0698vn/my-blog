@@ -8,8 +8,8 @@ tags:
 - impact-nottingham
 canonical_url: http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/
 date: 2014-11-21
-license_prose: CC-BY-NC-SA-4.0
-license_code: Apache-2.0
+license_prose: 'All-Rights-Reserved'
+license_code: 'All-Rights-Reserved'
 slug: smart-is-the-new-black
 ---
 > This article was [originally published](http://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/) for [Impact Nottingham](http://www.impactnottingham.com).
