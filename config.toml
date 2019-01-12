@@ -19,6 +19,7 @@ enableGitInfo = true
   author = "Jamie Tanna"
   liveSiteUrl = "https://www.jvt.me"
   image = "/img/profile.png"
+  WebMentionDomain = "www.jvt.me"
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
