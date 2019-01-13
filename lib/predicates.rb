@@ -1,0 +1,7 @@
+require_relative 'predicates/has_job_details'
+require_relative 'predicates/predicate'
+require_relative 'predicates/valid_p_locality'
+require_relative 'predicates/valid_p_name'
+require_relative 'predicates/valid_u_email'
+require_relative 'predicates/valid_u_photo'
+require_relative 'predicates/valid_u_url'

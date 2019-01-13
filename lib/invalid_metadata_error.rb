@@ -1,0 +1,2 @@
+class InvalidMetadataError < RuntimeError
+end
