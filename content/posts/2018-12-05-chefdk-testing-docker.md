@@ -150,14 +150,11 @@ Traceback (most recent call last):
 OpenSSL::SSL::SSLError SSL Error connecting to https://supermarket.example.com/universe - SSL_connect returned=1 errno=0 state=error: certificate verify failed
 ```
 
-This can be avoided with the following mount:
+Assuming you have followed the steps in [_Trusting Self-Signed Certificates from the Chef Development Kit_]({{< ref 2017-08-17-self-signed-certs-chefdk >}}), you should be able to mount your `trusted_certs` folder:
 
 ```
-$ ls
-custom_cacert.pem
-java
-# with our custom CA certs bundle
-$ docker run --rm -w=/cookbook -v $PWD/custom_cacert.pem:/opt/chefdk/embedded/ssl/certs/cacert.pem -v $PWD/java:/cookbook -ti chef/chefdk:3.5.13 berks
+# with our pre-downloaded trusted certificates
+$ docker run --rm -w=/cookbook -v ~/.chef/trusted_certs:/root/.chef/trusted_certs -v $PWD/java:/cookbook -ti chef/chefdk:3.5.13 berks
 Fetching cookbook index from https://supermarket.example.com...
 Installing homebrew (5.0.8)
 Using java (3.1.2) from source at .

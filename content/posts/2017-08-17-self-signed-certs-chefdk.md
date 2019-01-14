@@ -17,15 +17,25 @@ slug: self-signed-certs-chefdk
 ---
 If you're writing Chef cookbooks in a corporate environment, you may be developing against services on your internal network. As the services are not going to be exposed externally, the certificate used for HTTPS will be an intranet-only/self-signed cert, and therefore will require you to manually add it to your trust store.
 
-You may think that "oh, but I've already trusted that cert in my Operating System / browser's trust store, so I don't need to make any other changes", but you would unfortunately be wrong. The ChefDK comes with its own trust store which needs to be updated with any certs you need. Assuming that the ChefDK is installed in `/opt/chefdk`, then the full path to the cacert bundle will be `/opt/chefdk/embedded/ssl/certs`.
+You may think that "oh, but I've already trusted that cert in my Operating System / browser's trust store, so I don't need to make any other changes", but you would unfortunately be wrong. The ChefDK comes with its own trust store which needs to be updated with any certs you need.
 
-We can combine the steps in [my article on extracting certificates][extract-tls-certificate] with writing to the embedded OpenSSL bundle of trusted certs for the ChefDK. For instance, if we want to trust the certificate for the host `internal-supermarket.example.com`, you can run the following:
+**UPDATE 2019-01-14**: I used to recommend following a set of steps that would update the `/opt/chefdk/embedded/ssl/certs/cacert.pem` file in your ChefDK install. This was a bad decision, as it meant that you would need to re-update it each time you updated your ChefDK.
 
-```bash
-$ openssl s_client -showcerts -connect "internal-supermarket.example.com:443" < /dev/null 2>/dev/null |\
-  sed -n -e '/BEGIN\ CERTIFICATE/,/END\ CERTIFICATE/ p' |\
-  sudo tee -a /opt/chefdk/embedded/ssl/certs/cacert.pem
+Instead, you should use `knife ssl fetch` for any certs you need:
+
 ```
+$ knife ssl fetch https://supermarket.example.com/
+WARNING: No knife configuration file found
+WARNING: Certificates from supermarket.example.com will be fetched and placed in your trusted_cert directory (/home/jamie/.chef/trusted_certs).
+
+Knife has no means to verify these are the correct certificates. You should
+verify the authenticity of these certificates after downloading.
+
+Adding certificate for supermarket_example_com in /home/jamie/.chef/trusted_certs/supermarket_example_com.crt
+Adding certificate for supermarket.example.com_1547487830 in /home/jamie/.chef/trusted_certs/supermarket.example.com_1547487830.crt
+```
+
+This places them within your home directory, and means that you can change your version of the ChefDK regularly, without risk of requiring pulling the new certs.
 
 Note that this can be applied to _any_ hosts inside your network that require communication over HTTPS, not just your Supermarket.
 
