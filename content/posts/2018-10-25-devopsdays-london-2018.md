@@ -13,6 +13,7 @@ tags:
 - capitalone
 - cloud-custodian
 - dashboards
+- events
 - bash
 - monolith
 - serverless
