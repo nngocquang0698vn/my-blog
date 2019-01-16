@@ -12,11 +12,6 @@ events:
     url: https://gitlab.com/jamietanna/talks/tags/gitlab-ci-phpminds
     license: GPLv3
   video:
-- name: Tech Nottingham
-  date: 2017-11-06
-  url: http://www.technottingham.com/events/2017/11/6/tech-nottingham-november-2017
-  type: workshop
-  video:
 description:
   In this workshop, I'll take you through the basics of GitLab's Continuous Integration platform, with a very simple web application. This will go through local development to production deployments in a controlled fashion, with automated builds through to deployment.
 ---
