@@ -1,6 +1,6 @@
 ---
 title: 'Merging multiple repositories into a monorepo, while preserving history, using `git subtree`'
-description: 'How to merge multiple repositories, with their history, into a single repository, using the `git subtree add` command'
+description: 'How to merge multiple repositories, with their history, into a single repository, using the `git subtree add` command.'
 categories:
 - blogumentation
 - howto

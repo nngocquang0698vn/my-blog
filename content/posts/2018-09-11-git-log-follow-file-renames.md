@@ -1,6 +1,6 @@
 ---
 title: "Viewing Git history of a file in `git log` while ignoring file renames"
-description: "How to track changes to files in Git without pesky file renames getting in the way, using `git log --follow`"
+description: "How to track changes to files in Git without pesky file renames getting in the way, using `git log --follow`."
 categories:
 - blogumentation
 - git

@@ -1,6 +1,6 @@
 ---
 title: Resurrecting dinosaurs, what could possibly go wrong?
-description: "How containerised apps (AppImage, Snappy and Flatpak) could eat our users"
+description: "How containerised apps (AppImage, Snappy and Flatpak) could eat our users."
 categories:
 - events
 - fosdem

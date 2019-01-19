@@ -1,6 +1,6 @@
 ---
 title: "Safely Force Pushing with Git using `--force-with-lease=ref`"
-description: "How `git push --force-with-lease=ref` can save you from overriding others' changes on shared Git branches"
+description: "How `git push --force-with-lease=ref` can save you from overriding others' changes on shared Git branches."
 categories:
 - blogumentation
 - git

@@ -1,6 +1,6 @@
 ---
 title: "Using Git refs to check out GitHub Pull Requests, from your local repo"
-description: "How to pull the Git refs for Pull Requests to your GitHub repo"
+description: "How to pull the Git refs for Pull Requests to your GitHub repo."
 categories:
 - blogumentation
 - git
