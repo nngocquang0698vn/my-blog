@@ -1,6 +1,6 @@
 ---
 title: '`SSLError` When Running Berkshelf Behind a Proxy'
-description: 'Getting around the pesky `OpenSSL::SSL::SSLError SSLv2/v3 read server hello A` error when running Berkshelf behind a proxy'
+description: 'Getting around the pesky `OpenSSL::SSL::SSLError SSLv2/v3 read server hello A` error when running Berkshelf behind a proxy.'
 categories:
 - blogumentation
 tags:
