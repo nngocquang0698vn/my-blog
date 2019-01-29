@@ -558,8 +558,8 @@ formatter.js  index.html  jquery-1.8.2.min.js  report.js  style.css
 If we wanted a slightly more `pretty` output for our test run, we can update our `CucumberOptions`:
 
 ```diff
--@CucumberOptions(plugin = "json:target/report.json", features = {"classpath:features"})
-+@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
+-@CucumberOptions(plugin = {"html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
++@CucumberOptions(plugin = {"pretty", "html:target/cucumber-html", "json:target/report.json"}, features = {"classpath:features"})
 ```
 
 This gives us the following output:
