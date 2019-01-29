@@ -125,7 +125,7 @@ I also have some tests that run in my pipeline which  include, but are not limit
 
 Once I'm happy with the content, I'll set GitLab to either merge the Merge Request, or if I've recently pushed changes that haven't yet had GitLab-CI run on them, I'll set it to "merge when pipeline succeeds".
 
-In the case that the pipeline does not succeed I'll get an email, and a browser notification if I'm still on the page, and will be able to go in and fix-forward, squashing commits in where possible.
+In the case that the pipeline does not succeed I'll get an email, and a browser notification if I'm still on the page, and will be able to go in and fix-forward, squashing commits in where possible using [`git commit --fixup` and `git rebase -i --autosquash`]({{< ref 2019-01-10-git-commit-fixup >}}).
 
 When it does finally succeed, I'll receive a push notification via PushBullet to say that that site has deployed, allowing me to start on marketing the post(s).
 
