@@ -6,13 +6,13 @@ categories:
 tags:
 - infosec
 - impact-nottingham
-canonical_url: http://www.impactnottingham.com/2015/04/the-sony-hack/
+canonical_url: https://www.impactnottingham.com/2015/04/the-sony-hack/
 date: 2015-04-14
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: sony-hack
 ---
-> This article was [originally published](http://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](http://www.impactnottingham.com).
+> This article was [originally published](https://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](https://www.impactnottingham.com).
 
 ![Stereotypical hacking image](/img/sony-hack.png)
 

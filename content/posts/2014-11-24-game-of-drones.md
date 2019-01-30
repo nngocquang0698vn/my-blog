@@ -7,13 +7,13 @@ tags:
 - impact-nottingham
 - drones
 - internet-of-things
-canonical_url: http://www.impactnottingham.com/2014/11/game-of-drones/
+canonical_url: https://www.impactnottingham.com/2014/11/game-of-drones/
 date: 2014-11-24
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: game-of-drones
 ---
-> This article was [originally published](http://www.impactnottingham.com/2014/11/game-of-drones/) for [Impact Nottingham](http://www.impactnottingham.com).
+> This article was [originally published](https://www.impactnottingham.com/2014/11/game-of-drones/) for [Impact Nottingham](https://www.impactnottingham.com).
 
 ![Amazon Delivery](/img/game-of-drones.jpg)
 
