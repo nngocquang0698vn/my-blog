@@ -8,13 +8,13 @@ tags:
 - learn-to-code
 - hour-of-code
 - impact-nottingham
-canonical_url: http://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/
+canonical_url: https://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/
 date: 2014-12-18
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: hour-of-code
 ---
-> This article was [originally published](http://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/) for [Impact Nottingham](http://www.impactnottingham.com).
+> This article was [originally published](https://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/) for [Impact Nottingham](https://www.impactnottingham.com).
 
 ![David Cameron during Hour of Code](/img/hour-of-code.png)
 
