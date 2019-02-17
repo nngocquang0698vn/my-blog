@@ -18,6 +18,6 @@ I had previously stored the talks in separate repos, but as I was writing more, 
 The talks were originally written in LaTeX Beamer to generate modern looking LaTeX PDF presentations, but as mentioned in my [Reveal.js Starter project](/projects/revealjs-starter/), I recently migrated to using Reveal.js to build the slides, for a few reasons:
 
 - LaTeX's syntax highlighting felt a little lacking compared to that of tooling like Reveal.js
-- Being able to use [Gruvbox](), the color scheme I use on my own machines, for syntax highlighting was quite a cool, if not completely irrelevant, bonus
+- Being able to use [Gruvbox](https://github.com/morhetz/gruvbox), the color scheme I use on my own machines, for syntax highlighting was quite a cool, if not completely irrelevant, bonus
 - Being able to embed terminal sessions into the slides via [asciinema's asciicasts](https://asciinema.org/) was a big draw
 
