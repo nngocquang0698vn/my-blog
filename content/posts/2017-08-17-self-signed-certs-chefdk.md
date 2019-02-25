@@ -39,4 +39,6 @@ This places them within your home directory, and means that you can change your 
 
 Note that this can be applied to _any_ hosts inside your network that require communication over HTTPS, not just your Supermarket.
 
+**Note**: If you are behind a corporate proxy, you will need to make sure that `knife` does not go via the proxy for these certs. This will mean you must set your `no_proxy` environment variable appropriately, otherwise you won't be able to successfully fetch the certificates.
+
 [extract-tls-certificate]: {{< ref 2017-04-28-extract-tls-certificate >}}
