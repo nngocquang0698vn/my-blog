@@ -90,7 +90,7 @@ University is meant to be a great time, filled with lots of socials and good exp
 
 And even in my second year, I was going through some pretty tough times, but instead of reaching out to my friends, I isolated myself further, sending me into an even worse mental state.
 
-Those who see how much I blog on this site may wonder how I have the time to do it. But now you know, I don't really socialise so I'm free in evenings to pursue what I want to do.
+Those who see how much I blog on this site may wonder how I have the time to do it. But now you know, I don't really socialise so I'm free in evenings to pursue what I want to do. I know Anna's found this quite difficult as I'll be home every evening - either on the sofa with Morph or being productive, but she'll be out socialising and seeing her friends. Then because I'm not out, she finds it awkward if she wants to have her friends over. It's not a nice position for either of us to be in.
 
 <div class="divider">* * * *</div>
 
