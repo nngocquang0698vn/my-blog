@@ -82,7 +82,7 @@ And even recently there was a "Bonus Ball" that the Capital One graduate communi
 
 <div class="divider">* * * *</div>
 
-But that being said, it's not just recently, my social skills haven't always been the best, especially with non-technical conversations. And as with many things, I don't invest in them if I don't enjoy it or find it difficult, which is a Bad Thing &trademark;
+But that being said, it's not just recently, my social skills haven't always been the best, especially with non-technical conversations. And as with many things, I don't invest in them if I don't enjoy it or find it difficult, which is a Bad Thing&trade;.
 
 I found this at university, too, where I'd love the work I was doing, or I'd spend time outside of coursework learning new things like how to use GNU/Linux, or furthering my technical knowledge. This would be great for my professional development, but _really bad_ for my personal development.
 
