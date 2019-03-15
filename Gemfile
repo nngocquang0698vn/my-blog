@@ -7,7 +7,9 @@ group :test do
   gem 'json'
   gem 'kwalify'
   gem 'pushbullet_ruby'
+  gem 'microformats'
   gem 'rake'
+  gem 'rspec'
 end
 
 group :deploy do

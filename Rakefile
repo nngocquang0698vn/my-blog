@@ -2,7 +2,9 @@
 
 require 'json'
 require 'kwalify'
+require 'rspec/core/rake_task'
 require 'yaml'
+require_relative 'lib/checks'
 
 def notify_search_engine(base_url, search_engine_url)
   raise 'Top-level URL not specified' unless base_url
@@ -80,9 +82,11 @@ namespace :test do
     end
     fail if report_errors(all_incorect_cases)
   end
+
+  RSpec::Core::RakeTask.new(:spec)
 end
 
-task test: ['test:links', 'test:git_casing']
+task test: ['test:spec', 'test:links', 'test:git_casing']
 
 desc 'Notify all search engines'
 task :notify, [:fqdn] do |_, args|

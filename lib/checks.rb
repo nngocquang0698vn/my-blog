@@ -1,0 +1,1 @@
+require_relative 'checks/home_page_has_valid_hcard'
