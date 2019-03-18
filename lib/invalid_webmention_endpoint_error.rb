@@ -1,0 +1,2 @@
+class InvalidWebmentionEndpointError < RuntimeError
+end
