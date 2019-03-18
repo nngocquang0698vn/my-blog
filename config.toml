@@ -20,6 +20,7 @@ enableGitInfo = true
   liveSiteUrl = "https://www.jvt.me"
   image = "/img/profile.png"
   WebMentionDomain = "www.jvt.me"
+  WebMentionFormatUrl = "https://webmention.io/api/mentions.jf2?target=%s&per-page=100"
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
