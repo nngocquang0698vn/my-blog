@@ -30,6 +30,8 @@ This was again really easy to get started with and started producing regular Web
 
 So as per this article's publishing, you can view webmentions on my posts, if there are any. I'd recommend checking out [_Homebrew Website Club: Nottingham_][hwc] as it has, at time of writing, 34 webmentions.
 
+Note that, for now, I'll only be sharing links to other webmentions, rather than directly embedding them - this is a first pass, and while I look at understanding the best way to deal with spam and untrusted inputs.
+
 [Webmention]: https://indieweb.org/webmention
 [hwc]: {{< ref 2019-03-14-homebrew-website-club-nottingham >}}
 [microservices]: {{< ref 2018-12-23-microservices-static-site >}}
