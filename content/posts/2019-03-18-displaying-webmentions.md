@@ -32,6 +32,8 @@ So as per this article's publishing, you can view webmentions on my posts, if th
 
 Note that, for now, I'll only be sharing links to other webmentions, rather than directly embedding them - this is a first pass, and while I look at understanding the best way to deal with spam and untrusted inputs.
 
+I've also added the ability to send a Webmention via an HTML form, in case you don't yet support automagically sending them.
+
 [Webmention]: https://indieweb.org/webmention
 [hwc]: {{< ref 2019-03-14-homebrew-website-club-nottingham >}}
 [microservices]: {{< ref 2018-12-23-microservices-static-site >}}
