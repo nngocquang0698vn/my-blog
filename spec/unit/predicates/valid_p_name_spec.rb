@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/valid_p_name'
+require 'spec_helper'
 
 describe 'ValidPName' do
   let(:hcard) { double('hcard') }

@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/valid_webmention_endpoint'
+require 'spec_helper'
 
 describe 'ValidWebmentionEndpoint' do
   let(:sut) { ValidWebmentionEndpoint.new }

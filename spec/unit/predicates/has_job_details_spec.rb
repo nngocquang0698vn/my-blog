@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/has_job_details'
+require 'spec_helper'
 
 describe 'HasJobDetails' do
   let(:hcard) { double('hcard') }
