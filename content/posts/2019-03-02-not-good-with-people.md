@@ -105,7 +105,7 @@ I still need to find a way to build up conversation topics outside of work, as i
 And then I need to make sure I just get better at talking to people, which is going to require practice, especially as I find talking to people quite mentally exhausting.
 
 [2018-review]: https://gitlab.com/jamietanna/jvt.me/issues/303
-[Anna]: http://annadodson.co.uk
+[Anna]: https://annadodson.co.uk
 [Paula]: https://twitter.com/kerpowla
 [Houman]: https://twitter.com/houmanB
 [appendix]: {{< ref 2018-02-16-2017-in-review >}}#ruptured-appendix
