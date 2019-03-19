@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/valid_u_email'
+require 'spec_helper'
 
 describe 'ValidUEmail' do
   let(:hcard) { double('hcard') }

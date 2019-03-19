@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/valid_u_photo'
+require 'spec_helper'
 
 describe 'ValidUPhoto' do
   let(:hcard) { double('hcard') }

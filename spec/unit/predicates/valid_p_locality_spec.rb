@@ -1,4 +1,4 @@
-require_relative '../../../lib/predicates/valid_p_locality'
+require 'spec_helper'
 
 describe 'ValidPLocality' do
   let(:hcard) { double('hcard') }
