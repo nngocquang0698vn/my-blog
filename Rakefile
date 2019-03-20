@@ -207,6 +207,13 @@ task :bitly_urls, [:url] do |_, args|
   end
 end
 
+desc 'New Branch + Post'
+task :new, [:title] do |_, args|
+  date = Date.today.iso8601
+  puts `git checkout -b article/#{args[:title]}`
+  puts `hugo new posts/#{date}-#{args[:title]}.md`
+end
+
 task validate: ['validate:posts']
 
 task default: ['validate', 'test']
