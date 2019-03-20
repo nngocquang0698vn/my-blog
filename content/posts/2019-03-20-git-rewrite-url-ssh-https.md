@@ -50,7 +50,7 @@ However, this may not be exactly what you want, as you may only want to push ove
 	pushInsteadOf = https://gitlab.com/
 ```
 
-Begone the woes of manually rewriting your Git URLs!
+And this has the added benefit of being able to visit any repo in the browser, and copy-paste the URL to `git clone` it, yet be able to push over SSH - begone the woes of manually rewriting your Git URLs, or clicking in UIs to get the right SSH clone URL!
 
 Note that this can be used with all manner of Git hosts, including your organisation's internal Git repository.
 
