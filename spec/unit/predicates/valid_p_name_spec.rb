@@ -32,7 +32,7 @@ describe 'ValidPName' do
     # no error
   end
 
-  it 'throws if URL is not mine' do
+  it 'throws if name is not mine' do
     # given
     expect(hcard).to receive(:name)
       .and_return 'James Tanna'
