@@ -20,5 +20,18 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
         add_issue(e.message)
       end
     end
+
+    unless hevents.css('.h-adr').length.zero?
+      begin
+        ::HasHAdr.new(::HasField.new(:adr, 'Address'),
+                      ::HasPStreetAddress.new,
+                      ::HasPLocality.new,
+                      ::HasPCountryName.new,
+                      ::HasPPostalCode.new)
+          .validate(event)
+      rescue InvalidMetadataError => e
+        add_issue(e.message)
+      end
+    end
   end
 end

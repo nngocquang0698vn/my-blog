@@ -86,6 +86,39 @@ describe 'EventsPagesHaveValidHevent' do
           expect(sut.issues.length).to eq 2
         end
       end
+
+      context 'when not using `h-adr` or `h-geo`' do
+        let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation.html')) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+
+        it 'has a plain location' do
+          expect(::HasHAdr).to_not receive(:new)
+          expect(::HasHGeo).to_not receive(:new)
+        end
+      end
+
+      context 'when using `h-adr`' do
+        let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_hadr_plocation.html')) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+
+        it 'has an h-adr' do
+          predicate = double
+          expect(::HasHAdr).to receive(:new)
+            .and_return predicate
+          expect(predicate).to receive(:validate)
+
+          sut.run
+        end
+
+        it 'reports issues if any occur' do
+          expect_any_instance_of(::HasHAdr).to receive(:validate)
+            .and_raise(InvalidMetadataError, 'Address is not valid')
+
+          sut.run
+
+          expect(sut.issues.length).to eq 1
+        end
+      end
     end
   end
 end
