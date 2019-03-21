@@ -145,6 +145,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(sut.issues.length).to eq 1
         end
       end
+
+      pending 'it contains the h-organizer'
     end
   end
 
