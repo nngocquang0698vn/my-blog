@@ -33,7 +33,7 @@ Before the next event I'm planning on creating a custom post type in Hugo to sha
 
 Something to think about for the next event is maybe more structure / agenda, although like other HWCs, I want to keep it less structured and more fluid for attendees.
 
-And to comment on [Greg's note](https://quickthoughts.jgregorymcverry.com/2019/03/20/what-an-amazing-day-indieweb-keeps-growing), the below is really awesome:
+And to comment on <a class="u-in-reply-to" href="https://quickthoughts.jgregorymcverry.com/2019/03/20/what-an-amazing-day-indieweb-keeps-growing">Greg's note</a>, the below is really awesome:
 
 > What an amazing day! #IndieWeb keeps growing. So excited that we broke a record!! 11 Homebrew website Clubs across the globe. Including four new Clubs: Accra, Nottingham, and Guadalajara! and Karlushe Find one or start one near you: https://indieweb.org/Events
 
