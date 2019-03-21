@@ -3,6 +3,7 @@ require_relative '../../lib/predicates'
 
 class EventsPagesHaveValidHevent < ::HTMLProofer::Check
   def run
+    return unless /^.\/public\/events\/[a-zA-Z0-9-]+\/\d{4}\/\d{2}\/\d{2}\//.match? @path
     hevents = @html.css('.h-event')
     event = Microformats.parse(hevents.to_s).event
     [::HasPName, ::HasDtStart, ::HasDtEnd, ::HasPLocation, ::HasPSummary].each do |clazz|

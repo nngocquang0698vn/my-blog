@@ -1,11 +1,14 @@
 require 'spec_helper'
 
+VALID_PATH = './public/events/this-is-a-123-post/2019/03/21/index.html'
+
 describe 'EventsPagesHaveValidHevent' do
+
   context 'on an event' do
     context 'with an h-event' do
       context 'with a p-description' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation_description.html')) }
-        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'verifies p-description' do
           predicate = double
@@ -28,7 +31,7 @@ describe 'EventsPagesHaveValidHevent' do
 
       context 'regardless of the p-location' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation.html')) }
-        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'verifies there is a p-name' do
           predicate = double
@@ -89,7 +92,7 @@ describe 'EventsPagesHaveValidHevent' do
 
       context 'when not using `h-adr` or `h-geo`' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation.html')) }
-        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'has a plain location' do
           expect(::HasHAdr).to_not receive(:new)
@@ -99,7 +102,7 @@ describe 'EventsPagesHaveValidHevent' do
 
       context 'when using `h-adr`' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_hadr_plocation.html')) }
-        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'has an h-adr' do
           predicate = double
@@ -122,7 +125,7 @@ describe 'EventsPagesHaveValidHevent' do
 
       context 'when using `h-geo`' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_hgeo_plocation.html')) }
-        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'has an h-geo' do
           predicate = double
@@ -142,6 +145,17 @@ describe 'EventsPagesHaveValidHevent' do
           expect(sut.issues.length).to eq 1
         end
       end
+    end
+  end
+
+  context 'when not on an event' do
+    let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_no_hevent.html')) }
+    let(:sut) { EventsPagesHaveValidHevent.new('', './public/posts/2018/post.html', html, {}) }
+
+    it 'skips' do
+      expect(sut).to_not receive(:add_issue)
+
+      sut.run
     end
   end
 end
