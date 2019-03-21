@@ -3,6 +3,29 @@ require 'spec_helper'
 describe 'EventsPagesHaveValidHevent' do
   context 'on an event' do
     context 'with an h-event' do
+      context 'with a p-description' do
+        let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation_description.html')) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+
+        it 'verifies p-description' do
+          predicate = double
+          expect(::HasPDescription).to receive(:new)
+            .and_return predicate
+          expect(predicate).to receive(:validate)
+
+          sut.run
+        end
+
+        it 'reports error if found' do
+          expect_any_instance_of(::HasPDescription).to receive(:validate)
+            .and_raise(InvalidMetadataError, 'more content, please')
+
+          sut.run
+
+          expect(sut.issues.length).to eq 1
+        end
+      end
+
       context 'regardless of the p-location' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation.html')) }
         let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
