@@ -33,5 +33,16 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
         add_issue(e.message)
       end
     end
+
+    unless hevents.css('.h-geo').length.zero?
+      begin
+        ::HasHGeo.new(::HasField.new(:geo, 'Geo'),
+                      ::HasPLatitude.new,
+                      ::HasPLongitude.new)
+          .validate(event)
+      rescue InvalidMetadataError => e
+        add_issue(e.message)
+      end
+    end
   end
 end

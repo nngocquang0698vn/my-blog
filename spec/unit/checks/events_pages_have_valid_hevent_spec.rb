@@ -119,6 +119,29 @@ describe 'EventsPagesHaveValidHevent' do
           expect(sut.issues.length).to eq 1
         end
       end
+
+      context 'when using `h-geo`' do
+        let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_hgeo_plocation.html')) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', '', html, {}) }
+
+        it 'has an h-geo' do
+          predicate = double
+          expect(::HasHGeo).to receive(:new)
+            .and_return predicate
+          expect(predicate).to receive(:validate)
+
+          sut.run
+        end
+
+        it 'reports issues if any occur' do
+          expect_any_instance_of(::HasHGeo).to receive(:validate)
+            .and_raise(InvalidMetadataError, 'Geolocation is not valid')
+
+          sut.run
+
+          expect(sut.issues.length).to eq 1
+        end
+      end
     end
   end
 end
