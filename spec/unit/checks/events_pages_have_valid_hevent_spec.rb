@@ -17,6 +17,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'reports error if found' do
@@ -40,6 +42,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'verifies there is a dt-start' do
@@ -49,6 +53,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'verifies there is a dt-end' do
@@ -58,6 +64,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'verifies there is a p-location' do
@@ -67,6 +75,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'verifies there is a p-summary' do
@@ -76,6 +86,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'reports issues if any occur' do
@@ -111,6 +123,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'reports issues if any occur' do
@@ -134,6 +148,8 @@ describe 'EventsPagesHaveValidHevent' do
           expect(predicate).to receive(:validate)
 
           sut.run
+
+          expect(sut.issues.length).to eq 0
         end
 
         it 'reports issues if any occur' do
