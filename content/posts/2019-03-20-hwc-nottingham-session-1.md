@@ -29,7 +29,9 @@ I spoke about how I [blog as a form of documentation]({{< ref 2017-06-25-blogume
 
 To this, I'd recommend just setting your site up with a pre-built theme. Get the core content up there and then customise the theme after. __Unless__ you're trying to show off your design skills, in which case the reverse is true!
 
-Before the next event I'm planning on creating a custom post type in Hugo to share out the new events - if you're interested [you can follow along on the issue](https://gitlab.com/jamietanna/jvt.me/issues/395).
+<s>Before the next event I'm planning on creating a custom post type in Hugo to share out the new events - if you're interested [you can follow along on the issue](https://gitlab.com/jamietanna/jvt.me/issues/395).</s>
+
+As per [_Marking up Events with Microformats_]({{< ref 2019-03-23-microformats-hevent >}}), I have created a custom events content type on this blog which renders the [`h-event`](http://microformats.org/wiki/h-event) markup on these events pages.
 
 Something to think about for the next event is maybe more structure / agenda, although like other HWCs, I want to keep it less structured and more fluid for attendees.
 

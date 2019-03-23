@@ -111,9 +111,18 @@ namespace :test do
     # if we've removed an old post
     raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
   end
+
+  desc 'Ensure that theme is pointing to origin/fork not a branch'
+  task :theme_branch do
+    Dir.chdir('themes/tale-hugo') do
+      commit = `git rev-parse HEAD`.chomp
+      contains = `git branch fork --contains #{commit}`
+      raise "branch `fork` does not contain commit #{commit}" if contains.length.zero?
+    end
+  end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:links', 'test:git_casing']
+task test: ['test:spec', 'test:permalinks', 'test:links', 'test:git_casing', 'test:theme_branch']
 
 desc 'Notify all search engines'
 task :notify, [:fqdn] do |_, args|
