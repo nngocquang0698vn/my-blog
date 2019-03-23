@@ -47,5 +47,21 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
         add_issue(e.message)
       end
     end
+
+    unless hevents.css('.p-location.h-card').length.zero?
+      begin
+        ::EventHasHcardInPlocation.new(::HasField.new(:location, 'Location'),
+                      ::CardIsOfType.new('h-card'),
+                      ::HasPStreetAddress.new.fail_if_field_not_found(false),
+                      ::HasPLocality.new.fail_if_field_not_found(false),
+                      ::HasPCountryName.new.fail_if_field_not_found(false),
+                      ::HasPPostalCode.new.fail_if_field_not_found(false),
+                      ::HasPLatitude.new.fail_if_field_not_found(false),
+                      ::HasPLongitude.new.fail_if_field_not_found(false))
+          .validate(event)
+      rescue InvalidMetadataError => e
+        add_issue(e.message)
+      end
+    end
   end
 end
