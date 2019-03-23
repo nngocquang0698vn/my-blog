@@ -158,6 +158,29 @@ describe 'EventsPagesHaveValidHevent' do
         end
       end
 
+      context 'when using `h-card`' do
+        let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_hcard_plocation.html')) }
+        let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
+
+        it 'has an h-card' do
+          expect_any_instance_of(::EventHasHcardInPlocation).to receive(:validate)
+            .and_call_original
+
+          sut.run
+
+          expect(sut.issues.length).to eq 0
+        end
+
+        it 'reports issues if any occur' do
+          expect_any_instance_of(::EventHasHcardInPlocation).to receive(:validate)
+            .and_raise(InvalidMetadataError, 'Something is not valid')
+
+          sut.run
+
+          expect(sut.issues.length).to eq 1
+        end
+      end
+
       pending 'it contains the h-organizer'
     end
   end
