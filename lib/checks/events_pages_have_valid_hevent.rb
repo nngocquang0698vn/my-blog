@@ -52,12 +52,12 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
       begin
         ::EventHasHcardInPlocation.new(::HasField.new(:location, 'Location'),
                       ::CardIsOfType.new('h-card'),
-                      ::HasPStreetAddress.new,
-                      ::HasPLocality.new,
-                      ::HasPCountryName.new,
-                      ::HasPPostalCode.new,
-                      ::HasPLatitude.new,
-                      ::HasPLongitude.new)
+                      ::HasPStreetAddress.new.fail_if_field_not_found(false),
+                      ::HasPLocality.new.fail_if_field_not_found(false),
+                      ::HasPCountryName.new.fail_if_field_not_found(false),
+                      ::HasPPostalCode.new.fail_if_field_not_found(false),
+                      ::HasPLatitude.new.fail_if_field_not_found(false),
+                      ::HasPLongitude.new.fail_if_field_not_found(false))
           .validate(event)
       rescue InvalidMetadataError => e
         add_issue(e.message)
