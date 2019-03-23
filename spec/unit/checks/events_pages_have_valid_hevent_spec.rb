@@ -117,10 +117,8 @@ describe 'EventsPagesHaveValidHevent' do
         let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'has an h-adr' do
-          predicate = double
-          expect(::HasHAdr).to receive(:new)
-            .and_return predicate
-          expect(predicate).to receive(:validate)
+          expect_any_instance_of(::HasHAdr).to receive(:validate)
+            .and_call_original
 
           sut.run
 
@@ -142,10 +140,8 @@ describe 'EventsPagesHaveValidHevent' do
         let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
         it 'has an h-geo' do
-          predicate = double
-          expect(::HasHGeo).to receive(:new)
-            .and_return predicate
-          expect(predicate).to receive(:validate)
+          expect_any_instance_of(::HasHAdr).to receive(:validate)
+            .and_call_original
 
           sut.run
 
