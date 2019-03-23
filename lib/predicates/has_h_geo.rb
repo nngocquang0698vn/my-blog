@@ -1,13 +1,13 @@
 class HasHGeo < Predicate
-  def initialize(has_geo, has_latitude, has_longitude)
+  def initialize(has_geo, *geo_predicates)
     @has_geo = has_geo
-    @has_latitude = has_latitude
-    @has_longitude = has_longitude
+    @geo_predicates = geo_predicates
   end
 
   def validate(hevent)
     @has_geo.validate(hevent)
-    @has_latitude.validate(hevent.geo)
-    @has_longitude.validate(hevent.geo)
+    @geo_predicates.each do |p|
+      p.validate(hevent.location)
+    end
   end
 end

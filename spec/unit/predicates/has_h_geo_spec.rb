@@ -1,20 +1,23 @@
 require 'spec_helper'
 
 describe 'HasHGeo' do
-  let(:has_geo) { double('HasField(:geo, \'Geo\')') }
+  let(:has_plocation) { double('HasField(:location, \'Location\')') }
+  let(:plocation_is_hgeo) { double('CardIsOfType(\'h-geo\')') }
   let(:has_latitude) { double('HasPLatitude') }
   let(:has_longitude) { double('HasPLongitude') }
 
-  let(:sut) { HasHGeo.new(has_geo, has_latitude, has_longitude) }
+  let(:sut) { HasHGeo.new(has_plocation, plocation_is_hgeo, has_latitude, has_longitude) }
   let(:hevent) { double }
   let(:hgeo) { double }
 
   before :each do
-    allow(hevent).to receive(:geo)
+    allow(hevent).to receive(:location)
       .and_return hgeo
 
-    allow(has_geo).to receive(:validate)
+    allow(has_plocation).to receive(:validate)
       .with(hevent)
+    allow(plocation_is_hgeo).to receive(:validate)
+      .with(hgeo)
     allow(has_latitude).to receive(:validate)
       .with(hgeo)
     allow(has_longitude).to receive(:validate)
@@ -22,8 +25,15 @@ describe 'HasHGeo' do
   end
 
   it 'calls to HasField for h-geo' do
-    expect(has_geo).to receive(:validate)
+    expect(has_plocation).to receive(:validate)
       .with(hevent)
+
+    sut.validate(hevent)
+  end
+
+  it 'calls to CardIsOfType for p-location' do
+    expect(plocation_is_hgeo).to receive(:validate)
+      .with(hgeo)
 
     sut.validate(hevent)
   end

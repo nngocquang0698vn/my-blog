@@ -9,7 +9,7 @@ class HasHAdr < Predicate
   def validate(hevent)
     @has_address.validate(hevent)
     @adr_predicates.each do |p|
-      p.validate(hevent.adr)
+      p.validate(hevent.location)
     end
   end
 end

@@ -1,3 +1,4 @@
+require_relative 'predicates/card_is_of_type'
 require_relative 'predicates/has_dt_end'
 require_relative 'predicates/has_dt_start'
 require_relative 'predicates/has_e_content'

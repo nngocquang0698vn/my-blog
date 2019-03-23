@@ -24,7 +24,8 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
 
     unless hevents.css('.h-adr').length.zero?
       begin
-        ::HasHAdr.new(::HasField.new(:adr, 'Address'),
+        ::HasHAdr.new(::HasField.new(:location, 'Location'),
+                      ::CardIsOfType.new('h-adr'),
                       ::HasPStreetAddress.new,
                       ::HasPLocality.new,
                       ::HasPCountryName.new,
@@ -37,7 +38,8 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
 
     unless hevents.css('.h-geo').length.zero?
       begin
-        ::HasHGeo.new(::HasField.new(:geo, 'Geo'),
+        ::HasHGeo.new(::HasField.new(:location, 'Location'),
+                      ::CardIsOfType.new('h-geo'),
                       ::HasPLatitude.new,
                       ::HasPLongitude.new)
           .validate(event)
