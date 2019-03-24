@@ -33,7 +33,7 @@ mapping:
     type: str
     required: yes
   'date':
-    type: date
+    type: timestamp
     required: yes
   'slug':
     type: str

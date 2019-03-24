@@ -7,7 +7,7 @@ categories:
 tags:
 - blogumentation
 - curl
-date: 2018-10-19
+date: 2018-10-19T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: curl-i-response-headers
@@ -98,7 +98,7 @@ $ curl -i https://google.com
 HTTP/2 301
 location: https://www.google.com/
 content-type: text/html; charset=UTF-8
-date: Fri, 19 Oct 2018 11:21:36 GMT
+date: Fri, 19 Oct 2018 11:21:36 GMTT00:00:00
 expires: Sun, 18 Nov 2018 11:21:36 GMT
 cache-control: public, max-age=2592000
 server: gws

@@ -9,7 +9,7 @@ tags:
 - social
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-03-02
+date: 2019-03-02T00:00:00
 slug: "not-good-with-people"
 ---
 I'm currently trying to find the time to finish writing my [2018 in Review blog post][2018-review], but before I do, I feel I want to get this post out first. This was a large section of the post, so it'd be good to have it done and "out there" for y'all to have a read.

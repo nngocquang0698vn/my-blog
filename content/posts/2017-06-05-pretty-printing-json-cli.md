@@ -7,7 +7,7 @@ tags:
 - blogumentation
 - python
 - json
-date: 2017-06-05
+date: 2017-06-05T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: pretty-printing-json-cli

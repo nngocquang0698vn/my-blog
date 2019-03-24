@@ -11,7 +11,7 @@ tags:
 - howto
 - deploy
 image: /img/vendor/gitlab-wordmark.png
-date: 2018-04-15
+date: 2018-04-15T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: caddy-gitlab-review-apps

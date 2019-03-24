@@ -10,7 +10,7 @@ tags:
 - gitlab
 - docker
 image: /img/vendor/gitlab-wordmark.png
-date: 2017-01-25
+date: 2017-01-25T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: gitlab-ci-capistrano

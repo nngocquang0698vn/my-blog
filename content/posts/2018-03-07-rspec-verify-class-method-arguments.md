@@ -9,7 +9,7 @@ tags:
 - ruby
 - testing
 - rspec
-date: 2018-03-07
+date: 2018-03-07T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: rspec-verify-class-method-arguments

@@ -9,7 +9,7 @@ tags:
 - git-worktree
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-29
+date: 2019-01-29T00:00:00
 slug: "git-worktree-multiple-branches"
 image: /img/vendor/git.png
 ---

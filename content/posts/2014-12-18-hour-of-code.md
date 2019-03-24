@@ -9,7 +9,7 @@ tags:
 - hour-of-code
 - impact-nottingham
 canonical_url: https://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/
-date: 2014-12-18
+date: 2014-12-18T00:00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: hour-of-code

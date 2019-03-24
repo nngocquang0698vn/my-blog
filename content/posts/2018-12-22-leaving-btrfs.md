@@ -7,7 +7,7 @@ tags:
 - thoughts
 - linux
 - btrfs
-date: 2018-12-22
+date: 2018-12-22T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: leaving-btrfs

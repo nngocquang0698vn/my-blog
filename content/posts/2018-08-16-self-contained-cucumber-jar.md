@@ -12,7 +12,7 @@ tags:
 - artefact
 - maven
 - uber-jar
-date: 2018-08-16
+date: 2018-08-16T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: self-contained-cucumber-jar

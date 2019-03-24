@@ -13,7 +13,7 @@ tags:
 - shell
 license_code: GPL-3.0-or-later
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-11
+date: 2019-01-11T00:00:00
 slug: "jekyll-promote"
 image: /img/vendor/jekyll-logo-2x.png
 ---

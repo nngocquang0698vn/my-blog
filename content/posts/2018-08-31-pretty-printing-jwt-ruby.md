@@ -10,7 +10,7 @@ tags:
 - jwt
 - json
 image: /img/vendor/jwt.io.jpg
-date: 2018-08-31
+date: 2018-08-31T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: pretty-printing-jwt-ruby

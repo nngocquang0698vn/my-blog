@@ -16,7 +16,7 @@ tags:
 - shell
 - gitlab-ci
 - review-apps
-date: 2018-09-12
+date: 2018-09-12T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: blog-post-editorial-workflow
