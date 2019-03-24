@@ -12,7 +12,7 @@ tags:
 - chef-13
 - documentation
 image: /img/vendor/chef-logo.png
-date: 2018-03-07
+date: 2018-03-07T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-13-knife-cookbook-doc

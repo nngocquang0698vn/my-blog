@@ -7,7 +7,7 @@ tags:
 - jekyll
 - hugo
 - jvt.me
-date: 2019-01-04
+date: 2019-01-04T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 ---

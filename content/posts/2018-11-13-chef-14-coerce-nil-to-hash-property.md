@@ -10,7 +10,7 @@ tags:
 - chefspec
 - test-coverage
 image: /img/vendor/chef-logo.png
-date: 2018-11-13
+date: 2018-11-13T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-14-coerce-nil-to-hash-property

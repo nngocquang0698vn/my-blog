@@ -9,7 +9,7 @@ tags:
 - chef
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-02-10
+date: 2019-02-10T00:00:00
 slug: "chef-client-noop-json"
 image: /img/vendor/chef-logo.png
 ---

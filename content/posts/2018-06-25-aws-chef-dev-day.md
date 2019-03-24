@@ -15,7 +15,7 @@ tags:
 - containers
 - chef-automate
 - inspec
-date: 2018-06-25
+date: 2018-06-25T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: aws-chef-dev-day

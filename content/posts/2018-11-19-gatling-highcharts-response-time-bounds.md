@@ -9,7 +9,7 @@ tags:
 - gatling
 - gatling-highcharts
 image: /img/vendor/gatling-logo.png
-date: 2018-11-19
+date: 2018-11-19T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: gatling-highcharts-response-time-bounds

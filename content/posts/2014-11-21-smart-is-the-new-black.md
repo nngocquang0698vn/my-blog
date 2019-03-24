@@ -7,7 +7,7 @@ tags:
 - internet-of-things
 - impact-nottingham
 canonical_url: https://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/
-date: 2014-11-21
+date: 2014-11-21T00:00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: smart-is-the-new-black

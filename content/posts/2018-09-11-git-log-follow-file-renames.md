@@ -10,7 +10,7 @@ tags:
 - shell
 - blogumentation
 image: /img/vendor/git.png
-date: 2018-09-11
+date: 2018-09-11T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: git-log-follow-file-renames

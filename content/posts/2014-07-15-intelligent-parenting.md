@@ -7,7 +7,7 @@ tags:
 - internet-of-things
 - impact-nottingham
 canonical_url: https://www.impactnottingham.com/2014/07/intelligent-parenting/
-date: 2014-07-15
+date: 2014-07-15T00:00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: intelligent-parenting

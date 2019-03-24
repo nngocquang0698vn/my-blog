@@ -10,7 +10,7 @@ tags:
 - microformats
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-03-18
+date: 2019-03-18T00:00:00
 slug: "displaying-webmentions"
 image: /img/vendor/webmention-logo.png
 ---

@@ -9,7 +9,7 @@ tags:
 - workflow
 - automation
 image: /img/vendor/git.png
-date: 2017-04-17
+date: 2017-04-17T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: commit-templates

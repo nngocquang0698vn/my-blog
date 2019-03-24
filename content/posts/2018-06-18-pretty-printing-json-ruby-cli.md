@@ -7,7 +7,7 @@ tags:
 - blogumentation
 - ruby
 - json
-date: 2018-06-18
+date: 2018-06-18T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: pretty-printing-json-ruby-cli
