@@ -24,3 +24,5 @@ However, as well as consuming the posts on the news site, I also want to be shar
 For now, I've added support to my blog posts and my events posts, as they're the most interesting, but as and when there's more content types, I'll update them, too.
 
 Currently the process of initiating the syndication through webmentions is manual, because I don't have automagic webmention sending, but [I will be tackling this soon](https://gitlab.com/jamietanna/jvt.me/issues/408).
+
+UPDATE: As pointed out by [Greg's reply to this post](https://quickthoughts.jgregorymcverry.com/2019/03/27/-this-is-awesome-indienews-is-our), always syndicating to IndieNews is a _bad idea_. As such, I've opened [an issue on my site](https://gitlab.com/jamietanna/jvt.me/issues/409) to fix this, and make syndication opt-in where necessary, so as not to spam the various channels I'd want syndicating.
