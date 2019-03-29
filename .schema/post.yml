@@ -43,3 +43,17 @@ mapping:
     type: bool
     required: no
     pattern: /true/
+  'syndication':
+    type: seq
+    required: no
+    sequence:
+      - type: map
+        mapping:
+          'text':
+            type: str
+            required: yes
+            length: { min: 1 }
+          'url':
+            type: str
+            required: yes
+            length: { min: 1 }
