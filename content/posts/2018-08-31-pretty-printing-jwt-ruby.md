@@ -88,5 +88,7 @@ You can see the asciicast in action:
 
 <asciinema-player src="/casts/pretty-printing-jwt-ruby-rubyjwt-library.json"></asciinema-player>
 
+Note: You can use [`Kernel.jj` as a shorter way to pretty-print an object as JSON]({{< ref 2019-03-29-pretty-printing-json-ruby >}}).
+
 [JWT.io]: https://jwt.io
 [Pretty Printing JSON with Ruby on the CLI]: {{< ref 2017-06-05-pretty-printing-json-cli >}}
