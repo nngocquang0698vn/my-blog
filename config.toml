@@ -23,6 +23,7 @@ enableGitInfo = true
   WebMentionFormatUrl = "https://webmention.io/api/mentions.jf2?target=%s&per-page=100"
   AuthorizationEndpoint = "https://indieauth.com/auth"
   TokenEndpoint = "https://tokens.indieauth.com/token"
+  MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:slug/"
