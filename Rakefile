@@ -60,7 +60,8 @@ namespace :test do
       url_ignore: [
         /pic\.twiter\.com/,
         /t\.co/,
-        /indieauth.com/
+        /indieauth.com/,
+        /aperture.p3k.io/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
