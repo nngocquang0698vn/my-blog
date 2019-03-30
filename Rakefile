@@ -59,7 +59,8 @@ namespace :test do
       internal_domains: ['jvt.me', 'www.jvt.me'],
       url_ignore: [
         /pic\.twiter\.com/,
-        /t\.co/
+        /t\.co/,
+        /indieauth.com/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
