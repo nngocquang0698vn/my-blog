@@ -6,7 +6,6 @@ variables:
   CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:$CI_COMMIT_REF_SLUG
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
   RELEASE_CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
-  RELEASE_CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
   URL_PRODUCTION: https://www.jvt.me
@@ -145,19 +144,6 @@ release_built_image:
     GIT_STRATEGY: none
   only:
     - master
-
-release_test_image:
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_TEST_IMAGE"
-    - docker tag "$CONTAINER_TEST_IMAGE" "$RELEASE_CONTAINER_TEST_IMAGE"
-    - docker push "$RELEASE_CONTAINER_TEST_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
 # }}}
 
 # Production {{{
