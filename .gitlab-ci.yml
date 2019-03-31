@@ -13,7 +13,6 @@ variables:
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
   URL_PRODUCTION: https://www.jvt.me
-  URL_STAGING: https://www.staging.jvt.me
   URL_REVIEW_SUFFIX: www.review.jvt.me
   GIT_SUBMODULE_STRATEGY: normal
 
@@ -21,7 +20,6 @@ stages:
   - build
   - review
   - test
-  - staging
   - release
   - production
   - notify
@@ -126,31 +124,6 @@ review_stop:
     - branches
   except:
     - master
-# }}}
-
-# Staging {{{
-staging_deploy:
-  image: $CONTAINER_DEPLOY_IMAGE
-  stage: staging
-  script:
-    # ensure we're in the directory with our capistrano configuration
-    - cd /site
-    # ensure that deployments can use the SSH key that is passed in via the
-    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
-    - eval $(ssh-agent -s)
-      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$STAGING_SSH_PRIVATE_KEY" > key
-    - chmod 600 key
-    - ssh-add key
-    - cap staging deploy
-  environment:
-    name: staging
-    url: $URL_STAGING
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-# }}}
 # }}}
 
 # Push the image up to the registry as our latest image, on master {{{
