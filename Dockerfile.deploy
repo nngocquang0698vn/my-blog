@@ -6,10 +6,6 @@ WORKDIR "/site"
 RUN apk --update add git \
 		openssh-client
 
-ADD Gemfile Gemfile.lock /site/
-
-RUN bundle install --without build test
-
 # Bake Capistrano config into image {{{
 # build the base file structure so we can copy into the correct directories
 RUN mkdir -p /site/config /site/lib/capistrano
@@ -21,3 +17,7 @@ ADD config/deploy.rb /site/config
 
 ADD lib/capistrano /site/lib/capistrano
 # }}}
+
+ADD Gemfile Gemfile.lock /site/
+
+RUN bundle install --without build test
