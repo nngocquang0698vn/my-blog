@@ -1,21 +1,13 @@
 image: docker:latest
-services:
-  - docker:dind
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
   CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:$CI_COMMIT_REF_SLUG
-  CONTAINER_BUILDER_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:$CI_COMMIT_REF_SLUG
   CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:$CI_COMMIT_REF_SLUG
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
   RELEASE_CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
-  RELEASE_CONTAINER_BUILDER_IMAGE: $CONTAINER_IMAGE_BASE_URL/builder:latest
-  RELEASE_CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:latest
-  RELEASE_CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:latest
   DOCKER_DRIVER: overlay
-  DOCKER_BASE_IMAGE: alpine:3.5
   URL_PRODUCTION: https://www.jvt.me
-  URL_STAGING: https://www.staging.jvt.me
   URL_REVIEW_SUFFIX: www.review.jvt.me
   GIT_SUBMODULE_STRATEGY: normal
 
@@ -23,52 +15,54 @@ stages:
   - build
   - review
   - test
-  - staging
   - release
   - production
   - notify
 
 # Ensure that the site builds {{{
-build_image:
+build_site:
+  services:
+    - docker:dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     # pull the latest base image on a master build
-    - '[[ "$CI_BUILD_REF_SLUG" == "master" ]] && docker pull $DOCKER_BASE_IMAGE || true'
-    - docker pull $CONTAINER_BUILDER_IMAGE || docker pull $RELEASE_CONTAINER_BUILDER_IMAGE || true
-    # Build the builder image {{{
-    - docker build --pull --cache-from $CONTAINER_BUILDER_IMAGE --cache-from $RELEASE_CONTAINER_BUILDER_IMAGE -t $CONTAINER_BUILDER_IMAGE .
-    - docker push $CONTAINER_BUILDER_IMAGE
-    # }}}
-    # Build the test image {{{
-    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $RELEASE_CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
-    - docker push $CONTAINER_TEST_IMAGE
-    # }}}
-    # Build the built image {{{
-    - docker run -v $(readlink -f .):/site $CONTAINER_BUILDER_IMAGE
-    - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.built .
+    - docker build -t $CONTAINER_BUILT_IMAGE .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
 # }}}
 
-# Build the deploy image {{{
-build_deploy_image:
+build_test_image:
+  services:
+    - docker:dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_DEPLOY_IMAGE || docker pull $RELEASE_CONTAINER_DEPLOY_IMAGE || true
-    - docker build --pull --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $RELEASE_CONTAINER_DEPLOY_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker pull $CONTAINER_TEST_IMAGE || true
+    - docker build --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
+    - docker push $CONTAINER_TEST_IMAGE
+
+# Build the deploy image {{{
+build_deploy_image:
+  services:
+    - docker:dind
+  stage: build
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
 
 # Ensure that all tests pass {{{
 test_image:
+  services:
+    - docker:dind
   stage: test
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     - docker pull $CONTAINER_TEST_IMAGE
     # Ensure collections are formed correctly {{{
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_TEST_IMAGE bundle exec rake validate
+    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake validate
     # }}}
 
     # Get the generated site content {{{
@@ -79,7 +73,7 @@ test_image:
     # }}}
 
     # Ensure the generated site is correct {{{
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_TEST_IMAGE bundle exec rake test
+    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake test
     # }}}
 # }}}
 
@@ -135,45 +129,10 @@ review_stop:
     - master
 # }}}
 
-# Staging {{{
-staging_deploy:
-  image: $CONTAINER_DEPLOY_IMAGE
-  stage: staging
-  script:
-    # ensure we're in the directory with our capistrano configuration
-    - cd /site
-    # ensure that deployments can use the SSH key that is passed in via the
-    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
-    - eval $(ssh-agent -s)
-      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$STAGING_SSH_PRIVATE_KEY" > key
-    - chmod 600 key
-    - ssh-add key
-    - cap staging deploy
-  environment:
-    name: staging
-    url: $URL_STAGING
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-# }}}
-# }}}
-
 # Push the image up to the registry as our latest image, on master {{{
-release_builder_image:
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_BUILDER_IMAGE"
-    - docker tag "$CONTAINER_BUILDER_IMAGE" "$RELEASE_CONTAINER_BUILDER_IMAGE"
-    - docker push "$RELEASE_CONTAINER_BUILDER_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
 release_built_image:
+  services:
+    - docker:dind
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -184,31 +143,6 @@ release_built_image:
     GIT_STRATEGY: none
   only:
     - master
-
-release_deploy_image:
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_DEPLOY_IMAGE"
-    - docker tag "$CONTAINER_DEPLOY_IMAGE" "$RELEASE_CONTAINER_DEPLOY_IMAGE"
-    - docker push "$RELEASE_CONTAINER_DEPLOY_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
-release_test_image:
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_TEST_IMAGE"
-    - docker tag "$CONTAINER_TEST_IMAGE" "$RELEASE_CONTAINER_TEST_IMAGE"
-    - docker push "$RELEASE_CONTAINER_TEST_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
 # }}}
 
 # Production {{{

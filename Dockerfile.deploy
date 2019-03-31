@@ -1,19 +1,10 @@
-FROM alpine:latest
+FROM ruby:2.5-alpine
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 
 WORKDIR "/site"
 
-RUN apk update && \
-    apk upgrade && \
-	apk add ruby-dev ruby-bundler && \
-	apk add git \
-		build-base \
+RUN apk --update add git \
 		openssh-client
-
-ADD Gemfile /site
-ADD Gemfile.lock /site
-
-RUN bundle install --without build test
 
 # Bake Capistrano config into image {{{
 # build the base file structure so we can copy into the correct directories
@@ -26,3 +17,7 @@ ADD config/deploy.rb /site/config
 
 ADD lib/capistrano /site/lib/capistrano
 # }}}
+
+ADD Gemfile Gemfile.lock /site/
+
+RUN bundle install --without build test
