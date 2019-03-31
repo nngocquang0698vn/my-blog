@@ -9,7 +9,6 @@ variables:
   CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
   RELEASE_CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
   RELEASE_CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:latest
-  RELEASE_CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:latest
   DOCKER_DRIVER: overlay
   DOCKER_BASE_IMAGE: alpine:3.5
   URL_PRODUCTION: https://www.jvt.me
@@ -47,8 +46,7 @@ build_deploy_image:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_DEPLOY_IMAGE || docker pull $RELEASE_CONTAINER_DEPLOY_IMAGE || true
-    - docker build --pull --cache-from $CONTAINER_DEPLOY_IMAGE --cache-from $RELEASE_CONTAINER_DEPLOY_IMAGE -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
+    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_DEPLOY_IMAGE
 # }}}
 
@@ -134,18 +132,6 @@ release_built_image:
     - docker pull "$CONTAINER_BUILT_IMAGE"
     - docker tag "$CONTAINER_BUILT_IMAGE" "$RELEASE_CONTAINER_BUILT_IMAGE"
     - docker push "$RELEASE_CONTAINER_BUILT_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
-release_deploy_image:
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_DEPLOY_IMAGE"
-    - docker tag "$CONTAINER_DEPLOY_IMAGE" "$RELEASE_CONTAINER_DEPLOY_IMAGE"
-    - docker push "$RELEASE_CONTAINER_DEPLOY_IMAGE"
   variables:
     GIT_STRATEGY: none
   only:
