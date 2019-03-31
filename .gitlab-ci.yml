@@ -1,6 +1,4 @@
 image: docker:latest
-services:
-  - docker:dind
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
@@ -25,6 +23,8 @@ stages:
 
 # Ensure that the site builds {{{
 build_site:
+  services:
+    - docker:dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -35,6 +35,8 @@ build_site:
 # }}}
 
 build_test_image:
+  services:
+    - docker:dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -44,6 +46,8 @@ build_test_image:
 
 # Build the deploy image {{{
 build_deploy_image:
+  services:
+    - docker:dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -53,6 +57,8 @@ build_deploy_image:
 
 # Ensure that all tests pass {{{
 test_image:
+  services:
+    - docker:dind
   stage: test
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -127,6 +133,8 @@ review_stop:
 
 # Push the image up to the registry as our latest image, on master {{{
 release_built_image:
+  services:
+    - docker:dind
   stage: release
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
