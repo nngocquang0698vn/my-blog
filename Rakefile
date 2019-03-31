@@ -220,9 +220,17 @@ end
 
 desc 'New Branch + Post'
 task :new, [:title] do |_, args|
-  date = Date.today.iso8601
+  date_str = Date.today.iso8601
+  date = Date.parse date_str
   puts `git checkout -b article/#{args[:title]}`
-  puts `hugo new posts/#{date}-#{args[:title]}.md`
+  puts `hugo new posts/#{date_str}-#{args[:title]}.md`
+  new_url = "https://www.jvt.me/posts/#{date.year}/#{date.strftime('%m')}/#{date.strftime('%d')}/#{args[:title]}/"
+  contents = YAML.load_file 'permalinks.yml'
+  contents['posts'].unshift new_url
+
+  File.open('permalinks.yml', 'w') do |f|
+    f.write contents.to_yaml
+  end
 end
 
 task validate: ['validate:posts']
