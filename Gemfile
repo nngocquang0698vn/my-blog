@@ -14,6 +14,5 @@ end
 
 group :deploy do
   gem 'capistrano', '= 3.7.1'
-  gem 'etc'
   gem 'rake'
 end

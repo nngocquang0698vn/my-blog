@@ -1,13 +1,9 @@
-FROM alpine:latest
+FROM ruby:2.5-alpine
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 
 WORKDIR "/site"
 
-RUN apk update && \
-    apk upgrade && \
-	apk add ruby-dev ruby-bundler && \
-	apk add git \
-		build-base \
+RUN apk --update add git \
 		openssh-client
 
 ADD Gemfile /site
