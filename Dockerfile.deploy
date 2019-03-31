@@ -6,8 +6,7 @@ WORKDIR "/site"
 RUN apk --update add git \
 		openssh-client
 
-ADD Gemfile /site
-ADD Gemfile.lock /site
+ADD Gemfile Gemfile.lock /site/
 
 RUN bundle install --without build test
 
