@@ -171,6 +171,8 @@ prod_deploy:
 prod_netlify_deploy:
   image: docker
   stage: production
+  services:
+    - docker:dind
   script:
     # Get the generated site content {{{
     - docker pull $CONTAINER_BUILT_IMAGE
