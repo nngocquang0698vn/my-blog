@@ -1,38 +1,13 @@
-FROM alpine:latest
+FROM ruby:2.5-alpine
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 
-# Install NodeJS and Ruby {{{
-RUN apk update && \
-	apk upgrade && \
-	# Required to set timezone {{{
-	apk add tzdata && \
-	# }}}
-	# Ruby {{{
-	apk add ruby-dev ruby-bundler ruby-bigdecimal && \
-	apk add git \
-		build-base \
-		# for the FFI gem: https://github.com/ffi/ffi/issues/485#issuecomment-191159190
-		libffi-dev \
-		# for the nokogiri gem: https://github.com/gliderlabs/docker-alpine/issues/53#issuecomment-173412882
-		libxml2-dev libxslt-dev
+# Install Ruby {{{
+RUN apk --update add git \
+		build-base
 	# }}}
 # }}}
 
-# Ensure timezone is set correctly {{{
-RUN cp /usr/share/zoneinfo/Europe/London /etc/localtime
-RUN echo 'Europe/London' > /etc/timezone
-# }}}
-
-# Install package dependencies {{{
-RUN mkdir -p /app/site/public
-WORKDIR "/app"
-
-# https://github.com/docker-library/ruby/issues/45
-ENV LANG C.UTF-8
-
-# Set /app as the initial directory for the dependencies, allowing the site to
-# then be mounted into /app/site, so we don't override any of our
-# pre-downloaded dependencies {{{
+WORKDIR /app
 # Ensure we have the latest Ruby dependencies {{{
 COPY Gemfile Gemfile.lock /app/
 # Don't pull in deploy dependencies as they're a separate Docker image
@@ -40,6 +15,3 @@ ENV BUNDLE_WITHOUT=deploy
 RUN bundle install
 # }}}
 # }}}
-
-# Once set up, use our mounted directory for the site
-WORKDIR "/app/site"

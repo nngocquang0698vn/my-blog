@@ -61,7 +61,7 @@ test_image:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     - docker pull $CONTAINER_TEST_IMAGE
     # Ensure collections are formed correctly {{{
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_TEST_IMAGE bundle exec rake validate
+    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake validate
     # }}}
 
     # Get the generated site content {{{
@@ -72,7 +72,7 @@ test_image:
     # }}}
 
     # Ensure the generated site is correct {{{
-    - docker run -v $(readlink -f .):/app/site $CONTAINER_TEST_IMAGE bundle exec rake test
+    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake test
     # }}}
 # }}}
 
