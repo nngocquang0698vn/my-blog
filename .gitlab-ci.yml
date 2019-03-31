@@ -38,7 +38,8 @@ build_test_image:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker build -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
+    - docker pull $CONTAINER_TEST_IMAGE || true
+    - docker build --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
     - docker push $CONTAINER_TEST_IMAGE
 
 # Build the deploy image {{{
