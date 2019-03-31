@@ -27,19 +27,22 @@ stages:
   - notify
 
 # Ensure that the site builds {{{
-build_image:
+build_site:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     # pull the latest base image on a master build
     - docker build -t $CONTAINER_BUILT_IMAGE .
-    # Build the test image {{{
-    - docker build --pull --cache-from $CONTAINER_TEST_IMAGE --cache-from $RELEASE_CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
-    - docker push $CONTAINER_TEST_IMAGE
-    # }}}
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
 # }}}
+
+build_test_image:
+  stage: build
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker build -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
+    - docker push $CONTAINER_TEST_IMAGE
 
 # Build the deploy image {{{
 build_deploy_image:
