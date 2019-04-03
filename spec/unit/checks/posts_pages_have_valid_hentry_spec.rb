@@ -43,6 +43,9 @@ describe 'PostsPagesHaveValidHentry' do
             .and_return nil
         end
 
+        expect_any_instance_of(::ValidUuid).to receive(:validate)
+          # .with(...)
+
         sut.run
 
         expect(sut.issues.length).to be_zero
@@ -53,6 +56,8 @@ describe 'PostsPagesHaveValidHentry' do
           .and_raise InvalidMetadataError, 'Wibble is not set'
         expect_any_instance_of(::HasEContent).to receive(:validate)
           .and_raise InvalidMetadataError, 'Contents of the post are not set'
+        expect_any_instance_of(::ValidUuid).to receive(:validate)
+          .and_raise InvalidMetadataError, 'This is an invalid uuid'
 
         expect(sut).to receive(:add_issue)
           .with('Wibble is not set')
@@ -60,10 +65,13 @@ describe 'PostsPagesHaveValidHentry' do
         expect(sut).to receive(:add_issue)
           .with('Contents of the post are not set')
           .and_call_original
+        expect(sut).to receive(:add_issue)
+          .with('This is an invalid uuid')
+          .and_call_original
 
         sut.run
 
-        expect(sut.issues.length).to eq 2
+        expect(sut.issues.length).to eq 3
       end
     end
   end
