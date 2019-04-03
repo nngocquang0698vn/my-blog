@@ -16,5 +16,13 @@ class PostsPagesHaveValidHentry < ::HTMLProofer::Check
         add_issue(e.message)
       end
     end
+
+    page_mf = Microformats.parse(@html.to_s)
+    valid_uuid = ::ValidUuid.new(::HasRelCanonical.new, ::HasUuid.new)
+    begin
+      valid_uuid.validate(page_mf, entry)
+    rescue InvalidMetadataError => e
+      add_issue(e.message)
+    end
   end
 end
