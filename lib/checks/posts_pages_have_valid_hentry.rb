@@ -9,7 +9,7 @@ class PostsPagesHaveValidHentry < ::HTMLProofer::Check
     return add_issue('No h-entry found') if 0 == hentries.length
 
     entry = Microformats.parse(hentries.to_s).entry
-    [::HasUDateTimePublished, ::HasUDateTimeUpdated, ::HasPSummary, ::HasEContent, ::HasUUrl, ::ValidPostUUrl, ::HasPName, ::ValidPauthor].each do |clazz|
+    [::HasUDateTimePublished, ::HasUDateTimeUpdated, ::HasPSummary, ::HasEContent, ::HasUUrl, ::ValidPostUUrl, ::HasPName, ::ValidPauthor, ::HasPcategory].each do |clazz|
       begin
         clazz.new.validate(entry)
       rescue InvalidMetadataError => e

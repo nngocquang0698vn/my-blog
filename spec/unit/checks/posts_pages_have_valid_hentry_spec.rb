@@ -37,7 +37,7 @@ describe 'PostsPagesHaveValidHentry' do
       let(:sut) { PostsPagesHaveValidHentry.new('', './public/posts/2018/10/20/abc/index.html', html, {})}
 
       it 'does not throw if everything is well formed' do
-        [::HasUDateTimePublished, ::HasUDateTimeUpdated, ::HasPSummary, ::HasEContent, ::HasUUrl, ::ValidPostUUrl, ::HasPName, ::ValidPauthor] .each do |clazz|
+        [::HasUDateTimePublished, ::HasUDateTimeUpdated, ::HasPSummary, ::HasEContent, ::HasUUrl, ::ValidPostUUrl, ::HasPName, ::ValidPauthor, ::HasPcategory] .each do |clazz|
           # do nothing
           expect_any_instance_of(clazz).to receive(:validate)
             .and_return nil
