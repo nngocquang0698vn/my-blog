@@ -87,32 +87,65 @@ namespace :test do
 
   RSpec::Core::RakeTask.new(:spec)
 
-  desc 'Verify permalinks are not broken'
-  task :permalinks do
-    permalinks = YAML.load_file('permalinks.yml')
-    seen = []
-    not_seen = []
+  namespace :permalinks do
+    desc 'Verify RSS permalinks are not broken'
+    task :rss do
+      permalinks = YAML.load_file('permalinks.yml')
+      seen = []
+      not_seen = []
 
-    require 'nokogiri'
-    feed = Nokogiri::XML(File.read('public/feed.xml'))
+      require 'nokogiri'
+      feed = Nokogiri::XML(File.read('public/feed.xml'))
 
-    feed.xpath('//item').each do |e|
-      link = e.at_xpath('link').content
-      # we don't care about anything that's not a blog post
-      next unless /^https:\/\/www.jvt.me\/posts\//.match? link
+      feed.xpath('//item').each do |e|
+        link = e.at_xpath('link').content
+        # we don't care about anything that's not a blog post
+        next unless /^https:\/\/www.jvt.me\/posts\//.match? link
 
-      if permalinks['posts'].include? link
-        seen << link
-      else
-        not_seen << link
+        if permalinks['posts'].include? link
+          seen << link
+        else
+          not_seen << link
+        end
       end
+
+      # if we've added a new post
+      raise 'Posts not tracked in permalinks.yml ' + not_seen.to_s unless not_seen.length.zero?
+      # if we've removed an old post
+      raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
     end
 
-    # if we've added a new post
-    raise 'Posts not tracked in permalinks.yml ' + not_seen.to_s unless not_seen.length.zero?
-    # if we've removed an old post
-    raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
+    desc 'Verify sitemap permalinks are not broken'
+    task :sitemap do
+      permalinks = YAML.load_file('permalinks.yml')
+      seen = []
+      not_seen = []
+
+      require 'nokogiri'
+      feed = Nokogiri::XML(File.read('public/sitemap.xml'))
+
+      feed.css('url').each do |e|
+        link = e.css('loc').text
+        # we don't care about anything that's not a blog post
+        next unless /^https:\/\/www.jvt.me\/posts\/[0-9]{4}\//.match? link
+
+        if permalinks['posts'].include? link
+          seen << link
+        else
+          not_seen << link
+        end
+      end
+
+      # if we've added a new post
+      raise 'Posts not tracked in permalinks.yml ' + not_seen.to_s unless not_seen.length.zero?
+      # if we've removed an old post
+      raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
+    end
   end
+
+  desc 'Verify permalinks are not broken'
+  task permalinks: ['permalinks:rss', 'permalinks:sitemap']
+
 
   desc 'Ensure that theme is pointing to origin/fork not a branch'
   task :theme_branch do
