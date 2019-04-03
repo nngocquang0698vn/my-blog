@@ -1,5 +1,5 @@
 ---
-title: "Viewing X.509 DER Certificate Details with OpenSSL"
+title: "Viewing X.509 DER Certificate Fingerprints with OpenSSL"
 description: "How to view an X.509 DER certificate's fingerprint using `openssl` commands."
 categories:
 - blogumentation
