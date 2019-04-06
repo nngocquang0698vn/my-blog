@@ -20,7 +20,7 @@ Note: This post describes how to work with Nginx. There is an alternate post on 
 
 I very recently set up [GitLab's Review Apps][review-apps] for this site, meaning that I can very easily spin up a copy of my site for visual review.
 
-For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the `review/example/review-apps` environment to <http://example-review-apps.www.review.jvt.me/>:
+For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the `review/example/review-apps` environment to `http://example-review-apps.www.review.jvt.me/`:
 
 ![`example/review-apps` environment](/img/gitlab-review-apps-capistrano/example-review-apps.png)
 
@@ -138,6 +138,5 @@ I've not yet got this configured yet as I fully want, and have been collecting f
 [review-apps-doc]: https://docs.gitlab.com/ee/ci/review_apps/
 [capistrano]: http://capistranorb.com/
 [review-apps-branch]: https://gitlab.com/jamietanna/jvt.me/commits/example/review-apps
-[review-apps-url]: http://example-review-apps.www.review.jvt.me/
 [review-apps-label]: https://gitlab.com/jamietanna/jvt.me/issues?label_name%5B%5D=review-apps
 [nginx-regex]: https://nginx.org/en/docs/http/server_names.html#regex_names
