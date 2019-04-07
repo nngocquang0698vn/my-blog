@@ -18,6 +18,7 @@ date: 2018-11-07T00:00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: unit-test-functional-tests
+image: /img/vendor/cucumber.png
 ---
 If this seems like a crazy idea, I recommend you to carry on reading, as it just might change your mind!
 

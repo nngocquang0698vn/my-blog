@@ -13,6 +13,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-07T21:40:00+01:00
 slug: "prettier-cucumber-jvm-html-reports"
+image: /img/vendor/cucumber.png
 ---
 I work a fair bit with [Cucumber-JVM](https://docs.cucumber.io/installation/java/) in my professional life, which runs various acceptance / component tests for Java services. When sharing test results with stakeholders such as Product Owners, I need an easier format to share with them, so have used the built-in Cucumber `html` reporting:
 
