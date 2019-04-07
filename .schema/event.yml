@@ -1,0 +1,57 @@
+type: map
+mapping:
+  'title':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'description':
+    type: str
+    required: yes
+    length: { min: 1 }
+    pattern: /^.*\.$/
+  'start':
+    type: timestamp
+    required: yes
+  'end':
+    type: timestamp
+    required: yes
+  'slug':
+    type: str
+    required: yes
+    pattern: /^[0-9]{4}\/[0-9]{2}\/[0-9]{2}$/
+  'card':
+    type: map
+    required: no
+    mapping:
+      'name':
+        type: str
+        required: yes
+      'url':
+        type: str
+        required: yes
+  'adr':
+    type: map
+    required: no
+    mapping:
+      'street_address':
+        type: str
+        required: yes
+      'postal_code':
+        type: str
+        required: yes
+      'locality':
+        type: str
+        required: yes
+      'country_name':
+        type: str
+        required: yes
+  'geo':
+    type: map
+    required: no
+    mapping:
+      'latitude':
+        type: str
+        required: yes
+      'longitude':
+        type: str
+        required: yes

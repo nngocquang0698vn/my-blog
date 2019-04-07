@@ -223,6 +223,19 @@ namespace :validate do
     end
     fail if report_errors(all_errors)
   end
+
+  desc 'Validate events are well-formed'
+  task :events do
+    schema = YAML.load_file('.schema/event.yml')
+    validator = Kwalify::Validator.new(schema)
+    all_errors = {}
+    Dir.glob('content/events/*/[0-9]*').each do |filename|
+      document = YAML.load_file(filename)
+      errors = validator.validate(document)
+      all_errors[filename] = errors unless errors.length.zero?
+    end
+    fail if report_errors(all_errors)
+  end
 end
 
 desc 'Create Bit.ly short URLs for a given article URL'
@@ -266,6 +279,6 @@ task :new, [:title] do |_, args|
   end
 end
 
-task validate: ['validate:posts']
+task validate: ['validate:events', 'validate:posts']
 
 task default: ['validate', 'test']
