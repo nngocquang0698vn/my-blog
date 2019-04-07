@@ -145,30 +145,7 @@ release_built_image:
     - master
 # }}}
 
-# Production {{{
 prod_deploy:
-  image: $CONTAINER_DEPLOY_IMAGE
-  stage: production
-  script:
-    # ensure we're in the directory with our capistrano configuration
-    - cd /site
-    # ensure that deployments can use the SSH key that is passed in via the
-    # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
-    - eval $(ssh-agent -s)
-      # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
-    - echo -e "$PRODUCTION_SSH_PRIVATE_KEY" > key
-    - chmod 600 key
-    - ssh-add key
-    - cap production deploy
-  environment:
-    name: production
-    url: $URL_PRODUCTION
-  variables:
-    GIT_STRATEGY: none
-  only:
-    - master
-
-prod_netlify_deploy:
   image: docker
   stage: production
   services:
