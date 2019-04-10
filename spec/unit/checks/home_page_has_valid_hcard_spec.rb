@@ -7,7 +7,7 @@ describe 'HomePageHasValidHcard' do
     let(:sut) { HomePageHasValidHcard.new('', './public/index.html', html, {}) }
 
     it 'does not throw if everything is well formed' do
-      [::HasJobDetails, ::ValidPLocality, ::ValidPName, ::ValidUEmail, ::ValidUPhoto, ::ValidUUrl].each do |clazz|
+      [::HasJobDetails, ::ValidPLocality, ::ValidPName, ::ValidUEmail, ::ValidUPhoto, ::ValidUUrl, ::HasUuid].each do |clazz|
         expect(clazz).to receive(:new)
           .and_call_original
       end
