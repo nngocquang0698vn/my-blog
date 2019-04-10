@@ -12,6 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-10T22:46:22+0100
 slug: "pronouns-microformats"
+image: /img/vendor/microformats-logo.png
 ---
 Following <span class="h-card"><a class="p-name u-url" href="https://twitter.com/aimeegamble">Aimee Gamble-Milner</a></span>'s talk [Error: Property "X" does not exist on type "Genders"]({{< ref 2019-04-10-tech-nottingham-april >}}#error-property-x-does-not-exist-on-type-genders), I was thinking about making my pronouns more visible.
 
