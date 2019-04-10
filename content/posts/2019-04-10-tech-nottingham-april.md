@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-10T21:45:25+0100
 slug: "tech-nottingham-april"
+image: /img/vendor/technottingham.png
 ---
 Usually, for [Tech Nottingham](https://technottingham.com), I just tweet on the day. However, I thought I'd try something different and write a post up afterwards on here as it allows for longer form thoughts, I'm owning my data, and can share these thoughts with a wider community, as well as meaning I spend more time thinking about the talk while I'm in it.
 
