@@ -10,7 +10,7 @@ class HomePageHasValidHcard < ::HTMLProofer::Check
 
     card = Microformats.parse(node.to_s).card
 
-    [::HasJobDetails.new, ::ValidPLocality.new, ::ValidPName.new, ::ValidUEmail.new, ::ValidUPhoto.new, ::ValidUUrl.new].each do |validator|
+    [::HasJobDetails.new, ::ValidPLocality.new, ::ValidPName.new, ::ValidUEmail.new, ::ValidUPhoto.new, ::ValidUUrl.new, ::HasUuid.new].each do |validator|
       begin
         validator.validate(card)
       rescue InvalidMetadataError => e
