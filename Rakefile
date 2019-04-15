@@ -61,7 +61,8 @@ namespace :test do
         /pic\.twiter\.com/,
         /t\.co/,
         /indieauth.com/,
-        /aperture.p3k.io/
+        /aperture.p3k.io/,
+        /matrix.org/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
