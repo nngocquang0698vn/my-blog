@@ -11,7 +11,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-15T22:16:21+0100
-slug: "url-encode-restassured"
+slug: "consecutive-slashes-url-encode-restassured"
 ---
 Earlier today I was writing some Java to interact with a RESTful API using [Rest Assured](http://rest-assured.io/). However, I was seeing some weird results with URL encoded characters in my perfectly reasonable URLs.
 
