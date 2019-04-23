@@ -7,6 +7,7 @@ tags:
 - blogumentation
 - java
 - json
+- pretty-print
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-23T21:22:00+0100
