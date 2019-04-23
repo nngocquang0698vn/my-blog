@@ -7,6 +7,7 @@ tags:
 - blogumentation
 - ruby
 - json
+- pretty-print
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-29T18:04:00

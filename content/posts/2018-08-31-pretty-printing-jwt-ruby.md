@@ -9,6 +9,7 @@ tags:
 - cli
 - jwt
 - json
+- pretty-print
 image: /img/vendor/jwt.io.jpg
 date: 2018-08-31T00:00:00
 license_prose: CC-BY-NC-SA-4.0
