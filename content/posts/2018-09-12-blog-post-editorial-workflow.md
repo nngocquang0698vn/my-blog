@@ -3,10 +3,9 @@ title: My editorial workflow for blog posts
 description: Taking you through the journey I go on when writing blog posts, from ideation to publishing the post.
 categories:
 - blogumentation
-- jvt.me
+- www.jvt.me
 tags:
-- jvt.me
-- website
+- www.jvt.me
 - workflow
 - ci
 - gitlab

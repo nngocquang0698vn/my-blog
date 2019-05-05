@@ -8,6 +8,7 @@ categories:
 tags:
 - indieweb
 - indieauth
+- www.jvt.me
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-30T12:15:04
