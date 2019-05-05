@@ -6,7 +6,7 @@ categories:
 tags:
 - jamstack
 - microservices
-- jvt.me
+- www.jvt.me
 - spectatdesigns
 - netlifycms
 - jekyll
