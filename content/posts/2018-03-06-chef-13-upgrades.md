@@ -30,6 +30,6 @@ For reasons I won't go into, I'm still using Rubocop over the Chef-recommended [
 Note that some, but not all, of the Rubocop fixes can be automagically resolved using `rubocop --auto-correct`.
 
 [chef-12-eol]: https://www.chef.io/eol-chef12-and-chefdk1/
-[chef-13-upgrade-rubocop]: /posts/tags/chef-13-upgrade-rubocop/
-[chef-13-upgrade-chefspec]: /posts/tags/chef-13-upgrade-chefspec/
+[chef-13-upgrade-rubocop]: /tags/chef-13-upgrade-rubocop/
+[chef-13-upgrade-chefspec]: /tags/chef-13-upgrade-chefspec/
 [cookstyle]: https://docs.chef.io/cookstyle.html

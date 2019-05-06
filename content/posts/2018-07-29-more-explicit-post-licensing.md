@@ -34,4 +34,4 @@ There may be some posts that I want to license even more liberally (such as allo
 
 I'm calling out the licensing in two places; at-a-glance in the post header, and more detailed in the footer. This makes it easier for a reader to know up front whether they'll be able to use any content/code in the post privately, instead of having to read all the way to the bottom of the page to understand licensing.
 
-[blogumentation]: /posts/categories/blogumentation
+[blogumentation]: /categories/blogumentation

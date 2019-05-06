@@ -27,14 +27,14 @@ enableGitInfo = true
 
 [permalinks]
   bookmarks = "/bookmarks/:slug"
-  categories = "/posts/categories/:title/"
+  categories = "/categories/:title/"
   events = "/:sections/:slug/"
   likes = "/likes/:slug"
   notes = "/notes/:slug"
   posts = "/posts/:year/:month/:day/:slug/"
   reposts = "/reposts/:slug"
   rsvps = "/rsvps/:slug"
-  tags = "/posts/tags/:title/"
+  tags = "/tags/:title/"
 
 # https://discourse.gohugo.io/t/how-can-i-change-the-rss-url/118/17
 [outputs]
