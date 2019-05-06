@@ -45,6 +45,18 @@ def report_errors(all_errors)
   true
 end
 
+def validate_json(schema, glob)
+    schema = YAML.load_file(".schema/#{schema}.yml")
+    validator = Kwalify::Validator.new(schema)
+    all_errors = {}
+    Dir.glob(glob).each do |filename|
+      document = JSON.parse(File.read(filename))
+      errors = validator.validate(document)
+      all_errors[filename] = errors unless errors.length.zero?
+    end
+    fail if report_errors(all_errors)
+end
+
 namespace :test do
   desc 'Test links'
   task :links do
@@ -212,6 +224,11 @@ namespace :list do
 end
 
 namespace :validate do
+  desc 'Validate bookmarks are well-formed'
+  task :bookmarks do
+    validate_json('bookmark', 'content/bookmarks/*')
+  end
+
   desc 'Validate posts are well-formed'
   task :posts do
     schema = YAML.load_file('.schema/post.yml')
@@ -236,6 +253,31 @@ namespace :validate do
       all_errors[filename] = errors unless errors.length.zero?
     end
     fail if report_errors(all_errors)
+  end
+
+  desc 'Validate likes are well-formed'
+  task :likes do
+    validate_json('note', 'content/notes/*')
+  end
+
+  desc 'Validate notes are well-formed'
+  task :notes do
+    validate_json('note', 'content/notes/*')
+  end
+
+  desc 'Validate replies are well-formed'
+  task :replies do
+    validate_json('reply', 'content/reply/*')
+  end
+
+  desc 'Validate reposts are well-formed'
+  task :reposts do
+    validate_json('repost', 'content/reposts/*')
+  end
+
+  desc 'Validate RSVPs are well-formed'
+  task :rsvps do
+    validate_json('rsvp', 'content/rsvps/*')
   end
 end
 
@@ -280,6 +322,6 @@ task :new, [:title] do |_, args|
   end
 end
 
-task validate: ['validate:events', 'validate:posts']
+task validate: ['validate:bookmarks', 'validate:events', 'validate:likes', 'validate:notes', 'validate:posts', 'validate:replies', 'validate:reposts', 'validate:rsvps']
 
 task default: ['validate', 'test']
