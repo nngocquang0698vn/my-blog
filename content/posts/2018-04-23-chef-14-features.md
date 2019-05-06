@@ -17,7 +17,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-14-features
 ---
-Update: I've also started to document [any interesting changes required for Chef 14](/posts/tags/chef-14-upgrade).
+Update: I've also started to document [any interesting changes required for Chef 14](/tags/chef-14-upgrade).
 
 Last Wednesday, I was able to attend the [Chef Users UK] meetup where Chef Community Engineer [Thom May] came to talk about Chef 14 (and beyond):
 
@@ -152,7 +152,7 @@ The full release notes are documented on the [Chef Docs website][14-release-note
 
 Additionally, Chef has released a [webinar on their YouTube channel][14-youtube] to help explain about the upgrade.
 
-[Chef 13 upgrades]: /posts/tags/chef-13-upgrade/
+[Chef 13 upgrades]: /tags/chef-13-upgrade/
 [Thom May]: https://twitter.com/thommay
 [Chef Users UK]: https://www.meetup.com/Chef-Users-London/events/249461424/
 [14-release-notes]: https://docs.chef.io/release_notes.html#what-s-new-in-14-0

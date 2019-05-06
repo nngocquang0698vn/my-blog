@@ -56,7 +56,7 @@ If you wish to hear me write about something, please [raise an issue on my issue
 [issue-board-article]: https://gitlab.com/jamietanna/jvt.me/boards/320660
 [keysleft]: http://keysleft.com
 [extracting-certs]: {{< ref 2017-04-28-extract-tls-certificate >}}
-[blogumentation]: /posts/categories/blogumentation/
+[blogumentation]: /categories/blogumentation/
 [docker-systemd-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/151
 [technotts-twitter]: https://twitter.com/TechNottingham
 [technotts-blog-channel]: https://technottingham.slack.com/messages/C4WR48CTB/

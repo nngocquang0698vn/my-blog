@@ -78,7 +78,7 @@ describe 'PostsPagesHaveValidHentry' do
 
   context 'when not on a blog post' do
     let(:html) { Nokogiri::HTML(File.read('spec/fixtures/post_no_hentry.html')) }
-    let(:sut) { PostsPagesHaveValidHentry.new('', './public/posts/tags/chef/index.html', html, {})}
+    let(:sut) { PostsPagesHaveValidHentry.new('', './public/tags/chef/index.html', html, {})}
 
     it 'skips' do
       expect(sut).to_not receive(:add_issue)

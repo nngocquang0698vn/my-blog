@@ -1,0 +1,38 @@
+type: map
+mapping:
+  'content':
+    type: str
+    required: yes
+  'date':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'slug':
+    type: str
+    required: yes
+    length: { min: 1 }
+  'summary':
+    type: str
+    required: yes
+  'syndication':
+    type: seq
+    required: yes
+    sequence:
+      - type: map
+        mapping:
+          'text':
+            type: str
+            required: yes
+            length: { min: 1 }
+          'url':
+            type: str
+            required: yes
+            length: { min: 1 }
+  'tags':
+    type: seq
+    required: yes
+    sequence:
+      - type: str
+  'title':
+    type: str
+    required: yes

@@ -15,7 +15,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-14-coerce-nil-to-hash-property
 ---
-While [upgrading to Chef 14](/posts/tags/chef-14-upgrade/), I found that `nil`s are being silently coerced to an empty `Hash`, `{}`.
+While [upgrading to Chef 14](/tags/chef-14-upgrade/), I found that `nil`s are being silently coerced to an empty `Hash`, `{}`.
 
 This can be seen where we have the following resource, ensuring that the provided `tls_options` is a `Hash`:
 
