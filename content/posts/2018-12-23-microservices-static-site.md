@@ -4,6 +4,7 @@ description: "Exploring moving data out of my site's remit and into its own 'mic
 categories:
 - announcement
 tags:
+- announcement
 - jamstack
 - microservices
 - www.jvt.me

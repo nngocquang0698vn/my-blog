@@ -5,6 +5,7 @@ categories:
 - announcement
 - indieweb
 tags:
+- announcement
 - indieweb
 - hwc
 license_code: Apache-2.0

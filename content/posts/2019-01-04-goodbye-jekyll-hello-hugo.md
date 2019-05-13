@@ -4,6 +4,7 @@ description: My move from Jekyll to super speedy Hugo, and what I've needed to d
 categories:
 - announcement
 tags:
+- announcement
 - jekyll
 - hugo
 - www.jvt.me
