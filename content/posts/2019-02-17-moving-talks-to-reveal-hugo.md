@@ -4,6 +4,7 @@ description: "Migrating my custom Reveal.JS setup to using reveal-hugo."
 categories:
 - announcement
 tags:
+- announcement
 - revealjs
 - hugo
 license_code: Apache-2.0

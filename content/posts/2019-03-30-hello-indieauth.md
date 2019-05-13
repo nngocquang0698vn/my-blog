@@ -6,6 +6,7 @@ categories:
 - indieweb
 - indieauth
 tags:
+- announcement
 - indieweb
 - indieauth
 - www.jvt.me

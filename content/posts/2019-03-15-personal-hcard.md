@@ -6,6 +6,7 @@ categories:
 - indieweb
 - microformats
 tags:
+- announcement
 - indieweb
 - microformats
 - www.jvt.me

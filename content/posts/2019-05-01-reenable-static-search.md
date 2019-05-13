@@ -2,10 +2,10 @@
 title: "Re-enabling search on my static website"
 description: "Announcing the re-enabling of search functionality on my static website."
 categories:
-- announcements
+- announcement
 - search
 tags:
-- announcements
+- announcement
 - indieweb
 - search
 - www.jvt.me
