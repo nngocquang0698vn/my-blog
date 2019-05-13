@@ -2,10 +2,10 @@
 title: "Marking up my pronouns with Microformats"
 description: "Adding my pronouns to my personal h-card to help others determine how I identify."
 categories:
-- announcements
+- announcement
 - microformats
 tags:
-- announcements
+- announcement
 - microformats
 - inclusivity
 - www.jvt.me

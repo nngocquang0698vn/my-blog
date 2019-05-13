@@ -2,10 +2,10 @@
 title: "Implementing h-feed, and making all site content discoverable"
 description: "Announcing h-feeds for this website, and making it easier to read non-blog posts."
 categories:
-- announcements
+- announcement
 - microformats
 tags:
-- announcements
+- announcement
 - microformats
 - www.jvt.me
 license_code: Apache-2.0
