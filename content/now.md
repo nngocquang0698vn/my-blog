@@ -22,6 +22,7 @@ What are my interests?
 
 What am I up to right now?
 
+- Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](https://twitter.com/anna_hax/status/1030573279831105536)
 - I'm a Software Quality Engineer at Capital One, working on Consumer Identity
   - Currently fulfilling the PSD2 and Open Banking regulations, and starting to deliver Strong Customer Authentication
 - I'm actively blogging about technical and personal things
