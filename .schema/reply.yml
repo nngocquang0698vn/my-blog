@@ -7,7 +7,7 @@ mapping:
     type: str
     required: yes
     length: { min: 1 }
-  'reply-of':
+  'reply-to':
     type: str
     required: yes
     length: { min: 1 }
