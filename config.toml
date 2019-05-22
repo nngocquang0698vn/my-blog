@@ -37,7 +37,6 @@ enableGitInfo = true
   rsvps = "/rsvps/:slug"
   tags = "/tags/:title/"
 
-# https://discourse.gohugo.io/t/how-can-i-change-the-rss-url/118/17
 [outputs]
 home = ["HTML", "RSS", "jsonFeed"]
 section = ["HTML", "Calendar"]
