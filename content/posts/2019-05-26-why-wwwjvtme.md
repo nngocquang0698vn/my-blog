@@ -1,6 +1,6 @@
 ---
 title: "Why www.jvt.me?"
-description: "Why is this site www.jvt.me? Why do I use www.?"
+description: "Why is this site www.jvt.me? Why do I use www.? All will be explained."
 categories:
 - www.jvt.me
 tags:
