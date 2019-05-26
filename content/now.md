@@ -35,3 +35,11 @@ What are my Operating System preferences?
 - On Mobile, I'm an Android user
 - On Laptop/Desktop, I'm an Arch Linux user
 - On the server, I'm a Debian Linux user
+
+My daily drivers for work and play are:
+
+- My phone is a Pixel 3A
+- My laptop is an XPS 13 9343 (Broadwell)
+- My desktop is a custom build with:
+  - Intel i7-6900k
+  - NVIDIA TITAN X
