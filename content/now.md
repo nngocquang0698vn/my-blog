@@ -28,6 +28,7 @@ What am I up to right now?
 - I'm actively blogging about technical and personal things
 - I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
 - I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
+- I'm co-organising [PHPMiNDS](https://phpminds.org)
 - I'm looking to play more board games and socialise more
 
 What are my Operating System preferences?
