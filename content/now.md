@@ -36,6 +36,8 @@ What are my Operating System preferences?
 - On Laptop/Desktop, I'm an Arch Linux user
 - On the server, I'm a Debian Linux user
 
+My primary programming languages at this time are Java and Ruby.
+
 My daily drivers for work and play are:
 
 - My phone is a Pixel 3A
