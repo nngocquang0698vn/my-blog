@@ -51,6 +51,10 @@ build_deploy_image:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
     - docker push $CONTAINER_DEPLOY_IMAGE
+  only:
+    - branches
+  except:
+    - master
 # }}}
 
 # Ensure that all tests pass {{{
