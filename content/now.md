@@ -43,3 +43,5 @@ My daily drivers for work and play are:
 - My desktop is a custom build with:
   - Intel i7-6900k
   - NVIDIA TITAN X
+
+My current colourscheme is [Gruvbox](https://github.com/morhetz/gruvbox).
