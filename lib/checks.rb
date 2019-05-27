@@ -1,3 +1,4 @@
+require_relative 'monkey_patches/html-proofer/check'
 require_relative 'checks/bookmarks_have_valid_hentry'
 require_relative 'checks/events_pages_have_syndication_link'
 require_relative 'checks/events_pages_have_valid_hevent'
