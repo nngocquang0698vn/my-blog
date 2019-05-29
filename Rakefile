@@ -74,7 +74,8 @@ namespace :test do
         /t\.co/,
         /indieauth.com/,
         /aperture.p3k.io/,
-        /matrix.org/
+        /matrix.org/,
+        /graphql.org/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
