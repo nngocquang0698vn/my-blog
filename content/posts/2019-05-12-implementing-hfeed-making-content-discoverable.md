@@ -36,3 +36,5 @@ I've set up h-feeds in the following places:
 - on taxonomy pages i.e. [/categories/announcement/](/categories/announcement/)
 
 Unlike some of the previous changes I've made to this site, I've decided to not (at this time) create any automated tests for validating whether the h-feed is well formed, instead deciding to manually verify whether it works.
+
+This h-feed setup is [officially termed a composite stream](https://indieweb.org/composite_stream), as it draws all content types into a single feed.
