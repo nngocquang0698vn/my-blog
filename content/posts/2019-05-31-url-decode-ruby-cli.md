@@ -12,7 +12,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: url-decode-ruby-cli
 ---
-When working with URLs that contain other URLs (such as a `redirect_uri` in an OAuth2 authorization request), you may get annoyed when you can't decode the encoded URL, **??**.
+When working with URLs that contain other URLs (such as a `redirect_uri` in an OAuth2 authorization request), you may get annoyed when you can't decode the encoded URL off the top of your head. I couldn't find an easy command-line tool to do this for me, so have resorted to trusty Ruby.
 
 Following the advice from [this Stack Overflow answer](https://stackoverflow.com/a/7146153/2257038), we can use `CGI.unescape`, and create a nice command-line one-liner:
 
