@@ -342,8 +342,6 @@ And leading into his Alfred point, Ramez described how tennis as a sport is exci
 
 # Why are Distributed Systems so hard? A network partition survival guide
 
-[Watch the talk on YouTube]()
-
 Denise's talk was a really enjoyable experience, teaching us all about how to manage networking issues when using distributed systems. To top this great talk off, it was mostly narrated through cat drawings, so I'd heavily [recommend a watch](https://www.youtube.com/watch?v=uTJvMRR40Ag&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm&index=11).
 
 Denise spoke about how with the software we write, it's _okay_ to build a monolith. Scaling a monolithic application is possible by throwing more compute at it. But with a database, you can only do so much with more hardware. Larger datasets across many tables and usages need to be optimised for query speed as well as special considerations for backup/restoration and replication.
