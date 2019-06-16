@@ -1,10 +1,10 @@
 #!/usr/bin/env ruby
 
+require 'html-proofer'
 require 'json'
 require 'kwalify'
 require 'rspec/core/rake_task'
 require 'yaml'
-require_relative 'lib/checks'
 
 def notify_search_engine(base_url, search_engine_url)
   raise 'Top-level URL not specified' unless base_url
@@ -72,6 +72,16 @@ namespace :test do
         /graphql.org/,
         /joind.in/
       ]
+    }
+    HTMLProofer.check_directory('./public', options).run
+  end
+
+  desc 'Test integrity of the site'
+  task :html_proofer do
+    require_relative 'lib/checks'
+    options = {
+      disable_external: true,
+      checks_to_ignore: %w(ImageCheck ScriptCheck),
     }
     HTMLProofer.check_directory('./public', options).run
   end
@@ -166,7 +176,7 @@ namespace :test do
   end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:links', 'test:git_casing', 'test:theme_branch']
+task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:git_casing', 'test:theme_branch']
 
 desc 'Notify all search engines'
 task :notify, [:fqdn] do |_, args|
