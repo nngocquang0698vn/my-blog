@@ -81,6 +81,25 @@ test_image:
     # }}}
 # }}}
 
+test_links:
+  services:
+    - docker:dind
+  stage: test
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker pull $CONTAINER_TEST_IMAGE
+    # Get the generated site content {{{
+    - docker pull $CONTAINER_BUILT_IMAGE
+    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
+    - docker cp $container_id:/site public
+    - docker rm $container_id
+    # }}}
+
+    # Ensure the links resolve {{{
+    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake test:links
+    # }}}
+  allow_failure: true
+
 # Review Apps {{{
 review_deploy:
   image: $CONTAINER_DEPLOY_IMAGE
