@@ -48,3 +48,5 @@ This means it's really easy to run:
 Now, running Cucumber will generate a pretty report, which we can then view locally or archive within Jenkins, which look pretty great.
 
 This saved me having to write my own wrapper to handle this, so thanks for the work on it! Hopefully it'll make it upstream to `cucumber-reporting` soon.
+
+**Update**: The library now also supports Cucumber v4 as per my Merge Request [_Upgrade plugin to work with Cucumber v4_](https://gitlab.com/monochromata-de/cucumber-reporting-plugin/merge_requests/1).
