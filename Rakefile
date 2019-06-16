@@ -60,14 +60,8 @@ end
 namespace :test do
   desc 'Test links'
   task :links do
-    # as Alpine doesn't have `nproc`, this is the next best thing
-    num_cpus = `grep 'processor' /proc/cpuinfo  | wc -l`.to_i
-    require 'html-proofer'
     options = {
       only_4xx: true,
-      parallel: {
-        in_processes: num_cpus
-      },
       internal_domains: ['jvt.me', 'www.jvt.me'],
       url_ignore: [
         /pic\.twiter\.com/,
