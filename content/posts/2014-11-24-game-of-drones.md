@@ -13,7 +13,7 @@ license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: game-of-drones
 ---
-> This article was [originally published](https://www.impactnottingham.com/2014/11/game-of-drones/) for [Impact Nottingham](https://www.impactnottingham.com).
+<blockquote>This article was <a href="https://www.impactnottingham.com/2014/11/game-of-drones/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 
 ![Amazon Delivery](/img/game-of-drones.jpg)
 
