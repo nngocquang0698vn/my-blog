@@ -12,7 +12,7 @@ license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: intelligent-parenting
 ---
-> This article was [originally published](https://www.impactnottingham.com/2014/07/intelligent-parenting/) for [Impact Nottingham](https://www.impactnottingham.com).
+<blockquote>This article was <a href="https://www.impactnottingham.com/2014/07/intelligent-parenting/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 
 ![Intel Mimo](/img/intel-mimo.jpg)
 

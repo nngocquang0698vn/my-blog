@@ -12,7 +12,7 @@ license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: sony-hack
 ---
-> This article was [originally published](https://www.impactnottingham.com/2015/04/the-sony-hack/) for [Impact Nottingham](https://www.impactnottingham.com).
+<blockquote>This article was <a href="https://www.impactnottingham.com/2015/04/the-sony-hack/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 
 ![Stereotypical hacking image](/img/sony-hack.png)
 
