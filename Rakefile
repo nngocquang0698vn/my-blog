@@ -70,7 +70,8 @@ namespace :test do
         /aperture.p3k.io/,
         /matrix.org/,
         /graphql.org/,
-        /joind.in/
+        /joind.in/,
+        /meetup.com/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
