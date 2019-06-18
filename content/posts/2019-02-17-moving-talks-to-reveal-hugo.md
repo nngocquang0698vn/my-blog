@@ -9,7 +9,7 @@ tags:
 - hugo
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-02-17T00:00:00
+date: 2019-02-17T18:11:45+00:00
 slug: "moving-talks-to-reveal-hugo"
 ---
 As part of the [Merge Request _Convert Reveal.JS slides to reveal-hugo_](https://gitlab.com/jamietanna/talks/merge_requests/18), [talks.jvt.me](https://talks.jvt.me) is now built using [Josh Dzielak](https://dzello.com/)'s project [reveal-hugo](https://github.com/dzello/reveal-hugo).

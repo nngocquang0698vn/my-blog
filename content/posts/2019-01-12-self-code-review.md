@@ -9,7 +9,7 @@ tags:
 - workflow
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-12T00:00:00
+date: 2019-01-12T16:22:38+00:00
 slug: "self-code-review"
 ---
 **Note**: The term "Pull Request" here is used interchangeably with the term "Merge Request", which are terms for the same thing between GitHub and GitLab. I follow this approach in both platforms, but to remove any confusion I will stick to the former.

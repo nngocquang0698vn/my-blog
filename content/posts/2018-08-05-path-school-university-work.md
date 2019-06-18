@@ -14,7 +14,7 @@ tags:
 - school
 - a-level
 - gcse
-date: 2018-08-05T00:00:00
+date: 2018-08-05T17:07:20+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: path-school-university-work

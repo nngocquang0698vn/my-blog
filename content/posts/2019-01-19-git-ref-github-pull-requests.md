@@ -12,7 +12,7 @@ tags:
 - git-ref
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-19T00:00:00
+date: 2019-01-19T17:18:50+00:00
 slug: "git-ref-github-pull-requests"
 image: /img/vendor/GitHub_Logo.png
 ---

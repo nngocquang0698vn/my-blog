@@ -12,7 +12,7 @@ tags:
 - deploy
 - howto
 image: /img/vendor/netlify-full-logo-white.png
-date: 2018-04-12T00:00:00
+date: 2018-04-12T22:06:06+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: gitlab-ci-netlify

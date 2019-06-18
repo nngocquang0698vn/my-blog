@@ -8,7 +8,7 @@ tags:
 - jekyll
 - hugo
 - www.jvt.me
-date: 2019-01-04T00:00:00
+date: 2019-01-04T19:44:53+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 image: /img/vendor/hugo-logo.png

@@ -9,7 +9,7 @@ tags:
 - git
 - git-cherry-pick
 image: /img/vendor/git.png
-date: 2018-10-28T00:00:00
+date: 2018-10-28T22:22:50+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: MIT
 slug: git-cherry-pick-backport-replay-changes

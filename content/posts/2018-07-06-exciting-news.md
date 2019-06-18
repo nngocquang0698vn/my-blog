@@ -13,7 +13,7 @@ tags:
 - tdd
 - oggcamp
 - devopsdays
-date: 2018-07-06T00:00:00
+date: 2018-07-06T22:24:39+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: exciting-news

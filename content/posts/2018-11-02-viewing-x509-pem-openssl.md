@@ -10,7 +10,7 @@ tags:
 - command-line
 - pem
 - openssl
-date: 2018-11-02T00:00:00
+date: 2018-11-02T07:57:45+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: viewing-x509-pem-openssl

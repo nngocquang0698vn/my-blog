@@ -7,7 +7,7 @@ tags:
 - opensource
 - freesoftware
 - community
-date: 2017-02-07T00:00:00
+date: 2017-02-07T19:49:30+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: open-sawesome

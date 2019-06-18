@@ -10,7 +10,7 @@ tags:
 - pretty-print
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-11T00:00:00
+date: 2019-01-11T16:50:39+00:00
 slug: "pretty-printing-json-node-cli"
 image: /img/vendor/nodejs.png
 ---

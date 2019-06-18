@@ -6,7 +6,7 @@ categories:
 tags:
 - appendix
 - health
-date: 2018-04-19T00:00:00
+date: 2018-04-19T11:02:32+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: returning-to-full-time-work

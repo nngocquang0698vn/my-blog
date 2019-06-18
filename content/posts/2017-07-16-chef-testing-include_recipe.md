@@ -9,7 +9,7 @@ tags:
 - tdd
 - chefspec
 image: /img/vendor/chef-logo.png
-date: 2017-07-16T00:00:00
+date: 2017-07-16T16:35:10+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-testing-include_recipe

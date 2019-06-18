@@ -13,7 +13,7 @@ tags:
 - git-ref
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-01-19T00:00:00
+date: 2019-01-19T18:06:00+00:00
 slug: "git-ref-gitlab-environments"
 image: /img/vendor/gitlab-wordmark.png
 ---

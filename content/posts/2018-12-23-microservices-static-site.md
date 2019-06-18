@@ -11,7 +11,7 @@ tags:
 - spectatdesigns
 - netlifycms
 - jekyll
-date: 2018-12-23T00:00:00
+date: 2018-12-23T11:02:31+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: microservices-static-site
