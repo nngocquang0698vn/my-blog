@@ -22,7 +22,7 @@ tags:
 - testing
 - microservices
 image: /img/vendor/devopsdays-london-2018.png
-date: 2018-10-25T00:00:00
+date: 2018-10-25T09:49:20+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: devopsdays-london-2018

@@ -12,7 +12,7 @@ tags:
 - chefdk
 - berkshelf
 image: /img/vendor/chef-logo.png
-date: 2018-02-16T00:00:00
+date: 2018-02-16T15:44:00+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: berkshelf-proxy-workaround

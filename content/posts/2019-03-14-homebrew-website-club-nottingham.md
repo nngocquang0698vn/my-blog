@@ -10,7 +10,7 @@ tags:
 - hwc
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-03-14T00:00:00
+date: 2019-03-14T21:41:16+00:00
 slug: "homebrew-website-club-nottingham"
 ---
 Tonight, as I was cooking, I thought I'd listen to a podcast for a change. I was wondering about listening to something related to the [IndieWeb movement](https://indieweb.org/why), and ended up listening to [This Week in the IndieWeb Audio](https://martymcgui.re/podcasts/indieweb/) by [Marty McGuire](https://martymcgui.re).

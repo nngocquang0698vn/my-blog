@@ -7,7 +7,7 @@ categories:
 tags:
 - blogumentation
 - curl
-date: 2018-10-19T00:00:00
+date: 2018-10-19T12:34:11+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: curl-i-response-headers

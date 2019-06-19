@@ -10,7 +10,7 @@ tags:
 - chefdk
 - docker
 image: /img/vendor/chef-logo.png
-date: 2018-12-05T00:00:00
+date: 2018-12-05T23:07:08+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chefdk-testing-docker

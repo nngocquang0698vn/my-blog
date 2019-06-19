@@ -12,7 +12,7 @@ tags:
 image: /img/vendor/jwt.io.jpg
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-02-25T00:00:00
+date: 2019-02-25T22:13:43+00:00
 slug: "verify-signed-jwt-nodejs"
 ---
 When you're working with JSON Web Tokens (JWTs), you'll _almost certainly_ be validating that the contents of the token is sent by the correct service by verifying the token's signature.

@@ -9,7 +9,7 @@ tags:
 - git
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2019-03-20T00:00:00
+date: 2019-03-20T10:39:18+00:00
 slug: "git-rewrite-url-https-ssh"
 image: /img/vendor/git.png
 ---

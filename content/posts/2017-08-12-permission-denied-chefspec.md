@@ -9,7 +9,7 @@ tags:
 - chefspec
 - chefdk
 image: /img/vendor/chef-logo.png
-date: 2017-08-12T00:00:00
+date: 2017-08-12T14:23:03+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: permission-denied-chefspec

@@ -10,7 +10,7 @@ tags:
 - tools
 - howto
 image: /img/vendor/python-logo-notext.png
-date: 2018-04-08T00:00:00
+date: 2018-04-08T16:07:54+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: python-interactive-repl
