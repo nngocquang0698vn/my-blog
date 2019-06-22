@@ -17,7 +17,6 @@ stages:
   - test
   - release
   - production
-  - notify
 
 # Ensure that the site builds {{{
 build_site:
@@ -189,12 +188,3 @@ prod_deploy:
   only:
     - master
 # }}}
-
-notify:
-  image: $CONTAINER_TEST_IMAGE
-  stage: notify
-  script:
-    - rake notify[$URL_PRODUCTION]
-    - rake notify:pushbullet
-  only:
-    - master
