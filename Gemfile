@@ -6,7 +6,6 @@ group :test do
   gem 'html-proofer'
   gem 'json'
   gem 'kwalify'
-  gem 'pushbullet_ruby'
   gem 'microformats'
   gem 'rake'
   gem 'rspec'
