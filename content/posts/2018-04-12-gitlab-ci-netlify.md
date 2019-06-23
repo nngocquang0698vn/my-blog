@@ -17,7 +17,9 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: gitlab-ci-netlify
 ---
-**Update** The code snippet below has been updated to point to `netlifyctl` rather than the `netlify` Node CLI, as `netlifyctl` is now the recommended CLI interface.
+~~**Update** The code snippet below has been updated to point to `netlifyctl` rather than the `netlify` Node CLI, as `netlifyctl` is now the recommended CLI interface.~~
+
+**Update 2** as of [2018-09-10](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta-/#our-cli-journey), the `netlify` Node CLI is back to being the preferred commandline interface for Netlify.
 
 Since I migrated my [meetups + conference talks repo][gl-talks] to Reveal.JS, I've found that I've been wanting to have a branch spun up with the talk's content at a publically accessible URL, exactly how [I have configured Review Apps][review-apps] for my personal site.
 
