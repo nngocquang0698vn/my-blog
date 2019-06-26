@@ -15,10 +15,12 @@ tags:
 - containers
 - chef-automate
 - inspec
-date: 2018-06-25T00:00:00
+date: 2018-06-24T22:25:33+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: aws-chef-dev-day
+aliases:
+- /posts/2018/06/25/aws-chef-dev-day/
 ---
 Last Tuesday I travelled to London to attend the [AWS Dev Day Roadshow in London], where I'd be learning all about the intersection between Chef and AWS.
 

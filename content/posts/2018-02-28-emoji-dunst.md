@@ -9,10 +9,12 @@ tags:
 - dotfiles
 - blogumentation
 - emoji
-date: 2018-03-01T00:00:00
+date: 2018-02-28T17:42:30
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: emoji-dunst
+aliases:
+- /posts/2018/03/01/emoji-dunst/
 ---
 # TL;DR
 

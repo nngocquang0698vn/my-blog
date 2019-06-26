@@ -539,7 +539,7 @@ I want to say another huge thanks to the organisers, it was a really great coupl
 [blameless-failure]: https://www.emmabutton.co.uk/post/blameless-failure/
 [Travis CI in April]: https://blog.travis-ci.com/2018-04-03-incident-post-mortem
 [gitlab-db-2017]: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
-[aws-chef-day]: {{< ref 2018-06-25-aws-chef-dev-day >}}
+[aws-chef-day]: {{< ref 2018-06-24-aws-chef-dev-day >}}
 [clmystery]: https://github.com/veltman/clmystery
 [stephenmann]: https://stephenmann.io/
 [tf-modules]: https://www.terraform.io/docs/modules/index.html
@@ -548,4 +548,4 @@ I want to say another huge thanks to the organisers, it was a really great coupl
 [cloud-custodian]: https://github.com/capitalone/cloud-custodian
 [bats]: https://github.com/bats-core/bats-core
 [ddd]: https://en.wikipedia.org/wiki/Domain-driven_design
-[anchor-appendix]: {{< ref 2018-02-16-2017-in-review >}}#ruptured-appendix
+[anchor-appendix]: {{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix

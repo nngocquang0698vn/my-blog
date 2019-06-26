@@ -20,7 +20,7 @@ slug: self-contained-gatling-jar
 ---
 # Why
 
-The reasoning behind this post is very similar to [_Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests_]({{< ref 2018-08-16-self-contained-cucumber-jar >}}), but doesn't include the comment about the separation of unit tests and cucumber steps.
+The reasoning behind this post is very similar to [_Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests_]({{< ref 2018-08-15-self-contained-cucumber-jar >}}), but doesn't include the comment about the separation of unit tests and cucumber steps.
 
 This means that the two reasons we'd want a fat JAR is:
 

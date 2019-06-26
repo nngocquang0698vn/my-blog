@@ -142,6 +142,8 @@ namespace :test do
 
         if permalinks['posts'].include? link
           seen << link
+        elsif permalinks['aliases'].include? "#{link}/index.html"
+          seen << link
         else
           not_seen << link
         end
