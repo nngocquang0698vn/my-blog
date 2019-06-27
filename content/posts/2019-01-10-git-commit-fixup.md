@@ -12,7 +12,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-10T17:07:19+00:00
 slug: "git-commit-fixup"
 ---
-When working on a non-shared feature branch or when creating an article under [the editorial workflow I use for blog posts]({{< ref 2018-09-12-blog-post-editorial-workflow >}}), I'll often make quick commits that need to be squashed into a previous commit to ensure a nice Git history.
+When working on a non-shared feature branch or when creating an article under [the editorial workflow I use for blog posts]({{< ref 2018-09-11-blog-post-editorial-workflow >}}), I'll often make quick commits that need to be squashed into a previous commit to ensure a nice Git history.
 
 These commits will often have a commit message such as `sq!` to denote that I need to squash into the last commit, or `sq! 3e9f73`, to denote that I need to squash into the commit that has a SHA of `3e9f73`.
 

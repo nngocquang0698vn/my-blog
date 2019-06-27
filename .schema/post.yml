@@ -57,3 +57,8 @@ mapping:
             type: str
             required: yes
             length: { min: 1 }
+  'aliases':
+    type: seq
+    required: no
+    sequence:
+      - type: str

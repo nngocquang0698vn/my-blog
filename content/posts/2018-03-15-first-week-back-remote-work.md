@@ -38,7 +38,7 @@ However, yesterday I ended up doing closer to a full day of work - quite the opp
 
 Overall I've been finding it a nice ease back into work, with the pacing almost identical to the Chef work I was doing outside of work, while also feeling incredibly productive both with work and my own side work, which has really helped. I now just need to hope that my wound heals quickly so I can get back to the office soon!
 
-[ruptured-appendix]: {{< ref 2018-02-16-2017-in-review >}}#ruptured-appendix
+[ruptured-appendix]: {{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix
 [chef-13-upgrade]: {{< ref 2018-03-06-chef-13-upgrades >}}
 [spectatdesigns]: https://spectatdesigns.co.uk
 [packed-pixel]: http://packedpixels.com/

@@ -9,10 +9,12 @@ tags:
 - opensource
 - freesoftware
 - community
-date: 2016-09-30T00:00:00
+date: 2016-10-01T10:50:43+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: hacktoberfest
+aliases:
+- /posts/2016/09/30/hacktoberfest/
 ---
 # On Hacktoberfest
 

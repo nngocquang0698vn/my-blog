@@ -25,5 +25,5 @@ I thought it'd be quite a nice thing to announce, and to let everyone know that 
 
 It's amazing to think how far I've come. The first time I saw my consultant, he was bowled over trying to understand how I was able to walk all the way to his office in my physical state. Yet yesterday, I took it in my stride, and as he said, I'm a completely different person now. I really do feel that both physically and mentally I've both healed and grown, and it's given me a different outlook on life - I know I need to look after myself that much more, and not break myself trying to get things done. I need time to relax and recuperate, and I need to make sure that others remember they need it, too!
 
-[anchor-appendix]: {{< ref 2018-02-16-2017-in-review >}}#ruptured-appendix
+[anchor-appendix]: {{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix
 [work-remote]: {{< ref 2018-03-15-first-week-back-remote-work >}}

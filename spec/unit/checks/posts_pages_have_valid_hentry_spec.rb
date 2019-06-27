@@ -74,6 +74,17 @@ describe 'PostsPagesHaveValidHentry' do
         expect(sut.issues.length).to eq 3
       end
     end
+
+    context 'which is an alias page' do
+      let(:html) { Nokogiri::HTML(File.read('spec/fixtures/post_hugo_alias.html')) }
+      let(:sut) { PostsPagesHaveValidHentry.new('', './public/posts/2018/10/20/abc/index.html', html, {})}
+
+      it 'skips' do
+        expect(sut).to_not receive(:add_issue)
+
+        sut.run
+      end
+    end
   end
 
   context 'when not on a blog post' do
