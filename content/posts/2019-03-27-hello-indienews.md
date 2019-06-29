@@ -1,10 +1,6 @@
 ---
 title: "Hello IndieNews!"
 description: "Discovering IndieNews and starting to syndicate my posts to it."
-categories:
-- announcement
-- indieweb
-- microformats
 tags:
 - announcement
 - indieweb

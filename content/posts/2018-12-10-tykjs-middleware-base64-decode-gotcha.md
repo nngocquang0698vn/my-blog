@@ -1,10 +1,6 @@
 ---
 title: TYKJS Middleware Gotcha When Base 64 Decoding Data
 description: "How to workaround the `Failed to base64 decode: illegal base64 data at input byte` error when trying to use `b64dec` in TYKJS middleware."
-categories:
-- blogumentation
-- tyk
-- tykjs
 tags:
 - blogumentation
 - tyk

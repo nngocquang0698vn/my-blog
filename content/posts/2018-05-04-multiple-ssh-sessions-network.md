@@ -1,8 +1,6 @@
 ---
 title: Sharing Multiple SSH Sessions over the Same Network Socket
 description: Reusing network sockets for speed and reduction of authentication handshakes with OpenSSH.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ssh

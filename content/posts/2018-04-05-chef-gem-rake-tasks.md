@@ -1,10 +1,8 @@
 ---
 title: Bundling Common Rake Tasks into a Gem
 description: 'An example of how to create a helper gem for common Rake task, using the real-world example of Chef cookbooks.'
-categories:
-- guide
-- gem
 tags:
+- blogumentation
 - chef
 - chefdk
 - gem

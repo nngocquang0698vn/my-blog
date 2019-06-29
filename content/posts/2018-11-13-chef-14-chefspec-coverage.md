@@ -1,10 +1,8 @@
 ---
 title: "Chef 14: ChefSpec Coverage Reporting Deprecation"
 description: Noting the deprecation of using `ChefSpec::Coverage.start!` when using Chef 14 and above.
-categories:
-- blogumentation
-- chef-14-upgrade
 tags:
+- blogumentation
 - chef-14
 - chef-14-upgrade
 - chefspec

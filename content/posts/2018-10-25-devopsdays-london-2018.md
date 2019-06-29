@@ -1,10 +1,6 @@
 ---
 title: DevOpsDays London 2018
 description: My writeup of my first DevOpsDays conference, and the awesome talks and conversations I was part of.
-categories:
-- events
-- devopsdays
-- london
 tags:
 - devopsdays
 - aws

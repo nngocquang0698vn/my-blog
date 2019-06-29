@@ -1,10 +1,6 @@
 ---
 title: "Hello IndieAuth!"
 description: "Setting up my IndieAuth provider for interacting with IndieWeb applications everywhere."
-categories:
-- announcement
-- indieweb
-- indieauth
 tags:
 - announcement
 - indieweb

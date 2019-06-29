@@ -1,8 +1,6 @@
 ---
 title: "Pretty Print JSON with Java"
 description: "How to pretty print a JSON object using Java and Jackson."
-categories:
-- blogumentation
 tags:
 - blogumentation
 - java

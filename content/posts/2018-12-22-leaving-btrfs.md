@@ -1,8 +1,6 @@
 ---
 title: Leaving BTRFS as my primary filesystem
 description: Why I'm moving away from using BTRFS as the primary filesystem on my personal devices, and why it had nothing to do with BTRFS itself.
-categories:
-- thoughts
 tags:
 - thoughts
 - linux

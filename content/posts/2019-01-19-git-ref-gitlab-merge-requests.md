@@ -1,10 +1,6 @@
 ---
 title: "Using Git refs to check out GitLab Merge Requests, from your local repo"
 description: "How to pull the Git refs for Merge Requests to your GitLab repo."
-categories:
-- blogumentation
-- git
-- gitlab
 tags:
 - blogumentation
 - git

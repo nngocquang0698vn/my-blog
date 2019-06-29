@@ -1,8 +1,6 @@
 ---
 title: "Beware: `delete`ing a `file` in Chef doesn't actually `delete` it"
 description: "Why you should explicitly add `backup false` when `delete`ing a `file` through Chef, to avoid leaving potentially sensitive files still on the box."
-categories:
-- blogumentation
 tags:
 - blogumentation
 - chef

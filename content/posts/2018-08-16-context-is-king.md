@@ -1,8 +1,6 @@
 ---
 title: 'Context is key: thinking about your audience'
 description: How to have inclusive conversations by providing the right context for those who may not have the same level of understanding.
-categories:
-- thoughts
 tags:
 - thoughts
 - communication

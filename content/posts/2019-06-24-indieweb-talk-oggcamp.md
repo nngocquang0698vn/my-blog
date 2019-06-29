@@ -1,9 +1,6 @@
 ---
 title: "Talking about the IndieWeb at OggCamp 2019"
 description: "Announcing my talk at OggCamp 2019 about the IndieWeb."
-categories:
-- announcement
-- indieweb
 tags:
 - events
 - oggcamp

@@ -1,9 +1,6 @@
 ---
 title: "Converting X.509 and PKCS#8 `.pem` file to a JWKS (in Node.JS)"
 description: "Converting X.509 and PKCS#8 files to JWKS format, using the `node-jose` library."
-categories:
-- blogumentation
-- pki
 tags:
 - blogumentation
 - pki

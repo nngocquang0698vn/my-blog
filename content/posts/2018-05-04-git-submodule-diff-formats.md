@@ -1,8 +1,6 @@
 ---
 title: Better Git Diff Outputs with Git Submodules
 description: How to get nicer `diff`s when working with submodules.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - git

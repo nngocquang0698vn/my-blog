@@ -1,9 +1,6 @@
 ---
 title: "Chef 14 Upgrade: Change in `ValidationFailed` error messages when setting `required` properties"
 description: The updated error message returned by a Chef `ValidationFailed` error, when you're specifying which properties are `required` on a custom resource.
-categories:
-- blogumentation
-- chef-14-upgrade
 tags:
 - blogumentation
 - chef-14-upgrade

@@ -1,8 +1,6 @@
 ---
 title: Pretty Printing JSON Web Tokens (JWTs) on the Command Line using Ruby
 description: How to easily introspect and pretty print a JWT on the command line using Ruby's standard library, or using the ruby-jwt external library.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ruby

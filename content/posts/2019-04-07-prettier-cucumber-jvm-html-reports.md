@@ -1,10 +1,8 @@
 ---
 title: "Prettier HTML Reports for Cucumber-JVM"
 description: "How to generate prettier HTML reports for Cucumber with `cucumber-reporting` and `cucumber-reporting-plugin`, with and without Jenkins."
-categories:
-- blogumentation
-- cucumber
 tags:
+- blogumentation
 - java
 - cucumber
 - testing

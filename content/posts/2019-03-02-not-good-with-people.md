@@ -1,10 +1,9 @@
 ---
 title: "I'm Not Good With People"
 description: "A bit of a raw look about how I'm really poor in social situations, how I've got to this realisation, and how I want to do better about it."
-categories:
+tags:
 - thoughts
 - personal
-tags:
 - introvert
 - social
 license_code: Apache-2.0

@@ -1,10 +1,6 @@
 ---
 title: "Marking up Events with Microformats"
 description: "Announcing the events content type and their markup with `h-event`."
-categories:
-- announcement
-- indieweb
-- microformats
 tags:
 - announcement
 - indieweb

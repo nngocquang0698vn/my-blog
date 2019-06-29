@@ -1,8 +1,6 @@
 ---
 title: Deploying to Netlify using GitLab CI
 description: 'How adding two lines to my `.gitlab-ci.yml` migrated my existing site from GitLab Pages to Netlify.'
-categories:
-- guide
 tags:
 - netlify
 - gitlab-ci

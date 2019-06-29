@@ -1,8 +1,6 @@
 ---
 title: Intelligent Parenting
 description: Bringing the Internet of Things to the home, and to help monitor your children.
-categories:
-- internet-of-things
 tags:
 - internet-of-things
 - impact-nottingham

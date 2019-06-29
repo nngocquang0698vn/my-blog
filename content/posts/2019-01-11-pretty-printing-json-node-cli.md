@@ -1,8 +1,6 @@
 ---
 title: "Pretty Printing JSON using Node.JS on the Command Line"
 description: "Using Node.JS's JSON module to pretty print JSON objects from the command line."
-categories:
-- blogumentation
 tags:
 - blogumentation
 - nodejs

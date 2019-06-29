@@ -1,9 +1,6 @@
 ---
 title: "Using Hugo `.Render` to Save Repetition"
 description: "Replacing `if`s with `.Render` to save duplication in Hugo templates."
-categories:
-- blogumentation
-- hugo
 tags:
 - blogumentation
 - hugo

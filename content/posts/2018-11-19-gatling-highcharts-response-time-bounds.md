@@ -1,9 +1,6 @@
 ---
 title: Tweaking Gatling HighCharts Response Time Bounds
 description: How to configure the bounds that Gatling marks your response times within for console output and graphing purposes.
-categories:
-- blogumentation
-- gatling
 tags:
 - blogumentation
 - gatling

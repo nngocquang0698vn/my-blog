@@ -1,8 +1,6 @@
 ---
 title: "Goodbye Jekyll, Hello Hugo!"
 description: My move from Jekyll to super speedy Hugo, and what I've needed to do to migrate.
-categories:
-- announcement
 tags:
 - announcement
 - jekyll

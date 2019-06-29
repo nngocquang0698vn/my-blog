@@ -1,10 +1,6 @@
 ---
 title: "Displaying Webmentions on my Hugo website"
 description: "How and why I've gone about getting Webmentions rendered on my static Hugo site."
-categories:
-- announcement
-- indieweb
-- microformats
 tags:
 - announcement
 - indieweb

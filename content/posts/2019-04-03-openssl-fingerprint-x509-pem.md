@@ -1,9 +1,6 @@
 ---
 title: "Viewing X.509 PEM Certificate Fingerprints with OpenSSL"
 description: "How to view an X.509 PEM certificate's fingerprint using `openssl` commands."
-categories:
-- blogumentation
-- certificates
 tags:
 - blogumentation
 - certificates

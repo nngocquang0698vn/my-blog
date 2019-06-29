@@ -1,9 +1,6 @@
 ---
 title: Using Fake Cookbooks for Writing ChefSpec Tests for your Custom Chef Resources
 description: A directory structure I've found quite useful for writing ChefSpec tests for custom resources, by creating a fake cookbook within the cookbook you're testing.
-categories:
-- blogumentation
-- chef
 tags:
 - blogumentation
 - chef

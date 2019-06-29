@@ -1,9 +1,6 @@
 ---
 title: "Implementing h-feed, and making all site content discoverable"
 description: "Announcing h-feeds for this website, and making it easier to read non-blog posts."
-categories:
-- announcement
-- microformats
 tags:
 - announcement
 - microformats
@@ -33,7 +30,7 @@ I've set up h-feeds in the following places:
 
 - on the front-page of this site
 - on a per post type basis, i.e. [/notes/](/notes/), [/posts/](/posts/)
-- on taxonomy pages i.e. [/categories/announcement/](/categories/announcement/)
+- on taxonomy pages i.e. [/tags/announcement/](/tags/announcement/)
 
 Unlike some of the previous changes I've made to this site, I've decided to not (at this time) create any automated tests for validating whether the h-feed is well formed, instead deciding to manually verify whether it works.
 

@@ -1,8 +1,6 @@
 ---
 title: URL Decoding with Ruby on the Command Line
 description: How to use Ruby's standard library to decode URLs with a handy one-liner.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ruby

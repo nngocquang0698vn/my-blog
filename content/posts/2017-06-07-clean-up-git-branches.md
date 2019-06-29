@@ -1,8 +1,6 @@
 ---
 title: Clean up your Git branches
 description: Remove any merged local or branches from your local Git repository.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - git

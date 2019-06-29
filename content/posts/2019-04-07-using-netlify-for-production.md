@@ -1,8 +1,6 @@
 ---
 title: "Using Netlify for hosting www.jvt.me in Production"
 description: "Announcing my move to Netlify for hosting www.jvt.me."
-categories:
-- announcement
 tags:
 - announcement
 - netlify

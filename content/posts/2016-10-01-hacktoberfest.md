@@ -1,10 +1,8 @@
 ---
 title:  Hacktoberfest 2016
 description: A few words about my excitement for the start of Hacktoberfest, and some ideas on how to get started yourself.
-categories:
-- guide
-- opensource
 tags:
+- guide
 - hacktoberfest
 - opensource
 - freesoftware

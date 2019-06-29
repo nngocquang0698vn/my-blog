@@ -1,9 +1,6 @@
 ---
 title: "Using `git commit --fixup=` to track changes that need to be applied on top of another commit"
 description: "Using `git commit --fixup=` and `git rebase --autosquash` to easily track and squash fix commits."
-categories:
-- blogumentation
-- git
 tags:
 - blogumentation
 - git

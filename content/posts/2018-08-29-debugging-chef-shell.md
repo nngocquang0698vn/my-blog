@@ -1,9 +1,6 @@
 ---
 title: Using `chef-shell` to interactively debug attributes and recipes
 description: How to use `chef-shell` to see attribute config and recipes, with and without a Chef Server.
-categories:
-- blogumentation
-- chef
 tags:
 - chef
 - chef-shell

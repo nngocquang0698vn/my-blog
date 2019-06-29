@@ -1,10 +1,8 @@
 ---
 title: Trusting Self-Signed Certificates from the Chef Development Kit
 description: How to get the ChefDK (and associated tools) to trust internal / self-signed certificates, in an easy oneliner.
-categories:
-- blogumentation
-- chef
 tags:
+- blogumentation
 - chef
 - chefdk
 - certificates

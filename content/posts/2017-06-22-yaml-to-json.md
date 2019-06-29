@@ -1,8 +1,6 @@
 ---
 title: Converting YAML to JSON and vice versa (Part 1 - Ruby)
 description: Coerce YAML to JSON and vice versa, from the comfort of your Gem-studded command line.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ruby

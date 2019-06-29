@@ -1,9 +1,8 @@
 ---
 title: Viewing your diff while writing your commits with git commit --verbose
 description: Making it easier to write commit messages by having the diff in your editor.
-categories:
-- blogumentation
 tags:
+- blogumentation
 - git
 - commit
 - shell

@@ -1,9 +1,6 @@
 ---
 title: "Backporting/Replaying Changes Using `git cherry-pick`"
 description: "Using `git cherry-pick` to make it easier to backport or replay Git commits across different versions of your codebase."
-categories:
-- blogumentation
-- git
 tags:
 - blogumentation
 - git

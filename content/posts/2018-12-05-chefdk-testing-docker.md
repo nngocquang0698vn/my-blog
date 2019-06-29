@@ -1,9 +1,6 @@
 ---
 title: How to run tests from the ChefDK in Docker
 description: How to get up and running with the ChefDK to perform common tests, such as unit tests and linting.
-categories:
-- blogumentation
-- chef
 tags:
 - blogumentation
 - chef

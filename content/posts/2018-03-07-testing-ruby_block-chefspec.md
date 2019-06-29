@@ -1,9 +1,6 @@
 ---
 title: "Testing Chef's `ruby_block`s with ChefSpec"
 description: 'Testing implementation of a `ruby_block` in ChefSpec, to ensure that the code executes as expected.'
-categories:
-- blogumentation
-- chef
 tags:
 - blogumentation
 - chef

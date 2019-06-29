@@ -1,9 +1,6 @@
 ---
 title: "Easily rewriting Git URLs from HTTPS to SSH and vice versa"
 description: "How to use Git's config to rewrite HTTPS URLs to SSH and vice versa, for repo pushes and pulls."
-categories:
-- blogumentation
-- git
 tags:
 - blogumentation
 - git

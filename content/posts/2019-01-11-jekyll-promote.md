@@ -1,9 +1,6 @@
 ---
 title: "Automating Promotion of Jekyll Posts from Draft to Post"
 description: "The handy script I've created to automate publishing a draft in Jekyll, with handy Zsh + Bash autocomplete."
-categories:
-- blogumentation
-- jekyll
 tags:
 - blogumentation
 - automation
