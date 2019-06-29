@@ -1,10 +1,6 @@
 ---
 title: "Adding the microformats h-entry markup to my blog posts"
 description: "Announcing the addition of the `h-entry` markup to my blog posts."
-categories:
-- announcement
-- indieweb
-- microformats
 tags:
 - announcement
 - indieweb

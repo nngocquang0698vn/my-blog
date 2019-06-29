@@ -1,8 +1,6 @@
 ---
 title: "Adding iCalendar Feeds for Events in Hugo"
 description: "Using Hugo's custom output formats to automagically create an iCalendar feed for events."
-categories:
-- announcement
 tags:
 - announcement
 - events

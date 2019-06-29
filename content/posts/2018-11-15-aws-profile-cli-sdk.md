@@ -1,9 +1,6 @@
 ---
 title: Setting your default AWS profile for the AWS CLI and SDKs
 description: Setting the default AWS profile when working with multiple profiles and the AWS CLI / SDKs.
-categories:
-- blogumentation
-- aws
 tags:
 - blogumentation
 - aws

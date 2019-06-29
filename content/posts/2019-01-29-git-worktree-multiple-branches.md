@@ -1,10 +1,8 @@
 ---
 title: "Using `git worktree` to have multiple branches checked out at once"
 description: "How to use `git worktree` to check out multiple Git branches from the same repo at once."
-categories:
-- blogumentation
-- git
 tags:
+- blogumentation
 - git
 - git-worktree
 license_code: Apache-2.0

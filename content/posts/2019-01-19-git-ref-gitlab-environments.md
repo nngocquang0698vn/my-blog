@@ -1,10 +1,6 @@
 ---
 title: "Using Git refs to help track your GitLab Environments, from your local repo"
 description: "How to pull the Git refs that GitLab Environments exposes in your GitLab repo."
-categories:
-- blogumentation
-- git
-- gitlab
 tags:
 - blogumentation
 - git

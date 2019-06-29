@@ -1,9 +1,6 @@
 ---
 title: Blogumentation - Writing Blog Posts as a Method of Documentation
 description: Why I'm starting to use blog posts as a form of documentation, and why I think they're so well suited.
-categories:
-- musings
-- thoughts
 tags:
 - musings
 - blogumentation
@@ -56,7 +53,7 @@ If you wish to hear me write about something, please [raise an issue on my issue
 [issue-board-article]: https://gitlab.com/jamietanna/jvt.me/boards/320660
 [keysleft]: http://keysleft.com
 [extracting-certs]: {{< ref 2017-04-28-extract-tls-certificate >}}
-[blogumentation]: /categories/blogumentation/
+[blogumentation]: /tags/blogumentation/
 [docker-systemd-article-issue]: https://gitlab.com/jamietanna/jvt.me/issues/151
 [technotts-twitter]: https://twitter.com/TechNottingham
 [technotts-blog-channel]: https://technottingham.slack.com/messages/C4WR48CTB/

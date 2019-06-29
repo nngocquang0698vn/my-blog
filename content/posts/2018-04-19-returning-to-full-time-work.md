@@ -1,9 +1,8 @@
 ---
 title: Finally Returning to Full Time Work After 123 Days
 description: Receiving the final sign off after four months off for my ruptured appendix.
-categories:
-- thoughts
 tags:
+- thoughts
 - appendix
 - health
 date: 2018-04-19T11:02:32+01:00

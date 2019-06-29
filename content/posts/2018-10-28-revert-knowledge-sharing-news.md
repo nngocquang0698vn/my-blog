@@ -1,9 +1,8 @@
 ---
 title: Revert 'Some knowledge-sharing news'
 description: The unfortunate decision to cancel my Packt training courses.
-categories:
-- news
 tags:
+- news
 - events
 - chef
 - testing

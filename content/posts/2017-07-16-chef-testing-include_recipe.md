@@ -1,8 +1,6 @@
 ---
 title: 'Testing `include_recipe`s with Chef and ChefSpec'
 description: How to best test `include_recipe`s within your Chef recipes, as well as how to ensure that you aren't running any dependent recipes in your tests.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - chef

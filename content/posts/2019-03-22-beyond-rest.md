@@ -1,8 +1,6 @@
 ---
 title: "Beyond Rest: The Future of Web APIs"
 description: "A writeup of the meetup talking about what could come next for APIs."
-categories:
-- events
 tags:
 - events
 - openapi

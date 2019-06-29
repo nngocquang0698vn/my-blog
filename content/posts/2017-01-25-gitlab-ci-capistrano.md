@@ -1,9 +1,8 @@
 ---
 title:  Continuous Delivery with Capistrano and GitLab Continuous Integration
 description: How to get up and running with using GitLab CI and the Capistrano deploy tool.
-categories:
-- guide
 tags:
+- blogumentation
 - capistrano
 - deploy
 - ci

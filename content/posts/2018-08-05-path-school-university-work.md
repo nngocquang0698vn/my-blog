@@ -1,9 +1,6 @@
 ---
 title: My Path from School to University to Work
 description: A look back at my journey up to now, the choices I've made, and what advice I have for others who are embarking on their own journeys into tech.
-categories:
-- musings
-- blogumentation
 tags:
 - musings
 - blogumentation

@@ -1,8 +1,6 @@
 ---
 title: 'Running `docker login` as another user in Chef'
 description: 'Hitting the error `permission denied while trying to connect to the Docker daemon socket` when trying to run `docker login` as a non-root user in Chef.'
-categories:
-- blogumentation
 tags:
 - docker
 - chef

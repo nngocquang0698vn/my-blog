@@ -1,9 +1,6 @@
 ---
 title: "Gotcha: URL Encoding for consecutive double slashes issue with Rest Assured"
 description: "How to workaround consecutive double slashes being URL encoded (as `%2F`s) in Rest Assured."
-categories:
-- blogumentation
-- rest-assured
 tags:
 - blogumentation
 - java

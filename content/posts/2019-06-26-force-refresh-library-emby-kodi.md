@@ -1,10 +1,6 @@
 ---
 title: "Force a Refresh of an Emby Library in Kodi"
 description: "How to force an update of an Emby library from Kodi."
-categories:
-- blogumentation
-- kodi
-- emby
 tags:
 - blogumentation
 - kodi

@@ -1,9 +1,6 @@
 ---
 title: "Tech Nottingham April"
 description: "A recap of Tech Nottingham's April meetup."
-categories:
-- events
-- technottingham
 tags:
 - events
 - technottingham

@@ -5,8 +5,6 @@ tags:
 - workshop
 - checklist
 - guide
-categories:
-- guide
 date: 2017-02-15T11:57:04+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

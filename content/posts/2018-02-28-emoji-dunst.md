@@ -1,8 +1,6 @@
 ---
 title: Emoji Support in Dunst
 description: How to see Emoji when using the Dunst notification system.
-categories:
-- blogumentation
 tags:
 - archlinux
 - dunst

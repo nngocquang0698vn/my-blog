@@ -1,9 +1,6 @@
 ---
 title: "Homebrew Website Club: Nottingham"
 description: "Thoughts about setting up the first Homebrew Website Club in Nottingham."
-categories:
-- announcement
-- indieweb
 tags:
 - announcement
 - indieweb

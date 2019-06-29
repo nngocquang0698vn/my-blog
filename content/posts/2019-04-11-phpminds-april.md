@@ -1,9 +1,6 @@
 ---
 title: "PHPMiNDS April"
 description: "A recap of PHPMiNDS' April meetup."
-categories:
-- events
-- phpminds
 tags:
 - events
 - phpminds

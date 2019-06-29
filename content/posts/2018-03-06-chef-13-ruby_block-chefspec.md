@@ -1,9 +1,6 @@
 ---
 title: 'Chef 13 Upgrade: Testing `ruby_block`s with ChefSpec'
 description: 'Replace your `block.old_run_action` with `block.block.call` to trigger `ruby_block`s within ChefSpec 7 and Chef 13.'
-categories:
-- blogumentation
-- chef-13-upgrade
 tags:
 - blogumentation
 - chef-13-upgrade

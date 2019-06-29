@@ -1,8 +1,6 @@
 ---
 title: Pretty Printing JSON with Ruby
 description: Using `Kernel.jj` to pretty print Ruby objects as JSON objects.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ruby

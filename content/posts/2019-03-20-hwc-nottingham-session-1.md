@@ -1,9 +1,6 @@
 ---
 title: "Homebrew Website Club: Nottingham, Session 1"
 description: "A recap of our first Homebrew Website Club: Nottingham."
-categories:
-- events
-- indieweb
 tags:
 - events
 - indieweb

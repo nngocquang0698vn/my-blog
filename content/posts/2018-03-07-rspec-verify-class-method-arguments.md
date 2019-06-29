@@ -1,9 +1,6 @@
 ---
 title: Verify a Ruby Class Method is Called with Arguments in Rspec, Without Doubles or Mocks
 description: Rspec code to verify that a Ruby Class Method is called from another method, without needing to mock anything.
-categories:
-- blogumentation
-- ruby
 tags:
 - blogumentation
 - ruby

@@ -1,8 +1,6 @@
 ---
 title: "Using `<details>` tags for HTML-only UI toggles"
 description: "How using the `<details>` HTML tag can provide a toggleable UI element with only built-in HTML."
-categories:
-- blogumentation
 tags:
 - blogumentation
 - html

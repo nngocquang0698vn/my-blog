@@ -1,9 +1,6 @@
 ---
 title: "Specifying datetime in your Hugo posts' front matter"
 description: "Setting your posts' `date` to a datetime string to specify the time a post was published at."
-categories:
-- blogumentation
-- hugo
 tags:
 - blogumentation
 - hugo

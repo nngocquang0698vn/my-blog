@@ -1,8 +1,6 @@
 ---
 title: "Performing Code Review on Your own Merge/Pull Requests"
 description: "Why the first step to getting others to review your code is to review it yourself."
-categories:
-- blogumentation
 tags:
 - blogumentation
 - code-review

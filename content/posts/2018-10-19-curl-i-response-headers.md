@@ -1,9 +1,6 @@
 ---
 title: Showing response headers with `curl -i`
 description: Showing just response headers when `curl`ing a resource, using `curl -i`.
-categories:
-- blogumentation
-- curl
 tags:
 - blogumentation
 - curl

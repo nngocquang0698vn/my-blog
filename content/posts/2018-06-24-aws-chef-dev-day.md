@@ -1,8 +1,6 @@
 ---
 title: Notes from the AWS + Chef Dev Day Roadshow in London
 description: "Notes from the AWS Dev Day Roadshow in London, where we got to play around with Chef, Chef Automate and InSpec using AWS OpsWorks."
-categories:
-- events
 tags:
 - aws
 - chef

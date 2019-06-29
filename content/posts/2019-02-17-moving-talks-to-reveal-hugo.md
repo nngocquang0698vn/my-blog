@@ -1,8 +1,6 @@
 ---
 title: "Moving talks.jvt.me to reveal-hugo"
 description: "Migrating my custom Reveal.JS setup to using reveal-hugo."
-categories:
-- announcement
 tags:
 - announcement
 - revealjs

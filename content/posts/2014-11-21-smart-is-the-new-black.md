@@ -1,8 +1,6 @@
 ---
 title: 'Smart is the New Black: Lightbulbs to Reflect a Modern Age'
 description: The future of lighting - using smart, long-lived lightbulbs that can be configured to only turn on when there's someone in the house.
-categories:
-- internet-of-things
 tags:
 - internet-of-things
 - impact-nottingham

@@ -1,10 +1,6 @@
 ---
 title: "Setting up a personal hCard for myself"
 description: "Setting up an hCard to allow microformats parsing for details about myself."
-categories:
-- announcement
-- indieweb
-- microformats
 tags:
 - announcement
 - indieweb

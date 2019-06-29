@@ -1,9 +1,6 @@
 ---
 title: "Re-enabling search on my static website"
 description: "Announcing the re-enabling of search functionality on my static website."
-categories:
-- announcement
-- search
 tags:
 - announcement
 - indieweb

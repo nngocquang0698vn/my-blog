@@ -1,8 +1,6 @@
 ---
 title: Creating Microservices for my Static Website
 description: "Exploring moving data out of my site's remit and into its own 'microservices' which can be consumed at build-time, as well as via client-side JavaScript."
-categories:
-- announcement
 tags:
 - announcement
 - jamstack

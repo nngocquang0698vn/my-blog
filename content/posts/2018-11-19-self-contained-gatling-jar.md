@@ -1,9 +1,8 @@
 ---
 title: 'Creating a versionable, self-contained (fat-/uber-) JAR for Gatling tests'
 description: Why you'd want a fat JAR for your Gatling tests and how you'd achieve it.
-categories:
-- blogumentation
 tags:
+- blogumentation
 - java
 - gatling
 - testing

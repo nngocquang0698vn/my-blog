@@ -1,8 +1,6 @@
 ---
 title: "The Hour of Code: What's the Worst that Could Happen?"
 description: Why you should invest just a single hour in learning how code can be useful to you.
-categories:
-- persuasive
 tags:
 - learning
 - learn-to-code

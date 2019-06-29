@@ -1,9 +1,6 @@
 ---
 title: "Marking up my pronouns with Microformats"
 description: "Adding my pronouns to my personal h-card to help others determine how I identify."
-categories:
-- announcement
-- microformats
 tags:
 - announcement
 - microformats

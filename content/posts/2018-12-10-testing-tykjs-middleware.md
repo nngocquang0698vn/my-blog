@@ -1,10 +1,6 @@
 ---
 title: Unit Testing Your TYK (TYKJS) Middleware
 description: Writing unit tests (in this case using Jasmine) for the TYK API Gateway's JavaScript middleware functionality.
-categories:
-- blogumentation
-- tyk
-- tykjs
 tags:
 - blogumentation
 - tyk

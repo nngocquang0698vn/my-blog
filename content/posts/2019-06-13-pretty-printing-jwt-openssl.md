@@ -1,8 +1,6 @@
 ---
 title: Pretty Printing JSON Web Tokens (JWTs) on the Command Line using OpenSSL
 description: How to easily introspect a JWT on the command line using OpenSSL and optionally Python for real pretty-printing.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - python

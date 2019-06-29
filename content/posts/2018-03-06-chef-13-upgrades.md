@@ -1,9 +1,6 @@
 ---
 title: 'Chef 13 Upgrade: Lessons Learnt and Documented for Posterity'
 description: 'Notes on the main problems encountered when upgrading from Chef 12 to Chef 13, both with ChefSpec and Rubocop.'
-categories:
-- blogumentation
-- chef-13-upgrade
 tags:
 - blogumentation
 - chef-13-upgrade

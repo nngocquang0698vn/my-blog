@@ -1,9 +1,6 @@
 ---
 title: "Performing a No-Op with `chef-client` using JSON"
 description: "How to perform a `chef-client` run without executing anything."
-categories:
-- blogumentation
-- chef
 tags:
 - blogumentation
 - chef

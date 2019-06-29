@@ -1,9 +1,6 @@
 ---
 title: "Viewing X.509 PEM Certificate Details with OpenSSL"
 description: How to convert an X.509 PEM file to a human-readable format using `openssl` commands.
-categories:
-- blogumentation
-- certificates
 tags:
 - blogumentation
 - certificates

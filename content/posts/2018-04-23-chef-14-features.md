@@ -1,8 +1,6 @@
 ---
 title: "Morsels of Goodness: What's Cooking in Chef 14?"
 description: A look at the new features coming in the new Chef 14 release, as well as what to watch out for when upgrading.
-categories:
-- chef-14
 tags:
 - chef-14
 - chef

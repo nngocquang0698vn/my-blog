@@ -1,8 +1,6 @@
 ---
 title: Pretty Printing JSON on the Command Line with Ruby
 description: Using Ruby's JSON module to pretty print JSON objects from the command line.
-categories:
-- blogumentation
 tags:
 - blogumentation
 - ruby

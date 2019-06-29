@@ -1,9 +1,8 @@
 ---
 title:  Extracting SSL/TLS Certificate Chains Using OpenSSL
 description: A quick one-liner to get you the full certificate chain in `.pem` format.
-categories:
-- blogumentation
 tags:
+- blogumentation
 - bash
 - shell
 - oneliner

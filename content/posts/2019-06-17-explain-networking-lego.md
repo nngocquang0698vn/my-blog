@@ -1,8 +1,6 @@
 ---
 title: "Explaining Networking and Packet Switching with LEGO and the Postal Service"
 description: "A recap of how I've explained the concept of packet switching through the use of LEGO and the postal service."
-categories:
-- networking
 tags:
 - networking
 license_code: Apache-2.0

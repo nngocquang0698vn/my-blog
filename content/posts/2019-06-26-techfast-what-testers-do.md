@@ -1,9 +1,6 @@
 ---
 title: "Notts Techfast: What do testers even do all day?"
 description: "A writeup and some thoughts about Dan Caseley's talk at Notts Techfast."
-categories:
-- events
-- notts-techfast
 tags:
 - events
 - notts-techfast

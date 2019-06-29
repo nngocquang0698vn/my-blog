@@ -1,10 +1,6 @@
 ---
 title: "Verify if a field in a JSON response is not set with Rest Assured"
 description: "How to verify whether a field is not present in a JSON Rest Assured `Response`."
-categories:
-- blogumentation
-- java
-- rest-assured
 tags:
 - blogumentation
 - java
