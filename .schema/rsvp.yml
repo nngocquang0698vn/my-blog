@@ -38,3 +38,13 @@ mapping:
     type: str
     required: yes
     length: { min: 1 }
+  'event':
+    type: map
+    required: no
+    mapping:
+      'name':
+        type: str
+        required: yes
+      'start':
+        type: str
+        required: yes
