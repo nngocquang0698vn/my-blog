@@ -25,7 +25,7 @@ This is made even worse when trying to go to the shops after work, when it's _su
 
 We'd end up being more motivated to leave the house and pick up a takeaway than cook the food we already had in the house, for an already low-effort meal (because we know we're lazy), showing just how averse we were to cooking the things we'd bought.
 
-So in February, Anna is chatting with one of her colleagues, who happened to mention that he and his wife used Gousto and found it really great. They gave us a discount code which made it a bit less daunting cost-wise and gave us a good reason to continue using it for a little bit due to the discount over that first month. So on February 12 we ordered our first Gousto box.
+So in February, Anna is chatting with one of her colleagues, who happened to mention that he and his wife used [Gousto](https://www.gousto.co.uk/) and found it really great. They gave us a discount code which made it a bit less daunting cost-wise and gave us a good reason to continue using it for a little bit due to the discount over that first month. So on February 12 we ordered our first Gousto box.
 
 ![First Gousto unboxed](/img/four-months-gousto/first-unboxed.jpeg)
 
