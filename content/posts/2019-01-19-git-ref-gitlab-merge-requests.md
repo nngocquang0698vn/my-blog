@@ -16,7 +16,7 @@ When reviewing a Merge Request, it can be often more helpful to check out the co
 
 If you're not wanting to just use [GitLab's Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/), you would want to do this locally. However, that'd require you to `git clone` the fork, and check out their branch, right?
 
-Not quite! GitLab actually provides a [Git ref](https://git-scm.com/book/en/v2/Git-Internals-Git-References) that allows you to check out **??**
+Not quite! GitLab actually provides a [Git ref](https://git-scm.com/book/en/v2/Git-Internals-Git-References) that allows you to check out the Pull Request from within the local repo!
 
 And in action:
 
