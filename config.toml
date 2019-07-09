@@ -39,7 +39,7 @@ paginate = 25
   tags = "/tags/:title/"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed"]
+home = ["HTML", "RSS", "jsonFeed", "postFrequency"]
 section = ["HTML", "Calendar"]
 
 [outputFormats]
@@ -49,6 +49,9 @@ baseName = "feed"
 [outputFormats.jsonFeed]
 mediaType = "application/json"
 baseName = "feed"
+[outputFormats.postFrequency]
+mediaType = "application/json"
+baseName = "post-frequency"
 
 [blackfriday]
   # disable stupid "smart" quotes
