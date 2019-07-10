@@ -56,7 +56,7 @@ end
 
 # Defensive `include_recipe`s
 
-However, if we have this running, it won't flag up `include_recipe` being called on any other recipes that we've not predicted in our tests. Yes, this should be more obvious when practicing TDD, but it **???**. This would mean that recipes could be silently executing in the background, slowing down tests, which may not be as noticeable in the case that they don't require any extra attributes set.
+However, if we have this running, it won't flag up `include_recipe` being called on any other recipes that we've not predicted in our tests. Yes, this should be more obvious when practicing TDD, but it still doesn't actual fail our tests if we're not catching anything. This would mean that recipes could be silently executing in the background, slowing down tests, which may not be as noticeable in the case that they don't require any extra attributes set.
 
 To do this, we can utilise RSpec Mocks again, but this time, we can `raise` if there's a non-whitelisted recipe called.
 
