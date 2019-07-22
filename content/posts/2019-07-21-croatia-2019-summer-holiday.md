@@ -67,3 +67,5 @@ But other bad tourists were worse - there were families feeding the wildlife, de
 My hayfever decided to use this holiday as a way to return to haunt me - not fun!
 
 I also managed to write a little bit of code to convert details of [Meetup.com](https://meetup.com/) events to [Microformats](https://indieweb.org/microformats2) for easier IndieWeb integrations. It was a little weird writing code in a non-TDD fashion, but it helped me prove it was straightforward to do it, so now I can actually write the code right now!
+
+EDIT: The worst thing about the holiday was that I broke not one, but _two_ pairs of sunglasses! My lovely Superdry pair broke on day 1, and the replacement pair I got while we were out there broke, too. Not the happiest about that!
