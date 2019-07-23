@@ -159,3 +159,5 @@ One comment you may have is that an issue from the previous age of blogs and RSS
 Do you have any feedback or thoughts about this post? You can find below the ability to reply directly to this post, otherwise reach out to me with my various social media platforms.
 
 Also, if you still can't see the point, I'm interested to hear why, and if there's anything I can add to this list to persuade you.
+
+EDIT: There are some other great reasons in [/why on the IndieWeb wiki](https://indieweb.org/why).
