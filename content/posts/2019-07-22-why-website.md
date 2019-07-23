@@ -116,6 +116,8 @@ Since getting my personal email, I rarely even touch my GMail account as it's on
 
 But if that doesn't get you interested, you can instead think of it as a sort of vanity license plate, which will allow you to show off to friends, family and even shop assistants about how super technical you are having your own email address.
 
+EDIT: As a commenter on Lobste.rs pointed out, you don't necessarily need to have a website to buy a domain name. That's true! But it's worth having a website if you're buying the domain for email.
+
 # To make some money
 
 If you start writing a lot, and manage to get a strong following with many thousands of readers a month, you can start to look at ad-supported / sponsored posts on your website. They can be done tastefully as seen on some of [Troy Hunt](https://www.troyhunt.com/)'s posts, but it is an option.
@@ -159,3 +161,5 @@ One comment you may have is that an issue from the previous age of blogs and RSS
 Do you have any feedback or thoughts about this post? You can find below the ability to reply directly to this post, otherwise reach out to me with my various social media platforms.
 
 Also, if you still can't see the point, I'm interested to hear why, and if there's anything I can add to this list to persuade you.
+
+EDIT: There are some other great reasons in [/why on the IndieWeb wiki](https://indieweb.org/why).
