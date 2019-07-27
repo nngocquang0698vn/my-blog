@@ -48,3 +48,22 @@ mapping:
       'start':
         type: str
         required: yes
+      'end':
+        type: str
+        required: yes
+      'location':
+        type: map
+        required: yes
+        mapping:
+          'street_address':
+            type: str
+            required: yes
+          'locality':
+            type: str
+            required: yes
+          'postal_code':
+            type: str
+            required: no
+          'country_name':
+            type: str
+            required: yes
