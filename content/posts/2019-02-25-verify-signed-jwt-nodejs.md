@@ -3,7 +3,7 @@ title: "Verifying Signed JWTs (JWS) with Node.JS"
 description: "How to use the jsonwebtoken and node-jose libraries to verify the signature of a Signed JSON Web Token (JWS) with Node.JS."
 tags:
 - blogumentation
-- node
+- nodejs
 - cli
 - jwt
 - json
