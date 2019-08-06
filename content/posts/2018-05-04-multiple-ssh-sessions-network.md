@@ -25,7 +25,7 @@ For example, assuming that my instances in a development environment were served
 Host 10.5.*
 	ControlMaster auto
 	ControlPath ~/.ssh/sockets/%r@%h-%p
-	ContolPersist 120
+	ControlPersist 120
 ```
 
 You'll notice that I've used an intentionally low persist timing of only 120 seconds. This is mostly due to the potentially short lived lifecycle for an instance, as a new instance (from another team) could well be spun up with the same IP as the instance I was using before. By keeping them alive for only 2 minutes, I have a good window of time to "remember" to want to come back and use the instance, as well as not being so long that I risk trying to reconnect to an old instance, which has since had its IP recycled.
