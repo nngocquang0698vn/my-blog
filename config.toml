@@ -28,19 +28,15 @@ paginate = 25
   IgnoreInFeeds = ["", "events", "projects", "talks"]
 
 [permalinks]
-  bookmarks = "/bookmarks/:slug"
   categories = "/categories/:title/"
   events = "/:sections/:slug/"
-  likes = "/likes/:slug"
-  notes = "/notes/:slug"
+  mf2 = "/mf2/:filename/"
   posts = "/posts/:year/:month/:day/:slug/"
-  reposts = "/reposts/:slug"
-  rsvps = "/rsvps/:slug"
   tags = "/tags/:title/"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed", "postFrequency"]
-section = ["HTML", "Calendar"]
+home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar"]
+section = ["HTML", "eventsCalendar"]
 
 [outputFormats]
 [outputFormats.RSS]
@@ -52,6 +48,12 @@ baseName = "feed"
 [outputFormats.postFrequency]
 mediaType = "application/json"
 baseName = "post-frequency"
+[outputFormats.eventsCalendar]
+mediaType = "text/calendar"
+baseName = "index"
+[outputFormats.rsvpCalendar]
+mediaType = "text/calendar"
+baseName = "/rsvps/index"
 
 [blackfriday]
   # disable stupid "smart" quotes

@@ -1,0 +1,6 @@
+require_relative 'validators/bookmarks_have_valid_hentry'
+require_relative 'validators/likes_have_valid_hentry'
+require_relative 'validators/notes_have_valid_hentry'
+require_relative 'validators/replies_have_valid_hentry'
+require_relative 'validators/reposts_have_valid_hentry'
+require_relative 'validators/rsvps_have_valid_hentry'
