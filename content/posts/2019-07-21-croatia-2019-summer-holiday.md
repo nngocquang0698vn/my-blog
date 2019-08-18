@@ -36,7 +36,7 @@ It turns out, you should really check what the currency is before you leave for 
 
 I don't often read novels at home, only on holiday, so I was looking forward to getting back to reading [A Song of Ice and Fire: A Dance with Dragons](https://awoiaf.westeros.org/index.php/A_Dance_with_Dragons), but found I was ~40% through it already but couldn't remember what had happened, so ended up re-starting.
 
-However, during the week I found myself clearing through a large number of articles saved to [Wallabag](https://github.com/wallabag/wallabag), which has been steadily increasing to ~990 unread articles over the last few months. It was great, as there were a number of really good articles (which I have mostly shared via [the bookmarks content type on this site](/bookmarks/)) I read, but I should've been switching off more, especially as I do enjoy reading.
+However, during the week I found myself clearing through a large number of articles saved to [Wallabag](https://github.com/wallabag/wallabag), which has been steadily increasing to ~990 unread articles over the last few months. It was great, as there were a number of really good articles (which I have mostly shared as [bookmarks within this site's non-post content](/mf2/)) I read, but I should've been switching off more, especially as I do enjoy reading.
 
 It seems locals/tourists we encountered didn't quite understand the meaning of queuing, and regularly pushed in despite us waiting patiently to get on i.e. one of the last buses
 

@@ -29,7 +29,7 @@ That being said events listings i.e. that of [Homebrew Website Club Nottingham](
 I've set up h-feeds in the following places:
 
 - on the front-page of this site
-- on a per post type basis, i.e. [/notes/](/notes/), [/posts/](/posts/)
+- on a per post type basis, i.e. [/mf2/](/mf2/), [/posts/](/posts/)
 - on taxonomy pages i.e. [/tags/announcement/](/tags/announcement/)
 
 Unlike some of the previous changes I've made to this site, I've decided to not (at this time) create any automated tests for validating whether the h-feed is well formed, instead deciding to manually verify whether it works.
