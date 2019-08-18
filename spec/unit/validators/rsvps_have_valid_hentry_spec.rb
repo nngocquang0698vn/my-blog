@@ -1,13 +1,11 @@
 require 'spec_helper'
 
 describe 'RsvpsHaveValidHentry' do
-  let(:valid_filename) { './public/rsvps/0bdeb5b7-24fa-4bae-93ea-17b57eafbdf3/index.html' }
-
   context 'when on a rsvps page' do
     context 'with content' do
       it 'checks the content is not empty' do
         html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/with_content.html'))
-        sut = RsvpsHaveValidHentry.new('', valid_filename, html, {})
+        sut = RsvpsHaveValidHentry.new
 
         expect_any_instance_of(::HasUinreplyto).to receive(:validate)
           .and_call_original
@@ -20,16 +18,17 @@ describe 'RsvpsHaveValidHentry' do
         expect_any_instance_of(::HasPcategory).to receive(:validate)
           .and_call_original
 
-        sut.run
+        ret = sut.validate(html)
 
-        expect(sut.issues.length).to eq 0
+        # no error
+        expect(ret).to eq true
       end
     end
 
     context 'with no content' do
       it 'does not throw errors' do
         html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_content.html'))
-        sut = RsvpsHaveValidHentry.new('', valid_filename, html, {})
+        sut = RsvpsHaveValidHentry.new
 
         expect_any_instance_of(::HasUinreplyto).to receive(:validate)
           .and_call_original
@@ -42,62 +41,36 @@ describe 'RsvpsHaveValidHentry' do
 
         expect_any_instance_of(::HasPcontent).to_not receive(:validate)
 
-        sut.run
+        ret = sut.validate(html)
 
-        expect(sut.issues.length).to eq 0
+        # no error
+        expect(ret).to eq true
       end
     end
 
     context 'if any check fails' do
-      it 'calls to `add_issue`' do
+      it 'throws the error' do
         html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_content.html'))
-        sut = RsvpsHaveValidHentry.new('', valid_filename, html, {})
+        sut = RsvpsHaveValidHentry.new
 
         expect_any_instance_of(::HasUinreplyto).to receive(:validate)
           .and_raise InvalidMetadataError, 'Foo'
-        expect(sut).to receive(:add_issue)
-          .with('Foo')
-          .and_call_original
 
-        sut.run
-
-        expect(sut.issues.length).to eq 1
+        expect { sut.validate(html) }.to raise_error(InvalidMetadataError, 'Foo')
       end
     end
   end
 
   pending 'no h-entry'
 
-  context 'when not on a rsvps page' do
+  context 'when no rsvp and in-reply-to' do
     it 'is skipped' do
       html = Nokogiri::HTML(File.read('spec/fixtures/reply/with_content.html'))
-      sut = RsvpsHaveValidHentry.new('', './public/reply/foo/', html, {})
+      sut = RsvpsHaveValidHentry.new
 
-      expect(Microformats).to_not receive(:parse)
+      ret = sut.validate(html)
 
-      sut.run
-    end
-  end
-
-  context 'when not on a rsvps page' do
-    it 'is skipped' do
-      html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_content.html'))
-      sut = RsvpsHaveValidHentry.new('', './public/rsvps/index.html', html, {})
-
-      expect(Microformats).to_not receive(:parse)
-
-      sut.run
-    end
-  end
-
-  context 'when on a pagination page' do
-    it 'is skipped' do
-      html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_content.html'))
-      sut = RsvpsHaveValidHentry.new('', './public/rsvps/1/index.html', html, {})
-
-      expect(Microformats).to_not receive(:parse)
-
-      sut.run
+      expect(ret).to eq false
     end
   end
 end
