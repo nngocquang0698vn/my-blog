@@ -29,7 +29,7 @@ I have been starting to [own my RSVPs]({{< ref "2019-07-27-rsvp-calendar" >}}), 
 
 For those of you who attend [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/), you may notice that there is no event on i.e. Meetup.com or Eventbrite. That is partly because I don't want to have to pay to host the event, but mostly because I get some more control when hosting the event, which is the whole point of the IndieWeb.
 
-This allows me to put whatever information I want, in whatever format I want, and **??**.
+This allows me to put whatever information I want, in whatever format I want, as well as having ownership of the data of the event (past and present) and the attendee list!
 
 But the thing is, attendees don't necessarily know how to RSVP to the event, so I never really know how many people are going to turn up - but I only have myself to blame for this!
 
