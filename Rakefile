@@ -50,7 +50,8 @@ namespace :test do
         /matrix.org/,
         /graphql.org/,
         /joind.in/,
-        /meetup.com/
+        /meetup.com/,
+        /www-api.jvt.me/
       ]
     }
     HTMLProofer.check_directory('./public', options).run
