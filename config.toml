@@ -25,6 +25,7 @@ paginate = 25
   AuthorizationEndpoint = "https://indieauth.com/auth"
   TokenEndpoint = "https://tokens.indieauth.com/token"
   MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
+  MicroPubEndpoint = "https://www-api.jvt.me/micropub"
   IgnoreInFeeds = ["", "events", "projects", "talks"]
 
 [permalinks]
