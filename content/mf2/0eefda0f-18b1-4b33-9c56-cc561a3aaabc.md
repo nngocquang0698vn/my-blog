@@ -10,7 +10,7 @@
       "2019-07-22 22:34:13+0100"
     ],
     "category": [
-      "docker"
+      "blogging"
     ]
   },
   "aliases": [
