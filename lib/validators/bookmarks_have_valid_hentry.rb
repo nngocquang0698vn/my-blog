@@ -9,8 +9,12 @@ class BookmarksHaveValidHentry < Validator
 
     return false unless entry.respond_to? :bookmark_of
 
-    [::HasUbookmarkof, ::HasUDateTimePublished, ::HasPcategory].each do |clazz|
+    [::HasUbookmarkof, ::HasUDateTimePublished].each do |clazz|
       clazz.new.validate(entry)
+    end
+
+    if hentries.css('.p-category').any?
+      ::HasPcategory.new.validate(entry)
     end
 
     if hentries.css('.p-content').any?

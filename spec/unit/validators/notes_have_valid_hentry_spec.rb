@@ -44,6 +44,20 @@ describe 'NotesHaveValidHentry' do
       end
     end
 
+    context 'without categories' do
+      it 'does not throw errors' do
+        html = Nokogiri::HTML(File.read('spec/fixtures/note/without_category.html'))
+        sut = NotesHaveValidHentry.new
+
+        expect_any_instance_of(::HasPcategory).to_not receive(:validate)
+
+        ret = sut.validate(html)
+
+        # no error
+        expect(ret).to eq true
+      end
+    end
+
     context 'if any check fails' do
       it 'calls to `add_issue`' do
         html = Nokogiri::HTML(File.read('spec/fixtures/note/without_title.html'))
