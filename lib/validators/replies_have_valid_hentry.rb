@@ -8,8 +8,12 @@ class RepliesHaveValidHentry < Validator
 
     return false unless entry.respond_to? :in_reply_to
 
-    [::HasUinreplyto, ::HasUDateTimePublished, ::HasPcategory].each do |clazz|
+    [::HasUinreplyto, ::HasUDateTimePublished].each do |clazz|
       clazz.new.validate(entry)
+    end
+
+    if hentries.css('.p-category').any?
+      ::HasPcategory.new.validate(entry)
     end
 
     if hentries.css('.p-content').any?

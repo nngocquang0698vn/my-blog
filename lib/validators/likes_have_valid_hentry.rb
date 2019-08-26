@@ -8,8 +8,12 @@ class LikesHaveValidHentry < Validator
 
     return false unless entry.respond_to? :like_of
 
-    [::HasUlikeof, ::HasUDateTimePublished, ::HasPcategory].each do |clazz|
+    [::HasUlikeof, ::HasUDateTimePublished].each do |clazz|
       clazz.new.validate(entry)
+    end
+
+    if hentries.css('.p-category').any?
+      ::HasPcategory.new.validate(entry)
     end
 
     true

@@ -8,8 +8,12 @@ class RsvpsHaveValidHentry < Validator
 
     return false unless entry.respond_to?(:rsvp) && entry.respond_to?(:in_reply_to)
 
-    [::HasUinreplyto, ::HasPrsvp, ::HasUDateTimePublished, ::HasPcategory].each do |clazz|
+    [::HasUinreplyto, ::HasPrsvp, ::HasUDateTimePublished].each do |clazz|
       clazz.new.validate(entry)
+    end
+
+    if hentries.css('.p-category').any?
+      ::HasPcategory.new.validate(entry)
     end
 
     if hentries.css('.p-content').any?

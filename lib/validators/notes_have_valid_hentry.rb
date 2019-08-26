@@ -6,8 +6,12 @@ class NotesHaveValidHentry < Validator
     hentries = html.css('.h-entry')
 
     entry = Microformats.parse(hentries.to_s).entry
-    [::HasPcontent, ::HasUDateTimePublished, ::HasPcategory].each do |clazz|
+    [::HasPcontent, ::HasUDateTimePublished].each do |clazz|
       clazz.new.validate(entry)
+    end
+
+    if hentries.css('.p-category').any?
+      ::HasPcategory.new.validate(entry)
     end
 
     if hentries.css('.p-name').any?

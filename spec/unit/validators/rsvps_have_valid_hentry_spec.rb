@@ -48,6 +48,21 @@ describe 'RsvpsHaveValidHentry' do
       end
     end
 
+    context 'with no category' do
+      it 'does not throw errors' do
+        html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_category.html'))
+        sut = RsvpsHaveValidHentry.new
+
+        expect_any_instance_of(::HasPcategory).to_not receive(:validate)
+          .and_call_original
+
+        ret = sut.validate(html)
+
+        # no error
+        expect(ret).to eq true
+      end
+    end
+
     context 'if any check fails' do
       it 'throws the error' do
         html = Nokogiri::HTML(File.read('spec/fixtures/rsvp/without_content.html'))
