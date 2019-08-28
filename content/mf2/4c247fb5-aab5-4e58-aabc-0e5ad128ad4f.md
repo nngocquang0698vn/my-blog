@@ -29,5 +29,6 @@
   "tags": [
     "burnout",
     "self-care"
-  ]
+  ],
+  "kind": "bookmarks"
 }
