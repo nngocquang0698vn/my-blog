@@ -88,4 +88,15 @@ describe 'Mf2HasValidHentry' do
       expect(sut.issues.length).to eq 0
     end
   end
+
+  context 'which is an alias page' do
+    let(:html) { Nokogiri::HTML(File.read('spec/fixtures/post_hugo_alias.html')) }
+    let(:sut) { Mf2HasValidHentry.new('', './public/mf2/c0bb6cff-fc03-42d1-87d0-d817ad2f550f/index.html', html, {})}
+
+    it 'skips' do
+      expect(sut).to_not receive(:add_issue)
+
+      sut.run
+    end
+  end
 end
