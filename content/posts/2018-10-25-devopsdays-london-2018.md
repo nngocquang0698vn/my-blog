@@ -526,7 +526,7 @@ I want to say another huge thanks to the organisers, it was a really great coupl
 [overengineering-talk]: https://www.youtube.com/watch?v=DUdaRJU2B3A&index=8&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm
 [nexus-lifecycle]: https://www.sonatype.com/nexus-lifecycle
 [CLAIR]: https://github.com/coreos/clair
-[docker-hub-security-scans]: https://docs.docker.com/v17.12/docker-cloud/builds/image-scan/
+[docker-hub-security-scans]: https://blog.docker.com/2016/05/docker-security-scanning/
 [devops-days-well-architected-monoliths-are-okay]: https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/
 [vid-louise]: https://www.youtube.com/watch?v=F8_54_YrhPk&index=14&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm
 [hackference]: https://2018.hackference.co.uk/
