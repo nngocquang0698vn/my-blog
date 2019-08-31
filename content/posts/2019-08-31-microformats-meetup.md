@@ -43,7 +43,7 @@ However, there are a couple of caveats with using it, beware!
 
 I've not yet worked on handling / avoiding rate limiting, nor anything around caching data so I'm not hammering the API.
 
-It's still a little rough around the edges, and is still v0.1, but I hope to improve it over time. I'll likely convert it to an AWS Lambda so I can avoid having it running on some infrastructure, and I know <span class="h-card p-name"><a class="u-url" href="https://aaronparecki.com/">Aaron Parecki</a></span> [was interested in adding it to XRay](https://chat.indieweb.org/dev/2019-08-30/1567184835706900), as well as hopefully some other implementations available elsewhere.
+It's still a little rough around the edges, and is still v0.1, but I hope to improve it over time. I'll likely convert it to an AWS Lambda so I can avoid having it running on some infrastructure, and I know <span class="h-card"><a class="u-url" href="https://aaronparecki.com/">Aaron Parecki</a></span> [was interested in adding it to XRay](https://chat.indieweb.org/dev/2019-08-30/1567184835706900), as well as hopefully some other implementations available elsewhere.
 
 # Demo
 
