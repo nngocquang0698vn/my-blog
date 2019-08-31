@@ -45,6 +45,8 @@ I've not yet worked on handling / avoiding rate limiting, nor anything around ca
 
 It's still a little rough around the edges, and is still v0.1, but I hope to improve it over time. I'll likely convert it to an AWS Lambda so I can avoid having it running on some infrastructure, and I know <span class="h-card"><a class="u-url" href="https://aaronparecki.com/">Aaron Parecki</a></span> [was interested in adding it to XRay](https://chat.indieweb.org/dev/2019-08-30/1567184835706900), as well as hopefully some other implementations available elsewhere.
 
+As [Ryan Barrett noticed](https://snarfed.org/2019-08-31_introducing-a-microformats-api-for-meetup-com-meetup-mf2-jvt-me) the API only responds to requests on certain routes following the meetup's URL, as I've not yet created i.e. a landing page.
+
 # Demo
 
 Let's say that we want to get information about the event `https://www.meetup.com/PHPMiNDS-in-Nottingham/events/264008439/`. If we were to hit [the Meetup.com v3 events listing API](https://www.meetup.com/meetup_api/docs/:urlname/events/#list) and retrieve information about this event I would receive the following JSON response:
