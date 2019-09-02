@@ -44,6 +44,7 @@ paginate = 25
 [outputs]
 home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar"]
 section = ["HTML", "eventsCalendar"]
+page = ["HTML", "eventsCalendar"]
 
 [outputFormats]
 [outputFormats.RSS]
