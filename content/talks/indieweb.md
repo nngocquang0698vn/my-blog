@@ -5,6 +5,15 @@ type:
 - talk
 description:
   We strive for Free and Open Source software in the world, on mobile, desktop and server. But what about the Web? The IndieWeb is all about taking control, owning your data, and scratching your itches through Open Source and Standards. We're working to take back the Web, and you can, too.
+events:
+- name: PHPMiNDS
+  date: 2019-09-05
+  url: https://www.meetup.com/PHPMiNDS-in-Nottingham/events/264008439/
+  type: talk
+- name: OggCamp
+  date: 2019-10-19
+  url: https://www.oggcamp.com/
+  type: talk
 ---
 In today's age of the Web, we've resigned ourselves to using social Silos, such as Twitter, Facebook or Medium. Content we create on their platforms is owned by them, free for them to profit off it, and we can't move off the platforms because then all our followers would need to use a new platform.
 
