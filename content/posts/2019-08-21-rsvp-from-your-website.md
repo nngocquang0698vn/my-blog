@@ -6,6 +6,8 @@ tags:
 - indieweb
 - microformats
 - webmention
+- guide
+- howto
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-21T22:55:33+0100
