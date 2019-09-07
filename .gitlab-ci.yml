@@ -18,6 +18,11 @@ stages:
   - release
   - production
 
+cache:
+  key: "$CI_COMMIT_REF_SLUG"
+  paths:
+    - netlify.toml
+
 # Ensure that the site builds {{{
 build_site:
   services:
