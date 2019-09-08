@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-08T14:04:33+01:00
 slug: "spring-extract-multipart-request-parameters"
+image: /img/vendor/spring-logo.png
 ---
 While working on my [Micropub endpoint]({{< ref "2019-08-26-setting-up-micropub" >}}) I found that I needed to support `multipart/form-data` requests. Having never worked with them, there was a bit of a learning curve, especially around how to get the request parameters out of them (as I was not yet needing to support the media aspect of the request).
 
