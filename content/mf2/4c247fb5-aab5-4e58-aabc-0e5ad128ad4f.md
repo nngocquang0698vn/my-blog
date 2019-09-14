@@ -4,7 +4,7 @@
       "http://angersock.com/blog/2019/01/27/observations-on-burnout/"
     ],
     "bookmark-of": [
-      "http://angersock.com/blog/2019/01/27/observations-on-burnout/"
+      "https://web.archive.org/web/20190423185636/https://angersock.com/blog/2019/01/27/observations-on-burnout/"
     ],
     "content": [
       {
