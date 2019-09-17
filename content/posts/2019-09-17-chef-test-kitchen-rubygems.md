@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-17T13:33:14+01:00
 slug: "chef-test-kitchen-rubygems"
+image: /img/vendor/test-kitchen-logo.png
 ---
 If you work in an Enterprise, you likely have guidelines around where your dependencies can be stored. Alternatively, you may have proprietary dependencies that you want to store privately.
 

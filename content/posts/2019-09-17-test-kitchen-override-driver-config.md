@@ -8,6 +8,7 @@ license_code: GPL-3.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-17T13:32:26+01:00
 slug: "test-kitchen-override-driver-config"
+image: /img/vendor/test-kitchen-logo.png
 ---
 When working with [Test Kitchen](https://kitchen.ci), you have a couple of locations that you can set configuration.
 
