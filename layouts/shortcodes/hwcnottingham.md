@@ -1,0 +1,3 @@
+The Homebrew Website Club is a regular meeting for enthusiasts and hobbyist programmers who are building, or thinking of building, their personal websites. The meeting is an informal setting where you can talk with others, get inspiration, or quietly work on your site.
+
+Homebrew Website Clubs are run across the world and have a mixture of styles for how they operate. In Nottingham we like to have a bit of a relaxed session in the cafe portion of Ludorati. Folks come along for conversations about their websites, building tooling for the Web, to talk about some of the technologies they've been working on, to learn something new, or even just to have a couple of hours dedicated to adding that new bit of functionality or a new blog post.
