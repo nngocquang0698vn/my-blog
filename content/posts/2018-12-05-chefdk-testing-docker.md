@@ -176,3 +176,5 @@ $ docker run --rm -e no_proxy=169.254.169.254 -w=/cookbook -v $PWD/java:/cookboo
 ```
 
 Without this, you'll receive errors around not being able to access credentials.
+
+[kitchen-ec2]: https://github.com/test-kitchen/kitchen-ec2
