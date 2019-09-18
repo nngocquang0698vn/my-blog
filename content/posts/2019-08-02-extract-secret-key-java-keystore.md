@@ -1,5 +1,5 @@
 ---
-title: "Extract Secret Key Java Keystore"
+title: "Extract a Secret Key from a Java Keystore"
 description: "How to export a symmetric `SecretKey` entry from a Java keystore."
 tags:
 - blogumentation
