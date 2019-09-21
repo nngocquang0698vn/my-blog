@@ -5,6 +5,7 @@ class Mf2HasValidHentry < ::HTMLProofer::Check
   def run
     return unless /^\.\/public\/mf2\/\w{8}(-\w{4}){3}-\w{12}\/index\.html$/.match? @path
     return unless @html.xpath('//head/meta[@http-equiv="refresh"]').length.zero?
+    return if @html.css('.h-entry').length.zero?
 
     [
       BookmarksHaveValidHentry,
