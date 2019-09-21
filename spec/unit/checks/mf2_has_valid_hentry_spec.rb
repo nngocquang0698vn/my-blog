@@ -89,6 +89,22 @@ describe 'Mf2HasValidHentry' do
     end
   end
 
+  context 'when no `h-entry`' do
+    it 'skips' do
+      # given
+      html = Nokogiri::HTML(File.read('spec/fixtures/measure.html'))
+      sut = Mf2HasValidHentry.new('', valid_filename, html, {})
+
+      # when
+      sut.run
+
+      # then
+      expect(sut.issues.length).to eq 0
+    end
+
+    pending 'validates it'
+  end
+
   context 'which is an alias page' do
     let(:html) { Nokogiri::HTML(File.read('spec/fixtures/post_hugo_alias.html')) }
     let(:sut) { Mf2HasValidHentry.new('', './public/mf2/c0bb6cff-fc03-42d1-87d0-d817ad2f550f/index.html', html, {})}
