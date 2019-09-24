@@ -201,6 +201,20 @@ namespace :validate do
     end
     fail if report_errors(all_errors)
   end
+
+  desc 'Validate /mf2/ files are well-formed'
+  task :mf2 do
+    # Note that as these are published via Micropub, these should be valid before they get here
+    # However, we may want to perform extra validation, such as the below:
+    all_errors = {}
+    Dir.glob('content/mf2/*.md').each do |filename|
+      mf2 = JSON.parse(File.read(filename))
+      errors = []
+      errors << '$.date and $.properties.published[0] are not the same' unless mf2['date'] == mf2['properties']['published'][0]
+      all_errors[filename] = errors unless errors.length.zero?
+    end
+    fail if report_errors(all_errors)
+  end
 end
 
 desc 'Create Bit.ly short URLs for a given article URL'
@@ -244,6 +258,6 @@ task :new, [:title] do |_, args|
   end
 end
 
-task validate: ['validate:events', 'validate:posts']
+task validate: ['validate:events', 'validate:posts', 'validate:mf2']
 
 task default: ['validate', 'test']
