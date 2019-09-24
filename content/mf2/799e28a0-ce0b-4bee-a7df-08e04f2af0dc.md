@@ -7,7 +7,7 @@
       "https://www.meetup.com/Women-In-Tech-Nottingham/events/261461207/"
     ],
     "published": [
-      "2019-05-16 20:51:53+0100"
+      "2019-05-16T20:51:53+0100"
     ],
     "category": [
       "wit-notts"

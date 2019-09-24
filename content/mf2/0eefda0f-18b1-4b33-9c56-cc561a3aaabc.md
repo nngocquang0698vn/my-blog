@@ -7,7 +7,7 @@
       "https://codeshare.co.uk/blog/find-out-how-my-blog-reached-1-million-page-views/"
     ],
     "published": [
-      "2019-07-22 22:34:13+0100"
+      "2019-07-22T22:34:13+0100"
     ],
     "category": [
       "blogging"
