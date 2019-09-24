@@ -115,3 +115,5 @@ public class ClassThatLogsTest {
 ```
 
 Notice that when we are using a format string we have two checks on the log message - `getMessage` returns the raw message (including format placeholders), but `getFormattedMessage` returns the expanded log message.
+
+As <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span> pointed out, there is also the library [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/). I had originally not put this as the source repository does not seem to have a license - it appears the license is somewhere on the website, because I found [a Pull Request raised to add that the license to the repo](https://github.com/Mahoney/slf4j-test/pull/23). The project seems dormant as there have been no updates in over 4 years, and there are PRs open since 2016, so use at your own risk!
