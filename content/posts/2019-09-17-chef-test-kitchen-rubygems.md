@@ -21,5 +21,5 @@ To resolve this, update your `$HOME/.kitchen/config.yml` or your `.kitchen.yml` 
  provisioner:
    name: chef_zero
 +  client_rb:
-+    rubygems_url 'https://private.rubygems-repo.com/something/gems'
++    rubygems_url: 'https://private.rubygems-repo.com/something/gems'
 ```
