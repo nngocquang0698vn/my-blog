@@ -58,7 +58,7 @@ If all the content can be licensed under a single license, adding the `h-license
 ```html
 <article class="h-entry">
   <p class="p-content">This is the post's content</p>
-  <aside class="h-license">
+  <aside class="h-license p-license">
     <p>This post is licensed under a
       <a class="u-url" href="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
         <data class="p-name" value="CC-BY-NC-SA-4">Creative Commons Attribution Non
@@ -78,7 +78,7 @@ Now, let's say that we want to license written content in a specific way, we cou
 ```html
 <article class="h-entry">
   <p class="p-content">This is the post's content</p>
-  <aside class="h-license" role="prose">
+  <aside class="h-license p-license" role="prose">
     <p>This post's written content is licensed under a
       <a class="u-url" href="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
         <data class="p-name" value="CC-BY-NC-SA-4">Creative Commons Attribution Non Commercial Share Alike 4.0 International</span> license
@@ -95,7 +95,7 @@ If we want to license written code in a specific way, we could utilise the `role
 ```html
 <article class="h-entry">
   <code>print("hello")</code>
-  <aside class="h-license" role="code">
+  <aside class="h-license p-license" role="code">
     <p>This post's code is licensed under the
       <a class="u-url" href="https://www.apache.org/licenses/LICENSE-2.0">
         <data class="p-name" value="Apache-2.0">Apache License 2.0</span>
@@ -112,7 +112,7 @@ If we want to license media in a specific way, we could utilise the `role` tag f
 ```html
 <article class="h-entry">
   <code>print("hello")</code>
-  <aside class="h-license" role="media">
+  <aside class="h-license p-license" role="media">
     <p>This post's media is licensed under the
       <a class="u-url" href="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
         <data class="p-name" value="CC-BY-NC-SA-4">Creative Commons Attribution Non Commercial Share Alike 4.0 International</span> license
@@ -151,14 +151,14 @@ We could do this with multiple `h-license`s, each with a different `role`:
     require 'JSON'
     puts JSON.parse('{"a": 1}');
     </pre>
-    <aside class="h-license" role="prose">
+    <aside class="h-license p-license" role="prose">
       <p>This post's written content is licensed under a
         <a class="u-url" href="http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
           <data class="p-name" value="CC-BY-NC-SA-4">Creative Commons Attribution Non Commercial Share Alike 4.0 International</span> license
         </a>.
       </p>
     </aside>
-    <aside class="h-license" role="code">
+    <aside class="h-license p-license" role="code">
       <p>This post's code is licensed under the
         <a class="u-url" href="https://www.apache.org/licenses/LICENSE-2.0">
           <data class="p-name" value="Apache-2.0">Apache License 2.0</span>
