@@ -1,0 +1,4 @@
+---
+cascade:
+  kind: articles
+---

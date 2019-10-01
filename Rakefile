@@ -182,6 +182,7 @@ namespace :validate do
     validator = Kwalify::Validator.new(schema)
     all_errors = {}
     Dir.glob('content/posts/*').each do |filename|
+      next if 'content/posts/_index.md' == filename
       document = YAML.load_file(filename)
       errors = validator.validate(document)
       all_errors[filename] = errors unless errors.length.zero?
