@@ -22,11 +22,13 @@ However, even when I adopted the pattern, I didn't like it - it means having num
 
 I've since moved to the approach, stolen from the [line cookbook], where I can have a "fake" cookbook purely for the sake of tests. This would mean I'd have an associated fake test cookbook called `spectat_site` which has recipes for different aspects of testing the resource. This simplifies the logic within the resource-testing recipes, and makes intentions clearer to the reader.
 
+Note that _you do not_ need to have the fake cookbook named the same as the resource, I've used it in this example because, in my opinion, it makes it easier to see what the recipes are used for, but is up to you.
+
 This fake cookbook sits in the `spec/fixtures/cookbooks` folder, with the same name as the resource it's testing:
 
 ```ruby
 # spec/fixtures/cookbooks/spectat_site/metadata.rb
-cookbook 'spectat_site'
+name 'spectat_site'
 depends 'spectat'
 ```
 
