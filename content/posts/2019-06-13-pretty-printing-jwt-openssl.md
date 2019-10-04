@@ -39,7 +39,7 @@ function jwt() {
     elif [[ 3 -eq n ]]; then
       b64="${b64}="
     fi
-    openssl enc -base64 -d <<< "$b64"
+    openssl enc -base64 -d -A <<< "$b64"
     echo
   done
 }
@@ -65,7 +65,7 @@ function jwt() {
     elif [[ 3 -eq n ]]; then
       b64="${b64}="
     fi
-    openssl enc -base64 -d <<< "$b64" | python -mjson.tool
+    openssl enc -base64 -d -A <<< "$b64" | python -mjson.tool
   done
 }
 ```
