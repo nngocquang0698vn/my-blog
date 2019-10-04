@@ -26,7 +26,7 @@ This fake cookbook sits in the `spec/fixtures/cookbooks` folder, with the same n
 
 ```ruby
 # spec/fixtures/cookbooks/spectat_site/metadata.rb
-cookbook 'spectat_site'
+name 'spectat_site'
 depends 'spectat'
 ```
 
