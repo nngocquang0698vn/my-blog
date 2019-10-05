@@ -209,7 +209,7 @@ However, I'd been making a fair bit of progress, although it's still a bit of a 
 
 One thing that was clear at the beginning was that we had a few folks who weren't as familiar with a lot of the terminology and technologies within the IndieWeb, and at this point I feel that I should've volunteered to run a "getting started" session, which I could've used my [IndieWeb talk](/talks/indieweb/) that I am presenting at OggCamp in October. It could've been a good second run-through, as well as helping the new folks.
 
-It may be worth, in the future, having an explicit "IndieWeb for beginners" track to go through some of the common things and help give a bit more of a **standing** before getting stuck into the sessions.
+It may be worth, in the future, having an explicit "IndieWeb for beginners" track to go through some of the common things and help give a bit more understanding before getting stuck into the sessions.
 
 ## Etherpad
 
