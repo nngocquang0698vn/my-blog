@@ -14,7 +14,7 @@ syndication:
   url: https://news.indieweb.org/en
 - text: /en/html
   url: https://indieweb.xyz/en/html
-- text: 'Lobsers'
+- text: 'Lobsters'
   url: https://lobste.rs
 ---
 If you usually reach for JavaScript when trying to create show/hide toggle on elements, this post is for you.
