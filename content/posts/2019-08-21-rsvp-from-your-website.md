@@ -20,7 +20,7 @@ syndication:
   url: https://indieweb.xyz/en/indieweb
 - text: 'Hacker News'
   url: https://news.ycombinator.com
-- text: 'Lobsers'
+- text: 'Lobsters'
   url: https://lobste.rs
 - text: '@JamieTanna on Twitter'
   url: https://twitter.com/jamietanna

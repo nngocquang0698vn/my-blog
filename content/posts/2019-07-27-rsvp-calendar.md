@@ -15,7 +15,7 @@ syndication:
   url: https://news.indieweb.org/en
 - text: /en/indieweb
   url: https://indieweb.xyz/en/indieweb
-- text: 'Lobsers'
+- text: 'Lobsters'
   url: https://lobste.rs
 - text: '@JamieTanna on Twitter'
   url: https://twitter.com/jamietanna

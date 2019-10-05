@@ -19,6 +19,8 @@ syndication:
   url: https://news.indieweb.org/en
 - text: /en/indieweb
   url: https://indieweb.xyz/en/indieweb
+- text: 'Lobsters'
+  url: https://lobste.rs
 ---
 I've had a great couple of days at [IndieWebCamp Amsterdam](https://indieweb.org/2019/Amsterdam). It was my first IndieWebCamp, and it was a great in-person introduction to the wider IndieWeb community, although I've been active on Chat for some time!
 
