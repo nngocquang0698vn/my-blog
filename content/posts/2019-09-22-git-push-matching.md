@@ -40,3 +40,5 @@ This can be added on a per-repo basis by running the below command, if you don't
 ```sh
 git config push.default current
 ```
+
+Note that by running `git push -u`, Git will push to the matching current branch, and set your local branch configuration to track against the upstream, so your `git status` will show details like how many commits are different between the two - super useful!
