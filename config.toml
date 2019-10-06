@@ -22,6 +22,7 @@ paginate = 25
   liveSiteUrl = "https://www.jvt.me"
   image = "/img/profile.png"
   WebMentionDomain = "www.jvt.me"
+  MaxWebmentions = "100"
   AuthorizationEndpoint = "https://indieauth.com/auth"
   TokenEndpoint = "https://tokens.indieauth.com/token"
   MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
