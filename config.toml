@@ -43,9 +43,13 @@ paginate = 25
   tag = "tags"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar"]
+home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir"]
 section = ["HTML", "eventsCalendar"]
 page = ["HTML", "eventsCalendar"]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+delimiter = ""
 
 [outputFormats]
 [outputFormats.RSS]
@@ -63,6 +67,11 @@ baseName = "index"
 [outputFormats.rsvpCalendar]
 mediaType = "text/calendar"
 baseName = "/rsvps/index"
+[outputFormats.redir]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
 
 [blackfriday]
   # disable stupid "smart" quotes
