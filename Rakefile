@@ -51,7 +51,8 @@ namespace :test do
         /graphql.org/,
         /joind.in/,
         /meetup.com/,
-        /www-api.jvt.me/
+        /www-api.jvt.me/,
+        /haveibeenpwned.com/,
       ]
     }
     HTMLProofer.check_directory('./public', options).run
