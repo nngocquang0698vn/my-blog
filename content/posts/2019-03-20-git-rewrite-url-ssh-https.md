@@ -36,6 +36,14 @@ git config url.ssh://git@github.com/.insteadOf https://github.com/
 git config url.ssh://git@gitlab.com/.insteadOf https://gitlab.com/
 ```
 
+**NOTE** This may not work out-of-the-box as you may have a slightly different Git URL, so may want to try one of the following:
+
+```sh
+git config url.git@github.com/.insteadOf https://github.com/
+git config url.git@github.com:.insteadOf https://github.com/
+git config url.ssh://git@github.com:.insteadOf https://github.com/
+```
+
 This then instructs Git to rewrite your URLs as necessary when pulling/pushing from your repos - awesome!
 
 However, this may not be exactly what you want, as you may only want to push over SSH, but pull over HTTPS. Fortunately Git also provides the ability to use `pushInsteadOf` for this, configured as such:
