@@ -148,19 +148,9 @@ namespace :test do
 
   desc 'Verify permalinks are not broken'
   task permalinks: ['permalinks:rss', 'permalinks:sitemap']
-
-
-  desc 'Ensure that theme is pointing to origin/fork not a branch'
-  task :theme_branch do
-    Dir.chdir('themes/tale-hugo') do
-      commit = `git rev-parse HEAD`.chomp
-      contains = `git branch fork --contains #{commit}`
-      raise "branch `fork` does not contain commit #{commit}" if contains.length.zero?
-    end
-  end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:git_casing', 'test:theme_branch']
+task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:git_casing']
 
 namespace :list do
   desc 'List all tags in the site'
