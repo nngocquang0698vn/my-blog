@@ -1,6 +1,6 @@
 ---
 title: "Listing the Contents of a Java Truststore"
-description: "How to extract a list of trusted of certificates from a Java Trust store."
+description: "How to extract a list of trusted certificates from a Java Trust store."
 tags:
 - blogumentation
 - java
