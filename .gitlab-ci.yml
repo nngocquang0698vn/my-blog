@@ -3,9 +3,6 @@ image: docker:latest
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
   CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:$CI_COMMIT_REF_SLUG
-  CONTAINER_TEST_IMAGE: $CONTAINER_IMAGE_BASE_URL/test:$CI_COMMIT_REF_SLUG
-  CONTAINER_DEPLOY_IMAGE: $CONTAINER_IMAGE_BASE_URL/deploy:$CI_COMMIT_REF_SLUG
-  RELEASE_CONTAINER_BUILT_IMAGE: $CONTAINER_IMAGE_BASE_URL:latest
   DOCKER_DRIVER: overlay
   URL_PRODUCTION: https://www.jvt.me
   URL_REVIEW_SUFFIX: www.review.jvt.me
@@ -14,8 +11,6 @@ variables:
 stages:
   - build
   - review
-  - test
-  - release
   - production
 
 cache:
@@ -34,83 +29,22 @@ build_site:
     - docker build -t $CONTAINER_BUILT_IMAGE .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
-# }}}
 
-build_test_image:
-  services:
-    - docker:dind
+theme_branch:
+  image: alpine:latest
   stage: build
   script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_TEST_IMAGE || true
-    - docker build --cache-from $CONTAINER_TEST_IMAGE -t $CONTAINER_TEST_IMAGE -f Dockerfile.test .
-    - docker push $CONTAINER_TEST_IMAGE
-
-# Build the deploy image {{{
-build_deploy_image:
-  services:
-    - docker:dind
-  stage: build
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker build -t $CONTAINER_DEPLOY_IMAGE -f Dockerfile.deploy .
-    - docker push $CONTAINER_DEPLOY_IMAGE
-  only:
-    - branches
-  except:
-    - master
+    - apk add --update git ruby
+    - ruby .ci/theme-branch.rb
 # }}}
-
-# Ensure that all tests pass {{{
-test_image:
-  services:
-    - docker:dind
-  stage: test
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_TEST_IMAGE
-    # Ensure collections are formed correctly {{{
-    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake validate
-    # }}}
-
-    # Get the generated site content {{{
-    - docker pull $CONTAINER_BUILT_IMAGE
-    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
-    - docker cp $container_id:/site public
-    - docker rm $container_id
-    # }}}
-
-    # Ensure the generated site is correct {{{
-    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake test
-    # }}}
-# }}}
-
-test_links:
-  services:
-    - docker:dind
-  stage: test
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull $CONTAINER_TEST_IMAGE
-    # Get the generated site content {{{
-    - docker pull $CONTAINER_BUILT_IMAGE
-    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
-    - docker cp $container_id:/site public
-    - docker rm $container_id
-    # }}}
-
-    # Ensure the links resolve {{{
-    - docker run -v $(readlink -f .):/app $CONTAINER_TEST_IMAGE bundle exec rake test:links
-    # }}}
-  allow_failure: true
 
 # Review Apps {{{
 review_deploy:
-  image: $CONTAINER_DEPLOY_IMAGE
+  image: ruby:2.5-alpine
   stage: review
   script:
-    # ensure we're in the directory with our capistrano configuration
-    - cd /site
+    - apk --update add git openssh-client
+    - bundle install --without build test
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
@@ -125,17 +59,15 @@ review_deploy:
     on_stop: review_stop
   only:
     - branches
-  variables:
-    GIT_STRATEGY: none
   except:
     - master
 
 review_stop:
-  image: $CONTAINER_DEPLOY_IMAGE
+  image: ruby:2.5-alpine
   stage: review
   script:
-    # ensure we're in the directory with our capistrano configuration
-    - cd /site
+    - apk --update add git openssh-client
+    - bundle install --without build test
     # ensure that deployments can use the SSH key that is passed in via the
     # environment variables. Via https://docs.gitlab.com/ce/ci/ssh_keys/README.html
     - eval $(ssh-agent -s)
@@ -147,28 +79,10 @@ review_stop:
   environment:
     name: review/$CI_COMMIT_REF_SLUG
     action: stop
-  variables:
-    GIT_STRATEGY: none
   when: manual
   only:
     - branches
   except:
-    - master
-# }}}
-
-# Push the image up to the registry as our latest image, on master {{{
-release_built_image:
-  services:
-    - docker:dind
-  stage: release
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker pull "$CONTAINER_BUILT_IMAGE"
-    - docker tag "$CONTAINER_BUILT_IMAGE" "$RELEASE_CONTAINER_BUILT_IMAGE"
-    - docker push "$RELEASE_CONTAINER_BUILT_IMAGE"
-  variables:
-    GIT_STRATEGY: none
-  only:
     - master
 # }}}
 
