@@ -5,7 +5,7 @@ RUN apk --update add git tzdata && \
 ENV HUGO_DESTINATION /public
 WORKDIR /site
 COPY ./ /site
-RUN hugo --destination=/public --verbose --enableGitInfo
+RUN hugo --destination=/public --verbose
 
 FROM ruby:2.5-alpine
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
