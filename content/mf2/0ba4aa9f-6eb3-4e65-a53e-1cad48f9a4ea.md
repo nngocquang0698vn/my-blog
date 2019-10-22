@@ -19,5 +19,9 @@
   "client_id": "https://www-api.jvt.me/fit",
   "date": "2018-08-19T00:00:00Z",
   "kind": "steps",
-  "h": "h-measure"
+  "h": "h-measure",
+  "slug": "2018/08/uRGLl",
+  "aliases": [
+    "/mf2/0ba4aa9f-6eb3-4e65-a53e-1cad48f9a4ea/"
+  ]
 }

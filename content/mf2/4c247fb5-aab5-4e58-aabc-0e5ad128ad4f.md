@@ -30,5 +30,6 @@
     "burnout",
     "self-care"
   ],
-  "kind": "bookmarks"
+  "kind": "bookmarks",
+  "slug": "2019/05/DUj5P"
 }
