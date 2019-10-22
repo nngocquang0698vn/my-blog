@@ -36,6 +36,8 @@ We don't care about looking at the signature, only the header and payload.
 
 As per [Pretty Printing JSON with Ruby on the CLI], we can take the core of the commandline to perform the pretty printing of `ARGF`, but have two choices as to how to proceed:
 
+We can also use [`Kernel.jj` as a shorter way to pretty-print an object as JSON]({{< ref 2019-03-29-pretty-printing-json-ruby >}}).
+
 # Using Ruby's Standard Library
 
 For a purely dependency-less method to decode our JWT, we can use Ruby's built in libraries to decode and pretty-print the result. Because JWTs are Base64 and URL encoded, we need to correctly decode the JWT fields.
@@ -53,7 +55,7 @@ jwt.split('.')[0,2].each_with_index do |f, i|
   # read the resulting string as a Ruby hash
   json = JSON.parse(decoded)
   # output a pretty-printed JSON object
-  puts JSON.pretty_generate(json)
+  jj json
   # don't decode further if this is an encrypted JWT (JWE)
   break if i.zero? && json.key?('enc')
 end
@@ -62,8 +64,8 @@ end
 Which we can turn into a barely-readable oneliner:
 
 ```bash
-ruby -rjson -rbase64 -e "ARGF.read.split('.')[0,2].each_with_index { |f, i| j = JSON.parse(Base64.urlsafe_decode64(f)); puts JSON.pretty_generate(j); break if i.zero? && j.key?('enc')}" example.jwt
-ruby -rjson -rbase64 -e "ARGF.read.split('.')[0,2].each_with_index { |f, i| j = JSON.parse(Base64.urlsafe_decode64(f)); puts JSON.pretty_generate(j); break if i.zero? && j.key?('enc')}" example.jwe
+ruby -rjson -rbase64 -e "ARGF.read.split('.')[0,2].each_with_index { |f, i| j = JSON.parse(Base64.urlsafe_decode64(f)); jj j; break if i.zero? && j.key?('enc')}" example.jwt
+ruby -rjson -rbase64 -e "ARGF.read.split('.')[0,2].each_with_index { |f, i| j = JSON.parse(Base64.urlsafe_decode64(f)); jj j; break if i.zero? && j.key?('enc')}" example.jwe
 ```
 
 You can see the asciicast in action:
@@ -93,14 +95,12 @@ end
 This can be converted to another nasty one-liner:
 
 ```bash
-ruby -rjson -rjwt -e "JWT.decode(ARGF.read, nil, false).reverse.each { |j| puts JSON.pretty_generate j }" example.jwt
+ruby -rjson -rjwt -e "JWT.decode(ARGF.read, nil, false).reverse.each { |j| jj j }" example.jwt
 ```
 
 You can see the asciicast in action:
 
 <asciinema-player src="/casts/pretty-printing-jwt-ruby-rubyjwt-library.json"></asciinema-player>
-
-Note: You can use [`Kernel.jj` as a shorter way to pretty-print an object as JSON]({{< ref 2019-03-29-pretty-printing-json-ruby >}}).
 
 [JWT.io]: https://jwt.io
 [Pretty Printing JSON with Ruby on the CLI]: {{< ref 2017-06-05-pretty-printing-json-cli >}}
