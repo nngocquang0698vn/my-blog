@@ -247,7 +247,7 @@ For those of you that can't render this in your mind, it could render something 
 
 <span>
   <a href="https://www.jvt.me">
-    <img style="height: 32px; width: 32px; margin: 0; display: inline-block" src="/img/profile.png" alt=""/>
+    <img style="height: 32px; width: 32px; margin: 0; display: inline-block" src="/img/profile.png" alt="Jamie Tanna's profile image"/>
     Jamie Tanna
   </a>
 </span>:

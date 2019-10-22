@@ -53,7 +53,8 @@ namespace :test do
         /meetup.com/,
         /www-api.jvt.me/,
         /haveibeenpwned.com/,
-      ]
+      ],
+      checks_to_ignore: %w(ImageCheck ScriptCheck),
     }
     HTMLProofer.check_directory('./public', options).run
   end
@@ -63,7 +64,6 @@ namespace :test do
     require_relative 'lib/checks'
     options = {
       disable_external: true,
-      checks_to_ignore: %w(ImageCheck ScriptCheck),
     }
     HTMLProofer.check_directory('./public', options).run
   end
