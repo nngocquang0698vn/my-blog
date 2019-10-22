@@ -22,5 +22,6 @@
     "blogging"
   ],
   "date": "2019-07-22T22:34:13+0100",
-  "kind": "likes"
+  "kind": "likes",
+  "slug": "2019/07/nQFCy"
 }

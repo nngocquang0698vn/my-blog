@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe 'Mf2HasValidHentry' do
-  let(:valid_filename) { './public/mf2/c0bb6cff-fc03-42d1-87d0-d817ad2f550f/index.html' }
+  let(:valid_filename) { './public/mf2/2019/10/abcd1234/index.html' }
 
   validators = [
     BookmarksHaveValidHentry,
@@ -79,7 +79,7 @@ describe 'Mf2HasValidHentry' do
     it 'skips' do
       # given
       html = Nokogiri::HTML(File.read('spec/fixtures/like/valid.html'))
-      sut = Mf2HasValidHentry.new('', './public/mf3/c0bb6cff-fc03-42d1-87d0-d817ad2f550f/index.html' , html, {})
+      sut = Mf2HasValidHentry.new('', './public/mf3/2019/10/abcfe_/index.html' , html, {})
 
       # when
       sut.run

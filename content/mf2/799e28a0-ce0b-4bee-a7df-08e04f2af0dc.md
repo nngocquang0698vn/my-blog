@@ -47,5 +47,6 @@
   "tags": [
     "wit-notts"
   ],
-  "kind": "rsvps"
+  "kind": "rsvps",
+  "slug": "2019/05/AkAgA"
 }

@@ -32,7 +32,7 @@ paginate = 25
 [permalinks]
   categories = "/categories/:title/"
   events = "/:sections/:slug/"
-  mf2 = "/mf2/:filename/"
+  mf2 = "/mf2/:slug/"
   posts = "/posts/:year/:month/:day/:slug/"
   tags = "/tags/:title/"
   kinds = "/kind/:title/"
