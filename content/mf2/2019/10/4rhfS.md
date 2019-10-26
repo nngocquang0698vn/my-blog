@@ -7,6 +7,8 @@
   "properties" : {
     "name" : [ "Integrated Tests Are A Scam" ],
     "bookmark-of" : [ "https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam" ],
-    "published" : [ "2019-10-26T15:34:05.89+02:00" ]
-  }
+    "published" : [ "2019-10-26T15:34:05.89+02:00" ],
+    "category" : ["testing"]
+  },
+  "tags" : ["testing"]
 }
