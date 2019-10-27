@@ -22,7 +22,7 @@ syndication:
 - text: '@JamieTanna on Twitter'
   url: https://twitter.com/jamietanna
 ---
-The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://orggcam.com).
+The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://oggcamp.com).
 
 I've taken the advice given out in [_DDD East Midlands: Speaker Workshop_]({{< ref "2019-07-01-dddem-speaker-workshop" >}}) and decided to write out a transcript of the talk, as a way to drive out the talk's content, as well as give me a good blog post, too! What follows is fairly similar to the words I said live on stage, but includes a bit more detail that I'd not gone into or was a bit rushed to say!
 
