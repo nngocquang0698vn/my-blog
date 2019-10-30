@@ -73,6 +73,6 @@ And because it's not been things that I'm as comfortable using, it's taken a lit
 
 Although this implementation is live, it's not quite ready yet to be marked as "done".
 
-This code is currently still sitting on a branch as I want to clean up the Git history and implement a few error handling scenarios before it's ready to merge. Once this is in, I'll also look to publish the repo for `www-api.jvt.me` as Free Software (licensed under [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.en.html)), if anyone can take anything helpful from it.
+**Update**: The source code can be found at [<i class="fa fa-gitlab"></i> jamietanna/www-api](https://gitlab.com/jamietanna/www-api/tree/master/www-api-web/micropub), and is licensed under [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 In the time that I've been finally getting this working, as well as looking at the restructure of my site, I've decided not to write any Indie post content. However, that means I've now got a tonne of content to backfill - oops! Expect to see a fair bit appearing in feeds over the next few days.
