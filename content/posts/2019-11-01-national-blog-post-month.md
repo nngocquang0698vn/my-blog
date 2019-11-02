@@ -26,3 +26,5 @@ When saying I was going to participate, my friend <span class="h-card"><a class=
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this will be different?</p>&mdash; Andrew Seward (@MrAndrew) <a href="https://twitter.com/MrAndrew/status/1190193720026652672?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote>
 
 I get it, I blog a lot 😅 Expect to see lots of smaller chunks of content over the month (tagged under [nablopomo](/tags/nablopomo)), and I hope I'll be able to keep up with it.
+
+<span class="h-card"><a class="u-url" href="https://gregorlove.com">Gregor Morrill</a></span> has got a bit more info about it on [his own blog post about NaBloPoMo](https://gregorlove.com/2019/11/oh-its-november/) if you want a bit more info on it.
