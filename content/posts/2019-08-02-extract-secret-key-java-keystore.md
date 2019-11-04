@@ -57,7 +57,7 @@ public class OutputSecretKey {
 This can then be run as follows:
 
 ```
-$ java OutputSecretKey.java
+$ javac OutputSecretKey.java
 $ java OutputSecretKey keystore.jceks alias thisisthekeystorepass thekeyhasthispassword
 supersecretpassword
 ```
