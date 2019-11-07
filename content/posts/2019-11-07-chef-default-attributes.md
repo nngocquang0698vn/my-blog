@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-07T18:49:56+0000
 slug: "chef-default-attributes"
+image: /img/vendor/chef-logo.png
 ---
 I've written a fair bit in the past about how I work with Chef as a configuration management tool a lot every day.
 
