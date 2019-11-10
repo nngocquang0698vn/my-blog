@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2018/05/BI61l",
   "aliases": [
-    "/mf2/a94fafdb-bb43-464a-b7cb-34baf856ee59/"
+    "/mf2/a94fafdb-bb43-464a-b7cb-34baf856ee59/",
+    "/mf2/2018/05/bi61l"
   ]
 }

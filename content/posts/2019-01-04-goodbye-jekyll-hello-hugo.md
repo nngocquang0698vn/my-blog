@@ -10,6 +10,7 @@ date: 2019-01-04T19:44:53+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 image: /img/vendor/hugo-logo.png
+slug: "goodbye-jekyll-hello-hugo"
 ---
 Those who will know me or know my site will know I'm a huge fan of Jekyll. I've been using it since this site began in this form in December 2015, and it's been a very trusty tool in the ease of publishing content to the Web.
 

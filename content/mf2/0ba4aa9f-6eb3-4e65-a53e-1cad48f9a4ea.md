@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2018/08/uRGLl",
   "aliases": [
-    "/mf2/0ba4aa9f-6eb3-4e65-a53e-1cad48f9a4ea/"
+    "/mf2/0ba4aa9f-6eb3-4e65-a53e-1cad48f9a4ea/",
+    "/mf2/2018/08/urgll"
   ]
 }

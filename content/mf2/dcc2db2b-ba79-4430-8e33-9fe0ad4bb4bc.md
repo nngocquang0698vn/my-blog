@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2017/05/sRcEN",
   "aliases": [
-    "/mf2/dcc2db2b-ba79-4430-8e33-9fe0ad4bb4bc/"
+    "/mf2/dcc2db2b-ba79-4430-8e33-9fe0ad4bb4bc/",
+    "/mf2/2017/05/srcen"
   ]
 }

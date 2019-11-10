@@ -22,6 +22,7 @@
   },
   "slug": "2019/10/VcHpe",
   "aliases": [
-    "/mf2/48b4bcd2-2a7f-418d-aed4-5ca7a7cccf30/"
+    "/mf2/48b4bcd2-2a7f-418d-aed4-5ca7a7cccf30/",
+    "/mf2/2019/10/vchpe"
   ]
 }

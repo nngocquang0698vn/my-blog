@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2017/05/oxFQA",
   "aliases": [
-    "/mf2/fb4baf98-c26b-497f-a67a-b0fafd2c128b/"
+    "/mf2/fb4baf98-c26b-497f-a67a-b0fafd2c128b/",
+    "/mf2/2017/05/oxfqa"
   ]
 }

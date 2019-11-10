@@ -15,6 +15,7 @@
   },
   "slug": "2019/08/WGOYU",
   "aliases": [
-    "/mf2/b4bb836f-0b08-4d4e-bf3d-ffe01bbfc68a/"
+    "/mf2/b4bb836f-0b08-4d4e-bf3d-ffe01bbfc68a/",
+    "/mf2/2019/08/wgoyu"
   ]
 }

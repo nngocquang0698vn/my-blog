@@ -44,6 +44,7 @@
   },
   "slug": "2016/07/tYWdI",
   "aliases": [
-    "/mf2/1afb4712-bf75-43ff-9cbb-6a4acbb4fb17/"
+    "/mf2/1afb4712-bf75-43ff-9cbb-6a4acbb4fb17/",
+    "/mf2/2016/07/tywdi"
   ]
 }
