@@ -3,8 +3,8 @@ title:  Open S-awesome
 description: A month of giving back, and a very honest post-mortem of what I learned.
 tags:
 - retrospective
-- opensource
-- freesoftware
+- open-source
+- free-software
 - community
 date: 2017-02-07T19:49:30+00:00
 license_prose: CC-BY-NC-SA-4.0

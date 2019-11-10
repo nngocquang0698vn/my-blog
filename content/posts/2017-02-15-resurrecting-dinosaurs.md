@@ -4,7 +4,7 @@ description: "How containerised apps (AppImage, Snappy and Flatpak) could eat ou
 tags:
 - events
 - fosdem
-- opensource
+- open-source
 - containers
 - docker
 - flatpak
