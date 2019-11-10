@@ -33,4 +33,6 @@ And that's it!
 
 To make this work with my site I've also updated all URLs on existing /mf2/ content to redirect the lowercase URLs to the original ones, so any permalinks will remain valid.
 
+**NOTE**: This unfortunately did _not_ work well, as [Netlify has decided to only serve files from lowercase paths](https://community.netlify.com/t/my-url-paths-are-forced-into-lowercase/1659/2), which is not very clear. I'll be having to treat all paths as lowercase, and redirect them from uppercase, so it will effectively mean I have lost the randomness afforded by using case-sensitive strings - not cool!
+
 This was tested with Hugo version `v0.58.3/extended`.
