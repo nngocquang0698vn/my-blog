@@ -44,6 +44,7 @@
   },
   "slug": "2019/01/aTMPR",
   "aliases": [
-    "/mf2/2b0fedcc-06c4-45fa-b5f5-bf9bb16e956b/"
+    "/mf2/2b0fedcc-06c4-45fa-b5f5-bf9bb16e956b/",
+    "/mf2/2019/01/atmpr"
   ]
 }

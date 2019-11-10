@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2018/05/dUJor",
   "aliases": [
-    "/mf2/36e0d062-6ffe-4aeb-85bd-fceec2f0ecbd/"
+    "/mf2/36e0d062-6ffe-4aeb-85bd-fceec2f0ecbd/",
+    "/mf2/2018/05/dujor"
   ]
 }

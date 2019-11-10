@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2019/09/sQFF7",
   "aliases": [
-    "/mf2/daffc30b-2d7c-4fab-8fdd-0ac7ee15e870/"
+    "/mf2/daffc30b-2d7c-4fab-8fdd-0ac7ee15e870/",
+    "/mf2/2019/09/sqff7"
   ]
 }

@@ -22,6 +22,7 @@
   "h": "h-measure",
   "slug": "2018/03/BQVe6",
   "aliases": [
-    "/mf2/8a59f6bc-3c3a-4bec-aacc-b5100f6b7fef/"
+    "/mf2/8a59f6bc-3c3a-4bec-aacc-b5100f6b7fef/",
+    "/mf2/2018/03/bqve6"
   ]
 }

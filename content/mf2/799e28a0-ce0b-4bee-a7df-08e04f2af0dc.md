@@ -40,7 +40,8 @@
   },
   "aliases": [
     "/rsvps/799e28a0-ce0b-4bee-a7df-08e04f2af0dc/",
-    "/mf2/799e28a0-ce0b-4bee-a7df-08e04f2af0dc/"
+    "/mf2/799e28a0-ce0b-4bee-a7df-08e04f2af0dc/",
+    "/mf2/2019/05/akaga"
   ],
   "h": "h-entry",
   "date": "2019-05-16T20:51:53+0100",
