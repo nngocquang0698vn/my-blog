@@ -3,7 +3,7 @@ title: '.NET Notts May: Software Quality in the DevOps World'
 description: A writeup of Matteo's talk at .NET Notts about Software Quality and DevOps.
 tags:
 - events
-- dotnet-notts
+- dotnetnotts
 - software-quality
 date: 2019-05-22T20:24:48+0100
 license_prose: CC-BY-NC-SA-4.0

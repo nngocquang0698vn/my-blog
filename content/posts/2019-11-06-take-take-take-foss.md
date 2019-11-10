@@ -4,7 +4,7 @@ description: "Thinking about how I should be contributing back to the projects I
 tags:
 - personal
 - free-software
-- opensource
+- open-source
 - open-source
 - licensing
 - nablopomo

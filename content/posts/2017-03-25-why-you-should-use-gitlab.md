@@ -3,7 +3,7 @@ title: Why You Should Use GitLab.com
 description: A discussion about the reasons that I would greatly recommend the GitLab.com platform for all your Git hosting, opposed to its competitors.
 tags:
 - gitlab
-- opensource
+- open-source
 - persuasive
 image: /img/vendor/gitlab-wordmark.png
 date: 2017-03-25T10:51:09+01:00

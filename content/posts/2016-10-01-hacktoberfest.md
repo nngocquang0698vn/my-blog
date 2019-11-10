@@ -4,8 +4,8 @@ description: A few words about my excitement for the start of Hacktoberfest, and
 tags:
 - guide
 - hacktoberfest
-- opensource
-- freesoftware
+- open-source
+- free-software
 - community
 date: 2016-10-01T10:50:43+01:00
 license_prose: CC-BY-NC-SA-4.0
