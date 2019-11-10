@@ -23,7 +23,8 @@
   "aliases": [
     "/bookmarks/4c247fb5-aab5-4e58-aabc-0e5ad128ad4f/",
     "/mf2/4c247fb5-aab5-4e58-aabc-0e5ad128ad4f/",
-    "/mf2/2019/05/duj5p"
+    "/mf2/2019/05/duj5p",
+    "/mf2/2019/05/DUj5P"
   ],
   "h": "h-entry",
   "date": "2019-05-31T22:29:51+0100",
@@ -32,5 +33,5 @@
     "self-care"
   ],
   "kind": "bookmarks",
-  "slug": "2019/05/DUj5P"
+  "slug": "2019/05/duj5p"
 }

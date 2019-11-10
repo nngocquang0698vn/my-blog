@@ -42,9 +42,10 @@
       }
     }
   },
-  "slug": "2017/09/I2Hgi",
+  "slug": "2017/09/i2hgi",
   "aliases": [
     "/mf2/6952b206-fbcb-4fdf-b8dc-35ff44daed53/",
-    "/mf2/2017/09/i2hgi"
+    "/mf2/2017/09/i2hgi",
+    "/mf2/2017/09/I2Hgi"
   ]
 }

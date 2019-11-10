@@ -16,7 +16,8 @@
   "aliases": [
     "/likes/0eefda0f-18b1-4b33-9c56-cc561a3aaabc/",
     "/mf2/0eefda0f-18b1-4b33-9c56-cc561a3aaabc/",
-    "/mf2/2019/07/nqfcy"
+    "/mf2/2019/07/nqfcy",
+    "/mf2/2019/07/nQFCy"
   ],
   "h": "h-entry",
   "tags": [
@@ -24,5 +25,5 @@
   ],
   "date": "2019-07-22T22:34:13+0100",
   "kind": "likes",
-  "slug": "2019/07/nQFCy"
+  "slug": "2019/07/nqfcy"
 }

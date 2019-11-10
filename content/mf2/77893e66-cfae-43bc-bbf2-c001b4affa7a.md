@@ -27,9 +27,10 @@
     "shell",
     "cli"
   ],
-  "slug": "2019/09/u0d7F",
+  "slug": "2019/09/u0d7f",
   "aliases": [
     "/mf2/77893e66-cfae-43bc-bbf2-c001b4affa7a/",
-    "/mf2/2019/09/u0d7f"
+    "/mf2/2019/09/u0d7f",
+    "/mf2/2019/09/u0d7F"
   ]
 }

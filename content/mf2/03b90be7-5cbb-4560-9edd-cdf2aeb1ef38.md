@@ -20,9 +20,10 @@
   "tags": [
     "ethics"
   ],
-  "slug": "2019/10/Phdy5",
+  "slug": "2019/10/phdy5",
   "aliases": [
     "/mf2/03b90be7-5cbb-4560-9edd-cdf2aeb1ef38/",
-    "/mf2/2019/10/phdy5"
+    "/mf2/2019/10/phdy5",
+    "/mf2/2019/10/Phdy5"
   ]
 }

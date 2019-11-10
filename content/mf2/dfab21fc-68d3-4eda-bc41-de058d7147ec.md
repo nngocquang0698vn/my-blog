@@ -20,9 +20,10 @@
   "date": "2018-01-31T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2018/01/0mmaG",
+  "slug": "2018/01/0mmag",
   "aliases": [
     "/mf2/dfab21fc-68d3-4eda-bc41-de058d7147ec/",
-    "/mf2/2018/01/0mmag"
+    "/mf2/2018/01/0mmag",
+    "/mf2/2018/01/0mmaG"
   ]
 }

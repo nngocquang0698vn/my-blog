@@ -20,9 +20,10 @@
   "date": "2017-12-02T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2017/12/D65DE",
+  "slug": "2017/12/d65de",
   "aliases": [
     "/mf2/f5a55f9a-6fbb-41a2-a78f-aa17b0c25fab/",
-    "/mf2/2017/12/d65de"
+    "/mf2/2017/12/d65de",
+    "/mf2/2017/12/D65DE"
   ]
 }
