@@ -20,9 +20,10 @@
   "date": "2017-05-03T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2017/05/sRcEN",
+  "slug": "2017/05/srcen",
   "aliases": [
     "/mf2/dcc2db2b-ba79-4430-8e33-9fe0ad4bb4bc/",
-    "/mf2/2017/05/srcen"
+    "/mf2/2017/05/srcen",
+    "/mf2/2017/05/sRcEN"
   ]
 }

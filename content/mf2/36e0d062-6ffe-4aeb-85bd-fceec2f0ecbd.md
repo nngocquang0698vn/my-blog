@@ -20,9 +20,10 @@
   "date": "2018-05-10T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2018/05/dUJor",
+  "slug": "2018/05/dujor",
   "aliases": [
     "/mf2/36e0d062-6ffe-4aeb-85bd-fceec2f0ecbd/",
-    "/mf2/2018/05/dujor"
+    "/mf2/2018/05/dujor",
+    "/mf2/2018/05/dUJor"
   ]
 }

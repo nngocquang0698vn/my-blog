@@ -20,9 +20,10 @@
   "date": "2017-05-22T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2017/05/oxFQA",
+  "slug": "2017/05/oxfqa",
   "aliases": [
     "/mf2/fb4baf98-c26b-497f-a67a-b0fafd2c128b/",
-    "/mf2/2017/05/oxfqa"
+    "/mf2/2017/05/oxfqa",
+    "/mf2/2017/05/oxFQA"
   ]
 }

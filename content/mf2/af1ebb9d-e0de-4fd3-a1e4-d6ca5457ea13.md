@@ -20,9 +20,10 @@
   "date": "2019-01-18T00:00:00Z",
   "kind": "steps",
   "h": "h-measure",
-  "slug": "2019/01/f68SE",
+  "slug": "2019/01/f68se",
   "aliases": [
     "/mf2/af1ebb9d-e0de-4fd3-a1e4-d6ca5457ea13/",
-    "/mf2/2019/01/f68se"
+    "/mf2/2019/01/f68se",
+    "/mf2/2019/01/f68SE"
   ]
 }

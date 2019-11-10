@@ -46,9 +46,10 @@
       }
     }
   },
-  "slug": "2019/09/QeMHo",
+  "slug": "2019/09/qemho",
   "aliases": [
     "/mf2/d8dbcb3a-4b45-4dbf-bcd6-4f4521ba762a/",
-    "/mf2/2019/09/qemho"
+    "/mf2/2019/09/qemho",
+    "/mf2/2019/09/QeMHo"
   ]
 }

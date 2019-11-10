@@ -30,9 +30,10 @@
     "secret-management",
     "security"
   ],
-  "slug": "2019/10/D0TmS",
+  "slug": "2019/10/d0tms",
   "aliases": [
     "/mf2/f3fad1cb-a1f0-4cdb-b64c-e83fbe4655e5/",
-    "/mf2/2019/10/d0tms"
+    "/mf2/2019/10/d0tms",
+    "/mf2/2019/10/D0TmS"
   ]
 }

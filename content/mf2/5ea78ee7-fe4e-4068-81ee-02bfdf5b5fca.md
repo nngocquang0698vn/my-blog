@@ -22,9 +22,10 @@
     "diversity",
     "funny"
   ],
-  "slug": "2019/10/6XTDW",
+  "slug": "2019/10/6xtdw",
   "aliases": [
     "/mf2/5ea78ee7-fe4e-4068-81ee-02bfdf5b5fca/",
-    "/mf2/2019/10/6xtdw"
+    "/mf2/2019/10/6xtdw",
+    "/mf2/2019/10/6XTDW"
   ]
 }
