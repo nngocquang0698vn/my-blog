@@ -33,7 +33,7 @@ This new content type allows me to store in source control the Microformats repr
 
 I've decided to call this content type `mf2` as it's for anything that has the source format of a Microformats entry. I was originally thinking I'd called it `indieweb` or `indie`, but that doesn't map as well, as I could use it for non-Indie post types.
 
-~Unfortunately the approach of having a single content type for Microformats means that I've now got a much harder job rendering the content, as there needs to be logic in there to determine what a post's type is. I feel that this complexity makes more sense to be in the theme and how it renders content, rather than in the Micropub endpoint, but I'm still not 100% sure about it so I may revert this in the future!~
+~~Unfortunately the approach of having a single content type for Microformats means that I've now got a much harder job rendering the content, as there needs to be logic in there to determine what a post's type is. I feel that this complexity makes more sense to be in the theme and how it renders content, rather than in the Micropub endpoint, but I'm still not 100% sure about it so I may revert this in the future!~~
 
 UPDATE: As of [2019-08-28]({{< ref "2019-08-28-content-kind" >}}), this is no longer true! I've now put the logic into my Micropub server and it's made my theme much easier to work with, go me!
 
