@@ -112,11 +112,23 @@ notAlternative = true
     url = "/talks/"
     weight = 25
   [[menu.main]]
+    identifier = "kind"
+    name = "Post by Kind"
+    title = "Post by Kind"
+    url = "/kind/"
+    weight = 30
+  [[menu.main]]
     identifier = "blogroll"
     name = "Blogroll"
     title = "Blogroll"
     url = "/blogroll/"
     weight = 40
+  [[menu.main]]
+    identifier = "postvisualisation"
+    name = "Post Visualisation"
+    title = "Post Visualisation"
+    url = "/post-frequency/"
+    weight = 45
   [[menu.main]]
     identifier = "search"
     name = "Search"
