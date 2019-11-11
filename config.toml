@@ -124,6 +124,12 @@ notAlternative = true
     url = "/blogroll/"
     weight = 40
   [[menu.main]]
+    identifier = "postvisualisation"
+    name = "Post Visualisation"
+    title = "Post Visualisation"
+    url = "/post-frequency/"
+    weight = 45
+  [[menu.main]]
     identifier = "search"
     name = "Search"
     title = "Search"
