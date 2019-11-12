@@ -94,6 +94,12 @@ notAlternative = true
     url = "/posts/"
     weight = 10
   [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    title = "Links"
+    url = "/kind/bookmarks/"
+    weight = 11
+  [[menu.main]]
     identifier = "events"
     name = "Events"
     title = "Events"
