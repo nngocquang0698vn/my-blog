@@ -41,7 +41,7 @@ Within the [IndieWeb community](https://indieweb.org/why), we use the personal w
 
 Since starting [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/) in March, I've been running it in this fashion, with folks RSVPing via their websites (although only a few folks do it so far).
 
-# What Does Would Look Like?
+# What It Would Look Like
 
 So what would this actually look like for folks using it?
 
