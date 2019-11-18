@@ -8,7 +8,8 @@
     "name" : [ "Hello, Indieweb!" ],
     "bookmark-of" : [ "https://offtopica.uk/blog/2019/11/08/hello-indieweb/" ],
     "published" : [ "2019-11-18T17:24:00Z" ],
-    "category" : [ "indieweb" ]
+    "category" : [ "indieweb" ],
+    "syndication": [ "https://news.indieweb.org/en" ]
   },
   "tags" : [ "indieweb" ]
 }
