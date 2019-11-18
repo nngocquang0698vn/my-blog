@@ -5,7 +5,7 @@
   "date" : "2019-11-14T14:50:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "RSVP no to \nhttps://www.meetup.com/London-Gitlab-Meetup-Group/events/266440924/" ],
+    "name" : [ "RSVP no to https://www.meetup.com/London-Gitlab-Meetup-Group/events/266440924/" ],
     "in-reply-to" : [ "https://www.meetup.com/London-Gitlab-Meetup-Group/events/266440924/" ],
     "published" : [ "2019-11-14T14:50:00Z" ],
     "rsvp" : [ "no" ],
