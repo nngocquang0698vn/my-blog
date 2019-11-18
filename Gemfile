@@ -5,6 +5,7 @@ group :test do
   gem 'git'
   gem 'html-proofer'
   gem 'json'
+  gem 'json-schema'
   gem 'kwalify'
   gem 'microformats'
   gem 'rake'

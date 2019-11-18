@@ -37,6 +37,8 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     json (2.1.0)
+    json-schema (2.8.1)
+      addressable (>= 2.4)
     kwalify (0.7.2)
     mercenary (0.3.6)
     microformats (4.0.7)
@@ -84,6 +86,7 @@ DEPENDENCIES
   git
   html-proofer
   json
+  json-schema
   kwalify
   microformats
   rake

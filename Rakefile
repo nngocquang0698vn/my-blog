@@ -212,6 +212,18 @@ namespace :validate do
     end
     fail if report_errors(all_errors)
   end
+
+  desc 'Validate Feeds are well-formed'
+  namespace :feed do
+    desc 'Validate JSON Feed is well-formed'
+    task :jsonfeed do
+      require 'json-schema'
+      jsonfeed = JSON.parse(File.read('public/feed.json'))
+      JSON::Validator.validate!('.schema/jsonfeed.json', jsonfeed)
+    end
+  end
+
+  task feed: ['feed:jsonfeed']
 end
 
 desc 'Create Bit.ly short URLs for a given article URL'
