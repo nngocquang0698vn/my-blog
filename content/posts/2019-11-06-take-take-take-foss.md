@@ -5,7 +5,6 @@ tags:
 - personal
 - free-software
 - open-source
-- open-source
 - licensing
 - nablopomo
 license_code: Apache-2.0
