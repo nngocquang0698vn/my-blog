@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-10T16:14:28+0000
 slug: "hugo-case-sensitive-urls"
+series: nablopomo-2019
 image: /img/vendor/hugo-logo.png
 ---
 A few weeks ago I changed the permalink structure for my Indie post types, changing URLs such as `/mf2/00276d65-8767-40fe-bb37-59fc075a4942/` to `/mf2/2019/08/SMfBV/` to make them more citable, as well as make it nicer to read and i.e. see what year + month the content was from.

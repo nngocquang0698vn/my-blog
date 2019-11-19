@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-04T21:42:05+0000
 slug: "openssl-csr"
+series: nablopomo-2019
 ---
 As part of getting a certificate signed by a Certificate Authority (CA) you will need to provide a Certificate Signing Request (CSR).
 

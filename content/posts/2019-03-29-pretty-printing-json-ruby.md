@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-29T18:04:00
 slug: "pretty-printing-json-ruby"
+series: pretty-print-json
 ---
 If you're debugging your Ruby code, you may be used to printing out variables to the console to see what they contain, such as:
 

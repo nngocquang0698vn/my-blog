@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-09T19:17:22+0000
 slug: "suspicious-transactions"
+series: nablopomo-2019
 ---
 Today I had a bit of a panic. I got a Monzo push notification to say that £0.69 ($0.88) has been taken from my Monzo account for a company called Argonics.
 

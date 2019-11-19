@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-18T17:55:36+0000
 slug: "jsonfeed-validation-pipeline"
+series: nablopomo-2019
 image: /img/vendor/jsonfeed.png
 ---
 Earlier today, I found that my site's JSON feed has been broken since Thursday afternoon. I like to ensure that my site has a pretty high uptime of functionality, so this kinda sucked.

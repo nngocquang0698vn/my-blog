@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-12T11:20:49+0000
 slug: "getting-started-vim"
+series: nablopomo-2019
 ---
 Last night at [Tech Nottingham](https://www.technottingham.com/events/tech-nottingham-november-2019), I was chatting with my friend <span class="h-card"><a class="u-url" href="https://mwtmurphy.com/">Mitchell</a></span> who mentioned he may be looking to give Vim a go, partly to see what the fuss is about, and to get some minor experience using it.
 
