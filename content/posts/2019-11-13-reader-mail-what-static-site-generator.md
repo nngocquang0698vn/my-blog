@@ -12,6 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-13T23:59:00+0000
 slug: "reader-mail-what-static-site-generator"
+series: nablopomo-2019
 ---
 Earlier today I received a message on Twitter from <span class="h-card"><a class="u-url" href="https://rwapp.co.uk">Rob Whitaker</a></span>, and thought I'd reply publicly via a blog post, rather than a lot of threaded tweets.
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-23T21:22:00+0100
 slug: "pretty-print-json-java"
+series: pretty-print-json
 ---
 Note: This has been adapted from steps from [mkyong.com](https://www.mkyong.com/java/how-to-enable-pretty-print-json-output-jackson/).
 

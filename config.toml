@@ -44,6 +44,7 @@ disablePathToLower = true
   category = "categories"
   kind = "kind"
   tag = "tags"
+  series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir"]

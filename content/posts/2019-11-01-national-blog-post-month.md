@@ -7,6 +7,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-01T18:36:29+0000
 slug: "national-blog-post-month"
+series: nablopomo-2019
 syndication:
 - text: IndieNews
   url: https://news.indieweb.org/en
@@ -25,6 +26,6 @@ When saying I was going to participate, my friend <span class="h-card"><a class=
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this will be different?</p>&mdash; Andrew Seward (@MrAndrew) <a href="https://twitter.com/MrAndrew/status/1190193720026652672?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote>
 
-I get it, I blog a lot 😅 Expect to see lots of smaller chunks of content over the month (tagged under [nablopomo](/tags/nablopomo)), and I hope I'll be able to keep up with it.
+I get it, I blog a lot 😅 Expect to see lots of smaller chunks of content over the month (marked up with the [nablopomo-2019 series](/series/nablopomo-2019)), and I hope I'll be able to keep up with it.
 
 <span class="h-card"><a class="u-url" href="https://gregorlove.com">Gregor Morrill</a></span> has got a bit more info about it on [his own blog post about NaBloPoMo](https://gregorlove.com/2019/11/oh-its-november/) if you want a bit more info on it.

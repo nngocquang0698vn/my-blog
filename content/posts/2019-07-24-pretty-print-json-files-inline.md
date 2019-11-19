@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-24T14:26:05+0100
 slug: "pretty-print-json-files-inline"
+series: pretty-print-json
 ---
 Today I've found myself needing to compare a number of JSON files to see whether certain configuration has been pulled in correctly.
 

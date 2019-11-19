@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-05T22:11:33+0000
 slug: "announce-events-feed"
+series: nablopomo-2019
 ---
 As you may have read before, I run a [Homebrew Website Club in Nottingham](/events/homebrew-website-club-nottingham/), and the events are announced on this website.
 
