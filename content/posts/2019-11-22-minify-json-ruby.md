@@ -1,5 +1,5 @@
 ---
-title: "Minifying JSON Ruby"
+title: "Minifying JSON with Ruby"
 description: "How to take a pretty-printed JSON string and replace it with a minifed JSON string using Ruby."
 tags:
 - ruby
