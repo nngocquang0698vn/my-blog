@@ -21,7 +21,7 @@
       "location" : {
         "street-address" : [ "1120 NW Couch St #320" ],
         "locality" : [ "Portland" ],
-        "country-name" : null
+        "country-name" : ["United States"]
       }
     }
   }
