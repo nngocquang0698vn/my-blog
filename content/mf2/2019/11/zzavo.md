@@ -5,13 +5,13 @@
   "date" : "2019-11-19T23:12:07.537+01:00",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "RSVP interested to https://www.meetup.com/dotnetnotts/events/265504966/" ],
+    "name" : [ "RSVP yes to https://www.meetup.com/dotnetnotts/events/265504966/" ],
     "in-reply-to" : [ "https://www.meetup.com/dotnetnotts/events/265504966/" ],
     "published" : [ "2019-11-19T23:12:07.537+01:00" ],
-    "rsvp" : [ "interested" ],
+    "rsvp" : [ "yes" ],
     "content" : [ {
       "html" : "",
-      "value" : "I'm on the waitlist currently - but hopefully will be able to make it!"
+      "value" : ""
     } ],
     "event" : {
       "url" : [ "https://www.meetup.com/dotnetnotts/events/265504966/" ],
