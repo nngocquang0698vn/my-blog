@@ -8,11 +8,11 @@
     "name" : [ "Docker Cleanup Commands" ],
     "bookmark-of" : [ "https://www.calazan.com/docker-cleanup-commands/" ],
     "published" : [ "2019-11-26T08:46:23.03+01:00" ],
-    "category" : [ "docker", "cleanup" ],
+    "category" : [ "docker", "cleanup", "command-line" ],
     "content" : [ {
       "html" : "",
       "value" : "This is my go-to for tidying up disk space issues when working with Docker"
     } ]
   },
-  "tags" : [ "docker", "cleanup" ]
+  "tags" : [ "docker", "cleanup", "command-line" ]
 }
