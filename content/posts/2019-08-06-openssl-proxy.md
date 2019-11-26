@@ -17,7 +17,9 @@ However, if I'm trying to i.e. use OpenSSL to get the public certificate for a w
 I found that this is because OpenSSL doesn't go via the proxy unless you explicitly tell it with an explicit `-proxy`:
 
 ```sh
-openssl s_client -showcerts -connect "jvt.me:443" -proxy http://proxy.example.com:8888 ...
+openssl s_client -showcerts -connect "jvt.me:443" -proxy proxy.example.com:8888 ...
 ```
+
+**EDIT**: Thanks to [this comment from Charles MERLEN](https://commentpara.de/comment/494.htm), there doesn't need to be a scheme on the proxy connection above (i.e. `http://`).
 
 With that set, my connections then start to go through OK again.
