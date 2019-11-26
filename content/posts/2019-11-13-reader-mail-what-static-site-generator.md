@@ -30,7 +30,7 @@ On the Swift side, according to Static Gen there is [Spelt](https://github.com/n
 
 Next, it's important to know whether the person wants to build the theme themselves, or adapt someone else's:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ideally I’d like a pre-made theme, I have an aversion to CSS and have no design skill. But it would have to be accessible to a high standard, so happy to tweak.</p>&mdash; Rob Whitaker (@RobRWAPP) <a href="https://twitter.com/RobRWAPP/status/1194696499055206401?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ideally I’d like a pre-made theme, I have an aversion to CSS and have no design skill. But it would have to be accessible to a high standard, so happy to tweak.</p>&mdash; Rob Whitaker (@RobRWAPP) <a href="https://twitter.com/RobRWAPP/status/1194696499055206401?ref_src=twsrc%5Etfw">November 13, 2019</a></blockquote>
 
 In this case, Rob was happy picking up someone else's which is why I'd recommend Hugo as the [Hugo Themes site](https://themes.gohugo.io/) is huge and includes so much, and it's possible to take any HTML template that may be produced elsewhere and tweak it for Hugo (this is true for any static site generator, mind).
 
