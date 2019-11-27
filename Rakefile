@@ -153,9 +153,21 @@ namespace :test do
 
   desc 'Verify permalinks are not broken'
   task permalinks: ['permalinks:rss', 'permalinks:case_sensitive', 'permalinks:sitemap']
+
+  desc 'Ensure that duplicated tags do not exist'
+  task :duplicate_tags do
+    Dir.glob('content/**/*.md').each do |file|
+      post = YAML.load(File.read(file))
+
+      next unless post.key?('tags')
+      tags = post['tags']
+
+      raise "Duplicate tags exist in #{file}" unless tags.length == tags.uniq.length
+    end
+  end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:git_casing']
+task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:duplicate_tags', 'test:git_casing']
 
 namespace :list do
   desc 'List all tags in the site'
