@@ -6,7 +6,7 @@
   "h": "h-entry",
   "properties": {
     "name": [
-      "RSVP interested to https://www.meetup.com/Tech-Nottingham/events/266227370/"
+      "RSVP yes to https://www.meetup.com/Tech-Nottingham/events/266227370/"
     ],
     "in-reply-to": [
       "https://www.meetup.com/Tech-Nottingham/events/266227370/"
@@ -15,12 +15,12 @@
       "2019-11-05T14:51:00Z"
     ],
     "rsvp": [
-      "interested"
+      "yes"
     ],
     "content": [
       {
         "html": "",
-        "value": "I still need to get the ticket but 🤞🏽"
+        "value": ""
       }
     ],
     "event": {
