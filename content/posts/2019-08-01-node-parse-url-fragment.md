@@ -21,6 +21,13 @@ const theUrl = 'https://example.com/auth/callback#code=foo&state=blah';
 var fragmentParams = querystring.parse(url.parse(theUrl).hash.replace('#', ''));
 console.log(fragmentParams);
 // Object: null prototype] { code: 'foo', state: 'blah' }
+console.log(JSON.stringify(fragmentParams, null, 4));
+/*
+{
+    "code": "foo",
+    "state": "blah"
+}
+*/
 ```
 
 Also note that yes, this should be received by your browser, not by some Node code which runs on the backend, but for the purpose I've been testing it with, the Node code for it was important.
@@ -28,5 +35,5 @@ Also note that yes, this should be received by your browser, not by some Node co
 And for a handy one-liner:
 
 ```sh
-$ node -r querystring -r url -e 'console.log(querystring.parse(url.parse(process.argv[1]).hash.replace("#", "")))' 'https://example.com/auth/callback#code=foo&state=blah'
+$ echo 'https://example.com/auth/callback#code=foo&state=blah' | node -r querystring -r url -e 'console.log(JSON.stringify(querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).hash.replace("#", "")), null, 4))'
 ```
