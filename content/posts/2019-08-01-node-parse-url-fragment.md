@@ -24,3 +24,9 @@ console.log(fragmentParams);
 ```
 
 Also note that yes, this should be received by your browser, not by some Node code which runs on the backend, but for the purpose I've been testing it with, the Node code for it was important.
+
+And for a handy one-liner:
+
+```sh
+$ node -r querystring -r url -e 'console.log(querystring.parse(url.parse(process.argv[1]).hash.replace("#", "")))' 'https://example.com/auth/callback#code=foo&state=blah'
+```
