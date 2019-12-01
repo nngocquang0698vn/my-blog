@@ -48,7 +48,7 @@ disablePathToLower = true
 
 [outputs]
 home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir"]
-section = ["HTML", "eventsCalendar"]
+section = ["HTML", "eventsCalendar", "RSS"]
 page = ["HTML", "eventsCalendar"]
 
 [mediaTypes]
