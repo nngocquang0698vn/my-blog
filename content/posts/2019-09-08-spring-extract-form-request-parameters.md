@@ -15,7 +15,7 @@ While working on my [Micropub endpoint]({{< ref "2019-08-26-setting-up-micropub"
 
 I had to dynamically parse these fields out because on any given request there could be anywhere between 4 and 10 parameters in a given request, and I'd not really ever know what that request would look like until receiving it.
 
-I found that Spring has you covered, and makes this quite convenient, simply asking you to amend your endpoint to request a `MultiValueMap`. Remember t  mark it as the `@RequestBody`, otherwise Spring won't know where those parameters are coming from:
+I found that Spring has you covered, and makes this quite convenient, simply asking you to amend your endpoint to request a `MultiValueMap`. Remember to mark it as the `@RequestBody`, otherwise Spring won't know where those parameters are coming from:
 
 ```java
 import org.springframework.util.MultiValueMap;
