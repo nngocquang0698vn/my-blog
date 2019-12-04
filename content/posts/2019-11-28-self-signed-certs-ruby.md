@@ -50,4 +50,6 @@ env SSL_CERT_DIR=/path/to/certs/folder ruby http.rb
 env SSL_CERT_FILE=/path/to/cert.crt ruby http.rb
 ```
 
-I've had some difficulty getting `SSL_CERT_DIR` working, so maybe expect a follow-up post on that.
+~~I've had some difficulty getting `SSL_CERT_DIR` working, so maybe expect a follow-up post on that.~~
+
+Update 2019-12-04: I've written up how to get `SSL_CERT_DIR` working in my blog post [_Setting up a directory for OpenSSL's `SSL_CERT_DIR_]({{< ref "2019-12-04-openssl-certs-dir-setup" >}}).
