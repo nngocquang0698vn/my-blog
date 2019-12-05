@@ -101,7 +101,7 @@ GET https://eventbrite-mf2.jvt.me/e/ddd-east-midlands-tickets-58629047058
                                 "Nottingham"
                             ],
                             "street-address": [
-                                "30 Burton Street, null"
+                                "30 Burton Street"
                             ],
                             "postal-code": [
                                 "NG1 4BU"
