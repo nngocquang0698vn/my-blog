@@ -8,7 +8,7 @@
     "name" : [ "Thames Water don't get password security" ],
     "bookmark-of" : [ "https://shkspr.mobi/blog/2019/12/thames-water-dont-get-password-security/" ],
     "published" : [ "2019-12-06T08:10:00Z" ],
-    "category" : [ "secondly" ]
+    "category" : [ "security" ]
   },
-  "tags" : [ "secondly" ]
+  "tags" : [ "security" ]
 }
