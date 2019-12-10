@@ -5,7 +5,7 @@
   "date" : "2019-12-10T19:38:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "War" ],
+    "name" : [ "Wat" ],
     "bookmark-of" : [ "https://www.destroyallsoftware.com/talks/wat" ],
     "published" : [ "2019-12-10T19:38:00Z" ],
     "category" : [ "javascript" ],
