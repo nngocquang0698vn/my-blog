@@ -5,8 +5,8 @@
   "date" : "2019-11-18T18:37:17.246+01:00",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Reply to https://offtopica.uk/blog/2019/11/08/hello-indieweb/" ],
-    "in-reply-to" : [ "https://offtopica.uk/blog/2019/11/08/hello-indieweb/" ],
+    "name" : [ "Reply to https://web.archive.org/web/20191114032643/https://offtopica.uk/blog/2019/11/08/hello-indieweb/" ],
+    "in-reply-to" : [ "https://web.archive.org/web/20191114032643/https://offtopica.uk/blog/2019/11/08/hello-indieweb/" ],
     "published" : [ "2019-11-18T18:37:17.246+01:00" ],
     "category" : [ "indieweb", "webmention" ],
     "content" : [ {

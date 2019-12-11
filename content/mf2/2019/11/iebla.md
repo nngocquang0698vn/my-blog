@@ -6,7 +6,7 @@
   "h" : "h-entry",
   "properties" : {
     "name" : [ "The Language Agnostic, All-Purpose, Incredible, Makefile" ],
-    "bookmark-of" : [ "https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html" ],
+    "bookmark-of" : [ "https://blog.mindlessness.life/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html" ],
     "published" : [ "2019-11-21T17:37:00Z" ],
     "category" : [ "automation", "build-tooling", "makefile" ],
     "content" : [ {
