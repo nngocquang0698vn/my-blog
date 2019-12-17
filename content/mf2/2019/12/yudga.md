@@ -4,7 +4,9 @@
   "client_id" : "https://micropublish.net",
   "date" : "2019-12-15T16:11:14.127+01:00",
   "h" : "h-entry",
+  "tags": ["www.jvt.me"],
   "properties" : {
+    "category": ["www.jvt.me"],
     "published" : [ "2019-12-15T16:11:14.127+01:00" ],
     "content" : [ {
       "html" : "",
