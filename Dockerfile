@@ -30,9 +30,6 @@ COPY .schema/ ./.schema
 # }}}
 RUN bundle exec rake validate && \
 	bundle exec rake test
-# allow this to fail so we don't break the build on external links erroring
-# (possibly intermittently)
-RUN bundle exec rake test:links || true
 
 # Final, built image
 FROM scratch
