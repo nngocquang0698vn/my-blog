@@ -1,26 +1,10 @@
-FROM klakegg/hugo:0.58.3-ext-alpine AS hugo
-RUN apk --update add git tzdata && \
-	cp /usr/share/zoneinfo/Europe/London /etc/localtime && \
-	echo 'Europe/London' > /etc/timezone
-ENV HUGO_DESTINATION /public
-WORKDIR /site
+FROM registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.58.3 AS hugo
 COPY ./ /site
 RUN hugo --destination=/public --verbose --minify
 
-FROM ruby:2.5-alpine
-MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
+FROM registry.gitlab.com/jamietanna/jvt.me/ruby-base:v1
 
-# Install Ruby {{{
-RUN apk --update add git \
-		build-base
-# }}}
-
-WORKDIR /app
-COPY Gemfile Gemfile.lock  /app/
 COPY --from=hugo /public public
-# Don't pull in deploy dependencies as they're a separate Docker image
-ENV BUNDLE_WITHOUT=deploy
-RUN bundle install
 # get our dependencies for testing {{{
 COPY permalinks.yml /app/
 COPY Rakefile ./
