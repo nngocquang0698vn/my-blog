@@ -6,11 +6,11 @@ describe 'EventsPagesHaveValidHevent' do
 
   context 'on an event' do
     context 'with an h-event' do
-      context 'with a p-description' do
+      context 'with a e-description' do
         let(:html) { Nokogiri::HTML(File.read('spec/fixtures/event_plain_plocation_description.html')) }
         let(:sut) { EventsPagesHaveValidHevent.new('', VALID_PATH, html, {}) }
 
-        it 'verifies p-description' do
+        it 'verifies e-description' do
           predicate = double
           expect(::HasPDescription).to receive(:new)
             .and_return predicate

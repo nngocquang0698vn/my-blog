@@ -14,7 +14,7 @@ class EventsPagesHaveValidHevent < ::HTMLProofer::Check
       end
     end
 
-    unless hevents.css('.p-description').length.zero?
+    unless hevents.css('.e-description').length.zero?
       begin
         ::HasPDescription.new.validate(event)
       rescue InvalidMetadataError => e
