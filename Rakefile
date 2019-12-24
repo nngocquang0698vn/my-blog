@@ -68,24 +68,6 @@ namespace :test do
     HTMLProofer.check_directory('./public', options).run
   end
 
-  desc 'Test GitHub/GitLab casing'
-  task :git_casing do
-    all_incorect_cases = {}
-    Dir.glob('_site/**/*.html') do |f|
-      contents = File.read f
-       if contents.include?('Github')
-         all_incorect_cases[f] ||= []
-         all_incorect_cases[f] << 'Github should be capitalised'
-       end
-
-       if contents.include?('Gitlab')
-         all_incorect_cases[f] ||= []
-         all_incorect_cases[f] << 'Gitlab should be capitalised'
-       end
-    end
-    fail if report_errors(all_incorect_cases)
-  end
-
   RSpec::Core::RakeTask.new(:spec)
 
   namespace :permalinks do
@@ -167,7 +149,7 @@ namespace :test do
   end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:duplicate_tags', 'test:git_casing']
+task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:duplicate_tags']
 
 namespace :list do
   desc 'List all tags in the site'
