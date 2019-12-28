@@ -77,9 +77,11 @@ baseName = "_redirects"
 isPlainText = true
 notAlternative = true
 
-[blackfriday]
-  # disable stupid "smart" quotes
-  smartypants = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+    # disable stupid "smart" quotes
+    typographer = false
 
 [menu]
   [[menu.main]]
