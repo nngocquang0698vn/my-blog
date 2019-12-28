@@ -1,7 +1,7 @@
-FROM ruby:2.5-alpine
+FROM alpine:3.11
 MAINTAINER Jamie Tanna <docker@jamietanna.co.uk>
 LABEL me.jvt.www.image-name=ruby-base
-LABEL me.jvt.www.version=v1
+LABEL me.jvt.www.version=v2
 
 WORKDIR /app
 COPY Gemfile Gemfile.lock  /app/
@@ -9,5 +9,11 @@ COPY Gemfile Gemfile.lock  /app/
 ENV BUNDLE_WITHOUT=deploy
 
 RUN apk --no-cache --update add git \
-		build-base && \
-		bundle install
+		build-base \
+		ruby-dev \
+		ruby-bundler ruby-bigdecimal \
+		libxml2-dev \
+		&& \
+		bundle install && \
+		apk del build-base ruby-dev libxml2-dev && \
+		apk --no-cache --update add ruby libxml2

@@ -2,7 +2,7 @@ FROM registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.58.3 AS hugo
 COPY ./ /site
 RUN hugo --destination=/public --verbose --minify
 
-FROM registry.gitlab.com/jamietanna/jvt.me/ruby-base:v1
+FROM registry.gitlab.com/jamietanna/jvt.me/ruby-base:v2
 
 COPY --from=hugo /public public
 # get our dependencies for testing {{{
