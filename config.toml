@@ -82,6 +82,9 @@ notAlternative = true
     [markup.goldmark.extensions]
     # disable stupid "smart" quotes
     typographer = false
+    [markup.goldmark.renderer]
+    # allow inline HTML, such as spoiler warnings
+    unsafe = true
 
 [menu]
   [[menu.main]]
