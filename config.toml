@@ -85,6 +85,10 @@ notAlternative = true
     [markup.goldmark.renderer]
     # allow inline HTML, such as spoiler warnings
     unsafe = true
+  [markup.tableOfContents]
+  startLevel = 1
+  endLevel = 6
+  ordered = false
 
 [menu]
   [[menu.main]]

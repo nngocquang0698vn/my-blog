@@ -134,7 +134,7 @@ What do you want to achieve with it? Which of the above particularly won you ove
 
 Then, it's worth looking at whether you want to potentially have some server maintenance, and use a dynamic site software like [WordPress](https://wordpress.org), or [Known](https://withknown.com/), or are happy to use a [Static Site Generator](https://www.staticgen.com/), which does not necessarily require a server.
 
-Once you have an idea of the tool, it's worth looking at designs, and seeing if there are any themes that you'd be happy using (see [_The site's design_ section below](#the-site-s-design)).
+Once you have an idea of the tool, it's worth looking at designs, and seeing if there are any themes that you'd be happy using (see [_The site's design_ section below](#the-sites-design)).
 
 ## Inspiration
 

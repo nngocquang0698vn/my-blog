@@ -116,7 +116,7 @@ __2014-2015__ - Industrial Placement as Application Engineer at Intel, Reading
 - Spent more time working on automation pieces like [Docker Build System for Android on Intel Architecture] which I enjoyed more than the day job
 - Found that it wasn't quite what I wanted to do, at the end of the day
   - But that's _great_! I was able to tick something off the list
-  - Deciding what you part of tech want to move into is such a massive list, it's great to at least have one less choice (for more choices, see [There's more to Tech than just "regular software engineer"](#there-s-more-to-tech-than-just-regular-software-engineer))
+  - Deciding what you part of tech want to move into is such a massive list, it's great to at least have one less choice (for more choices, see [There's more to Tech than just "regular software engineer"](#theres-more-to-tech-than-just-regular-software-engineer))
   - Got a year's experience and some pay, as well as being able to travel and network
 - Solving real problems with real clients
 
