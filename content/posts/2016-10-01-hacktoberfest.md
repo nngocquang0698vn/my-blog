@@ -136,7 +136,7 @@ So once you've actually made your changes, you need to be able to send it back t
 
 If you're looking at getting started and would like some help, feel free to drop me a message in one of the formats in the page footer.
 
-## Hacktoberfest Session <a name="hacktoberfest-session"></a>
+## Hacktoberfest Session
 
 On 6th October, I am running a [Git Workshop][git-workshop] which will serve as an introduction to Git and version control. In the interactive section of the workshop, I will be taking Hacksoc members through their first contribution - through a Pull Request to a blog post about Hacktoberfest on the Hacksoc website. The initial Pull Request can be found [on GitHub][hacksoc-repo-hacktoberfest-pr].
 

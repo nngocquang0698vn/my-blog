@@ -45,6 +45,7 @@ To show you what you need to do, let's go through [this example from the IndieWe
 
 <details>
   <summary>RSVP example from the IndieWeb wiki, in entirety</summary>
+
 ```html
 <div class="h-entry">
   <span class="p-author h-card">
@@ -57,6 +58,7 @@ To show you what you need to do, let's go through [this example from the IndieWe
   to <a href="HTTP://EXAMPLE.ORG/EVENTURL" class="u-in-reply-to">INDIEWEB EVENT</a>
 </div>
 ```
+
 </details>
 
 ```html

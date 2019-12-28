@@ -30,7 +30,7 @@ The final great thing about this is that it gives pure programmatic access to th
 
 You can follow along on [my issue tracker's label `microservices-site`][issues].
 
-[DevOpsDays talk]: {{< ref 2018-10-25-devopsdays-london-2018 >}}#overengineering-your-personal-website-how-i-learn-things-best
+[DevOpsDays talk]: {{< ref 2018-10-25-devopsdays-london-2018 >}}#overengineering-your-personal-website---how-i-learn-things-best
 [Talks]: /talks/
 [Projects]: /projects/
 [Blogroll]: /blogroll/

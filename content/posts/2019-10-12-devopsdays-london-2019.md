@@ -258,7 +258,7 @@ But this also means that you need to architect your applications in the right wa
 - they should be able to restart cleanly
 - state should not be stored in the application, otherwise sticky sessions make things a whole lot more complicated for scaling
 
-Nicky spoke about the ability to very easily perform a cross-region failover automagically. Nicky spoke about the importance of testing these things before they go bad, which [Euan Finlay's talk _Don't Panic_ at last year's DevOpsDays London]({{< ref "2018-10-25-devopsdays-london-2018" >}}#don-t-panic) goes into in a bit more depth.
+Nicky spoke about the ability to very easily perform a cross-region failover automagically. Nicky spoke about the importance of testing these things before they go bad, which [Euan Finlay's talk _Don't Panic_ at last year's DevOpsDays London]({{< ref "2018-10-25-devopsdays-london-2018" >}}#dont-panic) goes into in a bit more depth.
 
 Nicky warned us against the care required in performing these failovers, and ensuring that the new stack doesn't get infected by the same root cause as the first, leading to both becoming unhealthy or failing altogether! Nicky recommended that to avoid this, you should run a rolling update to be able to ensure that only a few instances are affected at a time, giving you a chance to validate the change before switching more over.
 
@@ -719,4 +719,4 @@ We talked a little bit about monolithic applications and how to split them down,
 
 One participant shared the talk [From Monolith to Microservices and back](https://www.youtube.com/watch?v=0jODVkkwiMc) that talks through some of the reasons you would actually want a monolith.
 
-It's also worth a read of [the Open Space _What's wrong with a good monolith?_ at DevOpsDays London 2018]({{< ref "2018-10-25-devopsdays-london-2018" >}}#what-s-wrong-with-a-good-monolith).
+It's also worth a read of [the Open Space _What's wrong with a good monolith?_ at DevOpsDays London 2018]({{< ref "2018-10-25-devopsdays-london-2018" >}}#whats-wrong-with-a-good-monolith).
