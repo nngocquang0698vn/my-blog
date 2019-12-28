@@ -19,7 +19,7 @@ cache:
     - netlify.toml
 
 # Ensure that the site builds {{{
-build_site:
+build_no_test_site:
   services:
     - docker:dind
   stage: build
@@ -29,6 +29,23 @@ build_site:
     - docker build -t $CONTAINER_BUILT_IMAGE .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
+  only:
+    - master
+
+build_test_site:
+  services:
+    - docker:dind
+  stage: build
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    # pull the latest base image on a master build
+    - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.branch .
+    - docker push $CONTAINER_BUILT_IMAGE
+    # }}}
+  only:
+    - branches
+  except:
+    - master
 
 theme_branch:
   image: alpine:latest
