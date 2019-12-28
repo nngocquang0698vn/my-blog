@@ -11,9 +11,9 @@
     "rsvp" : [ "yes" ],
     "event" : {
       "url" : [ "https://www.meetup.com/Nottingham-AWS-Meetup/events/266207923/" ],
-      "name" : [ "Lightning Talks -  January Meet" ],
-      "start" : [ "2020-01-09T18:00:00Z" ],
-      "end" : [ "2020-01-09T20:30:00Z" ],
+      "name" : [ "Lightning Talks - AWS Nottingham" ],
+      "start" : [ "2020-02-25T18:00:00Z" ],
+      "end" : [ "2020-02-25T20:30:00Z" ],
       "location" : {
         "street-address" : [ "BJSS, 16 King St" ],
         "locality" : [ "Nottingham" ],
