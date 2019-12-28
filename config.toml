@@ -17,9 +17,6 @@ enableGitInfo = true
 
 paginate = 25
 
-# allow /mf2/ URLs to remain case sensitive so we can have a lower chance of filename clashes
-disablePathToLower = true
-
 [params]
   author = "Jamie Tanna"
   liveSiteUrl = "https://www.jvt.me"

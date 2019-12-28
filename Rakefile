@@ -71,11 +71,6 @@ namespace :test do
   RSpec::Core::RakeTask.new(:spec)
 
   namespace :permalinks do
-    desc 'Case-sensitive URLs are required'
-    task :case_sensitive do
-      raise 'Post missing - case sensitivity could be broken' unless File.exists?('./public/mf2/2019/11/nTzzs/index.html') && File.exists?('./public/mf2/2019/11/nTzzs/index.html')
-    end
-
     desc 'Verify RSS permalinks are not broken'
     task :rss do
       permalinks = YAML.load_file('permalinks.yml')
@@ -134,7 +129,7 @@ namespace :test do
   end
 
   desc 'Verify permalinks are not broken'
-  task permalinks: ['permalinks:rss', 'permalinks:case_sensitive', 'permalinks:sitemap']
+  task permalinks: ['permalinks:rss', 'permalinks:sitemap']
 
   desc 'Ensure that duplicated tags do not exist'
   task :duplicate_tags do
