@@ -25,7 +25,6 @@ build_no_test_site:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    # pull the latest base image on a master build
     - docker build -t $CONTAINER_BUILT_IMAGE .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
@@ -38,7 +37,6 @@ build_test_site:
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    # pull the latest base image on a master build
     - docker build -t $CONTAINER_BUILT_IMAGE -f Dockerfile.branch .
     - docker push $CONTAINER_BUILT_IMAGE
     # }}}
