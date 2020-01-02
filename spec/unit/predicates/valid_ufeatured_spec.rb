@@ -23,12 +23,21 @@ describe 'ValidUfeatured' do
     expect(hentry).to receive(:featured)
       .and_return 'http://jvt.me/posts/img/foo.png'
 
-    expect { sut.validate(hentry) }.to raise_error(InvalidMetadataError, 'Featured image does not start with https://www.jvt.me/img/')
+    expect { sut.validate(hentry) }.to raise_error(InvalidMetadataError, 'Featured image does not start with https://www.jvt.me/img/ or https://media.jvt.me/')
   end
 
   it 'does not throw if u-featured starts with site image path' do
     expect(hentry).to receive(:featured)
       .and_return 'https://www.jvt.me/img/foo.png'
+
+    sut.validate(hentry)
+
+    # no error
+  end
+
+  it 'does not throw if u-featured starts with media site image path' do
+    expect(hentry).to receive(:featured)
+      .and_return 'https://media.jvt.me/foo.png'
 
     sut.validate(hentry)
 

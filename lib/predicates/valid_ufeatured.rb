@@ -8,6 +8,6 @@ class ValidUfeatured < ::Predicate
   def validate(hentry)
     @has_featured.validate(hentry)
 
-    raise InvalidMetadataError, 'Featured image does not start with https://www.jvt.me/img/' unless /^https:\/\/www.jvt.me\/img\//.match? hentry.featured
+    raise InvalidMetadataError, 'Featured image does not start with https://www.jvt.me/img/ or https://media.jvt.me/' unless /^(https:\/\/www.jvt.me\/img\/|https:\/\/media.jvt.me\/)/.match?(hentry.featured)
   end
 end
