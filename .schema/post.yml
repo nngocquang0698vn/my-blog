@@ -17,7 +17,7 @@ mapping:
   'image':
     type: str
     required: no
-    pattern: /^\/img\/.*\.(png|jpg)/
+    pattern: /^(https://media.jvt.me/|\/img\/.*\.(png|jpg))/
   'canonical_url':
     type: str
     required: no
