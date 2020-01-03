@@ -11,7 +11,6 @@ variables:
 stages:
   - build
   - review
-  - production
 
 cache:
   key: "$CI_COMMIT_REF_SLUG"
@@ -98,27 +97,5 @@ review_stop:
   only:
     - branches
   except:
-    - master
-# }}}
-
-prod_deploy:
-  image: docker
-  stage: production
-  services:
-    - docker:dind
-  script:
-    # Get the generated site content {{{
-    - docker pull $CONTAINER_BUILT_IMAGE
-    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
-    - docker cp $container_id:/site public
-    - docker rm $container_id
-    # }}}
-    - apk add --update curl
-    - curl https://github.com/netlify/netlifyctl/releases/download/v0.4.0/netlifyctl-linux-amd64-0.4.0.tar.gz -LO
-    - tar xvf netlifyctl-linux-amd64-0.4.0.tar.gz
-    - ./netlifyctl deploy -s fa4dd95a-994e-4f89-8a7a-2d9e9fc36a32 -P public -A $NETLIFY_ACCESS_TOKEN
-  variables:
-    GIT_STRATEGY: none
-  only:
     - master
 # }}}
