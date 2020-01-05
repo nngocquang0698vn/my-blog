@@ -92,9 +92,7 @@ build_no_test_deploy_site:
     - docker:dind
   stage: production
   script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
     - docker build -t $CONTAINER_BUILT_IMAGE .
-    - docker push $CONTAINER_BUILT_IMAGE
     - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
     - docker cp $container_id:/site public
     - apk add --update curl
