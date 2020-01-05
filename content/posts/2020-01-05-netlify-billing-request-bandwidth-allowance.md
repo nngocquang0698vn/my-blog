@@ -12,6 +12,8 @@ syndication:
   url: https://brid.gy/publish/twitter
 - text: Lobste.rs
   url: https://lobste.rs
+- text: Netlify Community Forum
+  url: https://community.netlify.com/t/netlify-billing-request-extra-bandwidth-allowances/6963
 image: /img/vendor/netlify-full-logo-white.png
 ---
 Dear Netlify,
