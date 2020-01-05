@@ -11,24 +11,7 @@ variables:
 stages:
   - build
   - review
-
-cache:
-  key: "$CI_COMMIT_REF_SLUG"
-  paths:
-    - netlify.toml
-
-# Ensure that the site builds {{{
-build_no_test_site:
-  services:
-    - docker:dind
-  stage: build
-  script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-    - docker build -t $CONTAINER_BUILT_IMAGE .
-    - docker push $CONTAINER_BUILT_IMAGE
-    # }}}
-  only:
-    - master
+  - production
 
 build_test_site:
   services:
@@ -99,3 +82,21 @@ review_stop:
   except:
     - master
 # }}}
+
+build_no_test_deploy_site:
+  services:
+    - docker:dind
+  stage: production
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker build -t $CONTAINER_BUILT_IMAGE .
+    - docker push $CONTAINER_BUILT_IMAGE
+    - container_id=$(docker create $CONTAINER_BUILT_IMAGE echo)
+    - docker cp $container_id:/site public
+    - apk add --update curl
+    - curl https://github.com/netlify/netlifyctl/releases/download/v0.4.0/netlifyctl-linux-amd64-0.4.0.tar.gz -LO
+    - tar xvf netlifyctl-linux-amd64-0.4.0.tar.gz
+    - ./netlifyctl deploy -s fa4dd95a-994e-4f89-8a7a-2d9e9fc36a32 -P public -A $NETLIFY_ACCESS_TOKEN
+    # }}}
+  only:
+    - master
