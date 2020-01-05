@@ -48,3 +48,11 @@ We then get the following pretty-printed XML:
   <packaging>pom</packaging>
 </project>
 ```
+
+If you are using this to pretty-print HTML, you can use:
+
+```sh
+$ xmllint --html --format in.html
+```
+
+But note that it will not ignore any non-standard HTML elements, or anything that it doesn't understand at least.
