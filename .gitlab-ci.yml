@@ -33,6 +33,10 @@ theme_branch:
   script:
     - apk add --update git ruby
     - ruby .ci/theme-branch.rb
+  only:
+    - branches
+  except:
+    - master
 # }}}
 
 # Review Apps {{{
