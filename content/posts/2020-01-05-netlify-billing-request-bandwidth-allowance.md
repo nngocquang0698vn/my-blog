@@ -25,4 +25,5 @@ However, these extra 100GB allowances have usually been in the last couple of da
 I would request that either Netlify allow for the allowance to rollover into the next month, so that $20 isn't immediately wasted, or that there's some ability to add a smaller increment of bandwidth allowance. Above the free tier is a $45/month plan, which is pretty expensive for a regular increased increment, so having a plan in between would be nice, too.
 
 Many thanks in advance,
+
 Jamie
