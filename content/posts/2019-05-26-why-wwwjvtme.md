@@ -44,5 +44,5 @@ TL;DR - I'd started using it for brevity, but then because it was being referred
 I've been a proponent of not using the apex (also known as naked domain) as a site's well-known domain for a while now. This is because it carries a few issues:
 
 - almost all DNS servers need to point the apex domain as an A record, which means you have to point to an IP address. This means it's harder to change to new infrastructure in a rush (i.e. via CNAME switching)
-- if a cookie is set on jvt.me, it automatically will go to www.jvt.me, and stats.jvt.me and all other subdomains. This is not an issue now, but if I were to want to add cookies I'd have to be careful that they weren't being sent
+- if a cookie is set on jvt.me, it automatically will go to [www.jvt.me](https://www.jvt.me), and stats.jvt.me and all other subdomains. This is not an issue now, but if I were to want to add cookies I'd have to be careful that they weren't being sent
 - it's my home on the World Wide Web so makes sense to be www
