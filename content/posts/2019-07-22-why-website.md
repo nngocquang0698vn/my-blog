@@ -104,7 +104,7 @@ I've found it incredibly helpful to blog about what I'm doing - I am regularly t
 
 This has been especially key for me as I started my career, and is definitely something I'll continue through it.
 
-And as echoed on the [Ladybug podcast: Blogging 101](https://ladybug.dev/episode/blogging-101/), writing it down for someone else is also a good way of proving understanding to yourself, especially with longer-form posts.
+And as echoed on the [Ladybug podcast: Blogging 101](https://ladybug.dev/blogging-101/), writing it down for someone else is also a good way of proving understanding to yourself, especially with longer-form posts.
 
 # For the email
 

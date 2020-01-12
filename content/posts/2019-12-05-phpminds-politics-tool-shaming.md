@@ -28,7 +28,7 @@ I've seen this before with folks looking down on front-end/full-stack developmen
 
 James took us through his journey as someone without a Computer Science background coming into tech and having some really toxic experiences.
 
-For someone already having some pretty strong imposter syndrome (sidenote: I'd recommend a listen of the [Ladybug podcast's episode on imposter syndrome](https://ladybug.dev/episode/impostor-syndrome/)), but meeting some more senior developers with strong opinions didn't really help much.
+For someone already having some pretty strong imposter syndrome (sidenote: I'd recommend a listen of the [Ladybug podcast's episode on imposter syndrome](https://www.ladybug.dev/impostor-syndrome)), but meeting some more senior developers with strong opinions didn't really help much.
 
 In the space of a year, James had gone through three different PHP frameworks, and was asking some questions of this cycle:
 
