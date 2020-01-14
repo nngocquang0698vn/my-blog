@@ -3,7 +3,7 @@ title: "Tech Nottingham April"
 description: "A recap of Tech Nottingham's April meetup."
 tags:
 - events
-- technottingham
+- tech-nottingham
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-10T21:45:25+0100
