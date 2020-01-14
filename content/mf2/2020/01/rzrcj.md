@@ -10,7 +10,7 @@
       "alt" : "Carol with the opening slides for NottsJS Meetup"
     } ],
     "published" : [ "2020-01-14T18:41:00Z" ],
-    "category" : [ "nottsjs" ],
+    "category" : [ "notts-js" ],
     "content" : [ {
       "html" : "",
       "value" : "We've got http://twitter.com/CarolSaysThings kicking off #NottsJS tonight for a community project evening with https://twitter.com/Codesleuth"
