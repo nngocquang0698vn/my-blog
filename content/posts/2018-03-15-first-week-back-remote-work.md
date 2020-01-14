@@ -3,8 +3,8 @@ title: My First Week Back to Working (Remotely) After Three Months
 description: How I've found the first week back to work after almost three months, and the productivity gains of working reduced hours.
 tags:
 - thoughts
-- capitalone
-- spectatdesigns
+- capital-one
+- spectat-designs
 image: /img/first-week-back-remote-work.png
 date: 2018-03-15T17:57:35+00:00
 license_prose: CC-BY-NC-SA-4.0

@@ -4,7 +4,7 @@ description: A look back at my journey up to now, the choices I've made, and wha
 tags:
 - musings
 - blogumentation
-- capitalone
+- capital-one
 - career
 - university
 - nottingham

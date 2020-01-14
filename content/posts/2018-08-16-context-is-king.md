@@ -4,7 +4,7 @@ description: How to have inclusive conversations by providing the right context 
 tags:
 - thoughts
 - communication
-- capitalone
+- capital-one
 - context
 date: 2018-08-16T11:59:16+01:00
 license_prose: CC-BY-NC-SA-4.0

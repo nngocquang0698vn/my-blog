@@ -6,7 +6,7 @@ tags:
 - aws
 - cloud
 - devops
-- capitalone
+- capital-one
 - cloud-custodian
 - dashboards
 - events

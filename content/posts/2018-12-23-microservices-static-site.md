@@ -6,7 +6,7 @@ tags:
 - jamstack
 - microservices
 - www.jvt.me
-- spectatdesigns
+- spectat-designs
 - netlifycms
 - jekyll
 date: 2018-12-23T11:02:31+00:00
