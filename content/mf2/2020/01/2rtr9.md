@@ -7,7 +7,7 @@
   "properties" : {
     "photo" : [ {
       "photo" : "https://media.jvt.me/w2hqx.png",
-      "alt" : ""
+      "alt" : "You Made This? I made this"
     } ],
     "name" : [ "Reply to https://twitter.com/mel_codes/status/1217359988907302912" ],
     "in-reply-to" : [ "https://twitter.com/mel_codes/status/1217359988907302912" ],
