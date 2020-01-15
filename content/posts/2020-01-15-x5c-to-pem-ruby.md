@@ -61,8 +61,6 @@ require 'json'
 require 'openssl'
 
 jwk = JSON.parse(File.read './key.jwk')
-jwk['x5c'].each do |k|
-  # note that this is a useless use of `.to_pem`, as `.to_s` returns this by default
-  puts OpenSSL::X509::Certificate.new(Base64.decode64(k)).to_pem
-end
+# note that this is a useless use of `.to_pem`, as `.to_s` returns this by default
+puts OpenSSL::X509::Certificate.new(Base64.decode64(jwk['x5c'].first)).to_pem
 ```
