@@ -57,6 +57,7 @@ Using [this comment from jesseecravens on GitHub](https://github.com/nsarno/knoc
 
 ```ruby
 require 'base64'
+require 'json'
 require 'openssl'
 
 jwk = JSON.parse(File.read './key.jwk')
