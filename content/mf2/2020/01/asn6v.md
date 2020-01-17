@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-17T23:07:00Z",
   "h" : "h-entry",
+  "tags": [ "hashtags" ],
   "properties" : {
     "published" : [ "2020-01-17T23:07:00Z" ],
     "category" : [ "hashtags" ],
