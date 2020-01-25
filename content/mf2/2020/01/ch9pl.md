@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "content" : [ {
       "html" : "",
-      "value" : "As mentioned in https://www.jvt.me/mf2/2019/12/9pwds/ km enjoying some sun in Tenerife!"
+      "value" : "As mentioned in https://www.jvt.me/mf2/2019/12/9pwds/ I'm enjoying some sun in Tenerife!"
     } ],
     "event" : {
       "url" : [ "https://events.indieweb.org/2020/01/homebrew-website-club-nottingham-9kM6PKvcxAXZ" ],
