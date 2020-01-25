@@ -16,7 +16,6 @@
       "end" : [ "2020-02-05T19:30:00+00:00" ],
       "location" : {
         "street-address" : [ "72 Maid Marian Way" ],
-        "locality" : null,
         "country-name" : [ "United Kingdom" ]
       }
     }
