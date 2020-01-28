@@ -5,10 +5,10 @@
   "date" : "2019-12-19T14:26:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "RSVP yes to https://www.meetup.com/DevOps-Notts/events/266765057/" ],
+    "name" : [ "RSVP no to https://www.meetup.com/DevOps-Notts/events/266765057/" ],
     "in-reply-to" : [ "https://www.meetup.com/DevOps-Notts/events/266765057/" ],
     "published" : [ "2019-12-19T14:26:00Z" ],
-    "rsvp" : [ "yes" ],
+    "rsvp" : [ "no" ],
     "event" : {
       "url" : [ "https://www.meetup.com/DevOps-Notts/events/266765057/" ],
       "name" : [ "DevOps Notts - January 2020" ],
