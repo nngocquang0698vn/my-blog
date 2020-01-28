@@ -27,3 +27,5 @@ This isn't quite as interactive as you'd want, especially as these could be used
 This Webhook hits the newly created `https://www-api.jvt.me/notifications/webmention` endpoint with a shared secret (to prevent spam) and then sends a push notification via [PushBullet](https://pushbullet.com/), which I currently use to notify me when my site has deployed.
 
 You can see the code changes required on the [Merge Request on GitLab.com: _Add webhook for mapping Webmention.io to push notifications_](https://gitlab.com/jamietanna/www-api/merge_requests/70).
+
+**Update 2020-01-28**: Since [finding out I can only send 100 messages a month](https://www.jvt.me/mf2/2020/01/yelaf/) with Pushbullet, I have since replaced it with Pushover, [after getting some good recommendations](https://www.jvt.me/mf2/2020/01/q7btl/) for it. You can see the code changes required to add Pushover [Merge Request on GitLab.com: _Use Pushover for Webmention notifications_](https://gitlab.com/jamietanna/www-api/-/merge_requests/82).
