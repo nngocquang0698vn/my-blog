@@ -95,6 +95,6 @@ GET https://meetup-mf2.jvt.me/Tech-Nottingham/events
 
 Because this exposes an Microformats2 JSON feed, it should be possible to subscribe to a given Meetup.com group.
 
-Note: If you're trying to use it with [Aperture](https://aperture.p3k.io), [there's a PR that needs to be merged](https://github.com/aaronpk/XRay/pull/94) before it'll work.
+~~Note: If you're trying to use it with [Aperture](https://aperture.p3k.io), [there's a PR that needs to be merged](https://github.com/aaronpk/XRay/pull/94) before it'll work.~~ This is now works with [Aperture](https://aperture.p3k.io)!
 
 Another thing to note is that this will only show upcoming events for a given group - hopefully that's all you need, but feel free to [use the issue tracker if you want the option](https://gitlab.com/jamietanna/meetup-mf2/issues).
