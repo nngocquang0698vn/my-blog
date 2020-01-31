@@ -24,6 +24,9 @@ Using the coreutils, we can use the `date` command-line tool:
 ```sh
 $ date --date='@1516239022'
 Thu 18 Jan 01:30:22 GMT 2018
+# alternatively, using the BSD `date` command, i.e. on MacOS
+$ date -r 1516239022
+Thu 18 Jan 01:30:22 GMT 2018
 ```
 
 Which we can convert to a handy function:
