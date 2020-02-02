@@ -30,7 +30,6 @@ paginate = 25
   IgnoreInFeeds = ["", "projects", "talks"]
 
 [permalinks]
-  categories = "/categories/:title/"
   events = "/:sections/:slug/"
   mf2 = "/mf2/:slug/"
   posts = "/posts/:year/:month/:day/:slug/"
@@ -38,7 +37,6 @@ paginate = 25
   kinds = "/kind/:title/"
 
 [taxonomies]
-  category = "categories"
   kind = "kind"
   tag = "tags"
   series = "series"
