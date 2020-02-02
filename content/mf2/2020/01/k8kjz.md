@@ -5,10 +5,10 @@
   "date" : "2020-01-14T18:07:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "RSVP maybe to https://www.meetup.com/LevelUp-Notts/events/267902436/" ],
+    "name" : [ "RSVP no to https://www.meetup.com/LevelUp-Notts/events/267902436/" ],
     "in-reply-to" : [ "https://www.meetup.com/LevelUp-Notts/events/267902436/" ],
     "published" : [ "2020-01-14T18:07:00Z" ],
-    "rsvp" : [ "maybe" ],
+    "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
       "url" : [ "https://www.meetup.com/LevelUp-Notts/events/267902436/" ],
