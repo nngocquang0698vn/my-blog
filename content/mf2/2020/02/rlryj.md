@@ -7,7 +7,7 @@
   "properties" : {
     "photo" : [ {
       "photo" : "https://media.jvt.me/fs5lu.jpeg",
-      "alt" : "Jamie, Isaac and Caolan at Ludorati in Nottingham"
+      "alt" : "Jamie, Caolan and Isaac  at Ludorati in Nottingham"
     } ],
     "published" : [ "2020-02-05T18:56:00Z" ],
     "category" : [ "homebrew-website-club" ],
