@@ -14,14 +14,9 @@
       "value" : "I'll dip in and out when I get a chance! "
     } ],
     "event" : {
-      "location" : {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "name" : [ "Online" ]
-        },
-        "lang" : "en",
-        "value" : "Online"
-      },
+      "location" : [
+        "Online"
+      ],
       "url" : [ "https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv" ],
       "name" : [ "IndieWebCamp Online" ],
       "start" : [ "2020-02-08" ],
