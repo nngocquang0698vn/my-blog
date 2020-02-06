@@ -13,7 +13,7 @@
     "category" : [ "wit-notts" ],
     "content" : [ {
       "html" : "",
-      "value" : "<a href=\"/tags/wit-notts/\">#WiTNotts</a> is kicking off with the wonderful https://twitter.com/anna_hax and https://twitter.com/CarolSaysThings"
+      "value" : "<a href=\"/tags/wit-notts/\">#WiTNotts</a> is kicking off with the wonderful https://twitter.com/anna_hax and https://twitter.com/CarolSaysThings "
     } ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
