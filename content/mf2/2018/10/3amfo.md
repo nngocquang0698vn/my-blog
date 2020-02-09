@@ -1,6 +1,6 @@
 {
   "kind": "rsvps",
-  "slug": "mf2/2018/10/3amfo/",
+  "slug": "2018/10/3amfo/",
   "date": "2018-10-18T18:30:00+01:00",
   "h": "h-entry",
   "properties": {
