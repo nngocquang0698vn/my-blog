@@ -9,7 +9,7 @@
     "in-reply-to" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/268209825/" ],
     "published" : [ "2020-01-29T07:59:11.01+01:00" ],
     "rsvp" : [ "yes" ],
-    "syndication" : [ "https://brid.gy/publish/meetup" ],
+    "syndication" : [ "https://brid.gy/publish/meetup", "http://localhost:8080/publish/meetup"],
     "event" : {
       "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/268209825/" ],
       "name" : [ "Incident Response & Security Operation Centres - responding to a Cyber Incident" ],
