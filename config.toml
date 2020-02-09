@@ -42,7 +42,7 @@ paginate = 25
   series = "series"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir"]
+home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir", "contentDeduplication"]
 section = ["HTML", "eventsCalendar", "RSS"]
 page = ["HTML", "eventsCalendar"]
 
@@ -63,6 +63,9 @@ baseName = "post-frequency"
 [outputFormats.eventsCalendar]
 mediaType = "text/calendar"
 baseName = "index"
+[outputFormats.contentDeduplication]
+mediatype = "application/json"
+baseName = "content-deduplication"
 [outputFormats.rsvpCalendar]
 mediaType = "text/calendar"
 baseName = "/rsvps/index"
