@@ -47,6 +47,8 @@ We've found that by turning the planning of what to eat from an "oh god, we've j
 
 One unfortunate side effect of the move to having self-contained, healthier portioned meals for us both is that we now never have enough leftover for lunches. I'm fortunate to have a reasonably priced canteen at work, but Anna does not, so would usually take lunch in herself. However, because that now means a second set of cooking, we've been a bit more lax on it, and Anna's instead been getting food from near her work.
 
+But that doesn't mean that they're by any means small - each meal has felt like it's had plenty for two people, unless you go for the very healthy meals.
+
 ![Extra Special Sausage and Mash](/img/four-months-gousto/sausage-mash.jpg)
 
 We've found that it's been a really awesome variety, from [Swedish Meatballs, Mash and Green Beans](https://www.gousto.co.uk/cookbook/pork-recipes/swedish-meatballs-mash-green-beans) to [Chicken Katsu Curry](https://www.gousto.co.uk/cookbook/chicken-recipes/chicken-katsu-curry) to [Chinese-Style Beef & Green Pepper Stir-Fry](https://www.gousto.co.uk/cookbook/beef-recipes/chinese-style-beef-green-pepper-stir-fry). As well as the usual food we'd cook, we've found we're venturing into other cuisines we wouldn't usually try, as well as going for more "difficult" recipes compared to what we used to do previously. It's opened our eyes culinarily, and shown that actually we can cook if we have a good recipe, and it's really helped with our confidence with that in mind. Following a recipe is pretty easy, it turns out!
