@@ -30,14 +30,19 @@
         "2015-12-20T17:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "London Road"
-        ],
-        "locality": [
-          "Peterborough"
-        ],
-        "postal-code": [
-          "PE2 8AL"
+        "properties": {
+          "street-address": [
+            "London Road"
+          ],
+          "locality": [
+            "Peterborough"
+          ],
+          "postal-code": [
+            "PE2 8AL"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

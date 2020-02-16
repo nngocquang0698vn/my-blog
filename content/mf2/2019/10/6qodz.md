@@ -31,14 +31,19 @@
         "2019-11-26T21:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "Rebel Recruiters, Huntingdon St"
-        ],
-        "locality": [
-          "Nottinghamshire"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "Rebel Recruiters, Huntingdon St"
+          ],
+          "locality": [
+            "Nottinghamshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

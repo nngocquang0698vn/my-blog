@@ -31,17 +31,22 @@
         "2019-12-11T19:30:00+0000"
       ],
       "location": {
-        "street-address": [
-          "72 Maid Marian Way"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
-        ],
-        "postal-code": [
-          "NG1 6BJ"
+        "properties": {
+          "street-address": [
+            "72 Maid Marian Way"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NG1 6BJ"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

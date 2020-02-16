@@ -30,14 +30,19 @@
         "2019-03-21T21:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "Fothergill House,16 King St"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 2AS"
+        "properties": {
+          "street-address": [
+            "Fothergill House,16 King St"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 2AS"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

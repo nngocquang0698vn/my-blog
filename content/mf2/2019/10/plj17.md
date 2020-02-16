@@ -30,14 +30,19 @@
         "2019-10-26T17:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "30 Burton Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 4BU"
+        "properties": {
+          "street-address": [
+            "30 Burton Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 4BU"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

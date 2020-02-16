@@ -30,14 +30,19 @@
         "2017-08-22T19:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "9A Beck St"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 1EQ"
+        "properties": {
+          "street-address": [
+            "9A Beck St"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 1EQ"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

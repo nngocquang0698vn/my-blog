@@ -30,14 +30,19 @@
         "2018-09-21T16:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "Broad Sanctuary , Westminster"
-        ],
-        "locality": [
-          "London"
-        ],
-        "postal-code": [
-          "SW1P 3EE"
+        "properties": {
+          "street-address": [
+            "Broad Sanctuary , Westminster"
+          ],
+          "locality": [
+            "London"
+          ],
+          "postal-code": [
+            "SW1P 3EE"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

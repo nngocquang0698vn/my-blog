@@ -30,14 +30,19 @@
         "2019-01-08T20:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "JH, 34a Stoney Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "JH, 34a Stoney Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

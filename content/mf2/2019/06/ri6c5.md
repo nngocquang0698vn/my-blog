@@ -30,14 +30,19 @@
         "2019-06-29T16:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "3rd Floor, 16 King Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 2AS"
+        "properties": {
+          "street-address": [
+            "3rd Floor, 16 King Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 2AS"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

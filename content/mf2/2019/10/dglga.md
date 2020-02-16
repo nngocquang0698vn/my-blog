@@ -31,14 +31,19 @@
         "2019-11-07T21:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "Antenna, 9A Beck St"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "Antenna, 9A Beck St"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

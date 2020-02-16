@@ -30,14 +30,19 @@
         "2019-09-29T16:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "7 Kattenburgerstraat, #Building 039"
-        ],
-        "locality": [
-          "Amsterdam"
-        ],
-        "postal-code": [
-          "1018 JA"
+        "properties": {
+          "street-address": [
+            "7 Kattenburgerstraat, #Building 039"
+          ],
+          "locality": [
+            "Amsterdam"
+          ],
+          "postal-code": [
+            "1018 JA"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

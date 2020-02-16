@@ -36,13 +36,18 @@
         "2019-10-06"
       ],
       "location": {
-        "street-address": [
-          "163 William St 2nd Floor"
-        ],
-        "locality": [
-          "New York City"
-        ],
-        "country-name": null
+        "properties": {
+          "street-address": [
+            "163 William St 2nd Floor"
+          ],
+          "locality": [
+            "New York City"
+          ],
+          "country-name": null
+        },
+        "type": [
+          "h-adr"
+        ]
       }
     }
   },

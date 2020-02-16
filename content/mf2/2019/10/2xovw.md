@@ -30,14 +30,19 @@
         "2019-10-26T22:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "Trinity Square"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 4AF"
+        "properties": {
+          "street-address": [
+            "Trinity Square"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 4AF"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

@@ -30,14 +30,19 @@
         "2018-04-07T17:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "14-18 Broad Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 3AL"
+        "properties": {
+          "street-address": [
+            "14-18 Broad Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 3AL"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

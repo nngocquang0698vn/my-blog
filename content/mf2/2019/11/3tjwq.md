@@ -37,14 +37,19 @@
         "2019-12-02T22:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "Penny Lane, 9 Fletcher Gate"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "Penny Lane, 9 Fletcher Gate"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }
