@@ -30,14 +30,19 @@
         "2016-12-08T22:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "24-32 Carlton Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 1NN"
+        "properties": {
+          "street-address": [
+            "24-32 Carlton Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 1NN"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

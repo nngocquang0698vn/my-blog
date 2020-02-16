@@ -30,14 +30,19 @@
         "2014-11-15T17:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "The University of Nottingham - Jubilee Campus, Wollaton Road"
-        ],
-        "locality": [
-          null
-        ],
-        "postal-code": [
-          "NG8 1BB"
+        "properties": {
+          "street-address": [
+            "The University of Nottingham - Jubilee Campus, Wollaton Road"
+          ],
+          "locality": [
+            null
+          ],
+          "postal-code": [
+            "NG8 1BB"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

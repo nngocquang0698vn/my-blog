@@ -26,14 +26,19 @@
         "2019-06-06T21:00:00+0100"
       ],
       "location": {
-        "street-address": [
-          "Antenna, 9A Beck Street"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "Antenna, 9A Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

@@ -30,14 +30,19 @@
         "2016-12-18T16:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "Allia Future Business Centre"
-        ],
-        "locality": [
-          "Peterborough"
-        ],
-        "postal-code": [
-          "PE2 8AL"
+        "properties": {
+          "street-address": [
+            "Allia Future Business Centre"
+          ],
+          "locality": [
+            "Peterborough"
+          ],
+          "postal-code": [
+            "PE2 8AL"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

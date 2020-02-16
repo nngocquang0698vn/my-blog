@@ -33,14 +33,19 @@
         "2018-10-18T20:30:00+01:00"
       ],
       "location": {
-        "street-address": [
-          "UNiDAYS, 2 Castle Boulevard, Nottingham, NG7 1FB, England"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "country-name": [
-          "United Kingdom"
+        "properties": {
+          "street-address": [
+            "UNiDAYS, 2 Castle Boulevard, Nottingham, NG7 1FB, England"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

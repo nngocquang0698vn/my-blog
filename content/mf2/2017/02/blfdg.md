@@ -30,14 +30,19 @@
         "2017-02-18T17:00:00Z"
       ],
       "location": {
-        "street-address": [
-          "De Vere Jubilee Conference Centre"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG8 1DH"
+        "properties": {
+          "street-address": [
+            "De Vere Jubilee Conference Centre"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG8 1DH"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

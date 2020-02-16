@@ -11,10 +11,15 @@
     "rsvp" : [ "yes" ],
     "event" : {
       "location" : {
-        "name" : [ "Ludorati Café" ],
-        "street-address" : [ "72 Maid Marian Way" ],
-        "region" : [ "England" ],
-        "country-name" : [ "United Kingdom" ]
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Ludorati Café" ],
+          "street-address" : [ "72 Maid Marian Way" ],
+          "region" : [ "England" ],
+          "country-name" : [ "United Kingdom" ]
+        },
+        "lang" : "en",
+        "value" : "Ludorati Café"
       },
       "url" : [ "https://events.indieweb.org/2020/03/homebrew-website-club-nottingham-anniversary-edition--Rcujt5SykHv1" ],
       "name" : [ "Homebrew Website Club: Nottingham (Anniversary edition)" ],

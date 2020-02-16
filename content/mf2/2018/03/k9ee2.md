@@ -30,14 +30,19 @@
         "2018-03-11T17:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "Old Market Square"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG1 2DT"
+        "properties": {
+          "street-address": [
+            "Old Market Square"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 2DT"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }

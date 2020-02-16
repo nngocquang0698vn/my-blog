@@ -30,14 +30,19 @@
         "2015-09-25T15:30:00Z"
       ],
       "location": {
-        "street-address": [
-          "Computer Science, Jubilee Tampus"
-        ],
-        "locality": [
-          "Nottingham"
-        ],
-        "postal-code": [
-          "NG8 1BB"
+        "properties": {
+          "street-address": [
+            "Computer Science, Jubilee Tampus"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG8 1BB"
+          ]
+        },
+        "type": [
+          "h-adr"
         ]
       }
     }
