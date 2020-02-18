@@ -34,6 +34,9 @@ to = "/tags/capital-one/"
 [[params.redirect]]
 from = "/tags/inclusivity/"
 to = "/tags/diversity-and-inclusion/"
+[[params.redirect]]
+from = "/.git"
+to = "https://gitlab.com/jamietanna/jvt.me"
 
 [permalinks]
   events = "/:sections/:slug/"
