@@ -14,12 +14,12 @@
       "2019-10-20T10:25:00+0100"
     ],
     "category": [
-      "diversity",
+      "diversity-and-inclusion",
       "funny"
     ]
   },
   "tags": [
-    "diversity",
+    "diversity-and-inclusion",
     "funny"
   ],
   "slug": "2019/10/6xtdw",

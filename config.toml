@@ -32,6 +32,9 @@ paginate = 25
 from = "/tags/capitalone/"
 to = "/tags/capital-one/"
 [[params.redirect]]
+from = "/tags/diversity/"
+to = "/tags/diversity-and-inclusion/"
+[[params.redirect]]
 from = "/tags/inclusivity/"
 to = "/tags/diversity-and-inclusion/"
 [[params.redirect]]
