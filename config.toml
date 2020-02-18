@@ -29,6 +29,9 @@ paginate = 25
   MicroPubEndpoint = "https://www-api.jvt.me/micropub"
   IgnoreInFeeds = ["", "projects", "talks"]
 [[params.redirect]]
+from = "/tags/archlinux/"
+to = "/tags/arch-linux/"
+[[params.redirect]]
 from = "/tags/capitalone/"
 to = "/tags/capital-one/"
 [[params.redirect]]
