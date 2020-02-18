@@ -4,7 +4,7 @@ description: "A writeup of James' talk at PHPMiNDS about the impacts of criticis
 tags:
 - events
 - neurodiversity
-- inclusivity
+- diversity-and-inclusion
 - phpminds
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0

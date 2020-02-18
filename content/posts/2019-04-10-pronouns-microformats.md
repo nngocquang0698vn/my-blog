@@ -4,7 +4,7 @@ description: "Adding my pronouns to my personal h-card to help others determine 
 tags:
 - announcement
 - microformats
-- inclusivity
+- diversity-and-inclusion
 - www.jvt.me
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
