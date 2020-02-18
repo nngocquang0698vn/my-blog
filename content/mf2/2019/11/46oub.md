@@ -8,11 +8,11 @@
     "name" : [ "Pronouns in the Bio" ],
     "bookmark-of" : [ "https://gregorlove.com/2019/11/pronouns-in-the-bio/" ],
     "published" : [ "2019-11-26T23:23:00Z" ],
-    "category" : [ "inclusivity" ],
+    "category" : [ "diversity-and-inclusion" ],
     "content" : [ {
       "html" : "",
       "value" : "Definitely yes to this! I've also proposed how we can do this using Microformats2 in https://www.jvt.me/posts/2019/04/10/pronouns-microformats/"
     } ]
   },
-  "tags" : [ "inclusivity" ]
+  "tags" : [ "diversity-and-inclusion" ]
 }

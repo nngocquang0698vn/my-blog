@@ -31,6 +31,9 @@ paginate = 25
 [[params.redirect]]
 from = "/tags/capitalone/"
 to = "/tags/capital-one/"
+[[params.redirect]]
+from = "/tags/inclusivity/"
+to = "/tags/diversity-and-inclusion/"
 
 [permalinks]
   events = "/:sections/:slug/"

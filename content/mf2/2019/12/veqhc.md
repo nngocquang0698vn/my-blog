@@ -8,8 +8,8 @@
     "name" : [ "Alex.js: Catch insensitive, inconsiderate writing" ],
     "bookmark-of" : [ "https://alexjs.com" ],
     "published" : [ "2019-12-27T14:20:00Z" ],
-    "category" : [ "inclusivity", "writing", "communication" ],
+    "category" : [ "diversity-and-inclusion", "writing", "communication" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "inclusivity", "writing", "communication" ]
+  "tags" : [ "diversity-and-inclusion", "writing", "communication" ]
 }

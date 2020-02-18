@@ -15,12 +15,12 @@
       "2019-10-25T13:38:34.967+02:00"
     ],
     "category": [
-      "inclusivity",
+      "diversity-and-inclusion",
       "communication"
     ]
   },
   "tags": [
-    "inclusivity",
+    "diversity-and-inclusion",
     "communication"
   ],
   "aliases": [

@@ -15,11 +15,11 @@
       "2019-11-02T13:14:00Z"
     ],
     "category": [
-      "inclusivity"
+      "diversity-and-inclusion"
     ]
   },
   "tags": [
-    "inclusivity"
+    "diversity-and-inclusion"
   ],
   "aliases": [
     "/mf2/2019/11/ivuv2",
