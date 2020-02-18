@@ -28,6 +28,9 @@ paginate = 25
   MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
   MicroPubEndpoint = "https://www-api.jvt.me/micropub"
   IgnoreInFeeds = ["", "projects", "talks"]
+[[params.redirect]]
+from = "/tags/capitalone/"
+to = "/tags/capital-one/"
 
 [permalinks]
   events = "/:sections/:slug/"
