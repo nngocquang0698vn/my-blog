@@ -40,14 +40,14 @@ $ unset AWS_PROFILE && \
 And now when we set the variable:
 
 ```
-$ env AWS_PROFILE=spectat_prod_read_only && \
+$ export AWS_PROFILE=spectat_prod_read_only && \
   aws iam list-account-aliases
 {
   "AccountAliases": [
     "spectat_prod"
   ]
 }
-$ env AWS_PROFILE=spectat_prod_read_only && \
+$ export AWS_PROFILE=spectat_prod_read_only && \
   ruby -raws-sdk -e 'p Aws::IAM::Client.new.list_account_aliases.to_h'
 {:account_aliases=>["spectat_prod"], :is_truncated=>false}
 ```
