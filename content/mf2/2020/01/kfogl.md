@@ -6,7 +6,7 @@
   "h": "h-entry",
   "properties": {
     "name": [
-      "RSVP maybe to https://www.meetup.com/Notts-Dev-Workshop/events/267988124/"
+      "RSVP no to https://www.meetup.com/Notts-Dev-Workshop/events/267988124/"
     ],
     "in-reply-to": [
       "https://www.meetup.com/Notts-Dev-Workshop/events/267988124/"
@@ -15,7 +15,7 @@
       "2020-01-27T23:57:51.753+01:00"
     ],
     "rsvp": [
-      "maybe"
+      "no"
     ],
     "syndication": [
       "https://brid.gy/publish/meetup"
