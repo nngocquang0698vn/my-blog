@@ -6,7 +6,7 @@
   "h": "h-entry",
   "properties": {
     "name": [
-      "RSVP maybe to https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv"
+      "RSVP yes to https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv"
     ],
     "in-reply-to": [
       "https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv"
@@ -15,7 +15,7 @@
       "2020-02-06T07:10:00Z"
     ],
     "rsvp": [
-      "maybe"
+      "yes"
     ],
     "content": [
       {
