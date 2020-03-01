@@ -17,7 +17,7 @@ syndication:
 - text: /en/micropub
   url: https://indieweb.xyz/en/micropub
 ---
-Recently <span class="h-card"><a class="u-url" href="https://jlesle.blog">Jan-Lukas Else</a></span> [wrote "How should I upload files to my Micropub media endpoint?"](https://jlelse.blog/micro/2020/01/2020-01-01-frviz/), which is a question I myself have asked in the past.
+Recently <span class="h-card"><a class="u-url" href="https://jlelse.blog">Jan-Lukas Else</a></span> [wrote "How should I upload files to my Micropub media endpoint?"](https://jlelse.blog/micro/2020/01/2020-01-01-frviz/), which is a question I myself have asked in the past.
 
 Since having the ability to upload to my own media endpoint, I've found it has been a bit of a pain point to upload files without needing to create a post. For instance, uploading a screenshot to send someone, or upload an image for a post's featured image, neither of which flow expect a post to be created there and then, but to be consumed by other means.
 
