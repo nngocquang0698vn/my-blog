@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Experian - The Sir John Peace Building, Experian Way, Nottingham, United Kingdom",
+      "location" : ["Experian - The Sir John Peace Building, Experian Way, Nottingham, United Kingdom"],
       "url" : [ "https://www.meetup.com/ministry-of-testing-nottingham/events/jgthgrybcfbgb/" ],
       "name" : [ "#NottsTest - The Humans of Testing with Iain Mc" ],
       "start" : [ "2020-03-04T19:00:00Z" ],

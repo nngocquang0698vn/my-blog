@@ -11,7 +11,7 @@
     "rsvp" : [ "yes" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Antenna, 9A Beck St, Nottingham, United Kingdom",
+      "location" : ["Antenna, 9A Beck St, Nottingham, United Kingdom"],
       "url" : [ "https://www.meetup.com/Women-In-Tech-Nottingham/events/268710995/" ],
       "name" : [ "Women in Tech 2nd April - Thoughts to Pixels: the impact of blogging" ],
       "start" : [ "2020-04-02T18:30:00+01:00" ],

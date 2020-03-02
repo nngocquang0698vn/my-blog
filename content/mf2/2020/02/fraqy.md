@@ -11,7 +11,7 @@
     "rsvp" : [ "yes" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Antenna, Beck Street, Nottingham, United Kingdom",
+      "location" : ["Antenna, Beck Street, Nottingham, United Kingdom"],
       "url" : [ "https://www.meetup.com/Tech-Nottingham/events/268712654/" ],
       "name" : [ "Tech Nottingham May - After the launch & The connected house of horrors" ],
       "start" : [ "2020-05-11T18:30:00+01:00" ],

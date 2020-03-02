@@ -11,7 +11,7 @@
     "rsvp" : [ "yes" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Antenna, 9A Beck St, Nottingham, United Kingdom",
+      "location" : ["Antenna, 9A Beck St, Nottingham, United Kingdom"],
       "url" : [ "https://www.meetup.com/Women-In-Tech-Nottingham/events/268710876/" ],
       "name" : [ "Women in Tech 5th March - Lightning talks! ⚡️" ],
       "start" : [ "2020-03-05T18:30:00Z" ],
