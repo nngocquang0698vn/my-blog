@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Mosaic, Thomas Parker House, Lincoln, United Kingdom",
+      "location" : ["Mosaic, Thomas Parker House, Lincoln, United Kingdom"],
       "url" : [ "https://www.meetup.com/digitallincoln/events/268750262/" ],
       "name" : [ "Missile Destroyers, Supercomputers, and Chernobyl: Psychological safety & teams." ],
       "start" : [ "2020-04-28T18:30:00+01:00" ],

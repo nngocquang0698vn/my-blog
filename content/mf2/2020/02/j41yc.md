@@ -11,7 +11,7 @@
     "rsvp" : [ "yes" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Antenna, 9A Beck St, Nottingham, United Kingdom",
+      "location" : ["Antenna, 9A Beck St, Nottingham, United Kingdom"],
       "url" : [ "https://www.meetup.com/Women-In-Tech-Nottingham/events/268711710/" ],
       "name" : [ "Women in Tech 6th May - The Power of Change: learning to live as a “weirdo”" ],
       "start" : [ "2020-05-06T18:30:00+01:00" ],

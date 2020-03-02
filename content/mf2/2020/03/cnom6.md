@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Rebel Recruiters, Huntingdon Street, Nottinghamshire, United Kingdom",
+      "location" : ["Rebel Recruiters, Huntingdon Street, Nottinghamshire, United Kingdom"],
       "url" : [ "https://www.meetup.com/Nottingham-IoT-Meetup/events/268851498/" ],
       "name" : [ "Bad Dog Designs, Steve Spencer and Rob Miles Triple Bill!" ],
       "start" : [ "2020-03-12T18:00:00Z" ],

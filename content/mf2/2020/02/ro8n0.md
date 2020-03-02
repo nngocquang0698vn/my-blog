@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Rebel Recruiters, Huntingdon St, Nottinghamshire, United Kingdom",
+      "location" : ["Rebel Recruiters, Huntingdon St, Nottinghamshire, United Kingdom"],
       "url" : [ "https://www.meetup.com/DevOps-Notts/events/267477483/" ],
       "name" : [ "DevOps Notts - February 2020" ],
       "start" : [ "2020-02-25T18:30:00Z" ],

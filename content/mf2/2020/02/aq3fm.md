@@ -10,7 +10,7 @@
     "rsvp" : [ "yes" ],
     "syndication" : [],
     "event" : {
-      "location" : "QEII Centre, Broad Sanctuary, Westminster ",
+      "location" : ["QEII Centre, Broad Sanctuary, Westminster "],
       "url" : [ "https://devopsdays.org/events/2020-london/" ],
       "name" : [ "DevOpsDays London 2020" ],
       "start" : [ "2020-09-24T09:00:00Z" ],

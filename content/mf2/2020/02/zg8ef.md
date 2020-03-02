@@ -11,7 +11,7 @@
     "rsvp" : [ "no" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : "Mosaic, Thomas Parker House, Lincoln, United Kingdom",
+      "location" : ["Mosaic, Thomas Parker House, Lincoln, United Kingdom"],
       "url" : [ "https://www.meetup.com/digitallincoln/events/268750051/" ],
       "name" : [ "Automating UI testing with Tom Austin" ],
       "start" : [ "2020-03-31T18:30:00+01:00" ],
