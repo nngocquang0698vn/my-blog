@@ -32,8 +32,9 @@ console.log(JSON.stringify(querystringParams, null, 4));
 */
 ```
 
-And for a handy one-liner:
+And for a handy one-liner, which will let you optionally specify the parameter to display:
 
 ```sh
-$ echo 'https://example.com/auth/callback?code=foo&state=blah' | node -r fs -r querystring -r url -e 'console.log(JSON.stringify(querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).query), null, 4))'
+# note the required use of `--` at the end!
+$ echo 'https://example.com/auth/callback?code=foo&state=blah' | node -r fs -r process -r querystring -r url -e 'q = querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).query);console.log((process.argv.slice(0)[1]) ? (q[process.argv.slice(0)[1]] || "") : JSON.stringify(q, null, 4));' -- code
 ```

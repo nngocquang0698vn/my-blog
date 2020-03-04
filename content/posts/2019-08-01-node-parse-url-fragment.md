@@ -32,8 +32,8 @@ console.log(JSON.stringify(fragmentParams, null, 4));
 
 Also note that yes, this should be received by your browser, not by some Node code which runs on the backend, but for the purpose I've been testing it with, the Node code for it was important.
 
-And for a handy one-liner:
+And for a handy one-liner, which will let you optionally specify the parameter to display:
 
 ```sh
-$ echo 'https://example.com/auth/callback#code=foo&state=blah' | node -r querystring -r url -e 'console.log(JSON.stringify(querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).hash.replace("#", "")), null, 4))'
+$ echo 'https://example.com/auth/callback#code=foo&state=blah' | node -r querystring -r url -e 'q = querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).hash.replace("#", ""));console.log((process.argv.slice(0)[1]) ? (q[process.argv.slice(0)[1]] || "") : JSON.stringify(q, null, 4));'
 ```
