@@ -35,5 +35,6 @@ Also note that yes, this should be received by your browser, not by some Node co
 And for a handy one-liner, which will let you optionally specify the parameter to display:
 
 ```sh
-$ echo 'https://example.com/auth/callback#code=foo&state=blah' | node -r querystring -r url -e 'q = querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).hash.replace("#", ""));console.log((process.argv.slice(0)[1]) ? (q[process.argv.slice(0)[1]] || "") : JSON.stringify(q, null, 4));'
+# note the required use of `--` at the end!
+$ echo 'https://example.com/auth/callback#code=foo&state=blah' | node -r querystring -r url -e 'q = querystring.parse(url.parse(fs.readFileSync("/dev/stdin", "utf-8")).hash.replace("#", ""));console.log((process.argv.slice(0)[1]) ? (q[process.argv.slice(0)[1]] || "") : JSON.stringify(q, null, 4));' -- code
 ```
