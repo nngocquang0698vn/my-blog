@@ -23,7 +23,7 @@ In a Twitter exchange, John Mueller, a Webmaster Trends Analyst at Google, confi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yes, we still support them.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1219739919268155392?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote>
 
-John also confirmed that he knows of upcoming no plans to deprecate Microformats:
+John also confirmed that he knows of no upcoming plans to deprecate Microformats:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We don&#39;t have any plans for changes to announce there at the moment. I don&#39;t know off-hand how broadly microformats are used, my guess is it&#39;s much more than data-vocabulary. That said ... <a href="https://t.co/ZCE7rTKmPa">https://t.co/ZCE7rTKmPa</a></p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1219597542318538752?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote>
 
