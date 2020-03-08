@@ -8,8 +8,8 @@
     "name" : [ "Building Inclusive Workplaces - part two" ],
     "bookmark-of" : [ "https://annadodson.co.uk/blog/2020/03/02/international-womens-day/" ],
     "published" : [ "2020-03-02T23:32:14.367+01:00" ],
-    "category" : [ "dni" ],
+    "category" : [ "diversity-and-inclusion" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "dni" ]
+  "tags" : [ "diversity-and-inclusion" ]
 }

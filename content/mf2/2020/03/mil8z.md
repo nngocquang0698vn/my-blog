@@ -8,7 +8,7 @@
     "name" : [ "Like of https://dev.to/aspittel/nevertheless-ali-coded-e2h" ],
     "like-of" : [ "https://dev.to/aspittel/nevertheless-ali-coded-e2h" ],
     "published" : [ "2020-03-07T00:50:00Z" ],
-    "category" : [ "dni" ]
+    "category" : [ "diversity-and-inclusion" ]
   },
-  "tags" : [ "dni" ]
+  "tags" : [ "diversity-and-inclusion" ]
 }

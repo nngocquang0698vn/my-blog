@@ -65,8 +65,8 @@
   "properties" : {
     "published" : [ "2020-03-08T08:30:00Z" ],
     "repost-of" : [ "https://twitter.com/juliaferraioli/status/1236348591779778561" ],
-    "category" : [ "dni" ],
+    "category" : [ "diversity-and-inclusion" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "dni" ]
+  "tags" : [ "diversity-and-inclusion" ]
 }

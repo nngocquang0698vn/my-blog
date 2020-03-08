@@ -32,8 +32,8 @@
   "properties" : {
     "published" : [ "2020-02-24T22:17:00Z" ],
     "repost-of" : [ "https://twitter.com/_JulieRobinson/status/1231764399993561088" ],
-    "category" : [ "feminism", "dni" ],
+    "category" : [ "feminism", "diversity-and-inclusion" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "feminism", "dni" ]
+  "tags" : [ "feminism", "diversity-and-inclusion" ]
 }

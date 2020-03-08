@@ -8,7 +8,7 @@
     "name" : [ "Like of https://ladybug.dev/invisible-women" ],
     "like-of" : [ "https://ladybug.dev/invisible-women" ],
     "published" : [ "2020-02-28T17:36:00Z" ],
-    "category" : [ "invisible-women", "dni" ]
+    "category" : [ "invisible-women", "diversity-and-inclusion" ]
   },
-  "tags" : [ "invisible-women", "dni" ]
+  "tags" : [ "invisible-women", "diversity-and-inclusion" ]
 }
