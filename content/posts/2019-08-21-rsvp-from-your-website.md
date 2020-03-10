@@ -50,8 +50,8 @@ To show you what you need to do, let's go through [this example from the IndieWe
 <div class="h-entry">
   <span class="p-author h-card">
     <a class="u-url" href="HTTP://YOURSITE.EXAMPLE.ORG/">
-      <img class="u-photo" src="HTTP://EXAMPLE.ORG/YOURPHOTO.JPG" alt=""/>
-      YOUR FULL NAME HERE
+      <img class="u-photo" src="HTTP://EXAMPLE.ORG/YOURPHOTO.JPG" alt="YOUR FULL NAME HERE's photo"/>
+      <span class="p-name">YOUR FULL NAME HERE</span>
     </a>
   </span>:
   RSVP <span class="p-rsvp">yes</span>
@@ -82,7 +82,7 @@ Note that the authorship information is technically optional, and if you left it
 Inside the author information, we have a link to your home page, which may contain more information about the person, such as where you work.
 
 ```html
-    <img class="u-photo" src="HTTP://EXAMPLE.ORG/YOURPHOTO.JPG" alt=""/>
+    <img class="u-photo" src="HTTP://EXAMPLE.ORG/YOURPHOTO.JPG" alt="YOUR FULL NAME HERE's photo"/>
 ```
 
 To make the RSVPs render better, it can be helpful to share the author's photo.
@@ -91,10 +91,10 @@ Please note that your photo is definitely optional - don't feel like you need to
 
 
 ```html
-    YOUR FULL NAME HERE
+      <span class="p-name">YOUR FULL NAME HERE</span>
 ```
 
-We also add your name, which makes it easier for the event organiser to see who it is RSVPing, as `www.jvt.me` may not be as helpful if you don't know their domain off by heart.
+We also add your name, which makes it easier for the event organiser to see who it is RSVPing, as `www.jvt.me` may not be as helpful if you don't know their domain off by heart. We wrap this in a `p-name`, so a parser doesn't pick up the image's alt text, if set.
 
 Again, remember that this doesn't have to be your real name if you don't want to share it for privacy reasons.
 
