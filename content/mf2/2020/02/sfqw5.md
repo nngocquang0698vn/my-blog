@@ -6,12 +6,12 @@
   "h" : "h-entry",
   "properties" : {
     "published" : [ "2020-02-25T08:42:00Z" ],
-    "category" : [ "dev-ops-days" ],
+    "category" : [ "devopsdays" ],
     "content" : [ {
       "html" : "",
-      "value" : "Just bought my <a href=\"/tags/dev-ops-days/\">#DevOpsDays</a> London ticket! There are still £99 super early bird tickets at https://devopsdays.org/events/2020-london/welcome/\n\nIt's an awesome conference, which I'd thoroughly recommend - you can read about my time at https://www.jvt.me/tags/devopsdays/"
+      "value" : "Just bought my <a href=\"/tags/devopsdays/\">#DevOpsDays</a> London ticket! There are still £99 super early bird tickets at https://devopsdays.org/events/2020-london/welcome/\n\nIt's an awesome conference, which I'd thoroughly recommend - you can read about my time at https://www.jvt.me/tags/devopsdays/"
     } ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "dev-ops-days" ]
+  "tags" : [ "devopsdays" ]
 }
