@@ -14,5 +14,5 @@
       "value" : "This is very frustrating, but I can confirm that using `aur/intellij-idea-community-edition-no-jre` has resolved this, as per <a href=\"https://bugs.archlinux.org/task/65303#comment186016\">craynic's comment</a>"
     } ]
   },
-  "tags" : [ "comment186016", "intellij", "arch-linux" ]
+  "tags" : [ "intellij", "arch-linux" ]
 }
