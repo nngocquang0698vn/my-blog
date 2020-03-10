@@ -4,7 +4,7 @@ description: How to easily introspect a JWT on the command line using OpenSSL an
 tags:
 - blogumentation
 - python
-- cli
+- command-line
 - jwt
 - json
 - pretty-print

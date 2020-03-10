@@ -4,7 +4,7 @@ description: How to easily introspect and pretty print a signed JWT (JWS) or an 
 tags:
 - blogumentation
 - ruby
-- cli
+- command-line
 - jwt
 - json
 - pretty-print

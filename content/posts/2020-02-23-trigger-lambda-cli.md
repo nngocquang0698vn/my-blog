@@ -4,7 +4,7 @@ description: "How to invoke an AWS Lambda function from the Command-Line."
 tags:
 - blogumentation
 - aws
-- cli
+- command-line
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-23T13:16:57+0000

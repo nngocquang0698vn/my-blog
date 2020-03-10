@@ -14,7 +14,7 @@
     ],
     "category": [
       "shell",
-      "cli"
+      "command-line"
     ],
     "content": [
       {
@@ -25,7 +25,7 @@
   },
   "tags": [
     "shell",
-    "cli"
+    "command-line"
   ],
   "slug": "2019/09/u0d7f",
   "aliases": [

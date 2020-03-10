@@ -8,7 +8,7 @@ tags:
 - gitlab
 - git
 - automation
-- cli
+- command-line
 - shell
 - gitlab-ci
 - review-apps

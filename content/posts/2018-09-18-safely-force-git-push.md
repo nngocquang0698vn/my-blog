@@ -4,7 +4,7 @@ description: "How `git push --force-with-lease=ref` can save you from overriding
 tags:
 - git
 - blogumentation
-- cli
+- command-line
 image: /img/vendor/git.png
 date: 2018-09-18T17:08:32+01:00
 license_prose: CC-BY-NC-SA-4.0

@@ -4,7 +4,7 @@ description: "How to use the jsonwebtoken library to create a Signed JSON Web To
 tags:
 - blogumentation
 - nodejs
-- cli
+- command-line
 - jwt
 - json
 license_code: Apache-2.0

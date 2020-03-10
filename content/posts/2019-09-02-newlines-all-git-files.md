@@ -4,7 +4,7 @@ description: "Adding newlines at the end of all Git-tracked files."
 tags:
 - git
 - shell
-- cli
+- command-line
 - blogumentation
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0

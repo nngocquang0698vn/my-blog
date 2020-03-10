@@ -15,12 +15,12 @@
       "2019-11-06T14:27:00Z"
     ],
     "category": [
-      "cli",
+      "command-line",
       "personal-website"
     ]
   },
   "tags": [
-    "cli",
+    "command-line",
     "personal-website"
   ],
   "aliases": [

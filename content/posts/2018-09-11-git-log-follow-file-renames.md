@@ -3,7 +3,7 @@ title: "Viewing Git history of a file in `git log` while ignoring file renames"
 description: "How to track changes to files in Git without pesky file renames getting in the way, using `git log --follow`."
 tags:
 - git
-- cli
+- command-line
 - shell
 - blogumentation
 image: /img/vendor/git.png

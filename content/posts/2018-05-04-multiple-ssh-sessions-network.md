@@ -5,7 +5,7 @@ tags:
 - blogumentation
 - ssh
 - openssh
-- cli
+- command-line
 date: 2018-05-04T17:21:17+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

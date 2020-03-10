@@ -4,7 +4,7 @@ description: "How to use the jsonwebtoken and node-jose libraries to verify the 
 tags:
 - blogumentation
 - nodejs
-- cli
+- command-line
 - jwt
 - json
 image: /img/vendor/jwt.io.jpg

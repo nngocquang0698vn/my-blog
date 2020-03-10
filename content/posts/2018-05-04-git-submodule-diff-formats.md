@@ -4,7 +4,7 @@ description: How to get nicer `diff`s when working with submodules.
 tags:
 - blogumentation
 - git
-- cli
+- command-line
 image: /img/vendor/git.png
 date: 2018-05-04T11:59:42+01:00
 license_prose: CC-BY-NC-SA-4.0

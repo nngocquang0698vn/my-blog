@@ -4,7 +4,7 @@ description: Coerce YAML to JSON and vice versa, from the comfort of your Gem-st
 tags:
 - blogumentation
 - ruby
-- cli
+- command-line
 - yaml
 - json
 date: 2017-06-22T21:16:53+01:00

@@ -6,7 +6,7 @@ tags:
 - git
 - monorepo
 - git-subtree
-- cli
+- command-line
 image: /img/vendor/git.png
 date: 2018-06-01T20:44:06+01:00
 license_prose: CC-BY-NC-SA-4.0

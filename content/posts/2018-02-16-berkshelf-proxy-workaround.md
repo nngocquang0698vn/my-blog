@@ -5,7 +5,7 @@ tags:
 - chef
 - blogumentation
 - proxy
-- cli
+- command-line
 - shell
 - chefdk
 - berkshelf

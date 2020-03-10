@@ -3,7 +3,7 @@ title: "Generating HMAC Signatures on the Command Line with OpenSSL"
 description: "How to generate HMAC signatures for a given string, using `openssl`."
 tags:
 - blogumentation
-- cli
+- command-line
 - openssl
 - hmac
 - java
