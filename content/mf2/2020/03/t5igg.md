@@ -37,8 +37,8 @@
   "properties" : {
     "published" : [ "2020-03-11T19:03:00Z" ],
     "repost-of" : [ "https://twitter.com/fatih/status/1237711814932090880" ],
-    "category" : [ "remote-working" ],
+    "category" : [ "remote-work" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "remote-working" ]
+  "tags" : [ "remote-work" ]
 }
