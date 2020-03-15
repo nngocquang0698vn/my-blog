@@ -1,0 +1,24 @@
+<article id="popular-posts">
+
+  <p>This data is retrieved at site build time (<time datetime="{{ now.Format "2006-01-02T15:04:05-07:00" }}" >{{ now.Format "2006-01-02T15:04:05-07:00" }}</time> and may be cached from some earlier time during the day.</p>
+
+  {{ $limit := 20 }}
+  <h2>Most Popular {{ $limit }} Pages (today)</h2>
+  {{ $analytics := getJSON "https://www-api.jvt.me/analytics/pages" }}
+
+  <table>
+    <tr>
+      <th>Page Title</th>
+      <th>Number of Visits</th>
+      <th>Number of Unique Visits</th>
+    </tr>
+
+    {{ range (first $limit (index $analytics "pages" ))}}
+    <tr>
+      <td>{{ index . "title" }}</td>
+      <td>{{ index . "visits" }}</td>
+      <td>{{ index . "unique_visits" }}</td>
+    </tr>
+    {{ end }}
+  </table>
+</article>
