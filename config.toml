@@ -43,6 +43,9 @@ to = "/tags/diversity-and-inclusion/"
 [[params.redirect]]
 from = "/.git"
 to = "https://gitlab.com/jamietanna/jvt.me"
+[[params.redirect]]
+from = "/mf2/2020/03/nh9y0"
+to = "/mf2/2020/03/bl33l/"
 
 [permalinks]
   events = "/:sections/:slug/"
