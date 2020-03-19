@@ -28,8 +28,8 @@
   "properties" : {
     "published" : [ "2020-03-09T23:15:00Z" ],
     "repost-of" : [ "https://twitter.com/exfatalist/status/1236725697684688904" ],
-    "category" : [ "diversity-and-inclusivity" ],
+    "category" : [ "diversity-and-inclusion" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ]
   },
-  "tags" : [ "diversity-and-inclusivity" ]
+  "tags" : [ "diversity-and-inclusion" ]
 }
