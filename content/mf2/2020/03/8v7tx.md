@@ -12,7 +12,7 @@
     "syndication" : [ "https://news.indieweb.org/en", "https://indieweb.xyz/en/indieweb" ],
     "content" : [ {
       "html" : "",
-      "value" : "I've got this set up on my own site against https://www.jvt.me/assets/img/profile.png and it's really great. No more finding that image you want to use - it's just there. It's available automagically via my Microformats2 h-card, so it can be machine discoverable, too. But I agree with Terence, it'd be awesome to have some standardised way to pull it from all my services, though."
+      "value" : "I've got this set up on my own site against https://www.jvt.me/img/profile.png and it's really great. No more finding that image you want to use - it's just there. It's available automagically via my Microformats2 h-card, so it can be machine discoverable, too. But I agree with Terence, it'd be awesome to have some standardised way to pull it from all my services, though."
     } ]
   },
   "tags" : [ "indieweb" ]
