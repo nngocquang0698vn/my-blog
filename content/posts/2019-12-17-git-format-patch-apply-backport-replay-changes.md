@@ -1,6 +1,6 @@
 ---
-title: "Backporting/Replaying Changes using `git format-patch` and `git apply`"
-description: "Using `git format-patch` and `git apply` to apply a patch, if `git cherry-pick` isn't available."
+title: "Backporting/Replaying Changes using `git format-patch` and `git apply` / `git-am`"
+description: "Using `git format-patch` and `git apply`/`git am` to apply a patch, if `git cherry-pick` isn't available."
 tags:
 - blogumentation
 - git
@@ -64,6 +64,12 @@ And then we can then feed this file into `git apply`:
 
 ```sh
 $ git apply < patch
+```
+
+However, this doesn't quite work when you want to use the commit message, too. For this, we can use `git am`:
+
+```sh
+$ git am < patch
 ```
 
 This _may_ have issues if the patch doesn't apply cleanly, but once resolved, you'll have the commit applied with patch and commit message!
