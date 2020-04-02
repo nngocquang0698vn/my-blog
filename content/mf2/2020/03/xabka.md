@@ -15,7 +15,7 @@
     } ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "event" : {
-      "location" : [ "Online event, null, null, " ],
+      "location" : [ "Online" ],
       "url" : [ "https://www.meetup.com/Chef-Users-UK/events/269691242/" ],
       "name" : [ "Chef Users Global Digital Meetup: Human Free Pipelines with Galen Emery" ],
       "start" : [ "2020-03-31T23:00:00+01:00" ],
