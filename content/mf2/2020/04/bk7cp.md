@@ -1,0 +1,34 @@
+{
+  "kind" : "likes",
+  "slug" : "2020/04/bk7cp",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1245871833875771395" ],
+      "url" : [ "https://twitter.com/BGrueskin/status/1245871833875771395" ],
+      "published" : [ "2020-04-03T00:32:47+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:BGrueskin" ],
+          "numeric-id" : [ "14668111" ],
+          "name" : [ "Bill Grueskin" ],
+          "nickname" : [ "BGrueskin" ],
+          "url" : [ "https://twitter.com/BGrueskin", "http://bit.ly/wgbio" ],
+          "published" : [ "2008-05-06T02:16:13+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1223074026291179520/WDYVVfR2.jpg" ]
+        }
+      } ],
+      "content" : [ "What’s the first sentence of the best novel that will be written about this epidemic?" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be",
+  "date" : "2020-04-04T22:07:00+01:00",
+  "h" : "h-entry",
+  "properties" : {
+    "name" : [ "Like of @BGrueskin's tweet" ],
+    "like-of" : [ "https://twitter.com/BGrueskin/status/1245871833875771395" ],
+    "published" : [ "2020-04-04T22:07:00+01:00" ],
+    "syndication" : [ "https://brid.gy/publish/twitter" ]
+  }
+}
