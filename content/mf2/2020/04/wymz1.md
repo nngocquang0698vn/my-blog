@@ -4,7 +4,7 @@
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @anna_hax's tweet" ],
-    "likeOf" : [ "https://twitter.com/anna_hax/status/1247136528553381889" ],
+    "like-of" : [ "https://twitter.com/anna_hax/status/1247136528553381889" ],
     "published" : [ "2020-04-06T22:04:00+01:00" ]
   },
   "kind" : "likes",

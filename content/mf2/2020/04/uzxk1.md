@@ -4,7 +4,7 @@
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
-    "likeOf" : [ "https://twitter.com/CarolSaysThings/status/1247258055135412226" ],
+    "like-of" : [ "https://twitter.com/CarolSaysThings/status/1247258055135412226" ],
     "published" : [ "2020-04-06T21:55:00+01:00" ]
   },
   "kind" : "likes",

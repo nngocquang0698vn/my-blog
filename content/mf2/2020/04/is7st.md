@@ -4,7 +4,7 @@
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @kantrn's tweet" ],
-    "likeOf" : [ "https://twitter.com/kantrn/status/1247256593382518791" ],
+    "like-of" : [ "https://twitter.com/kantrn/status/1247256593382518791" ],
     "published" : [ "2020-04-06T22:25:00+01:00" ]
   },
   "kind" : "likes",
