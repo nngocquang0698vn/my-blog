@@ -89,3 +89,19 @@ WebServerFactoryCustomizer<TomcatServletWebServerFactory> cookieProcessorCustomi
   };
 }
 ```
+
+## Overriding the String
+
+Because Tomcat uses localisation settings, you can also just override the strings that it uses to log these messages out. We can do this by adding a file into i.e. `/src/main/resources/org/apache/tomcat/util/http/parser/LocalStrings.properties`, including the package structure.
+
+In this case, we need to override `cookie.invalidCookieValue` to a safer value, such as:
+
+```properties
+cookie.invalidCookieValue=A cookie header was received that contained an invalid cookie. That cookie will be ignored.
+```
+
+**NOTE** that you need to copy the existing properties when overriding the file, otherwise when logging, it will log the key, not the actual log message i.e.
+
+```
+2020-04-08 08:19:05.014  INFO 348698 --- [nio-8082-exec-1] o.apache.tomcat.util.http.parser.Cookie  : cookie.invalidCookieValue
+```
