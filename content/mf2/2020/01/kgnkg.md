@@ -4,6 +4,7 @@
   "client_id" : "https://micropublish.net",
   "date" : "2020-01-13T19:50:31.028+01:00",
   "h" : "h-entry",
+  "tags" : [ "capital-one", "tech-nottingham" ],
   "properties" : {
     "published" : [ "2020-01-13T19:50:31.028+01:00" ],
     "category" : [ "capital-one", "tech-nottingham" ],

@@ -4,6 +4,7 @@
   "client_id" : "https://micropublish.net",
   "date" : "2020-01-14T20:56:58.869+01:00",
   "h" : "h-entry",
+  "tags" : [ "notts-js" ],
   "properties" : {
     "published" : [ "2020-01-14T20:56:58.869+01:00" ],
     "category" : [ "notts-js" ],

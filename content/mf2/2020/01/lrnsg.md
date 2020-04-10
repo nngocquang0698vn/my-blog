@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-15T17:37:00Z",
   "h" : "h-entry",
+  "tags" : [ "spotify", "indieweb" ],
   "properties" : {
     "name" : [ "Reply to https://twitter.com/StevenPears/status/1217493023489253378" ],
     "in-reply-to" : [ "https://twitter.com/StevenPears/status/1217493023489253378" ],

@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-13T18:21:00Z",
   "h" : "h-entry",
+  "tags" : [ "tech-nottingham", "indieweb" ],
   "properties" : {
     "published" : [ "2020-01-13T18:21:00Z" ],
     "category" : [ "tech-nottingham", "indieweb" ],

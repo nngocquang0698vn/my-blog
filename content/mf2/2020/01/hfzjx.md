@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-13T19:17:00Z",
   "h" : "h-entry",
+  "tags" : [ "tech-nottingham" ],
   "properties" : {
     "photo" : [ {
       "photo" : "https://media.jvt.me/bawhf.jpeg",

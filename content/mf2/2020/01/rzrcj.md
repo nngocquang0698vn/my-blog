@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-14T18:41:00Z",
   "h" : "h-entry",
+  "tags" : [ "notts-js" ],
   "properties" : {
     "photo" : [ {
       "photo" : "https://media.jvt.me/pmr3m.jpeg",

@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-02-05T08:36:00Z",
   "h" : "h-entry",
+  "tags" : [ "health" ],
   "properties" : {
     "name" : [ "Reply to https://sneak.berlin/20200204/dont-talk-about-your-health/" ],
     "in-reply-to" : [ "https://sneak.berlin/20200204/dont-talk-about-your-health/" ],

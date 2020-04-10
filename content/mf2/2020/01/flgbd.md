@@ -4,6 +4,7 @@
   "client_id" : "https://indigenous.realize.be",
   "date" : "2020-01-15T16:47:00Z",
   "h" : "h-entry",
+  "tags" : [ "blogumentation" ],
   "properties" : {
     "name" : [ "Reply to https://twitter.com/elyktrix/status/1217268722785837056" ],
     "in-reply-to" : [ "https://twitter.com/elyktrix/status/1217268722785837056" ],

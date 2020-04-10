@@ -9,7 +9,8 @@
       "2019-10-25T22:50:00+01:00"
     ],
     "category": [
-      "micropub"
+      "micropub",
+      "www.jvt.me"
     ],
     "content": [
       {

@@ -4,6 +4,7 @@
   "client_id" : "https://micropublish.net",
   "date" : "2020-01-17T17:26:52.2+01:00",
   "h" : "h-entry",
+  "tags" : [ "micropub", "indieweb" ],
   "properties" : {
     "published" : [ "2020-01-17T17:26:52.2+01:00" ],
     "category" : [ "micropub", "indieweb" ],
