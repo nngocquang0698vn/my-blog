@@ -8,7 +8,7 @@
     "name" : [ "Back to windows after twenty years" ],
     "bookmark-of" : [ "https://m.signalvnoise.com/back-to-windows-after-twenty-years/" ],
     "published" : [ "2019-11-13T13:18:00Z" ],
-    "category" : [ "macos", "windows" ]
+    "category" : [ "mac", "windows" ]
   },
-  "tags" : [ "macos", "windows" ]
+  "tags" : [ "mac", "windows" ]
 }
