@@ -8,7 +8,7 @@
     "name" : [ "Two shebang papercuts and a thimble" ],
     "bookmark-of" : [ "https://www.crystae.net/posts/2019/11/08/two-shebang-papercuts/" ],
     "published" : [ "2019-11-21T17:41:00Z" ],
-    "category" : [ "linux", "macos", "unix", "command-line" ]
+    "category" : [ "linux", "mac", "unix", "command-line" ]
   },
-  "tags" : [ "linux", "macos", "unix", "command-line" ]
+  "tags" : [ "linux", "mac", "unix", "command-line" ]
 }
