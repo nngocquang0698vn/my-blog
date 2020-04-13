@@ -1,10 +1,11 @@
 {
   "date" : "2020-04-08T20:37:00+01:00",
+  "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/meetup" ],
     "in-reply-to" : [ "https://meetup.com/NottsJS/events/vjnvhrybcgbsb/" ],
-    "name" : [ "RSVP maybe to https://meetup.com/NottsJS/events/vjnvhrybcgbsb/" ],
+    "syndication" : [ "https://brid.gy/publish/meetup" ],
+    "name" : [ "RSVP yes to https://meetup.com/NottsJS/events/vjnvhrybcgbsb/" ],
     "published" : [ "2020-04-08T20:37:00+01:00" ],
     "event" : {
       "url" : [ "https://meetup.com/NottsJS/events/vjnvhrybcgbsb/" ],
@@ -13,7 +14,7 @@
       "end" : [ "2020-04-14T20:00:00+01:00" ],
       "location" : [ "Online" ]
     },
-    "rsvp" : [ "maybe" ]
+    "rsvp" : [ "yes" ]
   },
   "kind" : "rsvps",
   "slug" : "2020/04/isiub",
