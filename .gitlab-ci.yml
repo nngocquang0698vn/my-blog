@@ -1,4 +1,4 @@
-image: docker:latest
+image: docker:19.03
 
 variables:
   CONTAINER_IMAGE_BASE_URL: registry.gitlab.com/jamietanna/jvt.me
@@ -15,7 +15,7 @@ stages:
 
 build_test_site:
   services:
-    - docker:dind
+    - docker:19.03-dind
   stage: build
   script:
     - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
@@ -89,7 +89,7 @@ review_stop:
 
 build_no_test_deploy_site:
   services:
-    - docker:dind
+    - docker:19.03-dind
   stage: production
   script:
     - docker build -t $CONTAINER_BUILT_IMAGE .
