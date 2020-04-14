@@ -1,5 +1,5 @@
 ---
-title: "GitLab Runner Runner Docker TCP Error"
+title: "GitLab Runner Docker TCP Error"
 description: "Fixing the `cannot connect to the Docker daemon` error with GitLab Runner and Docker."
 tags:
 - blogumentation
