@@ -89,7 +89,8 @@ review_stop:
 
 build_no_test_deploy_site:
   services:
-    - dind
+    - name: docker:19.03-dind
+      alias: dind
   stage: production
   script:
     - docker build -t $CONTAINER_BUILT_IMAGE .
