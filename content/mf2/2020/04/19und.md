@@ -1,6 +1,6 @@
 {
   "date" : "2020-04-16T11:15:06.233+02:00",
-  "deleted" : false,
+  "deleted" : true,
   "h" : "h-measure",
   "properties" : {
     "unit" : [ "steps" ],
