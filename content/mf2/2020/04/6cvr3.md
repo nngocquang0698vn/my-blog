@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/14zjHwuN0PJM7JSELN" ],
     "name" : [ "Like of @hankchizljaw's tweet" ],
     "published" : [ "2020-04-17T23:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/hankchizljaw/status/1251273604685271047" ]
