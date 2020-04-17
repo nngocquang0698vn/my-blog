@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/14C4zzdu0Na3LuCUlU" ],
     "name" : [ "Like of @djbaskin's tweet" ],
     "published" : [ "2020-04-17T23:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/djbaskin/status/1251219882563088384" ]
