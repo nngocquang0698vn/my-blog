@@ -1,6 +1,6 @@
 {
   "date" : "2020-04-17T19:22:36.265+02:00",
-  "deleted" : false,
+  "deleted" : true,
   "h" : "h-entry",
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
