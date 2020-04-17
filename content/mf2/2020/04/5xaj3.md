@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/14BycNk5U9LL6185Z2" ],
     "name" : [ "Like of @lizthegrey's tweet" ],
     "published" : [ "2020-04-17T23:26:00+01:00" ],
     "category" : [ "security", "zoom" ],
