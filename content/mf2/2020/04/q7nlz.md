@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/141yhhE45SuWBOZvRS" ],
     "name" : [ "Like of @HamillHimself's tweet" ],
     "published" : [ "2020-04-17T22:25:00+01:00" ],
     "category" : [ "politics" ],
