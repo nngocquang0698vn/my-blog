@@ -6,6 +6,7 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @SleekOnSocial's tweet" ],
     "published" : [ "2020-04-17T10:48:00+01:00" ],
+    "category" : [ "Cute" ],
     "like-of" : [ "https://twitter.com/SleekOnSocial/status/1250791797309259783" ]
   },
   "kind" : "likes",
@@ -38,5 +39,6 @@
       "photo" : [ "https://pbs.twimg.com/media/EVu0gEZXsAAVCor.jpg", "https://pbs.twimg.com/media/EVu0gESXQAE-FxG.jpg", "https://pbs.twimg.com/media/EVu0gESWsAEzXxp.jpg" ]
     }
   },
+  "tags" : [ "Cute" ],
   "client_id" : "https://indigenous.realize.be"
 }
