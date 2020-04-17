@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/14tbvNPvtAAGnL1Llu" ],
     "name" : [ "Like of @MalwareTechBlog's tweet" ],
     "published" : [ "2020-04-17T21:00:00+01:00" ],
     "like-of" : [ "https://twitter.com/MalwareTechBlog/status/1251169371315036161" ]
