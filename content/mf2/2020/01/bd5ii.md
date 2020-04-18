@@ -18,7 +18,7 @@
       "yes"
     ],
     "syndication": [
-      "https://brid.gy/publish/meetup"
+      "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/268209825/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
     ],
     "event": {
       "url": [

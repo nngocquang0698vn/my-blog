@@ -17,7 +17,7 @@
       "yes"
     ],
     "syndication": [
-      "https://brid.gy/publish/meetup"
+      "https://www.meetup.com/Nottingham-IoT-Meetup/events/255084247/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
     ],
     "event": {
       "url": [

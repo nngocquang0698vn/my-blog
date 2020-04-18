@@ -18,7 +18,7 @@
       "no"
     ],
     "syndication": [
-      "https://brid.gy/publish/meetup"
+      "https://www.meetup.com/Notts-Dev-Workshop/events/267988124/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
     ],
     "event": {
       "url": [
