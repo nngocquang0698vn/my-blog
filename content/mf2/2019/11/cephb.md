@@ -19,7 +19,7 @@
       "indieweb"
     ],
     "syndication": [
-      "https://news.indieweb.org/nl"
+      "https://news.indieweb.org/nl/roel.io/waarde-van-je-eigen-website/"
     ]
   },
   "h": "h-entry",

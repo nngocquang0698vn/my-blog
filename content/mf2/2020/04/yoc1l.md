@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1251519631505928192" ],
     "photo" : [ {
       "photo" : "https://media.jvt.me/c317170456.jpeg",
       "alt" : "Black cat lying on a grey blanket, yawning while meowing"
