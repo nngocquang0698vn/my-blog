@@ -15,7 +15,6 @@
       "2020-01-21T22:35:00Z"
     ],
     "category": [
-      "linux",
       "humour"
     ],
     "syndication": [
@@ -23,7 +22,6 @@
     ]
   },
   "tags": [
-    "linux",
     "humour"
   ]
 }
