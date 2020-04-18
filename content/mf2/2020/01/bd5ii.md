@@ -18,8 +18,7 @@
       "yes"
     ],
     "syndication": [
-      "https://brid.gy/publish/meetup",
-      "http://localhost:8080/publish/meetup"
+      "https://brid.gy/publish/meetup"
     ],
     "event": {
       "url": [
