@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter", "https://telegraph.p3k.io/webmention/14JbDZasyG1BzW9f8A" ],
+    "syndication" : [ "https://brid.gy/publish/twitter"],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-04-18T00:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/rizbizkits/status/1251262482901086210" ]
