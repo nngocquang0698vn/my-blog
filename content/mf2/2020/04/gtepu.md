@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1251502399082070016" ],
     "published" : [ "2020-04-18T15:22:52.839+02:00" ],
     "category" : [ ],
     "content" : [ {
