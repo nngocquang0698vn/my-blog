@@ -7,10 +7,9 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/bitandbang/status/1251661217925672962" ],
     "published" : [ "2020-04-19T11:13:00+01:00" ],
-    "category" : [ ],
     "content" : [ {
       "html" : "",
-      "value" : "Birthday was last month, just as UK lock down was happening 😅🙌🏼"
+      "value" : "Birthday was last month, just as UK lock down was happening 😅"
     } ]
   },
   "kind" : "replies",
@@ -50,6 +49,5 @@
       "photo" : [ "https://pbs.twimg.com/media/EV7LPdmWsAAJpW_.jpg" ]
     }
   },
-  "tags" : [ ],
   "client_id" : "https://indigenous.realize.be"
 }
