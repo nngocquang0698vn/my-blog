@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SunTzilla/status/1251637066045296640" ],
     "name" : [ "Like of @SunTzilla's tweet" ],
     "published" : [ "2020-04-19T17:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/SunTzilla/status/1251637066045296640" ]
