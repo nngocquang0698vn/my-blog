@@ -9,8 +9,7 @@
     "content" : [ {
       "html" : "",
       "value" : "I'm hoping that I'll keep a bit more on top of mentions not being sent, and may even look at scheduling a batch to re-process mentions that haven't sent (although I'm pretty sure I set up my Webmention processor to do that for me)"
-    } ],
-    "syndication": ["https://brid.gy/publish/twitter"]
+    } ]
   },
   "kind" : "replies",
   "slug" : "2020/04/vafra",
