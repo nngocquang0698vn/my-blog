@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PublicSharpener/status/1251995337423826950" ],
     "name" : [ "Like of @PublicSharpener's tweet" ],
     "published" : [ "2020-04-20T23:20:00+01:00" ],
     "like-of" : [ "https://twitter.com/PublicSharpener/status/1251995337423826950" ]
