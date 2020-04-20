@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/saronyitbarek/status/1252038372484358145" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1252155827710038017" ],
     "name" : [ "Reply to https://twitter.com/saronyitbarek/status/1252038372484358145" ],
     "published" : [ "2020-04-20T09:38:00+01:00" ],
     "category" : [ "indieweb" ],
