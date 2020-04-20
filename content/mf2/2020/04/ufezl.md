@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Liv_Lanes/status/1252025429965312000" ],
     "name" : [ "Like of @Liv_Lanes's tweet" ],
     "published" : [ "2020-04-20T21:31:00+01:00" ],
     "like-of" : [ "https://twitter.com/Liv_Lanes/status/1252025429965312000" ]
