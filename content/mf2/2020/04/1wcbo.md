@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kieranmch/status/1251977837986357249" ],
     "name" : [ "Like of @kieranmch's tweet" ],
     "published" : [ "2020-04-20T09:37:00+01:00" ],
     "like-of" : [ "https://twitter.com/kieranmch/status/1251977837986357249" ]
