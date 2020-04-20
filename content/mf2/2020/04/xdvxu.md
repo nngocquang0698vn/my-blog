@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chris_emerson/status/1252308763924725761" ],
     "name" : [ "Like of @chris_emerson's tweet" ],
     "published" : [ "2020-04-20T21:41:00+01:00" ],
     "category" : [ "tech-nottingham" ],
