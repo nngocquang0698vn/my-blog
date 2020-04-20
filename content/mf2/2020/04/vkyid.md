@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SparkleClass/status/1252310782005649408" ],
     "name" : [ "Like of @SparkleClass's tweet" ],
     "published" : [ "2020-04-20T21:43:59.282+02:00" ],
     "category" : [ "tech-nottingham" ],
