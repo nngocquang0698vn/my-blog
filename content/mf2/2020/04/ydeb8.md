@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shafieikeyvan/status/1251988831559208963" ],
     "name" : [ "Like of @shafieikeyvan's tweet" ],
     "published" : [ "2020-04-20T10:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/shafieikeyvan/status/1251988831559208963" ]
