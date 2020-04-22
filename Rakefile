@@ -64,6 +64,7 @@ namespace :test do
     require_relative 'lib/checks'
     options = {
       disable_external: true,
+      checks_to_ignore: %w(Mf2HasValidHentry),
     }
     HTMLProofer.check_directory('./public', options).run
   end
