@@ -6,6 +6,7 @@
     "syndication" : [ "https://twitter.com/SunTzilla/status/1251637066045296640" ],
     "name" : [ "Like of @SunTzilla's tweet" ],
     "published" : [ "2020-04-19T17:53:00+01:00" ],
+    "category" : [ "marvel" ],
     "like-of" : [ "https://twitter.com/SunTzilla/status/1251637066045296640" ]
   },
   "kind" : "likes",
@@ -31,5 +32,6 @@
       "content" : [ "Just finished watching all the films in the MCU on Disney + here is my analysis of all the heroes." ]
     }
   },
+  "tags" : [ "marvel" ],
   "client_id" : "https://indigenous.realize.be"
 }
