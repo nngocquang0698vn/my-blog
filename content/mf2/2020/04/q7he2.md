@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Alain_Tolhurst/status/1252987811751436293" ],
     "name" : [ "Like of @Alain_Tolhurst's tweet" ],
     "published" : [ "2020-04-22T19:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/Alain_Tolhurst/status/1252987811751436293" ]
