@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WiT_Notts/status/1253219838593548288" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-04-23T23:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/anna_hax/status/1253231454001258499" ]
