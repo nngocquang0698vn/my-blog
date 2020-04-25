@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254060041898004480" ],
     "photo" : [ {
       "alt" : "Black cat lying on grey rug, with the sun bathing his contented little face in warmth",
       "photo" : "https://media.jvt.me/e255f400d1.jpeg"
