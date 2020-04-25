@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tedgioia/status/1253083383237939202" ],
     "name" : [ "Like of @tedgioia's tweet" ],
     "published" : [ "2020-04-24T12:47:00+01:00" ],
     "like-of" : [ "https://twitter.com/tedgioia/status/1253083383237939202" ]
