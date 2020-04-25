@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1253981594299310081" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-04-25T12:41:00+01:00" ],
     "category" : [ "food" ],
