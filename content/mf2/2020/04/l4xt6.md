@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fthemoonreturns/status/1253362479213817857" ],
     "name" : [ "Like of @fthemoonreturns's tweet" ],
     "published" : [ "2020-04-25T09:47:00+01:00" ],
     "like-of" : [ "https://twitter.com/fthemoonreturns/status/1253362479213817857" ]
