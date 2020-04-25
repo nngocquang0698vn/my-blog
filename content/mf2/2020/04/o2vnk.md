@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/monotron_/status/1254114954107670530" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254136211352031232" ],
     "name" : [ "Reply to https://twitter.com/monotron_/status/1254114954107670530" ],
     "published" : [ "2020-04-25T21:47:31.678+02:00" ],
     "category" : [ ],
