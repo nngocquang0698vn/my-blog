@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/indieweb/micropub-extensions/issues/4" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/indieweb/micropub-extensions/issues/4#issuecomment-619382563" ],
     "name" : [ "Reply to https://github.com/indieweb/micropub-extensions/issues/4" ],
     "published" : [ "2020-04-25T15:31:06.732+02:00" ],
     "category" : [ ],
