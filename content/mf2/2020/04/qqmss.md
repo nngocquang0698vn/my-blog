@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/itunpredictable/status/1253495816590786566" ],
     "name" : [ "Like of @itunpredictable's tweet" ],
     "published" : [ "2020-04-24T10:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/itunpredictable/status/1253495816590786566" ]
