@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1252863866536472578" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-04-22T10:42:54.244+02:00" ],
     "like-of" : [ "https://twitter.com/MrAndrew/status/1252863866536472578" ]
