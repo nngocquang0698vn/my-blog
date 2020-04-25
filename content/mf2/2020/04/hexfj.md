@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jennyyangtv/status/1253603470143152134" ],
     "name" : [ "Like of @jennyyangtv's tweet" ],
     "published" : [ "2020-04-24T23:50:00+01:00" ],
     "like-of" : [ "https://twitter.com/jennyyangtv/status/1253603470143152134" ]
