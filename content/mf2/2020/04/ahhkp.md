@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cr3/status/1251508803499065345" ],
     "name" : [ "Like of @cr3's tweet" ],
     "published" : [ "2020-04-19T12:24:00+01:00" ],
     "like-of" : [ "https://twitter.com/cr3/status/1251508803499065345" ]
