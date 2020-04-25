@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trisweb/status/1252599107723636739" ],
     "name" : [ "Like of @trisweb's tweet" ],
     "published" : [ "2020-04-22T23:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/trisweb/status/1252599107723636739" ]
