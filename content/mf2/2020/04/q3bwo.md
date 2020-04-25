@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MNateShyamalan/status/1252218537508290560" ],
     "name" : [ "Like of @MNateShyamalan's tweet" ],
     "published" : [ "2020-04-21T23:06:07.57+02:00" ],
     "like-of" : [ "https://twitter.com/MNateShyamalan/status/1252218537508290560" ]
