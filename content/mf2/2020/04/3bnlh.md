@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pascaldoesgo/status/1251548898696540160" ],
     "name" : [ "Like of @pascaldoesgo's tweet" ],
     "published" : [ "2020-04-18T21:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/pascaldoesgo/status/1251548898696540160" ]
