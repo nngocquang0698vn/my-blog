@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davecheney/status/1253201549779587073" ],
     "name" : [ "Like of @davecheney's tweet" ],
     "published" : [ "2020-04-23T19:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/davecheney/status/1253201549779587073" ]
