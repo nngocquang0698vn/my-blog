@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julie_Gund/status/1253047861526196224" ],
     "name" : [ "Like of @Julie_Gund's tweet" ],
     "published" : [ "2020-04-22T23:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/Julie_Gund/status/1253047861526196224" ]
