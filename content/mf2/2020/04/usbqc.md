@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hankchizljaw/status/1253971160406134785" ],
     "name" : [ "Like of @hankchizljaw's tweet" ],
     "published" : [ "2020-04-25T12:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/hankchizljaw/status/1253971160406134785" ]
