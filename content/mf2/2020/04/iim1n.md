@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Real_Torvar/status/1251686305572028417" ],
     "name" : [ "Like of @Real_Torvar's tweet" ],
     "published" : [ "2020-04-19T11:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/Real_Torvar/status/1251686305572028417" ]
