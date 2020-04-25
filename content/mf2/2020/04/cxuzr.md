@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Marcus_Noble_/status/1254093650579120128" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254100790807011330" ],
     "name" : [ "Reply to https://twitter.com/Marcus_Noble_/status/1254093650579120128" ],
     "published" : [ "2020-04-25T19:22:51.677+02:00" ],
     "category" : [ ],
