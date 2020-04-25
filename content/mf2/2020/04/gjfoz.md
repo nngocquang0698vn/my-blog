@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/planetpng/status/1253349189163134976" ],
     "name" : [ "Like of @planetpng's tweet" ],
     "published" : [ "2020-04-23T18:05:00+01:00" ],
     "category" : [ "cute" ],
