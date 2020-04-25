@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gabydunn/status/1253481152481910785" ],
     "name" : [ "Like of @gabydunn's tweet" ],
     "published" : [ "2020-04-24T10:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/gabydunn/status/1253481152481910785" ]
