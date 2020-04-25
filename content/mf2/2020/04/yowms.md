@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/efinlay24/status/1252541022292320256" ],
     "name" : [ "Like of @efinlay24's tweet" ],
     "published" : [ "2020-04-21T22:43:00+01:00" ],
     "category" : [ "tech-nottingham", "remote-work" ],
