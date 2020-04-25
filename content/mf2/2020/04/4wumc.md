@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NatureSuperb/status/1253748746220797953" ],
     "name" : [ "Like of @NatureSuperb's tweet" ],
     "published" : [ "2020-04-25T23:22:00+01:00" ],
     "category" : [ "cute" ],
