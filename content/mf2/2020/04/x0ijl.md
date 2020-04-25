@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonhearne/status/1253971224121806848" ],
     "name" : [ "Like of @simonhearne's tweet" ],
     "published" : [ "2020-04-25T12:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/simonhearne/status/1253971224121806848" ]
