@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hexadecim8/status/1251467340207869953" ],
     "name" : [ "Like of @hexadecim8's tweet" ],
     "published" : [ "2020-04-18T21:59:00+01:00" ],
     "category" : [ "cute" ],
