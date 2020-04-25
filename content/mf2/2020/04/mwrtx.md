@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thugcrowd/status/1253009960063119370" ],
     "name" : [ "Like of @thugcrowd's tweet" ],
     "published" : [ "2020-04-22T23:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/thugcrowd/status/1253009960063119370" ]
