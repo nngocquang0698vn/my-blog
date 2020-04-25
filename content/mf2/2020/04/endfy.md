@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisajenkins/status/1253294613663711235" ],
     "name" : [ "Like of @krisajenkins's tweet" ],
     "published" : [ "2020-04-24T07:46:00+01:00" ],
     "category" : [ "agile" ],
