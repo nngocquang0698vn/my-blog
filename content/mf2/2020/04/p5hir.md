@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Julie_Gund/status/1253047861526196224" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254059100503244802" ],
     "name" : [ "Reply to https://twitter.com/Julie_Gund/status/1253047861526196224" ],
     "published" : [ "2020-04-22T23:25:00+01:00" ],
     "category" : [ ],
