@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/juliareinstein/status/1253435272802340866" ],
     "name" : [ "Like of @juliareinstein's tweet" ],
     "published" : [ "2020-04-24T07:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/juliareinstein/status/1253435272802340866" ]
