@@ -46,7 +46,7 @@ The other alternative for the move would be to move one of us out of the office 
 
 I've been playing with the idea of going for a standing desk, as in my "real life" office, I had a standing desk there, and I used it a lot. I really enjoyed having the option of changing how I worked, and it was something we thought about over the summer when we got these new desks for our home office. But I decided against it as it's meant to only be for free time, all day, every day - if I'd have had perfect foresight I would've predicted Coronavirus, and thought about getting one, but oh well. I may have to reconsider the idea, and get one to make it possible for me to mix up my working habits, as I don't want to get to the point where I'm sedentary again.
 
-You'll notice in the photos below that I've got some [NanoLeaf](https://nanoleaf.me/en/) panels next to me. These used to be behind our monitors, but now things have chained, they're more visible. They're also my primary source of light - with the acoustic barriers we've put up, with the shelves and the BEKANT in the future, my natural light is largely blocked. I'm alright with that, given a few years ago my flat had the bedrooms literally underground, but I wonder what it'll be like long term.
+You'll notice in the photos below that I've got some [NanoLeaf](https://nanoleaf.me/en/) panels next to me. These used to be behind our monitors, but now things have changed, they're more visible. They're also my primary source of light - with the shelves and the BEKANT in the future, my natural light is largely blocked. I'm alright with that, given a few years ago my flat had the bedrooms literally underground, but I wonder what it'll be like long term.
 
 # Day Job
 
