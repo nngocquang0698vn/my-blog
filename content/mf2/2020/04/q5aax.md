@@ -6,7 +6,7 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Drawing of Jamie, wearing an Arch Linux t-shirt and his laptop, with three birthday balloons",
-      "photo" : "https://media.jvt.me/3d60b60b52.jpeg"
+      "photo" : "https://media.jvt.me/94a420fe4d.jpeg"
     }, {
       "alt" : "Jamie holding up a red t-shirt with a black cat being cuddled (seemingly against its will) with a title \"cat dad\"",
       "photo" : "https://media.jvt.me/6d371f40e6.jpeg"
