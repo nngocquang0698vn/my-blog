@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gymlifeanimal/status/1253795478694768642" ],
     "name" : [ "Like of @gymlifeanimal's tweet" ],
     "published" : [ "2020-04-26T13:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/gymlifeanimal/status/1253795478694768642" ]
