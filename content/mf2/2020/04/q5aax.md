@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254511021202472960" ],
     "photo" : [ {
       "alt" : "Drawing of Jamie, wearing an Arch Linux t-shirt and his laptop, with three birthday balloons",
       "photo" : "https://media.jvt.me/94a420fe4d.jpeg"
