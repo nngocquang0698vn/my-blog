@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/safopus/status/1254075217640595456" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254398725453238272" ],
     "name" : [ "Reply to https://twitter.com/safopus/status/1254075217640595456" ],
     "published" : [ "2020-04-26T14:10:00+01:00" ],
     "category" : [ ],
