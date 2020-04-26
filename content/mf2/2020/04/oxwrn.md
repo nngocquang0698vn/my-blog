@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amber1ey/status/1254185845843730432" ],
     "name" : [ "Like of @amber1ey's tweet" ],
     "published" : [ "2020-04-26T13:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/amber1ey/status/1254185845843730432" ]
