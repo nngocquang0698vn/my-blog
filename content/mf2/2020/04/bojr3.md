@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/disneyplus/status/1254772307941191686" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254884540050558981" ],
     "name" : [ "Reply to https://twitter.com/disneyplus/status/1254772307941191686" ],
     "published" : [ "2020-04-27T21:47:00+01:00" ],
     "category" : [ "indieweb" ],
