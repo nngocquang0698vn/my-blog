@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254825938912763905" ],
     "photo" : [ {
       "alt" : "Black cat curled in such a way that his tail looks a little bit like a mustache",
       "photo" : "https://media.jvt.me/21a9667bc4.jpeg"
