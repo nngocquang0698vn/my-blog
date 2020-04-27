@@ -10,7 +10,10 @@
     "content" : [ {
       "html" : "",
       "value" : "Thanks for sharing my site! As you say, I'm quite big with IndieWeb, and for readers there are quite a few other folks you'll want to see - https://snarfed.org/ https://tantek.com/ https://aaronparecki.com/ and https://www.barryfrost.com/ to name just a few.\r\n\r\nIf anyone is interested learning more about the IndieWeb, https://www.jvt.me/posts/2019/10/20/indieweb-talk/ is a transcript of a conference talk I gave on what the IndieWeb is"
-    } ]
+    } ],
+    "syndication": [
+      "https://news.ycombinator.com/item?id=22994432"
+    ]
   },
   "kind" : "replies",
   "slug" : "2020/04/do3lx",
