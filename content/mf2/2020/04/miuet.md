@@ -3,10 +3,9 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1254866792692027392" ],
     "published" : [ "2020-04-27T20:45:00+01:00" ],
     "repost-of" : [ "https://twitter.com/pattymo/status/1254438068276408321" ],
-    "category" : [ ],
     "content" : [ {
       "html" : "",
       "value" : "This is @annadodson.co.uk right now while she's going round @marcusnoble.co.uk's island!"
@@ -42,6 +41,5 @@
       "photo" : [ "https://pbs.twimg.com/media/EWioxdyWAAALM08.jpg" ]
     }
   },
-  "tags" : [ ],
   "client_id" : "https://indigenous.realize.be"
 }
