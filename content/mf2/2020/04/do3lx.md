@@ -3,8 +3,8 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "in-reply-to" : [ "https://news.ycombinator.com/reply?id=22990376&goto=item%3Fid%3D22989927%2322990376" ],
-    "name" : [ "Reply to https://news.ycombinator.com/reply?id=22990376&goto=item%3Fid%3D22989927%2322990376" ],
+    "in-reply-to" : [ "https://news.ycombinator.com/item?id=22993131" ],
+    "name" : [ "Reply to https://news.ycombinator.com/item?id=22993131" ],
     "published" : [ "2020-04-27T11:59:49.149+02:00" ],
     "category" : [ ],
     "content" : [ {
