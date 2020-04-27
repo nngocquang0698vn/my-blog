@@ -11,6 +11,9 @@
     "content" : [ {
       "html" : "",
       "value" : "I've been using GitLab for almost 4 years now, largely for reasons stated in https://www.jvt.me/posts/2017/03/25/why-you-should-use-gitlab/ but also for all the extra stuff they've built on top over the years.\n\nOriginally it was just because of private repos, but evolved into a love of the platform being built in a way that folks can contribute, unlike GitHub."
-    } ]
+    } ],
+    "syndication": [
+      "https://lobste.rs/s/5j4vij/what_ci_platforms_do_you_use#c_5jxl7n"
+    ]
   }
 }

@@ -8,7 +8,10 @@
     "content" : [ {
       "html" : "",
       "value" : "For those wanting a bit more info on the IndieWeb, see the discussion and post on https://lobste.rs/s/zg6iok/indieweb_movement_owning_your_data_being where I shared a transcript of a conference talk I did on the subject"
-    } ]
+    } ],
+    "syndication": [
+      "https://lobste.rs/s/lm7hcu/implementing_indieweb_into_my_website#c_uirro1"
+    ]
   },
   "kind" : "replies",
   "slug" : "2020/04/hqtyq",

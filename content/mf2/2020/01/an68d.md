@@ -12,7 +12,10 @@
     "content" : [ {
       "html" : "",
       "value" : "Agree that some users won't want to get stuck into it - they're likely also the users who won't be writing raw HTML for their sites.\n\nSo what we're doing for them is getting Microformats2 support directly into the themes for WordPress, Jekyll, Hugo, etc, so anyone using it can benefit without necessarily doing any work!"
-    } ]
+    } ],
+    "syndication": [
+      "https://lobste.rs/s/ilv3l1/whatever_happened_semantic_web#c_1uz7qp"
+    ]
   },
   "tags" : [ "microformats" ]
 }

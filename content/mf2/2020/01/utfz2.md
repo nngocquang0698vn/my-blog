@@ -11,6 +11,9 @@
     "content" : [ {
       "html" : "",
       "value" : "I'd thoroughly recommend https://gatling.io/ as we're using it across both Java-based and non-Java-based APIs, and have found it pretty great.\n\nI know we're not using nearly the power it affords, but it's very good!\n\nYou don't need to know that much Scala too, it has a straightforward DSL before you get there"
-    } ]
+    } ],
+    "syndication": [
+      "https://lobste.rs/s/e5oswm/what_do_you_use_for_performance_testing#c_3s3ltn"
+    ]
   }
 }
