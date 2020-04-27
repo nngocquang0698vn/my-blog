@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kneath/status/1254445189554270209" ],
     "name" : [ "Like of @kneath's tweet" ],
     "published" : [ "2020-04-27T14:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/kneath/status/1254445189554270209" ]
