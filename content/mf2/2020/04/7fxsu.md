@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1255206020768575488" ],
     "published" : [ "2020-04-28T20:34:08.266+02:00" ],
     "category" : [ "devops-notts" ],
     "content" : [ {
