@@ -4,10 +4,9 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/muffkin7/status/1254786690801004546" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1255161691731644417" ],
     "name" : [ "Reply to https://twitter.com/muffkin7/status/1254786690801004546" ],
     "published" : [ "2020-04-28T15:00:00+01:00" ],
-    "category" : [ ],
     "content" : [ {
       "html" : "",
       "value" : "Lord of the moist rings"
@@ -42,6 +41,5 @@
       "content" : [ "Ruin a film by inserting the word ‘moist’ into its title." ]
     }
   },
-  "tags" : [ ],
   "client_id" : "https://indigenous.realize.be"
 }
