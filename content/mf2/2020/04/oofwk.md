@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kvlly/status/1255173275090640897" ],
     "name" : [ "Like of @kvlly's tweet" ],
     "published" : [ "2020-04-28T20:26:00+01:00" ],
     "category" : [ "automation" ],
