@@ -7,6 +7,8 @@ This page is inspired by <span class="h-card"><a class="p-name u-url" href="http
 
 This is both for longer-lived interests and shorter-lived "what I'm currently doing".
 
+I've been in COVID-19/Coronavirus self-quarantine since 2020-03-12.
+
 What are my interests?
 
 - Blogging
