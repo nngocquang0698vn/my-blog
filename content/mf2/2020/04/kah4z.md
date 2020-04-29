@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1255202999821107203" ],
     "name" : [ "Like of @technottingham's tweet" ],
     "published" : [ "2020-04-29T07:53:00+01:00" ],
     "category" : [ "homebrew-website-club-nottingham", "homebrew-website-club" ],
