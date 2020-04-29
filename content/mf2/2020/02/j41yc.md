@@ -28,13 +28,13 @@
         "https://www.meetup.com/Women-In-Tech-Nottingham/events/268711710/"
       ],
       "name": [
-        "Women in Tech 6th May - The Power of Change: learning to live as a “weirdo”"
+        "Women in Tech 7th May - The Power of Change: learning to live as a “weirdo”"
       ],
       "start": [
-        "2020-05-06T18:30:00+01:00"
+        "2020-05-07T18:30:00+01:00"
       ],
       "end": [
-        "2020-05-06T21:00:00+01:00"
+        "2020-05-07T21:00:00+01:00"
       ]
     }
   }
