@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1255944626210471938" ],
     "published" : [ "2020-04-30T20:20:33.663+02:00" ],
     "category" : [ "escape-room" ],
     "content" : [ {
