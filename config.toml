@@ -27,6 +27,7 @@ paginate = 50
   TokenEndpoint = "https://tokens.indieauth.com/token"
   MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
   MicroPubEndpoint = "https://www-api.jvt.me/micropub"
+  ShowInMainFeed = ["articles", "bookmarks", "notes", "reposts", "rsvps"]
   IgnoreInFeeds = ["", "projects", "talks"]
 [[params.redirect]]
 from = "/tags/archlinux/"
@@ -129,6 +130,12 @@ notAlternative = true
     title = "Links"
     url = "/kind/bookmarks/"
     weight = 11
+  [[menu.main]]
+    identifier = "all"
+    name = "All Posts"
+    title = "All Posts"
+    url = "/all/"
+    weight = 10
   [[menu.main]]
     identifier = "events"
     name = "Events"
