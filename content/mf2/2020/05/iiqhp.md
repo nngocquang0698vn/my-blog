@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/heysarahpaz/status/1256732232745725953" ],
     "name" : [ "Like of @heysarahpaz's tweet" ],
     "published" : [ "2020-05-03T10:37:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
