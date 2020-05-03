@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erikaheidi/status/1255797767257063429" ],
     "name" : [ "Like of @erikaheidi's tweet" ],
     "published" : [ "2020-05-01T08:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/erikaheidi/status/1255797767257063429" ]
