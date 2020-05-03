@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andybudd/status/1256177502248189953" ],
     "name" : [ "Like of @andybudd's tweet" ],
     "published" : [ "2020-05-02T11:10:00+01:00" ],
     "category" : [ "coronavirus", "mental-health" ],
