@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pearlylondon/status/1256662005538308096" ],
     "name" : [ "Like of @pearlylondon's tweet" ],
     "published" : [ "2020-05-03T11:24:00+01:00" ],
     "category" : [ "food" ],
