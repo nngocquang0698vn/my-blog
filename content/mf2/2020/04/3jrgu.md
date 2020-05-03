@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OoCAnimalCross/status/1254951328230621185" ],
     "name" : [ "Like of @OoCAnimalCross's tweet" ],
     "published" : [ "2020-04-29T14:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/OoCAnimalCross/status/1254951328230621185" ]
