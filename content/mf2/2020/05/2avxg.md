@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElleArmageddon/status/1255870742727585792" ],
     "name" : [ "Like of @ElleArmageddon's tweet" ],
     "published" : [ "2020-05-01T07:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/ElleArmageddon/status/1255870742727585792" ]
