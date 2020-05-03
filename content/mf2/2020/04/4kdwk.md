@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sharonodea/status/1255583776421412865" ],
     "name" : [ "Like of @sharonodea's tweet" ],
     "published" : [ "2020-04-29T21:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/sharonodea/status/1255583776421412865" ]
