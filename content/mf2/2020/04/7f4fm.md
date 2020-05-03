@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1255639226428907520" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2020-04-30T11:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/IanColdwater/status/1255639226428907520" ]
