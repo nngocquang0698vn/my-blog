@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/miss_jwo/status/1256616688122048512" ],
     "name" : [ "Like of @miss_jwo's tweet" ],
     "published" : [ "2020-05-03T10:34:00+01:00" ],
     "like-of" : [ "https://twitter.com/miss_jwo/status/1256616688122048512" ]
