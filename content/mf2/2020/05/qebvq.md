@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vexwerewolf/status/1256334544279498753" ],
     "name" : [ "Like of @vexwerewolf's tweet" ],
     "published" : [ "2020-05-02T15:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/vexwerewolf/status/1256334544279498753" ]
