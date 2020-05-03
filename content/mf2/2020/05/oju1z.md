@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/djbaskin/status/1256302392611500032" ],
     "name" : [ "Like of @djbaskin's tweet" ],
     "published" : [ "2020-05-01T23:49:00+01:00" ],
     "like-of" : [ "https://twitter.com/djbaskin/status/1256302392611500032" ]
