@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaKennedy/status/1255053722515902464" ],
     "name" : [ "Like of @EmmaKennedy's tweet" ],
     "published" : [ "2020-04-28T21:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/EmmaKennedy/status/1255053722515902464" ]
