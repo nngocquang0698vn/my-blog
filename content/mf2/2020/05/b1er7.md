@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WTFcooner/status/1256363307344240642" ],
     "name" : [ "Like of @WTFcooner's tweet" ],
     "published" : [ "2020-05-02T11:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/WTFcooner/status/1256363307344240642" ]
