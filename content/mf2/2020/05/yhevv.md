@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/misscrisp/status/1255882340473208832" ],
     "name" : [ "Like of @misscrisp's tweet" ],
     "published" : [ "2020-05-02T11:11:00+01:00" ],
     "category" : [ "zoom" ],
