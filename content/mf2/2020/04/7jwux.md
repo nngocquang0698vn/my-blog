@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/varcharr/status/1254498977803796481" ],
     "name" : [ "Like of @varcharr's tweet" ],
     "published" : [ "2020-04-27T20:20:00+01:00" ],
     "category" : [ "vim" ],
