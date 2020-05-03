@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HlessHman/status/1254776826867576832" ],
     "name" : [ "Like of @HlessHman's tweet" ],
     "published" : [ "2020-04-29T12:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/HlessHman/status/1254776826867576832" ]
