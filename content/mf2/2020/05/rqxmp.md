@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1256896433707507713" ],
     "published" : [ "2020-05-02T12:47:00+01:00" ],
     "repost-of" : [ "https://twitter.com/AnimalsWorId/status/1256511434852192256" ],
     "category" : [ "morph" ],
