@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Planet_Pkmn/status/1256232074148798464" ],
     "name" : [ "Like of @Planet_Pkmn's tweet" ],
     "published" : [ "2020-05-02T11:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/Planet_Pkmn/status/1256232074148798464" ]
