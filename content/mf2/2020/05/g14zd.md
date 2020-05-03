@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1257025380671803393" ],
     "published" : [ "2020-05-03T17:46:55.159+02:00" ],
     "category" : [ "paradise-pd" ],
     "content" : [ {
