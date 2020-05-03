@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlSweigart/status/1256297829544255488" ],
     "name" : [ "Like of @AlSweigart's tweet" ],
     "published" : [ "2020-05-02T16:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/AlSweigart/status/1256297829544255488" ]
