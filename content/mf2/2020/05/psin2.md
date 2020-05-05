@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/King_of_Sams_/status/1257291559537643520" ],
     "name" : [ "Like of @King_of_Sams_'s tweet" ],
     "published" : [ "2020-05-04T14:47:00+01:00" ],
     "category" : [ "tech-nottingham" ],
