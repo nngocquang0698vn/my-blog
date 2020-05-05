@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brttnytrnh/status/1257024302035148801" ],
     "name" : [ "Like of @brttnytrnh's tweet" ],
     "published" : [ "2020-05-04T12:37:00+01:00" ],
     "category" : [ "personal-website" ],
