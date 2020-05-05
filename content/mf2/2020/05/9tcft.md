@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bessbell/status/1256715006739017729" ],
     "name" : [ "Like of @bessbell's tweet" ],
     "published" : [ "2020-05-03T11:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/bessbell/status/1256715006739017729" ]
