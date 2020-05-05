@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RheaButcher/status/1257330257738125313" ],
     "name" : [ "Like of @RheaButcher's tweet" ],
     "published" : [ "2020-05-05T10:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/RheaButcher/status/1257330257738125313" ]
