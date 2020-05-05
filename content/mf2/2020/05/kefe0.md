@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrJamesKent3/status/1256614484732502016" ],
     "name" : [ "Like of @DrJamesKent3's tweet" ],
     "published" : [ "2020-05-03T11:54:00+01:00" ],
     "category" : [ "cute" ],
