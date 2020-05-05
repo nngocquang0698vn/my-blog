@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jayvanbavel/status/1256629479394480128" ],
     "name" : [ "Like of @jayvanbavel's tweet" ],
     "published" : [ "2020-05-03T22:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/jayvanbavel/status/1256629479394480128" ]
