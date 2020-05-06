@@ -122,7 +122,7 @@ notAlternative = true
     identifier = "blog"
     name = "Blog"
     title = "Blog"
-    url = "/posts/"
+    url = "/kind/articles/"
     weight = 10
   [[menu.main]]
     identifier = "links"
