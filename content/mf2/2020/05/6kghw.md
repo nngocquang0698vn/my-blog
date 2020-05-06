@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rawkode/status/1257809080103636994" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1257940047518740480" ],
     "name" : [ "Reply to https://twitter.com/rawkode/status/1257809080103636994" ],
     "published" : [ "2020-05-06T08:18:00+01:00" ],
     "category" : [ ],
