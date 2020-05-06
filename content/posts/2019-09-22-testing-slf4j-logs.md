@@ -14,6 +14,8 @@ Logging is a very important part of your application. You can be the best develo
 
 A very popular logging library in the Java ecosystem is [SLF4J](https://www.slf4j.org/), and we'll look at how we can test we've set things up correctly.
 
+**Update 2020-05-06**: I would recommend [seeing this note about `sfl4j-test`](#slf4j-test), which I now recommend over my below solution.
+
 The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/slf4j-testing](https://gitlab.com/jamietanna/slf4j-testing), and the examples are based on [davidxxx's response on Stack Overflow](https://stackoverflow.com/a/52229629).
 
 Let's say that we have this example class that does some processing of data, as well as logging:
@@ -116,4 +118,4 @@ public class ClassThatLogsTest {
 
 Notice that when we are using a format string we have two checks on the log message - `getMessage` returns the raw message (including format placeholders), but `getFormattedMessage` returns the expanded log message.
 
-As <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span> pointed out, there is also the library [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/). I had originally not put this as the source repository does not seem to have a license - it appears the license is somewhere on the website, because I found [a Pull Request raised to add that the license to the repo](https://github.com/Mahoney/slf4j-test/pull/23). The project seems dormant as there have been no updates in over 4 years, and there are PRs open since 2016, so use at your own risk!
+<a name="slf4j-test"></a>As <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span> pointed out, there is also the library [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/). I had originally not put this as the source repository does not seem to have a license - it appears the license is somewhere on the website, because I found [a Pull Request raised to add that the license to the repo](https://github.com/Mahoney/slf4j-test/pull/23). The project seems dormant as there have been no updates in over 4 years, and there are PRs open since 2016, so use at your own risk! **Update 2020-05-06**: I am using this in production, so you may want to, as well!
