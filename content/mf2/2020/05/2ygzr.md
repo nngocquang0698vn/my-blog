@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NETTram/status/1258480828532785156" ],
     "name" : [ "Like of @NETTram's tweet" ],
     "published" : [ "2020-05-07T22:11:00+01:00" ],
     "category" : [ "ed-balls" ],
