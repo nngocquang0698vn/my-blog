@@ -61,7 +61,7 @@ to = "/mf2/2020/03/bl33l/"
   series = "series"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir", "contentDeduplication", "taxonomies"]
+home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir", "contentDeduplication", "source", "taxonomies"]
 section = ["HTML", "eventsCalendar", "RSS"]
 page = ["HTML", "eventsCalendar"]
 
@@ -92,6 +92,10 @@ baseName = "/rsvps/index"
 mediatype = "text/netlify"
 baseName = "_redirects"
 isPlainText = true
+notAlternative = true
+[outputFormats.source]
+mediatype = "application/json"
+baseName = "source"
 notAlternative = true
 [outputFormats.taxonomies]
 mediatype = "application/json"
