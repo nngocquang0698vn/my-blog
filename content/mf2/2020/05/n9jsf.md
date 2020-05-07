@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1258462357921189893" ],
     "published" : [ "2020-05-07T18:16:49.745Z" ],
     "category" : [ "mental-health", "wit-notts", "mental-illness" ],
     "content" : [ {
