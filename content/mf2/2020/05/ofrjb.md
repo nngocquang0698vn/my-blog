@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OpenKitchensUK/status/1258330055677227008" ],
     "name" : [ "Like of @OpenKitchensUK's tweet" ],
     "published" : [ "2020-05-07T23:24:00+01:00" ],
     "category" : [ "capital-one" ],
