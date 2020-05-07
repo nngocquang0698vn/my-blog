@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AyoCaesar/status/1258303906666471424" ],
     "name" : [ "Like of @AyoCaesar's tweet" ],
     "published" : [ "2020-05-07T14:46:00+01:00" ],
     "like-of" : [ "https://twitter.com/AyoCaesar/status/1258303906666471424" ]
