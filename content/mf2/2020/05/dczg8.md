@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TonyMcKelvie/status/1257635680269860865" ],
     "name" : [ "Like of @TonyMcKelvie's tweet" ],
     "published" : [ "2020-05-07T16:51:00+01:00" ],
     "category" : [ "coronavirus" ],
