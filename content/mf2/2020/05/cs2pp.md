@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/femmenart/status/1257713927166717953" ],
     "name" : [ "Like of @femmenart's tweet" ],
     "published" : [ "2020-05-07T14:46:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
