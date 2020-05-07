@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lnxchk/status/1258383706798112768" ],
     "name" : [ "Like of @lnxchk's tweet" ],
     "published" : [ "2020-05-07T14:50:00+01:00" ],
     "category" : [ "chef" ],
