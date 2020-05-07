@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WhimsyDesigns/status/1258136970485735425" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-05-07T14:45:00+01:00" ],
     "category" : [ "cute" ],
