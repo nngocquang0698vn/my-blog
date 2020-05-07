@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meganamram/status/1258214513112838144" ],
     "name" : [ "Like of @meganamram's tweet" ],
     "published" : [ "2020-05-07T22:00:00+01:00" ],
     "like-of" : [ "https://twitter.com/meganamram/status/1258214513112838144" ]
