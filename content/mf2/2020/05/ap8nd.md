@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stclairjpeg/status/1258298225414434816" ],
     "name" : [ "Like of @stclairjpeg's tweet" ],
     "published" : [ "2020-05-07T23:35:00+01:00" ],
     "like-of" : [ "https://twitter.com/stclairjpeg/status/1258298225414434816" ]
