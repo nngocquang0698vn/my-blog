@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ReverseICS/status/1258410379128037376" ],
     "name" : [ "Like of @ReverseICS's tweet" ],
     "published" : [ "2020-05-08T10:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/ReverseICS/status/1258410379128037376" ]
