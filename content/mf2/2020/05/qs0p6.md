@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rwdrich/status/1258725773676105730" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1258740054350008320" ],
     "name" : [ "Reply to https://twitter.com/rwdrich/status/1258725773676105730" ],
     "published" : [ "2020-05-08T13:40:00+01:00" ],
     "category" : [ "morph" ],
