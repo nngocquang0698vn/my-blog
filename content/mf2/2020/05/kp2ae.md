@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AntzScaravilli/status/1258461838154571777" ],
     "name" : [ "Like of @AntzScaravilli's tweet" ],
     "published" : [ "2020-05-08T10:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/AntzScaravilli/status/1258461838154571777" ]
