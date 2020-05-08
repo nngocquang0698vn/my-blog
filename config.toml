@@ -61,7 +61,7 @@ to = "/mf2/2020/03/bl33l/"
   series = "series"
 
 [outputs]
-home = ["HTML", "RSS", "jsonFeed", "postFrequency", "rsvpCalendar", "redir", "contentDeduplication", "source", "taxonomies"]
+home = ["HTML", "RSS", "contacts", "jsonFeed", "postFrequency", "rsvpCalendar", "redir", "contentDeduplication", "source", "taxonomies"]
 section = ["HTML", "eventsCalendar", "RSS"]
 page = ["HTML", "eventsCalendar"]
 
@@ -73,6 +73,10 @@ delimiter = ""
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "feed"
+[outputFormats.contacts]
+mediatype = "application/json"
+baseName = "contacts"
+notAlternative = true
 [outputFormats.jsonFeed]
 mediaType = "application/json"
 baseName = "feed"
