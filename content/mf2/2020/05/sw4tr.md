@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1258724115009191937" ],
     "photo" : [ {
       "alt" : "Black cat lying on his stomach, watching the TV, which is showing Anna playing Animal Crossing",
       "photo" : "https://media.jvt.me/179c73d3b1.jpeg"
