@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/totora2600/status/1258382204301750272" ],
     "name" : [ "Like of @totora2600's tweet" ],
     "published" : [ "2020-05-08T11:02:00+01:00" ],
     "category" : [ "apex-legends" ],
