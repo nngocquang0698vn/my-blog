@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/parhellion/status/1258434460485287942" ],
     "name" : [ "Like of @parhellion's tweet" ],
     "published" : [ "2020-05-08T23:47:00+01:00" ],
     "like-of" : [ "https://twitter.com/parhellion/status/1258434460485287942" ]
