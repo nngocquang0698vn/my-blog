@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "aimeegamble"
+    ],
+    "nickname": [
+      "www.aimes.me.uk"
     ]
   }
 }

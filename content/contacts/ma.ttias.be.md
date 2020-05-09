@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "mattiasgeniar"
+    ],
+    "nickname": [
+      "ma.ttias.be"
     ]
   }
 }

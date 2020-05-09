@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "schnarfed"
+    ],
+    "nickname": [
+      "snarfed.org"
     ]
   }
 }

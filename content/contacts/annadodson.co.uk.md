@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "anna_hax"
+    ],
+    "nickname": [
+      "annadodson.co.uk"
     ]
   }
 }

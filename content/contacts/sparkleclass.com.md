@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "SparkleClass"
+    ],
+    "nickname": [
+      "sparkleclass.com"
     ]
   }
 }

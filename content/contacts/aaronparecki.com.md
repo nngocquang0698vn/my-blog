@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "aaronpk"
+    ],
+    "nickname": [
+      "aaronparecki.com"
     ]
   }
 }

@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "paulienuh"
+    ],
+    "nickname": [
+      "pawlean.com"
     ]
   }
 }
