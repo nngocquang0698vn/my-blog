@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "edent"
+    ],
+    "nickname": [
+      "shkspr.mobi"
     ]
   }
 }

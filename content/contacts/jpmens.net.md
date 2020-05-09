@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "jpmens"
+    ],
+    "nickname": [
+      "jpmens.net"
     ]
   }
 }

@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "TechNottingham"
+    ],
+    "nickname": [
+      "technottingham.com"
     ]
   }
 }

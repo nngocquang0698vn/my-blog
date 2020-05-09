@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "CarolSaysThings"
+    ],
+    "nickname": [
+      "carolgilabert.me"
     ]
   }
 }

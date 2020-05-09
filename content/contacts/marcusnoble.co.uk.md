@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "Marcus_Noble_"
+    ],
+    "nickname": [
+      "marcusnoble.co.uk"
     ]
   }
 }

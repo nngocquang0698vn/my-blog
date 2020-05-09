@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "ThomGlenn"
+    ],
+    "nickname": [
+      "thomglenn.netlify.app"
     ]
   }
 }

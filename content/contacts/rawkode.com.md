@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "rawkode"
+    ],
+    "nickname": [
+      "rawkode.com"
     ]
   }
 }

@@ -9,6 +9,9 @@
     ],
     "rel=twitter": [
       "t"
+    ],
+    "nickname": [
+      "tantek.com"
     ]
   }
 }
