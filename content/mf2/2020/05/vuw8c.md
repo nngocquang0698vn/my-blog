@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/WiT_Notts/status/1259063502045622273" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1259066052585144320" ],
     "name" : [ "Reply to https://twitter.com/WiT_Notts/status/1259063502045622273" ],
     "published" : [ "2020-05-09T11:16:00+01:00" ],
     "category" : [ ],
