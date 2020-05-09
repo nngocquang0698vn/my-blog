@@ -13,5 +13,6 @@
     "nickname": [
       "pawlean.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }

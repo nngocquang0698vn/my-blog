@@ -13,5 +13,6 @@
     "nickname": [
       "snarfed.org"
     ]
-  }
+  },
+  "kind": "contacts"
 }

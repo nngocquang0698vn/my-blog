@@ -13,5 +13,6 @@
     "nickname": [
       "www.aimes.me.uk"
     ]
-  }
+  },
+  "kind": "contacts"
 }

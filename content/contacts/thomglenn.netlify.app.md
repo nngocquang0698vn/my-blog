@@ -13,5 +13,6 @@
     "nickname": [
       "thomglenn.netlify.app"
     ]
-  }
+  },
+  "kind": "contacts"
 }

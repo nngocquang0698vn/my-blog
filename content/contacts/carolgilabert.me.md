@@ -13,5 +13,6 @@
     "nickname": [
       "carolgilabert.me"
     ]
-  }
+  },
+  "kind": "contacts"
 }

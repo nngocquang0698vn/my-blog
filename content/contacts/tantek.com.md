@@ -13,5 +13,6 @@
     "nickname": [
       "tantek.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }

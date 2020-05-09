@@ -13,5 +13,6 @@
     "nickname": [
       "marcusnoble.co.uk"
     ]
-  }
+  },
+  "kind": "contacts"
 }

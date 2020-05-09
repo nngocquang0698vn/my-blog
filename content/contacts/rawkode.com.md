@@ -13,5 +13,6 @@
     "nickname": [
       "rawkode.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }

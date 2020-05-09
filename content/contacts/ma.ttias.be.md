@@ -13,5 +13,6 @@
     "nickname": [
       "ma.ttias.be"
     ]
-  }
+  },
+  "kind": "contacts"
 }

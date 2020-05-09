@@ -13,5 +13,6 @@
     "nickname": [
       "sparkleclass.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }

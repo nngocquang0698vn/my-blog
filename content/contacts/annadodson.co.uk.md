@@ -13,5 +13,6 @@
     "nickname": [
       "annadodson.co.uk"
     ]
-  }
+  },
+  "kind": "contacts"
 }

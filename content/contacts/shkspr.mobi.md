@@ -13,5 +13,6 @@
     "nickname": [
       "shkspr.mobi"
     ]
-  }
+  },
+  "kind": "contacts"
 }

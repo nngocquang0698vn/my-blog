@@ -13,5 +13,6 @@
     "nickname": [
       "jpmens.net"
     ]
-  }
+  },
+  "kind": "contacts"
 }

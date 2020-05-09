@@ -13,5 +13,6 @@
     "nickname": [
       "technottingham.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }

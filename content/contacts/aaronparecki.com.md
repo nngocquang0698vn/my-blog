@@ -13,5 +13,6 @@
     "nickname": [
       "aaronparecki.com"
     ]
-  }
+  },
+  "kind": "contacts"
 }
