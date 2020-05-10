@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheDaVinciVirus/status/1259578153116274688" ],
     "name" : [ "Like of @TheDaVinciVirus's tweet" ],
     "published" : [ "2020-05-10T22:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/TheDaVinciVirus/status/1259578153116274688" ]
