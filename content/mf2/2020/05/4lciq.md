@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chadloder/status/1258895815046651904" ],
     "name" : [ "Like of @chadloder's tweet" ],
     "published" : [ "2020-05-10T11:56:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
