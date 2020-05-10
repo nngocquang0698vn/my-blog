@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cassidoo/status/1259524868023803904" ],
     "name" : [ "Like of @cassidoo's tweet" ],
     "published" : [ "2020-05-10T18:15:00+01:00" ],
     "category" : [ "guys" ],
