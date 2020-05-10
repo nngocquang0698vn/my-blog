@@ -14,5 +14,6 @@
       "rawkode.com"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

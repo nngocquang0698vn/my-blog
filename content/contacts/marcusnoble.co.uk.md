@@ -14,5 +14,6 @@
       "marcusnoble.co.uk"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

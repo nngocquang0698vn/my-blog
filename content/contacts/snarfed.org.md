@@ -14,5 +14,6 @@
       "snarfed.org"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

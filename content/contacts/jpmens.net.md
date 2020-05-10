@@ -14,5 +14,6 @@
       "jpmens.net"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

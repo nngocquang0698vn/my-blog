@@ -14,5 +14,6 @@
       "shkspr.mobi"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

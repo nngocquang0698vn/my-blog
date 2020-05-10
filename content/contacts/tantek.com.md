@@ -14,5 +14,6 @@
       "tantek.com"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

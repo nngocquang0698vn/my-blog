@@ -14,5 +14,6 @@
       "www.aimes.me.uk"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

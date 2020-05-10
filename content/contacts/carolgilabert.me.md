@@ -14,5 +14,6 @@
       "carolgilabert.me"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

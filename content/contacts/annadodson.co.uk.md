@@ -14,5 +14,6 @@
       "annadodson.co.uk"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

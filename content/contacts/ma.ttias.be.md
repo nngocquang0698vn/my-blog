@@ -14,5 +14,6 @@
       "ma.ttias.be"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }

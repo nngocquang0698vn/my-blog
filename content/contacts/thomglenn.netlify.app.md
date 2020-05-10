@@ -14,5 +14,6 @@
       "thomglenn.netlify.app"
     ]
   },
-  "kind": "contacts"
+  "kind": "contacts",
+  "deleted": false
 }
