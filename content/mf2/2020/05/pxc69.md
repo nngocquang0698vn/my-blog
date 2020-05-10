@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mbellgb/status/1259565843773640708" ],
     "name" : [ "Like of @mbellgb's tweet" ],
     "published" : [ "2020-05-10T22:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/mbellgb/status/1259565843773640708" ]
