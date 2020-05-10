@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1259439216011939840" ],
     "published" : [ "2020-05-10T11:56:00+01:00" ],
     "repost-of" : [ "https://twitter.com/zahrataiba/status/1259211830435741702" ],
     "category" : [ "career" ]
