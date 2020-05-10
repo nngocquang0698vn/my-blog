@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1259584006087225344" ],
     "photo" : [ {
       "alt" : "Black cat stretched out lying on the decking next to Jamie, looking very contented with his position for a snooze",
       "photo" : "https://media.jvt.me/98ab8c3bfa.jpeg"
