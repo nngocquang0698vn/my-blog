@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DSAArchaeology/status/1258935168657743874" ],
     "name" : [ "Like of @_lizharvey's tweet" ],
     "published" : [ "2020-05-10T11:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/_lizharvey/status/1259128727625228294" ]
