@@ -31,7 +31,7 @@ We'll trial it on the [May 13th Homebrew Website Club Nottingham](https://events
 
 A few words to say welcome, and explain the format for those that aren't aware.
 
-### 1730-1830: 🤫 Quiet writing / working time
+### 1735-1830: 🤫 Quiet writing / working time
 
 A quiet time where you can work on what you want:
 
