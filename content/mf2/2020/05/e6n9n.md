@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/threadreaderapp/status/1236370151890509825" ],
     "name" : [ "Like of @threadreaderapp's tweet" ],
     "published" : [ "2020-05-10T11:19:38.994Z" ],
     "like-of" : [ "https://twitter.com/threadreaderapp/status/1236370151890509825" ]
