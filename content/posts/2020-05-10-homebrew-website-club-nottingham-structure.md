@@ -43,7 +43,7 @@ You don't need to join the call, but if you do, you don't need to have your audi
 
 ### 1830-1915: 👩‍💻 Social / co-working time
 
-Continue working on what you were doing during the **??** but with the expectation that there will be lively conversation about what people are working on.
+Continue working on what you were doing during the quiet hour, with the expectation that there will be lively conversation about what people are working on, or just chat about anything Web-related!
 
 ### 1900-1905: 📸 Photo Time!
 
