@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Benpowelluk/status/1258837036942966784" ],
     "name" : [ "Like of @Benpowelluk's tweet" ],
     "published" : [ "2020-05-10T11:57:00+01:00" ],
     "category" : [ "coronavirus" ],
