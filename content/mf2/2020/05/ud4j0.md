@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1259546333406429190" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-05-10T22:16:00+01:00" ],
     "category" : [ "coronavirus" ],
