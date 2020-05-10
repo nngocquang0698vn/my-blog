@@ -28,7 +28,7 @@ paginate = 50
   MicroSubEndpoint = "https://aperture.p3k.io/microsub/262"
   MicroPubEndpoint = "https://www-api.jvt.me/micropub"
   ShowInMainFeed = ["articles", "bookmarks", "notes", "reposts", "rsvps"]
-  IgnoreInFeeds = ["", "projects", "talks"]
+  IgnoreInFeeds = ["", "contacts", "projects", "talks"]
 [[params.redirect]]
 from = "/tags/archlinux/"
 to = "/tags/arch-linux/"
