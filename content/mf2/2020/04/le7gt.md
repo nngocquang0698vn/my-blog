@@ -7,7 +7,7 @@
     "name" : [ "RSVP yes to https://www.jvt.me/events/personal-events/2020-04-o936k/" ],
     "published" : [ "2020-04-30T18:00:00+01:00" ],
     "event" : {
-      "start" : [ "2020-05-30T18:00:00+0100" ],
+      "start" : [ "2020-04-30T18:00:00+0100" ],
       "name" : [ "Escape room" ],
       "end" : [ "2020-04-30T21:00:00+0100" ],
       "url" : [ "https://www.jvt.me/events/personal-events/2020-04-o936k/" ]
