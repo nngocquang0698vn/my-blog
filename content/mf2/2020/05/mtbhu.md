@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/haveigotnews/status/1259805112182149121" ],
     "name" : [ "Like of @haveigotnews's tweet" ],
     "published" : [ "2020-05-11T16:13:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
