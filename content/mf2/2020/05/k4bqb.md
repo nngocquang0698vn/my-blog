@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KatyFBrand/status/1259471874851057671" ],
     "name" : [ "Like of @KatyFBrand's tweet" ],
     "published" : [ "2020-05-11T10:12:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
