@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StuRobson/status/1259839613016965121" ],
     "name" : [ "Like of @StuRobson's tweet" ],
     "published" : [ "2020-05-11T16:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/StuRobson/status/1259839613016965121" ]
