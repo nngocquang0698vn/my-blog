@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nonewgirlcontxt/status/1259549629353508865" ],
     "name" : [ "Like of @nonewgirlcontxt's tweet" ],
     "published" : [ "2020-05-11T16:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/nonewgirlcontxt/status/1259549629353508865" ]
