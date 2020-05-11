@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marxjohnson/status/1259844970908958721" ],
     "name" : [ "Like of @marxjohnson's tweet" ],
     "published" : [ "2020-05-11T22:25:00+01:00" ],
     "category" : [ "coronavirus" ],
