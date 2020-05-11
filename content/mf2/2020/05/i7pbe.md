@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DallasMocha/status/1259507874566418438" ],
     "name" : [ "Like of @DallasMocha's tweet" ],
     "published" : [ "2020-05-11T22:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/DallasMocha/status/1259507874566418438" ]
