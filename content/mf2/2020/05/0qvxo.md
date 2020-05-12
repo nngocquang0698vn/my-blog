@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricaJoy/status/1259908975966842883" ],
     "name" : [ "Like of @EricaJoy's tweet" ],
     "published" : [ "2020-05-12T07:37:00+01:00" ],
     "like-of" : [ "https://twitter.com/EricaJoy/status/1259908975966842883" ]
