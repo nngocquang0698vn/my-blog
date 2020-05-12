@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nicktyler1970/status/1260329967390535682" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-05-12T23:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/JamesSACorey/status/1260330392613085184" ]
