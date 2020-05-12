@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1260278680162570240" ],
     "published" : [ "2020-05-12T18:22:00+01:00" ],
     "category" : [ "apex-legends" ],
     "content" : [ {
