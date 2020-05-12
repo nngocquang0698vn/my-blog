@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TomEaston/status/1259781936983298050" ],
     "name" : [ "Like of @TomEaston's tweet" ],
     "published" : [ "2020-05-12T12:20:00+01:00" ],
     "category" : [ "coronavirus" ],
