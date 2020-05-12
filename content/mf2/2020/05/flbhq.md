@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Otto_English/status/1258851921978429443" ],
     "name" : [ "Like of @Otto_English's tweet" ],
     "published" : [ "2020-05-09T21:07:00+01:00" ],
     "category" : [ "coronavirus" ],
