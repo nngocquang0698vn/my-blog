@@ -182,6 +182,12 @@ notAlternative = true
     url = "/blogroll/"
     weight = 40
   [[menu.footer]]
+    identifier = "popular-posts"
+    name = "Post Visualisation"
+    title = "Post Visualisation"
+    url = "/popular-posts/"
+    weight = 41
+  [[menu.footer]]
     identifier = "postvisualisation"
     name = "Post Visualisation"
     title = "Post Visualisation"
