@@ -33,3 +33,11 @@ RestAssured
 Rest Assured will then go through the keystore and authenticate with the key it needs.
 
 Note that this was tested with Rest Assured v4.0.0.
+
+**NOTE**: You may be encountering the following exception when performing this:
+
+```
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+```
+
+I am currently trying to determine why, and how to avoid it!
