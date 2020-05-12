@@ -183,8 +183,8 @@ notAlternative = true
     weight = 40
   [[menu.footer]]
     identifier = "popular-posts"
-    name = "Post Visualisation"
-    title = "Post Visualisation"
+    name = "Popular Posts"
+    title = "Popular Posts"
     url = "/popular-posts/"
     weight = 41
   [[menu.footer]]
