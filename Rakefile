@@ -257,6 +257,51 @@ task :new, [:title] do |_, args|
   end
 end
 
+def app_url(url, client_id)
+  if url.start_with? '/'
+    File.join(client_id, url)
+  else
+    url
+  end
+end
+
+desc 'Update h-app information'
+task :apps do
+  require 'net/http'
+  require 'microformats'
+  require 'uri'
+  apps = Dir.glob('content/mf2/**/*.md').filter_map do |f|
+    next if f.end_with? '_index.md'
+
+    mf2 = JSON.parse(File.read f)
+    next unless mf2['client_id']
+
+    mf2['client_id'] unless mf2['client_id'].nil?
+  end
+
+  apps.uniq.each do |app|
+    mf2 = Microformats.parse(Net::HTTP.get URI(app))
+    mf2.to_h['items'].each do |h|
+      next unless h['type'].include? 'h-app'
+      filename = URI.parse(app).host
+
+      p = h['properties']
+
+      if p.key? 'url'
+        p['url'] = [app_url(p['url'][0], app)]
+      end
+
+      if p.key? 'logo'
+        p['logo'] = [app_url(p['logo'][0], app)]
+      end
+
+      File.open("data/apps/#{filename}.json", 'w') do |a|
+        a.write(JSON.pretty_generate(h) + "\n")
+      end
+    end
+  end
+end
+
 task validate: ['validate:events', 'validate:posts', 'validate:mf2']
 
 task default: ['validate', 'test']
