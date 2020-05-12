@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/halkyardo/status/1259923179021221889" ],
     "name" : [ "Like of @halkyardo's tweet" ],
     "published" : [ "2020-05-12T21:26:00+01:00" ],
     "category" : [ "cute" ],
