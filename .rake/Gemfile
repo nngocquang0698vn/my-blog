@@ -11,8 +11,3 @@ group :test do
   gem 'rake'
   gem 'rspec'
 end
-
-group :deploy do
-  gem 'capistrano', '= 3.7.1'
-  gem 'rake'
-end
