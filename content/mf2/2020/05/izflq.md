@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1260604438550589440" ],
     "name" : [ "Quarantine work is not Remote work" ],
     "published" : [ "2020-05-13T17:07:00+01:00" ],
     "category" : [ "coronavirus", "remote-work" ],
