@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1260628255507431426" ],
     "published" : [ "2020-05-13T17:42:21.41Z" ],
     "category" : [ "matomo" ],
     "content" : [ {
