@@ -40,4 +40,4 @@ Note that this was tested with Rest Assured v4.0.0.
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 ```
 
-I am currently trying to determine why, and how to avoid it!
+I am currently trying to determine why, and how to avoid it, and [have raised an issue upstream](https://github.com/rest-assured/rest-assured/issues/1325).
