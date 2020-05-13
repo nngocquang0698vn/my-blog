@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolineMoss/status/1260291758384009217" ],
     "name" : [ "Like of @CarolineMoss's tweet" ],
     "published" : [ "2020-05-13T17:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/CarolineMoss/status/1260291758384009217" ]
