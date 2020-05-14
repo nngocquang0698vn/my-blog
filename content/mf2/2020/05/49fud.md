@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/currentvictim/status/1260747176688283649" ],
     "name" : [ "Like of @currentvictim's tweet" ],
     "published" : [ "2020-05-14T21:33:00+01:00" ],
     "category" : [ "cute" ],
