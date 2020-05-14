@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1260909645692100611" ],
     "photo" : [ {
       "alt" : "Jamie's finger with a bit of tuna dangling for Morph, reaching up as long cat, and sniffing at his finger",
       "photo" : "https://media.jvt.me/df4de18ce9.jpeg"
