@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ratishphilip/status/1260610300824313857" ],
     "name" : [ "Like of @ratishphilip's tweet" ],
     "published" : [ "2020-05-14T07:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/ratishphilip/status/1260610300824313857" ]
