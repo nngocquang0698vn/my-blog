@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freyamuriel/status/1260856174813032448" ],
     "name" : [ "Like of @freyamuriel's tweet" ],
     "published" : [ "2020-05-15T11:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/freyamuriel/status/1260856174813032448" ]
