@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hehemymy/status/1261365210708770816" ],
     "name" : [ "Like of @hehemymy's tweet" ],
     "published" : [ "2020-05-16T00:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/hehemymy/status/1261365210708770816" ]
