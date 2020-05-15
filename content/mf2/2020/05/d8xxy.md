@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justbalmy/status/1261200518044626944" ],
     "name" : [ "Like of @justbalmy's tweet" ],
     "published" : [ "2020-05-15T17:38:00+01:00" ],
     "like-of" : [ "https://twitter.com/justbalmy/status/1261200518044626944" ]
