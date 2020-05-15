@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joshuajenkins/status/1260989992467263489" ],
     "name" : [ "Like of @joshuajenkins's tweet" ],
     "published" : [ "2020-05-15T17:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/joshuajenkins/status/1260989992467263489" ]
