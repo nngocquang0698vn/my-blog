@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/galaxymagnet/status/1248800267119652864" ],
     "name" : [ "Like of @galaxymagnet's tweet" ],
     "published" : [ "2020-05-15T21:55:00+01:00" ],
     "like-of" : [ "https://twitter.com/galaxymagnet/status/1248800267119652864" ]
