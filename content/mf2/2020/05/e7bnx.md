@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/neil_killick/status/1261535908953600000" ],
     "name" : [ "Like of @neil_killick's tweet" ],
     "published" : [ "2020-05-16T20:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/neil_killick/status/1261535908953600000" ]
