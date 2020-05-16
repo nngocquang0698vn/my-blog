@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oluoluoxenfree/status/1261445999278665728" ],
     "name" : [ "Like of @oluoluoxenfree's tweet" ],
     "published" : [ "2020-05-16T17:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/oluoluoxenfree/status/1261445999278665728" ]
