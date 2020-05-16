@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gryking/status/1261546929202266112" ],
     "name" : [ "Like of @AdrianCJax's tweet" ],
     "published" : [ "2020-05-16T17:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/AdrianCJax/status/1261650998340268033" ]
