@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danluu/status/1261216746687483904" ],
     "name" : [ "Like of @dclex_'s tweet" ],
     "published" : [ "2020-05-16T20:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/dclex_/status/1261439325859799041" ]
