@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SamSykesSwears/status/1261331248225509377" ],
     "name" : [ "Like of @SamSykesSwears's tweet" ],
     "published" : [ "2020-05-16T17:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/SamSykesSwears/status/1261331248225509377" ]
