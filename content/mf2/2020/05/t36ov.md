@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TrekCore/status/1261670314288779269" ],
     "name" : [ "Like of @TrekCore's tweet" ],
     "published" : [ "2020-05-16T21:44:00+01:00" ],
     "category" : [ "star-trek" ],
