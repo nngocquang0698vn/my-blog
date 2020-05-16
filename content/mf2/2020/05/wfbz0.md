@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lexi4prez/status/1260696727717384192" ],
     "name" : [ "Like of @DynawithaD's tweet" ],
     "published" : [ "2020-05-16T17:24:00+01:00" ],
     "like-of" : [ "https://twitter.com/DynawithaD/status/1260918684995985408" ]
