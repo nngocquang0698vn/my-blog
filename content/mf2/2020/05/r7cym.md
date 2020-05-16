@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rwdrich/status/1261594873578340352" ],
     "name" : [ "Like of @rwdrich's tweet" ],
     "published" : [ "2020-05-16T12:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/rwdrich/status/1261594873578340352" ]
