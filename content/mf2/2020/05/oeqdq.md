@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kat_wlodarczyk/status/1262083538108788738" ],
     "name" : [ "Like of @kat_wlodarczyk's tweet" ],
     "published" : [ "2020-05-17T22:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/kat_wlodarczyk/status/1262083538108788738" ]
