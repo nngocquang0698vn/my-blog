@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/signalapp/status/1261364662840385536" ],
     "name" : [ "Like of @signalapp's tweet" ],
     "published" : [ "2020-05-17T16:32:00+01:00" ],
     "like-of" : [ "https://twitter.com/signalapp/status/1261364662840385536" ]
