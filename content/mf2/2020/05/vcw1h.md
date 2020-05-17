@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ErinInTheMorn/status/1261759360851722240" ],
     "name" : [ "Like of @ErinInTheMorn's tweet" ],
     "published" : [ "2020-05-17T15:08:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
