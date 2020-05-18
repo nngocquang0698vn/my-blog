@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1262269909792362496" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2020-05-18T18:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/EmmaBostian/status/1262269909792362496" ]
