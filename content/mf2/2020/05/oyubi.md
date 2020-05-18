@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/S_McBuckets/status/1261859799068745730" ],
     "name" : [ "Like of @S_McBuckets's tweet" ],
     "published" : [ "2020-05-18T19:02:00+01:00" ],
     "category" : [ "animal-crossing" ],
