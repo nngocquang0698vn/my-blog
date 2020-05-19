@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/garybernhardt/status/1262847255976898560" ],
     "name" : [ "Like of @garybernhardt's tweet" ],
     "published" : [ "2020-05-19T22:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/garybernhardt/status/1262847255976898560" ]
