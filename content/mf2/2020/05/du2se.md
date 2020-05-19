@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tanepiper/status/1262619067069988865" ],
     "name" : [ "Like of @tanepiper's tweet" ],
     "published" : [ "2020-05-19T08:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/tanepiper/status/1262619067069988865" ]
