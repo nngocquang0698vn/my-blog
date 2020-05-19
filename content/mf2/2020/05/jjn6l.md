@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1262861042595610624" ],
     "photo" : [ {
       "alt" : "Black cat flopped on his side, on a red blanket, with a tiny blep of his pink tongue visible",
       "photo" : "https://media.jvt.me/487d9b2611.jpeg"
