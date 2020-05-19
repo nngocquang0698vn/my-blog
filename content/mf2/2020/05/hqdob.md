@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/05/defxb/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1262819329613201409" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/05/defxb/" ],
     "published" : [ "2020-05-19T19:33:00+01:00" ],
     "category" : [ ],
