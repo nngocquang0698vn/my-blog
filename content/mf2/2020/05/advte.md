@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matthewherod/status/1262744334396317696" ],
     "name" : [ "Like of @matthewherod's tweet" ],
     "published" : [ "2020-05-19T16:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/matthewherod/status/1262744334396317696" ]
