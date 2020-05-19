@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/raiin_song/status/1262093877818818561" ],
     "name" : [ "Like of @raiin_song's tweet" ],
     "published" : [ "2020-05-18T09:41:00+01:00" ],
     "like-of" : [ "https://twitter.com/raiin_song/status/1262093877818818561" ]
