@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1263081316666478594" ],
     "published" : [ "2020-05-20T12:14:06.09Z" ],
     "category" : [ "coronavirus", "shitpost" ],
     "content" : [ {
