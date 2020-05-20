@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CardsToast/status/1262101317922635776" ],
     "name" : [ "Like of @CardsToast's tweet" ],
     "published" : [ "2020-05-20T14:44:00+01:00" ],
     "category" : [ "coronavirus" ],
