@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jevakallio/status/1263058157166829571" ],
     "name" : [ "Like of @jevakallio's tweet" ],
     "published" : [ "2020-05-20T14:42:00+01:00" ],
     "category" : [ "css" ],
