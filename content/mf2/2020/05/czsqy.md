@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TwitterComms/status/1263209362845134848" ],
     "name" : [ "Like of @blaine's tweet" ],
     "published" : [ "2020-05-20T22:37:00+01:00" ],
     "like-of" : [ "https://twitter.com/blaine/status/1263211451986018304" ]
