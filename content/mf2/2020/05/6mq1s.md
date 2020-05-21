@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tobi/status/1263483496087064579" ],
     "name" : [ "Like of @tobi's tweet" ],
     "published" : [ "2020-05-21T18:30:00+01:00" ],
     "category" : [ "remote-work" ],
