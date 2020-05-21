@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/markdalgleish/status/1263273770984239105" ],
     "name" : [ "Like of @markdalgleish's tweet" ],
     "published" : [ "2020-05-21T20:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/markdalgleish/status/1263273770984239105" ]
