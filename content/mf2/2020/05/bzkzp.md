@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/rest-assured/rest-assured/issues/1325" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/rest-assured/rest-assured/issues/1325#issuecomment-631947344" ],
     "name" : [ "Reply to https://github.com/rest-assured/rest-assured/issues/1325" ],
     "published" : [ "2020-05-21T07:47:48.864Z" ],
     "category" : [ ],
