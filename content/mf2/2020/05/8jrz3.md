@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drewm/status/1263415717073956864" ],
     "name" : [ "Like of @drewm's tweet" ],
     "published" : [ "2020-05-21T18:38:00+01:00" ],
     "category" : [ "netlify" ],
