@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/alicegoldfuss/status/1263537556924198912" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1263550675365044226" ],
     "name" : [ "Reply to https://twitter.com/alicegoldfuss/status/1263537556924198912" ],
     "published" : [ "2020-05-21T20:18:00+01:00" ],
     "category" : [ ],
