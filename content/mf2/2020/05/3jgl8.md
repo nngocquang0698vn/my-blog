@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DaniJCoello/status/1262709693341937665" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-05-21T11:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/rizbizkits/status/1263404321787580416" ]
