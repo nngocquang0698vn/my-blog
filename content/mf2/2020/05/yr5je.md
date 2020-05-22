@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brittnaynay3/status/1257785065515421696" ],
     "name" : [ "Like of @brittnaynay3's tweet" ],
     "published" : [ "2020-05-22T23:20:00+01:00" ],
     "category" : [ "battlestations" ],
