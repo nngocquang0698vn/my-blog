@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/YesMissMurphy/status/1263825010352848898" ],
     "name" : [ "Like of @YesMissMurphy's tweet" ],
     "published" : [ "2020-05-22T23:13:00+01:00" ],
     "category" : [ "coronavirus" ],
