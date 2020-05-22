@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rawkode/status/1263598102709067778" ],
     "name" : [ "Like of @rawkode's tweet" ],
     "published" : [ "2020-05-22T23:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/rawkode/status/1263614895712620545" ]
