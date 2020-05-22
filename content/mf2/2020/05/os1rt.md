@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Flaminhaystack/status/1263499263012737024" ],
     "name" : [ "Like of @Flaminhaystack's tweet" ],
     "published" : [ "2020-05-22T23:32:00+01:00" ],
     "like-of" : [ "https://twitter.com/Flaminhaystack/status/1263499263012737024" ]
