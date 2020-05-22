@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/animalcrossimg/status/1263532092266287104" ],
     "name" : [ "Like of @animalcrossimg's tweet" ],
     "published" : [ "2020-05-22T17:09:00+01:00" ],
     "category" : [ "animal-crossing" ],
