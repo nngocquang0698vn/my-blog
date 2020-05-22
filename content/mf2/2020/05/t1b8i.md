@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ccmiller2018/status/1263921133033869312" ],
     "name" : [ "Like of @ccmiller2018's tweet" ],
     "published" : [ "2020-05-22T21:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/ccmiller2018/status/1263921133033869312" ]
