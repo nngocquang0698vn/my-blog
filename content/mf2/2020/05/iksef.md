@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1264308649910042627" ],
     "published" : [ "2020-05-23T22:30:00+01:00" ],
     "repost-of" : [ "https://twitter.com/jrawson/status/1264121909345767425" ],
     "category" : [ "politics" ]
