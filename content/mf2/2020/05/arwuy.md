@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sash1_k/status/1263964622119411715" ],
     "name" : [ "Like of @sash1_k's tweet" ],
     "published" : [ "2020-05-23T11:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/sash1_k/status/1263964622119411715" ]
