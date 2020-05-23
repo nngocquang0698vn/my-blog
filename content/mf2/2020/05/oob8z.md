@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RozNYC/status/1264018452513259520" ],
     "name" : [ "Like of @RozNYC's tweet" ],
     "published" : [ "2020-05-23T20:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/RozNYC/status/1264018452513259520" ]
