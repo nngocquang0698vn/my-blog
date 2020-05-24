@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GuileneMarco/status/1264225653362171905" ],
     "name" : [ "Like of @GuileneMarco's tweet" ],
     "published" : [ "2020-05-24T18:44:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
