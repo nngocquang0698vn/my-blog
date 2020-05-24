@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OwenJones84/status/1264606110348185600" ],
     "name" : [ "Like of @OwenJones84's tweet" ],
     "published" : [ "2020-05-24T18:36:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
