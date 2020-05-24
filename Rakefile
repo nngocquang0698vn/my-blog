@@ -186,6 +186,7 @@ task :new, [:title] do |_, args|
   date_str = Date.today.iso8601
   puts `git checkout -b article/#{args[:title]}`
   puts `hugo new posts/#{date_str}-#{args[:title]}.md`
+  puts `git add posts/#{date_str}-#{args[:title]}.md`
 end
 
 def app_url(url, client_id)
