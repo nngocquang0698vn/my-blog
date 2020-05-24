@@ -6,7 +6,6 @@ FROM registry.gitlab.com/jamietanna/jvt.me/ruby-base:v2
 
 COPY --from=hugo /public public
 # get our dependencies for testing {{{
-COPY permalinks.yml /app/
 COPY Rakefile ./
 COPY lib/ ./lib
 COPY spec/ ./spec
