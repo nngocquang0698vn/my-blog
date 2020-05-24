@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Eugene_Scott/status/1264564513657028608" ],
     "name" : [ "Like of @Eugene_Scott's tweet" ],
     "published" : [ "2020-05-24T18:41:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
