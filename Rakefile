@@ -71,67 +71,6 @@ namespace :test do
 
   RSpec::Core::RakeTask.new(:spec)
 
-  namespace :permalinks do
-    desc 'Verify RSS permalinks are not broken'
-    task :rss do
-      permalinks = YAML.load_file('permalinks.yml')
-      seen = []
-      not_seen = []
-
-      require 'nokogiri'
-      feed = Nokogiri::XML(File.read('public/feed.xml'))
-
-      feed.xpath('//item').each do |e|
-        link = e.at_xpath('link').content
-        # we don't care about anything that's not a blog post
-        next unless /^https:\/\/www.jvt.me\/posts\//.match? link
-
-        if permalinks['posts'].include? link
-          seen << link
-        else
-          not_seen << link
-        end
-      end
-
-      # if we've added a new post
-      raise 'Posts not tracked in permalinks.yml ' + not_seen.to_s unless not_seen.length.zero?
-      # if we've removed an old post
-      raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
-    end
-
-    desc 'Verify sitemap permalinks are not broken'
-    task :sitemap do
-      permalinks = YAML.load_file('permalinks.yml')
-      seen = []
-      not_seen = []
-
-      require 'nokogiri'
-      feed = Nokogiri::XML(File.read('public/sitemap.xml'))
-
-      feed.css('url').each do |e|
-        link = e.css('loc').text
-        # we don't care about anything that's not a blog post
-        next unless /^https:\/\/www.jvt.me\/posts\/[0-9]{4}\//.match? link
-
-        if permalinks['posts'].include? link
-          seen << link
-        elsif permalinks['aliases'].include? "#{link}/index.html"
-          seen << link
-        else
-          not_seen << link
-        end
-      end
-
-      # if we've added a new post
-      raise 'Posts not tracked in permalinks.yml ' + not_seen.to_s unless not_seen.length.zero?
-      # if we've removed an old post
-      raise "Posts seen (#{seen.length}) different to posts in `permalinks.yml` (#{permalinks['posts'].length})" if seen.length != permalinks['posts'].length
-    end
-  end
-
-  desc 'Verify permalinks are not broken'
-  task permalinks: ['permalinks:rss', 'permalinks:sitemap']
-
   desc 'Ensure that duplicated tags do not exist'
   task :duplicate_tags do
     Dir.glob('content/**/*.md').each do |file|
@@ -145,7 +84,7 @@ namespace :test do
   end
 end
 
-task test: ['test:spec', 'test:permalinks', 'test:html_proofer', 'test:duplicate_tags']
+task test: ['test:spec', 'test:html_proofer', 'test:duplicate_tags']
 
 namespace :list do
   desc 'List all tags in the site'
@@ -245,16 +184,8 @@ end
 desc 'New Branch + Post'
 task :new, [:title] do |_, args|
   date_str = Date.today.iso8601
-  date = Date.parse date_str
   puts `git checkout -b article/#{args[:title]}`
   puts `hugo new posts/#{date_str}-#{args[:title]}.md`
-  new_url = "https://www.jvt.me/posts/#{date.year}/#{date.strftime('%m')}/#{date.strftime('%d')}/#{args[:title]}/"
-  contents = YAML.load_file 'permalinks.yml'
-  contents['posts'].unshift new_url
-
-  File.open('permalinks.yml', 'w') do |f|
-    f.write contents.to_yaml
-  end
 end
 
 def app_url(url, client_id)
