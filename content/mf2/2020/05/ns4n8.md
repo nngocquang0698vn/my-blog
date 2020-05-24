@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/TatianaTMac/status/1264277943825694721" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1264543904503914502" ],
     "name" : [ "Reply to https://twitter.com/TatianaTMac/status/1264277943825694721" ],
     "published" : [ "2020-05-24T14:05:00+01:00" ],
     "category" : [ ],
