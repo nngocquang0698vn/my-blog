@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mcguinness2A/status/1264598639667748865" ],
     "name" : [ "Like of @Mcguinness2A's tweet" ],
     "published" : [ "2020-05-24T18:52:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
