@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/samatlounge/status/1264165348170969088" ],
     "name" : [ "Like of @samatlounge's tweet" ],
     "published" : [ "2020-05-24T18:39:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
