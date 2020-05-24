@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheKateMulgrew/status/1264303776179027969" ],
     "name" : [ "Like of @TheKateMulgrew's tweet" ],
     "published" : [ "2020-05-24T10:36:00+01:00" ],
     "category" : [ "star-trek" ],
