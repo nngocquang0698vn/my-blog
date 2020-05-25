@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265003671160528896" ],
     "photo" : [ {
       "alt" : "\"Before\" shot of Jamie sitting on a chair smiling, with a bed sheet around him, with quite a lot of hair, some of which is in his eyes",
       "photo" : "https://media.jvt.me/2d0931ccd2.jpeg"
