@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KelseyMarshalll/status/1264840754221940737" ],
     "name" : [ "Like of @KelseyMarshalll's tweet" ],
     "published" : [ "2020-05-25T22:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/KelseyMarshalll/status/1264840754221940737" ]
