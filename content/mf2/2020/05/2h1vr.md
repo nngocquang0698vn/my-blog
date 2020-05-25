@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HackedOffHugh/status/1264966312490655759" ],
     "name" : [ "Like of @HackedOffHugh's tweet" ],
     "published" : [ "2020-05-25T21:35:00+01:00" ],
     "category" : [ "politics" ],
