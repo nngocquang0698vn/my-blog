@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HackneyAbbott/status/1264972343878836224" ],
     "name" : [ "Like of @HackneyAbbott's tweet" ],
     "published" : [ "2020-05-25T22:11:00+01:00" ],
     "category" : [ "politics" ],
