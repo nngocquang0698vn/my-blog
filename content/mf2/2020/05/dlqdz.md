@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Simon_Pegg/status/1264966247894126597" ],
     "name" : [ "Like of @Simon_Pegg's tweet" ],
     "published" : [ "2020-05-25T20:51:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
