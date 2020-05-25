@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/meetup", "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://brid.gy/publish/meetup", "https://twitter.com/JamieTanna/status/1265009151375216641" ],
     "published" : [ "2020-05-25T20:51:00+01:00" ],
     "repost-of" : [ "https://twitter.com/maureenjohnson/status/1264966069443231745" ],
     "category" : [ "coronavirus", "politics" ]
