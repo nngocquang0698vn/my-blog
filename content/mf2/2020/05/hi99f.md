@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/AnTheMaker/status/1264665346239279104" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1264846434634997762" ],
     "name" : [ "Reply to https://twitter.com/AnTheMaker/status/1264665346239279104" ],
     "published" : [ "2020-05-24T22:30:00+01:00" ],
     "category" : [ "indieweb" ],
