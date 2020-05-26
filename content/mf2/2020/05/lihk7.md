@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265308840943390721" ],
     "published" : [ "2020-05-26T16:44:00+01:00" ],
     "repost-of" : [ "https://twitter.com/WiT_Notts/status/1265194730662572032" ]
   },
