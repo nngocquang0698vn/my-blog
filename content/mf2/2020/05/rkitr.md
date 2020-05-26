@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/pleia2/status/1265367906507882497" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265386282739433483" ],
     "name" : [ "Reply to https://twitter.com/pleia2/status/1265367906507882497" ],
     "published" : [ "2020-05-26T21:52:00+01:00" ],
     "category" : [ "linux", "command-line" ],
