@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265749493712146434" ],
     "photo" : [ {
       "alt" : "Black cat lying on his side, with one paw and his head on a leg, and a couple of paws visible, and his teeth visible",
       "photo" : "https://media.jvt.me/0104c1d1a5.jpeg"
