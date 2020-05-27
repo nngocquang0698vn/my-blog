@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattiasgeniar/status/1265577407240642562" ],
     "name" : [ "Like of @mattiasgeniar's tweet" ],
     "published" : [ "2020-05-27T23:24:00+01:00" ],
     "category" : [ "medium" ],
