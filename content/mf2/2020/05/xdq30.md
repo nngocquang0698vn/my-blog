@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cshawaus/status/1265635524720488452" ],
     "name" : [ "Like of @cshawaus's tweet" ],
     "published" : [ "2020-05-27T15:12:00+01:00" ],
     "category" : [ "gitlab-ci" ],
