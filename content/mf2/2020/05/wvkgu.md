@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265356063135666180" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-05-27T13:38:00+01:00" ],
     "like-of" : [ "https://twitter.com/CarolSaysThings/status/1265622724791205889" ]
