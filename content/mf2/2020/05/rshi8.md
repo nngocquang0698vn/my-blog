@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Bazza_68/status/1265646390597877761" ],
     "name" : [ "Like of @Bazza_68's tweet" ],
     "published" : [ "2020-05-27T21:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/Bazza_68/status/1265646390597877761" ]
