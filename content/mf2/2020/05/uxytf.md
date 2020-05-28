@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/assignedcowgal/status/1263913856977342464" ],
     "name" : [ "Like of @assignedcowgal's tweet" ],
     "published" : [ "2020-05-28T07:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/assignedcowgal/status/1263913856977342464" ]
