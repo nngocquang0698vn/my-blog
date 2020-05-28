@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sdh100Shaun/status/1265911279962730496" ],
     "name" : [ "Like of @sdh100Shaun's tweet" ],
     "published" : [ "2020-05-28T09:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/sdh100Shaun/status/1265911279962730496" ]
