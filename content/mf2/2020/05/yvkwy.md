@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/konstructivizm/status/1265722885626363908" ],
     "name" : [ "Like of @konstructivizm's tweet" ],
     "published" : [ "2020-05-28T07:35:00+01:00" ],
     "category" : [ "nature" ],
