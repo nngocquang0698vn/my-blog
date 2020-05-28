@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocontextpawnee/status/1265710702536220673" ],
     "name" : [ "Like of @nocontextpawnee's tweet" ],
     "published" : [ "2020-05-28T07:23:00+01:00" ],
     "category" : [ "parks-and-recreation" ],
