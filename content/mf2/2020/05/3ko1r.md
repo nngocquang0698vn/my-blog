@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1265910275917656066" ],
     "published" : [ "2020-05-28T08:31:00+01:00" ],
     "repost-of" : [ "https://twitter.com/anna_hax/status/1265908233769754624" ],
     "category" : [ "tech-fast", "morph" ],
