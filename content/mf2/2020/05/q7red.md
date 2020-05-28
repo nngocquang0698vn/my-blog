@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/efinlay24/status/1265974653413097474" ],
     "name" : [ "Like of @efinlay24's tweet" ],
     "published" : [ "2020-05-28T16:45:00+01:00" ],
     "category" : [ "plants" ],
