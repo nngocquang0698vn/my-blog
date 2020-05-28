@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DannyVegito/status/1265313386667130882" ],
     "name" : [ "Like of @DannyVegito's tweet" ],
     "published" : [ "2020-05-28T11:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/DannyVegito/status/1265313386667130882" ]
