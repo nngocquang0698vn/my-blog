@@ -4,6 +4,7 @@ description: "How to script `bluetoothctl` to toggle your connection to a Blueto
 tags:
 - blogumentation
 - command-line
+- bluetoothctl
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-27T09:11:29+0000
