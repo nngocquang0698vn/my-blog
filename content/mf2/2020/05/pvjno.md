@@ -5,7 +5,7 @@
   "properties" : {
     "in-reply-to" : [ "https://www.meetup.com/Notts-Techfast/events/270722934/" ],
     "syndication" : [ "https://brid.gy/publish/meetup" ],
-    "name" : [ "RSVP maybe to https://www.meetup.com/Notts-Techfast/events/270722934/" ],
+    "name" : [ "RSVP yes to https://www.meetup.com/Notts-Techfast/events/270722934/" ],
     "published" : [ "2020-05-22T10:35:00+01:00" ],
     "event" : {
       "start" : [ "2020-05-28T08:00:00+01:00" ],
@@ -14,7 +14,7 @@
       "location" : [ "Online" ],
       "url" : [ "https://www.meetup.com/Notts-Techfast/events/270722934/" ]
     },
-    "rsvp" : [ "maybe" ]
+    "rsvp" : [ "yes" ]
   },
   "kind" : "rsvps",
   "slug" : "2020/05/pvjno",
