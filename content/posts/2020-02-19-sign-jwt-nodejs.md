@@ -14,7 +14,7 @@ slug: "sign-jwt-nodejs"
 ---
 When you're working with JSON Web Tokens (JWTs), you'll _almost certainly_ be validating that the contents of the token is sent by the correct service by verifying the token's signature.
 
-However, it's also helpful to be able to create these signed JWTs for yourself, which we can do using the [jsonwebtoken library][jsonwebtoken] (v8.5.1) Node.JS library (tested using v8.5.1):
+However, it's also helpful to be able to create these signed JWTs for yourself, which we can do using the [jsonwebtoken library](https://www.npmjs.com/package/jsonwebtoken) (v8.5.1) Node.JS library (tested using v8.5.1):
 
 ```js
 const fs = require('fs');
