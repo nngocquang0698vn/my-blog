@@ -5,6 +5,7 @@ tags:
 - blogumentation
 - java
 - keystore
+- certificates
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-20T23:57:00+0000
