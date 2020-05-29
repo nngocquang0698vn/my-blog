@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TatianaTMac/status/1266275808760360962" ],
     "name" : [ "Like of @TatianaTMac's tweet" ],
     "published" : [ "2020-05-29T13:12:00+01:00" ],
     "category" : [ "blogging" ],
