@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/perlamontan/status/1265801756967043073" ],
     "name" : [ "Like of @perlamontan's tweet" ],
     "published" : [ "2020-05-29T19:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/perlamontan/status/1265801756967043073" ]
