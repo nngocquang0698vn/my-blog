@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1266286935569391624" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2020-05-29T13:11:00+01:00" ],
     "category" : [ "blogging", "home-automation" ],
