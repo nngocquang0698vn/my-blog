@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1266310094054199296" ],
     "published" : [ "2020-05-29T10:02:44.9Z" ],
     "category" : [ "meetup-mf2" ],
     "content" : [ {
