@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HuffPostUK/status/1266378097835663360" ],
     "name" : [ "Like of @NadiaWhittomeMP's tweet" ],
     "published" : [ "2020-05-30T11:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/NadiaWhittomeMP/status/1266399249153081345" ]
