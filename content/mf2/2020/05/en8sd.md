@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NedWhat/status/1266515656037588992" ],
     "name" : [ "Like of @asvprnbiebs's tweet" ],
     "published" : [ "2020-05-30T11:24:00+01:00" ],
     "like-of" : [ "https://twitter.com/asvprnbiebs/status/1266607153722220544" ]
