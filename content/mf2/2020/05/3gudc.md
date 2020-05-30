@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rmayemsinger/status/1266194655269421056" ],
     "name" : [ "Like of @rmayemsinger's tweet" ],
     "published" : [ "2020-05-30T16:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/rmayemsinger/status/1266194655269421056" ]
