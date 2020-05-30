@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1266787239952027648" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2020-05-30T21:42:00+01:00" ],
     "category" : [ "food" ],
