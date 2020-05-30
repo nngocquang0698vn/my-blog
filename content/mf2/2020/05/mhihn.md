@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1266809632376393730" ],
     "published" : [ "2020-05-30T20:09:00+01:00" ],
     "category" : [ "harley-quinn" ],
     "content" : [ {
