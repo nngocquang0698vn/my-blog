@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElunedAnderson/status/1266715936884764673" ],
     "name" : [ "Like of @ElunedAnderson's tweet" ],
     "published" : [ "2020-05-30T17:12:00+01:00" ],
     "category" : [ "coronavirus" ],
