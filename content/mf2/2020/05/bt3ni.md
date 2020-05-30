@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kumailn/status/1266803832589189120" ],
     "name" : [ "Like of @kumailn's tweet" ],
     "published" : [ "2020-05-30T22:35:00+01:00" ],
     "like-of" : [ "https://twitter.com/kumailn/status/1266803832589189120" ]
