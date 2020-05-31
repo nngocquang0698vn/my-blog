@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SamanthaGeitz/status/1266896943277621249" ],
     "name" : [ "Like of @SamanthaGeitz's tweet" ],
     "published" : [ "2020-05-31T10:38:00+01:00" ],
     "like-of" : [ "https://twitter.com/SamanthaGeitz/status/1266896943277621249" ]
