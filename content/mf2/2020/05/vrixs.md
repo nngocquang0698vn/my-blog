@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/1kingmyles/status/1265832328598884352" ],
     "name" : [ "Like of @1kingmyles's tweet" ],
     "published" : [ "2020-05-31T12:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/1kingmyles/status/1265832328598884352" ]
