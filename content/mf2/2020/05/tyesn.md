@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1266880029008551938" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-05-31T11:27:00+01:00" ],
     "category" : [ "doctor-who" ],
