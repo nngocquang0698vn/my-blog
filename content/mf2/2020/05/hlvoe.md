@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matthewherod/status/1267034487130484737" ],
     "name" : [ "Like of @matthewherod's tweet" ],
     "published" : [ "2020-05-31T11:29:00+01:00" ],
     "category" : [ "acnh", "animal-crossing" ],
