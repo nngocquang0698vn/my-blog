@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robreiner/status/1267102274322497536" ],
     "name" : [ "Like of @robreiner's tweet" ],
     "published" : [ "2020-05-31T22:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/robreiner/status/1267102274322497536" ]
