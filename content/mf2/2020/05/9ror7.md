@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ajlyingg/status/1267016814850170880" ],
     "name" : [ "Like of @ajlyingg's tweet" ],
     "published" : [ "2020-05-31T10:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/ajlyingg/status/1267016814850170880" ]
