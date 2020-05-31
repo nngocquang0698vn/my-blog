@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/realDonaldTrump/status/1266760009872007171" ],
     "name" : [ "Like of @YourAnonCentral's tweet" ],
     "published" : [ "2020-05-31T10:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/YourAnonCentral/status/1266993717207904256" ]
