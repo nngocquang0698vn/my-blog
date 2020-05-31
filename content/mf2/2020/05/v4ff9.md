@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomakeupwityou/status/1266920499864576000" ],
     "name" : [ "Like of @tomakeupwityou's tweet" ],
     "published" : [ "2020-05-31T11:35:00+01:00" ],
     "like-of" : [ "https://twitter.com/tomakeupwityou/status/1266920499864576000" ]
