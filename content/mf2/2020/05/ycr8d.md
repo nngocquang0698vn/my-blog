@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DereKYblacc/status/1266697889205583873" ],
     "name" : [ "Like of @DereKYblacc's tweet" ],
     "published" : [ "2020-05-31T13:49:00+01:00" ],
     "like-of" : [ "https://twitter.com/DereKYblacc/status/1266697889205583873" ]
