@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevenPears/status/1266992518933217281" ],
     "name" : [ "Like of @StevenPears's tweet" ],
     "published" : [ "2020-05-31T10:41:00+01:00" ],
     "like-of" : [ "https://twitter.com/StevenPears/status/1266992518933217281" ]
