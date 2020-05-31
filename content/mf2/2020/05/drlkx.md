@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LiamSorta/status/1265300372274515968" ],
     "name" : [ "Like of @LiamSorta's tweet" ],
     "published" : [ "2020-05-31T22:43:00+01:00" ],
     "category" : [ "food" ],
