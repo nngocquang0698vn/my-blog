@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_chrisgarcia/status/1266815250956861440" ],
     "name" : [ "Like of @_chrisgarcia's tweet" ],
     "published" : [ "2020-05-31T12:35:00+01:00" ],
     "like-of" : [ "https://twitter.com/_chrisgarcia/status/1266815250956861440" ]
