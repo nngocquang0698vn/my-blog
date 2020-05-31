@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rwdrich/status/1267108423218483200" ],
     "name" : [ "Like of @rwdrich's tweet" ],
     "published" : [ "2020-05-31T21:53:00+01:00" ],
     "category" : [ "food" ],
