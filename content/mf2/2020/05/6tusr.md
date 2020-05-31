@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1267035701712957441" ],
     "photo" : [ {
       "alt" : "Black cat flopped over with his head in Jamie's hand, body curled round into his lap, with his little tongue quite prominently visible ",
       "photo" : "https://media.jvt.me/b397573907.jpeg"
