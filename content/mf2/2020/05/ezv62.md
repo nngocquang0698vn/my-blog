@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/REDPALADlNS/status/1267014941527158785" ],
     "name" : [ "Like of @REDPALADlNS's tweet" ],
     "published" : [ "2020-05-31T10:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/REDPALADlNS/status/1267014941527158785" ]
