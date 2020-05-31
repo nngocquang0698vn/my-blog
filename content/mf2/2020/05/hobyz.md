@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1267043709855707136" ],
     "published" : [ "2020-05-31T11:35:00+01:00" ],
     "repost-of" : [ "https://twitter.com/tomakeupwityou/status/1266920326182641670" ]
   },
