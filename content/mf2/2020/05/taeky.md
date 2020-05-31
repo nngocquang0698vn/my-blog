@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jvizzle757/status/1266771496480968704" ],
     "name" : [ "Like of @jvizzle757's tweet" ],
     "published" : [ "2020-05-31T11:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/jvizzle757/status/1266771496480968704" ]
