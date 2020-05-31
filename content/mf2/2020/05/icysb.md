@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/georgiecel/status/1267046539026821120" ],
     "name" : [ "Like of @_elletownsend's tweet" ],
     "published" : [ "2020-05-31T13:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/_elletownsend/status/1267047386104373248" ]
