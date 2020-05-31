@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JohanComedy/status/1266540659323723777" ],
     "name" : [ "Like of @JohanComedy's tweet" ],
     "published" : [ "2020-05-31T13:48:00+01:00" ],
     "like-of" : [ "https://twitter.com/JohanComedy/status/1266540659323723777" ]
