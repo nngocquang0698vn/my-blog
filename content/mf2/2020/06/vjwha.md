@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jangelooff/status/1267308341660979200" ],
     "name" : [ "Like of @jangelooff's tweet" ],
     "published" : [ "2020-06-01T21:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/jangelooff/status/1267308341660979200" ]
