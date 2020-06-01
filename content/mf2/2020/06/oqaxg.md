@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/denvercoder/status/1267467748256313346" ],
     "name" : [ "Like of @denvercoder's tweet" ],
     "published" : [ "2020-06-01T20:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/denvercoder/status/1267467748256313346" ]
