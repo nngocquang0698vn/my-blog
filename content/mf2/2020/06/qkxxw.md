@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/efinlay24/status/1267421062033268742" ],
     "name" : [ "Like of @efinlay24's tweet" ],
     "published" : [ "2020-06-01T12:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/efinlay24/status/1267421062033268742" ]
