@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/socialistdogmom/status/1267526501936881670" ],
     "name" : [ "Like of @socialistdogmom's tweet" ],
     "published" : [ "2020-06-01T21:16:00+01:00" ],
     "category" : [ "politics" ],
