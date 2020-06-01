@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/communistdoll/status/1266117773316546567" ],
     "name" : [ "Like of @communistdoll's tweet" ],
     "published" : [ "2020-06-01T18:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/communistdoll/status/1266117773316546567" ]
