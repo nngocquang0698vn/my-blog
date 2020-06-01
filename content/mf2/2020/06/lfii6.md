@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattgoldey/status/1267186766039134209" ],
     "name" : [ "Like of @mattgoldey's tweet" ],
     "published" : [ "2020-06-01T08:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/mattgoldey/status/1267186766039134209" ]
