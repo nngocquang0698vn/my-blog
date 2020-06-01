@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZackFoxFilm/status/1267150530477989889" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2020-06-01T12:15:00+01:00" ],
     "category" : [ "food" ],
