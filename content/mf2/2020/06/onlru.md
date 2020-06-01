@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nypost/status/1266696120845172738" ],
     "name" : [ "Like of @TobyonTV's tweet" ],
     "published" : [ "2020-06-01T07:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/TobyonTV/status/1266697149846355968" ]
