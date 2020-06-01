@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dinowebkinz/status/1267270809501880323" ],
     "name" : [ "Like of @dinowebkinz's tweet" ],
     "published" : [ "2020-06-01T18:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/dinowebkinz/status/1267270809501880323" ]
