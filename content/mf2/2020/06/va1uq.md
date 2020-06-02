@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tamagotchimilf/status/1267647423310151687" ],
     "name" : [ "Like of @tamagotchimilf's tweet" ],
     "published" : [ "2020-06-02T23:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/tamagotchimilf/status/1267647423310151687" ]
