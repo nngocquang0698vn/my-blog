@@ -18,4 +18,4 @@ In the spirit of [Blogumentation]({{< ref 2017-06-25-blogumentation >}}), I want
 
 As of writing, we are using v2 of the Open Banking Directory, which is [documented on Open Banking's Confluence space](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/1150124033/Directory+2.0+Technical+Overview+v1.3). We see that there is a JWK Structure section, which notes that the `kid` is `The SHA-1 hash of the JWK Fingerprint`.
 
-This JWK fingerprint is defined in [RFC7638: JSON Web Key (JWK) Thumbprint](https://tools.ietf.org/html/rfc7638), and as it is a well-defined standard, you should be able to find library support for it, [such as Nimbus for Java](https://connect2id.com/products/nimbus-jose-jwt/examples/jwk-thumbprints).
+This JWK fingerprint is defined in [RFC7638: JSON Web Key (JWK) Thumbprint](https://tools.ietf.org/html/rfc7638), and as it is a well-defined standard, you should be able to find library support for it, [such as Nimbus for Java](https://connect2id.com/products/nimbus-jose-jwt/examples/jwk-thumbprints), or [using node-jose on Node projects]({{< ref 2020-06-02-jwk-thumprint-node >}})
