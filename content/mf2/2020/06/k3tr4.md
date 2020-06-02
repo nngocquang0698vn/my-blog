@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoShiitSherlock/status/1267300205310902274" ],
     "name" : [ "Like of @ianbendaughter's tweet" ],
     "published" : [ "2020-06-03T00:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/ianbendaughter/status/1267324753762811905" ]
