@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1268133351434616833" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2020-06-03T12:48:00+01:00" ],
     "like-of" : [ "https://twitter.com/Loftio/status/1268133351434616833" ]
