@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NicoAGrant/status/1268020841054269440" ],
     "name" : [ "Like of @NicoAGrant's tweet" ],
     "published" : [ "2020-06-03T11:47:00+01:00" ],
     "category" : [ "zoom" ],
