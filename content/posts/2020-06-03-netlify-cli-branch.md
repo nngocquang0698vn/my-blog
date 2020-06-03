@@ -10,6 +10,11 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-03T19:40:19+0100
 slug: "netlify-cli-branch"
 image: /img/vendor/netlify-full-logo-white.png
+syndication:
+- text: Hacker News
+  url: https://news.ycombinator.com/item?id=23407344
+- text: Lobste.rs
+  url: https://lobste.rs/s/iuvnzx/deploying_branch_netlify_on_command_line
 ---
 I'm very excited to say that the Netlify CLI tool ([<i class="fa fa-github"></i>&nbsp;netlify/cli](https://github.com/netlify/cli)) [now](https://github.com/netlify/cli/pull/907) has the ability to deploy a branch on the command-line.
 
