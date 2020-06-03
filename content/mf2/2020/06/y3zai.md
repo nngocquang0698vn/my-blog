@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RealHouseMark/status/1267878145354543109" ],
     "name" : [ "Like of @RealHouseMark's tweet" ],
     "published" : [ "2020-06-03T22:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/RealHouseMark/status/1267878145354543109" ]
