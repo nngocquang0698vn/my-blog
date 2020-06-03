@@ -19,6 +19,8 @@ slug: gitlab-ci-netlify
 
 **Update 2** as of [2018-09-10](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta/#our-cli-journey), the `netlify` Node CLI is back to being the preferred commandline interface for Netlify.
 
+**Update 3** as of [2020-06-03]({{< ref 2020-06-03-netlify-cli-branch >}}) it is now possible to use the `netlify` Node CLI to perform branch-based deployments, which is a great fit for using with GitLab review apps - if you're able to predict the full URL Netlify uses, that is.
+
 Since I migrated my [meetups + conference talks repo][gl-talks] to Reveal.JS, I've found that I've been wanting to have a branch spun up with the talk's content at a publically accessible URL, exactly how [I have configured Review Apps][review-apps] for my personal site.
 
 However, as I was using GitLab pages, I wasn't able to get this functionality working (and it [likely will not be configured upstream][gl-pages-review]). Recently I've been hearing a lot about [Netlify], which made this a perfect opportunity to see what everyone was raving about.
