@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/baphometadata/status/1268192247176220679" ],
     "name" : [ "Like of @baphometadata's tweet" ],
     "published" : [ "2020-06-03T22:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/baphometadata/status/1268192247176220679" ]
