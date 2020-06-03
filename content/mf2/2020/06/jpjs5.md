@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mholt6/status/1268274682316218369" ],
     "name" : [ "Like of @mholt6's tweet" ],
     "published" : [ "2020-06-03T23:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/mholt6/status/1268274682316218369" ]
