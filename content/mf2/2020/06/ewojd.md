@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/BarclaysUKHelp/status/1268502581497692161" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1268533138990522368" ],
     "name" : [ "Reply to https://twitter.com/BarclaysUKHelp/status/1268502581497692161" ],
     "published" : [ "2020-06-04T14:15:00+01:00" ],
     "category" : [ ],
