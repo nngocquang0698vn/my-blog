@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jsmitttayy/status/1268205311111729152" ],
     "name" : [ "Like of @jsmitttayy's tweet" ],
     "published" : [ "2020-06-04T22:47:00+01:00" ],
     "like-of" : [ "https://twitter.com/jsmitttayy/status/1268205311111729152" ]
