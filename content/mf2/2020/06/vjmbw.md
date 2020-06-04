@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trevormeyer_/status/1268057631555350528" ],
     "name" : [ "Like of @trevormeyer_'s tweet" ],
     "published" : [ "2020-06-04T14:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/trevormeyer_/status/1268057631555350528" ]
