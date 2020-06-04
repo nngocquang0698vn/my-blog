@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dhh/status/1268637186221461504" ],
     "name" : [ "Like of @dhh's tweet" ],
     "published" : [ "2020-06-04T21:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/dhh/status/1268637186221461504" ]
