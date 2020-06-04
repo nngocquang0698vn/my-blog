@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1268583641006903298" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2020-06-04T21:52:00+01:00" ],
     "category" : [ "software-quality", "testing" ],
