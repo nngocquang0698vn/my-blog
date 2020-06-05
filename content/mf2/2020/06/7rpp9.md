@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sebs_tweets/status/1268523788838285314" ],
     "name" : [ "Like of @sebs_tweets's tweet" ],
     "published" : [ "2020-06-06T00:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/sebs_tweets/status/1268523788838285314" ]
