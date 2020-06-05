@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qqmeow666/status/1268693370467045376" ],
     "name" : [ "Like of @qqmeow666's tweet" ],
     "published" : [ "2020-06-05T18:21:00+01:00" ],
     "category" : [ "linux" ],
