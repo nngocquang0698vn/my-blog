@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/influencersitw/status/1268916126190272514" ],
     "name" : [ "Like of @influencersitw's tweet" ],
     "published" : [ "2020-06-05T21:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/influencersitw/status/1268916126190272514" ]
