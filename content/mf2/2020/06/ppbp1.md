@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/4sweettjrose/status/1268753036723343366" ],
     "name" : [ "Like of @4sweettjrose's tweet" ],
     "published" : [ "2020-06-06T00:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/4sweettjrose/status/1268753036723343366" ]
