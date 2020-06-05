@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PaintYourDragon/status/1268680517672558592" ],
     "name" : [ "Like of @PaintYourDragon's tweet" ],
     "published" : [ "2020-06-05T18:21:00+01:00" ],
     "category" : [ "linux" ],
