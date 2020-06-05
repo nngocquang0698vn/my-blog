@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocontexttgp/status/1268952781739757568" ],
     "name" : [ "Like of @nocontexttgp's tweet" ],
     "published" : [ "2020-06-05T18:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/nocontexttgp/status/1268952781739757568" ]
