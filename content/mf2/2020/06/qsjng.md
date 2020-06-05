@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1268994473561927680" ],
     "photo" : [ {
       "alt" : "Black cat lying on his side, his head on Jamie's hand, with his little toofies showing",
       "photo" : "https://media.jvt.me/b868a255cb.jpeg"
