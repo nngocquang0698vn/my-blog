@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocontextpawnee/status/1269032046212419586" ],
     "name" : [ "Like of @nocontextpawnee's tweet" ],
     "published" : [ "2020-06-06T00:20:00+01:00" ],
     "like-of" : [ "https://twitter.com/nocontextpawnee/status/1269032046212419586" ]
