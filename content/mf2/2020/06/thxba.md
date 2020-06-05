@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/troyhunt/status/1268813487620284416" ],
     "name" : [ "Like of @troyhunt's tweet" ],
     "published" : [ "2020-06-05T12:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/troyhunt/status/1268813487620284416" ]
