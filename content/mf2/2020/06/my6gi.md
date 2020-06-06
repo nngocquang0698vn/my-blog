@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1269230325751840770" ],
     "published" : [ "2020-06-06T11:26:55.104Z" ],
     "category" : [ "herman-miller", "tech-nottingham" ],
     "content" : [ {
