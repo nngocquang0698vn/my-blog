@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/06/7zrhx/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1269345443449901057" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/06/7zrhx/" ],
     "photo" : [ {
       "alt" : "Black cat sitting up, in snuggle valley, facing the camera, looking content and sleepy",
