@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BonerWizard/status/1269077544831082497" ],
     "name" : [ "Like of @BonerWizard's tweet" ],
     "published" : [ "2020-06-06T15:55:00+01:00" ],
     "category" : [ "food" ],
