@@ -156,6 +156,12 @@ notAlternative = true
     title = "Search"
     url = "/search/"
     weight = 50
+  [[menu.main]]
+    identifier = "support-me"
+    name = "Support Me"
+    title = "Support Me"
+    url = "/support-me/"
+    weight = 90
 
   [[menu.footer]]
     identifier = "all"
