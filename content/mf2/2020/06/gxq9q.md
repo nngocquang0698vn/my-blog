@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shell_ki/status/1269190126111948801" ],
     "name" : [ "Like of @shell_ki's tweet" ],
     "published" : [ "2020-06-07T00:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/shell_ki/status/1269190126111948801" ]
