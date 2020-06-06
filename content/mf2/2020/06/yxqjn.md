@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MaraWilson/status/1269165305726513153" ],
     "name" : [ "Like of @MaraWilson's tweet" ],
     "published" : [ "2020-06-06T16:34:00+01:00" ],
     "like-of" : [ "https://twitter.com/MaraWilson/status/1269165305726513153" ]
