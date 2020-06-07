@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/netlify/cli/issues/275#issuecomment-639868623" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/netlify/cli/issues/275#issuecomment-639868623" ],
     "name" : [ "Reply to https://github.com/netlify/cli/issues/275#issuecomment-639868623" ],
     "published" : [ "2020-06-07T20:54:26.958Z" ],
     "category" : [ ],
