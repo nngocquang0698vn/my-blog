@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coolp1np/status/1269484199154606084" ],
     "name" : [ "Like of @coolp1np's tweet" ],
     "published" : [ "2020-06-07T14:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/coolp1np/status/1269484199154606084" ]
