@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tregenza/status/1269545889347010561" ],
     "name" : [ "Like of @tregenza's tweet" ],
     "published" : [ "2020-06-07T14:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/tregenza/status/1269545889347010561" ]
