@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1269692883029893123" ],
     "photo" : [ {
       "alt" : "Black cat sitting in a box, looking at the camera",
       "photo" : "https://media.jvt.me/d712316ee2.jpeg"
