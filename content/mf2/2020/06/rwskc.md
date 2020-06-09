@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kelechnekoff/status/1270107079106314242" ],
     "name" : [ "Like of @kelechnekoff's tweet" ],
     "published" : [ "2020-06-09T11:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/kelechnekoff/status/1270107079106314242" ]
