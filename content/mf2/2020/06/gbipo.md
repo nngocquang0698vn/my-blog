@@ -1,6 +1,6 @@
 {
   "date" : "2020-06-09T21:57:00+01:00",
-  "deleted" : false,
+  "deleted" : true,
   "h" : "h-entry",
   "properties" : {
     "name" : [ "Bookmark of https://twitter.com/MrsEmma/status/1270393959488147456?s=09" ],
