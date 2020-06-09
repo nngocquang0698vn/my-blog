@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/damn_elle/status/1269873428804190208" ],
     "name" : [ "Like of @damn_elle's tweet" ],
     "published" : [ "2020-06-09T21:11:10.956Z" ],
     "category" : [ "cute" ],
