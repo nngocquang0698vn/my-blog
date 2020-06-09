@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kickeep/status/1270063682949537792" ],
     "name" : [ "Like of @kickeep's tweet" ],
     "published" : [ "2020-06-09T11:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/kickeep/status/1270063682949537792" ]
