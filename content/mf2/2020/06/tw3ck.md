@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1270247484141514752" ],
     "photo" : [ {
       "alt" : "Black cat curled off Anna's lap, a little upside down",
       "photo" : "https://media.jvt.me/b3b8043a1b.jpeg"
