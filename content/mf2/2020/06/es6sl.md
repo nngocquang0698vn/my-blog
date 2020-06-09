@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimMFelton/status/1270011232439934980" ],
     "name" : [ "Like of @JimMFelton's tweet" ],
     "published" : [ "2020-06-08T23:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/JimMFelton/status/1270011232439934980" ]
