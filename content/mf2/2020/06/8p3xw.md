@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1270783126785200129" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website Club Nottingham on Zoom - Jamie, Carol, Will, Bal, Anna",
       "photo" : "https://media.jvt.me/3d2771b59b.png"
