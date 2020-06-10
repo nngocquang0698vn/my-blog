@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rockbot/status/1270400995567169536" ],
     "name" : [ "Like of @rockbot's tweet" ],
     "published" : [ "2020-06-10T07:49:00+01:00" ],
     "like-of" : [ "https://twitter.com/rockbot/status/1270400995567169536" ]
