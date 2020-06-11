@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rossabaker/status/1270849973970755587" ],
     "name" : [ "Like of @rossabaker's tweet" ],
     "published" : [ "2020-06-11T08:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/rossabaker/status/1270849973970755587" ]
