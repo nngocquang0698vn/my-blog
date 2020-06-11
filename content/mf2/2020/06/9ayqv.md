@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kapehe_ok/status/1270764229671317504" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-06-11T21:44:00+01:00" ],
     "category" : [ "npm" ],
