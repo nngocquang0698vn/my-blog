@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1271499455372627970" ],
     "published" : [ "2020-06-12T18:40:00+01:00" ],
     "category" : [ "disney-plus" ],
     "content" : [ {
