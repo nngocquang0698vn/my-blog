@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TwitchSensei/status/1271834980134596613" ],
     "name" : [ "Like of @TwitchSensei's tweet" ],
     "published" : [ "2020-06-13T22:59:00+01:00" ],
     "category" : [ "battlestations" ],
