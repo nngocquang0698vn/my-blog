@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1271885634731458560" ],
     "photo" : [ {
       "alt" : "Black cat with three out of four paws visible, with one of his back paws curled round in a somehow comfortable position",
       "photo" : "https://media.jvt.me/27f65d325b.jpeg"
