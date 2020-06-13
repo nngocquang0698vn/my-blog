@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BubbleSec/status/1271755645805568000" ],
     "name" : [ "Like of @BubbleSec's tweet" ],
     "published" : [ "2020-06-13T13:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/BubbleSec/status/1271755645805568000" ]
