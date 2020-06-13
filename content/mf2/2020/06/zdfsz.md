@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ctrlshifti/status/1271753199607640064" ],
     "name" : [ "Like of @ctrlshifti's tweet" ],
     "published" : [ "2020-06-13T13:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/ctrlshifti/status/1271753199607640064" ]
