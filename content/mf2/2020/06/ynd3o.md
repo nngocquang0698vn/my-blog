@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/StevenPears/status/1271826211401015299" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1271846333121548295" ],
     "name" : [ "Reply to https://twitter.com/StevenPears/status/1271826211401015299" ],
     "published" : [ "2020-06-13T17:39:00+01:00" ],
     "category" : [ "artemis-fowl" ],
