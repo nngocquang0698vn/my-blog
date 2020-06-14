@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/iamhirusi/status/1272044061344452608" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1272090776781160448" ],
     "name" : [ "Reply to https://twitter.com/iamhirusi/status/1272044061344452608" ],
     "published" : [ "2020-06-14T09:53:00+01:00" ],
     "category" : [ "indieweb" ],
