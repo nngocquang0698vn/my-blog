@@ -18,19 +18,7 @@ But these may be used in other circumstances, so it's worth knowing how to gener
 require 'json/jwt'
 
 def read_key(fname)
-  f = File.read fname
-
-  begin
-    return OpenSSL::PKey::RSA.new(f)
-  rescue Exception
-    # ignore
-  end
-
-  begin
-    return OpenSSL::PKey::EC.new(f)
-  rescue Exception
-    # ignore
-  end
+  OpenSSL::PKey.read(File.read fname)
 end
 
 hash = ARGV[1] || 'sha256'
