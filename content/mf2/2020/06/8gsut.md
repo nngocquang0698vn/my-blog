@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/_CalvinAllen/status/1272595525276258304" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1272620823866740738" ],
     "name" : [ "Reply to https://twitter.com/_CalvinAllen/status/1272595525276258304" ],
     "published" : [ "2020-06-15T19:27:00+01:00" ],
     "category" : [ ],
