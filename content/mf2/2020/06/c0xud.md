@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sias_Creations/status/1272842532691599363" ],
     "name" : [ "Like of @Sias_Creations's tweet" ],
     "published" : [ "2020-06-16T12:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/Sias_Creations/status/1272842532691599363" ]
