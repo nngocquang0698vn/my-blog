@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DuskPlainz/status/1272826546173153284" ],
     "name" : [ "Like of @DuskPlainz's tweet" ],
     "published" : [ "2020-06-16T12:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/DuskPlainz/status/1272826546173153284" ]
