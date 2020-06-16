@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/tummychow/git-absorb/stargazers" ],
     "name" : [ "Like of https://github.com/tummychow/git-absorb" ],
     "published" : [ "2020-06-16T10:52:53.026Z" ],
     "category" : [ "git" ],
