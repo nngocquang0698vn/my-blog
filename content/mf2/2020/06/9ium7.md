@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PenelopeHindle/status/1272858130163081216" ],
     "name" : [ "Like of @PenelopeHindle's tweet" ],
     "published" : [ "2020-06-16T17:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/PenelopeHindle/status/1272858130163081216" ]
