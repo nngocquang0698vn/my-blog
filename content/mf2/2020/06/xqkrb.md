@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/redtwitdown/status/1272701055483080704" ],
     "name" : [ "Like of @redtwitdown's tweet" ],
     "published" : [ "2020-06-16T08:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/redtwitdown/status/1272701055483080704" ]
