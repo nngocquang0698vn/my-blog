@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WilliamShatner/status/1272705262806355968" ],
     "name" : [ "Like of @WilliamShatner's tweet" ],
     "published" : [ "2020-06-16T14:12:00+01:00" ],
     "category" : [ "star-trek" ],
