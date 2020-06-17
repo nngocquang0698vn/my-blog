@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1273092804458287104" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-06-17T11:22:00+01:00" ],
     "category" : [ "satire" ],
