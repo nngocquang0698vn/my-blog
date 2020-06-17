@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZeroistheBest42/status/1273014986592473094" ],
     "name" : [ "Like of @ZeroistheBest42's tweet" ],
     "published" : [ "2020-06-17T11:21:00+01:00" ],
     "category" : [ "mechanical-keyboard" ],
