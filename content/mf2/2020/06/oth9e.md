@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Steph_I_Will/status/1273471511391805440" ],
     "name" : [ "Like of @Steph_I_Will's tweet" ],
     "published" : [ "2020-06-18T17:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/Steph_I_Will/status/1273471511391805440" ]
