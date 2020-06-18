@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BLUERASB3RRY/status/1272402189336674304" ],
     "name" : [ "Like of @BLUERASB3RRY's tweet" ],
     "published" : [ "2020-06-18T15:35:00+01:00" ],
     "category" : [ "cute" ],
