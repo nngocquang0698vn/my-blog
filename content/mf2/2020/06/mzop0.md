@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hankchizljaw/status/1273724592121659395" ],
     "name" : [ "Like of @hankchizljaw's tweet" ],
     "published" : [ "2020-06-18T23:00:00+01:00" ],
     "category" : [ "politics", "brexshit" ],
