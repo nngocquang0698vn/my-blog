@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thedoh/status/1273581880043024384" ],
     "name" : [ "Like of @thedoh's tweet" ],
     "published" : [ "2020-06-18T16:29:00+01:00" ],
     "like-of" : [ "https://twitter.com/thedoh/status/1273581880043024384" ]
