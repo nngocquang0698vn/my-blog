@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Austen/status/1273471432450662400" ],
     "name" : [ "Like of @Austen's tweet" ],
     "published" : [ "2020-06-18T23:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/Austen/status/1273471432450662400" ]
