@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zachwaugh/status/1273632756925378565" ],
     "name" : [ "Like of @zachwaugh's tweet" ],
     "published" : [ "2020-06-18T19:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/zachwaugh/status/1273632756925378565" ]
