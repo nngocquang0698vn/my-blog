@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WordsJC/status/1273747132550393857" ],
     "name" : [ "Like of @WordsJC's tweet" ],
     "published" : [ "2020-06-19T08:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/WordsJC/status/1273747132550393857" ]
