@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kylebrussell/status/1273741550867136515" ],
     "name" : [ "Like of @kylebrussell's tweet" ],
     "published" : [ "2020-06-19T16:52:00+01:00" ],
     "like-of" : [ "https://twitter.com/kylebrussell/status/1273741550867136515" ]
