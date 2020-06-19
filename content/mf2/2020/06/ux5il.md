@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marcoarment/status/1273792094050684928" ],
     "name" : [ "Like of @marcoarment's tweet" ],
     "published" : [ "2020-06-19T08:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/marcoarment/status/1273792094050684928" ]
