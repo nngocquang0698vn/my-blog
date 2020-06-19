@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AfricanPrize/status/1273730243665301504" ],
     "name" : [ "Like of @AfricanPrize's tweet" ],
     "published" : [ "2020-06-19T08:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/AfricanPrize/status/1273730243665301504" ]
