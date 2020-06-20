@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrLawson/status/1273758333082705921" ],
     "name" : [ "Like of @MrLawson's tweet" ],
     "published" : [ "2020-06-20T23:26:40.709Z" ],
     "like-of" : [ "https://twitter.com/MrLawson/status/1273758333082705921" ]
