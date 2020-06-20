@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SamuelBrownRBT/status/1272411258227240960" ],
     "name" : [ "Like of @badassfrench_'s tweet" ],
     "published" : [ "2020-06-20T23:28:02.269Z" ],
     "like-of" : [ "https://twitter.com/badassfrench_/status/1274389834187104257" ]
