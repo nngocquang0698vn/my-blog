@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexwire/status/1274349936319115265" ],
     "name" : [ "Like of @alexwire's tweet" ],
     "published" : [ "2020-06-20T19:59:00+01:00" ],
     "like-of" : [ "https://twitter.com/alexwire/status/1274349936319115265" ]
