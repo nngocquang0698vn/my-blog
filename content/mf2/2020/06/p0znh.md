@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rachelnabors/status/1274281064207396865" ],
     "name" : [ "Like of @rachelnabors's tweet" ],
     "published" : [ "2020-06-20T12:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/rachelnabors/status/1274281064207396865" ]
