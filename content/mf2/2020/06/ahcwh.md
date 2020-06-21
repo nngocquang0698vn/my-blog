@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_fenn/status/1274734261849989125" ],
     "name" : [ "Like of @katie_fenn's tweet" ],
     "published" : [ "2020-06-21T18:35:00+01:00" ],
     "category" : [ "food" ],
