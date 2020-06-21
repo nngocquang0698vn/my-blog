@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/svershbow/status/1274352466017103873" ],
     "name" : [ "Like of @svershbow's tweet" ],
     "published" : [ "2020-06-21T10:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/svershbow/status/1274352466017103873" ]
