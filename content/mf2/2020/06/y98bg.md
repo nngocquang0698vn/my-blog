@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SBinLondon/status/1274692881115160577" ],
     "name" : [ "Like of @SBinLondon's tweet" ],
     "published" : [ "2020-06-21T17:03:00+01:00" ],
     "category" : [ "mechanical-keyboard" ],
