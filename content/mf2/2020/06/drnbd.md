@@ -6,7 +6,7 @@
     "syndication" : [ "https://twitter.com/moriahmaney/status/1275124476821323776" ],
     "name" : [ "Like of @moriahmaney's tweet" ],
     "published" : [ "2020-06-22T21:17:00+01:00" ],
-    "category" : [ "div" ],
+    "category" : [ "Diversity-and-inclusion" ],
     "like-of" : [ "https://twitter.com/moriahmaney/status/1275124476821323776" ]
   },
   "kind" : "likes",
@@ -35,6 +35,6 @@
       } ]
     }
   },
-  "tags" : [ "div" ],
+  "tags" : [ "Diversity-and-inclusion" ],
   "client_id" : "https://indigenous.realize.be"
 }
