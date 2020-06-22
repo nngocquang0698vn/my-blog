@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dotnetnotts/status/1275073661284671491" ],
     "name" : [ "Like of @dotnetnotts's tweet" ],
     "published" : [ "2020-06-22T18:23:00+01:00" ],
     "category" : [ "dotnetnotts" ],
