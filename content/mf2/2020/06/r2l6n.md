@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1275101289580503040" ],
     "photo" : [ {
       "alt" : "Black cat lying on the decking, stretched out on his side, looking quite hot",
       "photo" : "https://media.jvt.me/33cad38eaa.jpeg"
