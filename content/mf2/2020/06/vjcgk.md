@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TashJNorris/status/1275171729862733830" ],
     "name" : [ "Like of @TashJNorris's tweet" ],
     "published" : [ "2020-06-22T22:16:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
