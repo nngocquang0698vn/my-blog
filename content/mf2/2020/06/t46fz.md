@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anildash/status/1275275438563172352" ],
     "name" : [ "Like of @anildash's tweet" ],
     "published" : [ "2020-06-23T17:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/anildash/status/1275275438563172352" ]
