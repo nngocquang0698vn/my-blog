@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/t/status/743158907892174848" ],
     "name" : [ "Like of @calum_ryan's tweet" ],
     "published" : [ "2020-06-23T10:37:00+01:00" ],
     "category" : [ "homebrew-website-club" ],
