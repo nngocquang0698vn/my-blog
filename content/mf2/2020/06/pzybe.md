@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RishiSunak/status/1275424549476208640" ],
     "name" : [ "Like of @StevePeers's tweet" ],
     "published" : [ "2020-06-23T17:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/StevePeers/status/1275432220338065408" ]
