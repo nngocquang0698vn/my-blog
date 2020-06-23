@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/roalsovi/status/1275410043412905984" ],
     "name" : [ "Like of @roalsovi's tweet" ],
     "published" : [ "2020-06-23T14:46:00+01:00" ],
     "like-of" : [ "https://twitter.com/roalsovi/status/1275410043412905984" ]
