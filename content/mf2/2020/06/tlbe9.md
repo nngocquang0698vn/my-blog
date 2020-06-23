@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1275491188892631045" ],
     "published" : [ "2020-06-23T19:04:00+01:00" ],
     "repost-of" : [ "https://twitter.com/NetflixUK/status/1275323166018211840" ],
     "category" : [ "chicken-run" ],
