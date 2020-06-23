@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1275418317289857024" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-06-23T16:58:00+01:00" ],
     "category" : [ "grief" ],
