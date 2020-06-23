@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CaseyNewton/status/1275177758188949504" ],
     "name" : [ "Like of @CaseyNewton's tweet" ],
     "published" : [ "2020-06-23T17:06:00+01:00" ],
     "category" : [ "apple", "ethics" ],
