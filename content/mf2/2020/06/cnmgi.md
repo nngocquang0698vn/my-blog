@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/anildash/status/1275275438563172352" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1275462147296952320" ],
     "name" : [ "Reply to https://twitter.com/anildash/status/1275275438563172352" ],
     "published" : [ "2020-06-23T17:07:00+01:00" ],
     "category" : [ ],
