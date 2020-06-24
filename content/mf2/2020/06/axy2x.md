@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tnash/status/1275708688729346049" ],
     "name" : [ "Like of @tnash's tweet" ],
     "published" : [ "2020-06-24T10:37:00+01:00" ],
     "category" : [ "rss" ],
