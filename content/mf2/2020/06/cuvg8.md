@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://news.indieweb.org/en", "https://indieweb.xyz/en/indieweb", "https://indieweb.xyz/en/microformats" ],
+    "syndication" : [ "https://news.indieweb.org/en/kevq.uk/how-to-create-an-indieweb-profile/", "https://indieweb.xyz/en/indieweb", "https://indieweb.xyz/en/microformats" ],
     "name" : [ "How To Create An IndieWeb Profile" ],
     "published" : [ "2020-06-23T21:06:00+01:00" ],
     "category" : [ "indieweb", "microformats" ],
