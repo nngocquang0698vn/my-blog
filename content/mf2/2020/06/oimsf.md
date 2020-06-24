@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pczarkowski/status/1272243213873618944" ],
     "name" : [ "Like of @pczarkowski's tweet" ],
     "published" : [ "2020-06-15T08:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/pczarkowski/status/1272243213873618944" ]
