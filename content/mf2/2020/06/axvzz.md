@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meetissai/status/1275704691888963586" ],
     "name" : [ "Like of @meetissai's tweet" ],
     "published" : [ "2020-06-24T21:28:00+01:00" ],
     "category" : [ "cute" ],
