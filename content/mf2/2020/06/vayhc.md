@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1274075431163949056" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2020-06-19T22:26:00+01:00" ],
     "category" : [ "coronavirus" ],
