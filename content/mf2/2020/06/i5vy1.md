@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mxbck/status/1273361236818829313" ],
     "name" : [ "Like of @mxbck's tweet" ],
     "published" : [ "2020-06-17T22:23:00+01:00" ],
     "category" : [ "twitter" ],
