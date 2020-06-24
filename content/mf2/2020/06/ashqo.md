@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SoSplush/status/1274080527104999424" ],
     "name" : [ "Like of @SoSplush's tweet" ],
     "published" : [ "2020-06-19T22:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/SoSplush/status/1274080527104999424" ]
