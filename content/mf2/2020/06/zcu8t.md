@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NottsTechfast/status/1275334282630909953" ],
     "name" : [ "Like of @JessPWhite's tweet" ],
     "published" : [ "2020-06-24T19:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/JessPWhite/status/1275849680635691008" ]
