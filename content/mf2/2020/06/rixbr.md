@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elmofthehill/status/1272718108617302016" ],
     "name" : [ "Like of @miss_jwo's tweet" ],
     "published" : [ "2020-06-17T22:22:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
