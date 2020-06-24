@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DavidAns/status/1273818522108321793" ],
     "name" : [ "Like of @DavidAns's tweet" ],
     "published" : [ "2020-06-19T18:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/DavidAns/status/1273818522108321793" ]
