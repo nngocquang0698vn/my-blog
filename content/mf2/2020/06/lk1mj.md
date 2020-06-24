@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andypuddicombe/status/1273305587934085120" ],
     "name" : [ "Like of @andypuddicombe's tweet" ],
     "published" : [ "2020-06-17T21:23:00+01:00" ],
     "category" : [ "headspace" ],
