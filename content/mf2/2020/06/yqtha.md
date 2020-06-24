@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/darylcecile/status/1274775360710811648" ],
     "name" : [ "Like of @darylcecile's tweet" ],
     "published" : [ "2020-06-21T22:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/darylcecile/status/1274775360710811648" ]
