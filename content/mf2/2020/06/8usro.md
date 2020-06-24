@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/roobeekeane/status/1274732198143365121" ],
     "name" : [ "Like of @roobeekeane's tweet" ],
     "published" : [ "2020-06-22T09:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/roobeekeane/status/1274732198143365121" ]
