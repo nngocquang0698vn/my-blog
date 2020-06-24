@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mattiasgeniar/status/1275763785156964359" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1275801888861151232" ],
     "name" : [ "Reply to https://twitter.com/mattiasgeniar/status/1275763785156964359" ],
     "published" : [ "2020-06-24T15:23:00+01:00" ],
     "category" : [ ],
