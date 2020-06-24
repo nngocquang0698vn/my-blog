@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erinwhite_MD/status/1273781835609378817" ],
     "name" : [ "Like of @erinwhite_MD's tweet" ],
     "published" : [ "2020-06-20T11:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/erinwhite_MD/status/1273781835609378817" ]
