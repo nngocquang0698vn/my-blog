@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/jackyalcine/status/1275664510989320192" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1275684986017009664" ],
     "name" : [ "Reply to https://twitter.com/jackyalcine/status/1275664510989320192" ],
     "published" : [ "2020-06-24T07:53:00+01:00" ],
     "category" : [ "tiktok" ],
