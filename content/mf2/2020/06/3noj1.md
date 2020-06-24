@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NathOnSecurity/status/1271276609199321088" ],
     "name" : [ "Like of @NathOnSecurity's tweet" ],
     "published" : [ "2020-06-12T07:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/NathOnSecurity/status/1271276609199321088" ]
