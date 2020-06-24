@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dlitchfield/status/1275590205345423360" ],
     "name" : [ "Like of @dlitchfield's tweet" ],
     "published" : [ "2020-06-24T08:30:00+01:00" ],
     "category" : [ "nature" ],
