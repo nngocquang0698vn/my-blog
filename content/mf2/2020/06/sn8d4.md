@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/addyosmani/status/1275700187491639298" ],
     "name" : [ "Like of @addyosmani's tweet" ],
     "published" : [ "2020-06-24T10:35:00+01:00" ],
     "category" : [ "css" ],
