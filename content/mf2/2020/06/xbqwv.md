@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jakejarvis/jarv.is/stargazers" ],
     "name" : [ "Like of https://github.com/jakejarvis/jarv.is" ],
     "published" : [ "2020-06-15T07:56:51.871Z" ],
     "like-of" : [ "https://github.com/jakejarvis/jarv.is" ]
