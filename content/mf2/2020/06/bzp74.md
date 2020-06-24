@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrTimDunn/status/1273526354710052864" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2020-06-18T10:09:00+01:00" ],
     "like-of" : [ "https://twitter.com/freezydorito/status/1273531078062505986" ]
