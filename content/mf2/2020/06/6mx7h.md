@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dog_rates/status/1275493485085245440" ],
     "name" : [ "Like of @dog_rates's tweet" ],
     "published" : [ "2020-06-24T08:31:00+01:00" ],
     "category" : [ "cute" ],
