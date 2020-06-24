@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/comicguyjames/status/1271204406386663424" ],
     "name" : [ "Like of @comicguyjames's tweet" ],
     "published" : [ "2020-06-12T08:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/comicguyjames/status/1271204406386663424" ]
