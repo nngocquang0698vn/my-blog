@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codebytere/status/1275833076589838336" ],
     "name" : [ "Like of @ChloeCondon's tweet" ],
     "published" : [ "2020-06-24T23:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/ChloeCondon/status/1275901484744404992" ]
