@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/evefingdonnelly/status/1273281911490662401" ],
     "name" : [ "Like of @evefingdonnelly's tweet" ],
     "published" : [ "2020-06-18T08:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/evefingdonnelly/status/1273281911490662401" ]
