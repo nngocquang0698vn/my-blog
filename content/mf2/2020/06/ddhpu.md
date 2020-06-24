@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karaluton/status/1275496325618917376" ],
     "name" : [ "Like of @karaluton's tweet" ],
     "published" : [ "2020-06-24T07:55:00+01:00" ],
     "like-of" : [ "https://twitter.com/karaluton/status/1275496325618917376" ]
