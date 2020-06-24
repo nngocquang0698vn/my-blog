@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/osazuwa/status/1274444300894572546" ],
     "name" : [ "Like of @osazuwa's tweet" ],
     "published" : [ "2020-06-21T22:12:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
