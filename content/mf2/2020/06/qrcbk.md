@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MitchNarito/status/1273883781976322048" ],
     "name" : [ "Like of @MitchNarito's tweet" ],
     "published" : [ "2020-06-19T19:25:00+01:00" ],
     "category" : [ "the-good-place" ],
