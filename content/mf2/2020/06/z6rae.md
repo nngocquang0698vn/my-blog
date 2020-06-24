@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SoozUK/status/1272221341857591297" ],
     "name" : [ "Like of @SoozUK's tweet" ],
     "published" : [ "2020-06-15T08:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/SoozUK/status/1272221341857591297" ]
