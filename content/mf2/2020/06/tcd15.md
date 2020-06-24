@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/damonbwfc/status/1275448588114378752" ],
     "name" : [ "Like of @damonbwfc's tweet" ],
     "published" : [ "2020-06-24T08:29:00+01:00" ],
     "category" : [ "coronavirus" ],
