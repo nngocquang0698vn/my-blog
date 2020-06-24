@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justindross/status/1271110694977409025" ],
     "name" : [ "Like of @justindross's tweet" ],
     "published" : [ "2020-06-12T11:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/justindross/status/1271110694977409025" ]
