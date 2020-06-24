@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sil/status/1275700575540305920" ],
     "name" : [ "Like of @sil's tweet" ],
     "published" : [ "2020-06-24T10:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/sil/status/1275700575540305920" ]
