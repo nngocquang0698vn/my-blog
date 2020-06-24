@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Pappiness/status/1273238907656667136" ],
     "name" : [ "Like of @Pappiness's tweet" ],
     "published" : [ "2020-06-18T14:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/Pappiness/status/1273238907656667136" ]
