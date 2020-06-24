@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrMichaelSpicer/status/1274241202230046720" ],
     "name" : [ "Like of @MrMichaelSpicer's tweet" ],
     "published" : [ "2020-06-20T11:26:00+01:00" ],
     "category" : [ "politics" ],
