@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaywillis/status/1272247571784720389" ],
     "name" : [ "Like of @jaywillis's tweet" ],
     "published" : [ "2020-06-15T07:50:00+01:00" ],
     "category" : [ "cute" ],
