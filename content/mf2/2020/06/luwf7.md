@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NedHartley/status/1275450377983291398" ],
     "name" : [ "Like of @NedHartley's tweet" ],
     "published" : [ "2020-06-24T11:15:00+01:00" ],
     "category" : [ "coronavirus" ],
