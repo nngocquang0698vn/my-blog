@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PFNotts/status/1275722836024291328" ],
     "name" : [ "Like of @PFNotts's tweet" ],
     "published" : [ "2020-06-24T10:34:00+01:00" ],
     "like-of" : [ "https://twitter.com/PFNotts/status/1275722836024291328" ]
