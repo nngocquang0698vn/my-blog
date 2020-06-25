@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jckarter/status/1276190641433632768" ],
     "name" : [ "Like of @jckarter's tweet" ],
     "published" : [ "2020-06-25T17:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/jckarter/status/1276190641433632768" ]
