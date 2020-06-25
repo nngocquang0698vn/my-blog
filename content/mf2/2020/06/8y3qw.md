@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/t/status/1275968893060710400" ],
     "name" : [ "Like of @t's tweet" ],
     "published" : [ "2020-06-25T07:47:00+01:00" ],
     "category" : [ "indiewebcamp" ],
