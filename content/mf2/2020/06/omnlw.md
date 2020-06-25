@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pcgamer/status/1275584431269478402" ],
     "name" : [ "Like of @rico_rants's tweet" ],
     "published" : [ "2020-06-25T14:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/rico_rants/status/1275809875436736512" ]
