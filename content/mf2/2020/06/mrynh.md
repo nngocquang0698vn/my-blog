@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/idlewildgirl/status/1276242005207789570" ],
     "name" : [ "Like of @idlewildgirl's tweet" ],
     "published" : [ "2020-06-27T00:10:00+01:00" ],
     "category" : [ "cute" ],
