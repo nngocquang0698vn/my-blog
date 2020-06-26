@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HanaMichels/status/1276191856443834368" ],
     "name" : [ "Like of @HanaMichels's tweet" ],
     "published" : [ "2020-06-26T14:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/HanaMichels/status/1276191856443834368" ]
