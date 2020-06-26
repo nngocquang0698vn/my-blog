@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ianmiell/status/1276472757837062145" ],
     "name" : [ "Like of @ianmiell's tweet" ],
     "published" : [ "2020-06-26T12:23:00+01:00" ],
     "category" : [ "vim" ],
