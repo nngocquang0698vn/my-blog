@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gecorious_/status/1275993192719175680" ],
     "name" : [ "Like of @Gecorious_'s tweet" ],
     "published" : [ "2020-06-26T19:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/Gecorious_/status/1275993192719175680" ]
