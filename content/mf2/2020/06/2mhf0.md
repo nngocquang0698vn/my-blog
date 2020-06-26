@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kendalmintcode/status/1276486696775925760" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1276507866959052800" ],
     "name" : [ "Reply to https://twitter.com/kendalmintcode/status/1276486696775925760" ],
     "published" : [ "2020-06-26T14:23:00+01:00" ],
     "category" : [ ],
