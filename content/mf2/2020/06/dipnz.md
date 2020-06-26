@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thecassiecao/status/1276506378388017155" ],
     "name" : [ "Like of @thecassiecao's tweet" ],
     "published" : [ "2020-06-26T23:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/thecassiecao/status/1276506378388017155" ]
