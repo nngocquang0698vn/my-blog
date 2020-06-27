@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danhett/status/1276837180124598275" ],
     "name" : [ "Like of @danhett's tweet" ],
     "published" : [ "2020-06-27T13:55:00+01:00" ],
     "like-of" : [ "https://twitter.com/danhett/status/1276837180124598275" ]
