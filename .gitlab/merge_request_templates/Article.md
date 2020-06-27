@@ -11,4 +11,5 @@
 - [ ] I have checked the post for spelling and grammar
 - [ ] I have added an appropriate post `image` to the metadata
 - [ ] I have verified that any relevant issues are closed / referenced
-- [ ] I have verified that this Merge Request is labelled appropriately
+
+/label ~article ~content
