@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Cathrinmachin/status/1276695181551529984" ],
     "name" : [ "Like of @Cathrinmachin's tweet" ],
     "published" : [ "2020-06-27T10:24:00+01:00" ],
     "category" : [ "space" ],
