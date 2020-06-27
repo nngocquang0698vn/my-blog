@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChrisAldrich/status/1276760708730908672" ],
     "name" : [ "Like of @ChrisAldrich's tweet" ],
     "published" : [ "2020-06-27T14:29:00+01:00" ],
     "category" : [ "indiewebcamp" ],
