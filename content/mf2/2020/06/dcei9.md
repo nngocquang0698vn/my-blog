@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tpope/status/1276657238476759042" ],
     "name" : [ "Like of @tpope's tweet" ],
     "published" : [ "2020-06-27T13:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/tpope/status/1276657238476759042" ]
