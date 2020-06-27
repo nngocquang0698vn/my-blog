@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robertbasic/status/1276787876953538560" ],
     "name" : [ "Like of @robertbasic's tweet" ],
     "published" : [ "2020-06-27T12:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/robertbasic/status/1276787876953538560" ]
