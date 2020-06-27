@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/__apf__/status/1276617641709301760" ],
     "name" : [ "Like of @__apf__'s tweet" ],
     "published" : [ "2020-06-27T10:27:00+01:00" ],
     "category" : [ "cute" ],
