@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ktguen/status/1276694142341402626" ],
     "name" : [ "Like of @ktguen's tweet" ],
     "published" : [ "2020-06-28T13:18:00+01:00" ],
     "category" : [ "coronavirus" ],
