@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codinghorror/status/1276934067015974912" ],
     "name" : [ "Like of @codinghorror's tweet" ],
     "published" : [ "2020-06-28T12:27:00+01:00" ],
     "category" : [ "vim" ],
