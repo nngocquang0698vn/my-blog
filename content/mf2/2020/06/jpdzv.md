@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CatsaneTeto/status/1276950816587382786" ],
     "name" : [ "Like of @monotron_'s tweet" ],
     "published" : [ "2020-06-28T13:01:00+01:00" ],
     "category" : [ "cute" ],
