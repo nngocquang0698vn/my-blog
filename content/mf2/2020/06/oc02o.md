@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheMoonChild044/status/1277134408932372481" ],
     "name" : [ "Like of @TheMoonChild044's tweet" ],
     "published" : [ "2020-06-28T12:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/TheMoonChild044/status/1277134408932372481" ]
