@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JaneyGodley/status/1276972509611601921" ],
     "name" : [ "Like of @slightlylate's tweet" ],
     "published" : [ "2020-06-28T13:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/slightlylate/status/1277142634612449280" ]
