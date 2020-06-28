@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ethomson/status/1277197924859084802" ],
     "name" : [ "Like of @ethomson's tweet" ],
     "published" : [ "2020-06-28T13:06:00+01:00" ],
     "category" : [ "git" ],
