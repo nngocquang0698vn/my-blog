@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pussoirlicious/status/1276997263148175366" ],
     "name" : [ "Like of @pussoirlicious's tweet" ],
     "published" : [ "2020-06-28T17:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/pussoirlicious/status/1276997263148175366" ]
