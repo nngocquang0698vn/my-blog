@@ -47,7 +47,7 @@ This is quite annoying, and pollutes our codebase with warnings that we really w
 
 One solution would be to make it a field of the test class, and `@Mock` it there, but in this case it's a throwaway mock that is only required in this test, not in all tests (therefore wouldn't make as much sense to make a field variable).
 
-Fortunately, we can utilise something my colleague Lewis taught me the other week, and use `@Mock` as a method parameter.
+Fortunately, we can utilise something my colleague Lewis taught me the other week, and use `@Mock` as a method parameter when using JUnit5.
 
 This gives us the following test:
 
@@ -69,7 +69,7 @@ void getPagesReturnsValueFromDelegate(@Mock List<Page> mockList)
 
 This would of course, make our tests more readable if we had many mocks being set up!
 
-Note that you also need to make sure you're using Mockito's mock setup, i.e. with JUnit5 you would have:
+Note that you also need to make sure you're using Mockito's mock setup:
 
 ```java
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -80,4 +80,6 @@ class CachingAnalyticsServiceTest {
   // ...
 ```
 
-This has been tested as of spring-boot-starter-test v2.2.4.RELEASE.
+This has been tested as of spring-boot-starter-test v2.2.4.RELEASE, and works in Mockito 2+ with JUnit5+.
+
+I have [raised a PR to add it to the Mockito 3.x documentation](https://github.com/mockito/mockito/pull/1961), but not 2.x [as per request of the Mockito core team](https://github.com/mockito/mockito/issues/1960#issuecomment-650829303).
