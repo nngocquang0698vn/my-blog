@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1277336533876404224" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-06-29T08:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/JamesSACorey/status/1277336533876404224" ]
