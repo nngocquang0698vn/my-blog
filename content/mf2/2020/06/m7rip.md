@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Wieneraaron/status/1277342930915614720" ],
     "name" : [ "Like of @Wieneraaron's tweet" ],
     "published" : [ "2020-06-29T21:21:00+01:00" ],
     "category" : [ "cute" ],
