@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EddyVinckk/status/1278078101709357056" ],
     "name" : [ "Like of @EddyVinckk's tweet" ],
     "published" : [ "2020-06-30T23:49:00+01:00" ],
     "like-of" : [ "https://twitter.com/EddyVinckk/status/1278078101709357056" ]
