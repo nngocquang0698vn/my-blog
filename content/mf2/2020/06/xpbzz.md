@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/reillyusa/status/1277870083457593346" ],
     "name" : [ "Like of @reillyusa's tweet" ],
     "published" : [ "2020-06-30T23:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/reillyusa/status/1277870083457593346" ]
