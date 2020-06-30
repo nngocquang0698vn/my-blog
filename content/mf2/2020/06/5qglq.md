@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1277941613852008449" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-06-30T13:58:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
