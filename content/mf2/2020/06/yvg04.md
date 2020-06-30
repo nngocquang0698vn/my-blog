@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sudo_overflow/status/1277424805399138310" ],
     "name" : [ "Like of @techgirl1908's tweet" ],
     "published" : [ "2020-06-30T23:50:00+01:00" ],
     "like-of" : [ "https://twitter.com/techgirl1908/status/1278028120776298496" ]
