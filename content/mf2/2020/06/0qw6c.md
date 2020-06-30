@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1278079893566259201" ],
     "published" : [ "2020-06-30T22:27:00+01:00" ],
     "category" : [ "diversity-and-inclusion", "devops-notts" ],
     "content" : [ {
