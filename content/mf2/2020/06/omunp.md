@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ohhelloana/status/1277956602583269376" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1277965485590511617" ],
     "name" : [ "Reply to https://twitter.com/ohhelloana/status/1277956602583269376" ],
     "published" : [ "2020-06-30T14:56:00+01:00" ],
     "category" : [ ],
