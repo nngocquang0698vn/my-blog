@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_hax/status/1277937951058595840" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-06-30T13:58:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
