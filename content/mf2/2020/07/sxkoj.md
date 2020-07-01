@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chetanp/status/1278174439083872256" ],
     "name" : [ "Like of @chetanp's tweet" ],
     "published" : [ "2020-07-01T14:06:00+01:00" ],
     "category" : [ "coronavirus" ],
