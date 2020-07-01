@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bestofnextdoor/status/1278173029101522944" ],
     "name" : [ "Like of @bestofnextdoor's tweet" ],
     "published" : [ "2020-07-01T07:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/bestofnextdoor/status/1278173029101522944" ]
