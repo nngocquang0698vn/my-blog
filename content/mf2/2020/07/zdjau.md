@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/defaced/status/1278232180523773952" ],
     "name" : [ "Like of @defaced's tweet" ],
     "published" : [ "2020-07-01T23:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/defaced/status/1278232180523773952" ]
