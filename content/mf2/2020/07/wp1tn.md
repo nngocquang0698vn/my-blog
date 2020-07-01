@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/javagrifter/status/1278122818035687424" ],
     "name" : [ "Like of @javagrifter's tweet" ],
     "published" : [ "2020-07-01T07:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/javagrifter/status/1278122818035687424" ]
