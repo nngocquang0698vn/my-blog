@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rem/status/1278402507769774086" ],
     "name" : [ "Like of @rem's tweet" ],
     "published" : [ "2020-07-01T21:40:00+01:00" ],
     "category" : [ "github" ],
