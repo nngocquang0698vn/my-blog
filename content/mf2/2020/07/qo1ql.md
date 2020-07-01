@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MicaSophieBell/status/1278219305289736193" ],
     "name" : [ "Like of @MicaSophieBell's tweet" ],
     "published" : [ "2020-07-01T08:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/MicaSophieBell/status/1278219305289736193" ]
