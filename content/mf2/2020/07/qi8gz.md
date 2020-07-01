@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/evnsio/status/1278392987299516418" ],
     "name" : [ "Like of @evnsio's tweet" ],
     "published" : [ "2020-07-01T19:56:00+01:00" ],
     "category" : [ "remote-work" ],
