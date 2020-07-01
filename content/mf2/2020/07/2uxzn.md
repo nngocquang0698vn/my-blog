@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohhelloana/status/1278264922108035073" ],
     "name" : [ "Like of @ohhelloana's tweet" ],
     "published" : [ "2020-07-01T17:11:00+01:00" ],
     "category" : [ "blogging" ],
