@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cwarzel/status/1278116194621419520" ],
     "name" : [ "Like of @cwarzel's tweet" ],
     "published" : [ "2020-07-01T14:11:00+01:00" ],
     "category" : [ "indieweb", "social-media" ],
