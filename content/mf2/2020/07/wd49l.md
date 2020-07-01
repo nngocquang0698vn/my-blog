@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbygov/status/1277957238313943040" ],
     "name" : [ "Like of @abbygov's tweet" ],
     "published" : [ "2020-07-01T17:40:00+01:00" ],
     "category" : [ "coronavirus" ],
