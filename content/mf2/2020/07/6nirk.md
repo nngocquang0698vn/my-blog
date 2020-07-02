@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BeingCallum/status/1278077881424412673" ],
     "name" : [ "Like of @BeingCallum's tweet" ],
     "published" : [ "2020-07-02T23:09:00+01:00" ],
     "like-of" : [ "https://twitter.com/BeingCallum/status/1278077881424412673" ]
