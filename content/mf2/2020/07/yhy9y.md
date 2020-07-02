@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rousseaukazi/status/1278162193154859008" ],
     "name" : [ "Like of @rousseaukazi's tweet" ],
     "published" : [ "2020-07-02T08:08:00+01:00" ],
     "category" : [ "coronavirus" ],
