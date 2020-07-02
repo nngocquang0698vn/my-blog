@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mirandayaver/status/1278430829568561159" ],
     "name" : [ "Like of @nateparrott's tweet" ],
     "published" : [ "2020-07-02T08:10:00+01:00" ],
     "category" : [ "politics" ],
