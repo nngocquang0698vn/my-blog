@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaicesd/status/1278488198717423616" ],
     "name" : [ "Like of @jaicesd's tweet" ],
     "published" : [ "2020-07-02T07:56:00+01:00" ],
     "category" : [ "guys" ],
