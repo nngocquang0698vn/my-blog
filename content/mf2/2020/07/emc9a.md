@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1279050882257170433" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-07-03T18:13:00+01:00" ],
     "category" : [ "hamilton" ],
