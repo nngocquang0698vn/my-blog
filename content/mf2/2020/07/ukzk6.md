@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/toddmckinnon/status/1278716363071090688" ],
     "name" : [ "Like of @toddmckinnon's tweet" ],
     "published" : [ "2020-07-03T12:02:00+01:00" ],
     "like-of" : [ "https://twitter.com/toddmckinnon/status/1278716363071090688" ]
