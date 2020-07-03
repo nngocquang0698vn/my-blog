@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SparkNotes/status/1279060010165776387" ],
     "name" : [ "Like of @SparkNotes's tweet" ],
     "published" : [ "2020-07-03T17:12:00+01:00" ],
     "like-of" : [ "https://twitter.com/SparkNotes/status/1279060010165776387" ]
