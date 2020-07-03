@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soniagupta504/status/1278972099844063233" ],
     "name" : [ "Like of @soniagupta504's tweet" ],
     "published" : [ "2020-07-03T18:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/soniagupta504/status/1278972099844063233" ]
