@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/AriVanider/status/1278993722353557516" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1279015228550807554" ],
     "name" : [ "Reply to https://twitter.com/AriVanider/status/1278993722353557516" ],
     "published" : [ "2020-07-03T12:24:00+01:00" ],
     "category" : [ ],
