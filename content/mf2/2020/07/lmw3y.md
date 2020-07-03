@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Orangetronic/status/1278990205903687680" ],
     "name" : [ "Like of @Orangetronic's tweet" ],
     "published" : [ "2020-07-03T12:02:00+01:00" ],
     "category" : [ "politics" ],
