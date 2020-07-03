@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/csbnish/status/1278741807808098305" ],
     "name" : [ "Like of @csbnish's tweet" ],
     "published" : [ "2020-07-03T18:26:00+01:00" ],
     "category" : [ "shitpost" ],
