@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/microformats/microformats2-parsing/issues/2" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/microformats/microformats2-parsing/issues/2#issuecomment-653487986" ],
     "name" : [ "Reply to https://github.com/microformats/microformats2-parsing/issues/2" ],
     "published" : [ "2020-07-03T11:50:00+01:00" ],
     "category" : [ "micropub" ],
