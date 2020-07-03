@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BenKentish/status/1279019433156018177" ],
     "name" : [ "Like of @SBinLondon's tweet" ],
     "published" : [ "2020-07-03T18:12:00+01:00" ],
     "like-of" : [ "https://twitter.com/SBinLondon/status/1279098944476282880" ]
