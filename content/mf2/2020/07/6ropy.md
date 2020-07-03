@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/juliepagano/status/1279128128502128640" ],
     "name" : [ "Like of @juliepagano's tweet" ],
     "published" : [ "2020-07-03T21:34:00+01:00" ],
     "like-of" : [ "https://twitter.com/juliepagano/status/1279128128502128640" ]
