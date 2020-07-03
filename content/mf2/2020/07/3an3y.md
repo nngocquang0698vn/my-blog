@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1279133430329085954" ],
     "published" : [ "2020-07-03T20:17:00+01:00" ],
     "repost-of" : [ "https://twitter.com/ChloeCondon/status/1279128748365766657" ],
     "category" : [ "negotiation" ]
