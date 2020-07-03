@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VisibleOtter/status/1278626609390587905" ],
     "name" : [ "Like of @VisibleOtter's tweet" ],
     "published" : [ "2020-07-03T20:22:00+01:00" ],
     "category" : [ "politics" ],
