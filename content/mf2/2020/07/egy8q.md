@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1279084618801709056" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2020-07-03T17:12:00+01:00" ],
     "category" : [ "mechanical-keyboard" ],
