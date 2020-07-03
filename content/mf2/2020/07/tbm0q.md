@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/the_odd1_in/status/1278888484741230594" ],
     "name" : [ "Like of @the_odd1_in's tweet" ],
     "published" : [ "2020-07-03T11:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/the_odd1_in/status/1278888484741230594" ]
