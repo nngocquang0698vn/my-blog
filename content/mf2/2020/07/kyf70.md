@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SFF_Writer_Dan/status/1278821676214620160" ],
     "name" : [ "Like of @SFF_Writer_Dan's tweet" ],
     "published" : [ "2020-07-03T18:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/SFF_Writer_Dan/status/1278821676214620160" ]
