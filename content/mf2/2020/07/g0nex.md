@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1279554123797594113" ],
     "published" : [ "2020-07-05T00:10:00+01:00" ],
     "category" : [ "hamilton" ],
     "content" : [ {
