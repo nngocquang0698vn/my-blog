@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chadtomkiss/status/1279425887339937792" ],
     "name" : [ "Like of @chadtomkiss's tweet" ],
     "published" : [ "2020-07-04T16:31:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
