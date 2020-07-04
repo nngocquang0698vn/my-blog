@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/montypython/status/1279063826432958464" ],
     "name" : [ "Like of @EricIdle's tweet" ],
     "published" : [ "2020-07-04T11:25:00+01:00" ],
     "category" : [ "coronavirus" ],
