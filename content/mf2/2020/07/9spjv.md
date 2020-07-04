@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mcdanlj/status/1279186822673969152" ],
     "name" : [ "Like of @mcdanlj's tweet" ],
     "published" : [ "2020-07-04T12:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/mcdanlj/status/1279186822673969152" ]
