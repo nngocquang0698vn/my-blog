@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DawnHFoster/status/1279362375704076293" ],
     "name" : [ "Like of @tanepiper's tweet" ],
     "published" : [ "2020-07-04T12:24:00+01:00" ],
     "category" : [ "coronavirus" ],
