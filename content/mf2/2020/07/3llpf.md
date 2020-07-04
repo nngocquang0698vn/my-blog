@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jacobmparis/status/1279414406816940032" ],
     "name" : [ "Like of @jacobmparis's tweet" ],
     "published" : [ "2020-07-04T21:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/jacobmparis/status/1279414406816940032" ]
