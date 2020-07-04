@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cursedPC/status/1279347687712788480" ],
     "name" : [ "Like of @cursedPC's tweet" ],
     "published" : [ "2020-07-04T12:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/cursedPC/status/1279347687712788480" ]
