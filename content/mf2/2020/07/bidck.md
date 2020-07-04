@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/RobRWAPP/status/1279373104314228737" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1279423940339908609" ],
     "name" : [ "Reply to https://twitter.com/RobRWAPP/status/1279373104314228737" ],
     "published" : [ "2020-07-04T15:29:00+01:00" ],
     "category" : [ ],
