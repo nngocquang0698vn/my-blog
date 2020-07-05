@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tokyosexwhale/status/1279320045861187584" ],
     "name" : [ "Like of @tokyosexwhale's tweet" ],
     "published" : [ "2020-07-05T11:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/tokyosexwhale/status/1279320045861187584" ]
