@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gremisch/status/1279725145503019008" ],
     "name" : [ "Like of @gremisch's tweet" ],
     "published" : [ "2020-07-05T19:53:00+01:00" ],
     "category" : [ "cute" ],
