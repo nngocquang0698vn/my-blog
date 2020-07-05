@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DenzelWashngton/status/1279415543624130562" ],
     "name" : [ "Like of @DenzelWashngton's tweet" ],
     "published" : [ "2020-07-05T19:52:00+01:00" ],
     "category" : [ "coronavirus" ],
