@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1279854150570786817" ],
     "name" : [ "Like of @jackyalcine's tweet" ],
     "published" : [ "2020-07-05T23:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/jackyalcine/status/1279854150570786817" ]
