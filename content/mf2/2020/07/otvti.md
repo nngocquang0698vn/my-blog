@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nursekelsey/status/1279449964020719622" ],
     "name" : [ "Like of @nursekelsey's tweet" ],
     "published" : [ "2020-07-05T23:54:00+01:00" ],
     "category" : [ "coronavirus" ],
