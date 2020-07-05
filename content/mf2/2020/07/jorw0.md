@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JKashaar/status/1279699366190645248" ],
     "name" : [ "Like of @JKashaar's tweet" ],
     "published" : [ "2020-07-05T12:29:00+01:00" ],
     "category" : [ "food" ],
