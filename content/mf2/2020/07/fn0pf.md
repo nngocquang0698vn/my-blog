@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PleaseBeGneiss/status/1279859683424010241" ],
     "name" : [ "Like of @PleaseBeGneiss's tweet" ],
     "published" : [ "2020-07-06T11:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/PleaseBeGneiss/status/1279859683424010241" ]
