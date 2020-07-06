@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @CrdlPls's tweet" ],
     "published" : [ "2020-06-08T23:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/CrdlPls/status/1270078554693414913" ]

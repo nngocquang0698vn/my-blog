@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @TNeenan's tweet" ],
     "published" : [ "2020-06-18T16:31:00+01:00" ],
     "like-of" : [ "https://twitter.com/TNeenan/status/1273583031891177472" ]

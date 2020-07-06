@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/cathbennetto/status/1251809579517636610" ],
+    "syndication" : [  ],
     "name" : [ "Like of @tanepiper's tweet" ],
     "published" : [ "2020-04-19T11:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/tanepiper/status/1251810184860762112" ]

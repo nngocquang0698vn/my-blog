@@ -145,7 +145,6 @@
       "https://twitter.com/edent/status/1234462757770141698"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1234548618910105600"
     ]
   }
 }

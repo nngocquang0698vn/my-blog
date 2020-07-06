@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/edent/status/1275313224804687877" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1275322271759060993" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/edent/status/1275313224804687877" ],
     "published" : [ "2020-06-23T07:48:00+01:00" ],
     "category" : [ ],

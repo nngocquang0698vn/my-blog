@@ -150,7 +150,6 @@
       "https://twitter.com/anna_hax/status/1235480724414791680"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1235483571533512704"
     ]
   }
 }

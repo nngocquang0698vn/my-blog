@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-06-09T00:01:00+01:00" ],
     "repost-of" : [ "https://twitter.com/EmojiMashupFace/status/1270126375924572160" ],
     "category" : [ ],

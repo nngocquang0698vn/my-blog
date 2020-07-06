@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @film_girl's tweet" ],
     "published" : [ "2020-05-21T08:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/film_girl/status/1263276858604310528" ]

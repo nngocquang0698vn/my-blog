@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @JackAllford's tweet" ],
     "published" : [ "2020-06-06T15:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/JackAllford/status/1268971440856072192" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/SparkleClass/status/1255024207571881985" ],
+    "syndication" : [  ],
     "name" : [ "Like of @jontheniceguy's tweet" ],
     "published" : [ "2020-04-28T21:20:00+01:00" ],
     "like-of" : [ "https://twitter.com/jontheniceguy/status/1255032848547004416" ]

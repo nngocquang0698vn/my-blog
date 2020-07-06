@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @DNABeast's tweet" ],
     "published" : [ "2020-04-25T09:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/DNABeast/status/1253549919362670592" ]

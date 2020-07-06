@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/WiT_Notts/status/1259454451078881281" ],
+    "syndication" : [  ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-05-10T14:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/anna_hax/status/1259457304124166145" ]

@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/IAmJerdog/status/1251688698623799303" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/IAmJerdog/status/1251688698623799303" ],
     "published" : [ "2020-04-19T11:12:00+01:00" ],
     "category" : [ ],

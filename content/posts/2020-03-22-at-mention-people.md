@@ -34,3 +34,5 @@ Following some of <span class="h-card"><a class="u-url p-name" href="https://seb
 I can now @-mention folks by using their profile URL, such as `@annadodson.co.uk`. If they have a Twitter URL configured for their site, it'll provide a Twitter URL on syndication. For folks that don't have a Twitter URL configured, it'll just syndicate their URL. If I want to simply @-mention a Twitter URL, I've already got functionality in my Micropub server that will rewrite a Twitter URL to an h-card with their name.
 
 You can see an example at [/mf2/2020/03/g1mpf/](/mf2/2020/03/g1mpf/).
+
+Update 2020-07-06: I noticed that the original Microformats2 for this wasn't quite working, as it wouldn't handle interacting with quote tweets. This is now addressed, but is a word of warning to anyone doing this! The straightforward fix [can be found on the GitLab Merge Request that fixed it](https://gitlab.com/jamietanna/www.jvt.me-theme/-/merge_requests/3).

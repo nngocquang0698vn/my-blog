@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @JessPWhite's tweet" ],
     "published" : [ "2020-07-03T21:34:00+01:00" ],
     "like-of" : [ "https://twitter.com/JessPWhite/status/1279143130877607945" ]

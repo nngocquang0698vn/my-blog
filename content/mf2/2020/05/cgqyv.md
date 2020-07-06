@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-25T12:19:00+01:00" ],
     "repost-of" : [ "https://twitter.com/RobertCoward/status/1264865583625129984" ],
     "category" : [ "coronavirus", "politics" ]

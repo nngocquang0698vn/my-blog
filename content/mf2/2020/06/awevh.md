@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @davidfowl's tweet" ],
     "published" : [ "2020-06-13T17:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/davidfowl/status/1271701362552606721" ]

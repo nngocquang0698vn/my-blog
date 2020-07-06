@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "photo" : [ {
       "alt" : "Black cat laying on a grey blanket, meowing while yawning",
       "photo" : "https://media.jvt.me/d291c82cc2.jpeg"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @whitequark's tweet" ],
     "published" : [ "2020-05-05T18:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/whitequark/status/1257526080849788935" ]

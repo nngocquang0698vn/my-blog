@@ -147,7 +147,6 @@
       "https://twitter.com/technottingham/status/1225756143877795840"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1225765291143159808"
     ]
   }
 }

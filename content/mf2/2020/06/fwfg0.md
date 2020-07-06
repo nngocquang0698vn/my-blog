@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @DrGABaines's tweet" ],
     "published" : [ "2020-06-25T18:02:00+01:00" ],
     "like-of" : [ "https://twitter.com/DrGABaines/status/1275842961209798656" ]

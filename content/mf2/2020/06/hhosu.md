@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ElliottStoneham's tweet" ],
     "published" : [ "2020-06-28T17:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/ElliottStoneham/status/1277118886538854401" ]

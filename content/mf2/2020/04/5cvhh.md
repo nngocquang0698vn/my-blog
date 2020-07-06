@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Twitter/status/1253381644108673025" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Yubico's tweet" ],
     "published" : [ "2020-04-24T07:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/Yubico/status/1253388014446772224" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @MrDespicable's tweet" ],
     "published" : [ "2020-05-20T14:44:00+01:00" ],
     "category" : [ "coronavirus" ],

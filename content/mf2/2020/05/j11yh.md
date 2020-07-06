@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-05-08T10:30:00+01:00" ],
     "category" : [ "women-in-tech" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/TheRegister/status/1277929458809344001" ],
+    "syndication" : [  ],
     "name" : [ "Like of @stillinbeta's tweet" ],
     "published" : [ "2020-07-01T22:06:00+01:00" ],
     "category" : [ "linux" ],

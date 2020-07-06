@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/geekwire/status/1276228659250999296" ],
+    "syndication" : [  ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2020-06-26T15:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/QuinnyPig/status/1276345506696794117" ]

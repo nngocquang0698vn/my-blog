@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/vicky_dollysmom/status/1263967551006048264" ],
+    "syndication" : [  ],
     "name" : [ "Like of @brosandprose's tweet" ],
     "published" : [ "2020-05-24T19:04:00+01:00" ],
     "category" : [ "politics" ],

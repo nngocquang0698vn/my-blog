@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/dhh/status/1264961988716707840" ],
+    "syndication" : [  ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2020-05-26T22:40:00+01:00" ],
     "category" : [ "remote-work" ],

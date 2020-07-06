@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/BBCNews/status/1278356539468853248" ],
+    "syndication" : [  ],
     "name" : [ "Like of @bmorg's tweet" ],
     "published" : [ "2020-07-01T22:44:00+01:00" ],
     "category" : [ "remote-work" ],

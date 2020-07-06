@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2020-07-04T21:47:00+01:00" ],
     "like-of" : [ "https://twitter.com/freezydorito/status/1279513404525416448" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @nickstenning's tweet" ],
     "published" : [ "2020-06-21T15:10:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],

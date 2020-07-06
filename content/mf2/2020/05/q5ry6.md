@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/joonhopekook/status/1266494398080172032" ],
+    "syndication" : [  ],
     "name" : [ "Like of @MaraGay's tweet" ],
     "published" : [ "2020-05-30T11:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/MaraGay/status/1266528230778994688" ]

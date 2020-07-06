@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-16T17:17:23.984Z" ],
     "category" : [ "coronavirus" ],
     "content" : [ {

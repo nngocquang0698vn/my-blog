@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @SusanMichie's tweet" ],
     "published" : [ "2020-04-24T23:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/SusanMichie/status/1253352324984197122" ]

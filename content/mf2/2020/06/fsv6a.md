@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ParodyHancock's tweet" ],
     "published" : [ "2020-06-16T12:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/ParodyHancock/status/1272835856177532928" ]

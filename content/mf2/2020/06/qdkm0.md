@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/NoEmmeG/status/1276930111858671619" ],
+    "syndication" : [  ],
     "name" : [ "Like of @formerlyashley's tweet" ],
     "published" : [ "2020-06-28T13:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/formerlyashley/status/1277037835703508996" ]

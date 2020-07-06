@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-06-14T21:45:00+01:00" ],
     "repost-of" : [ "https://twitter.com/megbutton/status/1271619416053166080" ],
     "category" : [ "amazon" ]

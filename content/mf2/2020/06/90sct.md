@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/markknoller/status/1267291138655956992" ],
+    "syndication" : [  ],
     "name" : [ "Like of @themaxburns's tweet" ],
     "published" : [ "2020-06-01T17:59:00+01:00" ],
     "like-of" : [ "https://twitter.com/themaxburns/status/1267298344956833799" ]

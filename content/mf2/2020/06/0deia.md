@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Stowydad/status/1267956843424501761" ],
+    "syndication" : [  ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2020-06-03T22:18:00+01:00" ],
     "category" : [ "security" ],

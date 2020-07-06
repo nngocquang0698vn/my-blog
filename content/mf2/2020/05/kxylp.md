@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ChuckWendig/status/1264726168432979968" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/ChuckWendig/status/1264726168432979968" ],
     "published" : [ "2020-05-25T12:27:00+01:00" ],
     "category" : [ ],

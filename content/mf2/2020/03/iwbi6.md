@@ -150,7 +150,6 @@
       "https://twitter.com/WiT_Notts/status/1235875423944392704"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1235879064663187456"
     ]
   }
 }

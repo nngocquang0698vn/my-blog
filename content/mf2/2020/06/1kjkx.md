@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @fatih's tweet" ],
     "published" : [ "2020-06-28T17:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/fatih/status/1277119047495061505" ]

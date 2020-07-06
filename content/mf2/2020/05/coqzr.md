@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @tobiasdeppe2000's tweet" ],
     "published" : [ "2020-05-11T22:34:51.093Z" ],
     "like-of" : [ "https://twitter.com/tobiasdeppe2000/status/1259923818262511617" ]

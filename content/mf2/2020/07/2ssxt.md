@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rwdrich/status/1278975352014954504" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/rwdrich/status/1278975352014954504" ],
     "published" : [ "2020-07-03T11:55:00+01:00" ],
     "category" : [ ],

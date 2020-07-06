@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @emilycsmith18's tweet" ],
     "published" : [ "2020-05-04T12:38:00+01:00" ],
     "category" : [ "personal-website" ],

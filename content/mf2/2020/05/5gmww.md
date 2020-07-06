@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @williamACNH's tweet" ],
     "published" : [ "2020-05-18T20:06:00+01:00" ],
     "category" : [ "animal-crossing" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @drakerehfeld's tweet" ],
     "published" : [ "2020-05-12T15:58:00+01:00" ],
     "category" : [ "spotify" ],

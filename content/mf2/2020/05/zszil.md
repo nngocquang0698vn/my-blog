@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Twitter/status/1263203262968344576" ],
+    "syndication" : [  ],
     "name" : [ "Like of @kevinmarks's tweet" ],
     "published" : [ "2020-05-20T22:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/kevinmarks/status/1263210401510154242" ]

@@ -149,7 +149,6 @@
       "https://twitter.com/magicalfeyfenny/status/1245931723474403333"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1246154175274192898"
     ]
   }
 }

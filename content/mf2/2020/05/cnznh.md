@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-05T17:06:00+01:00" ],
     "repost-of" : [ "https://twitter.com/grhmc/status/1257691144290533377" ],
     "category" : [ "diversity-and-inclusion" ]

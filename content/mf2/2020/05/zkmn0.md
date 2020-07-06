@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/javascript_jess/status/1256020658355462145" ],
+    "syndication" : [  ],
     "name" : [ "Like of @shanselman's tweet" ],
     "published" : [ "2020-05-02T16:29:00+01:00" ],
     "like-of" : [ "https://twitter.com/shanselman/status/1256499721029316608" ]

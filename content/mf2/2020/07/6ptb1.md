@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/montypython/status/1279063826432958464" ],
+    "syndication" : [  ],
     "name" : [ "Like of @EricIdle's tweet" ],
     "published" : [ "2020-07-04T11:25:00+01:00" ],
     "category" : [ "coronavirus" ],

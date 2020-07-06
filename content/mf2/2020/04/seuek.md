@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @KeIIyPriceJr's tweet" ],
     "published" : [ "2020-04-27T22:08:00+01:00" ],
     "category" : [ "food" ],

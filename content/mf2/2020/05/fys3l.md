@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1261337460199522311" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-15T17:41:00+01:00" ],
     "repost-of" : [ "https://twitter.com/QuinnyPig/status/1261328153626083328" ]
   },

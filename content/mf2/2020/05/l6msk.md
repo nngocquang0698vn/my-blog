@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ScottMonty's tweet" ],
     "published" : [ "2020-05-28T22:54:00+01:00" ],
     "category" : [ "politics" ],

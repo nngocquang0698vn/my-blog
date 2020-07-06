@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-04-22T14:51:00+01:00" ],
     "repost-of" : [ "https://twitter.com/SparkleClass/status/1252949326629933059" ],
     "category" : [ "oggcamp", "wit-notts" ],

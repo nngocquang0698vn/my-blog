@@ -3,7 +3,6 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1248561942211559426"
     ],
     "repost-of": [
       "https://twitter.com/WiT_Notts/status/1248540491509116930"

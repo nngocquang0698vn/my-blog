@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1276849375948537856" ],
+    "syndication" : [  ],
     "published" : [ "2020-06-27T13:02:00+01:00" ],
     "repost-of" : [ "https://twitter.com/JoshConstine/status/1276676716870529025" ]
   },

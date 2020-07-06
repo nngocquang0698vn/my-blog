@@ -147,7 +147,6 @@
       "https://twitter.com/KingstonTime/status/1239526699479506944"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1251560427517104131"
     ]
   }
 }

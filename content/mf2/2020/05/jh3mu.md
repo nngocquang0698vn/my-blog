@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-31T10:40:00+01:00" ],
     "repost-of" : [ "https://twitter.com/DrJessTaylor/status/1267015497654194176" ]
   },

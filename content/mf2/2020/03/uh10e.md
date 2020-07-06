@@ -150,7 +150,6 @@
       "diversity-and-inclusion"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1236571096419270657"
     ]
   },
   "tags": [

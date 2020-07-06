@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/CorbynistaTeen/status/1270066024377974786" ],
+    "syndication" : [  ],
     "name" : [ "Like of @hiabtcilen's tweet" ],
     "published" : [ "2020-06-09T11:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/hiabtcilen/status/1270074550148116480" ]

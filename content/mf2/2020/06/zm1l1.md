@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @D0NALDGL0VERR's tweet" ],
     "published" : [ "2020-06-06T15:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/D0NALDGL0VERR/status/1268872817472241664" ]

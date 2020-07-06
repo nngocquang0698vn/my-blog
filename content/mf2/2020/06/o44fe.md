@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/JessPWhite/status/1269673031758163970" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1269724324975517702" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/JessPWhite/status/1269673031758163970" ],
     "published" : [ "2020-06-07T21:09:00+01:00" ],
     "category" : [ ],

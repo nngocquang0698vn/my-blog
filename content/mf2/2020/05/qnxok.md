@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @stefanjudis's tweet" ],
     "published" : [ "2020-05-18T07:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/stefanjudis/status/1262155551473127430" ]

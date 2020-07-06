@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1265363567630381057" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1265378726751199237" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/QuinnyPig/status/1265363567630381057" ],
     "published" : [ "2020-05-26T21:21:00+01:00" ],
     "category" : [ ],

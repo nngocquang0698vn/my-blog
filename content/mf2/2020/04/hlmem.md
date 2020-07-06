@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/LeighBoobyer/status/1253298630884241409" ],
+    "syndication" : [  ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2020-04-24T10:47:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
