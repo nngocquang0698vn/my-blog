@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StickyTrainer/status/1279869683097796608" ],
     "name" : [ "Like of @StickyTrainer's tweet" ],
     "published" : [ "2020-07-06T11:42:00+01:00" ],
     "category" : [ "politics" ],
