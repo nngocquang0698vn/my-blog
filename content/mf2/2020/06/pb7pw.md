@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/aravosis/status/1274355082402955269" ],
+    "syndication" : [  ],
     "name" : [ "Like of @MattOswaltVA's tweet" ],
     "published" : [ "2020-06-21T18:33:00+01:00" ],
     "category" : [ "politics" ],

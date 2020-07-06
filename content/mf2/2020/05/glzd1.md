@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/LittleLostLad/status/1261225456029835264" ],
+    "syndication" : [  ],
     "name" : [ "Like of @rwdrich's tweet" ],
     "published" : [ "2020-05-16T12:40:00+01:00" ],
     "category" : [ "cute" ],

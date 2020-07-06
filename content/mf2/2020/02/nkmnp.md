@@ -146,7 +146,6 @@
       "https://twitter.com/najmi/status/1231241954521841664"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1232209521969442816"
     ]
   }
 }

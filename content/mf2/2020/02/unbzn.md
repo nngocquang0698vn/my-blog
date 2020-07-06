@@ -144,7 +144,6 @@
       "https://twitter.com/PHPMinds/status/1227282277979369474"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1227283880996220929"
     ]
   }
 }

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/arhayward/status/1273622013014392833" ],
+    "syndication" : [  ],
     "name" : [ "Like of @aallan's tweet" ],
     "published" : [ "2020-06-18T23:01:00+01:00" ],
     "like-of" : [ "https://twitter.com/aallan/status/1273708130069856259" ]

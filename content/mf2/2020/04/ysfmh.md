@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/abbygov/status/1253793655854231553" ],
+    "syndication" : [  ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2020-04-26T13:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/IanColdwater/status/1254227404006084615" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Museum_archive/status/1254358546545704960" ],
+    "syndication" : [  ],
     "name" : [ "Like of @andyRoidO's tweet" ],
     "published" : [ "2020-04-29T12:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/andyRoidO/status/1254521447655014401" ]

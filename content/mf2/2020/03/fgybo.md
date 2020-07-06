@@ -147,7 +147,6 @@
       "remote-work"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1238234869815218177"
     ]
   },
   "tags": [

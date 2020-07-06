@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1279195413195653120" ],
+    "syndication" : [  ],
     "published" : [ "2020-07-04T00:24:00+01:00" ],
     "repost-of" : [ "https://twitter.com/ChrisAldrich/status/1279180031588134913" ],
     "category" : [ "indieweb" ]

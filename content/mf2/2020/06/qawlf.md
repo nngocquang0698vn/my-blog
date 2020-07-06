@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/realDonaldTrump/status/446461592029630464" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ianmiell's tweet" ],
     "published" : [ "2020-06-01T20:48:00+01:00" ],
     "category" : [ "politics" ],

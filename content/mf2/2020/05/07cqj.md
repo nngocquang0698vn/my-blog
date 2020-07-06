@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/jacobmparis/status/1265740598277025792" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ccmiller2018's tweet" ],
     "published" : [ "2020-05-27T23:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/ccmiller2018/status/1265759967828729858" ]

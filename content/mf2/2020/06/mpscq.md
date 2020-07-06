@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/shanselman/status/1272596490725126144" ],
+    "syndication" : [  ],
     "name" : [ "Like of @pascaldoesgo's tweet" ],
     "published" : [ "2020-06-15T22:02:00+01:00" ],
     "like-of" : [ "https://twitter.com/pascaldoesgo/status/1272631376832069633" ]

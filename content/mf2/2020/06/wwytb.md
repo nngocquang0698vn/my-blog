@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/ZiziFothSi/status/802820290036240384" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ZiziFothSi's tweet" ],
     "published" : [ "2020-06-23T17:06:00+01:00" ],
     "category" : [ "cute" ],

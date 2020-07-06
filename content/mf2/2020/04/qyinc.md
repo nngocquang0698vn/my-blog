@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/CassiusMarcel/status/1251058856739864576" ],
+    "syndication" : [  ],
     "name" : [ "Like of @toooooooooba's tweet" ],
     "published" : [ "2020-04-19T11:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/toooooooooba/status/1251587508975964160" ]

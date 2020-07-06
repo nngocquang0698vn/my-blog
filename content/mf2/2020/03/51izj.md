@@ -174,7 +174,6 @@
       "https://twitter.com/aaronpk/status/1241126885041377280"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1251560465278386176"
     ]
   }
 }

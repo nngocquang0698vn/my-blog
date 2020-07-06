@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/nathanbarry/status/250866598372573185" ],
+    "syndication" : [  ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2020-05-10T11:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/swyx/status/1259186402907967488" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Nigel_Farage/status/1279375311499558914" ],
+    "syndication" : [  ],
     "name" : [ "Like of @leonardocarella's tweet" ],
     "published" : [ "2020-07-04T15:32:00+01:00" ],
     "like-of" : [ "https://twitter.com/leonardocarella/status/1279383665529827328" ]

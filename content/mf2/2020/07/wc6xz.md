@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/mitchellvii/status/1277997089046355968" ],
+    "syndication" : [  ],
     "name" : [ "Like of @cee_ryan's tweet" ],
     "published" : [ "2020-07-02T23:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/cee_ryan/status/1278441617242894349" ]

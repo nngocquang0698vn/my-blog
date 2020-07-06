@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Nettaaaaaaaa/status/1274014543656738817" ],
+    "syndication" : [  ],
     "name" : [ "Like of @jackyalcine's tweet" ],
     "published" : [ "2020-06-19T18:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/jackyalcine/status/1274021258418458629" ]

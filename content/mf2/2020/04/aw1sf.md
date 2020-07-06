@@ -159,7 +159,6 @@
       }
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1246476081592438786"
     ]
   }
 }

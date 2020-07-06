@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/HarryFacts/status/1271313703736991747" ],
+    "syndication" : [  ],
     "name" : [ "Like of @444DONIS's tweet" ],
     "published" : [ "2020-06-14T11:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/444DONIS/status/1271522795726475266" ]

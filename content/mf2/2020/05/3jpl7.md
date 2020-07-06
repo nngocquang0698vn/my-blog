@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/IndieWire/status/1225816489384542209" ],
+    "syndication" : [  ],
     "name" : [ "Like of @RobbySlowik's tweet" ],
     "published" : [ "2020-05-10T11:56:00+01:00" ],
     "like-of" : [ "https://twitter.com/RobbySlowik/status/1259262822892163081" ]

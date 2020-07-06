@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Michael1979/status/1258124211144589315" ],
+    "syndication" : [  ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-05-07T12:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/MrsEmma/status/1258332940897062912" ]

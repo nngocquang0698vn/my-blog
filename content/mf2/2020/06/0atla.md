@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Iearnsomethlng/status/1276083214432391171" ],
+    "syndication" : [  ],
     "name" : [ "Like of @cassiecodes's tweet" ],
     "published" : [ "2020-06-27T00:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/cassiecodes/status/1276436410518712321" ]

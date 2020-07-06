@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/SSCJoeDuenas/status/1269239342100250625" ],
+    "syndication" : [  ],
     "name" : [ "Like of @bessbell's tweet" ],
     "published" : [ "2020-06-07T17:20:00+01:00" ],
     "like-of" : [ "https://twitter.com/bessbell/status/1269362753371693056" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/PFNotts/status/1272886909031899137" ],
+    "syndication" : [  ],
     "name" : [ "Like of @PFNotts's tweet" ],
     "published" : [ "2020-06-16T15:00:00+01:00" ],
     "like-of" : [ "https://twitter.com/PFNotts/status/1272888519275556865" ]

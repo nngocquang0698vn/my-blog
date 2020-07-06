@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Cooperstreaming/status/1271864951737466881" ],
+    "syndication" : [  ],
     "name" : [ "Like of @KatieHill4CA's tweet" ],
     "published" : [ "2020-06-15T19:02:00+01:00" ],
     "like-of" : [ "https://twitter.com/KatieHill4CA/status/1272369452592570368" ]

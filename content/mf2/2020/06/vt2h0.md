@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/Chicken3gg/status/1274314622447820801" ],
+    "syndication" : [  ],
     "name" : [ "Like of @lazerwalker's tweet" ],
     "published" : [ "2020-06-20T23:52:00+01:00" ],
     "like-of" : [ "https://twitter.com/lazerwalker/status/1274359505283883008" ]

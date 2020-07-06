@@ -163,7 +163,6 @@
       "https://twitter.com/CarolSaysThings/status/1243515754001154049"
     ],
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1243533323663704065"
     ]
   }
 }

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/dril/status/473706394009759744" ],
+    "syndication" : [  ],
     "name" : [ "Like of @SparkNotes's tweet" ],
     "published" : [ "2020-05-07T23:32:00+01:00" ],
     "like-of" : [ "https://twitter.com/SparkNotes/status/1255208281074778113" ]

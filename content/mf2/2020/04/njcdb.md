@@ -3,7 +3,6 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://twitter.com/JamieTanna/status/1249309606955962368"
     ],
     "repost-of": [
       "https://twitter.com/Sonic_Screwup/status/1249269918173970432"

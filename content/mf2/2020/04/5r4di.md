@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/santiagomayer_/status/1242566564936736768" ],
+    "syndication" : [  ],
     "name" : [ "Like of @sandavidcito's tweet" ],
     "published" : [ "2020-04-29T12:09:00+01:00" ],
     "like-of" : [ "https://twitter.com/sandavidcito/status/1255037288460894208" ]

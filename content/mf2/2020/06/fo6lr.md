@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/kevinroose/status/1267469369946157059" ],
+    "syndication" : [  ],
     "name" : [ "Like of @kieranmch's tweet" ],
     "published" : [ "2020-06-01T21:44:00+01:00" ],
     "category" : [ "ethics" ],
