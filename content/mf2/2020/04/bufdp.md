@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @JesseLehrich's tweet" ],
     "published" : [ "2020-04-25T12:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/JesseLehrich/status/1253824612179292160" ]

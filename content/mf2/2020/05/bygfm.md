@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-30T10:38:00+01:00" ],
     "repost-of" : [ "https://twitter.com/MrsEmma/status/1266509532747923458" ],
     "category" : [ "wit-notts" ]

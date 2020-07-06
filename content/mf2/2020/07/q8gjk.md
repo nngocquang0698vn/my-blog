@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-07-01T14:08:00+01:00" ],
     "repost-of" : [ "https://twitter.com/CorbynistaTeen/status/1277903082618265602" ]
   },

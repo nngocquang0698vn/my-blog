@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @eeberquist's tweet" ],
     "published" : [ "2020-05-05T21:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/eeberquist/status/1257470785150611458" ]

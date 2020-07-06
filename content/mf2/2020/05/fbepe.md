@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @yahoo_pete's tweet" ],
     "published" : [ "2020-05-05T20:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/yahoo_pete/status/1257701863832670209" ]

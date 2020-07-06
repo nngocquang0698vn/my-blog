@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @paulbiggar's tweet" ],
     "published" : [ "2020-05-25T15:38:00+01:00" ],
     "category" : [ "serverless" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @tnwhiskeywoman's tweet" ],
     "published" : [ "2020-05-04T07:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/tnwhiskeywoman/status/1257004684386107394" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-07-05T19:59:00+01:00" ],
     "category" : [ "hamilton" ],

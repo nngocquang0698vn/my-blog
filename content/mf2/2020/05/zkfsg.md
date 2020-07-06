@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @PlayApex's tweet" ],
     "published" : [ "2020-05-05T22:16:00+01:00" ],
     "category" : [ "apex-legends" ],

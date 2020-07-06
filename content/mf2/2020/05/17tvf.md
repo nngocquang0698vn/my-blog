@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @RabbiLLevenberg's tweet" ],
     "published" : [ "2020-05-16T17:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/RabbiLLevenberg/status/1261330714890362882" ]

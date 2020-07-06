@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @elijahwood's tweet" ],
     "published" : [ "2020-06-19T22:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/elijahwood/status/1274044866809352192" ]

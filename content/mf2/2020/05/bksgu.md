@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Jxparisxo's tweet" ],
     "published" : [ "2020-05-28T23:29:00+01:00" ],
     "like-of" : [ "https://twitter.com/Jxparisxo/status/1265425912448892929" ]

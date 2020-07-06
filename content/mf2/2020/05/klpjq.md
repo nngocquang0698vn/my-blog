@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @WillDHislop's tweet" ],
     "published" : [ "2020-05-07T23:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/WillDHislop/status/1258457955189641224" ]

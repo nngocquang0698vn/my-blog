@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @isislovecruft's tweet" ],
     "published" : [ "2020-05-02T22:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/isislovecruft/status/1256656128592601088" ]

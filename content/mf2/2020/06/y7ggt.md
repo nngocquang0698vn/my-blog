@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @TheDreamGhoul's tweet" ],
     "published" : [ "2020-06-27T10:27:00+01:00" ],
     "category" : [ "cute" ],

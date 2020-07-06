@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-05-05T19:31:00+01:00" ],
     "repost-of" : [ "https://twitter.com/IanColdwater/status/1257722669375635458" ],
     "category" : [ "diversity-and-inclusion" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @nocontxt99's tweet" ],
     "published" : [ "2020-05-05T19:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/nocontxt99/status/1257742164718739456" ]

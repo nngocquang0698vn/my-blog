@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @jesslynnrose's tweet" ],
     "published" : [ "2020-05-05T22:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/jesslynnrose/status/1257768119256387586" ]

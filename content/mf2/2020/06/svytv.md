@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "published" : [ "2020-06-28T23:06:00+01:00" ],
     "repost-of" : [ "https://twitter.com/d1rtydan/status/1277081198624337920" ],
     "category" : [ "tiktok" ]

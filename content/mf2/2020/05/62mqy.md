@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @asolove's tweet" ],
     "published" : [ "2020-05-16T17:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/asolove/status/1261448249744846848" ]

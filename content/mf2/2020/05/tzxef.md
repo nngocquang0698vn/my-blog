@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Emmett_Scanlon's tweet" ],
     "published" : [ "2020-05-17T00:04:00+01:00" ],
     "category" : [ "cute" ],

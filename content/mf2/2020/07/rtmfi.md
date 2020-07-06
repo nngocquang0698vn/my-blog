@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Brittany_207's tweet" ],
     "published" : [ "2020-07-05T19:54:00+01:00" ],
     "category" : [ "tiktok" ],

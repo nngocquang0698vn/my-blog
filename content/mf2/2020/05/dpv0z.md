@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @PeevedFerret's tweet" ],
     "published" : [ "2020-05-05T22:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/PeevedFerret/status/1257721044347076609" ]

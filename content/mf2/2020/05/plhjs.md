@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @pienar's tweet" ],
     "published" : [ "2020-05-05T12:16:00+01:00" ],
     "category" : [ "cute" ],

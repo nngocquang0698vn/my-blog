@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ebruenig's tweet" ],
     "published" : [ "2020-05-01T12:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/ebruenig/status/1256040892625977344" ]

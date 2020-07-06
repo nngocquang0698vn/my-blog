@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Motchdobble's tweet" ],
     "published" : [ "2020-06-27T17:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/Motchdobble/status/1276882158192340993" ]

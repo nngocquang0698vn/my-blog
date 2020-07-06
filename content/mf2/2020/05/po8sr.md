@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @stevieboebi's tweet" ],
     "published" : [ "2020-05-05T18:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/stevieboebi/status/1257427026207801350" ]

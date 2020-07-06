@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @chelseaperetti's tweet" ],
     "published" : [ "2020-06-20T11:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/chelseaperetti/status/1274052632856817664" ]

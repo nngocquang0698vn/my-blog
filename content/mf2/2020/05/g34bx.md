@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @django's tweet" ],
     "published" : [ "2020-05-05T18:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/django/status/1257488051548413959" ]

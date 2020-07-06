@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @moderndadpages's tweet" ],
     "published" : [ "2020-05-25T15:36:00+01:00" ],
     "category" : [ "food" ],

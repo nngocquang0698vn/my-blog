@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @ItsProbablyAlex's tweet" ],
     "published" : [ "2020-05-25T12:17:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],

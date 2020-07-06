@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @KaylaAncrum's tweet" ],
     "published" : [ "2020-06-19T23:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/KaylaAncrum/status/1273809299148546049" ]

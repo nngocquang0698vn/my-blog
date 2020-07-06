@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/HRHSherlock/status/1252015174422163456" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Reply to https://twitter.com/HRHSherlock/status/1252015174422163456" ],
     "published" : [ "2020-04-22T07:49:00+01:00" ],
     "category" : [ ],

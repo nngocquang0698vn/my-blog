@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @Kreso66Maric's tweet" ],
     "published" : [ "2020-05-31T23:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/Kreso66Maric/status/1267200967373737989" ]

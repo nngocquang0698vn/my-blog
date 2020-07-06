@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [  ],
     "name" : [ "Like of @aimeegamble's tweet" ],
     "published" : [ "2020-05-21T00:10:00+01:00" ],
     "category" : [ "indieweb", "microformats" ],
