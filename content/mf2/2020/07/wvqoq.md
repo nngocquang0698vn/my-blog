@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Erickajamon2/status/1279510499420487681" ],
     "name" : [ "Like of @Erickajamon2's tweet" ],
     "published" : [ "2020-07-06T11:43:00+01:00" ],
     "category" : [ "cute" ],
