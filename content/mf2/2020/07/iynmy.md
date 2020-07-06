@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DannyDeraney/status/1279813079262322688" ],
     "name" : [ "Like of @DannyDeraney's tweet" ],
     "published" : [ "2020-07-06T11:15:00+01:00" ],
     "category" : [ "cute" ],
