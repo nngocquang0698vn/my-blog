@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/McAuleyATL/status/1279248758409216000" ],
     "name" : [ "Like of @McAuleyATL's tweet" ],
     "published" : [ "2020-07-06T11:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/McAuleyATL/status/1279248758409216000" ]
