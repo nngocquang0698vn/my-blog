@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DevRelCallum/status/1280433154805960705" ],
     "name" : [ "Like of @DevRelCallum's tweet" ],
     "published" : [ "2020-07-07T10:29:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
