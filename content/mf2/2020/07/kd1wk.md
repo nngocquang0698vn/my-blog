@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/wolframkriesing/status/1280534516201918466" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1280542578866294791" ],
     "name" : [ "Reply to https://twitter.com/wolframkriesing/status/1280534516201918466" ],
     "published" : [ "2020-07-07T16:34:08.86Z" ],
     "category" : [ ],
