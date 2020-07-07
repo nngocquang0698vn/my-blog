@@ -33,7 +33,7 @@ puts jwk.thumbprint(hash)
 This allows us to run the following:
 
 ```sh
-ruby thumb.rb path/to/private.pem       # works with private key or public key
+ruby thumb.rb path/to/private.pem      # works with private key or public key
 ruby thumb.rb path/to/public.pem       # to use default hash algorithm
 ruby thumb.rb path/to/public.pem SHA-1 # to specify our own
 ```
