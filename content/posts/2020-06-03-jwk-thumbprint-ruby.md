@@ -15,10 +15,25 @@ As mentioned in [_How are Open Banking Key Ids (`kid`) Generated?_]({{< ref 2020
 But these may be used in other circumstances, so it's worth knowing how to generate them. Instead of hand-rolling the generation process, we can re-use the excellent [json-jwt](https://github.com/nov/json-jwt):
 
 ```ruby
+#!/usr/bin/env ruby
 require 'json/jwt'
 
 def read_key(fname)
-  OpenSSL::PKey.read(File.read fname)
+  contents = File.read fname
+
+  begin
+    return OpenSSL::X509::Certificate.new(contents).public_key
+  rescue
+    # ignore
+  end
+
+  begin
+    return OpenSSL::PKey.read contents
+  rescue
+    # ignore
+  end
+
+  raise "#{fname} could not be parsed as a certificate, public or private key"
 end
 
 hash = ARGV[1] || 'sha256'
@@ -34,6 +49,7 @@ This allows us to run the following:
 
 ```sh
 ruby thumb.rb path/to/private.pem      # works with private key or public key
+ruby thumb.rb path/to/public.cer       # works with certificates
 ruby thumb.rb path/to/public.pem       # to use default hash algorithm
 ruby thumb.rb path/to/public.pem SHA-1 # to specify our own
 ```

@@ -35,6 +35,7 @@ const hash = args[1] || 'SHA-256';
 This allows us to run the following:
 
 ```sh
+node thumb.js path/to/public.cer       # works with certificates
 node thumb.js path/to/public.pem       # to use default hash algorithm
 node thumb.js path/to/public.pem SHA-1 # to specify our own
 ```
