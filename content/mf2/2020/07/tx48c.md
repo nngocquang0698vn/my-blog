@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davidhoang/status/1280867525480202242" ],
     "name" : [ "Like of @davidhoang's tweet" ],
     "published" : [ "2020-07-08T22:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/davidhoang/status/1280867525480202242" ]
