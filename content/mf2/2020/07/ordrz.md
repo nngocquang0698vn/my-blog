@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1280934521010077697" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website club - Anna (holding Anna and Jamie's black cat, Morph), Carol, Jamie, and Matt (holding Hylas, a Bearded Dragon)",
       "photo" : "https://media.jvt.me/726b94dfe0.png"
