@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ianmiell/status/1280971142539415553" ],
     "name" : [ "Like of @ianmiell's tweet" ],
     "published" : [ "2020-07-08T22:12:00+01:00" ],
     "like-of" : [ "https://twitter.com/ianmiell/status/1280971142539415553" ]
