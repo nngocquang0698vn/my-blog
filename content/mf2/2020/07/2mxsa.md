@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/balhayre/status/1280612248420061187" ],
     "name" : [ "Like of @balhayre's tweet" ],
     "published" : [ "2020-07-08T18:28:00+01:00" ],
     "like-of" : [ "https://twitter.com/balhayre/status/1280612248420061187" ]
