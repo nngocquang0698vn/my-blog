@@ -9,6 +9,5 @@
   },
   "kind" : "likes",
   "slug" : "2020/04/aoega",
-  "aliases" : null,
   "client_id" : "https://indigenous.realize.be"
 }

@@ -42,8 +42,7 @@
           ],
           "locality": [
             "New York City"
-          ],
-          "country-name": null
+          ]
         },
         "type": [
           "h-adr"

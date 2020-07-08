@@ -41,7 +41,6 @@
           "street-address": [
             "72 Maid Marian Way"
           ],
-          "locality": null,
           "country-name": [
             "United Kingdom"
           ]

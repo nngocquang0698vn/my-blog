@@ -14,7 +14,6 @@
     "published": [
       "2019-12-24T12:03:00Z"
     ],
-    "repost-of": null,
     "syndication": [
       "https://twitter.com/DanLaChapelle/status/1208818343857311746"
     ]

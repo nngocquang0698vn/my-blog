@@ -10,6 +10,5 @@
   },
   "kind" : "steps",
   "slug" : "2020/04/4qr5g",
-  "tags" : null,
   "client_id" : "https://www-api.jvt.me/fit"
 }

@@ -15,6 +15,5 @@
   },
   "kind" : "replies",
   "slug" : "2020/04/hqtyq",
-  "tags" : null,
   "client_id" : "https://indigenous.realize.be"
 }

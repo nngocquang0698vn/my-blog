@@ -33,12 +33,11 @@
       "location": {
         "properties": {
           "street-address": [
-            "Fletcher Gate, null"
+            "Fletcher Gate"
           ],
           "locality": [
             "Nottingham"
           ],
-          "country-name": null,
           "postal-code": [
             "NG1 1QQ"
           ]

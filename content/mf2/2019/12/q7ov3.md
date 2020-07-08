@@ -38,7 +38,6 @@
           "locality": [
             "London"
           ],
-          "country-name": null,
           "postal-code": [
             "EC2A 2DB"
           ]

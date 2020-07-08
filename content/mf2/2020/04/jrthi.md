@@ -88,7 +88,6 @@
       ]
     }
   },
-  "aliases": null,
   "tags": [
     "politics"
   ],

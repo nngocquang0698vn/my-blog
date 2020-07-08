@@ -11,6 +11,5 @@
   },
   "kind" : "steps",
   "slug" : "2020/04/l5ns1",
-  "aliases" : null,
   "client_id" : "https://www-api.jvt.me/fit"
 }

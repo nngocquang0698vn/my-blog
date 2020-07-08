@@ -81,6 +81,5 @@
       ]
     }
   },
-  "aliases": null,
   "client_id": "https://indigenous.realize.be"
 }

@@ -37,8 +37,7 @@
           ],
           "locality": [
             "London"
-          ],
-          "country-name": null
+          ]
         },
         "type": [
           "h-adr"

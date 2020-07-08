@@ -27,7 +27,6 @@
   },
   "kind": "notes",
   "slug": "2020/04/pnwtn",
-  "aliases": null,
   "tags": [
     "morph"
   ],

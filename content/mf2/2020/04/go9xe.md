@@ -92,6 +92,5 @@
       ]
     }
   },
-  "tags": null,
   "client_id": "https://micropublish.net"
 }

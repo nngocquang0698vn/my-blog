@@ -17,6 +17,5 @@
   },
   "kind": "notes",
   "slug": "2020/04/rix6l",
-  "tags": null,
   "client_id": "https://micropublish.net"
 }
