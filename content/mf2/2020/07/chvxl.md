@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1280936599254114304" ],
     "photo" : [ {
       "alt" : "A screenshot of Indigenous for Android, listing several of Jamie's posts on his site",
       "photo" : "https://media.jvt.me/5a9abbb797.png"
