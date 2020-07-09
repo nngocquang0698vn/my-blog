@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nick_Craver/status/1280965342806900736" ],
     "name" : [ "Like of @Nick_Craver's tweet" ],
     "published" : [ "2020-07-09T16:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/Nick_Craver/status/1280965342806900736" ]
