@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nefyn92/status/1280939445655670786" ],
     "name" : [ "Like of @nefyn92's tweet" ],
     "published" : [ "2020-07-09T16:30:00+01:00" ],
     "category" : [ "food" ],
