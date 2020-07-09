@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GosiaBorzecka/status/1281180345082286081" ],
     "name" : [ "Like of @GosiaBorzecka's tweet" ],
     "published" : [ "2020-07-09T15:01:56.041Z" ],
     "like-of" : [ "https://twitter.com/GosiaBorzecka/status/1281180345082286081" ]
