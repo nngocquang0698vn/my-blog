@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1281303024737103872" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2020-07-09T22:24:00+01:00" ],
     "category" : [ "coronavirus" ],
