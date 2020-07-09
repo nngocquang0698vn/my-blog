@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tommycollison/status/1281070586651791361" ],
     "name" : [ "Like of @tommycollison's tweet" ],
     "published" : [ "2020-07-09T22:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/tommycollison/status/1281070586651791361" ]
