@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pavlakis/status/1281166944973004807" ],
     "name" : [ "Like of @pavlakis's tweet" ],
     "published" : [ "2020-07-09T15:02:08.016Z" ],
     "like-of" : [ "https://twitter.com/pavlakis/status/1281166944973004807" ]
