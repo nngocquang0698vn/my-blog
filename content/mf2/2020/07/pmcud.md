@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @midgetjems's tweet" ],
     "published" : [ "2020-07-09T22:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/midgetjems/status/1281128600301907969" ]
