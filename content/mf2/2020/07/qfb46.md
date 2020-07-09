@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/samwilkinson/status/1280503131873427459" ],
     "name" : [ "Like of @samwilkinson's tweet" ],
     "published" : [ "2020-07-09T15:38:03.342Z" ],
     "like-of" : [ "https://twitter.com/samwilkinson/status/1280503131873427459" ]
