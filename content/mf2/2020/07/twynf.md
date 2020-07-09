@@ -3,9 +3,9 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "published" : [ "2020-07-09T18:28:00+01:00" ],
     "in-reply-to" : [ "https://twitter.com/PandelisZ/status/1281273812470894593" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1281286624417132546" ],
+    "published" : [ "2020-07-09T18:28:00+01:00" ],
     "category" : [ "gravatar" ],
     "content" : [ {
       "html" : "",
