@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/houmanB/status/1259928335569817602" ],
     "name" : [ "Like of @houmanB's tweet" ],
     "published" : [ "2020-07-09T22:51:00+01:00" ],
     "category" : [ "personal-website" ],
