@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Marcus_Noble_/status/1281297929311903744" ],
     "name" : [ "Like of @Marcus_Noble_'s tweet" ],
     "published" : [ "2020-07-09T19:49:00+01:00" ],
     "category" : [ "phpminds", "kubernetes" ],
