@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LandTanin/status/1281179417847517186" ],
     "name" : [ "Like of @LandTanin's tweet" ],
     "published" : [ "2020-07-09T15:01:38.907Z" ],
     "like-of" : [ "https://twitter.com/LandTanin/status/1281179417847517186" ]
