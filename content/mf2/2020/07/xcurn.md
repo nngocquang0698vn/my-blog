@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1281499145124159490" ],
     "photo" : [ {
       "alt" : "Black cat wrapped up in a blue blanket, being held by Anna, looking at the camera with one paw looking a little kneady",
       "photo" : "https://media.jvt.me/54a1e8f7ea.jpeg"
