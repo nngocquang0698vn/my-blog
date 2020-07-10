@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PatsATweetin/status/1281652851974914048" ],
     "name" : [ "Like of @PatsATweetin's tweet" ],
     "published" : [ "2020-07-10T20:23:00+01:00" ],
     "category" : [ "mario" ],
