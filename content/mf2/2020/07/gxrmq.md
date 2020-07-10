@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vlad_mihalcea/status/1281303469043978242" ],
     "name" : [ "Like of @vlad_mihalcea's tweet" ],
     "published" : [ "2020-07-11T00:36:00+01:00" ],
     "category" : [ "open-source" ],
