@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lt_JerkFace/status/1281279070160945153" ],
     "name" : [ "Like of @Lt_JerkFace's tweet" ],
     "published" : [ "2020-07-10T08:17:00+01:00" ],
     "category" : [ "cute" ],
