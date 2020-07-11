@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mr_goodwin/status/1281877862799290369" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1281899278101872640" ],
     "name" : [ "Reply to https://twitter.com/mr_goodwin/status/1281877862799290369" ],
     "published" : [ "2020-07-11T11:25:00+01:00" ],
     "category" : [ ],
