@@ -16,8 +16,8 @@ In 20xx, I listened to 267120.03 minutes (4452.0 hours, 185.5 days) of music on 
   <table>
     <tr>
       <th>Song Title</th>
-      <th>Minutes Elapsed (% of the year)</th>
-      <th>Hours Elapsed (% of the year)</th>
+      <th>Minutes Elapsed</th>
+      <th>Hours Elapsed</th>
     </tr>
     <tr>
       <td>deadmau5 - Ghosts 'n' Stuff</td>
@@ -1027,8 +1027,8 @@ In 20xx, I listened to 267120.03 minutes (4452.0 hours, 185.5 days) of music on 
   <table>
     <tr>
       <th>Artist</th>
-      <th>Minutes Elapsed (% of the year)</th>
-      <th>Hours Elapsed (% of the year)</th>
+      <th>Minutes Elapsed</th>
+      <th>Hours Elapsed</th>
     </tr>
     <tr>
       <td>Various Artists</td>
@@ -1288,8 +1288,8 @@ In 20xx, I listened to 267120.03 minutes (4452.0 hours, 185.5 days) of music on 
   <table>
     <tr>
       <th>Album Title</th>
-      <th>Minutes Elapsed (% of the year)</th>
-      <th>Hours Elapsed (% of the year)</th>
+      <th>Minutes Elapsed</th>
+      <th>Hours Elapsed</th>
     </tr>
     <tr>
       <td>Uppermost - One</td>
