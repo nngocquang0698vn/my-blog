@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TatianaTMac/status/1281975787550208005" ],
     "name" : [ "Like of @TatianaTMac's tweet" ],
     "published" : [ "2020-07-11T23:57:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
