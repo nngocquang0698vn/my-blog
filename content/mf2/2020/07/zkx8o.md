@@ -1,0 +1,47 @@
+{
+  "date" : "2020-07-11T23:55:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @blowdart's tweet" ],
+    "published" : [ "2020-07-11T23:55:00+01:00" ],
+    "category" : [ "food" ],
+    "like-of" : [ "https://twitter.com/blowdart/status/1281982191304499202" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/zkx8o",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1281982191304499202" ],
+      "url" : [ "https://twitter.com/blowdart/status/1281982191304499202" ],
+      "published" : [ "2020-07-11T16:02:27+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:blowdart" ],
+          "numeric-id" : [ "1847381" ],
+          "name" : [ "Barry Dorrans" ],
+          "nickname" : [ "blowdart" ],
+          "url" : [ "https://twitter.com/blowdart", "http://idunno.org" ],
+          "published" : [ "2007-03-22T07:22:39+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/977262779584339968/qo-39vSi.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Hey @NerdPyle pizza for you",
+        "html" : "Hey <a href=\"https://twitter.com/NerdPyle\">@NerdPyle</a> pizza for you"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EcqEAboU4AADdV9.jpg" ]
+    }
+  },
+  "tags" : [ "food" ],
+  "client_id" : "https://indigenous.realize.be"
+}
