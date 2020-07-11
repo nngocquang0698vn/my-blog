@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1281923788972732416" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2020-07-11T13:19:00+01:00" ],
     "category" : [ "monzo" ],
