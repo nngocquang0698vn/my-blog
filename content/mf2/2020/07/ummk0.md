@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/illucifer/status/1281848968885002240" ],
     "name" : [ "Like of @illucifer's tweet" ],
     "published" : [ "2020-07-11T13:21:00+01:00" ],
     "category" : [ "politics" ],
