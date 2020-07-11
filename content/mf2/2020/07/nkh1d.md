@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimMFelton/status/1281696203856633857" ],
     "name" : [ "Like of @JimMFelton's tweet" ],
     "published" : [ "2020-07-11T15:42:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
