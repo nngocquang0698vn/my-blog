@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jimwaterson/status/1281689172928081926" ],
     "name" : [ "Like of @jimwaterson's tweet" ],
     "published" : [ "2020-07-11T13:24:00+01:00" ],
     "category" : [ "coronavirus" ],
