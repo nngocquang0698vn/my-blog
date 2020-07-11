@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/snarfed/bridgy/issues" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/snarfed/bridgy/issues/957" ],
     "name" : [ "GitHub syndication with blockquotes does not seem to quite work" ],
     "published" : [ "2020-07-11T21:43:38.468Z" ],
     "category" : [ ],
