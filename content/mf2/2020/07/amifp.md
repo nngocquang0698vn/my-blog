@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrDarrenV/status/1281904827484770305" ],
     "name" : [ "Like of @MrDarrenV's tweet" ],
     "published" : [ "2020-07-11T13:19:00+01:00" ],
     "category" : [ "monzo" ],
