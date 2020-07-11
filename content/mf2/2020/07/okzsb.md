@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrianRoemmele/status/1281597902398164992" ],
     "name" : [ "Like of @BrianRoemmele's tweet" ],
     "published" : [ "2020-07-11T22:52:00+01:00" ],
     "like-of" : [ "https://twitter.com/BrianRoemmele/status/1281597902398164992" ]
