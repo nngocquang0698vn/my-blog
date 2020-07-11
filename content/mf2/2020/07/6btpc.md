@@ -1,0 +1,47 @@
+{
+  "date" : "2020-07-11T23:57:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @TatianaTMac's tweet" ],
+    "published" : [ "2020-07-11T23:57:00+01:00" ],
+    "category" : [ "diversity-and-inclusion" ],
+    "like-of" : [ "https://twitter.com/TatianaTMac/status/1281975787550208005" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/6btpc",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1281975787550208005" ],
+      "url" : [ "https://twitter.com/TatianaTMac/status/1281975787550208005" ],
+      "published" : [ "2020-07-11T15:37:00+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/nonswearyphil/status/1281975596772401153" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:TatianaTMac" ],
+          "numeric-id" : [ "1529722572" ],
+          "name" : [ "Tatiana Mac" ],
+          "nickname" : [ "TatianaTMac" ],
+          "url" : [ "https://twitter.com/TatianaTMac", "https://www.tatianamac.com" ],
+          "published" : [ "2013-06-19T04:59:25+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "she/they/hän 💖💛💙" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1266645648280924162/WHcwjW3d.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I’m not sure one should be considered default? Nothing about race is neutral",
+        "html" : "I’m not sure one should be considered default? Nothing about race is neutral\n<a class=\"u-mention\" href=\"https://twitter.com/nonswearyphil\"></a>"
+      } ]
+    }
+  },
+  "tags" : [ "diversity-and-inclusion" ],
+  "client_id" : "https://indigenous.realize.be"
+}
