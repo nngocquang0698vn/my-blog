@@ -37,5 +37,5 @@ To do this we can utilise `openssl`:
 
 ```sh
 $ echo -n "value-to-digest" | openssl dgst -sha256 -hmac "secret-key-here" -binary | openssl enc -base64 -A
-// G73zFnFYggHRpmwuRFPgch6ctqEfyhZu33j5PQWYm+4=
+# G73zFnFYggHRpmwuRFPgch6ctqEfyhZu33j5PQWYm+4=
 ```
