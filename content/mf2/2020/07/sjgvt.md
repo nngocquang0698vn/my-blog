@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1282071502397956096" ],
     "published" : [ "2020-07-11T22:51:00+01:00" ],
     "repost-of" : [ "https://twitter.com/ParissAthena/status/1281958370598178818" ],
     "category" : [ "coronavirus" ],
