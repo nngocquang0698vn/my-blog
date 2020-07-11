@@ -1,0 +1,70 @@
+{
+  "date" : "2020-07-11T19:46:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @CarolSaysThings's tweet" ],
+    "published" : [ "2020-07-11T19:46:00+01:00" ],
+    "category" : [ "apple" ],
+    "like-of" : [ "https://twitter.com/CarolSaysThings/status/1281935984066691072" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/zg3fv",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1281935984066691072" ],
+      "url" : [ "https://twitter.com/CarolSaysThings/status/1281935984066691072" ],
+      "published" : [ "2020-07-11T12:58:50+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+          "numeric-id" : [ "36382927" ],
+          "name" : [ "Carol 😅" ],
+          "nickname" : [ "CarolSaysThings" ],
+          "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+          "published" : [ "2009-04-29T15:22:13+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "html" : "RT <a href=\"https://twitter.com/ios_memes/status/1264872904816234496\">@ios_memes</a> <div style=\"white-space: pre\">🙈\n\n(From <a href=\"https://twitter.com/AustinConlon\">@AustinConlon</a>)</div>"
+      } ],
+      "repost-of" : [ {
+        "type" : [ "h-cite" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:1264872904816234496" ],
+          "url" : [ "https://twitter.com/ios_memes/status/1264872904816234496" ],
+          "published" : [ "2020-05-25T10:56:15+00:00" ],
+          "author" : [ {
+            "type" : [ "h-card" ],
+            "properties" : {
+              "uid" : [ "tag:twitter.com:ios_memes" ],
+              "numeric-id" : [ "1152108840068030464" ],
+              "name" : [ "A meme page to check while Xcode is indexing files" ],
+              "nickname" : [ "ios_memes" ],
+              "url" : [ "https://twitter.com/ios_memes" ],
+              "published" : [ "2019-07-19T06:52:07+00:00" ],
+              "photo" : [ "https://pbs.twimg.com/profile_images/1152110497556287488/QQzR6tNr.jpg" ]
+            }
+          } ],
+          "content" : [ {
+            "value" : "🙈\n\n(From @AustinConlon)",
+            "html" : "<div style=\"white-space: pre\">🙈\n\n(From <a href=\"https://twitter.com/AustinConlon\">@AustinConlon</a>)</div>"
+          } ],
+          "photo" : [ "https://pbs.twimg.com/media/EY27M7HX0AAHoLo.jpg" ]
+        }
+      } ]
+    }
+  },
+  "tags" : [ "apple" ],
+  "client_id" : "https://indigenous.realize.be"
+}
