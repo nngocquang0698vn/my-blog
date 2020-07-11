@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JuliaDavisNews/status/1281605689622880256" ],
     "name" : [ "Like of @JuliaDavisNews's tweet" ],
     "published" : [ "2020-07-11T13:21:00+01:00" ],
     "category" : [ "politics" ],
