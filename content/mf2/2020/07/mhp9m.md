@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1282058010374942720" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-07-11T22:46:00+01:00" ],
     "category" : [ "coronavirus", "marvel" ],
