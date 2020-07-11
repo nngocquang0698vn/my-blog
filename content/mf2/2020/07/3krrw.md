@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/troubledmn/status/1281629734149984257" ],
     "name" : [ "Like of @troubledmn's tweet" ],
     "published" : [ "2020-07-11T11:35:00+01:00" ],
     "category" : [ "disney" ],
