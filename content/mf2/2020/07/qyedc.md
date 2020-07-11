@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dubstep4dads/status/1282018221294419969" ],
     "name" : [ "Like of @dubstep4dads's tweet" ],
     "published" : [ "2020-07-11T23:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/dubstep4dads/status/1282018221294419969" ]
