@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xdesro/status/1281354415664963585" ],
     "name" : [ "Like of @xdesro's tweet" ],
     "published" : [ "2020-07-11T11:36:00+01:00" ],
     "category" : [ "github" ],
