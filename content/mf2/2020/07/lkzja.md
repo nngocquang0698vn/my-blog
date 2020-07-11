@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CMWAshby/status/1281687221238718464" ],
     "name" : [ "Like of @CMWAshby's tweet" ],
     "published" : [ "2020-07-11T15:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/CMWAshby/status/1281687221238718464" ]
