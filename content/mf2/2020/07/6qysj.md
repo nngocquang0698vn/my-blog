@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/gohugoio/hugo/issues/6992" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/gohugoio/hugo/issues/6992#issuecomment-657055328" ],
     "name" : [ "Reply to https://github.com/gohugoio/hugo/issues/6992" ],
     "published" : [ "2020-07-11T12:15:40.811Z" ],
     "category" : [ ],
