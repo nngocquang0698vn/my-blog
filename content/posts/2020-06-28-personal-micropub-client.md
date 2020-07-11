@@ -16,6 +16,8 @@ syndication:
   url: https://indieweb.xyz/en/indieweb
 - text: /en/microformats
   url: https://indieweb.xyz/en/microformats
+- text: Lobsters
+  url: https://lobste.rs/s/ox798y/creating_my_own_personal_micropub_client
 ---
 # Why?
 
