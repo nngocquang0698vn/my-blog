@@ -1,0 +1,47 @@
+{
+  "date" : "2020-07-11T13:19:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @paulienuh's tweet" ],
+    "published" : [ "2020-07-11T13:19:00+01:00" ],
+    "category" : [ "monzo" ],
+    "like-of" : [ "https://twitter.com/paulienuh/status/1281923788972732416" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/pyvvo",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1281923788972732416" ],
+      "url" : [ "https://twitter.com/paulienuh/status/1281923788972732416" ],
+      "published" : [ "2020-07-11T12:10:22+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/MrDarrenV/status/1281922825545277441" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:paulienuh" ],
+          "numeric-id" : [ "230185453" ],
+          "name" : [ "Pauline P. Narvas➖pawlean.com" ],
+          "nickname" : [ "paulienuh" ],
+          "url" : [ "https://twitter.com/paulienuh", "https://pawlean.com" ],
+          "published" : [ "2010-12-24T14:46:00+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Leeds, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1265398650395639813/PfESApun.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Knowing Monzo, I’m sure that they will ensure that they are still as reliable as ever. 💜 Fingers crossed!",
+        "html" : "Knowing Monzo, I’m sure that they will ensure that they are still as reliable as ever. 💜 Fingers crossed!\n<a class=\"u-mention\" href=\"https://twitter.com/MrDarrenV\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/monzo\"></a>"
+      } ]
+    }
+  },
+  "tags" : [ "monzo" ],
+  "client_id" : "https://indigenous.realize.be"
+}
