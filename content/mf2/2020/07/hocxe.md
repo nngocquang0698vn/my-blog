@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zachleat/status/1282161521934716928" ],
     "name" : [ "Like of @zachleat's tweet" ],
     "published" : [ "2020-07-12T09:07:00+01:00" ],
     "category" : [ "web" ],
