@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kefimochi/status/1282338499266400256" ],
     "name" : [ "Like of @kefimochi's tweet" ],
     "published" : [ "2020-07-12T17:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/kefimochi/status/1282338499266400256" ]
