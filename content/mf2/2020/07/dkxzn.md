@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StillDelvingH/status/1282006108559867904" ],
     "name" : [ "Like of @StillDelvingH's tweet" ],
     "published" : [ "2020-07-12T09:10:00+01:00" ],
     "category" : [ "politics" ],
