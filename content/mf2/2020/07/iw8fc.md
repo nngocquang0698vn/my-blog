@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JuliaSawalha1/status/1281303593337982976" ],
     "name" : [ "Like of @JuliaSawalha1's tweet" ],
     "published" : [ "2020-07-12T10:53:00+01:00" ],
     "category" : [ "chicken-run" ],
