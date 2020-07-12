@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1282269872613924864" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1282278373155385347" ],
     "name" : [ "Reply to https://twitter.com/CarolSaysThings/status/1282269872613924864" ],
     "published" : [ "2020-07-12T12:32:00+01:00" ],
     "category" : [ ],
