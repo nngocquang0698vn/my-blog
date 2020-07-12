@@ -1,0 +1,80 @@
+{
+  "date" : "2020-07-12T21:50:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "published" : [ "2020-07-12T21:50:00+01:00" ],
+    "repost-of" : [ "https://twitter.com/edent/status/1282322166848135169" ],
+    "category" : [ "tech-nottingham" ],
+    "content" : [ {
+      "html" : "",
+      "value" : "I'm very excited for this <a href=\"/tags/tech-nottingham/\">#TechNott</a> tomorrow! @shkspr.mobi is an awesome speaker, you don't wanna miss out on a great evening"
+    } ]
+  },
+  "kind" : "reposts",
+  "slug" : "2020/07/vjtts",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1282322166848135169" ],
+      "url" : [ "https://twitter.com/edent/status/1282322166848135169" ],
+      "published" : [ "2020-07-12T14:33:23+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:edent" ],
+          "numeric-id" : [ "14054507" ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "https://edent.tel" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Afternoon gang!\nI'm doing a talk tomorrow night. All about horrible Internet gadgets I've installed in my home.\nFree to attend. A splendid time is guaranteed for all.",
+        "html" : "<div style=\"white-space: pre\">Afternoon gang!\nI'm doing a talk tomorrow night. All about horrible Internet gadgets I've installed in my home.\nFree to attend. A splendid time is guaranteed for all.</div>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1281483294639439872" ],
+        "url" : [ "https://twitter.com/technottingham/status/1281483294639439872" ],
+        "video" : [ "https://video.twimg.com/tweet_video/EbJC_VCWoAck2nh.mp4" ],
+        "published" : [ "2020-07-10T07:00:00+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:technottingham" ],
+            "numeric-id" : [ "384492431" ],
+            "name" : [ "Tech Nottingham" ],
+            "nickname" : [ "technottingham" ],
+            "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+            "published" : [ "2011-10-03T19:47:31+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Nottingham" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "Happy Friday #TechNott friends 🍉\n\nWe hope to see you all on Monday for July's event, featuring the inimitable @edent and a fun mystery activity 👀\n\nWhat could it be? Hint: ❓💰☎️🎤\n\nSee you there! Grab the deets below 👇\nnott.tech/tn-july-2020",
+          "html" : "<div style=\"white-space: pre\">Happy Friday <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> friends 🍉\n\nWe hope to see you all on Monday for July's event, featuring the inimitable <a href=\"https://twitter.com/edent\">@edent</a> and a fun mystery activity 👀\n\nWhat could it be? Hint: ❓💰☎️🎤\n\nSee you there! Grab the deets below 👇\n<a href=\"https://nott.tech/tn-july-2020\">nott.tech/tn-july-2020</a></div>"
+        } ]
+      }
+    } ]
+  },
+  "tags" : [ "tech-nottingham" ],
+  "client_id" : "https://indigenous.realize.be"
+}
