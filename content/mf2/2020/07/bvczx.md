@@ -12,7 +12,7 @@
     "category" : [ "morph" ],
     "content" : [ {
       "html" : "",
-      "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided he wants to nap where its cool and safe, today"
+      "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided he wants to nap where it's cool and safe, today"
     } ]
   },
   "kind" : "notes",
