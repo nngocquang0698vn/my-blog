@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Owl__Kitty/status/1282233373922955264" ],
     "name" : [ "Like of @Owl__Kitty's tweet" ],
     "published" : [ "2020-07-12T10:53:00+01:00" ],
     "category" : [ "cute" ],
