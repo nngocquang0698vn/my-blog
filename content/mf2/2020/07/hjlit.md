@@ -1,0 +1,42 @@
+{
+  "date" : "2020-07-12T22:42:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @b7andonnn's tweet" ],
+    "published" : [ "2020-07-12T22:42:00+01:00" ],
+    "like-of" : [ "https://twitter.com/b7andonnn/status/1281949212918284289" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/hjlit",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1281949212918284289" ],
+      "url" : [ "https://twitter.com/b7andonnn/status/1281949212918284289" ],
+      "published" : [ "2020-07-11T13:51:24+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:b7andonnn" ],
+          "numeric-id" : [ "4463917773" ],
+          "name" : [ "brandon ☾" ],
+          "nickname" : [ "b7andonnn" ],
+          "url" : [ "https://twitter.com/b7andonnn" ],
+          "published" : [ "2015-12-12T22:51:02+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Merseyside" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1280997151544356870/6vYXG3bS.jpg" ]
+        }
+      } ],
+      "content" : [ "all of these houses are the same price." ],
+      "photo" : [ "https://pbs.twimg.com/media/EcpmAuqWoAA-N48.jpg", "https://pbs.twimg.com/media/EcpmAujXsAA-VHz.jpg", "https://pbs.twimg.com/media/EcpmAukX0AEvhA_.jpg", "https://pbs.twimg.com/media/EcpmAuuX0AAA59m.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
