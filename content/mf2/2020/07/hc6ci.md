@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rwdrich/status/1282355549699538945" ],
     "name" : [ "Like of @rwdrich's tweet" ],
     "published" : [ "2020-07-12T19:11:00+01:00" ],
     "category" : [ "coronavirus" ],
