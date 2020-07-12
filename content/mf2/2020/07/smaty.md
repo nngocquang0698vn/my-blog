@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AwardsDarwin/status/1282053165135941633" ],
     "name" : [ "Like of @AwardsDarwin's tweet" ],
     "published" : [ "2020-07-12T09:24:00+01:00" ],
     "category" : [ "coronavirus" ],
