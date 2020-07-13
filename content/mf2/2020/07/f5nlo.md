@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zck/status/1282574301418475521" ],
     "name" : [ "Like of @zck's tweet" ],
     "published" : [ "2020-07-14T00:31:00+01:00" ],
     "like-of" : [ "https://twitter.com/zck/status/1282574301418475521" ]
