@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/technottingham/status/1282698690419990528" ],
     "name" : [ "Like of @technottingham's tweet" ],
     "published" : [ "2020-07-13T15:31:01.475Z" ],
     "category" : [ "tech-nottingham" ],
