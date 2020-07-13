@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben_nuttall/status/1282598447049302016" ],
     "name" : [ "Like of @ben_nuttall's tweet" ],
     "published" : [ "2020-07-13T10:36:00+01:00" ],
     "category" : [ "open-source" ],
