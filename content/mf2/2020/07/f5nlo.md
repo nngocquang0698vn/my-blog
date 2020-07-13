@@ -1,0 +1,49 @@
+{
+  "date" : "2020-07-14T00:31:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @zck's tweet" ],
+    "published" : [ "2020-07-14T00:31:00+01:00" ],
+    "like-of" : [ "https://twitter.com/zck/status/1282574301418475521" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/f5nlo",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1282574301418475521" ],
+      "url" : [ "https://twitter.com/zck/status/1282574301418475521" ],
+      "published" : [ "2020-07-13T07:15:17+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:zck" ],
+          "numeric-id" : [ "106008077" ],
+          "name" : [ "Zak Kukoff" ],
+          "nickname" : [ "zck" ],
+          "url" : [ "https://twitter.com/zck", "http://zak.co", "http://zk.cm/tweets" ],
+          "published" : [ "2010-01-18T05:55:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1244826012233289728/iwtJpVgi.png" ]
+        }
+      } ],
+      "location" : [ {
+        "type" : [ "h-card", "p-location" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:5a110d312052166f" ],
+          "name" : [ "San Francisco, CA" ]
+        }
+      } ],
+      "content" : [ "My heart rate just spiked" ],
+      "photo" : [ "https://pbs.twimg.com/media/Ecyeh19VAAATSs7.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
