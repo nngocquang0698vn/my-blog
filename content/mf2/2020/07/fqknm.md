@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1282768316398960640" ],
     "published" : [ "2020-07-13T20:55:00+01:00" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1282756638693306369" ],
     "category" : [ "tech-nottingham" ],
