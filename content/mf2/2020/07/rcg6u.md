@@ -1,0 +1,42 @@
+{
+  "date" : "2020-07-13T10:43:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @raeudiger's tweet" ],
+    "published" : [ "2020-07-13T10:43:00+01:00" ],
+    "like-of" : [ "https://twitter.com/raeudiger/status/1282375633415348225" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/rcg6u",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1282375633415348225" ],
+      "url" : [ "https://twitter.com/raeudiger/status/1282375633415348225" ],
+      "published" : [ "2020-07-12T18:05:51+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:raeudiger" ],
+          "numeric-id" : [ "826713332107325441" ],
+          "name" : [ "⛧Räudig⛧" ],
+          "nickname" : [ "raeudiger" ],
+          "url" : [ "https://twitter.com/raeudiger" ],
+          "published" : [ "2017-02-01T08:46:32+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Aachen Germany" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1263157338317434882/JrbMJ74w.jpg" ]
+        }
+      } ],
+      "content" : [ "I just came across a dead hedgehog" ],
+      "photo" : [ "https://pbs.twimg.com/media/EcvpsBuXsAEPuO7.png" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
