@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/deadeyebrakeman/status/1282376398242410496" ],
     "name" : [ "Like of @deadeyebrakeman's tweet" ],
     "published" : [ "2020-07-13T10:37:00+01:00" ],
     "category" : [ "coronavirus" ],
