@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1282757558592311297" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2020-07-13T20:56:00+01:00" ],
     "category" : [ "tech-nottingham" ],
