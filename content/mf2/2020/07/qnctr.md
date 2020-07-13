@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TejasKumar_/status/1282710082342576131" ],
     "name" : [ "Like of @TejasKumar_'s tweet" ],
     "published" : [ "2020-07-13T17:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/TejasKumar_/status/1282710082342576131" ]
