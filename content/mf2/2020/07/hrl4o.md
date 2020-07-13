@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kentcdodds/status/1282708952312983557" ],
     "name" : [ "Like of @kentcdodds's tweet" ],
     "published" : [ "2020-07-13T17:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/kentcdodds/status/1282708952312983557" ]
