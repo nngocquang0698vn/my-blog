@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danbanbam/status/1282814957814333441" ],
     "name" : [ "Like of @danbanbam's tweet" ],
     "published" : [ "2020-07-14T14:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/danbanbam/status/1282814957814333441" ]
