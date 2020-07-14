@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/samnewman/status/1283033227385544710" ],
     "name" : [ "Like of @samnewman's tweet" ],
     "published" : [ "2020-07-14T14:40:00+01:00" ],
     "category" : [ "openapi" ],
