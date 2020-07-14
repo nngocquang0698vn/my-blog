@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gateway2Music/status/1283088168699518976" ],
     "name" : [ "Like of @Gateway2Music's tweet" ],
     "published" : [ "2020-07-14T18:18:00+01:00" ],
     "category" : [ "apex-legends" ],
