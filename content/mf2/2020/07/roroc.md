@@ -1,0 +1,43 @@
+{
+  "date" : "2020-07-14T18:01:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @garybernhardt's tweet" ],
+    "published" : [ "2020-07-14T18:01:00+01:00" ],
+    "category" : [ "testing" ],
+    "like-of" : [ "https://twitter.com/garybernhardt/status/1283084026706833408" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/roroc",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1283084026706833408" ],
+      "url" : [ "https://twitter.com/garybernhardt/status/1283084026706833408" ],
+      "published" : [ "2020-07-14T17:00:45+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:garybernhardt" ],
+          "numeric-id" : [ "809685" ],
+          "name" : [ "Gary Bernhardt" ],
+          "nickname" : [ "garybernhardt" ],
+          "url" : [ "https://twitter.com/garybernhardt", "http://destroyallsoftware.com" ],
+          "published" : [ "2007-03-04T05:12:14+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1170938305/twitter_headshot.png" ]
+        }
+      } ],
+      "content" : [ "the only thing worse than maintaining tests is not having tests" ]
+    }
+  },
+  "tags" : [ "testing" ],
+  "client_id" : "https://indigenous.realize.be"
+}
