@@ -1,0 +1,39 @@
+{
+  "date" : "2020-07-15T09:56:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @stjepansejic's tweet" ],
+    "published" : [ "2020-07-15T09:56:00+01:00" ],
+    "like-of" : [ "https://twitter.com/stjepansejic/status/1283189909365362695" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/mi9mz",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1283189909365362695" ],
+      "url" : [ "https://twitter.com/stjepansejic/status/1283189909365362695" ],
+      "published" : [ "2020-07-15T00:01:29+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:stjepansejic" ],
+          "numeric-id" : [ "714518060" ],
+          "name" : [ "stjepan sejic/ nebezial/ shiniez" ],
+          "nickname" : [ "stjepansejic" ],
+          "url" : [ "https://twitter.com/stjepansejic", "https://www.patreon.com/shiniebezial" ],
+          "published" : [ "2012-07-24T16:04:48+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276934900898201600/38oen5hG.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "i'm sorry....\n\nbut only  like... a little",
+        "html" : "<div style=\"white-space: pre\">i'm sorry....\n\nbut only  like... a little</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Ec7OV3tWsAAd1PQ.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
