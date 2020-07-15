@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mjg59/status/1283513060917837824" ],
     "name" : [ "Like of @mjg59's tweet" ],
     "published" : [ "2020-07-15T23:15:00+01:00" ],
     "category" : [ "twitter" ],
