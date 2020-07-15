@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TwitterSupport/status/1283518038445223936" ],
     "name" : [ "Like of @TwitterSupport's tweet" ],
     "published" : [ "2020-07-15T23:14:00+01:00" ],
     "category" : [ "twitter" ],
