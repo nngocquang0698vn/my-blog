@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/UnderTheBreach/status/1283499294541131776" ],
     "name" : [ "Like of @UnderTheBreach's tweet" ],
     "published" : [ "2020-07-15T22:06:00+01:00" ],
     "category" : [ "twitter" ],
