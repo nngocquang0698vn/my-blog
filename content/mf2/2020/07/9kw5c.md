@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danadonly/status/1283056790523920384" ],
     "name" : [ "Like of @danadonly's tweet" ],
     "published" : [ "2020-07-15T12:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/danadonly/status/1283056790523920384" ]
