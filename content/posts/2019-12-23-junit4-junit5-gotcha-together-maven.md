@@ -23,7 +23,7 @@ My solution to getting this working with Maven was via [the maven-surefire-plugi
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-surefire-plugin</artifactId>
-      <version>3.0.0-M4</version>
+      <version>3.0.0-M4</version> <!-- this version is important! -->
       <dependencies>
         <dependency>
           <groupId>org.junit.jupiter</groupId>
