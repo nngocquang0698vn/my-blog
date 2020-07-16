@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kieranmch/status/1283680037519208448" ],
     "name" : [ "Like of @kieranmch's tweet" ],
     "published" : [ "2020-07-16T09:46:00+01:00" ],
     "category" : [ "monzo" ],
