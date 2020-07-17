@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gomatgo/status/1283630633286156288" ],
     "name" : [ "Like of @gomatgo's tweet" ],
     "published" : [ "2020-07-17T14:31:00+01:00" ],
     "category" : [ "gaming", "coronavirus" ],
