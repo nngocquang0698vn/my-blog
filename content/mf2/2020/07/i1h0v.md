@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/benawad/status/1283944801797365761" ],
     "name" : [ "Like of @benawad's tweet" ],
     "published" : [ "2020-07-17T15:46:00+01:00" ],
     "category" : [ "css" ],
