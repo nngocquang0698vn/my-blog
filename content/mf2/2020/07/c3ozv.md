@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RReverser/status/1284134041449635840" ],
     "name" : [ "Like of @RReverser's tweet" ],
     "published" : [ "2020-07-17T15:47:00+01:00" ],
     "category" : [ "coronavirus" ],
