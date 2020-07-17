@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dnsprincess/status/1283885398918340613" ],
     "name" : [ "Like of @dnsprincess's tweet" ],
     "published" : [ "2020-07-17T10:35:00+01:00" ],
     "category" : [ "security" ],
