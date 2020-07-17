@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lizthegrey/status/1283958567452708865" ],
     "name" : [ "Like of @lizthegrey's tweet" ],
     "published" : [ "2020-07-17T14:32:00+01:00" ],
     "category" : [ "github" ],
