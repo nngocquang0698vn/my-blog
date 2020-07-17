@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1284211590598983680" ],
     "photo" : [ {
       "alt" : "Jamie's lap and legs wrapped in a red blanket, with Morph lying in his lap, very content",
       "photo" : "https://media.jvt.me/4dd0f5c05d.jpeg"
