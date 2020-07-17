@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sharifshameem/status/1284095222939451393" ],
     "name" : [ "Like of @sharifshameem's tweet" ],
     "published" : [ "2020-07-17T21:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/sharifshameem/status/1284095222939451393" ]
