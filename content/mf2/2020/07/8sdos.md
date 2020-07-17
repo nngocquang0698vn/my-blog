@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jayzinq/status/1283503944027774978" ],
     "name" : [ "Like of @Jayzinq's tweet" ],
     "published" : [ "2020-07-17T08:44:00+01:00" ],
     "category" : [ "shitpost" ],
