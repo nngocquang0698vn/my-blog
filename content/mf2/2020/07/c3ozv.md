@@ -1,0 +1,44 @@
+{
+  "date" : "2020-07-17T15:47:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @RReverser's tweet" ],
+    "published" : [ "2020-07-17T15:47:00+01:00" ],
+    "category" : [ "coronavirus" ],
+    "like-of" : [ "https://twitter.com/RReverser/status/1284134041449635840" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/c3ozv",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1284134041449635840" ],
+      "url" : [ "https://twitter.com/RReverser/status/1284134041449635840" ],
+      "published" : [ "2020-07-17T14:33:08+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:RReverser" ],
+          "numeric-id" : [ "97495292" ],
+          "name" : [ "Ingvar Stepanyan" ],
+          "nickname" : [ "RReverser" ],
+          "url" : [ "https://twitter.com/RReverser", "https://rreverser.com/" ],
+          "published" : [ "2009-12-17T18:11:55+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Ukraine ➩ London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1003930764852031488/boV5pzoa.jpg" ]
+        }
+      } ],
+      "content" : [ "Seeing packed restaurants after the lockdown was eased in the UK." ],
+      "photo" : [ "https://pbs.twimg.com/media/EdIo4N1XoAEDdlP.png" ]
+    }
+  },
+  "tags" : [ "coronavirus" ],
+  "client_id" : "https://indigenous.realize.be"
+}
