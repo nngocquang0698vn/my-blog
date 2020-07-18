@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricaJoy/status/1284269408664223744" ],
     "name" : [ "Like of @EricaJoy's tweet" ],
     "published" : [ "2020-07-18T10:55:00+01:00" ],
     "category" : [ "haha-business" ],
