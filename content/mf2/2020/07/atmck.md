@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_fenn/status/1284821089131143169" ],
     "name" : [ "Like of @katie_fenn's tweet" ],
     "published" : [ "2020-07-19T13:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/katie_fenn/status/1284821089131143169" ]
