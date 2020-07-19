@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PalmerReport/status/1284650701474463744" ],
     "name" : [ "Like of @PalmerReport's tweet" ],
     "published" : [ "2020-07-19T12:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/PalmerReport/status/1284650701474463744" ]
