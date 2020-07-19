@@ -1,6 +1,6 @@
 {
   "date" : "2020-06-17T07:37:00+01:00",
-  "deleted" : false,
+  "deleted" : true,
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/events/personal-events/2020-07-6kvrp/" ],
