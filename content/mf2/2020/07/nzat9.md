@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AdamConor/status/1284150793604608000" ],
     "name" : [ "Like of @AdamConor's tweet" ],
     "published" : [ "2020-07-19T13:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/AdamConor/status/1284150793604608000" ]
