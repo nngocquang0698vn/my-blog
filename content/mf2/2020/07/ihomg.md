@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anocam_/status/1284540822856200194" ],
     "name" : [ "Like of @anocam_'s tweet" ],
     "published" : [ "2020-07-19T13:30:00+01:00" ],
     "category" : [ "nature" ],
