@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MichalKonturek/status/1284886460643135491" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1285279342260629504" ],
     "name" : [ "Reply to https://twitter.com/MichalKonturek/status/1284886460643135491" ],
     "published" : [ "2020-07-20T19:11:00+01:00" ],
     "category" : [ "hugo", "jekyll", "personal-website" ],
