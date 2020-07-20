@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bit_shifts/status/1285194685070348289" ],
     "name" : [ "Like of @bit_shifts's tweet" ],
     "published" : [ "2020-07-20T17:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/bit_shifts/status/1285194685070348289" ]
