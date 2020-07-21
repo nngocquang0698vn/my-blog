@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1285587148297707521" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2020-07-21T17:15:00+01:00" ],
     "category" : [ "star-wars", "hamilton", "tiktok" ],
