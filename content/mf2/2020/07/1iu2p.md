@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/alexwire/status/1285827100289769473" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1285835339668611072" ],
     "name" : [ "Reply to https://twitter.com/alexwire/status/1285827100289769473" ],
     "published" : [ "2020-07-22T08:07:00+01:00" ],
     "category" : [ ],
