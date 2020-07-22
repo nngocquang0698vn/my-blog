@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/techwithtaz/status/1285907333340631040" ],
     "name" : [ "Like of @techwithtaz's tweet" ],
     "published" : [ "2020-07-22T17:07:00+01:00" ],
     "like-of" : [ "https://twitter.com/techwithtaz/status/1285907333340631040" ]
