@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wardrox/status/1285902646784790528" ],
     "name" : [ "Like of @wardrox's tweet" ],
     "published" : [ "2020-07-22T14:32:00+01:00" ],
     "like-of" : [ "https://twitter.com/wardrox/status/1285902646784790528" ]
