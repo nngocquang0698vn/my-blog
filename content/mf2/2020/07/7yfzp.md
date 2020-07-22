@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaffathecake/status/1285893384847020032" ],
     "name" : [ "Like of @jaffathecake's tweet" ],
     "published" : [ "2020-07-22T18:28:00+01:00" ],
     "category" : [ "amp", "rss" ],
