@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ctrlshifti/status/1286070376120778752" ],
     "name" : [ "Like of @ctrlshifti's tweet" ],
     "published" : [ "2020-07-23T08:13:00+01:00" ],
     "category" : [ "burnout" ],
