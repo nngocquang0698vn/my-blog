@@ -1,0 +1,43 @@
+{
+  "date" : "2020-07-23T08:13:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @ctrlshifti's tweet" ],
+    "published" : [ "2020-07-23T08:13:00+01:00" ],
+    "category" : [ "burnout" ],
+    "like-of" : [ "https://twitter.com/ctrlshifti/status/1286070376120778752" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/fauhx",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1286070376120778752" ],
+      "url" : [ "https://twitter.com/ctrlshifti/status/1286070376120778752" ],
+      "published" : [ "2020-07-22T22:47:26+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:ctrlshifti" ],
+          "numeric-id" : [ "1047644343874465792" ],
+          "name" : [ "Kat Maddox" ],
+          "nickname" : [ "ctrlshifti" ],
+          "url" : [ "https://twitter.com/ctrlshifti", "https://www.codemopolitan.com/" ],
+          "published" : [ "2018-10-04T00:27:30+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Gadigal land" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1271780443105325057/DYiRYlpd.jpg" ]
+        }
+      } ],
+      "content" : [ "isn't it weird that burnout is a completely accepted part of our culture. like yeah your job will wring all the life out of you and leave you a hollow husk lol just take a day off and drink more water" ]
+    }
+  },
+  "tags" : [ "burnout" ],
+  "client_id" : "https://indigenous.realize.be"
+}
