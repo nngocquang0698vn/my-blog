@@ -1,0 +1,79 @@
+{
+  "date" : "2020-07-24T21:52:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1286762810249285638" ],
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Reply to https://twitter.com/CarolSaysThings/status/1286762810249285638" ],
+    "published" : [ "2020-07-24T21:52:00+01:00" ],
+    "category" : [ ],
+    "content" : [ {
+      "html" : "",
+      "value" : "I'm super jealous of all these tech socks!"
+    } ]
+  },
+  "kind" : "replies",
+  "slug" : "2020/07/0sqli",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1286762810249285638" ],
+      "url" : [ "https://twitter.com/CarolSaysThings/status/1286762810249285638" ],
+      "published" : [ "2020-07-24T20:38:55+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+          "numeric-id" : [ "36382927" ],
+          "name" : [ "Carol 🌻" ],
+          "nickname" : [ "CarolSaysThings" ],
+          "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+          "published" : [ "2009-04-29T15:22:13+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg" ]
+        }
+      } ],
+      "content" : [ "So I may have accidentally collected a lot of tech socks 😅🧦" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1286755939832467456" ],
+        "url" : [ "https://twitter.com/CarolSaysThings/status/1286755939832467456" ],
+        "published" : [ "2020-07-24T20:11:37+00:00" ],
+        "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1286755046848372737" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+            "numeric-id" : [ "36382927" ],
+            "name" : [ "Carol 🌻" ],
+            "nickname" : [ "CarolSaysThings" ],
+            "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+            "published" : [ "2009-04-29T15:22:13+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "Like... a lot 😅",
+          "html" : "Like... a lot 😅\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MongoDB\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jackdomleo7\"></a>"
+        } ],
+        "photo" : [ "https://pbs.twimg.com/media/Edt5soSWsAId0RH.jpg" ]
+      }
+    } ]
+  },
+  "tags" : [ ],
+  "client_id" : "https://indigenous.realize.be"
+}
