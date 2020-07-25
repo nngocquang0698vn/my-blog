@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KeziyahL/status/1286727438614102016" ],
     "name" : [ "Like of @KeziyahL's tweet" ],
     "published" : [ "2020-07-25T01:03:00+01:00" ],
     "like-of" : [ "https://twitter.com/KeziyahL/status/1286727438614102016" ]
