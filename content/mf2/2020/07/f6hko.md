@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mr_goodwin/status/1286945025625128961" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1286963267525644288" ],
     "name" : [ "Reply to https://twitter.com/mr_goodwin/status/1286945025625128961" ],
     "published" : [ "2020-07-25T09:50:34.927Z" ],
     "category" : [ "personal-website", "homebrew-website-club" ],
