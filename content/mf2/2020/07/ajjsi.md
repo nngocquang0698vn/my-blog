@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/itsnaomiaustin/status/1287073606355296258" ],
     "name" : [ "Like of @itsnaomiaustin's tweet" ],
     "published" : [ "2020-07-25T18:24:00+01:00" ],
     "like-of" : [ "https://twitter.com/itsnaomiaustin/status/1287073606355296258" ]
