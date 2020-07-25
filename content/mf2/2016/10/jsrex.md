@@ -1,0 +1,55 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://www.jvt.me/",
+  "date": "2016-10-02T13:42:39+01:00",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP yes to https://www.meetup.com/Tech-Nottingham/events/234438401/"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/Tech-Nottingham/events/234438401/"
+    ],
+    "published": [
+      "2016-10-02T13:42:39+01:00"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/Tech-Nottingham/events/234438401/"
+      ],
+      "name": [
+        "Tech Nottingham October 2016 - The Mixed Reality Lab takes over!"
+      ],
+      "start": [
+        "2016-10-03T18:30:00+01:00"
+      ],
+      "end": [
+        "2016-10-03T21:00:00+01:00"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "Antenna, Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "slug": "2016/10/jsrex",
+  "aliases": [
+    "/mf2/25eec838-8b33-4378-9917-a94c3346c5ed/",
+    "/mf2/2016/10/JsreX"
+  ]
+}

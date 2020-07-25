@@ -1,0 +1,55 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://www.jvt.me/",
+  "date": "2019-04-24T22:54:20+01:00",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP yes to https://www.meetup.com/PHPMiNDS-in-Nottingham/events/260884497/"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/260884497/"
+    ],
+    "published": [
+      "2019-04-24T22:54:20+01:00"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/260884497/"
+      ],
+      "name": [
+        "Running your PHP site on AWS Lambda with Bref"
+      ],
+      "start": [
+        "2019-05-09T19:00:00+01:00"
+      ],
+      "end": [
+        "2019-05-09T21:00:00+01:00"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "JH, 34a Stoney Street, Nottingham, NG1 1NB"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "slug": "2019/04/jdlxq",
+  "aliases": [
+    "/mf2/1fc70794-7058-4b0b-8d3a-579dfd0dccd3/",
+    "/mf2/2019/04/JdlXq"
+  ]
+}

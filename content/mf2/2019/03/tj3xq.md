@@ -1,0 +1,55 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://www.jvt.me/",
+  "date": "2019-03-17T14:07:28+00:00",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP yes to https://www.meetup.com/Tech-Nottingham/events/259841002/"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/Tech-Nottingham/events/259841002/"
+    ],
+    "published": [
+      "2019-03-17T14:07:28+00:00"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/Tech-Nottingham/events/259841002/"
+      ],
+      "name": [
+        "Tech Nottingham April 2019: Teams and Gender"
+      ],
+      "start": [
+        "2019-04-08T18:30:00+01:00"
+      ],
+      "end": [
+        "2019-04-08T21:15:00+01:00"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "Antenna, Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "slug": "2019/03/tj3xq",
+  "aliases": [
+    "/mf2/0d3266d2-02ac-4cc7-aeb9-50bd04bb3799/",
+    "/mf2/2019/03/tJ3xq"
+  ]
+}

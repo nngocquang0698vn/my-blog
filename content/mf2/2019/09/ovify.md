@@ -1,0 +1,45 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://indigenous.realize.be",
+  "date": "2019-09-29T16:41:00+0200",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP no to https://tantek.com/2019/275/e1/homebrew-website-club-sf"
+    ],
+    "in-reply-to": [
+      "https://tantek.com/2019/275/e1/homebrew-website-club-sf"
+    ],
+    "published": [
+      "2019-09-29T16:41:00+0200"
+    ],
+    "rsvp": [
+      "no"
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "The POSSE to Twitter looks great! But unfortunately I won't be able to make it all that way"
+      }
+    ],
+    "event": {
+      "url": [
+        "https://tantek.com/2019/275/e1/homebrew-website-club-sf"
+      ],
+      "name": [
+        "Homebrew Website Club SF!"
+      ],
+      "start": [
+        "2019-10-02T18:30:00-0700"
+      ],
+      "end": [
+        "2019-10-02T19:30:00-0700"
+      ]
+    }
+  },
+  "slug": "2019/09/ovify",
+  "aliases": [
+    "/mf2/bff037d8-fd14-4448-880d-98f843f36cd7/",
+    "/mf2/2019/09/OVify"
+  ]
+}

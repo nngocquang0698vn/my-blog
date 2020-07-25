@@ -1,0 +1,64 @@
+{
+  "properties": {
+    "rsvp": [
+      "no"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/Summer-Of-Hacks-Oxford/events/261075078/"
+    ],
+    "content": [
+      {
+        "value": "I will now be attending IndieWebCamp Amsterdam - sorry Oxford! Hope everyone has a great time.",
+        "html": ""
+      }
+    ],
+    "published": [
+      "2019-05-18T09:08:09+0100"
+    ],
+    "category": [
+      "indiewebcamp"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/Summer-Of-Hacks-Oxford/events/261075078/"
+      ],
+      "name": [
+        "IndieWebCamp Oxford"
+      ],
+      "start": [
+        "2019-09-28T10:00:00+0100"
+      ],
+      "end": [
+        "2019-09-28T17:00:00+0100"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "Oxfordshire County Library, Queen St, Westgate"
+          ],
+          "locality": [
+            "Oxfordshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "aliases": [
+    "/rsvps/c7c2c71e-b972-4990-851d-d814d943b173/",
+    "/mf2/c7c2c71e-b972-4990-851d-d814d943b173/",
+    "/mf2/2019/05/Orj9j"
+  ],
+  "h": "h-entry",
+  "date": "2019-05-18T09:08:09+0100",
+  "tags": [
+    "indiewebcamp"
+  ],
+  "kind": "rsvps",
+  "slug": "2019/05/orj9j"
+}

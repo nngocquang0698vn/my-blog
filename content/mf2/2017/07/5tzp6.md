@@ -1,0 +1,55 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://www.jvt.me/",
+  "date": "2017-07-13T11:52:34+01:00",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP yes to https://www.meetup.com/ministry-of-testing-nottingham/events/szcpqmywlbdb/"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/ministry-of-testing-nottingham/events/szcpqmywlbdb/"
+    ],
+    "published": [
+      "2017-07-13T11:52:34+01:00"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/ministry-of-testing-nottingham/events/szcpqmywlbdb/"
+      ],
+      "name": [
+        "#NottsTest - An Intro to Jenkins!"
+      ],
+      "start": [
+        "2017-08-02T19:00:00+01:00"
+      ],
+      "end": [
+        "2017-08-02T19:00:00+01:00"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "JH,  34a Stoney Street, Nottingham, NG1 1NB."
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "slug": "2017/07/5tzp6",
+  "aliases": [
+    "/mf2/b4631b5f-2cab-4af7-8f8d-50be4f429b5a/",
+    "/mf2/2017/07/5Tzp6"
+  ]
+}

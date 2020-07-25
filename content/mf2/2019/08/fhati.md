@@ -1,0 +1,55 @@
+{
+  "properties": {
+    "rsvp": [
+      "no"
+    ],
+    "in-reply-to": [
+      "https://fosdem.org/2020/"
+    ],
+    "published": [
+      "2019-08-11T10:59:26Z"
+    ],
+    "category": [
+      "fosdem"
+    ],
+    "event": {
+      "url": [
+        "https://fosdem.org/2020/"
+      ],
+      "name": [
+        "FOSDEM 2020"
+      ],
+      "start": [
+        "2020-02-01T09:00:00+0100"
+      ],
+      "end": [
+        "2020-02-02T18:00:00+0100"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "ULB, Campus du Solbosch, Av. F. D. Roosevelt 50"
+          ],
+          "locality": [
+            "Brussels"
+          ],
+          "country-name": [
+            "Belgium"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "h": "h-entry",
+  "date": "2019-08-11T10:59:26Z",
+  "kind": "rsvps",
+  "slug": "2019/08/fhati",
+  "aliases": [
+    "/mf2/3d6476f0-d850-4bf4-9314-db0489793a0c/",
+    "/mf2/2019/08/fHAti"
+  ],
+  "tags": ["fosdem"]
+}

@@ -1,0 +1,55 @@
+{
+  "kind": "rsvps",
+  "client_id": "https://www.jvt.me/",
+  "date": "2016-12-19T17:30:15+00:00",
+  "h": "h-entry",
+  "properties": {
+    "name": [
+      "RSVP yes to https://www.meetup.com/Tech-Nottingham/events/236337041/"
+    ],
+    "in-reply-to": [
+      "https://www.meetup.com/Tech-Nottingham/events/236337041/"
+    ],
+    "published": [
+      "2016-12-19T17:30:15+00:00"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "event": {
+      "url": [
+        "https://www.meetup.com/Tech-Nottingham/events/236337041/"
+      ],
+      "name": [
+        "Tech Nottingham January 2017 - Starting fresh this New Year!"
+      ],
+      "start": [
+        "2017-01-09T18:30:00Z"
+      ],
+      "end": [
+        "2017-01-09T18:30:00Z"
+      ],
+      "location": {
+        "properties": {
+          "street-address": [
+            "Antenna, Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    }
+  },
+  "slug": "2016/12/4hesf",
+  "aliases": [
+    "/mf2/3c165da4-b5d3-438e-bf3c-cd61af8f823d/",
+    "/mf2/2016/12/4HESF"
+  ]
+}
