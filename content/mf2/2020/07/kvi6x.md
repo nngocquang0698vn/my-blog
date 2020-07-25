@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287013068065648641" ],
     "published" : [ "2020-07-25T14:08:00+01:00" ],
     "category" : [ "alexa", "spotify" ],
     "content" : [ {
