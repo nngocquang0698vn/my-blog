@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287031444708249601" ],
     "published" : [ "2020-07-25T15:22:00+01:00" ],
     "category" : [ "morph", "coronavirus" ],
     "content" : [ {
