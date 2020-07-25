@@ -20,7 +20,7 @@ With this announcement, I have two great pieces of news.
 
 The first, is that you'll now be able to follow my website's [h-feed](https://indieweb.org/h-feed), which is a [microformats2](http://indieweb.org/microformats2) structure for a feed of data. This is in addition to my RSS feed ([/feed.xml](/feed.xml)) and [my JSON feed]({{< ref "2019-04-07-jsonfeed" >}}) ([/feed.json](/feed.json)), and will allow further interoperability with the IndieWeb.
 
-The second is that I've now made all&#42; my content discoverable in these feed formats, including the types announced in [_Extending www.jvt.me to allow for other post types_]({{< ref "6b919e78-c46a-48e3-8866-9d9e9d41bb3d" >}}). They are rendering their content accordingly depending on the post type, and I've been able to make them nicely de-duplicated, [which I'll blog about shortly](https://gitlab.com/jamietanna/jvt.me/issues/464).
+The second is that I've now made all&#42; my content discoverable in these feed formats, including the types announced in [_Extending www.jvt.me to allow for other post types_](/mf2/6b919e78-c46a-48e3-8866-9d9e9d41bb3d/). They are rendering their content accordingly depending on the post type, and I've been able to make them nicely de-duplicated, [which I'll blog about shortly](https://gitlab.com/jamietanna/jvt.me/issues/464).
 
 &#42; I say all content is now discoverable in feeds, but I don't quite mean it. That's because I'm not displaying static pages such as [/about/](/about/), events pages, nor projects or talks. That's because these are static and don't make sense to exist in a regularly-changing feed.
 
