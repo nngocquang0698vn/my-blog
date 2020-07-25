@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1286989432764223489" ],
     "photo" : [ {
       "alt" : "Black cat sleeping on his side, between Jamie's outstretched legs, with his paws held slightly up",
       "photo" : "https://media.jvt.me/21923db090.jpeg"
