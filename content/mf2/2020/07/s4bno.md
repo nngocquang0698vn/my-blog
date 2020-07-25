@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HasBezosDecided/status/1286279444160753667" ],
     "name" : [ "Like of @HasBezosDecided's tweet" ],
     "published" : [ "2020-07-25T01:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/HasBezosDecided/status/1286279444160753667" ]
