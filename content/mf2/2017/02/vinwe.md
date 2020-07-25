@@ -23,7 +23,6 @@
   "slug": "2017/02/vinwe",
   "aliases": [
     "/mf2/d683c8b2-386d-4f84-a139-cc26e494a42e/",
-    "/mf2/2017/02/vinwe",
     "/mf2/2017/02/VINWE"
   ]
 }

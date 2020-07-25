@@ -23,7 +23,6 @@
   "slug": "2016/10/5slxn",
   "aliases": [
     "/mf2/36208fc0-fda2-40da-a2bf-0bc1d75b4ac1/",
-    "/mf2/2016/10/5slxn",
     "/mf2/2016/10/5SLXn"
   ]
 }

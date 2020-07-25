@@ -16,7 +16,6 @@
   "slug": "2019/08/bgdgm",
   "aliases": [
     "/mf2/8a360a7b-5aca-4f98-b3f3-1ffe105b8bcb/",
-    "/mf2/2019/08/bgdgm",
     "/mf2/2019/08/bgDGm"
   ]
 }

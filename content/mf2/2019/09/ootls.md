@@ -23,7 +23,6 @@
   "slug": "2019/09/ootls",
   "aliases": [
     "/mf2/acea73ed-f47b-484a-81a7-8d30059eaa33/",
-    "/mf2/2019/09/ootls",
     "/mf2/2019/09/OotLS"
   ]
 }

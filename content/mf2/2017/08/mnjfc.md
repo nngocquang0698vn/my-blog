@@ -23,7 +23,6 @@
   "slug": "2017/08/mnjfc",
   "aliases": [
     "/mf2/c138f08f-a109-4dc5-ba9e-9fefe2cfacb2/",
-    "/mf2/2017/08/mnjfc",
     "/mf2/2017/08/mnjFc"
   ]
 }

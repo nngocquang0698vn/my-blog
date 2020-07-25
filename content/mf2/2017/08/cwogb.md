@@ -23,7 +23,6 @@
   "slug": "2017/08/cwogb",
   "aliases": [
     "/mf2/59fae264-cf90-4107-a55e-83961f29d7b9/",
-    "/mf2/2017/08/cwogb",
     "/mf2/2017/08/CWoGb"
   ]
 }

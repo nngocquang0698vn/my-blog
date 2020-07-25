@@ -23,7 +23,6 @@
   "slug": "2017/11/jisn7",
   "aliases": [
     "/mf2/33dac2fa-af46-4cc2-b795-d8c190404ccc/",
-    "/mf2/2017/11/jisn7",
     "/mf2/2017/11/jISn7"
   ]
 }

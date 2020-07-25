@@ -45,8 +45,7 @@
   },
   "aliases": [
     "/rsvps/ee155094-1b28-446f-b0ce-c2cd39a13a9c/",
-    "/mf2/ee155094-1b28-446f-b0ce-c2cd39a13a9c/",
-    "/mf2/2019/05/mp6tl"
+    "/mf2/ee155094-1b28-446f-b0ce-c2cd39a13a9c/"
   ],
   "h": "h-entry",
   "date": "2019-05-18T09:08:09+0100",

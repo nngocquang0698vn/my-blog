@@ -23,7 +23,6 @@
   "slug": "2018/05/gdse7",
   "aliases": [
     "/mf2/0459f776-3ad4-4ca6-9e99-fc8f6acd5ead/",
-    "/mf2/2018/05/gdse7",
     "/mf2/2018/05/GdSE7"
   ]
 }

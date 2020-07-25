@@ -23,7 +23,6 @@
   "slug": "2019/07/fmbzb",
   "aliases": [
     "/mf2/94b36991-29ce-4a71-b6ee-b5be1bf84944/",
-    "/mf2/2019/07/fmbzb",
     "/mf2/2019/07/fmBZb"
   ]
 }

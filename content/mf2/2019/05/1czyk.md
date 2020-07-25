@@ -46,7 +46,6 @@
   "aliases": [
     "/rsvps/b8f545af-37c5-4ac0-9e64-12efd8124dc8/",
     "/mf2/b8f545af-37c5-4ac0-9e64-12efd8124dc8/",
-    "/mf2/2019/05/1czyk",
     "/mf2/2019/05/1Czyk"
   ],
   "h": "h-entry",

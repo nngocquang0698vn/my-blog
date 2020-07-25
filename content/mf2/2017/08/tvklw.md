@@ -23,7 +23,6 @@
   "slug": "2017/08/tvklw",
   "aliases": [
     "/mf2/8033d735-3efc-4ab3-a5f3-615b5e2a7a14/",
-    "/mf2/2017/08/tvklw",
     "/mf2/2017/08/tVklw"
   ]
 }

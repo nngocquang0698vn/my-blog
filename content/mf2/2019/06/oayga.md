@@ -23,7 +23,6 @@
   "aliases": [
     "/notes/d6ee82bb-479a-4f98-bc7c-01ad38e286bd/",
     "/mf2/d6ee82bb-479a-4f98-bc7c-01ad38e286bd/",
-    "/mf2/2019/06/oayga",
     "/mf2/2019/06/OAYGa"
   ],
   "h": "h-entry",

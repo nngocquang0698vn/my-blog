@@ -23,7 +23,6 @@
   "slug": "2017/03/ofnec",
   "aliases": [
     "/mf2/93b4f7d1-2672-4a01-ad52-5049b3bab828/",
-    "/mf2/2017/03/ofnec",
     "/mf2/2017/03/OFnEc"
   ]
 }

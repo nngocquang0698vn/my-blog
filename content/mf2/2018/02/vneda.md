@@ -23,7 +23,6 @@
   "slug": "2018/02/vneda",
   "aliases": [
     "/mf2/d53e3306-a8a1-4241-99dd-f06c8a49db81/",
-    "/mf2/2018/02/vneda",
     "/mf2/2018/02/vNEda"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/09/3totj",
   "aliases": [
     "/mf2/0a38af7b-dc11-49e8-964e-fd64e933ba2d/",
-    "/mf2/2017/09/3totj",
     "/mf2/2017/09/3ToTJ"
   ]
 }

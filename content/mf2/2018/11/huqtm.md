@@ -23,7 +23,6 @@
   "slug": "2018/11/huqtm",
   "aliases": [
     "/mf2/8155bb61-01c7-4274-a907-e79f3f7f62df/",
-    "/mf2/2018/11/huqtm",
     "/mf2/2018/11/HUqTM"
   ]
 }

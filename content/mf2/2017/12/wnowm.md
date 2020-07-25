@@ -23,7 +23,6 @@
   "slug": "2017/12/wnowm",
   "aliases": [
     "/mf2/8a14c6ee-b437-4585-aa8f-912a913cb64d/",
-    "/mf2/2017/12/wnowm",
     "/mf2/2017/12/WNowM"
   ]
 }

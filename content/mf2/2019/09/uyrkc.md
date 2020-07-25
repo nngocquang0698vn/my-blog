@@ -23,7 +23,6 @@
   "slug": "2019/09/uyrkc",
   "aliases": [
     "/mf2/1f693b1f-6b73-44c9-91b2-7e08431f0d7b/",
-    "/mf2/2019/09/uyrkc",
     "/mf2/2019/09/uyRkc"
   ]
 }

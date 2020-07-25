@@ -25,7 +25,6 @@
   "slug": "2019/10/cugga",
   "aliases": [
     "/mf2/08266579-07b2-430b-ac7d-b83fa86f20ac/",
-    "/mf2/2019/10/cugga",
     "/mf2/2019/10/CuGGA"
   ]
 }

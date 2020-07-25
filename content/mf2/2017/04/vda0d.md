@@ -23,7 +23,6 @@
   "slug": "2017/04/vda0d",
   "aliases": [
     "/mf2/c8cc8857-d28b-478c-a168-1dfd413a6aae/",
-    "/mf2/2017/04/vda0d",
     "/mf2/2017/04/vDa0D"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/08/dnheb",
   "aliases": [
     "/mf2/169b51eb-55d0-4712-a966-b4f92fdfb3b9/",
-    "/mf2/2017/08/dnheb",
     "/mf2/2017/08/dnHEb"
   ]
 }

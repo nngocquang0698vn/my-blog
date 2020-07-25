@@ -22,7 +22,6 @@
   "slug": "2019/08/acls5",
   "aliases": [
     "/mf2/9e3d18b9-f2f3-4d4f-b463-e9bf941d520a/",
-    "/mf2/2019/08/acls5",
     "/mf2/2019/08/aCLs5"
   ]
 }

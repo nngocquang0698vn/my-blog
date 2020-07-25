@@ -22,7 +22,6 @@
   "aliases": [
     "/bookmarks/3eb3fef2-4584-4fe2-9d0d-135f2de7d511/",
     "/mf2/3eb3fef2-4584-4fe2-9d0d-135f2de7d511/",
-    "/mf2/2019/06/gyuwo",
     "/mf2/2019/06/GYuWO"
   ],
   "h": "h-entry",

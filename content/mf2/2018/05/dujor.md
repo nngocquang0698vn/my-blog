@@ -23,7 +23,6 @@
   "slug": "2018/05/dujor",
   "aliases": [
     "/mf2/36e0d062-6ffe-4aeb-85bd-fceec2f0ecbd/",
-    "/mf2/2018/05/dujor",
     "/mf2/2018/05/dUJor"
   ]
 }

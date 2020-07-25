@@ -23,7 +23,6 @@
   "slug": "2019/04/petll",
   "aliases": [
     "/mf2/531d8696-2ee0-4f26-a61e-47736f34c8fc/",
-    "/mf2/2019/04/petll",
     "/mf2/2019/04/PEtlL"
   ]
 }

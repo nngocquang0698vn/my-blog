@@ -23,7 +23,6 @@
   "slug": "2017/08/ibdrs",
   "aliases": [
     "/mf2/789be0b8-114e-4cf0-83bb-2d214c389778/",
-    "/mf2/2017/08/ibdrs",
     "/mf2/2017/08/IbDrS"
   ]
 }

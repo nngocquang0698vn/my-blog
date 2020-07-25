@@ -46,7 +46,6 @@
   "aliases": [
     "/rsvps/799e28a0-ce0b-4bee-a7df-08e04f2af0dc/",
     "/mf2/799e28a0-ce0b-4bee-a7df-08e04f2af0dc/",
-    "/mf2/2019/05/akaga",
     "/mf2/2019/05/AkAgA"
   ],
   "h": "h-entry",

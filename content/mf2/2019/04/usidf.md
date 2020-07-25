@@ -23,7 +23,6 @@
   "slug": "2019/04/usidf",
   "aliases": [
     "/mf2/aad082e4-5294-47cd-bd6d-36eb85382242/",
-    "/mf2/2019/04/usidf",
     "/mf2/2019/04/UsIdf"
   ]
 }

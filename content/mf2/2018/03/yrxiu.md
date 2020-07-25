@@ -23,7 +23,6 @@
   "slug": "2018/03/yrxiu",
   "aliases": [
     "/mf2/16ee4a71-dd9a-4e2e-aec1-6d0748c0cb1b/",
-    "/mf2/2018/03/yrxiu",
     "/mf2/2018/03/yRxiU"
   ]
 }

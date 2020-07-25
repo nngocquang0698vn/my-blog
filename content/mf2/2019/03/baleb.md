@@ -23,7 +23,6 @@
   "slug": "2019/03/baleb",
   "aliases": [
     "/mf2/3dd60cb7-660c-4202-9309-aa64c6253cf6/",
-    "/mf2/2019/03/baleb",
     "/mf2/2019/03/BAlEb"
   ]
 }

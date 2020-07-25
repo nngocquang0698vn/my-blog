@@ -23,7 +23,6 @@
   "slug": "2018/04/liwv5",
   "aliases": [
     "/mf2/4addec13-6b9e-4baf-a041-498f0ccdc03b/",
-    "/mf2/2018/04/liwv5",
     "/mf2/2018/04/lIWv5"
   ]
 }

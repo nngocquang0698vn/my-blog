@@ -22,7 +22,6 @@
   "aliases": [
     "/bookmarks/e93ea7ed-c140-4e9b-a847-c756fb70d919/",
     "/mf2/e93ea7ed-c140-4e9b-a847-c756fb70d919/",
-    "/mf2/2019/06/zikti",
     "/mf2/2019/06/zIktI"
   ],
   "h": "h-entry",

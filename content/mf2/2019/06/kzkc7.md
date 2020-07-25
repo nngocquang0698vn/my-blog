@@ -23,7 +23,6 @@
   "slug": "2019/06/kzkc7",
   "aliases": [
     "/mf2/3b2fdae5-adf3-4f03-a37d-77755516e01b/",
-    "/mf2/2019/06/kzkc7",
     "/mf2/2019/06/kzKC7"
   ]
 }

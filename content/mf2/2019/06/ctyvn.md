@@ -52,7 +52,6 @@
   "aliases": [
     "/rsvps/837ba2fc-c47f-48b1-8c5b-787324923d80/",
     "/mf2/837ba2fc-c47f-48b1-8c5b-787324923d80/",
-    "/mf2/2019/06/ctyvn",
     "/mf2/2019/06/ctYvn"
   ],
   "h": "h-entry",

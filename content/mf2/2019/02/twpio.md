@@ -23,7 +23,6 @@
   "slug": "2019/02/twpio",
   "aliases": [
     "/mf2/e74e9c84-c049-43f8-bd42-15fd0f624c43/",
-    "/mf2/2019/02/twpio",
     "/mf2/2019/02/tWpIO"
   ]
 }

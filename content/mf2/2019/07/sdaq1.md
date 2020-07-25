@@ -23,7 +23,6 @@
   "slug": "2019/07/sdaq1",
   "aliases": [
     "/mf2/0774b4ad-b731-4da7-a19f-8b93e9ab783e/",
-    "/mf2/2019/07/sdaq1",
     "/mf2/2019/07/SdAq1"
   ]
 }

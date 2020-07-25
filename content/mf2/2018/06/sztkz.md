@@ -23,7 +23,6 @@
   "slug": "2018/06/sztkz",
   "aliases": [
     "/mf2/afa46a2d-3ec5-4eda-92e2-9c9af4ae8606/",
-    "/mf2/2018/06/sztkz",
     "/mf2/2018/06/szTkz"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2016/11/qpdoe",
   "aliases": [
     "/mf2/dbdc6c74-262b-4aba-b15d-c7b6ba86e437/",
-    "/mf2/2016/11/qpdoe",
     "/mf2/2016/11/QPDOE"
   ]
 }

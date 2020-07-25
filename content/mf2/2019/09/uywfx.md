@@ -23,7 +23,6 @@
   "slug": "2019/09/uywfx",
   "aliases": [
     "/mf2/04129b01-d505-47fb-b07f-31e078e894eb/",
-    "/mf2/2019/09/uywfx",
     "/mf2/2019/09/UYWFx"
   ]
 }

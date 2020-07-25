@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/11/pczis",
   "aliases": [
-    "/mf2/2a010e6f-91c0-4165-accb-5de9ce8c4364/",
-    "/mf2/2018/11/pczis"
+    "/mf2/2a010e6f-91c0-4165-accb-5de9ce8c4364/"
   ]
 }

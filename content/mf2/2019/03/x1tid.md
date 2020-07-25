@@ -23,7 +23,6 @@
   "slug": "2019/03/x1tid",
   "aliases": [
     "/mf2/3f8d9044-76bf-40c4-a3fe-b1aa4ca1bc33/",
-    "/mf2/2019/03/x1tid",
     "/mf2/2019/03/X1tId"
   ]
 }

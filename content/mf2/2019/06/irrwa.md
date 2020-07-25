@@ -23,7 +23,6 @@
   "aliases": [
     "/bookmarks/7671c504-da4b-48b9-b932-cf9da1285f63/",
     "/mf2/7671c504-da4b-48b9-b932-cf9da1285f63/",
-    "/mf2/2019/06/irrwa",
     "/mf2/2019/06/iRrWa"
   ],
   "h": "h-entry",

@@ -23,7 +23,6 @@
   "slug": "2017/08/ngpfe",
   "aliases": [
     "/mf2/f320c45d-7e24-41ed-97d0-3e9a9cc6fa73/",
-    "/mf2/2017/08/ngpfe",
     "/mf2/2017/08/ngpFe"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/08/hznku",
   "aliases": [
     "/mf2/ead3c7af-adb0-46a9-b146-27c748a58c90/",
-    "/mf2/2019/08/hznku",
     "/mf2/2019/08/hzNKU"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/01/hjbhk",
   "aliases": [
     "/mf2/2ef42206-4a87-4a98-b6fc-7885451a2aff/",
-    "/mf2/2018/01/hjbhk",
     "/mf2/2018/01/HjbHk"
   ]
 }

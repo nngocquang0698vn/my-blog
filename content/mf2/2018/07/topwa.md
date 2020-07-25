@@ -23,7 +23,6 @@
   "slug": "2018/07/topwa",
   "aliases": [
     "/mf2/2f3d7e5b-9194-463a-8706-1c406fee206e/",
-    "/mf2/2018/07/topwa",
     "/mf2/2018/07/Topwa"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/08/nkvne",
   "aliases": [
     "/mf2/a990c11f-d336-440f-b0dc-071525cb958d/",
-    "/mf2/2019/08/nkvne",
     "/mf2/2019/08/NkVnE"
   ]
 }

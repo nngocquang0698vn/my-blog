@@ -23,7 +23,6 @@
   "slug": "2018/12/elp5c",
   "aliases": [
     "/mf2/47e1f0e6-e98d-4dd9-8bc8-3385dfad931a/",
-    "/mf2/2018/12/elp5c",
     "/mf2/2018/12/eLp5c"
   ]
 }

@@ -16,7 +16,6 @@
   "slug": "2019/08/avkvu",
   "aliases": [
     "/mf2/073a5832-eb52-457f-836b-9cb8b4658b5e/",
-    "/mf2/2019/08/avkvu",
     "/mf2/2019/08/aVKvu"
   ]
 }

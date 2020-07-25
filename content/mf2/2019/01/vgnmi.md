@@ -23,7 +23,6 @@
   "slug": "2019/01/vgnmi",
   "aliases": [
     "/mf2/bcaca81e-c843-4207-ba4a-0be1409d4919/",
-    "/mf2/2019/01/vgnmi",
     "/mf2/2019/01/VgNmi"
   ]
 }

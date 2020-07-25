@@ -23,7 +23,6 @@
   "slug": "2018/10/xltsk",
   "aliases": [
     "/mf2/99611d09-4764-4cf7-ba34-ab29ae74c09c/",
-    "/mf2/2018/10/xltsk",
     "/mf2/2018/10/xLtsk"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/12/knczq",
   "aliases": [
     "/mf2/437df306-3982-4a3c-ae97-3d4698a8ea8d/",
-    "/mf2/2017/12/knczq",
     "/mf2/2017/12/KNczQ"
   ]
 }

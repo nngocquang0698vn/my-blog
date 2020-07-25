@@ -23,7 +23,6 @@
   "slug": "2016/11/pxxsm",
   "aliases": [
     "/mf2/2505de08-2ebd-4e1c-b900-dd65ceb4380a/",
-    "/mf2/2016/11/pxxsm",
     "/mf2/2016/11/pxxsM"
   ]
 }

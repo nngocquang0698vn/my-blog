@@ -23,7 +23,6 @@
   "slug": "2019/10/lrtsd",
   "aliases": [
     "/mf2/c970b9a7-b80a-4dd4-986d-c204e292acae/",
-    "/mf2/2019/10/lrtsd",
     "/mf2/2019/10/LrTSD"
   ]
 }

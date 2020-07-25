@@ -23,7 +23,6 @@
   "slug": "2017/03/5frpz",
   "aliases": [
     "/mf2/2c7b4822-e988-4ab3-8f49-0edd37ee07da/",
-    "/mf2/2017/03/5frpz",
     "/mf2/2017/03/5frPz"
   ]
 }

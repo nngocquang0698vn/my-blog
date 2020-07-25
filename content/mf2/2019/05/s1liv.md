@@ -23,7 +23,6 @@
   "slug": "2019/05/s1liv",
   "aliases": [
     "/mf2/8727e372-77cc-4a52-acd4-d6ba5df0e538/",
-    "/mf2/2019/05/s1liv",
     "/mf2/2019/05/S1lIv"
   ]
 }

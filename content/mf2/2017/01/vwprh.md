@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/01/vwprh",
   "aliases": [
-    "/mf2/add1b21e-a4ee-4683-91d6-cc4152283f8c/",
-    "/mf2/2017/01/vwprh"
+    "/mf2/add1b21e-a4ee-4683-91d6-cc4152283f8c/"
   ]
 }

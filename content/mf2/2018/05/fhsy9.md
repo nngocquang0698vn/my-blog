@@ -23,7 +23,6 @@
   "slug": "2018/05/fhsy9",
   "aliases": [
     "/mf2/1db15a5e-5871-4da5-89b1-45b5eda4d5e2/",
-    "/mf2/2018/05/fhsy9",
     "/mf2/2018/05/Fhsy9"
   ]
 }

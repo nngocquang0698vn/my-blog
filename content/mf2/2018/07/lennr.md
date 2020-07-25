@@ -23,7 +23,6 @@
   "slug": "2018/07/lennr",
   "aliases": [
     "/mf2/2219eb05-4b6b-4ca4-9abd-e64ffcf705b1/",
-    "/mf2/2018/07/lennr",
     "/mf2/2018/07/lenNR"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/10/mvdvk",
   "aliases": [
     "/mf2/2456ce2e-d957-4bce-8b2f-63452cf16347/",
-    "/mf2/2017/10/mvdvk",
     "/mf2/2017/10/mVdVK"
   ]
 }

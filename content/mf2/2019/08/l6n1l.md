@@ -22,7 +22,6 @@
   "slug": "2019/08/l6n1l",
   "aliases": [
     "/mf2/fdd240a6-2cd1-44cd-9d00-dc04efda714e/",
-    "/mf2/2019/08/l6n1l",
     "/mf2/2019/08/L6n1l"
   ]
 }

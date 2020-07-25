@@ -35,7 +35,6 @@
   "slug": "2019/10/mfhl1",
   "aliases": [
     "/mf2/8c3f5903-880f-40fd-b99b-6985eba0a2aa/",
-    "/mf2/2019/10/mfhl1",
     "/mf2/2019/10/mFHl1"
   ]
 }

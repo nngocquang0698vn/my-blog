@@ -23,7 +23,6 @@
   "slug": "2017/03/eqqy3",
   "aliases": [
     "/mf2/96bee68d-afdc-47d7-908c-afd3fc793b59/",
-    "/mf2/2017/03/eqqy3",
     "/mf2/2017/03/Eqqy3"
   ]
 }

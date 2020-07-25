@@ -23,7 +23,6 @@
   "slug": "2018/09/lrdwt",
   "aliases": [
     "/mf2/fc2e463b-8bb0-426d-b61d-430bde9cc523/",
-    "/mf2/2018/09/lrdwt",
     "/mf2/2018/09/LRdWt"
   ]
 }

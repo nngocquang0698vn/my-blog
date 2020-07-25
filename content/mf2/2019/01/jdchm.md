@@ -23,7 +23,6 @@
   "slug": "2019/01/jdchm",
   "aliases": [
     "/mf2/a9dc1ab9-3f81-43c5-b81a-9714fb36a45c/",
-    "/mf2/2019/01/jdchm",
     "/mf2/2019/01/Jdchm"
   ]
 }

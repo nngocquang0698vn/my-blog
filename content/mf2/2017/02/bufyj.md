@@ -23,7 +23,6 @@
   "slug": "2017/02/bufyj",
   "aliases": [
     "/mf2/166cac9a-e869-421d-91f2-12a08b2a0787/",
-    "/mf2/2017/02/bufyj",
     "/mf2/2017/02/BUfYJ"
   ]
 }

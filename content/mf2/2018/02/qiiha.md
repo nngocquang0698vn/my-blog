@@ -23,7 +23,6 @@
   "slug": "2018/02/qiiha",
   "aliases": [
     "/mf2/26fd05ff-4146-4797-b0f7-cf390b4303a4/",
-    "/mf2/2018/02/qiiha",
     "/mf2/2018/02/QIIha"
   ]
 }

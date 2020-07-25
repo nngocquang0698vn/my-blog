@@ -23,7 +23,6 @@
   "slug": "2018/09/xxryd",
   "aliases": [
     "/mf2/2d22d21e-840e-437a-b057-42a8916df96d/",
-    "/mf2/2018/09/xxryd",
     "/mf2/2018/09/XXryD"
   ]
 }

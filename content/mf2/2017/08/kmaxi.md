@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/08/kmaxi",
   "aliases": [
-    "/mf2/1f51ad99-9dbf-4936-9bbc-e011baa2f3cc/",
-    "/mf2/2017/08/kmaxi"
+    "/mf2/1f51ad99-9dbf-4936-9bbc-e011baa2f3cc/"
   ]
 }

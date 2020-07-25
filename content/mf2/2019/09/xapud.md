@@ -25,7 +25,6 @@
   "slug": "2019/09/xapud",
   "aliases": [
     "/mf2/f60d23c8-82d3-4d3a-baaf-dced33a027e9/",
-    "/mf2/2019/09/xapud",
     "/mf2/2019/09/xapuD"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/08/7dym4",
   "aliases": [
     "/mf2/c4ad1862-fded-4457-b83f-ba3c6dd1ad76/",
-    "/mf2/2018/08/7dym4",
     "/mf2/2018/08/7dyM4"
   ]
 }

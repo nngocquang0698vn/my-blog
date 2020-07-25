@@ -23,7 +23,6 @@
   "slug": "2018/06/mmv6t",
   "aliases": [
     "/mf2/f62c079d-97fa-40e6-b80a-bfd9d8bfd41c/",
-    "/mf2/2018/06/mmv6t",
     "/mf2/2018/06/mMV6t"
   ]
 }

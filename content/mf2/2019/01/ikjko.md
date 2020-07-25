@@ -23,7 +23,6 @@
   "slug": "2019/01/ikjko",
   "aliases": [
     "/mf2/57d00d8b-32bb-4e00-b13f-1c826db2ebcf/",
-    "/mf2/2019/01/ikjko",
     "/mf2/2019/01/IkJKo"
   ]
 }

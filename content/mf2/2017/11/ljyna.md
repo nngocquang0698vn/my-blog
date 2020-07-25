@@ -23,7 +23,6 @@
   "slug": "2017/11/ljyna",
   "aliases": [
     "/mf2/d7288fb2-a1a9-421a-86e5-c29867c5b09c/",
-    "/mf2/2017/11/ljyna",
     "/mf2/2017/11/LJyna"
   ]
 }

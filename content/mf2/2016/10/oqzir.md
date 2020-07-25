@@ -23,7 +23,6 @@
   "slug": "2016/10/oqzir",
   "aliases": [
     "/mf2/4a2511f6-9404-46ee-801c-bd21517d7ecc/",
-    "/mf2/2016/10/oqzir",
     "/mf2/2016/10/oqzIR"
   ]
 }

@@ -17,7 +17,6 @@
   "slug": "2019/09/0ahci",
   "aliases": [
     "/mf2/d3eeb6f4-74ad-45dd-bc09-62aae9e16691/",
-    "/mf2/2019/09/0ahci",
     "/mf2/2019/09/0AHci"
   ]
 }

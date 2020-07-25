@@ -23,7 +23,6 @@
   "slug": "2019/08/deqpk",
   "aliases": [
     "/mf2/2a69f6f4-79c5-47a7-9b0a-72e365cba6e5/",
-    "/mf2/2019/08/deqpk",
     "/mf2/2019/08/DEqPk"
   ]
 }

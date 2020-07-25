@@ -23,7 +23,6 @@
   "slug": "2017/03/gjxga",
   "aliases": [
     "/mf2/4a38fd73-34a2-4d54-b9ee-a8ac9cc6fda7/",
-    "/mf2/2017/03/gjxga",
     "/mf2/2017/03/GJxgA"
   ]
 }

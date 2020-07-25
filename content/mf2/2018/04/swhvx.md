@@ -23,7 +23,6 @@
   "slug": "2018/04/swhvx",
   "aliases": [
     "/mf2/a51ccee2-a3fe-4a74-a17a-44790c88e72a/",
-    "/mf2/2018/04/swhvx",
     "/mf2/2018/04/sWHvX"
   ]
 }

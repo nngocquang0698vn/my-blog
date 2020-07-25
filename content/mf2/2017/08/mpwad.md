@@ -23,7 +23,6 @@
   "slug": "2017/08/mpwad",
   "aliases": [
     "/mf2/059b981b-b9df-42d4-bb4f-77f73312afc5/",
-    "/mf2/2017/08/mpwad",
     "/mf2/2017/08/mPwad"
   ]
 }

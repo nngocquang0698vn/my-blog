@@ -23,7 +23,6 @@
   "slug": "2018/11/o6vwo",
   "aliases": [
     "/mf2/161b5dce-a488-41d2-ba46-2d2f31e5e3fc/",
-    "/mf2/2018/11/o6vwo",
     "/mf2/2018/11/o6Vwo"
   ]
 }

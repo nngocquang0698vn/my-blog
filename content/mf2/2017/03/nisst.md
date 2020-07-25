@@ -23,7 +23,6 @@
   "slug": "2017/03/nisst",
   "aliases": [
     "/mf2/46aab372-f1f2-47f5-9d1a-7bb1ab1e15c4/",
-    "/mf2/2017/03/nisst",
     "/mf2/2017/03/nissT"
   ]
 }

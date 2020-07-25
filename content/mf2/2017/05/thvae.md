@@ -23,7 +23,6 @@
   "slug": "2017/05/thvae",
   "aliases": [
     "/mf2/df453a05-4d46-4b31-a380-7c8f70fbeb50/",
-    "/mf2/2017/05/thvae",
     "/mf2/2017/05/THvAe"
   ]
 }

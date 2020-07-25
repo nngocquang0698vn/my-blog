@@ -16,7 +16,6 @@
   "slug": "2019/09/umruc",
   "aliases": [
     "/mf2/e46e99e8-8d36-4e7e-942d-f4107d43ecdd/",
-    "/mf2/2019/09/umruc",
     "/mf2/2019/09/uMRuc"
   ]
 }

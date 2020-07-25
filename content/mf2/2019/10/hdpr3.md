@@ -23,7 +23,6 @@
   "slug": "2019/10/hdpr3",
   "aliases": [
     "/mf2/7e91ead2-cfb5-4d0c-b4db-3e15a3fc8650/",
-    "/mf2/2019/10/hdpr3",
     "/mf2/2019/10/HdPr3"
   ]
 }

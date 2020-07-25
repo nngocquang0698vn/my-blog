@@ -23,7 +23,6 @@
   "slug": "2018/02/leysl",
   "aliases": [
     "/mf2/416e9b6b-e26a-4713-a2bf-270e1093aeaa/",
-    "/mf2/2018/02/leysl",
     "/mf2/2018/02/LeySL"
   ]
 }

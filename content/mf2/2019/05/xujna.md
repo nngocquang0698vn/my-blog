@@ -46,7 +46,6 @@
   "aliases": [
     "/rsvps/862f1170-ab9b-4cb8-90d7-d4b03c5b3464/",
     "/mf2/862f1170-ab9b-4cb8-90d7-d4b03c5b3464/",
-    "/mf2/2019/05/xujna",
     "/mf2/2019/05/XUjNA"
   ],
   "h": "h-entry",

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/10/p54pi",
   "aliases": [
-    "/mf2/79d4c862-e906-496f-95fc-57f2fdc6aa6e/",
-    "/mf2/2017/10/p54pi"
+    "/mf2/79d4c862-e906-496f-95fc-57f2fdc6aa6e/"
   ]
 }

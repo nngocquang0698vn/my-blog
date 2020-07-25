@@ -23,7 +23,6 @@
   "slug": "2019/07/b2mkp",
   "aliases": [
     "/mf2/5e956d24-c3e2-4dbe-9b7d-df29233f090c/",
-    "/mf2/2019/07/b2mkp",
     "/mf2/2019/07/B2MKp"
   ]
 }

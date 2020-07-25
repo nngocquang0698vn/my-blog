@@ -32,7 +32,6 @@
   "slug": "2019/09/ybuio",
   "aliases": [
     "/mf2/61f49d3c-57c9-4b1d-b2c4-8132dcdaad57/",
-    "/mf2/2019/09/ybuio",
     "/mf2/2019/09/YbuIo"
   ]
 }

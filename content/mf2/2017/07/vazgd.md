@@ -23,7 +23,6 @@
   "slug": "2017/07/vazgd",
   "aliases": [
     "/mf2/14f7cd5a-958a-4686-a499-f4286aabb00d/",
-    "/mf2/2017/07/vazgd",
     "/mf2/2017/07/vAZgD"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/10/cbupu",
   "aliases": [
     "/mf2/25d8539a-c046-433c-a794-6d1b3c7aac4c/",
-    "/mf2/2019/10/cbupu",
     "/mf2/2019/10/cbUPU"
   ]
 }

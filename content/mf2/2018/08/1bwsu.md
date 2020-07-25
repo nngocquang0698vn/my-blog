@@ -23,7 +23,6 @@
   "slug": "2018/08/1bwsu",
   "aliases": [
     "/mf2/c41c9d2a-0f6c-46d8-b6be-7b9aa088ee06/",
-    "/mf2/2018/08/1bwsu",
     "/mf2/2018/08/1bwSU"
   ]
 }

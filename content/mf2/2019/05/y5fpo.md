@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/05/y5fpo",
   "aliases": [
-    "/mf2/0148eba5-8265-447f-aa81-ed03f0cb3558/",
-    "/mf2/2019/05/y5fpo"
+    "/mf2/0148eba5-8265-447f-aa81-ed03f0cb3558/"
   ]
 }

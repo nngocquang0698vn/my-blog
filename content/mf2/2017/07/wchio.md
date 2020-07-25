@@ -23,7 +23,6 @@
   "slug": "2017/07/wchio",
   "aliases": [
     "/mf2/fa8bdbfc-25fd-4d9f-8175-4134928d9892/",
-    "/mf2/2017/07/wchio",
     "/mf2/2017/07/wCHIo"
   ]
 }

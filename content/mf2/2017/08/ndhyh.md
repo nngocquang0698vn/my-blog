@@ -23,7 +23,6 @@
   "slug": "2017/08/ndhyh",
   "aliases": [
     "/mf2/02fe69b9-3ea3-48bf-8bcf-68a4aa95eca2/",
-    "/mf2/2017/08/ndhyh",
     "/mf2/2017/08/Ndhyh"
   ]
 }

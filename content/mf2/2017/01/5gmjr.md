@@ -23,7 +23,6 @@
   "slug": "2017/01/5gmjr",
   "aliases": [
     "/mf2/7c45598e-e7e8-45ae-b0eb-13e9a9bada29/",
-    "/mf2/2017/01/5gmjr",
     "/mf2/2017/01/5gmJr"
   ]
 }

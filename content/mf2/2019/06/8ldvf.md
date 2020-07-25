@@ -23,7 +23,6 @@
   "aliases": [
     "/replies/75ddc2e4-25ab-4901-89a8-f8f0771bb232/",
     "/mf2/75ddc2e4-25ab-4901-89a8-f8f0771bb232/",
-    "/mf2/2019/06/8ldvf",
     "/mf2/2019/06/8lDVF"
   ],
   "h": "h-entry",

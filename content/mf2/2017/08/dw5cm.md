@@ -23,7 +23,6 @@
   "slug": "2017/08/dw5cm",
   "aliases": [
     "/mf2/03ce0577-7ea5-47c6-b9e3-a39b58bd7e8d/",
-    "/mf2/2017/08/dw5cm",
     "/mf2/2017/08/dW5Cm"
   ]
 }

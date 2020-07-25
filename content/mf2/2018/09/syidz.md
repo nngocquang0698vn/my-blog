@@ -23,7 +23,6 @@
   "slug": "2018/09/syidz",
   "aliases": [
     "/mf2/83932112-81bf-4c43-9ff5-67fde6c399fc/",
-    "/mf2/2018/09/syidz",
     "/mf2/2018/09/syidZ"
   ]
 }

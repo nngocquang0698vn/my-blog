@@ -23,7 +23,6 @@
   "slug": "2017/10/dpqh1",
   "aliases": [
     "/mf2/c34fb58f-6808-4efc-adaa-d9034f92fa9c/",
-    "/mf2/2017/10/dpqh1",
     "/mf2/2017/10/dpQH1"
   ]
 }

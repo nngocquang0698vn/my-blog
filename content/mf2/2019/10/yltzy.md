@@ -25,7 +25,6 @@
   "slug": "2019/10/yltzy",
   "aliases": [
     "/mf2/413c279d-62a9-4153-a211-b6a1c9e9d68e/",
-    "/mf2/2019/10/yltzy",
     "/mf2/2019/10/ylTZy"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/04/hdoyx",
   "aliases": [
     "/mf2/6d650c3a-981c-497c-a72a-f07e340ff5a9/",
-    "/mf2/2017/04/hdoyx",
     "/mf2/2017/04/HdoYX"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/09/riopd",
   "aliases": [
     "/mf2/88e4526f-2cac-4de3-afb6-dbe2e732795a/",
-    "/mf2/2018/09/riopd",
     "/mf2/2018/09/RiOPd"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2016/10/pnpmm",
   "aliases": [
     "/mf2/dd845ab2-e1c5-4684-9bf1-df0faa1c638c/",
-    "/mf2/2016/10/pnpmm",
     "/mf2/2016/10/pNPmm"
   ]
 }

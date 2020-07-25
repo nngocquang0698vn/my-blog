@@ -23,7 +23,6 @@
   "slug": "2018/12/wtasx",
   "aliases": [
     "/mf2/e9d94b5d-b7fc-49cd-9d58-4f2f1fa9318a/",
-    "/mf2/2018/12/wtasx",
     "/mf2/2018/12/wTASX"
   ]
 }

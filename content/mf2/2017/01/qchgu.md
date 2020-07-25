@@ -23,7 +23,6 @@
   "slug": "2017/01/qchgu",
   "aliases": [
     "/mf2/e2162de2-5f73-4095-9d10-faa064d9540e/",
-    "/mf2/2017/01/qchgu",
     "/mf2/2017/01/QchGu"
   ]
 }

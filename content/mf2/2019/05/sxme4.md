@@ -23,7 +23,6 @@
   "slug": "2019/05/sxme4",
   "aliases": [
     "/mf2/47a7d36b-ed7e-4ee1-8bde-44c6f41de96d/",
-    "/mf2/2019/05/sxme4",
     "/mf2/2019/05/sxmE4"
   ]
 }

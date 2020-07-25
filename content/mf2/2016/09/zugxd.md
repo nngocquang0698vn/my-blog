@@ -23,7 +23,6 @@
   "slug": "2016/09/zugxd",
   "aliases": [
     "/mf2/7472ca5c-cba4-4d72-9295-bfee25e92708/",
-    "/mf2/2016/09/zugxd",
     "/mf2/2016/09/Zugxd"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/09/rirte",
   "aliases": [
     "/mf2/fe3c7145-8baf-44b2-8830-191d64bcb3d7/",
-    "/mf2/2017/09/rirte",
     "/mf2/2017/09/rIrTe"
   ]
 }

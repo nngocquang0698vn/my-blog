@@ -23,7 +23,6 @@
   "slug": "2016/11/tuwwk",
   "aliases": [
     "/mf2/14c3fa60-d7c4-4f8a-af35-b188bf4cde64/",
-    "/mf2/2016/11/tuwwk",
     "/mf2/2016/11/tuWWK"
   ]
 }

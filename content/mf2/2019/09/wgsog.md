@@ -17,7 +17,6 @@
   "slug": "2019/09/wgsog",
   "aliases": [
     "/mf2/8fae8eef-e6c3-4454-b696-a0275c20fb02/",
-    "/mf2/2019/09/wgsog",
     "/mf2/2019/09/wgsoG"
   ]
 }

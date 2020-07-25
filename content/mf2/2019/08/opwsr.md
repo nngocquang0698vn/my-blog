@@ -28,7 +28,6 @@
   "slug": "2019/08/opwsr",
   "aliases": [
     "/mf2/536b3a39-b2f9-4cbe-8fa0-4c656f4c5dac/",
-    "/mf2/2019/08/opwsr",
     "/mf2/2019/08/oPWSR"
   ]
 }

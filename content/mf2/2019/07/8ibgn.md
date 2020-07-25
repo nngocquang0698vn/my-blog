@@ -52,7 +52,6 @@
   "aliases": [
     "/rsvps/e30355c4-b6c1-42d1-b26a-853bfc98038e/",
     "/mf2/e30355c4-b6c1-42d1-b26a-853bfc98038e/",
-    "/mf2/2019/07/8ibgn",
     "/mf2/2019/07/8iBGN"
   ],
   "h": "h-entry",

@@ -23,7 +23,6 @@
   "slug": "2017/04/shpsv",
   "aliases": [
     "/mf2/8bafd60c-6f02-4284-8b62-465f4071cfe3/",
-    "/mf2/2017/04/shpsv",
     "/mf2/2017/04/ShPsv"
   ]
 }

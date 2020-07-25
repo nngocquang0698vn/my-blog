@@ -23,7 +23,6 @@
   "slug": "2019/09/zefid",
   "aliases": [
     "/mf2/12ef543f-5dc3-4961-8a79-eb156bf9b6f8/",
-    "/mf2/2019/09/zefid",
     "/mf2/2019/09/ZeFiD"
   ]
 }

@@ -17,7 +17,6 @@
   "slug": "2019/10/nsvyv",
   "aliases": [
     "/mf2/ef04bccb-8642-44d0-824a-83c2e889f04b/",
-    "/mf2/2019/10/nsvyv",
     "/mf2/2019/10/nSvYv"
   ]
 }

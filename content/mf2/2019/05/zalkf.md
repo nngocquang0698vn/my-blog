@@ -23,7 +23,6 @@
   "slug": "2019/05/zalkf",
   "aliases": [
     "/mf2/f8de1ab0-ef77-4084-8d9f-6fd6b2f09301/",
-    "/mf2/2019/05/zalkf",
     "/mf2/2019/05/ZaLkF"
   ]
 }

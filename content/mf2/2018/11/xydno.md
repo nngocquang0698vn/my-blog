@@ -23,7 +23,6 @@
   "slug": "2018/11/xydno",
   "aliases": [
     "/mf2/c7243988-d95f-45a5-afe8-4efd130fe768/",
-    "/mf2/2018/11/xydno",
     "/mf2/2018/11/XYDno"
   ]
 }

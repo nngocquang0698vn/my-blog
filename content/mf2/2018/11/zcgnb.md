@@ -23,7 +23,6 @@
   "slug": "2018/11/zcgnb",
   "aliases": [
     "/mf2/a8ed2105-8e02-49b1-9a6a-ca0d7304bff3/",
-    "/mf2/2018/11/zcgnb",
     "/mf2/2018/11/ZcgnB"
   ]
 }

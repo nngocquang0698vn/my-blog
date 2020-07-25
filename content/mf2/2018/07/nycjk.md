@@ -23,7 +23,6 @@
   "slug": "2018/07/nycjk",
   "aliases": [
     "/mf2/116bde93-b6b6-4e2a-8ad9-bfad6c12c156/",
-    "/mf2/2018/07/nycjk",
     "/mf2/2018/07/nycJK"
   ]
 }

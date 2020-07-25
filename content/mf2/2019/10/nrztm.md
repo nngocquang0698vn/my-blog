@@ -23,7 +23,6 @@
   "slug": "2019/10/nrztm",
   "aliases": [
     "/mf2/6a4cd707-7263-435f-a815-d9e61162f7ad/",
-    "/mf2/2019/10/nrztm",
     "/mf2/2019/10/NRZtm"
   ]
 }

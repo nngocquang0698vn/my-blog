@@ -23,7 +23,6 @@
   "slug": "2018/09/lcfef",
   "aliases": [
     "/mf2/e1850fff-b523-480e-9386-44a5e1db5d95/",
-    "/mf2/2018/09/lcfef",
     "/mf2/2018/09/LCfef"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/06/sudsu",
   "aliases": [
     "/mf2/e8c5e496-57f0-41d1-a55b-9cd9b82af67e/",
-    "/mf2/2017/06/sudsu",
     "/mf2/2017/06/SUdsU"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/04/qnhdr",
   "aliases": [
     "/mf2/0aa477f3-965b-476e-b883-5dbefc96c236/",
-    "/mf2/2019/04/qnhdr",
     "/mf2/2019/04/QNhDR"
   ]
 }

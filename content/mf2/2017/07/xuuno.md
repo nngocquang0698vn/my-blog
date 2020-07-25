@@ -23,7 +23,6 @@
   "slug": "2017/07/xuuno",
   "aliases": [
     "/mf2/16743504-b925-40cf-8acb-5e29fc271a8c/",
-    "/mf2/2017/07/xuuno",
     "/mf2/2017/07/XUUnO"
   ]
 }

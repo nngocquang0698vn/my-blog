@@ -23,7 +23,6 @@
   "slug": "2017/08/cyrot",
   "aliases": [
     "/mf2/0b2502a0-63b9-4655-9dca-3f365a26a4fe/",
-    "/mf2/2017/08/cyrot",
     "/mf2/2017/08/cyrOt"
   ]
 }

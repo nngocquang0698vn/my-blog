@@ -23,7 +23,6 @@
   "slug": "2018/07/kjohf",
   "aliases": [
     "/mf2/b86fe8c2-6ca4-479c-aed0-80656700b005/",
-    "/mf2/2018/07/kjohf",
     "/mf2/2018/07/KJOHF"
   ]
 }

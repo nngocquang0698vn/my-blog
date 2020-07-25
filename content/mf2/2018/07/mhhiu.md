@@ -23,7 +23,6 @@
   "slug": "2018/07/mhhiu",
   "aliases": [
     "/mf2/c18dae3d-8947-41af-be82-2e999ddd9972/",
-    "/mf2/2018/07/mhhiu",
     "/mf2/2018/07/mHhiu"
   ]
 }

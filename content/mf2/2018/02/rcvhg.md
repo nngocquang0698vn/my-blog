@@ -23,7 +23,6 @@
   "slug": "2018/02/rcvhg",
   "aliases": [
     "/mf2/7854f754-8ecc-49d4-91c2-e895a2cf74d1/",
-    "/mf2/2018/02/rcvhg",
     "/mf2/2018/02/rcVhg"
   ]
 }

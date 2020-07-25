@@ -28,7 +28,6 @@
   "slug": "2019/10/nwcjt",
   "aliases": [
     "/mf2/ef3229fd-63a3-4fba-b861-9dba605855fb/",
-    "/mf2/2019/10/nwcjt",
     "/mf2/2019/10/nwCjT"
   ]
 }

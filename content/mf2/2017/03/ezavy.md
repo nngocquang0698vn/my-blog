@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/03/ezavy",
   "aliases": [
-    "/mf2/15c11cc3-013a-4649-bf7b-17bfbdbd97a0/",
-    "/mf2/2017/03/ezavy"
+    "/mf2/15c11cc3-013a-4649-bf7b-17bfbdbd97a0/"
   ]
 }

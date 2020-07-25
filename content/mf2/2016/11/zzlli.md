@@ -23,7 +23,6 @@
   "slug": "2016/11/zzlli",
   "aliases": [
     "/mf2/15b28494-fc17-46bf-9379-4b47bedfb527/",
-    "/mf2/2016/11/zzlli",
     "/mf2/2016/11/zZLli"
   ]
 }

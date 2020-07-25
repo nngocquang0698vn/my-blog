@@ -24,7 +24,6 @@
   "slug": "2019/08/mllfw",
   "aliases": [
     "/mf2/04c1313c-fedd-41d6-986d-6c41aaf854c4/",
-    "/mf2/2019/08/mllfw",
     "/mf2/2019/08/MLlfW"
   ]
 }

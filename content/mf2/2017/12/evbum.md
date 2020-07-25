@@ -23,7 +23,6 @@
   "slug": "2017/12/evbum",
   "aliases": [
     "/mf2/1d7e7ff2-6f2f-4f67-9298-ff61ae9e6388/",
-    "/mf2/2017/12/evbum",
     "/mf2/2017/12/eVBuM"
   ]
 }

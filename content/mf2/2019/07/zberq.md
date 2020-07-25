@@ -23,7 +23,6 @@
   "slug": "2019/07/zberq",
   "aliases": [
     "/mf2/67c96cf0-ee13-4571-8bb7-7fb2515177d7/",
-    "/mf2/2019/07/zberq",
     "/mf2/2019/07/ZbERQ"
   ]
 }

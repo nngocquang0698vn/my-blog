@@ -23,7 +23,6 @@
   "slug": "2019/02/qkhvw",
   "aliases": [
     "/mf2/a8c82778-d5fd-4f9a-b614-7e4f288a580f/",
-    "/mf2/2019/02/qkhvw",
     "/mf2/2019/02/qKHvW"
   ]
 }

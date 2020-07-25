@@ -23,7 +23,6 @@
   "slug": "2019/01/lnkw2",
   "aliases": [
     "/mf2/7acf6e3f-7c5b-499b-ac7f-585ca592b312/",
-    "/mf2/2019/01/lnkw2",
     "/mf2/2019/01/LnkW2"
   ]
 }

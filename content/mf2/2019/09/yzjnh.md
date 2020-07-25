@@ -23,7 +23,6 @@
   "slug": "2019/09/yzjnh",
   "aliases": [
     "/mf2/be7e2307-bee5-4349-928e-b5ca7ee0d075/",
-    "/mf2/2019/09/yzjnh",
     "/mf2/2019/09/yzJNH"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/12/awzhi",
   "aliases": [
     "/mf2/44fc90e0-b683-4f83-ab89-4e7a5063fa9f/",
-    "/mf2/2018/12/awzhi",
     "/mf2/2018/12/AWZHI"
   ]
 }

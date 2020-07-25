@@ -50,7 +50,6 @@
   "slug": "2017/01/su8yv",
   "aliases": [
     "/mf2/7a4e1db3-c84d-438b-a45d-26fac8c76f79/",
-    "/mf2/2017/01/su8yv",
     "/mf2/2017/01/SU8yV"
   ]
 }

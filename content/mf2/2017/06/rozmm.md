@@ -23,7 +23,6 @@
   "slug": "2017/06/rozmm",
   "aliases": [
     "/mf2/e4921d6c-6494-4ee8-a4fc-501234258c1b/",
-    "/mf2/2017/06/rozmm",
     "/mf2/2017/06/rozmM"
   ]
 }

@@ -25,7 +25,6 @@
   "slug": "2019/09/pgpsq",
   "aliases": [
     "/mf2/b17d3509-62dc-40fc-8bf6-a6d04fba4903/",
-    "/mf2/2019/09/pgpsq",
     "/mf2/2019/09/Pgpsq"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/10/qcylo",
   "aliases": [
     "/mf2/8626edc3-c130-4997-aea9-956016fc2cb5/",
-    "/mf2/2019/10/qcylo",
     "/mf2/2019/10/QcYLo"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/01/rfe6o",
   "aliases": [
     "/mf2/18cb1eeb-0de8-4831-b952-1c53b41b2ef0/",
-    "/mf2/2019/01/rfe6o",
     "/mf2/2019/01/Rfe6o"
   ]
 }

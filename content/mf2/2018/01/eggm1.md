@@ -23,7 +23,6 @@
   "slug": "2018/01/eggm1",
   "aliases": [
     "/mf2/a10f23f2-0848-4f6b-bf0d-5c3ad4dc8c8e/",
-    "/mf2/2018/01/eggm1",
     "/mf2/2018/01/eGGM1"
   ]
 }

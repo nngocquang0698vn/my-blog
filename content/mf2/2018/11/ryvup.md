@@ -23,7 +23,6 @@
   "slug": "2018/11/ryvup",
   "aliases": [
     "/mf2/c6f36b48-34d5-483e-8a94-4b1bb0f3668a/",
-    "/mf2/2018/11/ryvup",
     "/mf2/2018/11/RyvuP"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/09/algqk",
   "aliases": [
     "/mf2/075fdfe1-fc6a-4ffa-a684-f8320e3ffd14/",
-    "/mf2/2019/09/algqk",
     "/mf2/2019/09/aLgqK"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/02/taxph",
   "aliases": [
     "/mf2/3345041d-c16f-410f-a64a-d01bf5bd1b62/",
-    "/mf2/2018/02/taxph",
     "/mf2/2018/02/tAXPh"
   ]
 }

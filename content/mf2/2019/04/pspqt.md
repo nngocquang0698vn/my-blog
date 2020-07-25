@@ -23,7 +23,6 @@
   "slug": "2019/04/pspqt",
   "aliases": [
     "/mf2/a90ec5a1-576a-4513-b187-d6988bca20f9/",
-    "/mf2/2019/04/pspqt",
     "/mf2/2019/04/pSPqT"
   ]
 }

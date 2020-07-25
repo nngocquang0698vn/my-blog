@@ -27,7 +27,6 @@
   "slug": "2019/10/lbhon",
   "aliases": [
     "/mf2/b13e6dd3-21ac-475b-a9d1-54cc6fa8ab0e/",
-    "/mf2/2019/10/lbhon",
     "/mf2/2019/10/LbHOn"
   ]
 }

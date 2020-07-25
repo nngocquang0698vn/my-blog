@@ -23,7 +23,6 @@
   "slug": "2019/08/obrjc",
   "aliases": [
     "/mf2/ea89a790-32b6-4ed5-a4aa-4688c204927e/",
-    "/mf2/2019/08/obrjc",
     "/mf2/2019/08/obRJC"
   ]
 }

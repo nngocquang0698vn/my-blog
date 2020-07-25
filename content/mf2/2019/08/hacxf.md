@@ -16,7 +16,6 @@
   "slug": "2019/08/hacxf",
   "aliases": [
     "/mf2/3baeb3f5-e607-4e7f-97a6-4f5fa94da4e8/",
-    "/mf2/2019/08/hacxf",
     "/mf2/2019/08/haCXf"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2017/01/bezq1",
   "aliases": [
     "/mf2/b45b1b07-8c0e-4712-b3ab-4c9ded83e691/",
-    "/mf2/2017/01/bezq1",
     "/mf2/2017/01/beZQ1"
   ]
 }

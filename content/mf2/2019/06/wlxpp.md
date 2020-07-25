@@ -23,7 +23,6 @@
   "slug": "2019/06/wlxpp",
   "aliases": [
     "/mf2/04f47619-c1f1-4fec-a08c-a623684da0a1/",
-    "/mf2/2019/06/wlxpp",
     "/mf2/2019/06/wlxPP"
   ]
 }

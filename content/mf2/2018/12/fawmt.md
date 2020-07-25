@@ -23,7 +23,6 @@
   "slug": "2018/12/fawmt",
   "aliases": [
     "/mf2/a197d372-7f74-432b-9baa-d00d18313a50/",
-    "/mf2/2018/12/fawmt",
     "/mf2/2018/12/fAWMT"
   ]
 }

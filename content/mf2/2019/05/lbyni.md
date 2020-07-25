@@ -23,7 +23,6 @@
   "slug": "2019/05/lbyni",
   "aliases": [
     "/mf2/620bf90d-c225-4995-862a-b845bb404ce7/",
-    "/mf2/2019/05/lbyni",
     "/mf2/2019/05/LbYnI"
   ]
 }

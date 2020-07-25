@@ -23,7 +23,6 @@
   "slug": "2018/01/rbxpx",
   "aliases": [
     "/mf2/09371f80-3a06-493d-9d3e-9e2a1b4debfb/",
-    "/mf2/2018/01/rbxpx",
     "/mf2/2018/01/rbXPX"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/01/d3inr",
   "aliases": [
     "/mf2/6dd601ee-ea80-4ead-91e1-4e441c6d8785/",
-    "/mf2/2019/01/d3inr",
     "/mf2/2019/01/d3inR"
   ]
 }

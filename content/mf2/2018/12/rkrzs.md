@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/rkrzs",
   "aliases": [
-    "/mf2/88aa8820-7979-4dab-8ee8-655a98116afc/",
-    "/mf2/2018/12/rkrzs"
+    "/mf2/88aa8820-7979-4dab-8ee8-655a98116afc/"
   ]
 }

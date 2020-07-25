@@ -23,7 +23,6 @@
   "slug": "2018/09/f6dtr",
   "aliases": [
     "/mf2/4091b2ee-356a-46a3-9b4a-e85dbc1981df/",
-    "/mf2/2018/09/f6dtr",
     "/mf2/2018/09/F6DTR"
   ]
 }

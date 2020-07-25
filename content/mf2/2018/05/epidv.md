@@ -23,7 +23,6 @@
   "slug": "2018/05/epidv",
   "aliases": [
     "/mf2/cef83417-84f4-4514-8b7a-ba45736fb1dc/",
-    "/mf2/2018/05/epidv",
     "/mf2/2018/05/ePIdv"
   ]
 }

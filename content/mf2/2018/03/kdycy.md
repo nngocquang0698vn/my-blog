@@ -23,7 +23,6 @@
   "slug": "2018/03/kdycy",
   "aliases": [
     "/mf2/36242766-dac8-4e58-8fa9-9ef7e6c9682c/",
-    "/mf2/2018/03/kdycy",
     "/mf2/2018/03/KdyCY"
   ]
 }

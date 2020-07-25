@@ -23,7 +23,6 @@
   "slug": "2018/10/zwrqr",
   "aliases": [
     "/mf2/0f0e2f44-d2ac-4a00-afcb-9586a5a7e578/",
-    "/mf2/2018/10/zwrqr",
     "/mf2/2018/10/zWrQr"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/06/jfsut",
   "aliases": [
     "/mf2/c58a2a6d-ce90-45c3-b414-16af2df1326c/",
-    "/mf2/2018/06/jfsut",
     "/mf2/2018/06/JFsut"
   ]
 }

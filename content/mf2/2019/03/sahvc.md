@@ -23,7 +23,6 @@
   "slug": "2019/03/sahvc",
   "aliases": [
     "/mf2/b37ec90d-46bf-4905-9da7-76cde98606c2/",
-    "/mf2/2019/03/sahvc",
     "/mf2/2019/03/SAHVc"
   ]
 }

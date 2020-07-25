@@ -16,7 +16,6 @@
   "slug": "2019/08/makt0",
   "aliases": [
     "/mf2/dfcd2818-b1c5-42ce-a0ce-69dd4ce24fc9/",
-    "/mf2/2019/08/makt0",
     "/mf2/2019/08/mAkt0"
   ]
 }

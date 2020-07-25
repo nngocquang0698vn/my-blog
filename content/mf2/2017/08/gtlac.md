@@ -23,7 +23,6 @@
   "slug": "2017/08/gtlac",
   "aliases": [
     "/mf2/dfba10d5-7d48-428b-b115-1ec0060bff20/",
-    "/mf2/2017/08/gtlac",
     "/mf2/2017/08/GtLac"
   ]
 }

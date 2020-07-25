@@ -23,7 +23,6 @@
   "slug": "2018/09/cjcpa",
   "aliases": [
     "/mf2/85ce58c5-98fa-48bf-a3bc-30c4aa584652/",
-    "/mf2/2018/09/cjcpa",
     "/mf2/2018/09/cjCpA"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2016/10/pkrwz",
   "aliases": [
     "/mf2/6f991bfe-8cb1-4e53-96a2-346a3e827afd/",
-    "/mf2/2016/10/pkrwz",
     "/mf2/2016/10/pkRWZ"
   ]
 }

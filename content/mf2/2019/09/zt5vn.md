@@ -23,7 +23,6 @@
   "slug": "2019/09/zt5vn",
   "aliases": [
     "/mf2/830cd126-5ae6-4657-b56f-6c2ea9fccf3f/",
-    "/mf2/2019/09/zt5vn",
     "/mf2/2019/09/zT5vn"
   ]
 }

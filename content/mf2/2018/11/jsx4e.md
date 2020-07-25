@@ -23,7 +23,6 @@
   "slug": "2018/11/jsx4e",
   "aliases": [
     "/mf2/fc5aaede-dda6-4a6b-bbc8-e9236ee1c790/",
-    "/mf2/2018/11/jsx4e",
     "/mf2/2018/11/JSx4e"
   ]
 }

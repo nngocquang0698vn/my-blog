@@ -23,7 +23,6 @@
   "slug": "2018/08/pntvw",
   "aliases": [
     "/mf2/ca8019fb-b0ad-4c64-9847-df773828ead0/",
-    "/mf2/2018/08/pntvw",
     "/mf2/2018/08/PnTvW"
   ]
 }

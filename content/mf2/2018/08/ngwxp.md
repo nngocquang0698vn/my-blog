@@ -23,7 +23,6 @@
   "slug": "2018/08/ngwxp",
   "aliases": [
     "/mf2/5ad55525-c541-4d84-b8c4-7010a8f91cdb/",
-    "/mf2/2018/08/ngwxp",
     "/mf2/2018/08/ngwxP"
   ]
 }

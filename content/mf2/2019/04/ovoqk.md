@@ -23,7 +23,6 @@
   "slug": "2019/04/ovoqk",
   "aliases": [
     "/mf2/806914d2-0bcf-4639-8d0a-0607be2d306e/",
-    "/mf2/2019/04/ovoqk",
     "/mf2/2019/04/ovoQk"
   ]
 }

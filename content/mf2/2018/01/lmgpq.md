@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/01/lmgpq",
   "aliases": [
-    "/mf2/dcc8a6b6-cb3b-467f-96ce-9f30ea1b4a03/",
-    "/mf2/2018/01/lmgpq"
+    "/mf2/dcc8a6b6-cb3b-467f-96ce-9f30ea1b4a03/"
   ]
 }

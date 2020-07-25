@@ -29,7 +29,6 @@
   "slug": "2019/10/zevjp",
   "aliases": [
     "/mf2/2f1c4c9e-168a-4840-b3c8-c2afba00641b/",
-    "/mf2/2019/10/zevjp",
     "/mf2/2019/10/zeVjP"
   ]
 }

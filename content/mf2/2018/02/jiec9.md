@@ -23,7 +23,6 @@
   "slug": "2018/02/jiec9",
   "aliases": [
     "/mf2/9df0ddc5-3e49-418e-87f5-1f62d225bcd7/",
-    "/mf2/2018/02/jiec9",
     "/mf2/2018/02/jiEc9"
   ]
 }

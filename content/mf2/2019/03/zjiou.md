@@ -23,7 +23,6 @@
   "slug": "2019/03/zjiou",
   "aliases": [
     "/mf2/a8a9a4f2-d69b-4339-b1ea-e7e2975950bd/",
-    "/mf2/2019/03/zjiou",
     "/mf2/2019/03/zjiOu"
   ]
 }

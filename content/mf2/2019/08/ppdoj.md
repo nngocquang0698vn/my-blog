@@ -16,7 +16,6 @@
   "slug": "2019/08/ppdoj",
   "aliases": [
     "/mf2/ce281375-1510-427f-a29a-b3afa8ebf04c/",
-    "/mf2/2019/08/ppdoj",
     "/mf2/2019/08/PPdoj"
   ]
 }

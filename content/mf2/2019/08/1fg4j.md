@@ -30,7 +30,6 @@
   "slug": "2019/08/1fg4j",
   "aliases": [
     "/mf2/78e1c15e-bfaa-47ee-b574-ddb8c902e6e9/",
-    "/mf2/2019/08/1fg4j",
     "/mf2/2019/08/1fG4J"
   ]
 }

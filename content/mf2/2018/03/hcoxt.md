@@ -23,7 +23,6 @@
   "slug": "2018/03/hcoxt",
   "aliases": [
     "/mf2/a5f23a59-6f9b-489f-841b-95af69962efb/",
-    "/mf2/2018/03/hcoxt",
     "/mf2/2018/03/HCOXt"
   ]
 }

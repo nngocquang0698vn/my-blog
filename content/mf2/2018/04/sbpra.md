@@ -23,7 +23,6 @@
   "slug": "2018/04/sbpra",
   "aliases": [
     "/mf2/919a4fdf-a13c-4aa1-bf89-db81577903fd/",
-    "/mf2/2018/04/sbpra",
     "/mf2/2018/04/sBpRA"
   ]
 }

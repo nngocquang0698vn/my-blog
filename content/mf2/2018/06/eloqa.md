@@ -23,7 +23,6 @@
   "slug": "2018/06/eloqa",
   "aliases": [
     "/mf2/931aafd7-8e6e-4c03-9bb1-fa8facb43d7b/",
-    "/mf2/2018/06/eloqa",
     "/mf2/2018/06/elOqa"
   ]
 }

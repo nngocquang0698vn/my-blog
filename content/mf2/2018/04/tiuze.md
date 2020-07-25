@@ -23,7 +23,6 @@
   "slug": "2018/04/tiuze",
   "aliases": [
     "/mf2/3dfdc17b-997c-4ace-9076-38c56d6d3d6c/",
-    "/mf2/2018/04/tiuze",
     "/mf2/2018/04/TiuZE"
   ]
 }

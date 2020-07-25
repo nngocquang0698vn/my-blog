@@ -23,7 +23,6 @@
   "slug": "2018/06/rxqap",
   "aliases": [
     "/mf2/e9c0df2b-a4fa-4990-aa59-a4b420d4e487/",
-    "/mf2/2018/06/rxqap",
     "/mf2/2018/06/RxQaP"
   ]
 }

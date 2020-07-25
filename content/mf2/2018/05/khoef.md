@@ -23,7 +23,6 @@
   "slug": "2018/05/khoef",
   "aliases": [
     "/mf2/5acaf1cf-948f-46bb-b94c-05aba7639a09/",
-    "/mf2/2018/05/khoef",
     "/mf2/2018/05/Khoef"
   ]
 }

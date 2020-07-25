@@ -16,7 +16,6 @@
   "slug": "2019/08/4ruub",
   "aliases": [
     "/mf2/d213db76-37fe-49e6-9b96-ecea1d4e7585/",
-    "/mf2/2019/08/4ruub",
     "/mf2/2019/08/4ruUB"
   ]
 }

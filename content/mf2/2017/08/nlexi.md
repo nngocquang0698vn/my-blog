@@ -23,7 +23,6 @@
   "slug": "2017/08/nlexi",
   "aliases": [
     "/mf2/753eac86-d715-4110-868f-d64db8b13e37/",
-    "/mf2/2017/08/nlexi",
     "/mf2/2017/08/NlEXi"
   ]
 }

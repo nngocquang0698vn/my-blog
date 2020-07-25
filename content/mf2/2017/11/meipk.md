@@ -23,7 +23,6 @@
   "slug": "2017/11/meipk",
   "aliases": [
     "/mf2/ee7b88c1-da98-4cb7-a765-c50d3dcb0fc3/",
-    "/mf2/2017/11/meipk",
     "/mf2/2017/11/meIpk"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/08/xetno",
   "aliases": [
     "/mf2/1d278f17-f6b4-4a38-a1fc-7c87c6af7556/",
-    "/mf2/2018/08/xetno",
     "/mf2/2018/08/XetNO"
   ]
 }

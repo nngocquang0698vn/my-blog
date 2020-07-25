@@ -50,7 +50,6 @@
   "slug": "2017/08/qgvwz",
   "aliases": [
     "/mf2/df0a1f0e-b996-4c7b-af2f-558178885a72/",
-    "/mf2/2017/08/qgvwz",
     "/mf2/2017/08/QgvWz"
   ]
 }

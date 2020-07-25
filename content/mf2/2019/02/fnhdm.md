@@ -23,7 +23,6 @@
   "slug": "2019/02/fnhdm",
   "aliases": [
     "/mf2/f78962cf-11a3-45dc-b370-93bf3bb94659/",
-    "/mf2/2019/02/fnhdm",
     "/mf2/2019/02/fNHdm"
   ]
 }

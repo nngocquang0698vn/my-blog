@@ -46,7 +46,6 @@
   "aliases": [
     "/rsvps/5d114192-c7ad-4273-b1ea-aa417d4a823f/",
     "/mf2/5d114192-c7ad-4273-b1ea-aa417d4a823f/",
-    "/mf2/2019/06/d86ld",
     "/mf2/2019/06/D86lD"
   ],
   "h": "h-entry",

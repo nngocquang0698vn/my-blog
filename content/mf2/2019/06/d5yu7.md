@@ -16,7 +16,6 @@
   "aliases": [
     "/likes/b69bc330-4ff8-4ed4-a979-bdba9ba5a60d/",
     "/mf2/b69bc330-4ff8-4ed4-a979-bdba9ba5a60d/",
-    "/mf2/2019/06/d5yu7",
     "/mf2/2019/06/D5yU7"
   ],
   "h": "h-entry",

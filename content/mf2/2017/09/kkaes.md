@@ -23,7 +23,6 @@
   "slug": "2017/09/kkaes",
   "aliases": [
     "/mf2/2d8a85cd-2af0-4efe-9b41-24b8d350f060/",
-    "/mf2/2017/09/kkaes",
     "/mf2/2017/09/KkAes"
   ]
 }

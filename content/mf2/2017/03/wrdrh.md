@@ -23,7 +23,6 @@
   "slug": "2017/03/wrdrh",
   "aliases": [
     "/mf2/d9312abc-5916-4b3c-92dc-175a52a00aae/",
-    "/mf2/2017/03/wrdrh",
     "/mf2/2017/03/wrdRH"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2018/05/pjjhd",
   "aliases": [
     "/mf2/03dd0f40-f0c5-427c-a237-85fa38aa67d8/",
-    "/mf2/2018/05/pjjhd",
     "/mf2/2018/05/pJJHd"
   ]
 }

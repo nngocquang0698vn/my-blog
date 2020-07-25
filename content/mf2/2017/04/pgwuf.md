@@ -23,7 +23,6 @@
   "slug": "2017/04/pgwuf",
   "aliases": [
     "/mf2/ec6245a6-6cbc-48e6-81c2-74bcb82084a9/",
-    "/mf2/2017/04/pgwuf",
     "/mf2/2017/04/PgWuF"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/06/deuhr",
   "aliases": [
     "/mf2/c2faefbe-a066-4899-969e-0c1794949dcc/",
-    "/mf2/2019/06/deuhr",
     "/mf2/2019/06/dEuHr"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/10/wtnq6",
   "aliases": [
     "/mf2/050ebc43-1dee-414e-a0b5-f4641abed12c/",
-    "/mf2/2019/10/wtnq6",
     "/mf2/2019/10/WTnQ6"
   ]
 }

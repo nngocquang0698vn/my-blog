@@ -23,7 +23,6 @@
   "slug": "2017/05/ycnjm",
   "aliases": [
     "/mf2/2b509deb-140e-409f-a9ef-24b7d41ddb3d/",
-    "/mf2/2017/05/ycnjm",
     "/mf2/2017/05/YCnjM"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/10/xdl6b",
   "aliases": [
     "/mf2/051dad2e-4310-4de8-b19e-ede788d45b73/",
-    "/mf2/2019/10/xdl6b",
     "/mf2/2019/10/XDL6B"
   ]
 }

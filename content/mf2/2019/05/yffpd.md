@@ -20,7 +20,6 @@
   "aliases": [
     "/notes/1c8d85a8-4ab8-4ec8-aee9-3c557d22819f/",
     "/mf2/1c8d85a8-4ab8-4ec8-aee9-3c557d22819f/",
-    "/mf2/2019/05/yffpd",
     "/mf2/2019/05/yFfPd"
   ],
   "h": "h-entry",

@@ -23,7 +23,6 @@
   "slug": "2018/04/jlaxt",
   "aliases": [
     "/mf2/d3423be0-fce4-4266-82c8-2c20844d04ea/",
-    "/mf2/2018/04/jlaxt",
     "/mf2/2018/04/jlaXt"
   ]
 }

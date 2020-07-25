@@ -23,7 +23,6 @@
   "slug": "2016/12/epykh",
   "aliases": [
     "/mf2/d278c9cc-1b7d-4e01-91ee-6585f52a2212/",
-    "/mf2/2016/12/epykh",
     "/mf2/2016/12/ePykH"
   ]
 }

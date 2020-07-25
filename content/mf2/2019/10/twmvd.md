@@ -35,7 +35,6 @@
   "slug": "2019/10/twmvd",
   "aliases": [
     "/mf2/358abae3-d618-4a21-88f1-0e6c0790845d/",
-    "/mf2/2019/10/twmvd",
     "/mf2/2019/10/tWMvd"
   ]
 }

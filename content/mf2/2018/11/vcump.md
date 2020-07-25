@@ -23,7 +23,6 @@
   "slug": "2018/11/vcump",
   "aliases": [
     "/mf2/b71530bb-b28f-4fa0-84d4-4744ab6fa0cd/",
-    "/mf2/2018/11/vcump",
     "/mf2/2018/11/vcuMP"
   ]
 }

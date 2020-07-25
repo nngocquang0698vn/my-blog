@@ -17,7 +17,6 @@
   "slug": "2019/09/rgxrd",
   "aliases": [
     "/mf2/55851b8f-c72c-402a-b07e-28ffccec9a77/",
-    "/mf2/2019/09/rgxrd",
     "/mf2/2019/09/rGXrD"
   ]
 }

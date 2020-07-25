@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/02/z54me",
   "aliases": [
-    "/mf2/ce8a930b-2ed5-4edb-9090-d5f86af504e7/",
-    "/mf2/2017/02/z54me"
+    "/mf2/ce8a930b-2ed5-4edb-9090-d5f86af504e7/"
   ]
 }

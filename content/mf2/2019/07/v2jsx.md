@@ -22,7 +22,6 @@
   "aliases": [
     "/bookmarks/652e4225-38e1-4b1a-b5e4-7c4e3ffe32b7/",
     "/mf2/652e4225-38e1-4b1a-b5e4-7c4e3ffe32b7/",
-    "/mf2/2019/07/v2jsx",
     "/mf2/2019/07/V2jSx"
   ],
   "h": "h-entry",

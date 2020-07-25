@@ -31,7 +31,6 @@
   "slug": "2019/10/5hy7z",
   "aliases": [
     "/mf2/8ddb8da8-8a1d-4d5f-aeb2-8b417b52ab18/",
-    "/mf2/2019/10/5hy7z",
     "/mf2/2019/10/5HY7z"
   ]
 }

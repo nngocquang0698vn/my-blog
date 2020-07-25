@@ -23,7 +23,6 @@
   "slug": "2018/07/nl5kw",
   "aliases": [
     "/mf2/b1ffb9db-b68b-46c4-bc0e-e9dc152f80f2/",
-    "/mf2/2018/07/nl5kw",
     "/mf2/2018/07/NL5Kw"
   ]
 }

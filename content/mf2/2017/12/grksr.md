@@ -23,7 +23,6 @@
   "slug": "2017/12/grksr",
   "aliases": [
     "/mf2/aec622b6-fbc3-4a69-af78-31fc7f191a90/",
-    "/mf2/2017/12/grksr",
     "/mf2/2017/12/gRKSr"
   ]
 }

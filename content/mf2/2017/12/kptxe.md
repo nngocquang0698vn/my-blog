@@ -23,7 +23,6 @@
   "slug": "2017/12/kptxe",
   "aliases": [
     "/mf2/1eb92c46-7be1-4e2c-b9f6-35eb52f83b34/",
-    "/mf2/2017/12/kptxe",
     "/mf2/2017/12/kPtXe"
   ]
 }

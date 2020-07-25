@@ -23,7 +23,6 @@
   "slug": "2017/12/6pmpo",
   "aliases": [
     "/mf2/a485583e-caa2-456a-8df5-ba2800685abf/",
-    "/mf2/2017/12/6pmpo",
     "/mf2/2017/12/6pMPO"
   ]
 }

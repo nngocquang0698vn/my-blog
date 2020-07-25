@@ -23,7 +23,6 @@
   "slug": "2017/04/pmrso",
   "aliases": [
     "/mf2/11c31194-afe8-46db-8f13-b6fe8c754a71/",
-    "/mf2/2017/04/pmrso",
     "/mf2/2017/04/pMRso"
   ]
 }

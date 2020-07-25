@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/07/6phax",
   "aliases": [
-    "/mf2/f1df609b-10ed-4a2a-80bd-2974594356e8/",
-    "/mf2/2017/07/6phax"
+    "/mf2/f1df609b-10ed-4a2a-80bd-2974594356e8/"
   ]
 }

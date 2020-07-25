@@ -23,7 +23,6 @@
   "slug": "2018/08/gxggu",
   "aliases": [
     "/mf2/e710f495-ec9a-4878-82ad-00edc494bc65/",
-    "/mf2/2018/08/gxggu",
     "/mf2/2018/08/gXGgu"
   ]
 }

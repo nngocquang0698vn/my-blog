@@ -16,7 +16,6 @@
   "aliases": [
     "/bookmarks/060bf1b6-ed66-4935-9085-2935465c2e0e/",
     "/mf2/060bf1b6-ed66-4935-9085-2935465c2e0e/",
-    "/mf2/2019/07/camwg",
     "/mf2/2019/07/CAmwg"
   ],
   "h": "h-entry",

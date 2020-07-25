@@ -17,7 +17,6 @@
   "slug": "2019/09/kxkhh",
   "aliases": [
     "/mf2/2a1f812c-b082-4fcf-9ad4-b75d8ab0e1a5/",
-    "/mf2/2019/09/kxkhh",
     "/mf2/2019/09/Kxkhh"
   ]
 }

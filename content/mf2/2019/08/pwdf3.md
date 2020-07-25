@@ -16,7 +16,6 @@
   "slug": "2019/08/pwdf3",
   "aliases": [
     "/mf2/6bf1835d-4ce3-4bc0-b47f-47dec674cf07/",
-    "/mf2/2019/08/pwdf3",
     "/mf2/2019/08/Pwdf3"
   ]
 }

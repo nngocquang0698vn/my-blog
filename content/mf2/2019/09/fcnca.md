@@ -23,7 +23,6 @@
   "slug": "2019/09/fcnca",
   "aliases": [
     "/mf2/e68e2279-72a4-41b1-bce3-8343cc070beb/",
-    "/mf2/2019/09/fcnca",
     "/mf2/2019/09/fcNca"
   ]
 }

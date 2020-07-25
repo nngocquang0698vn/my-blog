@@ -22,7 +22,6 @@
   "aliases": [
     "/bookmarks/d9016a7e-bd47-4217-b967-954c38e4d30e/",
     "/mf2/d9016a7e-bd47-4217-b967-954c38e4d30e/",
-    "/mf2/2019/07/mowal",
     "/mf2/2019/07/mOWAL"
   ],
   "h": "h-entry",

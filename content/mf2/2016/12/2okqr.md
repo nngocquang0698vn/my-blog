@@ -23,7 +23,6 @@
   "slug": "2016/12/2okqr",
   "aliases": [
     "/mf2/fb1a839a-9d58-4a16-bc8b-343afefb7117/",
-    "/mf2/2016/12/2okqr",
     "/mf2/2016/12/2oKqr"
   ]
 }

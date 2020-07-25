@@ -30,7 +30,6 @@
   "slug": "2019/08/lrjnd",
   "aliases": [
     "/mf2/11b429a7-2cde-42a7-be06-8f29036c4464/",
-    "/mf2/2019/08/lrjnd",
     "/mf2/2019/08/LRJNd"
   ]
 }

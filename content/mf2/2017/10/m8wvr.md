@@ -23,7 +23,6 @@
   "slug": "2017/10/m8wvr",
   "aliases": [
     "/mf2/cf0d2ac3-eb50-45ea-9162-cf174a7650de/",
-    "/mf2/2017/10/m8wvr",
     "/mf2/2017/10/m8wVr"
   ]
 }

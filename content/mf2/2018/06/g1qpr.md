@@ -23,7 +23,6 @@
   "slug": "2018/06/g1qpr",
   "aliases": [
     "/mf2/3f5e0b4c-c802-45f7-884c-eae245fc48f1/",
-    "/mf2/2018/06/g1qpr",
     "/mf2/2018/06/G1QPr"
   ]
 }

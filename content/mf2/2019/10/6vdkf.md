@@ -23,7 +23,6 @@
   "slug": "2019/10/6vdkf",
   "aliases": [
     "/mf2/11c8e841-7e0e-4bf0-abc6-ebd4c1a901a7/",
-    "/mf2/2019/10/6vdkf",
     "/mf2/2019/10/6vDKF"
   ]
 }

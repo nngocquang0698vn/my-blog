@@ -23,7 +23,6 @@
   "slug": "2018/06/cfvuz",
   "aliases": [
     "/mf2/7a3140a7-a8f6-47bd-8bcd-2d77a76bae8a/",
-    "/mf2/2018/06/cfvuz",
     "/mf2/2018/06/CFvuz"
   ]
 }

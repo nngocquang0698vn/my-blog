@@ -23,7 +23,6 @@
   "slug": "2019/06/dsozm",
   "aliases": [
     "/mf2/77684b36-4ad0-475d-b319-8f83f1eeeaeb/",
-    "/mf2/2019/06/dsozm",
     "/mf2/2019/06/dSoZm"
   ]
 }

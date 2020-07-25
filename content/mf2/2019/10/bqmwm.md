@@ -23,7 +23,6 @@
   "slug": "2019/10/bqmwm",
   "aliases": [
     "/mf2/0a78526c-a8a3-440a-8aea-b0f2911d2960/",
-    "/mf2/2019/10/bqmwm",
     "/mf2/2019/10/bqmWm"
   ]
 }

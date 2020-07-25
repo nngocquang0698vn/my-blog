@@ -23,7 +23,6 @@
   "slug": "2018/10/ansyv",
   "aliases": [
     "/mf2/988504c6-225a-4b17-b56d-5c1cdedb079d/",
-    "/mf2/2018/10/ansyv",
     "/mf2/2018/10/anSYv"
   ]
 }

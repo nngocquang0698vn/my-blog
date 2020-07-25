@@ -23,7 +23,6 @@
   "slug": "2017/10/etzk9",
   "aliases": [
     "/mf2/728b5ac3-9c87-40b2-a22d-dfef2500fb52/",
-    "/mf2/2017/10/etzk9",
     "/mf2/2017/10/eTZk9"
   ]
 }

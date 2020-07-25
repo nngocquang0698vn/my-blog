@@ -27,7 +27,6 @@
   "slug": "2019/10/ucvdz",
   "aliases": [
     "/mf2/1eece546-b9bb-4abd-a041-f4837830f44e/",
-    "/mf2/2019/10/ucvdz",
     "/mf2/2019/10/UCvdZ"
   ]
 }

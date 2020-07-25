@@ -23,7 +23,6 @@
   "slug": "2019/02/hkmpm",
   "aliases": [
     "/mf2/0dec1015-c743-46ce-9457-78ca441ef250/",
-    "/mf2/2019/02/hkmpm",
     "/mf2/2019/02/HkmPm"
   ]
 }

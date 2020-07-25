@@ -23,7 +23,6 @@
   "slug": "2019/09/pmn1e",
   "aliases": [
     "/mf2/cb1a9c7e-6437-442b-93d4-a21dcd1f757d/",
-    "/mf2/2019/09/pmn1e",
     "/mf2/2019/09/pmn1E"
   ]
 }

@@ -23,7 +23,6 @@
   "slug": "2019/03/giykt",
   "aliases": [
     "/mf2/7006b7c2-89fa-4fe0-b840-eb188fa42a24/",
-    "/mf2/2019/03/giykt",
     "/mf2/2019/03/GIykt"
   ]
 }

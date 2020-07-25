@@ -23,7 +23,6 @@
   "slug": "2018/10/tco0q",
   "aliases": [
     "/mf2/d43d8300-a5e1-4680-baea-e2b9d938ae32/",
-    "/mf2/2018/10/tco0q",
     "/mf2/2018/10/TcO0q"
   ]
 }

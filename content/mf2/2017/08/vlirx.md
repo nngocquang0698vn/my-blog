@@ -23,7 +23,6 @@
   "slug": "2017/08/vlirx",
   "aliases": [
     "/mf2/1dc33ae8-b8ed-4e2d-992b-66474892a5cf/",
-    "/mf2/2017/08/vlirx",
     "/mf2/2017/08/VLIrX"
   ]
 }

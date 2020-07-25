@@ -23,7 +23,6 @@
   "slug": "2019/02/zrqtv",
   "aliases": [
     "/mf2/9f35536f-6fbd-4b63-b5b0-56616d85b8ad/",
-    "/mf2/2019/02/zrqtv",
     "/mf2/2019/02/ZrQTv"
   ]
 }

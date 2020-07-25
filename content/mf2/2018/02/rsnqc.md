@@ -23,7 +23,6 @@
   "slug": "2018/02/rsnqc",
   "aliases": [
     "/mf2/644fdb60-0224-40cb-b495-ae107ba28cfd/",
-    "/mf2/2018/02/rsnqc",
     "/mf2/2018/02/Rsnqc"
   ]
 }

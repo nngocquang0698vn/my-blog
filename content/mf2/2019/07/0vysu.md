@@ -23,7 +23,6 @@
   "slug": "2019/07/0vysu",
   "aliases": [
     "/mf2/3ebace99-0e9b-4ead-b951-313cc7af8c71/",
-    "/mf2/2019/07/0vysu",
     "/mf2/2019/07/0VYSu"
   ]
 }

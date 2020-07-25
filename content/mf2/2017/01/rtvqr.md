@@ -23,7 +23,6 @@
   "slug": "2017/01/rtvqr",
   "aliases": [
     "/mf2/abe7e983-45e2-45dd-8369-a2363af46985/",
-    "/mf2/2017/01/rtvqr",
     "/mf2/2017/01/RtvQr"
   ]
 }

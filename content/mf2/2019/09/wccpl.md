@@ -17,7 +17,6 @@
   "slug": "2019/09/wccpl",
   "aliases": [
     "/mf2/3c58cb34-acb4-4535-80aa-8ee6f894d1d1/",
-    "/mf2/2019/09/wccpl",
     "/mf2/2019/09/wCcPL"
   ]
 }

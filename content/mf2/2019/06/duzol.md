@@ -17,7 +17,6 @@
   "aliases": [
     "/bookmarks/26a6868d-4036-47f8-ab88-453c994f63cb/",
     "/mf2/26a6868d-4036-47f8-ab88-453c994f63cb/",
-    "/mf2/2019/06/duzol",
     "/mf2/2019/06/dUZOL"
   ],
   "h": "h-entry",

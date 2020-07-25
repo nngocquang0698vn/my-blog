@@ -23,7 +23,6 @@
   "slug": "2017/11/tqynq",
   "aliases": [
     "/mf2/5dd013be-1548-48fb-b3c5-96d95da6bb60/",
-    "/mf2/2017/11/tqynq",
     "/mf2/2017/11/TQYnq"
   ]
 }
