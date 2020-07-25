@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1287074323811966984" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2020-07-25T18:23:00+01:00" ],
     "category" : [ "github" ],
