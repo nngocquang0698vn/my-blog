@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mr_goodwin/status/1286958483087265793" ],
     "name" : [ "Like of @mr_goodwin's tweet" ],
     "published" : [ "2020-07-25T09:43:59.967Z" ],
     "like-of" : [ "https://twitter.com/mr_goodwin/status/1286958483087265793" ]
