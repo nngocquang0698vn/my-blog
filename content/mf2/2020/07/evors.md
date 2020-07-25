@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1286964247717609474" ],
     "published" : [ "2020-07-25T09:52:22.757Z" ],
     "category" : [ "indiewebcamp" ],
     "content" : [ {
