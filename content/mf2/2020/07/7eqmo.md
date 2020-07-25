@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LinuxJedi/status/1286637166773374979" ],
     "name" : [ "Like of @LinuxJedi's tweet" ],
     "published" : [ "2020-07-25T12:41:00+01:00" ],
     "category" : [ "coronavirus" ],
