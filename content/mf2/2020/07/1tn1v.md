@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jilljubs/status/1287074890932199424" ],
     "name" : [ "Like of @jilljubs's tweet" ],
     "published" : [ "2020-07-25T18:24:00+01:00" ],
     "category" : [ "cute" ],
