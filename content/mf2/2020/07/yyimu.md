@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Robin_urlove/status/1286452177796571137" ],
     "name" : [ "Like of @Robin_urlove's tweet" ],
     "published" : [ "2020-07-25T19:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/Robin_urlove/status/1286452177796571137" ]
