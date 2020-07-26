@@ -16,8 +16,7 @@
   },
   "aliases": [
     "/likes/664feb3d-87fb-4795-98dd-d3d260d865db/",
-    "/mf2/664feb3d-87fb-4795-98dd-d3d260d865db/",
-    "/mf2/2019/06/Hi0fH"
+    "/mf2/664feb3d-87fb-4795-98dd-d3d260d865db/"
   ],
   "h": "h-entry",
   "date": "2019-06-23T21:36:20+0100",

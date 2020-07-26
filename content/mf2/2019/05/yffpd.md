@@ -19,8 +19,7 @@
   },
   "aliases": [
     "/notes/1c8d85a8-4ab8-4ec8-aee9-3c557d22819f/",
-    "/mf2/1c8d85a8-4ab8-4ec8-aee9-3c557d22819f/",
-    "/mf2/2019/05/yFfPd"
+    "/mf2/1c8d85a8-4ab8-4ec8-aee9-3c557d22819f/"
   ],
   "h": "h-entry",
   "date": "2019-05-29T18:47:45+0100",

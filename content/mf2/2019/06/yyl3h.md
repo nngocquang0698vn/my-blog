@@ -21,8 +21,7 @@
   },
   "aliases": [
     "/bookmarks/2045a47c-6eeb-45d2-9b32-d6f6340ebd81/",
-    "/mf2/2045a47c-6eeb-45d2-9b32-d6f6340ebd81/",
-    "/mf2/2019/06/Yyl3h"
+    "/mf2/2045a47c-6eeb-45d2-9b32-d6f6340ebd81/"
   ],
   "h": "h-entry",
   "date": "2019-06-27T21:07:28+0100",

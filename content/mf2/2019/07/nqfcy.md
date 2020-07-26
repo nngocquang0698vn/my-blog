@@ -15,8 +15,7 @@
   },
   "aliases": [
     "/likes/0eefda0f-18b1-4b33-9c56-cc561a3aaabc/",
-    "/mf2/0eefda0f-18b1-4b33-9c56-cc561a3aaabc/",
-    "/mf2/2019/07/nQFCy"
+    "/mf2/0eefda0f-18b1-4b33-9c56-cc561a3aaabc/"
   ],
   "h": "h-entry",
   "tags": [

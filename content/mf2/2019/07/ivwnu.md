@@ -45,8 +45,7 @@
   },
   "aliases": [
     "/rsvps/e62cf491-b7ab-4bf5-a46c-00d8e896c234/",
-    "/mf2/e62cf491-b7ab-4bf5-a46c-00d8e896c234/",
-    "/mf2/2019/07/IVWNU"
+    "/mf2/e62cf491-b7ab-4bf5-a46c-00d8e896c234/"
   ],
   "h": "h-entry",
   "date": "2019-07-29T20:00:00+0100",

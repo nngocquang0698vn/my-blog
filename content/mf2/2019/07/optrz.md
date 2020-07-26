@@ -21,8 +21,7 @@
   },
   "aliases": [
     "/bookmarks/7ff50d44-fdec-418c-9e34-778dad177587/",
-    "/mf2/7ff50d44-fdec-418c-9e34-778dad177587/",
-    "/mf2/2019/07/Optrz"
+    "/mf2/7ff50d44-fdec-418c-9e34-778dad177587/"
   ],
   "h": "h-entry",
   "date": "2019-07-25T07:19:00+0100",

@@ -22,6 +22,5 @@
     "licensing"
   ],
   "aliases": [
-    "/mf2/2019/11/rv0u5"
   ]
 }
