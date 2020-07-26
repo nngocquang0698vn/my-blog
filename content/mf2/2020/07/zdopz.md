@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287382108818874369" ],
     "photo" : [ {
       "alt" : "Jamie smiling at the camera, wrapped in a white sheet, with his hair noticeably long, and coming over his eyebrows",
       "photo" : "https://media.jvt.me/07bf2bfb5e.jpeg"
