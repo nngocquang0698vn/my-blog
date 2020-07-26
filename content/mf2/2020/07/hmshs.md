@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erinfranmc/status/1287042796906524673" ],
     "name" : [ "Like of @erinfranmc's tweet" ],
     "published" : [ "2020-07-26T11:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/erinfranmc/status/1287042796906524673" ]
