@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PepitoTheCat/status/1287499971168698368" ],
     "name" : [ "Like of @PepitoTheCat's tweet" ],
     "published" : [ "2020-07-26T22:43:00+01:00" ],
     "category" : [ "cute" ],
