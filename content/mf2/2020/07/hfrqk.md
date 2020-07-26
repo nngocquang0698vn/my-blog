@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/baddestmamajama/status/1287082136017625089" ],
     "name" : [ "Like of @baddestmamajama's tweet" ],
     "published" : [ "2020-07-26T11:55:00+01:00" ],
     "like-of" : [ "https://twitter.com/baddestmamajama/status/1287082136017625089" ]
