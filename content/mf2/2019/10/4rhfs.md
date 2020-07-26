@@ -22,7 +22,5 @@
     "testing"
   ],
   "aliases": [
-    "/mf2/2019/10/4rhfs",
-    "/mf2/2019/10/4rhfS"
   ]
 }

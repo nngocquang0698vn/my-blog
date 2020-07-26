@@ -26,7 +26,5 @@
     "web"
   ],
   "aliases": [
-    "/mf2/2019/11/ptrmj",
-    "/mf2/2019/11/PTRMJ"
   ]
 }

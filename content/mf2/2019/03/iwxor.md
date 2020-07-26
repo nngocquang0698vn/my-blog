@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/03/iwxor",
   "aliases": [
-    "/mf2/f92b4a96-1c5a-4c47-a4e7-58037a29d810/",
-    "/mf2/2019/03/IWXor"
+    "/mf2/f92b4a96-1c5a-4c47-a4e7-58037a29d810/"
   ]
 }

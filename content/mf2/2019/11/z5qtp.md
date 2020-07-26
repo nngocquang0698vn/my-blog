@@ -24,7 +24,5 @@
     "personal-website"
   ],
   "aliases": [
-    "/mf2/2019/11/z5qtp",
-    "/mf2/2019/11/z5QTP"
   ]
 }

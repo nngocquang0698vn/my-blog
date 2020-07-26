@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/01/rihga",
   "aliases": [
-    "/mf2/dc822298-f269-41e6-aa19-67cf08f09bba/",
-    "/mf2/2019/01/RIHga"
+    "/mf2/dc822298-f269-41e6-aa19-67cf08f09bba/"
   ]
 }

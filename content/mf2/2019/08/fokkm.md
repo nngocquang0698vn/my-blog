@@ -21,7 +21,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/fokkm",
   "aliases": [
-    "/mf2/23319682-95ed-4dd1-9efa-9e37fa3b0005/",
-    "/mf2/2019/08/foKKm"
+    "/mf2/23319682-95ed-4dd1-9efa-9e37fa3b0005/"
   ]
 }

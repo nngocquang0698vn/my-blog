@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/08/qvxen",
   "aliases": [
-    "/mf2/c7060866-4c37-40ff-9aeb-e28441949e52/",
-    "/mf2/2017/08/QVxen"
+    "/mf2/c7060866-4c37-40ff-9aeb-e28441949e52/"
   ]
 }

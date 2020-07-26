@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/06/sywtf",
   "aliases": [
-    "/mf2/4503f7ed-96cf-4cc7-8856-473af4d149e8/",
-    "/mf2/2018/06/SYwtF"
+    "/mf2/4503f7ed-96cf-4cc7-8856-473af4d149e8/"
   ]
 }

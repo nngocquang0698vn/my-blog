@@ -27,7 +27,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/rvkug",
   "aliases": [
-    "/mf2/85df8ad9-1b97-4f2c-9fd1-671700bd874c/",
-    "/mf2/2019/08/RVKUG"
+    "/mf2/85df8ad9-1b97-4f2c-9fd1-671700bd874c/"
   ]
 }

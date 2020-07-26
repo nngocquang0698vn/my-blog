@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/lvdkq",
   "aliases": [
-    "/mf2/b0766e74-04fa-4e96-9529-cbc349349a5e/",
-    "/mf2/2017/04/lVDKq"
+    "/mf2/b0766e74-04fa-4e96-9529-cbc349349a5e/"
   ]
 }

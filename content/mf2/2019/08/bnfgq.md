@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/08/bnfgq",
   "aliases": [
-    "/mf2/4b9b837f-c198-4dca-aaea-19ddb351790a/",
-    "/mf2/2019/08/bNfgQ"
+    "/mf2/4b9b837f-c198-4dca-aaea-19ddb351790a/"
   ]
 }

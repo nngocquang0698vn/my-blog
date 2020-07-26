@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/08/fpwei",
   "aliases": [
-    "/mf2/51a09423-8d30-41ee-9495-328ab190bb1b/",
-    "/mf2/2018/08/fPWEI"
+    "/mf2/51a09423-8d30-41ee-9495-328ab190bb1b/"
   ]
 }

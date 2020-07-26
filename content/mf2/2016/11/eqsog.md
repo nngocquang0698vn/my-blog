@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/11/eqsog",
   "aliases": [
-    "/mf2/600a7b7f-4d37-40cf-822c-9cf46bc56b02/",
-    "/mf2/2016/11/eqSOG"
+    "/mf2/600a7b7f-4d37-40cf-822c-9cf46bc56b02/"
   ]
 }

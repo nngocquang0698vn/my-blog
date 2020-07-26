@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/11/oq6vi",
   "aliases": [
-    "/mf2/68ab5724-f6b9-48e8-a41b-75aa7ca90099/",
-    "/mf2/2018/11/OQ6Vi"
+    "/mf2/68ab5724-f6b9-48e8-a41b-75aa7ca90099/"
   ]
 }

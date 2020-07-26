@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/fajmk",
   "aliases": [
-    "/mf2/6f8dd21c-f37c-4b88-ba04-a45dee5b4700/",
-    "/mf2/2018/10/FAJmK"
+    "/mf2/6f8dd21c-f37c-4b88-ba04-a45dee5b4700/"
   ]
 }

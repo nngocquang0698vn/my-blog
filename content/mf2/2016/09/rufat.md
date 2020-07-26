@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/09/rufat",
   "aliases": [
-    "/mf2/7e0546bf-f6f7-4caa-a654-3a5061b48787/",
-    "/mf2/2016/09/RUFAT"
+    "/mf2/7e0546bf-f6f7-4caa-a654-3a5061b48787/"
   ]
 }

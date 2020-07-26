@@ -24,7 +24,5 @@
     "dddem"
   ],
   "aliases": [
-    "/mf2/2019/10/amevf",
-    "/mf2/2019/10/amEVf"
   ]
 }

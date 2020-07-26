@@ -22,7 +22,5 @@
     "ssh"
   ],
   "aliases": [
-    "/mf2/2019/11/ezolc",
-    "/mf2/2019/11/ezoLC"
   ]
 }

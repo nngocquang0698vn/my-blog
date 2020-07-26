@@ -49,7 +49,6 @@
   },
   "slug": "2018/06/lxsng",
   "aliases": [
-    "/mf2/b564f5dd-1812-405a-ac7b-4e6fef92e877/",
-    "/mf2/2018/06/lXSng"
+    "/mf2/b564f5dd-1812-405a-ac7b-4e6fef92e877/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/12/ajpbl",
   "aliases": [
-    "/mf2/7b9155ad-2df9-45ff-ba5e-aaf1579baaae/",
-    "/mf2/2016/12/aJpBl"
+    "/mf2/7b9155ad-2df9-45ff-ba5e-aaf1579baaae/"
   ]
 }

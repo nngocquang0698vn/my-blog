@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/05/hiamf",
   "aliases": [
-    "/mf2/5f411fb5-ace8-4586-bf88-d1f379bc9b58/",
-    "/mf2/2017/05/hIAMF"
+    "/mf2/5f411fb5-ace8-4586-bf88-d1f379bc9b58/"
   ]
 }

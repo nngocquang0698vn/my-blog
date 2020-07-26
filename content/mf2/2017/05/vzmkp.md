@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/05/vzmkp",
   "aliases": [
-    "/mf2/3aff757c-82ed-4b39-ac82-de570e567abb/",
-    "/mf2/2017/05/VZMkP"
+    "/mf2/3aff757c-82ed-4b39-ac82-de570e567abb/"
   ]
 }

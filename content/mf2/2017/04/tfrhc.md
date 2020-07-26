@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/tfrhc",
   "aliases": [
-    "/mf2/0f94b6de-3ba4-4d57-a358-be401bcf8c0b/",
-    "/mf2/2017/04/tfRHC"
+    "/mf2/0f94b6de-3ba4-4d57-a358-be401bcf8c0b/"
   ]
 }

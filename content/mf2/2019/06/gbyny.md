@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/06/gbyny",
   "aliases": [
-    "/mf2/127be4b0-eabf-4644-9254-1c058a0db42d/",
-    "/mf2/2019/06/GByny"
+    "/mf2/127be4b0-eabf-4644-9254-1c058a0db42d/"
   ]
 }

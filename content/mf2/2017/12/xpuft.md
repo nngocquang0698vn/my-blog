@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/12/xpuft",
   "aliases": [
-    "/mf2/77963d25-007e-4c89-ba78-c1fb3c03eecd/",
-    "/mf2/2017/12/Xpuft"
+    "/mf2/77963d25-007e-4c89-ba78-c1fb3c03eecd/"
   ]
 }

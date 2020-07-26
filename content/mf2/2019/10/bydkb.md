@@ -28,7 +28,5 @@
     "web"
   ],
   "aliases": [
-    "/mf2/2019/10/bydkb",
-    "/mf2/2019/10/BYDKB"
   ]
 }

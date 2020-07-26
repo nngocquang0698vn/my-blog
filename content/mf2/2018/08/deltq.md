@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/08/deltq",
   "aliases": [
-    "/mf2/3e40cea2-20cd-48eb-9726-ec4d2d02e9b6/",
-    "/mf2/2018/08/DeLtQ"
+    "/mf2/3e40cea2-20cd-48eb-9726-ec4d2d02e9b6/"
   ]
 }

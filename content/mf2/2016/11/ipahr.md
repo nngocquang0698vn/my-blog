@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/11/ipahr",
   "aliases": [
-    "/mf2/5d0c9b48-b8be-4294-8052-f2b65eca1d4d/",
-    "/mf2/2016/11/ipaHr"
+    "/mf2/5d0c9b48-b8be-4294-8052-f2b65eca1d4d/"
   ]
 }

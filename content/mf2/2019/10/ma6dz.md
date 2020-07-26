@@ -22,7 +22,6 @@
   ],
   "slug": "2019/10/ma6dz",
   "aliases": [
-    "/mf2/83dfd3b0-91b3-4b16-854b-2eb25c8ce28c/",
-    "/mf2/2019/10/ma6dZ"
+    "/mf2/83dfd3b0-91b3-4b16-854b-2eb25c8ce28c/"
   ]
 }

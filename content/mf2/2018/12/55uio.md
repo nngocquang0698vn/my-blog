@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/55uio",
   "aliases": [
-    "/mf2/627cc5d4-690e-4f48-acd7-0650c55d5a36/",
-    "/mf2/2018/12/55UIo"
+    "/mf2/627cc5d4-690e-4f48-acd7-0650c55d5a36/"
   ]
 }

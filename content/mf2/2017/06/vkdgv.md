@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/06/vkdgv",
   "aliases": [
-    "/mf2/9ee3e9d1-29c1-4bd3-9284-cb160d3f5ef1/",
-    "/mf2/2017/06/VKDGv"
+    "/mf2/9ee3e9d1-29c1-4bd3-9284-cb160d3f5ef1/"
   ]
 }

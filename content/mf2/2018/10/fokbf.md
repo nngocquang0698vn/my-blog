@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/fokbf",
   "aliases": [
-    "/mf2/4f161d85-cf92-4a84-b469-cf1bbb4ed186/",
-    "/mf2/2018/10/Fokbf"
+    "/mf2/4f161d85-cf92-4a84-b469-cf1bbb4ed186/"
   ]
 }

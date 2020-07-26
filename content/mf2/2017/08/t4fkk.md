@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/08/t4fkk",
   "aliases": [
-    "/mf2/748c9fa3-9d11-4fc0-aad7-a80f093478d8/",
-    "/mf2/2017/08/T4FKk"
+    "/mf2/748c9fa3-9d11-4fc0-aad7-a80f093478d8/"
   ]
 }

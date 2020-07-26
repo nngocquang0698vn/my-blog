@@ -22,7 +22,5 @@
     "nablopomo"
   ],
   "aliases": [
-    "/mf2/2019/11/0went",
-    "/mf2/2019/11/0WenT"
   ]
 }

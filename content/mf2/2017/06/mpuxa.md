@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/06/mpuxa",
   "aliases": [
-    "/mf2/9c510a96-9225-435b-8f6b-8b3d02f15db2/",
-    "/mf2/2017/06/mPUxA"
+    "/mf2/9c510a96-9225-435b-8f6b-8b3d02f15db2/"
   ]
 }

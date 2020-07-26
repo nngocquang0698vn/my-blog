@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/10/jcwae",
   "aliases": [
-    "/mf2/fe3ccf88-a82e-40c1-be96-2b17a1bbf078/",
-    "/mf2/2017/10/JCWae"
+    "/mf2/fe3ccf88-a82e-40c1-be96-2b17a1bbf078/"
   ]
 }

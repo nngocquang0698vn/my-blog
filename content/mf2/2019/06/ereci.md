@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/06/ereci",
   "aliases": [
-    "/mf2/9b4b95fd-1739-4cd9-bc38-86bd7dff798b/",
-    "/mf2/2019/06/eReCI"
+    "/mf2/9b4b95fd-1739-4cd9-bc38-86bd7dff798b/"
   ]
 }

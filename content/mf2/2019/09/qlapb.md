@@ -21,7 +21,6 @@
   ],
   "slug": "2019/09/qlapb",
   "aliases": [
-    "/mf2/503501b7-8613-485c-8bb0-acb6aac1cdeb/",
-    "/mf2/2019/09/QlApB"
+    "/mf2/503501b7-8613-485c-8bb0-acb6aac1cdeb/"
   ]
 }

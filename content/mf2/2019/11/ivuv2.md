@@ -22,7 +22,5 @@
     "diversity-and-inclusion"
   ],
   "aliases": [
-    "/mf2/2019/11/ivuv2",
-    "/mf2/2019/11/IvUv2"
   ]
 }

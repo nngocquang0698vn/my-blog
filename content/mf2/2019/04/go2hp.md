@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/04/go2hp",
   "aliases": [
-    "/mf2/7109c433-8e02-4c4d-855f-ebe0ca3d1476/",
-    "/mf2/2019/04/Go2HP"
+    "/mf2/7109c433-8e02-4c4d-855f-ebe0ca3d1476/"
   ]
 }

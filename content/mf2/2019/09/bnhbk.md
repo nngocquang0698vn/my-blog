@@ -23,7 +23,6 @@
   "kind": "notes",
   "slug": "2019/09/bnhbk",
   "aliases": [
-    "/mf2/db45e299-5e7a-410b-90b8-4b3fd262f4c7/",
-    "/mf2/2019/09/bNhBk"
+    "/mf2/db45e299-5e7a-410b-90b8-4b3fd262f4c7/"
   ]
 }

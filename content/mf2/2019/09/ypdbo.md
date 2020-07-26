@@ -16,7 +16,6 @@
   },
   "slug": "2019/09/ypdbo",
   "aliases": [
-    "/mf2/d364ebc0-390e-4322-bd3c-1c9afc1743a2/",
-    "/mf2/2019/09/yPdbO"
+    "/mf2/d364ebc0-390e-4322-bd3c-1c9afc1743a2/"
   ]
 }

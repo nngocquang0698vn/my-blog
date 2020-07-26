@@ -55,7 +55,6 @@
   },
   "slug": "2019/10/cycqv",
   "aliases": [
-    "/mf2/c7bb4dd8-9f4c-416d-a329-ad8e1e43f1b8/",
-    "/mf2/2019/10/cYCQV"
+    "/mf2/c7bb4dd8-9f4c-416d-a329-ad8e1e43f1b8/"
   ]
 }

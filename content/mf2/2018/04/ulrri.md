@@ -49,7 +49,6 @@
   },
   "slug": "2018/04/ulrri",
   "aliases": [
-    "/mf2/878eca57-4d6a-41ae-893d-56467efde9da/",
-    "/mf2/2018/04/ULRri"
+    "/mf2/878eca57-4d6a-41ae-893d-56467efde9da/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/04/obzza",
   "aliases": [
-    "/mf2/d02b98ee-ff59-41cc-83bf-1c2c6b1d67cb/",
-    "/mf2/2019/04/oBzzA"
+    "/mf2/d02b98ee-ff59-41cc-83bf-1c2c6b1d67cb/"
   ]
 }

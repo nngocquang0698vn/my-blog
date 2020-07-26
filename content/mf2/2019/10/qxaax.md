@@ -24,7 +24,6 @@
   ],
   "slug": "2019/10/qxaax",
   "aliases": [
-    "/mf2/de70d457-c52c-4da1-8574-9507eae729ac/",
-    "/mf2/2019/10/QxaAX"
+    "/mf2/de70d457-c52c-4da1-8574-9507eae729ac/"
   ]
 }

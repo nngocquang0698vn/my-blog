@@ -24,7 +24,5 @@
     "communication"
   ],
   "aliases": [
-    "/mf2/2019/10/ixv9l",
-    "/mf2/2019/10/IXV9L"
   ]
 }

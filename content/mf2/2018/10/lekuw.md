@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/lekuw",
   "aliases": [
-    "/mf2/9db68993-5da4-4930-b61e-b0d2b1608d0b/",
-    "/mf2/2018/10/Lekuw"
+    "/mf2/9db68993-5da4-4930-b61e-b0d2b1608d0b/"
   ]
 }

@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/u59sj",
   "aliases": [
-    "/mf2/3fd3ef44-8dc7-48c6-9f51-a2bbd99a31fb/",
-    "/mf2/2019/10/u59sJ"
+    "/mf2/3fd3ef44-8dc7-48c6-9f51-a2bbd99a31fb/"
   ]
 }

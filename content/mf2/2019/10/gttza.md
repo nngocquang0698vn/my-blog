@@ -22,7 +22,6 @@
   ],
   "slug": "2019/10/gttza",
   "aliases": [
-    "/mf2/d2869b7d-8dd2-4640-b876-705d4adbedbe/",
-    "/mf2/2019/10/gttZa"
+    "/mf2/d2869b7d-8dd2-4640-b876-705d4adbedbe/"
   ]
 }

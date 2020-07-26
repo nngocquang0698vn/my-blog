@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/swdgo",
   "aliases": [
-    "/mf2/efb4b1f5-8aa7-43a9-984d-a94dc757a3e1/",
-    "/mf2/2018/12/SWdGo"
+    "/mf2/efb4b1f5-8aa7-43a9-984d-a94dc757a3e1/"
   ]
 }

@@ -51,7 +51,6 @@
   "kind": "rsvps",
   "slug": "2019/08/3fkyw",
   "aliases": [
-    "/mf2/f365e9a6-4f3e-4a95-b70f-fb38799a2d57/",
-    "/mf2/2019/08/3FkyW"
+    "/mf2/f365e9a6-4f3e-4a95-b70f-fb38799a2d57/"
   ]
 }

@@ -22,7 +22,5 @@
     "self-hosting"
   ],
   "aliases": [
-    "/mf2/2019/10/3l2qr",
-    "/mf2/2019/10/3L2qR"
   ]
 }

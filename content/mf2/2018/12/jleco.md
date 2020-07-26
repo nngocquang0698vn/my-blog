@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/jleco",
   "aliases": [
-    "/mf2/f60f4cc6-f3d8-4eac-812a-aba861256150/",
-    "/mf2/2018/12/JlecO"
+    "/mf2/f60f4cc6-f3d8-4eac-812a-aba861256150/"
   ]
 }

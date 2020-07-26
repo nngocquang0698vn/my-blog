@@ -15,7 +15,6 @@
   },
   "slug": "2019/09/tiwlm",
   "aliases": [
-    "/mf2/d77ccbbe-fc26-4ce5-8b10-0db9d6acb06c/",
-    "/mf2/2019/09/tIwLM"
+    "/mf2/d77ccbbe-fc26-4ce5-8b10-0db9d6acb06c/"
   ]
 }

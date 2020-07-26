@@ -22,7 +22,5 @@
     "indiewebcamp"
   ],
   "aliases": [
-    "/mf2/2019/10/zrhmv",
-    "/mf2/2019/10/ZRhMV"
   ]
 }

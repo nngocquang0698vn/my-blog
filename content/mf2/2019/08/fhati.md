@@ -48,8 +48,7 @@
   "kind": "rsvps",
   "slug": "2019/08/fhati",
   "aliases": [
-    "/mf2/3d6476f0-d850-4bf4-9314-db0489793a0c/",
-    "/mf2/2019/08/fHAti"
+    "/mf2/3d6476f0-d850-4bf4-9314-db0489793a0c/"
   ],
   "tags": ["fosdem"]
 }

@@ -22,7 +22,5 @@
     "memes"
   ],
   "aliases": [
-    "/mf2/2019/11/gkgyr",
-    "/mf2/2019/11/GKGYR"
   ]
 }

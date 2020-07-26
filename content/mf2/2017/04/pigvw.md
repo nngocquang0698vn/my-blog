@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/pigvw",
   "aliases": [
-    "/mf2/a103fff8-1d62-4d39-9222-a1d74bf6ff74/",
-    "/mf2/2017/04/PigvW"
+    "/mf2/a103fff8-1d62-4d39-9222-a1d74bf6ff74/"
   ]
 }

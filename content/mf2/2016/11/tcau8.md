@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/11/tcau8",
   "aliases": [
-    "/mf2/05a67ab2-23f6-4864-8bdc-e68ff3972a7a/",
-    "/mf2/2016/11/TCAU8"
+    "/mf2/05a67ab2-23f6-4864-8bdc-e68ff3972a7a/"
   ]
 }

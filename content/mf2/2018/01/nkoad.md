@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/01/nkoad",
   "aliases": [
-    "/mf2/26a0cecf-3606-4add-945d-84cb7c47bbc5/",
-    "/mf2/2018/01/nkoAD"
+    "/mf2/26a0cecf-3606-4add-945d-84cb7c47bbc5/"
   ]
 }

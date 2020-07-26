@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/05/czncp",
   "aliases": [
-    "/mf2/192db05e-e876-4fe8-a001-8c77a4c82027/",
-    "/mf2/2018/05/cznCP"
+    "/mf2/192db05e-e876-4fe8-a001-8c77a4c82027/"
   ]
 }

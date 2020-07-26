@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/08/stm8b",
   "aliases": [
-    "/mf2/21eb4a33-86d1-4053-ad04-ee5b1c3832df/",
-    "/mf2/2017/08/stM8B"
+    "/mf2/21eb4a33-86d1-4053-ad04-ee5b1c3832df/"
   ]
 }

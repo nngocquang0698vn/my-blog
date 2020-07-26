@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/01/oska7",
   "aliases": [
-    "/mf2/eb9e40b7-d921-4b71-acf0-a38db9ed8622/",
-    "/mf2/2019/01/OskA7"
+    "/mf2/eb9e40b7-d921-4b71-acf0-a38db9ed8622/"
   ]
 }

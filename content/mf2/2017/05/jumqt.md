@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/05/jumqt",
   "aliases": [
-    "/mf2/d64ce0af-098f-480e-be0e-8b594017a854/",
-    "/mf2/2017/05/juMQt"
+    "/mf2/d64ce0af-098f-480e-be0e-8b594017a854/"
   ]
 }

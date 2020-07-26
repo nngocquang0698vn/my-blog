@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/nin5p",
   "aliases": [
-    "/mf2/1d007e16-1ab9-49e8-890b-c23b30c0ef79/",
-    "/mf2/2018/12/Nin5P"
+    "/mf2/1d007e16-1ab9-49e8-890b-c23b30c0ef79/"
   ]
 }

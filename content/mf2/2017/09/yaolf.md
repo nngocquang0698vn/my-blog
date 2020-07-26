@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/09/yaolf",
   "aliases": [
-    "/mf2/3ef68029-110a-429d-868d-3463d508a6ee/",
-    "/mf2/2017/09/YAOLF"
+    "/mf2/3ef68029-110a-429d-868d-3463d508a6ee/"
   ]
 }

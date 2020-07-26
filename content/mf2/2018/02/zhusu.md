@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/02/zhusu",
   "aliases": [
-    "/mf2/4bb05da9-a7be-4d94-9ac6-9d59d6e6eea1/",
-    "/mf2/2018/02/zHuSu"
+    "/mf2/4bb05da9-a7be-4d94-9ac6-9d59d6e6eea1/"
   ]
 }

@@ -49,7 +49,6 @@
   },
   "slug": "2017/07/vdq4w",
   "aliases": [
-    "/mf2/6776549d-d386-4988-ad35-ecdca9c7e7ed/",
-    "/mf2/2017/07/vdQ4W"
+    "/mf2/6776549d-d386-4988-ad35-ecdca9c7e7ed/"
   ]
 }

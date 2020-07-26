@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/03/bhmcc",
   "aliases": [
-    "/mf2/0038ad4a-4283-46c0-a0ec-0f0435a4bbf8/",
-    "/mf2/2017/03/bHmcC"
+    "/mf2/0038ad4a-4283-46c0-a0ec-0f0435a4bbf8/"
   ]
 }

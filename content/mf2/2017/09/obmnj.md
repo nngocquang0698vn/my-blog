@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/09/obmnj",
   "aliases": [
-    "/mf2/fc5cd968-7b43-4d80-982a-13d19ec71a10/",
-    "/mf2/2017/09/ObMNJ"
+    "/mf2/fc5cd968-7b43-4d80-982a-13d19ec71a10/"
   ]
 }

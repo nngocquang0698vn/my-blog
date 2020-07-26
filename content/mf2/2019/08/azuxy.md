@@ -15,7 +15,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/azuxy",
   "aliases": [
-    "/mf2/5c72c924-b323-474e-93d2-80326d042aab/",
-    "/mf2/2019/08/azUxY"
+    "/mf2/5c72c924-b323-474e-93d2-80326d042aab/"
   ]
 }

@@ -49,7 +49,6 @@
   },
   "slug": "2018/10/vtrjq",
   "aliases": [
-    "/mf2/9721f174-dfb2-4236-ac4e-b718db76ee35/",
-    "/mf2/2018/10/vTrJQ"
+    "/mf2/9721f174-dfb2-4236-ac4e-b718db76ee35/"
   ]
 }

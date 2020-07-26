@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/10/rtt1p",
   "aliases": [
-    "/mf2/6be5bb5b-1474-4f65-8487-667531fdaaba/",
-    "/mf2/2016/10/RTt1p"
+    "/mf2/6be5bb5b-1474-4f65-8487-667531fdaaba/"
   ]
 }

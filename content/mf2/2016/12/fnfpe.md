@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/12/fnfpe",
   "aliases": [
-    "/mf2/dddd9ea2-ac5d-4d99-8c36-5944e6172ba6/",
-    "/mf2/2016/12/fnfPe"
+    "/mf2/dddd9ea2-ac5d-4d99-8c36-5944e6172ba6/"
   ]
 }

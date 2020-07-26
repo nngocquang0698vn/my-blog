@@ -49,7 +49,6 @@
   },
   "slug": "2018/06/ealix",
   "aliases": [
-    "/mf2/9aba80cf-010c-43fc-85b4-53dadf427eca/",
-    "/mf2/2018/06/eaLIx"
+    "/mf2/9aba80cf-010c-43fc-85b4-53dadf427eca/"
   ]
 }

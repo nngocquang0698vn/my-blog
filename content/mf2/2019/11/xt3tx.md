@@ -28,7 +28,5 @@
     "indieweb"
   ],
   "aliases": [
-    "/mf2/2019/11/xt3tx",
-    "/mf2/2019/11/XT3tX"
   ]
 }

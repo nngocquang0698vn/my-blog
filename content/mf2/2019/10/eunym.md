@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/eunym",
   "aliases": [
-    "/mf2/07210a9b-fd80-47f3-adbd-8d66ff9595f6/",
-    "/mf2/2019/10/eUnYm"
+    "/mf2/07210a9b-fd80-47f3-adbd-8d66ff9595f6/"
   ]
 }

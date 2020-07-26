@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/03/vwiig",
   "aliases": [
-    "/mf2/b54c79ec-0de1-45db-a3b9-33fe42281a01/",
-    "/mf2/2019/03/vwiIg"
+    "/mf2/b54c79ec-0de1-45db-a3b9-33fe42281a01/"
   ]
 }

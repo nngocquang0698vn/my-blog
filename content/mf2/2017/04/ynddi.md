@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/ynddi",
   "aliases": [
-    "/mf2/7f1d6f11-b027-4ede-8615-a04c2839f68b/",
-    "/mf2/2017/04/ynDDI"
+    "/mf2/7f1d6f11-b027-4ede-8615-a04c2839f68b/"
   ]
 }

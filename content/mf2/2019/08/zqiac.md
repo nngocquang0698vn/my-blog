@@ -15,7 +15,6 @@
   },
   "slug": "2019/08/zqiac",
   "aliases": [
-    "/mf2/0c8c0190-b127-4cb6-9690-f5ddd7b3b69c/",
-    "/mf2/2019/08/zqiAC"
+    "/mf2/0c8c0190-b127-4cb6-9690-f5ddd7b3b69c/"
   ]
 }

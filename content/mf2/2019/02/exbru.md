@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/02/exbru",
   "aliases": [
-    "/mf2/818a3c4e-8f34-4c38-afc2-6066f019c549/",
-    "/mf2/2019/02/ExBrU"
+    "/mf2/818a3c4e-8f34-4c38-afc2-6066f019c549/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/10/pjahc",
   "aliases": [
-    "/mf2/17ae9cec-0bfc-4f0b-9a77-61a66f478ad5/",
-    "/mf2/2017/10/pJAHC"
+    "/mf2/17ae9cec-0bfc-4f0b-9a77-61a66f478ad5/"
   ]
 }

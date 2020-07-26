@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/01/dlpil",
   "aliases": [
-    "/mf2/46891ecd-4bf6-4915-bfb0-d81ecc649a89/",
-    "/mf2/2019/01/DLpIl"
+    "/mf2/46891ecd-4bf6-4915-bfb0-d81ecc649a89/"
   ]
 }

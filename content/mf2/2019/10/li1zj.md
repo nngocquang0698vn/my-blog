@@ -24,7 +24,5 @@
     "javascript"
   ],
   "aliases": [
-    "/mf2/2019/10/li1zj",
-    "/mf2/2019/10/li1ZJ"
   ]
 }

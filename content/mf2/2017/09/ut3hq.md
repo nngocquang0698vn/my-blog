@@ -49,7 +49,6 @@
   },
   "slug": "2017/09/ut3hq",
   "aliases": [
-    "/mf2/ccbcb200-cad7-46ba-bf7c-50fb04720b42/",
-    "/mf2/2017/09/Ut3hQ"
+    "/mf2/ccbcb200-cad7-46ba-bf7c-50fb04720b42/"
   ]
 }

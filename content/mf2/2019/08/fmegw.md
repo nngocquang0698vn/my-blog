@@ -15,7 +15,6 @@
   "kind": "likes",
   "slug": "2019/08/fmegw",
   "aliases": [
-    "/mf2/11e2d1f9-0ea5-4d46-958f-912d6219e1c7/",
-    "/mf2/2019/08/fMegw"
+    "/mf2/11e2d1f9-0ea5-4d46-958f-912d6219e1c7/"
   ]
 }

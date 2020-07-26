@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/wnhdb",
   "aliases": [
-    "/mf2/50063b53-ef03-4c7a-8bcb-a70f5ca1ba73/",
-    "/mf2/2019/10/WnHDb"
+    "/mf2/50063b53-ef03-4c7a-8bcb-a70f5ca1ba73/"
   ]
 }

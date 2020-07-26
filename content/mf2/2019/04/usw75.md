@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/04/usw75",
   "aliases": [
-    "/mf2/e2944e4b-0cd3-4ca4-b282-f05b96d14e67/",
-    "/mf2/2019/04/USw75"
+    "/mf2/e2944e4b-0cd3-4ca4-b282-f05b96d14e67/"
   ]
 }

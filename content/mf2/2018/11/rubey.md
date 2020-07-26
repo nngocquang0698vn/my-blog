@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/11/rubey",
   "aliases": [
-    "/mf2/6e893b94-9d1e-4c41-8b28-b43800a5a3d1/",
-    "/mf2/2018/11/rUBEy"
+    "/mf2/6e893b94-9d1e-4c41-8b28-b43800a5a3d1/"
   ]
 }

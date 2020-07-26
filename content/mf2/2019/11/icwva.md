@@ -30,7 +30,5 @@
     "blogging"
   ],
   "aliases": [
-    "/mf2/2019/11/icwva",
-    "/mf2/2019/11/ICWvA"
   ]
 }

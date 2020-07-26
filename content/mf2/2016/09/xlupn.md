@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/09/xlupn",
   "aliases": [
-    "/mf2/0eb629a4-0092-4c08-a55d-5f25b800f260/",
-    "/mf2/2016/09/XLUPN"
+    "/mf2/0eb629a4-0092-4c08-a55d-5f25b800f260/"
   ]
 }

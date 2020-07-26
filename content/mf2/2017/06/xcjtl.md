@@ -49,7 +49,6 @@
   },
   "slug": "2017/06/xcjtl",
   "aliases": [
-    "/mf2/f76cab3a-fe2e-4e16-bc13-4647e3571f7e/",
-    "/mf2/2017/06/xCJTL"
+    "/mf2/f76cab3a-fe2e-4e16-bc13-4647e3571f7e/"
   ]
 }
