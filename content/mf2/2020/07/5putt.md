@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThePaulMcBride/status/1287320148978946048" ],
     "name" : [ "Like of @ThePaulMcBride's tweet" ],
     "published" : [ "2020-07-26T11:46:00+01:00" ],
     "category" : [ "cake" ],
