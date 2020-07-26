@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PierreJoye/status/1287207591710355456" ],
     "name" : [ "Like of @PierreJoye's tweet" ],
     "published" : [ "2020-07-26T20:17:00+01:00" ],
     "category" : [ "coronavirus" ],
