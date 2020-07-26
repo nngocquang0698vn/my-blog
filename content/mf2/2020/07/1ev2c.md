@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codinghorror/status/1287488626075426816" ],
     "name" : [ "Like of @codinghorror's tweet" ],
     "published" : [ "2020-07-26T22:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/codinghorror/status/1287488626075426816" ]
