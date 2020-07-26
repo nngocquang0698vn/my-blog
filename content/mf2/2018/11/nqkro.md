@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/11/nqkro",
   "aliases": [
-    "/mf2/ef826073-1e54-45c5-ada4-67309884f9e1/",
-    "/mf2/2018/11/nQkro"
+    "/mf2/ef826073-1e54-45c5-ada4-67309884f9e1/"
   ]
 }

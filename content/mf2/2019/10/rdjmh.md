@@ -24,7 +24,6 @@
   ],
   "slug": "2019/10/rdjmh",
   "aliases": [
-    "/mf2/41bc7154-8e0c-468e-81eb-3b76ea0845ed/",
-    "/mf2/2019/10/RdJMH"
+    "/mf2/41bc7154-8e0c-468e-81eb-3b76ea0845ed/"
   ]
 }

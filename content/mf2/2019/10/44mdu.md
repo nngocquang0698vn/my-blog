@@ -24,7 +24,5 @@
     "deployment"
   ],
   "aliases": [
-    "/mf2/2019/10/44mdu",
-    "/mf2/2019/10/44MDU"
   ]
 }

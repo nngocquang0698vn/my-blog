@@ -49,7 +49,6 @@
   },
   "slug": "2019/04/jdlxq",
   "aliases": [
-    "/mf2/1fc70794-7058-4b0b-8d3a-579dfd0dccd3/",
-    "/mf2/2019/04/JdlXq"
+    "/mf2/1fc70794-7058-4b0b-8d3a-579dfd0dccd3/"
   ]
 }

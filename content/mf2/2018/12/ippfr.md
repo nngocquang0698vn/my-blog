@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/ippfr",
   "aliases": [
-    "/mf2/121a896f-f59e-4a56-8a47-db5adc8492e7/",
-    "/mf2/2018/12/IPPFr"
+    "/mf2/121a896f-f59e-4a56-8a47-db5adc8492e7/"
   ]
 }

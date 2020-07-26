@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/04/glgcv",
   "aliases": [
-    "/mf2/aa8e3800-a8bf-47b8-9862-9f7beb3cf621/",
-    "/mf2/2018/04/GlgCV"
+    "/mf2/aa8e3800-a8bf-47b8-9862-9f7beb3cf621/"
   ]
 }

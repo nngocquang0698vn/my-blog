@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/sizdx",
   "aliases": [
-    "/mf2/63098c90-04a9-4bd7-9618-6feadf670471/",
-    "/mf2/2018/10/SIzdx"
+    "/mf2/63098c90-04a9-4bd7-9618-6feadf670471/"
   ]
 }

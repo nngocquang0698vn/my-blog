@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/06/yzcvd",
   "aliases": [
-    "/mf2/9b42a022-3ce9-4c95-bbba-dd545c80c3f7/",
-    "/mf2/2017/06/YzcvD"
+    "/mf2/9b42a022-3ce9-4c95-bbba-dd545c80c3f7/"
   ]
 }

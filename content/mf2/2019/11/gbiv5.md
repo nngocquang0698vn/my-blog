@@ -22,7 +22,5 @@
     "oggcamp"
   ],
   "aliases": [
-    "/mf2/2019/11/gbiv5",
-    "/mf2/2019/11/GbiV5"
   ]
 }

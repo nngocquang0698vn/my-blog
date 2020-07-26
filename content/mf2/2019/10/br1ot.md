@@ -32,7 +32,5 @@
     "readline"
   ],
   "aliases": [
-    "/mf2/2019/10/br1ot",
-    "/mf2/2019/10/br1oT"
   ]
 }

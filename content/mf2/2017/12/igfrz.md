@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/12/igfrz",
   "aliases": [
-    "/mf2/8f7cca8a-f256-4c7a-9d5f-89096aa4d9e8/",
-    "/mf2/2017/12/IgFRz"
+    "/mf2/8f7cca8a-f256-4c7a-9d5f-89096aa4d9e8/"
   ]
 }

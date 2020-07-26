@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/qrjyx",
   "aliases": [
-    "/mf2/11f930fb-ab13-4cf3-a947-b421ff29baf4/",
-    "/mf2/2019/10/QrJYX"
+    "/mf2/11f930fb-ab13-4cf3-a947-b421ff29baf4/"
   ]
 }

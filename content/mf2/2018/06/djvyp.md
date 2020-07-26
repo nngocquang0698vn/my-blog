@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/06/djvyp",
   "aliases": [
-    "/mf2/1820efca-e5dc-44ef-af96-69314b66f3ca/",
-    "/mf2/2018/06/DjVYP"
+    "/mf2/1820efca-e5dc-44ef-af96-69314b66f3ca/"
   ]
 }

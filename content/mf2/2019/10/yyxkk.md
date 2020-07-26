@@ -24,7 +24,5 @@
     "www.jvt.me"
   ],
   "aliases": [
-    "/mf2/2019/10/yyxkk",
-    "/mf2/2019/10/YyxKK"
   ]
 }

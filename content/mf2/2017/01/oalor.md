@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/01/oalor",
   "aliases": [
-    "/mf2/8bc8b17a-4e77-46b2-86f8-c2c201bf066e/",
-    "/mf2/2017/01/OALOR"
+    "/mf2/8bc8b17a-4e77-46b2-86f8-c2c201bf066e/"
   ]
 }

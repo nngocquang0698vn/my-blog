@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/09/hejms",
   "aliases": [
-    "/mf2/b1856a4b-46d5-4845-986d-3a1b46b6d187/",
-    "/mf2/2016/09/heJMs"
+    "/mf2/b1856a4b-46d5-4845-986d-3a1b46b6d187/"
   ]
 }

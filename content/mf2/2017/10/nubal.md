@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/10/nubal",
   "aliases": [
-    "/mf2/da1f186b-ea92-4a6a-ae69-befc7b01f92a/",
-    "/mf2/2017/10/nUBAL"
+    "/mf2/da1f186b-ea92-4a6a-ae69-befc7b01f92a/"
   ]
 }

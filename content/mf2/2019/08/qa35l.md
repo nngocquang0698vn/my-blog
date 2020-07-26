@@ -15,7 +15,6 @@
   "kind": "likes",
   "slug": "2019/08/qa35l",
   "aliases": [
-    "/mf2/c63b3af4-e448-4259-acba-5cd39d65e9cd/",
-    "/mf2/2019/08/qa35L"
+    "/mf2/c63b3af4-e448-4259-acba-5cd39d65e9cd/"
   ]
 }

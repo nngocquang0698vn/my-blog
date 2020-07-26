@@ -49,7 +49,6 @@
   },
   "slug": "2017/08/ph6mo",
   "aliases": [
-    "/mf2/6ee247e9-efcf-460e-8441-3a154ae2a98f/",
-    "/mf2/2017/08/pH6mO"
+    "/mf2/6ee247e9-efcf-460e-8441-3a154ae2a98f/"
   ]
 }

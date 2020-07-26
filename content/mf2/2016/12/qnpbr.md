@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/12/qnpbr",
   "aliases": [
-    "/mf2/92b8f8e0-498b-4efc-bfc4-f253c2897319/",
-    "/mf2/2016/12/QNpbr"
+    "/mf2/92b8f8e0-498b-4efc-bfc4-f253c2897319/"
   ]
 }

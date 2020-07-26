@@ -24,7 +24,6 @@
   ],
   "slug": "2019/10/yinpp",
   "aliases": [
-    "/mf2/f43014c9-ff17-4bc0-a0d1-776b3e7f84d6/",
-    "/mf2/2019/10/YinPP"
+    "/mf2/f43014c9-ff17-4bc0-a0d1-776b3e7f84d6/"
   ]
 }

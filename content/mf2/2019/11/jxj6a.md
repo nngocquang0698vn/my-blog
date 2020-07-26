@@ -42,7 +42,5 @@
     "monolith"
   ],
   "aliases": [
-    "/mf2/2019/11/jxj6a",
-    "/mf2/2019/11/jXJ6A"
   ]
 }

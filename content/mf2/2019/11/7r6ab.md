@@ -22,7 +22,5 @@
     "public-speaking"
   ],
   "aliases": [
-    "/mf2/2019/11/7r6ab",
-    "/mf2/2019/11/7r6aB"
   ]
 }

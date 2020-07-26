@@ -24,7 +24,5 @@
     "pomodoro"
   ],
   "aliases": [
-    "/mf2/2019/11/scp74",
-    "/mf2/2019/11/scP74"
   ]
 }

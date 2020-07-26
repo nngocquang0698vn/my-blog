@@ -22,7 +22,6 @@
   },
   "slug": "2019/09/clzrn",
   "aliases": [
-    "/mf2/acacf238-c8a3-4817-a09e-bcc78560a38f/",
-    "/mf2/2019/09/cLzRN"
+    "/mf2/acacf238-c8a3-4817-a09e-bcc78560a38f/"
   ]
 }

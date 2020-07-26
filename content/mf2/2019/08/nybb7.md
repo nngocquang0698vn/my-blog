@@ -15,7 +15,6 @@
   "kind": "likes",
   "slug": "2019/08/nybb7",
   "aliases": [
-    "/mf2/43dabdd0-e9d5-4614-838d-eb658b8178a7/",
-    "/mf2/2019/08/nYbb7"
+    "/mf2/43dabdd0-e9d5-4614-838d-eb658b8178a7/"
   ]
 }

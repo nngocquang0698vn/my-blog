@@ -30,7 +30,5 @@
     "networking"
   ],
   "aliases": [
-    "/mf2/2019/11/5wryh",
-    "/mf2/2019/11/5WRYh"
   ]
 }

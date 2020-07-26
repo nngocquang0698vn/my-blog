@@ -49,7 +49,6 @@
   },
   "slug": "2017/04/vd3dd",
   "aliases": [
-    "/mf2/f82e6cfc-d0dd-4e18-a5be-3828ae868419/",
-    "/mf2/2017/04/Vd3dD"
+    "/mf2/f82e6cfc-d0dd-4e18-a5be-3828ae868419/"
   ]
 }

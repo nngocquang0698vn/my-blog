@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/06/ssd8x",
   "aliases": [
-    "/mf2/0736f2cf-445a-4e89-9749-ccca3926fa78/",
-    "/mf2/2019/06/SSD8X"
+    "/mf2/0736f2cf-445a-4e89-9749-ccca3926fa78/"
   ]
 }

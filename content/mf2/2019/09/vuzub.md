@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/09/vuzub",
   "aliases": [
-    "/mf2/5b35d9a4-5a0c-4770-acf1-9df8b30e42f3/",
-    "/mf2/2019/09/vuZUB"
+    "/mf2/5b35d9a4-5a0c-4770-acf1-9df8b30e42f3/"
   ]
 }

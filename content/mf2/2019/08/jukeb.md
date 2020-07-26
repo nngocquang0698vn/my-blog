@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/08/jukeb",
   "aliases": [
-    "/mf2/3c02d4db-9a98-4992-aecf-6bde5936406e/",
-    "/mf2/2019/08/Jukeb"
+    "/mf2/3c02d4db-9a98-4992-aecf-6bde5936406e/"
   ]
 }

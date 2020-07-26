@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/z7pl8",
   "aliases": [
-    "/mf2/ea30fc60-1a21-46b7-bdff-7765fbb6c00a/",
-    "/mf2/2019/10/Z7Pl8"
+    "/mf2/ea30fc60-1a21-46b7-bdff-7765fbb6c00a/"
   ]
 }

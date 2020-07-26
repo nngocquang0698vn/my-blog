@@ -26,7 +26,5 @@
     "tutorial"
   ],
   "aliases": [
-    "/mf2/2019/11/wrn6r",
-    "/mf2/2019/11/Wrn6r"
   ]
 }

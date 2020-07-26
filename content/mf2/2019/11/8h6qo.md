@@ -24,7 +24,5 @@
     "micropub"
   ],
   "aliases": [
-    "/mf2/2019/11/8h6qo",
-    "/mf2/2019/11/8H6QO"
   ]
 }

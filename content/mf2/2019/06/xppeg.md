@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/06/xppeg",
   "aliases": [
-    "/mf2/05f1df2b-8de5-42a8-8754-48daa06bed5a/",
-    "/mf2/2019/06/XPpeG"
+    "/mf2/05f1df2b-8de5-42a8-8754-48daa06bed5a/"
   ]
 }

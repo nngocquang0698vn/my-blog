@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/arkng",
   "aliases": [
-    "/mf2/abcf18a9-787e-4eae-9b0f-02efc9b6e33f/",
-    "/mf2/2017/04/aRkng"
+    "/mf2/abcf18a9-787e-4eae-9b0f-02efc9b6e33f/"
   ]
 }

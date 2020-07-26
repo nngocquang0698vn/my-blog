@@ -27,7 +27,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/vwamb",
   "aliases": [
-    "/mf2/7d1ac8dc-0971-4551-9d09-3e1251f79586/",
-    "/mf2/2019/08/vWAMb"
+    "/mf2/7d1ac8dc-0971-4551-9d09-3e1251f79586/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/03/v20gs",
   "aliases": [
-    "/mf2/2baaafaf-5495-4ee9-9413-97b2c3bbbcc9/",
-    "/mf2/2018/03/V20GS"
+    "/mf2/2baaafaf-5495-4ee9-9413-97b2c3bbbcc9/"
   ]
 }

@@ -22,7 +22,6 @@
   },
   "slug": "2019/10/0ewmm",
   "aliases": [
-    "/mf2/0e3cfc14-a9ea-49a0-b78b-db2bda27b886/",
-    "/mf2/2019/10/0Ewmm"
+    "/mf2/0e3cfc14-a9ea-49a0-b78b-db2bda27b886/"
   ]
 }

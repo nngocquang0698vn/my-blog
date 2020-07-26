@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/pq3gb",
   "aliases": [
-    "/mf2/6f2a754b-f1d1-4438-99a8-b51a19106c6e/",
-    "/mf2/2018/10/PQ3Gb"
+    "/mf2/6f2a754b-f1d1-4438-99a8-b51a19106c6e/"
   ]
 }

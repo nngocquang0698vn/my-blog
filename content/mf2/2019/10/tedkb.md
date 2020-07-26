@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/tedkb",
   "aliases": [
-    "/mf2/71b1efe6-6ae5-43cf-836a-50bfd574a6c5/",
-    "/mf2/2019/10/TEDKb"
+    "/mf2/71b1efe6-6ae5-43cf-836a-50bfd574a6c5/"
   ]
 }

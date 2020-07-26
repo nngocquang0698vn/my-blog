@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/10/03wwr",
   "aliases": [
-    "/mf2/7c0c3a43-afb7-4ba1-880f-12526ca68864/",
-    "/mf2/2016/10/03wWr"
+    "/mf2/7c0c3a43-afb7-4ba1-880f-12526ca68864/"
   ]
 }

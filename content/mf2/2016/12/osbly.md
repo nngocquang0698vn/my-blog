@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/12/osbly",
   "aliases": [
-    "/mf2/e78ff00b-2e6b-4a27-bafa-4136ae4639ee/",
-    "/mf2/2016/12/oSBlY"
+    "/mf2/e78ff00b-2e6b-4a27-bafa-4136ae4639ee/"
   ]
 }

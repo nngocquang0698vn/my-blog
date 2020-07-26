@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/dpepv",
   "aliases": [
-    "/mf2/3f131c81-0e76-4abf-8ace-ec66fe90d916/",
-    "/mf2/2019/10/dPePV"
+    "/mf2/3f131c81-0e76-4abf-8ace-ec66fe90d916/"
   ]
 }

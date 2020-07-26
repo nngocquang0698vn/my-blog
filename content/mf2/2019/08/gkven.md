@@ -29,7 +29,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/gkven",
   "aliases": [
-    "/mf2/0c953537-0f11-45e6-8fcd-a418fa61c8e3/",
-    "/mf2/2019/08/gKVen"
+    "/mf2/0c953537-0f11-45e6-8fcd-a418fa61c8e3/"
   ]
 }

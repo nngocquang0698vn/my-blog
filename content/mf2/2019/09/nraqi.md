@@ -16,7 +16,6 @@
   },
   "slug": "2019/09/nraqi",
   "aliases": [
-    "/mf2/917e86ca-c0ed-464d-b6ae-4b6528624c68/",
-    "/mf2/2019/09/NRAqI"
+    "/mf2/917e86ca-c0ed-464d-b6ae-4b6528624c68/"
   ]
 }

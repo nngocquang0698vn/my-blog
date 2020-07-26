@@ -24,7 +24,5 @@
     "privacy"
   ],
   "aliases": [
-    "/mf2/2019/10/lkqck",
-    "/mf2/2019/10/lkQCk"
   ]
 }

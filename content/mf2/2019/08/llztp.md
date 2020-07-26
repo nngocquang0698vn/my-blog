@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/08/llztp",
   "aliases": [
-    "/mf2/99e643f7-1273-4f9b-a2e1-70fef6d059d0/",
-    "/mf2/2019/08/LlZTp"
+    "/mf2/99e643f7-1273-4f9b-a2e1-70fef6d059d0/"
   ]
 }

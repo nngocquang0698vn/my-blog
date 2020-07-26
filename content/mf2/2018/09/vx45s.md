@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/09/vx45s",
   "aliases": [
-    "/mf2/1abcce43-a4f9-40ff-9090-3337cc9e26a2/",
-    "/mf2/2018/09/VX45S"
+    "/mf2/1abcce43-a4f9-40ff-9090-3337cc9e26a2/"
   ]
 }

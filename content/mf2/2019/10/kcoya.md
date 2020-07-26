@@ -28,7 +28,6 @@
   ],
   "slug": "2019/10/kcoya",
   "aliases": [
-    "/mf2/10ab68be-60e3-425b-976c-c58362b8c0dc/",
-    "/mf2/2019/10/kCoyA"
+    "/mf2/10ab68be-60e3-425b-976c-c58362b8c0dc/"
   ]
 }

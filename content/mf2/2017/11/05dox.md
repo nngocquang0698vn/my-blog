@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/11/05dox",
   "aliases": [
-    "/mf2/3a1828e6-d19c-4831-9ff6-1daeb63c266e/",
-    "/mf2/2017/11/05DoX"
+    "/mf2/3a1828e6-d19c-4831-9ff6-1daeb63c266e/"
   ]
 }

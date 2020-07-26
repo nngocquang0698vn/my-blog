@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/gzmpr",
   "aliases": [
-    "/mf2/f2d57e01-c08c-4731-abc0-88332a85de53/",
-    "/mf2/2018/12/GzMPR"
+    "/mf2/f2d57e01-c08c-4731-abc0-88332a85de53/"
   ]
 }

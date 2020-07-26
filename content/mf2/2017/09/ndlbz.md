@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/09/ndlbz",
   "aliases": [
-    "/mf2/334e1847-84f1-4919-b89f-48a1f26a7ff7/",
-    "/mf2/2017/09/NDlBz"
+    "/mf2/334e1847-84f1-4919-b89f-48a1f26a7ff7/"
   ]
 }

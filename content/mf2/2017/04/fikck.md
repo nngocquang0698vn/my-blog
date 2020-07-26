@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/fikck",
   "aliases": [
-    "/mf2/9e56c222-b037-46db-852c-50fa36b67cdf/",
-    "/mf2/2017/04/fIKcK"
+    "/mf2/9e56c222-b037-46db-852c-50fa36b67cdf/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/04/frodx",
   "aliases": [
-    "/mf2/2092f67d-c7b2-4faa-b1bb-433b4244fc5c/",
-    "/mf2/2017/04/FrODx"
+    "/mf2/2092f67d-c7b2-4faa-b1bb-433b4244fc5c/"
   ]
 }

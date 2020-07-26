@@ -24,7 +24,6 @@
   ],
   "slug": "2019/10/jvt2r",
   "aliases": [
-    "/mf2/3cd88b7e-af47-4768-af93-54ccbf26717d/",
-    "/mf2/2019/10/JvT2R"
+    "/mf2/3cd88b7e-af47-4768-af93-54ccbf26717d/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/05/ukszp",
   "aliases": [
-    "/mf2/add79e30-60c2-443f-96c9-441439054bfb/",
-    "/mf2/2019/05/UkSZP"
+    "/mf2/add79e30-60c2-443f-96c9-441439054bfb/"
   ]
 }

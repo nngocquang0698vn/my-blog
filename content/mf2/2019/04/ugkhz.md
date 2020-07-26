@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/04/ugkhz",
   "aliases": [
-    "/mf2/845e354a-654e-4b40-aa64-f9fb349ecb46/",
-    "/mf2/2019/04/ugkHZ"
+    "/mf2/845e354a-654e-4b40-aa64-f9fb349ecb46/"
   ]
 }

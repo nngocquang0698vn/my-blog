@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/10/devcc",
   "aliases": [
-    "/mf2/b124d069-9942-4189-9777-0c3acc2fc1c7/",
-    "/mf2/2017/10/devCC"
+    "/mf2/b124d069-9942-4189-9777-0c3acc2fc1c7/"
   ]
 }

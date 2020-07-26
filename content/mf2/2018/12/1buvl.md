@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/12/1buvl",
   "aliases": [
-    "/mf2/a6bd8879-6aaa-4d88-99d2-b7a73dafe60d/",
-    "/mf2/2018/12/1Buvl"
+    "/mf2/a6bd8879-6aaa-4d88-99d2-b7a73dafe60d/"
   ]
 }

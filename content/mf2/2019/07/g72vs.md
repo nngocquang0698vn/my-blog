@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/07/g72vs",
   "aliases": [
-    "/mf2/b1a34209-ec36-462a-9f8a-0f70c88f7acd/",
-    "/mf2/2019/07/g72VS"
+    "/mf2/b1a34209-ec36-462a-9f8a-0f70c88f7acd/"
   ]
 }

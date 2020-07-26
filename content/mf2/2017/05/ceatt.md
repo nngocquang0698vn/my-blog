@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/05/ceatt",
   "aliases": [
-    "/mf2/2d770d50-b2ef-4b96-ba0e-3a0d341ea31f/",
-    "/mf2/2017/05/cEaTT"
+    "/mf2/2d770d50-b2ef-4b96-ba0e-3a0d341ea31f/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/01/xyqar",
   "aliases": [
-    "/mf2/69c1c58d-dd39-4179-bf28-4aa876d9f4c4/",
-    "/mf2/2017/01/XYqar"
+    "/mf2/69c1c58d-dd39-4179-bf28-4aa876d9f4c4/"
   ]
 }

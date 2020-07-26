@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/04/e74sx",
   "aliases": [
-    "/mf2/51950ef7-16cf-42bb-bc7f-4530bf99ab48/",
-    "/mf2/2018/04/e74Sx"
+    "/mf2/51950ef7-16cf-42bb-bc7f-4530bf99ab48/"
   ]
 }

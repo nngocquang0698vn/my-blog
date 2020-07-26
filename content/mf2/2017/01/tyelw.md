@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/01/tyelw",
   "aliases": [
-    "/mf2/31f1488a-2474-4831-a67d-97ca66bdfad0/",
-    "/mf2/2017/01/tyElw"
+    "/mf2/31f1488a-2474-4831-a67d-97ca66bdfad0/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/04/ypsmc",
   "aliases": [
-    "/mf2/a6ffae07-37fd-4cab-834c-590aadf3e2d1/",
-    "/mf2/2018/04/yPSMc"
+    "/mf2/a6ffae07-37fd-4cab-834c-590aadf3e2d1/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/01/tdaqu",
   "aliases": [
-    "/mf2/f2a97c81-7942-4314-9dc8-335aefcf886d/",
-    "/mf2/2018/01/tdAqu"
+    "/mf2/f2a97c81-7942-4314-9dc8-335aefcf886d/"
   ]
 }

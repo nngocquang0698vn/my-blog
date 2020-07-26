@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/09/skuzy",
   "aliases": [
-    "/mf2/b42846fb-064c-4abb-b97b-f5b0b12423bf/",
-    "/mf2/2019/09/SKUzY"
+    "/mf2/b42846fb-064c-4abb-b97b-f5b0b12423bf/"
   ]
 }

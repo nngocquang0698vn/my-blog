@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/01/mghpi",
   "aliases": [
-    "/mf2/461b52d4-2d1e-40f3-816e-7c54657e62e8/",
-    "/mf2/2019/01/MGHPI"
+    "/mf2/461b52d4-2d1e-40f3-816e-7c54657e62e8/"
   ]
 }

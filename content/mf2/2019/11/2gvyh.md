@@ -26,7 +26,5 @@
     "ownership"
   ],
   "aliases": [
-    "/mf2/2019/11/2gvyh",
-    "/mf2/2019/11/2gvyH"
   ]
 }

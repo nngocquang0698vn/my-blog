@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/4snot",
   "aliases": [
-    "/mf2/aad988aa-3151-4c95-9c25-ba2f2bd44319/",
-    "/mf2/2018/10/4SNOt"
+    "/mf2/aad988aa-3151-4c95-9c25-ba2f2bd44319/"
   ]
 }

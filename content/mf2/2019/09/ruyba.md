@@ -22,7 +22,6 @@
   ],
   "slug": "2019/09/ruyba",
   "aliases": [
-    "/mf2/d602142e-84cb-4a0c-9f4e-597a542d4b1b/",
-    "/mf2/2019/09/ruyBA"
+    "/mf2/d602142e-84cb-4a0c-9f4e-597a542d4b1b/"
   ]
 }

@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/kqtxv",
   "aliases": [
-    "/mf2/4af592eb-f20c-4e86-abe1-d017cc6deb62/",
-    "/mf2/2019/10/kQtxV"
+    "/mf2/4af592eb-f20c-4e86-abe1-d017cc6deb62/"
   ]
 }

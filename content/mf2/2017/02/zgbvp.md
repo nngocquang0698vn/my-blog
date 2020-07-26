@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/02/zgbvp",
   "aliases": [
-    "/mf2/aed297e0-6591-4f77-a0e1-c762b6725e6c/",
-    "/mf2/2017/02/ZGBVp"
+    "/mf2/aed297e0-6591-4f77-a0e1-c762b6725e6c/"
   ]
 }

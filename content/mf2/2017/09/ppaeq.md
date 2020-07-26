@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/09/ppaeq",
   "aliases": [
-    "/mf2/00df3bec-866e-491c-bbb5-713f94ad86e6/",
-    "/mf2/2017/09/pPAEq"
+    "/mf2/00df3bec-866e-491c-bbb5-713f94ad86e6/"
   ]
 }

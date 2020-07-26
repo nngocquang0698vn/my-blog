@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/06/iwnmc",
   "aliases": [
-    "/mf2/fbb59798-af23-4edc-bab6-ced701fab04b/",
-    "/mf2/2018/06/iwNmc"
+    "/mf2/fbb59798-af23-4edc-bab6-ced701fab04b/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/07/3luba",
   "aliases": [
-    "/mf2/4d91a743-e0b6-460f-b2d5-bf2b9f622c32/",
-    "/mf2/2019/07/3Luba"
+    "/mf2/4d91a743-e0b6-460f-b2d5-bf2b9f622c32/"
   ]
 }

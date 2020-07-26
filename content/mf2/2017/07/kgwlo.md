@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/07/kgwlo",
   "aliases": [
-    "/mf2/87618dee-c371-48bb-8376-d59b9db504b6/",
-    "/mf2/2017/07/kGWlo"
+    "/mf2/87618dee-c371-48bb-8376-d59b9db504b6/"
   ]
 }

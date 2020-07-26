@@ -15,7 +15,6 @@
   "kind": "likes",
   "slug": "2019/08/jpj4j",
   "aliases": [
-    "/mf2/1e51a980-88fc-40f8-9dac-a5355368cf6b/",
-    "/mf2/2019/08/jPj4J"
+    "/mf2/1e51a980-88fc-40f8-9dac-a5355368cf6b/"
   ]
 }

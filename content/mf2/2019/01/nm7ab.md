@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/01/nm7ab",
   "aliases": [
-    "/mf2/0227469f-fdb2-45a7-972b-0b4555b16e2f/",
-    "/mf2/2019/01/Nm7Ab"
+    "/mf2/0227469f-fdb2-45a7-972b-0b4555b16e2f/"
   ]
 }

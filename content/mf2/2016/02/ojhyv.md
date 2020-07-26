@@ -49,7 +49,6 @@
   },
   "slug": "2016/02/ojhyv",
   "aliases": [
-    "/mf2/a0d3fc23-e9ad-482b-b186-a4c73b642b6b/",
-    "/mf2/2016/02/OJhyv"
+    "/mf2/a0d3fc23-e9ad-482b-b186-a4c73b642b6b/"
   ]
 }

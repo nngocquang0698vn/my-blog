@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/03/kxtue",
   "aliases": [
-    "/mf2/eed3c593-ac41-4c3b-98e1-d3ba8544a3ea/",
-    "/mf2/2017/03/kXtue"
+    "/mf2/eed3c593-ac41-4c3b-98e1-d3ba8544a3ea/"
   ]
 }

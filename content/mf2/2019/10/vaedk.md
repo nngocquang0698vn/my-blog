@@ -22,7 +22,6 @@
   },
   "slug": "2019/10/vaedk",
   "aliases": [
-    "/mf2/ffdf61cc-d534-4ad6-a9e8-b4c7ed2f7faf/",
-    "/mf2/2019/10/VaeDk"
+    "/mf2/ffdf61cc-d534-4ad6-a9e8-b4c7ed2f7faf/"
   ]
 }

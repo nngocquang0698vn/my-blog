@@ -15,7 +15,6 @@
   "kind": "bookmarks",
   "slug": "2019/08/fz7cc",
   "aliases": [
-    "/mf2/cc0b8306-2940-4a42-ad19-13f6a37e8a39/",
-    "/mf2/2019/08/Fz7CC"
+    "/mf2/cc0b8306-2940-4a42-ad19-13f6a37e8a39/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/05/wgepi",
   "aliases": [
-    "/mf2/30054321-c31b-4cfe-88a5-11589020ccdf/",
-    "/mf2/2017/05/WgepI"
+    "/mf2/30054321-c31b-4cfe-88a5-11589020ccdf/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/04/g27ov",
   "aliases": [
-    "/mf2/0086c36d-df0c-4130-9080-e7e45ebd390c/",
-    "/mf2/2018/04/g27OV"
+    "/mf2/0086c36d-df0c-4130-9080-e7e45ebd390c/"
   ]
 }

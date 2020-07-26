@@ -22,7 +22,5 @@
     "indieweb"
   ],
   "aliases": [
-    "/mf2/2019/10/tmnqi",
-    "/mf2/2019/10/TMNQi"
   ]
 }

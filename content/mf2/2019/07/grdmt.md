@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/07/grdmt",
   "aliases": [
-    "/mf2/33c87043-7cda-4780-9d0e-c718dacda846/",
-    "/mf2/2019/07/GRdmT"
+    "/mf2/33c87043-7cda-4780-9d0e-c718dacda846/"
   ]
 }

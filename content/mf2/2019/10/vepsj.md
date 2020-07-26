@@ -22,7 +22,6 @@
   },
   "slug": "2019/10/vepsj",
   "aliases": [
-    "/mf2/e504ab12-0f53-4352-b9ac-2e8bc6d6d4d0/",
-    "/mf2/2019/10/VePSj"
+    "/mf2/e504ab12-0f53-4352-b9ac-2e8bc6d6d4d0/"
   ]
 }

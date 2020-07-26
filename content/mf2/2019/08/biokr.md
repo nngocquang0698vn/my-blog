@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/08/biokr",
   "aliases": [
-    "/mf2/1381bff3-98ef-4223-8e74-8d7471e2117b/",
-    "/mf2/2019/08/BiokR"
+    "/mf2/1381bff3-98ef-4223-8e74-8d7471e2117b/"
   ]
 }

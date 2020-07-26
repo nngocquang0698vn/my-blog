@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/03/iilke",
   "aliases": [
-    "/mf2/2594ca22-96b7-4b6f-882f-3e5577b939e5/",
-    "/mf2/2018/03/IILKe"
+    "/mf2/2594ca22-96b7-4b6f-882f-3e5577b939e5/"
   ]
 }

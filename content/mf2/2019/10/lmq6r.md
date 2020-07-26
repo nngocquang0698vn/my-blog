@@ -16,7 +16,6 @@
   },
   "slug": "2019/10/lmq6r",
   "aliases": [
-    "/mf2/aca43e3e-b26a-4f25-982a-09c83fe749b2/",
-    "/mf2/2019/10/Lmq6r"
+    "/mf2/aca43e3e-b26a-4f25-982a-09c83fe749b2/"
   ]
 }

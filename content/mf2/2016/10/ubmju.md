@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/10/ubmju",
   "aliases": [
-    "/mf2/0657c8ec-05b5-4b37-9bc6-842012ddb4b9/",
-    "/mf2/2016/10/UBMju"
+    "/mf2/0657c8ec-05b5-4b37-9bc6-842012ddb4b9/"
   ]
 }

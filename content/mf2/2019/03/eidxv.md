@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/03/eidxv",
   "aliases": [
-    "/mf2/2f92e447-62d8-4ea3-9a50-f4a2ceb28483/",
-    "/mf2/2019/03/EidXv"
+    "/mf2/2f92e447-62d8-4ea3-9a50-f4a2ceb28483/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/01/nv8gl",
   "aliases": [
-    "/mf2/ba40cf91-e905-4136-a566-f9e325b3a193/",
-    "/mf2/2018/01/NV8gl"
+    "/mf2/ba40cf91-e905-4136-a566-f9e325b3a193/"
   ]
 }

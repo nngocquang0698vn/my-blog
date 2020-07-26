@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/05/utaia",
   "aliases": [
-    "/mf2/e9dd8124-1c0d-4800-9828-a4c47354c1b7/",
-    "/mf2/2018/05/uTAia"
+    "/mf2/e9dd8124-1c0d-4800-9828-a4c47354c1b7/"
   ]
 }

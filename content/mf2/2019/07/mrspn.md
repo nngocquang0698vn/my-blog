@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2019/07/mrspn",
   "aliases": [
-    "/mf2/5db096b3-5851-43cb-899f-62203ef7df53/",
-    "/mf2/2019/07/mRSpN"
+    "/mf2/5db096b3-5851-43cb-899f-62203ef7df53/"
   ]
 }

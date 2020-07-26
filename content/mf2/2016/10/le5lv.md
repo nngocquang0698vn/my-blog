@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2016/10/le5lv",
   "aliases": [
-    "/mf2/ea125aa3-cec4-4a90-b43b-57bb16692a47/",
-    "/mf2/2016/10/Le5LV"
+    "/mf2/ea125aa3-cec4-4a90-b43b-57bb16692a47/"
   ]
 }

@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2017/02/g8sqk",
   "aliases": [
-    "/mf2/492f8aec-f10c-4289-8f70-ad70ab240fa4/",
-    "/mf2/2017/02/g8sQk"
+    "/mf2/492f8aec-f10c-4289-8f70-ad70ab240fa4/"
   ]
 }

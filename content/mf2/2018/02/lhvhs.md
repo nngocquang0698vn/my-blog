@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/02/lhvhs",
   "aliases": [
-    "/mf2/a53e46fb-a3bf-431a-9b21-2b154548b728/",
-    "/mf2/2018/02/LHVHS"
+    "/mf2/a53e46fb-a3bf-431a-9b21-2b154548b728/"
   ]
 }

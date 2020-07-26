@@ -16,7 +16,6 @@
   },
   "slug": "2019/09/razma",
   "aliases": [
-    "/mf2/ca21ff57-0265-4f3a-ad17-6f61e4d5f42c/",
-    "/mf2/2019/09/RAzma"
+    "/mf2/ca21ff57-0265-4f3a-ad17-6f61e4d5f42c/"
   ]
 }

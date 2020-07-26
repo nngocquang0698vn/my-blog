@@ -15,7 +15,6 @@
   },
   "slug": "2019/09/mstzc",
   "aliases": [
-    "/mf2/42add962-f651-43a0-a697-e073edbac73d/",
-    "/mf2/2019/09/mSTZc"
+    "/mf2/42add962-f651-43a0-a697-e073edbac73d/"
   ]
 }

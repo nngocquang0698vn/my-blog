@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/06/spwkk",
   "aliases": [
-    "/mf2/923e3810-370c-4204-a337-d56feb949ad8/",
-    "/mf2/2018/06/spWkk"
+    "/mf2/923e3810-370c-4204-a337-d56feb949ad8/"
   ]
 }

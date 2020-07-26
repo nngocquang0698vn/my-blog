@@ -22,7 +22,5 @@
     "python"
   ],
   "aliases": [
-    "/mf2/2019/11/n3qrq",
-    "/mf2/2019/11/n3qRq"
   ]
 }

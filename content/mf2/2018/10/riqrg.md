@@ -22,7 +22,6 @@
   "h": "h-measure",
   "slug": "2018/10/riqrg",
   "aliases": [
-    "/mf2/d1d87d04-a831-4aa8-99df-dc976b47f684/",
-    "/mf2/2018/10/RiqrG"
+    "/mf2/d1d87d04-a831-4aa8-99df-dc976b47f684/"
   ]
 }

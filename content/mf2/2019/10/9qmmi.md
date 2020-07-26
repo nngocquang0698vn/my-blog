@@ -34,7 +34,5 @@
     "microsub"
   ],
   "aliases": [
-    "/mf2/2019/10/9qmmi",
-    "/mf2/2019/10/9Qmmi"
   ]
 }
