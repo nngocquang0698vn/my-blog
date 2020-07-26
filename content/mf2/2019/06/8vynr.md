@@ -15,8 +15,7 @@
   },
   "aliases": [
     "/notes/e1fbbf51-8a38-43d1-a80d-1acf715514de/",
-    "/mf2/e1fbbf51-8a38-43d1-a80d-1acf715514de/",
-    "/mf2/2019/06/8VyNr"
+    "/mf2/e1fbbf51-8a38-43d1-a80d-1acf715514de/"
   ],
   "h": "h-entry",
   "date": "2019-06-29T16:00:03+0100",

@@ -24,6 +24,5 @@
     "free-software"
   ],
   "aliases": [
-    "/mf2/2019/11/x33tx"
   ]
 }

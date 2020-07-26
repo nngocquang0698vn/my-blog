@@ -48,8 +48,7 @@
   },
   "aliases": [
     "/rsvps/c20e8eb7-11eb-4bee-b565-62b26fcf3ed8/",
-    "/mf2/c20e8eb7-11eb-4bee-b565-62b26fcf3ed8/",
-    "/mf2/2019/06/xZfgC"
+    "/mf2/c20e8eb7-11eb-4bee-b565-62b26fcf3ed8/"
   ],
   "h": "h-entry",
   "date": "2019-06-23T21:50:24+0100",

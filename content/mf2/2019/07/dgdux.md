@@ -15,8 +15,7 @@
   },
   "aliases": [
     "/likes/1f5d8ac3-2a21-4322-ac2e-c5fb1c60de6f/",
-    "/mf2/1f5d8ac3-2a21-4322-ac2e-c5fb1c60de6f/",
-    "/mf2/2019/07/dgDuX"
+    "/mf2/1f5d8ac3-2a21-4322-ac2e-c5fb1c60de6f/"
   ],
   "h": "h-entry",
   "date": "2019-07-26T06:55:00+0100",

@@ -22,8 +22,7 @@
   },
   "aliases": [
     "/bookmarks/4c247fb5-aab5-4e58-aabc-0e5ad128ad4f/",
-    "/mf2/4c247fb5-aab5-4e58-aabc-0e5ad128ad4f/",
-    "/mf2/2019/05/DUj5P"
+    "/mf2/4c247fb5-aab5-4e58-aabc-0e5ad128ad4f/"
   ],
   "h": "h-entry",
   "date": "2019-05-31T22:29:51+0100",
