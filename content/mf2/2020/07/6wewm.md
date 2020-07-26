@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287383982338904064" ],
     "photo" : [ {
       "alt" : "A container of curry from Rikshaw, with the word \"Hot\" scribbled out and replaced with \"Med\"",
       "photo" : "https://media.jvt.me/63fda1ae46.jpeg"
