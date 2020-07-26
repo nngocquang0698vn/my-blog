@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MiaMarieMacy/status/1287126709636968448" ],
     "name" : [ "Like of @MiaMarieMacy's tweet" ],
     "published" : [ "2020-07-26T09:59:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
