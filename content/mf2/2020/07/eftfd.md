@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tprstly/status/1287457944360103938" ],
     "name" : [ "Like of @tprstly's tweet" ],
     "published" : [ "2020-07-26T22:44:00+01:00" ],
     "category" : [ "coronavirus" ],
