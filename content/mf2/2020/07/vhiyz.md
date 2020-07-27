@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mspowahs/status/1287527588395651073" ],
     "name" : [ "Like of @mspowahs's tweet" ],
     "published" : [ "2020-07-27T17:09:00+01:00" ],
     "category" : [ "mechanical-keyboard" ],
