@@ -3,8 +3,8 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/07/qoyhh/" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287736047032512512" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/07/qoyhh/" ],
     "photo" : [ {
       "alt" : "A puzzle cube, in a white fabric bag",
