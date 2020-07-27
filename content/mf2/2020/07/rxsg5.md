@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287782824750325770" ],
     "published" : [ "2020-07-27T17:01:00+01:00" ],
     "repost-of" : [ "https://twitter.com/heybuddy_comic/status/1287719448766492677" ],
     "category" : [ "mental-health" ]
