@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287733001678401537" ],
     "photo" : [ {
       "alt" : "A USB fan, a Dairy Milk Bar, a KitKat, a mug with the Grow tribe logo on it, a short note, and some bee-friendly wildflower sees",
       "photo" : "https://media.jvt.me/0aa53b9660.jpeg"
