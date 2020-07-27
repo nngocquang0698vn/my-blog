@@ -3,6 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/07/qoyhh/" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/07/qoyhh/" ],
     "photo" : [ {
