@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/__katiefenton/status/1287402109957275650" ],
     "name" : [ "Like of @__katiefenton's tweet" ],
     "published" : [ "2020-07-27T21:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/__katiefenton/status/1287402109957275650" ]
