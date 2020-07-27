@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JuliusGoat/status/1287475605324337152" ],
     "name" : [ "Like of @JuliusGoat's tweet" ],
     "published" : [ "2020-07-27T16:25:00+01:00" ],
     "category" : [ "politics" ],
