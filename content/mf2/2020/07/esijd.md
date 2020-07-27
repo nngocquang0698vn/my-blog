@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1287729978944126978" ],
     "photo" : [ {
       "alt" : "Jamie squatting, playing Ring Fit Adventures on the Nintento Switch, with his new trainers visible, with a fade from florescent orange to yellow",
       "photo" : "https://media.jvt.me/6385afec03.jpeg"
