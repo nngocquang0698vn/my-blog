@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1288199194197532675" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-07-28T21:21:00+01:00" ],
     "category" : [ "tiktok", "hamilton" ],
