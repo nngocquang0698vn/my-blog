@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/haysstanford/status/1287760626270507008" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1288232789414903809" ],
     "name" : [ "Reply to https://twitter.com/haysstanford/status/1287760626270507008" ],
     "published" : [ "2020-07-28T22:53:00+01:00" ],
     "category" : [ "gitlab" ],
