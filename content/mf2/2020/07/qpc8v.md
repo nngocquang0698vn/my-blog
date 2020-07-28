@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1288055802666852352" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-07-28T11:53:00+01:00" ],
     "like-of" : [ "https://twitter.com/MrsEmma/status/1288055802666852352" ]
