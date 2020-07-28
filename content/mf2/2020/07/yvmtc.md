@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/molly_struve/status/1288197469554311169" ],
     "name" : [ "Like of @molly_struve's tweet" ],
     "published" : [ "2020-07-28T21:29:00+01:00" ],
     "like-of" : [ "https://twitter.com/molly_struve/status/1288197469554311169" ]
