@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnimatedAnt/status/1288224613697302529" ],
     "name" : [ "Like of @AnimatedAnt's tweet" ],
     "published" : [ "2020-07-28T23:29:00+01:00" ],
     "category" : [ "pokemon" ],
