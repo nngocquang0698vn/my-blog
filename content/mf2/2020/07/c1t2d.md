@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AntiSilence666/status/1288558925210628097" ],
     "name" : [ "Like of @AntiSilence666's tweet" ],
     "published" : [ "2020-07-29T21:40:00+01:00" ],
     "category" : [ "coronavirus" ],
