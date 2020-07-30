@@ -1,0 +1,45 @@
+{
+  "date" : "2020-07-30T11:14:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @lunasorcery's tweet" ],
+    "published" : [ "2020-07-30T11:14:00+01:00" ],
+    "like-of" : [ "https://twitter.com/lunasorcery/status/1288773126097178624" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/bw4du",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1288773126097178624" ],
+      "url" : [ "https://twitter.com/lunasorcery/status/1288773126097178624" ],
+      "published" : [ "2020-07-30T09:47:12+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/23Chaos23/status/1288724996878028801" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:lunasorcery" ],
+          "numeric-id" : [ "29508496" ],
+          "name" : [ "✨ Luna 🌙" ],
+          "nickname" : [ "lunasorcery" ],
+          "url" : [ "https://twitter.com/lunasorcery", "http://twitch.tv/lunasorcery" ],
+          "published" : [ "2009-04-07T18:27:55+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "The Moon" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1158068782235049984/le5HvTWF.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "me: *posts a cute joke*\nsome reply guy: \"you should stop using this computing platform. I will not elaborate further.\"\n\nmy dude, why on earth did you think that was a sensible response?",
+        "html" : "<div style=\"white-space: pre\">me: *posts a cute joke*\nsome reply guy: \"you should stop using this computing platform. I will not elaborate further.\"\n\nmy dude, why on earth did you think that was a sensible response?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/23Chaos23\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/arturo182\"></a>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
