@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattstratton/status/1288910530833457153" ],
     "name" : [ "Like of @mattstratton's tweet" ],
     "published" : [ "2020-07-30T20:16:00+01:00" ],
     "like-of" : [ "https://twitter.com/mattstratton/status/1288910530833457153" ]
