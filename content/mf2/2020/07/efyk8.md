@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PeteMcConnell_/status/1288516000305086464" ],
     "name" : [ "Like of @PeteMcConnell_'s tweet" ],
     "published" : [ "2020-07-30T17:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/PeteMcConnell_/status/1288516000305086464" ]
