@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/donnacamos/status/1288926929542959104" ],
     "name" : [ "Like of @donnacamos's tweet" ],
     "published" : [ "2020-07-30T21:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/donnacamos/status/1288926929542959104" ]
