@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CuriousZelda/status/1288543217366048768" ],
     "name" : [ "Like of @CuriousZelda's tweet" ],
     "published" : [ "2020-07-30T16:32:00+01:00" ],
     "category" : [ "cute" ],
