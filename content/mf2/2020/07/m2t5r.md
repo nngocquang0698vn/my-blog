@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rachellord22/status/1288460936693653510" ],
     "name" : [ "Like of @rachellord22's tweet" ],
     "published" : [ "2020-07-30T22:19:00+01:00" ],
     "category" : [ "cute" ],
