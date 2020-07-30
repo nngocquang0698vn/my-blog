@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SaraJChipps/status/1288877596495814656" ],
     "name" : [ "Like of @SaraJChipps's tweet" ],
     "published" : [ "2020-07-30T19:22:00+01:00" ],
     "like-of" : [ "https://twitter.com/SaraJChipps/status/1288877596495814656" ]
