@@ -1,0 +1,42 @@
+{
+  "date" : "2020-07-31T20:49:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @_davevans_'s tweet" ],
+    "published" : [ "2020-07-31T20:49:00+01:00" ],
+    "category" : [ "cute" ],
+    "like-of" : [ "https://twitter.com/_davevans_/status/1289284688486395904" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/07/wmoxn",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1289284688486395904" ],
+      "url" : [ "https://twitter.com/_davevans_/status/1289284688486395904" ],
+      "published" : [ "2020-07-31T19:39:58+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1289283525187780608" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:_davevans_" ],
+          "numeric-id" : [ "1288472388447895552" ],
+          "name" : [ "David Evans" ],
+          "nickname" : [ "_davevans_" ],
+          "url" : [ "https://twitter.com/_davevans_", "http://davidevans.io/" ],
+          "published" : [ "2020-07-29T13:52:15+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1288494582611750912/UYD6DpkP.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Too hot for fur",
+        "html" : "Too hot for fur\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EeR1lydXgAYiAL2.jpg" ]
+    }
+  },
+  "tags" : [ "cute" ],
+  "client_id" : "https://indigenous.realize.be"
+}
