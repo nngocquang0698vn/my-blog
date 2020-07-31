@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WearyWithToil/status/1289137870767366144" ],
     "name" : [ "Like of @WearyWithToil's tweet" ],
     "published" : [ "2020-07-31T16:15:00+01:00" ],
     "category" : [ "cute" ],
