@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cactusgrlx/status/1288593233023348736" ],
     "name" : [ "Like of @cactusgrlx's tweet" ],
     "published" : [ "2020-07-31T16:12:00+01:00" ],
     "category" : [ "cute" ],
