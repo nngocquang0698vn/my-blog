@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OoCPokemon/status/1289326610240266240" ],
     "name" : [ "Like of @OoCPokemon's tweet" ],
     "published" : [ "2020-08-01T00:06:00+01:00" ],
     "category" : [ "pokemon", "politics" ],
