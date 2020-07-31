@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drdrwhite/status/1289146867469647872" ],
     "name" : [ "Like of @drdrwhite's tweet" ],
     "published" : [ "2020-07-31T21:37:00+01:00" ],
     "category" : [ "coronavirus" ],
