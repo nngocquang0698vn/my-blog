@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kashhill/status/1289216753994612736" ],
     "name" : [ "Like of @kashhill's tweet" ],
     "published" : [ "2020-07-31T22:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/kashhill/status/1289216753994612736" ]
