@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AmandaRosenberg/status/1289250307969490944" ],
     "name" : [ "Like of @AmandaRosenberg's tweet" ],
     "published" : [ "2020-08-01T00:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/AmandaRosenberg/status/1289250307969490944" ]
