@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_davevans_/status/1289284688486395904" ],
     "name" : [ "Like of @_davevans_'s tweet" ],
     "published" : [ "2020-07-31T20:49:00+01:00" ],
     "category" : [ "cute" ],
