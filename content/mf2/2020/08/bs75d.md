@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seldo/status/1289358583293870080" ],
     "name" : [ "Like of @seldo's tweet" ],
     "published" : [ "2020-08-01T10:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/seldo/status/1289358583293870080" ]
