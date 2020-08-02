@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZoeTomalin/status/1289854186213974017" ],
     "name" : [ "Like of @ZoeTomalin's tweet" ],
     "published" : [ "2020-08-02T17:13:00+01:00" ],
     "category" : [ "coronavirus" ],
