@@ -1,0 +1,44 @@
+{
+  "date" : "2020-08-02T14:29:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @50FirstTates's tweet" ],
+    "published" : [ "2020-08-02T14:29:00+01:00" ],
+    "like-of" : [ "https://twitter.com/50FirstTates/status/1286686633052512256" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/patbw",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1286686633052512256" ],
+      "url" : [ "https://twitter.com/50FirstTates/status/1286686633052512256" ],
+      "published" : [ "2020-07-24T15:36:13+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:50FirstTates" ],
+          "numeric-id" : [ "1214937327014989824" ],
+          "name" : [ "tatum" ],
+          "nickname" : [ "50FirstTates" ],
+          "url" : [ "https://twitter.com/50FirstTates", "https://twitter.com/search?q=(from%3A50firsttates)%20min_retweets%3A100&src=typed_query" ],
+          "published" : [ "2020-01-08T15:50:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "horace green prep" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1286018423449845760/uj8OZIgb.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "me: [just standing there]\n\nmy cat: i will circle u rubbing my entire body on ur legs \n\nme: [reaches to pet cat]\n\nmy cat: ʳ ᵘ ᶠᵘᶜᵏᶦⁿᵍ ᵏᶦᵈᵈᶦⁿᵍ ᵐᵉ ᵘ ᵐᵒᵗʰᵉʳᶠᵘᶜᵏᵉʳ ʷʰᵒ ˢᵃᶦᵈ ᵘ ᶜᵒᵘˡᵈ ᵗᵒᵘᶜʰ ᵐᵉ",
+        "html" : "<div style=\"white-space: pre\">me: [just standing there]\n\nmy cat: i will circle u rubbing my entire body on ur legs \n\nme: [reaches to pet cat]\n\nmy cat: ʳ ᵘ ᶠᵘᶜᵏᶦⁿᵍ ᵏᶦᵈᵈᶦⁿᵍ ᵐᵉ ᵘ ᵐᵒᵗʰᵉʳᶠᵘᶜᵏᵉʳ ʷʰᵒ ˢᵃᶦᵈ ᵘ ᶜᵒᵘˡᵈ ᵗᵒᵘᶜʰ ᵐᵉ</div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
