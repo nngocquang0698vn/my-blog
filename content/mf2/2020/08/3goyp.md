@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MaxEMcMorrow/status/1289503620786864129" ],
     "name" : [ "Like of @MaxEMcMorrow's tweet" ],
     "published" : [ "2020-08-02T14:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/MaxEMcMorrow/status/1289503620786864129" ]
