@@ -1,0 +1,35 @@
+{
+  "date" : "2020-08-02T14:28:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @brnzmn's tweet" ],
+    "published" : [ "2020-08-02T14:28:00+01:00" ],
+    "like-of" : [ "https://twitter.com/brnzmn/status/1289617898701557762" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/rxptb",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1289617898701557762" ],
+      "url" : [ "https://twitter.com/brnzmn/status/1289617898701557762" ],
+      "published" : [ "2020-08-01T17:44:01+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:brnzmn" ],
+          "numeric-id" : [ "211578476" ],
+          "name" : [ "Baran Ozmen" ],
+          "nickname" : [ "brnzmn" ],
+          "url" : [ "https://twitter.com/brnzmn" ],
+          "published" : [ "2010-11-03T17:15:47+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1262042549868548096/b2kujEBs.jpg" ]
+        }
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EeWknusWsAEfPUo.png" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
