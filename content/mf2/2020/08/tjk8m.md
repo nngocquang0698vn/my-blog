@@ -1,0 +1,43 @@
+{
+  "date" : "2020-08-02T23:16:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @bolau_'s tweet" ],
+    "published" : [ "2020-08-02T23:16:00+01:00" ],
+    "category" : [ "shitpost" ],
+    "like-of" : [ "https://twitter.com/bolau_/status/1289739788589899781" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/tjk8m",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1289739788589899781" ],
+      "url" : [ "https://twitter.com/bolau_/status/1289739788589899781" ],
+      "published" : [ "2020-08-02T01:48:22+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:bolau_" ],
+          "numeric-id" : [ "1216907381453598721" ],
+          "name" : [ "Bo Lau" ],
+          "nickname" : [ "bolau_" ],
+          "url" : [ "https://twitter.com/bolau_", "http://bolau.substack.com" ],
+          "published" : [ "2020-01-14T02:18:41+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "toronto" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1272526893145829378/5oFSz2rm.jpg" ]
+        }
+      } ],
+      "content" : [ "50 years ago a child went up to mark zuckerberg and told him he wanted to be just like him one day. mark was so inspired he gave him $20 and told him to buy bitcoin. that child is bill gates." ]
+    }
+  },
+  "tags" : [ "shitpost" ],
+  "client_id" : "https://indigenous.realize.be"
+}
