@@ -1,0 +1,45 @@
+{
+  "date" : "2020-08-02T14:07:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @kibblesmith's tweet" ],
+    "published" : [ "2020-08-02T14:07:00+01:00" ],
+    "like-of" : [ "https://twitter.com/kibblesmith/status/1289605345375973378" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/rmtci",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1289605345375973378" ],
+      "url" : [ "https://twitter.com/kibblesmith/status/1289605345375973378" ],
+      "published" : [ "2020-08-01T16:54:08+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:kibblesmith" ],
+          "numeric-id" : [ "14641347" ],
+          "name" : [ "Daniel Kibblesmith" ],
+          "nickname" : [ "kibblesmith" ],
+          "url" : [ "https://twitter.com/kibblesmith", "http://Kibblesmith.com", "http://bit.ly/Kibblesmith" ],
+          "published" : [ "2008-05-03T20:42:01+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "America, U.S.A." ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268245797277175817/BomYTdKf.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "What is the sickest burn in the history of cinema\n\nKeeping in mind that it’s this",
+        "html" : "<div style=\"white-space: pre\">What is the sickest burn in the history of cinema\n\nKeeping in mind that it’s this</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EeWZOesXoAAC2H1.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
