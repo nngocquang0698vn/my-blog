@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xeenon/status/1290388510227103744" ],
     "name" : [ "Like of @xeenon's tweet" ],
     "published" : [ "2020-08-03T22:52:00+01:00" ],
     "category" : [ "cloudflare" ],
