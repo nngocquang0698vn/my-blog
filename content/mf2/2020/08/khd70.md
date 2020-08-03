@@ -1,0 +1,46 @@
+{
+  "date" : "2020-08-03T22:52:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @xeenon's tweet" ],
+    "published" : [ "2020-08-03T22:52:00+01:00" ],
+    "category" : [ "cloudflare" ],
+    "like-of" : [ "https://twitter.com/xeenon/status/1290388510227103744" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/khd70",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1290388510227103744" ],
+      "url" : [ "https://twitter.com/xeenon/status/1290388510227103744" ],
+      "published" : [ "2020-08-03T20:46:09+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:xeenon" ],
+          "numeric-id" : [ "15400531" ],
+          "name" : [ "Timothy Hatcher" ],
+          "nickname" : [ "xeenon" ],
+          "url" : [ "https://twitter.com/xeenon", "https://timothy.hatcher.cloud" ],
+          "published" : [ "2008-07-12T04:11:11+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Inland Northwest, Washington" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1243042588816314368/eBwGm67b.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I’ve been using @Cloudflare 1.1.1.1 DNS since it was released. Highly recommended!\n\nBut I missed the announcement of 1.1.1.1 for Families.\n\nBlock Malware: 1.1.1.2\nBlock Malware and Adult Content: 1.1.1.3\n\nEveryone should switch from Google’s 8.8.8.8.\n\nblog.cloudflare.com/introducing-1-…",
+        "html" : "<div style=\"white-space: pre\">I’ve been using <a href=\"https://twitter.com/Cloudflare\">@Cloudflare</a> 1.1.1.1 DNS since it was released. Highly recommended!\n\nBut I missed the announcement of 1.1.1.1 for Families.\n\nBlock Malware: 1.1.1.2\nBlock Malware and Adult Content: 1.1.1.3\n\nEveryone should switch from Google’s 8.8.8.8.\n\n<a href=\"https://blog.cloudflare.com/introducing-1-1-1-1-for-families\">blog.cloudflare.com/introducing-1-…</a></div>"
+      } ]
+    }
+  },
+  "tags" : [ "cloudflare" ],
+  "client_id" : "https://indigenous.realize.be"
+}
