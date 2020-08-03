@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BenWolfeVision/status/1289656605999390720" ],
     "name" : [ "Like of @BenWolfeVision's tweet" ],
     "published" : [ "2020-08-03T10:28:00+01:00" ],
     "category" : [ "food" ],
