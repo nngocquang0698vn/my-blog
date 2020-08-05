@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JemYoung/status/1290785945025785858" ],
     "name" : [ "Like of @JemYoung's tweet" ],
     "published" : [ "2020-08-05T08:23:00+01:00" ],
     "category" : [ "technical-leadership" ],
