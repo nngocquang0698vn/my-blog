@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/dkanejs/docker-compose-maven-plugin/stargazers" ],
     "name" : [ "Like of https://github.com/dkanejs/docker-compose-maven-plugin" ],
     "published" : [ "2020-08-05T09:14:07.237Z" ],
     "category" : [ "docker", "maven" ],
