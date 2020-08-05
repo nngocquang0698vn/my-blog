@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/britnorcodes/status/1291096346045353987" ],
     "name" : [ "Like of @britnorcodes's tweet" ],
     "published" : [ "2020-08-05T22:58:00+01:00" ],
     "category" : [ "blogging" ],
