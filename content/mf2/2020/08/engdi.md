@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1291076209552625664" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website club - Jamie, Carol, Anna, Elle and Clark",
       "photo" : "https://media.jvt.me/6738eaa3ca.png"
