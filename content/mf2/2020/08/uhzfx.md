@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/XMPPwocky/status/1291144278953955328" ],
     "name" : [ "Like of @XMPPwocky's tweet" ],
     "published" : [ "2020-08-06T16:34:00+01:00" ],
     "category" : [ "gpg" ],
