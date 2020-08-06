@@ -6,7 +6,7 @@
     "syndication" : [ "https://twitter.com/XMPPwocky/status/1291144278953955328" ],
     "name" : [ "Like of @XMPPwocky's tweet" ],
     "published" : [ "2020-08-06T16:34:00+01:00" ],
-    "category" : [ "gpg" ],
+    "category" : [ "pgp" ],
     "like-of" : [ "https://twitter.com/XMPPwocky/status/1291144278953955328" ]
   },
   "kind" : "likes",
@@ -38,6 +38,6 @@
       "content" : [ "Critical PGP bug just disclosed: if an attacker responds to an encrypted message with \"This doesn't decrypt for me, could you try without PGP\", the sender will be unsurprised and provide the attacker a copy of the encrypted message in plaintext" ]
     }
   },
-  "tags" : [ "gpg" ],
+  "tags" : [ "pgp" ],
   "client_id" : "https://indigenous.realize.be"
 }
