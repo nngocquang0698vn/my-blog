@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MicroSFF/status/1291365656764526593" ],
     "name" : [ "Like of @MicroSFF's tweet" ],
     "published" : [ "2020-08-06T16:30:00+01:00" ],
     "category" : [ "alexa" ],
