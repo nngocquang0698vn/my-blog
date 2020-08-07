@@ -1,0 +1,68 @@
+{
+  "date" : "2020-08-07T17:50:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @rothgar's tweet" ],
+    "published" : [ "2020-08-07T17:50:00+01:00" ],
+    "like-of" : [ "https://twitter.com/rothgar/status/1291774152676741120" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/vvg2a",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1291774152676741120" ],
+      "url" : [ "https://twitter.com/rothgar/status/1291774152676741120" ],
+      "published" : [ "2020-08-07T16:32:12+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:rothgar" ],
+          "numeric-id" : [ "14361975" ],
+          "name" : [ "Justin Garrison" ],
+          "nickname" : [ "rothgar" ],
+          "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com", "http://cnibook.info", "http://imdb.to/2FikCiY", "http://bit.ly/2tJM3yt" ],
+          "published" : [ "2008-04-11T15:59:21+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "he/him" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1265369680916516864/JkNfHi56.jpg" ]
+        }
+      } ],
+      "content" : [ "ELF 👏 binaries 👏 are 👏 multi 👏 cloud" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1291765793131241472" ],
+        "url" : [ "https://twitter.com/_JamesWard/status/1291765793131241472" ],
+        "published" : [ "2020-08-07T15:58:59+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:_JamesWard" ],
+            "numeric-id" : [ "799616" ],
+            "name" : [ "James Ward" ],
+            "nickname" : [ "_JamesWard" ],
+            "url" : [ "https://twitter.com/_JamesWard", "https://jamesward.com" ],
+            "published" : [ "2007-02-28T00:07:01+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Crested Butte, CO, USA" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/378800000606902520/0c9b5897d0f28e53f5666639551a7512.jpeg" ]
+          }
+        } ],
+        "content" : [ "It is pretty amazing that the same exact container image can be run on GCE, Kubernetes, Knative, and Cloud Run.  Choose your operation abstraction level." ]
+      }
+    } ]
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
