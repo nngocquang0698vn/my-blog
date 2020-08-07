@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KristinGKroll1/status/1287906321040367621" ],
     "name" : [ "Like of @KristinGKroll1's tweet" ],
     "published" : [ "2020-08-07T08:24:00+01:00" ],
     "category" : [ "coronavirus", "politics" ],
