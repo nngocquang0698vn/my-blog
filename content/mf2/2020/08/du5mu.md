@@ -1,0 +1,42 @@
+{
+  "date" : "2020-08-08T00:30:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @fanofmangos's tweet" ],
+    "published" : [ "2020-08-08T00:30:00+01:00" ],
+    "like-of" : [ "https://twitter.com/fanofmangos/status/1291752299136786434" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/du5mu",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1291752299136786434" ],
+      "url" : [ "https://twitter.com/fanofmangos/status/1291752299136786434" ],
+      "published" : [ "2020-08-07T15:05:22+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:fanofmangos" ],
+          "numeric-id" : [ "1265274088748126208" ],
+          "name" : [ "x̶X̶C̴0̴C̵K̶D̴S̵T̴R̴O̸Y̸E̵R̵6̸9̷X̴x̸" ],
+          "nickname" : [ "fanofmangos" ],
+          "url" : [ "https://twitter.com/fanofmangos", "https://docs.google.com/document/d/1zh6reFJWkZRGBL5iIezTfA2tkKBB3X9JcMh2QYT8tWk/mobilebasic" ],
+          "published" : [ "2020-05-26T13:30:37+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Cincinnati, OH" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1287127516432474116/FhGQyEHw.jpg" ]
+        }
+      } ],
+      "content" : [ "you guys, i am in LOVE with my new mortar and pestle 🥰😍" ],
+      "photo" : [ "https://pbs.twimg.com/media/Ee053j1WAAArZRl.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
