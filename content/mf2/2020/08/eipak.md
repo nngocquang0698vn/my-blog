@@ -1,0 +1,44 @@
+{
+  "date" : "2020-08-07T17:50:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @garwboy's tweet" ],
+    "published" : [ "2020-08-07T17:50:00+01:00" ],
+    "like-of" : [ "https://twitter.com/garwboy/status/1291317740188381184" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/eipak",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1291317740188381184" ],
+      "url" : [ "https://twitter.com/garwboy/status/1291317740188381184" ],
+      "published" : [ "2020-08-06T10:18:35+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:garwboy" ],
+          "numeric-id" : [ "20474878" ],
+          "name" : [ "Dean Burnett" ],
+          "nickname" : [ "garwboy" ],
+          "url" : [ "https://twitter.com/garwboy", "https://cosmicshambles.com/words/blogs/deanburnett", "http://www.deanburnett.com/" ],
+          "published" : [ "2009-02-09T22:45:43+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Cardiff" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1089819785641279488/KTK1FBcs.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Dear strangers;\n\nOnce again\n\nNo, I'm not 'babysitting', I'm their father\n\nNo, I didn't 'draw the short straw'. They're my children. I  like them a lot\n\nNo, it's not 'mum's day off'. It's the exact opposite, she's in work. Women can have official jobs these days. It's a thing.",
+        "html" : "<div style=\"white-space: pre\">Dear strangers;\n\nOnce again\n\nNo, I'm not 'babysitting', I'm their father\n\nNo, I didn't 'draw the short straw'. They're my children. I  like them a lot\n\nNo, it's not 'mum's day off'. It's the exact opposite, she's in work. Women can have official jobs these days. It's a thing.</div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
