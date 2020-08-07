@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1291774152676741120" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2020-08-07T17:50:00+01:00" ],
     "like-of" : [ "https://twitter.com/rothgar/status/1291774152676741120" ]
