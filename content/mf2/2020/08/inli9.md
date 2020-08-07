@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kurtinc/status/1291414742561705986" ],
     "name" : [ "Like of @kurtinc's tweet" ],
     "published" : [ "2020-08-07T08:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/kurtinc/status/1291414742561705986" ]
