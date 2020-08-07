@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fanofmangos/status/1291752299136786434" ],
     "name" : [ "Like of @fanofmangos's tweet" ],
     "published" : [ "2020-08-08T00:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/fanofmangos/status/1291752299136786434" ]
