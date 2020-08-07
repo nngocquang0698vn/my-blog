@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abidlabs/status/1291165311329341440" ],
     "name" : [ "Like of @abidlabs's tweet" ],
     "published" : [ "2020-08-08T00:38:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
