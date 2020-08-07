@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ADranove/status/1291848403673063426" ],
     "name" : [ "Like of @ADranove's tweet" ],
     "published" : [ "2020-08-08T00:27:00+01:00" ],
     "category" : [ "arch-linux" ],
