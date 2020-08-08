@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1292123465948880896" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2020-08-08T21:38:00+01:00" ],
     "category" : [ "apple" ],
