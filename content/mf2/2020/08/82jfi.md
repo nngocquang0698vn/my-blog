@@ -1,0 +1,78 @@
+{
+  "date" : "2020-08-09T21:41:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @nachosarah's tweet" ],
+    "published" : [ "2020-08-09T21:41:00+01:00" ],
+    "like-of" : [ "https://twitter.com/nachosarah/status/1292559281355665408" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/82jfi",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1292559281355665408" ],
+      "url" : [ "https://twitter.com/nachosarah/status/1292559281355665408" ],
+      "published" : [ "2020-08-09T20:32:01+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:nachosarah" ],
+          "numeric-id" : [ "73251301" ],
+          "name" : [ "Sarah Beattie" ],
+          "nickname" : [ "nachosarah" ],
+          "url" : [ "https://twitter.com/nachosarah", "http://www.instagram.com/nachosarah" ],
+          "published" : [ "2009-09-10T23:29:22+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Hawaii, USA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1212206490859319296/bO7y6h42.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "the year was 2020 and the white house had never been more beautiful",
+        "html" : "the year was 2020 and the white house had never been more beautiful\n<a class=\"tag\" href=\"https://twitter.com/tjpayne3333/status/1291787427078647810\">twitter.com/tjpayne3333/st…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1291787427078647810" ],
+        "url" : [ "https://twitter.com/TJPayne3333/status/1291787427078647810" ],
+        "published" : [ "2020-08-07T17:24:57+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:TJPayne3333" ],
+            "numeric-id" : [ "1088877639689998341" ],
+            "name" : [ "𝗧𝗲𝗿𝗲𝘀𝗮 𝗣𝗮𝘆𝗻𝗲" ],
+            "nickname" : [ "TJPayne3333" ],
+            "url" : [ "https://twitter.com/TJPayne3333" ],
+            "published" : [ "2019-01-25T19:13:54+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "North Carolina, USA" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1284967033847906311/HgPha1WZ.jpg" ]
+          }
+        } ],
+        "content" : [ "Write the first sentence(s) of a book that has this picture as its cover." ],
+        "photo" : [ "https://pbs.twimg.com/media/Ee1ZqOBXkAAy3Iv.jpg" ]
+      }
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/tjpayne3333/st…" ],
+        "url" : [ "https://twitter.com/tjpayne3333/status/1291787427078647810" ]
+      }
+    } ]
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
