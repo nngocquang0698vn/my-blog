@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RaxKingIsDead/status/1292175710841450496" ],
     "name" : [ "Like of @RaxKingIsDead's tweet" ],
     "published" : [ "2020-08-09T20:43:00+01:00" ],
     "category" : [ "food" ],
