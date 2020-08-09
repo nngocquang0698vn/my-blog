@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ValaAfshar/status/1292258865304817666" ],
     "name" : [ "Like of @ValaAfshar's tweet" ],
     "published" : [ "2020-08-09T12:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/ValaAfshar/status/1292258865304817666" ]
