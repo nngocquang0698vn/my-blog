@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cperciva/status/1292260921893457920" ],
     "name" : [ "Like of @cperciva's tweet" ],
     "published" : [ "2020-08-09T12:11:00+01:00" ],
     "category" : [ "chaos-engineering" ],
