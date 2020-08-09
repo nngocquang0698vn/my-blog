@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocontexttgp/status/1292525300434305025" ],
     "name" : [ "Like of @nocontexttgp's tweet" ],
     "published" : [ "2020-08-09T19:51:00+01:00" ],
     "category" : [ "the-good-place" ],
