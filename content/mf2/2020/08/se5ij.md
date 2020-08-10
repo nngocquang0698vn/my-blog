@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocksies/status/1292767682887131136" ],
     "name" : [ "Like of @nocksies's tweet" ],
     "published" : [ "2020-08-10T15:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/nocksies/status/1292767682887131136" ]
