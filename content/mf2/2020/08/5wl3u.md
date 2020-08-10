@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iamhirusi/status/1292803279072583680" ],
     "name" : [ "Like of @iamhirusi's tweet" ],
     "published" : [ "2020-08-10T14:55:00+01:00" ],
     "like-of" : [ "https://twitter.com/iamhirusi/status/1292803279072583680" ]
