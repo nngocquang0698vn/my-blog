@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/johnneh/status/1292434397443039232" ],
     "name" : [ "Like of @johnneh's tweet" ],
     "published" : [ "2020-08-10T07:12:00+01:00" ],
     "like-of" : [ "https://twitter.com/johnneh/status/1292434397443039232" ]
