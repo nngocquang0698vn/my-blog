@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/geeksareforlife/status/1292746293652197377" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1292749788996403202" ],
     "name" : [ "Reply to https://twitter.com/geeksareforlife/status/1292746293652197377" ],
     "published" : [ "2020-08-10T09:56:00+01:00" ],
     "category" : [ ],
