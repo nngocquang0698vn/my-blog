@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasminericegirl/status/1292543503906545664" ],
     "name" : [ "Like of @jasminericegirl's tweet" ],
     "published" : [ "2020-08-10T15:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/jasminericegirl/status/1292543503906545664" ]
