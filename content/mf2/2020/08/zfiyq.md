@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/littlelizziev/status/1292363538388983808" ],
     "name" : [ "Like of @littlelizziev's tweet" ],
     "published" : [ "2020-08-10T07:15:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
