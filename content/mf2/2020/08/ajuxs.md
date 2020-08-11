@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/warofthesuburbs/status/1292560039971037185" ],
     "name" : [ "Like of @warofthesuburbs's tweet" ],
     "published" : [ "2020-08-11T10:26:00+01:00" ],
     "category" : [ "coronavirus" ],
