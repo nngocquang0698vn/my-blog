@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1293260508666179584" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2020-08-11T22:08:00+01:00" ],
     "category" : [ "twitter" ],
