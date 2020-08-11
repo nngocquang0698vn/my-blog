@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1293248515750203392" ],
     "photo" : [ {
       "alt" : "A screenshot of Jamie's email inbox, showing 6 emails from Gousto titled \"Great choices Jamie\"",
       "photo" : "https://media.jvt.me/477139024c.png"
