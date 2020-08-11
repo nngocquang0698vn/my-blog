@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/captainsafia/status/1293293150027395072" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1293298443138600960" ],
     "name" : [ "Reply to https://twitter.com/captainsafia/status/1293293150027395072" ],
     "published" : [ "2020-08-11T22:14:00+01:00" ],
     "category" : [ ],
