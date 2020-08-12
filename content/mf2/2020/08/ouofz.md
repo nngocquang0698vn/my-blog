@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1293665775031648263" ],
     "photo" : [ {
       "alt" : "Black cat lying on top of a damn DevOpsDays London tea towel, flopped out and enjoying some level of cool",
       "photo" : "https://media.jvt.me/a28bdb1533.jpeg"
