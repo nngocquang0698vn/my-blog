@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zahrataiba/status/1293503079653015553" ],
     "name" : [ "Like of @zahrataiba's tweet" ],
     "published" : [ "2020-08-12T12:32:00+01:00" ],
     "category" : [ "code-review" ],
