@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1293546973425999872" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2020-08-12T20:31:00+01:00" ],
     "category" : [ "git" ],
