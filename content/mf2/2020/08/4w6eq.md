@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mr_goodwin/status/1293442633067626496" ],
     "name" : [ "Like of @mr_goodwin's tweet" ],
     "published" : [ "2020-08-12T08:31:00+01:00" ],
     "category" : [ "mozilla" ],
