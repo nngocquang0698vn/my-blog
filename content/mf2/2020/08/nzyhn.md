@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mhdksafa/status/1292218942648451073" ],
     "name" : [ "Like of @mhdksafa's tweet" ],
     "published" : [ "2020-08-12T19:58:00+01:00" ],
     "category" : [ "politics" ],
