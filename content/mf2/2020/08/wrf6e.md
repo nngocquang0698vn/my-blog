@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1291477402246361089" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2020-08-12T16:18:00+01:00" ],
     "category" : [ "doctor-who" ],
