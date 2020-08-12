@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SarahCAndersen/status/1293555967142039552" ],
     "name" : [ "Like of @SarahCAndersen's tweet" ],
     "published" : [ "2020-08-12T21:15:00+01:00" ],
     "category" : [ "cute" ],
