@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BootstrapCook/status/1293857947219636231" ],
     "name" : [ "Like of @BootstrapCook's tweet" ],
     "published" : [ "2020-08-13T23:24:00+01:00" ],
     "like-of" : [ "https://twitter.com/BootstrapCook/status/1293857947219636231" ]
