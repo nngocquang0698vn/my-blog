@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElleArmageddon/status/1294097943306280961" ],
     "name" : [ "Like of @ElleArmageddon's tweet" ],
     "published" : [ "2020-08-14T12:33:00+01:00" ],
     "category" : [ "career" ],
