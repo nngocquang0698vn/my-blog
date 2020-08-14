@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1294029210042982400" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-08-14T12:08:00+01:00" ],
     "category" : [ "hamilton" ],
