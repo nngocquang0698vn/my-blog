@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TashJNorris/status/1294238290535690240" ],
     "name" : [ "Like of @TashJNorris's tweet" ],
     "published" : [ "2020-08-14T12:59:00+01:00" ],
     "like-of" : [ "https://twitter.com/TashJNorris/status/1294238290535690240" ]
