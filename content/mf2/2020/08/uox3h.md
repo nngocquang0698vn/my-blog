@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sharlsssssxx/status/1294365763621605376" ],
     "name" : [ "Like of @sharlsssssxx's tweet" ],
     "published" : [ "2020-08-15T21:09:00+01:00" ],
     "like-of" : [ "https://twitter.com/sharlsssssxx/status/1294365763621605376" ]
