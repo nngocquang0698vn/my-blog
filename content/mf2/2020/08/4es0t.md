@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lunetics/status/1294597730627723264" ],
     "name" : [ "Like of @lunetics's tweet" ],
     "published" : [ "2020-08-15T16:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/lunetics/status/1294597730627723264" ]
