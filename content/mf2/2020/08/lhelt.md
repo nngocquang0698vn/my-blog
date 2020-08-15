@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnnaGHughes/status/1294270430518312966" ],
     "name" : [ "Like of @AnnaGHughes's tweet" ],
     "published" : [ "2020-08-15T16:13:00+01:00" ],
     "category" : [ "food" ],
