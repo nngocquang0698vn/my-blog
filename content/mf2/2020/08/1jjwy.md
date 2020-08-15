@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annietdoan/status/1294274353756958721" ],
     "name" : [ "Like of @annietdoan's tweet" ],
     "published" : [ "2020-08-15T21:29:00+01:00" ],
     "like-of" : [ "https://twitter.com/annietdoan/status/1294274353756958721" ]
