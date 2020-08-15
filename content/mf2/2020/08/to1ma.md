@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jesseduffield/horcrux/stargazers" ],
     "name" : [ "jesseduffield/horcrux: Split your file into encrypted fragments so that you don't need to remember a passcode" ],
     "published" : [ "2020-08-15T13:55:00+01:00" ],
     "category" : [ "security" ],
