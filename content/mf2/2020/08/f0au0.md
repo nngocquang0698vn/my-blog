@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/KrakenFuego/status/1294513414333771776" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1294581173038075904" ],
     "name" : [ "Reply to https://twitter.com/KrakenFuego/status/1294513414333771776" ],
     "published" : [ "2020-08-15T11:18:00+01:00" ],
     "category" : [ ],
