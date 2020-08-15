@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bolau_/status/1294052888952614913" ],
     "name" : [ "Like of @bolau_'s tweet" ],
     "published" : [ "2020-08-15T15:45:00+01:00" ],
     "like-of" : [ "https://twitter.com/bolau_/status/1294052888952614913" ]
