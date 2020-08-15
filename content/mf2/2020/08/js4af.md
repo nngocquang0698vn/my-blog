@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DavidPKey/status/1294684158841610246" ],
     "name" : [ "Like of @DavidPKey's tweet" ],
     "published" : [ "2020-08-15T18:20:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
