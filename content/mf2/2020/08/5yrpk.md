@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1294600353829335042" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-08-15T23:30:00+01:00" ],
     "category" : [ "nature" ],
