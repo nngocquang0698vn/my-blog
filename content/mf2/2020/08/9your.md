@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kvlly/status/1294622952286294016" ],
     "name" : [ "Like of @kvlly's tweet" ],
     "published" : [ "2020-08-15T16:20:00+01:00" ],
     "category" : [ "coronavirus" ],
