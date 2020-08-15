@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AliceAvizandum/status/1294383567452209152" ],
     "name" : [ "Like of @AliceAvizandum's tweet" ],
     "published" : [ "2020-08-15T15:59:00+01:00" ],
     "like-of" : [ "https://twitter.com/AliceAvizandum/status/1294383567452209152" ]
