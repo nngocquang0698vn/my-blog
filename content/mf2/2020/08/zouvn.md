@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trevin/status/1294516677015515137" ],
     "name" : [ "Like of @trevin's tweet" ],
     "published" : [ "2020-08-16T14:18:00+01:00" ],
     "like-of" : [ "https://twitter.com/trevin/status/1294516677015515137" ]
