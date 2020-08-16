@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jongold/status/1294692810801557504" ],
     "name" : [ "Like of @jongold's tweet" ],
     "published" : [ "2020-08-16T11:15:00+01:00" ],
     "category" : [ "food" ],
