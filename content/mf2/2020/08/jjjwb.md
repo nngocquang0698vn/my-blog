@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sbpche/status/1294255475802996737" ],
     "name" : [ "Like of @sbpche's tweet" ],
     "published" : [ "2020-08-16T11:13:00+01:00" ],
     "category" : [ "cute" ],
