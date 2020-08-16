@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freezydorito/status/1294999178926534658" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2020-08-16T15:50:00+01:00" ],
     "category" : [ "shitpost" ],
