@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/QueenAl123/status/1294687034884464640" ],
     "name" : [ "Like of @QueenAl123's tweet" ],
     "published" : [ "2020-08-16T11:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/QueenAl123/status/1294687034884464640" ]
