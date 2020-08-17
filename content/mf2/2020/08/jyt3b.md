@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sahkho/status/1295096138870280193" ],
     "name" : [ "Like of @sahkho's tweet" ],
     "published" : [ "2020-08-17T09:51:00+01:00" ],
     "category" : [ "hackathon" ],
