@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/souzatharsis/status/1295180547325669376" ],
     "name" : [ "Like of @souzatharsis's tweet" ],
     "published" : [ "2020-08-17T09:51:00+01:00" ],
     "like-of" : [ "https://twitter.com/souzatharsis/status/1295180547325669376" ]
