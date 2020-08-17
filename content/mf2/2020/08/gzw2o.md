@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/panoparker/status/1295327666665553920" ],
     "name" : [ "Like of @panoparker's tweet" ],
     "published" : [ "2020-08-17T22:30:00+01:00" ],
     "like-of" : [ "https://twitter.com/panoparker/status/1295327666665553920" ]
