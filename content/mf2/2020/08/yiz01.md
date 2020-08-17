@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mathiasverraes/status/1295232583043821568" ],
     "name" : [ "Like of @mathiasverraes's tweet" ],
     "published" : [ "2020-08-17T20:55:00+01:00" ],
     "category" : [ "monolith" ],
