@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1295723710851293184" ],
     "published" : [ "2020-08-18T14:01:25.395Z" ],
     "category" : [ "squad-healthcheck" ],
     "content" : [ {
