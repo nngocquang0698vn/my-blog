@@ -1,6 +1,6 @@
 ---
 title: "My First Experience With Setting a Squad Healthcheck"
-description: "Documenting a squad healthcheck structure I ran last year, and the good I learned things."
+description: "Documenting a squad healthcheck I ran last year, and the good learnings that came out of it."
 tags:
 - squad-healthcheck
 - technical-leadership
