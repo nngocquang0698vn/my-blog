@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1296061635048742913" ],
     "photo" : [ {
       "alt" : "A brown parcel, wrapped with a blue bow. The parcel itself is quite weighty",
       "photo" : "https://media.jvt.me/e5590fe309.jpeg"
