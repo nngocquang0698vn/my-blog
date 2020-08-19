@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zkat__/status/1296130087994052613" ],
     "name" : [ "Like of @zkat__'s tweet" ],
     "published" : [ "2020-08-19T22:09:00+01:00" ],
     "category" : [ "code-review", "code-style" ],
