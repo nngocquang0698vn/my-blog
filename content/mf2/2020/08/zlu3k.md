@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JOETHECOLEMAN/status/1295783453703770114" ],
     "name" : [ "Like of @JOETHECOLEMAN's tweet" ],
     "published" : [ "2020-08-19T11:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/JOETHECOLEMAN/status/1295783453703770114" ]
