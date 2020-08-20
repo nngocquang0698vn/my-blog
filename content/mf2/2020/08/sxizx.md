@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HelicalLevity/status/1296472098219732992" ],
     "name" : [ "Like of @HelicalLevity's tweet" ],
     "published" : [ "2020-08-20T17:46:00+01:00" ],
     "like-of" : [ "https://twitter.com/HelicalLevity/status/1296472098219732992" ]
