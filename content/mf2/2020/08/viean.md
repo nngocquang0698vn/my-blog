@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jpetazzo/registrish/stargazers" ],
     "name" : [ "registrish" ],
     "published" : [ "2020-08-20T20:34:00+01:00" ],
     "category" : [ "docker" ],
