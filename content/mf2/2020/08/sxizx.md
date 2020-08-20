@@ -1,0 +1,39 @@
+{
+  "date" : "2020-08-20T17:46:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @HelicalLevity's tweet" ],
+    "published" : [ "2020-08-20T17:46:00+01:00" ],
+    "like-of" : [ "https://twitter.com/HelicalLevity/status/1296472098219732992" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/sxizx",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1296472098219732992" ],
+      "url" : [ "https://twitter.com/HelicalLevity/status/1296472098219732992" ],
+      "published" : [ "2020-08-20T15:40:10+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:HelicalLevity" ],
+          "numeric-id" : [ "868062694661926913" ],
+          "name" : [ "Helical Levity" ],
+          "nickname" : [ "HelicalLevity" ],
+          "url" : [ "https://twitter.com/HelicalLevity", "https://www.helical-levity.com" ],
+          "published" : [ "2017-05-26T11:14:09+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1006556914354933761/BNBSC-_n.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Surprise brownie delivery!! ✨\n\nYesterday we took some time out of our day to do some well deserved socialising with our colleagues - we normally enjoy catching up at regular team events but a virtual coffee catch up was the next best option!\n\nThank you to @HuntersCakeCafe 😋",
+        "html" : "<div style=\"white-space: pre\">Surprise brownie delivery!! ✨\n\nYesterday we took some time out of our day to do some well deserved socialising with our colleagues - we normally enjoy catching up at regular team events but a virtual coffee catch up was the next best option!\n\nThank you to <a href=\"https://twitter.com/HuntersCakeCafe\">@HuntersCakeCafe</a> 😋</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Ef3-b3jXgAErczE.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
