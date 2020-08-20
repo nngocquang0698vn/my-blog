@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jpetazzo/status/1296342278383063040" ],
     "name" : [ "Like of @jpetazzo's tweet" ],
     "published" : [ "2020-08-20T20:35:00+01:00" ],
     "category" : [ "docker" ],
