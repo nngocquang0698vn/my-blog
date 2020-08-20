@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/utkarsh2102/rubocop-packaging/stargazers" ],
     "name" : [ "RuboCop::Packaging" ],
     "published" : [ "2020-08-20T20:25:00+01:00" ],
     "category" : [ "ruby", "rubocop" ],
