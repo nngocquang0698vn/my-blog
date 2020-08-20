@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1296563183826739202" ],
     "photo" : [ {
       "alt" : "Black cat lying stretched out on his back, on a red blanket, with his mouth slightly open, asleep",
       "photo" : "https://media.jvt.me/db299c03f7.jpeg"
