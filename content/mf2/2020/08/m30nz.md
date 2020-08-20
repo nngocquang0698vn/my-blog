@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/urvillageidiot/status/1296232429468844032" ],
     "name" : [ "Like of @urvillageidiot's tweet" ],
     "published" : [ "2020-08-20T22:25:00+01:00" ],
     "category" : [ "cute" ],
