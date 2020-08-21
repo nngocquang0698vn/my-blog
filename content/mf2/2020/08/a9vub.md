@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/infiniteobjects/status/1296914570359914496" ],
     "name" : [ "Like of @infiniteobjects's tweet" ],
     "published" : [ "2020-08-21T22:30:00+01:00" ],
     "category" : [ "cute" ],
