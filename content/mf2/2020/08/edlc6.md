@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jlukeroberts/status/1296806994494529541" ],
     "name" : [ "Like of @jlukeroberts's tweet" ],
     "published" : [ "2020-08-21T23:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/jlukeroberts/status/1296806994494529541" ]
