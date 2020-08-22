@@ -1,0 +1,42 @@
+{
+  "date" : "2020-08-22T09:40:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @ctrlshifti's tweet" ],
+    "published" : [ "2020-08-22T09:40:00+01:00" ],
+    "like-of" : [ "https://twitter.com/ctrlshifti/status/1297004139243810816" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/05fxe",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1297004139243810816" ],
+      "url" : [ "https://twitter.com/ctrlshifti/status/1297004139243810816" ],
+      "published" : [ "2020-08-22T02:54:18+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:ctrlshifti" ],
+          "numeric-id" : [ "1047644343874465792" ],
+          "name" : [ "Kat Maddox" ],
+          "nickname" : [ "ctrlshifti" ],
+          "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox" ],
+          "published" : [ "2018-10-04T00:27:30+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Gadigal land" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1271780443105325057/DYiRYlpd.jpg" ]
+        }
+      } ],
+      "content" : [ "what if humanity survives and people in 1000 years make memes of us the same way we make medieval memes today" ],
+      "photo" : [ "https://pbs.twimg.com/media/Ef_eA8-U0AEZAl-.png", "https://pbs.twimg.com/media/Ef_eXL7UMAAvVAd.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
