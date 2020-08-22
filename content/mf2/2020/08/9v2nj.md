@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1297226546348994563" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2020-08-22T20:44:00+01:00" ],
     "category" : [ "public-speaking" ],
