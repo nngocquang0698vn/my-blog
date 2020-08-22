@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dollydemonica/status/1296634102234324992" ],
     "name" : [ "Like of @dollydemonica's tweet" ],
     "published" : [ "2020-08-22T21:05:00+01:00" ],
     "category" : [ "art" ],
