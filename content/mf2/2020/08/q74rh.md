@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PerfectlyShots/status/1297006729260085251" ],
     "name" : [ "Like of @PerfectlyShots's tweet" ],
     "published" : [ "2020-08-22T11:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/PerfectlyShots/status/1297006729260085251" ]
