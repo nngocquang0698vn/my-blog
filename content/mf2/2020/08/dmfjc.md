@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sci_Phile/status/1296199633165787136" ],
     "name" : [ "Like of @Sci_Phile's tweet" ],
     "published" : [ "2020-08-22T09:45:00+01:00" ],
     "category" : [ "cute" ],
