@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScotAmbSOM_Nick/status/1296879052494708736" ],
     "name" : [ "Like of @ScotAmbSOM_Nick's tweet" ],
     "published" : [ "2020-08-22T16:17:00+01:00" ],
     "like-of" : [ "https://twitter.com/ScotAmbSOM_Nick/status/1296879052494708736" ]
