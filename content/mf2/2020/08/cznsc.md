@@ -1,0 +1,45 @@
+{
+  "date" : "2020-08-22T13:07:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @cremijeur's tweet" ],
+    "published" : [ "2020-08-22T13:07:00+01:00" ],
+    "like-of" : [ "https://twitter.com/cremijeur/status/1296566741603094528" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/cznsc",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1296566741603094528" ],
+      "url" : [ "https://twitter.com/cremijeur/status/1296566741603094528" ],
+      "published" : [ "2020-08-20T21:56:14+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/DANlEL7/status/1296566010200363013" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:cremijeur" ],
+          "numeric-id" : [ "615501889" ],
+          "name" : [ "ً" ],
+          "nickname" : [ "cremijeur" ],
+          "url" : [ "https://twitter.com/cremijeur", "http://onlyfans.com/goddessangelina" ],
+          "published" : [ "2012-06-22T20:24:16+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Texas, USA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1279618799067697153/4qxDff50.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "probably same girls who think other girls with onlyfans don’t deserve respect either. whole mentality to shame men or women for doing sex work is pathetic",
+        "html" : "probably same girls who think other girls with onlyfans don’t deserve respect either. whole mentality to shame men or women for doing sex work is pathetic\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DANlEL7\"></a>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
