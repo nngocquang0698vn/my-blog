@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/reverendnikki/status/1297163519687831552" ],
     "name" : [ "Like of @reverendnikki's tweet" ],
     "published" : [ "2020-08-22T21:06:00+01:00" ],
     "like-of" : [ "https://twitter.com/reverendnikki/status/1297163519687831552" ]
