@@ -225,3 +225,5 @@ public class TUrl {
 
 }
 ```
+
+You can also [handle this with the Mojohaus jaxb2-maven-plugin]({{< ref 2020-08-22-generate-pojo-xml-maven >}}).
