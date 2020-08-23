@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CasparSalmon/status/1297535274109546498" ],
     "name" : [ "Like of @CasparSalmon's tweet" ],
     "published" : [ "2020-08-23T21:54:00+01:00" ],
     "category" : [ "shitpost" ],
