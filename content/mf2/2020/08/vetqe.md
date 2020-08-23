@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1297649707620106240" ],
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Selfie of Anna and Jamie, standing outside in the sunny Arboretum, with people socially distanced at tables and deckchairs",
       "photo" : "https://media.jvt.me/bfbfc435bf.jpeg"
@@ -15,14 +15,12 @@
       "photo" : "https://media.jvt.me/14883ba713.jpeg"
     } ],
     "published" : [ "2020-08-23T21:35:14.723Z" ],
-    "category" : [ ],
     "content" : [ {
       "html" : "",
-      "value" : "Well @annadodson and I had a lovely afternoon at the Arboretum this afternoon - felt a bit like being back to normal, although it was a shame that the rain cut the afternoon short!"
+      "value" : "Well @annadodson.co.uk and I had a lovely afternoon at the Arboretum this afternoon - felt a bit like being back to normal, although it was a shame that the rain cut the afternoon short!"
     } ]
   },
   "kind" : "notes",
   "slug" : "2020/08/vetqe",
-  "tags" : [ ],
   "client_id" : "https://www-editor.jvt.me"
 }
