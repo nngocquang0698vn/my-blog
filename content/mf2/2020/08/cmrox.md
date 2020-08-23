@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RaxKingIsDead/status/1297210976815718402" ],
     "name" : [ "Like of @RaxKingIsDead's tweet" ],
     "published" : [ "2020-08-23T18:08:00+01:00" ],
     "like-of" : [ "https://twitter.com/RaxKingIsDead/status/1297210976815718402" ]
