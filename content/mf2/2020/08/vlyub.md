@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/TimeToogo/tunshell/stargazers" ],
     "name" : [ "TimeToogo/tunshell" ],
     "published" : [ "2020-08-23T12:20:00+01:00" ],
     "category" : [ "cicd" ],
