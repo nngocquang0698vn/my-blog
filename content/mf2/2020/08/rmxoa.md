@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/SparkleClass/status/1297962154654609408" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1297965559687139328" ],
     "name" : [ "Reply to https://twitter.com/SparkleClass/status/1297962154654609408" ],
     "published" : [ "2020-08-24T19:30:00+01:00" ],
     "category" : [ ],
