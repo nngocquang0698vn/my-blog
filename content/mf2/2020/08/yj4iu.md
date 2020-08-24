@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MangoRepublica/status/1297631057446088710" ],
     "name" : [ "Like of @MangoRepublica's tweet" ],
     "published" : [ "2020-08-24T19:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/MangoRepublica/status/1297631057446088710" ]
