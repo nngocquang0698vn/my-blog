@@ -1,0 +1,47 @@
+{
+  "date" : "2020-08-24T12:20:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @elchefe's tweet" ],
+    "published" : [ "2020-08-24T12:20:00+01:00" ],
+    "category" : [ "mental-health" ],
+    "like-of" : [ "https://twitter.com/elchefe/status/1297617548301737989" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/qaxbt",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1297617548301737989" ],
+      "url" : [ "https://twitter.com/elchefe/status/1297617548301737989" ],
+      "published" : [ "2020-08-23T19:31:46+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:elchefe" ],
+          "numeric-id" : [ "22486576" ],
+          "name" : [ "Tim Banks" ],
+          "nickname" : [ "elchefe" ],
+          "url" : [ "https://twitter.com/elchefe" ],
+          "published" : [ "2009-03-02T14:10:57+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1183135261846310920/Bim-DQyP.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Hi! I’m 44, a Marine Corps vet and BJJ champion and I cry in my bed after therapy.\n\nDudes (and dude-identifying folks), don’t forget that it’s okay to talk about struggling and taking care of your mental health.",
+        "html" : "<div style=\"white-space: pre\">Hi! I’m 44, a Marine Corps vet and BJJ champion and I cry in my bed after therapy.\n\nDudes (and dude-identifying folks), don’t forget that it’s okay to talk about struggling and taking care of your mental health.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EgIQR79XYAEjdxO.jpg" ]
+    }
+  },
+  "tags" : [ "mental-health" ],
+  "client_id" : "https://indigenous.realize.be"
+}
