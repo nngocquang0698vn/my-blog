@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElenaBjxrn/status/1298007851638706176" ],
     "name" : [ "Like of @ElenaBjxrn's tweet" ],
     "published" : [ "2020-08-25T09:56:00+01:00" ],
     "category" : [ "cute" ],
