@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KyleGeorgeArch/status/1298212357672521728" ],
     "name" : [ "Like of @KyleGeorgeArch's tweet" ],
     "published" : [ "2020-08-25T12:35:00+01:00" ],
     "category" : [ "cloud", "aws", "production" ],
