@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cbetta/status/1298634459529576451" ],
     "name" : [ "Like of @cbetta's tweet" ],
     "published" : [ "2020-08-26T16:49:00+01:00" ],
     "category" : [ "netlify" ],
