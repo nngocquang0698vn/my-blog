@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1298711067581755392" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-08-26T21:06:00+01:00" ],
     "category" : [ "shitpost" ],
