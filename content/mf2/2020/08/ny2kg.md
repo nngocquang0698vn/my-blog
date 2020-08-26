@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.meetup.com/Women-In-Tech-Nottingham/events/272818263/" ],
-    "syndication" : [ "https://brid.gy/publish/meetup" ],
+    "syndication" : [ "https://www.meetup.com/Women-In-Tech-Nottingham/events/272818263/#rsvp-by-https%3A%2F%2Fwww.jvt.me%2Fmf2%2F2020%2F08%2Fny2kg%2F" ],
     "name" : [ "RSVP yes to https://www.meetup.com/Women-In-Tech-Nottingham/events/272818263/" ],
     "published" : [ "2020-08-26T20:16:00+01:00" ],
     "event" : {
