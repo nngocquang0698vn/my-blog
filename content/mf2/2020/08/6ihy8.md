@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/arshia__/status/1298378064712404996" ],
     "name" : [ "Like of @arshia__'s tweet" ],
     "published" : [ "2020-08-26T07:52:00+01:00" ],
     "category" : [ "remote-work" ],
