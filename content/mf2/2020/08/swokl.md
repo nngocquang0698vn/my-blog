@@ -1,0 +1,45 @@
+{
+  "date" : "2020-08-27T17:05:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @PFNotts's tweet" ],
+    "published" : [ "2020-08-27T17:05:00+01:00" ],
+    "like-of" : [ "https://twitter.com/PFNotts/status/1299014680246128641" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/swokl",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299014680246128641" ],
+      "url" : [ "https://twitter.com/PFNotts/status/1299014680246128641" ],
+      "published" : [ "2020-08-27T16:03:28+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:PFNotts" ],
+          "numeric-id" : [ "1075373010515824640" ],
+          "name" : [ "ProjectFunction" ],
+          "nickname" : [ "PFNotts" ],
+          "url" : [ "https://twitter.com/PFNotts", "https://projectfunction.io/" ],
+          "published" : [ "2018-12-19T12:51:19+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1267932076608835586/vww7O5vB.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "🤝 We're partnering up with the excellent, @collab_future, for a mini rendition of our Intro to Web Dev course, providing training as part of the Collaborative Future program.\n\nThis is one superb opportunity to pitch in together with CF, in making Tech more accessible to all! 💜",
+        "html" : "<div style=\"white-space: pre\">🤝 We're partnering up with the excellent, <a href=\"https://twitter.com/collab_future\">@collab_future</a>, for a mini rendition of our Intro to Web Dev course, providing training as part of the Collaborative Future program.\n\nThis is one superb opportunity to pitch in together with CF, in making Tech more accessible to all! 💜</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Egb_4ZDXcAIX2mz.png" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
