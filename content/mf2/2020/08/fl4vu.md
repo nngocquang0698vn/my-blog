@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Paul_Hawkins83/status/1298587993939292162" ],
     "name" : [ "Like of @Paul_Hawkins83's tweet" ],
     "published" : [ "2020-08-27T04:25:00+01:00" ],
     "category" : [ "coronavirus" ],
