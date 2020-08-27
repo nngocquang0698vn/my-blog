@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/collab_future/status/1298878057311334401" ],
     "name" : [ "Like of @collab_future's tweet" ],
     "published" : [ "2020-08-27T17:10:00+01:00" ],
     "like-of" : [ "https://twitter.com/collab_future/status/1298878057311334401" ]
