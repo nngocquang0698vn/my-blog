@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/messypixels/status/1299026152405602305" ],
     "name" : [ "Like of @messypixels's tweet" ],
     "published" : [ "2020-08-27T19:13:00+01:00" ],
     "like-of" : [ "https://twitter.com/messypixels/status/1299026152405602305" ]
