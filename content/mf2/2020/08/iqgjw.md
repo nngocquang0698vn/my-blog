@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rachmackay/status/1298902066967052289" ],
     "name" : [ "Like of @rachmackay's tweet" ],
     "published" : [ "2020-08-27T14:15:00+01:00" ],
     "like-of" : [ "https://twitter.com/rachmackay/status/1298902066967052289" ]
