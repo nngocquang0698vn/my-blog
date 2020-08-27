@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://indieweb.xyz/en/indieweb", "https://news.indieweb.org/en" ],
+    "syndication" : [ "https://indieweb.xyz/en/indieweb", "https://news.indieweb.org/en/www.smashingmagazine.com/2020/08/autonomy-online-indieweb/" ],
     "name" : [ "Autonomy Online: A Case For The IndieWeb" ],
     "published" : [ "2020-08-27T21:54:00+01:00" ],
     "category" : [ "indieweb", "personal-website" ],
