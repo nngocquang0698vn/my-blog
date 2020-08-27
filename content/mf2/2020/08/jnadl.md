@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swyx/status/1299100770969690112" ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2020-08-27T23:17:00+01:00" ],
     "category" : [ "open-source" ],
