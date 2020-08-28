@@ -1,0 +1,47 @@
+{
+  "date" : "2020-08-28T11:45:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @nottmhistory's tweet" ],
+    "published" : [ "2020-08-28T11:45:00+01:00" ],
+    "category" : [ "nottingham" ],
+    "like-of" : [ "https://twitter.com/nottmhistory/status/1299244974664495104" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/6emwq",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299244974664495104" ],
+      "url" : [ "https://twitter.com/nottmhistory/status/1299244974664495104" ],
+      "published" : [ "2020-08-28T07:18:35+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:nottmhistory" ],
+          "numeric-id" : [ "2816615211" ],
+          "name" : [ "Historic Nottingham 🕍" ],
+          "nickname" : [ "nottmhistory" ],
+          "url" : [ "https://twitter.com/nottmhistory" ],
+          "published" : [ "2014-10-08T19:56:34+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/897837887928061958/2wKraU18.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "So proud to be one of the first at the grand unveiling of the new/old entrance to the city #Nottingham",
+        "html" : "So proud to be one of the first at the grand unveiling of the new/old entrance to the city <a href=\"https://twitter.com/search?q=%23Nottingham\">#Nottingham</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EgfYaZaUYAAsTD6.jpg" ]
+    }
+  },
+  "tags" : [ "nottingham" ],
+  "client_id" : "https://indigenous.realize.be"
+}
