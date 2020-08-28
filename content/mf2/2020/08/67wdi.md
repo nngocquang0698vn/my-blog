@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MostUnfurrowed/status/1299383023079772160" ],
     "name" : [ "Like of @MostUnfurrowed's tweet" ],
     "published" : [ "2020-08-28T22:33:00+01:00" ],
     "category" : [ "software-testing" ],
