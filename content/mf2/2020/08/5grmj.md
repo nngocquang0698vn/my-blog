@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rem/status/1299391680311971840" ],
     "name" : [ "Like of @rem's tweet" ],
     "published" : [ "2020-08-28T21:56:00+01:00" ],
     "category" : [ "food" ],
