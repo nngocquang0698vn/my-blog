@@ -9,6 +9,8 @@ This is both for longer-lived interests and shorter-lived "what I'm currently do
 
 I've been in COVID-19/Coronavirus self-quarantine since 2020-03-12.
 
+I'm currently looking to buy a house!
+
 What are my interests?
 
 - Blogging
