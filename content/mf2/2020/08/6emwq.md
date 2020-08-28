@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nottmhistory/status/1299244974664495104" ],
     "name" : [ "Like of @nottmhistory's tweet" ],
     "published" : [ "2020-08-28T11:45:00+01:00" ],
     "category" : [ "nottingham" ],
