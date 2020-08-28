@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amyngyn/status/1299201603065376768" ],
     "name" : [ "Like of @amyngyn's tweet" ],
     "published" : [ "2020-08-28T12:00:00+01:00" ],
     "category" : [ "remote-work" ],
