@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/forrestbrazeal/status/1299375964087083008" ],
     "name" : [ "Like of @forrestbrazeal's tweet" ],
     "published" : [ "2020-08-28T20:21:00+01:00" ],
     "like-of" : [ "https://twitter.com/forrestbrazeal/status/1299375964087083008" ]
