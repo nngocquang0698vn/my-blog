@@ -1,0 +1,42 @@
+{
+  "date" : "2020-08-28T12:02:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @unfortunatalie's tweet" ],
+    "published" : [ "2020-08-28T12:02:00+01:00" ],
+    "like-of" : [ "https://twitter.com/unfortunatalie/status/1299099421494386690" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/ureht",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299099421494386690" ],
+      "url" : [ "https://twitter.com/unfortunatalie/status/1299099421494386690" ],
+      "published" : [ "2020-08-27T21:40:12+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:unfortunatalie" ],
+          "numeric-id" : [ "19372014" ],
+          "name" : [ "Nat" ],
+          "nickname" : [ "unfortunatalie" ],
+          "url" : [ "https://twitter.com/unfortunatalie", "https://nothingbutawordbag.wordpress.com/" ],
+          "published" : [ "2009-01-23T00:24:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Brighton, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1281644672457355266/v-Xbhkps.jpg" ]
+        }
+      } ],
+      "content" : [ "mOvE tO tHe sOuTh tHe PoSsiBiLiTiEs aRe eNdLeSs" ],
+      "photo" : [ "https://pbs.twimg.com/media/EgdUCfNWAAcizuM.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
