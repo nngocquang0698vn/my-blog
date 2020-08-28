@@ -1,0 +1,67 @@
+{
+  "date" : "2020-08-28T22:33:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @MostUnfurrowed's tweet" ],
+    "published" : [ "2020-08-28T22:33:00+01:00" ],
+    "category" : [ "software-testing" ],
+    "like-of" : [ "https://twitter.com/MostUnfurrowed/status/1299383023079772160" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/67wdi",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299383023079772160" ],
+      "url" : [ "https://twitter.com/MostUnfurrowed/status/1299383023079772160" ],
+      "published" : [ "2020-08-28T16:27:08+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:MostUnfurrowed" ],
+          "numeric-id" : [ "63521677" ],
+          "name" : [ "Jordan Garland 🤠" ],
+          "nickname" : [ "MostUnfurrowed" ],
+          "url" : [ "https://twitter.com/MostUnfurrowed" ],
+          "published" : [ "2009-08-06T19:49:35+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Lincoln" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1277050461976236032/lHBcAMK7.jpg" ]
+        }
+      } ],
+      "content" : [ "\"how did QA miss this\" - 99% of the time we didn't. qa don't decide what gets fixed, we just point at it" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1298696865995722760" ],
+        "url" : [ "https://twitter.com/paulg/status/1298696865995722760" ],
+        "published" : [ "2020-08-26T19:00:36+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:paulg" ],
+            "numeric-id" : [ "183749519" ],
+            "name" : [ "Paul Graham" ],
+            "nickname" : [ "paulg" ],
+            "url" : [ "https://twitter.com/paulg", "http://paulgraham.com" ],
+            "published" : [ "2010-08-27T20:13:59+00:00" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "What phrase signals that the person using it doesn't understand your field?\n\nExample: \"Computer error.\"",
+          "html" : "<div style=\"white-space: pre\">What phrase signals that the person using it doesn't understand your field?\n\nExample: \"Computer error.\"</div>"
+        } ]
+      }
+    } ]
+  },
+  "tags" : [ "software-testing" ],
+  "client_id" : "https://indigenous.realize.be"
+}
