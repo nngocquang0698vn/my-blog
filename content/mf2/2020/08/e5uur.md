@@ -1,0 +1,72 @@
+{
+  "date" : "2020-08-28T22:07:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @grmpyprogrammer's tweet" ],
+    "published" : [ "2020-08-28T22:07:00+01:00" ],
+    "like-of" : [ "https://twitter.com/grmpyprogrammer/status/1299409752489971715" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/e5uur",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299409752489971715" ],
+      "url" : [ "https://twitter.com/grmpyprogrammer/status/1299409752489971715" ],
+      "published" : [ "2020-08-28T18:13:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:grmpyprogrammer" ],
+          "numeric-id" : [ "7418052" ],
+          "name" : [ "Chris Hartjes" ],
+          "nickname" : [ "grmpyprogrammer" ],
+          "url" : [ "https://twitter.com/grmpyprogrammer", "https://leanpub.com/grumpy-guide" ],
+          "published" : [ "2007-07-12T02:36:44+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Fortress of Grumpitude" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290307895955947523/PZdOb1kf.jpg" ]
+        }
+      } ],
+      "content" : [ "The people who use their web app don’t care that it is PHP, they care that it works 🤷‍♂️" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1299409022211289088" ],
+        "url" : [ "https://twitter.com/evanrose/status/1299409022211289088" ],
+        "published" : [ "2020-08-28T18:10:27+00:00" ],
+        "in-reply-to" : [ "https://twitter.com/grmpyprogrammer/status/1299377043948417024" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:evanrose" ],
+            "numeric-id" : [ "21778001" ],
+            "name" : [ "Evan Rose" ],
+            "nickname" : [ "evanrose" ],
+            "url" : [ "https://twitter.com/evanrose", "http://evanrose.com" ],
+            "published" : [ "2009-02-24T18:11:57+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "11225" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/977575046918131713/XjOIjh1E.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "Financial services on php?",
+          "html" : "Financial services on php?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/grmpyprogrammer\"></a>"
+        } ]
+      }
+    } ]
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
