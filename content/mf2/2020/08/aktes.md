@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ASovietOnion/status/1299395835357212684" ],
     "name" : [ "Like of @ASovietOnion's tweet" ],
     "published" : [ "2020-08-29T22:30:00+01:00" ],
     "category" : [ "star-wars" ],
