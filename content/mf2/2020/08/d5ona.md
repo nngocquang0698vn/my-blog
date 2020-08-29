@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheDailyShow/status/1299553510548279296" ],
     "name" : [ "Like of @TheDailyShow's tweet" ],
     "published" : [ "2020-08-29T09:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/TheDailyShow/status/1299553510548279296" ]
