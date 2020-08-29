@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StigAbell/status/1299602652372905984" ],
     "name" : [ "Like of @StigAbell's tweet" ],
     "published" : [ "2020-08-29T11:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/StigAbell/status/1299602652372905984" ]
