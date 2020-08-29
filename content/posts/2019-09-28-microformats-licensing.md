@@ -19,7 +19,7 @@ syndication:
 ---
 # Context
 
-At [IndieWebCamp Amsterdam](https://indieweb.org/2019/Amsterdam), I facilitated a session about _Licensing and Owenrnship_.
+At [IndieWebCamp Amsterdam](https://indieweb.org/2019/Amsterdam), I facilitated a session about _Licensing and Ownership_.
 
 One of the key conversations I wanted to have was around how we mark up licenses for our sites. This is not just to make it more obvious to an [Indie reader](https://indieweb.org/reader) what the license for a post is, but also to make it easier to comply with licenses when providing quotes for posts, or [reply-contexts](https://indieweb.org/reply-context), and a little about education on licenses.
 
