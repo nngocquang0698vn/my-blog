@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StuRobson/status/1299637739382542336" ],
     "name" : [ "Like of @StuRobson's tweet" ],
     "published" : [ "2020-08-29T13:19:00+01:00" ],
     "category" : [ "food" ],
