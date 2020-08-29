@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WillWiles/status/1299277659613036549" ],
     "name" : [ "Like of @WillWiles's tweet" ],
     "published" : [ "2020-08-29T10:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/WillWiles/status/1299277659613036549" ]
