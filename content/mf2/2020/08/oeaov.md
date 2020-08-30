@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/willhamill/status/1299828978891579392" ],
     "name" : [ "Like of @willhamill's tweet" ],
     "published" : [ "2020-08-30T11:02:00+01:00" ],
     "like-of" : [ "https://twitter.com/willhamill/status/1299828978891579392" ]
