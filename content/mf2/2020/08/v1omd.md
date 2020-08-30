@@ -1,0 +1,44 @@
+{
+  "date" : "2020-08-30T10:07:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @EricaJoy's tweet" ],
+    "published" : [ "2020-08-30T10:07:00+01:00" ],
+    "like-of" : [ "https://twitter.com/EricaJoy/status/1299877087591845888" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/08/v1omd",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1299877087591845888" ],
+      "url" : [ "https://twitter.com/EricaJoy/status/1299877087591845888" ],
+      "published" : [ "2020-08-30T01:10:22+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:EricaJoy" ],
+          "numeric-id" : [ "817083" ],
+          "name" : [ "EricaJoy" ],
+          "nickname" : [ "EricaJoy" ],
+          "url" : [ "https://twitter.com/EricaJoy", "https://www.ericabaker.com" ],
+          "published" : [ "2007-03-07T04:30:38+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1236682440539688960/AFMVsNcD.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "don't scare me like that colonizer!\n\n#WakandaForever",
+        "html" : "<div style=\"white-space: pre\">don't scare me like that colonizer!\n\n<a href=\"https://twitter.com/search?q=%23WakandaForever\">#WakandaForever</a></div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
