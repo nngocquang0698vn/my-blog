@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomhutchmusic/status/1299807997041016839" ],
     "name" : [ "Like of @tomhutchmusic's tweet" ],
     "published" : [ "2020-08-30T12:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/tomhutchmusic/status/1299807997041016839" ]
