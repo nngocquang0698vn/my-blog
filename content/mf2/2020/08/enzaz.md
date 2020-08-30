@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kfalconspb/status/1299748564168404993" ],
     "name" : [ "Like of @kfalconspb's tweet" ],
     "published" : [ "2020-08-30T21:13:00+01:00" ],
     "category" : [ "cute" ],
