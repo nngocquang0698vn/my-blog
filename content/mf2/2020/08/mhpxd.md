@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NadiaWhittomeMP/status/1299794761059008512" ],
     "name" : [ "Like of @NadiaWhittomeMP's tweet" ],
     "published" : [ "2020-08-30T09:54:00+01:00" ],
     "like-of" : [ "https://twitter.com/NadiaWhittomeMP/status/1299794761059008512" ]
