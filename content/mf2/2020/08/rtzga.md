@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/betodealmeida/nefelibata//stargazers" ],
     "name" : [ "betodealmeida/nefelibata: A weblog engine focusing on data ownership and persistence" ],
     "published" : [ "2020-08-31T21:25:00+01:00" ],
     "category" : [ "indieweb" ],
