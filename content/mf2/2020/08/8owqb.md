@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kfalconspb/status/1300280452159164416" ],
     "name" : [ "Like of @kfalconspb's tweet" ],
     "published" : [ "2020-08-31T15:44:00+01:00" ],
     "category" : [ "nature", "2020" ],
