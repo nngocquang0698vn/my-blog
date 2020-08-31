@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OmarjSakr/status/1300255103014723584" ],
     "name" : [ "Like of @OmarjSakr's tweet" ],
     "published" : [ "2020-08-31T10:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/OmarjSakr/status/1300255103014723584" ]
