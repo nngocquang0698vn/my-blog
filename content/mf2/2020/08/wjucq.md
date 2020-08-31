@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ok_girlfriend/status/1300191827333541888" ],
     "name" : [ "Like of @ok_girlfriend's tweet" ],
     "published" : [ "2020-08-31T15:44:00+01:00" ],
     "like-of" : [ "https://twitter.com/ok_girlfriend/status/1300191827333541888" ]
