@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soandsos/status/1300220212747407360" ],
     "name" : [ "Like of @soandsos's tweet" ],
     "published" : [ "2020-08-31T12:47:00+01:00" ],
     "category" : [ "food" ],
