@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/torturecrush/status/1300445567072559106" ],
     "name" : [ "Like of @torturecrush's tweet" ],
     "published" : [ "2020-08-31T21:42:00+01:00" ],
     "category" : [ "amazon" ],
