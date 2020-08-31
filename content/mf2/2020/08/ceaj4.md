@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/novallkhan/status/1300495914063343617" ],
     "name" : [ "Like of @novallkhan's tweet" ],
     "published" : [ "2020-08-31T21:44:00+01:00" ],
     "category" : [ "code-review" ],
