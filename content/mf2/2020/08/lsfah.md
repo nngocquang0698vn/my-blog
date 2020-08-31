@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1300472085106622471" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-08-31T20:20:00+01:00" ],
     "category" : [ "virtual-reality" ],
