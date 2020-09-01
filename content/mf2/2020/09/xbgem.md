@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackremmington/status/1300515205030576132" ],
     "name" : [ "Like of @jackremmington's tweet" ],
     "published" : [ "2020-09-01T11:38:00+01:00" ],
     "like-of" : [ "https://twitter.com/jackremmington/status/1300515205030576132" ]
