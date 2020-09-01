@@ -46,3 +46,5 @@ I feel that we can do something to help services that handle potentially sensiti
 > Warning: JWTs are credentials, which can grant access to resources. Be careful where you paste them! We do not record tokens, all validation and debugging is done on the client side.
 
 What do you think? Am I maybe being a little too sensitive? Am I not being sensitive enough?
+
+Edit: Based on some conversations being had in response to the post, I thought it'd mention I've written about how to [pretty-print a JWT locally with OpenSSL]({{< ref 2019-06-13-pretty-printing-jwt-openssl >}}) and [a Ruby alternative]({{< ref 2018-08-31-pretty-printing-jwt-ruby >}}).
