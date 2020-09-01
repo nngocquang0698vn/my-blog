@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dan_abramov/status/1300781649718923264" ],
     "name" : [ "Like of @dan_abramov's tweet" ],
     "published" : [ "2020-09-01T18:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/dan_abramov/status/1300781649718923264" ]
