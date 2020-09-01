@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tas50/status/1300673605743685633" ],
     "name" : [ "Like of @tas50's tweet" ],
     "published" : [ "2020-09-01T12:44:00+01:00" ],
     "category" : [ "chef", "rubocop" ],
