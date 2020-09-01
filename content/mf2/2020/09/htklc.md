@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/monzo/status/1300813933989834753" ],
     "name" : [ "Like of @monzo's tweet" ],
     "published" : [ "2020-09-01T19:29:00+01:00" ],
     "category" : [ "monzo" ],
