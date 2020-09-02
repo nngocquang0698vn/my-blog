@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1301149311389126656" ],
     "photo" : [ {
       "alt" : "A screenshot of Jamie's blog post \"Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators\" as the fourth highest rated story on Hacker News",
       "photo" : "https://media.jvt.me/8fefb17df8.png"
