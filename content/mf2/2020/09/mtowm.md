@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JohnBoyega/status/1301122422415020034" ],
     "name" : [ "Like of @JohnBoyega's tweet" ],
     "published" : [ "2020-09-02T13:57:00+01:00" ],
     "like-of" : [ "https://twitter.com/JohnBoyega/status/1301122422415020034" ]
