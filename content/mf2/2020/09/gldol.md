@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AndyMarch/status/1301142270830411777" ],
     "name" : [ "Like of @AndyMarch's tweet" ],
     "published" : [ "2020-09-02T15:10:00+01:00" ],
     "category" : [ "security" ],
