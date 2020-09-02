@@ -1,0 +1,44 @@
+{
+  "date" : "2020-09-02T22:59:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @miss_jwo's tweet" ],
+    "published" : [ "2020-09-02T22:59:00+01:00" ],
+    "like-of" : [ "https://twitter.com/miss_jwo/status/1301118556428472320" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/bnnhi",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1301118556428472320" ],
+      "url" : [ "https://twitter.com/miss_jwo/status/1301118556428472320" ],
+      "published" : [ "2020-09-02T11:23:32+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:miss_jwo" ],
+          "numeric-id" : [ "200519952" ],
+          "name" : [ "Jenny Wong 🐝" ],
+          "nickname" : [ "miss_jwo" ],
+          "url" : [ "https://twitter.com/miss_jwo", "http://jwong.co.uk" ],
+          "published" : [ "2010-10-09T14:29:15+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/839845252412358656/PLSY74LG.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Finding out that the local sandwich shop makes a mean breakfast sandwich and also some pretty awesome sandwiches for lunch..... and delivers...... 🥰\n\nWho ever thought that working from home meant always making your own lunch and saving money has it all wrong.",
+        "html" : "<div style=\"white-space: pre\">Finding out that the local sandwich shop makes a mean breakfast sandwich and also some pretty awesome sandwiches for lunch..... and delivers...... 🥰\n\nWho ever thought that working from home meant always making your own lunch and saving money has it all wrong.</div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
