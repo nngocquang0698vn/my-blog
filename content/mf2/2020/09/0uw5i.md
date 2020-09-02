@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JohnBoyega/status/1300919089288933377" ],
     "name" : [ "Like of @JohnBoyega's tweet" ],
     "published" : [ "2020-09-02T10:51:00+01:00" ],
     "category" : [ "dune" ],
