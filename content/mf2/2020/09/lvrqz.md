@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mtvcell/status/1301199144380518400" ],
     "name" : [ "Like of @mtvcell's tweet" ],
     "published" : [ "2020-09-03T08:42:00+01:00" ],
     "like-of" : [ "https://twitter.com/mtvcell/status/1301199144380518400" ]
