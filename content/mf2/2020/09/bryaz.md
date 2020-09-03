@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thepunningman/status/1301459036911665154" ],
     "name" : [ "Like of @thepunningman's tweet" ],
     "published" : [ "2020-09-03T22:59:00+01:00" ],
     "category" : [ "london" ],
