@@ -14,7 +14,7 @@ Each set of content has its own RSS feed, which is the most common feed format.
 - To subscribe to my primary feed, which includes all posts from the front page https://www.jvt.me/feed.xml
 - To subscribe to my articles https://www.jvt.me/kind/articles/feed.xml
 - To subscribe to a specific tag, such as any IndieWeb-related content https://www.jvt.me/tags/indieweb/feed.xml
-- To subscribe to literally everythin gon this site, https://www.jvt.me/all/feed.xml
+- To subscribe to literally everything on this site, https://www.jvt.me/all/feed.xml
 
 # Microformats2
 
