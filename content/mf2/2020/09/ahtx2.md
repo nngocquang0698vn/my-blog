@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WiT_Notts/status/1301414624437383169" ],
     "name" : [ "Like of @WiT_Notts's tweet" ],
     "published" : [ "2020-09-03T08:38:00+01:00" ],
     "category" : [ "women-in-tech" ],
