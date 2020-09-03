@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/token523s/status/1301330775158206466" ],
     "name" : [ "Like of @token523s's tweet" ],
     "published" : [ "2020-09-03T20:46:00+01:00" ],
     "like-of" : [ "https://twitter.com/token523s/status/1301330775158206466" ]
