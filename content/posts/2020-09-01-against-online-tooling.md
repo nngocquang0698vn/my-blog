@@ -14,6 +14,8 @@ syndication:
   url: https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling
 - text: Hacker News
   url: https://news.ycombinator.com/item?id=24342063
+- text: Hacker News
+  url: https://news.ycombinator.com/item?id=24352360
 - text: /r/programming
   url: https://www.reddit.com/r/programming/comments/ikldt9/why_i_actively_discourage_online_tooling_like/
 - text: /r/coding
