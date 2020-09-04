@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BadassBowden/status/1301961457505046529" ],
     "name" : [ "Like of @BadassBowden's tweet" ],
     "published" : [ "2020-09-04T23:27:00+01:00" ],
     "like-of" : [ "https://twitter.com/BadassBowden/status/1301961457505046529" ]
