@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Rich_Harris/status/1301269487879172097" ],
     "name" : [ "Like of @Rich_Harris's tweet" ],
     "published" : [ "2020-09-04T21:26:00+01:00" ],
     "like-of" : [ "https://twitter.com/Rich_Harris/status/1301269487879172097" ]
