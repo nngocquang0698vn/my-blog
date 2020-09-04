@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomnooksbb/status/1301919752009457666" ],
     "name" : [ "Like of @tomnooksbb's tweet" ],
     "published" : [ "2020-09-04T23:14:00+01:00" ],
     "like-of" : [ "https://twitter.com/tomnooksbb/status/1301919752009457666" ]
