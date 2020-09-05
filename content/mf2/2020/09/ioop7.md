@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eigenbom/status/1301988607486353408" ],
     "name" : [ "Like of @eigenbom's tweet" ],
     "published" : [ "2020-09-05T10:50:00+01:00" ],
     "category" : [ "automation" ],
