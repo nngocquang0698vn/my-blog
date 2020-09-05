@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erindvine/status/1301819638884577280" ],
     "name" : [ "Like of @erindvine's tweet" ],
     "published" : [ "2020-09-05T09:01:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
