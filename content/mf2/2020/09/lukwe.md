@@ -1,0 +1,43 @@
+{
+  "date" : "2020-09-05T09:34:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @kadamwhite's tweet" ],
+    "published" : [ "2020-09-05T09:34:00+01:00" ],
+    "category" : [ "technical-leadership" ],
+    "like-of" : [ "https://twitter.com/kadamwhite/status/1301967381531684870" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/lukwe",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1301967381531684870" ],
+      "url" : [ "https://twitter.com/kadamwhite/status/1301967381531684870" ],
+      "published" : [ "2020-09-04T19:36:27+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:kadamwhite" ],
+          "numeric-id" : [ "20061604" ],
+          "name" : [ "K. Adam White" ],
+          "nickname" : [ "kadamwhite" ],
+          "url" : [ "https://twitter.com/kadamwhite", "http://www.kadamwhite.com" ],
+          "published" : [ "2009-02-04T15:36:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1300487161930813440/MEeJHhOc.jpg" ]
+        }
+      } ],
+      "content" : [ "The more senior you are, the more obvious you should be about what you don't know. Ask questions openly, frequently, willingly and kindly. Seniority is a kind of specialization, not a badge of all knowledge: be obvious about this and it helps reduce imposter syndrome in the team." ]
+    }
+  },
+  "tags" : [ "technical-leadership" ],
+  "client_id" : "https://indigenous.realize.be"
+}
