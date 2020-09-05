@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kadamwhite/status/1301967381531684870" ],
     "name" : [ "Like of @kadamwhite's tweet" ],
     "published" : [ "2020-09-05T09:34:00+01:00" ],
     "category" : [ "technical-leadership" ],
