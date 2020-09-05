@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sethrogen/status/1301990420457467905" ],
     "name" : [ "Like of @Sethrogen's tweet" ],
     "published" : [ "2020-09-05T10:44:00+01:00" ],
     "category" : [ "the-boys" ],
