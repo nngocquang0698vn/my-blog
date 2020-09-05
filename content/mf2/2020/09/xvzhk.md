@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Buellie1208/status/1301950395548348418" ],
     "name" : [ "Like of @Buellie1208's tweet" ],
     "published" : [ "2020-09-05T10:53:00+01:00" ],
     "category" : [ "community" ],
