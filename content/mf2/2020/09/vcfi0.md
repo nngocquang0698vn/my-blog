@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jdforsythe/status/1302219259708346370" ],
     "name" : [ "Like of @jdforsythe's tweet" ],
     "published" : [ "2020-09-05T18:19:00+01:00" ],
     "like-of" : [ "https://twitter.com/jdforsythe/status/1302219259708346370" ]
