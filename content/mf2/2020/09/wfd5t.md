@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheCodePixi/status/1302431235868962816" ],
     "name" : [ "Like of @TheCodePixi's tweet" ],
     "published" : [ "2020-09-06T10:16:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
