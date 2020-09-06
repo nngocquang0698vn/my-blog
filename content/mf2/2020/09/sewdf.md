@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexandrakuri/status/1302562096744484865" ],
     "name" : [ "Like of @alexandrakuri's tweet" ],
     "published" : [ "2020-09-06T18:25:00+01:00" ],
     "like-of" : [ "https://twitter.com/alexandrakuri/status/1302562096744484865" ]
