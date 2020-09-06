@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeriLRyan/status/1302657006596009986" ],
     "name" : [ "Like of @JeriLRyan's tweet" ],
     "published" : [ "2020-09-06T18:49:00+01:00" ],
     "category" : [ "cute" ],
