@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1302368675085852679" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-09-06T10:15:00+01:00" ],
     "category" : [ "the-boys" ],
