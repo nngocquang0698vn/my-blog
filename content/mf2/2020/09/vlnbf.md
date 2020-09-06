@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_beccawright/status/1302247980821614592" ],
     "name" : [ "Like of @_beccawright's tweet" ],
     "published" : [ "2020-09-06T09:30:00+01:00" ],
     "category" : [ "food" ],
