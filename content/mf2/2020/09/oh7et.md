@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/miss_lorsx/status/1302618002031026186" ],
     "name" : [ "Like of @miss_lorsx's tweet" ],
     "published" : [ "2020-09-06T22:28:00+01:00" ],
     "category" : [ "food" ],
