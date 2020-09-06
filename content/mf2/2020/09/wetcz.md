@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/holly/status/1302664232236912643" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2020-09-06T19:29:00+01:00" ],
     "category" : [ "mental-health" ],
