@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1302701493330550784" ],
     "published" : [ "2020-09-06T21:09:00+01:00" ],
     "category" : [ "vimconf" ],
     "content" : [ {
