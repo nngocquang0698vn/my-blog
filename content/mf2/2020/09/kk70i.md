@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lindsayfarny/status/1302304122478051328" ],
     "name" : [ "Like of @lindsayfarny's tweet" ],
     "published" : [ "2020-09-06T09:43:00+01:00" ],
     "like-of" : [ "https://twitter.com/lindsayfarny/status/1302304122478051328" ]
