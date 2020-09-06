@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AKStrobl/status/1302373456592470018" ],
     "name" : [ "Like of @AKStrobl's tweet" ],
     "published" : [ "2020-09-06T10:15:00+01:00" ],
     "category" : [ "the-boys" ],
