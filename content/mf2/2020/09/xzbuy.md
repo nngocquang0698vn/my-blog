@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/indyfromspace/status/1302934900417404928" ],
     "name" : [ "Like of @indyfromspace's tweet" ],
     "published" : [ "2020-09-07T22:01:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
