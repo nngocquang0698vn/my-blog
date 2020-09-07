@@ -1,0 +1,38 @@
+{
+  "date" : "2020-09-07T10:56:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @juliepagano's tweet" ],
+    "published" : [ "2020-09-07T10:56:00+01:00" ],
+    "category" : [ "facebook" ],
+    "like-of" : [ "https://twitter.com/juliepagano/status/1302767699374743555" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/adnuy",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1302767699374743555" ],
+      "url" : [ "https://twitter.com/juliepagano/status/1302767699374743555" ],
+      "published" : [ "2020-09-07T00:36:38+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:juliepagano" ],
+          "numeric-id" : [ "2874563195" ],
+          "name" : [ "julie pagano" ],
+          "nickname" : [ "juliepagano" ],
+          "url" : [ "https://twitter.com/juliepagano", "http://juliepagano.com", "https://juliepagano.com/blog/2020/06/30/looking-for-work/", "http://pronoun.is/she" ],
+          "published" : [ "2014-11-13T02:09:54+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/789516019022704641/vsPnpWsw.jpg" ]
+        }
+      } ],
+      "content" : [ "I normally just ignore FAANG recruiters, but decided to actually write something back this time because maybe inability to hire would have the teeniest tiniest impact. It’s not especially well worded because my brain is made of jello, but it’s something." ],
+      "photo" : [ "https://pbs.twimg.com/media/EhRcUV5VgAAcN0M.jpg" ]
+    }
+  },
+  "tags" : [ "facebook" ],
+  "client_id" : "https://indigenous.realize.be"
+}
