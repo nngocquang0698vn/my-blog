@@ -1,0 +1,43 @@
+{
+  "date" : "2020-09-07T22:00:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @swardley's tweet" ],
+    "published" : [ "2020-09-07T22:00:00+01:00" ],
+    "category" : [ "remote-work" ],
+    "like-of" : [ "https://twitter.com/swardley/status/1303001825960955917" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/xh0fc",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1303001825960955917" ],
+      "url" : [ "https://twitter.com/swardley/status/1303001825960955917" ],
+      "published" : [ "2020-09-07T16:06:58+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:swardley" ],
+          "numeric-id" : [ "8592732" ],
+          "name" : [ "Simon Wardley" ],
+          "nickname" : [ "swardley" ],
+          "url" : [ "https://twitter.com/swardley", "https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec" ],
+          "published" : [ "2007-09-01T17:29:47+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Burmarsh, Kent, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/180727117/Simon.jpg" ]
+        }
+      } ],
+      "content" : [ "The number one rule on zoom is ... you're an invited guest into someone else's home. If the kids invade then - they absolutely have the right to. It's their home as well. You can't import corporate \"norms\" into someone else's home. Learn to adapt." ]
+    }
+  },
+  "tags" : [ "remote-work" ],
+  "client_id" : "https://indigenous.realize.be"
+}
