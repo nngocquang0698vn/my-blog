@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sethrogen/status/1302729051220488195" ],
     "name" : [ "Like of @Sethrogen's tweet" ],
     "published" : [ "2020-09-07T08:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/Sethrogen/status/1302729051220488195" ]
