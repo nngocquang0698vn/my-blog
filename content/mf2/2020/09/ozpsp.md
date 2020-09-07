@@ -1,0 +1,41 @@
+{
+  "date" : "2020-09-07T22:40:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @edoloughlin's tweet" ],
+    "published" : [ "2020-09-07T22:40:00+01:00" ],
+    "like-of" : [ "https://twitter.com/edoloughlin/status/1302536969084383232" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/ozpsp",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1302536969084383232" ],
+      "url" : [ "https://twitter.com/edoloughlin/status/1302536969084383232" ],
+      "published" : [ "2020-09-06T09:19:48+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:edoloughlin" ],
+          "numeric-id" : [ "157934237" ],
+          "name" : [ "Ed O'Loughlin" ],
+          "nickname" : [ "edoloughlin" ],
+          "url" : [ "https://twitter.com/edoloughlin", "http://edoloughlin.com" ],
+          "published" : [ "2010-06-21T08:38:00+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Dublin" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276543316092506116/-5p6hPa4.jpg" ]
+        }
+      } ],
+      "content" : [ "My youngest hacked our Netflix parental code. She put light grease on the remote and got me to input the code when she wasn’t looking. Then she noted the numbers I’d pressed and went through the combinations later. I’m both frightened and impressed." ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
