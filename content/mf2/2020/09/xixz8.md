@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wilnyl/status/1303031383250604035" ],
     "name" : [ "Like of @wilnyl's tweet" ],
     "published" : [ "2020-09-07T19:36:00+01:00" ],
     "category" : [ "gaming" ],
