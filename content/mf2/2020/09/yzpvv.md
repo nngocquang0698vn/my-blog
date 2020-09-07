@@ -1,0 +1,39 @@
+{
+  "date" : "2020-09-07T08:40:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @Sethrogen's tweet" ],
+    "published" : [ "2020-09-07T08:40:00+01:00" ],
+    "like-of" : [ "https://twitter.com/Sethrogen/status/1302729051220488195" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/yzpvv",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1302729051220488195" ],
+      "url" : [ "https://twitter.com/Sethrogen/status/1302729051220488195" ],
+      "published" : [ "2020-09-06T22:03:04+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/jackdwagner/status/1302673328210018305" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Sethrogen" ],
+          "numeric-id" : [ "443215941" ],
+          "name" : [ "Seth Rogen" ],
+          "nickname" : [ "Sethrogen" ],
+          "url" : [ "https://twitter.com/Sethrogen", "https://aesbid.co/ELP/HFCCF19" ],
+          "published" : [ "2011-12-21T23:17:52+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/500459292781449216/yhdYeWHt.jpeg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Fuck they cut me out.",
+        "html" : "Fuck they cut me out.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jackdwagner\"></a>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
