@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1303061939438919680" ],
     "photo" : [ {
       "alt" : "Black cat, with his face barely visible, nestled in a little cave under a red blanket, with his arm outstretched",
       "photo" : "https://media.jvt.me/a0dc0bb9f8.jpeg"
