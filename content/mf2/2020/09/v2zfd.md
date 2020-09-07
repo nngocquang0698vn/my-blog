@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/davefarley77/status/1303000575110332416" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1303084161771728896" ],
     "name" : [ "Reply to https://twitter.com/davefarley77/status/1303000575110332416" ],
     "published" : [ "2020-09-07T22:29:00+01:00" ],
     "category" : [ ],
