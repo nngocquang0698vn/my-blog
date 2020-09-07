@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chris_emerson/status/1303006212963946501" ],
     "name" : [ "Like of @chris_emerson's tweet" ],
     "published" : [ "2020-09-07T17:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/chris_emerson/status/1303006212963946501" ]
