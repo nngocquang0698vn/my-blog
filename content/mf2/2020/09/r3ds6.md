@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/custardloaf/status/1303114680840286210" ],
     "name" : [ "Like of @custardloaf's tweet" ],
     "published" : [ "2020-09-08T07:27:00+01:00" ],
     "category" : [ "food" ],
