@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hazyhistories/status/1302980972699430920" ],
     "name" : [ "Like of @hazyhistories's tweet" ],
     "published" : [ "2020-09-08T08:49:00+01:00" ],
     "like-of" : [ "https://twitter.com/hazyhistories/status/1302980972699430920" ]
