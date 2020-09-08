@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1303381226707972097" ],
     "published" : [ "2020-09-08T18:09:00+01:00" ],
     "category" : [ "hacktoberfest", "homebrew-website-club" ],
     "content" : [ {
