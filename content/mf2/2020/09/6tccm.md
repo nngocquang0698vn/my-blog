@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anniesqueedle/status/1303378232734089219" ],
     "name" : [ "Like of @anniesqueedle's tweet" ],
     "published" : [ "2020-09-08T22:57:00+01:00" ],
     "category" : [ "remote-work" ],
