@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/charamells/status/1303746769134653440" ],
     "name" : [ "Like of @charamells's tweet" ],
     "published" : [ "2020-09-09T19:13:00+01:00" ],
     "category" : [ "pokemon" ],
