@@ -1,0 +1,46 @@
+{
+  "date" : "2020-09-10T16:53:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @tessacooper5's tweet" ],
+    "published" : [ "2020-09-10T16:53:00+01:00" ],
+    "category" : [ "diversity-and-inclusion" ],
+    "like-of" : [ "https://twitter.com/tessacooper5/status/1304079551560060930" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/b0wi4",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1304079551560060930" ],
+      "url" : [ "https://twitter.com/tessacooper5/status/1304079551560060930" ],
+      "published" : [ "2020-09-10T15:29:28+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:tessacooper5" ],
+          "numeric-id" : [ "208621746" ],
+          "name" : [ "Tess Cooper 🏳️‍🌈" ],
+          "nickname" : [ "tessacooper5" ],
+          "url" : [ "https://twitter.com/tessacooper5", "https://tessacooper.com/" ],
+          "published" : [ "2010-10-27T16:19:13+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1267876051369197570/0ywz2ehO.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "After 4 years of being patronised by male GPs and made to feel like a pain for trying to get a diagnosis for ongoing health issues I finally spoke to a female GP today and by the end of it I was crying simply for finally being made to feel heard and respected. #WomenInMedicine",
+        "html" : "After 4 years of being patronised by male GPs and made to feel like a pain for trying to get a diagnosis for ongoing health issues I finally spoke to a female GP today and by the end of it I was crying simply for finally being made to feel heard and respected. <a href=\"https://twitter.com/search?q=%23WomenInMedicine\">#WomenInMedicine</a>"
+      } ]
+    }
+  },
+  "tags" : [ "diversity-and-inclusion" ],
+  "client_id" : "https://indigenous.realize.be"
+}
