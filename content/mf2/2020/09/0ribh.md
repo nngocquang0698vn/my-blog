@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/clairecohen/status/1304040123026337793" ],
     "name" : [ "Like of @clairecohen's tweet" ],
     "published" : [ "2020-09-10T16:55:00+01:00" ],
     "category" : [ "mansplaining" ],
