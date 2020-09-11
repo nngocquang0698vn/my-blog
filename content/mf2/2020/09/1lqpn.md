@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukaBigPants/status/1303554698125991936" ],
     "name" : [ "Like of @LukaBigPants's tweet" ],
     "published" : [ "2020-09-11T15:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/LukaBigPants/status/1303554698125991936" ]
