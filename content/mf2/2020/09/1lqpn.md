@@ -1,0 +1,42 @@
+{
+  "date" : "2020-09-11T15:11:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @LukaBigPants's tweet" ],
+    "published" : [ "2020-09-11T15:11:00+01:00" ],
+    "like-of" : [ "https://twitter.com/LukaBigPants/status/1303554698125991936" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/1lqpn",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1303554698125991936" ],
+      "url" : [ "https://twitter.com/LukaBigPants/status/1303554698125991936" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1303554645755940864/pu/vid/720x1280/d6oQiOn_GJAM1Zah.mp4?tag=10" ],
+      "published" : [ "2020-09-09T04:43:53+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:LukaBigPants" ],
+          "numeric-id" : [ "782442389138993152" ],
+          "name" : [ "luka big pants" ],
+          "nickname" : [ "LukaBigPants" ],
+          "url" : [ "https://twitter.com/LukaBigPants", "https://www.luka.cool" ],
+          "published" : [ "2016-10-02T04:49:37+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Montréal / Vancouver" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1222568615704055814/LfTKUJVU.jpg" ]
+        }
+      } ],
+      "content" : [ "who is this" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
