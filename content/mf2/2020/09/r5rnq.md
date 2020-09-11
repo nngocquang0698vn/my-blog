@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cszhu/status/1304459317383278592" ],
     "name" : [ "Like of @cszhu's tweet" ],
     "published" : [ "2020-09-11T22:05:00+01:00" ],
     "like-of" : [ "https://twitter.com/cszhu/status/1304459317383278592" ]
