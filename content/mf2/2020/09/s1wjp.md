@@ -1,0 +1,69 @@
+{
+  "date" : "2020-09-11T15:11:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @grappleshark's tweet" ],
+    "published" : [ "2020-09-11T15:11:00+01:00" ],
+    "like-of" : [ "https://twitter.com/grappleshark/status/1304310268013486081" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/s1wjp",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1304310268013486081" ],
+      "url" : [ "https://twitter.com/grappleshark/status/1304310268013486081" ],
+      "published" : [ "2020-09-11T06:46:15+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:grappleshark" ],
+          "numeric-id" : [ "2330212693" ],
+          "name" : [ "Tanja Lichtensteiger" ],
+          "nickname" : [ "grappleshark" ],
+          "url" : [ "https://twitter.com/grappleshark", "https://www.linkedin.com/in/lichtensteiger/" ],
+          "published" : [ "2014-02-06T12:16:49+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Leeds, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1225778574399025152/WjbNpkZK.jpg" ]
+        }
+      } ],
+      "content" : [ "On call when someone decides it's fine to release on a Friday..." ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1303554698125991936" ],
+        "url" : [ "https://twitter.com/LukaBigPants/status/1303554698125991936" ],
+        "video" : [ "https://video.twimg.com/ext_tw_video/1303554645755940864/pu/vid/720x1280/d6oQiOn_GJAM1Zah.mp4?tag=10" ],
+        "published" : [ "2020-09-09T04:43:53+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:LukaBigPants" ],
+            "numeric-id" : [ "782442389138993152" ],
+            "name" : [ "luka big pants" ],
+            "nickname" : [ "LukaBigPants" ],
+            "url" : [ "https://twitter.com/LukaBigPants", "https://www.luka.cool" ],
+            "published" : [ "2016-10-02T04:49:37+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Montréal / Vancouver" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1222568615704055814/LfTKUJVU.jpg" ]
+          }
+        } ],
+        "content" : [ "who is this" ]
+      }
+    } ]
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
