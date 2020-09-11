@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/issyl0/status/1304370946439086085" ],
     "name" : [ "Like of @issyl0's tweet" ],
     "published" : [ "2020-09-11T20:11:00+01:00" ],
     "like-of" : [ "https://twitter.com/issyl0/status/1304370946439086085" ]
