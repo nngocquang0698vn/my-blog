@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VividVivka/status/1304668678722445312" ],
     "name" : [ "Like of @VividVivka's tweet" ],
     "published" : [ "2020-09-12T14:40:00+01:00" ],
     "like-of" : [ "https://twitter.com/VividVivka/status/1304668678722445312" ]
