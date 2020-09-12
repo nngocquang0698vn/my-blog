@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Kenny___Rose/status/1304556766487883781" ],
     "name" : [ "Like of @Kenny___Rose's tweet" ],
     "published" : [ "2020-09-12T16:36:00+01:00" ],
     "like-of" : [ "https://twitter.com/Kenny___Rose/status/1304556766487883781" ]
