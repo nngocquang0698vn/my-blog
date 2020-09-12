@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scottjehl/status/1304540564067622913" ],
     "name" : [ "Like of @scottjehl's tweet" ],
     "published" : [ "2020-09-12T10:58:00+01:00" ],
     "category" : [ "php" ],
