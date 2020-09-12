@@ -1,0 +1,42 @@
+{
+  "date" : "2020-09-12T16:36:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @Kenny___Rose's tweet" ],
+    "published" : [ "2020-09-12T16:36:00+01:00" ],
+    "like-of" : [ "https://twitter.com/Kenny___Rose/status/1304556766487883781" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/kxbql",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1304556766487883781" ],
+      "url" : [ "https://twitter.com/Kenny___Rose/status/1304556766487883781" ],
+      "published" : [ "2020-09-11T23:05:45+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Kenny___Rose" ],
+          "numeric-id" : [ "981382549" ],
+          "name" : [ "Kendall Pennington" ],
+          "nickname" : [ "Kenny___Rose" ],
+          "url" : [ "https://twitter.com/Kenny___Rose", "http://Instagram.com/kendall__pennington" ],
+          "published" : [ "2012-11-30T22:34:35+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "KY/CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290661588513558539/M7oW_0Zp.jpg" ]
+        }
+      } ],
+      "content" : [ "oomfs just raised the bar for shooting ones shot. look at this masterpiece that made its way to my DMs" ],
+      "photo" : [ "https://pbs.twimg.com/media/Ehq3dqHXsAAe2lW.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
