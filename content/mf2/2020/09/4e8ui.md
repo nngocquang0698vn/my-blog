@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/deniseyu21/status/1304818129822871552" ],
     "name" : [ "Like of @deniseyu21's tweet" ],
     "published" : [ "2020-09-12T17:35:00+01:00" ],
     "category" : [ "food" ],
