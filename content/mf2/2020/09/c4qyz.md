@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ramencult/status/1304528736184725504" ],
     "name" : [ "Like of @ramencult's tweet" ],
     "published" : [ "2020-09-12T14:39:00+01:00" ],
     "category" : [ "diversity-and-inclusion" ],
