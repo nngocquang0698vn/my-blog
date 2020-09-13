@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qikipedia/status/1305098904585867264" ],
     "name" : [ "Like of @qikipedia's tweet" ],
     "published" : [ "2020-09-13T14:09:00+01:00" ],
     "like-of" : [ "https://twitter.com/qikipedia/status/1305098904585867264" ]
