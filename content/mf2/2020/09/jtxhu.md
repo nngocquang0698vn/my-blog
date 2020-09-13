@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WelshGovernment/status/1305087598713540608" ],
     "name" : [ "Like of @WelshGovernment's tweet" ],
     "published" : [ "2020-09-13T19:28:00+01:00" ],
     "category" : [ "remote-work" ],
