@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/engineering_bae/status/1305165868649852933" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1305232650374971402" ],
     "name" : [ "Reply to https://twitter.com/engineering_bae/status/1305165868649852933" ],
     "published" : [ "2020-09-13T20:46:00+01:00" ],
     "category" : [ ],
