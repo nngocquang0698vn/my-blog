@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/proactivepaul/status/1305209486358044678" ],
     "name" : [ "Like of @proactivepaul's tweet" ],
     "published" : [ "2020-09-13T19:23:00+01:00" ],
     "like-of" : [ "https://twitter.com/proactivepaul/status/1305209486358044678" ]
