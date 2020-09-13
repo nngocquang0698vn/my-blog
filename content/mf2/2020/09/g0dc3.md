@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emhaasch/status/1305153269098926080" ],
     "name" : [ "Like of @emhaasch's tweet" ],
     "published" : [ "2020-09-13T20:42:00+01:00" ],
     "category" : [ "wholesome" ],
