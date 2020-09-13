@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vlad_mihalcea/status/1305018905069604865" ],
     "name" : [ "Like of @vlad_mihalcea's tweet" ],
     "published" : [ "2020-09-13T19:50:00+01:00" ],
     "category" : [ "interviewing" ],
