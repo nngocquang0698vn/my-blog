@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1305101815898427393" ],
     "photo" : [ {
       "alt" : "Morph lying on his chin, asleep, on a grey blanket with a red blanket wrapped around him so he's not chilly",
       "photo" : "https://media.jvt.me/c4ec92577b.jpeg"
