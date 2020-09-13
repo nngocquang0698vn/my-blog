@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julieanne/status/1305086140949704704" ],
     "name" : [ "Like of @Julieanne's tweet" ],
     "published" : [ "2020-09-13T17:06:00+01:00" ],
     "category" : [ "food" ],
