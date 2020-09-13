@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mjackson/status/1304837624809418752" ],
     "name" : [ "Like of @mjackson's tweet" ],
     "published" : [ "2020-09-13T15:00:00+01:00" ],
     "category" : [ "homebrew" ],
