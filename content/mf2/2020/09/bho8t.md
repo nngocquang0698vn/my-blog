@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlexTGOAT/status/1305605689683845121" ],
     "name" : [ "Like of @AlexTGOAT's tweet" ],
     "published" : [ "2020-09-14T21:39:00+01:00" ],
     "like-of" : [ "https://twitter.com/AlexTGOAT/status/1305605689683845121" ]
