@@ -1,0 +1,44 @@
+{
+  "date" : "2020-09-14T08:43:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @mattiasgeniar's tweet" ],
+    "published" : [ "2020-09-14T08:43:00+01:00" ],
+    "like-of" : [ "https://twitter.com/mattiasgeniar/status/1305401907868033030" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/pzotj",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1305401907868033030" ],
+      "url" : [ "https://twitter.com/mattiasgeniar/status/1305401907868033030" ],
+      "published" : [ "2020-09-14T07:04:02+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:mattiasgeniar" ],
+          "numeric-id" : [ "93920255" ],
+          "name" : [ "m@ttias ⚡️" ],
+          "nickname" : [ "mattiasgeniar" ],
+          "url" : [ "https://twitter.com/mattiasgeniar", "https://ma.ttias.be" ],
+          "published" : [ "2009-12-01T19:00:40+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Belgium" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1173566135951876096/Fi5cYHYQ.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I agree with this post: many developers & sysadmins use online JSON validators, formatters, linters etc. but are often unaware what sensitive data they're putting on unknown websites.\n\njvt.me/posts/2020/09/…",
+        "html" : "<div style=\"white-space: pre\">I agree with this post: many developers &amp; sysadmins use online JSON validators, formatters, linters etc. but are often unaware what sensitive data they're putting on unknown websites.\n\n<a href=\"https://www.jvt.me/posts/2020/09/01/against-online-tooling/\">jvt.me/posts/2020/09/…</a></div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
