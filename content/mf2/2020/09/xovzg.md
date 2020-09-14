@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mathladyhazel/status/1304671651137835008" ],
     "name" : [ "Like of @mathladyhazel's tweet" ],
     "published" : [ "2020-09-14T07:31:00+01:00" ],
     "like-of" : [ "https://twitter.com/mathladyhazel/status/1304671651137835008" ]
