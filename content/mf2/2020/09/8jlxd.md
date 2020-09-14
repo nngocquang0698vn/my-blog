@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Marcus_Noble_/status/1305406938650419200" ],
     "name" : [ "Like of @Marcus_Noble_'s tweet" ],
     "published" : [ "2020-09-14T08:49:00+01:00" ],
     "category" : [ "blogging" ],
