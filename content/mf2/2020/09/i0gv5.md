@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ira/status/1305381997385195520" ],
     "name" : [ "Like of @ira's tweet" ],
     "published" : [ "2020-09-14T07:33:00+01:00" ],
     "category" : [ "coronavirus" ],
