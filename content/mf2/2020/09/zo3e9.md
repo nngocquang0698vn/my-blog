@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/austinlparker/status/1305525352853377027" ],
     "name" : [ "Like of @austinlparker's tweet" ],
     "published" : [ "2020-09-14T20:04:00+01:00" ],
     "category" : [ "shitpost" ],
