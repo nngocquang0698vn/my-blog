@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_hax/status/1305587505295699968" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-09-14T21:50:00+01:00" ],
     "like-of" : [ "https://twitter.com/anna_hax/status/1305587505295699968" ]
