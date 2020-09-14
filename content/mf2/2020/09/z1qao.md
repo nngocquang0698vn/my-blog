@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trrocket/status/1305579650601684993" ],
     "name" : [ "Like of @trrocket's tweet" ],
     "published" : [ "2020-09-14T22:04:00+01:00" ],
     "like-of" : [ "https://twitter.com/trrocket/status/1305579650601684993" ]
