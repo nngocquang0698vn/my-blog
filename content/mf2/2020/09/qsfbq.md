@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codeFreedomRitr/status/1305512438771724288" ],
     "name" : [ "Like of @codeFreedomRitr's tweet" ],
     "published" : [ "2020-09-14T21:37:00+01:00" ],
     "like-of" : [ "https://twitter.com/codeFreedomRitr/status/1305512438771724288" ]
