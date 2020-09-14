@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/isntitvacant/status/1305242219884945409" ],
     "name" : [ "Like of @isntitvacant's tweet" ],
     "published" : [ "2020-09-14T08:46:00+01:00" ],
     "category" : [ "npm" ],
