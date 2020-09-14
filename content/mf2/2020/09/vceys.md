@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/moonpolysoft/status/1305229772969058304" ],
     "name" : [ "Like of @moonpolysoft's tweet" ],
     "published" : [ "2020-09-14T10:36:00+01:00" ],
     "category" : [ "satire" ],
