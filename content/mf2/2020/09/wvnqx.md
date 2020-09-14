@@ -1,0 +1,41 @@
+{
+  "date" : "2020-09-14T07:30:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @CrashTe84800515's tweet" ],
+    "published" : [ "2020-09-14T07:30:00+01:00" ],
+    "category" : [ "tiktok" ],
+    "like-of" : [ "https://twitter.com/CrashTe84800515/status/1305379722994413568" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/wvnqx",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1305379722994413568" ],
+      "url" : [ "https://twitter.com/CrashTe84800515/status/1305379722994413568" ],
+      "published" : [ "2020-09-14T05:35:53+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/alexcpsec/status/1305336515862515713" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:CrashTe84800515" ],
+          "numeric-id" : [ "1007066616004112384" ],
+          "name" : [ "Crash Test Dummy" ],
+          "nickname" : [ "CrashTe84800515" ],
+          "url" : [ "https://twitter.com/CrashTe84800515" ],
+          "published" : [ "2018-06-14T01:06:06+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1013928281786085376/k9jIwZ9i.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "How long do you think they'll last?\n\nI wonder how TikTok users will come to enjoy batch jobs, workflows and Oracle UI's?\n\nI almost forgot Oracle's famed legal and licensing teams.",
+        "html" : "<div style=\"white-space: pre\">How long do you think they'll last?\n\nI wonder how TikTok users will come to enjoy batch jobs, workflows and Oracle UI's?\n\nI almost forgot Oracle's famed legal and licensing teams.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alexcpsec\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/riskybusiness\"></a>"
+      } ]
+    }
+  },
+  "tags" : [ "tiktok" ],
+  "client_id" : "https://indigenous.realize.be"
+}
