@@ -1,0 +1,41 @@
+{
+  "date" : "2020-09-14T21:37:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @codeFreedomRitr's tweet" ],
+    "published" : [ "2020-09-14T21:37:00+01:00" ],
+    "like-of" : [ "https://twitter.com/codeFreedomRitr/status/1305512438771724288" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/qsfbq",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1305512438771724288" ],
+      "url" : [ "https://twitter.com/codeFreedomRitr/status/1305512438771724288" ],
+      "published" : [ "2020-09-14T14:23:15+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:codeFreedomRitr" ],
+          "numeric-id" : [ "1150161888459800577" ],
+          "name" : [ "Natalie Davis" ],
+          "nickname" : [ "codeFreedomRitr" ],
+          "url" : [ "https://twitter.com/codeFreedomRitr", "https://github.com/FreedomWriter" ],
+          "published" : [ "2019-07-13T21:55:37+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Chicago" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1150162983571664896/Tg5U6i1R.jpg" ]
+        }
+      } ],
+      "content" : [ "If you are a developer who understands a semicolon can break everything I don’t know how you can pretend that you can’t see the power of language and word choice. It’s right there." ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
