@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/molly_struve/status/1305300131886116864" ],
     "name" : [ "Like of @molly_struve's tweet" ],
     "published" : [ "2020-09-14T07:20:00+01:00" ],
     "category" : [ "tiktok" ],
