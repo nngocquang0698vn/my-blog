@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1305541793505779712" ],
     "published" : [ "2020-09-14T17:14:00+01:00" ],
     "repost-of" : [ "https://twitter.com/MrAndrew/status/1305530276127428609" ],
     "category" : [ "strava", "privacy" ],
