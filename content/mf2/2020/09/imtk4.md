@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/INTERIORPORN1/status/1305140113362620416" ],
     "name" : [ "Like of @INTERIORPORN1's tweet" ],
     "published" : [ "2020-09-14T10:37:00+01:00" ],
     "like-of" : [ "https://twitter.com/INTERIORPORN1/status/1305140113362620416" ]
