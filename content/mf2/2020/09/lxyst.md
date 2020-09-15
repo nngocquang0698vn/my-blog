@@ -1,0 +1,44 @@
+{
+  "date" : "2020-09-15T10:20:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @seanseaevans's tweet" ],
+    "published" : [ "2020-09-15T10:20:00+01:00" ],
+    "category" : [ "coronavirus" ],
+    "like-of" : [ "https://twitter.com/seanseaevans/status/1305597203688435714" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/lxyst",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1305597203688435714" ],
+      "url" : [ "https://twitter.com/seanseaevans/status/1305597203688435714" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1305596975149088769/pu/vid/1280x676/ImzbGj6DbRBEWvN2.mp4?tag=10" ],
+      "published" : [ "2020-09-14T20:00:04+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:seanseaevans" ],
+          "numeric-id" : [ "274200127" ],
+          "name" : [ "Sean Evans" ],
+          "nickname" : [ "seanseaevans" ],
+          "url" : [ "https://twitter.com/seanseaevans", "https://www.youtube.com/user/FirstWeFeast/videos" ],
+          "published" : [ "2011-03-29T22:52:29+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "NYC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1284841934234804224/FT13mjmr.jpg" ]
+        }
+      } ],
+      "content" : [ "Who would’ve thought? Not me 😷" ]
+    }
+  },
+  "tags" : [ "coronavirus" ],
+  "client_id" : "https://indigenous.realize.be"
+}
