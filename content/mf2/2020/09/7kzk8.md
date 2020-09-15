@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cbetta/status/1305866341677780994" ],
     "name" : [ "Like of @cbetta's tweet" ],
     "published" : [ "2020-09-15T14:56:00+01:00" ],
     "category" : [ "coronavirus" ],
