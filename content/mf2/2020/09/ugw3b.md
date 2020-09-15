@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/inalemontree/status/1305365793291612160" ],
     "name" : [ "Like of @inalemontree's tweet" ],
     "published" : [ "2020-09-15T22:37:00+01:00" ],
     "category" : [ "cute" ],
