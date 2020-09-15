@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1305907281536708614" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-09-15T19:58:00+01:00" ],
     "like-of" : [ "https://twitter.com/rizbizkits/status/1305907281536708614" ]
