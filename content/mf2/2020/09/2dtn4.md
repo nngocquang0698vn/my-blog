@@ -1,0 +1,41 @@
+{
+  "date" : "2020-09-15T19:00:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @StarTrek's tweet" ],
+    "published" : [ "2020-09-15T19:00:00+01:00" ],
+    "category" : [ "star-trek" ],
+    "like-of" : [ "https://twitter.com/StarTrek/status/1303409804270952448" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/2dtn4",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1303409804270952448" ],
+      "url" : [ "https://twitter.com/StarTrek/status/1303409804270952448" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1303339730415751170/vid/1280x720/V_-l1JOTT9KxSBDE.mp4?tag=13" ],
+      "published" : [ "2020-09-08T19:08:08+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:StarTrek" ],
+          "numeric-id" : [ "130491582" ],
+          "name" : [ "Star Trek" ],
+          "nickname" : [ "StarTrek" ],
+          "url" : [ "https://twitter.com/StarTrek", "http://www.StarTrek.com" ],
+          "published" : [ "2010-04-07T12:53:57+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1281226720410992641/0hR3QibV.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Bringing hope to the future ✨  #StarTrekDay #StarTrek bit.ly/TrekDiscoveryS…",
+        "html" : "Bringing hope to the future ✨  <a href=\"https://twitter.com/search?q=%23StarTrekDay\">#StarTrekDay</a> <a href=\"https://twitter.com/search?q=%23StarTrek\">#StarTrek</a> <a href=\"https://bit.ly/TrekDiscoverySeries\">bit.ly/TrekDiscoveryS…</a>"
+      } ]
+    }
+  },
+  "tags" : [ "star-trek" ],
+  "client_id" : "https://indigenous.realize.be"
+}
