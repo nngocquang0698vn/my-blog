@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seanseaevans/status/1305597203688435714" ],
     "name" : [ "Like of @seanseaevans's tweet" ],
     "published" : [ "2020-09-15T10:20:00+01:00" ],
     "category" : [ "coronavirus" ],
