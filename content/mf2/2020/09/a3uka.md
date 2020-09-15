@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HitsugiChan/status/1305700778695327744" ],
     "name" : [ "Like of @HitsugiChan's tweet" ],
     "published" : [ "2020-09-15T17:48:00+01:00" ],
     "category" : [ "cute", "tiktok" ],
