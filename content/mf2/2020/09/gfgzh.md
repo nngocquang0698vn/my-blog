@@ -1,0 +1,45 @@
+{
+  "date" : "2020-09-16T12:49:58.471Z",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @francoisz's tweet" ],
+    "published" : [ "2020-09-16T12:49:58.471Z" ],
+    "like-of" : [ "https://twitter.com/francoisz/status/1306198403282542592" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/gfgzh",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1306198403282542592" ],
+      "url" : [ "https://twitter.com/francoisz/status/1306198403282542592" ],
+      "published" : [ "2020-09-16T11:49:01+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:francoisz" ],
+          "numeric-id" : [ "14089153" ],
+          "name" : [ "François Zaninotto" ],
+          "nickname" : [ "francoisz" ],
+          "url" : [ "https://twitter.com/francoisz", "http://marmelab.com/" ],
+          "published" : [ "2008-03-06T15:28:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nancy, France" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/554969596101267456/wvlcHVWx.jpeg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Online JSON and JWT Validators Considered Harmful: By using these services, you may leak confidential information. #Security jvt.me/posts/2020/09/…",
+        "html" : "Online JSON and JWT Validators Considered Harmful: By using these services, you may leak confidential information. <a href=\"https://twitter.com/search?q=%23Security\">#Security</a> <a href=\"https://www.jvt.me/posts/2020/09/01/against-online-tooling/\">jvt.me/posts/2020/09/…</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EiCMhntXkAAqNdq.png" ]
+    }
+  },
+  "client_id" : "https://micropublish.net"
+}
