@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stephensauceda/status/1306247907981524992" ],
     "name" : [ "Like of @stephensauceda's tweet" ],
     "published" : [ "2020-09-16T22:52:00+0100" ],
     "like-of" : [ "https://twitter.com/stephensauceda/status/1306247907981524992" ],
