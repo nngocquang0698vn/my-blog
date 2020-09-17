@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Geistb0t/status/1306214172158562304" ],
     "name" : [ "Like of @Geistb0t's tweet" ],
     "published" : [ "2020-09-17T08:36:00+01:00" ],
     "category" : [ "cute" ],
