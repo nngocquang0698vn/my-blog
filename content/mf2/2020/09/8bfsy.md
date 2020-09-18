@@ -1,0 +1,38 @@
+{
+  "date" : "2020-09-18T16:38:00+01:00",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @MrsEmma's tweet" ],
+    "published" : [ "2020-09-18T16:38:00+01:00" ],
+    "like-of" : [ "https://twitter.com/MrsEmma/status/1306889521250918401" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/8bfsy",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1306889521250918401" ],
+      "url" : [ "https://twitter.com/MrsEmma/status/1306889521250918401" ],
+      "published" : [ "2020-09-18T09:35:17+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:MrsEmma" ],
+          "numeric-id" : [ "19500955" ],
+          "name" : [ "Emma Seward" ],
+          "nickname" : [ "MrsEmma" ],
+          "url" : [ "https://twitter.com/MrsEmma" ],
+          "published" : [ "2009-01-25T19:32:42+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1306627007317504000/K6YXEx2-.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I turn 38 next week, with a handful of miscarriages under my belt. Not quite the position I thought I'd find myself in but here we are. Life is (mostly) good, I'm healthy, I have amazing friends & family. It still hurts from time to time (1/)\n\n#WorldChildlessWeek",
+        "html" : "<div style=\"white-space: pre\">I turn 38 next week, with a handful of miscarriages under my belt. Not quite the position I thought I'd find myself in but here we are. Life is (mostly) good, I'm healthy, I have amazing friends &amp; family. It still hurts from time to time (1/)\n\n<a href=\"https://twitter.com/search?q=%23WorldChildlessWeek\">#WorldChildlessWeek</a></div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
