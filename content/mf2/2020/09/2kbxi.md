@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1307080445729931265" ],
     "published" : [ "2020-09-18T23:05:00+01:00" ],
     "category" : [ "the-social-dilemma", "social-media" ],
     "content" : [ {
