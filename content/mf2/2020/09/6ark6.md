@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BreatheNewWinds/status/1306717198421901312" ],
     "name" : [ "Like of @BreatheNewWinds's tweet" ],
     "published" : [ "2020-09-18T08:48:00+01:00" ],
     "category" : [ "coronavirus" ],
