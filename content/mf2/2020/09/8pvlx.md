@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LydiaMizon/status/1307303954334781441" ],
     "name" : [ "Like of @LydiaMizon's tweet" ],
     "published" : [ "2020-09-19T19:29:00+01:00" ],
     "category" : [ "2020" ],
