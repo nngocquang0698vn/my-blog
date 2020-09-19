@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GorditosGatitos/status/1306902091600928768" ],
     "name" : [ "Like of @GorditosGatitos's tweet" ],
     "published" : [ "2020-09-19T13:34:00+01:00" ],
     "category" : [ "cute" ],
