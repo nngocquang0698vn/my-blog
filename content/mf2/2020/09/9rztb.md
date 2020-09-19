@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bascule/status/1307440596668182528" ],
     "name" : [ "Like of @bascule's tweet" ],
     "published" : [ "2020-09-19T23:56:00+01:00" ],
     "category" : [ "twitter", "diversity-and-inclusion" ],
