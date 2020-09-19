@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mightbecursed/status/1307074477826736128" ],
     "name" : [ "Like of @mightbecursed's tweet" ],
     "published" : [ "2020-09-19T10:32:00+01:00" ],
     "category" : [ "coronavirus" ],
