@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1305541625029038082" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-09-20T22:43:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
