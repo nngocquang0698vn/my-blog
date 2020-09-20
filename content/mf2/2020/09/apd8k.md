@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/paulienuh/status/1307723030739800066" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1307736929727901696" ],
     "name" : [ "Reply to https://twitter.com/paulienuh/status/1307723030739800066" ],
     "published" : [ "2020-09-20T18:35:00+0100" ],
     "category" : [ "ratchet-and-clank" ],
