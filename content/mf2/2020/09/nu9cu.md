@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/captainsafia/status/1307555421679357953" ],
     "name" : [ "Like of @captainsafia's tweet" ],
     "published" : [ "2020-09-20T15:32:00+01:00" ],
     "category" : [ "star-trek" ],
