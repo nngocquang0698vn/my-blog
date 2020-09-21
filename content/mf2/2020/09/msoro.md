@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScribblingOn/status/1308129846179004416" ],
     "name" : [ "Like of @ScribblingOn's tweet" ],
     "published" : [ "2020-09-21T22:38:00+0100" ],
     "category" : [ "twitter" ],
