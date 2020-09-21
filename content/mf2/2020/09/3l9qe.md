@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CuriouslyEmily/status/1307736311680438274" ],
     "name" : [ "Like of @CuriouslyEmily's tweet" ],
     "published" : [ "2020-09-21T22:46:00+0100" ],
     "category" : [ "Food" ],
