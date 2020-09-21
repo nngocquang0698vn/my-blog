@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/base10/status/1308128778141528065" ],
     "name" : [ "Like of @base10's tweet" ],
     "published" : [ "2020-09-21T22:36:00+0100" ],
     "category" : [ "security" ],
