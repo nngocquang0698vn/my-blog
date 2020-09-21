@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SmokeAndSmut/status/1306899160927547392" ],
     "name" : [ "Like of @SmokeAndSmut's tweet" ],
     "published" : [ "2020-09-18T16:38:00+01:00" ],
     "like-of" : [ "https://twitter.com/SmokeAndSmut/status/1306899160927547392" ]
