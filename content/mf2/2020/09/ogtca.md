@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnimaIshits/status/1307684948975824896" ],
     "name" : [ "Like of @AnimaIshits's tweet" ],
     "published" : [ "2020-09-21T23:21:00+0100" ],
     "category" : [ "cute" ],
