@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/madebyjenni/status/1308486221287632896" ],
     "name" : [ "Like of @madebyjenni's tweet" ],
     "published" : [ "2020-09-22T22:14:00+0100" ],
     "category" : [ "food" ],
