@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sil/status/1308457049462898689" ],
     "name" : [ "Like of @sil's tweet" ],
     "published" : [ "2020-09-22T19:52:00+0100" ],
     "category" : [ "food" ],
