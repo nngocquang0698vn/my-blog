@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AdrianRMG/status/1308376099257286658" ],
     "name" : [ "Like of @AdrianRMG's tweet" ],
     "published" : [ "2020-09-22T14:30:00+0100" ],
     "like-of" : [ "https://twitter.com/AdrianRMG/status/1308376099257286658" ],
