@@ -6,7 +6,7 @@
     "syndication" : [ "https://twitter.com/Sp4ghettiCode/status/1307789167326310407" ],
     "name" : [ "Like of @Sp4ghettiCode's tweet" ],
     "published" : [ "2020-09-20T22:12:00+0100" ],
-    "category" : [ "Cute" ],
+    "category" : [ "cute" ],
     "like-of" : [ "https://twitter.com/Sp4ghettiCode/status/1307789167326310407" ],
     "post-status" : [ "published" ]
   },
@@ -40,6 +40,6 @@
       "photo" : [ "https://pbs.twimg.com/media/EiYzUOgXgAE-4Js.jpg" ]
     }
   },
-  "tags" : [ "Cute" ],
+  "tags" : [ "cute" ],
   "client_id" : "https://indigenous.realize.be"
 }
