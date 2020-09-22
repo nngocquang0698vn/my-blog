@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1308363325361860608" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2020-09-22T15:28:00+0100" ],
     "category" : [ "battlestations" ],
