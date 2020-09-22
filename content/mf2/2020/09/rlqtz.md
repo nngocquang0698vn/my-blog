@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IamHappyToast/status/1308339345540210691" ],
     "name" : [ "Like of @IamHappyToast's tweet" ],
     "published" : [ "2020-09-22T15:28:00+0100" ],
     "category" : [ "coronavirus" ],
