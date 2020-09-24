@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_hax/status/1309205592431620097" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-09-24T20:58:00+0100" ],
     "category" : [ "tech-nottingham", "community", "hacksoc" ],
