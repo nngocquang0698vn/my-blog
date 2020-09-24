@@ -21,7 +21,7 @@
       "value" : "The best thing about <a href=\"/tags/morph/\">#Morph</a> getting soggy out in the rain is the way that @annadodson.co.uk and I get to dry him off 😻"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/xcurn",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

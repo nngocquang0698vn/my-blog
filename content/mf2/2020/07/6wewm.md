@@ -15,7 +15,7 @@
       "value" : "This is a top tip from <span class=\"h-card\"><a class=\"u-url\" href=\"https://twitter.com/rikshawindian\">@rikshawindian</a></span> - if your customer orders a curry with Medium spice but you accidentally make it as a Hot, just update the writing on the container, as they won't be able to tell the difference when eating their lava 🔥🙄"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/6wewm",
   "tags" : [ ],
   "client_id" : "https://www-editor.jvt.me"

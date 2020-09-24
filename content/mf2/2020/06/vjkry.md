@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is full on mlem this afternoon"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/vjkry",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

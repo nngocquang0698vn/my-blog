@@ -18,7 +18,7 @@
       "value" : "I'd planned to get my haircut a couple of days before the <a href=\"/tags/coronavirus/\">#coronavirus</a> self isolation, but didn't get a chance. 20 days in we called it, so @annadodson.co.uk cut my hair tonight 😱 we're both super impressed!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/03/5kkar",
   "tags" : [ "coronavirus", "coronavirus-haircut" ],
   "client_id" : "https://indigenous.realize.be"

@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is watching @annadodson.co.uk playing <a href=\"/tags/animal-crossing/\">#AnimalCrossing</a> this morning"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/sw4tr",
   "tags" : [ "morph", "animal-crossing" ],
   "client_id" : "https://indigenous.realize.be"

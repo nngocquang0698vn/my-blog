@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/02/jaoem",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-02-25T22:14:00Z",

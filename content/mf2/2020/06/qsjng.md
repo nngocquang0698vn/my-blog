@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is helping me through a difficult evening - KFC don't have any burgers 😭😭"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/qsjng",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

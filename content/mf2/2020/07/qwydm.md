@@ -21,7 +21,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> was being the cutest yesterday"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/qwydm",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

@@ -25,7 +25,7 @@
       }
     ]
   },
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/04/pnwtn",
   "tags": [
     "morph"

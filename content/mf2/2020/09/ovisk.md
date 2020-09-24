@@ -18,7 +18,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is enjoying a Sunday morning nap, which is easier than considering all the stuff he has to do today!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/ovisk",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

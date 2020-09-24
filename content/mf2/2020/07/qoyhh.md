@@ -15,7 +15,7 @@
       "value" : "Here's a lovely insight into <a href=\"/tags/capital-one/\">#LifeAtCapitalOne</a> - my whole tribe (the Grow tribe) have just received a lovely care package from the wonderful Team Building Committee, in lieu of an in-person \"fun day\". Small things like this make it such a lovely place to work 💜"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/qoyhh",
   "tags" : [ "capital-one" ],
   "client_id" : "https://www-editor.jvt.me"

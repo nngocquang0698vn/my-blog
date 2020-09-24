@@ -15,7 +15,7 @@
       "value" : "This is the face of a very contented <a href=\"/tags/morph/\">#Morph</a>, yesterday in the sun"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/mlahm",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

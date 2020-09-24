@@ -18,7 +18,7 @@
       "value" : "Thanks again to @carolgilabert.me and @thomglenn.netlify.app for their very thoughtful birthday present - I am very much a cat dad so this is such a great present!\n\nPS - I use Arch"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/q5aax",
   "tags" : [ "birthday" ],
   "client_id" : "https://indigenous.realize.be"

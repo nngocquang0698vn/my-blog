@@ -18,7 +18,7 @@
       "value" : "Time for another <a href=\"/tags/coronavirus-haircut/\">#CoronavirusHaircut</a>, although this time it's not been quite as long - @annadodson.co.uk was surprised to be able to see my ears again!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/zdopz",
   "tags" : [ "coronavirus-haircut" ],
   "client_id" : "https://www-editor.jvt.me"

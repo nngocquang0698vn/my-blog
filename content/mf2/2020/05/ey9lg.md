@@ -15,7 +15,7 @@
       "value" : "@annadodson.co.uk and I made an awesome <a href=\"/tags/gousto/\">#Gousto</a> meal tonight"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/ey9lg",
   "tags" : [ "food", "gousto" ],
   "client_id" : "https://indigenous.realize.be"

@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is having a big nap now so he's able to attend the whole of <a href=\"/tags/wit-notts/\">#WiTNotts</a> tonight - he's usually too sleepy from a day on the sofa to make it to the event!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/brkye",
   "tags" : [ "morph", "wit-notts" ],
   "client_id" : "https://www-editor.jvt.me"

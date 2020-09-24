@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is enjoying a sleepy <a href=\"/tags/caturday/\">#caturday</a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/yoc1l",
   "tags" : [ "morph", "caturday" ],
   "client_id" : "https://indigenous.realize.be"

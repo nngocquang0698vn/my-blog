@@ -21,7 +21,7 @@
       "value" : "A Saturday afternoon story in three parts"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/yptkm",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

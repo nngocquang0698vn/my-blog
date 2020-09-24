@@ -15,7 +15,7 @@
       "value" : "Been a good <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham - thanks for joining, folks!<a class=\"u-mention\" href=\"https://events.indieweb.org/2020/06/online-homebrew-website-club-nottingham-hSxvQepCBqQl\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/8p3xw",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://quill.p3k.io/"

@@ -15,7 +15,7 @@
       "value" : "A slightly quiet <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham - but I managed to make some headway into a Micropub client for my site<a class=\"u-mention\" href=\"https://events.indieweb.org/2020/06/online-homebrew-website-club-nottingham-LrUgUvSF1Z23\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/tlnej",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://www-editor.jvt.me"

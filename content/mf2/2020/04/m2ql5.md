@@ -18,7 +18,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> mustache you a question"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/m2ql5",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

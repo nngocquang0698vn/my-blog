@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is all tuckered out from me trying to give him more love than he wanted this evening 😅"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/nl03x",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

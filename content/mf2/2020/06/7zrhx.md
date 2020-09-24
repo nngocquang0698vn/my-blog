@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has had a busy morning outside, but is now enjoying being in snuggle valley 😻"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/7zrhx",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

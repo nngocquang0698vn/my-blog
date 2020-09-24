@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is having the best time this morning"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/vii4a",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

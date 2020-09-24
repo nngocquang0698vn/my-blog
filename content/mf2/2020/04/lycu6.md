@@ -15,7 +15,7 @@
       "value" : "😴"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/lycu6",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

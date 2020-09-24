@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/02/bjy2e",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-02-17T21:55:00Z",

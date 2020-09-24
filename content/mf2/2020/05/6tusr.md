@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> as feeling particularly flopsy this morning"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/6tusr",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

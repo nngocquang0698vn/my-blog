@@ -15,7 +15,7 @@
       "value" : "I may be late to <a href=\"/tags/tech-nottingham/\">#TechNott</a> tonight, <a href=\"/tags/morph/\">#Morph</a> has taken my hand hostage"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/8k7lo",
   "tags" : [ "tech-nottingham", "morph" ],
   "client_id" : "https://indigenous.realize.be"

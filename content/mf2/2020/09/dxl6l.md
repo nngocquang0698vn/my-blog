@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is being super cute so we consider not moving him before we go out for the afternoon"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/dxl6l",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

@@ -15,7 +15,7 @@
       "value" : "Been a good <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham - mixed success at our various projects, but nice to see folks (virtually)"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/dhrdl",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://quill.p3k.io/"

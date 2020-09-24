@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/04/skboh",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-04-06T17:03:00+01:00",

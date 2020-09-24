@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is like his daddy today, very 😴"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/kslhg",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

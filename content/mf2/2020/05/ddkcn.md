@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided he wants cuddles in bed"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/ddkcn",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/03/1gewz",
   "client_id": "https://quill.p3k.io/",
   "date": "2020-03-18T19:16:45.543+01:00",

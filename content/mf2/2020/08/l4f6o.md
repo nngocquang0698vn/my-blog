@@ -21,7 +21,7 @@
       "value" : "I've just received a (somewhat) surprise present from work for my promotion! Yet another lovely insight into the awesome folks who make <a href=\"/tags/capital-one/\">#LifeAtCapitalOne</a> special"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/l4f6o",
   "tags" : [ "capital-one" ],
   "client_id" : "https://www-editor.jvt.me"

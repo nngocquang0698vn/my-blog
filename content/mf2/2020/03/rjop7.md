@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/03/rjop7",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-03-31T22:15:00+01:00",

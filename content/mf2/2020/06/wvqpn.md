@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is not happy with this chilly weather"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/wvqpn",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

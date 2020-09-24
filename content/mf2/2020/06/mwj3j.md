@@ -15,7 +15,7 @@
       "value" : "Nothing like a snuggle with <a href=\"/tags/morph/\">#Morph</a> after a long day"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/mwj3j",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

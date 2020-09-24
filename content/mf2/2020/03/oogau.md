@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/03/oogau",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-03-14T13:07:00Z",
