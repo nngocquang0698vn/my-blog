@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alicegoldfuss/status/1309212224334954496" ],
     "name" : [ "Like of @alicegoldfuss's tweet" ],
     "published" : [ "2020-09-24T21:01:00+0100" ],
     "category" : [ "ethics" ],
