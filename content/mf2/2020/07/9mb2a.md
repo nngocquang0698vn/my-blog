@@ -15,7 +15,7 @@
       "value" : "Hey everyone, I've solved the biggest issue of the day. Y'all no longer need to worry, it's all good. <a href=\"/tags/morph/\">#Morph</a> is no longer chilly"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/9mb2a",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

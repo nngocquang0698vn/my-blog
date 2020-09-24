@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/03/bgv3d",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-03-19T10:29:00Z",

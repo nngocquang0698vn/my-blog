@@ -15,7 +15,7 @@
       "value" : "Thanks for those coming to <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham - sorry for joining a bit late, but sounds like we had some good progress with everyone's projects <a class=\"u-mention\" href=\"https://events.indieweb.org/2020/08/online-homebrew-website-club-nottingham-qZ0U2nBYUpZT\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/engdi",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://www-editor.jvt.me"

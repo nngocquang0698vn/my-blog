@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided I'm not allowed to go back to work today"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/hyauy",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

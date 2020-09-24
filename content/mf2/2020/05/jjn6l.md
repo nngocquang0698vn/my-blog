@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is trying hard to stop us going to bed"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/jjn6l",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

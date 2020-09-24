@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/04/8ppjg",
   "client_id": "https://gimme-a-token.5eb.nl/",
   "date": "2020-04-05T23:26:17.169+02:00",

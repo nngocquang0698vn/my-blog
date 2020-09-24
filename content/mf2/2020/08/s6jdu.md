@@ -15,7 +15,7 @@
       "value" : "You had me worried there, <a href=\"/tags/gousto/\">#Gousto</a>, I thought I'd chosen some bad meals!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/s6jdu",
   "tags" : [ "gousto" ],
   "client_id" : "https://www-editor.jvt.me"

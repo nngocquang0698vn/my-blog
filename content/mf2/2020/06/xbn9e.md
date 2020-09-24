@@ -15,7 +15,7 @@
       "value" : "Pictured here - <a href=\"/tags/morph/\">#Morph</a> hiding his face so I can't tickle his nose 💔"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/xbn9e",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

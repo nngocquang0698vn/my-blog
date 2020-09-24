@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> thinks it's a bit bright this morning"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/scjdq",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

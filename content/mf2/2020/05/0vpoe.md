@@ -21,7 +21,7 @@
       "value" : "This afternoon @annadodson.co.uk helped with a second <a href=\"/tags/coronavirus-haircut/\">#CoronavirusHaircut</a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/0vpoe",
   "tags" : [ "coronavirus", "coronavirus-haircut" ],
   "client_id" : "https://indigenous.realize.be"

@@ -15,7 +15,7 @@
       "value" : "Hello Orange Site!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/ooe29",
   "tags" : [ ],
   "client_id" : "https://www-editor.jvt.me"

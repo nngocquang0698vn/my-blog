@@ -27,7 +27,7 @@
   "tags": [
     "morph"
   ],
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/04/y7efl",
   "client_id": "https://indigenous.realize.be"
 }

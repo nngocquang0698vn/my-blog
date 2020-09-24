@@ -15,7 +15,7 @@
       "value" : "Happy <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> from Nottingham, with @carolgilabert.me @www.aimes.me.uk and @annadodson.co.uk"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/5zhbj",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://indigenous.realize.be"

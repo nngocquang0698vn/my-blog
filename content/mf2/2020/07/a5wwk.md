@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is settled in and really enjoying the <a href=\"/tags/capital-one/\">#LifeAtCapitalOne</a> (remote) summer party with @annadodson.co.uk and I this evening"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/a5wwk",
   "tags" : [ "morph", "capital-one" ],
   "client_id" : "https://indigenous.realize.be"

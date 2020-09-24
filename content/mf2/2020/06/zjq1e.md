@@ -18,7 +18,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> decided this afternoon to recap @deniseyu.io's containers joke at <a href=\"/tags/wit-notts/\">#WiTNotts</a> on Thursday"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/zjq1e",
   "tags" : [ "morph", "wit-notts" ],
   "client_id" : "https://indigenous.realize.be"

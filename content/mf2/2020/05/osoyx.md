@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is enjoying a nap in the warmth of the bedroom"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/osoyx",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

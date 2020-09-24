@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is having a great day"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/wq5nm",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

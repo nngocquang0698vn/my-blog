@@ -1,5 +1,5 @@
 {
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/03/upmql",
   "client_id": "https://indigenous.realize.be",
   "date": "2020-03-21T15:11:00Z",

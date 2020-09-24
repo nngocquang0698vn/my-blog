@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided he doesn't want me to do any work today"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/kl9pe",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

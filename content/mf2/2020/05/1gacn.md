@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is enjoying a little nap, listening into the <a href=\"/tags/tech-nottingham/\">#TechNott</a> <a href=\"/tags/animal-crossing/\">#AnimalCrossing</a> morning <a href=\"/tags/acnh/\">#acnh</a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/1gacn",
   "tags" : [ "morph", "tech-nottingham", "animal-crossing", "acnh" ],
   "client_id" : "https://indigenous.realize.be"

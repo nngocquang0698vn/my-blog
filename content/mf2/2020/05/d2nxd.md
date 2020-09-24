@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is all tuckered out from his morning nap"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/d2nxd",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

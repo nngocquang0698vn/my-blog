@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is being super cute tonight"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/7wokt",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

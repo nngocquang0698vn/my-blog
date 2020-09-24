@@ -15,7 +15,7 @@
       "value" : "So @annadodson.co.uk asked me earlier why, in the heat of the day, I was wrapped in a blanket. <a href=\"/tags/morph/\">#Morph</a> is why. Look at this little cutie"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/sclic",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

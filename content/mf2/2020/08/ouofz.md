@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has been struggling with the heat today, but having a damp tea towel to lie on has helped"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/ouofz",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

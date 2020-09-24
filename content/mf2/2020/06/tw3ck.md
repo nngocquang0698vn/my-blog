@@ -21,7 +21,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has been giving us some post <a href=\"/tags/tech-nottingham/\">#TechNott</a> cuddles ☺"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/tw3ck",
   "tags" : [ "morph", "tech-nottingham" ],
   "client_id" : "https://indigenous.realize.be"

@@ -15,7 +15,7 @@
       "value" : "Y'all better be jealous of my jazzy new trainers for <a href=\"/tags/ring-fit-adventures/\">#RingFitAdventures</a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/esijd",
   "tags" : [ "ring-fit-adventures" ],
   "client_id" : "https://www-editor.jvt.me"

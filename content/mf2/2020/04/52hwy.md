@@ -24,7 +24,7 @@
       }
     ]
   },
-  "kind": "notes",
+  "kind": "photos",
   "slug": "2020/04/52hwy",
   "tags": [
     "morph"

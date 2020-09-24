@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is loving life"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/04/ghpts",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

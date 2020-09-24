@@ -20,7 +20,7 @@
       "value" : "Well @annadodson.co.uk and I had a lovely afternoon at the Arboretum this afternoon - felt a bit like being back to normal, although it was a shame that the rain cut the afternoon short!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/vetqe",
   "client_id" : "https://www-editor.jvt.me"
 }

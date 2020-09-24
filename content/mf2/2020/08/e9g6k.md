@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is my spirit animal"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/e9g6k",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

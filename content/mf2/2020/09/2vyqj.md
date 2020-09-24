@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is having just the best nap today"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/2vyqj",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

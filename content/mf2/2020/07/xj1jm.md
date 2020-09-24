@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> had such a difficult day today with this heat!"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/xj1jm",
   "tags" : [ "morph" ],
   "client_id" : "https://www-editor.jvt.me"

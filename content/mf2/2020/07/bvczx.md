@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has decided he wants to nap where it's cool and safe, today"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/bvczx",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

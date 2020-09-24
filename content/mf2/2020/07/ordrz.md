@@ -15,7 +15,7 @@
       "value" : "Been a great <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham tonight, we even had pets attending!<a class=\"u-mention\" href=\"https://events.indieweb.org/2020/07/online-homebrew-website-club-nottingham-xZ25kFM3qUYx\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/07/ordrz",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://www-editor.jvt.me"

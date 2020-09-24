@@ -15,7 +15,7 @@
       "value" : "Thanks for those coming to <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham - a productive session, and we played around with live Closed Captioning courtesy of @technottingham.com <a class=\"u-mention\" href=\"https://events.indieweb.org/2020/09/homebrew-website-club-nottingham-WAiW57QjvHe2\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/tnphh",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://www-editor.jvt.me"

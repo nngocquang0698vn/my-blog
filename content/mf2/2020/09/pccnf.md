@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> also very much enjoyed being snuggled up with @annadodson.co.uk earlier"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/pccnf",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

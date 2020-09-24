@@ -24,7 +24,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> very much enjoys us having tuna for lunch as it means he gets some"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/05/q7pva",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

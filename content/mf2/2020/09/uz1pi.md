@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> is starting the day off well with some naps 🥰"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/09/uz1pi",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"

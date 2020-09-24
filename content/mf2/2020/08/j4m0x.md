@@ -15,7 +15,7 @@
       "value" : "Thanks for those coming to <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> Nottingham tonight! <a class=\"u-mention\" href=\"https://events.indieweb.org/2020/08/homebrew-website-club-nottingham-yPtwtlpRRU0p\"></a>"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/08/j4m0x",
   "tags" : [ "homebrew-website-club" ],
   "client_id" : "https://www-editor.jvt.me"

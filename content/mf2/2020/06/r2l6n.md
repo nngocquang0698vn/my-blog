@@ -15,7 +15,7 @@
       "value" : "<a href=\"/tags/morph/\">#Morph</a> has the right idea today"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/r2l6n",
   "tags" : [ "morph" ],
   "client_id" : "https://quill.p3k.io/"

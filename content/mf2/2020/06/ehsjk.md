@@ -15,7 +15,7 @@
       "value" : "I don't know how <a href=\"/tags/morph/\">#Morph</a> can be this flexible"
     } ]
   },
-  "kind" : "notes",
+  "kind" : "photos",
   "slug" : "2020/06/ehsjk",
   "tags" : [ "morph" ],
   "client_id" : "https://indigenous.realize.be"
