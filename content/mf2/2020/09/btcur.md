@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/aaronpk/Quill/issues/132" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/aaronpk/Quill/issues/132#issuecomment-698195043" ],
     "name" : [ "Reply to https://github.com/aaronpk/Quill/issues/132" ],
     "published" : [ "2020-09-24T08:12:26.259Z" ],
     "content" : [ {
