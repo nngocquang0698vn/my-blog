@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oecampbell/status/1309571974268583938" ],
     "name" : [ "Like of @oecampbell's tweet" ],
     "published" : [ "2020-09-25T23:45:00+0100" ],
     "category" : [ "devopsdays" ],
