@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nickijones71/status/1309069203014594560" ],
     "name" : [ "Like of @nickijones71's tweet" ],
     "published" : [ "2020-09-25T23:47:00+0100" ],
     "category" : [ "politics" ],
