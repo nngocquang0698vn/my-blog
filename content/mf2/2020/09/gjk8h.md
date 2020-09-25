@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/royvanrijn/status/1309373324435353600" ],
     "name" : [ "Like of @royvanrijn's tweet" ],
     "published" : [ "2020-09-25T07:54:00+0100" ],
     "category" : [ "testing" ],
