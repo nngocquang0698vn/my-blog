@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/racheldenav/status/1309164444656775168" ],
     "name" : [ "Like of @racheldenav's tweet" ],
     "published" : [ "2020-09-25T08:43:00+0100" ],
     "like-of" : [ "https://twitter.com/racheldenav/status/1309164444656775168" ],
