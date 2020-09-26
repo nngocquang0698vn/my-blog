@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aroradrn/status/1309767296186028032" ],
     "name" : [ "Like of @aroradrn's tweet" ],
     "published" : [ "2020-09-26T17:45:00+0100" ],
     "like-of" : [ "https://twitter.com/aroradrn/status/1309767296186028032" ],
