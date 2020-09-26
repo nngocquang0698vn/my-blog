@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pete_codes/status/1309767145543340032" ],
     "name" : [ "Like of @pete_codes's tweet" ],
     "published" : [ "2020-09-26T15:48:00+0100" ],
     "category" : [ "guys" ],
