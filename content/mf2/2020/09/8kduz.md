@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/PHPMinds/status/1309931866586337283" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1309935240031481857" ],
     "name" : [ "Reply to https://twitter.com/PHPMinds/status/1309931866586337283" ],
     "published" : [ "2020-09-26T20:08:00+0100" ],
     "category" : [ "hacktoberfest" ],
