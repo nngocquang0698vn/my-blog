@@ -1,0 +1,46 @@
+{
+  "date" : "2020-09-26T15:55:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @annwitbrock's tweet" ],
+    "published" : [ "2020-09-26T15:55:00+0100" ],
+    "like-of" : [ "https://twitter.com/annwitbrock/status/1309813824762060805" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/j1xh1",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1309813824762060805" ],
+      "url" : [ "https://twitter.com/annwitbrock/status/1309813824762060805" ],
+      "published" : [ "2020-09-26T11:15:25+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/garyshort/status/1309810115403448322" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:annwitbrock" ],
+          "numeric-id" : [ "14367689" ],
+          "name" : [ "E-quipper - grateful for the mask you wear" ],
+          "nickname" : [ "annwitbrock" ],
+          "url" : [ "https://twitter.com/annwitbrock", "http://uk.linkedin.com/in/annwitbrock/" ],
+          "published" : [ "2008-04-12T07:58:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/723225904240013312/r27Hw15E.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Your beliefs aren't others' experiences.\nIt reflects an absence of inclusion in the perspective (but perhaps not intention) of the user.\nIt is uncomfortable even if it is not directly offensive.",
+        "html" : "<div style=\"white-space: pre\">Your beliefs aren't others' experiences.\nIt reflects an absence of inclusion in the perspective (but perhaps not intention) of the user.\nIt is uncomfortable even if it is not directly offensive.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/garyshort\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pete_codes\"></a>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
