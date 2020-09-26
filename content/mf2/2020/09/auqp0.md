@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoMansSky/status/1309584090908286983" ],
     "name" : [ "Like of @NoMansSky's tweet" ],
     "published" : [ "2020-09-26T17:06:00+0100" ],
     "category" : [ "gaming" ],
