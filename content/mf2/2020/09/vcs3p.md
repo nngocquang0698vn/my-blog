@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DIGIG00N/status/1309818638594183168" ],
     "name" : [ "Like of @DIGIG00N's tweet" ],
     "published" : [ "2020-09-26T23:18:00+0100" ],
     "category" : [ "tiktok" ],
