@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annwitbrock/status/1309813824762060805" ],
     "name" : [ "Like of @annwitbrock's tweet" ],
     "published" : [ "2020-09-26T15:55:00+0100" ],
     "like-of" : [ "https://twitter.com/annwitbrock/status/1309813824762060805" ],
