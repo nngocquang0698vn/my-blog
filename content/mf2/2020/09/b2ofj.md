@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Noah_Abrahams/status/1309970656231002112" ],
     "name" : [ "Like of @Noah_Abrahams's tweet" ],
     "published" : [ "2020-09-26T23:18:00+0100" ],
     "like-of" : [ "https://twitter.com/Noah_Abrahams/status/1309970656231002112" ],
