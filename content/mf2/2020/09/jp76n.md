@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheMarySue/status/1309862792191594500" ],
     "name" : [ "Like of @TheMarySue's tweet" ],
     "published" : [ "2020-09-26T16:51:00+0100" ],
     "category" : [ "cute" ],
