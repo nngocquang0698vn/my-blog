@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mariadearteaga/status/1309539587275063296" ],
     "name" : [ "Like of @mariadearteaga's tweet" ],
     "published" : [ "2020-09-26T08:09:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
