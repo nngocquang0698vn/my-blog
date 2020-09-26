@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/christinalamb/status/1309456522095796224" ],
     "name" : [ "Like of @christinalamb's tweet" ],
     "published" : [ "2020-09-26T08:09:00+0100" ],
     "category" : [ "coronavirus" ],
