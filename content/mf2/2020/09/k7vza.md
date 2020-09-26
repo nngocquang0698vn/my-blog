@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/0xfraq/status/1309891979178897410" ],
     "name" : [ "Like of @0xfraq's tweet" ],
     "published" : [ "2020-09-26T17:42:00+0100" ],
     "category" : [ "kubernetes" ],
