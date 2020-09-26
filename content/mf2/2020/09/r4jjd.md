@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamndsmith/status/1309498857483644929" ],
     "name" : [ "Like of @adamndsmith's tweet" ],
     "published" : [ "2020-09-26T16:31:00+0100" ],
     "category" : [ "shitpost" ],
