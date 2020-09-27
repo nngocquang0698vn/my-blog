@@ -1,0 +1,42 @@
+{
+  "date" : "2020-09-27T14:41:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @MrsEmma's tweet" ],
+    "published" : [ "2020-09-27T14:41:00+0100" ],
+    "category" : [ "cute" ],
+    "like-of" : [ "https://twitter.com/MrsEmma/status/1310136949550780416" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/hf8rv",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1310136949550780416" ],
+      "url" : [ "https://twitter.com/MrsEmma/status/1310136949550780416" ],
+      "published" : [ "2020-09-27T08:39:24+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:MrsEmma" ],
+          "numeric-id" : [ "19500955" ],
+          "name" : [ "Emma Seward" ],
+          "nickname" : [ "MrsEmma" ],
+          "url" : [ "https://twitter.com/MrsEmma" ],
+          "published" : [ "2009-01-25T19:32:42+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1306627007317504000/K6YXEx2-.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "On Sunday mornings we like to sit in the bedroom window and look for Audrey* 💁🏻‍♀️\n\n*Plot twist: Audrey was behind us the whole time.",
+        "html" : "<div style=\"white-space: pre\">On Sunday mornings we like to sit in the bedroom window and look for Audrey* 💁🏻‍♀️\n\n*Plot twist: Audrey was behind us the whole time.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Ei6KnGhXkAUEP0w.jpg" ]
+    }
+  },
+  "tags" : [ "cute" ],
+  "client_id" : "https://indigenous.realize.be"
+}
