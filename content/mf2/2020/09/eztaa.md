@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KR1573N/status/1309929711418642434" ],
     "name" : [ "Like of @KR1573N's tweet" ],
     "published" : [ "2020-09-27T09:53:00+0100" ],
     "category" : [ "2020" ],
