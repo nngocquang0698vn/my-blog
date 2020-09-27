@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ppinktulip/status/1309525270479552513" ],
     "name" : [ "Like of @ppinktulip's tweet" ],
     "published" : [ "2020-09-27T12:18:00+0100" ],
     "like-of" : [ "https://twitter.com/ppinktulip/status/1309525270479552513" ],
