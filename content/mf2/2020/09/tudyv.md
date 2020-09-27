@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jcbrockschmidt/status/1310069477304758272" ],
     "name" : [ "Like of @jcbrockschmidt's tweet" ],
     "published" : [ "2020-09-27T12:18:00+0100" ],
     "like-of" : [ "https://twitter.com/jcbrockschmidt/status/1310069477304758272" ],
