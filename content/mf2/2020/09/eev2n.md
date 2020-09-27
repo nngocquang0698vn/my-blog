@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yoginnnnnn/status/1307240836619317249" ],
     "name" : [ "Like of @yoginnnnnn's tweet" ],
     "published" : [ "2020-09-27T12:21:00+0100" ],
     "category" : [ "art", "cute" ],
