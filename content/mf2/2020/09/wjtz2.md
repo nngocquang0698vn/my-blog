@@ -1,0 +1,45 @@
+{
+  "date" : "2020-09-27T10:16:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @pascaldoesgo's tweet" ],
+    "published" : [ "2020-09-27T10:16:00+0100" ],
+    "like-of" : [ "https://twitter.com/pascaldoesgo/status/1309984330018627584" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/wjtz2",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1309984330018627584" ],
+      "url" : [ "https://twitter.com/pascaldoesgo/status/1309984330018627584" ],
+      "published" : [ "2020-09-26T22:32:57+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:pascaldoesgo" ],
+          "numeric-id" : [ "1003529600901767168" ],
+          "name" : [ "Pascal Dennerly" ],
+          "nickname" : [ "pascaldoesgo" ],
+          "url" : [ "https://twitter.com/pascaldoesgo", "http://github.com/dnnrly" ],
+          "published" : [ "2018-06-04T06:51:16+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1199757075561222147/eYBkMUrZ.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I made a thing in #golang! Abbreviations as a service?\n\nabbreviationist.herokuapp.com\n\nFeedback welcome. 😄",
+        "html" : "<div style=\"white-space: pre\">I made a thing in <a href=\"https://twitter.com/search?q=%23golang\">#golang</a>! Abbreviations as a service?\n\n<a href=\"https://abbreviationist.herokuapp.com\">abbreviationist.herokuapp.com</a>\n\nFeedback welcome. 😄</div>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
