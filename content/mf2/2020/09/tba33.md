@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seanmtracey/status/1310268104753246212" ],
     "name" : [ "Like of @seanmtracey's tweet" ],
     "published" : [ "2020-09-27T19:02:00+0100" ],
     "category" : [ "hackathon" ],
