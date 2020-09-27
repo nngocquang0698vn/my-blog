@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/queenbpip/status/1310001212826226689" ],
     "name" : [ "Like of @queenbpip's tweet" ],
     "published" : [ "2020-09-27T14:47:00+0100" ],
     "category" : [ "politics" ],
