@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wayneteeger/status/1310060478584897536" ],
     "name" : [ "Like of @wayneteeger's tweet" ],
     "published" : [ "2020-09-27T19:09:00+0100" ],
     "category" : [ "cute" ],
