@@ -1,0 +1,74 @@
+{
+  "date" : "2020-09-28T22:17:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @EFF's tweet" ],
+    "published" : [ "2020-09-28T22:17:00+0100" ],
+    "category" : [ "facebook", "politics" ],
+    "like-of" : [ "https://twitter.com/EFF/status/1310668686307373057" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/exsml",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1310668686307373057" ],
+      "url" : [ "https://twitter.com/EFF/status/1310668686307373057" ],
+      "published" : [ "2020-09-28T19:52:20+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:EFF" ],
+          "numeric-id" : [ "4816" ],
+          "name" : [ "EFF" ],
+          "nickname" : [ "EFF" ],
+          "url" : [ "https://twitter.com/EFF", "https://www.eff.org" ],
+          "published" : [ "2006-08-28T14:17:28+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1109145060929490945/H1RmsjEu.png" ]
+        }
+      } ],
+      "content" : [ "This was not a hack. This was not a breach. This was Facebook's systems working exactly as they were designed to work. https://t.co/ZPj90dGRXJ" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1310625842888880129" ],
+        "url" : [ "https://twitter.com/Channel4News/status/1310625842888880129" ],
+        "published" : [ "2020-09-28T17:02:05+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:Channel4News" ],
+            "numeric-id" : [ "14569869" ],
+            "name" : [ "Channel 4 News" ],
+            "nickname" : [ "Channel4News" ],
+            "url" : [ "https://twitter.com/Channel4News", "http://www.channel4.com/news" ],
+            "published" : [ "2008-04-28T14:29:37+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "United Kingdom" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "REVEALED: Trump’s election campaign wanted to deter millions of Black Americans from voting in 2016.\n\nThe ‘Deterrence’ project can be revealed after Channel 4 News obtained the database used by Trump's digital campaign team. #DeterringDemocracy\n\nchannel4.com/news/revealed-…",
+          "html" : "<div style=\"white-space: pre\">REVEALED: Trump’s election campaign wanted to deter millions of Black Americans from voting in 2016.\n\nThe ‘Deterrence’ project can be revealed after Channel 4 News obtained the database used by Trump's digital campaign team. <a href=\"https://twitter.com/search?q=%23DeterringDemocracy\">#DeterringDemocracy</a>\n\n<a href=\"https://www.channel4.com/news/revealed-trump-campaign-strategy-to-deter-millions-of-black-americans-from-voting-in-2016\">channel4.com/news/revealed-…</a></div>"
+        } ]
+      }
+    } ]
+  },
+  "tags" : [ "facebook", "politics" ],
+  "client_id" : "https://indigenous.realize.be"
+}
