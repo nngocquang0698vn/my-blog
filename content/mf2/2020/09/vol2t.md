@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soandsos/status/1310588634878406657" ],
     "name" : [ "Like of @soandsos's tweet" ],
     "published" : [ "2020-09-28T23:24:00+0100" ],
     "category" : [ "java" ],
