@@ -3,12 +3,13 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Jamie standing in the street, with his new bright purple Project Function hoodie on, smiling",
-      "value" : "https://media.jvt.me/fcd5fc609e.jpeg"
+      "photo" : "https://media.jvt.me/fcd5fc609e.jpeg"
     }, {
       "alt" : "Jamie standing in the street, looking away from the camera, with a big \"VIP Patron\" on the back of the hoodie",
-      "value" : "https://media.jvt.me/0cafb5c61f.jpeg"
+      "photo" : "https://media.jvt.me/0cafb5c61f.jpeg"
     } ],
     "published" : [ "2020-09-28T10:24:23.625Z" ],
     "category" : [ "project-function" ],
