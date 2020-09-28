@@ -1,0 +1,66 @@
+{
+  "date" : "2020-09-28T23:24:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @soandsos's tweet" ],
+    "published" : [ "2020-09-28T23:24:00+0100" ],
+    "category" : [ "java" ],
+    "like-of" : [ "https://twitter.com/soandsos/status/1310588634878406657" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/09/vol2t",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1310588634878406657" ],
+      "url" : [ "https://twitter.com/soandsos/status/1310588634878406657" ],
+      "published" : [ "2020-09-28T14:34:14+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:soandsos" ],
+          "numeric-id" : [ "16609069" ],
+          "name" : [ "Sailor Ghoul 👻✨" ],
+          "nickname" : [ "soandsos" ],
+          "url" : [ "https://twitter.com/soandsos", "https://link.chtbl.com/QXmTjK5F", "http://twitch.tv/KeroHealing" ],
+          "published" : [ "2008-10-06T02:31:06+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1305713987263365120/1XU-2mye.jpg" ]
+        }
+      } ],
+      "content" : [ "Java is a great programming language and most of the people that think Java is bad are people who don’t know how to code in it. 🥰" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1310467434520940544" ],
+        "url" : [ "https://twitter.com/tlakomy/status/1310467434520940544" ],
+        "published" : [ "2020-09-28T06:32:38+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:tlakomy" ],
+            "numeric-id" : [ "1903060381" ],
+            "name" : [ "Tomasz Łakomy" ],
+            "nickname" : [ "tlakomy" ],
+            "url" : [ "https://twitter.com/tlakomy", "https://tlakomy.com" ],
+            "published" : [ "2013-09-25T06:04:20+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Poznan, Poland" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1251913970660843520/hyH5ML2H.jpg" ]
+          }
+        } ],
+        "content" : [ "Which tech opinion you got that results in this" ],
+        "photo" : [ "https://pbs.twimg.com/media/Ei-3L1bXcAAtYm2.jpg" ]
+      }
+    } ]
+  },
+  "tags" : [ "java" ],
+  "client_id" : "https://indigenous.realize.be"
+}
