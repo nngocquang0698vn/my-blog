@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LauraKalbag/status/1310609175676948480" ],
     "name" : [ "Like of @LauraKalbag's tweet" ],
     "published" : [ "2020-09-28T17:22:00+0100" ],
     "like-of" : [ "https://twitter.com/LauraKalbag/status/1310609175676948480" ],
