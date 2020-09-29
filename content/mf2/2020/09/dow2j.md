@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophaskins/status/1310957205542383619" ],
     "name" : [ "Like of @sophaskins's tweet" ],
     "published" : [ "2020-09-29T23:21:00+0100" ],
     "like-of" : [ "https://twitter.com/sophaskins/status/1310957205542383619" ],
