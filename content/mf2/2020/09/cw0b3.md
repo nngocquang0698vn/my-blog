@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/luulubuu/status/1310650207986683907" ],
     "name" : [ "Like of @luulubuu's tweet" ],
     "published" : [ "2020-09-29T23:26:00+0100" ],
     "like-of" : [ "https://twitter.com/luulubuu/status/1310650207986683907" ],
