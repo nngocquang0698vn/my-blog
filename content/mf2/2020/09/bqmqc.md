@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoraDotCodes/status/1310978402191659008" ],
     "name" : [ "Like of @NoraDotCodes's tweet" ],
     "published" : [ "2020-09-29T19:21:00+0100" ],
     "like-of" : [ "https://twitter.com/NoraDotCodes/status/1310978402191659008" ],
