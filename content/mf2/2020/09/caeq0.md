@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1311322541932318722" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2020-09-30T19:34:00+0100" ],
     "category" : [ "hacktoberfest" ],
