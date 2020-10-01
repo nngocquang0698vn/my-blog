@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1311794533689159682" ],
     "photo" : [ {
       "alt" : "Astronaut meme - \"Hacktoberfest 2020\" is over the Earth. Astronaut 1 says \"Wait, Open Source is just for the free T-shirt?\" Astronaut 2 says \"Always has been...\"",
       "photo" : "https://media.jvt.me/c70f10d114.png"
