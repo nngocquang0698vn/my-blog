@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joeldevivre/status/1311587215408066560" ],
     "name" : [ "Like of @joeldevivre's tweet" ],
     "published" : [ "2020-10-01T20:52:00+0100" ],
     "like-of" : [ "https://twitter.com/joeldevivre/status/1311587215408066560" ],
