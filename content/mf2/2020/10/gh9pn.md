@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1311626318694539264" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2020-10-01T13:08:00+0100" ],
     "category" : [ "hacktoberfest" ],
