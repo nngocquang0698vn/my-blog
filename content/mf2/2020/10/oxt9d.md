@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/FusionAuth/fusionauth-jwt/issues/23" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/FusionAuth/fusionauth-jwt/issues/23#issuecomment-702289818" ],
     "name" : [ "Reply to https://github.com/FusionAuth/fusionauth-jwt/issues/23" ],
     "published" : [ "2020-10-01T17:31:22.194Z" ],
     "content" : [ {
