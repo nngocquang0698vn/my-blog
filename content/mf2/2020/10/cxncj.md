@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1311768634998611969" ],
     "published" : [ "2020-10-01T21:37:00+0100" ],
     "category" : [ "auth0", "hackference" ],
     "post-status" : [ "published" ],
