@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarisaCodes/status/1311746146843471878" ],
     "name" : [ "Like of @MarisaCodes's tweet" ],
     "published" : [ "2020-10-01T20:28:00+0100" ],
     "category" : [ "hacktoberfest" ],
