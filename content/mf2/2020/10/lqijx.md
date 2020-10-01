@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1311792002359492609" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-10-01T23:33:00+0100" ],
     "category" : [ "miscarriage" ],
