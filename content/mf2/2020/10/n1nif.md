@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/10/nvrks/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1311647753169252357" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/10/nvrks/" ],
     "published" : [ "2020-10-01T13:38:00+0100" ],
     "post-status" : [ "published" ],
