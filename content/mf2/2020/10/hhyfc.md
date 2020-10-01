@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JessPWhite/status/1311753999792697345" ],
     "name" : [ "Like of @JessPWhite's tweet" ],
     "published" : [ "2020-10-01T20:45:00+0100" ],
     "category" : [ "hacktoberfest" ],
