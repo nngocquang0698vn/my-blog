@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joshghent/status/1312135377193373696" ],
     "name" : [ "Like of @joshghent's tweet" ],
     "published" : [ "2020-10-02T22:41:00+0100" ],
     "like-of" : [ "https://twitter.com/joshghent/status/1312135377193373696" ],
