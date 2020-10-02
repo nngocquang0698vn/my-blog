@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamj89/status/1311991287277592576" ],
     "name" : [ "Like of @adamj89's tweet" ],
     "published" : [ "2020-10-02T12:59:00+0100" ],
     "category" : [ "hacktoberfest" ],
