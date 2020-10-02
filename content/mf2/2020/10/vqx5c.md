@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pascaldoesgo/status/1311799941791133697" ],
     "name" : [ "Like of @pascaldoesgo's tweet" ],
     "published" : [ "2020-10-02T07:47:00+0100" ],
     "category" : [ "hacktoberfest" ],
