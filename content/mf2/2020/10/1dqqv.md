@@ -1,0 +1,78 @@
+{
+  "date" : "2020-10-02T12:59:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @adamj89's tweet" ],
+    "published" : [ "2020-10-02T12:59:00+0100" ],
+    "category" : [ "hacktoberfest" ],
+    "like-of" : [ "https://twitter.com/adamj89/status/1311991287277592576" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/1dqqv",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1311991287277592576" ],
+      "url" : [ "https://twitter.com/adamj89/status/1311991287277592576" ],
+      "published" : [ "2020-10-02T11:27:53+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:adamj89" ],
+          "numeric-id" : [ "20106700" ],
+          "name" : [ "Adam Jackson 🥑✨" ],
+          "nickname" : [ "adamj89" ],
+          "url" : [ "https://twitter.com/adamj89" ],
+          "published" : [ "2009-02-04T23:35:22+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Berkshire, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268622218247929858/kRVvHnij.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "💛 A huge thank you to the guests on yesterday's #CloudSkills @Hacktoberfest Special - you can watch the episode now on aka.ms/cs-s2e1 where all the links and resources are also listed.\n\n✨ @FloorDrees @pete_codes @JessPWhite @anna_hax @JamieTanna @ixek @CPorteous @pauby https://t.co/V1aC8v3igg",
+        "html" : "<div style=\"white-space: pre\">💛 A huge thank you to the guests on yesterday's <a href=\"https://twitter.com/search?q=%23CloudSkills\">#CloudSkills</a> <a href=\"https://twitter.com/hacktoberfest\">@Hacktoberfest</a> Special - you can watch the episode now on <a href=\"http://aka.ms/cs-s2e1\">aka.ms/cs-s2e1</a> where all the links and resources are also listed.\n\n✨ <a href=\"https://twitter.com/FloorDrees\">@FloorDrees</a> <a href=\"https://twitter.com/pete_codes\">@pete_codes</a> <a href=\"https://twitter.com/JessPWhite\">@JessPWhite</a> <a href=\"https://twitter.com/anna_hax\">@anna_hax</a> <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> <a href=\"https://twitter.com/ixek\">@ixek</a> <a href=\"https://twitter.com/CPorteous\">@CPorteous</a> <a href=\"https://twitter.com/pauby\">@pauby</a> https://t.co/V1aC8v3igg</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EjUg4Y4XsAEH90E.jpg" ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1311753999792697345" ],
+        "url" : [ "https://twitter.com/JessPWhite/status/1311753999792697345" ],
+        "published" : [ "2020-10-01T19:44:59+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:JessPWhite" ],
+            "numeric-id" : [ "3021209961" ],
+            "name" : [ "Jessica White 🦎" ],
+            "nickname" : [ "JessPWhite" ],
+            "url" : [ "https://twitter.com/JessPWhite", "https://jesswhite.co.uk" ],
+            "published" : [ "2015-02-06T10:02:36+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Nottingham" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1309241352018898955/ollnIMjt.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "Today I had the absolute pleasure of joining @adamj89, @FloorDrees, @pete_codes, @anna_hax, @JamieTanna, @ixek, @CPorteous and @pauby on Episode 1 Season 2 of #TheCloudSkillsShow.\n\nWe talked about @hacktoberfest and @MS_Ignite. \n\nCheck it out here: dev.to/azure/the-clou…",
+          "html" : "<div style=\"white-space: pre\">Today I had the absolute pleasure of joining <a href=\"https://twitter.com/adamj89\">@adamj89</a>, <a href=\"https://twitter.com/FloorDrees\">@FloorDrees</a>, <a href=\"https://twitter.com/pete_codes\">@pete_codes</a>, <a href=\"https://twitter.com/anna_hax\">@anna_hax</a>, <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a>, <a href=\"https://twitter.com/ixek\">@ixek</a>, <a href=\"https://twitter.com/CPorteous\">@CPorteous</a> and <a href=\"https://twitter.com/pauby\">@pauby</a> on Episode 1 Season 2 of <a href=\"https://twitter.com/search?q=%23TheCloudSkillsShow\">#TheCloudSkillsShow</a>.\n\nWe talked about <a href=\"https://twitter.com/hacktoberfest\">@hacktoberfest</a> and <a href=\"https://twitter.com/MS_Ignite\">@MS_Ignite</a>. \n\nCheck it out here: <a href=\"https://dev.to/azure/the-cloud-skills-show-series-2-episode-1-hacktoberfest-16np\">dev.to/azure/the-clou…</a></div>"
+        } ]
+      }
+    } ]
+  },
+  "tags" : [ "hacktoberfest" ],
+  "client_id" : "https://indigenous.realize.be"
+}
