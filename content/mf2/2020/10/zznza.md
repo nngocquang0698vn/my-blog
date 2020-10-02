@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/markhumphries/status/1311903563174436864" ],
     "name" : [ "Like of @markhumphries's tweet" ],
     "published" : [ "2020-10-02T10:12:00+0100" ],
     "category" : [ "politics", "coronavirus", "shitpost" ],
