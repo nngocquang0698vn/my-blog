@@ -1,0 +1,48 @@
+{
+  "date" : "2020-10-02T10:16:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @munyachawawa's tweet" ],
+    "published" : [ "2020-10-02T10:16:00+0100" ],
+    "category" : [ "diversity-and-inclusion" ],
+    "like-of" : [ "https://twitter.com/munyachawawa/status/1311353453025820677" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/y0fxh",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1311353453025820677" ],
+      "url" : [ "https://twitter.com/munyachawawa/status/1311353453025820677" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1311353342950551552/pu/vid/720x900/3zQnWHqN3PFt5mC5.mp4?tag=10" ],
+      "published" : [ "2020-09-30T17:13:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:munyachawawa" ],
+          "numeric-id" : [ "838941253" ],
+          "name" : [ "Munya Chawawa" ],
+          "nickname" : [ "munyachawawa" ],
+          "url" : [ "https://twitter.com/munyachawawa", "https://www.storyofmoxie.com/munya-chawawa" ],
+          "published" : [ "2012-09-22T02:29:49+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1169289815092879361/uJj5FtKV.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Royal Mail coming up with their Black Postboxes 📮🤦🏽‍♂️ \n\n#BlackHistoryMonth",
+        "html" : "<div style=\"white-space: pre\">Royal Mail coming up with their Black Postboxes 📮🤦🏽‍♂️ \n\n<a href=\"https://twitter.com/search?q=%23BlackHistoryMonth\">#BlackHistoryMonth</a></div>"
+      } ]
+    }
+  },
+  "tags" : [ "diversity-and-inclusion" ],
+  "client_id" : "https://indigenous.realize.be"
+}
