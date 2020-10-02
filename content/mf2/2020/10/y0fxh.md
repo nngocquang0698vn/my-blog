@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/munyachawawa/status/1311353453025820677" ],
     "name" : [ "Like of @munyachawawa's tweet" ],
     "published" : [ "2020-10-02T10:16:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
