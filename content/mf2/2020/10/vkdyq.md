@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/EmmaBostian/status/1312313060162445312" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1312351497854873606" ],
     "name" : [ "Reply to https://twitter.com/EmmaBostian/status/1312313060162445312" ],
     "published" : [ "2020-10-03T12:14:00+0100" ],
     "post-status" : [ "published" ],
