@@ -1,0 +1,84 @@
+{
+  "date" : "2020-10-03T09:54:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @loveinheadscarf's tweet" ],
+    "published" : [ "2020-10-03T09:54:00+0100" ],
+    "category" : [ "politics", "coronavirus" ],
+    "like-of" : [ "https://twitter.com/loveinheadscarf/status/1312121332159541249" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/tkrzn",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1312121332159541249" ],
+      "url" : [ "https://twitter.com/loveinheadscarf/status/1312121332159541249" ],
+      "published" : [ "2020-10-02T20:04:38+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:loveinheadscarf" ],
+          "numeric-id" : [ "20982835" ],
+          "name" : [ "Shelina Janmohamed" ],
+          "nickname" : [ "loveinheadscarf" ],
+          "url" : [ "https://twitter.com/loveinheadscarf", "http://www.shelinajanmohamed.co.uk" ],
+          "published" : [ "2009-02-16T13:01:39+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/939494559603744768/-JZh9ZKO.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Well, that’s what Muslims were told. And at 9pm the night before Eid when all the cooking was prepped and the gifts were bought. Eid was cancelled.",
+        "html" : "Well, that’s what Muslims were told. And at 9pm the night before Eid when all the cooking was prepped and the gifts were bought. Eid was cancelled.\n<a class=\"tag\" href=\"https://twitter.com/itvemmah/status/1312044577470251008\">twitter.com/itvemmah/statu…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "u-quotation-of", "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1312044577470251008" ],
+        "url" : [ "https://twitter.com/ITVEmmaH/status/1312044577470251008" ],
+        "video" : [ "https://video.twimg.com/ext_tw_video/1312043308311609344/pu/vid/1280x720/RCkZdh4QgNVhU-ty.mp4?tag=10" ],
+        "published" : [ "2020-10-02T14:59:38+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:ITVEmmaH" ],
+            "numeric-id" : [ "262707709" ],
+            "name" : [ "Emma Hutchinson" ],
+            "nickname" : [ "ITVEmmaH" ],
+            "url" : [ "https://twitter.com/ITVEmmaH", "http://www.itv.com/anglia" ],
+            "published" : [ "2011-03-08T16:00:28+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Westminster" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1190598415807332353/mfJRvYZd.jpg" ]
+          }
+        } ],
+        "content" : [ {
+          "value" : "NEW PM hints he will suspend rule of 6 at least for Xmas day, saying he wouldn't tell a family of 5 they couldn't have both grandparents round for Xmas lunch  @itvanglia",
+          "html" : "NEW PM hints he will suspend rule of 6 at least for Xmas day, saying he wouldn't tell a family of 5 they couldn't have both grandparents round for Xmas lunch  <a href=\"https://twitter.com/itvanglia\">@itvanglia</a>"
+        } ]
+      }
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/itvemmah/statu…" ],
+        "url" : [ "https://twitter.com/itvemmah/status/1312044577470251008" ]
+      }
+    } ]
+  },
+  "tags" : [ "politics", "coronavirus" ],
+  "client_id" : "https://indigenous.realize.be"
+}
