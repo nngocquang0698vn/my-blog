@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jenkinsci/jenkinsfile-runner/stargazers" ],
     "name" : [ "Like of https://github.com/jenkinsci/jenkinsfile-runner" ],
     "published" : [ "2020-10-03T09:29:28.686Z" ],
     "category" : [ "jenkins" ],
