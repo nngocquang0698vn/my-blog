@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justkelly_ok/status/1312422051802607616" ],
     "name" : [ "Like of @justkelly_ok's tweet" ],
     "published" : [ "2020-10-03T18:55:00+0100" ],
     "category" : [ "politics", "coronavirus" ],
