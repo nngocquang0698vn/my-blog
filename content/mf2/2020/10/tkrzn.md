@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/loveinheadscarf/status/1312121332159541249" ],
     "name" : [ "Like of @loveinheadscarf's tweet" ],
     "published" : [ "2020-10-03T09:54:00+0100" ],
     "category" : [ "politics", "coronavirus" ],
