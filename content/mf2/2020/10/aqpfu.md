@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1312572709952532486" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2020-10-04T10:40:00+0100" ],
     "category" : [ "gatekeeping" ],
