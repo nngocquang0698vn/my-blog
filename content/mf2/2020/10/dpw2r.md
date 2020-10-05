@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexkealy/status/1312662817946902528" ],
     "name" : [ "Like of @alexkealy's tweet" ],
     "published" : [ "2020-10-05T16:41:00+0100" ],
     "like-of" : [ "https://twitter.com/alexkealy/status/1312662817946902528" ],
