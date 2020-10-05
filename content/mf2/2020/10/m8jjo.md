@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_fenn/status/1313193113633120261" ],
     "name" : [ "Like of @katie_fenn's tweet" ],
     "published" : [ "2020-10-05T21:22:00+0100" ],
     "category" : [ "politics", "coronavirus" ],
