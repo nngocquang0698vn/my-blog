@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/everywhereist/status/1313189725650337793" ],
     "name" : [ "Like of @everywhereist's tweet" ],
     "published" : [ "2020-10-05T21:19:00+0100" ],
     "category" : [ "coronavirus", "politics" ],
