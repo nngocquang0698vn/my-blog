@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/J_Salzer/status/1312610455412789248" ],
     "name" : [ "Like of @J_Salzer's tweet" ],
     "published" : [ "2020-10-05T22:27:00+0100" ],
     "like-of" : [ "https://twitter.com/J_Salzer/status/1312610455412789248" ],
