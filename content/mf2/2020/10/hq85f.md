@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gordito_Perrito/status/1313072464524701697" ],
     "name" : [ "Like of @Gordito_Perrito's tweet" ],
     "published" : [ "2020-10-05T21:21:00+0100" ],
     "category" : [ "cute" ],
