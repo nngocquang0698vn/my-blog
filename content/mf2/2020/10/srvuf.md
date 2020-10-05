@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justkelly_ok/status/1313211931314978816" ],
     "name" : [ "Like of @justkelly_ok's tweet" ],
     "published" : [ "2020-10-05T21:20:00+0100" ],
     "like-of" : [ "https://twitter.com/justkelly_ok/status/1313211931314978816" ],
