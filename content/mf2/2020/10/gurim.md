@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1313145355979108352" ],
     "published" : [ "2020-10-05T16:42:00+0100" ],
     "category" : [ "hacktoberfest", "personal-website" ],
     "repost-of" : [ "https://twitter.com/xdesro/status/1313132050917007361" ],
