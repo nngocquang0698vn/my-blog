@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/spazef0rze/status/1313132727877726208" ],
     "name" : [ "Like of @spazef0rze's tweet" ],
     "published" : [ "2020-10-05T16:44:00+0100" ],
     "like-of" : [ "https://twitter.com/spazef0rze/status/1313132727877726208" ],
