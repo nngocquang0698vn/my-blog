@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1313303791186268160" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-10-06T09:18:00+0100" ],
     "category" : [ "interviewing" ],
