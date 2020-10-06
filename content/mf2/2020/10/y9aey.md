@@ -1,0 +1,43 @@
+{
+  "date" : "2020-10-06T19:03:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @moriahmaney's tweet" ],
+    "published" : [ "2020-10-06T19:03:00+0100" ],
+    "category" : [ "cute" ],
+    "like-of" : [ "https://twitter.com/moriahmaney/status/1313532966363164672" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/y9aey",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1313532966363164672" ],
+      "url" : [ "https://twitter.com/moriahmaney/status/1313532966363164672" ],
+      "video" : [ "https://video.twimg.com/tweet_video/EjqbQN8WkAcoTwp.mp4" ],
+      "published" : [ "2020-10-06T17:33:58+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/codeability/status/1313517331008512000" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:moriahmaney" ],
+          "numeric-id" : [ "928949262" ],
+          "name" : [ "moriah 👻" ],
+          "nickname" : [ "moriahmaney" ],
+          "url" : [ "https://twitter.com/moriahmaney", "http://moriah.dev" ],
+          "published" : [ "2012-11-06T03:59:00+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1294380517320724481/fA-I79xV.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Here's a gif of Ezra holding my hand and giving my hand kisses",
+        "html" : "Here's a gif of Ezra holding my hand and giving my hand kisses\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codeability\"></a>"
+      } ]
+    }
+  },
+  "tags" : [ "cute" ],
+  "client_id" : "https://indigenous.realize.be"
+}
