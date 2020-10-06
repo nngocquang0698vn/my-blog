@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HPC_James/status/1313536432305299456" ],
     "name" : [ "Like of @HPC_James's tweet" ],
     "published" : [ "2020-10-06T19:03:00+0100" ],
     "category" : [ "chef" ],
