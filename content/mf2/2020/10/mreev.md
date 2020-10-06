@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nutlope/status/1313355050438340613" ],
     "name" : [ "Like of @Nutlope's tweet" ],
     "published" : [ "2020-10-06T18:58:00+0100" ],
     "category" : [ "blogging" ],
