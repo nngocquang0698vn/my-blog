@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/moriahmaney/status/1313532966363164672" ],
     "name" : [ "Like of @moriahmaney's tweet" ],
     "published" : [ "2020-10-06T19:03:00+0100" ],
     "category" : [ "cute" ],
