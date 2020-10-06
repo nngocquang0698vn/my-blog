@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dumbricardo/status/1312939155161182208" ],
     "name" : [ "Like of @dumbricardo's tweet" ],
     "published" : [ "2020-10-06T22:34:00+0100" ],
     "category" : [ "cute" ],
