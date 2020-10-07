@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1313808508765327360" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-10-07T17:01:00+0100" ],
     "category" : [ "hacktoberfest" ],
