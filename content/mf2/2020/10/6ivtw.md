@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SuicidalTommy/status/1313958301969776640" ],
     "name" : [ "Like of @SuicidalTommy's tweet" ],
     "published" : [ "2020-10-07T23:05:00+0100" ],
     "like-of" : [ "https://twitter.com/SuicidalTommy/status/1313958301969776640" ],
