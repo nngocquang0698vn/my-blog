@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-07-27T13:14:09+0100
 slug: "global-gradle-task"
-image: https://media.jvt.me/44d58db1ce.png
+image: https://media.jvt.me/c25b297eaa.png
 ---
 As part of [_Configure Gradle to Allow Listing All Subproject Dependencies_]({{< ref 2020-07-27-gradle-list-all-dependencies >}}), I wanted to utilise [Gradle initscripts](https://docs.gradle.org/current/userguide/init_scripts.html) to provide a global task across all my projects.
 

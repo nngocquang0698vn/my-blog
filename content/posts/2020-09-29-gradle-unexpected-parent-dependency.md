@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-29T19:52:36+0100
 slug: "gradle-unexpected-parent-dependency"
-image: https://media.jvt.me/44d58db1ce.png
+image: https://media.jvt.me/c25b297eaa.png
 ---
 Today I was doing some Spring Boot updates, and found that updating past `2.3.1.RELEASE` resulted in the following error when trying to build in IntelliJ:
 
