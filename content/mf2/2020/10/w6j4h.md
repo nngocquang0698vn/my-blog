@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1313936558391730179" ],
     "photo" : [ {
       "alt" : "Screenshot of Andrew speaking to Joe Nash on the raise.dev livestream on Twitch about Tech Nottingham and communities",
       "photo" : "https://media.jvt.me/0493ec0084.png"
