@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DeathStarPR/status/1313289633673797632" ],
     "name" : [ "Like of @DeathStarPR's tweet" ],
     "published" : [ "2020-10-07T12:29:00+0100" ],
     "category" : [ "politics", "coronavirus", "satire" ],
