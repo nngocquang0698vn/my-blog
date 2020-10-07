@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JustInNotOut/status/1313528763196428288" ],
     "name" : [ "Like of @JustInNotOut's tweet" ],
     "published" : [ "2020-10-07T18:40:00+0100" ],
     "like-of" : [ "https://twitter.com/JustInNotOut/status/1313528763196428288" ],
