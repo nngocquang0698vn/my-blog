@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sigje/status/1313668660439867392" ],
     "name" : [ "Like of @sigje's tweet" ],
     "published" : [ "2020-10-07T18:36:00+0100" ],
     "category" : [ "chef" ],
