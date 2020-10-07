@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-07-27T13:14:09+0100
 slug: "gradle-list-all-dependencies"
-image: https://media.jvt.me/44d58db1ce.png
+image: https://media.jvt.me/c25b297eaa.png
 ---
 Every so often, I need to list the dependency tree for my Gradle projects, which doesn't work out-of-the-box when using subprojects. I [bookmarked](/mf2/2020/05/3clzz/) the great post [_Gradle tricks – display dependencies for all subprojects in multi-project build_](https://solidsoft.wordpress.com/2014/11/13/gradle-tricks-display-dependencies-for-all-subprojects-in-multi-project-build/) as I so regularly come back to it, as it solves the issue for us.
 
