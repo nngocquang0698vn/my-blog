@@ -12,7 +12,7 @@
     "category" : [ "hacktoberfest", "open-source", "tech-nottingham" ],
     "content" : [ {
       "html" : "",
-      "value" : "Watching the wonderful https://twitter.com/MrAndrew speaking on @raise.dev about @technottingham.com, <a href=\"/tags/hacktoberfest/\">#Hacktoberfest</a> and the space for community building in <a href=\"/tags/open-source/\">#OpenSource</a>"
+      "value" : "Watching the wonderful <span class=\"h-card\"><a class=\"u-url\" href=\"https://twitter.com/MrAndrew\">@MrAndrew</a></span> speaking on @raise.dev about @technottingham.com, <a href=\"/tags/hacktoberfest/\">#Hacktoberfest</a> and the space for community building in <a href=\"/tags/open-source/\">#OpenSource</a>"
     } ]
   },
   "kind" : "photos",
