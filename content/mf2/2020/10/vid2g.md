@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/avdi/status/1313894038207164421" ],
     "name" : [ "Like of @avdi's tweet" ],
     "published" : [ "2020-10-07T20:09:00+0100" ],
     "category" : [ "ruby" ],
