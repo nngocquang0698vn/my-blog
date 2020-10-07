@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ASpittel/status/1313818643764072449" ],
     "name" : [ "Like of @ASpittel's tweet" ],
     "published" : [ "2020-10-07T22:53:00+0100" ],
     "category" : [ "blogging" ],
