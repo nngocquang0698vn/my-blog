@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Random_Robbie/status/1313876863849320454" ],
     "name" : [ "Like of @Random_Robbie's tweet" ],
     "published" : [ "2020-10-07T17:36:00+0100" ],
     "like-of" : [ "https://twitter.com/Random_Robbie/status/1313876863849320454" ],
