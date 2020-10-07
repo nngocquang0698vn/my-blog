@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beep/status/1313957178747826176" ],
     "name" : [ "Like of @beep's tweet" ],
     "published" : [ "2020-10-07T23:05:00+0100" ],
     "category" : [ "facebook" ],
