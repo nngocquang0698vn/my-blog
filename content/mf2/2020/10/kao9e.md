@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1313920210966065155" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2020-10-07T22:02:00+0100" ],
     "category" : [ "tech-nottingham" ],
