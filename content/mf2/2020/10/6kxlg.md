@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gurlcode/status/1313897610982367237" ],
     "name" : [ "Like of @gurlcode's tweet" ],
     "published" : [ "2020-10-08T23:01:00+0100" ],
     "category" : [ "git" ],
