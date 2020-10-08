@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jenny__Anne/status/1314226347917672449" ],
     "name" : [ "Like of @Jenny__Anne's tweet" ],
     "published" : [ "2020-10-08T16:42:00+0100" ],
     "category" : [ "monzo" ],
