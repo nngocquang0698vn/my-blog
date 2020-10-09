@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cloudeeuhh/status/1314064725500743680" ],
     "name" : [ "Like of @cloudeeuhh's tweet" ],
     "published" : [ "2020-10-09T08:48:00+0100" ],
     "like-of" : [ "https://twitter.com/cloudeeuhh/status/1314064725500743680" ],
