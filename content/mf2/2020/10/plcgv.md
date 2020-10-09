@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/short_louise/status/1314646188768067586" ],
     "name" : [ "Like of @short_louise's tweet" ],
     "published" : [ "2020-10-09T20:19:00+0100" ],
     "like-of" : [ "https://twitter.com/short_louise/status/1314646188768067586" ],
