@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/holly/status/1314643704980873216" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2020-10-09T21:05:00+0100" ],
     "like-of" : [ "https://twitter.com/holly/status/1314643704980873216" ],
