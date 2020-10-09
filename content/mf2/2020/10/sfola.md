@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gingdottwit/status/1314604291471089664" ],
     "name" : [ "Like of @gingdottwit's tweet" ],
     "published" : [ "2020-10-09T19:06:00+0100" ],
     "category" : [ "nottingham", "food" ],
