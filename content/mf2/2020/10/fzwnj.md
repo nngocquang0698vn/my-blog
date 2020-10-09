@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MrsEmma/status/1314481905912475648" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1314560031652806656" ],
     "name" : [ "Reply to https://twitter.com/MrsEmma/status/1314481905912475648" ],
     "published" : [ "2020-10-09T14:29:00+0100" ],
     "post-status" : [ "published" ],
