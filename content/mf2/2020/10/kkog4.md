@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimmAngel/status/1314342640436023296" ],
     "name" : [ "Like of @JimmAngel's tweet" ],
     "published" : [ "2020-10-09T08:46:00+0100" ],
     "category" : [ "hacktoberfest" ],
