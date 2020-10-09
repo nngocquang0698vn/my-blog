@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AjshaReddick/status/1314248444496744453" ],
     "name" : [ "Like of @AjshaReddick's tweet" ],
     "published" : [ "2020-10-09T21:12:00+0100" ],
     "category" : [ "politics", "coronavirus" ],
