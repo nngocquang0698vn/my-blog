@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/westcoastmama_e/status/1314609102274719746" ],
     "name" : [ "Like of @westcoastmama_e's tweet" ],
     "published" : [ "2020-10-09T21:07:00+0100" ],
     "like-of" : [ "https://twitter.com/westcoastmama_e/status/1314609102274719746" ],
