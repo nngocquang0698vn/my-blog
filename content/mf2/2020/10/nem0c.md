@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/mf2/2020/10/95xos/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1314665330996805632" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2020/10/95xos/" ],
     "published" : [ "2020-10-09T21:29:00+0100" ],
     "post-status" : [ "published" ],
