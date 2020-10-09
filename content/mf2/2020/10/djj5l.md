@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CaseyNewton/status/1314302455782334464" ],
     "name" : [ "Like of @CaseyNewton's tweet" ],
     "published" : [ "2020-10-09T16:23:00+0100" ],
     "like-of" : [ "https://twitter.com/CaseyNewton/status/1314302455782334464" ],
