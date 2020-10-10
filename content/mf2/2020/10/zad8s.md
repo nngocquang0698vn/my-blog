@@ -1,0 +1,48 @@
+{
+  "date" : "2020-10-10T13:48:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @MeredithFrost's tweet" ],
+    "published" : [ "2020-10-10T13:48:00+0100" ],
+    "category" : [ "nature" ],
+    "like-of" : [ "https://twitter.com/MeredithFrost/status/1314320556121116673" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/zad8s",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1314320556121116673" ],
+      "url" : [ "https://twitter.com/MeredithFrost/status/1314320556121116673" ],
+      "published" : [ "2020-10-08T21:43:34+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:MeredithFrost" ],
+          "numeric-id" : [ "26659703" ],
+          "name" : [ "Meredith Frost" ],
+          "nickname" : [ "MeredithFrost" ],
+          "url" : [ "https://twitter.com/MeredithFrost", "http://instagram.com/meredithfrost" ],
+          "published" : [ "2009-03-26T01:55:43+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1170444233486098443/i4jCNpJM.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "This is what the northern lights look like from inside a U-2 spy plane at 70,000ft. Incredible photos by Ross Franquemont: bit.ly/2D9iR33",
+        "html" : "This is what the northern lights look like from inside a U-2 spy plane at 70,000ft. Incredible photos by Ross Franquemont: <a href=\"http://bit.ly/2D9iR33\">bit.ly/2D9iR33</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Ej1njyhX0AMaik8.jpg", "https://pbs.twimg.com/media/Ej1njyiX0AAc7nH.jpg", "https://pbs.twimg.com/media/Ej1njyhWoAAokve.jpg", "https://pbs.twimg.com/media/Ej1njyhX0AIJfEq.jpg" ]
+    }
+  },
+  "tags" : [ "nature" ],
+  "client_id" : "https://indigenous.realize.be"
+}
