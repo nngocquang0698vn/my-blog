@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ConnorJennett/status/1314826791681511424" ],
     "name" : [ "Like of @ConnorJennett's tweet" ],
     "published" : [ "2020-10-10T14:54:00+0100" ],
     "like-of" : [ "https://twitter.com/ConnorJennett/status/1314826791681511424" ],
