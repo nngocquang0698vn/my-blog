@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeffxwilcox/status/1314370167162499078" ],
     "name" : [ "Like of @jeffxwilcox's tweet" ],
     "published" : [ "2020-10-10T18:59:00+0100" ],
     "category" : [ "art" ],
