@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1315051784105328640" ],
     "published" : [ "2020-10-10T23:05:00+0100" ],
     "category" : [ "the-mandalorian" ],
     "content" : [ {
