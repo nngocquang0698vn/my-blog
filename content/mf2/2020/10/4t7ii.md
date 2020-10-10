@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SarahRoberts___/status/1314728474586873858" ],
     "name" : [ "Like of @SarahRoberts___'s tweet" ],
     "published" : [ "2020-10-10T10:53:00+0100" ],
     "like-of" : [ "https://twitter.com/SarahRoberts___/status/1314728474586873858" ],
