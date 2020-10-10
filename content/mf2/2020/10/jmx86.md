@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1314832304590774272" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2020-10-10T13:46:00+0100" ],
     "category" : [ "food" ],
