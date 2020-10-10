@@ -22,8 +22,8 @@
           "author": [
             "Timothy Zahn"
           ],
-          "isbn": [
-            "1529124018"
+          "uid": [
+            "isbn:1529124018"
           ]
         }
       }

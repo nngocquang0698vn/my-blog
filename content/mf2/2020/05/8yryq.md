@@ -22,8 +22,8 @@
           "author": [
             "James S. A. Corey"
           ],
-          "isbn": [
-            "1841499889"
+          "uid": [
+            "isbn:1841499889"
           ]
         }
       }
