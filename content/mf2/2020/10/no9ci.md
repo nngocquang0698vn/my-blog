@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jnack/status/1314755506930552833" ],
     "name" : [ "Like of @jnack's tweet" ],
     "published" : [ "2020-10-10T17:43:00+0100" ],
     "category" : [ "space" ],
