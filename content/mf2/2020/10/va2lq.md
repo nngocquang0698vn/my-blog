@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joshviney/status/1314711568458960899" ],
     "name" : [ "Like of @joshviney's tweet" ],
     "published" : [ "2020-10-10T13:46:00+0100" ],
     "like-of" : [ "https://twitter.com/joshviney/status/1314711568458960899" ],
