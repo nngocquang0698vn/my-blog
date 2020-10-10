@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MeredithFrost/status/1314320556121116673" ],
     "name" : [ "Like of @MeredithFrost's tweet" ],
     "published" : [ "2020-10-10T13:48:00+0100" ],
     "category" : [ "nature" ],
