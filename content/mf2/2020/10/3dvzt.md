@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SlavaAFilmmaker/status/1315053911699488772" ],
     "name" : [ "Like of @SlavaAFilmmaker's tweet" ],
     "published" : [ "2020-10-11T10:11:00+0100" ],
     "category" : [ "apex-legends" ],
