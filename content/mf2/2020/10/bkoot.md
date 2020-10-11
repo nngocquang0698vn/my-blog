@@ -2,6 +2,7 @@
   "deleted" : false,
   "h" : "h-measure",
   "properties" : {
+    "published" : [ "2020-10-11T08:00:03+0100" ],
     "unit" : [ "steps" ],
     "num" : [ "3934" ],
     "start" : [ "2020-10-10T00:00:00Z" ],
