@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/pascaldoesgo/status/1315057812406403073" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1315593991866519554" ],
     "name" : [ "Reply to https://twitter.com/pascaldoesgo/status/1315057812406403073" ],
     "published" : [ "2020-10-12T10:56:00+0100" ],
     "content" : [ {
