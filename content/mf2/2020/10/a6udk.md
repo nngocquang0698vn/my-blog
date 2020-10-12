@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/antonystarr/status/1315690243446763520" ],
     "name" : [ "Like of @antonystarr's tweet" ],
     "published" : [ "2020-10-12T20:51:00+0100" ],
     "category" : [ "the-boys" ],
