@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1316020113712336896" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2020-10-13T16:03:00+0100" ],
     "category" : [ "linux" ],
