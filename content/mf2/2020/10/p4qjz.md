@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/snarfed/granary/issues/212" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/snarfed/granary/issues/212#issuecomment-707673062" ],
     "name" : [ "Reply to https://github.com/snarfed/granary/issues/212" ],
     "published" : [ "2020-10-13T11:15:29.145Z" ],
     "content" : [ {
