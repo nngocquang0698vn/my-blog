@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Todd_Spence/status/1316212957349507072" ],
     "name" : [ "Like of @Todd_Spence's tweet" ],
     "published" : [ "2020-10-14T18:16:00+0100" ],
     "category" : [ "cute" ],
