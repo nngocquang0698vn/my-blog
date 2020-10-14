@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Baconbrix/status/1315999130951573504" ],
     "name" : [ "Like of @Baconbrix's tweet" ],
     "published" : [ "2020-10-14T12:15:00+0100" ],
     "like-of" : [ "https://twitter.com/Baconbrix/status/1315999130951573504" ]
