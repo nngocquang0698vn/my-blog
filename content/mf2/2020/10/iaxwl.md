@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisnova/status/1316416577365975040" ],
     "name" : [ "Like of @krisnova's tweet" ],
     "published" : [ "2020-10-14T22:34:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
