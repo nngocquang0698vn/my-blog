@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yi_ya_yi_ya_yo/status/1315900324503199745" ],
     "name" : [ "Like of @yi_ya_yi_ya_yo's tweet" ],
     "published" : [ "2020-10-14T21:21:00+0100" ],
     "category" : [ "shitpost" ],
