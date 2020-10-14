@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bigfinish/status/1316348103109337088" ],
     "name" : [ "Like of @bigfinish's tweet" ],
     "published" : [ "2020-10-14T14:47:00+0100" ],
     "category" : [ "doctor-who" ],
