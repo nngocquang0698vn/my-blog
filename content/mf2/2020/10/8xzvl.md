@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1316492489109504001" ],
     "photo" : [ {
       "alt" : "Screenshot of Jamie's editor, showing a list of post types that are configured on his staging Micropub server",
       "photo" : "https://media.jvt.me/6c71060fe4.png"
