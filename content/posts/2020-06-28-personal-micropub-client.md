@@ -64,4 +64,6 @@ Interested in the code? [Check out the initial Merge Request for the code](https
 
 I already have a number of future improvements to make which are [labelled on my public issue tracker](https://gitlab.com/jamietanna/www-api/-/issues?label_name%5B%5D=project%3Aeditor), and I'm sure now I have this capability I'll start to invest in it further.
 
-The most important of these feature requests that I'm looking at implementing is [_Autoconfigure Micropub based on supported properties_](https://gitlab.com/jamietanna/www-api/-/issues/218), which would allow my client to automagically render forms for all the content that my Micropub server supports!
+~~The most important of these feature requests that I'm looking at implementing is [_Autoconfigure Micropub based on supported properties_](https://gitlab.com/jamietanna/www-api/-/issues/218), which would allow my client to automagically render forms for all the content that my Micropub server supports!~~
+
+Update: I've [now added this support]({{< ref 2020-10-15-micropub-client-autoconfigure >}}).
