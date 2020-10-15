@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShaStepter/status/1316054993955299330" ],
     "name" : [ "Like of @ShaStepter's tweet" ],
     "published" : [ "2020-10-15T11:03:00+0100" ],
     "like-of" : [ "https://twitter.com/ShaStepter/status/1316054993955299330" ]
