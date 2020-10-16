@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/curtiseinsmann/status/1317149417330364421" ],
     "name" : [ "Like of @curtiseinsmann's tweet" ],
     "published" : [ "2020-10-16T21:44:00+0100" ],
     "category" : [ "code-review" ],
