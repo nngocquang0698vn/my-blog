@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whoisgraham/status/1317083227786518528" ],
     "name" : [ "Like of @whoisgraham's tweet" ],
     "published" : [ "2020-10-16T14:40:00+0100" ],
     "like-of" : [ "https://twitter.com/whoisgraham/status/1317083227786518528" ]
