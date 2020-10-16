@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/tomlinson_dante/status/1316853593824206848" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1316900681660440576" ],
     "name" : [ "Reply to https://twitter.com/tomlinson_dante/status/1316853593824206848" ],
     "published" : [ "2020-10-15T22:31:00+0100" ],
     "content" : [ {
