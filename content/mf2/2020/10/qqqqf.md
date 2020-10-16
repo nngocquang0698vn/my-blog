@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/leannekmho/status/1316763464661110788" ],
     "name" : [ "Like of @leannekmho's tweet" ],
     "published" : [ "2020-10-16T14:46:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
