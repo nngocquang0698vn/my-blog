@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/16pxl/status/1317185147666452480" ],
     "name" : [ "Like of @16pxl's tweet" ],
     "published" : [ "2020-10-16T22:44:00+0100" ],
     "category" : [ "art" ],
