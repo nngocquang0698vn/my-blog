@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlMcAlMcAl/status/1317157091866562560" ],
     "name" : [ "Like of @AlMcAlMcAl's tweet" ],
     "published" : [ "2020-10-16T20:03:00+0100" ],
     "like-of" : [ "https://twitter.com/AlMcAlMcAl/status/1317157091866562560" ]
