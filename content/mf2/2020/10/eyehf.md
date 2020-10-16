@@ -1,0 +1,43 @@
+{
+  "date" : "2020-10-16T22:46:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @freezydorito's tweet" ],
+    "published" : [ "2020-10-16T22:46:00+0100" ],
+    "category" : [ "coronavirus" ],
+    "like-of" : [ "https://twitter.com/freezydorito/status/1317210415676465155" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/eyehf",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1317210415676465155" ],
+      "url" : [ "https://twitter.com/freezydorito/status/1317210415676465155" ],
+      "published" : [ "2020-10-16T21:06:50+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:freezydorito" ],
+          "numeric-id" : [ "3004020255" ],
+          "name" : [ "feral pumpkin" ],
+          "nickname" : [ "freezydorito" ],
+          "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
+          "published" : [ "2015-01-29T10:06:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "shoreditch exclusion zone" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1314974739824246784/L46478lF.jpg" ]
+        }
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Eker49CXUAAh-SY.jpg", "https://pbs.twimg.com/media/Eker49iWAAAOM1R.jpg" ]
+    }
+  },
+  "tags" : [ "coronavirus" ],
+  "client_id" : "https://indigenous.realize.be"
+}
