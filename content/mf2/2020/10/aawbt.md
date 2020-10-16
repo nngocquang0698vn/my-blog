@@ -1,0 +1,46 @@
+{
+  "date" : "2020-10-16T14:45:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "in-reply-to" : [ "https://twitter.com/PaulaLKennedy/status/1317097881346723840" ],
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Reply to https://twitter.com/PaulaLKennedy/status/1317097881346723840" ],
+    "published" : [ "2020-10-16T14:45:00+0100" ],
+    "content" : [ {
+      "html" : "",
+      "value" : "Glad to hear everything is OK!"
+    } ]
+  },
+  "kind" : "replies",
+  "slug" : "2020/10/aawbt",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1317097881346723840" ],
+      "url" : [ "https://twitter.com/PaulaLKennedy/status/1317097881346723840" ],
+      "published" : [ "2020-10-16T13:39:40+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:PaulaLKennedy" ],
+          "numeric-id" : [ "1157858503" ],
+          "name" : [ "Paula Kennedy" ],
+          "nickname" : [ "PaulaLKennedy" ],
+          "url" : [ "https://twitter.com/PaulaLKennedy" ],
+          "published" : [ "2013-02-07T18:03:02+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/878527659906674688/T1F34k-F.jpg" ]
+        }
+      } ],
+      "content" : [ "Had a minor health scare yesterday, ended up taking an ambulance ride and getting my heart checked in hospital. Luckily everything is fine, but definitely seems like stress is taking a toll on me. Reminder that we all need to take care of ourselves and each other right now ❤️" ],
+      "photo" : [ "https://pbs.twimg.com/media/EkdFif-X0AYD9T8.jpg", "https://pbs.twimg.com/media/EkdFif6XUAEMDHa.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
