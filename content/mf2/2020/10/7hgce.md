@@ -1,0 +1,45 @@
+{
+  "date" : "2020-10-16T17:44:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @LeighStillard's tweet" ],
+    "published" : [ "2020-10-16T17:44:00+0100" ],
+    "like-of" : [ "https://twitter.com/LeighStillard/status/1317104785787514880" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/7hgce",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1317104785787514880" ],
+      "url" : [ "https://twitter.com/LeighStillard/status/1317104785787514880" ],
+      "published" : [ "2020-10-16T14:07:06+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/vyruss/status/1317093770790395909" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:LeighStillard" ],
+          "numeric-id" : [ "1675584342" ],
+          "name" : [ "Leigh Stillard" ],
+          "nickname" : [ "LeighStillard" ],
+          "url" : [ "https://twitter.com/LeighStillard" ],
+          "published" : [ "2013-08-16T12:26:11+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Melbourne, Australia" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1138636268252696577/b1_uFV8w.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "This is fundamentally untrue and a few seconds of research disproves it",
+        "html" : "This is fundamentally untrue and a few seconds of research disproves it\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/awscloud\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tim_nolet\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vyruss\"></a>"
+      } ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
