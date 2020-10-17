@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freezydorito/status/1317128413942108169" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2020-10-17T14:43:00+0100" ],
     "category" : [ "politics", "coronavirus" ],
