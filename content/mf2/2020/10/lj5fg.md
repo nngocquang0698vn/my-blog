@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/toddmorey/status/1317231582801989636" ],
     "name" : [ "Like of @toddmorey's tweet" ],
     "published" : [ "2020-10-17T09:18:00+0100" ],
     "category" : [ "personal-website" ],
