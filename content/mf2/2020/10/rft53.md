@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/notalottamani/status/1316842174542237706" ],
     "name" : [ "Like of @notalottamani's tweet" ],
     "published" : [ "2020-10-17T14:46:00+0100" ],
     "like-of" : [ "https://twitter.com/notalottamani/status/1316842174542237706" ]
