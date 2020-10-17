@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RealSexyCyborg/status/1317265857177821184" ],
     "name" : [ "Like of @RealSexyCyborg's tweet" ],
     "published" : [ "2020-10-17T09:13:00+0100" ],
     "category" : [ "food" ],
