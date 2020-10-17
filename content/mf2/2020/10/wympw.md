@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/__br__ba/status/1317152477377167364" ],
     "name" : [ "Like of @__br__ba's tweet" ],
     "published" : [ "2020-10-17T14:47:00+0100" ],
     "category" : [ "art" ],
