@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1317934699331883010" ],
     "photo" : [ {
       "alt" : "A plate with a beef dripping Yorkshire pudding, mashed potatoes, bacon and maple syrup sausages, red cabbage, carrots, cauliflower and broccoli, all covered in gravy, with a glass of red wine",
       "photo" : "https://media.jvt.me/f783ce88f0.jpeg"
