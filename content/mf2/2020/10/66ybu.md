@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1317758158459293696" ],
     "photo" : [ {
       "alt" : "A projector using the side of the house to create a huge outside screen",
       "photo" : "https://media.jvt.me/55c9371dab.jpeg"
