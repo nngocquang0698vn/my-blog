@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1318220653334581250" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-10-19T18:12:00+0100" ],
     "category" : [ "strava" ],
