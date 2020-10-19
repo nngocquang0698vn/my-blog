@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1318169460512088064" ],
     "photo" : [ {
       "alt" : "A dish with a beef dripping Yorkshire pudding, chips, a bacon and maple syrup sausage, red cabbage and peas, all covered in gravy",
       "photo" : "https://media.jvt.me/b825611a35.jpeg"
