@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matialonsor/status/1318024810207858689" ],
     "name" : [ "Like of @matialonsor's tweet" ],
     "published" : [ "2020-10-19T21:51:00+0100" ],
     "category" : [ "art", "nature" ],
