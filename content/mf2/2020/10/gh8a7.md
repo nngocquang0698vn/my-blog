@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Watch \"JWT jku&x5u = ❤️ by @snyff #NahamCon2020\" on YouTube" ],
+    "name" : [ "JWT jku&x5u = ❤️ by @snyff #NahamCon2020" ],
     "published" : [ "2020-10-19T08:06:00+0100" ],
     "category" : [ "jwt" ],
     "bookmark-of" : [ "https://youtu.be/VA1g7YV8HkI" ]
