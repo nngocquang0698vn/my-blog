@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MaudFeijt/status/1317845985817669633" ],
     "name" : [ "Like of @MaudFeijt's tweet" ],
     "published" : [ "2020-10-19T10:24:00+0100" ],
     "category" : [ "cute" ],
