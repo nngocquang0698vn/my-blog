@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophsa/status/1317679842008174592" ],
     "name" : [ "Like of @sophsa's tweet" ],
     "published" : [ "2020-10-19T08:41:00+0100" ],
     "category" : [ "politics" ],
