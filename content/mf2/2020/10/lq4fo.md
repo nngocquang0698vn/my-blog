@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevieBuckley/status/1318630572831481860" ],
     "name" : [ "Like of @StevieBuckley's tweet" ],
     "published" : [ "2020-10-20T20:50:00+0100" ],
     "category" : [ "slack", "remote-work" ],
