@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ladyhaja/status/1318917071074435077" ],
     "name" : [ "Like of @ladyhaja's tweet" ],
     "published" : [ "2020-10-21T22:57:00+0100" ],
     "category" : [ "cute" ],
