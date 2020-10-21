@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1318714227670937601" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2020-10-21T08:24:00+0100" ],
     "category" : [ "cosplay", "borderlands" ],
