@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Charles_Lister/status/1319284310432575488" ],
     "name" : [ "Like of @Charles_Lister's tweet" ],
     "published" : [ "2020-10-22T16:30:00+0100" ],
     "category" : [ "security" ],
