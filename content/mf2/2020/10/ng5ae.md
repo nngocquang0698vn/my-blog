@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmNorthcott/status/1319318459193360384" ],
     "name" : [ "Like of @EmNorthcott's tweet" ],
     "published" : [ "2020-10-22T18:16:00+0100" ],
     "like-of" : [ "https://twitter.com/EmNorthcott/status/1319318459193360384" ]
