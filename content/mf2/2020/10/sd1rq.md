@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MartinBarrow/status/1319013516242767874" ],
     "name" : [ "Like of @MartinBarrow's tweet" ],
     "published" : [ "2020-10-22T19:41:00+0100" ],
     "category" : [ "politics" ],
