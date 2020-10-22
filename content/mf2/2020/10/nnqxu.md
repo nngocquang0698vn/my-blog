@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MrsEmma/status/1319258228228825092" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1319320938777923584" ],
     "name" : [ "Reply to https://twitter.com/MrsEmma/status/1319258228228825092" ],
     "published" : [ "2020-10-22T17:48:00+0100" ],
     "category" : [ "morph" ],
