@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yvov/status/1319251117369327616" ],
     "name" : [ "Like of @yvov's tweet" ],
     "published" : [ "2020-10-22T19:37:00+0100" ],
     "category" : [ "food" ],
