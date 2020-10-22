@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JenOllett/status/1319287832112812035" ],
     "name" : [ "Like of @JenOllett's tweet" ],
     "published" : [ "2020-10-22T21:58:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
