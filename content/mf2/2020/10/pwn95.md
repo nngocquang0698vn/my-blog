@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_hax/status/1319192484032008193" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-10-23T17:29:02.639Z" ],
     "category" : [ "morph" ],
