@@ -1,0 +1,41 @@
+{
+  "date" : "2020-10-24T20:49:00+0100",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @nocontxt99's tweet" ],
+    "published" : [ "2020-10-24T20:49:00+0100" ],
+    "like-of" : [ "https://twitter.com/nocontxt99/status/1320083027121344515" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/10/jsem8",
+  "context" : {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1320083027121344515" ],
+      "url" : [ "https://twitter.com/nocontxt99/status/1320083027121344515" ],
+      "published" : [ "2020-10-24T19:21:34+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:nocontxt99" ],
+          "numeric-id" : [ "1029449035382435840" ],
+          "name" : [ "out of context brooklyn nine nine🏳️‍🌈" ],
+          "nickname" : [ "nocontxt99" ],
+          "url" : [ "https://twitter.com/nocontxt99" ],
+          "published" : [ "2018-08-14T19:25:51+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "new york" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1029579441092153344/IpJngHKV.jpg" ]
+        }
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/ElHgg_KWkAIhGIG.jpg" ]
+    }
+  },
+  "client_id" : "https://indigenous.realize.be"
+}
