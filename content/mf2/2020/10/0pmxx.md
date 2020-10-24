@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MC372/status/1319047697945497601" ],
     "name" : [ "Like of @MC372's tweet" ],
     "published" : [ "2020-10-24T10:04:00+0100" ],
     "category" : [ "politics" ],
