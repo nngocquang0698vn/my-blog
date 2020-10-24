@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1319790206325673985" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-10-24T11:46:00+0100" ],
     "category" : [ "coronavirus" ],
