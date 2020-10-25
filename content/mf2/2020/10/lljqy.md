@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lrvick/status/1320246266270519297" ],
     "name" : [ "Like of @lrvick's tweet" ],
     "published" : [ "2020-10-25T16:28:00+0000" ],
     "like-of" : [ "https://twitter.com/lrvick/status/1320246266270519297" ]
