@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1320460879507369990" ],
     "photo" : [ {
       "alt" : "A plate with a lamb shank, with cheddar mashed potatoes, red cabbage, broccoli, cauliflower, carrots, a Yorkshire pudding, and mint gravy",
       "photo" : "https://media.jvt.me/bce5f9642d.jpeg"
