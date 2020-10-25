@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SoVeryBritish/status/1320378380584443904" ],
     "name" : [ "Like of @SoVeryBritish's tweet" ],
     "published" : [ "2020-10-25T19:20:00+0000" ],
     "like-of" : [ "https://twitter.com/SoVeryBritish/status/1320378380584443904" ]
