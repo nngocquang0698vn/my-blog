@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1320038472518950913" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2020-10-25T11:10:00+0000" ],
     "category" : [ "food" ],
