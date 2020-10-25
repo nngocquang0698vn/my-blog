@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bocxtop/status/1276883767890763776" ],
     "name" : [ "Like of @bocxtop's tweet" ],
     "published" : [ "2020-10-25T16:47:00+0000" ],
     "like-of" : [ "https://twitter.com/bocxtop/status/1276883767890763776" ]
