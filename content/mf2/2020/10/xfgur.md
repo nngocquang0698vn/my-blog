@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1320456945879244801" ],
     "name" : [ "Like of @jackyalcine's tweet" ],
     "published" : [ "2020-10-25T22:18:00+0000" ],
     "category" : [ "the-boys" ],
