@@ -16,38 +16,9 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/DevOps-Notts/events/266072465/"
-      ],
-      "name": [
-        "DevOps Notts - November 2019"
-      ],
-      "start": [
-        "2019-11-26T18:00:00Z"
-      ],
-      "end": [
-        "2019-11-26T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Rebel Recruiters, Huntingdon St"
-          ],
-          "locality": [
-            "Nottinghamshire"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

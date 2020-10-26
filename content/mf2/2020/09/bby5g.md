@@ -1,82 +1,22 @@
 {
-  "date" : "2020-09-14T22:15:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Brunty/status/1305598264167804931" ],
-    "name" : [ "Like of @Brunty's tweet" ],
-    "published" : [ "2020-09-14T22:15:00+01:00" ],
-    "like-of" : [ "https://twitter.com/Brunty/status/1305598264167804931" ]
+  "date": "2020-09-14T22:15:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Brunty/status/1305598264167804931"
+    ],
+    "name": [
+      "Like of @Brunty's tweet"
+    ],
+    "published": [
+      "2020-09-14T22:15:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/Brunty/status/1305598264167804931"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/bby5g",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1305598264167804931" ],
-      "url" : [ "https://twitter.com/Brunty/status/1305598264167804931" ],
-      "published" : [ "2020-09-14T20:04:17+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Brunty" ],
-          "numeric-id" : [ "1099517012" ],
-          "name" : [ "Matt Brunt" ],
-          "nickname" : [ "Brunty" ],
-          "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ],
-          "published" : [ "2013-01-17T23:19:21+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Leicester, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1151043501288824832/TjB9WT83.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "If an app defaults to public and potentially dangerous privacy settings by default, that's your fault as a user apparently.\n\nAlso don't look at Stava's privacy because facebook is worse.\n\nWhat a joke.",
-        "html" : "<div style=\"white-space: pre\">If an app defaults to public and potentially dangerous privacy settings by default, that's your fault as a user apparently.\n\nAlso don't look at Stava's privacy because facebook is worse.\n\nWhat a joke.</div>"
-      } ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1305597318285144071" ],
-        "url" : [ "https://twitter.com/pavsmith/status/1305597318285144071" ],
-        "published" : [ "2020-09-14T20:00:32+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/Brunty/status/1305595942008221698" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:pavsmith" ],
-            "numeric-id" : [ "75338695" ],
-            "name" : [ "Paul Smith" ],
-            "nickname" : [ "pavsmith" ],
-            "url" : [ "https://twitter.com/pavsmith" ],
-            "published" : [ "2009-09-18T17:41:24+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Great Cathedral of Chalesm" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1046488273311461377/MHXQzD_u.jpg" ]
-          }
-        } ],
-        "location" : [ {
-          "type" : [ "h-card", "p-location" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:28efe4bb73fff781" ],
-            "name" : [ "Winchester, England" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "No, I just care. Stop blaming the app. Take some responsibility. Plus, yes, I am asked by the platform to confirm my privacy settings. If you want evil... look to stalk book.",
-          "html" : "No, I just care. Stop blaming the app. Take some responsibility. Plus, yes, I am asked by the platform to confirm my privacy settings. If you want evil... look to stalk book.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Brunty\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Strava\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/anna_hax\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/seanmtracey\"></a>"
-        } ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/bby5g",
+  "client_id": "https://indigenous.realize.be"
 }

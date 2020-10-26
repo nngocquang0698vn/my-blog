@@ -22,36 +22,6 @@
         "html": "",
         "value": "I'm quite up for coming to IndieWeb Summit, but I'd need it to either map to some work while I'm out there, or some holiday, as it's a long way to come. But would be very cool!"
       }
-    ],
-    "event": {
-      "url": [
-        "https://2020.indieweb.org/summit"
-      ],
-      "name": [
-        "IndieWeb Summit"
-      ],
-      "start": [
-        "2020-06-26"
-      ],
-      "end": [
-        "2020-06-27"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "1120 NW Couch St #320"
-          ],
-          "locality": [
-            "Portland"
-          ],
-          "country-name": [
-            "United States"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

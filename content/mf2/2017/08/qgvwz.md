@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/242384014/"
-      ],
-      "name": [
-        "November - Node JS in the AWS Cloud"
-      ],
-      "start": [
-        "2017-11-14T18:30:00Z"
-      ],
-      "end": [
-        "2017-11-14T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/08/qgvwz",
   "aliases": [

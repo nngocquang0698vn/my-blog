@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/239135010/"
-      ],
-      "name": [
-        "June 2017 - Machine Learning for Muggles"
-      ],
-      "start": [
-        "2017-06-13T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-06-13T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/06/ubwjn",
   "aliases": [

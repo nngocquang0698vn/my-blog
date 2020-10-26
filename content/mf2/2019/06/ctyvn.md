@@ -17,37 +17,7 @@
     ],
     "category": [
       "notts-js"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/qhnpfqyzkbmb/"
-      ],
-      "name": [
-        "NottsJS: SVG + JS"
-      ],
-      "start": [
-        "2019-07-09T18:00:00+0100"
-      ],
-      "end": [
-        "2019-07-09T20:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/837ba2fc-c47f-48b1-8c5b-787324923d80/",

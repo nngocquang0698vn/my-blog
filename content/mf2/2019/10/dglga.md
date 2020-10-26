@@ -16,38 +16,9 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/265770253/"
-      ],
-      "name": [
-        "C̶h̶e̶c̶k̶ Test yourself before you wreck yourself"
-      ],
-      "start": [
-        "2019-11-07T18:30:00Z"
-      ],
-      "end": [
-        "2019-11-07T21:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Beck St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

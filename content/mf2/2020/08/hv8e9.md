@@ -1,45 +1,22 @@
 {
-  "date" : "2020-08-17T09:51:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/RancidBacon/status/1295245278581149696" ],
-    "name" : [ "Like of @RancidBacon's tweet" ],
-    "published" : [ "2020-08-17T09:51:00+01:00" ],
-    "like-of" : [ "https://twitter.com/RancidBacon/status/1295245278581149696" ]
+  "date": "2020-08-17T09:51:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/RancidBacon/status/1295245278581149696"
+    ],
+    "name": [
+      "Like of @RancidBacon's tweet"
+    ],
+    "published": [
+      "2020-08-17T09:51:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/RancidBacon/status/1295245278581149696"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/hv8e9",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1295245278581149696" ],
-      "url" : [ "https://twitter.com/RancidBacon/status/1295245278581149696" ],
-      "published" : [ "2020-08-17T06:25:13+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/souzatharsis/status/1295180547325669376" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:RancidBacon" ],
-          "numeric-id" : [ "95356450" ],
-          "name" : [ "RancidBacon" ],
-          "nickname" : [ "RancidBacon" ],
-          "url" : [ "https://twitter.com/RancidBacon", "http://rancidbacon.com/", "http://patreon.com/RancidBacon", "https://twitter.com/followr" ],
-          "published" : [ "2009-12-08T05:08:16+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "New Zealand" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1191929256/why_do_you_read_the_twitter_image_urls_like_i_do.png" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Wait, the real friends *weren't* the APIs we made along the way..?! 😂",
-        "html" : "Wait, the real friends *weren't* the APIs we made along the way..?! 😂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sahkho\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/souzatharsis\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/hv8e9",
+  "client_id": "https://indigenous.realize.be"
 }

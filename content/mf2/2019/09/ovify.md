@@ -21,21 +21,7 @@
         "html": "",
         "value": "The POSSE to Twitter looks great! But unfortunately I won't be able to make it all that way"
       }
-    ],
-    "event": {
-      "url": [
-        "https://tantek.com/2019/275/e1/homebrew-website-club-sf"
-      ],
-      "name": [
-        "Homebrew Website Club SF!"
-      ],
-      "start": [
-        "2019-10-02T18:30:00-0700"
-      ],
-      "end": [
-        "2019-10-02T19:30:00-0700"
-      ]
-    }
+    ]
   },
   "slug": "2019/09/ovify",
   "aliases": [

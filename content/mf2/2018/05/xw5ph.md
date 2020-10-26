@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottAgile/events/246673749/"
-      ],
-      "name": [
-        "May Meetup - The Ultimate DevSecOps and Well what would you do next...?"
-      ],
-      "start": [
-        "2018-05-23T18:30:00+01:00"
-      ],
-      "end": [
-        "2018-05-23T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One, Station Street, NG2 3HX"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/05/xw5ph",
   "aliases": [

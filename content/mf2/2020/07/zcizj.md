@@ -1,43 +1,28 @@
 {
-  "date" : "2020-07-17T10:35:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ranger_cha/status/1283749426725556224" ],
-    "name" : [ "Like of @ranger_cha's tweet" ],
-    "published" : [ "2020-07-17T10:35:00+01:00" ],
-    "category" : [ "security" ],
-    "like-of" : [ "https://twitter.com/ranger_cha/status/1283749426725556224" ]
+  "date": "2020-07-17T10:35:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ranger_cha/status/1283749426725556224"
+    ],
+    "name": [
+      "Like of @ranger_cha's tweet"
+    ],
+    "published": [
+      "2020-07-17T10:35:00+01:00"
+    ],
+    "category": [
+      "security"
+    ],
+    "like-of": [
+      "https://twitter.com/ranger_cha/status/1283749426725556224"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/zcizj",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283749426725556224" ],
-      "url" : [ "https://twitter.com/ranger_cha/status/1283749426725556224" ],
-      "published" : [ "2020-07-16T13:04:48+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ranger_cha" ],
-          "numeric-id" : [ "807185144" ],
-          "name" : [ "Rebecca Deck" ],
-          "nickname" : [ "ranger_cha" ],
-          "url" : [ "https://twitter.com/ranger_cha", "https://ranger-cha.blogspot.com" ],
-          "published" : [ "2012-09-06T16:43:16+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "North Carolina, USA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1271832723091599365/3C4doxYP.jpg" ]
-        }
-      } ],
-      "content" : [ "I think it's super sweet that people are surprised the recent Twitter security incident was used to inflict relatively little damage. What if I told you that's how most AppSec exploits are used? I once watched a user get admin rights on a system and use it to reset her own pw" ]
-    }
-  },
-  "tags" : [ "security" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/zcizj",
+  "tags": [
+    "security"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

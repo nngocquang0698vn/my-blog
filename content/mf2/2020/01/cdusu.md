@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Notts-Techfast/events/267745680/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Notts-Techfast/events/267745680/"
-      ],
-      "name": [
-        "How to create an Awesome 2020 and avoid living in ‘default’ mode! 🎇"
-      ],
-      "start": [
-        "2020-01-30T07:30:00Z"
-      ],
-      "end": [
-        "2020-01-30T09:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Fothergill House, Fothergill House, King Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

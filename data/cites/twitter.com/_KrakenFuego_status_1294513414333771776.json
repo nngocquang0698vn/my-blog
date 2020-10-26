@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1294513414333771776"
+    ],
+    "url": [
+      "https://twitter.com/KrakenFuego/status/1294513414333771776"
+    ],
+    "published": [
+      "2020-08-15T05:57:03+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:KrakenFuego"
+          ],
+          "numeric-id": [
+            "875383331449339904"
+          ],
+          "name": [
+            "Kraken"
+          ],
+          "nickname": [
+            "KrakenFuego"
+          ],
+          "url": [
+            "https://twitter.com/KrakenFuego",
+            "https://krakenfuego.com"
+          ],
+          "published": [
+            "2017-06-15T16:03:44+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "/usr/bin/bash"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/941032958869327872/bbSMf8tA.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "@JamieTanna saw your post on Gitlab+Nellify. Have you thought about having a docker image that is built on schedule and then using that rather than building each time from your base image?",
+        "html": "<a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> saw your post on Gitlab+Nellify. Have you thought about having a docker image that is built on schedule and then using that rather than building each time from your base image?"
+      }
+    ]
+  }
+}

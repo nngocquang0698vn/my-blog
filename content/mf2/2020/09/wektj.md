@@ -1,47 +1,30 @@
 {
-  "date" : "2020-09-01T17:04:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/dddeastmidlands/status/1300825747087486978" ],
-    "name" : [ "Like of @dddeastmidlands's tweet" ],
-    "published" : [ "2020-09-01T17:04:00+01:00" ],
-    "category" : [ "hacktoberfest", "dddem" ],
-    "like-of" : [ "https://twitter.com/dddeastmidlands/status/1300825747087486978" ]
+  "date": "2020-09-01T17:04:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/dddeastmidlands/status/1300825747087486978"
+    ],
+    "name": [
+      "Like of @dddeastmidlands's tweet"
+    ],
+    "published": [
+      "2020-09-01T17:04:00+01:00"
+    ],
+    "category": [
+      "hacktoberfest",
+      "dddem"
+    ],
+    "like-of": [
+      "https://twitter.com/dddeastmidlands/status/1300825747087486978"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/wektj",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1300825747087486978" ],
-      "url" : [ "https://twitter.com/dddeastmidlands/status/1300825747087486978" ],
-      "published" : [ "2020-09-01T16:00:00+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:dddeastmidlands" ],
-          "numeric-id" : [ "1035614395441848320" ],
-          "name" : [ "DDD East Midlands" ],
-          "nickname" : [ "dddeastmidlands" ],
-          "url" : [ "https://twitter.com/dddeastmidlands", "https://www.dddeastmidlands.com" ],
-          "published" : [ "2018-08-31T19:44:47+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1045414356983271424/hAooD0u6.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "We are getting ready for #HacktoberFest! There are now some new issue templates that will set your Issues up with the Hacktober related labels.\n\nWe are also getting issues prepped and ready for October on our #dddem blog and website GitHub repositories.",
-        "html" : "<div style=\"white-space: pre\">We are getting ready for <a href=\"https://twitter.com/search?q=%23HacktoberFest\">#HacktoberFest</a>! There are now some new issue templates that will set your Issues up with the Hacktober related labels.\n\nWe are also getting issues prepped and ready for October on our <a href=\"https://twitter.com/search?q=%23dddem\">#dddem</a> blog and website GitHub repositories.</div>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/Eg0ypP3X0AE1zcy.png" ]
-    }
-  },
-  "tags" : [ "hacktoberfest", "dddem" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/wektj",
+  "tags": [
+    "hacktoberfest",
+    "dddem"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

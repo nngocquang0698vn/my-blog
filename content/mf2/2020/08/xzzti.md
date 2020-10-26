@@ -1,70 +1,22 @@
 {
-  "date" : "2020-08-28T11:58:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/freezydorito/status/1299290440521388038" ],
-    "name" : [ "Like of @freezydorito's tweet" ],
-    "published" : [ "2020-08-28T11:58:00+01:00" ],
-    "like-of" : [ "https://twitter.com/freezydorito/status/1299290440521388038" ]
+  "date": "2020-08-28T11:58:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/freezydorito/status/1299290440521388038"
+    ],
+    "name": [
+      "Like of @freezydorito's tweet"
+    ],
+    "published": [
+      "2020-08-28T11:58:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/freezydorito/status/1299290440521388038"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/xzzti",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299290440521388038" ],
-      "url" : [ "https://twitter.com/freezydorito/status/1299290440521388038" ],
-      "published" : [ "2020-08-28T10:19:15+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:freezydorito" ],
-          "numeric-id" : [ "3004020255" ],
-          "name" : [ "laura calabazas" ],
-          "nickname" : [ "freezydorito" ],
-          "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
-          "published" : [ "2015-01-29T10:06:54+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "\"shoreditch\" allegedly" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1294254216756834304/EejH9Tpl.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "twitter.com/briainfan/stat…",
-        "html" : "<a href=\"https://twitter.com/briainfan/status/1299289860428230656\">twitter.com/briainfan/stat…</a>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EggBw-zUMAEI4nG.jpg" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1299289860428230656" ],
-        "url" : [ "https://twitter.com/BriainFan/status/1299289860428230656" ],
-        "published" : [ "2020-08-28T10:16:57+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/freezydorito/status/1299289338849656832" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:BriainFan" ],
-            "numeric-id" : [ "1232361051980730369" ],
-            "name" : [ "Kieth starmer is a bitch 🍊🍊🍊" ],
-            "nickname" : [ "BriainFan" ],
-            "url" : [ "https://twitter.com/BriainFan" ],
-            "published" : [ "2020-02-25T17:45:53+00:00" ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1294758207970258944/astYExpP.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "what's your creative team?",
-          "html" : "what's your creative team?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/freezydorito\"></a>"
-        } ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/xzzti",
+  "client_id": "https://indigenous.realize.be"
 }

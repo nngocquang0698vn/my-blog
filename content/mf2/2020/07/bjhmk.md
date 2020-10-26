@@ -1,39 +1,22 @@
 {
-  "date" : "2020-07-23T11:59:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/zoexfr/status/1285578420013891585" ],
-    "name" : [ "Like of @zoexfr's tweet" ],
-    "published" : [ "2020-07-23T11:59:00+01:00" ],
-    "like-of" : [ "https://twitter.com/zoexfr/status/1285578420013891585" ]
+  "date": "2020-07-23T11:59:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/zoexfr/status/1285578420013891585"
+    ],
+    "name": [
+      "Like of @zoexfr's tweet"
+    ],
+    "published": [
+      "2020-07-23T11:59:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/zoexfr/status/1285578420013891585"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/bjhmk",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1285578420013891585" ],
-      "url" : [ "https://twitter.com/zoexfr/status/1285578420013891585" ],
-      "published" : [ "2020-07-21T14:12:34+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:zoexfr" ],
-          "numeric-id" : [ "960945677256871936" ],
-          "name" : [ "Z" ],
-          "nickname" : [ "zoexfr" ],
-          "url" : [ "https://twitter.com/zoexfr", "https://www.instagram.com/zoexf/?hl=en" ],
-          "published" : [ "2018-02-06T18:37:57+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1285285602330640384/anbHHBFu.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Hm I wonder why @BBCNews is treating these two cases very differently🤔",
-        "html" : "Hm I wonder why <a href=\"https://twitter.com/BBCNews\">@BBCNews</a> is treating these two cases very differently🤔"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EddKwatXgAAUuDJ.jpg", "https://pbs.twimg.com/media/EddKwamWsAIeQiE.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/bjhmk",
+  "client_id": "https://indigenous.realize.be"
 }

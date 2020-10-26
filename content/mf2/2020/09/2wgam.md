@@ -1,42 +1,22 @@
 {
-  "date" : "2020-09-09T21:24:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/erquhart/status/1303742264183750657" ],
-    "name" : [ "Like of @erquhart's tweet" ],
-    "published" : [ "2020-09-09T21:24:00+01:00" ],
-    "like-of" : [ "https://twitter.com/erquhart/status/1303742264183750657" ]
+  "date": "2020-09-09T21:24:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/erquhart/status/1303742264183750657"
+    ],
+    "name": [
+      "Like of @erquhart's tweet"
+    ],
+    "published": [
+      "2020-09-09T21:24:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/erquhart/status/1303742264183750657"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/2wgam",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1303742264183750657" ],
-      "url" : [ "https://twitter.com/erquhart/status/1303742264183750657" ],
-      "published" : [ "2020-09-09T17:09:12+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:erquhart" ],
-          "numeric-id" : [ "133430153" ],
-          "name" : [ "Shawn Erquhart" ],
-          "nickname" : [ "erquhart" ],
-          "url" : [ "https://twitter.com/erquhart", "https://erquh.art" ],
-          "published" : [ "2010-04-15T19:33:55+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Wilmington, NC" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1235664680225566738/FYb89GyI.jpg" ]
-        }
-      } ],
-      "content" : [ "Periodic reminder to check the acronym before you name your shiny new business" ],
-      "photo" : [ "https://pbs.twimg.com/media/EhfSnpIXcAAeVtg.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/2wgam",
+  "client_id": "https://indigenous.realize.be"
 }

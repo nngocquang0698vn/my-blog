@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/digitallincoln/events/268750262/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Mosaic, Thomas Parker House, Lincoln, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/digitallincoln/events/268750262/"
-      ],
-      "name": [
-        "Missile Destroyers, Supercomputers, and Chernobyl: Psychological safety & teams."
-      ],
-      "start": [
-        "2020-04-28T18:30:00+01:00"
-      ],
-      "end": [
-        "2020-04-28T20:30:00+01:00"
-      ]
-    }
+    ]
   }
 }

@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/243440319/"
-      ],
-      "name": [
-        "Women in Tech October 2017: The Power of Community"
-      ],
-      "start": [
-        "2017-10-05T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-10-05T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Accelerate Places, The Poynt, 45 Wollaton Street, Nottingham, NG1 5FW"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/09/ut3hq",
   "aliases": [

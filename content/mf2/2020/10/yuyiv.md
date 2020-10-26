@@ -1,44 +1,28 @@
 {
-  "date" : "2020-10-24T00:02:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1319707542352654336" ],
-    "name" : [ "Like of @Dixie3Flatline's tweet" ],
-    "published" : [ "2020-10-24T00:02:00+0100" ],
-    "category" : [ "cute" ],
-    "like-of" : [ "https://twitter.com/Dixie3Flatline/status/1319707542352654336" ]
+  "date": "2020-10-24T00:02:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Dixie3Flatline/status/1319707542352654336"
+    ],
+    "name": [
+      "Like of @Dixie3Flatline's tweet"
+    ],
+    "published": [
+      "2020-10-24T00:02:00+0100"
+    ],
+    "category": [
+      "cute"
+    ],
+    "like-of": [
+      "https://twitter.com/Dixie3Flatline/status/1319707542352654336"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/yuyiv",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1319707542352654336" ],
-      "url" : [ "https://twitter.com/Dixie3Flatline/status/1319707542352654336" ],
-      "video" : [ "https://video.twimg.com/ext_tw_video/1319707481094770689/pu/vid/720x900/XahWmMCIbULNBNzZ.mp4?tag=10" ],
-      "published" : [ "2020-10-23T18:29:31+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
-          "numeric-id" : [ "835996764" ],
-          "name" : [ "Kat Cosghoul's Spooky DevOps 💀" ],
-          "nickname" : [ "Dixie3Flatline" ],
-          "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
-          "published" : [ "2012-09-20T17:27:21+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Anarchist Jurisdiction Seattle" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1318969630161989637/FRIZ42Cz.jpg" ]
-        }
-      } ],
-      "content" : [ "On PTO next week so I'm gonna let Espresso answer emails for me" ]
-    }
-  },
-  "tags" : [ "cute" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/yuyiv",
+  "tags": [
+    "cute"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

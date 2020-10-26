@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/259841002/"
-      ],
-      "name": [
-        "Tech Nottingham April 2019: Teams and Gender"
-      ],
-      "start": [
-        "2019-04-08T18:30:00+01:00"
-      ],
-      "end": [
-        "2019-04-08T21:15:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/03/tj3xq",
   "aliases": [

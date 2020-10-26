@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/232824430/"
-      ],
-      "name": [
-        "Tech Nottingham August 2016 - Life After Flash with Harry Boyes"
-      ],
-      "start": [
-        "2016-08-01T18:30:00+01:00"
-      ],
-      "end": [
-        "2016-08-01T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/07/tywdi",
   "aliases": [

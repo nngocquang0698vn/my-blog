@@ -15,36 +15,6 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "http://banterhack.com/"
-      ],
-      "name": [
-        "Banter Hack"
-      ],
-      "start": [
-        "2016-02-06T10:00:00Z"
-      ],
-      "end": [
-        "2016-02-07T16:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "15 Bonhill St, Shoreditch"
-          ],
-          "locality": [
-            "London"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

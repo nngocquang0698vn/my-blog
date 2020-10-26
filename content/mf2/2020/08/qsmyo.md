@@ -1,44 +1,28 @@
 {
-  "date" : "2020-08-12T20:31:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/EmmaBostian/status/1293546973425999872" ],
-    "name" : [ "Like of @EmmaBostian's tweet" ],
-    "published" : [ "2020-08-12T20:31:00+01:00" ],
-    "category" : [ "git" ],
-    "like-of" : [ "https://twitter.com/EmmaBostian/status/1293546973425999872" ]
+  "date": "2020-08-12T20:31:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/EmmaBostian/status/1293546973425999872"
+    ],
+    "name": [
+      "Like of @EmmaBostian's tweet"
+    ],
+    "published": [
+      "2020-08-12T20:31:00+01:00"
+    ],
+    "category": [
+      "git"
+    ],
+    "like-of": [
+      "https://twitter.com/EmmaBostian/status/1293546973425999872"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/qsmyo",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1293546973425999872" ],
-      "url" : [ "https://twitter.com/EmmaBostian/status/1293546973425999872" ],
-      "published" : [ "2020-08-12T13:56:46+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:EmmaBostian" ],
-          "numeric-id" : [ "491821358" ],
-          "name" : [ "Emma Bostian 🐞" ],
-          "nickname" : [ "EmmaBostian" ],
-          "url" : [ "https://twitter.com/EmmaBostian", "http://compiled.blog" ],
-          "published" : [ "2012-02-14T01:57:07+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Stockholm, Sweden" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1293443849210265600/v1kvD7AL.jpg" ]
-        }
-      } ],
-      "content" : [ "Okay I'm sorry but this question mark is super passive-aggressive and I don't like it" ],
-      "photo" : [ "https://pbs.twimg.com/media/EfOaD7jXoAIRnl3.jpg" ]
-    }
-  },
-  "tags" : [ "git" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/qsmyo",
+  "tags": [
+    "git"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

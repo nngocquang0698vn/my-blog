@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.meetup.com/Tech-Nottingham/events/234615041/"
+    ],
+    "name": [
+      "Tech Nottingham November 2016 - How to talk about APIs & Technical Products and"
+    ],
+    "start": [
+      "2016-11-07T18:30:00Z"
+    ],
+    "end": [
+      "2016-11-07T21:00:00Z"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Antenna, Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

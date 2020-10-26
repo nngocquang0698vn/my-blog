@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1236010723676803072"
+    ],
+    "url": [
+      "https://twitter.com/shawnacscott/status/1236010723676803072"
+    ],
+    "published": [
+      "2020-03-06T19:28:15+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:shawnacscott"
+          ],
+          "numeric-id": [
+            "24940134"
+          ],
+          "name": [
+            "Shawna Scott"
+          ],
+          "nickname": [
+            "shawnacscott"
+          ],
+          "url": [
+            "https://twitter.com/shawnacscott",
+            "http://shawnacscott.com"
+          ],
+          "published": [
+            "2009-03-17T19:45:29+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Portland, OR"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1210985940417597440/-xAoCMb3.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "One of my coworkers referred to tabletopping a pretend outage as \"Dungeons and Downtime\" last week, and I'm still laughing about it."
+    ]
+  }
+}

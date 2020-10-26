@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Notts-Dev-Workshop/events/268502946/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Rebel Recruitment, Rebel Recruitment, 2nd floor, Blenheim Court, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Notts-Dev-Workshop/events/268502946/"
-      ],
-      "name": [
-        "Carters Boutique: An Introduction to Carter with Richard Tasker"
-      ],
-      "start": [
-        "2020-03-02T18:30:00Z"
-      ],
-      "end": [
-        "2020-03-02T21:30:00Z"
-      ]
-    }
+    ]
   }
 }

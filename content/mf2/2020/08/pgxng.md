@@ -1,50 +1,31 @@
 {
-  "date" : "2020-08-10T20:48:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1292912913678729220" ],
-    "published" : [ "2020-08-10T20:48:00+01:00" ],
-    "repost-of" : [ "https://twitter.com/technottingham/status/1292908424020320263" ],
-    "category" : [ "tech-nottingham" ],
-    "content" : [ {
-      "html" : "",
-      "value" : "Thanks for a great night to all the awesome speakers 🙌🏼"
-    } ]
+  "date": "2020-08-10T20:48:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/JamieTanna/status/1292912913678729220"
+    ],
+    "published": [
+      "2020-08-10T20:48:00+01:00"
+    ],
+    "repost-of": [
+      "https://twitter.com/technottingham/status/1292908424020320263"
+    ],
+    "category": [
+      "tech-nottingham"
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "Thanks for a great night to all the awesome speakers 🙌🏼"
+      }
+    ]
   },
-  "kind" : "reposts",
-  "slug" : "2020/08/pgxng",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1292908424020320263" ],
-      "url" : [ "https://twitter.com/technottingham/status/1292908424020320263" ],
-      "published" : [ "2020-08-10T19:39:24+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:technottingham" ],
-          "numeric-id" : [ "384492431" ],
-          "name" : [ "Tech Nottingham" ],
-          "nickname" : [ "technottingham" ],
-          "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
-          "published" : [ "2011-10-03T19:47:31+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Thank you to everyone who joined this evening and to all our fantastic lightning speakers 🎉⚡️ you're awesome!!!\n#TechNott",
-        "html" : "<div style=\"white-space: pre\">Thank you to everyone who joined this evening and to all our fantastic lightning speakers 🎉⚡️ you're awesome!!!\n<a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a></div>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EfFUTZNWAAURpps.jpg", "https://pbs.twimg.com/media/EfFUTZiXYAIK1Fv.jpg", "https://pbs.twimg.com/media/EfFUTZQX0AkryMq.png" ]
-    }
-  },
-  "tags" : [ "tech-nottingham" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "reposts",
+  "slug": "2020/08/pgxng",
+  "tags": [
+    "tech-nottingham"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

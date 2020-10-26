@@ -1,44 +1,28 @@
 {
-  "date" : "2020-08-02T23:02:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/kieranmch/status/1290026796788772864" ],
-    "name" : [ "Like of @kieranmch's tweet" ],
-    "published" : [ "2020-08-02T23:02:00+01:00" ],
-    "category" : [ "student-loans" ],
-    "like-of" : [ "https://twitter.com/kieranmch/status/1290026796788772864" ]
+  "date": "2020-08-02T23:02:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/kieranmch/status/1290026796788772864"
+    ],
+    "name": [
+      "Like of @kieranmch's tweet"
+    ],
+    "published": [
+      "2020-08-02T23:02:00+01:00"
+    ],
+    "category": [
+      "student-loans"
+    ],
+    "like-of": [
+      "https://twitter.com/kieranmch/status/1290026796788772864"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/kls4c",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1290026796788772864" ],
-      "url" : [ "https://twitter.com/kieranmch/status/1290026796788772864" ],
-      "published" : [ "2020-08-02T20:48:50+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:kieranmch" ],
-          "numeric-id" : [ "50420707" ],
-          "name" : [ "Kieran McHugh" ],
-          "nickname" : [ "kieranmch" ],
-          "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
-          "published" : [ "2009-06-24T20:13:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1170973779675275264/cCZMxVEg.jpg" ]
-        }
-      } ],
-      "content" : [ "I'm in a bracket of \"students who were too poor to pay for their education but now have a good job\" - the bracket most punished by the government's student loans. I've been repaying for 3 years (hundreds of £ per month) and the balance hasn't gone down at all. It's messed up." ],
-      "photo" : [ "https://pbs.twimg.com/media/EecYYlaXoAAmSCS.png" ]
-    }
-  },
-  "tags" : [ "student-loans" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/kls4c",
+  "tags": [
+    "student-loans"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

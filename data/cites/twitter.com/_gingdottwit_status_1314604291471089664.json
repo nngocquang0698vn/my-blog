@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1314604291471089664"
+    ],
+    "url": [
+      "https://twitter.com/gingdottwit/status/1314604291471089664"
+    ],
+    "published": [
+      "2020-10-09T16:31:01+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:gingdottwit"
+          ],
+          "numeric-id": [
+            "33474334"
+          ],
+          "name": [
+            "Max L. Wilson"
+          ],
+          "nickname": [
+            "gingdottwit"
+          ],
+          "url": [
+            "https://twitter.com/gingdottwit",
+            "http://cs.nott.ac.uk/~pszmw"
+          ],
+          "published": [
+            "2009-04-20T10:11:15+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Nottingham, England"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1227336158486593536/j7vBeFIa.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "Doing our own Goose Fair at home tonight since it didn’t happen this year. #goosefair #nottingham",
+        "html": "Doing our own Goose Fair at home tonight since it didn’t happen this year. <a href=\"https://twitter.com/search?q=%23goosefair\">#goosefair</a> <a href=\"https://twitter.com/search?q=%23nottingham\">#nottingham</a>"
+      }
+    ],
+    "photo": [
+      "https://pbs.twimg.com/media/Ej5podoXgAE0Ts_.jpg",
+      "https://pbs.twimg.com/media/Ej5podnWsAAMZTg.jpg",
+      "https://pbs.twimg.com/media/Ej5poe-WkAArUA2.jpg"
+    ]
+  }
+}

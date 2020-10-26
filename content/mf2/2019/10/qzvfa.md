@@ -16,38 +16,9 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/265901272/"
-      ],
-      "name": [
-        "Tech Nottingham November 2019: Lightning Talks!"
-      ],
-      "start": [
-        "2019-11-11T18:30:00Z"
-      ],
-      "end": [
-        "2019-11-11T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

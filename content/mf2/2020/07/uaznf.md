@@ -1,41 +1,31 @@
 {
-  "date" : "2020-07-26T22:42:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "published" : [ "2020-07-26T22:42:00+01:00" ],
-    "repost-of" : [ "https://twitter.com/alexia/status/1287298238471643138" ],
-    "category" : [ ],
-    "content" : [ {
-      "html" : "",
-      "value" : "I really like this 😬"
-    } ]
+  "date": "2020-07-26T22:42:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "published": [
+      "2020-07-26T22:42:00+01:00"
+    ],
+    "repost-of": [
+      "https://twitter.com/alexia/status/1287298238471643138"
+    ],
+    "category": [
+
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "I really like this 😬"
+      }
+    ]
   },
-  "kind" : "reposts",
-  "slug" : "2020/07/uaznf",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1287298238471643138" ],
-      "url" : [ "https://twitter.com/alexia/status/1287298238471643138" ],
-      "published" : [ "2020-07-26T08:06:31+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:alexia" ],
-          "numeric-id" : [ "18327902" ],
-          "name" : [ "Alexia Bonatsos" ],
-          "nickname" : [ "alexia" ],
-          "url" : [ "https://twitter.com/alexia", "http://www.instagram.com/alexia" ],
-          "published" : [ "2008-12-23T06:06:55+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1248451747879641091/7ABb8Tjy.jpg" ]
-        }
-      } ],
-      "content" : [ "The wealthier you are, the more confusing your sink is." ],
-      "photo" : [ "https://pbs.twimg.com/media/Ed1m6yxXkAYvdOf.jpg" ]
-    }
-  },
-  "tags" : [ ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "reposts",
+  "slug": "2020/07/uaznf",
+  "tags": [
+
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

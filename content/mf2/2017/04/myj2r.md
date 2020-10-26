@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/238948627/"
-      ],
-      "name": [
-        "May the 4th Be With You - Sharepoint & Browser Security"
-      ],
-      "start": [
-        "2017-05-04T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-05-04T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Accelerate Places, The Poynt, 45 Wollaton Street, Nottingham, NG1 5FW"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/04/myj2r",
   "aliases": [

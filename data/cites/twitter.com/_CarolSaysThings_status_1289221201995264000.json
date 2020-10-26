@@ -1,0 +1,199 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1289221201995264000"
+    ],
+    "url": [
+      "https://twitter.com/CarolSaysThings/status/1289221201995264000"
+    ],
+    "published": [
+      "2020-07-31T15:27:41+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:CarolSaysThings"
+          ],
+          "numeric-id": [
+            "36382927"
+          ],
+          "name": [
+            "Carol 🌻"
+          ],
+          "nickname": [
+            "CarolSaysThings"
+          ],
+          "url": [
+            "https://twitter.com/CarolSaysThings",
+            "https://carolgilabert.me/"
+          ],
+          "published": [
+            "2009-04-29T15:22:13+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "🇧🇷🇪🇸🇬🇧 · Nottingham"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "html": "RT <a href=\"https://twitter.com/JustGetFlux/status/1288979404677292032\">@JustGetFlux</a> In 2009 we first approached Apple to get f.lux on iPhones. Years of promises of API access. The last conversation we had with them was \"that's too weird for most of our users. Like the Klingon keyboard.\" Then, they announced their clone onstage, Macworld 2016."
+      }
+    ],
+    "repost-of": [
+      {
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:1288979404677292032"
+          ],
+          "url": [
+            "https://twitter.com/JustGetFlux/status/1288979404677292032"
+          ],
+          "published": [
+            "2020-07-30T23:26:52+00:00"
+          ],
+          "author": [
+            {
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "uid": [
+                  "tag:twitter.com:JustGetFlux"
+                ],
+                "numeric-id": [
+                  "975531619"
+                ],
+                "name": [
+                  "JustGetFlux"
+                ],
+                "nickname": [
+                  "JustGetFlux"
+                ],
+                "url": [
+                  "https://twitter.com/JustGetFlux",
+                  "http://justgetflux.com"
+                ],
+                "published": [
+                  "2012-11-28T06:49:00+00:00"
+                ],
+                "location": [
+                  {
+                    "type": [
+                      "h-card",
+                      "p-location"
+                    ],
+                    "properties": {
+                      "name": [
+                        "Los Angeles, CA"
+                      ]
+                    }
+                  }
+                ],
+                "photo": [
+                  "https://pbs.twimg.com/profile_images/2905610109/3efcd59a19323f221f826989096f47d2.png"
+                ]
+              }
+            }
+          ],
+          "content": [
+            "In 2009 we first approached Apple to get f.lux on iPhones. Years of promises of API access. The last conversation we had with them was \"that's too weird for most of our users. Like the Klingon keyboard.\" Then, they announced their clone onstage, Macworld 2016."
+          ]
+        },
+        "children": [
+          {
+            "type": [
+              "u-quotation-of",
+              "h-cite"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:1288600677510451202"
+              ],
+              "url": [
+                "https://twitter.com/reckless/status/1288600677510451202"
+              ],
+              "published": [
+                "2020-07-29T22:21:57+00:00"
+              ],
+              "in-reply-to": [
+                "https://twitter.com/reckless/status/1288600268138074112"
+              ],
+              "author": [
+                {
+                  "type": [
+                    "h-card"
+                  ],
+                  "properties": {
+                    "uid": [
+                      "tag:twitter.com:reckless"
+                    ],
+                    "numeric-id": [
+                      "3496641"
+                    ],
+                    "name": [
+                      "nilay patel"
+                    ],
+                    "nickname": [
+                      "reckless"
+                    ],
+                    "url": [
+                      "https://twitter.com/reckless",
+                      "http://theverge.com"
+                    ],
+                    "published": [
+                      "2007-04-05T06:32:55+00:00"
+                    ],
+                    "location": [
+                      {
+                        "type": [
+                          "h-card",
+                          "p-location"
+                        ],
+                        "properties": {
+                          "name": [
+                            "Brooklyn, NY"
+                          ]
+                        }
+                      }
+                    ],
+                    "photo": [
+                      "https://pbs.twimg.com/profile_images/548935852051533824/r9MxISa-.jpeg"
+                    ]
+                  }
+                }
+              ],
+              "content": [
+                "Neguse to ask Cook about the App Store. Does Apple have to operate by the same rules as developers? Yes, says Cook. Neguse asks why Apple gets to submit clones of apps when the rules specifically prohibit that for others. Cook is \"not familiar with that.\" Woof."
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

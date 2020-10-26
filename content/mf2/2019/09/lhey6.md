@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/265293037/"
-      ],
-      "name": [
-        "Tech Nottingham October 2019 - Hacktoberfest And Evidence-Based Innovation"
-      ],
-      "start": [
-        "2019-10-14T18:30:00+01:00"
-      ],
-      "end": [
-        "2019-10-14T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/09/lhey6",
   "aliases": [

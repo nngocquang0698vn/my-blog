@@ -1,45 +1,22 @@
 {
-  "date" : "2020-09-03T20:46:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/brayjohn24/status/1301299796205023232" ],
-    "name" : [ "Like of @brayjohn24's tweet" ],
-    "published" : [ "2020-09-03T20:46:00+01:00" ],
-    "like-of" : [ "https://twitter.com/brayjohn24/status/1301299796205023232" ]
+  "date": "2020-09-03T20:46:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/brayjohn24/status/1301299796205023232"
+    ],
+    "name": [
+      "Like of @brayjohn24's tweet"
+    ],
+    "published": [
+      "2020-09-03T20:46:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/brayjohn24/status/1301299796205023232"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/7furx",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1301299796205023232" ],
-      "url" : [ "https://twitter.com/brayjohn24/status/1301299796205023232" ],
-      "published" : [ "2020-09-02T23:23:43+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/chaselyons/status/1301193278684049408" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:brayjohn24" ],
-          "numeric-id" : [ "2649520572" ],
-          "name" : [ "BRAYDEN JOHNSON" ],
-          "nickname" : [ "brayjohn24" ],
-          "url" : [ "https://twitter.com/brayjohn24", "https://www.instagram.com/_braydenjohnson3/" ],
-          "published" : [ "2014-07-16T00:20:31+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Looking for a new planet" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1292113537997955072/FEWHbRC1.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "That’s a free A if you play your cards right",
-        "html" : "That’s a free A if you play your cards right\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/chaselyons\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hsaldivar_18\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/7furx",
+  "client_id": "https://indigenous.realize.be"
 }

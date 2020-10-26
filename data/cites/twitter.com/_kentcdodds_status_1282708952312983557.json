@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1282708952312983557"
+    ],
+    "url": [
+      "https://twitter.com/kentcdodds/status/1282708952312983557"
+    ],
+    "published": [
+      "2020-07-13T16:10:20+00:00"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/TejasKumar_/status/1282708017591521281"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:kentcdodds"
+          ],
+          "numeric-id": [
+            "389681470"
+          ],
+          "name": [
+            "Kent C. Dodds 🛸"
+          ],
+          "nickname": [
+            "kentcdodds"
+          ],
+          "url": [
+            "https://twitter.com/kentcdodds",
+            "http://kentcdodds.com",
+            "http://TestingJavaScript.com",
+            "http://EpicReact.Dev"
+          ],
+          "published": [
+            "2011-10-12T20:43:38+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Pleasant Grove, UT"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "@elonmusk does",
+        "html": "<a href=\"https://twitter.com/elonmusk\">@elonmusk</a> does\n<a class=\"u-mention\" href=\"https://twitter.com/TejasKumar_\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/Tesla\"></a>"
+      }
+    ]
+  }
+}

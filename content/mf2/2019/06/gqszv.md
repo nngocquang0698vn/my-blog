@@ -17,37 +17,7 @@
     ],
     "category": [
       "devops-notts"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/DevOps-Notts/events/262473868/"
-      ],
-      "name": [
-        "DevOps Notts"
-      ],
-      "start": [
-        "2019-08-27T18:30:00+0100"
-      ],
-      "end": [
-        "2019-08-27T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Rebel Recruiters, Huntingdon Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/3bfbac9e-e408-41c6-88d4-a40cac0de068/",

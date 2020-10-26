@@ -1,46 +1,28 @@
 {
-  "date" : "2020-08-27T20:52:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @monicalent's tweet" ],
-    "published" : [ "2020-08-27T20:52:00+01:00" ],
-    "category" : [ "blogging" ],
-    "like-of" : [ "https://twitter.com/monicalent/status/1299054522074005504" ]
+  "date": "2020-08-27T20:52:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @monicalent's tweet"
+    ],
+    "published": [
+      "2020-08-27T20:52:00+01:00"
+    ],
+    "category": [
+      "blogging"
+    ],
+    "like-of": [
+      "https://twitter.com/monicalent/status/1299054522074005504"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/ytlfb",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299054522074005504" ],
-      "url" : [ "https://twitter.com/monicalent/status/1299054522074005504" ],
-      "published" : [ "2020-08-27T18:41:47+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:monicalent" ],
-          "numeric-id" : [ "1158897613" ],
-          "name" : [ "Monica Lent" ],
-          "nickname" : [ "monicalent" ],
-          "url" : [ "https://twitter.com/monicalent", "https://monicalent.com", "http://affilimate.com", "http://bloggingfordevs.com" ],
-          "published" : [ "2013-02-08T02:35:11+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Berlin" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1289172401834668032/_HByTEqv.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Dear Tech Twitter:\n\nWhat is your NUMBER ONE favorite blog by someone in tech, who has a *distinct writing style*? Where you read their articles for their *unique personality or voice*?\n\n(Pls no list of twitter handles, direct link to the blog is 👍)",
-        "html" : "<div style=\"white-space: pre\">Dear Tech Twitter:\n\nWhat is your NUMBER ONE favorite blog by someone in tech, who has a *distinct writing style*? Where you read their articles for their *unique personality or voice*?\n\n(Pls no list of twitter handles, direct link to the blog is 👍)</div>"
-      } ]
-    }
-  },
-  "tags" : [ "blogging" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/ytlfb",
+  "tags": [
+    "blogging"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

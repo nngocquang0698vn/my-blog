@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/250609279/"
-      ],
-      "name": [
-        "Women in Tech June 2018: Lightning Talks!"
-      ],
-      "start": [
-        "2018-06-07T18:30:00+01:00"
-      ],
-      "end": [
-        "2018-06-07T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Accelerate Places, The Poynt, 45 Wollaton Street, Nottingham, NG1 5FW"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/06/htd7h",
   "aliases": [

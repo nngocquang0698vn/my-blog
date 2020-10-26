@@ -1,0 +1,138 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1314647585139941377"
+    ],
+    "url": [
+      "https://twitter.com/HannahFoxwell/status/1314647585139941377"
+    ],
+    "published": [
+      "2020-10-09T19:23:03+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:HannahFoxwell"
+          ],
+          "numeric-id": [
+            "407175927"
+          ],
+          "name": [
+            "Hannah Foxwell"
+          ],
+          "nickname": [
+            "HannahFoxwell"
+          ],
+          "url": [
+            "https://twitter.com/HannahFoxwell",
+            "http://hannahfoxwell.net"
+          ],
+          "published": [
+            "2011-11-07T18:54:15+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "York"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1142754908191563779/3IJzMnyQ.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "Just finished my slides for @technottingham on Monday! \n\nThe great thing about online events is that you don’t even need to be from Nottingham! Come and hang out with this awesome community!",
+        "html": "<div style=\"white-space: pre\">Just finished my slides for <a href=\"https://twitter.com/technottingham\">@technottingham</a> on Monday! \n\nThe great thing about online events is that you don’t even need to be from Nottingham! Come and hang out with this awesome community!</div>"
+      }
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1314475688930373632"
+        ],
+        "url": [
+          "https://twitter.com/technottingham/status/1314475688930373632"
+        ],
+        "video": [
+          "https://video.twimg.com/ext_tw_video/1313462275458691074/pu/vid/1280x720/Z3mxfzxKFHLj1V0r.mp4?tag=10"
+        ],
+        "published": [
+          "2020-10-09T08:00:00+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:technottingham"
+              ],
+              "numeric-id": [
+                "384492431"
+              ],
+              "name": [
+                "Tech Nottingham"
+              ],
+              "nickname": [
+                "technottingham"
+              ],
+              "url": [
+                "https://twitter.com/technottingham",
+                "http://technottingham.com"
+              ],
+              "published": [
+                "2011-10-03T19:47:31+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "Nottingham"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "🙌 THIS MONDAY🙌\nIt's #TechNott featuring @HannahFoxwell of @pivotallabs talking about managing change, along with activities, prizes, community and more 😊\n\nWe'll see you there - online at 18:30\nnott.tech/tnOct20",
+            "html": "<div style=\"white-space: pre\">🙌 THIS MONDAY🙌\nIt's <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> featuring <a href=\"https://twitter.com/HannahFoxwell\">@HannahFoxwell</a> of <a href=\"https://twitter.com/pivotallabs\">@pivotallabs</a> talking about managing change, along with activities, prizes, community and more 😊\n\nWe'll see you there - online at 18:30\n<a href=\"http://nott.tech/tnOct20\">nott.tech/tnOct20</a></div>"
+          }
+        ]
+      }
+    }
+  ]
+}

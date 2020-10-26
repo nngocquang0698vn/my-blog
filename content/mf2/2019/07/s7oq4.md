@@ -11,37 +11,7 @@
     ],
     "category": [
       "notts-js"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/qhnpfqyzlbrb/"
-      ],
-      "name": [
-        "JS in CSS, the magic of Houdini"
-      ],
-      "start": [
-        "2019-08-13T18:00:00+0100"
-      ],
-      "end": [
-        "2019-08-13T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Trent House, Station Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/f551c9ae-e17e-4b71-9cab-5c5c5645d421/",

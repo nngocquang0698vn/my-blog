@@ -1,45 +1,22 @@
 {
-  "date" : "2020-08-22T17:18:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/jennschiffer/status/1296931719937851392" ],
-    "name" : [ "Like of @jennschiffer's tweet" ],
-    "published" : [ "2020-08-22T17:18:00+01:00" ],
-    "like-of" : [ "https://twitter.com/jennschiffer/status/1296931719937851392" ]
+  "date": "2020-08-22T17:18:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/jennschiffer/status/1296931719937851392"
+    ],
+    "name": [
+      "Like of @jennschiffer's tweet"
+    ],
+    "published": [
+      "2020-08-22T17:18:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/jennschiffer/status/1296931719937851392"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/vn2k4",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1296931719937851392" ],
-      "url" : [ "https://twitter.com/jennschiffer/status/1296931719937851392" ],
-      "published" : [ "2020-08-21T22:06:32+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:jennschiffer" ],
-          "numeric-id" : [ "12524622" ],
-          "name" : [ "jenn" ],
-          "nickname" : [ "jennschiffer" ],
-          "url" : [ "https://twitter.com/jennschiffer", "https://livelaugh.blog", "http://make8bitart.com", "http://livelaugh.blog" ],
-          "published" : [ "2008-01-22T05:42:15+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "jersey city, she/her" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1296606847240208384/FBW8S1_h.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "my socks say “eat shit” (thanks @gf3)",
-        "html" : "my socks say “eat shit” (thanks <a href=\"https://twitter.com/gf3\">@gf3</a>)"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/Ef-ggwcXoAI70mq.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/vn2k4",
+  "client_id": "https://indigenous.realize.be"
 }

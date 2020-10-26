@@ -1,46 +1,28 @@
 {
-  "date" : "2020-08-11T22:08:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/edent/status/1293260508666179584" ],
-    "name" : [ "Like of @edent's tweet" ],
-    "published" : [ "2020-08-11T22:08:00+01:00" ],
-    "category" : [ "twitter" ],
-    "like-of" : [ "https://twitter.com/edent/status/1293260508666179584" ]
+  "date": "2020-08-11T22:08:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/edent/status/1293260508666179584"
+    ],
+    "name": [
+      "Like of @edent's tweet"
+    ],
+    "published": [
+      "2020-08-11T22:08:00+01:00"
+    ],
+    "category": [
+      "twitter"
+    ],
+    "like-of": [
+      "https://twitter.com/edent/status/1293260508666179584"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/3nglx",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1293260508666179584" ],
-      "url" : [ "https://twitter.com/edent/status/1293260508666179584" ],
-      "published" : [ "2020-08-11T18:58:27+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:edent" ],
-          "numeric-id" : [ "14054507" ],
-          "name" : [ "Terence Eden" ],
-          "nickname" : [ "edent" ],
-          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
-          "published" : [ "2008-02-28T13:10:25+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Having seen some vile comments on otherwise sensible threads, I'm rather pleased with this ability to limit replies.\nI don't see it as much different to moderating comments on your blog.\nYes, Twitter is a walled garden, but that doesn't mean you can't prune the weeds.",
-        "html" : "<div style=\"white-space: pre\">Having seen some vile comments on otherwise sensible threads, I'm rather pleased with this ability to limit replies.\nI don't see it as much different to moderating comments on your blog.\nYes, Twitter is a walled garden, but that doesn't mean you can't prune the weeds.</div>"
-      } ]
-    }
-  },
-  "tags" : [ "twitter" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/3nglx",
+  "tags": [
+    "twitter"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

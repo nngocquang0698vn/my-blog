@@ -21,37 +21,7 @@
         "html": "",
         "value": "It's a shame as this sounds good, but it clashes with https://www.jvt.me/events/homebrew-website-club-nottingham/2019/10/16/ and as it's Hacktoberfest it's going to be pretty busy, methinks!"
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Nottingham-Cyber-Capital-One/events/264520277/"
-      ],
-      "name": [
-        "Cyber Nottingham - October Meetup"
-      ],
-      "start": [
-        "2019-10-16T18:00:00+01:00"
-      ],
-      "end": [
-        "2019-10-16T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/10/cycqv",
   "aliases": [

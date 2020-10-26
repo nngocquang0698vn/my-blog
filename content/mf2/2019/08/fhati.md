@@ -11,37 +11,7 @@
     ],
     "category": [
       "fosdem"
-    ],
-    "event": {
-      "url": [
-        "https://fosdem.org/2020/"
-      ],
-      "name": [
-        "FOSDEM 2020"
-      ],
-      "start": [
-        "2020-02-01T09:00:00+0100"
-      ],
-      "end": [
-        "2020-02-02T18:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "ULB, Campus du Solbosch, Av. F. D. Roosevelt 50"
-          ],
-          "locality": [
-            "Brussels"
-          ],
-          "country-name": [
-            "Belgium"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "h": "h-entry",
   "date": "2019-08-11T10:59:26Z",
@@ -50,5 +20,7 @@
   "aliases": [
     "/mf2/3d6476f0-d850-4bf4-9314-db0489793a0c/"
   ],
-  "tags": ["fosdem"]
+  "tags": [
+    "fosdem"
+  ]
 }

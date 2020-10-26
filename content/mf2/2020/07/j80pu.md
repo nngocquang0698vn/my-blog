@@ -1,68 +1,22 @@
 {
-  "date" : "2020-07-26T22:38:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/baddestmamajama/status/1287118416231317504" ],
-    "name" : [ "Like of @baddestmamajama's tweet" ],
-    "published" : [ "2020-07-26T22:38:00+01:00" ],
-    "like-of" : [ "https://twitter.com/baddestmamajama/status/1287118416231317504" ]
+  "date": "2020-07-26T22:38:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/baddestmamajama/status/1287118416231317504"
+    ],
+    "name": [
+      "Like of @baddestmamajama's tweet"
+    ],
+    "published": [
+      "2020-07-26T22:38:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/baddestmamajama/status/1287118416231317504"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/j80pu",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1287118416231317504" ],
-      "url" : [ "https://twitter.com/baddestmamajama/status/1287118416231317504" ],
-      "published" : [ "2020-07-25T20:11:58+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:baddestmamajama" ],
-          "numeric-id" : [ "568519130" ],
-          "name" : [ "Jessica Ellis" ],
-          "nickname" : [ "baddestmamajama" ],
-          "url" : [ "https://twitter.com/baddestmamajama", "https://baddestmamajama.substack.com/" ],
-          "published" : [ "2012-05-01T20:39:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Los Angeles, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1058008238614925312/-Vms_t9y.jpg" ]
-        }
-      } ],
-      "content" : [ "My general rule is if there’s a dude a lot of men think is a genius and a lot of women are very wary of, the women are right." ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1287008799686098945" ],
-        "url" : [ "https://twitter.com/historyofarmani/status/1287008799686098945" ],
-        "published" : [ "2020-07-25T12:56:23+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:historyofarmani" ],
-            "numeric-id" : [ "2897353667" ],
-            "name" : [ "Armani" ],
-            "nickname" : [ "historyofarmani" ],
-            "url" : [ "https://twitter.com/historyofarmani" ],
-            "published" : [ "2014-11-29T13:11:29+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Boston, MA" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1265696449075052545/B0RhxpCl.jpg" ]
-          }
-        } ],
-        "content" : [ "Elon Musk went from Tony Stark to Lex Luthor so fast" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/j80pu",
+  "client_id": "https://indigenous.realize.be"
 }

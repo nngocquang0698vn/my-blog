@@ -22,38 +22,9 @@
         "html": "",
         "value": ""
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/266227370/"
-      ],
-      "name": [
-        "#NottTechParty - The Nottingham Tech Community Christmas Party 2019"
-      ],
-      "start": [
-        "2019-12-02T18:30:00Z"
-      ],
-      "end": [
-        "2019-12-02T22:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Penny Lane, 9 Fletcher Gate"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

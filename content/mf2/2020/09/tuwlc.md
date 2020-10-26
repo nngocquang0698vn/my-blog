@@ -1,42 +1,22 @@
 {
-  "date" : "2020-09-10T13:32:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ow/status/1304034348069523467" ],
-    "name" : [ "Like of @ow's tweet" ],
-    "published" : [ "2020-09-10T13:32:00+01:00" ],
-    "like-of" : [ "https://twitter.com/ow/status/1304034348069523467" ]
+  "date": "2020-09-10T13:32:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ow/status/1304034348069523467"
+    ],
+    "name": [
+      "Like of @ow's tweet"
+    ],
+    "published": [
+      "2020-09-10T13:32:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/ow/status/1304034348069523467"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/tuwlc",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1304034348069523467" ],
-      "url" : [ "https://twitter.com/ow/status/1304034348069523467" ],
-      "published" : [ "2020-09-10T12:29:51+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ow" ],
-          "numeric-id" : [ "14767730" ],
-          "name" : [ "Owen Williams ⚡🇨🇦" ],
-          "nickname" : [ "ow" ],
-          "url" : [ "https://twitter.com/ow", "https://medium.com/one-zero/debugger/home" ],
-          "published" : [ "2008-05-14T01:48:28+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Toronto, Ontario" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1182010589473849346/f30nGbel.jpg" ]
-        }
-      } ],
-      "content" : [ "so Apache Zookeeper has this thing where you can ask if it's doing ok" ],
-      "photo" : [ "https://pbs.twimg.com/media/EhjcVB3WsAErd4M.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/tuwlc",
+  "client_id": "https://indigenous.realize.be"
 }

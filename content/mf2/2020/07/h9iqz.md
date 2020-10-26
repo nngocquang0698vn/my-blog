@@ -1,74 +1,28 @@
 {
-  "date" : "2020-07-16T09:46:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/kieranmch/status/1283680037519208448" ],
-    "name" : [ "Like of @kieranmch's tweet" ],
-    "published" : [ "2020-07-16T09:46:00+01:00" ],
-    "category" : [ "monzo" ],
-    "like-of" : [ "https://twitter.com/kieranmch/status/1283680037519208448" ]
+  "date": "2020-07-16T09:46:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/kieranmch/status/1283680037519208448"
+    ],
+    "name": [
+      "Like of @kieranmch's tweet"
+    ],
+    "published": [
+      "2020-07-16T09:46:00+01:00"
+    ],
+    "category": [
+      "monzo"
+    ],
+    "like-of": [
+      "https://twitter.com/kieranmch/status/1283680037519208448"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/h9iqz",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283680037519208448" ],
-      "url" : [ "https://twitter.com/kieranmch/status/1283680037519208448" ],
-      "published" : [ "2020-07-16T08:29:05+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:kieranmch" ],
-          "numeric-id" : [ "50420707" ],
-          "name" : [ "Kieran McHugh" ],
-          "nickname" : [ "kieranmch" ],
-          "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
-          "published" : [ "2009-06-24T20:13:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1170973779675275264/cCZMxVEg.jpg" ]
-        }
-      } ],
-      "content" : [ "Just look at it... 😍" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1283679188873031681" ],
-        "url" : [ "https://twitter.com/blob8108/status/1283679188873031681" ],
-        "video" : [ "https://video.twimg.com/ext_tw_video/1283679094501265413/pu/vid/1280x720/kVLjNXfxpbr6f_ko.mp4?tag=10" ],
-        "published" : [ "2020-07-16T08:25:42+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:blob8108" ],
-            "numeric-id" : [ "178781316" ],
-            "name" : [ "blobby tables" ],
-            "nickname" : [ "blob8108" ],
-            "url" : [ "https://twitter.com/blob8108" ],
-            "published" : [ "2010-08-15T17:41:18+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "London, England" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/960165326934761473/-QVkteCi.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "me \"unboxing\" one of the first @Monzo Plus holographic cards",
-          "html" : "me \"unboxing\" one of the first <a href=\"https://twitter.com/monzo\">@Monzo</a> Plus holographic cards"
-        } ]
-      }
-    } ]
-  },
-  "tags" : [ "monzo" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/h9iqz",
+  "tags": [
+    "monzo"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

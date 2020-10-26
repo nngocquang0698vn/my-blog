@@ -1,46 +1,25 @@
 {
-  "date" : "2020-09-28T17:24:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ben_nuttall/status/1310573987647434752" ],
-    "name" : [ "Like of @ben_nuttall's tweet" ],
-    "published" : [ "2020-09-28T17:24:00+0100" ],
-    "like-of" : [ "https://twitter.com/ben_nuttall/status/1310573987647434752" ],
-    "post-status" : [ "published" ]
+  "date": "2020-09-28T17:24:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ben_nuttall/status/1310573987647434752"
+    ],
+    "name": [
+      "Like of @ben_nuttall's tweet"
+    ],
+    "published": [
+      "2020-09-28T17:24:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/ben_nuttall/status/1310573987647434752"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/1rrna",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1310573987647434752" ],
-      "url" : [ "https://twitter.com/ben_nuttall/status/1310573987647434752" ],
-      "published" : [ "2020-09-28T13:36:02+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ben_nuttall" ],
-          "numeric-id" : [ "27241881" ],
-          "name" : [ "Ben Nuttall" ],
-          "nickname" : [ "ben_nuttall" ],
-          "url" : [ "https://twitter.com/ben_nuttall", "https://bennuttall.com" ],
-          "published" : [ "2009-03-28T15:00:50+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Cambridgeshire, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/528155792013160448/cobxlRc8.jpeg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Ok this is pretty good teefantastic.com/stay-at-127-0-…",
-        "html" : "Ok this is pretty good <a href=\"https://www.teefantastic.com/stay-at-127-0-0-1\">teefantastic.com/stay-at-127-0-…</a>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EjAYGIBXkAALbYJ.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/1rrna",
+  "client_id": "https://indigenous.realize.be"
 }

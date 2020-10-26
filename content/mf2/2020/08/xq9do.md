@@ -1,72 +1,22 @@
 {
-  "date" : "2020-08-29T11:19:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1299647970732920832" ],
-    "name" : [ "Like of @CarolSaysThings's tweet" ],
-    "published" : [ "2020-08-29T11:19:00+01:00" ],
-    "like-of" : [ "https://twitter.com/CarolSaysThings/status/1299647970732920832" ]
+  "date": "2020-08-29T11:19:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/CarolSaysThings/status/1299647970732920832"
+    ],
+    "name": [
+      "Like of @CarolSaysThings's tweet"
+    ],
+    "published": [
+      "2020-08-29T11:19:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/CarolSaysThings/status/1299647970732920832"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/xq9do",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299647970732920832" ],
-      "url" : [ "https://twitter.com/CarolSaysThings/status/1299647970732920832" ],
-      "published" : [ "2020-08-29T09:59:57+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
-          "numeric-id" : [ "36382927" ],
-          "name" : [ "Carol 🌻" ],
-          "nickname" : [ "CarolSaysThings" ],
-          "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
-          "published" : [ "2009-04-29T15:22:13+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1295718060301713408/XcKwL0Z8.jpg" ]
-        }
-      } ],
-      "content" : [ "This 😅😅" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1298867840288559104" ],
-        "url" : [ "https://twitter.com/therealwavybaby/status/1298867840288559104" ],
-        "published" : [ "2020-08-27T06:19:59+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:therealwavybaby" ],
-            "numeric-id" : [ "810336835" ],
-            "name" : [ "waviest" ],
-            "nickname" : [ "therealwavybaby" ],
-            "url" : [ "https://twitter.com/therealwavybaby", "http://fuckice.com" ],
-            "published" : [ "2012-09-08T06:32:11+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "town baby" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1288555456852447232/-Sbd7a70.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "“Hope this email finds you well”\n\nHow the email found me:",
-          "html" : "<div style=\"white-space: pre\">“Hope this email finds you well”\n\nHow the email found me:</div>"
-        } ],
-        "photo" : [ "https://pbs.twimg.com/media/EgaBaqfUwAEo-DY.jpg" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/xq9do",
+  "client_id": "https://indigenous.realize.be"
 }

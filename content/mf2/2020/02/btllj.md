@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Tech-Nottingham/events/268712430/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Antenna, Beck Street, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/268712430/"
-      ],
-      "name": [
-        "Tech Nottingham April - Building Effective Teams When You're in Different Places"
-      ],
-      "start": [
-        "2020-04-20T18:30:00+01:00"
-      ],
-      "end": [
-        "2020-04-20T21:00:00+01:00"
-      ]
-    }
+    ]
   }
 }

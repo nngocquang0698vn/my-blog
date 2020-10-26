@@ -1,41 +1,22 @@
 {
-  "date" : "2020-07-15T12:19:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/danadonly/status/1283056790523920384" ],
-    "name" : [ "Like of @danadonly's tweet" ],
-    "published" : [ "2020-07-15T12:19:00+01:00" ],
-    "like-of" : [ "https://twitter.com/danadonly/status/1283056790523920384" ]
+  "date": "2020-07-15T12:19:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/danadonly/status/1283056790523920384"
+    ],
+    "name": [
+      "Like of @danadonly's tweet"
+    ],
+    "published": [
+      "2020-07-15T12:19:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/danadonly/status/1283056790523920384"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/9kw5c",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283056790523920384" ],
-      "url" : [ "https://twitter.com/danadonly/status/1283056790523920384" ],
-      "published" : [ "2020-07-14T15:12:31+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:danadonly" ],
-          "numeric-id" : [ "21573865" ],
-          "name" : [ "Dana Donnelly" ],
-          "nickname" : [ "danadonly" ],
-          "url" : [ "https://twitter.com/danadonly", "https://blacklivesmatters.carrd.co" ],
-          "published" : [ "2009-02-22T16:00:23+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Los Angeles, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1279057814413930499/aB7EgOjF.jpg" ]
-        }
-      } ],
-      "content" : [ "BREAKING: ex boyfriend now dating girl he swore he followed “by accident” when we were together" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/9kw5c",
+  "client_id": "https://indigenous.realize.be"
 }

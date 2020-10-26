@@ -1,47 +1,25 @@
 {
-  "date" : "2020-09-26T22:55:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @marmaladegirl's tweet" ],
-    "published" : [ "2020-09-26T22:55:00+0100" ],
-    "like-of" : [ "https://twitter.com/marmaladegirl/status/1309966076244099072" ],
-    "post-status" : [ "published" ]
+  "date": "2020-09-26T22:55:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @marmaladegirl's tweet"
+    ],
+    "published": [
+      "2020-09-26T22:55:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/marmaladegirl/status/1309966076244099072"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/dctux",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1309966076244099072" ],
-      "url" : [ "https://twitter.com/marmaladegirl/status/1309966076244099072" ],
-      "video" : [ "https://video.twimg.com/tweet_video/Ei3vMvZXgAcuThD.mp4" ],
-      "published" : [ "2020-09-26T21:20:25+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/garyshort/status/1309810115403448322" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:marmaladegirl" ],
-          "numeric-id" : [ "12070792" ],
-          "name" : [ "Elsa" ],
-          "nickname" : [ "marmaladegirl" ],
-          "url" : [ "https://twitter.com/marmaladegirl", "http://www.elsabartley.co.uk" ],
-          "published" : [ "2008-01-10T14:12:16+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/979293795375345664/CPGiWUWT.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "So how many guys have you slept with?",
-        "html" : "So how many guys have you slept with?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/garyshort\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pete_codes\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/dctux",
+  "client_id": "https://indigenous.realize.be"
 }

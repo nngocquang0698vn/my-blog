@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/241857364/"
-      ],
-      "name": [
-        "August 2017 - Hands on with React.Native"
-      ],
-      "start": [
-        "2017-08-08T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-08-08T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/07/yo7uw",
   "aliases": [

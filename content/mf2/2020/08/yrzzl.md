@@ -1,46 +1,28 @@
 {
-  "date" : "2020-08-16T15:50:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/freezydorito/status/1294999178926534658" ],
-    "name" : [ "Like of @freezydorito's tweet" ],
-    "published" : [ "2020-08-16T15:50:00+01:00" ],
-    "category" : [ "shitpost" ],
-    "like-of" : [ "https://twitter.com/freezydorito/status/1294999178926534658" ]
+  "date": "2020-08-16T15:50:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/freezydorito/status/1294999178926534658"
+    ],
+    "name": [
+      "Like of @freezydorito's tweet"
+    ],
+    "published": [
+      "2020-08-16T15:50:00+01:00"
+    ],
+    "category": [
+      "shitpost"
+    ],
+    "like-of": [
+      "https://twitter.com/freezydorito/status/1294999178926534658"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/yrzzl",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1294999178926534658" ],
-      "url" : [ "https://twitter.com/freezydorito/status/1294999178926534658" ],
-      "published" : [ "2020-08-16T14:07:18+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:freezydorito" ],
-          "numeric-id" : [ "3004020255" ],
-          "name" : [ "laura calabazas" ],
-          "nickname" : [ "freezydorito" ],
-          "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
-          "published" : [ "2015-01-29T10:06:54+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "\"shoreditch\" allegedly" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1294254216756834304/EejH9Tpl.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "my friend, drunk at 3am, starving: heyyy do u wanna do five guys\nme: sure?? but i thought you were a lesbian??",
-        "html" : "<div style=\"white-space: pre\">my friend, drunk at 3am, starving: heyyy do u wanna do five guys\nme: sure?? but i thought you were a lesbian??</div>"
-      } ]
-    }
-  },
-  "tags" : [ "shitpost" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/yrzzl",
+  "tags": [
+    "shitpost"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

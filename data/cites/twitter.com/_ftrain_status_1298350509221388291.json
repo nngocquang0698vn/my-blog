@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1298350509221388291"
+    ],
+    "url": [
+      "https://twitter.com/ftrain/status/1298350509221388291"
+    ],
+    "published": [
+      "2020-08-25T20:04:18+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:ftrain"
+          ],
+          "numeric-id": [
+            "6981492"
+          ],
+          "name": [
+            "Paul Ford"
+          ],
+          "nickname": [
+            "ftrain"
+          ],
+          "url": [
+            "https://twitter.com/ftrain",
+            "https://postlight.com"
+          ],
+          "published": [
+            "2007-06-21T01:11:33+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Manhattan, NY/Brooklyn, NY"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/892157437284945921/-8XR3Vs6.png"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Wikipedia just alerted me that an edit made from my IP address was been reverted by a bot, which was surprising, so I looked into it, and now I need to have a whole new kind of discussion with my children."
+    ],
+    "photo": [
+      "https://pbs.twimg.com/media/EgSqH4BWsAYNgnQ.png"
+    ]
+  }
+}

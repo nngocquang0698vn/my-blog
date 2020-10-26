@@ -17,37 +17,7 @@
     ],
     "category": [
       "notts-techfast"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Notts-Techfast/events/262030947/"
-      ],
-      "name": [
-        "Notts Techfast - Dan Caseley: What do testers even do all day?"
-      ],
-      "start": [
-        "2019-06-26T07:30:00+0100"
-      ],
-      "end": [
-        "2019-06-26T09:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Fothergill House, 16 King Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/0f8569c1-946a-4782-8297-81228d5fc196/",

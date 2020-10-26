@@ -1,42 +1,22 @@
 {
-  "date" : "2020-08-02T14:29:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/50FirstTates/status/1286807792096104448" ],
-    "name" : [ "Like of @50FirstTates's tweet" ],
-    "published" : [ "2020-08-02T14:29:00+01:00" ],
-    "like-of" : [ "https://twitter.com/50FirstTates/status/1286807792096104448" ]
+  "date": "2020-08-02T14:29:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/50FirstTates/status/1286807792096104448"
+    ],
+    "name": [
+      "Like of @50FirstTates's tweet"
+    ],
+    "published": [
+      "2020-08-02T14:29:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/50FirstTates/status/1286807792096104448"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/tucxb",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1286807792096104448" ],
-      "url" : [ "https://twitter.com/50FirstTates/status/1286807792096104448" ],
-      "published" : [ "2020-07-24T23:37:40+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/50FirstTates/status/1286715314047197184" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:50FirstTates" ],
-          "numeric-id" : [ "1214937327014989824" ],
-          "name" : [ "tatum" ],
-          "nickname" : [ "50FirstTates" ],
-          "url" : [ "https://twitter.com/50FirstTates", "https://twitter.com/search?q=(from%3A50firsttates)%20min_retweets%3A100&src=typed_query" ],
-          "published" : [ "2020-01-08T15:50:10+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "horace green prep" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1286018423449845760/uj8OZIgb.jpg" ]
-        }
-      } ],
-      "content" : [ "update: i pet my cat. he bit me and meowed until i attempted to pet him again. then he wouldn’t let me" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/tucxb",
+  "client_id": "https://indigenous.realize.be"
 }

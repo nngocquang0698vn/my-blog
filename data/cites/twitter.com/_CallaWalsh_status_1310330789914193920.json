@@ -1,0 +1,79 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1310330789914193920"
+    ],
+    "url": [
+      "https://twitter.com/CallaWalsh/status/1310330789914193920"
+    ],
+    "published": [
+      "2020-09-27T21:29:39+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:CallaWalsh"
+          ],
+          "numeric-id": [
+            "1088232459844702215"
+          ],
+          "name": [
+            "Calla"
+          ],
+          "nickname": [
+            "CallaWalsh"
+          ],
+          "url": [
+            "https://twitter.com/CallaWalsh",
+            "http://8toabolition.com"
+          ],
+          "published": [
+            "2019-01-24T00:30:11+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Cambridge // Massachusett land"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1310366738664558592/H1wk3nlV.jpg"
+          ]
+        }
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card",
+          "p-location"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:8193d87541f11dfb"
+          ],
+          "name": [
+            "Cambridge, MA"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I am a 16-year-old part-time minimum wage worker and I pay more income taxes than the billionaire President of the United States"
+    ]
+  }
+}

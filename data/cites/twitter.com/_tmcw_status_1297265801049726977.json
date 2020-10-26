@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1297265801049726977"
+    ],
+    "url": [
+      "https://twitter.com/tmcw/status/1297265801049726977"
+    ],
+    "published": [
+      "2020-08-22T20:14:03+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:tmcw"
+          ],
+          "numeric-id": [
+            "1458271"
+          ],
+          "name": [
+            "Tom MacWright"
+          ],
+          "nickname": [
+            "tmcw"
+          ],
+          "url": [
+            "https://twitter.com/tmcw",
+            "https://macwright.com/"
+          ],
+          "published": [
+            "2007-03-19T01:06:50+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "lon, lat"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1172554769237336065/CIdcAG0d.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "okay, here's my pitch: let's redo the web macwright.com/2020/08/22/cle…",
+        "html": "okay, here's my pitch: let's redo the web <a href=\"https://macwright.com/2020/08/22/clean-starts-for-the-web.html\">macwright.com/2020/08/22/cle…</a>"
+      }
+    ]
+  }
+}

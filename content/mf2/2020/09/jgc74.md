@@ -1,36 +1,22 @@
 {
-  "date" : "2020-09-06T18:46:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @lottelydia's tweet" ],
-    "published" : [ "2020-09-06T18:46:00+01:00" ],
-    "like-of" : [ "https://twitter.com/lottelydia/status/1302519847897751553" ]
+  "date": "2020-09-06T18:46:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @lottelydia's tweet"
+    ],
+    "published": [
+      "2020-09-06T18:46:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/lottelydia/status/1302519847897751553"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/jgc74",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1302519847897751553" ],
-      "url" : [ "https://twitter.com/lottelydia/status/1302519847897751553" ],
-      "published" : [ "2020-09-06T08:11:46+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:lottelydia" ],
-          "numeric-id" : [ "16805695" ],
-          "name" : [ "Dr Charlotte Lydia Riley" ],
-          "nickname" : [ "lottelydia" ],
-          "url" : [ "https://twitter.com/lottelydia", "http://tomorrowneverknowspod.com/", "http://tinyurl.com/sojs272" ],
-          "published" : [ "2008-10-16T11:34:33+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1289879964683304964/5pOQoo4o.jpg" ]
-        }
-      } ],
-      "content" : [ "Hang on. So... paywalls are against free speech, are they? So the Telegraph is itself complicit in an attack on free speech, every other weekend? I’m not sure they have quite thought this through." ],
-      "photo" : [ "https://pbs.twimg.com/media/EhN6pb-XYAA8C_k.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/jgc74",
+  "client_id": "https://indigenous.realize.be"
 }

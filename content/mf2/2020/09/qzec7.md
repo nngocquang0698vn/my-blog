@@ -1,44 +1,22 @@
 {
-  "date" : "2020-09-02T21:40:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/iKyriakidis/status/1301247895476359168" ],
-    "name" : [ "Like of @iKyriakidis's tweet" ],
-    "published" : [ "2020-09-02T21:40:00+01:00" ],
-    "like-of" : [ "https://twitter.com/iKyriakidis/status/1301247895476359168" ]
+  "date": "2020-09-02T21:40:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/iKyriakidis/status/1301247895476359168"
+    ],
+    "name": [
+      "Like of @iKyriakidis's tweet"
+    ],
+    "published": [
+      "2020-09-02T21:40:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/iKyriakidis/status/1301247895476359168"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/qzec7",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1301247895476359168" ],
-      "url" : [ "https://twitter.com/iKyriakidis/status/1301247895476359168" ],
-      "published" : [ "2020-09-02T19:57:28+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:iKyriakidis" ],
-          "numeric-id" : [ "145740179" ],
-          "name" : [ "Kyriakidis Iraklis" ],
-          "nickname" : [ "iKyriakidis" ],
-          "url" : [ "https://twitter.com/iKyriakidis", "https://www.irakliskyriakidis.eu" ],
-          "published" : [ "2010-05-19T19:14:15+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Stockholm" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/643526477397557248/hioRs0DG.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "I have been thinking about this for so many years and apparently someone wrote a post about it jvt.me/posts/2020/09/…",
-        "html" : "I have been thinking about this for so many years and apparently someone wrote a post about it <a href=\"https://www.jvt.me/posts/2020/09/01/against-online-tooling/\">jvt.me/posts/2020/09/…</a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/qzec7",
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,0 +1,65 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1308147748441481216"
+    ],
+    "url": [
+      "https://twitter.com/nasamuffin/status/1308147748441481216"
+    ],
+    "published": [
+      "2020-09-21T20:55:02+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:nasamuffin"
+          ],
+          "numeric-id": [
+            "14398789"
+          ],
+          "name": [
+            "emily dogmom"
+          ],
+          "nickname": [
+            "nasamuffin"
+          ],
+          "url": [
+            "https://twitter.com/nasamuffin"
+          ],
+          "published": [
+            "2008-04-15T17:24:34+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "San Jose, CA"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/924020478980767744/wEKraX0v.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "me: \"linux [task for automation]\"\ngoogle: \"ubuntu forums? stackoverflow?\"\nme: *sighs*\nme: \"arch [task for automation]\"\ngoogle: \"here's archwiki with exactly what you want in less than 10 lines\"",
+        "html": "<div style=\"white-space: pre\">me: \"linux [task for automation]\"\ngoogle: \"ubuntu forums? stackoverflow?\"\nme: *sighs*\nme: \"arch [task for automation]\"\ngoogle: \"here's archwiki with exactly what you want in less than 10 lines\"</div>"
+      }
+    ]
+  }
+}

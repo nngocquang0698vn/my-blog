@@ -1,38 +1,28 @@
 {
-  "date" : "2020-09-06T18:46:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/kelseyahe/status/1302222240176582656" ],
-    "name" : [ "Like of @kelseyahe's tweet" ],
-    "published" : [ "2020-09-06T18:46:00+01:00" ],
-    "category" : [ "food" ],
-    "like-of" : [ "https://twitter.com/kelseyahe/status/1302222240176582656" ]
+  "date": "2020-09-06T18:46:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/kelseyahe/status/1302222240176582656"
+    ],
+    "name": [
+      "Like of @kelseyahe's tweet"
+    ],
+    "published": [
+      "2020-09-06T18:46:00+01:00"
+    ],
+    "category": [
+      "food"
+    ],
+    "like-of": [
+      "https://twitter.com/kelseyahe/status/1302222240176582656"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/cs7zv",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1302222240176582656" ],
-      "url" : [ "https://twitter.com/kelseyahe/status/1302222240176582656" ],
-      "published" : [ "2020-09-05T12:29:10+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:kelseyahe" ],
-          "numeric-id" : [ "2878573575" ],
-          "name" : [ "Kelsey Houston-Edwards" ],
-          "nickname" : [ "kelseyahe" ],
-          "url" : [ "https://twitter.com/kelseyahe", "http://kelseyhoustonedwards.com" ],
-          "published" : [ "2014-11-15T21:22:41+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/741634702306627584/mQlVFzg6.jpg" ]
-        }
-      } ],
-      "content" : [ "The round tomatoes arrange themselves in a satisfying hexagonal packing. But the elliptic ones are so disorganized. What's the optimal way to pack ovals and how do I convince my tomatoes to behave accordingly?" ],
-      "photo" : [ "https://pbs.twimg.com/media/EhJr6vnXkAYDeui.jpg", "https://pbs.twimg.com/media/EhJr6v8WsAAHF_P.jpg" ]
-    }
-  },
-  "tags" : [ "food" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/cs7zv",
+  "tags": [
+    "food"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,39 +1,22 @@
 {
-  "date" : "2020-07-12T20:27:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/DJROE95/status/1282298559539425280" ],
-    "name" : [ "Like of @DJROE95's tweet" ],
-    "published" : [ "2020-07-12T20:27:00+01:00" ],
-    "like-of" : [ "https://twitter.com/DJROE95/status/1282298559539425280" ]
+  "date": "2020-07-12T20:27:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/DJROE95/status/1282298559539425280"
+    ],
+    "name": [
+      "Like of @DJROE95's tweet"
+    ],
+    "published": [
+      "2020-07-12T20:27:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/DJROE95/status/1282298559539425280"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/ubddl",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1282298559539425280" ],
-      "url" : [ "https://twitter.com/DJROE95/status/1282298559539425280" ],
-      "published" : [ "2020-07-12T12:59:35+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/elemental_sys/status/1282190734226055168" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:DJROE95" ],
-          "numeric-id" : [ "2612203536" ],
-          "name" : [ "Danielle Roe 🏳️‍🌈" ],
-          "nickname" : [ "DJROE95" ],
-          "url" : [ "https://twitter.com/DJROE95" ],
-          "published" : [ "2014-07-08T19:42:53+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1263978197932220417/pqsVMqVE.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "So that’s one horcrux down ❤️",
-        "html" : "So that’s one horcrux down ❤️\n<a class=\"u-mention\" href=\"https://twitter.com/elemental_sys\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/ubddl",
+  "client_id": "https://indigenous.realize.be"
 }

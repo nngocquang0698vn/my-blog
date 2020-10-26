@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/243879660/"
-      ],
-      "name": [
-        "TECH NOTTINGHAM NOVEMBER 2017: KICKSTARTING CONTINUOUS DELIVERY WITH GITLAB CI"
-      ],
-      "start": [
-        "2017-11-06T18:30:00Z"
-      ],
-      "end": [
-        "2017-11-06T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/10/ovpr0",
   "aliases": [

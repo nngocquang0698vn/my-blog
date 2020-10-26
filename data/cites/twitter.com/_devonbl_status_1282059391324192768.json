@@ -1,0 +1,64 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1282059391324192768"
+    ],
+    "url": [
+      "https://twitter.com/devonbl/status/1282059391324192768"
+    ],
+    "published": [
+      "2020-07-11T21:09:13+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:devonbl"
+          ],
+          "numeric-id": [
+            "42673587"
+          ],
+          "name": [
+            "devon"
+          ],
+          "nickname": [
+            "devonbl"
+          ],
+          "url": [
+            "https://twitter.com/devonbl",
+            "http://devonbrookelindsey.com/",
+            "http://pronoun.is/she"
+          ],
+          "published": [
+            "2009-05-26T17:36:16+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "San Francisco, CA"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1221655531577724928/3jjiOjP0.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I didn't change my last name when I got married bc i've been in enough incident reviews to know you should never change your primary key."
+    ]
+  }
+}

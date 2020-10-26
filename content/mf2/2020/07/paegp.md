@@ -1,35 +1,22 @@
 {
-  "date" : "2020-07-29T10:51:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/javagrifter/status/1288260524694806528" ],
-    "name" : [ "Like of @javagrifter's tweet" ],
-    "published" : [ "2020-07-29T10:51:00+01:00" ],
-    "like-of" : [ "https://twitter.com/javagrifter/status/1288260524694806528" ]
+  "date": "2020-07-29T10:51:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/javagrifter/status/1288260524694806528"
+    ],
+    "name": [
+      "Like of @javagrifter's tweet"
+    ],
+    "published": [
+      "2020-07-29T10:51:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/javagrifter/status/1288260524694806528"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/paegp",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1288260524694806528" ],
-      "url" : [ "https://twitter.com/javagrifter/status/1288260524694806528" ],
-      "published" : [ "2020-07-28T23:50:18+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:javagrifter" ],
-          "numeric-id" : [ "1278118393036627968" ],
-          "name" : [ "JavaGrifter" ],
-          "nickname" : [ "javagrifter" ],
-          "url" : [ "https://twitter.com/javagrifter" ],
-          "published" : [ "2020-07-01T00:09:16+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1278379898076348418/UBaCA-vL.jpg" ]
-        }
-      } ],
-      "content" : [ "I saved my company 100k a month by switching from AWS to Localhost! 💪🏻💻🤳🏻" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/paegp",
+  "client_id": "https://indigenous.realize.be"
 }

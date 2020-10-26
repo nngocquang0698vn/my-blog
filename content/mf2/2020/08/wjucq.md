@@ -1,35 +1,22 @@
 {
-  "date" : "2020-08-31T15:44:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ok_girlfriend/status/1300191827333541888" ],
-    "name" : [ "Like of @ok_girlfriend's tweet" ],
-    "published" : [ "2020-08-31T15:44:00+01:00" ],
-    "like-of" : [ "https://twitter.com/ok_girlfriend/status/1300191827333541888" ]
+  "date": "2020-08-31T15:44:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ok_girlfriend/status/1300191827333541888"
+    ],
+    "name": [
+      "Like of @ok_girlfriend's tweet"
+    ],
+    "published": [
+      "2020-08-31T15:44:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/ok_girlfriend/status/1300191827333541888"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/wjucq",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1300191827333541888" ],
-      "url" : [ "https://twitter.com/ok_girlfriend/status/1300191827333541888" ],
-      "published" : [ "2020-08-30T22:01:02+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ok_girlfriend" ],
-          "numeric-id" : [ "1191084882002210816" ],
-          "name" : [ "Living Morganism 🌱" ],
-          "nickname" : [ "ok_girlfriend" ],
-          "url" : [ "https://twitter.com/ok_girlfriend", "https://www.instagram.com/cptnmorgan23/" ],
-          "published" : [ "2019-11-03T20:09:12+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1269742675005071360/mXe3t8f7.jpg" ]
-        }
-      } ],
-      "content" : [ "the only thing more embarrassing than my browser history is my calculator history" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/wjucq",
+  "client_id": "https://indigenous.realize.be"
 }

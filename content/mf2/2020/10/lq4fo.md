@@ -1,43 +1,30 @@
 {
-  "date" : "2020-10-20T20:50:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/StevieBuckley/status/1318630572831481860" ],
-    "name" : [ "Like of @StevieBuckley's tweet" ],
-    "published" : [ "2020-10-20T20:50:00+0100" ],
-    "category" : [ "slack", "remote-work" ],
-    "like-of" : [ "https://twitter.com/StevieBuckley/status/1318630572831481860" ]
+  "date": "2020-10-20T20:50:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/StevieBuckley/status/1318630572831481860"
+    ],
+    "name": [
+      "Like of @StevieBuckley's tweet"
+    ],
+    "published": [
+      "2020-10-20T20:50:00+0100"
+    ],
+    "category": [
+      "slack",
+      "remote-work"
+    ],
+    "like-of": [
+      "https://twitter.com/StevieBuckley/status/1318630572831481860"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/lq4fo",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1318630572831481860" ],
-      "url" : [ "https://twitter.com/StevieBuckley/status/1318630572831481860" ],
-      "published" : [ "2020-10-20T19:10:02+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:StevieBuckley" ],
-          "numeric-id" : [ "275007771" ],
-          "name" : [ "Stevie Buckley" ],
-          "nickname" : [ "StevieBuckley" ],
-          "url" : [ "https://twitter.com/StevieBuckley", "https://honest.work/" ],
-          "published" : [ "2011-03-31T13:10:44+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1229844495442808836/3CoGRlNn.jpg" ]
-        }
-      } ],
-      "content" : [ "doing an @ everyone in a slack channel with over 5000 people should be grounds for having your hard drive confiscated tbh" ]
-    }
-  },
-  "tags" : [ "slack", "remote-work" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/lq4fo",
+  "tags": [
+    "slack",
+    "remote-work"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

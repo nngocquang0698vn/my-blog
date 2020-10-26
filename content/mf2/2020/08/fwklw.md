@@ -1,46 +1,22 @@
 {
-  "date" : "2020-08-31T21:42:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/freezydorito/status/1300453302749061120" ],
-    "name" : [ "Like of @freezydorito's tweet" ],
-    "published" : [ "2020-08-31T21:42:00+01:00" ],
-    "like-of" : [ "https://twitter.com/freezydorito/status/1300453302749061120" ]
+  "date": "2020-08-31T21:42:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/freezydorito/status/1300453302749061120"
+    ],
+    "name": [
+      "Like of @freezydorito's tweet"
+    ],
+    "published": [
+      "2020-08-31T21:42:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/freezydorito/status/1300453302749061120"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/fwklw",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1300453302749061120" ],
-      "url" : [ "https://twitter.com/freezydorito/status/1300453302749061120" ],
-      "published" : [ "2020-08-31T15:20:03+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/torturecrush/status/1300445567072559106" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:freezydorito" ],
-          "numeric-id" : [ "3004020255" ],
-          "name" : [ "laura calabazas" ],
-          "nickname" : [ "freezydorito" ],
-          "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
-          "published" : [ "2015-01-29T10:06:54+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "\"shoreditch\" allegedly" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1294254216756834304/EejH9Tpl.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "honestly? i kinda see the resemblance",
-        "html" : "honestly? i kinda see the resemblance\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/torturecrush\"></a>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EgwjYpQWsAQgwnC.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/fwklw",
+  "client_id": "https://indigenous.realize.be"
 }

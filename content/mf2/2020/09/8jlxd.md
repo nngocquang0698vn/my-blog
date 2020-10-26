@@ -1,76 +1,28 @@
 {
-  "date" : "2020-09-14T08:49:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Marcus_Noble_/status/1305406938650419200" ],
-    "name" : [ "Like of @Marcus_Noble_'s tweet" ],
-    "published" : [ "2020-09-14T08:49:00+01:00" ],
-    "category" : [ "blogging" ],
-    "like-of" : [ "https://twitter.com/Marcus_Noble_/status/1305406938650419200" ]
+  "date": "2020-09-14T08:49:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Marcus_Noble_/status/1305406938650419200"
+    ],
+    "name": [
+      "Like of @Marcus_Noble_'s tweet"
+    ],
+    "published": [
+      "2020-09-14T08:49:00+01:00"
+    ],
+    "category": [
+      "blogging"
+    ],
+    "like-of": [
+      "https://twitter.com/Marcus_Noble_/status/1305406938650419200"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/8jlxd",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1305406938650419200" ],
-      "url" : [ "https://twitter.com/Marcus_Noble_/status/1305406938650419200" ],
-      "published" : [ "2020-09-14T07:24:02+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Marcus_Noble_" ],
-          "numeric-id" : [ "14732545" ],
-          "name" : [ "Marcus Noble" ],
-          "nickname" : [ "Marcus_Noble_" ],
-          "url" : [ "https://twitter.com/Marcus_Noble_", "https://marcusnoble.co.uk" ],
-          "published" : [ "2008-05-11T09:51:36+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "PID 1" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/776738772759277569/hfaM5zhA.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Over the weekend I put together a small site where I'll be posting my #til (Today I Learnt). Interesting things I learn that I don't have the time or inclination to write a blog post about.\n\ntil.marcusnoble.co.uk",
-        "html" : "<div style=\"white-space: pre\">Over the weekend I put together a small site where I'll be posting my <a href=\"https://twitter.com/search?q=%23til\">#til</a> (Today I Learnt). Interesting things I learn that I don't have the time or inclination to write a blog post about.\n\n<a href=\"https://til.marcusnoble.co.uk/\">til.marcusnoble.co.uk</a></div>"
-      } ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1305232637481627654" ],
-        "url" : [ "https://twitter.com/Marcus_Noble_/status/1305232637481627654" ],
-        "published" : [ "2020-09-13T19:51:25+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:Marcus_Noble_" ],
-            "numeric-id" : [ "14732545" ],
-            "name" : [ "Marcus Noble" ],
-            "nickname" : [ "Marcus_Noble_" ],
-            "url" : [ "https://twitter.com/Marcus_Noble_", "https://marcusnoble.co.uk" ],
-            "published" : [ "2008-05-11T09:51:36+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "PID 1" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/776738772759277569/hfaM5zhA.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "Today I learnt... \"Tekton Multi-Arch Image Builds\"\n\n🔗 til.marcusnoble.co.uk/tekton-multi-a…\n\n#til #tekton #docker",
-          "html" : "<div style=\"white-space: pre\">Today I learnt... \"Tekton Multi-Arch Image Builds\"\n\n🔗 <a href=\"https://til.marcusnoble.co.uk/tekton-multi-arch-image-builds/\">til.marcusnoble.co.uk/tekton-multi-a…</a>\n\n<a href=\"https://twitter.com/search?q=%23til\">#til</a> <a href=\"https://twitter.com/search?q=%23tekton\">#tekton</a> <a href=\"https://twitter.com/search?q=%23docker\">#docker</a></div>"
-        } ]
-      }
-    } ]
-  },
-  "tags" : [ "blogging" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/8jlxd",
+  "tags": [
+    "blogging"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.meetup.com/Tech-Nottingham/events/267300253/"
+    ],
+    "name": [
+      "Tech Nottingham January 2020 - Ethics In Advertising And High Performance Teams"
+    ],
+    "start": [
+      "2020-01-13T18:30:00Z"
+    ],
+    "end": [
+      "2020-01-13T21:00:00Z"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Antenna, Beck Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

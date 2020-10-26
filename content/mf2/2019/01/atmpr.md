@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/qhnpfqyzcblb/"
-      ],
-      "name": [
-        "Indie What?"
-      ],
-      "start": [
-        "2019-01-08T18:00:00Z"
-      ],
-      "end": [
-        "2019-01-08T20:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/01/atmpr",
   "aliases": [

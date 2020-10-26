@@ -1,0 +1,132 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1307358567368814595"
+    ],
+    "url": [
+      "https://twitter.com/jackyalcine/status/1307358567368814595"
+    ],
+    "published": [
+      "2020-09-19T16:39:06+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:jackyalcine"
+          ],
+          "numeric-id": [
+            "1262855987993563136"
+          ],
+          "name": [
+            "big mac trucc"
+          ],
+          "nickname": [
+            "jackyalcine"
+          ],
+          "url": [
+            "https://twitter.com/jackyalcine",
+            "https://v2.jacky.wtf",
+            "http://arealnig.ga"
+          ],
+          "published": [
+            "2020-05-19T21:22:07+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Chochenyo/Ohlone (Bay Area)"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1298686834092826625/c1vYRpfV.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I miss this sensation"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1307346116082577409"
+        ],
+        "url": [
+          "https://twitter.com/macthearies/status/1307346116082577409"
+        ],
+        "published": [
+          "2020-09-19T15:49:38+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:macthearies"
+              ],
+              "numeric-id": [
+                "1264087127123464202"
+              ],
+              "name": [
+                "Stop Snitching"
+              ],
+              "nickname": [
+                "macthearies"
+              ],
+              "url": [
+                "https://twitter.com/macthearies"
+              ],
+              "published": [
+                "2020-05-23T06:53:59+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "In BLM"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1304083301179809792/Hk7vShQC.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          "This photo is very pleasing to my eye"
+        ],
+        "photo": [
+          "https://pbs.twimg.com/media/EiSgXRhXgAAmX5O.jpg"
+        ]
+      }
+    }
+  ]
+}

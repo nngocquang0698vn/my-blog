@@ -1,51 +1,30 @@
 {
-  "date" : "2020-08-21T07:50:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Cathrinmachin/status/1296596095569600512" ],
-    "name" : [ "Like of @Cathrinmachin's tweet" ],
-    "published" : [ "2020-08-21T07:50:00+01:00" ],
-    "category" : [ "art", "space" ],
-    "like-of" : [ "https://twitter.com/Cathrinmachin/status/1296596095569600512" ]
+  "date": "2020-08-21T07:50:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Cathrinmachin/status/1296596095569600512"
+    ],
+    "name": [
+      "Like of @Cathrinmachin's tweet"
+    ],
+    "published": [
+      "2020-08-21T07:50:00+01:00"
+    ],
+    "category": [
+      "art",
+      "space"
+    ],
+    "like-of": [
+      "https://twitter.com/Cathrinmachin/status/1296596095569600512"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/5on2i",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1296596095569600512" ],
-      "url" : [ "https://twitter.com/Cathrinmachin/status/1296596095569600512" ],
-      "published" : [ "2020-08-20T23:52:53+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Cathrinmachin" ],
-          "numeric-id" : [ "24602126" ],
-          "name" : [ "Cathrin Machin Space Art" ],
-          "nickname" : [ "Cathrinmachin" ],
-          "url" : [ "https://twitter.com/Cathrinmachin", "http://catmach.in/get-space-art" ],
-          "published" : [ "2009-03-15T22:50:47+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Brisbane, Australia" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1266591983876751362/qTPBxhmN.jpg" ]
-        }
-      } ],
-      "location" : [ {
-        "type" : [ "h-card", "p-location" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:004ec16c62325149" ],
-          "name" : [ "Brisbane, Queensland" ]
-        }
-      } ],
-      "content" : [ "Every time life gets hard, I just have to remember that out there right now is a black hole ripping apart a star and spraying it over the universe in a beautiful cosmic dance of birth and death." ],
-      "photo" : [ "https://pbs.twimg.com/media/Ef5vRiIU4AE05NK.jpg", "https://pbs.twimg.com/media/Ef5vRiIU8AEEkkH.jpg" ]
-    }
-  },
-  "tags" : [ "art", "space" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/5on2i",
+  "tags": [
+    "art",
+    "space"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

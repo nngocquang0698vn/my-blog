@@ -1,46 +1,25 @@
 {
-  "date" : "2020-09-26T19:59:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MrAndrew/status/1309917057627160578" ],
-    "name" : [ "Like of @MrAndrew's tweet" ],
-    "published" : [ "2020-09-26T19:59:00+0100" ],
-    "like-of" : [ "https://twitter.com/MrAndrew/status/1309917057627160578" ],
-    "post-status" : [ "published" ]
+  "date": "2020-09-26T19:59:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MrAndrew/status/1309917057627160578"
+    ],
+    "name": [
+      "Like of @MrAndrew's tweet"
+    ],
+    "published": [
+      "2020-09-26T19:59:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/MrAndrew/status/1309917057627160578"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/wmarv",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1309917057627160578" ],
-      "url" : [ "https://twitter.com/MrAndrew/status/1309917057627160578" ],
-      "published" : [ "2020-09-26T18:05:38+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/MrAndrew/status/1309915653101555715" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MrAndrew" ],
-          "numeric-id" : [ "9626182" ],
-          "name" : [ "Andrew Seward" ],
-          "nickname" : [ "MrAndrew" ],
-          "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
-          "published" : [ "2007-10-23T15:57:18+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Riddings, Derbyshire" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "People look to you as a leader. In using language like this you set a standard that others will follow. \n\nYou send the message that such language is acceptable, that men are the default and those who are not men are secondary and that affects how people who look to you behave.",
-        "html" : "<div style=\"white-space: pre\">People look to you as a leader. In using language like this you set a standard that others will follow. \n\nYou send the message that such language is acceptable, that men are the default and those who are not men are secondary and that affects how people who look to you behave.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/garyshort\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pete_codes\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/wmarv",
+  "client_id": "https://indigenous.realize.be"
 }

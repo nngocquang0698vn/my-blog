@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Notts-Dev-Workshop/events/267988124/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Notts-Dev-Workshop/events/267988124/"
-      ],
-      "name": [
-        "How to Talk Really Good - A Workshop - Jess White and Moreton Brockley"
-      ],
-      "start": [
-        "2020-02-04T18:30:00Z"
-      ],
-      "end": [
-        "2020-02-04T20:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Rebel Recruitment, Rebel Recruitment, 2nd floor, Blenheim Court"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

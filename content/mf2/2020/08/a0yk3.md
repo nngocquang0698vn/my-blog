@@ -1,44 +1,22 @@
 {
-  "date" : "2020-08-08T00:40:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/3mm4h3ff/status/1291782908621942785" ],
-    "name" : [ "Like of @3mm4h3ff's tweet" ],
-    "published" : [ "2020-08-08T00:40:00+01:00" ],
-    "like-of" : [ "https://twitter.com/3mm4h3ff/status/1291782908621942785" ]
+  "date": "2020-08-08T00:40:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/3mm4h3ff/status/1291782908621942785"
+    ],
+    "name": [
+      "Like of @3mm4h3ff's tweet"
+    ],
+    "published": [
+      "2020-08-08T00:40:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/3mm4h3ff/status/1291782908621942785"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/a0yk3",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1291782908621942785" ],
-      "url" : [ "https://twitter.com/3mm4h3ff/status/1291782908621942785" ],
-      "published" : [ "2020-08-07T17:07:00+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:3mm4h3ff" ],
-          "numeric-id" : [ "2563979200" ],
-          "name" : [ "Emma Heffernan (IRE 🇮🇪)" ],
-          "nickname" : [ "3mm4h3ff" ],
-          "url" : [ "https://twitter.com/3mm4h3ff", "https://heff.ie" ],
-          "published" : [ "2014-05-25T19:20:22+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Ireland" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1276936345580158977/e5Hn-n88.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "so I got a virus on my computer...\n\nand the thing is, I didn’t even do anything and it disappeared. \n\nmust have ransomware 🏃‍♀️",
-        "html" : "<div style=\"white-space: pre\">so I got a virus on my computer...\n\nand the thing is, I didn’t even do anything and it disappeared. \n\nmust have ransomware 🏃‍♀️</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/a0yk3",
+  "client_id": "https://indigenous.realize.be"
 }

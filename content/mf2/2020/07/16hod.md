@@ -1,44 +1,22 @@
 {
-  "date" : "2020-07-10T18:20:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/refactorfiend/status/1281599572721139713" ],
-    "name" : [ "Like of @refactorfiend's tweet" ],
-    "published" : [ "2020-07-10T18:20:00+01:00" ],
-    "like-of" : [ "https://twitter.com/refactorfiend/status/1281599572721139713" ]
+  "date": "2020-07-10T18:20:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/refactorfiend/status/1281599572721139713"
+    ],
+    "name": [
+      "Like of @refactorfiend's tweet"
+    ],
+    "published": [
+      "2020-07-10T18:20:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/refactorfiend/status/1281599572721139713"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/16hod",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1281599572721139713" ],
-      "url" : [ "https://twitter.com/refactorfiend/status/1281599572721139713" ],
-      "published" : [ "2020-07-10T14:42:03+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:refactorfiend" ],
-          "numeric-id" : [ "1075056836183818243" ],
-          "name" : [ "refactor fiend" ],
-          "nickname" : [ "refactorfiend" ],
-          "url" : [ "https://twitter.com/refactorfiend" ],
-          "published" : [ "2018-12-18T15:54:58+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Northern VA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1281368770775339009/pa_RzDiN.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "as a proud java man for 15+ yrs now, and as a proud black man for more, let's all really stan this tho \n\nour sistren Angie Jones @techgirl1908 #queenOfJava \nBecomes the First-Ever Black Female Java Champion  \n\n#blacktechtwitter #blacktwitter #AfroTech\nafrotech.com/angie-jones-be…",
-        "html" : "<div style=\"white-space: pre\">as a proud java man for 15+ yrs now, and as a proud black man for more, let's all really stan this tho \n\nour sistren Angie Jones <a href=\"https://twitter.com/techgirl1908\">@techgirl1908</a> <a href=\"https://twitter.com/search?q=%23queenOfJava\">#queenOfJava</a> \nBecomes the First-Ever Black Female Java Champion  \n\n<a href=\"https://twitter.com/search?q=%23blacktechtwitter\">#blacktechtwitter</a> <a href=\"https://twitter.com/search?q=%23blacktwitter\">#blacktwitter</a> <a href=\"https://twitter.com/search?q=%23AfroTech\">#AfroTech</a>\n<a href=\"https://afrotech.com/angie-jones-becomes-the-first-ever-black-female-java-champion\">afrotech.com/angie-jones-be…</a></div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/16hod",
+  "client_id": "https://indigenous.realize.be"
 }

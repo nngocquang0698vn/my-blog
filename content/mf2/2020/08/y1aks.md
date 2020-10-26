@@ -1,44 +1,28 @@
 {
-  "date" : "2020-08-01T10:44:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/RaxKingIsDead/status/1289303722619629569" ],
-    "name" : [ "Like of @RaxKingIsDead's tweet" ],
-    "published" : [ "2020-08-01T10:44:00+01:00" ],
-    "category" : [ "cute" ],
-    "like-of" : [ "https://twitter.com/RaxKingIsDead/status/1289303722619629569" ]
+  "date": "2020-08-01T10:44:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/RaxKingIsDead/status/1289303722619629569"
+    ],
+    "name": [
+      "Like of @RaxKingIsDead's tweet"
+    ],
+    "published": [
+      "2020-08-01T10:44:00+01:00"
+    ],
+    "category": [
+      "cute"
+    ],
+    "like-of": [
+      "https://twitter.com/RaxKingIsDead/status/1289303722619629569"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/y1aks",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1289303722619629569" ],
-      "url" : [ "https://twitter.com/RaxKingIsDead/status/1289303722619629569" ],
-      "published" : [ "2020-07-31T20:55:36+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:RaxKingIsDead" ],
-          "numeric-id" : [ "2254014308" ],
-          "name" : [ "rax ‘🥩👋’ king" ],
-          "nickname" : [ "RaxKingIsDead" ],
-          "url" : [ "https://twitter.com/RaxKingIsDead", "https://www.raxkingisdead.com" ],
-          "published" : [ "2013-12-19T20:27:43+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Brooklyn, NY" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1284199364823527432/TZN9qUjY.jpg" ]
-        }
-      } ],
-      "content" : [ "hog’s vet said to keep an eye on his weight so this is his life once a week now" ],
-      "photo" : [ "https://pbs.twimg.com/media/EeSG5n5XsAAgsNF.jpg" ]
-    }
-  },
-  "tags" : [ "cute" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/y1aks",
+  "tags": [
+    "cute"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

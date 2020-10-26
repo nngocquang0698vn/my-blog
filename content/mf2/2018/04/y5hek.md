@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Notts-Dev-Workshop/events/250212920/"
-      ],
-      "name": [
-        "Beginning With Terraform with Chris Emerson"
-      ],
-      "start": [
-        "2018-05-08T18:00:00+01:00"
-      ],
-      "end": [
-        "2018-05-08T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "UNiDAYS, 2 Castle Boulevard, Nottingham, NG7 1FB, England"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/04/y5hek",
   "aliases": [

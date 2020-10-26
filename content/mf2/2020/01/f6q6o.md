@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/ministry-of-testing-nottingham/events/jgthgrybcdbhb/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/ministry-of-testing-nottingham/events/jgthgrybcdbhb/"
-      ],
-      "name": [
-        "#NottsTest - BDD Workshop"
-      ],
-      "start": [
-        "2020-02-05T19:00:00Z"
-      ],
-      "end": [
-        "2020-02-05T22:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Experian - The Sir John Peace Building, Experian Way"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

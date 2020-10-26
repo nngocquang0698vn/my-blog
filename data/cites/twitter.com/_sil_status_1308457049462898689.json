@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1308457049462898689"
+    ],
+    "url": [
+      "https://twitter.com/sil/status/1308457049462898689"
+    ],
+    "published": [
+      "2020-09-22T17:24:05+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:sil"
+          ],
+          "numeric-id": [
+            "1389781"
+          ],
+          "name": [
+            "Stuart Langridge"
+          ],
+          "nickname": [
+            "sil"
+          ],
+          "url": [
+            "https://twitter.com/sil",
+            "https://www.kryogenix.org/"
+          ],
+          "published": [
+            "2007-03-18T01:52:55+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Birmingham, UK"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Who doesn't need to make dinner again for two or maybe even three days? This chap. Tray of enchiladas ftw."
+    ],
+    "photo": [
+      "https://pbs.twimg.com/media/EiiSvPbXsAAcDUF.jpg"
+    ]
+  }
+}

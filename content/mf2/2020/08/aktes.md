@@ -1,66 +1,28 @@
 {
-  "date" : "2020-08-29T22:30:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ASovietOnion/status/1299395835357212684" ],
-    "name" : [ "Like of @ASovietOnion's tweet" ],
-    "published" : [ "2020-08-29T22:30:00+01:00" ],
-    "category" : [ "star-wars" ],
-    "like-of" : [ "https://twitter.com/ASovietOnion/status/1299395835357212684" ]
+  "date": "2020-08-29T22:30:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ASovietOnion/status/1299395835357212684"
+    ],
+    "name": [
+      "Like of @ASovietOnion's tweet"
+    ],
+    "published": [
+      "2020-08-29T22:30:00+01:00"
+    ],
+    "category": [
+      "star-wars"
+    ],
+    "like-of": [
+      "https://twitter.com/ASovietOnion/status/1299395835357212684"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/aktes",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299395835357212684" ],
-      "url" : [ "https://twitter.com/ASovietOnion/status/1299395835357212684" ],
-      "published" : [ "2020-08-28T17:18:03+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ASovietOnion" ],
-          "numeric-id" : [ "1119170565615554561" ],
-          "name" : [ "The Soviet Onion™" ],
-          "nickname" : [ "ASovietOnion" ],
-          "url" : [ "https://twitter.com/ASovietOnion", "http://bing.com" ],
-          "published" : [ "2019-04-19T09:27:10+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1221139901233668097/ZqYonZHh.jpg" ]
-        }
-      } ],
-      "content" : [ "The idea that a hero could be descended from nobodies was legitimately the most interesting idea of the sequel trilogy and I will never not be angry that JJ Abrams ruined it like he did" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1298785425293815808" ],
-        "url" : [ "https://twitter.com/alexandravxc/status/1298785425293815808" ],
-        "published" : [ "2020-08-27T00:52:30+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/alexandravxc/status/1298785411557400577" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:alexandravxc" ],
-            "numeric-id" : [ "1140989232539951104" ],
-            "name" : [ "olesia🦋" ],
-            "nickname" : [ "alexandravxc" ],
-            "url" : [ "https://twitter.com/alexandravxc" ],
-            "published" : [ "2019-06-18T14:26:46+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "16 • she/her " ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1297691793778184192/JKWI49x2.jpg" ]
-          }
-        } ],
-        "content" : [ "your unpopular opinion on rey" ],
-        "photo" : [ "https://pbs.twimg.com/media/EgY2c_2X0AEjvCA.jpg", "https://pbs.twimg.com/media/EgY2c_fWkAM-97H.jpg" ]
-      }
-    } ]
-  },
-  "tags" : [ "star-wars" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/aktes",
+  "tags": [
+    "star-wars"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

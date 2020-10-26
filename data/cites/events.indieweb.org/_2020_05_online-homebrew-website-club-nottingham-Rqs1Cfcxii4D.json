@@ -1,0 +1,39 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "start": [
+      "2020-05-27T17:30:00+01:00"
+    ],
+    "name": [
+      "ONLINE: Homebrew Website Club: Nottingham"
+    ],
+    "end": [
+      "2020-05-27T19:30:00+01:00"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Online"
+          ],
+          "latitude": [
+            "52.9509448"
+          ],
+          "longitude": [
+            "-1.1522525"
+          ]
+        },
+        "lang": "en",
+        "value": "Online"
+      }
+    ],
+    "url": [
+      "https://events.indieweb.org/2020/05/online-homebrew-website-club-nottingham-Rqs1Cfcxii4D"
+    ]
+  }
+}

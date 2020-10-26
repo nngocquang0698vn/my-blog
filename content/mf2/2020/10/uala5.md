@@ -1,38 +1,28 @@
 {
-  "date" : "2020-10-24T10:22:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/JimMFelton/status/1319688572564312066" ],
-    "name" : [ "Like of @JimMFelton's tweet" ],
-    "published" : [ "2020-10-24T10:22:00+0100" ],
-    "category" : [ "politics" ],
-    "like-of" : [ "https://twitter.com/JimMFelton/status/1319688572564312066" ]
+  "date": "2020-10-24T10:22:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/JimMFelton/status/1319688572564312066"
+    ],
+    "name": [
+      "Like of @JimMFelton's tweet"
+    ],
+    "published": [
+      "2020-10-24T10:22:00+0100"
+    ],
+    "category": [
+      "politics"
+    ],
+    "like-of": [
+      "https://twitter.com/JimMFelton/status/1319688572564312066"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/uala5",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1319688572564312066" ],
-      "url" : [ "https://twitter.com/JimMFelton/status/1319688572564312066" ],
-      "published" : [ "2020-10-23T17:14:08+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:JimMFelton" ],
-          "numeric-id" : [ "2904913023" ],
-          "name" : [ "James Felton" ],
-          "nickname" : [ "JimMFelton" ],
-          "url" : [ "https://twitter.com/JimMFelton", "https://amzn.to/2HHtW08", "https://linktr.ee/SunburnJamesFelton", "http://bit.ly/2mWy7yv", "http://amzn.to/2lev9V0" ],
-          "published" : [ "2014-12-04T11:06:45+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI.jpg" ]
-        }
-      } ],
-      "content" : [ "How it started         How it’s going" ],
-      "photo" : [ "https://pbs.twimg.com/media/ElB5wleXUAUdQDX.jpg", "https://pbs.twimg.com/media/ElB5wlrX0AA5-gM.jpg" ]
-    }
-  },
-  "tags" : [ "politics" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/uala5",
+  "tags": [
+    "politics"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

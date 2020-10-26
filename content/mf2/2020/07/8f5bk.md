@@ -1,45 +1,22 @@
 {
-  "date" : "2020-07-29T23:09:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ZacharySGrigley/status/1288282562167808000" ],
-    "name" : [ "Like of @ZacharySGrigley's tweet" ],
-    "published" : [ "2020-07-29T23:09:00+01:00" ],
-    "like-of" : [ "https://twitter.com/ZacharySGrigley/status/1288282562167808000" ]
+  "date": "2020-07-29T23:09:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ZacharySGrigley/status/1288282562167808000"
+    ],
+    "name": [
+      "Like of @ZacharySGrigley's tweet"
+    ],
+    "published": [
+      "2020-07-29T23:09:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/ZacharySGrigley/status/1288282562167808000"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/8f5bk",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1288282562167808000" ],
-      "url" : [ "https://twitter.com/ZacharySGrigley/status/1288282562167808000" ],
-      "published" : [ "2020-07-29T01:17:52+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/staidindoors/status/1288151931840368640" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ZacharySGrigley" ],
-          "numeric-id" : [ "4302956294" ],
-          "name" : [ "Cops are The KKK" ],
-          "nickname" : [ "ZacharySGrigley" ],
-          "url" : [ "https://twitter.com/ZacharySGrigley" ],
-          "published" : [ "2015-11-20T17:03:36+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Florida" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/765003748280193025/stRlq14d.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "M.C. stands for Murder Capitalism",
-        "html" : "M.C. stands for Murder Capitalism\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/staidindoors\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/8f5bk",
+  "client_id": "https://indigenous.realize.be"
 }

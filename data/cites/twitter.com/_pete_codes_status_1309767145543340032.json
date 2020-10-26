@@ -1,0 +1,133 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1309767145543340032"
+    ],
+    "url": [
+      "https://twitter.com/pete_codes/status/1309767145543340032"
+    ],
+    "published": [
+      "2020-09-26T08:09:56+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:pete_codes"
+          ],
+          "numeric-id": [
+            "15156749"
+          ],
+          "name": [
+            "Pete Gallagher - Azure #MVPBuzz #MSIgnite"
+          ],
+          "nickname": [
+            "pete_codes"
+          ],
+          "url": [
+            "https://twitter.com/pete_codes",
+            "https://www.petecodes.co.uk"
+          ],
+          "published": [
+            "2008-06-18T11:20:03+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "England"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1005728851882921985/r3eA9KtW.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Friends don't let friends... Use the word \"Guys\" when addressing a mixed gender room... Infact, just don't use the word \"Guys\" at all..."
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1309745755729670145"
+        ],
+        "url": [
+          "https://twitter.com/LuiseFreese/status/1309745755729670145"
+        ],
+        "published": [
+          "2020-09-26T06:44:56+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:LuiseFreese"
+              ],
+              "numeric-id": [
+                "914007249395347458"
+              ],
+              "name": [
+                "Luise Freese💙💜💖 | MVP | #poweraddict"
+              ],
+              "nickname": [
+                "LuiseFreese"
+              ],
+              "url": [
+                "https://twitter.com/LuiseFreese",
+                "https://m365princess.com/",
+                "https://pyod.shop"
+              ],
+              "published": [
+                "2017-09-30T06:01:24+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "127.0.0.1 is Germany"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1301922248069189632/FbGEOPpY.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "Friends don't let friends ____________________\n\nFill in the gap. \n\nAnd tag two friends. @ShanesCows @sbisson",
+            "html": "<div style=\"white-space: pre\">Friends don't let friends ____________________\n\nFill in the gap. \n\nAnd tag two friends. <a href=\"https://twitter.com/ShanesCows\">@ShanesCows</a> <a href=\"https://twitter.com/sbisson\">@sbisson</a></div>"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1254056540958535682"
+    ],
+    "url": [
+      "https://twitter.com/JamieTanna/status/1254056540958535682"
+    ],
+    "published": [
+      "2020-04-25T14:35:53+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:JamieTanna"
+          ],
+          "numeric-id": [
+            "2292531098"
+          ],
+          "name": [
+            "Jamie Tanna | www.jvt.me"
+          ],
+          "nickname": [
+            "JamieTanna"
+          ],
+          "url": [
+            "https://twitter.com/JamieTanna",
+            "https://www.jvt.me"
+          ],
+          "published": [
+            "2014-01-15T10:55:11+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Nottingham, England"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1207672129308778496/4erVfT-i.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "Does anyone know the best way to export all your tweets from #Twitter? The data export I requested from them only has tweets until 2018 but my account is a few years older than that (jvt.me/mf2/2020/04/fz…)",
+        "html": "Does anyone know the best way to export all your tweets from <a href=\"https://twitter.com/search?q=%23Twitter\">#Twitter</a>? The data export I requested from them only has tweets until 2018 but my account is a few years older than that (<a href=\"https://www.jvt.me/mf2/2020/04/fzxlm/\">jvt.me/mf2/2020/04/fz…</a>)"
+      }
+    ]
+  }
+}

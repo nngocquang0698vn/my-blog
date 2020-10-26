@@ -1,45 +1,22 @@
 {
-  "date" : "2020-07-11T22:52:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/BrianRoemmele/status/1281597902398164992" ],
-    "name" : [ "Like of @BrianRoemmele's tweet" ],
-    "published" : [ "2020-07-11T22:52:00+01:00" ],
-    "like-of" : [ "https://twitter.com/BrianRoemmele/status/1281597902398164992" ]
+  "date": "2020-07-11T22:52:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/BrianRoemmele/status/1281597902398164992"
+    ],
+    "name": [
+      "Like of @BrianRoemmele's tweet"
+    ],
+    "published": [
+      "2020-07-11T22:52:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/BrianRoemmele/status/1281597902398164992"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/okzsb",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1281597902398164992" ],
-      "url" : [ "https://twitter.com/BrianRoemmele/status/1281597902398164992" ],
-      "video" : [ "https://video.twimg.com/amplify_video/1281595323236921344/vid/480x854/t4A0jojlUTJJUtUL.mp4?tag=13" ],
-      "published" : [ "2020-07-10T14:35:25+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:BrianRoemmele" ],
-          "numeric-id" : [ "101584084" ],
-          "name" : [ "Brian Roemmele" ],
-          "nickname" : [ "BrianRoemmele" ],
-          "url" : [ "https://twitter.com/BrianRoemmele", "http://VoiceFirst.expert" ],
-          "published" : [ "2010-01-03T22:04:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "transcendence" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin.png" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "🔮One of the more popular apps for 2023 for Apple AR glasses will be an app called “Smile”.\n\nIt will restructure the world where everyone that sees you smiles.\n\nIt will have an interesting impact on society in ways not understood in 2020.\n\n",
-        "html" : "<div style=\"white-space: pre\">🔮One of the more popular apps for 2023 for Apple AR glasses will be an app called “Smile”.\n\nIt will restructure the world where everyone that sees you smiles.\n\nIt will have an interesting impact on society in ways not understood in 2020.\n\n</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/okzsb",
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,0 +1,64 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1251273604685271047"
+    ],
+    "url": [
+      "https://twitter.com/hankchizljaw/status/1251273604685271047"
+    ],
+    "published": [
+      "2020-04-17T22:17:29+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:hankchizljaw"
+          ],
+          "numeric-id": [
+            "98734097"
+          ],
+          "name": [
+            "Andy Bell"
+          ],
+          "nickname": [
+            "hankchizljaw"
+          ],
+          "url": [
+            "https://twitter.com/hankchizljaw",
+            "https://hankchizljaw.com",
+            "http://hankchizljaw.redbubble.com"
+          ],
+          "published": [
+            "2009-12-22T22:28:06+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Cheltenham, UK"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1219208545138290689/XoucaVnN.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "How do you write front-end?"
+    ]
+  }
+}

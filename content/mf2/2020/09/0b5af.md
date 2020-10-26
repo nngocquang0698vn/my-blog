@@ -1,46 +1,28 @@
 {
-  "date" : "2020-09-03T19:47:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/TheJordanRules_/status/1301550883319226369" ],
-    "name" : [ "Like of @TheJordanRules_'s tweet" ],
-    "published" : [ "2020-09-03T19:47:00+01:00" ],
-    "category" : [ "interviewing" ],
-    "like-of" : [ "https://twitter.com/TheJordanRules_/status/1301550883319226369" ]
+  "date": "2020-09-03T19:47:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/TheJordanRules_/status/1301550883319226369"
+    ],
+    "name": [
+      "Like of @TheJordanRules_'s tweet"
+    ],
+    "published": [
+      "2020-09-03T19:47:00+01:00"
+    ],
+    "category": [
+      "interviewing"
+    ],
+    "like-of": [
+      "https://twitter.com/TheJordanRules_/status/1301550883319226369"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/0b5af",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1301550883319226369" ],
-      "url" : [ "https://twitter.com/TheJordanRules_/status/1301550883319226369" ],
-      "published" : [ "2020-09-03T16:01:26+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:TheJordanRules_" ],
-          "numeric-id" : [ "969064769754947584" ],
-          "name" : [ "Jordan" ],
-          "nickname" : [ "TheJordanRules_" ],
-          "url" : [ "https://twitter.com/TheJordanRules_", "https://gumroad.com/l/codefundamentals" ],
-          "published" : [ "2018-03-01T04:20:20+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Indiana" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1176172784113917952/PPFlm89W.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Just finished a technical interview... \n\nThe process consisted of me implementing a new feature into one of my personal projects while the interviewer followed along\n\nI actually enjoyed this opposed to the typical technical interview question but I’m still nervous as shit 😭",
-        "html" : "<div style=\"white-space: pre\">Just finished a technical interview... \n\nThe process consisted of me implementing a new feature into one of my personal projects while the interviewer followed along\n\nI actually enjoyed this opposed to the typical technical interview question but I’m still nervous as shit 😭</div>"
-      } ]
-    }
-  },
-  "tags" : [ "interviewing" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/0b5af",
+  "tags": [
+    "interviewing"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

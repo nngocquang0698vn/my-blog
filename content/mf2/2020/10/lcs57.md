@@ -1,44 +1,28 @@
 {
-  "date" : "2020-10-15T11:02:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @kelseyhightower's tweet" ],
-    "published" : [ "2020-10-15T11:02:00+0100" ],
-    "category" : [ "minimalism" ],
-    "like-of" : [ "https://twitter.com/kelseyhightower/status/1316575182748749824" ]
+  "date": "2020-10-15T11:02:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @kelseyhightower's tweet"
+    ],
+    "published": [
+      "2020-10-15T11:02:00+0100"
+    ],
+    "category": [
+      "minimalism"
+    ],
+    "like-of": [
+      "https://twitter.com/kelseyhightower/status/1316575182748749824"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/lcs57",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1316575182748749824" ],
-      "url" : [ "https://twitter.com/kelseyhightower/status/1316575182748749824" ],
-      "published" : [ "2020-10-15T03:02:39+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:kelseyhightower" ],
-          "numeric-id" : [ "159822053" ],
-          "name" : [ "Kelsey Hightower" ],
-          "nickname" : [ "kelseyhightower" ],
-          "url" : [ "https://twitter.com/kelseyhightower" ],
-          "published" : [ "2010-06-26T12:24:45+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Portland, OR" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt.jpg" ]
-        }
-      } ],
-      "content" : [ "Even minimalists like to show off their collection of books while live streaming from home." ],
-      "photo" : [ "https://pbs.twimg.com/media/EkVqEXpUYAI5r99.jpg" ]
-    }
-  },
-  "tags" : [ "minimalism" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/lcs57",
+  "tags": [
+    "minimalism"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

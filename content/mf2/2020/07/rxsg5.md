@@ -1,36 +1,25 @@
 {
-  "date" : "2020-07-27T17:01:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1287782824750325770" ],
-    "published" : [ "2020-07-27T17:01:00+01:00" ],
-    "repost-of" : [ "https://twitter.com/heybuddy_comic/status/1287719448766492677" ],
-    "category" : [ "mental-health" ]
+  "date": "2020-07-27T17:01:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/JamieTanna/status/1287782824750325770"
+    ],
+    "published": [
+      "2020-07-27T17:01:00+01:00"
+    ],
+    "repost-of": [
+      "https://twitter.com/heybuddy_comic/status/1287719448766492677"
+    ],
+    "category": [
+      "mental-health"
+    ]
   },
-  "kind" : "reposts",
-  "slug" : "2020/07/rxsg5",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1287719448766492677" ],
-      "url" : [ "https://twitter.com/heybuddy_comic/status/1287719448766492677" ],
-      "published" : [ "2020-07-27T12:00:15+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:heybuddy_comic" ],
-          "numeric-id" : [ "1255401771838713856" ],
-          "name" : [ "james" ],
-          "nickname" : [ "heybuddy_comic" ],
-          "url" : [ "https://twitter.com/heybuddy_comic", "http://heybuddycomics.com", "http://patreon.com/heybuddycomics", "https://hey-buddy-comics.myshopify.com/" ],
-          "published" : [ "2020-04-29T07:41:29+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1284614074370859010/CfMhnorE.jpg" ]
-        }
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/Ed7l_OGXkAAkkZG.jpg" ]
-    }
-  },
-  "tags" : [ "mental-health" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "reposts",
+  "slug": "2020/07/rxsg5",
+  "tags": [
+    "mental-health"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/238564594/"
-      ],
-      "name": [
-        "Tech Nottingham April 2017: Impostors & Muggles"
-      ],
-      "start": [
-        "2017-04-03T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-04-03T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/03/zu5si",
   "aliases": [

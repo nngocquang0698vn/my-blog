@@ -1,44 +1,28 @@
 {
-  "date" : "2020-09-11T15:10:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/SBinLondon/status/1304379061628801024" ],
-    "name" : [ "Like of @SBinLondon's tweet" ],
-    "published" : [ "2020-09-11T15:10:00+01:00" ],
-    "category" : [ "adhd" ],
-    "like-of" : [ "https://twitter.com/SBinLondon/status/1304379061628801024" ]
+  "date": "2020-09-11T15:10:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/SBinLondon/status/1304379061628801024"
+    ],
+    "name": [
+      "Like of @SBinLondon's tweet"
+    ],
+    "published": [
+      "2020-09-11T15:10:00+01:00"
+    ],
+    "category": [
+      "adhd"
+    ],
+    "like-of": [
+      "https://twitter.com/SBinLondon/status/1304379061628801024"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/0ru3l",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1304379061628801024" ],
-      "url" : [ "https://twitter.com/SBinLondon/status/1304379061628801024" ],
-      "published" : [ "2020-09-11T11:19:37+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:SBinLondon" ],
-          "numeric-id" : [ "180283911" ],
-          "name" : [ "Kate is cake. Always has been." ],
-          "nickname" : [ "SBinLondon" ],
-          "url" : [ "https://twitter.com/SBinLondon", "http://katebeard.co" ],
-          "published" : [ "2010-08-19T07:16:23+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Where the good coffee is" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1222510978732036102/Dx46JyVK.jpg" ]
-        }
-      } ],
-      "content" : [ "Lmao just reopened Twitter in the browser and this half-finished tweet was sitting there and if this isn't a whole ADHD mood" ],
-      "photo" : [ "https://pbs.twimg.com/media/EhoV1AtXgAAoNsP.jpg" ]
-    }
-  },
-  "tags" : [ "adhd" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/0ru3l",
+  "tags": [
+    "adhd"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

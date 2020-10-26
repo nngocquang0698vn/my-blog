@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/239020788/"
-      ],
-      "name": [
-        "May 2017 - Chat Bots"
-      ],
-      "start": [
-        "2017-05-09T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-05-09T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/04/vd3dd",
   "aliases": [

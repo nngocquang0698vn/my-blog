@@ -21,34 +21,7 @@
         "html": "",
         "value": "This would be cool, but don't think I'll be able to do two IndieWebCamps in a row, especially across the world!"
       }
-    ],
-    "event": {
-      "url": [
-        "https://2019.indieweb.org/nyc"
-      ],
-      "name": [
-        "IndieWebCamp NYC"
-      ],
-      "start": [
-        "2019-10-05"
-      ],
-      "end": [
-        "2019-10-06"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "163 William St 2nd Floor"
-          ],
-          "locality": [
-            "New York City"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/09/qemho",
   "aliases": [

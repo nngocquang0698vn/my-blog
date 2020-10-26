@@ -1,49 +1,31 @@
 {
-  "date" : "2020-10-01T14:08:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1311645840407171077" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1311655603157245952" ],
-    "name" : [ "Reply to https://twitter.com/jna_sh/status/1311645840407171077" ],
-    "published" : [ "2020-10-01T14:08:00+0100" ],
-    "post-status" : [ "published" ],
-    "content" : [ {
-      "html" : "",
-      "value" : "A free* t-shirt"
-    } ]
+  "date": "2020-10-01T14:08:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/jna_sh/status/1311645840407171077"
+    ],
+    "syndication": [
+      "https://twitter.com/JamieTanna/status/1311655603157245952"
+    ],
+    "name": [
+      "Reply to https://twitter.com/jna_sh/status/1311645840407171077"
+    ],
+    "published": [
+      "2020-10-01T14:08:00+0100"
+    ],
+    "post-status": [
+      "published"
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "A free* t-shirt"
+      }
+    ]
   },
-  "kind" : "replies",
-  "slug" : "2020/10/07cqn",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1311645840407171077" ],
-      "url" : [ "https://twitter.com/jna_sh/status/1311645840407171077" ],
-      "published" : [ "2020-10-01T12:35:12+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:jna_sh" ],
-          "numeric-id" : [ "18840827" ],
-          "name" : [ "Joe ✨LIVE 4pm CEST on twitch.tv/raisedevs✨" ],
-          "nickname" : [ "jna_sh" ],
-          "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
-          "published" : [ "2009-01-10T17:54:58+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Amsterdam" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1228316950884954114/YzosSgSI.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Having said that\nIt is wild to me what people will do for a T-shirt",
-        "html" : "<div style=\"white-space: pre\">Having said that\nIt is wild to me what people will do for a T-shirt</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "replies",
+  "slug": "2020/10/07cqn",
+  "client_id": "https://indigenous.realize.be"
 }

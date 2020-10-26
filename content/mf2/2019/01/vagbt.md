@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/ministry-of-testing-nottingham/events/257426170/"
-      ],
-      "name": [
-        "SWTC Midlands - What is Testing?"
-      ],
-      "start": [
-        "2019-01-16T18:00:00Z"
-      ],
-      "end": [
-        "2019-01-16T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Experian - The Sir John Peace Building, Experian Way"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/01/vagbt",
   "aliases": [

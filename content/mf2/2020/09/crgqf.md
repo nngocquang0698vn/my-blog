@@ -1,45 +1,22 @@
 {
-  "date" : "2020-09-11T15:12:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @coherentstates's tweet" ],
-    "published" : [ "2020-09-11T15:12:00+01:00" ],
-    "like-of" : [ "https://twitter.com/coherentstates/status/1304250312048418818" ]
+  "date": "2020-09-11T15:12:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @coherentstates's tweet"
+    ],
+    "published": [
+      "2020-09-11T15:12:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/coherentstates/status/1304250312048418818"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/crgqf",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1304250312048418818" ],
-      "url" : [ "https://twitter.com/coherentstates/status/1304250312048418818" ],
-      "published" : [ "2020-09-11T02:48:00+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/Hbomberguy/status/1304249665303515139" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:coherentstates" ],
-          "numeric-id" : [ "808524596181921793" ],
-          "name" : [ "findom earle 🚽 IBS rights" ],
-          "nickname" : [ "coherentstates" ],
-          "url" : [ "https://twitter.com/coherentstates", "http://etsy.com/shop/OliveAmulets" ],
-          "published" : [ "2016-12-13T04:11:00+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "above the convenience store" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1302430145500848128/3RKYsWXy.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Ted Cruz 9/11 cum tribute",
-        "html" : "Ted Cruz 9/11 cum tribute\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Hbomberguy\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/crgqf",
+  "client_id": "https://indigenous.realize.be"
 }

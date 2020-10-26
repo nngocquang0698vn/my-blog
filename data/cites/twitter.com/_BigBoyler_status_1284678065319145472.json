@@ -1,0 +1,135 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1284678065319145472"
+    ],
+    "url": [
+      "https://twitter.com/BigBoyler/status/1284678065319145472"
+    ],
+    "published": [
+      "2020-07-19T02:34:53+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:BigBoyler"
+          ],
+          "numeric-id": [
+            "21356261"
+          ],
+          "name": [
+            "chris o'dowd"
+          ],
+          "nickname": [
+            "BigBoyler"
+          ],
+          "url": [
+            "https://twitter.com/BigBoyler",
+            "http://www.internet.com"
+          ],
+          "published": [
+            "2009-02-20T00:15:13+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "The Irish Isles"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/850033436874223618/TJlPXfST.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "To myself and fellow members of the legitimate ‘Dad-Bod’ community, this is cultural appropriation."
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1284292081536708608"
+        ],
+        "url": [
+          "https://twitter.com/nypost/status/1284292081536708608"
+        ],
+        "published": [
+          "2020-07-18T01:01:07+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:nypost"
+              ],
+              "numeric-id": [
+                "17469289"
+              ],
+              "name": [
+                "New York Post"
+              ],
+              "nickname": [
+                "nypost"
+              ],
+              "url": [
+                "https://twitter.com/nypost",
+                "http://www.nypost.com"
+              ],
+              "published": [
+                "2008-11-18T19:46:36+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "New York, NY"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "Zac Efron's 'dad bod' transformation on Netflix show shocks fans trib.al/2BCi0HW",
+            "html": "Zac Efron's 'dad bod' transformation on Netflix show shocks fans <a href=\"https://trib.al/2BCi0HW\">trib.al/2BCi0HW</a>"
+          }
+        ],
+        "photo": [
+          "https://pbs.twimg.com/media/EdK414VXoAA9iEp.jpg"
+        ]
+      }
+    }
+  ]
+}

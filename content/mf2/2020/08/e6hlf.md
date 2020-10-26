@@ -1,44 +1,28 @@
 {
-  "date" : "2020-08-09T21:40:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/jarajoart/status/1292473780187664384" ],
-    "name" : [ "Like of @jarajoart's tweet" ],
-    "published" : [ "2020-08-09T21:40:00+01:00" ],
-    "category" : [ "tiktok" ],
-    "like-of" : [ "https://twitter.com/jarajoart/status/1292473780187664384" ]
+  "date": "2020-08-09T21:40:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/jarajoart/status/1292473780187664384"
+    ],
+    "name": [
+      "Like of @jarajoart's tweet"
+    ],
+    "published": [
+      "2020-08-09T21:40:00+01:00"
+    ],
+    "category": [
+      "tiktok"
+    ],
+    "like-of": [
+      "https://twitter.com/jarajoart/status/1292473780187664384"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/e6hlf",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1292473780187664384" ],
-      "url" : [ "https://twitter.com/jarajoart/status/1292473780187664384" ],
-      "video" : [ "https://video.twimg.com/ext_tw_video/1292473709488484356/pu/vid/320x568/d8BZ9T8PL8lDo-Ml.mp4?tag=10" ],
-      "published" : [ "2020-08-09T14:52:16+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:jarajoart" ],
-          "numeric-id" : [ "1232805205844090880" ],
-          "name" : [ "🍁Jaro🍁" ],
-          "nickname" : [ "jarajoart" ],
-          "url" : [ "https://twitter.com/jarajoart", "https://curiouscat.qa/-jarajoart" ],
-          "published" : [ "2020-02-26T23:10:47+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "🇸🇴" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1289694222635933696/g1fSCkBD.jpg" ]
-        }
-      } ],
-      "content" : [ "this got me crying early in the morning lol" ]
-    }
-  },
-  "tags" : [ "tiktok" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/e6hlf",
+  "tags": [
+    "tiktok"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

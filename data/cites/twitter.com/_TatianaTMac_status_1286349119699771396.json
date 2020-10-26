@@ -1,0 +1,69 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1286349119699771396"
+    ],
+    "url": [
+      "https://twitter.com/TatianaTMac/status/1286349119699771396"
+    ],
+    "published": [
+      "2020-07-23T17:15:04+00:00"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/bitandbang/status/1286348769181802500"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:TatianaTMac"
+          ],
+          "numeric-id": [
+            "1529722572"
+          ],
+          "name": [
+            "Tatiana Mac"
+          ],
+          "nickname": [
+            "TatianaTMac"
+          ],
+          "url": [
+            "https://twitter.com/TatianaTMac",
+            "https://www.tatianamac.com"
+          ],
+          "published": [
+            "2013-06-19T04:59:25+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "she/they/hän 💖💛💙"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1266645648280924162/WHcwjW3d.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "is this like that dress thing",
+        "html": "is this like that dress thing\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>"
+      }
+    ]
+  }
+}

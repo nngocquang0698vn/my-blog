@@ -14,37 +14,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/264505430/"
-      ],
-      "name": [
-        "Tech Nottingham September 2019 - Working Smart"
-      ],
-      "start": [
-        "2019-09-09T18:30:00+01:00"
-      ],
-      "end": [
-        "2019-09-09T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/09/vetdl",
   "aliases": [

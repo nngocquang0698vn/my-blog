@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.eventbrite.co.uk/e/inspirewit-2018-tickets-43329854762"
+    ],
+    "name": [
+      "inspireWiT 2018"
+    ],
+    "start": [
+      "2018-04-07T08:15:00Z"
+    ],
+    "end": [
+      "2018-04-07T17:00:00Z"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "14-18 Broad Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG1 3AL"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

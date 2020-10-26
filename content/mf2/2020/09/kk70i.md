@@ -1,46 +1,22 @@
 {
-  "date" : "2020-09-06T09:43:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/lindsayfarny/status/1302304122478051328" ],
-    "name" : [ "Like of @lindsayfarny's tweet" ],
-    "published" : [ "2020-09-06T09:43:00+01:00" ],
-    "like-of" : [ "https://twitter.com/lindsayfarny/status/1302304122478051328" ]
+  "date": "2020-09-06T09:43:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/lindsayfarny/status/1302304122478051328"
+    ],
+    "name": [
+      "Like of @lindsayfarny's tweet"
+    ],
+    "published": [
+      "2020-09-06T09:43:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/lindsayfarny/status/1302304122478051328"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/kk70i",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1302304122478051328" ],
-      "url" : [ "https://twitter.com/lindsayfarny/status/1302304122478051328" ],
-      "published" : [ "2020-09-05T17:54:33+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/SoSplush/status/1302267242592296960" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:lindsayfarny" ],
-          "numeric-id" : [ "32921777" ],
-          "name" : [ "Lindsay Farny" ],
-          "nickname" : [ "lindsayfarny" ],
-          "url" : [ "https://twitter.com/lindsayfarny" ],
-          "published" : [ "2009-04-18T15:54:56+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Seattle, WA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1271616871108767744/sUoJg6Xo.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "`font-weight: thicc;` on the tee (from @TatianaTMac)\ngrumpy quarantine vibes on the face",
-        "html" : "<div style=\"white-space: pre\">`font-weight: thicc;` on the tee (from <a href=\"https://twitter.com/TatianaTMac\">@TatianaTMac</a>)\ngrumpy quarantine vibes on the face</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SoSplush\"></a>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EhK2slhU8AEhBT5.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/kk70i",
+  "client_id": "https://indigenous.realize.be"
 }

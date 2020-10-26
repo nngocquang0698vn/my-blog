@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/229931414/"
-      ],
-      "name": [
-        "Tech Nottingham April 2016 - Pusher presents An Introduction to React"
-      ],
-      "start": [
-        "2016-04-04T18:30:00+01:00"
-      ],
-      "end": [
-        "2016-04-04T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/03/w0uby",
   "aliases": [

@@ -1,74 +1,28 @@
 {
-  "date" : "2020-07-14T17:02:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MrAndrew/status/1282930507441999872" ],
-    "name" : [ "Like of @MrAndrew's tweet" ],
-    "published" : [ "2020-07-14T17:02:00+01:00" ],
-    "category" : [ "tech-nottingham" ],
-    "like-of" : [ "https://twitter.com/MrAndrew/status/1282930507441999872" ]
+  "date": "2020-07-14T17:02:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MrAndrew/status/1282930507441999872"
+    ],
+    "name": [
+      "Like of @MrAndrew's tweet"
+    ],
+    "published": [
+      "2020-07-14T17:02:00+01:00"
+    ],
+    "category": [
+      "tech-nottingham"
+    ],
+    "like-of": [
+      "https://twitter.com/MrAndrew/status/1282930507441999872"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/k2lyv",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1282930507441999872" ],
-      "url" : [ "https://twitter.com/MrAndrew/status/1282930507441999872" ],
-      "published" : [ "2020-07-14T06:50:43+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MrAndrew" ],
-          "numeric-id" : [ "9626182" ],
-          "name" : [ "Andrew Seward" ],
-          "nickname" : [ "MrAndrew" ],
-          "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
-          "published" : [ "2007-10-23T15:57:18+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Riddings, Derbyshire" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1258160750641606657/CR5g9eOt.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Last night's #TechNott was something special, we did a whole virtual game show over Zoom! \n\n🙋Virtual contestants (you can see them behind the desk!)\n🔟 Working scoreboards \n🎭 Audience participation using Zoom Polls \n\n😁",
-        "html" : "<div style=\"white-space: pre\">Last night's <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> was something special, we did a whole virtual game show over Zoom! \n\n🙋Virtual contestants (you can see them behind the desk!)\n🔟 Working scoreboards \n🎭 Audience participation using Zoom Polls \n\n😁</div>"
-      } ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1282756638693306369" ],
-        "url" : [ "https://twitter.com/technottingham/status/1282756638693306369" ],
-        "published" : [ "2020-07-13T19:19:49+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:technottingham" ],
-            "numeric-id" : [ "384492431" ],
-            "name" : [ "Tech Nottingham" ],
-            "nickname" : [ "technottingham" ],
-            "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
-            "published" : [ "2011-10-03T19:47:31+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Nottingham" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
-          }
-        } ],
-        "content" : [ "It's game show time! Thanks for your patience with the *slight* technical issues, folks" ],
-        "photo" : [ "https://pbs.twimg.com/media/Ec1Dd47WkAYdize.jpg" ]
-      }
-    } ]
-  },
-  "tags" : [ "tech-nottingham" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/k2lyv",
+  "tags": [
+    "tech-nottingham"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

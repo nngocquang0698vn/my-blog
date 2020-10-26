@@ -1,51 +1,28 @@
 {
-  "date" : "2020-07-19T17:51:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/joelaha/status/1284878947713462277" ],
-    "name" : [ "Like of @joelaha's tweet" ],
-    "published" : [ "2020-07-19T17:51:00+01:00" ],
-    "category" : [ "cute" ],
-    "like-of" : [ "https://twitter.com/joelaha/status/1284878947713462277" ]
+  "date": "2020-07-19T17:51:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/joelaha/status/1284878947713462277"
+    ],
+    "name": [
+      "Like of @joelaha's tweet"
+    ],
+    "published": [
+      "2020-07-19T17:51:00+01:00"
+    ],
+    "category": [
+      "cute"
+    ],
+    "like-of": [
+      "https://twitter.com/joelaha/status/1284878947713462277"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/5okaf",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1284878947713462277" ],
-      "url" : [ "https://twitter.com/joelaha/status/1284878947713462277" ],
-      "published" : [ "2020-07-19T15:53:07+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:joelaha" ],
-          "numeric-id" : [ "2393588311" ],
-          "name" : [ "Joe Laha" ],
-          "nickname" : [ "joelaha" ],
-          "url" : [ "https://twitter.com/joelaha" ],
-          "published" : [ "2014-03-17T02:05:23+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Minneapolis/The Skyteam Lounge at Schiphol Airport" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1174120426395643909/05oNcs8s.png" ]
-        }
-      } ],
-      "location" : [ {
-        "type" : [ "h-card", "p-location" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:8e9665cec9370f0f" ],
-          "name" : [ "Minneapolis, MN" ]
-        }
-      } ],
-      "content" : [ "If you looked up “spoiled” in the dictionary you would find a picture of Attack Kitty, who gets his own glass of ice water to keep him from attempting to drink our morning cold brew." ],
-      "photo" : [ "https://pbs.twimg.com/media/EdTOj51X0AA2AHx.jpg" ]
-    }
-  },
-  "tags" : [ "cute" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/5okaf",
+  "tags": [
+    "cute"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

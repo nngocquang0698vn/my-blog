@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/236337041/"
-      ],
-      "name": [
-        "Tech Nottingham January 2017 - Starting fresh this New Year!"
-      ],
-      "start": [
-        "2017-01-09T18:30:00Z"
-      ],
-      "end": [
-        "2017-01-09T18:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/12/4hesf",
   "aliases": [
