@@ -11,37 +11,7 @@
     ],
     "category": [
       "phpminds"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/261679305/"
-      ],
-      "name": [
-        "PHPMiNDS - Introducing Agile and Agile Principles"
-      ],
-      "start": [
-        "2019-06-13T19:00:00+0100"
-      ],
-      "end": [
-        "2019-06-06T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/862f1170-ab9b-4cb8-90d7-d4b03c5b3464/",

@@ -1,68 +1,22 @@
 {
-  "date" : "2020-07-25T00:49:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/sdh100Shaun/status/1286771007588577280" ],
-    "name" : [ "Like of @sdh100Shaun's tweet" ],
-    "published" : [ "2020-07-25T00:49:00+01:00" ],
-    "like-of" : [ "https://twitter.com/sdh100Shaun/status/1286771007588577280" ]
+  "date": "2020-07-25T00:49:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/sdh100Shaun/status/1286771007588577280"
+    ],
+    "name": [
+      "Like of @sdh100Shaun's tweet"
+    ],
+    "published": [
+      "2020-07-25T00:49:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/sdh100Shaun/status/1286771007588577280"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/sypz4",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1286771007588577280" ],
-      "url" : [ "https://twitter.com/sdh100Shaun/status/1286771007588577280" ],
-      "published" : [ "2020-07-24T21:11:29+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:sdh100Shaun" ],
-          "numeric-id" : [ "257573" ],
-          "name" : [ "Shaun" ],
-          "nickname" : [ "sdh100Shaun" ],
-          "url" : [ "https://twitter.com/sdh100Shaun", "http://shaunhare.co.uk" ],
-          "published" : [ "2006-12-26T09:09:15+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "257.34,-1.47" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/908055077520379905/mAVLMD60.jpg" ]
-        }
-      } ],
-      "content" : [ "😂" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1286492978773553152" ],
-        "url" : [ "https://twitter.com/shaun_meh/status/1286492978773553152" ],
-        "published" : [ "2020-07-24T02:46:42+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:shaun_meh" ],
-            "numeric-id" : [ "40029233" ],
-            "name" : [ "Shaun_Meh" ],
-            "nickname" : [ "shaun_meh" ],
-            "url" : [ "https://twitter.com/shaun_meh" ],
-            "published" : [ "2009-05-14T16:34:09+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Singapore" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1277971255732232193/zZ87tunv.jpg" ]
-          }
-        } ],
-        "content" : [ "I promised my customers to support them 24/7, and today's 24/7" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/sypz4",
+  "client_id": "https://indigenous.realize.be"
 }

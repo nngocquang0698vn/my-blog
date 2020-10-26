@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/243657294/"
-      ],
-      "name": [
-        "PHP Dev Environments Using Docker"
-      ],
-      "start": [
-        "2017-10-12T19:00:00+01:00"
-      ],
-      "end": [
-        "2017-10-12T19:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/09/gmz0t",
   "aliases": [

@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/252117319/"
-      ],
-      "name": [
-        "Tech Nott July 2018: Dungeons, Dragons & Developers and Making The World Better"
-      ],
-      "start": [
-        "2018-07-09T18:30:00+01:00"
-      ],
-      "end": [
-        "2018-07-09T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/07/rl4mh",
   "aliases": [

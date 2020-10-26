@@ -1,0 +1,131 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1305908973808254980"
+    ],
+    "url": [
+      "https://twitter.com/MrAndrew/status/1305908973808254980"
+    ],
+    "published": [
+      "2020-09-15T16:38:56+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:MrAndrew"
+          ],
+          "numeric-id": [
+            "9626182"
+          ],
+          "name": [
+            "Andrew Seward"
+          ],
+          "nickname": [
+            "MrAndrew"
+          ],
+          "url": [
+            "https://twitter.com/MrAndrew",
+            "http://www.technottingham.com"
+          ],
+          "published": [
+            "2007-10-23T15:57:18+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Riddings, Derbyshire"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1258160750641606657/CR5g9eOt.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I keep needing to go back and watch this for a lil' top-up 😂"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1305700778695327744"
+        ],
+        "url": [
+          "https://twitter.com/HitsugiChan/status/1305700778695327744"
+        ],
+        "video": [
+          "https://video.twimg.com/ext_tw_video/1305700762572525573/pu/vid/576x1024/orNeOrV83fsnNA75.mp4?tag=10"
+        ],
+        "published": [
+          "2020-09-15T02:51:39+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:HitsugiChan"
+              ],
+              "numeric-id": [
+                "149894207"
+              ],
+              "name": [
+                "Hitsugi Hime: Officially Certified!"
+              ],
+              "nickname": [
+                "HitsugiChan"
+              ],
+              "url": [
+                "https://twitter.com/HitsugiChan"
+              ],
+              "published": [
+                "2010-05-30T14:25:32+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "Somewhere Near D.C. IDK"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1272232206061260800/3Y8V9O7p.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          "I laughed until I had hiccups"
+        ]
+      }
+    }
+  ]
+}

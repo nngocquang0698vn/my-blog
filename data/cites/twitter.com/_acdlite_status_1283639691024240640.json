@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1283639691024240640"
+    ],
+    "url": [
+      "https://twitter.com/acdlite/status/1283639691024240640"
+    ],
+    "published": [
+      "2020-07-16T05:48:45+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:acdlite"
+          ],
+          "numeric-id": [
+            "21782915"
+          ],
+          "name": [
+            "Andrew Clark"
+          ],
+          "nickname": [
+            "acdlite"
+          ],
+          "url": [
+            "https://twitter.com/acdlite",
+            "https://github.com/acdlite"
+          ],
+          "published": [
+            "2009-02-24T18:58:55+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "San Francisco, CA"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1268659839917408256/XrxRXwCd.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "A nice thing about working on the same project for many years is you’re forced to deal with the consequences of bad decisions you made long ago. Really sharpens your instinct for spotting technical debt before it starts accruing."
+    ]
+  }
+}

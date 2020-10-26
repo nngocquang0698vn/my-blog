@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Notts-Techfast/events/268502129/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Fothergill House, Fothergill House, King Street, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Notts-Techfast/events/268502129/"
-      ],
-      "name": [
-        "Audio Augmented Reality (feat. a demo app...and music composed by plants?!)"
-      ],
-      "start": [
-        "2020-02-27T07:30:00Z"
-      ],
-      "end": [
-        "2020-02-27T09:00:00Z"
-      ]
-    }
+    ]
   }
 }

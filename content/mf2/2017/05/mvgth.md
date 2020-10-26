@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/239905231/"
-      ],
-      "name": [
-        "Tech Nottingham June 2017: Common Ground & Visualisation"
-      ],
-      "start": [
-        "2017-06-05T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-06-05T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/05/mvgth",
   "aliases": [

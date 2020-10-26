@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/257307390/"
-      ],
-      "name": [
-        "PLEASE NOTE CHANGE OF DETAILS: Tech Nottingham Jan 2019: Innovation And A Retro"
-      ],
-      "start": [
-        "2019-01-14T18:30:00Z"
-      ],
-      "end": [
-        "2019-01-14T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/01/ppdgf",
   "aliases": [

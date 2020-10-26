@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/237310567/"
-      ],
-      "name": [
-        "Tech Nottingham February 2017 - Chatbots and Chatops!"
-      ],
-      "start": [
-        "2017-02-06T18:30:00Z"
-      ],
-      "end": [
-        "2017-02-06T18:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/01/su8yv",
   "aliases": [

@@ -14,21 +14,7 @@
     ],
     "name": [
       "RSVP yes to https://www.devopsdays.org/events/2019-london/"
-    ],
-    "event": {
-      "url": [
-        "https://www.devopsdays.org/events/2019-london/"
-      ],
-      "name": [
-        "DevOpsDays London"
-      ],
-      "start": [
-        "2019-09-26 09:00:00+0100"
-      ],
-      "end": [
-        "2019-09-27 18:00:00+0100"
-      ]
-    }
+    ]
   },
   "aliases": [
     "/rsvps/a2f6684c-0777-486d-97f2-46b7f512e0ab2/",

@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Chef-Users-UK/events/249461424/"
-      ],
-      "name": [
-        "It's time for Chef! Four! Teen!"
-      ],
-      "start": [
-        "2018-04-18T18:30:00+01:00"
-      ],
-      "end": [
-        "2018-04-18T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Ticketmaster, 4 Pentonville Road"
-          ],
-          "locality": [
-            "London, N1 9HF"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/04/ulrri",
   "aliases": [

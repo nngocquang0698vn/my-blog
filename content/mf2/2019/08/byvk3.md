@@ -17,37 +17,7 @@
     ],
     "category": [
       "indiewebcamp"
-    ],
-    "event": {
-      "url": [
-        "https://indiewebcamp.nl/"
-      ],
-      "name": [
-        "IndieWebCamp Amsterdam"
-      ],
-      "start": [
-        "2019-09-28T10:00:00+0200"
-      ],
-      "end": [
-        "2019-09-29T18:00:00+0200"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "CODAM Coding College, Building 039, Marineterrein Amsterdam"
-          ],
-          "locality": [
-            "Kattenburgerstraat 7, Amsterdam"
-          ],
-          "country-name": [
-            "Netherlands"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "h": "h-entry",
   "date": "2019-08-29T22:21:00+0100",

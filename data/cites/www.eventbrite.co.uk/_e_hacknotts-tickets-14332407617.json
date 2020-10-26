@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.eventbrite.co.uk/e/hacknotts-tickets-14332407617"
+    ],
+    "name": [
+      "HackNotts"
+    ],
+    "start": [
+      "2014-11-29T10:00:00Z"
+    ],
+    "end": [
+      "2014-11-30T16:00:00Z"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Station Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "postal-code": [
+            "NG2 3BJ"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

@@ -1,72 +1,28 @@
 {
-  "date" : "2020-07-12T19:11:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/rwdrich/status/1282355549699538945" ],
-    "name" : [ "Like of @rwdrich's tweet" ],
-    "published" : [ "2020-07-12T19:11:00+01:00" ],
-    "category" : [ "coronavirus" ],
-    "like-of" : [ "https://twitter.com/rwdrich/status/1282355549699538945" ]
+  "date": "2020-07-12T19:11:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/rwdrich/status/1282355549699538945"
+    ],
+    "name": [
+      "Like of @rwdrich's tweet"
+    ],
+    "published": [
+      "2020-07-12T19:11:00+01:00"
+    ],
+    "category": [
+      "coronavirus"
+    ],
+    "like-of": [
+      "https://twitter.com/rwdrich/status/1282355549699538945"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/hc6ci",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1282355549699538945" ],
-      "url" : [ "https://twitter.com/rwdrich/status/1282355549699538945" ],
-      "published" : [ "2020-07-12T16:46:02+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:rwdrich" ],
-          "numeric-id" : [ "107548386" ],
-          "name" : [ "Richard Davies" ],
-          "nickname" : [ "rwdrich" ],
-          "url" : [ "https://twitter.com/rwdrich", "http://rwdrich.co.uk" ],
-          "published" : [ "2010-01-22T23:14:30+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Cambridge, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/917481919872491521/BwypzjEE.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "html" : "RT <a href=\"https://twitter.com/OwensDamien/status/1282069769211052032\">@OwensDamien</a> Disney World is reopening in Florida. You can go meet the updated Seven Dwarfs, Dopey, Coughy, Wheezy, Sweaty, Frightened, Lonely, and Dead."
-      } ],
-      "repost-of" : [ {
-        "type" : [ "h-cite" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:1282069769211052032" ],
-          "url" : [ "https://twitter.com/OwensDamien/status/1282069769211052032" ],
-          "published" : [ "2020-07-11T21:50:27+00:00" ],
-          "author" : [ {
-            "type" : [ "h-card" ],
-            "properties" : {
-              "uid" : [ "tag:twitter.com:OwensDamien" ],
-              "numeric-id" : [ "67725191" ],
-              "name" : [ "Damien Owens" ],
-              "nickname" : [ "OwensDamien" ],
-              "url" : [ "https://twitter.com/OwensDamien" ],
-              "published" : [ "2009-08-21T21:33:26+00:00" ],
-              "location" : [ {
-                "type" : [ "h-card", "p-location" ],
-                "properties" : {
-                  "name" : [ "Dublin" ]
-                }
-              } ],
-              "photo" : [ "https://pbs.twimg.com/profile_images/1261741406454001664/u23UI5Ms.jpg" ]
-            }
-          } ],
-          "content" : [ "Disney World is reopening in Florida. You can go meet the updated Seven Dwarfs, Dopey, Coughy, Wheezy, Sweaty, Frightened, Lonely, and Dead." ]
-        }
-      } ]
-    }
-  },
-  "tags" : [ "coronavirus" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/hc6ci",
+  "tags": [
+    "coronavirus"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,0 +1,133 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1296401506028183553"
+    ],
+    "url": [
+      "https://twitter.com/kieranmch/status/1296401506028183553"
+    ],
+    "published": [
+      "2020-08-20T10:59:39+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:kieranmch"
+          ],
+          "numeric-id": [
+            "50420707"
+          ],
+          "name": [
+            "Kieran McHugh"
+          ],
+          "nickname": [
+            "kieranmch"
+          ],
+          "url": [
+            "https://twitter.com/kieranmch",
+            "https://kieran.engineer"
+          ],
+          "published": [
+            "2009-06-24T20:13:29+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "London, England"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1170973779675275264/cCZMxVEg.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I got A*AAAA in my A-levels (I did 5) from a state comprehensive school, and was denied a place at Oxbridge. Toby Young got BBB and got in because of his dad. Nobody (not least he) has the right to tell anybody they don’t deserve their place, or that the bar is being lowered."
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1296367483708989440"
+        ],
+        "url": [
+          "https://twitter.com/toadmeister/status/1296367483708989440"
+        ],
+        "published": [
+          "2020-08-20T08:44:28+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:toadmeister"
+              ],
+              "numeric-id": [
+                "18809812"
+              ],
+              "name": [
+                "Toby Young"
+              ],
+              "nickname": [
+                "toadmeister"
+              ],
+              "url": [
+                "https://twitter.com/toadmeister",
+                "http://www.nosacredcows.co.uk",
+                "http://freespeechunion.org"
+              ],
+              "published": [
+                "2009-01-09T18:31:18+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "London"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1190273975580057600/HV--aNHy.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "\"This year's cohort of A-level students have been gifted extra places at good unis at the expense of next year's cohort. Like the lockdown, the unintended consequences of this fix are worse than the problem it was designed to solve.” My @Spectator column. bit.ly/32bzeuu",
+            "html": "\"This year's cohort of A-level students have been gifted extra places at good unis at the expense of next year's cohort. Like the lockdown, the unintended consequences of this fix are worse than the problem it was designed to solve.” My <a href=\"https://twitter.com/spectator\">@Spectator</a> column. <a href=\"https://bit.ly/32bzeuu\">bit.ly/32bzeuu</a>"
+          }
+        ]
+      }
+    }
+  ]
+}

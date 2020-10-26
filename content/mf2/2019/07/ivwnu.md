@@ -11,37 +11,7 @@
     ],
     "category": [
       "tech-nottingham"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/263561311/"
-      ],
-      "name": [
-        "Tech Nottingham August 2019: Caching and Documenting"
-      ],
-      "start": [
-        "2019-08-12T18:30:00+0100"
-      ],
-      "end": [
-        "2019-08-12T20:30:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Back Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/e62cf491-b7ab-4bf5-a46c-00d8e896c234/",

@@ -1,74 +1,25 @@
 {
-  "date" : "2020-10-07T18:55:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/KromanDavid/status/1313663802953486338" ],
-    "name" : [ "Like of @KromanDavid's tweet" ],
-    "published" : [ "2020-10-07T18:55:00+0100" ],
-    "like-of" : [ "https://twitter.com/KromanDavid/status/1313663802953486338" ],
-    "post-status" : [ "published" ]
+  "date": "2020-10-07T18:55:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/KromanDavid/status/1313663802953486338"
+    ],
+    "name": [
+      "Like of @KromanDavid's tweet"
+    ],
+    "published": [
+      "2020-10-07T18:55:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/KromanDavid/status/1313663802953486338"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/3kdds",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1313663802953486338" ],
-      "url" : [ "https://twitter.com/KromanDavid/status/1313663802953486338" ],
-      "published" : [ "2020-10-07T02:13:51+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:KromanDavid" ],
-          "numeric-id" : [ "2849341322" ],
-          "name" : [ "David Kroman" ],
-          "nickname" : [ "KromanDavid" ],
-          "url" : [ "https://twitter.com/KromanDavid", "http://Crosscut.com" ],
-          "published" : [ "2014-10-10T00:12:38+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Seattle, WA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/860207083584503808/_ywMAYrh.jpg" ]
-        }
-      } ],
-      "content" : [ "Yikes https://t.co/RH8dDTNhiA" ],
-      "photo" : [ "https://pbs.twimg.com/media/EjsSOeCUwAEVuo4.jpg" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1313624578887946240" ],
-        "url" : [ "https://twitter.com/starsandstripes/status/1313624578887946240" ],
-        "published" : [ "2020-10-06T23:38:00+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:starsandstripes" ],
-            "numeric-id" : [ "9130702" ],
-            "name" : [ "Stars and Stripes" ],
-            "nickname" : [ "starsandstripes" ],
-            "url" : [ "https://twitter.com/starsandstripes", "http://www.stripes.com" ],
-            "published" : [ "2007-09-27T19:58:13+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Washington D.C." ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/912760382686683136/I3B-ipQq.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "Years after they fought in Afghanistan, US troops watch as their children deploy to the same war stripes.com/news/years-aft…",
-          "html" : "Years after they fought in Afghanistan, US troops watch as their children deploy to the same war <a href=\"https://www.stripes.com/news/years-after-they-fought-in-afghanistan-us-troops-watch-as-their-children-deploy-to-the-same-war-1.647659\">stripes.com/news/years-aft…</a>"
-        } ],
-        "photo" : [ "https://pbs.twimg.com/media/EjqlcqUWoAElVwb.jpg" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/3kdds",
+  "client_id": "https://indigenous.realize.be"
 }

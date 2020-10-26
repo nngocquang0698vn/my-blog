@@ -23,54 +23,5 @@
   },
   "kind": "replies",
   "slug": "2020/04/yijgi",
-  "context": {
-    "type": [
-      "h-entry"
-    ],
-    "properties": {
-      "uid": [
-        "tag:twitter.com:1248987059190104065"
-      ],
-      "url": [
-        "https://twitter.com/_JacobHughes/status/1248987059190104065"
-      ],
-      "published": [
-        "2020-04-11T14:51:34+00:00"
-      ],
-      "author": [
-        {
-          "type": [
-            "h-card"
-          ],
-          "properties": {
-            "uid": [
-              "tag:twitter.com:_JacobHughes"
-            ],
-            "numeric-id": [
-              "35772071"
-            ],
-            "name": [
-              "Jacob"
-            ],
-            "nickname": [
-              "_JacobHughes"
-            ],
-            "url": [
-              "https://twitter.com/_JacobHughes"
-            ],
-            "published": [
-              "2009-04-27T15:38:06+00:00"
-            ],
-            "photo": [
-              "https://pbs.twimg.com/profile_images/1228045395898621953/lFvcfIJw.jpg"
-            ]
-          }
-        }
-      ],
-      "content": [
-        "Best Switch games?"
-      ]
-    }
-  },
   "client_id": "https://indigenous.realize.be"
 }

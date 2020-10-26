@@ -1,41 +1,22 @@
 {
-  "date" : "2020-08-01T10:45:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/seldo/status/1289358583293870080" ],
-    "name" : [ "Like of @seldo's tweet" ],
-    "published" : [ "2020-08-01T10:45:00+01:00" ],
-    "like-of" : [ "https://twitter.com/seldo/status/1289358583293870080" ]
+  "date": "2020-08-01T10:45:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/seldo/status/1289358583293870080"
+    ],
+    "name": [
+      "Like of @seldo's tweet"
+    ],
+    "published": [
+      "2020-08-01T10:45:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/seldo/status/1289358583293870080"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/bs75d",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1289358583293870080" ],
-      "url" : [ "https://twitter.com/seldo/status/1289358583293870080" ],
-      "published" : [ "2020-08-01T00:33:36+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:seldo" ],
-          "numeric-id" : [ "15453" ],
-          "name" : [ "Laurie Voss" ],
-          "nickname" : [ "seldo" ],
-          "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ],
-          "published" : [ "2006-11-22T15:57:48+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "San Francisco, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1278482676870078464/83MVy7M8.jpg" ]
-        }
-      } ],
-      "content" : [ "Today I learned that the sentence \"Why zip along quick, fam? Just relax and vibe\" is an alternative to \"The quick brown fox jumped over the lazy dog\" that still uses every letter." ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/bs75d",
+  "client_id": "https://indigenous.realize.be"
 }

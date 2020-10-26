@@ -1,45 +1,28 @@
 {
-  "date" : "2020-10-19T10:24:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MaudFeijt/status/1317845985817669633" ],
-    "name" : [ "Like of @MaudFeijt's tweet" ],
-    "published" : [ "2020-10-19T10:24:00+0100" ],
-    "category" : [ "cute" ],
-    "like-of" : [ "https://twitter.com/MaudFeijt/status/1317845985817669633" ]
+  "date": "2020-10-19T10:24:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MaudFeijt/status/1317845985817669633"
+    ],
+    "name": [
+      "Like of @MaudFeijt's tweet"
+    ],
+    "published": [
+      "2020-10-19T10:24:00+0100"
+    ],
+    "category": [
+      "cute"
+    ],
+    "like-of": [
+      "https://twitter.com/MaudFeijt/status/1317845985817669633"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/ktu5j",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1317845985817669633" ],
-      "url" : [ "https://twitter.com/MaudFeijt/status/1317845985817669633" ],
-      "published" : [ "2020-10-18T15:12:22+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/MaudFeijt/status/1317836829241073668" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MaudFeijt" ],
-          "numeric-id" : [ "926031127676178433" ],
-          "name" : [ "Maud Feijt" ],
-          "nickname" : [ "MaudFeijt" ],
-          "url" : [ "https://twitter.com/MaudFeijt", "http://www.mypassionprojects.com" ],
-          "published" : [ "2017-11-02T10:20:00+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Geertruidenberg, Nederland" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1316757172412469248/Eiwb-Q4L.jpg" ]
-        }
-      } ],
-      "content" : [ "Considering adding their baby pics in a frame..." ],
-      "photo" : [ "https://pbs.twimg.com/media/Eknt754XUAoBmeK.jpg", "https://pbs.twimg.com/media/Eknt75_XUAEJyGn.jpg", "https://pbs.twimg.com/media/Eknt76QW0AIfM24.jpg" ]
-    }
-  },
-  "tags" : [ "cute" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/ktu5j",
+  "tags": [
+    "cute"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

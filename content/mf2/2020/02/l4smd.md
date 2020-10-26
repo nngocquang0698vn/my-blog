@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Tech-Nottingham/events/268711949/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Antenna, Beck Street, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/268711949/"
-      ],
-      "name": [
-        "Tech Nottingham March 2020 - How We Built the World Wide Web in Five Days"
-      ],
-      "start": [
-        "2020-03-09T18:30:00Z"
-      ],
-      "end": [
-        "2020-03-09T21:00:00Z"
-      ]
-    }
+    ]
   }
 }

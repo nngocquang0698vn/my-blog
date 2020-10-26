@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1233929091960754177"
+    ],
+    "url": [
+      "https://twitter.com/nodebotanist/status/1233929091960754177"
+    ],
+    "published": [
+      "2020-03-01T01:36:35+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:nodebotanist"
+          ],
+          "numeric-id": [
+            "31204696"
+          ],
+          "name": [
+            "Mxs. Kassian Rosner Wren"
+          ],
+          "nickname": [
+            "nodebotanist"
+          ],
+          "url": [
+            "https://twitter.com/nodebotanist",
+            "http://twitch.tv/nodebotanist"
+          ],
+          "published": [
+            "2009-04-14T19:37:43+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Austin, TX"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1206989160038445056/RR1YU361.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Devs: where/what platform are we using for blogs this decade? I don't wanna use Medium because of the paywalls n stuff."
+    ]
+  }
+}

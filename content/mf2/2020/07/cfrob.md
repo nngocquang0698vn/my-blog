@@ -1,46 +1,30 @@
 {
-  "date" : "2020-07-17T14:31:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/gomatgo/status/1283630633286156288" ],
-    "name" : [ "Like of @gomatgo's tweet" ],
-    "published" : [ "2020-07-17T14:31:00+01:00" ],
-    "category" : [ "gaming", "coronavirus" ],
-    "like-of" : [ "https://twitter.com/gomatgo/status/1283630633286156288" ]
+  "date": "2020-07-17T14:31:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/gomatgo/status/1283630633286156288"
+    ],
+    "name": [
+      "Like of @gomatgo's tweet"
+    ],
+    "published": [
+      "2020-07-17T14:31:00+01:00"
+    ],
+    "category": [
+      "gaming",
+      "coronavirus"
+    ],
+    "like-of": [
+      "https://twitter.com/gomatgo/status/1283630633286156288"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/cfrob",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283630633286156288" ],
-      "url" : [ "https://twitter.com/gomatgo/status/1283630633286156288" ],
-      "published" : [ "2020-07-16T05:12:46+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:gomatgo" ],
-          "numeric-id" : [ "20370986" ],
-          "name" : [ "gomatgo, the bone pharaoh" ],
-          "nickname" : [ "gomatgo" ],
-          "url" : [ "https://twitter.com/gomatgo", "http://linkedin.com/in/mathewmccurley" ],
-          "published" : [ "2009-02-08T15:06:31+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Los Angeles, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1211251597159714816/a5WsmuKG.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Was playing PUBG today and a Chinese girl started talking about where we were going to drop, and one of the guys starts going \"OH YOU GIRL YOU GIRL?\"\n\nWithout skipping a beat, she rails into him, \"OH YEAH IM GIRL YOU BOY? YOU DUMB AMERICAN BOY? YOU DIE FROM CORONA YET?\" she rules",
-        "html" : "<div style=\"white-space: pre\">Was playing PUBG today and a Chinese girl started talking about where we were going to drop, and one of the guys starts going \"OH YOU GIRL YOU GIRL?\"\n\nWithout skipping a beat, she rails into him, \"OH YEAH IM GIRL YOU BOY? YOU DUMB AMERICAN BOY? YOU DIE FROM CORONA YET?\" she rules</div>"
-      } ]
-    }
-  },
-  "tags" : [ "gaming", "coronavirus" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/cfrob",
+  "tags": [
+    "gaming",
+    "coronavirus"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1299752119893884929"
+    ],
+    "url": [
+      "https://twitter.com/DavidKPiano/status/1299752119893884929"
+    ],
+    "published": [
+      "2020-08-29T16:53:48+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:DavidKPiano"
+          ],
+          "numeric-id": [
+            "992126114"
+          ],
+          "name": [
+            "David K. 🎹"
+          ],
+          "nickname": [
+            "DavidKPiano"
+          ],
+          "url": [
+            "https://twitter.com/DavidKPiano",
+            "http://www.codepen.io/davidkpiano"
+          ],
+          "published": [
+            "2012-12-06T01:03:35+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Orlando, FL"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/619677584805208064/RwwbnNpi.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Facebook is extremely over-engineered for a birthday reminder app"
+    ]
+  }
+}

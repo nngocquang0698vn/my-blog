@@ -1,39 +1,33 @@
 {
-  "date" : "2020-10-09T21:12:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/aubreyhirsch/status/1314207260298506241" ],
-    "name" : [ "Like of @aubreyhirsch's tweet" ],
-    "published" : [ "2020-10-09T21:12:00+0100" ],
-    "category" : [ "politics", "coronavirus" ],
-    "like-of" : [ "https://twitter.com/aubreyhirsch/status/1314207260298506241" ],
-    "post-status" : [ "published" ]
+  "date": "2020-10-09T21:12:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/aubreyhirsch/status/1314207260298506241"
+    ],
+    "name": [
+      "Like of @aubreyhirsch's tweet"
+    ],
+    "published": [
+      "2020-10-09T21:12:00+0100"
+    ],
+    "category": [
+      "politics",
+      "coronavirus"
+    ],
+    "like-of": [
+      "https://twitter.com/aubreyhirsch/status/1314207260298506241"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/gqeto",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1314207260298506241" ],
-      "url" : [ "https://twitter.com/aubreyhirsch/status/1314207260298506241" ],
-      "published" : [ "2020-10-08T14:13:22+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:aubreyhirsch" ],
-          "numeric-id" : [ "287993271" ],
-          "name" : [ "Aubrey Hirsch" ],
-          "nickname" : [ "aubreyhirsch" ],
-          "url" : [ "https://twitter.com/aubreyhirsch", "http://www.aubreyhirsch.com" ],
-          "published" : [ "2011-04-26T01:55:33+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1312206421602168832/6EmaYLiv.jpg" ]
-        }
-      } ],
-      "content" : [ "Love an immediate, same-sentence fact-check." ],
-      "photo" : [ "https://pbs.twimg.com/media/Ej0AicqVcAMnMnv.jpg" ]
-    }
-  },
-  "tags" : [ "politics", "coronavirus" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/gqeto",
+  "tags": [
+    "politics",
+    "coronavirus"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

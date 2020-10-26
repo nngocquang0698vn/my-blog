@@ -1,47 +1,28 @@
 {
-  "date" : "2020-07-16T09:48:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @verytallhuman's tweet" ],
-    "published" : [ "2020-07-16T09:48:00+01:00" ],
-    "category" : [ "politics" ],
-    "like-of" : [ "https://twitter.com/verytallhuman/status/1283600085180248064" ]
+  "date": "2020-07-16T09:48:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @verytallhuman's tweet"
+    ],
+    "published": [
+      "2020-07-16T09:48:00+01:00"
+    ],
+    "category": [
+      "politics"
+    ],
+    "like-of": [
+      "https://twitter.com/verytallhuman/status/1283600085180248064"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/f4xaa",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283600085180248064" ],
-      "url" : [ "https://twitter.com/verytallhuman/status/1283600085180248064" ],
-      "published" : [ "2020-07-16T03:11:23+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/DotDotDot_John/status/1283594940090589184" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:verytallhuman" ],
-          "numeric-id" : [ "544468209" ],
-          "name" : [ "Alan O’Sullivan" ],
-          "nickname" : [ "verytallhuman" ],
-          "url" : [ "https://twitter.com/verytallhuman", "http://alanosullivan.com" ],
-          "published" : [ "2012-04-03T15:58:46+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Maple Ridge, Canada" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1278889673436172288/eorclKHi.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "We definitely wouldn’t want some reckless pathological attention-seeker taking control of the President’s twitter account and making a mockery of the Office. That would be bad.",
-        "html" : "We definitely wouldn’t want some reckless pathological attention-seeker taking control of the President’s twitter account and making a mockery of the Office. That would be bad.\n<a class=\"u-mention\" href=\"https://twitter.com/DotDotDot_John\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TwitterSupport\"></a>"
-      } ]
-    }
-  },
-  "tags" : [ "politics" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/f4xaa",
+  "tags": [
+    "politics"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

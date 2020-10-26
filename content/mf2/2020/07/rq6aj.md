@@ -1,44 +1,30 @@
 {
-  "date" : "2020-07-19T22:10:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/DannyDeraney/status/1284883502844874752" ],
-    "name" : [ "Like of @DannyDeraney's tweet" ],
-    "published" : [ "2020-07-19T22:10:00+01:00" ],
-    "category" : [ "cute", "food" ],
-    "like-of" : [ "https://twitter.com/DannyDeraney/status/1284883502844874752" ]
+  "date": "2020-07-19T22:10:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/DannyDeraney/status/1284883502844874752"
+    ],
+    "name": [
+      "Like of @DannyDeraney's tweet"
+    ],
+    "published": [
+      "2020-07-19T22:10:00+01:00"
+    ],
+    "category": [
+      "cute",
+      "food"
+    ],
+    "like-of": [
+      "https://twitter.com/DannyDeraney/status/1284883502844874752"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/rq6aj",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1284883502844874752" ],
-      "url" : [ "https://twitter.com/DannyDeraney/status/1284883502844874752" ],
-      "video" : [ "https://video.twimg.com/ext_tw_video/1284883461816213504/pu/vid/720x900/ZVWQTqdfR8gLgvbl.mp4?tag=10" ],
-      "published" : [ "2020-07-19T16:11:13+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:DannyDeraney" ],
-          "numeric-id" : [ "18309553" ],
-          "name" : [ "Danny Deraney" ],
-          "nickname" : [ "DannyDeraney" ],
-          "url" : [ "https://twitter.com/DannyDeraney", "http://deraneypr.com" ],
-          "published" : [ "2008-12-22T16:08:35+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "LA-NYC" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/996218052453679104/22bk_l-8.jpg" ]
-        }
-      } ],
-      "content" : [ "Because you want to see a dog eating a burrito on his human’s lap, who is also eating a burrito." ]
-    }
-  },
-  "tags" : [ "cute", "food" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/rq6aj",
+  "tags": [
+    "cute",
+    "food"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

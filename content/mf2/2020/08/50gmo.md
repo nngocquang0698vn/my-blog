@@ -1,38 +1,28 @@
 {
-  "date" : "2020-08-01T00:04:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @marcusbarnett_'s tweet" ],
-    "published" : [ "2020-08-01T00:04:00+01:00" ],
-    "category" : [ "politics" ],
-    "like-of" : [ "https://twitter.com/marcusbarnett_/status/1289183610185031686" ]
+  "date": "2020-08-01T00:04:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @marcusbarnett_'s tweet"
+    ],
+    "published": [
+      "2020-08-01T00:04:00+01:00"
+    ],
+    "category": [
+      "politics"
+    ],
+    "like-of": [
+      "https://twitter.com/marcusbarnett_/status/1289183610185031686"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/50gmo",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1289183610185031686" ],
-      "url" : [ "https://twitter.com/marcusbarnett_/status/1289183610185031686" ],
-      "published" : [ "2020-07-31T12:58:19+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:marcusbarnett_" ],
-          "numeric-id" : [ "1928654744" ],
-          "name" : [ "Marcus Barnett" ],
-          "nickname" : [ "marcusbarnett_" ],
-          "url" : [ "https://twitter.com/marcusbarnett_" ],
-          "published" : [ "2013-10-03T00:02:46+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1197130903178399744/AeLWTCfK.jpg" ]
-        }
-      } ],
-      "content" : [ "Impartiality from the BBC" ],
-      "photo" : [ "https://pbs.twimg.com/media/EeQZpfiWkAE-l0B.jpg", "https://pbs.twimg.com/media/EeQZpfoXYAEVbIk.jpg" ]
-    }
-  },
-  "tags" : [ "politics" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/50gmo",
+  "tags": [
+    "politics"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

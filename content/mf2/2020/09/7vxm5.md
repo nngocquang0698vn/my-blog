@@ -1,42 +1,22 @@
 {
-  "date" : "2020-09-06T09:44:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/AshleyEsqueda/status/1302441864579039232" ],
-    "name" : [ "Like of @AshleyEsqueda's tweet" ],
-    "published" : [ "2020-09-06T09:44:00+01:00" ],
-    "like-of" : [ "https://twitter.com/AshleyEsqueda/status/1302441864579039232" ]
+  "date": "2020-09-06T09:44:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/AshleyEsqueda/status/1302441864579039232"
+    ],
+    "name": [
+      "Like of @AshleyEsqueda's tweet"
+    ],
+    "published": [
+      "2020-09-06T09:44:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/AshleyEsqueda/status/1302441864579039232"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/7vxm5",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1302441864579039232" ],
-      "url" : [ "https://twitter.com/AshleyEsqueda/status/1302441864579039232" ],
-      "published" : [ "2020-09-06T03:01:53+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:AshleyEsqueda" ],
-          "numeric-id" : [ "129911948" ],
-          "name" : [ "🌈🦠 rainbow blight | #WearAMask 🌈🦠" ],
-          "nickname" : [ "AshleyEsqueda" ],
-          "url" : [ "https://twitter.com/AshleyEsqueda", "http://www.ashleyesqueda.com" ],
-          "published" : [ "2010-04-05T19:48:42+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Hollywood, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1252384926181158912/JmG9l9Xy.jpg" ]
-        }
-      } ],
-      "content" : [ "In my travels today, a moment caught my eye while I waited at a red light on Hollywood Blvd. I quickly snapped a picture and it might be one of the best “Los Angeles” photos I’ve ever taken?" ],
-      "photo" : [ "https://pbs.twimg.com/media/EhMz-O_VoAEHG4D.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/7vxm5",
+  "client_id": "https://indigenous.realize.be"
 }

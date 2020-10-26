@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Women-In-Tech-Nottingham/events/267730091/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/267730091/"
-      ],
-      "name": [
-        "Women in Tech 6th February - What does a Business Psychologist know about Tech?"
-      ],
-      "start": [
-        "2020-02-06T18:30:00Z"
-      ],
-      "end": [
-        "2020-02-06T21:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Beck St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

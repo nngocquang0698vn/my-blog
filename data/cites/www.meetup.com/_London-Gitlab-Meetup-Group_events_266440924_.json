@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.meetup.com/London-Gitlab-Meetup-Group/events/266440924/"
+    ],
+    "name": [
+      "Gitlab London Christmas Meetup"
+    ],
+    "start": [
+      "2019-12-04T18:30:00Z"
+    ],
+    "end": [
+      "2019-12-04T20:30:00Z"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "4 Christopher St, 4 Christopher St"
+          ],
+          "locality": [
+            "London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

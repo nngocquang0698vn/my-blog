@@ -20,37 +20,7 @@
     ],
     "name": [
       "RSVP no to https://www.meetup.com/NottsJS/events/261659046/"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/261659046/"
-      ],
-      "name": [
-        "Intro to Vue.js"
-      ],
-      "start": [
-        "2019-06-11T18:15:00+01:00"
-      ],
-      "end": [
-        "2019-06-11T20:45:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/b3dd4231-6230-4436-9def-5b53d4ea7ef1/",

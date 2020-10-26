@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://2020.indieweb.org/summit"
+    ],
+    "name": [
+      "IndieWeb Summit"
+    ],
+    "start": [
+      "2020-06-26"
+    ],
+    "end": [
+      "2020-06-27"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "1120 NW Couch St #320"
+          ],
+          "locality": [
+            "Portland"
+          ],
+          "country-name": [
+            "United States"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

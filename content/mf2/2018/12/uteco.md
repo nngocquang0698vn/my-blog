@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/256554079/"
-      ],
-      "name": [
-        "AWS Re:Invent replay and your Devops questions answered"
-      ],
-      "start": [
-        "2018-12-06T19:00:00Z"
-      ],
-      "end": [
-        "2018-12-06T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH,  34a Stoney Street, Nottingham, NG1 1NB."
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/12/uteco",
   "aliases": [

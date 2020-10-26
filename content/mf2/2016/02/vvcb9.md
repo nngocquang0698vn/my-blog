@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Mobile-Notts/events/228641782/"
-      ],
-      "name": [
-        "Mobile Notts February 2016 - iOS for Android Developers & Lean Coffee"
-      ],
-      "start": [
-        "2016-02-24T18:30:00Z"
-      ],
-      "end": [
-        "2016-02-24T21:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Software Studio - Capital One, Station Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/02/vvcb9",
   "aliases": [

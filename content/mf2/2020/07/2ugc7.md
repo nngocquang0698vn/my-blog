@@ -1,44 +1,22 @@
 {
-  "date" : "2020-07-24T16:35:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/issyl0/status/1286626575467843584" ],
-    "name" : [ "Like of @issyl0's tweet" ],
-    "published" : [ "2020-07-24T16:35:00+01:00" ],
-    "like-of" : [ "https://twitter.com/issyl0/status/1286626575467843584" ]
+  "date": "2020-07-24T16:35:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/issyl0/status/1286626575467843584"
+    ],
+    "name": [
+      "Like of @issyl0's tweet"
+    ],
+    "published": [
+      "2020-07-24T16:35:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/issyl0/status/1286626575467843584"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/2ugc7",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1286626575467843584" ],
-      "url" : [ "https://twitter.com/issyl0/status/1286626575467843584" ],
-      "published" : [ "2020-07-24T11:37:34+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:issyl0" ],
-          "numeric-id" : [ "14662919" ],
-          "name" : [ "Issy Long" ],
-          "nickname" : [ "issyl0" ],
-          "url" : [ "https://twitter.com/issyl0", "https://github.com/issyl0" ],
-          "published" : [ "2008-05-05T18:29:14+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1139115590336077824/Q8u2O7OM.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "I have some BIG NEWS that I can't keep 🤐 any more...\n\nAfter 6.5 years, I'm leaving GDS in September!\n\nIn October I'll be joining GitHub as a Senior Engineer doing platform-y things!",
-        "html" : "<div style=\"white-space: pre\">I have some BIG NEWS that I can't keep 🤐 any more...\n\nAfter 6.5 years, I'm leaving GDS in September!\n\nIn October I'll be joining GitHub as a Senior Engineer doing platform-y things!</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/2ugc7",
+  "client_id": "https://indigenous.realize.be"
 }

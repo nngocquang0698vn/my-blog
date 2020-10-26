@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/236961705/"
-      ],
-      "name": [
-        "Hack24 and The 12 Principles of Animation"
-      ],
-      "start": [
-        "2017-02-02T18:30:00Z"
-      ],
-      "end": [
-        "2017-02-02T18:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Accelerate Places, The Poynt, 45 Wollaton Street, Nottingham, NG1 5FW"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/01/mczby",
   "aliases": [

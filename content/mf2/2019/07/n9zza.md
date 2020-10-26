@@ -20,37 +20,7 @@
     ],
     "name": [
       "RSVP no to https://www.meetup.com/Nottingham-Cyber-Capital-One/events/262255726/"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Nottingham-Cyber-Capital-One/events/262255726/"
-      ],
-      "name": [
-        "Cyber Nottingham - July Meetup"
-      ],
-      "start": [
-        "2019-07-10T18:00:00+01:00"
-      ],
-      "end": [
-        "2019-07-10T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/a63eea79-747a-4145-bcd2-a81b966d5004/",

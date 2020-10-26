@@ -16,41 +16,9 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.jvt.me/events/homebrew-website-club-nottingham/2019/12/11/"
-      ],
-      "name": [
-        "Homebrew Website Club: Nottingham"
-      ],
-      "start": [
-        "2019-12-11T17:30:00+0000"
-      ],
-      "end": [
-        "2019-12-11T19:30:00+0000"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "72 Maid Marian Way"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ],
-          "postal-code": [
-            "NG1 6BJ"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

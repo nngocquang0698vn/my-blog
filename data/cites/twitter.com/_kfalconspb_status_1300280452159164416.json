@@ -1,0 +1,137 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1300280452159164416"
+    ],
+    "url": [
+      "https://twitter.com/kfalconspb/status/1300280452159164416"
+    ],
+    "published": [
+      "2020-08-31T03:53:12+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:kfalconspb"
+          ],
+          "numeric-id": [
+            "17772686"
+          ],
+          "name": [
+            "Scott Bollinger"
+          ],
+          "nickname": [
+            "kfalconspb"
+          ],
+          "url": [
+            "https://twitter.com/kfalconspb",
+            "https://scott-bollinger.com"
+          ],
+          "published": [
+            "2008-12-01T05:49:13+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Las Vegas"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1030261804801249281/G1ZAMGxV.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "2020 hell now smiling back",
+        "html": "2020 hell now smiling back\n<a class=\"tag\" href=\"https://twitter.com/avatardomy/status/1299784062480134145\">twitter.com/avatardomy/sta…</a>"
+      }
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1299784062480134145"
+        ],
+        "url": [
+          "https://twitter.com/AvatarDomy/status/1299784062480134145"
+        ],
+        "video": [
+          "https://video.twimg.com/ext_tw_video/1299784019912126466/pu/vid/1280x720/wodKOQieJuahZXac.mp4?tag=10"
+        ],
+        "published": [
+          "2020-08-29T19:00:43+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:AvatarDomy"
+              ],
+              "numeric-id": [
+                "848833596"
+              ],
+              "name": [
+                "Domenico"
+              ],
+              "nickname": [
+                "AvatarDomy"
+              ],
+              "url": [
+                "https://twitter.com/AvatarDomy"
+              ],
+              "published": [
+                "2012-09-27T07:40:42+00:00"
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/754629763499716608/-JS8bx9I.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "Hawaii's Kilauea volcano, one of the world's most active, recently formed a smiley face in its over 24-metre deep crater during an ongoing eruption.\n\nMick Kalber of Paradise Helicopters captured the breathtaking scene.",
+            "html": "<div style=\"white-space: pre\">Hawaii's Kilauea volcano, one of the world's most active, recently formed a smiley face in its over 24-metre deep crater during an ongoing eruption.\n\nMick Kalber of Paradise Helicopters captured the breathtaking scene.</div>"
+          }
+        ]
+      }
+    },
+    {
+      "type": [
+        "h-cite"
+      ],
+      "properties": {
+        "name": [
+          "twitter.com/avatardomy/sta…"
+        ],
+        "url": [
+          "https://twitter.com/avatardomy/status/1299784062480134145"
+        ]
+      }
+    }
+  ]
+}

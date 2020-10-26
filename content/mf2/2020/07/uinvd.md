@@ -1,74 +1,28 @@
 {
-  "date" : "2020-07-14T10:25:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/anna_hax/status/1282949049084149760" ],
-    "name" : [ "Like of @anna_hax's tweet" ],
-    "published" : [ "2020-07-14T10:25:00+01:00" ],
-    "category" : [ "tech-nottingham" ],
-    "like-of" : [ "https://twitter.com/anna_hax/status/1282949049084149760" ]
+  "date": "2020-07-14T10:25:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/anna_hax/status/1282949049084149760"
+    ],
+    "name": [
+      "Like of @anna_hax's tweet"
+    ],
+    "published": [
+      "2020-07-14T10:25:00+01:00"
+    ],
+    "category": [
+      "tech-nottingham"
+    ],
+    "like-of": [
+      "https://twitter.com/anna_hax/status/1282949049084149760"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/uinvd",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1282949049084149760" ],
-      "url" : [ "https://twitter.com/anna_hax/status/1282949049084149760" ],
-      "published" : [ "2020-07-14T08:04:23+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:anna_hax" ],
-          "numeric-id" : [ "394235377" ],
-          "name" : [ "Anna 🏠" ],
-          "nickname" : [ "anna_hax" ],
-          "url" : [ "https://twitter.com/anna_hax", "https://annadodson.co.uk" ],
-          "published" : [ "2011-10-19T19:37:31+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1134736020669378561/0_EwVzms.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "The game show at #TechNott last night was amazing! We played Ask The Audience and asked all the important questions \"ketchup or brown sauce?\" And \"would you rather have true love or 10 million pounds?\" to name a few 😅",
-        "html" : "The game show at <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> last night was amazing! We played Ask The Audience and asked all the important questions \"ketchup or brown sauce?\" And \"would you rather have true love or 10 million pounds?\" to name a few 😅"
-      } ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1282756638693306369" ],
-        "url" : [ "https://twitter.com/technottingham/status/1282756638693306369" ],
-        "published" : [ "2020-07-13T19:19:49+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:technottingham" ],
-            "numeric-id" : [ "384492431" ],
-            "name" : [ "Tech Nottingham" ],
-            "nickname" : [ "technottingham" ],
-            "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
-            "published" : [ "2011-10-03T19:47:31+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Nottingham" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
-          }
-        } ],
-        "content" : [ "It's game show time! Thanks for your patience with the *slight* technical issues, folks" ],
-        "photo" : [ "https://pbs.twimg.com/media/Ec1Dd47WkAYdize.jpg" ]
-      }
-    } ]
-  },
-  "tags" : [ "tech-nottingham" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/uinvd",
+  "tags": [
+    "tech-nottingham"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

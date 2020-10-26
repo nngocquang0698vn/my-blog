@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/264424556/"
-      ],
-      "name": [
-        "Next Frontier in Front-end Development: Real-time monitoring and alerting"
-      ],
-      "start": [
-        "2019-10-08T18:00:00+01:00"
-      ],
-      "end": [
-        "2019-10-08T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/09/fu7di",
   "aliases": [

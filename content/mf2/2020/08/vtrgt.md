@@ -1,42 +1,22 @@
 {
-  "date" : "2020-08-16T11:04:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/QueenAl123/status/1294687034884464640" ],
-    "name" : [ "Like of @QueenAl123's tweet" ],
-    "published" : [ "2020-08-16T11:04:00+01:00" ],
-    "like-of" : [ "https://twitter.com/QueenAl123/status/1294687034884464640" ]
+  "date": "2020-08-16T11:04:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/QueenAl123/status/1294687034884464640"
+    ],
+    "name": [
+      "Like of @QueenAl123's tweet"
+    ],
+    "published": [
+      "2020-08-16T11:04:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/QueenAl123/status/1294687034884464640"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/vtrgt",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1294687034884464640" ],
-      "url" : [ "https://twitter.com/QueenAl123/status/1294687034884464640" ],
-      "published" : [ "2020-08-15T17:26:57+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:QueenAl123" ],
-          "numeric-id" : [ "1125100362128592898" ],
-          "name" : [ "🕊" ],
-          "nickname" : [ "QueenAl123" ],
-          "url" : [ "https://twitter.com/QueenAl123", "https://yemencrisis.carrd.co/" ],
-          "published" : [ "2019-05-05T18:10:04+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "الدنيا 💔" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1292671487472738304/eJQYSogY.jpg" ]
-        }
-      } ],
-      "content" : [ "Our Beautiful mother Yemen 🇾🇪" ],
-      "photo" : [ "https://pbs.twimg.com/media/Efem-Z3WAAE-E_V.jpg", "https://pbs.twimg.com/media/Efem-Z9XYAAHVrD.jpg", "https://pbs.twimg.com/media/Efem-Z_XoAAQKa1.jpg", "https://pbs.twimg.com/media/Efem-aAWoAIXYeq.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/vtrgt",
+  "client_id": "https://indigenous.realize.be"
 }

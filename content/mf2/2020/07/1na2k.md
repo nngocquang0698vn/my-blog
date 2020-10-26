@@ -1,43 +1,28 @@
 {
-  "date" : "2020-07-10T17:30:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Browtweaten/status/1222313309585793025" ],
-    "name" : [ "Like of @Browtweaten's tweet" ],
-    "published" : [ "2020-07-10T17:30:00+01:00" ],
-    "category" : [ "shitpost" ],
-    "like-of" : [ "https://twitter.com/Browtweaten/status/1222313309585793025" ]
+  "date": "2020-07-10T17:30:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Browtweaten/status/1222313309585793025"
+    ],
+    "name": [
+      "Like of @Browtweaten's tweet"
+    ],
+    "published": [
+      "2020-07-10T17:30:00+01:00"
+    ],
+    "category": [
+      "shitpost"
+    ],
+    "like-of": [
+      "https://twitter.com/Browtweaten/status/1222313309585793025"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/1na2k",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1222313309585793025" ],
-      "url" : [ "https://twitter.com/Browtweaten/status/1222313309585793025" ],
-      "published" : [ "2020-01-29T00:19:37+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Browtweaten" ],
-          "numeric-id" : [ "855544844843974656" ],
-          "name" : [ "Adam Cerious" ],
-          "nickname" : [ "Browtweaten" ],
-          "url" : [ "https://twitter.com/Browtweaten", "https://twitter.com/search?q=from%3ABrowtweaten%20min_retweets%3A100" ],
-          "published" : [ "2017-04-21T22:12:41+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Charlotte, NC" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1266028024148959232/WzlPJCMY.jpg" ]
-        }
-      } ],
-      "content" : [ "The opposite of formaldehyde is casualdejekyll" ]
-    }
-  },
-  "tags" : [ "shitpost" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/1na2k",
+  "tags": [
+    "shitpost"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -16,36 +16,6 @@
     ],
     "rsvp": [
       "no"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/DevOps-Notts/events/266765057/"
-      ],
-      "name": [
-        "DevOps Notts - January 2020"
-      ],
-      "start": [
-        "2020-01-28T18:00:00Z"
-      ],
-      "end": [
-        "2020-01-28T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Rebel Recruiters, Huntingdon St"
-          ],
-          "locality": [
-            "Nottinghamshire"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

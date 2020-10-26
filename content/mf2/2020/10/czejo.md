@@ -1,45 +1,31 @@
 {
-  "date" : "2020-10-01T17:33:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/freekmurze/status/1311629463529152513" ],
-    "name" : [ "Like of @freekmurze's tweet" ],
-    "published" : [ "2020-10-01T17:33:00+0100" ],
-    "category" : [ "open-source" ],
-    "like-of" : [ "https://twitter.com/freekmurze/status/1311629463529152513" ],
-    "post-status" : [ "published" ]
+  "date": "2020-10-01T17:33:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/freekmurze/status/1311629463529152513"
+    ],
+    "name": [
+      "Like of @freekmurze's tweet"
+    ],
+    "published": [
+      "2020-10-01T17:33:00+0100"
+    ],
+    "category": [
+      "open-source"
+    ],
+    "like-of": [
+      "https://twitter.com/freekmurze/status/1311629463529152513"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/czejo",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1311629463529152513" ],
-      "url" : [ "https://twitter.com/freekmurze/status/1311629463529152513" ],
-      "published" : [ "2020-10-01T11:30:07+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:freekmurze" ],
-          "numeric-id" : [ "97178022" ],
-          "name" : [ "Freek Van der Herten" ],
-          "nickname" : [ "freekmurze" ],
-          "url" : [ "https://twitter.com/freekmurze", "https://freek.dev", "http://freek.dev" ],
-          "published" : [ "2009-12-16T09:56:14+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Antwerp, Belgium" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1289323020021006336/Bbd_w9ts.jpg" ]
-        }
-      } ],
-      "content" : [ "Open source !== just merging anything in." ],
-      "photo" : [ "https://pbs.twimg.com/media/EjPYCwkWsAEErui.jpg" ]
-    }
-  },
-  "tags" : [ "open-source" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/czejo",
+  "tags": [
+    "open-source"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

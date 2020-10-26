@@ -11,37 +11,7 @@
     ],
     "category": [
       "tech-nottingham"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/262759428/"
-      ],
-      "name": [
-        "Tech Nottingham"
-      ],
-      "start": [
-        "2019-07-08T18:30:00+0100"
-      ],
-      "end": [
-        "2019-07-08T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Back Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/c7bb0289-c1e3-4371-9686-3827a6ae1352/",

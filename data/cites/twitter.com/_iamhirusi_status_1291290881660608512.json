@@ -1,0 +1,66 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1291290881660608512"
+    ],
+    "url": [
+      "https://twitter.com/iamhirusi/status/1291290881660608512"
+    ],
+    "published": [
+      "2020-08-06T08:31:51+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:iamhirusi"
+          ],
+          "numeric-id": [
+            "1252888172700119041"
+          ],
+          "name": [
+            "Ru Singh"
+          ],
+          "nickname": [
+            "iamhirusi"
+          ],
+          "url": [
+            "https://twitter.com/iamhirusi",
+            "https://rusingh.com"
+          ],
+          "published": [
+            "2020-04-22T09:14:03+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "India"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1287100701965840385/7LCy7NCC.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "Just updated my #blogroll: rusingh.com/blogroll/\n\nA few blogs had to go (sorry!), and a few came in.",
+        "html": "<div style=\"white-space: pre\">Just updated my <a href=\"https://twitter.com/search?q=%23blogroll\">#blogroll</a>: <a href=\"https://rusingh.com/blogroll/\">rusingh.com/blogroll/</a>\n\nA few blogs had to go (sorry!), and a few came in.</div>"
+      }
+    ]
+  }
+}

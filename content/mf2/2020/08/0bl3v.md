@@ -1,44 +1,22 @@
 {
-  "date" : "2020-08-20T17:43:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/deniseyu21/status/1296467990742020101" ],
-    "name" : [ "Like of @deniseyu21's tweet" ],
-    "published" : [ "2020-08-20T17:43:00+01:00" ],
-    "like-of" : [ "https://twitter.com/deniseyu21/status/1296467990742020101" ]
+  "date": "2020-08-20T17:43:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/deniseyu21/status/1296467990742020101"
+    ],
+    "name": [
+      "Like of @deniseyu21's tweet"
+    ],
+    "published": [
+      "2020-08-20T17:43:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/deniseyu21/status/1296467990742020101"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/0bl3v",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1296467990742020101" ],
-      "url" : [ "https://twitter.com/deniseyu21/status/1296467990742020101" ],
-      "published" : [ "2020-08-20T15:23:50+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:deniseyu21" ],
-          "numeric-id" : [ "25458567" ],
-          "name" : [ "Denise Yu" ],
-          "nickname" : [ "deniseyu21" ],
-          "url" : [ "https://twitter.com/deniseyu21", "http://deniseyu.io", "http://deniseyu.io/art", "http://tinyletter.com/deniseyu" ],
-          "published" : [ "2009-03-20T04:17:20+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Toronto, Ontario" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/471064769097523200/dOghyD0J.jpeg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "deploying a code change: 😎\n\ndeploying a config change: 😰😰😨😨😱😥😓😥😰😦🤔😲😵🤮",
-        "html" : "<div style=\"white-space: pre\">deploying a code change: 😎\n\ndeploying a config change: 😰😰😨😨😱😥😓😥😰😦🤔😲😵🤮</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/0bl3v",
+  "client_id": "https://indigenous.realize.be"
 }

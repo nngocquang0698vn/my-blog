@@ -1,0 +1,65 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1286945025625128961"
+    ],
+    "url": [
+      "https://twitter.com/mr_goodwin/status/1286945025625128961"
+    ],
+    "published": [
+      "2020-07-25T08:42:59+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:mr_goodwin"
+          ],
+          "numeric-id": [
+            "1481941"
+          ],
+          "name": [
+            "Mark Goodwin"
+          ],
+          "nickname": [
+            "mr_goodwin"
+          ],
+          "url": [
+            "https://twitter.com/mr_goodwin"
+          ],
+          "published": [
+            "2007-03-19T08:27:18+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Nottinghamshire, UK"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/756072798603411457/SIyD6Fnf.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "Alright twits, what static site generation tools do you use?\nNeed:\n- Markdown\n- Blog tool\nWant:\n- Simple / clean output\n- Custom paths",
+        "html": "<div style=\"white-space: pre\">Alright twits, what static site generation tools do you use?\nNeed:\n- Markdown\n- Blog tool\nWant:\n- Simple / clean output\n- Custom paths</div>"
+      }
+    ]
+  }
+}

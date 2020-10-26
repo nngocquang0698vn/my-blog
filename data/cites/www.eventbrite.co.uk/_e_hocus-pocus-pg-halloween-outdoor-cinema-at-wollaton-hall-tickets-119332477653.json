@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "start": [
+      "2020-10-31T16:30:00Z"
+    ],
+    "name": [
+      "Hocus Pocus (PG) - Halloween Outdoor Cinema at Wollaton Hall"
+    ],
+    "end": [
+      "2020-10-31T19:00:00Z"
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "name": [
+            "Wollaton Hall"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "street-address": [
+            "Wollaton Hall & Deer Park"
+          ],
+          "postal-code": [
+            "NG8 2AE"
+          ]
+        }
+      }
+    ],
+    "url": [
+      "https://www.eventbrite.co.uk/e/hocus-pocus-pg-halloween-outdoor-cinema-at-wollaton-hall-tickets-119332477653"
+    ]
+  }
+}

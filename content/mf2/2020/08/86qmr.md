@@ -1,68 +1,22 @@
 {
-  "date" : "2020-08-14T12:59:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/TashJNorris/status/1294238290535690240" ],
-    "name" : [ "Like of @TashJNorris's tweet" ],
-    "published" : [ "2020-08-14T12:59:00+01:00" ],
-    "like-of" : [ "https://twitter.com/TashJNorris/status/1294238290535690240" ]
+  "date": "2020-08-14T12:59:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/TashJNorris/status/1294238290535690240"
+    ],
+    "name": [
+      "Like of @TashJNorris's tweet"
+    ],
+    "published": [
+      "2020-08-14T12:59:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/TashJNorris/status/1294238290535690240"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/86qmr",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1294238290535690240" ],
-      "url" : [ "https://twitter.com/TashJNorris/status/1294238290535690240" ],
-      "published" : [ "2020-08-14T11:43:48+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:TashJNorris" ],
-          "numeric-id" : [ "19965271" ],
-          "name" : [ "Tash Norris" ],
-          "nickname" : [ "TashJNorris" ],
-          "url" : [ "https://twitter.com/TashJNorris", "https://medium.com/@tashjnorris" ],
-          "published" : [ "2009-02-03T11:25:57+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1084014099510558720/_2lwD_ZS.jpg" ]
-        }
-      } ],
-      "content" : [ "Triggered." ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1294229504530042880" ],
-        "url" : [ "https://twitter.com/cybersecstu/status/1294229504530042880" ],
-        "published" : [ "2020-08-14T11:08:54+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:cybersecstu" ],
-            "numeric-id" : [ "29990309" ],
-            "name" : [ "STUͣͬͭ ͣ ͬ ͭ 🕵️🔎" ],
-            "nickname" : [ "cybersecstu" ],
-            "url" : [ "https://twitter.com/cybersecstu", "http://twitch.tv/themanyhatsclub" ],
-            "published" : [ "2009-04-09T14:10:02+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "10x Views are thine own " ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1268956146896904193/BeDXpSmw.jpg" ]
-          }
-        } ],
-        "content" : [ "Nano is the best text editor - prove me wrong 🧐" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/86qmr",
+  "client_id": "https://indigenous.realize.be"
 }

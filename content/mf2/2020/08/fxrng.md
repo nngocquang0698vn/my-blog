@@ -1,47 +1,34 @@
 {
-  "date" : "2020-08-29T12:28:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "in-reply-to" : [ "https://twitter.com/okthenprincess/status/1299430145351184386" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1299671660799369216" ],
-    "name" : [ "Reply to https://twitter.com/okthenprincess/status/1299430145351184386" ],
-    "published" : [ "2020-08-29T12:28:00+01:00" ],
-    "category" : [ ],
-    "content" : [ {
-      "html" : "",
-      "value" : "Once, open air outside, a few weeks back. Once, inside, yesterday"
-    } ]
+  "date": "2020-08-29T12:28:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/okthenprincess/status/1299430145351184386"
+    ],
+    "syndication": [
+      "https://twitter.com/JamieTanna/status/1299671660799369216"
+    ],
+    "name": [
+      "Reply to https://twitter.com/okthenprincess/status/1299430145351184386"
+    ],
+    "published": [
+      "2020-08-29T12:28:00+01:00"
+    ],
+    "category": [
+
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "Once, open air outside, a few weeks back. Once, inside, yesterday"
+      }
+    ]
   },
-  "kind" : "replies",
-  "slug" : "2020/08/fxrng",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299430145351184386" ],
-      "url" : [ "https://twitter.com/okthenprincess/status/1299430145351184386" ],
-      "published" : [ "2020-08-28T19:34:23+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:okthenprincess" ],
-          "numeric-id" : [ "26320376" ],
-          "name" : [ "Princess" ],
-          "nickname" : [ "okthenprincess" ],
-          "url" : [ "https://twitter.com/okthenprincess" ],
-          "published" : [ "2009-03-24T20:48:59+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Austin, TX" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1280608659865833477/rbx5ZVGe.jpg" ]
-        }
-      } ],
-      "content" : [ "How many times have you eaten in a restaurant since March? I just want to know. I promise I won’t judge anyone." ]
-    }
-  },
-  "tags" : [ ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "replies",
+  "slug": "2020/08/fxrng",
+  "tags": [
+
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

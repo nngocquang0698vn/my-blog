@@ -1,73 +1,22 @@
 {
-  "date" : "2020-08-16T16:01:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1294244731493519360" ],
-    "name" : [ "Like of @CarolSaysThings's tweet" ],
-    "published" : [ "2020-08-16T16:01:00+01:00" ],
-    "like-of" : [ "https://twitter.com/CarolSaysThings/status/1294244731493519360" ]
+  "date": "2020-08-16T16:01:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/CarolSaysThings/status/1294244731493519360"
+    ],
+    "name": [
+      "Like of @CarolSaysThings's tweet"
+    ],
+    "published": [
+      "2020-08-16T16:01:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/CarolSaysThings/status/1294244731493519360"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/qhudi",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1294244731493519360" ],
-      "url" : [ "https://twitter.com/CarolSaysThings/status/1294244731493519360" ],
-      "published" : [ "2020-08-14T12:09:24+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
-          "numeric-id" : [ "36382927" ],
-          "name" : [ "Carol 🌻" ],
-          "nickname" : [ "CarolSaysThings" ],
-          "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
-          "published" : [ "2009-04-29T15:22:13+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "html" : "RT <a href=\"https://twitter.com/DanPriceSeattle/status/1294123483904053250\">@DanPriceSeattle</a> <div style=\"white-space: pre\">\"why don't young people love capitalism\"\n\nMillennials' entire careers:\n2007-2010: \"once in a lifetime\" recession\n2011-2019: pay stayed the same + all costs went up. Built average $8,000 net worth - 34% less than prior generations at same age\n2020: \"once in a lifetime\" recession</div>"
-      } ],
-      "repost-of" : [ {
-        "type" : [ "h-cite" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:1294123483904053250" ],
-          "url" : [ "https://twitter.com/DanPriceSeattle/status/1294123483904053250" ],
-          "published" : [ "2020-08-14T04:07:36+00:00" ],
-          "author" : [ {
-            "type" : [ "h-card" ],
-            "properties" : {
-              "uid" : [ "tag:twitter.com:DanPriceSeattle" ],
-              "numeric-id" : [ "2172596028" ],
-              "name" : [ "Dan Price" ],
-              "nickname" : [ "DanPriceSeattle" ],
-              "url" : [ "https://twitter.com/DanPriceSeattle", "http://www.instagram.com/danpriceseattle" ],
-              "published" : [ "2013-11-03T18:27:37+00:00" ],
-              "location" : [ {
-                "type" : [ "h-card", "p-location" ],
-                "properties" : {
-                  "name" : [ "Seattle, WA" ]
-                }
-              } ],
-              "photo" : [ "https://pbs.twimg.com/profile_images/1257731768569917440/DXgWC7tR.jpg" ]
-            }
-          } ],
-          "content" : [ {
-            "value" : "\"why don't young people love capitalism\"\n\nMillennials' entire careers:\n2007-2010: \"once in a lifetime\" recession\n2011-2019: pay stayed the same + all costs went up. Built average $8,000 net worth - 34% less than prior generations at same age\n2020: \"once in a lifetime\" recession",
-            "html" : "<div style=\"white-space: pre\">\"why don't young people love capitalism\"\n\nMillennials' entire careers:\n2007-2010: \"once in a lifetime\" recession\n2011-2019: pay stayed the same + all costs went up. Built average $8,000 net worth - 34% less than prior generations at same age\n2020: \"once in a lifetime\" recession</div>"
-          } ]
-        }
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/qhudi",
+  "client_id": "https://indigenous.realize.be"
 }

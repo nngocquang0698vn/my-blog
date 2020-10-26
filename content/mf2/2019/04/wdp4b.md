@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/260564538/"
-      ],
-      "name": [
-        "Women In Tech May 2019 - UX Clichés (and a new venue!)"
-      ],
-      "start": [
-        "2019-05-02T18:30:00+01:00"
-      ],
-      "end": [
-        "2019-05-02T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Beck St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/04/wdp4b",
   "aliases": [

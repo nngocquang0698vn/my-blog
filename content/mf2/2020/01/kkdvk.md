@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/NottsJS/events/265428203/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/265428203/"
-      ],
-      "name": [
-        "Community project evening!"
-      ],
-      "start": [
-        "2020-01-14T18:00:00Z"
-      ],
-      "end": [
-        "2020-01-14T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

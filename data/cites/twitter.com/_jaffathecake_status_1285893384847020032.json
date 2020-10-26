@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1285893384847020032"
+    ],
+    "url": [
+      "https://twitter.com/jaffathecake/status/1285893384847020032"
+    ],
+    "published": [
+      "2020-07-22T11:04:08+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:jaffathecake"
+          ],
+          "numeric-id": [
+            "15390783"
+          ],
+          "name": [
+            "Jake Archibald"
+          ],
+          "nickname": [
+            "jaffathecake"
+          ],
+          "url": [
+            "https://twitter.com/jaffathecake",
+            "http://www.jakearchibald.com"
+          ],
+          "published": [
+            "2008-07-11T12:42:42+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Haywards Heath"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1695239906/me.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "What if, instead of creating AMP, Google used the site's RSS feed to render a lite version of the page using some kind of RSS reading web app…"
+    ]
+  }
+}

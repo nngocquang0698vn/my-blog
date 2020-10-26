@@ -19,36 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/NottsJS/events/vjnvhrybcdbpb/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/vjnvhrybcdbpb/"
-      ],
-      "name": [
-        "How to talk really good"
-      ],
-      "start": [
-        "2020-02-11T18:00:00Z"
-      ],
-      "end": [
-        "2020-02-11T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

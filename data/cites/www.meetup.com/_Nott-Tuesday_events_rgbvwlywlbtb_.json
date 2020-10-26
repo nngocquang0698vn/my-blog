@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.meetup.com/Nott-Tuesday/events/rgbvwlywlbtb/"
+    ],
+    "name": [
+      "Nott Tuesday August 2017 - Hiring better people and getting better jobs"
+    ],
+    "start": [
+      "2017-08-15T18:30:00+01:00"
+    ],
+    "end": [
+      "2017-08-15T21:00:00+01:00"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Antenna, 9A Beck St, NG1 1EQ"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

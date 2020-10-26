@@ -22,23 +22,6 @@
         "html": "",
         "value": "I'll dip in and out when I get a chance! "
       }
-    ],
-    "event": {
-      "location": [
-        "Online"
-      ],
-      "url": [
-        "https://events.indieweb.org/2020/02/indiewebcamp-online-gUpSVUxbUKhv"
-      ],
-      "name": [
-        "IndieWebCamp Online"
-      ],
-      "start": [
-        "2020-02-08"
-      ],
-      "end": [
-        "2020-02-09"
-      ]
-    }
+    ]
   }
 }

@@ -22,41 +22,9 @@
         "value": "",
         "html": "<p>Unfortunately I'm going to be unable to make this due to family circumstances - I hope some of you still make it and it's a good one!</p>"
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.jvt.me/events/homebrew-website-club-nottingham/2019/11/13/"
-      ],
-      "name": [
-        "Homebrew Website Club: Nottingham"
-      ],
-      "start": [
-        "2019-11-13T17:30:00+0000"
-      ],
-      "end": [
-        "2019-11-13T19:30:00+0000"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "72 Maid Marian Way"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ],
-          "postal-code": [
-            "NG1 6BJ"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
+
   ]
 }

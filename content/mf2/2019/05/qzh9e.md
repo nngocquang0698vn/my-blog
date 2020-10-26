@@ -17,37 +17,7 @@
     ],
     "category": [
       "indiewebcamp"
-    ],
-    "event": {
-      "url": [
-        "https://indieweb.org/2019/Brighton"
-      ],
-      "name": [
-        "IndieWebCamp Brighton 2019"
-      ],
-      "start": [
-        "2019-10-19T09:00:00+0100"
-      ],
-      "end": [
-        "2019-10-20T18:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "68 Middle Street"
-          ],
-          "locality": [
-            "Brighton"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/bb9006a1-486a-4654-8292-5b4cc0640b97/",

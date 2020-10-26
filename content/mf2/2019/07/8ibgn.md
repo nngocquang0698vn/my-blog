@@ -17,37 +17,7 @@
     ],
     "category": [
       "phpminds"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/263270719/"
-      ],
-      "name": [
-        "PHPMiNDS: The Politics of Tool-Shaming"
-      ],
-      "start": [
-        "2019-08-08T19:00:00+0100"
-      ],
-      "end": [
-        "2019-08-08T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Back Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/e30355c4-b6c1-42d1-b26a-853bfc98038e/",

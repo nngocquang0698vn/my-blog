@@ -11,37 +11,7 @@
     ],
     "category": [
       "dotnetnotts"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/dotnetnotts/events/261020929/"
-      ],
-      "name": [
-        "DotNetNotts - Matteo Emili - 'The computer says no' - Software quality in the DevOps world"
-      ],
-      "start": [
-        "2019-05-20T18:30:00+0100"
-      ],
-      "end": [
-        "2019-05-20T20:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Fothergill House, 16 King Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/f7e81d82-059d-4bdb-8993-caa8c4cb9883/",

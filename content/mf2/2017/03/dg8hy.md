@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/236607159/"
-      ],
-      "name": [
-        "April 2017 - Firefox Containers, isolating the web whilst hacking web extensions"
-      ],
-      "start": [
-        "2017-04-11T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-04-11T21:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/03/dg8hy",
   "aliases": [

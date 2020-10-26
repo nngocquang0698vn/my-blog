@@ -1,43 +1,28 @@
 {
-  "date" : "2020-08-29T22:29:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/DavidKPiano/status/1299752119893884929" ],
-    "name" : [ "Like of @DavidKPiano's tweet" ],
-    "published" : [ "2020-08-29T22:29:00+01:00" ],
-    "category" : [ "facebook" ],
-    "like-of" : [ "https://twitter.com/DavidKPiano/status/1299752119893884929" ]
+  "date": "2020-08-29T22:29:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/DavidKPiano/status/1299752119893884929"
+    ],
+    "name": [
+      "Like of @DavidKPiano's tweet"
+    ],
+    "published": [
+      "2020-08-29T22:29:00+01:00"
+    ],
+    "category": [
+      "facebook"
+    ],
+    "like-of": [
+      "https://twitter.com/DavidKPiano/status/1299752119893884929"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/pt0rb",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1299752119893884929" ],
-      "url" : [ "https://twitter.com/DavidKPiano/status/1299752119893884929" ],
-      "published" : [ "2020-08-29T16:53:48+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:DavidKPiano" ],
-          "numeric-id" : [ "992126114" ],
-          "name" : [ "David K. 🎹" ],
-          "nickname" : [ "DavidKPiano" ],
-          "url" : [ "https://twitter.com/DavidKPiano", "http://www.codepen.io/davidkpiano" ],
-          "published" : [ "2012-12-06T01:03:35+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Orlando, FL" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/619677584805208064/RwwbnNpi.jpg" ]
-        }
-      } ],
-      "content" : [ "Facebook is extremely over-engineered for a birthday reminder app" ]
-    }
-  },
-  "tags" : [ "facebook" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/pt0rb",
+  "tags": [
+    "facebook"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

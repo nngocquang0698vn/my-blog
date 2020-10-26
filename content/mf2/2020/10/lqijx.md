@@ -1,69 +1,31 @@
 {
-  "date" : "2020-10-01T23:33:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MrsEmma/status/1311792002359492609" ],
-    "name" : [ "Like of @MrsEmma's tweet" ],
-    "published" : [ "2020-10-01T23:33:00+0100" ],
-    "category" : [ "miscarriage" ],
-    "like-of" : [ "https://twitter.com/MrsEmma/status/1311792002359492609" ],
-    "post-status" : [ "published" ]
+  "date": "2020-10-01T23:33:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MrsEmma/status/1311792002359492609"
+    ],
+    "name": [
+      "Like of @MrsEmma's tweet"
+    ],
+    "published": [
+      "2020-10-01T23:33:00+0100"
+    ],
+    "category": [
+      "miscarriage"
+    ],
+    "like-of": [
+      "https://twitter.com/MrsEmma/status/1311792002359492609"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/lqijx",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1311792002359492609" ],
-      "url" : [ "https://twitter.com/MrsEmma/status/1311792002359492609" ],
-      "published" : [ "2020-10-01T22:15:59+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MrsEmma" ],
-          "numeric-id" : [ "19500955" ],
-          "name" : [ "Emma Seward" ],
-          "nickname" : [ "MrsEmma" ],
-          "url" : [ "https://twitter.com/MrsEmma" ],
-          "published" : [ "2009-01-25T19:32:42+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1306627007317504000/K6YXEx2-.jpg" ]
-        }
-      } ],
-      "content" : [ "How people choose to grieve & process their loss after a miscarriage is no-one's business but their own. Miscarriage is already not talked about enough so anyone brave enough to share their story & grief openly, & initiate conversation about it, is to be applauded not criticised." ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1311695641064611840" ],
-        "url" : [ "https://twitter.com/tommys/status/1311695641064611840" ],
-        "published" : [ "2020-10-01T15:53:05+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:tommys" ],
-            "numeric-id" : [ "17682815" ],
-            "name" : [ "Tommy's" ],
-            "nickname" : [ "tommys" ],
-            "url" : [ "https://twitter.com/tommys", "http://www.tommys.org" ],
-            "published" : [ "2008-11-27T17:03:40+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "UK" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1153243187781275648/cKYg5aMH.png" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "Chrissy Teigen choosing to share her story, talking so openly at this stage in her grief takes courage, but shockingly this honesty has resulted in criticism.\n\nWe'd like to look at some of these comments and explain why they are so hurtful.\n\nRead our blog: bit.ly/36oZK7K",
-          "html" : "<div style=\"white-space: pre\">Chrissy Teigen choosing to share her story, talking so openly at this stage in her grief takes courage, but shockingly this honesty has resulted in criticism.\n\nWe'd like to look at some of these comments and explain why they are so hurtful.\n\nRead our blog: <a href=\"https://bit.ly/36oZK7K\">bit.ly/36oZK7K</a></div>"
-        } ],
-        "photo" : [ "https://pbs.twimg.com/media/EjQUO55XYAA1UCk.jpg" ]
-      }
-    } ]
-  },
-  "tags" : [ "miscarriage" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/lqijx",
+  "tags": [
+    "miscarriage"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

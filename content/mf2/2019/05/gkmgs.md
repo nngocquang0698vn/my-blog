@@ -11,37 +11,7 @@
     ],
     "category": [
       "oggcamp"
-    ],
-    "event": {
-      "url": [
-        "https://www.oggcamp.com/"
-      ],
-      "name": [
-        "OggCamp 2019"
-      ],
-      "start": [
-        "2019-10-19T09:00:00+0100"
-      ],
-      "end": [
-        "2019-10-20T18:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Manchester Conference Centre, Sackville Street"
-          ],
-          "locality": [
-            "Manchester"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/5b6c12a7-78a1-422a-aa05-a76c28108b54/",

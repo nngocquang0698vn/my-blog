@@ -11,37 +11,7 @@
     ],
     "category": [
       "wit-notts"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/262397264/"
-      ],
-      "name": [
-        "Women In Tech July 2019 - No Time To Spare: Spark, Tinder, Breeze"
-      ],
-      "start": [
-        "2019-07-04T18:30:00+0100"
-      ],
-      "end": [
-        "2019-07-04T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Back Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/5d114192-c7ad-4273-b1ea-aa417d4a823f/",

@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/229014573/"
-      ],
-      "name": [
-        "Tech Nottingham March 2016 - Joe Nash on Kafka"
-      ],
-      "start": [
-        "2016-03-07T18:30:00Z"
-      ],
-      "end": [
-        "2016-03-07T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/02/ojhyv",
   "aliases": [

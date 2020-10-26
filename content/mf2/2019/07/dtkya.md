@@ -11,40 +11,7 @@
     ],
     "category": [
       "homebrew-website-club"
-    ],
-    "event": {
-      "url": [
-        "https://www.jvt.me/events/homebrew-website-club-nottingham/2019/08/07/"
-      ],
-      "name": [
-        "Homebrew Website Club Nottingham"
-      ],
-      "start": [
-        "2019-08-07T17:30:00+0100"
-      ],
-      "end": [
-        "2019-08-07T19:30:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Ludorati Cafe, 72 Maid Marian Way"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ],
-          "postal-code": [
-            "NG1 6BJ"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/233a6c3c-94b3-48ee-933c-fe48ea7f5554/",

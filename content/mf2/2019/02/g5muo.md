@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/258091947/"
-      ],
-      "name": [
-        "Tech Nottingham February 2019: Lightning Talks!"
-      ],
-      "start": [
-        "2019-02-11T18:30:00Z"
-      ],
-      "end": [
-        "2019-02-11T21:15:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/02/g5muo",
   "aliases": [

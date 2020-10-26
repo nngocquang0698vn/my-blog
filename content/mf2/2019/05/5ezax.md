@@ -11,37 +11,7 @@
     ],
     "category": [
       "notts-iot"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Nottingham-IoT-Meetup/events/261892234/"
-      ],
-      "name": [
-        "Notts IoT Mini Hack 2019"
-      ],
-      "start": [
-        "2019-06-20T18:00:00+0100"
-      ],
-      "end": [
-        "2019-06-20T21:30:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Rebel Recruiters, Huntingdon Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/858c225a-e26c-4b15-bcc6-b373b9ad0056/",

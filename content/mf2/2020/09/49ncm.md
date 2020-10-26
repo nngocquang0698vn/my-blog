@@ -1,46 +1,25 @@
 {
-  "date" : "2020-09-29T22:42:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/justkelly_ok/status/1310978456172208128" ],
-    "name" : [ "Like of @justkelly_ok's tweet" ],
-    "published" : [ "2020-09-29T22:42:00+0100" ],
-    "like-of" : [ "https://twitter.com/justkelly_ok/status/1310978456172208128" ],
-    "post-status" : [ "published" ]
+  "date": "2020-09-29T22:42:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/justkelly_ok/status/1310978456172208128"
+    ],
+    "name": [
+      "Like of @justkelly_ok's tweet"
+    ],
+    "published": [
+      "2020-09-29T22:42:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/justkelly_ok/status/1310978456172208128"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/49ncm",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1310978456172208128" ],
-      "url" : [ "https://twitter.com/justkelly_ok/status/1310978456172208128" ],
-      "published" : [ "2020-09-29T16:23:15+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/ikeadrift/status/1310978006597251078" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:justkelly_ok" ],
-          "numeric-id" : [ "2586997621" ],
-          "name" : [ "Kelly Ellis" ],
-          "nickname" : [ "justkelly_ok" ],
-          "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ],
-          "published" : [ "2014-06-25T06:18:56+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "San Francisco" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1295789781834584064/5RaolPav.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "You both should stop devoting your labor to evil destructive companies",
-        "html" : "You both should stop devoting your labor to evil destructive companies\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/diamondbishop\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ikeadrift\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/49ncm",
+  "client_id": "https://indigenous.realize.be"
 }

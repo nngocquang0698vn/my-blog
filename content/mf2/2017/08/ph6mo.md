@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/242558043/"
-      ],
-      "name": [
-        "TECH NOTTINGHAM SEPTEMBER 2017: DEVEL-OPS: BRINGING DEV PRACTICES TO OPS TASKS"
-      ],
-      "start": [
-        "2017-09-04T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-09-04T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/08/ph6mo",
   "aliases": [

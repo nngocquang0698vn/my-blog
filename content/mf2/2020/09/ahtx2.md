@@ -1,47 +1,28 @@
 {
-  "date" : "2020-09-03T08:38:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/WiT_Notts/status/1301414624437383169" ],
-    "name" : [ "Like of @WiT_Notts's tweet" ],
-    "published" : [ "2020-09-03T08:38:00+01:00" ],
-    "category" : [ "women-in-tech" ],
-    "like-of" : [ "https://twitter.com/WiT_Notts/status/1301414624437383169" ]
+  "date": "2020-09-03T08:38:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/WiT_Notts/status/1301414624437383169"
+    ],
+    "name": [
+      "Like of @WiT_Notts's tweet"
+    ],
+    "published": [
+      "2020-09-03T08:38:00+01:00"
+    ],
+    "category": [
+      "women-in-tech"
+    ],
+    "like-of": [
+      "https://twitter.com/WiT_Notts/status/1301414624437383169"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/ahtx2",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1301414624437383169" ],
-      "url" : [ "https://twitter.com/WiT_Notts/status/1301414624437383169" ],
-      "published" : [ "2020-09-03T07:00:00+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:WiT_Notts" ],
-          "numeric-id" : [ "4339158441" ],
-          "name" : [ "Women In Tech, Nottingham 🌈✨" ],
-          "nickname" : [ "WiT_Notts" ],
-          "url" : [ "https://twitter.com/WiT_Notts", "https://nott.tech/wit" ],
-          "published" : [ "2015-12-01T11:22:25+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/913380298829844481/YvPcjPlE.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "IT'S #WiTNotts DAY!!! 🧡✨\n\nJoin us from 6.30pm to hear about what goes into a video game from our very own community member and game developer @rosanna20736!! 🎉\n\nPlus we'll get to play some games together too 📝🎮🧩\n\n👉 nott.tech/wit-sept-2020",
-        "html" : "<div style=\"white-space: pre\">IT'S <a href=\"https://twitter.com/search?q=%23WiTNotts\">#WiTNotts</a> DAY!!! 🧡✨\n\nJoin us from 6.30pm to hear about what goes into a video game from our very own community member and game developer <a href=\"https://twitter.com/rosanna20736\">@rosanna20736</a>!! 🎉\n\nPlus we'll get to play some games together too 📝🎮🧩\n\n👉 <a href=\"http://nott.tech/wit-sept-2020\">nott.tech/wit-sept-2020</a></div>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EgxTU5SX0AIRpGN.jpg" ]
-    }
-  },
-  "tags" : [ "women-in-tech" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/ahtx2",
+  "tags": [
+    "women-in-tech"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

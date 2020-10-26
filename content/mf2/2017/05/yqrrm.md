@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/240193634/"
-      ],
-      "name": [
-        "A guide to Bitcoin - Mike Preston"
-      ],
-      "start": [
-        "2017-06-08T19:00:00+01:00"
-      ],
-      "end": [
-        "2017-06-08T22:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/05/yqrrm",
   "aliases": [

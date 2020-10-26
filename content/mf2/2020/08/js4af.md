@@ -1,48 +1,28 @@
 {
-  "date" : "2020-08-15T18:20:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/DavidPKey/status/1294684158841610246" ],
-    "name" : [ "Like of @DavidPKey's tweet" ],
-    "published" : [ "2020-08-15T18:20:00+01:00" ],
-    "category" : [ "diversity-and-inclusion" ],
-    "like-of" : [ "https://twitter.com/DavidPKey/status/1294684158841610246" ]
+  "date": "2020-08-15T18:20:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/DavidPKey/status/1294684158841610246"
+    ],
+    "name": [
+      "Like of @DavidPKey's tweet"
+    ],
+    "published": [
+      "2020-08-15T18:20:00+01:00"
+    ],
+    "category": [
+      "diversity-and-inclusion"
+    ],
+    "like-of": [
+      "https://twitter.com/DavidPKey/status/1294684158841610246"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/js4af",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1294684158841610246" ],
-      "url" : [ "https://twitter.com/DavidPKey/status/1294684158841610246" ],
-      "published" : [ "2020-08-15T17:15:32+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/meenaharris/status/1294676410896912386" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:DavidPKey" ],
-          "numeric-id" : [ "412383549" ],
-          "name" : [ "David P. Anderson, MSSE" ],
-          "nickname" : [ "DavidPKey" ],
-          "url" : [ "https://twitter.com/DavidPKey", "https://www.linkedin.com/in/david-p-anderson-msse-3aa8b319" ],
-          "published" : [ "2011-11-14T16:28:36+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Los Angeles, CA" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1275401464358137858/t-ZHkptK.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "⬇️ Take the time- Names should be heard correctly. Pronounce names correctly!",
-        "html" : "⬇️ Take the time- Names should be heard correctly. Pronounce names correctly!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/meenaharris\"></a>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/EfekYU2UMAAMfSz.jpg" ]
-    }
-  },
-  "tags" : [ "diversity-and-inclusion" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/js4af",
+  "tags": [
+    "diversity-and-inclusion"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

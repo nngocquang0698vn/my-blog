@@ -1,41 +1,22 @@
 {
-  "date" : "2020-07-17T20:59:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Scriblit/status/1284137441524359168" ],
-    "name" : [ "Like of @Scriblit's tweet" ],
-    "published" : [ "2020-07-17T20:59:00+01:00" ],
-    "like-of" : [ "https://twitter.com/Scriblit/status/1284137441524359168" ]
+  "date": "2020-07-17T20:59:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Scriblit/status/1284137441524359168"
+    ],
+    "name": [
+      "Like of @Scriblit's tweet"
+    ],
+    "published": [
+      "2020-07-17T20:59:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/Scriblit/status/1284137441524359168"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/vj3hk",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1284137441524359168" ],
-      "url" : [ "https://twitter.com/Scriblit/status/1284137441524359168" ],
-      "published" : [ "2020-07-17T14:46:38+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Scriblit" ],
-          "numeric-id" : [ "20792012" ],
-          "name" : [ "Gee Aitch Cee" ],
-          "nickname" : [ "Scriblit" ],
-          "url" : [ "https://twitter.com/Scriblit" ],
-          "published" : [ "2009-02-13T18:17:30+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1163461154620018689/0o79dLoJ.jpg" ]
-        }
-      } ],
-      "content" : [ "Why call them Capybaras when Guinea Bigs is right there?" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/vj3hk",
+  "client_id": "https://indigenous.realize.be"
 }

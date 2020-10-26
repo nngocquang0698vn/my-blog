@@ -17,37 +17,7 @@
         "value": "I originally thought I would be able to make it to this, but it looks like I'll no longer be able to go!",
         "html": ""
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.ministryoftesting.com/events/testbash-manchester-2019"
-      ],
-      "name": [
-        "TestBash Manchester"
-      ],
-      "start": [
-        "2019-10-03T09:00:00+0100"
-      ],
-      "end": [
-        "2019-10-04T18:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "The Lowry, Pier 8, The Quays"
-          ],
-          "locality": [
-            "Salford"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/ca182d4c-052b-4501-8b5f-4dba35b10d01/",

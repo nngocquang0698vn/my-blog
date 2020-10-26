@@ -16,36 +16,6 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.eventbrite.com/e/indiewebcamp-london-2020-tickets-85763160923"
-      ],
-      "name": [
-        "IndieWebCamp London 2020"
-      ],
-      "start": [
-        "2020-03-14T09:30:00Z"
-      ],
-      "end": [
-        "2020-03-15T17:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "70 Wilson Street"
-          ],
-          "locality": [
-            "London"
-          ],
-          "postal-code": [
-            "EC2A 2DB"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

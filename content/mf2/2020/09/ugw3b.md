@@ -1,44 +1,28 @@
 {
-  "date" : "2020-09-15T22:37:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/inalemontree/status/1305365793291612160" ],
-    "name" : [ "Like of @inalemontree's tweet" ],
-    "published" : [ "2020-09-15T22:37:00+01:00" ],
-    "category" : [ "cute" ],
-    "like-of" : [ "https://twitter.com/inalemontree/status/1305365793291612160" ]
+  "date": "2020-09-15T22:37:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/inalemontree/status/1305365793291612160"
+    ],
+    "name": [
+      "Like of @inalemontree's tweet"
+    ],
+    "published": [
+      "2020-09-15T22:37:00+01:00"
+    ],
+    "category": [
+      "cute"
+    ],
+    "like-of": [
+      "https://twitter.com/inalemontree/status/1305365793291612160"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/ugw3b",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1305365793291612160" ],
-      "url" : [ "https://twitter.com/inalemontree/status/1305365793291612160" ],
-      "published" : [ "2020-09-14T04:40:32+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:inalemontree" ],
-          "numeric-id" : [ "1132996465121480715" ],
-          "name" : [ "melanie 📸" ],
-          "nickname" : [ "inalemontree" ],
-          "url" : [ "https://twitter.com/inalemontree", "http://lemontomato.square.site" ],
-          "published" : [ "2019-05-27T13:06:22+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "florida, usa" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1301624095377952770/Q9tmE8Tl.jpg" ]
-        }
-      } ],
-      "content" : [ "my friend got a kitten and this is how he sleeps" ],
-      "photo" : [ "https://pbs.twimg.com/media/Eh2XLyMX0AMyB95.jpg", "https://pbs.twimg.com/media/Eh2XLyPWAAAeMxM.jpg" ]
-    }
-  },
-  "tags" : [ "cute" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/ugw3b",
+  "tags": [
+    "cute"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

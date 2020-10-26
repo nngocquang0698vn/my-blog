@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/241741815/"
-      ],
-      "name": [
-        "So, you want to be a PenTester?"
-      ],
-      "start": [
-        "2017-08-10T19:00:00+01:00"
-      ],
-      "end": [
-        "2017-08-10T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH, 34a Stoney Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/07/vdq4w",
   "aliases": [

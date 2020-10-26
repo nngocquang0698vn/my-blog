@@ -1,0 +1,151 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1309420066627297280"
+    ],
+    "url": [
+      "https://twitter.com/CarolSaysThings/status/1309420066627297280"
+    ],
+    "published": [
+      "2020-09-25T09:10:46+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:CarolSaysThings"
+          ],
+          "numeric-id": [
+            "36382927"
+          ],
+          "name": [
+            "Carol 🌻"
+          ],
+          "nickname": [
+            "CarolSaysThings"
+          ],
+          "url": [
+            "https://twitter.com/CarolSaysThings",
+            "https://carolgilabert.me/"
+          ],
+          "published": [
+            "2009-04-29T15:22:13+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "🇧🇷🇪🇸🇬🇧 · Nottingham"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1305801612359761921/YH1Oo2W0.jpg"
+          ]
+        }
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-card",
+          "p-location"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:7d7bdec12d2549d4"
+          ],
+          "name": [
+            "Nottingham, England"
+          ]
+        }
+      }
+    ],
+    "content": [
+      {
+        "value": "My personal fave is to make sure I always report any bugs I find cause I think they’re unaware of them.\n\nAs if there’s not a developer really pissed off already that this easy fix bug still hasn’t been prioritised after months 😅",
+        "html": "<div style=\"white-space: pre\">My personal fave is to make sure I always report any bugs I find cause I think they’re unaware of them.\n\nAs if there’s not a developer really pissed off already that this easy fix bug still hasn’t been prioritised after months 😅</div>"
+      }
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1309301069256810499"
+        ],
+        "url": [
+          "https://twitter.com/aweary/status/1309301069256810499"
+        ],
+        "published": [
+          "2020-09-25T01:17:55+00:00"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:aweary"
+              ],
+              "numeric-id": [
+                "1899610795"
+              ],
+              "name": [
+                "Brandon Dail"
+              ],
+              "nickname": [
+                "aweary"
+              ],
+              "url": [
+                "https://twitter.com/aweary",
+                "https://brandondail.com/"
+              ],
+              "published": [
+                "2013-09-24T07:41:33+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "Austin, TX"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1279181764569657344/UjPyo-v8.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "value": "me, a software engineer: large scale production systems are complex and require teams of experts to keep running. It’s near impossible to get right 100% of the time\n\nme, when an app I use goes down once: these fucking clowns, what the fuck",
+            "html": "<div style=\"white-space: pre\">me, a software engineer: large scale production systems are complex and require teams of experts to keep running. It’s near impossible to get right 100% of the time\n\nme, when an app I use goes down once: these fucking clowns, what the fuck</div>"
+          }
+        ]
+      }
+    }
+  ]
+}

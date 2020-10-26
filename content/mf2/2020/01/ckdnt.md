@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Tech-Nottingham/events/268319753/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Antenna, Beck Street, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/268319753/"
-      ],
-      "name": [
-        "Tech Nottingham February 2020 - Turning Ideas Into Plans And Service Design"
-      ],
-      "start": [
-        "2020-02-10T18:30:00Z"
-      ],
-      "end": [
-        "2020-02-10T21:00:00Z"
-      ]
-    }
+    ]
   }
 }

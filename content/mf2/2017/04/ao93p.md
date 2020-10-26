@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/239298899/"
-      ],
-      "name": [
-        "Tech Nottingham May 2017: Fun with Clojure!"
-      ],
-      "start": [
-        "2017-05-08T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-05-08T18:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/04/ao93p",
   "aliases": [

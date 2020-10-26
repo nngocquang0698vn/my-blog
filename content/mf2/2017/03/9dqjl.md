@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/DevOps-Nottingham/events/237366441/"
-      ],
-      "name": [
-        "DevOps Nottingham"
-      ],
-      "start": [
-        "2017-03-29T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-03-29T20:30:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Accelerate Places, The Poynt, 45 Wollaton Street, Nottingham, NG1 5FW"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/03/9dqjl",
   "aliases": [

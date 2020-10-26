@@ -14,37 +14,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/NottsJS/events/mcrkhryzmbnb/"
-      ],
-      "name": [
-        "⚡️Lightning Talks!⚡️"
-      ],
-      "start": [
-        "2019-09-10T18:00:00+01:00"
-      ],
-      "end": [
-        "2019-09-10T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Capital One (Europe) plc, Station St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/08/yr1ao",
   "aliases": [

@@ -1,67 +1,25 @@
 {
-  "date" : "2020-09-21T22:38:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/EmilyKager/status/1308157902876622848" ],
-    "name" : [ "Like of @EmilyKager's tweet" ],
-    "published" : [ "2020-09-21T22:38:00+0100" ],
-    "like-of" : [ "https://twitter.com/EmilyKager/status/1308157902876622848" ],
-    "post-status" : [ "published" ]
+  "date": "2020-09-21T22:38:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/EmilyKager/status/1308157902876622848"
+    ],
+    "name": [
+      "Like of @EmilyKager's tweet"
+    ],
+    "published": [
+      "2020-09-21T22:38:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/EmilyKager/status/1308157902876622848"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/tv7oj",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1308157902876622848" ],
-      "url" : [ "https://twitter.com/EmilyKager/status/1308157902876622848" ],
-      "published" : [ "2020-09-21T21:35:23+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:EmilyKager" ],
-          "numeric-id" : [ "2347475803" ],
-          "name" : [ "Emily" ],
-          "nickname" : [ "EmilyKager" ],
-          "url" : [ "https://twitter.com/EmilyKager" ],
-          "published" : [ "2014-02-16T21:34:12+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Oakland and SF " ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1296572390252716034/jTxFoueZ.jpg" ]
-        }
-      } ],
-      "content" : [ "Lol yup this is what I'm talking about 😘" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1308140114334359552" ],
-        "url" : [ "https://twitter.com/acikveozgur/status/1308140114334359552" ],
-        "published" : [ "2020-09-21T20:24:41+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/EmilyKager/status/1308126708822716416" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:acikveozgur" ],
-            "numeric-id" : [ "1207727030353190913" ],
-            "name" : [ "Açık Kaynak- Özgür Yazılım 🛠" ],
-            "nickname" : [ "acikveozgur" ],
-            "url" : [ "https://twitter.com/acikveozgur" ],
-            "published" : [ "2019-12-19T18:19:16+00:00" ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1213175700150276099/OWMTA9Ed.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "Who were the ones who set out to ruin people's browsing experience?\nWhy didn't Mozilla fire you?",
-          "html" : "<div style=\"white-space: pre\">Who were the ones who set out to ruin people's browsing experience?\nWhy didn't Mozilla fire you?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EmilyKager\"></a>"
-        } ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/tv7oj",
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,41 +1,22 @@
 {
-  "date" : "2020-08-11T12:52:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/penelope_zone/status/1293139720239747073" ],
-    "name" : [ "Like of @penelope_zone's tweet" ],
-    "published" : [ "2020-08-11T12:52:00+01:00" ],
-    "like-of" : [ "https://twitter.com/penelope_zone/status/1293139720239747073" ]
+  "date": "2020-08-11T12:52:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/penelope_zone/status/1293139720239747073"
+    ],
+    "name": [
+      "Like of @penelope_zone's tweet"
+    ],
+    "published": [
+      "2020-08-11T12:52:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/penelope_zone/status/1293139720239747073"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/xqcfn",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1293139720239747073" ],
-      "url" : [ "https://twitter.com/penelope_zone/status/1293139720239747073" ],
-      "published" : [ "2020-08-11T10:58:29+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:penelope_zone" ],
-          "numeric-id" : [ "44341873" ],
-          "name" : [ "Penelope literally has no balls" ],
-          "nickname" : [ "penelope_zone" ],
-          "url" : [ "https://twitter.com/penelope_zone", "https://penelope.zone", "http://rubycentral.org" ],
-          "published" : [ "2009-06-03T11:41:30+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "avi by @vercher_ink" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1245788043275108353/tusv5JYP.jpg" ]
-        }
-      } ],
-      "content" : [ "me preparing this Rubyfmt talk like: Hi yes, I'm a woman who's more technical than most 'technical' men in this industry." ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/xqcfn",
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,77 +1,31 @@
 {
-  "date" : "2020-10-02T07:47:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/pascaldoesgo/status/1311799941791133697" ],
-    "name" : [ "Like of @pascaldoesgo's tweet" ],
-    "published" : [ "2020-10-02T07:47:00+0100" ],
-    "category" : [ "hacktoberfest" ],
-    "like-of" : [ "https://twitter.com/pascaldoesgo/status/1311799941791133697" ],
-    "post-status" : [ "published" ]
+  "date": "2020-10-02T07:47:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/pascaldoesgo/status/1311799941791133697"
+    ],
+    "name": [
+      "Like of @pascaldoesgo's tweet"
+    ],
+    "published": [
+      "2020-10-02T07:47:00+0100"
+    ],
+    "category": [
+      "hacktoberfest"
+    ],
+    "like-of": [
+      "https://twitter.com/pascaldoesgo/status/1311799941791133697"
+    ],
+    "post-status": [
+      "published"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/vqx5c",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1311799941791133697" ],
-      "url" : [ "https://twitter.com/pascaldoesgo/status/1311799941791133697" ],
-      "published" : [ "2020-10-01T22:47:32+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:pascaldoesgo" ],
-          "numeric-id" : [ "1003529600901767168" ],
-          "name" : [ "Pascal Dennerly" ],
-          "nickname" : [ "pascaldoesgo" ],
-          "url" : [ "https://twitter.com/pascaldoesgo", "http://github.com/dnnrly" ],
-          "published" : [ "2018-06-04T06:51:16+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1199757075561222147/eYBkMUrZ.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Hey #hacktoberfest beginners. I'm a very small scale maintainer and here are some things that you could do that I, personally, would value greatly! I suspect most maintainers would too.\n\n1/s",
-        "html" : "<div style=\"white-space: pre\">Hey <a href=\"https://twitter.com/search?q=%23hacktoberfest\">#hacktoberfest</a> beginners. I'm a very small scale maintainer and here are some things that you could do that I, personally, would value greatly! I suspect most maintainers would too.\n\n1/s</div>"
-      } ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1311748615333965826" ],
-        "url" : [ "https://twitter.com/MbuiCodes/status/1311748615333965826" ],
-        "published" : [ "2020-10-01T19:23:35+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:MbuiCodes" ],
-            "numeric-id" : [ "1250374276752039938" ],
-            "name" : [ "Mbui.js" ],
-            "nickname" : [ "MbuiCodes" ],
-            "url" : [ "https://twitter.com/MbuiCodes", "https://githaka-portfolio.netlify.app/" ],
-            "published" : [ "2020-04-15T10:44:05+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ " Kenya" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1309600016064020480/s8R87LjZ.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "#Hacktoberfest is intimidating and self defeating in my opinion. \n\nHow is a beginner strictly expected to contribute to a thing that makes an impact? \n\nI say this as someone who figured how to make a pull request a month ago",
-          "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23Hacktoberfest\">#Hacktoberfest</a> is intimidating and self defeating in my opinion. \n\nHow is a beginner strictly expected to contribute to a thing that makes an impact? \n\nI say this as someone who figured how to make a pull request a month ago</div>"
-        } ]
-      }
-    } ]
-  },
-  "tags" : [ "hacktoberfest" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/vqx5c",
+  "tags": [
+    "hacktoberfest"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

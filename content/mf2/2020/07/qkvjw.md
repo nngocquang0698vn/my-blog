@@ -1,44 +1,22 @@
 {
-  "date" : "2020-07-27T14:44:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/kieranmch/status/1287718225459937280" ],
-    "name" : [ "Like of @kieranmch's tweet" ],
-    "published" : [ "2020-07-27T14:44:00+01:00" ],
-    "like-of" : [ "https://twitter.com/kieranmch/status/1287718225459937280" ]
+  "date": "2020-07-27T14:44:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/kieranmch/status/1287718225459937280"
+    ],
+    "name": [
+      "Like of @kieranmch's tweet"
+    ],
+    "published": [
+      "2020-07-27T14:44:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/kieranmch/status/1287718225459937280"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/qkvjw",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1287718225459937280" ],
-      "url" : [ "https://twitter.com/kieranmch/status/1287718225459937280" ],
-      "published" : [ "2020-07-27T11:55:24+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:kieranmch" ],
-          "numeric-id" : [ "50420707" ],
-          "name" : [ "Kieran McHugh" ],
-          "nickname" : [ "kieranmch" ],
-          "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
-          "published" : [ "2009-06-24T20:13:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1170973779675275264/cCZMxVEg.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "📣 This coming week will be my last week at @monzo. I’ve decided to leave to work full time on @daybridgeapp. It’s a bittersweet moment. I’ve had the time of my life working at Monzo. But I also want to push myself further, and I’m enormously excited to become a founder.",
-        "html" : "📣 This coming week will be my last week at <a href=\"https://twitter.com/monzo\">@monzo</a>. I’ve decided to leave to work full time on <a href=\"https://twitter.com/daybridgeapp\">@daybridgeapp</a>. It’s a bittersweet moment. I’ve had the time of my life working at Monzo. But I also want to push myself further, and I’m enormously excited to become a founder."
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/qkvjw",
+  "client_id": "https://indigenous.realize.be"
 }

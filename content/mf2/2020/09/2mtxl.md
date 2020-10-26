@@ -1,47 +1,28 @@
 {
-  "date" : "2020-09-11T15:08:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Sp4ghettiCode/status/1304412332219600897" ],
-    "name" : [ "Like of @Sp4ghettiCode's tweet" ],
-    "published" : [ "2020-09-11T15:08:00+01:00" ],
-    "category" : [ "game-of-thrones" ],
-    "like-of" : [ "https://twitter.com/Sp4ghettiCode/status/1304412332219600897" ]
+  "date": "2020-09-11T15:08:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Sp4ghettiCode/status/1304412332219600897"
+    ],
+    "name": [
+      "Like of @Sp4ghettiCode's tweet"
+    ],
+    "published": [
+      "2020-09-11T15:08:00+01:00"
+    ],
+    "category": [
+      "game-of-thrones"
+    ],
+    "like-of": [
+      "https://twitter.com/Sp4ghettiCode/status/1304412332219600897"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/2mtxl",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1304412332219600897" ],
-      "url" : [ "https://twitter.com/Sp4ghettiCode/status/1304412332219600897" ],
-      "video" : [ "https://video.twimg.com/tweet_video/Eho0GUYWAAAfXbJ.mp4" ],
-      "published" : [ "2020-09-11T13:31:49+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
-          "numeric-id" : [ "991238672812052480" ],
-          "name" : [ "Ed George" ],
-          "nickname" : [ "Sp4ghettiCode" ],
-          "url" : [ "https://twitter.com/Sp4ghettiCode", "http://ed-george.github.io" ],
-          "published" : [ "2018-05-01T08:51:30+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, England" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1224696422353817602/Szvtaq2I.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Just watched the Season 7 finale of GoT last night for the first time\n\nGIF sums it up nicely 😂",
-        "html" : "<div style=\"white-space: pre\">Just watched the Season 7 finale of GoT last night for the first time\n\nGIF sums it up nicely 😂</div>"
-      } ]
-    }
-  },
-  "tags" : [ "game-of-thrones" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/2mtxl",
+  "tags": [
+    "game-of-thrones"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

@@ -1,45 +1,22 @@
 {
-  "date" : "2020-08-08T15:21:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/Geek_Manager/status/1292096542455795712" ],
-    "name" : [ "Like of @Geek_Manager's tweet" ],
-    "published" : [ "2020-08-08T15:21:00+01:00" ],
-    "like-of" : [ "https://twitter.com/Geek_Manager/status/1292096542455795712" ]
+  "date": "2020-08-08T15:21:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/Geek_Manager/status/1292096542455795712"
+    ],
+    "name": [
+      "Like of @Geek_Manager's tweet"
+    ],
+    "published": [
+      "2020-08-08T15:21:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/Geek_Manager/status/1292096542455795712"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/nmwpo",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1292096542455795712" ],
-      "url" : [ "https://twitter.com/Geek_Manager/status/1292096542455795712" ],
-      "published" : [ "2020-08-08T13:53:16+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/NickSherrard/status/1292015411014316038" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:Geek_Manager" ],
-          "numeric-id" : [ "384239522" ],
-          "name" : [ "Meri “Exiled for the Good of the Realm” Williams" ],
-          "nickname" : [ "Geek_Manager" ],
-          "url" : [ "https://twitter.com/Geek_Manager", "http://blog.geekmanager.co.uk" ],
-          "published" : [ "2011-10-03T10:06:25+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Saffa in LDN, NCL" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/478845312308498432/yYipJBhv.jpeg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Makes you realise how hard office cleaners have to work, doesn’t it?",
-        "html" : "Makes you realise how hard office cleaners have to work, doesn’t it?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/NickSherrard\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/nmwpo",
+  "client_id": "https://indigenous.realize.be"
 }

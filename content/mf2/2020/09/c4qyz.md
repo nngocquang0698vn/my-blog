@@ -1,43 +1,28 @@
 {
-  "date" : "2020-09-12T14:39:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ramencult/status/1304528736184725504" ],
-    "name" : [ "Like of @ramencult's tweet" ],
-    "published" : [ "2020-09-12T14:39:00+01:00" ],
-    "category" : [ "diversity-and-inclusion" ],
-    "like-of" : [ "https://twitter.com/ramencult/status/1304528736184725504" ]
+  "date": "2020-09-12T14:39:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ramencult/status/1304528736184725504"
+    ],
+    "name": [
+      "Like of @ramencult's tweet"
+    ],
+    "published": [
+      "2020-09-12T14:39:00+01:00"
+    ],
+    "category": [
+      "diversity-and-inclusion"
+    ],
+    "like-of": [
+      "https://twitter.com/ramencult/status/1304528736184725504"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/c4qyz",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1304528736184725504" ],
-      "url" : [ "https://twitter.com/ramencult/status/1304528736184725504" ],
-      "published" : [ "2020-09-11T21:14:22+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ramencult" ],
-          "numeric-id" : [ "2478456674" ],
-          "name" : [ "Clara R" ],
-          "nickname" : [ "ramencult" ],
-          "url" : [ "https://twitter.com/ramencult" ],
-          "published" : [ "2014-05-05T14:44:38+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "at home" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1295017233719033856/Ty1toDU6.jpg" ]
-        }
-      } ],
-      "content" : [ "STEM stands for Stop, There’s Enough Men" ]
-    }
-  },
-  "tags" : [ "diversity-and-inclusion" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/c4qyz",
+  "tags": [
+    "diversity-and-inclusion"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

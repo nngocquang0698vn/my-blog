@@ -1,0 +1,62 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1319318459193360384"
+    ],
+    "url": [
+      "https://twitter.com/EmNorthcott/status/1319318459193360384"
+    ],
+    "published": [
+      "2020-10-22T16:43:27+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:EmNorthcott"
+          ],
+          "numeric-id": [
+            "3064595686"
+          ],
+          "name": [
+            "Emma Northcott"
+          ],
+          "nickname": [
+            "EmNorthcott"
+          ],
+          "url": [
+            "https://twitter.com/EmNorthcott"
+          ],
+          "published": [
+            "2015-02-27T20:07:15+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "London, UK - Portland, OR"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/918774203200835585/3MED_jZg.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "I’ve become the person who cleans before the cleaner comes 🧼"
+    ]
+  }
+}

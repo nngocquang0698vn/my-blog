@@ -15,36 +15,6 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.eventbrite.co.uk/e/lincolnhack-2018-tickets-50209435774"
-      ],
-      "name": [
-        "LincolnHack 2018"
-      ],
-      "start": [
-        "2018-11-10T10:00:00Z"
-      ],
-      "end": [
-        "2018-11-11T17:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Ruston Way"
-          ],
-          "locality": [
-            "Lincoln"
-          ],
-          "postal-code": [
-            "LN6 7FL"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

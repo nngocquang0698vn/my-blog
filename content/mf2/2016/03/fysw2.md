@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/228563875/"
-      ],
-      "name": [
-        "Hack24 2016 - 24 hours of Code and Creativity in the Heart of Nottingham"
-      ],
-      "start": [
-        "2016-03-19T10:30:00Z"
-      ],
-      "end": [
-        "2016-03-20T18:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Nottingham Council House, Smithy Row"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2016/03/fysw2",
   "aliases": [

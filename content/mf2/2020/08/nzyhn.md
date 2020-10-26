@@ -1,37 +1,28 @@
 {
-  "date" : "2020-08-12T19:58:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/mhdksafa/status/1292218942648451073" ],
-    "name" : [ "Like of @mhdksafa's tweet" ],
-    "published" : [ "2020-08-12T19:58:00+01:00" ],
-    "category" : [ "politics" ],
-    "like-of" : [ "https://twitter.com/mhdksafa/status/1292218942648451073" ]
+  "date": "2020-08-12T19:58:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/mhdksafa/status/1292218942648451073"
+    ],
+    "name": [
+      "Like of @mhdksafa's tweet"
+    ],
+    "published": [
+      "2020-08-12T19:58:00+01:00"
+    ],
+    "category": [
+      "politics"
+    ],
+    "like-of": [
+      "https://twitter.com/mhdksafa/status/1292218942648451073"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/nzyhn",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1292218942648451073" ],
-      "url" : [ "https://twitter.com/mhdksafa/status/1292218942648451073" ],
-      "published" : [ "2020-08-08T21:59:38+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:mhdksafa" ],
-          "numeric-id" : [ "834078524277456897" ],
-          "name" : [ "Mohamad Safa" ],
-          "nickname" : [ "mhdksafa" ],
-          "url" : [ "https://twitter.com/mhdksafa", "http://www.linkedin.com/in/mhdksafa", "http://www.instagram.com/mhdksafa" ],
-          "published" : [ "2017-02-21T16:33:11+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1272843805373468673/1GQTPfcN.jpg" ]
-        }
-      } ],
-      "content" : [ "Best voting advice: Voting isn’t marriage. It’s public transport. You’re not waiting for \"the one\". You’re getting on the bus. And if there isn’t one going exactly to your destination, you don’t stay home and sulk. You take the one that’s going closest to where you want to be." ]
-    }
-  },
-  "tags" : [ "politics" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/nzyhn",
+  "tags": [
+    "politics"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

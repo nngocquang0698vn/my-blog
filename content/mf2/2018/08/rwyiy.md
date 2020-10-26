@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/ministry-of-testing-nottingham/events/nggkcqyxmbhb/"
-      ],
-      "name": [
-        "#NottsTest Mobile Dev Special"
-      ],
-      "start": [
-        "2018-09-05T19:00:00+01:00"
-      ],
-      "end": [
-        "2018-09-05T22:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "UNiDAYS, 2 Castle Boulevard, Nottingham, NG7 1FB"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/08/rwyiy",
   "aliases": [

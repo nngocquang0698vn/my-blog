@@ -1,46 +1,28 @@
 {
-  "date" : "2020-07-29T15:01:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/StevenPears/status/1288447424680296448" ],
-    "name" : [ "Like of @StevenPears's tweet" ],
-    "published" : [ "2020-07-29T15:01:00+01:00" ],
-    "category" : [ "blogging" ],
-    "like-of" : [ "https://twitter.com/StevenPears/status/1288447424680296448" ]
+  "date": "2020-07-29T15:01:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/StevenPears/status/1288447424680296448"
+    ],
+    "name": [
+      "Like of @StevenPears's tweet"
+    ],
+    "published": [
+      "2020-07-29T15:01:00+01:00"
+    ],
+    "category": [
+      "blogging"
+    ],
+    "like-of": [
+      "https://twitter.com/StevenPears/status/1288447424680296448"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/bunwd",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1288447424680296448" ],
-      "url" : [ "https://twitter.com/StevenPears/status/1288447424680296448" ],
-      "published" : [ "2020-07-29T12:12:58+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:StevenPears" ],
-          "numeric-id" : [ "404697859" ],
-          "name" : [ "Steven Pears" ],
-          "nickname" : [ "StevenPears" ],
-          "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ],
-          "published" : [ "2011-11-04T08:54:04+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1210474450824642560/lmh3mZjU.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Want to write some blog posts about a piece of refactoring I'm doing.\n\nThat made me think that the static site generator I wrote doesn't make \"series of posts\" very easy - but I know how it could\n\nSo now I'm postponing my refactor for 24hrs so I can update the blog engine 🙄😆",
-        "html" : "<div style=\"white-space: pre\">Want to write some blog posts about a piece of refactoring I'm doing.\n\nThat made me think that the static site generator I wrote doesn't make \"series of posts\" very easy - but I know how it could\n\nSo now I'm postponing my refactor for 24hrs so I can update the blog engine 🙄😆</div>"
-      } ]
-    }
-  },
-  "tags" : [ "blogging" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/bunwd",
+  "tags": [
+    "blogging"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

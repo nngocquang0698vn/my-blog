@@ -1,38 +1,22 @@
 {
-  "date" : "2020-08-25T22:22:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MESalisbury/status/1297985638852104193" ],
-    "name" : [ "Like of @MESalisbury's tweet" ],
-    "published" : [ "2020-08-25T22:22:00+01:00" ],
-    "like-of" : [ "https://twitter.com/MESalisbury/status/1297985638852104193" ]
+  "date": "2020-08-25T22:22:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MESalisbury/status/1297985638852104193"
+    ],
+    "name": [
+      "Like of @MESalisbury's tweet"
+    ],
+    "published": [
+      "2020-08-25T22:22:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/MESalisbury/status/1297985638852104193"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/enf7a",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1297985638852104193" ],
-      "url" : [ "https://twitter.com/MESalisbury/status/1297985638852104193" ],
-      "published" : [ "2020-08-24T19:54:26+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MESalisbury" ],
-          "numeric-id" : [ "22779172" ],
-          "name" : [ "Melinda Salisbury" ],
-          "nickname" : [ "MESalisbury" ],
-          "url" : [ "https://twitter.com/MESalisbury", "http://melindasalisbury.com/" ],
-          "published" : [ "2009-03-04T14:32:05+00:00" ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1280106495112331264/fUoU0VcE.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "I've written 8000 words today. \"How does she do it?\" I hear you ask. \"What's her secret?\" \"Does she have a wife?\"\n\nGather around, little ones. Let me tell you the ways of the author.\n\nCloser.\n\nCome closer. \n\nNow listen.  \n\nI have deadlines looming and I am fucked.",
-        "html" : "<div style=\"white-space: pre\">I've written 8000 words today. \"How does she do it?\" I hear you ask. \"What's her secret?\" \"Does she have a wife?\"\n\nGather around, little ones. Let me tell you the ways of the author.\n\nCloser.\n\nCome closer. \n\nNow listen.  \n\nI have deadlines looming and I am fucked.</div>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/enf7a",
+  "client_id": "https://indigenous.realize.be"
 }

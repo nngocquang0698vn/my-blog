@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/241679408/"
-      ],
-      "name": [
-        "TECH NOTTINGHAM AUGUST 2017: MONITORING AND VIRTUALISATION"
-      ],
-      "start": [
-        "2017-08-07T18:30:00+01:00"
-      ],
-      "end": [
-        "2017-08-07T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2017/07/ox4en",
   "aliases": [

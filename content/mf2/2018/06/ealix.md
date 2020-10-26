@@ -15,37 +15,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Tech-Nottingham/events/251303614/"
-      ],
-      "name": [
-        "Tech Nottingham June 2018: Marketing Technical Products and Async in Javascript"
-      ],
-      "start": [
-        "2018-06-11T18:30:00+01:00"
-      ],
-      "end": [
-        "2018-06-11T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2018/06/ealix",
   "aliases": [

@@ -1,42 +1,22 @@
 {
-  "date" : "2020-08-27T14:15:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/rachmackay/status/1298902066967052289" ],
-    "name" : [ "Like of @rachmackay's tweet" ],
-    "published" : [ "2020-08-27T14:15:00+01:00" ],
-    "like-of" : [ "https://twitter.com/rachmackay/status/1298902066967052289" ]
+  "date": "2020-08-27T14:15:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/rachmackay/status/1298902066967052289"
+    ],
+    "name": [
+      "Like of @rachmackay's tweet"
+    ],
+    "published": [
+      "2020-08-27T14:15:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/rachmackay/status/1298902066967052289"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/iqgjw",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1298902066967052289" ],
-      "url" : [ "https://twitter.com/rachmackay/status/1298902066967052289" ],
-      "published" : [ "2020-08-27T08:35:59+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:rachmackay" ],
-          "numeric-id" : [ "370785865" ],
-          "name" : [ "Rachel Mackay" ],
-          "nickname" : [ "rachmackay" ],
-          "url" : [ "https://twitter.com/rachmackay", "http://www.hrp.org.uk/kew-palace" ],
-          "published" : [ "2011-09-09T16:39:51+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1283082990709616643/ho1qvyGN.jpg" ]
-        }
-      } ],
-      "content" : [ "Oh good, it’s the time of year where I have to explain to the TV Licensing Authority why King George III hasn’t paid his TV licence since 1820" ],
-      "photo" : [ "https://pbs.twimg.com/media/Egagip2WsAEi98S.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/iqgjw",
+  "client_id": "https://indigenous.realize.be"
 }

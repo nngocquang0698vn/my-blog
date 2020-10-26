@@ -1,47 +1,28 @@
 {
-  "date" : "2020-08-12T08:31:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/mr_goodwin/status/1293442633067626496" ],
-    "name" : [ "Like of @mr_goodwin's tweet" ],
-    "published" : [ "2020-08-12T08:31:00+01:00" ],
-    "category" : [ "mozilla" ],
-    "like-of" : [ "https://twitter.com/mr_goodwin/status/1293442633067626496" ]
+  "date": "2020-08-12T08:31:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/mr_goodwin/status/1293442633067626496"
+    ],
+    "name": [
+      "Like of @mr_goodwin's tweet"
+    ],
+    "published": [
+      "2020-08-12T08:31:00+01:00"
+    ],
+    "category": [
+      "mozilla"
+    ],
+    "like-of": [
+      "https://twitter.com/mr_goodwin/status/1293442633067626496"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/4w6eq",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1293442633067626496" ],
-      "url" : [ "https://twitter.com/mr_goodwin/status/1293442633067626496" ],
-      "published" : [ "2020-08-12T07:02:09+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/richardnpaul/status/1293422232597929984" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:mr_goodwin" ],
-          "numeric-id" : [ "1481941" ],
-          "name" : [ "Mark Goodwin" ],
-          "nickname" : [ "mr_goodwin" ],
-          "url" : [ "https://twitter.com/mr_goodwin" ],
-          "published" : [ "2007-03-19T08:27:18+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottinghamshire, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/756072798603411457/SIyD6Fnf.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Mozilla's work on Firefox is a drop in the ocean of the impact Mozilla has. Advocacy, policy, research, developer tooling, standards work.\n\nI don't know what your specific issues with Mozilla's current behaviour are (happy to discuss) by I respectfully disagree. We need them.",
-        "html" : "<div style=\"white-space: pre\">Mozilla's work on Firefox is a drop in the ocean of the impact Mozilla has. Advocacy, policy, research, developer tooling, standards work.\n\nI don't know what your specific issues with Mozilla's current behaviour are (happy to discuss) by I respectfully disagree. We need them.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/richardnpaul\"></a>"
-      } ]
-    }
-  },
-  "tags" : [ "mozilla" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/4w6eq",
+  "tags": [
+    "mozilla"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

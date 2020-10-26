@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://www.meetup.com/NottAgile/events/258462490/"
+    ],
+    "name": [
+      "Agile Nottingham - Design Thinking Dad* Why I take work home (and you should too)"
+    ],
+    "start": [
+      "2019-05-22T18:30:00+0100"
+    ],
+    "end": [
+      "2019-05-22T21:00:00+0100"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Capital One (Europe) plc, Trent House, Station Street"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

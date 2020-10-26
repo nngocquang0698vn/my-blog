@@ -1,75 +1,30 @@
 {
-  "date" : "2020-09-19T20:05:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/jackyalcine/status/1307341478226726915" ],
-    "name" : [ "Like of @jackyalcine's tweet" ],
-    "published" : [ "2020-09-19T20:05:00+01:00" ],
-    "category" : [ "diversity-and-inclusion", "zoom" ],
-    "like-of" : [ "https://twitter.com/jackyalcine/status/1307341478226726915" ]
+  "date": "2020-09-19T20:05:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/jackyalcine/status/1307341478226726915"
+    ],
+    "name": [
+      "Like of @jackyalcine's tweet"
+    ],
+    "published": [
+      "2020-09-19T20:05:00+01:00"
+    ],
+    "category": [
+      "diversity-and-inclusion",
+      "zoom"
+    ],
+    "like-of": [
+      "https://twitter.com/jackyalcine/status/1307341478226726915"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/6wy1o",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1307341478226726915" ],
-      "url" : [ "https://twitter.com/jackyalcine/status/1307341478226726915" ],
-      "video" : [ "https://video.twimg.com/tweet_video/EiScJH3U8AI8RPC.mp4" ],
-      "published" : [ "2020-09-19T15:31:12+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:jackyalcine" ],
-          "numeric-id" : [ "1262855987993563136" ],
-          "name" : [ "big mac trucc" ],
-          "nickname" : [ "jackyalcine" ],
-          "url" : [ "https://twitter.com/jackyalcine", "https://v2.jacky.wtf", "http://arealnig.ga" ],
-          "published" : [ "2020-05-19T21:22:07+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Chochenyo/Ohlone (Bay Area)" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1298686834092826625/c1vYRpfV.jpg" ]
-        }
-      } ],
-      "content" : [ "https://t.co/XbFhp1UgEl" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1307111825851416577" ],
-        "url" : [ "https://twitter.com/colinmadland/status/1307111825851416577" ],
-        "published" : [ "2020-09-19T00:18:38+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/colinmadland/status/1307111822772842496" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:colinmadland" ],
-            "numeric-id" : [ "81038069" ],
-            "name" : [ "Colin Madland" ],
-            "nickname" : [ "colinmadland" ],
-            "url" : [ "https://twitter.com/colinmadland", "http://madland.ca" ],
-            "published" : [ "2009-10-09T05:43:35+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Unceded Stó:lō Territory" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/796377138832162816/rRhSlGTD.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "Turns out @zoom_us has a crappy face-detection algorithm that erases black faces...and determines that a nice pale globe in the background must be a better face than what should be obvious.",
-          "html" : "Turns out <a href=\"https://twitter.com/zoom_us\">@zoom_us</a> has a crappy face-detection algorithm that erases black faces...and determines that a nice pale globe in the background must be a better face than what should be obvious."
-        } ]
-      }
-    } ]
-  },
-  "tags" : [ "diversity-and-inclusion", "zoom" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/6wy1o",
+  "tags": [
+    "diversity-and-inclusion",
+    "zoom"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

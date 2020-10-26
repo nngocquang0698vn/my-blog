@@ -1,47 +1,31 @@
 {
-  "date" : "2020-07-26T22:39:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1287505018329935873" ],
-    "published" : [ "2020-07-26T22:39:00+01:00" ],
-    "repost-of" : [ "https://twitter.com/TheKaranMenon/status/1287478660447043584" ],
-    "category" : [ ],
-    "content" : [ {
-      "html" : "",
-      "value" : "This is great content"
-    } ]
+  "date": "2020-07-26T22:39:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/JamieTanna/status/1287505018329935873"
+    ],
+    "published": [
+      "2020-07-26T22:39:00+01:00"
+    ],
+    "repost-of": [
+      "https://twitter.com/TheKaranMenon/status/1287478660447043584"
+    ],
+    "category": [
+
+    ],
+    "content": [
+      {
+        "html": "",
+        "value": "This is great content"
+      }
+    ]
   },
-  "kind" : "reposts",
-  "slug" : "2020/07/atchw",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1287478660447043584" ],
-      "url" : [ "https://twitter.com/TheKaranMenon/status/1287478660447043584" ],
-      "video" : [ "https://video.twimg.com/ext_tw_video/1287478539453898752/pu/vid/720x1280/HM-VOYe-RZE1wfaL.mp4?tag=10" ],
-      "published" : [ "2020-07-26T20:03:27+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:TheKaranMenon" ],
-          "numeric-id" : [ "1049540011979202565" ],
-          "name" : [ "Karan Menon" ],
-          "nickname" : [ "TheKaranMenon" ],
-          "url" : [ "https://twitter.com/TheKaranMenon", "http://bit.ly/accountability-resources" ],
-          "published" : [ "2018-10-09T06:00:13+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Holmdel, NJ" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1267945498234806278/KOTMv-Cg.jpg" ]
-        }
-      } ],
-      "content" : [ "No one cared who I was until I put on the mask." ]
-    }
-  },
-  "tags" : [ ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "reposts",
+  "slug": "2020/07/atchw",
+  "tags": [
+
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

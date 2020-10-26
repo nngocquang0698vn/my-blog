@@ -1,0 +1,137 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1312141592916942848"
+    ],
+    "url": [
+      "https://twitter.com/jackyalcine/status/1312141592916942848"
+    ],
+    "published": [
+      "2020-10-02T21:25:08+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:jackyalcine"
+          ],
+          "numeric-id": [
+            "1262855987993563136"
+          ],
+          "name": [
+            "jacky and 11 others"
+          ],
+          "nickname": [
+            "jackyalcine"
+          ],
+          "url": [
+            "https://twitter.com/jackyalcine",
+            "https://v2.jacky.wtf",
+            "http://arealnig.ga"
+          ],
+          "published": [
+            "2020-05-19T21:22:07+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "Chochenyo/Ohlone (Bay Area)"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1298686834092826625/c1vYRpfV.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "A glitch gone wild"
+    ]
+  },
+  "children": [
+    {
+      "type": [
+        "u-quotation-of",
+        "h-cite"
+      ],
+      "properties": {
+        "uid": [
+          "tag:twitter.com:1312032007065661442"
+        ],
+        "url": [
+          "https://twitter.com/Space_Man_Stu_/status/1312032007065661442"
+        ],
+        "video": [
+          "https://video.twimg.com/ext_tw_video/1312031993178316808/pu/vid/410x360/_spYlI-zQGw9NySH.mp4?tag=10"
+        ],
+        "published": [
+          "2020-10-02T14:09:41+00:00"
+        ],
+        "in-reply-to": [
+          "https://twitter.com/storybyleo/status/1311833683393994752"
+        ],
+        "author": [
+          {
+            "type": [
+              "h-card"
+            ],
+            "properties": {
+              "uid": [
+                "tag:twitter.com:Space_Man_Stu_"
+              ],
+              "numeric-id": [
+                "184117390"
+              ],
+              "name": [
+                "🖕🏿"
+              ],
+              "nickname": [
+                "Space_Man_Stu_"
+              ],
+              "url": [
+                "https://twitter.com/Space_Man_Stu_"
+              ],
+              "published": [
+                "2010-08-28T18:53:25+00:00"
+              ],
+              "location": [
+                {
+                  "type": [
+                    "h-card",
+                    "p-location"
+                  ],
+                  "properties": {
+                    "name": [
+                      "Tokyo-to, Japan"
+                    ]
+                  }
+                }
+              ],
+              "photo": [
+                "https://pbs.twimg.com/profile_images/1306041691443474434/zQJhtS9n.jpg"
+              ]
+            }
+          }
+        ],
+        "content": [
+          {
+            "html": "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/highendtheori\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/storybyleo\"></a>"
+          }
+        ]
+      }
+    }
+  ]
+}

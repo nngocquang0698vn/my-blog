@@ -1,45 +1,22 @@
 {
-  "date" : "2020-08-08T11:53:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/technottingham/status/1291669558584127496" ],
-    "name" : [ "Like of @technottingham's tweet" ],
-    "published" : [ "2020-08-08T11:53:00+01:00" ],
-    "like-of" : [ "https://twitter.com/technottingham/status/1291669558584127496" ]
+  "date": "2020-08-08T11:53:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/technottingham/status/1291669558584127496"
+    ],
+    "name": [
+      "Like of @technottingham's tweet"
+    ],
+    "published": [
+      "2020-08-08T11:53:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/technottingham/status/1291669558584127496"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/yt5na",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1291669558584127496" ],
-      "url" : [ "https://twitter.com/technottingham/status/1291669558584127496" ],
-      "published" : [ "2020-08-07T09:36:35+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:technottingham" ],
-          "numeric-id" : [ "384492431" ],
-          "name" : [ "Tech Nottingham" ],
-          "nickname" : [ "technottingham" ],
-          "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
-          "published" : [ "2011-10-03T19:47:31+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "🧩 We started getting into jigsaw puzzles in the #TechNott Slack community 😄\n\nThis morning we're doing this lovely one 💛\n\nJoin us! 👇🏼\nnott.tech/slack",
-        "html" : "<div style=\"white-space: pre\">🧩 We started getting into jigsaw puzzles in the <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> Slack community 😄\n\nThis morning we're doing this lovely one 💛\n\nJoin us! 👇🏼\n<a href=\"https://nott.tech/slack\">nott.tech/slack</a></div>"
-      } ],
-      "photo" : [ "https://pbs.twimg.com/media/Eezt-frWoAIVj4U.jpg" ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/yt5na",
+  "client_id": "https://indigenous.realize.be"
 }

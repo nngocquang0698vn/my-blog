@@ -1,73 +1,22 @@
 {
-  "date" : "2020-07-14T17:01:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1283055614135074823" ],
-    "name" : [ "Like of @CarolSaysThings's tweet" ],
-    "published" : [ "2020-07-14T17:01:00+01:00" ],
-    "like-of" : [ "https://twitter.com/CarolSaysThings/status/1283055614135074823" ]
+  "date": "2020-07-14T17:01:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/CarolSaysThings/status/1283055614135074823"
+    ],
+    "name": [
+      "Like of @CarolSaysThings's tweet"
+    ],
+    "published": [
+      "2020-07-14T17:01:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/CarolSaysThings/status/1283055614135074823"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/07/nxy4x",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1283055614135074823" ],
-      "url" : [ "https://twitter.com/CarolSaysThings/status/1283055614135074823" ],
-      "published" : [ "2020-07-14T15:07:51+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
-          "numeric-id" : [ "36382927" ],
-          "name" : [ "Carol 😅" ],
-          "nickname" : [ "CarolSaysThings" ],
-          "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
-          "published" : [ "2009-04-29T15:22:13+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1238515159594917889/C5994QPa.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "html" : "RT <a href=\"https://twitter.com/deniseyu21/status/1282841857039507459\">@deniseyu21</a> <div style=\"white-space: pre\">me to everyone else: hey, we're still living through a pandemic, it's okay to slow down and take care of yourself. your health matters 💙\n\nme to myself: work harder u lil bitch</div>"
-      } ],
-      "repost-of" : [ {
-        "type" : [ "h-cite" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:1282841857039507459" ],
-          "url" : [ "https://twitter.com/deniseyu21/status/1282841857039507459" ],
-          "published" : [ "2020-07-14T00:58:27+00:00" ],
-          "author" : [ {
-            "type" : [ "h-card" ],
-            "properties" : {
-              "uid" : [ "tag:twitter.com:deniseyu21" ],
-              "numeric-id" : [ "25458567" ],
-              "name" : [ "Denise Yu" ],
-              "nickname" : [ "deniseyu21" ],
-              "url" : [ "https://twitter.com/deniseyu21", "http://deniseyu.io", "http://deniseyu.io/art", "http://tinyletter.com/deniseyu" ],
-              "published" : [ "2009-03-20T04:17:20+00:00" ],
-              "location" : [ {
-                "type" : [ "h-card", "p-location" ],
-                "properties" : {
-                  "name" : [ "Toronto, Ontario" ]
-                }
-              } ],
-              "photo" : [ "https://pbs.twimg.com/profile_images/471064769097523200/dOghyD0J.jpeg" ]
-            }
-          } ],
-          "content" : [ {
-            "value" : "me to everyone else: hey, we're still living through a pandemic, it's okay to slow down and take care of yourself. your health matters 💙\n\nme to myself: work harder u lil bitch",
-            "html" : "<div style=\"white-space: pre\">me to everyone else: hey, we're still living through a pandemic, it's okay to slow down and take care of yourself. your health matters 💙\n\nme to myself: work harder u lil bitch</div>"
-          } ]
-        }
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/07/nxy4x",
+  "client_id": "https://indigenous.realize.be"
 }

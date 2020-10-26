@@ -22,33 +22,6 @@
         "html": "",
         "value": "As mentioned in https://www.jvt.me/mf2/2019/12/9pwds/ I'm enjoying some sun in Tenerife!"
       }
-    ],
-    "event": {
-      "url": [
-        "https://events.indieweb.org/2020/01/homebrew-website-club-nottingham-9kM6PKvcxAXZ"
-      ],
-      "name": [
-        "Homebrew Website Club: Nottingham"
-      ],
-      "start": [
-        "2020-01-22T17:30:00+00:00"
-      ],
-      "end": [
-        "2020-01-22T19:30:00+00:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "72 Maid Marian Way"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

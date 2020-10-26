@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-event"
+  ],
+  "properties": {
+    "url": [
+      "https://web.archive.org/web/*/https://www.meetup.com/dd5428c2-969b-46c4-bc90-022dae7014a7/events/248184519/"
+    ],
+    "name": [
+      "Session #01 - The First Meet"
+    ],
+    "start": [
+      "2018-03-31T10:00:00+01:00"
+    ],
+    "end": [
+      "2018-03-31T12:30:00+01:00"
+    ],
+    "location": [
+      {
+        "properties": {
+          "street-address": [
+            "Ludorati Cafe, 72 Maid Marian Way"
+          ],
+          "locality": [
+            "Nottingham"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "type": [
+          "h-adr"
+        ]
+      }
+    ]
+  }
+}

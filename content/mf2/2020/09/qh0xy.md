@@ -1,41 +1,22 @@
 {
-  "date" : "2020-09-13T19:25:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/cm_stead/status/1305022225628585985" ],
-    "name" : [ "Like of @cm_stead's tweet" ],
-    "published" : [ "2020-09-13T19:25:00+01:00" ],
-    "like-of" : [ "https://twitter.com/cm_stead/status/1305022225628585985" ]
+  "date": "2020-09-13T19:25:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/cm_stead/status/1305022225628585985"
+    ],
+    "name": [
+      "Like of @cm_stead's tweet"
+    ],
+    "published": [
+      "2020-09-13T19:25:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/cm_stead/status/1305022225628585985"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/09/qh0xy",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1305022225628585985" ],
-      "url" : [ "https://twitter.com/cm_stead/status/1305022225628585985" ],
-      "published" : [ "2020-09-13T05:55:19+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:cm_stead" ],
-          "numeric-id" : [ "95468325" ],
-          "name" : [ "Chris 'I am tired' Stead" ],
-          "nickname" : [ "cm_stead" ],
-          "url" : [ "https://twitter.com/cm_stead", "http://www.chrisstead.net" ],
-          "published" : [ "2009-12-08T17:57:50+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "California" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1048226299444002816/-4TwVZei.jpg" ]
-        }
-      } ],
-      "content" : [ "Imagine having so little self awareness that, when speakers refuse to attend the same event you're speaking at, you don't even take a beat for self reflection before writing a screed centering yourself as the victim." ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/09/qh0xy",
+  "client_id": "https://indigenous.realize.be"
 }

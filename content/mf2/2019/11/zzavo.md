@@ -22,36 +22,6 @@
         "html": "",
         "value": ""
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/dotnetnotts/events/265504966/"
-      ],
-      "name": [
-        "Jon Skeet - C# 8 New Features"
-      ],
-      "start": [
-        "2019-11-25T18:30:00Z"
-      ],
-      "end": [
-        "2019-11-25T21:30:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "BJSS, 16 King St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

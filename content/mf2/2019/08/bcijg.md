@@ -14,37 +14,7 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/264412304/"
-      ],
-      "name": [
-        "Women in Tech September 2019 - Elevating to Expert: brand enhancement"
-      ],
-      "start": [
-        "2019-09-12T18:30:00+01:00"
-      ],
-      "end": [
-        "2019-09-12T21:00:00+01:00"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Antenna, 9A Beck St"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "slug": "2019/08/bcijg",
   "aliases": [

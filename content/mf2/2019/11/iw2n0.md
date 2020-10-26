@@ -22,36 +22,6 @@
         "html": "",
         "value": "Unfortunately I won't be able to make this due to family circumstances, but hope everyone has a great time!"
       }
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/266300756/"
-      ],
-      "name": [
-        "PHPMiNDS November 2019:  \t⚡ Lightning Talks  \t⚡"
-      ],
-      "start": [
-        "2019-11-14T19:00:00Z"
-      ],
-      "end": [
-        "2019-11-14T21:00:00Z"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "JH,  34a Stoney Street, Nottingham, NG1 1NB."
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

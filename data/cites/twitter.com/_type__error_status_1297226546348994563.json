@@ -1,0 +1,63 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com:1297226546348994563"
+    ],
+    "url": [
+      "https://twitter.com/type__error/status/1297226546348994563"
+    ],
+    "published": [
+      "2020-08-22T17:38:04+00:00"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "uid": [
+            "tag:twitter.com:type__error"
+          ],
+          "numeric-id": [
+            "733123902"
+          ],
+          "name": [
+            "Sophie Koonin"
+          ],
+          "nickname": [
+            "type__error"
+          ],
+          "url": [
+            "https://twitter.com/type__error",
+            "http://localghost.dev"
+          ],
+          "published": [
+            "2012-08-02T16:24:42+00:00"
+          ],
+          "location": [
+            {
+              "type": [
+                "h-card",
+                "p-location"
+              ],
+              "properties": {
+                "name": [
+                  "London, England"
+                ]
+              }
+            }
+          ],
+          "photo": [
+            "https://pbs.twimg.com/profile_images/1291691505254641664/yXXSYMBL.jpg"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "Nobody told me prerecording talks was this stressful 😭"
+    ]
+  }
+}

@@ -1,45 +1,22 @@
 {
-  "date" : "2020-10-16T17:42:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/steveparks/status/1317136120602370049" ],
-    "name" : [ "Like of @steveparks's tweet" ],
-    "published" : [ "2020-10-16T17:42:00+0100" ],
-    "like-of" : [ "https://twitter.com/steveparks/status/1317136120602370049" ]
+  "date": "2020-10-16T17:42:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/steveparks/status/1317136120602370049"
+    ],
+    "name": [
+      "Like of @steveparks's tweet"
+    ],
+    "published": [
+      "2020-10-16T17:42:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/steveparks/status/1317136120602370049"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/5jscb",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1317136120602370049" ],
-      "url" : [ "https://twitter.com/steveparks/status/1317136120602370049" ],
-      "published" : [ "2020-10-16T16:11:37+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/edent/status/1317134756262412288" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:steveparks" ],
-          "numeric-id" : [ "1119741" ],
-          "name" : [ "Steve Parks" ],
-          "nickname" : [ "steveparks" ],
-          "url" : [ "https://twitter.com/steveparks", "http://www.steveparks.co.uk" ],
-          "published" : [ "2007-03-13T22:10:10+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "London, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1187830412690763777/3SO6sYf6.jpg" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "Presumably they’ve done away with the small print 😉\n\nSorry",
-        "html" : "<div style=\"white-space: pre\">Presumably they’ve done away with the small print 😉\n\nSorry</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edent\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/5jscb",
+  "client_id": "https://indigenous.realize.be"
 }

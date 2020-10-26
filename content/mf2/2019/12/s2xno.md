@@ -16,36 +16,6 @@
     ],
     "rsvp": [
       "yes"
-    ],
-    "event": {
-      "url": [
-        "https://events.indieweb.org/2020/03/indiewebcamp-london-EPL3anhWs2Wz"
-      ],
-      "name": [
-        "IndieWebCamp London"
-      ],
-      "start": [
-        "2020-03-14"
-      ],
-      "end": [
-        "2020-03-15"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "70 Wilson St"
-          ],
-          "locality": [
-            "London"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   }
 }

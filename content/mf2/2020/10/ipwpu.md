@@ -1,69 +1,22 @@
 {
-  "date" : "2020-10-11T10:22:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/ctrlshifti/status/1315186075581644800" ],
-    "name" : [ "Like of @ctrlshifti's tweet" ],
-    "published" : [ "2020-10-11T10:22:00+0100" ],
-    "like-of" : [ "https://twitter.com/ctrlshifti/status/1315186075581644800" ]
+  "date": "2020-10-11T10:22:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/ctrlshifti/status/1315186075581644800"
+    ],
+    "name": [
+      "Like of @ctrlshifti's tweet"
+    ],
+    "published": [
+      "2020-10-11T10:22:00+0100"
+    ],
+    "like-of": [
+      "https://twitter.com/ctrlshifti/status/1315186075581644800"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/ipwpu",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1315186075581644800" ],
-      "url" : [ "https://twitter.com/ctrlshifti/status/1315186075581644800" ],
-      "published" : [ "2020-10-11T07:02:50+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:ctrlshifti" ],
-          "numeric-id" : [ "1047644343874465792" ],
-          "name" : [ "Kat Maddox" ],
-          "nickname" : [ "ctrlshifti" ],
-          "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox", "http://leftalign.substack.com" ],
-          "published" : [ "2018-10-04T00:27:30+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Gadigal land" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1271780443105325057/DYiRYlpd.jpg" ]
-        }
-      } ],
-      "content" : [ "it's been over two months and i still get dms from random men explaining this to me" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1288745146759000064" ],
-        "url" : [ "https://twitter.com/ctrlshifti/status/1288745146759000064" ],
-        "published" : [ "2020-07-30T07:56:01+00:00" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:ctrlshifti" ],
-            "numeric-id" : [ "1047644343874465792" ],
-            "name" : [ "Kat Maddox" ],
-            "nickname" : [ "ctrlshifti" ],
-            "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox", "http://leftalign.substack.com" ],
-            "published" : [ "2018-10-04T00:27:30+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Gadigal land" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1271780443105325057/DYiRYlpd.jpg" ]
-          }
-        } ],
-        "content" : [ "God I wish there was an easier way to do this" ],
-        "photo" : [ "https://pbs.twimg.com/media/EeKK07dVoAIi21U.png" ]
-      }
-    } ]
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/ipwpu",
+  "client_id": "https://indigenous.realize.be"
 }

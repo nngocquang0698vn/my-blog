@@ -1,74 +1,30 @@
 {
-  "date" : "2020-10-14T10:44:00+0100",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://twitter.com/MrAndrew/status/1316292559602360320" ],
-    "name" : [ "Like of @MrAndrew's tweet" ],
-    "published" : [ "2020-10-14T10:44:00+0100" ],
-    "category" : [ "privacy", "strava" ],
-    "like-of" : [ "https://twitter.com/MrAndrew/status/1316292559602360320" ]
+  "date": "2020-10-14T10:44:00+0100",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://twitter.com/MrAndrew/status/1316292559602360320"
+    ],
+    "name": [
+      "Like of @MrAndrew's tweet"
+    ],
+    "published": [
+      "2020-10-14T10:44:00+0100"
+    ],
+    "category": [
+      "privacy",
+      "strava"
+    ],
+    "like-of": [
+      "https://twitter.com/MrAndrew/status/1316292559602360320"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/10/z6qrl",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1316292559602360320" ],
-      "url" : [ "https://twitter.com/MrAndrew/status/1316292559602360320" ],
-      "published" : [ "2020-10-14T08:19:36+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:MrAndrew" ],
-          "numeric-id" : [ "9626182" ],
-          "name" : [ "Andrew Seward" ],
-          "nickname" : [ "MrAndrew" ],
-          "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
-          "published" : [ "2007-10-23T15:57:18+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Riddings, Derbyshire" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
-        }
-      } ],
-      "content" : [ "Strava have updated their privacy defaults to prioritise safety - great news! Thanks to everyone who leant their voice to this issue 😊" ]
-    },
-    "children" : [ {
-      "type" : [ "u-quotation-of", "h-cite" ],
-      "properties" : {
-        "uid" : [ "tag:twitter.com:1316292168609341440" ],
-        "url" : [ "https://twitter.com/MrAndrew/status/1316292168609341440" ],
-        "published" : [ "2020-10-14T08:18:03+00:00" ],
-        "in-reply-to" : [ "https://twitter.com/MrAndrew/status/1307047642510364672" ],
-        "author" : [ {
-          "type" : [ "h-card" ],
-          "properties" : {
-            "uid" : [ "tag:twitter.com:MrAndrew" ],
-            "numeric-id" : [ "9626182" ],
-            "name" : [ "Andrew Seward" ],
-            "nickname" : [ "MrAndrew" ],
-            "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
-            "published" : [ "2007-10-23T15:57:18+00:00" ],
-            "location" : [ {
-              "type" : [ "h-card", "p-location" ],
-              "properties" : {
-                "name" : [ "Riddings, Derbyshire" ]
-              }
-            } ],
-            "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
-          }
-        } ],
-        "content" : [ {
-          "value" : "***UPDATE*** @Strava have now changed this setting to default to private - for anyone who had it set to 'Everyone' it is now set to private until you choose to enable it.\nThank you for listening and taking this seriously Strava!\ntwitter.com/Strava/status/…",
-          "html" : "<div style=\"white-space: pre\">***UPDATE*** <a href=\"https://twitter.com/Strava\">@Strava</a> have now changed this setting to default to private - for anyone who had it set to 'Everyone' it is now set to private until you choose to enable it.\nThank you for listening and taking this seriously Strava!\n<a href=\"https://twitter.com/Strava/status/1316017870090821632\">twitter.com/Strava/status/…</a></div>"
-        } ]
-      }
-    } ]
-  },
-  "tags" : [ "privacy", "strava" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/10/z6qrl",
+  "tags": [
+    "privacy",
+    "strava"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

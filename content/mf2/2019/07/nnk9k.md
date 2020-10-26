@@ -11,37 +11,7 @@
     ],
     "category": [
       "wit-notts"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/263399438/"
-      ],
-      "name": [
-        "Women In Tech Aug 19 - Open Source Software: What Is It And Why Should We Care?"
-      ],
-      "start": [
-        "2019-08-01T18:30:00+0100"
-      ],
-      "end": [
-        "2019-08-01T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "9A Beck Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/a98d4599-d13e-41f3-b85c-f06ca32e6096/",

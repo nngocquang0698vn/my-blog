@@ -1,44 +1,28 @@
 {
-  "date" : "2020-08-24T12:21:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @bauhauhaus's tweet" ],
-    "published" : [ "2020-08-24T12:21:00+01:00" ],
-    "category" : [ "shitpost" ],
-    "like-of" : [ "https://twitter.com/bauhauhaus/status/1297396795006476289" ]
+  "date": "2020-08-24T12:21:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @bauhauhaus's tweet"
+    ],
+    "published": [
+      "2020-08-24T12:21:00+01:00"
+    ],
+    "category": [
+      "shitpost"
+    ],
+    "like-of": [
+      "https://twitter.com/bauhauhaus/status/1297396795006476289"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/vhrti",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1297396795006476289" ],
-      "url" : [ "https://twitter.com/bauhauhaus/status/1297396795006476289" ],
-      "published" : [ "2020-08-23T04:54:35+00:00" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:bauhauhaus" ],
-          "numeric-id" : [ "1096818105542758401" ],
-          "name" : [ "mila" ],
-          "nickname" : [ "bauhauhaus" ],
-          "url" : [ "https://twitter.com/bauhauhaus" ],
-          "published" : [ "2019-02-16T17:06:29+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "she/her" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/1273848694899687426/zp333MnO.jpg" ]
-        }
-      } ],
-      "content" : [ "for bad posture" ],
-      "photo" : [ "https://pbs.twimg.com/media/EgFHgh6WoAAN6Qn.jpg" ]
-    }
-  },
-  "tags" : [ "shitpost" ],
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/vhrti",
+  "tags": [
+    "shitpost"
+  ],
+  "client_id": "https://indigenous.realize.be"
 }

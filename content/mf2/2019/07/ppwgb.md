@@ -17,37 +17,7 @@
     ],
     "category": [
       "nottingham-aws-meetup"
-    ],
-    "event": {
-      "url": [
-        "https://www.meetup.com/Nottingham-AWS-Meetup/events/263190185/"
-      ],
-      "name": [
-        "Nottingham AWS Meetup"
-      ],
-      "start": [
-        "2019-08-20T18:30:00+0100"
-      ],
-      "end": [
-        "2019-08-20T21:00:00+0100"
-      ],
-      "location": {
-        "properties": {
-          "street-address": [
-            "Fothergill House, 16 King Street"
-          ],
-          "locality": [
-            "Nottingham"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ]
-        },
-        "type": [
-          "h-adr"
-        ]
-      }
-    }
+    ]
   },
   "aliases": [
     "/rsvps/8ec75e8b-c6ec-4ab8-9455-9f7061b082f8/",

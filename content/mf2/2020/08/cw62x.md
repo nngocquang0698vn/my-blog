@@ -1,45 +1,22 @@
 {
-  "date" : "2020-08-04T23:02:00+01:00",
-  "deleted" : false,
-  "h" : "h-entry",
-  "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "name" : [ "Like of @sil's tweet" ],
-    "published" : [ "2020-08-04T23:02:00+01:00" ],
-    "like-of" : [ "https://twitter.com/sil/status/1290758439036227584" ]
+  "date": "2020-08-04T23:02:00+01:00",
+  "deleted": false,
+  "h": "h-entry",
+  "properties": {
+    "syndication": [
+      "https://brid.gy/publish/twitter"
+    ],
+    "name": [
+      "Like of @sil's tweet"
+    ],
+    "published": [
+      "2020-08-04T23:02:00+01:00"
+    ],
+    "like-of": [
+      "https://twitter.com/sil/status/1290758439036227584"
+    ]
   },
-  "kind" : "likes",
-  "slug" : "2020/08/cw62x",
-  "context" : {
-    "type" : [ "h-entry" ],
-    "properties" : {
-      "uid" : [ "tag:twitter.com:1290758439036227584" ],
-      "url" : [ "https://twitter.com/sil/status/1290758439036227584" ],
-      "published" : [ "2020-08-04T21:16:07+00:00" ],
-      "in-reply-to" : [ "https://twitter.com/FarPixel/status/1290758057102802944" ],
-      "author" : [ {
-        "type" : [ "h-card" ],
-        "properties" : {
-          "uid" : [ "tag:twitter.com:sil" ],
-          "numeric-id" : [ "1389781" ],
-          "name" : [ "Stuart Langridge" ],
-          "nickname" : [ "sil" ],
-          "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ],
-          "published" : [ "2007-03-18T01:52:55+00:00" ],
-          "location" : [ {
-            "type" : [ "h-card", "p-location" ],
-            "properties" : {
-              "name" : [ "Birmingham, UK" ]
-            }
-          } ],
-          "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ]
-        }
-      } ],
-      "content" : [ {
-        "value" : "now you have to go to prison for one hundred years",
-        "html" : "now you have to go to prison for one hundred years\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FarPixel\"></a>"
-      } ]
-    }
-  },
-  "client_id" : "https://indigenous.realize.be"
+  "kind": "likes",
+  "slug": "2020/08/cw62x",
+  "client_id": "https://indigenous.realize.be"
 }

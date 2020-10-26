@@ -19,23 +19,6 @@
     ],
     "syndication": [
       "https://www.meetup.com/Women-In-Tech-Nottingham/events/268710995/#rsvp-by-https%3A%2F%2Fwww.jvt.me"
-    ],
-    "event": {
-      "location": [
-        "Antenna, 9A Beck St, Nottingham, United Kingdom"
-      ],
-      "url": [
-        "https://www.meetup.com/Women-In-Tech-Nottingham/events/268710995/"
-      ],
-      "name": [
-        "Women in Tech 2nd April - Thoughts to Pixels: the impact of blogging"
-      ],
-      "start": [
-        "2020-04-02T18:30:00+01:00"
-      ],
-      "end": [
-        "2020-04-02T21:00:00+01:00"
-      ]
-    }
+    ]
   }
 }
