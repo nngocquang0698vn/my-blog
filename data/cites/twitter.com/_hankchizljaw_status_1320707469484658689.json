@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1320707469484658689" ],
+    "url" : [ "https://twitter.com/hankchizljaw/status/1320707469484658689" ],
+    "published" : [ "2020-10-26T12:42:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hankchizljaw" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "hankchizljaw" ],
+        "url" : [ "https://twitter.com/hankchizljaw", "https://piccalil.li/", "http://every-layout.dev", "http://array.chat" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292805356796739584/efZHsNGx.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's simple: for as long as tech turns a blind eye to white supremacists it is a comfortable place for them to exist and they will continue to thrive. \n\nIt should be the opposite.\n\nDo better. De-platform hate.",
+      "html" : "<div style=\"white-space: pre\">It's simple: for as long as tech turns a blind eye to white supremacists it is a comfortable place for them to exist and they will continue to thrive. \n\nIt should be the opposite.\n\nDo better. De-platform hate.</div>"
+    } ]
+  }
+}
