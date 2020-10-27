@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Karvarad/status/1321095032804356103" ],
     "name" : [ "Like of @Karvarad's tweet" ],
     "published" : [ "2020-10-27T14:55:00+0000" ],
     "like-of" : [ "https://twitter.com/Karvarad/status/1321095032804356103" ]
