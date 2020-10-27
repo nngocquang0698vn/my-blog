@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ExpanseOnPrime/status/1321198297256656896" ],
     "name" : [ "Like of @ExpanseOnPrime's tweet" ],
     "published" : [ "2020-10-27T22:34:00+0000" ],
     "category" : [ "coronavirus", "the-expanse" ],
