@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doctpd/status/1321025067510353920" ],
     "name" : [ "Like of @doctpd's tweet" ],
     "published" : [ "2020-10-27T12:19:00+0000" ],
     "category" : [ "cute" ],
