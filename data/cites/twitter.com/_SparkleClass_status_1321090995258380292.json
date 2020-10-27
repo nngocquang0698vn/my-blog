@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321090995258380292" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1321090995258380292" ],
+    "published" : [ "2020-10-27T14:06:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's National #Stress Awareness Week next week.\n\nI found this out from an email from the @StressMgtSoc, which I did not sign up to. And it's making me stressed.",
+      "html" : "<div style=\"white-space: pre\">It's National <a href=\"https://twitter.com/search?q=%23Stress\">#Stress</a> Awareness Week next week.\n\nI found this out from an email from the <a href=\"https://twitter.com/StressMgtSoc\">@StressMgtSoc</a>, which I did not sign up to. And it's making me stressed.</div>"
+    } ]
+  }
+}
