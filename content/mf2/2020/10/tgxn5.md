@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1321220613864902657" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2020-10-27T22:54:00+0000" ],
     "category" : [ "morph" ],
