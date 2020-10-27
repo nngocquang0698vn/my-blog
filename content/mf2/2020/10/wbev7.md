@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/michellebhasin/status/1320569041682079744" ],
     "name" : [ "Like of @michellebhasin's tweet" ],
     "published" : [ "2020-10-27T08:00:00+0000" ],
     "category" : [ "food" ],
