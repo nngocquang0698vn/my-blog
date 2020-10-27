@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alicegoldfuss/status/1320901447802703872" ],
     "name" : [ "Like of @alicegoldfuss's tweet" ],
     "published" : [ "2020-10-27T21:59:00+0000" ],
     "category" : [ "politics" ],
