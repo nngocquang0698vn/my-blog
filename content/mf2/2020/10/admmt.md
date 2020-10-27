@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1321183461928034304" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2020-10-27T21:12:00+0000" ],
     "category" : [ "coronavirus" ],
