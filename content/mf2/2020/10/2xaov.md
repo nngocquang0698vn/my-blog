@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scottygb/status/1321476164448358404" ],
     "name" : [ "Like of @scottygb's tweet" ],
     "published" : [ "2020-10-28T17:14:00+0000" ],
     "like-of" : [ "https://twitter.com/scottygb/status/1321476164448358404" ]
