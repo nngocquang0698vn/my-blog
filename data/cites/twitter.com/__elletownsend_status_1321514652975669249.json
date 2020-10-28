@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321514652975669249" ],
+    "url" : [ "https://twitter.com/_elletownsend/status/1321514652975669249" ],
+    "published" : [ "2020-10-28T18:10:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_elletownsend" ],
+        "numeric-id" : [ "4308006796" ],
+        "name" : [ "Elle Townsend🎃" ],
+        "nickname" : [ "_elletownsend" ],
+        "url" : [ "https://twitter.com/_elletownsend", "https://www.elletownsend.co.uk" ],
+        "published" : [ "2015-11-28T14:28:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237757944089006086/67Kjy-LA.jpg" ]
+      }
+    } ],
+    "content" : [ "I was looking into the goodreads api for a potential tutorial project and was blocked by the fact that their api endpoints return xml instead of json... turns out this has been a feature request for..... 10 years 👀" ]
+  }
+}
