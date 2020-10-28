@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321470949024133120" ],
+    "url" : [ "https://twitter.com/krisnova/status/1321470949024133120" ],
+    "published" : [ "2020-10-28T15:16:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "Kris Nóvagghh!! 👻" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://nivenly.com" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311766063156084737/KNGdCER4.jpg" ]
+      }
+    } ],
+    "content" : [ "\"You don't get credit for turning on a new system until you turn off the old one\"" ]
+  }
+}
