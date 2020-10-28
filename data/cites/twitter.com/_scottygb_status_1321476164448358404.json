@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321476164448358404" ],
+    "url" : [ "https://twitter.com/scottygb/status/1321476164448358404" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1321476007262564355/pu/vid/1280x712/kwztMcd_4nLQkCei.mp4?tag=10" ],
+    "published" : [ "2020-10-28T15:37:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:scottygb" ],
+        "numeric-id" : [ "15721456" ],
+        "name" : [ "Scott Bryan" ],
+        "nickname" : [ "scottygb" ],
+        "url" : [ "https://twitter.com/scottygb", "http://www.scottybryan.com" ],
+        "published" : [ "2008-08-04T12:33:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "East London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is a brutal quip at the end of a news report by @BBCSimonMcCoy",
+      "html" : "This is a brutal quip at the end of a news report by <a href=\"https://twitter.com/BBCSimonMcCoy\">@BBCSimonMcCoy</a>"
+    } ]
+  }
+}
