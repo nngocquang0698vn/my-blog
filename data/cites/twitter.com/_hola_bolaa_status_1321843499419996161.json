@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321843499419996161" ],
+    "url" : [ "https://twitter.com/hola_bolaa/status/1321843499419996161" ],
+    "published" : [ "2020-10-29T15:57:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hola_bolaa" ],
+        "numeric-id" : [ "1311066670732120064" ],
+        "name" : [ "Bola Ajose 👩🏿‍💻" ],
+        "nickname" : [ "hola_bolaa" ],
+        "url" : [ "https://twitter.com/hola_bolaa" ],
+        "published" : [ "2020-09-29T22:14:36+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311071984151941126/4ru9DVhI.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Tune in next week as @codingblackfems take over @WiT_Notts for a night of amazing talks! I'll be talking about finding your 'why' and how to keep motivated 💪🏿💪🏿\n\n#BlackWomenInTech",
+      "html" : "<div style=\"white-space: pre\">Tune in next week as <a href=\"https://twitter.com/codingblackfems\">@codingblackfems</a> take over <a href=\"https://twitter.com/WiT_Notts\">@WiT_Notts</a> for a night of amazing talks! I'll be talking about finding your 'why' and how to keep motivated 💪🏿💪🏿\n\n<a href=\"https://twitter.com/search?q=%23BlackWomenInTech\">#BlackWomenInTech</a></div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1321738744496590848" ],
+      "url" : [ "https://twitter.com/codingblackfems/status/1321738744496590848" ],
+      "published" : [ "2020-10-29T09:00:48+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:codingblackfems" ],
+          "numeric-id" : [ "1104333879522066432" ],
+          "name" : [ "Coding Black Females" ],
+          "nickname" : [ "codingblackfems" ],
+          "url" : [ "https://twitter.com/codingblackfems", "https://linktr.ee/codingblackfemales" ],
+          "published" : [ "2019-03-09T10:51:29+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1110245887564021768/ZR2DX_DV.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Join us on Thursday 5th November as @WiT_Notts share their platform with the @codingblackfems community!\n\nYou'll be able to watch 7 talks from 7 amazing women\n\nYou can find out more about the talks and sign up here: Right nott.tech/wit-nov-20\n\n#BlackTechTwitter #WomenInTech",
+        "html" : "<div style=\"white-space: pre\">Join us on Thursday 5th November as <a href=\"https://twitter.com/WiT_Notts\">@WiT_Notts</a> share their platform with the <a href=\"https://twitter.com/codingblackfems\">@codingblackfems</a> community!\n\nYou'll be able to watch 7 talks from 7 amazing women\n\nYou can find out more about the talks and sign up here: Right <a href=\"http://nott.tech/wit-nov-20\">nott.tech/wit-nov-20</a>\n\n<a href=\"https://twitter.com/search?q=%23BlackTechTwitter\">#BlackTechTwitter</a> <a href=\"https://twitter.com/search?q=%23WomenInTech\">#WomenInTech</a></div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/ElfCYh-XEAETbS8.jpg" ]
+    }
+  } ]
+}
