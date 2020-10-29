@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sp4ghettiCode/status/1321558703024340992" ],
     "name" : [ "Like of @Sp4ghettiCode's tweet" ],
     "published" : [ "2020-10-29T12:49:00+0000" ],
     "category" : [ "cute" ],
