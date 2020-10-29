@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321453088155250689" ],
+    "url" : [ "https://twitter.com/alexwolfco/status/1321453088155250689" ],
+    "published" : [ "2020-10-28T14:05:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alexwolfco" ],
+        "numeric-id" : [ "3018086988" ],
+        "name" : [ "Alex Wolf" ],
+        "nickname" : [ "alexwolfco" ],
+        "url" : [ "https://twitter.com/alexwolfco", "http://www.linktr.ee/alexwolf", "http://linktr.ee/alexwolf" ],
+        "published" : [ "2015-02-13T06:34:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1303091886278815745/bpNqdTqh.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "People really don't know how disrespectful it is to speak in jargon. My doctor does it. My lawyer does it. \n\nI have to check them every time. \n\nTo commit to your industry's vocabulary over the responsibility of communication is dangerous and arresting to your clients.",
+      "html" : "<div style=\"white-space: pre\">People really don't know how disrespectful it is to speak in jargon. My doctor does it. My lawyer does it. \n\nI have to check them every time. \n\nTo commit to your industry's vocabulary over the responsibility of communication is dangerous and arresting to your clients.</div>"
+    } ]
+  }
+}
