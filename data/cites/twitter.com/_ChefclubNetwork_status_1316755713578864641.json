@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1316755713578864641" ],
+    "url" : [ "https://twitter.com/ChefclubNetwork/status/1316755713578864641" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1315583626000691201/pu/vid/720x720/x5DqtU_q5HFLfmCm.mp4?tag=10" ],
+    "published" : [ "2020-10-15T15:00:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChefclubNetwork" ],
+        "numeric-id" : [ "1237671584372084743" ],
+        "name" : [ "Chefclub Network" ],
+        "nickname" : [ "ChefclubNetwork" ],
+        "url" : [ "https://twitter.com/ChefclubNetwork", "http://www.chefclub.tv" ],
+        "published" : [ "2020-03-11T09:28:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318153923056832512/isNA9Yn2.jpg" ]
+      }
+    } ],
+    "content" : [ "Spaghetti Boats! It's like the personal pizza of pasta! 🍝" ]
+  }
+}
