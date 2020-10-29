@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321845068030881794" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1321845068030881794" ],
+    "published" : [ "2020-10-29T16:03:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "9/11 kills 3,000 people, and we spend the next two decades, thousands of lives, and many billions of dollars attacking the Taliban.\n\nCovid kills 250,000 people, and some dudes are like, \"Wearing masks and not going to bars is an overreaction!\"",
+      "html" : "<div style=\"white-space: pre\">9/11 kills 3,000 people, and we spend the next two decades, thousands of lives, and many billions of dollars attacking the Taliban.\n\nCovid kills 250,000 people, and some dudes are like, \"Wearing masks and not going to bars is an overreaction!\"</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1321826311225135104" ],
+      "url" : [ "https://twitter.com/Mediaite/status/1321826311225135104" ],
+      "published" : [ "2020-10-29T14:48:45+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Mediaite" ],
+          "numeric-id" : [ "29465136" ],
+          "name" : [ "Mediaite" ],
+          "nickname" : [ "Mediaite" ],
+          "url" : [ "https://twitter.com/Mediaite", "http://www.Mediaite.com", "http://www.facebook.com/Mediaite" ],
+          "published" : [ "2009-04-07T15:03:06+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/882575964324208640/BtpGLHdx.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "WATCH: MSNBC's Chuck Todd Asks if Joe Biden is Taking Covid 'Too Seriously' mediaite.com/a/gnzmo",
+        "html" : "WATCH: MSNBC's Chuck Todd Asks if Joe Biden is Taking Covid 'Too Seriously' <a href=\"https://mediaite.com/a/gnzmo\">mediaite.com/a/gnzmo</a>"
+      } ]
+    }
+  } ]
+}
