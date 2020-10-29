@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321849545316249600" ],
+    "url" : [ "https://twitter.com/akrabat/status/1321849545316249600" ],
+    "published" : [ "2020-10-29T16:21:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:akrabat" ],
+        "numeric-id" : [ "9244712" ],
+        "name" : [ "Rob Allen" ],
+        "nickname" : [ "akrabat" ],
+        "url" : [ "https://twitter.com/akrabat", "https://akrabat.com" ],
+        "published" : [ "2007-10-04T14:08:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Worcester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294531979388628992/gsLM1KGj.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "In a meeting with 15 other people watching the host update Confluence.\n\nSend 🍺",
+      "html" : "<div style=\"white-space: pre\">In a meeting with 15 other people watching the host update Confluence.\n\nSend 🍺</div>"
+    } ]
+  }
+}
