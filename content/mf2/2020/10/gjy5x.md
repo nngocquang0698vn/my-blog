@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexwolfco/status/1321453088155250689" ],
     "name" : [ "Like of @alexwolfco's tweet" ],
     "published" : [ "2020-10-29T19:41:00+0000" ],
     "category" : [ "communication" ],
