@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321921003598106626" ],
+    "url" : [ "https://twitter.com/auth0/status/1321921003598106626" ],
+    "published" : [ "2020-10-29T21:05:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:auth0" ],
+        "numeric-id" : [ "902438742" ],
+        "name" : [ "Auth0" ],
+        "nickname" : [ "auth0" ],
+        "url" : [ "https://twitter.com/auth0", "https://auth0.com" ],
+        "published" : [ "2012-10-24T19:26:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1301560174826717185/PfR8JNYF.png" ]
+      }
+    } ],
+    "content" : [ "Test yourself: what are the three factors of authentication?" ]
+  }
+}
