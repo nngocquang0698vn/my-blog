@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1321845068030881794" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-10-29T16:14:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
