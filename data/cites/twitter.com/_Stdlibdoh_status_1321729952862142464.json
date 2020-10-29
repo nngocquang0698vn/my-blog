@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321729952862142464" ],
+    "url" : [ "https://twitter.com/Stdlibdoh/status/1321729952862142464" ],
+    "published" : [ "2020-10-29T08:25:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Stdlibdoh" ],
+        "numeric-id" : [ "84369685" ],
+        "name" : [ "it reads as standard library DOH" ],
+        "nickname" : [ "Stdlibdoh" ],
+        "url" : [ "https://twitter.com/Stdlibdoh", "http://github.com/stdlibdoh" ],
+        "published" : [ "2009-10-22T16:56:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013399500067692545/Ip_b2r49.jpg" ]
+      }
+    } ],
+    "content" : [ "I spent an embarrassing amount of time doing this. I regret nothing" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ele6N0BXUAUHab8.jpg" ]
+  }
+}
