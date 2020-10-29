@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/grmpyprogrammer/status/1321901760303292418" ],
     "name" : [ "Like of @grmpyprogrammer's tweet" ],
     "published" : [ "2020-10-29T22:33:00+0000" ],
     "like-of" : [ "https://twitter.com/grmpyprogrammer/status/1321901760303292418" ]
