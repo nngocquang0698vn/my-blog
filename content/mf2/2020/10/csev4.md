@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChefclubNetwork/status/1316755713578864641" ],
     "name" : [ "Like of @ChefclubNetwork's tweet" ],
     "published" : [ "2020-10-29T14:28:00+0000" ],
     "category" : [ "food" ],
