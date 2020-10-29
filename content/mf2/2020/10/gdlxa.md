@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Stdlibdoh/status/1321729952862142464" ],
     "name" : [ "Like of @Stdlibdoh's tweet" ],
     "published" : [ "2020-10-29T22:33:00+0000" ],
     "category" : [ "google" ],
