@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hola_bolaa/status/1321843499419996161" ],
     "name" : [ "Like of @hola_bolaa's tweet" ],
     "published" : [ "2020-10-29T16:10:00+0000" ],
     "category" : [ "wit-notts" ],
