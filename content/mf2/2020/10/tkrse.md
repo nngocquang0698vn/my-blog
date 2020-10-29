@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1321853656564682752" ],
     "photo" : [ {
       "alt" : "Black cat standing up, tail looking a little bit crabby, dressed up in a spider costume, with spider legs standing out from his body, and a little hat over his head",
       "photo" : "https://media.jvt.me/a3af88afa5.jpeg"
