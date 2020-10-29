@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321770293795409920" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1321770293795409920" ],
+    "published" : [ "2020-10-29T11:06:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302615077904945154/iunoaUw1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "TIL that Twitter doesn’t store tweets in one place, for read efficiency it stores one copy of the tweet in each follower’s timeline. Except for celebrities with lots of followers.\n\nI suspect this is the real reason we still don’t have an edit button.",
+      "html" : "<div style=\"white-space: pre\">TIL that Twitter doesn’t store tweets in one place, for read efficiency it stores one copy of the tweet in each follower’s timeline. Except for celebrities with lots of followers.\n\nI suspect this is the real reason we still don’t have an edit button.</div>"
+    } ]
+  }
+}
