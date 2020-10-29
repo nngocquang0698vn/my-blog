@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/akrabat/status/1321849545316249600" ],
     "name" : [ "Like of @akrabat's tweet" ],
     "published" : [ "2020-10-29T16:41:00+0000" ],
     "category" : [ "agile" ],
