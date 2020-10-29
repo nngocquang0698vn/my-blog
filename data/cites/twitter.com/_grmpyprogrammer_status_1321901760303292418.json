@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321901760303292418" ],
+    "url" : [ "https://twitter.com/grmpyprogrammer/status/1321901760303292418" ],
+    "published" : [ "2020-10-29T19:48:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:grmpyprogrammer" ],
+        "numeric-id" : [ "7418052" ],
+        "name" : [ "Chris Hartjes" ],
+        "nickname" : [ "grmpyprogrammer" ],
+        "url" : [ "https://twitter.com/grmpyprogrammer", "https://leanpub.com/grumpy-guide" ],
+        "published" : [ "2007-07-12T02:36:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Fortress of Grumpitude" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320545810170478593/H6jFtgWr.png" ]
+      }
+    } ],
+    "content" : [ "A much-needed update to the meme" ],
+    "photo" : [ "https://pbs.twimg.com/media/ElhWo5iWoAcTFBi.jpg" ]
+  }
+}
