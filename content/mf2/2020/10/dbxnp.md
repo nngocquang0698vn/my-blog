@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kylie_robison/status/1322233123006894080" ],
     "name" : [ "Like of @kylie_robison's tweet" ],
     "published" : [ "2020-10-30T18:41:00+0000" ],
     "like-of" : [ "https://twitter.com/kylie_robison/status/1322233123006894080" ]
