@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321927976318099456" ],
+    "url" : [ "https://twitter.com/panoparker/status/1321927976318099456" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1321927924245823489/pu/vid/1280x720/XSWyrMsaM29vQP8l.mp4?tag=10" ],
+    "published" : [ "2020-10-29T21:32:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:panoparker" ],
+        "numeric-id" : [ "384537559" ],
+        "name" : [ "Parker" ],
+        "nickname" : [ "panoparker" ],
+        "url" : [ "https://twitter.com/panoparker", "http://www.instagram.com/panoparker" ],
+        "published" : [ "2011-10-03T21:30:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1160795704488542208/jB0-Ylgv.jpg" ]
+      }
+    } ],
+    "content" : [ "Thinking about the guy that put cheese in a chocolate fountain" ]
+  }
+}
