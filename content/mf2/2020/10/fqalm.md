@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChuckWendig/status/1322317186267041805" ],
     "name" : [ "Like of @ChuckWendig's tweet" ],
     "published" : [ "2020-10-30T23:38:00+0000" ],
     "category" : [ "star-wars" ],
