@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322233123006894080" ],
+    "url" : [ "https://twitter.com/kylie_robison/status/1322233123006894080" ],
+    "published" : [ "2020-10-30T17:45:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/herballicnallic/status/1322220088905392128" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kylie_robison" ],
+        "numeric-id" : [ "253350725" ],
+        "name" : [ "kylie robison" ],
+        "nickname" : [ "kylie_robison" ],
+        "url" : [ "https://twitter.com/kylie_robison", "http://kylierobison.com" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "📬 kylie@kylierobison.com" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312854210287788032/lqjRPINC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/herballicnallic\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ElmEBCIVkAE0kuP.jpg" ]
+  }
+}
