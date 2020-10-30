@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_theliz/status/1322283092460081153" ],
     "name" : [ "Like of @_theliz's tweet" ],
     "published" : [ "2020-10-30T23:33:00+0000" ],
     "like-of" : [ "https://twitter.com/_theliz/status/1322283092460081153" ]
