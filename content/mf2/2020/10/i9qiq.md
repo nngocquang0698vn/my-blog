@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/furioursus/status/1321938086926823425" ],
     "name" : [ "Like of @furioursus's tweet" ],
     "published" : [ "2020-10-30T07:43:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
