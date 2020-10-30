@@ -1,0 +1,53 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322297873191497728" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1322297873191497728" ],
+    "published" : [ "2020-10-30T22:02:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "name" : [ "Emily" ],
+        "nickname" : [ "EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland and SF " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296572390252716034/jTxFoueZ.jpg" ]
+      }
+    } ],
+    "content" : [ "The audacity to think we care what they think when we hold this much power 🤣 https://t.co/3xO00Ic1Fs" ],
+    "photo" : [ "https://pbs.twimg.com/media/Elm-4M_UYAE6ace.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1322281504567943169" ],
+      "url" : [ "https://twitter.com/moriahmaney/status/1322281504567943169" ],
+      "published" : [ "2020-10-30T20:57:32+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:moriahmaney" ],
+          "numeric-id" : [ "928949262" ],
+          "name" : [ "moriah 👻" ],
+          "nickname" : [ "moriahmaney" ],
+          "url" : [ "https://twitter.com/moriahmaney", "http://moriah.dev" ],
+          "published" : [ "2012-11-06T03:59:00+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1294380517320724481/fA-I79xV.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "i feel pretty good about my looks thanks tho!!! twitter.com/SirHarsh1/stat…",
+        "html" : "i feel pretty good about my looks thanks tho!!! <a href=\"https://twitter.com/SirHarsh1/status/1322205556698959875\">twitter.com/SirHarsh1/stat…</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/Elmv-u4XgAEIuAs.jpg" ]
+    }
+  } ]
+}
