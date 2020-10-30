@@ -1,0 +1,48 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321938086926823425" ],
+    "url" : [ "https://twitter.com/furioursus/status/1321938086926823425" ],
+    "published" : [ "2020-10-29T22:12:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:furioursus" ],
+        "numeric-id" : [ "240888580" ],
+        "name" : [ "Majin BOoOooO-urgeoise" ],
+        "nickname" : [ "furioursus" ],
+        "url" : [ "https://twitter.com/furioursus", "https://onebrightlight.com" ],
+        "published" : [ "2011-01-21T00:01:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321325334764032002/-ccKo1XP.jpg" ]
+      }
+    } ],
+    "content" : [ "I had to defend my partner’s gender and their validity at a team standup long ago because someone misgendered them and I wouldn’t back down. “I disagree with you” is a lol well and good for discussing agile practices or something, but I will not give people one inch to be bigots." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1321889880260169728" ],
+      "url" : [ "https://twitter.com/dhh/status/1321889880260169728" ],
+      "published" : [ "2020-10-29T19:01:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:dhh" ],
+          "numeric-id" : [ "14561327" ],
+          "name" : [ "DHH" ],
+          "nickname" : [ "dhh" ],
+          "url" : [ "https://twitter.com/dhh", "https://dhh.dk" ],
+          "published" : [ "2008-04-27T20:19:25+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+        }
+      } ],
+      "content" : [ "The replacement of \"I disagree with you\" – which implies this is simply my different opinion – with \"that's a bad take\" – which implies some sort of universal standard of wrong – sucks." ]
+    }
+  } ]
+}
