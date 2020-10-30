@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/panoparker/status/1321927976318099456" ],
     "name" : [ "Like of @panoparker's tweet" ],
     "published" : [ "2020-10-30T07:46:00+0000" ],
     "category" : [ "food", "tiktok" ],
