@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1322297873191497728" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-10-30T23:29:00+0000" ],
     "like-of" : [ "https://twitter.com/EmilyKager/status/1322297873191497728" ]
