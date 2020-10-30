@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MicaSophieBell/status/1322134452978536454" ],
     "name" : [ "Like of @MicaSophieBell's tweet" ],
     "published" : [ "2020-10-30T22:41:00+0000" ],
     "category" : [ "halloween" ],
