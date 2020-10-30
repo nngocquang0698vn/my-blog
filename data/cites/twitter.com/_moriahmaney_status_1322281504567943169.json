@@ -1,0 +1,47 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322281504567943169" ],
+    "url" : [ "https://twitter.com/moriahmaney/status/1322281504567943169" ],
+    "published" : [ "2020-10-30T20:57:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:moriahmaney" ],
+        "numeric-id" : [ "928949262" ],
+        "name" : [ "moriah 👻" ],
+        "nickname" : [ "moriahmaney" ],
+        "url" : [ "https://twitter.com/moriahmaney", "http://moriah.dev" ],
+        "published" : [ "2012-11-06T03:59:00+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294380517320724481/fA-I79xV.jpg" ]
+      }
+    } ],
+    "content" : [ "i feel pretty good about my looks thanks tho!!! https://t.co/dBInU9mKXo" ],
+    "photo" : [ "https://pbs.twimg.com/media/Elmv-u4XgAEIuAs.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1322205556698959875" ],
+      "url" : [ "https://twitter.com/SirHarsh1/status/1322205556698959875" ],
+      "published" : [ "2020-10-30T15:55:44+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/Indian_Bronson/status/1322203817040089094" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:SirHarsh1" ],
+          "numeric-id" : [ "1241114550067507200" ],
+          "name" : [ "Sir Harsh" ],
+          "nickname" : [ "SirHarsh1" ],
+          "url" : [ "https://twitter.com/SirHarsh1" ],
+          "published" : [ "2020-03-20T21:29:28+00:00" ],
+          "photo" : [ "https://abs.twimg.com/sticky/default_profile_images/default_profile.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "do these shitlib girls think they look like this? Reese and her co star are pleasing to look at while these shitlibs look like washed up biker chicks with tats and dyed hair.",
+        "html" : "do these shitlib girls think they look like this? Reese and her co star are pleasing to look at while these shitlibs look like washed up biker chicks with tats and dyed hair.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Indian_Bronson\"></a>"
+      } ]
+    }
+  } ]
+}
