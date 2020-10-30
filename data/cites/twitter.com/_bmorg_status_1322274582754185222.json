@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322274582754185222" ],
+    "url" : [ "https://twitter.com/bmorg/status/1322274582754185222" ],
+    "published" : [ "2020-10-30T20:30:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bmorg" ],
+        "numeric-id" : [ "17942577" ],
+        "name" : [ "Ben Morgan" ],
+        "nickname" : [ "bmorg" ],
+        "url" : [ "https://twitter.com/bmorg" ],
+        "published" : [ "2008-12-07T16:01:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/469847169273311233/2fvBw4RM.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If you're qualified for this then apply now. @TashJNorris is awesome and I would definitely work for her.",
+      "html" : "If you're qualified for this then apply now. <a href=\"https://twitter.com/TashJNorris\">@TashJNorris</a> is awesome and I would definitely work for her."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1322173671352508417" ],
+      "url" : [ "https://twitter.com/TashJNorris/status/1322173671352508417" ],
+      "published" : [ "2020-10-30T13:49:02+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:TashJNorris" ],
+          "numeric-id" : [ "19965271" ],
+          "name" : [ "Tash Norris" ],
+          "nickname" : [ "TashJNorris" ],
+          "url" : [ "https://twitter.com/TashJNorris", "https://medium.com/@tashjnorris" ],
+          "published" : [ "2009-02-03T11:25:57+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1084014099510558720/_2lwD_ZS.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I'm hiring! We're looking for a senior SecOps & IR Engineer to join our team over at @moonpigtech. We're a small team, so looking for someone keen to get stuck in and who is looking for growth!\n\nFirst time 'senior' engineers are WELCOME! \n\njobs.lever.co/moonpig/530fa7…",
+        "html" : "<div style=\"white-space: pre\">I'm hiring! We're looking for a senior SecOps &amp; IR Engineer to join our team over at <a href=\"https://twitter.com/moonpigtech\">@moonpigtech</a>. We're a small team, so looking for someone keen to get stuck in and who is looking for growth!\n\nFirst time 'senior' engineers are WELCOME! \n\n<a href=\"https://jobs.lever.co/moonpig/530fa709-c884-48a2-bd11-540d7a1ca05c\">jobs.lever.co/moonpig/530fa7…</a></div>"
+      } ]
+    }
+  } ]
+}
