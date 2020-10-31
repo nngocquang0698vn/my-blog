@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322594914945929217" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1322594914945929217" ],
+    "published" : [ "2020-10-31T17:42:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ "Happy Halloween. 🎃" ],
+    "photo" : [ "https://pbs.twimg.com/media/ElrMV1mXEAMHmse.jpg", "https://pbs.twimg.com/media/ElrM7OAXgAARG7v.jpg", "https://pbs.twimg.com/media/ElrNAyFXEAgdR-W.jpg" ]
+  }
+}
