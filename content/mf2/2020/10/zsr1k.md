@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mathew_stokes/status/1322571826422317056" ],
     "name" : [ "Like of @Mathew_stokes's tweet" ],
     "published" : [ "2020-10-31T16:12:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
