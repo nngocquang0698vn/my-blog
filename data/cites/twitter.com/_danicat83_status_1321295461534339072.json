@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321295461534339072" ],
+    "url" : [ "https://twitter.com/danicat83/status/1321295461534339072" ],
+    "published" : [ "2020-10-28T03:39:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:danicat83" ],
+        "numeric-id" : [ "1901819173" ],
+        "name" : [ "Daniela Petruzalek" ],
+        "nickname" : [ "danicat83" ],
+        "url" : [ "https://twitter.com/danicat83", "https://github.com/danicat" ],
+        "published" : [ "2013-09-24T21:12:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296517710478823428/f9GOpCvQ.jpg" ]
+      }
+    } ],
+    "content" : [ "How not to love this little devil? ❤️" ],
+    "photo" : [ "https://pbs.twimg.com/media/ElYvNzUWkAMmm0T.jpg" ]
+  }
+}
