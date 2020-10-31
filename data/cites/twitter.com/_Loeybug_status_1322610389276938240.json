@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322610389276938240" ],
+    "url" : [ "https://twitter.com/Loeybug/status/1322610389276938240" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1322610356791975941/pu/vid/720x1280/QmclREkMgDAp-vX4.mp4?tag=10" ],
+    "published" : [ "2020-10-31T18:44:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Loeybug" ],
+        "numeric-id" : [ "343506894" ],
+        "name" : [ "Loey ✨𓆏" ],
+        "nickname" : [ "Loeybug" ],
+        "url" : [ "https://twitter.com/Loeybug", "http://youtube.com/loeylane" ],
+        "published" : [ "2011-07-27T17:40:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rose’s house ❤️" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316912019552018438/sCdniPye.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Being roommates with a cosplayer is... never boring @snitchery",
+      "html" : "Being roommates with a cosplayer is... never boring <a href=\"https://twitter.com/snitchery\">@snitchery</a>"
+    } ]
+  }
+}
