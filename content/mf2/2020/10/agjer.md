@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/helenalovier/status/1322333869601939458" ],
     "name" : [ "Like of @helenalovier's tweet" ],
     "published" : [ "2020-10-31T22:33:00+0000" ],
     "category" : [ "star-wars", "diversity-and-inclusion" ],
