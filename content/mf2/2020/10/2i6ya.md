@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SparkleClass/status/1322594914945929217" ],
     "name" : [ "Like of @SparkleClass's tweet" ],
     "published" : [ "2020-10-31T19:22:00+0000" ],
     "category" : [ "halloween" ],
