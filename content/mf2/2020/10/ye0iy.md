@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://aaronparecki.com/2020/10/30/21/pandemic" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1322634143918891008" ],
     "name" : [ "Reply to https://aaronparecki.com/2020/10/30/21/pandemic" ],
     "published" : [ "2020-10-31T20:14:00+0000" ],
     "content" : [ {
