@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322197192518504448" ],
+    "url" : [ "https://twitter.com/jlengstorf/status/1322197192518504448" ],
+    "published" : [ "2020-10-30T15:22:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jlengstorf" ],
+        "numeric-id" : [ "15668072" ],
+        "name" : [ "SpoOoOoOopy Jason 💀🦇" ],
+        "nickname" : [ "jlengstorf" ],
+        "url" : [ "https://twitter.com/jlengstorf", "https://jason.af/" ],
+        "published" : [ "2008-07-30T23:49:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/715433404100059137/AYjfw8tH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I present to you, with zero context, the worst thing I have ever created:\n\na hamster with Steve Buscemi eyes",
+      "html" : "<div style=\"white-space: pre\">I present to you, with zero context, the worst thing I have ever created:\n\na hamster with Steve Buscemi eyes</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ElljVtWU8AIYyAF.jpg" ]
+  }
+}
