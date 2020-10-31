@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322286802158424069" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1322286802158424069" ],
+    "published" : [ "2020-10-30T21:18:35+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/EmmaBostian/status/1322284738489552897" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "http://compiled.blog" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1308762729113624578/3eFJY8Uh.jpg" ]
+      }
+    } ],
+    "content" : [ "If anyone wants to be a guest let me know. I’ll pay for your drink of choice (up to like $20 cause I’m not rich)" ],
+    "photo" : [ "https://pbs.twimg.com/media/Elm01itXUAA0dPm.jpg" ]
+  }
+}
