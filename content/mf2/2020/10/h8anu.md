@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/carolstran/status/1322506476775198721" ],
     "name" : [ "Like of @carolstran's tweet" ],
     "published" : [ "2020-10-31T12:28:00+0000" ],
     "category" : [ "food", "halloween" ],
