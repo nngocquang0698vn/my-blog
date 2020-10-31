@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nocontextpawnee/status/1322428706309120000" ],
     "name" : [ "Like of @nocontextpawnee's tweet" ],
     "published" : [ "2020-10-31T17:05:00+0000" ],
     "like-of" : [ "https://twitter.com/nocontextpawnee/status/1322428706309120000" ]
