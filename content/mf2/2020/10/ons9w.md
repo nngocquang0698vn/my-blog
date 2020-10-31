@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ejgreenberg/status/1322582928518344705" ],
     "name" : [ "Like of @ejgreenberg's tweet" ],
     "published" : [ "2020-10-31T17:01:00+0000" ],
     "category" : [ "cute", "halloween" ],
