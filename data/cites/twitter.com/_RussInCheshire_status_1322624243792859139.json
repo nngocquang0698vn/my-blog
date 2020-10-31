@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322624243792859139" ],
+    "url" : [ "https://twitter.com/RussInCheshire/status/1322624243792859139" ],
+    "published" : [ "2020-10-31T19:39:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RussInCheshire" ],
+        "numeric-id" : [ "498753368" ],
+        "name" : [ "Russ" ],
+        "nickname" : [ "RussInCheshire" ],
+        "url" : [ "https://twitter.com/RussInCheshire", "https://russincheshire.wordpress.com/" ],
+        "published" : [ "2012-02-21T11:34:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312762567379615746/EJ1_c3Cc.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:72606cdcf2847dd4" ],
+        "name" : [ "Macclesfield, England" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Lockdown starts Thursday \n\nIf it lifts on schedule, businesses will have just 8 working days to implement and train new software, systems and permits to handle whatever post-Brexit trading arrangements the govt agrees\n\nGovt cannot currently describe those arrangements \n\n8 days",
+      "html" : "<div style=\"white-space: pre\">Lockdown starts Thursday \n\nIf it lifts on schedule, businesses will have just 8 working days to implement and train new software, systems and permits to handle whatever post-Brexit trading arrangements the govt agrees\n\nGovt cannot currently describe those arrangements \n\n8 days</div>"
+    } ]
+  }
+}
