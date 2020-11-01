@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gregg_Ward_/status/1322684489340985345" ],
     "name" : [ "Like of @Gregg_Ward_'s tweet" ],
     "published" : [ "2020-11-01T09:29:00+0000" ],
     "category" : [ "halloween" ],
