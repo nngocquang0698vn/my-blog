@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1322861791098056705" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2020-11-01T11:33:00+0000" ],
     "category" : [ "halloween" ],
