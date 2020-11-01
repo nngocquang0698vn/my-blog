@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322684489340985345" ],
+    "url" : [ "https://twitter.com/Gregg_Ward_/status/1322684489340985345" ],
+    "published" : [ "2020-10-31T23:38:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Gregg_Ward_" ],
+        "numeric-id" : [ "90685513" ],
+        "name" : [ "Gregg Ward" ],
+        "nickname" : [ "Gregg_Ward_" ],
+        "url" : [ "https://twitter.com/Gregg_Ward_" ],
+        "published" : [ "2009-11-17T18:18:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lincoln, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1287439250707881986/H3E1LUTs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My mood tonight and the past week #Lockdown2 or not. Oh yeah it’s #Halloween2020 as well",
+      "html" : "My mood tonight and the past week <a href=\"https://twitter.com/search?q=%23Lockdown2\">#Lockdown2</a> or not. Oh yeah it’s <a href=\"https://twitter.com/search?q=%23Halloween2020\">#Halloween2020</a> as well"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Elsegd1X0AI1j_a.jpg" ]
+  }
+}
