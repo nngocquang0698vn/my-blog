@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheAmyCode/status/1322707083133816832" ],
     "name" : [ "Like of @TheAmyCode's tweet" ],
     "published" : [ "2020-11-01T13:02:00+0000" ],
     "category" : [ "food" ],
