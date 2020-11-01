@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1322961176024764420" ],
     "photo" : [ {
       "alt" : "Selfie of Jamie before the haircut, with a white sheet around him to catch the falling hair, with a lot of beard and moustache growth, and hair slightly covering his eyes",
       "photo" : "https://media.jvt.me/dacd2fd3ef.jpeg"
