@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1322861791098056705" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1322861791098056705" ],
+    "published" : [ "2020-11-01T11:23:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "http://compiled.blog" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1308762729113624578/3eFJY8Uh.jpg" ]
+      }
+    } ],
+    "content" : [ "For Halloween this year I was myself just 10lbs heavier from all the quarantine stress eating. Scariest costume I’ve ever worn." ]
+  }
+}
