@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323230963518873600" ],
+    "url" : [ "https://twitter.com/technottingham/status/1323230963518873600" ],
+    "published" : [ "2020-11-02T11:50:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🎃 Congratulations to the prize winners of Friday's #Halloween2020 Hauntastic Photo Contest on the #TechNott Slack group! 🦇\n\nWell done @shzwlkr @MicaSophieBell @rosanna20736 @tdc_hodgy & @Marcus_Noble_ \n\nJoin the Slack at nott.tech/slack 👻",
+      "html" : "<div style=\"white-space: pre\">🎃 Congratulations to the prize winners of Friday's <a href=\"https://twitter.com/search?q=%23Halloween2020\">#Halloween2020</a> Hauntastic Photo Contest on the <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> Slack group! 🦇\n\nWell done <a href=\"https://twitter.com/shzwlkr\">@shzwlkr</a> <a href=\"https://twitter.com/MicaSophieBell\">@MicaSophieBell</a> <a href=\"https://twitter.com/rosanna20736\">@rosanna20736</a> <a href=\"https://twitter.com/tdc_hodgy\">@tdc_hodgy</a> &amp; <a href=\"https://twitter.com/Marcus_Noble_\">@Marcus_Noble_</a> \n\nJoin the Slack at <a href=\"http://nott.tech/slack\">nott.tech/slack</a> 👻</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/El0PZe5XUAACGHt.jpg", "https://pbs.twimg.com/media/El0OJLDWoAEmalo.jpg", "https://pbs.twimg.com/media/El0OLSGXYAE7hBE.jpg", "https://pbs.twimg.com/media/El0ORcQXYAISI-x.jpg" ]
+  }
+}
