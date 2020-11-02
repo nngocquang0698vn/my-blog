@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323213613310582793" ],
+    "url" : [ "https://twitter.com/madebyjenni/status/1323213613310582793" ],
+    "published" : [ "2020-11-02T10:41:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:madebyjenni" ],
+        "numeric-id" : [ "21200040" ],
+        "name" : [ "Jenni Brown 🍉" ],
+        "nickname" : [ "madebyjenni" ],
+        "url" : [ "https://twitter.com/madebyjenni" ],
+        "published" : [ "2009-02-18T14:27:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/567426387875594241/Inc5VCof.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Today is the official start date of a new full time staff member! 🥳 \n\n(They won't actually be doing any work until next week; we give people a paid week off before they start with us so they can relax, catch up on life stuff etc.).",
+      "html" : "<div style=\"white-space: pre\">Today is the official start date of a new full time staff member! 🥳 \n\n(They won't actually be doing any work until next week; we give people a paid week off before they start with us so they can relax, catch up on life stuff etc.).</div>"
+    } ]
+  }
+}
