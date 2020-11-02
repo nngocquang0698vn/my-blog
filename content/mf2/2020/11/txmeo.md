@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/technottingham/status/1323230963518873600" ],
     "name" : [ "Like of @technottingham's tweet" ],
     "published" : [ "2020-11-02T12:17:00+0000" ],
     "category" : [ "halloween" ],
