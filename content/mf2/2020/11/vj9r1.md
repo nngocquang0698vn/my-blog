@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1323214044111818752" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-11-02T11:14:00+0000" ],
     "category" : [ "personal-website" ],
