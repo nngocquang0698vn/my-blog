@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323214044111818752" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1323214044111818752" ],
+    "published" : [ "2020-11-02T10:43:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305801612359761921/YH1Oo2W0.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Adding new bits to my site last night felt annoying and painful.\n\nNeed to hurry and migrate to eleventy already 😅🏃‍♀️",
+      "html" : "<div style=\"white-space: pre\">Adding new bits to my site last night felt annoying and painful.\n\nNeed to hurry and migrate to eleventy already 😅🏃‍♀️</div>"
+    } ]
+  }
+}
