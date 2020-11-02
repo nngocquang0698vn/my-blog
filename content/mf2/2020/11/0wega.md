@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/madebyjenni/status/1323213613310582793" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1323224985499029504" ],
     "name" : [ "Reply to https://twitter.com/madebyjenni/status/1323213613310582793" ],
     "published" : [ "2020-11-02T11:15:00+0000" ],
     "content" : [ {
