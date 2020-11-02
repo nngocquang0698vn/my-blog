@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323379097469390849" ],
+    "url" : [ "https://twitter.com/MicroSFF/status/1323379097469390849" ],
+    "published" : [ "2020-11-02T21:38:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MicroSFF" ],
+        "numeric-id" : [ "1376608884" ],
+        "name" : [ "Micro SF/F stories" ],
+        "nickname" : [ "MicroSFF" ],
+        "url" : [ "https://twitter.com/MicroSFF", "http://microsff.com/", "http://microsff.com/books", "http://patreon.com/microsff" ],
+        "published" : [ "2013-04-24T09:42:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/522520775002058752/ZD7KK74G.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "\"Right,\" the doctor said, \"what seems to be the issue?\"\n\"Well... I used to have psychic powers.\"\n\"Oh?\"\n\"I could re-heat my coffee, or move the cup to me if I put it down somewhere else. Now I can't.\"\n\"Would it require you to focus your mind?\"\n\"Yes.\"\n\"Are you following the news?\"",
+      "html" : "<div style=\"white-space: pre\">\"Right,\" the doctor said, \"what seems to be the issue?\"\n\"Well... I used to have psychic powers.\"\n\"Oh?\"\n\"I could re-heat my coffee, or move the cup to me if I put it down somewhere else. Now I can't.\"\n\"Would it require you to focus your mind?\"\n\"Yes.\"\n\"Are you following the news?\"</div>"
+    } ]
+  }
+}
