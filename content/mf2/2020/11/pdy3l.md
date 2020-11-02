@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/munyachawawa/status/1322976573960687625" ],
     "name" : [ "Like of @munyachawawa's tweet" ],
     "published" : [ "2020-11-02T20:08:00+0000" ],
     "category" : [ "coronavirus", "tiktok" ],
