@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323425470684131328" ],
+    "url" : [ "https://twitter.com/rothgar/status/1323425470684131328" ],
+    "published" : [ "2020-11-03T00:43:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com", "http://cnibook.info", "http://imdb.to/2FikCiY", "http://bit.ly/2tJM3yt" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1265369680916516864/JkNfHi56.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "AWS public registry 👇\n\ncoming soon™️",
+      "html" : "<div style=\"white-space: pre\">AWS public registry 👇\n\ncoming soon™️</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1323422943334969344" ],
+      "url" : [ "https://twitter.com/nickcoult/status/1323422943334969344" ],
+      "published" : [ "2020-11-03T00:33:12+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:nickcoult" ],
+          "numeric-id" : [ "1011813313263661056" ],
+          "name" : [ "Nick Coult" ],
+          "nickname" : [ "nickcoult" ],
+          "url" : [ "https://twitter.com/nickcoult" ],
+          "published" : [ "2018-06-27T03:27:47+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1023036065500684289/2sYMZIzg.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Dealing with container image download rate limits?  We have some advice, and an important announcement about something coming soon - an AWS public registry.  aws.amazon.com/blogs/containe…",
+        "html" : "Dealing with container image download rate limits?  We have some advice, and an important announcement about something coming soon - an AWS public registry.  <a href=\"https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/\">aws.amazon.com/blogs/containe…</a>"
+      } ]
+    }
+  } ]
+}
