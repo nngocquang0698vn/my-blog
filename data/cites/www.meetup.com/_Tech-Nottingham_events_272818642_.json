@@ -1,13 +1,29 @@
 {
-  "type": [
-    "h-event"
-  ],
   "properties": {
-    "start": [
-      "2020-11-09T18:30:00Z"
+    "author": [
+      {
+        "properties": {
+          "name": [
+            "Tech Nottingham"
+          ],
+          "photo": [
+            "https://secure.meetupstatic.com/photos/event/c/e/3/c/600_480952796.jpeg"
+          ],
+          "url": [
+            "https://www.meetup.com/Tech-Nottingham"
+          ]
+        },
+        "type": [
+          "h-card"
+        ],
+        "value": "Tech Nottingham"
+      }
     ],
-    "name": [
-      "Tech Nottingham 9th November - How to steal an election"
+    "description": [
+      {
+        "html": "<p>THIS MONTH, JOIN US ONLINE!</p> <p>Due to Government advice regarding COVID-19, we’re hosting our events remotely for the safety of all our staff, venue staff and community members. You can read more about our policy for COVID-19 here:<br/><a href=\"https://technottingham.com/coronavirus\" class=\"linkified\">https://technottingham.com/coronavirus</a></p> <p>The event is remote via Zoom, details will be posted here and shared on Slack and via email fifteen minutes before the event.</p> <p>We’ll also be following along live on the #tech-nottingham-monthly channel on Slack for general event chat and Q&amp;A.</p> <p>You can join from your computer, phone or tablet - all you need is an internet connection. As we’re using both Zoom and Slack, and we’ll be running interactive activities, a computer or tablet would work better.</p> <p>You can sign up to Slack right now at <a href=\"https://technottingham.com/slack\" class=\"linkified\">https://technottingham.com/slack</a></p> <p>How To Join The Tech Nottingham Slack Group:<br/><a href=\"https://www.youtube.com/watch?v=S412wSKjsqY\" class=\"embedded\">https://www.youtube.com/watch?v=S412wSKjsqY</a></p> <p>-----</p> <p>Can I speak to the tech guy?<br/>by Devon Cockram</p> <p>We are all aware of the gender bias that can be rife within organisations but what do you do when it’s so blatant that you almost can’t believe what’s just been said?</p> <p>Devon will share with you some of her experiences and techniques anyone can use to challenge the gender bias women in tech are so frequently subject to.</p> <p>About Devon</p> <p>Devon has worked in software development for over 6 years and has played key roles in development, project management and product ownership.</p> <p>-----</p> <p>Win Stuff at Tech Nottingham!<br/>We have some great prizes to give away at this month’s event! Details coming soon!</p> <p>-----</p> <p>Thanks to our sponsors:<br/>Capital One, Experian, MHR</p> ",
+        "value": "THIS MONTH, JOIN US ONLINE! Due to Government advice regarding COVID-19, we’re hosting our events remotely for the safety of all our staff, venue staff and community members. You can read more about our policy for COVID-19 here: https://technottingham.com/coronavirus The event is remote via Zoom, details will be posted here and shared on Slack and via email fifteen minutes before the event. We’ll also be following along live on the #tech-nottingham-monthly channel on Slack for general event chat and Q&A. You can join from your computer, phone or tablet - all you need is an internet connection. As we’re using both Zoom and Slack, and we’ll be running interactive activities, a computer or tablet would work better. You can sign up to Slack right now at https://technottingham.com/slack How To Join The Tech Nottingham Slack Group: https://www.youtube.com/watch?v=S412wSKjsqY ----- Can I speak to the tech guy? by Devon Cockram We are all aware of the gender bias that can be rife within organisations but what do you do when it’s so blatant that you almost can’t believe what’s just been said? Devon will share with you some of her experiences and techniques anyone can use to challenge the gender bias women in tech are so frequently subject to. About Devon Devon has worked in software development for over 6 years and has played key roles in development, project management and product ownership. ----- Win Stuff at Tech Nottingham! We have some great prizes to give away at this month’s event! Details coming soon! ----- Thanks to our sponsors: Capital One, Experian, MHR"
+      }
     ],
     "end": [
       "2020-11-09T20:30:00Z"
@@ -15,8 +31,23 @@
     "location": [
       "Online"
     ],
+    "name": [
+      "Tech Nottingham 9th November - Can I speak to the tech guy?"
+    ],
+    "published": [
+      "2020-08-26T09:38:26Z"
+    ],
+    "start": [
+      "2020-11-09T18:30:00Z"
+    ],
+    "updated": [
+      "2020-11-03T12:10:47Z"
+    ],
     "url": [
       "https://www.meetup.com/Tech-Nottingham/events/272818642/"
     ]
-  }
+  },
+  "type": [
+    "h-event"
+  ]
 }
