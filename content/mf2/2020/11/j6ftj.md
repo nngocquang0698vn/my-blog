@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1323425470684131328" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2020-11-03T08:22:00+0000" ],
     "category" : [ "aws", "docker" ],
