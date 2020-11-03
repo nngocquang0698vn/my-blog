@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1313192248348233728" ],
+    "url" : [ "https://twitter.com/lumi_1984/status/1313192248348233728" ],
+    "published" : [ "2020-10-05T19:00:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lumi_1984" ],
+        "numeric-id" : [ "39012358" ],
+        "name" : [ "Sarah Mackie" ],
+        "nickname" : [ "lumi_1984" ],
+        "url" : [ "https://twitter.com/lumi_1984", "https://www.youtube.com/channel/UCKpnJZH7kr_rMAwjMYiw1lA" ],
+        "published" : [ "2009-05-10T07:04:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Uachdar Àrdair, Scotland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1272554033660731395/tU8KfFCF.jpg" ]
+      }
+    } ],
+    "content" : [ "This shop near Glen Affric is having none o yer crap mask etiquette 😂" ],
+    "photo" : [ "https://pbs.twimg.com/media/EjllY2DXgAMsUwL.jpg" ]
+  }
+}
