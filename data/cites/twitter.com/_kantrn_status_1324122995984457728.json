@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324122995984457728" ],
+    "url" : [ "https://twitter.com/kantrn/status/1324122995984457728" ],
+    "published" : [ "2020-11-04T22:54:57+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1324121813081853952" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kantrn" ],
+        "numeric-id" : [ "1841791" ],
+        "name" : [ "Noah Kantrowitz" ],
+        "nickname" : [ "kantrn" ],
+        "url" : [ "https://twitter.com/kantrn", "https://coderanger.net/" ],
+        "published" : [ "2007-03-22T05:51:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lafayette, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1170359603/avatar_original.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The two big ones I've hit personally are alg none and decode vs validate. Both seem marginally improved but it's hard to feel sure that someone wouldn't grab a rando JWT library off NPM or PyPI or Github and get very unsafe defaults.",
+      "html" : "The two big ones I've hit personally are alg none and decode vs validate. Both seem marginally improved but it's hard to feel sure that someone wouldn't grab a rando JWT library off NPM or PyPI or Github and get very unsafe defaults.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sethvargo\"></a>"
+    } ]
+  }
+}
