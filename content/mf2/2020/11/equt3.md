@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jennschiffer/status/1323808152958230529" ],
     "name" : [ "Like of @jennschiffer's tweet" ],
     "published" : [ "2020-11-04T17:45:00+0000" ],
     "like-of" : [ "https://twitter.com/jennschiffer/status/1323808152958230529" ]
