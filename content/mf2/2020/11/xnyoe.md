@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kantrn/status/1324122995984457728" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1324131839095746560" ],
     "name" : [ "Reply to https://twitter.com/kantrn/status/1324122995984457728" ],
     "published" : [ "2020-11-04T23:24:00+0000" ],
     "content" : [ {
