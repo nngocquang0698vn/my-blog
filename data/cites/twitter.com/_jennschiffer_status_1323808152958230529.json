@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323808152958230529" ],
+    "url" : [ "https://twitter.com/jennschiffer/status/1323808152958230529" ],
+    "published" : [ "2020-11-04T02:03:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jennschiffer" ],
+        "numeric-id" : [ "12524622" ],
+        "name" : [ "hot jenn" ],
+        "nickname" : [ "jennschiffer" ],
+        "url" : [ "https://twitter.com/jennschiffer", "https://jennmoney.biz" ],
+        "published" : [ "2008-01-22T05:42:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "jersey city" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322012228988641282/uz6J57wD.jpg" ]
+      }
+    } ],
+    "content" : [ "shouts out to all my sober pals here getting through tonight despite a fucking fire hose of alcohol content" ]
+  }
+}
