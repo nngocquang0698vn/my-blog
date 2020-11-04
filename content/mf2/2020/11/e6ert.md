@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1324036757072023559" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2020-11-04T18:07:00+0000" ],
     "category" : [ "mechanical-keyboard" ],
