@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CagleCats/status/1323912411150254080" ],
     "name" : [ "Like of @CagleCats's tweet" ],
     "published" : [ "2020-11-04T13:50:00+0000" ],
     "category" : [ "cute" ],
