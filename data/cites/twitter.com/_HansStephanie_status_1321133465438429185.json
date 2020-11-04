@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1321133465438429185" ],
+    "url" : [ "https://twitter.com/HansStephanie/status/1321133465438429185" ],
+    "published" : [ "2020-10-27T16:55:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HansStephanie" ],
+        "numeric-id" : [ "346422336" ],
+        "name" : [ "Stephanie Hans" ],
+        "nickname" : [ "HansStephanie" ],
+        "url" : [ "https://twitter.com/HansStephanie", "http://grainedepluie.com" ],
+        "published" : [ "2011-08-01T07:12:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "world" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/937676263963049986/-TMXdzm7.jpg" ]
+      }
+    } ],
+    "content" : [ "I’m dead" ],
+    "photo" : [ "https://pbs.twimg.com/media/ElWb4RkWoAAyp8t.jpg", "https://pbs.twimg.com/media/ElWb4ReWoAUVYQs.jpg", "https://pbs.twimg.com/media/ElWb4WVWkAABy0v.jpg", "https://pbs.twimg.com/media/ElWb4XQX0AABPj5.jpg" ]
+  }
+}
