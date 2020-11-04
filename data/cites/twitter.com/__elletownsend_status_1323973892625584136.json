@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323973892625584136" ],
+    "url" : [ "https://twitter.com/_elletownsend/status/1323973892625584136" ],
+    "published" : [ "2020-11-04T13:02:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_elletownsend" ],
+        "numeric-id" : [ "4308006796" ],
+        "name" : [ "Elle Townsend 🌸" ],
+        "nickname" : [ "_elletownsend" ],
+        "url" : [ "https://twitter.com/_elletownsend", "https://www.elletownsend.co.uk" ],
+        "published" : [ "2015-11-28T14:28:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237757944089006086/67Kjy-LA.jpg" ]
+      }
+    } ],
+    "content" : [ "I don't know what it is but I can't commit to sticking tech stickers anywhere. Is this a thing? I just keep them in an envelope and hoard them instead?" ]
+  }
+}
