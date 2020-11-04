@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OnlyAWorldAway/status/1324032536092176384" ],
     "name" : [ "Like of @OnlyAWorldAway's tweet" ],
     "published" : [ "2020-11-04T23:26:00+0000" ],
     "like-of" : [ "https://twitter.com/OnlyAWorldAway/status/1324032536092176384" ]
