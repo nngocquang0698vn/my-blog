@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323966574206709760" ],
+    "url" : [ "https://twitter.com/syvzwvn/status/1323966574206709760" ],
+    "published" : [ "2020-11-04T12:33:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:syvzwvn" ],
+        "numeric-id" : [ "36144616" ],
+        "name" : [ "SS" ],
+        "nickname" : [ "syvzwvn" ],
+        "url" : [ "https://twitter.com/syvzwvn", "http://instagram.com/syvzwvn" ],
+        "published" : [ "2009-04-28T18:44:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Shah Alam, Selangor" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1267363000287023105/BBW5V7ge.jpg" ]
+      }
+    } ],
+    "content" : [ "RT for extreme luck" ],
+    "photo" : [ "https://pbs.twimg.com/media/El-sd5ZU0AEn8MT.jpg" ]
+  }
+}
