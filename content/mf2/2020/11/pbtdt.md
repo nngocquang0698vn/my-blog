@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TartanLlama/status/1324328605355331587" ],
     "name" : [ "Like of @TartanLlama's tweet" ],
     "published" : [ "2020-11-05T12:57:00+0000" ],
     "category" : [ "cute" ],
