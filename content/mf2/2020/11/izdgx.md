@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eatingveganwme/status/1324407512385359878" ],
     "name" : [ "Like of @eatingveganwme's tweet" ],
     "published" : [ "2020-11-05T18:38:00+0000" ],
     "category" : [ "food" ],
