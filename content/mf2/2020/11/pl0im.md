@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/syvzwvn/status/1323966574206709760" ],
     "name" : [ "Like of @syvzwvn's tweet" ],
     "published" : [ "2020-11-05T10:51:00+0000" ],
     "like-of" : [ "https://twitter.com/syvzwvn/status/1323966574206709760" ]
