@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324020849230319616" ],
+    "url" : [ "https://twitter.com/shreyas/status/1324020849230319616" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1323795777009844224/vid/1280x720/LmHx9Hixu2pOmFJL.mp4?tag=13" ],
+    "published" : [ "2020-11-04T16:09:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shreyas" ],
+        "numeric-id" : [ "2048741" ],
+        "name" : [ "Shreyas Doshi" ],
+        "nickname" : [ "shreyas" ],
+        "url" : [ "https://twitter.com/shreyas", "https://www.linkedin.com/in/shreyasdoshi" ],
+        "published" : [ "2007-03-23T20:19:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268224036418408449/TFTKnr__.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Superb captioning here😄\n ",
+      "html" : "<div style=\"white-space: pre\">Superb captioning here😄\n </div>"
+    } ]
+  }
+}
