@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324489981813927936" ],
+    "url" : [ "https://twitter.com/jhooks/status/1324489981813927936" ],
+    "published" : [ "2020-11-05T23:13:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jhooks" ],
+        "numeric-id" : [ "12087242" ],
+        "name" : [ "Joel ⛈" ],
+        "nickname" : [ "jhooks" ],
+        "url" : [ "https://twitter.com/jhooks", "https://joelhooks.com", "http://epicreact.dev" ],
+        "published" : [ "2008-01-10T21:54:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vancouver, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319470314204459008/IqmcaXCf.jpg" ]
+      }
+    } ],
+    "content" : [ "fish sauce caramel pork belly in a pillowy steamed bun" ],
+    "photo" : [ "https://pbs.twimg.com/media/EmGInSNVcAA8QNN.jpg" ]
+  }
+}
