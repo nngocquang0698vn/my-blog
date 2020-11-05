@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324417753277747200" ],
+    "url" : [ "https://twitter.com/ThisisDavina/status/1324417753277747200" ],
+    "published" : [ "2020-11-05T18:26:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ThisisDavina" ],
+        "numeric-id" : [ "44101412" ],
+        "name" : [ "Davina McCall" ],
+        "nickname" : [ "ThisisDavina" ],
+        "url" : [ "https://twitter.com/ThisisDavina", "https://www.amazon.co.uk/shop/davinamccall", "http://Instagram.com/davinamccall", "https://browse.entale.co/show/2e601f2b-3c53-4e75-9ded-15e22e5bcd61" ],
+        "published" : [ "2009-06-02T11:25:03+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163834457499082752/0oNKaLEh.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:0188b75e89ed1e0d" ],
+        "name" : [ "Royal Tunbridge Wells, England" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmFG7OaWoAI3DvG.jpg" ]
+  }
+}
