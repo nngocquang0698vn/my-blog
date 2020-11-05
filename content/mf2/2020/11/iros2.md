@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jhooks/status/1324489981813927936" ],
     "name" : [ "Like of @jhooks's tweet" ],
     "published" : [ "2020-11-05T23:53:00+0000" ],
     "category" : [ "food" ],
