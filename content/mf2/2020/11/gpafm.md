@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisisDavina/status/1324417753277747200" ],
     "name" : [ "Like of @ThisisDavina's tweet" ],
     "published" : [ "2020-11-05T20:57:00+0000" ],
     "category" : [ "politics" ],
