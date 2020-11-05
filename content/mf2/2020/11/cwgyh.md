@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shreyas/status/1324020849230319616" ],
     "name" : [ "Like of @shreyas's tweet" ],
     "published" : [ "2020-11-05T12:07:00+0000" ],
     "category" : [ "politics" ],
