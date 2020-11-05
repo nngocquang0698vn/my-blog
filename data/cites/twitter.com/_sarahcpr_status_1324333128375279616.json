@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324333128375279616" ],
+    "url" : [ "https://twitter.com/sarahcpr/status/1324333128375279616" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EmBJ-68XYAAmLnP.mp4" ],
+    "published" : [ "2020-11-05T12:49:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarahcpr" ],
+        "numeric-id" : [ "14642495" ],
+        "name" : [ "Sarah Cooper" ],
+        "nickname" : [ "sarahcpr" ],
+        "url" : [ "https://twitter.com/sarahcpr", "http://sarahcpr.com" ],
+        "published" : [ "2008-05-03T23:30:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319356127621095426/JDWnCvXW.jpg" ]
+      }
+    } ],
+    "content" : [ "Very soothing " ]
+  }
+}
