@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324328605355331587" ],
+    "url" : [ "https://twitter.com/TartanLlama/status/1324328605355331587" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1324328501781110785/pu/vid/720x1280/k_fEdviPlvlA2AF0.mp4?tag=10" ],
+    "published" : [ "2020-11-05T12:31:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TartanLlama" ],
+        "numeric-id" : [ "36158849" ],
+        "name" : [ "Sy Brand" ],
+        "nickname" : [ "TartanLlama" ],
+        "url" : [ "https://twitter.com/TartanLlama" ],
+        "published" : [ "2009-04-28T19:38:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310312422780141568/krvo_oD2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Goofball\n\n[Alt: fluffy cat attacking a scratching post and ending in a silly position]",
+      "html" : "<div style=\"white-space: pre\">Goofball\n\n[Alt: fluffy cat attacking a scratching post and ending in a silly position]</div>"
+    } ]
+  }
+}
