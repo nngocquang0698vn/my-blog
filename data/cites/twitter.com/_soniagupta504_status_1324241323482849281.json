@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324241323482849281" ],
+    "url" : [ "https://twitter.com/soniagupta504/status/1324241323482849281" ],
+    "published" : [ "2020-11-05T06:45:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:soniagupta504" ],
+        "numeric-id" : [ "705330458842701824" ],
+        "name" : [ "Sonia Gupta" ],
+        "nickname" : [ "soniagupta504" ],
+        "url" : [ "https://twitter.com/soniagupta504", "http://www.soniagupta504.com" ],
+        "published" : [ "2016-03-03T09:54:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1287093020362514432/gE5qcPYG.jpg" ]
+      }
+    } ],
+    "content" : [ "Laddu was a little chilly so I tucked her into my sweatshirt. 😄💜" ],
+    "photo" : [ "https://pbs.twimg.com/media/EmCmcRJXUAEZrgj.jpg" ]
+  }
+}
