@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarahcpr/status/1324333128375279616" ],
     "name" : [ "Like of @sarahcpr's tweet" ],
     "published" : [ "2020-11-05T23:37:00+0000" ],
     "category" : [ "politics" ],
