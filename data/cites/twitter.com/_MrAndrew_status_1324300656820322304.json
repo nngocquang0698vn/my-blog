@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324300656820322304" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1324300656820322304" ],
+    "published" : [ "2020-11-05T10:40:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Patrycj91714100/status/1324055030811529220" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'd argue with you but I'm literally sitting here reading this whilst drinking a soya protein shake 😅",
+      "html" : "I'd argue with you but I'm literally sitting here reading this whilst drinking a soya protein shake 😅\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Patrycj91714100\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Strava\"></a>"
+    } ]
+  }
+}
