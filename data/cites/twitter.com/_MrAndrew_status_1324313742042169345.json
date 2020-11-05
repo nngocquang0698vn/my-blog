@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324313742042169345" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1324313742042169345" ],
+    "published" : [ "2020-11-05T11:32:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/TheCorm/status/1323996219316805633" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Oh no! Has Strava prioritising the safety of others mildly inconvenienced you? 😩\n\nIf only me and thousands of others had kept our mouths shut!",
+      "html" : "<div style=\"white-space: pre\">Oh no! Has Strava prioritising the safety of others mildly inconvenienced you? 😩\n\nIf only me and thousands of others had kept our mouths shut!</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Strava\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheCorm\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dr_dferguson\"></a>"
+    } ]
+  }
+}
