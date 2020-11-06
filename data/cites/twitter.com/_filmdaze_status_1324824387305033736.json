@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324824387305033736" ],
+    "url" : [ "https://twitter.com/filmdaze/status/1324824387305033736" ],
+    "published" : [ "2020-11-06T21:22:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:filmdaze" ],
+        "numeric-id" : [ "952936348947828736" ],
+        "name" : [ "Film Daze" ],
+        "nickname" : [ "filmdaze" ],
+        "url" : [ "https://twitter.com/filmdaze", "http://filmdaze.net", "http://patreon.com/filmdaze?fan_l", "http://redbubble.com/people/FilmDaz" ],
+        "published" : [ "2018-01-15T16:11:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Worldwide" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322942044038377479/oRGxDjlt.jpg" ]
+      }
+    } ],
+    "content" : [ "When someone ask you to describe this week’s events" ],
+    "photo" : [ "https://pbs.twimg.com/media/EmK4wiuXYAAJPbn.jpg" ]
+  }
+}
