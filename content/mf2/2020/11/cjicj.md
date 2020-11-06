@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ithayla/status/1324747360665174018" ],
     "name" : [ "Like of @ithayla's tweet" ],
     "published" : [ "2020-11-06T19:21:00+0000" ],
     "like-of" : [ "https://twitter.com/ithayla/status/1324747360665174018" ]
