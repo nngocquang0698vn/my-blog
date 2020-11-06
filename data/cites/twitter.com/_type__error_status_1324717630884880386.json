@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324717630884880386" ],
+    "url" : [ "https://twitter.com/type__error/status/1324717630884880386" ],
+    "published" : [ "2020-11-06T14:17:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321939225835692038/SmnRFJNu.jpg" ]
+      }
+    } ],
+    "content" : [ "Cn anyone recommend an analytics provider that I can use which a) doesn't use cookies and b) respects do-not-track? I want to track pageviews + button clicks to see how many people are using the site (but don't care who they are)." ]
+  }
+}
