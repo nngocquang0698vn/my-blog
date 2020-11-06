@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324802279686443016" ],
+    "url" : [ "https://twitter.com/MJDraperBlake/status/1324802279686443016" ],
+    "published" : [ "2020-11-06T19:54:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MJDraperBlake" ],
+        "numeric-id" : [ "172627922" ],
+        "name" : [ "MJ 🦋" ],
+        "nickname" : [ "MJDraperBlake" ],
+        "url" : [ "https://twitter.com/MJDraperBlake", "http://bit.ly/3714aBZ" ],
+        "published" : [ "2010-07-30T05:02:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324350317203460098/d9YpamQi.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Today is for Beltalowda! #screamingfirehawks",
+      "html" : "Today is for Beltalowda! <a href=\"https://twitter.com/search?q=%23screamingfirehawks\">#screamingfirehawks</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmKkplwXUAElb1y.jpg", "https://pbs.twimg.com/media/EmKkplwXUAI9XpI.jpg" ]
+  }
+}
