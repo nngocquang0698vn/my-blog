@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Emmanue41720182/status/1324546280421548039" ],
     "name" : [ "Like of @Emmanue41720182's tweet" ],
     "published" : [ "2020-11-06T07:58:00+0000" ],
     "category" : [ "politics" ],
