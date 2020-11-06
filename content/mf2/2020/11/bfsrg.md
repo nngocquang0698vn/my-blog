@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/filmdaze/status/1324824387305033736" ],
     "name" : [ "Like of @filmdaze's tweet" ],
     "published" : [ "2020-11-06T21:37:00+0000" ],
     "category" : [ "politics" ],
