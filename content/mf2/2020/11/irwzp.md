@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MJDraperBlake/status/1324802279686443016" ],
     "name" : [ "Like of @MJDraperBlake's tweet" ],
     "published" : [ "2020-11-06T21:34:00+0000" ],
     "category" : [ "the-expanse" ],
