@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devolute/status/1324809566031384576" ],
     "name" : [ "Like of @devolute's tweet" ],
     "published" : [ "2020-11-06T21:33:00+0000" ],
     "like-of" : [ "https://twitter.com/devolute/status/1324809566031384576" ]
