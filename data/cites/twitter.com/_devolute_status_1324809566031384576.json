@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324809566031384576" ],
+    "url" : [ "https://twitter.com/devolute/status/1324809566031384576" ],
+    "published" : [ "2020-11-06T20:23:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:devolute" ],
+        "numeric-id" : [ "17054342" ],
+        "name" : [ "devolute" ],
+        "nickname" : [ "devolute" ],
+        "url" : [ "https://twitter.com/devolute", "http://www.devolute.net" ],
+        "published" : [ "2008-10-29T22:50:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sheffield, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000006339326/b27e918451c61beaf7f97146431bae96.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "2019: Picking a CMS based on templating system, community support, API…\n2020: Picking a CMS based on contributing developer's support for white supremacists.",
+      "html" : "<div style=\"white-space: pre\">2019: Picking a CMS based on templating system, community support, API…\n2020: Picking a CMS based on contributing developer's support for white supremacists.</div>"
+    } ]
+  }
+}
