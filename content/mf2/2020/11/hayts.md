@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dan_spratling/status/1324692831047426049" ],
     "name" : [ "Like of @dan_spratling's tweet" ],
     "published" : [ "2020-11-06T13:13:00+0000" ],
     "category" : [ "blogging" ],
