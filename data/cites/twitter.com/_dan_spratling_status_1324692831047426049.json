@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324692831047426049" ],
+    "url" : [ "https://twitter.com/dan_spratling/status/1324692831047426049" ],
+    "published" : [ "2020-11-06T12:39:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dan_spratling" ],
+        "numeric-id" : [ "426074439" ],
+        "name" : [ "Dan Spratling 🎃" ],
+        "nickname" : [ "dan_spratling" ],
+        "url" : [ "https://twitter.com/dan_spratling", "https://danspratling.dev/" ],
+        "published" : [ "2011-12-01T20:18:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bath, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309071495449247744/ajndJR75.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Blogging is extremely important for any developer\n\n- Sharing your knowledge helps others\n- It reinforces what you already know\n- it shows employers you know what you're talking about\n\nAnd it's never been easier to get started\n\nWhat are you waiting for?",
+      "html" : "<div style=\"white-space: pre\">Blogging is extremely important for any developer\n\n- Sharing your knowledge helps others\n- It reinforces what you already know\n- it shows employers you know what you're talking about\n\nAnd it's never been easier to get started\n\nWhat are you waiting for?</div>"
+    } ]
+  }
+}
