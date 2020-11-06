@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324546280421548039" ],
+    "url" : [ "https://twitter.com/Emmanue41720182/status/1324546280421548039" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1324529950150610945/pu/vid/478x270/5M0ByCYTImonLaIF.mp4?tag=10" ],
+    "published" : [ "2020-11-06T02:56:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Emmanue41720182" ],
+        "numeric-id" : [ "1246541818545741825" ],
+        "name" : [ "Emmanuel" ],
+        "nickname" : [ "Emmanue41720182" ],
+        "url" : [ "https://twitter.com/Emmanue41720182" ],
+        "published" : [ "2020-04-04T20:55:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Earth" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248689644390305792/i2MfFuam.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This video encapsulates everything going on with Donald Trump at the moment. Epic!\n#TrumpMeltdown \n",
+      "html" : "<div style=\"white-space: pre\">This video encapsulates everything going on with Donald Trump at the moment. Epic!\n<a href=\"https://twitter.com/search?q=%23TrumpMeltdown\">#TrumpMeltdown</a> \n</div>"
+    } ]
+  }
+}
