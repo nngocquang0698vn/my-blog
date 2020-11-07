@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WholesomeMeme/status/1324924540019896320" ],
     "name" : [ "Like of @WholesomeMeme's tweet" ],
     "published" : [ "2020-11-07T08:56:00+0000" ],
     "category" : [ "gaming" ],
