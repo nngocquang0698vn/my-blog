@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DanSlott/status/1325127458383917056" ],
     "name" : [ "Like of @DanSlott's tweet" ],
     "published" : [ "2020-11-07T18:56:00+0000" ],
     "category" : [ "politics" ],
