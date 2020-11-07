@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324881731724345345" ],
+    "url" : [ "https://twitter.com/devonbl/status/1324881731724345345" ],
+    "published" : [ "2020-11-07T01:09:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:devonbl" ],
+        "numeric-id" : [ "42673587" ],
+        "name" : [ "✨gold dust woman✨" ],
+        "nickname" : [ "devonbl" ],
+        "url" : [ "https://twitter.com/devonbl", "http://pronoun.is/she" ],
+        "published" : [ "2009-05-26T17:36:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295432298288955392/reYEJszh.jpg" ]
+      }
+    } ],
+    "content" : [ "This week I went from being the tech lead for a ~70 person vertical to ~250 & I’m so stoked to work in an org where women are empowered to stay on a technical path w/out going into management. I’ll pull you all through this glass ceiling w/ me." ]
+  }
+}
