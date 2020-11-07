@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/snarfed/bridgy/issues/872" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/snarfed/bridgy/issues/872#issuecomment-723421437" ],
     "name" : [ "Reply to https://github.com/snarfed/bridgy/issues/872" ],
     "published" : [ "2020-11-07T09:06:00+0000" ],
     "content" : [ {
