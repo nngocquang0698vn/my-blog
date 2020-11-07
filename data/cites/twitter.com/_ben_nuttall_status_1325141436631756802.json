@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325141436631756802" ],
+    "url" : [ "https://twitter.com/ben_nuttall/status/1325141436631756802" ],
+    "published" : [ "2020-11-07T18:21:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ben_nuttall" ],
+        "numeric-id" : [ "27241881" ],
+        "name" : [ "Ben Nuttall" ],
+        "nickname" : [ "ben_nuttall" ],
+        "url" : [ "https://twitter.com/ben_nuttall", "https://bennuttall.com" ],
+        "published" : [ "2009-03-28T15:00:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cambridgeshire, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/528155792013160448/cobxlRc8.jpeg" ]
+      }
+    } ],
+    "content" : [ "Spoke to my Mum the other night, she says my Dad has a cough. I say make sure he gets a test. She says it's probably fine, he gets a cough every year. I say make sure he gets a test. So they book one, he's adamant he doesn't have it. It comes back positive and now he's isolating." ]
+  }
+}
