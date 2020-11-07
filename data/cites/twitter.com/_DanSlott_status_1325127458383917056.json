@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325127458383917056" ],
+    "url" : [ "https://twitter.com/DanSlott/status/1325127458383917056" ],
+    "published" : [ "2020-11-07T17:26:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DanSlott" ],
+        "numeric-id" : [ "53358442" ],
+        "name" : [ "𝙳𝚊𝚗 𝚂𝚕𝚘𝚝𝚝" ],
+        "nickname" : [ "DanSlott" ],
+        "url" : [ "https://twitter.com/DanSlott" ],
+        "published" : [ "2009-07-03T11:14:00+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319251468130701313/-TD1gYSm.jpg" ]
+      }
+    } ],
+    "content" : [ "All these videos really are like the end of Return of the Jedi." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1325114019603210240" ],
+      "url" : [ "https://twitter.com/DaintreeGross/status/1325114019603210240" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1325113989546782720/pu/vid/720x1280/AK1anH_zwzQYlDAd.mp4?tag=10" ],
+      "published" : [ "2020-11-07T16:32:56+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:DaintreeGross" ],
+          "numeric-id" : [ "305341686" ],
+          "name" : [ "Alison Daintree Gross" ],
+          "nickname" : [ "DaintreeGross" ],
+          "url" : [ "https://twitter.com/DaintreeGross", "https://www.daintreeadvisory.com" ],
+          "published" : [ "2011-05-26T01:47:15+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York City" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1303801995556458511/ZicMbCWT.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "NY celebration 11:30 am #bidenharis2020",
+        "html" : "NY celebration 11:30 am <a href=\"https://twitter.com/search?q=%23bidenharis2020\">#bidenharis2020</a>"
+      } ]
+    }
+  } ]
+}
