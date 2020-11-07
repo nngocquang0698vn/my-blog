@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devonbl/status/1324881731724345345" ],
     "name" : [ "Like of @devonbl's tweet" ],
     "published" : [ "2020-11-07T12:12:00+0000" ],
     "like-of" : [ "https://twitter.com/devonbl/status/1324881731724345345" ]
