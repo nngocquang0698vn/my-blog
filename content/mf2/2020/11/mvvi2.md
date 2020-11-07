@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben_nuttall/status/1325141436631756802" ],
     "name" : [ "Like of @ben_nuttall's tweet" ],
     "published" : [ "2020-11-07T18:37:00+0000" ],
     "category" : [ "coronavirus" ],
