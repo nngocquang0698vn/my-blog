@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/moriahmaney/status/1325108832272584705" ],
     "name" : [ "Like of @moriahmaney's tweet" ],
     "published" : [ "2020-11-07T18:26:00+0000" ],
     "category" : [ "gatekeeping" ],
