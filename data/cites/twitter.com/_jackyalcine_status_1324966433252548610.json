@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1324966433252548610" ],
+    "url" : [ "https://twitter.com/jackyalcine/status/1324966433252548610" ],
+    "published" : [ "2020-11-07T06:46:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jackyalcine" ],
+        "numeric-id" : [ "1262855987993563136" ],
+        "name" : [ "jacky." ],
+        "nickname" : [ "jackyalcine" ],
+        "url" : [ "https://twitter.com/jackyalcine", "https://v2.jacky.wtf" ],
+        "published" : [ "2020-05-19T21:22:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chochenyo/Ohlone (Bay Area)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320797053195177984/0o98FdKs.jpg" ]
+      }
+    } ],
+    "content" : [ "One of the most slept one actors of our time tbh" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1321891787699589123" ],
+      "url" : [ "https://twitter.com/quiethandfilms/status/1321891787699589123" ],
+      "published" : [ "2020-10-29T19:08:56+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:quiethandfilms" ],
+          "numeric-id" : [ "76777454" ],
+          "name" : [ "Giancarlo Esposito" ],
+          "nickname" : [ "quiethandfilms" ],
+          "url" : [ "https://twitter.com/quiethandfilms", "http://www.facebook.com/officialGiancarloEsposito" ],
+          "published" : [ "2009-09-23T22:30:25+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1252443207205629954/Krs8JUlu.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "How it                        How it's \nstarted:                     going:",
+        "html" : "<div style=\"white-space: pre\">How it                        How it's \nstarted:                     going:</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/ElhNkzOX0AMOfjV.jpg", "https://pbs.twimg.com/media/ElhNkzJXIAUmbxj.jpg" ]
+    }
+  } ]
+}
