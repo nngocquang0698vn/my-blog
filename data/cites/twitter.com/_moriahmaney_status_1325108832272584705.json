@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325108832272584705" ],
+    "url" : [ "https://twitter.com/moriahmaney/status/1325108832272584705" ],
+    "published" : [ "2020-11-07T16:12:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:moriahmaney" ],
+        "numeric-id" : [ "928949262" ],
+        "name" : [ "moriah 🍁" ],
+        "nickname" : [ "moriahmaney" ],
+        "url" : [ "https://twitter.com/moriahmaney", "http://moriah.dev" ],
+        "published" : [ "2012-11-06T03:59:00+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324532062800486402/9GYIie4v.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm a senior software engineer. From 16 to my early 20s I was a fast food worker. \n\nFast food work is definitely harder and you are not the kind of person who should be gatekeeping ✌🏻",
+      "html" : "<div style=\"white-space: pre\">I'm a senior software engineer. From 16 to my early 20s I was a fast food worker. \n\nFast food work is definitely harder and you are not the kind of person who should be gatekeeping ✌🏻</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1324899330893996036" ],
+      "url" : [ "https://twitter.com/BungaHead/status/1324899330893996036" ],
+      "published" : [ "2020-11-07T02:19:50+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/CurtisHouck/status/1324896645297954816" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:BungaHead" ],
+          "numeric-id" : [ "1338086125" ],
+          "name" : [ "Bᴜɴɢᴀ 𝙎𝙪𝙥𝙚𝙧𝙨𝙥𝙧𝙚𝙖𝙙𝙚𝙧 Hᴇᴀᴅ" ],
+          "nickname" : [ "BungaHead" ],
+          "url" : [ "https://twitter.com/BungaHead" ],
+          "published" : [ "2013-04-09T02:03:12+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Tarkov, Russia" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1324001533047001091/foPUdmii.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I'm a programmer. It's hard work. Takes a certain kind of person to do it.\n\nMost fast-food workers can't get my no-cheese order right or give change without it being spelled out, what's make you think they can troubleshoot any markup language?",
+        "html" : "<div style=\"white-space: pre\">I'm a programmer. It's hard work. Takes a certain kind of person to do it.\n\nMost fast-food workers can't get my no-cheese order right or give change without it being spelled out, what's make you think they can troubleshoot any markup language?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ComfortablySmug\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CurtisHouck\"></a>"
+      } ]
+    }
+  } ]
+}
