@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Cassetteboy/status/1324978916986138625" ],
     "name" : [ "Like of @Cassetteboy's tweet" ],
     "published" : [ "2020-11-07T12:13:00+0000" ],
     "category" : [ "politics" ],
