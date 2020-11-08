@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325549390518489091" ],
+    "url" : [ "https://twitter.com/minogua_hd/status/1325549390518489091" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1325547683378044929/pu/vid/1280x720/4QPNf1oDJV7jODos.mp4?tag=10" ],
+    "published" : [ "2020-11-08T21:22:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/superskrong/status/1325544002582671362" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:minogua_hd" ],
+        "numeric-id" : [ "1044663490819084288" ],
+        "name" : [ "MiNOGUA HD" ],
+        "nickname" : [ "minogua_hd" ],
+        "url" : [ "https://twitter.com/minogua_hd", "https://www.fiverr.com/users/jonathan_adam" ],
+        "published" : [ "2018-09-25T19:02:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Normal, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300117169410277383/E5K3KhEj.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "No joker make-up cuz I’m just on my phone but here’s an edit",
+      "html" : "No joker make-up cuz I’m just on my phone but here’s an edit\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/superskrong\"></a>"
+    } ]
+  }
+}
