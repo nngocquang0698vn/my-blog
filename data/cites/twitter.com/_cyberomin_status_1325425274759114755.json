@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325425274759114755" ],
+    "url" : [ "https://twitter.com/cyberomin/status/1325425274759114755" ],
+    "published" : [ "2020-11-08T13:09:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cyberomin" ],
+        "numeric-id" : [ "58825393" ],
+        "name" : [ "Cee" ],
+        "nickname" : [ "cyberomin" ],
+        "url" : [ "https://twitter.com/cyberomin", "https://cyberomin.github.io" ],
+        "published" : [ "2009-07-21T15:29:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Earth" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1059070783534874625/laY_Knab.jpg" ]
+      }
+    } ],
+    "content" : [ "I will one day invite my university lecturer to GitHub, and when they accept, I will assign a bug/feature to them and ask them to fix/build it based on the knowledge the “transferred” to us about 10 years ago." ]
+  }
+}
