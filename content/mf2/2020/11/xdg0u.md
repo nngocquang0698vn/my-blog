@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wonderofscience/status/1324831130831343616" ],
     "name" : [ "Like of @wonderofscience's tweet" ],
     "published" : [ "2020-11-08T09:40:00+0000" ],
     "category" : [ "nature" ],
