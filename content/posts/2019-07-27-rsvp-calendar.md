@@ -37,3 +37,5 @@ I already had some of the data, so I could probably enhance the contents of the 
 Once I'd added all of those, it was then a case of creating a calendar for it. Fortunately, I'd [already done this with a calendar for Homebrew Website Club]({{< ref "2019-05-22-ical-events-hugo" >}}) which is straightforward with Hugo, so all I needed to do was map the RSVP's data to a calendar entry.
 
 And there you go, I now have [a handy iCalendar link](/rsvps/index.ics) to an always up to date calendar of all my RSVPs - awesome! And because it's all up on my website, this link is available for anyone who also wants to follow me to events.
+
+Update 2020-11-08: Make sure you run your calendar through an [iCalendar validator](https://icalendar.org/validator.html), otherwise [you may find that the iCalendar feed gets rejected](https://support.google.com/calendar/thread/80729304?hl=en).
