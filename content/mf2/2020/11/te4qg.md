@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZackBornstein/status/1325274318218035201" ],
     "name" : [ "Like of @ZackBornstein's tweet" ],
     "published" : [ "2020-11-08T21:54:00+0000" ],
     "category" : [ "politics" ],
