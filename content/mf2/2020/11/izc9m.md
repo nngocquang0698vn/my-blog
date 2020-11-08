@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cyberomin/status/1325425274759114755" ],
     "name" : [ "Like of @cyberomin's tweet" ],
     "published" : [ "2020-11-08T22:57:00+0000" ],
     "category" : [ "university" ],
