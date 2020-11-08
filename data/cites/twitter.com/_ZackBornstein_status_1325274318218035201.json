@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325274318218035201" ],
+    "url" : [ "https://twitter.com/ZackBornstein/status/1325274318218035201" ],
+    "published" : [ "2020-11-08T03:09:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ZackBornstein" ],
+        "numeric-id" : [ "51654515" ],
+        "name" : [ "Zack Bornstein" ],
+        "nickname" : [ "ZackBornstein" ],
+        "url" : [ "https://twitter.com/ZackBornstein", "http://bornsteinzack.com" ],
+        "published" : [ "2009-06-28T04:55:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323726149399138305/8rYrumSg.jpg" ]
+      }
+    } ],
+    "content" : [ "I could write jokes for 800 years and I'd never think of something funnier than Trump booking the Four Seasons for his big presser, and it turning out to be the Four Seasons Total Landscaping parking lot between a dildo store and a crematorium." ],
+    "photo" : [ "https://pbs.twimg.com/media/EmRRzFHUcAAD9f5.jpg" ]
+  }
+}
