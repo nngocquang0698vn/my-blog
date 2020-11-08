@@ -1,0 +1,62 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325495774524788736" ],
+    "url" : [ "https://twitter.com/swyx/status/1325495774524788736" ],
+    "published" : [ "2020-11-08T17:49:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "name" : [ "shawn swyx wang" ],
+        "nickname" : [ "swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Singapore 🇸🇬 " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1201029434054041606/efWs7Lr9.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My TLDR of \"Crossing the Enterprise Chasm\":\n\n- Everyone needs to add enterprise features eventually\n- It's complicated and boring\n- They all want the same things (enterpriseready.io)\n\nSo let @WorkOS do it and maintain it: workos.com/blog/crossing-… https://t.co/jsEcvmXd1T",
+      "html" : "<div style=\"white-space: pre\">My TLDR of \"Crossing the Enterprise Chasm\":\n\n- Everyone needs to add enterprise features eventually\n- It's complicated and boring\n- They all want the same things (<a href=\"http://enterpriseready.io\">enterpriseready.io</a>)\n\nSo let <a href=\"https://twitter.com/WorkOS\">@WorkOS</a> do it and maintain it: <a href=\"https://workos.com/blog/crossing-the-enterprise-chasm\">workos.com/blog/crossing-…</a> https://t.co/jsEcvmXd1T</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmUaF1SVcAEzCRt.png", "https://pbs.twimg.com/media/EmUaP-EUcAAmHIF.png", "https://pbs.twimg.com/media/EmUamGnU0AEgp_N.jpg", "https://pbs.twimg.com/media/EmUa-bIVkAM1M3N.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1237120381820891138" ],
+      "url" : [ "https://twitter.com/briannekimmel/status/1237120381820891138" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1237109715475152896/pu/vid/1280x720/ZFh30VyE_-Pd19Ie.mp4?tag=10" ],
+      "published" : [ "2020-03-09T20:57:38+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:briannekimmel" ],
+          "numeric-id" : [ "79275814" ],
+          "name" : [ "Brianne Kimmel" ],
+          "nickname" : [ "briannekimmel" ],
+          "url" : [ "https://twitter.com/briannekimmel", "https://www.eventbrite.com/o/worklife-vc-31364864859" ],
+          "published" : [ "2009-10-02T20:11:00+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1321580891349557248/Dke4iP1D.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "As companies prepare for a new economic environment \n\nI highly encourage startups to start layering in new revenue streams and land larger customers sooner \n\nIn this talk @grinich shares tactically how to move into enterprise as an early stage, product-led company:",
+        "html" : "<div style=\"white-space: pre\">As companies prepare for a new economic environment \n\nI highly encourage startups to start layering in new revenue streams and land larger customers sooner \n\nIn this talk <a href=\"https://twitter.com/grinich\">@grinich</a> shares tactically how to move into enterprise as an early stage, product-led company:</div>"
+      } ]
+    }
+  } ]
+}
