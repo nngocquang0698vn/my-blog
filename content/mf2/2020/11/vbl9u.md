@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukeExton/status/1325909238565249024" ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2020-11-09T22:34:00+0000" ],
     "like-of" : [ "https://twitter.com/LukeExton/status/1325909238565249024" ]
