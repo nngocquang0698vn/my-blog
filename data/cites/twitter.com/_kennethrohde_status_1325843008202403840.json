@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325843008202403840" ],
+    "url" : [ "https://twitter.com/kennethrohde/status/1325843008202403840" ],
+    "published" : [ "2020-11-09T16:49:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kennethrohde" ],
+        "numeric-id" : [ "43562385" ],
+        "name" : [ "KΞNNY⚡" ],
+        "nickname" : [ "kennethrohde" ],
+        "url" : [ "https://twitter.com/kennethrohde" ],
+        "published" : [ "2009-05-30T17:40:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Copenhagen, Denmark" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325555681752215552/1rHe-l3e.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Our vegetarian night is very meat'y with a couple of @BeyondMeat burgers\n\nPretty darn good, but I also really like the Hälsans Kök Sensational Burger",
+      "html" : "<div style=\"white-space: pre\">Our vegetarian night is very meat'y with a couple of <a href=\"https://twitter.com/BeyondMeat\">@BeyondMeat</a> burgers\n\nPretty darn good, but I also really like the Hälsans Kök Sensational Burger</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmZWo6lWMAEH4yX.jpg", "https://pbs.twimg.com/media/EmZWo6lWMAI5z3u.jpg", "https://pbs.twimg.com/media/EmZWo6oXIAAlx06.jpg" ]
+  }
+}
