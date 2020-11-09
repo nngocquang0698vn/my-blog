@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325804840640016386" ],
+    "url" : [ "https://twitter.com/technottingham/status/1325804840640016386" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1325804425148047362/pu/vid/1280x720/fdtnh9HhwltlYk63.mp4?tag=10" ],
+    "published" : [ "2020-11-09T14:18:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#NottTechParty Save the date - Wednesday 9th December!  \n\nTicket details coming soon",
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23NottTechParty\">#NottTechParty</a> Save the date - Wednesday 9th December!  \n\nTicket details coming soon</div>"
+    } ]
+  }
+}
