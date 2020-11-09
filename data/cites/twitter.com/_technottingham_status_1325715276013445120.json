@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1325715276013445120" ],
+    "url" : [ "https://twitter.com/technottingham/status/1325715276013445120" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EmXjAsyXIAAMxjr.mp4" ],
+    "published" : [ "2020-11-09T08:22:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "📣 TONIGHT! 📣\n\nJoin us for this month's #TechNott from 6:30pm 🎉\n\nWe'll have the awesome @DevonCockram with her talk \"Can I speak to the tech guy?\". We'll also have a fun activity and prizes! 🎁\n\nSee you there! 🙌🏼\n\nAll the deets 👇🏼\nnott.tech/tn-nov-2020",
+      "html" : "<div style=\"white-space: pre\">📣 TONIGHT! 📣\n\nJoin us for this month's <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> from 6:30pm 🎉\n\nWe'll have the awesome <a href=\"https://twitter.com/DevonCockram\">@DevonCockram</a> with her talk \"Can I speak to the tech guy?\". We'll also have a fun activity and prizes! 🎁\n\nSee you there! 🙌🏼\n\nAll the deets 👇🏼\n<a href=\"http://nott.tech/tn-nov-2020\">nott.tech/tn-nov-2020</a></div>"
+    } ]
+  }
+}
