@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PHPMinds/status/1326282554912231424" ],
     "name" : [ "Like of @PHPMinds's tweet" ],
     "published" : [ "2020-11-10T22:08:44.519Z" ],
     "like-of" : [ "https://twitter.com/PHPMinds/status/1326282554912231424" ]
