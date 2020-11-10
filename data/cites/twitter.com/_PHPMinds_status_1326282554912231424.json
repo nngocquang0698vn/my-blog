@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1326282554912231424" ],
+    "url" : [ "https://twitter.com/PHPMinds/status/1326282554912231424" ],
+    "published" : [ "2020-11-10T21:56:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PHPMinds" ],
+        "numeric-id" : [ "3439822277" ],
+        "name" : [ "php[minds]" ],
+        "nickname" : [ "PHPMinds" ],
+        "url" : [ "https://twitter.com/PHPMinds", "http://phpminds.org" ],
+        "published" : [ "2015-08-25T20:21:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/657150588598136832/ce53N4Je.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Looking forward to our next meetup 12th Nov 18:30 bst - @Mark_Baker #phpc  more details at phpminds.org \nThanks to the support this month from @wearejh  and @technottingham",
+      "html" : "<div style=\"white-space: pre\">Looking forward to our next meetup 12th Nov 18:30 bst - <a href=\"https://twitter.com/Mark_Baker\">@Mark_Baker</a> <a href=\"https://twitter.com/search?q=%23phpc\">#phpc</a>  more details at <a href=\"https://phpminds.org\">phpminds.org</a> \nThanks to the support this month from <a href=\"https://twitter.com/wearejh\">@wearejh</a>  and <a href=\"https://twitter.com/technottingham\">@technottingham</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmfmuMRW4AEXEOM.jpg" ]
+  }
+}
