@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yoyomorena/status/1326280839827611650" ],
     "name" : [ "Like of @yoyomorena's tweet" ],
     "published" : [ "2020-11-10T22:14:00+0000" ],
     "category" : [ "politics" ],
