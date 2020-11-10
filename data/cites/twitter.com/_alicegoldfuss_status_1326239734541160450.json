@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1326239734541160450" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1326239734541160450" ],
+    "published" : [ "2020-11-10T19:06:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "name" : [ "mechanical turkey" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/", "http://twitch.tv/bletchleypunk" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ]
+      }
+    } ],
+    "content" : [ "*pats my chest* we're safe" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1326181841762738176" ],
+      "url" : [ "https://twitter.com/Independent/status/1326181841762738176" ],
+      "published" : [ "2020-11-10T15:16:05+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Independent" ],
+          "numeric-id" : [ "16973333" ],
+          "name" : [ "The Independent" ],
+          "nickname" : [ "Independent" ],
+          "url" : [ "https://twitter.com/Independent", "http://independent.co.uk", "http://independent.onelink.me/wgiA/cfc" ],
+          "published" : [ "2008-10-26T00:00:29+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1148561910134202369/DRu4DQGV.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Climate crisis could kill off great tits, scientists warn independent.co.uk/environment/cl…",
+        "html" : "Climate crisis could kill off great tits, scientists warn <a href=\"https://www.independent.co.uk/environment/climate-change-birds-great-tits-extinct-b1720406.html?utm_content=Echobox&utm_medium=Social&utm_source=Twitter#Echobox=1605020491\">independent.co.uk/environment/cl…</a>"
+      } ]
+    }
+  } ]
+}
