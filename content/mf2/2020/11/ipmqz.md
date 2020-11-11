@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChadGrenier/status/1326229479945990144" ],
     "name" : [ "Like of @ChadGrenier's tweet" ],
     "published" : [ "2020-11-11T15:25:00+0000" ],
     "category" : [ "apex-legends" ],
