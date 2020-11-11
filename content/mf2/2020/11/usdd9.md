@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/garybernhardt/status/1326638179038892032" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1326649016000638976" ],
     "name" : [ "Reply to https://twitter.com/garybernhardt/status/1326638179038892032" ],
     "published" : [ "2020-11-11T22:08:00+0000" ],
     "category" : [ "vim" ],
