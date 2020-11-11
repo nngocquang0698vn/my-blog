@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1326540688939339783" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2020-11-11T16:46:00+0000" ],
     "category" : [ "accessibility" ],
