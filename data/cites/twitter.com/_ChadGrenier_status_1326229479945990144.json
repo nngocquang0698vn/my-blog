@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1326229479945990144" ],
+    "url" : [ "https://twitter.com/ChadGrenier/status/1326229479945990144" ],
+    "published" : [ "2020-11-10T18:25:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChadGrenier" ],
+        "numeric-id" : [ "41494136" ],
+        "name" : [ "Chad Grenier" ],
+        "nickname" : [ "ChadGrenier" ],
+        "url" : [ "https://twitter.com/ChadGrenier" ],
+        "published" : [ "2009-05-21T00:55:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408759827/229575_10150165007017541_584547540_7110091_1803097_n.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "In last week's Reddit AMA, I said we had more changes to the S7 Battle Pass planned.\n\nStarting today, we're reverting the difficulty of the daily challenges to S6 levels while keeping the number of stars rewarded the same.\n\nSee image below for the before-and-after comparison:",
+      "html" : "<div style=\"white-space: pre\">In last week's Reddit AMA, I said we had more changes to the S7 Battle Pass planned.\n\nStarting today, we're reverting the difficulty of the daily challenges to S6 levels while keeping the number of stars rewarded the same.\n\nSee image below for the before-and-after comparison:</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eme15FWUcAEaGAP.png" ]
+  }
+}
