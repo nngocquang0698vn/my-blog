@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1326811981291122689" ],
+    "url" : [ "https://twitter.com/addyosmani/status/1326811981291122689" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1326434846130925569/vid/426x234/Ls077-Cm8VNtQdOn.mp4?tag=13" ],
+    "published" : [ "2020-11-12T09:00:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:addyosmani" ],
+        "numeric-id" : [ "35432643" ],
+        "name" : [ "Addy Osmani" ],
+        "nickname" : [ "addyosmani" ],
+        "url" : [ "https://twitter.com/addyosmani", "https://www.teejungle.net" ],
+        "published" : [ "2009-04-26T08:40:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mountain View, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314736521266655232/C1z6UclE.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Developing web apps with Node (h/t bit.ly/nodecat)",
+      "html" : "Developing web apps with Node (h/t <a href=\"http://bit.ly/nodecat\">bit.ly/nodecat</a>)"
+    } ]
+  }
+}
