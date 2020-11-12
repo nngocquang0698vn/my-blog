@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/addyosmani/status/1326811981291122689" ],
     "name" : [ "Like of @addyosmani's tweet" ],
     "published" : [ "2020-11-12T12:33:00+0000" ],
     "category" : [ "nodejs", "npm" ],
