@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/jackyalcine/status/1327373186170642432" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1327382670318440449" ],
     "name" : [ "Reply to https://twitter.com/jackyalcine/status/1327373186170642432" ],
     "published" : [ "2020-11-13T22:42:00+0000" ],
     "content" : [ {
