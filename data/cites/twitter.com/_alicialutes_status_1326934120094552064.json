@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1326934120094552064" ],
+    "url" : [ "https://twitter.com/alicialutes/status/1326934120094552064" ],
+    "published" : [ "2020-11-12T17:05:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alicialutes" ],
+        "numeric-id" : [ "21363690" ],
+        "name" : [ "Alicia Lutes" ],
+        "nickname" : [ "alicialutes" ],
+        "url" : [ "https://twitter.com/alicialutes", "http://instagram.com/alicialutes" ],
+        "published" : [ "2009-02-20T01:53:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1264935358002638849/yzykbVYW.jpg" ]
+      }
+    } ],
+    "content" : [ "This whole “another” lockdown thing, like some of us ever left the first one??????" ]
+  }
+}
