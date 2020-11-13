@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bitandbang/status/1327303941093289990" ],
     "name" : [ "Like of @bitandbang's tweet" ],
     "published" : [ "2020-11-13T22:54:00+0000" ],
     "category" : [ "code-review" ],
