@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327359749218820097" ],
+    "url" : [ "https://twitter.com/TheoShantonas/status/1327359749218820097" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1327359693128339458/pu/vid/362x640/kkXTeToebkH73z14.mp4?tag=10" ],
+    "published" : [ "2020-11-13T21:16:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheoShantonas" ],
+        "numeric-id" : [ "1139951615857823746" ],
+        "name" : [ "Theo Shantonas" ],
+        "nickname" : [ "TheoShantonas" ],
+        "url" : [ "https://twitter.com/TheoShantonas", "http://instagram.com/TheoShantonas" ],
+        "published" : [ "2019-06-15T17:43:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Richmond, London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323423312924549120/-YBDoxSi.jpg" ]
+      }
+    } ],
+    "content" : [ "This Maori baby learning the Haka Dance is everything i want to see from the internet 💪🤗" ]
+  }
+}
