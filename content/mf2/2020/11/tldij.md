@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CanYouPetTheDog/status/1327059983113056257" ],
     "name" : [ "Like of @CanYouPetTheDog's tweet" ],
     "published" : [ "2020-11-13T10:59:00+0000" ],
     "category" : [ "gaming", "cute" ],
