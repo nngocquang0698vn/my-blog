@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1327307511226052609" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2020-11-13T19:05:00+0000" ],
     "category" : [ "politics" ],
