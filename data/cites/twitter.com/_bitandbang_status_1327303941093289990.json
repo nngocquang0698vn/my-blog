@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327303941093289990" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1327303941093289990" ],
+    "published" : [ "2020-11-13T17:34:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "name" : [ "Tierney Cyren 🍑" ],
+        "nickname" : [ "bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manhattan, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274345571940208642/JFMpVpsW.jpg" ]
+      }
+    } ],
+    "content" : [ "PR reviews" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1326830175305207808" ],
+      "url" : [ "https://twitter.com/hollyshortall/status/1326830175305207808" ],
+      "published" : [ "2020-11-12T10:12:19+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:hollyshortall" ],
+          "numeric-id" : [ "499303352" ],
+          "name" : [ "holly✨" ],
+          "nickname" : [ "hollyshortall" ],
+          "url" : [ "https://twitter.com/hollyshortall" ],
+          "published" : [ "2012-02-22T00:17:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "manchester" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322935298154782725/RlGpr1QZ.jpg" ]
+        }
+      } ],
+      "content" : [ "What’s something that FEELS like a personal attack on you but isn’t?" ]
+    }
+  } ]
+}
