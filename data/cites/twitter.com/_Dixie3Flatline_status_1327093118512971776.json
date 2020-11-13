@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327093118512971776" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1327093118512971776" ],
+    "published" : [ "2020-11-13T03:37:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove is spooky year-round" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318969630161989637/FRIZ42Cz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A thing I miss about virtual conferences is coordinating my shirt with my content. Since the focal length on my camera lens prevents me from showing off my shirt while I talk, here's a selfie. Come see me talk gatekeeping at #AllDayDevOps at 11:30pm Eastern!",
+      "html" : "A thing I miss about virtual conferences is coordinating my shirt with my content. Since the focal length on my camera lens prevents me from showing off my shirt while I talk, here's a selfie. Come see me talk gatekeeping at <a href=\"https://twitter.com/search?q=%23AllDayDevOps\">#AllDayDevOps</a> at 11:30pm Eastern!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EmrHxsMVkAY0sRG.jpg" ]
+  }
+}
