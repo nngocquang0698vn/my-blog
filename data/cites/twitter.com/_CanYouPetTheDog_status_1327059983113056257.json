@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327059983113056257" ],
+    "url" : [ "https://twitter.com/CanYouPetTheDog/status/1327059983113056257" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1327059864477110281/pu/vid/640x640/J8CRoPfAwLBR7-Lk.mp4?tag=10" ],
+    "published" : [ "2020-11-13T01:25:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CanYouPetTheDog" ],
+        "numeric-id" : [ "1102974090581864448" ],
+        "name" : [ "Can You Pet the Dog?" ],
+        "nickname" : [ "CanYouPetTheDog" ],
+        "url" : [ "https://twitter.com/CanYouPetTheDog", "https://store.steampowered.com/curator/37676062/" ],
+        "published" : [ "2019-03-05T16:48:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "canyoupetthedog@gmail.com" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1213615403659931649/rsbz_rJe.png" ]
+      }
+    } ],
+    "content" : [ "You can pet the cat in Spider-Man: Miles Morales" ]
+  }
+}
