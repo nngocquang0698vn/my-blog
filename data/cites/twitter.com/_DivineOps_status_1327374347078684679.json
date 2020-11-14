@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327374347078684679" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1327374347078684679" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1327374051346669569/pu/vid/640x1136/igI_h91CN0a6uGFb.mp4?tag=10" ],
+    "published" : [ "2020-11-13T22:14:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295359243344896000/-JR7AUqx.jpg" ]
+      }
+    } ],
+    "content" : [ "Crunch crunch crunch 🥣" ]
+  }
+}
