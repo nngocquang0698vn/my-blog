@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327713715777626113" ],
+    "url" : [ "https://twitter.com/penelope_zone/status/1327713715777626113" ],
+    "published" : [ "2020-11-14T20:43:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:penelope_zone" ],
+        "numeric-id" : [ "44341873" ],
+        "name" : [ "Penelope is a code sorceress" ],
+        "nickname" : [ "penelope_zone" ],
+        "url" : [ "https://twitter.com/penelope_zone", "https://penelope.zone", "http://rubycentral.org" ],
+        "published" : [ "2009-06-03T11:41:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "avi by @vercher_ink" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1245788043275108353/tusv5JYP.jpg" ]
+      }
+    } ],
+    "content" : [ "Open source!!!!!!!!" ],
+    "photo" : [ "https://pbs.twimg.com/media/Emz8jg2XMAAIu7X.jpg" ]
+  }
+}
