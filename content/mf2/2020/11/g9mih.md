@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WiT_Notts/status/1327642495677829120" ],
     "name" : [ "Like of @WiT_Notts's tweet" ],
     "published" : [ "2020-11-14T16:00:00+0000" ],
     "like-of" : [ "https://twitter.com/WiT_Notts/status/1327642495677829120" ]
