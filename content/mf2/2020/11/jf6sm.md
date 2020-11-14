@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1327571928639557633" ],
     "photo" : [ {
       "alt" : "Black cat flopped on his side, with all his paws collected together, looking at the camera",
       "photo" : "https://media.jvt.me/b81b43698d.jpeg"
