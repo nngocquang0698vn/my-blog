@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327714284567101441" ],
+    "url" : [ "https://twitter.com/sgrif/status/1327714284567101441" ],
+    "published" : [ "2020-11-14T20:45:27+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/penelope_zone/status/1327713715777626113" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sgrif" ],
+        "numeric-id" : [ "17656843" ],
+        "name" : [ "Siân Griffin 🏳️‍⚧️" ],
+        "nickname" : [ "sgrif" ],
+        "url" : [ "https://twitter.com/sgrif", "https://www.patreon.com/seantheprogrammer", "http://crates.io" ],
+        "published" : [ "2008-11-26T19:10:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Albuquerque, NM" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289611776775004160/Zoakxm7Z.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "open source maintainers🤝parents\n     spending your life dealing with people who\n              think you owe them something",
+      "html" : "<div style=\"white-space: pre\">open source maintainers🤝parents\n     spending your life dealing with people who\n              think you owe them something</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/penelope_zone\"></a>"
+    } ]
+  }
+}
