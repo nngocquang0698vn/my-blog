@@ -54,6 +54,7 @@ to = "/mf2/2020/03/bl33l/"
   posts = "/posts/:year/:month/:day/:slug/"
   tags = "/tags/:title/"
   kinds = "/kind/:title/"
+  week-notes = "/week-notes/:year/:filename/"
 
 [taxonomies]
   kind = "kind"

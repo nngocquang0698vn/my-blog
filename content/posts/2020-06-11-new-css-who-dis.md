@@ -13,7 +13,7 @@ If you're reading this, you're now in the future - my site's design has changed,
 
 Last week, I was reading [a blog post](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) by [Christine Dodrill](https://christine.website) and something stuck out to me after I'd finished reading, and went about my day. I realised that I _really_ liked the site design. It had a great style, the colours looked great, and it had a nice feel that I'd had with the theme I used back with Jekyll called [daktilo](https://github.com/kronik3r/daktilo/).
 
-[In my week notes]({{< ref 2020-06-07-week-notes-23 >}}), I mentioned that I'd be looking into it - but while looking I saw that Christine had a colour scheme based on [gruvbox](https://github.com/morhetz/gruvbox) which is my current favourite colour scheme - so I felt that it was meant to be!
+[In my week notes](/week-notes/2020/23/), I mentioned that I'd be looking into it - but while looking I saw that Christine had a colour scheme based on [gruvbox](https://github.com/morhetz/gruvbox) which is my current favourite colour scheme - so I felt that it was meant to be!
 
 Although I've not spent a lot of time to spend on it the last few nights aside from [Homebrew Website Club last night](https://events.indieweb.org/2020/06/online-homebrew-website-club-nottingham-hSxvQepCBqQl), I've actually been able to migrate to the new theme pretty quickly.
 
