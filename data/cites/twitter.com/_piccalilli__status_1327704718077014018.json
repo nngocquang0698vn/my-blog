@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327704718077014018" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1327704718077014018" ],
+    "published" : [ "2020-11-14T20:07:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://piccalil.li/", "http://piccalil.li", "http://every-layout.dev", "http://swop.link/11ty" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292805356796739584/efZHsNGx.jpg" ]
+      }
+    } ],
+    "content" : [ "the hardest problem in computer science is reply guys" ]
+  }
+}
