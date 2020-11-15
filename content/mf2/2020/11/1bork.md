@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/editingemily/status/1327650537626427395" ],
     "name" : [ "Like of @editingemily's tweet" ],
     "published" : [ "2020-11-14T23:57:00+0000" ],
     "like-of" : [ "https://twitter.com/editingemily/status/1327650537626427395" ]
