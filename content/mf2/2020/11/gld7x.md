@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/softlikemochi/status/1327735966820405254" ],
     "name" : [ "Like of @softlikemochi's tweet" ],
     "published" : [ "2020-11-15T18:44:00+0000" ],
     "like-of" : [ "https://twitter.com/softlikemochi/status/1327735966820405254" ]
