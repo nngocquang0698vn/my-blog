@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1327433813526396928" ],
+    "url" : [ "https://twitter.com/MofoeTV/status/1327433813526396928" ],
+    "published" : [ "2020-11-14T02:10:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MofoeTV" ],
+        "numeric-id" : [ "1328520260" ],
+        "name" : [ "Mofoe" ],
+        "nickname" : [ "MofoeTV" ],
+        "url" : [ "https://twitter.com/MofoeTV", "https://www.youtube.com/channel/UCAZzcbTCcd89pggEDU4X8RQ" ],
+        "published" : [ "2013-04-05T06:22:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Zul-Andra" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1327831627779645440/YTJ0qOjf.jpg" ]
+      }
+    } ],
+    "content" : [ "I guess cooking streams aren't allowed on Twitch anymore. I made a smoothie and my blender was flagged as a Skrillex song." ],
+    "photo" : [ "https://pbs.twimg.com/media/Emv95RCVkAAXvMG.jpg" ]
+  }
+}
