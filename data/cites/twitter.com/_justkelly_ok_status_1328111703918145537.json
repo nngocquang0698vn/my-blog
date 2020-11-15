@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328111703918145537" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1328111703918145537" ],
+    "published" : [ "2020-11-15T23:04:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295789781834584064/5RaolPav.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I've found that thinking of COVID as invisible cigarette smoke helps me reason about it in various situations. Imagine everyone's breathing is smoking. If you could smell the smoke, it's dangerous.\n\nAn indoor gathering would reek.",
+      "html" : "<div style=\"white-space: pre\">I've found that thinking of COVID as invisible cigarette smoke helps me reason about it in various situations. Imagine everyone's breathing is smoking. If you could smell the smoke, it's dangerous.\n\nAn indoor gathering would reek.</div>"
+    } ]
+  }
+}
