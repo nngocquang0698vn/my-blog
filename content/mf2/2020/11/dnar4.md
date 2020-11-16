@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wongmjane/status/1328107636206706688" ],
     "name" : [ "Like of @wongmjane's tweet" ],
     "published" : [ "2020-11-16T12:46:00+0000" ],
     "like-of" : [ "https://twitter.com/wongmjane/status/1328107636206706688" ]
