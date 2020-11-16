@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rothgar/status/1328467926932865025" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1328472724562436096" ],
     "name" : [ "Reply to https://twitter.com/rothgar/status/1328467926932865025" ],
     "published" : [ "2020-11-16T22:55:00+0000" ],
     "content" : [ {
