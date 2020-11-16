@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328107636206706688" ],
+    "url" : [ "https://twitter.com/wongmjane/status/1328107636206706688" ],
+    "published" : [ "2020-11-15T22:48:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wongmjane" ],
+        "numeric-id" : [ "337119125" ],
+        "name" : [ "Jane Manchun Wong" ],
+        "nickname" : [ "wongmjane" ],
+        "url" : [ "https://twitter.com/wongmjane", "https://wongmjane.com" ],
+        "published" : [ "2011-07-17T13:48:53+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322967903864434688/mr3BXZuT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I added experimental RSS feed support back to my blog, plus supports for Atom and JSON Feed\n\nFeed readers should be able to detect them",
+      "html" : "<div style=\"white-space: pre\">I added experimental RSS feed support back to my blog, plus supports for Atom and JSON Feed\n\nFeed readers should be able to detect them</div>"
+    } ]
+  }
+}
