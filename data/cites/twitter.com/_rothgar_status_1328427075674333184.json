@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328427075674333184" ],
+    "url" : [ "https://twitter.com/rothgar/status/1328427075674333184" ],
+    "published" : [ "2020-11-16T19:57:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com", "http://cnibook.info", "http://imdb.to/2FikCiY", "http://bit.ly/2tJM3yt" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1265369680916516864/JkNfHi56.jpg" ]
+      }
+    } ],
+    "content" : [ "Always fun to see my Apple friends as \"Independent\" speakers. I know that corporate legal dance well" ]
+  }
+}
