@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328105499963822081" ],
+    "url" : [ "https://twitter.com/s4meoldscene/status/1328105499963822081" ],
+    "published" : [ "2020-11-15T22:40:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:s4meoldscene" ],
+        "numeric-id" : [ "1593894469" ],
+        "name" : [ "ollie" ],
+        "nickname" : [ "s4meoldscene" ],
+        "url" : [ "https://twitter.com/s4meoldscene", "https://www.instagram.com/fatgir4ffe/" ],
+        "published" : [ "2013-07-14T17:25:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "stockport" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1313477237933584384/VCoNavKS.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "twitter.com/sportscenter/s…",
+      "html" : "<a href=\"https://twitter.com/sportscenter/status/1326987544559546369\">twitter.com/sportscenter/s…</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Em5g6X7W4Ac7jcq.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1326987544559546369" ],
+      "url" : [ "https://twitter.com/SportsCenter/status/1326987544559546369" ],
+      "published" : [ "2020-11-12T20:37:39+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:SportsCenter" ],
+          "numeric-id" : [ "26257166" ],
+          "name" : [ "SportsCenter" ],
+          "nickname" : [ "SportsCenter" ],
+          "url" : [ "https://twitter.com/SportsCenter", "http://es.pn/app" ],
+          "published" : [ "2009-03-24T15:28:02+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1062155885911425024/EMf90GZI.jpg" ]
+        }
+      } ],
+      "content" : [ "What's something that ISN'T a sport, but still FEELS like a sport?" ]
+    }
+  } ]
+}
