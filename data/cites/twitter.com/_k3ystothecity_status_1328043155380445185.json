@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328043155380445185" ],
+    "url" : [ "https://twitter.com/k3ystothecity/status/1328043155380445185" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1328043119921795072/pu/vid/1200x720/5CgwFS8TeiWAYNBS.mp4?tag=10" ],
+    "published" : [ "2020-11-15T18:32:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:k3ystothecity" ],
+        "numeric-id" : [ "1272050930381459456" ],
+        "name" : [ "krisp" ],
+        "nickname" : [ "k3ystothecity" ],
+        "url" : [ "https://twitter.com/k3ystothecity" ],
+        "published" : [ "2020-06-14T06:19:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "mass / 19 / she/her ! " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328420968616878089/AoFfYca8.jpg" ]
+      }
+    } ],
+    "content" : [ "everyone needs to see this" ]
+  }
+}
