@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rothgar/status/1328427075674333184" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1328466846375432197" ],
     "name" : [ "Reply to https://twitter.com/rothgar/status/1328427075674333184" ],
     "published" : [ "2020-11-16T22:30:00+0000" ],
     "category" : [ "capital-one", "public-speaking" ],
