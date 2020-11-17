@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/penelope_zone/status/1328697200617066496" ],
     "name" : [ "Like of @penelope_zone's tweet" ],
     "published" : [ "2020-11-17T14:24:00+0000" ],
     "like-of" : [ "https://twitter.com/penelope_zone/status/1328697200617066496" ]
