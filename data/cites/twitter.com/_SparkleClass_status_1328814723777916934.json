@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328814723777916934" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1328814723777916934" ],
+    "published" : [ "2020-11-17T21:38:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thanks for all the birthday messages. I've had a wonderful day.\n\n@JOETHECOLEMAN served me 3 different wines for dinner which is why I look so \"relaxed\". \n\n🎂 🎈 🎉 🍷",
+      "html" : "<div style=\"white-space: pre\">Thanks for all the birthday messages. I've had a wonderful day.\n\n<a href=\"https://twitter.com/JOETHECOLEMAN\">@JOETHECOLEMAN</a> served me 3 different wines for dinner which is why I look so \"relaxed\". \n\n🎂 🎈 🎉 🍷</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EnDlPMYXEAUueG4.jpg" ]
+  }
+}
