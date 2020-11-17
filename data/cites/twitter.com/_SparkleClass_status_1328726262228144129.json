@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328726262228144129" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1328726262228144129" ],
+    "published" : [ "2020-11-17T15:46:42+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/charlottejee/status/1328715805937242112" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The team at @infosec_hoppers including @Gem_Hill @ms__chief @inclusively_amy @JayHarris_Sec, also the gang at @WiT_Notts Inc @anna_hax @CarolSaysThings @JamieTanna @MrAndrew",
+      "html" : "The team at <a href=\"https://twitter.com/InfoSec_Hoppers\">@infosec_hoppers</a> including <a href=\"https://twitter.com/Gem_Hill\">@Gem_Hill</a> <a href=\"https://twitter.com/ms__chief\">@ms__chief</a> <a href=\"https://twitter.com/inclusively_amy\">@inclusively_amy</a> <a href=\"https://twitter.com/JayHarris_Sec\">@JayHarris_Sec</a>, also the gang at <a href=\"https://twitter.com/WiT_Notts\">@WiT_Notts</a> Inc <a href=\"https://twitter.com/anna_hax\">@anna_hax</a> <a href=\"https://twitter.com/CarolSaysThings\">@CarolSaysThings</a> <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> <a href=\"https://twitter.com/MrAndrew\">@MrAndrew</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/charlottejee\"></a>"
+    } ]
+  }
+}
