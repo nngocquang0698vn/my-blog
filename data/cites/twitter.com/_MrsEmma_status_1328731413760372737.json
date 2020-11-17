@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328731413760372737" ],
+    "url" : [ "https://twitter.com/MrsEmma/status/1328731413760372737" ],
+    "published" : [ "2020-11-17T16:07:10+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/MrAndrew/status/1328706837231886336" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrsEmma" ],
+        "numeric-id" : [ "19500955" ],
+        "name" : [ "Emma" ],
+        "nickname" : [ "MrsEmma" ],
+        "url" : [ "https://twitter.com/MrsEmma" ],
+        "published" : [ "2009-01-25T19:32:42+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314940009724682246/Qpbnn0rL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What about cold pizza?",
+      "html" : "What about cold pizza?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MrAndrew\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jna_sh\"></a>"
+    } ]
+  }
+}
