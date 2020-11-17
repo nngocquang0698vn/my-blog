@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SparkleClass/status/1328726262228144129" ],
     "name" : [ "Like of @SparkleClass's tweet" ],
     "published" : [ "2020-11-17T16:32:00+0000" ],
     "like-of" : [ "https://twitter.com/SparkleClass/status/1328726262228144129" ]
