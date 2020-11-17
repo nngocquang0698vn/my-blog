@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328831977332609026" ],
+    "url" : [ "https://twitter.com/edent/status/1328831977332609026" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1328831922907254784/pu/vid/484x272/IClkTgZqRKY_U-96.mp4?tag=10" ],
+    "published" : [ "2020-11-17T22:46:46+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1328745659969769472" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ "And here's the video, as YouTube have blocked it." ]
+  }
+}
