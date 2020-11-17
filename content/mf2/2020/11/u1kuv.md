@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oSoNasha/status/1328003372344107008" ],
     "name" : [ "Like of @oSoNasha's tweet" ],
     "published" : [ "2020-11-17T22:21:00+0000" ],
     "like-of" : [ "https://twitter.com/oSoNasha/status/1328003372344107008" ]
