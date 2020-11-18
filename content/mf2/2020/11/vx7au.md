@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1329156799342145536" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2020-11-18T20:54:00+0000" ],
     "category" : [ "2020", "tiktok" ],
