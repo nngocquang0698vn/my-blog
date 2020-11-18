@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matthieunapoli/status/1329005037356544000" ],
     "name" : [ "Like of @matthieunapoli's tweet" ],
     "published" : [ "2020-11-18T11:02:00+0000" ],
     "category" : [ "aws" ],
