@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1328919173016195075" ],
+    "url" : [ "https://twitter.com/dave_krugman/status/1328919173016195075" ],
+    "published" : [ "2020-11-18T04:33:15+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/helen/status/1328847767330930688" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dave_krugman" ],
+        "numeric-id" : [ "171582211" ],
+        "name" : [ "Dave 🌊" ],
+        "nickname" : [ "dave_krugman" ],
+        "url" : [ "https://twitter.com/dave_krugman", "http://allships.co" ],
+        "published" : [ "2010-07-27T17:51:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/465612062085767168/kJSFsVLc.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is so random but I took the photo that someone put this type over 😂",
+      "html" : "This is so random but I took the photo that someone put this type over 😂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/helen\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EnFE8aTW8AAY0qb.jpg" ]
+  }
+}
