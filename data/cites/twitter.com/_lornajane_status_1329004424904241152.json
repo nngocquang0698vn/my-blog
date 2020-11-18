@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329004424904241152" ],
+    "url" : [ "https://twitter.com/lornajane/status/1329004424904241152" ],
+    "published" : [ "2020-11-18T10:12:01+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1328674631285428226" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lornajane" ],
+        "numeric-id" : [ "7356002" ],
+        "name" : [ "Lorna Mitchell" ],
+        "nickname" : [ "lornajane" ],
+        "url" : [ "https://twitter.com/lornajane", "http://www.lornajane.net" ],
+        "published" : [ "2007-07-09T21:29:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Huddersfield, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509896668/lorna-square.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Essentially no. The API is expected to be consistent wherever it was deployed. What are you doing that it is different in different places? I'm interested in the use case",
+      "html" : "Essentially no. The API is expected to be consistent wherever it was deployed. What are you doing that it is different in different places? I'm interested in the use case\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
