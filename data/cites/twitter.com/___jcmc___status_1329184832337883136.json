@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329184832337883136" ],
+    "url" : [ "https://twitter.com/__jcmc__/status/1329184832337883136" ],
+    "published" : [ "2020-11-18T22:08:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:__jcmc__" ],
+        "numeric-id" : [ "781588467654483968" ],
+        "name" : [ "Jennifer Mackown" ],
+        "nickname" : [ "__jcmc__" ],
+        "url" : [ "https://twitter.com/__jcmc__", "http://www.jcmc.xyz" ],
+        "published" : [ "2016-09-29T20:16:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lincoln" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137074636213116929/AjJAzHty.png" ]
+      }
+    } ],
+    "content" : [ "Every night I go to bed and gaze longingly at electric blankets on the Argos website" ]
+  }
+}
