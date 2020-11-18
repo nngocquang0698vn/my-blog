@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329166395570081792" ],
+    "url" : [ "https://twitter.com/scottjehl/status/1329166395570081792" ],
+    "published" : [ "2020-11-18T20:55:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:scottjehl" ],
+        "numeric-id" : [ "237918766" ],
+        "name" : [ "Scott Jehl" ],
+        "nickname" : [ "scottjehl" ],
+        "url" : [ "https://twitter.com/scottjehl", "http://scottjehl.com", "http://scottjehl.com/lfwp" ],
+        "published" : [ "2011-01-13T23:16:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322152441387900929/58y8CIdX.jpg" ]
+      }
+    } ],
+    "content" : [ "Wild to think we used to pay $60 *every* month for cable when now all you need is basic $45/mo internet access plus $13/mo for Amazon Prime and $5/mo for Apple TV and $7/mo for Disney Plus and $13/mo for Hulu and $18 for Netflix and $15/mo for HBO Max an" ]
+  }
+}
