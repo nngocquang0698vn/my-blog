@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1329164033447108614" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2020-11-18T22:29:00+0000" ],
     "like-of" : [ "https://twitter.com/Brunty/status/1329164033447108614" ]
