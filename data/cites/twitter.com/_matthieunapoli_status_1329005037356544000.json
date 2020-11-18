@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329005037356544000" ],
+    "url" : [ "https://twitter.com/matthieunapoli/status/1329005037356544000" ],
+    "published" : [ "2020-11-18T10:14:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matthieunapoli" ],
+        "numeric-id" : [ "857755658" ],
+        "name" : [ "Matthieu Napoli" ],
+        "nickname" : [ "matthieunapoli" ],
+        "url" : [ "https://twitter.com/matthieunapoli", "https://mnapoli.fr", "http://serverless-visually-explained.com", "http://null.tc", "http://port7777.com", "http://bref.sh", "http://serverless-php.news" ],
+        "published" : [ "2012-10-02T09:22:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lyon, France" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234161178479353856/_QskRcBF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "That's it, 7777 is live 🎉\n7777 is a dead-simple CLI command that makes your AWS database available on local port… 7777.\n\nForget SSH tunnels and paying for jump servers. Connecting and debugging databases is finally easy!\nGet it here: port7777.com",
+      "html" : "<div style=\"white-space: pre\">That's it, 7777 is live 🎉\n7777 is a dead-simple CLI command that makes your AWS database available on local port… 7777.\n\nForget SSH tunnels and paying for jump servers. Connecting and debugging databases is finally easy!\nGet it here: <a href=\"https://port7777.com/\">port7777.com</a></div>"
+    } ]
+  }
+}
