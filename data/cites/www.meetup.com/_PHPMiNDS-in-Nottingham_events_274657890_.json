@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Security Design Principles for any Developer" ],
+    "description" : [ {
+      "html" : "<p>Secure software starts from the design.<br/>As part of this presentation we will explore a set of Security Design Principles . We will start by analysing incorrect software implementations, to give us a better understanding of how to correctly use the Security Design Principles when designing software.</p> <p>By the end of this presentation you will be able to have a better understanding of what you need to do to consider security design principles from the start.</p> <p>Recommended to every developer looking to build a more secure software from the start.</p> <p>Bio:</p> <p>Katy Anton is a security professional with a background in software development. An international public speaker, she enjoys speaking primarily about application security and the importance of software security in an era where software is everywhere.</p> <p>In her previous roles she led software development teams and implemented security best practices in the software development life cycle. As part of her work she got involved in OWASP Top Ten Proactive Controls project where she joined as project leader.</p> ",
+      "value" : "Secure software starts from the design. As part of this presentation we will explore a set of Security Design Principles . We will start by analysing incorrect software implementations, to give us a better understanding of how to correctly use the Security Design Principles when designing software. By the end of this presentation you will be able to have a better understanding of what you need to do to consider security design principles from the start. Recommended to every developer looking to build a more secure software from the start. Bio: Katy Anton is a security professional with a background in software development. An international public speaker, she enjoys speaking primarily about application security and the importance of software security in an era where software is everywhere. In her previous roles she led software development teams and implemented security best practices in the software development life cycle. As part of her work she got involved in OWASP Top Ten Proactive Controls project where she joined as project leader."
+    } ],
+    "start" : [ "2020-12-10T18:30:00Z" ],
+    "end" : [ "2020-12-10T20:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/274657890/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2020-11-17T22:51:46Z" ],
+    "updated" : [ "2020-11-19T15:37:09Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
