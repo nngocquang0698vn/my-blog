@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RealSexyCyborg/status/1329282369690370052" ],
     "name" : [ "Like of @RealSexyCyborg's tweet" ],
     "published" : [ "2020-11-19T08:38:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
