@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329505754580193281" ],
+    "url" : [ "https://twitter.com/LydiaMNicola/status/1329505754580193281" ],
+    "published" : [ "2020-11-19T19:24:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1329504721456001025" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LydiaMNicola" ],
+        "numeric-id" : [ "331114999" ],
+        "name" : [ "Lydia Nicola" ],
+        "nickname" : [ "LydiaMNicola" ],
+        "url" : [ "https://twitter.com/LydiaMNicola" ],
+        "published" : [ "2011-07-07T17:32:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/975474599470170112/KkZO2zVa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Is 50 counted as too many tabs on Firefox mobile? I’m not sure I could cope with such a low limit!",
+      "html" : "Is 50 counted as too many tabs on Firefox mobile? I’m not sure I could cope with such a low limit!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edent\"></a>"
+    } ]
+  }
+}
