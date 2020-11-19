@@ -1,0 +1,61 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329282369690370052" ],
+    "url" : [ "https://twitter.com/RealSexyCyborg/status/1329282369690370052" ],
+    "published" : [ "2020-11-19T04:36:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RealSexyCyborg" ],
+        "numeric-id" : [ "3562121415" ],
+        "name" : [ "Naomi Wu 机械妖姬" ],
+        "nickname" : [ "RealSexyCyborg" ],
+        "url" : [ "https://twitter.com/RealSexyCyborg", "http://youtube.com/c/SexyCyborg" ],
+        "published" : [ "2015-09-06T03:39:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Shenzhen, China" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/763179688013377536/mbsD4Ptg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Seriously @instructables? You *removed* support for Chinese names? You really think anyone is going to buy there's a credible technical excuse for not having UTF-8 support in 2020? You're not going to MAGA by just by forcing the rest of the planet to use romanized names.",
+      "html" : "Seriously <a href=\"https://twitter.com/instructables\">@instructables</a>? You *removed* support for Chinese names? You really think anyone is going to buy there's a credible technical excuse for not having UTF-8 support in 2020? You're not going to MAGA by just by forcing the rest of the planet to use romanized names."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1329279913837305856" ],
+      "url" : [ "https://twitter.com/moononournation/status/1329279913837305856" ],
+      "published" : [ "2020-11-19T04:26:42+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:moononournation" ],
+          "numeric-id" : [ "913919833174982657" ],
+          "name" : [ "陳亮手痕定律" ],
+          "nickname" : [ "moononournation" ],
+          "url" : [ "https://twitter.com/moononournation" ],
+          "published" : [ "2017-09-30T00:14:02+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "油尖旺, 香港" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/913925657809137664/3LRKez8b.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Any site can suggest posting hobbies electronics articles?\n\nSeems @instructables start implement De-Sinicization.",
+        "html" : "<div style=\"white-space: pre\">Any site can suggest posting hobbies electronics articles?\n\nSeems <a href=\"https://twitter.com/instructables\">@instructables</a> start implement De-Sinicization.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EnKNBw0VoAEsfif.jpg" ]
+    }
+  } ]
+}
