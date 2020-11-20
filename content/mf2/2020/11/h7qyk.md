@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/siddharthkp/status/1329782688040038400" ],
     "name" : [ "Like of @siddharthkp's tweet" ],
     "published" : [ "2020-11-20T22:07:00+0000" ],
     "like-of" : [ "https://twitter.com/siddharthkp/status/1329782688040038400" ]
