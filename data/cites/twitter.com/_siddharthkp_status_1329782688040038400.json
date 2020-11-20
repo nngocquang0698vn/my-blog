@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329782688040038400" ],
+    "url" : [ "https://twitter.com/siddharthkp/status/1329782688040038400" ],
+    "published" : [ "2020-11-20T13:44:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:siddharthkp" ],
+        "numeric-id" : [ "86731307" ],
+        "name" : [ "sid 🖤" ],
+        "nickname" : [ "siddharthkp" ],
+        "url" : [ "https://twitter.com/siddharthkp", "https://sid.st", "https://tinyreact.email" ],
+        "published" : [ "2009-11-01T14:28:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amsterdam" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298933888169971712/fj0dQ0M9.jpg" ]
+      }
+    } ],
+    "content" : [ "daily standup is the original \"stories\"" ]
+  }
+}
