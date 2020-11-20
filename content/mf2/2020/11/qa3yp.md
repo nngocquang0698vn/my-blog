@@ -5,14 +5,14 @@
   "properties" : {
     "syndication" : [ "https://twitter.com/JamieTanna/status/1328674631285428226" ],
     "published" : [ "2020-11-17T12:16:33.903Z" ],
-    "category" : [ "open-api" ],
+    "category" : [ "openapi" ],
     "content" : [ {
       "html" : "",
-      "value" : "Folks who work a lot with <a href=\"/tags/open-api/\">#OpenApi</a> - is there a way to specify different `securityScheme`s and different headers based on what type of `server` is being used? I.e. to clarify between local/integrated systems?"
+      "value" : "Folks who work a lot with <a href=\"/tags/openapi/\">#OpenApi</a> - is there a way to specify different `securityScheme`s and different headers based on what type of `server` is being used? I.e. to clarify between local/integrated systems?"
     } ]
   },
   "kind" : "notes",
   "slug" : "2020/11/qa3yp",
-  "tags" : [ "open-api" ],
+  "tags" : [ "openapi" ],
   "client_id" : "https://www-editor.jvt.me"
 }
