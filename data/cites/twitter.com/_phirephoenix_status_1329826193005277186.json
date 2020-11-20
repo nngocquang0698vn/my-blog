@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329826193005277186" ],
+    "url" : [ "https://twitter.com/phirephoenix/status/1329826193005277186" ],
+    "published" : [ "2020-11-20T16:37:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:phirephoenix" ],
+        "numeric-id" : [ "9254512" ],
+        "name" : [ "jenny (phire) zhang" ],
+        "nickname" : [ "phirephoenix" ],
+        "url" : [ "https://twitter.com/phirephoenix", "https://www.phirephoenix.com" ],
+        "published" : [ "2007-10-04T23:54:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "toronto" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149376483082887169/iflJuMe0.jpg" ]
+      }
+    } ],
+    "content" : [ "hi hello, if you are capable of understanding why “it works on my computer” is not good enough to ship, you are also capable of understanding why “I’ve never observed any discrimination” is not good enough to build a society on" ]
+  }
+}
