@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/killedbygoogle/status/1329476624987820032" ],
     "name" : [ "Like of @killedbygoogle's tweet" ],
     "published" : [ "2020-11-20T12:32:00+0000" ],
     "like-of" : [ "https://twitter.com/killedbygoogle/status/1329476624987820032" ]
