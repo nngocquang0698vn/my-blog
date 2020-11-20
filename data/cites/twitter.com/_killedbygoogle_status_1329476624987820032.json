@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329476624987820032" ],
+    "url" : [ "https://twitter.com/killedbygoogle/status/1329476624987820032" ],
+    "published" : [ "2020-11-19T17:28:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:killedbygoogle" ],
+        "numeric-id" : [ "1041175266133827585" ],
+        "name" : [ "Killed by Google 🔪" ],
+        "nickname" : [ "killedbygoogle" ],
+        "url" : [ "https://twitter.com/killedbygoogle", "https://killedbygoogle.com", "http://news.kbg.rip/signup" ],
+        "published" : [ "2018-09-16T04:01:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Morgue @ Googleplex" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1313980764300759040/oTt2Nj5T.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I...just still can't believe it.\n\nThey announced another chat app.",
+      "html" : "<div style=\"white-space: pre\">I...just still can't believe it.\n\nThey announced another chat app.</div>"
+    } ]
+  }
+}
