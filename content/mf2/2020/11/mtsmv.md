@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricaJoy/status/1330190191533887488" ],
     "name" : [ "Like of @EricaJoy's tweet" ],
     "published" : [ "2020-11-21T17:20:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
