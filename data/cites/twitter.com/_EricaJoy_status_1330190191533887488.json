@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330190191533887488" ],
+    "url" : [ "https://twitter.com/EricaJoy/status/1330190191533887488" ],
+    "published" : [ "2020-11-21T16:43:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EricaJoy" ],
+        "numeric-id" : [ "817083" ],
+        "name" : [ "EricaJoy" ],
+        "nickname" : [ "EricaJoy" ],
+        "url" : [ "https://twitter.com/EricaJoy", "https://www.ericabaker.com" ],
+        "published" : [ "2007-03-07T04:30:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305529752329969664/i1qrTJ9b.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🎶do you see what i see?🎶",
+      "html" : "🎶do you see what i see?🎶\n<a class=\"tag\" href=\"https://twitter.com/bymikebaker/status/1330184585834094597\">twitter.com/bymikebaker/st…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1330184585834094597" ],
+      "url" : [ "https://twitter.com/ByMikeBaker/status/1330184585834094597" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1330184527063486469/pu/vid/480x480/aS5BvsuOgGCKXgCu.mp4?tag=10" ],
+      "published" : [ "2020-11-21T16:21:33+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:ByMikeBaker" ],
+          "numeric-id" : [ "178065733" ],
+          "name" : [ "Mike Baker" ],
+          "nickname" : [ "ByMikeBaker" ],
+          "url" : [ "https://twitter.com/ByMikeBaker", "https://www.nytimes.com/by/mike-baker" ],
+          "published" : [ "2010-08-13T19:47:08+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington/Oregon/Idaho/Alaska" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1326702330301968384/eKOe6Bfy.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Good morning. Here's an endless-loop gallery of A.I.-generated people.\n\nThere's a lot more to explore in this interactive article, which is one of the most remarkable pieces of digital journalism I've ever seen:\n\nnytimes.com/interactive/20…",
+        "html" : "<div style=\"white-space: pre\">Good morning. Here's an endless-loop gallery of A.I.-generated people.\n\nThere's a lot more to explore in this interactive article, which is one of the most remarkable pieces of digital journalism I've ever seen:\n\n<a href=\"https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html\">nytimes.com/interactive/20…</a></div>"
+      } ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/bymikebaker/st…" ],
+      "url" : [ "https://twitter.com/bymikebaker/status/1330184585834094597" ]
+    }
+  } ]
+}
