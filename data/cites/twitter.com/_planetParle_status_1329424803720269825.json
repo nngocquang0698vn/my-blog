@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329424803720269825" ],
+    "url" : [ "https://twitter.com/planetParle/status/1329424803720269825" ],
+    "published" : [ "2020-11-19T14:02:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:planetParle" ],
+        "numeric-id" : [ "149371323" ],
+        "name" : [ "Parle Patel" ],
+        "nickname" : [ "planetParle" ],
+        "url" : [ "https://twitter.com/planetParle", "http://www.youtube.com/planetparle" ],
+        "published" : [ "2010-05-29T03:39:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329541602033938433/aSqYbx0g.jpg" ]
+      }
+    } ],
+    "content" : [ "I am sick of people wondering if it's possible to survive Christmas in lockdown when so many Hindus in the UK have survived Diwali, Navratri, Janmashtmi and so many Muslims have survived Eid and Ramadan. Why are we STILL talking about this?" ]
+  }
+}
