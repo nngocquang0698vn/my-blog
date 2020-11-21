@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329979207317786626" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1329979207317786626" ],
+    "published" : [ "2020-11-21T02:45:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ]
+      }
+    } ],
+    "content" : [ "Why does anyone in the Star Wars universe EVER right a speeder bike?  They've just lost the will to live?" ]
+  }
+}
