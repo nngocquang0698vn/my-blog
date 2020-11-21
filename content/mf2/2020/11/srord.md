@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robbkidd/status/1329994397228920832" ],
     "name" : [ "Like of @robbkidd's tweet" ],
     "published" : [ "2020-11-21T11:04:00+0000" ],
     "like-of" : [ "https://twitter.com/robbkidd/status/1329994397228920832" ]
