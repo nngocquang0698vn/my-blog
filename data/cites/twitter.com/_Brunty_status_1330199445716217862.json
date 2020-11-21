@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330199445716217862" ],
+    "url" : [ "https://twitter.com/Brunty/status/1330199445716217862" ],
+    "published" : [ "2020-11-21T17:20:36+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1330197904905154560" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leicester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151043501288824832/TjB9WT83.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "SPIDER-CAT",
+      "html" : "SPIDER-CAT\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolSaysThings\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EnXRV8JXEAIAM58.jpg" ]
+  }
+}
