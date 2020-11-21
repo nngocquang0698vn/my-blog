@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1329979207317786626" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-11-21T08:44:00+0000" ],
     "category" : [ "star-wars" ],
