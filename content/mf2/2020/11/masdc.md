@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ashleymcnamara/status/1329991709300641792" ],
     "name" : [ "Like of @ashleymcnamara's tweet" ],
     "published" : [ "2020-11-21T14:53:00+0000" ],
     "category" : [ "food" ],
