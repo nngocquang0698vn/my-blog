@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330136205472751616" ],
+    "url" : [ "https://twitter.com/StevejLamar/status/1330136205472751616" ],
+    "published" : [ "2020-11-21T13:09:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StevejLamar" ],
+        "numeric-id" : [ "777493907818975232" ],
+        "name" : [ "Steve Lamar" ],
+        "nickname" : [ "StevejLamar" ],
+        "url" : [ "https://twitter.com/StevejLamar", "http://promoprep.com" ],
+        "published" : [ "2016-09-18T13:06:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306670268560142342/EaNvsg82.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "People keep asking me how I went from 143 followers to 150 in just 6 months. \n\nLet me tell you it has been a journey.\n\nA thread 👇",
+      "html" : "<div style=\"white-space: pre\">People keep asking me how I went from 143 followers to 150 in just 6 months. \n\nLet me tell you it has been a journey.\n\nA thread 👇</div>"
+    } ]
+  }
+}
