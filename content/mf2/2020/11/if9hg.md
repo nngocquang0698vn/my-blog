@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevejLamar/status/1330136205472751616" ],
     "name" : [ "Like of @StevejLamar's tweet" ],
     "published" : [ "2020-11-21T18:04:00+0000" ],
     "category" : [ "shitpost", "twitter" ],
