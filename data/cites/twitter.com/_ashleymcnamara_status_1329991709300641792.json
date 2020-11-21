@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1329991709300641792" ],
+    "url" : [ "https://twitter.com/ashleymcnamara/status/1329991709300641792" ],
+    "published" : [ "2020-11-21T03:35:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ashleymcnamara" ],
+        "numeric-id" : [ "14137772" ],
+        "name" : [ "Ashley Willis (McNamara)" ],
+        "nickname" : [ "ashleymcnamara" ],
+        "url" : [ "https://twitter.com/ashleymcnamara" ],
+        "published" : [ "2008-03-13T05:48:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151205935462748160/FEuag5OH.jpg" ]
+      }
+    } ],
+    "content" : [ "My husband asked me if I wanted hot chocolate and then he brought me this 😍" ],
+    "photo" : [ "https://pbs.twimg.com/media/EnUUaLUVQAA0uvf.jpg" ]
+  }
+}
