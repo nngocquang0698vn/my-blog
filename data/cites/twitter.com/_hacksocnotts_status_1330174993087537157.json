@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330174993087537157" ],
+    "url" : [ "https://twitter.com/hacksocnotts/status/1330174993087537157" ],
+    "published" : [ "2020-11-21T15:43:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hacksocnotts" ],
+        "numeric-id" : [ "1366601486" ],
+        "name" : [ "HackSoc Nottingham" ],
+        "nickname" : [ "hacksocnotts" ],
+        "url" : [ "https://twitter.com/hacksocnotts", "https://hacksocnotts.co.uk" ],
+        "published" : [ "2013-04-20T09:33:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1269632439271424000/JF3A9uK0.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This Thursday we have a talk by @edent “The (connected) house of horrors” ! We fill our homes, life and bodies with internet connected devices. But do we really understand the dangers which lurk inside them?",
+      "html" : "This Thursday we have a talk by <a href=\"https://twitter.com/edent\">@edent</a> “The (connected) house of horrors” ! We fill our homes, life and bodies with internet connected devices. But do we really understand the dangers which lurk inside them?"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EnW7GjlXcAsqemE.jpg" ]
+  }
+}
