@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MeanAnimals/status/1330240821497630722" ],
     "name" : [ "Like of @MeanAnimals's tweet" ],
     "published" : [ "2020-11-22T10:35:00+0000" ],
     "category" : [ "cute" ],
