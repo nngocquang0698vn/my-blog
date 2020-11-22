@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hacksocnotts/status/1330174993087537157" ],
     "name" : [ "Like of @hacksocnotts's tweet" ],
     "published" : [ "2020-11-22T18:56:00+0000" ],
     "like-of" : [ "https://twitter.com/hacksocnotts/status/1330174993087537157" ]
