@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330523058591895552" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1330523058591895552" ],
+    "published" : [ "2020-11-22T14:46:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228316950884954114/YzosSgSI.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Shout out to the worst 6 months of my professional life where a CEO relentlessly ground down a team of talented people because his “marketing plan” was to get #1 on Hacker News",
+      "html" : "Shout out to the worst 6 months of my professional life where a CEO relentlessly ground down a team of talented people because his “marketing plan” was to get #1 on Hacker News\n<a class=\"tag\" href=\"https://twitter.com/jasminexeth/status/1321820603746119681\">twitter.com/jasminexeth/st…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1321820603746119681" ],
+      "url" : [ "https://twitter.com/jasminexETH/status/1321820603746119681" ],
+      "published" : [ "2020-10-29T14:26:04+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:jasminexETH" ],
+          "numeric-id" : [ "948974179881226245" ],
+          "name" : [ "A Tech Head 🌎" ],
+          "nickname" : [ "jasminexETH" ],
+          "url" : [ "https://twitter.com/jasminexETH", "https://livehomebase.com", "https://newlylegal.co" ],
+          "published" : [ "2018-01-04T17:47:30+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "PNW" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1118265719286722561/Wt--U0No.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I don’t know who needs to hear this but...... \n\n“You don’t need to go viral. You need a marketing plan...”",
+        "html" : "<div style=\"white-space: pre\">I don’t know who needs to hear this but...... \n\n“You don’t need to go viral. You need a marketing plan...”</div>"
+      } ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/jasminexeth/st…" ],
+      "url" : [ "https://twitter.com/jasminexeth/status/1321820603746119681" ]
+    }
+  } ]
+}
