@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330319829476118529" ],
+    "url" : [ "https://twitter.com/AudreyPorne/status/1330319829476118529" ],
+    "published" : [ "2020-11-22T01:18:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AudreyPorne" ],
+        "numeric-id" : [ "1399005720" ],
+        "name" : [ "Audrey Porne" ],
+        "nickname" : [ "AudreyPorne" ],
+        "url" : [ "https://twitter.com/AudreyPorne", "https://twitter.com/search?f=tweets&q=from%3A%40audreyporne%20-%20exclude%3Areplies" ],
+        "published" : [ "2013-05-03T06:52:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Zealand" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322656115075641344/jRpEuUWq.jpg" ]
+      }
+    } ],
+    "content" : [ "if you knew me before my 20s, you never actually knew me. you knew season 1 me. we were severely underfunded and the writing team was going through a lot." ]
+  }
+}
