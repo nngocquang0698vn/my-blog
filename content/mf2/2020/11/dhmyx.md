@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AudreyPorne/status/1330319829476118529" ],
     "name" : [ "Like of @AudreyPorne's tweet" ],
     "published" : [ "2020-11-22T10:33:00+0000" ],
     "like-of" : [ "https://twitter.com/AudreyPorne/status/1330319829476118529" ]
