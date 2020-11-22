@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330240821497630722" ],
+    "url" : [ "https://twitter.com/MeanAnimals/status/1330240821497630722" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1294160849657982976/pu/vid/640x640/CcHAUO3mDwkRrP3u.mp4?tag=10" ],
+    "published" : [ "2020-11-21T20:05:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MeanAnimals" ],
+        "numeric-id" : [ "2615918492" ],
+        "name" : [ "Animals Being Jerks" ],
+        "nickname" : [ "MeanAnimals" ],
+        "url" : [ "https://twitter.com/MeanAnimals" ],
+        "published" : [ "2014-07-10T18:11:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "email: jerks@viralspark.net" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/487299351375405057/6BVNprzp.jpeg" ]
+      }
+    } ],
+    "content" : [ "The only two cat personalities that exist " ]
+  }
+}
