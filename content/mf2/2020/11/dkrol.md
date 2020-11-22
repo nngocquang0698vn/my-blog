@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shortxstack/status/1330353201476988931" ],
     "name" : [ "Like of @shortxstack's tweet" ],
     "published" : [ "2020-11-22T22:27:00+0000" ],
     "category" : [ "the-mandalorian" ],
