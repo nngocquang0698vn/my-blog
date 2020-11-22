@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Celona100k/status/1329914505455939585" ],
     "name" : [ "Like of @Celona100k's tweet" ],
     "published" : [ "2020-11-22T13:05:00+0000" ],
     "like-of" : [ "https://twitter.com/Celona100k/status/1329914505455939585" ]
