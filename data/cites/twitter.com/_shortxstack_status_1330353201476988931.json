@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330353201476988931" ],
+    "url" : [ "https://twitter.com/shortxstack/status/1330353201476988931" ],
+    "published" : [ "2020-11-22T03:31:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shortxstack" ],
+        "numeric-id" : [ "8094902" ],
+        "name" : [ "Whitney Champion 🍪" ],
+        "nickname" : [ "shortxstack" ],
+        "url" : [ "https://twitter.com/shortxstack", "http://unicorns.lol", "http://OpenSOC.io" ],
+        "published" : [ "2007-08-10T02:46:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Charleston, SC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316943929409941504/r1MSUvvZ.jpg" ]
+      }
+    } ],
+    "content" : [ "listening to mando trying to explain the red vs blue wire to not baby yoda gives me anxiety filled flashbacks from my tech support days." ]
+  }
+}
