@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HTTP_Lovecraft/status/1330989702527283211" ],
     "name" : [ "Like of @HTTP_Lovecraft's tweet" ],
     "published" : [ "2020-11-23T21:45:00+0000" ],
     "category" : [ "food" ],
