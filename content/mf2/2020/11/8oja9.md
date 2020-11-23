@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xkcd/status/1330980802167975937" ],
     "name" : [ "Like of @xkcd's tweet" ],
     "published" : [ "2020-11-23T22:44:00+0000" ],
     "like-of" : [ "https://twitter.com/xkcd/status/1330980802167975937" ]
