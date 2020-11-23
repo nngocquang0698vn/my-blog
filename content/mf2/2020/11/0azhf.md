@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1330824493338648581" ],
     "published" : [ "2020-11-23T10:39:10.82Z" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1330810659941003265" ],
     "category" : [ "nott-tech-party" ],
