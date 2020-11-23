@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330599121934282754" ],
+    "url" : [ "https://twitter.com/cassthevirgin/status/1330599121934282754" ],
+    "published" : [ "2020-11-22T19:48:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cassthevirgin" ],
+        "numeric-id" : [ "1206035535808094209" ],
+        "name" : [ "cass" ],
+        "nickname" : [ "cassthevirgin" ],
+        "url" : [ "https://twitter.com/cassthevirgin", "http://twitch.tv/virgocass", "http://onlyfans.com/homerunhoe" ],
+        "published" : [ "2019-12-15T02:17:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "ny • 23 " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329921791490449413/asTGiDY5.jpg" ]
+      }
+    } ],
+    "content" : [ "chasing after a ping pong ball is wildly dehumanizing" ]
+  }
+}
