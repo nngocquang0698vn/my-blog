@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330980802167975937" ],
+    "url" : [ "https://twitter.com/xkcd/status/1330980802167975937" ],
+    "published" : [ "2020-11-23T21:05:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:xkcd" ],
+        "numeric-id" : [ "21146468" ],
+        "name" : [ "Randall Munroe" ],
+        "nickname" : [ "xkcd" ],
+        "url" : [ "https://twitter.com/xkcd", "http://xkcd.com" ],
+        "published" : [ "2009-02-17T23:36:03+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254885666795683841/Kn2yz-a7.png" ]
+      }
+    } ],
+    "content" : [ "For some reason when people see my shell prompt they get really mad" ],
+    "photo" : [ "https://pbs.twimg.com/media/EniX_CvWEAIxTnR.jpg" ]
+  }
+}
