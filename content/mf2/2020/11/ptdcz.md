@@ -10,7 +10,7 @@
     "rsvp" : [ "interested" ],
     "content" : [ {
       "html" : "",
-      "value" : "I need to grab a ticket, but I really hope I'll be able to make the <a href=\"/tags/tech-nott-party/\">#TechNottParty</a>!"
+      "value" : "I need to grab a ticket, but I really hope I'll be able to make the <a href=\"/tags/nott-tech-party/\">#NottTechParty</a>!"
     } ]
   },
   "kind" : "rsvps",
