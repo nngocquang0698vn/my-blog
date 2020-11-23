@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330711807539855362" ],
+    "url" : [ "https://twitter.com/RussellHFilm/status/1330711807539855362" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1330711775424126978/pu/vid/576x1024/DhEidiGFb0eCN_nQ.mp4?tag=10" ],
+    "published" : [ "2020-11-23T03:16:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RussellHFilm" ],
+        "numeric-id" : [ "316511611" ],
+        "name" : [ "Russy KGB" ],
+        "nickname" : [ "RussellHFilm" ],
+        "url" : [ "https://twitter.com/RussellHFilm", "http://www.letterboxd.com/russellhfilm" ],
+        "published" : [ "2011-06-13T15:21:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1250891984442544128/bLyskffn.jpg" ]
+      }
+    } ],
+    "content" : [ "the only good thing I saw on the Internet today" ]
+  }
+}
