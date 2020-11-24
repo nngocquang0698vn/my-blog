@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WholesomeMeme/status/1331041849642012672" ],
     "name" : [ "Like of @WholesomeMeme's tweet" ],
     "published" : [ "2020-11-24T14:31:00+0000" ],
     "category" : [ "pokemon" ],
