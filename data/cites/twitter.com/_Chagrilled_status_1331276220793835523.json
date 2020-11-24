@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331276220793835523" ],
+    "url" : [ "https://twitter.com/Chagrilled/status/1331276220793835523" ],
+    "published" : [ "2020-11-24T16:39:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Chagrilled" ],
+        "numeric-id" : [ "885027816" ],
+        "name" : [ "Andrew" ],
+        "nickname" : [ "Chagrilled" ],
+        "url" : [ "https://twitter.com/Chagrilled", "http://instagram.com/chagrilled" ],
+        "published" : [ "2012-10-16T18:41:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/790965979564089345/guGcEmu4.jpg" ]
+      }
+    } ],
+    "content" : [ "Oh my god I just won an iPhone 11 from work. What a god tier day." ]
+  }
+}
