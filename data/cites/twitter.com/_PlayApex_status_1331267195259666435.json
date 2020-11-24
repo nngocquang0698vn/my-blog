@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331267195259666435" ],
+    "url" : [ "https://twitter.com/PlayApex/status/1331267195259666435" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1331266483524014080/vid/1280x720/UtLtBWHYtpt6aWNM.mp4?tag=13" ],
+    "published" : [ "2020-11-24T16:03:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PlayApex" ],
+        "numeric-id" : [ "1048018930785083392" ],
+        "name" : [ "Apex Legends" ],
+        "nickname" : [ "PlayApex" ],
+        "url" : [ "https://twitter.com/PlayApex", "http://playapex.com" ],
+        "published" : [ "2018-10-05T01:15:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Outlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1222942571376209920/raMKhiHq.jpg" ]
+      }
+    } ],
+    "content" : [ "The Winter Express is pulling back into the station for the return of Holo-Day Bash! Join the festivities Dec 1. 🚂❄" ]
+  }
+}
