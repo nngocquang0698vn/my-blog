@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331339438832672775" ],
+    "url" : [ "https://twitter.com/rizbizkits/status/1331339438832672775" ],
+    "published" : [ "2020-11-24T20:50:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rizbizkits" ],
+        "numeric-id" : [ "800085538954878976" ],
+        "name" : [ "rizwana akmal khan" ],
+        "nickname" : [ "rizbizkits" ],
+        "url" : [ "https://twitter.com/rizbizkits", "https://www.rizwanakhan.com" ],
+        "published" : [ "2016-11-19T21:17:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279903682012774402/G8yaFDCD.jpg" ]
+      }
+    } ],
+    "content" : [ "the closer it gets to xmas, the more difficult it's proving to feel angrier and angrier about this. Pardon me whilst i evaporate into a mist of annoyance ✌" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1330914602406842368" ],
+      "url" : [ "https://twitter.com/alicef1811/status/1330914602406842368" ],
+      "published" : [ "2020-11-23T16:42:23+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:alicef1811" ],
+          "numeric-id" : [ "578967774" ],
+          "name" : [ "al 🧚🏼‍♀️" ],
+          "nickname" : [ "alicef1811" ],
+          "url" : [ "https://twitter.com/alicef1811", "http://www.instagram.com/alicefarley18" ],
+          "published" : [ "2012-05-13T11:42:25+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Liverpool, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1330543200386297856/S93KSdXW.jpg" ]
+        }
+      } ],
+      "content" : [ "I still cannot believe Boris Johnson closed the country down at 9:16pm the night before eid yet is proposing a mix of four households for Christmas four weeks in advance ??? Can you even imagine if this was the other way round the UK would be absolutely FURIOUS" ]
+    }
+  } ]
+}
