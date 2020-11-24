@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SandemanKit/status/1331246353016610823" ],
     "name" : [ "Like of @SandemanKit's tweet" ],
     "published" : [ "2020-11-24T22:38:00+0000" ],
     "category" : [ "coronavirus" ],
