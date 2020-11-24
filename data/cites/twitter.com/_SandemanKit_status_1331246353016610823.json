@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331246353016610823" ],
+    "url" : [ "https://twitter.com/SandemanKit/status/1331246353016610823" ],
+    "published" : [ "2020-11-24T14:40:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SandemanKit" ],
+        "numeric-id" : [ "534014209" ],
+        "name" : [ "Kit Sandeman" ],
+        "nickname" : [ "SandemanKit" ],
+        "url" : [ "https://twitter.com/SandemanKit", "http://nottinghampost.com/politics" ],
+        "published" : [ "2012-03-23T07:51:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/507882672614428672/dY5SufTF.jpeg" ]
+      }
+    } ],
+    "content" : [ "BREAKING: Vaccinations will start on December 9 in Nottingham and Notts if vaccine(s) approved, health boss says. Full story on its way" ]
+  }
+}
