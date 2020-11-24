@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RexChapman/status/1330718012576571395" ],
     "name" : [ "Like of @RexChapman's tweet" ],
     "published" : [ "2020-11-24T12:35:00+0000" ],
     "category" : [ "politics" ],
