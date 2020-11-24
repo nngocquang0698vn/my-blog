@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shanselman/status/1330985524748709888" ],
     "name" : [ "Like of @shanselman's tweet" ],
     "published" : [ "2020-11-24T15:29:00+0000" ],
     "category" : [ "technical-leadership", "leadership" ],
