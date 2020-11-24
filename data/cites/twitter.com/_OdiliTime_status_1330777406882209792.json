@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1330777406882209792" ],
+    "url" : [ "https://twitter.com/OdiliTime/status/1330777406882209792" ],
+    "published" : [ "2020-11-23T07:37:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:OdiliTime" ],
+        "numeric-id" : [ "2987613632" ],
+        "name" : [ "🇺🇸 🖥 uncle odil🗽 ✝️" ],
+        "nickname" : [ "OdiliTime" ],
+        "url" : [ "https://twitter.com/OdiliTime", "https://discord.gg/YYJHWsa" ],
+        "published" : [ "2015-01-17T23:22:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Land of Fruits and Nuts" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1081787096400969729/eYUINHG9.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Enfe_oUUUAEiU_B.jpg" ]
+  }
+}
