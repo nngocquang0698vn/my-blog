@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Chagrilled/status/1331276220793835523" ],
     "name" : [ "Like of @Chagrilled's tweet" ],
     "published" : [ "2020-11-24T19:50:00+0000" ],
     "category" : [ "capital-one" ],
