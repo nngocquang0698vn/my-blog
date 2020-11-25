@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FarrahC32/status/1331384332880023552" ],
     "name" : [ "Like of @FarrahC32's tweet" ],
     "published" : [ "2020-11-25T10:41:00+0000" ],
     "category" : [ "christmas" ],
