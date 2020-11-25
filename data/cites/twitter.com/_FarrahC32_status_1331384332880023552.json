@@ -1,0 +1,66 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331384332880023552" ],
+    "url" : [ "https://twitter.com/FarrahC32/status/1331384332880023552" ],
+    "published" : [ "2020-11-24T23:48:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FarrahC32" ],
+        "numeric-id" : [ "47350584" ],
+        "name" : [ "Farrah" ],
+        "nickname" : [ "FarrahC32" ],
+        "url" : [ "https://twitter.com/FarrahC32" ],
+        "published" : [ "2009-06-15T14:44:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "PDX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328726196989771776/m8Nm3HXY.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ac88a4f17a51c7fc" ],
+        "name" : [ "Portland, OR" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I was tempted too 🤶 twitter.com/sarahspain/sta…",
+      "html" : "I was tempted too 🤶 <a href=\"https://twitter.com/sarahspain/status/1331368685076946944\">twitter.com/sarahspain/sta…</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EnoG_fJUYAAy8ph.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1331368685076946944" ],
+      "url" : [ "https://twitter.com/SarahSpain/status/1331368685076946944" ],
+      "published" : [ "2020-11-24T22:46:44+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:SarahSpain" ],
+          "numeric-id" : [ "18494981" ],
+          "name" : [ "Sarah Spain" ],
+          "nickname" : [ "SarahSpain" ],
+          "url" : [ "https://twitter.com/SarahSpain", "http://www.sarahspain.com" ],
+          "published" : [ "2008-12-31T01:33:53+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Sweet Home Chicago" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1331310194916282368/QMY7fC_b.jpg" ]
+        }
+      } ],
+      "content" : [ "I'm tempted, y'all..." ],
+      "photo" : [ "https://pbs.twimg.com/media/Enn3uJhXUAEfSAg.jpg" ]
+    }
+  } ]
+}
