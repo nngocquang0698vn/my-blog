@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "java - How to disable spring security for particular url - Stack Overflow" ],
+    "name" : [ "How to disable spring security for particular url" ],
     "published" : [ "2020-05-14T18:17:42.714Z" ],
     "category" : [ "java", "spring-security" ],
     "bookmark-of" : [ "https://stackoverflow.com/questions/30366405/how-to-disable-spring-security-for-particular-url/30366773#30366773" ]
