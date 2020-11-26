@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Carnage4Life/status/1331707774334427137" ],
     "name" : [ "Like of @Carnage4Life's tweet" ],
     "published" : [ "2020-11-26T08:05:00+0000" ],
     "category" : [ "iot" ],
