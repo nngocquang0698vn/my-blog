@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331485452965130240" ],
+    "url" : [ "https://twitter.com/KR1573N/status/1331485452965130240" ],
+    "published" : [ "2020-11-25T06:30:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KR1573N" ],
+        "numeric-id" : [ "15012998" ],
+        "name" : [ "Kristen Seversky" ],
+        "nickname" : [ "KR1573N" ],
+        "url" : [ "https://twitter.com/KR1573N", "http://k-studies.com" ],
+        "published" : [ "2008-06-05T01:54:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rochester, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317283010820100098/Ob1w0kIE.jpg" ]
+      }
+    } ],
+    "content" : [ "And yet a bunch of colonizers spreading a virus before eating a ton of food is probably the most historically-consistent version of Thanksgiving that we've done." ]
+  }
+}
