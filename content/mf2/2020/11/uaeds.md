@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/seldo/status/1332019718597857281" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1332090104828006400" ],
     "name" : [ "Reply to https://twitter.com/seldo/status/1332019718597857281" ],
     "published" : [ "2020-11-26T22:29:00+0000" ],
     "content" : [ {
