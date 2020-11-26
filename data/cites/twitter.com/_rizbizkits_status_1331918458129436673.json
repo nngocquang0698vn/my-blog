@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331918458129436673" ],
+    "url" : [ "https://twitter.com/rizbizkits/status/1331918458129436673" ],
+    "published" : [ "2020-11-26T11:11:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rizbizkits" ],
+        "numeric-id" : [ "800085538954878976" ],
+        "name" : [ "rizwana akmal khan" ],
+        "nickname" : [ "rizbizkits" ],
+        "url" : [ "https://twitter.com/rizbizkits", "https://www.rizwanakhan.com" ],
+        "published" : [ "2016-11-19T21:17:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279903682012774402/G8yaFDCD.jpg" ]
+      }
+    } ],
+    "content" : [ "💀" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1331551838513016833" ],
+      "url" : [ "https://twitter.com/DanielSalinas00/status/1331551838513016833" ],
+      "published" : [ "2020-11-25T10:54:31+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:DanielSalinas00" ],
+          "numeric-id" : [ "769694005" ],
+          "name" : [ "Daniel Salinas Córdova" ],
+          "nickname" : [ "DanielSalinas00" ],
+          "url" : [ "https://twitter.com/DanielSalinas00", "https://elcaminosehacealandar.wordpress.com/" ],
+          "published" : [ "2012-08-20T15:13:32+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Koblenz, Deutschland" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1318845137091502080/pboHuEMm.jpg" ]
+        }
+      } ],
+      "content" : [ "Story of my life:" ],
+      "photo" : [ "https://pbs.twimg.com/media/EnqfQQ8W8AAgtKd.png" ]
+    }
+  } ]
+}
