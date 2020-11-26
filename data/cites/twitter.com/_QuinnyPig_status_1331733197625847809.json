@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331733197625847809" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1331733197625847809" ],
+    "published" : [ "2020-11-25T22:55:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Next week's keynote will feature no new @awscloud services, they'll just turn us-east-1 back on. #reInvent",
+      "html" : "Next week's keynote will feature no new <a href=\"https://twitter.com/awscloud\">@awscloud</a> services, they'll just turn us-east-1 back on. <a href=\"https://twitter.com/search?q=%23reInvent\">#reInvent</a>"
+    } ]
+  }
+}
