@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331670783383408640" ],
+    "url" : [ "https://twitter.com/ellorysmith/status/1331670783383408640" ],
+    "published" : [ "2020-11-25T18:47:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ellorysmith" ],
+        "numeric-id" : [ "276168280" ],
+        "name" : [ "ellory smith" ],
+        "nickname" : [ "ellorysmith" ],
+        "url" : [ "https://twitter.com/ellorysmith", "https://www.lafoodbank.org/donate-page/" ],
+        "published" : [ "2011-04-02T20:06:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317623388303552512/eVqmT-9m.jpg" ]
+      }
+    } ],
+    "content" : [ "everybody in America thinks they could one day become a  billionaire but nobody thinks they could get covid" ]
+  }
+}
