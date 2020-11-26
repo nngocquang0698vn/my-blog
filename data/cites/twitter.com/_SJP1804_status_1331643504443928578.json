@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1331643504443928578" ],
+    "url" : [ "https://twitter.com/SJP1804/status/1331643504443928578" ],
+    "published" : [ "2020-11-25T16:58:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SJP1804" ],
+        "numeric-id" : [ "16321479" ],
+        "name" : [ "SJP (ಠ_ಠ)" ],
+        "nickname" : [ "SJP1804" ],
+        "url" : [ "https://twitter.com/SJP1804" ],
+        "published" : [ "2008-09-17T01:30:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1258200599427821568/mIxIKL07.jpg" ]
+      }
+    } ],
+    "content" : [ "My fucking doorbell doesn't work because AWS us-east-1 is having issues 🤦🏿‍♂️" ]
+  }
+}
