@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ellorysmith/status/1331670783383408640" ],
     "name" : [ "Like of @ellorysmith's tweet" ],
     "published" : [ "2020-11-26T17:20:00+0000" ],
     "category" : [ "coronavirus" ],
