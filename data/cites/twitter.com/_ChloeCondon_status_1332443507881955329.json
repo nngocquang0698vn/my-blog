@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332443507881955329" ],
+    "url" : [ "https://twitter.com/ChloeCondon/status/1332443507881955329" ],
+    "published" : [ "2020-11-27T21:57:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChloeCondon" ],
+        "numeric-id" : [ "51529520" ],
+        "name" : [ "Chloe Condon 🎀" ],
+        "nickname" : [ "ChloeCondon" ],
+        "url" : [ "https://twitter.com/ChloeCondon", "http://www.youtube.com/c/ChloeCondonVideos" ],
+        "published" : [ "2009-06-27T19:22:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "*~The Interweb~*" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275623059664199680/YEZDVgqW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I mean, the 1st mistake @coinbase made was not taking/running w/ my idea to form a #womenintech bitcoin meetup group called \"CoinBaes\", tbh 🙄",
+      "html" : "I mean, the 1st mistake <a href=\"https://twitter.com/coinbase\">@coinbase</a> made was not taking/running w/ my idea to form a <a href=\"https://twitter.com/search?q=%23womenintech\">#womenintech</a> bitcoin meetup group called \"CoinBaes\", tbh 🙄"
+    } ]
+  }
+}
