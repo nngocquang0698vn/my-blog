@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332210905958936578" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1332210905958936578" ],
+    "published" : [ "2020-11-27T06:33:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1326751711122186240/Jg0xWI8Z.jpg" ]
+      }
+    } ],
+    "content" : [ "shared without comment" ],
+    "photo" : [ "https://pbs.twimg.com/media/Enz2balVkAI8Jzc.jpg" ]
+  }
+}
