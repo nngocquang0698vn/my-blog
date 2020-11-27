@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332005880078999557" ],
+    "url" : [ "https://twitter.com/TheAndrewNadeau/status/1332005880078999557" ],
+    "published" : [ "2020-11-26T16:58:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheAndrewNadeau" ],
+        "numeric-id" : [ "732678376306188289" ],
+        "name" : [ "MehGyver" ],
+        "nickname" : [ "TheAndrewNadeau" ],
+        "url" : [ "https://twitter.com/TheAndrewNadeau", "https://twitter.com/AndrewNadeau0/timelines/1053883086360973312", "http://tinyurl.com/HWIWWPodcast" ],
+        "published" : [ "2016-05-17T21:05:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234276076127444997/ZH66vp75.jpg" ]
+      }
+    } ],
+    "content" : [ "I tell my cat “I know” whenever she meows but I’m gonna be honest, I have no fucking idea" ]
+  }
+}
