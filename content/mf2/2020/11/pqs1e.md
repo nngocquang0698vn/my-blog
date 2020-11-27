@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OoCPokemon/status/1332117978821832705" ],
     "name" : [ "Like of @OoCPokemon's tweet" ],
     "published" : [ "2020-11-27T07:47:00+0000" ],
     "category" : [ "pokemon" ],
