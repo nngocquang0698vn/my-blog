@@ -7,11 +7,7 @@
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "published" : [ "2020-11-23T10:02:51.892Z" ],
     "category" : [ "tech-nott-party" ],
-    "rsvp" : [ "interested" ],
-    "content" : [ {
-      "html" : "",
-      "value" : "I need to grab a ticket, but I really hope I'll be able to make the <a href=\"/tags/nott-tech-party/\">#NottTechParty</a>!"
-    } ]
+    "rsvp" : [ "yes" ]
   },
   "kind" : "rsvps",
   "slug" : "2020/11/ptdcz",
