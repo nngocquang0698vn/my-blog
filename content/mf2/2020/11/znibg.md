@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1332803686976933889" ],
     "published" : [ "2020-11-28T21:44:00+0000" ],
     "repost-of" : [ "https://twitter.com/EmilyKager/status/1332765173313015808" ],
     "category" : [ "diversity-and-inclusion" ]
