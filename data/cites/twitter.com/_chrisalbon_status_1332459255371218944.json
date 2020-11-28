@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332459255371218944" ],
+    "url" : [ "https://twitter.com/chrisalbon/status/1332459255371218944" ],
+    "published" : [ "2020-11-27T23:00:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chrisalbon" ],
+        "numeric-id" : [ "11518572" ],
+        "name" : [ "Chris Albon" ],
+        "nickname" : [ "chrisalbon" ],
+        "url" : [ "https://twitter.com/chrisalbon", "https://ChrisAlbon.com", "http://MachineLearningFlashcards.com" ],
+        "published" : [ "2007-12-26T01:49:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Late 1960s: “We will build a distributed global network so that if a single node is destroyed by a nuclear attack, the network is unaffected.”\n\n2020: us-east-1 is down so you can’t turn on your oven.",
+      "html" : "<div style=\"white-space: pre\">Late 1960s: “We will build a distributed global network so that if a single node is destroyed by a nuclear attack, the network is unaffected.”\n\n2020: us-east-1 is down so you can’t turn on your oven.</div>"
+    } ]
+  }
+}
