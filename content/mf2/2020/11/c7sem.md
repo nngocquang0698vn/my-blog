@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DWUhlfelderLaw/status/1332516745769267200" ],
     "name" : [ "Like of @DWUhlfelderLaw's tweet" ],
     "published" : [ "2020-11-28T22:14:00+0000" ],
     "category" : [ "politics" ],
