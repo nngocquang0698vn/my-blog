@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chrisalbon/status/1332459255371218944" ],
     "name" : [ "Like of @chrisalbon's tweet" ],
     "published" : [ "2020-11-28T22:12:00+0000" ],
     "category" : [ "iot" ],
