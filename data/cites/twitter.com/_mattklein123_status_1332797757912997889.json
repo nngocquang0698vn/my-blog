@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332797757912997889" ],
+    "url" : [ "https://twitter.com/mattklein123/status/1332797757912997889" ],
+    "published" : [ "2020-11-28T21:25:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mattklein123" ],
+        "numeric-id" : [ "310870197" ],
+        "name" : [ "Matt Klein" ],
+        "nickname" : [ "mattklein123" ],
+        "url" : [ "https://twitter.com/mattklein123", "https://mattklein123.dev/" ],
+        "published" : [ "2011-06-04T14:03:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Pacific Northwest" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/769023810532216833/fNvJJo1b.jpg" ]
+      }
+    } ],
+    "content" : [ "Lot of armchair quarterbacking about the AWS/Cloudflare outages. I never comment on outages because, frankly, \"the internet\" is a Rube Goldberg machine, built on buckets of tears and non-obvious (and often non-technical) constraints. It's a miracle it works 1% as well as it does." ]
+  }
+}
