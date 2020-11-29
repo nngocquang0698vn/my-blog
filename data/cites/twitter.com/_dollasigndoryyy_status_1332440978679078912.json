@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332440978679078912" ],
+    "url" : [ "https://twitter.com/dollasigndoryyy/status/1332440978679078912" ],
+    "published" : [ "2020-11-27T21:47:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dollasigndoryyy" ],
+        "numeric-id" : [ "804138356754018304" ],
+        "name" : [ "Doryyy 🍀" ],
+        "nickname" : [ "dollasigndoryyy" ],
+        "url" : [ "https://twitter.com/dollasigndoryyy" ],
+        "published" : [ "2016-12-01T01:41:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Baltimore, MD" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1304194816616607745/dlhFRKSR.jpg" ]
+      }
+    } ],
+    "content" : [ "Ppl dont fake depression they fake being ok...remember that" ]
+  }
+}
