@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332917533964427264" ],
+    "url" : [ "https://twitter.com/ohkitties/status/1332917533964427264" ],
+    "published" : [ "2020-11-29T05:21:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohkitties" ],
+        "numeric-id" : [ "1005199340481245184" ],
+        "name" : [ "cats" ],
+        "nickname" : [ "ohkitties" ],
+        "url" : [ "https://twitter.com/ohkitties" ],
+        "published" : [ "2018-06-08T21:26:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "turn my notifications on 💖" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332913444551536646/ZrnlejZp.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/En95bpOXIAEyNf2.jpg", "https://pbs.twimg.com/media/En95bpVXMAEpVly.jpg" ]
+  }
+}
