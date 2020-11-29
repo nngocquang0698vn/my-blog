@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattklein123/status/1332797757912997889" ],
     "name" : [ "Like of @mattklein123's tweet" ],
     "published" : [ "2020-11-29T16:05:00+0000" ],
     "category" : [ "production" ],
