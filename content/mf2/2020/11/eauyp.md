@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1333114746313318404" ],
     "published" : [ "2020-11-29T18:20:00+0000" ],
     "category" : [ "the-grinch", "christmas" ],
     "content" : [ {
