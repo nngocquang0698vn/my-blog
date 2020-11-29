@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333160338917715970" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1333160338917715970" ],
+    "published" : [ "2020-11-29T21:26:08+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/alicegoldfuss/status/1333157616868937728" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "name" : [ "mechanical turkey" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/", "http://twitch.tv/bletchleypunk" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I often get held up as an \"anyone can excel in tech!\" example, and yes it's *possible* but it's certainly not probable\n\nthere are plenty of people like me who don't get the chance or burn out from abuse",
+      "html" : "<div style=\"white-space: pre\">I often get held up as an \"anyone can excel in tech!\" example, and yes it's *possible* but it's certainly not probable\n\nthere are plenty of people like me who don't get the chance or burn out from abuse</div>"
+    } ]
+  }
+}
