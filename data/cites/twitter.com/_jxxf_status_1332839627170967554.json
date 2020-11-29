@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332839627170967554" ],
+    "url" : [ "https://twitter.com/jxxf/status/1332839627170967554" ],
+    "published" : [ "2020-11-29T00:11:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jxxf" ],
+        "numeric-id" : [ "19463693" ],
+        "name" : [ "John Feminella 🌠" ],
+        "nickname" : [ "jxxf" ],
+        "url" : [ "https://twitter.com/jxxf", "http://jxf.me" ],
+        "published" : [ "2009-01-24T21:15:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "CHO / NYC / DC / SFO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3348427561/9d7f08f1e103a16c8debd169301b9944.jpeg" ]
+      }
+    } ],
+    "content" : [ "Personally attacked." ],
+    "photo" : [ "https://pbs.twimg.com/media/En8yk8AXYAQqTrS.jpg" ]
+  }
+}
