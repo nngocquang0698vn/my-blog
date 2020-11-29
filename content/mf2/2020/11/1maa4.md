@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pixelatedboat/status/1332982642896109568" ],
     "name" : [ "Like of @pixelatedboat's tweet" ],
     "published" : [ "2020-11-29T21:56:00+0000" ],
     "category" : [ "politics", "satire" ],
