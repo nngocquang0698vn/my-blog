@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamhjk/status/1333255693671886848" ],
     "name" : [ "Like of @adamhjk's tweet" ],
     "published" : [ "2020-11-30T13:09:00+0000" ],
     "category" : [ "web", "ruby" ],
