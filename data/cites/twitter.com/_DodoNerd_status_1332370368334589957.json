@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1332370368334589957" ],
+    "url" : [ "https://twitter.com/DodoNerd/status/1332370368334589957" ],
+    "published" : [ "2020-11-27T17:07:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DodoNerd" ],
+        "numeric-id" : [ "296111765" ],
+        "name" : [ "Bhav Patel" ],
+        "nickname" : [ "DodoNerd" ],
+        "url" : [ "https://twitter.com/DodoNerd", "https://craptalks.com" ],
+        "published" : [ "2011-05-10T06:46:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332091631617650688/p7L0ePgS.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I've just started a chess slack channel on @GoustoTech slack group titled chess-club-7.\nYou can't even imagine how proud I am of this name.",
+      "html" : "<div style=\"white-space: pre\">I've just started a chess slack channel on <a href=\"https://twitter.com/GoustoTech\">@GoustoTech</a> slack group titled chess-club-7.\nYou can't even imagine how proud I am of this name.</div>"
+    } ]
+  }
+}
