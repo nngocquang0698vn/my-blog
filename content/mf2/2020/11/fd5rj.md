@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevenPears/status/1333363964873420800" ],
     "name" : [ "Like of @StevenPears's tweet" ],
     "published" : [ "2020-11-30T12:37:00+0000" ],
     "category" : [ "hacktoberfest" ],
