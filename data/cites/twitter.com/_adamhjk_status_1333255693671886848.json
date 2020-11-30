@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333255693671886848" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1333255693671886848" ],
+    "published" : [ "2020-11-30T03:45:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ]
+      }
+    } ],
+    "content" : [ "I do wish Ruby was the browsers embedded language tho" ]
+  }
+}
