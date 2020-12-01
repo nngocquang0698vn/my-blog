@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333549755952087040" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1333549755952087040" ],
+    "published" : [ "2020-11-30T23:13:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove, but ✨festive✨" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333557863847845889/jOYQH_TH.jpg" ]
+      }
+    } ],
+    "content" : [ "How do I look a teenage girl at a high school workshop in the eye and tell her that there's a place for her in the tech industry, knowing she's going to have to struggle through years of being underestimated, underpaid, and overworked just to get half the respect of her peers?" ]
+  }
+}
