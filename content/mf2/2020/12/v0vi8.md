@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1333776323492401154" ],
     "published" : [ "2020-12-01T14:08:00+0000" ],
     "repost-of" : [ "https://twitter.com/Dixie3Flatline/status/1333549755952087040" ],
     "category" : [ "diversity-and-inclusion" ]
