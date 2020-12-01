@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333802493646540805" ],
+    "url" : [ "https://twitter.com/ChloeCondon/status/1333802493646540805" ],
+    "published" : [ "2020-12-01T15:57:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChloeCondon" ],
+        "numeric-id" : [ "51529520" ],
+        "name" : [ "Chloe Condon 🎀" ],
+        "nickname" : [ "ChloeCondon" ],
+        "url" : [ "https://twitter.com/ChloeCondon", "http://www.youtube.com/c/ChloeCondonVideos" ],
+        "published" : [ "2009-06-27T19:22:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "*~The Interweb~*" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275623059664199680/YEZDVgqW.jpg" ]
+      }
+    } ],
+    "content" : [ "Felt young & hot- may destroy a start-up  before they find product market fit l8r 💅" ]
+  }
+}
