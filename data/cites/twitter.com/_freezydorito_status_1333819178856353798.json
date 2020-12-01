@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333819178856353798" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1333819178856353798" ],
+    "published" : [ "2020-12-01T17:04:08+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/freezydorito/status/1333817910817599488" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "legalize reindeers" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "shoreditch exclusion zone" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314974739824246784/L46478lF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "\"a full breakfast, main lunchtime or evening meal\" as defined by the ruling\n\nso yeah yes",
+      "html" : "<div style=\"white-space: pre\">\"a full breakfast, main lunchtime or evening meal\" as defined by the ruling\n\nso yeah yes</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EoKteSdXIAEWQIE.jpg" ]
+  }
+}
