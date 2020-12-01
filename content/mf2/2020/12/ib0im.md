@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alicegoldfuss/status/1333552522317815810" ],
     "name" : [ "Like of @alicegoldfuss's tweet" ],
     "published" : [ "2020-12-01T14:09:00+0000" ],
     "category" : [ "satire" ],
