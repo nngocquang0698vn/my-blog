@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nwilliams030/status/1333603683901313024" ],
     "name" : [ "Like of @nwilliams030's tweet" ],
     "published" : [ "2020-12-01T11:14:00+0000" ],
     "category" : [ "satire" ],
