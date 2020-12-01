@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333603683901313024" ],
+    "url" : [ "https://twitter.com/nwilliams030/status/1333603683901313024" ],
+    "published" : [ "2020-12-01T02:47:50+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/eade_bengard/status/1333584182543486978" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nwilliams030" ],
+        "numeric-id" : [ "1343248315" ],
+        "name" : [ "nicole" ],
+        "nickname" : [ "nwilliams030" ],
+        "url" : [ "https://twitter.com/nwilliams030", "https://linktr.ee/nwilliams030", "https://twitter.com/search?q=from%3Anwilliams030%20min_faves%3A50&src" ],
+        "published" : [ "2013-04-11T01:13:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "DC 🔜 NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329191052180410373/sgcnYo2M.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "via @guavault",
+      "html" : "via <a href=\"https://twitter.com/guavault\">@guavault</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/eade_bengard\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EoHpd0hXEAI6dhh.png" ]
+  }
+}
