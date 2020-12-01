@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333578019869487104" ],
+    "url" : [ "https://twitter.com/lunasorcery/status/1333578019869487104" ],
+    "published" : [ "2020-12-01T01:05:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1333577304631480322" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lunasorcery" ],
+        "numeric-id" : [ "29508496" ],
+        "name" : [ "✨ luna 🌙" ],
+        "nickname" : [ "lunasorcery" ],
+        "url" : [ "https://twitter.com/lunasorcery", "https://github.com/lunasorcery" ],
+        "published" : [ "2009-04-07T18:27:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Moon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319075494604701699/uVLg3KqY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "twitter.com/Dixie3Flatline",
+      "html" : "<a href=\"https://twitter.com/Dixie3Flatline\">twitter.com/Dixie3Flatline</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>"
+    } ]
+  }
+}
