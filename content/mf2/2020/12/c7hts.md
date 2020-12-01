@@ -1,0 +1,16 @@
+{
+  "date" : "2020-12-01T11:14:00+0000",
+  "deleted" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @nwilliams030's tweet" ],
+    "published" : [ "2020-12-01T11:14:00+0000" ],
+    "category" : [ "satire" ],
+    "like-of" : [ "https://twitter.com/nwilliams030/status/1333603683901313024" ]
+  },
+  "kind" : "likes",
+  "slug" : "2020/12/c7hts",
+  "tags" : [ "satire" ],
+  "client_id" : "https://indigenous.realize.be"
+}
