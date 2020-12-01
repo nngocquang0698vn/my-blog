@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheElliotPage/status/1333820783655837701" ],
     "name" : [ "Like of @TheElliotPage's tweet" ],
     "published" : [ "2020-12-01T22:43:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
