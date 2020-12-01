@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333584182543486978" ],
+    "url" : [ "https://twitter.com/eade_bengard/status/1333584182543486978" ],
+    "published" : [ "2020-12-01T01:30:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eade_bengard" ],
+        "numeric-id" : [ "334209605" ],
+        "name" : [ "Eade Bengard" ],
+        "nickname" : [ "eade_bengard" ],
+        "url" : [ "https://twitter.com/eade_bengard", "http://sarahbengard.com" ],
+        "published" : [ "2011-07-12T18:58:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/555437315229630465/f3VSO-BC.jpeg" ]
+      }
+    } ],
+    "content" : [ "Can’t tell you how many startup offers I’ve been denied bc these juicy buns" ]
+  }
+}
