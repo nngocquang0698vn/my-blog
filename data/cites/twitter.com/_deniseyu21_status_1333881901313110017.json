@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1333881901313110017" ],
+    "url" : [ "https://twitter.com/deniseyu21/status/1333881901313110017" ],
+    "published" : [ "2020-12-01T21:13:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:deniseyu21" ],
+        "numeric-id" : [ "25458567" ],
+        "name" : [ "Denise Yu" ],
+        "nickname" : [ "deniseyu21" ],
+        "url" : [ "https://twitter.com/deniseyu21", "http://deniseyu.io", "http://deniseyu.io/art" ],
+        "published" : [ "2009-03-20T04:17:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/471064769097523200/dOghyD0J.jpeg" ]
+      }
+    } ],
+    "content" : [ "Tried Kenji’s fool-proof cast iron pan pizza and can verify — it is indeed fool-proof. And delicious. Pizza party at my place once this pandemic is over!" ],
+    "photo" : [ "https://pbs.twimg.com/media/EoLmhGvXcAQNl1A.jpg" ]
+  }
+}
