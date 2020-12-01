@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/penelope_zone/status/1333874649688662019" ],
     "name" : [ "Like of @penelope_zone's tweet" ],
     "published" : [ "2020-12-01T22:09:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
