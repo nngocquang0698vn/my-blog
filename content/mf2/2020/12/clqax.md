@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Shopify/status/1334220017169276930" ],
     "name" : [ "Like of @Shopify's tweet" ],
     "published" : [ "2020-12-02T22:31:00+0000" ],
     "like-of" : [ "https://twitter.com/Shopify/status/1334220017169276930" ]
