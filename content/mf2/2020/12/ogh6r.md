@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unsolvedtwt/status/1333826775642587136" ],
     "name" : [ "Like of @unsolvedtwt's tweet" ],
     "published" : [ "2020-12-02T14:29:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
