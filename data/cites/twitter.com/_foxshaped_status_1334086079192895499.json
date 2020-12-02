@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334086079192895499" ],
+    "url" : [ "https://twitter.com/foxshaped/status/1334086079192895499" ],
+    "published" : [ "2020-12-02T10:44:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:foxshaped" ],
+        "numeric-id" : [ "223470629" ],
+        "name" : [ "Emma" ],
+        "nickname" : [ "foxshaped" ],
+        "url" : [ "https://twitter.com/foxshaped", "https://www.fox-makes.co.uk/" ],
+        "published" : [ "2010-12-06T13:48:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leicester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1287337672898498560/ZW0x5gW5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I GOT MY JOB I GOT MY JOB\n\n(I interviewed to make the post I currently do a permanent one. They just phoned!)",
+      "html" : "<div style=\"white-space: pre\">I GOT MY JOB I GOT MY JOB\n\n(I interviewed to make the post I currently do a permanent one. They just phoned!)</div>"
+    } ]
+  }
+}
