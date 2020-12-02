@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dipalua_/status/1333999331481796609" ],
     "name" : [ "Like of @dipalua_'s tweet" ],
     "published" : [ "2020-12-02T14:20:00+0000" ],
     "category" : [ "satire" ],
