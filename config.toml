@@ -55,6 +55,7 @@ to = "/mf2/2020/03/bl33l/"
   tags = "/tags/:title/"
   kinds = "/kind/:title/"
   week-notes = "/week-notes/:year/:filename/"
+  music-in-review = "/music-in-review/:filename/"
 
 [taxonomies]
   kind = "kind"
