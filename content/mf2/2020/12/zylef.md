@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/charliehtweets/status/1334088331404206082" ],
     "name" : [ "Like of @charliehtweets's tweet" ],
     "published" : [ "2020-12-03T13:22:00+0000" ],
     "category" : [ "christmas" ],
