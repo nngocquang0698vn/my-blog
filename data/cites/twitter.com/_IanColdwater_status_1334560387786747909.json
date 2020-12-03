@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334560387786747909" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1334560387786747909" ],
+    "published" : [ "2020-12-03T18:09:26+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/felix19350/status/1334558807368884228" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater, but ✨festive✨" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334514473718177796/qHMIO4fU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "why do you think they called it Borg",
+      "html" : "why do you think they called it Borg\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/felix19350\"></a>"
+    } ]
+  }
+}
