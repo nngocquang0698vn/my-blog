@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334553833188560896" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1334553833188560896" ],
+    "published" : [ "2020-12-03T17:43:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "name" : [ "Tierney Cyren 🍑" ],
+        "nickname" : [ "bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manhattan, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274345571940208642/JFMpVpsW.jpg" ]
+      }
+    } ],
+    "content" : [ "definitely didn't pull the recline release while I was talking on a meeting and yeet myself back for everyone to see" ]
+  }
+}
