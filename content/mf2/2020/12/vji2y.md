@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/timnitGebru/status/1334356282711691266" ],
     "name" : [ "Like of @timnitGebru's tweet" ],
     "published" : [ "2020-12-03T19:46:00+0000" ],
     "category" : [ "google" ],
