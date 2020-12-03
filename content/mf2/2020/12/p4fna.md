@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaokim2001/status/1334481060013469696" ],
     "name" : [ "Like of @jaokim2001's tweet" ],
     "published" : [ "2020-12-03T13:19:00+0000" ],
     "category" : [ "java" ],
