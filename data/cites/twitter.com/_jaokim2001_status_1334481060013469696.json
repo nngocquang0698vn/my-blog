@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334481060013469696" ],
+    "url" : [ "https://twitter.com/jaokim2001/status/1334481060013469696" ],
+    "published" : [ "2020-12-03T12:54:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jaokim2001" ],
+        "numeric-id" : [ "87969531" ],
+        "name" : [ "Joakim Nordström" ],
+        "nickname" : [ "jaokim2001" ],
+        "url" : [ "https://twitter.com/jaokim2001", "https://inside.java/u/JoakimNordstrom/" ],
+        "published" : [ "2009-11-06T15:59:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/430822047560630272/TOTfD27I.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Ever had #Java crash on you, and blamed the #JVM? Ever wondered what the hs_err file actually tells you? Find out in my new post: inside.java/2020/12/03/cra…",
+      "html" : "Ever had <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> crash on you, and blamed the <a href=\"https://twitter.com/search?q=%23JVM\">#JVM</a>? Ever wondered what the hs_err file actually tells you? Find out in my new post: <a href=\"https://inside.java/2020/12/03/crash-outside-the-jvm/\">inside.java/2020/12/03/cra…</a>"
+    } ]
+  }
+}
