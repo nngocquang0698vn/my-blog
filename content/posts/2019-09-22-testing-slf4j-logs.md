@@ -14,9 +14,7 @@ Logging is a very important part of your application. You can be the best develo
 
 A very popular logging library in the Java ecosystem is [SLF4J](https://www.slf4j.org/), and we'll look at how we can test we've set things up correctly.
 
-**Update 2020-05-06**: I would recommend [seeing this note about `sfl4j-test`](#slf4j-test), which I now recommend over my below solution.
-
-The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/slf4j-testing](https://gitlab.com/jamietanna/slf4j-testing), and the examples are based on [davidxxx's response on Stack Overflow](https://stackoverflow.com/a/52229629).
+The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/slf4j-testing](https://gitlab.com/jamietanna/slf4j-testing), and we use [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), as shared by <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span>.
 
 Let's say that we have this example class that does some processing of data, as well as logging:
 
@@ -28,94 +26,85 @@ public class ClassThatLogs {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(ClassThatLogs.class);
 
-  public void doSomething(boolean doSomethingElse) {
+  public void doSomething(boolean logErrors) {
     LOGGER.debug("The boolean passed in has value {}", logErrors);
-    // do some stuff
-    LOGGER.info("this is logging something else");
-    // do some other stuff
+    if (logErrors) {
+      LOGGER.error("this is because there's a boolean=true");
+    }
+    LOGGER.info("this is happening no matter what");
   }
 }
 ```
 
-To test that these logs are send correctly, we're able to hook into the underlying Logback code and get a `ListAppender` object, which contains all the log events for a given `Logger`. Note that it's best to this into separate utility class so we can re-use the code around the project, instead of having these lines duplicated across test classes.
+We can follow the [Getting Started guide](https://projects.lidalia.org.uk/slf4j-test/) and add the [slf4j-test dependency](https://mvnrepository.com/artifact/uk.org.lidalia/slf4j-test/) to our codebase, then write a test class (in this example using AssertJ) to make it easier to assert that the logs are present at the right level:
 
 ```java
-import ch.qos.logback.classic.Logger;
-import ch.qos.logback.classic.spi.ILoggingEvent;
-import ch.qos.logback.core.read.ListAppender;
-import org.slf4j.LoggerFactory;
+import static org.assertj.core.api.Assertions.assertThat;
+import static uk.org.lidalia.slf4jtest.LoggingEvent.debug;
+import static uk.org.lidalia.slf4jtest.LoggingEvent.error;
+import static uk.org.lidalia.slf4jtest.LoggingEvent.info;
 
-public class LoggerTestUtil {
-  public static ListAppender<ILoggingEvent> getListAppenderForClass(Class clazz) {
-    Logger logger = (Logger) LoggerFactory.getLogger(clazz);
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Test;
+import uk.org.lidalia.slf4jtest.TestLogger;
+import uk.org.lidalia.slf4jtest.TestLoggerFactory;
 
-    ListAppender<ILoggingEvent> loggingEventListAppender = new ListAppender<>();
-    loggingEventListAppender.start();
+class ClassThatLogsTest {
 
-    logger.addAppender(loggingEventListAppender);
+  private final TestLogger logger = TestLoggerFactory.getTestLogger(ClassThatLogs.class);
+  private final ClassThatLogs sut = new ClassThatLogs();
 
-    return loggingEventListAppender;
+  @AfterEach
+  void tearDown() {
+    logger.clear();
   }
-}
-```
-
-Now we have a straightforward setup, and can take advantage of AssertJ to make it easier to assert that the logs are present at the right level:
-
-```java
-import static org.assertj.core.api.Java6Assertions.assertThat;
-
-import ch.qos.logback.classic.Level;
-import ch.qos.logback.classic.spi.ILoggingEvent;
-import ch.qos.logback.core.read.ListAppender;
-import org.assertj.core.groups.Tuple;
-import org.junit.Before;
-import org.junit.Test;
-
-public class ClassThatLogsTest {
-
-  private ListAppender<ILoggingEvent> loggingEventListAppender;
-  private ClassThatLogs sut;
-
-  @Before
-  public void setup() {
-    loggingEventListAppender = LoggerTestUtil.getListAppenderForClass(ClassThatLogs.class);
-
-    sut = new ClassThatLogs();
-  }
-
-  // other tests
 
   @Test
-  public void methodLogsInfoRegardless() {
+  void methodLogsErrorWhenBooleanIsTrue() {
+    // given
+
+    // when
+    sut.doSomething(true);
+
+    // then
+    assertThat(logger.getLoggingEvents()).contains(error("this is because there's a boolean=true"));
+  }
+
+  @Test
+  void methodDoesNotLogErrorWhenBooleanIsFalse() {
     // given
 
     // when
     sut.doSomething(false);
 
     // then
-    assertThat(loggingEventListAppender.list)
-        .extracting(ILoggingEvent::getMessage, ILoggingEvent::getLevel)
-        .contains(Tuple.tuple("this is logging something else", Level.INFO));
+    assertThat(logger.getLoggingEvents())
+        .doesNotContain(error("this is because there's a boolean=true"));
   }
 
   @Test
-  public void methodLogsFormatStringsInDebugMode() {
+  void methodLogsInfoRegardless() {
     // given
 
     // when
     sut.doSomething(false);
 
     // then
-    assertThat(loggingEventListAppender.list)
-        .extracting(ILoggingEvent::getMessage, ILoggingEvent::getFormattedMessage,
-            ILoggingEvent::getLevel)
-        .contains(Tuple
-            .tuple("The boolean passed in has value {}", "The boolean passed in has value false",
-                Level.DEBUG));
+    assertThat(logger.getLoggingEvents()).contains(info("this is happening no matter what"));
+  }
+
+  @Test
+  void methodLogsFormatStringsInDebugMode() {
+    // given
+
+    // when
+    sut.doSomething(false);
+
+    // then
+    assertThat(logger.getLoggingEvents())
+        .contains(debug("The boolean passed in has value {}", false));
   }
 }
 ```
 
-Notice that when we are using a format string we have two checks on the log message - `getMessage` returns the raw message (including format placeholders), but `getFormattedMessage` returns the expanded log message.
-
-<a name="slf4j-test"></a>As <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span> pointed out, there is also the library [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/). I had originally not put this as the source repository does not seem to have a license - it appears the license is somewhere on the website, because I found [a Pull Request raised to add that the license to the repo](https://github.com/Mahoney/slf4j-test/pull/23). The project seems dormant as there have been no updates in over 4 years, and there are PRs open since 2016, so use at your own risk! **Update 2020-05-06**: I am using this in production, so you may want to, as well!
+We can see that this is fairly straightforward, and allows us to assert clearly on what is being logged.
