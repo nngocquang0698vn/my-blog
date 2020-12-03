@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334150937330339841" ],
+    "url" : [ "https://twitter.com/codahall/status/1334150937330339841" ],
+    "published" : [ "2020-12-02T15:02:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:codahall" ],
+        "numeric-id" : [ "327249822" ],
+        "name" : [ "coda" ],
+        "nickname" : [ "codahall" ],
+        "url" : [ "https://twitter.com/codahall", "http://www.instagram.com/codahall" ],
+        "published" : [ "2011-07-01T07:26:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "knoxville, tn" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334527916789669890/Ir2f8IB-.jpg" ]
+      }
+    } ],
+    "content" : [ ":-)" ],
+    "photo" : [ "https://pbs.twimg.com/media/EoPbNGMXcAA5E3G.jpg", "https://pbs.twimg.com/media/EoPbNGKWEAMzhhB.jpg", "https://pbs.twimg.com/media/EoPbNGJW4AcsvLM.jpg", "https://pbs.twimg.com/media/EoPbNGKXUAAGO4r.jpg" ]
+  }
+}
