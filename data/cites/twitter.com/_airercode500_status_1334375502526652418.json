@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334375502526652418" ],
+    "url" : [ "https://twitter.com/airercode500/status/1334375502526652418" ],
+    "published" : [ "2020-12-03T05:54:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:airercode500" ],
+        "numeric-id" : [ "747851730" ],
+        "name" : [ "Tyler 🎅🏻🎄☃️" ],
+        "nickname" : [ "airercode500" ],
+        "url" : [ "https://twitter.com/airercode500", "http://twalker.dev" ],
+        "published" : [ "2012-08-09T20:08:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Kirkland, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312091062043774976/e0etdH2-.jpg" ]
+      }
+    } ],
+    "content" : [ "Software execs neglecting technical debt like" ],
+    "photo" : [ "https://pbs.twimg.com/media/EoSnBT9UcAYqd8i.png" ]
+  }
+}
