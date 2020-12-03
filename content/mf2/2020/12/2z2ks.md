@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bitandbang/status/1334553833188560896" ],
     "name" : [ "Like of @bitandbang's tweet" ],
     "published" : [ "2020-12-03T18:14:00+0000" ],
     "category" : [ "remote-work" ],
