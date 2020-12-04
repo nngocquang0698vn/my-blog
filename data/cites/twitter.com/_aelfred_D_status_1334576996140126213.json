@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334576996140126213" ],
+    "url" : [ "https://twitter.com/aelfred_D/status/1334576996140126213" ],
+    "published" : [ "2020-12-03T19:15:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:aelfred_D" ],
+        "numeric-id" : [ "796208346512629761" ],
+        "name" : [ "Aelfred The Great" ],
+        "nickname" : [ "aelfred_D" ],
+        "url" : [ "https://twitter.com/aelfred_D" ],
+        "published" : [ "2016-11-09T04:30:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Wessex by way of the USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/799441815736897536/H2xBqbue.jpg" ]
+      }
+    } ],
+    "content" : [ "Don’t think of it as working from home, think of it as living at work, it’s much more depressing that way" ]
+  }
+}
