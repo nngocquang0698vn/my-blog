@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aelfred_D/status/1334576996140126213" ],
     "name" : [ "Like of @aelfred_D's tweet" ],
     "published" : [ "2020-12-04T10:58:00+0000" ],
     "category" : [ "coronavirus", "remote-work" ],
