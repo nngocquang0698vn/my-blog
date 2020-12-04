@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334904511081578497" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1334904511081578497" ],
+    "published" : [ "2020-12-04T16:56:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove, but ✨festive✨" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334558580444258306/XNfOsK-P.jpg" ]
+      }
+    } ],
+    "content" : [ "Get in, loser" ],
+    "photo" : [ "https://pbs.twimg.com/media/EoaIOcsUcAE6h3J.png" ]
+  }
+}
