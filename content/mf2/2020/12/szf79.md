@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IolaElla/status/1334611615426236416" ],
     "name" : [ "Like of @IolaElla's tweet" ],
     "published" : [ "2020-12-04T19:37:00+0000" ],
     "like-of" : [ "https://twitter.com/IolaElla/status/1334611615426236416" ]
