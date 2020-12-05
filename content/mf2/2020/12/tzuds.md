@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lais_bsc/status/1334950701953380352" ],
     "name" : [ "Like of @lais_bsc's tweet" ],
     "published" : [ "2020-12-05T19:59:00+0000" ],
     "category" : [ "tech-nottingham" ],
