@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334983245650391040" ],
+    "url" : [ "https://twitter.com/emuehlbe/status/1334983245650391040" ],
+    "published" : [ "2020-12-04T22:09:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emuehlbe" ],
+        "numeric-id" : [ "90870412" ],
+        "name" : [ "Ellen Muehlberger" ],
+        "nickname" : [ "emuehlbe" ],
+        "url" : [ "https://twitter.com/emuehlbe", "https://hcommons.org/members/emuehlbe/", "http://tinyurl.com/MoReckoning" ],
+        "published" : [ "2009-11-18T13:34:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ann Arbor" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/925677969598595072/uxGz9wbi.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Here at the end of 2020, you might be wondering: who invented the best word of the year, namely \"doomscrolling\"? \n\nFriends, it was me! \nAnd, at the same time, it wasn't me!\n\nPull up a chair and hear how #doomscrolling came into existence",
+      "html" : "<div style=\"white-space: pre\">Here at the end of 2020, you might be wondering: who invented the best word of the year, namely \"doomscrolling\"? \n\nFriends, it was me! \nAnd, at the same time, it wasn't me!\n\nPull up a chair and hear how <a href=\"https://twitter.com/search?q=%23doomscrolling\">#doomscrolling</a> came into existence</div>"
+    } ]
+  }
+}
