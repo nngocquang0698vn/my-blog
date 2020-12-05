@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335269107579674625" ],
+    "url" : [ "https://twitter.com/technottingham/status/1335269107579674625" ],
+    "published" : [ "2020-12-05T17:05:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A few favourite pictures from #NottTechParty 2019 - what an amazing evening! 🥰\n\n2020's party is this Wednesday evening - it'll be different, sure, but no less special 🎄💛\n\n🎟Get your ticket: nott.tech/xmas20",
+      "html" : "<div style=\"white-space: pre\">A few favourite pictures from <a href=\"https://twitter.com/search?q=%23NottTechParty\">#NottTechParty</a> 2019 - what an amazing evening! 🥰\n\n2020's party is this Wednesday evening - it'll be different, sure, but no less special 🎄💛\n\n🎟Get your ticket: <a href=\"http://nott.tech/xmas20\">nott.tech/xmas20</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EofUJLuWEAU4RvJ.jpg", "https://pbs.twimg.com/media/EofUJLvWMAIi9x7.jpg", "https://pbs.twimg.com/media/EofUJMLXcAsAgYl.jpg", "https://pbs.twimg.com/media/EofUJLxXYAAccKy.jpg" ]
+  }
+}
