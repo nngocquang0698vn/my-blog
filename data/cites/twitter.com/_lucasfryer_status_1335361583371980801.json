@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335361583371980801" ],
+    "url" : [ "https://twitter.com/lucasfryer/status/1335361583371980801" ],
+    "published" : [ "2020-12-05T23:13:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lucasfryer" ],
+        "numeric-id" : [ "218512222" ],
+        "name" : [ "Fry" ],
+        "nickname" : [ "lucasfryer" ],
+        "url" : [ "https://twitter.com/lucasfryer" ],
+        "published" : [ "2010-11-22T15:05:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Massachusetts, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335362761157701632/zWAXfrs_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "@IanColdwater and @Dixie3Flatline you two are killing me 😂💀",
+      "html" : "<a href=\"https://twitter.com/IanColdwater\">@IanColdwater</a> and <a href=\"https://twitter.com/Dixie3Flatline\">@Dixie3Flatline</a> you two are killing me 😂💀"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EogoSE5W8AUwciz.jpg" ]
+  }
+}
