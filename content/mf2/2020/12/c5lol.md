@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fvck12xo/status/1334665624002457601" ],
     "name" : [ "Like of @fvck12xo's tweet" ],
     "published" : [ "2020-12-05T16:11:00+0000" ],
     "like-of" : [ "https://twitter.com/fvck12xo/status/1334665624002457601" ]
