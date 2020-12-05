@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335273880500494338" ],
+    "url" : [ "https://twitter.com/gurlcode/status/1335273880500494338" ],
+    "published" : [ "2020-12-05T17:24:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gurlcode" ],
+        "numeric-id" : [ "70753748" ],
+        "name" : [ "Jenn Creighton" ],
+        "nickname" : [ "gurlcode" ],
+        "url" : [ "https://twitter.com/gurlcode", "https://noti.st/jenncreighton" ],
+        "published" : [ "2009-09-01T18:49:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317154865513156615/8eYarYNJ.jpg" ]
+      }
+    } ],
+    "content" : [ "Sailor is ready for the holidays 🎄🤶" ],
+    "photo" : [ "https://pbs.twimg.com/media/EofYg27W8AEsaty.jpg" ]
+  }
+}
