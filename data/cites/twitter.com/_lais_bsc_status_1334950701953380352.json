@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1334950701953380352" ],
+    "url" : [ "https://twitter.com/lais_bsc/status/1334950701953380352" ],
+    "published" : [ "2020-12-04T20:00:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lais_bsc" ],
+        "numeric-id" : [ "194179738" ],
+        "name" : [ "Laís Carvalho" ],
+        "nickname" : [ "lais_bsc" ],
+        "url" : [ "https://twitter.com/lais_bsc", "http://laiscarvalho.com/" ],
+        "published" : [ "2010-09-23T16:33:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dublin, Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321124270253182978/LVkOt8hc.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thank you @technottingham for the lovely collection of shinny stickers (I got a shinny parrot!!!)\n\nAnd well, since we're here aparrently my talk was \"fantastic\"! #humblebrag\nAnd thanks @codingblackfems for the shout out and the invite!\n\n❤",
+      "html" : "<div style=\"white-space: pre\">Thank you <a href=\"https://twitter.com/technottingham\">@technottingham</a> for the lovely collection of shinny stickers (I got a shinny parrot!!!)\n\nAnd well, since we're here aparrently my talk was \"fantastic\"! <a href=\"https://twitter.com/search?q=%23humblebrag\">#humblebrag</a>\nAnd thanks <a href=\"https://twitter.com/codingblackfems\">@codingblackfems</a> for the shout out and the invite!\n\n❤</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EoaylbfXUAI_dTE.jpg" ]
+  }
+}
