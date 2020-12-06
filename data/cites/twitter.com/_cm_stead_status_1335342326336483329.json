@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335342326336483329" ],
+    "url" : [ "https://twitter.com/cm_stead/status/1335342326336483329" ],
+    "published" : [ "2020-12-05T21:56:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cm_stead" ],
+        "numeric-id" : [ "95468325" ],
+        "name" : [ "Chris 'Axolotls Are My Brand Now' Stead" ],
+        "nickname" : [ "cm_stead" ],
+        "url" : [ "https://twitter.com/cm_stead", "http://www.chrisstead.net" ],
+        "published" : [ "2009-12-08T17:57:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1048226299444002816/-4TwVZei.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Developer Twitter!\n\nHow has your coding style and approach changed as you've gained experience?\n\nI'd love perspectives from all experience levels, even folks who are still building skills before their first job.",
+      "html" : "<div style=\"white-space: pre\">Developer Twitter!\n\nHow has your coding style and approach changed as you've gained experience?\n\nI'd love perspectives from all experience levels, even folks who are still building skills before their first job.</div>"
+    } ]
+  }
+}
