@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335572353791758338" ],
+    "url" : [ "https://twitter.com/tdMcMains/status/1335572353791758338" ],
+    "published" : [ "2020-12-06T13:10:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/PorkTartare/status/1335469877763649536" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tdMcMains" ],
+        "numeric-id" : [ "836193902952591360" ],
+        "name" : [ "tdMcMains" ],
+        "nickname" : [ "tdMcMains" ],
+        "url" : [ "https://twitter.com/tdMcMains" ],
+        "published" : [ "2017-02-27T12:38:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Massachusetts, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/836206247418417152/uH1VIoos.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’m irrationally angry that your username is Mr Nice and Good when you are neither.",
+      "html" : "I’m irrationally angry that your username is Mr Nice and Good when you are neither.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ChuckWendig\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PorkTartare\"></a>"
+    } ]
+  }
+}
