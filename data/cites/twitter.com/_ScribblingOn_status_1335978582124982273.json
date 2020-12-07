@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335978582124982273" ],
+    "url" : [ "https://twitter.com/ScribblingOn/status/1335978582124982273" ],
+    "published" : [ "2020-12-07T16:04:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ScribblingOn" ],
+        "numeric-id" : [ "291009942" ],
+        "name" : [ "Shubheksha ✨" ],
+        "nickname" : [ "ScribblingOn" ],
+        "url" : [ "https://twitter.com/ScribblingOn", "https://www.shubheksha.com" ],
+        "published" : [ "2011-05-01T10:03:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "A bubble in England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1131333207780220928/Hpejkti5.jpg" ]
+      }
+    } ],
+    "content" : [ "Anyone else feel like they’ve mentally checked out pretty damn hard for the rest of year and no amount of self care is alleviating it?" ]
+  }
+}
