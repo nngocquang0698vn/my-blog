@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_hax/status/1335864003298463744" ],
     "name" : [ "Like of @anna_hax's tweet" ],
     "published" : [ "2020-12-07T08:51:00+0000" ],
     "category" : [ "tech-nottingham", "christmas" ],
