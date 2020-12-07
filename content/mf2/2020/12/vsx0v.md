@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1335858786297393152" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2020-12-07T08:52:00+0000" ],
     "category" : [ "blogging" ],
