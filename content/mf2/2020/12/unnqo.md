@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eleyezedzedwhy/status/1335672354849091589" ],
     "name" : [ "Like of @eleyezedzedwhy's tweet" ],
     "published" : [ "2020-12-07T21:40:21.363Z" ],
     "category" : [ "shitpost" ],
