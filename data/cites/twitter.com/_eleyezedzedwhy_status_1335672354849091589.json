@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1335672354849091589" ],
+    "url" : [ "https://twitter.com/eleyezedzedwhy/status/1335672354849091589" ],
+    "published" : [ "2020-12-06T19:47:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eleyezedzedwhy" ],
+        "numeric-id" : [ "1096375867507441665" ],
+        "name" : [ "lizzy" ],
+        "nickname" : [ "eleyezedzedwhy" ],
+        "url" : [ "https://twitter.com/eleyezedzedwhy", "https://anchor.fm/the-longest-night/" ],
+        "published" : [ "2019-02-15T11:49:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324839793432416256/W6YdoBJT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "a DevOps engineer who isn't trans?\n\nThey must be a cis admin.",
+      "html" : "<div style=\"white-space: pre\">a DevOps engineer who isn't trans?\n\nThey must be a cis admin.</div>"
+    } ]
+  }
+}
