@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TatianaTMac/status/1335982004714708993" ],
     "name" : [ "Like of @TatianaTMac's tweet" ],
     "published" : [ "2020-12-07T22:41:00+0000" ],
     "category" : [ "politics" ],
