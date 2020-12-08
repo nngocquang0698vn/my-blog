@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336249743182327808" ],
+    "url" : [ "https://twitter.com/ConMend/status/1336249743182327808" ],
+    "published" : [ "2020-12-08T10:02:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ConMend" ],
+        "numeric-id" : [ "25107520" ],
+        "name" : [ "Cornelius Mendez" ],
+        "nickname" : [ "ConMend" ],
+        "url" : [ "https://twitter.com/ConMend", "http://experiencecornelius.com/" ],
+        "published" : [ "2009-03-18T17:04:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "LDN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/948198574692749312/nIMRPchm.jpg" ]
+      }
+    } ],
+    "content" : [ "I wonder how Bill Gates is going to spend his first day in control of Margaret Keenan, 90, from Coventry." ]
+  }
+}
