@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336401817639514112" ],
+    "url" : [ "https://twitter.com/paulienuh/status/1336401817639514112" ],
+    "published" : [ "2020-12-08T20:06:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulienuh" ],
+        "numeric-id" : [ "230185453" ],
+        "name" : [ "Pauline P. Narvas➖pawlean.com" ],
+        "nickname" : [ "paulienuh" ],
+        "url" : [ "https://twitter.com/paulienuh", "https://pawlean.com" ],
+        "published" : [ "2010-12-24T14:46:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leeds, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1265398650395639813/PfESApun.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My wonderful @bt_uk team and I are speaking at #SRECon right now! 😊I'm so excited to share our journey over the past few months -- they've not been without challenges, but so worth it. 💪🏼 \n\n#SRECON20 #sre",
+      "html" : "<div style=\"white-space: pre\">My wonderful <a href=\"https://twitter.com/bt_uk\">@bt_uk</a> team and I are speaking at <a href=\"https://twitter.com/search?q=%23SRECon\">#SRECon</a> right now! 😊I'm so excited to share our journey over the past few months -- they've not been without challenges, but so worth it. 💪🏼 \n\n<a href=\"https://twitter.com/search?q=%23SRECON20\">#SRECON20</a> <a href=\"https://twitter.com/search?q=%23sre\">#sre</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EovaCXFXIAINQ3g.jpg" ]
+  }
+}
