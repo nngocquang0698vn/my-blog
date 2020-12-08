@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/GosiaBorzecka/status/1336209591382765568" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1336225240670724096" ],
     "name" : [ "Reply to https://twitter.com/GosiaBorzecka/status/1336209591382765568" ],
     "published" : [ "2020-12-08T08:19:00+0000" ],
     "content" : [ {
