@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mejs/status/1336316368132694017" ],
     "name" : [ "Like of @mejs's tweet" ],
     "published" : [ "2020-12-08T20:18:00+0000" ],
     "category" : [ "rss", "social-media" ],
