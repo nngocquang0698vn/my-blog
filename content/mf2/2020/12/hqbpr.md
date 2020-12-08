@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ExpanseOnPrime/status/1336325876661678081" ],
     "name" : [ "Like of @ExpanseOnPrime's tweet" ],
     "published" : [ "2020-12-08T22:37:00+0000" ],
     "category" : [ "the-expanse" ],
