@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jerusalem_Post/status/1335948000707928066" ],
     "name" : [ "Like of @Jerusalem_Post's tweet" ],
     "published" : [ "2020-12-08T22:33:00+0000" ],
     "category" : [ "space" ],
