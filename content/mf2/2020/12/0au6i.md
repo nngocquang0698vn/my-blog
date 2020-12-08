@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ConMend/status/1336249743182327808" ],
     "name" : [ "Like of @ConMend's tweet" ],
     "published" : [ "2020-12-08T12:23:00+0000" ],
     "category" : [ "satire", "coronavirus" ],
