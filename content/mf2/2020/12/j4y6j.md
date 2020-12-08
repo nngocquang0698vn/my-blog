@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/agentdero/status/1336380183939481600" ],
     "name" : [ "Like of @agentdero's tweet" ],
     "published" : [ "2020-12-08T20:12:00+0000" ],
     "category" : [ "github" ],
