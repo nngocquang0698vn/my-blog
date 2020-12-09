@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danielpunkass/status/1336335713739046913" ],
     "name" : [ "Like of @danielpunkass's tweet" ],
     "published" : [ "2020-12-09T12:14:00+0000" ],
     "category" : [ "zoom", "remote-work" ],
