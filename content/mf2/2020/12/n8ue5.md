@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/indieweb/indieauth/issues/33" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/indieweb/indieauth/issues/33#issuecomment-741740407" ],
     "name" : [ "Reply to https://github.com/indieweb/indieauth/issues/33" ],
     "published" : [ "2020-12-09T12:20:48.043Z" ],
     "content" : [ {
