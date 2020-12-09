@@ -1,0 +1,62 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336521533150228482" ],
+    "url" : [ "https://twitter.com/rakyll/status/1336521533150228482" ],
+    "published" : [ "2020-12-09T04:02:19+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/rothgar/status/1336521404137709569" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335030222379315202/ZpPFoeOL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "https://t.co/GoGxyI74iM",
+      "html" : "https://t.co/GoGxyI74iM\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rothgar\"></a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1336506156148084737" ],
+      "url" : [ "https://twitter.com/rakyll/status/1336506156148084737" ],
+      "published" : [ "2020-12-09T03:01:13+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/NateTheFinch/status/1336505834944270339" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:rakyll" ],
+          "numeric-id" : [ "10809412" ],
+          "name" : [ "Jaana Dogan ヤナ ドガン" ],
+          "nickname" : [ "rakyll" ],
+          "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ],
+          "published" : [ "2007-12-03T13:08:02+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1335030222379315202/ZpPFoeOL.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I have an alias for this but it would be so much nicer if they were just generating the git command. Almost all other code review systems I use have this feature.",
+        "html" : "I have an alias for this but it would be so much nicer if they were just generating the git command. Almost all other code review systems I use have this feature.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/NateTheFinch\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattlarraz\"></a>"
+      } ]
+    }
+  } ]
+}
