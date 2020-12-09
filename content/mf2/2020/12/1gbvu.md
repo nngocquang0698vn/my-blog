@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/thecaitcode/status/1336425903098720257" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1336713906237091840" ],
     "name" : [ "Reply to https://twitter.com/thecaitcode/status/1336425903098720257" ],
     "published" : [ "2020-12-09T16:41:28.047Z" ],
     "content" : [ {
