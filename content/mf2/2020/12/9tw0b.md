@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JessPWhite/status/1336732284276400132" ],
     "name" : [ "Like of @JessPWhite's tweet" ],
     "published" : [ "2020-12-09T18:35:00+0000" ],
     "category" : [ "christmas" ],
