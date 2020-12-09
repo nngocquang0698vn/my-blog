@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336335713739046913" ],
+    "url" : [ "https://twitter.com/danielpunkass/status/1336335713739046913" ],
+    "published" : [ "2020-12-08T15:43:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:danielpunkass" ],
+        "numeric-id" : [ "666043" ],
+        "name" : [ "Daniel Jalkut" ],
+        "nickname" : [ "danielpunkass" ],
+        "url" : [ "https://twitter.com/danielpunkass", "https://redsweater.com" ],
+        "published" : [ "2007-01-19T17:18:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California Boy in Boston" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796444072177176577/HNDLZTDb.jpg" ]
+      }
+    } ],
+    "content" : [ "I can't believe Zoom gives away their best feature, limiting meetings to 40 minutes, for free." ]
+  }
+}
