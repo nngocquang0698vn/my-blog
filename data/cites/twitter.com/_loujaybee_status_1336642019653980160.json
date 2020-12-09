@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336642019653980160" ],
+    "url" : [ "https://twitter.com/loujaybee/status/1336642019653980160" ],
+    "published" : [ "2020-12-09T12:01:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:loujaybee" ],
+        "numeric-id" : [ "1290693397" ],
+        "name" : [ "Lou 👨‍💻🏋️‍♂️🎸🚴🏻‍♂️🏍 @re:Invent 2020" ],
+        "nickname" : [ "loujaybee" ],
+        "url" : [ "https://twitter.com/loujaybee", "http://www.thedevcoach.co.uk" ],
+        "published" : [ "2013-03-23T07:07:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315542552720932865/AYvPQ8RA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Blog achievements...\n\nBeginner = Publishing that first post. \nIntermediate = Someone *finally* reads your work (and maybe even comments..).\nExpert = Someone says: \"Oh hey, I stumbled on your writing!\"\nGod = Googling something and your own writing comes up 🤦‍🤦‍🤦‍🤦‍",
+      "html" : "<div style=\"white-space: pre\">Blog achievements...\n\nBeginner = Publishing that first post. \nIntermediate = Someone *finally* reads your work (and maybe even comments..).\nExpert = Someone says: \"Oh hey, I stumbled on your writing!\"\nGod = Googling something and your own writing comes up 🤦‍🤦‍🤦‍🤦‍</div>"
+    } ]
+  }
+}
