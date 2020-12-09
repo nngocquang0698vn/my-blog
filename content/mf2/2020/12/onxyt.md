@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dummyjig/status/1336069450718703623" ],
     "name" : [ "Like of @dummyjig's tweet" ],
     "published" : [ "2020-12-09T08:05:00+0000" ],
     "like-of" : [ "https://twitter.com/dummyjig/status/1336069450718703623" ]
