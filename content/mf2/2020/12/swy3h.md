@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1336773034183712774" ],
     "published" : [ "2020-12-09T20:35:56.185Z" ],
     "category" : [ "nott-tech-party", "wi-fi-wars" ],
     "content" : [ {
