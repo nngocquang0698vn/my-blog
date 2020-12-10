@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337043555739709445" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1337043555739709445" ],
+    "published" : [ "2020-12-10T14:36:39+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1337032166027497478" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The @technottingham team can relate 😁\n\nYesterday, after months of discussions, tweaks and trying out different settings, @CarolSaysThings says \"You know, I'm pretty sure nobody ever watches these holding videos\"",
+      "html" : "<div style=\"white-space: pre\">The <a href=\"https://twitter.com/technottingham\">@technottingham</a> team can relate 😁\n\nYesterday, after months of discussions, tweaks and trying out different settings, <a href=\"https://twitter.com/CarolSaysThings\">@CarolSaysThings</a> says \"You know, I'm pretty sure nobody ever watches these holding videos\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jna_sh\"></a>"
+    } ]
+  }
+}
