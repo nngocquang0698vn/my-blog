@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1337146398257553408" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2020-12-10T21:38:00+0000" ],
     "category" : [ "the-expanse" ],
