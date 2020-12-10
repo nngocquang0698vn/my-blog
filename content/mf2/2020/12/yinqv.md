@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrAndrew/status/1337043555739709445" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2020-12-10T15:14:00+0000" ],
     "category" : [ "tech-nottingham" ],
