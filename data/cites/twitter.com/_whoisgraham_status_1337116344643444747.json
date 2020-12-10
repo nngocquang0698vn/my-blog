@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337116344643444747" ],
+    "url" : [ "https://twitter.com/whoisgraham/status/1337116344643444747" ],
+    "published" : [ "2020-12-10T19:25:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:whoisgraham" ],
+        "numeric-id" : [ "133487462" ],
+        "name" : [ "Graham : A Star Wars Story" ],
+        "nickname" : [ "whoisgraham" ],
+        "url" : [ "https://twitter.com/whoisgraham" ],
+        "published" : [ "2010-04-15T23:03:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2907221110/712dfcecc7fd591915d1355bdbe4adcd.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Today was my last day at @surevine - its been a blast and I have learned so much. Thanks to a great team and a special thanks to @Fishbowler 👍\n\nI'll be starting tomorrow as my second innings as a Lead Android Developer.",
+      "html" : "<div style=\"white-space: pre\">Today was my last day at <a href=\"https://twitter.com/surevine\">@surevine</a> - its been a blast and I have learned so much. Thanks to a great team and a special thanks to <a href=\"https://twitter.com/Fishbowler\">@Fishbowler</a> 👍\n\nI'll be starting tomorrow as my second innings as a Lead Android Developer.</div>"
+    } ]
+  }
+}
