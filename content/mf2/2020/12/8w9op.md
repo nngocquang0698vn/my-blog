@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/JimMFelton/status/1337112418531627008" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1337129095004647424" ],
     "name" : [ "Reply to https://twitter.com/JimMFelton/status/1337112418531627008" ],
     "published" : [ "2020-12-10T19:44:00+0000" ],
     "content" : [ {
