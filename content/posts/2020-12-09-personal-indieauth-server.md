@@ -64,7 +64,8 @@ curl -i 'https://indieauth.jvt.me/authorize?redirect_uri=http://localhost%3A8080
 
 HTTP/1.1 302 Found
 Date: Wed, 09 Dec 2020 09:49:12 GMT
-Location: https://indieauth.jvt.me/authorize/consent?request_uri=urn:ietf:params:oauth:request_uri:MAuFHnwKR9
+Location: https://indieauth.jvt.me/authorize/consent?client_id=https%3A%2F%2Fwww-editor.jvt.me
+  &request_uri=urn:ietf:params:oauth:request_uri:MAuFHnwKR9
 ```
 
 # JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens
