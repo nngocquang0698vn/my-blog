@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hannahgordon_/status/1336983089873113088" ],
     "name" : [ "Like of @hannahgordon_'s tweet" ],
     "published" : [ "2020-12-10T20:12:00+0000" ],
     "like-of" : [ "https://twitter.com/hannahgordon_/status/1336983089873113088" ]
