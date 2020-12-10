@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336348893546745856" ],
+    "url" : [ "https://twitter.com/EwdatsGROSS/status/1336348893546745856" ],
+    "published" : [ "2020-12-08T16:36:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EwdatsGROSS" ],
+        "numeric-id" : [ "384687345" ],
+        "name" : [ "Slutty but Seasonal 1984’s George Whorewell" ],
+        "nickname" : [ "EwdatsGROSS" ],
+        "url" : [ "https://twitter.com/EwdatsGROSS", "https://www.instagram.com/ewdatsgross/", "http://linkedin.com/in/ashleyngross/" ],
+        "published" : [ "2011-10-04T04:15:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ugly crying in Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333931475847294977/QeF5T-LY.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1d9a5370a355ab0c" ],
+        "name" : [ "Chicago, IL" ]
+      }
+    } ],
+    "content" : [ "Good morning" ],
+    "photo" : [ "https://pbs.twimg.com/media/EouqPE_WEAUXrwQ.jpg", "https://pbs.twimg.com/media/EouqPFHXMAIQ8Lj.jpg" ]
+  }
+}
