@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EwdatsGROSS/status/1336348893546745856" ],
     "name" : [ "Like of @EwdatsGROSS's tweet" ],
     "published" : [ "2020-12-10T15:18:00+0000" ],
     "category" : [ "2020" ],
