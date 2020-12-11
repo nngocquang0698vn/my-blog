@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yourcompanionAI/status/1337253120687083520" ],
     "name" : [ "Like of @yourcompanionAI's tweet" ],
     "published" : [ "2020-12-11T17:56:00+0000" ],
     "like-of" : [ "https://twitter.com/yourcompanionAI/status/1337253120687083520" ]
