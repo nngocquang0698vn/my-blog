@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337434564776476673" ],
+    "url" : [ "https://twitter.com/krisnova/status/1337434564776476673" ],
+    "published" : [ "2020-12-11T16:30:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://nivenly.com" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335034442767769600/jywJF_Qr.jpg" ]
+      }
+    } ],
+    "content" : [ "sorry i was late i had to install zoom - which meany i needed to update my repositories - and then i had to update some libraries - and my kernel... and the headers... and then reboot with the new kernel... and then install zoom... and well anyway here we are - hi i'm nova" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo-FoZiU0AApDr9.png" ]
+  }
+}
