@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337179208406233089" ],
+    "url" : [ "https://twitter.com/ditzkoff/status/1337179208406233089" ],
+    "published" : [ "2020-12-10T23:35:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ditzkoff" ],
+        "numeric-id" : [ "81482674" ],
+        "name" : [ "Dave Itzkoff" ],
+        "nickname" : [ "ditzkoff" ],
+        "url" : [ "https://twitter.com/ditzkoff", "https://static.macmillan.com/static/holt/robin/" ],
+        "published" : [ "2009-10-11T01:11:07+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268281557321687040/KXhU3D88.jpg" ]
+      }
+    } ],
+    "content" : [ "Disney's content strategy for the foreseeable future" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo6dXcZW4AASIV9.jpg" ]
+  }
+}
