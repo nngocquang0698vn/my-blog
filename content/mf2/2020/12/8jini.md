@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rem/status/1337352251623546881" ],
     "name" : [ "Like of @rem's tweet" ],
     "published" : [ "2020-12-11T12:14:00+0000" ],
     "category" : [ "the-mandalorian", "christmas" ],
