@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1337317531380559872" ],
     "photo" : [ {
       "alt" : "Jamie sitting at his desktop, in a Christmas hoodie, playing Apex Legends while there are boxes and mess everywhere",
       "photo" : "https://media.jvt.me/37790be9bc.jpeg"
