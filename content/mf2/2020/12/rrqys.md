@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/akrabat/status/1337332829747863555" ],
     "name" : [ "Like of @akrabat's tweet" ],
     "published" : [ "2020-12-11T10:45:00+0000" ],
     "category" : [ "blogging" ],
