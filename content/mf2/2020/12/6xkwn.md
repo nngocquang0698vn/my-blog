@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Remel_London/status/1337351852191518722" ],
     "name" : [ "Like of @Remel_London's tweet" ],
     "published" : [ "2020-12-11T15:11:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
