@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jmyld/status/1336838086227968000" ],
     "name" : [ "Like of @jmyld's tweet" ],
     "published" : [ "2020-12-11T21:20:00+0000" ],
     "like-of" : [ "https://twitter.com/jmyld/status/1336838086227968000" ]
