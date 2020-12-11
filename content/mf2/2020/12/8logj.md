@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisnova/status/1337434564776476673" ],
     "name" : [ "Like of @krisnova's tweet" ],
     "published" : [ "2020-12-11T16:58:00+0000" ],
     "category" : [ "arch-linux", "linux" ],
