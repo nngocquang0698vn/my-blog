@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1336838086227968000" ],
+    "url" : [ "https://twitter.com/jmyld/status/1336838086227968000" ],
+    "published" : [ "2020-12-10T01:00:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jmyld" ],
+        "numeric-id" : [ "14390721" ],
+        "name" : [ "Jamil" ],
+        "nickname" : [ "jmyld" ],
+        "url" : [ "https://twitter.com/jmyld", "http://jamild.com" ],
+        "published" : [ "2008-04-14T21:47:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1290133777818062851/rQT_u2Ah.jpg" ]
+      }
+    } ],
+    "content" : [ "found in my doctor's notes, this just has a very depressing energy to it" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo1nJWVUwAAc-68.png" ]
+  }
+}
