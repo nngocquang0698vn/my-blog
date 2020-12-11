@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337501801885655041" ],
+    "url" : [ "https://twitter.com/ofcAnthony/status/1337501801885655041" ],
+    "published" : [ "2020-12-11T20:57:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ofcAnthony" ],
+        "numeric-id" : [ "411874548" ],
+        "name" : [ "Anthony, of course" ],
+        "nickname" : [ "ofcAnthony" ],
+        "url" : [ "https://twitter.com/ofcAnthony", "https://engineer81.com" ],
+        "published" : [ "2011-11-14T00:25:18+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/962080615922372608/g24Ulrx3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Cyberpunk 2077 is what happens when the public demands that a game is released ASAP, even though the developer knows it isn't ready.\n\nIf you were complaining at the delays, what you have now is your own fault.",
+      "html" : "<div style=\"white-space: pre\">Cyberpunk 2077 is what happens when the public demands that a game is released ASAP, even though the developer knows it isn't ready.\n\nIf you were complaining at the delays, what you have now is your own fault.</div>"
+    } ]
+  }
+}
