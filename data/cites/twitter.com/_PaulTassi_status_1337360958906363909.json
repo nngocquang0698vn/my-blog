@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337360958906363909" ],
+    "url" : [ "https://twitter.com/PaulTassi/status/1337360958906363909" ],
+    "published" : [ "2020-12-11T11:37:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PaulTassi" ],
+        "numeric-id" : [ "202674661" ],
+        "name" : [ "Paul Tassi" ],
+        "nickname" : [ "PaulTassi" ],
+        "url" : [ "https://twitter.com/PaulTassi", "https://www.forbes.com/sites/paultassi/", "https://www.youtube.com/channel/UCg6K8i6OGobyZNoPIsCW9uQ" ],
+        "published" : [ "2010-10-14T15:37:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Fortress of Solitude, OH" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1283009731817287680/P5xsLEpk.jpg" ]
+      }
+    } ],
+    "content" : [ "Finally saw a direct PC shot to compare to my Series X one and now I’m just sad" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo9Cs--XEAAPrhy.jpg", "https://pbs.twimg.com/media/Eo9Cs-9XUAEa_Dk.jpg" ]
+  }
+}
