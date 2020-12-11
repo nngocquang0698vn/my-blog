@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337332829747863555" ],
+    "url" : [ "https://twitter.com/akrabat/status/1337332829747863555" ],
+    "published" : [ "2020-12-11T09:46:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:akrabat" ],
+        "numeric-id" : [ "9244712" ],
+        "name" : [ "Rob Allen" ],
+        "nickname" : [ "akrabat" ],
+        "url" : [ "https://twitter.com/akrabat", "https://akrabat.com" ],
+        "published" : [ "2007-10-04T14:08:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Worcester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294531979388628992/gsLM1KGj.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Googled for an error seen in my terminal. Found my article on akrabat.com on how to fix it. 💯",
+      "html" : "Googled for an error seen in my terminal. Found my article on <a href=\"http://akrabat.com\">akrabat.com</a> on how to fix it. 💯"
+    } ]
+  }
+}
