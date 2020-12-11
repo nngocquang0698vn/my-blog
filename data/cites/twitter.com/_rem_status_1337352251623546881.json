@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337352251623546881" ],
+    "url" : [ "https://twitter.com/rem/status/1337352251623546881" ],
+    "published" : [ "2020-12-11T11:03:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rem" ],
+        "numeric-id" : [ "648873" ],
+        "name" : [ "@rem" ],
+        "nickname" : [ "rem" ],
+        "url" : [ "https://twitter.com/rem", "https://remysharp.com" ],
+        "published" : [ "2007-01-16T20:11:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/527584017189982208/l3wwN-l-.jpeg" ]
+      }
+    } ],
+    "content" : [ "Merry Childmas + weird rubber face and super weird arm." ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo86o73XMAIMjyO.jpg" ]
+  }
+}
