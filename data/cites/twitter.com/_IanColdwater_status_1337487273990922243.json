@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337487273990922243" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1337487273990922243" ],
+    "published" : [ "2020-12-11T19:59:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater ☸️🔥✨" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337091205604098052/XXOEgf9C.jpg" ]
+      }
+    } ],
+    "content" : [ "My kid is in the other room like \"I WAS JUST IN 4 STRAIGHT HOURS OF ZOOM CALLS AND NOW I STILL HAVE SO MUCH WORK TO DO!\" and we are preparing them very well for a future in tech, huh" ]
+  }
+}
