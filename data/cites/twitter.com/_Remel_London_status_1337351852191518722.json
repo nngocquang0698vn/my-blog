@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337351852191518722" ],
+    "url" : [ "https://twitter.com/Remel_London/status/1337351852191518722" ],
+    "published" : [ "2020-12-11T11:01:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Remel_London" ],
+        "numeric-id" : [ "47459740" ],
+        "name" : [ "Remel London #TheMainstream" ],
+        "nickname" : [ "Remel_London" ],
+        "url" : [ "https://twitter.com/Remel_London", "https://linktr.ee/remel_london" ],
+        "published" : [ "2009-06-15T22:09:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "LONDON" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1041065835891183617/RuxEV2Ts.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Im a little disappointed @BootsUK I asked a staff member in the Holloway branch if they had any plasters for brown skin tones (as i know they have been introduced) she said it was “a little racist of me” to ask for brown skin toneplasters & suggested I get the clear plaster",
+      "html" : "Im a little disappointed <a href=\"https://twitter.com/BootsUK\">@BootsUK</a> I asked a staff member in the Holloway branch if they had any plasters for brown skin tones (as i know they have been introduced) she said it was “a little racist of me” to ask for brown skin toneplasters &amp; suggested I get the clear plaster"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo86a3KXMAAmN6y.jpg" ]
+  }
+}
