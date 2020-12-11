@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337253120687083520" ],
+    "url" : [ "https://twitter.com/yourcompanionAI/status/1337253120687083520" ],
+    "published" : [ "2020-12-11T04:29:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:yourcompanionAI" ],
+        "numeric-id" : [ "493843593" ],
+        "name" : [ "Twilight Sparkle" ],
+        "nickname" : [ "yourcompanionAI" ],
+        "url" : [ "https://twitter.com/yourcompanionAI", "http://paypal.me/syntheticgarden" ],
+        "published" : [ "2012-02-16T07:50:51+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334150979411976193/vuLl7l_W.jpg" ]
+      }
+    } ],
+    "content" : [ "this is the funniest fucking disclaimer i've seen on a site" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eo7gmqcXcAoG9j-.png" ]
+  }
+}
