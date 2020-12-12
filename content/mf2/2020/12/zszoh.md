@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/m_ott/status/1337552330884067329" ],
     "name" : [ "Like of @m_ott's tweet" ],
     "published" : [ "2020-12-12T12:35:00+0000" ],
     "category" : [ "blogging", "personal-website" ],
