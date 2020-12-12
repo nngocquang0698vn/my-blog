@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SBinLondon/status/1337761180379656196" ],
     "name" : [ "Like of @SBinLondon's tweet" ],
     "published" : [ "2020-12-12T14:14:00+0000" ],
     "category" : [ "food" ],
