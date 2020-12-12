@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CounterPillow/status/1337458615284854784" ],
     "name" : [ "Like of @CounterPillow's tweet" ],
     "published" : [ "2020-12-12T14:16:00+0000" ],
     "category" : [ "linux" ],
