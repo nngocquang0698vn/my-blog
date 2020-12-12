@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/r__qamar/status/1337155836901253120" ],
     "name" : [ "Like of @r__qamar's tweet" ],
     "published" : [ "2020-12-12T14:46:00+0000" ],
     "category" : [ "cute" ],
