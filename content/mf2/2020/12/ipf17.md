@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cassidoo/status/1337464402845573121" ],
     "name" : [ "Like of @cassidoo's tweet" ],
     "published" : [ "2020-12-12T12:52:00+0000" ],
     "category" : [ "public-speaking" ],
