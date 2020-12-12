@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337552330884067329" ],
+    "url" : [ "https://twitter.com/m_ott/status/1337552330884067329" ],
+    "published" : [ "2020-12-12T00:18:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:m_ott" ],
+        "numeric-id" : [ "58448784" ],
+        "name" : [ "Matthias Ott" ],
+        "nickname" : [ "m_ott" ],
+        "url" : [ "https://twitter.com/m_ott" ],
+        "published" : [ "2009-07-20T11:18:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stuttgart, Germany" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1217370913487892485/oN9cGCLI.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My debut article for @css is live! \n🤗🎉\nThanks to @chriscoyier and team, who asked: “What is one thing you learned about building websites this year?”\n\nMy answer: Make it personal. 💻💚",
+      "html" : "<div style=\"white-space: pre\">My debut article for <a href=\"https://twitter.com/css\">@css</a> is live! \n🤗🎉\nThanks to <a href=\"https://twitter.com/chriscoyier\">@chriscoyier</a> and team, who asked: “What is one thing you learned about building websites this year?”\n\nMy answer: Make it personal. 💻💚</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1337541675783245826" ],
+      "url" : [ "https://twitter.com/css/status/1337541675783245826" ],
+      "published" : [ "2020-12-11T23:36:00+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:css" ],
+          "numeric-id" : [ "285019665" ],
+          "name" : [ "CSS-Tricks" ],
+          "nickname" : [ "css" ],
+          "url" : [ "https://twitter.com/css", "http://css-tricks.com", "http://CSS-Tricks.com" ],
+          "published" : [ "2011-04-20T11:40:04+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Chris in Bend, OR + Remote Team" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Make it Personal css-tricks.com/make-it-person…",
+        "html" : "Make it Personal <a href=\"https://css-tricks.com/make-it-personal/\">css-tricks.com/make-it-person…</a>"
+      } ]
+    }
+  } ]
+}
