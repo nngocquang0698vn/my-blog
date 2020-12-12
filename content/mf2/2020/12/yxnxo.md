@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brownyellowizsh/status/1337455898227220480" ],
     "name" : [ "Like of @brownyellowizsh's tweet" ],
     "published" : [ "2020-12-12T14:52:00+0000" ],
     "category" : [ "cute" ],
