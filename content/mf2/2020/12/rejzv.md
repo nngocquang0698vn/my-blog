@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HK47_Actual/status/1337580726984781827" ],
     "name" : [ "Like of @HK47_Actual's tweet" ],
     "published" : [ "2020-12-12T14:54:00+0000" ],
     "category" : [ "the-expanse" ],
