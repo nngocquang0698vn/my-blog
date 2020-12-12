@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/casaramoon/status/1337077697680306176" ],
     "name" : [ "Like of @casaramoon's tweet" ],
     "published" : [ "2020-12-12T08:15:00+0000" ],
     "category" : [ "art" ],
