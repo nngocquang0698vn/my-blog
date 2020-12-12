@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337464402845573121" ],
+    "url" : [ "https://twitter.com/cassidoo/status/1337464402845573121" ],
+    "published" : [ "2020-12-11T18:28:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cassidoo" ],
+        "numeric-id" : [ "400286802" ],
+        "name" : [ "Cassidy" ],
+        "nickname" : [ "cassidoo" ],
+        "url" : [ "https://twitter.com/cassidoo", "http://cassidoo.co" ],
+        "published" : [ "2011-10-28T19:54:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292888896938729473/tDmJ1K6m.jpg" ]
+      }
+    } ],
+    "content" : [ "I got some advice (from a man) to ask for obscene amounts of money when I'm on the fence deciding if an event/opportunity/etc is worth my time and effort, and WOW it has changed the game." ]
+  }
+}
