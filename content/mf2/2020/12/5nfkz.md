@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/john_c_palmer/status/1337509844333563906" ],
     "name" : [ "Like of @john_c_palmer's tweet" ],
     "published" : [ "2020-12-12T14:56:00+0000" ],
     "category" : [ "remote-work" ],
