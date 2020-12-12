@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1337482113415786498" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-12-12T13:16:00+0000" ],
     "category" : [ "food" ],
