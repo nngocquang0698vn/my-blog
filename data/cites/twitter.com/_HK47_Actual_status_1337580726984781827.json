@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337580726984781827" ],
+    "url" : [ "https://twitter.com/HK47_Actual/status/1337580726984781827" ],
+    "published" : [ "2020-12-12T02:11:11+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ExpanseNContext/status/1337574124206649346" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HK47_Actual" ],
+        "numeric-id" : [ "781189576131915776" ],
+        "name" : [ "HK-47" ],
+        "nickname" : [ "HK47_Actual" ],
+        "url" : [ "https://twitter.com/HK47_Actual" ],
+        "published" : [ "2016-09-28T17:51:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "[REDACTED, MEATBAGS]" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/781196679957491713/2ursP8J9.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Clarification: He *has* a name, you know. Murphy. Or Marty. Something like that. But he *does* have one!",
+      "html" : "Clarification: He *has* a name, you know. Murphy. Or Marty. Something like that. But he *does* have one!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ExpanseNContext\"></a>"
+    } ]
+  }
+}
