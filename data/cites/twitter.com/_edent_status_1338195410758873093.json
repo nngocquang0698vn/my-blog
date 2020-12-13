@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338195410758873093" ],
+    "url" : [ "https://twitter.com/edent/status/1338195410758873093" ],
+    "published" : [ "2020-12-13T18:53:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ "I've no idea if this is true, but it fits my biases - so I'll retweet it" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1338124376223461378" ],
+      "url" : [ "https://twitter.com/UKMetric/status/1338124376223461378" ],
+      "published" : [ "2020-12-13T14:11:27+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:UKMetric" ],
+          "numeric-id" : [ "81356333" ],
+          "name" : [ "UK Metric Association" ],
+          "nickname" : [ "UKMetric" ],
+          "url" : [ "https://twitter.com/UKMetric", "https://ukma.org.uk", "http://facebook.com/UKMetric" ],
+          "published" : [ "2009-10-10T13:39:57+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2387338464/image.jpg" ]
+        }
+      } ],
+      "content" : [ "Imperial is so poorly understood in the UK that no-one in the manufacturers, installers or client noticed that the apostrophe was accidentally rendered as /u0027 on this car park sign in London" ],
+      "photo" : [ "https://pbs.twimg.com/media/EpH4STUW4AEBd7n.jpg" ]
+    }
+  } ]
+}
