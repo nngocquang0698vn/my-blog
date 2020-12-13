@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338242995401883648" ],
+    "url" : [ "https://twitter.com/maxkreminski/status/1338242995401883648" ],
+    "published" : [ "2020-12-13T22:02:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:maxkreminski" ],
+        "numeric-id" : [ "432047363" ],
+        "name" : [ "Max Kreminski" ],
+        "nickname" : [ "maxkreminski" ],
+        "url" : [ "https://twitter.com/maxkreminski", "http://mkremins.github.io" ],
+        "published" : [ "2011-12-09T00:03:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1232221568748507141/XwILIoBP.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🔤 BLABRECS: the wordgame that hates you\n\na rules modification for SCRABBLE that swaps out the dictionary for a capricious AI. real words aren’t allowed – you can only play nonsense words that *sound* real to the AI\n\nmy entry for #PROCJAM 2020\n\nmkremins.github.io/blabrecs",
+      "html" : "<div style=\"white-space: pre\">🔤 BLABRECS: the wordgame that hates you\n\na rules modification for SCRABBLE that swaps out the dictionary for a capricious AI. real words aren’t allowed – you can only play nonsense words that *sound* real to the AI\n\nmy entry for <a href=\"https://twitter.com/search?q=%23PROCJAM\">#PROCJAM</a> 2020\n\n<a href=\"https://mkremins.github.io/blabrecs\">mkremins.github.io/blabrecs</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpJjekmUUAAlcmm.jpg" ]
+  }
+}
