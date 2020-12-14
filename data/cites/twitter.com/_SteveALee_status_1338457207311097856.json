@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338457207311097856" ],
+    "url" : [ "https://twitter.com/SteveALee/status/1338457207311097856" ],
+    "published" : [ "2020-12-14T12:14:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SteveALee" ],
+        "numeric-id" : [ "14166962" ],
+        "name" : [ "Steve Lee" ],
+        "nickname" : [ "SteveALee" ],
+        "url" : [ "https://twitter.com/SteveALee", "http://opendirective.com" ],
+        "published" : [ "2008-03-18T00:22:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Exeter UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293876924075433984/8V6gXM9x.jpg" ]
+      }
+    } ],
+    "content" : [ "Wondering what effect Google being down will have on the extended brexit talks - lol" ]
+  }
+}
