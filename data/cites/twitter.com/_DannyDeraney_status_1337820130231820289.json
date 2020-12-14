@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337820130231820289" ],
+    "url" : [ "https://twitter.com/DannyDeraney/status/1337820130231820289" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1337820061826908160/pu/vid/720x1010/fAeI-lnP1HmCjAnn.mp4?tag=10" ],
+    "published" : [ "2020-12-12T18:02:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DannyDeraney" ],
+        "numeric-id" : [ "18309553" ],
+        "name" : [ "Danny Deraney or The King of Jingling" ],
+        "nickname" : [ "DannyDeraney" ],
+        "url" : [ "https://twitter.com/DannyDeraney", "http://deraneypr.com" ],
+        "published" : [ "2008-12-22T16:08:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "LA-NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336502834536140800/2lG1WrBS.jpg" ]
+      }
+    } ],
+    "content" : [ "Because you want to see a groundhog, taunting a dog, by eating a pizza." ]
+  }
+}
