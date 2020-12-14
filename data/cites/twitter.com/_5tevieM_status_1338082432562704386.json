@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338082432562704386" ],
+    "url" : [ "https://twitter.com/5tevieM/status/1338082432562704386" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1338082172939460609/pu/vid/640x360/1ZSNlX-wUA4LjChj.mp4?tag=10" ],
+    "published" : [ "2020-12-13T11:24:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:5tevieM" ],
+        "numeric-id" : [ "24408348" ],
+        "name" : [ "Stevie Martin" ],
+        "nickname" : [ "5tevieM" ],
+        "url" : [ "https://twitter.com/5tevieM", "https://avalonuk.com/clients/stevie-martin/", "http://twitch.tv/5tevieM" ],
+        "published" : [ "2009-03-14T18:32:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe.jpg" ]
+      }
+    } ],
+    "content" : [ "when you're trying to track a parcel" ]
+  }
+}
