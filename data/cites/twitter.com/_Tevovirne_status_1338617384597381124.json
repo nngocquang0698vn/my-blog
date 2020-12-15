@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338617384597381124" ],
+    "url" : [ "https://twitter.com/Tevovirne/status/1338617384597381124" ],
+    "published" : [ "2020-12-14T22:50:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Tevovirne" ],
+        "numeric-id" : [ "1130030588868665345" ],
+        "name" : [ "Байронічний герой" ],
+        "nickname" : [ "Tevovirne" ],
+        "url" : [ "https://twitter.com/Tevovirne" ],
+        "published" : [ "2019-05-19T08:41:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Україна :: Черкаси :: Мошни" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336030802602287105/cS66MbxC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "@JamieTanna Thank for the guide! :-)\njvt.me/posts/2020/04/…",
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> Thank for the guide! :-)\n<a href=\"https://www.jvt.me/posts/2020/04/20/buffer-array-to-string/\">jvt.me/posts/2020/04/…</a></div>"
+    } ]
+  }
+}
