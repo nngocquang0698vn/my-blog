@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338812349956972550" ],
+    "url" : [ "https://twitter.com/kevinmarks/status/1338812349956972550" ],
+    "published" : [ "2020-12-15T11:45:12+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/mekarpeles/status/1338793085526917120" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kevinmarks" ],
+        "numeric-id" : [ "57203" ],
+        "name" : [ "Kevin Marks" ],
+        "nickname" : [ "kevinmarks" ],
+        "url" : [ "https://twitter.com/kevinmarks", "http://kevinmarks.com", "http://known.kevinmarks.com" ],
+        "published" : [ "2006-12-11T11:43:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nunthorpe, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Yes you can, we do it all the time.",
+      "html" : "Yes you can, we do it all the time.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mekarpeles\"></a>"
+    } ]
+  }
+}
