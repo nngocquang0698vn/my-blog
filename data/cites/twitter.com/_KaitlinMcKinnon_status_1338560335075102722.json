@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338560335075102722" ],
+    "url" : [ "https://twitter.com/KaitlinMcKinnon/status/1338560335075102722" ],
+    "published" : [ "2020-12-14T19:03:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KaitlinMcKinnon" ],
+        "numeric-id" : [ "34877300" ],
+        "name" : [ "Kaitlin McKinnon" ],
+        "nickname" : [ "KaitlinMcKinnon" ],
+        "url" : [ "https://twitter.com/KaitlinMcKinnon", "http://kaitlinmckinnon.com" ],
+        "published" : [ "2009-04-24T07:52:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318594808919642112/WnDt_EHH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The box and packaging my #WindowsUglySweater came in is just as impressive as the sweater itself. 🎄🤗🎁 @Windows",
+      "html" : "The box and packaging my <a href=\"https://twitter.com/search?q=%23WindowsUglySweater\">#WindowsUglySweater</a> came in is just as impressive as the sweater itself. 🎄🤗🎁 <a href=\"https://twitter.com/Windows\">@Windows</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpOFhypVoAAE60v.jpg" ]
+  }
+}
