@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338586921417777152" ],
+    "url" : [ "https://twitter.com/nehasardana09/status/1338586921417777152" ],
+    "published" : [ "2020-12-14T20:49:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nehasardana09" ],
+        "numeric-id" : [ "788818206999838720" ],
+        "name" : [ "Neha Sardana" ],
+        "nickname" : [ "nehasardana09" ],
+        "url" : [ "https://twitter.com/nehasardana09", "https://neha-nsit.medium.com" ],
+        "published" : [ "2016-10-19T19:04:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Jersey City, NJ" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336119098414161922/hrAvch7J.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Loving the new feature in @intellijidea to run the rest api directly from the RequestMapping itself! I find it very useful! I don't have to leave my IDE at all! Thanks @intellijidea!",
+      "html" : "Loving the new feature in <a href=\"https://twitter.com/intellijidea\">@intellijidea</a> to run the rest api directly from the RequestMapping itself! I find it very useful! I don't have to leave my IDE at all! Thanks @intellijidea!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpOc-GIXUAU4wpD.png" ]
+  }
+}
