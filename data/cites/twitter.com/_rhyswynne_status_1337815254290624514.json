@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1337815254290624514" ],
+    "url" : [ "https://twitter.com/rhyswynne/status/1337815254290624514" ],
+    "published" : [ "2020-12-12T17:43:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rhyswynne" ],
+        "numeric-id" : [ "7226742" ],
+        "name" : [ "Rhys Wynne 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇺" ],
+        "nickname" : [ "rhyswynne" ],
+        "url" : [ "https://twitter.com/rhyswynne", "http://www.rhyswynne.co.uk/" ],
+        "published" : [ "2007-07-03T11:27:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Parts Unknown, Manchester" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/656843175756062720/fbwiamu9.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Games Workshop is worth 3 times as much to the British economy than Brexit fishing.\n\nIf you are unaware, one is a popular fantasy game, entrenched in make believe which allows poorly dressed overweight men to play out their wartime fantasies, and the other is Games Workshop.",
+      "html" : "<div style=\"white-space: pre\">Games Workshop is worth 3 times as much to the British economy than Brexit fishing.\n\nIf you are unaware, one is a popular fantasy game, entrenched in make believe which allows poorly dressed overweight men to play out their wartime fantasies, and the other is Games Workshop.</div>"
+    } ]
+  }
+}
