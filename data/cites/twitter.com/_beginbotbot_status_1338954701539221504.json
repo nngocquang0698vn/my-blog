@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338954701539221504" ],
+    "url" : [ "https://twitter.com/beginbotbot/status/1338954701539221504" ],
+    "published" : [ "2020-12-15T21:10:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:beginbotbot" ],
+        "numeric-id" : [ "1005182149" ],
+        "name" : [ "Begin" ],
+        "nickname" : [ "beginbotbot" ],
+        "url" : [ "https://twitter.com/beginbotbot", "http://www.davidbegin.com/", "http://twitch.tv/beginbot", "http://youtube.com/c/beginbot" ],
+        "published" : [ "2012-12-12T00:08:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1277455234168578048/FPNcx2ea.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If you need some marketing material to drive Github Sponsors @tpope",
+      "html" : "If you need some marketing material to drive Github Sponsors <a href=\"https://twitter.com/tpope\">@tpope</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpTsATLUUAAJ70x.png" ]
+  }
+}
