@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339305853195870208" ],
+    "url" : [ "https://twitter.com/darylcecile/status/1339305853195870208" ],
+    "published" : [ "2020-12-16T20:26:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1339304727813689345" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:darylcecile" ],
+        "numeric-id" : [ "796971271124815873" ],
+        "name" : [ "Daryl Cecile 🐼" ],
+        "nickname" : [ "darylcecile" ],
+        "url" : [ "https://twitter.com/darylcecile", "https://darylcecile.net", "http://brave.com/dar899" ],
+        "published" : [ "2016-11-11T07:02:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1213106387930222592/BxIn2BV2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "He looks so angry... hiding in case you send him back there :D",
+      "html" : "He looks so angry... hiding in case you send him back there :D\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
