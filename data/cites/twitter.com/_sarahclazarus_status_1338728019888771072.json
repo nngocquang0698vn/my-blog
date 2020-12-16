@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1338728019888771072" ],
+    "url" : [ "https://twitter.com/sarahclazarus/status/1338728019888771072" ],
+    "published" : [ "2020-12-15T06:10:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarahclazarus" ],
+        "numeric-id" : [ "2289160027" ],
+        "name" : [ "Sarah Lazarus" ],
+        "nickname" : [ "sarahclazarus" ],
+        "url" : [ "https://twitter.com/sarahclazarus", "http://crooked.com/newsletters" ],
+        "published" : [ "2014-01-13T05:40:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "los angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1185696520206553088/-qx4LAT6.jpg" ]
+      }
+    } ],
+    "content" : [ "I know we’ll probably go back to the office gradually but I can’t stop imagining 50 feral people all trying to remember how to eat a salad in public" ]
+  }
+}
