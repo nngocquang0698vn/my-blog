@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339167225215848449" ],
+    "url" : [ "https://twitter.com/sturdyAlex/status/1339167225215848449" ],
+    "published" : [ "2020-12-16T11:15:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sturdyAlex" ],
+        "numeric-id" : [ "42371615" ],
+        "name" : [ "Alex Andreou" ],
+        "nickname" : [ "sturdyAlex" ],
+        "url" : [ "https://twitter.com/sturdyAlex" ],
+        "published" : [ "2009-05-25T07:59:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK and Mykonos, Greece" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204392900727058437/r-63pQy1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Evergreen meme. (via @lunaperla)",
+      "html" : "Evergreen meme. (via <a href=\"https://twitter.com/lunaperla\">@lunaperla</a>)"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpWteyvWMAAg0d5.jpg" ]
+  }
+}
