@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339302691185561605" ],
+    "url" : [ "https://twitter.com/rem/status/1339302691185561605" ],
+    "published" : [ "2020-12-16T20:13:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rem" ],
+        "numeric-id" : [ "648873" ],
+        "name" : [ "@rem" ],
+        "nickname" : [ "rem" ],
+        "url" : [ "https://twitter.com/rem", "https://remysharp.com" ],
+        "published" : [ "2007-01-16T20:11:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/527584017189982208/l3wwN-l-.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just removed Google Analytics from my blog.\n\nBeen sat on the fence for a long time. But then, I've not looked at my analytics in as much time. When I thought of it like that, it was easy.",
+      "html" : "<div style=\"white-space: pre\">Just removed Google Analytics from my blog.\n\nBeen sat on the fence for a long time. But then, I've not looked at my analytics in as much time. When I thought of it like that, it was easy.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpYoU9xXIAg4R1d.jpg" ]
+  }
+}
