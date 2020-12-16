@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339245183771217920" ],
+    "url" : [ "https://twitter.com/yayalexisgay/status/1339245183771217920" ],
+    "published" : [ "2020-12-16T16:25:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:yayalexisgay" ],
+        "numeric-id" : [ "22785963" ],
+        "name" : [ "Alexis Gay" ],
+        "nickname" : [ "yayalexisgay" ],
+        "url" : [ "https://twitter.com/yayalexisgay", "http://youtube.com/alexisgay" ],
+        "published" : [ "2009-03-04T15:22:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334189139080654849/1SDCGHVe.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "\"stick with me, kid and you'll never buy your own t-shirts again\"\n\n- the tech industry",
+      "html" : "<div style=\"white-space: pre\">\"stick with me, kid and you'll never buy your own t-shirts again\"\n\n- the tech industry</div>"
+    } ]
+  }
+}
