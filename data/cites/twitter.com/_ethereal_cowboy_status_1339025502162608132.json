@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339025502162608132" ],
+    "url" : [ "https://twitter.com/ethereal_cowboy/status/1339025502162608132" ],
+    "published" : [ "2020-12-16T01:52:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ethereal_cowboy" ],
+        "numeric-id" : [ "777708733421920256" ],
+        "name" : [ "mjax the christmas cowboy" ],
+        "nickname" : [ "ethereal_cowboy" ],
+        "url" : [ "https://twitter.com/ethereal_cowboy" ],
+        "published" : [ "2016-09-19T03:19:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333872039300636675/RPHaCMu7.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpUsmNnXEAEbkU5.jpg" ]
+  }
+}
