@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339294885954940929" ],
+    "url" : [ "https://twitter.com/Dev14e/status/1339294885954940929" ],
+    "published" : [ "2020-12-16T19:42:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dev14e" ],
+        "numeric-id" : [ "137946441" ],
+        "name" : [ "HoliDev" ],
+        "nickname" : [ "Dev14e" ],
+        "url" : [ "https://twitter.com/Dev14e", "http://greet.dev" ],
+        "published" : [ "2010-04-28T06:05:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1290537571668201472/UReDdn7T.jpg" ]
+      }
+    } ],
+    "content" : [ "The difference between WhatsApp and Signal (both end-to-end encrypted) in the new App Store privacy section is stark" ],
+    "photo" : [ "https://pbs.twimg.com/media/EpYhmW1UwAAl8XR.jpg", "https://pbs.twimg.com/media/EpYhmW1VEAEN2RY.jpg" ]
+  }
+}
