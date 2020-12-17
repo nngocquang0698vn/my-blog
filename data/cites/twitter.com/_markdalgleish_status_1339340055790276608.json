@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339340055790276608" ],
+    "url" : [ "https://twitter.com/markdalgleish/status/1339340055790276608" ],
+    "published" : [ "2020-12-16T22:42:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:markdalgleish" ],
+        "numeric-id" : [ "257765996" ],
+        "name" : [ "Mark Dalgleish" ],
+        "nickname" : [ "markdalgleish" ],
+        "url" : [ "https://twitter.com/markdalgleish" ],
+        "published" : [ "2011-02-26T03:41:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Developer: I don't need type checking.\n\nAlso developer: it('should throw an error when passed a string', () => {",
+      "html" : "<div style=\"white-space: pre\">Developer: I don't need type checking.\n\nAlso developer: it('should throw an error when passed a string', () =&gt; {</div>"
+    } ]
+  }
+}
