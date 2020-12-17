@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339539675682369536" ],
+    "url" : [ "https://twitter.com/shzwlkr/status/1339539675682369536" ],
+    "published" : [ "2020-12-17T11:55:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shzwlkr" ],
+        "numeric-id" : [ "249683268" ],
+        "name" : [ "Shannon Walker" ],
+        "nickname" : [ "shzwlkr" ],
+        "url" : [ "https://twitter.com/shzwlkr", "https://www.shzwlkr.dev" ],
+        "published" : [ "2011-02-09T15:23:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335308211063238657/kA3v5gSj.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "One thing I've noticed in the 4+ years of working in the UK is that any team social is almost inevitably going to include some sort of quiz. \n\nI've also learnt that I am really bad at quizzes 😅",
+      "html" : "<div style=\"white-space: pre\">One thing I've noticed in the 4+ years of working in the UK is that any team social is almost inevitably going to include some sort of quiz. \n\nI've also learnt that I am really bad at quizzes 😅</div>"
+    } ]
+  }
+}
