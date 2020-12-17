@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339257875034566656" ],
+    "url" : [ "https://twitter.com/lanewinfield/status/1339257875034566656" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1339257850363723777/pu/vid/1280x720/aeRjFnxxdCxdaB-B.mp4?tag=10" ],
+    "published" : [ "2020-12-16T17:15:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lanewinfield" ],
+        "numeric-id" : [ "6194102" ],
+        "name" : [ "Brian Moore" ],
+        "nickname" : [ "lanewinfield" ],
+        "url" : [ "https://twitter.com/lanewinfield", "http://brianmoore.com" ],
+        "published" : [ "2007-05-21T08:36:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Now, suddenly, Los Angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/778975063102091264/-IujVfjH.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ],
+        "name" : [ "Los Angeles, CA" ]
+      }
+    } ],
+    "content" : [ "I always awkwardly struggle to get to the end call button on video calls. So I made this" ]
+  }
+}
