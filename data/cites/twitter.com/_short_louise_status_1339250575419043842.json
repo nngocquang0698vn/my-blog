@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339250575419043842" ],
+    "url" : [ "https://twitter.com/short_louise/status/1339250575419043842" ],
+    "published" : [ "2020-12-16T16:46:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:short_louise" ],
+        "numeric-id" : [ "276855748" ],
+        "name" : [ "Louise Paling" ],
+        "nickname" : [ "short_louise" ],
+        "url" : [ "https://twitter.com/short_louise" ],
+        "published" : [ "2011-04-04T06:40:11+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204077832483360771/iEm9QMFA.jpg" ]
+      }
+    } ],
+    "content" : [ "Just accidentally deleted a file I'd spent hours making. Thank heaven's for sync to cloud storage with version control. Consider this your reminder to backup your stuff!" ]
+  }
+}
