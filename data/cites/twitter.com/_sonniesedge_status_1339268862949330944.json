@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339268862949330944" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1339268862949330944" ],
+    "published" : [ "2020-12-16T17:59:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333081192183320576/sxaiI-kC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just received the email saying my 50 boxes of Terry's Chocolate Oranges has been dispatched. \n\nDon't buy while high kids.",
+      "html" : "<div style=\"white-space: pre\">Just received the email saying my 50 boxes of Terry's Chocolate Oranges has been dispatched. \n\nDon't buy while high kids.</div>"
+    } ]
+  }
+}
