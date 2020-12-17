@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339508387185344514" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1339508387185344514" ],
+    "published" : [ "2020-12-17T09:51:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "http://compiled.blog" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1326806951951523842/PQSrlGKL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What 2020 has taught me:\n\nI’m okay attending meetings in my sweatpants, with no makeup, and my cat.\n\nI’m liking this new version of myself 💁‍♀️",
+      "html" : "<div style=\"white-space: pre\">What 2020 has taught me:\n\nI’m okay attending meetings in my sweatpants, with no makeup, and my cat.\n\nI’m liking this new version of myself 💁‍♀️</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EpbjxsVXUAABIDo.jpg" ]
+  }
+}
