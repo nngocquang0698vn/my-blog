@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339628733972430849" ],
+    "url" : [ "https://twitter.com/LauraKalbag/status/1339628733972430849" ],
+    "published" : [ "2020-12-17T17:49:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LauraKalbag" ],
+        "numeric-id" : [ "14849130" ],
+        "name" : [ "Laura Kalbag" ],
+        "nickname" : [ "LauraKalbag" ],
+        "url" : [ "https://twitter.com/LauraKalbag", "https://laurakalbag.com", "http://a4e.link" ],
+        "published" : [ "2008-05-20T21:47:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cork, Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1062771120460455936/ZaW77dQ6.jpg" ]
+      }
+    } ],
+    "content" : [ "Developers adding multiple third-party analytics to their pages like they really want to find out how much visitors hate slow websites." ]
+  }
+}
