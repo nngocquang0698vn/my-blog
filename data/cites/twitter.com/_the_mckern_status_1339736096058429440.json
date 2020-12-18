@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339736096058429440" ],
+    "url" : [ "https://twitter.com/the_mckern/status/1339736096058429440" ],
+    "published" : [ "2020-12-18T00:55:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:the_mckern" ],
+        "numeric-id" : [ "272258783" ],
+        "name" : [ "Ryan McKern 🇵🇷" ],
+        "nickname" : [ "the_mckern" ],
+        "url" : [ "https://twitter.com/the_mckern" ],
+        "published" : [ "2011-03-26T04:28:27+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311393942097727488/IiEFyAVx.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "One of the fights I keep losing at ${DAYJOB} is “don’t use short flags in shell scripts if you have long flags available; make things easier for the people who come after you”\nAnd like... I do not understand why this is controversial or why people resist it so strongly.",
+      "html" : "<div style=\"white-space: pre\">One of the fights I keep losing at ${DAYJOB} is “don’t use short flags in shell scripts if you have long flags available; make things easier for the people who come after you”\nAnd like... I do not understand why this is controversial or why people resist it so strongly.</div>"
+    } ]
+  }
+}
