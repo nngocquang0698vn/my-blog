@@ -1,0 +1,48 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339946785754759170" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1339946785754759170" ],
+    "published" : [ "2020-12-18T14:53:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228316950884954114/YzosSgSI.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Corrosive to your soul: data stored in your browser\nTotally fine ok fun times: kids in cages",
+      "html" : "<div style=\"white-space: pre\">Corrosive to your soul: data stored in your browser\nTotally fine ok fun times: kids in cages</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1339687208274542595" ],
+      "url" : [ "https://twitter.com/rhhackett/status/1339687208274542595" ],
+      "published" : [ "2020-12-17T21:41:35+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:rhhackett" ],
+          "numeric-id" : [ "447335163" ],
+          "name" : [ "Robert Hackett" ],
+          "nickname" : [ "rhhackett" ],
+          "url" : [ "https://twitter.com/rhhackett", "http://roberthackett.com", "http://keybase.io/rhhackett" ],
+          "published" : [ "2011-12-26T19:33:30+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1061348612045725696/jiR7gJ_A.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Spoke to @natfriedman about his decision to nuke cookies on @github. He says trackers are \"corrosive to your soul\" and more websites should nix them altogether. fortune.com/2020/12/17/git…",
+        "html" : "Spoke to <a href=\"https://twitter.com/natfriedman\">@natfriedman</a> about his decision to nuke cookies on <a href=\"https://twitter.com/github\">@github</a>. He says trackers are \"corrosive to your soul\" and more websites should nix them altogether. <a href=\"https://fortune.com/2020/12/17/github-ceo-were-nuking-all-tracking-cookies-and-you-should-too/\">fortune.com/2020/12/17/git…</a>"
+      } ]
+    }
+  } ]
+}
