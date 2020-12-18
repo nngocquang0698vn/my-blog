@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @LauraKalbag's tweet" ],
     "published" : [ "2020-12-17T23:53:00+0000" ],
     "category" : [ "web", "analytics" ],

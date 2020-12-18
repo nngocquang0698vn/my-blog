@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @markdalgleish's tweet" ],
     "published" : [ "2020-12-17T20:11:00+0000" ],
     "category" : [ "javascript", "typescript" ],
