@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/therimaahmed/status/1339600808929710084" ],
     "name" : [ "Like of @therimaahmed's tweet" ],
     "published" : [ "2020-12-18T18:34:00+0000" ],
     "like-of" : [ "https://twitter.com/therimaahmed/status/1339600808929710084" ]
