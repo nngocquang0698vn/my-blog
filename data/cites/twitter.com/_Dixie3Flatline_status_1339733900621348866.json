@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339733900621348866" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1339733900621348866" ],
+    "published" : [ "2020-12-18T00:47:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove, Alleged Thought Leader" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335357780706828288/BcgVHF2S.jpg" ]
+      }
+    } ],
+    "content" : [ "I am on PTO for the next two weeks. Guess I no longer have an excuse to put off building a personal website" ]
+  }
+}
