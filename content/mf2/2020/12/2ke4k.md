@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jzux/status/1339334837715443712" ],
     "name" : [ "Like of @jzux's tweet" ],
     "published" : [ "2020-12-18T17:54:00+0000" ],
     "category" : [ "coronavirus" ],
