@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339600808929710084" ],
+    "url" : [ "https://twitter.com/therimaahmed/status/1339600808929710084" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1339600745327337472/pu/vid/480x848/JUFnqiC0L1b2xwVQ.mp4?tag=10" ],
+    "published" : [ "2020-12-17T15:58:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:therimaahmed" ],
+        "numeric-id" : [ "2580700791" ],
+        "name" : [ "Rima" ],
+        "nickname" : [ "therimaahmed" ],
+        "url" : [ "https://twitter.com/therimaahmed", "https://theovertake.com" ],
+        "published" : [ "2014-06-03T15:56:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Back where I came from " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1229856117506924545/ZUuZiOLc.jpg" ]
+      }
+    } ],
+    "content" : [ "Sometimes I forget about the cameras in the BBC Radio Bradford studio, but I’m always quickly reminded" ]
+  }
+}
