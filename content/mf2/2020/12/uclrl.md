@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/the_mckern/status/1339736096058429440" ],
     "name" : [ "Like of @the_mckern's tweet" ],
     "published" : [ "2020-12-18T20:28:00+0000" ],
     "category" : [ "command-line", "shell", "scripting" ],
