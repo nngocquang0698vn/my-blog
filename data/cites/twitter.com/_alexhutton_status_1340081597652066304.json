@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340081597652066304" ],
+    "url" : [ "https://twitter.com/alexhutton/status/1340081597652066304" ],
+    "published" : [ "2020-12-18T23:48:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alexhutton" ],
+        "numeric-id" : [ "1933141" ],
+        "name" : [ "Alex Hutton" ],
+        "nickname" : [ "alexhutton" ],
+        "url" : [ "https://twitter.com/alexhutton", "http://alexhutton.com" ],
+        "published" : [ "2007-03-22T20:15:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "CLT" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/894893639847075840/fzOkFORe.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s only elevated priv if it comes from the Sudeaux region of France." ]
+  }
+}
