@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340129730926948352" ],
+    "url" : [ "https://twitter.com/qikipedia/status/1340129730926948352" ],
+    "published" : [ "2020-12-19T03:00:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:qikipedia" ],
+        "numeric-id" : [ "22151193" ],
+        "name" : [ "Quite Interesting" ],
+        "nickname" : [ "qikipedia" ],
+        "url" : [ "https://twitter.com/qikipedia", "http://www.qi.com", "http://instagram.com/theqielves", "http://facebook.com/OfficialQI/", "http://youtube.com/user/TheQIElves" ],
+        "published" : [ "2009-02-27T15:36:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "QI HQ" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314339927145021440/QyGw59gL.jpg" ]
+      }
+    } ],
+    "content" : [ "The word ‘Tory’, commonly used to refer to a member of the UK Conservative Party, comes from the Irish Gaelic word ‘tóraidhe’ meaning outlaw or robber." ]
+  }
+}
