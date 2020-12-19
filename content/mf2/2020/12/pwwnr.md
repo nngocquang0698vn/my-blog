@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mseckington/status/1340213843021209601" ],
     "name" : [ "Like of @mseckington's tweet" ],
     "published" : [ "2020-12-19T09:39:00+0000" ],
     "category" : [ "cute" ],
