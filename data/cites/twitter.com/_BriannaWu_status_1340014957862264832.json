@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340014957862264832" ],
+    "url" : [ "https://twitter.com/BriannaWu/status/1340014957862264832" ],
+    "published" : [ "2020-12-18T19:23:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BriannaWu" ],
+        "numeric-id" : [ "17264476" ],
+        "name" : [ "Brianna Wu" ],
+        "nickname" : [ "BriannaWu" ],
+        "url" : [ "https://twitter.com/BriannaWu" ],
+        "published" : [ "2008-11-09T04:14:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dedham, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300883963913924609/fa7pguUP.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Painfully sincere Tweet: \n\nIn 2012, I read a novel with unusually well-written women characters. Shot the author a Tweet, and developed a friendship. \n\nSeason 5 of the TV about that book series just debuted. I’m just amazed with all @JamesSACorey has accomplished in 8 years.",
+      "html" : "<div style=\"white-space: pre\">Painfully sincere Tweet: \n\nIn 2012, I read a novel with unusually well-written women characters. Shot the author a Tweet, and developed a friendship. \n\nSeason 5 of the TV about that book series just debuted. I’m just amazed with all <a href=\"https://twitter.com/JamesSACorey\">@JamesSACorey</a> has accomplished in 8 years.</div>"
+    } ]
+  }
+}
