@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340311741805318146" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1340311741805318146" ],
+    "published" : [ "2020-12-19T15:03:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "vim harlequin" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "http://butts.farm" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "shoreditch exclusion zone" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314974739824246784/L46478lF.jpg" ]
+      }
+    } ],
+    "content" : [ "I tried to do a fizzbuzz using modern web platform apis and im terrified that it actually works" ],
+    "photo" : [ "https://pbs.twimg.com/media/Epm-bL-XMAEfMTH.jpg" ]
+  }
+}
