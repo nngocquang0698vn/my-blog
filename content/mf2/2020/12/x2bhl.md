@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jason_kint/status/1339349312694837250" ],
     "name" : [ "Like of @jason_kint's tweet" ],
     "published" : [ "2020-12-19T10:30:00+0000" ],
     "category" : [ "google" ],
