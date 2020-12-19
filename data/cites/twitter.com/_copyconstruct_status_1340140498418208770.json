@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340140498418208770" ],
+    "url" : [ "https://twitter.com/copyconstruct/status/1340140498418208770" ],
+    "published" : [ "2020-12-19T03:42:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:copyconstruct" ],
+        "numeric-id" : [ "161667651" ],
+        "name" : [ "Cindy Sridharan" ],
+        "nickname" : [ "copyconstruct" ],
+        "url" : [ "https://twitter.com/copyconstruct", "https://copyconstruct.medium.com" ],
+        "published" : [ "2010-07-01T12:53:22+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309916526313500675/iR68fau4.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The full postmortem of the Google outage this week is now up:\n\n- incomplete migrations can be dangerous\n- it continues to baffle me that Google systems aren’t designed to minimize the blast radius.\n- Automated tools shouldn’t have the ability to make *global* config changes.",
+      "html" : "<div style=\"white-space: pre\">The full postmortem of the Google outage this week is now up:\n\n- incomplete migrations can be dangerous\n- it continues to baffle me that Google systems aren’t designed to minimize the blast radius.\n- Automated tools shouldn’t have the ability to make *global* config changes.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Epkiq3yUwAEuRyp.jpg", "https://pbs.twimg.com/media/Epkiq3xUwAEpUQ5.jpg", "https://pbs.twimg.com/media/Epkiq3wUYAQkkob.jpg" ]
+  }
+}
