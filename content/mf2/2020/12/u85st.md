@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Queen_UK/status/1340399815419674624" ],
     "name" : [ "Like of @Queen_UK's tweet" ],
     "published" : [ "2020-12-19T21:36:00+0000" ],
     "category" : [ "2020" ],
