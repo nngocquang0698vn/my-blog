@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thegallowboob/status/1339950656078163974" ],
     "name" : [ "Like of @thegallowboob's tweet" ],
     "published" : [ "2020-12-19T09:39:00+0000" ],
     "category" : [ "space" ],
