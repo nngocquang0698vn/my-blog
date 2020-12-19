@@ -1,0 +1,38 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340320303763828741" ],
+    "url" : [ "https://twitter.com/technottingham/status/1340320303763828741" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1340320094057066497/pu/vid/720x1280/J7trGtETpafUgHPo.mp4?tag=10" ],
+    "published" : [ "2020-12-19T15:37:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:7d7bdec12d2549d4" ],
+        "name" : [ "Nottingham, England" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Santa's on his way to deliver the first load of #TNSecretSanta presents and having a jolly old sing-song in the 'sleigh' 🥳\n\n12 something somethings, 11 something somethings, 10 something somethings, 9 something somethings, 8 something somethings....\n\nFIVE GOOOLD RIIIIINGS 🎶🎶🎶",
+      "html" : "<div style=\"white-space: pre\">Santa's on his way to deliver the first load of <a href=\"https://twitter.com/search?q=%23TNSecretSanta\">#TNSecretSanta</a> presents and having a jolly old sing-song in the 'sleigh' 🥳\n\n12 something somethings, 11 something somethings, 10 something somethings, 9 something somethings, 8 something somethings....\n\nFIVE GOOOLD RIIIIINGS 🎶🎶🎶</div>"
+    } ]
+  }
+}
