@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/copyconstruct/status/1340140498418208770" ],
     "name" : [ "Like of @copyconstruct's tweet" ],
     "published" : [ "2020-12-19T09:43:00+0000" ],
     "category" : [ "production", "google" ],
