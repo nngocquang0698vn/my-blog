@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340217061788721152" ],
+    "url" : [ "https://twitter.com/SgtLex/status/1340217061788721152" ],
+    "published" : [ "2020-12-19T08:47:02+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1339719659218604032" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SgtLex" ],
+        "numeric-id" : [ "29470116" ],
+        "name" : [ "Sgt Lex" ],
+        "nickname" : [ "SgtLex" ],
+        "url" : [ "https://twitter.com/SgtLex" ],
+        "published" : [ "2009-04-07T15:27:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Classified" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/979068250/jarhead3.gif" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My wife has been making these",
+      "html" : "My wife has been making these\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shanselman\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EploThDU8AAmEbN.jpg" ]
+  }
+}
