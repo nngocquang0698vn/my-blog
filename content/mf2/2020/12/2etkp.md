@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukeExton/status/1340316449089474567" ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2020-12-19T18:55:00+0000" ],
     "category" : [ "brexshit" ],
