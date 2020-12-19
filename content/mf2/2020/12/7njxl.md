@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1340328751868108801" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2020-12-19T17:20:00+0000" ],
     "category" : [ "christmas" ],
