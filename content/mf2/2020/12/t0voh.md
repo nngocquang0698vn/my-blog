@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emilylhauser/status/1340037061492011008" ],
     "name" : [ "Like of @emilylhauser's tweet" ],
     "published" : [ "2020-12-19T18:19:00+0000" ],
     "category" : [ "2020" ],
