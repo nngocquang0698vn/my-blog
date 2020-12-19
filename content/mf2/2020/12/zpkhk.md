@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qikipedia/status/1340129730926948352" ],
     "name" : [ "Like of @qikipedia's tweet" ],
     "published" : [ "2020-12-19T10:30:00+0000" ],
     "category" : [ "politics" ],
