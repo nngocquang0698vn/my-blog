@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Adam_Pearson/status/1340370473729843200" ],
     "name" : [ "Like of @Adam_Pearson's tweet" ],
     "published" : [ "2020-12-19T23:23:00+0000" ],
     "category" : [ "christmas", "2020", "coronavirus" ],
