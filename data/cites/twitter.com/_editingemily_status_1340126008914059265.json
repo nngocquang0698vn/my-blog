@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340126008914059265" ],
+    "url" : [ "https://twitter.com/editingemily/status/1340126008914059265" ],
+    "published" : [ "2020-12-19T02:45:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1340124586927525888" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:editingemily" ],
+        "numeric-id" : [ "1066151600" ],
+        "name" : [ "emily freeman" ],
+        "nickname" : [ "editingemily" ],
+        "url" : [ "https://twitter.com/editingemily", "http://www.emilyfreeman.io", "http://amzn.to/2XL7lGM" ],
+        "published" : [ "2013-01-06T16:49:03+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329506348761899014/dT0IQbP7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I really wanna hang out with you for real",
+      "html" : "I really wanna hang out with you for real\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>"
+    } ]
+  }
+}
