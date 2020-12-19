@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340370473729843200" ],
+    "url" : [ "https://twitter.com/Adam_Pearson/status/1340370473729843200" ],
+    "published" : [ "2020-12-19T18:56:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Adam_Pearson" ],
+        "numeric-id" : [ "24744983" ],
+        "name" : [ "Adam Pearson" ],
+        "nickname" : [ "Adam_Pearson" ],
+        "url" : [ "https://twitter.com/Adam_Pearson", "http://www.AndrewRoachTalent.com" ],
+        "published" : [ "2009-03-16T18:47:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Croydon, London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146460625591263232/_wWImVu3.jpg" ]
+      }
+    } ],
+    "content" : [ "Only 371 sleeps till Christmas." ]
+  }
+}
