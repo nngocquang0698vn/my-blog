@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SgtLex/status/1340217061788721152" ],
     "name" : [ "Like of @SgtLex's tweet" ],
     "published" : [ "2020-12-19T10:30:00+0000" ],
     "category" : [ "christmas", "the-mandalorian" ],
