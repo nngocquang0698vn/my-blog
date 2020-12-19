@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340300132294811649" ],
+    "url" : [ "https://twitter.com/WolfmanJustin/status/1340300132294811649" ],
+    "published" : [ "2020-12-19T14:17:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:WolfmanJustin" ],
+        "numeric-id" : [ "520460366" ],
+        "name" : [ "Justin says Break out the gullotines!" ],
+        "nickname" : [ "WolfmanJustin" ],
+        "url" : [ "https://twitter.com/WolfmanJustin" ],
+        "published" : [ "2012-03-10T14:54:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Tennessee " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334326973464764416/05cnwtU_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Boba: This armor belonged to my father.\n\nBo-Katan: Don't you mean your donor?\n\n#TheMandalorian #mandalorianfinale",
+      "html" : "<div style=\"white-space: pre\">Boba: This armor belonged to my father.\n\nBo-Katan: Don't you mean your donor?\n\n<a href=\"https://twitter.com/search?q=%23TheMandalorian\">#TheMandalorian</a> <a href=\"https://twitter.com/search?q=%23mandalorianfinale\">#mandalorianfinale</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Epmz3bYXcAAklPG.jpg" ]
+  }
+}
