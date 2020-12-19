@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexhutton/status/1340081597652066304" ],
     "name" : [ "Like of @alexhutton's tweet" ],
     "published" : [ "2020-12-19T10:33:00+0000" ],
     "category" : [ "sparkling" ],
