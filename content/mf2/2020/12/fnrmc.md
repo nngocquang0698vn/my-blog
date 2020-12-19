@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thefutureheads/status/1340341193285230592" ],
     "name" : [ "Like of @thefutureheads's tweet" ],
     "published" : [ "2020-12-19T21:38:00+0000" ],
     "category" : [ "politics" ],
