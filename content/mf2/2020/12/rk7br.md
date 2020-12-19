@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WolfmanJustin/status/1340300132294811649" ],
     "name" : [ "Like of @WolfmanJustin's tweet" ],
     "published" : [ "2020-12-19T20:21:00+0000" ],
     "category" : [ "the-mandalorian" ],
