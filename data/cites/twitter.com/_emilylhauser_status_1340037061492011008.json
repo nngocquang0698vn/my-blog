@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340037061492011008" ],
+    "url" : [ "https://twitter.com/emilylhauser/status/1340037061492011008" ],
+    "published" : [ "2020-12-18T20:51:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emilylhauser" ],
+        "numeric-id" : [ "106228835" ],
+        "name" : [ "Emily L. Hauser אלה אסתר" ],
+        "nickname" : [ "emilylhauser" ],
+        "url" : [ "https://twitter.com/emilylhauser", "https://medium.com/@emily.hauser" ],
+        "published" : [ "2010-01-18T22:22:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "outside Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339417216131973124/v3E-fP-y.jpg" ]
+      }
+    } ],
+    "content" : [ "Mr. Box, I continue to try." ],
+    "photo" : [ "https://pbs.twimg.com/media/EpjEmBAXEAEYcfG.jpg" ]
+  }
+}
