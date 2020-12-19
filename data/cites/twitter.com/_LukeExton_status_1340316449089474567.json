@@ -1,0 +1,51 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340316449089474567" ],
+    "url" : [ "https://twitter.com/LukeExton/status/1340316449089474567" ],
+    "published" : [ "2020-12-19T15:21:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LukeExton" ],
+        "numeric-id" : [ "1254328994" ],
+        "name" : [ "Luke Exton" ],
+        "nickname" : [ "LukeExton" ],
+        "url" : [ "https://twitter.com/LukeExton", "https://twitter.com/intent/tweet?text=Black%20Lives%20Matter" ],
+        "published" : [ "2013-03-09T13:04:19+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1008314627011334145/8wKoq6rW.jpg" ]
+      }
+    } ],
+    "content" : [ "To be fair, they did say they wanted to end freedom of movement" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1340286620260593667" ],
+      "url" : [ "https://twitter.com/guardian/status/1340286620260593667" ],
+      "published" : [ "2020-12-19T13:23:26+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:guardian" ],
+          "numeric-id" : [ "87818409" ],
+          "name" : [ "The Guardian" ],
+          "nickname" : [ "guardian" ],
+          "url" : [ "https://twitter.com/guardian", "https://www.theguardian.com", "https://support.theguardian.com" ],
+          "published" : [ "2009-11-05T23:49:19+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Five-miles lorry queues in Kent as businesses prepare for Christmas and Brexit theguardian.com/politics/2020/…",
+        "html" : "Five-miles lorry queues in Kent as businesses prepare for Christmas and Brexit <a href=\"https://www.theguardian.com/politics/2020/dec/19/five-miles-lorry-queues-in-kent-as-businesses-prepare-for-christmas-and-brexit?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1608384144\">theguardian.com/politics/2020/…</a>"
+      } ]
+    }
+  } ]
+}
