@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340749075914829828" ],
+    "url" : [ "https://twitter.com/anjuan/status/1340749075914829828" ],
+    "published" : [ "2020-12-20T20:01:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/EricaJoy/status/1340742921457319936" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:anjuan" ],
+        "numeric-id" : [ "8062692" ],
+        "name" : [ "Anjuan" ],
+        "nickname" : [ "anjuan" ],
+        "url" : [ "https://twitter.com/anjuan", "http://www.AnjuanSimmons.com" ],
+        "published" : [ "2007-08-08T19:33:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston, Texas" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281385841777160192/5yQBd0BA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The ability to have any one person spend a month without a key privilege (class, race, gender, sexuality, etc.) so that they  can become more empathetic.\n\nThis reflects my fear that we won't overcome bias and prejudice without directly accessing the lived experiences of others.",
+      "html" : "<div style=\"white-space: pre\">The ability to have any one person spend a month without a key privilege (class, race, gender, sexuality, etc.) so that they  can become more empathetic.\n\nThis reflects my fear that we won't overcome bias and prejudice without directly accessing the lived experiences of others.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EricaJoy\"></a>"
+    } ]
+  }
+}
