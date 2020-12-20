@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340473853525569542" ],
+    "url" : [ "https://twitter.com/starwarstuff/status/1340473853525569542" ],
+    "published" : [ "2020-12-20T01:47:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:starwarstuff" ],
+        "numeric-id" : [ "3180896500" ],
+        "name" : [ "Star Wars Stuff" ],
+        "nickname" : [ "starwarstuff" ],
+        "url" : [ "https://twitter.com/starwarstuff", "https://www.instagram.com/star.warstuff/" ],
+        "published" : [ "2015-04-18T21:11:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "starwarstuff.team@gmail.com   " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/945670389933461505/iIOYy3uU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "THE BOOK OF BOBA FETT and #TheMandalorian Season 3 are two separate shows, says a Lucasfilm artist! bit.ly/3atrp9C",
+      "html" : "THE BOOK OF BOBA FETT and <a href=\"https://twitter.com/search?q=%23TheMandalorian\">#TheMandalorian</a> Season 3 are two separate shows, says a Lucasfilm artist! <a href=\"http://bit.ly/3atrp9C\">bit.ly/3atrp9C</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EppRkPdW4AA4qHk.jpg" ]
+  }
+}
