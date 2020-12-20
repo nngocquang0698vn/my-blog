@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340588229309952000" ],
+    "url" : [ "https://twitter.com/chenweihua/status/1340588229309952000" ],
+    "published" : [ "2020-12-20T09:21:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Nigel_Farage/status/1340342881521971206" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chenweihua" ],
+        "numeric-id" : [ "88702710" ],
+        "name" : [ "Chen Weihua （陈卫华）" ],
+        "nickname" : [ "chenweihua" ],
+        "url" : [ "https://twitter.com/chenweihua", "http://www.chinadaily.com.cn/opinion/columnists/chenweihua" ],
+        "published" : [ "2009-11-09T16:39:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brussels" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/485435685814300672/dOZBbo0S.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Wear a mask and stop talking shit.",
+      "html" : "Wear a mask and stop talking shit.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Nigel_Farage\"></a>"
+    } ]
+  }
+}
