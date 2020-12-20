@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anjuan/status/1340749075914829828" ],
     "name" : [ "Like of @anjuan's tweet" ],
     "published" : [ "2020-12-20T22:34:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
