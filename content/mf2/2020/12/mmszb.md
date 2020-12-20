@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ProfessorGutian/status/1340203754604306432" ],
     "name" : [ "Like of @ProfessorGutian's tweet" ],
     "published" : [ "2020-12-20T20:32:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
