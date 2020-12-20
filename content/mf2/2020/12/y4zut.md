@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CodesCarla/status/1340374215103549444" ],
     "name" : [ "Like of @CodesCarla's tweet" ],
     "published" : [ "2020-12-20T14:49:00+0000" ],
     "like-of" : [ "https://twitter.com/CodesCarla/status/1340374215103549444" ]
