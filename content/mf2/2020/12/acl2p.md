@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kambamfam_/status/1340176528160796672" ],
     "name" : [ "Like of @kambamfam_'s tweet" ],
     "published" : [ "2020-12-20T19:44:00+0000" ],
     "like-of" : [ "https://twitter.com/kambamfam_/status/1340176528160796672" ]
