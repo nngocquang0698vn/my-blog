@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/starwarstuff/status/1340473853525569542" ],
     "name" : [ "Like of @starwarstuff's tweet" ],
     "published" : [ "2020-12-20T14:57:00+0000" ],
     "category" : [ "the-mandalorian" ],
