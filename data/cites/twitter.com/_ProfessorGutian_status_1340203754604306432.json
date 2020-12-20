@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340203754604306432" ],
+    "url" : [ "https://twitter.com/ProfessorGutian/status/1340203754604306432" ],
+    "published" : [ "2020-12-19T07:54:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ProfessorGutian" ],
+        "numeric-id" : [ "1113604237890449408" ],
+        "name" : [ "Lily Simpson" ],
+        "nickname" : [ "ProfessorGutian" ],
+        "url" : [ "https://twitter.com/ProfessorGutian", "https://www.youtube.com/channel/UCC974Jswc2RGhCmCpxF2boQ?view_as=subscriber", "https://www.youtube.com/popcultureprofessor" ],
+        "published" : [ "2019-04-04T00:48:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Zealand" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334814979866861575/HNFqpRuc.jpg" ]
+      }
+    } ],
+    "content" : [ "I still can't get over this tweet" ],
+    "photo" : [ "https://pbs.twimg.com/media/EplcNhSU0AAX45z.jpg" ]
+  }
+}
