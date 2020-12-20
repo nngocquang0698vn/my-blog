@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scott_kerr/status/1340399932893782019" ],
     "name" : [ "Like of @scott_kerr's tweet" ],
     "published" : [ "2020-12-20T14:55:00+0000" ],
     "like-of" : [ "https://twitter.com/scott_kerr/status/1340399932893782019" ]
