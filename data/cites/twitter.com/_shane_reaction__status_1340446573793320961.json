@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340446573793320961" ],
+    "url" : [ "https://twitter.com/shane_reaction_/status/1340446573793320961" ],
+    "published" : [ "2020-12-19T23:59:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shane_reaction_" ],
+        "numeric-id" : [ "1143957259501940736" ],
+        "name" : [ "shane reaction ☘️" ],
+        "nickname" : [ "shane_reaction_" ],
+        "url" : [ "https://twitter.com/shane_reaction_" ],
+        "published" : [ "2019-06-26T19:00:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Northern Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1259329933165367296/KTUxwmYE.jpg" ]
+      }
+    } ],
+    "content" : [ "Tier 5 is Davina McCall standing outside your house and telling you it's time to nominate someone to leave your bubble." ]
+  }
+}
