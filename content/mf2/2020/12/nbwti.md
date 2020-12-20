@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gsuberland/status/1340733280648355841" ],
     "name" : [ "Like of @gsuberland's tweet" ],
     "published" : [ "2020-12-20T19:45:00+0000" ],
     "like-of" : [ "https://twitter.com/gsuberland/status/1340733280648355841" ]
