@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340393967289036800" ],
+    "url" : [ "https://twitter.com/HattiRex/status/1340393967289036800" ],
+    "published" : [ "2020-12-19T20:29:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HattiRex" ],
+        "numeric-id" : [ "15767387" ],
+        "name" : [ "ratti hex" ],
+        "nickname" : [ "HattiRex" ],
+        "url" : [ "https://twitter.com/HattiRex", "https://www.hattirex.com/" ],
+        "published" : [ "2008-08-07T18:36:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310924909246377991/bf98SIqu.jpg" ]
+      }
+    } ],
+    "content" : [ "I’ve been to the Tier 3000, not much has changed but we live underwater" ]
+  }
+}
