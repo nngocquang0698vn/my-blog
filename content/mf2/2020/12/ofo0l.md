@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HattiRex/status/1340393967289036800" ],
     "name" : [ "Like of @HattiRex's tweet" ],
     "published" : [ "2020-12-20T09:33:00+0000" ],
     "category" : [ "coronavirus", "2020" ],
