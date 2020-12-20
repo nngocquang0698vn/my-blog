@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340627596044881920" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1340627596044881920" ],
+    "published" : [ "2020-12-20T11:58:21+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/weiran/status/1340270897115131906" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Christmas Carol 🎄" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336683234504155137/GN5t8jE3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just don’t look at it very much and hold out for the refresh 😂\n\nHow long is the refresh cycle? I must be due one soon 🤔",
+      "html" : "<div style=\"white-space: pre\">Just don’t look at it very much and hold out for the refresh 😂\n\nHow long is the refresh cycle? I must be due one soon 🤔</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/weiran\"></a>"
+    } ]
+  }
+}
