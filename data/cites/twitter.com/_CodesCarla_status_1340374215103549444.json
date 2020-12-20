@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340374215103549444" ],
+    "url" : [ "https://twitter.com/CodesCarla/status/1340374215103549444" ],
+    "published" : [ "2020-12-19T19:11:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CodesCarla" ],
+        "numeric-id" : [ "1263631110581432320" ],
+        "name" : [ "Carla Notarobot 🤖👩🏻‍💻" ],
+        "nickname" : [ "CodesCarla" ],
+        "url" : [ "https://twitter.com/CodesCarla", "https://www.youtube.com/channel/UCnyWSONkScKMxut5g8iGi0A/" ],
+        "published" : [ "2020-05-22T00:41:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1263631273823801344/0h2zbegC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "To get a software developer's attention, say:\n\n\"There's got to be a better way to do this\"",
+      "html" : "<div style=\"white-space: pre\">To get a software developer's attention, say:\n\n\"There's got to be a better way to do this\"</div>"
+    } ]
+  }
+}
