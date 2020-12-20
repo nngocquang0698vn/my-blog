@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1340775417591050242" ],
     "photo" : [ {
       "alt" : "A parcel lying on top of a black cat, stretched out on a red blanket, addressed to Jamie, with the writing \"One of these is like The Expanse (But no longer being made for Amazon Prime) and the other is about Independent tech. Merry Christmas!\" with Jamie's finger resting over the Secret Santa's name",
       "photo" : "https://media.jvt.me/d401320bc6.jpeg"
