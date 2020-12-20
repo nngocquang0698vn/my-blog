@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shane_reaction_/status/1340446573793320961" ],
     "name" : [ "Like of @shane_reaction_'s tweet" ],
     "published" : [ "2020-12-20T18:51:00+0000" ],
     "category" : [ "politics", "coronavirus", "2020" ],
