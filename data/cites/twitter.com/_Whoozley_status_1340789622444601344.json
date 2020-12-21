@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340789622444601344" ],
+    "url" : [ "https://twitter.com/Whoozley/status/1340789622444601344" ],
+    "published" : [ "2020-12-20T22:42:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Whoozley" ],
+        "numeric-id" : [ "48705816" ],
+        "name" : [ "Lucy Wainwright" ],
+        "nickname" : [ "Whoozley" ],
+        "url" : [ "https://twitter.com/Whoozley" ],
+        "published" : [ "2009-06-19T13:32:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, Europe" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1265582197190377472/ZQ02IIcZ.jpg" ]
+      }
+    } ],
+    "content" : [ "I mean, objectively having the door slammed in our faces ten days before we were supposed to do our big “fuck you” flounce after five years of being utter dicks to everyone is hilarious, I just wish I didn’t live here." ]
+  }
+}
