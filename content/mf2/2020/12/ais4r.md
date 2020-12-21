@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pascaldoesgo/status/1341102543011786759" ],
     "name" : [ "Like of @pascaldoesgo's tweet" ],
     "published" : [ "2020-12-21T20:57:00+0000" ],
     "category" : [ "remote-work" ],
