@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341073327209766914" ],
+    "url" : [ "https://twitter.com/SBinLondon/status/1341073327209766914" ],
+    "published" : [ "2020-12-21T17:29:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SBinLondon" ],
+        "numeric-id" : [ "180283911" ],
+        "name" : [ "Kate is cake. Always has been." ],
+        "nickname" : [ "SBinLondon" ],
+        "url" : [ "https://twitter.com/SBinLondon", "http://katebeard.co" ],
+        "published" : [ "2010-08-19T07:16:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Where the good coffee is" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1222510978732036102/Dx46JyVK.jpg" ]
+      }
+    } ],
+    "content" : [ "Wow they’re really pulling out all the stops building up to the season finale of the UK. What could they possibly be saving for the last episode? 🥴" ]
+  }
+}
