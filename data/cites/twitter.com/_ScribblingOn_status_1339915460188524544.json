@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1339915460188524544" ],
+    "url" : [ "https://twitter.com/ScribblingOn/status/1339915460188524544" ],
+    "published" : [ "2020-12-18T12:48:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ScribblingOn" ],
+        "numeric-id" : [ "291009942" ],
+        "name" : [ "Shubheksha ✨" ],
+        "nickname" : [ "ScribblingOn" ],
+        "url" : [ "https://twitter.com/ScribblingOn", "https://www.shubheksha.com" ],
+        "published" : [ "2011-05-01T10:03:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "A bubble in England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1131333207780220928/Hpejkti5.jpg" ]
+      }
+    } ],
+    "content" : [ "Some of y’all know how badly I’ve been waiting for this. My joy knows no bounds. I’m gonna wash ALL my dishes over the holidays." ],
+    "photo" : [ "https://pbs.twimg.com/media/EphWARGXUAE7qMv.jpg" ]
+  }
+}
