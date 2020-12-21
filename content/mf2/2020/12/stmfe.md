@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ScribblingOn/status/1339915460188524544" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1340967148366295041" ],
     "name" : [ "Reply to https://twitter.com/ScribblingOn/status/1339915460188524544" ],
     "published" : [ "2020-12-21T10:22:00+0000" ],
     "content" : [ {
