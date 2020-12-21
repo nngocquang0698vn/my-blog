@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341102543011786759" ],
+    "url" : [ "https://twitter.com/pascaldoesgo/status/1341102543011786759" ],
+    "published" : [ "2020-12-21T19:25:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1341101770844622848" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pascaldoesgo" ],
+        "numeric-id" : [ "1003529600901767168" ],
+        "name" : [ "Pascal Dennerly" ],
+        "nickname" : [ "pascaldoesgo" ],
+        "url" : [ "https://twitter.com/pascaldoesgo", "http://github.com/dnnrly" ],
+        "published" : [ "2018-06-04T06:51:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199757075561222147/eYBkMUrZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'll be honest, it was a relief to be using a laptop for anything other than Zoom!",
+      "html" : "I'll be honest, it was a relief to be using a laptop for anything other than Zoom!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolSaysThings\"></a>"
+    } ]
+  }
+}
