@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seldo/status/1341045655435767808" ],
     "name" : [ "Like of @seldo's tweet" ],
     "published" : [ "2020-12-21T22:03:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
