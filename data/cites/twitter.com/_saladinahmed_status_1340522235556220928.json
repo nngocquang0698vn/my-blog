@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340522235556220928" ],
+    "url" : [ "https://twitter.com/saladinahmed/status/1340522235556220928" ],
+    "published" : [ "2020-12-20T04:59:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:saladinahmed" ],
+        "numeric-id" : [ "29995782" ],
+        "name" : [ "Saladin Ahmed" ],
+        "nickname" : [ "saladinahmed" ],
+        "url" : [ "https://twitter.com/saladinahmed", "http://patreon.com/saladinahmed" ],
+        "published" : [ "2009-04-09T14:39:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "near Detroit" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1226684195298299906/je57tCGU.jpg" ]
+      }
+    } ],
+    "content" : [ "*something* was out there imitating santa claus in early 20th century america and I just want to know how many children it ate" ],
+    "photo" : [ "https://pbs.twimg.com/media/Epp93jYXIAAQ7NY.jpg", "https://pbs.twimg.com/media/Epp93jYXYAEdnd0.jpg", "https://pbs.twimg.com/media/Epp93jaW4AAljHO.jpg" ]
+  }
+}
