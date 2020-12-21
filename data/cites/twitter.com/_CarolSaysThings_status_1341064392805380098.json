@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341064392805380098" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1341064392805380098" ],
+    "published" : [ "2020-12-21T16:54:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Christmas Carol 🎄" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336683234504155137/GN5t8jE3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "1) started making it\n2) had a breakdown\n3) bon appetite ✨",
+      "html" : "<div style=\"white-space: pre\">1) started making it\n2) had a breakdown\n3) bon appetite ✨</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1340713747870928899" ],
+      "url" : [ "https://twitter.com/adamjk/status/1340713747870928899" ],
+      "published" : [ "2020-12-20T17:40:41+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:adamjk" ],
+          "numeric-id" : [ "8270702" ],
+          "name" : [ "Adam J. Kurtz" ],
+          "nickname" : [ "adamjk" ],
+          "url" : [ "https://twitter.com/adamjk", "http://shop.adamjk.com" ],
+          "published" : [ "2007-08-18T19:18:35+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Honolulu, HI" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290089078315192320/L5T3mR7p.jpg" ]
+        }
+      } ],
+      "content" : [ "quote this tweet with your top 3 personal accomplishments of 2020 ✨" ]
+    }
+  } ]
+}
