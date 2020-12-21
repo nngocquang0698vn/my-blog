@@ -1,0 +1,68 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341128123836891136" ],
+    "url" : [ "https://twitter.com/shanselman/status/1341128123836891136" ],
+    "published" : [ "2020-12-21T21:07:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com", "http://youtube.com/shanselman" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I mean, um, @twitter, you could just quote retweet it and link to the original tweet...you did design the feature.",
+      "html" : "I mean, um, <a href=\"https://twitter.com/Twitter\">@twitter</a>, you could just quote retweet it and link to the original tweet...you did design the feature."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1341069705889673217" ],
+      "url" : [ "https://twitter.com/Twitter/status/1341069705889673217" ],
+      "published" : [ "2020-12-21T17:15:08+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Twitter" ],
+          "numeric-id" : [ "783214" ],
+          "name" : [ "Twitter" ],
+          "nickname" : [ "Twitter" ],
+          "url" : [ "https://twitter.com/Twitter", "https://about.twitter.com/" ],
+          "published" : [ "2007-02-20T14:35:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "everywhere" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1308010958862905345/-SGZioPb.jpg" ]
+        }
+      } ],
+      "location" : [ {
+        "type" : [ "h-card", "p-location" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:01a9a39529b27f36" ],
+          "name" : [ "Manhattan, NY" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "🗣 @dionnewarwick",
+        "html" : "🗣 <a href=\"https://twitter.com/dionnewarwick\">@dionnewarwick</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EpxvycWWwAEXMPM.jpg" ]
+    }
+  } ]
+}
