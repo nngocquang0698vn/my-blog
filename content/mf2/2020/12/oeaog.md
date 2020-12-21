@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HistoryMuppet/status/1340733079657324545" ],
     "name" : [ "Like of @HistoryMuppet's tweet" ],
     "published" : [ "2020-12-21T07:56:00+0000" ],
     "category" : [ "cute" ],
