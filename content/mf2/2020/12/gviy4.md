@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/saladinahmed/status/1340522235556220928" ],
     "name" : [ "Like of @saladinahmed's tweet" ],
     "published" : [ "2020-12-21T15:42:00+0000" ],
     "category" : [ "christmas" ],
