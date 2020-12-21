@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bodil/status/1340647177031434241" ],
     "name" : [ "Like of @bodil's tweet" ],
     "published" : [ "2020-12-21T07:54:00+0000" ],
     "category" : [ "food" ],
