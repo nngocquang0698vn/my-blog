@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZoologyGal/status/1340458758523277312" ],
     "name" : [ "Like of @ZoologyGal's tweet" ],
     "published" : [ "2020-12-21T14:38:00+0000" ],
     "like-of" : [ "https://twitter.com/ZoologyGal/status/1340458758523277312" ]
