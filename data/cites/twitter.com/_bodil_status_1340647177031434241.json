@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340647177031434241" ],
+    "url" : [ "https://twitter.com/bodil/status/1340647177031434241" ],
+    "published" : [ "2020-12-20T13:16:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bodil" ],
+        "numeric-id" : [ "12503922" ],
+        "name" : [ "Bodil Stokke, Esq." ],
+        "nickname" : [ "bodil" ],
+        "url" : [ "https://twitter.com/bodil", "http://bodil.horse", "https://instagram.com/bodil_food" ],
+        "published" : [ "2008-01-21T18:41:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Isle of Riot Dogs" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/822237659959595009/Sq0iDXdj.jpg" ]
+      }
+    } ],
+    "content" : [ "Good No Deal Sunday morning to you all, I'm celebrating with the last sirloin I'm likely to see for a few months." ],
+    "photo" : [ "https://pbs.twimg.com/media/EprvgFmWMAMz_ut.jpg" ]
+  }
+}
