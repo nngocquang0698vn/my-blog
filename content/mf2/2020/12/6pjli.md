@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FeliciaAyensua/status/1242018357311934465" ],
     "name" : [ "Like of @FeliciaAyensua's tweet" ],
     "published" : [ "2020-12-22T14:50:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
