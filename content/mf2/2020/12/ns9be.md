@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/heyJTK/status/1341145285351927808" ],
     "name" : [ "Like of @heyJTK's tweet" ],
     "published" : [ "2020-12-22T12:29:00+0000" ],
     "like-of" : [ "https://twitter.com/heyJTK/status/1341145285351927808" ]
