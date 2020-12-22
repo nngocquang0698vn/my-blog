@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341166943760494592" ],
+    "url" : [ "https://twitter.com/lauracharvey/status/1341166943760494592" ],
+    "published" : [ "2020-12-21T23:41:31+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/eddiejaoude/status/1341166100378214406" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lauracharvey" ],
+        "numeric-id" : [ "1265984834037571584" ],
+        "name" : [ "Laura Harvey 🧜‍♀️💻" ],
+        "nickname" : [ "lauracharvey" ],
+        "url" : [ "https://twitter.com/lauracharvey", "http://www.lauracharvey.dev" ],
+        "published" : [ "2020-05-28T12:34:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Maidstone, South East" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339909309153636353/BgImwt-m.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "So any project on GitHub not marked as private is considered open source (genuine question)? I guess I just never expected to see a PR on someone’s portfolio, not usually considered a collaborative project I would assume.",
+      "html" : "So any project on GitHub not marked as private is considered open source (genuine question)? I guess I just never expected to see a PR on someone’s portfolio, not usually considered a collaborative project I would assume.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/eddiejaoude\"></a>"
+    } ]
+  }
+}
