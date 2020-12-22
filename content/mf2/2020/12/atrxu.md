@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/eddiejaoude/status/1341379998700212228" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341392638608596993" ],
     "name" : [ "Reply to https://twitter.com/eddiejaoude/status/1341379998700212228" ],
     "published" : [ "2020-12-22T14:32:00+0000" ],
     "content" : [ {
