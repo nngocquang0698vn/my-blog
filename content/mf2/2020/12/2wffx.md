@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341403182761725952" ],
     "photo" : [ {
       "alt" : "A box of Tetley English Breakfast tea, a carton of 200 Degrees Brazillian Love Affair coffee, a card from Capital One, a cone titled reindeer food and a warning that it isn't for human consumption, a cone of sweets, a jar of winter chutney, a jar of festive picallili, and a mulled wine kit with instructions for alcoholic and non-alcoholic variants",
       "photo" : "https://media.jvt.me/ae4c560f4c.jpeg"
