@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/StevenPears/status/1341481925870039042" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341506329953906689" ],
     "name" : [ "Reply to https://twitter.com/StevenPears/status/1341481925870039042" ],
     "published" : [ "2020-12-22T22:05:00+0000" ],
     "content" : [ {
