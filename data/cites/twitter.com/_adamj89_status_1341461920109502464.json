@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341461920109502464" ],
+    "url" : [ "https://twitter.com/adamj89/status/1341461920109502464" ],
+    "published" : [ "2020-12-22T19:13:39+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1341402040543694848" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:adamj89" ],
+        "numeric-id" : [ "20106700" ],
+        "name" : [ "Adam Jackson 🎄 #FestiveTechCalendar" ],
+        "nickname" : [ "adamj89" ],
+        "url" : [ "https://twitter.com/adamj89" ],
+        "published" : [ "2009-02-04T23:35:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berkshire, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268622218247929858/kRVvHnij.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Merry Christmas to you both. 🎄",
+      "html" : "Merry Christmas to you both. 🎄\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/anna_hax\"></a>"
+    } ]
+  }
+}
