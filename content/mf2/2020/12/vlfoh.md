@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FlyingSte/status/1341043268629499905" ],
     "name" : [ "Like of @FlyingSte's tweet" ],
     "published" : [ "2020-12-22T10:34:00+0000" ],
     "category" : [ "politics", "coronavirus", "brexshit" ],
