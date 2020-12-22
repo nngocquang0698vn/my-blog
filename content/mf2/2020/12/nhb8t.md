@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tristajaye/status/1341171373088096258" ],
     "name" : [ "Like of @tristajaye's tweet" ],
     "published" : [ "2020-12-22T10:11:00+0000" ],
     "like-of" : [ "https://twitter.com/tristajaye/status/1341171373088096258" ]
