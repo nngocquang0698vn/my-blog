@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341145285351927808" ],
+    "url" : [ "https://twitter.com/heyJTK/status/1341145285351927808" ],
+    "published" : [ "2020-12-21T22:15:27+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/lauracharvey/status/1341143892935254017" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:heyJTK" ],
+        "numeric-id" : [ "1023991506934419456" ],
+        "name" : [ "JTK" ],
+        "nickname" : [ "heyJTK" ],
+        "url" : [ "https://twitter.com/heyJTK" ],
+        "published" : [ "2018-07-30T17:59:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1308026474339987457/5B59Z31w.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "They opened it on GitHub in public. She’s done nothing wrong by including details here which would already have been public. For the original q, yeah this strikes me as rude and overreaching for a rando to open a PR",
+      "html" : "They opened it on GitHub in public. She’s done nothing wrong by including details here which would already have been public. For the original q, yeah this strikes me as rude and overreaching for a rando to open a PR\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lauracharvey\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/panafsoft\"></a>"
+    } ]
+  }
+}
