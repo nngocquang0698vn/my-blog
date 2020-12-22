@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LMAsaysno/status/1341084490316328962" ],
     "name" : [ "Like of @LMAsaysno's tweet" ],
     "published" : [ "2020-12-22T23:08:00+0000" ],
     "category" : [ "coronavirus", "2020", "christmas" ],
