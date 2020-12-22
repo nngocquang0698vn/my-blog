@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341198358216634369" ],
+    "url" : [ "https://twitter.com/medus4_cdc/status/1341198358216634369" ],
+    "published" : [ "2020-12-22T01:46:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:medus4_cdc" ],
+        "numeric-id" : [ "1314704599786442753" ],
+        "name" : [ "Katelyn Bowden" ],
+        "nickname" : [ "medus4_cdc" ],
+        "url" : [ "https://twitter.com/medus4_cdc", "https://etsy.me/3e6EeGv" ],
+        "published" : [ "2020-10-09T23:09:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Huntsville, AL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337036263417917445/3QR61cej.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Fun fact: \n*67 still works to block your number from appearing on caller ID.",
+      "html" : "<div style=\"white-space: pre\">Fun fact: \n*67 still works to block your number from appearing on caller ID.</div>"
+    } ]
+  }
+}
