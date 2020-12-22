@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1340811531433488384" ],
+    "url" : [ "https://twitter.com/nataliebrownist/status/1340811531433488384" ],
+    "published" : [ "2020-12-21T00:09:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nataliebrownist" ],
+        "numeric-id" : [ "953328278084894721" ],
+        "name" : [ "Natalie Brown" ],
+        "nickname" : [ "nataliebrownist" ],
+        "url" : [ "https://twitter.com/nataliebrownist", "https://linktr.ee/nataliebrown" ],
+        "published" : [ "2018-01-16T18:09:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "That’s the question." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336833432496836609/fMnPSZl5.jpg" ]
+      }
+    } ],
+    "content" : [ "Dissertation arrived. This is my favorite page." ],
+    "photo" : [ "https://pbs.twimg.com/media/EpuE-uJXYAEsysd.jpg" ]
+  }
+}
