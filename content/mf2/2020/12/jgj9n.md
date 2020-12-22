@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/lauracharvey/status/1341166943760494592" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341356898843549699" ],
     "name" : [ "Reply to https://twitter.com/lauracharvey/status/1341166943760494592" ],
     "published" : [ "2020-12-22T12:11:00+0000" ],
     "content" : [ {
