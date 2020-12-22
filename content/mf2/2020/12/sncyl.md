@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisnova/status/1341204647722115072" ],
     "name" : [ "Like of @krisnova's tweet" ],
     "published" : [ "2020-12-22T08:46:00+0000" ],
     "like-of" : [ "https://twitter.com/krisnova/status/1341204647722115072" ]
