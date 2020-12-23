@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341511244860305422" ],
+    "url" : [ "https://twitter.com/_rsc/status/1341511244860305422" ],
+    "published" : [ "2020-12-22T22:29:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_rsc" ],
+        "numeric-id" : [ "22455722" ],
+        "name" : [ "Russ Cox" ],
+        "nickname" : [ "_rsc" ],
+        "url" : [ "https://twitter.com/_rsc", "http://swtch.com/~rsc/" ],
+        "published" : [ "2009-03-02T05:34:12+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137178645880037377/aeaRCnJV.png" ]
+      }
+    } ],
+    "content" : [ "If you ever see a blog post that claims Git makes perfect sense once you learn <FACT>, the author is lying." ]
+  }
+}
