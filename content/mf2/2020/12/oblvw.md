@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sonniesedge/status/1341832209188196353" ],
     "name" : [ "Like of @sonniesedge's tweet" ],
     "published" : [ "2020-12-23T20:16:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
