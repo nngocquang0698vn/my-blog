@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341867210919337984" ],
+    "url" : [ "https://twitter.com/matthewherod/status/1341867210919337984" ],
+    "published" : [ "2020-12-23T22:04:08+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1341865839092482049" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matthewherod" ],
+        "numeric-id" : [ "20391181" ],
+        "name" : [ "Matt 😼" ],
+        "nickname" : [ "matthewherod" ],
+        "url" : [ "https://twitter.com/matthewherod", "https://github.com/mherod" ],
+        "published" : [ "2009-02-08T20:43:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1211389975469670400/rpSo4oVs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "that's interesting, i didn't realise that tbh. I'll sort that out! the whole LICENSE(.md) still seems like quite a technical or flimsy system. if commit a license tomorrow does it apply to todays commits?",
+      "html" : "that's interesting, i didn't realise that tbh. I'll sort that out! the whole LICENSE(.md) still seems like quite a technical or flimsy system. if commit a license tomorrow does it apply to todays commits?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
