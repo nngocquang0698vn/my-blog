@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341771659230015489" ],
+    "url" : [ "https://twitter.com/Morg007/status/1341771659230015489" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Ep7uNXDXUAM5Etu.mp4" ],
+    "published" : [ "2020-12-23T15:44:27+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JimMFelton/status/1341771078268497924" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Morg007" ],
+        "numeric-id" : [ "93828829" ],
+        "name" : [ "John Morgan" ],
+        "nickname" : [ "Morg007" ],
+        "url" : [ "https://twitter.com/Morg007", "https://morgrunner.wordpress.com/" ],
+        "published" : [ "2009-12-01T09:56:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "South Derbyshire, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1280505777220980740/ZRs729me.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Boris Johnson at one of his press conferences.",
+      "html" : "Boris Johnson at one of his press conferences.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JimMFelton\"></a>"
+    } ]
+  }
+}
