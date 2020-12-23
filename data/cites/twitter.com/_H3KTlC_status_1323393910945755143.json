@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1323393910945755143" ],
+    "url" : [ "https://twitter.com/H3KTlC/status/1323393910945755143" ],
+    "published" : [ "2020-11-02T22:37:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:H3KTlC" ],
+        "numeric-id" : [ "1135316861317451776" ],
+        "name" : [ "𝗛𝟯𝗞𝗧l𝗖" ],
+        "nickname" : [ "H3KTlC" ],
+        "url" : [ "https://twitter.com/H3KTlC", "http://Twitch.tv/H3KTLC" ],
+        "published" : [ "2019-06-02T22:46:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254419557365755905/W7q9AmEu.jpg" ]
+      }
+    } ],
+    "content" : [ "Haven’t gotten a single thing done today" ],
+    "photo" : [ "https://pbs.twimg.com/media/El2jvuIXIAIHdIX.jpg" ]
+  }
+}
