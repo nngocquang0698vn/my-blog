@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Morg007/status/1341771659230015489" ],
     "name" : [ "Like of @Morg007's tweet" ],
     "published" : [ "2020-12-23T17:26:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
