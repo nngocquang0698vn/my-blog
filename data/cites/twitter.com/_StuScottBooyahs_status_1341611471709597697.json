@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341611471709597697" ],
+    "url" : [ "https://twitter.com/StuScottBooyahs/status/1341611471709597697" ],
+    "published" : [ "2020-12-23T05:07:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/PostinMonkey/status/1341606913566371841" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StuScottBooyahs" ],
+        "numeric-id" : [ "2830515001" ],
+        "name" : [ "SSB" ],
+        "nickname" : [ "StuScottBooyahs" ],
+        "url" : [ "https://twitter.com/StuScottBooyahs" ],
+        "published" : [ "2014-09-24T20:54:23+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300963877581189127/3zgiNkjC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "PLEASE let this be a normal field trip",
+      "html" : "PLEASE let this be a normal field trip\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PostinMonkey\"></a>"
+    } ]
+  }
+}
