@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341142166396166145" ],
+    "url" : [ "https://twitter.com/livtambo/status/1341142166396166145" ],
+    "published" : [ "2020-12-21T22:03:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:livtambo" ],
+        "numeric-id" : [ "760950977964933120" ],
+        "name" : [ "Liv" ],
+        "nickname" : [ "livtambo" ],
+        "url" : [ "https://twitter.com/livtambo", "http://instagram.com/livtambl1ngson/" ],
+        "published" : [ "2016-08-03T21:30:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341433909788196864/byci8BSI.jpg" ]
+      }
+    } ],
+    "content" : [ "If you’ve ever been here, don’t worry about what’s in the vaccine" ],
+    "photo" : [ "https://pbs.twimg.com/media/EpyxsOXXYAUHY6V.jpg" ]
+  }
+}
