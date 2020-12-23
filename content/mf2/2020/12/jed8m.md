@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BigIndianGyasi/status/1341786682413105152" ],
     "name" : [ "Like of @BigIndianGyasi's tweet" ],
     "published" : [ "2020-12-23T22:43:00+0000" ],
     "category" : [ "2020" ],
