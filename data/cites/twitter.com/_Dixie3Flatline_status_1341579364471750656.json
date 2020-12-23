@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341579364471750656" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1341579364471750656" ],
+    "published" : [ "2020-12-23T03:00:20+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1341578866368815105" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove, Allegedly" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340344643402096642/w8LhBIqk.jpg" ]
+      }
+    } ],
+    "content" : [ "I am wicked lazy but I like pretty things. Convince me not to just throw some flask on heroku" ]
+  }
+}
