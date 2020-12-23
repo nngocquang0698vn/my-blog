@@ -21,7 +21,7 @@ syndication:
 - text: /r/coding
   url: https://www.reddit.com/r/coding/comments/ikldsl/why_i_actively_discourage_online_tooling_like/
 ---
-Something my colleagues know well is how little I trust online tools like [jwt.io](https://jwt.io), online JSON validators or online tooling in general, but it also bleeds into [comments I make online](/mf2/2020/08/zebqf/) and in my blog posts, too, and I thought I'd share a little bit of a reason as to why.
+Something my colleagues know well is how little I trust online tools like [jwt.io](https://jwt.io), [token.dev](https://token.dev) online JSON validators or online tooling in general, but it also bleeds into [comments I make online](/mf2/2020/08/zebqf/) and in my blog posts, too, and I thought I'd share a little bit of a reason as to why.
 
 Instead of using an online service, I will reach for a way to run it locally, using whichever programming language toolchain I have available. But why? Why wouldn't I recommend something like jwt.io? Or an online JSON validator, especially if they boast client-side functionality, and mean I don't need things installed?
 
