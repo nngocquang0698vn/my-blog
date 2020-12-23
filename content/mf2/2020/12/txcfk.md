@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341877977689313281" ],
     "photo" : [ {
       "alt" : "Jamie looking at Morph, a black cat, beaming, with his paw on Jamie's nose, and looking back at the camera with an expression that says \"I'm so tired of this shit\"",
       "photo" : "https://media.jvt.me/d5081ad599.jpeg"
