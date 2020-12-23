@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_rsc/status/1341511244860305422" ],
     "name" : [ "Like of @_rsc's tweet" ],
     "published" : [ "2020-12-23T09:50:00+0000" ],
     "category" : [ "git" ],
