@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisIsJoFrank/status/1341479087584501762" ],
     "name" : [ "Like of @ThisIsJoFrank's tweet" ],
     "published" : [ "2020-12-23T12:46:00+0000" ],
     "category" : [ "guys" ],
