@@ -12,7 +12,7 @@
     "category" : [ "christmas" ],
     "content" : [ {
       "html" : "",
-      "value" : "Well @anna_hax and I have started our <a href=\"/tags/christmas/\">#Christmas</a> break off pretty well, I'd say 🥂"
+      "value" : "Well @annadodson.co.uk and I have started our <a href=\"/tags/christmas/\">#Christmas</a> break off pretty well, I'd say 🥂"
     } ]
   },
   "kind" : "photos",
