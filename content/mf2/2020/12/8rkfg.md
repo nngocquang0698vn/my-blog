@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/matthewherod/status/1341859685692006400" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341865839092482049" ],
     "name" : [ "Reply to https://twitter.com/matthewherod/status/1341859685692006400" ],
     "published" : [ "2020-12-23T21:54:00+0000" ],
     "content" : [ {
