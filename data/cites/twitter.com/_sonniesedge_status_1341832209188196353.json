@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341832209188196353" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1341832209188196353" ],
+    "published" : [ "2020-12-23T19:45:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333081192183320576/sxaiI-kC.jpg" ]
+      }
+    } ],
+    "content" : [ "Remember the UK government saying things would be back to normal by Christmas 2020?" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1341781404271726592" ],
+      "url" : [ "https://twitter.com/Telegraph/status/1341781404271726592" ],
+      "published" : [ "2020-12-23T16:23:10+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/Telegraph/status/1341769631875346433" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Telegraph" ],
+          "numeric-id" : [ "16343974" ],
+          "name" : [ "The Telegraph" ],
+          "nickname" : [ "Telegraph" ],
+          "url" : [ "https://twitter.com/Telegraph", "http://www.telegraph.co.uk/?WT.mc_id=tw", "https://www.telegraph.co.uk/customer/subscribe/?icid=conversion-subscription_Hous" ],
+          "published" : [ "2008-09-18T06:50:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ.jpg" ]
+        }
+      } ],
+      "content" : [ "Mr Hancock says, he is \"highly confident that we'll get things back to normal before 2022\"" ]
+    }
+  } ]
+}
