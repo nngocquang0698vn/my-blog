@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1341579364471750656" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1341683978613514242" ],
     "name" : [ "Reply to https://twitter.com/Dixie3Flatline/status/1341579364471750656" ],
     "published" : [ "2020-12-23T09:45:00+0000" ],
     "category" : [ "hugo", "netlify" ],
