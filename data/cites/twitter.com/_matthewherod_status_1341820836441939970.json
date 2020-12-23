@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341820836441939970" ],
+    "url" : [ "https://twitter.com/matthewherod/status/1341820836441939970" ],
+    "published" : [ "2020-12-23T18:59:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matthewherod" ],
+        "numeric-id" : [ "20391181" ],
+        "name" : [ "Matt 😼" ],
+        "nickname" : [ "matthewherod" ],
+        "url" : [ "https://twitter.com/matthewherod", "https://github.com/mherod" ],
+        "published" : [ "2009-02-08T20:43:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1211389975469670400/rpSo4oVs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "started a simple low opinion kotlin/native project for a jira cli earlier if anybody want to help github.com/mherod/jiracli",
+      "html" : "started a simple low opinion kotlin/native project for a jira cli earlier if anybody want to help <a href=\"https://github.com/mherod/jiracli\">github.com/mherod/jiracli</a>"
+    } ]
+  }
+}
