@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StuScottBooyahs/status/1341611471709597697" ],
     "name" : [ "Like of @StuScottBooyahs's tweet" ],
     "published" : [ "2020-12-23T09:51:00+0000" ],
     "like-of" : [ "https://twitter.com/StuScottBooyahs/status/1341611471709597697" ]
