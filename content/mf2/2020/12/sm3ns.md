@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/H3KTlC/status/1323393910945755143" ],
     "name" : [ "Like of @H3KTlC's tweet" ],
     "published" : [ "2020-12-23T11:51:00+0000" ],
     "category" : [ "cute" ],
