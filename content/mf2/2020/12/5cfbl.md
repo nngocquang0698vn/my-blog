@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimMFelton/status/1341838123362365440" ],
     "name" : [ "Like of @JimMFelton's tweet" ],
     "published" : [ "2020-12-24T00:06:00+0000" ],
     "category" : [ "brexshit" ],
