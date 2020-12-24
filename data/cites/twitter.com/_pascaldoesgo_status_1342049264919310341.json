@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342049264919310341" ],
+    "url" : [ "https://twitter.com/pascaldoesgo/status/1342049264919310341" ],
+    "published" : [ "2020-12-24T10:07:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pascaldoesgo" ],
+        "numeric-id" : [ "1003529600901767168" ],
+        "name" : [ "Pascal Dennerly" ],
+        "nickname" : [ "pascaldoesgo" ],
+        "url" : [ "https://twitter.com/pascaldoesgo", "http://github.com/dnnrly" ],
+        "published" : [ "2018-06-04T06:51:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199757075561222147/eYBkMUrZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Why couldn't the puppy do his business on the lawn? Why did he need to go for a walk up the road to do it?\n\nIN THE PISSING RAIN, AT 5 BLOODY 30 IN THE MORNING!!!",
+      "html" : "<div style=\"white-space: pre\">Why couldn't the puppy do his business on the lawn? Why did he need to go for a walk up the road to do it?\n\nIN THE PISSING RAIN, AT 5 BLOODY 30 IN THE MORNING!!!</div>"
+    } ]
+  }
+}
