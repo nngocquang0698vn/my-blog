@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swyx/status/1342149730453733376" ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2020-12-24T23:47:00+0000" ],
     "category" : [ "battlestations" ],
