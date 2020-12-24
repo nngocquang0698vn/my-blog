@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341954660475625472" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1341954660475625472" ],
+    "published" : [ "2020-12-24T03:51:38+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/kwuchu/status/1341942199995543554" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "did anyone say farts yet",
+      "html" : "did anyone say farts yet\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kwuchu\"></a>"
+    } ]
+  }
+}
