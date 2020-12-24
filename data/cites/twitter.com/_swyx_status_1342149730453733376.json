@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342149730453733376" ],
+    "url" : [ "https://twitter.com/swyx/status/1342149730453733376" ],
+    "published" : [ "2020-12-24T16:46:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "name" : [ "shawn swyx wang" ],
+        "nickname" : [ "swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Singapore 🇸🇬 " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336445471359823872/vgcUXO4W.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🎁 Got serious about home office! \n\nCost of upgrade: ~$900\n\nHow it started                 How it's going",
+      "html" : "<div style=\"white-space: pre\">🎁 Got serious about home office! \n\nCost of upgrade: ~$900\n\nHow it started                 How it's going</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EqBGD8EVoAAe1mq.jpg", "https://pbs.twimg.com/media/EqBGD8EUYAEac24.jpg" ]
+  }
+}
