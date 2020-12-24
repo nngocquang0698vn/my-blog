@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342134144139108352" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1342134144139108352" ],
+    "published" : [ "2020-12-24T15:44:50+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/HTTP_Lovecraft/status/1342133945002045440" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove, Allegedly" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340344643402096642/w8LhBIqk.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If I had, I wouldn't betray their confidence. Bigfoot just wants to be left alone and I respect that.",
+      "html" : "If I had, I wouldn't betray their confidence. Bigfoot just wants to be left alone and I respect that.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HTTP_Lovecraft\"></a>"
+    } ]
+  }
+}
