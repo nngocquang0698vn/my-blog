@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1342134144139108352" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2020-12-24T17:47:00+0000" ],
     "like-of" : [ "https://twitter.com/Dixie3Flatline/status/1342134144139108352" ]
