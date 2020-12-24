@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PigeonJon/status/1342056651663224835" ],
     "name" : [ "Like of @PigeonJon's tweet" ],
     "published" : [ "2020-12-24T13:49:00+0000" ],
     "like-of" : [ "https://twitter.com/PigeonJon/status/1342056651663224835" ]
