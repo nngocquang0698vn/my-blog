@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PeteMC666/status/1341875307993808896" ],
     "name" : [ "Like of @PeteMC666's tweet" ],
     "published" : [ "2020-12-24T23:59:00+0000" ],
     "category" : [ "star-wars", "the-mandalorian" ],
