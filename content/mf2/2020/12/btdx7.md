@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jensimmons/status/1342506372689223681" ],
     "name" : [ "Like of @jensimmons's tweet" ],
     "published" : [ "2020-12-25T19:13:00+0000" ],
     "category" : [ "coronavirus", "christmas" ],
