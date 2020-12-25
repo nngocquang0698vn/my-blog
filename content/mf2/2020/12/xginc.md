@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sp4ghettiCode/status/1342390614931943424" ],
     "name" : [ "Like of @Sp4ghettiCode's tweet" ],
     "published" : [ "2020-12-25T10:25:00+0000" ],
     "category" : [ "christmas" ],
