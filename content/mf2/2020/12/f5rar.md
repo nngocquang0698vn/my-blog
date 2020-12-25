@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rizbizkits/status/1342272915513999360" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1342426216775745537" ],
     "name" : [ "Reply to https://twitter.com/rizbizkits/status/1342272915513999360" ],
     "published" : [ "2020-12-25T11:00:00+0000" ],
     "content" : [ {
