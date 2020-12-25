@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342401012561305601" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1342401012561305601" ],
+    "published" : [ "2020-12-25T09:25:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316425421387378689/gVCcVF10.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Read my daughter The Night Before Christmas over Alexa last night (every year so far), and watched her open her presents over WhatsApp this morning so I could stay isolated and still see how excited she was.\n\nTechnology has made me very happy today. Merry Christmas all🥰",
+      "html" : "<div style=\"white-space: pre\">Read my daughter The Night Before Christmas over Alexa last night (every year so far), and watched her open her presents over WhatsApp this morning so I could stay isolated and still see how excited she was.\n\nTechnology has made me very happy today. Merry Christmas all🥰</div>"
+    } ]
+  }
+}
