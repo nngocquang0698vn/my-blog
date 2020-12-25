@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tinymakesthings/status/1342212246710075392" ],
     "name" : [ "Like of @tinymakesthings's tweet" ],
     "published" : [ "2020-12-25T16:43:00+0000" ],
     "category" : [ "mechanical-keyboard", "pokemon" ],
