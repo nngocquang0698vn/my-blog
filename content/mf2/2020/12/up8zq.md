@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ziwe/status/1342564663276548096" ],
     "name" : [ "Like of @ziwe's tweet" ],
     "published" : [ "2020-12-25T21:44:00+0000" ],
     "category" : [ "coronavirus" ],
