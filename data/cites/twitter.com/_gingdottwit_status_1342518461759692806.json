@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342518461759692806" ],
+    "url" : [ "https://twitter.com/gingdottwit/status/1342518461759692806" ],
+    "published" : [ "2020-12-25T17:11:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gingdottwit" ],
+        "numeric-id" : [ "33474334" ],
+        "name" : [ "Max L. Wilson" ],
+        "nickname" : [ "gingdottwit" ],
+        "url" : [ "https://twitter.com/gingdottwit", "http://cs.nott.ac.uk/~pszmw" ],
+        "published" : [ "2009-04-20T10:11:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1227336158486593536/j7vBeFIa.jpg" ]
+      }
+    } ],
+    "content" : [ "Managed not to get sucked in by any marketing this Christmas 🦌" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqGVa-EXcAE3bwB.jpg" ]
+  }
+}
