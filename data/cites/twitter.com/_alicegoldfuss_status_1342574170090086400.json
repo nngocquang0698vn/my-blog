@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342574170090086400" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1342574170090086400" ],
+    "published" : [ "2020-12-25T20:53:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "name" : [ "mx claws" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/", "http://twitch.tv/bletchleypunk" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "SCROOGE: you there, boy! What day is it?\nBOY: March",
+      "html" : "<div style=\"white-space: pre\">SCROOGE: you there, boy! What day is it?\nBOY: March</div>"
+    } ]
+  }
+}
