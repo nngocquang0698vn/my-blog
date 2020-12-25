@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1342459560049700872" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-12-25T13:49:00+0000" ],
     "category" : [ "christmas" ],
