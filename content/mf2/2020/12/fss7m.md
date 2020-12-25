@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/henstepping/status/1341795246976471041" ],
     "name" : [ "Like of @henstepping's tweet" ],
     "published" : [ "2020-12-25T13:53:00+0000" ],
     "like-of" : [ "https://twitter.com/henstepping/status/1341795246976471041" ]
