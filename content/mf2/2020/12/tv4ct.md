@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Winskillfull/status/1342811909335220224" ],
     "name" : [ "Like of @Winskillfull's tweet" ],
     "published" : [ "2020-12-26T14:49:00+0000" ],
     "category" : [ "cute" ],
