@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1342349674334748672" ],
+    "url" : [ "https://twitter.com/Rodriguez/status/1342349674334748672" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1342349640528580610/pu/vid/1280x720/rK4dS7zVpkKwp0M2.mp4?tag=10" ],
+    "published" : [ "2020-12-25T06:01:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Rodriguez" ],
+        "numeric-id" : [ "37788181" ],
+        "name" : [ "Robert Rodriguez" ],
+        "nickname" : [ "Rodriguez" ],
+        "url" : [ "https://twitter.com/Rodriguez", "http://www.elreynetwork.com" ],
+        "published" : [ "2009-05-04T23:10:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Texas" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000489234571/82a78dd8973086e9633b264a30fa0ed3.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Here’s a Christmas present to all those who asked me what it’s like to hang out with Baby Yoda on the set of #TheMandalorian #TheTragedy. Check out #DisneyGallery for more behind the scenes!",
+      "html" : "Here’s a Christmas present to all those who asked me what it’s like to hang out with Baby Yoda on the set of <a href=\"https://twitter.com/search?q=%23TheMandalorian\">#TheMandalorian</a> <a href=\"https://twitter.com/search?q=%23TheTragedy\">#TheTragedy</a>. Check out <a href=\"https://twitter.com/search?q=%23DisneyGallery\">#DisneyGallery</a> for more behind the scenes!"
+    } ]
+  }
+}
