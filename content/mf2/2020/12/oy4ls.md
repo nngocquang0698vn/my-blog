@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Scientits/status/1342822891709227011" ],
     "name" : [ "Like of @Scientits's tweet" ],
     "published" : [ "2020-12-26T15:39:00+0000" ],
     "category" : [ "food" ],
