@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/phantomisles/status/1342882617159462912" ],
     "name" : [ "Like of @phantomisles's tweet" ],
     "published" : [ "2020-12-26T22:17:00+0000" ],
     "like-of" : [ "https://twitter.com/phantomisles/status/1342882617159462912" ]
