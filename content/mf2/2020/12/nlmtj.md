@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonharris_mbd/status/1343153238502219776" ],
     "name" : [ "Like of @simonharris_mbd's tweet" ],
     "published" : [ "2020-12-27T23:53:00+0000" ],
     "category" : [ "politics", "brexshit" ],
