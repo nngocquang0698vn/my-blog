@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/huynasaur/status/1342677925955477504" ],
     "name" : [ "Like of @huynasaur's tweet" ],
     "published" : [ "2020-12-27T08:47:00+0000" ],
     "category" : [ "food" ],
