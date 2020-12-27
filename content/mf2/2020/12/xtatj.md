@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarah_fong_tho/status/1342908569704775680" ],
     "name" : [ "Like of @sarah_fong_tho's tweet" ],
     "published" : [ "2020-12-27T18:59:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
