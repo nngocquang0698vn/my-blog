@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RosemaryOrchard/status/1343486176574005248" ],
     "name" : [ "Like of @RosemaryOrchard's tweet" ],
     "published" : [ "2020-12-28T13:09:00+0000" ],
     "category" : [ "christmas" ],
