@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343293761158225920" ],
+    "url" : [ "https://twitter.com/__vlqc/status/1343293761158225920" ],
+    "published" : [ "2020-12-27T20:32:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:__vlqc" ],
+        "numeric-id" : [ "13831002" ],
+        "name" : [ "vlqc, definitely a serious programming account" ],
+        "nickname" : [ "__vlqc" ],
+        "url" : [ "https://twitter.com/__vlqc" ],
+        "published" : [ "2008-02-22T18:35:52+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1282456056312954880/5iWB_Pct.jpg" ]
+      }
+    } ],
+    "content" : [ "what path in their homedir does everybody put their git repos in anyway" ]
+  }
+}
