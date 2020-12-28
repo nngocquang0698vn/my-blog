@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ULTRAGLOSS/status/1343304896221745152" ],
     "name" : [ "Like of @ULTRAGLOSS's tweet" ],
     "published" : [ "2020-12-28T11:00:00+0000" ],
     "category" : [ "2020" ],
