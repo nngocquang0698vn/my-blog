@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343649157056258056" ],
+    "url" : [ "https://twitter.com/psobot/status/1343649157056258056" ],
+    "published" : [ "2020-12-28T20:04:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:psobot" ],
+        "numeric-id" : [ "19135819" ],
+        "name" : [ "Peter Sobot" ],
+        "nickname" : [ "psobot" ],
+        "url" : [ "https://twitter.com/psobot", "https://petersobot.com" ],
+        "published" : [ "2009-01-18T04:15:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/730599502609039360/pxOi1n9x.jpg" ]
+      }
+    } ],
+    "content" : [ "when a character says the name of the movie" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqWZqxJW8AEoHnP.png" ]
+  }
+}
