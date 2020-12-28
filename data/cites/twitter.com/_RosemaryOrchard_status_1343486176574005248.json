@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343486176574005248" ],
+    "url" : [ "https://twitter.com/RosemaryOrchard/status/1343486176574005248" ],
+    "published" : [ "2020-12-28T09:17:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RosemaryOrchard" ],
+        "numeric-id" : [ "418213412" ],
+        "name" : [ "Rosemary Orchard" ],
+        "nickname" : [ "RosemaryOrchard" ],
+        "url" : [ "https://twitter.com/RosemaryOrchard", "https://rosemaryorchard.com" ],
+        "published" : [ "2011-11-21T22:10:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013779029814661122/40TrIFLY.jpg" ]
+      }
+    } ],
+    "content" : [ "It snowed! I love it." ],
+    "photo" : [ "https://pbs.twimg.com/media/EqUFjNYWMAA0Lz5.jpg" ]
+  }
+}
