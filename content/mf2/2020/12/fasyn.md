@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zenalbatross/status/1343208190750695424" ],
     "name" : [ "Like of @zenalbatross's tweet" ],
     "published" : [ "2020-12-28T16:17:00+0000" ],
     "category" : [ "politics", "2020" ],
