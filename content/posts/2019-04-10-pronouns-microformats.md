@@ -32,9 +32,11 @@ After reaching out in the IndieWeb chat around whether it'd been considered yet 
 I've followed <span class="h-card"><a class="p-name u-url" href="https://gregorlove.com/">gRegor Morrill</a></span>'s pattern and added my pronouns to my personal h-card on `https://www.jvt.me` with three forms:
 
 ```html
-<span class="p-x-pronoun-nominative">he</span>/
-<span class="p-x-pronoun-oblique">him</span>/
-<span class="p-x-pronoun-possessive">his</span>/
+<span class="p-pronoun-nominative p-x-pronoun-nominative">he</span>/
+<span class="p-pronoun-oblique p-x-pronoun-oblique">him</span>/
+<span class="p-pronoun-possessive p-x-pronoun-possessive">his</span>/
 ```
 
 Currently it's just a draft for Microformats, but in the future I hope it'll become part of the spec.
+
+Update 2020-12-28: I've dropped the `-x` from the above, as folks within the Microformats community have shared that often it takes longer to get a `-x` property widespread, and then migrated to a non `-x` property. I've added support on my site for both, but with the preference for i.e `p-pronoun-nominative`.
