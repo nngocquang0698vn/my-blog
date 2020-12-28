@@ -58,109 +58,12 @@ However, it doesn't take into account the need for the `ServletInputStream` to b
 
 # Creating our own class
 
-Following [arberg's response on _Http Servlet request lose params from POST body after read it once_](https://stackoverflow.com/a/36619972/2257038) and [Marco's response on _HttpServletRequestWrapper, example implementation for setReadListener / isFinished / isReady?_](https://stackoverflow.com/a/30748533/2257038) we can create the following:
+Following [arberg's response on _Http Servlet request lose params from POST body after read it once_](https://stackoverflow.com/a/36619972/2257038) and [Marco's response on _HttpServletRequestWrapper, example implementation for setReadListener / isFinished / isReady?_](https://stackoverflow.com/a/30748533/2257038), I've created the `MultiReadHttpServletRequest` class which is available in Maven Central:
 
-```java
-import java.io.BufferedReader;
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import javax.servlet.ReadListener;
-import javax.servlet.ServletInputStream;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletRequestWrapper;
-import org.apache.commons.io.IOUtils;
-
-/*
-via https://stackoverflow.com/a/36619972/2257038 and https://stackoverflow.com/a/30748533/2257038
-*/
-public class MultiReadHttpServletRequest extends HttpServletRequestWrapper {
-  private ByteArrayOutputStream cachedBytes;
-
-  public MultiReadHttpServletRequest(HttpServletRequest request) {
-    super(request);
-  }
-
-  @Override
-  public ServletInputStream getInputStream() throws IOException {
-    if (cachedBytes == null) cacheInputStream();
-
-    return new CachedServletInputStream(cachedBytes.toByteArray());
-  }
-
-  @Override
-  public BufferedReader getReader() throws IOException {
-    return new BufferedReader(new InputStreamReader(getInputStream()));
-  }
-
-  private void cacheInputStream() throws IOException {
-    /* Cache the inputstream in order to read it multiple times. For
-     * convenience, I use apache.commons IOUtils
-     */
-    cachedBytes = new ByteArrayOutputStream();
-    IOUtils.copy(super.getInputStream(), cachedBytes);
-  }
-
-  /* An inputstream which reads the cached request body */
-  public static class CachedServletInputStream extends ServletInputStream {
-    private final ByteArrayInputStream buffer;
-
-    public CachedServletInputStream(byte[] contents) {
-      this.buffer = new ByteArrayInputStream(contents);
-    }
-
-    @Override
-    public int read() throws IOException {
-      return buffer.read();
-    }
-
-    @Override
-    public boolean isFinished() {
-      return buffer.available() == 0;
-    }
-
-    @Override
-    public boolean isReady() {
-      return true;
-    }
-
-    @Override
-    public void setReadListener(ReadListener listener) {
-      throw new RuntimeException("Not implemented");
-    }
-  }
-}
+```xml
+  <groupId>me.jvt.multireadservlet</groupId>
+  <artifactId>multiple-read-servlet</artifactId>
+  <version>4.0.1</version> <!-- version mirrors the javax.servlet:javax.servlet-api version -->
 ```
 
-This allows us to do the following in our `Filter`:
-
-```java
-import java.io.IOException;
-import javax.servlet.Filter;
-import javax.servlet.FilterChain;
-import javax.servlet.ServletException;
-import javax.servlet.ServletRequest;
-import javax.servlet.ServletResponse;
-import javax.servlet.http.HttpServletRequest;
-import org.apache.commons.io.IOUtils;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-public class BodyReadFilter implements Filter {
-
-  private static final Logger LOGGER = LoggerFactory.getLogger(BodyReadFilter.class);
-
-  public void doFilter(
-      ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain)
-      throws IOException, ServletException {
-    MultiReadHttpServletRequest wrappedRequest =
-        new MultiReadHttpServletRequest((HttpServletRequest) servletRequest);
-    LOGGER.info(
-        "The body of the request was {}", IOUtils.toString(wrappedRequest.getInputStream()));
-    filterChain.doFilter(wrappedRequest, servletResponse);
-  }
-}
-```
-
-Make sure the `wrappedRequest` is used for all interactions, so the `ServletInputStream` can be cached.
+And can be found in <a href="https://gitlab.com/jamietanna/multiple-read-servlet/-/blob/master/src/main/java/me/jvt/multireadservlet/MultiReadHttpServletRequest.java"><code>MultiReadHttpServletRequest.java</code></a>, with example usage in <a href="https://gitlab.com/jamietanna/multiple-read-servlet/-/blob/master/src/test/java/me/jvt/multireadservlet/support/servlet/BodyReadFilter.java"><code>BodyReadFilter.java</code></a>.
