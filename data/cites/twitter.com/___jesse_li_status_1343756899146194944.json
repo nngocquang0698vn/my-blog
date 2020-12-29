@@ -1,0 +1,26 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343756899146194944" ],
+    "url" : [ "https://twitter.com/__jesse_li/status/1343756899146194944" ],
+    "published" : [ "2020-12-29T03:13:05+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/techgirl1908/status/1343753757130108929" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:__jesse_li" ],
+        "numeric-id" : [ "974349745" ],
+        "name" : [ "Jesse Li" ],
+        "nickname" : [ "__jesse_li" ],
+        "url" : [ "https://twitter.com/__jesse_li", "https://blog.jse.li/" ],
+        "published" : [ "2012-11-27T17:46:38+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/817887163228495872/74IedvfX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "479 + 583 = 1062",
+      "html" : "479 + 583 = 1062\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/techgirl1908\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EqX7vNdXEAAfDzH.jpg" ]
+  }
+}
