@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343987065906548736" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1343987065906548736" ],
+    "published" : [ "2020-12-29T18:27:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295789781834584064/5RaolPav.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EqbM5PLVEAAyD_1.jpg" ]
+  }
+}
