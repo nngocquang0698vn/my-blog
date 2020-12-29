@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343413896498053122" ],
+    "url" : [ "https://twitter.com/Kostennn/status/1343413896498053122" ],
+    "published" : [ "2020-12-28T04:30:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Kostennn" ],
+        "numeric-id" : [ "331299957" ],
+        "name" : [ "KO" ],
+        "nickname" : [ "Kostennn" ],
+        "url" : [ "https://twitter.com/Kostennn", "http://kosten.co", "http://Instagram.com/kosten" ],
+        "published" : [ "2011-07-07T23:38:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "worldwide" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/813966493465673728/AfeJENKh.jpg" ]
+      }
+    } ],
+    "content" : [ "New York, New York #2020" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqTDzWqXYAEj_j_.jpg", "https://pbs.twimg.com/media/EqTDzWrXEAQrAx1.jpg", "https://pbs.twimg.com/media/EqTDzY3XUAEgFsq.jpg", "https://pbs.twimg.com/media/EqTDzdSW8AM3C-L.jpg" ]
+  }
+}
