@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ginadivittorio/status/1344012111811399686" ],
     "name" : [ "Like of @ginadivittorio's tweet" ],
     "published" : [ "2020-12-29T20:55:00+0000" ],
     "like-of" : [ "https://twitter.com/ginadivittorio/status/1344012111811399686" ]
