@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bethcodes/status/1343730015851069440" ],
     "name" : [ "Like of @bethcodes's tweet" ],
     "published" : [ "2020-12-29T17:04:00+0000" ],
     "category" : [ "software-testing", "software-quality" ],
