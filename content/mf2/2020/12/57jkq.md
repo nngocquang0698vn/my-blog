@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/nickblack/status/1343825343325609984" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1343907575641858049" ],
     "name" : [ "Reply to https://twitter.com/nickblack/status/1343825343325609984" ],
     "published" : [ "2020-12-29T13:06:00+0000" ],
     "category" : [ "coronavirus" ],
