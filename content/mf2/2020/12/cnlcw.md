@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Kostennn/status/1343413896498053122" ],
     "name" : [ "Like of @Kostennn's tweet" ],
     "published" : [ "2020-12-29T19:22:00+0000" ],
     "category" : [ "art" ],
