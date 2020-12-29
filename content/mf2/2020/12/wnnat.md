@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/__jesse_li/status/1343756899146194944" ],
     "name" : [ "Like of @__jesse_li's tweet" ],
     "published" : [ "2020-12-29T16:11:00+0000" ],
     "like-of" : [ "https://twitter.com/__jesse_li/status/1343756899146194944" ]
