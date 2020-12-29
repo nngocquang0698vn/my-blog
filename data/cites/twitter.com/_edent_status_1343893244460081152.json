@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343893244460081152" ],
+    "url" : [ "https://twitter.com/edent/status/1343893244460081152" ],
+    "published" : [ "2020-12-29T12:14:52+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1343893089765765121" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "they are there! In the extended entities section.",
+      "html" : "they are there! In the extended entities section.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolSaysThings\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
