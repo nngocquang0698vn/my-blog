@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1343843091099344896" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2020-12-29T13:07:00+0000" ],
     "category" : [ "remote-work", "shitpost" ],
