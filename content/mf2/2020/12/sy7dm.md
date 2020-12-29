@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/isawken/status/1343590765805637632" ],
     "name" : [ "Like of @isawken's tweet" ],
     "published" : [ "2020-12-29T16:12:00+0000" ],
     "like-of" : [ "https://twitter.com/isawken/status/1343590765805637632" ]
