@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CSMFHT/status/1343786590993141760" ],
     "name" : [ "Like of @CSMFHT's tweet" ],
     "published" : [ "2020-12-29T19:13:00+0000" ],
     "like-of" : [ "https://twitter.com/CSMFHT/status/1343786590993141760" ]
