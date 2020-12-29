@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343825343325609984" ],
+    "url" : [ "https://twitter.com/nickblack/status/1343825343325609984" ],
+    "published" : [ "2020-12-29T07:45:03+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/alicegoldfuss/status/1343794868057849856" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nickblack" ],
+        "numeric-id" : [ "16080310" ],
+        "name" : [ "nick black 🇼🇸" ],
+        "nickname" : [ "nickblack" ],
+        "url" : [ "https://twitter.com/nickblack", "http://nick-black.com" ],
+        "published" : [ "2008-09-01T10:07:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "atl/nyc" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319752781310418951/UDpHv_Dt.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "they pretty much are if you're under 50. wear a mask.",
+      "html" : "they pretty much are if you're under 50. wear a mask.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alicegoldfuss\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ctrlshifti\"></a>"
+    } ]
+  }
+}
