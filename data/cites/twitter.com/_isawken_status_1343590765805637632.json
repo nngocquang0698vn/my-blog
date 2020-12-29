@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343590765805637632" ],
+    "url" : [ "https://twitter.com/isawken/status/1343590765805637632" ],
+    "published" : [ "2020-12-28T16:12:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:isawken" ],
+        "numeric-id" : [ "1961802372" ],
+        "name" : [ "ken (fool)" ],
+        "nickname" : [ "isawken" ],
+        "url" : [ "https://twitter.com/isawken", "http://neopets.com/joke" ],
+        "published" : [ "2013-10-15T03:54:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🪱" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316801169189150723/oQ6JIs7q.jpg" ]
+      }
+    } ],
+    "content" : [ "clocking in at my dumb little job and sending my stupid little emails" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqVkrhsW8AAeVcs.jpg" ]
+  }
+}
