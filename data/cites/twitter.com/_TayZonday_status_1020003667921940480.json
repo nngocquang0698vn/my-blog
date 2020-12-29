@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1020003667921940480" ],
+    "url" : [ "https://twitter.com/TayZonday/status/1020003667921940480" ],
+    "published" : [ "2018-07-19T17:53:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TayZonday" ],
+        "numeric-id" : [ "5800582" ],
+        "name" : [ "Tay Zonday" ],
+        "nickname" : [ "TayZonday" ],
+        "url" : [ "https://twitter.com/TayZonday", "http://www.tayzonday.com", "http://www.instagram.com/tayzonday" ],
+        "published" : [ "2007-05-06T04:14:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305051254075211777/HaN7XiML.jpg" ]
+      }
+    } ],
+    "content" : [ "Being poor now just leads to being more poor later. Can't pay to clean your teeth? Next year, pay for a root canal. Can't pay for a new mattress? Next year, pay for back surgery. Can't pay to get that lump checked out? Next year, pay for stage 3 cancer. Poverty charges interest." ]
+  }
+}
