@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TayZonday/status/1020003667921940480" ],
     "name" : [ "Like of @TayZonday's tweet" ],
     "published" : [ "2020-12-29T20:55:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
