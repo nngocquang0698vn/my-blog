@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343727855302135808" ],
+    "url" : [ "https://twitter.com/garybernhardt/status/1343727855302135808" ],
+    "published" : [ "2020-12-29T01:17:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:garybernhardt" ],
+        "numeric-id" : [ "809685" ],
+        "name" : [ "Gary Bernhardt" ],
+        "nickname" : [ "garybernhardt" ],
+        "url" : [ "https://twitter.com/garybernhardt", "https://www.executeprogram.com" ],
+        "published" : [ "2007-03-04T05:12:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328504683095199745/YXr3Xioa.jpg" ]
+      }
+    } ],
+    "content" : [ "someone on HN just disagreed with a blog post I wrote by citing Wat and I want to have this framed" ]
+  }
+}
