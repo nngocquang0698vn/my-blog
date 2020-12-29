@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/craniocaudal/status/1343382259458576386" ],
     "name" : [ "Like of @craniocaudal's tweet" ],
     "published" : [ "2020-12-29T22:27:00+0000" ],
     "category" : [ "coronavirus" ],
