@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1343730015851069440" ],
+    "url" : [ "https://twitter.com/bethcodes/status/1343730015851069440" ],
+    "published" : [ "2020-12-29T01:26:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bethcodes" ],
+        "numeric-id" : [ "9626112" ],
+        "name" : [ "Beth" ],
+        "nickname" : [ "bethcodes" ],
+        "url" : [ "https://twitter.com/bethcodes", "http://bethcodes.com" ],
+        "published" : [ "2007-10-23T15:55:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275273332653305857/h9AbMNPS.jpg" ]
+      }
+    } ],
+    "content" : [ "Mocking in unit tests makes the tests more stable because they don’t break when your code breaks." ]
+  }
+}
