@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/francois_bach/status/1344079626428039169" ],
     "name" : [ "Like of @francois_bach's tweet" ],
     "published" : [ "2020-12-30T16:10:00+0000" ],
     "like-of" : [ "https://twitter.com/francois_bach/status/1344079626428039169" ]
