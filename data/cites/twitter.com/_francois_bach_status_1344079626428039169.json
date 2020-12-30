@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344079626428039169" ],
+    "url" : [ "https://twitter.com/francois_bach/status/1344079626428039169" ],
+    "published" : [ "2020-12-30T00:35:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:francois_bach" ],
+        "numeric-id" : [ "17935487" ],
+        "name" : [ "Frank ☼ Bach" ],
+        "nickname" : [ "francois_bach" ],
+        "url" : [ "https://twitter.com/francois_bach", "https://francoisbach.com/ask-frank" ],
+        "published" : [ "2008-12-07T03:58:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles • Sudbury" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329213902916263936/uyjumzVm.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ],
+        "name" : [ "Los Angeles, CA" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Has anyone in tech ever written about how traumatic it is when team members leave? \n\nLike you work with someone for years, see them every day, build relationships and then oop they’re gone forever.",
+      "html" : "<div style=\"white-space: pre\">Has anyone in tech ever written about how traumatic it is when team members leave? \n\nLike you work with someone for years, see them every day, build relationships and then oop they’re gone forever.</div>"
+    } ]
+  }
+}
