@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344362113746272257" ],
+    "url" : [ "https://twitter.com/elizakoft/status/1344362113746272257" ],
+    "published" : [ "2020-12-30T19:17:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:elizakoft" ],
+        "numeric-id" : [ "316994659" ],
+        "name" : [ "el" ],
+        "nickname" : [ "elizakoft" ],
+        "url" : [ "https://twitter.com/elizakoft", "http://sometimes.do.giveaways.com" ],
+        "published" : [ "2011-06-14T08:28:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Norwich/oslo" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337852498279862273/JangIehR.jpg" ]
+      }
+    } ],
+    "content" : [ "Why do boys ask “what you wearing” as if we sit around in sexy lingerie all day? I’m in my giraffe onesie what are YOU wearing" ]
+  }
+}
