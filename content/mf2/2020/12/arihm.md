@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1344651541983207430" ],
     "photo" : [ {
       "alt" : "Black cat lying on his side, wrapped completely inside a red blanket, with only his face visible",
       "photo" : "https://media.jvt.me/481a0e8b3c.jpeg"
