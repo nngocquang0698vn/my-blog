@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344793509656743936" ],
+    "url" : [ "https://twitter.com/chris_emerson/status/1344793509656743936" ],
+    "published" : [ "2020-12-31T23:52:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chris_emerson" ],
+        "numeric-id" : [ "20874917" ],
+        "name" : [ "Chris Emerson" ],
+        "nickname" : [ "chris_emerson" ],
+        "url" : [ "https://twitter.com/chris_emerson", "http://www.cemerson.co.uk" ],
+        "published" : [ "2009-02-14T22:13:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176566131429171201/CPu0vbVR.jpg" ]
+      }
+    } ],
+    "content" : [ "I'm honestly not sure whether I can be bothered to stay up another 9 minutes" ]
+  }
+}
