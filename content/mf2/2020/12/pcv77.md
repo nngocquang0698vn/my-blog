@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sentreh/status/1344430783885266945" ],
     "name" : [ "Like of @sentreh's tweet" ],
     "published" : [ "2020-12-31T12:11:00+0000" ],
     "category" : [ "satire" ],
