@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344676912271138820" ],
+    "url" : [ "https://twitter.com/theemilyaccount/status/1344676912271138820" ],
+    "published" : [ "2020-12-31T16:08:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:theemilyaccount" ],
+        "numeric-id" : [ "1186334500625752066" ],
+        "name" : [ "emily 🎄" ],
+        "nickname" : [ "theemilyaccount" ],
+        "url" : [ "https://twitter.com/theemilyaccount" ],
+        "published" : [ "2019-10-21T17:33:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her 🏳️‍🌈" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333975576302981124/0tOFSCGY.jpg" ]
+      }
+    } ],
+    "content" : [ "for my last tweet of the year: i sent my friend a snap of my boobs bc they looked good, and she got in a car accident while looking at them (ladies,,,) HOWEVER, she was taken to the hospital after the accident and a routine scan found cancer in her thyroid" ]
+  }
+}
