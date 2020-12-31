@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344693661808947200" ],
+    "url" : [ "https://twitter.com/trisha_gee/status/1344693661808947200" ],
+    "published" : [ "2020-12-31T17:15:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:trisha_gee" ],
+        "numeric-id" : [ "14162967" ],
+        "name" : [ "Trisha Gee" ],
+        "nickname" : [ "trisha_gee" ],
+        "url" : [ "https://twitter.com/trisha_gee", "http://trishagee.com" ],
+        "published" : [ "2008-03-17T13:15:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇪🇺🇪🇸🇬🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/783972460907593730/WpIbSRP3.jpg" ]
+      }
+    } ],
+    "content" : [ "Just drafted a 5000 word \"summary\" blog post of 2020. Probably should have blogged throughout the year like I said I was going to do..." ]
+  }
+}
