@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChrisShort/status/1344640375932268544" ],
     "name" : [ "Like of @ChrisShort's tweet" ],
     "published" : [ "2020-12-31T16:48:00+0000" ],
     "category" : [ "hugo", "static-site-generator" ],
