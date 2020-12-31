@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trisha_gee/status/1344693661808947200" ],
     "name" : [ "Like of @trisha_gee's tweet" ],
     "published" : [ "2020-12-31T18:24:00+0000" ],
     "category" : [ "blogging", "2020" ],
