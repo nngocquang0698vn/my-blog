@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theemilyaccount/status/1344676912271138820" ],
     "name" : [ "Like of @theemilyaccount's tweet" ],
     "published" : [ "2020-12-31T20:22:00+0000" ],
     "like-of" : [ "https://twitter.com/theemilyaccount/status/1344676912271138820" ]
