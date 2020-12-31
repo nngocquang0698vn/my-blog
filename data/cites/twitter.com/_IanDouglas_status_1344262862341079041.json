@@ -1,0 +1,68 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344262862341079041" ],
+    "url" : [ "https://twitter.com/IanDouglas/status/1344262862341079041" ],
+    "published" : [ "2020-12-30T12:43:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanDouglas" ],
+        "numeric-id" : [ "3217101" ],
+        "name" : [ "Ian Douglas" ],
+        "nickname" : [ "IanDouglas" ],
+        "url" : [ "https://twitter.com/IanDouglas", "https://www.amazon.co.uk/dp/050029531X" ],
+        "published" : [ "2007-04-02T14:22:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Here or There" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/885096850520510467/4jxWgaJ7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is Sarah Gilbert who oversaw the actual work, rather than just dressing up in protective gear and looking at a phial for an announcement twitter.com/alrightpet/sta…",
+      "html" : "This is Sarah Gilbert who oversaw the actual work, rather than just dressing up in protective gear and looking at a phial for an announcement <a href=\"https://twitter.com/alrightpet/status/1344253739180417025\">twitter.com/alrightpet/sta…</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EqfH8qHW4AAVV3l.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1344253739180417025" ],
+      "url" : [ "https://twitter.com/alrightPET/status/1344253739180417025" ],
+      "published" : [ "2020-12-30T12:07:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:alrightPET" ],
+          "numeric-id" : [ "571768437" ],
+          "name" : [ "Dr Heather Williams" ],
+          "nickname" : [ "alrightPET" ],
+          "url" : [ "https://twitter.com/alrightPET", "https://en.wikipedia.org/wiki/Heather_Williams_(physicist)" ],
+          "published" : [ "2012-05-05T11:58:47+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Manchester, & elsewhere, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1167885221607272456/vkTj3ewR.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I can't help but think it should be Prof Sarah Gilbert, the actual expert overseeing the Oxford team who developed the vaccine, whose face features in these announcements. \n#womeninSTEM",
+        "html" : "<div style=\"white-space: pre\">I can't help but think it should be Prof Sarah Gilbert, the actual expert overseeing the Oxford team who developed the vaccine, whose face features in these announcements. \n<a href=\"https://twitter.com/search?q=%23womeninSTEM\">#womeninSTEM</a></div>\n<a class=\"tag\" href=\"https://twitter.com/BorisJohnson/status/1344184019387346945\">twitter.com/BorisJohnson/s…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/BorisJohnson/s…" ],
+        "url" : [ "https://twitter.com/BorisJohnson/status/1344184019387346945" ]
+      }
+    } ]
+  } ]
+}
