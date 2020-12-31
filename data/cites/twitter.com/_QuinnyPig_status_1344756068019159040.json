@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344756068019159040" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1344756068019159040" ],
+    "published" : [ "2020-12-31T21:23:25+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1344755864591163392" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Since @magicaltrout works where he works, this application is now worked on by a team that includes \"engineers at NASA.\" That is absolutely going in the pitch deck when we raise a VC round.",
+      "html" : "Since <a href=\"https://twitter.com/magicaltrout\">@magicaltrout</a> works where he works, this application is now worked on by a team that includes \"engineers at NASA.\" That is absolutely going in the pitch deck when we raise a VC round."
+    } ]
+  }
+}
