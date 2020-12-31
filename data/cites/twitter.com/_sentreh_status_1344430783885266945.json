@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344430783885266945" ],
+    "url" : [ "https://twitter.com/sentreh/status/1344430783885266945" ],
+    "published" : [ "2020-12-30T23:50:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/garybernhardt/status/1344376354955935744" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sentreh" ],
+        "numeric-id" : [ "96932207" ],
+        "name" : [ "Marcus" ],
+        "nickname" : [ "sentreh" ],
+        "url" : [ "https://twitter.com/sentreh", "https://utf9k.net" ],
+        "published" : [ "2009-12-15T07:07:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Auckland, New Zealand" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317723612539887616/gggPh1I_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "hi gary i agree that overengineering is a big problem and that is why i decided to found dumpstr. we put your computer on a truck and drop it off at a landfill so you can enjoy your newfound, complexity-free time doing things like reading a book or not thinking about kubernetes",
+      "html" : "hi gary i agree that overengineering is a big problem and that is why i decided to found dumpstr. we put your computer on a truck and drop it off at a landfill so you can enjoy your newfound, complexity-free time doing things like reading a book or not thinking about kubernetes\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/garybernhardt\"></a>"
+    } ]
+  }
+}
