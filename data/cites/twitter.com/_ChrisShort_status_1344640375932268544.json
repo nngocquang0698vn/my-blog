@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344640375932268544" ],
+    "url" : [ "https://twitter.com/ChrisShort/status/1344640375932268544" ],
+    "published" : [ "2020-12-31T13:43:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChrisShort" ],
+        "numeric-id" : [ "5610072" ],
+        "name" : [ "Chris Short" ],
+        "nickname" : [ "ChrisShort" ],
+        "url" : [ "https://twitter.com/ChrisShort", "https://chrisshort.net/", "http://openshift.tv", "http://devopsish.com" ],
+        "published" : [ "2007-04-28T19:14:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Commerce, MI" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323369538721906691/xJILqWj8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Hugo and git submodules make Hugo less accessible, imho.\n\nIs there a dead simple static site generator out there that I just haven’t heard of?\n\nIt used to be Hugo but, I don’t know if that’s the case anymore. Preferably not node.js because...",
+      "html" : "<div style=\"white-space: pre\">Hugo and git submodules make Hugo less accessible, imho.\n\nIs there a dead simple static site generator out there that I just haven’t heard of?\n\nIt used to be Hugo but, I don’t know if that’s the case anymore. Preferably not node.js because...</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EqkfS2eWMAEn_Gh.jpg" ]
+  }
+}
