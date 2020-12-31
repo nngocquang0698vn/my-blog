@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/QuinnyPig/status/1344756068019159040" ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2020-12-31T23:33:00+0000" ],
     "like-of" : [ "https://twitter.com/QuinnyPig/status/1344756068019159040" ]
