@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PallaviGunalan/status/1344288962030882817" ],
     "name" : [ "Like of @PallaviGunalan's tweet" ],
     "published" : [ "2020-12-31T10:02:00+0000" ],
     "like-of" : [ "https://twitter.com/PallaviGunalan/status/1344288962030882817" ]
