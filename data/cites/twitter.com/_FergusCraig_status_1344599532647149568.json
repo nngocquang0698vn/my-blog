@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344599532647149568" ],
+    "url" : [ "https://twitter.com/FergusCraig/status/1344599532647149568" ],
+    "published" : [ "2020-12-31T11:01:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FergusCraig" ],
+        "numeric-id" : [ "27002023" ],
+        "name" : [ "Fergus Craig" ],
+        "nickname" : [ "FergusCraig" ],
+        "url" : [ "https://twitter.com/FergusCraig", "http://ko-fi.com/ferguscraig", "https://celebvm.com/ferguscraig" ],
+        "published" : [ "2009-03-27T13:24:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The people's hearts" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268662157845106689/0q531UD_.jpg" ]
+      }
+    } ],
+    "content" : [ "It's already 2021 in New Zealand. That's what happens when you have a woman Prime Minister who knows what she's doing. UK lagging behind again." ]
+  }
+}
