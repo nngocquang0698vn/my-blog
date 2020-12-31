@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oldnorthroad/status/1343935741680898049" ],
     "name" : [ "Like of @oldnorthroad's tweet" ],
     "published" : [ "2020-12-31T10:09:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
