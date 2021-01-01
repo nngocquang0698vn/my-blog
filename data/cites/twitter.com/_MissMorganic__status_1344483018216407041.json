@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344483018216407041" ],
+    "url" : [ "https://twitter.com/MissMorganic_/status/1344483018216407041" ],
+    "published" : [ "2020-12-31T03:18:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MissMorganic_" ],
+        "numeric-id" : [ "281280165" ],
+        "name" : [ "missmorganic" ],
+        "nickname" : [ "MissMorganic_" ],
+        "url" : [ "https://twitter.com/MissMorganic_" ],
+        "published" : [ "2011-04-13T00:25:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "314" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1338203094212075524/tf-rEuNA.jpg" ]
+      }
+    } ],
+    "content" : [ "Went into a clubhouse room and my boyfriend was on stage saying he stuck in a bad relationship 😐" ]
+  }
+}
