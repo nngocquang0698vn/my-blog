@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1345013824898916352" ],
     "published" : [ "2021-01-01T14:23:00+0000" ],
     "category" : [ "2020", "coronavirus", "politics", "brexshit", "deathto2020" ],
     "content" : [ {
