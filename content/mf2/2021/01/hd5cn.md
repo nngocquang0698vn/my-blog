@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ninjanails/status/1344791972163280897" ],
     "name" : [ "Like of @ninjanails's tweet" ],
     "published" : [ "2021-01-01T01:09:00+0000" ],
     "category" : [ "brexshit" ],
