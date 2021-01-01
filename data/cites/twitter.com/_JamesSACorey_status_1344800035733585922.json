@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344800035733585922" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1344800035733585922" ],
+    "published" : [ "2021-01-01T00:18:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ]
+      }
+    } ],
+    "content" : [ "I dunno I wasn't up there when it happened." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1344733816624205827" ],
+      "url" : [ "https://twitter.com/DanDanikov/status/1344733816624205827" ],
+      "published" : [ "2020-12-31T19:55:00+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:DanDanikov" ],
+          "numeric-id" : [ "410263056" ],
+          "name" : [ "Danikov" ],
+          "nickname" : [ "DanDanikov" ],
+          "url" : [ "https://twitter.com/DanDanikov" ],
+          "published" : [ "2011-11-11T21:30:28+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Scotland" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1267151002131730432/1Sch7UOD.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "@JamesSACorey so did Konecheck kill Sully or was it an accident?",
+        "html" : "<a href=\"https://twitter.com/JamesSACorey\">@JamesSACorey</a> so did Konecheck kill Sully or was it an accident?"
+      } ]
+    }
+  } ]
+}
