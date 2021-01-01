@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344973973730291712" ],
+    "url" : [ "https://twitter.com/ohhelloana/status/1344973973730291712" ],
+    "published" : [ "2021-01-01T11:49:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohhelloana" ],
+        "numeric-id" : [ "434457570" ],
+        "name" : [ "Ana Rodrigues" ],
+        "nickname" : [ "ohhelloana" ],
+        "url" : [ "https://twitter.com/ohhelloana", "https://ohhelloana.blog" ],
+        "published" : [ "2011-12-11T21:57:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1126838936519815168/F4HZ_Fmu.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Happy new year friends... Wishing everyone a peaceful and healthy year. ✨\n\nAfter having had a very long day yesterday, my resolution for 2021, is to stop comparing myself to other's accomplishments on social media. Everything else is out of my control.",
+      "html" : "<div style=\"white-space: pre\">Happy new year friends... Wishing everyone a peaceful and healthy year. ✨\n\nAfter having had a very long day yesterday, my resolution for 2021, is to stop comparing myself to other's accomplishments on social media. Everything else is out of my control.</div>"
+    } ]
+  }
+}
