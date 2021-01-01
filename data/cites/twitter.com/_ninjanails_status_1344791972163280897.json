@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344791972163280897" ],
+    "url" : [ "https://twitter.com/ninjanails/status/1344791972163280897" ],
+    "published" : [ "2020-12-31T23:46:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ninjanails" ],
+        "numeric-id" : [ "167740453" ],
+        "name" : [ "Seren Davies" ],
+        "nickname" : [ "ninjanails" ],
+        "url" : [ "https://twitter.com/ninjanails", "http://www.serendavies.me", "http://ninjanails.com" ],
+        "published" : [ "2010-07-17T11:06:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oxford / Bristol" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146364466801577985/TvCfb49a.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's just dawned on me this is my last day in the EU 😭💔🇪🇺\n\nI'll miss you and hope I get to see us rejoin you one day ❤️",
+      "html" : "<div style=\"white-space: pre\">It's just dawned on me this is my last day in the EU 😭💔🇪🇺\n\nI'll miss you and hope I get to see us rejoin you one day ❤️</div>"
+    } ]
+  }
+}
