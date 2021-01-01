@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344762503432179712" ],
+    "url" : [ "https://twitter.com/fatphillycat/status/1344762503432179712" ],
+    "published" : [ "2020-12-31T21:48:59+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/MissMorganic_/status/1344483018216407041" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:fatphillycat" ],
+        "numeric-id" : [ "128396264" ],
+        "name" : [ "Teddy Beard" ],
+        "nickname" : [ "fatphillycat" ],
+        "url" : [ "https://twitter.com/fatphillycat", "http://www.instagram.com/issabeardbaby" ],
+        "published" : [ "2010-04-01T00:48:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "South Philly, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1136398340118142976/-w2NJ4n5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "He ain’t lie. Both y’all talking to social media instead of each other.",
+      "html" : "He ain’t lie. Both y’all talking to social media instead of each other.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MissMorganic_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ShayTheAries\"></a>"
+    } ]
+  }
+}
