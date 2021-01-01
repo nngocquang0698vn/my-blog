@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1344995797914542080" ],
     "published" : [ "2021-01-01T13:11:00+0000" ],
     "repost-of" : [ "https://twitter.com/TatianaTMac/status/1341845074401849344" ],
     "category" : [ "diversity-and-inclusion", "github" ]
