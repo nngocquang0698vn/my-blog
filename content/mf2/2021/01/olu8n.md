@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sallylait/status/1344788126938652679" ],
     "name" : [ "Like of @sallylait's tweet" ],
     "published" : [ "2021-01-01T14:37:00+0000" ],
     "category" : [ "food" ],
