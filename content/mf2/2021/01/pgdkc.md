@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JAMNPP/status/1344862167594659844" ],
     "name" : [ "Like of @JAMNPP's tweet" ],
     "published" : [ "2021-01-01T18:20:00+0000" ],
     "like-of" : [ "https://twitter.com/JAMNPP/status/1344862167594659844" ]
