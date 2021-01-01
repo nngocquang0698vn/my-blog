@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341845074401849344" ],
+    "url" : [ "https://twitter.com/TatianaTMac/status/1341845074401849344" ],
+    "published" : [ "2020-12-23T20:36:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TatianaTMac" ],
+        "numeric-id" : [ "1529722572" ],
+        "name" : [ "Tatiana Mac" ],
+        "nickname" : [ "TatianaTMac" ],
+        "url" : [ "https://twitter.com/TatianaTMac", "https://www.tatianamac.com" ],
+        "published" : [ "2013-06-19T04:59:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/they/hän 💖💛💙" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329703467124813825/K8VnCIn9.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It’s fascinating to me how the CEOs of Shopify and GitHub continue to tweet ridiculously bad takes into the timeline while they platform and support white supremacy on their platforms. \n\nIf there is proof that some people can’t be cancelled, it’s those two.",
+      "html" : "<div style=\"white-space: pre\">It’s fascinating to me how the CEOs of Shopify and GitHub continue to tweet ridiculously bad takes into the timeline while they platform and support white supremacy on their platforms. \n\nIf there is proof that some people can’t be cancelled, it’s those two.</div>"
+    } ]
+  }
+}
