@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/irisolympia/status/1344784384948199424" ],
     "name" : [ "Like of @irisolympia's tweet" ],
     "published" : [ "2021-01-01T18:14:00+0000" ],
     "category" : [ "tiktok" ],
