@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DammitTracy/status/1345059775835373568" ],
     "name" : [ "Like of @DammitTracy's tweet" ],
     "published" : [ "2021-01-02T08:20:00+0000" ],
     "like-of" : [ "https://twitter.com/DammitTracy/status/1345059775835373568" ]
