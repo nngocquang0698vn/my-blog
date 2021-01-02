@@ -1,0 +1,56 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345092545915858945" ],
+    "url" : [ "https://twitter.com/helenawadia/status/1345092545915858945" ],
+    "published" : [ "2021-01-01T19:40:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:helenawadia" ],
+        "numeric-id" : [ "585206653" ],
+        "name" : [ "Helena Wadia" ],
+        "nickname" : [ "helenawadia" ],
+        "url" : [ "https://twitter.com/helenawadia", "https://www.standard.co.uk/author/helena-wadia" ],
+        "published" : [ "2012-05-20T00:09:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Broad City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1236236917294972928/aYPVgwbZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This you? twitter.com/rishisunak/sta…",
+      "html" : "This you? <a href=\"https://twitter.com/rishisunak/status/1344973185641570311\">twitter.com/rishisunak/sta…</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eqq6if6W4AEAEy2.jpg", "https://pbs.twimg.com/media/Eqq6if8W4AAnUXp.jpg", "https://pbs.twimg.com/media/Eqq6igCXUAECUd2.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1344973185641570311" ],
+      "url" : [ "https://twitter.com/RishiSunak/status/1344973185641570311" ],
+      "published" : [ "2021-01-01T11:46:10+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:RishiSunak" ],
+          "numeric-id" : [ "1168968080690749441" ],
+          "name" : [ "Rishi Sunak" ],
+          "nickname" : [ "RishiSunak" ],
+          "url" : [ "https://twitter.com/RishiSunak", "https://compiled.social/rishisunak" ],
+          "published" : [ "2019-09-03T19:25:03+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1333789450439065600/eVr1uuOq.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I’m proud that we are today delivering on our promise to scrap the tampon tax. \n\ngov.uk/government/new…",
+        "html" : "<div style=\"white-space: pre\">I’m proud that we are today delivering on our promise to scrap the tampon tax. \n\n<a href=\"https://www.gov.uk/government/news/tampon-tax-abolished-from-today\">gov.uk/government/new…</a></div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EqpN6n8W4AEmzfh.jpg" ]
+    }
+  } ]
+}
