@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345180242197970944" ],
+    "url" : [ "https://twitter.com/ben_rosen/status/1345180242197970944" ],
+    "published" : [ "2021-01-02T01:28:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ben_rosen" ],
+        "numeric-id" : [ "15605430" ],
+        "name" : [ "Ben Rosen" ],
+        "nickname" : [ "ben_rosen" ],
+        "url" : [ "https://twitter.com/ben_rosen", "http://www.benrosen.tumblr.com" ],
+        "published" : [ "2008-07-25T23:41:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1016451004923985920/QjtIqSUB.jpg" ]
+      }
+    } ],
+    "content" : [ "me (too lazy to microwave something): i should support a struggling small business during these unprecedented times" ]
+  }
+}
