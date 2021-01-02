@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulasherriff/status/1344988567584575488" ],
     "name" : [ "Like of @paulasherriff's tweet" ],
     "published" : [ "2021-01-02T11:14:00+0000" ],
     "like-of" : [ "https://twitter.com/paulasherriff/status/1344988567584575488" ]
