@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/theSquaredT/status/1099338292888096774" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1345340226328264706" ],
     "name" : [ "Reply to https://twitter.com/theSquaredT/status/1099338292888096774" ],
     "published" : [ "2021-01-02T11:59:47.14Z" ],
     "category" : [ "apex-legends" ],
