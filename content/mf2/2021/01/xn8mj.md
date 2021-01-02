@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheEpicDept/status/1345006261998387205" ],
     "name" : [ "Like of @TheEpicDept's tweet" ],
     "published" : [ "2021-01-02T17:19:00+0000" ],
     "like-of" : [ "https://twitter.com/TheEpicDept/status/1345006261998387205" ]
