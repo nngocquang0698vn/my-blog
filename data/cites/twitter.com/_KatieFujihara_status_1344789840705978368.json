@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344789840705978368" ],
+    "url" : [ "https://twitter.com/KatieFujihara/status/1344789840705978368" ],
+    "published" : [ "2020-12-31T23:37:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KatieFujihara" ],
+        "numeric-id" : [ "959544337213243392" ],
+        "name" : [ "katie" ],
+        "nickname" : [ "KatieFujihara" ],
+        "url" : [ "https://twitter.com/KatieFujihara" ],
+        "published" : [ "2018-02-02T21:49:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343625923585667072/z-2NvQvx.jpg" ]
+      }
+    } ],
+    "content" : [ "tfw it still feels like you are battling burnout related brain fog but your pto for the holidays is coming to an end and you start to anxiously obsess over being “recharged” come next week 🥴" ]
+  }
+}
