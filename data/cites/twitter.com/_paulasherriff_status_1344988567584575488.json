@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1344988567584575488" ],
+    "url" : [ "https://twitter.com/paulasherriff/status/1344988567584575488" ],
+    "published" : [ "2021-01-01T12:47:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/RishiSunak/status/1344973185641570311" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulasherriff" ],
+        "numeric-id" : [ "29169821" ],
+        "name" : [ "Paula Sherriff 🌈" ],
+        "nickname" : [ "paulasherriff" ],
+        "url" : [ "https://twitter.com/paulasherriff" ],
+        "published" : [ "2009-04-06T09:07:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "West Yorkshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1227872084530995200/oi6mvNsz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You voted against it’s abolition at the first time of asking!",
+      "html" : "You voted against it’s abolition at the first time of asking!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RishiSunak\"></a>"
+    } ]
+  }
+}
