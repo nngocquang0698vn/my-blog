@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Oatmeal/status/1345170690849165312" ],
     "name" : [ "Like of @Oatmeal's tweet" ],
     "published" : [ "2021-01-02T01:09:00+0000" ],
     "category" : [ "2020", "2021" ],
