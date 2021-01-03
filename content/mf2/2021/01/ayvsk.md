@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/loujaybee/status/1345720629560008705" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1345734805653225472" ],
     "name" : [ "Reply to https://twitter.com/loujaybee/status/1345720629560008705" ],
     "published" : [ "2021-01-03T14:08:00+0000" ],
     "category" : [ "capital-one" ],
