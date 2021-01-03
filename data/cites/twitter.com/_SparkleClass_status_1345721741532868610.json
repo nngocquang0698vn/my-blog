@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345721741532868610" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1345721741532868610" ],
+    "published" : [ "2021-01-03T13:20:40+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/lynncyrin/status/1345549848615915521" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm an autistic coach. I'm taking on very few new clients at the moment but please dm me to see if I can help you. If I can't I can pass you to someone I know and trust. Thanks @JamieTanna",
+      "html" : "I'm an autistic coach. I'm taking on very few new clients at the moment but please dm me to see if I can help you. If I can't I can pass you to someone I know and trust. Thanks <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lynncyrin\"></a>"
+    } ]
+  }
+}
