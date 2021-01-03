@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345388882146316288" ],
+    "url" : [ "https://twitter.com/reniadeb/status/1345388882146316288" ],
+    "published" : [ "2021-01-02T15:18:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:reniadeb" ],
+        "numeric-id" : [ "912701562" ],
+        "name" : [ "reni" ],
+        "nickname" : [ "reniadeb" ],
+        "url" : [ "https://twitter.com/reniadeb", "https://amzn.to/34JZSdB", "https://www.instagram.com/reniadeb" ],
+        "published" : [ "2012-10-29T15:52:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "sussex" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345401997105758209/F4Irf4Ba.jpg" ]
+      }
+    } ],
+    "content" : [ "in england, they don't say i'll kick your ass, they say i'll see you on the" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqrsWzYXMAAz5fm.jpg" ]
+  }
+}
