@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345771144784343056" ],
+    "url" : [ "https://twitter.com/emlf_x/status/1345771144784343056" ],
+    "published" : [ "2021-01-03T16:36:58+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/hollyhopkins_/status/1345554171597115393" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emlf_x" ],
+        "numeric-id" : [ "421172161" ],
+        "name" : [ "emma freeman" ],
+        "nickname" : [ "emlf_x" ],
+        "url" : [ "https://twitter.com/emlf_x" ],
+        "published" : [ "2011-11-25T16:03:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Liverpool/Bolton" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298011984286318592/zU683ury.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Personally think if you buy a house you should entitled to make it into whatever YOU like, not everyone is going to have the same taste",
+      "html" : "Personally think if you buy a house you should entitled to make it into whatever YOU like, not everyone is going to have the same taste\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hollyhopkins_\"></a>"
+    } ]
+  }
+}
