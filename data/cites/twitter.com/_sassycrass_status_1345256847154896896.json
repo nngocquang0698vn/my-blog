@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345256847154896896" ],
+    "url" : [ "https://twitter.com/sassycrass/status/1345256847154896896" ],
+    "published" : [ "2021-01-02T06:33:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sassycrass" ],
+        "numeric-id" : [ "24466090" ],
+        "name" : [ "Fiqah" ],
+        "nickname" : [ "sassycrass" ],
+        "url" : [ "https://twitter.com/sassycrass", "http://Patreon.com/Sassycrass" ],
+        "published" : [ "2009-03-15T01:35:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Wish-A-Motherf*cka-Woods" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320425512875995143/a6zU05hi.jpg" ]
+      }
+    } ],
+    "content" : [ "I've been laughing for 10 minutes." ],
+    "photo" : [ "https://pbs.twimg.com/media/EqtP-RFUYAAyfvy.jpg" ]
+  }
+}
