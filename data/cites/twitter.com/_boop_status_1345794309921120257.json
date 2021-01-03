@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345794309921120257" ],
+    "url" : [ "https://twitter.com/boop/status/1345794309921120257" ],
+    "published" : [ "2021-01-03T18:09:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:boop" ],
+        "numeric-id" : [ "14782048" ],
+        "name" : [ "Bhoka" ],
+        "nickname" : [ "boop" ],
+        "url" : [ "https://twitter.com/boop", "https://hyperspace.substack.com/" ],
+        "published" : [ "2008-05-15T04:44:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "nyc" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1212582143685214210/StK640HW.jpg" ]
+      }
+    } ],
+    "content" : [ "when you look over his shoulder and it be ya own ass at 600% zoom" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eq04ZOyWMAAbUe1.jpg" ]
+  }
+}
