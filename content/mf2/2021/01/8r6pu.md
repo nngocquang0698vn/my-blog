@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emlf_x/status/1345771144784343056" ],
     "name" : [ "Like of @emlf_x's tweet" ],
     "published" : [ "2021-01-03T21:24:00+0000" ],
     "like-of" : [ "https://twitter.com/emlf_x/status/1345771144784343056" ]
