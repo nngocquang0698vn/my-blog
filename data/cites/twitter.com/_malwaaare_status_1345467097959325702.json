@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345467097959325702" ],
+    "url" : [ "https://twitter.com/malwaaare/status/1345467097959325702" ],
+    "published" : [ "2021-01-02T20:28:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:malwaaare" ],
+        "numeric-id" : [ "1144801861775572992" ],
+        "name" : [ "Mallory Brewer" ],
+        "nickname" : [ "malwaaare" ],
+        "url" : [ "https://twitter.com/malwaaare" ],
+        "published" : [ "2019-06-29T02:56:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Decatur, GA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342340019831386116/wPlwTJMd.jpg" ]
+      }
+    } ],
+    "content" : [ "\"Let's call the cops just in case.\" —Karen Kat" ],
+    "photo" : [ "https://pbs.twimg.com/media/EqwPMWlW4AAKDxB.jpg" ]
+  }
+}
