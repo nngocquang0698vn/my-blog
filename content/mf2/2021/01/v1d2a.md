@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/boop/status/1345794309921120257" ],
     "name" : [ "Like of @boop's tweet" ],
     "published" : [ "2021-01-03T23:24:00+0000" ],
     "like-of" : [ "https://twitter.com/boop/status/1345794309921120257" ]
