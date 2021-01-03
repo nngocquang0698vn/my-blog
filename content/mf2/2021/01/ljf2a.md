@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abrahamjoseph/status/1345367205194641408" ],
     "name" : [ "Like of @abrahamjoseph's tweet" ],
     "published" : [ "2021-01-03T16:18:00+0000" ],
     "like-of" : [ "https://twitter.com/abrahamjoseph/status/1345367205194641408" ]
