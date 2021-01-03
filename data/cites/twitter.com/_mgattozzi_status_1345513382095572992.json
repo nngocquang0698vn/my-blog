@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345513382095572992" ],
+    "url" : [ "https://twitter.com/mgattozzi/status/1345513382095572992" ],
+    "published" : [ "2021-01-02T23:32:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mgattozzi" ],
+        "numeric-id" : [ "29958760" ],
+        "name" : [ "i can fix my mistakes don't give me solutions" ],
+        "nickname" : [ "mgattozzi" ],
+        "url" : [ "https://twitter.com/mgattozzi", "https://blog.mgattozzi.dev" ],
+        "published" : [ "2009-04-09T10:35:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292204545687388161/mtPhwVpk.jpg" ]
+      }
+    } ],
+    "content" : [ "Help! My (27M) commits (abef8c, 94a6cb, 39d30c, 51afee, 34c392) have unionized with a squash and rebase." ]
+  }
+}
