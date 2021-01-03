@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/lynncyrin/status/1345549848615915521" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1345720375838175232" ],
     "name" : [ "Reply to https://twitter.com/lynncyrin/status/1345549848615915521" ],
     "published" : [ "2021-01-03T13:08:00+0000" ],
     "content" : [ {
