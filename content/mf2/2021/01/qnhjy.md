@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IncognitoPengy/status/1346053489118556160" ],
     "name" : [ "Like of @IncognitoPengy's tweet" ],
     "published" : [ "2021-01-04T19:06:00+0000" ],
     "category" : [ "coronavirus" ],
