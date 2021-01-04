@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346184741763108864" ],
+    "url" : [ "https://twitter.com/rizbizkits/status/1346184741763108864" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Eq6b4SEXEAg5ng3.mp4" ],
+    "published" : [ "2021-01-04T20:00:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rizbizkits" ],
+        "numeric-id" : [ "800085538954878976" ],
+        "name" : [ "rizwana akmal khan" ],
+        "nickname" : [ "rizbizkits" ],
+        "url" : [ "https://twitter.com/rizbizkits", "https://www.rizwanakhan.com" ],
+        "published" : [ "2016-11-19T21:17:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279903682012774402/G8yaFDCD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm elated to (finally) announce – I've joined ▲ @vercel\n\nToday was my first day as part of this incredibly talented team and my astonishment/delight/awe at this possibly life-changing opportunity requires way more than 280 characters! 🚀😌",
+      "html" : "<div style=\"white-space: pre\">I'm elated to (finally) announce – I've joined ▲ <a href=\"https://twitter.com/vercel\">@vercel</a>\n\nToday was my first day as part of this incredibly talented team and my astonishment/delight/awe at this possibly life-changing opportunity requires way more than 280 characters! 🚀😌</div>"
+    } ]
+  }
+}
