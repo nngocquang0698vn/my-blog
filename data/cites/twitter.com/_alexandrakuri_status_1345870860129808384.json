@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1345870860129808384" ],
+    "url" : [ "https://twitter.com/alexandrakuri/status/1345870860129808384" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1326795342558408711/pu/vid/1280x720/Ui0W-sjn6gm0p0ul.mp4?tag=10" ],
+    "published" : [ "2021-01-03T23:13:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alexandrakuri" ],
+        "numeric-id" : [ "66215800" ],
+        "name" : [ "three steaks pam" ],
+        "nickname" : [ "alexandrakuri" ],
+        "url" : [ "https://twitter.com/alexandrakuri", "http://ko-fi.com/threesteakspam" ],
+        "published" : [ "2009-08-16T23:11:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Middlesbrough" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344889398463229952/7pj09wMS.jpg" ]
+      }
+    } ],
+    "content" : [ "every man I talk to on tinder when they want to meet straight away and I mention the pandemic " ]
+  }
+}
