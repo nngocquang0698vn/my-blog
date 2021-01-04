@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1346187998023438336" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2021-01-04T20:16:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
