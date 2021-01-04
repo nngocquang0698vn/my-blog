@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346201613287837697" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1346201613287837697" ],
+    "published" : [ "2021-01-04T21:07:30+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/mbbroberg/status/1346199894793584642" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Find your most frequent command line typo and use that. This will teach you to type more precisely.",
+      "html" : "Find your most frequent command line typo and use that. This will teach you to type more precisely.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mbbroberg\"></a>"
+    } ]
+  }
+}
