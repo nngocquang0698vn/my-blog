@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346220736248217600" ],
+    "url" : [ "https://twitter.com/joncstone/status/1346220736248217600" ],
+    "published" : [ "2021-01-04T22:23:29+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/joncstone/status/1346217230221123586" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:joncstone" ],
+        "numeric-id" : [ "23813407" ],
+        "name" : [ "Jon Stone" ],
+        "nickname" : [ "joncstone" ],
+        "url" : [ "https://twitter.com/joncstone" ],
+        "published" : [ "2009-03-11T19:30:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342794022809710593/Yaa2tRD5.jpg" ]
+      }
+    } ],
+    "content" : [ "Eat Out To Help Out cost £849m in total... you could buy all 1.4 million kids elegible for free school meals a £400 Chromebook and 12 months of £20-a-month broadband for roughly the same amount of money (£896m). Might have been a better investment over the summer" ]
+  }
+}
