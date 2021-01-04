@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/astrotoya/status/1346167936600432645" ],
     "name" : [ "Like of @astrotoya's tweet" ],
     "published" : [ "2021-01-04T23:23:00+0000" ],
     "like-of" : [ "https://twitter.com/astrotoya/status/1346167936600432645" ]
