@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cleveru16605923/status/1346095529269215233" ],
     "name" : [ "Like of @cleveru16605923's tweet" ],
     "published" : [ "2021-01-04T23:25:00+0000" ],
     "like-of" : [ "https://twitter.com/cleveru16605923/status/1346095529269215233" ]
