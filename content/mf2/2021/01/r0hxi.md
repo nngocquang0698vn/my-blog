@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joncstone/status/1346220736248217600" ],
     "name" : [ "Like of @joncstone's tweet" ],
     "published" : [ "2021-01-04T23:24:00+0000" ],
     "category" : [ "politics" ],
