@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346385664783347712" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1346385664783347712" ],
+    "published" : [ "2021-01-05T09:18:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/freezydorito/status/1346384434648539136" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "laura bananas" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://laura.monster" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "shoreditch exclusion zone" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314974739824246784/L46478lF.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eq9SoCiW4AEmp4r.jpg", "https://pbs.twimg.com/media/Eq9SoCjXAAASuWf.jpg" ]
+  }
+}
