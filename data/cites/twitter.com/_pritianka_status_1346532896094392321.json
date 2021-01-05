@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346532896094392321" ],
+    "url" : [ "https://twitter.com/pritianka/status/1346532896094392321" ],
+    "published" : [ "2021-01-05T19:03:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pritianka" ],
+        "numeric-id" : [ "29156410" ],
+        "name" : [ "Priyanka Sharma" ],
+        "nickname" : [ "pritianka" ],
+        "url" : [ "https://twitter.com/pritianka", "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" ],
+        "published" : [ "2009-04-06T06:28:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346175895841566721/79N65Si4.jpg" ]
+      }
+    } ],
+    "content" : [ "Folx with personal blogs, do you enable comments to your posts?" ]
+  }
+}
