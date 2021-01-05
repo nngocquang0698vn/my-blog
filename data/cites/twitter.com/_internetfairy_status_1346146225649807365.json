@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346146225649807365" ],
+    "url" : [ "https://twitter.com/internetfairy/status/1346146225649807365" ],
+    "published" : [ "2021-01-04T17:27:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:internetfairy" ],
+        "numeric-id" : [ "4115519134" ],
+        "name" : [ "rain" ],
+        "nickname" : [ "internetfairy" ],
+        "url" : [ "https://twitter.com/internetfairy", "http://internetfairy.art" ],
+        "published" : [ "2015-11-04T23:40:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "los angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329624793117814787/Is67SRkk.jpg" ]
+      }
+    } ],
+    "content" : [ "fetishization is literally still racism" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1345863204736544776" ],
+      "url" : [ "https://twitter.com/lesfemmefataIe/status/1345863204736544776" ],
+      "published" : [ "2021-01-03T22:42:47+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:lesfemmefataIe" ],
+          "numeric-id" : [ "2757740339" ],
+          "name" : [ "carpet muncher🧃" ],
+          "nickname" : [ "lesfemmefataIe" ],
+          "url" : [ "https://twitter.com/lesfemmefataIe", "https://fundbipoc.carrd.co" ],
+          "published" : [ "2014-09-01T00:47:36+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "she/they | 19 | (l)gbtq+ " ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1346510113125904386/IscpwgXk.jpg" ]
+        }
+      } ],
+      "content" : [ "a disease" ],
+      "photo" : [ "https://pbs.twimg.com/media/Eq13c1OXYAA3eRa.jpg", "https://pbs.twimg.com/media/Eq13c1PXUAA9Ezm.jpg", "https://pbs.twimg.com/media/Eq13c1QW8AM5VFg.jpg", "https://pbs.twimg.com/media/Eq13c2DXMAIs7fV.jpg" ]
+    }
+  } ]
+}
