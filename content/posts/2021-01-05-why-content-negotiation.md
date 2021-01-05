@@ -11,6 +11,13 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-05T11:35:46+0000
 slug: "why-content-negotiation"
+syndication:
+- text: Hacker News
+  url: https://news.ycombinator.com/item?id=25644616
+- text: Hacker News
+  url: https://news.ycombinator.com/item?id=25644692
+- text: Lobsters
+  url: https://lobste.rs/s/ja3t7r/why_i_consistently_reach_for_server
 ---
 I've recently started work on a service where we're not yet happy with the response body for the endpoints, so we're using an interim solution instead of trying to get a "perfect" end state straight away.
 
