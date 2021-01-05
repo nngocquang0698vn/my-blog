@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346312849241509891" ],
+    "url" : [ "https://twitter.com/KentBeck/status/1346312849241509891" ],
+    "published" : [ "2021-01-05T04:29:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KentBeck" ],
+        "numeric-id" : [ "16891384" ],
+        "name" : [ "Kent Beck" ],
+        "nickname" : [ "KentBeck" ],
+        "url" : [ "https://twitter.com/KentBeck", "http://www.kentbeck.com" ],
+        "published" : [ "2008-10-21T18:56:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268165498824298496/iFsVfFkB.jpg" ]
+      }
+    } ],
+    "content" : [ "OH: “I shouldn’t have to fix other people’s tests” shout people too incompetent to fix other people’s tests" ]
+  }
+}
