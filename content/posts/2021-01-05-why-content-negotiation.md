@@ -41,7 +41,7 @@ GET /api
 Accept: application/json
 ```
 
-Which says to the service, "give me only JSON". If the server does not support JSON, it should return either an HTTP 406 Not Acceptable, or an HTTP 415 Unsupported Media-Type, depending on how it feels.
+Which says to the service, "give me only JSON". If the server does not support JSON, it should return either an HTTP 406 Not Acceptable, or an HTTP 415 Unsupported Media-Type (if a POST request using `content-type` negotiation), depending on how it feels.
 
 If an `Accept` header is not provided, the API can infer a default type, or could reject the request with a 406/415.
 
