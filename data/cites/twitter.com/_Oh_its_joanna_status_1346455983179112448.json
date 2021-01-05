@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346455983179112448" ],
+    "url" : [ "https://twitter.com/Oh_its_joanna/status/1346455983179112448" ],
+    "published" : [ "2021-01-05T13:58:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Oh_its_joanna" ],
+        "numeric-id" : [ "1335072663031721984" ],
+        "name" : [ "More or Less Joanna" ],
+        "nickname" : [ "Oh_its_joanna" ],
+        "url" : [ "https://twitter.com/Oh_its_joanna", "https://www.buymeacoffee.com/ohitsjoanna" ],
+        "published" : [ "2020-12-05T04:05:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "They/She" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339986244252688385/rTyOWCxm.jpg" ]
+      }
+    } ],
+    "content" : [ "Kept his sweater 😋" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eq-SlMuXAAAY7U2.jpg" ]
+  }
+}
