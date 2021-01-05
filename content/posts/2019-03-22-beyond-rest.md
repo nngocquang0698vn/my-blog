@@ -5,7 +5,7 @@ tags:
 - events
 - openapi
 - internet-of-things
-- apis
+- api
 - graphql
 - containers
 license_code: Apache-2.0
