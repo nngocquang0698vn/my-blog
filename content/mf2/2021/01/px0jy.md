@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/internetfairy/status/1346146225649807365" ],
     "name" : [ "Like of @internetfairy's tweet" ],
     "published" : [ "2021-01-05T21:21:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
