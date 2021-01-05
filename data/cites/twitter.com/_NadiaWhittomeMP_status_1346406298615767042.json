@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346406298615767042" ],
+    "url" : [ "https://twitter.com/NadiaWhittomeMP/status/1346406298615767042" ],
+    "published" : [ "2021-01-05T10:40:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NadiaWhittomeMP" ],
+        "numeric-id" : [ "576682647" ],
+        "name" : [ "Nadia Whittome MP" ],
+        "nickname" : [ "NadiaWhittomeMP" ],
+        "url" : [ "https://twitter.com/NadiaWhittomeMP", "http://instagram.com/nadiawhittomemp" ],
+        "published" : [ "2012-05-10T21:49:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315664635081773056/mCIZkzt2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Matt Hancock has just told MPs that nurseries are being kept open because they are private and “would otherwise go bust”.\n\nThe Health Secretary should not be making public health decisions based on private profit.",
+      "html" : "<div style=\"white-space: pre\">Matt Hancock has just told MPs that nurseries are being kept open because they are private and “would otherwise go bust”.\n\nThe Health Secretary should not be making public health decisions based on private profit.</div>"
+    } ]
+  }
+}
