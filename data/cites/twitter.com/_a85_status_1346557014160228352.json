@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346557014160228352" ],
+    "url" : [ "https://twitter.com/a85/status/1346557014160228352" ],
+    "published" : [ "2021-01-05T20:39:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:a85" ],
+        "numeric-id" : [ "14068136" ],
+        "name" : [ "Abhinav Asthana" ],
+        "nickname" : [ "a85" ],
+        "url" : [ "https://twitter.com/a85", "https://www.postman.com/postman" ],
+        "published" : [ "2008-03-02T09:10:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1006712233986936832/r0xUv2EQ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Excited to announce the Postman API Hack: $100,000 in Cash Prizes!\n\nCheck out details here: \n\nblog.postman.com/postman-api-ha…",
+      "html" : "<div style=\"white-space: pre\">Excited to announce the Postman API Hack: $100,000 in Cash Prizes!\n\nCheck out details here: \n\n<a href=\"https://blog.postman.com/postman-api-hackathon/\">blog.postman.com/postman-api-ha…</a></div>"
+    } ]
+  }
+}
