@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1346521917747044352" ],
     "photo" : [ {
       "alt" : "Photo of Jamie before the haircut, with his beard very thick and fluffy, and his hair coming over his eyebrows and into his eyes",
       "photo" : "https://media.jvt.me/1954d12581.jpeg"
