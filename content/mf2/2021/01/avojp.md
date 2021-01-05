@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NadiaWhittomeMP/status/1346406298615767042" ],
     "name" : [ "Like of @NadiaWhittomeMP's tweet" ],
     "published" : [ "2021-01-05T21:14:00+0000" ],
     "category" : [ "coronavirus", "politics" ],
