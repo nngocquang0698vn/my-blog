@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sallyt/status/1346137165613461504" ],
     "name" : [ "Like of @sallyt's tweet" ],
     "published" : [ "2021-01-05T18:00:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
