@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "How to easily build an SDK in PHP" ],
+    "description" : [ {
+      "html" : "<p>A talk by Steve McDougall. (@juststeveking).</p> <p>These days it is not unusual to have an API for you to work with, you may even have your own! Are you sick of having to write quick and easy guzzle wrappers around APIs all the time? Or are you bored of client SDKs not feeling natural because they were automatically generated?<br/>Join me as I do a live demo on how easy it can be to build your own SDK in PHP.</p> ",
+      "value" : "A talk by Steve McDougall. (@juststeveking). These days it is not unusual to have an API for you to work with, you may even have your own! Are you sick of having to write quick and easy guzzle wrappers around APIs all the time? Or are you bored of client SDKs not feeling natural because they were automatically generated? Join me as I do a live demo on how easy it can be to build your own SDK in PHP."
+    } ],
+    "start" : [ "2021-01-14T18:30:00Z" ],
+    "end" : [ "2021-01-14T20:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/275297287/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2020-12-21T14:01:16Z" ],
+    "updated" : [ "2021-01-05T13:30:05Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
