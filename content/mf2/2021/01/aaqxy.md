@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1346784794483560449" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2021-01-06T12:07:00+0000" ],
     "category" : [ "blogging" ],
