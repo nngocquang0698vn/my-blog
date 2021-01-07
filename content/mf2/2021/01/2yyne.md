@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/goulcher/status/1347194605662515202" ],
     "name" : [ "Like of @goulcher's tweet" ],
     "published" : [ "2021-01-07T16:17:00+0000" ],
     "category" : [ "music" ],
