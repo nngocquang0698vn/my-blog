@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bubbaprog/status/1347024396985229313" ],
     "name" : [ "Like of @bubbaprog's tweet" ],
     "published" : [ "2021-01-07T16:19:00+0000" ],
     "category" : [ "politics" ],
