@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sm/status/1346911830606708737" ],
     "name" : [ "Like of @sm's tweet" ],
     "published" : [ "2021-01-07T08:06:00+0000" ],
     "category" : [ "satire", "politics" ],
