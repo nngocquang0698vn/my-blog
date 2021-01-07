@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346926800337850368" ],
+    "url" : [ "https://twitter.com/GBEJinero/status/1346926800337850368" ],
+    "published" : [ "2021-01-06T21:09:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:GBEJinero" ],
+        "numeric-id" : [ "2686768440" ],
+        "name" : [ "Jeremiah 🌞" ],
+        "nickname" : [ "GBEJinero" ],
+        "url" : [ "https://twitter.com/GBEJinero" ],
+        "published" : [ "2014-07-28T06:22:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NYC - HTX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330713472506748929/wsgttFW5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What you mean speechless son go suit up",
+      "html" : "What you mean speechless son go suit up\n<a class=\"tag\" href=\"https://twitter.com/chrisevans/status/1346923497629609991\">twitter.com/chrisevans/sta…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1346923497629609991" ],
+      "url" : [ "https://twitter.com/ChrisEvans/status/1346923497629609991" ],
+      "published" : [ "2021-01-06T20:56:01+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:ChrisEvans" ],
+          "numeric-id" : [ "580097412" ],
+          "name" : [ "Chris Evans" ],
+          "nickname" : [ "ChrisEvans" ],
+          "url" : [ "https://twitter.com/ChrisEvans", "http://www.astartingpoint.com" ],
+          "published" : [ "2012-05-14T16:23:02+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1320917504013848577/-VTJLuI9.jpg" ]
+        }
+      } ],
+      "content" : [ "I’m speechless" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/chrisevans/sta…" ],
+      "url" : [ "https://twitter.com/chrisevans/status/1346923497629609991" ]
+    }
+  } ]
+}
