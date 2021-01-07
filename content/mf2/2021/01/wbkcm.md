@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoePerticone/status/1347002984299839489" ],
     "name" : [ "Like of @JoePerticone's tweet" ],
     "published" : [ "2021-01-07T16:14:00+0000" ],
     "category" : [ "politics" ],
