@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/spring-projects/spring-boot/issues/10452" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/spring-projects/spring-boot/issues/10452#issuecomment-755983449" ],
     "name" : [ "Reply to https://github.com/spring-projects/spring-boot/issues/10452" ],
     "published" : [ "2021-01-07T08:58:51.129Z" ],
     "content" : [ {
