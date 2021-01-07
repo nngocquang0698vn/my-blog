@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Rachael_Conrad/status/1346987627669385220" ],
     "name" : [ "Like of @Rachael_Conrad's tweet" ],
     "published" : [ "2021-01-07T11:22:00+0000" ],
     "category" : [ "politics", "social-media" ],
