@@ -1,0 +1,66 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347024396985229313" ],
+    "url" : [ "https://twitter.com/bubbaprog/status/1347024396985229313" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1347024323928870914/pu/vid/640x640/RnvWSi8Wc7aPm9rv.mp4?tag=10" ],
+    "published" : [ "2021-01-07T03:36:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bubbaprog" ],
+        "numeric-id" : [ "62103" ],
+        "name" : [ "Timothy Burke" ],
+        "nickname" : [ "bubbaprog" ],
+        "url" : [ "https://twitter.com/bubbaprog", "http://ilovecitr.us/" ],
+        "published" : [ "2006-12-12T23:53:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Tampa, Florida" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000703433512/4d469e15223622e8f73a96d29b5e0483.jpeg" ]
+      }
+    } ],
+    "content" : [ "Cleaned up the audio on this so you can hear this delightful exchange more clearly on a phone. https://t.co/qVecWVu0Wk" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1347002291249770496" ],
+      "url" : [ "https://twitter.com/NRKveronica/status/1347002291249770496" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1347001862147497988/pu/vid/720x720/d-PRiJcdn2Vzh8gX.mp4?tag=10" ],
+      "published" : [ "2021-01-07T02:09:06+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:NRKveronica" ],
+          "numeric-id" : [ "188021130" ],
+          "name" : [ "Veronica Westhrin" ],
+          "nickname" : [ "NRKveronica" ],
+          "url" : [ "https://twitter.com/NRKveronica", "http://www.nrk.no" ],
+          "published" : [ "2010-09-07T18:54:57+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1037877543284686848/EPXAZ3Yi.jpg" ]
+        }
+      } ],
+      "location" : [ {
+        "type" : [ "h-card", "p-location" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:01fbe706f872cb32" ],
+          "name" : [ "Washington, DC" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "So I filmed this video today. I shot it in a D.C. neighbourhood as Trump-supporters were leaving downtown after the protests and riots today. Apparently it went viral after I posted in on my Instagram @westhrin So here it is, Twitter! #guyonporch #womanincar",
+        "html" : "So I filmed this video today. I shot it in a D.C. neighbourhood as Trump-supporters were leaving downtown after the protests and riots today. Apparently it went viral after I posted in on my Instagram <a href=\"https://twitter.com/westhrin\">@westhrin</a> So here it is, Twitter! <a href=\"https://twitter.com/search?q=%23guyonporch\">#guyonporch</a> <a href=\"https://twitter.com/search?q=%23womanincar\">#womanincar</a>"
+      } ]
+    }
+  } ]
+}
