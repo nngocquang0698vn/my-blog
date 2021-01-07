@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GBEJinero/status/1346926800337850368" ],
     "name" : [ "Like of @GBEJinero's tweet" ],
     "published" : [ "2021-01-07T11:23:00+0000" ],
     "category" : [ "politics" ],
