@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346971661736800257" ],
+    "url" : [ "https://twitter.com/LukeExton/status/1346971661736800257" ],
+    "published" : [ "2021-01-07T00:07:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LukeExton" ],
+        "numeric-id" : [ "1254328994" ],
+        "name" : [ "Luke Exton" ],
+        "nickname" : [ "LukeExton" ],
+        "url" : [ "https://twitter.com/LukeExton", "https://twitter.com/intent/tweet?text=Black%20Lives%20Matter" ],
+        "published" : [ "2013-03-09T13:04:19+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1008314627011334145/8wKoq6rW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Yep, this is the one. This is the tweet.",
+      "html" : "Yep, this is the one. This is the tweet.\n<a class=\"tag\" href=\"https://twitter.com/11thhour/status/1346958469073661953\">twitter.com/11thhour/statu…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1346958469073661953" ],
+      "url" : [ "https://twitter.com/11thHour/status/1346958469073661953" ],
+      "published" : [ "2021-01-06T23:14:58+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:11thHour" ],
+          "numeric-id" : [ "771388593130483712" ],
+          "name" : [ "11th Hour" ],
+          "nickname" : [ "11thHour" ],
+          "url" : [ "https://twitter.com/11thHour", "http://MSNBC.com/11" ],
+          "published" : [ "2016-09-01T16:45:47+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/776190278021459969/Zt2MEyqP.jpg" ]
+        }
+      } ],
+      "content" : [ "Day 1 vs. Day 1,448" ],
+      "photo" : [ "https://pbs.twimg.com/media/ErFbgJBXAAAyHQw.jpg", "https://pbs.twimg.com/media/ErFbhQZXcAEIyFv.jpg" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/11thhour/statu…" ],
+      "url" : [ "https://twitter.com/11thhour/status/1346958469073661953" ]
+    }
+  } ]
+}
