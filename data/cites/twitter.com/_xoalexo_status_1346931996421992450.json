@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346931996421992450" ],
+    "url" : [ "https://twitter.com/xoalexo/status/1346931996421992450" ],
+    "published" : [ "2021-01-06T21:29:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:xoalexo" ],
+        "numeric-id" : [ "45918807" ],
+        "name" : [ "Alex Manthei" ],
+        "nickname" : [ "xoalexo" ],
+        "url" : [ "https://twitter.com/xoalexo", "http://alexmanthei.com" ],
+        "published" : [ "2009-06-09T19:29:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319991684709703681/PV2L98lP.jpg" ]
+      }
+    } ],
+    "content" : [ "Hi! I’m a recruiter from Facebook. Would you like to join us building the #1 tool domestic terrorists used to coordinate an attack on our nation’s capitol?" ]
+  }
+}
