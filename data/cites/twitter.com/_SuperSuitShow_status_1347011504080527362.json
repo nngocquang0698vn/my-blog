@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347011504080527362" ],
+    "url" : [ "https://twitter.com/SuperSuitShow/status/1347011504080527362" ],
+    "published" : [ "2021-01-07T02:45:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SuperSuitShow" ],
+        "numeric-id" : [ "705784130697453569" ],
+        "name" : [ "The Best Show in the Omniverse" ],
+        "nickname" : [ "SuperSuitShow" ],
+        "url" : [ "https://twitter.com/SuperSuitShow", "http://www.supersuitshow.com", "http://soundcloud.com/supersuit-show" ],
+        "published" : [ "2016-03-04T15:57:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/705791963518226432/mHBLeZMZ.jpg" ]
+      }
+    } ],
+    "content" : [ "THIS..." ],
+    "photo" : [ "https://pbs.twimg.com/media/ErGL0dkVEAAj87o.jpg" ]
+  }
+}
