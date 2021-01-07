@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/curves_n_chaos/status/1346981509207527427" ],
     "name" : [ "Like of @curves_n_chaos's tweet" ],
     "published" : [ "2021-01-07T14:01:00+0000" ],
     "category" : [ "politics" ],
