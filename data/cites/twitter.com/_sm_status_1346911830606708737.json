@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346911830606708737" ],
+    "url" : [ "https://twitter.com/sm/status/1346911830606708737" ],
+    "published" : [ "2021-01-06T20:09:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sm" ],
+        "numeric-id" : [ "22273667" ],
+        "name" : [ "Sara Mauskopf" ],
+        "nickname" : [ "sm" ],
+        "url" : [ "https://twitter.com/sm", "http://winnie.com" ],
+        "published" : [ "2009-02-28T17:05:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1159419532127064070/Nlxy4_Yb.jpg" ]
+      }
+    } ],
+    "content" : [ "🙈 omfg our country. I want to work at Coinbase just for today so I don't have to deal with what's going on." ]
+  }
+}
