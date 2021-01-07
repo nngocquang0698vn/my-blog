@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukeExton/status/1346971661736800257" ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2021-01-07T08:31:00+0000" ],
     "category" : [ "politics" ],
