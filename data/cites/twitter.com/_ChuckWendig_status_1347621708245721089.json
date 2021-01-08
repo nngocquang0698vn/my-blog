@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347621708245721089" ],
+    "url" : [ "https://twitter.com/ChuckWendig/status/1347621708245721089" ],
+    "published" : [ "2021-01-08T19:10:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChuckWendig" ],
+        "numeric-id" : [ "26029878" ],
+        "name" : [ "Chuck Wendig" ],
+        "nickname" : [ "ChuckWendig" ],
+        "url" : [ "https://twitter.com/ChuckWendig", "http://www.terribleminds.com" ],
+        "published" : [ "2009-03-23T16:10:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bucks County, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309145152439685123/R81qtOaK.jpg" ]
+      }
+    } ],
+    "content" : [ "We are gonna find out SOME SHIT in the aftermath of Trump’s reign, stuff we didn’t even think of. Sacks of coke; a Nazi furry costume; shallow graves; UFO parts strewn about his bathroom; a bunker of robot wives; leather Klan robe; a warehouse of empty papers, all signed by him." ]
+  }
+}
