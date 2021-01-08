@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kelechnekoff/status/1347345656692748289" ],
     "name" : [ "Like of @kelechnekoff's tweet" ],
     "published" : [ "2021-01-08T17:45:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
