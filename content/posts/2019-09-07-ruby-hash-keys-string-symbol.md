@@ -17,7 +17,7 @@ In case you're not intimately familiar with them, you can see below an example o
 hash_str = {
   'key' => true
 }
-hash_str = {
+hash_sym = {
   key: true
 }
 
@@ -78,7 +78,7 @@ This allows us to perform the following:
 hash_str = {
   'key' => true
 }
-hash_str = {
+hash_sym = {
   key: true
 }
 
