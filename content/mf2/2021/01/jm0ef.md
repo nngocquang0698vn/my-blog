@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SimonRAmor/status/1347535036329955331" ],
     "name" : [ "Like of @SimonRAmor's tweet" ],
     "published" : [ "2021-01-08T23:21:00+0000" ],
     "category" : [ "2020", "2021" ],
