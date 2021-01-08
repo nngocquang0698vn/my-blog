@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbygov/status/1347233289535430657" ],
     "name" : [ "Like of @abbygov's tweet" ],
     "published" : [ "2021-01-08T14:30:00+0000" ],
     "like-of" : [ "https://twitter.com/abbygov/status/1347233289535430657" ]
