@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/indyfromspace/status/1347207074413948931" ],
     "name" : [ "Like of @indyfromspace's tweet" ],
     "published" : [ "2021-01-08T10:37:00+0000" ],
     "category" : [ "politics" ],
