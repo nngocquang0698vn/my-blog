@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jazzmen_k/status/1347188509531115520" ],
     "name" : [ "Like of @jazzmen_k's tweet" ],
     "published" : [ "2021-01-08T20:22:00+0000" ],
     "category" : [ "politics" ],
