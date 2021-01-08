@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/DivineOps/status/1347589987378876416" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1347639650530287617" ],
     "name" : [ "Reply to https://twitter.com/DivineOps/status/1347589987378876416" ],
     "published" : [ "2021-01-08T20:12:00+0000" ],
     "category" : [ "shitpost", "coronavirus" ],
