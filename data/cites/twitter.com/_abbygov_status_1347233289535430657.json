@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347233289535430657" ],
+    "url" : [ "https://twitter.com/abbygov/status/1347233289535430657" ],
+    "published" : [ "2021-01-07T17:27:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:abbygov" ],
+        "numeric-id" : [ "2536561231" ],
+        "name" : [ "abby govindan" ],
+        "nickname" : [ "abbygov" ],
+        "url" : [ "https://twitter.com/abbygov", "http://fanhouse.app/abbygov" ],
+        "published" : [ "2014-05-31T04:00:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331026814513389570/T75lrNiR.jpg" ]
+      }
+    } ],
+    "content" : [ "I took out $15,000 of student loans and since I graduate last May I repaid $2,000 and now I am so glad to share that I only have $15,633 left to pay😌" ]
+  }
+}
