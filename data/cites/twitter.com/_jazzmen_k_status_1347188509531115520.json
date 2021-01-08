@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347188509531115520" ],
+    "url" : [ "https://twitter.com/jazzmen_k/status/1347188509531115520" ],
+    "published" : [ "2021-01-07T14:29:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jazzmen_k" ],
+        "numeric-id" : [ "18584536" ],
+        "name" : [ "Jazzmen Watson 👩🏾‍💻" ],
+        "nickname" : [ "jazzmen_k" ],
+        "url" : [ "https://twitter.com/jazzmen_k", "http://bit.ly/2CRFvx3" ],
+        "published" : [ "2009-01-03T19:05:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Baltimore 🦩🦀" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341396235131957248/4hu_7B08.jpg" ]
+      }
+    } ],
+    "content" : [ "I think this guy was involved. https://t.co/H6xOrhUsWT" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErIszuvW4AQySXM.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1347175086432907272" ],
+      "url" : [ "https://twitter.com/FBI/status/1347175086432907272" ],
+      "published" : [ "2021-01-07T13:35:44+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:FBI" ],
+          "numeric-id" : [ "17629860" ],
+          "name" : [ "FBI" ],
+          "nickname" : [ "FBI" ],
+          "url" : [ "https://twitter.com/FBI", "http://www.fbi.gov/", "http://tips.fbi.gov" ],
+          "published" : [ "2008-11-25T20:13:53+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1079780911418408961/YXYAye0S.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "The FBI is seeking to identify individuals instigating violence in Washington, D.C. We are accepting tips and digital media depicting rioting or violence in and around the U.S. Capitol on January 6. If you have information, visit fbi.gov/USCapitol.",
+        "html" : "The FBI is seeking to identify individuals instigating violence in Washington, D.C. We are accepting tips and digital media depicting rioting or violence in and around the U.S. Capitol on January 6. If you have information, visit <a href=\"http://fbi.gov/USCapitol\">fbi.gov/USCapitol</a>."
+      } ]
+    }
+  } ]
+}
