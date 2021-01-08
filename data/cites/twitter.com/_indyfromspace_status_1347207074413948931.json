@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347207074413948931" ],
+    "url" : [ "https://twitter.com/indyfromspace/status/1347207074413948931" ],
+    "published" : [ "2021-01-07T15:42:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:indyfromspace" ],
+        "numeric-id" : [ "330105456" ],
+        "name" : [ "Dr. Sarah Parcak" ],
+        "nickname" : [ "indyfromspace" ],
+        "url" : [ "https://twitter.com/indyfromspace" ],
+        "published" : [ "2011-07-06T03:22:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "400 miles up, lookin' down" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295900654133751815/0OEVsFlo.jpg" ]
+      }
+    } ],
+    "content" : [ "The winner" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErI9rmmXAAgkPo3.jpg" ]
+  }
+}
