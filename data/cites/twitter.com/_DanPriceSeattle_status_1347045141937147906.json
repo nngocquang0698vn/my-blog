@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347045141937147906" ],
+    "url" : [ "https://twitter.com/DanPriceSeattle/status/1347045141937147906" ],
+    "published" : [ "2021-01-07T04:59:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DanPriceSeattle" ],
+        "numeric-id" : [ "2172596028" ],
+        "name" : [ "Dan Price" ],
+        "nickname" : [ "DanPriceSeattle" ],
+        "url" : [ "https://twitter.com/DanPriceSeattle", "http://www.instagram.com/danpriceseattle" ],
+        "published" : [ "2013-11-03T18:27:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1257731768569917440/DXgWC7tR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Let me see if I have this right:\n\nWe couldn't afford $2,000 checks because we spend $740 billion a year on Defense, yet we won't defend our own U.S. Capitol against domestic terrorists.",
+      "html" : "<div style=\"white-space: pre\">Let me see if I have this right:\n\nWe couldn't afford $2,000 checks because we spend $740 billion a year on Defense, yet we won't defend our own U.S. Capitol against domestic terrorists.</div>"
+    } ]
+  }
+}
