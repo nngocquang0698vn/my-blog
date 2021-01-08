@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347589987378876416" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1347589987378876416" ],
+    "published" : [ "2021-01-08T17:04:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum, but ✨new and improved✨" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340332065250795521/ebmOzO49.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Apparently, Microsoft now has 166K employees, and last time I looked it was 134K\n\nHow did I miss 32 thousand people being added? 🤔",
+      "html" : "<div style=\"white-space: pre\">Apparently, Microsoft now has 166K employees, and last time I looked it was 134K\n\nHow did I miss 32 thousand people being added? 🤔</div>"
+    } ]
+  }
+}
