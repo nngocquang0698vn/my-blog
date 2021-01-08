@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DanPriceSeattle/status/1347045141937147906" ],
     "name" : [ "Like of @DanPriceSeattle's tweet" ],
     "published" : [ "2021-01-08T08:09:00+0000" ],
     "category" : [ "politics" ],
