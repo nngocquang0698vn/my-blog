@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347345656692748289" ],
+    "url" : [ "https://twitter.com/kelechnekoff/status/1347345656692748289" ],
+    "published" : [ "2021-01-08T00:53:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kelechnekoff" ],
+        "numeric-id" : [ "214411666" ],
+        "name" : [ "machine gun Kele" ],
+        "nickname" : [ "kelechnekoff" ],
+        "url" : [ "https://twitter.com/kelechnekoff", "https://podcasts.apple.com/gb/podcast/say-your-mind/id1324118843" ],
+        "published" : [ "2010-11-11T10:26:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330133564948705283/w5av0ZKJ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "310 days later. \n\nWonderful.",
+      "html" : "<div style=\"white-space: pre\">310 days later. \n\nWonderful.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1347337518656720898" ],
+      "url" : [ "https://twitter.com/SkyNewsBreak/status/1347337518656720898" ],
+      "published" : [ "2021-01-08T00:21:11+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:SkyNewsBreak" ],
+          "numeric-id" : [ "87416722" ],
+          "name" : [ "Sky News Breaking" ],
+          "nickname" : [ "SkyNewsBreak" ],
+          "url" : [ "https://twitter.com/SkyNewsBreak", "http://www.skynews.com/" ],
+          "published" : [ "2009-11-04T11:25:45+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1004357936393719808/wGN4V9B1.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Government has announced all travellers to England from overseas will need to test negative for COVID-19 before they are allowed to enter the country\n\nFor more on this and other news visit news.sky.com",
+        "html" : "<div style=\"white-space: pre\">Government has announced all travellers to England from overseas will need to test negative for COVID-19 before they are allowed to enter the country\n\nFor more on this and other news visit <a href=\"http://news.sky.com\">news.sky.com</a></div>"
+      } ]
+    }
+  } ]
+}
