@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346793594233958400" ],
+    "url" : [ "https://twitter.com/RachelfuI/status/1346793594233958400" ],
+    "published" : [ "2021-01-06T12:19:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RachelfuI" ],
+        "numeric-id" : [ "606800134" ],
+        "name" : [ "raghad." ],
+        "nickname" : [ "RachelfuI" ],
+        "url" : [ "https://twitter.com/RachelfuI" ],
+        "published" : [ "2012-06-13T01:38:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346562294269038592/TGYUPOgg.jpg" ]
+      }
+    } ],
+    "content" : [ "your last chance to retweet this" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErDFod9WMAASesc.jpg" ]
+  }
+}
