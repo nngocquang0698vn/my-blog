@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wayneplod/status/1347468688178425857" ],
     "name" : [ "Like of @wayneplod's tweet" ],
     "published" : [ "2021-01-08T14:31:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
