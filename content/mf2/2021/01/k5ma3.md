@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ariehkovler/status/1341016471795843080" ],
     "name" : [ "Like of @ariehkovler's tweet" ],
     "published" : [ "2021-01-08T08:12:00+0000" ],
     "category" : [ "politics" ],
