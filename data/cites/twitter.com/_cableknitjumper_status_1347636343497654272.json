@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347636343497654272" ],
+    "url" : [ "https://twitter.com/cableknitjumper/status/1347636343497654272" ],
+    "published" : [ "2021-01-08T20:08:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cableknitjumper" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy, future Mothman Festival Queen" ],
+        "nickname" : [ "cableknitjumper" ],
+        "url" : [ "https://twitter.com/cableknitjumper", "https://ko-fi.com/amy", "https://venmo.com/waxanorak" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340503295140323329/_sxOUuJ4.jpg" ]
+      }
+    } ],
+    "content" : [ "I keep this old tinder screenshot to remind myself it's ok to just... be single." ],
+    "photo" : [ "https://pbs.twimg.com/media/ErPEHOAVEAELGyI.jpg" ]
+  }
+}
