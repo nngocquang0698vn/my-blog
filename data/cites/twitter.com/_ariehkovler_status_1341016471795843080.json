@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1341016471795843080" ],
+    "url" : [ "https://twitter.com/ariehkovler/status/1341016471795843080" ],
+    "published" : [ "2020-12-21T13:43:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ariehkovler" ],
+        "numeric-id" : [ "19334118" ],
+        "name" : [ "Arieh Kovler" ],
+        "nickname" : [ "ariehkovler" ],
+        "url" : [ "https://twitter.com/ariehkovler", "http://www.ariehkovler.com" ],
+        "published" : [ "2009-01-22T10:54:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Israel" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000183147469/4b5dbbaf39a9dde382353efcccf42218.jpeg" ]
+      }
+    } ],
+    "content" : [ "On January 6, armed Trumpist militias will be rallying in DC, at Trump's orders. It's highly likely that they'll try to storm the Capitol after it certifies Joe Biden's win. I don't think this has sunk in yet." ]
+  }
+}
