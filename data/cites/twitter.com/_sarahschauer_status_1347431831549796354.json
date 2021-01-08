@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347431831549796354" ],
+    "url" : [ "https://twitter.com/sarahschauer/status/1347431831549796354" ],
+    "published" : [ "2021-01-08T06:35:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarahschauer" ],
+        "numeric-id" : [ "250887629" ],
+        "name" : [ "sarah schauer 🦂" ],
+        "nickname" : [ "sarahschauer" ],
+        "url" : [ "https://twitter.com/sarahschauer" ],
+        "published" : [ "2011-02-12T00:52:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/they" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289456458870845440/76PW1zqr.jpg" ]
+      }
+    } ],
+    "content" : [ "can you believe i made this for my cat?" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErMKGKUUYEQZQbU.jpg" ]
+  }
+}
