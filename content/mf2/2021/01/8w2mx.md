@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChuckWendig/status/1347621708245721089" ],
     "name" : [ "Like of @ChuckWendig's tweet" ],
     "published" : [ "2021-01-08T20:21:00+0000" ],
     "category" : [ "politics" ],
