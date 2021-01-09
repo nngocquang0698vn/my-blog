@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieDMJ/status/1347715220786057216" ],
     "name" : [ "Like of @JamieDMJ's tweet" ],
     "published" : [ "2021-01-09T10:44:00+0000" ],
     "category" : [ "politics" ],
