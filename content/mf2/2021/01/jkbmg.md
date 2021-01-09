@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DavidLevyMusic/status/1347640841595138048" ],
     "name" : [ "Like of @DavidLevyMusic's tweet" ],
     "published" : [ "2021-01-09T19:36:00+0000" ],
     "category" : [ "iot" ],
