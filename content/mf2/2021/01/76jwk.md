@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ossia/status/1347713968266100739" ],
     "name" : [ "Like of @ossia's tweet" ],
     "published" : [ "2021-01-09T10:49:00+0000" ],
     "category" : [ "politics" ],
