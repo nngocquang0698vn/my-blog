@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347713968266100739" ],
+    "url" : [ "https://twitter.com/ossia/status/1347713968266100739" ],
+    "published" : [ "2021-01-09T01:17:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ossia" ],
+        "numeric-id" : [ "341643950" ],
+        "name" : [ "Quincy Larson" ],
+        "nickname" : [ "ossia" ],
+        "url" : [ "https://twitter.com/ossia", "https://www.freeCodeCamp.org" ],
+        "published" : [ "2011-07-24T18:24:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dallas, Texas, US, Earth" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1267896118991519744/wFIkpxuq.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Apparently Parler just got pulled from the Google App store.\n\nOver at TheDonald they're teaching each other how to install the PWA version.\n\nI thought this exchange was funny.",
+      "html" : "<div style=\"white-space: pre\">Apparently Parler just got pulled from the Google App store.\n\nOver at TheDonald they're teaching each other how to install the PWA version.\n\nI thought this exchange was funny.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ErQKi1vUYAEDvLm.jpg" ]
+  }
+}
