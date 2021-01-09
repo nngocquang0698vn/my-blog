@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karaluton/status/1347587165316927491" ],
     "name" : [ "Like of @karaluton's tweet" ],
     "published" : [ "2021-01-09T11:38:00+0000" ],
     "category" : [ "battlestations" ],
