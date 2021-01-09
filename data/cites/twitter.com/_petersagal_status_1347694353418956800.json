@@ -1,0 +1,65 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347694353418956800" ],
+    "url" : [ "https://twitter.com/petersagal/status/1347694353418956800" ],
+    "published" : [ "2021-01-08T23:59:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:petersagal" ],
+        "numeric-id" : [ "14985228" ],
+        "name" : [ "Peter Sagal" ],
+        "nickname" : [ "petersagal" ],
+        "url" : [ "https://twitter.com/petersagal", "http://www.simonandschuster.com/books/The-Incomplete-Book-of-Running/Peter-Sagal/9781451696240#" ],
+        "published" : [ "2008-06-02T21:16:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1026560216631070726/b2yTUYd6.jpg" ]
+      }
+    } ],
+    "content" : [ "Took me fifteen seconds: https://t.co/2WlRsRYVdc" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErP43mwXEAQFHMg.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1347678192123990016" ],
+      "url" : [ "https://twitter.com/tedcruz/status/1347678192123990016" ],
+      "published" : [ "2021-01-08T22:54:54+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:tedcruz" ],
+          "numeric-id" : [ "23022687" ],
+          "name" : [ "Ted Cruz" ],
+          "nickname" : [ "tedcruz" ],
+          "url" : [ "https://twitter.com/tedcruz", "http://www.OneVoteAway.com" ],
+          "published" : [ "2009-03-06T03:20:20+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Houston, Texas" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Really sad. At a time of deep national division, President-elect Biden’s choice to call his political opponents literal Nazis does nothing to bring us together or promote healing.  \n\nThis kind of vicious partisan rhetoric only tears our country apart.",
+        "html" : "<div style=\"white-space: pre\">Really sad. At a time of deep national division, President-elect Biden’s choice to call his political opponents literal Nazis does nothing to bring us together or promote healing.  \n\nThis kind of vicious partisan rhetoric only tears our country apart.</div>\n<a class=\"tag\" href=\"https://twitter.com/jameshohmann/status/1347638041251348483\">twitter.com/jameshohmann/s…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/jameshohmann/s…" ],
+        "url" : [ "https://twitter.com/jameshohmann/status/1347638041251348483" ]
+      }
+    } ]
+  } ]
+}
