@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TonaldDrump45an/status/1347707522992508928" ],
     "name" : [ "Like of @TonaldDrump45an's tweet" ],
     "published" : [ "2021-01-09T15:17:00+0000" ],
     "category" : [ "satire", "politics" ],
