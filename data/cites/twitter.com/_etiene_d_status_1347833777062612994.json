@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347833777062612994" ],
+    "url" : [ "https://twitter.com/etiene_d/status/1347833777062612994" ],
+    "published" : [ "2021-01-09T09:13:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:etiene_d" ],
+        "numeric-id" : [ "356299886" ],
+        "name" : [ "Etiene Dalcol (sign-up for Polygloss early beta!)" ],
+        "nickname" : [ "etiene_d" ],
+        "url" : [ "https://twitter.com/etiene_d", "http://etiene.net" ],
+        "published" : [ "2011-08-16T17:00:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "From Brazil, Living in London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310882806298546178/BcllTpm0.jpg" ]
+      }
+    } ],
+    "content" : [ "I have a feeling this is going to be a new huge shitshow in tech" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1347654921957478400" ],
+      "url" : [ "https://twitter.com/othiym23/status/1347654921957478400" ],
+      "published" : [ "2021-01-08T21:22:26+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/wwahammy/status/1347627228788649984" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:othiym23" ],
+          "numeric-id" : [ "1036773583245082624" ],
+          "name" : [ "🏴 Forrest🍃Norvell 🚩" ],
+          "nickname" : [ "othiym23" ],
+          "url" : [ "https://twitter.com/othiym23" ],
+          "published" : [ "2018-09-04T00:30:59+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Ramaytush / Ohlone land, cession 274" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1036864594084421632/hb8RmtIM.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "employee sad nazis are bad, got fired by head of HR",
+        "html" : "employee sad nazis are bad, got fired by head of HR\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alicegoldfuss\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wwahammy\"></a>"
+      } ]
+    }
+  } ]
+}
