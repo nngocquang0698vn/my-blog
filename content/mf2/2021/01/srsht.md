@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vianerds/status/1347682164830216195" ],
     "name" : [ "Like of @vianerds's tweet" ],
     "published" : [ "2021-01-09T12:24:00+0000" ],
     "like-of" : [ "https://twitter.com/vianerds/status/1347682164830216195" ]
