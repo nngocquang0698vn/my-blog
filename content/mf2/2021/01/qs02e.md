@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OwenJones84/status/1347928973670567951" ],
     "name" : [ "Like of @OwenJones84's tweet" ],
     "published" : [ "2021-01-09T19:39:00+0000" ],
     "like-of" : [ "https://twitter.com/OwenJones84/status/1347928973670567951" ]
