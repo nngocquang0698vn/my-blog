@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347710836140347396" ],
+    "url" : [ "https://twitter.com/KeziyahL/status/1347710836140347396" ],
+    "published" : [ "2021-01-09T01:04:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KeziyahL" ],
+        "numeric-id" : [ "48132954" ],
+        "name" : [ "keziyah" ],
+        "nickname" : [ "KeziyahL" ],
+        "url" : [ "https://twitter.com/KeziyahL" ],
+        "published" : [ "2009-06-17T21:56:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Central Florida" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1185307412187754496/TR14B2sV.jpg" ]
+      }
+    } ],
+    "content" : [ "So if Parler were as big & influential as Facebook, and paid similar salaries, would tech folks make excuses for working there too?" ]
+  }
+}
