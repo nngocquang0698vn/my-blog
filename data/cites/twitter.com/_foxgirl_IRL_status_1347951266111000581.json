@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347951266111000581" ],
+    "url" : [ "https://twitter.com/foxgirl_IRL/status/1347951266111000581" ],
+    "published" : [ "2021-01-09T17:00:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:foxgirl_IRL" ],
+        "numeric-id" : [ "1012340144" ],
+        "name" : [ "こちゃん 🦊🌸" ],
+        "nickname" : [ "foxgirl_IRL" ],
+        "url" : [ "https://twitter.com/foxgirl_IRL", "https://kokoscript.com" ],
+        "published" : [ "2012-12-15T01:50:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her, 19" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345768093449072648/_FujMxUv.jpg" ]
+      }
+    } ],
+    "content" : [ "what if CPUs came in wrappers like bite-sized candies" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErRI9FOWMAM4FtR.jpg", "https://pbs.twimg.com/media/ErRI9xoW4AInYMV.jpg", "https://pbs.twimg.com/media/ErRI_rQWMAAcw20.jpg", "https://pbs.twimg.com/media/ErRJAa7WMAEubpu.jpg" ]
+  }
+}
