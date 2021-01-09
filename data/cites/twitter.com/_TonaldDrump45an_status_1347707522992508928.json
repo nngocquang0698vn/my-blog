@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347707522992508928" ],
+    "url" : [ "https://twitter.com/TonaldDrump45an/status/1347707522992508928" ],
+    "published" : [ "2021-01-09T00:51:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TonaldDrump45an" ],
+        "numeric-id" : [ "1347702582689542145" ],
+        "name" : [ "Tonald Drump" ],
+        "nickname" : [ "TonaldDrump45an" ],
+        "url" : [ "https://twitter.com/TonaldDrump45an" ],
+        "published" : [ "2021-01-09T00:32:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Egg Shaped Office" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347704687609454593/idwXRW1v.jpg" ]
+      }
+    } ],
+    "content" : [ "Hi there, I'm new to Twitter and looking to make new friends." ]
+  }
+}
