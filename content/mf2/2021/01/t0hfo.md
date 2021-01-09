@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/etiene_d/status/1347833777062612994" ],
     "name" : [ "Like of @etiene_d's tweet" ],
     "published" : [ "2021-01-09T10:48:00+0000" ],
     "category" : [ "github" ],
