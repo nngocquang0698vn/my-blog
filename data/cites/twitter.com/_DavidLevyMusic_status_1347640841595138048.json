@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347640841595138048" ],
+    "url" : [ "https://twitter.com/DavidLevyMusic/status/1347640841595138048" ],
+    "published" : [ "2021-01-08T20:26:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DavidLevyMusic" ],
+        "numeric-id" : [ "2604614774" ],
+        "name" : [ "David Levy" ],
+        "nickname" : [ "DavidLevyMusic" ],
+        "url" : [ "https://twitter.com/DavidLevyMusic", "http://linktr.ee/Davidlevymusic" ],
+        "published" : [ "2014-07-05T02:49:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, Texas" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/485254424189624321/uwOhGpG3.jpeg" ]
+      }
+    } ],
+    "content" : [ "All set." ],
+    "photo" : [ "https://pbs.twimg.com/media/ErPIM8JWMAAGzRE.jpg" ]
+  }
+}
