@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347587165316927491" ],
+    "url" : [ "https://twitter.com/karaluton/status/1347587165316927491" ],
+    "published" : [ "2021-01-08T16:53:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:karaluton" ],
+        "numeric-id" : [ "163729608" ],
+        "name" : [ "Kara Luton 🩰👩🏼‍💻" ],
+        "nickname" : [ "karaluton" ],
+        "url" : [ "https://twitter.com/karaluton", "https://www.karaluton.com" ],
+        "published" : [ "2010-07-07T03:51:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nashville, TN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1010566462782701568/6sDbHiB0.jpg" ]
+      }
+    } ],
+    "content" : [ "My office is slowly coming together. Still need to get curtains, a credenza and some hanging planters, but we’re getting there!" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/ErOXYioWMAAHQjw.jpg",
+      "alt" : "Close up of Kara’s desk with an open laptop, a monitor and a mechanical keyboard."
+    }, {
+      "value" : "https://pbs.twimg.com/media/ErOXYioXEAAAPOY.jpg",
+      "alt" : "Wide shot of Kara’s office"
+    }, {
+      "value" : "https://pbs.twimg.com/media/ErOXYinXMAQBYgq.jpg",
+      "alt" : "Close up of the front of Kara’s desk"
+    } ]
+  }
+}
