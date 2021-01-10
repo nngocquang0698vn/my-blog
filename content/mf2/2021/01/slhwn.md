@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1348293660031463424" ],
     "photo" : [ {
       "alt" : "Jamie standing next to a cat tower with a black cat, Morph, sitting on top of it, looking out the living room window together, trying to see if there are any birds behind our monkey puzzle tree",
       "photo" : "https://media.jvt.me/95a0512cfe.jpeg"
