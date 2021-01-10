@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347941810346274816" ],
+    "url" : [ "https://twitter.com/doctor_oxford/status/1347941810346274816" ],
+    "published" : [ "2021-01-09T16:22:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:doctor_oxford" ],
+        "numeric-id" : [ "3383159573" ],
+        "name" : [ "Rachel Clarke" ],
+        "nickname" : [ "doctor_oxford" ],
+        "url" : [ "https://twitter.com/doctor_oxford", "http://doctoroxford.com" ],
+        "published" : [ "2015-07-19T14:53:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The NHS (VMO)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/882703409832497152/4Vf4OKQs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Already we are treating families who caught Covid when a relative  joined them on Christmas Day, only to test positive afterwards.\n\nI’m not sure I can ever forgive @BorisJohnson for inviting Christmas mixing. He’s supercharged the pandemic 😔\n\n bbc.co.uk/news/uk-556051…",
+      "html" : "<div style=\"white-space: pre\">Already we are treating families who caught Covid when a relative  joined them on Christmas Day, only to test positive afterwards.\n\nI’m not sure I can ever forgive <a href=\"https://twitter.com/BorisJohnson\">@BorisJohnson</a> for inviting Christmas mixing. He’s supercharged the pandemic 😔\n\n <a href=\"https://www.bbc.co.uk/news/uk-55605173\">bbc.co.uk/news/uk-556051…</a></div>"
+    } ]
+  }
+}
