@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LadyDoctorSays/status/1348003901388283904" ],
     "name" : [ "Like of @LadyDoctorSays's tweet" ],
     "published" : [ "2021-01-10T23:18:00+0000" ],
     "category" : [ "sparkling" ],
