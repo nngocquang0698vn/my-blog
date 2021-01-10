@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348266599216795648" ],
+    "url" : [ "https://twitter.com/telegram/status/1348266599216795648" ],
+    "video" : [ "https://video.twimg.com/tweet_video/ErYBQ03XUAAPSHJ.mp4" ],
+    "published" : [ "2021-01-10T13:53:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:telegram" ],
+        "numeric-id" : [ "1689053928" ],
+        "name" : [ "Telegram Messenger" ],
+        "nickname" : [ "telegram" ],
+        "url" : [ "https://twitter.com/telegram", "http://telegram.org" ],
+        "published" : [ "2013-08-21T19:47:05+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7.jpg" ]
+      }
+    } ]
+  }
+}
