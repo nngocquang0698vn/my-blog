@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doctor_oxford/status/1347941810346274816" ],
     "name" : [ "Like of @doctor_oxford's tweet" ],
     "published" : [ "2021-01-10T19:07:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
