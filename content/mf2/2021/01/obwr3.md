@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JitsuNiHarashou/status/1348134892404662272" ],
     "name" : [ "Like of @JitsuNiHarashou's tweet" ],
     "published" : [ "2021-01-10T14:22:00+0000" ],
     "category" : [ "star-trek", "politics", "coronavirus" ],
