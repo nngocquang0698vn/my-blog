@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/saintknives/status/1348284271778287616" ],
     "name" : [ "Like of @saintknives's tweet" ],
     "published" : [ "2021-01-10T22:51:00+0000" ],
     "like-of" : [ "https://twitter.com/saintknives/status/1348284271778287616" ]
