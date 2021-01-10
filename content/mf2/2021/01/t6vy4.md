@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WholesomeMeme/status/1348270872109449220" ],
     "name" : [ "Like of @WholesomeMeme's tweet" ],
     "published" : [ "2021-01-10T19:58:00+0000" ],
     "category" : [ "cute" ],
