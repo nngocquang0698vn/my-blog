@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348003901388283904" ],
+    "url" : [ "https://twitter.com/LadyDoctorSays/status/1348003901388283904" ],
+    "published" : [ "2021-01-09T20:29:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LadyDoctorSays" ],
+        "numeric-id" : [ "621081863" ],
+        "name" : [ "Thee Lady Doctor Says تقول الطبيبة" ],
+        "nickname" : [ "LadyDoctorSays" ],
+        "url" : [ "https://twitter.com/LadyDoctorSays" ],
+        "published" : [ "2012-06-28T15:36:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1286522717705891842/2xohT5D0.jpg" ]
+      }
+    } ],
+    "content" : [ "It's only cancel culture if it comes from the Cânçelle region of France. Otherwise it's just sparkling consequences." ]
+  }
+}
