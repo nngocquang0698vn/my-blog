@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347995508149604352" ],
+    "url" : [ "https://twitter.com/tuckwoodstock/status/1347995508149604352" ],
+    "published" : [ "2021-01-09T19:55:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tuckwoodstock" ],
+        "numeric-id" : [ "1539223597" ],
+        "name" : [ "Tuck Woodstock" ],
+        "nickname" : [ "tuckwoodstock" ],
+        "url" : [ "https://twitter.com/tuckwoodstock", "https://linktr.ee/montucky" ],
+        "published" : [ "2013-06-22T17:58:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1303109206837358592/40wTShlJ.jpg" ]
+      }
+    } ],
+    "content" : [ "Has there ever been a more iconic week on Twitter dot com than the one that started with a man refusing to open the beans and ended with the president of the United States being banned for instigating a coup." ]
+  }
+}
