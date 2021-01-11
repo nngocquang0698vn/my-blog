@@ -19,6 +19,8 @@ syndication:
 ---
 Over this last weekend I've built a small Ruby script for generating Postman Collections for Micropub servers as part of the [Postman API Hackathon](https://blog.postman.com/postman-api-hackathon/), and thought I'd write it up for those who are interested in it.
 
+I'd originally started this as a Java hack, but given I was having issues with generating Java objects (POJOs) for the JSON schema, and I wanted to treat it as a hackathon and build a thing quickly, I pivoted to Ruby, which is my primary scripting language. It also meant that I'd be able to get using the [Microformats library](https://github.com/microformats/microformats-ruby), which doesn't (yet) exist for Java.
+
 # Why?
 
 [Micropub](https://micropub.spec.indieweb.org/) is an awesome standard, and makes it straightforward to have a standard API for interacting with content (on your website). I've been really enjoying it over the last year of working with it, and am really glad there's been some good progress to making a standard API for updating content.
