@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bafeldman/status/1348723539625570309" ],
     "name" : [ "Like of @bafeldman's tweet" ],
     "published" : [ "2021-01-11T22:37:00+0000" ],
     "category" : [ "politics" ],
