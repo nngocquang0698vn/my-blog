@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/schmoyoho/status/1347053742521262082" ],
     "name" : [ "Like of @schmoyoho's tweet" ],
     "published" : [ "2021-01-11T16:36:00+0000" ],
     "category" : [ "politics" ],
