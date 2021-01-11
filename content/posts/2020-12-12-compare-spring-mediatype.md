@@ -16,6 +16,8 @@ But the issue is that this doesn't always work for what we want it to.
 
 For instance, if you're expecting `application/json`, but receive a request with `application/json;charset=UTF-8` or `application/json;v=1` will not match.
 
+Update 2021-01-11: Although the below may be helpful, it is unnecessary as `MediaType` provides the [`isCompatibleWith` method](https://www.javadoc.io/doc/org.springframework/spring-web/latest/org/springframework/http/MediaType.html) for this exact reason!
+
 The solution I've used is the below, to provide us a straightforward way to ignore parameters from the equality check:
 
 ```java
