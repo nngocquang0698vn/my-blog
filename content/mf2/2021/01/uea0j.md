@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/madebyjenni/status/1348590219432517636" ],
     "name" : [ "Like of @madebyjenni's tweet" ],
     "published" : [ "2021-01-11T16:56:00+0000" ],
     "like-of" : [ "https://twitter.com/madebyjenni/status/1348590219432517636" ]
