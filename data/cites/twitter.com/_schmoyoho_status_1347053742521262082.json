@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1347053742521262082" ],
+    "url" : [ "https://twitter.com/schmoyoho/status/1347053742521262082" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1347053550799626242/pu/vid/1274x720/Lf7kcu2N8SJ0PZgn.mp4?tag=10" ],
+    "published" : [ "2021-01-07T05:33:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:schmoyoho" ],
+        "numeric-id" : [ "20735177" ],
+        "name" : [ "schmoyoho, accent on the whooo did this" ],
+        "nickname" : [ "schmoyoho" ],
+        "url" : [ "https://twitter.com/schmoyoho", "http://youtube.com/schmoyoho" ],
+        "published" : [ "2009-02-13T00:28:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332523247963938817/9TPsoPsA.jpg" ]
+      }
+    } ],
+    "content" : [ "Animaniacs is the key to all of this" ]
+  }
+}
