@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348723539625570309" ],
+    "url" : [ "https://twitter.com/bafeldman/status/1348723539625570309" ],
+    "published" : [ "2021-01-11T20:08:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bafeldman" ],
+        "numeric-id" : [ "3250301" ],
+        "name" : [ "brian feldman" ],
+        "nickname" : [ "bafeldman" ],
+        "url" : [ "https://twitter.com/bafeldman", "http://feldman.cool", "http://bnet.substack.com" ],
+        "published" : [ "2007-04-02T21:04:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1276204012942082054/xE2GbFW5.jpg" ]
+      }
+    } ],
+    "content" : [ "software engineer here to explain what’s going on with the state department’s website right now. here’s what’s up: literally no single person has any idea how a website works and they’re all varying degrees of broken" ]
+  }
+}
