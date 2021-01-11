@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348714609772011523" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1348714609772011523" ],
+    "published" : [ "2021-01-11T19:33:15+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1326290227749679105" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336683234504155137/GN5t8jE3.jpg" ]
+      }
+    } ],
+    "content" : [ "I have neglected this thread so much! Expect a flurry soon 🏃‍♀️" ]
+  }
+}
