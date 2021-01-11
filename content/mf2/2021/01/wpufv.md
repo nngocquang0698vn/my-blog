@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DeathStarPR/status/1348476678880706561" ],
     "name" : [ "Like of @DeathStarPR's tweet" ],
     "published" : [ "2021-01-11T13:38:00+0000" ],
     "category" : [ "politics", "satire", "star-wars" ],
