@@ -51,10 +51,4 @@ For servers that do not support the above, you'll receive a sensible default, bu
 
 You can see an example of the generated configuration from my staging server, which is available as [a snippet on GitLab](https://gitlab.com/jamietanna/micropub-postman/-/snippets/2059598), or you can try it against your own server based on instructions [in the README](https://gitlab.com/jamietanna/micropub-postman).
 
-# Caveats
-
-I'd hoped that this originally could've been a service that folks could simply point a URL to and generate the configuration required. Unfortunately this doesn't quite work, as most folks protect their configuration endpoint.
-
-This is something that I've since forgotten, as I made it a choice not to require authentication.
-
-I'll look at this [as a follow-up](https://gitlab.com/jamietanna/micropub-postman/-/issues/1), maybe allowing folks to log into the app via IndieAuth, which would provide an access token to allow requesting the Micropub configuration.
+You can also use the [Heroku App](https://micropub-postman.herokuapp.com/) which will allow you to log in and receive your Micropub configuration, straight in the browser!
