@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348107869900709888" ],
+    "url" : [ "https://twitter.com/GinaUrso/status/1348107869900709888" ],
+    "published" : [ "2021-01-10T03:22:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:GinaUrso" ],
+        "numeric-id" : [ "977535552" ],
+        "name" : [ "Gina Urso" ],
+        "nickname" : [ "GinaUrso" ],
+        "url" : [ "https://twitter.com/GinaUrso", "http://ginaurso.com" ],
+        "published" : [ "2012-11-29T04:00:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Illinois, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1221159209812877312/8NU7S2F3.jpg" ]
+      }
+    } ],
+    "content" : [ "My son’s dog taking a bath is all the cuteness my heart needs tonight." ],
+    "photo" : [ "https://pbs.twimg.com/media/ErVw9hRXEAI7Q8H.jpg" ]
+  }
+}
