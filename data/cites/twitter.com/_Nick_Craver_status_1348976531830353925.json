@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348976531830353925" ],
+    "url" : [ "https://twitter.com/Nick_Craver/status/1348976531830353925" ],
+    "published" : [ "2021-01-12T12:54:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Nick_Craver" ],
+        "numeric-id" : [ "95030839" ],
+        "name" : [ "Nick Craver" ],
+        "nickname" : [ "Nick_Craver" ],
+        "url" : [ "https://twitter.com/Nick_Craver", "https://nickcraver.com" ],
+        "published" : [ "2009-12-06T16:53:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "North Carolina" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/623686606159872000/twD9NrLc.jpg" ]
+      }
+    } ],
+    "content" : [ "How do we impeach the USB 3 naming committee?" ],
+    "photo" : [ "https://pbs.twimg.com/media/EriG3nQWMAEPFzr.png" ]
+  }
+}
