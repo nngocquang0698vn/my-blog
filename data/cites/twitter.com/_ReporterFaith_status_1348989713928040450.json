@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348989713928040450" ],
+    "url" : [ "https://twitter.com/ReporterFaith/status/1348989713928040450" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1348989509422243842/pu/vid/640x360/_KXHLs5q32k9bg_W.mp4?tag=10" ],
+    "published" : [ "2021-01-12T13:46:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ReporterFaith" ],
+        "numeric-id" : [ "465884365" ],
+        "name" : [ "Faith Abubéy" ],
+        "nickname" : [ "ReporterFaith" ],
+        "url" : [ "https://twitter.com/ReporterFaith", "http://www.facebook.com/faithabubey" ],
+        "published" : [ "2012-01-16T20:53:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1172303127111860226/Z2_dr1T8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "WOW. Powerful moment on @CNN just now. Must watch. Sending you lots of love @sarasidnerCNN",
+      "html" : "WOW. Powerful moment on <a href=\"https://twitter.com/CNN\">@CNN</a> just now. Must watch. Sending you lots of love <a href=\"https://twitter.com/sarasidnerCNN\">@sarasidnerCNN</a>"
+    } ]
+  }
+}
