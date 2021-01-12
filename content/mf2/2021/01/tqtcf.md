@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ReporterFaith/status/1348989713928040450" ],
     "name" : [ "Like of @ReporterFaith's tweet" ],
     "published" : [ "2021-01-12T16:31:00+0000" ],
     "category" : [ "coronavirus" ],
