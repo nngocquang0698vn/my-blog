@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349102153332367361" ],
+    "url" : [ "https://twitter.com/DaveSchinkel/status/1349102153332367361" ],
+    "published" : [ "2021-01-12T21:13:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DaveSchinkel" ],
+        "numeric-id" : [ "20192621" ],
+        "name" : [ "Dave Schinkel" ],
+        "nickname" : [ "DaveSchinkel" ],
+        "url" : [ "https://twitter.com/DaveSchinkel", "http://WeDoTDD.com", "http://bit.ly/2HmcFfD", "http://bit.ly/2Qtxkjf", "http://twitch.tv/wedotdd" ],
+        "published" : [ "2009-02-05T21:48:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Palatine, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1138315113360961536/DAIkY2Fr.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I hear some \"OGs\" telling devs you don't need TDD anymore after you've done it \"long enough\"\n\nThe design feedback and safety and 20 other things TDD gives us, even the oldest practitioners we know we can't do without. I personally will never be ditching it.  \n\nDon't buy it.\n\n#TDD",
+      "html" : "<div style=\"white-space: pre\">I hear some \"OGs\" telling devs you don't need TDD anymore after you've done it \"long enough\"\n\nThe design feedback and safety and 20 other things TDD gives us, even the oldest practitioners we know we can't do without. I personally will never be ditching it.  \n\nDon't buy it.\n\n<a href=\"https://twitter.com/search?q=%23TDD\">#TDD</a></div>"
+    } ]
+  }
+}
