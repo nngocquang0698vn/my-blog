@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348985480231186432" ],
+    "url" : [ "https://twitter.com/CodeFoodPixels/status/1348985480231186432" ],
+    "published" : [ "2021-01-12T13:29:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CodeFoodPixels" ],
+        "numeric-id" : [ "14615608" ],
+        "name" : [ "Luke Bonaccorsi 🏳️‍🌈" ],
+        "nickname" : [ "CodeFoodPixels" ],
+        "url" : [ "https://twitter.com/CodeFoodPixels", "http://lukeb.co.uk" ],
+        "published" : [ "2008-05-01T15:46:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leeds, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1258417787837526016/l4naubnM.jpg" ]
+      }
+    } ],
+    "content" : [ "Just seen someone refer to the Parler archive as \"Fashley Madison\" 😂😂😂" ]
+  }
+}
