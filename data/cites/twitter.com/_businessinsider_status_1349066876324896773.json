@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349066876324896773" ],
+    "url" : [ "https://twitter.com/businessinsider/status/1349066876324896773" ],
+    "published" : [ "2021-01-12T18:53:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:businessinsider" ],
+        "numeric-id" : [ "20562637" ],
+        "name" : [ "Business Insider" ],
+        "nickname" : [ "businessinsider" ],
+        "url" : [ "https://twitter.com/businessinsider", "https://www.businessinsider.com/" ],
+        "published" : [ "2009-02-11T01:18:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "EXCLUSIVE: GitHub is facing employee backlash after the firing of a Jewish employee who suggested 'Nazis are about' on the day of the US Capitol siege businessinsider.com/microsoft-gith…",
+      "html" : "EXCLUSIVE: GitHub is facing employee backlash after the firing of a Jewish employee who suggested 'Nazis are about' on the day of the US Capitol siege <a href=\"http://www.businessinsider.com/microsoft-github-backlash-jewish-employee-termination-2021-1\">businessinsider.com/microsoft-gith…</a>"
+    } ]
+  }
+}
