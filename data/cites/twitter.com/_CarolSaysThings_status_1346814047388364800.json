@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1346814047388364800" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1346814047388364800" ],
+    "video" : [ "https://video.twimg.com/tweet_video/ErDYO_VXEAEDuHY.mp4" ],
+    "published" : [ "2021-01-06T13:41:06+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/MrAndrew/status/1346803004209561602" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336683234504155137/GN5t8jE3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MrAndrew\"></a>"
+    } ]
+  }
+}
