@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349097044099485696" ],
+    "url" : [ "https://twitter.com/beajammingh/status/1349097044099485696" ],
+    "published" : [ "2021-01-12T20:52:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:beajammingh" ],
+        "numeric-id" : [ "42007556" ],
+        "name" : [ "Bea Hughes" ],
+        "nickname" : [ "beajammingh" ],
+        "url" : [ "https://twitter.com/beajammingh", "https://girlcock.club/@bea" ],
+        "published" : [ "2009-05-23T10:33:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The stolen land of the Yelamu" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1256306612303626240/SwoIeMy0.png" ]
+      }
+    } ],
+    "content" : [ "Github: They're only Nazis if they're from the Germany-Austria parts of 1920s-1940s Europe, otherwise they're sparkling potential customers who papa Microsoft would never want us to offend." ]
+  }
+}
