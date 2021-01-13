@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349404782033686528" ],
+    "url" : [ "https://twitter.com/timbray/status/1349404782033686528" ],
+    "published" : [ "2021-01-13T17:15:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:timbray" ],
+        "numeric-id" : [ "1235521" ],
+        "name" : [ "Tim Bray" ],
+        "nickname" : [ "timbray" ],
+        "url" : [ "https://twitter.com/timbray", "https://www.tbray.org/ongoing/" ],
+        "published" : [ "2007-03-15T17:24:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vancouver!" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/421637246/Tim.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s important that this be widely disseminated so that people understand what Parler was." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1349299100286676993" ],
+      "url" : [ "https://twitter.com/jaysbookman/status/1349299100286676993" ],
+      "published" : [ "2021-01-13T10:15:48+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:jaysbookman" ],
+          "numeric-id" : [ "21684595" ],
+          "name" : [ "Jay Bookman" ],
+          "nickname" : [ "jaysbookman" ],
+          "url" : [ "https://twitter.com/jaysbookman" ],
+          "published" : [ "2009-02-23T19:39:04+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Atlanta, GA." ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/818448507862335489/D37T13ru.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Parler has sued Amazon for refusing to provide it web services, and conservatives have rallied to Parler's defense, claiming their views are being censored.\nIn its legal response, Amazon cites the type of Parler content that conservatives apparently want to defend. \nTake a look:",
+        "html" : "<div style=\"white-space: pre\">Parler has sued Amazon for refusing to provide it web services, and conservatives have rallied to Parler's defense, claiming their views are being censored.\nIn its legal response, Amazon cites the type of Parler content that conservatives apparently want to defend. \nTake a look:</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/ErmsPEyXAAYzEEH.jpg", "https://pbs.twimg.com/media/ErmsRSzXMAAqZ2R.jpg" ]
+    }
+  } ]
+}
