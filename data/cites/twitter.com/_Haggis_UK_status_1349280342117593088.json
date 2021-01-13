@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349280342117593088" ],
+    "url" : [ "https://twitter.com/Haggis_UK/status/1349280342117593088" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1349280169798864896/pu/vid/1152x720/13AEP018dnEhgEPS.mp4?tag=10" ],
+    "published" : [ "2021-01-13T09:01:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Haggis_UK" ],
+        "numeric-id" : [ "351784239" ],
+        "name" : [ "Haggis_UK 🇬🇧 🇪🇺" ],
+        "nickname" : [ "Haggis_UK" ],
+        "url" : [ "https://twitter.com/Haggis_UK" ],
+        "published" : [ "2011-08-09T18:44:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Haggis HQ" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486695046/images.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Matt Hancock - I'm really glad that we can send out free school meals when schools are out. \n\nPiers Morgan  - If you're that glad... why did you vote against giving free school meals?\n\n#GMB",
+      "html" : "<div style=\"white-space: pre\">Matt Hancock - I'm really glad that we can send out free school meals when schools are out. \n\nPiers Morgan  - If you're that glad... why did you vote against giving free school meals?\n\n<a href=\"https://twitter.com/search?q=%23GMB\">#GMB</a></div>"
+    } ]
+  }
+}
