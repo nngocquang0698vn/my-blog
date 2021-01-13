@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1348735487188422659" ],
+    "url" : [ "https://twitter.com/munson_jo/status/1348735487188422659" ],
+    "published" : [ "2021-01-11T20:56:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:munson_jo" ],
+        "numeric-id" : [ "1282789043948806145" ],
+        "name" : [ "munson_jo" ],
+        "nickname" : [ "munson_jo" ],
+        "url" : [ "https://twitter.com/munson_jo" ],
+        "published" : [ "2020-07-13T21:28:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Eugene, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288643084318695424/ga2B3_ru.jpg" ]
+      }
+    } ],
+    "content" : [ "Pelosi said her young staffers knew to barricade the door, turn out the lights, and be silent, because they learned it in school." ]
+  }
+}
