@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349542353200025601" ],
+    "url" : [ "https://twitter.com/CamThePerson/status/1349542353200025601" ],
+    "published" : [ "2021-01-14T02:22:24+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jackaldinho/status/1349375487710273537" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CamThePerson" ],
+        "numeric-id" : [ "1120959673" ],
+        "name" : [ "Cameron Hermens" ],
+        "nickname" : [ "CamThePerson" ],
+        "url" : [ "https://twitter.com/CamThePerson", "http://CamThePerson.com" ],
+        "published" : [ "2013-01-26T04:35:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1096520106207629313/UfmYMDP6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This took somewhere around 8 hours (sous vide then reverse seared). Worth it.",
+      "html" : "This took somewhere around 8 hours (sous vide then reverse seared). Worth it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jackaldinho\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ErqJmIOUcAAC5kK.jpg" ]
+  }
+}
