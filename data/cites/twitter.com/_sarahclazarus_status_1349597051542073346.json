@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349597051542073346" ],
+    "url" : [ "https://twitter.com/sarahclazarus/status/1349597051542073346" ],
+    "published" : [ "2021-01-14T05:59:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarahclazarus" ],
+        "numeric-id" : [ "2289160027" ],
+        "name" : [ "Sarah Lazarus" ],
+        "nickname" : [ "sarahclazarus" ],
+        "url" : [ "https://twitter.com/sarahclazarus", "http://crooked.com/newsletters" ],
+        "published" : [ "2014-01-13T05:40:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "los angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1185696520206553088/-qx4LAT6.jpg" ]
+      }
+    } ],
+    "content" : [ "lost the popular vote, impeached, got coronavirus, lost the popular vote and the election, banned from the internet, impeached. what a run" ]
+  }
+}
