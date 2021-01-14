@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349806324628992000" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1349806324628992000" ],
+    "published" : [ "2021-01-14T19:51:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349794094562877442/VSq0jFlw.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A young white guy just cornered me in the supermarket and demanded I explain to him how to make a Tiramisu.\n\nHis Tiramisu is therefore going to be made with Quark and Tuc biscuits.\n\nTwat.",
+      "html" : "<div style=\"white-space: pre\">A young white guy just cornered me in the supermarket and demanded I explain to him how to make a Tiramisu.\n\nHis Tiramisu is therefore going to be made with Quark and Tuc biscuits.\n\nTwat.</div>"
+    } ]
+  }
+}
