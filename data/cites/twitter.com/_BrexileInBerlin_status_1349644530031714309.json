@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349644530031714309" ],
+    "url" : [ "https://twitter.com/BrexileInBerlin/status/1349644530031714309" ],
+    "published" : [ "2021-01-14T09:08:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BrexileInBerlin" ],
+        "numeric-id" : [ "1031618194560233475" ],
+        "name" : [ "🇪🇺 Brexile In Berlin 🇩🇪" ],
+        "nickname" : [ "BrexileInBerlin" ],
+        "url" : [ "https://twitter.com/BrexileInBerlin", "http://brexileinberlin.de/" ],
+        "published" : [ "2018-08-20T19:05:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1090646735544827911/jaylAY9R.jpg" ]
+      }
+    } ],
+    "content" : [ "How it started              How it's going" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErrmhXNXcAAv8yx.jpg", "https://pbs.twimg.com/media/ErrmjAtWMAIifl7.jpg" ]
+  }
+}
