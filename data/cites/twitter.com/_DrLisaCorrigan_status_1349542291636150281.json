@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349542291636150281" ],
+    "url" : [ "https://twitter.com/DrLisaCorrigan/status/1349542291636150281" ],
+    "published" : [ "2021-01-14T02:22:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DrLisaCorrigan" ],
+        "numeric-id" : [ "956244469" ],
+        "name" : [ "Dr. Lisa Corrigan" ],
+        "nickname" : [ "DrLisaCorrigan" ],
+        "url" : [ "https://twitter.com/DrLisaCorrigan" ],
+        "published" : [ "2012-11-18T21:10:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Arkansas" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1055260190105206784/EiXl5QhV.jpg" ]
+      }
+    } ],
+    "content" : [ "Get in girls. We're going hunting." ],
+    "photo" : [ "https://pbs.twimg.com/media/ErqJhlbXIAQz2Ce.png" ]
+  }
+}
