@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1349805735975280640" ],
+    "url" : [ "https://twitter.com/agentdero/status/1349805735975280640" ],
+    "published" : [ "2021-01-14T19:49:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:agentdero" ],
+        "numeric-id" : [ "674593" ],
+        "name" : [ "pro-democracy extremist" ],
+        "nickname" : [ "agentdero" ],
+        "url" : [ "https://twitter.com/agentdero", "https://brokenco.de/" ],
+        "published" : [ "2007-01-21T10:15:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1108174178430009345/jKK6CQ-q.png" ]
+      }
+    } ],
+    "content" : [ "wat" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ert0ocSU0AAlIOC.jpg" ]
+  }
+}
