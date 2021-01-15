@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350112400385605633" ],
+    "url" : [ "https://twitter.com/matvelloso/status/1350112400385605633" ],
+    "published" : [ "2021-01-15T16:07:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matvelloso" ],
+        "numeric-id" : [ "35414986" ],
+        "name" : [ "Mat Velloso" ],
+        "nickname" : [ "matvelloso" ],
+        "url" : [ "https://twitter.com/matvelloso", "http://www.matvelloso.com" ],
+        "published" : [ "2009-04-26T05:52:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Redmond, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346519572891881472/ILwZ4SDj.jpg" ]
+      }
+    } ],
+    "content" : [ "Every time I try to attach a photo into any work app I curse this fucking Android Work Profile..." ]
+  }
+}
