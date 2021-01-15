@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350057329870438401" ],
+    "url" : [ "https://twitter.com/trisha_gee/status/1350057329870438401" ],
+    "published" : [ "2021-01-15T12:28:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:trisha_gee" ],
+        "numeric-id" : [ "14162967" ],
+        "name" : [ "Trisha Gee" ],
+        "nickname" : [ "trisha_gee" ],
+        "url" : [ "https://twitter.com/trisha_gee", "http://trishagee.com" ],
+        "published" : [ "2008-03-17T13:15:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇪🇺🇪🇸🇬🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/783972460907593730/WpIbSRP3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "January's #Java Annotated Monthly is out now! This one is a huge monster of Java-and-related articles, tutorials, news etc\n\njb.gg/jam/jan21",
+      "html" : "<div style=\"white-space: pre\">January's <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> Annotated Monthly is out now! This one is a huge monster of Java-and-related articles, tutorials, news etc\n\n<a href=\"https://jb.gg/jam/jan21\">jb.gg/jam/jan21</a></div>"
+    } ]
+  }
+}
