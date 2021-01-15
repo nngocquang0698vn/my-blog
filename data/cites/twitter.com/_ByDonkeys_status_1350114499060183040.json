@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350114499060183040" ],
+    "url" : [ "https://twitter.com/ByDonkeys/status/1350114499060183040" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1350112812840996865/vid/720x720/dJ4qGpWkLK4vvYrx.mp4?tag=13" ],
+    "published" : [ "2021-01-15T16:15:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ByDonkeys" ],
+        "numeric-id" : [ "1073606435580325889" ],
+        "name" : [ "Led By Donkeys" ],
+        "nickname" : [ "ByDonkeys" ],
+        "url" : [ "https://twitter.com/ByDonkeys", "https://www.waterstones.com/book/led-by-donkeys/ledbydonkeys/ben-stewart/9781838950194" ],
+        "published" : [ "2018-12-14T15:51:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1085150433960706048/_T5T_iZY.jpg" ]
+      }
+    } ],
+    "content" : [ "The 'back to school' scandal. Millions of kids mixed unnecessarily for one day while the virus raged. Boris Johnson’s incompetence is costing lives. Sound on." ]
+  }
+}
