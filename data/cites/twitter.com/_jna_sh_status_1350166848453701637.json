@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350166848453701637" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1350166848453701637" ],
+    "published" : [ "2021-01-15T19:43:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/tanepiper/status/1350164965857124352" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342401247522004992/QOCvBRO6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "they are not better theregister.com/2019/10/16/git…",
+      "html" : "they are not better <a href=\"https://www.theregister.com/2019/10/16/gitlab_employees_gagged/\">theregister.com/2019/10/16/git…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tanepiper\"></a>"
+    } ]
+  }
+}
