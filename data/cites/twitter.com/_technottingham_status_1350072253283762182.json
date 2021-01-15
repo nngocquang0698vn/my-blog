@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350072253283762182" ],
+    "url" : [ "https://twitter.com/technottingham/status/1350072253283762182" ],
+    "published" : [ "2021-01-15T13:28:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🎉 What a fantastic #TechNott event we had on Monday! 🥰\n\nA big thank you to our speaker @0charactersleft, all our attendees and our wonderful sponsors:\n\n🌟 @IAmCapitalOne\n🌟 @cronofy\n🌟 @mhr_solutions",
+      "html" : "<div style=\"white-space: pre\">🎉 What a fantastic <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> event we had on Monday! 🥰\n\nA big thank you to our speaker <a href=\"https://twitter.com/0charactersleft\">@0charactersleft</a>, all our attendees and our wonderful sponsors:\n\n🌟 <a href=\"https://twitter.com/IAmCapitalOne\">@IAmCapitalOne</a>\n🌟 <a href=\"https://twitter.com/cronofy\">@cronofy</a>\n🌟 <a href=\"https://twitter.com/mhr_solutions\">@mhr_solutions</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ErxraplXUAUhRRf.jpg", "https://pbs.twimg.com/media/ErxrcIdXcAINLO_.jpg" ]
+  }
+}
