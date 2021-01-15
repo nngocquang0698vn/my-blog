@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350159432282357760" ],
+    "url" : [ "https://twitter.com/ZoeSchiffer/status/1350159432282357760" ],
+    "published" : [ "2021-01-15T19:14:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+        "numeric-id" : [ "808464904575299584" ],
+        "name" : [ "Zoë Schiffer" ],
+        "nickname" : [ "ZoeSchiffer" ],
+        "url" : [ "https://twitter.com/ZoeSchiffer", "https://www.theverge.com/pages/theinterface" ],
+        "published" : [ "2016-12-13T00:13:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339414834350182401/Cbwg03OA.jpg" ]
+      }
+    } ],
+    "content" : [ "The guy on the left still works at GitHub. The guy on the right was fired :/" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/Ery62NKUwAAGKB3.jpg",
+      "alt" : "An internal Slack message from a GitHub engineer that reads “nazis gave the Jews free healthcare”"
+    }, {
+      "value" : "https://pbs.twimg.com/media/Ery62NKUcAY6DlR.jpg",
+      "alt" : "An internal Slack message from an employee who was fired shortly after. It reads “stay safe homies, Nazis are about”"
+    } ]
+  }
+}
