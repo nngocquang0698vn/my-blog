@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350444139146575872" ],
+    "url" : [ "https://twitter.com/paulwalk/status/1350444139146575872" ],
+    "published" : [ "2021-01-16T14:05:47+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jezcope/status/1350427427974082563" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulwalk" ],
+        "numeric-id" : [ "6785192" ],
+        "name" : [ "Paul Walk" ],
+        "nickname" : [ "paulwalk" ],
+        "url" : [ "https://twitter.com/paulwalk", "http://www.paulwalk.net", "http://www.antleaf.com" ],
+        "published" : [ "2007-06-13T08:09:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Frome" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000850483898/405ec9ce5b52ad2f2cb7f9ac13da9541.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Following with interest...",
+      "html" : "Following with interest...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jezcope\"></a>"
+    } ]
+  }
+}
