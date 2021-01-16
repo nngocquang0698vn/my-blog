@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350393561926295553" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1350393561926295553" ],
+    "published" : [ "2021-01-16T10:44:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349794094562877442/VSq0jFlw.jpg" ]
+      }
+    } ],
+    "content" : [ "Every tech nerd out there who participates in Bitcoin: you're more guilty of fucking over the planet than any millionaire flying in their corporate jets." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1350057325957165057" ],
+      "url" : [ "https://twitter.com/splendidland/status/1350057325957165057" ],
+      "published" : [ "2021-01-15T12:28:44+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:splendidland" ],
+          "numeric-id" : [ "238581243" ],
+          "name" : [ "samanthuel🌱B*L*M" ],
+          "nickname" : [ "splendidland" ],
+          "url" : [ "https://twitter.com/splendidland", "http://splendid.land", "http://patreon.com/splendidland", "http://ko-fi.com/splendidland" ],
+          "published" : [ "2011-01-15T14:22:01+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Iscandar, Magellanic Cloud" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1135108387723784192/ZtUqnsfA.png" ]
+        }
+      } ],
+      "content" : [ "bitcoin mining rigs are incredible, a huge supercomputer factory that eats up the resources of our world to produce extremely valuable Nothing." ]
+    }
+  } ]
+}
