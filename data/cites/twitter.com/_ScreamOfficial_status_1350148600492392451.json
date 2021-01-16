@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350148600492392451" ],
+    "url" : [ "https://twitter.com/ScreamOfficial/status/1350148600492392451" ],
+    "published" : [ "2021-01-15T18:31:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ScreamOfficial" ],
+        "numeric-id" : [ "251705703" ],
+        "name" : [ "Primal Scream" ],
+        "nickname" : [ "ScreamOfficial" ],
+        "url" : [ "https://twitter.com/ScreamOfficial", "http://www.primalscream.net", "http://smarturl.it/PS_MXRNR" ],
+        "published" : [ "2011-02-13T17:52:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1106593096656191488/IY1eHmVR.png" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eryw_fwXYAg_vXG.jpg" ]
+  }
+}
