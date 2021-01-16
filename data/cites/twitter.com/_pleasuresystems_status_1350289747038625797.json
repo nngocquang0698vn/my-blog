@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350289747038625797" ],
+    "url" : [ "https://twitter.com/pleasuresystems/status/1350289747038625797" ],
+    "published" : [ "2021-01-16T03:52:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pleasuresystems" ],
+        "numeric-id" : [ "254378537" ],
+        "name" : [ "clarke" ],
+        "nickname" : [ "pleasuresystems" ],
+        "url" : [ "https://twitter.com/pleasuresystems", "https://pleasuresystems.bandcamp.com/album/terraform" ],
+        "published" : [ "2011-02-19T04:40:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293955076072058883/rW8RtZVb.jpg" ]
+      }
+    } ],
+    "content" : [ "scariest thing that ever happened to me was when I went to a bookstore on acid without knowing that Bill Clinton was speaking there" ],
+    "photo" : [ "https://pbs.twimg.com/media/Er0xXkuW4AEYapa.jpg" ]
+  }
+}
