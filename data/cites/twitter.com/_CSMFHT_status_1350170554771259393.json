@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350170554771259393" ],
+    "url" : [ "https://twitter.com/CSMFHT/status/1350170554771259393" ],
+    "published" : [ "2021-01-15T19:58:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CSMFHT" ],
+        "numeric-id" : [ "1230431996163178497" ],
+        "name" : [ "Classical Studies Memes for Hellenistic Teens" ],
+        "nickname" : [ "CSMFHT" ],
+        "url" : [ "https://twitter.com/CSMFHT", "https://www.redbubble.com/people/CSMFHT/shop?asc=u" ],
+        "published" : [ "2020-02-20T10:00:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Zealand" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343768735706882049/2P4rfrv2.jpg" ]
+      }
+    } ],
+    "content" : [ "Open for a surprise" ],
+    "photo" : [ "https://pbs.twimg.com/media/ErzE9r_VkAEMKq3.jpg" ]
+  }
+}
