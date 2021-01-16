@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350404745941413889" ],
+    "url" : [ "https://twitter.com/jonathanvswan/status/1350404745941413889" ],
+    "published" : [ "2021-01-16T11:29:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jonathanvswan" ],
+        "numeric-id" : [ "327862439" ],
+        "name" : [ "Jonathan Swan" ],
+        "nickname" : [ "jonathanvswan" ],
+        "url" : [ "https://twitter.com/jonathanvswan", "https://www.axios.com/" ],
+        "published" : [ "2011-07-02T08:39:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington D.C." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/776573397153288193/05FGnuTa.jpg" ]
+      }
+    } ],
+    "content" : [ "Ok this one is pretty good" ],
+    "photo" : [ "https://pbs.twimg.com/media/Er2Z37cXUAIwveE.jpg" ]
+  }
+}
