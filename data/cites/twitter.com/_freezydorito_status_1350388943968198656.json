@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350388943968198656" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1350388943968198656" ],
+    "published" : [ "2021-01-16T10:26:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "laura bananas" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://laura.monster" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "shoreditch exclusion zone" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349344607927201793/56WySXPz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "me on friday: haha! yes! lets chat next week! put some time in my calendar! draw a box on my magical pocket of future commitments! haha! i totes, monday is ok! whats that, you have a new project? no WE have a new project!\n\nwaking up on monday, full of regrets: why did i do this",
+      "html" : "<div style=\"white-space: pre\">me on friday: haha! yes! lets chat next week! put some time in my calendar! draw a box on my magical pocket of future commitments! haha! i totes, monday is ok! whats that, you have a new project? no WE have a new project!\n\nwaking up on monday, full of regrets: why did i do this</div>"
+    } ]
+  }
+}
