@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350120945495670787" ],
+    "url" : [ "https://twitter.com/HeyDoryen/status/1350120945495670787" ],
+    "published" : [ "2021-01-15T16:41:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HeyDoryen" ],
+        "numeric-id" : [ "2928934638" ],
+        "name" : [ "Doryen Chin 🥂👻 (Thembo; Horror Writer)" ],
+        "nickname" : [ "HeyDoryen" ],
+        "url" : [ "https://twitter.com/HeyDoryen", "http://summerhaven.games" ],
+        "published" : [ "2014-12-13T20:48:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349973619284213761/g4FaTRjO.jpg" ]
+      }
+    } ],
+    "content" : [ "christ." ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EryW_-aUcAEjwlL.jpg",
+      "alt" : "a tweet from user munson_jo which reads, \"Pelosi said her young staffers knew to barricade the door, turn out the lights, and be silent, because they learned it in school.\" "
+    }, {
+      "value" : "https://pbs.twimg.com/media/EryXCrtU0AE1zvs.png",
+      "alt" : "a pair of screenshots from The Good Place in which Chidi says, \"Okay, but that's worse. You, do, get how that's worse, right?\" "
+    } ]
+  }
+}
