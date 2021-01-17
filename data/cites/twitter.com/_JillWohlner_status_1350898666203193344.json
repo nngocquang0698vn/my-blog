@@ -1,0 +1,66 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350898666203193344" ],
+    "url" : [ "https://twitter.com/JillWohlner/status/1350898666203193344" ],
+    "published" : [ "2021-01-17T20:11:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JillWohlner" ],
+        "numeric-id" : [ "320792090" ],
+        "name" : [ "jill wohlner" ],
+        "nickname" : [ "JillWohlner" ],
+        "url" : [ "https://twitter.com/JillWohlner", "https://underpin.company" ],
+        "published" : [ "2011-06-20T14:51:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "St Louis, MO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330558253386915842/AcZ7Ojzy.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Heads of HR don’t operate in a vacuum and they make moves with approvals from their boss in the C-Suite.",
+      "html" : "Heads of HR don’t operate in a vacuum and they make moves with approvals from their boss in the C-Suite.\n<a class=\"tag\" href=\"https://twitter.com/githubpolicy/status/1350857738226528256\">twitter.com/githubpolicy/s…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1350857738226528256" ],
+      "url" : [ "https://twitter.com/GitHubPolicy/status/1350857738226528256" ],
+      "published" : [ "2021-01-17T17:29:17+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:GitHubPolicy" ],
+          "numeric-id" : [ "918222789512912896" ],
+          "name" : [ "GitHub Policy" ],
+          "nickname" : [ "GitHubPolicy" ],
+          "url" : [ "https://twitter.com/GitHubPolicy", "https://github.blog/category/company/policy/" ],
+          "published" : [ "2017-10-11T21:12:27+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/936308037685596160/LhdMTJdA.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "We found significant errors of judgment and procedure in a recent employee separation. We have reversed the separation, and our head of HR has taken personal accountability and resigned from GitHub. We apologize sincerely to the employee. github.blog/2021-01-17-upd…",
+        "html" : "We found significant errors of judgment and procedure in a recent employee separation. We have reversed the separation, and our head of HR has taken personal accountability and resigned from GitHub. We apologize sincerely to the employee. <a href=\"https://github.blog/2021-01-17-update-on-an-employee-matter/\">github.blog/2021-01-17-upd…</a>"
+      } ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/githubpolicy/s…" ],
+      "url" : [ "https://twitter.com/githubpolicy/status/1350857738226528256" ]
+    }
+  } ]
+}
