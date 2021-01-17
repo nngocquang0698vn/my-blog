@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350612426115452935" ],
+    "url" : [ "https://twitter.com/th3j35t3r/status/1350612426115452935" ],
+    "published" : [ "2021-01-17T01:14:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:th3j35t3r" ],
+        "numeric-id" : [ "97994396" ],
+        "name" : [ "JΞSŦΞR ✪ ΔCŦUΔL³³°¹" ],
+        "nickname" : [ "th3j35t3r" ],
+        "url" : [ "https://twitter.com/th3j35t3r", "https://counter.social", "http://counter.social" ],
+        "published" : [ "2009-12-19T22:27:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "https://keybase.io/th3j35t3r" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292262799637454849/QuUA1mzH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Anyone wanna know what Parler are trying to put together from other hosting providers that aren't AWS? \n\nRead this spec list. \n\nGood luck with this outside of AWS. Rob Monster of Epik Hosting won't be able to give them this kinda grunt with his shitty white-label reseller acct.",
+      "html" : "<div style=\"white-space: pre\">Anyone wanna know what Parler are trying to put together from other hosting providers that aren't AWS? \n\nRead this spec list. \n\nGood luck with this outside of AWS. Rob Monster of Epik Hosting won't be able to give them this kinda grunt with his shitty white-label reseller acct.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Er5WmBxXUAEpICW.jpg" ]
+  }
+}
