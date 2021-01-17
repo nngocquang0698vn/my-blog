@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350867332143443968" ],
+    "url" : [ "https://twitter.com/war_queer/status/1350867332143443968" ],
+    "published" : [ "2021-01-17T18:07:24+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/GitHubPolicy/status/1350857738226528256" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:war_queer" ],
+        "numeric-id" : [ "2324994079" ],
+        "name" : [ "Black lives still matter. 🏳️‍⚧️" ],
+        "nickname" : [ "war_queer" ],
+        "url" : [ "https://twitter.com/war_queer", "https://venmo.com/coffeeshark" ],
+        "published" : [ "2014-02-03T06:54:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "occupied Chochenyo Ohlone land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345258693953286144/to0f1PLN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "\"we're sorry we got caught this time\"",
+      "html" : "\"we're sorry we got caught this time\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GitHubPolicy\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alicegoldfuss\"></a>"
+    } ]
+  }
+}
