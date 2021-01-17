@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350843469175148546" ],
+    "url" : [ "https://twitter.com/carolstran/status/1350843469175148546" ],
+    "published" : [ "2021-01-17T16:32:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1158882662758723586/Of3f7wza.jpg" ]
+      }
+    } ],
+    "content" : [ "Spent a majority of this weekend researching butt plugs AMA" ]
+  }
+}
