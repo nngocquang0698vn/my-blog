@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350543768395669506" ],
+    "url" : [ "https://twitter.com/holly/status/1350543768395669506" ],
+    "published" : [ "2021-01-16T20:41:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:holly" ],
+        "numeric-id" : [ "7555262" ],
+        "name" : [ "Holly '8 Cats' Brockwell" ],
+        "nickname" : [ "holly" ],
+        "url" : [ "https://twitter.com/holly", "https://www.patreon.com/hollybrockwell" ],
+        "published" : [ "2007-07-18T10:27:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "From Nottingham, in London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248671410714804225/A_9KJ1y8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The moment I realised the world is getting too weird for me.\n\nThis is a photo.\n\nA photo so realistically animated that most people didn't even realise it was fake, a crossbreed of two memes, one of some men in tight trousers and one of ancient sea shanties.\n\nWhat is happening",
+      "html" : "<div style=\"white-space: pre\">The moment I realised the world is getting too weird for me.\n\nThis is a photo.\n\nA photo so realistically animated that most people didn't even realise it was fake, a crossbreed of two memes, one of some men in tight trousers and one of ancient sea shanties.\n\nWhat is happening</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1349824512544698369" ],
+      "url" : [ "https://twitter.com/vonstrenginho/status/1349824512544698369" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1349824110659067904/pu/vid/720x720/QlCUtqx9r90NQFsz.mp4?tag=10" ],
+      "published" : [ "2021-01-14T21:03:36+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:vonstrenginho" ],
+          "numeric-id" : [ "26534200" ],
+          "name" : [ "Kristian" ],
+          "nickname" : [ "vonstrenginho" ],
+          "url" : [ "https://twitter.com/vonstrenginho", "http://www.tv2.no" ],
+          "published" : [ "2009-03-25T16:45:07+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/757497752230256640/KDv_E89Q.jpg" ]
+        }
+      } ],
+      "content" : [ "Sea shanty tiktok is WILD" ]
+    }
+  } ]
+}
