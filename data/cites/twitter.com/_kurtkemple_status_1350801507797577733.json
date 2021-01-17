@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1350801507797577733" ],
+    "url" : [ "https://twitter.com/kurtkemple/status/1350801507797577733" ],
+    "published" : [ "2021-01-17T13:45:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kurtkemple" ],
+        "numeric-id" : [ "1056152730" ],
+        "name" : [ "theworstdev" ],
+        "nickname" : [ "kurtkemple" ],
+        "url" : [ "https://twitter.com/kurtkemple", "https://theworst.dev", "http://twitch.tv/theworstdev" ],
+        "published" : [ "2013-01-02T21:34:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chesapeake, VA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349493857981968385/W514-0l8.jpg" ]
+      }
+    } ],
+    "content" : [ "Should I make this a sticker?" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/Er8CFwCXAAAGrUY.jpg",
+      "alt" : "the phrase \"horny on main\" but it is presented like the project name is horny and its currently on a git branch named main. It also has a git branch icon between \"on\" and \"main\". \"horny\" is in a teal-ish color, \"on\" is in an off-white, and \"main\" and the branch icon are in pink."
+    } ]
+  }
+}
