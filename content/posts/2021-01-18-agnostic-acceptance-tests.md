@@ -46,6 +46,7 @@ With this in mind, we create two new classes:
 (Note that in the examples below I'll be using Rest Assured as my HTTP library of choice, but you can swap out the HTTP layer for whichever library work for you!)
 
 ```java
+import io.restassured.filter.Filter;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import java.util.UUID;
@@ -67,30 +68,34 @@ public class ProductServiceProxy {
   /**
    * Retrieve the health status of the service.
    *
+   * @param filters any {@link Filter}s to apply to the request
    * @return the response from the server
    */
-  public Response healthcheck() {
-    return prepare().basePath("/health").get();
+  public Response healthcheck(Filter... filters) {
+    return prepare(filters).basePath("/health").get();
   }
 
   /**
    * Retrieve a product by its identifier.
    *
    * @param productId the product identifier
+   * @param filters any {@link Filter}s to apply to the request
    * @return the response from the server
    */
-  public Response retrieveProduct(String productId) {
-    return prepare()
+  public Response retrieveProduct(String productId, Filter... filters) {
+    return prepare(filters)
         .header("Tracking-Id", UUID.randomUUID().toString())
         .basePath("/products/" + productId)
         .get();
   }
 
-  private RequestSpecification prepare() {
-    return supplier.get().baseUri(baseUri);
+  private RequestSpecification prepare(Filter... filters) {
+    return supplier.get().baseUri(baseUri).filters(Arrays.asList(filters));
   }
 }
 ```
+
+Note that the varargs `Filter`s allows us to add any other tweaks to the request before it goes out.
 
 ```java
 import io.restassured.specification.RequestSpecification;
