@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351113853518684161" ],
+    "url" : [ "https://twitter.com/geekjamesh/status/1351113853518684161" ],
+    "published" : [ "2021-01-18T10:26:59+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1351094474504605696" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:geekjamesh" ],
+        "numeric-id" : [ "2840248261" ],
+        "name" : [ "Geek" ],
+        "nickname" : [ "geekjamesh" ],
+        "url" : [ "https://twitter.com/geekjamesh", "http://libdemnewbies.org.uk" ],
+        "published" : [ "2014-10-04T13:41:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK, Europe" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/953224757683589120/tzbjL2Qj.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I think we can put that down as an essential food shop ;)",
+      "html" : "I think we can put that down as an essential food shop ;)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
