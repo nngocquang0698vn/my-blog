@@ -13,6 +13,11 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-18T12:03:16+0000
 slug: "agnostic-acceptance-tests"
+syndication:
+- text: Hacker News
+  url: https://news.ycombinator.com/item?id=25821189
+- text: Lobsters
+  url: https://lobste.rs/s/nhnffx/writing_environment_agnostic
 ---
 Functional Acceptance Tests are a great way of validating - on top of all the other testing we do - that the service(s) we're testing are performing their required business needs.
 
