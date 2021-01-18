@@ -56,11 +56,11 @@ import java.util.UUID;
  */
 public class ProductServiceProxy {
 
-  private RequestSupplier builder;
+  private RequestSupplier supplier;
   private String baseUri;
 
   public ProductServiceProxy(RequestSupplier supplier, String baseUri) {
-    this.builder = supplier;
+    this.supplier = supplier;
     this.baseUri = baseUri;
   }
 
@@ -87,7 +87,7 @@ public class ProductServiceProxy {
   }
 
   private RequestSpecification prepare() {
-    return builder.get().baseUri(baseUri);
+    return supplier.get().baseUri(baseUri);
   }
 }
 ```
