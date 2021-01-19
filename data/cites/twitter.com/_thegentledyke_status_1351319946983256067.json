@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351319946983256067" ],
+    "url" : [ "https://twitter.com/thegentledyke/status/1351319946983256067" ],
+    "published" : [ "2021-01-19T00:05:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:thegentledyke" ],
+        "numeric-id" : [ "451567698" ],
+        "name" : [ "carhartt dyke" ],
+        "nickname" : [ "thegentledyke" ],
+        "url" : [ "https://twitter.com/thegentledyke", "https://www.instagram.com/siderealgeminim00n/" ],
+        "published" : [ "2011-12-31T17:56:07+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346952945980608512/yfkJAi37.jpg" ]
+      }
+    } ],
+    "content" : [ "the way hundreds of thousands of ppl did NOT" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1351235706438479875" ],
+      "url" : [ "https://twitter.com/chuckietoyou/status/1351235706438479875" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1351235655733542913/pu/vid/888x470/KajEOrw4H8zxFpD2.mp4?tag=10" ],
+      "published" : [ "2021-01-18T18:31:11+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:chuckietoyou" ],
+          "numeric-id" : [ "324164069" ],
+          "name" : [ "yUNG BLack MAAn" ],
+          "nickname" : [ "chuckietoyou" ],
+          "url" : [ "https://twitter.com/chuckietoyou", "http://Instagram.com/chuckietoyou", "https://anchor.fm/chopwithchuckie" ],
+          "published" : [ "2011-06-26T03:37:14+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1345209189182877698/kwaRbqUT.jpg" ]
+        }
+      } ],
+      "content" : [ "Trump’s last day is tomorrow y’all....we really survived" ]
+    }
+  } ]
+}
