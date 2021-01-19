@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351199513470521344" ],
+    "url" : [ "https://twitter.com/pesobugatti/status/1351199513470521344" ],
+    "published" : [ "2021-01-18T16:07:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pesobugatti" ],
+        "numeric-id" : [ "1343663238496530439" ],
+        "name" : [ "peso 🦍" ],
+        "nickname" : [ "pesobugatti" ],
+        "url" : [ "https://twitter.com/pesobugatti", "http://instagram.com/peterant_bx" ],
+        "published" : [ "2020-12-28T21:01:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bronx, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351380484450877443/t8eXPm5H.jpg" ]
+      }
+    } ],
+    "content" : [ "i’m a homebody but damn, i did like going to a couple places 😒" ]
+  }
+}
