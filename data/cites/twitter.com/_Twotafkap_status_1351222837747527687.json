@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351222837747527687" ],
+    "url" : [ "https://twitter.com/Twotafkap/status/1351222837747527687" ],
+    "published" : [ "2021-01-18T17:40:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Twotafkap" ],
+        "numeric-id" : [ "43673491" ],
+        "name" : [ "Paul Weedon" ],
+        "nickname" : [ "Twotafkap" ],
+        "url" : [ "https://twitter.com/Twotafkap", "http://paulweedon.co.uk" ],
+        "published" : [ "2009-05-31T11:00:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bristol, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1063802415823114240/M6NuSOIz.jpg" ]
+      }
+    } ],
+    "content" : [ "The best feature about Twitter is when you briefly catch sight of a tweet that piques your interest and the page refreshes without you asking it to and you can never find said tweet again. I love that." ]
+  }
+}
