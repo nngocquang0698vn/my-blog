@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351957555778629633" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1351957555778629633" ],
+    "published" : [ "2021-01-20T18:19:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carolgilabert.me/" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336683234504155137/GN5t8jE3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "After many years of wondering, I finally looked up the difference between .jpg and .jpeg and it turns out .jpg only exists because DOS/Windows used to have a 3 character limit for extensions 😅\n\nDon’t know what I expected tbh 🤷‍♀️",
+      "html" : "<div style=\"white-space: pre\">After many years of wondering, I finally looked up the difference between .jpg and .jpeg and it turns out .jpg only exists because DOS/Windows used to have a 3 character limit for extensions 😅\n\nDon’t know what I expected tbh 🤷‍♀️</div>"
+    } ]
+  }
+}
