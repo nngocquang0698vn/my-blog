@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351994644041756672" ],
+    "url" : [ "https://twitter.com/_frostedlol_/status/1351994644041756672" ],
+    "published" : [ "2021-01-20T20:46:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/LilNasX/status/1351994473836761089" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_frostedlol_" ],
+        "numeric-id" : [ "1331995565601722368" ],
+        "name" : [ "Frost 🧞" ],
+        "nickname" : [ "_frostedlol_" ],
+        "url" : [ "https://twitter.com/_frostedlol_" ],
+        "published" : [ "2020-11-26T16:17:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Trenches" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349413360564105222/IIAX2DU2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Same energy",
+      "html" : "Same energy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LilNasX\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EsM_9jmW8A4qywq.jpg" ]
+  }
+}
