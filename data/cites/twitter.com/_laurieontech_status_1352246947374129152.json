@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352246947374129152" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1352246947374129152" ],
+    "published" : [ "2021-01-21T13:29:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334855286213980162/HdoG7aht.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If your newest hires are toxic, it's not an accident.\n\nIt means existing employees, the interviewers, picked those people.\n\nIt likely reflects the company culture at large.",
+      "html" : "<div style=\"white-space: pre\">If your newest hires are toxic, it's not an accident.\n\nIt means existing employees, the interviewers, picked those people.\n\nIt likely reflects the company culture at large.</div>"
+    } ]
+  }
+}
