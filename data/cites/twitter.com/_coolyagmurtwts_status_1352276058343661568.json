@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352276058343661568" ],
+    "url" : [ "https://twitter.com/coolyagmurtwts/status/1352276058343661568" ],
+    "published" : [ "2021-01-21T15:25:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:coolyagmurtwts" ],
+        "numeric-id" : [ "3030904606" ],
+        "name" : [ "yağmur the needlessly defiant" ],
+        "nickname" : [ "coolyagmurtwts" ],
+        "url" : [ "https://twitter.com/coolyagmurtwts" ],
+        "published" : [ "2015-02-11T17:56:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332034513749352450/KtHRjfHF.jpg" ]
+      }
+    } ],
+    "content" : [ "troy and abed and bernie in the moooorning!!" ],
+    "photo" : [ "https://pbs.twimg.com/media/EsQ_6HwW4AIZwFv.jpg" ]
+  }
+}
