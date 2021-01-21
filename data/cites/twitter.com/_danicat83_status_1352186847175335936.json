@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352186847175335936" ],
+    "url" : [ "https://twitter.com/danicat83/status/1352186847175335936" ],
+    "published" : [ "2021-01-21T09:30:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:danicat83" ],
+        "numeric-id" : [ "1901819173" ],
+        "name" : [ "Daniela Petruzalek" ],
+        "nickname" : [ "danicat83" ],
+        "url" : [ "https://twitter.com/danicat83", "https://github.com/danicat" ],
+        "published" : [ "2013-09-24T21:12:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296517710478823428/f9GOpCvQ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Today I'm slightly disappointed with @monzo for not providing an easy way for us to see the account's IBAN. Their official recommendation is to look for an IBAN calculator online, but I know better than to insert my account details on random websites in the internet.",
+      "html" : "Today I'm slightly disappointed with <a href=\"https://twitter.com/monzo\">@monzo</a> for not providing an easy way for us to see the account's IBAN. Their official recommendation is to look for an IBAN calculator online, but I know better than to insert my account details on random websites in the internet."
+    } ]
+  }
+}
