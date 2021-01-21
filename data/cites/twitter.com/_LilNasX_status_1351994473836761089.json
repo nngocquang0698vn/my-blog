@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351994473836761089" ],
+    "url" : [ "https://twitter.com/LilNasX/status/1351994473836761089" ],
+    "published" : [ "2021-01-20T20:46:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LilNasX" ],
+        "numeric-id" : [ "754006735468261376" ],
+        "name" : [ "nope" ],
+        "nickname" : [ "LilNasX" ],
+        "url" : [ "https://twitter.com/LilNasX", "https://LilNasX.lnk.to/Holiday", "http://instagram.com/lilnasx" ],
+        "published" : [ "2016-07-15T17:36:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "la" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336703080562212864/G-xEC0vN.jpg" ]
+      }
+    } ],
+    "content" : [ "this still haunts me" ],
+    "photo" : [ "https://pbs.twimg.com/media/EsM_zuuVoAA8v4I.jpg" ]
+  }
+}
