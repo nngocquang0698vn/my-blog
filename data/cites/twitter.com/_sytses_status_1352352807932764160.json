@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352352807932764160" ],
+    "url" : [ "https://twitter.com/sytses/status/1352352807932764160" ],
+    "published" : [ "2021-01-21T20:30:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sytses" ],
+        "numeric-id" : [ "23036965" ],
+        "name" : [ "Sid Sijbrandij" ],
+        "nickname" : [ "sytses" ],
+        "url" : [ "https://twitter.com/sytses", "https://about.gitlab.com/" ],
+        "published" : [ "2009-03-06T05:58:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/767057523442495489/8GuG_odT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : ".@GitLab releases many features years before GitHub. Every month on the 22nd, transparent and open. 10 examples in this thread 💡 about.gitlab.com/is-it-any-good…",
+      "html" : ".<a href=\"https://twitter.com/gitlab\">@GitLab</a> releases many features years before GitHub. Every month on the 22nd, transparent and open. 10 examples in this thread 💡 <a href=\"https://about.gitlab.com/is-it-any-good/#gitlab-is-ahead-of-github-in-features\">about.gitlab.com/is-it-any-good…</a>"
+    } ]
+  }
+}
