@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352236390482759682" ],
+    "url" : [ "https://twitter.com/AnimalsWorId/status/1352236390482759682" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1352236324875431937/pu/vid/640x480/8BTitS_-xMcpD6DD.mp4?tag=10" ],
+    "published" : [ "2021-01-21T12:47:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AnimalsWorId" ],
+        "numeric-id" : [ "1186257814953480192" ],
+        "name" : [ "Nature & Animals🌴" ],
+        "nickname" : [ "AnimalsWorId" ],
+        "url" : [ "https://twitter.com/AnimalsWorId", "http://instagram.com/thisisanimalsworld" ],
+        "published" : [ "2019-10-21T12:28:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🌍" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289880617807560706/XZHuHLNb.jpg" ]
+      }
+    } ],
+    "content" : [ "OMG IT FINALLY HAPPENED! QUICK BROWN FOX JUMPS OVER THE LAZY DOG" ]
+  }
+}
