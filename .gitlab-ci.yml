@@ -35,7 +35,9 @@ theme_branch:
 # }}}
 
 build_and_deploy:
-  image: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.68.3
+  image:
+    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.68.3
+    entrypoint: ['']
   stage: build
   script:
     - hugo --verbose --minify --production
