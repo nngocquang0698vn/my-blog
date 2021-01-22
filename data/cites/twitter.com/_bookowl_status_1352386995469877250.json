@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352386995469877250" ],
+    "url" : [ "https://twitter.com/bookowl/status/1352386995469877250" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EsSkwR-W8AoK6rE.mp4" ],
+    "published" : [ "2021-01-21T22:46:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bookowl" ],
+        "numeric-id" : [ "14307281" ],
+        "name" : [ "Dan Chibnall 🖐🏻 🧼 😷" ],
+        "nickname" : [ "bookowl" ],
+        "url" : [ "https://twitter.com/bookowl" ],
+        "published" : [ "2008-04-04T23:57:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Iowa" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315320318546849795/EVQvnudX.jpg" ]
+      }
+    } ],
+    "content" : [ "I don't know about you, but this is the winner for me." ]
+  }
+}
