@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352740424331493382" ],
+    "url" : [ "https://twitter.com/haskellhutt/status/1352740424331493382" ],
+    "published" : [ "2021-01-22T22:10:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:haskellhutt" ],
+        "numeric-id" : [ "954369145554063360" ],
+        "name" : [ "Graham Hutton" ],
+        "nickname" : [ "haskellhutt" ],
+        "url" : [ "https://twitter.com/haskellhutt", "http://www.cs.nott.ac.uk/~pszgmh", "http://tinyurl.com/PIH-II" ],
+        "published" : [ "2018-01-19T15:05:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1168230923965480960/kuBTWbzx.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:7d7bdec12d2549d4" ],
+        "name" : [ "Nottingham, England" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Interested in learning about Haskell?  Then you might be interested in my new YouTube intro course coming soon.  youtu.be/uBEPFkuPrcU",
+      "html" : "Interested in learning about Haskell?  Then you might be interested in my new YouTube intro course coming soon.  <a href=\"https://youtu.be/uBEPFkuPrcU\">youtu.be/uBEPFkuPrcU</a>"
+    } ]
+  }
+}
