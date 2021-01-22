@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352697405590958087" ],
+    "url" : [ "https://twitter.com/mavannucci/status/1352697405590958087" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1352697372061663236/pu/vid/720x1280/NJGDdpLyaxohFb7S.mp4?tag=10" ],
+    "published" : [ "2021-01-22T19:19:28+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/richburroughs/status/1352660197236326401" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mavannucci" ],
+        "numeric-id" : [ "301755631" ],
+        "name" : [ "broccoli rabe kennedy" ],
+        "nickname" : [ "mavannucci" ],
+        "url" : [ "https://twitter.com/mavannucci" ],
+        "published" : [ "2011-05-20T00:46:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nantucket, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297666455266263040/AxQU9gfa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The older cat will sit by the door, and the kitten is behind it, and he tries to reach out and touch her like a creep.",
+      "html" : "The older cat will sit by the door, and the kitten is behind it, and he tries to reach out and touch her like a creep.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/richburroughs\"></a>"
+    } ]
+  }
+}
