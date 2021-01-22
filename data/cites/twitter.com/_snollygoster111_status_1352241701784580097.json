@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352241701784580097" ],
+    "url" : [ "https://twitter.com/snollygoster111/status/1352241701784580097" ],
+    "published" : [ "2021-01-21T13:08:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:snollygoster111" ],
+        "numeric-id" : [ "1000574428638597120" ],
+        "name" : [ "snolly" ],
+        "nickname" : [ "snollygoster111" ],
+        "url" : [ "https://twitter.com/snollygoster111", "http://gf.me/u/y9h6gs" ],
+        "published" : [ "2018-05-27T03:08:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "it me @snollygoster123" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345154044424298501/k2hLbV6P.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EsQgqFiXAAY3qPy.jpg" ]
+  }
+}
