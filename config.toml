@@ -211,3 +211,11 @@ notAlternative = true
     title = "Post Visualisation"
     url = "/post-frequency/"
     weight = 45
+
+[deployment]
+[[deployment.targets]]
+name = "prod"
+
+URL = "s3://www-jvt-me?region=eu-west-2"
+
+cloudFrontDistributionID = "E3W2653D6D7FGR"
