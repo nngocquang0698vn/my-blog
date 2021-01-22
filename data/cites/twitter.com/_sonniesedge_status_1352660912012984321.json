@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352660912012984321" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1352660912012984321" ],
+    "published" : [ "2021-01-22T16:54:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349794094562877442/VSq0jFlw.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I think that I just accidentally wrote most of a node-based endpoint discovery, parser, and sender for webmentions.\n\nI think a version already exists in npm, but would it be useful for other `#indieweb` folk to have this as a package? S'all async and promises.",
+      "html" : "<div style=\"white-space: pre\">I think that I just accidentally wrote most of a node-based endpoint discovery, parser, and sender for webmentions.\n\nI think a version already exists in npm, but would it be useful for other `<a href=\"https://twitter.com/search?q=%23indieweb\">#indieweb</a>` folk to have this as a package? S'all async and promises.</div>"
+    } ]
+  }
+}
