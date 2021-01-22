@@ -41,6 +41,6 @@ build_and_deploy:
   stage: build
   script:
     - hugo-official --verbose --minify
-    - hugo-official deploy
+    - hugo-official deploy --log --verbose
   only:
     - master
