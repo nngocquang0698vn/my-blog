@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NekomimiScience/status/1352734320704827397" ],
     "name" : [ "Like of @NekomimiScience's tweet" ],
     "published" : [ "2021-01-23T13:51:00+0000" ],
     "category" : [ "food" ],
