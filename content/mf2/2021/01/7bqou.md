@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_BillieBelieves/status/1353340800424423425" ],
     "name" : [ "Like of @_BillieBelieves's tweet" ],
     "published" : [ "2021-01-24T19:50:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
