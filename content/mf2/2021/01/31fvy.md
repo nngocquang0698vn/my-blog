@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kyliebytes/status/1353068065399820288" ],
     "name" : [ "Like of @kyliebytes's tweet" ],
     "published" : [ "2021-01-24T11:55:00+0000" ],
     "category" : [ "mental-health" ],
