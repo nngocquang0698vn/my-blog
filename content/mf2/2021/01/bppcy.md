@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MrsEmma/status/1353366700868182016" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1353374898442231808" ],
     "name" : [ "Reply to https://twitter.com/MrsEmma/status/1353366700868182016" ],
     "photo" : [ {
       "alt" : "Black cat lying on his side, on a red blanket, on Jamie's lap",
