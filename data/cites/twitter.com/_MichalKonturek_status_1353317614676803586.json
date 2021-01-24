@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353317614676803586" ],
+    "url" : [ "https://twitter.com/MichalKonturek/status/1353317614676803586" ],
+    "published" : [ "2021-01-24T12:23:57+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1353311341201813505" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MichalKonturek" ],
+        "numeric-id" : [ "498878362" ],
+        "name" : [ "Michal Konturek" ],
+        "nickname" : [ "MichalKonturek" ],
+        "url" : [ "https://twitter.com/MichalKonturek", "http://github.com/michalkonturek" ],
+        "published" : [ "2012-02-21T14:33:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/710465207357857792/BwnlffBN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "IMO characters has been already built in the past series. It’s a shame they are not continuing the show @JamieTanna - they built such a great universe with all the characters and so much could be done with it. They could fill the 28 years gap.",
+      "html" : "IMO characters has been already built in the past series. It’s a shame they are not continuing the show @JamieTanna - they built such a great universe with all the characters and so much could be done with it. They could fill the 28 years gap.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/weiran\"></a>"
+    } ]
+  }
+}
