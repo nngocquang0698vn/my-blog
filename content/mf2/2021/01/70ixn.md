@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/holly/status/1353411252672995330" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1353477601449357313" ],
     "name" : [ "Reply to https://twitter.com/holly/status/1353411252672995330" ],
     "published" : [ "2021-01-24T22:56:00+0000" ],
     "category" : [ "politics" ],
