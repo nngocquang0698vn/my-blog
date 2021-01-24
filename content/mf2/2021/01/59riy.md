@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1353394127220559873" ],
     "published" : [ "2021-01-24T17:22:00+0000" ],
     "category" : [ "aws", "cloudfront" ],
     "content" : [ {
