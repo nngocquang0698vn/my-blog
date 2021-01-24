@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MichalKonturek/status/1353317614676803586" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1353326420609572864" ],
     "name" : [ "Reply to https://twitter.com/MichalKonturek/status/1353317614676803586" ],
     "published" : [ "2021-01-24T12:54:26.173Z" ],
     "content" : [ {
