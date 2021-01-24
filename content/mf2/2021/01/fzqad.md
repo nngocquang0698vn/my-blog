@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AmandaLeftCoast/status/1353181308105547777" ],
     "name" : [ "Like of @AmandaLeftCoast's tweet" ],
     "published" : [ "2021-01-24T18:17:00+0000" ],
     "category" : [ "nature" ],
