@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353307125079035904" ],
+    "url" : [ "https://twitter.com/MichalKonturek/status/1353307125079035904" ],
+    "published" : [ "2021-01-24T11:42:16+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/weiran/status/1352928739450122240" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MichalKonturek" ],
+        "numeric-id" : [ "498878362" ],
+        "name" : [ "Michal Konturek" ],
+        "nickname" : [ "MichalKonturek" ],
+        "url" : [ "https://twitter.com/MichalKonturek", "http://github.com/michalkonturek" ],
+        "published" : [ "2012-02-21T14:33:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/710465207357857792/BwnlffBN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Precisely my thoughts. It’s a shame as the next season will be the last one and there is so much story to cover still (28 years later 🙃)",
+      "html" : "Precisely my thoughts. It’s a shame as the next season will be the last one and there is so much story to cover still (28 years later 🙃)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/weiran\"></a>"
+    } ]
+  }
+}
