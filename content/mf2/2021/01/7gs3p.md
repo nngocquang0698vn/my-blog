@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/capricabby/status/1352652940629176327" ],
     "name" : [ "Like of @capricabby's tweet" ],
     "published" : [ "2021-01-24T13:44:00+0000" ],
     "like-of" : [ "https://twitter.com/capricabby/status/1352652940629176327" ]
