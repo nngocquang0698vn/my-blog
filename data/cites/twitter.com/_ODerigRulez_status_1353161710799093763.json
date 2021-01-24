@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353161710799093763" ],
+    "url" : [ "https://twitter.com/ODerigRulez/status/1353161710799093763" ],
+    "published" : [ "2021-01-24T02:04:27+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/sablaah/status/1353064651722899462" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ODerigRulez" ],
+        "numeric-id" : [ "236281293" ],
+        "name" : [ "Joel Derig" ],
+        "nickname" : [ "ODerigRulez" ],
+        "url" : [ "https://twitter.com/ODerigRulez" ],
+        "published" : [ "2011-01-10T06:39:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Madison, WI" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1210387505398214661/QMkNrbuT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sablaah\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/silencedrowns\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EsdlZ38W4AAzkkp.jpg" ]
+  }
+}
