@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1352626802045444102" ],
+    "url" : [ "https://twitter.com/ItssMichelle_xo/status/1352626802045444102" ],
+    "published" : [ "2021-01-22T14:38:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ItssMichelle_xo" ],
+        "numeric-id" : [ "268898906" ],
+        "name" : [ "m de la crème" ],
+        "nickname" : [ "ItssMichelle_xo" ],
+        "url" : [ "https://twitter.com/ItssMichelle_xo", "http://virtuelondonclothing.co.uk" ],
+        "published" : [ "2011-03-19T18:04:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "outerspace ♌️🌙." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349873649285795840/aU-08UkF.jpg" ]
+      }
+    } ],
+    "content" : [ "everyone’s social battery is dying and it’s actually noticeable" ]
+  }
+}
