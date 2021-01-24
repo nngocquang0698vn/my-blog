@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scattermoon/status/1353123196518756353" ],
     "name" : [ "Like of @scattermoon's tweet" ],
     "published" : [ "2021-01-24T14:12:00+0000" ],
     "category" : [ "star-trek", "diversity-and-inclusion" ],
