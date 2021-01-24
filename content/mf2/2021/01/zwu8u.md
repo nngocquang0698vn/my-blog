@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chardonyay/status/1343239829342085122" ],
     "name" : [ "Like of @chardonyay's tweet" ],
     "published" : [ "2021-01-24T23:34:00+0000" ],
     "like-of" : [ "https://twitter.com/chardonyay/status/1343239829342085122" ]
