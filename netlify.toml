@@ -2,9 +2,9 @@
 command = "hugo --minify --verbose"
 publish = "public"
 [context.production.environment]
-  HUGO_VERSION = "0.68.3"
+  HUGO_VERSION = "0.80.0"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.68.3"
+  HUGO_VERSION = "0.80.0"
 [[redirects]]
   from = "/*"
   to = "/404/"
