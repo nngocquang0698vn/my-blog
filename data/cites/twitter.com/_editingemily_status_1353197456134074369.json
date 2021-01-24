@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353197456134074369" ],
+    "url" : [ "https://twitter.com/editingemily/status/1353197456134074369" ],
+    "published" : [ "2021-01-24T04:26:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:editingemily" ],
+        "numeric-id" : [ "1066151600" ],
+        "name" : [ "emily freeman" ],
+        "nickname" : [ "editingemily" ],
+        "url" : [ "https://twitter.com/editingemily", "http://www.emilyfreeman.io", "http://amzn.to/2XL7lGM" ],
+        "published" : [ "2013-01-06T16:49:03+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329506348761899014/dT0IQbP7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This conversation has happened to me multiple times: \n\nWell-meaning human: “Oh! We just hired someone for ${role}. He ran ${department} at ${major-company}.”\n\nMe: “Oh! ${human}?”\n\nThem: “No, ${name}.”\n\nMe: ${human} runs that department. I don’t know who ${name} is.”",
+      "html" : "<div style=\"white-space: pre\">This conversation has happened to me multiple times: \n\nWell-meaning human: “Oh! We just hired someone for ${role}. He ran ${department} at ${major-company}.”\n\nMe: “Oh! ${human}?”\n\nThem: “No, ${name}.”\n\nMe: ${human} runs that department. I don’t know who ${name} is.”</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1353177197704404993" ],
+      "url" : [ "https://twitter.com/IanColdwater/status/1353177197704404993" ],
+      "published" : [ "2021-01-24T03:05:59+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1353176472165306368" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:IanColdwater" ],
+          "numeric-id" : [ "711367366756720640" ],
+          "name" : [ "Ian Coldwater 📦💥" ],
+          "nickname" : [ "IanColdwater" ],
+          "url" : [ "https://twitter.com/IanColdwater", "http://lookitup.baby" ],
+          "published" : [ "2016-03-20T01:42:51+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Minneapolis" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1349389321107693571/XIO-o5aU.jpg" ]
+        }
+      } ],
+      "content" : [ "Don't have all the listed qualifications? Apply anyway. I promise you underqualified white guys are doing it" ]
+    }
+  } ]
+}
