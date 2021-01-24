@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353437747378343937" ],
+    "url" : [ "https://twitter.com/garethr/status/1353437747378343937" ],
+    "published" : [ "2021-01-24T20:21:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:garethr" ],
+        "numeric-id" : [ "80703" ],
+        "name" : [ "Gareth Rushgrove" ],
+        "nickname" : [ "garethr" ],
+        "url" : [ "https://twitter.com/garethr", "https://garethr.dev" ],
+        "published" : [ "2006-12-19T21:00:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cambridge and London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Let’s build a list!\n\nWhich other CLI tools expose a command to do this?\n\nWe have gh api, knife raw and snykctl  api so far.",
+      "html" : "<div style=\"white-space: pre\">Let’s build a list!\n\nWhich other CLI tools expose a command to do this?\n\nWe have gh api, knife raw and snykctl  api so far.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1353427440886898695" ],
+      "url" : [ "https://twitter.com/jtimberman/status/1353427440886898695" ],
+      "published" : [ "2021-01-24T19:40:22+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:jtimberman" ],
+          "numeric-id" : [ "17025041" ],
+          "name" : [ "Anti-fascist Joshua" ],
+          "nickname" : [ "jtimberman" ],
+          "url" : [ "https://twitter.com/jtimberman", "http://jtimberman.housepub.org" ],
+          "published" : [ "2008-10-28T17:35:26+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/636550941110480896/u1prsDHS.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Oh… Snap. The `gh` CLI tool has an API subcommand for interacting with the GitHub API directly.\n\nE.g., `gh api /orgs/$ORGrepos`\n\nThen slice and dice the data with `jq`.",
+        "html" : "<div style=\"white-space: pre\">Oh… Snap. The `gh` CLI tool has an API subcommand for interacting with the GitHub API directly.\n\nE.g., `gh api /orgs/$ORGrepos`\n\nThen slice and dice the data with `jq`.</div>"
+      } ]
+    }
+  } ]
+}
