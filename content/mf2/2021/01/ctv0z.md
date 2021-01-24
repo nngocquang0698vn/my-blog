@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ItssMichelle_xo/status/1352626802045444102" ],
     "name" : [ "Like of @ItssMichelle_xo's tweet" ],
     "published" : [ "2021-01-24T11:50:00+0000" ],
     "category" : [ "mental-health", "coronavirus" ],
