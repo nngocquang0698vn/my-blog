@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353774627483484161" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1353774627483484161" ],
+    "published" : [ "2021-01-25T18:39:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "name" : [ "Emily" ],
+        "nickname" : [ "EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland and SF " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296572390252716034/jTxFoueZ.jpg" ]
+      }
+    } ],
+    "content" : [ "A vaccine rollout that is bottlenecked on manufacturing and distribution is the real dependency injection." ]
+  }
+}
