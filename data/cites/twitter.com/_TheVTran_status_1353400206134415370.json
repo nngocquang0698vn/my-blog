@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353400206134415370" ],
+    "url" : [ "https://twitter.com/TheVTran/status/1353400206134415370" ],
+    "published" : [ "2021-01-24T17:52:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheVTran" ],
+        "numeric-id" : [ "100934277" ],
+        "name" : [ "Victoria Tran 🧋" ],
+        "nickname" : [ "TheVTran" ],
+        "url" : [ "https://twitter.com/TheVTran", "http://victoriatran.com" ],
+        "published" : [ "2010-01-01T08:11:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Canada" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306647078630719489/zjo_KkXO.jpg" ]
+      }
+    } ],
+    "content" : [ "these low poly pants are the only game dev fashion items i approve of and i will not be taking any further questions" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1353303042863452160" ],
+      "url" : [ "https://twitter.com/AItoiI/status/1353303042863452160" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1353302976585101312/pu/vid/732x720/wz-3lXslCvk8OlzY.mp4?tag=10" ],
+      "published" : [ "2021-01-24T11:26:03+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:AItoiI" ],
+          "numeric-id" : [ "12103832" ],
+          "name" : [ "㠶足ﾀｹﾋｺ" ],
+          "nickname" : [ "AItoiI" ],
+          "url" : [ "https://twitter.com/AItoiI", "http://studiopicapixels.com/" ],
+          "published" : [ "2008-01-11T06:35:11+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1074223043956764672/80AUwmJE.jpg" ]
+        }
+      } ],
+      "content" : [ "初代バーチャファイターパンツ" ]
+    }
+  } ]
+}
