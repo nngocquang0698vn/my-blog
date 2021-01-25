@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/KeziyahL/status/1353436523983745025" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1353611632283422720" ],
     "name" : [ "Reply to https://twitter.com/KeziyahL/status/1353436523983745025" ],
     "published" : [ "2021-01-25T07:48:00+0000" ],
     "category" : [ "gousto", "hello-fresh" ],
