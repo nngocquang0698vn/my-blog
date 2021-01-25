@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1353665159064121344" ],
+    "url" : [ "https://twitter.com/foxshaped/status/1353665159064121344" ],
+    "published" : [ "2021-01-25T11:24:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:foxshaped" ],
+        "numeric-id" : [ "223470629" ],
+        "name" : [ "Emma" ],
+        "nickname" : [ "foxshaped" ],
+        "url" : [ "https://twitter.com/foxshaped", "https://www.fox-makes.co.uk/" ],
+        "published" : [ "2010-12-06T13:48:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leicester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1287337672898498560/ZW0x5gW5.jpg" ]
+      }
+    } ],
+    "content" : [ "In the grand tradition of baking things with creme eggs inside (previous editions: muffins, duffins, brownies) may I present the creme egg cookie?" ],
+    "photo" : [ "https://pbs.twimg.com/media/EskvSRVXMAAZI_8.jpg" ]
+  }
+}
