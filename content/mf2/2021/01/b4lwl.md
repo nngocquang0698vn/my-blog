@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/awslabs/aws-serverless-java-container/issues/209" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/awslabs/aws-serverless-java-container/issues/209#issuecomment-767157244" ],
     "name" : [ "Reply to https://github.com/awslabs/aws-serverless-java-container/issues/209" ],
     "published" : [ "2021-01-25T22:13:14.828Z" ],
     "content" : [ {
