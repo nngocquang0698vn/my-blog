@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheVTran/status/1353400206134415370" ],
     "name" : [ "Like of @TheVTran's tweet" ],
     "published" : [ "2021-01-25T07:38:00+0000" ],
     "like-of" : [ "https://twitter.com/TheVTran/status/1353400206134415370" ]
