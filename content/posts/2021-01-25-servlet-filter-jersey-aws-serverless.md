@@ -70,7 +70,7 @@ public class StreamLambdaHandler implements RequestStreamHandler {
         return newHandler;
     }
 
-    private static void addFilter(JerseyLambdaContainerHandler<?, ?> handler, Filter filterToAdd, String filterName) {
+    private static void addFilter(JerseyLambdaContainerHandler<?, ?> handler, String filterName, Filter filterToAdd) {
         FilterRegistration.Dynamic registered = handler.getServletContext().addFilter(filterName, filterToAdd);
         registered.addMappingForUrlPatterns(EnumSet.of(DispatcherType.REQUEST), true, "/*"); // you could do something different here
     }
