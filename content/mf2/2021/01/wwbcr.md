@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1354174701443174400" ],
     "published" : [ "2021-01-26T21:06:54.348Z" ],
     "category" : [ "www.jvt.me", "netlify", "cloudfront", "gitlab" ],
     "content" : [ {
