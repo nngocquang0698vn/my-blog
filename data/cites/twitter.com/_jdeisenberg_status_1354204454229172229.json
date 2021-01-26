@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354204454229172229" ],
+    "url" : [ "https://twitter.com/jdeisenberg/status/1354204454229172229" ],
+    "published" : [ "2021-01-26T23:07:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jdeisenberg/status/1354204452664733700" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jdeisenberg" ],
+        "numeric-id" : [ "14947707" ],
+        "name" : [ "J D \"masks aren't just for IP addresses\" Eisenberg" ],
+        "nickname" : [ "jdeisenberg" ],
+        "url" : [ "https://twitter.com/jdeisenberg", "http://langintro.com/" ],
+        "published" : [ "2008-05-29T20:17:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/812140168803074048/BCnLqSKJ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "From command line, this works great:\n\njava Example.java\n\nbut:\n\njava Example\n\ngives “Error could not find or load main class Example/caused by java.lang.ClassNotFoundException\"\n\nThe %PATH% has the correct directories for JDK. Any ideas what’s going on?  2/2",
+      "html" : "<div style=\"white-space: pre\">From command line, this works great:\n\njava <a href=\"http://Example.java\">Example.java</a>\n\nbut:\n\njava Example\n\ngives “Error could not find or load main class Example/caused by java.lang.ClassNotFoundException\"\n\nThe %PATH% has the correct directories for JDK. Any ideas what’s going on?  2/2</div>"
+    } ]
+  }
+}
