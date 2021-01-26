@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rothgar/status/1354159464199278592" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1354171253742067714" ],
     "name" : [ "Reply to https://twitter.com/rothgar/status/1354159464199278592" ],
     "published" : [ "2021-01-26T20:53:00+0000" ],
     "category" : [ "indieweb" ],
