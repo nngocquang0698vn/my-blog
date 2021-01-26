@@ -40,6 +40,6 @@ build_and_deploy:
     - shell
   script:
     - hugo --verbose --minify
-    - hugo deploy --log --verbose --maxDeletes -1
+    - hugo deploy --log --verbose --verboseLog --debug --maxDeletes -1
   only:
     - master
