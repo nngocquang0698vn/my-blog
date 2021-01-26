@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354118867652665344" ],
+    "url" : [ "https://twitter.com/mrjamesob/status/1354118867652665344" ],
+    "published" : [ "2021-01-26T17:27:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mrjamesob" ],
+        "numeric-id" : [ "152656121" ],
+        "name" : [ "James O'Brien" ],
+        "nickname" : [ "mrjamesob" ],
+        "url" : [ "https://twitter.com/mrjamesob", "https://uk.bookshop.org/books/how-not-to-be-wrong-the-art-of-changing-your-mind/9780753557709" ],
+        "published" : [ "2010-06-06T14:46:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332740004418899970/ZDDMftdO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Boris Johnson, 3/2/20:\n\"coronavirus will trigger a panic and a desire for market segregation that go beyond what is medically rational to the point of doing real and unnecessary economic damage\"\n\n100,000 deaths later: \"\"We truly did everything we could to minimise loss of life.\"",
+      "html" : "<div style=\"white-space: pre\">Boris Johnson, 3/2/20:\n\"coronavirus will trigger a panic and a desire for market segregation that go beyond what is medically rational to the point of doing real and unnecessary economic damage\"\n\n100,000 deaths later: \"\"We truly did everything we could to minimise loss of life.\"</div>"
+    } ]
+  }
+}
