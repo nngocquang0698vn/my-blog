@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cableknitjumper/status/1354170764480507904" ],
     "name" : [ "Like of @cableknitjumper's tweet" ],
     "published" : [ "2021-01-26T22:12:00+0000" ],
     "category" : [ "coronavirus" ],
