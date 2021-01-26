@@ -30,6 +30,7 @@ paginate = 50
   ShowInMainFeed = ["articles", "bookmarks", "notes", "photos", "reposts", "rsvps"]
   IgnoreInFeeds = ["", "contacts", "projects", "talks"]
   MaxRssItems = 100
+  MaxJsonFeedItems = 100
 [[params.redirect]]
 from = "/tags/archlinux/"
 to = "/tags/arch-linux/"
