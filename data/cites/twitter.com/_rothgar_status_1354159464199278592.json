@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354159464199278592" ],
+    "url" : [ "https://twitter.com/rothgar/status/1354159464199278592" ],
+    "published" : [ "2021-01-26T20:09:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com", "http://cnibook.info", "http://imdb.to/2FikCiY", "http://bit.ly/2tJM3yt" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335993178256601088/qGeS1IAa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Dear Twitter,\n\nWHY\nCAN'T\nI\nSEARCH\nMY\nLIKES\n\nSRSLY!",
+      "html" : "<div style=\"white-space: pre\">Dear Twitter,\n\nWHY\nCAN'T\nI\nSEARCH\nMY\nLIKES\n\nSRSLY!</div>"
+    } ]
+  }
+}
