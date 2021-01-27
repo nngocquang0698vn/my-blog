@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/utb_smith/status/1354128662354923530" ],
     "name" : [ "Like of @utb_smith's tweet" ],
     "published" : [ "2021-01-27T17:14:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
