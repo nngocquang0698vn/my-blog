@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354331635588673536" ],
+    "url" : [ "https://twitter.com/matosman/status/1354331635588673536" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1354331567984955392/pu/vid/1280x720/2lAR41KGGB3aNAJJ.mp4?tag=10" ],
+    "published" : [ "2021-01-27T07:33:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matosman" ],
+        "numeric-id" : [ "17674200" ],
+        "name" : [ "Mat Osman" ],
+        "nickname" : [ "matosman" ],
+        "url" : [ "https://twitter.com/matosman" ],
+        "published" : [ "2008-11-27T09:49:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309162822920699906/0cdutQ8l.jpg" ]
+      }
+    } ],
+    "content" : [ "Acapella group doing Windows noises" ]
+  }
+}
