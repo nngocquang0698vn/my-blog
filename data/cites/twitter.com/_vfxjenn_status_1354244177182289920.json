@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354244177182289920" ],
+    "url" : [ "https://twitter.com/vfxjenn/status/1354244177182289920" ],
+    "published" : [ "2021-01-27T01:45:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:vfxjenn" ],
+        "numeric-id" : [ "139471544" ],
+        "name" : [ "Jennifer Maillet" ],
+        "nickname" : [ "vfxjenn" ],
+        "url" : [ "https://twitter.com/vfxjenn", "https://youtu.be/caLji74IIp4" ],
+        "published" : [ "2010-05-02T18:33:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321133179802210304/3n2NeUt5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My Cameo this season on The Expanse. Just floating around @SAghdashloo , no big deal.  If I could be on screen with anyone I’m glad it’s you! #Expanse509 #TheExpanse #VFX",
+      "html" : "My Cameo this season on The Expanse. Just floating around <a href=\"https://twitter.com/SAghdashloo\">@SAghdashloo</a> , no big deal.  If I could be on screen with anyone I’m glad it’s you! <a href=\"https://twitter.com/search?q=%23Expanse509\">#Expanse509</a> <a href=\"https://twitter.com/search?q=%23TheExpanse\">#TheExpanse</a> <a href=\"https://twitter.com/search?q=%23VFX\">#VFX</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Ess95r5XUAA2t5a.jpg" ]
+  }
+}
