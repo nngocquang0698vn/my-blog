@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vfxjenn/status/1354244177182289920" ],
     "name" : [ "Like of @vfxjenn's tweet" ],
     "published" : [ "2021-01-27T23:18:00+0000" ],
     "category" : [ "the-expanse" ],
