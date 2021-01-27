@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CubicleApril/status/1354157909488394241" ],
     "name" : [ "Like of @CubicleApril's tweet" ],
     "published" : [ "2021-01-27T12:17:00+0000" ],
     "category" : [ "sudo", "linux" ],
