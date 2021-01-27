@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354157909488394241" ],
+    "url" : [ "https://twitter.com/CubicleApril/status/1354157909488394241" ],
+    "published" : [ "2021-01-26T20:02:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CubicleApril" ],
+        "numeric-id" : [ "88974227" ],
+        "name" : [ "April King 🌀" ],
+        "nickname" : [ "CubicleApril" ],
+        "url" : [ "https://twitter.com/CubicleApril", "https://pokeinthe.io/" ],
+        "published" : [ "2009-11-10T17:19:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Twin Cities, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334929444314746881/nVGP-Tp2.jpg" ]
+      }
+    } ],
+    "content" : [ "I was this many days old when I learned that sudo's logo is a creepy looking anthropomorphic sandwich." ],
+    "photo" : [ "https://pbs.twimg.com/media/EsrvbAIXEAAG-NJ.png" ]
+  }
+}
