@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swyx/status/1354743782701375488" ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2021-01-28T20:26:00+0000" ],
     "category" : [ "html", "security" ],
