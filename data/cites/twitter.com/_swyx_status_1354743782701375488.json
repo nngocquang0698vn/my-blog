@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354743782701375488" ],
+    "url" : [ "https://twitter.com/swyx/status/1354743782701375488" ],
+    "published" : [ "2021-01-28T10:51:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "name" : [ "shawn swyx wang" ],
+        "nickname" : [ "swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Singapore 🇸🇬 " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336445471359823872/vgcUXO4W.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "TIL that you no longer have to write <a target=“_blank” rel=“noopener”> to make external links secure!\n\nThe HTML standard was changed in 2019 so that rel=“noopener” is always implied: github.com/whatwg/html/pu…\n\nthanks to the @jaffathecake and @DasSurma’s podcast for this tidbit!",
+      "html" : "<div style=\"white-space: pre\">TIL that you no longer have to write &lt;a target=“_blank” rel=“noopener”&gt; to make external links secure!\n\nThe HTML standard was changed in 2019 so that rel=“noopener” is always implied: <a href=\"https://github.com/whatwg/html/pull/4330\">github.com/whatwg/html/pu…</a>\n\nthanks to the <a href=\"https://twitter.com/jaffathecake\">@jaffathecake</a> and <a href=\"https://twitter.com/DasSurma\">@DasSurma</a>’s podcast for this tidbit!</div>"
+    } ]
+  }
+}
