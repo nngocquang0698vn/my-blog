@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354848253729234944" ],
+    "url" : [ "https://twitter.com/AOC/status/1354848253729234944" ],
+    "published" : [ "2021-01-28T17:46:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AOC" ],
+        "numeric-id" : [ "138203134" ],
+        "name" : [ "Alexandria Ocasio-Cortez" ],
+        "nickname" : [ "AOC" ],
+        "url" : [ "https://twitter.com/AOC", "http://www.ocasiocortez.com" ],
+        "published" : [ "2010-04-28T22:38:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bronx + Queens, NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I am happy to work with Republicans on this issue where there’s common ground, but you almost had me murdered 3 weeks ago so you can sit this one out.\n\nHappy to work w/ almost any other GOP that aren’t trying to get me killed.\n\nIn the meantime if you want to help, you can resign.",
+      "html" : "<div style=\"white-space: pre\">I am happy to work with Republicans on this issue where there’s common ground, but you almost had me murdered 3 weeks ago so you can sit this one out.\n\nHappy to work w/ almost any other GOP that aren’t trying to get me killed.\n\nIn the meantime if you want to help, you can resign.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1354833603943931905" ],
+      "url" : [ "https://twitter.com/tedcruz/status/1354833603943931905" ],
+      "published" : [ "2021-01-28T16:47:57+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:tedcruz" ],
+          "numeric-id" : [ "23022687" ],
+          "name" : [ "Ted Cruz" ],
+          "nickname" : [ "tedcruz" ],
+          "url" : [ "https://twitter.com/tedcruz", "http://www.OneVoteAway.com" ],
+          "published" : [ "2009-03-06T03:20:20+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Houston, Texas" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Fully agree. 👇",
+        "html" : "Fully agree. 👇\n<a class=\"tag\" href=\"https://twitter.com/aoc/status/1354830697459032066\">twitter.com/aoc/status/135…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/aoc/status/135…" ],
+        "url" : [ "https://twitter.com/aoc/status/1354830697459032066" ]
+      }
+    } ]
+  } ]
+}
