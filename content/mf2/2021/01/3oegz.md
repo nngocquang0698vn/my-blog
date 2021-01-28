@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seankross/status/1354540189549387780" ],
     "name" : [ "Like of @seankross's tweet" ],
     "published" : [ "2021-01-28T23:34:00+0000" ],
     "category" : [ "2021", "2020" ],
