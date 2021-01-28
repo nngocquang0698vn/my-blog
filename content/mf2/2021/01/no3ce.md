@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cableknitjumper/status/1354839125388529665" ],
     "name" : [ "Like of @cableknitjumper's tweet" ],
     "published" : [ "2021-01-28T17:23:00+0000" ],
     "like-of" : [ "https://twitter.com/cableknitjumper/status/1354839125388529665" ]
