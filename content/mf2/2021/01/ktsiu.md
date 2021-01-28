@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AOC/status/1354848253729234944" ],
     "name" : [ "Like of @AOC's tweet" ],
     "published" : [ "2021-01-28T19:25:00+0000" ],
     "category" : [ "politics" ],
