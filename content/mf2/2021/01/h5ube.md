@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rudy_betrayed/status/1354485494445461510" ],
     "name" : [ "Like of @rudy_betrayed's tweet" ],
     "published" : [ "2021-01-28T23:40:00+0000" ],
     "like-of" : [ "https://twitter.com/rudy_betrayed/status/1354485494445461510" ]
