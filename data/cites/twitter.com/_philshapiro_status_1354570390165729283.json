@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354570390165729283" ],
+    "url" : [ "https://twitter.com/philshapiro/status/1354570390165729283" ],
+    "published" : [ "2021-01-27T23:22:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:philshapiro" ],
+        "numeric-id" : [ "40720843" ],
+        "name" : [ "Phil Shapiro" ],
+        "nickname" : [ "philshapiro" ],
+        "url" : [ "https://twitter.com/philshapiro", "https://sites.google.com/site/philshapirobookreviews/" ],
+        "published" : [ "2009-05-17T19:36:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/718722605570768896/LjKZjF17.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Want to see the difference between Windows 10 and Linux? Install dual boot on a Core i3 laptop.  Let people choose which one works better for their needs. #opensource #linux #freesoftware @gknauth @rmtux @opensourceway",
+      "html" : "Want to see the difference between Windows 10 and Linux? Install dual boot on a Core i3 laptop.  Let people choose which one works better for their needs. <a href=\"https://twitter.com/search?q=%23opensource\">#opensource</a> <a href=\"https://twitter.com/search?q=%23linux\">#linux</a> <a href=\"https://twitter.com/search?q=%23freesoftware\">#freesoftware</a> <a href=\"https://twitter.com/gknauth\">@gknauth</a> <a href=\"https://twitter.com/RmTux\">@rmtux</a> <a href=\"https://twitter.com/opensourceway\">@opensourceway</a>"
+    } ]
+  }
+}
