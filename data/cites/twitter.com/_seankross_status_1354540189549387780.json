@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354540189549387780" ],
+    "url" : [ "https://twitter.com/seankross/status/1354540189549387780" ],
+    "published" : [ "2021-01-27T21:22:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:seankross" ],
+        "numeric-id" : [ "273200904" ],
+        "name" : [ "Sean Kross" ],
+        "nickname" : [ "seankross" ],
+        "url" : [ "https://twitter.com/seankross", "http://seankross.com" ],
+        "published" : [ "2011-03-28T01:23:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Junipero, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/851893231235338242/339Vr6Cp.jpg" ]
+      }
+    } ],
+    "content" : [ "Every graph I’ve seen for the last year be like" ],
+    "photo" : [ "https://pbs.twimg.com/media/EsxLH7WVkAIYQzR.jpg" ]
+  }
+}
