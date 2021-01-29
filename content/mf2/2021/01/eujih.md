@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/EmilyGould/status/1354909176342974467" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1355132638059757571" ],
     "name" : [ "Reply to https://twitter.com/EmilyGould/status/1354909176342974467" ],
     "published" : [ "2021-01-29T12:34:00+0000" ],
     "category" : [ "tiktok" ],
