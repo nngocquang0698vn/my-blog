@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HTTP_Lovecraft/status/1355255162768678912" ],
     "name" : [ "Like of @HTTP_Lovecraft's tweet" ],
     "published" : [ "2021-01-29T22:07:00+0000" ],
     "category" : [ "coronavirus", "2020", "2021" ],
