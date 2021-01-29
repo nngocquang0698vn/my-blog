@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354909176342974467" ],
+    "url" : [ "https://twitter.com/EmilyGould/status/1354909176342974467" ],
+    "published" : [ "2021-01-28T21:48:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmilyGould" ],
+        "numeric-id" : [ "41502749" ],
+        "name" : [ "Emily Gould" ],
+        "nickname" : [ "EmilyGould" ],
+        "url" : [ "https://twitter.com/EmilyGould", "https://www.skillshare.com/classes/Creative-Writing-for-All-A-10-Day-Journaling-Challenge/1042474131" ],
+        "published" : [ "2009-05-21T01:44:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1168922601730781185/h4FaaZAF.jpg" ]
+      }
+    } ],
+    "content" : [ "sorry to be 39 but I would subscribe to a newsletter that just rounds up the best tiktoks" ]
+  }
+}
