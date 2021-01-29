@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355181588951277575" ],
+    "url" : [ "https://twitter.com/KvanOosterom/status/1355181588951277575" ],
+    "published" : [ "2021-01-29T15:50:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KvanOosterom" ],
+        "numeric-id" : [ "241926029" ],
+        "name" : [ "Karel van Oosterom" ],
+        "nickname" : [ "KvanOosterom" ],
+        "url" : [ "https://twitter.com/KvanOosterom", "http://www.karelvanoosterom.com" ],
+        "published" : [ "2011-01-23T13:56:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/961558601239355392/Wbggz5Wu.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Internationally, we the Dutch are seen to be direct and blunt. \nOur checklist for travel to the Netherlands lives up to that reputation.",
+      "html" : "<div style=\"white-space: pre\">Internationally, we the Dutch are seen to be direct and blunt. \nOur checklist for travel to the Netherlands lives up to that reputation.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Es6SeJ9XUAM6SAg.jpg" ]
+  }
+}
