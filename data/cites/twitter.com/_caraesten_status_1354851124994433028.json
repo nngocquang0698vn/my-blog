@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354851124994433028" ],
+    "url" : [ "https://twitter.com/caraesten/status/1354851124994433028" ],
+    "published" : [ "2021-01-28T17:57:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:caraesten" ],
+        "numeric-id" : [ "15374401" ],
+        "name" : [ "Cara" ],
+        "nickname" : [ "caraesten" ],
+        "url" : [ "https://twitter.com/caraesten", "http://my.pronoun.is/she" ],
+        "published" : [ "2008-07-10T05:22:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344730538909728768/ScNcVpQg.jpg" ]
+      }
+    } ],
+    "content" : [ "please, I beg of you, cis people, strike the phrase \"identify as\" from your vocabulary" ]
+  }
+}
