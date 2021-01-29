@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355229300169924613" ],
+    "url" : [ "https://twitter.com/OGspankyLoco69/status/1355229300169924613" ],
+    "published" : [ "2021-01-29T19:00:18+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/AtlPartyCrasher/status/1355208321888874503" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:OGspankyLoco69" ],
+        "numeric-id" : [ "983080327068336128" ],
+        "name" : [ "Black Dolphin" ],
+        "nickname" : [ "OGspankyLoco69" ],
+        "url" : [ "https://twitter.com/OGspankyLoco69" ],
+        "published" : [ "2018-04-08T20:33:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "chillin wit Thanos" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1245761765566103552/qwp8p9fY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Why are you eating ice cream with a fork?",
+      "html" : "Why are you eating ice cream with a fork?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AtlPartyCrasher\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LynettLam\"></a>"
+    } ]
+  }
+}
