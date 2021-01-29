@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1355135791832379392" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2021-01-29T23:39:00+0000" ],
     "category" : [ "kubernetes" ],
