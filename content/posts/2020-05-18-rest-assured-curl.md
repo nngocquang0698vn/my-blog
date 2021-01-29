@@ -122,7 +122,7 @@ def to_curl(request)
 
   if request['headers']
     request['headers'].each do |header|
-      curl << "-request '#{header.sub(/=/, ':')}'"
+      curl << "-H '#{header.sub(/=/, ':')}'"
     end
   end
 
