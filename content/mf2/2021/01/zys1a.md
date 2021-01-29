@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Zoah_HS/status/1355074685566939137" ],
     "name" : [ "Like of @Zoah_HS's tweet" ],
     "published" : [ "2021-01-29T15:30:00+0000" ],
     "like-of" : [ "https://twitter.com/Zoah_HS/status/1355074685566939137" ]
