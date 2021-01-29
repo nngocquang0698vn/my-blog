@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EoinHiggins_/status/1355135778825887746" ],
     "name" : [ "Like of @EoinHiggins_'s tweet" ],
     "published" : [ "2021-01-29T19:57:00+0000" ],
     "category" : [ "politics" ],
