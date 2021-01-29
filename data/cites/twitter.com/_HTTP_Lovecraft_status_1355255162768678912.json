@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355255162768678912" ],
+    "url" : [ "https://twitter.com/HTTP_Lovecraft/status/1355255162768678912" ],
+    "published" : [ "2021-01-29T20:43:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HTTP_Lovecraft" ],
+        "numeric-id" : [ "982793623199662080" ],
+        "name" : [ "H̶͢͝T̨T̸̕͢P̴̕͠ ̕͠Lo̡͡v̸̷͢è̡͢ç̶raf̕t̨͜" ],
+        "nickname" : [ "HTTP_Lovecraft" ],
+        "url" : [ "https://twitter.com/HTTP_Lovecraft" ],
+        "published" : [ "2018-04-08T01:33:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Memphis, TN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237224748238725120/-ch4MgeV.jpg" ]
+      }
+    } ],
+    "content" : [ "Just the metaphorical one I wear to appear happier to myself than I really am when looking in the mirror, 322 days into quarantine. https://t.co/dSwbQVFYNX" ],
+    "photo" : [ "https://pbs.twimg.com/media/Es7VXznXAAAMaKd.png" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1354910265331113986" ],
+      "url" : [ "https://twitter.com/Jim_Jordan/status/1354910265331113986" ],
+      "published" : [ "2021-01-28T21:52:34+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Jim_Jordan" ],
+          "numeric-id" : [ "18166778" ],
+          "name" : [ "Rep. Jim Jordan" ],
+          "nickname" : [ "Jim_Jordan" ],
+          "url" : [ "https://twitter.com/Jim_Jordan", "http://jordan.house.gov/" ],
+          "published" : [ "2008-12-16T17:20:24+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington, D.C. " ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "How many masks are you wearing today? \n\n2?\n3? \n4?\n10?",
+        "html" : "<div style=\"white-space: pre\">How many masks are you wearing today? \n\n2?\n3? \n4?\n10?</div>"
+      } ]
+    }
+  } ]
+}
