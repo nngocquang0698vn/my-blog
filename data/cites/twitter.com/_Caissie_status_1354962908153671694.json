@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354962908153671694" ],
+    "url" : [ "https://twitter.com/Caissie/status/1354962908153671694" ],
+    "published" : [ "2021-01-29T01:21:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Caissie" ],
+        "numeric-id" : [ "17667742" ],
+        "name" : [ "Caissie" ],
+        "nickname" : [ "Caissie" ],
+        "url" : [ "https://twitter.com/Caissie", "http://caissiesthing.tumblr.com" ],
+        "published" : [ "2008-11-27T03:03:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "CT/NYC/PEI/LA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1009624929103417344/x0rRbKno.jpg" ]
+      }
+    } ],
+    "content" : [ "I got my son a SAD lamp because he lives in New England & his apartment doesn’t get a lot of natural light & he told me his cat taught herself how to turn it on & she has been using it a lot." ]
+  }
+}
