@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354893722174054406" ],
+    "url" : [ "https://twitter.com/sarahesmith23/status/1354893722174054406" ],
+    "published" : [ "2021-01-28T20:46:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarahesmith23" ],
+        "numeric-id" : [ "473358068" ],
+        "name" : [ "Sarah Smith" ],
+        "nickname" : [ "sarahesmith23" ],
+        "url" : [ "https://twitter.com/sarahesmith23" ],
+        "published" : [ "2012-01-24T22:07:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1117902922979905536/F1yvHBw_.jpg" ]
+      }
+    } ],
+    "content" : [ "𝐩𝐚𝐧𝐝𝐞𝐦𝐢𝐜 𝐟𝐢𝐧𝐞 — 𝑛𝑜𝑢𝑛 — a state of being in which you are employed and healthy during a pandemic but you're also tired and depressed and feel like trash all the time" ]
+  }
+}
