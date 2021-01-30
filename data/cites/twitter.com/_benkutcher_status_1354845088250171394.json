@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354845088250171394" ],
+    "url" : [ "https://twitter.com/benkutcher/status/1354845088250171394" ],
+    "published" : [ "2021-01-28T17:33:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:benkutcher" ],
+        "numeric-id" : [ "15080878" ],
+        "name" : [ "Ben Kutcher | black lives matter" ],
+        "nickname" : [ "benkutcher" ],
+        "url" : [ "https://twitter.com/benkutcher", "http://indiebi.com" ],
+        "published" : [ "2008-06-11T03:13:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Colorado, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/848623674345127936/WTmIgucL.jpg" ]
+      }
+    } ],
+    "content" : [ "If Wall St. had taken the time to look at anyone's Steam library they'd know that we have no problem dropping $40 on something and never touching it again." ]
+  }
+}
