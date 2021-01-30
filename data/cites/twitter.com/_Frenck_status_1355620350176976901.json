@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355620350176976901" ],
+    "url" : [ "https://twitter.com/Frenck/status/1355620350176976901" ],
+    "published" : [ "2021-01-30T20:54:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Frenck" ],
+        "numeric-id" : [ "14261082" ],
+        "name" : [ "Franck Nijhof" ],
+        "nickname" : [ "Frenck" ],
+        "url" : [ "https://twitter.com/Frenck", "https://frenck.dev" ],
+        "published" : [ "2008-03-30T21:20:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Enschede, The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/594513543950663681/QwUbwj_1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "GitHub Issue forms are coming! 📣\n\nThanks @github! for making reporting issues a breeze now! 🚀No more weird Markdown stuff. \n\nAt @home_assistant we are proud to have the privilege to participate in the limited alpha test of this new feature! 😎",
+      "html" : "<div style=\"white-space: pre\">GitHub Issue forms are coming! 📣\n\nThanks <a href=\"https://twitter.com/github\">@github</a>! for making reporting issues a breeze now! 🚀No more weird Markdown stuff. \n\nAt <a href=\"https://twitter.com/home_assistant\">@home_assistant</a> we are proud to have the privilege to participate in the limited alpha test of this new feature! 😎</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EtAg5h4XMAE9Nop.jpg" ]
+  }
+}
