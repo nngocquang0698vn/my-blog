@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IKEAsame/status/1355430265959505923" ],
     "name" : [ "Like of @IKEAsame's tweet" ],
     "published" : [ "2021-01-30T12:09:00+0000" ],
     "category" : [ "food", "cute" ],
