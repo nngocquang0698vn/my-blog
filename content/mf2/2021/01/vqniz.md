@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1355495410975059968" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2021-01-30T12:43:00+0000" ],
     "category" : [ "tiktok", "mental-health" ],
