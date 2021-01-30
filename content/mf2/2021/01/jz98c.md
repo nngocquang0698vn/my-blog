@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/benkutcher/status/1354845088250171394" ],
     "name" : [ "Like of @benkutcher's tweet" ],
     "published" : [ "2021-01-30T11:18:00+0000" ],
     "category" : [ "gaming" ],
