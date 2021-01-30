@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Caissie/status/1354962908153671694" ],
     "name" : [ "Like of @Caissie's tweet" ],
     "published" : [ "2021-01-30T11:16:00+0000" ],
     "category" : [ "cute", "mental-health" ],
