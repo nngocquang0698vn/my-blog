@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1355591038287675392" ],
     "published" : [ "2021-01-30T18:45:53+0000" ],
     "category" : [ "indieauth.jvt.me", "indieauth" ],
     "content" : [ {
