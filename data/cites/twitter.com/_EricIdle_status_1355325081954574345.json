@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355325081954574345" ],
+    "url" : [ "https://twitter.com/EricIdle/status/1355325081954574345" ],
+    "published" : [ "2021-01-30T01:20:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EricIdle" ],
+        "numeric-id" : [ "862483279" ],
+        "name" : [ "Eric Idle" ],
+        "nickname" : [ "EricIdle" ],
+        "url" : [ "https://twitter.com/EricIdle", "http://ericidle.com/" ],
+        "published" : [ "2012-10-05T03:56:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "North America" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2798844021/584146be4dce53d8d1a21651a7ac814b.png" ]
+      }
+    } ],
+    "content" : [ "Thanks Guido.  That's very flattering.  I'm still a little unclear as to what it is but congratulations and well done." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1355310333875773444" ],
+      "url" : [ "https://twitter.com/gvanrossum/status/1355310333875773444" ],
+      "published" : [ "2021-01-30T00:22:18+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/EricIdle/status/1355227039146467329" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:gvanrossum" ],
+          "numeric-id" : [ "15804774" ],
+          "name" : [ "Guido van Rossum" ],
+          "nickname" : [ "gvanrossum" ],
+          "url" : [ "https://twitter.com/gvanrossum", "http://python.org/~guido/" ],
+          "published" : [ "2008-08-11T04:02:18+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco Bay Area" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/424495004/GuidoAvatar.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Hi @EricIdle, author of said \"Python\" software here. It's open source, which means it's free. It's been 31 years since I chose the name and I'm still a fan of your work! It's \"very nice\". Many folks working with me in the early days shared my appreciation.",
+        "html" : "Hi @EricIdle, author of said \"Python\" software here. It's open source, which means it's free. It's been 31 years since I chose the name and I'm still a fan of your work! It's \"very nice\". Many folks working with me in the early days shared my appreciation.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EricIdle\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KansasGrant\"></a>"
+      } ]
+    }
+  } ]
+}
