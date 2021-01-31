@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1354149047817310208" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2021-01-31T16:20:00+0000" ],
     "category" : [ "scrum", "agile", "tiktok" ],
