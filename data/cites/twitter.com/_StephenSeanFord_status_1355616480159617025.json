@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355616480159617025" ],
+    "url" : [ "https://twitter.com/StephenSeanFord/status/1355616480159617025" ],
+    "published" : [ "2021-01-30T20:38:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StephenSeanFord" ],
+        "numeric-id" : [ "35413856" ],
+        "name" : [ "Stephen Ford" ],
+        "nickname" : [ "StephenSeanFord" ],
+        "url" : [ "https://twitter.com/StephenSeanFord", "http://www.youtube.com/ascender" ],
+        "published" : [ "2009-04-26T05:44:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🏳️‍🌈" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1179836868398960640/8e6DSM42.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Hear me out: \n\nAn entire Disney+ show about Jimmy Woo just working weird cases in the MCU.\n\nLike a fun X-Files. \n\nMake it happen.",
+      "html" : "<div style=\"white-space: pre\">Hear me out: \n\nAn entire Disney+ show about Jimmy Woo just working weird cases in the MCU.\n\nLike a fun X-Files. \n\nMake it happen.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EtAd728U0AIN2U1.jpg" ]
+  }
+}
