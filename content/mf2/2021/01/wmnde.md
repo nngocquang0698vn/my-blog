@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/BeeRich99/status/1355777955960643584" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1355927025819799560" ],
     "name" : [ "Reply to https://twitter.com/BeeRich99/status/1355777955960643584" ],
     "published" : [ "2021-01-31T17:08:00+0000" ],
     "content" : [ {
