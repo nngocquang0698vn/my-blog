@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355642602033299458" ],
+    "url" : [ "https://twitter.com/krhodes0521/status/1355642602033299458" ],
+    "published" : [ "2021-01-30T22:22:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/unbridled_id/status/1355408507172958210" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krhodes0521" ],
+        "numeric-id" : [ "216241736" ],
+        "name" : [ "Katherine Rhodes" ],
+        "nickname" : [ "krhodes0521" ],
+        "url" : [ "https://twitter.com/krhodes0521" ],
+        "published" : [ "2010-11-16T04:16:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NY21" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307833131454599168/Za4bmlgb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My interpersonal relationships prof told us she tracked everything her husband did on his phone and computer—gps, internet history, texts/emails—because the secret to a successful marriage is knowing that you can’t trust anyone.",
+      "html" : "My interpersonal relationships prof told us she tracked everything her husband did on his phone and computer—gps, internet history, texts/emails—because the secret to a successful marriage is knowing that you can’t trust anyone.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/unbridled_id\"></a>"
+    } ]
+  }
+}
