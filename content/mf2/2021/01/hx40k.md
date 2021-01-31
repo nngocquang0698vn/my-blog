@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StephenSeanFord/status/1355616480159617025" ],
     "name" : [ "Like of @StephenSeanFord's tweet" ],
     "published" : [ "2021-01-31T15:15:00+0000" ],
     "category" : [ "marvel" ],
