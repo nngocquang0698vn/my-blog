@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355408507172958210" ],
+    "url" : [ "https://twitter.com/unbridled_id/status/1355408507172958210" ],
+    "published" : [ "2021-01-30T06:52:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:unbridled_id" ],
+        "numeric-id" : [ "1016148363060940800" ],
+        "name" : [ "Sierra Armor 𝔼𝕣𝕚𝕤" ],
+        "nickname" : [ "unbridled_id" ],
+        "url" : [ "https://twitter.com/unbridled_id", "https://www.instagram.com/unbridled_id/" ],
+        "published" : [ "2018-07-09T02:33:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vermont" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353573483452755969/yDZpZP30.jpg" ]
+      }
+    } ],
+    "content" : [ "I’ve tweeted this before, but my ethics professor impregnated his son’s girlfriend. I think about it every class" ]
+  }
+}
