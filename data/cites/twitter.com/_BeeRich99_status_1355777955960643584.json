@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355777955960643584" ],
+    "url" : [ "https://twitter.com/BeeRich99/status/1355777955960643584" ],
+    "published" : [ "2021-01-31T07:20:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BeeRich99" ],
+        "numeric-id" : [ "942857442685345797" ],
+        "name" : [ "Brittany 🍔 Belcher" ],
+        "nickname" : [ "BeeRich99" ],
+        "url" : [ "https://twitter.com/BeeRich99" ],
+        "published" : [ "2017-12-18T20:41:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347939914881622017/K8U8C_OD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#TechTwitter I am finally buying a standing desk and I'm curious, any suggestions? Prefer one with a motor.",
+      "html" : "<a href=\"https://twitter.com/search?q=%23TechTwitter\">#TechTwitter</a> I am finally buying a standing desk and I'm curious, any suggestions? Prefer one with a motor."
+    } ]
+  }
+}
