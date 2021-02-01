@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LolaFaglana/status/1355723476070445057" ],
     "name" : [ "Like of @LolaFaglana's tweet" ],
     "published" : [ "2021-02-01T07:48:00+0000" ],
     "category" : [ "food" ],
