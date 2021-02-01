@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1356087643415531522" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1356087643415531522" ],
+    "published" : [ "2021-02-01T03:51:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ "I want to save this tweet as the textbook definition of gatekeeping." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1356087399005097988" ],
+      "url" : [ "https://twitter.com/johnblackjr/status/1356087399005097988" ],
+      "published" : [ "2021-02-01T03:50:05+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1356072519690686465" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:johnblackjr" ],
+          "numeric-id" : [ "309401918" ],
+          "name" : [ "John Black" ],
+          "nickname" : [ "johnblackjr" ],
+          "url" : [ "https://twitter.com/johnblackjr" ],
+          "published" : [ "2011-06-02T01:25:08+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Boulder, CO" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1379002086/black.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Do you have a CS degree Corey?  Did you take a class in formal languages at all?  Regular expressions, push down automata, Turing machines, etc?\n \nHTML isn't a programming language. It's just markup.",
+        "html" : "<div style=\"white-space: pre\">Do you have a CS degree Corey?  Did you take a class in formal languages at all?  Regular expressions, push down automata, Turing machines, etc?\n \nHTML isn't a programming language. It's just markup.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/QuinnyPig\"></a>"
+      } ]
+    }
+  } ]
+}
