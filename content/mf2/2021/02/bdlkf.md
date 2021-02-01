@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/QuinnyPig/status/1356087643415531522" ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2021-02-01T11:35:00+0000" ],
     "category" : [ "gatekeeping" ],
