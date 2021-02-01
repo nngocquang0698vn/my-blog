@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1355723476070445057" ],
+    "url" : [ "https://twitter.com/LolaFaglana/status/1355723476070445057" ],
+    "published" : [ "2021-01-31T03:43:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LolaFaglana" ],
+        "numeric-id" : [ "1494812869" ],
+        "name" : [ "Fergi" ],
+        "nickname" : [ "LolaFaglana" ],
+        "url" : [ "https://twitter.com/LolaFaglana" ],
+        "published" : [ "2013-06-09T06:17:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Charlotte, NC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345882392427376640/NDzQFon0.jpg" ]
+      }
+    } ],
+    "content" : [ "I feel presentation is as important as the meal itself." ],
+    "photo" : [ "https://pbs.twimg.com/media/EtB_UOxXAAQkRvz.jpg" ]
+  }
+}
