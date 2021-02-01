@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1356195591827517442" ],
+    "url" : [ "https://twitter.com/jennypotts/status/1356195591827517442" ],
+    "published" : [ "2021-02-01T11:00:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jennypotts" ],
+        "numeric-id" : [ "236017787" ],
+        "name" : [ "Jenny 🏴󠁧󠁢󠁷󠁬󠁳󠁿 is on a break 🤯" ],
+        "nickname" : [ "jennypotts" ],
+        "url" : [ "https://twitter.com/jennypotts", "http://github.com/jennypotts", "http://Ko-Fi.com/jennyonrails", "http://patreon.com/jennyonrails" ],
+        "published" : [ "2011-01-09T16:20:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Gawant, Albion" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354876850351316993/9DCtSsSh.jpg" ]
+      }
+    } ],
+    "content" : [ "I learnt more about coding at my internship during my master's degree than I did going to lectures." ]
+  }
+}
