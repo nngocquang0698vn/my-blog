@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1356378213484662784" ],
+    "url" : [ "https://twitter.com/jennyjaffe/status/1356378213484662784" ],
+    "published" : [ "2021-02-01T23:05:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jennyjaffe" ],
+        "numeric-id" : [ "21380227" ],
+        "name" : [ "Jenny Jaffe" ],
+        "nickname" : [ "jennyjaffe" ],
+        "url" : [ "https://twitter.com/jennyjaffe", "http://www.thejennyjaffe.com/" ],
+        "published" : [ "2009-02-20T06:43:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "She/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1253837816674435074/ikVjqPH9.jpg" ]
+      }
+    } ],
+    "content" : [ "\"Why am I feeling anxious for no reason?\" she thought to herself almost a year into the ongoing deadly global pandemic which completely upended life as she knew it." ]
+  }
+}
