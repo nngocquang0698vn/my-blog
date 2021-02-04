@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/varcharr/status/1357091995014070272" ],
     "name" : [ "Like of @varcharr's tweet" ],
     "published" : [ "2021-02-04T07:20:00+0000" ],
     "category" : [ "command-line" ],
