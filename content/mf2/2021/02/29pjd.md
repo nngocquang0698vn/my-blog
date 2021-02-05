@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1357675372138147840" ],
     "published" : [ "2021-02-05T12:57:00+0000" ],
     "repost-of" : [ "https://twitter.com/CarolSaysThings/status/1357651360230100992" ],
     "category" : [ "remote-work" ],
