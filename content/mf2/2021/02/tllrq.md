@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CastedLindsay/status/1357342309184983043" ],
     "name" : [ "Like of @CastedLindsay's tweet" ],
     "published" : [ "2021-02-05T10:03:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
