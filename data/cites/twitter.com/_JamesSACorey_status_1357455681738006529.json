@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1357455681738006529" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1357455681738006529" ],
+    "published" : [ "2021-02-04T22:27:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ]
+      }
+    } ],
+    "content" : [ "Does anyone else find it deeply ironic that the dudes who love to toss the 'snowflake' blast around are also the dudes who cry the loudest at how mean and unfair woke culture is?" ]
+  }
+}
