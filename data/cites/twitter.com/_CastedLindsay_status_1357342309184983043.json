@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1357342309184983043" ],
+    "url" : [ "https://twitter.com/CastedLindsay/status/1357342309184983043" ],
+    "published" : [ "2021-02-04T14:56:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CastedLindsay" ],
+        "numeric-id" : [ "95726212" ],
+        "name" : [ "Lindsay Tjepkema" ],
+        "nickname" : [ "CastedLindsay" ],
+        "url" : [ "https://twitter.com/CastedLindsay", "http://casted.us" ],
+        "published" : [ "2009-12-09T20:34:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Indianapolis, IN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1238497130379124742/eAgrgW-O.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm not a boss babe. I'm not a girl boss. I'm not a \"She\"EO. I'm not a mom-preneur. I'm the CEO and co-founder of a successful, fast-growing SaaS company and have the honor of leading an incredible team of talented humans. \n\n...And I am a woman.",
+      "html" : "<div style=\"white-space: pre\">I'm not a boss babe. I'm not a girl boss. I'm not a \"She\"EO. I'm not a mom-preneur. I'm the CEO and co-founder of a successful, fast-growing SaaS company and have the honor of leading an incredible team of talented humans. \n\n...And I am a woman.</div>"
+    } ]
+  }
+}
