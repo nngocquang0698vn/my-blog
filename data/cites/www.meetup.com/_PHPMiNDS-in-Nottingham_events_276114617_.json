@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Building a cloud friendly application" ],
+    "description" : [ {
+      "html" : "<p>This talk is presented by Larry Garfield (@Crell)</p> <p>The days of hand-crafted artisanal servers are long over. Modern web applications need to be able to run on many different servers without code changes. Not just different hosting providers, but different environments on the same hosting provider. Whether you're using a legacy dev/stage/prod setup or a modern branch-is-environment host, modern hosting imposes some requirements on your application design but also offers a huge potential for new and powerful tools.<br/>In this session, we'll explore some key guidelines for building a cloud-friendly application, as well as look at some architectural options that a modern hosting platform enables.</p> ",
+      "value" : "This talk is presented by Larry Garfield (@Crell) The days of hand-crafted artisanal servers are long over. Modern web applications need to be able to run on many different servers without code changes. Not just different hosting providers, but different environments on the same hosting provider. Whether you're using a legacy dev/stage/prod setup or a modern branch-is-environment host, modern hosting imposes some requirements on your application design but also offers a huge potential for new and powerful tools. In this session, we'll explore some key guidelines for building a cloud-friendly application, as well as look at some architectural options that a modern hosting platform enables."
+    } ],
+    "start" : [ "2021-02-11T18:30:00Z" ],
+    "end" : [ "2021-02-11T20:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/276114617/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2021-02-01T20:46:44Z" ],
+    "updated" : [ "2021-02-04T19:23:49Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
