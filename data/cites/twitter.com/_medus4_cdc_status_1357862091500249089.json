@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1357862091500249089" ],
+    "url" : [ "https://twitter.com/medus4_cdc/status/1357862091500249089" ],
+    "published" : [ "2021-02-06T01:22:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:medus4_cdc" ],
+        "numeric-id" : [ "1314704599786442753" ],
+        "name" : [ "Katelyn Bowden" ],
+        "nickname" : [ "medus4_cdc" ],
+        "url" : [ "https://twitter.com/medus4_cdc", "https://etsy.me/3e6EeGv" ],
+        "published" : [ "2020-10-09T23:09:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Huntsville, AL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350313687714828288/Ff3QspNi.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The phrase “subtweet” implies there is a domtweet\n\nThat’s it, that’s the joke, tip your bartender, have a good night",
+      "html" : "<div style=\"white-space: pre\">The phrase “subtweet” implies there is a domtweet\n\nThat’s it, that’s the joke, tip your bartender, have a good night</div>"
+    } ]
+  }
+}
