@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/saronyitbarek/status/1357925202320121857" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1358018526053867521" ],
     "name" : [ "Reply to https://twitter.com/saronyitbarek/status/1357925202320121857" ],
     "published" : [ "2021-02-06T11:41:00+0000" ],
     "category" : [ "blogging" ],
