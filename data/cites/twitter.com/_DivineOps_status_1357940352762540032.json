@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1357940352762540032" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1357940352762540032" ],
+    "published" : [ "2021-02-06T06:33:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340332065250795521/ebmOzO49.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Believe women. Protect women. Be kind to women. \n\nSometimes I can hardly believe what we have to deal with.",
+      "html" : "<div style=\"white-space: pre\">Believe women. Protect women. Be kind to women. \n\nSometimes I can hardly believe what we have to deal with.</div>"
+    } ]
+  }
+}
