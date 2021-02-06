@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1358149463978696704" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2021-02-06T23:31:00+0000" ],
     "category" : [ "the-office" ],
