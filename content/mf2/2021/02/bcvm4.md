@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/medus4_cdc/status/1357862091500249089" ],
     "name" : [ "Like of @medus4_cdc's tweet" ],
     "published" : [ "2021-02-06T15:45:00+0000" ],
     "category" : [ "shitpost" ],
