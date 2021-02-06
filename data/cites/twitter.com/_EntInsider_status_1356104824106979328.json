@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1356104824106979328" ],
+    "url" : [ "https://twitter.com/EntInsider/status/1356104824106979328" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1355251865894723593/vid/1280x720/iLpxpzrkkKXEioJb.mp4?tag=14" ],
+    "published" : [ "2021-02-01T04:59:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EntInsider" ],
+        "numeric-id" : [ "103897341" ],
+        "name" : [ "Entertainment Insider" ],
+        "nickname" : [ "EntInsider" ],
+        "url" : [ "https://twitter.com/EntInsider", "https://www.insider.com/entertainment" ],
+        "published" : [ "2010-01-11T16:20:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1197963281211805698/WrDQfvtW.jpg" ]
+      }
+    } ],
+    "content" : [ "Go behind the scenes to find out how Marvel movies are mapped out far in advance with advanced visualization technologies, from previs to postvis" ]
+  }
+}
