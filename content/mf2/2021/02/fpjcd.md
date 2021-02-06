@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MissElizabethCT/status/1357970773957373952" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1358018530675941376" ],
     "name" : [ "Reply to https://twitter.com/MissElizabethCT/status/1357970773957373952" ],
     "published" : [ "2021-02-06T11:32:00+0000" ],
     "category" : [ "ring-fit-adventures" ],
