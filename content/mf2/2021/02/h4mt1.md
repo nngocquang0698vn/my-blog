@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbyfuller/status/1358126303992442880" ],
     "name" : [ "Like of @abbyfuller's tweet" ],
     "published" : [ "2021-02-06T19:01:00+0000" ],
     "category" : [ "coronavirus" ],
