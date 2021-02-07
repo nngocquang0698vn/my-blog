@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358423605198127104" ],
+    "url" : [ "https://twitter.com/mkflint/status/1358423605198127104" ],
+    "published" : [ "2021-02-07T14:33:20+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1358421198993043457" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mkflint" ],
+        "numeric-id" : [ "73369438" ],
+        "name" : [ "Matthew Flint 🏡" ],
+        "nickname" : [ "mkflint" ],
+        "url" : [ "https://twitter.com/mkflint" ],
+        "published" : [ "2009-09-11T11:59:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottinghamshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/541249367949451264/vDVsZrXM.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It was partly you, Jamie, and partly reading about toxic goings-on inside @github. (The way they treat their staff, etc)",
+      "html" : "It was partly you, Jamie, and partly reading about toxic goings-on inside <a href=\"https://twitter.com/github\">@github</a>. (The way they treat their staff, etc)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cloudthethings\"></a>"
+    } ]
+  }
+}
