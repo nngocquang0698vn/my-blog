@@ -84,7 +84,7 @@ such as [Yahoo Groups' user content is being deleted 3 months from announcement]
 
 No matter how open a platform seems, it is unfortunately quite likely that the company will start to lock things down and inevitably become user hostile. Because, at the end of the day, a platform wants you to spend all your time there, so they can i.e. sell you ads or learn more about you, so they can sell your browsing habits to advertisers. It's a cynical way to look at the Web, I know, but is getting more and more common.
 
-And why would you be forced to use a platform that has poor accessibility for the folks that really need it, or using infuriating User Experience patterns? If you break free from the silos and publish on your own website, you get that control back. Yes, you may build an equally inaccessible site, but that's more under your control and you can work ot make it better in the future.
+And why would you be forced to use a platform that has poor accessibility for the folks that really need it, or using infuriating User Experience patterns? If you break free from the silos and publish on your own website, you get that control back. Yes, you may build an equally inaccessible site, but that's more under your control and you can work to make it better in the future.
 
 ## Be Your Own Platform
 
