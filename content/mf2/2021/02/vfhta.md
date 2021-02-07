@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/arussellsaw/status/1358325495197298690" ],
     "name" : [ "Like of @arussellsaw's tweet" ],
     "published" : [ "2021-02-07T10:13:00+0000" ],
     "category" : [ "open-banking" ],
