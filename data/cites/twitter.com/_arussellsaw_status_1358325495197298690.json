@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358325495197298690" ],
+    "url" : [ "https://twitter.com/arussellsaw/status/1358325495197298690" ],
+    "published" : [ "2021-02-07T08:03:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:arussellsaw" ],
+        "numeric-id" : [ "115961593" ],
+        "name" : [ "Alex R.S" ],
+        "nickname" : [ "arussellsaw" ],
+        "url" : [ "https://twitter.com/arussellsaw", "https://yaas.cat", "https://news.russellsaw.io" ],
+        "published" : [ "2010-02-20T16:14:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1218973651028074497/TYZfTiF-.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🏦👉📊 = 😍 I can finally release youneedaspreadsheet.com ! You can connect all of your bank accounts & credit cards to Google Sheets using Open Banking APIs. My budgeting spreadsheets are so much more powerful now🤓. #openbanking #fintech",
+      "html" : "🏦👉📊 = 😍 I can finally release <a href=\"https://youneedaspreadsheet.com\">youneedaspreadsheet.com</a> ! You can connect all of your bank accounts &amp; credit cards to Google Sheets using Open Banking APIs. My budgeting spreadsheets are so much more powerful now🤓. <a href=\"https://twitter.com/search?q=%23openbanking\">#openbanking</a> <a href=\"https://twitter.com/search?q=%23fintech\">#fintech</a>"
+    } ]
+  }
+}
