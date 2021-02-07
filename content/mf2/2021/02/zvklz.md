@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/artinventcr/status/1358082873371357184" ],
     "name" : [ "Like of @artinventcr's tweet" ],
     "published" : [ "2021-02-07T14:22:00+0000" ],
     "category" : [ "marvel", "wanda-vision" ],
