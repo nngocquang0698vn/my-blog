@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://indieweb.xyz/en/indieweb", "https://news.indieweb.org/en" ],
+    "syndication" : [ "https://indieweb.xyz/en/indieweb", "https://news.indieweb.org/en/mxb.dev/blog/webmention-analytics/" ],
     "name" : [ "Webmention Analytics | Max Böck" ],
     "published" : [ "2021-02-07T16:18:00+0000" ],
     "category" : [ "webmention" ],
