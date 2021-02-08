@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358869174307725316" ],
+    "url" : [ "https://twitter.com/joshghent/status/1358869174307725316" ],
+    "published" : [ "2021-02-08T20:03:52+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1358852222218567683" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:joshghent" ],
+        "numeric-id" : [ "546410517" ],
+        "name" : [ "Josh Ghent" ],
+        "nickname" : [ "joshghent" ],
+        "url" : [ "https://twitter.com/joshghent", "https://joshghent.com", "http://turboapi.dev" ],
+        "published" : [ "2012-04-05T22:21:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amygdala" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310970756801724418/v1Adhq-b.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Oh nice that’s cool! I don’t have micropub setup (what is it for?). Main remaining tasks are setting up twitter ~> site syndication and visa versa. I think brid.gy can do it but think I need to write custom code to create new posts for it?",
+      "html" : "Oh nice that’s cool! I don’t have micropub setup (what is it for?). Main remaining tasks are setting up twitter ~&gt; site syndication and visa versa. I think <a href=\"http://brid.gy\">brid.gy</a> can do it but think I need to write custom code to create new posts for it?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
