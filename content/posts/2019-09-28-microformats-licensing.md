@@ -12,10 +12,8 @@ date: 2019-09-28T23:46:41+0200
 slug: "microformats-licensing"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/microformats
-  url: https://indieweb.xyz/en/microformats
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/microformats
 ---
 # Context
 

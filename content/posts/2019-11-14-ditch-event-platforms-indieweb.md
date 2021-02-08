@@ -15,16 +15,11 @@ slug: "ditch-event-platforms-indieweb"
 series: nablopomo-2019
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
-- text: Lobsters
-  url: https://lobste.rs
-- text: Hacker News
-  url: https://news.ycombinator.com/
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://twitter.com/jamietanna
+- https://lobste.rs
+- https://news.ycombinator.com/
 ---
 # Context
 
