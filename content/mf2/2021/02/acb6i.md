@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1358751059108323329" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2021-02-08T14:10:00+0000" ],
     "category" : [ "shitpost" ],
