@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358837952110071811" ],
+    "url" : [ "https://twitter.com/joshghent/status/1358837952110071811" ],
+    "published" : [ "2021-02-08T17:59:48+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1358834722072387587" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:joshghent" ],
+        "numeric-id" : [ "546410517" ],
+        "name" : [ "Josh Ghent" ],
+        "nickname" : [ "joshghent" ],
+        "url" : [ "https://twitter.com/joshghent", "https://joshghent.com", "http://turboapi.dev" ],
+        "published" : [ "2012-04-05T22:21:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amygdala" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310970756801724418/v1Adhq-b.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Inspired by yourself actually! So thank you :) I couldn't find (with my google-fu) how you syndicate books you've read - that's super neat! Maybe an idea for a Brid.gy silo?...",
+      "html" : "Inspired by yourself actually! So thank you :) I couldn't find (with my google-fu) how you syndicate books you've read - that's super neat! Maybe an idea for a <a href=\"http://Brid.gy\">Brid.gy</a> silo?...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
