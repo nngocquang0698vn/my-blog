@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358616326101630978" ],
+    "url" : [ "https://twitter.com/cableknitjumper/status/1358616326101630978" ],
+    "published" : [ "2021-02-08T03:19:08+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/RaxKingIsDead/status/1358610775464624128" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cableknitjumper" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy, Mothman Festival Queen" ],
+        "nickname" : [ "cableknitjumper" ],
+        "url" : [ "https://twitter.com/cableknitjumper", "https://ko-fi.com/amy", "http://venmo.com/waxanorak" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356092645676748802/YserA_cm.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "my dude looks like he's his own child",
+      "html" : "my dude looks like he's his own child\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RaxKingIsDead\"></a>"
+    } ]
+  }
+}
