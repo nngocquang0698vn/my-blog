@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kidnoble/status/1358622460346793984" ],
     "name" : [ "Like of @kidnoble's tweet" ],
     "published" : [ "2021-02-08T10:43:00+0000" ],
     "category" : [ "sport" ],
