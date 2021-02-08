@@ -1,0 +1,63 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358622460346793984" ],
+    "url" : [ "https://twitter.com/kidnoble/status/1358622460346793984" ],
+    "published" : [ "2021-02-08T03:43:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kidnoble" ],
+        "numeric-id" : [ "23406730" ],
+        "name" : [ "reggie" ],
+        "nickname" : [ "kidnoble" ],
+        "url" : [ "https://twitter.com/kidnoble", "http://BePureBlack.com" ],
+        "published" : [ "2009-03-09T05:38:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "[D]MV, New York, Philadelphia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351290276342599681/WjRxHCRb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Serena Williams has 23 Grand Slam titles.",
+      "html" : "Serena Williams has 23 Grand Slam titles.\n<a class=\"tag\" href=\"https://twitter.com/dontestallworth/status/1358617864165617665\">twitter.com/dontestallwort…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1358617864165617665" ],
+      "url" : [ "https://twitter.com/DonteStallworth/status/1358617864165617665" ],
+      "published" : [ "2021-02-08T03:25:15+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:DonteStallworth" ],
+          "numeric-id" : [ "47275328" ],
+          "name" : [ "Donté Stallworth" ],
+          "nickname" : [ "DonteStallworth" ],
+          "url" : [ "https://twitter.com/DonteStallworth", "http://instagram.com/dontestallworth" ],
+          "published" : [ "2009-06-15T06:18:58+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1138320684680122370/YbnOUr6g.jpg" ]
+        }
+      } ],
+      "content" : [ "so Jordan has 6 rings, and Brady has 7 rings. is it now safe to say that Brady is the GOAT of all GOATS?" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/dontestallwort…" ],
+      "url" : [ "https://twitter.com/dontestallworth/status/1358617864165617665" ]
+    }
+  } ]
+}
