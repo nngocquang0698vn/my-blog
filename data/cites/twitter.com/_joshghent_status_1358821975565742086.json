@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358821975565742086" ],
+    "url" : [ "https://twitter.com/joshghent/status/1358821975565742086" ],
+    "published" : [ "2021-02-08T16:56:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:joshghent" ],
+        "numeric-id" : [ "546410517" ],
+        "name" : [ "Josh Ghent" ],
+        "nickname" : [ "joshghent" ],
+        "url" : [ "https://twitter.com/joshghent", "https://joshghent.com", "http://turboapi.dev" ],
+        "published" : [ "2012-04-05T22:21:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amygdala" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310970756801724418/v1Adhq-b.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Setup IndieAuth and microformats2 (mf2) to my posts. Next up is getting Tweets, RSVP's and Github to my site #indieweb joshghent.com",
+      "html" : "Setup IndieAuth and microformats2 (mf2) to my posts. Next up is getting Tweets, RSVP's and Github to my site <a href=\"https://twitter.com/search?q=%23indieweb\">#indieweb</a> <a href=\"https://joshghent.com\">joshghent.com</a>"
+    } ]
+  }
+}
