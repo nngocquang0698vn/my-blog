@@ -15,12 +15,9 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-20T19:29:23+0100
 slug: "indieweb-talk"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://twitter.com/jamietanna
 ---
 The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://oggcamp.com).
 

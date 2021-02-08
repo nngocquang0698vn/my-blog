@@ -10,10 +10,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-06-30T21:20:07+0100
 slug: "client-side-webmentions"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/webmention
-  url: https://indieweb.xyz/en/webmention
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/webmention
 ---
 On [March 18 2019]({{< ref 2019-03-18-displaying-webmentions >}}), I started rendering my Webmentions as part of this site's [Hugo](https://gohugo.io) build process.
 

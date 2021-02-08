@@ -11,10 +11,8 @@ date: 2019-12-19T21:21:14+0000
 slug: "meetup-mf2-hfeed"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 In August I [announced a Microformats API for Meetup.com: `meetup-mf2.jvt.me`]({{< ref "2019-08-31-microformats-meetup" >}}) to act as a translation layer between the silo and the IndieWeb.
 

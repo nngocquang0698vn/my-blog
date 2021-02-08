@@ -12,12 +12,9 @@ date: 2019-10-19T22:54:06+0100
 slug: "microformats-eventbrite"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://twitter.com/jamietanna
 ---
 Note: This post is very similar to [Introducing a Microformats API for Meetup.com: `meetup-mf2.jvt.me`]({{< ref "2019-08-31-microformats-meetup" >}}), so I'd recommend a read of that post for some more of the context of why I'm doing this.
 

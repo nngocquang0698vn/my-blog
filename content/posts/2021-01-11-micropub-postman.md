@@ -12,10 +12,8 @@ date: 2021-01-11T19:37:01+0000
 slug: "micropub-postman"
 image: https://media.jvt.me/2e899bbe68.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 Over this last weekend I've built a small Ruby script for generating Postman Collections for Micropub servers as part of the [Postman API Hackathon](https://blog.postman.com/postman-api-hackathon/), and thought I'd write it up for those who are interested in it.
 

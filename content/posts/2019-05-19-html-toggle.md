@@ -10,12 +10,9 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-05-19T10:04:38+0100
 slug: "html-toggle"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/html
-  url: https://indieweb.xyz/en/html
-- text: 'Lobsters'
-  url: https://lobste.rs
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/html
+- https://lobste.rs
 ---
 If you usually reach for JavaScript when trying to create show/hide toggle on elements, this post is for you.
 

@@ -12,10 +12,8 @@ date: 2021-02-04T18:40:28+0000
 slug: "indieauth-postman"
 image: https://media.jvt.me/2e899bbe68.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 When I wrote [Autogenerating Postman Collections for Micropub Servers]({{< ref 2021-01-11-micropub-postman >}}), I had a good bit of fun with generating a Postman collection for Micropub servers - and it didn't hurt that it was to enter a hackathon!
 

@@ -10,16 +10,11 @@ date: 2020-09-01T14:53:48+0100
 slug: "against-online-tooling"
 image: /img/vendor/jwt.io.jpg
 syndication:
-- text: Lobsters
-  url: https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=24342063
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=24352360
-- text: /r/programming
-  url: https://www.reddit.com/r/programming/comments/ikldt9/why_i_actively_discourage_online_tooling_like/
-- text: /r/coding
-  url: https://www.reddit.com/r/coding/comments/ikldsl/why_i_actively_discourage_online_tooling_like/
+- https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling
+- https://news.ycombinator.com/item?id=24342063
+- https://news.ycombinator.com/item?id=24352360
+- https://www.reddit.com/r/programming/comments/ikldt9/why_i_actively_discourage_online_tooling_like/
+- https://www.reddit.com/r/coding/comments/ikldsl/why_i_actively_discourage_online_tooling_like/
 ---
 Something my colleagues know well is how little I trust online tools like [jwt.io](https://jwt.io), [token.dev](https://token.dev) online JSON validators or online tooling in general, but it also bleeds into [comments I make online](/mf2/2020/08/zebqf/) and in my blog posts, too, and I thought I'd share a little bit of a reason as to why.
 

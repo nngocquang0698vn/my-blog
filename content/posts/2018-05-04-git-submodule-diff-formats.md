@@ -11,10 +11,8 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: git-submodule-diff-formats
 syndication:
-- text: Lobsters
-  url: https://lobste.rs/s/xn4v59/better_git_diff_outputs_with_git
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=23650336
+- https://lobste.rs/s/xn4v59/better_git_diff_outputs_with_git
+- https://news.ycombinator.com/item?id=23650336
 ---
 I've recently been playing around with [Git Submodules] a little bit more, and have been frustrated by the output of `git diff`s:
 

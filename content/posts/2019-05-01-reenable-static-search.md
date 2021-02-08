@@ -12,10 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-05-01T20:15:20+0100
 slug: "reenable-static-search"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 When I migrated this website from [Jekyll to Hugo]({{< ref 2019-01-04-goodbye-jekyll-hello-hugo >}}), I decided to not migrate my search functionality. This was partly because it was too much work to think about at the time, but also as I wasn't really sure whether anyone was using it.
 

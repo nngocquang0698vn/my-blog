@@ -11,10 +11,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-31T19:21:29+0000
 slug: "refresh-token-indieauth"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 Part of my drive to [implement my own IndieAuth Server]({{< ref 2020-12-09-personal-indieauth-server >}}) was that it would allow me to experiment with IndieAuth, the Open Web extension for OAuth2, and propose tweaks or extensions for the future.
 

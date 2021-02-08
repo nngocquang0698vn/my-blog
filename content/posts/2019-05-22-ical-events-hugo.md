@@ -11,10 +11,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-05-22T12:15:03+0100
 slug: "ical-events-hugo"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 While running [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/), I've been manually reminding the group of when the next event is.
 

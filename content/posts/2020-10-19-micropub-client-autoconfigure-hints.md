@@ -10,10 +10,8 @@ date: 2020-10-19T21:20:06+0100
 slug: "micropub-client-autoconfigure-hints"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 So far I'm enjoying using my [autoconfiguring Micropub client]({{< ref 2020-10-15-micropub-client-autoconfigure >}}), but as mentioned in the announce post, I knew there was a glaring usability issue (aside from the poor design of the UI!). I knew I wanted to make it so the editor can understand what type of input to use for a property.
 

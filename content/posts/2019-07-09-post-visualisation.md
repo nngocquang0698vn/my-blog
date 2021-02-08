@@ -8,10 +8,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-09T22:44:33+0100
 slug: "post-visualisation"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 For a while now I've been looking at getting some insight into how often I post content to this site for two reasons - purely for interest, and to watch how it changes over time.
 

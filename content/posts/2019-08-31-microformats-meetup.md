@@ -13,10 +13,8 @@ date: 2019-08-31T13:12:58+01:00
 slug: "microformats-meetup"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 I'm very happy to announce that `meetup-mf2.jvt.me` is now live and provides a Meetup.com translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a meetup's metadata.
 

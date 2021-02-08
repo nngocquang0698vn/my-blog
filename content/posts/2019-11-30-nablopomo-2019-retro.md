@@ -11,16 +11,11 @@ date: 2019-11-30T17:50:29+0000
 slug: "nablopomo-2019-retro"
 series: nablopomo-2019
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/blogging
-  url: https://indieweb.xyz/en/blogging
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
-- text: Lobsters
-  url: https://lobste.rs
-- text: Hacker News
-  url: https://news.ycombinator.com/
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/blogging
+- https://twitter.com/jamietanna
+- https://lobste.rs
+- https://news.ycombinator.com/
 ---
 Today is the last day of National Blog Posting Month (NaBloPoMo), and I've managed to write 32 posts in 30 days!
 

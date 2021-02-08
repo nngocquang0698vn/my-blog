@@ -10,8 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-07T18:55:19+01:00
 slug: "four-months-gousto"
 syndication:
-- text: /en/cooking
-  url: https://indieweb.xyz/en/cooking
+- https://indieweb.xyz/en/cooking
 ---
 # Why We Started Gousto
 

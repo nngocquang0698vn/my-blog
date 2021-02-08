@@ -11,8 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-27T21:50:00
 slug: "hello-indienews"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
+- https://news.indieweb.org/en
 ---
 Yesterday I learned about the [IndieNews](https://news.indieweb.org/), which describes itself as:
 

@@ -14,10 +14,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-14T22:14:56+0100
 slug: "track-certificate-expiry-jwks-ical"
 syndication:
-- text: Lobsters
-  url: https://lobste.rs/s/nlbqhv/keeping_track_certificate_expiry_with
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=23524907
+- https://lobste.rs/s/nlbqhv/keeping_track_certificate_expiry_with
+- https://news.ycombinator.com/item?id=23524907
 ---
 # Why?
 

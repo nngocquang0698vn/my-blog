@@ -11,10 +11,8 @@ date: 2019-05-12T18:43:54+01:00
 slug: "implementing-hfeed-making-content-discoverable"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 With this announcement, I have two great pieces of news.
 

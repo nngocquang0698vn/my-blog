@@ -10,12 +10,9 @@ date: 2020-03-02T21:20:10+0000
 slug: "google-microformats-support"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: Brid.gy Twitter Syndication
-  url: https://brid.gy/publish/twitter
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: /en/microformats
-  url: https://indieweb.xyz/en/microformats
+- https://brid.gy/publish/twitter
+- https://indieweb.xyz/en/indieweb
+- https://indieweb.xyz/en/microformats
 ---
 Google announced that they are [removing support for the data-vocabulary metadata](https://webmasters.googleblog.com/2020/01/data-vocabulary.html) markup that could be used to provide rich search results on its Search Engine.
 

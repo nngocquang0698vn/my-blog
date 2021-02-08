@@ -10,10 +10,8 @@ date: 2020-10-15T22:19:31+0100
 slug: "micropub-client-autoconfigure"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 [Micropub](https://micropub.spec.indieweb.org/) is an awesome standard, and I've really enjoyed building for it. The best thing about using an open standard is [the abundance of clients](https://indieweb.org/Micropub/Clients).
 

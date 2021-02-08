@@ -10,10 +10,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-18T13:11:15+0100
 slug: "rest-assured-curl"
 syndication:
-- text: Lobsters
-  url: https://lobste.rs/s/fntzsp/converting_output_from_rest_assured_curl
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=23221656
+- https://lobste.rs/s/fntzsp/converting_output_from_rest_assured_curl
+- https://news.ycombinator.com/item?id=23221656
 ---
 I work with [Rest Assured](http://rest-assured.io/) a fair bit for automated testing against RESTful API services.
 

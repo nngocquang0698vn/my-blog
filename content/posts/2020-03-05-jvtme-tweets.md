@@ -11,8 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-05T18:22:16+0000
 slug: "jvtme-tweets"
 syndication:
-- text: Brid.gy Twitter Syndication
-  url: https://brid.gy/publish/twitter
+- https://brid.gy/publish/twitter
 ---
 You may have noticed that for the last few months, [my tweets](https://twitter.com/JamieTanna) have ended with `(jvt.me/mf2/...)`:
 

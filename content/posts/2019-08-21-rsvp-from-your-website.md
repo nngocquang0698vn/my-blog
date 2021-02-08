@@ -14,16 +14,11 @@ date: 2019-08-21T22:55:33+0100
 slug: "rsvp-from-your-website"
 image: /img/vendor/microformats-logo.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: 'Hacker News'
-  url: https://news.ycombinator.com
-- text: 'Lobsters'
-  url: https://lobste.rs
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://news.ycombinator.com
+- https://lobste.rs
+- https://twitter.com/jamietanna
 ---
 As some of you may know, I'm a [big advocate](/tags/indieweb/) for the [IndieWeb movement](https://indieweb.org/why).
 

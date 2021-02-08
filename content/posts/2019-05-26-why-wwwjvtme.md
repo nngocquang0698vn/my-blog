@@ -9,10 +9,8 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-05-26T16:26:14+0100
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 slug: "why-wwwjvtme"
 ---
 Hi, I'm Jamie and my URL is https://www.jvt.me. But you may ask, what's the significance behind the domain name?

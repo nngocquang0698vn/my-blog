@@ -10,12 +10,9 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-12T18:21:43+0000
 slug: "webmention-notifications"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: Brid.gy Twitter Syndication
-  url: https://brid.gy/publish/twitter
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://brid.gy/publish/twitter
 image: /img/vendor/webmention-logo.png
 ---
 Since I set up Webmentions in January 2018 using [Webmention.io](https://webmention.io), I've been starting to receive more interactions with my site across the social web.

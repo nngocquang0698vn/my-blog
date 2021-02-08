@@ -11,10 +11,8 @@ date: 2019-12-26T16:38:40+0000
 slug: "micropub-staging-server"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 Since [setting up a micropub server for www.jvt.me in August]({{< ref "2019-08-26-setting-up-micropub" >}}), I've been using it more and more to be able to publish content to my site.
 

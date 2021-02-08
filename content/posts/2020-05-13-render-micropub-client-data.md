@@ -12,12 +12,9 @@ date: 2020-05-13T13:42:33+0100
 slug: "render-micropub-client-data"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: /en/microformats
-  url: https://indieweb.xyz/en/microformats
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://indieweb.xyz/en/microformats
 ---
 Aside from [blog posts](/kind/articles/), like this one, content I publish to my site is using the [open standard Micropub](https://www.w3.org/TR/micropub/), which I've supported [since last August]({{< ref 2019-08-26-setting-up-micropub >}}).
 

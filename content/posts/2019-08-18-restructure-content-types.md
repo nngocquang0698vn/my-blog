@@ -12,10 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-18T16:46:21+01:00
 slug: "restructure-content-types"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 # Why?
 

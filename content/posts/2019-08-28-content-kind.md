@@ -11,10 +11,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-28T21:09:48+01:00
 slug: "content-kind"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 As part of <a href="{{< ref "2019-08-18-restructure-content-types" >}}" class="u-in-reply-to">_Restructuring The Way That My Site's Content Types Work_</a>, I spoke about how I was changing the way that my site's content worked within Hugo, because it made [writing my Micropub server easier]({{< ref "2019-08-26-setting-up-micropub" >}}).
 

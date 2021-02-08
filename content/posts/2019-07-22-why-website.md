@@ -15,16 +15,11 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-22T22:24:02+0100
 slug: "why-website"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: 'Hacker News'
-  url: https://news.ycombinator.com
-- text: 'Lobsters'
-  url: https://lobste.rs
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://news.ycombinator.com
+- https://lobste.rs
+- https://twitter.com/jamietanna
 ---
 A couple of months ago (sidenote: it's taken me ages to write this post!), I was having a conversation with a friend about having a website, and something he mentioned stuck with me:
 

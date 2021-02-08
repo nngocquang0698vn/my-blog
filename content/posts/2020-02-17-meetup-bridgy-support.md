@@ -10,16 +10,11 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-17T07:50:41+0000
 slug: "meetup-bridgy-support"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: '@JamieTanna on Twitter'
-  url: https://brid.gy/publish/twitter
-- text: 'Lobste.rs'
-  url: https://lobste.rs
-- text: 'Hacker News'
-  url: https://news.ycombinator.com
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://brid.gy/publish/twitter
+- https://lobste.rs
+- https://news.ycombinator.com
 image: https://media.jvt.me/lmgf1.png
 ---
 As I was starting to get more involved in the [IndieWeb](https://indieweb.org/why), I started to [own my RSVPs to events I was attending](/kind/rsvps/), most of which are hosted on Meetup.com. This was partly to own the data itself and allow me to do things like [create my own attending calendar]({{< ref 2019-07-27-rsvp-calendar >}}), but also to make it easier for friends, colleagues, and family to see what I was attending.

@@ -10,10 +10,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-22T17:00:09+0000
 slug: "at-mention-people"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 Since I started to publish [short notes](/kind/notes/) to my site, I've been trying to make them more social, such as mentioning others in my content.
 

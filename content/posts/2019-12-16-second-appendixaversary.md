@@ -11,8 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-16T20:52:57+0000
 slug: "second-appendixaversary"
 syndication:
-- text: Brid.gy Twitter Syndication
-  url: https://brid.gy/publish/twitter
+  - https://brid.gy/publish/twitter
 ---
 Two years ago today, on a Saturday evening, my appendix ruptured, and unfortunately it didn't get properly diagnosed until the following Thursday.
 

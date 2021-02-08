@@ -11,8 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-04T08:29:50+0100
 slug: "firehose-feed"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
+- https://news.indieweb.org/en
 ---
 If you visit my site, you'll notice that I'm big on the [IndieWeb](https://indieweb.org/why), and [owning my own data]({{< ref 2019-10-20-indieweb-talk >}}).
 

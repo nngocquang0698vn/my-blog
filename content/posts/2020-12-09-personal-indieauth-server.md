@@ -10,14 +10,10 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-09T11:49:48+0000
 slug: "personal-indieauth-server"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: Lobsters
-  url: https://lobste.rs/s/urv2yf/creating_personal_indieauth_server
-- text: Hacker News
-  url: https://news.ycombinator.com/item?id=25357812
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://lobste.rs/s/urv2yf/creating_personal_indieauth_server
+- https://news.ycombinator.com/item?id=25357812
 image: https://media.jvt.me/f34f45fbf0.png
 ---
 I've completed my implementation of an [IndieAuth v1.1 server](https://indieauth.spec.indieweb.org/), which has been a goal of mine for some time.

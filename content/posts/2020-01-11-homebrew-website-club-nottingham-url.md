@@ -9,12 +9,9 @@ date: 2020-01-11T14:52:30+0000
 slug: "homebrew-website-club-nottingham-url"
 image: /img/vendor/hwc-80s-retro.jpg
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: Brid.gy Twitter Syndication
-  url: https://brid.gy/publish/twitter
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://brid.gy/publish/twitter
 ---
 <span class="h-card"><a class="u-url p-name" href="https://aaronparecki.com">Aaron Parecki</a></span> recently [announced the launch](https://aaronparecki.com/2019/12/21/4/indieweb-events) of a new space for events within the IndieWeb, [events.indieweb.org](https://events.indieweb.org). It's a new platform that will make discoverability of IndieWeb events much easier.
 

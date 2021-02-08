@@ -9,10 +9,8 @@ date: 2019-11-01T18:36:29+0000
 slug: "national-blog-post-month"
 series: nablopomo-2019
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/blogging
-  url: https://indieweb.xyz/en/blogging
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/blogging
 ---
 It's National Blog Post Month! I found out about it when I saw <span class="h-card"><a class="u-url" href="https://shkspr.mobi">Terence Eden</a></span> tweeting about it this morning:
 

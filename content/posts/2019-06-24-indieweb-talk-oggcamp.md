@@ -13,10 +13,8 @@ date: 2019-06-24T22:08:13+0100
 image: /img/vendor/oggcamp-twitter.jpg
 slug: "indieweb-talk-oggcamp"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 I'm very excited to announce that in October I'll be speaking at [OggCamp 2019](https://www.oggcamp.com/) about the [IndieWeb](https://indieweb.org)! The full talk title is:
 

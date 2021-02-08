@@ -14,14 +14,10 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-27T22:27:20+0000
 slug: "owning-step-count"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
-- text: Lobsters
-  url: https://lobste.rs
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://twitter.com/jamietanna
+- https://lobste.rs
 ---
 If you have visited my site since late September, you may have noticed [posts containing my step count data](/kind/steps). Surprisingly, I've not actually blogged about this, although at the request of <span class="h-card"><a class="u-url" href="https://jon.sprig.gs">Jon Spriggs</a></span> I thought I would do.
 

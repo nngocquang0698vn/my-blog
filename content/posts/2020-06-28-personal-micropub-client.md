@@ -10,14 +10,10 @@ date: 2020-06-28T21:08:04+0100
 slug: "personal-micropub-client"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: /en/microformats
-  url: https://indieweb.xyz/en/microformats
-- text: Lobsters
-  url: https://lobste.rs/s/ox798y/creating_my_own_personal_micropub_client
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://indieweb.xyz/en/microformats
+- https://lobste.rs/s/ox798y/creating_my_own_personal_micropub_client
 ---
 # Why?
 

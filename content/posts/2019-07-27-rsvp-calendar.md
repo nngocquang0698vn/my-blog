@@ -11,14 +11,10 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-27T11:24:48+0100
 slug: "rsvp-calendar"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: 'Lobsters'
-  url: https://lobste.rs
-- text: '@JamieTanna on Twitter'
-  url: https://twitter.com/jamietanna
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://lobste.rs
+- https://twitter.com/jamietanna
 ---
 Those who know me or at least follow me on social media or know me will know that I like attending meetups. On any given month I'll generally go to 4-5 different events, but some months are busier than others.
 

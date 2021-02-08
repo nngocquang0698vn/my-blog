@@ -12,10 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-26T22:08:28+0100
 slug: "static-site-private-posts"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 For some time now, I've been wanting to support private content on my website. That is to say, I've wanted to post things that only I can read, or post things that only nominated friends are allowed to read.
 

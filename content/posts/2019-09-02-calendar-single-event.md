@@ -9,10 +9,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-02T21:47:33+01:00
 slug: "calendar-single-event"
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
 ---
 [In May I added an iCalendar feed for each type of events on my website]({{< ref "2019-05-22-ical-events-hugo" >}}), which enabled folks to subscribe to a calendar feed for i.e. all [Homebrew Website Club Nottingham events](/events/homebrew-website-club-nottingham/) with a single handy calendar feed.
 

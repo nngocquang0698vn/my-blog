@@ -10,12 +10,9 @@ date: 2020-02-29T20:15:13+0000
 slug: "media-endpoint-proxy"
 image: /img/vendor/micropub-rocks-icon.png
 syndication:
-- text: IndieNews
-  url: https://news.indieweb.org/en
-- text: /en/indieweb
-  url: https://indieweb.xyz/en/indieweb
-- text: /en/micropub
-  url: https://indieweb.xyz/en/micropub
+- https://news.indieweb.org/en
+- https://indieweb.xyz/en/indieweb
+- https://indieweb.xyz/en/micropub
 ---
 Recently <span class="h-card"><a class="u-url" href="https://jlelse.blog">Jan-Lukas Else</a></span> [wrote "How should I upload files to my Micropub media endpoint?"](https://jlelse.blog/micro/2020/01/2020-01-01-frviz/), which is a question I myself have asked in the past.
 
