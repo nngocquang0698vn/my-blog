@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1358747583607414785" ],
+    "url" : [ "https://twitter.com/edent/status/1358747583607414785" ],
+    "published" : [ "2021-02-08T12:00:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What's the *minimum* amount of time you stick your personal \"Out Of Office\" on for?\n\nI've just seen \"I'm unavailable 11:00-12:30 due to...\" which feels a bit short, TBH!\n\nI don't bother for a day off, or even for a long weekend.",
+      "html" : "<div style=\"white-space: pre\">What's the *minimum* amount of time you stick your personal \"Out Of Office\" on for?\n\nI've just seen \"I'm unavailable 11:00-12:30 due to...\" which feels a bit short, TBH!\n\nI don't bother for a day off, or even for a long weekend.</div>"
+    } ]
+  }
+}
