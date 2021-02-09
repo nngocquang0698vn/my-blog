@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LVShepherd/status/1359163343404212230" ],
     "name" : [ "Like of @LVShepherd's tweet" ],
     "published" : [ "2021-02-09T17:18:00+0000" ],
     "like-of" : [ "https://twitter.com/LVShepherd/status/1359163343404212230" ]
