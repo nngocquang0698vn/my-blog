@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lawrencehurley/status/1359207169091108864" ],
     "name" : [ "Like of @lawrencehurley's tweet" ],
     "published" : [ "2021-02-09T21:36:00+0000" ],
     "category" : [ "remote-work" ],
