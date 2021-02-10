@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dsgolson/status/1359372852735078400" ],
     "name" : [ "Like of @dsgolson's tweet" ],
     "published" : [ "2021-02-10T18:08:00+0000" ],
     "like-of" : [ "https://twitter.com/dsgolson/status/1359372852735078400" ]
