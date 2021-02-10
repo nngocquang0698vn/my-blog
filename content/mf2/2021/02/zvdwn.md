@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MengelMinis/status/1359303512258191365" ],
     "name" : [ "Like of @MengelMinis's tweet" ],
     "published" : [ "2021-02-10T18:23:00+0000" ],
     "category" : [ "memes" ],
