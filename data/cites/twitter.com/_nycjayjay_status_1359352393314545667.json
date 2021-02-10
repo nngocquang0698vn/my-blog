@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1359352393314545667" ],
+    "url" : [ "https://twitter.com/nycjayjay/status/1359352393314545667" ],
+    "published" : [ "2021-02-10T04:04:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nycjayjay" ],
+        "numeric-id" : [ "15857462" ],
+        "name" : [ "Jay Kuo" ],
+        "nickname" : [ "nycjayjay" ],
+        "url" : [ "https://twitter.com/nycjayjay", "http://the-social-edge.com/about/" ],
+        "published" : [ "2008-08-14T23:53:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/848658898118692864/otb3yjGX.jpg" ]
+      }
+    } ],
+    "content" : [ "The internet is so fast." ],
+    "photo" : [ "https://pbs.twimg.com/media/Et1jyqKWQAQbZMp.jpg" ]
+  }
+}
