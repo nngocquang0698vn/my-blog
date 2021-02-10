@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KelgoreTrout/status/1359597768570933250" ],
     "name" : [ "Like of @KelgoreTrout's tweet" ],
     "published" : [ "2021-02-10T22:39:00+0000" ],
     "category" : [ "social-media" ],
