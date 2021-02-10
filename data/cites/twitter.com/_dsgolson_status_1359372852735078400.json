@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1359372852735078400" ],
+    "url" : [ "https://twitter.com/dsgolson/status/1359372852735078400" ],
+    "published" : [ "2021-02-10T05:25:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dsgolson" ],
+        "numeric-id" : [ "2613003625" ],
+        "name" : [ "Daniel Golson" ],
+        "nickname" : [ "dsgolson" ],
+        "url" : [ "https://twitter.com/dsgolson", "https://votesaveamerica.com", "http://instagram.com/dsgolson/" ],
+        "published" : [ "2014-07-09T05:19:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237744558856781824/QemTIvSf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Mood @AOC",
+      "html" : "Mood <a href=\"https://twitter.com/AOC\">@AOC</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Et12Z3-VcAAAKxb.jpg" ]
+  }
+}
