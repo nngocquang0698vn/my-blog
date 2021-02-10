@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HelenGradwell/status/1359249578927783939" ],
     "name" : [ "Like of @HelenGradwell's tweet" ],
     "published" : [ "2021-02-10T11:49:00+0000" ],
     "category" : [ "social-media" ],
