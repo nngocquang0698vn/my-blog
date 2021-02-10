@@ -4,7 +4,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ChangelingMx/status/1359625749376950272" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1359628536202551300" ],
     "name" : [ "Reply to https://twitter.com/ChangelingMx/status/1359625749376950272" ],
     "published" : [ "2021-02-10T22:18:00+0000" ],
     "content" : [ {
