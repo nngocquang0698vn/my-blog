@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MsRebeccaBlack/status/1359740258619826184" ],
     "name" : [ "Like of @MsRebeccaBlack's tweet" ],
     "published" : [ "2021-02-11T17:07:00+0000" ],
     "category" : [ "shitpost" ],
