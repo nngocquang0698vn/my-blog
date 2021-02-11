@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marianne_eloise/status/1359853317548105734" ],
     "name" : [ "Like of @marianne_eloise's tweet" ],
     "published" : [ "2021-02-11T21:57:00+0000" ],
     "category" : [ "coronavirus" ],
