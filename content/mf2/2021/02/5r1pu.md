@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/melhuman/status/1359882758831697925" ],
     "name" : [ "Like of @melhuman's tweet" ],
     "published" : [ "2021-02-11T21:57:00+0000" ],
     "category" : [ "coronavirus", "mental-health" ],
