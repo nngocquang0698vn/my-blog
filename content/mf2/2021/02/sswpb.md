@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/indieweb/micropub-extensions/issues/24" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/indieweb/micropub-extensions/issues/24#issuecomment-777775152" ],
     "name" : [ "Reply to https://github.com/indieweb/micropub-extensions/issues/24" ],
     "published" : [ "2021-02-11T20:37:53.076Z" ],
     "category" : [ "micropub", "www.jvt.me" ],
