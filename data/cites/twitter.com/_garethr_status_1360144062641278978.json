@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360144062641278978" ],
+    "url" : [ "https://twitter.com/garethr/status/1360144062641278978" ],
+    "published" : [ "2021-02-12T08:29:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:garethr" ],
+        "numeric-id" : [ "80703" ],
+        "name" : [ "Gareth Rushgrove" ],
+        "nickname" : [ "garethr" ],
+        "url" : [ "https://twitter.com/garethr", "https://garethr.dev" ],
+        "published" : [ "2006-12-19T21:00:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cambridge and London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM.jpg" ]
+      }
+    } ],
+    "content" : [ "being promoted is always a double edged sword, but at least it generally means you get more spreadsheets to play with" ]
+  }
+}
