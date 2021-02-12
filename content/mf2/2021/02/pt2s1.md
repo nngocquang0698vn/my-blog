@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarah_edo/status/1360023399104274433" ],
     "name" : [ "Like of @sarah_edo's tweet" ],
     "published" : [ "2021-02-12T08:17:00+0000" ],
     "category" : [ "coronavirus", "mental-health" ],
