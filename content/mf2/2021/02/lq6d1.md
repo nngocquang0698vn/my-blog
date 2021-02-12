@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hauntedamie/status/1359967458199801861" ],
     "name" : [ "Like of @hauntedamie's tweet" ],
     "published" : [ "2021-02-12T08:29:00+0000" ],
     "category" : [ "brooklyn-99" ],
