@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1360249387688079361" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2021-02-12T17:00:00+0000" ],
     "category" : [ "miscarriage" ],
