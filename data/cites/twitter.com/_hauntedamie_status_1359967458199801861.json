@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1359967458199801861" ],
+    "url" : [ "https://twitter.com/hauntedamie/status/1359967458199801861" ],
+    "published" : [ "2021-02-11T20:48:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hauntedamie" ],
+        "numeric-id" : [ "1114301443144654848" ],
+        "name" : [ "mimi" ],
+        "nickname" : [ "hauntedamie" ],
+        "url" : [ "https://twitter.com/hauntedamie", "https://boxd.it/10hbb" ],
+        "published" : [ "2019-04-05T22:59:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her ༄ 20 ༄ infj-t" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359233799788371969/L2Br4N0f.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#brooklyn99                              but it\ncomes back                          will be the \n   in 2021!                             last season",
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23brooklyn99\">#brooklyn99</a>                              but it\ncomes back                          will be the \n   in 2021!                             last season</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Et-TMaxXUAIq-9_.jpg", "https://pbs.twimg.com/media/Et-TMauXEAI2I2e.jpg" ]
+  }
+}
