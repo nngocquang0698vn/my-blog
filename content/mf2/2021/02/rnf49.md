@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dipalua_/status/1359958090523680771" ],
     "name" : [ "Like of @dipalua_'s tweet" ],
     "published" : [ "2021-02-12T20:00:00+0000" ],
     "category" : [ "coronavirus" ],
