@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/alediaferia/status/1360550282329997318" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1360562788884692995" ],
     "name" : [ "Reply to https://twitter.com/alediaferia/status/1360550282329997318" ],
     "published" : [ "2021-02-13T12:10:00+0000" ],
     "post-status" : [ "published" ],
