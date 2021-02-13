@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1360607429935968258" ],
     "photo" : [ {
       "alt" : "Black cat standing outside on the windowsill outside the living room, looking inside and meowing",
       "photo" : "https://media.jvt.me/3ccfd05ca1.jpeg"
