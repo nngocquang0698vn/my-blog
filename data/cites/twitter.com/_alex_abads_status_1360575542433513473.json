@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360575542433513473" ],
+    "url" : [ "https://twitter.com/alex_abads/status/1360575542433513473" ],
+    "published" : [ "2021-02-13T13:04:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alex_abads" ],
+        "numeric-id" : [ "36651066" ],
+        "name" : [ "alex" ],
+        "nickname" : [ "alex_abads" ],
+        "url" : [ "https://twitter.com/alex_abads", "http://Instagram.com/oneguynamedalex" ],
+        "published" : [ "2009-04-30T12:35:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316519430306893825/drsf3xsH.jpg" ]
+      }
+    } ],
+    "content" : [ "Feb 2020                             February 2021" ],
+    "photo" : [ "https://pbs.twimg.com/media/EuG8Pk-UUAEfFBT.jpg", "https://pbs.twimg.com/media/EuG8PlAVIAEu9Be.jpg" ]
+  }
+}
