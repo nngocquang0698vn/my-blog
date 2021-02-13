@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360617963297112066" ],
+    "url" : [ "https://twitter.com/colindecarlo/status/1360617963297112066" ],
+    "published" : [ "2021-02-13T15:52:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:colindecarlo" ],
+        "numeric-id" : [ "43323411" ],
+        "name" : [ "Colin DeCarlo" ],
+        "nickname" : [ "colindecarlo" ],
+        "url" : [ "https://twitter.com/colindecarlo" ],
+        "published" : [ "2009-05-29T12:49:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Guelph, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3025462676/30f21a3676a48c7d4ba6196f733da4a5.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Galaxy Brain on this guy! His @exercism_io  solution to \"Leap\" on the TypeScript track is 🧑‍🍳💋!\n\nFocus on *what* and not *how*, love it!",
+      "html" : "<div style=\"white-space: pre\">Galaxy Brain on this guy! His <a href=\"https://twitter.com/exercism_io\">@exercism_io</a>  solution to \"Leap\" on the TypeScript track is 🧑‍🍳💋!\n\nFocus on *what* and not *how*, love it!</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EuHhqXYXIAMlrif.jpg" ]
+  }
+}
