@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360617732346171392" ],
+    "url" : [ "https://twitter.com/NoContextTrek/status/1360617732346171392" ],
+    "published" : [ "2021-02-13T15:52:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NoContextTrek" ],
+        "numeric-id" : [ "839246845914251264" ],
+        "name" : [ "Star Trek Minus Context" ],
+        "nickname" : [ "NoContextTrek" ],
+        "url" : [ "https://twitter.com/NoContextTrek" ],
+        "published" : [ "2017-03-07T22:50:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "that one weird Jefferies tube" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1100138473539940352/u5ydepge.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EuHinctXIAc51Go.jpg" ]
+  }
+}
