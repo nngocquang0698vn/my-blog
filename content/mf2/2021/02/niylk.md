@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/colindecarlo/status/1360617963297112066" ],
     "name" : [ "Like of @colindecarlo's tweet" ],
     "published" : [ "2021-02-13T17:10:00+0000" ],
     "like-of" : [ "https://twitter.com/colindecarlo/status/1360617963297112066" ],
