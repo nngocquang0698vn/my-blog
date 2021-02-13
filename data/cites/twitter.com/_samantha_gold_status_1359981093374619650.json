@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1359981093374619650" ],
+    "url" : [ "https://twitter.com/samantha_gold/status/1359981093374619650" ],
+    "published" : [ "2021-02-11T21:42:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:samantha_gold" ],
+        "numeric-id" : [ "27193704" ],
+        "name" : [ "*:･ﾟ✧ Samantha  ✧･ﾟ:*" ],
+        "nickname" : [ "samantha_gold" ],
+        "url" : [ "https://twitter.com/samantha_gold", "http://www.samanthagoldste.in" ],
+        "published" : [ "2009-03-28T06:57:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/777564057553567749/7P6m2BMF.jpg" ]
+      }
+    } ],
+    "content" : [ "I’ve consulted every person I know and their therapists so I can conclusively say this is A Big Week for breakdowns" ]
+  }
+}
