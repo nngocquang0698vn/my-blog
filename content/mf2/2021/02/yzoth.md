@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xkcd/status/1360455732710244355" ],
     "name" : [ "Like of @xkcd's tweet" ],
     "published" : [ "2021-02-13T06:42:00+0000" ],
     "category" : [ "coronavirus" ],
