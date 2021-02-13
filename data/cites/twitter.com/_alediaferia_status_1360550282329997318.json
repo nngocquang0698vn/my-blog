@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360550282329997318" ],
+    "url" : [ "https://twitter.com/alediaferia/status/1360550282329997318" ],
+    "published" : [ "2021-02-13T11:23:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alediaferia" ],
+        "numeric-id" : [ "104764516" ],
+        "name" : [ "Alessandro Diaferia" ],
+        "nickname" : [ "alediaferia" ],
+        "url" : [ "https://twitter.com/alediaferia", "https://alediaferia.com", "https://bit.ly/37b" ],
+        "published" : [ "2010-01-14T09:34:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dublin City, Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1174430026151997442/IP_Otv3k.jpg" ]
+      }
+    } ],
+    "content" : [ "I keep thinking that the read-later problem is still unsolved. How do you keep track of articles you want to read but don't have time to now? I have a mix of calendar events, saved items and snoozed emails, but I don't feel I have full control over them" ]
+  }
+}
