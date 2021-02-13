@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoContextTrek/status/1360617732346171392" ],
     "name" : [ "Like of @NoContextTrek's tweet" ],
     "published" : [ "2021-02-13T17:08:00+0000" ],
     "category" : [ "star-trek" ],
