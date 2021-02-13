@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360455732710244355" ],
+    "url" : [ "https://twitter.com/xkcd/status/1360455732710244355" ],
+    "published" : [ "2021-02-13T05:08:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:xkcd" ],
+        "numeric-id" : [ "21146468" ],
+        "name" : [ "Randall Munroe" ],
+        "nickname" : [ "xkcd" ],
+        "url" : [ "https://twitter.com/xkcd", "http://xkcd.com" ],
+        "published" : [ "2009-02-17T23:36:03+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254885666795683841/Kn2yz-a7.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Normal Conversation xkcd.com/2424",
+      "html" : "Normal Conversation <a href=\"http://xkcd.com/2424\">xkcd.com/2424</a>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EuFPRstWQAA-3_j.jpg",
+      "alt" : "Comic"
+    } ]
+  }
+}
