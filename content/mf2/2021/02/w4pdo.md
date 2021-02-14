@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/onefaithlove/status/1358533946301173760" ],
     "name" : [ "Like of @onefaithlove's tweet" ],
     "published" : [ "2021-02-14T00:13:00+0000" ],
     "category" : [ "tiktok" ],
