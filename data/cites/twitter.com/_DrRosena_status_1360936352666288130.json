@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360936352666288130" ],
+    "url" : [ "https://twitter.com/DrRosena/status/1360936352666288130" ],
+    "published" : [ "2021-02-14T12:58:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DrRosena" ],
+        "numeric-id" : [ "2382227424" ],
+        "name" : [ "Dr Rosena Allin-Khan 💙" ],
+        "nickname" : [ "DrRosena" ],
+        "url" : [ "https://twitter.com/DrRosena", "http://www.drrosena.co.uk" ],
+        "published" : [ "2014-03-10T14:32:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1242407644893040640/--4Brpno.png" ]
+      }
+    } ],
+    "content" : [ "I’ve choked on tears while watching patients say goodbye to their loved ones via an iPad." ],
+    "photo" : [ "https://pbs.twimg.com/media/EuMEZaxWQAMEnH4.jpg" ]
+  }
+}
