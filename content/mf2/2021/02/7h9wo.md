@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrRosena/status/1360936352666288130" ],
     "name" : [ "Like of @DrRosena's tweet" ],
     "published" : [ "2021-02-14T15:30:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
