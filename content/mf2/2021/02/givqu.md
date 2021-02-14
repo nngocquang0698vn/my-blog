@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Astrid_NV/status/1360696430524960770" ],
     "name" : [ "Like of @Astrid_NV's tweet" ],
     "published" : [ "2021-02-14T13:22:00+0000" ],
     "category" : [ "politics" ],
