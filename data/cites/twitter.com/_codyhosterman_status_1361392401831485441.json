@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361392401831485441" ],
+    "url" : [ "https://twitter.com/codyhosterman/status/1361392401831485441" ],
+    "published" : [ "2021-02-15T19:10:16+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/paulienuh/status/1361391887253405706" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:codyhosterman" ],
+        "numeric-id" : [ "16441656" ],
+        "name" : [ "Cody Hosterman #BlackLivesMatter" ],
+        "nickname" : [ "codyhosterman" ],
+        "url" : [ "https://twitter.com/codyhosterman", "https://linktr.ee/codyhosterman" ],
+        "published" : [ "2008-09-24T21:40:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mountain View, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312938073378889728/shgzhO9X.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It went off the rails for me in like season 2 or something and I never watched it again. I'd be curious if it regained itself later",
+      "html" : "It went off the rails for me in like season 2 or something and I never watched it again. I'd be curious if it regained itself later\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulienuh\"></a>"
+    } ]
+  }
+}
