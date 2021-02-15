@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/dhh/status/1361306605845905414" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1361369439929827329" ],
     "name" : [ "Reply to https://twitter.com/dhh/status/1361306605845905414" ],
     "published" : [ "2021-02-15T17:35:00+0000" ],
     "category" : [ "indieweb" ],
