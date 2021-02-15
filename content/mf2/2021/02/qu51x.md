@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/codyhosterman/status/1361392401831485441" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1361436671259066372" ],
     "name" : [ "Reply to https://twitter.com/codyhosterman/status/1361392401831485441" ],
     "published" : [ "2021-02-15T20:03:00+0000" ],
     "category" : [ "heroes" ],
