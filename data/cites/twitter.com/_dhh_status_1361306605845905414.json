@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361306605845905414" ],
+    "url" : [ "https://twitter.com/dhh/status/1361306605845905414" ],
+    "published" : [ "2021-02-15T13:29:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dhh" ],
+        "numeric-id" : [ "14561327" ],
+        "name" : [ "DHH" ],
+        "nickname" : [ "dhh" ],
+        "url" : [ "https://twitter.com/dhh", "https://dhh.dk" ],
+        "published" : [ "2008-04-27T20:19:25+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+      }
+    } ],
+    "content" : [ "Web 4.0 will be everyone discovering that actually Web 1.0 was amazing and bringing the bulk of it back. Less surveillance, less centralization, less complexity." ]
+  }
+}
