@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361423297355808768" ],
+    "url" : [ "https://twitter.com/ctrlshifti/status/1361423297355808768" ],
+    "published" : [ "2021-02-15T21:13:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ctrlshifti" ],
+        "numeric-id" : [ "1047644343874465792" ],
+        "name" : [ "Kat Maddox" ],
+        "nickname" : [ "ctrlshifti" ],
+        "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox", "http://leftalign.substack.com" ],
+        "published" : [ "2018-10-04T00:27:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Gadigal land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333284190356271106/L0cUShP9.jpg" ]
+      }
+    } ],
+    "content" : [ "are facebook evil? well, they've been instrumental in the rise of fascism across the world and they profit off right-wing violence, but also they made graphql, so who's to say" ]
+  }
+}
