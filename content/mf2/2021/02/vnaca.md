@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlexArrelia/status/1360705964983394304" ],
     "name" : [ "Like of @AlexArrelia's tweet" ],
     "published" : [ "2021-02-15T08:16:00+0000" ],
     "category" : [ "star-trek" ],
