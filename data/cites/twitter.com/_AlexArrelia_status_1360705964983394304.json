@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1360705964983394304" ],
+    "url" : [ "https://twitter.com/AlexArrelia/status/1360705964983394304" ],
+    "published" : [ "2021-02-13T21:42:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AlexArrelia" ],
+        "numeric-id" : [ "2762484922" ],
+        "name" : [ "Alex Arrelia" ],
+        "nickname" : [ "AlexArrelia" ],
+        "url" : [ "https://twitter.com/AlexArrelia" ],
+        "published" : [ "2014-09-06T00:40:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Canada" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317194108327395328/cFpD7998.jpg" ]
+      }
+    } ],
+    "content" : [ "A coworker sent me this, I am BLESSED" ],
+    "photo" : [ "https://pbs.twimg.com/media/EuIy3QDWYAIVGgV.jpg" ]
+  }
+}
