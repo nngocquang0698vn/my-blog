@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361344525818601474" ],
+    "url" : [ "https://twitter.com/jessfromonline/status/1361344525818601474" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1361344487180689411/pu/vid/576x1024/JdIsxIJQdIVtrOqY.mp4?tag=10" ],
+    "published" : [ "2021-02-15T16:00:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jessfromonline" ],
+        "numeric-id" : [ "3184759329" ],
+        "name" : [ "jess" ],
+        "nickname" : [ "jessfromonline" ],
+        "url" : [ "https://twitter.com/jessfromonline", "https://liquidcrystal.bandcamp.com/" ],
+        "published" : [ "2015-04-19T21:34:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328449018679189508/CKTpXajk.jpg" ]
+      }
+    } ],
+    "content" : [ "caption is “POV you interview with silicon valley’s hot new tech startup” and wow if i don’t feel this in my bones" ]
+  }
+}
