@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361436690838155264" ],
+    "url" : [ "https://twitter.com/drdevonprice/status/1361436690838155264" ],
+    "published" : [ "2021-02-15T22:06:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:drdevonprice" ],
+        "numeric-id" : [ "409373977" ],
+        "name" : [ "Devon Price" ],
+        "nickname" : [ "drdevonprice" ],
+        "url" : [ "https://twitter.com/drdevonprice", "https://medium.com/@devonprice" ],
+        "published" : [ "2011-11-10T17:04:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292880977702912002/eBpdUKL_.jpg" ]
+      }
+    } ],
+    "content" : [ "I'm in a meeting where they just used \"what do you miss most about pre-COVID life\" as an ICEBREAKER PROMPT!! DO NOT DO THIS!" ]
+  }
+}
