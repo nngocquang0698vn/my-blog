@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drdevonprice/status/1361436690838155264" ],
     "name" : [ "Like of @drdevonprice's tweet" ],
     "published" : [ "2021-02-16T09:44:00+0000" ],
     "category" : [ "coronavirus" ],
