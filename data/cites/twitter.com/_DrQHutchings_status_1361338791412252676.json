@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361338791412252676" ],
+    "url" : [ "https://twitter.com/DrQHutchings/status/1361338791412252676" ],
+    "published" : [ "2021-02-15T15:37:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DrQHutchings" ],
+        "numeric-id" : [ "109642644" ],
+        "name" : [ "Quortne Hutchings, Ph.D." ],
+        "nickname" : [ "DrQHutchings" ],
+        "url" : [ "https://twitter.com/DrQHutchings" ],
+        "published" : [ "2010-01-29T19:24:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1263310420108029955/m6Xg1HKV.jpg" ]
+      }
+    } ],
+    "content" : [ "Last week I shared with my mom that I identify as non-binary and I use they/them pronouns. My mom asked if I had any articles for her to share to learn ways she can support me. She mentioned to extend her grace as she learns more about my identity." ]
+  }
+}
