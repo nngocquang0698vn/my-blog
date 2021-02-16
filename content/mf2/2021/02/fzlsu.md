@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShouldHaveCat/status/1361711646427742214" ],
     "name" : [ "Like of @ShouldHaveCat's tweet" ],
     "published" : [ "2021-02-16T17:21:00+0000" ],
     "category" : [ "cute" ],
