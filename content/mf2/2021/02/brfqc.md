@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbyfuller/status/1361478297494818816" ],
     "name" : [ "Like of @abbyfuller's tweet" ],
     "published" : [ "2021-02-16T08:00:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
