@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/zahrataiba/status/1361642608494317568" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1361668402037800960" ],
     "name" : [ "Reply to https://twitter.com/zahrataiba/status/1361642608494317568" ],
     "published" : [ "2021-02-16T13:24:08.013Z" ],
     "content" : [ {
