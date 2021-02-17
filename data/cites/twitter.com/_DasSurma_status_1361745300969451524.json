@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1361745300969451524" ],
+    "url" : [ "https://twitter.com/DasSurma/status/1361745300969451524" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1361745195927273476/pu/vid/812x720/gwnK5hGADf-G14ZL.mp4?tag=10" ],
+    "published" : [ "2021-02-16T18:32:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DasSurma" ],
+        "numeric-id" : [ "15180856" ],
+        "name" : [ "Surma" ],
+        "nickname" : [ "DasSurma" ],
+        "url" : [ "https://twitter.com/DasSurma", "https://surma.dev" ],
+        "published" : [ "2008-06-20T15:26:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1216718697571790849/faqjS4QM.jpg" ]
+      }
+    } ],
+    "content" : [ "I got my new Keychron K3, and I’m not gonna lie, writing tweets like this is pretty damn fun." ]
+  }
+}
