@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/LukeExton/status/1361949948011565056" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1361952428887863297" ],
     "name" : [ "Reply to https://twitter.com/LukeExton/status/1361949948011565056" ],
     "published" : [ "2021-02-17T08:13:00+0000" ],
     "post-status" : [ "published" ],
