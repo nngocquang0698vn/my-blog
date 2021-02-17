@@ -1,0 +1,68 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362009973019049987" ],
+    "url" : [ "https://twitter.com/sonniesedge/status/1362009973019049987" ],
+    "published" : [ "2021-02-17T12:04:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sonniesedge" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "sonniesedge" ],
+        "url" : [ "https://twitter.com/sonniesedge", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sitting on the Berlin wall" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357366069875335171/P7H7X5qH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is an interesting experiment.\n\nTry opening a new tweet and posting the words \"trans women are women\".\n\nSee what kind of response you get. \n\nAfraid to do so? Well guess what it's like to actually be trans on here. \n\nDon't think I'm a woman? Then please just fuck off.",
+      "html" : "<div style=\"white-space: pre\">This is an interesting experiment.\n\nTry opening a new tweet and posting the words \"trans women are women\".\n\nSee what kind of response you get. \n\nAfraid to do so? Well guess what it's like to actually be trans on here. \n\nDon't think I'm a woman? Then please just fuck off.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1361685813453594635" ],
+      "url" : [ "https://twitter.com/adactio/status/1361685813453594635" ],
+      "published" : [ "2021-02-16T14:36:11+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:adactio" ],
+          "numeric-id" : [ "11250" ],
+          "name" : [ "Jeremy Keith" ],
+          "nickname" : [ "adactio" ],
+          "url" : [ "https://twitter.com/adactio", "https://adactio.com" ],
+          "published" : [ "2006-11-01T13:12:51+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Brighton, East Sussex, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/727173860764844032/0hGX9DZG.jpg" ]
+        }
+      } ],
+      "location" : [ {
+        "type" : [ "h-card", "p-location" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:573ede7f6c450804" ],
+          "name" : [ "Brighton, England" ],
+          "url" : [ "https://maps.google.com/maps?q=50.83255513,-0.11815877" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Trans women are women.\n\nadactio.com/notes/17823",
+        "html" : "<div style=\"white-space: pre\">Trans women are women.\n\n<a href=\"https://adactio.com/notes/17823\">adactio.com/notes/17823</a></div>"
+      } ]
+    }
+  } ]
+}
