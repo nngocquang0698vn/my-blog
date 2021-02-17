@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362054321194598404" ],
+    "url" : [ "https://twitter.com/mikegalsworthy/status/1362054321194598404" ],
+    "published" : [ "2021-02-17T15:00:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mikegalsworthy" ],
+        "numeric-id" : [ "34247411" ],
+        "name" : [ "Dr Mike Galsworthy" ],
+        "nickname" : [ "mikegalsworthy" ],
+        "url" : [ "https://twitter.com/mikegalsworthy", "http://www.scientistsforeu.uk" ],
+        "published" : [ "2009-04-22T11:41:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1042029415482511360/M-f3-yEx.jpg" ]
+      }
+    } ],
+    "content" : [ "I really cannot think of a better picture to summarise Brexit." ],
+    "photo" : [ "https://pbs.twimg.com/media/Eub9L2nXIAMxist.jpg" ]
+  }
+}
