@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lannyopolis/status/1362184433516777473" ],
     "name" : [ "Like of @Lannyopolis's tweet" ],
     "published" : [ "2021-02-18T11:42:00+0000" ],
     "category" : [ "social-media" ],
