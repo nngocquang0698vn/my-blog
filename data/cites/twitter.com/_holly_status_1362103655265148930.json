@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362103655265148930" ],
+    "url" : [ "https://twitter.com/holly/status/1362103655265148930" ],
+    "published" : [ "2021-02-17T18:16:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:holly" ],
+        "numeric-id" : [ "7555262" ],
+        "name" : [ "Holly '8 Cats' Brockwell" ],
+        "nickname" : [ "holly" ],
+        "url" : [ "https://twitter.com/holly", "https://www.patreon.com/hollybrockwell" ],
+        "published" : [ "2007-07-18T10:27:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "From Nottingham, in London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248671410714804225/A_9KJ1y8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "There's been too much going on lately so I completely forgot to announce that me and #HollysMankyMoggies are moving back to my hometown of Nottingham later this year.\n\nI don't need to be here for work anymore, and lower rent means MOAR SPACE FOR NEEDY MOGS 🥰",
+      "html" : "<div style=\"white-space: pre\">There's been too much going on lately so I completely forgot to announce that me and <a href=\"https://twitter.com/search?q=%23HollysMankyMoggies\">#HollysMankyMoggies</a> are moving back to my hometown of Nottingham later this year.\n\nI don't need to be here for work anymore, and lower rent means MOAR SPACE FOR NEEDY MOGS 🥰</div>"
+    } ]
+  }
+}
