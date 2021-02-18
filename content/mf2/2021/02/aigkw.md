@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MsMelChen/status/1362088376602558464" ],
     "name" : [ "Like of @MsMelChen's tweet" ],
     "published" : [ "2021-02-18T08:08:00+0000" ],
     "category" : [ "spam" ],
