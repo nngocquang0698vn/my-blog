@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1362512644964577280" ],
     "published" : [ "2021-02-18T21:16:00+0000" ],
     "repost-of" : [ "https://twitter.com/PatchFriday/status/1362343036127244294" ],
     "category" : [ "iot" ],
