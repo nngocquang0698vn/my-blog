@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FionaBowler/status/1362147855230713859" ],
     "name" : [ "Like of @FionaBowler's tweet" ],
     "published" : [ "2021-02-18T17:22:00+0000" ],
     "category" : [ "cute" ],
