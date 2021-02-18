@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Philosophymeme0/status/1362333347536633857" ],
     "name" : [ "Like of @Philosophymeme0's tweet" ],
     "published" : [ "2021-02-18T10:09:00+0000" ],
     "category" : [ "philosophy" ],
