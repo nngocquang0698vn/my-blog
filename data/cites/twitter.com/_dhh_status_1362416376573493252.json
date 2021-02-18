@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362416376573493252" ],
+    "url" : [ "https://twitter.com/dhh/status/1362416376573493252" ],
+    "published" : [ "2021-02-18T14:59:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dhh" ],
+        "numeric-id" : [ "14561327" ],
+        "name" : [ "DHH" ],
+        "nickname" : [ "dhh" ],
+        "url" : [ "https://twitter.com/dhh", "https://dhh.dk" ],
+        "published" : [ "2008-04-27T20:19:25+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+      }
+    } ],
+    "content" : [ "I hadn't used respond_to format.atom in Rails for years. BUT WE'RE BRINGING SEXY BACK! 🤘" ]
+  }
+}
