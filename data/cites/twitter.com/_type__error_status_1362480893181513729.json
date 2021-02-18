@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362480893181513729" ],
+    "url" : [ "https://twitter.com/type__error/status/1362480893181513729" ],
+    "published" : [ "2021-02-18T19:15:33+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1362480612985176064" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My husband, an introvert, pointed out that extrovert society kind of expects introverts to just be out there doing stuff all the time and be fine with it, and it’s an interesting parallel with what we extroverts are feeling now",
+      "html" : "My husband, an introvert, pointed out that extrovert society kind of expects introverts to just be out there doing stuff all the time and be fine with it, and it’s an interesting parallel with what we extroverts are feeling now\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elibelly\"></a>"
+    } ]
+  }
+}
