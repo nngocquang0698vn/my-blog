@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dhh/status/1362416376573493252" ],
     "name" : [ "Like of @dhh's tweet" ],
     "published" : [ "2021-02-18T17:22:00+0000" ],
     "category" : [ "rss" ],
