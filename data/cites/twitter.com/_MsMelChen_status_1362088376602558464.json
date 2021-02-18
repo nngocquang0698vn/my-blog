@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362088376602558464" ],
+    "url" : [ "https://twitter.com/MsMelChen/status/1362088376602558464" ],
+    "published" : [ "2021-02-17T17:15:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MsMelChen" ],
+        "numeric-id" : [ "134976379" ],
+        "name" : [ "Melissa Chen" ],
+        "nickname" : [ "MsMelChen" ],
+        "url" : [ "https://twitter.com/MsMelChen", "https://melissa.blog" ],
+        "published" : [ "2010-04-20T00:38:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1326577581567709190/IuJKvdhG.jpg" ]
+      }
+    } ],
+    "content" : [ "What’s that old saying about being “mugged by reality?”" ],
+    "photo" : [ "https://pbs.twimg.com/media/EuccKJ_UUAM7e4N.jpg" ]
+  }
+}
