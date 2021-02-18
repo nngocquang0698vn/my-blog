@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bryanl/status/1362436891082186752" ],
     "name" : [ "Like of @bryanl's tweet" ],
     "published" : [ "2021-02-18T19:13:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
