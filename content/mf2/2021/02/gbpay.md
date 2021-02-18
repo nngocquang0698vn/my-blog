@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.meetup.com/Tech-Nottingham/events/276402087/" ],
-    "syndication" : [ "https://brid.gy/publish/meetup" ],
+    "syndication" : [ "https://www.meetup.com/Tech-Nottingham/events/276402087/#rsvp-by-https%3A%2F%2Fwww.jvt.me%2Fmf2%2F2021%2F02%2Fgbpay%2F" ],
     "published" : [ "2021-02-18T10:09:00+0000" ],
     "post-status" : [ "published" ],
     "rsvp" : [ "yes" ]
