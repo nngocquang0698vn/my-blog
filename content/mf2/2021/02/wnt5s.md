@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1362524947743129609" ],
     "photo" : [ {
       "alt" : "The Doughnotts packaging, with an anthropomorphised doughnut walking and smiling",
       "photo" : "https://media.jvt.me/09d4c331a1.jpeg"
