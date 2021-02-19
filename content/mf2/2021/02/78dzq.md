@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meakoopa/status/1362616018661740544" ],
     "name" : [ "Like of @meakoopa's tweet" ],
     "published" : [ "2021-02-19T13:33:00+0000" ],
     "category" : [ "coronavirus", "mental-health" ],
