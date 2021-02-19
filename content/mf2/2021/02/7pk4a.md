@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/blainecapatch/status/1362433127235297280" ],
     "name" : [ "Like of @blainecapatch's tweet" ],
     "published" : [ "2021-02-19T20:55:00+0000" ],
     "category" : [ "politics" ],
