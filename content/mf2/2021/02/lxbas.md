@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ingridavendano/status/1362787784780488704" ],
     "name" : [ "Like of @ingridavendano's tweet" ],
     "published" : [ "2021-02-19T17:33:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
