@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362655691593383938" ],
+    "url" : [ "https://twitter.com/stephenaugustus/status/1362655691593383938" ],
+    "published" : [ "2021-02-19T06:50:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:stephenaugustus" ],
+        "numeric-id" : [ "21621562" ],
+        "name" : [ "Stephen Augustus (he/him)" ],
+        "nickname" : [ "stephenaugustus" ],
+        "url" : [ "https://twitter.com/stephenaugustus", "https://github.com/justaugustus" ],
+        "published" : [ "2009-02-23T01:56:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1338282430940258306/D1ULSK8a.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Blessing your timeline with baklava cheesecake! instagr.am/p/CLdt1zdFc7v/",
+      "html" : "Blessing your timeline with baklava cheesecake! <a href=\"https://instagr.am/p/CLdt1zdFc7v/\">instagr.am/p/CLdt1zdFc7v/</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EukgIW3WQAUPm5U.jpg" ]
+  }
+}
