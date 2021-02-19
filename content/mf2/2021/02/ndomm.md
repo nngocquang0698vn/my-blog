@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RandomNoun7/status/1362655192773054464" ],
     "name" : [ "Like of @RandomNoun7's tweet" ],
     "published" : [ "2021-02-19T21:05:00+0000" ],
     "category" : [ "cute" ],
