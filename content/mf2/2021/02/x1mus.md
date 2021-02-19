@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nickclose5/status/1362655772484792321" ],
     "name" : [ "Like of @Nickclose5's tweet" ],
     "published" : [ "2021-02-19T15:43:00+0000" ],
     "category" : [ "politics", "space", "coronavirus" ],
