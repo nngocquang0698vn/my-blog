@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362433127235297280" ],
+    "url" : [ "https://twitter.com/blainecapatch/status/1362433127235297280" ],
+    "published" : [ "2021-02-18T16:05:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:blainecapatch" ],
+        "numeric-id" : [ "137865227" ],
+        "name" : [ "blaine capatch" ],
+        "nickname" : [ "blainecapatch" ],
+        "url" : [ "https://twitter.com/blainecapatch", "http://blainecapatch.com" ],
+        "published" : [ "2010-04-28T00:28:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "los angeles" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2972449081/ce4da2b2c943c36a91fe5b191abba77b.jpeg" ]
+      }
+    } ],
+    "content" : [ "why are people who hate mexicans always going on vacation in mexico" ]
+  }
+}
