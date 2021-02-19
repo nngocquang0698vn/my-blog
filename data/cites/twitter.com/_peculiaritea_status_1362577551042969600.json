@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362577551042969600" ],
+    "url" : [ "https://twitter.com/peculiaritea/status/1362577551042969600" ],
+    "published" : [ "2021-02-19T01:39:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:peculiaritea" ],
+        "numeric-id" : [ "3232327987" ],
+        "name" : [ "Kayla Cottingham 🦭" ],
+        "nickname" : [ "peculiaritea" ],
+        "url" : [ "https://twitter.com/peculiaritea", "http://kaylacottingham.com" ],
+        "published" : [ "2015-06-01T06:20:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1352706317471903745/GEfA-pn8.jpg" ]
+      }
+    } ],
+    "content" : [ "In what world is this subtle" ],
+    "photo" : [ "https://pbs.twimg.com/media/EujZD4sXIAEGHFa.jpg", "https://pbs.twimg.com/media/EujZD4qWgAEUrG0.jpg" ]
+  }
+}
