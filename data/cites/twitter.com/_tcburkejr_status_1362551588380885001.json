@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362551588380885001" ],
+    "url" : [ "https://twitter.com/tcburkejr/status/1362551588380885001" ],
+    "published" : [ "2021-02-18T23:56:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tcburkejr" ],
+        "numeric-id" : [ "239950574" ],
+        "name" : [ "Rev. Ted Lasso" ],
+        "nickname" : [ "tcburkejr" ],
+        "url" : [ "https://twitter.com/tcburkejr", "https://www.npr.org/2018/11/26/668358128/connecticut-va-opens-its-doors-to-bad-paper-veterans" ],
+        "published" : [ "2011-01-18T20:29:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Connecticut, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344680123635793921/v_-jHh1v.jpg" ]
+      }
+    } ],
+    "content" : [ "Anyone else realize Ted Cruz had no problem crossing a border to give his family a better life?" ]
+  }
+}
