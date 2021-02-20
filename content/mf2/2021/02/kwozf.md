@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rooreynolds/status/1362851741298020361" ],
     "name" : [ "Like of @rooreynolds's tweet" ],
     "published" : [ "2021-02-20T14:51:00+0000" ],
     "category" : [ "social-media", "blockchain" ],
