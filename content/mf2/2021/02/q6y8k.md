@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brunoborges/status/1362798857696940036" ],
     "name" : [ "Like of @brunoborges's tweet" ],
     "published" : [ "2021-02-20T19:03:00+0000" ],
     "category" : [ "shitpost", "java", "memes" ],
