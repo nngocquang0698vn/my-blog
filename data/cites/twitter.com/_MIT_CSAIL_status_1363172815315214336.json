@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363172815315214336" ],
+    "url" : [ "https://twitter.com/MIT_CSAIL/status/1363172815315214336" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1362472236838453253/pu/vid/960x720/p2-9yg-dfrn82oSX.mp4?tag=10" ],
+    "published" : [ "2021-02-20T17:05:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MIT_CSAIL" ],
+        "numeric-id" : [ "82364810" ],
+        "name" : [ "MIT CSAIL" ],
+        "nickname" : [ "MIT_CSAIL" ],
+        "url" : [ "https://twitter.com/MIT_CSAIL", "http://csail.mit.edu", "http://instagram.com/mit_csail/" ],
+        "published" : [ "2009-10-14T13:55:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cambridge, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You can now Rick roll in 4K, thanks to machine learning. \n\nbit.ly/37ms0aH",
+      "html" : "<div style=\"white-space: pre\">You can now Rick roll in 4K, thanks to machine learning. \n\n<a href=\"https://bit.ly/37ms0aH\">bit.ly/37ms0aH</a></div>"
+    } ]
+  }
+}
