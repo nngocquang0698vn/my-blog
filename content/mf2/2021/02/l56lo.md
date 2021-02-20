@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/catsnoplace/status/1362965362032082946" ],
     "name" : [ "Like of @catsnoplace's tweet" ],
     "published" : [ "2021-02-20T13:13:00+0000" ],
     "category" : [ "cute" ],
