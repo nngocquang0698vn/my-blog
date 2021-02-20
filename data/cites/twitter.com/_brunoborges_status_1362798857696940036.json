@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362798857696940036" ],
+    "url" : [ "https://twitter.com/brunoborges/status/1362798857696940036" ],
+    "published" : [ "2021-02-19T16:19:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:brunoborges" ],
+        "numeric-id" : [ "14566379" ],
+        "name" : [ "Bruno Borges" ],
+        "nickname" : [ "brunoborges" ],
+        "url" : [ "https://twitter.com/brunoborges", "https://brunoborges.io" ],
+        "published" : [ "2008-04-28T06:54:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151543517505658880/FicKfgDO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#Java",
+      "html" : "<a href=\"https://twitter.com/search?q=%23Java\">#Java</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EumiVpZVoAI87-V.jpg" ]
+  }
+}
