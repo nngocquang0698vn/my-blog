@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362965980289376259" ],
+    "url" : [ "https://twitter.com/WayneALawson/status/1362965980289376259" ],
+    "published" : [ "2021-02-20T03:23:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:WayneALawson" ],
+        "numeric-id" : [ "258083473" ],
+        "name" : [ "Wayne Lawson, PhD" ],
+        "nickname" : [ "WayneALawson" ],
+        "url" : [ "https://twitter.com/WayneALawson" ],
+        "published" : [ "2011-02-26T22:53:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ardmore, OK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361491163174297604/kGFegXey.jpg" ]
+      }
+    } ],
+    "content" : [ "Ted Cruz continues to be a trailblazer as he becomes the first Hispanic person to flee FROM Texas TO Mexico because of ICE" ]
+  }
+}
