@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362851741298020361" ],
+    "url" : [ "https://twitter.com/rooreynolds/status/1362851741298020361" ],
+    "published" : [ "2021-02-19T19:49:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rooreynolds" ],
+        "numeric-id" : [ "787166" ],
+        "name" : [ "Roo Reynolds" ],
+        "nickname" : [ "rooreynolds" ],
+        "url" : [ "https://twitter.com/rooreynolds", "http://rooreynolds.com" ],
+        "published" : [ "2007-02-21T20:42:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324437709969100800/vSVZQES6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I honestly hope that this whole painful conversation is a Socratic dialogue that @edent has created as an educational piece of performance art. The alternative is almost too grim to contemplate. I was reading between my fingers for most of it.",
+      "html" : "I honestly hope that this whole painful conversation is a Socratic dialogue that <a href=\"https://twitter.com/edent\">@edent</a> has created as an educational piece of performance art. The alternative is almost too grim to contemplate. I was reading between my fingers for most of it."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1360886528214458369" ],
+      "url" : [ "https://twitter.com/edent/status/1360886528214458369" ],
+      "published" : [ "2021-02-14T09:40:07+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:edent" ],
+          "numeric-id" : [ "14054507" ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "@NirbhikJangid hi, are you still involved in @tokenizedtweets? Or do you know anyone who is?",
+        "html" : "<a href=\"https://twitter.com/NirbhikJangid\">@NirbhikJangid</a> hi, are you still involved in <a href=\"https://twitter.com/tokenizedtweets\">@tokenizedtweets</a>? Or do you know anyone who is?"
+      } ]
+    }
+  } ]
+}
