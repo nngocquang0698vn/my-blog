@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362907578959728640" ],
+    "url" : [ "https://twitter.com/mzabriskie/status/1362907578959728640" ],
+    "published" : [ "2021-02-19T23:31:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mzabriskie" ],
+        "numeric-id" : [ "728933" ],
+        "name" : [ "😸 matt zabriskie 🤖" ],
+        "nickname" : [ "mzabriskie" ],
+        "url" : [ "https://twitter.com/mzabriskie", "http://mattzabriskie.com", "http://pronoun.is/he" ],
+        "published" : [ "2007-01-29T22:15:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Salt Lake City, UT" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1087029599219806214/Xr9dQXxZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Tired: Begging your team for code review.\nWired: Click-baiting them to your PR.",
+      "html" : "<div style=\"white-space: pre\">Tired: Begging your team for code review.\nWired: Click-baiting them to your PR.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EuoEGoHVEAEboIU.png" ]
+  }
+}
