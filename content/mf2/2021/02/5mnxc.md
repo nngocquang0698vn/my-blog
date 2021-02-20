@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StephLDV/status/1362861500990427139" ],
     "name" : [ "Like of @StephLDV's tweet" ],
     "published" : [ "2021-02-20T21:08:00+0000" ],
     "category" : [ "food" ],
