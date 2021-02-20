@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mzabriskie/status/1362907578959728640" ],
     "name" : [ "Like of @mzabriskie's tweet" ],
     "published" : [ "2021-02-20T12:06:00+0000" ],
     "category" : [ "code-review" ],
