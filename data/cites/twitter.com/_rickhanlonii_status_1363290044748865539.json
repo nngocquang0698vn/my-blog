@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363290044748865539" ],
+    "url" : [ "https://twitter.com/rickhanlonii/status/1363290044748865539" ],
+    "published" : [ "2021-02-21T00:50:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rickhanlonii" ],
+        "numeric-id" : [ "244965762" ],
+        "name" : [ "Ricky" ],
+        "nickname" : [ "rickhanlonii" ],
+        "url" : [ "https://twitter.com/rickhanlonii", "http://rickhanlon.codes" ],
+        "published" : [ "2011-01-30T15:13:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "EST. AKRON" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351212478286471172/pkq6GQ-L.jpg" ]
+      }
+    } ],
+    "content" : [ "Nuclear subtweet: it doesn’t matter how right you think your technical opinion is, if you can’t share it without being negative and toxic then you’re wrong." ]
+  }
+}
