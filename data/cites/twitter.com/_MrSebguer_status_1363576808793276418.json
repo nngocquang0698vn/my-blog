@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363576808793276418" ],
+    "url" : [ "https://twitter.com/MrSebguer/status/1363576808793276418" ],
+    "published" : [ "2021-02-21T19:50:19+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/kellan/status/1363570951728807948" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrSebguer" ],
+        "numeric-id" : [ "8844942" ],
+        "name" : [ "Michael Guerin" ],
+        "nickname" : [ "MrSebguer" ],
+        "url" : [ "https://twitter.com/MrSebguer" ],
+        "published" : [ "2007-09-13T01:44:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1284699066836774912/S1eFV3tr.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "imagine tweeting this barely over a month after your head of HR quit over a blatantly illegal firing lol",
+      "html" : "imagine tweeting this barely over a month after your head of HR quit over a blatantly illegal firing lol\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alicegoldfuss\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kellan\"></a>"
+    } ]
+  }
+}
