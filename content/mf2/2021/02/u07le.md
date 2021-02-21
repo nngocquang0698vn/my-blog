@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sylgr/status/1363249485242073088" ],
     "name" : [ "Like of @sylgr's tweet" ],
     "published" : [ "2021-02-21T11:29:00+0000" ],
     "category" : [ "marvel", "tiktok" ],
