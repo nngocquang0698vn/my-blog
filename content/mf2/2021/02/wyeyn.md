@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kefimochi/status/1363561801397329923" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1363590376557318148" ],
     "name" : [ "Reply to https://twitter.com/kefimochi/status/1363561801397329923" ],
     "published" : [ "2021-02-21T20:40:00+0000" ],
     "post-status" : [ "published" ],
