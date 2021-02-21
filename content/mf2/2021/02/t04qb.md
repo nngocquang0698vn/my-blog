@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mikko/status/1362763793042972673" ],
     "name" : [ "Like of @mikko's tweet" ],
     "published" : [ "2021-02-21T17:49:00+0000" ],
     "category" : [ "linux", "windows" ],
