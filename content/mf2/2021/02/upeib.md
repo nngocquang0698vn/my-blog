@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/khrosy_/status/1363148540965490701" ],
     "name" : [ "Like of @khrosy_'s tweet" ],
     "published" : [ "2021-02-21T12:52:00+0000" ],
     "category" : [ "food" ],
