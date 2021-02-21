@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrSebguer/status/1363576808793276418" ],
     "name" : [ "Like of @MrSebguer's tweet" ],
     "published" : [ "2021-02-21T20:41:00+0000" ],
     "category" : [ "github" ],
