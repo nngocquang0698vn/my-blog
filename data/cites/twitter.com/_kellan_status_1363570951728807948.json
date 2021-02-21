@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363570951728807948" ],
+    "url" : [ "https://twitter.com/kellan/status/1363570951728807948" ],
+    "published" : [ "2021-02-21T19:27:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kellan" ],
+        "numeric-id" : [ "47" ],
+        "name" : [ "kellan" ],
+        "nickname" : [ "kellan" ],
+        "url" : [ "https://twitter.com/kellan", "https://kellanem.com" ],
+        "published" : [ "2006-03-24T03:13:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1245356983261237248/-Akrlts4.jpg" ]
+      }
+    } ],
+    "content" : [ "I wonder what turn around? Selling to Microsoft? I hear that GitHub still has a pretty toxic culture. I know nothing about Jason but it’s serious red flag of other pathologies to see a exec out on Twitter thirsting for more credit and recognition." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1363153394001580034" ],
+      "url" : [ "https://twitter.com/jasoncwarner/status/1363153394001580034" ],
+      "published" : [ "2021-02-20T15:47:49+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:jasoncwarner" ],
+          "numeric-id" : [ "788065764255211520" ],
+          "name" : [ "Jason Warner" ],
+          "nickname" : [ "jasoncwarner" ],
+          "url" : [ "https://twitter.com/jasoncwarner", "https://medium.com/@jasonwarner" ],
+          "published" : [ "2016-10-17T17:14:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Victoria BC / Bellevue " ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/870116496621445120/d4gZijIA.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I hope one day we can tell the GitHub turnaround story. Many great people should be known & stories/lessons told\n\nFor this tweet, simply this: Betting on myself\n\n19 friends said I shouldn't do it: couldn't be done\n\n1 said I *absolutely* had to: bet on yourself",
+        "html" : "<div style=\"white-space: pre\">I hope one day we can tell the GitHub turnaround story. Many great people should be known &amp; stories/lessons told\n\nFor this tweet, simply this: Betting on myself\n\n19 friends said I shouldn't do it: couldn't be done\n\n1 said I *absolutely* had to: bet on yourself</div>\n<a class=\"tag\" href=\"https://twitter.com/jmj/status/1362791801413799939\">twitter.com/jmj/status/136…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/jmj/status/136…" ],
+        "url" : [ "https://twitter.com/jmj/status/1362791801413799939" ]
+      }
+    } ]
+  } ]
+}
