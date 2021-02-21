@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363581724869816321" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1363581724869816321" ],
+    "published" : [ "2021-02-21T20:09:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1363580380977094656" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "name" : [ "bletchley punk" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/", "http://twitch.tv/bletchleypunk" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Such a cheerful color! My husband was right to bring me here",
+      "html" : "Such a cheerful color! My husband was right to bring me here\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>"
+    } ]
+  }
+}
