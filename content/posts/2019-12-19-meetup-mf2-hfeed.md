@@ -1,5 +1,5 @@
 ---
-title: "`meetup-mf2.jvt.me` release 0.2.0: Adding `h-feed` support"
+title: "`meetup-mf2.herokuapp.com` release 0.2.0: Adding `h-feed` support"
 description: "Adding `h-feed` support for my Microformats translation layer for Meetup.com."
 tags:
 - microformats
@@ -14,7 +14,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-In August I [announced a Microformats API for Meetup.com: `meetup-mf2.jvt.me`]({{< ref "2019-08-31-microformats-meetup" >}}) to act as a translation layer between the silo and the IndieWeb.
+In August I [announced a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`]({{< ref "2019-08-31-microformats-meetup" >}}) to act as a translation layer between the silo and the IndieWeb.
 
 I've been using this as a core part of my own workflow for RSVPing to events, but that's usually when I see the event actually on Meetup.com and then manually RSVP from my website.
 
@@ -23,7 +23,7 @@ To make it so I could discover new events from my [Indie reader](https://indiewe
 With the [v0.2.0 release](https://gitlab.com/jamietanna/meetup-mf2/-/tags/0.2.0) (now in production!) this is now available for usage, which you can do with the following request to get the upcoming events for a given Meetup.com group:
 
 ```json
-GET https://meetup-mf2.jvt.me/Tech-Nottingham/events
+GET https://meetup-mf2.herokuapp.com/Tech-Nottingham/events
 {
     "items": [
         {

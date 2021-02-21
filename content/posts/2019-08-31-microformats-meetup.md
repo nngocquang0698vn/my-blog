@@ -1,5 +1,5 @@
 ---
-title: "Introducing a Microformats API for Meetup.com: `meetup-mf2.jvt.me`"
+title: "Introducing a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`"
 description: "Announcing the Microformats translation layer for Meetup.com events."
 tags:
 - www.jvt.me
@@ -16,7 +16,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-I'm very happy to announce that `meetup-mf2.jvt.me` is now live and provides a Meetup.com translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a meetup's metadata.
+I'm very happy to announce that `meetup-mf2.herokuapp.com` is now live and provides a Meetup.com translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a meetup's metadata.
 
 Having Microformats available is incredibly useful because it is a standardised format that makes it possible to use a wide range of clients to understand what i.e. a Meetup event is without having to either use the Meetup API or understand how Meetup's specific HTML works to render their events, and then parse out the data we need.
 
@@ -44,9 +44,9 @@ I've not yet worked on handling / avoiding rate limiting, nor anything around ca
 
 It's still a little rough around the edges, and is still v0.1, but I hope to improve it over time. I'll likely convert it to an AWS Lambda so I can avoid having it running on some infrastructure, and I know <span class="h-card"><a class="u-url" href="https://aaronparecki.com/">Aaron Parecki</a></span> [was interested in adding it to XRay](https://chat.indieweb.org/dev/2019-08-30/1567184835706900), as well as hopefully some other implementations available elsewhere.
 
-~~As [Ryan Barrett noticed](https://snarfed.org/2019-08-31_introducing-a-microformats-api-for-meetup-com-meetup-mf2-jvt-me) the API only responds to requests on certain routes following the meetup's URL, as I've not yet created i.e. a landing page.~~
+~~As [Ryan Barrett noticed](https://snarfed.org/2019-08-31_introducing-a-microformats-api-for-meetup-com-meetup-mf2.herokuapp.com) the API only responds to requests on certain routes following the meetup's URL, as I've not yet created i.e. a landing page.~~
 
-**Update 2019-09-14**: The landing page for the meetup itself is this blog post - so if you're trying to hit `meetup-mf2.jvt.me` and keep coming back here, that's why!
+**Update 2019-09-14**: The landing page for the meetup itself is this blog post - so if you're trying to hit `meetup-mf2.herokuapp.com` and keep coming back here, that's why!
 
 # Demo
 
@@ -74,7 +74,7 @@ GET https://api.meetup.com/PHPMiNDS-in-Nottingham/events/264008439/
 But if we rewrite the host and hit my API instead (noting that the path in the URL remains the same), we get a handy [h-event](http://microformats.org/wiki/h-event):
 
 ```json
-GET https://meetup-mf2.jvt.me/PHPMiNDS-in-Nottingham/events/264008439/
+GET https://meetup-mf2.herokuapp.com/PHPMiNDS-in-Nottingham/events/264008439/
 {
     "items": [
         {

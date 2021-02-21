@@ -1,5 +1,5 @@
 ---
-title: "Introducing a Microformats API for Eventbrite: `eventbrite-mf2.jvt.me`"
+title: "Introducing a Microformats API for Eventbrite: `eventbrite-mf2.herokuapp.com`"
 description: "Announcing the Microformats translation layer for Eventbrite.com/Eventbrite.co.uk events."
 tags:
 - www.jvt.me
@@ -16,9 +16,9 @@ syndication:
 - https://indieweb.xyz/en/indieweb
 - https://twitter.com/jamietanna
 ---
-Note: This post is very similar to [Introducing a Microformats API for Meetup.com: `meetup-mf2.jvt.me`]({{< ref "2019-08-31-microformats-meetup" >}}), so I'd recommend a read of that post for some more of the context of why I'm doing this.
+Note: This post is very similar to [Introducing a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`]({{< ref "2019-08-31-microformats-meetup" >}}), so I'd recommend a read of that post for some more of the context of why I'm doing this.
 
-I'm happy to announce that `eventbrite-mf2.jvt.me` is now live and provides a Eventbrite translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a event's metadata.
+I'm happy to announce that `eventbrite-mf2.herokuapp.com` is now live and provides a Eventbrite translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a event's metadata.
 
 This was partly due to the [recent community concerns about Meetup.com charging organisers for each RSVP to an event](https://www.theregister.co.uk/2019/10/15/meetup_fee_increase/), but I've also been thinking that I need to extend my Micropub support for different events, and as Eventbrite does not provide Microformats2 data for their events, I'd have to do it myself.
 
@@ -62,7 +62,7 @@ Notice that this `venue_id` needs a separate API request, which I won't display 
 To make the API easy to use, we can rewrite the host of the Eventbrite URL, and add my host instead (noting that the path in the URL remains the same), we get a handy [h-event](http://microformats.org/wiki/h-event):
 
 ```	json
-GET https://eventbrite-mf2.jvt.me/e/ddd-east-midlands-tickets-58629047058
+GET https://eventbrite-mf2.herokuapp.com/e/ddd-east-midlands-tickets-58629047058
 {
     "items": [
         {
