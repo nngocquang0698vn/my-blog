@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1362763793042972673" ],
+    "url" : [ "https://twitter.com/mikko/status/1362763793042972673" ],
+    "published" : [ "2021-02-19T13:59:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.hypponen.com" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Finland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ]
+      }
+    } ],
+    "content" : [ "Breaking: Mars becomes the second planet that has more computers running Linux than Windows." ],
+    "photo" : [ "https://pbs.twimg.com/media/EumBAzfXMAA3WDi.png" ]
+  }
+}
