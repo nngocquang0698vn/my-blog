@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1363970966913744896" ],
     "published" : [ "2021-02-22T21:54:33.68Z" ],
     "category" : [ "chef" ],
     "content" : [ {
