@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363901134805602307" ],
+    "url" : [ "https://twitter.com/mbellgb/status/1363901134805602307" ],
+    "published" : [ "2021-02-22T17:19:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mbellgb" ],
+        "numeric-id" : [ "1339394528" ],
+        "name" : [ "matt🔔 @ home" ],
+        "nickname" : [ "mbellgb" ],
+        "url" : [ "https://twitter.com/mbellgb", "https://mbell.dev" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311213514053353473/xVrunYgd.jpg" ]
+      }
+    } ],
+    "content" : [ "who the heck thought this was a good feature for a network router to have" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/Eu2Mn9jWQAEZVR6.png",
+      "alt" : "screenshot of virgin media super hub interface, that says: \"please note! someone else is currently logged into the settings page. only one session at a time is allowed. please try again later\""
+    } ]
+  }
+}
