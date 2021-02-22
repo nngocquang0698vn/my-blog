@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CubicleApril/status/1363918513665175552" ],
     "name" : [ "Like of @CubicleApril's tweet" ],
     "published" : [ "2021-02-22T20:29:00+0000" ],
     "category" : [ "sudo" ],
