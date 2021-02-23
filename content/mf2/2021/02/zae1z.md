@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1364231157395652609" ],
     "published" : [ "2021-02-23T15:08:00+0000" ],
     "repost-of" : [ "https://twitter.com/Rauer_2/status/1363885825449156608" ],
     "category" : [ "politics", "coronavirus" ],
