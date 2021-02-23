@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364226234503229441" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1364226234503229441" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1364226203905744899/pu/vid/640x1136/eNp4JdrdOasvYYfO.mp4?tag=10" ],
+    "published" : [ "2021-02-23T14:50:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364223177518247936/Bo9Np-uS.jpg" ]
+      }
+    } ],
+    "content" : [ "Sharing is caring" ]
+  }
+}
