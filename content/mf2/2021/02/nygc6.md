@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tom_usher_/status/1363935521706246147" ],
     "name" : [ "Like of @tom_usher_'s tweet" ],
     "published" : [ "2021-02-23T11:05:00+0000" ],
     "category" : [ "coronavirus", "politics" ],
