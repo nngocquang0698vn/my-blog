@@ -15,7 +15,51 @@ I've recently started working with the [Jenkins Job DSL plugin](https://github.c
 
 For this move to Job DSL, I wanted to get it set up to allow me to configure a Multibranch pipeline for a given Git repository, but to use Jenkins pipeline configured elsewhere, so I could reduce some repeated code.
 
-Aside: Job DSL is really awesome, and [I'll blog about how to get using it at some point in the future](https://gitlab.com/jamietanna/jvt.me/issues/825).
+# Using the remote-file plugin
+
+If you want to have a Jenkinsfile pulled from an external repo, the [Remote Jenkinsfile Provider plugin](https://plugins.jenkins.io/remote-file/) has your back.
+
+We can add the following configuration to our Job DSL:
+
+```groovy
+multibranchPipelineJob('example') {
+  branchSources {
+    git {
+      // ...
+    }
+  }
+  factory {
+    remoteJenkinsFileWorkflowBranchProjectFactory {
+      remoteJenkinsFile(scriptPath)
+      localMarker('') /* everything is valid */
+      remoteJenkinsFileSCM {
+        gitSCM {
+          userRemoteConfigs	{
+            userRemoteConfig {
+              name('origin')
+              url('https://git.host/pipelines.git')
+              refspec("+refs/heads/master:refs/remotes/origin/master")
+              credentialsId(SCM_CREDENTIALS_ID)
+            }
+          }
+          branches {
+            branchSpec {
+              name('master')
+            }
+          }
+          browser {} // required, but doesn't require configuration
+          gitTool('/usr/bin/env git') // or wherever makes sense
+        }
+      }
+    }
+  }
+}
+```
+When the job is then seeded, we get our Multibranch pipeline configured to run a script from an external repo - awesome!
+
+# On CloudBees Jenkins Enterprise
+
+Update 2021-02-23: as I was writing [Getting Started With Jenkins Job DSL Plugin for Standardising Your Pipelines]({{< ref 2021-02-23-getting-started-jobdsl-standardised >}}), I found that the solution below only works when using CloudBees Jenkins Enterprise, which was quite an infuriating evening of using the Open Source Jenkins and trying to track down a plugin that allows for "Custom Script".
 
 So the problem that has prompted this blog post is that while it is possible to configure in the Jenkins UI, it doesn't seem to be possible through the bindings for Job DSL's [`multibranchPipelineJob`](https://jenkinsci.github.io/job-dsl-plugin/#path/multibranchPipelineJob), at least as of v1.76.
 
