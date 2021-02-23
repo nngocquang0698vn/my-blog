@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1363885825449156608" ],
+    "url" : [ "https://twitter.com/Rauer_2/status/1363885825449156608" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1363885485245026313/pu/vid/750x410/uMNL3lkZ0iImcZaX.mp4?tag=10" ],
+    "published" : [ "2021-02-22T16:18:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Rauer_2" ],
+        "numeric-id" : [ "1124236025713369088" ],
+        "name" : [ "🅱️ill (Human not dog)" ],
+        "nickname" : [ "Rauer_2" ],
+        "url" : [ "https://twitter.com/Rauer_2" ],
+        "published" : [ "2019-05-03T08:55:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "19 He/Him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325466137170223104/7CIXLISu.jpg" ]
+      }
+    } ],
+    "content" : [ "Me on the 22nd June:" ]
+  }
+}
