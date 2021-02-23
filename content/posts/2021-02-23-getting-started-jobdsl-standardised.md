@@ -9,6 +9,9 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-02-23T22:27:54+0000
 slug: "getting-started-jobdsl-standardised"
 image: /img/vendor/jenkins.png
+syndication:
+- https://lobste.rs/s/ggbnyj/getting_started_with_jenkins_job_dsl
+- https://news.ycombinator.com/item?id=26243856
 ---
 # What is Job DSL?
 
