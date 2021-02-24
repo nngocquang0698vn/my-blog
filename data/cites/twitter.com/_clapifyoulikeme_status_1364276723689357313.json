@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364276723689357313" ],
+    "url" : [ "https://twitter.com/clapifyoulikeme/status/1364276723689357313" ],
+    "published" : [ "2021-02-23T18:11:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:clapifyoulikeme" ],
+        "numeric-id" : [ "14381110" ],
+        "name" : [ "Mrs. Detective Pikajew, Esq." ],
+        "nickname" : [ "clapifyoulikeme" ],
+        "url" : [ "https://twitter.com/clapifyoulikeme" ],
+        "published" : [ "2008-04-14T04:16:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "N. Y. C." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358671830681329664/8axd2tXn.jpg" ]
+      }
+    } ],
+    "content" : [ "Imagine being an apex predator and constantly getting picked up and kissed on the head" ]
+  }
+}
