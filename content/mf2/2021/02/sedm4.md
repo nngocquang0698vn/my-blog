@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1364704883459375104" ],
     "photo" : [ {
       "alt" : "Jamie smiling at the camera, before the haircut, with lots of hair over his eyes, and quite a lot of beard growth",
       "photo" : "https://media.jvt.me/9ebd3217da.jpeg"
