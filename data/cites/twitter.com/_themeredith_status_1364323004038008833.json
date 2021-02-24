@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364323004038008833" ],
+    "url" : [ "https://twitter.com/themeredith/status/1364323004038008833" ],
+    "published" : [ "2021-02-23T21:15:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:themeredith" ],
+        "numeric-id" : [ "28162746" ],
+        "name" : [ "pretty and rude" ],
+        "nickname" : [ "themeredith" ],
+        "url" : [ "https://twitter.com/themeredith", "http://onlyfans.com/themeredith" ],
+        "published" : [ "2009-04-01T18:33:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Santa Monica, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358191747294253063/d2lYwTgc.jpg" ]
+      }
+    } ],
+    "content" : [ "My lawyer when I send him screenshots of my illegally shared onlyfans content" ],
+    "photo" : [ "https://pbs.twimg.com/media/Eu8MinLVoAAmy0k.jpg" ]
+  }
+}
