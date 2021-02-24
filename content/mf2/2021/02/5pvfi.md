@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/themeredith/status/1364323004038008833" ],
     "name" : [ "Like of @themeredith's tweet" ],
     "published" : [ "2021-02-24T09:00:00+0000" ],
     "like-of" : [ "https://twitter.com/themeredith/status/1364323004038008833" ],
