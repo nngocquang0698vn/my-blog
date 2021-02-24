@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364422051092598789" ],
+    "url" : [ "https://twitter.com/SeanOnTwt/status/1364422051092598789" ],
+    "published" : [ "2021-02-24T03:49:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SeanOnTwt" ],
+        "numeric-id" : [ "108721718" ],
+        "name" : [ "Sean Lyndersay" ],
+        "nickname" : [ "SeanOnTwt" ],
+        "url" : [ "https://twitter.com/SeanOnTwt" ],
+        "published" : [ "2010-01-26T21:24:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "a mote of dust in a sunbeam " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/657380462/biopic.png" ]
+      }
+    } ],
+    "content" : [ "Amazon has hit a key milestone. There are now more women on the S-Team (Senior Leadership team) than there are Jeffs." ]
+  }
+}
