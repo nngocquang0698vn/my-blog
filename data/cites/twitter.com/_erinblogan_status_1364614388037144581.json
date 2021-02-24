@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364614388037144581" ],
+    "url" : [ "https://twitter.com/erinblogan/status/1364614388037144581" ],
+    "published" : [ "2021-02-24T16:33:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:erinblogan" ],
+        "numeric-id" : [ "20018428" ],
+        "name" : [ "Erin B. Logan" ],
+        "nickname" : [ "erinblogan" ],
+        "url" : [ "https://twitter.com/erinblogan", "https://linktr.ee/erinblogan" ],
+        "published" : [ "2009-02-04T01:02:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "WEAR A MASK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1225152977935138817/rsKe2Tgc.jpg" ]
+      }
+    } ],
+    "content" : [ "an editor said to me the other day, \"we are not working remotely. we are living at work.\"" ]
+  }
+}
