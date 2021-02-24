@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1364446151085277184" ],
+    "url" : [ "https://twitter.com/SynStalker/status/1364446151085277184" ],
+    "published" : [ "2021-02-24T05:24:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SynStalker" ],
+        "numeric-id" : [ "16316330" ],
+        "name" : [ "Lou van der Bijl" ],
+        "nickname" : [ "SynStalker" ],
+        "url" : [ "https://twitter.com/SynStalker" ],
+        "published" : [ "2008-09-16T19:43:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cape Town, South Africa" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339168302472564736/nrjSTQNi.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eu98iwHXYAMnYij.jpg" ]
+  }
+}
