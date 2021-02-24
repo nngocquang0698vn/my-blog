@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SynStalker/status/1364446151085277184" ],
     "name" : [ "Like of @SynStalker's tweet" ],
     "published" : [ "2021-02-24T11:00:00+0000" ],
     "category" : [ "diversity-and-inclusion", "star-trek" ],
