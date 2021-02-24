@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SeanOnTwt/status/1364422051092598789" ],
     "name" : [ "Like of @SeanOnTwt's tweet" ],
     "published" : [ "2021-02-24T19:22:00+0000" ],
     "category" : [ "amazon", "diversity-and-inclusion" ],
