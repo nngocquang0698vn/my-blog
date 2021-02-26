@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365314717733027840" ],
+    "url" : [ "https://twitter.com/maxcell/status/1365314717733027840" ],
+    "published" : [ "2021-02-26T14:56:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:maxcell" ],
+        "numeric-id" : [ "3115345708" ],
+        "name" : [ "Prince Wilson" ],
+        "nickname" : [ "maxcell" ],
+        "url" : [ "https://twitter.com/maxcell", "https://prince.dev" ],
+        "published" : [ "2015-03-25T16:59:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1206720510492467200/lrfX22VM.jpg" ]
+      }
+    } ],
+    "content" : [ "Today is a hard day for me, it is the anniversary of Trayvon Martin's death. For me, that was the most excruciating reminder to me that I could be killed for how I looked. Take time today for silence to pay respect to many named and unnamed Black folks that deserve justice." ]
+  }
+}
