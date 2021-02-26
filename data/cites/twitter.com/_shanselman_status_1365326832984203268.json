@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365326832984203268" ],
+    "url" : [ "https://twitter.com/shanselman/status/1365326832984203268" ],
+    "published" : [ "2021-02-26T15:44:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com", "http://youtube.com/shanselman", "http://heyfriends.io" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Absolutely NONE of y’all. You think your tweets compete with Netflix? Disney plus? Please. I’m literally tweeting this from the toilet.",
+      "html" : "Absolutely NONE of y’all. You think your tweets compete with Netflix? Disney plus? Please. I’m literally tweeting this from the toilet.\n<a class=\"tag\" href=\"https://twitter.com/austen/status/1365080786160939009\">twitter.com/austen/status/…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/austen/status/…" ],
+      "url" : [ "https://twitter.com/austen/status/1365080786160939009" ]
+    }
+  } ]
+}
