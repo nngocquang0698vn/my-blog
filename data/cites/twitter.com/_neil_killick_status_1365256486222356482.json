@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365256486222356482" ],
+    "url" : [ "https://twitter.com/neil_killick/status/1365256486222356482" ],
+    "published" : [ "2021-02-26T11:04:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:neil_killick" ],
+        "numeric-id" : [ "47562870" ],
+        "name" : [ "Neil Killick" ],
+        "nickname" : [ "neil_killick" ],
+        "url" : [ "https://twitter.com/neil_killick", "https://www.neilkillick.com" ],
+        "published" : [ "2009-06-16T06:42:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363838189459267584/8zRQI6lp.jpg" ]
+      }
+    } ],
+    "content" : [ "\"I want you to be a self-managing team. Here are the ceremonies, roles and practices you must follow so you can do that.\"" ]
+  }
+}
