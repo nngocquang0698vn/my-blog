@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365435533762134019" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1365435533762134019" ],
+    "published" : [ "2021-02-26T22:56:14+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/vicki_langer/status/1365423658601222146" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "http://alex-hidalgo.com" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343421176354377732/dS8-0Luz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It’s worth noting this works only at the highest enterprise tier. And even then only via data dump API call not in the app (last I knew). Still important for people to know of course but don’t want to scare anyone unduly!",
+      "html" : "It’s worth noting this works only at the highest enterprise tier. And even then only via data dump API call not in the app (last I knew). Still important for people to know of course but don’t want to scare anyone unduly!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/richburroughs\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vicki_langer\"></a>"
+    } ]
+  }
+}
