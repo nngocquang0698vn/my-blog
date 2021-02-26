@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365352974621552649" ],
+    "url" : [ "https://twitter.com/chriscoyier/status/1365352974621552649" ],
+    "published" : [ "2021-02-26T17:28:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chriscoyier" ],
+        "numeric-id" : [ "793830" ],
+        "name" : [ "Chris Coyier" ],
+        "nickname" : [ "chriscoyier" ],
+        "url" : [ "https://twitter.com/chriscoyier", "https://chriscoyier.net" ],
+        "published" : [ "2007-02-25T16:02:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bend, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/883049860332609537/IsUISvAq.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Sometimes I feel like you could pitch re-branded RSS as a hot new startup. \n\n✨ It's a site ✨ where you read other sites/newsletters ✨ with zero bullshit ✨",
+      "html" : "<div style=\"white-space: pre\">Sometimes I feel like you could pitch re-branded RSS as a hot new startup. \n\n✨ It's a site ✨ where you read other sites/newsletters ✨ with zero bullshit ✨</div>"
+    } ]
+  }
+}
