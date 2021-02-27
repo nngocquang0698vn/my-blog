@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365638006103810051" ],
+    "url" : [ "https://twitter.com/ambertakahashi/status/1365638006103810051" ],
+    "published" : [ "2021-02-27T12:20:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ambertakahashi" ],
+        "numeric-id" : [ "379894297" ],
+        "name" : [ "Amber Takahashi ✦ Tech" ],
+        "nickname" : [ "ambertakahashi" ],
+        "url" : [ "https://twitter.com/ambertakahashi", "https://ambertkhshi.com/" ],
+        "published" : [ "2011-09-25T18:52:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chocolate City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364361899610144768/HcuBiiUg.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s official. I’ve found my favorite meme." ],
+    "photo" : [ "https://pbs.twimg.com/media/EvO4hx3XMAEC7aY.jpg" ]
+  }
+}
