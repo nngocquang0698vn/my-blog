@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365268978810109952" ],
+    "url" : [ "https://twitter.com/RandomBritNews/status/1365268978810109952" ],
+    "published" : [ "2021-02-26T11:54:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RandomBritNews" ],
+        "numeric-id" : [ "1296511086242430977" ],
+        "name" : [ "British Headlines" ],
+        "nickname" : [ "RandomBritNews" ],
+        "url" : [ "https://twitter.com/RandomBritNews" ],
+        "published" : [ "2020-08-20T18:15:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇬🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296515605747597315/EbrrRKN2.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EvJo5nSXcAAEgle.jpg" ]
+  }
+}
