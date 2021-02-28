@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366118622318321668" ],
+    "url" : [ "https://twitter.com/stephhippo/status/1366118622318321668" ],
+    "published" : [ "2021-02-28T20:10:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:stephhippo" ],
+        "numeric-id" : [ "55135988" ],
+        "name" : [ "Steph Hippo" ],
+        "nickname" : [ "stephhippo" ],
+        "url" : [ "https://twitter.com/stephhippo", "http://www.stephhippo.com" ],
+        "published" : [ "2009-07-09T04:01:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989579420452229120/YJH4SCXf.jpg" ]
+      }
+    } ],
+    "content" : [ "Debugging my robot vacuum today because the future is stupid." ]
+  }
+}
