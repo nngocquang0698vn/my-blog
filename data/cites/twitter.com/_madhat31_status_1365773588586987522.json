@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1365773588586987522" ],
+    "url" : [ "https://twitter.com/madhat31/status/1365773588586987522" ],
+    "published" : [ "2021-02-27T21:19:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:madhat31" ],
+        "numeric-id" : [ "402163379" ],
+        "name" : [ "Madison Hatfield" ],
+        "nickname" : [ "madhat31" ],
+        "url" : [ "https://twitter.com/madhat31", "https://vimeo.com/371953619" ],
+        "published" : [ "2011-10-31T17:03:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atlanta" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1261431848489582593/YGXjdWmW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Do you hear that sound? It’s every screenwriter in the world whispering a reverent “FUCK” under their breath. #WandaVision",
+      "html" : "Do you hear that sound? It’s every screenwriter in the world whispering a reverent “FUCK” under their breath. <a href=\"https://twitter.com/search?q=%23WandaVision\">#WandaVision</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EvQz1wFXEAEu83T.jpg" ]
+  }
+}
