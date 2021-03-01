@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/animalIife/status/1366097099348185093" ],
     "name" : [ "Like of @animalIife's tweet" ],
     "published" : [ "2021-03-01T20:18:00+0000" ],
     "category" : [ "cute" ],
