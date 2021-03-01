@@ -260,6 +260,27 @@ class JobFactory {
     }
     factory.folder(projectBaseBuildPath) {
       description("Jobs for building the $gitRepoName project")
+      properties {
+        folderLibraries {
+          libraries { // allow us to fetch the libraries in `buildutilities`
+            libraryConfiguration {
+              name 'managed-java-pipeline-library'
+              implicit false
+              defaultVersion PIPELINE_REPO_BRANCH
+              retriever {
+                modernSCM {
+                  scm {
+                    git {
+                      remote PIPELINE_GIT_REPO_URL
+                      credentialsId SCM_CREDENTIALS_ID
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 
@@ -458,13 +479,6 @@ We need to update our `settings.gradle` to add the `pipelines` sources, so i.e. 
 include 'jobs'
 include 'pipelines'
 ```
-
-Finally, we need to add a pipeline library, which will allow us to access the classes in `buildutilities`. To do this, we need to add a pipeline library on the `Java` folder:
-
-- Name: `managed-java-pipeline-library`
-- Default Version: `master`
-- Load implicitly: unticked (leave off)
-- SCM: i.e. `https://gitlab.com/jamietanna/job-dsl-example`
 
 And it's that simple! Now we can go and trigger our jobs to build them, and they'll now be running against the pipeline.
 
