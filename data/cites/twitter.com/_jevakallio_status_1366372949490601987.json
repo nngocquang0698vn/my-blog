@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366372949490601987" ],
+    "url" : [ "https://twitter.com/jevakallio/status/1366372949490601987" ],
+    "published" : [ "2021-03-01T13:01:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jevakallio" ],
+        "numeric-id" : [ "15930040" ],
+        "name" : [ "Jani Eväkallio" ],
+        "nickname" : [ "jevakallio" ],
+        "url" : [ "https://twitter.com/jevakallio", "https://jevakallio.dev" ],
+        "published" : [ "2008-08-21T11:16:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1260968240504856576/FNIWLC0A.jpg" ]
+      }
+    } ],
+    "content" : [ "There's \"technical debt\", and then there are decisions you make the morning of the release date that can only be described as 9000% APR technical payday loans" ]
+  }
+}
