@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366091179905978371" ],
+    "url" : [ "https://twitter.com/yelyahwilliams/status/1366091179905978371" ],
+    "published" : [ "2021-02-28T18:21:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:yelyahwilliams" ],
+        "numeric-id" : [ "40981798" ],
+        "name" : [ "hayley from Paramore 🥀" ],
+        "nickname" : [ "yelyahwilliams" ],
+        "url" : [ "https://twitter.com/yelyahwilliams", "https://HayleyWilliams.lnk.to/FLOWERSforVASESTA" ],
+        "published" : [ "2009-05-18T22:08:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nashville, TN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357554576170258434/ZTrDsEDL.jpg" ]
+      }
+    } ],
+    "content" : [ "i am once again asking you to stop perpetuating the rumor that Paramore ever broke up" ]
+  }
+}
