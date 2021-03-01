@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366486351374352387" ],
+    "url" : [ "https://twitter.com/jaydestro/status/1366486351374352387" ],
+    "published" : [ "2021-03-01T20:31:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jaydestro" ],
+        "numeric-id" : [ "15664858" ],
+        "name" : [ "jay gordon 🦍" ],
+        "nickname" : [ "jaydestro" ],
+        "url" : [ "https://twitter.com/jaydestro", "http://garfield.and.friends.butmakeit.fashion" ],
+        "published" : [ "2008-07-30T19:34:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364968292218241030/Smp8E3Dy.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:011add077f4d2da3" ],
+        "name" : [ "Brooklyn, NY" ]
+      }
+    } ],
+    "content" : [ "I may get canceled for this but exiting vim isn’t that hard." ]
+  }
+}
