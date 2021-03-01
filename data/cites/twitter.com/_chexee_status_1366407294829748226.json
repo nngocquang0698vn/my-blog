@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366407294829748226" ],
+    "url" : [ "https://twitter.com/chexee/status/1366407294829748226" ],
+    "published" : [ "2021-03-01T15:17:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chexee" ],
+        "numeric-id" : [ "8812232" ],
+        "name" : [ "Chelsea Otakan" ],
+        "nickname" : [ "chexee" ],
+        "url" : [ "https://twitter.com/chexee", "http://chexee.me" ],
+        "published" : [ "2007-09-11T15:14:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000643355548/9a1df284701f89b3526bffe458a01bbe.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "TIL Jason Statham has very good interior design taste.\n\narchitecturaldigest.com/story/jason-st…",
+      "html" : "<div style=\"white-space: pre\">TIL Jason Statham has very good interior design taste.\n\n<a href=\"https://www.architecturaldigest.com/story/jason-statham-malibu-house\">architecturaldigest.com/story/jason-st…</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EvZ0MJRUYAMqAIZ.jpg", "https://pbs.twimg.com/media/EvZ0MJPU4AAO5dT.jpg", "https://pbs.twimg.com/media/EvZ0MJQVcAU8MFt.jpg", "https://pbs.twimg.com/media/EvZ0MJQVkAE_JDo.jpg" ]
+  }
+}
