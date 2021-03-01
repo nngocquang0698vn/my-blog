@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366050572378517512" ],
+    "url" : [ "https://twitter.com/modern_kd/status/1366050572378517512" ],
+    "published" : [ "2021-02-28T15:40:11+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/EriPDev/status/1366040873180549122" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:modern_kd" ],
+        "numeric-id" : [ "38585860" ],
+        "name" : [ "KD's modern Strife" ],
+        "nickname" : [ "modern_kd" ],
+        "url" : [ "https://twitter.com/modern_kd", "http://KevinDav.us" ],
+        "published" : [ "2009-05-08T02:32:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "perpetually online " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318704301901074434/YXCYfF3v.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "He only thinks that because people got tired of his grifting and hustle porn",
+      "html" : "He only thinks that because people got tired of his grifting and hustle porn\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EriPDev\"></a>"
+    } ]
+  }
+}
