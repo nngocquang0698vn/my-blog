@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mariatta/status/1366519570568126466" ],
     "name" : [ "Like of @mariatta's tweet" ],
     "published" : [ "2021-03-01T23:22:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
