@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jevakallio/status/1366372949490601987" ],
     "name" : [ "Like of @jevakallio's tweet" ],
     "published" : [ "2021-03-01T17:18:00+0000" ],
     "category" : [ "tech-debt" ],
