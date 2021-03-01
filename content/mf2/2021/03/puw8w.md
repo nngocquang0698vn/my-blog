@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/cal_gif/status/1366476303847710721" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1366502522886717440" ],
     "name" : [ "Reply to https://twitter.com/cal_gif/status/1366476303847710721" ],
     "published" : [ "2021-03-01T21:34:00+0000" ],
     "category" : [ "coronavirus", "2020" ],
