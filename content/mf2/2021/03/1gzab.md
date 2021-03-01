@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CallMeWuz/status/1366509054647021568" ],
     "name" : [ "Like of @CallMeWuz's tweet" ],
     "published" : [ "2021-03-01T22:50:00+0000" ],
     "category" : [ "social-media", "diversity-and-inclusion" ],
