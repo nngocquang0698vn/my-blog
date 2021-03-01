@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366519570568126466" ],
+    "url" : [ "https://twitter.com/mariatta/status/1366519570568126466" ],
+    "published" : [ "2021-03-01T22:43:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mariatta" ],
+        "numeric-id" : [ "17009144" ],
+        "name" : [ "Mariatta 🤦" ],
+        "nickname" : [ "mariatta" ],
+        "url" : [ "https://twitter.com/mariatta", "https://github.com/sponsors/Mariatta" ],
+        "published" : [ "2008-10-27T22:48:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Port Moody, British Columbia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337205455815241728/uh8MBBwp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Improving diversity is not just about recruiting diverse teammebers to join your company.\n\nIt's also about recruiting folks who can be allies and supporters for the marginalized teammebers.",
+      "html" : "<div style=\"white-space: pre\">Improving diversity is not just about recruiting diverse teammebers to join your company.\n\nIt's also about recruiting folks who can be allies and supporters for the marginalized teammebers.</div>"
+    } ]
+  }
+}
