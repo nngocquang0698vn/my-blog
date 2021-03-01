@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366429623723167748" ],
+    "url" : [ "https://twitter.com/fragmad/status/1366429623723167748" ],
+    "published" : [ "2021-03-01T16:46:23+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1366427655311138821" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:fragmad" ],
+        "numeric-id" : [ "7396842" ],
+        "name" : [ "Will Ellwood" ],
+        "nickname" : [ "fragmad" ],
+        "url" : [ "https://twitter.com/fragmad", "http://www.will-ellwood.com/" ],
+        "published" : [ "2007-07-11T08:57:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Scotland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/922398676441616384/ER8vV1Bf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Guilty here. I'm writing mine after work because on-call kills my desire to write.",
+      "html" : "Guilty here. I'm writing mine after work because on-call kills my desire to write.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
