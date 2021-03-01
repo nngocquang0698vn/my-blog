@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366498930272436227" ],
+    "url" : [ "https://twitter.com/paulienuh/status/1366498930272436227" ],
+    "published" : [ "2021-03-01T21:21:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulienuh" ],
+        "numeric-id" : [ "230185453" ],
+        "name" : [ "Pauline P. Narvas" ],
+        "nickname" : [ "paulienuh" ],
+        "url" : [ "https://twitter.com/paulienuh", "https://pawlean.com" ],
+        "published" : [ "2010-12-24T14:46:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Probably with @_mattburman" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365337806927724545/dG5jsOPL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The great thing about working remotely is the flexibility. \n\nBut not when you’re working 9-5 then have a random burst of inspiration for something you’ve been stuck on all day at 7pm then working until it’s done. \n\nI’ll get better at this balance, I promise! 🥲",
+      "html" : "<div style=\"white-space: pre\">The great thing about working remotely is the flexibility. \n\nBut not when you’re working 9-5 then have a random burst of inspiration for something you’ve been stuck on all day at 7pm then working until it’s done. \n\nI’ll get better at this balance, I promise! 🥲</div>"
+    } ]
+  }
+}
