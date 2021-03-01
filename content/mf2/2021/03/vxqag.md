@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chexee/status/1366407294829748226" ],
     "name" : [ "Like of @chexee's tweet" ],
     "published" : [ "2021-03-01T18:20:00+0000" ],
     "like-of" : [ "https://twitter.com/chexee/status/1366407294829748226" ],
