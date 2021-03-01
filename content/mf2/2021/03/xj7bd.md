@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1366498930272436227" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2021-03-01T22:49:00+0000" ],
     "category" : [ "remote-work" ],
