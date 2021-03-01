@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366319114571120643" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1366319114571120643" ],
+    "published" : [ "2021-03-01T09:27:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://andy-bell.co.uk/links/", "http://piccalil.li", "http://array.chat", "http://every-layout.dev", "http://swop.link/11ty" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361302576633942017/PYExIn7_.jpg" ]
+      }
+    } ],
+    "content" : [ "Oh you’re rich? Name every number on your credit card." ]
+  }
+}
