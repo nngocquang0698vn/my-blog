@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366509054647021568" ],
+    "url" : [ "https://twitter.com/CallMeWuz/status/1366509054647021568" ],
+    "published" : [ "2021-03-01T22:02:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CallMeWuz" ],
+        "numeric-id" : [ "34374456" ],
+        "name" : [ "wuz ✨👋" ],
+        "nickname" : [ "CallMeWuz" ],
+        "url" : [ "https://twitter.com/CallMeWuz", "http://wuz.sh", "http://grimoire.garden" ],
+        "published" : [ "2009-04-22T19:44:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Miami & Kickapoo land | Indy" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364676984283009028/uuDxeUXG.jpg" ]
+      }
+    } ],
+    "content" : [ "Let's talk about how white tech bros use their platforms to perpetuate harm and then distance themselves from it. Here's the basic formula:" ]
+  }
+}
