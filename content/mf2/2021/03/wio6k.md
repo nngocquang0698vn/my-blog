@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/modern_kd/status/1366050572378517512" ],
     "name" : [ "Like of @modern_kd's tweet" ],
     "published" : [ "2021-03-01T19:43:00+0000" ],
     "like-of" : [ "https://twitter.com/modern_kd/status/1366050572378517512" ],
