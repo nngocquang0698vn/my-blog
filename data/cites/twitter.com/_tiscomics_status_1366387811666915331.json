@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366387811666915331" ],
+    "url" : [ "https://twitter.com/tiscomics/status/1366387811666915331" ],
+    "published" : [ "2021-03-01T14:00:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tiscomics" ],
+        "numeric-id" : [ "2377410865" ],
+        "name" : [ "Things in Squares" ],
+        "nickname" : [ "tiscomics" ],
+        "url" : [ "https://twitter.com/tiscomics", "https://www.thingsinsquares.com", "https://bit.ly/3bo3aIB" ],
+        "published" : [ "2014-03-07T17:12:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363215602580557824/26k_6bTC.png" ]
+      }
+    } ],
+    "content" : [ "boy gamer" ],
+    "photo" : [ "https://pbs.twimg.com/media/EvZieSQVkAAxwHp.png" ]
+  }
+}
