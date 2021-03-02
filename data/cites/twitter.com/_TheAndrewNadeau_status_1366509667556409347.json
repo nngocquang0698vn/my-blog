@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366509667556409347" ],
+    "url" : [ "https://twitter.com/TheAndrewNadeau/status/1366509667556409347" ],
+    "published" : [ "2021-03-01T22:04:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheAndrewNadeau" ],
+        "numeric-id" : [ "732678376306188289" ],
+        "name" : [ "Andrew Nadeau" ],
+        "nickname" : [ "TheAndrewNadeau" ],
+        "url" : [ "https://twitter.com/TheAndrewNadeau", "https://twitter.com/AndrewNadeau0/timelines/1053883086360973312", "http://tinyurl.com/HWIWWPodcast" ],
+        "published" : [ "2016-05-17T21:05:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234276076127444997/ZH66vp75.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "hr: and who should we contact in an emergency?\n\nme: I guess me\n\nhr: no, like, if the emergency involves you\n\nme: that feels like even more reason to tell me",
+      "html" : "<div style=\"white-space: pre\">hr: and who should we contact in an emergency?\n\nme: I guess me\n\nhr: no, like, if the emergency involves you\n\nme: that feels like even more reason to tell me</div>"
+    } ]
+  }
+}
