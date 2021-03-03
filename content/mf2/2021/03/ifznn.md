@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Infosec_Taylor/status/1367101255466643457" ],
     "name" : [ "Like of @Infosec_Taylor's tweet" ],
     "published" : [ "2021-03-03T23:15:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
