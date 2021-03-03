@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367057022466850818" ],
+    "url" : [ "https://twitter.com/NekomimiScience/status/1367057022466850818" ],
+    "published" : [ "2021-03-03T10:19:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NekomimiScience" ],
+        "numeric-id" : [ "2300166224" ],
+        "name" : [ "Rika ✨" ],
+        "nickname" : [ "NekomimiScience" ],
+        "url" : [ "https://twitter.com/NekomimiScience", "https://paymentswit.ch" ],
+        "published" : [ "2014-01-19T18:57:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Astral Plane, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1178977717313835008/wo6FbJwU.jpg" ]
+      }
+    } ],
+    "content" : [ "Love 2 live in the UK" ],
+    "photo" : [ "https://pbs.twimg.com/media/EvjDHCpXIAEcRHG.png" ]
+  }
+}
