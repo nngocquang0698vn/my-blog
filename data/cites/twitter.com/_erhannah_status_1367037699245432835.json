@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367037699245432835" ],
+    "url" : [ "https://twitter.com/erhannah/status/1367037699245432835" ],
+    "published" : [ "2021-03-03T09:02:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:erhannah" ],
+        "numeric-id" : [ "128963180" ],
+        "name" : [ "hannah blair" ],
+        "nickname" : [ "erhannah" ],
+        "url" : [ "https://twitter.com/erhannah", "http://www.hannahblair.co.uk" ],
+        "published" : [ "2010-04-02T19:10:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the metaverse" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1362888575084339203/qWqaEPEl.jpg" ]
+      }
+    } ],
+    "content" : [ "tech bro twitter" ],
+    "photo" : [ "https://pbs.twimg.com/media/EvixiljXIAAwEA0.jpg" ]
+  }
+}
