@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/okta/status/1367220249255362560" ],
     "name" : [ "Like of @okta's tweet" ],
     "published" : [ "2021-03-03T22:12:00+0000" ],
     "category" : [ "identity", "auth0", "okta" ],
