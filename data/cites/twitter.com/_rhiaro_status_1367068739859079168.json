@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367068739859079168" ],
+    "url" : [ "https://twitter.com/rhiaro/status/1367068739859079168" ],
+    "published" : [ "2021-03-03T11:06:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rhiaro" ],
+        "numeric-id" : [ "20316218" ],
+        "name" : [ "rhiarobot" ],
+        "nickname" : [ "rhiaro" ],
+        "url" : [ "https://twitter.com/rhiaro", "https://rhiaro.co.uk/", "http://dr.amy.gy" ],
+        "published" : [ "2009-02-07T15:58:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "digital nomad" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1348229163648507904/GuAxyHMH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I hate almost everything about google meet, but the one feature every video conferencing platform should adopt is letting you see who is in a call before you join it.  rhiaro.co.uk/2021/03/hate-a…",
+      "html" : "I hate almost everything about google meet, but the one feature every video conferencing platform should adopt is letting you see who is in a call before you join it.  <a href=\"https://rhiaro.co.uk/2021/03/hate-almost\">rhiaro.co.uk/2021/03/hate-a…</a>"
+    } ]
+  }
+}
