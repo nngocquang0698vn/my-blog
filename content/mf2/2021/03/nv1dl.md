@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elibelly/status/1367091892198989826" ],
     "name" : [ "Like of @elibelly's tweet" ],
     "published" : [ "2021-03-03T20:49:00+0000" ],
     "category" : [ "remote-work" ],
