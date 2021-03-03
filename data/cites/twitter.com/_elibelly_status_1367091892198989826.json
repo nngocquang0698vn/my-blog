@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367091892198989826" ],
+    "url" : [ "https://twitter.com/elibelly/status/1367091892198989826" ],
+    "published" : [ "2021-03-03T12:38:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "name" : [ "Eli Schutze Ramirez" ],
+        "nickname" : [ "elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://monzo.me/eli" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312433440961245184/Qw63AGaf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "How do I break it to my coworkers that I'm a thicc 5'10\"? \n\n\"@here some personal news ... \"",
+      "html" : "<div style=\"white-space: pre\">How do I break it to my coworkers that I'm a thicc 5'10\"? \n\n\"<a href=\"https://twitter.com/here\">@here</a> some personal news ... \"</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1366498804766289930" ],
+      "url" : [ "https://twitter.com/Iconawrites/status/1366498804766289930" ],
+      "published" : [ "2021-03-01T21:21:18+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Iconawrites" ],
+          "numeric-id" : [ "931812084236550144" ],
+          "name" : [ "Icona 📚" ],
+          "nickname" : [ "Iconawrites" ],
+          "url" : [ "https://twitter.com/Iconawrites", "https://www.instagram.com/iconawrites/" ],
+          "published" : [ "2017-11-18T09:11:27+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Bristol, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1362810461796851712/QClaHzOH.jpg" ]
+        }
+      } ],
+      "content" : [ "The weird thing about this pandemic is that we’re meeting new people over Zoom but only seeing the upper half of their bodies. For all we know we could be meeting centaurs and mermaids." ]
+    }
+  } ]
+}
