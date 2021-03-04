@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Bomanizer/status/1299405515001335808" ],
     "name" : [ "Like of @Bomanizer's tweet" ],
     "published" : [ "2021-03-04T23:26:00+0000" ],
     "category" : [ "tiktok" ],
