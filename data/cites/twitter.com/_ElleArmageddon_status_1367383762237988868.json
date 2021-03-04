@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367383762237988868" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1367383762237988868" ],
+    "published" : [ "2021-03-04T07:57:48+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/0merxx/status/1367381796158078976" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353134225826832384/_Ab7ezac.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thank you ever so much for your useful and significant contribution to this conversation. 🙄",
+      "html" : "Thank you ever so much for your useful and significant contribution to this conversation. 🙄\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/0merxx\"></a>"
+    } ]
+  }
+}
