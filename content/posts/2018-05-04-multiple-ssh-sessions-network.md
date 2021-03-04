@@ -28,6 +28,8 @@ Host 10.5.*
 	ControlPersist 120
 ```
 
+(Note that you'll need to `mkdir -p ~/.ssh/sockets` the first time you add this config)
+
 You'll notice that I've used an intentionally low persist timing of only 120 seconds. This is mostly due to the potentially short lived lifecycle for an instance, as a new instance (from another team) could well be spun up with the same IP as the instance I was using before. By keeping them alive for only 2 minutes, I have a good window of time to "remember" to want to come back and use the instance, as well as not being so long that I risk trying to reconnect to an old instance, which has since had its IP recycled.
 
 This configuration then will create sockets with names like `jamie@10.5.1.2-22` or `root@10.5.1.4-55222`.
