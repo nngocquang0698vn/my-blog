@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ana_M_Medina/status/1367286423791886337" ],
     "name" : [ "Like of @Ana_M_Medina's tweet" ],
     "published" : [ "2021-03-04T09:08:00+0000" ],
     "like-of" : [ "https://twitter.com/Ana_M_Medina/status/1367286423791886337" ],
