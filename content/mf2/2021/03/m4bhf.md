@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julietteyooo/status/1366912501875499009" ],
     "name" : [ "Like of @Julietteyooo's tweet" ],
     "published" : [ "2021-03-04T16:34:00+0000" ],
     "category" : [ "gaming" ],
