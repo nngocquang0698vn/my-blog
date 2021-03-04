@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367286423791886337" ],
+    "url" : [ "https://twitter.com/Ana_M_Medina/status/1367286423791886337" ],
+    "published" : [ "2021-03-04T01:31:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Ana_M_Medina" ],
+        "numeric-id" : [ "16302665" ],
+        "name" : [ "Ana Margarita Medina 🇨🇷👩🏽‍💻🇳🇮" ],
+        "nickname" : [ "Ana_M_Medina" ],
+        "url" : [ "https://twitter.com/Ana_M_Medina", "http://www.anammedina.com" ],
+        "published" : [ "2008-09-15T21:52:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340543131373039617/rALJJnON.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "it’s so cringe worthy hearing anyone call anything in tech... sexy 🥴\n\nno.",
+      "html" : "<div style=\"white-space: pre\">it’s so cringe worthy hearing anyone call anything in tech... sexy 🥴\n\nno.</div>"
+    } ]
+  }
+}
