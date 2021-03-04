@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366318259381952512" ],
+    "url" : [ "https://twitter.com/feonixrift/status/1366318259381952512" ],
+    "published" : [ "2021-03-01T09:23:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:feonixrift" ],
+        "numeric-id" : [ "7730802" ],
+        "name" : [ "Kim Reece" ],
+        "nickname" : [ "feonixrift" ],
+        "url" : [ "https://twitter.com/feonixrift", "https://mathstodon.xyz/@kimreece" ],
+        "published" : [ "2007-07-26T07:12:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Goettingen, Germany" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344627326332628992/QDu_ZycY.jpg" ]
+      }
+    } ],
+    "content" : [ "An extremely important time management message," ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EvYjGCnXAAI-cs4.jpg",
+      "alt" : "viking warrior says: pick your battles. pick fewer battles than that. put some battles back. that's still too many battles."
+    } ]
+  }
+}
