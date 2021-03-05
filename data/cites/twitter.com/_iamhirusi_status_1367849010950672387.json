@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367849010950672387" ],
+    "url" : [ "https://twitter.com/iamhirusi/status/1367849010950672387" ],
+    "published" : [ "2021-03-05T14:46:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:iamhirusi" ],
+        "numeric-id" : [ "1252888172700119041" ],
+        "name" : [ "Ru Singh" ],
+        "nickname" : [ "iamhirusi" ],
+        "url" : [ "https://twitter.com/iamhirusi", "https://rusingh.com", "http://fosstodon.org/@celia", "http://rusingh.com" ],
+        "published" : [ "2020-04-22T09:14:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "India" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1287100701965840385/7LCy7NCC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Feeling so unsure about this... Here goes nothing. 😰\n\nrusingh.com/2021/03/05/wav…\n\n#100DaysToOffload",
+      "html" : "<div style=\"white-space: pre\">Feeling so unsure about this... Here goes nothing. 😰\n\n<a href=\"https://rusingh.com/2021/03/05/waving-thankful-goodbye-to-static-websites-and-more/\">rusingh.com/2021/03/05/wav…</a>\n\n<a href=\"https://twitter.com/search?q=%23100DaysToOffload\">#100DaysToOffload</a></div>"
+    } ]
+  }
+}
