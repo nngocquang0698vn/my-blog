@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367912600655122432" ],
+    "url" : [ "https://twitter.com/DudeWhoCode/status/1367912600655122432" ],
+    "published" : [ "2021-03-05T18:59:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DudeWhoCode" ],
+        "numeric-id" : [ "1342542518" ],
+        "name" : [ "Naren" ],
+        "nickname" : [ "DudeWhoCode" ],
+        "url" : [ "https://twitter.com/DudeWhoCode", "https://www.dudewho.codes", "http://coppermind.io" ],
+        "published" : [ "2013-04-10T18:16:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "At mountains with my Husky" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1338818140730400768/d1Zgy8iR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Friend: Where are you?\n\n Me: I'm on the way.",
+      "html" : "<div style=\"white-space: pre\">Friend: Where are you?\n\n Me: I'm on the way.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EvvNQZ5VIAEUhJX.jpg" ]
+  }
+}
