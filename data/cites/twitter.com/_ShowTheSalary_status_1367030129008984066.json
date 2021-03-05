@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367030129008984066" ],
+    "url" : [ "https://twitter.com/ShowTheSalary/status/1367030129008984066" ],
+    "published" : [ "2021-03-03T08:32:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ShowTheSalary" ],
+        "numeric-id" : [ "1300775184874471424" ],
+        "name" : [ "Show The Salary" ],
+        "nickname" : [ "ShowTheSalary" ],
+        "url" : [ "https://twitter.com/ShowTheSalary", "https://www.showthesalary.com" ],
+        "published" : [ "2020-09-01T12:39:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306946388220096516/bTRtZzvi.jpg" ]
+      }
+    } ],
+    "content" : [ "IF THE SALARY IS COMPETITIVE WHY WON'T YOU SHOW IT?" ]
+  }
+}
