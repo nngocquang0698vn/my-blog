@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShowTheSalary/status/1367030129008984066" ],
     "name" : [ "Like of @ShowTheSalary's tweet" ],
     "published" : [ "2021-03-05T18:33:00+0000" ],
     "category" : [ "interviewing" ],
