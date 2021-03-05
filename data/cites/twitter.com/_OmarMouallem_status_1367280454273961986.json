@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367280454273961986" ],
+    "url" : [ "https://twitter.com/OmarMouallem/status/1367280454273961986" ],
+    "published" : [ "2021-03-04T01:07:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:OmarMouallem" ],
+        "numeric-id" : [ "267581677" ],
+        "name" : [ "Omar Mouallem" ],
+        "nickname" : [ "OmarMouallem" ],
+        "url" : [ "https://twitter.com/OmarMouallem", "https://www.liinks.co/omar.mouallem", "http://AtLarge.Substack.com" ],
+        "published" : [ "2011-03-17T05:28:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Edmonton, AB" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330973838633439233/2c3eAsiJ.jpg" ]
+      }
+    } ],
+    "content" : [ "\"Oh, you bought a standing desk? Yeah, nice try.\"" ],
+    "photo" : [ "https://pbs.twimg.com/media/EvmOK4BVcAACccK.jpg" ]
+  }
+}
