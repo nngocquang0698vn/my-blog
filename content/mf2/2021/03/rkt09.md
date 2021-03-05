@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DudeWhoCode/status/1367912600655122432" ],
     "name" : [ "Like of @DudeWhoCode's tweet" ],
     "published" : [ "2021-03-05T20:13:00+0000" ],
     "category" : [ "memes" ],
