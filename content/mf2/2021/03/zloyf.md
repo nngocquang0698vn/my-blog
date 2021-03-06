@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/justkelly_ok/status/1367963012674453504" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1368270877914185729" ],
     "name" : [ "Reply to https://twitter.com/justkelly_ok/status/1367963012674453504" ],
     "published" : [ "2021-03-06T18:36:00+0000" ],
     "category" : [ "deathto2020" ],
