@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1367895467275653121" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2021-03-06T00:43:00+0000" ],
     "category" : [ "reproducible-builds" ],
