@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368119006415192066" ],
+    "url" : [ "https://twitter.com/soapachu/status/1368119006415192066" ],
+    "published" : [ "2021-03-06T08:39:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:soapachu" ],
+        "numeric-id" : [ "21118184" ],
+        "name" : [ "badly-drawn bee 🐝" ],
+        "nickname" : [ "soapachu" ],
+        "url" : [ "https://twitter.com/soapachu" ],
+        "published" : [ "2009-02-17T19:05:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360635073654124546/twbkTUfT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "however thoroughly you wash your hands\nif you voted\nfor this government\nthey will never\nbe clean\n\nWords by @RachaelLHouse\nArt by @wefail",
+      "html" : "<div style=\"white-space: pre\">however thoroughly you wash your hands\nif you voted\nfor this government\nthey will never\nbe clean\n\nWords by <a href=\"https://twitter.com/RachaelLHouse\">@RachaelLHouse</a>\nArt by <a href=\"https://twitter.com/wefail\">@wefail</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EvyI_GxXEAEHoQj.jpg" ]
+  }
+}
