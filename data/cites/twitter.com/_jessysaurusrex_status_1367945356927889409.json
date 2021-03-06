@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367945356927889409" ],
+    "url" : [ "https://twitter.com/jessysaurusrex/status/1367945356927889409" ],
+    "published" : [ "2021-03-05T21:09:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jessysaurusrex" ],
+        "numeric-id" : [ "17797084" ],
+        "name" : [ "Jessy Irwin ✨" ],
+        "nickname" : [ "jessysaurusrex" ],
+        "url" : [ "https://twitter.com/jessysaurusrex" ],
+        "published" : [ "2008-12-02T02:36:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1202364739302477825/B76_AzVG.jpg" ]
+      }
+    } ],
+    "content" : [ "If it is this difficult to convince people to put a piece of fabric over their faces to prevent the transmission of disease so they don’t die or kill others… the outlook on getting humans to do all of those abstract, fiddly cybersecurity things required to be safe online is ☠️" ]
+  }
+}
