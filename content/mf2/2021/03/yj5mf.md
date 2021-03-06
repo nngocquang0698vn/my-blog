@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soapachu/status/1368119006415192066" ],
     "name" : [ "Like of @soapachu's tweet" ],
     "published" : [ "2021-03-06T18:35:00+0000" ],
     "category" : [ "politics", "coronavirus" ],
