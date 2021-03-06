@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessysaurusrex/status/1367945356927889409" ],
     "name" : [ "Like of @jessysaurusrex's tweet" ],
     "published" : [ "2021-03-06T00:09:00+0000" ],
     "category" : [ "security", "coronavirus" ],
