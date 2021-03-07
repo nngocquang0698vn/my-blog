@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben_rosen/status/1368318255056625664" ],
     "name" : [ "Like of @ben_rosen's tweet" ],
     "published" : [ "2021-03-07T16:55:00+0000" ],
     "category" : [ "wanda-vision", "shitpost" ],
