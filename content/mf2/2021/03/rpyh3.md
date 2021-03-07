@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mxbck/status/1368558731391365122" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1368593602256007175" ],
     "name" : [ "Reply to https://twitter.com/mxbck/status/1368558731391365122" ],
     "published" : [ "2021-03-07T16:03:00+0000" ],
     "category" : [ "microformats" ],
