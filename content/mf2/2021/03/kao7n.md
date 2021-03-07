@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eramshaw/status/1368029389364027393" ],
     "name" : [ "Like of @eramshaw's tweet" ],
     "published" : [ "2021-03-07T12:29:00+0000" ],
     "category" : [ "coronavirus" ],
