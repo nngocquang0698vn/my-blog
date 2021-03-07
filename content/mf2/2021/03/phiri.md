@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1368537478056050688" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2021-03-07T12:38:00+0000" ],
     "category" : [ "security" ],
