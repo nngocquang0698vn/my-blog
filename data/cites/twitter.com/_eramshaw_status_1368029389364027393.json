@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368029389364027393" ],
+    "url" : [ "https://twitter.com/eramshaw/status/1368029389364027393" ],
+    "published" : [ "2021-03-06T02:43:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/eramshaw/status/1368029386742657031" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eramshaw" ],
+        "numeric-id" : [ "20626103" ],
+        "name" : [ "Emily Ramshaw" ],
+        "nickname" : [ "eramshaw" ],
+        "url" : [ "https://twitter.com/eramshaw", "http://19thnews.org" ],
+        "published" : [ "2009-02-11T20:48:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298976654694518785/wYQUG6KF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This year has been heartbreaking, depressing, paralyzing — in almost every way. \n\nBut some things about it have also been liberating, and I have to figure out how to cling to those things in a vaccinated future — even when others expect me not to.",
+      "html" : "<div style=\"white-space: pre\">This year has been heartbreaking, depressing, paralyzing — in almost every way. \n\nBut some things about it have also been liberating, and I have to figure out how to cling to those things in a vaccinated future — even when others expect me not to.</div>"
+    } ]
+  }
+}
