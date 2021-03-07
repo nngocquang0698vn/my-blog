@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1368673165610729477" ],
     "photo" : [ {
       "alt" : "Profile of a black cat, wtih his eyes slightly open, and his tongue out in a good mlem, wrapped in a red blanket",
       "photo" : "https://media.jvt.me/4547ac8405.jpeg"
