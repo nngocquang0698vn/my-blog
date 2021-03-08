@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368689356228075525" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1368689356228075525" ],
+    "published" : [ "2021-03-07T22:25:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "http://lookitup.baby" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349389321107693571/XIO-o5aU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Some ideas for celebrating International Women's Day instead of tagging women in lists:\n\n- give money directly to women\n- support sex workers\n- fight for better child care\n- hire women, pay them equally, and promote them\n- if you see someone doing cool work, talk about their work",
+      "html" : "<div style=\"white-space: pre\">Some ideas for celebrating International Women's Day instead of tagging women in lists:\n\n- give money directly to women\n- support sex workers\n- fight for better child care\n- hire women, pay them equally, and promote them\n- if you see someone doing cool work, talk about their work</div>"
+    } ]
+  }
+}
