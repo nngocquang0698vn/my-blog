@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368713376432586757" ],
+    "url" : [ "https://twitter.com/melissamcewen/status/1368713376432586757" ],
+    "published" : [ "2021-03-08T00:01:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:melissamcewen" ],
+        "numeric-id" : [ "42462248" ],
+        "name" : [ "Melissa McEwen" ],
+        "nickname" : [ "melissamcewen" ],
+        "url" : [ "https://twitter.com/melissamcewen", "https://www.melissamcewen.com/" ],
+        "published" : [ "2009-05-25T18:50:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365430510240030721/JjjxAOu-.png" ]
+      }
+    } ],
+    "content" : [ "People who aren't dudes need to go on a glue-work strike. It is uncompensated work. You will feel good doing it, but you'll be punished later." ]
+  }
+}
