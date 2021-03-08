@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lnwdlnwd/status/1368783470072303617" ],
     "name" : [ "Like of @lnwdlnwd's tweet" ],
     "published" : [ "2021-03-08T17:20:00+0000" ],
     "like-of" : [ "https://twitter.com/lnwdlnwd/status/1368783470072303617" ],
