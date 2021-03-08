@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368697893020909569" ],
+    "url" : [ "https://twitter.com/ewindisch/status/1368697893020909569" ],
+    "published" : [ "2021-03-07T22:59:41+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jbeda/status/1368696780636835842" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ewindisch" ],
+        "numeric-id" : [ "14914716" ],
+        "name" : [ "Erica Windisch" ],
+        "nickname" : [ "ewindisch" ],
+        "url" : [ "https://twitter.com/ewindisch" ],
+        "published" : [ "2008-05-27T00:00:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311385675812474881/6TziLfUs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Serious answer? You’re selling a crypto certificate with a URI attached to it. That URI points to a JSON document served by someone’s weekend project running on their personal AWS account. There’s nothing in the TOS transferring any rights.",
+      "html" : "Serious answer? You’re selling a crypto certificate with a URI attached to it. That URI points to a JSON document served by someone’s weekend project running on their personal AWS account. There’s nothing in the TOS transferring any rights.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jbeda\"></a>"
+    } ]
+  }
+}
