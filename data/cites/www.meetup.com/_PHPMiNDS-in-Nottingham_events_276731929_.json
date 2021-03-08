@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "How good are my tests?" ],
+    "description" : [ {
+      "html" : "<p>Details<br/>This month we welcome Stephan Hochdörfer (@shochdoerfer)</p> <p>We will be hosting this event on zoom and will send out the details on the evening.</p> <p>How good are my tests?<br/>How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question. What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the quality of your test suite.</p> <p>Bio<br/>Stephan Hochdörfer is Head of IT Business Operations, co-founder (@bitExpert) , @unKonf host, Ambassador for @traefik as well as an Organizer for @phpugffm &amp; @phpugmrn</p> ",
+      "value" : "Details This month we welcome Stephan Hochdörfer (@shochdoerfer) We will be hosting this event on zoom and will send out the details on the evening. How good are my tests? How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question. What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the quality of your test suite. Bio Stephan Hochdörfer is Head of IT Business Operations, co-founder (@bitExpert) , @unKonf host, Ambassador for @traefik as well as an Organizer for @phpugffm & @phpugmrn"
+    } ],
+    "start" : [ "2021-03-11T18:30:00Z" ],
+    "end" : [ "2021-03-11T20:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/276731929/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2021-03-04T11:43:16Z" ],
+    "updated" : [ "2021-03-08T20:00:04Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
