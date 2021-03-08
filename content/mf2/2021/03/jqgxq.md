@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1368830315121307651" ],
     "published" : [ "2021-03-08T07:43:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/IanColdwater/status/1368689356228075525" ],
