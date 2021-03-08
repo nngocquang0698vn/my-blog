@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/gitcommitshow/auth-jwt/stargazers" ],
     "name" : [ "gitcommitshow/auth-jwt: A demo to learn JWT by reverse engineering" ],
     "published" : [ "2021-03-08T18:54:14.077Z" ],
     "category" : [ "jwt" ],
