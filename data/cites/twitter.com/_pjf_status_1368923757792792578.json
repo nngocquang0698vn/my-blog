@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368923757792792578" ],
+    "url" : [ "https://twitter.com/pjf/status/1368923757792792578" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Ev9k3aEUYAUaotS.mp4" ],
+    "published" : [ "2021-03-08T13:57:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pjf" ],
+        "numeric-id" : [ "8845232" ],
+        "name" : [ "Paul Fenwick" ],
+        "nickname" : [ "pjf" ],
+        "url" : [ "https://twitter.com/pjf", "http://pjf.id.au" ],
+        "published" : [ "2007-09-13T01:59:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Unceded Kulin Nation land 🇦🇺" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345877462018715650/Fs30v2KW.jpg" ]
+      }
+    } ],
+    "content" : [ "G'day! If someone uses they/them pronouns, maybe don't include them in lists of international women, eh?" ]
+  }
+}
