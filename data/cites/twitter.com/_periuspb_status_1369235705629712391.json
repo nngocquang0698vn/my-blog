@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369235705629712391" ],
+    "url" : [ "https://twitter.com/periuspb/status/1369235705629712391" ],
+    "published" : [ "2021-03-09T10:36:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:periuspb" ],
+        "numeric-id" : [ "914097360480948224" ],
+        "name" : [ "pez 🇬🇭" ],
+        "nickname" : [ "periuspb" ],
+        "url" : [ "https://twitter.com/periuspb", "https://www.younghistoriansproject.org/" ],
+        "published" : [ "2017-09-30T11:59:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1352607004527894529/HWPipJt7.jpg" ]
+      }
+    } ],
+    "content" : [ "Behind every Piers Morgan, Katie Hopkins, Nick Ferrari and Andrew Neil are entire teams of producers, camera operators, social media managers, publicists, and everything in between" ]
+  }
+}
