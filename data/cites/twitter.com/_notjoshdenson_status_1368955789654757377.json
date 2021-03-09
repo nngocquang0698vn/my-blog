@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368955789654757377" ],
+    "url" : [ "https://twitter.com/notjoshdenson/status/1368955789654757377" ],
+    "published" : [ "2021-03-08T16:04:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:notjoshdenson" ],
+        "numeric-id" : [ "934851292949774337" ],
+        "name" : [ "josh denson" ],
+        "nickname" : [ "notjoshdenson" ],
+        "url" : [ "https://twitter.com/notjoshdenson", "http://instagram.com/joshdenson" ],
+        "published" : [ "2017-11-26T18:28:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Madagascar" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342896952367861760/ZLiOs4uf.jpg" ]
+      }
+    } ],
+    "content" : [ "reading my morning paper" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ev-CCHhWYAAhyCO.jpg" ]
+  }
+}
