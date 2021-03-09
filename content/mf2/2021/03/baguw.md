@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wishin__/status/1369012009002557441" ],
     "name" : [ "Like of @wishin__'s tweet" ],
     "published" : [ "2021-03-09T14:28:00+0000" ],
     "category" : [ "social-media", "apex-legends" ],
