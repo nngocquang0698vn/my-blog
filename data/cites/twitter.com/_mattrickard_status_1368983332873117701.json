@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368983332873117701" ],
+    "url" : [ "https://twitter.com/mattrickard/status/1368983332873117701" ],
+    "published" : [ "2021-03-08T17:53:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mattrickard" ],
+        "numeric-id" : [ "48611606" ],
+        "name" : [ "Matt Rickard" ],
+        "nickname" : [ "mattrickard" ],
+        "url" : [ "https://twitter.com/mattrickard", "https://matt-rickard.com/about/" ],
+        "published" : [ "2009-06-19T04:40:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "stanford, ca" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347713000992501761/RfJcsSUv.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Service reliability math that every engineer should know\n\nUptime            Downtime (Yearly)\n99.00000%      3d 15h 39m\n99.90000%      8h 45m 56s\n99.99000%      52m 35s\n99.99900%      5m 15s\n99.99990%      31s\n99.99999%      3s",
+      "html" : "<div style=\"white-space: pre\">Service reliability math that every engineer should know\n\nUptime            Downtime (Yearly)\n99.00000%      3d 15h 39m\n99.90000%      8h 45m 56s\n99.99000%      52m 35s\n99.99900%      5m 15s\n99.99990%      31s\n99.99999%      3s</div>"
+    } ]
+  }
+}
