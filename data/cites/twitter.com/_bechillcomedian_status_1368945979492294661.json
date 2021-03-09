@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1368945979492294661" ],
+    "url" : [ "https://twitter.com/bechillcomedian/status/1368945979492294661" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1368944233441329155/pu/vid/1280x720/KsUBtNZAkjrOqaLi.mp4?tag=12" ],
+    "published" : [ "2021-03-08T15:25:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bechillcomedian" ],
+        "numeric-id" : [ "59279474" ],
+        "name" : [ "Bec Hill" ],
+        "nickname" : [ "bechillcomedian" ],
+        "url" : [ "https://twitter.com/bechillcomedian", "http://bechillcomedian.com", "http://ko-fi.com/bechill" ],
+        "published" : [ "2009-07-22T22:55:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, from Adelaide" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1214341045535854592/3wW5PeFh.jpg" ]
+      }
+    } ],
+    "content" : [ "I did it all for Jimmy's laugh." ]
+  }
+}
