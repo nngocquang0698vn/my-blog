@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/InternetHOF_/status/1368638369387909124" ],
     "name" : [ "Like of @InternetHOF_'s tweet" ],
     "published" : [ "2021-03-09T17:03:00+0000" ],
     "like-of" : [ "https://twitter.com/InternetHOF_/status/1368638369387909124" ],
