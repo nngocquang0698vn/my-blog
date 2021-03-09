@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mybluewristband/status/1369031336174915584" ],
     "name" : [ "Like of @mybluewristband's tweet" ],
     "published" : [ "2021-03-09T08:00:00+0000" ],
     "category" : [ "coronavirus" ],
