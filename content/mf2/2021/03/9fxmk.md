@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1369336981306683396" ],
     "published" : [ "2021-03-09T17:12:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/amandakgordon/status/1368808424121626624" ],
