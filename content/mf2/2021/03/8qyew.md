@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HerRoyalDykness/status/1369058359853383687" ],
     "name" : [ "Like of @HerRoyalDykness's tweet" ],
     "published" : [ "2021-03-09T10:05:00+0000" ],
     "category" : [ "politics" ],
