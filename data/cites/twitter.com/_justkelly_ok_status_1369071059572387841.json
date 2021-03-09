@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369071059572387841" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1369071059572387841" ],
+    "published" : [ "2021-03-08T23:42:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "name" : [ "Kelly Ellis" ],
+        "nickname" : [ "justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295789781834584064/5RaolPav.jpg" ]
+      }
+    } ],
+    "content" : [ "A lot of men have tried to tell me \"women belong in the kitchen\" is a joke, but not one has been able to answer me when I ask them what the punchline is, or why it's funny. Weird. It's almost like \"joke\" just means \"shitty thing to say that I'm going to defend anyway\"" ]
+  }
+}
