@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369012009002557441" ],
+    "url" : [ "https://twitter.com/wishin__/status/1369012009002557441" ],
+    "published" : [ "2021-03-08T19:47:52+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/iDecypherr/status/1369011732203573248" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wishin__" ],
+        "numeric-id" : [ "1287299192763953154" ],
+        "name" : [ "wish 💫" ],
+        "nickname" : [ "wishin__" ],
+        "url" : [ "https://twitter.com/wishin__", "http://steamcommunity.com/id/happiness" ],
+        "published" : [ "2020-07-26T08:10:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "⚲" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1368468952704290817/sFSPrFpU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "my fault i remember now",
+      "html" : "my fault i remember now\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/iDecypherr\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/inhuman\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Ev-1JzWWgAoFzGa.jpg" ]
+  }
+}
