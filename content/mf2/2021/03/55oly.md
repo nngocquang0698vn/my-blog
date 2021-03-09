@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/notjoshdenson/status/1368955789654757377" ],
     "name" : [ "Like of @notjoshdenson's tweet" ],
     "published" : [ "2021-03-09T09:55:00+0000" ],
     "category" : [ "social-media" ],
