@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1369200003307147264" ],
     "published" : [ "2021-03-09T08:08:00+0000" ],
     "category" : [ "tech-nottingham", "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1369193566342352900" ],
