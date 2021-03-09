@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drphiIth/status/1369344344155561984" ],
     "name" : [ "Like of @drphiIth's tweet" ],
     "published" : [ "2021-03-09T18:59:00+0000" ],
     "category" : [ "cute" ],
