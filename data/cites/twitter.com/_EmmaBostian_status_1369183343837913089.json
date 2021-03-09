@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369183343837913089" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1369183343837913089" ],
+    "published" : [ "2021-03-09T07:08:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1362461890635575298/fMXbsmiA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just got a calendar notification for my 14-week pregnancy appointment...I miscarried 4 weeks ago.\n\nThis is why we don't need AI's to stitch photos together and autoplay \"memories\" for us. Not all reminders are good reminders. Technology can be great but it can also be harmful.",
+      "html" : "<div style=\"white-space: pre\">Just got a calendar notification for my 14-week pregnancy appointment...I miscarried 4 weeks ago.\n\nThis is why we don't need AI's to stitch photos together and autoplay \"memories\" for us. Not all reminders are good reminders. Technology can be great but it can also be harmful.</div>"
+    } ]
+  }
+}
