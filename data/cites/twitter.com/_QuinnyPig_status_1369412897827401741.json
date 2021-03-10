@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369412897827401741" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1369412897827401741" ],
+    "published" : [ "2021-03-09T22:20:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Forget an edit button; I want @Twitter to include an Enterprise tier where I can force all of my employees to embed a 1200 character disclaimer at the end of every tweet for compliance purposes. \n\nYou’re welcome, Internet!",
+      "html" : "<div style=\"white-space: pre\">Forget an edit button; I want <a href=\"https://twitter.com/Twitter\">@Twitter</a> to include an Enterprise tier where I can force all of my employees to embed a 1200 character disclaimer at the end of every tweet for compliance purposes. \n\nYou’re welcome, Internet!</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EwEhxW2XMAUtxrM.jpg" ]
+  }
+}
