@@ -1,0 +1,63 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369601244130668544" ],
+    "url" : [ "https://twitter.com/Jaimi_Shrive/status/1369601244130668544" ],
+    "published" : [ "2021-03-10T10:49:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Jaimi_Shrive" ],
+        "numeric-id" : [ "432615800" ],
+        "name" : [ "Jaimi Shrive" ],
+        "nickname" : [ "Jaimi_Shrive" ],
+        "url" : [ "https://twitter.com/Jaimi_Shrive", "http://www.politicofocus.co.uk" ],
+        "published" : [ "2011-12-09T15:56:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "England, United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356951543057182722/j5TkQX-p.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Is he gonna follow me? \n\nShit\n\nOk he hasn’t moved. \nDon’t look at my arse don’t look at my arse please don’t be looking at my arse",
+      "html" : "<div style=\"white-space: pre\">Is he gonna follow me? \n\nShit\n\nOk he hasn’t moved. \nDon’t look at my arse don’t look at my arse please don’t be looking at my arse</div>\n<a class=\"tag\" href=\"https://twitter.com/iamjulito/status/1368980392628400132\">twitter.com/iamjulito/stat…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1368980392628400132" ],
+      "url" : [ "https://twitter.com/IamJulito/status/1368980392628400132" ],
+      "published" : [ "2021-03-08T17:42:14+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:IamJulito" ],
+          "numeric-id" : [ "23887236" ],
+          "name" : [ "Julito McCullum" ],
+          "nickname" : [ "IamJulito" ],
+          "url" : [ "https://twitter.com/IamJulito", "https://linktr.ee/Iamjulito" ],
+          "published" : [ "2009-03-12T03:37:09+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1339357870782070784/6MXl-0dd.jpg" ]
+        }
+      } ],
+      "content" : [ "Ladies, random question.. when you are walking down the street and you make a man’s head turn, what goes through your mind?" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/iamjulito/stat…" ],
+      "url" : [ "https://twitter.com/iamjulito/status/1368980392628400132" ]
+    }
+  } ]
+}
