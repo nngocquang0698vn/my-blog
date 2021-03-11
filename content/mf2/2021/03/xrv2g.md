@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jaimi_Shrive/status/1370113675911118852" ],
     "name" : [ "Like of @Jaimi_Shrive's tweet" ],
     "published" : [ "2021-03-11T22:06:00+0000" ],
     "category" : [ "shitpost" ],
