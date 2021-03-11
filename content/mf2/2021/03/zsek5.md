@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LastManSitting_/status/1369649428865417224" ],
     "name" : [ "Like of @LastManSitting_'s tweet" ],
     "published" : [ "2021-03-11T22:08:00+0000" ],
     "category" : [ "gaming" ],
