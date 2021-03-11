@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369649428865417224" ],
+    "url" : [ "https://twitter.com/LastManSitting_/status/1369649428865417224" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EwH4mSfWEAALP7A.mp4" ],
+    "published" : [ "2021-03-10T14:00:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LastManSitting_" ],
+        "numeric-id" : [ "933626497243467776" ],
+        "name" : [ "Last Man Sitting" ],
+        "nickname" : [ "LastManSitting_" ],
+        "url" : [ "https://twitter.com/LastManSitting_", "http://store.steampowered.com/app/774291/Last_Man_Sitting/", "http://store.steampowered.com/app/774291/Las" ],
+        "published" : [ "2017-11-23T09:21:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Hamburg, Deutschland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369934282702135297/cWpoFtRM.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "i swear, this \"remove the wall\" effect aged me 2 years in 2 weeks but i reaaaaally like the result☺️ #gamedev",
+      "html" : "i swear, this \"remove the wall\" effect aged me 2 years in 2 weeks but i reaaaaally like the result☺️ <a href=\"https://twitter.com/search?q=%23gamedev\">#gamedev</a>"
+    } ]
+  }
+}
