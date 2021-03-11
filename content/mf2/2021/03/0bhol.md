@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bkwhopper17/status/1370077651864416258" ],
     "name" : [ "Like of @bkwhopper17's tweet" ],
     "published" : [ "2021-03-11T23:20:00+0000" ],
     "category" : [ "coronavirus" ],
