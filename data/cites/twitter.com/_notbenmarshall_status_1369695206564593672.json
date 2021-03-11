@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369695206564593672" ],
+    "url" : [ "https://twitter.com/notbenmarshall/status/1369695206564593672" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1369693834586845186/pu/vid/720x900/ZHYnVi9DzAtsmD59.mp4?tag=12" ],
+    "published" : [ "2021-03-10T17:02:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:notbenmarshall" ],
+        "numeric-id" : [ "18784474" ],
+        "name" : [ "Ben Marshall" ],
+        "nickname" : [ "notbenmarshall" ],
+        "url" : [ "https://twitter.com/notbenmarshall", "http://youtube.com/c/pleasedontdestroy", "http://instagram.com/benmarshallstyle" ],
+        "published" : [ "2009-01-08T23:36:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the low country" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252000366729867264/iraHeSN4.jpg" ]
+      }
+    } ],
+    "content" : [ "I GOT VACCINATED!!! 🙏🙏" ]
+  }
+}
