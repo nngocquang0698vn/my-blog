@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369762319572611078" ],
+    "url" : [ "https://twitter.com/driannavaldivia/status/1369762319572611078" ],
+    "published" : [ "2021-03-10T21:29:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:driannavaldivia" ],
+        "numeric-id" : [ "3229156952" ],
+        "name" : [ "AV" ],
+        "nickname" : [ "driannavaldivia" ],
+        "url" : [ "https://twitter.com/driannavaldivia", "http://adrianna.dev" ],
+        "published" : [ "2015-05-28T21:25:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "{ ☉ ↑ ☿- ♍︎ | ☽ - ♈︎ } " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1368229921517080578/iMx-X7hf.jpg" ]
+      }
+    } ],
+    "content" : [ "You can empower the next engineer with ✨DOCUMENTATION✨" ]
+  }
+}
