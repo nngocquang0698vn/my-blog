@@ -15,7 +15,7 @@ syndication:
 ---
 Since I've been working a bit more with Micropub and IndieAuth, I've always had cases where I've wanted to test things locally, which requires retrieving an access token.
 
-Fortunately, the OAuth2 Authorization Code grant is pretty straightforward, so doing this locally with i.e. `curl` is an OK process to go through, as well as using a guided tool such as <a class="h-card u-url" href="https://seblog.nl/">Sebastiaan Andeweg</a>'s <a href="http://gimme-a-token.5eb.nl/">gimme-a-token.5eb.nl</a>.
+Fortunately, the OAuth2 Authorization Code grant is pretty straightforward, so doing this locally with i.e. `curl` is an OK process to go through, as well as using a guided tool such as <span class="h-card"><a class="u-url" href="https://seblog.nl">Sebastiaan Andeweg</a></span>'s <a href="http://gimme-a-token.5eb.nl/">gimme-a-token.5eb.nl</a>.
 
 However, with [Proof of Key Code Exchange (PKCE)](https://oauth.net/2/pkce/) support now a requirement of IndieAuth, gimme-a-token isn't applicable, and the logic to run this locally with `curl` is a bit more complex, so I looked to script it.
 
