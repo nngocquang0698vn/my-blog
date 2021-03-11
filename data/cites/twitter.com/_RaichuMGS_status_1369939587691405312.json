@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1369939587691405312" ],
+    "url" : [ "https://twitter.com/RaichuMGS/status/1369939587691405312" ],
+    "published" : [ "2021-03-11T09:13:44+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/carter721982/status/1369937711771971585" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RaichuMGS" ],
+        "numeric-id" : [ "2342421819" ],
+        "name" : [ "Raichu" ],
+        "nickname" : [ "RaichuMGS" ],
+        "url" : [ "https://twitter.com/RaichuMGS", "https://www.twitch.tv/RaichuMGS" ],
+        "published" : [ "2014-02-14T02:38:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1277770357177491456/B_Fuov5j.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "are u actually like dick measuring but with sobriety rn",
+      "html" : "are u actually like dick measuring but with sobriety rn\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/carter721982\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/steveo\"></a>"
+    } ]
+  }
+}
