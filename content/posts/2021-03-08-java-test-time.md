@@ -198,8 +198,8 @@ We then need to update our class to allow injecting in a `Clock`, and then use i
      JWTClaimsSet claims = new JWTClaimsSet.Builder()
 -      .issueTime(Date.from(Instant.now()))
 -      .expirationTime(Date.from(Instant.now().plus(days, ChronoUnit.DAYS)))
-+      .issueTime(Date.from(Instant.now(clock)))
-+      .expirationTime(Date.from(Instant.now(clock).plus(days, ChronoUnit.DAYS)))
++      .issueTime(Date.from(clock.instant()))
++      .expirationTime(Date.from(clock.instant().plus(days, ChronoUnit.DAYS)))
        .build();
      return new PlainJWT(claims).serialize();
    }
