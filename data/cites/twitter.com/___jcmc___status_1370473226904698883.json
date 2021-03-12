@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370473226904698883" ],
+    "url" : [ "https://twitter.com/__jcmc__/status/1370473226904698883" ],
+    "published" : [ "2021-03-12T20:34:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:__jcmc__" ],
+        "numeric-id" : [ "781588467654483968" ],
+        "name" : [ "Jennifer Mackown" ],
+        "nickname" : [ "__jcmc__" ],
+        "url" : [ "https://twitter.com/__jcmc__", "http://www.jcmc.xyz" ],
+        "published" : [ "2016-09-29T20:16:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lincoln" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137074636213116929/AjJAzHty.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "We've gone full middle class and got ourselves a cleaner. \nShe's coming over for the first time tomorrow so we're spending our Friday night having an emergency tidy.",
+      "html" : "<div style=\"white-space: pre\">We've gone full middle class and got ourselves a cleaner. \nShe's coming over for the first time tomorrow so we're spending our Friday night having an emergency tidy.</div>"
+    } ]
+  }
+}
