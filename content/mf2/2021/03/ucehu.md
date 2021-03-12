@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/roxiqt/status/1370212399446380544" ],
     "name" : [ "Like of @roxiqt's tweet" ],
     "published" : [ "2021-03-12T17:07:00+0000" ],
     "category" : [ "memes", "coronavirus" ],
