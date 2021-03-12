@@ -1,0 +1,44 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370427367223595008" ],
+    "url" : [ "https://twitter.com/edent/status/1370427367223595008" ],
+    "published" : [ "2021-03-12T17:32:00+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1369956476823953411" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "OK! Here's how to completely remove the Trending section of Twitter *without* having to install plugins, adblockers, CSS, or apps.\nVisit twitter.com/settings/trends\nSet your location to China \nChina only has one trend: \"Beijing\"\nTap \"I'm not interested in this\"\n🥳 Trends is now gone",
+      "html" : "<div style=\"white-space: pre\">OK! Here's how to completely remove the Trending section of Twitter *without* having to install plugins, adblockers, CSS, or apps.\nVisit <a href=\"https://twitter.com/settings/trends\">twitter.com/settings/trends</a>\nSet your location to China \nChina only has one trend: \"Beijing\"\nTap \"I'm not interested in this\"\n🥳 Trends is now gone</div>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EwSgw3KWUAkGqPs.png",
+      "alt" : "Twitter settings screen. Explore locations is set to China."
+    }, {
+      "value" : "https://pbs.twimg.com/media/EwSggAiXAAUFQA0.png",
+      "alt" : "The only trending topic is Beijing."
+    }, {
+      "value" : "https://pbs.twimg.com/media/EwSgg4iXIAE8JkV.png",
+      "alt" : "Pop up saying \"Not interested in this\"."
+    }, {
+      "value" : "https://pbs.twimg.com/media/EwSghqKXAAEERF3.png",
+      "alt" : "A blank \"Trends for you\" box on the website."
+    } ]
+  }
+}
