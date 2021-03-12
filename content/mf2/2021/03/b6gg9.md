@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VlSUALHUB/status/1369743883882688513" ],
     "name" : [ "Like of @VlSUALHUB's tweet" ],
     "published" : [ "2021-03-12T16:38:00+0000" ],
     "category" : [ "art", "nature" ],
