@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/domdyer70/status/1369920205116301317" ],
     "name" : [ "Like of @domdyer70's tweet" ],
     "published" : [ "2021-03-13T01:22:00+0000" ],
     "category" : [ "cute" ],
