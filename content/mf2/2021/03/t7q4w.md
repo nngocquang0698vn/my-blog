@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kchamps613/status/1370010866188451843" ],
     "name" : [ "Like of @kchamps613's tweet" ],
     "published" : [ "2021-03-13T01:27:00+0000" ],
     "like-of" : [ "https://twitter.com/kchamps613/status/1370010866188451843" ],
