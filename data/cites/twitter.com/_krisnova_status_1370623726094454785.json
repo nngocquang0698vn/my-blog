@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370623726094454785" ],
+    "url" : [ "https://twitter.com/krisnova/status/1370623726094454785" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1370623532019838981/pu/vid/720x1280/iEkpDRmviTjuP6Lo.mp4?tag=12" ],
+    "published" : [ "2021-03-13T06:32:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "kris nóva" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://nivenly.com" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "non-deterministic land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367320045915795460/7i8hzidD.jpg" ]
+      }
+    } ],
+    "content" : [ "BREAKING: very important serious grown up update for all the adults who did business this week" ]
+  }
+}
