@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370798098075824132" ],
+    "url" : [ "https://twitter.com/jdpoc/status/1370798098075824132" ],
+    "published" : [ "2021-03-13T18:05:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jdpoc" ],
+        "numeric-id" : [ "213243802" ],
+        "name" : [ "John O'Connell" ],
+        "nickname" : [ "jdpoc" ],
+        "url" : [ "https://twitter.com/jdpoc", "http://farrightwatch.net" ],
+        "published" : [ "2010-11-08T11:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237458398746161152/xZmcnuD7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The actual people from *THAT* meme, 10 years on ...\n.",
+      "html" : "<div style=\"white-space: pre\">The actual people from *THAT* meme, 10 years on ...\n.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EwYNmxYWUAIeev2.jpg" ]
+  }
+}
