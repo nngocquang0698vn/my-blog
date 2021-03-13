@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370023875526893579" ],
+    "url" : [ "https://twitter.com/xyzachh/status/1370023875526893579" ],
+    "published" : [ "2021-03-11T14:48:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:xyzachh" ],
+        "numeric-id" : [ "1105966680" ],
+        "name" : [ "zach" ],
+        "nickname" : [ "xyzachh" ],
+        "url" : [ "https://twitter.com/xyzachh", "https://instagram.com/atsignzach" ],
+        "published" : [ "2013-01-20T11:07:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "kent/ox/newc" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365818299762769920/eT6PEgDf.jpg" ]
+      }
+    } ],
+    "content" : [ "it’s really not hard" ],
+    "photo" : [ "https://pbs.twimg.com/media/EwNNc0RUcAE1wjh.jpg" ]
+  }
+}
