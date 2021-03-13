@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jdpoc/status/1370798098075824132" ],
     "name" : [ "Like of @jdpoc's tweet" ],
     "published" : [ "2021-03-13T23:35:00+0000" ],
     "category" : [ "memes" ],
