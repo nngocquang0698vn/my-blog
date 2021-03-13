@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xyzachh/status/1370023875526893579" ],
     "name" : [ "Like of @xyzachh's tweet" ],
     "published" : [ "2021-03-13T12:48:00+0000" ],
     "like-of" : [ "https://twitter.com/xyzachh/status/1370023875526893579" ],
