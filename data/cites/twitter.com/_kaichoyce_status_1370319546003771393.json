@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370319546003771393" ],
+    "url" : [ "https://twitter.com/kaichoyce/status/1370319546003771393" ],
+    "published" : [ "2021-03-12T10:23:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kaichoyce" ],
+        "numeric-id" : [ "14659092" ],
+        "name" : [ "kai" ],
+        "nickname" : [ "kaichoyce" ],
+        "url" : [ "https://twitter.com/kaichoyce", "https://www.instagram.com/kaichoyce" ],
+        "published" : [ "2008-05-05T13:01:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "right behind you" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1368993987151892480/n9BJsEhN.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EwRaXRYUUAM3doq.jpg" ]
+  }
+}
