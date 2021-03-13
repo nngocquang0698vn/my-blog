@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matchu_chutrain/status/1370561269367934979" ],
     "name" : [ "Like of @matchu_chutrain's tweet" ],
     "published" : [ "2021-03-13T23:19:00+0000" ],
     "like-of" : [ "https://twitter.com/matchu_chutrain/status/1370561269367934979" ],
