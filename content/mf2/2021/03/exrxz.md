@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kaichoyce/status/1370319546003771393" ],
     "name" : [ "Like of @kaichoyce's tweet" ],
     "published" : [ "2021-03-13T20:03:00+0000" ],
     "like-of" : [ "https://twitter.com/kaichoyce/status/1370319546003771393" ],
