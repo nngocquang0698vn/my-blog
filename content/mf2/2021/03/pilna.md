@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrianYoungeArs/status/1370393944559915017" ],
     "name" : [ "Like of @BrianYoungeArs's tweet" ],
     "published" : [ "2021-03-14T12:57:00+0000" ],
     "like-of" : [ "https://twitter.com/BrianYoungeArs/status/1370393944559915017" ],
