@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andreewallin/status/1370720939067985924" ],
     "name" : [ "Like of @andreewallin's tweet" ],
     "published" : [ "2021-03-14T10:34:00+0000" ],
     "category" : [ "art" ],
