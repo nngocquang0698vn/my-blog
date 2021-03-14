@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mrjamesob/status/1371019364611276804" ],
     "name" : [ "Like of @mrjamesob's tweet" ],
     "published" : [ "2021-03-14T17:15:00+0000" ],
     "category" : [ "politics" ],
