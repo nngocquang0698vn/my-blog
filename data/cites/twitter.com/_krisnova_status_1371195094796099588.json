@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371195094796099588" ],
+    "url" : [ "https://twitter.com/krisnova/status/1371195094796099588" ],
+    "published" : [ "2021-03-14T20:22:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "kris nóva" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://nivenly.com" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "non-deterministic land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1370971057289449474/SgisBHvA.jpg" ]
+      }
+    } ],
+    "content" : [ "life goals: remove sudo and package managers from production" ]
+  }
+}
