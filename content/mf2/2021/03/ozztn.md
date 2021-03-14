@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Master2020The/status/1371145066622939137" ],
     "name" : [ "Like of @Master2020The's tweet" ],
     "published" : [ "2021-03-14T17:11:00+0000" ],
     "category" : [ "politics" ],
