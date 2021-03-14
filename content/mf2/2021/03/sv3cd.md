@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1371168502825033737" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2021-03-14T23:17:00+0000" ],
     "category" : [ "bitcoin", "cryptocurrency" ],
