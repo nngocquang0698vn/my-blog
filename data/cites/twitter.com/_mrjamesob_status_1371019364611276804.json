@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371019364611276804" ],
+    "url" : [ "https://twitter.com/mrjamesob/status/1371019364611276804" ],
+    "published" : [ "2021-03-14T08:44:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mrjamesob" ],
+        "numeric-id" : [ "152656121" ],
+        "name" : [ "James O'Brien" ],
+        "nickname" : [ "mrjamesob" ],
+        "url" : [ "https://twitter.com/mrjamesob", "https://uk.bookshop.org/books/how-not-to-be-wrong-the-art-of-changing-your-mind/9780753557709" ],
+        "published" : [ "2010-06-06T14:46:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332740004418899970/ZDDMftdO.jpg" ]
+      }
+    } ],
+    "content" : [ "You can get a very helpful insight into what politicians & pundits really feel about men who sexually assault women by recalling how they treated an American President who boasted about being one." ]
+  }
+}
