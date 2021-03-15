@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371331417402085377" ],
+    "url" : [ "https://twitter.com/emaraven11/status/1371331417402085377" ],
+    "published" : [ "2021-03-15T05:24:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emaraven11" ],
+        "numeric-id" : [ "1186160794045562881" ],
+        "name" : [ "✨ em the gremlin ✨" ],
+        "nickname" : [ "emaraven11" ],
+        "url" : [ "https://twitter.com/emaraven11", "https://www.amazon.ca/hz/wishlist/ls/1RSB0MB6CDY63?ref_=wl_share" ],
+        "published" : [ "2019-10-21T06:02:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364358848018980864/1AMNzT9I.jpg" ]
+      }
+    } ],
+    "content" : [ "hahaha yes😎" ],
+    "photo" : [ "https://pbs.twimg.com/media/EwfyjHbUUAUO82K.jpg" ]
+  }
+}
