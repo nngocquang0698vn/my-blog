@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/gurlcode/status/1371535761351307271" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1371540713897345027" ],
     "name" : [ "Reply to https://twitter.com/gurlcode/status/1371535761351307271" ],
     "published" : [ "2021-03-15T19:13:00+0000" ],
     "post-status" : [ "published" ],
