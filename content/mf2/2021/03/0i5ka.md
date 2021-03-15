@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1371401041544105985" ],
     "published" : [ "2021-03-15T09:56:00+0000" ],
     "category" : [ "2020", "2021", "coronavirus" ],
     "repost-of" : [ "https://twitter.com/expansegifs/status/1371276568434204677" ],
