@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371403813018537992" ],
+    "url" : [ "https://twitter.com/mikekelly85/status/1371403813018537992" ],
+    "published" : [ "2021-03-15T10:12:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mikekelly85" ],
+        "numeric-id" : [ "15151905" ],
+        "name" : [ "Mike Kelly" ],
+        "nickname" : [ "mikekelly85" ],
+        "url" : [ "https://twitter.com/mikekelly85" ],
+        "published" : [ "2008-06-17T23:55:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1223301263493865473/tGpoW-cs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Startup idea: NFTs for domain names. \n\nWe could have multiple authorities who are trusted to verify people’s identity and claim to own a domain, and then issue them a digital certificate.\n\nThey can then use that certificate for verifying their domain and website is authentic.",
+      "html" : "<div style=\"white-space: pre\">Startup idea: NFTs for domain names. \n\nWe could have multiple authorities who are trusted to verify people’s identity and claim to own a domain, and then issue them a digital certificate.\n\nThey can then use that certificate for verifying their domain and website is authentic.</div>"
+    } ]
+  }
+}
