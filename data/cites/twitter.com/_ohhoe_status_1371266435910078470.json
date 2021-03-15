@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371266435910078470" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1371266435910078470" ],
+    "published" : [ "2021-03-15T01:06:09+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ohhoe/status/1371266171505410060" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341993238899675136/Mdwx35dR.jpg" ]
+      }
+    } ],
+    "content" : [ "i'm just thinking about someone shaking their ass to make you a drink and 🥲" ]
+  }
+}
