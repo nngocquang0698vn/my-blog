@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BoxMacLeod/status/1371427014691930113" ],
     "name" : [ "Like of @BoxMacLeod's tweet" ],
     "published" : [ "2021-03-16T17:45:00+0000" ],
     "category" : [ "shitpost", "food", "mechanical-keyboard" ],
