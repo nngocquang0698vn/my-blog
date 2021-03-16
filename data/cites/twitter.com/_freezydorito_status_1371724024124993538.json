@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371724024124993538" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1371724024124993538" ],
+    "published" : [ "2021-03-16T07:24:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "laura bananas" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://laura.monster" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "shoreditch demilitarized zone" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357109932986875905/Up1ETJBQ.jpg" ]
+      }
+    } ],
+    "content" : [ "god he looks so happy" ],
+    "photo" : [ "https://pbs.twimg.com/media/EwlXui2WgAAcSZI.jpg" ]
+  }
+}
