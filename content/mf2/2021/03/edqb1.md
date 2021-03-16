@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/staidindoors/status/1339703370735443968" ],
     "name" : [ "Like of @staidindoors's tweet" ],
     "published" : [ "2021-03-16T12:23:00+0000" ],
     "category" : [ "the-matrix" ],
