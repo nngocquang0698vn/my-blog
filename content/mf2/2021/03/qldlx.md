@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SerenaTalksTech/status/1371657687239438339" ],
     "name" : [ "Like of @SerenaTalksTech's tweet" ],
     "published" : [ "2021-03-16T17:49:00+0000" ],
     "category" : [ "tiktok", "production" ],
