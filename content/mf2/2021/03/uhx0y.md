@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HTTP_Lovecraft/status/1371634348420698115" ],
     "name" : [ "Like of @HTTP_Lovecraft's tweet" ],
     "published" : [ "2021-03-16T09:24:00+0000" ],
     "like-of" : [ "https://twitter.com/HTTP_Lovecraft/status/1371634348420698115" ],
