@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371657687239438339" ],
+    "url" : [ "https://twitter.com/SerenaTalksTech/status/1371657687239438339" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1371657641810923528/pu/vid/720x1280/eSTfASnezRBYp0M1.mp4?tag=12" ],
+    "published" : [ "2021-03-16T03:00:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SerenaTalksTech" ],
+        "numeric-id" : [ "811560822459822080" ],
+        "name" : [ "shenetworks" ],
+        "nickname" : [ "SerenaTalksTech" ],
+        "url" : [ "https://twitter.com/SerenaTalksTech" ],
+        "published" : [ "2016-12-21T13:15:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Richardson, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309580582817607681/TcmLUUwC.jpg" ]
+      }
+    } ],
+    "content" : [ "Forgetting about the change window... again" ]
+  }
+}
