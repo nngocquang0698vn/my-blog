@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freezydorito/status/1371724024124993538" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2021-03-16T09:16:00+0000" ],
     "category" : [ "cute" ],
