@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371912245714751497" ],
+    "url" : [ "https://twitter.com/aweary/status/1371912245714751497" ],
+    "published" : [ "2021-03-16T19:52:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:aweary" ],
+        "numeric-id" : [ "1899610795" ],
+        "name" : [ "Brandon" ],
+        "nickname" : [ "aweary" ],
+        "url" : [ "https://twitter.com/aweary" ],
+        "published" : [ "2013-09-24T07:41:33+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367544168864763907/JcsurSlp.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s almost like people use their blogs as a development playground to explore things that interest them. Over-engineering is kind of the point" ]
+  }
+}
