@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372235710548348932" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1372235710548348932" ],
+    "published" : [ "2021-03-17T17:17:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353375366027460609/2tAyTa6i.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I just signed off work until the 6th of April 😎\n\nCan’t wait to not know anything about my job when I’m back 😂",
+      "html" : "<div style=\"white-space: pre\">I just signed off work until the 6th of April 😎\n\nCan’t wait to not know anything about my job when I’m back 😂</div>"
+    } ]
+  }
+}
