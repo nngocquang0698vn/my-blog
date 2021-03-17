@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371864881595572230" ],
+    "url" : [ "https://twitter.com/leftistthot420/status/1371864881595572230" ],
+    "published" : [ "2021-03-16T16:44:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:leftistthot420" ],
+        "numeric-id" : [ "961996935421833216" ],
+        "name" : [ "Valentina" ],
+        "nickname" : [ "leftistthot420" ],
+        "url" : [ "https://twitter.com/leftistthot420" ],
+        "published" : [ "2018-02-09T16:15:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1368620333608091649/XuyrxfnJ.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EwnX1ZlW8AUOpPE.png" ]
+  }
+}
