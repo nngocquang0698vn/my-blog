@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/allisonoconor/status/1371840964604661774" ],
     "name" : [ "Like of @allisonoconor's tweet" ],
     "published" : [ "2021-03-17T16:54:00+0000" ],
     "category" : [ "social-media", "twitter" ],
