@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371855909442482176" ],
+    "url" : [ "https://twitter.com/Ayodelefx/status/1371855909442482176" ],
+    "published" : [ "2021-03-16T16:08:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Ayodelefx" ],
+        "numeric-id" : [ "1271099707746660353" ],
+        "name" : [ "Keva" ],
+        "nickname" : [ "Ayodelefx" ],
+        "url" : [ "https://twitter.com/Ayodelefx" ],
+        "published" : [ "2020-06-11T15:19:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "promise Land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367259826070372356/Pt3PJNFT.jpg" ]
+      }
+    } ],
+    "content" : [ "A person who is okay with being alone is a powerful person." ]
+  }
+}
