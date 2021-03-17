@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1371516885444005895" ],
+    "url" : [ "https://twitter.com/E_Craver/status/1371516885444005895" ],
+    "published" : [ "2021-03-15T17:41:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:E_Craver" ],
+        "numeric-id" : [ "631371265" ],
+        "name" : [ "Elise Craver" ],
+        "nickname" : [ "E_Craver" ],
+        "url" : [ "https://twitter.com/E_Craver" ],
+        "published" : [ "2012-07-09T19:50:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356375427082842113/ArEFNM2l.jpg" ]
+      }
+    } ],
+    "content" : [ "My new coworker is pretty lazy. All she does is nap." ],
+    "photo" : [ "https://pbs.twimg.com/media/EwibVjnWQAcr9im.jpg" ]
+  }
+}
