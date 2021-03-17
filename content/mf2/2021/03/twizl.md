@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/leftistthot420/status/1371864881595572230" ],
     "name" : [ "Like of @leftistthot420's tweet" ],
     "published" : [ "2021-03-17T10:54:00+0000" ],
     "category" : [ "mental-health" ],
