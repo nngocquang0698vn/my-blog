@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1372238871547772937" ],
     "published" : [ "2021-03-17T17:28:05.038Z" ],
     "category" : [ "homebrew-website-club" ],
     "content" : [ {
