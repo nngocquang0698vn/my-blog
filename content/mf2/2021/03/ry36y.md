@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Luh_Scoop/status/1371848365621846017" ],
     "name" : [ "Like of @Luh_Scoop's tweet" ],
     "published" : [ "2021-03-17T10:57:00+0000" ],
     "category" : [ "coronavirus" ],
