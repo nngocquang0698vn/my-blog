@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372153225474945033" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1372153225474945033" ],
+    "published" : [ "2021-03-17T11:49:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1372137222288326658" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "That's very cute. Happy birthday to you, one of my favourite people on Twitter, and I hope Anna and Morph make it special.",
+      "html" : "That's very cute. Happy birthday to you, one of my favourite people on Twitter, and I hope Anna and Morph make it special.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
