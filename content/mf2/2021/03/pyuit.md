@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/SparkleClass/status/1372153225474945033" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1372154746287575046" ],
     "name" : [ "Reply to https://twitter.com/SparkleClass/status/1372153225474945033" ],
     "photo" : [ {
       "alt" : "Black cat lying on his side, not quite yet asleep, on a red blanket, over Jamie's lap",
