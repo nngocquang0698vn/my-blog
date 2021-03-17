@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tnash/status/1372118856429404167" ],
     "name" : [ "Like of @tnash's tweet" ],
     "published" : [ "2021-03-17T10:46:00+0000" ],
     "category" : [ "wordpress", "security" ],
