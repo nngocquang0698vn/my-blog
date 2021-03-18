@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372278357321129987" ],
+    "url" : [ "https://twitter.com/vicnastea/status/1372278357321129987" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EwtP4sAVIAId5zu.mp4" ],
+    "published" : [ "2021-03-17T20:07:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:vicnastea" ],
+        "numeric-id" : [ "87882675" ],
+        "name" : [ "Vic Iglesias" ],
+        "nickname" : [ "vicnastea" ],
+        "url" : [ "https://twitter.com/vicnastea", "http://testingclouds.wordpress.com" ],
+        "published" : [ "2009-11-06T06:28:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Santa Barbara, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1607949831/face.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Cant get Docker running on your machine for some reason?\n\nMount Cloud Shell's Daemon locally with:\n\ngcloud alpha cloud-shell ssh -- -nNT -L `pwd`/docker.sock:/var/run/docker.sock\n\nThen use it in another terminal:\nexport DOCKER_HOST=unix://docker.sock\ndocker run hello-world",
+      "html" : "<div style=\"white-space: pre\">Cant get Docker running on your machine for some reason?\n\nMount Cloud Shell's Daemon locally with:\n\ngcloud alpha cloud-shell ssh -- -nNT -L `pwd`/docker.sock:/var/run/docker.sock\n\nThen use it in another terminal:\nexport DOCKER_HOST=unix://docker.sock\ndocker run hello-world</div>"
+    } ]
+  }
+}
