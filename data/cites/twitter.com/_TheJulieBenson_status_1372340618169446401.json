@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372340618169446401" ],
+    "url" : [ "https://twitter.com/TheJulieBenson/status/1372340618169446401" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EwuIgxkVEAEXt7y.mp4" ],
+    "published" : [ "2021-03-18T00:14:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheJulieBenson" ],
+        "numeric-id" : [ "229948215" ],
+        "name" : [ "Julie Benson" ],
+        "nickname" : [ "TheJulieBenson" ],
+        "url" : [ "https://twitter.com/TheJulieBenson", "http://www.thebensonsisters.com" ],
+        "published" : [ "2010-12-23T20:07:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1218675253951352832/T4zLuPIz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My brain:\n1970 was 30 years ago\n1990 was 10 years ago\n1995 was 10 years ago\n2000 was 10 years ago\n2010 was 10 years ago\n2016 was a couple years ago\n2017 didn't happen\n2018 was 2 years ago\n2019 was last year\n2020 was last year\n2021 it's only January",
+      "html" : "<div style=\"white-space: pre\">My brain:\n1970 was 30 years ago\n1990 was 10 years ago\n1995 was 10 years ago\n2000 was 10 years ago\n2010 was 10 years ago\n2016 was a couple years ago\n2017 didn't happen\n2018 was 2 years ago\n2019 was last year\n2020 was last year\n2021 it's only January</div>"
+    } ]
+  }
+}
