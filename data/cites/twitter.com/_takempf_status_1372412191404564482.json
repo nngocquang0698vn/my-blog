@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372412191404564482" ],
+    "url" : [ "https://twitter.com/takempf/status/1372412191404564482" ],
+    "published" : [ "2021-03-18T04:58:59+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/mikeal/status/1372400469075578888" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:takempf" ],
+        "numeric-id" : [ "17734862" ],
+        "name" : [ "Timothy Kempf 🎃🍁" ],
+        "nickname" : [ "takempf" ],
+        "url" : [ "https://twitter.com/takempf", "http://kempf.dev" ],
+        "published" : [ "2008-11-29T14:24:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/646393926488862721/azr93lfa.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Big yikes here",
+      "html" : "Big yikes here\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mikeal\"></a>"
+    } ]
+  }
+}
