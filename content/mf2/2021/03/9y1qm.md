@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/SaraSoueidan/status/1372463430947454977" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1372506315889774594" ],
     "name" : [ "Reply to https://twitter.com/SaraSoueidan/status/1372463430947454977" ],
     "published" : [ "2021-03-18T11:10:00+0000" ],
     "category" : [ "medium" ],
