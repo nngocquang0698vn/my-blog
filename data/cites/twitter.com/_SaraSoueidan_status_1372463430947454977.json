@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372463430947454977" ],
+    "url" : [ "https://twitter.com/SaraSoueidan/status/1372463430947454977" ],
+    "published" : [ "2021-03-18T08:22:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SaraSoueidan" ],
+        "numeric-id" : [ "717654410" ],
+        "name" : [ "Sara Soueidan" ],
+        "nickname" : [ "SaraSoueidan" ],
+        "url" : [ "https://twitter.com/SaraSoueidan", "https://sarasoueidan.com" ],
+        "published" : [ "2012-07-26T07:57:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lebanon 🇱🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314126643401760768/6JJJzKvf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I really, really dislike reading articles on @Medium. It’s a shame that many good ones are published exclusively there.\n\nFYI: images on medium rarely ever show up for me — all I get most of the time is blurred versions of images that the JavaScript failed to load.",
+      "html" : "<div style=\"white-space: pre\">I really, really dislike reading articles on <a href=\"https://twitter.com/Medium\">@Medium</a>. It’s a shame that many good ones are published exclusively there.\n\nFYI: images on medium rarely ever show up for me — all I get most of the time is blurred versions of images that the JavaScript failed to load.</div>"
+    } ]
+  }
+}
