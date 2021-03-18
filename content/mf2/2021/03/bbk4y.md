@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/takempf/status/1372412191404564482" ],
     "name" : [ "Like of @takempf's tweet" ],
     "published" : [ "2021-03-18T21:29:00+0000" ],
     "like-of" : [ "https://twitter.com/takempf/status/1372412191404564482" ],
