@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372675989440987140" ],
+    "url" : [ "https://twitter.com/ofcAnthony/status/1372675989440987140" ],
+    "published" : [ "2021-03-18T22:27:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/coates/status/1372601263402127362" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ofcAnthony" ],
+        "numeric-id" : [ "411874548" ],
+        "name" : [ "Anthony, of course" ],
+        "nickname" : [ "ofcAnthony" ],
+        "url" : [ "https://twitter.com/ofcAnthony" ],
+        "published" : [ "2011-11-14T00:25:18+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/962080615922372608/g24Ulrx3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I love this feature, although I wish I could set it up across the org. We often have the same tracking system covering multiple repos and we have to manage this in all of them",
+      "html" : "I love this feature, although I wish I could set it up across the org. We often have the same tracking system covering multiple repos and we have to manage this in all of them\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/coates\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>"
+    } ]
+  }
+}
