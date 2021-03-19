@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372960098595799052" ],
+    "url" : [ "https://twitter.com/Mothrabeams/status/1372960098595799052" ],
+    "published" : [ "2021-03-19T17:16:10+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Mothrabeams/status/1372959681925283843" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Mothrabeams" ],
+        "numeric-id" : [ "1174325456365133829" ],
+        "name" : [ "𝔐𝔬𝔱𝔥𝔯𝔞 ✨" ],
+        "nickname" : [ "Mothrabeams" ],
+        "url" : [ "https://twitter.com/Mothrabeams" ],
+        "published" : [ "2019-09-18T14:13:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Morgantown, WV" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341076657550069762/5Ojky90V.jpg" ]
+      }
+    } ],
+    "content" : [ "Twitter this GOD DAMNED CROP" ]
+  }
+}
