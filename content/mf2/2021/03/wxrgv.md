@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/relequestual/status/1372905476757852173" ],
     "name" : [ "Like of @relequestual's tweet" ],
     "published" : [ "2021-03-19T22:42:00+0000" ],
     "category" : [ "postman", "json-schema" ],
