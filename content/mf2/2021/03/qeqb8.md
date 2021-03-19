@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jonty/status/1372622441873350662" ],
     "name" : [ "Like of @jonty's tweet" ],
     "published" : [ "2021-03-19T11:19:00+0000" ],
     "category" : [ "technical-leadership" ],
