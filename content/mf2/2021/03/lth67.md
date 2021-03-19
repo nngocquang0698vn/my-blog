@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codeFreedomRitr/status/1372746565324967940" ],
     "name" : [ "Like of @codeFreedomRitr's tweet" ],
     "published" : [ "2021-03-19T18:11:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
