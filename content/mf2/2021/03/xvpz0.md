@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rakyll/status/1372627969663934464" ],
     "name" : [ "Like of @rakyll's tweet" ],
     "published" : [ "2021-03-19T11:31:00+0000" ],
     "category" : [ "technical-leadership" ],
