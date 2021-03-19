@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372627969663934464" ],
+    "url" : [ "https://twitter.com/rakyll/status/1372627969663934464" ],
+    "published" : [ "2021-03-18T19:16:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343095850768035841/lXTTjc0_.jpg" ]
+      }
+    } ],
+    "content" : [ "When I'm mentoring, the biggest difficulty I'm seeing when engineers go from senior to higher level positions is about \"measuring\" their work. They get nervous (and I was too) that previous ways of measuring impact don't work anymore." ]
+  }
+}
