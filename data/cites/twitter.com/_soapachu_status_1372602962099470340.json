@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372602962099470340" ],
+    "url" : [ "https://twitter.com/soapachu/status/1372602962099470340" ],
+    "published" : [ "2021-03-18T17:37:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:soapachu" ],
+        "numeric-id" : [ "21118184" ],
+        "name" : [ "badly-drawn bee 🐝" ],
+        "nickname" : [ "soapachu" ],
+        "url" : [ "https://twitter.com/soapachu" ],
+        "published" : [ "2009-02-17T19:05:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369678821146959876/Hl836eB2.jpg" ]
+      }
+    } ],
+    "content" : [ "Can confirm." ],
+    "photo" : [ "https://pbs.twimg.com/media/Ewx3HQoW8AM69sG.png" ]
+  }
+}
