@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372829703300657158" ],
+    "url" : [ "https://twitter.com/sallylait/status/1372829703300657158" ],
+    "published" : [ "2021-03-19T08:38:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sallylait" ],
+        "numeric-id" : [ "77716807" ],
+        "name" : [ "Sally Lait" ],
+        "nickname" : [ "sallylait" ],
+        "url" : [ "https://twitter.com/sallylait", "https://sally.dev" ],
+        "published" : [ "2009-09-27T11:34:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Suffolk, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/687266977606451201/cI7GpzkY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If *any* engineer screws up (not just juniors), use it as a chance to see where your processes, tools, docs, or training have let them down.\n\nEveryone makes mistakes. If the screw up has a big impact, that's arguably on the business for not mitigating the risk, not the individual",
+      "html" : "<div style=\"white-space: pre\">If *any* engineer screws up (not just juniors), use it as a chance to see where your processes, tools, docs, or training have let them down.\n\nEveryone makes mistakes. If the screw up has a big impact, that's arguably on the business for not mitigating the risk, not the individual</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1372622441873350662" ],
+      "url" : [ "https://twitter.com/jonty/status/1372622441873350662" ],
+      "published" : [ "2021-03-18T18:54:26+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:jonty" ],
+          "numeric-id" : [ "1856851" ],
+          "name" : [ "Jonty Wareing" ],
+          "nickname" : [ "jonty" ],
+          "url" : [ "https://twitter.com/jonty", "http://jonty.co.uk" ],
+          "published" : [ "2007-03-22T10:28:39+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "East London-ish" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1356307719205101571/zka-nKfk.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "If a junior engineer screws up, make sure you tell them it's ok - we all make mistakes.\n\nDon't leave them sat at home feeling miserable during a pandemic",
+        "html" : "<div style=\"white-space: pre\">If a junior engineer screws up, make sure you tell them it's ok - we all make mistakes.\n\nDon't leave them sat at home feeling miserable during a pandemic</div>"
+      } ]
+    }
+  } ]
+}
