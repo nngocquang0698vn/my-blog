@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372860735064317953" ],
+    "url" : [ "https://twitter.com/RabbiGreenberg/status/1372860735064317953" ],
+    "published" : [ "2021-03-19T10:41:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RabbiGreenberg" ],
+        "numeric-id" : [ "16190869" ],
+        "name" : [ "Ben Greenberg" ],
+        "nickname" : [ "RabbiGreenberg" ],
+        "url" : [ "https://twitter.com/RabbiGreenberg", "https://www.bengreenberg.dev" ],
+        "published" : [ "2008-09-08T19:54:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Israel 🇮🇱" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1368553432769064960/mKcD2XYP.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:2edb6e240797c549" ],
+        "name" : [ "Israel" ]
+      }
+    } ],
+    "content" : [ "If you have a tight space in your home office, the Webaround green screen works nicely. Got it this week, and it's already been a great enhancement to recording/streaming. 🎥🎙️🟩" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ew1hj-gWEAIJmK0.jpg" ]
+  }
+}
