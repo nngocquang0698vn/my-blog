@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kickeep/status/1372955303365373956" ],
     "name" : [ "Like of @kickeep's tweet" ],
     "published" : [ "2021-03-19T19:12:00+0000" ],
     "like-of" : [ "https://twitter.com/kickeep/status/1372955303365373956" ],
