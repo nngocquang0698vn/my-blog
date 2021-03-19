@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1372959104554070016" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1372960796431556612" ],
     "name" : [ "Reply to https://twitter.com/Dixie3Flatline/status/1372959104554070016" ],
     "published" : [ "2021-03-19T17:14:00+0000" ],
     "post-status" : [ "published" ],
