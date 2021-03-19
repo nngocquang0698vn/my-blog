@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soapachu/status/1372602962099470340" ],
     "name" : [ "Like of @soapachu's tweet" ],
     "published" : [ "2021-03-19T10:57:00+0000" ],
     "category" : [ "shitpost" ],
