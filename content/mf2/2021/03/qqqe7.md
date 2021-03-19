@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/bagwaa/status/1372871202138624000" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1372873958828167168" ],
     "name" : [ "Reply to https://twitter.com/bagwaa/status/1372871202138624000" ],
     "published" : [ "2021-03-19T11:24:00+0000" ],
     "category" : [ "capital-one" ],
