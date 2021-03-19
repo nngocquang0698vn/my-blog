@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dariarooz/status/1372936241067520003" ],
     "name" : [ "Like of @dariarooz's tweet" ],
     "published" : [ "2021-03-19T17:16:00+0000" ],
     "category" : [ "art", "gaming" ],
