@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sallylait/status/1372829703300657158" ],
     "name" : [ "Like of @sallylait's tweet" ],
     "published" : [ "2021-03-19T11:41:00+0000" ],
     "category" : [ "technical-leadership" ],
