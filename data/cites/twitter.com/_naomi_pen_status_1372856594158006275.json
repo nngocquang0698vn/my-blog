@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372856594158006275" ],
+    "url" : [ "https://twitter.com/naomi_pen/status/1372856594158006275" ],
+    "published" : [ "2021-03-19T10:24:53+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/freezydorito/status/1372856044653797378" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:naomi_pen" ],
+        "numeric-id" : [ "110967297" ],
+        "name" : [ "Naomi tweets about geese" ],
+        "nickname" : [ "naomi_pen" ],
+        "url" : [ "https://twitter.com/naomi_pen", "http://naomi.codes", "http://pronoun.is/she" ],
+        "published" : [ "2010-02-03T11:09:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367404782382678044/6t3O05yM.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "*adds editor plugin(s) as a stretch goal to our next hack week*",
+      "html" : "*adds editor plugin(s) as a stretch goal to our next hack week*\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/freezydorito\"></a>"
+    } ]
+  }
+}
