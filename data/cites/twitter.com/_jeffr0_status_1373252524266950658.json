@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373252524266950658" ],
+    "url" : [ "https://twitter.com/jeffr0/status/1373252524266950658" ],
+    "published" : [ "2021-03-20T12:38:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jeffr0" ],
+        "numeric-id" : [ "797805" ],
+        "name" : [ "Jeff" ],
+        "nickname" : [ "jeffr0" ],
+        "url" : [ "https://twitter.com/jeffr0", "http://jeffc.me" ],
+        "published" : [ "2007-02-27T10:59:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ohio" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/993674096666914821/ywjFUa0W.jpg" ]
+      }
+    } ],
+    "content" : [ "Breakfast sandwich yummm" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ew7F46kXMAAQ4Hu.jpg" ]
+  }
+}
