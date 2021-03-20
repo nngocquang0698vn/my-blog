@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/always_hope83/status/1373047555764944897" ],
     "name" : [ "Like of @always_hope83's tweet" ],
     "published" : [ "2021-03-20T17:26:00+0000" ],
     "category" : [ "coronavirus" ],
