@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1372925860127313928" ],
+    "url" : [ "https://twitter.com/humorandanimals/status/1372925860127313928" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1372925673342394368/pu/vid/720x900/jm5229jRUMVMutjk.mp4?tag=12" ],
+    "published" : [ "2021-03-19T15:00:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:humorandanimals" ],
+        "numeric-id" : [ "913203265466257408" ],
+        "name" : [ "Humor And Animals" ],
+        "nickname" : [ "humorandanimals" ],
+        "url" : [ "https://twitter.com/humorandanimals" ],
+        "published" : [ "2017-09-28T00:46:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Detroit, MI" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/959966300025040896/Pc2NXmUi.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:92b2158a6d509767" ],
+        "name" : [ "Ann Arbor, MI" ]
+      }
+    } ],
+    "content" : [ "this puppy playing with a butterfly is the cutest thing ever" ]
+  }
+}
