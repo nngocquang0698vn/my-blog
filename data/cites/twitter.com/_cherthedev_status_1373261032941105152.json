@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373261032941105152" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1373261032941105152" ],
+    "published" : [ "2021-03-20T13:11:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "name" : [ "Cher" ],
+        "nickname" : [ "cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle 💖 Chelan 💖 SoCal" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369098023226273796/npRESm4Z.jpg" ]
+      }
+    } ],
+    "content" : [ "You ever think about how a woman will respond to unwanted advances by inventing a fictional man as a partner because other men are more likely to respect a fictitious man’s boundaries than the woman’s?" ]
+  }
+}
