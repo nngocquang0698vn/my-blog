@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlSweigart/status/1373319060180582403" ],
     "name" : [ "Like of @AlSweigart's tweet" ],
     "published" : [ "2021-03-20T17:33:00+0000" ],
     "category" : [ "politics" ],
