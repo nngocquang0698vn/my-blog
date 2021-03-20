@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/humorandanimals/status/1372925860127313928" ],
     "name" : [ "Like of @humorandanimals's tweet" ],
     "published" : [ "2021-03-20T17:28:00+0000" ],
     "category" : [ "cute" ],
