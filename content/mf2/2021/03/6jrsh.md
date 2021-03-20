@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DannyDeraney/status/1372621563443376128" ],
     "name" : [ "Like of @DannyDeraney's tweet" ],
     "published" : [ "2021-03-20T17:30:00+0000" ],
     "category" : [ "cute" ],
