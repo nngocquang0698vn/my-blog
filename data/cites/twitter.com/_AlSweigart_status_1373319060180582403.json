@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373319060180582403" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1373319060180582403" ],
+    "published" : [ "2021-03-20T17:02:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "name" : [ "Al Sweigart" ],
+        "nickname" : [ "AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323917481216364544/jFfHUEmH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "$2000 became $1600.\n\nBiden promised to decriminalize marijuana, now he's firing staff who used it.\n\nYou can see why I don't trust Democrats, right?",
+      "html" : "<div style=\"white-space: pre\">$2000 became $1600.\n\nBiden promised to decriminalize marijuana, now he's firing staff who used it.\n\nYou can see why I don't trust Democrats, right?</div>"
+    } ]
+  }
+}
