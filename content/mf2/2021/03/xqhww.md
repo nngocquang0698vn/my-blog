@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cherthedev/status/1373261032941105152" ],
     "name" : [ "Like of @cherthedev's tweet" ],
     "published" : [ "2021-03-20T15:23:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
