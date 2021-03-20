@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/dominik-th/matomo-plugin-LoginOIDC/stargazers" ],
     "name" : [ "GitHub - dominik-th/matomo-plugin-LoginOIDC: external authentication services for matomo" ],
     "published" : [ "2021-03-20T16:24:00+0000" ],
     "category" : [ "matomo" ],
