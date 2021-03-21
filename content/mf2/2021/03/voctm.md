@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SamSykesSwears/status/1373679540451508230" ],
     "name" : [ "Like of @SamSykesSwears's tweet" ],
     "published" : [ "2021-03-21T17:42:00+0000" ],
     "category" : [ "shitpost", "star-wars" ],
