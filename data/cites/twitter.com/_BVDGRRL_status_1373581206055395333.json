@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373581206055395333" ],
+    "url" : [ "https://twitter.com/BVDGRRL/status/1373581206055395333" ],
+    "published" : [ "2021-03-21T10:24:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BVDGRRL" ],
+        "numeric-id" : [ "1318475715860312065" ],
+        "name" : [ "BAD♡GRRL" ],
+        "nickname" : [ "BVDGRRL" ],
+        "url" : [ "https://twitter.com/BVDGRRL", "http://sparx.dog" ],
+        "published" : [ "2020-10-20T08:54:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Phoenix, AZ" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372126405530583049/jdziNcRR.jpg" ]
+      }
+    } ],
+    "content" : [ "Oh no" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ew_w0w7U8AI7xY7.jpg", "https://pbs.twimg.com/media/Ew_w08DUcAU-iXd.jpg" ]
+  }
+}
