@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1366520243284279298" ],
+    "url" : [ "https://twitter.com/CatsInsideBox/status/1366520243284279298" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1366520204407287809/pu/vid/720x720/k-xRONiMHEhRe3pN.mp4?tag=10" ],
+    "published" : [ "2021-03-01T22:46:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CatsInsideBox" ],
+        "numeric-id" : [ "1345791682609033216" ],
+        "name" : [ "Cats in boxes" ],
+        "nickname" : [ "CatsInsideBox" ],
+        "url" : [ "https://twitter.com/CatsInsideBox" ],
+        "published" : [ "2021-01-03T17:59:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "cardboard box" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372513111639490568/RX36oDjo.jpg" ]
+      }
+    } ]
+  }
+}
