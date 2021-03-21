@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kuraobi/status/1373701496362180611" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1373718743164055552" ],
     "name" : [ "Reply to https://twitter.com/kuraobi/status/1373701496362180611" ],
     "published" : [ "2021-03-21T19:26:00+0000" ],
     "category" : [ "git" ],
