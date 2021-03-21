@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373701496362180611" ],
+    "url" : [ "https://twitter.com/kuraobi/status/1373701496362180611" ],
+    "published" : [ "2021-03-21T18:22:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/dragonmantank/status/1373645436192456705" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kuraobi" ],
+        "numeric-id" : [ "1013349543885332480" ],
+        "name" : [ "kuraobi" ],
+        "nickname" : [ "kuraobi" ],
+        "url" : [ "https://twitter.com/kuraobi", "http://kura.ooo" ],
+        "published" : [ "2018-07-01T09:12:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1132280770033311745/k2l90xlN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It would be less stressful if the rebased branch was versioned 😏 git is a versioning tool after all...\nImagine that when rebasing, git marks the old branch as rebased, keeping the old commits stored... Then if you screwed up a rebase, you could restore the branch as it was",
+      "html" : "<div style=\"white-space: pre\">It would be less stressful if the rebased branch was versioned 😏 git is a versioning tool after all...\nImagine that when rebasing, git marks the old branch as rebased, keeping the old commits stored... Then if you screwed up a rebase, you could restore the branch as it was</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dragonmantank\"></a>"
+    } ]
+  }
+}
