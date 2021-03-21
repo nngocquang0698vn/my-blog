@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373382711033888770" ],
+    "url" : [ "https://twitter.com/josefin_aut/status/1373382711033888770" ],
+    "published" : [ "2021-03-20T21:15:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:josefin_aut" ],
+        "numeric-id" : [ "1363956955467907081" ],
+        "name" : [ "Josefina 🧋(was @/kriemhildsrache)" ],
+        "nickname" : [ "josefin_aut" ],
+        "url" : [ "https://twitter.com/josefin_aut" ],
+        "published" : [ "2021-02-22T21:01:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "oxford / chile" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363961107497578502/HDcfvJOR.jpg" ]
+      }
+    } ],
+    "content" : [ "thank you census for unwittingly providing a reaction image" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ew88S-dXEAU6dN6.jpg" ]
+  }
+}
