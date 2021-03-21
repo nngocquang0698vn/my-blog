@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373679540451508230" ],
+    "url" : [ "https://twitter.com/SamSykesSwears/status/1373679540451508230" ],
+    "published" : [ "2021-03-21T16:54:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SamSykesSwears" ],
+        "numeric-id" : [ "79309628" ],
+        "name" : [ "Sam Sykes" ],
+        "nickname" : [ "SamSykesSwears" ],
+        "url" : [ "https://twitter.com/SamSykesSwears", "http://www.samsykes.com" ],
+        "published" : [ "2009-10-02T22:55:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "US" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1352304634509987841/R5gdu9Vc.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Exec 1: \"The Mandalorian was a hit! We need something like that for the Obi Wan spinoff, but not -too- similar.\"\nExec 2: \"say no more\"",
+      "html" : "<div style=\"white-space: pre\">Exec 1: \"The Mandalorian was a hit! We need something like that for the Obi Wan spinoff, but not -too- similar.\"\nExec 2: \"say no more\"</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ExBJ4kaUUAMJPgU.jpg" ]
+  }
+}
