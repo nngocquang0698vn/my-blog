@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "read-status" : [ "to-read" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1373774466996703233" ],
     "read-of" : [ {
       "type" : [ "h-cite" ],
       "properties" : {
