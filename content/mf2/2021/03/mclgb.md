@@ -4,8 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "read-status" : [ "to-read" ],
-    "syndication" : [ "https://twitter.com/JamieTanna/status/1373774466996703233" ],
+    "read-status" : [ "finished" ],
     "read-of" : [ {
       "type" : [ "h-cite" ],
       "properties" : {
