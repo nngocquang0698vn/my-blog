@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373676730548912131" ],
+    "url" : [ "https://twitter.com/YeahThatsKosher/status/1373676730548912131" ],
+    "published" : [ "2021-03-21T16:43:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:YeahThatsKosher" ],
+        "numeric-id" : [ "15576406" ],
+        "name" : [ "Dani Klein 🌎 YeahThatsKosher" ],
+        "nickname" : [ "YeahThatsKosher" ],
+        "url" : [ "https://twitter.com/YeahThatsKosher", "http://YeahThatsKosher.com" ],
+        "published" : [ "2008-07-24T03:03:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359687202557603840/0YJQtzgk.jpg" ]
+      }
+    } ],
+    "content" : [ "This is amazing." ],
+    "photo" : [ "https://pbs.twimg.com/media/ExBHtM7XIAE7p1k.jpg" ]
+  }
+}
