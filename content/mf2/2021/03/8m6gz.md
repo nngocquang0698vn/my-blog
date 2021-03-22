@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/YeahThatsKosher/status/1373676730548912131" ],
     "name" : [ "Like of @YeahThatsKosher's tweet" ],
     "published" : [ "2021-03-22T14:35:00+0000" ],
     "like-of" : [ "https://twitter.com/YeahThatsKosher/status/1373676730548912131" ],
