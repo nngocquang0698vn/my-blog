@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hog_mild/status/1373401050489577475" ],
     "name" : [ "Like of @hog_mild's tweet" ],
     "published" : [ "2021-03-22T17:10:00+0000" ],
     "like-of" : [ "https://twitter.com/hog_mild/status/1373401050489577475" ],
