@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373798913652654084" ],
+    "url" : [ "https://twitter.com/Foone/status/1373798913652654084" ],
+    "published" : [ "2021-03-22T00:49:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Foone" ],
+        "numeric-id" : [ "13502732" ],
+        "name" : [ "foone" ],
+        "nickname" : [ "Foone" ],
+        "url" : [ "https://twitter.com/Foone", "http://floppy.foone.org", "http://patreon.com/foone", "http://ko-fi.com/fooneturing" ],
+        "published" : [ "2008-02-15T03:51:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Milpitas, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0.jpg" ]
+      }
+    } ],
+    "content" : [ "It's only [Obj]Light Cheese[Obj][Obj][Obj] if it comes from the [Obj] region of france, otherwise it's just unicode cheese" ],
+    "photo" : [ "https://pbs.twimg.com/media/ExC2sowUUAAgBsl.png" ]
+  }
+}
