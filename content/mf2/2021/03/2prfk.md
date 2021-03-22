@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1374015663635755012" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2021-03-22T22:33:00+0000" ],
     "category" : [ "politics" ],
