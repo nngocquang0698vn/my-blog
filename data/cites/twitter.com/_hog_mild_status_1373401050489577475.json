@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373401050489577475" ],
+    "url" : [ "https://twitter.com/hog_mild/status/1373401050489577475" ],
+    "published" : [ "2021-03-20T22:28:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hog_mild" ],
+        "numeric-id" : [ "444120026" ],
+        "name" : [ "anica" ],
+        "nickname" : [ "hog_mild" ],
+        "url" : [ "https://twitter.com/hog_mild", "https://www.twitch.tv/anica" ],
+        "published" : [ "2011-12-22T22:37:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland / Ohlone Land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351385187981041665/Tzm7S7XG.jpg" ]
+      }
+    } ],
+    "content" : [ "my cat has been ramming his head into my boobs a lot lately and i’ve read stories about how pets sometimes warn their owners of cancerous tumors using the same method so i went to the doctor and got checked and found out that my cat is just a pervert" ]
+  }
+}
