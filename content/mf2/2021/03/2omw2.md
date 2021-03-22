@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freezydorito/status/1373933237811183620" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2021-03-22T11:44:00+0000" ],
     "category" : [ "politics" ],
