@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1373954054506811393" ],
+    "url" : [ "https://twitter.com/geeksareforlife/status/1373954054506811393" ],
+    "published" : [ "2021-03-22T11:05:48+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/geeksareforlife/status/1373954052929818624" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:geeksareforlife" ],
+        "numeric-id" : [ "47751632" ],
+        "name" : [ "🏳️‍🌈 James Hayward" ],
+        "nickname" : [ "geeksareforlife" ],
+        "url" : [ "https://twitter.com/geeksareforlife", "https://www.geeksareforlife.com/", "http://pronoun.is/he" ],
+        "published" : [ "2009-06-16T22:13:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Derby, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273885821083373569/ewm5y1t1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "They are so difficult to work with. If you are considering a finance product at the moment, avoid @Sainsburys_Bank at all costs",
+      "html" : "They are so difficult to work with. If you are considering a finance product at the moment, avoid <a href=\"https://twitter.com/Sainsburys_Bank\">@Sainsburys_Bank</a> at all costs"
+    } ]
+  }
+}
