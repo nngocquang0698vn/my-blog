@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374410236472168450" ],
+    "url" : [ "https://twitter.com/drphiIth/status/1374410236472168450" ],
+    "published" : [ "2021-03-23T17:18:30+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/drphiIth/status/1374410234102304768" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:drphiIth" ],
+        "numeric-id" : [ "933591205" ],
+        "name" : [ "mo ☆" ],
+        "nickname" : [ "drphiIth" ],
+        "url" : [ "https://twitter.com/drphiIth", "https://www.amazon.com/hz/wishlist/ls/M6U90O6VAVMG?ref_=wl_share" ],
+        "published" : [ "2012-11-08T03:48:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1362608017410125829/ge4uBVuk.jpg" ]
+      }
+    } ],
+    "content" : [ "all politicians do is tweet what we wanna hear and then nothing gets done. i’m really sick and tired of it" ]
+  }
+}
