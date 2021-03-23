@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374420037679804425" ],
+    "url" : [ "https://twitter.com/vaidehijoshi/status/1374420037679804425" ],
+    "published" : [ "2021-03-23T17:57:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:vaidehijoshi" ],
+        "numeric-id" : [ "166415915" ],
+        "name" : [ "Vaidehi Joshi" ],
+        "nickname" : [ "vaidehijoshi" ],
+        "url" : [ "https://twitter.com/vaidehijoshi", "http://vaidehi.com" ],
+        "published" : [ "2010-07-14T02:52:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "portland, oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/715764739373207552/K2evUksb.jpg" ]
+      }
+    } ],
+    "content" : [ "the best engineers i've worked with are not ones who write \"great\" code (whatever that means!) but instead are the ones who are extremely skilled communicators." ]
+  }
+}
