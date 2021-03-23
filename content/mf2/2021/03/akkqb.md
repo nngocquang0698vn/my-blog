@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lenazun/status/1374466992627879941" ],
     "name" : [ "Like of @lenazun's tweet" ],
     "published" : [ "2021-03-23T22:42:00+0000" ],
     "category" : [ "mechanical-keyboard" ],
