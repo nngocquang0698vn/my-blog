@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374071930156892164" ],
+    "url" : [ "https://twitter.com/pczarkowski/status/1374071930156892164" ],
+    "published" : [ "2021-03-22T18:54:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pczarkowski" ],
+        "numeric-id" : [ "163997887" ],
+        "name" : [ "Czark8ski" ],
+        "nickname" : [ "pczarkowski" ],
+        "url" : [ "https://twitter.com/pczarkowski", "http://tech.paulcz.net" ],
+        "published" : [ "2010-07-07T19:59:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/826231488286896128/rRCwQvRh.jpg" ]
+      }
+    } ],
+    "content" : [ "Day one of funemployment was a success." ],
+    "photo" : [ "https://pbs.twimg.com/media/ExGvIZfWQAkwwUF.jpg", "https://pbs.twimg.com/media/ExGvI0GWUAIsmuN.jpg" ]
+  }
+}
