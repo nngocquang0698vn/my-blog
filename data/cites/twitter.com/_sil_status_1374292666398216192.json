@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374292666398216192" ],
+    "url" : [ "https://twitter.com/sil/status/1374292666398216192" ],
+    "published" : [ "2021-03-23T09:31:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sil" ],
+        "numeric-id" : [ "1389781" ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "To the @fsf:\nThere was no future where you became relevant again. But you could have chosen to use your legacy to elevate a new generation and gracefully retire.\nInstead you chose to pander to those bleating endless vapid freedom slogans and supporting a terrible man.\nScrew you.",
+      "html" : "<div style=\"white-space: pre\">To the <a href=\"https://twitter.com/fsf\">@fsf</a>:\nThere was no future where you became relevant again. But you could have chosen to use your legacy to elevate a new generation and gracefully retire.\nInstead you chose to pander to those bleating endless vapid freedom slogans and supporting a terrible man.\nScrew you.</div>"
+    } ]
+  }
+}
