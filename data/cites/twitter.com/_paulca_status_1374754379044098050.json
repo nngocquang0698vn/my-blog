@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374754379044098050" ],
+    "url" : [ "https://twitter.com/paulca/status/1374754379044098050" ],
+    "published" : [ "2021-03-24T16:06:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulca" ],
+        "numeric-id" : [ "815973" ],
+        "name" : [ "Paul Campbell" ],
+        "nickname" : [ "paulca" ],
+        "url" : [ "https://twitter.com/paulca", "https://ti.to" ],
+        "published" : [ "2007-03-06T21:18:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dublin, Ireland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312459987160006659/cPihO847.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "There’s a miniature licensing storm going on in the Rails world right now. It transpires that a Rails dependency has been using a file from a GPL licensed lib, the de facto implication is every app using Rails would need to be GPL (e.g. open source).\n\ngithub.com/rails/rails/is…",
+      "html" : "<div style=\"white-space: pre\">There’s a miniature licensing storm going on in the Rails world right now. It transpires that a Rails dependency has been using a file from a GPL licensed lib, the de facto implication is every app using Rails would need to be GPL (e.g. open source).\n\n<a href=\"https://github.com/rails/rails/issues/41750\">github.com/rails/rails/is…</a></div>"
+    } ]
+  }
+}
