@@ -1,15 +1,13 @@
 ---
 title: "Managing Your Chef Gem Dependencies More Easily in your `Gemfile`"
-description: "How to source your Chef Gem dependencies from your Chef cookbook's `metadata.rb` instead of duplicating them between files."
+description: "How to source your Chef Gem dependencies from your Chef cookbook's `metadata.rb`\
+  \ instead of duplicating them between files."
+date: "2021-03-24T13:42:37+0000"
 tags:
-- blogumentation
-- chef
-- ruby
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-03-24T13:42:37+0000
+- "blogumentation"
+- "chef"
+- "ruby"
 slug: "chef-cookbook-gem-metadata"
-image: /img/vendor/chef-logo.png
 ---
 When writing Chef cookbooks, it's possible that we're going to want to use a gem as a dependency, for instance to interact with HashiCorp Vault using the [vault gem](https://rubygems.org/gems/vault).
 
@@ -48,3 +46,5 @@ end
 This allows us to manage our Chef Gem dependencies for Chef and local development with Bundler, and remove the need to keep both updated!
 
 An alternative would be to monkey patch [Bundler::Dsl](https://ruby-doc.org/stdlib-2.7.0/libdoc/bundler/rdoc/Bundler/Dsl.html), but this also works as-is, and doesn't require anything else to be globally installed.
+
+I've also [raised this upstream with the Bundler team](https://github.com/rubygems/rubygems/issues/4486) to see their thoughts about this being a first-class citizen.
