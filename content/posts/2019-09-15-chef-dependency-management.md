@@ -1,4 +1,5 @@
 ---
+
 title: "How Many Gadgets Does the Kitchen Need?! The Many Tools for Chef Dependency Management"
 description: "Looking at the different dependency management solutions of Chef, and how, where and why you would use each one."
 tags:
@@ -116,7 +117,7 @@ Used with:
 
 The `Gemfile` and the `Gemfile.lock` are only for development Gem dependencies, used with the [Bundler dependency management tool](https://bundler.io).
 
-If your cookbook depends on a Gem, you need to add it to your `metadata.rb`.
+If your cookbook depends on a Gem, you need to add it to your `metadata.rb`, or follow [this post]({{< ref 2021-03-24-chef-cookbook-gem-metadata >}}).
 
 Used with:
 
