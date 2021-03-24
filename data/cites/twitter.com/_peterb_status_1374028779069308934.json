@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374028779069308934" ],
+    "url" : [ "https://twitter.com/peterb/status/1374028779069308934" ],
+    "published" : [ "2021-03-22T16:02:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:peterb" ],
+        "numeric-id" : [ "6738452" ],
+        "name" : [ "Peter B" ],
+        "nickname" : [ "peterb" ],
+        "url" : [ "https://twitter.com/peterb", "http://tleaves.com" ],
+        "published" : [ "2007-06-11T12:23:28+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1251392608577912843/LiQySsWV.jpg" ]
+      }
+    } ],
+    "content" : [ "I’d just like to interject for a moment. What you’re refering to as GNU/Linux, is in fact, Linux. GNU is not an operating system unto itself, but rather a few POSIX-compatible utilities promoted by an organization led by an abuser." ]
+  }
+}
