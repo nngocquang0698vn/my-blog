@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/digitalocean/status/1374707837184655361" ],
     "name" : [ "Like of @digitalocean's tweet" ],
     "published" : [ "2021-03-24T14:44:00+0000" ],
     "category" : [ "digitalocean" ],
