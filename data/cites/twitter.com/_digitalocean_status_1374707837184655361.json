@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374707837184655361" ],
+    "url" : [ "https://twitter.com/digitalocean/status/1374707837184655361" ],
+    "published" : [ "2021-03-24T13:01:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:digitalocean" ],
+        "numeric-id" : [ "457033547" ],
+        "name" : [ "DigitalOcean" ],
+        "nickname" : [ "digitalocean" ],
+        "url" : [ "https://twitter.com/digitalocean", "http://do.co/welcome", "http://do.co/contact", "http://grnh.se/ny2fkm1" ],
+        "published" : [ "2012-01-06T23:24:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1278334248135647234/Lkblszce.jpg" ]
+      }
+    } ],
+    "content" : [ "Go grab a cup of Java☕ & Git excited - it's IPO day! $DOCN 💙" ],
+    "photo" : [ "https://pbs.twimg.com/media/ExPxfgEWEAYC30Q.jpg" ]
+  }
+}
