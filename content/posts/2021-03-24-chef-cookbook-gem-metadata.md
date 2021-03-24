@@ -7,6 +7,8 @@ tags:
 - "blogumentation"
 - "chef"
 - "ruby"
+license_code: Apache-2.0
+license_prose: CC-BY-NC-SA-4.0
 slug: "chef-cookbook-gem-metadata"
 image: /img/vendor/chef-logo.png
 ---
