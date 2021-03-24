@@ -8,6 +8,7 @@ tags:
 - "chef"
 - "ruby"
 slug: "chef-cookbook-gem-metadata"
+image: /img/vendor/chef-logo.png
 ---
 When writing Chef cookbooks, it's possible that we're going to want to use a gem as a dependency, for instance to interact with HashiCorp Vault using the [vault gem](https://rubygems.org/gems/vault).
 
