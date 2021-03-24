@@ -7,6 +7,7 @@ tags:
 - ruby
 - chefdk
 - chef-workstation
+- cookstyle
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-14T12:41:45+0000
