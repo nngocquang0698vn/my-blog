@@ -1,5 +1,4 @@
 ---
-
 title: "How Many Gadgets Does the Kitchen Need?! The Many Tools for Chef Dependency Management"
 description: "Looking at the different dependency management solutions of Chef, and how, where and why you would use each one."
 tags:
