@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://github.com/rubygems/rubygems/issues/4486#issuecomment-805872915" ],
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/rubygems/rubygems/issues/4486#issuecomment-805967559" ],
     "name" : [ "Reply to https://github.com/rubygems/rubygems/issues/4486#issuecomment-805872915" ],
     "published" : [ "2021-03-24T16:20:00+0000" ],
     "post-status" : [ "published" ],
