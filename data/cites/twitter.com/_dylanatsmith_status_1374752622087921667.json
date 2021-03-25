@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374752622087921667" ],
+    "url" : [ "https://twitter.com/dylanatsmith/status/1374752622087921667" ],
+    "published" : [ "2021-03-24T15:59:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dylanatsmith" ],
+        "numeric-id" : [ "17653020" ],
+        "name" : [ "Dylan Smith" ],
+        "nickname" : [ "dylanatsmith" ],
+        "url" : [ "https://twitter.com/dylanatsmith", "https://dylanatsmith.com" ],
+        "published" : [ "2008-11-26T16:24:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1284866748056043522/bN-cdmmr.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Hey #indieweb, is there a current best/easiest way to syndicate tweets from a \"notes\" section of a blog? My current stack is Jekyll with NetlifyCMS (hosted on Netlify).",
+      "html" : "Hey <a href=\"https://twitter.com/search?q=%23indieweb\">#indieweb</a>, is there a current best/easiest way to syndicate tweets from a \"notes\" section of a blog? My current stack is Jekyll with NetlifyCMS (hosted on Netlify)."
+    } ]
+  }
+}
