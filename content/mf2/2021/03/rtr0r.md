@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elchefe/status/1375199890771484672" ],
     "name" : [ "Like of @elchefe's tweet" ],
     "published" : [ "2021-03-25T22:45:00+0000" ],
     "category" : [ "coronavirus", "diversity-and-inclusion" ],
