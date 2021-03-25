@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/innesmck/status/1374864571761049603" ],
     "name" : [ "Like of @innesmck's tweet" ],
     "published" : [ "2021-03-25T23:15:00+0000" ],
     "category" : [ "mental-health" ],
