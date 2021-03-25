@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/varjmes/status/1375004568472461319" ],
     "name" : [ "Like of @varjmes's tweet" ],
     "published" : [ "2021-03-25T17:33:00+0000" ],
     "category" : [ "politics", "diversity-and-inclusion" ],
