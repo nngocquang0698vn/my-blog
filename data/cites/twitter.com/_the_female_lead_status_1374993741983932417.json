@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374993741983932417" ],
+    "url" : [ "https://twitter.com/the_female_lead/status/1374993741983932417" ],
+    "published" : [ "2021-03-25T07:57:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:the_female_lead" ],
+        "numeric-id" : [ "3014276171" ],
+        "name" : [ "The Female Lead" ],
+        "nickname" : [ "the_female_lead" ],
+        "url" : [ "https://twitter.com/the_female_lead", "http://www.thefemalelead.com/research" ],
+        "published" : [ "2015-02-03T10:50:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Global" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309082259723517960/mYbBUEuR.jpg" ]
+      }
+    } ],
+    "content" : [ "New Zealand just approved a new measure allowing for paid leave after miscarriage. The legislation is believed to be among the first in the world, applying to couples who lose a baby at any point." ],
+    "photo" : [ "https://pbs.twimg.com/media/ExT1g_4XEAcZYS-.jpg", "https://pbs.twimg.com/media/ExT1hVYWUAE3zux.jpg" ]
+  }
+}
