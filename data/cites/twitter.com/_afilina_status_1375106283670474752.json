@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375106283670474752" ],
+    "url" : [ "https://twitter.com/afilina/status/1375106283670474752" ],
+    "published" : [ "2021-03-25T15:24:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:afilina" ],
+        "numeric-id" : [ "18749565" ],
+        "name" : [ "Anna \"Legacy Archaeologist\" Filina" ],
+        "nickname" : [ "afilina" ],
+        "url" : [ "https://twitter.com/afilina", "https://www.youtube.com/c/AnnaFilina" ],
+        "published" : [ "2009-01-08T02:13:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Montreal, Canada" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/867439780728107016/GWANUhbt.jpg" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/ExVbjiiXIAQge90.jpg",
+      "alt" : "Stuck container ship representing a quarterly quarterly release next to a tiny bulldozer representing manual tests."
+    } ]
+  }
+}
