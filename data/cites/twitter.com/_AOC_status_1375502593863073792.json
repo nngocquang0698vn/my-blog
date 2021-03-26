@@ -1,0 +1,59 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375502593863073792" ],
+    "url" : [ "https://twitter.com/AOC/status/1375502593863073792" ],
+    "published" : [ "2021-03-26T17:39:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AOC" ],
+        "numeric-id" : [ "138203134" ],
+        "name" : [ "Alexandria Ocasio-Cortez" ],
+        "nickname" : [ "AOC" ],
+        "url" : [ "https://twitter.com/AOC", "http://www.ocasiocortez.com" ],
+        "published" : [ "2010-04-28T22:38:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bronx + Queens, NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl.jpg" ]
+      }
+    } ],
+    "content" : [ "This you? https://t.co/HtyJsuj0jW" ],
+    "photo" : [ "https://pbs.twimg.com/media/ExbEUZBXEA8lL54.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1374911222361956359" ],
+      "url" : [ "https://twitter.com/amazonnews/status/1374911222361956359" ],
+      "published" : [ "2021-03-25T02:29:14+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/repmarkpocan/status/1374890264658120709" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:amazonnews" ],
+          "numeric-id" : [ "818902172347678720" ],
+          "name" : [ "Amazon News" ],
+          "nickname" : [ "amazonnews" ],
+          "url" : [ "https://twitter.com/amazonnews", "http://www.amazon.com/about" ],
+          "published" : [ "2017-01-10T19:27:47+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "United States" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1250516096907571200/adjxWadZ.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "1/2 You don’t really believe the peeing in bottles thing, do you? If that were true, nobody would work for us. The truth is that we have over a million incredible employees around the world who are proud of what they do, and have great wages and health care from day one.",
+        "html" : "1/2 You don’t really believe the peeing in bottles thing, do you? If that were true, nobody would work for us. The truth is that we have over a million incredible employees around the world who are proud of what they do, and have great wages and health care from day one.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/repmarkpocan\"></a>"
+      } ]
+    }
+  } ]
+}
