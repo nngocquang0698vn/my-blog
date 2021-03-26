@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375548550743011329" ],
+    "url" : [ "https://twitter.com/taotetek/status/1375548550743011329" ],
+    "published" : [ "2021-03-26T20:41:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:taotetek" ],
+        "numeric-id" : [ "112520697" ],
+        "name" : [ "Stimulus Functions" ],
+        "nickname" : [ "taotetek" ],
+        "url" : [ "https://twitter.com/taotetek", "https://soundcloud.com/stimulus_functions" ],
+        "published" : [ "2010-02-08T20:12:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nowhere" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351894363660562438/qdVzOh6a.jpg" ]
+      }
+    } ],
+    "content" : [ "hashtag donttweetpicturesofyourfacewithotheridentifyingdatainresponsetodataminingoperationsdisguisedasfunmemeschallenge" ],
+    "photo" : [ "https://pbs.twimg.com/media/Exbt_hhWYAAhwzk.png" ]
+  }
+}
