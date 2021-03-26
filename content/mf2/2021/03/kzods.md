@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/horseysurprise/status/443113502916763650" ],
     "name" : [ "Like of @horseysurprise's tweet" ],
     "published" : [ "2021-03-26T23:41:00+0000" ],
     "category" : [ "mental-health" ],
