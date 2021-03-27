@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tanushrao/status/1374990943494008835" ],
     "name" : [ "Like of @tanushrao's tweet" ],
     "published" : [ "2021-03-27T10:43:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
