@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375192342987083778" ],
+    "url" : [ "https://twitter.com/celeste_horgan/status/1375192342987083778" ],
+    "published" : [ "2021-03-25T21:06:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:celeste_horgan" ],
+        "numeric-id" : [ "1100701004021055488" ],
+        "name" : [ "Celeste Horgan" ],
+        "nickname" : [ "celeste_horgan" ],
+        "url" : [ "https://twitter.com/celeste_horgan" ],
+        "published" : [ "2019-02-27T10:15:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Unceded Coast Salish Land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335711658153406464/I15RYHDT.jpg" ]
+      }
+    } ],
+    "content" : [ "Open source friends: what are the best pieces of \"Git/GitHub etiquette\" you've picked up over the years? Things like submitting large changes commit-by-commit to help reviewers out." ]
+  }
+}
