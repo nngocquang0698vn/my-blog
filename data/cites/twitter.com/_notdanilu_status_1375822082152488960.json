@@ -1,0 +1,62 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375822082152488960" ],
+    "url" : [ "https://twitter.com/notdanilu/status/1375822082152488960" ],
+    "published" : [ "2021-03-27T14:48:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:notdanilu" ],
+        "numeric-id" : [ "1011287468488916993" ],
+        "name" : [ "full-snack developer 🇭🇹" ],
+        "nickname" : [ "notdanilu" ],
+        "url" : [ "https://twitter.com/notdanilu", "https://rb.gy/sb3ili" ],
+        "published" : [ "2018-06-25T16:38:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "ATL " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371300019630977025/VIuMXHTd.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You woke up and decided to be fucking gross so I will gladly leave this up for everyone to see. \n\nIs this how you talk to your coworkers Alvin Milton? Or is being a creep why you’re just a consultant at Dow Jones? 😕 https://t.co/pyBco8rBnR",
+      "html" : "<div style=\"white-space: pre\">You woke up and decided to be fucking gross so I will gladly leave this up for everyone to see. \n\nIs this how you talk to your coworkers Alvin Milton? Or is being a creep why you’re just a consultant at Dow Jones? 😕 https://t.co/pyBco8rBnR</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Exfm5BtWYAEO5sv.jpg", "https://pbs.twimg.com/media/Exfm5BuWYAkOBbi.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1375814404722327552" ],
+      "url" : [ "https://twitter.com/wealthy_af/status/1375814404722327552" ],
+      "published" : [ "2021-03-27T14:18:10+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/wealthy_af/status/1375813866442141698" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:wealthy_af" ],
+          "numeric-id" : [ "1222035294222004224" ],
+          "name" : [ "💰 Big Candle Poppy 📈" ],
+          "nickname" : [ "wealthy_af" ],
+          "url" : [ "https://twitter.com/wealthy_af", "https://wealthy.af" ],
+          "published" : [ "2020-01-28T05:55:05+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "NYC 📈" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1358790595771322368/I7a4fHDO.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Just kidding!",
+        "html" : "Just kidding!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/notdanilu\"></a>"
+      } ]
+    }
+  } ]
+}
