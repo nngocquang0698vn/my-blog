@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/arrdem/status/1375572963999813636" ],
     "name" : [ "Like of @arrdem's tweet" ],
     "published" : [ "2021-03-27T15:58:00+0000" ],
     "category" : [ "shitpost", "networking" ],
