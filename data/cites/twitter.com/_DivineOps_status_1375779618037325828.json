@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375779618037325828" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1375779618037325828" ],
+    "published" : [ "2021-03-27T11:59:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364223177518247936/Bo9Np-uS.jpg" ]
+      }
+    } ],
+    "content" : [ "How do I stop thinking about work? 🤦‍♀️" ]
+  }
+}
