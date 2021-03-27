@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1374990943494008835" ],
+    "url" : [ "https://twitter.com/tanushrao/status/1374990943494008835" ],
+    "published" : [ "2021-03-25T07:46:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tanushrao" ],
+        "numeric-id" : [ "2612265294" ],
+        "name" : [ "Tanushree Rao" ],
+        "nickname" : [ "tanushrao" ],
+        "url" : [ "https://twitter.com/tanushrao", "http://www.tanushreerao.com" ],
+        "published" : [ "2014-07-08T20:31:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇸🇪 via 🇮🇳→🐨→🇹🇱" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345286718661013510/5DKeXnzc.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/ExTy-ePXAAAtlSq.jpg" ]
+  }
+}
