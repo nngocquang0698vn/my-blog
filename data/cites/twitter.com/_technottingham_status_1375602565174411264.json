@@ -1,0 +1,51 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375602565174411264" ],
+    "url" : [ "https://twitter.com/technottingham/status/1375602565174411264" ],
+    "published" : [ "2021-03-27T00:16:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ "Great thread on remote working - the part about people speaking in absolutes is on point" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1375207308691705863" ],
+      "url" : [ "https://twitter.com/pollymackenzie/status/1375207308691705863" ],
+      "published" : [ "2021-03-25T22:05:47+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:pollymackenzie" ],
+          "numeric-id" : [ "20452430" ],
+          "name" : [ "Polly Mackenzie" ],
+          "nickname" : [ "pollymackenzie" ],
+          "url" : [ "https://twitter.com/pollymackenzie", "http://www.demos.co.uk" ],
+          "published" : [ "2009-02-09T18:00:35+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268082812810379264/DHMP3GkK.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "A quick hit list of remote working thoughts.\n\nMost people who tried it want to carry on.\n\nMost people who tried it also want to go back to the office sometimes.",
+        "html" : "<div style=\"white-space: pre\">A quick hit list of remote working thoughts.\n\nMost people who tried it want to carry on.\n\nMost people who tried it also want to go back to the office sometimes.</div>"
+      } ]
+    }
+  } ]
+}
