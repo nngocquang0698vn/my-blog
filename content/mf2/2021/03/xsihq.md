@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/taotetek/status/1375548550743011329" ],
     "name" : [ "Like of @taotetek's tweet" ],
     "published" : [ "2021-03-26T23:52:00+0000" ],
     "category" : [ "privacy", "ai", "social-media" ],
