@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HarleyShah/status/1375457618886529029" ],
     "name" : [ "Like of @HarleyShah's tweet" ],
     "published" : [ "2021-03-27T10:39:00+0000" ],
     "category" : [ "politics" ],
