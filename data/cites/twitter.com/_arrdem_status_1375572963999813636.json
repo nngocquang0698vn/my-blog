@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375572963999813636" ],
+    "url" : [ "https://twitter.com/arrdem/status/1375572963999813636" ],
+    "published" : [ "2021-03-26T22:18:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:arrdem" ],
+        "numeric-id" : [ "389468789" ],
+        "name" : [ "Reid" ],
+        "nickname" : [ "arrdem" ],
+        "url" : [ "https://twitter.com/arrdem", "https://arrdem.com" ],
+        "published" : [ "2011-10-12T13:40:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357086880416870402/zK6DZpoQ.jpg" ]
+      }
+    } ],
+    "content" : [ "[[ inappropriate cackling ]]" ],
+    "photo" : [ "https://pbs.twimg.com/media/ExcEUNCWQAIQXTj.jpg" ]
+  }
+}
