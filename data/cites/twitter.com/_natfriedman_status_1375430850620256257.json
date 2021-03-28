@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375430850620256257" ],
+    "url" : [ "https://twitter.com/natfriedman/status/1375430850620256257" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1375430822635786245/pu/vid/720x720/I0BvDlGeht2o9xcM.mp4?tag=12" ],
+    "published" : [ "2021-03-26T12:54:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:natfriedman" ],
+        "numeric-id" : [ "13235832" ],
+        "name" : [ "Nat Friedman" ],
+        "nickname" : [ "natfriedman" ],
+        "url" : [ "https://twitter.com/natfriedman" ],
+        "published" : [ "2008-02-08T05:20:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1677873294/image.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "GitHub now automatically creates a table of contents for your README.md files from your headers. 📖\n\nAfter much consideration, we made this a feature of the viewer, not a concern of the editor: no special markdown to insert. 💡\n\nLet us know what you think!",
+      "html" : "<div style=\"white-space: pre\">GitHub now automatically creates a table of contents for your <a href=\"http://README.md\">README.md</a> files from your headers. 📖\n\nAfter much consideration, we made this a feature of the viewer, not a concern of the editor: no special markdown to insert. 💡\n\nLet us know what you think!</div>"
+    } ]
+  }
+}
