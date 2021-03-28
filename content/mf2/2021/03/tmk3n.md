@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/generoom/status/1376084811421454337" ],
     "name" : [ "Like of @generoom's tweet" ],
     "published" : [ "2021-03-28T15:00:00+0100" ],
     "category" : [ "cute" ],
