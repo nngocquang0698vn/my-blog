@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erhannah/status/1375818997120303107" ],
     "name" : [ "Like of @erhannah's tweet" ],
     "published" : [ "2021-03-28T14:29:00+0100" ],
     "like-of" : [ "https://twitter.com/erhannah/status/1375818997120303107" ],
