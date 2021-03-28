@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/natfriedman/status/1375430850620256257" ],
     "name" : [ "Like of @natfriedman's tweet" ],
     "published" : [ "2021-03-28T14:19:00+0100" ],
     "category" : [ "github", "markdown" ],
