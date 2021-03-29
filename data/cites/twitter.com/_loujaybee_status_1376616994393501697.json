@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376616994393501697" ],
+    "url" : [ "https://twitter.com/loujaybee/status/1376616994393501697" ],
+    "published" : [ "2021-03-29T19:27:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:loujaybee" ],
+        "numeric-id" : [ "1290693397" ],
+        "name" : [ "Lou 👨‍💻🏋️‍♂️🎸🚴🏻‍♂️🏍" ],
+        "nickname" : [ "loujaybee" ],
+        "url" : [ "https://twitter.com/loujaybee", "http://www.thedevcoach.co.uk" ],
+        "published" : [ "2013-03-23T07:07:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315542552720932865/AYvPQ8RA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Real talk....\n\nWhy do so many boot-camps offer ruby as a starting language? I don't dislike Ruby, but it seems like an odd choice. Surely the winner is JS + Python for scripting? \n\nCan someone enlighten me? I just... don't see it...",
+      "html" : "<div style=\"white-space: pre\">Real talk....\n\nWhy do so many boot-camps offer ruby as a starting language? I don't dislike Ruby, but it seems like an odd choice. Surely the winner is JS + Python for scripting? \n\nCan someone enlighten me? I just... don't see it...</div>"
+    } ]
+  }
+}
