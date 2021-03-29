@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stephenaugustus/status/1376292689411457027" ],
     "name" : [ "Like of @stephenaugustus's tweet" ],
     "published" : [ "2021-03-29T08:00:00+0100" ],
     "category" : [ "food" ],
