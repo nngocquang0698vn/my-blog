@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376417803784306698" ],
+    "url" : [ "https://twitter.com/tessacooper5/status/1376417803784306698" ],
+    "published" : [ "2021-03-29T06:15:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tessacooper5" ],
+        "numeric-id" : [ "208621746" ],
+        "name" : [ "Tess Cooper 🏳️‍🌈" ],
+        "nickname" : [ "tessacooper5" ],
+        "url" : [ "https://twitter.com/tessacooper5", "https://tessacooper.com/" ],
+        "published" : [ "2010-10-27T16:19:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363543698160709632/1mtsyfbd.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I wrote a thing about rape for many reasons but mostly so we can stop perpetuating the culture that violates women in so many ways.\n\nlink.medium.com/cJ6qg8kU0eb\n\nI debated not sharing this on a Monday morning - but I live through this every day. You can choose not to read it.",
+      "html" : "<div style=\"white-space: pre\">I wrote a thing about rape for many reasons but mostly so we can stop perpetuating the culture that violates women in so many ways.\n\n<a href=\"https://link.medium.com/cJ6qg8kU0eb\">link.medium.com/cJ6qg8kU0eb</a>\n\nI debated not sharing this on a Monday morning - but I live through this every day. You can choose not to read it.</div>"
+    } ]
+  }
+}
