@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376549834623229959" ],
+    "url" : [ "https://twitter.com/chochosmx/status/1376549834623229959" ],
+    "published" : [ "2021-03-29T15:00:30+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/maria_fibonacci/status/1376549547170795521" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chochosmx" ],
+        "numeric-id" : [ "83913680" ],
+        "name" : [ "Enrique staying ~" ],
+        "nickname" : [ "chochosmx" ],
+        "url" : [ "https://twitter.com/chochosmx", "http://www.javamexico.org/blogs/ezamudio" ],
+        "published" : [ "2009-10-20T19:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mexico City, Mexico" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/862399562962612225/dBxlOtHU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'll tell you what is NOT a github action: dropping ICE.",
+      "html" : "I'll tell you what is NOT a github action: dropping ICE.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/maria_fibonacci\"></a>"
+    } ]
+  }
+}
