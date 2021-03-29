@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tessacooper5/status/1376417803784306698" ],
     "name" : [ "Like of @tessacooper5's tweet" ],
     "published" : [ "2021-03-29T21:59:00+0100" ],
     "category" : [ "rape" ],
