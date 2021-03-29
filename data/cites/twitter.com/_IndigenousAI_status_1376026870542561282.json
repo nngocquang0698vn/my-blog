@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376026870542561282" ],
+    "url" : [ "https://twitter.com/IndigenousAI/status/1376026870542561282" ],
+    "published" : [ "2021-03-28T04:22:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IndigenousAI" ],
+        "numeric-id" : [ "1006378672666787840" ],
+        "name" : [ "🕷️ susanna de juanita" ],
+        "nickname" : [ "IndigenousAI" ],
+        "url" : [ "https://twitter.com/IndigenousAI", "https://indigenous.engineering/" ],
+        "published" : [ "2018-06-12T03:32:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the hypersurface" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372226828815855618/wCfTYCcp.jpg" ]
+      }
+    } ],
+    "content" : [ "i married a google engineer. he stole my work, presented it as his own, tanked my chances at google by telling his mgr he was abusing me, then tried to have my kids taken away from me when i left" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1376020189930643461" ],
+      "url" : [ "https://twitter.com/default_friend/status/1376020189930643461" ],
+      "published" : [ "2021-03-28T03:55:53+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/default_friend/status/1376019799864602625" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:default_friend" ],
+          "numeric-id" : [ "1010901148008681478" ],
+          "name" : [ "Default Friend" ],
+          "nickname" : [ "default_friend" ],
+          "url" : [ "https://twitter.com/default_friend", "http://linktr.ee/defaultfriend", "http://defaultfriend.substack.com" ],
+          "published" : [ "2018-06-24T15:03:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🏝" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1373770170162839554/Ltyml6ml.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "@thepersonality5 artists to bed, google engineers to wed",
+        "html" : "<a href=\"https://twitter.com/thepersonality5\">@thepersonality5</a> artists to bed, google engineers to wed"
+      } ]
+    }
+  } ]
+}
