@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/spacebrat_/status/1375863303600214021" ],
     "name" : [ "Like of @spacebrat_'s tweet" ],
     "published" : [ "2021-03-29T15:10:00+0100" ],
     "like-of" : [ "https://twitter.com/spacebrat_/status/1375863303600214021" ],
