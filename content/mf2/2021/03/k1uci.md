@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MNateShyamalan/status/1376644286947680263" ],
     "name" : [ "Like of @MNateShyamalan's tweet" ],
     "published" : [ "2021-03-30T22:27:00+0100" ],
     "category" : [ "shitpost", "amazon", "politics" ],
