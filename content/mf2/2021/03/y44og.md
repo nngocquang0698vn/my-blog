@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wwahammy/status/1376926871464591364" ],
     "name" : [ "Like of @wwahammy's tweet" ],
     "published" : [ "2021-03-30T20:18:00+0100" ],
     "category" : [ "politics" ],
