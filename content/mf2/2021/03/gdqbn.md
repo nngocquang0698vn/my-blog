@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aaronbassett/status/1376732259152183297" ],
     "name" : [ "Like of @aaronbassett's tweet" ],
     "published" : [ "2021-03-30T14:05:00+0100" ],
     "category" : [ "politics" ],
