@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376926871464591364" ],
+    "url" : [ "https://twitter.com/wwahammy/status/1376926871464591364" ],
+    "published" : [ "2021-03-30T15:58:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wwahammy" ],
+        "numeric-id" : [ "19212550" ],
+        "name" : [ "Eric Schultz says \"Black Lives Matter\"" ],
+        "nickname" : [ "wwahammy" ],
+        "url" : [ "https://twitter.com/wwahammy" ],
+        "published" : [ "2009-01-20T01:10:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Appleton - Mamaceqtaw land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1259935795126980620/eKlPFmq0.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "For those who missed it, the Executive Director, the Deputy Director and the CTO of the FSF have all resigned.\n\nI think those would be the three top staff members?\n\nfsf.org/news/statement…",
+      "html" : "<div style=\"white-space: pre\">For those who missed it, the Executive Director, the Deputy Director and the CTO of the FSF have all resigned.\n\nI think those would be the three top staff members?\n\n<a href=\"https://www.fsf.org/news/statement-from-the-fsf-board-of-directors-meeting-on-march-29-2021\">fsf.org/news/statement…</a></div>"
+    } ]
+  }
+}
