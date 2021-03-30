@@ -1,0 +1,38 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376732259152183297" ],
+    "url" : [ "https://twitter.com/aaronbassett/status/1376732259152183297" ],
+    "published" : [ "2021-03-30T03:05:23+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/m_downey/status/1376730622266380288" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:aaronbassett" ],
+        "numeric-id" : [ "814672" ],
+        "name" : [ "Aaron Bassett - 🥑🪐" ],
+        "nickname" : [ "aaronbassett" ],
+        "url" : [ "https://twitter.com/aaronbassett", "http://twitch.tv/aaronbassettdev" ],
+        "published" : [ "2007-03-06T11:04:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Miami, FL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1127733982043549697/m0q54S7y.png" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:2bc7c264a080898b" ],
+        "name" : [ "Hollywood, FL" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "How much code wasn’t written, how many contributions not made, how many ideas never expressed, because people refused to participate in FOSS because of people like RMS and his supporters?\n\nThe community is already divided. Removing RMS and his ilk is how we start to heal it",
+      "html" : "<div style=\"white-space: pre\">How much code wasn’t written, how many contributions not made, how many ideas never expressed, because people refused to participate in FOSS because of people like RMS and his supporters?\n\nThe community is already divided. Removing RMS and his ilk is how we start to heal it</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/m_downey\"></a>"
+    } ]
+  }
+}
