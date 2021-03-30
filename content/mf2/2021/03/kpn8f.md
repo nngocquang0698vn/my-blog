@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HislordshipB/status/1376558767786106880" ],
     "name" : [ "Like of @HislordshipB's tweet" ],
     "published" : [ "2021-03-30T23:15:00+0100" ],
     "category" : [ "memes" ],
