@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yvonnezlam/status/1376628481878990852" ],
     "name" : [ "Like of @yvonnezlam's tweet" ],
     "published" : [ "2021-03-31T07:32:00+0100" ],
     "category" : [ "tech-debt" ],
