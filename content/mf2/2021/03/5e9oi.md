@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_torrborr/status/1377260765820809217" ],
     "name" : [ "Like of @_torrborr's tweet" ],
     "published" : [ "2021-03-31T17:00:00+0100" ],
     "category" : [ "miscarriage" ],
