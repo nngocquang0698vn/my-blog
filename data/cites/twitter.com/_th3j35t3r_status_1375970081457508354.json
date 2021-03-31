@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375970081457508354" ],
+    "url" : [ "https://twitter.com/th3j35t3r/status/1375970081457508354" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1375970037379567616/pu/vid/720x720/YjeIIsEzxOflX8q7.mp4?tag=12" ],
+    "published" : [ "2021-03-28T00:36:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:th3j35t3r" ],
+        "numeric-id" : [ "97994396" ],
+        "name" : [ "JΞSŦΞR ✪ ΔCŦUΔL³³°¹" ],
+        "nickname" : [ "th3j35t3r" ],
+        "url" : [ "https://twitter.com/th3j35t3r", "https://counter.social", "http://counter.social" ],
+        "published" : [ "2009-12-19T22:27:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "https://keybase.io/th3j35t3r" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292262799637454849/QuUA1mzH.jpg" ]
+      }
+    } ],
+    "content" : [ "." ]
+  }
+}
