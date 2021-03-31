@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377313111636652038" ],
+    "url" : [ "https://twitter.com/carodoodles/status/1377313111636652038" ],
+    "published" : [ "2021-03-31T17:33:29+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/carodoodles/status/1377311719459065856" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:carodoodles" ],
+        "numeric-id" : [ "2481245214" ],
+        "name" : [ "carlisle 🧏🏻🏳️‍🌈🎨" ],
+        "nickname" : [ "carodoodles" ],
+        "url" : [ "https://twitter.com/carodoodles", "https://linktr.ee/Carodoodles", "http://carlisle-robinson.com" ],
+        "published" : [ "2014-05-07T03:33:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365845952020549637/VKR0tgYz.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A fun fact- the ASL for 'transgender' is in a similar handshape and motion as ASL for 'beautiful' but signed over heart. So remember this, #TransIsBeautiful ! Have a great #TransDayOfVisibility you all. 🤟",
+      "html" : "A fun fact- the ASL for 'transgender' is in a similar handshape and motion as ASL for 'beautiful' but signed over heart. So remember this, <a href=\"https://twitter.com/search?q=%23TransIsBeautiful\">#TransIsBeautiful</a> ! Have a great <a href=\"https://twitter.com/search?q=%23TransDayOfVisibility\">#TransDayOfVisibility</a> you all. 🤟"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/Ex0y62MW8AAxVh1.jpg",
+      "alt" : "An illustration of two POCs wearing purple shirt. Left is a feminine black person with shoulder length curly black hair and a heart necklace. They’re signing “Trans?” The word balloon is light pink. Right is a masculine brown person with a hearing aid, a vest and a nail polish. They’re signing “Beautiful.” The handshake for Trans and Beautiful are same, but Trans is signed over one’s heart (aka, beautiful in heart), while Beautiful is signed in circular movement in front of face."
+    } ]
+  }
+}
