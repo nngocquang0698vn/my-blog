@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376628481878990852" ],
+    "url" : [ "https://twitter.com/yvonnezlam/status/1376628481878990852" ],
+    "published" : [ "2021-03-29T20:13:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:yvonnezlam" ],
+        "numeric-id" : [ "1051845583" ],
+        "name" : [ "Yvonne Lam" ],
+        "nickname" : [ "yvonnezlam" ],
+        "url" : [ "https://twitter.com/yvonnezlam" ],
+        "published" : [ "2013-01-01T04:50:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3480362700/427db7f637fbfa87d079903ddac0cc1a.png" ]
+      }
+    } ],
+    "content" : [ "My theory of tech debt is that housework is the correct metaphor for the thing we call tech debt, but we can't use it because tech has been made up of people who don't do housework, or manage housework being done." ]
+  }
+}
