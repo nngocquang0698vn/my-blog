@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376562537152589830" ],
+    "url" : [ "https://twitter.com/comedylopez/status/1376562537152589830" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1376562388019859457/pu/vid/720x720/B85TJCUl3857VG1G.mp4?tag=12" ],
+    "published" : [ "2021-03-29T15:50:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:comedylopez" ],
+        "numeric-id" : [ "38561879" ],
+        "name" : [ "Ignacio Lopez" ],
+        "nickname" : [ "comedylopez" ],
+        "url" : [ "https://twitter.com/comedylopez", "http://www.ko-fi.com/comedylopez" ],
+        "published" : [ "2009-05-08T00:36:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Wales, United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363612383445454850/wUdoz_hp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Shocking. #CREMEEGG",
+      "html" : "Shocking. <a href=\"https://twitter.com/search?q=%23CREMEEGG\">#CREMEEGG</a>"
+    } ]
+  }
+}
