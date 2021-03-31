@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1377077820451483649" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2021-03-31T07:29:00+0100" ],
     "category" : [ "burnout" ],
