@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unixdaemon/status/1377194260710182913" ],
     "name" : [ "Like of @unixdaemon's tweet" ],
     "published" : [ "2021-03-31T12:08:00+0100" ],
     "like-of" : [ "https://twitter.com/unixdaemon/status/1377194260710182913" ],
