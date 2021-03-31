@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matthewhorwood/status/1375036511733841920" ],
     "name" : [ "Like of @matthewhorwood's tweet" ],
     "published" : [ "2021-03-31T22:35:00+0100" ],
     "category" : [ "politics", "diversity-and-inclusion" ],
