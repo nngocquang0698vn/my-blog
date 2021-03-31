@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/comedylopez/status/1376562537152589830" ],
     "name" : [ "Like of @comedylopez's tweet" ],
     "published" : [ "2021-03-31T23:01:00+0100" ],
     "category" : [ "shitpost" ],
