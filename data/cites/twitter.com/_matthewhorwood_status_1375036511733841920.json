@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1375036511733841920" ],
+    "url" : [ "https://twitter.com/matthewhorwood/status/1375036511733841920" ],
+    "published" : [ "2021-03-25T10:47:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matthewhorwood" ],
+        "numeric-id" : [ "30878282" ],
+        "name" : [ "matt horwood" ],
+        "nickname" : [ "matthewhorwood" ],
+        "url" : [ "https://twitter.com/matthewhorwood", "http://instagram.com/matthewhorwood" ],
+        "published" : [ "2009-04-13T14:50:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him/his • London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342057435146629120/Sjzh0OBS.jpg" ]
+      }
+    } ],
+    "content" : [ "While I’m sure he’d be flattered, I reckon Turing would rather see the Government ban conversion therapy, the (currently legal) form of LGBT torture that he was subjected to before he died in 1954" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1375002034060070912" ],
+      "url" : [ "https://twitter.com/bankofengland/status/1375002034060070912" ],
+      "published" : [ "2021-03-25T08:30:05+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:bankofengland" ],
+          "numeric-id" : [ "18938646" ],
+          "name" : [ "Bank of England" ],
+          "nickname" : [ "bankofengland" ],
+          "url" : [ "https://twitter.com/bankofengland", "http://bankofengland.co.uk" ],
+          "published" : [ "2009-01-13T14:06:59+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1148600581407301632/bCM-3Fin.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "The new £50 note featuring Alan Turing is coming on 23 June 2021. Find out about its design and security features: New50.co.uk #TheNew50",
+        "html" : "The new £50 note featuring Alan Turing is coming on 23 June 2021. Find out about its design and security features: <a href=\"http://New50.co.uk\">New50.co.uk</a> <a href=\"https://twitter.com/search?q=%23TheNew50\">#TheNew50</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/ExT9EBpWEAgiLF2.jpg" ]
+    }
+  } ]
+}
