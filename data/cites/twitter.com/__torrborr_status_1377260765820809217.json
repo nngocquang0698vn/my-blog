@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377260765820809217" ],
+    "url" : [ "https://twitter.com/_torrborr/status/1377260765820809217" ],
+    "published" : [ "2021-03-31T14:05:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_torrborr" ],
+        "numeric-id" : [ "1466525467" ],
+        "name" : [ "Tori Crawford" ],
+        "nickname" : [ "_torrborr" ],
+        "url" : [ "https://twitter.com/_torrborr", "https://dev.to/torianne02" ],
+        "published" : [ "2013-05-29T05:54:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boise, ID" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346326315733901319/zafXjuOv.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "March 31, 2021\n\nThe due date that never gets to happen.\n\nToday will be a tough one. 😔💔",
+      "html" : "<div style=\"white-space: pre\">March 31, 2021\n\nThe due date that never gets to happen.\n\nToday will be a tough one. 😔💔</div>"
+    } ]
+  }
+}
