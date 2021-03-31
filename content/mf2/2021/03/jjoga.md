@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/carodoodles/status/1377313111636652038" ],
     "name" : [ "Like of @carodoodles's tweet" ],
     "published" : [ "2021-03-31T18:43:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
