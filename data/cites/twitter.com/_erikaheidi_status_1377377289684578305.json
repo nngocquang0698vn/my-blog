@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377377289684578305" ],
+    "url" : [ "https://twitter.com/erikaheidi/status/1377377289684578305" ],
+    "published" : [ "2021-03-31T21:48:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:erikaheidi" ],
+        "numeric-id" : [ "19625601" ],
+        "name" : [ "Erika Heidi ✨" ],
+        "nickname" : [ "erikaheidi" ],
+        "url" : [ "https://twitter.com/erikaheidi", "https://nzbuilds.com" ],
+        "published" : [ "2009-01-27T23:55:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Hague, The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347154089017303042/MCw_TlpO.jpg" ]
+      }
+    } ],
+    "content" : [ "One last thought before bedtime" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ex1tWHnXMAEz5gq.jpg" ]
+  }
+}
