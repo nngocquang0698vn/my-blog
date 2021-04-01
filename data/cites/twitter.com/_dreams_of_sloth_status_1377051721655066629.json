@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377051721655066629" ],
+    "url" : [ "https://twitter.com/dreams_of_sloth/status/1377051721655066629" ],
+    "published" : [ "2021-03-31T00:14:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dreams_of_sloth" ],
+        "numeric-id" : [ "701536534181367809" ],
+        "name" : [ "robin" ],
+        "nickname" : [ "dreams_of_sloth" ],
+        "url" : [ "https://twitter.com/dreams_of_sloth", "https://soundcloud.com/uplifted" ],
+        "published" : [ "2016-02-21T22:38:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1239409337963024390/D9mYD-7A.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "the first thing our new hire did was fix a bug that's been bugging him forever as a user prior to joining.\n\nhe then breathed a sigh of relief and submitted his two weeks' notice. wtf??",
+      "html" : "<div style=\"white-space: pre\">the first thing our new hire did was fix a bug that's been bugging him forever as a user prior to joining.\n\nhe then breathed a sigh of relief and submitted his two weeks' notice. wtf??</div>"
+    } ]
+  }
+}
