@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377687692264099842" ],
+    "url" : [ "https://twitter.com/TheRegister/status/1377687692264099842" ],
+    "published" : [ "2021-04-01T18:21:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheRegister" ],
+        "numeric-id" : [ "78012548" ],
+        "name" : [ "The Register" ],
+        "nickname" : [ "TheRegister" ],
+        "url" : [ "https://twitter.com/TheRegister", "https://www.theregister.com/" ],
+        "published" : [ "2009-09-28T13:24:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NA-EMEA-APAC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Fun fact: Alfred Aho is the A in Awk.\n\nThe w and k are Peter Weinberger and Brian Kernighan. The trio created the software tool in 1977",
+      "html" : "<div style=\"white-space: pre\">Fun fact: Alfred Aho is the A in Awk.\n\nThe w and k are Peter Weinberger and Brian Kernighan. The trio created the software tool in 1977</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1377427159342456834" ],
+      "url" : [ "https://twitter.com/TheRegister/status/1377427159342456834" ],
+      "published" : [ "2021-04-01T01:06:40+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:TheRegister" ],
+          "numeric-id" : [ "78012548" ],
+          "name" : [ "The Register" ],
+          "nickname" : [ "TheRegister" ],
+          "url" : [ "https://twitter.com/TheRegister", "https://www.theregister.com/" ],
+          "published" : [ "2009-09-28T13:24:46+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "NA-EMEA-APAC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "And the Turing Award for best compilation goes to... Jeffrey Ullman and Alfred Aho reg.cx/3Za7",
+        "html" : "And the Turing Award for best compilation goes to... Jeffrey Ullman and Alfred Aho <a href=\"https://reg.cx/3Za7\">reg.cx/3Za7</a>"
+      } ]
+    }
+  } ]
+}
