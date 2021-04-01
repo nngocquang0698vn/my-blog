@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheRegister/status/1377687692264099842" ],
     "name" : [ "Like of @TheRegister's tweet" ],
     "published" : [ "2021-04-01T19:37:00+0100" ],
     "category" : [ "awk", "command-line" ],
