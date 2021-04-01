@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AmberJB2739/status/1377558764585373696" ],
     "name" : [ "Like of @AmberJB2739's tweet" ],
     "published" : [ "2021-04-01T20:53:00+0100" ],
     "category" : [ "tiktok" ],
