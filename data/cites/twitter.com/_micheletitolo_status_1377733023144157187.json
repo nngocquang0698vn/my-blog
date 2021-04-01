@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377733023144157187" ],
+    "url" : [ "https://twitter.com/micheletitolo/status/1377733023144157187" ],
+    "published" : [ "2021-04-01T21:22:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:micheletitolo" ],
+        "numeric-id" : [ "113393517" ],
+        "name" : [ "Michele Titolo" ],
+        "nickname" : [ "micheletitolo" ],
+        "url" : [ "https://twitter.com/micheletitolo", "http://michele.io" ],
+        "published" : [ "2010-02-11T16:24:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/822639129745903622/gMlzdr8X.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’m working on a list of blog posts to write about how we’re doing #serverless. Does a post on why we didn’t start with a framework sound interesting? What else would you want to know about a big tech co building serverless tools and infra?",
+      "html" : "I’m working on a list of blog posts to write about how we’re doing <a href=\"https://twitter.com/search?q=%23serverless\">#serverless</a>. Does a post on why we didn’t start with a framework sound interesting? What else would you want to know about a big tech co building serverless tools and infra?"
+    } ]
+  }
+}
