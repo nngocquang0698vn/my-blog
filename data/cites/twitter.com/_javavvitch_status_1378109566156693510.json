@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378109566156693510" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1378109566156693510" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EyAHV_eWEAIDnk9.mp4" ],
+    "published" : [ "2021-04-02T22:18:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "name" : [ "Sailor Ghoul 👻✨" ],
+        "nickname" : [ "javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364672899446145031/K0KVHgPB.jpg" ]
+      }
+    } ],
+    "content" : [ "ALWAYS WRITE MEANINGFUL COMMIT MESSAGES BECAUSE IF YOU DONT SQUASH I HAVE TO READ NONSENSE" ]
+  }
+}
