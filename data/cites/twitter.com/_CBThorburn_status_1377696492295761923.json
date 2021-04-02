@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377696492295761923" ],
+    "url" : [ "https://twitter.com/CBThorburn/status/1377696492295761923" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1377695855596163072/pu/vid/720x720/2j6OqXQAK05SPis9.mp4?tag=12" ],
+    "published" : [ "2021-04-01T18:56:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CBThorburn" ],
+        "numeric-id" : [ "871665720" ],
+        "name" : [ "Chris Thorburn" ],
+        "nickname" : [ "CBThorburn" ],
+        "url" : [ "https://twitter.com/CBThorburn" ],
+        "published" : [ "2012-10-10T12:19:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Glasgow" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311597738203717633/3ty9bB16.jpg" ]
+      }
+    } ],
+    "content" : [ "watching a film from 2004" ]
+  }
+}
