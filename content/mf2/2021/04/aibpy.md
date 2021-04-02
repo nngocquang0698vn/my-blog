@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MisterABK/status/1377917512206188545" ],
     "name" : [ "Like of @MisterABK's tweet" ],
     "published" : [ "2021-04-02T18:09:00+0100" ],
     "category" : [ "shitpost", "tiktok" ],
