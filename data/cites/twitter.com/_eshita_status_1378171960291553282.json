@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378171960291553282" ],
+    "url" : [ "https://twitter.com/eshita/status/1378171960291553282" ],
+    "published" : [ "2021-04-03T02:26:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eshita" ],
+        "numeric-id" : [ "969781380325363712" ],
+        "name" : [ "Eshita" ],
+        "nickname" : [ "eshita" ],
+        "url" : [ "https://twitter.com/eshita", "http://enandini.com" ],
+        "published" : [ "2018-03-03T03:47:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "SF " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1374508846316539905/zeiSoHu9.jpg" ]
+      }
+    } ],
+    "content" : [ "The act of physically moving oneself to a dedicated location 5 times a week to open a laptop and do exactly what can be done in any location from 9-5 and repeating this weekly...is a bizarre concept" ]
+  }
+}
