@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378209770440585220" ],
+    "url" : [ "https://twitter.com/TreJames_/status/1378209770440585220" ],
+    "published" : [ "2021-04-03T04:56:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TreJames_" ],
+        "numeric-id" : [ "427547077" ],
+        "name" : [ "Shut Up, Tre" ],
+        "nickname" : [ "TreJames_" ],
+        "url" : [ "https://twitter.com/TreJames_" ],
+        "published" : [ "2011-12-03T17:24:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Near the Gumbo" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377390882240962561/9lpCY1UK.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EyBieYMVIAYLTL_.jpg" ]
+  }
+}
