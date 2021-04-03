@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TreJames_/status/1378209770440585220" ],
     "name" : [ "Like of @TreJames_'s tweet" ],
     "published" : [ "2021-04-03T23:16:00+0100" ],
     "category" : [ "politics" ],
