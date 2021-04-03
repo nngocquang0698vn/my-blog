@@ -1,0 +1,61 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378222339561644032" ],
+    "url" : [ "https://twitter.com/lizthegrey/status/1378222339561644032" ],
+    "published" : [ "2021-04-03T05:46:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lizthegrey" ],
+        "numeric-id" : [ "14534896" ],
+        "name" : [ "Liz Fong-Jones (方禮真)" ],
+        "nickname" : [ "lizthegrey" ],
+        "url" : [ "https://twitter.com/lizthegrey", "http://lizthegrey.com" ],
+        "published" : [ "2008-04-25T21:37:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1148962581786353664/3gqWJOPm.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "and meanwhile @IanColdwater was denied verification. WTF.",
+      "html" : "and meanwhile <a href=\"https://twitter.com/IanColdwater\">@IanColdwater</a> was denied verification. WTF."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1378145869938061314" ],
+      "url" : [ "https://twitter.com/yashar/status/1378145869938061314" ],
+      "published" : [ "2021-04-03T00:42:34+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:yashar" ],
+          "numeric-id" : [ "11744152" ],
+          "name" : [ "Yashar Ali 🐘" ],
+          "nickname" : [ "yashar" ],
+          "url" : [ "https://twitter.com/yashar", "https://linktr.ee/YasharAli" ],
+          "published" : [ "2008-01-02T06:55:39+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🐘🐘🐘🐘" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "This account was setup in March, has fewer than 100 followers, and is already verified.\n\nThe man behind this account claims to be a physician in SF and is already verified? \n\nOne of his first tweets was spreading Chinese government propaganda about the Uyghurs.",
+        "html" : "<div style=\"white-space: pre\">This account was setup in March, has fewer than 100 followers, and is already verified.\n\nThe man behind this account claims to be a physician in SF and is already verified? \n\nOne of his first tweets was spreading Chinese government propaganda about the Uyghurs.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/EyAoXPeU4AM8_nx.jpg", "https://pbs.twimg.com/media/EyAoXPdVgAUgOxh.jpg", "https://pbs.twimg.com/media/EyAoXP2VIAAD6hu.jpg", "https://pbs.twimg.com/media/EyAoXP4UcAAwgrU.jpg" ]
+    }
+  } ]
+}
