@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hacks4pancakes/status/1378123714852745221" ],
     "name" : [ "Like of @hacks4pancakes's tweet" ],
     "published" : [ "2021-04-03T11:57:00+0100" ],
     "category" : [ "art" ],
