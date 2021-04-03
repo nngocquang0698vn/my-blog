@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ValaAfshar/status/1377742531807559680" ],
     "name" : [ "Like of @ValaAfshar's tweet" ],
     "published" : [ "2021-04-03T15:38:00+0100" ],
     "category" : [ "space" ],
