@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1377742531807559680" ],
+    "url" : [ "https://twitter.com/ValaAfshar/status/1377742531807559680" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1354983896081952774/pu/vid/1280x720/urSPlTNKon-pFJ6J.mp4?tag=10" ],
+    "published" : [ "2021-04-01T21:59:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ValaAfshar" ],
+        "numeric-id" : [ "259725229" ],
+        "name" : [ "Vala Afshar" ],
+        "nickname" : [ "ValaAfshar" ],
+        "url" : [ "https://twitter.com/ValaAfshar", "https://www.zdnet.com/meet-the-team/us/vafshar/", "http://bit.ly/tposbe" ],
+        "published" : [ "2011-03-02T13:31:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boston" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi.jpg" ]
+      }
+    } ],
+    "content" : [ "Speed of light " ]
+  }
+}
