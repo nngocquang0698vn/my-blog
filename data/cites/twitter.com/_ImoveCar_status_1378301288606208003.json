@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378301288606208003" ],
+    "url" : [ "https://twitter.com/ImoveCar/status/1378301288606208003" ],
+    "published" : [ "2021-04-03T11:00:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ImoveCar" ],
+        "numeric-id" : [ "950506491701800960" ],
+        "name" : [ "Aaron Cohen" ],
+        "nickname" : [ "ImoveCar" ],
+        "url" : [ "https://twitter.com/ImoveCar" ],
+        "published" : [ "2018-01-08T23:16:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Carrboro, NC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1026204733399281664/M9Z0-AvH.jpg" ]
+      }
+    } ],
+    "content" : [ "To all who don’t like pineapple on your pizza...please consider this alternative." ],
+    "photo" : [ "https://pbs.twimg.com/media/EyC1tr7WYAQGRjR.jpg" ]
+  }
+}
