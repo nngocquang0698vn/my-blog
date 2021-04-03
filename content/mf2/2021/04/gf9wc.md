@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lizthegrey/status/1378222339561644032" ],
     "name" : [ "Like of @lizthegrey's tweet" ],
     "published" : [ "2021-04-03T23:01:00+0100" ],
     "category" : [ "social-media", "twitter" ],
