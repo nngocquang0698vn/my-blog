@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378543203515723776" ],
+    "url" : [ "https://twitter.com/amyis_trying/status/1378543203515723776" ],
+    "published" : [ "2021-04-04T03:01:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:amyis_trying" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "amyis_trying" ],
+        "url" : [ "https://twitter.com/amyis_trying", "http://venmo.com/waxanorak" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1374582423464206341/P87mPj35.jpg" ]
+      }
+    } ],
+    "content" : [ "April 2020                   April 2021" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyGRvMTVgAEppPd.jpg", "https://pbs.twimg.com/media/EyGRvMSVcAIQNAQ.jpg" ]
+  }
+}
