@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378753218260389892" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1378753218260389892" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1378753160353812486/pu/vid/576x1024/uGWC_DDCWbGZgpvD.mp4?tag=12" ],
+    "published" : [ "2021-04-04T16:55:57+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/SwiftOnSecurity/status/1378607158372220933" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "name" : [ "SwiftOnSecurity" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity", "https://decentsecurity.com", "http://DecentSecurity.com", "http://GotPhish.com", "http://UniversalShards.com" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373280167536308228/1qNTAfur.jpg" ]
+      }
+    } ]
+  }
+}
