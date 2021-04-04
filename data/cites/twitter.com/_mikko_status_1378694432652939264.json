@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378694432652939264" ],
+    "url" : [ "https://twitter.com/mikko/status/1378694432652939264" ],
+    "published" : [ "2021-04-04T13:02:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.com" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Finland𒈝" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ]
+      }
+    } ],
+    "content" : [ "Mark Zuckerberg's own data is in the Facebook leak. His Facebook ID number is 4." ]
+  }
+}
