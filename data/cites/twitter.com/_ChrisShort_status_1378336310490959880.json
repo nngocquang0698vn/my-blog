@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378336310490959880" ],
+    "url" : [ "https://twitter.com/ChrisShort/status/1378336310490959880" ],
+    "published" : [ "2021-04-03T13:19:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChrisShort" ],
+        "numeric-id" : [ "5610072" ],
+        "name" : [ "Chris Short" ],
+        "nickname" : [ "ChrisShort" ],
+        "url" : [ "https://twitter.com/ChrisShort", "https://linktr.ee/TheChrisShort", "http://OpenShift.tv", "http://devopsish.com" ],
+        "published" : [ "2007-04-28T19:14:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Commerce, MI" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323369538721906691/xJILqWj8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Serious question: Are there any reddit or Hacker News clones that I could use exclusively for DevOps'ish? It would require some kind of Zapier input.\n\nI'm tired of the toxicity of communities I can't control. I'm asking here because searching is a nightmare.",
+      "html" : "<div style=\"white-space: pre\">Serious question: Are there any reddit or Hacker News clones that I could use exclusively for DevOps'ish? It would require some kind of Zapier input.\n\nI'm tired of the toxicity of communities I can't control. I'm asking here because searching is a nightmare.</div>"
+    } ]
+  }
+}
