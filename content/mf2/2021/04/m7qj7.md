@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_elletownsend/status/1378697557459791882" ],
     "name" : [ "Like of @_elletownsend's tweet" ],
     "published" : [ "2021-04-04T15:35:00+0100" ],
     "category" : [ "battlestations" ],
