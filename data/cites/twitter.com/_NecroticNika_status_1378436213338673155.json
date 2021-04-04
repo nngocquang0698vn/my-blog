@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378436213338673155" ],
+    "url" : [ "https://twitter.com/NecroticNika/status/1378436213338673155" ],
+    "published" : [ "2021-04-03T19:56:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NecroticNika" ],
+        "numeric-id" : [ "878839299910848512" ],
+        "name" : [ "Nika 🖤" ],
+        "nickname" : [ "NecroticNika" ],
+        "url" : [ "https://twitter.com/NecroticNika" ],
+        "published" : [ "2017-06-25T04:56:31+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378556544443412483/1PsKb5HR.jpg" ]
+      }
+    } ],
+    "content" : [ "Ok, i haven’t really used this platform all that much, but seeing my yearbook photo make so many people happy warms my heart. 🥺🖤" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1378120086460960768" ],
+      "url" : [ "https://twitter.com/juleslipoff/status/1378120086460960768" ],
+      "published" : [ "2021-04-02T23:00:07+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:juleslipoff" ],
+          "numeric-id" : [ "755098383765823488" ],
+          "name" : [ "Jules Lipoff, MD" ],
+          "nickname" : [ "juleslipoff" ],
+          "url" : [ "https://twitter.com/juleslipoff", "http://juleslipoff.com" ],
+          "published" : [ "2016-07-18T17:54:18+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Philadelphia, PA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1149710193854279681/jKAKe7kV.png" ]
+        }
+      } ],
+      "content" : [ "you go girl" ],
+      "photo" : [ "https://pbs.twimg.com/media/EyAQvrtWUAE5pvX.jpg", "https://pbs.twimg.com/media/EyAQ4OqXABE4rkY.jpg" ]
+    }
+  } ]
+}
