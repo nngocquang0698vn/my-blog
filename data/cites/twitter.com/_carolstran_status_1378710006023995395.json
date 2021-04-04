@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378710006023995395" ],
+    "url" : [ "https://twitter.com/carolstran/status/1378710006023995395" ],
+    "published" : [ "2021-04-04T14:04:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What is Easter Sunday if not a day to get drunk at brunch and bask in all of the repressed guilt you’ve accumulated from growing up catholic? \n\nAnyway cheers 🥂",
+      "html" : "<div style=\"white-space: pre\">What is Easter Sunday if not a day to get drunk at brunch and bask in all of the repressed guilt you’ve accumulated from growing up catholic? \n\nAnyway cheers 🥂</div>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EyIpcKsXAAURZw0.jpg",
+      "alt" : "A mimosa with the bottle of Prosecco and orange juice sitting behind it."
+    } ]
+  }
+}
