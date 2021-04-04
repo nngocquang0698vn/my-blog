@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1378674837745438725" ],
     "photo" : [ {
       "alt" : "A bush, with a black cat ever so slightly visible in the undergrowth, sleepily looking out from his sun trap",
       "photo" : "https://media.jvt.me/a19a5fb67a.jpeg"
