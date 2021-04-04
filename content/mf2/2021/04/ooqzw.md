@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NecroticNika/status/1378436213338673155" ],
     "name" : [ "Like of @NecroticNika's tweet" ],
     "published" : [ "2021-04-04T09:15:00+0100" ],
     "category" : [ "social-media", "twitter" ],
