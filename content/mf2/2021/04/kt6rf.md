@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ChrisShort/status/1378355319278080000" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1378627629411151876" ],
     "name" : [ "Reply to https://twitter.com/ChrisShort/status/1378355319278080000" ],
     "published" : [ "2021-04-04T09:28:00+0100" ],
     "post-status" : [ "published" ],
