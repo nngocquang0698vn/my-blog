@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_ADAMMC00/status/1379047098969165830" ],
     "name" : [ "Like of @_ADAMMC00's tweet" ],
     "published" : [ "2021-04-05T16:43:00+0100" ],
     "like-of" : [ "https://twitter.com/_ADAMMC00/status/1379047098969165830" ],
