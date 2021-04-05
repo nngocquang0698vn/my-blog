@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378555933618360322" ],
+    "url" : [ "https://twitter.com/War_Kittens/status/1378555933618360322" ],
+    "published" : [ "2021-04-04T03:52:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:War_Kittens" ],
+        "numeric-id" : [ "2270376266" ],
+        "name" : [ "Dani M. 🏳️‍🌈 MLT (ASCP)" ],
+        "nickname" : [ "War_Kittens" ],
+        "url" : [ "https://twitter.com/War_Kittens", "http://askscience.reddit.com" ],
+        "published" : [ "2013-12-31T13:36:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Twin Cities, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273034553863606272/sVF41Vaa.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EyGdUPpVoAYRouf.jpg" ]
+  }
+}
