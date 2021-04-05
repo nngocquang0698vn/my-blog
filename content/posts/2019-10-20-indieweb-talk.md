@@ -1,23 +1,25 @@
 ---
-title: "The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web"
-description: "A look at what the IndieWeb is, why you should care, and how to get started with it."
-tags:
-- indieweb
-- www.jvt.me
-- micropub
-- microsub
-- microformats
-- webmention
-- public-speaking
-- oggcamp
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2019-10-20T19:29:23+0100
-slug: "indieweb-talk"
+title: "The IndieWeb Movement: Owning Your Data and Being the Change You Want to See\
+  \ in the Web"
+description: "A look at what the IndieWeb is, why you should care, and how to get\
+  \ started with it."
+date: "2019-10-20T19:29:23+0100"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
-- https://twitter.com/jamietanna
+- "https://news.indieweb.org/en"
+- "https://indieweb.xyz/en/indieweb"
+- "https://twitter.com/jamietanna"
+tags:
+- "indieweb"
+- "www.jvt.me"
+- "micropub"
+- "microsub"
+- "microformats"
+- "webmention"
+- "public-speaking"
+- "oggcamp"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "indieweb-talk"
 ---
 The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://oggcamp.com).
 
@@ -31,7 +33,7 @@ Hello, my name is Jamie Tanna and my URL is `https://www.jvt.me` and I am [@Jami
 
 Please feel free to send me interactions on social media through the talk - I'd appreciate if you mentioned me or use the hashtag `#IndieWeb`.
 
-I mentioned that my URL is  `https://www.jvt.me`, but what do I actually have on there? Let's have a look at the homepage:
+I mentioned that my URL is `https://www.jvt.me`, but what do I actually have on there? Let's have a look at the homepage:
 
 (image was displayed, but you can visit [the homepage](/))
 
@@ -56,7 +58,7 @@ We'll dive a little deeper into what the IndieWeb stands for, and look at how yo
 
 I would say that the easiest way to describe the IndieWeb is in relation to ownership. In essence, the IndieWeb is all about ownership of your identity, which is done through the ownership of a personal domain, which likely has a website on it.
 
-With this domain, you can point it to Medium, Tumble, or your own site. But the constant there is that it'll sit under your domain and folks can come back and see all your latest content, regardless of what platform it's pointing to.
+With this domain, you can point it to Medium, Tumblr, or your own site. But the constant there is that it'll sit under your domain and folks can come back and see all your latest content, regardless of what platform it's pointing to.
 
 A more common trend is that you would go a step further to own your data; be that your thoughts, your workout data, or your art. By having everything centred around yourself, your own website, and maybe even your own servers, you're definitely the one in control of what is done with it.
 
