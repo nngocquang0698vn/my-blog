@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379074836073488391" ],
+    "url" : [ "https://twitter.com/charles_duan/status/1379074836073488391" ],
+    "published" : [ "2021-04-05T14:13:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:charles_duan" ],
+        "numeric-id" : [ "1411535424" ],
+        "name" : [ "Charles Duan" ],
+        "nickname" : [ "charles_duan" ],
+        "url" : [ "https://twitter.com/charles_duan", "http://sbf5.com/~cduan" ],
+        "published" : [ "2013-05-08T00:04:52+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000115649810/b6e0e7785d4c730508af53c9a4edb562.jpeg" ]
+      }
+    } ],
+    "content" : [ "Wow--SCOTUS doesn't just rule in favor of Google in @googlevoracle, but says that API reimplementation is fair use *as a matter of law*, meaning that the decision applies to all APIs" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyN1P7WWEAMHHEx.png" ]
+  }
+}
