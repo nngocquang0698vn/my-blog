@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379073741674610692" ],
+    "url" : [ "https://twitter.com/davidcrawshaw/status/1379073741674610692" ],
+    "published" : [ "2021-04-05T14:09:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:davidcrawshaw" ],
+        "numeric-id" : [ "73774650" ],
+        "name" : [ "David Crawshaw" ],
+        "nickname" : [ "davidcrawshaw" ],
+        "url" : [ "https://twitter.com/davidcrawshaw", "https://crawshaw.io" ],
+        "published" : [ "2009-09-13T00:50:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/620162501544685568/yc5ug149.jpg" ]
+      }
+    } ],
+    "content" : [ "Turns out you are still allowed to reimplement APIs." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1379071916741382144" ],
+      "url" : [ "https://twitter.com/SCOTUSblog/status/1379071916741382144" ],
+      "published" : [ "2021-04-05T14:02:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:SCOTUSblog" ],
+          "numeric-id" : [ "16228479" ],
+          "name" : [ "SCOTUSblog" ],
+          "nickname" : [ "SCOTUSblog" ],
+          "url" : [ "https://twitter.com/SCOTUSblog", "http://www.scotusblog.com/" ],
+          "published" : [ "2008-09-10T21:18:43+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington DC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1353415064645197829/1bfvuYXE.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "BREAKING: In major copyright battle between tech giants, SCOTUS sides w/ Google over Oracle, finding that Google didnt commit copyright infringement when it reused lines of code in its Android operating system. The code came from Oracle's JAVA SE platform. supremecourt.gov/opinions/20pdf…",
+        "html" : "BREAKING: In major copyright battle between tech giants, SCOTUS sides w/ Google over Oracle, finding that Google didnt commit copyright infringement when it reused lines of code in its Android operating system. The code came from Oracle's JAVA SE platform. <a href=\"https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf\">supremecourt.gov/opinions/20pdf…</a>"
+      } ]
+    }
+  } ]
+}
