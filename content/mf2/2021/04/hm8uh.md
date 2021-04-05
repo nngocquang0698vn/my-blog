@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davidcrawshaw/status/1379073741674610692" ],
     "name" : [ "Like of @davidcrawshaw's tweet" ],
     "published" : [ "2021-04-05T16:45:00+0100" ],
     "like-of" : [ "https://twitter.com/davidcrawshaw/status/1379073741674610692" ],
