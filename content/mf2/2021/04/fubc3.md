@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/War_Kittens/status/1378555933618360322" ],
     "name" : [ "Like of @War_Kittens's tweet" ],
     "published" : [ "2021-04-05T01:02:00+0100" ],
     "category" : [ "remote-work" ],
