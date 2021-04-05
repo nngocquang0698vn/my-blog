@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378894021397909506" ],
+    "url" : [ "https://twitter.com/wabzqem/status/1378894021397909506" ],
+    "published" : [ "2021-04-05T02:15:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wabzqem" ],
+        "numeric-id" : [ "254229296" ],
+        "name" : [ "Richard Nelson" ],
+        "nickname" : [ "wabzqem" ],
+        "url" : [ "https://twitter.com/wabzqem" ],
+        "published" : [ "2011-02-18T21:51:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sydney, Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/509344283455807491/jyvAobc-.jpeg" ]
+      }
+    } ],
+    "content" : [ "🤦🏼‍♂️" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyLQzOiUUAAGhMt.jpg" ]
+  }
+}
