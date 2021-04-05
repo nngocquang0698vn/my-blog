@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1378388326378520578" ],
+    "url" : [ "https://twitter.com/Gbemideyforyou/status/1378388326378520578" ],
+    "published" : [ "2021-04-03T16:46:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Gbemideyforyou" ],
+        "numeric-id" : [ "1008057061140258816" ],
+        "name" : [ "TheGbemisola🍸" ],
+        "nickname" : [ "Gbemideyforyou" ],
+        "url" : [ "https://twitter.com/Gbemideyforyou" ],
+        "published" : [ "2018-06-16T18:41:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Spaceship" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355843052938661888/V1AOCL11.jpg" ]
+      }
+    } ],
+    "content" : [ "Pretty much" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyEE4BVXAAU3LRw.jpg" ]
+  }
+}
