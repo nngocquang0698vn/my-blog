@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1379350692603822082" ],
     "published" : [ "2021-04-06T09:28:00+0100" ],
     "category" : [ "public-speaking", "indieweb" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1379341256032198660" ],
