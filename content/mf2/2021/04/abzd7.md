@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doitwithalambda/status/1379208140726493185" ],
     "name" : [ "Like of @doitwithalambda's tweet" ],
     "published" : [ "2021-04-06T07:56:00+0100" ],
     "category" : [ "shitpost" ],
