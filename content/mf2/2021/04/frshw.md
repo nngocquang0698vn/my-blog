@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/michaeljones/on-commit-messages/stargazers" ],
     "name" : [ "michaeljones/on-commit-messages" ],
     "published" : [ "2021-04-06T08:21:00+0100" ],
     "category" : [ "git" ],
