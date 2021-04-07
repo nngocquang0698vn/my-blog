@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379879367568949250" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1379879367568949250" ],
+    "published" : [ "2021-04-07T19:30:52+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1379877348758204417" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A rebase merge does not indicate clearly what commits that were merged?\n\nA rebase merge is a rebase followed by a fast forward merge?",
+      "html" : "<div style=\"white-space: pre\">A rebase merge does not indicate clearly what commits that were merged?\n\nA rebase merge is a rebase followed by a fast forward merge?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>"
+    } ]
+  }
+}
