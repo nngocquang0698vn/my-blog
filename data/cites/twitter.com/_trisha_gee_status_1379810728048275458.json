@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379810728048275458" ],
+    "url" : [ "https://twitter.com/trisha_gee/status/1379810728048275458" ],
+    "published" : [ "2021-04-07T14:58:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/trisha_gee/status/1379808153013981184" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:trisha_gee" ],
+        "numeric-id" : [ "14162967" ],
+        "name" : [ "Trisha Gee" ],
+        "nickname" : [ "trisha_gee" ],
+        "url" : [ "https://twitter.com/trisha_gee", "http://trishagee.com" ],
+        "published" : [ "2008-03-17T13:15:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇪🇺🇪🇸🇬🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/783972460907593730/WpIbSRP3.jpg" ]
+      }
+    } ],
+    "content" : [ "OK never mind. Of course I found the answer as soon as I posted something on Twitter. Apparently I needed maven-surefire-plugin 3.0.0-M5. Not 2.22.2 or even 3.0.0-M1." ]
+  }
+}
