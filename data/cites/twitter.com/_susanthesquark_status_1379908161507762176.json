@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379908161507762176" ],
+    "url" : [ "https://twitter.com/susanthesquark/status/1379908161507762176" ],
+    "published" : [ "2021-04-07T21:25:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/kefimochi/status/1379907907265781762" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:susanthesquark" ],
+        "numeric-id" : [ "4625037762" ],
+        "name" : [ "Susan Rigetti" ],
+        "nickname" : [ "susanthesquark" ],
+        "url" : [ "https://twitter.com/susanthesquark", "http://www.susanjfowler.com/" ],
+        "published" : [ "2015-12-21T21:24:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1233099490740981760/wW7906OX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Lol I was about to actually not write anything because I realized how funny that would be but then I ended up tweeting the thread",
+      "html" : "Lol I was about to actually not write anything because I realized how funny that would be but then I ended up tweeting the thread\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>"
+    } ]
+  }
+}
