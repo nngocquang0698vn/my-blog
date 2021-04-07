@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379814403483308032" ],
+    "url" : [ "https://twitter.com/PronouncedAlva/status/1379814403483308032" ],
+    "published" : [ "2021-04-07T15:12:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PronouncedAlva" ],
+        "numeric-id" : [ "599103365" ],
+        "name" : [ "Ailbhe Rea" ],
+        "nickname" : [ "PronouncedAlva" ],
+        "url" : [ "https://twitter.com/PronouncedAlva", "https://www.newstatesman.com/writers/325693", "https://www.instagram.com/pronouncedalva/" ],
+        "published" : [ "2012-06-04T09:48:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London via Belfast" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1203286287131828225/b5oOVIQP.jpg" ]
+      }
+    } ],
+    "content" : [ "I do feel like this conversation around blood clot risk and the AZ jab doesn't sufficiently register quite how many women are on contraceptive pills with v high blood clot risk already" ]
+  }
+}
