@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/voxpelli/status/1379879367568949250" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1379880575180410880" ],
     "name" : [ "Reply to https://twitter.com/voxpelli/status/1379879367568949250" ],
     "published" : [ "2021-04-07T20:33:00+0100" ],
     "category" : [ "git", "github" ],
