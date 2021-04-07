@@ -18,7 +18,7 @@ It turns out we can avoid this issue by adding the following into our `Jenkinsfi
 
 ```groovy
 // execute this before anything else, including requesting any time on an agent
-if (currentBuild.rawBuild.getCauses().toString().contains('BranchIndexingCause')) {
+if (currentBuild.getBuildCauses().toString().contains('BranchIndexingCause')) {
   print "INFO: Build skipped due to trigger being Branch Indexing"
   currentBuild.result = 'ABORTED' // optional, gives a better hint to the user that it's been skipped, rather than the default which shows it's successful
   return
@@ -51,7 +51,7 @@ Or in our Scripted `Jenkinsfile`:
 
 ```groovy
 // execute this before anything else, including requesting any time on an agent
-if (currentBuild.rawBuild.getCauses().toString().contains('BranchIndexingCause')) {
+if (currentBuild.getBuildCauses().toString().contains('BranchIndexingCause')) {
   print "INFO: Build skipped due to trigger being Branch Indexing"
   currentBuild.result = 'ABORTED' // optional, gives a better hint to the user that it's been skipped, rather than the default which shows it's successful
   return
