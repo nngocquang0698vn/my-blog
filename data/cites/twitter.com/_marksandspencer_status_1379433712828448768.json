@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379433712828448768" ],
+    "url" : [ "https://twitter.com/marksandspencer/status/1379433712828448768" ],
+    "published" : [ "2021-04-06T14:00:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:marksandspencer" ],
+        "numeric-id" : [ "37916167" ],
+        "name" : [ "M&S" ],
+        "nickname" : [ "marksandspencer" ],
+        "url" : [ "https://twitter.com/marksandspencer" ],
+        "published" : [ "2009-05-05T12:49:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294244903040491521/KJXtEtL5.jpg" ]
+      }
+    } ],
+    "content" : [ "JUST LANDED: Colin the Caterpillar cake jars!  🐛" ],
+    "photo" : [ "https://pbs.twimg.com/media/EySxKlPWgAM4l1a.jpg" ]
+  }
+}
