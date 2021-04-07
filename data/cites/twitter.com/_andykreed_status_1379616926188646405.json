@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379616926188646405" ],
+    "url" : [ "https://twitter.com/andykreed/status/1379616926188646405" ],
+    "published" : [ "2021-04-07T02:08:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:andykreed" ],
+        "numeric-id" : [ "956417626858840064" ],
+        "name" : [ "Andy Reed 🍞" ],
+        "nickname" : [ "andykreed" ],
+        "url" : [ "https://twitter.com/andykreed", "http://andykreed.com" ],
+        "published" : [ "2018-01-25T06:45:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Michigan" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288232166346960897/LAlGh6p4.jpg" ]
+      }
+    } ],
+    "content" : [ "A burnt out engineer call that STEM brulée" ]
+  }
+}
