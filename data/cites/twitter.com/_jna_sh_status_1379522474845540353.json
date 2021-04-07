@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379522474845540353" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1379522474845540353" ],
+    "published" : [ "2021-04-06T19:52:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe Nash" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342401247522004992/QOCvBRO6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "...@naomi_pen just called this a salad",
+      "html" : "...<a href=\"https://twitter.com/naomi_pen\">@naomi_pen</a> just called this a salad"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1379520784616595458" ],
+      "url" : [ "https://twitter.com/scattermoon/status/1379520784616595458" ],
+      "published" : [ "2021-04-06T19:45:59+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:scattermoon" ],
+          "numeric-id" : [ "19086367" ],
+          "name" : [ "Elaine Scattermoon" ],
+          "nickname" : [ "scattermoon" ],
+          "url" : [ "https://twitter.com/scattermoon" ],
+          "published" : [ "2009-01-16T21:24:50+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "South London = Best London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1077166281667870720/a3DWBoBJ.jpg" ]
+        }
+      } ],
+      "content" : [ "It snowed today which according to my rules justifies having chips in gravy." ],
+      "photo" : [ "https://pbs.twimg.com/media/EyUK12UWUAQqloa.jpg" ]
+    }
+  } ]
+}
