@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FreddieCarthy/status/1379465866081824770" ],
     "name" : [ "Like of @FreddieCarthy's tweet" ],
     "published" : [ "2021-04-07T07:48:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
