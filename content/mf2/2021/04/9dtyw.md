@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/susanthesquark/status/1379908161507762176" ],
     "name" : [ "Like of @susanthesquark's tweet" ],
     "published" : [ "2021-04-07T22:55:00+0100" ],
     "like-of" : [ "https://twitter.com/susanthesquark/status/1379908161507762176" ],
