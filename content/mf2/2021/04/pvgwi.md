@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marksandspencer/status/1379433712828448768" ],
     "name" : [ "Like of @marksandspencer's tweet" ],
     "published" : [ "2021-04-07T10:43:00+0100" ],
     "category" : [ "food" ],
