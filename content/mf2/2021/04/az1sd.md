@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PronouncedAlva/status/1379814403483308032" ],
     "name" : [ "Like of @PronouncedAlva's tweet" ],
     "published" : [ "2021-04-07T21:35:00+0100" ],
     "category" : [ "diversity-and-inclusion", "coronavirus" ],
