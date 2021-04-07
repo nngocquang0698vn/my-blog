@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379413948827639811" ],
+    "url" : [ "https://twitter.com/_wildmilk/status/1379413948827639811" ],
+    "published" : [ "2021-04-06T12:41:28+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/gracecamille_/status/1379275123350462464" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_wildmilk" ],
+        "numeric-id" : [ "260025815" ],
+        "name" : [ "wild milk" ],
+        "nickname" : [ "_wildmilk" ],
+        "url" : [ "https://twitter.com/_wildmilk" ],
+        "published" : [ "2011-03-03T02:03:07+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331054942774317060/GcRz1kwa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "no such thing as an innocent man",
+      "html" : "no such thing as an innocent man\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gracecamille_\"></a>"
+    } ]
+  }
+}
