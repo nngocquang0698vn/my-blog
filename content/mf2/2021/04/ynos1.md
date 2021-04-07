@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukeExton/status/1379582771333623810" ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2021-04-07T07:37:00+0100" ],
     "category" : [ "london" ],
