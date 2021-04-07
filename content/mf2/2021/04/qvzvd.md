@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1168234307112116225" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2021-04-07T10:42:00+0100" ],
     "category" : [ "food" ],
