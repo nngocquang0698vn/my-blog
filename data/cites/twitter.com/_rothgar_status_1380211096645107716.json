@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380211096645107716" ],
+    "url" : [ "https://twitter.com/rothgar/status/1380211096645107716" ],
+    "published" : [ "2021-04-08T17:29:03+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CassidyJames/status/1380210052565409792" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rothgar" ],
+        "numeric-id" : [ "14361975" ],
+        "name" : [ "Justin Garrison" ],
+        "nickname" : [ "rothgar" ],
+        "url" : [ "https://twitter.com/rothgar", "https://justingarrison.com", "http://cnibook.info", "http://imdb.to/2FikCiY", "http://bit.ly/2tJM3yt" ],
+        "published" : [ "2008-04-11T15:59:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335993178256601088/qGeS1IAa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Because of the restrictions on distributing code that contains GPL licensed software and knowing that if I try to include it it will mean open sourcing my project will go from 1-2 days to 2-3 weeks for legal reviews.",
+      "html" : "Because of the restrictions on distributing code that contains GPL licensed software and knowing that if I try to include it it will mean open sourcing my project will go from 1-2 days to 2-3 weeks for legal reviews.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CassidyJames\"></a>"
+    } ]
+  }
+}
