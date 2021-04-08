@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/akrabat/status/1380062699929939969" ],
     "name" : [ "Like of @akrabat's tweet" ],
     "published" : [ "2021-04-08T10:48:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
