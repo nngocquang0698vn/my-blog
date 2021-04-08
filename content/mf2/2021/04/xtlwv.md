@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/rothgar/status/1380211096645107716" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1380212929908314112" ],
     "name" : [ "Reply to https://twitter.com/rothgar/status/1380211096645107716" ],
     "published" : [ "2021-04-08T18:34:00+0100" ],
     "category" : [ "open-source" ],
