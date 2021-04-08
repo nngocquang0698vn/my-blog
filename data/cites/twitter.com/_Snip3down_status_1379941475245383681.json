@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1379941475245383681" ],
+    "url" : [ "https://twitter.com/Snip3down/status/1379941475245383681" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1379940796552507393/pu/vid/1280x720/CBxCDyzmRulWGxQL.mp4?tag=12" ],
+    "published" : [ "2021-04-07T23:37:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Snip3down" ],
+        "numeric-id" : [ "156071027" ],
+        "name" : [ "TSM Snip3down" ],
+        "nickname" : [ "Snip3down" ],
+        "url" : [ "https://twitter.com/Snip3down", "https://www.youtube.com/watch?v=EEwX2IzrR2Y", "http://instagram.com/snip3down_", "http://snip3down.com" ],
+        "published" : [ "2010-06-15T23:18:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Las Vegas, NV" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343298380861083648/cZfmKCb8.jpg" ]
+      }
+    } ],
+    "content" : [ "We made it!" ]
+  }
+}
