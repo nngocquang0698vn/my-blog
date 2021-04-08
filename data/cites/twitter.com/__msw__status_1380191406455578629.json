@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380191406455578629" ],
+    "url" : [ "https://twitter.com/_msw_/status/1380191406455578629" ],
+    "published" : [ "2021-04-08T16:10:48+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/voxpelli/status/1380189814075576327" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_msw_" ],
+        "numeric-id" : [ "15656207" ],
+        "name" : [ "Matthew S. Wilson" ],
+        "nickname" : [ "_msw_" ],
+        "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "https://www.linkedin.com/in/matthewswilson" ],
+        "published" : [ "2008-07-30T04:04:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1227486114933379073/c1gSq4eX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm curious: often ideas sound good in theory, but when it comes to people doing work the practice may not always work out.\n\nHave you used this feature with good results?",
+      "html" : "<div style=\"white-space: pre\">I'm curious: often ideas sound good in theory, but when it comes to people doing work the practice may not always work out.\n\nHave you used this feature with good results?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/voxpelli\"></a>"
+    } ]
+  }
+}
