@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380191839135920137" ],
+    "url" : [ "https://twitter.com/JessicaValenti/status/1380191839135920137" ],
+    "published" : [ "2021-04-08T16:12:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JessicaValenti" ],
+        "numeric-id" : [ "4099171" ],
+        "name" : [ "Jessica Valenti" ],
+        "nickname" : [ "JessicaValenti" ],
+        "url" : [ "https://twitter.com/JessicaValenti", "http://jessica.substack.com" ],
+        "published" : [ "2007-04-11T00:45:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296865494616727552/LWC2z_36.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Anyone else gain a new respect for their partner while working from home with them this last year? \n\nLike, I always knew my husband worked hard but holy shit he never stops and is so good at what he does",
+      "html" : "<div style=\"white-space: pre\">Anyone else gain a new respect for their partner while working from home with them this last year? \n\nLike, I always knew my husband worked hard but holy shit he never stops and is so good at what he does</div>"
+    } ]
+  }
+}
