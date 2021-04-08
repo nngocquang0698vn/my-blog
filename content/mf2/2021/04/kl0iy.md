@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shadtowa/status/1380174675309891589" ],
     "name" : [ "Like of @shadtowa's tweet" ],
     "published" : [ "2021-04-08T16:22:00+0100" ],
     "category" : [ "apex-legends" ],
