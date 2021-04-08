@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julietteyooo/status/1380005896491692034" ],
     "name" : [ "Like of @Julietteyooo's tweet" ],
     "published" : [ "2021-04-08T07:56:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
