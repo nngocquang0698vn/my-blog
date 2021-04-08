@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380174675309891589" ],
+    "url" : [ "https://twitter.com/shadtowa/status/1380174675309891589" ],
+    "published" : [ "2021-04-08T15:04:19+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/lesliegbowman/status/1380174187000651776" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shadtowa" ],
+        "numeric-id" : [ "1354917403843571716" ],
+        "name" : [ "Shadtowa (Sub to NuttyFox)" ],
+        "nickname" : [ "shadtowa" ],
+        "url" : [ "https://twitter.com/shadtowa" ],
+        "published" : [ "2021-01-28T22:21:11+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354917978492592130/b_VVvRTC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I like Maggie",
+      "html" : "I like Maggie\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PlayApex\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lesliegbowman\"></a>"
+    } ]
+  }
+}
