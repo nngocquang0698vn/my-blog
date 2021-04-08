@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/_msw_/status/1380191406455578629" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1380196453990211586" ],
     "name" : [ "Reply to https://twitter.com/_msw_/status/1380191406455578629" ],
     "published" : [ "2021-04-08T17:28:00+0100" ],
     "category" : [ "code-review", "github" ],
