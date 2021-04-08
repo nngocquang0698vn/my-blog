@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JessicaValenti/status/1380191839135920137" ],
     "name" : [ "Like of @JessicaValenti's tweet" ],
     "published" : [ "2021-04-08T22:12:00+0100" ],
     "like-of" : [ "https://twitter.com/JessicaValenti/status/1380191839135920137" ],
