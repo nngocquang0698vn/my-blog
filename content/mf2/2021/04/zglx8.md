@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/officecontexts/status/1380597711892791296" ],
     "name" : [ "Like of @officecontexts's tweet" ],
     "published" : [ "2021-04-09T20:50:00+0100" ],
     "category" : [ "the-office" ],
