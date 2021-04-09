@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/h3h/status/1380534842350301185" ],
     "name" : [ "Like of @h3h's tweet" ],
     "published" : [ "2021-04-09T16:32:00+0100" ],
     "category" : [ "ai" ],
