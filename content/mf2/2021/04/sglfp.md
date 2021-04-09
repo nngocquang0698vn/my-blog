@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbyfuller/status/1380538929858760704" ],
     "name" : [ "Like of @abbyfuller's tweet" ],
     "published" : [ "2021-04-09T16:34:00+0100" ],
     "category" : [ "social-media" ],
