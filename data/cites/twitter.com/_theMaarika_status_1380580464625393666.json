@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380580464625393666" ],
+    "url" : [ "https://twitter.com/theMaarika/status/1380580464625393666" ],
+    "published" : [ "2021-04-09T17:56:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:theMaarika" ],
+        "numeric-id" : [ "2900778038" ],
+        "name" : [ "Maarika ✨" ],
+        "nickname" : [ "theMaarika" ],
+        "url" : [ "https://twitter.com/theMaarika", "https://www.patreon.com/Maarika/" ],
+        "published" : [ "2014-11-15T19:18:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Website: https://maarika.com" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907378283997736960/8tUE4o17.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EyjOmjgXEAsBZLB.jpg" ]
+  }
+}
