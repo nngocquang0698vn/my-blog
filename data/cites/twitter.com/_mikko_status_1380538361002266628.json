@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380538361002266628" ],
+    "url" : [ "https://twitter.com/mikko/status/1380538361002266628" ],
+    "published" : [ "2021-04-09T15:09:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.com" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Finland𒈝" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ]
+      }
+    } ],
+    "content" : [ "Stop uploading your address book to social media sites. It’s not your data!" ]
+  }
+}
