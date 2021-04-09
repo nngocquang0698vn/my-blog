@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jewish_activist/status/1380532847086346240" ],
     "name" : [ "Like of @jewish_activist's tweet" ],
     "published" : [ "2021-04-09T23:00:00+0100" ],
     "category" : [ "shitpost", "politics", "social-media" ],
