@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emptypizzabox/status/1378459515939651587" ],
     "name" : [ "Like of @emptypizzabox's tweet" ],
     "published" : [ "2021-04-09T08:07:00+0100" ],
     "like-of" : [ "https://twitter.com/emptypizzabox/status/1378459515939651587" ],
