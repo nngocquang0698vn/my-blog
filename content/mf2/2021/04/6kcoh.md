@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/heart_brecher/status/1380185399243509763" ],
     "name" : [ "Like of @heart_brecher's tweet" ],
     "published" : [ "2021-04-09T16:31:00+0100" ],
     "category" : [ "cute" ],
