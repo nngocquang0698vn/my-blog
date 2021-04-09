@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mikko/status/1380538361002266628" ],
     "name" : [ "Like of @mikko's tweet" ],
     "published" : [ "2021-04-09T16:27:00+0100" ],
     "category" : [ "privacy" ],
