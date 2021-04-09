@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380597711892791296" ],
+    "url" : [ "https://twitter.com/officecontexts/status/1380597711892791296" ],
+    "published" : [ "2021-04-09T19:05:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:officecontexts" ],
+        "numeric-id" : [ "966082180773531654" ],
+        "name" : [ "out of context the office" ],
+        "nickname" : [ "officecontexts" ],
+        "url" : [ "https://twitter.com/officecontexts", "https://twitter.com/sloanecholls" ],
+        "published" : [ "2018-02-20T22:48:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "dunder mifflin: scranton" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1262891473172905985/iikif7ko.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EyjeTDhWYAcbbU0.jpg" ]
+  }
+}
