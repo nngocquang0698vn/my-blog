@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackdwagner/status/1380573722432532483" ],
     "name" : [ "Like of @jackdwagner's tweet" ],
     "published" : [ "2021-04-10T17:57:00+0100" ],
     "category" : [ "politics" ],
