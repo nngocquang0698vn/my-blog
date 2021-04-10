@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380817061962731524" ],
+    "url" : [ "https://twitter.com/carolstran/status/1380817061962731524" ],
+    "published" : [ "2021-04-10T09:36:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Today I’m going to WRITE something.\n\nI’ve spent the last month+ rebuilding my life and fell behind on articles. But the stories I’m working on feature brilliant, inspiring humans and I’m excited to finish and share with y’all ✨\n\nTweeting this for some level of accountability 😅",
+      "html" : "<div style=\"white-space: pre\">Today I’m going to WRITE something.\n\nI’ve spent the last month+ rebuilding my life and fell behind on articles. But the stories I’m working on feature brilliant, inspiring humans and I’m excited to finish and share with y’all ✨\n\nTweeting this for some level of accountability 😅</div>"
+    } ]
+  }
+}
