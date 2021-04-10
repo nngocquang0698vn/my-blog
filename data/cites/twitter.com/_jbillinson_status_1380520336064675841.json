@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380520336064675841" ],
+    "url" : [ "https://twitter.com/jbillinson/status/1380520336064675841" ],
+    "published" : [ "2021-04-09T13:57:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jbillinson" ],
+        "numeric-id" : [ "437737633" ],
+        "name" : [ "Josh Billinson" ],
+        "nickname" : [ "jbillinson" ],
+        "url" : [ "https://twitter.com/jbillinson" ],
+        "published" : [ "2011-12-15T19:35:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1195856470010736640/0dwavM7F.jpg" ]
+      }
+    } ],
+    "content" : [ "They deleted this tweet but I think it was a good photo choice" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyiX3ArXMAcoGVL.jpg" ]
+  }
+}
