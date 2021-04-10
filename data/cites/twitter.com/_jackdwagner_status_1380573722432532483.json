@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380573722432532483" ],
+    "url" : [ "https://twitter.com/jackdwagner/status/1380573722432532483" ],
+    "published" : [ "2021-04-09T17:29:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jackdwagner" ],
+        "numeric-id" : [ "1087834820" ],
+        "name" : [ "jack wagner" ],
+        "nickname" : [ "jackdwagner" ],
+        "url" : [ "https://twitter.com/jackdwagner", "http://www.yeahbutstillpod.com" ],
+        "published" : [ "2013-01-14T02:50:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351191784450367488/9JpWY4lp.jpg" ]
+      }
+    } ],
+    "content" : [ "very dark and telling that don jr is posting memes featuring a fantasy scenario where his own father asks him to hang out" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyjIesjVgAkQdn3.jpg" ]
+  }
+}
