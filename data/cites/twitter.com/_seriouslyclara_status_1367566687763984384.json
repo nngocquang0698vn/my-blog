@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367566687763984384" ],
+    "url" : [ "https://twitter.com/seriouslyclara/status/1367566687763984384" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1367566648924794880/pu/vid/576x1024/PE7_J4UGcymfMkBG.mp4?tag=12" ],
+    "published" : [ "2021-03-04T20:04:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:seriouslyclara" ],
+        "numeric-id" : [ "2466664170" ],
+        "name" : [ "Clara Sia" ],
+        "nickname" : [ "seriouslyclara" ],
+        "url" : [ "https://twitter.com/seriouslyclara", "http://www.twitch.tv/seriouslyclara" ],
+        "published" : [ "2014-04-27T21:03:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1376231726096084993/a8Eh7QGt.jpg" ]
+      }
+    } ],
+    "content" : [ "I've seen all the internet I need to see." ]
+  }
+}
