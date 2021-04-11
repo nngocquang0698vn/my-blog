@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/jwgoerlich/status/1381343132944584705" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1381352098701402112" ],
     "name" : [ "Reply to https://twitter.com/jwgoerlich/status/1381343132944584705" ],
     "published" : [ "2021-04-11T21:54:00+0100" ],
     "post-status" : [ "published" ],
