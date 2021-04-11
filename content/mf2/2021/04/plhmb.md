@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chantastic/status/1381069276040228866" ],
     "name" : [ "Like of @chantastic's tweet" ],
     "published" : [ "2021-04-11T11:15:00+0100" ],
     "category" : [ "food" ],
