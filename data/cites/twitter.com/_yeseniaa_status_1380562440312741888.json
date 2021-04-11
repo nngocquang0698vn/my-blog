@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380562440312741888" ],
+    "url" : [ "https://twitter.com/yeseniaa/status/1380562440312741888" ],
+    "published" : [ "2021-04-09T16:45:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:yeseniaa" ],
+        "numeric-id" : [ "19042148" ],
+        "name" : [ "Yesenia Perez-Cruz" ],
+        "nickname" : [ "yeseniaa" ],
+        "url" : [ "https://twitter.com/yeseniaa", "http://www.yeseniaperezcruz.com/" ],
+        "published" : [ "2009-01-15T22:19:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320779848525271041/y7RWr-ZU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My therapist told me that if I had to perform \"at my best\" all the time, then it wouldn't be my best, it'd be my norm. \n\nI need a moment to recover. 😂",
+      "html" : "<div style=\"white-space: pre\">My therapist told me that if I had to perform \"at my best\" all the time, then it wouldn't be my best, it'd be my norm. \n\nI need a moment to recover. 😂</div>"
+    } ]
+  }
+}
