@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381272281448611843" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1381272281448611843" ],
+    "published" : [ "2021-04-11T15:45:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "name" : [ "SwiftOnSecurity" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity", "https://decentsecurity.com", "http://DecentSecurity.com", "http://GotPhish.com", "http://UniversalShards.com" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373280167536308228/1qNTAfur.jpg" ]
+      }
+    } ],
+    "content" : [ "There's a tank gunner on TikTok showing how he gets into the tank by climbing up and people are roasting him for not just pressing E" ]
+  }
+}
