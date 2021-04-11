@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381069276040228866" ],
+    "url" : [ "https://twitter.com/chantastic/status/1381069276040228866" ],
+    "published" : [ "2021-04-11T02:19:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chantastic" ],
+        "numeric-id" : [ "12745092" ],
+        "name" : [ "HTML Developer" ],
+        "nickname" : [ "chantastic" ],
+        "url" : [ "https://twitter.com/chantastic", "http://chan.dev/blog", "http://lunch.dev", "http://discord.gg/8mZuYE6t5q" ],
+        "published" : [ "2008-01-27T10:05:12+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1243990085244084225/zOtwktfM.jpg" ]
+      }
+    } ],
+    "content" : [ "i'm a man of simple pleasures" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EyqLBqCVgAIFd3_.jpg",
+      "alt" : "a lacy edge cheeseburger from my Little Grittle"
+    } ]
+  }
+}
