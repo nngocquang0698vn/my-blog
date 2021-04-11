@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chris_herd/status/1381172255951044610" ],
     "name" : [ "Like of @chris_herd's tweet" ],
     "published" : [ "2021-04-11T16:10:00+0100" ],
     "category" : [ "remote-work", "coronavirus" ],
