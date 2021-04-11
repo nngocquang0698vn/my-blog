@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381343132944584705" ],
+    "url" : [ "https://twitter.com/jwgoerlich/status/1381343132944584705" ],
+    "published" : [ "2021-04-11T20:27:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jwgoerlich" ],
+        "numeric-id" : [ "35797450" ],
+        "name" : [ "J Wolfgang Goerlich" ],
+        "nickname" : [ "jwgoerlich" ],
+        "url" : [ "https://twitter.com/jwgoerlich", "https://jwgoerlich.com" ],
+        "published" : [ "2009-04-27T17:14:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346880257849233409/4rTLkGlX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "@JamieTanna Quick appreciation for your gorgeous website. Every once in a while, I end up there based on something I'm running down, and I'm again struck by the text-based elegance. Mad props.\n\njvt.me",
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> Quick appreciation for your gorgeous website. Every once in a while, I end up there based on something I'm running down, and I'm again struck by the text-based elegance. Mad props.\n\n<a href=\"https://www.jvt.me/\">jvt.me</a></div>"
+    } ]
+  }
+}
