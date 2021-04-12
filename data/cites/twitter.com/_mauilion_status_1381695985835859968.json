@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381695985835859968" ],
+    "url" : [ "https://twitter.com/mauilion/status/1381695985835859968" ],
+    "published" : [ "2021-04-12T19:49:28+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1381643051836211206" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mauilion" ],
+        "numeric-id" : [ "15397636" ],
+        "name" : [ "Duffie Cooley" ],
+        "nickname" : [ "mauilion" ],
+        "url" : [ "https://twitter.com/mauilion", "http://mauilion.dev" ],
+        "published" : [ "2008-07-11T22:32:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335851245039337474/pl3YvKkJ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fsf\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EyzFLS_VgAEV1Dp.jpg" ]
+  }
+}
