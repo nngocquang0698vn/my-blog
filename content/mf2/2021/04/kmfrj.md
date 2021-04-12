@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tgamblin/status/1381660770610475008" ],
     "name" : [ "Like of @tgamblin's tweet" ],
     "published" : [ "2021-04-12T22:24:00+0100" ],
     "category" : [ "politics" ],
