@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mauilion/status/1381695985835859968" ],
     "name" : [ "Like of @mauilion's tweet" ],
     "published" : [ "2021-04-12T22:25:00+0100" ],
     "category" : [ "politics" ],
