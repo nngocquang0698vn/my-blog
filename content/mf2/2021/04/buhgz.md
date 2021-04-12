@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sethvargo/status/1381698089623375881" ],
     "name" : [ "Like of @sethvargo's tweet" ],
     "published" : [ "2021-04-12T22:13:00+0100" ],
     "category" : [ "politics" ],
