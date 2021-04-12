@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1381655341629386765" ],
     "published" : [ "2021-04-12T18:05:00+0100" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1381571321344196616" ],
     "category" : [ "indieweb", "tech-nottingham" ],
