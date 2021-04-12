@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/itsdannyneary/status/1381082185394962434" ],
     "name" : [ "Like of @itsdannyneary's tweet" ],
     "published" : [ "2021-04-12T04:41:00+0100" ],
     "category" : [ "coronavirus", "mental-health", "shitpost" ],
