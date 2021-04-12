@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381082185394962434" ],
+    "url" : [ "https://twitter.com/itsdannyneary/status/1381082185394962434" ],
+    "published" : [ "2021-04-11T03:10:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:itsdannyneary" ],
+        "numeric-id" : [ "1209690390984560640" ],
+        "name" : [ "Danny Neary" ],
+        "nickname" : [ "itsdannyneary" ],
+        "url" : [ "https://twitter.com/itsdannyneary" ],
+        "published" : [ "2019-12-25T04:20:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366812179715018752/dQjEoOvD.jpg" ]
+      }
+    } ],
+    "content" : [ "“Just got vaccinated this summer’s about to be lit!”" ],
+    "photo" : [ "https://pbs.twimg.com/media/EyqWuY0WYAAuzZ8.jpg", "https://pbs.twimg.com/media/EyqW3bpXMAAs7tt.jpg", "https://pbs.twimg.com/media/EyqW3cQWQAIi50U.jpg", "https://pbs.twimg.com/media/EyqW3cpW8AM0zsN.jpg" ]
+  }
+}
