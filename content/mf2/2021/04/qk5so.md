@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KillJamesBond/status/1381360512525565952" ],
     "name" : [ "Like of @KillJamesBond's tweet" ],
     "published" : [ "2021-04-12T20:52:00+0100" ],
     "category" : [ "shitpost" ],
