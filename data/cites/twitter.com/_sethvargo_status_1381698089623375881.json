@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381698089623375881" ],
+    "url" : [ "https://twitter.com/sethvargo/status/1381698089623375881" ],
+    "published" : [ "2021-04-12T19:57:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sethvargo" ],
+        "numeric-id" : [ "262914828" ],
+        "name" : [ "Seth Vargo" ],
+        "nickname" : [ "sethvargo" ],
+        "url" : [ "https://twitter.com/sethvargo", "https://www.sethvargo.com/", "http://oreil.ly/2fnnjVg" ],
+        "published" : [ "2011-03-09T00:54:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808025120296013825/frGuc14s.jpg" ]
+      }
+    } ],
+    "content" : [ "This is the equivalent of masturbating on a Zoom call and then saying \"sorry, I thought my camera was off.\"" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1381657470653890565" ],
+      "url" : [ "https://twitter.com/AP/status/1381657470653890565" ],
+      "published" : [ "2021-04-12T17:16:25+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:AP" ],
+          "numeric-id" : [ "51241574" ],
+          "name" : [ "The Associated Press" ],
+          "nickname" : [ "AP" ],
+          "url" : [ "https://twitter.com/AP", "https://apnews.com/" ],
+          "published" : [ "2009-06-26T21:48:52+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Global" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "BREAKING: Police officer who fired a single shot that killed Daunte Wright, a Black man, intended to discharge a Taser, Minnesota police chief says. apne.ws/lzElPde",
+        "html" : "BREAKING: Police officer who fired a single shot that killed Daunte Wright, a Black man, intended to discharge a Taser, Minnesota police chief says. <a href=\"http://apne.ws/lzElPde\">apne.ws/lzElPde</a>"
+      } ]
+    }
+  } ]
+}
