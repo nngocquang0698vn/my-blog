@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381571321344196616" ],
+    "url" : [ "https://twitter.com/technottingham/status/1381571321344196616" ],
+    "published" : [ "2021-04-12T11:34:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🚨 TONIGHT 🚨\n\nWe have @JamieTanna talking all about the #indieWeb and owning your data plus we'll be asking you to share your personal sites in the second half!\n\n⏰ Online from 18.30 nott.tech/tn-apr-2021",
+      "html" : "<div style=\"white-space: pre\">🚨 TONIGHT 🚨\n\nWe have <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> talking all about the <a href=\"https://twitter.com/search?q=%23indieWeb\">#indieWeb</a> and owning your data plus we'll be asking you to share your personal sites in the second half!\n\n⏰ Online from 18.30 <a href=\"http://nott.tech/tn-apr-2021\">nott.tech/tn-apr-2021</a></div>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EyxTy2OWYAEmY8G.jpg",
+      "alt" : "Tech Nottingham presents The Indie Web Movement by Jamie Tanna - tech lead at capital one. Monday 12th April at 18.30. online only at techNottingham.com"
+    } ]
+  }
+}
