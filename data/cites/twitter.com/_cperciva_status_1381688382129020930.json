@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381688382129020930" ],
+    "url" : [ "https://twitter.com/cperciva/status/1381688382129020930" ],
+    "published" : [ "2021-04-12T19:19:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cperciva" ],
+        "numeric-id" : [ "17428767" ],
+        "name" : [ "Colin Percival" ],
+        "nickname" : [ "cperciva" ],
+        "url" : [ "https://twitter.com/cperciva", "http://www.daemonology.net/blog/" ],
+        "published" : [ "2008-11-16T22:11:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Burnaby, BC, Canada" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/427942491/Colin.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I strongly disagree with Amazon's description of OpenSearch as being a fork of Elasticsearch.\n\nElasticsearch is a fork of Elasticsearch, because they're the ones who changed the license.  Amazon is just continuing the original open source project which Elasticsearch abandoned.",
+      "html" : "<div style=\"white-space: pre\">I strongly disagree with Amazon's description of OpenSearch as being a fork of Elasticsearch.\n\nElasticsearch is a fork of Elasticsearch, because they're the ones who changed the license.  Amazon is just continuing the original open source project which Elasticsearch abandoned.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1381643738179530754" ],
+      "url" : [ "https://twitter.com/_msw_/status/1381643738179530754" ],
+      "published" : [ "2021-04-12T16:21:51+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:_msw_" ],
+          "numeric-id" : [ "15656207" ],
+          "name" : [ "Matthew S. Wilson" ],
+          "nickname" : [ "_msw_" ],
+          "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "https://www.linkedin.com/in/matthewswilson" ],
+          "published" : [ "2008-07-30T04:04:46+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1227486114933379073/c1gSq4eX.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Today, we at @awscloud are introducing the OpenSearch project, a community-driven, open source fork of Elasticsearch and Kibana. Via the @AWSOpen blog.\n\n#OpenSource #OpenSearch\naws.amazon.com/blogs/opensour…",
+        "html" : "<div style=\"white-space: pre\">Today, we at <a href=\"https://twitter.com/awscloud\">@awscloud</a> are introducing the OpenSearch project, a community-driven, open source fork of Elasticsearch and Kibana. Via the <a href=\"https://twitter.com/AWSOpen\">@AWSOpen</a> blog.\n\n<a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> <a href=\"https://twitter.com/search?q=%23OpenSearch\">#OpenSearch</a>\n<a href=\"https://aws.amazon.com/blogs/opensource/introducing-opensearch/\">aws.amazon.com/blogs/opensour…</a></div>"
+      } ]
+    }
+  } ]
+}
