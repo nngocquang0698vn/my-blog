@@ -18,6 +18,7 @@ events:
   date: 2021-04-12
   url: https://www.technottingham.com/events/tech-nottingham-april-2021
   type: talk
+  video: https://www.youtube.com/watch?v=qFXOZww5mmE
 ---
 In today's age of the Web, we've resigned ourselves to using social Silos, such as Twitter, Facebook or Medium. Content we create on their platforms is owned by them, free for them to profit off it, and we can't move off the platforms because then all our followers would need to use a new platform.
 
