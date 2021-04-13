@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1093729697417052160" ],
+    "url" : [ "https://twitter.com/ImmaRandy/status/1093729697417052160" ],
+    "published" : [ "2019-02-08T04:34:15+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/nataliecolliins/status/1093664025949302784" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ImmaRandy" ],
+        "numeric-id" : [ "509537006" ],
+        "name" : [ "Sick boi" ],
+        "nickname" : [ "ImmaRandy" ],
+        "url" : [ "https://twitter.com/ImmaRandy" ],
+        "published" : [ "2012-03-01T01:19:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Naples, FL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307311286842253316/Q6U1i-W8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Pockets on all our clothes.",
+      "html" : "Pockets on all our clothes.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nataliecolliins\"></a>"
+    } ]
+  }
+}
