@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1380295423995301888" ],
+    "url" : [ "https://twitter.com/askipdivided/status/1380295423995301888" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1380295384547921928/pu/vid/640x480/Ho4mh-fPo4zM537A.mp4?tag=12" ],
+    "published" : [ "2021-04-08T23:04:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:askipdivided" ],
+        "numeric-id" : [ "111671151" ],
+        "name" : [ "padma’s got a gun" ],
+        "nickname" : [ "askipdivided" ],
+        "url" : [ "https://twitter.com/askipdivided", "http://www.ashleyfly.com" ],
+        "published" : [ "2010-02-05T19:17:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nashville" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364267482547171331/4Exdq-UA.jpg" ]
+      }
+    } ],
+    "content" : [ "oh my fucking god" ]
+  }
+}
