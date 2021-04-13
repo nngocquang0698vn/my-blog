@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381449712428060672" ],
+    "url" : [ "https://twitter.com/Danez_Smif/status/1381449712428060672" ],
+    "published" : [ "2021-04-12T03:30:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Danez_Smif" ],
+        "numeric-id" : [ "30183485" ],
+        "name" : [ "Anita Ward’s Bell" ],
+        "nickname" : [ "Danez_Smif" ],
+        "url" : [ "https://twitter.com/Danez_Smif", "http://www.danezsmithpoet.com" ],
+        "published" : [ "2009-04-10T07:57:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "East of where Prince hooped " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1230901398121795584/psBsEgFB.jpg" ]
+      }
+    } ],
+    "content" : [ "It is safer to be a white man who just killed multiple people than it is to be a Black person in a traffic stop and if that doesn’t tell you everything you need to know about how abundant, unflinching, and grounded racism is in this awful country, I don’t know what to tell you." ]
+  }
+}
