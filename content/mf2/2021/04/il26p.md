@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cperciva/status/1381688382129020930" ],
     "name" : [ "Like of @cperciva's tweet" ],
     "published" : [ "2021-04-13T15:26:00+0100" ],
     "like-of" : [ "https://twitter.com/cperciva/status/1381688382129020930" ],
