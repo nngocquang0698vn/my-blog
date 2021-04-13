@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381975153068892172" ],
+    "url" : [ "https://twitter.com/technottingham/status/1381975153068892172" ],
+    "published" : [ "2021-04-13T14:18:47+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1381941470446419968" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:technottingham" ],
+        "numeric-id" : [ "384492431" ],
+        "name" : [ "Tech Nottingham" ],
+        "nickname" : [ "technottingham" ],
+        "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+        "published" : [ "2011-10-03T19:47:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Had no idea you had a blog you know 🤔",
+      "html" : "Had no idea you had a blog you know 🤔\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
