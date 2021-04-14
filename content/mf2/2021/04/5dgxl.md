@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrandsOwned/status/1381978446625005569" ],
     "name" : [ "Like of @BrandsOwned's tweet" ],
     "published" : [ "2021-04-14T11:13:00+0100" ],
     "like-of" : [ "https://twitter.com/BrandsOwned/status/1381978446625005569" ],
