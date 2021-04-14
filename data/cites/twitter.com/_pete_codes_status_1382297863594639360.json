@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382297863594639360" ],
+    "url" : [ "https://twitter.com/pete_codes/status/1382297863594639360" ],
+    "published" : [ "2021-04-14T11:41:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/helenleigh/status/1382165146668298242" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pete_codes" ],
+        "numeric-id" : [ "15156749" ],
+        "name" : [ "Pete Gallagher - Azure #MVPBuzz" ],
+        "nickname" : [ "pete_codes" ],
+        "url" : [ "https://twitter.com/pete_codes", "https://www.petecodes.co.uk" ],
+        "published" : [ "2008-06-18T11:20:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361011942408785920/Xr1-acbr.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I bet @JamieTanna and @anna_hax could offer some guidance here!",
+      "html" : "I bet <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> and <a href=\"https://twitter.com/anna_hax\">@anna_hax</a> could offer some guidance here!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/helenleigh\"></a>"
+    } ]
+  }
+}
