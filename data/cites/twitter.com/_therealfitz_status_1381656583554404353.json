@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1381656583554404353" ],
+    "url" : [ "https://twitter.com/therealfitz/status/1381656583554404353" ],
+    "published" : [ "2021-04-12T17:12:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:therealfitz" ],
+        "numeric-id" : [ "14515931" ],
+        "name" : [ "Brian Fitzpatrick" ],
+        "nickname" : [ "therealfitz" ],
+        "url" : [ "https://twitter.com/therealfitz", "http://www.red-bean.com/fitz/", "http://exploretock.com" ],
+        "published" : [ "2008-04-24T18:52:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/803279158067347458/I1idY7-N.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm really grateful that the FSF board took the time to clarify this. \n\nThis makes it crystal clear that they's rather have RMS around than become an inclusive and welcoming environment to more than half the people who write software.\n\nToxic to the core.",
+      "html" : "<div style=\"white-space: pre\">I'm really grateful that the FSF board took the time to clarify this. \n\nThis makes it crystal clear that they's rather have RMS around than become an inclusive and welcoming environment to more than half the people who write software.\n\nToxic to the core.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1381640087314792453" ],
+      "url" : [ "https://twitter.com/fsf/status/1381640087314792453" ],
+      "published" : [ "2021-04-12T16:07:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:fsf" ],
+          "numeric-id" : [ "14662473" ],
+          "name" : [ "Free Software Fndn." ],
+          "nickname" : [ "fsf" ],
+          "url" : [ "https://twitter.com/fsf", "https://www.fsf.org" ],
+          "published" : [ "2008-05-05T17:53:04+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Boston, MA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/471735621946314752/imENUbEK.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Statement of FSF board on election of Richard Stallman (RMS): u.fsf.org/3bf",
+        "html" : "Statement of FSF board on election of Richard Stallman (RMS): <a href=\"https://u.fsf.org/3bf\">u.fsf.org/3bf</a>"
+      } ]
+    }
+  } ]
+}
