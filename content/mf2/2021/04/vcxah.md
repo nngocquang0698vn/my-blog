@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1382239819720491008" ],
     "published" : [ "2021-04-14T07:48:24.258Z" ],
     "category" : [ "homebrew-website-club", "tech-nottingham" ],
     "content" : [ {
