@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382149838452764675" ],
+    "url" : [ "https://twitter.com/therealfitz/status/1382149838452764675" ],
+    "published" : [ "2021-04-14T01:52:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:therealfitz" ],
+        "numeric-id" : [ "14515931" ],
+        "name" : [ "Brian Fitzpatrick" ],
+        "nickname" : [ "therealfitz" ],
+        "url" : [ "https://twitter.com/therealfitz", "http://www.red-bean.com/fitz/", "http://exploretock.com" ],
+        "published" : [ "2008-04-24T18:52:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/803279158067347458/I1idY7-N.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Glad to see I'm not the only Fitz who's had it with the FSF today. Nice work @bradfitz!\n\ngithub.com/golang/go/comm…",
+      "html" : "<div style=\"white-space: pre\">Glad to see I'm not the only Fitz who's had it with the FSF today. Nice work <a href=\"https://twitter.com/bradfitz\">@bradfitz</a>!\n\n<a href=\"https://github.com/golang/go/commit/13a4e8c41cd1d242a435d44e7f66f370e5306a8c\">github.com/golang/go/comm…</a></div>"
+    } ]
+  }
+}
