@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/I_Be_kOoLz/status/1382447386295947264" ],
     "name" : [ "Like of @I_Be_kOoLz's tweet" ],
     "published" : [ "2021-04-15T16:45:00+0100" ],
     "like-of" : [ "https://twitter.com/I_Be_kOoLz/status/1382447386295947264" ],
