@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382686392803852291" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1382686392803852291" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1382686383291179015/pu/vid/480x480/wKqkcW3AMTjkh5en.mp4?tag=12" ],
+    "published" : [ "2021-04-15T13:24:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378872182382735362/vigPW8mE.jpg" ]
+      }
+    } ],
+    "content" : [ "Good morning! 😽" ]
+  }
+}
