@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382622527420256256" ],
+    "url" : [ "https://twitter.com/joeshooman/status/1382622527420256256" ],
+    "published" : [ "2021-04-15T09:11:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Jaimi_Shrive/status/1382619903602069504" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:joeshooman" ],
+        "numeric-id" : [ "28555063" ],
+        "name" : [ "Elvis A-Z out on March 23rd 2021!!!!" ],
+        "nickname" : [ "joeshooman" ],
+        "url" : [ "https://twitter.com/joeshooman", "http://www.joeshooman.com" ],
+        "published" : [ "2009-04-03T12:49:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "On the smudgy border" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364529506942394368/fC-BfDhN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "reminds me of that joke: \"People keep telling me at weddings, 'you're next'. I'm gonna start doing the same at funerals.\"",
+      "html" : "reminds me of that joke: \"People keep telling me at weddings, 'you're next'. I'm gonna start doing the same at funerals.\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Jaimi_Shrive\"></a>"
+    } ]
+  }
+}
