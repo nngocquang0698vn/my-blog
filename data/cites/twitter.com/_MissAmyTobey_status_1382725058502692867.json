@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382725058502692867" ],
+    "url" : [ "https://twitter.com/MissAmyTobey/status/1382725058502692867" ],
+    "published" : [ "2021-04-15T15:58:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MissAmyTobey" ],
+        "numeric-id" : [ "146248951" ],
+        "name" : [ "Miss Amy" ],
+        "nickname" : [ "MissAmyTobey" ],
+        "url" : [ "https://twitter.com/MissAmyTobey", "http://tobert.org" ],
+        "published" : [ "2010-05-20T23:59:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344113845816549376/XoQp6h-Z.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "heal from burnout with this 2-step process:\n1.) have lots of extra money and/or few responsibilities\n2.) \"funemployment\"",
+      "html" : "<div style=\"white-space: pre\">heal from burnout with this 2-step process:\n1.) have lots of extra money and/or few responsibilities\n2.) \"funemployment\"</div>"
+    } ]
+  }
+}
