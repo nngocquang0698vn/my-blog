@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MissAmyTobey/status/1382725058502692867" ],
     "name" : [ "Like of @MissAmyTobey's tweet" ],
     "published" : [ "2021-04-15T17:42:00+0100" ],
     "category" : [ "burnout", "mental-health" ],
