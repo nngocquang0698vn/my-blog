@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krisnova/status/1382501060569223171" ],
     "name" : [ "Like of @krisnova's tweet" ],
     "published" : [ "2021-04-15T08:02:00+0100" ],
     "category" : [ "vim", "politics" ],
