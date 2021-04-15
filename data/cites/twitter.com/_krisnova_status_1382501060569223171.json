@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382501060569223171" ],
+    "url" : [ "https://twitter.com/krisnova/status/1382501060569223171" ],
+    "published" : [ "2021-04-15T01:08:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "kris nóva" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://nivenly.com", "http://nivenly.com/live" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🏴‍☠️" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373849820398448640/z4wufloD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "does anyone have any good resources for a first time VIM user? i am finally putting emacs to rest given the state of the software foundation formally known as the FSF\n\nyes. i am converting to vim to stand up against this.",
+      "html" : "<div style=\"white-space: pre\">does anyone have any good resources for a first time VIM user? i am finally putting emacs to rest given the state of the software foundation formally known as the FSF\n\nyes. i am converting to vim to stand up against this.</div>"
+    } ]
+  }
+}
