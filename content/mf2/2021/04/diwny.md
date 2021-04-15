@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DivineOps/status/1382686392803852291" ],
     "name" : [ "Like of @DivineOps's tweet" ],
     "published" : [ "2021-04-15T14:32:00+0100" ],
     "category" : [ "cute" ],
