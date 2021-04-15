@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382723793773219842" ],
+    "url" : [ "https://twitter.com/shelbyspees/status/1382723793773219842" ],
+    "published" : [ "2021-04-15T15:53:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shelbyspees" ],
+        "numeric-id" : [ "3852838154" ],
+        "name" : [ "shelby spees is staying home 😷" ],
+        "nickname" : [ "shelbyspees" ],
+        "url" : [ "https://twitter.com/shelbyspees", "https://shelbyspees.com/links" ],
+        "published" : [ "2015-10-11T00:20:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336354226490855427/EbVexfiJ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "MacOS devs: please add .DS_Store to your .gitignore_global\n\nplease",
+      "html" : "<div style=\"white-space: pre\">MacOS devs: please add .DS_Store to your .gitignore_global\n\nplease</div>"
+    } ]
+  }
+}
