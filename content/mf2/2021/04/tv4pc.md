@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sararoebuckx/status/1382779402908471300" ],
     "name" : [ "Like of @sararoebuckx's tweet" ],
     "published" : [ "2021-04-16T16:39:00+0100" ],
     "category" : [ "politics" ],
