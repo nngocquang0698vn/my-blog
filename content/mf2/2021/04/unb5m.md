@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BriHallOfficial/status/1382822512556343298" ],
     "name" : [ "Like of @BriHallOfficial's tweet" ],
     "published" : [ "2021-04-16T14:25:00+0100" ],
     "category" : [ "politics" ],
