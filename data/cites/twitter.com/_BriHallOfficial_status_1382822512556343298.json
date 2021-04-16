@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382822512556343298" ],
+    "url" : [ "https://twitter.com/BriHallOfficial/status/1382822512556343298" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1382822456461697026/pu/vid/576x1024/ll_mQ1qSqRCF1x30.mp4?tag=12" ],
+    "published" : [ "2021-04-15T22:25:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BriHallOfficial" ],
+        "numeric-id" : [ "231355929" ],
+        "name" : [ "LA HARA (Breaker of Combs)" ],
+        "nickname" : [ "BriHallOfficial" ],
+        "url" : [ "https://twitter.com/BriHallOfficial", "https://youtu.be/6vMAPxXIXCk" ],
+        "published" : [ "2010-12-28T08:26:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369736144833847298/UPvh4JZi.jpg" ]
+      }
+    } ],
+    "content" : [ "Real News. These reporters did not let up" ]
+  }
+}
