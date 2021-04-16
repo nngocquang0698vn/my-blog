@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382778571660333059" ],
+    "url" : [ "https://twitter.com/jxeker/status/1382778571660333059" ],
+    "published" : [ "2021-04-15T19:31:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jxeker" ],
+        "numeric-id" : [ "2745274901" ],
+        "name" : [ "︎joe" ],
+        "nickname" : [ "jxeker" ],
+        "url" : [ "https://twitter.com/jxeker", "http://instagram.com/jxeker" ],
+        "published" : [ "2014-08-17T11:34:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "uk" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1375206139525222402/BDHcGC10.jpg" ]
+      }
+    } ],
+    "content" : [ "https://t.co/mHXvrvKRhU" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzCdx40WgAAANVl.jpg", "https://pbs.twimg.com/media/EzCdx4uXMAU44nz.jpg", "https://pbs.twimg.com/media/EzCdx4tXMAAyDv5.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1382776250704494593" ],
+      "url" : [ "https://twitter.com/spectator/status/1382776250704494593" ],
+      "published" : [ "2021-04-15T19:22:03+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:spectator" ],
+          "numeric-id" : [ "16683666" ],
+          "name" : [ "The Spectator" ],
+          "nickname" : [ "spectator" ],
+          "url" : [ "https://twitter.com/spectator", "http://www.spectator.co.uk", "http://www.spectator.co.uk/subscribe" ],
+          "published" : [ "2008-10-10T14:26:35+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1261240647564120065/5liGH2y8.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Is Prince Andrew redeeming himself?\n\n✍️ Peter Hunt\n\nspectator.co.uk/article/the-ro…",
+        "html" : "<div style=\"white-space: pre\">Is Prince Andrew redeeming himself?\n\n✍️ Peter Hunt\n\n<a href=\"https://www.spectator.co.uk/article/the-royal-redemption-of-prince-andrew\">spectator.co.uk/article/the-ro…</a></div>"
+      } ]
+    }
+  } ]
+}
