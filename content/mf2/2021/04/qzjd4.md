@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheWillHoward11/status/1382940443634241537" ],
     "name" : [ "Like of @TheWillHoward11's tweet" ],
     "published" : [ "2021-04-16T14:25:00+0100" ],
     "category" : [ "politics" ],
