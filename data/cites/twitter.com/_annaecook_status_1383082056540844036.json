@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383082056540844036" ],
+    "url" : [ "https://twitter.com/annaecook/status/1383082056540844036" ],
+    "published" : [ "2021-04-16T15:37:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:annaecook" ],
+        "numeric-id" : [ "549861506" ],
+        "name" : [ "Anna E. Cook ✨" ],
+        "nickname" : [ "annaecook" ],
+        "url" : [ "https://twitter.com/annaecook", "http://annaecook.com/links" ],
+        "published" : [ "2012-04-10T06:21:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Colorado, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369856172631592963/Rc1x_nCT.jpg" ]
+      }
+    } ],
+    "content" : [ "This coworker is needy" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/EzGxharVoAY8jvE.jpg",
+      "alt" : "Anna, a blonde woman with an asymmetrical bob haircut, sitting in front of a book case. A black cat is sitting on her shoulder like a parrot."
+    } ]
+  }
+}
