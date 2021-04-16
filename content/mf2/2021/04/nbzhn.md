@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wolfmercury/status/1382741344993497096" ],
     "name" : [ "Like of @wolfmercury's tweet" ],
     "published" : [ "2021-04-16T19:29:00+0100" ],
     "category" : [ "art" ],
