@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382779402908471300" ],
+    "url" : [ "https://twitter.com/sararoebuckx/status/1382779402908471300" ],
+    "published" : [ "2021-04-15T19:34:35+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/spectator/status/1382776250704494593" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sararoebuckx" ],
+        "numeric-id" : [ "115974534" ],
+        "name" : [ "sara✨" ],
+        "nickname" : [ "sararoebuckx" ],
+        "url" : [ "https://twitter.com/sararoebuckx", "http://m.huffpost.com/uk/entry/13722196?ncid=tweetlnkushpmg00000067" ],
+        "published" : [ "2010-02-20T17:11:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344337076528029699/pOIQy_YL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "He slept with trafficked teenagers, what the fuck is wrong with you lot",
+      "html" : "He slept with trafficked teenagers, what the fuck is wrong with you lot\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/spectator\"></a>"
+    } ]
+  }
+}
