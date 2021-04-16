@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jxeker/status/1382778571660333059" ],
     "name" : [ "Like of @jxeker's tweet" ],
     "published" : [ "2021-04-16T16:39:00+0100" ],
     "category" : [ "politics" ],
