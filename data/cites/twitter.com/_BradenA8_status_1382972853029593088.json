@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382972853029593088" ],
+    "url" : [ "https://twitter.com/BradenA8/status/1382972853029593088" ],
+    "published" : [ "2021-04-16T08:23:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ReallyNiceDerek/status/1382960038441066496" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BradenA8" ],
+        "numeric-id" : [ "215434818" ],
+        "name" : [ "B is for Braden" ],
+        "nickname" : [ "BradenA8" ],
+        "url" : [ "https://twitter.com/BradenA8" ],
+        "published" : [ "2010-11-13T22:57:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Coventry" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1103323691990110209/hkp_moKw.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "He's a pedophile, Derek.",
+      "html" : "He's a pedophile, Derek.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReallyNiceDerek\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/spectator\"></a>"
+    } ]
+  }
+}
