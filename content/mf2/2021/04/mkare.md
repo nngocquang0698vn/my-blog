@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Kamanin_1/status/1382739406767947780" ],
     "name" : [ "Like of @Kamanin_1's tweet" ],
     "published" : [ "2021-04-17T19:10:00+0100" ],
     "category" : [ "tiktok" ],
