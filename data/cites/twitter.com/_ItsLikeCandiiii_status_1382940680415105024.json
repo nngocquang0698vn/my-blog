@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1382940680415105024" ],
+    "url" : [ "https://twitter.com/ItsLikeCandiiii/status/1382940680415105024" ],
+    "published" : [ "2021-04-16T06:15:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ItsLikeCandiiii" ],
+        "numeric-id" : [ "113823127" ],
+        "name" : [ "Candi" ],
+        "nickname" : [ "ItsLikeCandiiii" ],
+        "url" : [ "https://twitter.com/ItsLikeCandiiii" ],
+        "published" : [ "2010-02-13T04:51:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Candy Land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325063989005414407/H9VrZr4V.jpg" ]
+      }
+    } ],
+    "content" : [ "If you aren’t ready to wear coordinating shirts like this, just leave me alone!" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzExN2xVIAUCKXn.jpg" ]
+  }
+}
