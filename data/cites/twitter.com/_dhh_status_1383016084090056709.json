@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383016084090056709" ],
+    "url" : [ "https://twitter.com/dhh/status/1383016084090056709" ],
+    "published" : [ "2021-04-16T11:15:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/dhh/status/1383014287321530368" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dhh" ],
+        "numeric-id" : [ "14561327" ],
+        "name" : [ "DHH" ],
+        "nickname" : [ "dhh" ],
+        "url" : [ "https://twitter.com/dhh", "https://world.hey.com/dhh" ],
+        "published" : [ "2008-04-27T20:19:25+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A single bitcoin transaction now consumes almost a thousand kWh. Or a month's worth of power consumption for an average US household. 🤯☠️ digiconomist.net/bitcoin-energy…",
+      "html" : "A single bitcoin transaction now consumes almost a thousand kWh. Or a month's worth of power consumption for an average US household. 🤯☠️ <a href=\"https://digiconomist.net/bitcoin-energy-consumption\">digiconomist.net/bitcoin-energy…</a>"
+    } ]
+  }
+}
