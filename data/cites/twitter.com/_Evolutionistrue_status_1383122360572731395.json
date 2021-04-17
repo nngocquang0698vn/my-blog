@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383122360572731395" ],
+    "url" : [ "https://twitter.com/Evolutionistrue/status/1383122360572731395" ],
+    "published" : [ "2021-04-16T18:17:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Evolutionistrue" ],
+        "numeric-id" : [ "127305588" ],
+        "name" : [ "Jerry Coyne" ],
+        "nickname" : [ "Evolutionistrue" ],
+        "url" : [ "https://twitter.com/Evolutionistrue", "https://whyevolutionistrue.wordpress.com/" ],
+        "published" : [ "2010-03-28T19:29:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The University of Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379023341974065155/Eg40-Y5P.jpg" ]
+      }
+    } ],
+    "content" : [ "Best art meme of the year so far (h/t: Matthew Cobb)" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzHWc6GXIAUzmc_.jpg" ]
+  }
+}
