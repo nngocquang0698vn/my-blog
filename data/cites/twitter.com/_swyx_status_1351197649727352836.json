@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1351197649727352836" ],
+    "url" : [ "https://twitter.com/swyx/status/1351197649727352836" ],
+    "published" : [ "2021-01-18T15:59:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "name" : [ "swyx" ],
+        "nickname" : [ "swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io", "http://learninpublic.org" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Singapore" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360406256842797056/qhvO9V6x.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🆕 My Three Strikes Rule for Blogging\n\nswyx.io/three-strikes/",
+      "html" : "<div style=\"white-space: pre\">🆕 My Three Strikes Rule for Blogging\n\n<a href=\"https://www.swyx.io/three-strikes/\">swyx.io/three-strikes/</a></div>"
+    } ]
+  }
+}
