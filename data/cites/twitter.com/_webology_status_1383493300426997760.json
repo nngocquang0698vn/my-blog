@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383493300426997760" ],
+    "url" : [ "https://twitter.com/webology/status/1383493300426997760" ],
+    "published" : [ "2021-04-17T18:51:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:webology" ],
+        "numeric-id" : [ "12583982" ],
+        "name" : [ "Jeff Triplett 💉⏳" ],
+        "nickname" : [ "webology" ],
+        "url" : [ "https://twitter.com/webology", "https://jefftriplett.com" ],
+        "published" : [ "2008-01-23T06:53:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lawrence, KS" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907277477935964161/ZSxasCvw.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🤔 Has anyone seen a good, modern breakdown of licenses? \n\nSomething that compares open, apache2, blue oak, PolyForm, etc in a chart and/or long form would be amazing.",
+      "html" : "<div style=\"white-space: pre\">🤔 Has anyone seen a good, modern breakdown of licenses? \n\nSomething that compares open, apache2, blue oak, PolyForm, etc in a chart and/or long form would be amazing.</div>"
+    } ]
+  }
+}
