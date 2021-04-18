@@ -8,6 +8,7 @@
     "syndication" : [ "https://twitter.com/JamieTanna/status/1383815123500867589" ],
     "name" : [ "Reply to https://twitter.com/Dixie3Flatline/status/1383795295994011657" ],
     "published" : [ "2021-04-18T17:07:00+0100" ],
+    "category" : [ "university" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
@@ -16,5 +17,6 @@
   },
   "kind" : "replies",
   "slug" : "2021/04/pe6gn",
+  "tags" : [ "university" ],
   "client_id" : "https://indigenous.realize.be/"
 }
