@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Hey <a href=\"/tags/chef-friends/\"><a href=\"/tags/chef/\">#Chef</a>Friends</a> how do you generally manage syncing a cookbook between Supermarket and <a href=\"/tags/chef/\">#Chef</a> Server? Wondered if there's anything currently out there to pull the cookbook and it's dependencies, in the right order to Server?"
+      "value" : "Hey <a href=\"/tags/chef-friends/\">#ChefFriends</a> how do you generally manage syncing a cookbook between Supermarket and <a href=\"/tags/chef/\">#Chef</a> Server? Wondered if there's anything currently out there to pull the cookbook and it's dependencies, in the right order to Server?"
     } ]
   },
   "kind" : "notes",
