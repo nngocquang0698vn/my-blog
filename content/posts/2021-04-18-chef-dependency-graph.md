@@ -79,12 +79,15 @@ def resolve(node, resolved)
 end
 
 cookbook_name = ARGV[0]
+version = ARGV[1]
 
 File.open('Berksfile', 'w') do |f|
+  cookbook_string = "cookbook '#{cookbook_name}'"
+  cookbook_string += ", '#{version}'" unless version.nil?
   contents = <<-BERKSFILE
   source 'https://supermarket.chef.io'
 
-  cookbook '#{cookbook_name}'
+  #{cookbook_string}
   BERKSFILE
 
   f.write(contents)
@@ -111,7 +114,8 @@ jj resolved
 For example, we can run this script to resolve the `consul` cookbook's dependencies like so:
 
 ```sh
-chef exec ruby resolve.rb consul
+chef exec ruby resolve.rb consul       # for latest version
+chef exec ruby resolve.rb consul 4.5.0 # or for a specific version
 ```
 
 This results in a JSON array with the versions which provides the list of cookbooks, in order of how they need to be installed so the final entry, in this case `consul`, can be correctly uploaded to Chef Server:
