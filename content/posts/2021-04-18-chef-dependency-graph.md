@@ -81,6 +81,8 @@ end
 cookbook_name = ARGV[0]
 version = ARGV[1]
 
+File.delete('Berksfile.lock') if File.exist?('Berksfile.lock')
+
 File.open('Berksfile', 'w') do |f|
   cookbook_string = "cookbook '#{cookbook_name}'"
   cookbook_string += ", '#{version}'" unless version.nil?
