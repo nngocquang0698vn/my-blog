@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383750454396420104" ],
+    "url" : [ "https://twitter.com/DivineOps/status/1383750454396420104" ],
+    "published" : [ "2021-04-18T11:53:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DivineOps" ],
+        "numeric-id" : [ "444131405" ],
+        "name" : [ "Sasha Rosenbaum" ],
+        "nickname" : [ "DivineOps" ],
+        "url" : [ "https://twitter.com/DivineOps", "http://sasharosenbaum.com" ],
+        "published" : [ "2011-12-22T22:56:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378872182382735362/vigPW8mE.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Look, I believe in academic education\n\nI wouldn't be finishing my 2nd degree if I didn't\n\nBut there is NOTHING I've learned in C.S. that I couldn't have learned outside the university\n\nAnd there are LOTS of career-relevant things I could never have learned in university",
+      "html" : "<div style=\"white-space: pre\">Look, I believe in academic education\n\nI wouldn't be finishing my 2nd degree if I didn't\n\nBut there is NOTHING I've learned in C.S. that I couldn't have learned outside the university\n\nAnd there are LOTS of career-relevant things I could never have learned in university</div>"
+    } ]
+  }
+}
