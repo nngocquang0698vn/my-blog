@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DivineOps/status/1383750454396420104" ],
     "name" : [ "Like of @DivineOps's tweet" ],
     "published" : [ "2021-04-18T17:12:00+0100" ],
     "category" : [ "university" ],
