@@ -5,7 +5,6 @@ date: 2021-04-18T11:51:21+0100
 tags:
 - "blogumentation"
 - "chef"
-- "test-kitchen"
 - "berkshelf"
 - "ruby"
 license_code: Apache-2.0
