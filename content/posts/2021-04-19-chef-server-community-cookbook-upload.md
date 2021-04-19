@@ -37,3 +37,5 @@ berks upload
 ```
 
 Where `berks upload` will use the Chef configuration (i.e. in `config.rb`) and upload to the given Chef Server.
+
+Note that this will only pull the latest versions of cookbooks - I'm looking at what we can do to be more conservative against what's available in the Chef Server.
