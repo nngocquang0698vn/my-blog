@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/garfpooop/status/1384190717547843597" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1384465074480369664" ],
     "name" : [ "Reply to https://twitter.com/garfpooop/status/1384190717547843597" ],
     "published" : [ "2021-04-20T12:04:00+0100" ],
     "category" : [ "shitpost" ],
