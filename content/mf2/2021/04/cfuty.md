@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sadsleepygirl23/status/1383807904474484741" ],
     "name" : [ "Like of @sadsleepygirl23's tweet" ],
     "published" : [ "2021-04-20T12:45:00+0100" ],
     "category" : [ "shitpost", "social-media" ],
