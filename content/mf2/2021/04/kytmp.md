@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/umiscar/status/1384221892123402243" ],
     "name" : [ "Like of @umiscar's tweet" ],
     "published" : [ "2021-04-20T16:24:00+0100" ],
     "category" : [ "memes" ],
