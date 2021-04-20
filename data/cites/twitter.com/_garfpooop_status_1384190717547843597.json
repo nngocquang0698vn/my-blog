@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384190717547843597" ],
+    "url" : [ "https://twitter.com/garfpooop/status/1384190717547843597" ],
+    "published" : [ "2021-04-19T17:02:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:garfpooop" ],
+        "numeric-id" : [ "1265434492849840130" ],
+        "name" : [ "garf,,,the quaranteen" ],
+        "nickname" : [ "garfpooop" ],
+        "url" : [ "https://twitter.com/garfpooop" ],
+        "published" : [ "2020-05-27T00:07:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "he/him 18" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379544457859764224/ej_PWRRj.jpg" ]
+      }
+    } ],
+    "content" : [ "What did I do" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzWiHnzVkAAoAft.jpg" ]
+  }
+}
