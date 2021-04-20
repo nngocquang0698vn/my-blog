@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384248677980463107" ],
+    "url" : [ "https://twitter.com/benegotherit/status/1384248677980463107" ],
+    "published" : [ "2021-04-19T20:52:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:benegotherit" ],
+        "numeric-id" : [ "1186816632661958657" ],
+        "name" : [ "Honey, as a bit" ],
+        "nickname" : [ "benegotherit" ],
+        "url" : [ "https://twitter.com/benegotherit" ],
+        "published" : [ "2019-10-23T01:28:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347694225635352578/jP8ns3sT.jpg" ]
+      }
+    } ],
+    "content" : [ "How dare you tweet something which fails to consider every possible facet of human experience" ]
+  }
+}
