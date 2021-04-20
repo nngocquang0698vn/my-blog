@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomlarkworthy/status/1384461974470279169" ],
     "name" : [ "Like of @tomlarkworthy's tweet" ],
     "published" : [ "2021-04-20T22:01:00+0100" ],
     "category" : [ "indieauth" ],
