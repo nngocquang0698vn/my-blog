@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384461974470279169" ],
+    "url" : [ "https://twitter.com/tomlarkworthy/status/1384461974470279169" ],
+    "published" : [ "2021-04-20T11:00:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tomlarkworthy" ],
+        "numeric-id" : [ "265397376" ],
+        "name" : [ "Tom Larkworthy" ],
+        "nickname" : [ "tomlarkworthy" ],
+        "url" : [ "https://twitter.com/tomlarkworthy", "https://tomlarkworthy.endpointservices.net/", "https://observablehq.com/collection/@endpointservices/services" ],
+        "published" : [ "2011-03-13T13:41:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349790741598498818/G7ppTzF_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A Decentralised IndieAuth Identity Provider hosted on @observablehq.\n\nBuilt on serverless infrastructure so its *trivial* to fork and customize. Costs pennies a month to host. \n\nCompatible with @Firebase as a custom auth provider.\n\nobservablehq.com/@endpointservi…",
+      "html" : "<div style=\"white-space: pre\">A Decentralised IndieAuth Identity Provider hosted on <a href=\"https://twitter.com/observablehq\">@observablehq</a>.\n\nBuilt on serverless infrastructure so its *trivial* to fork and customize. Costs pennies a month to host. \n\nCompatible with <a href=\"https://twitter.com/Firebase\">@Firebase</a> as a custom auth provider.\n\n<a href=\"https://observablehq.com/@endpointservices/auth\">observablehq.com/@endpointservi…</a></div>"
+    } ]
+  }
+}
