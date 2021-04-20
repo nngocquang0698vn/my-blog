@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1383807904474484741" ],
+    "url" : [ "https://twitter.com/sadsleepygirl23/status/1383807904474484741" ],
+    "published" : [ "2021-04-18T15:41:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sadsleepygirl23" ],
+        "numeric-id" : [ "444336957" ],
+        "name" : [ "Chicken Skin Isabella" ],
+        "nickname" : [ "sadsleepygirl23" ],
+        "url" : [ "https://twitter.com/sadsleepygirl23", "https://cash.me/$sabrinasparkle" ],
+        "published" : [ "2011-12-23T04:45:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378780459522473991/8AgBOPPa.jpg" ]
+      }
+    } ],
+    "content" : [ "I thought I may have had to concede that tweet you made was pretty funny but I noticed you didn't encapsulate the entirety of the human condition so better luck next time pal." ]
+  }
+}
