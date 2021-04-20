@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384320080721371136" ],
+    "url" : [ "https://twitter.com/spendergrsec/status/1384320080721371136" ],
+    "published" : [ "2021-04-20T01:36:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:spendergrsec" ],
+        "numeric-id" : [ "317297542" ],
+        "name" : [ "Brad Spengler" ],
+        "nickname" : [ "spendergrsec" ],
+        "url" : [ "https://twitter.com/spendergrsec", "https://www.grsecurity.net" ],
+        "published" : [ "2011-06-14T18:39:02+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1229103528595148802/jdWjVA4k.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "😬 git.kernel.org/pub/scm/linux/…",
+      "html" : "😬 <a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e\">git.kernel.org/pub/scm/linux/…</a>"
+    } ]
+  }
+}
