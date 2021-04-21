@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FiloSottile/status/1384880884562726912" ],
     "name" : [ "Like of @FiloSottile's tweet" ],
     "published" : [ "2021-04-21T17:32:00+0100" ],
     "category" : [ "open-source", "linux" ],
