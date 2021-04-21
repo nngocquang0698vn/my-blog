@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384665002045415435" ],
+    "url" : [ "https://twitter.com/pczarkowski/status/1384665002045415435" ],
+    "published" : [ "2021-04-21T00:27:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pczarkowski" ],
+        "numeric-id" : [ "163997887" ],
+        "name" : [ "Czarcuterie Board of Insults" ],
+        "nickname" : [ "pczarkowski" ],
+        "url" : [ "https://twitter.com/pczarkowski", "http://tech.paulcz.net" ],
+        "published" : [ "2010-07-07T19:59:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/826231488286896128/rRCwQvRh.jpg" ]
+      }
+    } ],
+    "content" : [ "I'm gonna need a bigger mouth.  Wagyu burger finished in Chinese black in pepper sauce, cheese, blackened onion, semi sour pickle, sichuan pepper bacon, egg.  With mac n cheese on the side." ],
+    "photo" : [ "https://pbs.twimg.com/media/EzdRexGVUAMZ_rC.jpg" ]
+  }
+}
