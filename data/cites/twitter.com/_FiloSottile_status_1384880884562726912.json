@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384880884562726912" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1384880884562726912" ],
+    "published" : [ "2021-04-21T14:45:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "name" : [ "Filippo Valsorda 💉💉⏳" ],
+        "nickname" : [ "FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ]
+      }
+    } ],
+    "content" : [ "Possibly unpopular opinion, but I feel like \"only merge things after verifying they are valid\" should maybe be the default policy of the most used piece of software in the world." ],
+    "photo" : [ "https://pbs.twimg.com/media/EzgVlriWUAA9_Gl.jpg" ]
+  }
+}
