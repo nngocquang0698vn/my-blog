@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384917607518715905" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1384917607518715905" ],
+    "published" : [ "2021-04-21T17:11:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "name" : [ "Emelia 👸🏻" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/919075940495495169/tXWpM0Fa.jpg" ]
+      }
+    } ],
+    "content" : [ "When does energy return?" ]
+  }
+}
