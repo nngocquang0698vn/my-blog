@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisIsMissEm/status/1384917607518715905" ],
     "name" : [ "Like of @ThisIsMissEm's tweet" ],
     "published" : [ "2021-04-21T19:25:00+0100" ],
     "category" : [ "burnout" ],
