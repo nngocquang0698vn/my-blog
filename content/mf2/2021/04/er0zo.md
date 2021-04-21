@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pczarkowski/status/1384665002045415435" ],
     "name" : [ "Like of @pczarkowski's tweet" ],
     "published" : [ "2021-04-21T12:55:00+0100" ],
     "category" : [ "food" ],
