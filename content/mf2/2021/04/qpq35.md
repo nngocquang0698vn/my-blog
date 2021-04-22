@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1385339686386864129" ],
     "published" : [ "2021-04-22T22:01:00+0100" ],
     "category" : [ "mental-health" ],
     "repost-of" : [ "https://twitter.com/SparkNotes/status/1385335757959749632" ],
