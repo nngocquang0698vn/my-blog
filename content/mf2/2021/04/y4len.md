@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1385269446848155648" ],
     "published" : [ "2021-04-22T17:21:00+0100" ],
     "category" : [ "nottingham" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1385249568607150081" ],
