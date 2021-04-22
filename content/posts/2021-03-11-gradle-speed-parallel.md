@@ -50,7 +50,7 @@ This will then apply it over each test run in our project, allowing us to signif
 
 However, we may hit issues where our tests don't expect to be running across multiple threads. To avoid these, we can look at the root cause.
 
-I've seen this more commonly when using [slf4j-test for testing your SLF4J logs]({{< ref 2019-09-22-testing-slf4j-logs >}})]({{< ref 2019-09-22-testing-slf4j-logs >}}), where we need to make sure we use the right thread-safe option, so we don't clear / retrieve logs from different threads:
+I've seen this more commonly when using [slf4j-test for testing your SLF4J logs]({{< ref 2019-09-22-testing-slf4j-logs >}}), where we need to make sure we use the right thread-safe option, so we don't clear / retrieve logs from different threads:
 
 ```diff
 -TestLoggerFactory.clearAll()
