@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384910736368050177" ],
+    "url" : [ "https://twitter.com/getawaycrowd/status/1384910736368050177" ],
+    "published" : [ "2021-04-21T16:43:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:getawaycrowd" ],
+        "numeric-id" : [ "917876340711395331" ],
+        "name" : [ "lu 🇵🇪 (taylor’s version)" ],
+        "nickname" : [ "getawaycrowd" ],
+        "url" : [ "https://twitter.com/getawaycrowd" ],
+        "published" : [ "2017-10-10T22:15:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the bad place • minor" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1382767107721531395/nZ-vUXWp.jpg" ]
+      }
+    } ],
+    "content" : [ "has anyone done this yet?" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezgw-BmWYAAgy44.jpg" ]
+  }
+}
