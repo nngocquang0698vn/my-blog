@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1384949514121928707" ],
+    "url" : [ "https://twitter.com/biboofficial/status/1384949514121928707" ],
+    "published" : [ "2021-04-21T19:17:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:biboofficial" ],
+        "numeric-id" : [ "2765849243" ],
+        "name" : [ "bibo" ],
+        "nickname" : [ "biboofficial" ],
+        "url" : [ "https://twitter.com/biboofficial", "http://onlyfans.com/biboofficial" ],
+        "published" : [ "2014-09-09T21:42:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1382437735269425154/mucKThvM.jpg" ]
+      }
+    } ],
+    "content" : [ "got a pretty cool vintage bar cart today. who up and want a cocktail" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzhUPPfVUAEGSqe.jpg", "https://pbs.twimg.com/media/EzhUPPeUYAEbvtT.jpg" ]
+  }
+}
