@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385341158864277505" ],
+    "url" : [ "https://twitter.com/zipoffs/status/1385341158864277505" ],
+    "published" : [ "2021-04-22T21:14:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:zipoffs" ],
+        "numeric-id" : [ "311188161" ],
+        "name" : [ "brady ➐" ],
+        "nickname" : [ "zipoffs" ],
+        "url" : [ "https://twitter.com/zipoffs", "http://instagram.com/lagoonpdx" ],
+        "published" : [ "2011-06-05T01:37:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1241309762047717376/mpRaKQmK.jpg" ]
+      }
+    } ],
+    "content" : [ "made an absolutely devastating typo in the group chat" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezm4bv3VgAEpxgn.jpg", "https://pbs.twimg.com/media/Ezm4bvzUcAA7w2y.jpg", "https://pbs.twimg.com/media/Ezm4bvxVUAYdpor.jpg" ]
+  }
+}
