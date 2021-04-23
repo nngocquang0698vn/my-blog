@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385577749037858818" ],
+    "url" : [ "https://twitter.com/TheDCSentinel/status/1385577749037858818" ],
+    "published" : [ "2021-04-23T12:54:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheDCSentinel" ],
+        "numeric-id" : [ "1278261428" ],
+        "name" : [ "District Sentinel" ],
+        "nickname" : [ "TheDCSentinel" ],
+        "url" : [ "https://twitter.com/TheDCSentinel", "http://districtsentinel.com" ],
+        "published" : [ "2013-03-18T17:01:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320730080142909440/r_BoFvzx.jpg" ]
+      }
+    } ],
+    "content" : [ "Something incredibly bad is about to happen" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzqPnpaX0AIXCk6.jpg" ]
+  }
+}
