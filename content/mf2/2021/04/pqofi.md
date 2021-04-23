@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheDCSentinel/status/1385577749037858818" ],
     "name" : [ "Like of @TheDCSentinel's tweet" ],
     "published" : [ "2021-04-23T19:46:00+0100" ],
     "category" : [ "facebook" ],
