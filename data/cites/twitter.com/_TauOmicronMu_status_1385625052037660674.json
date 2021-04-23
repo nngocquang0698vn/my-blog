@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385625052037660674" ],
+    "url" : [ "https://twitter.com/TauOmicronMu/status/1385625052037660674" ],
+    "published" : [ "2021-04-23T16:02:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TauOmicronMu" ],
+        "numeric-id" : [ "915421104" ],
+        "name" : [ "Tom Goodman 🏳️‍🌈" ],
+        "nickname" : [ "TauOmicronMu" ],
+        "url" : [ "https://twitter.com/TauOmicronMu", "http://xn--xxafo.io/" ],
+        "published" : [ "2012-10-30T20:23:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1122939776242528257/9c_ofxuW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Gave my 500th COVID-19 vaccine today 💉💪 \n\n(Ft. @HackTheMidlands shirt under my scrubs 😉)",
+      "html" : "<div style=\"white-space: pre\">Gave my 500th COVID-19 vaccine today 💉💪 \n\n(Ft. <a href=\"https://twitter.com/HackTheMidlands\">@HackTheMidlands</a> shirt under my scrubs 😉)</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezq6oCmWEAMJEL3.jpg" ]
+  }
+}
