@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385610196982984708" ],
+    "url" : [ "https://twitter.com/cashewshideout/status/1385610196982984708" ],
+    "published" : [ "2021-04-23T15:03:09+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1385609439219224578" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cashewshideout" ],
+        "numeric-id" : [ "217558845" ],
+        "name" : [ "Susan" ],
+        "nickname" : [ "cashewshideout" ],
+        "url" : [ "https://twitter.com/cashewshideout", "https://www.cashewshideout.com" ],
+        "published" : [ "2010-11-19T21:29:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Tampa, Florida" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355498221573992448/Tr1KEtrV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Software Lead Weekly newsletter is where I found it from. softwareleadweekly.com\nGreat article! It is a practice I'm trying to implement more.",
+      "html" : "<div style=\"white-space: pre\">Software Lead Weekly newsletter is where I found it from. <a href=\"http://softwareleadweekly.com\">softwareleadweekly.com</a>\nGreat article! It is a practice I'm trying to implement more.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
