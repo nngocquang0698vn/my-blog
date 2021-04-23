@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TauOmicronMu/status/1385625052037660674" ],
     "name" : [ "Like of @TauOmicronMu's tweet" ],
     "published" : [ "2021-04-23T17:14:00+0100" ],
     "category" : [ "coronavirus" ],
