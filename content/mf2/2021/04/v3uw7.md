@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zipoffs/status/1385341158864277505" ],
     "name" : [ "Like of @zipoffs's tweet" ],
     "published" : [ "2021-04-23T07:13:00+0100" ],
     "category" : [ "shitpost" ],
