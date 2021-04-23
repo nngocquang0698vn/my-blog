@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385611465797799936" ],
+    "url" : [ "https://twitter.com/brandonwright16/status/1385611465797799936" ],
+    "published" : [ "2021-04-23T15:08:11+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/brianbrainbrani/status/1385599815950602250" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:brandonwright16" ],
+        "numeric-id" : [ "273527199" ],
+        "name" : [ "Brandon Wright" ],
+        "nickname" : [ "brandonwright16" ],
+        "url" : [ "https://twitter.com/brandonwright16" ],
+        "published" : [ "2011-03-28T17:24:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378744171935244293/Axv8o4-z.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Meals is just their last name.",
+      "html" : "Meals is just their last name.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheDCSentinel\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brianbrainbrani\"></a>"
+    } ]
+  }
+}
