@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386016394446266375" ],
+    "url" : [ "https://twitter.com/kjenslevart/status/1386016394446266375" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1386016337475084288/pu/vid/576x1024/snHVd0XM1tn59dQJ.mp4?tag=12" ],
+    "published" : [ "2021-04-24T17:57:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kjenslevart" ],
+        "numeric-id" : [ "945228552341000192" ],
+        "name" : [ "Marlene" ],
+        "nickname" : [ "kjenslevart" ],
+        "url" : [ "https://twitter.com/kjenslevart", "http://instagram.com/marlene.jaansen" ],
+        "published" : [ "2017-12-25T09:43:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sarpsborg, Norge" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1374815863170338816/z2DgxjkI.jpg" ]
+      }
+    } ],
+    "content" : [ "we told you so" ]
+  }
+}
