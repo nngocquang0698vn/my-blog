@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385720604376977408" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1385720604376977408" ],
+    "published" : [ "2021-04-23T22:21:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384665256551723008/CySOIxmu.jpg" ]
+      }
+    } ],
+    "content" : [ "I realize that y'all see me responding positively to some thirsty replies, but those are my friends. If we aren't regularly communicating like that through a medium outside of public twitter, please don't try it yourself. It's not endearing or amusing." ]
+  }
+}
