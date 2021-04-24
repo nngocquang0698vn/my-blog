@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kjenslevart/status/1386016394446266375" ],
     "name" : [ "Like of @kjenslevart's tweet" ],
     "published" : [ "2021-04-24T19:23:00+0100" ],
     "category" : [ "diversity-and-inclusion", "tiktok" ],
