@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386042904028667906" ],
+    "url" : [ "https://twitter.com/chantastic/status/1386042904028667906" ],
+    "published" : [ "2021-04-24T19:42:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chantastic" ],
+        "numeric-id" : [ "12745092" ],
+        "name" : [ "Michael Chan" ],
+        "nickname" : [ "chantastic" ],
+        "url" : [ "https://twitter.com/chantastic", "http://chan.dev/blog", "http://lunch.dev", "http://discord.gg/8mZuYE6t5q" ],
+        "published" : [ "2008-01-27T10:05:12+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384009359697399810/B4qf8Va8.jpg" ]
+      }
+    } ],
+    "content" : [ "how do i never see another exiting Vim \"joke\"?" ]
+  }
+}
