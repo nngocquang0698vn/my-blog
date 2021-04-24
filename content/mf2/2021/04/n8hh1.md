@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1385720604376977408" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2021-04-24T10:01:00+0100" ],
     "category" : [ "social-media" ],
