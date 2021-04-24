@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385757613447544833" ],
+    "url" : [ "https://twitter.com/lydiakauppi/status/1385757613447544833" ],
+    "published" : [ "2021-04-24T00:48:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lydiakauppi" ],
+        "numeric-id" : [ "232041001" ],
+        "name" : [ "Lydia Kauppi" ],
+        "nickname" : [ "lydiakauppi" ],
+        "url" : [ "https://twitter.com/lydiakauppi" ],
+        "published" : [ "2010-12-30T03:27:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343575355001610242/MMAZunTx.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EzszM9uX0AgTjBp.jpg" ]
+  }
+}
