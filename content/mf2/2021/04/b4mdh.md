@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lydiakauppi/status/1385757613447544833" ],
     "name" : [ "Like of @lydiakauppi's tweet" ],
     "published" : [ "2021-04-24T19:36:00+0100" ],
     "category" : [ "politics" ],
