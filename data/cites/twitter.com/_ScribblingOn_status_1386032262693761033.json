@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386032262693761033" ],
+    "url" : [ "https://twitter.com/ScribblingOn/status/1386032262693761033" ],
+    "published" : [ "2021-04-24T19:00:17+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ScribblingOn/status/1367233864658268171" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ScribblingOn" ],
+        "numeric-id" : [ "291009942" ],
+        "name" : [ "Shubheksha ✨" ],
+        "nickname" : [ "ScribblingOn" ],
+        "url" : [ "https://twitter.com/ScribblingOn", "https://www.shubheksha.com" ],
+        "published" : [ "2011-05-01T10:03:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "A bubble in England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1131333207780220928/Hpejkti5.jpg" ]
+      }
+    } ],
+    "content" : [ "[food]" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezws_ngX0AAWuEB.jpg" ]
+  }
+}
