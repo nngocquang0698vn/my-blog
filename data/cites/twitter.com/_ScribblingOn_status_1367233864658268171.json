@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1367233864658268171" ],
+    "url" : [ "https://twitter.com/ScribblingOn/status/1367233864658268171" ],
+    "published" : [ "2021-03-03T22:02:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ScribblingOn" ],
+        "numeric-id" : [ "291009942" ],
+        "name" : [ "Shubheksha ✨" ],
+        "nickname" : [ "ScribblingOn" ],
+        "url" : [ "https://twitter.com/ScribblingOn", "https://www.shubheksha.com" ],
+        "published" : [ "2011-05-01T10:03:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "A bubble in England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1131333207780220928/Hpejkti5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "[food]\nHear me out: baklava brownie. \n\nIt is truly a delight.",
+      "html" : "<div style=\"white-space: pre\">[food]\nHear me out: baklava brownie. \n\nIt is truly a delight.</div>"
+    } ]
+  }
+}
