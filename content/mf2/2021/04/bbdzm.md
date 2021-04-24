@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mc_lotta/status/1385712565234270210" ],
     "name" : [ "Like of @mc_lotta's tweet" ],
     "published" : [ "2021-04-24T19:29:00+0100" ],
     "category" : [ "shitpost", "memes" ],
