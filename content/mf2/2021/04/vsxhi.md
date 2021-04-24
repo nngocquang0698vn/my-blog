@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chantastic/status/1386042904028667906" ],
     "name" : [ "Like of @chantastic's tweet" ],
     "published" : [ "2021-04-24T21:44:00+0100" ],
     "category" : [ "vim", "social-media" ],
