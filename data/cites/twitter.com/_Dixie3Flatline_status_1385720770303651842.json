@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385720770303651842" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1385720770303651842" ],
+    "published" : [ "2021-04-23T22:22:31+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1385720604376977408" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384665256551723008/CySOIxmu.jpg" ]
+      }
+    } ],
+    "content" : [ "I know people like this don't read tweets or respect boundaries but like, shit, y'all." ]
+  }
+}
