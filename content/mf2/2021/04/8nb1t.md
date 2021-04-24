@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoContextFBUK/status/1386001369870516225" ],
     "name" : [ "Like of @NoContextFBUK's tweet" ],
     "published" : [ "2021-04-24T19:20:00+0100" ],
     "like-of" : [ "https://twitter.com/NoContextFBUK/status/1386001369870516225" ],
