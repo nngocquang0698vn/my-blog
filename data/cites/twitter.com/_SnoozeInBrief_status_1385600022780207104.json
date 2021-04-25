@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385600022780207104" ],
+    "url" : [ "https://twitter.com/SnoozeInBrief/status/1385600022780207104" ],
+    "published" : [ "2021-04-23T14:22:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SnoozeInBrief" ],
+        "numeric-id" : [ "82947233" ],
+        "name" : [ "Tom Freeman" ],
+        "nickname" : [ "SnoozeInBrief" ],
+        "url" : [ "https://twitter.com/SnoozeInBrief", "http://stroppyeditor.wordpress.com" ],
+        "published" : [ "2009-10-16T18:57:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1276137996304220161/nEX8SZLG.jpg" ]
+      }
+    } ],
+    "content" : [ "When I first got into Gü puddings, I didn't fully understand the ramekinifications." ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezqj4FcXEAEyO4s.jpg" ]
+  }
+}
