@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1386225428227141632" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2021-04-25T13:01:00+0100" ],
     "category" : [ "recruitment" ],
