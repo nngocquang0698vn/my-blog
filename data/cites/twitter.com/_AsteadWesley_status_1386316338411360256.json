@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386316338411360256" ],
+    "url" : [ "https://twitter.com/AsteadWesley/status/1386316338411360256" ],
+    "published" : [ "2021-04-25T13:49:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AsteadWesley" ],
+        "numeric-id" : [ "362111287" ],
+        "name" : [ "Astead" ],
+        "nickname" : [ "AsteadWesley" ],
+        "url" : [ "https://twitter.com/AsteadWesley", "http://instagram.com/asteadwesley" ],
+        "published" : [ "2011-08-25T21:34:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn kinda but not really " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369788101263056901/w503hR4Z.jpg" ]
+      }
+    } ],
+    "content" : [ "https://t.co/N0Pq4eG0yn" ],
+    "photo" : [ "https://pbs.twimg.com/media/Ez0vXPnXoAAHXo5.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1386281168589496327" ],
+      "url" : [ "https://twitter.com/amandacarpenter/status/1386281168589496327" ],
+      "published" : [ "2021-04-25T11:29:21+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:amandacarpenter" ],
+          "numeric-id" : [ "14844867" ],
+          "name" : [ "Amanda Carpenter" ],
+          "nickname" : [ "amandacarpenter" ],
+          "url" : [ "https://twitter.com/amandacarpenter" ],
+          "published" : [ "2008-05-20T13:13:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1351973495241125889/dIcbxv7K.jpg" ]
+        }
+      } ],
+      "content" : [ "My son at 6:05 today. “Mommy, I have a question. How do museums get all their stuff?”" ]
+    }
+  } ]
+}
