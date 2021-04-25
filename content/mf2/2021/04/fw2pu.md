@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justbrizigs/status/1385783834445287429" ],
     "name" : [ "Like of @justbrizigs's tweet" ],
     "published" : [ "2021-04-25T14:57:00+0100" ],
     "category" : [ "cryptocurrency" ],
