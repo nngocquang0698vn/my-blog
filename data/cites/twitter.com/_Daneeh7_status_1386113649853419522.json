@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386113649853419522" ],
+    "url" : [ "https://twitter.com/Daneeh7/status/1386113649853419522" ],
+    "published" : [ "2021-04-25T00:23:41+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ResistorxMad/status/1386108048918384647" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Daneeh7" ],
+        "numeric-id" : [ "2941250715" ],
+        "name" : [ "Dani" ],
+        "nickname" : [ "Daneeh7" ],
+        "url" : [ "https://twitter.com/Daneeh7", "http://fruitpunch.ai" ],
+        "published" : [ "2014-12-25T21:11:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Utrecht, Nederland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/887478170269736960/Ij8W_J6p.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'd say the joke went over your head, but it's more like the joke was underneath you",
+      "html" : "I'd say the joke went over your head, but it's more like the joke was underneath you\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ResistorxMad\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SAMOYEDCORE\"></a>"
+    } ]
+  }
+}
