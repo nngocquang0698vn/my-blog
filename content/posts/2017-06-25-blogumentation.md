@@ -50,7 +50,7 @@ If you wish to hear me write about something, please [raise an issue on my issue
 [sh]: https://www.hanselman.com/blog/
 [sh-changelog]: https://changelog.com/podcast/249
 [issue-tracker]: https://gitlab.com/jamietanna/jvt.me/issues
-[issue-board-article]: https://gitlab.com/jamietanna/jvt.me/boards/320660
+[issue-board-article]: https://gitlab.com/jamietanna/jvt.me/-/boards/320660
 [keysleft]: http://keysleft.com
 [extracting-certs]: {{< ref 2017-04-28-extract-tls-certificate >}}
 [blogumentation]: /tags/blogumentation/
