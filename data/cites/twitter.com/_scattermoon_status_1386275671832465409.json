@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386275671832465409" ],
+    "url" : [ "https://twitter.com/scattermoon/status/1386275671832465409" ],
+    "published" : [ "2021-04-25T11:07:30+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:scattermoon" ],
+        "numeric-id" : [ "19086367" ],
+        "name" : [ "Elaine Scattermoon" ],
+        "nickname" : [ "scattermoon" ],
+        "url" : [ "https://twitter.com/scattermoon" ],
+        "published" : [ "2009-01-16T21:24:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "South London = Best London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1077166281667870720/a3DWBoBJ.jpg" ]
+      }
+    } ],
+    "content" : [ "Look I think Caitlyn Jenner is a rightwing ball of slime but I'm still going to gender her correctly. Doing anything else makes it clear you see recognising trans people's genders as conditional privileges for good behaviour that you can revoke any time, and trans ppl notice that" ]
+  }
+}
