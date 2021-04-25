@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385783834445287429" ],
+    "url" : [ "https://twitter.com/justbrizigs/status/1385783834445287429" ],
+    "published" : [ "2021-04-24T02:33:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:justbrizigs" ],
+        "numeric-id" : [ "1334882035022917634" ],
+        "name" : [ "charles foster kane" ],
+        "nickname" : [ "justbrizigs" ],
+        "url" : [ "https://twitter.com/justbrizigs", "https://linktr.ee/briannazigler" ],
+        "published" : [ "2020-12-04T15:27:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385036876365631489/ew30Tb8t.jpg" ]
+      }
+    } ],
+    "content" : [ "NFTs are cool because we’ve all been like “corporations are behind the worst of climate change” but now we know that if given the chance the individual will also sell out the environment for tons of money" ]
+  }
+}
