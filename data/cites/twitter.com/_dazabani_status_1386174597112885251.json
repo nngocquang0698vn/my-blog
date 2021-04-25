@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386174597112885251" ],
+    "url" : [ "https://twitter.com/dazabani/status/1386174597112885251" ],
+    "published" : [ "2021-04-25T04:25:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dazabani" ],
+        "numeric-id" : [ "2290882381" ],
+        "name" : [ "delan" ],
+        "nickname" : [ "dazabani" ],
+        "url" : [ "https://twitter.com/dazabani" ],
+        "published" : [ "2014-01-14T08:48:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "≡ƒÅ│∩╕ÅΓÇìΓÜº∩╕Å" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1156779851195412480/3iEvzDYA.jpg" ]
+      }
+    } ],
+    "content" : [ "new intel 14 nm uarch just dropped" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1385704355391754240" ],
+      "url" : [ "https://twitter.com/oksoumhi/status/1385704355391754240" ],
+      "published" : [ "2021-04-23T21:17:18+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:oksoumhi" ],
+          "numeric-id" : [ "1313815868" ],
+          "name" : [ "emily!!" ],
+          "nickname" : [ "oksoumhi" ],
+          "url" : [ "https://twitter.com/oksoumhi", "https://clearlybleary.bandcamp.com/" ],
+          "published" : [ "2013-03-29T13:32:58+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1334639709226749952/VA2qcHLW.jpg" ]
+        }
+      } ],
+      "content" : [ "new summer getaway ✨" ],
+      "photo" : [ "https://pbs.twimg.com/media/EzsCv07WUAUkxCa.jpg" ]
+    }
+  } ]
+}
