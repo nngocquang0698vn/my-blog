@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386387058290151425" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1386387058290151425" ],
+    "published" : [ "2021-04-25T18:30:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/oscargodson/status/1386386546538938374" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison", "http://kyliebytes.substack.com" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sacramento" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383145634971078658/GcIfm7G4.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I saw him grab the chicken, bring it to his mouth, and immediately exited out because I’m at the gym and it made me nauseous af LOL",
+      "html" : "I saw him grab the chicken, bring it to his mouth, and immediately exited out because I’m at the gym and it made me nauseous af LOL\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/oscargodson\"></a>"
+    } ]
+  }
+}
