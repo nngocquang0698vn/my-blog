@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kyliebytes/status/1386387058290151425" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1386401846961479683" ],
     "name" : [ "Reply to https://twitter.com/kyliebytes/status/1386387058290151425" ],
     "published" : [ "2021-04-25T20:22:00+0100" ],
     "category" : [ "thunder-force" ],
