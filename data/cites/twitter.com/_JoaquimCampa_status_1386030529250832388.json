@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386030529250832388" ],
+    "url" : [ "https://twitter.com/JoaquimCampa/status/1386030529250832388" ],
+    "published" : [ "2021-04-24T18:53:24+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JoaquimCampa" ],
+        "numeric-id" : [ "2956795149" ],
+        "name" : [ "Joaquim Campa" ],
+        "nickname" : [ "JoaquimCampa" ],
+        "url" : [ "https://twitter.com/JoaquimCampa" ],
+        "published" : [ "2015-01-02T16:14:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Barcelona" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1107666966347698176/ucaKykLW.png" ]
+      }
+    } ],
+    "content" : [ "Animals Taking Seflies. Thread." ],
+    "photo" : [ "https://pbs.twimg.com/media/Ezwoj24XoAEV4QK.png" ]
+  }
+}
