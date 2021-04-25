@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386108451550425096" ],
+    "url" : [ "https://twitter.com/NaijaNupe_/status/1386108451550425096" ],
+    "published" : [ "2021-04-25T00:03:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NaijaNupe_" ],
+        "numeric-id" : [ "125704428" ],
+        "name" : [ "Tayo Akin" ],
+        "nickname" : [ "NaijaNupe_" ],
+        "url" : [ "https://twitter.com/NaijaNupe_", "https://linktr.ee/tayo.akin" ],
+        "published" : [ "2010-03-23T16:07:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston Living | Detroit bred" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345049630707511296/bVSASQ8x.jpg" ]
+      }
+    } ],
+    "content" : [ "This is hilarious" ],
+    "photo" : [ "https://pbs.twimg.com/media/EzxySjjUcAIUDAi.jpg" ]
+  }
+}
