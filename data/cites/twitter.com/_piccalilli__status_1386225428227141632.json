@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386225428227141632" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1386225428227141632" ],
+    "published" : [ "2021-04-25T07:47:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://piccalil.li", "http://piccalil.li", "http://array.chat", "http://every-layout.dev", "http://cube.fyi", "http://swop.link/11ty" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361302576633942017/PYExIn7_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’ve had a couple of wobbles recently and thought “maybe I should work full time somewhere” but tech recruitment and interview processes will probably always keep me freelance.\n\nI don’t think I could ever go through that rubbish again.",
+      "html" : "<div style=\"white-space: pre\">I’ve had a couple of wobbles recently and thought “maybe I should work full time somewhere” but tech recruitment and interview processes will probably always keep me freelance.\n\nI don’t think I could ever go through that rubbish again.</div>"
+    } ]
+  }
+}
