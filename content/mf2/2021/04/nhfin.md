@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dazabani/status/1386174597112885251" ],
     "name" : [ "Like of @dazabani's tweet" ],
     "published" : [ "2021-04-25T12:53:00+0100" ],
     "category" : [ "shitpost", "intel" ],
