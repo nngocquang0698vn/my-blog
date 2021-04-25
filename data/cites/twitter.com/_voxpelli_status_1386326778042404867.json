@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386326778042404867" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1386326778042404867" ],
+    "published" : [ "2021-04-25T14:30:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Though you should not expect that giving some dollars will magically solve everything.\n\nSometimes money isn’t what’s lacking, but time, team size, project management –. or simply differences in vision, expectations or similar.\n\nListen to the needs of the project and act on that.",
+      "html" : "<div style=\"white-space: pre\">Though you should not expect that giving some dollars will magically solve everything.\n\nSometimes money isn’t what’s lacking, but time, team size, project management –. or simply differences in vision, expectations or similar.\n\nListen to the needs of the project and act on that.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1385098383887454208" ],
+      "url" : [ "https://twitter.com/abperiasamy/status/1385098383887454208" ],
+      "published" : [ "2021-04-22T05:09:23+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:abperiasamy" ],
+          "numeric-id" : [ "41545027" ],
+          "name" : [ "Anand Babu Periasamy" ],
+          "nickname" : [ "abperiasamy" ],
+          "url" : [ "https://twitter.com/abperiasamy", "https://min.io" ],
+          "published" : [ "2009-05-21T07:00:34+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Woodside, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1288868818152902656/V3Z8K1ng.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Open source only ensures \"freedom\", not free beer. If you are expecting those maintainers to provide free support and guaranteed SLAs, you should find a way to pay them. #OpenSource",
+        "html" : "Open source only ensures \"freedom\", not free beer. If you are expecting those maintainers to provide free support and guaranteed SLAs, you should find a way to pay them. <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a>\n<a class=\"tag\" href=\"https://twitter.com/SimpsonsOps/status/1385044311075655681\">twitter.com/SimpsonsOps/st…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/SimpsonsOps/st…" ],
+        "url" : [ "https://twitter.com/SimpsonsOps/status/1385044311075655681" ]
+      }
+    } ]
+  } ]
+}
