@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386769262019235849" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1386769262019235849" ],
+    "published" : [ "2021-04-26T19:48:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/dhh/status/1213249811538944000" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "name" : [ "Jeremy 💉💉 Meiss" ],
+        "nickname" : [ "IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331440489720123393/R1k8iobC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "So... I'm wondering what's changed in the last, say, almost 16 months? Because this goes against your BS company statement now... \nworld.hey.com/jason/changes-…",
+      "html" : "<div style=\"white-space: pre\">So... I'm wondering what's changed in the last, say, almost 16 months? Because this goes against your BS company statement now... \n<a href=\"https://world.hey.com/jason/changes-at-basecamp-7f32afc5\">world.hey.com/jason/changes-…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Austen\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dhh\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laurieontech\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/radhikamorabia\"></a>"
+    } ]
+  }
+}
