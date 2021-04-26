@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ofcAnthony/status/1386780883244494851" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1386793489963311106" ],
     "name" : [ "Reply to https://twitter.com/ofcAnthony/status/1386780883244494851" ],
     "published" : [ "2021-04-26T22:16:00+0100" ],
     "category" : [ "politics" ],
