@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mzbat/status/1386682082991161349" ],
     "name" : [ "Like of @mzbat's tweet" ],
     "published" : [ "2021-04-26T22:40:00+0100" ],
     "category" : [ "shitpost", "mental-health" ],
