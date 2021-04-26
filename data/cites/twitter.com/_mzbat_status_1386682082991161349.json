@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386682082991161349" ],
+    "url" : [ "https://twitter.com/mzbat/status/1386682082991161349" ],
+    "published" : [ "2021-04-26T14:02:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mzbat" ],
+        "numeric-id" : [ "253608265" ],
+        "name" : [ "half vaccinated overcaffinated bat" ],
+        "nickname" : [ "mzbat" ],
+        "url" : [ "https://twitter.com/mzbat", "http://StabOps.com" ],
+        "published" : [ "2011-02-17T16:03:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Midwich, California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325120570975924225/jnuYasUX.jpg" ]
+      }
+    } ],
+    "content" : [ "I've decided to take a break from my mental health and just completely focus on work this week." ]
+  }
+}
