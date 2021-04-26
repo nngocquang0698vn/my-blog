@@ -1,0 +1,51 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386782337115901954" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1386782337115901954" ],
+    "published" : [ "2021-04-26T20:40:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384665256551723008/CySOIxmu.jpg" ]
+      }
+    } ],
+    "content" : [ "yeah I fuckin bet it's stressful when marginalized employees speak up about external or internal shit that makes their lives hard or dangerous, if you're part of the power structure allowing those difficulties to continue. dick." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1386773744484552715" ],
+      "url" : [ "https://twitter.com/dhh/status/1386773744484552715" ],
+      "published" : [ "2021-04-26T20:06:40+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:dhh" ],
+          "numeric-id" : [ "14561327" ],
+          "name" : [ "DHH" ],
+          "nickname" : [ "dhh" ],
+          "url" : [ "https://twitter.com/dhh", "https://world.hey.com/dhh" ],
+          "published" : [ "2008-04-27T20:19:25+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "\"We also like to tell ourselves that having these discussions with the whole company is \"healthy\". I used to think that too, but I no longer do. I think it's become ever more stressful, unnerving, and counterproductive.\" world.hey.com/dhh/basecamp-s…",
+        "html" : "\"We also like to tell ourselves that having these discussions with the whole company is \"healthy\". I used to think that too, but I no longer do. I think it's become ever more stressful, unnerving, and counterproductive.\" <a href=\"https://world.hey.com/dhh/basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69\">world.hey.com/dhh/basecamp-s…</a>"
+      } ]
+    }
+  } ]
+}
