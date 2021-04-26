@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386718957793595398" ],
+    "url" : [ "https://twitter.com/spine_cone/status/1386718957793595398" ],
+    "published" : [ "2021-04-26T16:28:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:spine_cone" ],
+        "numeric-id" : [ "3148792352" ],
+        "name" : [ "terian 💀💾🌸" ],
+        "nickname" : [ "spine_cone" ],
+        "url" : [ "https://twitter.com/spine_cone", "http://pineconedoesthings.com" ],
+        "published" : [ "2015-04-11T00:13:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1299761959823441921/4wiIacQZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I have been a software engineer for almost 10 years now and I think my only real principle is \"please just solve the problems that actually exist\"\n\nI see people who are much smarter and more experienced than me deviate from this and it almost always ends badly",
+      "html" : "<div style=\"white-space: pre\">I have been a software engineer for almost 10 years now and I think my only real principle is \"please just solve the problems that actually exist\"\n\nI see people who are much smarter and more experienced than me deviate from this and it almost always ends badly</div>"
+    } ]
+  }
+}
