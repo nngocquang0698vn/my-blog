@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386750147678330888" ],
+    "url" : [ "https://twitter.com/JoeHart/status/1386750147678330888" ],
+    "published" : [ "2021-04-26T18:32:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JoeHart" ],
+        "numeric-id" : [ "11385122" ],
+        "name" : [ "Joe Hart 🏳️‍🌈" ],
+        "nickname" : [ "JoeHart" ],
+        "url" : [ "https://twitter.com/JoeHart", "http://www.joehart.co.uk", "http://joehart.fun" ],
+        "published" : [ "2007-12-20T21:27:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1205083942791139328/7R49U4zR.jpg" ]
+      }
+    } ],
+    "content" : [ "Working on my new email provider called FUCKING YIKES. It just replies FUCKING YIKES when tech CEOs email you with some bullshit." ]
+  }
+}
