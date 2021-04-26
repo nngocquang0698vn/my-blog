@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1386782125706420224" ],
     "published" : [ "2021-04-26T21:37:00+0100" ],
     "category" : [ "java", "cucumber" ],
     "post-status" : [ "published" ],
