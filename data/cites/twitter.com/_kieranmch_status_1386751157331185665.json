@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386751157331185665" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1386751157331185665" ],
+    "published" : [ "2021-04-26T18:36:55+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302615077904945154/iunoaUw1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Companies are part of the solution or part of the problem. If you \"ban societal and political discussions\" you're abdicating your responsibility towards your marginalised employees who don't have the privilege of ignoring these problems. @dhh @jasonfried - very disappointing.",
+      "html" : "Companies are part of the solution or part of the problem. If you \"ban societal and political discussions\" you're abdicating your responsibility towards your marginalised employees who don't have the privilege of ignoring these problems. <a href=\"https://twitter.com/dhh\">@dhh</a> <a href=\"https://twitter.com/jasonfried\">@jasonfried</a> - very disappointing."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1386748789910773761" ],
+      "url" : [ "https://twitter.com/chipswoon/status/1386748789910773761" ],
+      "published" : [ "2021-04-26T18:27:30+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:chipswoon" ],
+          "numeric-id" : [ "1122857919551119360" ],
+          "name" : [ "kat" ],
+          "nickname" : [ "chipswoon" ],
+          "url" : [ "https://twitter.com/chipswoon", "http://decolonise.tech" ],
+          "published" : [ "2019-04-29T13:39:24+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "whadjuk country" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1122864833873846273/3fGVOxC9.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "\"No more societal and political discussions at Basecamp.\" Tech is political, business is political, people are political. By aspiring to neutrality you'll inevitably allow systemic power to materialise unchecked. So disappointed in Basecamp today.",
+        "html" : "\"No more societal and political discussions at Basecamp.\" Tech is political, business is political, people are political. By aspiring to neutrality you'll inevitably allow systemic power to materialise unchecked. So disappointed in Basecamp today.\n<a class=\"tag\" href=\"https://twitter.com/venikunche/status/1386741321424150529\">twitter.com/venikunche/sta…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/venikunche/sta…" ],
+        "url" : [ "https://twitter.com/venikunche/status/1386741321424150529" ]
+      }
+    } ]
+  } ]
+}
