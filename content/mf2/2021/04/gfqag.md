@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IAmJerdog/status/1386769262019235849" ],
     "name" : [ "Like of @IAmJerdog's tweet" ],
     "published" : [ "2021-04-26T22:29:00+0100" ],
     "category" : [ "politics" ],
