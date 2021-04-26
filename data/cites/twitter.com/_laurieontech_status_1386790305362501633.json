@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386790305362501633" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1386790305362501633" ],
+    "published" : [ "2021-04-26T21:12:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334855286213980162/HdoG7aht.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Twitter’s “main character”, as @zkat__ put it, is a real thing.\n\nBut wow. This is one of the most dominating topics I’ve ever seen on my feed. 😳",
+      "html" : "<div style=\"white-space: pre\">Twitter’s “main character”, as <a href=\"https://twitter.com/zkat__\">@zkat__</a> put it, is a real thing.\n\nBut wow. This is one of the most dominating topics I’ve ever seen on my feed. 😳</div>"
+    } ]
+  }
+}
