@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386681786453868547" ],
+    "url" : [ "https://twitter.com/Lukehansford/status/1386681786453868547" ],
+    "published" : [ "2021-04-26T14:01:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Lukehansford" ],
+        "numeric-id" : [ "1401101" ],
+        "name" : [ "Luke Hansford" ],
+        "nickname" : [ "Lukehansford" ],
+        "url" : [ "https://twitter.com/Lukehansford", "http://lukehansford.me" ],
+        "published" : [ "2007-03-18T06:21:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/951081445115641857/cktXVMIg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I  love this concept of #blogumentation from @JamieTanna. It's something I've been trying out as a way to promote async communication at @fishbrainapp and I find it a really effective form of getting ideas and development patterns across.\n\njvt.me/posts/2017/06/…",
+      "html" : "<div style=\"white-space: pre\">I  love this concept of <a href=\"https://twitter.com/search?q=%23blogumentation\">#blogumentation</a> from <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a>. It's something I've been trying out as a way to promote async communication at <a href=\"https://twitter.com/fishbrainapp\">@fishbrainapp</a> and I find it a really effective form of getting ideas and development patterns across.\n\n<a href=\"https://www.jvt.me/posts/2017/06/25/blogumentation/\">jvt.me/posts/2017/06/…</a></div>"
+    } ]
+  }
+}
