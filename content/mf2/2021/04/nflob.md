@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lukehansford/status/1386681786453868547" ],
     "name" : [ "Like of @Lukehansford's tweet" ],
     "published" : [ "2021-04-26T16:49:00+0100" ],
     "like-of" : [ "https://twitter.com/Lukehansford/status/1386681786453868547" ],
