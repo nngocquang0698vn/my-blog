@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386707823816441857" ],
+    "url" : [ "https://twitter.com/ryanaraine/status/1386707823816441857" ],
+    "published" : [ "2021-04-26T15:44:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ryanaraine" ],
+        "numeric-id" : [ "8236572" ],
+        "name" : [ "Ryan Naraine" ],
+        "nickname" : [ "ryanaraine" ],
+        "url" : [ "https://twitter.com/ryanaraine", "https://tinyletter.com/naraine", "http://securityconversations.com" ],
+        "published" : [ "2007-08-17T00:59:50+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379129001671675908/pqoQnXOj.jpg" ]
+      }
+    } ],
+    "content" : [ "New emojis in iOS 14.5 means that BILLIONS of security patches will be applied today.  Incentives matter." ]
+  }
+}
