@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386792348353318912" ],
+    "url" : [ "https://twitter.com/ejgreenberg/status/1386792348353318912" ],
+    "published" : [ "2021-04-26T21:20:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ejgreenberg" ],
+        "numeric-id" : [ "21726443" ],
+        "name" : [ "Elaine Greenberg" ],
+        "nickname" : [ "ejgreenberg" ],
+        "url" : [ "https://twitter.com/ejgreenberg", "http://Instagram.com/ejgreenberg" ],
+        "published" : [ "2009-02-24T03:45:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293320519677165568/GdymgmSA.jpg" ]
+      }
+    } ],
+    "content" : [ "More like shh am I right" ]
+  }
+}
