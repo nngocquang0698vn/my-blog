@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ejgreenberg/status/1386792348353318912" ],
     "name" : [ "Like of @ejgreenberg's tweet" ],
     "published" : [ "2021-04-26T22:26:00+0100" ],
     "category" : [ "satire" ],
