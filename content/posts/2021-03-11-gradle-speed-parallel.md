@@ -44,6 +44,19 @@ test {
 }
 ```
 
+Or our `build.gradle.kts`:
+
+```kotlin
+tasks.withType<Test> {
+    useJUnitPlatform()
+      // Configuration parameters to execute top-level classes in parallel but methods in same thread
+      systemProperties["junit.jupiter.execution.parallel.enabled"] = "true"
+      systemProperties["junit.jupiter.execution.parallel.mode.default"] = "same_thread"
+      systemProperties["junit.jupiter.execution.parallel.mode.classes.default"] = "concurrent"
+    ])
+}
+```
+
 This will then apply it over each test run in our project, allowing us to significantly speed up our builds.
 
 ## Beware: Thread-specific issues
