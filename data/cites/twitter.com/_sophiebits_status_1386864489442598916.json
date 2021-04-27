@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386864489442598916" ],
+    "url" : [ "https://twitter.com/sophiebits/status/1386864489442598916" ],
+    "published" : [ "2021-04-27T02:07:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sophiebits" ],
+        "numeric-id" : [ "5697222" ],
+        "name" : [ "Sophie Alpert" ],
+        "nickname" : [ "sophiebits" ],
+        "url" : [ "https://twitter.com/sophiebits", "https://sophiebits.com/" ],
+        "published" : [ "2007-05-01T23:04:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mountain View, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1174863858332102656/SwClbJcA.jpg" ]
+      }
+    } ],
+    "content" : [ "Simply have no feelings, write clean code, and you will be successful here" ]
+  }
+}
