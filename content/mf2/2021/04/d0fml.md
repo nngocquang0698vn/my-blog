@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/notdanilu/status/1387147946387550211" ],
     "name" : [ "Like of @notdanilu's tweet" ],
     "published" : [ "2021-04-27T22:47:00+0100" ],
     "category" : [ "memes" ],
