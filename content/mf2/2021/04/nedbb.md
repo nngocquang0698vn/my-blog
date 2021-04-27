@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CathyHayward7/status/1386675248670588929" ],
     "name" : [ "Like of @CathyHayward7's tweet" ],
     "published" : [ "2021-04-27T17:18:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
