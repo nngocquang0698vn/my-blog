@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387037860411236355" ],
+    "url" : [ "https://twitter.com/PlayStationUK/status/1387037860411236355" ],
+    "published" : [ "2021-04-27T13:36:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PlayStationUK" ],
+        "numeric-id" : [ "347877311" ],
+        "name" : [ "PlayStation UK" ],
+        "nickname" : [ "PlayStationUK" ],
+        "url" : [ "https://twitter.com/PlayStationUK", "http://www.youtube.com/PlayStationAccess" ],
+        "published" : [ "2011-08-03T14:22:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atropos" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323556352850014208/MZQYCMoC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The NEW Ratchet & Clank: Rift Apart trailer has arrived.\n\nCheck out this preview, or watch in full on YouTube.",
+      "html" : "<div style=\"white-space: pre\">The NEW Ratchet &amp; Clank: Rift Apart trailer has arrived.\n\nCheck out this preview, or watch in full on YouTube.</div>"
+    } ]
+  }
+}
