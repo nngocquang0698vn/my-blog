@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387147946387550211" ],
+    "url" : [ "https://twitter.com/notdanilu/status/1387147946387550211" ],
+    "published" : [ "2021-04-27T20:53:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/javavvitch/status/1387147362146127878" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:notdanilu" ],
+        "numeric-id" : [ "1011287468488916993" ],
+        "name" : [ "full-snack developer 🇭🇹" ],
+        "nickname" : [ "notdanilu" ],
+        "url" : [ "https://twitter.com/notdanilu", "http://instagram.com/_icvrus" ],
+        "published" : [ "2018-06-25T16:38:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "ATL " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383877159027019786/EoH6IwE7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/javavvitch\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E0AjtKrXEAAbl40.jpg" ]
+  }
+}
