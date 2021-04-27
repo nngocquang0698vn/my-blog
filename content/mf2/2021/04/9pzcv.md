@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PlayStationUK/status/1387037860411236355" ],
     "name" : [ "Like of @PlayStationUK's tweet" ],
     "published" : [ "2021-04-27T18:36:00+0100" ],
     "category" : [ "ratchet-and-clank", "gaming" ],
