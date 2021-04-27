@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386693203936559105" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1386693203936559105" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1386693158222934017/pu/vid/576x1024/JqGQGTR84t9UjUpo.mp4?tag=12" ],
+    "published" : [ "2021-04-26T14:46:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1386692817825812481" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353375366027460609/2tAyTa6i.jpg" ]
+      }
+    } ],
+    "content" : [ "an oldie but still hilarious 😂" ]
+  }
+}
