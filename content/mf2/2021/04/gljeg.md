@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davidhoang/status/1386766748674760705" ],
     "name" : [ "Like of @davidhoang's tweet" ],
     "published" : [ "2021-04-27T19:24:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
