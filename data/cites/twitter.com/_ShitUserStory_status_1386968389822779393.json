@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386968389822779393" ],
+    "url" : [ "https://twitter.com/ShitUserStory/status/1386968389822779393" ],
+    "published" : [ "2021-04-27T09:00:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ShitUserStory" ],
+        "numeric-id" : [ "1351114532408668163" ],
+        "name" : [ "Shit User Story" ],
+        "nickname" : [ "ShitUserStory" ],
+        "url" : [ "https://twitter.com/ShitUserStory" ],
+        "published" : [ "2021-01-18T10:29:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The cesspit that is the web" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351120550060556295/9sxc5mHH.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "As a...\n– mechanical keyboard user\nI want to...\n– type louder\nso that...\n– people know I have a mechanical keyboard",
+      "html" : "<div style=\"white-space: pre\">As a...\n– mechanical keyboard user\nI want to...\n– type louder\nso that...\n– people know I have a mechanical keyboard</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Ez-AZPtXIAIybmU.jpg" ]
+  }
+}
