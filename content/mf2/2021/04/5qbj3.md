@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShitUserStory/status/1386968389822779393" ],
     "name" : [ "Like of @ShitUserStory's tweet" ],
     "published" : [ "2021-04-27T22:52:00+0100" ],
     "category" : [ "mechanical-keyboard" ],
