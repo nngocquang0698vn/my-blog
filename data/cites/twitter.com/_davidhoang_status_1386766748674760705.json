@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386766748674760705" ],
+    "url" : [ "https://twitter.com/davidhoang/status/1386766748674760705" ],
+    "published" : [ "2021-04-26T19:38:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:davidhoang" ],
+        "numeric-id" : [ "14338572" ],
+        "name" : [ "David Hoang" ],
+        "nickname" : [ "davidhoang" ],
+        "url" : [ "https://twitter.com/davidhoang", "http://davidhoang.com" ],
+        "published" : [ "2008-04-09T03:17:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355166816671158273/T19BY9CB.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:4265ece9285a2872" ],
+        "name" : [ "Palm Springs, CA" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Imagine being in the place of privilege where societal and political discussions is simply a distraction vs. being what directly impacts your life.\n\nSo tired of this “works on my machine” mindset.",
+      "html" : "<div style=\"white-space: pre\">Imagine being in the place of privilege where societal and political discussions is simply a distraction vs. being what directly impacts your life.\n\nSo tired of this “works on my machine” mindset.</div>"
+    } ]
+  }
+}
