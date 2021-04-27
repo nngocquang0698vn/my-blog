@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TransgirlSource/status/1386542050233896970" ],
     "name" : [ "Like of @TransgirlSource's tweet" ],
     "published" : [ "2021-04-27T19:23:00+0100" ],
     "category" : [ "gaming" ],
