@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1386804536681984003" ],
+    "url" : [ "https://twitter.com/sm/status/1386804536681984003" ],
+    "published" : [ "2021-04-26T22:09:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sm" ],
+        "numeric-id" : [ "22273667" ],
+        "name" : [ "Sara Mauskopf" ],
+        "nickname" : [ "sm" ],
+        "url" : [ "https://twitter.com/sm", "http://winnie.com" ],
+        "published" : [ "2009-02-28T17:05:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366107314671943680/cLF6v7CI.jpg" ]
+      }
+    } ],
+    "content" : [ "ceos will literally blog about their bad management practices instead of going to therapy" ]
+  }
+}
