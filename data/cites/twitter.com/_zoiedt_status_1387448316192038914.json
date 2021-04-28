@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387448316192038914" ],
+    "url" : [ "https://twitter.com/zoiedt/status/1387448316192038914" ],
+    "published" : [ "2021-04-28T16:47:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:zoiedt" ],
+        "numeric-id" : [ "1223031800932503552" ],
+        "name" : [ "Zoie💞" ],
+        "nickname" : [ "zoiedt" ],
+        "url" : [ "https://twitter.com/zoiedt", "https://allmylinks.com/zoie" ],
+        "published" : [ "2020-01-30T23:55:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Des Moines, IA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353545528664068096/vPLZhmSh.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "her: hey dad, i wanna wear girl clothes\nme: dude...same!!",
+      "html" : "<div style=\"white-space: pre\">her: hey dad, i wanna wear girl clothes\nme: dude...same!!</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E0E03QVXEAEIAAP.jpg", "https://pbs.twimg.com/media/E0E03QVWUAQig7c.jpg" ]
+  }
+}
