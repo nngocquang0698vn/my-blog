@@ -1,0 +1,35 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387194546514128896" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1387194546514128896" ],
+    "published" : [ "2021-04-27T23:58:47+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ElleArmageddon/status/1387191328501506052" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353134225826832384/_Ab7ezac.jpg" ]
+      }
+    } ],
+    "content" : [ "Sorry, but you cannot convince me that masks don’t look COOL AND STYLISH AS HELL." ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E0BOFkPVIAEFlST.jpg",
+      "alt" : "A person with long blonde hair wearing a black shirt, jeans, heeled ankle boots, and mask, with a cream-colored asymmetrical coat and coordinated leather belt."
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0BOFmHUUAQzIGu.jpg",
+      "alt" : "A person with long blonde hair wearing black jeans, a black leather corset over a black tank top, a black leather jacket, black heeled ankle boots, and a black mask."
+    } ]
+  }
+}
