@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zoiedt/status/1387448316192038914" ],
     "name" : [ "Like of @zoiedt's tweet" ],
     "published" : [ "2021-04-28T22:44:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
