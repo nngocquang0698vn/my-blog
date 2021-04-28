@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387122586719383552" ],
+    "url" : [ "https://twitter.com/System32Comics/status/1387122586719383552" ],
+    "published" : [ "2021-04-27T19:12:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:System32Comics" ],
+        "numeric-id" : [ "1053539906629197824" ],
+        "name" : [ "System32Comics" ],
+        "nickname" : [ "System32Comics" ],
+        "url" : [ "https://twitter.com/System32Comics", "http://linktr.ee/System32Comics" ],
+        "published" : [ "2018-10-20T06:54:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377887418100027393/-TDmSUxE.jpg" ]
+      }
+    } ],
+    "content" : [ "Why Is Hell So Hot?" ],
+    "photo" : [ "https://pbs.twimg.com/media/E0AMmzzVkAUF8E4.jpg" ]
+  }
+}
