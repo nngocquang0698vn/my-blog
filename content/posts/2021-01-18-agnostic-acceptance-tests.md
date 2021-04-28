@@ -13,6 +13,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-18T12:03:16+0000
 slug: "agnostic-acceptance-tests"
+series: environment-agnostic-acceptance-tests
 syndication:
 - https://news.ycombinator.com/item?id=25821189
 - https://lobste.rs/s/nhnffx/writing_environment_agnostic
@@ -231,3 +232,7 @@ public void retrieveTheProduct() {
 ```
 
 This allows us to much more easily simplify our HTTP logic, allowing our step definitions themselves to focus on what they're trying to test, and our HTTP logic can be set up one, through configuration.
+
+# API Versioning
+
+I've written about how to get your Proxy classes updated to be able to support different versions of your API in [_Adding API Versioning to your Environment-Agnostic Functional Acceptance Tests_]({{< ref 2021-04-28-agnostic-acceptance-tests-api-versioning >}}).
