@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387033105928638470" ],
+    "url" : [ "https://twitter.com/amyis_trying/status/1387033105928638470" ],
+    "published" : [ "2021-04-27T13:17:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:amyis_trying" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "amyis_trying" ],
+        "url" : [ "https://twitter.com/amyis_trying", "https://amyistrying.carrd.co/" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1387115426283331585/bBQH_kyj.jpg" ]
+      }
+    } ],
+    "content" : [ "I am simply obsessed with wikihow art." ],
+    "photo" : [ "https://pbs.twimg.com/media/Ez-7QkaVEAI5a0E.jpg", "https://pbs.twimg.com/media/Ez-7QkXVgAIwdN9.jpg", "https://pbs.twimg.com/media/Ez-7QkZVcAEFqmu.jpg", "https://pbs.twimg.com/media/Ez-7QkeVoAgVLaM.jpg" ]
+  }
+}
