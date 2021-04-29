@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387785939259465728" ],
+    "url" : [ "https://twitter.com/sophaskins/status/1387785939259465728" ],
+    "published" : [ "2021-04-29T15:08:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sophaskins" ],
+        "numeric-id" : [ "769202702991646720" ],
+        "name" : [ "cron mom" ],
+        "nickname" : [ "sophaskins" ],
+        "url" : [ "https://twitter.com/sophaskins", "http://blog.sophaskins.net", "http://blog.pizzabox.computer" ],
+        "published" : [ "2016-08-26T15:59:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Northeast Kingdom, VT" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364255714965942272/I-KwlHbr.jpg" ]
+      }
+    } ],
+    "content" : [ "extremely hot take: the best CI solution is jenkins, and a team of people making the right tooling for your team out of it" ]
+  }
+}
