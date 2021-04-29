@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mightbecursed/status/1387734973445152770" ],
     "name" : [ "Like of @mightbecursed's tweet" ],
     "published" : [ "2021-04-29T12:52:00+0100" ],
     "category" : [ "the-mandalorian" ],
