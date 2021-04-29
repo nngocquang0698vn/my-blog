@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julietteyooo/status/1387613196593221632" ],
     "name" : [ "Like of @Julietteyooo's tweet" ],
     "published" : [ "2021-04-29T23:54:00+0100" ],
     "category" : [ "mental-health" ],
