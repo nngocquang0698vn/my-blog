@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387800371121242113" ],
+    "url" : [ "https://twitter.com/TomAkehurst/status/1387800371121242113" ],
+    "published" : [ "2021-04-29T16:06:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1387729827894005769" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TomAkehurst" ],
+        "numeric-id" : [ "340263660" ],
+        "name" : [ "Tom Akehurst" ],
+        "nickname" : [ "TomAkehurst" ],
+        "url" : [ "https://twitter.com/TomAkehurst", "http://get.mocklab.io", "http://wiremock.org", "http://mocklab.io" ],
+        "published" : [ "2011-07-22T12:15:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/412257918944178177/tzGrSuJ0.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You could supply your own implementation of HttpServerFactory that just exposes the request handler methods to your code. Although you need to return an impl of HttpServer, this could just be a bunch of no-ops for the lifecycle methods.\n\nCaveat: I've not tried this myself.",
+      "html" : "<div style=\"white-space: pre\">You could supply your own implementation of HttpServerFactory that just exposes the request handler methods to your code. Although you need to return an impl of HttpServer, this could just be a bunch of no-ops for the lifecycle methods.\n\nCaveat: I've not tried this myself.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
