@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mathiasverraes/status/1387860064082579457" ],
     "name" : [ "Like of @mathiasverraes's tweet" ],
     "published" : [ "2021-04-29T23:26:00+0100" ],
     "like-of" : [ "https://twitter.com/mathiasverraes/status/1387860064082579457" ],
