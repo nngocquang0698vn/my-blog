@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387734973445152770" ],
+    "url" : [ "https://twitter.com/mightbecursed/status/1387734973445152770" ],
+    "published" : [ "2021-04-29T11:46:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mightbecursed" ],
+        "numeric-id" : [ "994517523985911810" ],
+        "name" : [ "images that might be cursed" ],
+        "nickname" : [ "mightbecursed" ],
+        "url" : [ "https://twitter.com/mightbecursed" ],
+        "published" : [ "2018-05-10T10:00:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "do expect submissions" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384995435199176718/j2FVXYX-.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E0I5mmVVkAIQ9AN.jpg" ]
+  }
+}
