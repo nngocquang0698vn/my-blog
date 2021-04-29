@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1387729827894005769" ],
     "published" : [ "2021-04-29T12:23:00+0100" ],
     "category" : [ "wiremock" ],
     "post-status" : [ "published" ],
