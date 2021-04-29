@@ -20,7 +20,7 @@ However, today, I managed to find a way to solve this.
 
 You can find a sample project available at [<i class="fa fa-gitlab"></i> jamietanna/serverless-wiremock](https://gitlab.com/jamietanna/serverless-wiremock). (I'm also very shamelessly stealing the pun server-less from friend and colleague Lewis)
 
-My first foray into this, while looking through the `WireMockApp` code, was that there's a field for a `StubRequestHandler` which we could fetch using Reflection - which was my first solution.
+My first foray into this, while looking through the `WireMockServer` code, was that there's a field for a `StubRequestHandler` which we could fetch using Reflection - which was my first solution.
 
 However, looking a bit closer, I found that we could instantiate the `WireMockApp` ourselves, and get access to the handler ourselves:
 
