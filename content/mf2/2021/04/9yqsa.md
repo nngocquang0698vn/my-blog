@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1387815155053043717" ],
     "published" : [ "2021-04-29T17:45:00+0100" ],
     "category" : [ "jenkins" ],
     "repost-of" : [ "https://twitter.com/sophaskins/status/1387785939259465728" ],
