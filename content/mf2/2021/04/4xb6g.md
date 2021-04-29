@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1387757225284825094" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2021-04-29T23:20:00+0100" ],
     "category" : [ "basecamp" ],
