@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387782538253504513" ],
+    "url" : [ "https://twitter.com/delventhalz/status/1387782538253504513" ],
+    "published" : [ "2021-04-29T14:55:15+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1387757225284825094" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:delventhalz" ],
+        "numeric-id" : [ "317891386" ],
+        "name" : [ "Zac Delventhal ✊" ],
+        "nickname" : [ "delventhalz" ],
+        "url" : [ "https://twitter.com/delventhalz", "http://taelmoor.com" ],
+        "published" : [ "2011-06-15T16:52:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "St Paul, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246496785788526592/OWdStS5G.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Men will literally burn everything they have built to the ground rather than go to therapy.",
+      "html" : "Men will literally burn everything they have built to the ground rather than go to therapy.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dhh\"></a>"
+    } ]
+  }
+}
