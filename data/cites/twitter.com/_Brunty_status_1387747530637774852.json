@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387747530637774852" ],
+    "url" : [ "https://twitter.com/Brunty/status/1387747530637774852" ],
+    "published" : [ "2021-04-29T12:36:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leicester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151043501288824832/TjB9WT83.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "3 initial stages of debugging:\n\n1) Read the error message\n2) *Read* the error message\n3) No, really. *Read* the error message",
+      "html" : "<div style=\"white-space: pre\">3 initial stages of debugging:\n\n1) Read the error message\n2) *Read* the error message\n3) No, really. *Read* the error message</div>"
+    } ]
+  }
+}
