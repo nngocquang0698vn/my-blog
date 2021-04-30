@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388174804985868289" ],
+    "url" : [ "https://twitter.com/sandofsky/status/1388174804985868289" ],
+    "published" : [ "2021-04-30T16:53:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sandofsky" ],
+        "numeric-id" : [ "699463" ],
+        "name" : [ "Ben Sandofsky" ],
+        "nickname" : [ "sandofsky" ],
+        "url" : [ "https://twitter.com/sandofsky", "https://sandofsky.com" ],
+        "published" : [ "2007-01-25T07:21:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/728094131919015936/c9tPkqpY.jpg" ]
+      }
+    } ],
+    "content" : [ "If you liked “How to build a blog in 15 minutes with Rails,” check out the sequel, “How to destroy Rails in 15 minutes with a blog.”" ]
+  }
+}
