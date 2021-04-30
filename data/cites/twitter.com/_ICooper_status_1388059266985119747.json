@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388059266985119747" ],
+    "url" : [ "https://twitter.com/ICooper/status/1388059266985119747" ],
+    "published" : [ "2021-04-30T09:14:52+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1388058538073804800" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ICooper" ],
+        "numeric-id" : [ "11872932" ],
+        "name" : [ "Ian Cooper 💙" ],
+        "nickname" : [ "ICooper" ],
+        "url" : [ "https://twitter.com/ICooper", "https://medium.com/@ICooper" ],
+        "published" : [ "2008-01-05T12:26:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/807278466668367872/2JWCn6d_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Not sure, you can browse in on Dropbox's site, so it thinks the PDF is fine, and you can download a pptx of it instead, if you can read that.",
+      "html" : "Not sure, you can browse in on Dropbox's site, so it thinks the PDF is fine, and you can download a pptx of it instead, if you can read that.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
