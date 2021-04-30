@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388241016889696259" ],
+    "url" : [ "https://twitter.com/willmanduffy/status/1388241016889696259" ],
+    "published" : [ "2021-04-30T21:17:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:willmanduffy" ],
+        "numeric-id" : [ "351346221" ],
+        "name" : [ "willman" ],
+        "nickname" : [ "willmanduffy" ],
+        "url" : [ "https://twitter.com/willmanduffy" ],
+        "published" : [ "2011-08-09T03:40:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "N E W   Y O R K" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1251622218800541701/wwGYeqU9.jpg" ]
+      }
+    } ],
+    "content" : [ "I heard DHH wasn’t a huge fan of companies taking a 30% cut so I wonder how his day is going" ]
+  }
+}
