@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iDecypherr/status/1388212513939066885" ],
     "name" : [ "Like of @iDecypherr's tweet" ],
     "published" : [ "2021-04-30T22:31:00+0100" ],
     "like-of" : [ "https://twitter.com/iDecypherr/status/1388212513939066885" ],
