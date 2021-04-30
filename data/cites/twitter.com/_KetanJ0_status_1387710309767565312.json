@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387710309767565312" ],
+    "url" : [ "https://twitter.com/KetanJ0/status/1387710309767565312" ],
+    "published" : [ "2021-04-29T10:08:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KetanJ0" ],
+        "numeric-id" : [ "420100653" ],
+        "name" : [ "Ketan Joshi" ],
+        "nickname" : [ "KetanJ0" ],
+        "url" : [ "https://twitter.com/KetanJ0", "https://ketanjoshi.co/windfall/" ],
+        "published" : [ "2011-11-24T05:45:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oslo, Norway (via Australia)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346837024083488770/d9_zlksA.jpg" ]
+      }
+    } ],
+    "content" : [ "*deleting NFT blog post* it's been done now, we can wrap it up" ],
+    "photo" : [ "https://pbs.twimg.com/media/E0IjKEWWYAAs6JG.png" ]
+  }
+}
