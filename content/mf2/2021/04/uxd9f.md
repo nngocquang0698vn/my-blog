@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmettComix/status/1387849342757842945" ],
     "name" : [ "Like of @EmmettComix's tweet" ],
     "published" : [ "2021-04-30T13:38:00+0100" ],
     "category" : [ "cute" ],
