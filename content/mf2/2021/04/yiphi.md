@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KetanJ0/status/1387710309767565312" ],
     "name" : [ "Like of @KetanJ0's tweet" ],
     "published" : [ "2021-04-30T13:37:00+0100" ],
     "category" : [ "cryptocurrency" ],
