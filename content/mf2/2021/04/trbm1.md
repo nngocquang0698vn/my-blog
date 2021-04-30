@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/padresj/status/1387897145815179264" ],
     "name" : [ "Like of @padresj's tweet" ],
     "published" : [ "2021-04-30T09:35:00+0100" ],
     "category" : [ "cute" ],
