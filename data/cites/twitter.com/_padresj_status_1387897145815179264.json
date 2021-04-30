@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387897145815179264" ],
+    "url" : [ "https://twitter.com/padresj/status/1387897145815179264" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1387896928088776704/pu/vid/540x540/m49XnE3OuA7iBd6B.mp4?tag=12" ],
+    "published" : [ "2021-04-29T22:30:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:padresj" ],
+        "numeric-id" : [ "15834599" ],
+        "name" : [ "Fr. Robert R. Ballecer, SJ" ],
+        "nickname" : [ "padresj" ],
+        "url" : [ "https://twitter.com/padresj", "http://Jesuits.global" ],
+        "published" : [ "2008-08-13T08:46:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "3rd Rock from the Sun" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/895380210471677952/tw3gatur.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "When an owl from Hogwarts shows up\n\n... to collect on your student loans.",
+      "html" : "<div style=\"white-space: pre\">When an owl from Hogwarts shows up\n\n... to collect on your student loans.</div>"
+    } ]
+  }
+}
