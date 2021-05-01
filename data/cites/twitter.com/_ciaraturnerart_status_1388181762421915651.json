@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388181762421915651" ],
+    "url" : [ "https://twitter.com/ciaraturnerart/status/1388181762421915651" ],
+    "published" : [ "2021-04-30T17:21:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ciaraturnerart" ],
+        "numeric-id" : [ "223023260" ],
+        "name" : [ "˗ˏˋ ciara ˎˊ˗" ],
+        "nickname" : [ "ciaraturnerart" ],
+        "url" : [ "https://twitter.com/ciaraturnerart", "https://ciaraturnerart.carrd.co/" ],
+        "published" : [ "2010-12-05T04:30:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Las Vegas, NV" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1289719421670273025/0o0bPKBt.jpg" ]
+      }
+    } ],
+    "content" : [ "don’t be suspicious" ],
+    "photo" : [ "https://pbs.twimg.com/media/E0PP9G3UYAE-xTT.jpg", "https://pbs.twimg.com/media/E0PP9J4VcAU3lYL.jpg" ]
+  }
+}
