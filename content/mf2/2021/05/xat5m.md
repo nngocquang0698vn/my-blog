@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ciaraturnerart/status/1388181762421915651" ],
     "name" : [ "Like of @ciaraturnerart's tweet" ],
     "published" : [ "2021-05-01T13:38:00+0100" ],
     "category" : [ "cute", "art", "mario" ],
