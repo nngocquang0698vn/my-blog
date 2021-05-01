@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388462220577751041" ],
+    "url" : [ "https://twitter.com/pati_gallardo/status/1388462220577751041" ],
+    "published" : [ "2021-05-01T11:56:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/pati_gallardo/status/1388431487234674688" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pati_gallardo" ],
+        "numeric-id" : [ "400882913" ],
+        "name" : [ "Patricia Aas 🐢" ],
+        "nickname" : [ "pati_gallardo" ],
+        "url" : [ "https://twitter.com/pati_gallardo", "https://patricia.no/" ],
+        "published" : [ "2011-10-29T18:28:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oslo, Norge" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163131847578148864/9tYy8vML.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "21 out of 55 non-founder employees have taken that severance package.\n\nPro tip: consider therapy before you burn down your life’s work.",
+      "html" : "<div style=\"white-space: pre\">21 out of 55 non-founder employees have taken that severance package.\n\nPro tip: consider therapy before you burn down your life’s work.</div>"
+    } ]
+  }
+}
