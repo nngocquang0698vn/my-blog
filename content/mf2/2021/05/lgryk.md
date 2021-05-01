@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karenhchu/status/1388555743742226432" ],
     "name" : [ "Like of @karenhchu's tweet" ],
     "published" : [ "2021-05-01T19:58:00+0100" ],
     "like-of" : [ "https://twitter.com/karenhchu/status/1388555743742226432" ],
