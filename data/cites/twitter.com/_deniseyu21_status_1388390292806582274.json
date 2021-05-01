@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388390292806582274" ],
+    "url" : [ "https://twitter.com/deniseyu21/status/1388390292806582274" ],
+    "published" : [ "2021-05-01T07:10:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:deniseyu21" ],
+        "numeric-id" : [ "25458567" ],
+        "name" : [ "Denise Yu" ],
+        "nickname" : [ "deniseyu21" ],
+        "url" : [ "https://twitter.com/deniseyu21", "http://deniseyu.io", "http://deniseyu.io/art" ],
+        "published" : [ "2009-03-20T04:17:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/471064769097523200/dOghyD0J.jpeg" ]
+      }
+    } ],
+    "content" : [ "My attention span is so shot. I literally cannot make it through a news article, and haven’t read a book or watched a whole tv series even since 2020. I can’t put the damn phone down. Is this happening to anyone else?" ]
+  }
+}
