@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrJessTaylor/status/1388458413093490692" ],
     "name" : [ "Like of @DrJessTaylor's tweet" ],
     "published" : [ "2021-05-01T14:21:00+0100" ],
     "like-of" : [ "https://twitter.com/DrJessTaylor/status/1388458413093490692" ],
