@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pati_gallardo/status/1388462220577751041" ],
     "name" : [ "Like of @pati_gallardo's tweet" ],
     "published" : [ "2021-05-01T13:41:00+0100" ],
     "category" : [ "basecamp", "therapy" ],
