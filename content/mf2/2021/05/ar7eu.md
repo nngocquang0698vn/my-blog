@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devdevcharlie/status/1388546873284124673" ],
     "name" : [ "Like of @devdevcharlie's tweet" ],
     "published" : [ "2021-05-01T19:06:00+0100" ],
     "category" : [ "food" ],
