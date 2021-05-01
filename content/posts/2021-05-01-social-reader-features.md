@@ -1,17 +1,18 @@
 ---
 title: "Features I Want In My Social Reader"
-description: "What sort of functionality do I want in my social reader, so I can follow awesome people's thoughts more easily?"
-tags:
-- indieweb
-- microsub
-- feed
-- social-media
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-05-01T15:12:31+0100
-slug: "social-reader-features"
+description: "What sort of functionality do I want in my social reader, so I can follow\
+  \ awesome people's thoughts more easily?"
+date: "2021-05-01T15:12:31+0100"
 syndication:
-- https://news.indieweb.org/en
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/05/01/social-reader-features/"
+tags:
+- "indieweb"
+- "microsub"
+- "feed"
+- "social-media"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "social-reader-features"
 ---
 # What's a Social Reader?
 
