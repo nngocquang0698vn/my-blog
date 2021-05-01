@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lilykonings/status/1388196778558640130" ],
     "name" : [ "Like of @lilykonings's tweet" ],
     "published" : [ "2021-05-01T09:45:00+0100" ],
     "like-of" : [ "https://twitter.com/lilykonings/status/1388196778558640130" ],
