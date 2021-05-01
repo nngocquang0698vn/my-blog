@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388196778558640130" ],
+    "url" : [ "https://twitter.com/lilykonings/status/1388196778558640130" ],
+    "published" : [ "2021-04-30T18:21:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lilykonings" ],
+        "numeric-id" : [ "3176720487" ],
+        "name" : [ "Lily" ],
+        "nickname" : [ "lilykonings" ],
+        "url" : [ "https://twitter.com/lilykonings", "https://lilykonin.gs/", "http://lilykonings.substack.com" ],
+        "published" : [ "2015-04-17T13:55:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298301701225500672/7NrMraQq.jpg" ]
+      }
+    } ],
+    "content" : [ "Can we talk about how making friends as an adult is basically happy hour with your coworkers until you leave your job, and then it's a coin toss whether you keep in touch and you just do it all over again?" ]
+  }
+}
