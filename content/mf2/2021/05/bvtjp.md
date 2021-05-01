@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jensimmons/status/1388568149826670598" ],
     "name" : [ "Like of @jensimmons's tweet" ],
     "published" : [ "2021-05-01T20:18:00+0100" ],
     "category" : [ "coronavirus" ],
