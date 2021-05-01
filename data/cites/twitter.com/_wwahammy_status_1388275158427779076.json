@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388275158427779076" ],
+    "url" : [ "https://twitter.com/wwahammy/status/1388275158427779076" ],
+    "published" : [ "2021-04-30T23:32:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wwahammy" ],
+        "numeric-id" : [ "19212550" ],
+        "name" : [ "Eric Schultz says \"Black Lives Matter\"" ],
+        "nickname" : [ "wwahammy" ],
+        "url" : [ "https://twitter.com/wwahammy" ],
+        "published" : [ "2009-01-20T01:10:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Appleton - Mamaceqtaw land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1259935795126980620/eKlPFmq0.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The effects of Basecamp's decisions over the last week is harming Rails. I propose we fix this problem by making Rails less associated with any particular entity or individual. If you're in the Rails community, please (respectfully) speak up. discuss.rubyonrails.org/t/effect-of-th…",
+      "html" : "The effects of Basecamp's decisions over the last week is harming Rails. I propose we fix this problem by making Rails less associated with any particular entity or individual. If you're in the Rails community, please (respectfully) speak up. <a href=\"https://discuss.rubyonrails.org/t/effect-of-the-last-week-on-ruby-on-rails/77702\">discuss.rubyonrails.org/t/effect-of-th…</a>"
+    } ]
+  }
+}
