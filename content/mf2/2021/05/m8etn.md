@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/carolstran/status/1388422566851776513" ],
     "name" : [ "Like of @carolstran's tweet" ],
     "published" : [ "2021-05-01T10:52:00+0100" ],
     "category" : [ "hackathon" ],
