@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HornyNooting/status/1388254489560424449" ],
     "name" : [ "Like of @HornyNooting's tweet" ],
     "published" : [ "2021-05-01T21:53:00+0100" ],
     "category" : [ "philosophy", "politics" ],
