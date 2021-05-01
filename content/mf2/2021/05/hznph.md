@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wwahammy/status/1388275158427779076" ],
     "name" : [ "Like of @wwahammy's tweet" ],
     "published" : [ "2021-05-01T09:22:00+0100" ],
     "category" : [ "rails", "basecamp" ],
