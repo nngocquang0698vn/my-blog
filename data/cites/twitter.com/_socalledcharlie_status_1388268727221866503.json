@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388268727221866503" ],
+    "url" : [ "https://twitter.com/socalledcharlie/status/1388268727221866503" ],
+    "published" : [ "2021-04-30T23:07:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:socalledcharlie" ],
+        "numeric-id" : [ "1614171308" ],
+        "name" : [ "Charlie Moore" ],
+        "nickname" : [ "socalledcharlie" ],
+        "url" : [ "https://twitter.com/socalledcharlie" ],
+        "published" : [ "2013-07-23T02:30:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Proxima Centauri" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379544656673964032/XMc7i_8B.jpg" ]
+      }
+    } ],
+    "content" : [ "Cishet guys think “dude” is gender neutral until you tell everyone about the dude they’re dating." ]
+  }
+}
