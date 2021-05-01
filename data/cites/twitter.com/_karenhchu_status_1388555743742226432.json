@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388555743742226432" ],
+    "url" : [ "https://twitter.com/karenhchu/status/1388555743742226432" ],
+    "published" : [ "2021-05-01T18:07:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:karenhchu" ],
+        "numeric-id" : [ "415848544" ],
+        "name" : [ "Karen Chu" ],
+        "nickname" : [ "karenhchu" ],
+        "url" : [ "https://twitter.com/karenhchu" ],
+        "published" : [ "2011-11-18T22:11:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274993052327673857/NS81LLFx.jpg" ]
+      }
+    } ],
+    "content" : [ "High school trauma is visiting your parents back home, *thinking* you see someone who bullied you in high school at a restaurant where you’re picking up food, and asking your dear mom to go get it for you instead 😭" ]
+  }
+}
