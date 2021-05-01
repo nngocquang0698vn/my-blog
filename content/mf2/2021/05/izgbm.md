@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/socalledcharlie/status/1388268727221866503" ],
     "name" : [ "Like of @socalledcharlie's tweet" ],
     "published" : [ "2021-05-01T22:04:00+0100" ],
     "category" : [ "guys" ],
