@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388392551430950918" ],
+    "url" : [ "https://twitter.com/edent/status/1388392551430950918" ],
+    "published" : [ "2021-05-01T07:19:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's annoying that big sites like @techcrunch don't support pingbacks / WebMentions.\n\nBut all the spam sites which rip off their content do!\n\nSo I've now got a lot of spam to clean up on my blog.",
+      "html" : "<div style=\"white-space: pre\">It's annoying that big sites like <a href=\"https://twitter.com/TechCrunch\">@techcrunch</a> don't support pingbacks / WebMentions.\n\nBut all the spam sites which rip off their content do!\n\nSo I've now got a lot of spam to clean up on my blog.</div>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E0SPqHuXIAIfKjH.jpg",
+      "alt" : "Screenshot of my blog. Lots of spam mentions from blogs which have copy and pasted a techcrunch article. "
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0SPqjGX0AEtrRA.jpg",
+      "alt" : "114 comments waiting to be moderated. "
+    } ]
+  }
+}
