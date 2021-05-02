@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388586949166907395" ],
+    "url" : [ "https://twitter.com/amy_ginsburg1/status/1388586949166907395" ],
+    "published" : [ "2021-05-01T20:11:42+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/twcuddleston/status/1388579275528409093" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:amy_ginsburg1" ],
+        "numeric-id" : [ "351950144" ],
+        "name" : [ "Amy G" ],
+        "nickname" : [ "amy_ginsburg1" ],
+        "url" : [ "https://twitter.com/amy_ginsburg1" ],
+        "published" : [ "2011-08-09T23:15:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/676519896524587008/-E1mqyU2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "As the Model on the bags I can tell you the one on the left is comfier xxx",
+      "html" : "As the Model on the bags I can tell you the one on the left is comfier xxx\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/twcuddleston\"></a>"
+    } ]
+  }
+}
