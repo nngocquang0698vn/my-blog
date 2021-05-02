@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1387620521848803333" ],
+    "url" : [ "https://twitter.com/roxiqt/status/1387620521848803333" ],
+    "published" : [ "2021-04-29T04:11:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:roxiqt" ],
+        "numeric-id" : [ "2719962073" ],
+        "name" : [ "Roxi Horror 💀🌸" ],
+        "nickname" : [ "roxiqt" ],
+        "url" : [ "https://twitter.com/roxiqt", "http://roxiqt.com", "http://teepublic.com/stores/roxiqt?ref_id=9189" ],
+        "published" : [ "2014-08-09T18:56:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316152142135209988/8saKwZTS.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "ME: [extremely burnt out] I need to take the day off to relax\n\nALSO ME: I wonder if there is a way that I could relax that would be more productive",
+      "html" : "<div style=\"white-space: pre\">ME: [extremely burnt out] I need to take the day off to relax\n\nALSO ME: I wonder if there is a way that I could relax that would be more productive</div>"
+    } ]
+  }
+}
