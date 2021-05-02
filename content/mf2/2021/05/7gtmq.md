@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matryer/status/1388517841603858433" ],
     "name" : [ "Like of @matryer's tweet" ],
     "published" : [ "2021-05-02T11:08:00+0100" ],
     "category" : [ "coronavirus" ],
