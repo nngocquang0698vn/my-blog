@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SarahEsterman/status/1388665622955847686" ],
     "name" : [ "Like of @SarahEsterman's tweet" ],
     "published" : [ "2021-05-02T14:16:00+0100" ],
     "like-of" : [ "https://twitter.com/SarahEsterman/status/1388665622955847686" ],
