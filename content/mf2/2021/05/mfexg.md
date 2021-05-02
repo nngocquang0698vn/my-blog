@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SnarkyMi/status/1388697102465839110" ],
     "name" : [ "Like of @SnarkyMi's tweet" ],
     "published" : [ "2021-05-02T13:10:00+0100" ],
     "category" : [ "coronavirus" ],
