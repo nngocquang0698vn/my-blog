@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388904782480486408" ],
+    "url" : [ "https://twitter.com/carolstran/status/1388904782480486408" ],
+    "published" : [ "2021-05-02T17:14:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ]
+      }
+    } ],
+    "content" : [ "Holy shit my hackathon team won first place????? People want to see fingering elevated???? I'm losing it" ]
+  }
+}
