@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/catshouldnt/status/1388690480532058112" ],
     "name" : [ "Like of @catshouldnt's tweet" ],
     "published" : [ "2021-05-02T11:11:00+0100" ],
     "category" : [ "cute" ],
