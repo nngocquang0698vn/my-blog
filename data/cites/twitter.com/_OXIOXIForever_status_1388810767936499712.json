@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388810767936499712" ],
+    "url" : [ "https://twitter.com/OXIOXIForever/status/1388810767936499712" ],
+    "published" : [ "2021-05-02T11:01:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/shen/status/1388802740634013699" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:OXIOXIForever" ],
+        "numeric-id" : [ "959463448324313088" ],
+        "name" : [ "OXIOXI" ],
+        "nickname" : [ "OXIOXIForever" ],
+        "url" : [ "https://twitter.com/OXIOXIForever" ],
+        "published" : [ "2018-02-02T16:28:06+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1006651378473807872/FzJIUkQF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "That’s a horrifying way to convey it.",
+      "html" : "That’s a horrifying way to convey it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shen\"></a>"
+    } ]
+  }
+}
