@@ -1,0 +1,43 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388569152970010628" ],
+    "url" : [ "https://twitter.com/beccamals/status/1388569152970010628" ],
+    "published" : [ "2021-05-01T19:00:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:beccamals" ],
+        "numeric-id" : [ "349658423" ],
+        "name" : [ "becca 🤟🏻🦻🏻" ],
+        "nickname" : [ "beccamals" ],
+        "url" : [ "https://twitter.com/beccamals" ],
+        "published" : [ "2011-08-06T13:35:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Hanover, MD" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1325541014816370694/iJIr1A6V.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Some exciting personal news— I got a puppy! \nThis is Coda, she is a black Labrador and my heart belongs to her 🖤",
+      "html" : "<div style=\"white-space: pre\">Some exciting personal news— I got a puppy! \nThis is Coda, she is a black Labrador and my heart belongs to her 🖤</div>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E0UwRqVWUAE8VQ0.jpg",
+      "alt" : "A black lab puppy looking at the camera while chewing on a blue dinosaur-shaped chew toy"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0UwRqVXEAQ2yme.jpg",
+      "alt" : "Becca holding a small black Labrador puppy. Becca is wearing a blue shirt and has her hair braided back into a pony tail"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0UwRqVWUAMhTd3.jpg",
+      "alt" : "Becca holding a black Labrador puppy. The puppy is licking Becca’s nose"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0UwRqfXEAMyV-X.jpg",
+      "alt" : "A close-up photo of a black Labrador puppy’s face as she rolls in the grass"
+    } ]
+  }
+}
