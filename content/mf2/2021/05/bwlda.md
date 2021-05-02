@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tut_tut_tut_tut/status/1388707203419357189" ],
     "name" : [ "Like of @tut_tut_tut_tut's tweet" ],
     "published" : [ "2021-05-02T13:10:00+0100" ],
     "category" : [ "coronavirus" ],
