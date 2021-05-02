@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388697102465839110" ],
+    "url" : [ "https://twitter.com/SnarkyMi/status/1388697102465839110" ],
+    "published" : [ "2021-05-02T03:29:24+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/AlexLJanin/status/1388585502702546947" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SnarkyMi" ],
+        "numeric-id" : [ "1173281195834167297" ],
+        "name" : [ "SnarkyMI #BothSidesAreNotTheSame" ],
+        "nickname" : [ "SnarkyMi" ],
+        "url" : [ "https://twitter.com/SnarkyMi" ],
+        "published" : [ "2019-09-15T17:03:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Michigan" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311825319981129728/TIZc1V6g.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Masks?",
+      "html" : "Masks?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AlexLJanin\"></a>"
+    } ]
+  }
+}
