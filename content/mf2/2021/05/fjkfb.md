@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SteveSpeirs4/status/1388760180809142272" ],
     "name" : [ "Like of @SteveSpeirs4's tweet" ],
     "published" : [ "2021-05-02T22:27:00+0100" ],
     "category" : [ "food" ],
