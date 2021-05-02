@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beccamals/status/1388569152970010628" ],
     "name" : [ "Like of @beccamals's tweet" ],
     "published" : [ "2021-05-02T15:30:00+0100" ],
     "category" : [ "cute" ],
