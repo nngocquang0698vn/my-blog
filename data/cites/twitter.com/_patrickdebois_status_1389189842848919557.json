@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389189842848919557" ],
+    "url" : [ "https://twitter.com/patrickdebois/status/1389189842848919557" ],
+    "published" : [ "2021-05-03T12:07:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:patrickdebois" ],
+        "numeric-id" : [ "15649735" ],
+        "name" : [ "Patrick Debois - #thinktogether" ],
+        "nickname" : [ "patrickdebois" ],
+        "url" : [ "https://twitter.com/patrickdebois", "http://www.jedi.be/blog" ],
+        "published" : [ "2008-07-29T19:00:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ghent, Flanders, Belgium" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1182062219087011840/lpqD9m_s.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Chef and Puppet worked hard to turn configuration management into code. \n\nAnsible and Kubernetes turned it back to managing configs.",
+      "html" : "<div style=\"white-space: pre\">Chef and Puppet worked hard to turn configuration management into code. \n\nAnsible and Kubernetes turned it back to managing configs.</div>"
+    } ]
+  }
+}
