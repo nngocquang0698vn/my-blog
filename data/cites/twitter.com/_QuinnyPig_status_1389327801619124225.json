@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389327801619124225" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1389327801619124225" ],
+    "published" : [ "2021-05-03T21:15:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Wait so the way around @awscloud’s Lambda@Edge’s shortcomings was to just route around it with a brand new offering?!",
+      "html" : "Wait so the way around <a href=\"https://twitter.com/awscloud\">@awscloud</a>’s Lambda@Edge’s shortcomings was to just route around it with a brand new offering?!"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1389327060816990208" ],
+      "url" : [ "https://twitter.com/cloudfront/status/1389327060816990208" ],
+      "published" : [ "2021-05-03T21:12:38+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:cloudfront" ],
+          "numeric-id" : [ "252801899" ],
+          "name" : [ "Amazon CloudFront" ],
+          "nickname" : [ "cloudfront" ],
+          "url" : [ "https://twitter.com/cloudfront", "http://aws.amazon.com/cloudfront/" ],
+          "published" : [ "2011-02-15T23:12:59+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1189603938137280512/Xy_sEdeN.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Announcing CloudFront Functions (CF2), a new serverless edge compute capability for lightweight customizations. CF2 runs custom Javascript code at all of CloudFront’s 225+ edge locations with minimal latency and will cost ~1/6th that of Lambda@Edge.. aws.amazon.com/about-aws/what…",
+        "html" : "Announcing CloudFront Functions (CF2), a new serverless edge compute capability for lightweight customizations. CF2 runs custom Javascript code at all of CloudFront’s 225+ edge locations with minimal latency and will cost ~1/6th that of Lambda@Edge.. <a href=\"https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/\">aws.amazon.com/about-aws/what…</a>"
+      } ]
+    }
+  } ]
+}
