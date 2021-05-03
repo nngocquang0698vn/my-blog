@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ofcAnthony/status/1389280393124270082" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1389307229631885319" ],
     "name" : [ "Reply to https://twitter.com/ofcAnthony/status/1389280393124270082" ],
     "published" : [ "2021-05-03T20:51:00+0100" ],
     "category" : [ "zoho" ],
