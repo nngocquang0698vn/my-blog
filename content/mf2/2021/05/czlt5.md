@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheJackForge/status/1388733049727176706" ],
     "name" : [ "Like of @TheJackForge's tweet" ],
     "published" : [ "2021-05-03T07:55:00+0100" ],
     "category" : [ "shitpost" ],
