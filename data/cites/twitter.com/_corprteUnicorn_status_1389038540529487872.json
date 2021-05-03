@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389038540529487872" ],
+    "url" : [ "https://twitter.com/corprteUnicorn/status/1389038540529487872" ],
+    "published" : [ "2021-05-03T02:06:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:corprteUnicorn" ],
+        "numeric-id" : [ "353237361" ],
+        "name" : [ "Blue Haired Unicorn 🦄 (she/her)" ],
+        "nickname" : [ "corprteUnicorn" ],
+        "url" : [ "https://twitter.com/corprteUnicorn", "http://BlueHairedUnicorn.com" ],
+        "published" : [ "2011-08-11T19:22:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Texas, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1387899809361694723/ww0CofYg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’ll be wearing my mask forever.\nA man hasn’t asked me to smile in over a year and in return I haven’t had to tell them to eat shit.\n\nThis is the kind of balance I needed.",
+      "html" : "<div style=\"white-space: pre\">I’ll be wearing my mask forever.\nA man hasn’t asked me to smile in over a year and in return I haven’t had to tell them to eat shit.\n\nThis is the kind of balance I needed.</div>"
+    } ]
+  }
+}
