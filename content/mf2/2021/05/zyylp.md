@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RoyalstonDesign/status/1388847441835962369" ],
     "name" : [ "Like of @RoyalstonDesign's tweet" ],
     "published" : [ "2021-05-03T10:17:00+0100" ],
     "category" : [ "art", "marvel" ],
