@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389153782286716929" ],
+    "url" : [ "https://twitter.com/tnash/status/1389153782286716929" ],
+    "published" : [ "2021-05-03T09:44:05+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/stuherbert/status/1389153154697138180" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tnash" ],
+        "numeric-id" : [ "14408283" ],
+        "name" : [ "Tim Nash" ],
+        "nickname" : [ "tnash" ],
+        "url" : [ "https://twitter.com/tnash", "https://timnash.co.uk" ],
+        "published" : [ "2008-04-16T14:11:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "West Yorkshire - UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1205476632926048263/tIKjeq1r.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm going to be that person, Medium/Dev.to and similar are great for republishing, but ultimately you become part of their product.\n\nWouldn't it be better to publish to your own site and use those platforms as republishing tools to reach their individual walled gardens.",
+      "html" : "<div style=\"white-space: pre\">I'm going to be that person, Medium/Dev.to and similar are great for republishing, but ultimately you become part of their product.\n\nWouldn't it be better to publish to your own site and use those platforms as republishing tools to reach their individual walled gardens.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stuherbert\"></a>"
+    } ]
+  }
+}
