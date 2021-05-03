@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1389152441384542211" ],
     "published" : [ "2021-05-03T10:36:00+0100" ],
     "category" : [ "kubernetes", "gitlab" ],
     "post-status" : [ "published" ],
