@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cjadewyton/status/1389022938553208833" ],
     "name" : [ "Like of @cjadewyton's tweet" ],
     "published" : [ "2021-05-03T16:41:00+0100" ],
     "like-of" : [ "https://twitter.com/cjadewyton/status/1389022938553208833" ],
