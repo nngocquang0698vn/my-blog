@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meredithbull/status/1388861033930887169" ],
     "name" : [ "Like of @meredithbull's tweet" ],
     "published" : [ "2021-05-03T08:00:00+0100" ],
     "category" : [ "music" ],
