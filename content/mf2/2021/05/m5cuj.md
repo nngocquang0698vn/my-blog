@@ -1,0 +1,16 @@
+{
+  "date" : "2021-05-03T08:00:01.256Z",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-measure",
+  "properties" : {
+    "unit" : [ "steps" ],
+    "num" : [ "14021" ],
+    "start" : [ "2021-05-02T00:00:00Z" ],
+    "end" : [ "2021-05-03T00:00:00Z" ],
+    "published" : [ "2021-05-03T08:00:01.256Z" ]
+  },
+  "kind" : "steps",
+  "slug" : "2021/05/m5cuj",
+  "client_id" : "https://www-api.jvt.me/fit"
+}
