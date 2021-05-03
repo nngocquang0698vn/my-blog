@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1388940008611094532" ],
+    "url" : [ "https://twitter.com/womenpostingws/status/1388940008611094532" ],
+    "published" : [ "2021-05-02T19:34:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:womenpostingws" ],
+        "numeric-id" : [ "1213020143137124352" ],
+        "name" : [ "Women Posting Their W's" ],
+        "nickname" : [ "womenpostingws" ],
+        "url" : [ "https://twitter.com/womenpostingws", "http://instagram.com/womenpostingws" ],
+        "published" : [ "2020-01-03T08:51:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383589188071612418/dOGcdp0f.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E0aBkytXoA0JT6C.jpg", "https://pbs.twimg.com/media/E0aBkyuWYAIGN9j.jpg", "https://pbs.twimg.com/media/E0aBkyuWQAEuB29.jpg", "https://pbs.twimg.com/media/E0aBkyuWEAMHCV4.jpg" ]
+  }
+}
