@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389022938553208833" ],
+    "url" : [ "https://twitter.com/cjadewyton/status/1389022938553208833" ],
+    "published" : [ "2021-05-03T01:04:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cjadewyton" ],
+        "numeric-id" : [ "305490310" ],
+        "name" : [ "C. Jade Gultiano-Wyton 🏳️‍🌈" ],
+        "nickname" : [ "cjadewyton" ],
+        "url" : [ "https://twitter.com/cjadewyton", "http://cjadewyton.com/" ],
+        "published" : [ "2011-05-26T09:27:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1046034889487736832/hUWjIA1R.jpg" ]
+      }
+    } ],
+    "content" : [ "A good example of why you should outline subtitles" ],
+    "photo" : [ "https://pbs.twimg.com/media/E0bM_lZVcAEFG94.jpg" ]
+  }
+}
