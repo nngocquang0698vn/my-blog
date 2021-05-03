@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/patrickdebois/status/1389189842848919557" ],
     "name" : [ "Like of @patrickdebois's tweet" ],
     "published" : [ "2021-05-03T15:50:00+0100" ],
     "category" : [ "configuration-management" ],
