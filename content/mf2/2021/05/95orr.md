@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ravenscimaven/status/1389287502549299215" ],
     "name" : [ "Like of @ravenscimaven's tweet" ],
     "published" : [ "2021-05-04T07:26:00+0100" ],
     "category" : [ "miscarriage" ],
