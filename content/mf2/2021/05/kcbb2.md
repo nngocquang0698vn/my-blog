@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LadyWardog/status/1389043796860710919" ],
     "name" : [ "Like of @LadyWardog's tweet" ],
     "published" : [ "2021-05-04T21:34:00+0100" ],
     "category" : [ "monty-python" ],
