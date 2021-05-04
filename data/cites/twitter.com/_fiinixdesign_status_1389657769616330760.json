@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389657769616330760" ],
+    "url" : [ "https://twitter.com/fiinixdesign/status/1389657769616330760" ],
+    "published" : [ "2021-05-04T19:06:45+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/hdv/status/1389657370524102662" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:fiinixdesign" ],
+        "numeric-id" : [ "89136880" ],
+        "name" : [ "carlos eriksson" ],
+        "nickname" : [ "fiinixdesign" ],
+        "url" : [ "https://twitter.com/fiinixdesign", "https://carloseriksson.com/about/", "http://superdupercritical.com/newsletter" ],
+        "published" : [ "2009-11-11T08:10:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Finland—United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1025286960989052928/nxioLgoh.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Ah yes, that's good. But what if I don't have Twitter either? (I mean I do, but my mom doesn't)",
+      "html" : "Ah yes, that's good. But what if I don't have Twitter either? (I mean I do, but my mom doesn't)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hdv\"></a>"
+    } ]
+  }
+}
