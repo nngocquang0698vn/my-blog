@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389643783684468743" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1389643783684468743" ],
+    "published" : [ "2021-05-04T18:11:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389602008957599751/FQUOGJp2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "My team is looking for an API engineer!\n\nExperience with Java is key and GraphQL would be great as well.\n\nCome work with me :D\n\njobs.netflix.com/jobs/57538364",
+      "html" : "<div style=\"white-space: pre\">My team is looking for an API engineer!\n\nExperience with Java is key and GraphQL would be great as well.\n\nCome work with me :D\n\n<a href=\"https://jobs.netflix.com/jobs/57538364\">jobs.netflix.com/jobs/57538364</a></div>"
+    } ]
+  }
+}
