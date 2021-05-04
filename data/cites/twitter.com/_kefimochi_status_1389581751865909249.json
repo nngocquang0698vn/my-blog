@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389581751865909249" ],
+    "url" : [ "https://twitter.com/kefimochi/status/1389581751865909249" ],
+    "published" : [ "2021-05-04T14:04:41+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/DNNACGM11/status/1389581378828873730" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kefimochi" ],
+        "numeric-id" : [ "1009594769817796608" ],
+        "name" : [ "Cake is Kate. Always has been. 💫" ],
+        "nickname" : [ "kefimochi" ],
+        "url" : [ "https://twitter.com/kefimochi", "https://www.etsy.com/shop/KefiStore" ],
+        "published" : [ "2018-06-21T00:32:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302862083944456192/HxMstsQP.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Meritocracy is a lie, do your research. \n\nAfter 30 years of being in the industry I expect better from you.",
+      "html" : "<div style=\"white-space: pre\">Meritocracy is a lie, do your research. \n\nAfter 30 years of being in the industry I expect better from you.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DNNACGM11\"></a>"
+    } ]
+  }
+}
