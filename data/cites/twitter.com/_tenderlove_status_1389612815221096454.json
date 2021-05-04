@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389612815221096454" ],
+    "url" : [ "https://twitter.com/tenderlove/status/1389612815221096454" ],
+    "published" : [ "2021-05-04T16:08:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tenderlove" ],
+        "numeric-id" : [ "14761655" ],
+        "name" : [ "Aaron Patterson" ],
+        "nickname" : [ "tenderlove" ],
+        "url" : [ "https://twitter.com/tenderlove", "http://tenderlovemaking.com" ],
+        "published" : [ "2008-05-13T17:25:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372299370691842052/KHLAURcj.jpg" ]
+      }
+    } ],
+    "content" : [ "I feel like \"legacy code\" is a pejorative and I wish it wasn't. I find the challenge of adding features and refactoring existing code to be a very fun puzzle, and I wish there was a label that reflects that" ]
+  }
+}
