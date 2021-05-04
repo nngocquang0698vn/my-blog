@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389579458063990786" ],
+    "url" : [ "https://twitter.com/holman/status/1389579458063990786" ],
+    "published" : [ "2021-05-04T13:55:34+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/shl/status/1389576083138174976" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:holman" ],
+        "numeric-id" : [ "11322372" ],
+        "name" : [ "Zach Holman" ],
+        "nickname" : [ "holman" ],
+        "url" : [ "https://twitter.com/holman", "http://zachholman.com" ],
+        "published" : [ "2007-12-19T03:54:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/941033976583503878/zywhUZGs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "civil rights and racism isn’t “politics”",
+      "html" : "civil rights and racism isn’t “politics”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shl\"></a>"
+    } ]
+  }
+}
