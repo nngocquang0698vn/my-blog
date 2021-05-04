@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kapebeansies/status/1388984429276635136" ],
     "name" : [ "Like of @kapebeansies's tweet" ],
     "published" : [ "2021-05-04T07:34:00+0100" ],
     "category" : [ "cute", "art" ],
