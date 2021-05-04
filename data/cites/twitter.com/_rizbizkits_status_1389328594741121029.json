@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389328594741121029" ],
+    "url" : [ "https://twitter.com/rizbizkits/status/1389328594741121029" ],
+    "published" : [ "2021-05-03T21:18:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rizbizkits" ],
+        "numeric-id" : [ "800085538954878976" ],
+        "name" : [ "rizwana akmal khan" ],
+        "nickname" : [ "rizbizkits" ],
+        "url" : [ "https://twitter.com/rizbizkits", "https://www.rizwanakhan.com" ],
+        "published" : [ "2016-11-19T21:17:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279903682012774402/G8yaFDCD.jpg" ]
+      }
+    } ],
+    "content" : [ "🤡 i feel seen" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1389258822070509573" ],
+      "url" : [ "https://twitter.com/rickhanlonii/status/1389258822070509573" ],
+      "published" : [ "2021-05-03T16:41:29+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:rickhanlonii" ],
+          "numeric-id" : [ "244965762" ],
+          "name" : [ "Ricky" ],
+          "nickname" : [ "rickhanlonii" ],
+          "url" : [ "https://twitter.com/rickhanlonii", "http://rickhanlon.codes" ],
+          "published" : [ "2011-01-30T15:13:00+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "EST. AKRON" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1386339032242823173/F-zHn77W.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Me: I'm never doing a talk again\n\nAlso me: Sure I'll give a talk",
+        "html" : "<div style=\"white-space: pre\">Me: I'm never doing a talk again\n\nAlso me: Sure I'll give a talk</div>"
+      } ]
+    }
+  } ]
+}
