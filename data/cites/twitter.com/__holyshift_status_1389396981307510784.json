@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389396981307510784" ],
+    "url" : [ "https://twitter.com/_holyshift/status/1389396981307510784" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1389396875967483907/pu/vid/576x1024/2TcO0_S8jQkzKXRN.mp4?tag=12" ],
+    "published" : [ "2021-05-04T01:50:28+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Outkast/status/1389294689132683266" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_holyshift" ],
+        "numeric-id" : [ "15444912" ],
+        "name" : [ "gm ☯︎" ],
+        "nickname" : [ "_holyshift" ],
+        "url" : [ "https://twitter.com/_holyshift" ],
+        "published" : [ "2008-07-15T19:40:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Tongva territory" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357824199675449344/7Wkr18rD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "BUT WAIT",
+      "html" : "BUT WAIT\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Outkast\"></a>"
+    } ]
+  }
+}
