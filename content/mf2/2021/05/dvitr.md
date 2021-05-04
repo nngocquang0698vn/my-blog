@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1389496264170090501" ],
     "photo" : [ {
       "alt" : "Jamie facing away from the camera with \"Please ask me about my website\" written on the back of the t-shirt",
       "photo" : "https://media.jvt.me/3aca225227.jpeg"
