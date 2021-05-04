@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/fiinixdesign/status/1389657769616330760" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1389662090810601472" ],
     "name" : [ "Reply to https://twitter.com/fiinixdesign/status/1389657769616330760" ],
     "published" : [ "2021-05-04T19:21:17.781Z" ],
     "content" : [ {
