@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1389328594741121029" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2021-05-04T11:10:00+0100" ],
     "category" : [ "public-speaking" ],
