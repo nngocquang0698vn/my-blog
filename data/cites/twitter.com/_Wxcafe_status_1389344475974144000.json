@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389344475974144000" ],
+    "url" : [ "https://twitter.com/Wxcafe/status/1389344475974144000" ],
+    "published" : [ "2021-05-03T22:21:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Wxcafe" ],
+        "numeric-id" : [ "327187863" ],
+        "name" : [ "⁅Gateway of last resort⁆" ],
+        "nickname" : [ "Wxcafe" ],
+        "url" : [ "https://twitter.com/Wxcafe", "https://wxcafe.net" ],
+        "published" : [ "2011-07-01T04:11:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365875959203827718/krgrFkoN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "is sysvinit better, or is systemd better?\n\nbecome enlightened. the right answer is that neither is good, because they make the computer turn on.\n\nthe best init system is no init system. Let the computer stay off.",
+      "html" : "<div style=\"white-space: pre\">is sysvinit better, or is systemd better?\n\nbecome enlightened. the right answer is that neither is good, because they make the computer turn on.\n\nthe best init system is no init system. Let the computer stay off.</div>"
+    } ]
+  }
+}
