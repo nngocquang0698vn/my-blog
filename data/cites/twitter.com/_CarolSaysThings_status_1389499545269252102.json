@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389499545269252102" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1389499545269252102" ],
+    "published" : [ "2021-05-04T08:38:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353375366027460609/2tAyTa6i.jpg" ]
+      }
+    } ],
+    "content" : [ "I made a t-shirt this weekend! 🙌🏼" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1389496264170090501" ],
+      "url" : [ "https://twitter.com/JamieTanna/status/1389496264170090501" ],
+      "published" : [ "2021-05-04T08:24:59+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:JamieTanna" ],
+          "numeric-id" : [ "2292531098" ],
+          "name" : [ "Jamie Tanna | www.jvt.me" ],
+          "nickname" : [ "JamieTanna" ],
+          "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ],
+          "published" : [ "2014-01-15T10:55:11+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290955950111817730/Rkw7UOPn.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Thank you @CarolSaysThings for the most on brand t-shirt I could ever have 😂 (jvt.me/mf2/2021/05/dv…)",
+        "html" : "Thank you <a href=\"https://twitter.com/CarolSaysThings\">@CarolSaysThings</a> for the most on brand t-shirt I could ever have 😂 (<a href=\"https://www.jvt.me/mf2/2021/05/dvitr/\">jvt.me/mf2/2021/05/dv…</a>)"
+      } ],
+      "photo" : [ {
+        "value" : "https://pbs.twimg.com/media/E0h7e-PXoAEbsaV.jpg",
+        "alt" : "Jamie facing away from the camera with \"Please ask me about my website\" written..."
+      }, {
+        "value" : "https://pbs.twimg.com/media/E0h7fO4XEAcPMrx.jpg",
+        "alt" : "Jamie facing towards the camera, smiling, with \"I have a website: www.jvt.me\" written on..."
+      } ]
+    }
+  } ]
+}
