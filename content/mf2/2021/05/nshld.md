@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Wxcafe/status/1389344475974144000" ],
     "name" : [ "Like of @Wxcafe's tweet" ],
     "published" : [ "2021-05-04T11:10:00+0100" ],
     "category" : [ "shitpost" ],
