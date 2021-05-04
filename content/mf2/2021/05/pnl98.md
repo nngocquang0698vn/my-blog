@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yvinthecut/status/1389416154431692800" ],
     "name" : [ "Like of @yvinthecut's tweet" ],
     "published" : [ "2021-05-04T16:56:00+0100" ],
     "category" : [ "music", "tiktok" ],
