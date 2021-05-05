@@ -1,0 +1,40 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389704075751542785" ],
+    "url" : [ "https://twitter.com/jdragsky/status/1389704075751542785" ],
+    "published" : [ "2021-05-04T22:10:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jdragsky" ],
+        "numeric-id" : [ "978713958562652160" ],
+        "name" : [ "jay Dragon 🌄" ],
+        "nickname" : [ "jdragsky" ],
+        "url" : [ "https://twitter.com/jdragsky", "http://possumcreekgames.com" ],
+        "published" : [ "2018-03-27T19:22:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "no 3rd person pronouns for me" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358484607688183811/jE5RdiZ2.jpg" ]
+      }
+    } ],
+    "content" : [ "what if the pandemic happened in 2009 instead" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E0k4J8GWYAQ7ur5.jpg",
+      "alt" : "The forever alone macro with \"It's 2011, quarantine is over, still have no friends to meet up with\""
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0k4K4uWYAMCEFl.jpg",
+      "alt" : "Boromir saying \"One does not sipmly go outside without a mask\""
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0k4LVXXMAMYJDd.jpg",
+      "alt" : "The socially awkward penguin meme with \"go to see jennifer's body in theaters, lose my mask and now my mom thinks i'm an anti-mask lesbian\""
+    }, {
+      "value" : "https://pbs.twimg.com/media/E0k4N7BXEA0fbEz.png",
+      "alt" : "a naruto character silouette with an ipod touch, mask, and \"iDistance\""
+    } ]
+  }
+}
