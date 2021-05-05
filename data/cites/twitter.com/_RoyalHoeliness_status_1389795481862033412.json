@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389795481862033412" ],
+    "url" : [ "https://twitter.com/RoyalHoeliness/status/1389795481862033412" ],
+    "published" : [ "2021-05-05T04:13:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RoyalHoeliness" ],
+        "numeric-id" : [ "146712559" ],
+        "name" : [ "This Machine Kills Fascists" ],
+        "nickname" : [ "RoyalHoeliness" ],
+        "url" : [ "https://twitter.com/RoyalHoeliness" ],
+        "published" : [ "2010-05-22T04:21:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Twin Peaks" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379636022258982917/pxWOPfmm.jpg" ]
+      }
+    } ],
+    "content" : [ "We are all gonna be so fucking weird once this is over." ]
+  }
+}
