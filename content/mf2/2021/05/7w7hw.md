@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/murderxbryan/status/1389685204500074496" ],
     "name" : [ "Like of @murderxbryan's tweet" ],
     "published" : [ "2021-05-05T11:18:00+0100" ],
     "category" : [ "cryptocurrency" ],
