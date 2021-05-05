@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390060442320527371" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1390060442320527371" ],
+    "published" : [ "2021-05-05T21:46:50+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://piccalil.li", "http://piccalil.li", "http://array.chat", "http://every-layout.dev", "http://cube.fyi", "http://swop.link/11ty" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361302576633942017/PYExIn7_.jpg" ]
+      }
+    } ],
+    "content" : [ "ah twitter fixing the ol’ racist crop by getting rid of it I see" ]
+  }
+}
