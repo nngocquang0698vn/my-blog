@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RoyalHoeliness/status/1389795481862033412" ],
     "name" : [ "Like of @RoyalHoeliness's tweet" ],
     "published" : [ "2021-05-05T11:20:00+0100" ],
     "category" : [ "coronavirus" ],
