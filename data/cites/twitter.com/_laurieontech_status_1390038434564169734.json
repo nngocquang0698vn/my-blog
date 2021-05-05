@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390038434564169734" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1390038434564169734" ],
+    "published" : [ "2021-05-05T20:19:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's that time again 🥳\n\nI have a $50 credit to the @ThePracticalDev shop that I'd like to pass on to someone.\n\nShare a blog post, video, or any other type of content you've created and I'll pick a winner at random!",
+      "html" : "<div style=\"white-space: pre\">It's that time again 🥳\n\nI have a $50 credit to the <a href=\"https://twitter.com/ThePracticalDev\">@ThePracticalDev</a> shop that I'd like to pass on to someone.\n\nShare a blog post, video, or any other type of content you've created and I'll pick a winner at random!</div>"
+    } ]
+  }
+}
