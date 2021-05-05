@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1389922009371578369" ],
+    "url" : [ "https://twitter.com/trumbitta/status/1389922009371578369" ],
+    "published" : [ "2021-05-05T12:36:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:trumbitta" ],
+        "numeric-id" : [ "13902852" ],
+        "name" : [ "William J. Ghelfi" ],
+        "nickname" : [ "trumbitta" ],
+        "url" : [ "https://twitter.com/trumbitta", "http://www.williamghelfi.com" ],
+        "published" : [ "2008-02-24T15:35:27+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Planet Earth" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363222807325380608/Ymj_TjaG.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Ok so I just listened for the first time to @IanColdwater talking about Kubernetes and hey they can make extremely complex concepts at least understandable.\n\nSo there’s that, but this is tweet is not about that. No, this tweet is about them also being undercover Italian.",
+      "html" : "<div style=\"white-space: pre\">Ok so I just listened for the first time to <a href=\"https://twitter.com/IanColdwater\">@IanColdwater</a> talking about Kubernetes and hey they can make extremely complex concepts at least understandable.\n\nSo there’s that, but this is tweet is not about that. No, this tweet is about them also being undercover Italian.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E0n-stbX0AAIRRJ.jpg" ]
+  }
+}
