@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ItsLumberzack/status/1389765748348923906" ],
     "name" : [ "Like of @ItsLumberzack's tweet" ],
     "published" : [ "2021-05-05T18:11:00+0100" ],
     "category" : [ "cute" ],
