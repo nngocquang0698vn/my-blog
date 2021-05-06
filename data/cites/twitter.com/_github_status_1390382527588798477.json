@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390382527588798477" ],
+    "url" : [ "https://twitter.com/github/status/1390382527588798477" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1390382510425640974/vid/1280x720/z6zER_s73l4Gu3xX.mp4?tag=14" ],
+    "published" : [ "2021-05-06T19:06:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:github" ],
+        "numeric-id" : [ "13334762" ],
+        "name" : [ "GitHub" ],
+        "nickname" : [ "github" ],
+        "url" : [ "https://twitter.com/github", "http://git.io/c" ],
+        "published" : [ "2008-02-11T04:41:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1338344493234286592/C_ujKIUa.png" ]
+      }
+    } ],
+    "content" : [ "Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥" ]
+  }
+}
