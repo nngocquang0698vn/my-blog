@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SarahEsterman/status/1390076222114189313" ],
     "name" : [ "Like of @SarahEsterman's tweet" ],
     "published" : [ "2021-05-06T09:31:00+0100" ],
     "category" : [ "cute", "battlestations" ],
