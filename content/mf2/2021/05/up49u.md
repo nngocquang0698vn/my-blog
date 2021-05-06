@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlyssaM_InfoSec/status/1390328566701821952" ],
     "name" : [ "Like of @AlyssaM_InfoSec's tweet" ],
     "published" : [ "2021-05-06T21:22:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
