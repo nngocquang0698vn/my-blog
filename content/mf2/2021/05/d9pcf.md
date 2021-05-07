@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/Katiohead/status/1389970605470932998" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1390600750624030722" ],
     "name" : [ "Reply to https://twitter.com/Katiohead/status/1389970605470932998" ],
     "published" : [ "2021-05-07T10:27:00+0100" ],
     "category" : [ "guys" ],
