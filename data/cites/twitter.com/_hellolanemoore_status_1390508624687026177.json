@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390508624687026177" ],
+    "url" : [ "https://twitter.com/hellolanemoore/status/1390508624687026177" ],
+    "published" : [ "2021-05-07T03:27:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hellolanemoore" ],
+        "numeric-id" : [ "287333780" ],
+        "name" : [ "Lane Moore" ],
+        "nickname" : [ "hellolanemoore" ],
+        "url" : [ "https://twitter.com/hellolanemoore", "https://Instagram.com/hellolanemoore", "http://linktr.ee/hellolanemoore" ],
+        "published" : [ "2011-04-24T19:51:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NYC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351747462843740160/jSTe8hki.jpg" ]
+      }
+    } ],
+    "content" : [ "being an adult is just constantly saying \"just hang in there a little longer, buddy,\" like you're talking to a car you hope doesn't die on you except ur the car" ]
+  }
+}
