@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1390785477519847431" ],
     "published" : [ "2021-05-07T22:35:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/Geek_Manager/status/1390615737514004481" ],
