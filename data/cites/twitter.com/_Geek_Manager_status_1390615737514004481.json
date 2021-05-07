@@ -1,0 +1,66 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390615737514004481" ],
+    "url" : [ "https://twitter.com/Geek_Manager/status/1390615737514004481" ],
+    "published" : [ "2021-05-07T10:33:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Geek_Manager" ],
+        "numeric-id" : [ "384239522" ],
+        "name" : [ "Meri “Exiled for the Good of the Realm” Williams" ],
+        "nickname" : [ "Geek_Manager" ],
+        "url" : [ "https://twitter.com/Geek_Manager", "http://blog.geekmanager.co.uk" ],
+        "published" : [ "2011-10-03T10:06:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇿🇦 & 🇬🇧 now 🇬🇷 She/They " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/478845312308498432/yYipJBhv.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Folks, please sign this petition so people like me (and many others!) who are non-binary don’t have to masquerade as something we’re not 🙏🏼 \n\n(I know it’s already hit the 10k needed for debate in Parliament but as we’ve seen that often doesn’t mean jackshit)",
+      "html" : "<div style=\"white-space: pre\">Folks, please sign this petition so people like me (and many others!) who are non-binary don’t have to masquerade as something we’re not 🙏🏼 \n\n(I know it’s already hit the 10k needed for debate in Parliament but as we’ve seen that often doesn’t mean jackshit)</div>\n<a class=\"tag\" href=\"https://twitter.com/whatthetrans/status/1389268942875725829\">twitter.com/whatthetrans/s…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1389268942875725829" ],
+      "url" : [ "https://twitter.com/WhatTheTrans/status/1389268942875725829" ],
+      "published" : [ "2021-05-03T17:21:42+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:WhatTheTrans" ],
+          "numeric-id" : [ "994723213694373889" ],
+          "name" : [ "What The Trans!?" ],
+          "nickname" : [ "WhatTheTrans" ],
+          "url" : [ "https://twitter.com/WhatTheTrans", "https://linktr.ee/whatthetrans" ],
+          "published" : [ "2018-05-10T23:37:50+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "England, United Kingdom" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1161625301681680387/jqZOTevO.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "100,000\n\nIf you haven't signed, sign it. Make it MOOOOORE\n\npetition.parliament.uk/petitions/5802…",
+        "html" : "<div style=\"white-space: pre\">100,000\n\nIf you haven't signed, sign it. Make it MOOOOORE\n\n<a href=\"https://petition.parliament.uk/petitions/580220\">petition.parliament.uk/petitions/5802…</a></div>"
+      } ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/whatthetrans/s…" ],
+      "url" : [ "https://twitter.com/whatthetrans/status/1389268942875725829" ]
+    }
+  } ]
+}
