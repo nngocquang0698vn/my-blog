@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390488481437151236" ],
+    "url" : [ "https://twitter.com/no_goblins/status/1390488481437151236" ],
+    "published" : [ "2021-05-07T02:07:42+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/no_goblins/status/1390477716714004482" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:no_goblins" ],
+        "numeric-id" : [ "16429028" ],
+        "name" : [ "polly pocket monster energy" ],
+        "nickname" : [ "no_goblins" ],
+        "url" : [ "https://twitter.com/no_goblins", "https://twitch.com/no_goblins" ],
+        "published" : [ "2008-09-24T02:00:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328874081630838785/3XJlhxSo.jpg" ]
+      }
+    } ],
+    "content" : [ "My \"No, I won’t peg you\" t-shirt has people asking a lot of questions already answered by my shirt" ]
+  }
+}
