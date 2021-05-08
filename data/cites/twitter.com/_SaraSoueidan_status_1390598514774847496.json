@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390598514774847496" ],
+    "url" : [ "https://twitter.com/SaraSoueidan/status/1390598514774847496" ],
+    "published" : [ "2021-05-07T09:24:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SaraSoueidan" ],
+        "numeric-id" : [ "717654410" ],
+        "name" : [ "Sara Soueidan" ],
+        "nickname" : [ "SaraSoueidan" ],
+        "url" : [ "https://twitter.com/SaraSoueidan", "https://sarasoueidan.com", "http://practical-accessibility.today" ],
+        "published" : [ "2012-07-26T07:57:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lebanon 🇱🇧" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386416612090294273/7lK7KcQ-.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Another Friday another special ⭐ Thank you ⭐ to everyone who is providing an #RSS feed on their site. Five stars ⭐⭐⭐⭐⭐ for feeds providing the full article, not just an excerpt.",
+      "html" : "Another Friday another special ⭐ Thank you ⭐ to everyone who is providing an <a href=\"https://twitter.com/search?q=%23RSS\">#RSS</a> feed on their site. Five stars ⭐⭐⭐⭐⭐ for feeds providing the full article, not just an excerpt."
+    } ]
+  }
+}
