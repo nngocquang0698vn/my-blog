@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391195279966179330" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1391195279966179330" ],
+    "published" : [ "2021-05-09T00:56:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s not just VC - there is pressure in executive leadership roles to be further and further from the work itself. You don’t have to do that - you may not be the critical path engineer anymore, but you can stay writing code forever if you want/like it." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1391123056853078016" ],
+      "url" : [ "https://twitter.com/terronk/status/1391123056853078016" ],
+      "published" : [ "2021-05-08T20:09:17+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:terronk" ],
+          "numeric-id" : [ "14829286" ],
+          "name" : [ "🟣 Lee Edwards" ],
+          "nickname" : [ "terronk" ],
+          "url" : [ "https://twitter.com/terronk", "https://github.com/ledwards" ],
+          "published" : [ "2008-05-19T06:12:33+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1389719412194775043/eB6MqYrr.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I’ve been told by some VCs not to code at all, because of how it will make me look “Junior.”\n\nI learn so much more by actually writing the code than by reading about the product. This may seem obvious to a programmer. But I promise you it’s not obvious to most VCs.",
+        "html" : "<div style=\"white-space: pre\">I’ve been told by some VCs not to code at all, because of how it will make me look “Junior.”\n\nI learn so much more by actually writing the code than by reading about the product. This may seem obvious to a programmer. But I promise you it’s not obvious to most VCs.</div>"
+      } ]
+    }
+  } ]
+}
