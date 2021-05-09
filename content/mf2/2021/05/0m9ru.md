@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/samkottler/status/1391401429366104071" ],
     "name" : [ "Like of @samkottler's tweet" ],
     "published" : [ "2021-05-09T16:05:00+0100" ],
     "category" : [ "advertising" ],
