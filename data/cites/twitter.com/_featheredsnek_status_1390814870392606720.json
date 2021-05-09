@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390814870392606720" ],
+    "url" : [ "https://twitter.com/featheredsnek/status/1390814870392606720" ],
+    "published" : [ "2021-05-07T23:44:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:featheredsnek" ],
+        "numeric-id" : [ "1283304577454927874" ],
+        "name" : [ "Coatl" ],
+        "nickname" : [ "featheredsnek" ],
+        "url" : [ "https://twitter.com/featheredsnek" ],
+        "published" : [ "2020-07-15T07:37:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363512721451282437/opUJzrqS.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "funny meme i had to draw\n\ncontext will not be given",
+      "html" : "<div style=\"white-space: pre\">funny meme i had to draw\n\ncontext will not be given</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E00qsJ1VIAEC9uO.jpg", "https://pbs.twimg.com/media/E00qs-2VkAIF4kh.jpg" ]
+  }
+}
