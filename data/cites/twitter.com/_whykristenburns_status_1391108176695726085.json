@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391108176695726085" ],
+    "url" : [ "https://twitter.com/whykristenburns/status/1391108176695726085" ],
+    "published" : [ "2021-05-08T19:10:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:whykristenburns" ],
+        "numeric-id" : [ "3253303949" ],
+        "name" : [ "Kit (Metaphors and Moonlight)" ],
+        "nickname" : [ "whykristenburns" ],
+        "url" : [ "https://twitter.com/whykristenburns", "http://blog.kristenburns.com" ],
+        "published" : [ "2015-05-14T09:06:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371593347270385664/KTYA_xcY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I often talk about adding alt text to images, but I never actually talk about what makes good alt text, for people who are unsure. So here's my perspective as a sighted person who sometimes uses a screen reader.\n\nTips for writing alt text for images and gifs:",
+      "html" : "<div style=\"white-space: pre\">I often talk about adding alt text to images, but I never actually talk about what makes good alt text, for people who are unsure. So here's my perspective as a sighted person who sometimes uses a screen reader.\n\nTips for writing alt text for images and gifs:</div>"
+    } ]
+  }
+}
