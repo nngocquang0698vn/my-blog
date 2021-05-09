@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391316290053287936" ],
+    "url" : [ "https://twitter.com/JxmesAVFC/status/1391316290053287936" ],
+    "published" : [ "2021-05-09T08:57:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Susan70susan/status/1391315630536626176" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JxmesAVFC" ],
+        "numeric-id" : [ "1244606671218974720" ],
+        "name" : [ "James" ],
+        "nickname" : [ "JxmesAVFC" ],
+        "url" : [ "https://twitter.com/JxmesAVFC" ],
+        "published" : [ "2020-03-30T12:45:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "West Midlands, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385873331644153858/MkqdRaDf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Calm it Susan it’s only Sunday morning",
+      "html" : "Calm it Susan it’s only Sunday morning\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BBCNews\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PoliticsForAlI\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Susan70susan\"></a>"
+    } ]
+  }
+}
