@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391013074719543297" ],
+    "url" : [ "https://twitter.com/unfortunatalie/status/1391013074719543297" ],
+    "published" : [ "2021-05-08T12:52:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:unfortunatalie" ],
+        "numeric-id" : [ "19372014" ],
+        "name" : [ "Nat Guest" ],
+        "nickname" : [ "unfortunatalie" ],
+        "url" : [ "https://twitter.com/unfortunatalie", "https://nothingbutawordbag.wordpress.com/" ],
+        "published" : [ "2009-01-23T00:24:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ilford, London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385595526637359106/lbno_0kV.jpg" ]
+      }
+    } ],
+    "content" : [ "Stop telling me that getting everyone back into the office will be good for mental health. It will be good for SOME people's mental health. Being in the office every day was also very bad for SOME people's mental health." ]
+  }
+}
