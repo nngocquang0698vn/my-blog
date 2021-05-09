@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/featheredsnek/status/1390814870392606720" ],
     "name" : [ "Like of @featheredsnek's tweet" ],
     "published" : [ "2021-05-09T10:47:00+0100" ],
     "category" : [ "shitpost" ],
