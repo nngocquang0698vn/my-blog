@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dildog/status/1390848784918327298" ],
     "name" : [ "Like of @dildog's tweet" ],
     "published" : [ "2021-05-09T10:30:00+0100" ],
     "category" : [ "shitpost" ],
