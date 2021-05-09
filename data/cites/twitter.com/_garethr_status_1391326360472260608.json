@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391326360472260608" ],
+    "url" : [ "https://twitter.com/garethr/status/1391326360472260608" ],
+    "published" : [ "2021-05-09T09:37:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:garethr" ],
+        "numeric-id" : [ "80703" ],
+        "name" : [ "Gareth Rushgrove" ],
+        "nickname" : [ "garethr" ],
+        "url" : [ "https://twitter.com/garethr", "https://garethr.dev" ],
+        "published" : [ "2006-12-19T21:00:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cambridge and London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM.jpg" ]
+      }
+    } ],
+    "content" : [ "I still write code for a bunch of reasons. Some of that even runs in production (mainly via open source contributions) or inspires code that does. Prototypes for discussion, demonstrating something to a customer, demos, data analysis, exploration." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1391195279966179330" ],
+      "url" : [ "https://twitter.com/adamhjk/status/1391195279966179330" ],
+      "published" : [ "2021-05-09T00:56:16+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:adamhjk" ],
+          "numeric-id" : [ "13682312" ],
+          "name" : [ "Adam Jacob" ],
+          "nickname" : [ "adamhjk" ],
+          "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ],
+          "published" : [ "2008-02-19T18:02:55+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "It’s not just VC - there is pressure in executive leadership roles to be further and further from the work itself. You don’t have to do that - you may not be the critical path engineer anymore, but you can stay writing code forever if you want/like it.",
+        "html" : "It’s not just VC - there is pressure in executive leadership roles to be further and further from the work itself. You don’t have to do that - you may not be the critical path engineer anymore, but you can stay writing code forever if you want/like it.\n<a class=\"tag\" href=\"https://twitter.com/terronk/status/1391123056853078016\">twitter.com/terronk/status…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/terronk/status…" ],
+        "url" : [ "https://twitter.com/terronk/status/1391123056853078016" ]
+      }
+    } ]
+  } ]
+}
