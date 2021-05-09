@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamhjk/status/1391195279966179330" ],
     "name" : [ "Like of @adamhjk's tweet" ],
     "published" : [ "2021-05-09T11:04:00+0100" ],
     "category" : [ "technical-leadership" ],
