@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JxmesAVFC/status/1391316290053287936" ],
     "name" : [ "Like of @JxmesAVFC's tweet" ],
     "published" : [ "2021-05-09T11:11:00+0100" ],
     "like-of" : [ "https://twitter.com/JxmesAVFC/status/1391316290053287936" ],
