@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/garethr/status/1391326360472260608" ],
     "name" : [ "Like of @garethr's tweet" ],
     "published" : [ "2021-05-09T11:05:00+0100" ],
     "category" : [ "technical-leadership" ],
