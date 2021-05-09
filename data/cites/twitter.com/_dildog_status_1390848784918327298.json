@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1390848784918327298" ],
+    "url" : [ "https://twitter.com/dildog/status/1390848784918327298" ],
+    "published" : [ "2021-05-08T01:59:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dildog" ],
+        "numeric-id" : [ "14159456" ],
+        "name" : [ "D℞. TWEETGOOD" ],
+        "nickname" : [ "dildog" ],
+        "url" : [ "https://twitter.com/dildog" ],
+        "published" : [ "2008-03-16T21:15:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Northern Virginia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389018895835701252/66T-bY_n.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E01JmTKXoAUNpNN.jpg" ]
+  }
+}
