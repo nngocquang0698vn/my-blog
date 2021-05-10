@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hondanhon/status/1391488162736656385" ],
     "name" : [ "Like of @hondanhon's tweet" ],
     "published" : [ "2021-05-10T10:46:00+0100" ],
     "category" : [ "shitpost", "interviewing" ],
