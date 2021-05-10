@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1391419831308541954" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2021-05-10T07:47:00+0100" ],
     "category" : [ "shitpost" ],
