@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/simonw/status/1391544159215919105" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1391643374902468608" ],
     "name" : [ "Reply to https://twitter.com/simonw/status/1391544159215919105" ],
     "published" : [ "2021-05-10T07:34:00+0100" ],
     "post-status" : [ "published" ],
