@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1391692473399975936" ],
     "published" : [ "2021-05-10T10:44:00+0100" ],
     "category" : [ "community", "project-function", "tech-nottingham" ],
     "repost-of" : [ "https://twitter.com/technottingham/status/1391651216300548096" ],
