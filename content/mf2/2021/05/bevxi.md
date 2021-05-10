@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sammi_Sativa/status/1391431137273073669" ],
     "name" : [ "Like of @Sammi_Sativa's tweet" ],
     "published" : [ "2021-05-10T07:47:00+0100" ],
     "category" : [ "shitpost" ],
