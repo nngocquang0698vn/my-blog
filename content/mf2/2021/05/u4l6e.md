@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1391667124742021122" ],
     "photo" : [ {
       "alt" : "Two mugs sitting on the side, one with \"cat dad\" and one with \"cat mum\" and each with a smiling cat mouth ",
       "photo" : "https://media.jvt.me/1cb4130344.jpeg"
