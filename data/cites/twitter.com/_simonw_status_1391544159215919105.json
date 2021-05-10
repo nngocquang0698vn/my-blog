@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391544159215919105" ],
+    "url" : [ "https://twitter.com/simonw/status/1391544159215919105" ],
+    "published" : [ "2021-05-10T00:02:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "numeric-id" : [ "12497" ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ]
+      }
+    } ],
+    "content" : [ "Out of interest: if you have a blob of JSON on your clipboard and you want to see a pretty-printed version of it, what's your fastest way to do that?" ]
+  }
+}
