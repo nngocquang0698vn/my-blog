@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391692473399975936" ],
+    "url" : [ "https://twitter.com/JamieTanna/status/1391692473399975936" ],
+    "published" : [ "2021-05-10T09:51:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamieTanna" ],
+        "numeric-id" : [ "2292531098" ],
+        "name" : [ "Jamie Tanna | www.jvt.me" ],
+        "nickname" : [ "JamieTanna" ],
+        "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ],
+        "published" : [ "2014-01-15T10:55:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389663671027224582/18Ugf4IV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Very excited for tonight's #TechNott with @Rizbizkits and darylcecile.net - they do some amazing stuff with projectfunction.io and we're all very lucky to get to hear some more about what they do to make tech a better… jvt.me/mf2/2021/05/mv… ",
+      "html" : "Very excited for tonight's <a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> with <a href=\"https://twitter.com/rizbizkits\">@Rizbizkits</a> and <a href=\"http://darylcecile.net\">darylcecile.net</a> - they do some amazing stuff with <a href=\"https://projectfunction.io/\">projectfunction.io</a> and we're all very lucky to get to hear some more about what they do to make tech a better… <a href=\"https://www.jvt.me/mf2/2021/05/mv0ff/\">jvt.me/mf2/2021/05/mv…</a> "
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1391651216300548096" ],
+      "url" : [ "https://twitter.com/technottingham/status/1391651216300548096" ],
+      "published" : [ "2021-05-10T07:08:00+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:technottingham" ],
+          "numeric-id" : [ "384492431" ],
+          "name" : [ "Tech Nottingham" ],
+          "nickname" : [ "technottingham" ],
+          "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+          "published" : [ "2011-10-03T19:47:31+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1023974499757293570/ZoPc_QsO.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "🌟 TODAY AT 18:30 🙌\n\n#TechNott welcomes @rizbizkits and @darylcecile to share the story of growing @projectfunction - a local startup organisation bringing free tech training to marginalised people\n\nnott.tech/tn-may-2021",
+        "html" : "<div style=\"white-space: pre\">🌟 TODAY AT 18:30 🙌\n\n<a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> welcomes <a href=\"https://twitter.com/rizbizkits\">@rizbizkits</a> and <a href=\"https://twitter.com/darylcecile\">@darylcecile</a> to share the story of growing <a href=\"https://twitter.com/projectfunction\">@projectfunction</a> - a local startup organisation bringing free tech training to marginalised people\n\n<a href=\"https://nott.tech/tn-may-2021\">nott.tech/tn-may-2021</a></div>"
+      } ],
+      "photo" : [ {
+        "value" : "https://pbs.twimg.com/media/Ez5aVxZWYAI3KK2.png",
+        "alt" : "A poster promoting Rizwana Khan and Daryl Cecil of Project Function speaking at Tech Nottingham on Monday 10th May 2021"
+      } ]
+    }
+  } ]
+}
