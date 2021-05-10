@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391488162736656385" ],
+    "url" : [ "https://twitter.com/hondanhon/status/1391488162736656385" ],
+    "published" : [ "2021-05-09T20:20:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hondanhon" ],
+        "numeric-id" : [ "32124032" ],
+        "name" : [ "Dan Hon" ],
+        "nickname" : [ "hondanhon" ],
+        "url" : [ "https://twitter.com/hondanhon", "http://danhon.com", "http://newsletter.danhon.com" ],
+        "published" : [ "2009-04-16T19:36:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294392560039759872/3xd3HdgQ.jpg" ]
+      }
+    } ],
+    "content" : [ "“Yeah, I’m a self-taught Excel user, and I do spreadsheets on my own time and at the weekends. I’d never hire anyone who doesn’t do spreadsheets outside of work…”" ]
+  }
+}
