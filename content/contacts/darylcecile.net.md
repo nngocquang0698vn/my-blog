@@ -5,7 +5,7 @@
   "properties" : {
     "rel=twitter" : [ "darylcecile" ],
     "name" : [ "Daryl Cecile" ],
-    "nickname" : [ "darylcecile.net " ],
+    "nickname" : [ "darylcecile.net" ],
     "url" : [ "https://darylcecile.net/" ]
   },
   "kind" : "contacts",
