@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391948147828527111" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1391948147828527111" ],
+    "published" : [ "2021-05-11T02:47:54+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1391947595350646786" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Compare two numbers: how much money you're allowed to spend on a book, conference, or software without approval.\n\nAnd how many people you can invite to an hour-long meeting multiplied by their average hourly compensation.",
+      "html" : "<div style=\"white-space: pre\">Compare two numbers: how much money you're allowed to spend on a book, conference, or software without approval.\n\nAnd how many people you can invite to an hour-long meeting multiplied by their average hourly compensation.</div>"
+    } ]
+  }
+}
