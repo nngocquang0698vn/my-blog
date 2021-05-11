@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391959301283926020" ],
+    "url" : [ "https://twitter.com/krisnova/status/1391959301283926020" ],
+    "published" : [ "2021-05-11T03:32:13+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/gabrtv/status/1391951192176021505" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "name" : [ "kris nóva 🙂" ],
+        "nickname" : [ "krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://nivenly.com", "http://nivenly.com/live" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🏴‍☠️ she/they/he" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373849820398448640/z4wufloD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "join the work stays on the work devices party - all the cool kids with low anxiety and thriving social lives are doing it",
+      "html" : "join the work stays on the work devices party - all the cool kids with low anxiety and thriving social lives are doing it\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gabrtv\"></a>"
+    } ]
+  }
+}
