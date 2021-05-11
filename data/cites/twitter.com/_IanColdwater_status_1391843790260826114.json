@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1391843790260826114" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1391843790260826114" ],
+    "published" : [ "2021-05-10T19:53:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "http://lookitup.baby" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386093892987080707/Y2FkJaVX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "has literally anyone ever used that post attendee Zoom tab for anything? and/or figured out a way to automate closing it\n\nwhat is it even supposed to be for besides cluttering up your tab bar? I don't get it",
+      "html" : "<div style=\"white-space: pre\">has literally anyone ever used that post attendee Zoom tab for anything? and/or figured out a way to automate closing it\n\nwhat is it even supposed to be for besides cluttering up your tab bar? I don't get it</div>"
+    } ]
+  }
+}
