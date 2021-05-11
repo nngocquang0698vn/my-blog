@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392045330028503040" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1392045330028503040" ],
+    "published" : [ "2021-05-11T09:14:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1392025517860298755" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "name" : [ "Tierney Cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manhattan" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377472140023332865/OXkG6HWc.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’m never going to directly depend on something built by Palantir. I wish they weren’t awful, but they are.",
+      "html" : "I’m never going to directly depend on something built by Palantir. I wish they weren’t awful, but they are.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>"
+    } ]
+  }
+}
