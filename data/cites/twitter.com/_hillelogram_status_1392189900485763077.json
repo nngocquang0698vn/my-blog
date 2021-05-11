@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392189900485763077" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1392189900485763077" ],
+    "published" : [ "2021-05-11T18:48:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://is.gd/ptlaplus", "http://is.gd/zWfYjd" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392206204810768391/7OX1sAeC.png" ]
+      }
+    } ],
+    "content" : [ "Unit testing requires significantly less skill, time investment, and infrastructure than any other form of testing and almost any other form of verification. So anybody can pick it up and apply it to any project. That's why it's the go-to technique" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1392173380418248704" ],
+      "url" : [ "https://twitter.com/danluu/status/1392173380418248704" ],
+      "published" : [ "2021-05-11T17:42:53+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:danluu" ],
+          "numeric-id" : [ "18275645" ],
+          "name" : [ "Dan Luu" ],
+          "nickname" : [ "danluu" ],
+          "url" : [ "https://twitter.com/danluu", "http://danluu.com", "http://patreon.com/danluu" ],
+          "published" : [ "2008-12-21T00:21:46+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Vancouver, British Columbia" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1372102910897623041/jswKUJa_.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "One thing I've wondered about is why software folks so often use unit testing as their go-to testing technique.\n\nWhen I've worked at companies that ship few enough bugs that it would be considered a failure to have one serious bug in a year, unit testing has been a last resort.",
+        "html" : "<div style=\"white-space: pre\">One thing I've wondered about is why software folks so often use unit testing as their go-to testing technique.\n\nWhen I've worked at companies that ship few enough bugs that it would be considered a failure to have one serious bug in a year, unit testing has been a last resort.</div>"
+      } ]
+    }
+  } ]
+}
