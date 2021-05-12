@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392472783804899334" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1392472783804899334" ],
+    "published" : [ "2021-05-12T13:32:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380071732736835584/JiUeFsgG.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just a reminder that:\n\nSenior engineer @ company A !== Senior engineer @ company B ❤️\n\nIf you see someone get the title in less time than you, you can be happy for them! But the qualifications change between companies so don't compare yourself & your career journey 💁‍♀️",
+      "html" : "<div style=\"white-space: pre\">Just a reminder that:\n\nSenior engineer @ company A !== Senior engineer @ company B ❤️\n\nIf you see someone get the title in less time than you, you can be happy for them! But the qualifications change between companies so don't compare yourself &amp; your career journey 💁‍♀️</div>"
+    } ]
+  }
+}
