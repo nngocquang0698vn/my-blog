@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tuanabout/status/1392106775663546370" ],
     "name" : [ "Like of @tuanabout's tweet" ],
     "published" : [ "2021-05-11T21:18:00+0100" ],
     "category" : [ "shitpost" ],

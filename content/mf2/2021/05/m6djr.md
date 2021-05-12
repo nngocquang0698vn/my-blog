@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sabinameschke/status/1391806551355236353" ],
     "name" : [ "Like of @sabinameschke's tweet" ],
     "published" : [ "2021-05-11T21:18:00+0100" ],
     "category" : [ "shitpost" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ghoul_YK/status/1391953260962107392" ],
     "name" : [ "Like of @Ghoul_YK's tweet" ],
     "published" : [ "2021-05-11T21:18:00+0100" ],
     "category" : [ "shitpost" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheRealSicarius/status/1392202613345726465" ],
     "name" : [ "Like of @TheRealSicarius's tweet" ],
     "published" : [ "2021-05-11T20:56:00+0100" ],
     "category" : [ "gaming" ],

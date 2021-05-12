@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/javavvitch/status/1392143175897202694" ],
     "name" : [ "Like of @javavvitch's tweet" ],
     "published" : [ "2021-05-11T16:53:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

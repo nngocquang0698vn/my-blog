@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1392280159173201921" ],
     "published" : [ "2021-05-12T01:44:00+0100" ],
     "category" : [ "kubernetes" ],
     "post-status" : [ "published" ],

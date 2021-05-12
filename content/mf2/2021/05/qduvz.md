@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AvantGeekArt/status/1392146132617334784" ],
     "name" : [ "Like of @AvantGeekArt's tweet" ],
     "published" : [ "2021-05-11T21:04:00+0100" ],
     "category" : [ "memes" ],

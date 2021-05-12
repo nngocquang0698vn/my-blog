@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bitandbang/status/1392387414350499841" ],
     "name" : [ "Like of @bitandbang's tweet" ],
     "published" : [ "2021-05-12T10:25:00+0100" ],
     "category" : [ "open-source", "memes" ],
