@@ -1,0 +1,21 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392155769014001665" ],
+    "url" : [ "https://twitter.com/thekitze/status/1392155769014001665" ],
+    "published" : [ "2021-05-11T16:32:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:thekitze" ],
+        "numeric-id" : [ "50339173" ],
+        "name" : [ "Kitze" ],
+        "nickname" : [ "thekitze" ],
+        "url" : [ "https://twitter.com/thekitze", "https://kitze.io", "http://sizzy.co", "http://fungarzione.com", "http://reactacademy.io", "http://twizzle.app", "http://youtube.com/kitze", "http://twitch.tv/thekitze", "http://youtube.com/tiredofwebdev" ],
+        "published" : [ "2009-06-24T15:41:08+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1390937366303477762/9SIYxLPm.jpg" ]
+      }
+    } ],
+    "content" : [ "Most apps would do just fine with a “regular“ server and a postgres db. Devs need to fucking relax." ]
+  }
+}
