@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392387414350499841" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1392387414350499841" ],
+    "published" : [ "2021-05-12T07:53:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "name" : [ "Tierney Cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manhattan" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377472140023332865/OXkG6HWc.jpg" ]
+      }
+    } ],
+    "content" : [ "the state of open source funding" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E1LAxZ9XoAAnfUA.jpg",
+      "alt" : "\"trade offer\" meme with the text \"I receive:\" followed by \"software that is vital to sustaining my business\" and \"you receive:\" followed by \"a few dollars from my employees who chose to give it to you from their salary post-tax"
+    } ]
+  }
+}
