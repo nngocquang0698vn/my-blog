@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392278666655240194" ],
+    "url" : [ "https://twitter.com/ksylor/status/1392278666655240194" ],
+    "published" : [ "2021-05-12T00:41:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ksylor" ],
+        "numeric-id" : [ "23232640" ],
+        "name" : [ "Katie Sylor-Miller" ],
+        "nickname" : [ "ksylor" ],
+        "url" : [ "https://twitter.com/ksylor", "http://sylormiller.com/" ],
+        "published" : [ "2009-03-07T20:47:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Greater Boston" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1118975343384244224/vL1Xk4Ri.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Seniority on a team sometimes means doing the shitty/boring/annoying thing so that your teammates can do the fun/exciting/growth thing. \n\nDoes it get you promoted? Probably not. \nIs it a sign of true leadership? Absolutely.",
+      "html" : "<div style=\"white-space: pre\">Seniority on a team sometimes means doing the shitty/boring/annoying thing so that your teammates can do the fun/exciting/growth thing. \n\nDoes it get you promoted? Probably not. \nIs it a sign of true leadership? Absolutely.</div>"
+    } ]
+  }
+}
