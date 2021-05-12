@@ -1,16 +1,16 @@
 ---
 title: "Server-less Wiremock, or Using Wiremock Without an HTTP Server"
 description: "How to match Wiremock's stubs without running an HTTP Server."
+date: "2021-04-29T18:51:00+0100"
 tags:
-- blogumentation
-- java
-- testing
-- wiremock
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-04-29T18:51:00+0100
+- "blogumentation"
+- "java"
+- "testing"
+- "wiremock"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/2a42816de8.png"
 slug: "wiremock-serverless"
-image: https://media.jvt.me/2a42816de8.png
 ---
 I'm a big fan of using [Wiremock](http://wiremock.org/) for stubbing out HTTP services - it can be run as part of your local tests, and it can be deployed as a standalone executable JAR. It runs by having an HTTP server that translates the incoming HTTP requests to the stubbed JSON/Java response, and has bindings that even allow it to run with Node.JS applications.
 
@@ -57,3 +57,5 @@ ResponseDefinition response  = event.getResponseDefinition();
 ```
 
 This gives us a really nice, lightweight, solution for running Wiremock without the overhead of HTTP!
+
+Note that this is currently an undocumentes use of an internal API - [see this issue thread](https://github.com/tomakehurst/wiremock/issues/1476) where we're discussing alternatives to make this a public API.
