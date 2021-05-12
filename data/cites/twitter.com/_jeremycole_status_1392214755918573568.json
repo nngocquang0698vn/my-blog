@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392214755918573568" ],
+    "url" : [ "https://twitter.com/jeremycole/status/1392214755918573568" ],
+    "published" : [ "2021-05-11T20:27:18+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/bradfitz/status/1392210556522700803" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jeremycole" ],
+        "numeric-id" : [ "8938272" ],
+        "name" : [ "Jeremy Cole" ],
+        "nickname" : [ "jeremycole" ],
+        "url" : [ "https://twitter.com/jeremycole", "http://jcole.us/" ],
+        "published" : [ "2007-09-17T20:33:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Reno, NV, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459054899322302466/dRQzABPN.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Ruby is great 😢",
+      "html" : "Ruby is great 😢\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bradfitz\"></a>"
+    } ]
+  }
+}
