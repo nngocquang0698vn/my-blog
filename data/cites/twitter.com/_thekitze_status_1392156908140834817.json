@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392156908140834817" ],
+    "url" : [ "https://twitter.com/thekitze/status/1392156908140834817" ],
+    "published" : [ "2021-05-11T16:37:26+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/dragneelfps/status/1392156207398277121" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:thekitze" ],
+        "numeric-id" : [ "50339173" ],
+        "name" : [ "Kitze" ],
+        "nickname" : [ "thekitze" ],
+        "url" : [ "https://twitter.com/thekitze", "https://kitze.io", "http://sizzy.co", "http://fungarzione.com", "http://reactacademy.io", "http://twizzle.app", "http://youtube.com/kitze", "http://twitch.tv/thekitze", "http://youtube.com/tiredofwebdev" ],
+        "published" : [ "2009-06-24T15:41:08+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1390937366303477762/9SIYxLPm.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I don‘t know shit about databases",
+      "html" : "I don‘t know shit about databases\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dragneelfps\"></a>"
+    } ]
+  }
+}
