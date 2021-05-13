@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392762042772299782" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1392762042772299782" ],
+    "published" : [ "2021-05-13T08:42:01+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/alessi0p/status/1392761029306814466" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302615077904945154/iunoaUw1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Have you read the stuff he wrote? These aren’t minor passing comments. It’s probably the most sexist stuff I’ve ever read. No amount of impeccable behaviour since then can make up for the fact he’s still profiting from those book sales.",
+      "html" : "Have you read the stuff he wrote? These aren’t minor passing comments. It’s probably the most sexist stuff I’ve ever read. No amount of impeccable behaviour since then can make up for the fact he’s still profiting from those book sales.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alessi0p\"></a>"
+    } ]
+  }
+}
