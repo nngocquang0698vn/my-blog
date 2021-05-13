@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392689968204505098" ],
+    "url" : [ "https://twitter.com/cramforce/status/1392689968204505098" ],
+    "published" : [ "2021-05-13T03:55:38+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/MarshallOfSound/status/1392688287702155269" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cramforce" ],
+        "numeric-id" : [ "15534471" ],
+        "name" : [ "Malte Ubl" ],
+        "nickname" : [ "cramforce" ],
+        "url" : [ "https://twitter.com/cramforce", "https://www.industrialempathy.com/" ],
+        "published" : [ "2008-07-22T18:04:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247154720080191490/RTBtUks5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Each package.json owner would get to decide how to distribute the funds across its dependencies. They must distribute half of what they got from their dependent and by default it's gets evenly distributed.\n\nSo, this is recursive with amounts going down with log(k)",
+      "html" : "<div style=\"white-space: pre\">Each package.json owner would get to decide how to distribute the funds across its dependencies. They must distribute half of what they got from their dependent and by default it's gets evenly distributed.\n\nSo, this is recursive with amounts going down with log(k)</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MarshallOfSound\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>"
+    } ]
+  }
+}
