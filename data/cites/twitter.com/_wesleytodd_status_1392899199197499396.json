@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392899199197499396" ],
+    "url" : [ "https://twitter.com/wesleytodd/status/1392899199197499396" ],
+    "published" : [ "2021-05-13T17:47:02+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ThisIsMissEm/status/1392896447977242625" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:wesleytodd" ],
+        "numeric-id" : [ "80405565" ],
+        "name" : [ "Wes" ],
+        "nickname" : [ "wesleytodd" ],
+        "url" : [ "https://twitter.com/wesleytodd", "http://github.com/wesleytodd", "http://npmjs.com/~wesleytodd" ],
+        "published" : [ "2009-10-06T21:18:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "They say I’m a digital nomad" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1159869074173657089/24P1ziVb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Without this setting you can still just type \"p\".  Since I use vim keybindings I often just block select \"pick\" and replace it with \"s\".\n\nThis is just about the default it fills in for you.",
+      "html" : "<div style=\"white-space: pre\">Without this setting you can still just type \"p\".  Since I use vim keybindings I often just block select \"pick\" and replace it with \"s\".\n\nThis is just about the default it fills in for you.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ThisIsMissEm\"></a>"
+    } ]
+  }
+}
