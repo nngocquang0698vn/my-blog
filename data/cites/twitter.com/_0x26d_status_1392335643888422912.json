@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392335643888422912" ],
+    "url" : [ "https://twitter.com/0x26d/status/1392335643888422912" ],
+    "published" : [ "2021-05-12T04:27:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:0x26d" ],
+        "numeric-id" : [ "1115161683062714368" ],
+        "name" : [ "caitlin" ],
+        "nickname" : [ "0x26d" ],
+        "url" : [ "https://twitter.com/0x26d", "https://invisiblegirlproject.org/" ],
+        "published" : [ "2019-04-08T07:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392310813872967682/YRZIDgGE.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E1KR4xNVIAEocwW.jpg" ]
+  }
+}
