@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392654281745047554" ],
+    "url" : [ "https://twitter.com/verge/status/1392654281745047554" ],
+    "published" : [ "2021-05-13T01:33:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:verge" ],
+        "numeric-id" : [ "275686563" ],
+        "name" : [ "The Verge" ],
+        "nickname" : [ "verge" ],
+        "url" : [ "https://twitter.com/verge", "http://www.theverge.com" ],
+        "published" : [ "2011-04-01T19:54:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "‘Misogynistic’ Apple hire is out hours after employees call for investigation theverge.com/2021/5/12/2243…",
+      "html" : "‘Misogynistic’ Apple hire is out hours after employees call for investigation <a href=\"https://www.theverge.com/2021/5/12/22433437/apple-hire-antonio-garcia-martinez-out-petition-investigation?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\">theverge.com/2021/5/12/2243…</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E1OzsDpXEAQcJCG.jpg" ]
+  }
+}
