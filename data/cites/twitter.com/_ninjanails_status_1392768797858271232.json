@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392768797858271232" ],
+    "url" : [ "https://twitter.com/ninjanails/status/1392768797858271232" ],
+    "published" : [ "2021-05-13T09:08:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ninjanails" ],
+        "numeric-id" : [ "167740453" ],
+        "name" : [ "Seren Davies" ],
+        "nickname" : [ "ninjanails" ],
+        "url" : [ "https://twitter.com/ninjanails", "http://www.serendavies.me", "http://ninjanails.com" ],
+        "published" : [ "2010-07-17T11:06:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oxford / Bristol" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146364466801577985/TvCfb49a.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Was running though a presentation was interrupted and they started talking about slides at the beginning. \nVery calmly asked if this was relevant to the slide I just spoke about and if not could I carry on presenting.\nGot told after by someone in the group it was a boss move",
+      "html" : "<div style=\"white-space: pre\">Was running though a presentation was interrupted and they started talking about slides at the beginning. \nVery calmly asked if this was relevant to the slide I just spoke about and if not could I carry on presenting.\nGot told after by someone in the group it was a boss move</div>"
+    } ]
+  }
+}
