@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392951779223089156" ],
+    "url" : [ "https://twitter.com/spearsarah/status/1392951779223089156" ],
+    "published" : [ "2021-05-13T21:15:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:spearsarah" ],
+        "numeric-id" : [ "15162208" ],
+        "name" : [ "Sarah Maximum Entropy Spear the Engineer" ],
+        "nickname" : [ "spearsarah" ],
+        "url" : [ "https://twitter.com/spearsarah", "https://www.instagram.com/spearsarah/" ],
+        "published" : [ "2008-06-18T20:31:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339082337552900096/Ubvzlzjo.jpg" ]
+      }
+    } ],
+    "content" : [ "where my non-binary & women devops engineers at ??? I’d love to meet you 🤩" ]
+  }
+}
