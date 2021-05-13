@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392656637161136133" ],
+    "url" : [ "https://twitter.com/jeremeyf/status/1392656637161136133" ],
+    "published" : [ "2021-05-13T01:43:11+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/verge/status/1392654281745047554" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jeremeyf" ],
+        "numeric-id" : [ "72473366" ],
+        "name" : [ "Jeremey" ],
+        "nickname" : [ "jeremeyf" ],
+        "url" : [ "https://twitter.com/jeremeyf", "http://ello.co/jeremey", "http://vsco.co/jeremey" ],
+        "published" : [ "2009-09-08T04:43:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bend, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1304855255008509952/w-IzPTGA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If only Apple’s hiring team had scrutinized the candidate more thoroughly than random people on social media.",
+      "html" : "If only Apple’s hiring team had scrutinized the candidate more thoroughly than random people on social media.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/verge\"></a>"
+    } ]
+  }
+}
