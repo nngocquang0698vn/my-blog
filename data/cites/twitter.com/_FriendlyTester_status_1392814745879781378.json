@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392814745879781378" ],
+    "url" : [ "https://twitter.com/FriendlyTester/status/1392814745879781378" ],
+    "published" : [ "2021-05-13T12:11:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FriendlyTester" ],
+        "numeric-id" : [ "201185000" ],
+        "name" : [ "Richard Bradshaw" ],
+        "nickname" : [ "FriendlyTester" ],
+        "url" : [ "https://twitter.com/FriendlyTester", "http://thefriendlytester.co.uk" ],
+        "published" : [ "2010-10-11T08:36:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Congleton, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358512548925046786/n-rIPOzL.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Feeling the urge for a #PayToSpeak rant. But I'm going to resist. Instead I'll plea.\n\nFolks please only support events where you know the speakers are being looked after and compensated for their time. Ticketed online conferences should be paying their speakers.",
+      "html" : "<div style=\"white-space: pre\">Feeling the urge for a <a href=\"https://twitter.com/search?q=%23PayToSpeak\">#PayToSpeak</a> rant. But I'm going to resist. Instead I'll plea.\n\nFolks please only support events where you know the speakers are being looked after and compensated for their time. Ticketed online conferences should be paying their speakers.</div>"
+    } ]
+  }
+}
