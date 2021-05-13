@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392501005556752388" ],
+    "url" : [ "https://twitter.com/limitlessjest/status/1392501005556752388" ],
+    "published" : [ "2021-05-12T15:24:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:limitlessjest" ],
+        "numeric-id" : [ "35530645" ],
+        "name" : [ "ben \"effort grunt\" flores" ],
+        "nickname" : [ "limitlessjest" ],
+        "url" : [ "https://twitter.com/limitlessjest", "https://podcasts.apple.com/us/podcast/please-save-me/id1383816440" ],
+        "published" : [ "2009-04-26T18:42:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347775941867577346/B1KlHqPA.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Coffee is so expensive these days which is why I can't get enough of @Starbucks \"Luck of the Buck\" where you leave a dollar bill on the counter and take one of the drinks they've left out. Never know what you're gonna get!!!",
+      "html" : "Coffee is so expensive these days which is why I can't get enough of <a href=\"https://twitter.com/Starbucks\">@Starbucks</a> \"Luck of the Buck\" where you leave a dollar bill on the counter and take one of the drinks they've left out. Never know what you're gonna get!!!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E1MoR43VkAAPjdW.jpg" ]
+  }
+}
