@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392920232172290049" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1392920232172290049" ],
+    "published" : [ "2021-05-13T19:10:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Anarchist Jurisdiction Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1388185538616709121/yq_5Gx4A.jpg" ]
+      }
+    } ],
+    "content" : [ "I just got this at my work email after a talk. Never, ever email a speaker to hit on them. This is wildly unprofessional, and apologizing in advance because you acknowledge that it might be inappropriate only makes it worse. \"Respectfully\" my ass." ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E1SlkckVkAUuwAr.jpg",
+      "alt" : "A screenshot of part of an email. Text follows: \n\nNot that expect anything, I like to share my linked-in on a professional basis. [Link redacted here]\n\nAlso as another listener mention, Love the hair style. (very cute)\n\nThough my curiosity has been peaked with your relationship status? as I was taken back by beauty (I apologize if this question is inappropriate)\n\nRespectfully,"
+    } ]
+  }
+}
