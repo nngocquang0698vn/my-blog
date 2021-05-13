@@ -23,6 +23,8 @@ In [_Writing Environment-Agnostic Functional Acceptance Tests_]({{< ref 2021-01-
 
 However, at the time I didn't consider what this would look like for a versioned API.
 
+# Scenarios
+
 Let's start by thinking about our scenarios, i.e. with `features/product.feature`:
 
 ```cucumber
@@ -80,6 +82,8 @@ Feature: The Product Service returns some product data, using different represen
     Then I get an OK response
 ```
 
+# Cucumber Hooks
+
 To make this work, we should have some Cucumber hooks to set the current `ApiVersion` in our `World`:
 
 ```java
@@ -101,15 +105,26 @@ public void version2Tag() {
 }
 ```
 
+# The `ApiVersion`
+
 This API version is then a handy enum to capture the versions in a typed manner
 
 ```java
+/**
+ * A generic way of determining the version of an API's request/response contract for use with the
+ * Proxy class, without relying too much on implementation details.
+ *
+ * <p>This enum should be left with no implementation details, allowing our Proxy class to
+ * implement this. Please see below for a further explanation of why.
+ */
 public enum ApiVersion {
   ANY, ONE, TWO;
 }
 ```
 
-And then we have our proxy class updated with the new parameter on methods that support API versioning:
+# The Proxy class
+
+And then we have our [proxy class]({{< ref 2021-01-18-agnostic-acceptance-tests >}}) updated with the new parameter on methods that support API versioning:
 
 ```java
 public class ProductServiceProxy {
@@ -125,13 +140,15 @@ public class ProductServiceProxy {
    * @return the response from the server
    */
   public Response retrieveProduct(String productId, ApiVersion version, Filter... filters) {
-    String mediaType;
+    String mediaType = null;
     switch(version) {
       case ANY:
         // may not work if the contract changes (i.e. new headers required)
         mediaType = "application/*.json";
       case ONE:
-        mediaType = "application/vnd.me.jvt.api.v1+json";
+        if (mediaType != null) {
+          mediaType = "application/vnd.me.jvt.api.v1+json";
+        }
         return prepare(filters)
           .header("Accept", mediaType)
           .header("Tracking-Id", UUID.randomUUID().toString())
@@ -154,3 +171,67 @@ public class ProductServiceProxy {
 ```
 
 This now gives us a way to interact with our versioned API, assert things based on that version, and generally work a bit nicer with our Cucumber tests.
+
+# `ApiVersion` design
+
+Something that's come up when talking to folks about this is the `ApiVersion`'s intent, so I thought I'd discuss the pros/cons of different alternatives, given it's not clear.
+
+To consider this, I had the following requirements in mind:
+
+- How do we keep steps generic, i.e. `Then the response matches the schema definition` without mentioning what version is used?
+- How to support different response types (controlled through the `accept` header)?
+- How to support different request body types (controlled through the `content-type` header)?
+- API Versions don't necessarily just mean presenting a new `accept` / `content-type` - there can be new required/removed querystring parameters, headers, and even the format of the request body can change drastically, so we need to have a solution which works preferably independently to each route's different versioning
+
+### Using `ApiVersion` as a pure enum
+
+This is the above solution, and means:
+
+- Step definitions are able to react accordingly by using a `switch / case` statement over the `ApiVersion` that's provided
+- The Proxy class can support whichever response type versions
+- The Proxy class can support whichever request type versions
+- The Proxy class can support whichever other changes are required
+
+But it also leads to:
+
+- Step definitions are now a little more complex, as they need to do things based on what version is there, but it reads much better to have generic steps than to keep creating new steps / have the `ApiVersion` too configurable
+
+### `ApiVersion` storing `accept` and `content-type` headers
+
+Because we're using server-driven content negotiation for this example, we will want to store the `accept` and `content-type` headers with the version that we're communicating with. This gives us the following:
+
+```java
+public enum ApiVersion {
+  ANY("application/*+json", "application/*+json"),
+  ONE("application/vnd.me.jvt.api.v1+json", "application/vnd.me.jvt.api.v1+json"),
+  TWO("application/vnd.me.jvt.api.v2+json", "application/vnd.me.jvt.api.v2+json");
+
+  ApiVersion(String acceptHeader, String contentTypeHeader) {
+    // ...
+  }
+
+  // constructor and getter omitted for brevity
+}
+```
+
+This is good because:
+
+- Steps are kept generic, and can validate against the `acceptHeader` and `contentTypeHeader` from the `ApiVersion`
+- There's no duplication of these values across the project, so our Proxy class and our steps can refer to constant values for our `accept` / `content-type`s
+
+However:
+
+- This doesn't work when we have a service producing/consuming different types of content - `application/*+json`, `application/*+html`, `application/*+pdf`, etc, as we would then need i.e. `ApiVersion.JSON_ONE`
+- If an route still requires a different API contract, your Proxy class will still need to implement something differently - is it worth keeping some logic in the `ApiVersion` and some in the Proxy then?
+
+### Storing more in the `ApiVersion`
+
+As mentioned, because there's more to the versioning of an API than just the `accept` / `content-type`, we may need other parameters for a request, which balloons the size and complexity of `ApiVersion`.
+
+Unfortunately this then ties the `ApiVersion` to knowing how each route's HTTP logic is going to work, which strays from the Proxy class owning the contract, so I don't agree with this approach.
+
+### Providing a factory for the `ApiVersion` to `RequestSpecification` conversion
+
+One thing we could do is to provide a factory class that could convert an `ApiVersion` and return i.e. a `RequestSpecification` for a given route.
+
+At that point though, we're just abstracting away from our Proxy class, which again I don't agree with.
