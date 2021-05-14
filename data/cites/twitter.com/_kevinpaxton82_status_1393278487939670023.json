@@ -1,0 +1,60 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393278487939670023" ],
+    "url" : [ "https://twitter.com/kevinpaxton82/status/1393278487939670023" ],
+    "published" : [ "2021-05-14T18:54:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kevinpaxton82" ],
+        "numeric-id" : [ "1072968784368058368" ],
+        "name" : [ "Kevin" ],
+        "nickname" : [ "kevinpaxton82" ],
+        "url" : [ "https://twitter.com/kevinpaxton82" ],
+        "published" : [ "2018-12-12T21:37:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1072972057162465281/eNVe4vlN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Well - the cat's out of the bag.  First post of my personal website journey is now deployed.  Let's see if I can keep this up.\n\nkevinpaxton.com",
+      "html" : "<div style=\"white-space: pre\">Well - the cat's out of the bag.  First post of my personal website journey is now deployed.  Let's see if I can keep this up.\n\n<a href=\"http://www.kevinpaxton.com\">kevinpaxton.com</a></div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1393131256276299780" ],
+      "url" : [ "https://twitter.com/CarolSaysThings/status/1393131256276299780" ],
+      "published" : [ "2021-05-14T09:09:09+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+          "numeric-id" : [ "36382927" ],
+          "name" : [ "Carol 🌻" ],
+          "nickname" : [ "CarolSaysThings" ],
+          "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+          "published" : [ "2009-04-29T15:22:13+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1353375366027460609/2tAyTa6i.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I finally convinced my very talented work buddy @kevinpaxton82 to make his own site, and 1 day in it already looks ✨ amazing ✨\n\nkevinpaxton.com",
+        "html" : "<div style=\"white-space: pre\">I finally convinced my very talented work buddy <a href=\"https://twitter.com/kevinpaxton82\">@kevinpaxton82</a> to make his own site, and 1 day in it already looks ✨ amazing ✨\n\n<a href=\"https://www.kevinpaxton.com/\">kevinpaxton.com</a></div>"
+      } ]
+    }
+  } ]
+}
