@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393201902762954752" ],
+    "url" : [ "https://twitter.com/williampietri/status/1393201902762954752" ],
+    "published" : [ "2021-05-14T13:49:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:williampietri" ],
+        "numeric-id" : [ "14982149" ],
+        "name" : [ "William Pietri" ],
+        "nickname" : [ "williampietri" ],
+        "url" : [ "https://twitter.com/williampietri", "http://williampietri.com/" ],
+        "published" : [ "2008-06-02T16:55:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673948945962303489/5sxyC3Ey.jpg" ]
+      }
+    } ],
+    "content" : [ "Why hello, patriarchy! Let's dig in on this tweet, where one of the kings of Silicon Valley gives the the game away:" ],
+    "photo" : [ "https://pbs.twimg.com/media/E1WlvuOVUAgSQoA.jpg" ]
+  }
+}
