@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393264741376614403" ],
+    "url" : [ "https://twitter.com/jakedimare/status/1393264741376614403" ],
+    "published" : [ "2021-05-14T17:59:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jakedimare" ],
+        "numeric-id" : [ "19065008" ],
+        "name" : [ "Jake" ],
+        "nickname" : [ "jakedimare" ],
+        "url" : [ "https://twitter.com/jakedimare", "http://www.jakedimare.com" ],
+        "published" : [ "2009-01-16T12:58:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1029554592109883392/3W0EEAB8.jpg" ]
+      }
+    } ],
+    "content" : [ "It's SO ANNOYING when you're telling a story about your cat and then somebody brings up their human child to relate." ]
+  }
+}
