@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393342287883735042" ],
+    "url" : [ "https://twitter.com/FelipeWWoHP/status/1393342287883735042" ],
+    "published" : [ "2021-05-14T23:07:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FelipeWWoHP" ],
+        "numeric-id" : [ "299474368" ],
+        "name" : [ "Felipe" ],
+        "nickname" : [ "FelipeWWoHP" ],
+        "url" : [ "https://twitter.com/FelipeWWoHP", "https://www.instagram.com/felipewwohp/" ],
+        "published" : [ "2011-05-16T04:35:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Orlando, FL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1188956941403525125/EaG8FTuZ.jpg" ]
+      }
+    } ],
+    "content" : [ "Normalize wearing masks when you have any sort of cold/flu symptoms. Forever. It's been nice to not have even a cold in over a year." ]
+  }
+}
