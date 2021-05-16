@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393717772178370560" ],
+    "url" : [ "https://twitter.com/elchefe/status/1393717772178370560" ],
+    "published" : [ "2021-05-15T23:59:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:elchefe" ],
+        "numeric-id" : [ "22486576" ],
+        "name" : [ "Tim Banks is a melanated Bacchus" ],
+        "nickname" : [ "elchefe" ],
+        "url" : [ "https://twitter.com/elchefe", "https://www.instagram.com/elchefenegro/" ],
+        "published" : [ "2009-03-02T14:10:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385352492125351939/CCl8hqFc.jpg" ]
+      }
+    } ],
+    "content" : [ "New belt. New age division. Same results. Now 3-time Pan American champion." ],
+    "photo" : [ "https://pbs.twimg.com/media/E1d66axXEAAP10U.jpg" ]
+  }
+}
