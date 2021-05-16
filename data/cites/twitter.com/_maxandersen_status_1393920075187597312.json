@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393920075187597312" ],
+    "url" : [ "https://twitter.com/maxandersen/status/1393920075187597312" ],
+    "published" : [ "2021-05-16T13:23:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:maxandersen" ],
+        "numeric-id" : [ "14687332" ],
+        "name" : [ "Max Rydahl Andersen" ],
+        "nickname" : [ "maxandersen" ],
+        "url" : [ "https://twitter.com/maxandersen", "https://xam.dk", "https://jbang.dev" ],
+        "published" : [ "2008-05-07T14:56:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "48.76624,9.205743" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1139472596112728064/igQMPTcJ.jpg" ]
+      }
+    } ],
+    "content" : [ "GitHub actions down and it’s time to remind we really should have open, movable and democratized infrastructure rather than just flexible and scalable single vendor system." ]
+  }
+}
