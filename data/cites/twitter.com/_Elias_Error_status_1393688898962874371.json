@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393688898962874371" ],
+    "url" : [ "https://twitter.com/Elias_Error/status/1393688898962874371" ],
+    "published" : [ "2021-05-15T22:05:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Elias_Error" ],
+        "numeric-id" : [ "18759734" ],
+        "name" : [ "elias and the error" ],
+        "nickname" : [ "Elias_Error" ],
+        "url" : [ "https://twitter.com/Elias_Error", "http://eliasandtheerror.bandcamp.com/", "http://patreon.com/eliasandtheerror" ],
+        "published" : [ "2009-01-08T10:09:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "they/them/any (NB)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311575820222238720/8_hwAbYw.jpg" ]
+      }
+    } ],
+    "content" : [ "The creator of Pokemon being an autistic person and creating a game where people obsessed with bugs and animals don't have to work a job or interface with anyone unless it's related to sharing information about bugs or animals is pretty awesome." ]
+  }
+}
