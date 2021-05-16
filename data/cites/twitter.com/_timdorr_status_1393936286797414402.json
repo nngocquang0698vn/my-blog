@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1393936286797414402" ],
+    "url" : [ "https://twitter.com/timdorr/status/1393936286797414402" ],
+    "published" : [ "2021-05-16T14:28:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:timdorr" ],
+        "numeric-id" : [ "4145801" ],
+        "name" : [ "Tim 🚪" ],
+        "nickname" : [ "timdorr" ],
+        "url" : [ "https://twitter.com/timdorr", "https://tim.do/rr" ],
+        "published" : [ "2007-04-11T08:43:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1329804379441029122/Hvu_fS0R.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E1hBqoaWQAcl3xx.jpg" ]
+  }
+}
