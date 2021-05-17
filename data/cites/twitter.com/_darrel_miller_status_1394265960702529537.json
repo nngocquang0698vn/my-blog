@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394265960702529537" ],
+    "url" : [ "https://twitter.com/darrel_miller/status/1394265960702529537" ],
+    "published" : [ "2021-05-17T12:18:03+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1394242356883374083" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:darrel_miller" ],
+        "numeric-id" : [ "171268338" ],
+        "name" : [ "Darrel Miller" ],
+        "nickname" : [ "darrel_miller" ],
+        "url" : [ "https://twitter.com/darrel_miller", "http://www.bizcoder.com" ],
+        "published" : [ "2010-07-26T23:44:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Montreal, QC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/514918509743058944/b_PCXdXv.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I don't believe there is an official way of doing it. Just add a new mediatype object in the responses and add a deprecation notice in the description.",
+      "html" : "I don't believe there is an official way of doing it. Just add a new mediatype object in the responses and add a deprecation notice in the description.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PermittedSoc\"></a>"
+    } ]
+  }
+}
