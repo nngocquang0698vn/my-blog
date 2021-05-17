@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/darrel_miller/status/1394265960702529537" ],
     "name" : [ "Like of @darrel_miller's tweet" ],
     "published" : [ "2021-05-17T14:32:00+0100" ],
     "category" : [ "openapi" ],
