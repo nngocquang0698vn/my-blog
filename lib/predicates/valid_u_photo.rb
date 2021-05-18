@@ -5,7 +5,7 @@ class ValidUPhoto < Predicate
   def validate(hcard)
     raise InvalidMetadataError, 'Photo is not set' unless hcard.respond_to?(:photo)
     photo = hcard.photo
-    raise InvalidMetadataError, 'Photo is not equal to https://www.jvt.me/img/profile.png' unless 'https://www.jvt.me/img/profile.png' == photo
+    raise InvalidMetadataError, 'Photo is not equal to https://www.jvt.me/img/profile.jpg' unless 'https://www.jvt.me/img/profile.jpg' == photo
   end
 end
 

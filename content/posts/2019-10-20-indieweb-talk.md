@@ -233,7 +233,7 @@ For instance, the following markup shows a basic RSVP to an upcoming IndieWeb co
 <div class="h-entry">
   <span class="p-author h-card">
     <a class="u-url" href="https://www.jvt.me">
-      <img class="u-photo" src="https://www.jvt.me/profile.png" alt=""/>
+      <img class="u-photo" src="https://www.jvt.me/profile.jpg" alt=""/>
       Jamie Tanna
     </a>
   </span>:
@@ -246,7 +246,7 @@ For those of you that can't render this in your mind, it could render something 
 
 <span>
   <a href="https://www.jvt.me">
-    <img style="height: 32px; width: 32px; margin: 0; display: inline-block" src="/img/profile.png" alt="Jamie Tanna's profile image"/>
+    <img style="height: 32px; width: 32px; margin: 0; display: inline-block" src="/img/profile.jpg" alt="Jamie Tanna's profile image"/>
     Jamie Tanna
   </a>
 </span>:

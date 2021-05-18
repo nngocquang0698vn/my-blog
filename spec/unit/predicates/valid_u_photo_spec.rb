@@ -23,7 +23,7 @@ describe 'ValidUPhoto' do
   it 'does not throw if correct URL' do
     # given
     expect(hcard).to receive(:photo)
-      .and_return 'https://www.jvt.me/img/profile.png'
+      .and_return 'https://www.jvt.me/img/profile.jpg'
 
     # when
     sut.validate(hcard)
@@ -38,7 +38,7 @@ describe 'ValidUPhoto' do
       .and_return 'https://www.jvt.me/img/profile.jpeg'
 
     # when
-    expect { sut.validate(hcard)}.to raise_error(InvalidMetadataError, 'Photo is not equal to https://www.jvt.me/img/profile.png')
+    expect { sut.validate(hcard)}.to raise_error(InvalidMetadataError, 'Photo is not equal to https://www.jvt.me/img/profile.jpg')
 
     # then
   end
