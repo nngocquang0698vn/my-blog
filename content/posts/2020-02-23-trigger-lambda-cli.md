@@ -13,10 +13,14 @@ image: /img/vendor/AmazonWebservices_Logo.png
 ---
 As I'm starting to get more involved with playing with AWS Lambdas, I wondered if there was a better way to test the deployed Lambda without using the AWS UI.
 
-It turns out [this is well documented by AWS](https://docs.aws.amazon.com/lambda/latest/dg/invocation-sync.html), and we can use the AWS CLI:
+It turns out [this is well documented by AWS](https://docs.aws.amazon.com/lambda/latest/dg/invocation-sync.html), and we can use the AWS CLI, but it depends on which AWS CLI version you're using:
 
 ```sh
+$ aws --version
+# if version 1
 $ aws lambda invoke --function-name my-function --payload '{ "key": "value" }' response.json
+# if version 2
+$ aws lambda invoke --function-name my-function --invocation-type RequestResponse --payload '{ "key": "value" }' --cli-binary-format raw-in-base64-out response.json
 ```
 
 This outputs information about whether the operation was a success to `stdout`, and the Lambda's response to `response.json`.
