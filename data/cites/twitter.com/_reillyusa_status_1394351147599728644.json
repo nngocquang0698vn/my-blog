@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394351147599728644" ],
+    "url" : [ "https://twitter.com/reillyusa/status/1394351147599728644" ],
+    "published" : [ "2021-05-17T17:56:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:reillyusa" ],
+        "numeric-id" : [ "15128930" ],
+        "name" : [ "Christian Reilly" ],
+        "nickname" : [ "reillyusa" ],
+        "url" : [ "https://twitter.com/reillyusa", "https://theloosecouple.wordpress.com" ],
+        "published" : [ "2008-06-15T23:35:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "UK. USA. Airports of the world" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366817905854328835/Gc69q6V6.jpg" ]
+      }
+    } ],
+    "content" : [ "That’s it. That’s the tweet." ],
+    "photo" : [ "https://pbs.twimg.com/media/E1m6-jXWEAMwMxV.jpg" ]
+  }
+}
