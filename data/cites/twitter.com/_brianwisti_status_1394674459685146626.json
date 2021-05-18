@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394674459685146626" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1394674459685146626" ],
+    "published" : [ "2021-05-18T15:21:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392966226666688513/JVq0y4nC.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I'm wouldn't say I'm antisocial.\n\nThe fact that I've lived in this house two months and just now was the first time I spoke one word to a neighbor (\"morning!\") says it clear enough.",
+      "html" : "<div style=\"white-space: pre\">I'm wouldn't say I'm antisocial.\n\nThe fact that I've lived in this house two months and just now was the first time I spoke one word to a neighbor (\"morning!\") says it clear enough.</div>"
+    } ]
+  }
+}
