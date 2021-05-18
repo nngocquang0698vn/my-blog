@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1392595871246602242" ],
+    "url" : [ "https://twitter.com/HellsMaddy/status/1392595871246602242" ],
+    "published" : [ "2021-05-12T21:41:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:HellsMaddy" ],
+        "numeric-id" : [ "784254799902408704" ],
+        "name" : [ "Maddison Hellstrom" ],
+        "nickname" : [ "HellsMaddy" ],
+        "url" : [ "https://twitter.com/HellsMaddy", "https://maddison.io" ],
+        "published" : [ "2016-10-07T04:51:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, Oregon, 🌎" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1393115717470277634/WR7iQQWr.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Using popular things is sucky.\n\nWhen I have an issue with macOS or Windows, search results are dominated by SEO'd junk articles with little to no information.\n\nWhen I have an issue with Linux, search results are usually awesome and get me directly to the juicy information.",
+      "html" : "<div style=\"white-space: pre\">Using popular things is sucky.\n\nWhen I have an issue with macOS or Windows, search results are dominated by SEO'd junk articles with little to no information.\n\nWhen I have an issue with Linux, search results are usually awesome and get me directly to the juicy information.</div>"
+    } ]
+  }
+}
