@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394314808648814592" ],
+    "url" : [ "https://twitter.com/norootcause/status/1394314808648814592" ],
+    "published" : [ "2021-05-17T15:32:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "name" : [ "Lorin Hochstein" ],
+        "nickname" : [ "norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ]
+      }
+    } ],
+    "content" : [ "The hardest problem in computer science is escaping a quotation mark in a bash string." ]
+  }
+}
