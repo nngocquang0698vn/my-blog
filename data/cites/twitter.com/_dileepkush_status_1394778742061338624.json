@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394778742061338624" ],
+    "url" : [ "https://twitter.com/dileepkush/status/1394778742061338624" ],
+    "published" : [ "2021-05-18T22:15:40+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/dileepkush/status/1394777793687261184" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dileepkush" ],
+        "numeric-id" : [ "1472755238" ],
+        "name" : [ "dileep" ],
+        "nickname" : [ "dileepkush" ],
+        "url" : [ "https://twitter.com/dileepkush" ],
+        "published" : [ "2013-05-31T18:09:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bharat" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360603752810467329/Un4eJpln.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "List of other clients supported by microblog. You can host a dedicated one for yourself if you want. \nindieweb.org/Micropub/Clien…",
+      "html" : "<div style=\"white-space: pre\">List of other clients supported by microblog. You can host a dedicated one for yourself if you want. \n<a href=\"https://indieweb.org/Micropub/Clients\">indieweb.org/Micropub/Clien…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/iAWriter\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/krisnova\"></a>"
+    } ]
+  }
+}
