@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394708179305603074" ],
+    "url" : [ "https://twitter.com/jaredpalmer/status/1394708179305603074" ],
+    "published" : [ "2021-05-18T17:35:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jaredpalmer" ],
+        "numeric-id" : [ "44936471" ],
+        "name" : [ "Jared Palmer" ],
+        "nickname" : [ "jaredpalmer" ],
+        "url" : [ "https://twitter.com/jaredpalmer", "https://jaredpalmer.com" ],
+        "published" : [ "2009-06-05T16:52:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/892351529348411392/FLQyLnoc.jpg" ]
+      }
+    } ],
+    "content" : [ "This isn’t a cat. It’s actually a CTO holding onto to an outdated opinion about a technology they used once" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E1r_shjXsAQ2tv0.jpg",
+      "alt" : "Cat clutching a loaf of bread"
+    } ]
+  }
+}
