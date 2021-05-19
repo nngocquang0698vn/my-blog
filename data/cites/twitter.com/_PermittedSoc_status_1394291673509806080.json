@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394291673509806080" ],
+    "url" : [ "https://twitter.com/PermittedSoc/status/1394291673509806080" ],
+    "published" : [ "2021-05-17T14:00:14+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/darrel_miller/status/1394288304888102913" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:PermittedSoc" ],
+        "numeric-id" : [ "2455731378" ],
+        "name" : [ "Mike Ralphson" ],
+        "nickname" : [ "PermittedSoc" ],
+        "url" : [ "https://twitter.com/PermittedSoc", "http://mermade.org.uk", "http://APIs.guru" ],
+        "published" : [ "2014-04-21T00:34:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Newbury, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1087078821675839490/1eRAzd_4.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What if we treated lifecycle information, even just deprecated: boolean as a \"trait\" in the spec, like specification extensions, and just said where it could be present, rather than repeating ourselves each time?",
+      "html" : "What if we treated lifecycle information, even just deprecated: boolean as a \"trait\" in the spec, like specification extensions, and just said where it could be present, rather than repeating ourselves each time?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/darrel_miller\"></a>"
+    } ]
+  }
+}
