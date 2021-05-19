@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394761664923410433" ],
+    "url" : [ "https://twitter.com/techladyallison/status/1394761664923410433" ],
+    "published" : [ "2021-05-18T21:07:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:techladyallison" ],
+        "numeric-id" : [ "35962650" ],
+        "name" : [ "Allison Esposito Medina" ],
+        "nickname" : [ "techladyallison" ],
+        "url" : [ "https://twitter.com/techladyallison", "http://www.hiretechladies.com" ],
+        "published" : [ "2009-04-28T02:45:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1019280753954304000/lTDdFfgX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "For the latest role we’re hiring for, I’m sending the interview questions to candidates ahead of time. \n\nMost roles don’t require working under pressure so why create pressure?\n\nI’d rather use our time to evaluate how folks prepare (arguably a greater skill).",
+      "html" : "<div style=\"white-space: pre\">For the latest role we’re hiring for, I’m sending the interview questions to candidates ahead of time. \n\nMost roles don’t require working under pressure so why create pressure?\n\nI’d rather use our time to evaluate how folks prepare (arguably a greater skill).</div>"
+    } ]
+  }
+}
