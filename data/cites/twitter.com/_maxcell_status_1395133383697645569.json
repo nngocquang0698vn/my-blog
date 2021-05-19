@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395133383697645569" ],
+    "url" : [ "https://twitter.com/maxcell/status/1395133383697645569" ],
+    "published" : [ "2021-05-19T21:44:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:maxcell" ],
+        "numeric-id" : [ "3115345708" ],
+        "name" : [ "Prince Wilson" ],
+        "nickname" : [ "maxcell" ],
+        "url" : [ "https://twitter.com/maxcell", "https://prince.dev", "https://prince.dev/twitch" ],
+        "published" : [ "2015-03-25T16:59:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384129944704356356/aZRyAVuT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I should have bought onlyfans.dev and just have it redirect to the Android Studio download link",
+      "html" : "I should have bought <a href=\"http://onlyfans.dev\">onlyfans.dev</a> and just have it redirect to the Android Studio download link"
+    } ]
+  }
+}
