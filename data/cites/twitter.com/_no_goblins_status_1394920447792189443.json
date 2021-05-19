@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394920447792189443" ],
+    "url" : [ "https://twitter.com/no_goblins/status/1394920447792189443" ],
+    "published" : [ "2021-05-19T07:38:45+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/imsadonline/status/1394919888792207360" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:no_goblins" ],
+        "numeric-id" : [ "16429028" ],
+        "name" : [ "polly pocket monster energy" ],
+        "nickname" : [ "no_goblins" ],
+        "url" : [ "https://twitter.com/no_goblins", "https://twitch.com/no_goblins" ],
+        "published" : [ "2008-09-24T02:00:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328874081630838785/3XJlhxSo.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Sure you are. Neither one of you is getting laid 🤷‍♀️🤷‍♀️",
+      "html" : "Sure you are. Neither one of you is getting laid 🤷‍♀️🤷‍♀️\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/imsadonline\"></a>"
+    } ]
+  }
+}
