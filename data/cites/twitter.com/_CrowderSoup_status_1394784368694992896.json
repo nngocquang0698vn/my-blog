@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1394784368694992896" ],
+    "url" : [ "https://twitter.com/CrowderSoup/status/1394784368694992896" ],
+    "published" : [ "2021-05-18T22:38:01+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/krisnova/status/1394774911982268416" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CrowderSoup" ],
+        "numeric-id" : [ "127090765" ],
+        "name" : [ "#BLM 🏳️‍🌈 Aaron Crowder" ],
+        "nickname" : [ "CrowderSoup" ],
+        "url" : [ "https://twitter.com/CrowderSoup", "https://crowdersoup.com" ],
+        "published" : [ "2010-03-28T01:17:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Salt Lake City, Utah" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378699743845511168/GIouimKg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#IndieWeb is cool. You'd need to add a micropub endpoint to your blog that could handle standard requests + get IndieAuth set up which is fairly trivial unless you want to build your own. I'm slowly trying to add all these to my own blog.\n\nindieweb.org",
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23IndieWeb\">#IndieWeb</a> is cool. You'd need to add a micropub endpoint to your blog that could handle standard requests + get IndieAuth set up which is fairly trivial unless you want to build your own. I'm slowly trying to add all these to my own blog.\n\n<a href=\"https://indieweb.org/\">indieweb.org</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/krisnova\"></a>"
+    } ]
+  }
+}
