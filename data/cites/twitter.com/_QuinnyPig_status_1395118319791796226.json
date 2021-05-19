@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395118319791796226" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1395118319791796226" ],
+    "published" : [ "2021-05-19T20:45:02+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1395118098735194117" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247254348498743300/vTTJS5wW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Then it charges you $5 per GB that it ingests and \"processes,\" which looks a lot like \"basic arithmetic.\"\n\nThis entire process should be replaced with a button labeled \"smee\" in the console.\n\nWhen you click it, you get a popup saying \"smee again, goan fuck yourself!\"",
+      "html" : "<div style=\"white-space: pre\">Then it charges you $5 per GB that it ingests and \"processes,\" which looks a lot like \"basic arithmetic.\"\n\nThis entire process should be replaced with a button labeled \"smee\" in the console.\n\nWhen you click it, you get a popup saying \"smee again, goan fuck yourself!\"</div>"
+    } ]
+  }
+}
