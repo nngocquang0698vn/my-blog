@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395421851501932545" ],
+    "url" : [ "https://twitter.com/sjkilleen/status/1395421851501932545" ],
+    "published" : [ "2021-05-20T16:51:09+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/TatianaTMac/status/1395421065237581825" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sjkilleen" ],
+        "numeric-id" : [ "186127180" ],
+        "name" : [ "Sean Killeen" ],
+        "nickname" : [ "sjkilleen" ],
+        "url" : [ "https://twitter.com/sjkilleen", "http://SeanKilleen.com" ],
+        "published" : [ "2010-09-02T17:00:49+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Arlington, VA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1147618801413951489/HEAO9PKQ.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I've never said it out loud, but I've sometimes thought of it as \"being a salmon\" or \"salmoning\". Always trying to get upstream, avoiding bears along the way. :)",
+      "html" : "I've never said it out loud, but I've sometimes thought of it as \"being a salmon\" or \"salmoning\". Always trying to get upstream, avoiding bears along the way. :)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TatianaTMac\"></a>"
+    } ]
+  }
+}
