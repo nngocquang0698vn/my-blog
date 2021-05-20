@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.jvt.me/mf2/2021/05/j3g88/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1395494113047453699" ],
     "name" : [ "Reply to https://www.jvt.me/mf2/2021/05/j3g88/" ],
     "published" : [ "2021-05-20T21:34:55.26Z" ],
     "content" : [ {
