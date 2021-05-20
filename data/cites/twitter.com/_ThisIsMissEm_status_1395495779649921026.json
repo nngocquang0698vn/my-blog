@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395495779649921026" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1395495779649921026" ],
+    "published" : [ "2021-05-20T21:44:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ThisIsMissEm/status/1395493755483041801" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "name" : [ "Emelia 👸🏻" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/919075940495495169/tXWpM0Fa.jpg" ]
+      }
+    } ],
+    "content" : [ "Seriously, how pretty is this new artwork I purchased? (Have watermarked this version)" ],
+    "photo" : [ "https://pbs.twimg.com/media/E13MA1IWUAMlkg-.jpg" ]
+  }
+}
