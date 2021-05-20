@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395391595965517824" ],
+    "url" : [ "https://twitter.com/StephandSec/status/1395391595965517824" ],
+    "published" : [ "2021-05-20T14:50:56+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StephandSec" ],
+        "numeric-id" : [ "764143993923907584" ],
+        "name" : [ "InfoSteph" ],
+        "nickname" : [ "StephandSec" ],
+        "url" : [ "https://twitter.com/StephandSec", "http://stephandsec.com" ],
+        "published" : [ "2016-08-12T16:58:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "127.0.0.1" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333081823572848642/583r-mfj.jpg" ]
+      }
+    } ],
+    "content" : [ "Anybody ever achieve a status of being technical debt-free?" ]
+  }
+}
