@@ -47,6 +47,7 @@ build:
     name: "$CI_COMMIT_REF_SLUG"
     paths:
       - public/
+  interruptible: true
   script:
     - hugo --verbose --minify
   only:
