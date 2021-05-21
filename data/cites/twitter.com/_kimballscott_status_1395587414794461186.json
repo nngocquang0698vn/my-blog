@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395587414794461186" ],
+    "url" : [ "https://twitter.com/kimballscott/status/1395587414794461186" ],
+    "published" : [ "2021-05-21T03:49:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kimballscott" ],
+        "numeric-id" : [ "14696890" ],
+        "name" : [ "Kim Scott" ],
+        "nickname" : [ "kimballscott" ],
+        "url" : [ "https://twitter.com/kimballscott", "http://www.radicalcandor.com" ],
+        "published" : [ "2008-05-08T06:02:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Silicon Valley" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/991419987603611648/eR21APGK.jpg" ]
+      }
+    } ],
+    "content" : [ "My son at the dinner table tonight: \"Tradition is just peer pressure from dead people.\"" ]
+  }
+}
