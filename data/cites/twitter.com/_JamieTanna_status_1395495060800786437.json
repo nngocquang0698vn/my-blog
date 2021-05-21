@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395495060800786437" ],
+    "url" : [ "https://twitter.com/JamieTanna/status/1395495060800786437" ],
+    "published" : [ "2021-05-20T21:42:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1395490462744580105" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JamieTanna" ],
+        "numeric-id" : [ "2292531098" ],
+        "name" : [ "Jamie Tanna | www.jvt.me" ],
+        "nickname" : [ "JamieTanna" ],
+        "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ],
+        "published" : [ "2014-01-15T10:55:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389663671027224582/18Ugf4IV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Well, that is once I finish migrating... (jvt.me/mf2/2021/05/gh…)",
+      "html" : "Well, that is once I finish migrating... (<a href=\"https://www.jvt.me/mf2/2021/05/ghg8w/\">jvt.me/mf2/2021/05/gh…</a>)"
+    } ]
+  }
+}
