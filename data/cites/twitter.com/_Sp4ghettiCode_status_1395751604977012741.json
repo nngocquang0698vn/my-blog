@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395751604977012741" ],
+    "url" : [ "https://twitter.com/Sp4ghettiCode/status/1395751604977012741" ],
+    "published" : [ "2021-05-21T14:41:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
+        "numeric-id" : [ "991238672812052480" ],
+        "name" : [ "Ed George" ],
+        "nickname" : [ "Sp4ghettiCode" ],
+        "url" : [ "https://twitter.com/Sp4ghettiCode", "http://ed-george.github.io" ],
+        "published" : [ "2018-05-01T08:51:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Shropshire, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224696422353817602/Szvtaq2I.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🚨 Life News Alert!🚨 \n\nSuper excited to announce I will be joining @ASOS as a Senior Android Developer next week! \n\nVery excited to get started, learn a whole bunch and meet a brand new (super talented) team! 🙌✨",
+      "html" : "<div style=\"white-space: pre\">🚨 Life News Alert!🚨 \n\nSuper excited to announce I will be joining <a href=\"https://twitter.com/ASOS\">@ASOS</a> as a Senior Android Developer next week! \n\nVery excited to get started, learn a whole bunch and meet a brand new (super talented) team! 🙌✨</div>"
+    } ]
+  }
+}
