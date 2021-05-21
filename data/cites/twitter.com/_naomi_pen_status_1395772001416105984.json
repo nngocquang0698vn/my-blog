@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395772001416105984" ],
+    "url" : [ "https://twitter.com/naomi_pen/status/1395772001416105984" ],
+    "published" : [ "2021-05-21T16:02:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:naomi_pen" ],
+        "numeric-id" : [ "110967297" ],
+        "name" : [ "Naomi" ],
+        "nickname" : [ "naomi_pen" ],
+        "url" : [ "https://twitter.com/naomi_pen", "http://naomi.codes", "http://pronoun.is/she" ],
+        "published" : [ "2010-02-03T11:09:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367404782382678044/6t3O05yM.jpg" ]
+      }
+    } ],
+    "content" : [ "women leadership workshops that teach women \"how to demonstrate confidence and competence\" or \"how to collaborate better\" are misdirecting blame. What we really need is for society to learn not to undermine us and assume incompetence." ]
+  }
+}
