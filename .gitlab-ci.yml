@@ -34,15 +34,37 @@ theme_branch:
     - master
 # }}}
 
-build_and_deploy:
+build:
   stage: build
   image:
     name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.80.0
     entrypoint: ['']
   tags:
     - kubernetes
+  artifacts:
+    expire_in: 30 minutes
+    name: "$CI_COMMIT_REF_SLUG"
+    paths:
+      - public/
   script:
     - hugo --verbose --minify
+  only:
+    - master
+
+deploy:
+  stage: deploy
+  image:
+    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.80.0
+    entrypoint: ['']
+  tags:
+    - kubernetes
+  resource_group: production
+  artifacts:
+    name: "$CI_COMMIT_REF_SLUG"
+    expire_in: 30 minutes
+    paths:
+      - public/
+  script:
     - hugo deploy --log --verbose --maxDeletes -1
   only:
     - master
