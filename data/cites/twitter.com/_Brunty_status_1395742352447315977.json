@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395742352447315977" ],
+    "url" : [ "https://twitter.com/Brunty/status/1395742352447315977" ],
+    "published" : [ "2021-05-21T14:04:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Leicester, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151043501288824832/TjB9WT83.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "DHH Built himself up on the social media reach he had, spouting opinions and posting about people who he thought were wrong.\n\nThen when he gets criticised for his shitty attitude and actions he runs away.\n\nCoward.",
+      "html" : "<div style=\"white-space: pre\">DHH Built himself up on the social media reach he had, spouting opinions and posting about people who he thought were wrong.\n\nThen when he gets criticised for his shitty attitude and actions he runs away.\n\nCoward.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1395705438046330880" ],
+      "url" : [ "https://twitter.com/dhh/status/1395705438046330880" ],
+      "published" : [ "2021-05-21T11:38:02+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:dhh" ],
+          "numeric-id" : [ "14561327" ],
+          "name" : [ "DHH" ],
+          "nickname" : [ "dhh" ],
+          "url" : [ "https://twitter.com/dhh", "https://world.hey.com/dhh" ],
+          "published" : [ "2008-04-27T20:19:25+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "\"That idea of being done was the most compelling part of receiving a print newspaper. Most people are just not going to go back to print, though. That doesn't mean you have to give up on done. I've been trying a new experiment, and you might like it too.\" world.hey.com/dhh/not-just-w…",
+        "html" : "\"That idea of being done was the most compelling part of receiving a print newspaper. Most people are just not going to go back to print, though. That doesn't mean you have to give up on done. I've been trying a new experiment, and you might like it too.\" <a href=\"https://world.hey.com/dhh/not-just-what-you-read-but-how-64648303\">world.hey.com/dhh/not-just-w…</a>"
+      } ]
+    }
+  } ]
+}
