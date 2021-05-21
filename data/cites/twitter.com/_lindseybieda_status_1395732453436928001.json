@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395732453436928001" ],
+    "url" : [ "https://twitter.com/lindseybieda/status/1395732453436928001" ],
+    "published" : [ "2021-05-21T13:25:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lindseybieda" ],
+        "numeric-id" : [ "14928483" ],
+        "name" : [ "SIGWITCH⛧" ],
+        "nickname" : [ "lindseybieda" ],
+        "url" : [ "https://twitter.com/lindseybieda", "https://rarlindseysmash.com/links" ],
+        "published" : [ "2008-05-28T01:18:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Heck" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1253727317916090372/TpjQ1I-B.jpg" ]
+      }
+    } ],
+    "content" : [ "Fucking lol so Digital Ocean won't hire in Colorado now because they would have to share salary info." ]
+  }
+}
