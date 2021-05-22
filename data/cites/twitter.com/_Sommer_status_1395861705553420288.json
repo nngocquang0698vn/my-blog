@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395861705553420288" ],
+    "url" : [ "https://twitter.com/Sommer/status/1395861705553420288" ],
+    "published" : [ "2021-05-21T21:58:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Sommer" ],
+        "numeric-id" : [ "19317103" ],
+        "name" : [ "Sommer Panage" ],
+        "nickname" : [ "Sommer" ],
+        "url" : [ "https://twitter.com/Sommer", "http://www.sommerpanage.com" ],
+        "published" : [ "2009-01-22T00:30:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373727944053420032/ALegDyzX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Interesting! Women prefer remote work at a higher rate than men, citing not having to get dressed up and having more flexibility as key reasons. \n\nThis resonates with me a lot - NOT needing to put in 30+ minutes on hair/makeup daily adds up quickly. \n\n axios.com/the-gender-div…",
+      "html" : "<div style=\"white-space: pre\">Interesting! Women prefer remote work at a higher rate than men, citing not having to get dressed up and having more flexibility as key reasons. \n\nThis resonates with me a lot - NOT needing to put in 30+ minutes on hair/makeup daily adds up quickly. \n\n <a href=\"https://www.axios.com/the-gender-divide-remote-work-men-women-childcare-4fc29dba-4e1c-4e96-9cf3-64db61ba23e5.html\">axios.com/the-gender-div…</a></div>"
+    } ]
+  }
+}
