@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395767171993776130" ],
+    "url" : [ "https://twitter.com/kaydacode/status/1395767171993776130" ],
+    "published" : [ "2021-05-21T15:43:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kaydacode" ],
+        "numeric-id" : [ "189688318" ],
+        "name" : [ "kim " ],
+        "nickname" : [ "kaydacode" ],
+        "url" : [ "https://twitter.com/kaydacode" ],
+        "published" : [ "2010-09-11T23:36:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "She/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366411925127626765/teFEiT6z.jpg" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E17C1r9WYAYXHbJ.jpg",
+      "alt" : "Bernie Sanders: I am once again asking for a PR Review"
+    } ]
+  }
+}
