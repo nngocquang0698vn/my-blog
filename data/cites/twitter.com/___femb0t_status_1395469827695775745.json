@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395469827695775745" ],
+    "url" : [ "https://twitter.com/__femb0t/status/1395469827695775745" ],
+    "published" : [ "2021-05-20T20:01:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:__femb0t" ],
+        "numeric-id" : [ "1357813203019968516" ],
+        "name" : [ "fembot" ],
+        "nickname" : [ "__femb0t" ],
+        "url" : [ "https://twitter.com/__femb0t" ],
+        "published" : [ "2021-02-05T22:07:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1370212919779151876/TNI71bKc.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E120USSUYAEjrjJ.png", "https://pbs.twimg.com/media/E120YjQUUAICNHy.png", "https://pbs.twimg.com/media/E120aMNUcAEoXan.png" ]
+  }
+}
