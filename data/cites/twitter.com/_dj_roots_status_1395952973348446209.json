@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395952973348446209" ],
+    "url" : [ "https://twitter.com/dj_roots/status/1395952973348446209" ],
+    "published" : [ "2021-05-22T04:01:39+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/annamv10/status/1395947649635815424" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dj_roots" ],
+        "numeric-id" : [ "44808961" ],
+        "name" : [ "Amruta Godbole" ],
+        "nickname" : [ "dj_roots" ],
+        "url" : [ "https://twitter.com/dj_roots" ],
+        "published" : [ "2009-06-05T03:20:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330521004246962184/cLCLehM9.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A friend took a photo of me at Folsom Street Fair a couple years ago, posted to IG, it somehow went viral, and now it’s a meme!  (Comes up about monthly, in various languages, across the internet.)  A fun “fun fact”!",
+      "html" : "A friend took a photo of me at Folsom Street Fair a couple years ago, posted to IG, it somehow went viral, and now it’s a meme!  (Comes up about monthly, in various languages, across the internet.)  A fun “fun fact”!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/annamv10\"></a>"
+    } ]
+  }
+}
