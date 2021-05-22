@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395564786469986304" ],
+    "url" : [ "https://twitter.com/adamlud/status/1395564786469986304" ],
+    "published" : [ "2021-05-21T02:19:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:adamlud" ],
+        "numeric-id" : [ "391185421" ],
+        "name" : [ "Adam Ludvigson" ],
+        "nickname" : [ "adamlud" ],
+        "url" : [ "https://twitter.com/adamlud", "http://www.adamludvigson.com/weather" ],
+        "published" : [ "2011-10-15T05:35:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Haven, CT" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247609867520610304/3lPGATNk.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "#tbt to the greatest page I ever received in residency",
+      "html" : "<a href=\"https://twitter.com/search?q=%23tbt\">#tbt</a> to the greatest page I ever received in residency"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E14KxagXsAUunpu.jpg" ]
+  }
+}
