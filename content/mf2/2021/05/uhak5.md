@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kaydacode/status/1395767171993776130" ],
     "name" : [ "Like of @kaydacode's tweet" ],
     "published" : [ "2021-05-22T15:31:00+0100" ],
     "category" : [ "code-review" ],
