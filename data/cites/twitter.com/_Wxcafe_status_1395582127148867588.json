@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395582127148867588" ],
+    "url" : [ "https://twitter.com/Wxcafe/status/1395582127148867588" ],
+    "published" : [ "2021-05-21T03:28:02+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/__femb0t/status/1395470302985932801" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Wxcafe" ],
+        "numeric-id" : [ "327187863" ],
+        "name" : [ "⁅Gateway of last resort⁆" ],
+        "nickname" : [ "Wxcafe" ],
+        "url" : [ "https://twitter.com/Wxcafe", "https://wxcafe.net" ],
+        "published" : [ "2011-07-01T04:11:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365875959203827718/krgrFkoN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "women out there appropriating femboy culture, smh :/",
+      "html" : "women out there appropriating femboy culture, smh :/\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/__femb0t\"></a>"
+    } ]
+  }
+}
