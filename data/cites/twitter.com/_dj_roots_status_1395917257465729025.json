@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395917257465729025" ],
+    "url" : [ "https://twitter.com/dj_roots/status/1395917257465729025" ],
+    "published" : [ "2021-05-22T01:39:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dj_roots" ],
+        "numeric-id" : [ "44808961" ],
+        "name" : [ "Amruta Godbole" ],
+        "nickname" : [ "dj_roots" ],
+        "url" : [ "https://twitter.com/dj_roots" ],
+        "published" : [ "2009-06-05T03:20:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330521004246962184/cLCLehM9.jpg" ]
+      }
+    } ],
+    "content" : [ "I’m in this photo and I don’t like it.  Jk.  I mean that is actually me in the photo.  But I like it every time." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1395842802622386179" ],
+      "url" : [ "https://twitter.com/mikey_almeida/status/1395842802622386179" ],
+      "published" : [ "2021-05-21T20:43:52+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:mikey_almeida" ],
+          "numeric-id" : [ "1106963428239966210" ],
+          "name" : [ "✨ Mikey Almeida ✨" ],
+          "nickname" : [ "mikey_almeida" ],
+          "url" : [ "https://twitter.com/mikey_almeida", "http://instagram.com/michael_almeida" ],
+          "published" : [ "2019-03-16T17:00:22+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1376897171916734467/dfb5wbno.jpg" ]
+        }
+      } ],
+      "content" : [ "olivia rodrigo with her new fans" ],
+      "photo" : [ "https://pbs.twimg.com/media/E18HoWaWYAESJHd.jpg" ]
+    }
+  } ]
+}
