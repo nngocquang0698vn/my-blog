@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396518945327304707" ],
+    "url" : [ "https://twitter.com/chimeracoder/status/1396518945327304707" ],
+    "published" : [ "2021-05-23T17:30:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chimeracoder" ],
+        "numeric-id" : [ "182675886" ],
+        "name" : [ "Aditya Mukerjee, the Otterrific 🦦 🏳️‍🌈" ],
+        "nickname" : [ "chimeracoder" ],
+        "url" : [ "https://twitter.com/chimeracoder", "https://adityamukerjee.net" ],
+        "published" : [ "2010-08-25T03:49:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1382744898844119041/Kp1nnRWW.jpg" ]
+      }
+    } ],
+    "content" : [ "most \"kink\" you see at Pride is, ironically, far less sexualized than the average Superbowl ad or other mainstream media, but because queer sexuality is deemed \"other\", it's viewed as more sexual and scandalous even when it's not" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1396399912233803780" ],
+      "url" : [ "https://twitter.com/eevee/status/1396399912233803780" ],
+      "published" : [ "2021-05-23T09:37:37+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/eevee/status/1396399805648146435" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:eevee" ],
+          "numeric-id" : [ "14412937" ],
+          "name" : [ "eevee" ],
+          "nickname" : [ "eevee" ],
+          "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ],
+          "published" : [ "2008-04-16T21:08:32+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Colorado Springs, CO" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ]
+        }
+      } ],
+      "content" : [ "but this is incredibly weird to me because i immediately think of MOST OF WESTERN MEDIA and how it's built around male gaze and the women have to be sufficiently attractive to straight men and then we dress them in as little as possible" ]
+    }
+  } ]
+}
