@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396229272012951554" ],
+    "url" : [ "https://twitter.com/ayushi7rawat/status/1396229272012951554" ],
+    "published" : [ "2021-05-22T22:19:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ayushi7rawat" ],
+        "numeric-id" : [ "772064806664744961" ],
+        "name" : [ "Ayushi Rawat" ],
+        "nickname" : [ "ayushi7rawat" ],
+        "url" : [ "https://twitter.com/ayushi7rawat", "https://www.youtube.com/ayushirawat", "http://ayushirawat.com", "http://github.com/ayushi7rawat" ],
+        "published" : [ "2016-09-03T13:32:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Subscribe 👉" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380553440892362752/WTaNqzgF.jpg" ]
+      }
+    } ],
+    "content" : [ "Git != GitHub" ]
+  }
+}
