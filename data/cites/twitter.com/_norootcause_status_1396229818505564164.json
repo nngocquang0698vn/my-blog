@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396229818505564164" ],
+    "url" : [ "https://twitter.com/norootcause/status/1396229818505564164" ],
+    "published" : [ "2021-05-22T22:21:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "name" : [ "Lorin Hochstein" ],
+        "nickname" : [ "norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "In general, staying calm during an incident is a superpower. It’s like the difference between how you code normally and how you code during an interview. \n\nIt’s also a skill that you can learn over time. Even if you’re an anxious person, you can get better at it.",
+      "html" : "<div style=\"white-space: pre\">In general, staying calm during an incident is a superpower. It’s like the difference between how you code normally and how you code during an interview. \n\nIt’s also a skill that you can learn over time. Even if you’re an anxious person, you can get better at it.</div>"
+    } ]
+  }
+}
