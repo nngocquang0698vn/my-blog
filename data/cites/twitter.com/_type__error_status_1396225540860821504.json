@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396225540860821504" ],
+    "url" : [ "https://twitter.com/type__error/status/1396225540860821504" ],
+    "published" : [ "2021-05-22T22:04:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ]
+      }
+    } ],
+    "content" : [ "Why are we the worst country" ]
+  }
+}
