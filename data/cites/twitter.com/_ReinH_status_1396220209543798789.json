@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396220209543798789" ],
+    "url" : [ "https://twitter.com/ReinH/status/1396220209543798789" ],
+    "published" : [ "2021-05-22T21:43:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ]
+      }
+    } ],
+    "content" : [ "if salesforce has a chief availability officer do they also have a chief consistency officer and a chief partition tolerance officer or do they only have two" ]
+  }
+}
