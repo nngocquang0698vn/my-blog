@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1395962561116479489" ],
+    "url" : [ "https://twitter.com/TaifuDaWolfo/status/1395962561116479489" ],
+    "published" : [ "2021-05-22T04:39:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TaifuDaWolfo" ],
+        "numeric-id" : [ "1304830742044848130" ],
+        "name" : [ "tofu" ],
+        "nickname" : [ "TaifuDaWolfo" ],
+        "url" : [ "https://twitter.com/TaifuDaWolfo", "https://youtu.be/yPYZpwSpKmA" ],
+        "published" : [ "2020-09-12T17:14:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "idk anymore" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392636189140832258/r6sjZYAo.jpg" ]
+      }
+    } ],
+    "content" : [ "corporations don’t care about pride" ],
+    "photo" : [ "https://pbs.twimg.com/media/E190jRGWYAAvTJs.jpg" ]
+  }
+}
