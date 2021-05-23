@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tanaka_tatsuya/status/1396224354464243714" ],
     "name" : [ "Like of @tanaka_tatsuya's tweet" ],
     "published" : [ "2021-05-23T22:13:00+0100" ],
     "category" : [ "art" ],
