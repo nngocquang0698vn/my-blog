@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396831895275675652" ],
+    "url" : [ "https://twitter.com/ninjanails/status/1396831895275675652" ],
+    "published" : [ "2021-05-24T14:14:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ninjanails" ],
+        "numeric-id" : [ "167740453" ],
+        "name" : [ "Seren Davies" ],
+        "nickname" : [ "ninjanails" ],
+        "url" : [ "https://twitter.com/ninjanails", "http://www.serendavies.me", "http://ninjanails.com" ],
+        "published" : [ "2010-07-17T11:06:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oxford / Bristol" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146364466801577985/TvCfb49a.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Can we just stop formatting tweets like this please! \n\nDon't use call caps for every word, it's hard to read especially when you are Dyslexic. \nAlso this is awful for people who use screen readers. You basically get read out each emoji meaning picking up the sentence super hard",
+      "html" : "<div style=\"white-space: pre\">Can we just stop formatting tweets like this please! \n\nDon't use call caps for every word, it's hard to read especially when you are Dyslexic. \nAlso this is awful for people who use screen readers. You basically get read out each emoji meaning picking up the sentence super hard</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1396262452321390594" ],
+      "url" : [ "https://twitter.com/carsonp619/status/1396262452321390594" ],
+      "published" : [ "2021-05-23T00:31:24+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:carsonp619" ],
+          "numeric-id" : [ "1134894653029830656" ],
+          "name" : [ "cam is fleeing cali 🇺🇸🏳️‍🌈" ],
+          "nickname" : [ "carsonp619" ],
+          "url" : [ "https://twitter.com/carsonp619" ],
+          "published" : [ "2019-06-01T18:49:05+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "sd,ca ➡️ bryan,tx" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1271333353082388480/N8HvsRAV.jpg" ]
+        }
+      } ],
+      "content" : [ "YALL 👏🏽 CAN 👏🏽 BE 👏🏽 FRIENDS 👏🏽 WITH 👏🏽 PEOPLE 👏🏽 OF 👏🏽 DIFFERENT 👏🏽 POLITICAL 👏🏽 IDEOLOGIES 👏🏽 THAN 👏🏽 YOU 👏🏽" ]
+    }
+  } ]
+}
