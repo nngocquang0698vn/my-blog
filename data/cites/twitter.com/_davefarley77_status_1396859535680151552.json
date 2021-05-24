@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396859535680151552" ],
+    "url" : [ "https://twitter.com/davefarley77/status/1396859535680151552" ],
+    "published" : [ "2021-05-24T16:04:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:davefarley77" ],
+        "numeric-id" : [ "223055648" ],
+        "name" : [ "Dave Farley" ],
+        "nickname" : [ "davefarley77" ],
+        "url" : [ "https://twitter.com/davefarley77", "http://www.davefarley.net", "http://continuous-delivery.co.uk", "http://bit.ly/CDonYT" ],
+        "published" : [ "2010-12-05T07:29:35+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356915590900908032/OF48lMKw.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Complete the sentence 👇\n\nIf you haven't done ... , you're not really a software developer.",
+      "html" : "<div style=\"white-space: pre\">Complete the sentence 👇\n\nIf you haven't done ... , you're not really a software developer.</div>"
+    } ]
+  }
+}
