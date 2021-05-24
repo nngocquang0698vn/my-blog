@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396719632162201601" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1396719632162201601" ],
+    "published" : [ "2021-05-24T06:48:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "name" : [ "Tierney Cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manhattan" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377472140023332865/OXkG6HWc.jpg" ]
+      }
+    } ],
+    "content" : [ "I cannot fathom having a real world skill that’s not computers" ]
+  }
+}
