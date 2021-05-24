@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396582958857863169" ],
+    "url" : [ "https://twitter.com/endzChancellor/status/1396582958857863169" ],
+    "published" : [ "2021-05-23T21:44:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:endzChancellor" ],
+        "numeric-id" : [ "1078645935318675456" ],
+        "name" : [ "#11" ],
+        "nickname" : [ "endzChancellor" ],
+        "url" : [ "https://twitter.com/endzChancellor" ],
+        "published" : [ "2018-12-28T13:36:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386465308869791744/0IzUQ7Z6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Close de Chanel",
+      "html" : "Close de Chanel\n<a class=\"tag\" href=\"https://twitter.com/ottojizzmark/status/1396161970039136260\">twitter.com/ottojizzmark/s…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1396161970039136260" ],
+      "url" : [ "https://twitter.com/Ottojizzmark/status/1396161970039136260" ],
+      "published" : [ "2021-05-22T17:52:07+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Ottojizzmark" ],
+          "numeric-id" : [ "1247020867529453568" ],
+          "name" : [ "Otto Von Jizzmark" ],
+          "nickname" : [ "Ottojizzmark" ],
+          "url" : [ "https://twitter.com/Ottojizzmark" ],
+          "published" : [ "2020-04-06T04:38:45+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "🇬🇧🇪🇺" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354560954319720453/Pi7pEV6u.jpg" ]
+        }
+      } ],
+      "content" : [ "If Priti Patel released a perfume what would she name it?" ],
+      "photo" : [ "https://pbs.twimg.com/media/E2Ap6KgWYAQJKll.jpg" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/ottojizzmark/s…" ],
+      "url" : [ "https://twitter.com/ottojizzmark/status/1396161970039136260" ]
+    }
+  } ]
+}
