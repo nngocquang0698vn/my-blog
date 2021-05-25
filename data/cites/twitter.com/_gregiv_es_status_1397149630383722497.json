@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397149630383722497" ],
+    "url" : [ "https://twitter.com/gregiv_es/status/1397149630383722497" ],
+    "published" : [ "2021-05-25T11:16:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gregiv_es" ],
+        "numeric-id" : [ "795256635103019008" ],
+        "name" : [ "Greg Ives" ],
+        "nickname" : [ "gregiv_es" ],
+        "url" : [ "https://twitter.com/gregiv_es", "https://gregiv.es" ],
+        "published" : [ "2016-11-06T13:28:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1049330882086141952/mK2a6UFT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "1. What RSS readers does everyone use?\n2. Send me your feeds 👇",
+      "html" : "<div style=\"white-space: pre\">1. What RSS readers does everyone use?\n2. Send me your feeds 👇</div>"
+    } ]
+  }
+}
