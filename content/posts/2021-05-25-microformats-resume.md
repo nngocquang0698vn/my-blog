@@ -5,6 +5,8 @@ description: "Creating a public, metadata-rich Curriculum Vitae / Resume for mys
 date: "2021-05-25T10:11:26+0100"
 syndication:
 - "https://news.indieweb.org/en/www.jvt.me/posts/2021/05/25/microformats-resume/"
+- https://lobste.rs/s/ygr5sf/marking_up_my_curriculum_vitae_with
+- https://news.ycombinator.com/item?id=27274715
 tags:
 - "microformats"
 - "cv"
