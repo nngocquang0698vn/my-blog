@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397083762589151233" ],
+    "url" : [ "https://twitter.com/NadiaWhittomeMP/status/1397083762589151233" ],
+    "published" : [ "2021-05-25T06:55:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NadiaWhittomeMP" ],
+        "numeric-id" : [ "576682647" ],
+        "name" : [ "Nadia Whittome MP" ],
+        "nickname" : [ "NadiaWhittomeMP" ],
+        "url" : [ "https://twitter.com/NadiaWhittomeMP", "http://instagram.com/nadiawhittomemp" ],
+        "published" : [ "2012-05-10T21:49:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315664635081773056/mCIZkzt2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "On the advice of my doctor, I'm going to be taking some time away from work for health reasons.\n\nConstituents should continue to contact my office as normal - my staff will be there to assist you.\n\nMy full statement is below.",
+      "html" : "<div style=\"white-space: pre\">On the advice of my doctor, I'm going to be taking some time away from work for health reasons.\n\nConstituents should continue to contact my office as normal - my staff will be there to assist you.\n\nMy full statement is below.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E2NvUWRWUAIUeKg.png", "https://pbs.twimg.com/media/E2NvUWQXEAcpdN7.png" ]
+  }
+}
