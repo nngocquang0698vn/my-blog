@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NadiaWhittomeMP/status/1397083762589151233" ],
     "name" : [ "Like of @NadiaWhittomeMP's tweet" ],
     "published" : [ "2021-05-25T22:20:00+0100" ],
     "category" : [ "mental-health" ],
