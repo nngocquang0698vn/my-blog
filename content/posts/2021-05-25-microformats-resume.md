@@ -1,18 +1,19 @@
 ---
 title: "Marking up my Curriculum Vitae with Microformats2"
-description: "Creating a public, metadata-rich Curriculum Vitae / Resume for myself at https://hire.jvt.me."
-tags:
-- microformats
-- cv
-- interviewing
-- hire.jvt.me
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-05-25T10:11:26+0100
-slug: "microformats-resume"
-image: /img/vendor/microformats-logo.png
+description: "Creating a public, metadata-rich Curriculum Vitae / Resume for myself\
+  \ at https://hire.jvt.me."
+date: "2021-05-25T10:11:26+0100"
 syndication:
-- https://news.indieweb.org/en
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/05/25/microformats-resume/"
+tags:
+- "microformats"
+- "cv"
+- "interviewing"
+- "hire.jvt.me"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "/img/vendor/microformats-logo.png"
+slug: "microformats-resume"
 ---
 It's been a while since I've updated my CV, and I thought it'd be a good chance to look at my current skillset against what's currently being looked for on the job market.
 
