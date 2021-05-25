@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396996832450945027" ],
+    "url" : [ "https://twitter.com/devonbl/status/1396996832450945027" ],
+    "published" : [ "2021-05-25T01:09:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:devonbl" ],
+        "numeric-id" : [ "42673587" ],
+        "name" : [ "🖤devon🖤" ],
+        "nickname" : [ "devonbl" ],
+        "url" : [ "https://twitter.com/devonbl", "http://pronoun.is/she" ],
+        "published" : [ "2009-05-26T17:36:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355939276559552512/In9zAD78.jpg" ]
+      }
+    } ],
+    "content" : [ "writing a self review is the hard to do when you're feeling burnt out" ]
+  }
+}
