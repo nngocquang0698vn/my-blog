@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396984975006724100" ],
+    "url" : [ "https://twitter.com/chrisfluming/status/1396984975006724100" ],
+    "published" : [ "2021-05-25T00:22:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chrisfluming" ],
+        "numeric-id" : [ "309912891" ],
+        "name" : [ "Chris Fleming" ],
+        "nickname" : [ "chrisfluming" ],
+        "url" : [ "https://twitter.com/chrisfluming", "https://chrisflemingfleming.com/", "https://www.youtube.com/watch?v=zPPvS--4_4A" ],
+        "published" : [ "2011-06-02T21:49:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1215819081791598592/403wpRNJ.jpg" ]
+      }
+    } ],
+    "content" : [ "I’m not gonna pretend to know anything about crypto but I do know that all my most unreliable friends whose advice I follow the opposite of are very very into it" ]
+  }
+}
