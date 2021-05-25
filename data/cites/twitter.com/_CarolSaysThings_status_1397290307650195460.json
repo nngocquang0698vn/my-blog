@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397290307650195460" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1397290307650195460" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E2QsFpUWQAcjx82.mp4" ],
+    "published" : [ "2021-05-25T20:35:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394003200592723972/bIQpmLei.jpg" ]
+      }
+    } ],
+    "content" : [ "I got my first vaccine today! Go science! 🌟💉🥳✌🏼" ]
+  }
+}
