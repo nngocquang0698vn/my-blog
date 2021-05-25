@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397249300703367168" ],
+    "url" : [ "https://twitter.com/jsjoeio/status/1397249300703367168" ],
+    "published" : [ "2021-05-25T17:52:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jsjoeio" ],
+        "numeric-id" : [ "1567529924" ],
+        "name" : [ "Joe Previte" ],
+        "nickname" : [ "jsjoeio" ],
+        "url" : [ "https://twitter.com/jsjoeio", "https://vimforvscode.com/", "http://t.me/jsjoeio_ts_course" ],
+        "published" : [ "2013-07-04T06:48:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "MRR: 0 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜ 2K" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274526737523564544/9sF1k37k.jpg" ]
+      }
+    } ],
+    "content" : [ "When they ask you to fix the tests" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E2QGuLJVIAEBFvu.jpg",
+      "alt" : "white man blinking with text \"I don't have time for amatuer hour shennanigans\""
+    } ]
+  }
+}
