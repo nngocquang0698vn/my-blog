@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397369958040961027" ],
+    "url" : [ "https://twitter.com/NovallSwift/status/1397369958040961027" ],
+    "published" : [ "2021-05-26T01:52:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NovallSwift" ],
+        "numeric-id" : [ "27519453" ],
+        "name" : [ "Novall Swift" ],
+        "nickname" : [ "NovallSwift" ],
+        "url" : [ "https://twitter.com/NovallSwift", "http://novallswift.com" ],
+        "published" : [ "2009-03-29T22:24:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1393428009672056835/WpHOLLY2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "A Senior Apple Engineer I look up to and respect told me he pair programs every week to work through his problems.\n\nNgl this broke my brain.\n\nHe's one of the best engineers I know.\n\nWe're conditioned to think asking for help means you're junior.\n\nTime to normalize this.",
+      "html" : "<div style=\"white-space: pre\">A Senior Apple Engineer I look up to and respect told me he pair programs every week to work through his problems.\n\nNgl this broke my brain.\n\nHe's one of the best engineers I know.\n\nWe're conditioned to think asking for help means you're junior.\n\nTime to normalize this.</div>"
+    } ]
+  }
+}
