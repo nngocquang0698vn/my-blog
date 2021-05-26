@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397484810197684224" ],
+    "url" : [ "https://twitter.com/piccalilli_/status/1397484810197684224" ],
+    "published" : [ "2021-05-26T09:28:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Amy_Hupe/status/1397484023467974656" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:piccalilli_" ],
+        "numeric-id" : [ "98734097" ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "piccalilli_" ],
+        "url" : [ "https://twitter.com/piccalilli_", "https://piccalil.li", "http://piccalil.li", "http://array.chat", "http://every-layout.dev", "http://cube.fyi" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361302576633942017/PYExIn7_.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "i could probably make a template and switch out names tbh",
+      "html" : "i could probably make a template and switch out names tbh\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Amy_Hupe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lurkmoophy\"></a>"
+    } ]
+  }
+}
