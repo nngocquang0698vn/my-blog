@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397606230340771843" ],
+    "url" : [ "https://twitter.com/ArtyCurry/status/1397606230340771843" ],
+    "published" : [ "2021-05-26T17:31:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ArtyCurry" ],
+        "numeric-id" : [ "3146738791" ],
+        "name" : [ "Da(Y)go Brown" ],
+        "nickname" : [ "ArtyCurry" ],
+        "url" : [ "https://twitter.com/ArtyCurry" ],
+        "published" : [ "2015-04-10T00:09:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atlantis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288045756964696064/AkElZpYn.jpg" ]
+      }
+    } ],
+    "content" : [ "A lady just came up to me and said “Speak English, we are in San Diego.” So I politely responded by asking her “how do I say ‘San Diego’ in English?” The look of bewilderment on her face made it feel like a Friday." ]
+  }
+}
