@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397619152253227011" ],
+    "url" : [ "https://twitter.com/GinnyGhezzo/status/1397619152253227011" ],
+    "published" : [ "2021-05-26T18:22:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:GinnyGhezzo" ],
+        "numeric-id" : [ "2557115592" ],
+        "name" : [ "Ginny Ghezzo" ],
+        "nickname" : [ "GinnyGhezzo" ],
+        "url" : [ "https://twitter.com/GinnyGhezzo" ],
+        "published" : [ "2014-06-09T16:17:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "North Carolina" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/476039653405900801/pa5Uuh76.png" ]
+      }
+    } ],
+    "content" : [ "I fantasize about retiring  ... to write code" ]
+  }
+}
