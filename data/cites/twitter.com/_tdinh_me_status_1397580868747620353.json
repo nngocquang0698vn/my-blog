@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1397580868747620353" ],
+    "url" : [ "https://twitter.com/tdinh_me/status/1397580868747620353" ],
+    "published" : [ "2021-05-26T15:50:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tdinh_me" ],
+        "numeric-id" : [ "331379561" ],
+        "name" : [ "Tony Dinh 🎯" ],
+        "nickname" : [ "tdinh_me" ],
+        "url" : [ "https://twitter.com/tdinh_me", "http://tdinh.me", "http://devutils.app", "http://drivestats.io", "http://blackmagic.so" ],
+        "published" : [ "2011-07-08T02:41:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cool stuff collection 👉" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397796458787524610/gtuASN3q.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I have done it.\n\nMy profile banner now shows my latest 3 followers!\n\nUpdate every 60 secs.\n\nNope, unfollow and follow again won't work, sorry 😂",
+      "html" : "<div style=\"white-space: pre\">I have done it.\n\nMy profile banner now shows my latest 3 followers!\n\nUpdate every 60 secs.\n\nNope, unfollow and follow again won't work, sorry 😂</div>"
+    } ]
+  }
+}
