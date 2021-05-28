@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/Ellis_Samizdat/status/1281555519073812480"
     ],
     "name": [
       "Like of @Ellis_Samizdat's tweet"

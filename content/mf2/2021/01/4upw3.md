@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1352380821139836930" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2021-01-21T23:31:00+0000" ],
     "category" : [ "coronavirus" ],

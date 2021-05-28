@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ken_wheeler/status/1396204575875604484" ],
     "name" : [ "Like of @ken_wheeler's tweet" ],
     "published" : [ "2021-05-23T09:27:00+0100" ],
     "category" : [ "shitpost" ],

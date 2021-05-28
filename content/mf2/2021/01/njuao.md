@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackremmington/status/1349370702491774976" ],
     "name" : [ "Like of @jackremmington's tweet" ],
     "published" : [ "2021-01-14T22:38:00+0000" ],
     "category" : [ "tiktok" ],

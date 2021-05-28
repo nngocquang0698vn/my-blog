@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RisuToInu/status/1397789232106778627" ],
     "name" : [ "Like of @RisuToInu's tweet" ],
     "published" : [ "2021-05-27T07:22:00+0100" ],
     "category" : [ "politics" ],

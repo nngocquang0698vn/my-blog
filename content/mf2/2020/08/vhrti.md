@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/bauhauhaus/status/1297396795006476289"
     ],
     "name": [
       "Like of @bauhauhaus's tweet"

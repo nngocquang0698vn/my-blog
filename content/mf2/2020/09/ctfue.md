@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/freezydorito/status/1300703597995401217"
     ],
     "name": [
       "Like of @freezydorito's tweet"

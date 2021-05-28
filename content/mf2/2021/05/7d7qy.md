@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisIsMissEm/status/1395495779649921026" ],
     "name" : [ "Like of @ThisIsMissEm's tweet" ],
     "published" : [ "2021-05-20T22:58:00+0100" ],
     "category" : [ "art" ],

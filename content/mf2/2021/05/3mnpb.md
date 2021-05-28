@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/holly/status/1393670871961718792" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2021-05-15T22:39:00+0100" ],
     "category" : [ "nottingham" ],

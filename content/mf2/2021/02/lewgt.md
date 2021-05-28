@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RandomBritNews/status/1365268978810109952" ],
     "name" : [ "Like of @RandomBritNews's tweet" ],
     "published" : [ "2021-02-27T10:53:00+0000" ],
     "like-of" : [ "https://twitter.com/RandomBritNews/status/1365268978810109952" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fireh9lly/status/1350019810424459264" ],
     "name" : [ "Like of @fireh9lly's tweet" ],
     "published" : [ "2021-01-15T20:48:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],

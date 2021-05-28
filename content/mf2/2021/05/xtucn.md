@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SBinLondon/status/1396444126216966145" ],
     "name" : [ "Like of @SBinLondon's tweet" ],
     "published" : [ "2021-05-23T14:55:00+0100" ],
     "category" : [ "uk" ],

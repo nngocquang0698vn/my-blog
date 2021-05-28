@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/akkitwts/status/1349961795293700096" ],
     "name" : [ "Like of @akkitwts's tweet" ],
     "published" : [ "2021-01-15T08:35:00+0000" ],
     "category" : [ "cute" ],

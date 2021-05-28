@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/tinysapien/status/1282137399401893889"
     ],
     "name": [
       "Like of @tinysapien's tweet"

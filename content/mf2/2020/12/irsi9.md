@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maxkreminski/status/1338242995401883648" ],
     "name" : [ "Like of @maxkreminski's tweet" ],
     "published" : [ "2020-12-13T22:47:00+0000" ],
     "category" : [ "gaming" ],

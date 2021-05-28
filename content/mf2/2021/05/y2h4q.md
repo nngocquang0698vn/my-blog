@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheRealCynimax/status/1393652634939273223" ],
     "name" : [ "Like of @TheRealCynimax's tweet" ],
     "published" : [ "2021-05-16T10:41:00+0100" ],
     "like-of" : [ "https://twitter.com/TheRealCynimax/status/1393652634939273223" ],

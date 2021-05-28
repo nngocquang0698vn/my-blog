@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/nachosarah/status/1292559281355665408"
     ],
     "name": [
       "Like of @nachosarah's tweet"

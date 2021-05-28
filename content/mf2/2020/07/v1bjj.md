@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/cctv_idiots/status/1282401528956018688"
     ],
     "name": [
       "Like of @cctv_idiots's tweet"

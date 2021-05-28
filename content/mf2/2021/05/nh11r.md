@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dileepkush/status/1394778742061338624" ],
     "name" : [ "Like of @dileepkush's tweet" ],
     "published" : [ "2021-05-19T16:06:00+0100" ],
     "category" : [ "indieweb", "personal-website" ],

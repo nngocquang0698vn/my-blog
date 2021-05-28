@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/hankchizljaw/status/1291848706057211905"
     ],
     "name": [
       "Like of @hankchizljaw's tweet"

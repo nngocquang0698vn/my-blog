@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/ohhelloana/status/1298970005091094528"
     ],
     "name": [
       "Like of @ohhelloana's tweet"

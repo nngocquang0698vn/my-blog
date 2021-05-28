@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohhoe/status/1338626457648697345" ],
     "name" : [ "Like of @ohhoe's tweet" ],
     "published" : [ "2020-12-15T10:58:00+0000" ],
     "category" : [ "cute" ],

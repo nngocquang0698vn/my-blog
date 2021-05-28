@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stephens_ben/status/1349112640677826575" ],
     "name" : [ "Like of @stephens_ben's tweet" ],
     "published" : [ "2021-01-13T14:05:00+0000" ],
     "like-of" : [ "https://twitter.com/stephens_ben/status/1349112640677826575" ]

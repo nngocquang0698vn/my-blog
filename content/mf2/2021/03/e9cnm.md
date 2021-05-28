@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Foone/status/1373798913652654084" ],
     "name" : [ "Like of @Foone's tweet" ],
     "published" : [ "2021-03-22T11:45:00+0000" ],
     "category" : [ "sparkling" ],

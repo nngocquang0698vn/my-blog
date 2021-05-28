@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SICKOFWOLVES/status/1350541861090324480" ],
     "name" : [ "Like of @SICKOFWOLVES's tweet" ],
     "published" : [ "2021-01-17T10:16:00+0000" ],
     "category" : [ "politics" ],

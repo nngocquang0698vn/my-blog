@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/github/status/1390382527588798477" ],
     "name" : [ "Like of @github's tweet" ],
     "published" : [ "2021-05-06T22:35:00+0100" ],
     "category" : [ "github" ],

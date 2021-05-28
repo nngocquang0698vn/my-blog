@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/unfortunatalie/status/1299099421494386690"
     ],
     "name": [
       "Like of @unfortunatalie's tweet"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/danicat83/status/1352186847175335936" ],
     "name" : [ "Like of @danicat83's tweet" ],
     "published" : [ "2021-01-21T22:21:00+0000" ],
     "category" : [ "monzo" ],

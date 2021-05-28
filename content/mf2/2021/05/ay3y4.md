@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lyzidiamond/status/1395794656428969985" ],
     "name" : [ "Like of @lyzidiamond's tweet" ],
     "published" : [ "2021-05-22T09:44:00+0100" ],
     "category" : [ "tech-debt" ],

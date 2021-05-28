@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/halfmadeup/status/1301674473347670016"
     ],
     "name": [
       "Like of @halfmadeup's tweet"

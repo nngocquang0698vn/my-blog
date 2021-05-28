@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maxcell/status/1395133383697645569" ],
     "name" : [ "Like of @maxcell's tweet" ],
     "published" : [ "2021-05-19T23:11:00+0100" ],
     "category" : [ "shitpost" ],

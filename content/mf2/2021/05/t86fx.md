@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cramforce/status/1392689968204505098" ],
     "name" : [ "Like of @cramforce's tweet" ],
     "published" : [ "2021-05-13T16:59:00+0100" ],
     "category" : [ "open-source" ],

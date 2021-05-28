@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/5tevieM/status/1338082432562704386" ],
     "name" : [ "Like of @5tevieM's tweet" ],
     "published" : [ "2020-12-14T11:12:00+0000" ],
     "like-of" : [ "https://twitter.com/5tevieM/status/1338082432562704386" ]

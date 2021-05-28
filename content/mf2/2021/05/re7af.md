@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unfortunatalie/status/1391013074719543297" ],
     "name" : [ "Like of @unfortunatalie's tweet" ],
     "published" : [ "2021-05-09T10:41:00+0100" ],
     "category" : [ "coronavirus", "mental-health" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tc2oh/status/1349692700384133120" ],
     "name" : [ "Like of @tc2oh's tweet" ],
     "published" : [ "2021-01-14T21:28:00+0000" ],
     "category" : [ "impostor-syndrome" ],

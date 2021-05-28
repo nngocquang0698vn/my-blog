@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/iatemuggles/status/1300383999370694656"
     ],
     "name": [
       "Like of @iatemuggles's tweet"

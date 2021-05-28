@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kimballscott/status/1395587414794461186" ],
     "name" : [ "Like of @kimballscott's tweet" ],
     "published" : [ "2021-05-21T15:51:00+0100" ],
     "like-of" : [ "https://twitter.com/kimballscott/status/1395587414794461186" ],

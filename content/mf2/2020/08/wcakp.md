@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/dan_webb/status/1294917530260209664"
     ],
     "name": [
       "Like of @dan_webb's tweet"

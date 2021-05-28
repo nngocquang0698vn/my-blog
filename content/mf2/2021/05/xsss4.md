@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StephandSec/status/1395391595965517824" ],
     "name" : [ "Like of @StephandSec's tweet" ],
     "published" : [ "2021-05-20T23:01:00+0100" ],
     "category" : [ "shitpost", "tech-debt" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shadow_kylie/status/1351998951113818116" ],
     "name" : [ "Like of @shadow_kylie's tweet" ],
     "published" : [ "2021-01-21T22:07:00+0000" ],
     "category" : [ "cute" ],

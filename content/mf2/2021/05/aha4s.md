@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/naomi_pen/status/1395772001416105984" ],
     "name" : [ "Like of @naomi_pen's tweet" ],
     "published" : [ "2021-05-21T17:59:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

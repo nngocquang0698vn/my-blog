@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jonathanvswan/status/1350404745941413889" ],
     "name" : [ "Like of @jonathanvswan's tweet" ],
     "published" : [ "2021-01-16T19:37:00+0000" ],
     "category" : [ "politics" ],

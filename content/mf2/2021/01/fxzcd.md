@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MissMorganic_/status/1344483018216407041" ],
     "name" : [ "Like of @MissMorganic_'s tweet" ],
     "published" : [ "2021-01-01T19:26:00+0000" ],
     "like-of" : [ "https://twitter.com/MissMorganic_/status/1344483018216407041" ]

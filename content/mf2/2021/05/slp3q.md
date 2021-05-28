@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chrisfluming/status/1396984975006724100" ],
     "name" : [ "Like of @chrisfluming's tweet" ],
     "published" : [ "2021-05-25T22:06:00+0100" ],
     "category" : [ "cryptocurrency" ],

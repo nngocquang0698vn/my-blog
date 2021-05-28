@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HannahFoxwell/status/1321814138885152768" ],
     "name" : [ "Like of @HannahFoxwell's tweet" ],
     "published" : [ "2020-10-29T14:27:00+0000" ],
     "category" : [ "halloween" ],

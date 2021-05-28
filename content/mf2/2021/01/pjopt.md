@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DJMHarland/status/1352164810797051910" ],
     "name" : [ "Like of @DJMHarland's tweet" ],
     "published" : [ "2021-01-22T19:54:00+0000" ],
     "category" : [ "cute" ],

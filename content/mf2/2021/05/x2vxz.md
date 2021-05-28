@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kefimochi/status/1389581751865909249" ],
     "name" : [ "Like of @kefimochi's tweet" ],
     "published" : [ "2021-05-04T16:59:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

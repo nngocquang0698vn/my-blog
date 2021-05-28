@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/CSMFHT/status/1318117033532272641"
     ],
     "name": [
       "Like of @CSMFHT's tweet"

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cmjdiff/status/1392866198250000384" ],
     "name" : [ "Like of @cmjdiff's tweet" ],
     "published" : [ "2021-05-14T21:24:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lindseybieda/status/1395732453436928001" ],
     "name" : [ "Like of @lindseybieda's tweet" ],
     "published" : [ "2021-05-21T17:46:00+0100" ],
     "category" : [ "digitalocean", "interviewing" ],

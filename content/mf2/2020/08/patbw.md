@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/50FirstTates/status/1286686633052512256"
     ],
     "name": [
       "Like of @50FirstTates's tweet"

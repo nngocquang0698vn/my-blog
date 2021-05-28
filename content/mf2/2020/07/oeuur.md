@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/amoure_af/status/1284203729034653702"
     ],
     "name": [
       "Like of @amoure_af's tweet"

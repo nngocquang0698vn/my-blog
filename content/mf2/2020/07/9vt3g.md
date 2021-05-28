@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/abbyfuller/status/1280627279077359617"
     ],
     "name": [
       "Like of @abbyfuller's tweet"

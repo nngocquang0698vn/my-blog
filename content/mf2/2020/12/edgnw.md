@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KaitlinMcKinnon/status/1338560335075102722" ],
     "name" : [ "Like of @KaitlinMcKinnon's tweet" ],
     "published" : [ "2020-12-15T09:11:00+0000" ],
     "category" : [ "christmas" ],

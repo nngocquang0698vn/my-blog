@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matvelloso/status/1350112400385605633" ],
     "name" : [ "Like of @matvelloso's tweet" ],
     "published" : [ "2021-01-15T20:44:00+0000" ],
     "category" : [ "android" ],

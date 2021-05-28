@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NickLylesComedy/status/1350910664966074368" ],
     "name" : [ "Like of @NickLylesComedy's tweet" ],
     "published" : [ "2021-01-18T18:23:00+0000" ],
     "category" : [ "politics" ],

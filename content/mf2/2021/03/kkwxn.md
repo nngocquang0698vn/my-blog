@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freedominguez/status/1367646641403006983" ],
     "name" : [ "Like of @freedominguez's tweet" ],
     "published" : [ "2021-03-05T10:06:00+0000" ],
     "category" : [ "shitpost", "coronavirus" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CamThePerson/status/1349542353200025601" ],
     "name" : [ "Like of @CamThePerson's tweet" ],
     "published" : [ "2021-01-14T22:44:00+0000" ],
     "category" : [ "food" ],

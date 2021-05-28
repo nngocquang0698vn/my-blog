@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/munson_jo/status/1348735487188422659" ],
     "name" : [ "Like of @munson_jo's tweet" ],
     "published" : [ "2021-01-13T17:34:00+0000" ],
     "category" : [ "politics" ],

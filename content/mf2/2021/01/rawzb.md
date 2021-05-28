@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Rose_Matafeo/status/1349086841081917442" ],
     "name" : [ "Like of @Rose_Matafeo's tweet" ],
     "published" : [ "2021-01-13T14:05:00+0000" ],
     "like-of" : [ "https://twitter.com/Rose_Matafeo/status/1349086841081917442" ]

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cableknitjumper/status/1347636343497654272" ],
     "name" : [ "Like of @cableknitjumper's tweet" ],
     "published" : [ "2021-01-08T20:23:00+0000" ],
     "category" : [ "politics" ],

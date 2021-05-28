@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SparkNotes/status/1398016090773590017" ],
     "name" : [ "Like of @SparkNotes's tweet" ],
     "published" : [ "2021-05-28T16:02:00+0100" ],
     "category" : [ "a-series-of-unfortunate-events" ],

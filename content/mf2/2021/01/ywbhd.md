@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gdcfpday/status/1349427512657514496" ],
     "name" : [ "Like of @gdcfpday's tweet" ],
     "published" : [ "2021-01-15T08:34:00+0000" ],
     "category" : [ "public-speaking" ],

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/Yuumei_Art/status/1309539464843112448"
     ],
     "name": [
       "Like of @Yuumei_Art's tweet"

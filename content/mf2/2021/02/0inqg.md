@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stephhippo/status/1366118622318321668" ],
     "name" : [ "Like of @stephhippo's tweet" ],
     "published" : [ "2021-02-28T20:33:00+0000" ],
     "category" : [ "iot" ],

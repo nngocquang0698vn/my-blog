@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/makalabeach/status/1392676526731235329" ],
     "name" : [ "Like of @makalabeach's tweet" ],
     "published" : [ "2021-05-13T12:16:00+0100" ],
     "like-of" : [ "https://twitter.com/makalabeach/status/1392676526731235329" ],

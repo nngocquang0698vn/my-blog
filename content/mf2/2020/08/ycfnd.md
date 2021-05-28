@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/ingridostby/status/1291197253537988608"
     ],
     "name": [
       "Like of @ingridostby's tweet"

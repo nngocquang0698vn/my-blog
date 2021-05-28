@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elchefe/status/1396498428503416834" ],
     "name" : [ "Like of @elchefe's tweet" ],
     "published" : [ "2021-05-23T17:11:00+0100" ],
     "category" : [ "mental-health" ],

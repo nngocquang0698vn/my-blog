@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1397337091026001920" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2021-05-26T07:38:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

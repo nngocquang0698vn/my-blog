@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/chaselyons/status/1301193278684049408"
     ],
     "name": [
       "Like of @chaselyons's tweet"

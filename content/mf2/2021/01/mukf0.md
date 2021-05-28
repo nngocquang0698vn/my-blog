@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/foxshaped/status/1353665159064121344" ],
     "name" : [ "Like of @foxshaped's tweet" ],
     "published" : [ "2021-01-25T22:30:00+0000" ],
     "category" : [ "food" ],

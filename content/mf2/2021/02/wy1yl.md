@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/llisonmickel/status/1364868977143513088" ],
     "name" : [ "Like of @llisonmickel's tweet" ],
     "published" : [ "2021-02-26T16:35:00+0000" ],
     "like-of" : [ "https://twitter.com/llisonmickel/status/1364868977143513088" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beginbotbot/status/1338954701539221504" ],
     "name" : [ "Like of @beginbotbot's tweet" ],
     "published" : [ "2020-12-16T12:35:00+0000" ],
     "category" : [ "open-source" ],

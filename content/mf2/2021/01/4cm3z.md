@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pesobugatti/status/1351199513470521344" ],
     "name" : [ "Like of @pesobugatti's tweet" ],
     "published" : [ "2021-01-19T14:40:00+0000" ],
     "like-of" : [ "https://twitter.com/pesobugatti/status/1351199513470521344" ]

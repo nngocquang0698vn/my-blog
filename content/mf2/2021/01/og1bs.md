@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/businessinsider/status/1349066876324896773" ],
     "name" : [ "Like of @businessinsider's tweet" ],
     "published" : [ "2021-01-12T21:50:00+0000" ],
     "category" : [ "github" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamlud/status/1395564786469986304" ],
     "name" : [ "Like of @adamlud's tweet" ],
     "published" : [ "2021-05-22T15:29:00+0100" ],
     "like-of" : [ "https://twitter.com/adamlud/status/1395564786469986304" ],

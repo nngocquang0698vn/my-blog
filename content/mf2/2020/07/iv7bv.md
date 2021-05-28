@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/SANWlO/status/1281668258207342598"
     ],
     "name": [
       "Like of @SANWlO's tweet"

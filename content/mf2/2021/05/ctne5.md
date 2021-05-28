@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aubrionna/status/1398126952762904578" ],
     "name" : [ "Like of @aubrionna's tweet" ],
     "published" : [ "2021-05-28T07:22:00+0100" ],
     "category" : [ "food" ],

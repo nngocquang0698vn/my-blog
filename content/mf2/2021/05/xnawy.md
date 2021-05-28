@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1394945394912735236" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2021-05-19T11:07:00+0100" ],
     "category" : [ "doctor-who" ],

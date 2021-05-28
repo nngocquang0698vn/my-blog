@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/LorenzoTheCat/status/1317116690912677889"
     ],
     "name": [
       "Like of @LorenzoTheCat's tweet"

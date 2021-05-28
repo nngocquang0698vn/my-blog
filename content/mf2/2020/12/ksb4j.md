@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShouldHaveCat/status/1338129462878216195" ],
     "name" : [ "Like of @ShouldHaveCat's tweet" ],
     "published" : [ "2020-12-13T14:44:00+0000" ],
     "category" : [ "cute" ],

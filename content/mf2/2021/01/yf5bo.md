@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_tessr/status/1350439641204355079" ],
     "name" : [ "Like of @_tessr's tweet" ],
     "published" : [ "2021-01-16T16:02:00+0000" ],
     "category" : [ "testing" ],

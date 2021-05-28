@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ambernoelle/status/1349446280188190721" ],
     "name" : [ "Like of @ambernoelle's tweet" ],
     "published" : [ "2021-01-14T22:38:00+0000" ],
     "category" : [ "2021", "2020" ],

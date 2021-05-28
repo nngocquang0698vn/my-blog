@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codahall/status/1334150937330339841" ],
     "name" : [ "Like of @codahall's tweet" ],
     "published" : [ "2020-12-03T18:18:00+0000" ],
     "like-of" : [ "https://twitter.com/codahall/status/1334150937330339841" ]

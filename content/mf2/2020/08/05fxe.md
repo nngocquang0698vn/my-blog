@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/ctrlshifti/status/1297004139243810816"
     ],
     "name": [
       "Like of @ctrlshifti's tweet"

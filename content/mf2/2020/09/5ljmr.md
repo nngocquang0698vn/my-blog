@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/JustAnotherPD/status/1301545071070916609"
     ],
     "name": [
       "Like of @JustAnotherPD's tweet"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarahclazarus/status/1338728019888771072" ],
     "name" : [ "Like of @sarahclazarus's tweet" ],
     "published" : [ "2020-12-16T12:46:00+0000" ],
     "category" : [ "coronavirus" ],

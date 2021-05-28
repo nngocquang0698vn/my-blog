@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricaJoy/status/1352035933692981248" ],
     "name" : [ "Like of @EricaJoy's tweet" ],
     "published" : [ "2021-01-21T07:59:00+0000" ],
     "category" : [ "personal-infrastructure", "blogging" ],

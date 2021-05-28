@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DaveSchinkel/status/1349102153332367361" ],
     "name" : [ "Like of @DaveSchinkel's tweet" ],
     "published" : [ "2021-01-12T22:15:00+0000" ],
     "category" : [ "tdd" ],

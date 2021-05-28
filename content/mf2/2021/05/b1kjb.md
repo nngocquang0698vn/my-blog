@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/munyachawawa/status/1397269997731332106" ],
     "name" : [ "Like of @munyachawawa's tweet" ],
     "published" : [ "2021-05-25T21:25:00+0100" ],
     "category" : [ "shitpost", "tiktok" ],

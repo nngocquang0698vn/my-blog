@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/CapitalOneUK/status/1281166210307182592"
     ],
     "name": [
       "Like of @CapitalOneUK's tweet"

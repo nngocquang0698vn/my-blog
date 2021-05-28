@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_davevans_/status/1397131459153076230" ],
     "name" : [ "Like of @_davevans_'s tweet" ],
     "published" : [ "2021-05-25T12:27:00+0100" ],
     "category" : [ "coronavirus" ],

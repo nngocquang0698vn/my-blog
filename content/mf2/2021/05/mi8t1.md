@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IanColdwater/status/1392521354243571714" ],
     "name" : [ "Like of @IanColdwater's tweet" ],
     "published" : [ "2021-05-12T19:25:00+0100" ],
     "category" : [ "diversity-and-inclusion", "politics" ],

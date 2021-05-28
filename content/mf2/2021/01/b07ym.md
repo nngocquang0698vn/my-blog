@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RussInCheshire/status/1352522292090306560" ],
     "name" : [ "Like of @RussInCheshire's tweet" ],
     "published" : [ "2021-01-22T08:43:00+0000" ],
     "category" : [ "brexshit", "politics" ],

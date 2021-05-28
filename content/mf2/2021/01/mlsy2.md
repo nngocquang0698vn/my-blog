@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kanolat0/status/1351616064250114048" ],
     "name" : [ "Like of @kanolat0's tweet" ],
     "published" : [ "2021-01-19T22:30:00+0000" ],
     "category" : [ "open-source" ],

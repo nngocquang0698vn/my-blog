@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/war_queer/status/1350867332143443968" ],
     "name" : [ "Like of @war_queer's tweet" ],
     "published" : [ "2021-01-17T20:48:00+0000" ],
     "category" : [ "github" ],

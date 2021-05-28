@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnimalsWorId/status/1352236390482759682" ],
     "name" : [ "Like of @AnimalsWorId's tweet" ],
     "published" : [ "2021-01-22T16:34:00+0000" ],
     "category" : [ "cute" ],

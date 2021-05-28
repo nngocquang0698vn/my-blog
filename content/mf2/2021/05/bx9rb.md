@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/QuinnyPig/status/1395765078490812420" ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2021-05-21T18:39:00+0100" ],
     "category" : [ "shitpost", "rust" ],

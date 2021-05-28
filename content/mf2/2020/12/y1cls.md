@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DivineOps/status/1338195558322888705" ],
     "name" : [ "Like of @DivineOps's tweet" ],
     "published" : [ "2020-12-14T10:02:00+0000" ],
     "category" : [ "cute" ],

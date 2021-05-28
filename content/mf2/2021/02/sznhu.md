@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ambertakahashi/status/1365638006103810051" ],
     "name" : [ "Like of @ambertakahashi's tweet" ],
     "published" : [ "2021-02-27T17:29:00+0000" ],
     "category" : [ "memes" ],

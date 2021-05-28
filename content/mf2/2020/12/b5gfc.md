@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SteveALee/status/1338457207311097856" ],
     "name" : [ "Like of @SteveALee's tweet" ],
     "published" : [ "2020-12-14T12:27:00+0000" ],
     "category" : [ "brexshit" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_elletownsend/status/1326915671226277891" ],
     "name" : [ "Like of @_elletownsend's tweet" ],
     "published" : [ "2020-11-12T17:16:00+0000" ],
     "category" : [ "mechanical-keyboard" ],

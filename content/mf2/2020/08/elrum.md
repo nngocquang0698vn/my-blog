@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/glitchliz/status/1292475069466202112"
     ],
     "name": [
       "Like of @glitchliz's tweet"

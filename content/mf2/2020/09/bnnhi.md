@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/miss_jwo/status/1301118556428472320"
     ],
     "name": [
       "Like of @miss_jwo's tweet"

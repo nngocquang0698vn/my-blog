@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/_NatureAnimals/status/1287035239139807233"
     ],
     "name": [
       "Like of @_NatureAnimals's tweet"

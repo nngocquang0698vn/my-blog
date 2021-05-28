@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devonbl/status/1396996832450945027" ],
     "name" : [ "Like of @devonbl's tweet" ],
     "published" : [ "2021-05-25T20:09:00+0100" ],
     "category" : [ "burnout" ],

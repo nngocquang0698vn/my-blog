@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/jimmy_rickets/status/1317336184662728705"
     ],
     "name": [
       "Like of @jimmy_rickets's tweet"

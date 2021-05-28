@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jillcross69/status/1395194182319357952" ],
     "name" : [ "Like of @jillcross69's tweet" ],
     "published" : [ "2021-05-21T17:59:00+0100" ],
     "category" : [ "social-media" ],

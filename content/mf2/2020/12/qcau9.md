@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cats_places/status/1337790610401476614" ],
     "name" : [ "Like of @cats_places's tweet" ],
     "published" : [ "2020-12-12T17:36:00+0000" ],
     "category" : [ "cute" ],

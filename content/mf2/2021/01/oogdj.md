@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ad_Inifinitum/status/1349488333634863106" ],
     "name" : [ "Like of @Ad_Inifinitum's tweet" ],
     "published" : [ "2021-01-14T20:10:00+0000" ],
     "category" : [ "cute" ],

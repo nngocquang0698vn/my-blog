@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/HillaryMonahan/status/1309261666559897600"
     ],
     "name": [
       "Like of @HillaryMonahan's tweet"

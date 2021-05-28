@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ryanflorence/status/1370435079898497025" ],
     "name" : [ "Like of @ryanflorence's tweet" ],
     "published" : [ "2021-03-13T01:18:00+0000" ],
     "category" : [ "web", "security" ],

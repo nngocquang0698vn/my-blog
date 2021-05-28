@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/LeroySmithTech/status/1292825115713970178"
     ],
     "name": [
       "Like of @LeroySmithTech's tweet"

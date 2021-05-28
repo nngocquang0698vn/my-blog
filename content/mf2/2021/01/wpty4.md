@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nutnutnutnate/status/1351268268942757888" ],
     "name" : [ "Like of @nutnutnutnate's tweet" ],
     "published" : [ "2021-01-19T15:31:00+0000" ],
     "category" : [ "shitpost", "politics" ],

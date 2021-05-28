@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EliasToufexis/status/1387654644524978178" ],
     "name" : [ "Like of @EliasToufexis's tweet" ],
     "published" : [ "2021-04-30T10:02:00+0100" ],
     "category" : [ "the-expanse" ],

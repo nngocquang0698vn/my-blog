@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/mathladyhazel/status/1304985743488581632"
     ],
     "name": [
       "Like of @mathladyhazel's tweet"

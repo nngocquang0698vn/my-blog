@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sommer/status/1395861705553420288" ],
     "name" : [ "Like of @Sommer's tweet" ],
     "published" : [ "2021-05-22T09:10:00+0100" ],
     "category" : [ "remote-work", "diversity-and-inclusion" ],

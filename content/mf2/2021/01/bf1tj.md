@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Charlietrypsin/status/1349374733138194437" ],
     "name" : [ "Like of @Charlietrypsin's tweet" ],
     "published" : [ "2021-01-13T22:25:00+0000" ],
     "category" : [ "cute" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laurieontech/status/1352246947374129152" ],
     "name" : [ "Like of @laurieontech's tweet" ],
     "published" : [ "2021-01-21T22:18:00+0000" ],
     "like-of" : [ "https://twitter.com/laurieontech/status/1352246947374129152" ]

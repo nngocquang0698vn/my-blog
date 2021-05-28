@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shzwlkr/status/1339539675682369536" ],
     "name" : [ "Like of @shzwlkr's tweet" ],
     "published" : [ "2020-12-17T12:22:00+0000" ],
     "like-of" : [ "https://twitter.com/shzwlkr/status/1339539675682369536" ]

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/tesseralis/status/1294407157434073090"
     ],
     "name": [
       "Like of @tesseralis's tweet"

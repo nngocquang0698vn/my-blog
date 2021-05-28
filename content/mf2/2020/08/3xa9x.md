@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/drewm/status/1299035279098077185"
     ],
     "name": [
       "Like of @drewm's tweet"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jobvo/status/1352653588468801542" ],
     "name" : [ "Like of @Jobvo's tweet" ],
     "published" : [ "2021-01-22T16:37:00+0000" ],
     "category" : [ "remote-work" ],

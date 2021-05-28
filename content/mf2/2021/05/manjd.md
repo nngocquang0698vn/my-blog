@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FelipeWWoHP/status/1393342287883735042" ],
     "name" : [ "Like of @FelipeWWoHP's tweet" ],
     "published" : [ "2021-05-16T12:33:00+0100" ],
     "category" : [ "coronavirus" ],

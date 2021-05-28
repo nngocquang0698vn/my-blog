@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScribblingOn/status/1393547733626236931" ],
     "name" : [ "Like of @ScribblingOn's tweet" ],
     "published" : [ "2021-05-15T13:49:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

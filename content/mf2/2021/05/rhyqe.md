@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ninjanails/status/1396831895275675652" ],
     "name" : [ "Like of @ninjanails's tweet" ],
     "published" : [ "2021-05-24T16:22:00+0100" ],
     "category" : [ "accessibility", "social-media" ],

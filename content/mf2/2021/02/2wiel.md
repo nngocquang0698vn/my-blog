@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ahidalgosre/status/1365435533762134019" ],
     "name" : [ "Like of @ahidalgosre's tweet" ],
     "published" : [ "2021-02-26T23:24:00+0000" ],
     "category" : [ "slack" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeremycole/status/1392214755918573568" ],
     "name" : [ "Like of @jeremycole's tweet" ],
     "published" : [ "2021-05-12T14:19:00+0100" ],
     "category" : [ "ruby" ],

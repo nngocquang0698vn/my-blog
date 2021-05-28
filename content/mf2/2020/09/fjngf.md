@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/shannonmstirone/status/1302288711472750592"
     ],
     "name": [
       "Like of @shannonmstirone's tweet"

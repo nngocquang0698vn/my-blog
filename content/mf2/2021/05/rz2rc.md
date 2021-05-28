@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laurieontech/status/1394824504661225474" ],
     "name" : [ "Like of @laurieontech's tweet" ],
     "published" : [ "2021-05-19T08:31:00+0100" ],
     "category" : [ "code-review" ],

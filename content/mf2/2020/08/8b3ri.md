@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/amiridis/status/1297178386138370048"
     ],
     "name": [
       "Like of @amiridis's tweet"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1339508387185344514" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2020-12-17T10:32:00+0000" ],
     "category" : [ "remote-work" ],

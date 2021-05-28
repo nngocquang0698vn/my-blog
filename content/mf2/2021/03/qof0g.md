@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tiscomics/status/1366387811666915331" ],
     "name" : [ "Like of @tiscomics's tweet" ],
     "published" : [ "2021-03-02T09:33:00+0000" ],
     "category" : [ "gaming" ],

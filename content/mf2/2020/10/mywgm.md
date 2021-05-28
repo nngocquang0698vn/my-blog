@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/whtegrlinacrowd/status/1315384517901848586"
     ],
     "name": [
       "Like of @whtegrlinacrowd's tweet"

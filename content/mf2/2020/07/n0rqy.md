@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/RobRWAPP/status/1287074189749493765"
     ],
     "name": [
       "Like of @RobRWAPP's tweet"

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/momjeansplease/status/1349729650600144900" ],
     "name" : [ "Like of @momjeansplease's tweet" ],
     "published" : [ "2021-01-15T16:19:00+0000" ],
     "like-of" : [ "https://twitter.com/momjeansplease/status/1349729650600144900" ]

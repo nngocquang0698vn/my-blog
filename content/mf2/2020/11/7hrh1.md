@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheoShantonas/status/1327359749218820097" ],
     "name" : [ "Like of @TheoShantonas's tweet" ],
     "published" : [ "2020-11-13T22:53:00+0000" ],
     "category" : [ "cute" ],

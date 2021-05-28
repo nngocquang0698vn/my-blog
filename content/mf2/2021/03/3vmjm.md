@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PianoREDACTED/status/1369864715523026944" ],
     "name" : [ "Like of @PianoREDACTED's tweet" ],
     "published" : [ "2021-03-13T01:24:00+0000" ],
     "like-of" : [ "https://twitter.com/PianoREDACTED/status/1369864715523026944" ],

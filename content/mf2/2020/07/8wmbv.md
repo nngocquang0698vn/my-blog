@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/TatianaTMac/status/1281975109960364033"
     ],
     "name": [
       "Like of @TatianaTMac's tweet"

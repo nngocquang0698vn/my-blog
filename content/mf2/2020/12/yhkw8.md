@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rem/status/1339302691185561605" ],
     "name" : [ "Like of @rem's tweet" ],
     "published" : [ "2020-12-16T21:15:00+0000" ],
     "category" : [ "analytics" ],

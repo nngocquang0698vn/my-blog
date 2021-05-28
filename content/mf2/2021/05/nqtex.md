@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoeHart/status/1397905966792777742" ],
     "name" : [ "Like of @JoeHart's tweet" ],
     "published" : [ "2021-05-27T14:57:00+0100" ],
     "category" : [ "remote-work" ],

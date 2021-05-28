@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chriscoyier/status/1365352974621552649" ],
     "name" : [ "Like of @chriscoyier's tweet" ],
     "published" : [ "2021-02-26T18:51:00+0000" ],
     "category" : [ "rss", "feed" ],

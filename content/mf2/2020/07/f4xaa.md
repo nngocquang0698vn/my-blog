@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/verytallhuman/status/1283600085180248064"
     ],
     "name": [
       "Like of @verytallhuman's tweet"

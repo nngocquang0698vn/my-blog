@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Elias_Error/status/1393688898962874371" ],
     "name" : [ "Like of @Elias_Error's tweet" ],
     "published" : [ "2021-05-16T10:47:00+0100" ],
     "category" : [ "pokemon" ],

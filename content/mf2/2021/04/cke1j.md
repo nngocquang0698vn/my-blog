@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ryanaraine/status/1386707823816441857" ],
     "name" : [ "Like of @ryanaraine's tweet" ],
     "published" : [ "2021-04-26T22:27:00+0100" ],
     "category" : [ "security" ],

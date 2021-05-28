@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doioweyoumoney/status/1391016649776635906" ],
     "name" : [ "Like of @doioweyoumoney's tweet" ],
     "published" : [ "2021-05-09T10:36:00+0100" ],
     "like-of" : [ "https://twitter.com/doioweyoumoney/status/1391016649776635906" ],

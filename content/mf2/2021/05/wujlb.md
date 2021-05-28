@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AmberD1116/status/1393566877087977472" ],
     "name" : [ "Like of @AmberD1116's tweet" ],
     "published" : [ "2021-05-17T07:45:00+0100" ],
     "category" : [ "nature" ],

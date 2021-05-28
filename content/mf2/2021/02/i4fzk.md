@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1365529056066686977" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2021-02-27T09:07:00+0000" ],
     "category" : [ "security" ],

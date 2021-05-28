@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HeyDoryen/status/1350120945495670787" ],
     "name" : [ "Like of @HeyDoryen's tweet" ],
     "published" : [ "2021-01-16T23:53:00+0000" ],
     "category" : [ "politics" ],

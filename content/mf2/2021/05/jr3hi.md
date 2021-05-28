@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hmans/status/1393105699530551299" ],
     "name" : [ "Like of @hmans's tweet" ],
     "published" : [ "2021-05-14T21:24:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

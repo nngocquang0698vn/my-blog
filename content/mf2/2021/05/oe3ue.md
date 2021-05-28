@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DullVivid/status/1395986978919825413" ],
     "name" : [ "Like of @DullVivid's tweet" ],
     "published" : [ "2021-05-23T15:52:00+0100" ],
     "category" : [ "mental-health", "gaming", "shitpost" ],

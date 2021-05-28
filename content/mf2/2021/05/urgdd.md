@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TitanfallBlog/status/1393343711606673408" ],
     "name" : [ "Like of @TitanfallBlog's tweet" ],
     "published" : [ "2021-05-15T15:27:00+0100" ],
     "category" : [ "apex-legends" ],

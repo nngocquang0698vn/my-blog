@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/thesebosscats/status/1289598434932953088"
     ],
     "name": [
       "Like of @thesebosscats's tweet"

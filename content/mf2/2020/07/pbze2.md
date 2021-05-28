@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/penelope_zone/status/1288213211037278212"
     ],
     "name": [
       "Like of @penelope_zone's tweet"

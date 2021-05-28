@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rhyswynne/status/1337815254290624514" ],
     "name" : [ "Like of @rhyswynne's tweet" ],
     "published" : [ "2020-12-15T10:22:00+0000" ],
     "category" : [ "brexshit" ],

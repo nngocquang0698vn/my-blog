@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/elibelly/status/1301120530444169217"
     ],
     "name": [
       "Like of @elibelly's tweet"

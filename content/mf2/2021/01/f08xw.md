@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beajammingh/status/1349097044099485696" ],
     "name" : [ "Like of @beajammingh's tweet" ],
     "published" : [ "2021-01-13T07:46:00+0000" ],
     "category" : [ "sparkling", "politics" ],

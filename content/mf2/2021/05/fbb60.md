@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/timdorr/status/1393936286797414402" ],
     "name" : [ "Like of @timdorr's tweet" ],
     "published" : [ "2021-05-16T17:33:00+0100" ],
     "category" : [ "agile", "technical-leadership" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/almeezyuh/status/1352362281368244224" ],
     "name" : [ "Like of @almeezyuh's tweet" ],
     "published" : [ "2021-01-22T22:46:00+0000" ],
     "like-of" : [ "https://twitter.com/almeezyuh/status/1352362281368244224" ]

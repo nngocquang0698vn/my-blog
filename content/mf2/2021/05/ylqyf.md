@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_holyshift/status/1389396981307510784" ],
     "name" : [ "Like of @_holyshift's tweet" ],
     "published" : [ "2021-05-04T16:56:00+0100" ],
     "category" : [ "music", "tiktok" ],

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/ExpanseNContext/status/1315087896320278529"
     ],
     "name": [
       "Like of @ExpanseNContext's tweet"

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/sil/status/1290758439036227584"
     ],
     "name": [
       "Like of @sil's tweet"

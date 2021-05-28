@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DoSomeMolly/status/1364744996239200258" ],
     "name" : [ "Like of @DoSomeMolly's tweet" ],
     "published" : [ "2021-02-25T08:08:00+0000" ],
     "category" : [ "memes" ],

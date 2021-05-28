@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shelbyspees/status/1382723793773219842" ],
     "name" : [ "Like of @shelbyspees's tweet" ],
     "published" : [ "2021-04-15T17:40:00+0100" ],
     "category" : [ "git", "mac" ],

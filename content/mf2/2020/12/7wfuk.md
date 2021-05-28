@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nehasardana09/status/1338586921417777152" ],
     "name" : [ "Like of @nehasardana09's tweet" ],
     "published" : [ "2020-12-15T10:05:00+0000" ],
     "category" : [ "intellij" ],

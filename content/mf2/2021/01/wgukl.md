@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/carolstran/status/1350843469175148546" ],
     "name" : [ "Like of @carolstran's tweet" ],
     "published" : [ "2021-01-17T18:18:00+0000" ],
     "like-of" : [ "https://twitter.com/carolstran/status/1350843469175148546" ]

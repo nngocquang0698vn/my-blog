@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElyKreimendahl/status/1350269909629083648" ],
     "name" : [ "Like of @ElyKreimendahl's tweet" ],
     "published" : [ "2021-01-17T17:28:00+0000" ],
     "like-of" : [ "https://twitter.com/ElyKreimendahl/status/1350269909629083648" ]

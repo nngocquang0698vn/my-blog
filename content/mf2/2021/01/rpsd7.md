@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sonniesedge/status/1349806324628992000" ],
     "name" : [ "Like of @sonniesedge's tweet" ],
     "published" : [ "2021-01-14T21:31:00+0000" ],
     "like-of" : [ "https://twitter.com/sonniesedge/status/1349806324628992000" ]

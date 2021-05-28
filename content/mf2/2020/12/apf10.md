@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DannyDeraney/status/1337820130231820289" ],
     "name" : [ "Like of @DannyDeraney's tweet" ],
     "published" : [ "2020-12-14T11:28:00+0000" ],
     "category" : [ "cute", "tiktok" ],

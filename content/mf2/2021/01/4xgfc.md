@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cloudy_girI/status/1348517999477665792" ],
     "name" : [ "Like of @cloudy_girI's tweet" ],
     "published" : [ "2021-01-12T22:42:00+0000" ],
     "like-of" : [ "https://twitter.com/cloudy_girI/status/1348517999477665792" ]

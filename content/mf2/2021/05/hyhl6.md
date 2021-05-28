@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mxbck/status/1394192495811207170" ],
     "name" : [ "Like of @mxbck's tweet" ],
     "published" : [ "2021-05-17T22:14:00+0100" ],
     "category" : [ "indieweb", "social-media", "feed" ],

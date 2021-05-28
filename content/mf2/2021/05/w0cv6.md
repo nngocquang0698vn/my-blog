@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zkat__/status/1395433666805788675" ],
     "name" : [ "Like of @zkat__'s tweet" ],
     "published" : [ "2021-05-20T20:17:00+0100" ],
     "category" : [ "remote-work" ],

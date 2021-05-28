@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1396225540860821504" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2021-05-23T14:55:00+0100" ],
     "category" : [ "uk" ],

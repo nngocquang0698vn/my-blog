@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thekitze/status/1392156908140834817" ],
     "name" : [ "Like of @thekitze's tweet" ],
     "published" : [ "2021-05-12T19:26:00+0100" ],
     "like-of" : [ "https://twitter.com/thekitze/status/1392156908140834817" ],

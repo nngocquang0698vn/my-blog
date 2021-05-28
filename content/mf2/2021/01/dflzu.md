@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sytses/status/1352352807932764160" ],
     "name" : [ "Like of @sytses's tweet" ],
     "published" : [ "2021-01-21T23:28:00+0000" ],
     "category" : [ "github", "gitlab" ],

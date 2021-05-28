@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rwozzen/status/1350494995103543304" ],
     "name" : [ "Like of @rwozzen's tweet" ],
     "published" : [ "2021-01-16T20:42:00+0000" ],
     "category" : [ "politics" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kaktyc444/status/1394694709805731843" ],
     "name" : [ "Like of @kaktyc444's tweet" ],
     "published" : [ "2021-05-20T15:07:00+0100" ],
     "category" : [ "social-media" ],

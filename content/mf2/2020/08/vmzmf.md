@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/AnimalsWorId/status/1298053626745614336"
     ],
     "name": [
       "Like of @AnimalsWorId's tweet"

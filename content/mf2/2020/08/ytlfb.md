@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/monicalent/status/1299054522074005504"
     ],
     "name": [
       "Like of @monicalent's tweet"

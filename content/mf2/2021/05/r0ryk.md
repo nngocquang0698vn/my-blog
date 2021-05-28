@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rellortnocon/status/1394294007698796549" ],
     "name" : [ "Like of @rellortnocon's tweet" ],
     "published" : [ "2021-05-17T22:18:00+0100" ],
     "like-of" : [ "https://twitter.com/rellortnocon/status/1394294007698796549" ],

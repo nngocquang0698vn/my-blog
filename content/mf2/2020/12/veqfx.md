@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stephenaugustus/status/1337944970649538561" ],
     "name" : [ "Like of @stephenaugustus's tweet" ],
     "published" : [ "2020-12-13T17:32:00+0000" ],
     "category" : [ "food" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeremeyf/status/1392656637161136133" ],
     "name" : [ "Like of @jeremeyf's tweet" ],
     "published" : [ "2021-05-13T12:16:00+0100" ],
     "like-of" : [ "https://twitter.com/jeremeyf/status/1392656637161136133" ],

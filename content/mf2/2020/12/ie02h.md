@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlejoP_47/status/1338043166830845952" ],
     "name" : [ "Like of @AlejoP_47's tweet" ],
     "published" : [ "2020-12-13T21:38:00+0000" ],
     "like-of" : [ "https://twitter.com/AlejoP_47/status/1338043166830845952" ]

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oco_photo/status/1390125081137930244" ],
     "name" : [ "Like of @oco_photo's tweet" ],
     "published" : [ "2021-05-06T22:33:00+0100" ],
     "category" : [ "nature" ],

@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MicaSophieBell/status/1352311823123492864" ],
     "name" : [ "Like of @MicaSophieBell's tweet" ],
     "published" : [ "2021-01-21T18:12:00+0000" ],
     "category" : [ "remote-work" ],

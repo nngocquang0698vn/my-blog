@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yelyahwilliams/status/1366091179905978371" ],
     "name" : [ "Like of @yelyahwilliams's tweet" ],
     "published" : [ "2021-03-01T14:30:00+0000" ],
     "category" : [ "music" ],

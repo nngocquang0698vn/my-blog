@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/kelseyhightower/status/1316575182748749824"
     ],
     "name": [
       "Like of @kelseyhightower's tweet"

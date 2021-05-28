@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevieBuckley/status/1338181959156117509" ],
     "name" : [ "Like of @StevieBuckley's tweet" ],
     "published" : [ "2020-12-16T18:36:00+0000" ],
     "category" : [ "social-media" ],

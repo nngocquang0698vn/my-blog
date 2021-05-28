@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/_unlobito/status/1281270355362025472"
     ],
     "name": [
       "Like of @_unlobito's tweet"

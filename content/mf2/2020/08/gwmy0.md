@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/captainsafia/status/1291217362843181057"
     ],
     "name": [
       "Like of @captainsafia's tweet"

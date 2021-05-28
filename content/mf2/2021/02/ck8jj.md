@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DanPriceSeattle/status/1358595110007697410" ],
     "name" : [ "Like of @DanPriceSeattle's tweet" ],
     "published" : [ "2021-02-08T10:44:00+0000" ],
     "category" : [ "ethics" ],

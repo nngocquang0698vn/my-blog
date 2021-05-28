@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JillWohlner/status/1386767595374850061" ],
     "name" : [ "Like of @JillWohlner's tweet" ],
     "published" : [ "2021-04-26T22:36:00+0100" ],
     "category" : [ "politics" ],

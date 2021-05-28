@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fatih/status/1350091627096907776" ],
     "name" : [ "Like of @fatih's tweet" ],
     "published" : [ "2021-01-15T20:40:00+0000" ],
     "category" : [ "battlestations" ],

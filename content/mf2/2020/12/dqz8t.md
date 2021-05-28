@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StrawberrEclair/status/1338264067912437760" ],
     "name" : [ "Like of @StrawberrEclair's tweet" ],
     "published" : [ "2020-12-14T09:54:00+0000" ],
     "category" : [ "github" ],

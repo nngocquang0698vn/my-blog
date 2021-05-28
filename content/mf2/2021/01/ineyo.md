@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cassiecodes/status/1350746441715765249" ],
     "name" : [ "Like of @cassiecodes's tweet" ],
     "published" : [ "2021-01-17T17:28:00+0000" ],
     "like-of" : [ "https://twitter.com/cassiecodes/status/1350746441715765249" ]

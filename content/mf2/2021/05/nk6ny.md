@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/antifatwa/status/1392571031752118273" ],
     "name" : [ "Like of @antifatwa's tweet" ],
     "published" : [ "2021-05-13T21:54:00+0100" ],
     "category" : [ "tiktok" ],

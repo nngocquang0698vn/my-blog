@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/malwaaare/status/1345467097959325702" ],
     "name" : [ "Like of @malwaaare's tweet" ],
     "published" : [ "2021-01-03T13:10:00+0000" ],
     "category" : [ "cute" ],

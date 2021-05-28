@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/marcusbarnett_/status/1289183610185031686"
     ],
     "name": [
       "Like of @marcusbarnett_'s tweet"

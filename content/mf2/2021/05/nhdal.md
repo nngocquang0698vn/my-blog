@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dinoman_j/status/1394179492470562816" ],
     "name" : [ "Like of @dinoman_j's tweet" ],
     "published" : [ "2021-05-17T10:23:00+0100" ],
     "category" : [ "politics" ],

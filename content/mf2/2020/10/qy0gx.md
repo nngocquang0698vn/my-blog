@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/PaulaLKennedy/status/1317097881346723840"
     ],
     "name": [
       "Like of @PaulaLKennedy's tweet"

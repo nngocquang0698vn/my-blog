@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FreyjaErlings/status/1392413588938104846" ],
     "name" : [ "Like of @FreyjaErlings's tweet" ],
     "published" : [ "2021-05-12T22:10:00+0100" ],
     "category" : [ "social-media", "facebook" ],

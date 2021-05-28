@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sonniesedge/status/1352660912012984321" ],
     "name" : [ "Like of @sonniesedge's tweet" ],
     "published" : [ "2021-01-22T18:36:00+0000" ],
     "category" : [ "webmention", "indieweb", "nodejs" ],

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1393282024010489856" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2021-05-14T21:17:00+0100" ],
     "category" : [ "shitpost", "code-review" ],

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/CarolSaysThings/status/1285605954822852608"
     ],
     "name": [
       "Like of @CarolSaysThings's tweet"

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shanselman/status/1397802535897890821" ],
     "name" : [ "Like of @shanselman's tweet" ],
     "published" : [ "2021-05-27T08:42:00+0100" ],
     "category" : [ "technical-leadership" ],

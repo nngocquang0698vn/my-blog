@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrsEmma/status/1337876831031222284" ],
     "name" : [ "Like of @MrsEmma's tweet" ],
     "published" : [ "2020-12-13T18:55:00+0000" ],
     "category" : [ "nature" ],

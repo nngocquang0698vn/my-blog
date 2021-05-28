@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/coherentstates/status/1304250312048418818"
     ],
     "name": [
       "Like of @coherentstates's tweet"

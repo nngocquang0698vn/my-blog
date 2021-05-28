@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/caraesten/status/1280973004780888064"
     ],
     "name": [
       "Like of @caraesten's tweet"

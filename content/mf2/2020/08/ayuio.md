@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/jemelehill/status/1299535144156499968"
     ],
     "name": [
       "Like of @jemelehill's tweet"

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/normabuster/status/1365364876240179210" ],
     "name" : [ "Like of @normabuster's tweet" ],
     "published" : [ "2021-02-27T18:26:00+0000" ],
     "like-of" : [ "https://twitter.com/normabuster/status/1365364876240179210" ],

@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/EmilyKager/status/1282719559900946438"
     ],
     "name": [
       "Like of @EmilyKager's tweet"

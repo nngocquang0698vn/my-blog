@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Haggis_UK/status/1349280342117593088" ],
     "name" : [ "Like of @Haggis_UK's tweet" ],
     "published" : [ "2021-01-13T19:18:00+0000" ],
     "category" : [ "politics" ],

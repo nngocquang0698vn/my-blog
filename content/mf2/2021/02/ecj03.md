@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edosartistry/status/1365709395573751817" ],
     "name" : [ "Like of @edosartistry's tweet" ],
     "published" : [ "2021-02-28T13:44:00+0000" ],
     "category" : [ "art" ],

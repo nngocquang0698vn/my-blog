@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/NoContextHumans/status/1311291103447052289"
     ],
     "name": [
       "Like of @NoContextHumans's tweet"

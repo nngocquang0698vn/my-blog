@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaredpalmer/status/1394708179305603074" ],
     "name" : [ "Like of @jaredpalmer's tweet" ],
     "published" : [ "2021-05-19T21:34:00+0100" ],
     "category" : [ "shitpost", "cute" ],

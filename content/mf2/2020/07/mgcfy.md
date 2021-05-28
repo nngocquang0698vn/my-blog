@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/JimMFelton/status/1283325798716448769"
     ],
     "name": [
       "Like of @JimMFelton's tweet"

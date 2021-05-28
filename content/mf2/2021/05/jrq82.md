@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevenPears/status/1397482130612101122" ],
     "name" : [ "Like of @StevenPears's tweet" ],
     "published" : [ "2021-05-26T11:09:00+0100" ],
     "like-of" : [ "https://twitter.com/StevenPears/status/1397482130612101122" ],

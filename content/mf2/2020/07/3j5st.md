@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/BrewDogJames/status/1280044952723034113"
     ],
     "name": [
       "Like of @BrewDogJames's tweet"

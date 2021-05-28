@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/marmaladegirl/status/1309966076244099072"
     ],
     "name": [
       "Like of @marmaladegirl's tweet"

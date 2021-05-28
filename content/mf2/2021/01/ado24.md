@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MisterABK/status/1349016255165050884" ],
     "name" : [ "Like of @MisterABK's tweet" ],
     "published" : [ "2021-01-13T17:54:00+0000" ],
     "category" : [ "politics" ],

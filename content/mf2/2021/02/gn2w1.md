@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/memetazaa/status/1365457667217625091" ],
     "name" : [ "Like of @memetazaa's tweet" ],
     "published" : [ "2021-02-27T17:27:00+0000" ],
     "like-of" : [ "https://twitter.com/memetazaa/status/1365457667217625091" ],

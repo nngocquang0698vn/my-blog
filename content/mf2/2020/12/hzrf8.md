@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimMFelton/status/1339148376290578434" ],
     "name" : [ "Like of @JimMFelton's tweet" ],
     "published" : [ "2020-12-16T14:50:00+0000" ],
     "category" : [ "politics" ],

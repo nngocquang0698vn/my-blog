@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScribblingOn/status/1386032262693761033" ],
     "name" : [ "Like of @ScribblingOn's tweet" ],
     "published" : [ "2021-04-24T20:11:00+0100" ],
     "category" : [ "food" ],

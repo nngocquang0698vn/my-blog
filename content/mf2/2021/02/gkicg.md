@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/summerbrennan/status/1365402345841033217" ],
     "name" : [ "Like of @summerbrennan's tweet" ],
     "published" : [ "2021-02-27T10:57:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],

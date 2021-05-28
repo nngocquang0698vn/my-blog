@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ByDonkeys/status/1350114499060183040" ],
     "name" : [ "Like of @ByDonkeys's tweet" ],
     "published" : [ "2021-01-15T20:46:00+0000" ],
     "category" : [ "politics", "coronavirus" ],

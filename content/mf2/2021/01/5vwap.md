@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BootstrapCook/status/1350062996601643008" ],
     "name" : [ "Like of @BootstrapCook's tweet" ],
     "published" : [ "2021-01-15T14:52:00+0000" ],
     "category" : [ "politics" ],

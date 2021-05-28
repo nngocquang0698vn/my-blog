@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Twotafkap/status/1351222837747527687" ],
     "name" : [ "Like of @Twotafkap's tweet" ],
     "published" : [ "2021-01-19T15:30:00+0000" ],
     "category" : [ "social-media" ],

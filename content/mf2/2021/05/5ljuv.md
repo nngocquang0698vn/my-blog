@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ofcAnthony/status/1398037141901516805" ],
     "name" : [ "Like of @ofcAnthony's tweet" ],
     "published" : [ "2021-05-28T13:12:00+0100" ],
     "category" : [ "cryptocurrency" ],

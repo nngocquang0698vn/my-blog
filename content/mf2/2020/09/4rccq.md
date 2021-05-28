@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/deadeyebrakeman/status/1301196903229480960"
     ],
     "name": [
       "Like of @deadeyebrakeman's tweet"

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/madebyjenni/status/1364907667756580871" ],
     "name" : [ "Like of @madebyjenni's tweet" ],
     "published" : [ "2021-02-25T13:55:00+0000" ],
     "category" : [ "coronavirus", "politics" ],

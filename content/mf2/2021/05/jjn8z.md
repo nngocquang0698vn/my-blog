@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/norootcause/status/1394314808648814592" ],
     "name" : [ "Like of @norootcause's tweet" ],
     "published" : [ "2021-05-18T21:05:00+0100" ],
     "category" : [ "bash", "shell" ],

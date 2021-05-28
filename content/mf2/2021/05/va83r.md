@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chimeracoder/status/1396518945327304707" ],
     "name" : [ "Like of @chimeracoder's tweet" ],
     "published" : [ "2021-05-23T22:12:00+0100" ],
     "like-of" : [ "https://twitter.com/chimeracoder/status/1396518945327304707" ],

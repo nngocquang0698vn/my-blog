@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pleasuresystems/status/1350289747038625797" ],
     "name" : [ "Like of @pleasuresystems's tweet" ],
     "published" : [ "2021-01-16T17:10:00+0000" ],
     "like-of" : [ "https://twitter.com/pleasuresystems/status/1350289747038625797" ]

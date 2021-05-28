@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/lottelydia/status/1302519847897751553"
     ],
     "name": [
       "Like of @lottelydia's tweet"

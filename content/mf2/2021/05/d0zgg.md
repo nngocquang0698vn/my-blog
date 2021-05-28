@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/limitlessjest/status/1392501005556752388" ],
     "name" : [ "Like of @limitlessjest's tweet" ],
     "published" : [ "2021-05-13T11:03:00+0100" ],
     "category" : [ "shitpost" ],

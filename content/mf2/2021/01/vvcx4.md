@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jaimi_Shrive/status/1347648785753776128" ],
     "name" : [ "Like of @Jaimi_Shrive's tweet" ],
     "published" : [ "2021-01-15T10:44:00+0000" ],
     "category" : [ "cute" ],

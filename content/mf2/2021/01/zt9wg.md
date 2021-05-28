@@ -3,7 +3,7 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BenMcGowan_/status/1348985374333349888" ],
     "name" : [ "Like of @BenMcGowan_'s tweet" ],
     "published" : [ "2021-01-12T22:12:00+0000" ],
     "category" : [ "politics", "satire" ],

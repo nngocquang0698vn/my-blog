@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/PFNotts/status/1299014680246128641"
     ],
     "name": [
       "Like of @PFNotts's tweet"

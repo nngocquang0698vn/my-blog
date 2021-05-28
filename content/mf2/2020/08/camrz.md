@@ -4,7 +4,7 @@
   "h": "h-entry",
   "properties": {
     "syndication": [
-      "https://brid.gy/publish/twitter"
+      "https://twitter.com/MntJulepMolotov/status/1291842157083602944"
     ],
     "name": [
       "Like of @MntJulepMolotov's tweet"

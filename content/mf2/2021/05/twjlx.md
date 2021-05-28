@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ComicsByXan/status/1397772100950138889" ],
     "name" : [ "Like of @ComicsByXan's tweet" ],
     "published" : [ "2021-05-27T11:40:00+0100" ],
     "like-of" : [ "https://twitter.com/ComicsByXan/status/1397772100950138889" ],
