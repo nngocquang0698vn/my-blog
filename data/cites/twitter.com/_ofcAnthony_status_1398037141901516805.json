@@ -1,0 +1,48 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398037141901516805" ],
+    "url" : [ "https://twitter.com/ofcAnthony/status/1398037141901516805" ],
+    "published" : [ "2021-05-27T22:03:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ofcAnthony" ],
+        "numeric-id" : [ "411874548" ],
+        "name" : [ "Dr Anthony, Eng, of course 💉" ],
+        "nickname" : [ "ofcAnthony" ],
+        "url" : [ "https://twitter.com/ofcAnthony" ],
+        "published" : [ "2011-11-14T00:25:18+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/962080615922372608/g24Ulrx3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "First they wasted our energy\n\nThen they wasted our storage\n\nNow they want to waste our net connections\n\nIf you're still defending cryptocurrency, you're either immoral, or a moron",
+      "html" : "<div style=\"white-space: pre\">First they wasted our energy\n\nThen they wasted our storage\n\nNow they want to waste our net connections\n\nIf you're still defending cryptocurrency, you're either immoral, or a moron</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1397980438971355136" ],
+      "url" : [ "https://twitter.com/networkservice/status/1397980438971355136" ],
+      "published" : [ "2021-05-27T18:18:04+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:networkservice" ],
+          "numeric-id" : [ "36304426" ],
+          "name" : [ "Aaron A. Glenn" ],
+          "nickname" : [ "networkservice" ],
+          "url" : [ "https://twitter.com/networkservice", "http://predictedpaths.com" ],
+          "published" : [ "2009-04-29T06:27:43+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/791061523145887744/Z3ANPT8V.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "well, they finally did it.\n\npkt.cash\n\n🤮",
+        "html" : "<div style=\"white-space: pre\">well, they finally did it.\n\n<a href=\"http://pkt.cash\">pkt.cash</a>\n\n🤮</div>"
+      } ]
+    }
+  } ]
+}
