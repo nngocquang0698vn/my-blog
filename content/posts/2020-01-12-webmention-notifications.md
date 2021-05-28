@@ -1,18 +1,19 @@
 ---
 title: "Converting Webmentions to Push Notifications"
-description: "Automagically sending push notifications to my mobile phone when I receive a Webmention."
-tags:
-- www.jvt.me
-- webmention
-- indieweb
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2020-01-12T18:21:43+0000
-slug: "webmention-notifications"
+description: "Automagically sending push notifications to my mobile phone when I receive\
+  \ a Webmention."
+date: "2020-01-12T18:21:43+0000"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
-image: /img/vendor/webmention-logo.png
+- "https://news.indieweb.org/en/www.jvt.me/posts/2020/01/12/webmention-notifications/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "www.jvt.me"
+- "webmention"
+- "indieweb"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "/img/vendor/webmention-logo.png"
+slug: "webmention-notifications"
 ---
 Since I set up Webmentions in January 2018 using [Webmention.io](https://webmention.io), I've been starting to receive more interactions with my site across the social web.
 
