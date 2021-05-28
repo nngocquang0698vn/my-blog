@@ -1,0 +1,29 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398201520861028353" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1398201520861028353" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1398201435200819200/pu/vid/540x960/Zx0SopIWCtyui-KC.mp4?tag=12" ],
+    "published" : [ "2021-05-28T08:56:34+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1398201115423002629" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394003200592723972/bIQpmLei.jpg" ]
+      }
+    } ],
+    "content" : [ "Defo 1 🤣" ]
+  }
+}
