@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/bitandbang/status/1392045330028503040" ],
-    "syndication" : [ "https://brid.gy/publish/github", "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/bitandbang/status/1392045330028503040" ],
     "published" : [ "2021-05-11T10:14:00+0100" ],
     "category" : [ "ethics" ],

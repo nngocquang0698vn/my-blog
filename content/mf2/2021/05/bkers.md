@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-19T14:13:00+0100" ],
     "repost-of" : [ "https://twitter.com/IanColdwater/status/1394889747403661314" ],
     "post-status" : [ "published" ],

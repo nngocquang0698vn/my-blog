@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Jamie standing in the doorway of his house, with keys in hand, pretending to be opening it for the first time",
       "photo" : "https://media.jvt.me/eaa37ae7fe.jpeg"

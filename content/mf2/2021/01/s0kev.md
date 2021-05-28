@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/oluoluoxenfree/status/1349807084280410119" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/oluoluoxenfree/status/1349807084280410119" ],
     "published" : [ "2021-01-15T10:48:00+0000" ],
     "content" : [ {

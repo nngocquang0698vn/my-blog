@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-01-18T09:05:11.88Z" ],
     "category" : [ "new-house" ],
     "content" : [ {

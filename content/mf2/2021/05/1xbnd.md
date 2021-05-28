@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-12T22:21:00+0100" ],
     "category" : [ "cryptocurrency" ],
     "repost-of" : [ "https://twitter.com/Grey_IsTrue/status/1392153658335195138" ],

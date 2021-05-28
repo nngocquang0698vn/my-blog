@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-01-19T18:08:06.603Z" ],
     "category" : [ "homebrew-website-club" ],
     "content" : [ {

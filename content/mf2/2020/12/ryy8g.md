@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Jamie and Anna toasting to the new house with two Champagne flutes, in front of a bag of KFC, with Black Panther on the TV behind, next to boxes of yet-to-be-unpacked belongings",
       "photo" : "https://media.jvt.me/3fd7be3d55.jpeg"

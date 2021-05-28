@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Jamie standing in the street, with his new bright purple Project Function hoodie on, smiling",
       "photo" : "https://media.jvt.me/fcd5fc609e.jpeg"

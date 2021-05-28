@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "A thick bar of Tony's Chocolonely chocolate, with a note from Gousto to say it's a \"little gift to say thank you for always sticking by us\"",
       "photo" : "https://media.jvt.me/1dc4266dd2.jpeg"

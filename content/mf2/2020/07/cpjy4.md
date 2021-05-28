@@ -3,9 +3,6 @@
   "deleted": false,
   "h": "h-entry",
   "properties": {
-    "syndication": [
-      "https://brid.gy/publish/twitter"
-    ],
     "published": [
       "2020-07-10T16:49:00+01:00"
     ],

@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/PermittedSoc/status/1394291673509806080" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/PermittedSoc/status/1394291673509806080" ],
     "published" : [ "2021-05-19T23:09:00+0100" ],
     "category" : [ "openapi" ],

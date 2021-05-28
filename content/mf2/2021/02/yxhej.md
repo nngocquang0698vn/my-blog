@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-02-27T19:09:00+0000" ],
     "repost-of" : [ "https://twitter.com/dddeastmidlands/status/1365738986984071175" ],
     "category" : [ "dddem" ],

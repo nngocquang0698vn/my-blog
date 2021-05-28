@@ -10,8 +10,6 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-05T18:22:16+0000
 slug: "jvtme-tweets"
-syndication:
-- https://brid.gy/publish/twitter
 ---
 You may have noticed that for the last few months, [my tweets](https://twitter.com/JamieTanna) have ended with `(jvt.me/mf2/...)`:
 

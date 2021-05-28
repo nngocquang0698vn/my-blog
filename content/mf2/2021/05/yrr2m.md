@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/spearsarah/status/1392951779223089156" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/spearsarah/status/1392951779223089156" ],
     "published" : [ "2021-05-13T22:32:00+0100" ],
     "post-status" : [ "published" ],

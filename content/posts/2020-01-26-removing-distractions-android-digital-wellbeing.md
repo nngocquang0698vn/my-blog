@@ -12,8 +12,6 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-26T12:45:36+0000
 slug: "removing-distractions-android-digital-wellbeing"
-syndication:
-- https://brid.gy/publish/twitter
 ---
 I would say I have somewhat of a social media addiction. Or at least, I find it easier to be looking at my phone than not.
 

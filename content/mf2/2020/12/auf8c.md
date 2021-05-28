@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/darylcecile/status/1339305853195870208" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/darylcecile/status/1339305853195870208" ],
     "published" : [ "2020-12-16T20:27:00+0000" ],
     "content" : [ {

@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Weeknotes: Vaccinated – Part 1 – Terence Eden’s Blog" ],
     "published" : [ "2021-04-09T18:46:00+0100" ],
     "category" : [ "coronavirus" ],

@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Selfie of Anna and Jamie, standing outside in the sunny Arboretum, with people socially distanced at tables and deckchairs",
       "photo" : "https://media.jvt.me/bfbfc435bf.jpeg"

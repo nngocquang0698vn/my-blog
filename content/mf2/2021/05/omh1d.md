@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/maxandersen/status/1393920075187597312" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/maxandersen/status/1393920075187597312" ],
     "published" : [ "2021-05-16T16:21:00+0100" ],
     "category" : [ "git-lab" ],

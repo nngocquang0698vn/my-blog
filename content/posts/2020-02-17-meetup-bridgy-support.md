@@ -12,7 +12,6 @@ slug: "meetup-bridgy-support"
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
-- https://brid.gy/publish/twitter
 - https://lobste.rs
 - https://news.ycombinator.com
 image: https://media.jvt.me/lmgf1.png

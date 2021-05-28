@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://shkspr.mobi/blog/2020/12/weeknotes-ive-hit-the-wall/" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://shkspr.mobi/blog/2020/12/weeknotes-ive-hit-the-wall/" ],
     "published" : [ "2020-12-06T12:59:00+0000" ],
     "content" : [ {

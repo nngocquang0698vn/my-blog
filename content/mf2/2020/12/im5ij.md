@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/techgirl1908/status/1337479653926252546" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/techgirl1908/status/1337479653926252546" ],
     "published" : [ "2020-12-14T11:23:00+0000" ],
     "content" : [ {

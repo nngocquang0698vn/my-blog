@@ -8,7 +8,6 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-05T20:36:26+0000
 slug: "netlify-billing-request-bandwidth-allowance"
 syndication:
-- https://brid.gy/publish/twitter
 - https://lobste.rs
 - https://community.netlify.com/t/netlify-billing-request-extra-bandwidth-allowances/6963
 image: /img/vendor/netlify-full-logo-white.png

@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://www.linkedin.com/feed/update/urn:li:activity:6802891421616525312/", "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://www.linkedin.com/feed/update/urn:li:activity:6802891421616525312/" ],
     "published" : [ "2021-05-25T09:43:24.253Z" ],
     "category" : [ "microformats2" ],
     "content" : [ {

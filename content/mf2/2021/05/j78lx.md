@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-13T23:02:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/Dixie3Flatline/status/1392920232172290049" ],

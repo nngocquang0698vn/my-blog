@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kevinpaxton82/status/1393278487939670023" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/kevinpaxton82/status/1393278487939670023" ],
     "published" : [ "2021-05-14T21:14:00+0100" ],
     "post-status" : [ "published" ],

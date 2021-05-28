@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Black cat peering out from a cupboard, behind various types of cereal and biscuits, little eyes glinting in the darkness",
       "photo" : "https://media.jvt.me/5c8d57595f.jpeg"

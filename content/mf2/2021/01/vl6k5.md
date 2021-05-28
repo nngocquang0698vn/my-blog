@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/paulwalk/status/1350444139146575872" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/paulwalk/status/1350444139146575872" ],
     "published" : [ "2021-01-16T15:14:00+0000" ],
     "content" : [ {

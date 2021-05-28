@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/gregiv_es/status/1397149630383722497" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/gregiv_es/status/1397149630383722497" ],
     "published" : [ "2021-05-25T12:26:00+0100" ],
     "category" : [ "microsub" ],

@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2020-12-13T21:38:00+0000" ],
     "repost-of" : [ "https://twitter.com/AlejoP_47/status/1338043166830845952" ]
   },

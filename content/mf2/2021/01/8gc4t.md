@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-01-22T21:49:37.084Z" ],
     "category" : [ "aws" ],
     "content" : [ {

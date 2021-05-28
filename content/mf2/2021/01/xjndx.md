@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website club - Anna, Carol, Jamie, and Steve",
       "photo" : "https://media.jvt.me/1adb5b3a9b.png"

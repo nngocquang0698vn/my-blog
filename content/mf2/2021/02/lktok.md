@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "read-status" : [ "finished" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "read-of" : [ {
       "type" : [ "h-cite" ],
       "properties" : {

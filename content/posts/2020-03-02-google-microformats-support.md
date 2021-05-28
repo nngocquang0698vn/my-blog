@@ -10,7 +10,6 @@ date: 2020-03-02T21:20:10+0000
 slug: "google-microformats-support"
 image: /img/vendor/microformats-logo.png
 syndication:
-- https://brid.gy/publish/twitter
 - https://indieweb.xyz/en/indieweb
 - https://indieweb.xyz/en/microformats
 ---

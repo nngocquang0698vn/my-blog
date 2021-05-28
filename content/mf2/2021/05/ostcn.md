@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Black cat sniffing at his water bowl, in which a blue toy mouse is drowning",
       "photo" : "https://media.jvt.me/1719768bab.jpeg"

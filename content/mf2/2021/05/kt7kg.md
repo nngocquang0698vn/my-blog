@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/purpleidea/status/1392952963061198857" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/purpleidea/status/1392952963061198857" ],
     "published" : [ "2021-05-13T22:35:00+0100" ],
     "category" : [ "git" ],

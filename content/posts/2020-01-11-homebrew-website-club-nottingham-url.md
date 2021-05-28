@@ -11,7 +11,6 @@ image: /img/vendor/hwc-80s-retro.jpg
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
-- https://brid.gy/publish/twitter
 ---
 <span class="h-card"><a class="u-url p-name" href="https://aaronparecki.com">Aaron Parecki</a></span> recently [announced the launch](https://aaronparecki.com/2019/12/21/4/indieweb-events) of a new space for events within the IndieWeb, [events.indieweb.org](https://events.indieweb.org). It's a new platform that will make discoverability of IndieWeb events much easier.
 

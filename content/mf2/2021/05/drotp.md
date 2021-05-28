@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website Club Nottingham on Zoom - Jamie, Carol, Will, Clark, and Anna",
       "photo" : "https://media.jvt.me/f75d532626.jpeg"

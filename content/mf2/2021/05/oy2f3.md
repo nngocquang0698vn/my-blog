@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/bitandbang/status/1391850185060503558" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/bitandbang/status/1391850185060503558" ],
     "published" : [ "2021-05-10T22:16:00+0100" ],
     "category" : [ "automation", "github" ],

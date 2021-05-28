@@ -8,8 +8,6 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-05T13:17:17+0000
 slug: "gitlab-contribution-graph-swag"
 image: https://media.jvt.me/wuzjg.jpeg
-syndication:
-- https://brid.gy/publish/twitter
 ---
 In May last year, GitLab was running a competition where they wanted to find out what folks' contribution graphs looked like, in terms of how they used the platform:
 

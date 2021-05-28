@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-17T11:41:00+0100" ],
     "category" : [ "open-api" ],
     "post-status" : [ "published" ],

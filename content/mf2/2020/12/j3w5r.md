@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2020-12-16T22:08:00+0000" ],
     "repost-of" : [ "https://twitter.com/yayalexisgay/status/1339245183771217920" ],
     "content" : [ {

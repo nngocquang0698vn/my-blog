@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2020-12-10T21:04:00+0000" ],
     "category" : [ "github" ],
     "content" : [ {

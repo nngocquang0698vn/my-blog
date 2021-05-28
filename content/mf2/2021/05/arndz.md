@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-14T19:41:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/williampietri/status/1393201902762954752" ],

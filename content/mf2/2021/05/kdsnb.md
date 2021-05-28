@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "published" : [ "2021-05-25T09:44:20.505Z" ],
     "category" : [ "homebrew-website-club" ],
     "content" : [ {

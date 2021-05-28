@@ -12,7 +12,6 @@ slug: "webmention-notifications"
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
-- https://brid.gy/publish/twitter
 image: /img/vendor/webmention-logo.png
 ---
 Since I set up Webmentions in January 2018 using [Webmention.io](https://webmention.io), I've been starting to receive more interactions with my site across the social web.

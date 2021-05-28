@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/bitandbang/status/1349046576581378051" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/bitandbang/status/1349046576581378051" ],
     "published" : [ "2021-01-12T22:42:00+0000" ],
     "content" : [ {

@@ -3,7 +3,6 @@
   "deleted" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "photo" : [ {
       "alt" : "Black cat lying on a red blanket, which is all wrapped around him, looking up at the camera a little sleepily",
       "photo" : "https://media.jvt.me/7810e2091d.jpeg"
