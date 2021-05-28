@@ -1,16 +1,18 @@
 ---
-title: "Moving Events for the Homebrew Website Club: Nottingham to the IndieWeb Events site"
-description: "Announcing my decision to move Homebrew Website Club: Nottingham events from my own site to events.indieweb.org."
-tags:
-- homebrew-website-club-nottingham
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2020-01-11T14:52:30+0000
-slug: "homebrew-website-club-nottingham-url"
-image: /img/vendor/hwc-80s-retro.jpg
+title: "Moving Events for the Homebrew Website Club: Nottingham to the IndieWeb Events\
+  \ site"
+description: "Announcing my decision to move Homebrew Website Club: Nottingham events\
+  \ from my own site to events.indieweb.org."
+date: "2020-01-11T14:52:30+0000"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
+- "https://news.indieweb.org/en/www.jvt.me/posts/2020/01/11/homebrew-website-club-nottingham-url/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "homebrew-website-club-nottingham"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "/img/vendor/hwc-80s-retro.jpg"
+slug: "homebrew-website-club-nottingham-url"
 ---
 <span class="h-card"><a class="u-url p-name" href="https://aaronparecki.com">Aaron Parecki</a></span> recently [announced the launch](https://aaronparecki.com/2019/12/21/4/indieweb-events) of a new space for events within the IndieWeb, [events.indieweb.org](https://events.indieweb.org). It's a new platform that will make discoverability of IndieWeb events much easier.
 
