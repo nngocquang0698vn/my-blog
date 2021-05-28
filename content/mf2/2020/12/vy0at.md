@@ -4,7 +4,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kevinmarks/status/1338812349956972550" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/kevinmarks/status/1338812349956972550" ],
     "published" : [ "2020-12-15T12:05:00+0000" ],
     "content" : [ {
