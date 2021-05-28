@@ -1,20 +1,21 @@
 ---
 title: "Announcing Meetup.com Support for Bridgy Publish"
-description: "Announcing the ability to RSVP to Meetup.com events from your website, using Bridgy."
-tags:
-- bridgy
-- indieweb
-- meetup.com
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2020-02-17T07:50:41+0000
-slug: "meetup-bridgy-support"
+description: "Announcing the ability to RSVP to Meetup.com events from your website,\
+  \ using Bridgy."
+date: "2020-02-17T07:50:41+0000"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
-- https://lobste.rs
-- https://news.ycombinator.com
-image: https://media.jvt.me/lmgf1.png
+- "https://news.indieweb.org/en/www.jvt.me/posts/2020/02/17/meetup-bridgy-support/"
+- "https://indieweb.xyz/en/indieweb"
+- "https://lobste.rs"
+- "https://news.ycombinator.com"
+tags:
+- "bridgy"
+- "indieweb"
+- "meetup.com"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/lmgf1.png"
+slug: "meetup-bridgy-support"
 ---
 As I was starting to get more involved in the [IndieWeb](https://indieweb.org/why), I started to [own my RSVPs to events I was attending](/kind/rsvps/), most of which are hosted on Meetup.com. This was partly to own the data itself and allow me to do things like [create my own attending calendar]({{< ref 2019-07-27-rsvp-calendar >}}), but also to make it easier for friends, colleagues, and family to see what I was attending.
 
