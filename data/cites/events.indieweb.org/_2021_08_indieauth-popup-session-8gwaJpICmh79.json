@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "IndieAuth Popup Session" ],
+    "category" : [ "popup", "pop-up", "indieauth", "indiewebcamp" ],
+    "url" : [ "https://events.indieweb.org/2021/08/indieauth-popup-session-8gwaJpICmh79" ],
+    "start" : [ "2021-08-28T18:00:00Z" ],
+    "end" : [ "2021-08-28T20:00:00Z" ],
+    "content" : [ {
+      "html" : "<p><a href=\"https://indieauth.net/\">IndieAuth</a> is the most implemented decentralized identity protocol, built on top of OAuth 2.0.</p>\n\n<p>It's been a year since the last IndieAuth protocol session.  This popup IndieWebCamp session will focus on discussions to iterate and evolve the IndieAuth protocol. We will update this event with more details as the event gets closer.</p>\n\n<h2>Who Should Attend?</h2>\n\n<p>Anyone interested in IndieAuth is welcome! Specifically if you've built any IndieAuth clients or servers, we want your input!</p>\n\n<h2>Suggested Reading</h2>\n\n<p>If you're not already familiar with the IndieAuth spec, please <a href=\"https://indieauth.spec.indieweb.org/\">give it a read</a>. We will be starting this session with the assumption that people are familiar with the basics of the IndieAuth protocol.</p>\n\n<p>Since IndieAuth is built on top of OAuth 2.0, it may be helpful to have some knowledge of <a href=\"https://oauth.net/2/\">OAuth 2.0</a> and its extensions, although this is not required reading.</p>",
+      "value" : "IndieAuth is the most implemented decentralized identity protocol, built on top of OAuth 2.0.\nIt's been a year since the last IndieAuth protocol session. This popup IndieWebCamp session will focus on discussions to iterate and evolve the IndieAuth protocol. We will update this event with more details as the event gets closer. Who Should Attend?\nAnyone interested in IndieAuth is welcome! Specifically if you've built any IndieAuth clients or servers, we want your input! Suggested Reading\nIf you're not already familiar with the IndieAuth spec, please give it a read. We will be starting this session with the assumption that people are familiar with the basics of the IndieAuth protocol.\nSince IndieAuth is built on top of OAuth 2.0, it may be helpful to have some knowledge of OAuth 2.0 and its extensions, although this is not required reading.",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en"
+}
