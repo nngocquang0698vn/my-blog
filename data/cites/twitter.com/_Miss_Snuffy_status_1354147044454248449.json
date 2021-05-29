@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1354147044454248449" ],
+    "url" : [ "https://twitter.com/Miss_Snuffy/status/1354147044454248449" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1354147004759289857/pu/vid/480x480/ze4BrsF0FTL5ptqJ.mp4?tag=10" ],
+    "published" : [ "2021-01-26T19:19:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Miss_Snuffy" ],
+        "numeric-id" : [ "211675022" ],
+        "name" : [ "Katharine Birbalsingh" ],
+        "nickname" : [ "Miss_Snuffy" ],
+        "url" : [ "https://twitter.com/Miss_Snuffy", "https://youtu.be/FjOsvqtoGAE" ],
+        "published" : [ "2010-11-03T22:53:45+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brent, London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1141803690959020032/iZCHVDY6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is so funny. 😂\n\nPosh boy gets the Oxford vaccine.",
+      "html" : "<div style=\"white-space: pre\">This is so funny. 😂\n\nPosh boy gets the Oxford vaccine.</div>"
+    } ]
+  }
+}
