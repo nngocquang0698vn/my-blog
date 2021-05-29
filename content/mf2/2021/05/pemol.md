@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1398589874404564995" ],
     "photo" : [ {
       "alt" : "Black cat (Morph) curled up on a red blanket with all his paws and his tail all curled up together",
       "photo" : "https://media.jvt.me/6384fc9c38.jpeg"
