@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Miss_Snuffy/status/1354147044454248449" ],
     "name" : [ "Like of @Miss_Snuffy's tweet" ],
     "published" : [ "2021-05-29T12:20:00+0100" ],
     "category" : [ "tiktok", "coronavirus" ],
