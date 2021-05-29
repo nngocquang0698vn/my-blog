@@ -66,3 +66,5 @@ It turns out the fix was to exclude _both_ packages:
 ```
 
 And then our tests run correctly!
+
+One caveat of this is I've not yet found a way of getting it working so I can use [logstash-logback-encoder](https://mvnrepository.com/artifact/net.logstash.logback/logstash-logback-encoder).
