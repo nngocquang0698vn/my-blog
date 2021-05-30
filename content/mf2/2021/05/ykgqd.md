@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/page_eco/status/1398648338136723466" ],
     "name" : [ "Like of @page_eco's tweet" ],
     "published" : [ "2021-05-30T10:53:00+0100" ],
     "category" : [ "tiktok" ],
