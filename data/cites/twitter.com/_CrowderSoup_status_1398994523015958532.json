@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398994523015958532" ],
+    "url" : [ "https://twitter.com/CrowderSoup/status/1398994523015958532" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E2o6GfWUYAAhtlY.mp4" ],
+    "published" : [ "2021-05-30T13:27:41+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/cherthedev/status/1398993949449244683" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CrowderSoup" ],
+        "numeric-id" : [ "127090765" ],
+        "name" : [ "#BLM 🏳️‍🌈 Aaron Crowder" ],
+        "nickname" : [ "CrowderSoup" ],
+        "url" : [ "https://twitter.com/CrowderSoup", "https://crowdersoup.com" ],
+        "published" : [ "2010-03-28T01:17:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Salt Lake City, Utah" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378699743845511168/GIouimKg.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This gif might help you remember that dudes suck and you rock 🙂",
+      "html" : "This gif might help you remember that dudes suck and you rock 🙂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cherthedev\"></a>"
+    } ]
+  }
+}
