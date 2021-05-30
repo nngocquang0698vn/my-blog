@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398648338136723466" ],
+    "url" : [ "https://twitter.com/page_eco/status/1398648338136723466" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1398648236458475520/pu/vid/362x360/swpclsjG9JwcrU19.mp4?tag=12" ],
+    "published" : [ "2021-05-29T14:32:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:page_eco" ],
+        "numeric-id" : [ "817270221236879360" ],
+        "name" : [ "Lionel Page" ],
+        "nickname" : [ "page_eco" ],
+        "url" : [ "https://twitter.com/page_eco", "https://sites.google.com/site/liopage/home" ],
+        "published" : [ "2017-01-06T07:22:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sydney" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/817273891928145920/a1P9FSnS.jpg" ]
+      }
+    } ],
+    "content" : [ "Excellent: The visual effect of this perspective on juggling." ]
+  }
+}
