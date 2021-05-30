@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398829644284104704" ],
+    "url" : [ "https://twitter.com/seldo/status/1398829644284104704" ],
+    "published" : [ "2021-05-30T02:32:30+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/addaleax/status/1398755237284941825" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "numeric-id" : [ "15453" ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364001393384718338/Vb4hjqrv.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Replace humanity with HUSTLE\nReplace joy with CAPITALISM",
+      "html" : "<div style=\"white-space: pre\">Replace humanity with HUSTLE\nReplace joy with CAPITALISM</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/addaleax\"></a>"
+    } ]
+  }
+}
