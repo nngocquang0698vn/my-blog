@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398896561162178564" ],
+    "url" : [ "https://twitter.com/mariofusco/status/1398896561162178564" ],
+    "published" : [ "2021-05-30T06:58:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mariofusco" ],
+        "numeric-id" : [ "142589904" ],
+        "name" : [ "Mario Fusco 🇪🇺" ],
+        "nickname" : [ "mariofusco" ],
+        "url" : [ "https://twitter.com/mariofusco", "https://github.com/mariofusco/" ],
+        "published" : [ "2010-05-11T07:34:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Milan, Italy" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1375532877081931776/po3EMZQp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "What #agile became vs. what it was (and should be)",
+      "html" : "What <a href=\"https://twitter.com/search?q=%23agile\">#agile</a> became vs. what it was (and should be)"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E2nhAiEWUAAkC0L.jpg" ]
+  }
+}
