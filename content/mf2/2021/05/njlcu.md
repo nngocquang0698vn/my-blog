@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CrowderSoup/status/1398994523015958532" ],
     "name" : [ "Like of @CrowderSoup's tweet" ],
     "published" : [ "2021-05-30T15:17:00+0100" ],
     "like-of" : [ "https://twitter.com/CrowderSoup/status/1398994523015958532" ],
