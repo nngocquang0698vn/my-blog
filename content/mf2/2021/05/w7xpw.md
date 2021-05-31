@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adamgreattweet/status/1398658791898419203" ],
     "name" : [ "Like of @adamgreattweet's tweet" ],
     "published" : [ "2021-05-31T15:05:00+0100" ],
     "category" : [ "coronavirus" ],
