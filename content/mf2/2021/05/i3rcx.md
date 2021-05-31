@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1399399483931308034" ],
     "photo" : [ {
       "alt" : "A lawnmower sitting on a portion of the freshly mown lawn, showing a very stark contrast between the freshly mown grass, and the very tall grass that has not yet been mown",
       "photo" : "https://media.jvt.me/446b211e03.jpeg"
