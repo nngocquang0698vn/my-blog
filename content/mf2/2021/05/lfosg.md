@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1399475994172563461" ],
     "published" : [ "2021-05-31T22:16:00+0100" ],
     "category" : [ "amazon", "alexa" ],
     "repost-of" : [ "https://twitter.com/ChrisShort/status/1399462452455260163" ],
