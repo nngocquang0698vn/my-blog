@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1398684271460720647" ],
+    "url" : [ "https://twitter.com/CammieHanako/status/1398684271460720647" ],
+    "published" : [ "2021-05-29T16:54:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/adamgreattweet/status/1398658791898419203" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CammieHanako" ],
+        "numeric-id" : [ "60669778" ],
+        "name" : [ "Bette Von Christabel" ],
+        "nickname" : [ "CammieHanako" ],
+        "url" : [ "https://twitter.com/CammieHanako", "http://favstar.fm/me" ],
+        "published" : [ "2009-07-27T18:25:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Italy/Turkey" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/785033568191938560/EP_Bm0dS.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Build-A-Bottom",
+      "html" : "Build-A-Bottom\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/UncleDuke1969\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/adamgreattweet\"></a>"
+    } ]
+  }
+}
