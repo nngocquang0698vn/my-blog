@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KatCodes/status/1399452751348830209" ],
     "name" : [ "Like of @KatCodes's tweet" ],
     "published" : [ "2021-06-01T07:35:00+0100" ],
     "category" : [ "git" ],
