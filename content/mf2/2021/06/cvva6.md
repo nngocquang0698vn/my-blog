@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FiloSottile/status/1399700873798893571" ],
     "name" : [ "Like of @FiloSottile's tweet" ],
     "published" : [ "2021-06-01T18:21:00+0100" ],
     "category" : [ "memes", "jwt" ],
