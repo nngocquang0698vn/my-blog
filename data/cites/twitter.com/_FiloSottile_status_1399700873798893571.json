@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1399700873798893571" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1399700873798893571" ],
+    "published" : [ "2021-06-01T12:14:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "name" : [ "Filippo Valsorda 💉💉🎉" ],
+        "nickname" : [ "FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E2y8hgzXEAIrKb5.jpg",
+      "alt" : "Man looks into car: “I’m a big fan of cryptography engineering”\nGirl at the wheel: “okay, name 10 cryptography vulnerabilities”\nMan: “JWT”\nGirl: “that’s on me, I set the bar too low”"
+    } ]
+  }
+}
