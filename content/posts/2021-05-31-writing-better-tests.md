@@ -5,6 +5,7 @@ tags:
 - software-quality
 - software-testing
 - quality-engineering
+- testing
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-05-31T22:04:24+0100
