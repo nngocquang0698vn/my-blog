@@ -27,7 +27,7 @@ Spring Boot by default uses more human-readable log messages, such as:
 
 Although this is straightforward for humans to read, as we're pretty good at doing pattern matching, it's difficult for machines.
 
-As you start adding other information into the mix, such as a tracking UUID and and the `x-forwarded-for` header, things get much more difficult to read:
+As you start adding other information into the mix, such as a tracking UUID and the `x-forwarded-for` header, things get much more difficult to read:
 
 ```
 2021-05-31 14:39:04.872  ERROR 1167226 --- [o-auto-1-exec-1] c.e.s.HelloController                    : c8633195-2ed1-45fa-ae3d-5afb3ce33c82 [10.x.y.z, 127.0.0.1] An unexpected error occured, cause: ...
