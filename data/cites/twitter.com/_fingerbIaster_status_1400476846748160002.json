@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400476846748160002" ],
+    "url" : [ "https://twitter.com/fingerbIaster/status/1400476846748160002" ],
+    "published" : [ "2021-06-03T15:37:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:fingerbIaster" ],
+        "numeric-id" : [ "1031553656192036864" ],
+        "name" : [ "j̴̢͘҉i̸̢͞z̛̛̀҉͞z̡͞w̶̵̢͜͞i̡͘t̸͝͝c̸͝h̀͏" ],
+        "nickname" : [ "fingerbIaster" ],
+        "url" : [ "https://twitter.com/fingerbIaster", "https://www.amazon.com/hz/wishlist/ls/2DFNFDJ09IOKG", "http://cash.me/jizzwitch" ],
+        "published" : [ "2018-08-20T14:48:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the forest, oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1391824319001415689/oE5wRxzX.jpg" ]
+      }
+    } ],
+    "content" : [ "men will literally turn mars into a fleshlight instead of going to therapy" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1399636835823886338" ],
+      "url" : [ "https://twitter.com/insta_science/status/1399636835823886338" ],
+      "published" : [ "2021-06-01T08:00:00+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:insta_science" ],
+          "numeric-id" : [ "1240970012011180034" ],
+          "name" : [ "Insta Science" ],
+          "nickname" : [ "insta_science" ],
+          "url" : [ "https://twitter.com/insta_science", "https://www.instagram.com/insta_science_official/" ],
+          "published" : [ "2020-03-20T11:55:02+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Earth" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1273288865873301507/B_UmpmKb.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "\"A hole drilled on Mars.\"\n\n-Credits: NASA-",
+        "html" : "<div style=\"white-space: pre\">\"A hole drilled on Mars.\"\n\n-Credits: NASA-</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E2x0BG3X0AAn8LF.jpg" ]
+    }
+  } ]
+}
