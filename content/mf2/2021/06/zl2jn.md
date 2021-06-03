@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/5tevieM/status/1400355235470757889" ],
     "name" : [ "Like of @5tevieM's tweet" ],
     "published" : [ "2021-06-03T11:04:00+0100" ],
     "category" : [ "coronavirus" ],
