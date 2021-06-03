@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400511441556459523" ],
+    "url" : [ "https://twitter.com/jlongster/status/1400511441556459523" ],
+    "published" : [ "2021-06-03T17:55:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jlongster" ],
+        "numeric-id" : [ "14615235" ],
+        "name" : [ "James Long" ],
+        "nickname" : [ "jlongster" ],
+        "url" : [ "https://twitter.com/jlongster", "http://jlongster.com" ],
+        "published" : [ "2008-05-01T15:14:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chattanooga, TN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1214648242404761600/OoYVL2Tp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "One of the biggest cultural shifts in my experience from Mozilla to Stripe is code review speed. At Mozilla you'd often wait days and have to hunt down people to review PRs.\n\nAt Stripe my PR is often reviewed within 10 minutes.\n\nThat makes a _huge_ difference for shipping fast",
+      "html" : "<div style=\"white-space: pre\">One of the biggest cultural shifts in my experience from Mozilla to Stripe is code review speed. At Mozilla you'd often wait days and have to hunt down people to review PRs.\n\nAt Stripe my PR is often reviewed within 10 minutes.\n\nThat makes a _huge_ difference for shipping fast</div>"
+    } ]
+  }
+}
