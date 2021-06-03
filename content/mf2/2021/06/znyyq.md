@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jlongster/status/1400511441556459523" ],
     "name" : [ "Like of @jlongster's tweet" ],
     "published" : [ "2021-06-03T22:42:00+0100" ],
     "category" : [ "code-review" ],
