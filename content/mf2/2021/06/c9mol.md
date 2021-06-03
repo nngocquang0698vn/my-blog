@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1400571510704775168" ],
     "published" : [ "2021-06-03T22:45:00+0100" ],
     "category" : [ "memes", "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/no_goblins/status/1400567213078155268" ],
