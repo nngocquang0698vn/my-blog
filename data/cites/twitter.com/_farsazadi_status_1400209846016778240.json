@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400209846016778240" ],
+    "url" : [ "https://twitter.com/farsazadi/status/1400209846016778240" ],
+    "published" : [ "2021-06-02T21:56:56+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/cal_gif/status/1400200919170564096" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:farsazadi" ],
+        "numeric-id" : [ "1336140952109387778" ],
+        "name" : [ "The Halal Leftist 🕋 🇦🇫 🇵🇸" ],
+        "nickname" : [ "farsazadi" ],
+        "url" : [ "https://twitter.com/farsazadi", "https://linktr.ee/farsazadi" ],
+        "published" : [ "2020-12-08T02:50:15+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395943052640804868/NQh8nFuI.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "hey that's me",
+      "html" : "hey that's me\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cal_gif\"></a>"
+    } ]
+  }
+}
