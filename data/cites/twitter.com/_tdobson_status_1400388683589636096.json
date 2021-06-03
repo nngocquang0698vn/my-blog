@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400388683589636096" ],
+    "url" : [ "https://twitter.com/tdobson/status/1400388683589636096" ],
+    "published" : [ "2021-06-03T09:47:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tdobson" ],
+        "numeric-id" : [ "14068788" ],
+        "name" : [ "Tim Dobson" ],
+        "nickname" : [ "tdobson" ],
+        "url" : [ "https://twitter.com/tdobson", "http://instagram.com/tdobsonnet" ],
+        "published" : [ "2008-03-02T14:27:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Somewhat Nomadic" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/864570989845258240/RnBCXvxX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thanks to the poor engineer at @cuvva for making my day 😂",
+      "html" : "Thanks to the poor engineer at <a href=\"https://twitter.com/cuvva\">@cuvva</a> for making my day 😂"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E28uFgJX0AApcrU.jpg" ]
+  }
+}
