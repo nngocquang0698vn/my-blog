@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1400476846748160002" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2021-06-03T17:13:00+0100" ],
     "category" : [ "shitpost", "therapy" ],
