@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400638180156526592" ],
+    "url" : [ "https://twitter.com/Kyleculus/status/1400638180156526592" ],
+    "published" : [ "2021-06-04T02:18:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Kyleculus" ],
+        "numeric-id" : [ "148400737" ],
+        "name" : [ "Kyle" ],
+        "nickname" : [ "Kyleculus" ],
+        "url" : [ "https://twitter.com/Kyleculus" ],
+        "published" : [ "2010-05-26T16:08:59+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1183219996626952196/SLhhKRUI.jpg" ]
+      }
+    } ],
+    "content" : [ "I was today years old when I learned that the \"Sun\" in Sun Microsystems was an acronym for Stanford University Network 🤯" ]
+  }
+}
