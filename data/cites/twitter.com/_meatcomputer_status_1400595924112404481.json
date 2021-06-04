@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400595924112404481" ],
+    "url" : [ "https://twitter.com/meatcomputer/status/1400595924112404481" ],
+    "published" : [ "2021-06-03T23:31:04+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:meatcomputer" ],
+        "numeric-id" : [ "19470633" ],
+        "name" : [ "i photograph to remember" ],
+        "nickname" : [ "meatcomputer" ],
+        "url" : [ "https://twitter.com/meatcomputer", "http://github.com/mkcp" ],
+        "published" : [ "2009-01-25T00:16:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA, Western Pact" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399231520980697088/x8NBCLwV.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E2_qkewVgAAJ2EL.jpg" ]
+  }
+}
