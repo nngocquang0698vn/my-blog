@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400828423975538690" ],
+    "url" : [ "https://twitter.com/vbhvsgr/status/1400828423975538690" ],
+    "published" : [ "2021-06-04T14:54:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:vbhvsgr" ],
+        "numeric-id" : [ "395720897" ],
+        "name" : [ "vaibhav sagar" ],
+        "nickname" : [ "vbhvsgr" ],
+        "url" : [ "https://twitter.com/vbhvsgr", "https://vaibhavsagar.com" ],
+        "published" : [ "2011-10-22T04:07:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "gadigal land/sydney" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380548483267010565/ix-xOoTH.jpg" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E3C9s41VoAAv8Ot.jpg",
+      "alt" : "brooklyn 99 set the bar too low meme\npanel 1: \"i'm a haskell expert\"\npanel 2: \"oh yeah? name five generally useful programs\"\npanel 3: \"\"\npanel 4: \"that's on me, i set the bar too high.\""
+    } ]
+  }
+}
