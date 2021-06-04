@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MechaMacGyver/status/1400369110567976963" ],
     "name" : [ "Like of @MechaMacGyver's tweet" ],
     "published" : [ "2021-06-04T07:46:00+0100" ],
     "category" : [ "memes", "star-trek" ],
