@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400587392059383811" ],
+    "url" : [ "https://twitter.com/amyis_trying/status/1400587392059383811" ],
+    "published" : [ "2021-06-03T22:57:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:amyis_trying" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "amyis_trying" ],
+        "url" : [ "https://twitter.com/amyis_trying", "https://amyistrying.carrd.co/", "http://venmo.com/amyistrying" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the suburb from Weeds " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400804601511690244/gPZzcEVj.jpg" ]
+      }
+    } ],
+    "content" : [ "so we’re just powering through hot drunk trainwreck summer without processing all the grief, I love this for us it’s like Hemingway going to the French Riviera after WWI" ]
+  }
+}
