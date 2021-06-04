@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1400291268849065990" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1400708920138665986" ],
     "name" : [ "Reply to https://twitter.com/QuinnyPig/status/1400291268849065990" ],
     "published" : [ "2021-06-04T07:50:00+0100" ],
     "post-status" : [ "published" ],
