@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amyis_trying/status/1400587392059383811" ],
     "name" : [ "Like of @amyis_trying's tweet" ],
     "published" : [ "2021-06-04T21:43:00+0100" ],
     "category" : [ "coronavirus" ],
