@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Kyleculus/status/1400638180156526592" ],
     "name" : [ "Like of @Kyleculus's tweet" ],
     "published" : [ "2021-06-04T16:35:00+0100" ],
     "like-of" : [ "https://twitter.com/Kyleculus/status/1400638180156526592" ],
