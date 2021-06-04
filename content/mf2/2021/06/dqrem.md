@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/meatcomputer/status/1400595924112404481" ],
     "name" : [ "Like of @meatcomputer's tweet" ],
     "published" : [ "2021-06-04T14:54:00+0100" ],
     "category" : [ "memes" ],
