@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1396708027189895170" ],
+    "url" : [ "https://twitter.com/bagder/status/1396708027189895170" ],
+    "published" : [ "2021-05-24T06:01:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bagder" ],
+        "numeric-id" : [ "14893620" ],
+        "name" : [ "Daniel 🥌 Stenberg" ],
+        "nickname" : [ "bagder" ],
+        "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ],
+        "published" : [ "2008-05-24T20:46:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328813537146392579/_uAIoOxu.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The curl user survey 2021 daniel.haxx.se/blog/2021/05/2… - please consider donating some of your valuable time to help us improve!",
+      "html" : "The curl user survey 2021 <a href=\"https://daniel.haxx.se/blog/2021/05/24/the-curl-user-survey-2021/\">daniel.haxx.se/blog/2021/05/2…</a> - please consider donating some of your valuable time to help us improve!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E2Iah1oXEAALdpn.jpg" ]
+  }
+}
