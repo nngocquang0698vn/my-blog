@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karlitaliliana/status/1401193126719492099" ],
     "name" : [ "Like of @karlitaliliana's tweet" ],
     "published" : [ "2021-06-05T22:21:00+0100" ],
     "category" : [ "politics" ],
