@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1400507484054425614" ],
+    "url" : [ "https://twitter.com/gjtorikian/status/1400507484054425614" ],
+    "published" : [ "2021-06-03T17:39:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gjtorikian" ],
+        "numeric-id" : [ "121478730" ],
+        "name" : [ "Կարէն" ],
+        "nickname" : [ "gjtorikian" ],
+        "url" : [ "https://twitter.com/gjtorikian", "https://www.gjtorikian.com" ],
+        "published" : [ "2010-03-09T16:37:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lenapehoking" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1152892389331263488/qERmx4_u.png" ]
+      }
+    } ],
+    "content" : [ "lmao I bet you fucking are" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E2-aD8jXIAgzflA.png",
+      "alt" : "Email subject line that says \"Basecamp is hiring Rails Programmers,\" presumably because they lost a third of their staff over idiotic management decisions"
+    } ]
+  }
+}
