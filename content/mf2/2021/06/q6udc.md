@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laurieontech/status/1400998747589468162" ],
     "name" : [ "Like of @laurieontech's tweet" ],
     "published" : [ "2021-06-05T13:22:00+0100" ],
     "category" : [ "politics" ],
