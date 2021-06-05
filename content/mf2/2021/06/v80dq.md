@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gjtorikian/status/1400507484054425614" ],
     "name" : [ "Like of @gjtorikian's tweet" ],
     "published" : [ "2021-06-05T15:53:00+0100" ],
     "category" : [ "basecamp" ],
