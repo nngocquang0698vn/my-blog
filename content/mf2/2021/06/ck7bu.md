@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sigje/status/1401268238739120131" ],
     "name" : [ "Like of @sigje's tweet" ],
     "published" : [ "2021-06-06T12:02:00+0100" ],
     "category" : [ "remote-work" ],
