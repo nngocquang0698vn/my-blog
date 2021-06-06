@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401149515436945412" ],
+    "url" : [ "https://twitter.com/markdalgleish/status/1401149515436945412" ],
+    "published" : [ "2021-06-05T12:10:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:markdalgleish" ],
+        "numeric-id" : [ "257765996" ],
+        "name" : [ "🧁🍨 Mark Dalgleish" ],
+        "nickname" : [ "markdalgleish" ],
+        "url" : [ "https://twitter.com/markdalgleish" ],
+        "published" : [ "2011-02-26T03:41:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1.jpg" ]
+      }
+    } ],
+    "content" : [ "Another way to get involved with open source is to write blog posts and unofficial guides, make video tutorials, give talks, provide support. These are things the authors often don't have energy left for, and—unlike code contributions—don't require their time or approval." ]
+  }
+}
