@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Amy_K_Nelson/status/1401437940073463815" ],
     "name" : [ "Like of @Amy_K_Nelson's tweet" ],
     "published" : [ "2021-06-06T20:36:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
