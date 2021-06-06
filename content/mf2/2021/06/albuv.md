@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eevee/status/1401603272482254848" ],
     "name" : [ "Like of @eevee's tweet" ],
     "published" : [ "2021-06-06T20:20:00+0100" ],
     "category" : [ "remote-work", "diversity-and-inclusion" ],
