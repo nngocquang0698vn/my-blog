@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401437940073463815" ],
+    "url" : [ "https://twitter.com/Amy_K_Nelson/status/1401437940073463815" ],
+    "published" : [ "2021-06-06T07:16:57+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Amy_K_Nelson" ],
+        "numeric-id" : [ "911050758191063041" ],
+        "name" : [ "Amy Sterner Nelson" ],
+        "nickname" : [ "Amy_K_Nelson" ],
+        "url" : [ "https://twitter.com/Amy_K_Nelson", "https://bit.ly/39LVNs4" ],
+        "published" : [ "2017-09-22T02:13:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Hawaii, for now " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1188135110333190150/U5AbLJD0.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I try to imagine Gates, Bezos or Musk with these backgrounds meant to showcase men at “the height of their powers.” I somehow don’t think they’d go with florals.",
+      "html" : "I try to imagine Gates, Bezos or Musk with these backgrounds meant to showcase men at “the height of their powers.” I somehow don’t think they’d go with florals.\n<a class=\"tag\" href=\"https://twitter.com/forbes/status/1401316332151443459\">twitter.com/forbes/status/…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1401316332151443459" ],
+      "url" : [ "https://twitter.com/Forbes/status/1401316332151443459" ],
+      "published" : [ "2021-06-05T23:13:43+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Forbes" ],
+          "numeric-id" : [ "91478624" ],
+          "name" : [ "Forbes" ],
+          "nickname" : [ "Forbes" ],
+          "url" : [ "https://twitter.com/Forbes", "http://forbes.com" ],
+          "published" : [ "2009-11-21T02:09:57+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1106672424605630465/IC9ipKIt.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "How to represent distinguished women over 50 years of age at the height of their powers? Here's a look behind the photos of the #ForbesOver50: on.forbes.com/6017yJhhU",
+        "html" : "How to represent distinguished women over 50 years of age at the height of their powers? Here's a look behind the photos of the <a href=\"https://twitter.com/search?q=%23ForbesOver50\">#ForbesOver50</a>: <a href=\"http://on.forbes.com/6017yJhhU\">on.forbes.com/6017yJhhU</a>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E3J5xwcX0Acq97X.jpg" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/forbes/status/…" ],
+      "url" : [ "https://twitter.com/forbes/status/1401316332151443459" ]
+    }
+  } ]
+}
