@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401483243392843776" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1401483243392843776" ],
+    "published" : [ "2021-06-06T10:16:58+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/freezydorito/status/1401481465578373120" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "name" : [ "laura bananas" ],
+        "nickname" : [ "freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://laura.monster" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "moderna gang" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1375103350816047105/hCAn4lGB.jpg" ]
+      }
+    } ],
+    "content" : [ "fr tho i sincerely hope my colleagues that were all day on noise canceling headphones don’t ever have to come to an office again if they don’t wanna" ]
+  }
+}
