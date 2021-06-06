@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iamb/status/1401296053660311553" ],
     "name" : [ "Like of @iamb's tweet" ],
     "published" : [ "2021-06-06T10:53:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
