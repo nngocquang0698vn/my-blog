@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401603037974597635" ],
+    "url" : [ "https://twitter.com/eevee/status/1401603037974597635" ],
+    "published" : [ "2021-06-06T18:12:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ]
+      }
+    } ],
+    "content" : [ "if the linux kernel can be made via fucking mailing list then i'm pretty sure your startup can manage to make a website or whatever remotely" ]
+  }
+}
