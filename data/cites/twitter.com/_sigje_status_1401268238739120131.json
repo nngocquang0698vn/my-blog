@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401268238739120131" ],
+    "url" : [ "https://twitter.com/sigje/status/1401268238739120131" ],
+    "published" : [ "2021-06-05T20:02:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sigje" ],
+        "numeric-id" : [ "17527655" ],
+        "name" : [ "Jennifer Davis" ],
+        "nickname" : [ "sigje" ],
+        "url" : [ "https://twitter.com/sigje", "http://jennifer.dev", "http://pronoun.is/she?or=they" ],
+        "published" : [ "2008-11-21T00:59:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sparklelandia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292996986803646466/wTG0cz0x.jpg" ]
+      }
+    } ],
+    "content" : [ "I wish instead of \"remote work\" we started talking about distributed teams." ]
+  }
+}
