@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://www.meetup.com/Tech-Nottingham/events/278158835/" ],
-    "syndication" : [ "https://brid.gy/publish/meetup" ],
+    "syndication" : [ "https://www.meetup.com/Tech-Nottingham/events/278158835/#rsvp-by-https%3A%2F%2Fwww.jvt.me%2Fmf2%2F2021%2F06%2Fcaxj1%2F" ],
     "published" : [ "2021-06-07T20:45:00.642Z" ],
     "rsvp" : [ "yes" ]
   },
