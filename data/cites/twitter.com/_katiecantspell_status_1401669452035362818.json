@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401669452035362818" ],
+    "url" : [ "https://twitter.com/katiecantspell/status/1401669452035362818" ],
+    "published" : [ "2021-06-06T22:36:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:katiecantspell" ],
+        "numeric-id" : [ "755380678749921280" ],
+        "name" : [ "katie ✨" ],
+        "nickname" : [ "katiecantspell" ],
+        "url" : [ "https://twitter.com/katiecantspell", "https://youtube.com/channel/UC7clQARzuqEx8PSDlbGFmaQ" ],
+        "published" : [ "2016-07-19T12:36:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "21. she/her. new zealand :)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343657596876558336/nvt07jn9.jpg" ]
+      }
+    } ],
+    "content" : [ "microdosing hell by waking up every morning" ]
+  }
+}
