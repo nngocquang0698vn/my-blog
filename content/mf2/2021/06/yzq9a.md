@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/femkesvs/status/1401701969434136579" ],
     "name" : [ "Like of @femkesvs's tweet" ],
     "published" : [ "2021-06-07T07:16:00+0100" ],
     "category" : [ "food" ],
