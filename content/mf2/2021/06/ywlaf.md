@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/RobBos81/status/1401964264072613893" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1402015853256790016" ],
     "name" : [ "Reply to https://twitter.com/RobBos81/status/1401964264072613893" ],
     "published" : [ "2021-06-07T22:28:00+0100" ],
     "category" : [ "github" ],
