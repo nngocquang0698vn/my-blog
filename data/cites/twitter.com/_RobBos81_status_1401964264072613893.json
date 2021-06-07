@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1401964264072613893" ],
+    "url" : [ "https://twitter.com/RobBos81/status/1401964264072613893" ],
+    "published" : [ "2021-06-07T18:08:22+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/RobBos81/status/1401964021532839936" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RobBos81" ],
+        "numeric-id" : [ "105523791" ],
+        "name" : [ "Rob Bos" ],
+        "nickname" : [ "RobBos81" ],
+        "url" : [ "https://twitter.com/RobBos81", "https://devopsjournal.io" ],
+        "published" : [ "2010-01-16T16:20:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Den Bosch, NL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1221772520212312066/sqSisQBK.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Now, what do you want to do with it? Update all the repos created from a template? Maybe we can use something like github.com/rajbos/github-… for that?",
+      "html" : "Now, what do you want to do with it? Update all the repos created from a template? Maybe we can use something like <a href=\"https://github.com/rajbos/github-fork-updater\">github.com/rajbos/github-…</a> for that?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jna_sh\"></a>"
+    } ]
+  }
+}
