@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sonniesedge/status/1401817432398905344" ],
     "name" : [ "Like of @sonniesedge's tweet" ],
     "published" : [ "2021-06-07T14:59:00+0100" ],
     "category" : [ "the-guardian", "ethics" ],
