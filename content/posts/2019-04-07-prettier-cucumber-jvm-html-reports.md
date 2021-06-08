@@ -48,6 +48,6 @@ Now, running Cucumber will generate a pretty report, which we can then view loca
 
 This saved me having to write my own wrapper to handle this, so thanks for the work on it! Hopefully it'll make it upstream to `cucumber-reporting` soon.
 
-**Update**: The library is now deprecated, but I've forked it to [`me.jvt.cucumber:reporting-plugin`](gitlab.com/jamietanna/cucumber-reporting-plugin/), and am [seeking my fork becoming the official successor](https://gitlab.com/monochromata-de/cucumber-reporting-plugin/-/issues/49).
+**Update**: The library is now deprecated, but I've forked it to [`me.jvt.cucumber:reporting-plugin`](https://gitlab.com/jamietanna/cucumber-reporting-plugin/), and am [seeking my fork becoming the official successor](https://gitlab.com/monochromata-de/cucumber-reporting-plugin/-/issues/49).
 
 **Update 2020-01-26**: For a clear example of how to add the reporting plugin to your project, including adding the dependency, please see [this example Merge Request](https://gitlab.com/jamietanna/fat-cucumber-jar/merge_requests/1).
