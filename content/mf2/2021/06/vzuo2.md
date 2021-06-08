@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/MrTaoYang/status/1402237986478059522" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1402262014425243652" ],
     "name" : [ "Reply to https://twitter.com/MrTaoYang/status/1402237986478059522" ],
     "published" : [ "2021-06-08T14:46:00+0100" ],
     "category" : [ "terraform" ],
