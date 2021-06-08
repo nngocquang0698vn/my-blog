@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402184655290388488" ],
+    "url" : [ "https://twitter.com/fl1bbl3/status/1402184655290388488" ],
+    "published" : [ "2021-06-08T08:44:07+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ianmiell/status/1402178750003957765" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:fl1bbl3" ],
+        "numeric-id" : [ "18552230" ],
+        "name" : [ "Gary Smith" ],
+        "nickname" : [ "fl1bbl3" ],
+        "url" : [ "https://twitter.com/fl1bbl3" ],
+        "published" : [ "2009-01-02T13:53:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Scotland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1185149250/fl1bbl3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Maybe if he had been called YAML instead of JSON…",
+      "html" : "Maybe if he had been called YAML instead of JSON…\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ianmiell\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/raesene\"></a>"
+    } ]
+  }
+}
