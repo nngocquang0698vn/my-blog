@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402205432198930435" ],
+    "url" : [ "https://twitter.com/edent/status/1402205432198930435" ],
+    "published" : [ "2021-06-08T10:06:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:edent" ],
+        "numeric-id" : [ "14054507" ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Quickest way to see the root cause of an outage is to check the #hugops hashtag.",
+      "html" : "Quickest way to see the root cause of an outage is to check the <a href=\"https://twitter.com/search?q=%23hugops\">#hugops</a> hashtag."
+    } ]
+  }
+}
