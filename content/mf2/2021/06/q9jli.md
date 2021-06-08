@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1402083822460563462" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2021-06-08T08:57:00+0100" ],
     "category" : [ "shitpost", "politics" ],
