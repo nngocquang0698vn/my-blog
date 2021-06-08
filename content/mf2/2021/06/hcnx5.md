@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fl1bbl3/status/1402184655290388488" ],
     "name" : [ "Like of @fl1bbl3's tweet" ],
     "published" : [ "2021-06-08T11:00:00+0100" ],
     "category" : [ "kubernetes" ],
