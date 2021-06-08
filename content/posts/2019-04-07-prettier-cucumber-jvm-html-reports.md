@@ -1,17 +1,18 @@
 ---
 title: "Prettier HTML Reports for Cucumber-JVM"
-description: "How to generate prettier HTML reports for Cucumber with `cucumber-reporting` and `cucumber-reporting-plugin`, with and without Jenkins."
+description: "How to generate prettier HTML reports for Cucumber with `cucumber-reporting`\
+  \ and `cucumber-reporting-plugin`, with and without Jenkins."
+date: "2019-04-07T21:40:00+01:00"
 tags:
-- blogumentation
-- java
-- cucumber
-- testing
-- reporting
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2019-04-07T21:40:00+01:00
+- "blogumentation"
+- "java"
+- "cucumber"
+- "testing"
+- "reporting"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "/img/vendor/cucumber.png"
 slug: "prettier-cucumber-jvm-html-reports"
-image: /img/vendor/cucumber.png
 ---
 I work a fair bit with [Cucumber-JVM](https://docs.cucumber.io/installation/java/) in my professional life, which runs various acceptance / component tests for Java services. When sharing test results with stakeholders such as Product Owners, I need an easier format to share with them, so have used the built-in Cucumber `html` reporting:
 
@@ -47,6 +48,6 @@ Now, running Cucumber will generate a pretty report, which we can then view loca
 
 This saved me having to write my own wrapper to handle this, so thanks for the work on it! Hopefully it'll make it upstream to `cucumber-reporting` soon.
 
-**Update**: The library now also supports Cucumber v4 as per my Merge Request [_Upgrade plugin to work with Cucumber v4_](https://gitlab.com/monochromata-de/cucumber-reporting-plugin/merge_requests/1).
+**Update**: The library is now deprecated, but I've forked it to [`me.jvt.cucumber:reporting-plugin`](gitlab.com/jamietanna/cucumber-reporting-plugin/), and am [seeking my fork becoming the official successor](https://gitlab.com/monochromata-de/cucumber-reporting-plugin/-/issues/49).
 
 **Update 2020-01-26**: For a clear example of how to add the reporting plugin to your project, including adding the dependency, please see [this example Merge Request](https://gitlab.com/jamietanna/fat-cucumber-jar/merge_requests/1).
