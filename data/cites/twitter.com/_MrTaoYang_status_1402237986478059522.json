@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402237986478059522" ],
+    "url" : [ "https://twitter.com/MrTaoYang/status/1402237986478059522" ],
+    "published" : [ "2021-06-08T12:16:02+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/sheriffjackson/status/1402232944652062720" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrTaoYang" ],
+        "numeric-id" : [ "852663488" ],
+        "name" : [ "Tao Yang" ],
+        "nickname" : [ "MrTaoYang" ],
+        "url" : [ "https://twitter.com/MrTaoYang", "http://blog.tyang.org", "http://tyconsulting.com.au" ],
+        "published" : [ "2012-09-29T10:59:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/496622761121288192/Y2T1TAew.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "sure so it's not beta, it's public preview, or however you want to call it. but my point is still valid - customers have been using a preview version with breaking changes in production for many years.",
+      "html" : "sure so it's not beta, it's public preview, or however you want to call it. but my point is still valid - customers have been using a preview version with breaking changes in production for many years.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AdinErmie\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HashiCorp\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sheriffjackson\"></a>"
+    } ]
+  }
+}
