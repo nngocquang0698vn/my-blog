@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1402395547101663237" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2021-06-09T07:45:00+0100" ],
     "category" : [ "tiktok", "diversity-and-inclusion" ],
