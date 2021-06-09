@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402532218413719555" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1402532218413719555" ],
+    "published" : [ "2021-06-09T07:45:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400161856329822208/GrSz46jH.jpg" ]
+      }
+    } ],
+    "content" : [ "If a random stranger isn't arguing with you, are you really on Twitter?" ]
+  }
+}
