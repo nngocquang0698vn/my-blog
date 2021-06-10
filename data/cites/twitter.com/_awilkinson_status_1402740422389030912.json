@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402740422389030912" ],
+    "url" : [ "https://twitter.com/awilkinson/status/1402740422389030912" ],
+    "published" : [ "2021-06-09T21:32:33+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:awilkinson" ],
+        "numeric-id" : [ "3302" ],
+        "name" : [ "Andrew Wilkinson" ],
+        "nickname" : [ "awilkinson" ],
+        "url" : [ "https://twitter.com/awilkinson", "https://linktr.ee/awtiny" ],
+        "published" : [ "2006-07-28T02:16:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Victoria, Canada" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311779549693317121/0GpBW9T-.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Someone has literally recreated Photoshop feature for feature, for free, in the browser 🤯\n\nphotopea.com",
+      "html" : "<div style=\"white-space: pre\">Someone has literally recreated Photoshop feature for feature, for free, in the browser 🤯\n\n<a href=\"http://www.photopea.com\">photopea.com</a></div>"
+    } ]
+  }
+}
