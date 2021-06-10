@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402966449740734465" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1402966449740734465" ],
+    "published" : [ "2021-06-10T12:30:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Did Apple announce native container / Docker support this year at WWDC?\n\nThey didn’t? Ah, I guess nobody uses containers anyway so no problem… 🙄",
+      "html" : "<div style=\"white-space: pre\">Did Apple announce native container / Docker support this year at WWDC?\n\nThey didn’t? Ah, I guess nobody uses containers anyway so no problem… 🙄</div>"
+    } ]
+  }
+}
