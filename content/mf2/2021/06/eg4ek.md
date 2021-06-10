@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tessacooper5/status/1403014749319839749" ],
     "name" : [ "Like of @tessacooper5's tweet" ],
     "published" : [ "2021-06-10T18:38:00+0100" ],
     "like-of" : [ "https://twitter.com/tessacooper5/status/1403014749319839749" ],
