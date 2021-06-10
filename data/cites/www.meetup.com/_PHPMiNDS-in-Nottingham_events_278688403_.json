@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Cross-site scripting masterclass XSS" ],
+    "description" : [ {
+      "html" : "<p>This talk will take you through everything you need to know about XSS as a developer: the various ways in which XSS vulnerabilities occur, how you should (and shouldn't) defend against them and some newer browser technologies that can help you make your applications more robust.</p> ",
+      "value" : "This talk will take you through everything you need to know about XSS as a developer: the various ways in which XSS vulnerabilities occur, how you should (and shouldn't) defend against them and some newer browser technologies that can help you make your applications more robust."
+    } ],
+    "start" : [ "2021-06-17T17:30:00Z" ],
+    "end" : [ "2021-06-17T19:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/278688403/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2021-06-07T20:42:55Z" ],
+    "updated" : [ "2021-06-10T19:22:27Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
