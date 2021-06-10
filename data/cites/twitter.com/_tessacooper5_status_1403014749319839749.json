@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403014749319839749" ],
+    "url" : [ "https://twitter.com/tessacooper5/status/1403014749319839749" ],
+    "published" : [ "2021-06-10T15:42:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tessacooper5" ],
+        "numeric-id" : [ "208621746" ],
+        "name" : [ "Tess Cooper 🏳️‍🌈" ],
+        "nickname" : [ "tessacooper5" ],
+        "url" : [ "https://twitter.com/tessacooper5", "https://tessacooper.com/" ],
+        "published" : [ "2010-10-27T16:19:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363543698160709632/1mtsyfbd.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "👋 I'm gay and this is some of my coming out story. \n\nlink.medium.com/YQIkh2fGYgb\n\nIt's been a lot to process. But phew! Here's to #Pride2021",
+      "html" : "<div style=\"white-space: pre\">👋 I'm gay and this is some of my coming out story. \n\n<a href=\"https://link.medium.com/YQIkh2fGYgb\">link.medium.com/YQIkh2fGYgb</a>\n\nIt's been a lot to process. But phew! Here's to <a href=\"https://twitter.com/search?q=%23Pride2021\">#Pride2021</a></div>"
+    } ]
+  }
+}
