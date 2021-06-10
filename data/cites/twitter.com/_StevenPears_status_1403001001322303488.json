@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403001001322303488" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1403001001322303488" ],
+    "published" : [ "2021-06-10T14:47:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396040841865609222/3zhkz_6t.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "okay - last meeting as an @Experian_UK employee!\n\nOff tomorrow and then on Monday I start my new journey as a Tech Architect for @BJSSLtd \n\nSwapping one great team for another, but definitely a big, exciting and slightly scary change. Lots to learn and no comfort zone for a bit😁",
+      "html" : "<div style=\"white-space: pre\">okay - last meeting as an <a href=\"https://twitter.com/Experian_UK\">@Experian_UK</a> employee!\n\nOff tomorrow and then on Monday I start my new journey as a Tech Architect for <a href=\"https://twitter.com/BJSSLtd\">@BJSSLtd</a> \n\nSwapping one great team for another, but definitely a big, exciting and slightly scary change. Lots to learn and no comfort zone for a bit😁</div>"
+    } ]
+  }
+}
