@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/find_evil/status/1402381289093742598" ],
     "name" : [ "Like of @find_evil's tweet" ],
     "published" : [ "2021-06-10T21:35:00+0100" ],
     "category" : [ "politics" ],
