@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403030508028710921" ],
+    "url" : [ "https://twitter.com/lunasorcery/status/1403030508028710921" ],
+    "published" : [ "2021-06-10T16:45:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lunasorcery" ],
+        "numeric-id" : [ "29508496" ],
+        "name" : [ "Luna 🏳️‍🌈" ],
+        "nickname" : [ "lunasorcery" ],
+        "url" : [ "https://twitter.com/lunasorcery", "https://github.com/lunasorcery" ],
+        "published" : [ "2009-04-07T18:27:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Moon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384823421905821703/CWfsXxgT.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "throwback to that time a Google recruiter reached out to me after seeing my GitHub profile\n\nthis was several months ago, but it’s only just dawned on me that they must’ve seen my profile full of abandoned projects and thought “yep, that’s Google material right there” 😂",
+      "html" : "<div style=\"white-space: pre\">throwback to that time a Google recruiter reached out to me after seeing my GitHub profile\n\nthis was several months ago, but it’s only just dawned on me that they must’ve seen my profile full of abandoned projects and thought “yep, that’s Google material right there” 😂</div>"
+    } ]
+  }
+}
