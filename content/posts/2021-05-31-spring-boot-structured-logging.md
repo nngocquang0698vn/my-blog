@@ -110,7 +110,9 @@ Alternatively, you may be using Log4j2 as your logging implementation.
 
 Fortunately, since v2.14.1 of Log4j, which is available by default from [v2.5.0 of spring-boot-starter-log4j2](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-log4j2/2.5.0), JSON formatted logs can be done out-of-the-box.
 
-If you're using an older version of Spring Boot, you'll need to add the [dependency on log4j-layout-template-json](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-layout-template-json/2.14.1).
+If you're using an older version of Spring Boot, you'll need to update your log4j2 to bring this in.
+
+Then, you'll need to add the [dependency on log4j-layout-template-json](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-layout-template-json/2.14.1).
 
 ## `JsonLayout`
 
