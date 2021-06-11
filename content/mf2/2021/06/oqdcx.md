@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lunasorcery/status/1403030508028710921" ],
     "name" : [ "Like of @lunasorcery's tweet" ],
     "published" : [ "2021-06-11T10:58:00+0100" ],
     "category" : [ "github", "open-source", "google" ],
