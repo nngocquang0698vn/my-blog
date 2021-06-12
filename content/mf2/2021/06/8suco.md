@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/salynnedyon/status/1403801977906073602" ],
     "name" : [ "Like of @salynnedyon's tweet" ],
     "published" : [ "2021-06-12T22:31:00+0100" ],
     "category" : [ "social-media" ],
