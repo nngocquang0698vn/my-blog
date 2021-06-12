@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403472557706256389" ],
+    "url" : [ "https://twitter.com/TomFTL/status/1403472557706256389" ],
+    "published" : [ "2021-06-11T22:01:47+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/thepizzataco/status/1403213889769254915" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TomFTL" ],
+        "numeric-id" : [ "384958264" ],
+        "name" : [ "Shoots Loads and Leaves 🐼🍃" ],
+        "nickname" : [ "TomFTL" ],
+        "url" : [ "https://twitter.com/TomFTL" ],
+        "published" : [ "2011-10-04T16:40:28+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The 954" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380295547630800900/w8nQkSVb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Sounds like my Tupperware cabinet",
+      "html" : "Sounds like my Tupperware cabinet\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/estrozeneca\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/thepizzataco\"></a>"
+    } ]
+  }
+}
