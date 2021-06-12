@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403527363976171520" ],
+    "url" : [ "https://twitter.com/BentleyAudrey/status/1403527363976171520" ],
+    "published" : [ "2021-06-12T01:39:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BentleyAudrey" ],
+        "numeric-id" : [ "864045391" ],
+        "name" : [ "Audrey Renée Bentley" ],
+        "nickname" : [ "BentleyAudrey" ],
+        "url" : [ "https://twitter.com/BentleyAudrey", "https://www.bentleybiosec.com/" ],
+        "published" : [ "2012-10-06T03:00:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Philadelphia, PA " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399003455688151047/THWzS0Sr.jpg" ]
+      }
+    } ],
+    "content" : [ "OH" ],
+    "photo" : [ "https://pbs.twimg.com/media/E3pUsuIWUAMf-Iz.jpg" ]
+  }
+}
