@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1402918717852426242" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2021-06-12T08:57:00+0100" ],
     "category" : [ "coronavirus" ],
