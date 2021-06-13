@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403573661668347904" ],
+    "url" : [ "https://twitter.com/sucks_richard/status/1403573661668347904" ],
+    "published" : [ "2021-06-12T04:43:32+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/JXandr/status/1403406849131614217" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sucks_richard" ],
+        "numeric-id" : [ "2316509665" ],
+        "name" : [ "GK TV⚜️" ],
+        "nickname" : [ "sucks_richard" ],
+        "url" : [ "https://twitter.com/sucks_richard", "http://twitch.tv/GK__TV" ],
+        "published" : [ "2014-01-29T04:29:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399933117369028609/yZucTXeu.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Jesus christ xander let up a little",
+      "html" : "Jesus christ xander let up a little\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JXandr\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/getFANDOM\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/witchergame\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/witchernetflix\"></a>"
+    } ]
+  }
+}
