@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GameDadJP/status/1403882121442336769" ],
     "name" : [ "Like of @GameDadJP's tweet" ],
     "published" : [ "2021-06-13T18:45:00+0100" ],
     "category" : [ "politics" ],
