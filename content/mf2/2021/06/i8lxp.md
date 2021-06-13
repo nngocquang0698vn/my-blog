@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GlNATONIC/status/1403097916265336837" ],
     "name" : [ "Like of @GlNATONIC's tweet" ],
     "published" : [ "2021-06-13T22:30:00+0100" ],
     "category" : [ "social-media" ],
