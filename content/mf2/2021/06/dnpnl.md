@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1404084248093601792" ],
     "published" : [ "2021-06-13T15:28:00+0100" ],
     "category" : [ "coronavirus", "team-pfizer" ],
     "post-status" : [ "published" ],
