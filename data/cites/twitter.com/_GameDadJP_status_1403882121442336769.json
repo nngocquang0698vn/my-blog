@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1403882121442336769" ],
+    "url" : [ "https://twitter.com/GameDadJP/status/1403882121442336769" ],
+    "published" : [ "2021-06-13T01:09:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:GameDadJP" ],
+        "numeric-id" : [ "3048900145" ],
+        "name" : [ "John Phipps, The Most Important Man in the World" ],
+        "nickname" : [ "GameDadJP" ],
+        "url" : [ "https://twitter.com/GameDadJP", "http://www.twitch.tv/officialSDGC" ],
+        "published" : [ "2015-02-28T06:25:20+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "SDGC every Thursday at 9pm EST" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400929413504684038/8hrl6XHt.jpg" ]
+      }
+    } ],
+    "content" : [ "Here it is. The greatest response in the history of Twitter. It can be shut down now." ],
+    "photo" : [ "https://pbs.twimg.com/media/E3uXWQWWYAET8wl.jpg" ]
+  }
+}
