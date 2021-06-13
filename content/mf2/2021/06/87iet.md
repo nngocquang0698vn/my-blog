@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EHillGameDesign/status/1403769706230665218" ],
     "name" : [ "Like of @EHillGameDesign's tweet" ],
     "published" : [ "2021-06-13T20:41:00+0100" ],
     "category" : [ "gatekeeping" ],
