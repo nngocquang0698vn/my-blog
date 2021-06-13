@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1403972677803536388" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2021-06-13T15:05:00+0100" ],
     "category" : [ "social-media", "satire" ],
