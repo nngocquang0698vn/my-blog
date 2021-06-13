@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarvinDeux/status/1404148893164638208" ],
     "name" : [ "Like of @MarvinDeux's tweet" ],
     "published" : [ "2021-06-13T22:19:00+0100" ],
     "category" : [ "memes" ],
