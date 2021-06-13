@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sucks_richard/status/1403573661668347904" ],
     "name" : [ "Like of @sucks_richard's tweet" ],
     "published" : [ "2021-06-13T16:37:00+0100" ],
     "category" : [ "social-media" ],
