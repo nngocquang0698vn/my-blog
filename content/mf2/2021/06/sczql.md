@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MyNottingham/status/1404000590875697155" ],
     "name" : [ "Like of @MyNottingham's tweet" ],
     "published" : [ "2021-06-13T10:30:00+0100" ],
     "category" : [ "coronavirus" ],
