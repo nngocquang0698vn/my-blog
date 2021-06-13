@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ASpittel/status/1404078186309341184" ],
     "name" : [ "Like of @ASpittel's tweet" ],
     "published" : [ "2021-06-13T15:38:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
