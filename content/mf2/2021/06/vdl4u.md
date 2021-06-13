@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ElyKreimendahl/status/1404138201304948739" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1404185897843703810" ],
     "name" : [ "Reply to https://twitter.com/ElyKreimendahl/status/1404138201304948739" ],
     "published" : [ "2021-06-13T22:12:00+0100" ],
     "post-status" : [ "published" ],
