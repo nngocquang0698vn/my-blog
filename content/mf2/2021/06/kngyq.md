@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohadelaide/status/1404539063605006336" ],
     "name" : [ "Like of @ohadelaide's tweet" ],
     "published" : [ "2021-06-14T21:56:00+0100" ],
     "like-of" : [ "https://twitter.com/ohadelaide/status/1404539063605006336" ],
