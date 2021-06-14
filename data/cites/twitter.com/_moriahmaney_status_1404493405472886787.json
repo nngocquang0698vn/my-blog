@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404493405472886787" ],
+    "url" : [ "https://twitter.com/moriahmaney/status/1404493405472886787" ],
+    "published" : [ "2021-06-14T17:38:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:moriahmaney" ],
+        "numeric-id" : [ "928949262" ],
+        "name" : [ "Moriah Maney" ],
+        "nickname" : [ "moriahmaney" ],
+        "url" : [ "https://twitter.com/moriahmaney", "https://moriah.dev" ],
+        "published" : [ "2012-11-06T03:59:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Orlando, FL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1324532062800486402/9GYIie4v.jpg" ]
+      }
+    } ],
+    "content" : [ "A huge part of why I don’t post about tech very often anymore is I don’t want to attract more tech followers because they’re toxic as hell." ]
+  }
+}
