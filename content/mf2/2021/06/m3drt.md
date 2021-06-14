@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/moriahmaney/status/1404493405472886787" ],
     "name" : [ "Like of @moriahmaney's tweet" ],
     "published" : [ "2021-06-14T21:54:00+0100" ],
     "category" : [ "social-media" ],
