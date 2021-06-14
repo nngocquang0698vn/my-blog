@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/EvieSnuggle/status/1404259982250491908" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1404392153963433987" ],
     "name" : [ "Reply to https://twitter.com/EvieSnuggle/status/1404259982250491908" ],
     "published" : [ "2021-06-14T11:51:00+0100" ],
     "post-status" : [ "published" ],
