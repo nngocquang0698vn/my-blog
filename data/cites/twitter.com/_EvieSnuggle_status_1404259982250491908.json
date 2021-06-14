@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404259982250491908" ],
+    "url" : [ "https://twitter.com/EvieSnuggle/status/1404259982250491908" ],
+    "published" : [ "2021-06-14T02:10:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EvieSnuggle" ],
+        "numeric-id" : [ "721391181033304064" ],
+        "name" : [ "Evie Snuggle 👩‍🚀" ],
+        "nickname" : [ "EvieSnuggle" ],
+        "url" : [ "https://twitter.com/EvieSnuggle", "https://snugg.ie" ],
+        "published" : [ "2016-04-16T17:33:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310913256811376640/SxWFrNk0.jpg" ]
+      }
+    } ],
+    "content" : [ "I name all my networking devices after the Borg. What do you use?" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E3zu1TQXoAUF5Z9.jpg",
+      "alt" : "A networking diagram showing a router called 'Unimatrix', two switches called 'Interconnect Node Alpha/Beta' and a wireless AP called 'Distribution Node Alpha'"
+    } ]
+  }
+}
