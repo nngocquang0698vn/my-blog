@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404539063605006336" ],
+    "url" : [ "https://twitter.com/ohadelaide/status/1404539063605006336" ],
+    "published" : [ "2021-06-14T20:39:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohadelaide" ],
+        "numeric-id" : [ "2203915058" ],
+        "name" : [ "Adelaide Gardner" ],
+        "nickname" : [ "ohadelaide" ],
+        "url" : [ "https://twitter.com/ohadelaide", "http://ko-fi.com/ohadelaide" ],
+        "published" : [ "2013-11-19T23:27:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Mexico, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323289330648043522/I8G08wvL.jpg" ]
+      }
+    } ],
+    "content" : [ "If going down makes you a villain, then charge me with aiding and abetting the enemy, I guess. I have high standards for myself." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1404495349520244736" ],
+      "url" : [ "https://twitter.com/JoeOtterson/status/1404495349520244736" ],
+      "published" : [ "2021-06-14T17:46:00+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:JoeOtterson" ],
+          "numeric-id" : [ "2854775635" ],
+          "name" : [ "Joe Otterson" ],
+          "nickname" : [ "JoeOtterson" ],
+          "url" : [ "https://twitter.com/JoeOtterson", "http://variety.com/author/josephotterson/" ],
+          "published" : [ "2014-10-13T20:10:50+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Parts Unknown" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1193319719580790784/uHUolM_v.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "DC asked the #HarleyQuinn team to remove a scene from Season 3 in which Batman performs oral sex on Catwoman. Why? \"Heroes don't do that\" \n@justin_halpern @PMSchumacker \n\nvariety.com/2021/tv/featur…",
+        "html" : "<div style=\"white-space: pre\">DC asked the <a href=\"https://twitter.com/search?q=%23HarleyQuinn\">#HarleyQuinn</a> team to remove a scene from Season 3 in which Batman performs oral sex on Catwoman. Why? \"Heroes don't do that\" \n<a href=\"https://twitter.com/justin_halpern\">@justin_halpern</a> <a href=\"https://twitter.com/PMSchumacker\">@PMSchumacker</a> \n\n<a href=\"https://variety.com/2021/tv/features/subverting-superhero-tv-wandavision-harley-quinn-umbrella-academy-1234992069/\">variety.com/2021/tv/featur…</a></div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E32TEUFXIAIh3bg.jpg" ]
+    }
+  } ]
+}
