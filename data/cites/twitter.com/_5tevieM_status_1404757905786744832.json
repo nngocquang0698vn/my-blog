@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404757905786744832" ],
+    "url" : [ "https://twitter.com/5tevieM/status/1404757905786744832" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1404757633307971586/pu/vid/1280x720/Y-SKTKvaXAPrACK6.mp4?tag=12" ],
+    "published" : [ "2021-06-15T11:09:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:5tevieM" ],
+        "numeric-id" : [ "24408348" ],
+        "name" : [ "Stevie Martin" ],
+        "nickname" : [ "5tevieM" ],
+        "url" : [ "https://twitter.com/5tevieM", "https://avalonuk.com/clients/stevie-martin/" ],
+        "published" : [ "2009-03-14T18:32:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe.jpg" ]
+      }
+    } ],
+    "content" : [ "trying to get your deposit back" ]
+  }
+}
