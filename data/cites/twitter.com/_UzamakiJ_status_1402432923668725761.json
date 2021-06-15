@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402432923668725761" ],
+    "url" : [ "https://twitter.com/UzamakiJ/status/1402432923668725761" ],
+    "published" : [ "2021-06-09T01:10:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:UzamakiJ" ],
+        "numeric-id" : [ "15301490" ],
+        "name" : [ "UzamakiJ" ],
+        "nickname" : [ "UzamakiJ" ],
+        "url" : [ "https://twitter.com/UzamakiJ" ],
+        "published" : [ "2008-07-02T20:30:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Miami" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/58542616/Manga_Me.jpg" ]
+      }
+    } ],
+    "content" : [ "“CAPTAAAAAIN!!”  Captain, my Man the borg are here! We gon die!" ],
+    "photo" : [ "https://pbs.twimg.com/media/E3ZxTjZWEAA5o36.jpg" ]
+  }
+}
