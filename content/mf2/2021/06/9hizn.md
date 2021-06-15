@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_manywaters_/status/1402881844438208517" ],
     "name" : [ "Like of @_manywaters_'s tweet" ],
     "published" : [ "2021-06-15T07:48:00+0100" ],
     "category" : [ "shitpost" ],
