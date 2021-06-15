@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404519927869018114" ],
+    "url" : [ "https://twitter.com/caroleighlayne/status/1404519927869018114" ],
+    "published" : [ "2021-06-14T19:23:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:caroleighlayne" ],
+        "numeric-id" : [ "849998646317854720" ],
+        "name" : [ "💖 Caroline Leigh Layne 💖" ],
+        "nickname" : [ "caroleighlayne" ],
+        "url" : [ "https://twitter.com/caroleighlayne", "http://carolinelayne.com" ],
+        "published" : [ "2017-04-06T14:54:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354804014970363912/jrBxVQHi.jpg" ]
+      }
+    } ],
+    "content" : [ "let batman eat pussy" ]
+  }
+}
