@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nickkroll/status/1404504398810734592" ],
     "name" : [ "Like of @nickkroll's tweet" ],
     "published" : [ "2021-06-15T14:54:00+0100" ],
     "category" : [ "big-mouth" ],
