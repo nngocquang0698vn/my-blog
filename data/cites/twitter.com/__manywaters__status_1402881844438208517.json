@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1402881844438208517" ],
+    "url" : [ "https://twitter.com/_manywaters_/status/1402881844438208517" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E3gJmX8VkAAu7m4.mp4" ],
+    "published" : [ "2021-06-10T06:54:30+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/mithrasangel/status/1402746791796244481" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:_manywaters_" ],
+        "numeric-id" : [ "15231849" ],
+        "name" : [ "Pouncy" ],
+        "nickname" : [ "_manywaters_" ],
+        "url" : [ "https://twitter.com/_manywaters_" ],
+        "published" : [ "2008-06-25T14:37:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/273053891/snorkicon.gif" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "That would be great, but all I can think of is Picard getting a status report from Luis from Ant-Man.",
+      "html" : "That would be great, but all I can think of is Picard getting a status report from Luis from Ant-Man.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/UzamakiJ\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mithrasangel\"></a>"
+    } ]
+  }
+}
