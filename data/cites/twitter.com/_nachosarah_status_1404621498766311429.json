@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404621498766311429" ],
+    "url" : [ "https://twitter.com/nachosarah/status/1404621498766311429" ],
+    "published" : [ "2021-06-15T02:07:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:nachosarah" ],
+        "numeric-id" : [ "73251301" ],
+        "name" : [ "Sarah Beattie" ],
+        "nickname" : [ "nachosarah" ],
+        "url" : [ "https://twitter.com/nachosarah", "https://onlyfans.com/nachosarah" ],
+        "published" : [ "2009-09-10T23:29:22+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Michigan via Hawaii" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317747551647506432/IenaGQsm.jpg" ]
+      }
+    } ],
+    "content" : [ "well now I need to know if batman eats ass" ]
+  }
+}
