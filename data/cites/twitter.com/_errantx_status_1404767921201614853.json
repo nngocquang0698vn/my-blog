@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404767921201614853" ],
+    "url" : [ "https://twitter.com/errantx/status/1404767921201614853" ],
+    "published" : [ "2021-06-15T11:49:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:errantx" ],
+        "numeric-id" : [ "17517592" ],
+        "name" : [ "Tom Morton" ],
+        "nickname" : [ "errantx" ],
+        "url" : [ "https://twitter.com/errantx", "http://www.errant.me.uk" ],
+        "published" : [ "2008-11-20T18:19:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sleaford, Lincolnshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/458942801011412993/thogkHeg.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Cool to be asked to talk about Open Banking & DeFi @dddeastmidlands in October - especially as the talks are voted for by the attendees #hottopic",
+      "html" : "Cool to be asked to talk about Open Banking &amp; DeFi <a href=\"https://twitter.com/dddeastmidlands\">@dddeastmidlands</a> in October - especially as the talks are voted for by the attendees <a href=\"https://twitter.com/search?q=%23hottopic\">#hottopic</a>"
+    } ]
+  }
+}
