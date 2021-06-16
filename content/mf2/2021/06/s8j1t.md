@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kieranmch/status/1405062250243801089" ],
     "name" : [ "Like of @kieranmch's tweet" ],
     "published" : [ "2021-06-16T11:11:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
