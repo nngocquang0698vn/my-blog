@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405062250243801089" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1405062250243801089" ],
+    "published" : [ "2021-06-16T07:18:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302615077904945154/iunoaUw1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I came out as gay to my work colleagues and some of my friends several years ago. I came out to my family last year. Everyone is so supportive. But it still feels like I’m living a double life because I don’t discuss it publicly.\n\nI’m changing that, starting now 🏳️‍🌈 Happy #pride !",
+      "html" : "<div style=\"white-space: pre\">I came out as gay to my work colleagues and some of my friends several years ago. I came out to my family last year. Everyone is so supportive. But it still feels like I’m living a double life because I don’t discuss it publicly.\n\nI’m changing that, starting now 🏳️‍🌈 Happy <a href=\"https://twitter.com/search?q=%23pride\">#pride</a> !</div>"
+    } ]
+  }
+}
