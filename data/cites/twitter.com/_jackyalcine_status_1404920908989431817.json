@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1404920908989431817" ],
+    "url" : [ "https://twitter.com/jackyalcine/status/1404920908989431817" ],
+    "published" : [ "2021-06-15T21:57:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jackyalcine" ],
+        "numeric-id" : [ "1262855987993563136" ],
+        "name" : [ "Jacky, I guess." ],
+        "nickname" : [ "jackyalcine" ],
+        "url" : [ "https://twitter.com/jackyalcine", "https://v2.jacky.wtf" ],
+        "published" : [ "2020-05-19T21:22:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chochenyo/Ohlone (Bay Area)" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1391850947354058752/D0_RQLDV.jpg" ]
+      }
+    } ],
+    "content" : [ "currently playing:" ],
+    "photo" : [ "https://pbs.twimg.com/media/E39IHjfUUAEM96l.jpg" ]
+  }
+}
