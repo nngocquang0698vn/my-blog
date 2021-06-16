@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1404920908989431817" ],
     "name" : [ "Like of @jackyalcine's tweet" ],
     "published" : [ "2021-06-16T17:58:00+0100" ],
     "category" : [ "mental-health" ],
