@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/piccalilli_/status/1405074999568908288" ],
     "name" : [ "Like of @piccalilli_'s tweet" ],
     "published" : [ "2021-06-16T11:11:00+0100" ],
     "category" : [ "cryptocurrency" ],
