@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Tzefira_Neviah/status/1405550137179525126" ],
     "name" : [ "Like of @Tzefira_Neviah's tweet" ],
     "published" : [ "2021-06-17T17:03:00+0100" ],
     "category" : [ "social-media", "memes" ],
