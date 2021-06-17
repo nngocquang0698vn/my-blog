@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405550137179525126" ],
+    "url" : [ "https://twitter.com/Tzefira_Neviah/status/1405550137179525126" ],
+    "published" : [ "2021-06-17T15:37:21+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/72pac/status/1405425322435088387" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Tzefira_Neviah" ],
+        "numeric-id" : [ "814573509083066369" ],
+        "name" : [ "Stefani Goerlich, LMSW-Clinical, LISW, CST ✡️" ],
+        "nickname" : [ "Tzefira_Neviah" ],
+        "url" : [ "https://twitter.com/Tzefira_Neviah", "http://www.boundtogethercounseling.com" ],
+        "published" : [ "2016-12-29T20:47:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Detroit, MI" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395460747698876419/GMoTlxsR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/72pac\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ElleArmageddon\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E4GEZolXMAYG6N3.jpg" ]
+  }
+}
