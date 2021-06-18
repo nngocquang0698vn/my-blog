@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405699219172646913" ],
+    "url" : [ "https://twitter.com/harshil/status/1405699219172646913" ],
+    "published" : [ "2021-06-18T01:29:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:harshil" ],
+        "numeric-id" : [ "628137326" ],
+        "name" : [ "Harshil" ],
+        "nickname" : [ "harshil" ],
+        "url" : [ "https://twitter.com/harshil", "https://harshil.net" ],
+        "published" : [ "2012-07-06T07:16:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mumbai, India" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1143038558896136192/Ej3ZveV_.jpg" ]
+      }
+    } ],
+    "content" : [ "Had a great first day on the HBO Max team! Good on ramp, with a few test PRs to get me started. Now to take a big sip of coffee and see what everyone’s tweeting about" ]
+  }
+}
