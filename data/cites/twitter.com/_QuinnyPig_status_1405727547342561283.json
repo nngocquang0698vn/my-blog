@@ -1,0 +1,48 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405727547342561283" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1405727547342561283" ],
+    "published" : [ "2021-06-18T03:22:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "name" : [ "Corey Quinntegration Test Email #2" ],
+        "nickname" : [ "QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1403025766875422720/x4ZU04Ao.jpg" ]
+      }
+    } ],
+    "content" : [ "Pretty sure that if an intern can email a live mailing list without an employee approving it, it was actually the business's lack of proper controls. In other words \"they pooped in the yard, the intern was the one who stepped in it.\"" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1405712235108917249" ],
+      "url" : [ "https://twitter.com/HBOMaxHelp/status/1405712235108917249" ],
+      "published" : [ "2021-06-18T02:21:28+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:HBOMaxHelp" ],
+          "numeric-id" : [ "1164255043081531392" ],
+          "name" : [ "HBOMaxHelp" ],
+          "nickname" : [ "HBOMaxHelp" ],
+          "url" : [ "https://twitter.com/HBOMaxHelp", "http://help.hbomax.com" ],
+          "published" : [ "2019-08-21T19:17:06+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1263874917268946945/3h2JRAUZ.png" ]
+        }
+      } ],
+      "content" : [ "We mistakenly sent out an empty test email to a portion of our HBO Max mailing list this evening. We apologize for the inconvenience, and as the jokes pile in, yes, it was the intern. No, really. And we’re helping them through it. ❤️" ]
+    }
+  } ]
+}
