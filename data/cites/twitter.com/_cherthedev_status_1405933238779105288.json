@@ -1,0 +1,61 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405933238779105288" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1405933238779105288" ],
+    "published" : [ "2021-06-18T16:59:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402469567876714496/MQcHcqHh.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This is edge computing coming for you\n\nYou're not ready",
+      "html" : "<div style=\"white-space: pre\">This is edge computing coming for you\n\nYou're not ready</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1405930449247952896" ],
+      "url" : [ "https://twitter.com/Dixie3Flatline/status/1405930449247952896" ],
+      "published" : [ "2021-06-18T16:48:34+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/kalababag/status/1405921103973806084" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+          "numeric-id" : [ "835996764" ],
+          "name" : [ "Kat Cosgrove, Mullet Advocate" ],
+          "nickname" : [ "Dixie3Flatline" ],
+          "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ],
+          "published" : [ "2012-09-20T17:27:21+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Online" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1404482641680764934/FmChitNh.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Where do you work? Just curious.",
+        "html" : "Where do you work? Just curious.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cherthedev\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kalababag\"></a>"
+      } ]
+    }
+  } ]
+}
