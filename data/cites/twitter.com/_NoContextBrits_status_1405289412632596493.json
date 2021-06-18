@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405289412632596493" ],
+    "url" : [ "https://twitter.com/NoContextBrits/status/1405289412632596493" ],
+    "published" : [ "2021-06-16T22:21:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:NoContextBrits" ],
+        "numeric-id" : [ "1377572924413124609" ],
+        "name" : [ "No Context Brits" ],
+        "nickname" : [ "NoContextBrits" ],
+        "url" : [ "https://twitter.com/NoContextBrits", "https://www.buymeacoffee.com/nocontextbrits" ],
+        "published" : [ "2021-04-01T10:46:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Great Britain" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1403392874813796360/WdsQxKGr.jpg" ]
+      }
+    } ],
+    "content" : [ "How long did this interview last?" ],
+    "photo" : [ "https://pbs.twimg.com/media/E4CXRTHUYAURe-X.jpg", "https://pbs.twimg.com/media/E4CXRTMVIAEwrd3.jpg" ]
+  }
+}
