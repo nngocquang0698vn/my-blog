@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/weatherdak/status/1385234686293778434" ],
     "name" : [ "Like of @weatherdak's tweet" ],
     "published" : [ "2021-06-18T07:47:00+0100" ],
     "category" : [ "space", "nature" ],
