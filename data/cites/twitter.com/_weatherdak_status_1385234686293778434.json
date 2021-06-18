@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1385234686293778434" ],
+    "url" : [ "https://twitter.com/weatherdak/status/1385234686293778434" ],
+    "video" : [ "https://video.twimg.com/tweet_video/Ezii2YlVEAI5vKj.mp4" ],
+    "published" : [ "2021-04-22T14:11:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:weatherdak" ],
+        "numeric-id" : [ "49457868" ],
+        "name" : [ "Dakota Smith" ],
+        "nickname" : [ "weatherdak" ],
+        "url" : [ "https://twitter.com/weatherdak", "http://bit.ly/OkayLetsScience" ],
+        "published" : [ "2009-06-21T22:57:40+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Colorado" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1271170507279228928/H-FupWGe.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🌍 Happy Earth Day! 🌎\n\nMay I present all five geostationary views of Earth.",
+      "html" : "<div style=\"white-space: pre\">🌍 Happy Earth Day! 🌎\n\nMay I present all five geostationary views of Earth.</div>"
+    } ]
+  }
+}
