@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoContextBrits/status/1405289412632596493" ],
     "name" : [ "Like of @NoContextBrits's tweet" ],
     "published" : [ "2021-06-18T07:45:00+0100" ],
     "category" : [ "xmen" ],
