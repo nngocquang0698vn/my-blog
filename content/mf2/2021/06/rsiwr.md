@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/harshil/status/1405699219172646913" ],
     "name" : [ "Like of @harshil's tweet" ],
     "published" : [ "2021-06-18T18:10:00+0100" ],
     "category" : [ "shitpost", "satire" ],
