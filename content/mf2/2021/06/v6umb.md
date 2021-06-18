@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LuciaLobosvilla/status/1405713960410681352" ],
     "name" : [ "Like of @LuciaLobosvilla's tweet" ],
     "published" : [ "2021-06-18T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/LuciaLobosvilla/status/1405713960410681352" ],
