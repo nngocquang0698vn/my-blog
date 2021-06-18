@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405936827874283520" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1405936827874283520" ],
+    "published" : [ "2021-06-18T17:13:55+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/ASpittel/status/1405936724157648897" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400161856329822208/GrSz46jH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Hardcore is relative Ali cmon",
+      "html" : "Hardcore is relative Ali cmon\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ASpittel\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cherthedev\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jina\"></a>"
+    } ]
+  }
+}
