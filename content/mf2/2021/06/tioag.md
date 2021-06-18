@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmmaBostian/status/1405936827874283520" ],
     "name" : [ "Like of @EmmaBostian's tweet" ],
     "published" : [ "2021-06-18T19:19:00+0100" ],
     "like-of" : [ "https://twitter.com/EmmaBostian/status/1405936827874283520" ],
