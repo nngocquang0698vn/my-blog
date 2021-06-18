@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405702805948538881" ],
+    "url" : [ "https://twitter.com/ZackSnyder/status/1405702805948538881" ],
+    "published" : [ "2021-06-18T01:44:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ZackSnyder" ],
+        "numeric-id" : [ "17768307" ],
+        "name" : [ "Zack Snyder" ],
+        "nickname" : [ "ZackSnyder" ],
+        "url" : [ "https://twitter.com/ZackSnyder", "http://www.CruelFilms.com" ],
+        "published" : [ "2008-12-01T01:46:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/886742416224432128/WeD9JH37.jpg" ]
+      }
+    } ],
+    "content" : [ "Canon" ],
+    "photo" : [ "https://pbs.twimg.com/media/E4INLOJVoAA39Zu.jpg" ]
+  }
+}
