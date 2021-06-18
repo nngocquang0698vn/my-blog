@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1405923345292402689" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2021-06-18T18:11:00+0100" ],
     "like-of" : [ "https://twitter.com/rothgar/status/1405923345292402689" ],
