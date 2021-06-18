@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HBOMaxHelp/status/1405712235108917249" ],
     "name" : [ "Like of @HBOMaxHelp's tweet" ],
     "published" : [ "2021-06-18T10:10:00+0100" ],
     "like-of" : [ "https://twitter.com/HBOMaxHelp/status/1405712235108917249" ],
