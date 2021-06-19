@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brigidkeely/status/1406047651787857923" ],
     "name" : [ "Like of @brigidkeely's tweet" ],
     "published" : [ "2021-06-19T18:42:00+0100" ],
     "category" : [ "disney", "disney-plus", "marvel" ],
