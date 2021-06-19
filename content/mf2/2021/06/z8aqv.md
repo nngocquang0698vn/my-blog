@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/milfnokids/status/1406029999619067904" ],
     "name" : [ "Like of @milfnokids's tweet" ],
     "published" : [ "2021-06-19T02:32:00+0100" ],
     "like-of" : [ "https://twitter.com/milfnokids/status/1406029999619067904" ],
