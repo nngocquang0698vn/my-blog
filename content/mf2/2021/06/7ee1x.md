@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/holly/status/1405957298837766147" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2021-06-19T15:38:00+0100" ],
     "category" : [ "cute" ],
