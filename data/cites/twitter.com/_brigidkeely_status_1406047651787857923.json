@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406047651787857923" ],
+    "url" : [ "https://twitter.com/brigidkeely/status/1406047651787857923" ],
+    "published" : [ "2021-06-19T00:34:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:brigidkeely" ],
+        "numeric-id" : [ "9478302" ],
+        "name" : [ "Brigid Keely - She/Her" ],
+        "nickname" : [ "brigidkeely" ],
+        "url" : [ "https://twitter.com/brigidkeely", "http://www.brigidkeely.com/books" ],
+        "published" : [ "2007-10-16T14:23:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/452135723647242240/LxgyMjt1.png" ]
+      }
+    } ],
+    "content" : [ "The legal juggernaut that is Disney is now shutting down people selling Loki merchandise online. \"Oh, you mean Loki from the MCU?\" Apparently, anything that uses the name Loki. You know. The god. That's still worshiped and has been for thousands of years. So that's going on." ]
+  }
+}
