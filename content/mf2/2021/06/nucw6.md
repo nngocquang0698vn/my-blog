@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gazmon1980/status/1406120517111795719" ],
     "name" : [ "Like of @gazmon1980's tweet" ],
     "published" : [ "2021-06-19T23:34:00+0100" ],
     "category" : [ "art", "nature" ],
