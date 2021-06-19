@@ -1,0 +1,50 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406125710717046787" ],
+    "url" : [ "https://twitter.com/autogynamelia/status/1406125710717046787" ],
+    "published" : [ "2021-06-19T05:44:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:autogynamelia" ],
+        "numeric-id" : [ "791366729834176512" ],
+        "name" : [ "Amelia Parody Account (also her real account)" ],
+        "nickname" : [ "autogynamelia" ],
+        "url" : [ "https://twitter.com/autogynamelia", "http://curiouscat.me/autogynamelia" ],
+        "published" : [ "2016-10-26T19:51:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portlandia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373189512847749121/bkTV3EXj.jpg" ]
+      }
+    } ],
+    "content" : [ "😎👉👉 on it " ],
+    "photo" : [ "https://pbs.twimg.com/media/E4OPlYgUUAQAoSJ.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1406081933973491712" ],
+      "url" : [ "https://twitter.com/prammysitchard/status/1406081933973491712" ],
+      "published" : [ "2021-06-19T02:50:31+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:prammysitchard" ],
+          "numeric-id" : [ "1346533658069401601" ],
+          "name" : [ "Punished Pritchard" ],
+          "nickname" : [ "prammysitchard" ],
+          "url" : [ "https://twitter.com/prammysitchard" ],
+          "published" : [ "2021-01-05T19:07:04+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1395806731448422400/RAaKipWM.jpg" ]
+        }
+      } ],
+      "content" : [ "This but, Twitter, trans women, asks “man”" ],
+      "photo" : [ "https://pbs.twimg.com/media/E4NoCwCVEAk0W4O.jpg" ]
+    }
+  } ]
+}
