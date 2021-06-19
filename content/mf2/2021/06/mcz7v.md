@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/prammysitchard/status/1406081933973491712" ],
     "name" : [ "Like of @prammysitchard's tweet" ],
     "published" : [ "2021-06-19T19:13:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
