@@ -58,4 +58,4 @@ ResponseDefinition response  = event.getResponseDefinition();
 
 This gives us a really nice, lightweight, solution for running Wiremock without the overhead of HTTP!
 
-Note that this is currently an undocumentes use of an internal API - [see this issue thread](https://github.com/tomakehurst/wiremock/issues/1476) where we're discussing alternatives to make this a public API.
+Note that this is currently an undocumented use of an internal API - [see this issue thread](https://github.com/tomakehurst/wiremock/issues/1476) where we're discussing alternatives to make this a public API.
