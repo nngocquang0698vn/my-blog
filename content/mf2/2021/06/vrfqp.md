@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/colly/status/1406673852114079745" ],
     "name" : [ "Like of @colly's tweet" ],
     "published" : [ "2021-06-20T19:38:00+0100" ],
     "category" : [ "cute" ],
