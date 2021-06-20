@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/KaThompDev/status/1406479559961178114" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1406536916363841538" ],
     "name" : [ "Reply to https://twitter.com/KaThompDev/status/1406479559961178114" ],
     "published" : [ "2021-06-20T09:54:00+0100" ],
     "category" : [ "ring-fit-adventures" ],
