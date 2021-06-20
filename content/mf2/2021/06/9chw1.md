@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/olafurw/status/1406247739567050757" ],
     "name" : [ "Like of @olafurw's tweet" ],
     "published" : [ "2021-06-20T22:13:00+0100" ],
     "category" : [ "shitpost", "zoom" ],
