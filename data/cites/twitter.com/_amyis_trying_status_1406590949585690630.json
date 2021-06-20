@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406590949585690630" ],
+    "url" : [ "https://twitter.com/amyis_trying/status/1406590949585690630" ],
+    "published" : [ "2021-06-20T12:33:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:amyis_trying" ],
+        "numeric-id" : [ "201337460" ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "amyis_trying" ],
+        "url" : [ "https://twitter.com/amyis_trying", "https://www.patreon.com/amy_I" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "the suburb from Weeds " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1405171124007174149/5sJpsEUl.jpg" ]
+      }
+    } ],
+    "content" : [ "Imagine Mary Shelley writing Frankenstein with Lord Byron swanning around in the background in a cocaine wine blackout. That's the focus I need." ]
+  }
+}
