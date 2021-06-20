@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amyis_trying/status/1406590949585690630" ],
     "name" : [ "Like of @amyis_trying's tweet" ],
     "published" : [ "2021-06-20T13:46:00+0100" ],
     "like-of" : [ "https://twitter.com/amyis_trying/status/1406590949585690630" ],
