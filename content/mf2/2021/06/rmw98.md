@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChloeCondon/status/1406400316786888704" ],
     "name" : [ "Like of @ChloeCondon's tweet" ],
     "published" : [ "2021-06-20T09:53:00+0100" ],
     "category" : [ "pokemon" ],
