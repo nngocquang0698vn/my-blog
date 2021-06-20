@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405941706650841091" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1405941706650841091" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1405941628443848706/pu/vid/576x1024/35Y4Rnb5geXvUkTS.mp4?tag=12" ],
+    "published" : [ "2021-06-18T17:33:18+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400637907929501697/EvRs2qYV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Everyone: it’s okay, the girlboss ted talk child cant hurt you\nGirlboss ted talk child:",
+      "html" : "<div style=\"white-space: pre\">Everyone: it’s okay, the girlboss ted talk child cant hurt you\nGirlboss ted talk child:</div>"
+    } ]
+  }
+}
