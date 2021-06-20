@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406479559961178114" ],
+    "url" : [ "https://twitter.com/KaThompDev/status/1406479559961178114" ],
+    "published" : [ "2021-06-20T05:10:32+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/kefimochi/status/1406453101008080899" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KaThompDev" ],
+        "numeric-id" : [ "1166185899287138304" ],
+        "name" : [ "Karl Thompson" ],
+        "nickname" : [ "KaThompDev" ],
+        "url" : [ "https://twitter.com/KaThompDev" ],
+        "published" : [ "2019-08-27T03:09:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Utah" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377389967127638017/xxvlYKMV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I should get back into it, but the later running levels using a bunch of squats killed my enjoyment (as far as exercise can be enjoyed). I wish there was a way to disable the squats only, instead of all leg exercises with buttons. Squats are the only one that makes my knee hurt.",
+      "html" : "I should get back into it, but the later running levels using a bunch of squats killed my enjoyment (as far as exercise can be enjoyed). I wish there was a way to disable the squats only, instead of all leg exercises with buttons. Squats are the only one that makes my knee hurt.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>"
+    } ]
+  }
+}
