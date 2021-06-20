@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406400316786888704" ],
+    "url" : [ "https://twitter.com/ChloeCondon/status/1406400316786888704" ],
+    "published" : [ "2021-06-19T23:55:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChloeCondon" ],
+        "numeric-id" : [ "51529520" ],
+        "name" : [ "Chloe Condon" ],
+        "nickname" : [ "ChloeCondon" ],
+        "url" : [ "https://twitter.com/ChloeCondon", "https://linktr.ee/ChloeCondon" ],
+        "published" : [ "2009-06-27T19:22:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392887880737980417/3p5JGas2.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Saw a wild Pikachu in @Oakland! ⚡😮💛 Anyone got a Poké Ball on them?",
+      "html" : "Saw a wild Pikachu in <a href=\"https://twitter.com/Oakland\">@Oakland</a>! ⚡😮💛 Anyone got a Poké Ball on them?"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E4SJofbUcAAq4P3.jpg", "https://pbs.twimg.com/media/E4SJoo-VEAEcaSE.jpg" ]
+  }
+}
