@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406247739567050757" ],
+    "url" : [ "https://twitter.com/olafurw/status/1406247739567050757" ],
+    "published" : [ "2021-06-19T13:49:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:olafurw" ],
+        "numeric-id" : [ "12514012" ],
+        "name" : [ "Ólafur Waage" ],
+        "nickname" : [ "olafurw" ],
+        "url" : [ "https://twitter.com/olafurw", "http://olafurw.com" ],
+        "published" : [ "2008-01-21T23:17:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328357666721320961/GB_Z1y1V.jpg" ]
+      }
+    } ],
+    "content" : [ "Weird way to do subtitles for the Formula 1 race." ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E4P-wS-XoAAKebg.jpg",
+      "alt" : "F1 car with the text \"zoom\" all over the place. Ads for the zoom video conference tool but it can also be car go zoom zoom"
+    } ]
+  }
+}
