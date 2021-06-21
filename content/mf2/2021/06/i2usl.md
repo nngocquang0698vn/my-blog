@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Henderburn/status/1406732361077825538" ],
     "name" : [ "Like of @Henderburn's tweet" ],
     "published" : [ "2021-06-21T09:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Henderburn/status/1406732361077825538" ],
