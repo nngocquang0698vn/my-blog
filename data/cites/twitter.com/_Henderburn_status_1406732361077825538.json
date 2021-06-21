@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1406732361077825538" ],
+    "url" : [ "https://twitter.com/Henderburn/status/1406732361077825538" ],
+    "published" : [ "2021-06-20T21:55:05+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jathansadowski/status/1406348918066085891" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Henderburn" ],
+        "numeric-id" : [ "44685373" ],
+        "name" : [ "Peter Henderson" ],
+        "nickname" : [ "Henderburn" ],
+        "url" : [ "https://twitter.com/Henderburn" ],
+        "published" : [ "2009-06-04T18:42:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297970394733912072/p-a9Ei7p.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Dan Price waterboarded his wife amid a horrifying campaign of abuse, maybe don't signal boost the guy who waterboarded his wife",
+      "html" : "Dan Price waterboarded his wife amid a horrifying campaign of abuse, maybe don't signal boost the guy who waterboarded his wife\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jathansadowski\"></a>"
+    } ]
+  }
+}
