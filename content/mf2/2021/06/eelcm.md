@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DivineOmega/status/1406453900253839361" ],
     "name" : [ "Like of @DivineOmega's tweet" ],
     "published" : [ "2021-06-21T09:15:00+0100" ],
     "category" : [ "machine-learning", "ai" ],
