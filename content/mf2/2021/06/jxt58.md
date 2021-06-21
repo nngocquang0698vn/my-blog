@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NatalyaLobanova/status/1406726913272463367" ],
     "name" : [ "Like of @NatalyaLobanova's tweet" ],
     "published" : [ "2021-06-21T12:29:00+0100" ],
     "category" : [ "coronavirus" ],
