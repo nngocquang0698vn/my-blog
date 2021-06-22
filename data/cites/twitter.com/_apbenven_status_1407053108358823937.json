@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407053108358823937" ],
+    "url" : [ "https://twitter.com/apbenven/status/1407053108358823937" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1407053071037964292/pu/vid/576x1024/ZxAky0I7-Gxbkwgi.mp4?tag=12" ],
+    "published" : [ "2021-06-21T19:09:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:apbenven" ],
+        "numeric-id" : [ "236101180" ],
+        "name" : [ "Alexis Benveniste" ],
+        "nickname" : [ "apbenven" ],
+        "url" : [ "https://twitter.com/apbenven", "http://alexisbenveniste.com" ],
+        "published" : [ "2011-01-09T20:19:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "nyc" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1406988199977750529/yBv_ZtpC.jpg" ]
+      }
+    } ],
+    "content" : [ "Avril Lavigne is on TikTok now and her first video is this perfect collab with Tony Hawk" ]
+  }
+}
