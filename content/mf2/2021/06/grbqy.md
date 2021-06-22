@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/apbenven/status/1407053108358823937" ],
     "name" : [ "Like of @apbenven's tweet" ],
     "published" : [ "2021-06-22T10:07:00+0100" ],
     "category" : [ "tiktok", "music" ],
