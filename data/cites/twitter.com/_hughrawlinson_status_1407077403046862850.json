@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407077403046862850" ],
+    "url" : [ "https://twitter.com/hughrawlinson/status/1407077403046862850" ],
+    "published" : [ "2021-06-21T20:46:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:hughrawlinson" ],
+        "numeric-id" : [ "30527632" ],
+        "name" : [ "Hugh Rawlinson (he/him)" ],
+        "nickname" : [ "hughrawlinson" ],
+        "url" : [ "https://twitter.com/hughrawlinson", "https://hughrawlinson.me/" ],
+        "published" : [ "2009-04-11T21:25:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Coronavirus capital of Europe" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355307004617748481/rRTnA5og.jpg" ]
+      }
+    } ],
+    "content" : [ "Really disheartening to see companies acquire startups who badly do the thing the expert employees asked to do years ago and were told to work on something else that didn’t work, and eventually left. Such a waste. Imagine listening to the enthusiastic expert employees." ]
+  }
+}
