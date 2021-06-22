@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407437292021637126" ],
+    "url" : [ "https://twitter.com/holly/status/1407437292021637126" ],
+    "published" : [ "2021-06-22T20:36:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:holly" ],
+        "numeric-id" : [ "7555262" ],
+        "name" : [ "Holly Brockwell" ],
+        "nickname" : [ "holly" ],
+        "url" : [ "https://twitter.com/holly", "https://www.patreon.com/hollybrockwell" ],
+        "published" : [ "2007-07-18T10:27:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "From Nottingham, in London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248671410714804225/A_9KJ1y8.jpg" ]
+      }
+    } ],
+    "content" : [ "The Not-Getting-Railed card" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1407436989297836041" ],
+      "url" : [ "https://twitter.com/Bellatrixie85/status/1407436989297836041" ],
+      "published" : [ "2021-06-22T20:35:01+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/holly/status/1407436675379339265" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Bellatrixie85" ],
+          "numeric-id" : [ "3302841747" ],
+          "name" : [ "Naz" ],
+          "nickname" : [ "Bellatrixie85" ],
+          "url" : [ "https://twitter.com/Bellatrixie85" ],
+          "published" : [ "2015-05-29T15:18:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, England" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1399519392275255298/t3s2TZmJ.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "This! But about everything else in life! Single people should get discount for being single and doing stuff on their own as a well done!",
+        "html" : "This! But about everything else in life! Single people should get discount for being single and doing stuff on their own as a well done!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_Railcards\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/holly\"></a>"
+      } ]
+    }
+  } ]
+}
