@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/celebritygus/status/1406853488567472130" ],
     "name" : [ "Like of @celebritygus's tweet" ],
     "published" : [ "2021-06-22T10:08:00+0100" ],
     "category" : [ "memes" ],
