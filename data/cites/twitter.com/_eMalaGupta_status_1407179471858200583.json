@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407179471858200583" ],
+    "url" : [ "https://twitter.com/eMalaGupta/status/1407179471858200583" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E4dMUzyVEAMExMA.mp4" ],
+    "published" : [ "2021-06-22T03:31:44+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eMalaGupta" ],
+        "numeric-id" : [ "1326233714" ],
+        "name" : [ "Mala Gupta" ],
+        "nickname" : [ "eMalaGupta" ],
+        "url" : [ "https://twitter.com/eMalaGupta", "http://www.malagupta.com", "http://goo.gl/QD6eeh" ],
+        "published" : [ "2013-04-04T05:38:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Delhi, India" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273198273306787840/52PKGPLW.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Your pom.xml might list just 7 dependencies, but your application might be dependent on many more.\n\nOne of my favorite @intellijidea features is being able to view ALL the dependencies in my @ASFMavenProject project, in a visual manner (including its transitive dependencies).",
+      "html" : "<div style=\"white-space: pre\">Your pom.xml might list just 7 dependencies, but your application might be dependent on many more.\n\nOne of my favorite <a href=\"https://twitter.com/intellijidea\">@intellijidea</a> features is being able to view ALL the dependencies in my <a href=\"https://twitter.com/ASFMavenProject\">@ASFMavenProject</a> project, in a visual manner (including its transitive dependencies).</div>"
+    } ]
+  }
+}
