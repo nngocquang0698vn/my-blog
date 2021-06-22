@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1407291788767997955" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2021-06-22T11:59:00+0100" ],
     "category" : [ "mental-health" ],
