@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pontifexalt/status/1407045151302819843" ],
     "name" : [ "Like of @pontifexalt's tweet" ],
     "published" : [ "2021-06-22T10:08:00+0100" ],
     "category" : [ "politics" ],
