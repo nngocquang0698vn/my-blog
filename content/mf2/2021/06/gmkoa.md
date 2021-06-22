@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lukeallen23/status/1407342724664238086" ],
     "name" : [ "Like of @lukeallen23's tweet" ],
     "published" : [ "2021-06-22T15:59:00+0100" ],
     "category" : [ "gaming", "social-media" ],
