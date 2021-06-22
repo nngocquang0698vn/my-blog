@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407291788767997955" ],
+    "url" : [ "https://twitter.com/type__error/status/1407291788767997955" ],
+    "published" : [ "2021-06-22T10:58:03+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ]
+      }
+    } ],
+    "content" : [ "I am having a bad mental health day. I want to keep myself busy with work, but I've cancelled all my meetings and set my slack status to \"No meetings\" because I can't face them. I am so grateful that talking about mental health is normalised and encouraged at my workplace." ]
+  }
+}
