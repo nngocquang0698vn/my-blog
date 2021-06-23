@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407671891603738633" ],
+    "url" : [ "https://twitter.com/ladyriven/status/1407671891603738633" ],
+    "published" : [ "2021-06-23T12:08:26+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/netflix/status/1407669776969715718" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ladyriven" ],
+        "numeric-id" : [ "22748523" ],
+        "name" : [ "Riven 💜 Diluc Wanter 🥲" ],
+        "nickname" : [ "ladyriven" ],
+        "url" : [ "https://twitter.com/ladyriven", "https://linktr.ee/ladyriven" ],
+        "published" : [ "2009-03-04T08:17:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Maryland, United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353440364267360256/rMqQitip.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "All those people are thin and attractive underneath of the costumes so the “based on personality alone” thing is a bit of a stretch.",
+      "html" : "All those people are thin and attractive underneath of the costumes so the “based on personality alone” thing is a bit of a stretch.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/netflix\"></a>"
+    } ]
+  }
+}
