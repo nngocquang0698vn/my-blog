@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1407688609579286533" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2021-06-23T14:28:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
