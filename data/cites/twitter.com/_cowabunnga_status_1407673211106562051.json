@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407673211106562051" ],
+    "url" : [ "https://twitter.com/cowabunnga/status/1407673211106562051" ],
+    "published" : [ "2021-06-23T12:13:41+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/netflix/status/1407669776969715718" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cowabunnga" ],
+        "numeric-id" : [ "314642245" ],
+        "name" : [ "mr.mittens" ],
+        "nickname" : [ "cowabunnga" ],
+        "url" : [ "https://twitter.com/cowabunnga" ],
+        "published" : [ "2011-06-10T15:45:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brentford" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1401120014837637120/pqC3Fdxv.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/netflix\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E4kPUCRXoAE0HHO.jpg" ]
+  }
+}
