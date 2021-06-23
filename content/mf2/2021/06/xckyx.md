@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohhelloana/status/1407638298630275072" ],
     "name" : [ "Like of @ohhelloana's tweet" ],
     "published" : [ "2021-06-23T12:50:00+0100" ],
     "category" : [ "politics", "brexshit" ],
