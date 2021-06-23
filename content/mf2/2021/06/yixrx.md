@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mariah__Driver/status/1407478908665012225" ],
     "name" : [ "Like of @Mariah__Driver's tweet" ],
     "published" : [ "2021-06-23T11:57:00+0100" ],
     "category" : [ "burnout" ],
