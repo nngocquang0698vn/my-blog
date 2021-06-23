@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407478908665012225" ],
+    "url" : [ "https://twitter.com/Mariah__Driver/status/1407478908665012225" ],
+    "published" : [ "2021-06-22T23:21:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Mariah__Driver" ],
+        "numeric-id" : [ "950478910466113536" ],
+        "name" : [ "mariah" ],
+        "nickname" : [ "Mariah__Driver" ],
+        "url" : [ "https://twitter.com/Mariah__Driver" ],
+        "published" : [ "2018-01-08T21:26:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1304191368143818752/MfLFCCxH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "The real question is... \n\nIs anyone *not* burned out right now??",
+      "html" : "<div style=\"white-space: pre\">The real question is... \n\nIs anyone *not* burned out right now??</div>"
+    } ]
+  }
+}
