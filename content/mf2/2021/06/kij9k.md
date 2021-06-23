@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cowabunnga/status/1407673211106562051" ],
     "name" : [ "Like of @cowabunnga's tweet" ],
     "published" : [ "2021-06-23T14:58:00+0100" ],
     "like-of" : [ "https://twitter.com/cowabunnga/status/1407673211106562051" ],
