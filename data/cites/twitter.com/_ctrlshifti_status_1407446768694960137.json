@@ -1,0 +1,56 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407446768694960137" ],
+    "url" : [ "https://twitter.com/ctrlshifti/status/1407446768694960137" ],
+    "published" : [ "2021-06-22T21:13:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ctrlshifti" ],
+        "numeric-id" : [ "1047644343874465792" ],
+        "name" : [ "Kat Maddox" ],
+        "nickname" : [ "ctrlshifti" ],
+        "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox", "http://leftalign.substack.com" ],
+        "published" : [ "2018-10-04T00:27:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Gadigal land" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365414681754574849/PygWqtod.jpg" ]
+      }
+    } ],
+    "content" : [ "promised myself i wouldn't touch this meme format again but this one really needed fixing " ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E4hBLBHVkAQxicY.jpg",
+      "alt" : "Anakin and Padme meme. Anakin says:\n\"You need to know an assortment of technical tricks from memory without Google\"\nPadme replies:\n\"But you’ll pay me the value of my labor, right?\"\nAnakin looks at her doubtfully. Padme continues,\n\"You’re not just pointlessly gatekeeping the interview process to reclaim some sense of power in a system that ultimately leaves us all powerless, fighting each other for dignity and scraps while the bosses get rich off our labor right?\"\n\nThe tweet I'm quote-tweeting is a similar format, but making fun of front-end developers who don't know how to add event listeners in JS off by heart during an interview."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1406515518996090886" ],
+      "url" : [ "https://twitter.com/AnfibiaCreativa/status/1406515518996090886" ],
+      "published" : [ "2021-06-20T07:33:26+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:AnfibiaCreativa" ],
+          "numeric-id" : [ "564603612" ],
+          "name" : [ "Sagittarius A* 🏳️‍🌈🇺🇾" ],
+          "nickname" : [ "AnfibiaCreativa" ],
+          "url" : [ "https://twitter.com/AnfibiaCreativa" ],
+          "published" : [ "2012-04-27T11:36:12+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1405614843093204995/jdi67X88.jpg" ]
+        }
+      } ],
+      "content" : [ "Me interviewing frontend developers..." ],
+      "photo" : [ {
+        "value" : "https://pbs.twimg.com/media/E4TyaG2WYAAFl4y.jpg",
+        "alt" : "a meme with a guy that says “i know angular, react, svelte and vue” and a woman asks “but you know how to add an event listener in javascript right?” ... awkward silence"
+      } ]
+    }
+  } ]
+}
