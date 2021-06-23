@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RalfLittle/status/1407330647815905283" ],
     "name" : [ "Like of @RalfLittle's tweet" ],
     "published" : [ "2021-06-23T07:47:00+0100" ],
     "category" : [ "london", "coronavirus" ],
