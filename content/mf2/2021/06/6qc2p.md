@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ladyriven/status/1407671891603738633" ],
     "name" : [ "Like of @ladyriven's tweet" ],
     "published" : [ "2021-06-23T14:58:00+0100" ],
     "like-of" : [ "https://twitter.com/ladyriven/status/1407671891603738633" ],
