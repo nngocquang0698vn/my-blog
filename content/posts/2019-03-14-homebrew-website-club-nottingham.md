@@ -1,16 +1,18 @@
 ---
 title: "Homebrew Website Club: Nottingham"
 description: "Thoughts about setting up the first Homebrew Website Club in Nottingham."
+date: "2019-03-14T21:41:16+00:00"
 tags:
-- announcement
-- indieweb
-- hwc
-- homebrew-website-club-nottingham
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2019-03-14T21:41:16+00:00
+- "announcement"
+- "indieweb"
+- "hwc"
+- "homebrew-website-club-nottingham"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
 slug: "homebrew-website-club-nottingham"
 ---
+Edit: Looking for the next Homebrew event? Check out [the IndieWeb events site](https://events.indieweb.org/tag/hwc-nottingham) for the next event.
+
 Tonight, as I was cooking, I thought I'd listen to a podcast for a change. I was wondering about listening to something related to the [IndieWeb movement](https://indieweb.org/why), and ended up listening to [This Week in the IndieWeb Audio](https://martymcgui.re/podcasts/indieweb/) by [Marty McGuire](https://martymcgui.re).
 
 One of the recurring themes in the last few episodes is the [Homebrew Website Club][hwc], which is described as:
