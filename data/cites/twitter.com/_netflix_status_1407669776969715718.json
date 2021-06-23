@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407669776969715718" ],
+    "url" : [ "https://twitter.com/netflix/status/1407669776969715718" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1407549116289216520/vid/1280x720/GixxK5RfyZtNmRLW.mp4?tag=14" ],
+    "published" : [ "2021-06-23T12:00:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "url" : [ "https://twitter.com/netflix", "http://netflix.com/blacklivesmatter", "http://netflix.com/pride" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ]
+      }
+    } ],
+    "content" : [ "Sexy Beasts is a new dating show where real-life singles sport elaborate makeup and prosthetics to put true blind-date chemistry to the test." ]
+  }
+}
