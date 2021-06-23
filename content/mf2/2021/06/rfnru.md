@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/netflix/status/1407669776969715718" ],
     "name" : [ "Like of @netflix's tweet" ],
     "published" : [ "2021-06-23T14:57:00+0100" ],
     "like-of" : [ "https://twitter.com/netflix/status/1407669776969715718" ],
