@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407299719739621377" ],
+    "url" : [ "https://twitter.com/cassiecodes/status/1407299719739621377" ],
+    "published" : [ "2021-06-22T11:29:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cassiecodes" ],
+        "numeric-id" : [ "758598429115310080" ],
+        "name" : [ "Cassie Evans" ],
+        "nickname" : [ "cassiecodes" ],
+        "url" : [ "https://twitter.com/cassiecodes", "https://cassie.codes" ],
+        "published" : [ "2016-07-28T09:42:14+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brighton, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358774073392836613/Tg1ejFaL.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Nothing makes me close a blog post faster than something dev-related being called 'sexy'.\n\nIt's just a website lad calm down.",
+      "html" : "<div style=\"white-space: pre\">Nothing makes me close a blog post faster than something dev-related being called 'sexy'.\n\nIt's just a website lad calm down.</div>"
+    } ]
+  }
+}
