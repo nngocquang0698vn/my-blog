@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/desilove/status/1407646500721733637" ],
     "name" : [ "Like of @desilove's tweet" ],
     "published" : [ "2021-06-23T12:49:00+0100" ],
     "category" : [ "mental-health", "social-media" ],
