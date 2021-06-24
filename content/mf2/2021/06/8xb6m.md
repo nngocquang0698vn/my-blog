@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jacasiegel/status/1407757869152292866" ],
     "name" : [ "Like of @jacasiegel's tweet" ],
     "published" : [ "2021-06-24T11:19:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
