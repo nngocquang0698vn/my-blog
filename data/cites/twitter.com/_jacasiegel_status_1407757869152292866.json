@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407757869152292866" ],
+    "url" : [ "https://twitter.com/jacasiegel/status/1407757869152292866" ],
+    "published" : [ "2021-06-23T17:50:05+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jacasiegel" ],
+        "numeric-id" : [ "4919876231" ],
+        "name" : [ "Jaclyn A. Siegel, PhD" ],
+        "nickname" : [ "jacasiegel" ],
+        "url" : [ "https://twitter.com/jacasiegel", "http://jaclynasiegel.com" ],
+        "published" : [ "2016-02-16T16:07:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378335932991086599/okKmMi9o.jpg" ]
+      }
+    } ],
+    "content" : [ "If I ever become pregnant, I'm going to throw a gender reveal party and reveal that gender is a social construct. I will have slides, and there will be a quiz." ]
+  }
+}
