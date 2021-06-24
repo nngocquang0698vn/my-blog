@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wifeoftoast/status/1407442252331323396" ],
     "name" : [ "Like of @wifeoftoast's tweet" ],
     "published" : [ "2021-06-24T16:16:00+0100" ],
     "category" : [ "politics" ],
