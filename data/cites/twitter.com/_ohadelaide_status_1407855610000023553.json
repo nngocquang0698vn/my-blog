@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1407855610000023553" ],
+    "url" : [ "https://twitter.com/ohadelaide/status/1407855610000023553" ],
+    "published" : [ "2021-06-24T00:18:28+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohadelaide" ],
+        "numeric-id" : [ "2203915058" ],
+        "name" : [ "Adelaide Gardner" ],
+        "nickname" : [ "ohadelaide" ],
+        "url" : [ "https://twitter.com/ohadelaide", "http://ko-fi.com/ohadelaide" ],
+        "published" : [ "2013-11-19T23:27:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Mexico, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323289330648043522/I8G08wvL.jpg" ]
+      }
+    } ],
+    "content" : [ "My boyfriend just told his mother a package he received to her house is \"kinky sex stuff,\" deadpan (it is indeed kinky sex stuff), and I may actually have a minor stroke. I'm dying." ]
+  }
+}
