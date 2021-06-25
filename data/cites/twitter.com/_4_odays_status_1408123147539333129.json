@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408123147539333129" ],
+    "url" : [ "https://twitter.com/4_odays/status/1408123147539333129" ],
+    "published" : [ "2021-06-24T18:01:34+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/tedcruz/status/1408115651084963844" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:4_odays" ],
+        "numeric-id" : [ "1124362204671893505" ],
+        "name" : [ "4BetterDays🌱🛹" ],
+        "nickname" : [ "4_odays" ],
+        "url" : [ "https://twitter.com/4_odays" ],
+        "published" : [ "2019-05-03T17:16:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Houston Texas" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400829003402035205/7KOCgJgi.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "She's asking for autonomy over her own body Ted...you are aware of that right?",
+      "html" : "She's asking for autonomy over her own body Ted...you are aware of that right?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tedcruz\"></a>"
+    } ]
+  }
+}
