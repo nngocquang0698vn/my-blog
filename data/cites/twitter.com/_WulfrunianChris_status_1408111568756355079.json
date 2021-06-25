@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408111568756355079" ],
+    "url" : [ "https://twitter.com/WulfrunianChris/status/1408111568756355079" ],
+    "published" : [ "2021-06-24T17:15:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:WulfrunianChris" ],
+        "numeric-id" : [ "799689617834262528" ],
+        "name" : [ "Chris Burden" ],
+        "nickname" : [ "WulfrunianChris" ],
+        "url" : [ "https://twitter.com/WulfrunianChris" ],
+        "published" : [ "2016-11-18T19:03:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Wolverhampton, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296433367261548544/q86enqGf.jpg" ]
+      }
+    } ],
+    "content" : [ "People who live in London always says London is amazing then proceed to list things that exist in every U.K. city." ]
+  }
+}
