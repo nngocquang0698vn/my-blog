@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408302428852834304" ],
+    "url" : [ "https://twitter.com/AyoCaesar/status/1408302428852834304" ],
+    "published" : [ "2021-06-25T05:53:58+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AyoCaesar" ],
+        "numeric-id" : [ "619050616" ],
+        "name" : [ "Ash Sarkar" ],
+        "nickname" : [ "AyoCaesar" ],
+        "url" : [ "https://twitter.com/AyoCaesar", "http://www.novaramedia.com" ],
+        "published" : [ "2012-06-26T12:53:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1108381139595612162/imUw0Y9Q.jpg" ]
+      }
+    } ],
+    "content" : [ "Not sure how I feel about adultery being used as a reason to discredit someone's political career. Matt Hancock's done enough to be sacked 1,000 times over, having a messy personal life is the least of it." ]
+  }
+}
