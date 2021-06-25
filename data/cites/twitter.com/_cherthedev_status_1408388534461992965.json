@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408388534461992965" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1408388534461992965" ],
+    "published" : [ "2021-06-25T11:36:07+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402469567876714496/MQcHcqHh.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "When I attempted to take my own life, they told me if I didn't agree to go they would have me involuntarily committed. \n\nI was forced into taking lithium, more drugs to balance each previous drug out, shock therapy, and I wasn't allowed to leave.\n\nI could not even go outside.",
+      "html" : "<div style=\"white-space: pre\">When I attempted to take my own life, they told me if I didn't agree to go they would have me involuntarily committed. \n\nI was forced into taking lithium, more drugs to balance each previous drug out, shock therapy, and I wasn't allowed to leave.\n\nI could not even go outside.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1408238033862754307" ],
+      "url" : [ "https://twitter.com/sesmith/status/1408238033862754307" ],
+      "published" : [ "2021-06-25T01:38:05+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:sesmith" ],
+          "numeric-id" : [ "127091266" ],
+          "name" : [ "s. e. smith" ],
+          "nickname" : [ "sesmith" ],
+          "url" : [ "https://twitter.com/sesmith", "http://www.realsesmith.com" ],
+          "published" : [ "2010-03-28T01:19:45+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Northern California" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1301177422092460034/uIAgEAEl.jpg" ]
+        }
+      } ],
+      "content" : [ "Fun fact: Involuntary treatment for mental health patients (including forcible medication and coerced hospitalisation) is legal across the US and states are working to make it easier all the time! You may have heard examples pitched as ‘helping the mentally ill.'" ]
+    }
+  } ]
+}
