@@ -1,0 +1,61 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408381489323163650" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1408381489323163650" ],
+    "published" : [ "2021-06-25T11:08:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "\"What sort of things do you do at your tech meetup?\"\n\nErrrrrr....",
+      "html" : "<div style=\"white-space: pre\">\"What sort of things do you do at your tech meetup?\"\n\nErrrrrr....</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1408380828166541316" ],
+      "url" : [ "https://twitter.com/technottingham/status/1408380828166541316" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1408380337684717572/pu/vid/640x360/1gZPniZ9zMEE_21l.mp4?tag=12" ],
+      "published" : [ "2021-06-25T11:05:30+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:technottingham" ],
+          "numeric-id" : [ "384492431" ],
+          "name" : [ "Tech Nottingham" ],
+          "nickname" : [ "technottingham" ],
+          "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ],
+          "published" : [ "2011-10-03T19:47:31+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Nottingham" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1404006205895421960/MyMItzyn.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Know Your Audience is one of the weirder games we've created for our events during the panda times \n\nWe 🧡 it though 😀\n\n#TechNott #TechCommunity #Nottingham",
+        "html" : "<div style=\"white-space: pre\">Know Your Audience is one of the weirder games we've created for our events during the panda times \n\nWe 🧡 it though 😀\n\n<a href=\"https://twitter.com/search?q=%23TechNott\">#TechNott</a> <a href=\"https://twitter.com/search?q=%23TechCommunity\">#TechCommunity</a> <a href=\"https://twitter.com/search?q=%23Nottingham\">#Nottingham</a></div>"
+      } ]
+    }
+  } ]
+}
