@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408847502829367301" ],
+    "url" : [ "https://twitter.com/emrazz/status/1408847502829367301" ],
+    "published" : [ "2021-06-26T17:59:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emrazz" ],
+        "numeric-id" : [ "30395567" ],
+        "name" : [ "feminist next door" ],
+        "nickname" : [ "emrazz" ],
+        "url" : [ "https://twitter.com/emrazz" ],
+        "published" : [ "2009-04-11T04:15:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/974196423586656256/tTVyL3bb.jpg" ]
+      }
+    } ],
+    "content" : [ "Ask the women you know to tell you about a time they were abused, humiliated, or dismissed by a man and the men they thought would support them said nothing. We all have at least one." ]
+  }
+}
