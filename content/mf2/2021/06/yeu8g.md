@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ktemkin/status/1408411318835634178" ],
     "name" : [ "Like of @ktemkin's tweet" ],
     "published" : [ "2021-06-26T17:41:00+0100" ],
     "category" : [ "shitpost", "memes" ],
