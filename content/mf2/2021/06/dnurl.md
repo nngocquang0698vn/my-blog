@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/erasmusNYT/status/1408456726593126406" ],
     "name" : [ "Like of @erasmusNYT's tweet" ],
     "published" : [ "2021-06-26T10:24:00+0100" ],
     "category" : [ "shitpost" ],
