@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theshillito/status/1408915826225434626" ],
     "name" : [ "Like of @theshillito's tweet" ],
     "published" : [ "2021-06-27T11:46:00+0100" ],
     "like-of" : [ "https://twitter.com/theshillito/status/1408915826225434626" ],
