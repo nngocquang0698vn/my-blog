@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409066132342939650" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1409066132342939650" ],
+    "published" : [ "2021-06-27T08:28:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400637907929501697/EvRs2qYV.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thinking ab the time where some troll was replying to me and @jackyalcine just replied with a succinct “goo goo ga ga” LMFAOOOO",
+      "html" : "Thinking ab the time where some troll was replying to me and <a href=\"https://twitter.com/jackyalcine\">@jackyalcine</a> just replied with a succinct “goo goo ga ga” LMFAOOOO"
+    } ]
+  }
+}
