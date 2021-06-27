@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408732383243870214" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1408732383243870214" ],
+    "published" : [ "2021-06-26T10:22:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394003200592723972/bIQpmLei.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/empijei/status/1408428120185749506\">@empijei</a> This is among the highest quality bait I've ever seen."
+    } ],
+    "repost-of" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:1408428120185749506" ],
+        "url" : [ "https://twitter.com/empijei/status/1408428120185749506" ],
+        "published" : [ "2021-06-25T14:13:25+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "uid" : [ "tag:twitter.com:empijei" ],
+            "numeric-id" : [ "3293973773" ],
+            "name" : [ "Roberto (Rob) Clapis 🏳️‍🌈🇪🇺🇮🇹🇨🇭💉💉⏳" ],
+            "nickname" : [ "empijei" ],
+            "url" : [ "https://twitter.com/empijei", "https://empijei.science", "http://empijei.science" ],
+            "published" : [ "2015-05-22T12:36:03+00:00" ],
+            "location" : [ {
+              "type" : [ "h-card", "p-location" ],
+              "properties" : {
+                "name" : [ "Zürich, Switzerland" ]
+              }
+            } ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1113055601221808128/5soAKcDY.png" ]
+          }
+        } ],
+        "content" : [ "This is among the highest quality bait I've ever seen." ],
+        "photo" : [ "https://pbs.twimg.com/media/E4u96WaXMAUpN_W.jpg" ]
+      }
+    } ]
+  }
+}
