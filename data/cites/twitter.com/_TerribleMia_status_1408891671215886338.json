@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408891671215886338" ],
+    "url" : [ "https://twitter.com/TerribleMia/status/1408891671215886338" ],
+    "published" : [ "2021-06-26T20:55:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TerribleMia" ],
+        "numeric-id" : [ "6729252" ],
+        "name" : [ "Miriam (But Terrible)" ],
+        "nickname" : [ "TerribleMia" ],
+        "url" : [ "https://twitter.com/TerribleMia", "http://miriamsuzanne.com" ],
+        "published" : [ "2007-06-11T03:59:57+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279953772236599297/aQDK6C9m.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Rough idea for a programming language…\n\nobviously <variable-name> is <value>\nobviously <function-name> should <logic>\n\neveryone knows (<if condition>) {\n  have you tried <function-call>\n} well actually (<optional else condition>) {\n  have you tried <function-call>\n}",
+      "html" : "<div style=\"white-space: pre\">Rough idea for a programming language…\n\nobviously &lt;variable-name&gt; is &lt;value&gt;\nobviously &lt;function-name&gt; should &lt;logic&gt;\n\neveryone knows (&lt;if condition&gt;) {\n  have you tried &lt;function-call&gt;\n} well actually (&lt;optional else condition&gt;) {\n  have you tried &lt;function-call&gt;\n}</div>"
+    } ]
+  }
+}
