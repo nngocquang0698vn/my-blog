@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TerribleMia/status/1408891671215886338" ],
     "name" : [ "Like of @TerribleMia's tweet" ],
     "published" : [ "2021-06-27T10:34:00+0100" ],
     "category" : [ "shitpost", "mansplaining" ],
