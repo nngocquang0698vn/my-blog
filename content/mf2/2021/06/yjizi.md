@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TrungTPhan/status/1409185044501987340" ],
     "name" : [ "Like of @TrungTPhan's tweet" ],
     "published" : [ "2021-06-27T19:06:00+0100" ],
     "like-of" : [ "https://twitter.com/TrungTPhan/status/1409185044501987340" ],
