@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/a_stxx/status/1409125909928550400" ],
     "name" : [ "Like of @a_stxx's tweet" ],
     "published" : [ "2021-06-28T23:01:00+0100" ],
     "category" : [ "shitpost", "coronavirus" ],
