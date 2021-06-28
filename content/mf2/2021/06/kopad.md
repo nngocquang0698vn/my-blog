@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SlimeGuyEli/status/1408866827489398785" ],
     "name" : [ "Like of @SlimeGuyEli's tweet" ],
     "published" : [ "2021-06-28T07:44:00+0100" ],
     "category" : [ "shitpost" ],
