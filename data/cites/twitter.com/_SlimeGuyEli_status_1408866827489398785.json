@@ -1,0 +1,49 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1408866827489398785" ],
+    "url" : [ "https://twitter.com/SlimeGuyEli/status/1408866827489398785" ],
+    "published" : [ "2021-06-26T19:16:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SlimeGuyEli" ],
+        "numeric-id" : [ "424659177" ],
+        "name" : [ "SlimeGod ひ" ],
+        "nickname" : [ "SlimeGuyEli" ],
+        "url" : [ "https://twitter.com/SlimeGuyEli", "http://Instagram.com/slimeguyeli/" ],
+        "published" : [ "2011-11-30T01:32:34+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Giving niggas 280s*" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1286269208167362560/WgBu8g6g.jpg" ]
+      }
+    } ],
+    "content" : [ "They bout to take the Hero exam" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1408119014438625287" ],
+      "url" : [ "https://twitter.com/saint/status/1408119014438625287" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1408118987246944259/pu/vid/640x800/vDm6IloEnsFSb0S4.mp4?tag=12" ],
+      "published" : [ "2021-06-24T17:45:09+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:saint" ],
+          "numeric-id" : [ "2426313439" ],
+          "name" : [ "SAINT" ],
+          "nickname" : [ "saint" ],
+          "url" : [ "https://twitter.com/saint", "http://instagram.com/SAINT" ],
+          "published" : [ "2014-04-03T23:07:20+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276014485703139330/pU4W0OVR.jpg" ]
+        }
+      } ],
+      "content" : [ "Louis Vuitton Men’s Spring/Summer 2022 by Virgil Abloh" ]
+    }
+  } ]
+}
