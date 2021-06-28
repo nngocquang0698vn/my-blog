@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409563578126852096" ],
+    "url" : [ "https://twitter.com/RandallKanna/status/1409563578126852096" ],
+    "published" : [ "2021-06-28T17:25:20+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:RandallKanna" ],
+        "numeric-id" : [ "206918128" ],
+        "name" : [ "Randall Kanna" ],
+        "nickname" : [ "RandallKanna" ],
+        "url" : [ "https://twitter.com/RandallKanna", "https://randallkanna.com/get-the-ultimate-list/", "http://RandallKanna.com", "http://TheStandoutDeveloper.com" ],
+        "published" : [ "2010-10-24T01:56:09+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Job hunting? 👉" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397415365089525763/wIlSghto.jpg" ]
+      }
+    } ],
+    "content" : [ "PSA: If you can't work well with devs or junior devs, you're not senior. It doesn't matter how well you code." ]
+  }
+}
