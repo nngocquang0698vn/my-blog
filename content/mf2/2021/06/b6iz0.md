@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/philandstuff/status/1409439215000211460" ],
     "name" : [ "Like of @philandstuff's tweet" ],
     "published" : [ "2021-06-28T15:00:00+0100" ],
     "like-of" : [ "https://twitter.com/philandstuff/status/1409439215000211460" ],
