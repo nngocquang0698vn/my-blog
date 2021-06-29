@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409889489196101633" ],
+    "url" : [ "https://twitter.com/LEGO_Group/status/1409889489196101633" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1409889421588058113/pu/vid/720x720/gHCoiQ-8Tiiakwrm.mp4?tag=12" ],
+    "published" : [ "2021-06-29T15:00:23+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LEGO_Group" ],
+        "numeric-id" : [ "295325513" ],
+        "name" : [ "LEGO" ],
+        "nickname" : [ "LEGO_Group" ],
+        "url" : [ "https://twitter.com/LEGO_Group", "http://www.LEGO.com" ],
+        "published" : [ "2011-05-08T20:06:36+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Billund, Denmark" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1198949412237709313/kXmJNLLH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "There has never been a LEGO game quite like this. LEGO Builder’s Journey, available now on PC and Switch 🎮 #LEGO #RTXOn",
+      "html" : "There has never been a LEGO game quite like this. LEGO Builder’s Journey, available now on PC and Switch 🎮 <a href=\"https://twitter.com/search?q=%23LEGO\">#LEGO</a> <a href=\"https://twitter.com/search?q=%23RTXOn\">#RTXOn</a>"
+    } ]
+  }
+}
