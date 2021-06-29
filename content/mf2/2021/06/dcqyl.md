@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/typefiend/status/1409876479517790211" ],
     "name" : [ "Like of @typefiend's tweet" ],
     "published" : [ "2021-06-29T22:20:00+0100" ],
     "category" : [ "food" ],
