@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kcgreenn/status/1409704078905511936" ],
     "name" : [ "Like of @kcgreenn's tweet" ],
     "published" : [ "2021-06-29T22:15:00+0100" ],
     "category" : [ "cryptocurrency" ],
