@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409984014870474755" ],
+    "url" : [ "https://twitter.com/emilyst/status/1409984014870474755" ],
+    "published" : [ "2021-06-29T21:16:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "name" : [ "Emily Strickland (@emilyst@social.emilylilyli.me)" ],
+        "nickname" : [ "emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emilylilyli.me/@emilyst" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1405011508820516866/xQyjz_7c.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I have trouble telling what other people mean by “burnout.” Most of the stuff I’ve seen had led me to believe it was a form of severe exhaustion (and somewhat transient).\n\nI have gradually come to understand it’s more like some part of you literally stops functioning.",
+      "html" : "<div style=\"white-space: pre\">I have trouble telling what other people mean by “burnout.” Most of the stuff I’ve seen had led me to believe it was a form of severe exhaustion (and somewhat transient).\n\nI have gradually come to understand it’s more like some part of you literally stops functioning.</div>"
+    } ]
+  }
+}
