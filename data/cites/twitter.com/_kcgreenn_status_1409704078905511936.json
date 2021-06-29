@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409704078905511936" ],
+    "url" : [ "https://twitter.com/kcgreenn/status/1409704078905511936" ],
+    "published" : [ "2021-06-29T02:43:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kcgreenn" ],
+        "numeric-id" : [ "16522244" ],
+        "name" : [ "KC Green" ],
+        "nickname" : [ "kcgreenn" ],
+        "url" : [ "https://twitter.com/kcgreenn", "http://kcgreendotcom.com", "http://topatoco.com/collections/kc", "http://patreon.com/kcgreen" ],
+        "published" : [ "2008-09-30T02:04:50+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "easthampton, ma" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1391429096261947393/S_NlOOm7.jpg" ]
+      }
+    } ],
+    "content" : [ "*hangs a no solicitors sign on my twitter page*" ],
+    "photo" : [ "https://pbs.twimg.com/media/E5BGYzOXwAAb1Op.jpg" ]
+  }
+}
