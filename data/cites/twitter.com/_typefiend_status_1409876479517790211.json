@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409876479517790211" ],
+    "url" : [ "https://twitter.com/typefiend/status/1409876479517790211" ],
+    "published" : [ "2021-06-29T14:08:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:typefiend" ],
+        "numeric-id" : [ "15842079" ],
+        "name" : [ "Gregory Han" ],
+        "nickname" : [ "typefiend" ],
+        "url" : [ "https://twitter.com/typefiend", "https://www.poketo.com/pages/creative-spaces" ],
+        "published" : [ "2008-08-13T20:38:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307561033616171009/I-l369ti.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I demand from now on all rice be served this way.\n\nSource: facebook.com/732567673/post…",
+      "html" : "<div style=\"white-space: pre\">I demand from now on all rice be served this way.\n\nSource: <a href=\"https://www.facebook.com/732567673/posts/10159275470707674/\">facebook.com/732567673/post…</a></div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E5DjLpjXEAU_rGJ.jpg" ]
+  }
+}
