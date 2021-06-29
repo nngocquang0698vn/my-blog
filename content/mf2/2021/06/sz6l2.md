@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kristal100/status/1409734070045601797" ],
     "name" : [ "Like of @kristal100's tweet" ],
     "published" : [ "2021-06-29T16:18:00+0100" ],
     "category" : [ "politics" ],
