@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409628284867035136" ],
+    "url" : [ "https://twitter.com/ninjanails/status/1409628284867035136" ],
+    "published" : [ "2021-06-28T21:42:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ninjanails" ],
+        "numeric-id" : [ "167740453" ],
+        "name" : [ "Seren Davies" ],
+        "nickname" : [ "ninjanails" ],
+        "url" : [ "https://twitter.com/ninjanails", "http://www.serendavies.me", "http://ninjanails.com" ],
+        "published" : [ "2010-07-17T11:06:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Oxford / Bristol" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146364466801577985/TvCfb49a.jpg" ]
+      }
+    } ],
+    "content" : [ "Today was my birthday and I spent it eating steak, pub lunching with my friends, spending beer tokens from my uncle and playing video games! Man turning 26 was pretty awesome ☺️🥳" ]
+  }
+}
