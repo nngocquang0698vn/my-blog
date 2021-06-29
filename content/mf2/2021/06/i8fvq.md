@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1409945279923642376" ],
     "published" : [ "2021-06-29T19:36:00+0100" ],
     "category" : [ "github", "open-source" ],
     "repost-of" : [ "https://twitter.com/stacktrust/status/1409889683014918147" ],
