@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LEGO_Group/status/1409889489196101633" ],
     "name" : [ "Like of @LEGO_Group's tweet" ],
     "published" : [ "2021-06-29T23:11:00+0100" ],
     "category" : [ "lego", "gaming" ],
