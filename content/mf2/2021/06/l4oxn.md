@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/blkahn/status/1409291200495034368" ],
     "name" : [ "Like of @blkahn's tweet" ],
     "published" : [ "2021-06-29T16:17:00+0100" ],
     "category" : [ "climate-change" ],
