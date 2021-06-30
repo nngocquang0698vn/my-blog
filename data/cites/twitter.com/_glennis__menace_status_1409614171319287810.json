@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409614171319287810" ],
+    "url" : [ "https://twitter.com/glennis__menace/status/1409614171319287810" ],
+    "published" : [ "2021-06-28T20:46:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:glennis__menace" ],
+        "numeric-id" : [ "1346209471148781569" ],
+        "name" : [ "❣️glennis the menace❣️" ],
+        "nickname" : [ "glennis__menace" ],
+        "url" : [ "https://twitter.com/glennis__menace" ],
+        "published" : [ "2021-01-04T21:39:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "NY & LA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1388645498593099779/-4xl9ccx.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E4_0na_XMAQvgGw.jpg" ]
+  }
+}
