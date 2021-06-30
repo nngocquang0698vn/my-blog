@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Magg_Alexandria/status/1409478567163990020" ],
     "name" : [ "Like of @Magg_Alexandria's tweet" ],
     "published" : [ "2021-06-30T22:39:00+0100" ],
     "category" : [ "social-media" ],
