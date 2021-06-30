@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cherthedev/status/1410086349856808963" ],
     "name" : [ "Like of @cherthedev's tweet" ],
     "published" : [ "2021-06-30T09:06:00+0100" ],
     "category" : [ "remote-work", "apple" ],
