@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410037309848752128" ],
+    "url" : [ "https://twitter.com/eevee/status/1410037309848752128" ],
+    "published" : [ "2021-06-30T00:47:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ]
+      }
+    } ],
+    "content" : [ "github copilot has, by their own admission, been trained on mountains of gpl code, so i'm unclear on how it's not a form of laundering open source code into commercial works.  the handwave of \"it usually doesn't reproduce exact chunks\" is not very satisfying" ],
+    "photo" : [ "https://pbs.twimg.com/media/E5F1dSAUYAUIhDv.png" ]
+  }
+}
