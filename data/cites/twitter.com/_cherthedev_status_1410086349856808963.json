@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410086349856808963" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1410086349856808963" ],
+    "published" : [ "2021-06-30T04:02:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402469567876714496/MQcHcqHh.jpg" ]
+      }
+    } ],
+    "content" : [ "Saying that physical co-mingling is vital to innovation is literally telling your disabled and distributed employees that they aren't an imperative part of your inventions and growth, and identifying it as the catalyst removes all of the times one of those employees sparked it." ]
+  }
+}
