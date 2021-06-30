@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410268092186435593" ],
+    "url" : [ "https://twitter.com/andrestaltz/status/1410268092186435593" ],
+    "published" : [ "2021-06-30T16:04:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:andrestaltz" ],
+        "numeric-id" : [ "460451827" ],
+        "name" : [ "André Staltz" ],
+        "nickname" : [ "andrestaltz" ],
+        "url" : [ "https://twitter.com/andrestaltz", "https://staltz.com", "http://staltz.hermies.club" ],
+        "published" : [ "2012-01-10T19:36:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Helsinki, Finland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1124999950155304960/tSd7FMbi.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If Microsoft loves open source, then just make Copilot open source. It would be the bare minimum fair thing to do since without all that open source training data set, they would not be able to build it.\n\nBut no, they want to monetize it.",
+      "html" : "<div style=\"white-space: pre\">If Microsoft loves open source, then just make Copilot open source. It would be the bare minimum fair thing to do since without all that open source training data set, they would not be able to build it.\n\nBut no, they want to monetize it.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E5JHWcEWYAcRtH5.png" ]
+  }
+}
