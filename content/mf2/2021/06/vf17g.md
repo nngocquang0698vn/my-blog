@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andrestaltz/status/1410268092186435593" ],
     "name" : [ "Like of @andrestaltz's tweet" ],
     "published" : [ "2021-06-30T18:39:00+0100" ],
     "category" : [ "microsoft", "github" ],
