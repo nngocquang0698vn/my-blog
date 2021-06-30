@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410101952139120643" ],
+    "url" : [ "https://twitter.com/BenLesh/status/1410101952139120643" ],
+    "published" : [ "2021-06-30T05:04:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:BenLesh" ],
+        "numeric-id" : [ "23795212" ],
+        "name" : [ "Ben Lesh 🎨💻🎮" ],
+        "nickname" : [ "BenLesh" ],
+        "url" : [ "https://twitter.com/BenLesh", "https://rxjs.dev" ],
+        "published" : [ "2009-03-11T17:28:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1001705822437638144/2JzRKVvH.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Companies who don't support full remote are currently losing candidates to companies that do.\n\nCANDIDATES. \n\nIf people who don't even work for you yet are moving on to look somewhere else, what do you think your current employees are doing?",
+      "html" : "<div style=\"white-space: pre\">Companies who don't support full remote are currently losing candidates to companies that do.\n\nCANDIDATES. \n\nIf people who don't even work for you yet are moving on to look somewhere else, what do you think your current employees are doing?</div>"
+    } ]
+  }
+}
