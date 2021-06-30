@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409478567163990020" ],
+    "url" : [ "https://twitter.com/Magg_Alexandria/status/1409478567163990020" ],
+    "published" : [ "2021-06-28T11:47:31+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Magg_Alexandria" ],
+        "numeric-id" : [ "170457753" ],
+        "name" : [ "Ⓜ️ags" ],
+        "nickname" : [ "Magg_Alexandria" ],
+        "url" : [ "https://twitter.com/Magg_Alexandria" ],
+        "published" : [ "2010-07-24T22:10:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Atlanta" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1405290079086546944/IeNutlMG.jpg" ]
+      }
+    } ],
+    "content" : [ "Cancel Catfish and create a show where they track down internet trolls and reveal who they are in real life." ]
+  }
+}
