@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomgara/status/1290035575756480512" ],
     "name" : [ "Like of @tomgara's tweet" ],
     "published" : [ "2021-06-30T16:14:00+0100" ],
     "like-of" : [ "https://twitter.com/tomgara/status/1290035575756480512" ],
