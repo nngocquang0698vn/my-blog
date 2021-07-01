@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OhNoSheTwitnt/status/1410289911085912069" ],
     "name" : [ "Like of @OhNoSheTwitnt's tweet" ],
     "published" : [ "2021-07-01T10:13:00+0100" ],
     "like-of" : [ "https://twitter.com/OhNoSheTwitnt/status/1410289911085912069" ],
