@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410220380879347715" ],
+    "url" : [ "https://twitter.com/alfiannco/status/1410220380879347715" ],
+    "published" : [ "2021-06-30T12:55:14+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/florinpop1705/status/1410220146946457600" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:alfiannco" ],
+        "numeric-id" : [ "1379418720666218497" ],
+        "name" : [ "Alfian Ridwan 🇸🇬" ],
+        "nickname" : [ "alfiannco" ],
+        "url" : [ "https://twitter.com/alfiannco", "https://alfian.co" ],
+        "published" : [ "2021-04-06T13:00:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Singapore" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410200091122487301/0zJB2-Ts.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "one that produces 1000x the value he was paid/hired for",
+      "html" : "one that produces 1000x the value he was paid/hired for\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/florinpop1705\"></a>"
+    } ]
+  }
+}
