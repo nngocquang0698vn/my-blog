@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410517110464430081" ],
+    "url" : [ "https://twitter.com/IamStan/status/1410517110464430081" ],
+    "published" : [ "2021-07-01T08:34:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IamStan" ],
+        "numeric-id" : [ "14879896" ],
+        "name" : [ "Ant Stanley #BLM" ],
+        "nickname" : [ "IamStan" ],
+        "url" : [ "https://twitter.com/IamStan", "https://homeschool.dev" ],
+        "published" : [ "2008-05-23T10:13:37+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brexit Island" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395090528253919233/_MlT_T-y.jpg" ]
+      }
+    } ],
+    "content" : [ "Last Copilot hot take. MS/Github have used their dominant market position as the largest source of public code in the world to build a closed proprietary service, without the explicit consent of their customers." ]
+  }
+}
