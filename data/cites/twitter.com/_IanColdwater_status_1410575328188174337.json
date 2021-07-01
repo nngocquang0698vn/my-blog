@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410575328188174337" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1410575328188174337" ],
+    "published" : [ "2021-07-01T12:25:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://lookitup.baby" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386093892987080707/Y2FkJaVX.jpg" ]
+      }
+    } ],
+    "content" : [ "I'd just like to interject for a moment.  What you're referring to as Copilot, is in fact, GNU/Copilot, or as I've recently taken to calling it, GNU code trained Copilot. Copilot is not an AI system unto itself, but rather a proprietary component that launders GNU code" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1410067860299255810" ],
+      "url" : [ "https://twitter.com/eevee/status/1410067860299255810" ],
+      "published" : [ "2021-06-30T02:49:10+00:00" ],
+      "in-reply-to" : [ "https://twitter.com/pfctdayelise/status/1410063455273377793" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:eevee" ],
+          "numeric-id" : [ "14412937" ],
+          "name" : [ "eevee" ],
+          "nickname" : [ "eevee" ],
+          "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ],
+          "published" : [ "2008-04-16T21:08:32+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Colorado Springs, CO" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "\"Once, GitHub Copilot suggested starting an empty file with something it had even seen more than a whopping 700,000 different times during training -- that was the GNU General Public License.\"\ndocs.github.com/en/github/copi…",
+        "html" : "<div style=\"white-space: pre\">\"Once, GitHub Copilot suggested starting an empty file with something it had even seen more than a whopping 700,000 different times during training -- that was the GNU General Public License.\"\n<a href=\"https://docs.github.com/en/github/copilot/research-recitation\">docs.github.com/en/github/copi…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pfctdayelise\"></a>"
+      } ]
+    }
+  } ]
+}
