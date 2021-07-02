@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410854848623525889" ],
+    "url" : [ "https://twitter.com/FloorDrees/status/1410854848623525889" ],
+    "published" : [ "2021-07-02T06:56:22+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:FloorDrees" ],
+        "numeric-id" : [ "16541865" ],
+        "name" : [ "Floor, but political 💉 🌈" ],
+        "nickname" : [ "FloorDrees" ],
+        "url" : [ "https://twitter.com/FloorDrees" ],
+        "published" : [ "2008-10-01T08:57:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1381961383638564864/FkBywYgg.jpg" ]
+      }
+    } ],
+    "content" : [ "OK I've been in bed scrolling Infinidash, copilot and infosec bikini tweets for quite long enough now." ]
+  }
+}
