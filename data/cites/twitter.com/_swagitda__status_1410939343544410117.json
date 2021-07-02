@@ -1,0 +1,66 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410939343544410117" ],
+    "url" : [ "https://twitter.com/swagitda_/status/1410939343544410117" ],
+    "published" : [ "2021-07-02T12:32:08+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:swagitda_" ],
+        "numeric-id" : [ "2746269050" ],
+        "name" : [ "Kelly Shortridge" ],
+        "nickname" : [ "swagitda_" ],
+        "url" : [ "https://twitter.com/swagitda_", "http://swagitda.com", "http://verica.io/sce-book/" ],
+        "published" : [ "2014-08-19T19:23:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Solitude" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1232389412366864384/vLm3YolZ.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I have more stories than I could begin to recount about harrowing interactions with and harassment by men at defcon and Black Hat. \n\nIncluding when I was a speaker. Including when I was in modest professional dress. Including in the morning, everyone sober. It’s relentless there.",
+      "html" : "<div style=\"white-space: pre\">I have more stories than I could begin to recount about harrowing interactions with and harassment by men at defcon and Black Hat. \n\nIncluding when I was a speaker. Including when I was in modest professional dress. Including in the morning, everyone sober. It’s relentless there.</div>\n<a class=\"tag\" href=\"https://twitter.com/mshannahmurphy/status/1410615538607296517\">twitter.com/mshannahmurphy…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1410615538607296517" ],
+      "url" : [ "https://twitter.com/MsHannahMurphy/status/1410615538607296517" ],
+      "published" : [ "2021-07-01T15:05:27+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:MsHannahMurphy" ],
+          "numeric-id" : [ "284194876" ],
+          "name" : [ "Hannah Murphy" ],
+          "nickname" : [ "MsHannahMurphy" ],
+          "url" : [ "https://twitter.com/MsHannahMurphy", "http://www.instagram.com/mshannahmurphy" ],
+          "published" : [ "2011-04-18T20:30:19+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "San Francisco, CA " ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1159124037349433344/pqwRiDW4.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Why #infosecbikini matters:\nAt 2019 @defcon I went to the bathroom and a woman was weeping. She'd been at a stall trying to crack some cryptogram puzzles and the man in charge told her it'd be complex for her, she should to go to the \"babies stall\". She had a PhD in cryptography.",
+        "html" : "<div style=\"white-space: pre\">Why <a href=\"https://twitter.com/search?q=%23infosecbikini\">#infosecbikini</a> matters:\nAt 2019 <a href=\"https://twitter.com/defcon\">@defcon</a> I went to the bathroom and a woman was weeping. She'd been at a stall trying to crack some cryptogram puzzles and the man in charge told her it'd be complex for her, she should to go to the \"babies stall\". She had a PhD in cryptography.</div>"
+      } ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/mshannahmurphy…" ],
+      "url" : [ "https://twitter.com/mshannahmurphy/status/1410615538607296517" ]
+    }
+  } ]
+}
