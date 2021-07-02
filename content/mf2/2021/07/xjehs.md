@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rutherdan/status/1410404937251516416" ],
     "name" : [ "Like of @rutherdan's tweet" ],
     "published" : [ "2021-07-02T09:03:00+0100" ],
     "category" : [ "politics", "climate-change" ],
