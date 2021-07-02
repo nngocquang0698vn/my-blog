@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swagitda_/status/1410939343544410117" ],
     "name" : [ "Like of @swagitda_'s tweet" ],
     "published" : [ "2021-07-02T13:45:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
