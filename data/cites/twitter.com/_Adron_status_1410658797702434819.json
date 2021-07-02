@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410658797702434819" ],
+    "url" : [ "https://twitter.com/Adron/status/1410658797702434819" ],
+    "published" : [ "2021-07-01T17:57:20+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Adron/status/1410658754450788353" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Adron" ],
+        "numeric-id" : [ "16063910" ],
+        "name" : [ "Adron" ],
+        "nickname" : [ "Adron" ],
+        "url" : [ "https://twitter.com/Adron", "http://compositecode.blog", "http://twitch.tv/thrashingcode/" ],
+        "published" : [ "2008-08-31T05:56:04+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ballard, Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354496272745472002/4nmju63-.jpg" ]
+      }
+    } ],
+    "content" : [ "On that note, got a favorite theme?" ]
+  }
+}
