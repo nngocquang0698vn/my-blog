@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FloorDrees/status/1410854848623525889" ],
     "name" : [ "Like of @FloorDrees's tweet" ],
     "published" : [ "2021-07-02T09:37:00+0100" ],
     "category" : [ "social-media" ],
