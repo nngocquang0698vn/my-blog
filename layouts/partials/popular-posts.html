@@ -4,21 +4,6 @@
 
   {{ $limit := 20 }}
   <h2>Most Popular {{ $limit }} Pages (today)</h2>
-  {{ $analytics := getJSON "https://www-api.jvt.me/analytics/pages" }}
 
-  <table>
-    <tr>
-      <th>Page Title</th>
-      <th>Number of Visits</th>
-      <th>Number of Unique Visits</th>
-    </tr>
-
-    {{ range (first $limit (index $analytics "pages" ))}}
-    <tr>
-      <td>{{ index . "title" }}</td>
-      <td>{{ index . "visits" }}</td>
-      <td>{{ index . "unique_visits" }}</td>
-    </tr>
-    {{ end }}
-  </table>
+  <p>2021-07-02: Sorry, this is temporarily disabled as I'm not sure it's providing much benefit.</p>
 </article>
