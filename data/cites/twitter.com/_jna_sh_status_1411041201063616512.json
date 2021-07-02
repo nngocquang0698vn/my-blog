@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411041201063616512" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1411041201063616512" ],
+    "published" : [ "2021-07-02T19:16:52+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe Nash" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342401247522004992/QOCvBRO6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "There's a lot of extra context needed in async comms, including clear communication of trust, expectations, and deliverables. Here's an example from my talk on remote/async work to highlight the difference. \nIt looks like a lot, but it pays back in saved time and stress quickly. ",
+      "html" : "<div style=\"white-space: pre\">There's a lot of extra context needed in async comms, including clear communication of trust, expectations, and deliverables. Here's an example from my talk on remote/async work to highlight the difference. \nIt looks like a lot, but it pays back in saved time and stress quickly. </div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E5UGRyNXoAMyzGN.jpg", "https://pbs.twimg.com/media/E5UGRyMX0AA4upT.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1410987978944565249" ],
+      "url" : [ "https://twitter.com/radiomorillo/status/1410987978944565249" ],
+      "published" : [ "2021-07-02T15:45:23+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:radiomorillo" ],
+          "numeric-id" : [ "102899720" ],
+          "name" : [ "Stephanie Morillo" ],
+          "nickname" : [ "radiomorillo" ],
+          "url" : [ "https://twitter.com/radiomorillo", "http://stephaniemorillo.co/links" ],
+          "published" : [ "2010-01-08T05:50:38+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Pronounced moh-REE-yoh 🇩🇴🗽" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1342951939684921345/OAYbLWrx.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Sufficient communication in remote/async environments often feels like over communication.\n\nBut in the absence of being “seen”, people perceive their requests disappearing into the ether, not knowing if they’re being worked on. Communicating frequently helps ease those concerns.",
+        "html" : "<div style=\"white-space: pre\">Sufficient communication in remote/async environments often feels like over communication.\n\nBut in the absence of being “seen”, people perceive their requests disappearing into the ether, not knowing if they’re being worked on. Communicating frequently helps ease those concerns.</div>"
+      } ]
+    }
+  } ]
+}
