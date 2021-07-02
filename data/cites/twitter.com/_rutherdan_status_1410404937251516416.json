@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410404937251516416" ],
+    "url" : [ "https://twitter.com/rutherdan/status/1410404937251516416" ],
+    "published" : [ "2021-07-01T01:08:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rutherdan" ],
+        "numeric-id" : [ "887906528" ],
+        "name" : [ "Dan Rutherford" ],
+        "nickname" : [ "rutherdan" ],
+        "url" : [ "https://twitter.com/rutherdan", "https://scholar.google.com/citations?user=2chBeCsAAAAJ&hl=en&oi=ao" ],
+        "published" : [ "2012-10-18T01:47:56+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Mountain View, CA." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379966731695747075/hxPDsZxz.jpg" ]
+      }
+    } ],
+    "content" : [ "A proposal: all international climate negotiations should be held in 45 degree C rooms." ]
+  }
+}
