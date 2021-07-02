@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410837145275621378" ],
+    "url" : [ "https://twitter.com/matvelloso/status/1410837145275621378" ],
+    "published" : [ "2021-07-02T05:46:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:matvelloso" ],
+        "numeric-id" : [ "35414986" ],
+        "name" : [ "Mat Velloso" ],
+        "nickname" : [ "matvelloso" ],
+        "url" : [ "https://twitter.com/matvelloso", "http://www.matvelloso.com" ],
+        "published" : [ "2009-04-26T05:52:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "You can type anything here! " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369394566210666498/DABNNey7.jpg" ]
+      }
+    } ],
+    "content" : [ "Wife sent this to me this morning after my automated lights in the closet failed to turn on for her. 😞" ],
+    "photo" : [ "https://pbs.twimg.com/media/E5RM6B-VoAYNqnV.jpg" ]
+  }
+}
