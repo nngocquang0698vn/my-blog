@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1410178986978775040" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2021-07-02T18:10:00+0100" ],
     "category" : [ "shitpost", "aws" ],
