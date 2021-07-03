@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410676078830489604" ],
+    "url" : [ "https://twitter.com/rubyconf/status/1410676078830489604" ],
+    "published" : [ "2021-07-01T19:06:00+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rubyconf" ],
+        "numeric-id" : [ "16222737" ],
+        "name" : [ "RubyConf" ],
+        "nickname" : [ "rubyconf" ],
+        "url" : [ "https://twitter.com/rubyconf", "http://rubyconf.org/register" ],
+        "published" : [ "2008-09-10T15:53:47+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Your computer + Denver, CO" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1382736531660496897/oig8N5il.jpg" ]
+      }
+    } ],
+    "content" : [ "Today our board has agreed to not organize conferences in states with passed or pending transphobic or anti-LGBTQ legislation. This includes medical conscience laws, bills banning trans kids from sports, or access to gender affirming healthcare." ]
+  }
+}
