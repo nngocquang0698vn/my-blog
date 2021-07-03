@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MurphyWoodhouse/status/1411015065936011265" ],
     "name" : [ "Like of @MurphyWoodhouse's tweet" ],
     "published" : [ "2021-07-03T22:28:00+0100" ],
     "category" : [ "politics" ],
