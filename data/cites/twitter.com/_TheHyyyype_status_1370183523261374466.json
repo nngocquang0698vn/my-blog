@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1370183523261374466" ],
+    "url" : [ "https://twitter.com/TheHyyyype/status/1370183523261374466" ],
+    "published" : [ "2021-03-12T01:23:03+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/TheHyyyype/status/1370119310727860232" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:TheHyyyype" ],
+        "numeric-id" : [ "242906748" ],
+        "name" : [ "the hype" ],
+        "nickname" : [ "TheHyyyype" ],
+        "url" : [ "https://twitter.com/TheHyyyype", "https://twitter.com/search?q=from%3Athehyyyype%20-filter%3Areplies&s" ],
+        "published" : [ "2011-01-25T21:38:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "in a dumpster" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402406766000869377/XBy0a9GE.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "to all the rich ppl defenders:\n\n1. rich ppl aren't gonna fuck you\n\n2. nothing wrong with getting help from your parents, but if all of your success is owed to the fact that your rich parents helped you your whole life, you're not qualified to give financial or budgeting advice",
+      "html" : "<div style=\"white-space: pre\">to all the rich ppl defenders:\n\n1. rich ppl aren't gonna fuck you\n\n2. nothing wrong with getting help from your parents, but if all of your success is owed to the fact that your rich parents helped you your whole life, you're not qualified to give financial or budgeting advice</div>"
+    } ]
+  }
+}
