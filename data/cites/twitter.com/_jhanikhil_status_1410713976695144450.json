@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410713976695144450" ],
+    "url" : [ "https://twitter.com/jhanikhil/status/1410713976695144450" ],
+    "published" : [ "2021-07-01T21:36:36+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jhanikhil" ],
+        "numeric-id" : [ "115820938" ],
+        "name" : [ "Nikhil" ],
+        "nickname" : [ "jhanikhil" ],
+        "url" : [ "https://twitter.com/jhanikhil", "https://nikhiljha.com/" ],
+        "published" : [ "2010-02-20T02:41:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/967968880030199809/OoWWwfSb.jpg" ]
+      }
+    } ],
+    "content" : [ "in cursed news: today I wrote some Kubernetes YAML that is *also* valid AT&T syntax x86_64 assembly (both print hello world)" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E5PcEycWYAEDlQ2.jpg",
+      "alt" : "kubeajsd:\n  .data\nmsg:\n  .asciz \"Hello, world!\\n\"\nmeme:\n  .text\n  .global _main\n_main: mov $0x02000004, %rax\nkubeaa: mov $1, %rdi /*\napiVersion: apps/v1\nkind: Deployment\nmetadata:\n  kube2: aa */\n  name: nop\nspec:\n  kube5: mov msg@GOTPCREL(%rip), %rsi /*\n  replicas: 1\n  selector:\n    matchLabels:\n      app: Nop\n  kube6: aa */\n  template:\n    metadata:\n      labels:\n        app: Nop\n    kube3: mov $13, %rdx /*\n    spec:\n      containers:\n      - image: gcr.io/google_containers/echoserver:1.0\n        imagePullPolicy: Always\n        name: echoserver\n        ports:\n        - containerPort: 8080\n    kube4: aa */\n    kube9:\n      syscall\n      mov   $0x02000001, %rax\n      xor   $0, %rdi\n      syscall\n"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E5PcEydWYAEAwFp.jpg",
+      "alt" : "$ kubectl apply -f cursed.yaml.s --validate=false\ndeployment.apps/nop created\n$ as -target x86_64-apple-macos10.12 cursed.yaml.s -o hello_world.o\n$ ld -macosx_version_min 10.12 hello_world.o -o hello_world -lSystem -L /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib \n$ ./hello_world\nHello, world!"
+    } ]
+  }
+}
