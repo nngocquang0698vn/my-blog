@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411068553935998977" ],
+    "url" : [ "https://twitter.com/seldo/status/1411068553935998977" ],
+    "published" : [ "2021-07-02T21:05:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "numeric-id" : [ "15453" ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "California" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364001393384718338/Vb4hjqrv.jpg" ]
+      }
+    } ],
+    "content" : [ "I was talking to somebody yesterday about how adulthood is so exhausting and she pointed out that until we were adults we got like 18-22 *weeks* of vacation per year." ]
+  }
+}
