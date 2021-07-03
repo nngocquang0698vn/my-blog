@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411188112085053442" ],
+    "url" : [ "https://twitter.com/checarina/status/1411188112085053442" ],
+    "published" : [ "2021-07-03T05:00:39+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:checarina" ],
+        "numeric-id" : [ "32920251" ],
+        "name" : [ "carina (adult human sbemail 💌)" ],
+        "nickname" : [ "checarina" ],
+        "url" : [ "https://twitter.com/checarina", "https://medium.com/@checarina", "https://ko-fi.com/checarina" ],
+        "published" : [ "2009-04-18T15:49:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Cosmo Canyon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1147739803280171008/VJMb1yBR.jpg" ]
+      }
+    } ],
+    "content" : [ "did i do this right" ],
+    "photo" : [ "https://pbs.twimg.com/media/E5WMFCtUUAQPWCT.jpg" ]
+  }
+}
