@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411015065936011265" ],
+    "url" : [ "https://twitter.com/MurphyWoodhouse/status/1411015065936011265" ],
+    "published" : [ "2021-07-02T17:33:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MurphyWoodhouse" ],
+        "numeric-id" : [ "788597042" ],
+        "name" : [ "Murphy Woodhouse" ],
+        "nickname" : [ "MurphyWoodhouse" ],
+        "url" : [ "https://twitter.com/MurphyWoodhouse" ],
+        "published" : [ "2012-08-29T05:21:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Hermosillo, Sonora" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356427631911084034/vW4BjgH6.jpg" ]
+      }
+    } ],
+    "content" : [ "Marijuana use irresponsible say organizers of mass, global sporting event amid pandemic." ]
+  }
+}
