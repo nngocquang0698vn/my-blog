@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410971061181681674" ],
+    "url" : [ "https://twitter.com/StefanKarpinski/status/1410971061181681674" ],
+    "published" : [ "2021-07-02T14:38:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:StefanKarpinski" ],
+        "numeric-id" : [ "20333349" ],
+        "name" : [ "Stefan Karpinski" ],
+        "nickname" : [ "StefanKarpinski" ],
+        "url" : [ "https://twitter.com/StefanKarpinski", "http://karpinski.org/" ],
+        "published" : [ "2009-02-07T21:10:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2781957622/2355b81b64e21b4f42f466e08ca56de9.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "In case it's not clear what's happening here: @github's Copilot \"autocompletes\" the fast inverse square root implementation from Quake III — which is GPL2+ code. It then autocompletes a BSD2 license comment (with the wrong copyright holder). This is fine.",
+      "html" : "In case it's not clear what's happening here: <a href=\"https://twitter.com/github\">@github</a>'s Copilot \"autocompletes\" the fast inverse square root implementation from Quake III — which is GPL2+ code. It then autocompletes a BSD2 license comment (with the wrong copyright holder). This is fine."
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1410886329924194309" ],
+      "url" : [ "https://twitter.com/mitsuhiko/status/1410886329924194309" ],
+      "video" : [ "https://video.twimg.com/tweet_video/E5R5lsfXoAQDRkE.mp4" ],
+      "published" : [ "2021-07-02T09:01:28+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:mitsuhiko" ],
+          "numeric-id" : [ "12963432" ],
+          "name" : [ "Armin Ronacher" ],
+          "nickname" : [ "mitsuhiko" ],
+          "url" : [ "https://twitter.com/mitsuhiko", "http://lucumr.pocoo.org/" ],
+          "published" : [ "2008-02-01T23:12:59+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Vienna, Austria" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1433982028/profile.png" ]
+        }
+      } ],
+      "content" : [ "I don't want to say anything but that's not the right license Mr Copilot." ]
+    }
+  } ]
+}
