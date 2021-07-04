@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411058236321681414" ],
+    "url" : [ "https://twitter.com/pkell7/status/1411058236321681414" ],
+    "published" : [ "2021-07-02T20:24:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pkell7" ],
+        "numeric-id" : [ "4700259223" ],
+        "name" : [ "Patrick Kelly" ],
+        "nickname" : [ "pkell7" ],
+        "url" : [ "https://twitter.com/pkell7", "http://github.com/entomy" ],
+        "published" : [ "2016-01-03T03:26:01+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Fort Covington, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789289401197137921/BcAsGMnr.jpg" ]
+      }
+    } ],
+    "content" : [ "Fucking lol 😆😆😆" ],
+    "photo" : [ "https://pbs.twimg.com/media/E5UV8jtWYAAt-BI.jpg" ]
+  }
+}
