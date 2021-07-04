@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411291183620542467" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1411291183620542467" ],
+    "published" : [ "2021-07-03T11:50:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://lookitup.baby" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411174227848404993/tue8eDYB.jpg" ]
+      }
+    } ],
+    "content" : [ "I don't know who needs to hear this, but AWS Infinidash is a really elaborate devops Twitter shitpost that is intentionally nonsensical, so if you've never heard of this nonexistent service and/or it makes no sense to you, it's not you and you're not dumb 🤗" ]
+  }
+}
