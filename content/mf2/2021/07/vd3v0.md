@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1411728529817997319" ],
     "published" : [ "2021-07-04T17:40:00+0100" ],
     "category" : [ "social-media", "aws" ],
     "repost-of" : [ "https://twitter.com/IanColdwater/status/1411291183620542467" ],
