@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/type__error/status/1411619848388493312" ],
     "name" : [ "Like of @type__error's tweet" ],
     "published" : [ "2021-07-04T10:40:00+0100" ],
     "category" : [ "coronavirus" ],
