@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411619848388493312" ],
+    "url" : [ "https://twitter.com/type__error/status/1411619848388493312" ],
+    "published" : [ "2021-07-04T09:36:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ]
+      }
+    } ],
+    "content" : [ "I’m very worried about the govt’s plans to remove all restrictions from 19 Jul and this thread sums up why" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1411595103064440833" ],
+      "url" : [ "https://twitter.com/amateuradam/status/1411595103064440833" ],
+      "published" : [ "2021-07-04T07:57:53+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:amateuradam" ],
+          "numeric-id" : [ "21765319" ],
+          "name" : [ "Adam Kay" ],
+          "nickname" : [ "amateuradam" ],
+          "url" : [ "https://twitter.com/amateuradam", "http://www.adamkay.co.uk" ],
+          "published" : [ "2009-02-24T15:56:59+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Bookshelf / pulping machine" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2275006051/7ocjnoyiccmwiw3l4yn3.png" ]
+        }
+      } ],
+      "content" : [ "A lot of people asking what the problem is with \"just trusting the vaccine\". A few problems that occur to me: a) No vaccine is 100% effective. Even if only 5% of people are susceptible, that's literally millions of people in the UK. b) Half the country aren't fully vaccinated 1/3" ]
+    }
+  } ]
+}
