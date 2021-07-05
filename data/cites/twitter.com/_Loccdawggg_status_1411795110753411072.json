@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411795110753411072" ],
+    "url" : [ "https://twitter.com/Loccdawggg/status/1411795110753411072" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1411795048778321920/pu/vid/576x1024/xGT4g6NZp-5fRU7h.mp4?tag=12" ],
+    "published" : [ "2021-07-04T21:12:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Loccdawggg" ],
+        "numeric-id" : [ "1150576385058070534" ],
+        "name" : [ "Sesame Chiccen" ],
+        "nickname" : [ "Loccdawggg" ],
+        "url" : [ "https://twitter.com/Loccdawggg", "http://instagram.com/shotsbysesame" ],
+        "published" : [ "2019-07-15T01:22:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Where the Locs at" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380337293647618053/Wf-C0ris.jpg" ]
+      }
+    } ],
+    "content" : [ "Not gonna hold you this looks fun as shit" ]
+  }
+}
