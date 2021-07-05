@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412020495785074691" ],
+    "url" : [ "https://twitter.com/cnlester/status/1412020495785074691" ],
+    "published" : [ "2021-07-05T12:08:14+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:cnlester" ],
+        "numeric-id" : [ "222445092" ],
+        "name" : [ "Dr CN Lester" ],
+        "nickname" : [ "cnlester" ],
+        "url" : [ "https://twitter.com/cnlester", "http://www.cnlester.com" ],
+        "published" : [ "2010-12-03T12:55:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1047236307267796993/IpVJ7q1j.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Existing as a trans person in the UK is very weird right now: apparently cis gatekeepers should have the right to determine what I can do with my body for my entire life, but asking people to wear a mask during a global health emergency is a bridge too far? \n\nMake it make sense.",
+      "html" : "<div style=\"white-space: pre\">Existing as a trans person in the UK is very weird right now: apparently cis gatekeepers should have the right to determine what I can do with my body for my entire life, but asking people to wear a mask during a global health emergency is a bridge too far? \n\nMake it make sense.</div>"
+    } ]
+  }
+}
