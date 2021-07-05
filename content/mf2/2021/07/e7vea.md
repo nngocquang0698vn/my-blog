@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cnlester/status/1412020495785074691" ],
     "name" : [ "Like of @cnlester's tweet" ],
     "published" : [ "2021-07-05T17:54:00+0100" ],
     "category" : [ "politics", "diversity-and-inclusion", "coronavirus" ],
