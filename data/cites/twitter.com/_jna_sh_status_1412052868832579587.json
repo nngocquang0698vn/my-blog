@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412052868832579587" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1412052868832579587" ],
+    "published" : [ "2021-07-05T14:16:53+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "name" : [ "Joe Nash" ],
+        "nickname" : [ "jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342401247522004992/QOCvBRO6.jpg" ]
+      }
+    } ],
+    "content" : [ "Oh fuck oh no" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1412049442673471496" ],
+      "url" : [ "https://twitter.com/newsycombinator/status/1412049442673471496" ],
+      "published" : [ "2021-07-05T14:03:16+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:newsycombinator" ],
+          "numeric-id" : [ "14335498" ],
+          "name" : [ "Hacker News" ],
+          "nickname" : [ "newsycombinator" ],
+          "url" : [ "https://twitter.com/newsycombinator", "http://news.ycombinator.com/" ],
+          "published" : [ "2008-04-08T19:58:28+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "The Internet" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional theregister.com/2021/07/05/inf…",
+        "html" : "New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional <a href=\"https://www.theregister.com/2021/07/05/infinidash/\">theregister.com/2021/07/05/inf…</a>"
+      } ]
+    }
+  } ]
+}
