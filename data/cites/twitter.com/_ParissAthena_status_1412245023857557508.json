@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412245023857557508" ],
+    "url" : [ "https://twitter.com/ParissAthena/status/1412245023857557508" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1412244961488158723/pu/vid/576x1024/js5t1H2rABElxIJ6.mp4?tag=12" ],
+    "published" : [ "2021-07-06T03:00:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ParissAthena" ],
+        "numeric-id" : [ "1030656907038609408" ],
+        "name" : [ "Pariss Athena | Founder of Black Tech Pipeline" ],
+        "nickname" : [ "ParissAthena" ],
+        "url" : [ "https://twitter.com/ParissAthena", "https://www.blacktechpipeline.com" ],
+        "published" : [ "2018-08-18T03:25:30+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409568406056149002/bUA76krf.jpg" ]
+      }
+    } ],
+    "content" : [ "Whew, this isn’t just exposing TikTok. This is how all these platforms work, more or less." ]
+  }
+}
