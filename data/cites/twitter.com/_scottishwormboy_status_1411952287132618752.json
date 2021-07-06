@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1411952287132618752" ],
+    "url" : [ "https://twitter.com/scottishwormboy/status/1411952287132618752" ],
+    "published" : [ "2021-07-05T07:37:12+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:scottishwormboy" ],
+        "numeric-id" : [ "331583882" ],
+        "name" : [ "Steve Paterson" ],
+        "nickname" : [ "scottishwormboy" ],
+        "url" : [ "https://twitter.com/scottishwormboy", "http://www.liv.ac.uk/genomic-research" ],
+        "published" : [ "2011-07-08T11:57:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1244326210504720384/fNlPv7Vp.jpg" ]
+      }
+    } ],
+    "content" : [ "Letting a virus rip through a partially vaccinated population is exactly the experiment I’d do to evolve a virus able to evade immunity" ]
+  }
+}
