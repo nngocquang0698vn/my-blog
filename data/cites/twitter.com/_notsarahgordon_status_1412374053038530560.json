@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412374053038530560" ],
+    "url" : [ "https://twitter.com/notsarahgordon/status/1412374053038530560" ],
+    "published" : [ "2021-07-06T11:33:09+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:notsarahgordon" ],
+        "numeric-id" : [ "15858747" ],
+        "name" : [ "Sarah Gordon 🐍" ],
+        "nickname" : [ "notsarahgordon" ],
+        "url" : [ "https://twitter.com/notsarahgordon", "http://sarahgordon.art" ],
+        "published" : [ "2008-08-15T02:15:21+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Behind you." ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311640470343372801/fHS_01EQ.jpg" ]
+      }
+    } ],
+    "content" : [ "Thanks, ominous reassurances frog. I needed to hear that today." ],
+    "photo" : [ "https://pbs.twimg.com/media/E5nCtk8XMAU6ACL.jpg" ]
+  }
+}
