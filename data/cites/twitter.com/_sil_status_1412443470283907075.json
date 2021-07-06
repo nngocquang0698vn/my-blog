@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412443470283907075" ],
+    "url" : [ "https://twitter.com/sil/status/1412443470283907075" ],
+    "published" : [ "2021-07-06T16:08:59+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/jesslynnrose/status/1412422589981601800" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sil" ],
+        "numeric-id" : [ "1389781" ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "write a website. So it's reviewable after the fact, at anyone's own chosen pace, can be subscribed to, works everywhere, doesn't need a special app, and one can forward links to it to other people to pass on suggestions.",
+      "html" : "write a website. So it's reviewable after the fact, at anyone's own chosen pace, can be subscribed to, works everywhere, doesn't need a special app, and one can forward links to it to other people to pass on suggestions.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jesslynnrose\"></a>"
+    } ]
+  }
+}
