@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412405246802944003" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1412405246802944003" ],
+    "published" : [ "2021-07-06T13:37:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "name" : [ "● Sarah Drasner ●" ],
+        "nickname" : [ "sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras", "http://codepen.io/sdras" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "💥 Excited to announce... I wrote a book!\n\nA lot of engineering leaders worked to be best engineer they could be… and then we were promoted. It's tough to transition roles.\n\nI wrote the book I wish I had when I started leading teams.\n\nengmanagement.dev",
+      "html" : "<div style=\"white-space: pre\">💥 Excited to announce... I wrote a book!\n\nA lot of engineering leaders worked to be best engineer they could be… and then we were promoted. It's tough to transition roles.\n\nI wrote the book I wish I had when I started leading teams.\n\n<a href=\"https://www.engmanagement.dev/\">engmanagement.dev</a></div>"
+    } ]
+  }
+}
