@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412784340346576898" ],
+    "url" : [ "https://twitter.com/AstroKatie/status/1412784340346576898" ],
+    "published" : [ "2021-07-07T14:43:29+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AstroKatie" ],
+        "numeric-id" : [ "33773592" ],
+        "name" : [ "Katie Mack" ],
+        "nickname" : [ "AstroKatie" ],
+        "url" : [ "https://twitter.com/AstroKatie", "http://www.astrokatie.com/book" ],
+        "published" : [ "2009-04-21T02:22:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Raleigh, NC" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2818477708/0ef050189a11bb7f9cf56306f5d171bf.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I can't believe we STILL have to remind people of this after A YEAR AND A HALF but: \n\nIf your pet appears on the Zoom, you are REQUIRED to introduce it so the rest of us may address it by name",
+      "html" : "<div style=\"white-space: pre\">I can't believe we STILL have to remind people of this after A YEAR AND A HALF but: \n\nIf your pet appears on the Zoom, you are REQUIRED to introduce it so the rest of us may address it by name</div>"
+    } ]
+  }
+}
