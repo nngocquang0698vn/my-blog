@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412520375037071362" ],
+    "url" : [ "https://twitter.com/gonefairys/status/1412520375037071362" ],
+    "published" : [ "2021-07-06T21:14:35+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gonefairys" ],
+        "numeric-id" : [ "1353562090628206597" ],
+        "name" : [ "۵" ],
+        "nickname" : [ "gonefairys" ],
+        "url" : [ "https://twitter.com/gonefairys" ],
+        "published" : [ "2021-01-25T04:35:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "she/her" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360042727962890240/gkl__IpF.jpg" ]
+      }
+    } ],
+    "content" : [ "“You sleep a lot” thanks i’m trying to ignore reality" ]
+  }
+}
