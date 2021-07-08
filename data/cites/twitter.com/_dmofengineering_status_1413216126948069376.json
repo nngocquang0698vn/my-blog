@@ -1,0 +1,67 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413216126948069376" ],
+    "url" : [ "https://twitter.com/dmofengineering/status/1413216126948069376" ],
+    "published" : [ "2021-07-08T19:19:15+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dmofengineering" ],
+        "numeric-id" : [ "989316882422353921" ],
+        "name" : [ "DM of Engineering" ],
+        "nickname" : [ "dmofengineering" ],
+        "url" : [ "https://twitter.com/dmofengineering", "http://patreon.com/dmofengineering" ],
+        "published" : [ "2018-04-26T01:35:00+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The Basement" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989319601245769728/Hirg-zWU.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "If your AI processes AGPL licensed source code and thereby incorporates it, is your AI code required to be released to the public?\n\nRoll 3d6 and hire that many lawyers.",
+      "html" : "<div style=\"white-space: pre\">If your AI processes AGPL licensed source code and thereby incorporates it, is your AI code required to be released to the public?\n\nRoll 3d6 and hire that many lawyers.</div>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1413210879999442945" ],
+      "url" : [ "https://twitter.com/acdimalev/status/1413210879999442945" ],
+      "published" : [ "2021-07-08T18:58:24+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:acdimalev" ],
+          "numeric-id" : [ "47585865" ],
+          "name" : [ "'jamin" ],
+          "nickname" : [ "acdimalev" ],
+          "url" : [ "https://twitter.com/acdimalev" ],
+          "published" : [ "2009-06-16T09:30:34+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/957213828961333248/0Cq47GLj.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Anybody else wandering how \"machine learning\" laundering of copywritten works is going to hold up in court?",
+        "html" : "Anybody else wandering how \"machine learning\" laundering of copywritten works is going to hold up in court?\n<a class=\"tag\" href=\"https://twitter.com/dmofengineering/status/1412204601084944384\">twitter.com/dmofengineerin…</a>"
+      } ]
+    },
+    "children" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "twitter.com/dmofengineerin…" ],
+        "url" : [ "https://twitter.com/dmofengineering/status/1412204601084944384" ]
+      }
+    } ]
+  } ]
+}
