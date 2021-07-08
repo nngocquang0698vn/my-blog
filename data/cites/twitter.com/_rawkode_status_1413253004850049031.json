@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413253004850049031" ],
+    "url" : [ "https://twitter.com/rawkode/status/1413253004850049031" ],
+    "published" : [ "2021-07-08T21:45:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "name" : [ "David McKay" ],
+        "nickname" : [ "rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.com", "http://rawkode.live", "http://rawkode.chat", "http://rawko.de/office-hours" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353335680043249668/pl0F8NOm.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I've been working on something pretty cool at @equinixmetal ...\n\nI think y'all are going to like it.\n\nHave you met our good friends @PulumiCorp and @kubernetesio yet?",
+      "html" : "<div style=\"white-space: pre\">I've been working on something pretty cool at <a href=\"https://twitter.com/equinixmetal\">@equinixmetal</a> ...\n\nI think y'all are going to like it.\n\nHave you met our good friends <a href=\"https://twitter.com/PulumiCorp\">@PulumiCorp</a> and <a href=\"https://twitter.com/kubernetesio\">@kubernetesio</a> yet?</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E5ze3nPWUAQ7Ck6.jpg", "https://pbs.twimg.com/media/E5ze65qXsAI-ids.jpg", "https://pbs.twimg.com/media/E5ziF0YXMAEwTXJ.jpg" ]
+  }
+}
