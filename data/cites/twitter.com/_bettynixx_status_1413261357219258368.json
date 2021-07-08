@@ -1,0 +1,51 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413261357219258368" ],
+    "url" : [ "https://twitter.com/bettynixx/status/1413261357219258368" ],
+    "published" : [ "2021-07-08T22:18:59+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bettynixx" ],
+        "numeric-id" : [ "2446195019" ],
+        "name" : [ "Wanda Yikes" ],
+        "nickname" : [ "bettynixx" ],
+        "url" : [ "https://twitter.com/bettynixx", "https://linktr.ee/bettyniixx" ],
+        "published" : [ "2014-03-30T04:32:38+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Whooville,  USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412259145521287170/ZGq43NHH.jpg" ]
+      }
+    } ],
+    "content" : [ "TikTok is so full of it. Things keep coming up that shows that the app is not favorable for Black ppl. But most of these companies are asking creators to have a following on there. 😕" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1413227937164320768" ],
+      "url" : [ "https://twitter.com/hypervisible/status/1413227937164320768" ],
+      "published" : [ "2021-07-08T20:06:11+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:hypervisible" ],
+          "numeric-id" : [ "175292337" ],
+          "name" : [ "hypervisible dot pdf" ],
+          "nickname" : [ "hypervisible" ],
+          "url" : [ "https://twitter.com/hypervisible", "http://hypervisible.com" ],
+          "published" : [ "2010-08-06T05:44:19+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1275064805/wrist3.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "TikTok said “the app is mistakenly flagging phrases like ‘Black Lives Matter’ because its hate speech detector is triggered by a combination of words involving the words ‘Black’ and ‘audience’ — because ‘audience’ contains the word ‘die’ in it.” 🙄 vox.com/recode/2021/7/…",
+        "html" : "TikTok said “the app is mistakenly flagging phrases like ‘Black Lives Matter’ because its hate speech detector is triggered by a combination of words involving the words ‘Black’ and ‘audience’ — because ‘audience’ contains the word ‘die’ in it.” 🙄 <a href=\"https://www.vox.com/recode/2021/7/7/22566017/tiktok-black-creators-ziggi-tyler-debate-about-black-lives-matter-racial-bias-social-media\">vox.com/recode/2021/7/…</a>"
+      } ]
+    }
+  } ]
+}
