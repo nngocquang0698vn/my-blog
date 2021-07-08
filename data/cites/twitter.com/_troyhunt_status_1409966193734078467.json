@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1409966193734078467" ],
+    "url" : [ "https://twitter.com/troyhunt/status/1409966193734078467" ],
+    "published" : [ "2021-06-29T20:05:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:troyhunt" ],
+        "numeric-id" : [ "14414286" ],
+        "name" : [ "Troy Hunt" ],
+        "nickname" : [ "troyhunt" ],
+        "url" : [ "https://twitter.com/troyhunt", "https://www.troyhunt.com" ],
+        "published" : [ "2008-04-16T23:32:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Australia" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1154092629/Square__small_.jpg" ]
+      }
+    } ],
+    "content" : [ "A telco injecting ads into 2FA SMSs feels… wrong (see thread)" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1409727836093513729" ],
+      "url" : [ "https://twitter.com/chrismlacy/status/1409727836093513729" ],
+      "published" : [ "2021-06-29T04:18:02+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:chrismlacy" ],
+          "numeric-id" : [ "195348872" ],
+          "name" : [ "Chris Lacy" ],
+          "nickname" : [ "chrismlacy" ],
+          "url" : [ "https://twitter.com/chrismlacy", "https://play.google.com/store/apps/details?id=com.actionwalls.swirlwalls.playstore" ],
+          "published" : [ "2010-09-26T13:36:55+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Hopefully on your home screen…" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/606707742850482176/SPGgIGg4.png" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "I just received a two factor authentication SMS from Google that included an ad. Google's own Messages SMS app flagged it as spam.\n\nWhat a shameful money grab.",
+        "html" : "<div style=\"white-space: pre\">I just received a two factor authentication SMS from Google that included an ad. Google's own Messages SMS app flagged it as spam.\n\nWhat a shameful money grab.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E5Bb_vCVcAQOfrh.jpg" ]
+    }
+  } ]
+}
