@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413216998041993218" ],
+    "url" : [ "https://twitter.com/tomcritchlow/status/1413216998041993218" ],
+    "published" : [ "2021-07-08T19:22:43+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tomcritchlow" ],
+        "numeric-id" : [ "6419982" ],
+        "name" : [ "Tom Critchlow" ],
+        "nickname" : [ "tomcritchlow" ],
+        "url" : [ "https://twitter.com/tomcritchlow", "http://tomcritchlow.com", "http://fiercelycurious.com", "http://littlefutures.club", "http://quotebacks.net", "http://seomba.com" ],
+        "published" : [ "2007-05-29T16:59:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/502213636429852673/-erMjV65.jpeg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It's 2021 and I still haven't set up a mobile publishing / editing workflow for my blog and wiki...\n\nWho's got a good mobile (android) workflow for a GitHub pages + jekyll site?",
+      "html" : "<div style=\"white-space: pre\">It's 2021 and I still haven't set up a mobile publishing / editing workflow for my blog and wiki...\n\nWho's got a good mobile (android) workflow for a GitHub pages + jekyll site?</div>"
+    } ]
+  }
+}
