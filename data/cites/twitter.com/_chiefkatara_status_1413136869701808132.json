@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413136869701808132" ],
+    "url" : [ "https://twitter.com/chiefkatara/status/1413136869701808132" ],
+    "published" : [ "2021-07-08T14:04:19+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/atruedrwhofan/status/1413136191956811789" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chiefkatara" ],
+        "numeric-id" : [ "1596216901" ],
+        "name" : [ "erin 🎭 im depressed bye again" ],
+        "nickname" : [ "chiefkatara" ],
+        "url" : [ "https://twitter.com/chiefkatara", "http://katar4supremacy.carrd.co/" ],
+        "published" : [ "2013-07-15T16:14:31+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "all pronouns - 20" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410979301336485890/ubZ3mZFN.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "boy he full on loved that girl",
+      "html" : "boy he full on loved that girl\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/atruedrwhofan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bbcdoctorwho\"></a>"
+    } ]
+  }
+}
