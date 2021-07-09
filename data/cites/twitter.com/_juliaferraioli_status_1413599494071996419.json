@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413599494071996419" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1413599494071996419" ],
+    "published" : [ "2021-07-09T20:42:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "It is... curious to see GitHub listed as a type of #OpenSource software in the State of Open UK Phase 2 report.\n\nYes, git is OSS, but GitHub very much is not.",
+      "html" : "<div style=\"white-space: pre\">It is... curious to see GitHub listed as a type of <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> software in the State of Open UK Phase 2 report.\n\nYes, git is OSS, but GitHub very much is not.</div>"
+    } ]
+  }
+}
