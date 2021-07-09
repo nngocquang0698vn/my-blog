@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @MrAndrew's tweet" ],
     "published" : [ "2021-06-25T17:22:00+0100" ],
     "category" : [ "tech-nottingham" ],

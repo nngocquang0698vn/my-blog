@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @jhanikhil's tweet" ],
     "published" : [ "2021-07-03T22:28:00+0100" ],
     "category" : [ "kubernetes", "yaml" ],

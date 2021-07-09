@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @angel_sentbyGod's tweet" ],
     "published" : [ "2021-06-26T10:24:00+0100" ],
     "category" : [ "shitpost" ],

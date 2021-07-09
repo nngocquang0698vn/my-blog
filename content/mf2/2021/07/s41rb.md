@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @TheHyyyype's tweet" ],
     "published" : [ "2021-07-03T22:29:00+0100" ],
     "like-of" : [ "https://twitter.com/TheHyyyype/status/1370183523261374466" ],

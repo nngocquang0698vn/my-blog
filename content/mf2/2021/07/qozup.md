@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @ParissAthena's tweet" ],
     "published" : [ "2021-07-06T14:16:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

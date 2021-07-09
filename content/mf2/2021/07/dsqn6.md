@@ -5,7 +5,6 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/tomcritchlow/status/1413216998041993218" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/tomcritchlow/status/1413216998041993218" ],
     "published" : [ "2021-07-08T20:30:00+0100" ],
     "category" : [ "indieweb", "micropub" ],

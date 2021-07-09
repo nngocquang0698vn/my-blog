@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @scottishwormboy's tweet" ],
     "published" : [ "2021-07-06T17:30:00+0100" ],
     "category" : [ "coronavirus" ],

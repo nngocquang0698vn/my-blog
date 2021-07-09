@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2021-07-02T21:52:00+0100" ],
     "category" : [ "communication" ],

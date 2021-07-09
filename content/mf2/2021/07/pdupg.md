@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @ctrlshifti's tweet" ],
     "published" : [ "2021-07-05T15:56:00+0100" ],
     "category" : [ "gatekeeping" ],

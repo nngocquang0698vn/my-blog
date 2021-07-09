@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @Botanygeek's tweet" ],
     "published" : [ "2021-07-09T11:02:00+0100" ],
     "category" : [ "social-media", "twitter" ],

@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @troyhunt's tweet" ],
     "published" : [ "2021-07-08T12:58:00+0100" ],
     "category" : [ "security" ],

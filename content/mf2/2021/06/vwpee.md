@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @braino_drano's tweet" ],
     "published" : [ "2021-06-30T08:59:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],

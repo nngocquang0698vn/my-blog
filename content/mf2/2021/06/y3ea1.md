@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @Sp4ghettiCode's tweet" ],
     "published" : [ "2021-06-04T16:33:00+0100" ],
     "category" : [ "vim" ],

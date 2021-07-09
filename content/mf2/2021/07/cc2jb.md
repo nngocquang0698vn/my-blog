@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @chiefkatara's tweet" ],
     "published" : [ "2021-07-08T22:57:00+0100" ],
     "category" : [ "doctor-who" ],

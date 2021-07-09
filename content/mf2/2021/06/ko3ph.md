@@ -4,7 +4,6 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @gilber_sen's tweet" ],
     "published" : [ "2021-06-30T09:21:00+0100" ],
     "like-of" : [ "https://twitter.com/gilber_sen/status/1410098021090607107" ],
