@@ -40,6 +40,8 @@ build:
   image:
     name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.80.0
     entrypoint: ['']
+  tags:
+    - kubernetes
   artifacts:
     expire_in: 30 minutes
     name: "$CI_COMMIT_REF_SLUG"
@@ -56,6 +58,8 @@ deploy:
   image:
     name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.80.0
     entrypoint: ['']
+  tags:
+    - kubernetes
   resource_group: production
   artifacts:
     name: "$CI_COMMIT_REF_SLUG"
