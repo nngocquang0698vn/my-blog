@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413798828235542535" ],
+    "url" : [ "https://twitter.com/paulswiftlibdem/status/1413798828235542535" ],
+    "published" : [ "2021-07-10T09:54:42+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:paulswiftlibdem" ],
+        "numeric-id" : [ "1087415207369031681" ],
+        "name" : [ "Paul Swift" ],
+        "nickname" : [ "paulswiftlibdem" ],
+        "url" : [ "https://twitter.com/paulswiftlibdem", "http://paulswift.org" ],
+        "published" : [ "2019-01-21T18:22:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Dunholme, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1125336802284527616/ZC6idAQF.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "99% of new infections in the UK are now the #JohnsonVariant and all because he wanted a photo op with the Indian PM. #BorisHasFailedTheNation #DeltaVariant #ToryCovidCatastrophe",
+      "html" : "99% of new infections in the UK are now the <a href=\"https://twitter.com/search?q=%23JohnsonVariant\">#JohnsonVariant</a> and all because he wanted a photo op with the Indian PM. <a href=\"https://twitter.com/search?q=%23BorisHasFailedTheNation\">#BorisHasFailedTheNation</a> <a href=\"https://twitter.com/search?q=%23DeltaVariant\">#DeltaVariant</a> <a href=\"https://twitter.com/search?q=%23ToryCovidCatastrophe\">#ToryCovidCatastrophe</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E57SilOXIAAUYXY.jpg" ]
+  }
+}
