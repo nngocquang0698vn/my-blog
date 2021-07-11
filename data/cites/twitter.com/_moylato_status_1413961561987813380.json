@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1413961561987813380" ],
+    "url" : [ "https://twitter.com/moylato/status/1413961561987813380" ],
+    "published" : [ "2021-07-10T20:41:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:moylato" ],
+        "numeric-id" : [ "1869115328" ],
+        "name" : [ "Tom Moylan" ],
+        "nickname" : [ "moylato" ],
+        "url" : [ "https://twitter.com/moylato", "https://tommoylan.substack.com/" ],
+        "published" : [ "2013-09-15T20:31:16+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Brussels" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1370305153648230402/1ny2UehH.jpg" ]
+      }
+    } ],
+    "content" : [ "Never meet your heroes" ],
+    "photo" : [ "https://pbs.twimg.com/media/E59mYsGWQAIdyKS.jpg" ]
+  }
+}
