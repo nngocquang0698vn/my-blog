@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/LucyDavinhart/status/1414192655207223296" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1414209404568735751" ],
     "name" : [ "Reply to https://twitter.com/LucyDavinhart/status/1414192655207223296" ],
     "published" : [ "2021-07-11T13:53:00+0100" ],
     "category" : [ "coronavirus" ],
