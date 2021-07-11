@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1414192655207223296" ],
+    "url" : [ "https://twitter.com/LucyDavinhart/status/1414192655207223296" ],
+    "published" : [ "2021-07-11T11:59:38+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:LucyDavinhart" ],
+        "numeric-id" : [ "2742820529" ],
+        "name" : [ "Lucy Davinhart 🍓" ],
+        "nickname" : [ "LucyDavinhart" ],
+        "url" : [ "https://twitter.com/LucyDavinhart", "http://lmhd.me" ],
+        "published" : [ "2014-08-14T17:42:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sheffield, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1393101417997557765/DkYK-6Sa.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Thanks, Gov.uk email.\n\nSure am glad that there aren't gonna be any arbitrary financial restrictions on getting tested regularly coming up.\n\nSuper happy there's no reason to stock up on these.",
+      "html" : "<div style=\"white-space: pre\">Thanks, <a href=\"http://Gov.uk\">Gov.uk</a> email.\n\nSure am glad that there aren't gonna be any arbitrary financial restrictions on getting tested regularly coming up.\n\nSuper happy there's no reason to stock up on these.</div>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E6A4fqFWQAMuo5r.jpg" ]
+  }
+}
