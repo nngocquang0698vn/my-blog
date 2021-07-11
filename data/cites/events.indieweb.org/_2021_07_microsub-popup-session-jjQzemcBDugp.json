@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Microsub Popup Session" ],
+    "category" : [ "popup", "pop-up", "microsub", "indiewebcamp" ],
+    "url" : [ "https://events.indieweb.org/2021/07/microsub-popup-session-jjQzemcBDugp" ],
+    "start" : [ "2021-07-24T18:00:00Z" ],
+    "end" : [ "2021-07-24T20:00:00Z" ],
+    "content" : [ {
+      "html" : "<p><a href=\"https://indieweb.org/Microsub\">Microsub</a> is a proposed standard for creating a new generation of social readers that decouples the management of subscriptions to feeds and the parsing/delivering content from the user interface and presentation of the content.</p>\n\n<p>This popup IndieWebCamp session will focus on discussions to iterate and evolve the Microsub standard.</p>\n\n<h2>Who Should Attend?</h2>\n\n<p>Anyone interested in Microsub is welcome! Specifically if you've built any Microsub clients or servers, we want your input!</p>\n\n<h2>Suggested Reading</h2>\n\n<p>If you're not already familiar with the Microsub spec, please <a href=\"https://indieweb.org/Microsub-spec\">give it a read</a>. We will be starting this session with the assumption that people are familiar with the basic concepts of the standard..</p>",
+      "value" : "Microsub is a proposed standard for creating a new generation of social readers that decouples the management of subscriptions to feeds and the parsing/delivering content from the user interface and presentation of the content.\nThis popup IndieWebCamp session will focus on discussions to iterate and evolve the Microsub standard. Who Should Attend?\nAnyone interested in Microsub is welcome! Specifically if you've built any Microsub clients or servers, we want your input! Suggested Reading\nIf you're not already familiar with the Microsub spec, please give it a read. We will be starting this session with the assumption that people are familiar with the basic concepts of the standard..",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en"
+}
