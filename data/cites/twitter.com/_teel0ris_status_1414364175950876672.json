@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1414364175950876672" ],
+    "url" : [ "https://twitter.com/teel0ris/status/1414364175950876672" ],
+    "published" : [ "2021-07-11T23:21:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:teel0ris" ],
+        "numeric-id" : [ "1132753454613651457" ],
+        "name" : [ "Tobi Childs" ],
+        "nickname" : [ "teel0ris" ],
+        "url" : [ "https://twitter.com/teel0ris" ],
+        "published" : [ "2019-05-26T21:00:43+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Shikamaru’s Home" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383820103800614914/jC3x54my.jpg" ]
+      }
+    } ],
+    "content" : [ "If racism is the first reaction after a missed penalty did they even deserve to win?" ]
+  }
+}
