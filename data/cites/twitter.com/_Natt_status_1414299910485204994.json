@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1414299910485204994" ],
+    "url" : [ "https://twitter.com/Natt/status/1414299910485204994" ],
+    "published" : [ "2021-07-11T19:05:49+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Natt" ],
+        "numeric-id" : [ "581233" ],
+        "name" : [ "Nathaniel Tapley" ],
+        "nickname" : [ "Natt" ],
+        "url" : [ "https://twitter.com/Natt", "http://nathanieltapley.com" ],
+        "published" : [ "2007-01-05T14:03:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Redhill, Surrey" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/629708275559333888/Iek5qaqA.jpg" ]
+      }
+    } ],
+    "content" : [ "Probably wise of the police to just leave them to it until they do something really dangerous like holding a candlelight vigil for a woman murdered by a police officer." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1414246103407529989" ],
+      "url" : [ "https://twitter.com/NewsForAllUK/status/1414246103407529989" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1414238945869709318/pu/vid/1280x720/Nm9E1cF9K8Hh9ZjX.mp4?tag=12" ],
+      "published" : [ "2021-07-11T15:32:01+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:NewsForAllUK" ],
+          "numeric-id" : [ "1388588637969866752" ],
+          "name" : [ "News For All" ],
+          "nickname" : [ "NewsForAllUK" ],
+          "url" : [ "https://twitter.com/NewsForAllUK" ],
+          "published" : [ "2021-05-01T20:18:32+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1388592602988023814/2P-GecHR.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "🚨 | NEW: Bottles and Missiles being thrown Bottles thrown at Leicester Square, London\n\n ",
+        "html" : "<div style=\"white-space: pre\">🚨 | NEW: Bottles and Missiles being thrown Bottles thrown at Leicester Square, London\n\n </div>"
+      } ]
+    }
+  } ]
+}
