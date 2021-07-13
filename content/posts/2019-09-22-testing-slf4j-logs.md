@@ -15,7 +15,9 @@ Logging is a very important part of your application. You can be the best develo
 
 A very popular logging library in the Java ecosystem is [SLF4J](https://www.slf4j.org/), and we'll look at how we can test we've set things up correctly.
 
-The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/slf4j-testing](https://gitlab.com/jamietanna/slf4j-testing), and we use [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), as shared by <span class="h-card"><a class="u-url" href="https://www.testingsyndicate.com/">Jack Gough</a></span>.
+The repository for this article can be found at [<i class="fa fa-gitlab"></i> jamietanna/slf4j-testing](https://gitlab.com/jamietanna/slf4j-testing), and we use [valfirst's slf4j-test](https://github.com/valfirst/slf4j-test).
+
+Note that a previous version of this article referenced [lidalia's slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), but this appears to be no longer maintained.
 
 Let's say that we have this example class that does some processing of data, as well as logging:
 
@@ -37,18 +39,18 @@ public class ClassThatLogs {
 }
 ```
 
-We can follow the [Getting Started guide](https://projects.lidalia.org.uk/slf4j-test/) and add the [slf4j-test dependency](https://mvnrepository.com/artifact/uk.org.lidalia/slf4j-test/) to our codebase, then write a test class (in this example using AssertJ) to make it easier to assert that the logs are present at the right level:
+We can follow the [Getting Started guide for the legacy project](https://projects.lidalia.org.uk/slf4j-test/) (as it's still sufficient) and add the [slf4j-test dependency](https://mvnrepository.com/artifact/com.github.valfirst/slf4j-test/) to our codebase, then write a test class (in this example using AssertJ) to make it easier to assert that the logs are present at the right level:
 
 ```java
 import static org.assertj.core.api.Assertions.assertThat;
-import static uk.org.lidalia.slf4jtest.LoggingEvent.debug;
-import static uk.org.lidalia.slf4jtest.LoggingEvent.error;
-import static uk.org.lidalia.slf4jtest.LoggingEvent.info;
+import static com.github.valfirst.slf4jtest.LoggingEvent.debug;
+import static com.github.valfirst.slf4jtest.LoggingEvent.error;
+import static com.github.valfirst.slf4jtest.LoggingEvent.info;
 
+import com.github.valfirst.slf4jtest.TestLogger;
+import com.github.valfirst.slf4jtest.TestLoggerFactory;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
-import uk.org.lidalia.slf4jtest.TestLogger;
-import uk.org.lidalia.slf4jtest.TestLoggerFactory;
 
 class ClassThatLogsTest {
 
