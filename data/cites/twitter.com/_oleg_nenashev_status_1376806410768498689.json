@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1376806410768498689" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1376806410768498689" ],
+    "published" : [ "2021-03-30T08:00:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926898317170216960/yqu9jBFD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Last several months were rough, but I am finally able to contribute to the projects again. Thanks to all relatives, colleagues and friends for their support! \n\n// burnout...",
+      "html" : "<div style=\"white-space: pre\">Last several months were rough, but I am finally able to contribute to the projects again. Thanks to all relatives, colleagues and friends for their support! \n\n// burnout...</div>"
+    } ]
+  }
+}
