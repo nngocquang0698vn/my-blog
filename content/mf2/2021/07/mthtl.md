@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexandrakuri/status/1414519061485129728" ],
     "name" : [ "Like of @alexandrakuri's tweet" ],
     "published" : [ "2021-07-12T19:33:00+0100" ],
     "category" : [ "politics" ],
