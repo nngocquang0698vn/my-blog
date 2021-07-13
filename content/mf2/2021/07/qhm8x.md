@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oleg_nenashev/status/1376806410768498689" ],
     "name" : [ "Like of @oleg_nenashev's tweet" ],
     "published" : [ "2021-07-13T21:14:37Z" ],
     "category" : [ "open-source", "burnout" ],
