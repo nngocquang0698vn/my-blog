@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415096510144913411" ],
+    "url" : [ "https://twitter.com/otro_sisifo/status/1415096510144913411" ],
+    "published" : [ "2021-07-13T23:51:13+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:otro_sisifo" ],
+        "numeric-id" : [ "1131311496636579841" ],
+        "name" : [ "marco (polo)" ],
+        "nickname" : [ "otro_sisifo" ],
+        "url" : [ "https://twitter.com/otro_sisifo" ],
+        "published" : [ "2019-05-22T21:30:54+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Guadalajara, México" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413316495141179393/W3PR9zGB.jpg" ]
+      }
+    } ],
+    "content" : [ "sad but true" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1415063648842788866" ],
+      "url" : [ "https://twitter.com/theannalytical/status/1415063648842788866" ],
+      "published" : [ "2021-07-13T21:40:39+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:theannalytical" ],
+          "numeric-id" : [ "904194049929830400" ],
+          "name" : [ "Coding Drag Queen Anna Lytical 🌈👩🏻‍💻👸🏻" ],
+          "nickname" : [ "theannalytical" ],
+          "url" : [ "https://twitter.com/theannalytical", "https://linktr.ee/theAnnaLytical", "http://linktr.ee/theAnnaLytical" ],
+          "published" : [ "2017-09-03T04:07:15+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Manhattan, NY" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1356631863281016832/sdaGoSQJ.jpg" ]
+        }
+      } ],
+      "content" : [ "If you're just learning to code and don't love it, don't worry. The longer you work as an engineer the less and less coding you end up getting to do 😂🙃" ]
+    }
+  } ]
+}
