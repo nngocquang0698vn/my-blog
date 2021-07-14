@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415350196809129987" ],
+    "url" : [ "https://twitter.com/Chagrilled/status/1415350196809129987" ],
+    "published" : [ "2021-07-14T16:39:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Chagrilled" ],
+        "numeric-id" : [ "885027816" ],
+        "name" : [ "Andrew" ],
+        "nickname" : [ "Chagrilled" ],
+        "url" : [ "https://twitter.com/Chagrilled", "http://instagram.com/chagrilled" ],
+        "published" : [ "2012-10-16T18:41:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/790965979564089345/guGcEmu4.jpg" ]
+      }
+    } ],
+    "content" : [ "When your software dev team's logo translates to an actually cool shirt" ],
+    "photo" : [ "https://pbs.twimg.com/media/E6RVf8ZXoAIcvBG.jpg" ]
+  }
+}
