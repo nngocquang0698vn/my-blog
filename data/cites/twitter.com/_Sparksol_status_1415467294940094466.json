@@ -1,0 +1,34 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415467294940094466" ],
+    "url" : [ "https://twitter.com/Sparksol/status/1415467294940094466" ],
+    "published" : [ "2021-07-15T00:24:35+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/VeryBadLlama/status/1415159049453199361" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Sparksol" ],
+        "numeric-id" : [ "10472192" ],
+        "name" : [ "Sparksol" ],
+        "nickname" : [ "Sparksol" ],
+        "url" : [ "https://twitter.com/Sparksol" ],
+        "published" : [ "2007-11-22T17:51:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Hidden beneath rock-bottom" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/766994879373127681/TBUIkoY5.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/VeryBadLlama\"></a>"
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E6S_XxnX0AAFmoF.png",
+      "alt" : "4-panel comic.\nPanel 1: Man saying \"I'm escaping to the one place that hasn't been corrupted by capitalism.\"\nPanel 2: Man saying: \"SPACE!\"\nPanel 3: Picture of the moon with the Amazon logo on it\nPanel 4: Man with disgruntled/upset expression on his face."
+    } ]
+  }
+}
