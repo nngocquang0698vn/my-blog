@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415554363670646785" ],
+    "url" : [ "https://twitter.com/AnimeSerbia/status/1415554363670646785" ],
+    "published" : [ "2021-07-15T06:10:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:AnimeSerbia" ],
+        "numeric-id" : [ "810664520343552000" ],
+        "name" : [ "First Worlder Afraid Climate Change Will Kill Them" ],
+        "nickname" : [ "AnimeSerbia" ],
+        "url" : [ "https://twitter.com/AnimeSerbia", "http://Twitch.tv/kemonofriendzone" ],
+        "published" : [ "2016-12-19T01:54:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "hammer city" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413916905342124038/VvqOcQVj.jpg" ]
+      }
+    } ],
+    "content" : [ "When you wake up at 9 am and have plans at 1 PM" ],
+    "photo" : [ "https://pbs.twimg.com/media/E6UPMTXXsAAj7lA.jpg" ]
+  }
+}
