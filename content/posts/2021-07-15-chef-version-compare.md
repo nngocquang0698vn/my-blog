@@ -8,7 +8,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-07-15T20:48:37+0100
-slug: "chef-cookbook-version"
+slug: "chef-version-compare"
 image: /img/vendor/chef-logo.png
 ---
 Chef's got some pretty great ways of definining version constraints of its dependencies, which can be used across cookbook dependencies, gem dependencies and supported platforms.
