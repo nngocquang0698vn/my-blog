@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AAPolicyForum/status/1415365756762693639" ],
     "name" : [ "Like of @AAPolicyForum's tweet" ],
     "published" : [ "2021-07-15T15:13:00+0100" ],
     "category" : [ "politics" ],
