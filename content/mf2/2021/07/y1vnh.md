@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnimeSerbia/status/1415554363670646785" ],
     "name" : [ "Like of @AnimeSerbia's tweet" ],
     "published" : [ "2021-07-15T22:40:00+0100" ],
     "category" : [ "memes" ],
