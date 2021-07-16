@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415637839174320128" ],
+    "url" : [ "https://twitter.com/earthcurated/status/1415637839174320128" ],
+    "published" : [ "2021-07-15T11:42:16+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:earthcurated" ],
+        "numeric-id" : [ "1038150281794646017" ],
+        "name" : [ "Earth" ],
+        "nickname" : [ "earthcurated" ],
+        "url" : [ "https://twitter.com/earthcurated" ],
+        "published" : [ "2018-09-07T19:41:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Global " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298865525943132161/ZBMNhGFu.jpg" ]
+      }
+    } ],
+    "content" : [ "Views above Mt Fuji, Japan" ],
+    "photo" : [ "https://pbs.twimg.com/media/E6VbHEFWEAQV3an.jpg" ]
+  }
+}
