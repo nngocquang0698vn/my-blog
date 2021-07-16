@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZeeToThe/status/1415769182159900674" ],
     "name" : [ "Like of @ZeeToThe's tweet" ],
     "published" : [ "2021-07-16T15:07:00+0100" ],
     "category" : [ "politics" ],
