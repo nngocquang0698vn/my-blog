@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PFriedling/status/1415750592853577728" ],
     "name" : [ "Like of @PFriedling's tweet" ],
     "published" : [ "2021-07-17T08:59:00+0100" ],
     "category" : [ "climate-change" ],
