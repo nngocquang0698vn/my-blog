@@ -1,0 +1,54 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1414763328589615108" ],
+    "url" : [ "https://twitter.com/ohadelaide/status/1414763328589615108" ],
+    "published" : [ "2021-07-13T01:47:17+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ohadelaide" ],
+        "numeric-id" : [ "2203915058" ],
+        "name" : [ "Adelaide Gardner" ],
+        "nickname" : [ "ohadelaide" ],
+        "url" : [ "https://twitter.com/ohadelaide", "http://ko-fi.com/ohadelaide" ],
+        "published" : [ "2013-11-19T23:27:25+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New Mexico, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323289330648043522/I8G08wvL.jpg" ]
+      }
+    } ],
+    "content" : [ "big boob" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1414652049711587328" ],
+      "url" : [ "https://twitter.com/officialPdotH/status/1414652049711587328" ],
+      "published" : [ "2021-07-12T18:25:06+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:officialPdotH" ],
+          "numeric-id" : [ "1196222749024362497" ],
+          "name" : [ "Polynesian Sauce P" ],
+          "nickname" : [ "officialPdotH" ],
+          "url" : [ "https://twitter.com/officialPdotH", "https://anchor.fm/patrick-harrell" ],
+          "published" : [ "2019-11-18T00:25:14+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "Houston 🐼" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1402488796827037698/asSnx5Tv.jpg" ]
+        }
+      } ],
+      "content" : [ "What are you Twitter “famous” for?" ]
+    }
+  } ]
+}
