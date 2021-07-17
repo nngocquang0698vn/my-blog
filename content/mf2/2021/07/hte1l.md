@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doctor_oxford/status/1416383284620189699" ],
     "name" : [ "Like of @doctor_oxford's tweet" ],
     "published" : [ "2021-07-17T19:00:00+0100" ],
     "category" : [ "politics" ],
