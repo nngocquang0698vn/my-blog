@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fistofgreatness/status/1416208250651938823" ],
     "name" : [ "Like of @fistofgreatness's tweet" ],
     "published" : [ "2021-07-17T09:02:00+0100" ],
     "category" : [ "social-media" ],
