@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JessicaMauerhan/status/922291414976909313" ],
     "name" : [ "Like of @JessicaMauerhan's tweet" ],
     "published" : [ "2021-07-17T17:58:00+0100" ],
     "category" : [ "social-media", "php", "gatekeeping" ],
