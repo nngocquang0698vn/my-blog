@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416539333411102728" ],
+    "url" : [ "https://twitter.com/tgijoseph/status/1416539333411102728" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1416539252570066951/pu/vid/576x1246/ydUf5QURsHuc4ozO.mp4?tag=12" ],
+    "published" : [ "2021-07-17T23:24:29+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/BREElluminati/status/1415773738335887363" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:tgijoseph" ],
+        "numeric-id" : [ "1070449136" ],
+        "name" : [ "Solenya" ],
+        "nickname" : [ "tgijoseph" ],
+        "url" : [ "https://twitter.com/tgijoseph", "https://open.spotify.com/show/5KYQ5l7aYFylDdXIREPSFX?si=bySSP2UVSGSJXbsoI5KG_A" ],
+        "published" : [ "2013-01-08T09:33:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Highbridge" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1401212079219032064/D1hZ5PLe.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This gotta be a favorite of mine",
+      "html" : "This gotta be a favorite of mine\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BREElluminati\"></a>"
+    } ]
+  }
+}
