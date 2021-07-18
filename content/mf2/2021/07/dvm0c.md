@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jamesiscrispy/status/1416775160506593284" ],
     "name" : [ "Like of @jamesiscrispy's tweet" ],
     "published" : [ "2021-07-18T16:13:00+0100" ],
     "category" : [ "social-media", "apex-legends" ],
