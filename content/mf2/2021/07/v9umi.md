@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SashaLG/status/1416373796680966150" ],
     "name" : [ "Like of @SashaLG's tweet" ],
     "published" : [ "2021-07-18T20:04:00+0100" ],
     "category" : [ "tiktok" ],
