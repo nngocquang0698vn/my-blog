@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pavolrusnak/status/1416522712751779846" ],
     "name" : [ "Like of @pavolrusnak's tweet" ],
     "published" : [ "2021-07-18T22:55:00+0100" ],
     "category" : [ "shitpost", "memes" ],
