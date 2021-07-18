@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416457842882531328" ],
+    "url" : [ "https://twitter.com/kefimochi/status/1416457842882531328" ],
+    "published" : [ "2021-07-17T18:00:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kefimochi" ],
+        "numeric-id" : [ "1009594769817796608" ],
+        "name" : [ "Cake is Kate. Always has been. 💫" ],
+        "nickname" : [ "kefimochi" ],
+        "url" : [ "https://twitter.com/kefimochi", "https://www.patreon.com/kefimochi", "https://www.etsy.com/shop/KefiStore" ],
+        "published" : [ "2018-06-21T00:32:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302862083944456192/HxMstsQP.jpg" ]
+      }
+    } ],
+    "content" : [ "A reminder to y'all 🙃" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E6hExGsVkAAw6KI.jpg",
+      "alt" : "A tweet saying \"hey guys before you send a woman a message please ask yourself how will this look in a screenshot\""
+    } ]
+  }
+}
