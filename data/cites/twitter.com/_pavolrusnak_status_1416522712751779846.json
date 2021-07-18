@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416522712751779846" ],
+    "url" : [ "https://twitter.com/pavolrusnak/status/1416522712751779846" ],
+    "published" : [ "2021-07-17T22:18:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:pavolrusnak" ],
+        "numeric-id" : [ "15168247" ],
+        "name" : [ "Pavol Rusnak ⚡🟩" ],
+        "nickname" : [ "pavolrusnak" ],
+        "url" : [ "https://twitter.com/pavolrusnak", "https://rusnak.io" ],
+        "published" : [ "2008-06-19T11:26:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Prague, Czech Republic" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396846652300972033/VdMZ_tVy.jpg" ]
+      }
+    } ],
+    "content" : [ "Tabs vs Spaces" ],
+    "photo" : [ "https://pbs.twimg.com/media/E6h_2z7XsAEmU8B.jpg" ]
+  }
+}
