@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tgijoseph/status/1416539333411102728" ],
     "name" : [ "Like of @tgijoseph's tweet" ],
     "published" : [ "2021-07-18T20:06:00+0100" ],
     "category" : [ "tiktok" ],
