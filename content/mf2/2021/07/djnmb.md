@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jkup/status/1416493566000517122" ],
     "name" : [ "Like of @jkup's tweet" ],
     "published" : [ "2021-07-18T07:23:00+0100" ],
     "category" : [ "security" ],
