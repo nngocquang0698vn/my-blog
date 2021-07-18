@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416775160506593284" ],
+    "url" : [ "https://twitter.com/jamesiscrispy/status/1416775160506593284" ],
+    "published" : [ "2021-07-18T15:01:35+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/AchmadXO/status/1416774976447856648" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jamesiscrispy" ],
+        "numeric-id" : [ "1056564460549234689" ],
+        "name" : [ "crispy" ],
+        "nickname" : [ "jamesiscrispy" ],
+        "url" : [ "https://twitter.com/jamesiscrispy" ],
+        "published" : [ "2018-10-28T15:12:52+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409014133123698689/nxhvYtN6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "oh no twitter user @AchmadXO is uninstalling apex what will we ever do",
+      "html" : "oh no twitter user @AchmadXO is uninstalling apex what will we ever do\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AchmadXO\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PlayApex\"></a>"
+    } ]
+  }
+}
