@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gavmacn/status/1416401339085697026" ],
     "name" : [ "Like of @gavmacn's tweet" ],
     "published" : [ "2021-07-19T10:20:00+0100" ],
     "category" : [ "coronavirus" ],
