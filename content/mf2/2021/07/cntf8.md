@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trisha_gee/status/1417221193057382400" ],
     "name" : [ "Like of @trisha_gee's tweet" ],
     "published" : [ "2021-07-19T21:34:00+0100" ],
     "category" : [ "interviewing" ],
