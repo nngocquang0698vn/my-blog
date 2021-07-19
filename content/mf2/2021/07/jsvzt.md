@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ellenkorbes/status/1417090180696129539" ],
     "name" : [ "Like of @ellenkorbes's tweet" ],
     "published" : [ "2021-07-19T12:58:00+0100" ],
     "category" : [ "social-media" ],
