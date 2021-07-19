@@ -1,0 +1,55 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417184824637464584" ],
+    "url" : [ "https://twitter.com/MittenDAmour/status/1417184824637464584" ],
+    "published" : [ "2021-07-19T18:09:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MittenDAmour" ],
+        "numeric-id" : [ "362451113" ],
+        "name" : [ "Mitten d'Amour" ],
+        "nickname" : [ "MittenDAmour" ],
+        "url" : [ "https://twitter.com/MittenDAmour", "http://prettyfeetpoptoe.com" ],
+        "published" : [ "2011-08-26T12:29:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1256656997342158848/Rpdj7Pz1.jpg" ]
+      }
+    } ],
+    "content" : [ "The land that classifies pizza as one of your five-a-day and gives guns out as the prizes in cereal boxes warns that the UK is a bit too fucking risky. That’s quite the sobering thought." ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1417171841467174919" ],
+      "url" : [ "https://twitter.com/lewis_goodall/status/1417171841467174919" ],
+      "published" : [ "2021-07-19T17:17:51+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:lewis_goodall" ],
+          "numeric-id" : [ "335312037" ],
+          "name" : [ "Lewis Goodall" ],
+          "nickname" : [ "lewis_goodall" ],
+          "url" : [ "https://twitter.com/lewis_goodall", "http://www.instagram.com/lewis_goodall1", "https://bit.ly/3ezOK9q" ],
+          "published" : [ "2011-07-14T13:56:30+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "lewis.goodall@bbc.co.uk" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ.jpg" ]
+        }
+      } ],
+      "content" : [ "NEW: 🇺🇸 CDC places UK on level 4 (its highest level of Covid travel advisory indicating “very high” Covid rates) and advises Americans to “avoid travel to the United Kingdom.”" ],
+      "photo" : [ "https://pbs.twimg.com/media/E6rORupWUAMzCLK.jpg" ]
+    }
+  } ]
+}
