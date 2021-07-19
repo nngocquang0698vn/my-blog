@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1239864382571544576" ],
+    "url" : [ "https://twitter.com/YaiSor/status/1239864382571544576" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1239864285507072002/pu/vid/1280x720/MEIyH_-SP5rkj0El.mp4?tag=10" ],
+    "published" : [ "2020-03-17T10:41:19+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:YaiSor" ],
+        "numeric-id" : [ "2759484273" ],
+        "name" : [ "sor ★彡 by a river somewhere" ],
+        "nickname" : [ "YaiSor" ],
+        "url" : [ "https://twitter.com/YaiSor", "http://sor.dog" ],
+        "published" : [ "2014-09-02T16:50:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "they/them♡" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407363989517094921/jUIKc060.jpg" ]
+      }
+    } ],
+    "content" : [ "DID CNN JUST DO THAT" ]
+  }
+}
