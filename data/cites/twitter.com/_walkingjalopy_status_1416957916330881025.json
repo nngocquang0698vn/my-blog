@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416957916330881025" ],
+    "url" : [ "https://twitter.com/walkingjalopy/status/1416957916330881025" ],
+    "published" : [ "2021-07-19T03:07:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:walkingjalopy" ],
+        "numeric-id" : [ "1134332255709437953" ],
+        "name" : [ "one note parody account devolved into railing abou" ],
+        "nickname" : [ "walkingjalopy" ],
+        "url" : [ "https://twitter.com/walkingjalopy" ],
+        "published" : [ "2019-05-31T05:34:19+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Universe" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1348653093429276675/sSagZwZo.jpg" ]
+      }
+    } ],
+    "content" : [ "I hate when dates are just talk about boring work stuff like passwords and guard rotations at the research facility you work at" ]
+  }
+}
