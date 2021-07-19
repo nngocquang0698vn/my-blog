@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brstreetfighter/status/1416965169142325252" ],
     "name" : [ "Like of @brstreetfighter's tweet" ],
     "published" : [ "2021-07-19T11:48:00+0100" ],
     "category" : [ "shitpost" ],
