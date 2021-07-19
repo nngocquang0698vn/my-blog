@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417125114764738562" ],
+    "url" : [ "https://twitter.com/5tevieM/status/1417125114764738562" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1417125024599789570/pu/vid/1280x720/srwPbmF1SjbK-ZhO.mp4?tag=12" ],
+    "published" : [ "2021-07-19T14:12:10+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:5tevieM" ],
+        "numeric-id" : [ "24408348" ],
+        "name" : [ "Stevie Martin" ],
+        "nickname" : [ "5tevieM" ],
+        "url" : [ "https://twitter.com/5tevieM", "https://avalonuk.com/clients/stevie-martin/", "http://sohotheatre.com/shows/stevie-m" ],
+        "published" : [ "2009-03-14T18:32:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Are your social skills rusty? Mine aren’t, so I partnered with @EE to offer hot tips to help you move from whatsapp chats to socialising IRL - #whenitcounts you can count on EE.",
+      "html" : "Are your social skills rusty? Mine aren’t, so I partnered with <a href=\"https://twitter.com/EE\">@EE</a> to offer hot tips to help you move from whatsapp chats to socialising IRL - <a href=\"https://twitter.com/search?q=%23whenitcounts\">#whenitcounts</a> you can count on EE."
+    } ]
+  }
+}
