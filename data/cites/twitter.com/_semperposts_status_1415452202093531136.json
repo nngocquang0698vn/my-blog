@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1415452202093531136" ],
+    "url" : [ "https://twitter.com/semperposts/status/1415452202093531136" ],
+    "published" : [ "2021-07-14T23:24:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:semperposts" ],
+        "numeric-id" : [ "1157319114282586112" ],
+        "name" : [ "Fourth International House of Pancakes" ],
+        "nickname" : [ "semperposts" ],
+        "url" : [ "https://twitter.com/semperposts", "https://wubwub2.ytmnd.com/" ],
+        "published" : [ "2019-08-02T15:55:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "City, State" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409650362844270599/3ZFCkaZq.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E6SyRokVcAEnDl9.jpg" ]
+  }
+}
