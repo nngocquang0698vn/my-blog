@@ -1,0 +1,52 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1416836087595601926" ],
+    "url" : [ "https://twitter.com/DanWei55/status/1416836087595601926" ],
+    "published" : [ "2021-07-18T19:03:41+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:DanWei55" ],
+        "numeric-id" : [ "1059822098103840770" ],
+        "name" : [ "OnlyDans" ],
+        "nickname" : [ "DanWei55" ],
+        "url" : [ "https://twitter.com/DanWei55", "http://instagram.com/danwei55" ],
+        "published" : [ "2018-11-06T14:57:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1390321648264519687/78HgBgPC.jpg" ]
+      }
+    } ],
+    "content" : [ "When ISIS did shit like this it was decried as a crime against humanity by the western press" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1416835476019843073" ],
+      "url" : [ "https://twitter.com/sahouraxo/status/1416835476019843073" ],
+      "published" : [ "2021-07-18T19:01:15+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:sahouraxo" ],
+          "numeric-id" : [ "3293406121" ],
+          "name" : [ "Sarah Abdallah" ],
+          "nickname" : [ "sahouraxo" ],
+          "url" : [ "https://twitter.com/sahouraxo", "https://www.facebook.com/sahouraxo", "https://www.instagram.com/sahouraxo/", "http://www.flickr.com/photos/sahouraxo" ],
+          "published" : [ "2015-07-25T18:41:29+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1392372181347176449/XSMsfxOm.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "Israel just destroyed the oldest known Canaanite cemetery in Palestine, a 4,200-year old site, to build an Israeli-settlers-only road. \n\nThis is a war crime.\n\nThe occupation regime is literally erasing Palestine’s history as the world looks on in silence.",
+        "html" : "<div style=\"white-space: pre\">Israel just destroyed the oldest known Canaanite cemetery in Palestine, a 4,200-year old site, to build an Israeli-settlers-only road. \n\nThis is a war crime.\n\nThe occupation regime is literally erasing Palestine’s history as the world looks on in silence.</div>"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E6mcWxSVUAExuFn.jpg", "https://pbs.twimg.com/media/E6mcWxSVUAA4l8O.jpg" ]
+    }
+  } ]
+}
