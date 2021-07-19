@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/walkingjalopy/status/1416957916330881025" ],
     "name" : [ "Like of @walkingjalopy's tweet" ],
     "published" : [ "2021-07-19T11:47:00+0100" ],
     "category" : [ "shitpost" ],
