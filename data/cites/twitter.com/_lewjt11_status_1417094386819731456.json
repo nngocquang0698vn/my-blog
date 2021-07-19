@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417094386819731456" ],
+    "url" : [ "https://twitter.com/lewjt11/status/1417094386819731456" ],
+    "published" : [ "2021-07-19T12:10:04+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/PoliticsForAlI/status/1417093439720669189" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lewjt11" ],
+        "numeric-id" : [ "985433849894260736" ],
+        "name" : [ "Lewis" ],
+        "nickname" : [ "lewjt11" ],
+        "url" : [ "https://twitter.com/lewjt11" ],
+        "published" : [ "2018-04-15T08:25:13+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Lichfield, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/985434456793255937/CSlZR_XR.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Just so we remember…",
+      "html" : "Just so we remember…\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PoliticsForAlI\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E6qH1V9WYAYcGD3.jpg" ]
+  }
+}
