@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DanWei55/status/1416836087595601926" ],
     "name" : [ "Like of @DanWei55's tweet" ],
     "published" : [ "2021-07-19T20:44:00+0100" ],
     "category" : [ "politics" ],
