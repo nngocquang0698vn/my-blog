@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417120685512699908" ],
+    "url" : [ "https://twitter.com/OnlyZans/status/1417120685512699908" ],
+    "published" : [ "2021-07-19T13:54:34+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Eljay2602/status/1417108691569061889" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:OnlyZans" ],
+        "numeric-id" : [ "3988468343" ],
+        "name" : [ "OnlyZans" ],
+        "nickname" : [ "OnlyZans" ],
+        "url" : [ "https://twitter.com/OnlyZans" ],
+        "published" : [ "2015-10-18T17:18:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385647983384047618/jtgfDxb4.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "So the “my body, my choice” only applies to you and not to anyone else?",
+      "html" : "So the “my body, my choice” only applies to you and not to anyone else?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Eljay2602\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E6qfwFPXIAIUIaO.jpg" ]
+  }
+}
