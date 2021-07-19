@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417033868809474048" ],
+    "url" : [ "https://twitter.com/k0st/status/1417033868809474048" ],
+    "published" : [ "2021-07-19T08:09:36+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/PythonResponder/status/1416911827750068232" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:k0st" ],
+        "numeric-id" : [ "14656919" ],
+        "name" : [ "kost" ],
+        "nickname" : [ "k0st" ],
+        "url" : [ "https://twitter.com/k0st", "http://github.com/kost" ],
+        "published" : [ "2008-05-05T07:24:36+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/53762811/n516950085_20199.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "GPL force you to publish source code only if you distribute your version to the customer/client.",
+      "html" : "GPL force you to publish source code only if you distribute your version to the customer/client.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Horizon3ai\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PythonResponder\"></a>"
+    } ]
+  }
+}
