@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LilySimpson1312/status/1416977554506797056" ],
     "name" : [ "Like of @LilySimpson1312's tweet" ],
     "published" : [ "2021-07-19T20:30:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
