@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417490023813992468" ],
+    "url" : [ "https://twitter.com/beep/status/1417490023813992468" ],
+    "published" : [ "2021-07-20T14:22:12+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/beep/status/1417489350837866506" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:beep" ],
+        "numeric-id" : [ "12534" ],
+        "name" : [ "Ethan Marcotte" ],
+        "nickname" : [ "beep" ],
+        "url" : [ "https://twitter.com/beep", "https://ethanmarcotte.com/", "http://ethanmarcotte.com/contact/" ],
+        "published" : [ "2006-11-15T15:59:51+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "what" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1328349102577508352/JjpDFSXr.jpg" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E6vvqD3XEAAR1YW.jpg",
+      "alt" : "Tim Curry is wearing a gray military uniform as he looks up toward the sky, yelling “Deregulate space!”"
+    } ]
+  }
+}
