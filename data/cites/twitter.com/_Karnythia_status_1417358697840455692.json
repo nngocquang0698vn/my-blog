@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417358697840455692" ],
+    "url" : [ "https://twitter.com/Karnythia/status/1417358697840455692" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1417358665783332864/pu/vid/576x948/m8zDVIXxjHhZpbBj.mp4?tag=12" ],
+    "published" : [ "2021-07-20T05:40:21+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Karnythia" ],
+        "numeric-id" : [ "100136358" ],
+        "name" : [ "Mikki Kendall" ],
+        "nickname" : [ "Karnythia" ],
+        "url" : [ "https://twitter.com/Karnythia", "http://mikkikendall.com" ],
+        "published" : [ "2009-12-29T04:44:11+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1339676138583539716/xOB6hKv4.jpg" ]
+      }
+    } ],
+    "content" : [ "I have no idea what's going on & it honestly doesn't matter because this is hilarious" ]
+  }
+}
