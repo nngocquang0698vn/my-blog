@@ -17,6 +17,8 @@ series: environment-agnostic-acceptance-tests
 syndication:
 - https://news.ycombinator.com/item?id=25821189
 - https://lobste.rs/s/nhnffx/writing_environment_agnostic
+aliases:
+- /posts/2021/01/15/agnostic-acceptance-tests/
 ---
 Functional Acceptance Tests are a great way of validating - on top of all the other testing we do - that the service(s) we're testing are performing their required business needs.
 
