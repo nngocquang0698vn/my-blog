@@ -1,0 +1,51 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417358261959815168" ],
+    "url" : [ "https://twitter.com/jackyalcine/status/1417358261959815168" ],
+    "published" : [ "2021-07-20T05:38:37+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jackyalcine" ],
+        "numeric-id" : [ "1262855987993563136" ],
+        "name" : [ "Jacky Alciné" ],
+        "nickname" : [ "jackyalcine" ],
+        "url" : [ "https://twitter.com/jackyalcine", "https://jacky.wtf/" ],
+        "published" : [ "2020-05-19T21:22:07+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1391850947354058752/D0_RQLDV.jpg" ]
+      }
+    } ],
+    "content" : [ "(sings: wake me up INSIDE)" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1416940527937806337" ],
+      "url" : [ "https://twitter.com/idontclairee_/status/1416940527937806337" ],
+      "published" : [ "2021-07-19T01:58:41+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:idontclairee_" ],
+          "numeric-id" : [ "2530405609" ],
+          "name" : [ "one giant size shit bitch bear" ],
+          "nickname" : [ "idontclairee_" ],
+          "url" : [ "https://twitter.com/idontclairee_", "https://linktr.ee/Heytheresclaire" ],
+          "published" : [ "2014-05-28T16:35:23+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "WI // TN" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1414735912769138694/BCGj2Vuv.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "“Are you ok?”\nMy body’s check engine light has been on since I was 14 please don’t ask me that",
+        "html" : "<div style=\"white-space: pre\">“Are you ok?”\nMy body’s check engine light has been on since I was 14 please don’t ask me that</div>"
+      } ]
+    }
+  } ]
+}
