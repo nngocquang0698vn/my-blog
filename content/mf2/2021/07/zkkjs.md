@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrizzleGawd/status/1416923148877012997" ],
     "name" : [ "Like of @DrizzleGawd's tweet" ],
     "published" : [ "2021-07-20T23:19:00+0100" ],
     "category" : [ "tiktok", "social-media", "linkedin" ],
