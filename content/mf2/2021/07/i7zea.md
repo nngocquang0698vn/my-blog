@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/archbold23/status/1417250771343593474" ],
     "name" : [ "Like of @archbold23's tweet" ],
     "published" : [ "2021-07-20T19:22:00+0100" ],
     "category" : [ "coronavirus" ],
