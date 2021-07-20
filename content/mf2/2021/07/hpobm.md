@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mcclure111/status/1417571464241422336" ],
     "name" : [ "Like of @mcclure111's tweet" ],
     "published" : [ "2021-07-20T20:49:00+0100" ],
     "category" : [ "shitpost" ],
