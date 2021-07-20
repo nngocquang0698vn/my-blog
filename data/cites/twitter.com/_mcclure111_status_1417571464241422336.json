@@ -1,0 +1,22 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417571464241422336" ],
+    "url" : [ "https://twitter.com/mcclure111/status/1417571464241422336" ],
+    "published" : [ "2021-07-20T19:45:48+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/mcclure111/status/1417569414891941889" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mcclure111" ],
+        "numeric-id" : [ "312426579" ],
+        "name" : [ "mcc" ],
+        "nickname" : [ "mcclure111" ],
+        "url" : [ "https://twitter.com/mcclure111", "http://runhello.com/", "http://mastodon.social/@mcc" ],
+        "published" : [ "2011-06-07T03:20:19+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR.jpg" ]
+      }
+    } ],
+    "content" : [ "The new GPU has three slots labeled \"DP\" and if you ask me that is too much at once" ]
+  }
+}
