@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whalecoiner/status/1417452081527525378" ],
     "name" : [ "Like of @whalecoiner's tweet" ],
     "published" : [ "2021-07-20T13:11:00+0100" ],
     "category" : [ "diversity-and-inclusion", "social-media" ],
