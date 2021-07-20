@@ -1,0 +1,37 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417452081527525378" ],
+    "url" : [ "https://twitter.com/whalecoiner/status/1417452081527525378" ],
+    "published" : [ "2021-07-20T11:51:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:whalecoiner" ],
+        "numeric-id" : [ "160687830" ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "whalecoiner" ],
+        "url" : [ "https://twitter.com/whalecoiner", "https://whalecoiner.com" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Berlin, DE" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407078934274097156/QB-FbbLp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "When the \"threats\" are mainly tweets from anonymous single-figure troll accounts and - despite knowing this - you publicly link these trolls with the vulnerable trans community... well, I think we can all safely say that your faux concerns are rooted in deep transphobia.",
+      "html" : "When the \"threats\" are mainly tweets from anonymous single-figure troll accounts and - despite knowing this - you publicly link these trolls with the vulnerable trans community... well, I think we can all safely say that your faux concerns are rooted in deep transphobia.\n<a class=\"tag\" href=\"https://twitter.com/jk_rowling/status/1417067152956399619\">twitter.com/jk_rowling/sta…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/jk_rowling/sta…" ],
+      "url" : [ "https://twitter.com/jk_rowling/status/1417067152956399619" ]
+    }
+  } ]
+}
