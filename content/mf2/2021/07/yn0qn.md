@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoinVantage/status/1417529953181184002" ],
     "name" : [ "Like of @JoinVantage's tweet" ],
     "published" : [ "2021-07-20T18:07:00+0100" ],
     "category" : [ "aws" ],
