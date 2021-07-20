@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417529953181184002" ],
+    "url" : [ "https://twitter.com/JoinVantage/status/1417529953181184002" ],
+    "published" : [ "2021-07-20T17:00:51+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:JoinVantage" ],
+        "numeric-id" : [ "1259916327839584259" ],
+        "name" : [ "Vantage" ],
+        "nickname" : [ "JoinVantage" ],
+        "url" : [ "https://twitter.com/JoinVantage", "https://vantage.sh/" ],
+        "published" : [ "2020-05-11T18:40:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386689199441580035/gPP3fvuT.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "🚀 Today we are announcing the launch of the AWS Cost Leaderboard at leaderboard.vantage.sh. The AWS Cost Leaderboard shows what AWS services cost customers the most in aggregate for the trailing 30 days and is updated daily.",
+      "html" : "🚀 Today we are announcing the launch of the AWS Cost Leaderboard at <a href=\"https://leaderboard.vantage.sh/\">leaderboard.vantage.sh</a>. The AWS Cost Leaderboard shows what AWS services cost customers the most in aggregate for the trailing 30 days and is updated daily."
+    } ]
+  }
+}
