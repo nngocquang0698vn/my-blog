@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417223400691539979" ],
+    "url" : [ "https://twitter.com/doomhiker/status/1417223400691539979" ],
+    "published" : [ "2021-07-19T20:42:44+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/rhiannonbluebab/status/1407244514356514817" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:doomhiker" ],
+        "numeric-id" : [ "202871277" ],
+        "name" : [ "Yellow Blob" ],
+        "nickname" : [ "doomhiker" ],
+        "url" : [ "https://twitter.com/doomhiker", "https://3d6.ca/" ],
+        "published" : [ "2010-10-15T00:44:07+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Null Island" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399907258746736654/Iwx3T5zs.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "For GRR Martin to finish 'Winds of Winter' after leaving his fans at a cliff hanger since 2011",
+      "html" : "For GRR Martin to finish 'Winds of Winter' after leaving his fans at a cliff hanger since 2011\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rhiannonbluebab\"></a>"
+    } ]
+  }
+}
