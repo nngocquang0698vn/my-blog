@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doomhiker/status/1417223400691539979" ],
     "name" : [ "Like of @doomhiker's tweet" ],
     "published" : [ "2021-07-20T10:22:00+0100" ],
     "category" : [ "game-of-thrones" ],
