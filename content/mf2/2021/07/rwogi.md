@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/beep/status/1417490023813992468" ],
     "name" : [ "Like of @beep's tweet" ],
     "published" : [ "2021-07-20T15:56:00+0100" ],
     "category" : [ "memes" ],
