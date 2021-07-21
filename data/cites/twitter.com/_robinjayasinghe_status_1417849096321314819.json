@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417849096321314819" ],
+    "url" : [ "https://twitter.com/robinjayasinghe/status/1417849096321314819" ],
+    "published" : [ "2021-07-21T14:09:01+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:robinjayasinghe" ],
+        "numeric-id" : [ "2872104646" ],
+        "name" : [ "Robin Jayasinghe" ],
+        "nickname" : [ "robinjayasinghe" ],
+        "url" : [ "https://twitter.com/robinjayasinghe", "https://jayasinghe.de", "http://chaos.social/@rjayasinghe" ],
+        "published" : [ "2014-11-11T09:57:05+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Rauenberg, Deutschland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/647392881016242177/zjWYrbqp.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Discussed testing loggers with a colleague today. As a side information I stumbled upon this blog which shows how to assert that certain logs have been written (with SLF4J).\n\njvt.me/posts/2019/09/…",
+      "html" : "<div style=\"white-space: pre\">Discussed testing loggers with a colleague today. As a side information I stumbled upon this blog which shows how to assert that certain logs have been written (with SLF4J).\n\n<a href=\"https://www.jvt.me/posts/2019/09/22/testing-slf4j-logs/\">jvt.me/posts/2019/09/…</a></div>"
+    } ]
+  }
+}
