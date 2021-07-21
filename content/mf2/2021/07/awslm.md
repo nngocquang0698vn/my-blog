@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/robinjayasinghe/status/1417849096321314819" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1417928385431547906" ],
     "name" : [ "Reply to https://twitter.com/robinjayasinghe/status/1417849096321314819" ],
     "published" : [ "2021-07-21T20:08:00+0100" ],
     "post-status" : [ "published" ],
