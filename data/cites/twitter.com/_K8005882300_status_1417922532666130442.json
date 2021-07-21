@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1417922532666130442" ],
+    "url" : [ "https://twitter.com/K8005882300/status/1417922532666130442" ],
+    "published" : [ "2021-07-21T19:00:50+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Da1qu1r1/status/1417918971358203904" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:K8005882300" ],
+        "numeric-id" : [ "1396897926518120448" ],
+        "name" : [ "Kyle Thomas" ],
+        "nickname" : [ "K8005882300" ],
+        "url" : [ "https://twitter.com/K8005882300" ],
+        "published" : [ "2021-05-24T18:36:46+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "United States" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414455186274365440/3aNmye2O.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You don’t want a kid to consider killing themselves because some trolls disliked every single post they make",
+      "html" : "You don’t want a kid to consider killing themselves because some trolls disliked every single post they make\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CultureCrave\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Da1qu1r1\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/iglehart97\"></a>"
+    } ]
+  }
+}
