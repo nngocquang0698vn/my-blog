@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/K8005882300/status/1417922532666130442" ],
     "name" : [ "Like of @K8005882300's tweet" ],
     "published" : [ "2021-07-21T22:23:00+0100" ],
     "category" : [ "social-media" ],
