@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418253856060891138" ],
+    "url" : [ "https://twitter.com/CrankyLinuxUser/status/1418253856060891138" ],
+    "published" : [ "2021-07-22T16:57:23+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/DethVeggie/status/1418252066246430727" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:CrankyLinuxUser" ],
+        "numeric-id" : [ "38116279" ],
+        "name" : [ "Josh Conway did the #Moderna and still SigInts!" ],
+        "nickname" : [ "CrankyLinuxUser" ],
+        "url" : [ "https://twitter.com/CrankyLinuxUser" ],
+        "published" : [ "2009-05-06T04:47:15+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bloomington, IN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353811237180682240/07CNOg6l.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "DESTROYER of NAME SERVICES",
+      "html" : "DESTROYER of NAME SERVICES\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DethVeggie\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>"
+    } ]
+  }
+}
