@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418248411506257921" ],
+    "url" : [ "https://twitter.com/davidu/status/1418248411506257921" ],
+    "published" : [ "2021-07-22T16:35:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:davidu" ],
+        "numeric-id" : [ "1102" ],
+        "name" : [ "David Ulevitch 🇺🇸" ],
+        "nickname" : [ "davidu" ],
+        "url" : [ "https://twitter.com/davidu", "http://david.ulevitch.com/" ],
+        "published" : [ "2006-07-16T02:30:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Koyaanisqatsi" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1186498065655422977/KubKBUpU.jpg" ]
+      }
+    } ],
+    "content" : [ "It’s always DNS." ]
+  }
+}
