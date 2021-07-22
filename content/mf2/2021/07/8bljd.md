@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jaimi_Shrive/status/1418164753155993601" ],
     "name" : [ "Like of @Jaimi_Shrive's tweet" ],
     "published" : [ "2021-07-22T12:06:00+0100" ],
     "like-of" : [ "https://twitter.com/Jaimi_Shrive/status/1418164753155993601" ],
