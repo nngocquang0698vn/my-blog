@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418042056333688832" ],
+    "url" : [ "https://twitter.com/Neleimour/status/1418042056333688832" ],
+    "published" : [ "2021-07-22T02:55:46+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Neleimour" ],
+        "numeric-id" : [ "424156327" ],
+        "name" : [ "Neleimour 🖋" ],
+        "nickname" : [ "Neleimour" ],
+        "url" : [ "https://twitter.com/Neleimour", "http://www.palia.com" ],
+        "published" : [ "2011-11-29T11:39:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "West Coast" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367737425523396610/012QqIfX.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I've always been jealous of male colleagues who get to move freely about the industry chasing jobs that challenge them.\n\nThey get to ask questions about the project in interviews.\n\nI had to ask \"how many women are in the team? How many are in leadership positions?\"",
+      "html" : "<div style=\"white-space: pre\">I've always been jealous of male colleagues who get to move freely about the industry chasing jobs that challenge them.\n\nThey get to ask questions about the project in interviews.\n\nI had to ask \"how many women are in the team? How many are in leadership positions?\"</div>"
+    } ]
+  }
+}
