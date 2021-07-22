@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DevRelCallum/status/1418131996560265218" ],
     "name" : [ "Like of @DevRelCallum's tweet" ],
     "published" : [ "2021-07-22T10:47:00+0100" ],
     "like-of" : [ "https://twitter.com/DevRelCallum/status/1418131996560265218" ],
