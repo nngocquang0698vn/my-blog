@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418528324528246790" ],
+    "url" : [ "https://twitter.com/chef/status/1418528324528246790" ],
+    "published" : [ "2021-07-23T11:08:02+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:chef" ],
+        "numeric-id" : [ "16333852" ],
+        "name" : [ "Chef" ],
+        "nickname" : [ "chef" ],
+        "url" : [ "https://twitter.com/chef", "http://www.chef.io" ],
+        "published" : [ "2008-09-17T18:23:58+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Seattle, WA, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1313468813493452800/3wzvomuY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "[Chef Infra Webinar] Join our webinar Chef Workstation: One Click a Way from Everything on July 29 to learn about Chef Workstation, the replacement for Chef DK. Join @dan_webb, Senior Developer Advocate to learn what’s new with Chef Workstation: prgress.co/3hOvY1d",
+      "html" : "[Chef Infra Webinar] Join our webinar Chef Workstation: One Click a Way from Everything on July 29 to learn about Chef Workstation, the replacement for Chef DK. Join <a href=\"https://twitter.com/dan_webb\">@dan_webb</a>, Senior Developer Advocate to learn what’s new with Chef Workstation: <a href=\"https://prgress.co/3hOvY1d\">prgress.co/3hOvY1d</a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E6-f_kgXoAAwqCZ.jpg" ]
+  }
+}
