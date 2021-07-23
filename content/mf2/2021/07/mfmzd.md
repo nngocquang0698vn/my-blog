@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/northerncodemky/status/1418541365324038147" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1418552042528907266" ],
     "name" : [ "Reply to https://twitter.com/northerncodemky/status/1418541365324038147" ],
     "published" : [ "2021-07-23T13:29:00+0100" ],
     "post-status" : [ "published" ],
