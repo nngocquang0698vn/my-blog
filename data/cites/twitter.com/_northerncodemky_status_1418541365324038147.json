@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418541365324038147" ],
+    "url" : [ "https://twitter.com/northerncodemky/status/1418541365324038147" ],
+    "published" : [ "2021-07-23T11:59:51+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/opdavies/status/1418538065279307776" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:northerncodemky" ],
+        "numeric-id" : [ "134478578" ],
+        "name" : [ "northerncodemky" ],
+        "nickname" : [ "northerncodemky" ],
+        "url" : [ "https://twitter.com/northerncodemky" ],
+        "published" : [ "2010-04-18T14:49:23+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Manchester" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1317883789557760000/feoeZEKE.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "But this isn't a Linux/Mac/Windows thing, it's a conscious product decision from docker.io - not sure how your choice of OS exempts you from any of this in the long run.",
+      "html" : "But this isn't a Linux/Mac/Windows thing, it's a conscious product decision from <a href=\"http://docker.io\">docker.io</a> - not sure how your choice of OS exempts you from any of this in the long run.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davefarley77\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/opdavies\"></a>"
+    } ]
+  }
+}
