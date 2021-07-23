@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1410727365215277061" ],
+    "url" : [ "https://twitter.com/ChrisDStedman/status/1410727365215277061" ],
+    "published" : [ "2021-07-01T22:29:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ChrisDStedman" ],
+        "numeric-id" : [ "76744905" ],
+        "name" : [ "Chris Stedman" ],
+        "nickname" : [ "ChrisDStedman" ],
+        "url" : [ "https://twitter.com/ChrisDStedman", "http://chrisstedmanwriter.com/unread" ],
+        "published" : [ "2009-09-23T20:20:53+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373386748307324929/g1YSkMnr.jpg" ]
+      }
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E5PpDw_XIAA6dVW.jpg" ]
+  }
+}
