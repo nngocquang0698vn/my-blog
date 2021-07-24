@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chrisbratt/status/1418629194683125761" ],
     "name" : [ "Like of @chrisbratt's tweet" ],
     "published" : [ "2021-07-24T09:05:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
