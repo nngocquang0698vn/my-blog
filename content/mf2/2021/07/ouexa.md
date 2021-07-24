@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1418985360621703169" ],
     "published" : [ "2021-07-24T18:09:00+0100" ],
     "category" : [ "politics", "gaming", "diversity-and-inclusion" ],
     "repost-of" : [ "https://twitter.com/ohadelaide/status/1418954950219075592" ],
