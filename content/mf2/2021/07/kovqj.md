@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrentTerhune/status/1418649120798085121" ],
     "name" : [ "Like of @BrentTerhune's tweet" ],
     "published" : [ "2021-07-24T14:08:00+0100" ],
     "category" : [ "diversity-and-inclusion", "satire", "politics" ],
