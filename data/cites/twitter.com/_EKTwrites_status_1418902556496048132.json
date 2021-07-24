@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1418902556496048132" ],
+    "url" : [ "https://twitter.com/EKTwrites/status/1418902556496048132" ],
+    "published" : [ "2021-07-24T11:55:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EKTwrites" ],
+        "numeric-id" : [ "727304619064438790" ],
+        "name" : [ "Emily Thiede" ],
+        "nickname" : [ "EKTwrites" ],
+        "url" : [ "https://twitter.com/EKTwrites", "https://linktr.ee/EmilyThiede" ],
+        "published" : [ "2016-05-03T01:11:48+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Virginia, USA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1398335203786084358/1NKcdPHT.jpg" ]
+      }
+    } ],
+    "content" : [ "What should have been the “billion-dollar technology saves the day” moment of this real-life movie we’re all in could’ve been a montage of people around the world cheering as enough vaccines got delivered but instead it was just rich guys flying up then down" ]
+  }
+}
