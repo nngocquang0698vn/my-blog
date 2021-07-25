@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/innsagtrida/status/1418826498635702273" ],
     "name" : [ "Like of @innsagtrida's tweet" ],
     "published" : [ "2021-07-25T10:56:00+0100" ],
     "category" : [ "pokemon" ],
