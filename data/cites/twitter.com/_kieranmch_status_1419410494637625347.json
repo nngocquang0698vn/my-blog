@@ -1,0 +1,58 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1419410494637625347" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1419410494637625347" ],
+    "published" : [ "2021-07-25T21:33:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://kieran.engineer" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London & Liverpool" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302615077904945154/iunoaUw1.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "“We’ve charged you full fare for this journey because you did not tap out”",
+      "html" : "“We’ve charged you full fare for this journey because you did not tap out”\n<a class=\"tag\" href=\"https://twitter.com/avasantina/status/1419364528287096839\">twitter.com/avasantina/sta…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1419364528287096839" ],
+      "url" : [ "https://twitter.com/AvaSantina/status/1419364528287096839" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1419339752797528064/pu/vid/720x720/Co3dqgE67eLhjRZR.mp4?tag=12" ],
+      "published" : [ "2021-07-25T18:30:48+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:AvaSantina" ],
+          "numeric-id" : [ "173530099" ],
+          "name" : [ "Ava-Santina" ],
+          "nickname" : [ "AvaSantina" ],
+          "url" : [ "https://twitter.com/AvaSantina" ],
+          "published" : [ "2010-08-01T18:39:05+00:00" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1342616733119602688/S-haYZ47.jpg" ]
+        }
+      } ],
+      "content" : [ "‘Good service on all lines’ " ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/avasantina/sta…" ],
+      "url" : [ "https://twitter.com/avasantina/status/1419364528287096839" ]
+    }
+  } ]
+}
