@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1405643490030088194" ],
+    "url" : [ "https://twitter.com/zzatkin/status/1405643490030088194" ],
+    "published" : [ "2021-06-17T21:48:18+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/francesc/status/1402317513518575616" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:zzatkin" ],
+        "numeric-id" : [ "432311061" ],
+        "name" : [ "Zack Zatkin-Gold" ],
+        "nickname" : [ "zzatkin" ],
+        "url" : [ "https://twitter.com/zzatkin", "https://www.buymeacoffee.com/zg" ],
+        "published" : [ "2011-12-09T08:12:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Sunnyvale, CA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1168793132151918592/QgarfPkf.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "You can add garbage collection to your Docker Engine config:\n\n\"builder\": {\n    \"gc\": {\n      \"enabled\": true,\n      \"defaultKeepStorage\": \"20GB\"\n    }\n  }",
+      "html" : "<div style=\"white-space: pre\">You can add garbage collection to your Docker Engine config:\n\n\"builder\": {\n    \"gc\": {\n      \"enabled\": true,\n      \"defaultKeepStorage\": \"20GB\"\n    }\n  }</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/francesc\"></a>"
+    } ]
+  }
+}
