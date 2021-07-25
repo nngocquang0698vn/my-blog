@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1128576614734938112" ],
+    "url" : [ "https://twitter.com/MylesBorins/status/1128576614734938112" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1128576545101164545/pu/vid/544x960/DHaRI79or2nP5gOh.mp4?tag=9" ],
+    "published" : [ "2019-05-15T08:23:27+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MylesBorins" ],
+        "numeric-id" : [ "150664007" ],
+        "name" : [ "sMyle" ],
+        "nickname" : [ "MylesBorins" ],
+        "url" : [ "https://twitter.com/MylesBorins", "http://myles.dev" ],
+        "published" : [ "2010-06-01T14:11:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268041259177971712/7O7qzsRm.jpg" ]
+      }
+    } ],
+    "content" : [ "Best TikTok in a minute" ]
+  }
+}
