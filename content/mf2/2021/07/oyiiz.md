@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MylesBorins/status/1128576614734938112" ],
     "name" : [ "Like of @MylesBorins's tweet" ],
     "published" : [ "2021-07-25T13:34:00+0100" ],
     "category" : [ "tiktok", "food" ],
