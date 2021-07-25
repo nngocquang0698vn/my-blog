@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1419232987342905345" ],
     "published" : [ "2021-07-25T10:28:00+0100" ],
     "category" : [ "shitpost", "pokemon" ],
     "post-status" : [ "published" ],
