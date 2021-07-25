@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zzatkin/status/1405643490030088194" ],
     "name" : [ "Like of @zzatkin's tweet" ],
     "published" : [ "2021-07-25T13:34:00+0100" ],
     "category" : [ "docker" ],
