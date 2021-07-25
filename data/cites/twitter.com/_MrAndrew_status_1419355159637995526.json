@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1419355159637995526" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1419355159637995526" ],
+    "published" : [ "2021-07-25T17:53:35+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/geekjamesh/status/1419233215026446336" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307037922571554817/4gtvCAvb.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Quantity isn't the point and I think you know that. \nWe had something great, now we have something worse and it's because of greed. It's perfectly reasonable for people to mention it.",
+      "html" : "<div style=\"white-space: pre\">Quantity isn't the point and I think you know that. \nWe had something great, now we have something worse and it's because of greed. It's perfectly reasonable for people to mention it.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/geekjamesh\"></a>"
+    } ]
+  }
+}
