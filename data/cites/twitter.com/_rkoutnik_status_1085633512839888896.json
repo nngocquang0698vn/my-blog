@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1085633512839888896" ],
+    "url" : [ "https://twitter.com/rkoutnik/status/1085633512839888896" ],
+    "published" : [ "2019-01-16T20:22:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rkoutnik" ],
+        "numeric-id" : [ "836507862" ],
+        "name" : [ "Randall Koutnik" ],
+        "nickname" : [ "rkoutnik" ],
+        "url" : [ "https://twitter.com/rkoutnik", "http://rkoutnik.com", "http://bit.ly/masterobservables" ],
+        "published" : [ "2012-09-20T22:52:02+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/809150916821544962/lftddzp_.jpg" ]
+      }
+    } ],
+    "content" : [ "Why programmers like cooking:  You peel the carrot, you chop the carrot, you put the carrot in the stew.  You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3" ]
+  }
+}
