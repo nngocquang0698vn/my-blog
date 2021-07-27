@@ -1,0 +1,40 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1419745273379803142" ],
+    "url" : [ "https://twitter.com/rizbizkits/status/1419745273379803142" ],
+    "published" : [ "2021-07-26T19:43:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:rizbizkits" ],
+        "numeric-id" : [ "800085538954878976" ],
+        "name" : [ "rizwana akmal khan" ],
+        "nickname" : [ "rizbizkits" ],
+        "url" : [ "https://twitter.com/rizbizkits", "https://www.rizwanakhan.com" ],
+        "published" : [ "2016-11-19T21:17:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279903682012774402/G8yaFDCD.jpg" ]
+      }
+    } ],
+    "content" : [ "a tourist (me) in the wild (london)" ],
+    "photo" : [ {
+      "value" : "https://pbs.twimg.com/media/E7PyyjqXoAMu5In.jpg",
+      "alt" : "london statue"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E7PyyvXXoAASGEY.jpg",
+      "alt" : "riz on stairwell"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E7Pyy-SXMAUZUHi.jpg",
+      "alt" : "lettuce wrapped meal"
+    }, {
+      "value" : "https://pbs.twimg.com/media/E7PyzPLWEAM4iGv.jpg",
+      "alt" : "2 phone boxes"
+    } ]
+  }
+}
