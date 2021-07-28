@@ -1,0 +1,57 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1420024811741401099" ],
+    "url" : [ "https://twitter.com/KateFlood/status/1420024811741401099" ],
+    "published" : [ "2021-07-27T14:14:32+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:KateFlood" ],
+        "numeric-id" : [ "18339231" ],
+        "name" : [ "Kate Flood" ],
+        "nickname" : [ "KateFlood" ],
+        "url" : [ "https://twitter.com/KateFlood", "https://instagram.com/ninja_rapid", "http://clippings.me/kateflood" ],
+        "published" : [ "2008-12-23T18:45:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1404468737642745864/WX_E6doo.jpg" ]
+      }
+    } ],
+    "content" : [ "billionaires are taking day trips into space" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1419968648207343617" ],
+      "url" : [ "https://twitter.com/Telegraph/status/1419968648207343617" ],
+      "published" : [ "2021-07-27T10:31:22+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:Telegraph" ],
+          "numeric-id" : [ "16343974" ],
+          "name" : [ "The Telegraph" ],
+          "nickname" : [ "Telegraph" ],
+          "url" : [ "https://twitter.com/Telegraph", "http://www.telegraph.co.uk/?WT.mc_id=tw", "http://telegraph.co.uk/customer/subsc" ],
+          "published" : [ "2008-09-18T06:50:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, UK" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/943090005723041792/2cjxINlJ.jpg" ]
+        }
+      } ],
+      "content" : [ {
+        "value" : "🧼 People should consider not rinsing plates before putting them in the dishwasher to limit the impact on the environment, Boris Johnson’s COP26 spokeswoman has suggested telegraph.co.uk/politics/2021/…",
+        "html" : "🧼 People should consider not rinsing plates before putting them in the dishwasher to limit the impact on the environment, Boris Johnson’s COP26 spokeswoman has suggested <a href=\"https://www.telegraph.co.uk/politics/2021/07/26/consider-not-rinsing-plates-dishwashing-suggests-prime-ministers/?utm_content=telegraph&utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1627377722\">telegraph.co.uk/politics/2021/…</a>"
+      } ]
+    }
+  } ]
+}
