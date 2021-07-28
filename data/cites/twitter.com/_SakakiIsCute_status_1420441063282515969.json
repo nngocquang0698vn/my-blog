@@ -1,0 +1,50 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1420441063282515969" ],
+    "url" : [ "https://twitter.com/SakakiIsCute/status/1420441063282515969" ],
+    "published" : [ "2021-07-28T17:48:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SakakiIsCute" ],
+        "numeric-id" : [ "884115734816862209" ],
+        "name" : [ "✋🥚-chan" ],
+        "nickname" : [ "SakakiIsCute" ],
+        "url" : [ "https://twitter.com/SakakiIsCute", "http://readsettlers.org" ],
+        "published" : [ "2017-07-09T18:23:12+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358314305607790593/3Fz_a5_Z.jpg" ]
+      }
+    } ],
+    "content" : [ "David has mistaken my ironic hydroflask as a statement about my own personal tastes in media, rather than an ironic piece lampooning of society's consumption of both light-hearted, safe comedy in the public sphere and pornography in private. An easy mistake to make. " ],
+    "photo" : [ "https://pbs.twimg.com/media/E7ZrnrdVkAEGBuX.jpg" ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1420192490653581318" ],
+      "url" : [ "https://twitter.com/alivegrabs/status/1420192490653581318" ],
+      "published" : [ "2021-07-28T01:20:50+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:alivegrabs" ],
+          "numeric-id" : [ "1218927535116804098" ],
+          "name" : [ "dฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎vid" ],
+          "nickname" : [ "alivegrabs" ],
+          "url" : [ "https://twitter.com/alivegrabs" ],
+          "published" : [ "2020-01-19T16:05:54+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "vegas" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1247351866075181056/ndWjs6G-.jpg" ]
+        }
+      } ],
+      "content" : [ "had the rest of my week completely ruined by this hydroflask a coworker brought in" ],
+      "photo" : [ "https://pbs.twimg.com/media/E7WJilFVcAE1iev.jpg", "https://pbs.twimg.com/media/E7WJilFUcAEOZQ1.jpg" ]
+    }
+  } ]
+}
