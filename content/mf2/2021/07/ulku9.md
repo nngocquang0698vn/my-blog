@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessalyn/status/1420065053072666630" ],
     "name" : [ "Like of @jessalyn's tweet" ],
     "published" : [ "2021-07-28T20:26:00+0100" ],
     "category" : [ "coronavirus" ],
