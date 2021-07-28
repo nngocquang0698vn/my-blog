@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1420065053072666630" ],
+    "url" : [ "https://twitter.com/jessalyn/status/1420065053072666630" ],
+    "published" : [ "2021-07-27T16:54:26+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jessalyn" ],
+        "numeric-id" : [ "8223662" ],
+        "name" : [ "mimolette" ],
+        "nickname" : [ "jessalyn" ],
+        "url" : [ "https://twitter.com/jessalyn" ],
+        "published" : [ "2007-08-16T13:45:44+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Ö" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295393195937980416/dbJaVKKM.jpg" ]
+      }
+    } ],
+    "content" : [ "The irony of antivaxers saying they “don’t want to be part of an experiment” without realising they are now the control group." ]
+  }
+}
