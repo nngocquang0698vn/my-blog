@@ -8,8 +8,10 @@ tags:
 - "berkshelf"
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-slug: "chef-dependency-graph"
+slug: "chef-server-community-cookbook-upload"
 image: /img/vendor/chef-logo.png
+aliases:
+- /posts/2021/04/19/chef-dependency-graph/
 ---
 As I've mentioned recently, I'm working on rebuilding our Chef pipelines at work.
 
