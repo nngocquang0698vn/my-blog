@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1420663301466464256" ],
+    "url" : [ "https://twitter.com/Nadine_Writes/status/1420663301466464256" ],
+    "published" : [ "2021-07-29T08:31:40+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:Nadine_Writes" ],
+        "numeric-id" : [ "266101459" ],
+        "name" : [ "Nadine White" ],
+        "nickname" : [ "Nadine_Writes" ],
+        "url" : [ "https://twitter.com/Nadine_Writes", "https://www.independent.co.uk/author/nadine-white" ],
+        "published" : [ "2011-03-14T17:17:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383927987150622720/h0ZLUy-o.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "NEW: A further 30 Black students are to receive a £20,000 per year scholarship to study at the University of Cambridge following a new partnership between Stormzy's #Merky Foundation & HSBC UK. The move represents a expansion of The Stormzy Scholarship programme, launched in '18.",
+      "html" : "NEW: A further 30 Black students are to receive a £20,000 per year scholarship to study at the University of Cambridge following a new partnership between Stormzy's <a href=\"https://twitter.com/search?q=%23Merky\">#Merky</a> Foundation &amp; HSBC UK. The move represents a expansion of The Stormzy Scholarship programme, launched in '18."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E7c1I4cXIAIvwmt.jpg" ]
+  }
+}
