@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1421222424910127114" ],
+    "url" : [ "https://twitter.com/maryamumar/status/1421222424910127114" ],
+    "published" : [ "2021-07-30T21:33:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:maryamumar" ],
+        "numeric-id" : [ "90696110" ],
+        "name" : [ "Maryam Umar" ],
+        "nickname" : [ "maryamumar" ],
+        "url" : [ "https://twitter.com/maryamumar", "http://medium.com/musings-of-a-p" ],
+        "published" : [ "2009-11-17T19:11:42+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London, England" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1200099121098579968/PMn-eMbz.jpg" ]
+      }
+    } ],
+    "content" : [ "Today was a difficult day. Very difficult day." ]
+  }
+}
