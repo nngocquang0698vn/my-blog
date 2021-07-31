@@ -1,0 +1,38 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1421146421978402821" ],
+    "url" : [ "https://twitter.com/SmoothHoosier/status/1421146421978402821" ],
+    "published" : [ "2021-07-30T16:31:25+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/CBSNews/status/1420997645347217409" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:SmoothHoosier" ],
+        "numeric-id" : [ "39820058" ],
+        "name" : [ "Fresh Prince of Indiana" ],
+        "nickname" : [ "SmoothHoosier" ],
+        "url" : [ "https://twitter.com/SmoothHoosier" ],
+        "published" : [ "2009-05-13T19:59:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "South Indiana " ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410590395143237634/EAtKT8tY.jpg" ]
+      }
+    } ],
+    "location" : [ {
+      "type" : [ "h-card", "p-location" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ec5febdaca1534b0" ],
+        "name" : [ "New Albany, IN" ]
+      }
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CBSNews\"></a>"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E7jtI2WWQAE9KRO.jpg" ]
+  }
+}
