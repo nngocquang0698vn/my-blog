@@ -1,19 +1,19 @@
 ---
 title: "Introducing a Microformats API for Books: `books-mf2.herokuapp.com`"
 description: "Announcing the Microformats translation layer for book data."
-tags:
-- microformats
-- micropub
-- reading
-- books-mf2
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-08-01T13:42:17+0100
-slug: "books-microformats"
-image: /img/vendor/microformats-logo.png
+date: "2021-08-01T13:42:17+0100"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/08/01/books-microformats/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "microformats"
+- "micropub"
+- "reading"
+- "books-mf2"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "/img/vendor/microformats-logo.png"
+slug: "books-microformats"
 ---
 Although I've not read too much lately, I do enjoy reading. As with many things, I like to publish the things I'm reading [to my website](/kind/reads/), using the [Micropub standard](https://micropub.spec.indieweb.org/).
 
