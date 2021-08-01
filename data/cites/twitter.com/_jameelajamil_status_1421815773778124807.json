@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1421815773778124807" ],
+    "url" : [ "https://twitter.com/jameelajamil/status/1421815773778124807" ],
+    "published" : [ "2021-08-01T12:51:11+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:jameelajamil" ],
+        "numeric-id" : [ "21753847" ],
+        "name" : [ "Jameela Jamil 🌈" ],
+        "nickname" : [ "jameelajamil" ],
+        "url" : [ "https://twitter.com/jameelajamil", "http://apple.co/iweigh" ],
+        "published" : [ "2009-02-24T13:36:35+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "The world" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1421091914284245001/0uUEjH9O.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "This gave me chills, 3rd and 4th runners accelerated in the most iconic way.",
+      "html" : "This gave me chills, 3rd and 4th runners accelerated in the most iconic way.\n<a class=\"tag\" href=\"https://twitter.com/nimkoali/status/1421760874021273600\">twitter.com/nimkoali/statu…</a>"
+    } ]
+  },
+  "children" : [ {
+    "type" : [ "u-quotation-of", "h-cite" ],
+    "properties" : {
+      "uid" : [ "tag:twitter.com:1421760874021273600" ],
+      "url" : [ "https://twitter.com/NimkoAli/status/1421760874021273600" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1420166518655135746/pu/vid/576x1024/k5BtCTex41luAR9f.mp4?tag=12" ],
+      "published" : [ "2021-08-01T09:13:02+00:00" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "uid" : [ "tag:twitter.com:NimkoAli" ],
+          "numeric-id" : [ "255765895" ],
+          "name" : [ "Nimco Ali (OBE) 🔻" ],
+          "nickname" : [ "NimkoAli" ],
+          "url" : [ "https://twitter.com/NimkoAli", "http://thefivefoundation.org" ],
+          "published" : [ "2011-02-22T00:51:10+00:00" ],
+          "location" : [ {
+            "type" : [ "h-card", "p-location" ],
+            "properties" : {
+              "name" : [ "London, Bristol, Hargeisa" ]
+            }
+          } ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1368939450449944583/PRdscTSy.jpg" ]
+        }
+      } ],
+      "content" : [ "Black women make team US. 🖤" ]
+    }
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "twitter.com/nimkoali/statu…" ],
+      "url" : [ "https://twitter.com/nimkoali/status/1421760874021273600" ]
+    }
+  } ]
+}
