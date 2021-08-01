@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1420886709974097921" ],
+    "url" : [ "https://twitter.com/ahl/status/1420886709974097921" ],
+    "published" : [ "2021-07-29T23:19:25+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:ahl" ],
+        "numeric-id" : [ "5438882" ],
+        "name" : [ "Adam Leventhal" ],
+        "nickname" : [ "ahl" ],
+        "url" : [ "https://twitter.com/ahl", "http://dtrace.org/blogs/ahl/" ],
+        "published" : [ "2007-04-23T16:55:33+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386768880475938818/bB4RZhXm.jpg" ]
+      }
+    } ],
+    "content" : [ "Always be sure to provide ample parking when presenting a google doc" ],
+    "photo" : [ "https://pbs.twimg.com/media/E7gAz4bVcAE6_Mk.png" ]
+  }
+}
