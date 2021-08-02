@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422115654312861698" ],
+    "url" : [ "https://twitter.com/danicat83/status/1422115654312861698" ],
+    "published" : [ "2021-08-02T08:42:48+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:danicat83" ],
+        "numeric-id" : [ "1901819173" ],
+        "name" : [ "Daniela Petruzalek🏳️‍🌈🏳️‍⚧️" ],
+        "nickname" : [ "danicat83" ],
+        "url" : [ "https://twitter.com/danicat83", "https://github.com/danicat" ],
+        "published" : [ "2013-09-24T21:12:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Bournemouth, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296517710478823428/f9GOpCvQ.jpg" ]
+      }
+    } ],
+    "content" : [ "Re: making friends in adulthood. I have no idea how to do it, maybe I should try to fall back to kindergarten's strategy: \"hey, do you wanna be friends?\"" ]
+  }
+}
