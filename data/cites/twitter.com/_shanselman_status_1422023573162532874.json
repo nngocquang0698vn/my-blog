@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422023573162532874" ],
+    "url" : [ "https://twitter.com/shanselman/status/1422023573162532874" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E7wK5XZVoAMIcEl.mp4" ],
+    "published" : [ "2021-08-02T02:36:54+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com", "http://youtube.com/shanselman", "http://heyfriends.io" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Ok @AscentTheGame is amazing. I initially dismissed it, because the first 10 minutes are kind of slow. I thought it would be dull. It’s absolutely amazing, it’s twin-stick Cyberpunk Diablo without the grindy boring parts. The graphics are absolutely extraordinary. Recommended.",
+      "html" : "Ok <a href=\"https://twitter.com/AscentTheGame\">@AscentTheGame</a> is amazing. I initially dismissed it, because the first 10 minutes are kind of slow. I thought it would be dull. It’s absolutely amazing, it’s twin-stick Cyberpunk Diablo without the grindy boring parts. The graphics are absolutely extraordinary. Recommended."
+    } ]
+  }
+}
