@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422217302553026563" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1422217302553026563" ],
+    "published" : [ "2021-08-02T15:26:43+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/rawkode/status/1422216687424872452" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926898317170216960/yqu9jBFD.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I am not sure whether Daniel has any bandwidth these days. Last 1.5 have been pretty complicated to anyone, and we need more maintainers in @jenkinsci . Any contributions like reviews and testing would be appreciated, and maybe even adopting the plugin.\n\njenkins.io/doc/developer/…",
+      "html" : "<div style=\"white-space: pre\">I am not sure whether Daniel has any bandwidth these days. Last 1.5 have been pretty complicated to anyone, and we need more maintainers in <a href=\"https://twitter.com/jenkinsci\">@jenkinsci</a> . Any contributions like reviews and testing would be appreciated, and maybe even adopting the plugin.\n\n<a href=\"https://www.jenkins.io/doc/developer/plugin-governance/adopt-a-plugin/\">jenkins.io/doc/developer/…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/daspilker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dr4goonis\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rawkode\"></a>"
+    } ]
+  }
+}
