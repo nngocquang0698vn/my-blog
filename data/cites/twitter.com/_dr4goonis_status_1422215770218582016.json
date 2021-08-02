@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422215770218582016" ],
+    "url" : [ "https://twitter.com/dr4goonis/status/1422215770218582016" ],
+    "published" : [ "2021-08-02T15:20:37+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/oleg_nenashev/status/1422215562483093504" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:dr4goonis" ],
+        "numeric-id" : [ "87676072" ],
+        "name" : [ "Paul Dragoonis" ],
+        "nickname" : [ "dr4goonis" ],
+        "url" : [ "https://twitter.com/dr4goonis", "https://www.php.net/" ],
+        "published" : [ "2009-11-05T12:39:41+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1231185506232393730/1RN7npz7.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Job done 😊 lets try to get someone to focus on this. Daniel hopefully.",
+      "html" : "Job done 😊 lets try to get someone to focus on this. Daniel hopefully.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/daspilker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/oleg_nenashev\"></a>"
+    } ]
+  }
+}
