@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1421984615250731015" ],
+    "url" : [ "https://twitter.com/gooz25/status/1421984615250731015" ],
+    "published" : [ "2021-08-02T00:02:06+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:gooz25" ],
+        "numeric-id" : [ "27078114" ],
+        "name" : [ "Gustavo Serrano" ],
+        "nickname" : [ "gooz25" ],
+        "url" : [ "https://twitter.com/gooz25", "http://gustavoserrano.co", "https://bit.ly/2UYMN0X" ],
+        "published" : [ "2009-03-27T19:35:24+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "México" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1345192413682421762/iFaq_0nj.jpg" ]
+      }
+    } ],
+    "content" : [ "wow" ],
+    "photo" : [ "https://pbs.twimg.com/media/E7vneEEWYAMwgms.jpg", "https://pbs.twimg.com/media/E7vneEFXIAE0zer.jpg" ]
+  }
+}
