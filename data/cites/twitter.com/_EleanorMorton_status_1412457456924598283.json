@@ -1,0 +1,28 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1412457456924598283" ],
+    "url" : [ "https://twitter.com/EleanorMorton/status/1412457456924598283" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1412456774314102786/pu/vid/720x1280/MlTWDhA581JJe27v.mp4?tag=12" ],
+    "published" : [ "2021-07-06T17:04:34+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:EleanorMorton" ],
+        "numeric-id" : [ "357651289" ],
+        "name" : [ "Eleanor Morton" ],
+        "nickname" : [ "EleanorMorton" ],
+        "url" : [ "https://twitter.com/EleanorMorton", "http://eleanormortoncomedian.com/" ],
+        "published" : [ "2011-08-18T18:06:08+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "London via Edinburgh" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392467243217338371/RPR_T6ZB.jpg" ]
+      }
+    } ],
+    "content" : [ "Scottish distillery tour guide doesn't give a fuck" ]
+  }
+}
