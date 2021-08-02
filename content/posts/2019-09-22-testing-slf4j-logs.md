@@ -1,14 +1,15 @@
 ---
 title: "Testing Your SLF4J Logs"
-description: "Looking at how we would unit test our SLF4J logs to gain confidence they work, and to catch regressions in the future."
+description: "Looking at how we would unit test our SLF4J logs to gain confidence\
+  \ they work, and to catch regressions in the future."
+date: "2019-09-22T14:16:56+0100"
 tags:
-- blogumentation
-- testing
-- java
-- slf4j
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2019-09-22T14:16:56+0100
+- "blogumentation"
+- "testing"
+- "java"
+- "slf4j"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
 slug: "testing-slf4j-logs"
 ---
 Logging is a very important part of your application. You can be the best developer and never write a bug, but a service you depend on may go down, or the framework you're using may have an issue, so you need to be able to diagnose it without attaching a debugger to your production server. But if you're not testing that your logging works, you won't be sure until one of these disaster scenarios occur whether it's actually hooked in correctly, as well as not being able to catch if someone accidentally removes a logging line in a refactor.
@@ -39,18 +40,19 @@ public class ClassThatLogs {
 }
 ```
 
-We can follow the [Getting Started guide for the legacy project](https://projects.lidalia.org.uk/slf4j-test/) (as it's still sufficient) and add the [slf4j-test dependency](https://mvnrepository.com/artifact/com.github.valfirst/slf4j-test/) to our codebase, then write a test class (in this example using AssertJ) to make it easier to assert that the logs are present at the right level:
+We can follow the [Getting Started guide for the legacy project](https://projects.lidalia.org.uk/slf4j-test/) (as it's still sufficient) and add the [slf4j-test dependency](https://mvnrepository.com/artifact/com.github.valfirst/slf4j-test/) to our codebase, then write a test class (in this example using the custom AssertJ bindings provided by the library) to make it easier to assert that the logs are present at the right level:
 
 ```java
-import static org.assertj.core.api.Assertions.assertThat;
+import static com.github.valfirst.slf4jtest.Assertions.assertThat;
 import static com.github.valfirst.slf4jtest.LoggingEvent.debug;
 import static com.github.valfirst.slf4jtest.LoggingEvent.error;
 import static com.github.valfirst.slf4jtest.LoggingEvent.info;
 
-import com.github.valfirst.slf4jtest.TestLogger;
-import com.github.valfirst.slf4jtest.TestLoggerFactory;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
+import com.github.valfirst.slf4jtest.TestLogger;
+import com.github.valfirst.slf4jtest.TestLoggerFactory;
+import uk.org.lidalia.slf4jext.Level;
 
 class ClassThatLogsTest {
 
@@ -70,7 +72,7 @@ class ClassThatLogsTest {
     sut.doSomething(true);
 
     // then
-    assertThat(logger.getLoggingEvents()).contains(error("this is because there's a boolean=true"));
+    assertThat(logger).hasLogged(Level.ERROR, "this is because there's a boolean=true");
   }
 
   @Test
@@ -81,8 +83,7 @@ class ClassThatLogsTest {
     sut.doSomething(false);
 
     // then
-    assertThat(logger.getLoggingEvents())
-        .doesNotContain(error("this is because there's a boolean=true"));
+    assertThat(logger).hasNotLogged(Level.ERROR, "this is because there's a boolean=true");
   }
 
   @Test
@@ -93,7 +94,7 @@ class ClassThatLogsTest {
     sut.doSomething(false);
 
     // then
-    assertThat(logger.getLoggingEvents()).contains(info("this is happening no matter what"));
+    assertThat(logger).hasLogged(Level.INFO, "this is happening no matter what");
   }
 
   @Test
@@ -104,8 +105,7 @@ class ClassThatLogsTest {
     sut.doSomething(false);
 
     // then
-    assertThat(logger.getLoggingEvents())
-        .contains(debug("The boolean passed in has value {}", false));
+    assertThat(logger).hasLogged(Level.DEBUG, "The boolean passed in has value {}", false);
   }
 }
 ```
