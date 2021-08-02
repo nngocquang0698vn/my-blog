@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422254705951051784" ],
+    "url" : [ "https://twitter.com/guzzlegore/status/1422254705951051784" ],
+    "published" : [ "2021-08-02T17:55:20+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/Hawkzu/status/1422254441038848003" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:guzzlegore" ],
+        "numeric-id" : [ "1064749795070349313" ],
+        "name" : [ "⭐️Jules ⭐️" ],
+        "nickname" : [ "guzzlegore" ],
+        "url" : [ "https://twitter.com/guzzlegore", "https://curiouscat.me/inbox" ],
+        "published" : [ "2018-11-20T05:18:28+00:00" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415840844683399198/9EhLnfTY.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Then why do you have notifs on",
+      "html" : "Then why do you have notifs on\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Hawkzu\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/alphaINTEL\"></a>"
+    } ]
+  }
+}
