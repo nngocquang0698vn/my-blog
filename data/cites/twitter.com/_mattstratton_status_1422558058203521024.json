@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422558058203521024" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1422558058203521024" ],
+    "published" : [ "2021-08-03T14:00:45+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "name" : [ "matty stratton, charismatic grifter on pto" ],
+        "nickname" : [ "mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422494781511405568/IX-AiTfI.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Good thing I’m not tweeting about tech this week or else I might have to call out devternity.com for pretty much all white dudes as speakers. \n\nGiven who they have listed at the top it doesn’t surprise me at all. \n\nGood thing I’m not tweeting about tech this week.",
+      "html" : "<div style=\"white-space: pre\">Good thing I’m not tweeting about tech this week or else I might have to call out <a href=\"https://devternity.com/\">devternity.com</a> for pretty much all white dudes as speakers. \n\nGiven who they have listed at the top it doesn’t surprise me at all. \n\nGood thing I’m not tweeting about tech this week.</div>"
+    } ]
+  }
+}
