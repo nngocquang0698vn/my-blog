@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422591247059980289" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1422591247059980289" ],
+    "published" : [ "2021-08-03T16:12:38+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/UnicornCoding/status/1422590252418539522" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "name" : [ "matty stratton, charismatic grifter on pto" ],
+        "nickname" : [ "mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422494781511405568/IX-AiTfI.png" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "I’m pretty sure you’d get less declining if you didn’t have the keynote speaker you chose, just saying.",
+      "html" : "I’m pretty sure you’d get less declining if you didn’t have the keynote speaker you chose, just saying.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/UnicornCoding\"></a>"
+    } ]
+  }
+}
