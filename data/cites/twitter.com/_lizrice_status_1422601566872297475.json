@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422601566872297475" ],
+    "url" : [ "https://twitter.com/lizrice/status/1422601566872297475" ],
+    "published" : [ "2021-08-03T16:53:38+00:00" ],
+    "in-reply-to" : [ "https://twitter.com/brendanfosberry/status/1422567422368698373" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:lizrice" ],
+        "numeric-id" : [ "817880" ],
+        "name" : [ "Liz Rice 🐝" ],
+        "nickname" : [ "lizrice" ],
+        "url" : [ "https://twitter.com/lizrice", "http://www.lizrice.com" ],
+        "published" : [ "2007-03-07T12:38:12+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "Enfield, UK" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/954316637313929216/yfD_T_c3.jpg" ]
+      }
+    } ],
+    "content" : [ {
+      "value" : "Of course I am withdrawing, and to be absolutely clear it's not because of \"attention\". I am not going to be on a line-up with someone with sexist, racist views\n\nSadly I don't have psychic powers, so I didn't know until the line-up was published",
+      "html" : "<div style=\"white-space: pre\">Of course I am withdrawing, and to be absolutely clear it's not because of \"attention\". I am not going to be on a line-up with someone with sexist, racist views\n\nSadly I don't have psychic powers, so I didn't know until the line-up was published</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CloudNativeFdn\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brendanfosberry\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elchefe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>"
+    } ]
+  }
+}
