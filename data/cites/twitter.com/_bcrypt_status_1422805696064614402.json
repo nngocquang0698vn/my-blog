@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "uid" : [ "tag:twitter.com:1422805696064614402" ],
+    "url" : [ "https://twitter.com/bcrypt/status/1422805696064614402" ],
+    "published" : [ "2021-08-04T06:24:47+00:00" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "uid" : [ "tag:twitter.com:bcrypt" ],
+        "numeric-id" : [ "968881477" ],
+        "name" : [ "yan" ],
+        "nickname" : [ "bcrypt" ],
+        "url" : [ "https://twitter.com/bcrypt", "https://www.azuki.vip", "http://soundcloud.com/azuki" ],
+        "published" : [ "2012-11-24T21:57:03+00:00" ],
+        "location" : [ {
+          "type" : [ "h-card", "p-location" ],
+          "properties" : {
+            "name" : [ "black lives matter" ]
+          }
+        } ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1184646643888472064/14mViboj.jpg" ]
+      }
+    } ],
+    "content" : [ "just occurred to me that a great way to boost engagement with a feature is to constantly pretend that it’s being removed tomorrow" ]
+  }
+}
