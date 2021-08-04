@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1423013907615129606" ],
     "photo" : [ {
       "alt" : "Attendees at Homebrew Website Club in Nottingham smiling on Zoom at the camera - Jamie, Carol and Pete",
       "photo" : "https://media.jvt.me/d45eb45e8a.png"
