@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Strickland (@emilyst@social.emilylilyli.me)" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422672955889242112/t0_qZKlo.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst", "https://social.emilylilyli.me/@emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the album art for “The Expanse: The Collector’s Edition” fuckin’ slaps" ],
+    "photo" : [ {
+      "alt" : "Album art for \"The Expanse: Collector's Edition\" showing a highly stylized rendition of Julie Mao from the series as reconstituted by the protcomolecule, hanging from a weblike work of tendrils and alien mechanistic workings, all in shades of blue.",
+      "value" : "https://pbs.twimg.com/media/E8ATtLwVcAA9efa.jpg"
+    } ],
+    "published" : [ "2021-08-05T05:49:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1423159151656538113" ],
+    "url" : [ "https://twitter.com/emilyst/status/1423159151656538113" ]
+  },
+  "type" : [ "h-entry" ]
+}
