@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emilyst/status/1423159151656538113" ],
     "name" : [ "Like of @emilyst's tweet" ],
     "published" : [ "2021-08-05T07:30:00+0100" ],
     "category" : [ "the-expanse", "art" ],
