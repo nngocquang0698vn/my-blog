@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ThisIsMissEm/status/1423162868124590080" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1423170964796411904" ],
     "name" : [ "Reply to https://twitter.com/ThisIsMissEm/status/1423162868124590080" ],
     "published" : [ "2021-08-05T07:27:00+0100" ],
     "post-status" : [ "published" ],
