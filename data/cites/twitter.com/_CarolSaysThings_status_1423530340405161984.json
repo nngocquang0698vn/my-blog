@@ -1,0 +1,57 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394003200592723972/bIQpmLei.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/HEXED25/status/1422725701262839810\">@HEXED25</a> Me after hearing about the delta plus variant"
+    } ],
+    "published" : [ "2021-08-06T06:24:15+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "he/they" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "HEXED" ],
+            "nickname" : [ "HEXED25" ],
+            "numeric-id" : [ "1397261361156136970" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1405199250653204481/YTRn7PHi.jpg" ],
+            "published" : [ "2021-05-25T18:40:59+00:00" ],
+            "uid" : [ "tag:twitter.com:HEXED25" ],
+            "url" : [ "https://twitter.com/HEXED25" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "Me after hearing about the delta plus variant" ],
+        "photo" : [ "https://pbs.twimg.com/media/E76Jev3XIAMmegB.jpg" ],
+        "published" : [ "2021-08-04T01:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:1422725701262839810" ],
+        "url" : [ "https://twitter.com/HEXED25/status/1422725701262839810" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1423530340405161984" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1423530340405161984" ]
+  },
+  "type" : [ "h-entry" ]
+}
