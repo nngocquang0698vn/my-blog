@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Will McGugan" ],
+        "nickname" : [ "willmcgugan" ],
+        "numeric-id" : [ "14343311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1380430794796240899/eSJ9xNPj.jpg" ],
+        "published" : [ "2008-04-09T17:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:willmcgugan" ],
+        "url" : [ "https://twitter.com/willmcgugan", "http://www.willmcgugan.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Absolutely. The thing about semver major version numbers are that they don't mean new stuff, they're a permanent reminder of how many times you got the API wrong. Semver doesn't mean MAJOR.MINOR.PATCH, it means FAILS.FEATURES.BUGS\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>",
+      "value" : "Absolutely. The thing about semver major version numbers are that they don't mean new stuff, they're a permanent reminder of how many times you got the API wrong. Semver doesn't mean MAJOR.MINOR.PATCH, it means FAILS.FEATURES.BUGS"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1423677380694986761" ],
+    "published" : [ "2021-08-06T16:13:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1423678688802058244" ],
+    "url" : [ "https://twitter.com/willmcgugan/status/1423678688802058244" ]
+  },
+  "type" : [ "h-entry" ]
+}
