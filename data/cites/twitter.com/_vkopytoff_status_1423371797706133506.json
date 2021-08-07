@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Verne Kopytoff" ],
+        "nickname" : [ "vkopytoff" ],
+        "numeric-id" : [ "19562793" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/462773622264705027/Glc4K07A.jpeg" ],
+        "published" : [ "2009-01-26T22:31:46+00:00" ],
+        "uid" : [ "tag:twitter.com:vkopytoff" ],
+        "url" : [ "https://twitter.com/vkopytoff", "http://fortune.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Thanks Yosemite. You're still spectacular." ],
+    "photo" : [ "https://pbs.twimg.com/media/E8DU9SIUUAASTh6.jpg" ],
+    "published" : [ "2021-08-05T19:54:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1423371797706133506" ],
+    "url" : [ "https://twitter.com/vkopytoff/status/1423371797706133506" ]
+  },
+  "type" : [ "h-entry" ]
+}
