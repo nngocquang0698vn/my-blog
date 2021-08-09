@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulrob91017199/status/1424334131803086849" ],
     "name" : [ "Like of @paulrob91017199's tweet" ],
     "published" : [ "2021-08-09T07:47:00+0100" ],
     "category" : [ "politics" ],
