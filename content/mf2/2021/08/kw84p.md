@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1425204658772103174" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2021-08-10T23:00:00+0100" ],
     "category" : [ "cryptocurrency" ],
