@@ -147,3 +147,10 @@ abstract class JsonTest {
   // ...
 }
 ```
+
+However, this isn't always quite perfect, and so I'd recommend this pattern in the case that:
+
+- You have more tests than makes sense to be `@ParameterizedTest` (maybe 4 sets of tests?)
+- You want to have a more structured hierarchy / naming structure to your tests
+- You need any shared functionality that could be utilised by `abstract` methods being used by other methods in the baseclass, such as `prettyPrint()` above.
+- You definitely know you'll want to add tests in the child classes (i.e. `ScenarioOutlineWithDocstring`) that are extra to what is provided in the base class
