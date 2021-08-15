@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Traversy" ],
+        "nickname" : [ "traversymedia" ],
+        "numeric-id" : [ "870038005" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/856983737426423809/6jebtwP-.jpg" ],
+        "published" : [ "2012-10-09T14:56:15+00:00" ],
+        "uid" : [ "tag:twitter.com:traversymedia" ],
+        "url" : [ "https://twitter.com/traversymedia", "http://www.traversymedia.com", "http://freelancemastery.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Don't feel stupid for having to Google the same stuff over and over. As long as you know how to find the answers, you're good. \n\nAs a programmer, your job is to find solutions, and using resources and tools is a huge part of that</div>",
+      "value" : "Don't feel stupid for having to Google the same stuff over and over. As long as you know how to find the answers, you're good. \n\nAs a programmer, your job is to find solutions, and using resources and tools is a huge part of that"
+    } ],
+    "published" : [ "2021-08-15T12:47:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1426888159372226568" ],
+    "url" : [ "https://twitter.com/traversymedia/status/1426888159372226568" ]
+  },
+  "type" : [ "h-entry" ]
+}
