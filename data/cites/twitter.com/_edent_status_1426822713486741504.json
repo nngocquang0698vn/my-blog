@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Hadi Partovi" ],
+          "nickname" : [ "hadip" ],
+          "numeric-id" : [ "14130408" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/649058887040045056/MXJUywCZ.jpg" ],
+          "published" : [ "2008-03-12T06:04:46+00:00" ],
+          "uid" : [ "tag:twitter.com:hadip" ],
+          "url" : [ "https://twitter.com/hadip", "http://code.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Sadly, there were divorces and broken families and bad things that came out of that. But I also learned that even at a 20,000-person company, you can get a team of 100 people to work like their lives depend on it." ],
+      "in-reply-to" : [ "https://twitter.com/hadip/status/1426587407382507521" ],
+      "published" : [ "2021-08-14T16:51:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1426587408267501568" ],
+      "url" : [ "https://twitter.com/hadip/status/1426587408267501568" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why would anyone be proud of this?\n</div>",
+      "value" : "Why would anyone be proud of this?\n"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1426822559253901314" ],
+    "published" : [ "2021-08-15T08:26:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1426822713486741504" ],
+    "url" : [ "https://twitter.com/edent/status/1426822713486741504" ]
+  },
+  "type" : [ "h-entry" ]
+}
