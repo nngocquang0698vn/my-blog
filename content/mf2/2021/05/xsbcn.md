@@ -5,6 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/edent/status/1393221430209359874" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1393238508647616513" ],
     "name" : [ "Reply to https://twitter.com/edent/status/1393221430209359874" ],
     "published" : [ "2021-05-14T17:12:00+0100" ],
     "post-status" : [ "published" ],
