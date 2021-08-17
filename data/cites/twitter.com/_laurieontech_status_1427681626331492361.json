@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matt Crowder" ],
+          "nickname" : [ "mcrowder65" ],
+          "numeric-id" : [ "3385664834" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1427447546335608833/CFnDyl5a.jpg" ],
+          "published" : [ "2015-08-29T21:29:09+00:00" ],
+          "uid" : [ "tag:twitter.com:mcrowder65" ],
+          "url" : [ "https://twitter.com/mcrowder65", "http://dev.to/mcrowder65", "http://codementor.io/mcrowder65" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">My manager pointed out something very valuable in a presentation today...\n\nAll of your code will end up being deleted or replaced with other code eventually, so don't get too attached or emotional about your code!</div>",
+        "value" : "My manager pointed out something very valuable in a presentation today...\n\nAll of your code will end up being deleted or replaced with other code eventually, so don't get too attached or emotional about your code!"
+      } ],
+      "published" : [ "2021-08-16T21:43:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1427385580283904001" ],
+      "url" : [ "https://twitter.com/mcrowder65/status/1427385580283904001" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">While I understand this advice, I'd adjust it.\n\nIt's perfectly reasonable to take pride in your work and feel valid emotions when it's replaced.\n\nI would amend this to say that code is like a relationship. Just because it doesn't last forever doesn't mean it wasn't valuable.</div>",
+      "value" : "While I understand this advice, I'd adjust it.\n\nIt's perfectly reasonable to take pride in your work and feel valid emotions when it's replaced.\n\nI would amend this to say that code is like a relationship. Just because it doesn't last forever doesn't mean it wasn't valuable."
+    } ],
+    "published" : [ "2021-08-17T17:19:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1427681626331492361" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1427681626331492361" ]
+  },
+  "type" : [ "h-entry" ]
+}
