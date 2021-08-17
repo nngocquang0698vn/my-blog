@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Techmeme" ],
+          "nickname" : [ "Techmeme" ],
+          "numeric-id" : [ "817386" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg.jpg" ],
+          "published" : [ "2007-03-07T07:10:46+00:00" ],
+          "uid" : [ "tag:twitter.com:Techmeme" ],
+          "url" : [ "https://twitter.com/Techmeme", "http://techmeme.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Intel says it's \"winding down\" its RealSense camera business, which focused on hardware for computer vision applications (<a href=\"https://twitter.com/DylanLJMartin\">@dylanljmartin</a> / CRN)\n\n<a href=\"https://www.crn.com/news/components-peripherals/intel-says-it-s-shuttering-realsense-camera-business\">crn.com/news/component…</a>\n<a href=\"http://www.techmeme.com/210817/p34#a210817p34\">techmeme.com/210817/p34#a21…</a></div>",
+        "value" : "Intel says it's \"winding down\" its RealSense camera business, which focused on hardware for computer vision applications (@dylanljmartin / CRN)\n\ncrn.com/news/component…\ntechmeme.com/210817/p34#a21…"
+      } ],
+      "published" : [ "2021-08-17T20:15:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1427725775252254722" ],
+      "url" : [ "https://twitter.com/Techmeme/status/1427725775252254722" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1403025766875422720/x4ZU04Ao.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Intel hasn't had much vision of any kind lately, so this isn't exactly a huge surprise." ],
+    "published" : [ "2021-08-17T21:00:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1427736995745259521" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1427736995745259521" ]
+  },
+  "type" : [ "h-entry" ]
+}
