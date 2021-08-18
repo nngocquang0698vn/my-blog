@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1426858947886166017" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2021-08-18T13:19:00+0100" ],
     "category" : [ "open-banking" ],
