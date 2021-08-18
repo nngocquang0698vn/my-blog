@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Everywhere" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "WikiLeaks" ],
+          "nickname" : [ "wikileaks" ],
+          "numeric-id" : [ "16589206" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/512138307870785536/Fe00yVS2.png" ],
+          "published" : [ "2008-10-04T06:41:05+00:00" ],
+          "uid" : [ "tag:twitter.com:wikileaks" ],
+          "url" : [ "https://twitter.com/wikileaks", "https://wikileaks.org", "https://wikileaks.org/#submit", "https://defend.wikileaks.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Julian Assange speaking in 2011: \"The goal is to use Afghanistan to wash money out of the tax bases of the US and Europe through Afghanistan and back into the hands of a transnational security elite. The goal is an endless war, not a successful war\" <a href=\"https://twitter.com/search?q=%23Afghanistan\">#Afghanistan</a>",
+        "value" : "Julian Assange speaking in 2011: \"The goal is to use Afghanistan to wash money out of the tax bases of the US and Europe through Afghanistan and back into the hands of a transnational security elite. The goal is an endless war, not a successful war\" #Afghanistan"
+      } ],
+      "published" : [ "2021-08-18T09:44:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1427929346262642688" ],
+      "url" : [ "https://twitter.com/wikileaks/status/1427929346262642688" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1427928564985389063/pu/vid/1280x720/bv96Jg3VmrRW_tLr.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "GlennGreenwald@gmail.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Glenn Greenwald" ],
+        "nickname" : [ "ggreenwald" ],
+        "numeric-id" : [ "16076032" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9.jpg" ],
+        "published" : [ "2008-09-01T03:13:32+00:00" ],
+        "uid" : [ "tag:twitter.com:ggreenwald" ],
+        "url" : [ "https://twitter.com/ggreenwald", "https://greenwald.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">In case you're still confused about why the US security state and political class loathes Julian Assange so much and wants him imprisoned forever, watch this video of him in 2011 talking about the purpose of the war in Afghanistan.\n\nHe's imprisoned because he's a real journalist:</div>",
+      "value" : "In case you're still confused about why the US security state and political class loathes Julian Assange so much and wants him imprisoned forever, watch this video of him in 2011 talking about the purpose of the war in Afghanistan.\n\nHe's imprisoned because he's a real journalist:"
+    } ],
+    "published" : [ "2021-08-18T12:20:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1427968752432332806" ],
+    "url" : [ "https://twitter.com/ggreenwald/status/1427968752432332806" ]
+  },
+  "type" : [ "h-entry" ]
+}
