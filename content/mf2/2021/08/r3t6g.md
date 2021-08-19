@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mannyfidel/status/1428400235273932802" ],
     "name" : [ "Like of @mannyfidel's tweet" ],
     "published" : [ "2021-08-19T19:36:00+0100" ],
     "like-of" : [ "https://twitter.com/mannyfidel/status/1428400235273932802" ],
