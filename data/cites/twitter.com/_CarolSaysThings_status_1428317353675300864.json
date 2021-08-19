@@ -1,0 +1,84 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394003200592723972/bIQpmLei.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/type__error/status/1428314037780156417\">@type__error</a> Running something with the —verbose flag"
+    } ],
+    "published" : [ "2021-08-19T11:26:08+00:00" ],
+    "repost-of" : [ {
+      "children" : [ {
+        "properties" : {
+          "author" : [ {
+            "properties" : {
+              "location" : [ {
+                "properties" : {
+                  "name" : [ "Oakland ⬅ Denver ⬅ Detroit" ]
+                },
+                "type" : [ "h-card", "p-location" ]
+              } ],
+              "name" : [ "Joseph Alessio ☻ and 79 others" ],
+              "nickname" : [ "alessio_joseph" ],
+              "numeric-id" : [ "570260898" ],
+              "photo" : [ "https://pbs.twimg.com/profile_images/1373082965991813121/pcKguDxJ.jpg" ],
+              "published" : [ "2012-05-03T18:20:42+00:00" ],
+              "uid" : [ "tag:twitter.com:alessio_joseph" ],
+              "url" : [ "https://twitter.com/alessio_joseph", "https://stuuudio.co/team/joseph-alessio" ]
+            },
+            "type" : [ "h-card" ]
+          } ],
+          "content" : [ "logging in to twitter dot com" ],
+          "photo" : [ "https://pbs.twimg.com/media/E87VwoLUcAA8QGu.jpg" ],
+          "published" : [ "2021-08-16T16:55:52+00:00" ],
+          "uid" : [ "tag:twitter.com:1427313167965691913" ],
+          "url" : [ "https://twitter.com/alessio_joseph/status/1427313167965691913" ]
+        },
+        "type" : [ "u-quotation-of", "h-cite" ]
+      } ],
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "London, England" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Sophie Koonin" ],
+            "nickname" : [ "type__error" ],
+            "numeric-id" : [ "733123902" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ],
+            "published" : [ "2012-08-02T16:24:42+00:00" ],
+            "uid" : [ "tag:twitter.com:type__error" ],
+            "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "Running something with the —verbose flag" ],
+        "published" : [ "2021-08-19T11:12:58+00:00" ],
+        "uid" : [ "tag:twitter.com:1428314037780156417" ],
+        "url" : [ "https://twitter.com/type__error/status/1428314037780156417" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1428317353675300864" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1428317353675300864" ]
+  },
+  "type" : [ "h-entry" ]
+}
