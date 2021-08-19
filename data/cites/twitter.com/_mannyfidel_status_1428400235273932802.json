@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CBS This Morning" ],
+          "nickname" : [ "CBSThisMorning" ],
+          "numeric-id" : [ "17134268" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1147114353679843329/W3nIPg4K.png" ],
+          "published" : [ "2008-11-03T17:05:29+00:00" ],
+          "uid" : [ "tag:twitter.com:CBSThisMorning" ],
+          "url" : [ "https://twitter.com/CBSThisMorning", "http://CBSThisMorning.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : ".<a href=\"https://twitter.com/GayleKing\">@GayleKing</a> and Mark Zuckerberg conduct their first-ever virtual reality interview in Facebook’s new \"Horizon Workrooms,\" a VR app that allows coworkers to interact in virtual offices. <a href=\"https://cbsn.ws/2Wbue9S\">cbsn.ws/2Wbue9S</a>",
+        "value" : ".@GayleKing and Mark Zuckerberg conduct their first-ever virtual reality interview in Facebook’s new \"Horizon Workrooms,\" a VR app that allows coworkers to interact in virtual offices. cbsn.ws/2Wbue9S"
+      } ],
+      "published" : [ "2021-08-19T16:30:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1428393862750429190" ],
+      "url" : [ "https://twitter.com/CBSThisMorning/status/1428393862750429190" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1428393833415561221/vid/1280x720/jswHM7ORrnvE6WRr.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "manny" ],
+        "nickname" : [ "mannyfidel" ],
+        "numeric-id" : [ "180514753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389324646047260684/pru8ej-e.jpg" ],
+        "published" : [ "2010-08-19T20:39:14+00:00" ],
+        "uid" : [ "tag:twitter.com:mannyfidel" ],
+        "url" : [ "https://twitter.com/mannyfidel", "https://linktr.ee/mannyfidel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "imagine getting fired like this" ],
+    "published" : [ "2021-08-19T16:55:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1428400235273932802" ],
+    "url" : [ "https://twitter.com/mannyfidel/status/1428400235273932802" ]
+  },
+  "type" : [ "h-entry" ]
+}
