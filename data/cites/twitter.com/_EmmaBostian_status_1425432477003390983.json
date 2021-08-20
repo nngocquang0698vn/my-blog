@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400161856329822208/GrSz46jH.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">&lt;Emma&gt;\n  &lt;Baby birthday=“February 2022” /&gt;\n&lt;Emma /&gt;\n\nHired an intern. They start on Valentine’s Day ❤️\n\n🌈 🌈</div>",
+      "value" : "<Emma>\n  <Baby birthday=“February 2022” />\n<Emma />\n\nHired an intern. They start on Valentine’s Day ❤️\n\n🌈 🌈"
+    } ],
+    "photo" : [ {
+      "alt" : "Ultrasound photos and a hello world onesie with two baby coding books",
+      "value" : "https://pbs.twimg.com/media/E8gnRvZX0As-K1q.jpg"
+    }, {
+      "alt" : "Second trimester!",
+      "value" : "https://pbs.twimg.com/media/E8gnRwOXMAMPj2D.jpg"
+    } ],
+    "published" : [ "2021-08-11T12:22:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1425432477003390983" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1425432477003390983" ]
+  },
+  "type" : [ "h-entry" ]
+}
