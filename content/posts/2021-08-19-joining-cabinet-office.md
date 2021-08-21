@@ -14,7 +14,7 @@ slug: "joining-cabinet-office"
 ---
 It is with mixed emotions that I'm announcing that after a wonderful five years at Capital One, I'm leaving the Private Sector to join the Cabinet Office!
 
-I'll be working as a Tech Lead in the [Data Standards Authority (DSA)](https://www.gov.uk/Government/groups/data-standards-authority) under the [Central Digital and Data Office (CDDO)](https://www.gov.uk/Government/organisations/central-digital-and-data-office), which is part of the Cabinet Office, and has been fairly recently spun out of the [Government Digital Service (GDS)](https://www.gov.uk/Government/organisations/Government-digital-service).
+I'll be working as a Tech Lead in the [Data Standards Authority (DSA)](https://www.gov.uk/government/groups/data-standards-authority) under the [Central Digital and Data Office (CDDO)](https://www.gov.uk/government/organisations/central-digital-and-data-office), which is part of the Cabinet Office, and has been fairly recently spun out of the [Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service).
 
 I'm finding this a difficult post to write because I've had a really good time at Capital One and I'm leaving a lot of really great people behind, but after being here for just over five years (at the time I leave), it's the right time to move, and I'm really excited for this next step. Five years is a good milestone to have reached before moving on to my next step.
 
