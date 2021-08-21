@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bagder/status/1429090936466853891" ],
     "name" : [ "Like of @bagder's tweet" ],
     "published" : [ "2021-08-21T15:49:00+0100" ],
     "category" : [ "versioning" ],
