@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just found out that if you have a subdomain A record pointing at the IP address of a virtual server, and you shut down that virtual server... someone else gets that IP address, and your hostname starts serving up their content!" ],
+    "published" : [ "2021-08-22T05:06:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1429308904991727619" ],
+    "url" : [ "https://twitter.com/simonw/status/1429308904991727619" ]
+  },
+  "type" : [ "h-entry" ]
+}
