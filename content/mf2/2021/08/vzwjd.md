@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/J0hnnyXm4s/status/1429484077900513282" ],
     "name" : [ "Like of @J0hnnyXm4s's tweet" ],
     "published" : [ "2021-08-22T18:13:00+0100" ],
     "like-of" : [ "https://twitter.com/J0hnnyXm4s/status/1429484077900513282" ],
