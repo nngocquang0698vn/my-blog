@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hertfordshire" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Evans" ],
+          "nickname" : [ "evnsio" ],
+          "numeric-id" : [ "20139298" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1334252782124232704/B-UT-hSe.jpg" ],
+          "published" : [ "2009-02-05T11:23:40+00:00" ],
+          "uid" : [ "tag:twitter.com:evnsio" ],
+          "url" : [ "https://twitter.com/evnsio", "https://evns.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">📟 On-call Compensation\nThe results of mine and <a href=\"https://twitter.com/spikelindsey\">@spikelindsey</a>'s on-call survey are now available at <a href=\"https://oncall.wtf\">oncall.wtf</a>.  There's a link from there to the raw data that people were willing to have shared too. Big thanks to everyone who helped fill this out!</div>",
+        "value" : "📟 On-call Compensation\nThe results of mine and @spikelindsey's on-call survey are now available at oncall.wtf.  There's a link from there to the raw data that people were willing to have shared too. Big thanks to everyone who helped fill this out!"
+      } ],
+      "published" : [ "2019-02-14T17:30:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1096099461363912704" ],
+      "url" : [ "https://twitter.com/evnsio/status/1096099461363912704" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Smith" ],
+        "nickname" : [ "SteveSmith_Tech" ],
+        "numeric-id" : [ "404991267" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305974341444743169/nWOpSumW.jpg" ],
+        "published" : [ "2011-11-04T18:00:19+00:00" ],
+        "uid" : [ "tag:twitter.com:SteveSmith_Tech" ],
+        "url" : [ "https://twitter.com/SteveSmith_Tech", "http://www.stevesmith.tech", "http://leanpub.com/u/stevesmith", "http://stevesmith.tech/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The 2019 on-call compensation survey by <a href=\"https://twitter.com/evnsio\">@evnsio</a> <a href=\"https://twitter.com/spikelindsey\">@spikelindsey</a> is still online at <a href=\"http://oncall.netlify.app\">oncall.netlify.app</a>",
+      "value" : "The 2019 on-call compensation survey by @evnsio @spikelindsey is still online at oncall.netlify.app"
+    } ],
+    "published" : [ "2021-08-22T11:47:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1429409830830321667" ],
+    "url" : [ "https://twitter.com/SteveSmith_Tech/status/1429409830830321667" ]
+  },
+  "type" : [ "h-entry" ]
+}
