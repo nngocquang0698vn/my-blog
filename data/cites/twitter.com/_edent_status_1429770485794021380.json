@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">MoneyDashboard is free <a href=\"https://refer.moneydashboard.com/Terence\">refer.moneydashboard.com/Terence</a>\nBut, yeah, customers should have direct access to their own data via a Read Only API.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/blu3id\"></a>",
+      "value" : "MoneyDashboard is free refer.moneydashboard.com/Terence\nBut, yeah, customers should have direct access to their own data via a Read Only API."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/blu3id/status/1429768246199263239" ],
+    "published" : [ "2021-08-23T11:40:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1429770485794021380" ],
+    "url" : [ "https://twitter.com/edent/status/1429770485794021380" ]
+  },
+  "type" : [ "h-entry" ]
+}
