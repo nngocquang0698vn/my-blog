@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Melbourne" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jacinta. B.Eng (Hons), B.Sci." ],
+          "nickname" : [ "jarichaust" ],
+          "numeric-id" : [ "73574226" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1271998772/jarich-face.jpeg" ],
+          "published" : [ "2009-09-12T04:56:18+00:00" ],
+          "uid" : [ "tag:twitter.com:jarichaust" ],
+          "url" : [ "https://twitter.com/jarichaust" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "When I ran Perl Training Australia with <a href=\"https://twitter.com/pjf\">@pjf</a>, for Windows we'd install Padre (Perl IDE) and the ActiveState perl.exe and we were good to go. Students could write and run code straight away. Later we'd show them how to add new modules and that was easy too.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/justanesta\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/palewire\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>",
+        "value" : "When I ran Perl Training Australia with @pjf, for Windows we'd install Padre (Perl IDE) and the ActiveState perl.exe and we were good to go. Students could write and run code straight away. Later we'd show them how to add new modules and that was easy too."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/simonw/status/1429936393795473433" ],
+      "published" : [ "2021-08-25T01:56:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1430348394287882245" ],
+      "url" : [ "https://twitter.com/jarichaust/status/1430348394287882245" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A part of \"welcome aboard\" that Perl got really really right: explicitly pointing out that it's okay to start with \"baby talk\" simplistic code if it gets the job done, and that your style evolves as you learn.\n\nWay too many language communities only want to win over skilled devs.</div>",
+      "value" : "A part of \"welcome aboard\" that Perl got really really right: explicitly pointing out that it's okay to start with \"baby talk\" simplistic code if it gets the job done, and that your style evolves as you learn.\n\nWay too many language communities only want to win over skilled devs."
+    } ],
+    "published" : [ "2021-08-25T05:37:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1430403984544567297" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1430403984544567297" ]
+  },
+  "type" : [ "h-entry" ]
+}
