@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Solitude" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Shortridge" ],
+        "nickname" : [ "swagitda_" ],
+        "numeric-id" : [ "2746269050" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1232389412366864384/vLm3YolZ.jpg" ],
+        "published" : [ "2014-08-19T19:23:08+00:00" ],
+        "uid" : [ "tag:twitter.com:swagitda_" ],
+        "url" : [ "https://twitter.com/swagitda_", "http://swagitda.com", "http://verica.io/sce-book/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "OH: \"Do you have microservices or do you have a monolith spread over hundreds of git repos?\"" ],
+    "published" : [ "2021-08-25T17:47:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1430587571558621184" ],
+    "url" : [ "https://twitter.com/swagitda_/status/1430587571558621184" ]
+  },
+  "type" : [ "h-entry" ]
+}
