@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Everywhere" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Two Brainy" ],
+          "nickname" : [ "TwoBrainy" ],
+          "numeric-id" : [ "1364600557579730946" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1413170598692466692/RURi4v8s.jpg" ],
+          "published" : [ "2021-02-24T15:38:42+00:00" ],
+          "uid" : [ "tag:twitter.com:TwoBrainy" ],
+          "url" : [ "https://twitter.com/TwoBrainy", "https://twobrainy.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "In which I ramble about being a \"lazy coder\" with Pulumi and scripts. by Two Brainy <a href=\"https://twitter.com/racket100\">@racket100</a> - <a href=\"https://racket.com/twobrainy/rrdT5\">racket.com/twobrainy/rrdT5</a>",
+        "value" : "In which I ramble about being a \"lazy coder\" with Pulumi and scripts. by Two Brainy @racket100 - racket.com/twobrainy/rrdT5"
+      } ],
+      "published" : [ "2021-08-26T10:02:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1430833058140233730" ],
+      "url" : [ "https://twitter.com/TwoBrainy/status/1430833058140233730" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Everywhere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Two Brainy" ],
+        "nickname" : [ "TwoBrainy" ],
+        "numeric-id" : [ "1364600557579730946" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413170598692466692/RURi4v8s.jpg" ],
+        "published" : [ "2021-02-24T15:38:42+00:00" ],
+        "uid" : [ "tag:twitter.com:TwoBrainy" ],
+        "url" : [ "https://twitter.com/TwoBrainy", "https://twobrainy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I will be forever indebted to <a href=\"https://twitter.com/PulumiCorp\">@pulumicorp</a>, for allowing me to continue my \"lazy coding\" habit. ",
+      "value" : "I will be forever indebted to @pulumicorp, for allowing me to continue my \"lazy coding\" habit. "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E9tbbT4X0AYwMw2.jpg" ],
+    "published" : [ "2021-08-26T10:22:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1430837934572417025" ],
+    "url" : [ "https://twitter.com/TwoBrainy/status/1430837934572417025" ]
+  },
+  "type" : [ "h-entry" ]
+}
