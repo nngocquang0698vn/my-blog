@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "what are your favorite meal delivery services? i'm interested in both the cook-it-yourself variety and premade meals 😅" ],
+    "published" : [ "2021-08-27T18:31:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1431323433149734912" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1431323433149734912" ]
+  },
+  "type" : [ "h-entry" ]
+}
