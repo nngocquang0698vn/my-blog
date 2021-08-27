@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "url" : [ "https://twitter.com/netflix", "https://www.tudum.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's official: The Old Guard is reuniting for a sequel that will be directed by Victoria Mahoney!" ],
+    "photo" : [ "https://pbs.twimg.com/media/E9u58REVoAEl3gK.jpg" ],
+    "published" : [ "2021-08-26T17:15:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1430941864023056384" ],
+    "url" : [ "https://twitter.com/netflix/status/1430941864023056384" ]
+  },
+  "type" : [ "h-entry" ]
+}
