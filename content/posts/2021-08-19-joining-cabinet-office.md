@@ -1,15 +1,16 @@
 ---
 title: "I'm Joining the Cabinet Office"
-description: "Announcing my move into the Central Digital and Data Office (CDDO) as a Tech Lead."
+description: "Announcing my move into the Central Digital and Data Office (CDDO) as\
+  \ a Tech Lead."
+date: "2021-08-19T09:36:02+0100"
 tags:
-- personal
-- job
-- announcement
-- capital-one
-- cddo
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-08-19T09:36:02+0100
+- "personal"
+- "job"
+- "announcement"
+- "capital-one"
+- "cddo"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
 slug: "joining-cabinet-office"
 ---
 It is with mixed emotions that I'm announcing that after a wonderful five years at Capital One, I'm leaving the Private Sector to join the Cabinet Office!
@@ -30,11 +31,11 @@ I'm also looking forward to being able to do some more work in the open - I'm lo
 
 I'm looking forward to being more hands on - with a new tech stack to play around with, and a bit more out of my comfort zone than I have been the last couple of years - although I'm sure I'll regret saying that!
 
-It's been a longer process than I'd expected (due to the background checks required for security clearance), but it's definitely been worth it - although trying to keep this secret has been very difficult! That being said, I've enjoyed hearing rumors about me moving - even before any of my colleagues were aware I was actually leaving 😅
+It's been a longer process than I'd expected (due to the background checks required for security clearance), but it's definitely been worth it - although trying to keep this secret has been very difficult! That being said, I've enjoyed hearing rumors about me moving - even before any of my colleagues were aware I was actually leaving ����
 
 Something I really liked about the process is that if you fulfill the requirements, but don't get offered the role - in my case, I was second choice - your application gets put on the system and you can be offered anything at that level, without interviewing again, for 12 months. Although I ended up being offered the job as the first choice declined the role, it was really nice to know that one interview could lead me to a lot of roles to choose from down the line. This definitely took a bit of the sting out of the fact that I wasn't as highly scoring as the first choice candidate, but was also nice that of the first interview I've done in 5 years for a new job, I managed to ace it on the first try!
 
-It's going to be tough to leave Capital One, and I know I've not yet done everything I could have done, but I'm excited for the next steps in my career. Having only been at Capital One, I wanted to make sure that I'd experienced other roles, and seeing what other engineering practices, cultures and scaling problems were available - although I've had some comments about whether Government is a particularly different change of pace compared to a large Enterprise 😂
+It's going to be tough to leave Capital One, and I know I've not yet done everything I could have done, but I'm excited for the next steps in my career. Having only been at Capital One, I wanted to make sure that I'd experienced other roles, and seeing what other engineering practices, cultures and scaling problems were available - although I've had some comments about whether Government is a particularly different change of pace compared to a large Enterprise ����
 
 In my time at Capital One, I've worked on building a couple of platforms fresh on the Cloud, I've worked on improving developer experience with build/test/deploy pipelines, a fair bit of time improving the way that production systems are supported, reading through a lot of technical specifications (like OAuth2, OpenID Connect, Open Banking, and HTTP Signatures to name the big ones), and doing a lot of refinement and planning! I've worked in a large Enterprise with regulatory, internal audit and security requirements, and standardisation requirements.
 
@@ -45,3 +46,5 @@ I want to say a huge thank you to everyone who's taught me something new, collea
 I'll be sad to leave the [Purple Pandas](https://media.jvt.me/2fe2d7ed8c.jpeg), and very sad to be losing Shama as a manager, but I'm looking forward to my next step.
 
 You've all made the last few years really great - I hope to keep in touch, and work with many of you in the future again!
+
+My last day will be the 12th October, and my first day will be the 18th October.
