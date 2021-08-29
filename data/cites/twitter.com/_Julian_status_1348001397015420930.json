@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Julian Shapiro" ],
+        "nickname" : [ "Julian" ],
+        "numeric-id" : [ "293815131" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1095918960187342848/jyFGwWyv.jpg" ],
+        "published" : [ "2011-05-06T01:11:46+00:00" ],
+        "uid" : [ "tag:twitter.com:Julian" ],
+        "url" : [ "https://twitter.com/Julian", "http://Julian.com/about", "http://Julian.com", "http://DemandCurve.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Bloggers who post frequently (2x/wk) are rarely worth reading consistently.\n\nI read for insights. And no writer can generate profound insights on a fixed schedule.\n\nI aggregate writers who publish sporadically. When they post, they truly have something to say.</div>",
+      "value" : "Bloggers who post frequently (2x/wk) are rarely worth reading consistently.\n\nI read for insights. And no writer can generate profound insights on a fixed schedule.\n\nI aggregate writers who publish sporadically. When they post, they truly have something to say."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Julian/status/1348001396277186560" ],
+    "published" : [ "2021-01-09T20:19:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1348001397015420930" ],
+    "url" : [ "https://twitter.com/Julian/status/1348001397015420930" ]
+  },
+  "type" : [ "h-entry" ]
+}
