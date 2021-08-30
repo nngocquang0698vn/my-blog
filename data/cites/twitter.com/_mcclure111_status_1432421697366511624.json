@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "mcc" ],
+        "nickname" : [ "mcclure111" ],
+        "numeric-id" : [ "312426579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR.jpg" ],
+        "published" : [ "2011-06-07T03:20:19+00:00" ],
+        "uid" : [ "tag:twitter.com:mcclure111" ],
+        "url" : [ "https://twitter.com/mcclure111", "http://runhello.com/", "http://mastodon.social/@mcc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Say I want to do a transform on a great many JSON files spread throughout a directory, but to minimize disruption I want to preserve whitespace whenever possible.\n\nAre there any JSON libraries for Python (or a similar language) that can do this (preserve existing whitespace)?</div>",
+      "value" : "Say I want to do a transform on a great many JSON files spread throughout a directory, but to minimize disruption I want to preserve whitespace whenever possible.\n\nAre there any JSON libraries for Python (or a similar language) that can do this (preserve existing whitespace)?"
+    } ],
+    "published" : [ "2021-08-30T19:15:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1432421697366511624" ],
+    "url" : [ "https://twitter.com/mcclure111/status/1432421697366511624" ]
+  },
+  "type" : [ "h-entry" ]
+}
