@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Hill" ],
+          "nickname" : [ "thehill" ],
+          "numeric-id" : [ "1917731" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v.jpg" ],
+          "published" : [ "2007-03-22T18:15:18+00:00" ],
+          "uid" : [ "tag:twitter.com:thehill" ],
+          "url" : [ "https://twitter.com/thehill", "http://www.thehill.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Biden has canceled over $9 billion in student loan debt <a href=\"http://hill.cm/4sPhSFE\">hill.cm/4sPhSFE</a>",
+        "value" : "Biden has canceled over $9 billion in student loan debt hill.cm/4sPhSFE"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E-JJ1HKXEAYCgSj.png" ],
+      "published" : [ "2021-08-31T19:34:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1432788810312691716" ],
+      "url" : [ "https://twitter.com/thehill/status/1432788810312691716" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Keshav Kant" ],
+        "nickname" : [ "MxKantEven" ],
+        "numeric-id" : [ "905627850467880960" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1426840915247828997/mtkuAN9D.jpg" ],
+        "published" : [ "2017-09-07T03:04:40+00:00" ],
+        "uid" : [ "tag:twitter.com:MxKantEven" ],
+        "url" : [ "https://twitter.com/MxKantEven", "https://offcolour.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Total student debt in the US:\n1,570,000,000,000\n\nWhat he cancelled:\n9,000,000,000\n\nWhat remains:\n1,561,000,000,000\n\nHope that helped.</div>",
+      "value" : "Total student debt in the US:\n1,570,000,000,000\n\nWhat he cancelled:\n9,000,000,000\n\nWhat remains:\n1,561,000,000,000\n\nHope that helped."
+    } ],
+    "published" : [ "2021-09-01T03:43:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1432912018609213442" ],
+    "url" : [ "https://twitter.com/MxKantEven/status/1432912018609213442" ]
+  },
+  "type" : [ "h-entry" ]
+}
