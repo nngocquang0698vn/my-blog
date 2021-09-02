@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lorin Hochstein" ],
+        "nickname" : [ "norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A root cause you never hear:\n\nX, who had experience with the codebase, left the company, and so they weren't here to notice the issue and prevent it from metastasizing into a full-blown incident.</div>",
+      "value" : "A root cause you never hear:\n\nX, who had experience with the codebase, left the company, and so they weren't here to notice the issue and prevent it from metastasizing into a full-blown incident."
+    } ],
+    "published" : [ "2021-09-01T05:10:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1432933808223883268" ],
+    "url" : [ "https://twitter.com/norootcause/status/1432933808223883268" ]
+  },
+  "type" : [ "h-entry" ]
+}
