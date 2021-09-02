@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Whiteman" ],
+        "nickname" : [ "james_whiteman" ],
+        "numeric-id" : [ "1465429939" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331812475361103874/BCRS_mfK.jpg" ],
+        "published" : [ "2013-05-28T18:48:22+00:00" ],
+        "uid" : [ "tag:twitter.com:james_whiteman" ],
+        "url" : [ "https://twitter.com/james_whiteman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think this is misinterpreting the notion of overengineering. You're referencing a complex solution to a complex problem, overengineering is a complex solution to an easy problem, e.g. Juicero overengineered making juice\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bobbytables\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bryanl\"></a>",
+      "value" : "I think this is misinterpreting the notion of overengineering. You're referencing a complex solution to a complex problem, overengineering is a complex solution to an easy problem, e.g. Juicero overengineered making juice"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bobbytables/status/1433115424607121426" ],
+    "published" : [ "2021-09-01T19:30:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1433150384374116352" ],
+    "url" : [ "https://twitter.com/james_whiteman/status/1433150384374116352" ]
+  },
+  "type" : [ "h-entry" ]
+}
