@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "HAIL THE ORB" ],
+        "nickname" : [ "joe_no_privacy" ],
+        "numeric-id" : [ "838196180366442496" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1299889788267368449/mIh5hnZf.jpg" ],
+        "published" : [ "2017-03-05T01:15:17+00:00" ],
+        "uid" : [ "tag:twitter.com:joe_no_privacy" ],
+        "url" : [ "https://twitter.com/joe_no_privacy", "http://hailtheorb.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the fact that there's a .top gTLD but not .bottom, seems like  discrimination, to me" ],
+    "published" : [ "2021-09-04T15:52:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1434182533998993409" ],
+    "url" : [ "https://twitter.com/joe_no_privacy/status/1434182533998993409" ]
+  },
+  "type" : [ "h-entry" ]
+}
