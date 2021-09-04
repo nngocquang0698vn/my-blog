@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926898317170216960/yqu9jBFD.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks to the entire Jenkins Infra Team for their evening&amp;weekend work to get it fixed as soon as possible! 🙇\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jenkinsci\"></a>",
+      "value" : "Thanks to the entire Jenkins Infra Team for their evening&weekend work to get it fixed as soon as possible! 🙇"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jenkinsci/status/1434192692414595073" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Neuchâtel, Switzerland" ],
+        "uid" : [ "tag:twitter.com:dfbf4ce81da97883" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2021-09-04T16:55:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1434198357057093636" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1434198357057093636" ]
+  },
+  "type" : [ "h-entry" ]
+}
