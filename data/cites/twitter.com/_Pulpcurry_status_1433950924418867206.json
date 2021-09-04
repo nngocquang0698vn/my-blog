@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "A musty second hand bookshop" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Nette" ],
+        "nickname" : [ "Pulpcurry" ],
+        "numeric-id" : [ "297790369" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/929967954237603840/TJQmCIHN.jpg" ],
+        "published" : [ "2011-05-13T03:34:40+00:00" ],
+        "uid" : [ "tag:twitter.com:Pulpcurry" ],
+        "url" : [ "https://twitter.com/Pulpcurry", "http://www.pulpcurry.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This." ],
+    "photo" : [ "https://pbs.twimg.com/media/E-ZqwrgVEAk0sr6.jpg" ],
+    "published" : [ "2021-09-04T00:31:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1433950924418867206" ],
+    "url" : [ "https://twitter.com/Pulpcurry/status/1433950924418867206" ]
+  },
+  "type" : [ "h-entry" ]
+}
