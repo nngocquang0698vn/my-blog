@@ -28,7 +28,7 @@ node {
   if (env.BRANCH_NAME == 'master') {
     stage('Release') {
       sh 'git tag v..'
-      sh 'git push'
+      sh 'git push --tags'
     }
   }
 }
@@ -53,7 +53,7 @@ node {
       ]) {
         sh 'git config credentials.helper "/path/to/helper.sh"'
         sh 'git tag v..'
-        sh 'git push'
+        sh 'git push --tags'
       }
     }
   }
