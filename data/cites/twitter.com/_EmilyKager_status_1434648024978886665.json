@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422990215946199041/Zrm3hKvT.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "🤔🤨🧐" ],
+    "photo" : [ {
+      "alt" : "Tweet from uncle Bob Martin: I had a fascinating conversation with a woman programmer some years ago. We compared our feelings about writing code. I told her it felt like hunting and bringing home meat. She told me it felt like nurturing something into being.",
+      "value" : "https://pbs.twimg.com/media/E-jkxmVVUAQT-l0.jpg"
+    } ],
+    "published" : [ "2021-09-05T22:41:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1434648024978886665" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1434648024978886665" ]
+  },
+  "type" : [ "h-entry" ]
+}
