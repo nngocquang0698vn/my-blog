@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jarmo" ],
+        "nickname" : [ "jarmodj" ],
+        "numeric-id" : [ "395614923" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413978561581563908/v54w-JMh.jpg" ],
+        "published" : [ "2011-10-21T23:28:47+00:00" ],
+        "uid" : [ "tag:twitter.com:jarmodj" ],
+        "url" : [ "https://twitter.com/jarmodj", "https://soundcloud.com/thejarmo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Imagine the reaction if Corbyn said “the taliban have changed” 😂😂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PoliticsForAlI\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/thetimes\"></a>",
+      "value" : "Imagine the reaction if Corbyn said “the taliban have changed” 😂😂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/PoliticsForAlI/status/1435185451455979528" ],
+    "published" : [ "2021-09-07T10:20:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1435186192937635843" ],
+    "url" : [ "https://twitter.com/jarmodj/status/1435186192937635843" ]
+  },
+  "type" : [ "h-entry" ]
+}
