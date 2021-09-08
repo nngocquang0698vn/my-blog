@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_AlexYates_/status/1435319754504409089" ],
     "name" : [ "Like of @_AlexYates_'s tweet" ],
     "published" : [ "2021-09-08T15:37:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
