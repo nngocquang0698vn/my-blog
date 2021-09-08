@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’ve yet to experience this and it’s wild that it’s that common\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/javavvitch\"></a>",
+      "value" : "I’ve yet to experience this and it’s wild that it’s that common"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/javavvitch/status/1435711461683351560" ],
+    "published" : [ "2021-09-08T21:11:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1435712363198619648" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1435712363198619648" ]
+  },
+  "type" : [ "h-entry" ]
+}
