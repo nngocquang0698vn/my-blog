@@ -744,6 +744,31 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
     </td>
   </tr>
+
+  <tr class="new-salary">
+    <td>
+      2014-07-01
+    </td>
+    <td>
+      14500.00
+    </td>
+    <td>
+      Starting salary
+    </td>
+    <td>
+      Intel
+    </td>
+    <td>
+      Placement Year Student
+    </td>
+    <td>
+      Reading
+    </td>
+    <td>
+      Placement Year Student - Appication Engineer
+    </td>
+  </tr>
+
 </table>
 
 <style>
