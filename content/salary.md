@@ -9,6 +9,8 @@ I've broken this down into the:
 - <span class=bonus>Bonus</span> amounts
 - Increments themselves that make up a salary increase
 
+It may be worth looking at [my CV](https://hire.jvt.me) to see what work was required as part of the different roles.
+
 <table class=salary>
   <tr>
     <th>Date</th>
