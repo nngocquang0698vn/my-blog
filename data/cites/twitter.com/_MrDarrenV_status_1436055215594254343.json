@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darren" ],
+        "nickname" : [ "MrDarrenV" ],
+        "numeric-id" : [ "382281508" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1191234585197268992/sJti9OJc.jpg" ],
+        "published" : [ "2011-09-29T20:05:14+00:00" ],
+        "uid" : [ "tag:twitter.com:MrDarrenV" ],
+        "url" : [ "https://twitter.com/MrDarrenV", "https://github.com/DarrenVong" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is cool! We need more data points like this for sure to show people what's possible👏\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "This is cool! We need more data points like this for sure to show people what's possible👏"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1435908763119230978" ],
+    "published" : [ "2021-09-09T19:53:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1436055215594254343" ],
+    "url" : [ "https://twitter.com/MrDarrenV/status/1436055215594254343" ]
+  },
+  "type" : [ "h-entry" ]
+}
