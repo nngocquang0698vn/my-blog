@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bogdan Albei" ],
+        "nickname" : [ "bogdanalbei" ],
+        "numeric-id" : [ "35812753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422966507663921153/kABRh_dp.jpg" ],
+        "published" : [ "2009-04-27T18:12:03+00:00" ],
+        "uid" : [ "tag:twitter.com:bogdanalbei" ],
+        "url" : [ "https://twitter.com/bogdanalbei", "http://bogdan-albei.blogspot.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "public sector salaries are public aren't they? Good luck with the Capital One legal team though\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "public sector salaries are public aren't they? Good luck with the Capital One legal team though"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1435908763119230978" ],
+    "published" : [ "2021-09-09T17:13:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1436015000418766849" ],
+    "url" : [ "https://twitter.com/bogdanalbei/status/1436015000418766849" ]
+  },
+  "type" : [ "h-entry" ]
+}
