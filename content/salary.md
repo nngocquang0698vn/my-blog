@@ -19,6 +19,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <th>Company</th>
     <th>Level</th>
     <th>Location</th>
+    <th>Role</th>
   </tr>
 
   <tr class=new-salary>
@@ -40,6 +41,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       London
     </td>
+    <td>
+      Tech Lead - Senior Software Engineer
+    </td>
   </tr>
 
   <tr>
@@ -60,6 +64,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       London
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -79,6 +85,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       London
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -101,6 +109,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+      Tech Lead - Senior Software Engineer
+    </td>
   </tr>
 
   <tr>
@@ -120,6 +131,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -142,6 +155,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=new-salary>
@@ -163,6 +178,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -182,6 +199,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -204,6 +223,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=bonus>
@@ -223,6 +244,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -244,6 +267,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -263,6 +288,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -285,6 +312,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -304,6 +333,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
+      Senior Engineer within a team, supporting the Tech Lead
     </td>
   </tr>
 
@@ -326,6 +358,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+      Mid-level Software Engineer, stretching into Senior Engineer responsibilities
+    </td>
   </tr>
 
   <tr>
@@ -346,6 +381,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=bonus>
@@ -365,6 +402,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -387,6 +426,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -407,6 +448,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -426,6 +469,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -448,6 +493,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=bonus>
@@ -467,6 +514,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -489,6 +538,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+      Mid-level Software Engineer, coaching junior engineers
+    </td>
   </tr>
 
   <tr>
@@ -508,6 +560,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -529,6 +583,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -548,6 +604,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -570,6 +628,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr>
@@ -590,6 +650,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=bonus>
@@ -609,6 +671,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -631,6 +695,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    </td>
   </tr>
 
   <tr class="new-salary">
@@ -652,6 +718,9 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <td>
       Nottingham
     </td>
+    <td>
+    Graduate Software Engineer
+    </td>
   </tr>
 
   <tr class=bonus>
@@ -671,6 +740,8 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     </td>
     <td>
       Nottingham
+    </td>
+    <td>
     </td>
   </tr>
 </table>
