@@ -219,6 +219,12 @@ notAlternative = true
     title = "Post Visualisation"
     url = "/post-frequency/"
     weight = 45
+  [[menu.footer]]
+    identifier = "salary"
+    name = "Salary History"
+    title = "Salary History"
+    url = "/salary/"
+    weight = 46
 
 [deployment]
 [[deployment.targets]]
