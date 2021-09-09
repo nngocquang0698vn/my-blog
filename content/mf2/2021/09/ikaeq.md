@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JodieNeville/status/1435930574544310273" ],
     "name" : [ "Like of @JodieNeville's tweet" ],
     "published" : [ "2021-09-09T14:01:00+0100" ],
     "like-of" : [ "https://twitter.com/JodieNeville/status/1435930574544310273" ],
