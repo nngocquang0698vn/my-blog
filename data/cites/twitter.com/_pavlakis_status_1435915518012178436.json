@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Antonis Pavlakis" ],
+        "nickname" : [ "pavlakis" ],
+        "numeric-id" : [ "17073693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1363644085337272323/Qi2qBfjx.jpg" ],
+        "published" : [ "2008-10-30T20:21:21+00:00" ],
+        "uid" : [ "tag:twitter.com:pavlakis" ],
+        "url" : [ "https://twitter.com/pavlakis", "https://pavlakis.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Amazing. That’s the first time I’ve seen something like this in the UK 👏\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Amazing. That’s the first time I’ve seen something like this in the UK 👏"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1435908763119230978" ],
+    "published" : [ "2021-09-09T10:38:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1435915518012178436" ],
+    "url" : [ "https://twitter.com/pavlakis/status/1435915518012178436" ]
+  },
+  "type" : [ "h-entry" ]
+}
