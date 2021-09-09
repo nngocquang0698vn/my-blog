@@ -1,11 +1,11 @@
 {
-  "date" : "2021-09-09T16:07:48.911715161Z",
+  "date": "2021-09-09T10:02:36Z",
   "deleted" : false,
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "published" : [ "2021-09-09T16:07:48.911715161Z" ],
+    "published" : [ "2021-09-09T10:02:36Z" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
