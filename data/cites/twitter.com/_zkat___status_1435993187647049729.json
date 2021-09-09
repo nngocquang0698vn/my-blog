@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "stolen Chochenyo Ohlone land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kat marchán" ],
+        "nickname" : [ "zkat__" ],
+        "numeric-id" : [ "2978661890" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379317565948788740/dWqUc1nA.jpg" ],
+        "published" : [ "2015-01-13T06:07:49+00:00" ],
+        "uid" : [ "tag:twitter.com:zkat__" ],
+        "url" : [ "https://twitter.com/zkat__", "https://toot.cat/@zkat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "love love love love love this" ],
+    "photo" : [ {
+      "alt" : "Graphical version of a miette JSON error from collider. Narrator version: Error: Found some bad JSON     Diagnostic severity: error     Caused by: invalid type: floating point `13`, expected a version string at line 4 column 17  Begin snippet for C:\\Users\\micro\\src\\electron-collider\\package.json starting at line 1, column 1: JSON context  snippet line 1: { snippet line 2:   \"//\": \"This is a dummy package for interactive collider dev. In practice, this would be the JS wrapper's packag e.json\", snippet line 3:   \"name\": \"collider\", snippet line 4:   \"version\": 13.0.0\"     highlight starting at line 4, column 16: here snippet line 6: }  diagnostic code: collider::start::bad_package_json",
+      "value" : "https://pbs.twimg.com/media/E-2r9HfUcAkcpLK.jpg"
+    } ],
+    "published" : [ "2021-09-09T15:47:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1435993187647049729" ],
+    "url" : [ "https://twitter.com/zkat__/status/1435993187647049729" ]
+  },
+  "type" : [ "h-entry" ]
+}
