@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie 👩‍💻" ],
+        "nickname" : [ "developerontour" ],
+        "numeric-id" : [ "903679335462301701" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433733959163260945/EovPyejT.jpg" ],
+        "published" : [ "2017-09-01T18:01:57+00:00" ],
+        "uid" : [ "tag:twitter.com:developerontour" ],
+        "url" : [ "https://twitter.com/developerontour", "http://jamiehammond.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As a fellow Jamie I applaud you 👏\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "As a fellow Jamie I applaud you 👏"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1435908763119230978" ],
+    "published" : [ "2021-09-09T13:21:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1435956627023171590" ],
+    "url" : [ "https://twitter.com/developerontour/status/1435956627023171590" ]
+  },
+  "type" : [ "h-entry" ]
+}
