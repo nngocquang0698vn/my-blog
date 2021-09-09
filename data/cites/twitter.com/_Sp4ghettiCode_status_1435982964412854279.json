@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Shropshire, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed George" ],
+        "nickname" : [ "Sp4ghettiCode" ],
+        "numeric-id" : [ "991238672812052480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224696422353817602/Szvtaq2I.jpg" ],
+        "published" : [ "2018-05-01T08:51:30+00:00" ],
+        "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
+        "url" : [ "https://twitter.com/Sp4ghettiCode", "http://ed-george.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TIL that you can make regex patterns in code comments auto-link somewhere within Android Studio just by modifying the .idea/vcs.xml file\n\nWorks really nice for auto-linking to JIRA tickets etc!</div>",
+      "value" : "TIL that you can make regex patterns in code comments auto-link somewhere within Android Studio just by modifying the .idea/vcs.xml file\n\nWorks really nice for auto-linking to JIRA tickets etc!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E-2iZdDWEAMR5EY.jpg" ],
+    "published" : [ "2021-09-09T15:06:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1435982964412854279" ],
+    "url" : [ "https://twitter.com/Sp4ghettiCode/status/1435982964412854279" ]
+  },
+  "type" : [ "h-entry" ]
+}
