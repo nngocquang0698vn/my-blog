@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I didn't know that! It will teach me not to make assumptions - sorry about that.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "I didn't know that! It will teach me not to make assumptions - sorry about that."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1436261004493697057" ],
+    "published" : [ "2021-09-10T11:13:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1436286580008833031" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1436286580008833031" ]
+  },
+  "type" : [ "h-entry" ]
+}
