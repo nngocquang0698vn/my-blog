@@ -656,28 +656,6 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
 
   <tr class=bonus>
     <td>
-    </td>
-    <td>
-      5400.00
-    </td>
-    <td>
-      Corporate bonus
-    </td>
-    <td>
-      Capital One
-    </td>
-    <td>
-      Associate
-    </td>
-    <td>
-      Nottingham
-    </td>
-    <td>
-    </td>
-  </tr>
-
-  <tr class=bonus>
-    <td>
       2017-01-29
     </td>
     <td>
