@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "a dumpster in NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nick" ],
+        "nickname" : [ "nicksfurry" ],
+        "numeric-id" : [ "846892897832095744" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431270414647545861/qR7M8Iat.jpg" ],
+        "published" : [ "2017-03-29T01:12:56+00:00" ],
+        "uid" : [ "tag:twitter.com:nicksfurry" ],
+        "url" : [ "https://twitter.com/nicksfurry", "https://www.furaffinity.net/user/nicksfurry" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i didnt think i was very opinionated on code until i met someone that does it wrong" ],
+    "published" : [ "2021-09-10T16:09:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1436361181514584064" ],
+    "url" : [ "https://twitter.com/nicksfurry/status/1436361181514584064" ]
+  },
+  "type" : [ "h-entry" ]
+}
