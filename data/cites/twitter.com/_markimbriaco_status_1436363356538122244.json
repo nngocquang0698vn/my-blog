@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam Jacob" ],
+          "nickname" : [ "adamhjk" ],
+          "numeric-id" : [ "13682312" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+          "published" : [ "2008-02-19T18:02:55+00:00" ],
+          "uid" : [ "tag:twitter.com:adamhjk" ],
+          "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Let's say nice things about technology today. I'll start. If it wasn't for <a href=\"https://twitter.com/lkanies\">@lkanies</a> and <a href=\"https://twitter.com/puppetize\">@puppetize</a>, there is no way we would have been able to adapt as an industry to the rise of the cloud. Quote tweet me with your own.",
+        "value" : "Let's say nice things about technology today. I'll start. If it wasn't for @lkanies and @puppetize, there is no way we would have been able to adapt as an industry to the rise of the cloud. Quote tweet me with your own."
+      } ],
+      "published" : [ "2021-09-10T15:30:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1436351386313101322" ],
+      "url" : [ "https://twitter.com/adamhjk/status/1436351386313101322" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Apex, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Imbriaco" ],
+        "nickname" : [ "markimbriaco" ],
+        "numeric-id" : [ "9887162" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372959873802104836/i8zfbdRD.jpg" ],
+        "published" : [ "2007-11-02T14:56:54+00:00" ],
+        "uid" : [ "tag:twitter.com:markimbriaco" ],
+        "url" : [ "https://twitter.com/markimbriaco" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ruby on Rails made web development fun again and forced the entire industry to adapt and pay attention to developer experience long before it was cool.  The impact of Rails is hard to overstate." ],
+    "published" : [ "2021-09-10T16:18:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1436363356538122244" ],
+    "url" : [ "https://twitter.com/markimbriaco/status/1436363356538122244" ]
+  },
+  "type" : [ "h-entry" ]
+}
