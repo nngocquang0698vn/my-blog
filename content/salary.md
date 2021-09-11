@@ -14,7 +14,7 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
 <table class=salary>
   <tr>
     <th>Date</th>
-    <th>Amount</th>
+    <th>Amount (£)</th>
     <th>Description</th>
     <th>Company</th>
     <th>Level</th>
