@@ -1,11 +1,13 @@
 ---
 title: "Providing a Public Salary History Page"
 description: "Publishing my salary and compensation history for public use."
+date: "2021-09-09T10:59:44+0100"
+syndication:
+- "https://news.ycombinator.com/item?id=28486023"
 tags:
-- job
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-09-09T10:59:44+0100
+- "job"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
 slug: "public-salary-history"
 ---
 With [my recent job hunt]({{< ref 2021-08-19-joining-cabinet-office >}}), and quite a few friends and colleagues looking at the job market, I've been keeping an eye on what the going rate for Software Engineering roles are.
