@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "IndieAuth 2 Popup Session" ],
+    "category" : [ "popup", "pop-up", "indieauth", "indiewebcamp" ],
+    "url" : [ "https://events.indieweb.org/2021/10/indieauth-2-popup-session-5y88zAw4LtO9" ],
+    "start" : [ "2021-10-16T14:30:00Z" ],
+    "end" : [ "2021-10-16T16:30:00Z" ],
+    "content" : [ {
+      "html" : "<p><a href=\"https://indieauth.net/\">IndieAuth</a> is the most implemented decentralized identity protocol, built on top of OAuth 2.0.</p>\n\n<p>At the last IndieAuth protocol session, we did not finish all the topics of discussion.  This popup IndieWebCamp session will focus on discussions to iterate and evolve the IndieAuth protocol. We will update this event with more details as the event gets closer. Discussion topics will be available on the wiki, through the link above.</p>\n\n<p>Etherpad: <a href=\"https://etherpad.indieweb.org/2021-10-indieauth-popup\">https://etherpad.indieweb.org/2021-10-indieauth-popup</a></p>\n\n<h2>Who Should Attend?</h2>\n\n<p>Anyone interested in IndieAuth is welcome! Specifically if you've built any IndieAuth clients or servers, we want your input!</p>\n\n<h2>Suggested Reading</h2>\n\n<p>If you're not already familiar with the IndieAuth spec, please <a href=\"https://indieauth.spec.indieweb.org/\">give it a read</a>. We will be starting this session with the assumption that people are familiar with the basics of the IndieAuth protocol.</p>\n\n<p>For a summary of the 2020 changes to the spec, see Aaron's post <a href=\"https://aaronparecki.com/2020/12/03/1/indieauth-2020\">IndieAuth Spec Updates 2020</a>, and the notes on our <a href=\"https://indieweb.org/2021/Pop-ups/IndieAuth\">August session</a>.</p>\n\n<p>Since IndieAuth is built on top of OAuth 2.0, it may be helpful to have some knowledge of <a href=\"https://oauth.net/2/\">OAuth 2.0</a> and its extensions, although this is not required reading.</p>",
+      "value" : "IndieAuth is the most implemented decentralized identity protocol, built on top of OAuth 2.0.\nAt the last IndieAuth protocol session, we did not finish all the topics of discussion. This popup IndieWebCamp session will focus on discussions to iterate and evolve the IndieAuth protocol. We will update this event with more details as the event gets closer. Discussion topics will be available on the wiki, through the link above.\nEtherpad: https://etherpad.indieweb.org/2021-10-indieauth-popup Who Should Attend?\nAnyone interested in IndieAuth is welcome! Specifically if you've built any IndieAuth clients or servers, we want your input! Suggested Reading\nIf you're not already familiar with the IndieAuth spec, please give it a read. We will be starting this session with the assumption that people are familiar with the basics of the IndieAuth protocol.\nFor a summary of the 2020 changes to the spec, see Aaron's post IndieAuth Spec Updates 2020, and the notes on our August session.\nSince IndieAuth is built on top of OAuth 2.0, it may be helpful to have some knowledge of OAuth 2.0 and its extensions, although this is not required reading.",
+      "lang" : "en"
+    } ]
+  },
+  "lang" : "en"
+}
