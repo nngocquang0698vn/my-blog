@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Vinny Thomas" ],
+          "nickname" : [ "vinn_ayy" ],
+          "numeric-id" : [ "867008801433669634" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1413519032372928512/n3WQEzr4.jpg" ],
+          "published" : [ "2017-05-23T13:26:21+00:00" ],
+          "uid" : [ "tag:twitter.com:vinn_ayy" ],
+          "url" : [ "https://twitter.com/vinn_ayy", "https://www.instagram.com/vinn_ayy/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Proboscis monkeys love looking like they are shocked by the allegations" ],
+      "photo" : [ "https://pbs.twimg.com/media/E_H3U_zWUBAk7am.jpg", "https://pbs.twimg.com/media/E_H3VACXsAMAHv8.jpg", "https://pbs.twimg.com/media/E_H3U_5WEAMOMkI.jpg", "https://pbs.twimg.com/media/E_H3U_4WUAUDs1E.jpg" ],
+      "published" : [ "2021-09-12T23:49:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1437201701560279040" ],
+      "url" : [ "https://twitter.com/vinn_ayy/status/1437201701560279040" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salem, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "pumpkin spice genehack" ],
+        "nickname" : [ "genehack" ],
+        "numeric-id" : [ "753743" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347434954725105665/l2FJWg93.jpg" ],
+        "published" : [ "2007-02-04T03:37:51+00:00" ],
+        "uid" : [ "tag:twitter.com:genehack" ],
+        "url" : [ "https://twitter.com/genehack", "https://genehack.org", "http://genehack.blog", "http://covid.house", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Is anybody else vaguely reminded of Downton’s MR Carlson? \n\nJust me then? Aight.</div>",
+      "value" : "Is anybody else vaguely reminded of Downton’s MR Carlson? \n\nJust me then? Aight."
+    } ],
+    "published" : [ "2021-09-13T05:29:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1437287285574148105" ],
+    "url" : [ "https://twitter.com/genehack/status/1437287285574148105" ]
+  },
+  "type" : [ "h-entry" ]
+}
