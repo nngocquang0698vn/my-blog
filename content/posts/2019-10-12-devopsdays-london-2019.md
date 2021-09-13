@@ -455,7 +455,7 @@ One interesting discussion we had was around the fact that it was mostly assumed
 
 Something to always think about is that people have their own ways of learning and that we need to respect that. We need to ask people how they learn, and cater what we have towards that. It may not be a case of having everything prepared all of the time, but it will at least help with being more prepared to try and cater for different folks.
 
-How do we know if we're not sharing knowledge in a helpful way? Well, our mentees need to tell us! Ask them for feedback, and action it, making sure we **??**.
+How do we know if we're not sharing knowledge in a helpful way? Well, our mentees need to tell us! Ask them for feedback and action it.
 
 Remember that not everyone comes from a Computer Science degree background, so we need to make sure we're not making wild assumptions on understanding and background.
 
