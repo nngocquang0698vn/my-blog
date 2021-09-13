@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/nicholasnapp/s…" ],
+        "url" : [ "https://twitter.com/nicholasnapp/status/1437063123463254024" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "MMitchell" ],
+          "nickname" : [ "mmitchell_ai" ],
+          "numeric-id" : [ "748528569064710145" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/759051761487187968/24OG0RCC.jpg" ],
+          "published" : [ "2016-06-30T14:48:12+00:00" ],
+          "uid" : [ "tag:twitter.com:mmitchell_ai" ],
+          "url" : [ "https://twitter.com/mmitchell_ai", "http://m-mitchell.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"...technical interviews currently used in hiring for many software engineering positions test whether a job candidate has performance anxiety rather than whether the candidate is competent at coding\"\nCross that with Stereotype Threat and auughhh 😱</div>\n<a class=\"tag\" href=\"https://twitter.com/nicholasnapp/status/1437063123463254024\">twitter.com/nicholasnapp/s…</a>",
+        "value" : "\"...technical interviews currently used in hiring for many software engineering positions test whether a job candidate has performance anxiety rather than whether the candidate is competent at coding\"\nCross that with Stereotype Threat and auughhh 😱"
+      } ],
+      "published" : [ "2021-09-13T15:26:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1437437481725530113" ],
+      "url" : [ "https://twitter.com/mmitchell_ai/status/1437437481725530113" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kate rotondo" ],
+        "nickname" : [ "krotondo" ],
+        "numeric-id" : [ "1085991" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305751125568569344/a7fWseek.jpg" ],
+        "published" : [ "2007-03-13T13:19:48+00:00" ],
+        "uid" : [ "tag:twitter.com:krotondo" ],
+        "url" : [ "https://twitter.com/krotondo", "http://kathrynrotondo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The technical interview process gives a particularly large advantage to people who can afford to take the time to focus solely on preparing for an interview process that has very little to do with the nature of the work itself." ],
+    "published" : [ "2021-09-13T16:22:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1437451566684930053" ],
+    "url" : [ "https://twitter.com/krotondo/status/1437451566684930053" ]
+  },
+  "type" : [ "h-entry" ]
+}
