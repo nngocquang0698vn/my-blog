@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Cut" ],
+          "nickname" : [ "TheCut" ],
+          "numeric-id" : [ "19923638" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/899259308445020161/OL2Y5xmv.jpg" ],
+          "published" : [ "2009-02-02T19:13:01+00:00" ],
+          "uid" : [ "tag:twitter.com:TheCut" ],
+          "url" : [ "https://twitter.com/TheCut", "https://thecut.com", "http://nymag.com/subscribe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "“If someone doesn’t know what this means, you’re gonna have to look it up” — Cara Delevingne <a href=\"https://twitter.com/search?q=%23MetGala\">#MetGala</a> <a href=\"https://thecut.io/3liUJn2\">thecut.io/3liUJn2</a>",
+        "value" : "“If someone doesn’t know what this means, you’re gonna have to look it up” — Cara Delevingne #MetGala thecut.io/3liUJn2"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E_NO-5IXEAMlfu6.jpg" ],
+      "published" : [ "2021-09-14T00:50:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1437579551551406090" ],
+      "url" : [ "https://twitter.com/TheCut/status/1437579551551406090" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Haha it's subversive because being penetrated is degrading.  i wonder where that idea comes from.  better not look into it" ],
+    "published" : [ "2021-09-14T14:32:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1437786434258280451" ],
+    "url" : [ "https://twitter.com/eevee/status/1437786434258280451" ]
+  },
+  "type" : [ "h-entry" ]
+}
