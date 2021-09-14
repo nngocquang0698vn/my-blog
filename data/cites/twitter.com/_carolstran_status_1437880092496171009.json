@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/thecut/status/…" ],
+        "url" : [ "https://twitter.com/thecut/status/1437579551551406090" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "andi zeisler" ],
+          "nickname" : [ "andizeisler" ],
+          "numeric-id" : [ "574020783" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1178739948620369923/Mbrf866Y.jpg" ],
+          "published" : [ "2012-05-07T20:25:11+00:00" ],
+          "uid" : [ "tag:twitter.com:andizeisler" ],
+          "url" : [ "https://twitter.com/andizeisler", "http://bitchmedia.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "personally I’m not sure that cosigning the idea that sex = punishment is a real rah-rah moment but I am also deeply unfashionable\n<a class=\"tag\" href=\"https://twitter.com/thecut/status/1437579551551406090\">twitter.com/thecut/status/…</a>",
+        "value" : "personally I’m not sure that cosigning the idea that sex = punishment is a real rah-rah moment but I am also deeply unfashionable"
+      } ],
+      "published" : [ "2021-09-14T02:52:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1437610202400886796" ],
+      "url" : [ "https://twitter.com/andizeisler/status/1437610202400886796" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Sure “Peg the Patriarchy” may come from a sex positive place but I strongly agree with this take. \n\nYou need to know your audience. Sex for many is already associated w/ shame - plus a surprising amount of people don’t know what pegging is. So it’s more harmful than productive.</div>",
+      "value" : "Sure “Peg the Patriarchy” may come from a sex positive place but I strongly agree with this take. \n\nYou need to know your audience. Sex for many is already associated w/ shame - plus a surprising amount of people don’t know what pegging is. So it’s more harmful than productive."
+    } ],
+    "published" : [ "2021-09-14T20:45:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1437880092496171009" ],
+    "url" : [ "https://twitter.com/carolstran/status/1437880092496171009" ]
+  },
+  "type" : [ "h-entry" ]
+}
