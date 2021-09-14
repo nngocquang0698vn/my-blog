@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/krotondo/status/1437451566684930053" ],
     "name" : [ "Like of @krotondo's tweet" ],
     "published" : [ "2021-09-13T21:59:00+0100" ],
     "category" : [ "interviewing" ],
