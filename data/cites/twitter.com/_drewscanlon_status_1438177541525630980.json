@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Drew Scanlon" ],
+        "nickname" : [ "drewscanlon" ],
+        "numeric-id" : [ "187607140" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1111377641452400641/64aBQ96a.png" ],
+        "published" : [ "2010-09-06T17:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:drewscanlon" ],
+        "url" : [ "https://twitter.com/drewscanlon", "https://youtube.com/clothmap" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hi Internet! I'm Drew and THIS IS MY FACE.\n\nIf this GIF has ever brought you joy in the past, I humbly ask you to consider making a donation to the National MS Society. It would mean a lot to me and to those I know affected by the disease!\n\nDonate at <a href=\"http://BlinkingGuy.com\">BlinkingGuy.com</a></div>",
+      "value" : "Hi Internet! I'm Drew and THIS IS MY FACE.\n\nIf this GIF has ever brought you joy in the past, I humbly ask you to consider making a donation to the National MS Society. It would mean a lot to me and to those I know affected by the disease!\n\nDonate at BlinkingGuy.com"
+    } ],
+    "published" : [ "2021-09-15T16:27:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1438177541525630980" ],
+    "url" : [ "https://twitter.com/drewscanlon/status/1438177541525630980" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E_Vu2TiVIAg807v.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
