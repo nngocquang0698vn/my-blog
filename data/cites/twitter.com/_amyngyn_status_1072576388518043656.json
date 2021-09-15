@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">COWORKER: we need to find the root cause asap\nME: *takes long drag* the root cause is that our processes are not robust enough to prevent a person from making this mistake\nCOWORKER: amy please not right now</div>",
+      "value" : "COWORKER: we need to find the root cause asap\nME: *takes long drag* the root cause is that our processes are not robust enough to prevent a person from making this mistake\nCOWORKER: amy please not right now"
+    } ],
+    "published" : [ "2018-12-11T19:38:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1072576388518043656" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1072576388518043656" ]
+  },
+  "type" : [ "h-entry" ]
+}
