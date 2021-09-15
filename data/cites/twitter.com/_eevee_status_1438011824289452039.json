@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/", "http://eev.ee" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "on the other hand if you are expecting a response but get a ♥ and nothing else then i probably just don't know what to say and i'm hoping you won't notice" ],
+    "in-reply-to" : [ "https://twitter.com/eevee/status/1438011137132351488" ],
+    "published" : [ "2021-09-15T05:28:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1438011824289452039" ],
+    "url" : [ "https://twitter.com/eevee/status/1438011824289452039" ]
+  },
+  "type" : [ "h-entry" ]
+}
