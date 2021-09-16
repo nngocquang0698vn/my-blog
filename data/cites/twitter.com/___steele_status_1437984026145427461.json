@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aidan W Steele" ],
+        "nickname" : [ "__steele" ],
+        "numeric-id" : [ "281819105" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199447204311617537/vzdPtfih.jpg" ],
+        "published" : [ "2011-04-14T01:23:40+00:00" ],
+        "uid" : [ "tag:twitter.com:__steele" ],
+        "url" : [ "https://twitter.com/__steele", "https://awsteele.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ok I blogged about it. That's how excited I am. \n\n1. Deploy this CFN template\n2. Write this GHA workflow\n3. Never worry about IAM users again\n \n<a href=\"https://awsteele.com/blog/2021/09/15/aws-federation-comes-to-github-actions.html\">awsteele.com/blog/2021/09/1…</a></div>",
+      "value" : "Ok I blogged about it. That's how excited I am. \n\n1. Deploy this CFN template\n2. Write this GHA workflow\n3. Never worry about IAM users again\n \nawsteele.com/blog/2021/09/1…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/__steele/status/1437968451717394438" ],
+    "photo" : [ "https://pbs.twimg.com/media/E_S-qq0VEAkzUHB.jpg", "https://pbs.twimg.com/media/E_S-rGrVkAA6zgn.jpg" ],
+    "published" : [ "2021-09-15T03:38:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1437984026145427461" ],
+    "url" : [ "https://twitter.com/__steele/status/1437984026145427461" ]
+  },
+  "type" : [ "h-entry" ]
+}
