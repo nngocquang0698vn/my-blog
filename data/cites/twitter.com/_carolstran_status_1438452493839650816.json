@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Funkit Toys" ],
+          "nickname" : [ "FunkitToys" ],
+          "numeric-id" : [ "713940666590609408" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1338891818512080899/sg5fNMDX.jpg" ],
+          "published" : [ "2016-03-27T04:08:14+00:00" ],
+          "uid" : [ "tag:twitter.com:FunkitToys" ],
+          "url" : [ "https://twitter.com/FunkitToys", "http://funkit.toys" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "It's coming along! Candy Corn Buttplug preorders will be available for 10% off until they go on sale in October. Get yours now!" ],
+      "photo" : [ "https://pbs.twimg.com/media/E_WGzmjXEAYrmJP.jpg", "https://pbs.twimg.com/media/E_WG0EIXMAYNzYG.jpg", "https://pbs.twimg.com/media/E_WG0iOXsAYyeSM.jpg" ],
+      "published" : [ "2021-09-15T18:11:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1438203895956877317" ],
+      "url" : [ "https://twitter.com/FunkitToys/status/1438203895956877317" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ok this is TEMPTING" ],
+    "published" : [ "2021-09-16T10:39:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1438452493839650816" ],
+    "url" : [ "https://twitter.com/carolstran/status/1438452493839650816" ]
+  },
+  "type" : [ "h-entry" ]
+}
