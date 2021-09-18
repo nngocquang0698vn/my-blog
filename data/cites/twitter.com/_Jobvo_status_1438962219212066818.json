@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Remote" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Job" ],
+        "nickname" : [ "Jobvo" ],
+        "numeric-id" : [ "65750827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415025931069046785/BZN92PdF.jpg" ],
+        "published" : [ "2009-08-14T22:16:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Jobvo" ],
+        "url" : [ "https://twitter.com/Jobvo", "https://www.remote.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">.<a href=\"https://twitter.com/gitlab\">@gitlab</a> just filed for IPO\n\nIn 2015  the entire GitLab team drove (me) in a single car to a surprise bachelor party for me in Las Vegas. \n\nWow.</div>",
+      "value" : ".@gitlab just filed for IPO\n\nIn 2015  the entire GitLab team drove (me) in a single car to a surprise bachelor party for me in Las Vegas. \n\nWow."
+    } ],
+    "published" : [ "2021-09-17T20:25:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1438962219212066818" ],
+    "url" : [ "https://twitter.com/Jobvo/status/1438962219212066818" ]
+  },
+  "type" : [ "h-entry" ]
+}
