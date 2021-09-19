@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Charity Majors" ],
+          "nickname" : [ "mipsytipsy" ],
+          "numeric-id" : [ "90488576" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1437191689236480000/3ZD1k3lx.jpg" ],
+          "published" : [ "2009-11-16T21:28:13+00:00" ],
+          "uid" : [ "tag:twitter.com:mipsytipsy" ],
+          "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "When level-appropriate work comprises a lot of your performance review, you get something very dangerous: roving bands of skilled, restless engineers competing for vanity projects and systems that should never, ever have been built, but which you now have to maintain. 😬" ],
+      "in-reply-to" : [ "https://twitter.com/mipsytipsy/status/1439433765953032193" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "San Francisco, CA" ],
+          "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2021-09-19T03:45:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1439435420194926594" ],
+      "url" : [ "https://twitter.com/mipsytipsy/status/1439435420194926594" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Auckland, New Zealand" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "moss 💜💛" ],
+        "nickname" : [ "mossnz" ],
+        "numeric-id" : [ "28928777" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1430498252990783491/XGR3HvKT.jpg" ],
+        "published" : [ "2009-04-05T03:06:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mossnz" ],
+        "url" : [ "https://twitter.com/mossnz", "http://moss.geek.nz/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I joined an enterprise as a lead software tester &amp; my first help the company task was to \"solve\" the proliferation of different test automation frameworks\n\nI found the problem fairly quickly; the career ladder *required* writing/running your own framework to get to senior &amp; above</div>",
+      "value" : "I joined an enterprise as a lead software tester & my first help the company task was to \"solve\" the proliferation of different test automation frameworks\n\nI found the problem fairly quickly; the career ladder *required* writing/running your own framework to get to senior & above"
+    } ],
+    "published" : [ "2021-09-19T04:24:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1439445220345606144" ],
+    "url" : [ "https://twitter.com/mossnz/status/1439445220345606144" ]
+  },
+  "type" : [ "h-entry" ]
+}
