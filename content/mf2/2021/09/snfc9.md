@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/paz_marceliano/status/1440295840610799616" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1440301304857858054" ],
     "name" : [ "Reply to https://twitter.com/paz_marceliano/status/1440295840610799616" ],
     "published" : [ "2021-09-21T14:00:00+0100" ],
     "post-status" : [ "published" ],
