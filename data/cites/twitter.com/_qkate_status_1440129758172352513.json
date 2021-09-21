@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Taggart" ],
+        "nickname" : [ "qkate" ],
+        "numeric-id" : [ "37586090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1035671141598285824/48WwuXyb.jpg" ],
+        "published" : [ "2009-05-04T03:38:47+00:00" ],
+        "uid" : [ "tag:twitter.com:qkate" ],
+        "url" : [ "https://twitter.com/qkate", "http://www.katetaggart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">After 7.5 years of being an engineering manager, (and performing at the next level for arguably half of that time), I finally have a Senior Engineering Manager title.\n\nheck yeah, tiny party for meee\n\n(I can't eat sweets right now, so a gif pastry will have to do)</div>",
+      "value" : "After 7.5 years of being an engineering manager, (and performing at the next level for arguably half of that time), I finally have a Senior Engineering Manager title.\n\nheck yeah, tiny party for meee\n\n(I can't eat sweets right now, so a gif pastry will have to do)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/qkate/status/1440129750756777991" ],
+    "published" : [ "2021-09-21T01:44:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1440129758172352513" ],
+    "url" : [ "https://twitter.com/qkate/status/1440129758172352513" ],
+    "video" : [ "https://video.twimg.com/tweet_video/E_xeYUJVcAUn2Uh.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
