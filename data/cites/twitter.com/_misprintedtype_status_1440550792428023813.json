@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Maine" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mainely Spooky Mandy" ],
+          "nickname" : [ "MainelyMandy" ],
+          "numeric-id" : [ "1320481047361003521" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1438914515660324871/Sww2alZ5.jpg" ],
+          "published" : [ "2020-10-25T21:44:04+00:00" ],
+          "uid" : [ "tag:twitter.com:MainelyMandy" ],
+          "url" : [ "https://twitter.com/MainelyMandy", "http://mainelymandy.com", "http://youtube.com/c/mainelymandy" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"I promise I won't cry. It's just a single frame from a tv show.\"\n\nThe single frame: <a href=\"https://twitter.com/BenChinapen/status/1440509774823444482\">twitter.com/BenChinapen/st…</a></div>",
+        "value" : "\"I promise I won't cry. It's just a single frame from a tv show.\"\n\nThe single frame: twitter.com/BenChinapen/st…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/E_2-4sHVIAgq4fu.jpg" ],
+      "published" : [ "2021-09-22T03:24:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1440517340467134468" ],
+      "url" : [ "https://twitter.com/MainelyMandy/status/1440517340467134468" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sudo rm -rf fascism" ],
+        "nickname" : [ "misprintedtype" ],
+        "numeric-id" : [ "14932908" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438183077684068361/KFp6awHg.jpg" ],
+        "published" : [ "2008-05-28T12:02:46+00:00" ],
+        "uid" : [ "tag:twitter.com:misprintedtype" ],
+        "url" : [ "https://twitter.com/misprintedtype" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"I promise I won't cry. It's just a single frame from a tv show.\"\n\nThe single frame: </div>",
+      "value" : "\"I promise I won't cry. It's just a single frame from a tv show.\"\n\nThe single frame: "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/E_3dT8UVgAEOHgE.jpg" ],
+    "published" : [ "2021-09-22T05:37:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1440550792428023813" ],
+    "url" : [ "https://twitter.com/misprintedtype/status/1440550792428023813" ]
+  },
+  "type" : [ "h-entry" ]
+}
