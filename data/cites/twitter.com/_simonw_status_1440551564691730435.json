@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Web analytics are far less reliable these days due to both tracker blocking and that thing where in-app browsers don't share the system browser cookies - is that a factor that causes companies to try to drive more people to their apps?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/blaine\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/slightlylate\"></a>",
+      "value" : "Web analytics are far less reliable these days due to both tracker blocking and that thing where in-app browsers don't share the system browser cookies - is that a factor that causes companies to try to drive more people to their apps?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1440550909809815558" ],
+    "published" : [ "2021-09-22T05:40:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1440551564691730435" ],
+    "url" : [ "https://twitter.com/simonw/status/1440551564691730435" ]
+  },
+  "type" : [ "h-entry" ]
+}
