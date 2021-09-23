@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenny Wong 🐝" ],
+        "nickname" : [ "miss_jwo" ],
+        "numeric-id" : [ "200519952" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/839845252412358656/PLSY74LG.jpg" ],
+        "published" : [ "2010-10-09T14:29:15+00:00" ],
+        "uid" : [ "tag:twitter.com:miss_jwo" ],
+        "url" : [ "https://twitter.com/miss_jwo", "http://jwong.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What service do people use to handle their mailboxes for personal domains?" ],
+    "published" : [ "2021-09-22T23:03:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1440814034010345478" ],
+    "url" : [ "https://twitter.com/miss_jwo/status/1440814034010345478" ]
+  },
+  "type" : [ "h-entry" ]
+}
