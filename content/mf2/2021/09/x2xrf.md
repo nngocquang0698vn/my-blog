@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/haveigotnews/status/1442448454815567882" ],
     "name" : [ "Like of @haveigotnews's tweet" ],
     "published" : [ "2021-09-27T12:36:00+0100" ],
     "category" : [ "politics" ],
