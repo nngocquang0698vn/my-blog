@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mipsytipsy/status/1439435420194926594" ],
     "name" : [ "Like of @mipsytipsy's tweet" ],
     "published" : [ "2021-09-27T07:33:00+0100" ],
     "like-of" : [ "https://twitter.com/mipsytipsy/status/1439435420194926594" ],
