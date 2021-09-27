@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1442490734469394434" ],
     "published" : [ "2021-09-27T15:01:00+0100" ],
     "category" : [ "open-source" ],
     "repost-of" : [ "https://twitter.com/davidfowl/status/1442186674016907264" ],
