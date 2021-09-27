@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hermit_hacker/status/1441890190918885380" ],
     "name" : [ "Like of @hermit_hacker's tweet" ],
     "published" : [ "2021-09-27T08:17:00+0100" ],
     "category" : [ "memes", "linux", "windows" ],
