@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Mork (Hermit) (He/Him)" ],
+        "nickname" : [ "hermit_hacker" ],
+        "numeric-id" : [ "42299816" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364340841129590786/Al_OBUmD.jpg" ],
+        "published" : [ "2009-05-24T23:03:26+00:00" ],
+        "uid" : [ "tag:twitter.com:hermit_hacker" ],
+        "url" : [ "https://twitter.com/hermit_hacker", "http://www.cryptolingus.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is the single simplest example I’ve seen of the core difference between Windows and Linux :)" ],
+    "photo" : [ "https://pbs.twimg.com/media/FAKffDAWEAQ9tv7.jpg" ],
+    "published" : [ "2021-09-25T22:19:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1441890190918885380" ],
+    "url" : [ "https://twitter.com/hermit_hacker/status/1441890190918885380" ]
+  },
+  "type" : [ "h-entry" ]
+}
