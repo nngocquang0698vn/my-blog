@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/st33med/status/1442353172853317640" ],
     "name" : [ "Like of @st33med's tweet" ],
     "published" : [ "2021-09-27T08:19:00+0100" ],
     "category" : [ "cryptocurrency" ],
