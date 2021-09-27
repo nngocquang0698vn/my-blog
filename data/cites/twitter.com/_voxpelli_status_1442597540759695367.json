@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have anyone tried an EU equivalent to AWS Lambda/serverless? Like what <a href=\"https://twitter.com/Scaleway\">@Scaleway</a> offers? Especially from a GDPR perspective its appealing to have a 100% EU option <a href=\"https://www.scaleway.com/en/betas/#serverlesscontainers\">scaleway.com/en/betas/#serv…</a>",
+      "value" : "Have anyone tried an EU equivalent to AWS Lambda/serverless? Like what @Scaleway offers? Especially from a GDPR perspective its appealing to have a 100% EU option scaleway.com/en/betas/#serv…"
+    } ],
+    "published" : [ "2021-09-27T21:10:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1442597540759695367" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1442597540759695367" ]
+  },
+  "type" : [ "h-entry" ]
+}
