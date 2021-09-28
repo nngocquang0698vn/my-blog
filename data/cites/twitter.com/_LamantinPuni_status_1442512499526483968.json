@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "la mer" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "lamantin puni" ],
+        "nickname" : [ "LamantinPuni" ],
+        "numeric-id" : [ "1415416631887548416" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441943232120713221/ZodRUidj.jpg" ],
+        "published" : [ "2021-07-14T21:03:25+00:00" ],
+        "uid" : [ "tag:twitter.com:LamantinPuni" ],
+        "url" : [ "https://twitter.com/LamantinPuni", "http://whybluelivesmatter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"http://whybluelivesmatter.com\">whybluelivesmatter.com</a>",
+      "value" : "whybluelivesmatter.com"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FATVeTkWEAQGjsX.jpg" ],
+    "published" : [ "2021-09-27T15:32:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1442512499526483968" ],
+    "url" : [ "https://twitter.com/LamantinPuni/status/1442512499526483968" ]
+  },
+  "type" : [ "h-entry" ]
+}
