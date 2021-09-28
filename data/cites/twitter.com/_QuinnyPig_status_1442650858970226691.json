@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Colorado, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Will Gregorian" ],
+          "nickname" : [ "WillGregorian" ],
+          "numeric-id" : [ "34576099" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1428342667281408000/KlEydw8A.jpg" ],
+          "published" : [ "2009-04-23T09:48:04+00:00" ],
+          "uid" : [ "tag:twitter.com:WillGregorian" ],
+          "url" : [ "https://twitter.com/WillGregorian" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Anyone remember the server naming convention arguments?" ],
+      "published" : [ "2021-09-28T00:41:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1442650618842296320" ],
+      "url" : [ "https://twitter.com/WillGregorian/status/1442650618842296320" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Which server naming convention are you most proud of? \n\nI'll go first: Characters from \"Dune.\"</div>",
+      "value" : "Which server naming convention are you most proud of? \n\nI'll go first: Characters from \"Dune.\""
+    } ],
+    "published" : [ "2021-09-28T00:42:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1442650858970226691" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1442650858970226691" ]
+  },
+  "type" : [ "h-entry" ]
+}
