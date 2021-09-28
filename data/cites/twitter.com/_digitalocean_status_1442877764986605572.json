@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DigitalOcean" ],
+        "nickname" : [ "digitalocean" ],
+        "numeric-id" : [ "457033547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410636343944880136/w8dxKEmg.jpg" ],
+        "published" : [ "2012-01-06T23:24:20+00:00" ],
+        "uid" : [ "tag:twitter.com:digitalocean" ],
+        "url" : [ "https://twitter.com/digitalocean", "http://do.co/welcome", "http://do.co/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "🚀 Registration is now OPEN for <a href=\"https://twitter.com/search?q=%23Hacktoberfest\">#Hacktoberfest</a>! Let’s GO! 💙🎃  <a href=\"https://hacktoberfest.digitalocean.com\">hacktoberfest.digitalocean.com</a> 🔗",
+      "value" : "🚀 Registration is now OPEN for #Hacktoberfest! Let’s GO! 💙🎃  hacktoberfest.digitalocean.com 🔗"
+    } ],
+    "published" : [ "2021-09-28T15:44:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1442877764986605572" ],
+    "url" : [ "https://twitter.com/digitalocean/status/1442877764986605572" ]
+  },
+  "type" : [ "h-entry" ]
+}
