@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maria_fibonacci/status/1442880842959781888" ],
     "name" : [ "Like of @maria_fibonacci's tweet" ],
     "published" : [ "2021-09-28T17:12:00+0100" ],
     "category" : [ "mental-health", "impostor-syndrome" ],
