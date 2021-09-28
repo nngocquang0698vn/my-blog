@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/digitalocean/status/1442877764986605572" ],
     "name" : [ "Like of @digitalocean's tweet" ],
     "published" : [ "2021-09-28T17:01:00+0100" ],
     "category" : [ "hacktoberfest" ],
