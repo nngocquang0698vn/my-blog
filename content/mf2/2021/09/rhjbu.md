@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1442650858970226691" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1442744404226236417" ],
     "name" : [ "Reply to https://twitter.com/QuinnyPig/status/1442650858970226691" ],
     "published" : [ "2021-09-28T07:49:00+0100" ],
     "category" : [ "monty-python" ],
