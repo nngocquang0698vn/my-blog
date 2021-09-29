@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mistydemeo/status/1442691377746223111" ],
     "name" : [ "Like of @mistydemeo's tweet" ],
     "published" : [ "2021-09-29T09:54:00+0100" ],
     "category" : [ "amp" ],
