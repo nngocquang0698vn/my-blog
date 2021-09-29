@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lizthegrey/status/1443079208272416772" ],
     "name" : [ "Like of @lizthegrey's tweet" ],
     "published" : [ "2021-09-29T07:52:00+0100" ],
     "category" : [ "ethics" ],
