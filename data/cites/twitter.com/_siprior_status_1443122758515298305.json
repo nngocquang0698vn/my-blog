@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Aylesbury" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Prior" ],
+        "nickname" : [ "siprior" ],
+        "numeric-id" : [ "143176795" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1418525844004278274/y5klmrUA.jpg" ],
+        "published" : [ "2010-05-12T20:09:15+00:00" ],
+        "uid" : [ "tag:twitter.com:siprior" ],
+        "url" : [ "https://twitter.com/siprior", "https://simon-prior.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "New <a href=\"https://twitter.com/search?q=%23swag\">#swag</a> arrived just in time for <a href=\"https://twitter.com/search?q=%23NationalInclusionWeek2021\">#NationalInclusionWeek2021</a> <a href=\"https://twitter.com/search?q=%23Neurodiversity\">#Neurodiversity</a>",
+      "value" : "New #swag arrived just in time for #NationalInclusionWeek2021 #Neurodiversity"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FAcAfflXoAQBrWt.jpg" ],
+    "published" : [ "2021-09-29T07:57:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1443122758515298305" ],
+    "url" : [ "https://twitter.com/siprior/status/1443122758515298305" ]
+  },
+  "type" : [ "h-entry" ]
+}
