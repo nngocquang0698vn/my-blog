@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/siprior/status/1443122758515298305" ],
     "name" : [ "Like of @siprior's tweet" ],
     "published" : [ "2021-09-29T10:18:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
