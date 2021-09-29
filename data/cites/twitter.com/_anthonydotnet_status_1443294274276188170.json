@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anthony Dang" ],
+        "nickname" : [ "anthonydotnet" ],
+        "numeric-id" : [ "182306838" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1114992176671465472/9w5GETmr.jpg" ],
+        "published" : [ "2010-08-24T09:05:03+00:00" ],
+        "uid" : [ "tag:twitter.com:anthonydotnet" ],
+        "url" : [ "https://twitter.com/anthonydotnet", "https://anthonydotnet.blogspot.com", "http://myspace.com/kiaiacademy", "http://spoti.fi/2HQUk7n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm presenting at a meetup tomorrow... does anyone have an example of Inappropriate Intimacy ?\n\n/cc <a href=\"https://twitter.com/bleedo\">@bleedo</a></div>",
+      "value" : "I'm presenting at a meetup tomorrow... does anyone have an example of Inappropriate Intimacy ?\n\n/cc @bleedo"
+    } ],
+    "published" : [ "2021-09-29T19:19:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1443294274276188170" ],
+    "url" : [ "https://twitter.com/anthonydotnet/status/1443294274276188170" ]
+  },
+  "type" : [ "h-entry" ]
+}
