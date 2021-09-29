@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anthony Dang" ],
+        "nickname" : [ "anthonydotnet" ],
+        "numeric-id" : [ "182306838" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1114992176671465472/9w5GETmr.jpg" ],
+        "published" : [ "2010-08-24T09:05:03+00:00" ],
+        "uid" : [ "tag:twitter.com:anthonydotnet" ],
+        "url" : [ "https://twitter.com/anthonydotnet", "https://anthonydotnet.blogspot.com", "http://myspace.com/kiaiacademy", "http://spoti.fi/2HQUk7n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">haha... as in the code smell type.\n\n<a href=\"https://blog.codinghorror.com/code-smells/\">blog.codinghorror.com/code-smells/</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bleedo\"></a>",
+      "value" : "haha... as in the code smell type.\n\nblog.codinghorror.com/code-smells/"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1443314377491468297" ],
+    "published" : [ "2021-09-29T21:05:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1443320959080058880" ],
+    "url" : [ "https://twitter.com/anthonydotnet/status/1443320959080058880" ]
+  },
+  "type" : [ "h-entry" ]
+}
