@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corey Quinn" ],
+          "nickname" : [ "QuinnyPig" ],
+          "numeric-id" : [ "97114171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+          "published" : [ "2009-12-16T02:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:QuinnyPig" ],
+          "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">One final point: Now let’s remember that the internet is 1-to-many. If 1 million people download that 1GB this month, my cost with <a href=\"https://twitter.com/Cloudflare\">@cloudflare</a> R2 this way rounds up to 13¢. With <a href=\"https://twitter.com/awscloud\">@awscloud</a> S3 it’s $59,247.52. \n\nTHAT is why people are losing their minds over this.</div>",
+        "value" : "One final point: Now let’s remember that the internet is 1-to-many. If 1 million people download that 1GB this month, my cost with @cloudflare R2 this way rounds up to 13¢. With @awscloud S3 it’s $59,247.52. \n\nTHAT is why people are losing their minds over this."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1443035440810901511" ],
+      "published" : [ "2021-09-29T04:52:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1443076111651401731" ],
+      "url" : [ "https://twitter.com/QuinnyPig/status/1443076111651401731" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Liz Fong-Jones (方禮真)" ],
+        "nickname" : [ "lizthegrey" ],
+        "numeric-id" : [ "14534896" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1148962581786353664/3gqWJOPm.jpg" ],
+        "published" : [ "2008-04-25T21:37:12+00:00" ],
+        "uid" : [ "tag:twitter.com:lizthegrey" ],
+        "url" : [ "https://twitter.com/lizthegrey", "http://lizthegrey.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "all the cool tech in the world is still unethical if the profits from it are used to subsidize providing free service to neo-Nazis and transphobes because of the founder's strange ideological bent." ],
+    "published" : [ "2021-09-29T05:05:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1443079526523674626" ],
+    "url" : [ "https://twitter.com/lizthegrey/status/1443079526523674626" ]
+  },
+  "type" : [ "h-entry" ]
+}
