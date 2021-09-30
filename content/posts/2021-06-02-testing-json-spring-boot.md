@@ -227,7 +227,7 @@ class TokenGrantDtoTest {
 
   @Autowired private JacksonTester<TokenGrantDto> jackson;
 
-  private JsonContent<TokenGrantDto> asJson; // utility variable to
+  private JsonContent<TokenGrantDto> asJson;
 
   @Nested
   class Serialization {
