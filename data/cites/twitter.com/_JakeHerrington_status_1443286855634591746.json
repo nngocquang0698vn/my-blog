@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Arkansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jacob Herrington" ],
+        "nickname" : [ "JakeHerrington" ],
+        "numeric-id" : [ "4119861316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1391487984973795330/nJo9wnPl.jpg" ],
+        "published" : [ "2015-11-05T14:09:43+00:00" ],
+        "uid" : [ "tag:twitter.com:JakeHerrington" ],
+        "url" : [ "https://twitter.com/JakeHerrington", "https://dev.to/jacobherrington" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">So, all that to say:\n\n<a href=\"https://github.com/ruby/www.ruby-lang.org/pull/2690\">github.com/ruby/www.ruby-…</a></div>",
+      "value" : "So, all that to say:\n\ngithub.com/ruby/www.ruby-…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JakeHerrington/status/1443286853210230797" ],
+    "published" : [ "2021-09-29T18:49:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1443286855634591746" ],
+    "url" : [ "https://twitter.com/JakeHerrington/status/1443286855634591746" ]
+  },
+  "type" : [ "h-entry" ]
+}
