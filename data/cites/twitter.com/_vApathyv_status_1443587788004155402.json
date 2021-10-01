@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "【公式】MELTY BLOOD: TYPE LUMINA" ],
+          "nickname" : [ "MB_LUMINA" ],
+          "numeric-id" : [ "1366625253426831360" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1375278456456445952/tbuQU2nC.png" ],
+          "published" : [ "2021-03-02T05:44:11+00:00" ],
+          "uid" : [ "tag:twitter.com:MB_LUMINA" ],
+          "url" : [ "https://twitter.com/MB_LUMINA", "https://meltyblood.typelumina.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">[Bugs Occurring in the Steam Edition]\nWe have confirmed the phenomenon that the game stops when matching in \"NETWORK\" mode, and we are investigating the cause.(1/2)</div>",
+        "value" : "[Bugs Occurring in the Steam Edition]\nWe have confirmed the phenomenon that the game stops when matching in \"NETWORK\" mode, and we are investigating the cause.(1/2)"
+      } ],
+      "published" : [ "2021-09-30T13:39:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1443571107286556681" ],
+      "url" : [ "https://twitter.com/MB_LUMINA/status/1443571107286556681" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Robbie Russell" ],
+        "nickname" : [ "vApathyv" ],
+        "numeric-id" : [ "90265705" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413573304087191552/VpClUNB_.jpg" ],
+        "published" : [ "2009-11-15T22:44:13+00:00" ],
+        "uid" : [ "tag:twitter.com:vApathyv" ],
+        "url" : [ "https://twitter.com/vApathyv" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"We repro'd the issue\" - boring, technical, doesn't really grab the attention\n\n\"We have confirmed the phenomenon\" - radiates power, implies a mystical nature, sounds potentially cataclysmic</div>",
+      "value" : "\"We repro'd the issue\" - boring, technical, doesn't really grab the attention\n\n\"We have confirmed the phenomenon\" - radiates power, implies a mystical nature, sounds potentially cataclysmic"
+    } ],
+    "published" : [ "2021-09-30T14:45:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1443587788004155402" ],
+    "url" : [ "https://twitter.com/vApathyv/status/1443587788004155402" ]
+  },
+  "type" : [ "h-entry" ]
+}
