@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Aquino (he/him)" ],
+        "nickname" : [ "steven_aquino" ],
+        "numeric-id" : [ "152115336" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1348880080622153728/KTNuuABr.jpg" ],
+        "published" : [ "2010-06-05T03:30:39+00:00" ],
+        "uid" : [ "tag:twitter.com:steven_aquino" ],
+        "url" : [ "https://twitter.com/steven_aquino", "https://www.stevenaquino.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s October 1st, so a reminder from your friendly neighborhood Blind person (me) that your Halloween-themed spooky Twitter name may be festive, but it breaks screen readers like VoiceOver. Try not to indulge if you can; otherwise someone won’t know who you are for a month." ],
+    "published" : [ "2021-10-01T17:37:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1443993382104141835" ],
+    "url" : [ "https://twitter.com/steven_aquino/status/1443993382104141835" ]
+  },
+  "type" : [ "h-entry" ]
+}
