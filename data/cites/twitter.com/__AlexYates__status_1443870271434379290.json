@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Yates (He/Him)" ],
+        "nickname" : [ "_AlexYates_" ],
+        "numeric-id" : [ "1856948317" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1110863525352824832/xWriIyEE.png" ],
+        "published" : [ "2013-09-12T10:00:10+00:00" ],
+        "uid" : [ "tag:twitter.com:_AlexYates_" ],
+        "url" : [ "https://twitter.com/_AlexYates_", "http://www.workingwithdevs.com", "http://speakingmentors.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Root cause analysis (RCA) implies it's *always* fair to place 100% blame on one specific act.\n\nIn software, as in life, that's naively simple. There are normally multiple independent factors.\n\nRCA creates unfair findings, bad decisions, and anger/distrust. Operations get riskier.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/noahsussman\"></a>",
+      "value" : "Root cause analysis (RCA) implies it's *always* fair to place 100% blame on one specific act.\n\nIn software, as in life, that's naively simple. There are normally multiple independent factors.\n\nRCA creates unfair findings, bad decisions, and anger/distrust. Operations get riskier."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/noahsussman/status/1443569341023272960" ],
+    "published" : [ "2021-10-01T09:27:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1443870271434379290" ],
+    "url" : [ "https://twitter.com/_AlexYates_/status/1443870271434379290" ]
+  },
+  "type" : [ "h-entry" ]
+}
