@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com", "https://www.compilersforhumans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m just a girl, standing in front of Jira, begging the backlog to get shorter 😭" ],
+    "published" : [ "2021-10-01T17:59:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1443998990597558281" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1443998990597558281" ]
+  },
+  "type" : [ "h-entry" ]
+}
