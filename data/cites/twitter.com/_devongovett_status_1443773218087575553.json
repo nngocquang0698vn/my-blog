@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Devon Govett" ],
+        "nickname" : [ "devongovett" ],
+        "numeric-id" : [ "15687937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/812765322004443140/PPaqFF07.jpg" ],
+        "published" : [ "2008-08-01T11:21:38+00:00" ],
+        "uid" : [ "tag:twitter.com:devongovett" ],
+        "url" : [ "https://twitter.com/devongovett", "https://parceljs.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every open source maintainer upon realizing tomorrow is October…" ],
+    "published" : [ "2021-10-01T03:02:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1443773218087575553" ],
+    "url" : [ "https://twitter.com/devongovett/status/1443773218087575553" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FAlQFmSVcAAp7t2.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
