@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rosario, Argentina" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alejandro Fiore" ],
+        "nickname" : [ "alejandrofiore2" ],
+        "numeric-id" : [ "2357596136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443187484230393858/Af3wyTj0.jpg" ],
+        "published" : [ "2014-02-23T07:05:52+00:00" ],
+        "uid" : [ "tag:twitter.com:alejandrofiore2" ],
+        "url" : [ "https://twitter.com/alejandrofiore2", "https://innovavista.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thunderbird does the same from many years ago!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sudo_overflow\"></a>",
+      "value" : "Thunderbird does the same from many years ago!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sudo_overflow/status/1443777993478869006" ],
+    "published" : [ "2021-10-01T17:31:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1443991950076563457" ],
+    "url" : [ "https://twitter.com/alejandrofiore2/status/1443991950076563457" ]
+  },
+  "type" : [ "h-entry" ]
+}
