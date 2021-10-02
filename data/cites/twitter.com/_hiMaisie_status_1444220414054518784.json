@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie spell 🔔 🏳️‍⚧️" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437183985847836674/6TIRqSec.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "when my tummy hurts a bit too much for too long\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jna_sh\"></a>",
+      "value" : "when my tummy hurts a bit too much for too long"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1443537983953588227" ],
+    "photo" : [ "https://pbs.twimg.com/media/FArmz8_XoAA1Lov.jpg" ],
+    "published" : [ "2021-10-02T08:39:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1444220414054518784" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1444220414054518784" ]
+  },
+  "type" : [ "h-entry" ]
+}
