@@ -2,6 +2,7 @@
 title: "Testing Data Serialisation/Deserialization using `JsonTest` with Spring Boot"
 description: "How to use the `@JsonTest` test type in Spring Boot to validate your JSON types correctly serialise/deserialise."
 tags:
+- java
 - testing
 - spring-boot
 - blogumentation
