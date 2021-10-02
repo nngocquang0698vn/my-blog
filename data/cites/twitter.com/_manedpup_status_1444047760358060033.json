@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sky" ],
+        "nickname" : [ "manedpup" ],
+        "numeric-id" : [ "411243531" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302990704034095104/7fvcHw3h.jpg" ],
+        "published" : [ "2011-11-13T05:16:04+00:00" ],
+        "uid" : [ "tag:twitter.com:manedpup" ],
+        "url" : [ "https://twitter.com/manedpup" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">me, looking at you Respectfully\n\n(by the ever lovely <a href=\"https://twitter.com/whoismonday\">@whoismonday</a>)</div>",
+      "value" : "me, looking at you Respectfully\n\n(by the ever lovely @whoismonday)"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FApJyMAXoAAXdRK.jpg" ],
+    "published" : [ "2021-10-01T21:13:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1444047760358060033" ],
+    "url" : [ "https://twitter.com/manedpup/status/1444047760358060033" ]
+  },
+  "type" : [ "h-entry" ]
+}
