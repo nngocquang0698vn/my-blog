@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Global" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Revolut" ],
+          "nickname" : [ "RevolutApp" ],
+          "numeric-id" : [ "2676313880" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1410550808362553345/BvBoaEET.jpg" ],
+          "published" : [ "2014-07-24T09:15:51+00:00" ],
+          "uid" : [ "tag:twitter.com:RevolutApp" ],
+          "url" : [ "https://twitter.com/RevolutApp", "http://www.revolut.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Hi!👋Sorry for the trouble but as the social media team we are unable to provide an alternative solution. Please be assured that our support team is always aiming to solve each case the best possible way according to the right and regulated internal procedures and possibilities.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/onlyjefff\"></a>",
+        "value" : "Hi!👋Sorry for the trouble but as the social media team we are unable to provide an alternative solution. Please be assured that our support team is always aiming to solve each case the best possible way according to the right and regulated internal procedures and possibilities."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/onlyjefff/status/1443953141662236709" ],
+      "published" : [ "2021-10-01T15:00:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1443953867436212226" ],
+      "url" : [ "https://twitter.com/RevolutApp/status/1443953867436212226" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California | London | Manila" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Boyd 🇬🇧🇵🇭" ],
+        "nickname" : [ "paperghost" ],
+        "numeric-id" : [ "2883191" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435966478973489158/46IwaIXQ.jpg" ],
+        "published" : [ "2007-03-29T19:36:15+00:00" ],
+        "uid" : [ "tag:twitter.com:paperghost" ],
+        "url" : [ "https://twitter.com/paperghost", "https://about.me/christopher.boyd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "you've literally been told someone's spouse will be deported because you won't give them a piece of paper. in what version of reality is this anything but astoundingly embarrassing for your entire organisation?" ],
+    "published" : [ "2021-10-02T10:06:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1444242289837191169" ],
+    "url" : [ "https://twitter.com/paperghost/status/1444242289837191169" ]
+  },
+  "type" : [ "h-entry" ]
+}
