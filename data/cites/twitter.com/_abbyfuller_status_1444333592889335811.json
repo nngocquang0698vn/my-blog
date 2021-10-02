@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Abby Fuller" ],
+        "nickname" : [ "abbyfuller" ],
+        "numeric-id" : [ "51848919" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379241604481904643/IoGYSCEL.jpg" ],
+        "published" : [ "2009-06-28T21:25:20+00:00" ],
+        "uid" : [ "tag:twitter.com:abbyfuller" ],
+        "url" : [ "https://twitter.com/abbyfuller", "https://aws.amazon.com/security/vulnerability-reporting/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Complaining about accounts you’re choosing to follow is the new “letters to the editor”" ],
+    "in-reply-to" : [ "https://twitter.com/abbyfuller/status/1444329768929816578" ],
+    "published" : [ "2021-10-02T16:08:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1444333592889335811" ],
+    "url" : [ "https://twitter.com/abbyfuller/status/1444333592889335811" ]
+  },
+  "type" : [ "h-entry" ]
+}
