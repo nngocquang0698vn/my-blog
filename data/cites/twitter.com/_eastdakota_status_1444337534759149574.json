@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Park City, UT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Prince 🌥" ],
+        "nickname" : [ "eastdakota" ],
+        "numeric-id" : [ "23275456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2332322635/zhx7hflmmcxdaj0tk9f8.jpeg" ],
+        "published" : [ "2009-03-08T04:21:35+00:00" ],
+        "uid" : [ "tag:twitter.com:eastdakota" ],
+        "url" : [ "https://twitter.com/eastdakota", "http://www.cloudflare.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the smartest decisions we made at <a href=\"https://twitter.com/Cloudflare\">@Cloudflare</a> was recognizing that the primary purpose of our blog was attracting employees, not attracting customers.",
+      "value" : "One of the smartest decisions we made at @Cloudflare was recognizing that the primary purpose of our blog was attracting employees, not attracting customers."
+    } ],
+    "published" : [ "2021-10-02T16:24:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1444337534759149574" ],
+    "url" : [ "https://twitter.com/eastdakota/status/1444337534759149574" ]
+  },
+  "type" : [ "h-entry" ]
+}
