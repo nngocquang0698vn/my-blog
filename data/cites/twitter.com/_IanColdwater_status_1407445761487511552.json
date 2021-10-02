@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1428487996567953417/el8kHQ25.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater", "https://lookitup.baby" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Who called it a Kubernetes penetration test and not a clusterfuck" ],
+    "published" : [ "2021-06-22T21:09:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1407445761487511552" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1407445761487511552" ]
+  },
+  "type" : [ "h-entry" ]
+}
