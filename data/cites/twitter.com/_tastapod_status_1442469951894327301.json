@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dave Smith" ],
+          "nickname" : [ "davidjamessmith" ],
+          "numeric-id" : [ "21750404" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/748549047821213696/hWuMv_cG.jpg" ],
+          "published" : [ "2009-02-24T12:43:20+00:00" ],
+          "uid" : [ "tag:twitter.com:davidjamessmith" ],
+          "url" : [ "https://twitter.com/davidjamessmith", "https://indigoengine.io/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">IMO, a snazzy rebrand at this stage would only be helpful if we could also stop people framing TDD as a silver bullet, and acknowledge that it is just one of many useful strategies that have different Value vs. Cost trade offs in different circumstances.\nSeems unlikely though..🙂</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/allenholub\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tastapod\"></a>",
+        "value" : "IMO, a snazzy rebrand at this stage would only be helpful if we could also stop people framing TDD as a silver bullet, and acknowledge that it is just one of many useful strategies that have different Value vs. Cost trade offs in different circumstances.\nSeems unlikely though..🙂"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/allenholub/status/1442168068042485764" ],
+      "published" : [ "2021-09-27T12:03:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1442459875678826497" ],
+      "url" : [ "https://twitter.com/davidjamessmith/status/1442459875678826497" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Terhorst-North" ],
+        "nickname" : [ "tastapod" ],
+        "numeric-id" : [ "14526430" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796961836/bio-photo-square.jpg" ],
+        "published" : [ "2008-04-25T13:46:38+00:00" ],
+        "uid" : [ "tag:twitter.com:tastapod" ],
+        "url" : [ "https://twitter.com/tastapod", "http://dannorth.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I describe TDD, and practically every other software development technique as \"neither necessary nor sufficient, but sometimes useful\".\n\nZealotry of TDD or any other practice is often a consequence of Dunning-Kruger; a lack of awareness of how effective other techniques can be.</div>",
+      "value" : "I describe TDD, and practically every other software development technique as \"neither necessary nor sufficient, but sometimes useful\".\n\nZealotry of TDD or any other practice is often a consequence of Dunning-Kruger; a lack of awareness of how effective other techniques can be."
+    } ],
+    "published" : [ "2021-09-27T12:43:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1442469951894327301" ],
+    "url" : [ "https://twitter.com/tastapod/status/1442469951894327301" ]
+  },
+  "type" : [ "h-entry" ]
+}
