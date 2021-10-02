@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oxfordshire, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Harrison" ],
+        "nickname" : [ "jamesharrison" ],
+        "numeric-id" : [ "13946692" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000652889813/857561310836c651a85d09a86b38f586.png" ],
+        "published" : [ "2008-02-25T16:22:57+00:00" ],
+        "uid" : [ "tag:twitter.com:jamesharrison" ],
+        "url" : [ "https://twitter.com/jamesharrison", "http://www.talkunafraid.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Colleague at work: \"Oh, what3words seems neat, could we-\"\n\nMe:</div>",
+      "value" : "Colleague at work: \"Oh, what3words seems neat, could we-\"\n\nMe:"
+    } ],
+    "published" : [ "2021-10-01T19:35:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1444023295393910790" ],
+    "url" : [ "https://twitter.com/jamesharrison/status/1444023295393910790" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FAozhu-WEAAeAcW.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
