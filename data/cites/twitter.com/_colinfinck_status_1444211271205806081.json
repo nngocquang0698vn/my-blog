@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Aachen, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Colin Finck" ],
+        "nickname" : [ "colinfinck" ],
+        "numeric-id" : [ "50298449" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1101531590084231172/UsbJ87ZL.png" ],
+        "published" : [ "2009-06-24T13:04:25+00:00" ],
+        "uid" : [ "tag:twitter.com:colinfinck" ],
+        "url" : [ "https://twitter.com/colinfinck" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I spent an equal amount of effort trying to figure out how Drone CI can just clone all my private repos automagically :)\nTurns out that it writes a .netrc and injects it into all pipelines by default: <a href=\"https://docs.drone.io/pipeline/docker/syntax/cloning/auth/\">docs.drone.io/pipeline/docke…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bcantrill\"></a>",
+      "value" : "I spent an equal amount of effort trying to figure out how Drone CI can just clone all my private repos automagically :)\nTurns out that it writes a .netrc and injects it into all pipelines by default: docs.drone.io/pipeline/docke…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bcantrill/status/1444177808649900037" ],
+    "published" : [ "2021-10-02T08:02:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1444211271205806081" ],
+    "url" : [ "https://twitter.com/colinfinck/status/1444211271205806081" ]
+  },
+  "type" : [ "h-entry" ]
+}
