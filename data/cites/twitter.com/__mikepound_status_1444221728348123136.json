@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Pound" ],
+        "nickname" : [ "_mikepound" ],
+        "numeric-id" : [ "386262125" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/731061039945662464/QR2kNfVv.jpg" ],
+        "published" : [ "2011-10-06T23:20:25+00:00" ],
+        "uid" : [ "tag:twitter.com:_mikepound" ],
+        "url" : [ "https://twitter.com/_mikepound", "http://nottingham.ac.uk/cvl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My thermostat wants me to enable 2FA. Don't get me wrong, 2FA is great, but was it so bad when you didn't have to log into your thermostat?" ],
+    "published" : [ "2021-10-02T08:44:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1444221728348123136" ],
+    "url" : [ "https://twitter.com/_mikepound/status/1444221728348123136" ]
+  },
+  "type" : [ "h-entry" ]
+}
