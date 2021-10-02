@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Aaron 🇪🇺" ],
+        "nickname" : [ "samaaron" ],
+        "numeric-id" : [ "636003" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907204110545571840/uGPEVtFa.jpg" ],
+        "published" : [ "2007-01-15T16:26:45+00:00" ],
+        "uid" : [ "tag:twitter.com:samaaron" ],
+        "url" : [ "https://twitter.com/samaaron", "https://patreon.com/samaaron" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Programming top tip #987\n\nCreate a new project root directory *with a space in it*.\n\nFor example, change:\n\n/Users/sam/Development/my_project\n\nto\n\n/Users/sam/Work Space/my_project\n\nIt will *force* you to handle paths with spaces from the start and stop it biting you in the future.</div>",
+      "value" : "Programming top tip #987\n\nCreate a new project root directory *with a space in it*.\n\nFor example, change:\n\n/Users/sam/Development/my_project\n\nto\n\n/Users/sam/Work Space/my_project\n\nIt will *force* you to handle paths with spaces from the start and stop it biting you in the future."
+    } ],
+    "published" : [ "2021-10-02T14:23:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1444307009457774597" ],
+    "url" : [ "https://twitter.com/samaaron/status/1444307009457774597" ]
+  },
+  "type" : [ "h-entry" ]
+}
