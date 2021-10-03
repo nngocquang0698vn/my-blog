@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/UzairAli101/status/1444355830325792768" ],
     "name" : [ "Like of @UzairAli101's tweet" ],
     "published" : [ "2021-10-03T22:31:00+0100" ],
     "category" : [ "social-media", "hacktoberfest" ],
