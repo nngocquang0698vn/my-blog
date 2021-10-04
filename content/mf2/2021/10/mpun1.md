@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheInsiderPaper/status/1445100902961012743" ],
     "name" : [ "Like of @TheInsiderPaper's tweet" ],
     "published" : [ "2021-10-04T22:06:00+0100" ],
     "category" : [ "facebook" ],
