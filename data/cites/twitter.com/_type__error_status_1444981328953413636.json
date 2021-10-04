@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Soooo after nearly 3 years, this week is my last week at <a href=\"https://twitter.com/monzo\">@monzo</a>...! I'm really sad to be leaving - but VERY excited to be joining the small &amp; mighty team at <a href=\"https://twitter.com/incident_io\">@incident_io</a> in a couple of weeks 🔥",
+      "value" : "Soooo after nearly 3 years, this week is my last week at @monzo...! I'm really sad to be leaving - but VERY excited to be joining the small & mighty team at @incident_io in a couple of weeks 🔥"
+    } ],
+    "published" : [ "2021-10-04T11:02:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1444981328953413636" ],
+    "url" : [ "https://twitter.com/type__error/status/1444981328953413636" ]
+  },
+  "type" : [ "h-entry" ]
+}
