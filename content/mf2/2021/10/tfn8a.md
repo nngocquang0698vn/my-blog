@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrennanCaldwell/status/1444769002560045061" ],
     "name" : [ "Like of @BrennanCaldwell's tweet" ],
     "published" : [ "2021-10-04T14:42:00+0100" ],
     "like-of" : [ "https://twitter.com/BrennanCaldwell/status/1444769002560045061" ],
