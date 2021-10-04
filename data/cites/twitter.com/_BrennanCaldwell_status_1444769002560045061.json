@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brennan Caldwell" ],
+        "nickname" : [ "BrennanCaldwell" ],
+        "numeric-id" : [ "32106806" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395844626938990592/cMJ1D2bl.jpg" ],
+        "published" : [ "2009-04-16T19:06:00+00:00" ],
+        "uid" : [ "tag:twitter.com:BrennanCaldwell" ],
+        "url" : [ "https://twitter.com/BrennanCaldwell", "http://www.brennancaldwell.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">we need a 3 day weekend:\n1 for errands \n1 for social activities \n1 for staying in bed like we’ve got some Victorian wasting disease</div>",
+      "value" : "we need a 3 day weekend:\n1 for errands \n1 for social activities \n1 for staying in bed like we’ve got some Victorian wasting disease"
+    } ],
+    "published" : [ "2021-10-03T20:59:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1444769002560045061" ],
+    "url" : [ "https://twitter.com/BrennanCaldwell/status/1444769002560045061" ]
+  },
+  "type" : [ "h-entry" ]
+}
