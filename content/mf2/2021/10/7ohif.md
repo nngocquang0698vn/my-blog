@@ -4,13 +4,13 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1445703909595443202" ],
     "photo" : [ {
       "alt" : "A package from the Couture Cake Company containing 6 brownies - Lotus Biscoff, Oreo, Jaffa Cake, Chocolate, Chocolate Orange and Crunchie - with a note saying \"Well done Purple Pandas (our team name)! Thank you for all your effort and hard work\"",
       "photo" : "https://media.jvt.me/1407c92d9a.jpeg"
     } ],
     "published" : [ "2021-10-06T11:49:00+0100" ],
-    "category" : [ "capital-one", "capital-one" ],
+    "category" : [ "capital-one" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
@@ -19,6 +19,6 @@
   },
   "kind" : "photos",
   "slug" : "2021/10/7ohif",
-  "tags" : [ "capital-one", "capital-one" ],
+  "tags" : [ "capital-one" ],
   "client_id" : "https://indigenous.realize.be/"
 }
