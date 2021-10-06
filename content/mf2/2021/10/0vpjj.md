@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anomalily/status/1445764835963068432" ],
     "name" : [ "Like of @anomalily's tweet" ],
     "published" : [ "2021-10-06T18:06:00+0100" ],
     "like-of" : [ "https://twitter.com/anomalily/status/1445764835963068432" ],
