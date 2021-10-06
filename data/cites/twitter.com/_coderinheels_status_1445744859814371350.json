@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gen Ashley" ],
+          "nickname" : [ "coderinheels" ],
+          "numeric-id" : [ "32330308" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/535354270338408448/1E4UBC3R.jpeg" ],
+          "published" : [ "2009-04-17T06:15:57+00:00" ],
+          "uid" : [ "tag:twitter.com:coderinheels" ],
+          "url" : [ "https://twitter.com/coderinheels", "http://www.techknowday.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "About to commit murder 😄" ],
+      "photo" : [ "https://pbs.twimg.com/media/FBBKDXmVgAocfAg.jpg" ],
+      "published" : [ "2021-10-06T13:05:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1445736920475074575" ],
+      "url" : [ "https://twitter.com/coderinheels/status/1445736920475074575" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gen Ashley" ],
+        "nickname" : [ "coderinheels" ],
+        "numeric-id" : [ "32330308" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/535354270338408448/1E4UBC3R.jpeg" ],
+        "published" : [ "2009-04-17T06:15:57+00:00" ],
+        "uid" : [ "tag:twitter.com:coderinheels" ],
+        "url" : [ "https://twitter.com/coderinheels", "http://www.techknowday.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Bon appetit! " ],
+    "photo" : [ "https://pbs.twimg.com/media/FBBRRDLUcAcSZxK.jpg" ],
+    "published" : [ "2021-10-06T13:36:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1445744859814371350" ],
+    "url" : [ "https://twitter.com/coderinheels/status/1445744859814371350" ]
+  },
+  "type" : [ "h-entry" ]
+}
