@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Drongen, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yves Hanoulle 🇪🇺 🏳️‍🌈" ],
+        "nickname" : [ "YvesHanoulle" ],
+        "numeric-id" : [ "13047322" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305865295672889344/TASOhsTz.jpg" ],
+        "published" : [ "2008-02-04T13:39:56+00:00" ],
+        "uid" : [ "tag:twitter.com:YvesHanoulle" ],
+        "url" : [ "https://twitter.com/YvesHanoulle", "http://www.hanoulle.be", "http://anguis.be", "http://hanoulle.be/books", "https://tatianamac.com/posts/white-guyde/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Eh, for me Martin just said he had the documentation he needed. Tests are even actionable documentation, that is they tell you when they are outdated.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JPBotti\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/b0rk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/martinfowler\"></a>",
+      "value" : "Eh, for me Martin just said he had the documentation he needed. Tests are even actionable documentation, that is they tell you when they are outdated."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JPBotti/status/1445832094266142720" ],
+    "published" : [ "2021-10-06T20:48:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1445853584294219776" ],
+    "url" : [ "https://twitter.com/YvesHanoulle/status/1445853584294219776" ]
+  },
+  "type" : [ "h-entry" ]
+}
