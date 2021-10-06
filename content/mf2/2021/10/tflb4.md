@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1445676753880371200" ],
     "published" : [ "2021-10-06T09:59:00+0100" ],
     "category" : [ "salary" ],
     "repost-of" : [ "https://twitter.com/monzo/status/1445670194513276937" ],
