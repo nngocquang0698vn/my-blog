@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Adron/status/1445462062147117071" ],
     "name" : [ "Like of @Adron's tweet" ],
     "published" : [ "2021-10-06T07:31:00+0100" ],
     "category" : [ "movies" ],
