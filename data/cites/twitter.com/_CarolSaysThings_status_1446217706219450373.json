@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tech Nottingham" ],
+          "nickname" : [ "technottingham" ],
+          "numeric-id" : [ "384492431" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1414627598647406592/hDuxMCus.jpg" ],
+          "published" : [ "2011-10-03T19:47:31+00:00" ],
+          "uid" : [ "tag:twitter.com:technottingham" ],
+          "url" : [ "https://twitter.com/technottingham", "http://technottingham.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">MONDAY!!! 🎉✨\n\nThe audience takes over with the return of <a href=\"https://twitter.com/search?q=%23techNott\">#techNott</a> famous ⚡️ Lightning Talks! ⚡️\n\nWhat will you talk about?!?? Any and all talks welcome (CoC permitting!) ❤️\n\nOnline on Zoom from 18.30 <a href=\"http://nott.tech/tn-oct-2021\">nott.tech/tn-oct-2021</a></div>",
+        "value" : "MONDAY!!! 🎉✨\n\nThe audience takes over with the return of #techNott famous ⚡️ Lightning Talks! ⚡️\n\nWhat will you talk about?!?? Any and all talks welcome (CoC permitting!) ❤️\n\nOnline on Zoom from 18.30 nott.tech/tn-oct-2021"
+      } ],
+      "photo" : [ {
+        "alt" : "Tech Nottingham presents Lightning Talks! The audience takes over. Monday, October 11th. Online only at technottingham.com",
+        "value" : "https://pbs.twimg.com/media/E_-8Hh_WEAE98GD.png"
+      } ],
+      "published" : [ "2021-10-07T14:30:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1446120631334887430" ],
+      "url" : [ "https://twitter.com/technottingham/status/1446120631334887430" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432355117181939717/0hqyF320.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Will I prep before hand or just wing something on the night? I think we all know which it’s gonna be 😅" ],
+    "published" : [ "2021-10-07T20:55:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1446217706219450373" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1446217706219450373" ]
+  },
+  "type" : [ "h-entry" ]
+}
