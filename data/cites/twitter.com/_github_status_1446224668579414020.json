@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "GitHub Policy" ],
+          "nickname" : [ "GitHubPolicy" ],
+          "numeric-id" : [ "918222789512912896" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/936308037685596160/LhdMTJdA.jpg" ],
+          "published" : [ "2017-10-11T21:12:27+00:00" ],
+          "uid" : [ "tag:twitter.com:GitHubPolicy" ],
+          "url" : [ "https://twitter.com/GitHubPolicy", "https://policy.github.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "GitHub works on policy in its many forms—laws, regulations, norms, and standard practices—to fight for developers around the world. Learn more and contribute in our public repo! <a href=\"https://policy.github.com\">policy.github.com</a>",
+        "value" : "GitHub works on policy in its many forms—laws, regulations, norms, and standard practices—to fight for developers around the world. Learn more and contribute in our public repo! policy.github.com"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FBHRzPmVIBAH33t.jpg" ],
+      "published" : [ "2021-10-07T17:36:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1446167645628211234" ],
+      "url" : [ "https://twitter.com/GitHubPolicy/status/1446167645628211234" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "GitHub" ],
+        "nickname" : [ "github" ],
+        "numeric-id" : [ "13334762" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9.jpg" ],
+        "published" : [ "2008-02-11T04:41:50+00:00" ],
+        "uid" : [ "tag:twitter.com:github" ],
+        "url" : [ "https://twitter.com/github", "http://git.io/c" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We fight for developers on policy around the world. Check out how you can get involved." ],
+    "published" : [ "2021-10-07T21:23:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1446224668579414020" ],
+    "url" : [ "https://twitter.com/github/status/1446224668579414020" ]
+  },
+  "type" : [ "h-entry" ]
+}
