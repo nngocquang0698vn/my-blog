@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ohio" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff" ],
+        "nickname" : [ "jeffr0" ],
+        "numeric-id" : [ "797805" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443258388046041094/1NtWGtOI.jpg" ],
+        "published" : [ "2007-02-27T10:59:47+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffr0" ],
+        "url" : [ "https://twitter.com/jeffr0", "http://jeffc.me", "http://www.wpmainline.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How do I preview what a post looks like on Twitter using an image? Scrolls down, ohhhh. They got me :) I can definitely see that being a commercial feature." ],
+    "photo" : [ {
+      "alt" : "A picture of Yoast SEO settings where in order to preview an image on social media, I need up to upgrade to the premium version. ",
+      "value" : "https://pbs.twimg.com/media/FBIFib4XIAQzwoD.png"
+    } ],
+    "published" : [ "2021-10-07T21:23:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1446224730034483200" ],
+    "url" : [ "https://twitter.com/jeffr0/status/1446224730034483200" ]
+  },
+  "type" : [ "h-entry" ]
+}
