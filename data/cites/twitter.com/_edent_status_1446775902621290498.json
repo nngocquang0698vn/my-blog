@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The reason why I shared that ancient blog post is to show just how little I've changed in… EIGHTEEN YEARS!\n\nStill have three monitors, still have an ergonomic keyboard and mouse, still have a messy desk.</div>",
+        "value" : "The reason why I shared that ancient blog post is to show just how little I've changed in… EIGHTEEN YEARS!\n\nStill have three monitors, still have an ergonomic keyboard and mouse, still have a messy desk."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/edent/status/1277638273221959683" ],
+      "photo" : [ {
+        "alt" : "A vertical monitor, a laptop, and a side monitor. ",
+        "value" : "https://pbs.twimg.com/media/EbsWT1rX0AEEM46.jpg"
+      } ],
+      "published" : [ "2020-06-29T16:25:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1277639455587938306" ],
+      "url" : [ "https://twitter.com/edent/status/1277639455587938306" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Upgrading to a standing desk today. Cant decide whether to get rid of my 3rd screen (on the right).\nI rarely use it any more.\nBut it is physically larger than my laptop screen.\nAlbeit at a lower resolution.\nThoughts?</div>",
+      "value" : "Upgrading to a standing desk today. Cant decide whether to get rid of my 3rd screen (on the right).\nI rarely use it any more.\nBut it is physically larger than my laptop screen.\nAlbeit at a lower resolution.\nThoughts?"
+    } ],
+    "published" : [ "2021-10-09T09:53:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1446775902621290498" ],
+    "url" : [ "https://twitter.com/edent/status/1446775902621290498" ]
+  },
+  "type" : [ "h-entry" ]
+}
