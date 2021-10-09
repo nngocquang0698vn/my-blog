@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ricky Mondello" ],
+        "nickname" : [ "rmondello" ],
+        "numeric-id" : [ "901371" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1172517477491695616/3ftOKAMt.jpg" ],
+        "published" : [ "2007-03-11T05:27:51+00:00" ],
+        "uid" : [ "tag:twitter.com:rmondello" ],
+        "url" : [ "https://twitter.com/rmondello", "https://twitch.tv/rmondello" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Web developers, if you’d like iCloud Keychain, Google Chrome, or 1Password to take your users directly to your site’s change password page when their password manager encourages them to change their password, you can implement one simple URL redirect. <a href=\"https://web.dev/change-password-url/\">web.dev/change-passwor…</a>",
+      "value" : "Web developers, if you’d like iCloud Keychain, Google Chrome, or 1Password to take your users directly to your site’s change password page when their password manager encourages them to change their password, you can implement one simple URL redirect. web.dev/change-passwor…"
+    } ],
+    "published" : [ "2021-10-08T15:55:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1446504418799722507" ],
+    "url" : [ "https://twitter.com/rmondello/status/1446504418799722507" ]
+  },
+  "type" : [ "h-entry" ]
+}
