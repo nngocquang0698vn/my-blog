@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Holdgraf" ],
+        "nickname" : [ "choldgraf" ],
+        "numeric-id" : [ "88273299" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1189763974952341504/zC2joFis.jpg" ],
+        "published" : [ "2009-11-07T21:16:49+00:00" ],
+        "uid" : [ "tag:twitter.com:choldgraf" ],
+        "url" : [ "https://twitter.com/choldgraf", "http://predictablynoisy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just encountered my first Python 3.10 gotcha!\n\nIn YAML configuration for GitHub actions, you might have your Python matrix like this:\n\n3.7, 3.8, 3.9\n\nGuess what? 3.10 resolves to 3.1 \n\nyou need to use 3.7, 3.8, 3.9, \"3.10\"\n\noh, YAML</div>",
+      "value" : "Just encountered my first Python 3.10 gotcha!\n\nIn YAML configuration for GitHub actions, you might have your Python matrix like this:\n\n3.7, 3.8, 3.9\n\nGuess what? 3.10 resolves to 3.1 \n\nyou need to use 3.7, 3.8, 3.9, \"3.10\"\n\noh, YAML"
+    } ],
+    "published" : [ "2021-10-09T02:39:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1446666661650599936" ],
+    "url" : [ "https://twitter.com/choldgraf/status/1446666661650599936" ]
+  },
+  "type" : [ "h-entry" ]
+}
