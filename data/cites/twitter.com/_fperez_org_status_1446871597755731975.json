@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Fernando Pérez" ],
+        "nickname" : [ "fperez_org" ],
+        "numeric-id" : [ "244991150" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1864199033/fperez_photo2_sm.jpg" ],
+        "published" : [ "2011-01-30T16:28:09+00:00" ],
+        "uid" : [ "tag:twitter.com:fperez_org" ],
+        "url" : [ "https://twitter.com/fperez_org", "http://fperez.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I think that should be \"3.8\",\"3.9\",\"3.10\".\n\nThose are not decimal numbers, they are a composite string with alphanumeric fields separated by dots (fields can also be 10a, rc1,...)\n\nIMO YAML is doing the right thing in this case...</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/choldgraf\"></a>",
+      "value" : "I think that should be \"3.8\",\"3.9\",\"3.10\".\n\nThose are not decimal numbers, they are a composite string with alphanumeric fields separated by dots (fields can also be 10a, rc1,...)\n\nIMO YAML is doing the right thing in this case..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/choldgraf/status/1446666661650599936" ],
+    "published" : [ "2021-10-09T16:14:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1446871597755731975" ],
+    "url" : [ "https://twitter.com/fperez_org/status/1446871597755731975" ]
+  },
+  "type" : [ "h-entry" ]
+}
