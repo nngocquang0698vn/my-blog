@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kai (they)" ],
+        "nickname" : [ "coilysiren" ],
+        "numeric-id" : [ "2212879538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411573229366386693/YF8IC63f.jpg" ],
+        "published" : [ "2013-11-24T18:16:52+00:00" ],
+        "uid" : [ "tag:twitter.com:coilysiren" ],
+        "url" : [ "https://twitter.com/coilysiren", "https://linkedin.com/in/coilysiren/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">devs: I'm going to build my own because this third party is unreliable\n\nalso devs: doesn't write docs, no periodic security update story, no regular maintenance whatsoever, doesn't have time to fix any bugs, BYO service is actually less reliable than third party</div>",
+      "value" : "devs: I'm going to build my own because this third party is unreliable\n\nalso devs: doesn't write docs, no periodic security update story, no regular maintenance whatsoever, doesn't have time to fix any bugs, BYO service is actually less reliable than third party"
+    } ],
+    "published" : [ "2021-10-10T18:20:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1447265755649789958" ],
+    "url" : [ "https://twitter.com/coilysiren/status/1447265755649789958" ]
+  },
+  "type" : [ "h-entry" ]
+}
