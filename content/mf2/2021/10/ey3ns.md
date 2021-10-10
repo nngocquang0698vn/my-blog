@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/woketopus/status/1447150924846313475" ],
     "name" : [ "Like of @woketopus's tweet" ],
     "published" : [ "2021-10-10T20:07:00+0100" ],
     "like-of" : [ "https://twitter.com/woketopus/status/1447150924846313475" ],
