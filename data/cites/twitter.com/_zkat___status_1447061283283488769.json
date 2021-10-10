@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "stolen Chochenyo Ohlone land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kat marchán" ],
+        "nickname" : [ "zkat__" ],
+        "numeric-id" : [ "2978661890" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379317565948788740/dWqUc1nA.jpg" ],
+        "published" : [ "2015-01-13T06:07:49+00:00" ],
+        "uid" : [ "tag:twitter.com:zkat__" ],
+        "url" : [ "https://twitter.com/zkat__", "https://toot.cat/@zkat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">it's 2021, but you're strapped for cash. Do you use a service like Okta/Auth0 for user auth, or use an off-the-shelf library/scaffold for building and managing your own user database/auth/etc?\n\nYou'd be using stripe to enable financial transactions, so there's $value$</div>",
+      "value" : "it's 2021, but you're strapped for cash. Do you use a service like Okta/Auth0 for user auth, or use an off-the-shelf library/scaffold for building and managing your own user database/auth/etc?\n\nYou'd be using stripe to enable financial transactions, so there's $value$"
+    } ],
+    "published" : [ "2021-10-10T04:47:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1447061283283488769" ],
+    "url" : [ "https://twitter.com/zkat__/status/1447061283283488769" ]
+  },
+  "type" : [ "h-entry" ]
+}
