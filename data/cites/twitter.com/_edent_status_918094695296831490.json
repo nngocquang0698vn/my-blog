@@ -1,0 +1,42 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There's an empty seat at this conference.\n<a href=\"http://postoccupato.org/\">postoccupato.org</a></div>",
+      "value" : "There's an empty seat at this conference.\npostoccupato.org"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Rome, Lazio" ],
+        "uid" : [ "tag:twitter.com:7d588036fe12e124" ],
+        "url" : [ "https://maps.google.com/maps?q=41.89260862,12.48316752" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "An empty seat with a blood stain logo. ",
+      "value" : "https://pbs.twimg.com/media/DL26PwSXcAAHuzJ.jpg"
+    }, "https://pbs.twimg.com/media/DL26QPYW4AE66J4.jpg" ],
+    "published" : [ "2017-10-11T12:43:27+00:00" ],
+    "uid" : [ "tag:twitter.com:918094695296831490" ],
+    "url" : [ "https://twitter.com/edent/status/918094695296831490" ]
+  },
+  "type" : [ "h-entry" ]
+}
