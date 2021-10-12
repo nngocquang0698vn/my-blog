@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Frost" ],
+        "nickname" : [ "brad_frost" ],
+        "numeric-id" : [ "11855482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR.jpg" ],
+        "published" : [ "2008-01-04T21:57:10+00:00" ],
+        "uid" : [ "tag:twitter.com:brad_frost" ],
+        "url" : [ "https://twitter.com/brad_frost", "http://bradfrost.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Any web developers care to help a buddy out? \n\nI'm trying to run my WP site locally, and I'm able to visit the homepage like so http://localhost:10003.\n\nBut any interior page strips out the port number. Like http://localhost:10003/blog turns into http://localhost/blog\n\nAny ideas?</div>",
+      "value" : "Any web developers care to help a buddy out? \n\nI'm trying to run my WP site locally, and I'm able to visit the homepage like so http://localhost:10003.\n\nBut any interior page strips out the port number. Like http://localhost:10003/blog turns into http://localhost/blog\n\nAny ideas?"
+    } ],
+    "published" : [ "2021-10-12T20:50:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1448028437881442306" ],
+    "url" : [ "https://twitter.com/brad_frost/status/1448028437881442306" ]
+  },
+  "type" : [ "h-entry" ]
+}
