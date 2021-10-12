@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oh no why is one commit fixing two different things\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FiloSottile\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fanf\"></a>",
+      "value" : "Oh no why is one commit fixing two different things"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/FiloSottile/status/1447899563298365441" ],
+    "published" : [ "2021-10-12T20:57:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1448030013182205952" ],
+    "url" : [ "https://twitter.com/mjg59/status/1448030013182205952" ]
+  },
+  "type" : [ "h-entry" ]
+}
