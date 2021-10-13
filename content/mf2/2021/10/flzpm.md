@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/gobfrey/status/1447830496520593408" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1448282893520879621" ],
     "name" : [ "Reply to https://twitter.com/gobfrey/status/1447830496520593408" ],
     "published" : [ "2021-10-13T13:35:29.568230745Z" ],
     "content" : [ {
