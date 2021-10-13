@@ -11,7 +11,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "I got all my wisdom teeth out 6 years ago and I didn't need any recovery time, there was absolutely no pain or anything - 🤞🏽 you are the same!"
+      "value" : "I got all my back wisdom teeth out 6 years ago and I didn't need any recovery time, there was absolutely no pain or anything - �������� you are the same!"
     } ]
   },
   "kind" : "replies",
