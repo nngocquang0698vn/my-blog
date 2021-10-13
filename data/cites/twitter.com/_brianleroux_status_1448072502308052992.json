@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "unceded Coast Salish territory" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian LeRoux" ],
+        "nickname" : [ "brianleroux" ],
+        "numeric-id" : [ "676363" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306006446040133632/aTJNl9XL.jpg" ],
+        "published" : [ "2007-01-21T19:54:27+00:00" ],
+        "uid" : [ "tag:twitter.com:brianleroux" ],
+        "url" : [ "https://twitter.com/brianleroux", "https://brian.io", "http://arc.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">npm i -g <a href=\"https://twitter.com/architect\">@architect</a> \nmkdir -p foo/public\ncd foo\necho \"hi\" &gt; public/index.html\narc deploy\n\n90 seconds later you have an s3 website backed by a stateless node runtime responding to http events capable of 10k rps out of the box. first two million events are free.</div>",
+      "value" : "npm i -g @architect \nmkdir -p foo/public\ncd foo\necho \"hi\" > public/index.html\narc deploy\n\n90 seconds later you have an s3 website backed by a stateless node runtime responding to http events capable of 10k rps out of the box. first two million events are free."
+    } ],
+    "published" : [ "2021-10-12T23:46:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1448072502308052992" ],
+    "url" : [ "https://twitter.com/brianleroux/status/1448072502308052992" ]
+  },
+  "type" : [ "h-entry" ]
+}
