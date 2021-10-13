@@ -5,6 +5,7 @@ date: "2021-09-09T10:59:44+0100"
 syndication:
 - "https://news.ycombinator.com/item?id=28486023"
 tags:
+- salary
 - "job"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
