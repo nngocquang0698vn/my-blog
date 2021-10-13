@@ -16,7 +16,11 @@ I'm a big fan of using [Wiremock](http://wiremock.org/) for stubbing out HTTP se
 
 I've been looking at running Wiremock as part of an AWS Lambda function to cut down costs when not testing, but have found that the overhead of running the HTTP server inside the Lambda to be a bit more than I'd hoped.
 
-However, today, I managed to find a way to solve this.
+However, today, I managed to find a way to solve this, which has given us the following speed improvements (taken fairly unscientifically on a locally running AWS Lambda):
+
+- 45-60% reduction in invocation time
+- ~7-10% better memory footprint
+- ~7-10% cold start reduction
 
 You can find a sample project available at [<i class="fa fa-gitlab"></i> jamietanna/serverless-wiremock](https://gitlab.com/jamietanna/serverless-wiremock). (I'm also very shamelessly stealing the pun server-less from friend and colleague Lewis)
 
