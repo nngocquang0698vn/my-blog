@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Jason Hancock" ],
+          "nickname" : [ "J_Hancock" ],
+          "numeric-id" : [ "87044545" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/590243367130238976/xbGAy5n6.jpg" ],
+          "published" : [ "2009-11-02T22:21:48+00:00" ],
+          "uid" : [ "tag:twitter.com:J_Hancock" ],
+          "url" : [ "https://twitter.com/J_Hancock", "http://MissouriIndependent.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A reporter at <a href=\"https://twitter.com/stltoday\">@stltoday</a> discovered a flaw in a state website that risked exposure of teacher Social Security numbers. He notified the state of the problem and it was fixed.\n\nToday, <a href=\"https://twitter.com/GovParsonMO\">@GovParsonMO</a> labeled the reporter a 'hacker' &amp; vowed criminal prosecution. \n<a href=\"https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/\">missouriindependent.com/2021/10/14/mis…</a></div>",
+        "value" : "A reporter at @stltoday discovered a flaw in a state website that risked exposure of teacher Social Security numbers. He notified the state of the problem and it was fixed.\n\nToday, @GovParsonMO labeled the reporter a 'hacker' & vowed criminal prosecution. \nmissouriindependent.com/2021/10/14/mis…"
+      } ],
+      "published" : [ "2021-10-14T15:32:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1448673023658237965" ],
+      "url" : [ "https://twitter.com/J_Hancock/status/1448673023658237965" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is (one of many reasons) why Government websites need proper vulnerability disclosure programmes.\nWe (CDDO) are looking at security.txt <a href=\"https://github.com/alphagov/open-standards/issues/78\">github.com/alphagov/open-…</a>\nIt's already deployed on some .gov.uk websites.</div>",
+      "value" : "This is (one of many reasons) why Government websites need proper vulnerability disclosure programmes.\nWe (CDDO) are looking at security.txt github.com/alphagov/open-…\nIt's already deployed on some .gov.uk websites."
+    } ],
+    "published" : [ "2021-10-14T17:24:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1448701289400045573" ],
+    "url" : [ "https://twitter.com/edent/status/1448701289400045573" ]
+  },
+  "type" : [ "h-entry" ]
+}
