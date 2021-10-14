@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Missouri, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Governor Mike Parson" ],
+          "nickname" : [ "GovParsonMO" ],
+          "numeric-id" : [ "1003672320781807616" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1349377305517432833/VSFz5pZB.jpg" ],
+          "published" : [ "2018-06-04T16:18:23+00:00" ],
+          "uid" : [ "tag:twitter.com:GovParsonMO" ],
+          "url" : [ "https://twitter.com/GovParsonMO", "http://governor.mo.gov" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "A hacker is someone who gains unauthorized access to information or content. This individual did not have permission to do what they did. They had no authorization to convert and decode the code." ],
+      "in-reply-to" : [ "https://twitter.com/GovParsonMO/status/1448697772799049730" ],
+      "published" : [ "2021-10-14T17:10:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1448697775068229635" ],
+      "url" : [ "https://twitter.com/GovParsonMO/status/1448697775068229635" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "KCMO she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "High King Pilnokula, An Even Meaner Bisexual 🦇" ],
+        "nickname" : [ "Pilnok" ],
+        "numeric-id" : [ "2310997442" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343664104087629827/0ewEKx5Z.jpg" ],
+        "published" : [ "2014-01-26T01:40:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Pilnok" ],
+        "url" : [ "https://twitter.com/Pilnok", "http://twitch.tv/pilnok" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Oh word? Every time I've accidentally hit F12 I was hacking?\n\nI am a master hacker now. Bow before me.</div>",
+      "value" : "Oh word? Every time I've accidentally hit F12 I was hacking?\n\nI am a master hacker now. Bow before me."
+    } ],
+    "published" : [ "2021-10-14T17:29:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1448702406183763970" ],
+    "url" : [ "https://twitter.com/Pilnok/status/1448702406183763970" ]
+  },
+  "type" : [ "h-entry" ]
+}
