@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Online" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Cosgrave 🪦" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1404482641680764934/FmChitNh.jpg" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove", "http://CloudNative.TV" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "mother goose" ],
+    "photo" : [ {
+      "alt" : "A photo of me fixing Ian Coldwater's wig on stage at Kubecon. We are wearing the exact same outfit and wig. I am a foot taller than them.",
+      "value" : "https://pbs.twimg.com/media/FBnBNjbUcAE7wor.jpg"
+    } ],
+    "published" : [ "2021-10-13T21:32:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1448401195572162560" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1448401195572162560" ]
+  },
+  "type" : [ "h-entry" ]
+}
