@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/ThatWriterJon/…" ],
+        "url" : [ "https://twitter.com/ThatWriterJon/status/1448674359883751433" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Great Britain" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "British Bake Off" ],
+          "nickname" : [ "BritishBakeOff" ],
+          "numeric-id" : [ "234428224" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322878948603269128/T08GQjtt.jpg" ],
+          "published" : [ "2011-01-05T16:51:04+00:00" ],
+          "uid" : [ "tag:twitter.com:BritishBakeOff" ],
+          "url" : [ "https://twitter.com/BritishBakeOff", "http://thegreatbritishbakeoff.co.uk", "http://ow.ly/B4YCp" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This is a public service announcement: maltloaf exists. <a href=\"https://twitter.com/search?q=%23GBBO\">#GBBO</a>\n<a class=\"tag\" href=\"https://twitter.com/ThatWriterJon/status/1448674359883751433\">twitter.com/ThatWriterJon/…</a>",
+        "value" : "This is a public service announcement: maltloaf exists. #GBBO"
+      } ],
+      "published" : [ "2021-10-14T16:21:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1448685278101704707" ],
+      "url" : [ "https://twitter.com/BritishBakeOff/status/1448685278101704707" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jon McGreevy" ],
+        "nickname" : [ "ThatWriterJon" ],
+        "numeric-id" : [ "1081315982654783489" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1429454550466015237/7KrWT1y-.jpg" ],
+        "published" : [ "2019-01-04T22:26:34+00:00" ],
+        "uid" : [ "tag:twitter.com:ThatWriterJon" ],
+        "url" : [ "https://twitter.com/ThatWriterJon", "https://www.jonmcgreevy.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I don't mean to boast, but I got retweeted by the official <a href=\"https://twitter.com/search?q=%23GBBO\">#GBBO</a> account yesterday. \n\nThat's right. I'm a big fucking deal now.\n\nI'm pretty much the new Mary Berry!\n\n<a href=\"https://twitter.com/search?q=%23Tweet100\">#Tweet100</a></div>",
+      "value" : "I don't mean to boast, but I got retweeted by the official #GBBO account yesterday. \n\nThat's right. I'm a big fucking deal now.\n\nI'm pretty much the new Mary Berry!\n\n#Tweet100"
+    } ],
+    "published" : [ "2021-10-15T09:55:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1448950771416977411" ],
+    "url" : [ "https://twitter.com/ThatWriterJon/status/1448950771416977411" ]
+  },
+  "type" : [ "h-entry" ]
+}
