@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "droidcon London" ],
+        "nickname" : [ "droidconLondon" ],
+        "numeric-id" : [ "155878576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443496672600936449/M06Zi82y.jpg" ],
+        "published" : [ "2010-06-15T11:44:43+00:00" ],
+        "uid" : [ "tag:twitter.com:droidconLondon" ],
+        "url" : [ "https://twitter.com/droidconLondon", "http://london.droidcon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">In this <a href=\"https://twitter.com/search?q=%23dcldn21\">#dcldn21</a> talk, <a href=\"https://twitter.com/teresa_wyy\">@teresa_wyy</a> will talk about the \"API-First\" concept and discuss the important aspects of <a href=\"https://twitter.com/search?q=%23API\">#API</a> design from the FE engineer's view, including URL structure, <a href=\"https://twitter.com/search?q=%23HTTP\">#HTTP</a> method, <a href=\"https://twitter.com/search?q=%23JSON\">#JSON</a> syntax, and the flow of API-First design.\n\nFull abstract: <a href=\"https://www.london.droidcon.com/program/api-design-for-front-end-engineers\">london.droidcon.com/program/api-de…</a></div>",
+      "value" : "In this #dcldn21 talk, @teresa_wyy will talk about the \"API-First\" concept and discuss the important aspects of #API design from the FE engineer's view, including URL structure, #HTTP method, #JSON syntax, and the flow of API-First design.\n\nFull abstract: london.droidcon.com/program/api-de…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FBu2FeHXMAIqy1w.jpg" ],
+    "published" : [ "2021-10-15T10:00:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1448951911688855554" ],
+    "url" : [ "https://twitter.com/droidconLondon/status/1448951911688855554" ]
+  },
+  "type" : [ "h-entry" ]
+}
