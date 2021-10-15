@@ -1,19 +1,19 @@
 ---
 title: "Implementing IndieAuth Server Metadata"
 description: "Announcing support for OAuth Server Metadata on my IndieAuth Server."
-tags:
-- www.jvt.me
-- indieauth.jvt.me
-- indieauth
-- oauth2
-- oidc
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-10-15T22:35:50+0100
-slug: "indieauth-server-metadata"
+date: "2021-10-15T22:35:50+0100"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/10/15/indieauth-server-metadata/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "www.jvt.me"
+- "indieauth.jvt.me"
+- "indieauth"
+- "oauth2"
+- "oidc"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "indieauth-server-metadata"
 ---
 Something that can make interacting with services quite straightforward is being able to dynamically discover configuration.
 
