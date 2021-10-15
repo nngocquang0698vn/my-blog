@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mayo_yemi/status/1448698576108986368" ],
     "name" : [ "Like of @mayo_yemi's tweet" ],
     "published" : [ "2021-10-15T15:11:00+0100" ],
     "like-of" : [ "https://twitter.com/mayo_yemi/status/1448698576108986368" ],
