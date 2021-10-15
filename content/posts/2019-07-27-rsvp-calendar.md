@@ -35,3 +35,5 @@ Once I'd added all of those, it was then a case of creating a calendar for it. F
 And there you go, I now have [a handy iCalendar link](/rsvps/index.ics) to an always up to date calendar of all my RSVPs - awesome! And because it's all up on my website, this link is available for anyone who also wants to follow me to events.
 
 Update 2020-11-08: Make sure you run your calendar through an [iCalendar validator](https://icalendar.org/validator.html), otherwise [you may find that the iCalendar feed gets rejected](https://support.google.com/calendar/thread/80729304?hl=en).
+
+Update 2021-10-15: This has now been deprecated - as I'm in the process for moving away from Hugo - and the new URL can be retrieved from my [/rsvps/](/rsvps/) page.
