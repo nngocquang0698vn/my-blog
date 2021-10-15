@@ -1,18 +1,19 @@
 ---
 title: "Announcing a Service for Creating an iCalendar feed for event RSVPs: `rsvp-calendar.tanna.dev`"
-description: "Creating a shared service to allow creating iCalendar feeds for tracking what events you're attending."
-tags:
-- calendar
-- indieweb
-- rsvp-calendar.tanna.dev
-- architect-framework
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-10-15T15:00:51+0100
-slug: "rsvp-calendar"
+description: "Creating a shared service to allow creating iCalendar feeds for tracking\
+  \ what events you're attending."
+date: "2021-10-15T15:00:51+0100"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/10/15/rsvp-calendar/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "calendar"
+- "indieweb"
+- "rsvp-calendar.tanna.dev"
+- "architect-framework"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "rsvp-calendar"
 ---
 [Two years ago]({{< ref 2019-07-27-rsvp-calendar >}}), I was attending a lot of in person events, and using a number of platforms to RSVP to them, with an RSVP also posted from my own site for completeness.
 
