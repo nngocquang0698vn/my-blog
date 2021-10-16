@@ -68,4 +68,4 @@ You can see the configuration at `https://indieauth.jvt.me/.well-known/oauth-aut
 }
 ```
 
-I've also started to advertise a `<link rel=indieauth>` on my site, so clients can discover this metadata endpoint.
+I've also started to advertise a `<link rel=indieauth>` and a `<link rel=indieauth_metadata>`  on my site, so clients can discover this metadata endpoint.
