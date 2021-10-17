@@ -6,7 +6,7 @@
   "properties" : {
     "in-reply-to" : [ "https://events.indieweb.org/2021/10/indieweb-friday-funday-halloween-edition-jlycDSXyQ8UL" ],
     "published" : [ "2021-10-16T07:25:47.710297049Z" ],
-    "rsvp" : [ "maybe" ]
+    "rsvp" : [ "no" ]
   },
   "kind" : "rsvps",
   "slug" : "2021/10/j6q7i",
