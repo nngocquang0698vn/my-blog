@@ -1,0 +1,16 @@
+{
+  "date" : "2021-10-17T17:34:00+0100",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @EmmaBostian's tweet" ],
+    "published" : [ "2021-10-17T17:34:00+0100" ],
+    "like-of" : [ "https://twitter.com/EmmaBostian/status/1449726325539971072" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2021/10/ejodr",
+  "client_id" : "https://indigenous.realize.be/"
+}
