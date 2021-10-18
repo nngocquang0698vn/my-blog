@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Facebook Newsroom" ],
+          "nickname" : [ "fbnewsroom" ],
+          "numeric-id" : [ "163723677" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1390707093586386944/vQV62PfD.jpg" ],
+          "published" : [ "2010-07-07T03:30:51+00:00" ],
+          "uid" : [ "tag:twitter.com:fbnewsroom" ],
+          "url" : [ "https://twitter.com/fbnewsroom", "https://about.fb.com/news/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We expect the press to hold us accountable, given our scale and role in the world. But when reporting misrepresents our actions and motivations, we believe we should correct the record." ],
+      "published" : [ "2021-10-18T17:37:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1450154002755178499" ],
+      "url" : [ "https://twitter.com/fbnewsroom/status/1450154002755178499" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Roose" ],
+        "nickname" : [ "kevinroose" ],
+        "numeric-id" : [ "18816166" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1425917562458570752/bqZz2aZd.jpg" ],
+        "published" : [ "2009-01-09T21:28:15+00:00" ],
+        "uid" : [ "tag:twitter.com:kevinroose" ],
+        "url" : [ "https://twitter.com/kevinroose", "http://www.futureproofthebook.com", "http://futureproof.tips" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“We expect the press to hold us accountable…but” 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩" ],
+    "published" : [ "2021-10-18T17:53:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1450157991710232577" ],
+    "url" : [ "https://twitter.com/kevinroose/status/1450157991710232577" ]
+  },
+  "type" : [ "h-entry" ]
+}
