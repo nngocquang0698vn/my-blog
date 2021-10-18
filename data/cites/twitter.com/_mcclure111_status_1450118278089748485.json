@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "mcc" ],
+        "nickname" : [ "mcclure111" ],
+        "numeric-id" : [ "312426579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR.jpg" ],
+        "published" : [ "2011-06-07T03:20:19+00:00" ],
+        "uid" : [ "tag:twitter.com:mcclure111" ],
+        "url" : [ "https://twitter.com/mcclure111", "http://runhello.com/", "http://mastodon.social/@mcc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I see that I can tell Git what ssh to use using the GIT_SSH_COMMAND environment variable <a href=\"https://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use\">superuser.com/questions/2323…</a>\n\nHow can I *ask* Git what ssh it is using?\n\n\"git config core.sshCommand\" prints nothing.\n\nI want to know where the ssh keys for this git are being stored.</div>",
+      "value" : "I see that I can tell Git what ssh to use using the GIT_SSH_COMMAND environment variable superuser.com/questions/2323…\n\nHow can I *ask* Git what ssh it is using?\n\n\"git config core.sshCommand\" prints nothing.\n\nI want to know where the ssh keys for this git are being stored."
+    } ],
+    "published" : [ "2021-10-18T15:15:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1450118278089748485" ],
+    "url" : [ "https://twitter.com/mcclure111/status/1450118278089748485" ]
+  },
+  "type" : [ "h-entry" ]
+}
