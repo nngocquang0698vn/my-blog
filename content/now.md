@@ -27,7 +27,7 @@ What are my interests?
 What am I up to right now?
 
 - Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/)
-- I'm curently taking a few days off before joining the Cabinet Office as a Tech Lead in the Central Digital and Data Office (CDDO)
+- I'm curently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
 - I'm actively blogging about technical and personal things
 - I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
 - I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
