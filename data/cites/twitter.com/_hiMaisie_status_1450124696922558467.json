@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie spell 🔔 🏳️‍⚧️" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437183985847836674/6TIRqSec.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "please excuse the messy cable management" ],
+    "photo" : [ "https://pbs.twimg.com/media/FB_guU8XIAIoADH.jpg" ],
+    "published" : [ "2021-10-18T15:40:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1450124696922558467" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1450124696922558467" ]
+  },
+  "type" : [ "h-entry" ]
+}
