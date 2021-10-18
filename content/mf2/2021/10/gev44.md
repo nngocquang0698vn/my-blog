@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fluffy/status/1450126450657357827" ],
     "name" : [ "Like of @fluffy's tweet" ],
     "published" : [ "2021-10-18T16:48:00+0100" ],
     "category" : [ "discord" ],
