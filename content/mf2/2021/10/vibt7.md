@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/mcclure111/status/1450118278089748485" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1450122016095354883" ],
     "name" : [ "Reply to https://twitter.com/mcclure111/status/1450118278089748485" ],
     "published" : [ "2021-10-18T16:22:00+0100" ],
     "category" : [ "git" ],
