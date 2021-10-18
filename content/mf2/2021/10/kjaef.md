@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dr4g0n_fly3r/status/1439281445726416905" ],
     "name" : [ "Like of @dr4g0n_fly3r's tweet" ],
     "published" : [ "2021-10-18T22:30:00+0100" ],
     "category" : [ "politics" ],
