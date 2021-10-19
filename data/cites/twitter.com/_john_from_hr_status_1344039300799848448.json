@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "john patrick" ],
+        "nickname" : [ "john_from_hr" ],
+        "numeric-id" : [ "2658314315" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1447579487080747017/CKSHuhcR.jpg" ],
+        "published" : [ "2014-07-01T01:42:03+00:00" ],
+        "uid" : [ "tag:twitter.com:john_from_hr" ],
+        "url" : [ "https://twitter.com/john_from_hr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "women will study Immanuel Kant but they Kant get imman to treat them uel" ],
+    "published" : [ "2020-12-29T21:55:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1344039300799848448" ],
+    "url" : [ "https://twitter.com/john_from_hr/status/1344039300799848448" ]
+  },
+  "type" : [ "h-entry" ]
+}
