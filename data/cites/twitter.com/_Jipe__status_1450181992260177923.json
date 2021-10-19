@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Some corner case" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🇫🇷 Jean-Ph˙ ͜ʟ˙ppe 🇪🇺" ],
+        "nickname" : [ "Jipe_" ],
+        "numeric-id" : [ "29518116" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1342873098513690627/qRfzK72p.jpg" ],
+        "published" : [ "2009-04-07T19:13:49+00:00" ],
+        "uid" : [ "tag:twitter.com:Jipe_" ],
+        "url" : [ "https://twitter.com/Jipe_", "https://github.com/jipegit/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Linux has so many built-in password managers:\n syslog\n.bash_history\n.zsh_history\n.mysql_history\n…</div>",
+      "value" : "Linux has so many built-in password managers:\n syslog\n.bash_history\n.zsh_history\n.mysql_history\n…"
+    } ],
+    "published" : [ "2021-10-18T19:28:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1450181992260177923" ],
+    "url" : [ "https://twitter.com/Jipe_/status/1450181992260177923" ]
+  },
+  "type" : [ "h-entry" ]
+}
