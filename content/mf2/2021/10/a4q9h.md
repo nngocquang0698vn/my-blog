@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/john_from_hr/status/1344039300799848448" ],
     "name" : [ "Like of @john_from_hr's tweet" ],
     "published" : [ "2021-10-19T07:30:00+0100" ],
     "category" : [ "shitpost" ],
