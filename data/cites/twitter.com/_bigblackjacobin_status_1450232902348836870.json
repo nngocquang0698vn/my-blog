@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Unknown " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ken" ],
+          "nickname" : [ "BatmanShilI" ],
+          "numeric-id" : [ "1429064058158919682" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1450159825162211334/jJN29jnX.jpg" ],
+          "published" : [ "2021-08-21T12:53:27+00:00" ],
+          "uid" : [ "tag:twitter.com:BatmanShilI" ],
+          "url" : [ "https://twitter.com/BatmanShilI" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "quote this with your most unpopular opinion about batman" ],
+      "photo" : [ "https://pbs.twimg.com/media/FB7NPjAXEAANWeB.jpg" ],
+      "published" : [ "2021-10-17T19:37:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1449821799097651202" ],
+      "url" : [ "https://twitter.com/BatmanShilI/status/1449821799097651202" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sovereign state of have-nots" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Edward Ongweso Jr (redacted spooky)" ],
+        "nickname" : [ "bigblackjacobin" ],
+        "numeric-id" : [ "1135622396" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431322402097704976/WxPgHOto.jpg" ],
+        "published" : [ "2013-01-31T00:48:21+00:00" ],
+        "uid" : [ "tag:twitter.com:bigblackjacobin" ],
+        "url" : [ "https://twitter.com/bigblackjacobin", "http://edwardongwesojr.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Batman does not fuck. He is not a playboy. It’s a PR campaign by his big ass monopolistic firm." ],
+    "published" : [ "2021-10-18T22:50:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1450232902348836870" ],
+    "url" : [ "https://twitter.com/bigblackjacobin/status/1450232902348836870" ]
+  },
+  "type" : [ "h-entry" ]
+}
