@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BGR.com" ],
+        "nickname" : [ "BGR" ],
+        "numeric-id" : [ "18131006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/900756472644194304/JN8WCxM1.jpg" ],
+        "published" : [ "2008-12-15T04:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:BGR" ],
+        "url" : [ "https://twitter.com/BGR", "http://bgr.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A massive object devastated Uranus a long time ago and it never fully recovered <a href=\"http://bgr.co/dfKTY7f\">bgr.co/dfKTY7f</a>",
+      "value" : "A massive object devastated Uranus a long time ago and it never fully recovered bgr.co/dfKTY7f"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/DhLphRZXUAE2T-n.jpg" ],
+    "published" : [ "2018-07-03T12:51:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1014129625843294210" ],
+    "url" : [ "https://twitter.com/BGR/status/1014129625843294210" ]
+  },
+  "type" : [ "h-entry" ]
+}
