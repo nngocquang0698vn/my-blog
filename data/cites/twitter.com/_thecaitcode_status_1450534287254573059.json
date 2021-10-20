@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Caitlyn" ],
+        "nickname" : [ "thecaitcode" ],
+        "numeric-id" : [ "1103089672421429248" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1129433068412985344/M9rDd0uk.png" ],
+        "published" : [ "2019-03-06T00:27:27+00:00" ],
+        "uid" : [ "tag:twitter.com:thecaitcode" ],
+        "url" : [ "https://twitter.com/thecaitcode", "http://www.caitlyngreffly.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I recently passed on a job offer after 4 rounds of interviews. This company only seemed interested in grilling me on my coding ability (all 4 interviews were technical, live coding sessions) and never asked about the hundred other things I do as part of my life as a dev." ],
+    "published" : [ "2021-10-19T18:48:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1450534287254573059" ],
+    "url" : [ "https://twitter.com/thecaitcode/status/1450534287254573059" ]
+  },
+  "type" : [ "h-entry" ]
+}
