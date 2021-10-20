@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marc Edwards" ],
+        "nickname" : [ "marcedwards" ],
+        "numeric-id" : [ "18865450" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1251830823843622913/ODYu_odA.jpg" ],
+        "published" : [ "2009-01-11T12:34:23+00:00" ],
+        "uid" : [ "tag:twitter.com:marcedwards" ],
+        "url" : [ "https://twitter.com/marcedwards", "http://bjango.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Notch? No problem." ],
+    "published" : [ "2021-10-20T12:20:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1450798991633833992" ],
+    "url" : [ "https://twitter.com/marcedwards/status/1450798991633833992" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1450798961132916737/pu/vid/1280x720/hJCWzFhRvJBqbfnv.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
