@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/jeremyjrane/st…" ],
+        "url" : [ "https://twitter.com/jeremyjrane/status/1450632598972162053" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Houston, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jesse Kelly" ],
+          "nickname" : [ "JesseKellyDC" ],
+          "numeric-id" : [ "34082620" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268181440543559681/yBRyQxhc.jpg" ],
+          "published" : [ "2009-04-21T23:08:32+00:00" ],
+          "uid" : [ "tag:twitter.com:JesseKellyDC" ],
+          "url" : [ "https://twitter.com/JesseKellyDC", "https://www.jessekellyshow.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Burgers are to be made on a flat top so they can cook their own fat. The grill has its place. It’s not for burgers.\n<a class=\"tag\" href=\"https://twitter.com/jeremyjrane/status/1450632598972162053\">twitter.com/jeremyjrane/st…</a>",
+        "value" : "Burgers are to be made on a flat top so they can cook their own fat. The grill has its place. It’s not for burgers."
+      } ],
+      "published" : [ "2021-10-20T13:07:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1450810797735784459" ],
+      "url" : [ "https://twitter.com/JesseKellyDC/status/1450810797735784459" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chef Andrew Gruel" ],
+        "nickname" : [ "ChefGruel" ],
+        "numeric-id" : [ "2839374404" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359368547642732544/nxM9bEnp.jpg" ],
+        "published" : [ "2014-10-03T21:21:09+00:00" ],
+        "uid" : [ "tag:twitter.com:ChefGruel" ],
+        "url" : [ "https://twitter.com/ChefGruel", "https://chefgruel.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "He’s 100% correct. The juices that fall through the cracks when you grill a burger are the tears of your guests anticipating a dry burger. <a href=\"https://twitter.com/JesseKellyDC\">@JesseKellyDC</a> <a href=\"https://twitter.com/jessekellydc/status/1450810797735784459\">twitter.com/jessekellydc/s…</a>",
+      "value" : "He’s 100% correct. The juices that fall through the cracks when you grill a burger are the tears of your guests anticipating a dry burger. @JesseKellyDC twitter.com/jessekellydc/s…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FCJhMbyUYAwyv85.jpg" ],
+    "published" : [ "2021-10-20T14:19:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1450828906345369607" ],
+    "url" : [ "https://twitter.com/ChefGruel/status/1450828906345369607" ]
+  },
+  "type" : [ "h-entry" ]
+}
