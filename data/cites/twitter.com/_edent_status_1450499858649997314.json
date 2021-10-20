@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I use an old Android camera as a webcam, so have used an old ringlight as its mount.\nHave also added a phone holder on the right.\nFew more bits to add - but going well so far.</div>",
+        "value" : "I use an old Android camera as a webcam, so have used an old ringlight as its mount.\nHave also added a phone holder on the right.\nFew more bits to add - but going well so far."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/edent/status/1446796118264893442" ],
+      "photo" : [ {
+        "alt" : "Standing desk adapter with loads of bits of kit and far too many wires.",
+        "value" : "https://pbs.twimg.com/media/FBQbqLkXoAYlGth.jpg"
+      } ],
+      "published" : [ "2021-10-09T12:16:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1446811842614005774" ],
+      "url" : [ "https://twitter.com/edent/status/1446811842614005774" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Getting used to this standing desk. But, yeah, hard on the feet &amp; knees. Currently using an old yoga mat which is… adequate.\n\nPitch me your favourite anti-fatigue mats, standing desk fans!</div>",
+      "value" : "Getting used to this standing desk. But, yeah, hard on the feet & knees. Currently using an old yoga mat which is… adequate.\n\nPitch me your favourite anti-fatigue mats, standing desk fans!"
+    } ],
+    "published" : [ "2021-10-19T16:31:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1450499858649997314" ],
+    "url" : [ "https://twitter.com/edent/status/1450499858649997314" ]
+  },
+  "type" : [ "h-entry" ]
+}
