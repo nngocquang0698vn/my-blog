@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Your Name Is Invalid!" ],
+          "nickname" : [ "yournameisvalid" ],
+          "numeric-id" : [ "1270226886648647685" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1270349818137903104/E1mwCaee.jpg" ],
+          "published" : [ "2020-06-09T05:31:17+00:00" ],
+          "uid" : [ "tag:twitter.com:yournameisvalid" ],
+          "url" : [ "https://twitter.com/yournameisvalid" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">“The Market Court of the Brussels appeal court held that, in accordance with article 16 GDPR, the data subject has the right for their name to be correctly spelled when processed by the computer systems of the Bank.”\n\n<a href=\"https://gdprhub.eu/index.php?title=Hof_van_Beroep_-_2019/AR/1006\">gdprhub.eu/index.php?titl…</a></div>",
+        "value" : "“The Market Court of the Brussels appeal court held that, in accordance with article 16 GDPR, the data subject has the right for their name to be correctly spelled when processed by the computer systems of the Bank.”\n\ngdprhub.eu/index.php?titl…"
+      } ],
+      "published" : [ "2021-10-20T07:49:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1450730845828960259" ],
+      "url" : [ "https://twitter.com/yournameisvalid/status/1450730845828960259" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is interesting.\nA bank claimed it couldn't use diacritics in a customer's name due to technical limitations.\nCustomer sued… and won!\nYour name is personal data, and GDPR says it should be recorded accurately.</div>",
+      "value" : "This is interesting.\nA bank claimed it couldn't use diacritics in a customer's name due to technical limitations.\nCustomer sued… and won!\nYour name is personal data, and GDPR says it should be recorded accurately."
+    } ],
+    "published" : [ "2021-10-20T07:53:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1450731852302532608" ],
+    "url" : [ "https://twitter.com/edent/status/1450731852302532608" ]
+  },
+  "type" : [ "h-entry" ]
+}
