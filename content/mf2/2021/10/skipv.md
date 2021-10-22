@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RisuToInu/status/1451415512701882390" ],
     "name" : [ "Like of @RisuToInu's tweet" ],
     "published" : [ "2021-10-22T07:42:00+0100" ],
     "category" : [ "shitpost" ],
