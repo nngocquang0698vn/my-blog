@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/ashleygjovik/s…" ],
+        "url" : [ "https://twitter.com/ashleygjovik/status/1432092351485210627" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Silicon Valley" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ashley M. Gjøvik" ],
+          "nickname" : [ "ashleygjovik" ],
+          "numeric-id" : [ "1374435454343254017" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1443681531948642304/GftCc987.jpg" ],
+          "published" : [ "2021-03-23T18:58:46+00:00" ],
+          "uid" : [ "tag:twitter.com:ashleygjovik" ],
+          "url" : [ "https://twitter.com/ashleygjovik", "http://ashleygjovik.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Every few weeks I like to remind everyone that my <a href=\"https://twitter.com/search?q=%23Apple\">#Apple</a> boss, a senior director, pressured me to sleep with a strange man so my boss could get better service at his favorite Michelin Star restaurant.\n<a class=\"tag\" href=\"https://twitter.com/ashleygjovik/status/1432092351485210627\">twitter.com/ashleygjovik/s…</a>",
+        "value" : "Every few weeks I like to remind everyone that my #Apple boss, a senior director, pressured me to sleep with a strange man so my boss could get better service at his favorite Michelin Star restaurant."
+      } ],
+      "published" : [ "2021-10-23T16:14:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1451945076347883521" ],
+      "url" : [ "https://twitter.com/ashleygjovik/status/1451945076347883521" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chelsey Glasson" ],
+        "nickname" : [ "chelseyglasson" ],
+        "numeric-id" : [ "357256263" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1446708454781964298/mQ5DDlJp.jpg" ],
+        "published" : [ "2011-08-18T02:42:44+00:00" ],
+        "uid" : [ "tag:twitter.com:chelseyglasson" ],
+        "url" : [ "https://twitter.com/chelseyglasson", "https://www.aauw.org/resources/legal/laf/current-cases/glasson-v-google/", "http://dja-prd-ecexap1.kingcounty.gov/?q=node" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Many women in tech have multiple stories of experiencing misconduct. What Ashley experienced at Apple is shocking and likely reflects the reality of many others who aren’t in the position to speak out." ],
+    "published" : [ "2021-10-23T18:06:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1451973337219944450" ],
+    "url" : [ "https://twitter.com/chelseyglasson/status/1451973337219944450" ]
+  },
+  "type" : [ "h-entry" ]
+}
