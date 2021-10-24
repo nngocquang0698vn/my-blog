@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew S. Wilson (msw)" ],
+        "nickname" : [ "_msw_" ],
+        "numeric-id" : [ "15656207" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451210063465488387/5cviMLLM.png" ],
+        "published" : [ "2008-07-30T04:04:46+00:00" ],
+        "uid" : [ "tag:twitter.com:_msw_" ],
+        "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "http://linkedin.com/in/matthewswilson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">GitHub isn't Open Source, and it's acquisition by Microsoft was not proof of their commitment to Open Source as a movement. There are other things that indicate a meaningful change in respect of the movement.\n\nASOP is an \"Open Source Project\" in name and software license only.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/adamhjk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ahachete\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mjasay\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/undef_obj\"></a>",
+      "value" : "GitHub isn't Open Source, and it's acquisition by Microsoft was not proof of their commitment to Open Source as a movement. There are other things that indicate a meaningful change in respect of the movement.\n\nASOP is an \"Open Source Project\" in name and software license only."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mjasay/status/1452334102020071431" ],
+    "published" : [ "2021-10-24T18:15:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1452337882543230978" ],
+    "url" : [ "https://twitter.com/_msw_/status/1452337882543230978" ]
+  },
+  "type" : [ "h-entry" ]
+}
