@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Europe" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "fasterthanlime 🌌" ],
+          "nickname" : [ "fasterthanlime" ],
+          "numeric-id" : [ "2589716941" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/936324358649405440/kRROV3kf.jpg" ],
+          "published" : [ "2014-06-26T14:36:47+00:00" ],
+          "uid" : [ "tag:twitter.com:fasterthanlime" ],
+          "url" : [ "https://twitter.com/fasterthanlime", "http://fasterthanli.me/", "http://patreon.com/fasterthanlime" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Re: forced Chrome logins\n\nDon't need cookies if you own the browser!</div>",
+        "value" : "Re: forced Chrome logins\n\nDon't need cookies if you own the browser!"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/fasterthanlime/status/1452075633694105606" ],
+      "photo" : [ {
+        "alt" : "To get publishers to give Google agreed over their inventory, Google set them up for a lose/lose scenario. 1st, Google leveraged its ownership of Chrome to track and target publishers' audience in order to sell Google's ad inventory. To make this happen, Google first introduced the ability for users to log into the Chrome browser. Then Google began to steer users into doing this by using deceptive and coercive tactics. For example Google started to to automatically log users into Chrome if they logged into any Google service (e.g. Gmail or YouTube). In this way, Google took the users that choose /not/ to log into Chrome and logged them in anyways. If a user tried to log out of Chrome in response, Google punished them by kicking them out of a Google product they were in the middle of using. On top of this, Google got these users to give permission to track them across the open web and on independent publisher sites (...) permitting Google to use Chrome to circumvent reliance on cookies",
+        "value" : "https://pbs.twimg.com/media/FCbgQ6SXIAU_9OX.png"
+      } ],
+      "published" : [ "2021-10-24T02:08:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1452094513741189122" ],
+      "url" : [ "https://twitter.com/fasterthanlime/status/1452094513741189122" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Menlo Park, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ceej \"Frightening\" Silverio" ],
+        "nickname" : [ "ceejbot" ],
+        "numeric-id" : [ "78663" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/857590885743116288/izm__c9I.jpg" ],
+        "published" : [ "2006-12-18T23:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:ceejbot" ],
+        "url" : [ "https://twitter.com/ceejbot", "http://ceejbot.tumblr.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stop. Using. Chrome.\n\n</div>",
+      "value" : "Stop. Using. Chrome.\n\n"
+    } ],
+    "published" : [ "2021-10-24T17:35:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1452327977610629124" ],
+    "url" : [ "https://twitter.com/ceejbot/status/1452327977610629124" ]
+  },
+  "type" : [ "h-entry" ]
+}
