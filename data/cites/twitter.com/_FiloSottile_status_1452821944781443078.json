@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brunswick, Victoria, Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "🎃 Variant Damien Miller under investigation" ],
+          "nickname" : [ "damienmiller" ],
+          "numeric-id" : [ "19319871" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/976662079523323904/XoOaYWVX.jpg" ],
+          "published" : [ "2009-01-22T01:44:44+00:00" ],
+          "uid" : [ "tag:twitter.com:damienmiller" ],
+          "url" : [ "https://twitter.com/damienmiller", "http://blog.djm.net.au/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Git signing using SSH keys just landed! <a href=\"https://github.com/git/git/pull/1041\">github.com/git/git/pull/1…</a>",
+        "value" : "Git signing using SSH keys just landed! github.com/git/git/pull/1…"
+      } ],
+      "published" : [ "2021-10-26T00:36:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1452796122250940418" ],
+      "url" : [ "https://twitter.com/damienmiller/status/1452796122250940418" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Filippo Valsorda 💉💉💉" ],
+        "nickname" : [ "FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">OMG YES YES YES\n\nIf you are into signing git commits, here's your answer!\n\nAlso, I'm happy any time I see SSH signatures in use. Every developer has SSH keys! We have robust tooling and hardware for them! They are simple!\n\nYou can use ssh-keygen(1) to produce and verify them.</div>",
+      "value" : "OMG YES YES YES\n\nIf you are into signing git commits, here's your answer!\n\nAlso, I'm happy any time I see SSH signatures in use. Every developer has SSH keys! We have robust tooling and hardware for them! They are simple!\n\nYou can use ssh-keygen(1) to produce and verify them."
+    } ],
+    "published" : [ "2021-10-26T02:18:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1452821944781443078" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1452821944781443078" ]
+  },
+  "type" : [ "h-entry" ]
+}
