@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Strickland" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435312673520951296/f796-6wX.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"why are your variable names so long?\"\n\nwords are free, my good bitch</div>",
+      "value" : "\"why are your variable names so long?\"\n\nwords are free, my good bitch"
+    } ],
+    "published" : [ "2020-09-24T23:53:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1309279791770558464" ],
+    "url" : [ "https://twitter.com/emilyst/status/1309279791770558464" ]
+  },
+  "type" : [ "h-entry" ]
+}
