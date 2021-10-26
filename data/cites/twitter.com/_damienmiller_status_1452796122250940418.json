@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brunswick, Victoria, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎃 Variant Damien Miller under investigation" ],
+        "nickname" : [ "damienmiller" ],
+        "numeric-id" : [ "19319871" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/976662079523323904/XoOaYWVX.jpg" ],
+        "published" : [ "2009-01-22T01:44:44+00:00" ],
+        "uid" : [ "tag:twitter.com:damienmiller" ],
+        "url" : [ "https://twitter.com/damienmiller", "http://blog.djm.net.au/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Git signing using SSH keys just landed! <a href=\"https://github.com/git/git/pull/1041\">github.com/git/git/pull/1…</a>",
+      "value" : "Git signing using SSH keys just landed! github.com/git/git/pull/1…"
+    } ],
+    "published" : [ "2021-10-26T00:36:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1452796122250940418" ],
+    "url" : [ "https://twitter.com/damienmiller/status/1452796122250940418" ]
+  },
+  "type" : [ "h-entry" ]
+}
