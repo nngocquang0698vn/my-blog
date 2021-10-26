@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tyranny Siren 🧜🏻" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433091103318814723/fuQwkhru.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Whenever I’ve looked at the flow-y sites they only trigger off of GitHub events rather than content. Potentially useful with issue templates!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sarah_edo\"></a>",
+      "value" : "Whenever I’ve looked at the flow-y sites they only trigger off of GitHub events rather than content. Potentially useful with issue templates!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitandbang/status/1452986811203063813" ],
+    "published" : [ "2021-10-26T13:14:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1452987048227377154" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1452987048227377154" ]
+  },
+  "type" : [ "h-entry" ]
+}
