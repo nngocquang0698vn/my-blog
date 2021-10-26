@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "she/they" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "nat insert-spoopy-name alison" ],
+          "nickname" : [ "tesseralis" ],
+          "numeric-id" : [ "471768380" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1448410955176570880/ua_brMqQ.jpg" ],
+          "published" : [ "2012-01-23T07:18:57+00:00" ],
+          "uid" : [ "tag:twitter.com:tesseralis" ],
+          "url" : [ "https://twitter.com/tesseralis", "https://www.tessera.li", "http://polyhedra.tessera.li", "http://ko-fi.com/tesseralis" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "the whole leak about how google shoved AMP on people's faces and fudged load times to justify it makes me wonder what other frameworks and \"best practices\" are shilled by other big tech co's for their own nefarious purposes 🤔" ],
+      "published" : [ "2021-10-26T07:08:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1452894939537231874" ],
+      "url" : [ "https://twitter.com/tesseralis/status/1452894939537231874" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Scary Mary Branscombe" ],
+        "nickname" : [ "marypcbuk" ],
+        "numeric-id" : [ "109323518" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/704319005/mary_head.jpg" ],
+        "published" : [ "2010-01-28T17:45:16+00:00" ],
+        "uid" : [ "tag:twitter.com:marypcbuk" ],
+        "url" : [ "https://twitter.com/marypcbuk", "http://www.marybranscombe.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Google undermining decades of work with the developer community \n<a href=\"https://twitter.com/tesseralis/status/1453070616798670851\">twitter.com/tesseralis/sta…</a></div>",
+      "value" : "Google undermining decades of work with the developer community \ntwitter.com/tesseralis/sta…"
+    } ],
+    "published" : [ "2021-10-26T20:36:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1453098255793987587" ],
+    "url" : [ "https://twitter.com/marypcbuk/status/1453098255793987587" ]
+  },
+  "type" : [ "h-entry" ]
+}
