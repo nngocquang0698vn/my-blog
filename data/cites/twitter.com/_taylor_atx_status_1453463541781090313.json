@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "nicole ruiz" ],
+          "nickname" : [ "nwilliams030" ],
+          "numeric-id" : [ "1343248315" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1402353343972925451/zn9dRsWc.jpg" ],
+          "published" : [ "2013-04-11T01:13:17+00:00" ],
+          "uid" : [ "tag:twitter.com:nwilliams030" ],
+          "url" : [ "https://twitter.com/nwilliams030", "https://linktr.ee/nwilliams030", "http://rb.gy/e6kt1v", "https://numinousxperience.xyz/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What's your favorite piece of internet history?" ],
+      "published" : [ "2021-10-27T00:43:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1453160264925253640" ],
+      "url" : [ "https://twitter.com/nwilliams030/status/1453160264925253640" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Barnett" ],
+        "nickname" : [ "taylor_atx" ],
+        "numeric-id" : [ "521769198" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440531897910583304/0Mj460zE.jpg" ],
+        "published" : [ "2012-03-11T23:20:35+00:00" ],
+        "uid" : [ "tag:twitter.com:taylor_atx" ],
+        "url" : [ "https://twitter.com/taylor_atx", "https://taylorbar.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "it gets me every time, the misspelling of \"referrer\": <a href=\"https://en.wikipedia.org/wiki/HTTP_referer\">en.wikipedia.org/wiki/HTTP_refe…</a>",
+      "value" : "it gets me every time, the misspelling of \"referrer\": en.wikipedia.org/wiki/HTTP_refe…"
+    } ],
+    "published" : [ "2021-10-27T20:48:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1453463541781090313" ],
+    "url" : [ "https://twitter.com/taylor_atx/status/1453463541781090313" ]
+  },
+  "type" : [ "h-entry" ]
+}
