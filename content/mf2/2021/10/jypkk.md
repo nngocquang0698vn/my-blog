@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/martaarcones/status/1433095090621362181" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1453298948261691397" ],
     "name" : [ "Reply to https://twitter.com/martaarcones/status/1433095090621362181" ],
     "published" : [ "2021-10-27T10:49:00+0100" ],
     "post-status" : [ "published" ],
