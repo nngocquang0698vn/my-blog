@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1453297437381173256" ],
     "published" : [ "2021-10-27T09:42:00Z" ],
     "category" : [ "api-days" ],
     "content" : [ {
