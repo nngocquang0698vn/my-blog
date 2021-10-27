@@ -1,6 +1,6 @@
 ---
 title: "Using JitPack to Install Gradle Plugins from Git Sources"
-description: "How to use JitPack to use an unreleased Gradle plugin from a Git repo in your Gralde projects."
+description: "How to use JitPack to use an unreleased Gradle plugin from a Git repo in your Gradle projects."
 tags:
 - blogumentation
 - gradle
