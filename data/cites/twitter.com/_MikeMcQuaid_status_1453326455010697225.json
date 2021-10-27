@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike McQuaid" ],
+        "nickname" : [ "MikeMcQuaid" ],
+        "numeric-id" : [ "8694172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1166436586579484673/IhZikVg8.jpg" ],
+        "published" : [ "2007-09-05T20:11:04+00:00" ],
+        "uid" : [ "tag:twitter.com:MikeMcQuaid" ],
+        "url" : [ "https://twitter.com/MikeMcQuaid", "https://mikemcquaid.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Being an open-source maintainer in 2021: since yesterday I have:\n\n- people in my personal DMs calling me a douche for not helping them debug their problems in my DMs\n\n- people saying “f*ck you Homebrew” (their censoring, not mine) in my personal email for a new Homebrew release</div>",
+      "value" : "Being an open-source maintainer in 2021: since yesterday I have:\n\n- people in my personal DMs calling me a douche for not helping them debug their problems in my DMs\n\n- people saying “f*ck you Homebrew” (their censoring, not mine) in my personal email for a new Homebrew release"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FCtAtDSXsAMfsRT.jpg", "https://pbs.twimg.com/media/FCtAtFjWEAI7Hcy.jpg" ],
+    "published" : [ "2021-10-27T11:43:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1453326455010697225" ],
+    "url" : [ "https://twitter.com/MikeMcQuaid/status/1453326455010697225" ]
+  },
+  "type" : [ "h-entry" ]
+}
