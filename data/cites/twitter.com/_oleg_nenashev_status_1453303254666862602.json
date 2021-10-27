@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jamie Tanna | www.jvt.me" ],
+          "nickname" : [ "JamieTanna" ],
+          "numeric-id" : [ "2292531098" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1389663671027224582/18Ugf4IV.jpg" ],
+          "published" : [ "2014-01-15T10:55:11+00:00" ],
+          "uid" : [ "tag:twitter.com:JamieTanna" ],
+          "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Just to update on this - I'm a maintainer now, it's been released as 1.78 this morning, and I'll see over the coming weeks if there's anything other high-priority to ship 🚀 (<a href=\"https://www.jvt.me/mf2/2021/10/jypkk/\">jvt.me/mf2/2021/10/jy…</a>)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/daspilker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/martaarcones\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/oleg_nenashev\"></a>",
+        "value" : "Just to update on this - I'm a maintainer now, it's been released as 1.78 this morning, and I'll see over the coming weeks if there's anything other high-priority to ship 🚀 (jvt.me/mf2/2021/10/jy…)"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/martaarcones/status/1433095090621362181" ],
+      "published" : [ "2021-10-27T09:54:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1453298948261691397" ],
+      "url" : [ "https://twitter.com/JamieTanna/status/1453298948261691397" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926898317170216960/yqu9jBFD.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Thanks to <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> for stepping up up as a <a href=\"https://twitter.com/jenkinsci\">@jenkinsci</a> JobDSL plugin maintainer! And kudos to <a href=\"https://twitter.com/daspilker\">@daspilker</a> for leading it for almost ten years 🙇\n\nJobDSL is one of the well documented and stable plugins and it is also essential for the configuration as code ecosystem in Jenkins</div>",
+      "value" : "Thanks to @JamieTanna for stepping up up as a @jenkinsci JobDSL plugin maintainer! And kudos to @daspilker for leading it for almost ten years 🙇\n\nJobDSL is one of the well documented and stable plugins and it is also essential for the configuration as code ecosystem in Jenkins"
+    } ],
+    "published" : [ "2021-10-27T10:11:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1453303254666862602" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1453303254666862602" ]
+  },
+  "type" : [ "h-entry" ]
+}
