@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Fortey and a Werewolf at the Mall" ],
+        "nickname" : [ "IanFortey" ],
+        "numeric-id" : [ "68459858" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1126145355714912256/4dQJKsbB.png" ],
+        "published" : [ "2009-08-24T17:27:34+00:00" ],
+        "uid" : [ "tag:twitter.com:IanFortey" ],
+        "url" : [ "https://twitter.com/IanFortey", "https://www.amazon.com/Ian-Fortey/e/B093ZF85M8/ref=dp_byline_cont_ebooks_1" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This story is ridiculous and embarrassing and doesn't make the point you think it does.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GadSaad\"></a>",
+      "value" : "This story is ridiculous and embarrassing and doesn't make the point you think it does."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GadSaad/status/1453367468769095685" ],
+    "published" : [ "2021-10-27T16:43:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1453401994673147914" ],
+    "url" : [ "https://twitter.com/IanFortey/status/1453401994673147914" ]
+  },
+  "type" : [ "h-entry" ]
+}
