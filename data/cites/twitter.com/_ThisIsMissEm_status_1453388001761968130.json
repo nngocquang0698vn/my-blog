@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emelia 👸🏻" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/919075940495495169/tXWpM0Fa.jpg" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Tumblr's API is now OAuth2: <a href=\"https://engineering.tumblr.com/post/666127838922014720/oauth-2-on-the-tumblr-api\">engineering.tumblr.com/post/666127838…</a>\n\nA significant security upgrade from what they had used previously (OAuth1.0a), let's see if <a href=\"https://twitter.com/TwitterDev\">@twitterdev</a> will catch up to the <a href=\"https://twitter.com/tumblr\">@tumblr</a> team.</div>",
+      "value" : "Tumblr's API is now OAuth2: engineering.tumblr.com/post/666127838…\n\nA significant security upgrade from what they had used previously (OAuth1.0a), let's see if @twitterdev will catch up to the @tumblr team."
+    } ],
+    "published" : [ "2021-10-27T15:47:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1453388001761968130" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1453388001761968130" ]
+  },
+  "type" : [ "h-entry" ]
+}
