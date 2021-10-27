@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1453362413458370567" ],
     "published" : [ "2021-10-27T15:01:00+0100" ],
     "category" : [ "open-source", "jenkins", "job-dsl" ],
     "repost-of" : [ "https://twitter.com/oleg_nenashev/status/1453303254666862602" ],
