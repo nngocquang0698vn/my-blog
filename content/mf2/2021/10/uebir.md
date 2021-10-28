@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EatPodcast/status/1453352356121305092" ],
     "name" : [ "Like of @EatPodcast's tweet" ],
     "published" : [ "2021-10-28T07:43:14.790568045Z" ],
     "like-of" : [ "https://twitter.com/EatPodcast/status/1453352356121305092" ]
