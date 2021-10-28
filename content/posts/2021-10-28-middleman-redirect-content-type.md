@@ -57,4 +57,29 @@ redirect "security.txt.html", to: "https://security-redirect.example.com/.well-k
 
 I've tested that this works on GitHub Pages, Netlify and GitLab, but if you run on a different hosting platform, the stripping of the trailing `.html` may not work.
 
+In cases where your deployment provider may have problems if both `Security.txt` nad `security.txt.html` are present, when requesting `/security.txt`, you can make it optional:
 
+```ruby
+def external_redirect(from, to)
+  configure :development do
+  page "/security.txt", content_type: "text/html"
+  redirect "security.txt", to: "https://security-redirect.example.com/.well-known/security.txt"
+end
+
+redirect "security.txt.html", to: "https://security-redirect.example.com/.well-known/security.txt"
+```
+
+And for duplication:
+
+```ruby
+def external_redirect(from, to)
+  configure :development do
+    page "/#{from}", content_type: "text/html"
+    redirect from, to: to
+  end
+
+  redirect "#{from}.html", to: to
+end
+
+external_redirect("security.txt", "https://security-redirect.example.com/.well-known/security.txt")
+```
