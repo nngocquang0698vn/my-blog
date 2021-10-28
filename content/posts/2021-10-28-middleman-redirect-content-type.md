@@ -83,3 +83,17 @@ end
 
 external_redirect("security.txt", "https://security-redirect.example.com/.well-known/security.txt")
 ```
+
+Alternatively, we can get it working with just this:
+
+```ruby
+redirect "security.txt/index.html", to: "https://vdp.cabinetoffice.gov.uk/.well-known/security.txt"
+import_file File.expand_path("_config.yml", config[:source]), "/_config.yml"
+```
+
+Making sure to include `source/_config.yml` for GitHub Pages, which seems to be required, even if you're not using Jekyll, which `_config.yml` comes from:
+
+```yaml
+include:
+- '.well-known'
+```
