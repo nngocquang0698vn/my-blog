@@ -50,3 +50,8 @@ My daily drivers for work and play are:
   - NVIDIA TITAN X
 
 My current colourscheme is [Gruvbox](https://github.com/morhetz/gruvbox).
+
+I'm an Open Source maintainer for a few personal projects, as well as:
+
+- [Jenkins Job DSL Plugin](https://github.com/jenkinsci/job-dsl-plugin/)
+- [Cucumber Reporting Plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin)
