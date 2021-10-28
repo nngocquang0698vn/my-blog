@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKager/status/1453825233169772547" ],
     "name" : [ "Like of @EmilyKager's tweet" ],
     "published" : [ "2021-10-28T22:37:00+0100" ],
     "category" : [ "facebook", "ethics" ],
