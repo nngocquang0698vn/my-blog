@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "I like that _Night Blood_ looks like _Collateral_ but ✨ Halloween ✨"
+      "value" : "I like that _Night Teeth_ looks like _Collateral_ but ✨ Halloween ✨"
     } ]
   },
   "kind" : "notes",
