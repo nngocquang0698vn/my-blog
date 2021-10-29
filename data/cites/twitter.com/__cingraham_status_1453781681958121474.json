@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Manoush Zomorodi" ],
+          "nickname" : [ "manoushz" ],
+          "numeric-id" : [ "65671583" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/994601220802260994/MpARzGWw.jpg" ],
+          "published" : [ "2009-08-14T16:21:23+00:00" ],
+          "uid" : [ "tag:twitter.com:manoushz" ],
+          "url" : [ "https://twitter.com/manoushz", "http://www.manoushz.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "“In the metaverse, you can decide when you need to take a break and teleport to a private bubble to be alone.” Eating lunch and watching this. And weeping." ],
+      "photo" : [ "https://pbs.twimg.com/media/FCzV2MxWEAIEZlN.jpg" ],
+      "published" : [ "2021-10-28T17:13:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1453771911918411776" ],
+      "url" : [ "https://twitter.com/manoushz/status/1453771911918411776" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minnesota" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Christopher Ingraham" ],
+        "nickname" : [ "_cingraham" ],
+        "numeric-id" : [ "452521774" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu.jpg" ],
+        "published" : [ "2012-01-01T23:27:55+00:00" ],
+        "uid" : [ "tag:twitter.com:_cingraham" ],
+        "url" : [ "https://twitter.com/_cingraham", "https://thewhyaxis.substack.com/about?utm_source=menu-dropdown" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There's a running joke on Reddit about a massively multiplayer online game called \"Outside,\" which is literally just going outside and interacting with other people and existing in society." ],
+    "published" : [ "2021-10-28T17:52:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1453781681958121474" ],
+    "url" : [ "https://twitter.com/_cingraham/status/1453781681958121474" ]
+  },
+  "type" : [ "h-entry" ]
+}
