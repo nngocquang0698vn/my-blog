@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tokyo, Japan" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ann Kilzer // 杏キルザー J&J 🍥" ],
+        "nickname" : [ "stonecoldkilzer" ],
+        "numeric-id" : [ "14941231" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358679568895254528/ywNb5EuN.jpg" ],
+        "published" : [ "2008-05-29T05:13:06+00:00" ],
+        "uid" : [ "tag:twitter.com:stonecoldkilzer" ],
+        "url" : [ "https://twitter.com/stonecoldkilzer", "http://www.annkilzer.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"hey guys\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>",
+      "value" : "\"hey guys\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kefimochi/status/1453927870078742528" ],
+    "published" : [ "2021-10-29T04:15:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1453938497568456705" ],
+    "url" : [ "https://twitter.com/stonecoldkilzer/status/1453938497568456705" ]
+  },
+  "type" : [ "h-entry" ]
+}
