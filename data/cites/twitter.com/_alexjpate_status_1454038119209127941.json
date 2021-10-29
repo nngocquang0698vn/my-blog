@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London / Milan" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Pate" ],
+        "nickname" : [ "alexjpate" ],
+        "numeric-id" : [ "243263662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438871773110542343/fGxabfny.jpg" ],
+        "published" : [ "2011-01-26T17:29:49+00:00" ],
+        "uid" : [ "tag:twitter.com:alexjpate" ],
+        "url" : [ "https://twitter.com/alexjpate", "https://alexjpate.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The clocks go back on Sunday. Time for your biannual review of which banks will inexplicably be down" ],
+    "published" : [ "2021-10-29T10:51:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1454038119209127941" ],
+    "url" : [ "https://twitter.com/alexjpate/status/1454038119209127941" ]
+  },
+  "type" : [ "h-entry" ]
+}
