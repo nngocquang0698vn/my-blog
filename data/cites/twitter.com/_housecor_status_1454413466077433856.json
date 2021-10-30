@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/650743198348808192/LT6SeOJr.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://reactjsconsulting.com", "http://pluralsight.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Low quality tests are arguably worse than no tests. Why? Because they make it look like the code is well tested. This creates a false sense of confidence. And lousy tests that report 100% coverage mask opportunities to improve.\n\nThe real solution: Thoughtful, human review.</div>",
+      "value" : "Low quality tests are arguably worse than no tests. Why? Because they make it look like the code is well tested. This creates a false sense of confidence. And lousy tests that report 100% coverage mask opportunities to improve.\n\nThe real solution: Thoughtful, human review."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/housecor/status/1454413465091821568" ],
+    "published" : [ "2021-10-30T11:42:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1454413466077433856" ],
+    "url" : [ "https://twitter.com/housecor/status/1454413466077433856" ]
+  },
+  "type" : [ "h-entry" ]
+}
