@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/650743198348808192/LT6SeOJr.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://reactjsconsulting.com", "http://pluralsight.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This week I worked with a team to get code coverage over 80% (a corporate minimum). \n\nThe problem with this effort: Code coverage can be gamed.\n\nSure, low code coverage means there's a lot of untested code.\n\nBut, high code coverage doesn't mean the code is well tested.</div>",
+      "value" : "This week I worked with a team to get code coverage over 80% (a corporate minimum). \n\nThe problem with this effort: Code coverage can be gamed.\n\nSure, low code coverage means there's a lot of untested code.\n\nBut, high code coverage doesn't mean the code is well tested."
+    } ],
+    "published" : [ "2021-10-30T11:42:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1454413464156483587" ],
+    "url" : [ "https://twitter.com/housecor/status/1454413464156483587" ]
+  },
+  "type" : [ "h-entry" ]
+}
