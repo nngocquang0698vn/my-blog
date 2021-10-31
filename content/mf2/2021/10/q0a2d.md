@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1454869303044542467" ],
     "published" : [ "2021-10-31T17:49:00+0000" ],
     "category" : [ "job" ],
     "repost-of" : [ "https://twitter.com/krisnova/status/1454729006826274816" ],
