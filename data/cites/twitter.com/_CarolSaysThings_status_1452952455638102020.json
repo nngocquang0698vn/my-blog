@@ -1,0 +1,63 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1453720273505587209/frjsfqT3.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/angeldominguez/status/1452713027262898186\">@angeldominguez</a> <div style=\"white-space: pre\">so I made something… \n<a href=\"https://twitter.com/search?q=%23howyouDUNE\">#howyouDUNE</a></div>"
+    } ],
+    "published" : [ "2021-10-26T10:57:14+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Albox, Spain" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Ángel Domínguez ♬" ],
+            "nickname" : [ "angeldominguez" ],
+            "numeric-id" : [ "18431747" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1447738243483586562/ACqHGEIM.jpg" ],
+            "published" : [ "2008-12-28T18:42:01+00:00" ],
+            "uid" : [ "tag:twitter.com:angeldominguez" ],
+            "url" : [ "https://twitter.com/angeldominguez", "http://adominguez.info" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ {
+          "html" : "<div style=\"white-space: pre\">so I made something… \n<a href=\"https://twitter.com/search?q=%23howyouDUNE\">#howyouDUNE</a></div>",
+          "value" : "so I made something… \n#howyouDUNE"
+        } ],
+        "photo" : [ {
+          "alt" : "A retouched version of the Dune poster (2021), with Joey Tribbiani, from Friends, in place of all eight characters displayed. One of them even has the infamous blue Ichiban lipstick from Joey’s Japanese TV commercial. The title is “How You Dune?”",
+          "value" : "https://pbs.twimg.com/media/FCkSyz0XoAk9dFt.jpg"
+        } ],
+        "published" : [ "2021-10-25T19:05:50+00:00" ],
+        "uid" : [ "tag:twitter.com:1452713027262898186" ],
+        "url" : [ "https://twitter.com/angeldominguez/status/1452713027262898186" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1452952455638102020" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1452952455638102020" ]
+  },
+  "type" : [ "h-entry" ]
+}
