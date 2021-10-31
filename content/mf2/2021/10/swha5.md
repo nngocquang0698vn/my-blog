@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1452952455638102020" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2021-10-31T18:55:00+0000" ],
     "category" : [ "shitpost" ],
