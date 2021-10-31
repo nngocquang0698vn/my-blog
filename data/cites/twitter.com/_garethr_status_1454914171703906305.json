@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge and London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gareth Rushgrove" ],
+        "nickname" : [ "garethr" ],
+        "numeric-id" : [ "80703" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/901089985104941056/d7SFLTMM.jpg" ],
+        "published" : [ "2006-12-19T21:00:05+00:00" ],
+        "uid" : [ "tag:twitter.com:garethr" ],
+        "url" : [ "https://twitter.com/garethr", "https://garethr.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A bunch of that predates GDS.\n\n@SamJSharpe is right about why canonical URLs are important. \n\nNo slash is more aesthetically pleasing to me at least and it was probably a unilateral decision at the time 😏</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GDSTeam\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RichardTowers\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SamJSharpe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/philandstuff\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rjw1\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonrjones\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stuart_cullum\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tlornewr\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vosageroll\"></a>",
+      "value" : "A bunch of that predates GDS.\n\n@SamJSharpe is right about why canonical URLs are important. \n\nNo slash is more aesthetically pleasing to me at least and it was probably a unilateral decision at the time 😏"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rjw1/status/1454910807846887426" ],
+    "published" : [ "2021-10-31T20:52:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1454914171703906305" ],
+    "url" : [ "https://twitter.com/garethr/status/1454914171703906305" ]
+  },
+  "type" : [ "h-entry" ]
+}
