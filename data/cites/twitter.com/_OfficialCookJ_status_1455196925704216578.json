@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Cook 👨🏻‍💻" ],
+        "nickname" : [ "OfficialCookJ" ],
+        "numeric-id" : [ "799508384865198080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1359544350108246020/5h107077.jpg" ],
+        "published" : [ "2016-11-18T07:03:47+00:00" ],
+        "uid" : [ "tag:twitter.com:OfficialCookJ" ],
+        "url" : [ "https://twitter.com/OfficialCookJ", "https://jamescook.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Interactive <a href=\"https://twitter.com/search?q=%23Terraform\">#Terraform</a> plans. I really like how this works and it’s open source. Checkout Rover using the links below\n\nRover: <a href=\"https://github.com/im2nguyen/rover\">github.com/im2nguyen/rover</a>\nRover using GitHub Actions: <a href=\"https://github.com/marketplace/actions/rover-terraform-action\">github.com/marketplace/ac…</a>\n\nRemember, leave a ⭐️ \n\n<a href=\"https://twitter.com/search?q=%23Cloud\">#Cloud</a> <a href=\"https://twitter.com/search?q=%23DevOps\">#DevOps</a> <a href=\"https://twitter.com/search?q=%23CloudFamily\">#CloudFamily</a> <a href=\"https://twitter.com/search?q=%23DEVCommunity\">#DEVCommunity</a> <a href=\"https://twitter.com/search?q=%23IaC\">#IaC</a> <a href=\"https://twitter.com/search?q=%23code\">#code</a></div>",
+      "value" : "Interactive #Terraform plans. I really like how this works and it’s open source. Checkout Rover using the links below\n\nRover: github.com/im2nguyen/rover\nRover using GitHub Actions: github.com/marketplace/ac…\n\nRemember, leave a ⭐️ \n\n#Cloud #DevOps #CloudFamily #DEVCommunity #IaC #code"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FDHl4-NWEAUbehu.jpg" ],
+    "published" : [ "2021-11-01T15:35:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1455196925704216578" ],
+    "url" : [ "https://twitter.com/OfficialCookJ/status/1455196925704216578" ]
+  },
+  "type" : [ "h-entry" ]
+}
