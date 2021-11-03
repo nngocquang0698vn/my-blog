@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brandon West" ],
+          "nickname" : [ "bwest" ],
+          "numeric-id" : [ "16517063" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1415449869389471744/bYZA7D_d.jpg" ],
+          "published" : [ "2008-09-29T19:44:02+00:00" ],
+          "uid" : [ "tag:twitter.com:bwest" ],
+          "url" : [ "https://twitter.com/bwest", "http://bwe.st" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "The recent open source moves by Microsoft are interesting. On one hand, I love the power of a vocal community; on the other, I hate to see community/devrel teams left to clean up after a bonehead decision from an executive who is clearly disconnected from the reality of the work." ],
+      "published" : [ "2021-10-24T15:22:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1452294440144474119" ],
+      "url" : [ "https://twitter.com/bwest/status/1452294440144474119" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brandon West" ],
+        "nickname" : [ "bwest" ],
+        "numeric-id" : [ "16517063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415449869389471744/bYZA7D_d.jpg" ],
+        "published" : [ "2008-09-29T19:44:02+00:00" ],
+        "uid" : [ "tag:twitter.com:bwest" ],
+        "url" : [ "https://twitter.com/bwest", "http://bwe.st" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not a great leading indicator when the person in charge of the hostile product decision gets promoted to lead up the whole dev division, including GitHub.\n\nOne of the worst parts of devrel is when management decides to ring the register and sell off the earned developer trust.</div>",
+      "value" : "Not a great leading indicator when the person in charge of the hostile product decision gets promoted to lead up the whole dev division, including GitHub.\n\nOne of the worst parts of devrel is when management decides to ring the register and sell off the earned developer trust."
+    } ],
+    "published" : [ "2021-11-03T18:37:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1455967368727859203" ],
+    "url" : [ "https://twitter.com/bwest/status/1455967368727859203" ]
+  },
+  "type" : [ "h-entry" ]
+}
