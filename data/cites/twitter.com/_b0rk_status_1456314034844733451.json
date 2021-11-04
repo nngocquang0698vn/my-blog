@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🔎Julia Evans🔍" ],
+        "nickname" : [ "b0rk" ],
+        "numeric-id" : [ "6603532" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr.jpg" ],
+        "published" : [ "2007-06-05T21:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:b0rk" ],
+        "url" : [ "https://twitter.com/b0rk", "http://jvns.ca", "http://wizardzines.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i often think about how a lot of programming is running into the same bugs over and over again, and how being exposed to common bugs (and being shown how to handle them!) gives you a huge advantage" ],
+    "published" : [ "2021-11-04T17:34:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1456314034844733451" ],
+    "url" : [ "https://twitter.com/b0rk/status/1456314034844733451" ]
+  },
+  "type" : [ "h-entry" ]
+}
