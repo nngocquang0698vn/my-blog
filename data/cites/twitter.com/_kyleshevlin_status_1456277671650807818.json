@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Jose, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lorin Hochstein" ],
+          "nickname" : [ "norootcause" ],
+          "numeric-id" : [ "13097242" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ],
+          "published" : [ "2008-02-05T15:49:35+00:00" ],
+          "uid" : [ "tag:twitter.com:norootcause" ],
+          "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Does it count as work in progress if I haven't started on it yet?" ],
+      "published" : [ "2021-11-03T18:33:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1455966333837795329" ],
+      "url" : [ "https://twitter.com/norootcause/status/1455966333837795329" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com", "http://ko-fi.com/kyleshevlin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The moment I start _thinking_ about something it becomes a WIP because thinking _is_ work.\n\nIf thinking wasn’t work, I think a lot of us would have far more energy at the end of the day.</div>",
+      "value" : "The moment I start _thinking_ about something it becomes a WIP because thinking _is_ work.\n\nIf thinking wasn’t work, I think a lot of us would have far more energy at the end of the day."
+    } ],
+    "published" : [ "2021-11-04T15:10:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1456277671650807818" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1456277671650807818" ]
+  },
+  "type" : [ "h-entry" ]
+}
