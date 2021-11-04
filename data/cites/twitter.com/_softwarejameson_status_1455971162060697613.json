@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🌵🌵 " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jameson" ],
+        "nickname" : [ "softwarejameson" ],
+        "numeric-id" : [ "511012448" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350547063365382144/K9N_Tn62.jpg" ],
+        "published" : [ "2012-03-01T23:12:26+00:00" ],
+        "uid" : [ "tag:twitter.com:softwarejameson" ],
+        "url" : [ "https://twitter.com/softwarejameson", "https://nosemaj.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We recently found that the new 2021 M1 MacBooks cut our Android build times in half.\n\nSo for a team of 9, $32k of laptops will actually save $100k in productivity over 2022. The break-even point happens at 3 months.\n\nTL;DR Engineering hours are much more expensive than laptops!</div>",
+      "value" : "We recently found that the new 2021 M1 MacBooks cut our Android build times in half.\n\nSo for a team of 9, $32k of laptops will actually save $100k in productivity over 2022. The break-even point happens at 3 months.\n\nTL;DR Engineering hours are much more expensive than laptops!"
+    } ],
+    "published" : [ "2021-11-03T18:52:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1455971162060697613" ],
+    "url" : [ "https://twitter.com/softwarejameson/status/1455971162060697613" ]
+  },
+  "type" : [ "h-entry" ]
+}
