@@ -8,6 +8,7 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/Brunty/status/1457033954343653380" ],
     "published" : [ "2021-11-06T17:19:00+0000" ],
+    "category" : [ "microformats2" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
@@ -16,5 +17,6 @@
   },
   "kind" : "replies",
   "slug" : "2021/11/jmdi0",
+  "tags" : [ "microformats2" ],
   "client_id" : "https://indigenous.realize.be/"
 }
