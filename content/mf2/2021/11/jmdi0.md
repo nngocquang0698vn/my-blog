@@ -11,7 +11,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "There certainly is - check out https://hire.jvt.me for it in action. More details at https://www.jvt.me/posts/2021/05/25/microformats-resume/"
+      "value" : "There certainly is - check out https://hire.jvt.me for how I've done it using #Microformats2 (there's a link at the bottom which links out to how it would be parsed). More details at https://www.jvt.me/posts/2021/05/25/microformats-resume/"
     } ]
   },
   "kind" : "replies",
