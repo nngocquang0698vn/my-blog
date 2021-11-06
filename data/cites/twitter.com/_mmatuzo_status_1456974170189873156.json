@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vienna, Austria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Manuel Matuzović" ],
+        "nickname" : [ "mmatuzo" ],
+        "numeric-id" : [ "22161724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4.jpg" ],
+        "published" : [ "2009-02-27T17:09:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mmatuzo" ],
+        "url" : [ "https://twitter.com/mmatuzo", "http://www.matuzo.at", "http://wien.gv.at" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've shared this before, but it's just so useful.\n\nAn alt Decision Tree\n<a href=\"https://www.w3.org/WAI/tutorials/images/decision-tree/\">w3.org/WAI/tutorials/…</a></div>",
+      "value" : "I've shared this before, but it's just so useful.\n\nAn alt Decision Tree\nw3.org/WAI/tutorials/…"
+    } ],
+    "photo" : [ {
+      "alt" : "The first two questions of the alt decision tree. “Does the image contain text?\" and “Is the image used in a link or a button, and would it be hard or impossible to understand what the link or the button does, if the image wasn’t there?“",
+      "value" : "https://pbs.twimg.com/media/FDg2D5LWYAAaCDP.jpg"
+    } ],
+    "published" : [ "2021-11-06T13:18:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1456974170189873156" ],
+    "url" : [ "https://twitter.com/mmatuzo/status/1456974170189873156" ]
+  },
+  "type" : [ "h-entry" ]
+}
