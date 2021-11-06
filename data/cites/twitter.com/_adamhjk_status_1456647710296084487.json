@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Want it to be open source? Great! Go for it. Want it to have all the upsides of open source, and none of the side effects that might make you uncomfortable? Get the fuck right out of town with that. The upside of being open should come with the potential for others to benefit." ],
+    "in-reply-to" : [ "https://twitter.com/adamhjk/status/1456647709092311043" ],
+    "published" : [ "2021-11-05T15:40:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1456647710296084487" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1456647710296084487" ]
+  },
+  "type" : [ "h-entry" ]
+}
