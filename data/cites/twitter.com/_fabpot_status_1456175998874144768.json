@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Lille, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Fabien Potencier" ],
+        "nickname" : [ "fabpot" ],
+        "numeric-id" : [ "15072316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1126770148092698625/nI58pL5O.png" ],
+        "published" : [ "2008-06-10T12:02:49+00:00" ],
+        "uid" : [ "tag:twitter.com:fabpot" ],
+        "url" : [ "https://twitter.com/fabpot", "http://fabien.potencier.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A quick definition of Open-Source" ],
+    "photo" : [ "https://pbs.twimg.com/media/FDVgK2BXoAAFB0U.png" ],
+    "published" : [ "2021-11-04T08:26:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1456175998874144768" ],
+    "url" : [ "https://twitter.com/fabpot/status/1456175998874144768" ]
+  },
+  "type" : [ "h-entry" ]
+}
