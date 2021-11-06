@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dana Gould" ],
+        "nickname" : [ "danagould" ],
+        "numeric-id" : [ "71273952" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1087055992536281089/1QVVMKUT.jpg" ],
+        "published" : [ "2009-09-03T15:01:00+00:00" ],
+        "uid" : [ "tag:twitter.com:danagould" ],
+        "url" : [ "https://twitter.com/danagould", "http://www.danagould.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Well, he is right." ],
+    "photo" : [ "https://pbs.twimg.com/media/FDd0Po-VIAskUAu.jpg" ],
+    "published" : [ "2021-11-05T23:10:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1456760819560050693" ],
+    "url" : [ "https://twitter.com/danagould/status/1456760819560050693" ]
+  },
+  "type" : [ "h-entry" ]
+}
