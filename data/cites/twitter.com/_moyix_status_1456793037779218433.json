@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brendan Dolan-Gavitt" ],
+        "nickname" : [ "moyix" ],
+        "numeric-id" : [ "15194897" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/851124181995589638/67s_2qnD.jpg" ],
+        "published" : [ "2008-06-22T04:06:26+00:00" ],
+        "uid" : [ "tag:twitter.com:moyix" ],
+        "url" : [ "https://twitter.com/moyix", "http://moyix.net", "http://keybase.io/moyix/", "https://messlab.moyix.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My static site generator is also technically open source, in the sense that the Makefile is in the same directory as all the pages so you can see it at <a href=\"https://messlab.moyix.net/Makefile\">messlab.moyix.net/Makefile</a>",
+      "value" : "My static site generator is also technically open source, in the sense that the Makefile is in the same directory as all the pages so you can see it at messlab.moyix.net/Makefile"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/moyix/status/1456789105979895811" ],
+    "published" : [ "2021-11-06T01:18:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1456793037779218433" ],
+    "url" : [ "https://twitter.com/moyix/status/1456793037779218433" ]
+  },
+  "type" : [ "h-entry" ]
+}
