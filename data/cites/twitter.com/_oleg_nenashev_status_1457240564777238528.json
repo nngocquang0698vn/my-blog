@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Online" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "DevRelCon" ],
+          "nickname" : [ "devrelcon" ],
+          "numeric-id" : [ "3058767849" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1454146808406372354/zIqxQog6.jpg" ],
+          "published" : [ "2015-02-24T12:27:35+00:00" ],
+          "uid" : [ "tag:twitter.com:devrelcon" ],
+          "url" : [ "https://twitter.com/devrelcon", "http://devrelcon.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">🦍 Let's talk culture with <a href=\"https://twitter.com/Dynatrace\">@Dynatrace</a> <a href=\"https://twitter.com/oleg_nenashev\">@oleg_nenashev</a>! He'll be sharing about Guerilla Developer Relations at <a href=\"https://twitter.com/search?q=%23DevRelCon\">#DevRelCon</a>\n\nJoin us at <a href=\"http://devrelcon.com\">devrelcon.com</a> FREE and online Nov 8-10 <a href=\"https://twitter.com/search?q=%23guerilla\">#guerilla</a> <a href=\"https://twitter.com/search?q=%23managingsideways\">#managingsideways</a> <a href=\"https://twitter.com/search?q=%23culture\">#culture</a> <a href=\"https://twitter.com/search?q=%23enterprise\">#enterprise</a></div>",
+        "value" : "🦍 Let's talk culture with @Dynatrace @oleg_nenashev! He'll be sharing about Guerilla Developer Relations at #DevRelCon\n\nJoin us at devrelcon.com FREE and online Nov 8-10 #guerilla #managingsideways #culture #enterprise"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FDjbhycWYAMqoHC.jpg" ],
+      "published" : [ "2021-11-07T01:20:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1457155856726962181" ],
+      "url" : [ "https://twitter.com/devrelcon/status/1457155856726962181" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/926898317170216960/yqu9jBFD.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Looking forward to speaking at <a href=\"https://twitter.com/devrelcon\">@devrelcon</a> on Tuesday! Guerrilla Developer relations is a hot topic inside classic enterprises. And no, this talk is not about <a href=\"https://twitter.com/Dynatrace\">@Dynatrace</a>! It has great and well executed DevRel strategy, with many teams and roles contributing🥳",
+      "value" : "Looking forward to speaking at @devrelcon on Tuesday! Guerrilla Developer relations is a hot topic inside classic enterprises. And no, this talk is not about @Dynatrace! It has great and well executed DevRel strategy, with many teams and roles contributing🥳"
+    } ],
+    "published" : [ "2021-11-07T06:56:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1457240564777238528" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1457240564777238528" ]
+  },
+  "type" : [ "h-entry" ]
+}
