@@ -16,7 +16,7 @@ In September 2020, I was asked to move into a Tech Lead role in a to-be-formed t
 
 Forming this new team during lockdown was difficult, because trying to build human connections was a little more awkward. To make it easier, Shama, my manager, and I spent a lot of time building an environment that the team would be able to thrive in.
 
-At the end of June, there was a survey done of engineering teams in Capital One, and it was found that our team had the highest Net Promoter Score (NPS)!
+At the end of June, there was a survey done of engineering teams in Capital One, and it was found that our team had one of the highest Net Promoter Scores (NPS)!
 
 As part of this, over the next quarter, the team wrote a series of blog posts and did a talk about what our "Secret Sauce" was, and I wanted to share in my own words what we did as a team to make it great. I'm sad the blog posts themselves couldn't be shared, as it was a really awesome set of posts, with each member contributing to sections, so you had the voice of the whole team, and some fun panda facts.
 
