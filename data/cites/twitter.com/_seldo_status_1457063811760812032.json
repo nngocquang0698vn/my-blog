@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rafat Sarosh" ],
+          "nickname" : [ "RafatSarosh" ],
+          "numeric-id" : [ "14375111" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1454084965377871877/oKwKg0P2.jpg" ],
+          "published" : [ "2008-04-13T14:06:20+00:00" ],
+          "uid" : [ "tag:twitter.com:RafatSarosh" ],
+          "url" : [ "https://twitter.com/RafatSarosh" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Yesterday, my son informed me that many <a href=\"https://twitter.com/search?q=%23microsoft\">#microsoft</a> dev jobs don’t ask for degree… I am happy for this change and hope others follow too..",
+        "value" : "Yesterday, my son informed me that many #microsoft dev jobs don’t ask for degree… I am happy for this change and hope others follow too.."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FDh1JJFVIAEeHGQ.jpg" ],
+      "published" : [ "2021-11-06T17:52:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1457043283763367941" ],
+      "url" : [ "https://twitter.com/RafatSarosh/status/1457043283763367941" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432101325529964545/FH-g7eA4.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's long past time for major companies to stop requiring degrees that are expensive and correlate primarily with parental wealth rather than actual ability." ],
+    "published" : [ "2021-11-06T19:14:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1457063811760812032" ],
+    "url" : [ "https://twitter.com/seldo/status/1457063811760812032" ]
+  },
+  "type" : [ "h-entry" ]
+}
