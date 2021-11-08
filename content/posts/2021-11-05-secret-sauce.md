@@ -11,6 +11,8 @@ license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "secret-sauce"
 image: https://media.jvt.me/14c50096c8.png
+syndication:
+- 'https://news.ycombinator.com/item?id=29149641'
 ---
 In September 2020, I was asked to move into a Tech Lead role in a to-be-formed team, which would be a mix of existing Capital One employees, as well as a few new folks who'd be joining over the next few months.
 
