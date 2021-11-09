@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - clever witticism here" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371166559855579150/H9FKP42z.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What's the best \"how to reduce cold starts on Lambda\" blog out there now?\n\npaging <a href=\"https://twitter.com/brianleroux\">@brianleroux</a></div>",
+      "value" : "What's the best \"how to reduce cold starts on Lambda\" blog out there now?\n\npaging @brianleroux"
+    } ],
+    "published" : [ "2021-11-09T14:07:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1458073817042067463" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1458073817042067463" ]
+  },
+  "type" : [ "h-entry" ]
+}
