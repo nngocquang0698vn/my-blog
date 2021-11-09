@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455991103895707648/f6G-XqBf.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sometimes you go from creator to maintainer to user. This is a valid path and is a healthy one." ],
+    "published" : [ "2021-11-08T20:53:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1457813664140914688" ],
+    "url" : [ "https://twitter.com/rakyll/status/1457813664140914688" ]
+  },
+  "type" : [ "h-entry" ]
+}
