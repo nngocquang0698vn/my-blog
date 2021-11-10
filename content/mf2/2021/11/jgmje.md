@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cherthedev/status/1458525559961518083" ],
     "name" : [ "Like of @cherthedev's tweet" ],
     "published" : [ "2021-11-10T21:24:00+0000" ],
     "category" : [ "recruitment" ],
