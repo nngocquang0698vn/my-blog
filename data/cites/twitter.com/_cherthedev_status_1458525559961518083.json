@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "“Cher Scarlett”" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441205948010225668/-UGk6cBd.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you try to recruit me for a junior-to-mid level engineering position, please do not claim you were impressed with my resume, as you are either a sexist twat or did not read it." ],
+    "published" : [ "2021-11-10T20:02:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1458525559961518083" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1458525559961518083" ]
+  },
+  "type" : [ "h-entry" ]
+}
