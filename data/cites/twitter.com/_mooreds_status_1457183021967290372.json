@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I enjoyed this convo with <a href=\"https://twitter.com/BrittJMartin\">@brittjmartin</a> about auth, rails, meetups and more: <a href=\"https://www.therubyonrailspodcast.com/354\">therubyonrailspodcast.com/354</a> \n\nHope you do too!</div>",
+      "value" : "I enjoyed this convo with @brittjmartin about auth, rails, meetups and more: therubyonrailspodcast.com/354 \n\nHope you do too!"
+    } ],
+    "published" : [ "2021-11-07T03:08:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1457183021967290372" ],
+    "url" : [ "https://twitter.com/mooreds/status/1457183021967290372" ]
+  },
+  "type" : [ "h-entry" ]
+}
