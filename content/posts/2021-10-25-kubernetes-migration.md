@@ -1,20 +1,17 @@
 ---
 title: "Things I Learned Migrating My Personal APIs To Kubernetes"
-description: "What I learned while migrating from a number of Java applications on\
-  \ Virtual Private Servers (VPS) to a Kubernetes cluster."
-date: "2021-10-25T14:47:26+0100"
-syndication:
-- "https://news.ycombinator.com/item?id=29185457"
+description: "What I learned while migrating from a number of Java applications on Virtual Private Servers (VPS) to a Kubernetes cluster."
 tags:
-- "kubernetes"
-- "personal-infrastructure"
-- "sysadmin"
-- "java"
-- "spring-boot"
-license_code: "Apache-2.0"
-license_prose: "CC-BY-NC-SA-4.0"
-image: "https://media.jvt.me/735ffcb6bd.png"
-slug: "kubernetes-migration"
+- kubernetes
+- personal-infrastructure
+- sysadmin
+- java
+- spring-boot
+date: 2021-10-25T14:47:26+0100
+license_prose: CC-BY-NC-SA-4.0
+license_code: Apache-2.0
+slug: kubernetes-migration
+image: https://media.jvt.me/735ffcb6bd.png
 ---
 I run a number of personal API services, such as a service for [tracking my step counts]({{< ref 2019-10-27-owning-step-count >}}), a [Micropub server]({{< ref 2019-08-26-setting-up-micropub >}}), and an [IndieAuth Server]({{< ref 2020-12-09-personal-indieauth-server >}}) which are all pretty key for my online identity.
 
@@ -94,13 +91,13 @@ The TL;DR here is that, if you're not using vendor-specific configuration for yo
 
 I started with GKE, and despite the difficulties with Ingress, was able to move over to Digital Ocean in a pretty clear path, which also gave me the chance to rearchitect the namespaces, and do a few other things like re-configure fluentd from scratch.
 
-I moved from ���15/month to ��180/month while on Google Cloud. Fortunately I was only on for a couple of months, but it was _hugely_ wasteful, and I really should've just got rid of it and not cost myself so much money, and it was a good reminder that running production quality services - which I don't _really_ need for personal projects - is very expensive.
+I moved from €15/month to £180/month while on Google Cloud. Fortunately I was only on for a couple of months, but it was _hugely_ wasteful, and I really should've just got rid of it and not cost myself so much money, and it was a good reminder that running production quality services - which I don't _really_ need for personal projects - is very expensive.
 
-On Digital Ocean, I now pay ~$40/month, which is still significant, especially compared to ���15/month, so I want to see what I can do to further reduce this cost, and make it more applicable.
+On Digital Ocean, I now pay ~$40/month, which is still significant, especially compared to €15/month, so I want to see what I can do to further reduce this cost, and make it more applicable.
 
 # Running other apps on the platform
 
-Although I was only doing the migration for Java apps, I'd found that I could replace a third Hezner VPS (���5/mo). This VPS was functioning as a self-hosted GitLab CI runner that was used to speed up deployments of my site and was purely its own VPS to simplify the management of resources compared to those Java apps.
+Although I was only doing the migration for Java apps, I'd found that I could replace a third Hezner VPS (€5/mo). This VPS was functioning as a self-hosted GitLab CI runner that was used to speed up deployments of my site and was purely its own VPS to simplify the management of resources compared to those Java apps.
 
 Because I now had a handy platform, with some spare compute, and the ease of autoscaling, I've set up a GitLab CI runner on Kubernetes, which was nice and straightforward!
 
