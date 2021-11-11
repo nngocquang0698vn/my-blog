@@ -12,6 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: kubernetes-migration
 image: https://media.jvt.me/735ffcb6bd.png
+syndication:
+- https://news.ycombinator.com/item?id=29185457
 ---
 I run a number of personal API services, such as a service for [tracking my step counts]({{< ref 2019-10-27-owning-step-count >}}), a [Micropub server]({{< ref 2019-08-26-setting-up-micropub >}}), and an [IndieAuth Server]({{< ref 2020-12-09-personal-indieauth-server >}}) which are all pretty key for my online identity.
 
