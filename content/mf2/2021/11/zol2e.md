@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MoiraDonegan/status/1458839059191771147" ],
     "name" : [ "Like of @MoiraDonegan's tweet" ],
     "published" : [ "2021-11-11T21:36:00+0000" ],
     "like-of" : [ "https://twitter.com/MoiraDonegan/status/1458839059191771147" ],
