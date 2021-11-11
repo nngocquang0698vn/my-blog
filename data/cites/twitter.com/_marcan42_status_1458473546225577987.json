@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tokyo, Japan" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hector Martin" ],
+        "nickname" : [ "marcan42" ],
+        "numeric-id" : [ "39394680" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/642190731122114560/oXAYC93Z.png" ],
+        "published" : [ "2009-05-12T01:08:42+00:00" ],
+        "uid" : [ "tag:twitter.com:marcan42" ],
+        "url" : [ "https://twitter.com/marcan42", "https://marcan.st", "http://patreon.com/marcan", "http://github.com/sponsors/marcan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Say hi to an M1 Pro 14\" MacBook Pro running KDE Plasma 5 on Arch Linux ARM! Notch compatible!\n\nI made NVMe work today and decided it's time to properly install a distro ;)</div>",
+      "value" : "Say hi to an M1 Pro 14\" MacBook Pro running KDE Plasma 5 on Arch Linux ARM! Notch compatible!\n\nI made NVMe work today and decided it's time to properly install a distro ;)"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FD2JS6zaUAAozND.jpg" ],
+    "published" : [ "2021-11-10T16:36:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1458473546225577987" ],
+    "url" : [ "https://twitter.com/marcan42/status/1458473546225577987" ]
+  },
+  "type" : [ "h-entry" ]
+}
