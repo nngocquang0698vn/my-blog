@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com", "https://www.compilersforhumans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The \"foolish\" question you ask is almost certainly a question someone else in the room was afraid to ask.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TatianaTMac\"></a>",
+      "value" : "The \"foolish\" question you ask is almost certainly a question someone else in the room was afraid to ask."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TatianaTMac/status/1458834254457032708" ],
+    "published" : [ "2021-11-11T16:30:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1458834454106066949" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1458834454106066949" ]
+  },
+  "type" : [ "h-entry" ]
+}
