@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Seth Vargo" ],
+        "nickname" : [ "sethvargo" ],
+        "numeric-id" : [ "262914828" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808025120296013825/frGuc14s.jpg" ],
+        "published" : [ "2011-03-09T00:54:05+00:00" ],
+        "uid" : [ "tag:twitter.com:sethvargo" ],
+        "url" : [ "https://twitter.com/sethvargo", "https://www.sethvargo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I always stop reading at \"Installing your own private instance in Arch Linux is as easy as...\"" ],
+    "published" : [ "2021-11-12T14:21:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1459164552839499778" ],
+    "url" : [ "https://twitter.com/sethvargo/status/1459164552839499778" ]
+  },
+  "type" : [ "h-entry" ]
+}
