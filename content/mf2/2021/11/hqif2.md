@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MasteringVim/status/1459163233852526596" ],
     "name" : [ "Like of @MasteringVim's tweet" ],
     "published" : [ "2021-11-12T14:30:00+0000" ],
     "category" : [ "vim", "memes" ],
