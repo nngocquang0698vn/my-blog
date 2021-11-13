@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/jenmsft/status…" ],
+        "url" : [ "https://twitter.com/jenmsft/status/1458765859904581635" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Cyber, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SwiftOnSecurity (Taylor's Version)" ],
+          "nickname" : [ "SwiftOnSecurity" ],
+          "numeric-id" : [ "2436389418" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1453474211914203141/_nDE6cbR.jpg" ],
+          "published" : [ "2014-04-10T02:54:26+00:00" ],
+          "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+          "url" : [ "https://twitter.com/SwiftOnSecurity", "https://decentsecurity.com", "http://DecentSecurity.com", "http://UniversalShards.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Something hard to learn when suddenly a public profile: You often exist as an entirely fictional character in people's mental storyworlds, with no inputs except escaping from themselves, and no outputs except anger at their phantoms superimposed on pictures of actual people.\n<a class=\"tag\" href=\"https://twitter.com/jenmsft/status/1458765859904581635\">twitter.com/jenmsft/status…</a>",
+        "value" : "Something hard to learn when suddenly a public profile: You often exist as an entirely fictional character in people's mental storyworlds, with no inputs except escaping from themselves, and no outputs except anger at their phantoms superimposed on pictures of actual people."
+      } ],
+      "published" : [ "2021-11-11T19:21:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1458877553482022912" ],
+      "url" : [ "https://twitter.com/SwiftOnSecurity/status/1458877553482022912" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh wow, I was just talking about this in therapy." ],
+    "published" : [ "2021-11-12T20:27:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1459256669464977410" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1459256669464977410" ]
+  },
+  "type" : [ "h-entry" ]
+}
