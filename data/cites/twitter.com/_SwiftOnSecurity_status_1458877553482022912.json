@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jen Gentleman 🌺" ],
+          "nickname" : [ "JenMsft" ],
+          "numeric-id" : [ "3309105596" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1152088451161845761/9kyCQCs1.jpg" ],
+          "published" : [ "2015-08-07T22:21:33+00:00" ],
+          "uid" : [ "tag:twitter.com:JenMsft" ],
+          "url" : [ "https://twitter.com/JenMsft", "https://www.linkedin.com/in/jennifer-gentleman-9a2ba29b" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I have no idea what I did to provoke this comment, but I'm fairly certain if someone looked at what I was doing with my time they'd say I spend way too many hours working" ],
+      "photo" : [ {
+        "alt" : "Someone tweeting to me implying I'm leeching off of Microsoft (also saying I should smile in my profile picture)",
+        "value" : "https://pbs.twimg.com/media/FD6TTeNVUAM8SaW.jpg"
+      } ],
+      "published" : [ "2021-11-11T11:57:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1458765859904581635" ],
+      "url" : [ "https://twitter.com/JenMsft/status/1458765859904581635" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/jenmsft/status…" ],
+      "url" : [ "https://twitter.com/jenmsft/status/1458765859904581635" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyber, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SwiftOnSecurity (Taylor's Version)" ],
+        "nickname" : [ "SwiftOnSecurity" ],
+        "numeric-id" : [ "2436389418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1453474211914203141/_nDE6cbR.jpg" ],
+        "published" : [ "2014-04-10T02:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SwiftOnSecurity" ],
+        "url" : [ "https://twitter.com/SwiftOnSecurity", "https://decentsecurity.com", "http://DecentSecurity.com", "http://UniversalShards.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Something hard to learn when suddenly a public profile: You often exist as an entirely fictional character in people's mental storyworlds, with no inputs except escaping from themselves, and no outputs except anger at their phantoms superimposed on pictures of actual people.\n<a class=\"tag\" href=\"https://twitter.com/jenmsft/status/1458765859904581635\">twitter.com/jenmsft/status…</a>",
+      "value" : "Something hard to learn when suddenly a public profile: You often exist as an entirely fictional character in people's mental storyworlds, with no inputs except escaping from themselves, and no outputs except anger at their phantoms superimposed on pictures of actual people."
+    } ],
+    "published" : [ "2021-11-11T19:21:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1458877553482022912" ],
+    "url" : [ "https://twitter.com/SwiftOnSecurity/status/1458877553482022912" ]
+  },
+  "type" : [ "h-entry" ]
+}
