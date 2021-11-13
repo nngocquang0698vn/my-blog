@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jen Gentleman 🌺" ],
+        "nickname" : [ "JenMsft" ],
+        "numeric-id" : [ "3309105596" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1152088451161845761/9kyCQCs1.jpg" ],
+        "published" : [ "2015-08-07T22:21:33+00:00" ],
+        "uid" : [ "tag:twitter.com:JenMsft" ],
+        "url" : [ "https://twitter.com/JenMsft", "https://www.linkedin.com/in/jennifer-gentleman-9a2ba29b" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I have no idea what I did to provoke this comment, but I'm fairly certain if someone looked at what I was doing with my time they'd say I spend way too many hours working" ],
+    "photo" : [ {
+      "alt" : "Someone tweeting to me implying I'm leeching off of Microsoft (also saying I should smile in my profile picture)",
+      "value" : "https://pbs.twimg.com/media/FD6TTeNVUAM8SaW.jpg"
+    } ],
+    "published" : [ "2021-11-11T11:57:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1458765859904581635" ],
+    "url" : [ "https://twitter.com/JenMsft/status/1458765859904581635" ]
+  },
+  "type" : [ "h-entry" ]
+}
