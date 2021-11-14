@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "arclight" ],
+          "nickname" : [ "arclight" ],
+          "numeric-id" : [ "12986172" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/56093992/wage48.jpg" ],
+          "published" : [ "2008-02-02T18:15:13+00:00" ],
+          "uid" : [ "tag:twitter.com:arclight" ],
+          "url" : [ "https://twitter.com/arclight", "http://www.acorvid.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I'm reminded of Clifford Stoll's \"The Cuckoo's Egg\" where he detected severe security vulnerabilities based on a monthly $0.25 accounting discrepancy that had no good explanation. Systems weren't falling over, nothing was tripping an alert but the system was subtly off-normal\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mipsytipsy\"></a>",
+        "value" : "I'm reminded of Clifford Stoll's \"The Cuckoo's Egg\" where he detected severe security vulnerabilities based on a monthly $0.25 accounting discrepancy that had no good explanation. Systems weren't falling over, nothing was tripping an alert but the system was subtly off-normal"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/mipsytipsy/status/1454011276867166211" ],
+      "published" : [ "2021-10-29T09:12:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1454013188366798849" ],
+      "url" : [ "https://twitter.com/arclight/status/1454013188366798849" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charity Majors" ],
+        "nickname" : [ "mipsytipsy" ],
+        "numeric-id" : [ "90488576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437191689236480000/3ZD1k3lx.jpg" ],
+        "published" : [ "2009-11-16T21:28:13+00:00" ],
+        "uid" : [ "tag:twitter.com:mipsytipsy" ],
+        "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "it's a bit counterintuitive, but the better-instrumented and the more mature your systems are, the fewer problems you'll find with automated alerting and the more you'll have to find by sifting around in production by hand." ],
+    "published" : [ "2021-11-09T22:13:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1458195978637373445" ],
+    "url" : [ "https://twitter.com/mipsytipsy/status/1458195978637373445" ]
+  },
+  "type" : [ "h-entry" ]
+}
