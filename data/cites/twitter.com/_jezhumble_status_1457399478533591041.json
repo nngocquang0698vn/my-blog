@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Unceded Lisjan Ohlone Land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jez Humble" ],
+        "nickname" : [ "jezhumble" ],
+        "numeric-id" : [ "15685575" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1452117403588907014/DzV_uxaB.jpg" ],
+        "published" : [ "2008-08-01T04:34:37+00:00" ],
+        "uid" : [ "tag:twitter.com:jezhumble" ],
+        "url" : [ "https://twitter.com/jezhumble", "https://continuousdelivery.com", "http://keybase.io/jezhumble" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The thing that I found most valuable - and most generally underrated - from learning TDD 5 years into my career is the art of developing by making lots of small, targeted commits that each deliver an increment but leave the codebase deployable. Multiple commits per day." ],
+    "published" : [ "2021-11-07T17:28:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1457399478533591041" ],
+    "url" : [ "https://twitter.com/jezhumble/status/1457399478533591041" ]
+  },
+  "type" : [ "h-entry" ]
+}
