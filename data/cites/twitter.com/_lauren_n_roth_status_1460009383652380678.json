@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Lily Clark (lilc)" ],
+          "nickname" : [ "seclilc" ],
+          "numeric-id" : [ "1338286946347520000" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1438308379911462912/LhSATqHE.jpg" ],
+          "published" : [ "2020-12-14T00:58:24+00:00" ],
+          "uid" : [ "tag:twitter.com:seclilc" ],
+          "url" : [ "https://twitter.com/seclilc" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Can we stop pretending like it’s difficult to exit Vim?" ],
+      "published" : [ "2021-11-14T18:22:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1459949783460765699" ],
+      "url" : [ "https://twitter.com/seclilc/status/1459949783460765699" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lauren N. Roth" ],
+        "nickname" : [ "lauren_n_roth" ],
+        "numeric-id" : [ "2886511835" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458045951382335497/kPmZMzk4.jpg" ],
+        "published" : [ "2014-11-21T04:28:07+00:00" ],
+        "uid" : [ "tag:twitter.com:lauren_n_roth" ],
+        "url" : [ "https://twitter.com/lauren_n_roth" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Really the dumbest trope. Exiting vim is easy." ],
+    "published" : [ "2021-11-14T22:18:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1460009383652380678" ],
+    "url" : [ "https://twitter.com/lauren_n_roth/status/1460009383652380678" ]
+  },
+  "type" : [ "h-entry" ]
+}
