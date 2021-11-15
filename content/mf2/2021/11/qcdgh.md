@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fi_lor/status/1459442978037145601" ],
     "name" : [ "Like of @fi_lor's tweet" ],
     "published" : [ "2021-11-15T13:18:00+0000" ],
     "category" : [ "art" ],
