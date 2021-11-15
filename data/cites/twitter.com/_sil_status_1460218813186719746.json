@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Birmingham, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Stuart Langridge" ],
+          "nickname" : [ "sil" ],
+          "numeric-id" : [ "1389781" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+          "published" : [ "2007-03-18T01:52:55+00:00" ],
+          "uid" : [ "tag:twitter.com:sil" ],
+          "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I made a little app: it sits in your notification area and strips all that utm_stuff=blah&amp;utm_banner=ohno tracking link stuff off of links on your clipboard, so when you paste the link to your mates to share it, all that stuff  is gone. Simple but useful!\n<a href=\"https://www.kryogenix.org/code/utm_no/\">kryogenix.org/code/utm_no/</a></div>",
+        "value" : "I made a little app: it sits in your notification area and strips all that utm_stuff=blah&utm_banner=ohno tracking link stuff off of links on your clipboard, so when you paste the link to your mates to share it, all that stuff  is gone. Simple but useful!\nkryogenix.org/code/utm_no/"
+      } ],
+      "photo" : [ {
+        "alt" : "utm_no. Remove tracking parameters from copied URLs. For Ubuntu and other Linux OSes. kryogenix.org/code/utm_no",
+        "value" : "https://pbs.twimg.com/media/FEGNgPcXMAU2U6a.jpg"
+      } ],
+      "published" : [ "2021-11-13T19:25:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1459603374756839428" ],
+      "url" : [ "https://twitter.com/sil/status/1459603374756839428" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My app utm_no removes utm_whatever=blah tracking params from copied links. It COULD turn <a href=\"https://t.co\">t.co</a> links copied from twitter into real links, removing twitter tracking, but it must hit Twitter for that: a privacy problem. Would you want that?\n</div>",
+      "value" : "My app utm_no removes utm_whatever=blah tracking params from copied links. It COULD turn t.co links copied from twitter into real links, removing twitter tracking, but it must hit Twitter for that: a privacy problem. Would you want that?\n"
+    } ],
+    "published" : [ "2021-11-15T12:11:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1460218813186719746" ],
+    "url" : [ "https://twitter.com/sil/status/1460218813186719746" ]
+  },
+  "type" : [ "h-entry" ]
+}
