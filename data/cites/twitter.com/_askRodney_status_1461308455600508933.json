@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Visit me here 👉🏽" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rodney" ],
+        "nickname" : [ "askRodney" ],
+        "numeric-id" : [ "1323579817258831875" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407631706723586054/OVvV8Rux.jpg" ],
+        "published" : [ "2020-11-03T10:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:askRodney" ],
+        "url" : [ "https://twitter.com/askRodney", "https://rodneylab.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">✨ nice short post from <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> on moving an existing git repo to a monorepo...\n\n<a href=\"https://www.jvt.me/posts/2018/06/01/git-subtree-monorepo/\">jvt.me/posts/2018/06/…</a></div>",
+      "value" : "✨ nice short post from @JamieTanna on moving an existing git repo to a monorepo...\n\njvt.me/posts/2018/06/…"
+    } ],
+    "published" : [ "2021-11-18T12:21:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1461308455600508933" ],
+    "url" : [ "https://twitter.com/askRodney/status/1461308455600508933" ]
+  },
+  "type" : [ "h-entry" ]
+}
