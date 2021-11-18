@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "A CTA platform." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mose" ],
+        "nickname" : [ "mmosbey" ],
+        "numeric-id" : [ "17054095" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402692189507960837/6DVRSGRb.jpg" ],
+        "published" : [ "2008-10-29T22:38:39+00:00" ],
+        "uid" : [ "tag:twitter.com:mmosbey" ],
+        "url" : [ "https://twitter.com/mmosbey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "HTTP_PROXY and http_proxy (and https equiv) are different environment variables, and some processes respect one, but not the other. That took me too long to discover.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SwiftOnSecurity\"></a>",
+      "value" : "HTTP_PROXY and http_proxy (and https equiv) are different environment variables, and some processes respect one, but not the other. That took me too long to discover."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SwiftOnSecurity/status/1374466709961150465" ],
+    "published" : [ "2021-03-24T00:46:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1374522966726242312" ],
+    "url" : [ "https://twitter.com/mmosbey/status/1374522966726242312" ]
+  },
+  "type" : [ "h-entry" ]
+}
