@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Hupe" ],
+        "nickname" : [ "Amy_Hupe" ],
+        "numeric-id" : [ "823335972" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443649530050879488/yQQUpRti.jpg" ],
+        "published" : [ "2012-09-14T13:54:47+00:00" ],
+        "uid" : [ "tag:twitter.com:Amy_Hupe" ],
+        "url" : [ "https://twitter.com/Amy_Hupe", "https://www.amyhupe.co.uk", "http://gov.uk/design-system" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“Being agile” doesn’t mean forcing product teams to knowingly ship shite so you can generate your very own data to prove it’s shite before working in needless increments towards making it less shite." ],
+    "published" : [ "2021-11-17T23:16:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1461110969900412936" ],
+    "url" : [ "https://twitter.com/Amy_Hupe/status/1461110969900412936" ]
+  },
+  "type" : [ "h-entry" ]
+}
