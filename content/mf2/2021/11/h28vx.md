@@ -5,10 +5,10 @@
   "h" : "h-entry",
   "properties" : {
     "syndication" : [ "https://brid.gy/publish/github" ],
-    "name" : [ "firefox-patches/dont_reserve_keys.patch at master · glacambre/firefox-patches" ],
+    "name" : [ "glacambre/firefox-patches |  Patches that I apply to firefox." ],
     "published" : [ "2021-11-18T11:43:29.120520653Z" ],
     "category" : [ "firefox" ],
-    "like-of" : [ "https://github.com/glacambre/firefox-patches/blob/master/dont_reserve_keys.patch" ]
+    "like-of" : [ "https://github.com/glacambre/firefox-patches" ]
   },
   "kind" : "likes",
   "slug" : "2021/11/h28vx",
