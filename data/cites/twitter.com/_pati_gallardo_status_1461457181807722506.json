@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Cher Scarlett 💙" ],
+          "nickname" : [ "cherthedev" ],
+          "numeric-id" : [ "15790639" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1441205948010225668/-UGk6cBd.jpg" ],
+          "published" : [ "2008-08-09T17:27:02+00:00" ],
+          "uid" : [ "tag:twitter.com:cherthedev" ],
+          "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Hi! 👋\n\nLots of recruiter emails &amp; questions.\n\nTruthfully, I've been considering this decision for several weeks, and decided to use this opportunity to apply at &gt;50&lt; different organizations. Why? So I could see what the process is like for people these days.\n\nI've learned a lot.</div>",
+        "value" : "Hi! 👋\n\nLots of recruiter emails & questions.\n\nTruthfully, I've been considering this decision for several weeks, and decided to use this opportunity to apply at >50< different organizations. Why? So I could see what the process is like for people these days.\n\nI've learned a lot."
+      } ],
+      "published" : [ "2021-11-18T19:14:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1461412624071987200" ],
+      "url" : [ "https://twitter.com/cherthedev/status/1461412624071987200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oslo, Norge" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patricia Aas 🐢" ],
+        "nickname" : [ "pati_gallardo" ],
+        "numeric-id" : [ "400882913" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163131847578148864/9tYy8vML.jpg" ],
+        "published" : [ "2011-10-29T18:28:15+00:00" ],
+        "uid" : [ "tag:twitter.com:pati_gallardo" ],
+        "url" : [ "https://twitter.com/pati_gallardo", "https://patricia.no/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Thread on current state of tech recruiting seen from the perspective of an experienced dev 🤓" ],
+    "published" : [ "2021-11-18T22:11:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1461457181807722506" ],
+    "url" : [ "https://twitter.com/pati_gallardo/status/1461457181807722506" ]
+  },
+  "type" : [ "h-entry" ]
+}
