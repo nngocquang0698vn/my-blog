@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Taggart" ],
+        "nickname" : [ "qkate" ],
+        "numeric-id" : [ "37586090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1035671141598285824/48WwuXyb.jpg" ],
+        "published" : [ "2009-05-04T03:38:47+00:00" ],
+        "uid" : [ "tag:twitter.com:qkate" ],
+        "url" : [ "https://twitter.com/qkate", "http://www.katetaggart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">me: I know, I'll put this terrible day behind me by relaxing with some healthy escapism--reading some news in a language I'm working on improving\n\nfrench news: Is the 5th covid wave going to fuck up Christmas?\n\nme:</div>",
+      "value" : "me: I know, I'll put this terrible day behind me by relaxing with some healthy escapism--reading some news in a language I'm working on improving\n\nfrench news: Is the 5th covid wave going to fuck up Christmas?\n\nme:"
+    } ],
+    "published" : [ "2021-11-18T06:48:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1461224719298924545" ],
+    "url" : [ "https://twitter.com/qkate/status/1461224719298924545" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FEdQIomVUAAI9KL.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
