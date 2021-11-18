@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Melissa McEwen" ],
+          "nickname" : [ "melissamcewen" ],
+          "numeric-id" : [ "42462248" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1377066453204152321/OXU3gdJc.jpg" ],
+          "published" : [ "2009-05-25T18:50:57+00:00" ],
+          "uid" : [ "tag:twitter.com:melissamcewen" ],
+          "url" : [ "https://twitter.com/melissamcewen", "https://ko-fi.com/melissamcewen" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The thread notifications in an unpaid Slack where the responses are behind the paywall and you can never clear it\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/annaecook\"></a>",
+        "value" : "The thread notifications in an unpaid Slack where the responses are behind the paywall and you can never clear it"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/annaecook/status/1461437708912390147" ],
+      "published" : [ "2021-11-18T21:09:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1461441472927092741" ],
+      "url" : [ "https://twitter.com/melissamcewen/status/1461441472927092741" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Melissa McEwen" ],
+        "nickname" : [ "melissamcewen" ],
+        "numeric-id" : [ "42462248" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377066453204152321/OXU3gdJc.jpg" ],
+        "published" : [ "2009-05-25T18:50:57+00:00" ],
+        "uid" : [ "tag:twitter.com:melissamcewen" ],
+        "url" : [ "https://twitter.com/melissamcewen", "https://ko-fi.com/melissamcewen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is one of my pet peeves. I understand Slack doesn't really want free Slacks to exist, but having them be so bad harms the brand in general. Like I associate Slack with screwing over communities." ],
+    "published" : [ "2021-11-18T22:21:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1461459560418447363" ],
+    "url" : [ "https://twitter.com/melissamcewen/status/1461459560418447363" ]
+  },
+  "type" : [ "h-entry" ]
+}
