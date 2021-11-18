@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anil Dash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anil.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We've let the web shrink down to one puny \"link in bio\" on your social media profile, with services trying to charge you money for *links*! So we're fixing that at <a href=\"https://twitter.com/glitch\">@Glitch</a>, with the new FREE Glitch In Bio — a links page that does anything the web can do. <a href=\"https://glitch.com/glitch-in-bio\">glitch.com/glitch-in-bio</a>",
+      "value" : "We've let the web shrink down to one puny \"link in bio\" on your social media profile, with services trying to charge you money for *links*! So we're fixing that at @Glitch, with the new FREE Glitch In Bio — a links page that does anything the web can do. glitch.com/glitch-in-bio"
+    } ],
+    "published" : [ "2021-11-16T19:45:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1460695608906469381" ],
+    "url" : [ "https://twitter.com/anildash/status/1460695608906469381" ]
+  },
+  "type" : [ "h-entry" ]
+}
