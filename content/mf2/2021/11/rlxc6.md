@@ -13,7 +13,7 @@
       "photo" : "https://media.jvt.me/4320350acc.jpeg"
     }, {
       "alt" : "The Purple Pandas team logo, a panda lying on in a puddle of purple paint that it has knocked over",
-      "photo" : "https://media.jvt.me/c0ee673ec6.png"
+      "photo" : "https://media.jvt.me/14c50096c8.png"
     } ],
     "published" : [ "2021-11-19T13:44:00+0000" ],
     "category" : [ "capital-one" ],
