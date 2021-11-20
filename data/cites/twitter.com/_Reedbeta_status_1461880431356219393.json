@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA   he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nathan Reed" ],
+        "nickname" : [ "Reedbeta" ],
+        "numeric-id" : [ "499452644" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1086478042849959937/QOUZqfeP.jpg" ],
+        "published" : [ "2012-02-22T04:12:31+00:00" ],
+        "uid" : [ "tag:twitter.com:Reedbeta" ],
+        "url" : [ "https://twitter.com/Reedbeta", "https://www.reedbeta.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "NVIDIA I don't need to verify my account or set up 2-factor authentication in order to install drivers" ],
+    "published" : [ "2021-11-20T02:13:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1461880431356219393" ],
+    "url" : [ "https://twitter.com/Reedbeta/status/1461880431356219393" ]
+  },
+  "type" : [ "h-entry" ]
+}
