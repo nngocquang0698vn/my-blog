@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eric Vicenti" ],
+        "nickname" : [ "EricVicenti" ],
+        "numeric-id" : [ "594746113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455213022754922497/BJqqGdED.jpg" ],
+        "published" : [ "2012-05-30T17:02:51+00:00" ],
+        "uid" : [ "tag:twitter.com:EricVicenti" ],
+        "url" : [ "https://twitter.com/EricVicenti" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "arquee is a least the coolest tag. M\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ericlewis\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/seldo\"></a>",
+      "value" : "arquee is a least the coolest tag. M"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ericlewis/status/1461923230739050501" ],
+    "published" : [ "2021-11-20T05:06:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1461923892050628610" ],
+    "url" : [ "https://twitter.com/EricVicenti/status/1461923892050628610" ]
+  },
+  "type" : [ "h-entry" ]
+}
