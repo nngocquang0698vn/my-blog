@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "who did this" ],
+    "photo" : [ {
+      "alt" : "\"Friday November 19th. International Men's Day 2021\"",
+      "value" : "https://pbs.twimg.com/media/FEl6hlYVQAERijy.png"
+    }, {
+      "alt" : "Friday, November 19th. World Toilet Day 2021\"",
+      "value" : "https://pbs.twimg.com/media/FEl6cTCUcAQlVRj.png"
+    } ],
+    "published" : [ "2021-11-19T23:10:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1461834278585573382" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1461834278585573382" ]
+  },
+  "type" : [ "h-entry" ]
+}
