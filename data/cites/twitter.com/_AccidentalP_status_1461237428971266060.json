@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North Norfolk" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Accidental Partridge" ],
+        "nickname" : [ "AccidentalP" ],
+        "numeric-id" : [ "1201051748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1309494805328801797/liVWxuUg.jpg" ],
+        "published" : [ "2013-02-20T13:32:25+00:00" ],
+        "uid" : [ "tag:twitter.com:AccidentalP" ],
+        "url" : [ "https://twitter.com/AccidentalP", "https://accidentalpartridge.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/search?q=%23AccidentalPartridge\">#AccidentalPartridge</a> ",
+      "value" : "#AccidentalPartridge "
+    } ],
+    "published" : [ "2021-11-18T07:38:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1461237428971266060" ],
+    "url" : [ "https://twitter.com/AccidentalP/status/1461237428971266060" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1461046535937044480/pu/vid/1024x576/07fw0CXJk6LX9X2b.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
