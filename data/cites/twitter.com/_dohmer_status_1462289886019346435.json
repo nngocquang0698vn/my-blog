@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnson" ],
+        "nickname" : [ "dohmer" ],
+        "numeric-id" : [ "6055852" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336761319584718848/8AJWQjax.jpg" ],
+        "published" : [ "2007-05-15T07:53:55+00:00" ],
+        "uid" : [ "tag:twitter.com:dohmer" ],
+        "url" : [ "https://twitter.com/dohmer", "https://lazytest.io", "http://github.com/pj/hacn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Does anyone do org level chaos engineering - force people to take random paid time off to see what breaks?" ],
+    "published" : [ "2021-11-21T05:20:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1462289886019346435" ],
+    "url" : [ "https://twitter.com/dohmer/status/1462289886019346435" ]
+  },
+  "type" : [ "h-entry" ]
+}
