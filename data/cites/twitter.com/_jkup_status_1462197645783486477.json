@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Jon Kuperman" ],
+        "nickname" : [ "jkup" ],
+        "numeric-id" : [ "255634108" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1362092171638108160/WE1gtiZ3.jpg" ],
+        "published" : [ "2011-02-21T19:23:51+00:00" ],
+        "uid" : [ "tag:twitter.com:jkup" ],
+        "url" : [ "https://twitter.com/jkup", "https://jonkuperman.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "GraphQL APIs are not an excuse to write zero documentation." ],
+    "published" : [ "2021-11-20T23:14:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1462197645783486477" ],
+    "url" : [ "https://twitter.com/jkup/status/1462197645783486477" ]
+  },
+  "type" : [ "h-entry" ]
+}
