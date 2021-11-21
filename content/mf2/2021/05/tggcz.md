@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Structured Logging with Structured Arguments ��� INNOQ" ],
+    "name" : [ "Structured Logging with Structured Arguments - INNOQ" ],
     "published" : [ "2021-05-16T13:04:02.739Z" ],
     "category" : [ "logs", "java" ],
     "bookmark-of" : [ "https://www.innoq.com/en/blog/structured-logging/" ]
