@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rural Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Humphrey" ],
+        "nickname" : [ "humphd" ],
+        "numeric-id" : [ "40587957" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/949719100472750080/yqBY6sKJ.jpg" ],
+        "published" : [ "2009-05-17T02:07:28+00:00" ],
+        "uid" : [ "tag:twitter.com:humphd" ],
+        "url" : [ "https://twitter.com/humphd", "http://blog.humphd.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've been watching <a href=\"https://hurl.dev/\">hurl.dev</a> and now (v1.4.0) I'm finding it really easy to write tests:\n\n-\nGET http://localhost:8080/health\n\nHTTP/1.1 200\nCache-Control: no-cache\n[Asserts]\njsonpath \"$.status\" == \"ok\"\n-\n\n$ hurl --test test/*\n\nIt runs my tests SO FAST it's ridiculous</div>",
+      "value" : "I've been watching hurl.dev and now (v1.4.0) I'm finding it really easy to write tests:\n\n-\nGET http://localhost:8080/health\n\nHTTP/1.1 200\nCache-Control: no-cache\n[Asserts]\njsonpath \"$.status\" == \"ok\"\n-\n\n$ hurl --test test/*\n\nIt runs my tests SO FAST it's ridiculous"
+    } ],
+    "published" : [ "2021-11-22T01:30:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1462594205629493254" ],
+    "url" : [ "https://twitter.com/humphd/status/1462594205629493254" ]
+  },
+  "type" : [ "h-entry" ]
+}
