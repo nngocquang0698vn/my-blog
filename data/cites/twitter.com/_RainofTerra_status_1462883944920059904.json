@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terra Field" ],
+        "nickname" : [ "RainofTerra" ],
+        "numeric-id" : [ "10189332" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1388141915632140288/N0s7m6tZ.jpg" ],
+        "published" : [ "2007-11-12T18:35:13+00:00" ],
+        "uid" : [ "tag:twitter.com:RainofTerra" ],
+        "url" : [ "https://twitter.com/RainofTerra", "https://terrafield.me", "http://pronoun.is/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I agree, you should have moved right along instead of writing this dumb tweet 🙂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Scarecrow339\"></a>",
+      "value" : "I agree, you should have moved right along instead of writing this dumb tweet 🙂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Scarecrow339/status/1462883133012037645" ],
+    "published" : [ "2021-11-22T20:41:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1462883944920059904" ],
+    "url" : [ "https://twitter.com/RainofTerra/status/1462883944920059904" ]
+  },
+  "type" : [ "h-entry" ]
+}
