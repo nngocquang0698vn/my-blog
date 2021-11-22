@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marcdel/status/1462835594367619073" ],
     "name" : [ "Like of @marcdel's tweet" ],
     "published" : [ "2021-11-22T18:19:00+0000" ],
     "category" : [ "jira" ],
