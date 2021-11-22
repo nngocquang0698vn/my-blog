@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Behind You" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew McGrae" ],
+        "nickname" : [ "TGNProfessor" ],
+        "numeric-id" : [ "599407086" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455321737332146177/E3QYesRo.jpg" ],
+        "published" : [ "2012-06-04T15:23:12+00:00" ],
+        "uid" : [ "tag:twitter.com:TGNProfessor" ],
+        "url" : [ "https://twitter.com/TGNProfessor", "https://www.twitter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It's rail transport, not rail cisport.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BaldyJallet\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LaurakBuzz\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ScotRail\"></a>",
+      "value" : "It's rail transport, not rail cisport."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ScotRail/status/1461998089011662848" ],
+    "published" : [ "2021-11-22T11:35:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1462746457803472902" ],
+    "url" : [ "https://twitter.com/TGNProfessor/status/1462746457803472902" ]
+  },
+  "type" : [ "h-entry" ]
+}
