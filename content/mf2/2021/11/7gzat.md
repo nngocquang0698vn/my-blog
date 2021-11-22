@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/susie_dent/status/1462732731004198913" ],
     "name" : [ "Like of @susie_dent's tweet" ],
     "published" : [ "2021-11-22T14:31:00+0000" ],
     "category" : [ "mental-health" ],
