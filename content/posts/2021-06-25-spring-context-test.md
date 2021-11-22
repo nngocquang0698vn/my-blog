@@ -74,9 +74,26 @@ class ApplicationIntegrationTest {
     assertThat(context).isNotNull();
   }
 }
-
 ```
 
 This ensures that we've got the context, and it's been set up successfully. In the cases above where we omit the `@SpringBootTest`, this test will fail!
 
 (Using JUnit5, the `ApplicationContext` is injected automagically, but we could replace this with an `@Autowired` field, too.)
+
+We can also validate that specific beans are instantiated, for instance checking that there's a bean for class `IndieAuthController`:
+
+```java
+@Test
+void hasIndieAuthControllerConfigured(ApplicationContext context) {
+  assertThat(context.getBean(AccessTokenVerifier.class)).isNotNull();
+}
+```
+
+Or for a specific bean's name (i.e via `@Qualifier`):
+
+```java
+@Test
+void hasIndieAuthControllerConfigured(ApplicationContext context) {
+  assertThat(context.getBean("accessTokenVerifier")).isNotNull();
+}
+```
