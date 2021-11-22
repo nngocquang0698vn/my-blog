@@ -26,6 +26,8 @@ A benefit of this pattern, as well, is that it can make [component or system tes
 
 You may come up with clients who don't want to perform the work to start sending this header, such as a client we had that was sending it, but it was static and they didn't have the time to prioritise to resolve it. When I explained that each issue that was related to their integration would take _at least_ 2-3 times longer to resolve (and be very costly to everyone involved) - if we even could track things down - they realised that actually they should really be amending their configuration.
 
+Something I've not done before, but have seen others recommend is to make sure that this ID is also returned in HTTP response headers, so it's clear to a consumer of the service, as well as an operator looking through logs.
+
 # Example using Spring Boot
 
 As an example, let's see what this would look like for a Spring filter:
