@@ -165,7 +165,7 @@ class TokenGrantDtoTest {
 
       @Test
       void accessTokenIsMapped() {
-        assertThat(asJson).hasJsonPathStringValue("access_token", "j.w.t");
+        assertThat(asJson).extractingJsonPathStringValue("access_token").isEqualTo("j.w.t");
       }
 
       @Test
