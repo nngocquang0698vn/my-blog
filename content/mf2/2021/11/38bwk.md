@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ewarren/status/1463159545656758281" ],
     "name" : [ "Like of @ewarren's tweet" ],
     "published" : [ "2021-11-23T22:19:00+0000" ],
     "category" : [ "politics", "diversity-and-inclusion" ],
