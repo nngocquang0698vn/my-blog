@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "GDS" ],
+        "nickname" : [ "GDSTeam" ],
+        "numeric-id" : [ "268349503" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461262214703337479/7GP-9OaY.jpg" ],
+        "published" : [ "2011-03-18T15:57:58+00:00" ],
+        "uid" : [ "tag:twitter.com:GDSTeam" ],
+        "url" : [ "https://twitter.com/GDSTeam", "https://gds.blog.gov.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"http://GOV.UK\">GOV.UK</a> Platform as a Service (PaaS) turns 6 today.\n\nIt's trusted by more than 60 public sector organisations running more than 3,000 applications on the cloud hosting platform. ⬇️</div>",
+      "value" : "GOV.UK Platform as a Service (PaaS) turns 6 today.\n\nIt's trusted by more than 60 public sector organisations running more than 3,000 applications on the cloud hosting platform. ⬇️"
+    } ],
+    "published" : [ "2021-11-23T13:01:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1463130707887333390" ],
+    "url" : [ "https://twitter.com/GDSTeam/status/1463130707887333390" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1463130637980868609/vid/1280x720/uF80Dtt73_TgCw5C.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
