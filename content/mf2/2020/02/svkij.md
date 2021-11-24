@@ -5,8 +5,8 @@
   "date" : "2020-02-02T04:33:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Like of https://carolgilabert.me/blog/opposite-of-depression" ],
-    "like-of" : [ "https://carolgilabert.me/blog/opposite-of-depression" ],
+    "name" : [ "Like of https://carol.gg/blog/opposite-of-depression" ],
+    "like-of" : [ "https://carol.gg/blog/opposite-of-depression" ],
     "published" : [ "2020-02-02T04:33:00Z" ]
   }
 }

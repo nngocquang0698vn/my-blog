@@ -333,7 +333,7 @@ And we went through a journey on redefining the responsibilities for developers 
 
 # Panic Driven Development
 
-<span class="h-card"><a class="u-url" href="https://carolgilabert.me">Carol Gilabert</a></span> shared a story about pushing a change to production before anyone noticed it was her changes that broke.
+<span class="h-card"><a class="u-url" href="https://carol.gg">Carol Gilabert</a></span> shared a story about pushing a change to production before anyone noticed it was her changes that broke.
 
 This story is better hearing it, so I'll update this post with a link to the video when it's live.
 

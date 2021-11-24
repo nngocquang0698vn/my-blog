@@ -4,7 +4,7 @@
       "How am I? - Carol Gilabert"
     ],
     "bookmark-of": [
-      "https://carolgilabert.me/blog/how-am-i"
+      "https://carol.gg/blog/how-am-i"
     ],
     "content": [
       {

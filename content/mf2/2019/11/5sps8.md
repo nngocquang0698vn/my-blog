@@ -5,8 +5,8 @@
   "date" : "2019-11-27T21:37:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Like of https://carolgilabert.me/blog/little-stumble-with-styled-components" ],
-    "like-of" : [ "https://carolgilabert.me/blog/little-stumble-with-styled-components" ],
+    "name" : [ "Like of https://carol.gg/blog/little-stumble-with-styled-components" ],
+    "like-of" : [ "https://carol.gg/blog/little-stumble-with-styled-components" ],
     "published" : [ "2019-11-27T21:37:00Z" ]
   }
 }

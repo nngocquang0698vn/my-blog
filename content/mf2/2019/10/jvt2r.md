@@ -8,7 +8,7 @@
       "Dark Mode"
     ],
     "bookmark-of": [
-      "https://carolgilabert.me/blog/dark-mode"
+      "https://carol.gg/blog/dark-mode"
     ],
     "published": [
       "2019-10-19T12:59:00+0100"

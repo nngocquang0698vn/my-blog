@@ -23,7 +23,7 @@ From this as a basis, James fast-forwarded to [the 1995-06-24 Dilbert strip](htt
 
 However, we know that this isn't true at all, because a tool is just a means to an end (albeit the above comment was based on some realism). Someone working on mainframes may not be working on hip Go microservices deployed to Kubernetes in their free time, but it sure doesn't mean that they're less of an engineer because they'll have a wealth of knowledge from everything leading up until then.
 
-I've seen this before with folks looking down on front-end/full-stack development teams as "just doing colouring" or "not being real developers", but as the wonderful <span class="h-card"><a class="u-url" href="https://carolgilabert.me">Carol</a></span> puts it, maybe the people saying that are just scared of the difficulties of building cross-browser and ecosystem CSS and Javascript? It's not like creating a JSON API is that difficult compared to making a feature-rich application working across many browsers, Operating Systems, and devices, so why do backend developers look down on everyone else?
+I've seen this before with folks looking down on front-end/full-stack development teams as "just doing colouring" or "not being real developers", but as the wonderful <span class="h-card"><a class="u-url" href="https://carol.gg">Carol</a></span> puts it, maybe the people saying that are just scared of the difficulties of building cross-browser and ecosystem CSS and Javascript? It's not like creating a JSON API is that difficult compared to making a feature-rich application working across many browsers, Operating Systems, and devices, so why do backend developers look down on everyone else?
 
 # James' Journey
 

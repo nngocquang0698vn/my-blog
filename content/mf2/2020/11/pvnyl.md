@@ -6,7 +6,7 @@
     "name" : [ "Pandemic diaries" ],
     "published" : [ "2020-11-04T20:35:00+0000" ],
     "category" : [ "coronavirus", "2020" ],
-    "like-of" : [ "https://carolgilabert.me/blog/pandemic-diaries/" ]
+    "like-of" : [ "https://carol.gg/blog/pandemic-diaries/" ]
   },
   "kind" : "likes",
   "slug" : "2020/11/pvnyl",

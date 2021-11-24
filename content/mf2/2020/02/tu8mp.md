@@ -5,8 +5,8 @@
   "date" : "2020-02-14T17:11:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Like of https://carolgilabert.me/blog/individuality-contemporary-art" ],
-    "like-of" : [ "https://carolgilabert.me/blog/individuality-contemporary-art" ],
+    "name" : [ "Like of https://carol.gg/blog/individuality-contemporary-art" ],
+    "like-of" : [ "https://carol.gg/blog/individuality-contemporary-art" ],
     "published" : [ "2020-02-14T17:11:00Z" ]
   }
 }

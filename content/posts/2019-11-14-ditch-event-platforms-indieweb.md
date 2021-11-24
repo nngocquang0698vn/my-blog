@@ -94,7 +94,7 @@ But, I hear you say, that doesn't help folks who don't have a website, which is 
 
 We don't want that to be a barrier to folks getting involved in our events, so we need to have an alternative for folks who don't have a website.
 
-<span class="h-card"><a class="u-url" href="https://carolgilabert.me">Carol</a></span> recently showed me the [QueerJS](https://queerjs.com/) website, which has started to own their events, too.
+<span class="h-card"><a class="u-url" href="https://carol.gg">Carol</a></span> recently showed me the [QueerJS](https://queerjs.com/) website, which has started to own their events, too.
 
 It's a nice system, and allows folks to link their GitHub account as a means to RSVP. This is a nice way of doing it because it'll provide a handy photo for each attendee, if they want to.
 

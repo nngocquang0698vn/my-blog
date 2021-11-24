@@ -15,7 +15,7 @@
     "category" : [ "birthday" ],
     "content" : [ {
       "html" : "",
-      "value" : "Thanks again to @carolgilabert.me and @thomglenn.netlify.app for their very thoughtful birthday present - I am very much a cat dad so this is such a great present!\n\nPS - I use Arch"
+      "value" : "Thanks again to @carol.gg and @thomglenn.netlify.app for their very thoughtful birthday present - I am very much a cat dad so this is such a great present!\n\nPS - I use Arch"
     } ]
   },
   "kind" : "photos",

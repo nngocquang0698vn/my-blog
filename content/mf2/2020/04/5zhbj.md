@@ -12,7 +12,7 @@
     "category" : [ "homebrew-website-club" ],
     "content" : [ {
       "html" : "",
-      "value" : "Happy <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> from Nottingham, with @carolgilabert.me @www.aimes.me.uk and @annadodson.co.uk"
+      "value" : "Happy <a href=\"/tags/homebrew-website-club/\">#HomebrewWebsiteClub</a> from Nottingham, with @carol.gg @www.aimes.me.uk and @annadodson.co.uk"
     } ]
   },
   "kind" : "photos",

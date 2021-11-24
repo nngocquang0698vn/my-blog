@@ -1,10 +1,10 @@
 {
   "properties": {
     "name": [
-      "https://carolgilabert.me/blog/impostor-syndrome"
+      "https://carol.gg/blog/impostor-syndrome"
     ],
     "bookmark-of": [
-      "https://carolgilabert.me/blog/impostor-syndrome"
+      "https://carol.gg/blog/impostor-syndrome"
     ],
     "content": [
       {

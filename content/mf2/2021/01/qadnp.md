@@ -6,7 +6,7 @@
     "name" : [ "2020 in review" ],
     "published" : [ "2021-01-03T17:52:00+0000" ],
     "category" : [ "2020" ],
-    "like-of" : [ "https://carolgilabert.me/blog/2020-in-review" ]
+    "like-of" : [ "https://carol.gg/blog/2020-in-review" ]
   },
   "kind" : "likes",
   "slug" : "2021/01/qadnp",

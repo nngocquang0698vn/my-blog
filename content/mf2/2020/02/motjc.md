@@ -11,7 +11,7 @@
     "category" : [ "impostor-syndrome" ],
     "content" : [ {
       "html" : "",
-      "value" : "This is a great talk from <span class=\"h-card\"><a class=\"u-url p-name\" href=\"https://carolgilabert.me/\">Carol</a></span> about <a href=\"/tags/impostor-syndrome/\">#ImpostorSyndrome</a> - something that so many of us suffer from without knowing - and some ways that you can reduce the effect it has on you."
+      "value" : "This is a great talk from <span class=\"h-card\"><a class=\"u-url p-name\" href=\"https://carol.gg/\">Carol</a></span> about <a href=\"/tags/impostor-syndrome/\">#ImpostorSyndrome</a> - something that so many of us suffer from without knowing - and some ways that you can reduce the effect it has on you."
     } ]
   },
   "tags" : [ "impostor-syndrome" ]

@@ -10,7 +10,7 @@
     "category" : [ "tiktok" ],
     "content" : [ {
       "html" : "",
-      "value" : "I have this thread https://twitter.com/CarolSaysThings/status/1276155987456598016 by the wonderful @carolgilabert.me  for this ☺"
+      "value" : "I have this thread https://twitter.com/CarolSaysThings/status/1276155987456598016 by the wonderful @carol.gg  for this ☺"
     } ]
   },
   "kind" : "replies",

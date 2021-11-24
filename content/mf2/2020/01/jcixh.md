@@ -5,8 +5,8 @@
   "date" : "2020-01-10T07:49:00Z",
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Like of https://carolgilabert.me/blog/2019-in-review" ],
-    "like-of" : [ "https://carolgilabert.me/blog/2019-in-review" ],
+    "name" : [ "Like of https://carol.gg/blog/2019-in-review" ],
+    "like-of" : [ "https://carol.gg/blog/2019-in-review" ],
     "published" : [ "2020-01-10T07:49:00Z" ]
   }
 }

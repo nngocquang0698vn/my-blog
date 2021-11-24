@@ -21,7 +21,7 @@
     "content": [
       {
         "html": "",
-        "value": "I could've only guessed number 13 because I knew @annadodson.co.uk and @carolgilabert.me were so heavily involved in the planning 😂"
+        "value": "I could've only guessed number 13 because I knew @annadodson.co.uk and @carol.gg were so heavily involved in the planning 😂"
       }
     ]
   },
