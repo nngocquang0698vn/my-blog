@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Seraphae/status/1463267552214278158" ],
     "name" : [ "Like of @Seraphae's tweet" ],
     "published" : [ "2021-11-24T10:10:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
