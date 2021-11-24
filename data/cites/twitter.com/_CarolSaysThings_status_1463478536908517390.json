@@ -1,0 +1,57 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1453720273505587209/frjsfqT3.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/FadedNick/status/1463214331794018309\">@FadedNick</a> Lmao, my friends get me."
+    } ],
+    "published" : [ "2021-11-24T12:04:07+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Wahpekute Land" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "FadedNick" ],
+            "nickname" : [ "FadedNick" ],
+            "numeric-id" : [ "69710372" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1455210709185404932/2sc_kjCs.jpg" ],
+            "published" : [ "2009-08-28T22:18:03+00:00" ],
+            "uid" : [ "tag:twitter.com:FadedNick" ],
+            "url" : [ "https://twitter.com/FadedNick" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "Lmao, my friends get me." ],
+        "photo" : [ "https://pbs.twimg.com/media/FE5hrkIXMAUesjL.jpg" ],
+        "published" : [ "2021-11-23T18:34:16+00:00" ],
+        "uid" : [ "tag:twitter.com:1463214331794018309" ],
+        "url" : [ "https://twitter.com/FadedNick/status/1463214331794018309" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1463478536908517390" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1463478536908517390" ]
+  },
+  "type" : [ "h-entry" ]
+}
