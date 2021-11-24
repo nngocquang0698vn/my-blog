@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Leeds, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Catherine" ],
+          "nickname" : [ "CatherineRwork" ],
+          "numeric-id" : [ "1412339653332643845" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1413407031214710786/lvYSfK5a.jpg" ],
+          "published" : [ "2021-07-06T09:16:38+00:00" ],
+          "uid" : [ "tag:twitter.com:CatherineRwork" ],
+          "url" : [ "https://twitter.com/CatherineRwork" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">One key learning from our current work: \nActively look for who we are excluding rather than only reassuring ourselves with who we think we are including</div>",
+        "value" : "One key learning from our current work: \nActively look for who we are excluding rather than only reassuring ourselves with who we think we are including"
+      } ],
+      "published" : [ "2021-11-23T21:54:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1463264654327693321" ],
+      "url" : [ "https://twitter.com/CatherineRwork/status/1463264654327693321" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/catherinerwork…" ],
+      "url" : [ "https://twitter.com/catherinerwork/status/1463264654327693321" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salford, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Beaumont" ],
+        "nickname" : [ "Seraphae" ],
+        "numeric-id" : [ "1952546466" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1401698678348341255/UjzGyxmz.jpg" ],
+        "published" : [ "2013-10-10T20:45:52+00:00" ],
+        "uid" : [ "tag:twitter.com:Seraphae" ],
+        "url" : [ "https://twitter.com/Seraphae" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Exclusion should be intentional and documented. Which sounds horrible, but it isn’t - you just can’t make something perfect for absolutely everyone. Unintentional exclusion is usually the problem. Thanks to <a href=\"https://twitter.com/JamieKnight\">@JamieKnight</a> and <a href=\"https://twitter.com/GarethFW\">@GarethFW</a> for that useful nugget.👌\n<a class=\"tag\" href=\"https://twitter.com/catherinerwork/status/1463264654327693321\">twitter.com/catherinerwork…</a>",
+      "value" : "Exclusion should be intentional and documented. Which sounds horrible, but it isn’t - you just can’t make something perfect for absolutely everyone. Unintentional exclusion is usually the problem. Thanks to @JamieKnight and @GarethFW for that useful nugget.👌"
+    } ],
+    "published" : [ "2021-11-23T22:05:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1463267552214278158" ],
+    "url" : [ "https://twitter.com/Seraphae/status/1463267552214278158" ]
+  },
+  "type" : [ "h-entry" ]
+}
