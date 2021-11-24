@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, British Columbia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Julia Duimovich" ],
+        "nickname" : [ "jduims" ],
+        "numeric-id" : [ "627401119" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/993931393628540928/K8rle0tq.jpg" ],
+        "published" : [ "2012-07-05T13:44:59+00:00" ],
+        "uid" : [ "tag:twitter.com:jduims" ],
+        "url" : [ "https://twitter.com/jduims", "http://duimovich.ca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I learned about a wild bug today, boy howdy.  \nGet ready: \nJIRA has a known bug where if you are pasting text from Excel into the search bar, it attaches an image to an unrelated ticket to the one you're browsing on.</div>",
+      "value" : "I learned about a wild bug today, boy howdy.  \nGet ready: \nJIRA has a known bug where if you are pasting text from Excel into the search bar, it attaches an image to an unrelated ticket to the one you're browsing on."
+    } ],
+    "published" : [ "2021-11-23T18:13:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1463209138989584384" ],
+    "url" : [ "https://twitter.com/jduims/status/1463209138989584384" ]
+  },
+  "type" : [ "h-entry" ]
+}
