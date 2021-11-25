@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Computing.co.uk" ],
+          "nickname" : [ "Computing_News" ],
+          "numeric-id" : [ "15020155" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1410516341459718145/BuDmrKkZ.png" ],
+          "published" : [ "2008-06-05T16:38:20+00:00" ],
+          "uid" : [ "tag:twitter.com:Computing_News" ],
+          "url" : [ "https://twitter.com/Computing_News", "http://www.computing.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "And the winner for <a href=\"https://twitter.com/search?q=%23WomeninTechExcellence\">#WomeninTechExcellence</a> Rising Star of the Year: Public Sector &amp; Universities is Oluwatobi Ogunsina <a href=\"https://twitter.com/DGS_GovNL\">@DGS_GovNL</a> – you did impressive work to make services more accessible for those that might normally struggle",
+        "value" : "And the winner for #WomeninTechExcellence Rising Star of the Year: Public Sector & Universities is Oluwatobi Ogunsina @DGS_GovNL – you did impressive work to make services more accessible for those that might normally struggle"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FE_kCWOXMAI7jRm.jpg" ],
+      "published" : [ "2021-11-24T22:42:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1463639283869401089" ],
+      "url" : [ "https://twitter.com/Computing_News/status/1463639283869401089" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bromley, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oluwatobi  Ogunsina" ],
+        "nickname" : [ "tobiogunsina" ],
+        "numeric-id" : [ "155685591" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292340956436537344/9R5aiinE.jpg" ],
+        "published" : [ "2010-06-14T20:42:21+00:00" ],
+        "uid" : [ "tag:twitter.com:tobiogunsina" ],
+        "url" : [ "https://twitter.com/tobiogunsina", "http://tobiogunsina.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh my God! I can't believe I won! 💃😀" ],
+    "published" : [ "2021-11-24T23:47:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1463655621258100738" ],
+    "url" : [ "https://twitter.com/tobiogunsina/status/1463655621258100738" ]
+  },
+  "type" : [ "h-entry" ]
+}
