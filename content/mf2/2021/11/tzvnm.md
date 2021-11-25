@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seldo/status/1463642847706370048" ],
     "name" : [ "Like of @seldo's tweet" ],
     "published" : [ "2021-11-25T13:25:00+0000" ],
     "category" : [ "cryptocurrency" ],
