@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel 🥌 Stenberg" ],
+        "nickname" : [ "bagder" ],
+        "numeric-id" : [ "14893620" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407469211136450565/VOQGppj0.jpg" ],
+        "published" : [ "2008-05-24T20:46:13+00:00" ],
+        "uid" : [ "tag:twitter.com:bagder" ],
+        "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Many people ask me stuff about running an old and popular open source project.\n\nKeeping the CI tests green and non-flaky over time is one of the hardest problems!</div>",
+      "value" : "Many people ask me stuff about running an old and popular open source project.\n\nKeeping the CI tests green and non-flaky over time is one of the hardest problems!"
+    } ],
+    "published" : [ "2021-11-25T08:17:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1463783855186395136" ],
+    "url" : [ "https://twitter.com/bagder/status/1463783855186395136" ]
+  },
+  "type" : [ "h-entry" ]
+}
