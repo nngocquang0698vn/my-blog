@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Munnelly" ],
+        "nickname" : [ "JamesMunnelly" ],
+        "numeric-id" : [ "14374152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/779036728753524736/tEbd6HKa.jpg" ],
+        "published" : [ "2008-04-13T10:07:15+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesMunnelly" ],
+        "url" : [ "https://twitter.com/JamesMunnelly" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "PSA: Remember to get your OSS PRs merged before 2022 rolls around so you don't have to go update all your copyright headers 😄" ],
+    "published" : [ "2021-11-25T13:46:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1463866738953568259" ],
+    "url" : [ "https://twitter.com/JamesMunnelly/status/1463866738953568259" ]
+  },
+  "type" : [ "h-entry" ]
+}
