@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🔎Julia Evans🔍" ],
+        "nickname" : [ "b0rk" ],
+        "numeric-id" : [ "6603532" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr.jpg" ],
+        "published" : [ "2007-06-05T21:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:b0rk" ],
+        "url" : [ "https://twitter.com/b0rk", "http://jvns.ca", "http://wizardzines.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "as usual I'm not doing a Black Friday sale, but here's your periodic reminder that if you're in a country with a weaker currency than the US (India, Russia, Brazil, etc), there's a discount to make the zines more affordable. You can see it in action here: <a href=\"https://wizardzines.com/zines/all-the-zines/\">wizardzines.com/zines/all-the-…</a>",
+      "value" : "as usual I'm not doing a Black Friday sale, but here's your periodic reminder that if you're in a country with a weaker currency than the US (India, Russia, Brazil, etc), there's a discount to make the zines more affordable. You can see it in action here: wizardzines.com/zines/all-the-…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FFEXEQnXoAopAJC.png" ],
+    "published" : [ "2021-11-25T21:11:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1463978713134084101" ],
+    "url" : [ "https://twitter.com/b0rk/status/1463978713134084101" ]
+  },
+  "type" : [ "h-entry" ]
+}
