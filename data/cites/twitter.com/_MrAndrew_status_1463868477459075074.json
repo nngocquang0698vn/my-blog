@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Riddings, Derbyshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Seward" ],
+        "nickname" : [ "MrAndrew" ],
+        "numeric-id" : [ "9626182" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427987061789843458/tnGJ3Yl9.jpg" ],
+        "published" : [ "2007-10-23T15:57:18+00:00" ],
+        "uid" : [ "tag:twitter.com:MrAndrew" ],
+        "url" : [ "https://twitter.com/MrAndrew", "http://www.technottingham.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oh no I must have missed the marketing for this event, I shall sort out my notifications\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarolSaysThings\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Oh no I must have missed the marketing for this event, I shall sort out my notifications"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1463608946430775299" ],
+    "published" : [ "2021-11-25T13:53:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1463868477459075074" ],
+    "url" : [ "https://twitter.com/MrAndrew/status/1463868477459075074" ]
+  },
+  "type" : [ "h-entry" ]
+}
