@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/humankindgame/status/1461358548877672456" ],
     "name" : [ "Like of @humankindgame's tweet" ],
     "published" : [ "2021-11-25T13:24:00+0000" ],
     "category" : [ "gaming" ],
