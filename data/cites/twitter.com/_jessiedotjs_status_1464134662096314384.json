@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jessie.js" ],
+        "nickname" : [ "jessiedotjs" ],
+        "numeric-id" : [ "110298748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436157880877531141/2-dt4exX.jpg" ],
+        "published" : [ "2010-02-01T02:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:jessiedotjs" ],
+        "url" : [ "https://twitter.com/jessiedotjs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Another commenter said it’s blond for boys and blonde for girls so I don’t even know what to think anymore\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/chris__martin\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/taeric\"></a>",
+      "value" : "Another commenter said it’s blond for boys and blonde for girls so I don’t even know what to think anymore"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chris__martin/status/1464131724686680067" ],
+    "published" : [ "2021-11-26T07:31:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1464134662096314384" ],
+    "url" : [ "https://twitter.com/jessiedotjs/status/1464134662096314384" ]
+  },
+  "type" : [ "h-entry" ]
+}
