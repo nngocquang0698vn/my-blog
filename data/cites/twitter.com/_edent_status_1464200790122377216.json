@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "DHH" ],
+          "nickname" : [ "dhh" ],
+          "numeric-id" : [ "14561327" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU.jpg" ],
+          "published" : [ "2008-04-27T20:19:25+00:00" ],
+          "uid" : [ "tag:twitter.com:dhh" ],
+          "url" : [ "https://twitter.com/dhh", "https://world.hey.com/dhh" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\"You can't become the I HAVE NO IDEA WHAT I'M DOING dog as a professional identity. Don't embrace being a copy-pasta programmer whose chief skill is looking up shit on the internet.\" <a href=\"https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725\">world.hey.com/dhh/programmer…</a>",
+        "value" : "\"You can't become the I HAVE NO IDEA WHAT I'M DOING dog as a professional identity. Don't embrace being a copy-pasta programmer whose chief skill is looking up shit on the internet.\" world.hey.com/dhh/programmer…"
+      } ],
+      "published" : [ "2021-11-25T10:51:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1463822670131351555" ],
+      "url" : [ "https://twitter.com/dhh/status/1463822670131351555" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hello! I was one of the editors of the HTML5 specification. I had no idea what I was doing when I started. But I asked for help. I looked things up. I learned from others. \nI exposed my ignorance because I'm secure enough to handle the dingbats - and I wanted to encourage others.</div>",
+      "value" : "Hello! I was one of the editors of the HTML5 specification. I had no idea what I was doing when I started. But I asked for help. I looked things up. I learned from others. \nI exposed my ignorance because I'm secure enough to handle the dingbats - and I wanted to encourage others."
+    } ],
+    "published" : [ "2021-11-26T11:54:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1464200790122377216" ],
+    "url" : [ "https://twitter.com/edent/status/1464200790122377216" ]
+  },
+  "type" : [ "h-entry" ]
+}
