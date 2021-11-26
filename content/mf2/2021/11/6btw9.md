@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1464200790122377216" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2021-11-26T12:06:00+0000" ],
     "category" : [ "impostor-syndrome" ],
