@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TrentOster/status/1463969011352301576" ],
     "name" : [ "Like of @TrentOster's tweet" ],
     "published" : [ "2021-11-26T09:24:00+0000" ],
     "category" : [ "art", "gaming" ],
