@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Online" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1404482641680764934/FmChitNh.jpg" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "rails me daddy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cherthedev\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dan_abramov\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jennschiffer\"></a>",
+      "value" : "rails me daddy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cherthedev/status/1464367273519378432" ],
+    "published" : [ "2021-11-26T23:00:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1464368568523374596" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1464368568523374596" ]
+  },
+  "type" : [ "h-entry" ]
+}
