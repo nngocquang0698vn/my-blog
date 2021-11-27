@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Michael.Seraphim" ],
+          "nickname" : [ "mseraphimsl" ],
+          "numeric-id" : [ "3089583424" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1269098377939222529/DDhyparO.jpg" ],
+          "published" : [ "2015-03-12T18:21:18+00:00" ],
+          "uid" : [ "tag:twitter.com:mseraphimsl" ],
+          "url" : [ "https://twitter.com/mseraphimsl" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KurtKohlstedt\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cstross\"></a>"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/KurtKohlstedt/status/1464199461643731005" ],
+      "photo" : [ "https://pbs.twimg.com/media/FFOTjgcXIAg4icZ.jpg" ],
+      "published" : [ "2021-11-27T19:24:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1464676544228569097" ],
+      "url" : [ "https://twitter.com/mseraphimsl/status/1464676544228569097" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ohlone land (San Francisco)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Valerie Aurora" ],
+        "nickname" : [ "vaurorapub" ],
+        "numeric-id" : [ "2339814156" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451283861795528705/5vhTS_m7.jpg" ],
+        "published" : [ "2014-02-12T05:43:45+00:00" ],
+        "uid" : [ "tag:twitter.com:vaurorapub" ],
+        "url" : [ "https://twitter.com/vaurorapub", "http://valerieaurora.org", "http://pronoun.is/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Oh hey, it’s the women’s bathroom at a tech company" ],
+    "published" : [ "2021-11-27T19:58:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1464685160738156547" ],
+    "url" : [ "https://twitter.com/vaurorapub/status/1464685160738156547" ]
+  },
+  "type" : [ "h-entry" ]
+}
