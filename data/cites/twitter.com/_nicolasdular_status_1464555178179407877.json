@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/GergelyOrosz/s…" ],
+        "url" : [ "https://twitter.com/GergelyOrosz/status/1464233082010144769" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://blog.pragmaticengineer.com/", "http://newsletter.pragmaticengineer.com", "http://pragmaticurl.com/books" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">There's an even bigger issue with live coding than \"just\" the potential impact on diversity.\n\nIf you do stressful live coding, you're excluding a massive population.\n\n\"A large population of people are impacted by performance anxiety (est. 40% of all adults in the U.S. [23]).\"</div>\n<a class=\"tag\" href=\"https://twitter.com/GergelyOrosz/status/1464233082010144769\">twitter.com/GergelyOrosz/s…</a>",
+        "value" : "There's an even bigger issue with live coding than \"just\" the potential impact on diversity.\n\nIf you do stressful live coding, you're excluding a massive population.\n\n\"A large population of people are impacted by performance anxiety (est. 40% of all adults in the U.S. [23]).\""
+      } ],
+      "published" : [ "2021-11-27T10:15:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1464538301386342400" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1464538301386342400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gergelyorosz/s…" ],
+      "url" : [ "https://twitter.com/gergelyorosz/status/1464538301386342400" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vienna Austria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicolas Dular" ],
+        "nickname" : [ "nicolasdular" ],
+        "numeric-id" : [ "266000898" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1167499174042046464/jqmvxl9K.jpg" ],
+        "published" : [ "2011-03-14T13:42:10+00:00" ],
+        "uid" : [ "tag:twitter.com:nicolasdular" ],
+        "url" : [ "https://twitter.com/nicolasdular", "http://nicolasdular.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I like how we do technical interviews at <a href=\"https://twitter.com/gitlab\">@gitlab</a>.\n\n- Merge Request upfront to review as home exercise\n- Go through the review &amp; implement suggestions\n\nGives candidates enough time to prepare without a surprise. Focus on the technical discussion. Hopefully reduces stress.</div>\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1464538301386342400\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "I like how we do technical interviews at @gitlab.\n\n- Merge Request upfront to review as home exercise\n- Go through the review & implement suggestions\n\nGives candidates enough time to prepare without a surprise. Focus on the technical discussion. Hopefully reduces stress."
+    } ],
+    "published" : [ "2021-11-27T11:22:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1464555178179407877" ],
+    "url" : [ "https://twitter.com/nicolasdular/status/1464555178179407877" ]
+  },
+  "type" : [ "h-entry" ]
+}
