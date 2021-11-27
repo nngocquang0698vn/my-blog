@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martin Jordan (he/him) 🚲 🌱" ],
+        "nickname" : [ "Martin_Jordan" ],
+        "numeric-id" : [ "2511321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/803042661343068160/frrzDXxg.jpg" ],
+        "published" : [ "2007-03-27T15:49:15+00:00" ],
+        "uid" : [ "tag:twitter.com:Martin_Jordan" ],
+        "url" : [ "https://twitter.com/Martin_Jordan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It only takes me incredible 33 seconds (!) to order a free lateral flow test kit on <a href=\"https://twitter.com/GOVUK\">@GOVUK</a> – from searching for the service to arriving on the confirmation screen.\n\nDon’t ever tell me again that private sector services are the benchmark. They are not. This is it.\n\n<a href=\"https://twitter.com/search?q=%23ServiceDesign\">#ServiceDesign</a></div>",
+      "value" : "It only takes me incredible 33 seconds (!) to order a free lateral flow test kit on @GOVUK – from searching for the service to arriving on the confirmation screen.\n\nDon’t ever tell me again that private sector services are the benchmark. They are not. This is it.\n\n#ServiceDesign"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Hackney, London" ],
+        "uid" : [ "tag:twitter.com:2a3f152d1ac5044a" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FFJtVqNX0Ao8jYb.jpg" ],
+    "published" : [ "2021-11-26T21:59:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1464353052962570243" ],
+    "url" : [ "https://twitter.com/Martin_Jordan/status/1464353052962570243" ]
+  },
+  "type" : [ "h-entry" ]
+}
