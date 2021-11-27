@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pupOnSecurity/status/1464384073959460864" ],
     "name" : [ "Like of @pupOnSecurity's tweet" ],
     "published" : [ "2021-11-27T07:40:00+0000" ],
     "like-of" : [ "https://twitter.com/pupOnSecurity/status/1464384073959460864" ],
