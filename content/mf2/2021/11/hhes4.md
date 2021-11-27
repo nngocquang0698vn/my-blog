@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/medschooladvice/status/1464340703220174848" ],
     "name" : [ "Like of @medschooladvice's tweet" ],
     "published" : [ "2021-11-27T13:12:00+0000" ],
     "category" : [ "shitpost", "coronavirus" ],
