@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Derby, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🏳️‍🌈 James Hayward" ],
+        "nickname" : [ "geeksareforlife" ],
+        "numeric-id" : [ "47751632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273885821083373569/ewm5y1t1.jpg" ],
+        "published" : [ "2009-06-16T22:13:53+00:00" ],
+        "uid" : [ "tag:twitter.com:geeksareforlife" ],
+        "url" : [ "https://twitter.com/geeksareforlife", "https://www.geeksareforlife.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "At a non-technical conference today, and it seems that the \"this is more of a comment than a question...\" problem exists outside of the tech world as well!" ],
+    "published" : [ "2021-11-27T12:13:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1464568049219125257" ],
+    "url" : [ "https://twitter.com/geeksareforlife/status/1464568049219125257" ]
+  },
+  "type" : [ "h-entry" ]
+}
