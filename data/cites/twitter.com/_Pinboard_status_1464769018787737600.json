@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Web3" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "brantly.eth" ],
+          "nickname" : [ "BrantlyMillegan" ],
+          "numeric-id" : [ "518918278" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1450575979366207492/5cU_7pkm.png" ],
+          "published" : [ "2012-03-08T21:57:17+00:00" ],
+          "uid" : [ "tag:twitter.com:BrantlyMillegan" ],
+          "url" : [ "https://twitter.com/BrantlyMillegan", "http://chat.ens.domains" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">One of the most significant side-effects of the rise of crypto is we're *finally* giving everyone a public/private key pair\n\nWhat cypherpunks had tried unsuccessfully to do for yrs w/ ideology is happening w/ crypto incentives\n\nThis has *far* reaching consequences\n\nwarning long🧵</div>",
+        "value" : "One of the most significant side-effects of the rise of crypto is we're *finally* giving everyone a public/private key pair\n\nWhat cypherpunks had tried unsuccessfully to do for yrs w/ ideology is happening w/ crypto incentives\n\nThis has *far* reaching consequences\n\nwarning long🧵"
+      } ],
+      "published" : [ "2021-05-03T17:26:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1389270115884097536" ],
+      "url" : [ "https://twitter.com/BrantlyMillegan/status/1389270115884097536" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulevard of broken dreams" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pinboard" ],
+        "nickname" : [ "Pinboard" ],
+        "numeric-id" : [ "55525953" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293623146763804674/_JlO5dQw.jpg" ],
+        "published" : [ "2009-07-10T10:24:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Pinboard" ],
+        "url" : [ "https://twitter.com/Pinboard", "http://pinboard.in" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm a tech guy and I can say with confidence I've lost every private key I've ever held within three years or so. Excited to see this important technology go mainstream with no recourse and tied to real assets. Please share your own stories in the comments!" ],
+    "published" : [ "2021-11-28T01:32:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1464769018787737600" ],
+    "url" : [ "https://twitter.com/Pinboard/status/1464769018787737600" ]
+  },
+  "type" : [ "h-entry" ]
+}
