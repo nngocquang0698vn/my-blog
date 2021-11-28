@@ -1,0 +1,50 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "he/him" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Larry #WattWarriors" ],
+          "nickname" : [ "capekinos" ],
+          "numeric-id" : [ "1402884714399154177" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1458275927968911365/fIO9HnjI.jpg" ],
+          "published" : [ "2021-06-10T07:06:48+00:00" ],
+          "uid" : [ "tag:twitter.com:capekinos" ],
+          "url" : [ "https://twitter.com/capekinos" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Your most controversial Spider-Man hot take?" ],
+      "in-reply-to" : [ "https://twitter.com/capekinos/status/1463957116339773450" ],
+      "photo" : [ "https://pbs.twimg.com/media/FFEFQz8X0AEakS4.jpg" ],
+      "published" : [ "2021-11-25T19:45:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1463957145066606602" ],
+      "url" : [ "https://twitter.com/capekinos/status/1463957145066606602" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "🎄Aster🎁Olivine🎄" ],
+        "nickname" : [ "AsterOlivine" ],
+        "numeric-id" : [ "1380620014370267136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459235710389534722/gLd0DLkU.jpg" ],
+        "published" : [ "2021-04-09T20:34:59+00:00" ],
+        "uid" : [ "tag:twitter.com:AsterOlivine" ],
+        "url" : [ "https://twitter.com/AsterOlivine" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Making Peter Parker, a character incredibly well known for being poor, someone who worships a billionaire is actual propaganda" ],
+    "published" : [ "2021-11-27T21:06:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1464702072440299521" ],
+    "url" : [ "https://twitter.com/AsterOlivine/status/1464702072440299521" ]
+  },
+  "type" : [ "h-entry" ]
+}
