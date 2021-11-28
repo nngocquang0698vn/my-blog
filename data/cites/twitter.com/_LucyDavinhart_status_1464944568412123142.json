@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Leeds, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Michelle D'israeli" ],
+          "nickname" : [ "MDisraeli" ],
+          "numeric-id" : [ "126666297" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/344513261566478480/dbc8665fb5d0a0f245c205ba3d3b00c6.png" ],
+          "published" : [ "2010-03-26T16:08:20+00:00" ],
+          "uid" : [ "tag:twitter.com:MDisraeli" ],
+          "url" : [ "https://twitter.com/MDisraeli", "http://www.michelledisraeli.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">In Q3 2022 Amazon will announce Echo Free, a fully functional virtual home assistant device that they will ship to you at no cost*\n\n* audio adverts will be played after Alexa responses, and they reserve the right to play them at any time for no reason</div>",
+        "value" : "In Q3 2022 Amazon will announce Echo Free, a fully functional virtual home assistant device that they will ship to you at no cost*\n\n* audio adverts will be played after Alexa responses, and they reserve the right to play them at any time for no reason"
+      } ],
+      "published" : [ "2021-11-28T13:08:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1464944268041146376" ],
+      "url" : [ "https://twitter.com/MDisraeli/status/1464944268041146376" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/mdisraeli/stat…" ],
+      "url" : [ "https://twitter.com/mdisraeli/status/1464944268041146376" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sheffield, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lucy Davinhart 🍓" ],
+        "nickname" : [ "LucyDavinhart" ],
+        "numeric-id" : [ "2742820529" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1454503493826453514/GvluOqXT.jpg" ],
+        "published" : [ "2014-08-14T17:42:26+00:00" ],
+        "uid" : [ "tag:twitter.com:LucyDavinhart" ],
+        "url" : [ "https://twitter.com/LucyDavinhart", "http://lmhd.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Context: I asked Alexa for the weather.\n\nIt told me the weather.\n\nThen it gave me an ad.</div>\n<a class=\"tag\" href=\"https://twitter.com/mdisraeli/status/1464944268041146376\">twitter.com/mdisraeli/stat…</a>",
+      "value" : "Context: I asked Alexa for the weather.\n\nIt told me the weather.\n\nThen it gave me an ad."
+    } ],
+    "published" : [ "2021-11-28T13:09:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1464944568412123142" ],
+    "url" : [ "https://twitter.com/LucyDavinhart/status/1464944568412123142" ]
+  },
+  "type" : [ "h-entry" ]
+}
