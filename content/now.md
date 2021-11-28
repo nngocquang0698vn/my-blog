@@ -44,7 +44,7 @@ My primary programming languages at this time are Java and Ruby.
 My daily drivers for work and play are:
 
 - My phone is a Pixel 3A
-- My laptop is an XPS 13 9343 (Broadwell)
+- My laptop is an XPS 13 9305 (Tiger Lake)
 - My desktop is a custom build with:
   - Intel i7-6900k
   - NVIDIA TITAN X
