@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1464895360128663558" ],
     "published" : [ "2021-11-28T09:43:00+0000" ],
     "category" : [ "cryptocurrency" ],
     "repost-of" : [ "https://twitter.com/Pinboard/status/1464769018787737600" ],
