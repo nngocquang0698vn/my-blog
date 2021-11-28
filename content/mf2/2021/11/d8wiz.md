@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fortesalatifi/status/1463564813204791298" ],
     "name" : [ "Like of @fortesalatifi's tweet" ],
     "published" : [ "2021-11-28T10:53:00+0000" ],
     "like-of" : [ "https://twitter.com/fortesalatifi/status/1463564813204791298" ],
