@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St. Louis, MO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Geerling" ],
+        "nickname" : [ "geerlingguy" ],
+        "numeric-id" : [ "15481850" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1036035391101386752/GNglMMFb.jpg" ],
+        "published" : [ "2008-07-18T15:07:06+00:00" ],
+        "uid" : [ "tag:twitter.com:geerlingguy" ],
+        "url" : [ "https://twitter.com/geerlingguy", "https://www.jeffgeerling.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Seriously. About 6 hours total this week.\n\nAgain.\n\nIt was DNS.</div>",
+      "value" : "Seriously. About 6 hours total this week.\n\nAgain.\n\nIt was DNS."
+    } ],
+    "published" : [ "2021-11-28T22:05:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1465079422122434564" ],
+    "url" : [ "https://twitter.com/geerlingguy/status/1465079422122434564" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FFUB8TeX0A4jWoc.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
