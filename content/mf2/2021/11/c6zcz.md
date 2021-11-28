@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1464675269629943811" ],
     "published" : [ "2021-11-27T19:14:11.02121263Z" ],
     "category" : [ "git-hub", "arch-linux", "aur" ],
     "post-status" : [ "published" ],
