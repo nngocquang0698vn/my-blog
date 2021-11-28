@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fortyseven/status/1464877320972521477" ],
     "name" : [ "Like of @fortyseven's tweet" ],
     "published" : [ "2021-11-28T09:56:00+0000" ],
     "like-of" : [ "https://twitter.com/fortyseven/status/1464877320972521477" ],
