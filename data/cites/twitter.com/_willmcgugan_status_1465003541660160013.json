@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Will McGugan" ],
+        "nickname" : [ "willmcgugan" ],
+        "numeric-id" : [ "14343311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1429487772893650945/LAP4NAxC.jpg" ],
+        "published" : [ "2008-04-09T17:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:willmcgugan" ],
+        "url" : [ "https://twitter.com/willmcgugan", "http://www.willmcgugan.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oh yeah, I forget there are people that willingly use that OS. No, I'm afraid not. There is some linux-only APIs there.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mathsppblog\"></a>",
+      "value" : "Oh yeah, I forget there are people that willingly use that OS. No, I'm afraid not. There is some linux-only APIs there."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mathsppblog/status/1465003176956997646" ],
+    "published" : [ "2021-11-28T17:03:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1465003541660160013" ],
+    "url" : [ "https://twitter.com/willmcgugan/status/1465003541660160013" ]
+  },
+  "type" : [ "h-entry" ]
+}
