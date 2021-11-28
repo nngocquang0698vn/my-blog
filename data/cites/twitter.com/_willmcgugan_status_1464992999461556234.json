@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Will McGugan" ],
+        "nickname" : [ "willmcgugan" ],
+        "numeric-id" : [ "14343311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1429487772893650945/LAP4NAxC.jpg" ],
+        "published" : [ "2008-04-09T17:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:willmcgugan" ],
+        "url" : [ "https://twitter.com/willmcgugan", "http://www.willmcgugan.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here's something \"fun\" you can do with Rich.\n\n$ python -m rich.ansi python\n\nThis runs <a href=\"https://twitter.com/search?q=%23Python\">#Python</a>. Play with the REPL then exit. Check your CWD for stdout.html\n\nReplace the second Python with any other command!</div>",
+      "value" : "Here's something \"fun\" you can do with Rich.\n\n$ python -m rich.ansi python\n\nThis runs #Python. Play with the REPL then exit. Check your CWD for stdout.html\n\nReplace the second Python with any other command!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FFSzNMtWUAYYbTP.jpg" ],
+    "published" : [ "2021-11-28T16:22:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1464992999461556234" ],
+    "url" : [ "https://twitter.com/willmcgugan/status/1464992999461556234" ]
+  },
+  "type" : [ "h-entry" ]
+}
