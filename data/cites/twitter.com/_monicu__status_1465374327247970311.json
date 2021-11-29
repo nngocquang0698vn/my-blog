@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Glasgow" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Thorburn" ],
+          "nickname" : [ "CBThorburn" ],
+          "numeric-id" : [ "871665720" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1311597738203717633/3ty9bB16.jpg" ],
+          "published" : [ "2012-10-10T12:19:46+00:00" ],
+          "uid" : [ "tag:twitter.com:CBThorburn" ],
+          "url" : [ "https://twitter.com/CBThorburn" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Start naming the variants after the women from Mambo No. 5." ],
+      "published" : [ "2021-11-28T10:13:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1464900160400539654" ],
+      "url" : [ "https://twitter.com/CBThorburn/status/1464900160400539654" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "monica" ],
+        "nickname" : [ "monicu_" ],
+        "numeric-id" : [ "792441151" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441826790285185029/geOAR-JE.jpg" ],
+        "published" : [ "2012-08-30T21:27:26+00:00" ],
+        "uid" : [ "tag:twitter.com:monicu_" ],
+        "url" : [ "https://twitter.com/monicu_" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Please don’t" ],
+    "published" : [ "2021-11-29T17:37:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1465374327247970311" ],
+    "url" : [ "https://twitter.com/monicu_/status/1465374327247970311" ]
+  },
+  "type" : [ "h-entry" ]
+}
