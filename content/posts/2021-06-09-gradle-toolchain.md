@@ -24,6 +24,8 @@ plugins {
 }
 
 java {
+  // NOTE: this is very important to make sure it's applied alongside any other
+  // `java` configuration, such as `javadoc`
   toolchain {
     // if you're not yet on a newer JDK
     languageVersion.set(JavaLanguageVersion.of(8))
