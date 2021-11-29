@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Bolin, occasional monkey" ],
+        "nickname" : [ "katemonkey" ],
+        "numeric-id" : [ "8558982" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/452005509353050113/vImV-ZFF.png" ],
+        "published" : [ "2007-08-31T14:27:23+00:00" ],
+        "uid" : [ "tag:twitter.com:katemonkey" ],
+        "url" : [ "https://twitter.com/katemonkey", "https://about.me/katebolin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Okay, so. \nMy dad died late Saturday night/early Sunday morning. \nHe had ALS, so we knew it was coming, just not so soon. \nWe were going to go see him in the new year, but now we're having to work out flights and tests and everything. \nI don't have details.\nI just miss him.</div>",
+      "value" : "Okay, so. \nMy dad died late Saturday night/early Sunday morning. \nHe had ALS, so we knew it was coming, just not so soon. \nWe were going to go see him in the new year, but now we're having to work out flights and tests and everything. \nI don't have details.\nI just miss him."
+    } ],
+    "published" : [ "2021-11-22T09:33:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1462715801681768450" ],
+    "url" : [ "https://twitter.com/katemonkey/status/1462715801681768450" ]
+  },
+  "type" : [ "h-entry" ]
+}
