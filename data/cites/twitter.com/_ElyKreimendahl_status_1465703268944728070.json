@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ely kreimendahl" ],
+        "nickname" : [ "ElyKreimendahl" ],
+        "numeric-id" : [ "1225603175748685824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433977831428698114/pq-MLarh.jpg" ],
+        "published" : [ "2020-02-07T02:12:34+00:00" ],
+        "uid" : [ "tag:twitter.com:ElyKreimendahl" ],
+        "url" : [ "https://twitter.com/ElyKreimendahl", "http://www.elykreimendahl.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "did it hurt? when u realized after this pandemic ends there could always be another one" ],
+    "published" : [ "2021-11-30T15:24:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1465703268944728070" ],
+    "url" : [ "https://twitter.com/ElyKreimendahl/status/1465703268944728070" ]
+  },
+  "type" : [ "h-entry" ]
+}
