@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"Do you have kids?\" - \"Thankfully, no.\" <a href=\"https://shkspr.mobi/blog/2019/11/do-you-have-kids-thankfully-no/\">shkspr.mobi/blog/2019/11/d…</a>",
+      "value" : "\"Do you have kids?\" - \"Thankfully, no.\" shkspr.mobi/blog/2019/11/d…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/EKihifqVUAIPBKp.jpg" ],
+    "published" : [ "2019-11-29T12:11:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1200386916236976129" ],
+    "url" : [ "https://twitter.com/edent/status/1200386916236976129" ]
+  },
+  "type" : [ "h-entry" ]
+}
