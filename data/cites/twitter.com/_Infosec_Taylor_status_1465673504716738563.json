@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "St. John’s, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Paris Marx" ],
+          "nickname" : [ "parismarx" ],
+          "numeric-id" : [ "23273872" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1271808381074976769/PrETw_J0.jpg" ],
+          "published" : [ "2009-03-08T04:02:32+00:00" ],
+          "uid" : [ "tag:twitter.com:parismarx" ],
+          "url" : [ "https://twitter.com/parismarx", "http://parismarx.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Someone paid $650,000 for a virtual mega-yacht. I repeat: the yacht does not exist beyond a virtual world called “The Sandbox.”\n\nEvery time I see a story like this I not only think we need to rein this in, but also that taxing the rich isn’t enough; we need expropriation.</div>",
+        "value" : "Someone paid $650,000 for a virtual mega-yacht. I repeat: the yacht does not exist beyond a virtual world called “The Sandbox.”\n\nEvery time I see a story like this I not only think we need to rein this in, but also that taxing the rich isn’t enough; we need expropriation."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FFU6CMiWQAM_D4o.jpg" ],
+      "published" : [ "2021-11-29T02:10:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1465141067364417538" ],
+      "url" : [ "https://twitter.com/parismarx/status/1465141067364417538" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Ashley" ],
+        "nickname" : [ "Infosec_Taylor" ],
+        "numeric-id" : [ "993828440741560320" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384127896965451777/f0k88u_5.jpg" ],
+        "published" : [ "2018-05-08T12:22:19+00:00" ],
+        "uid" : [ "tag:twitter.com:Infosec_Taylor" ],
+        "url" : [ "https://twitter.com/Infosec_Taylor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Some people can't even afford their medical or grocery bills while others drop $650k on a fake boat.\n\nThis is the worst timeline.</div>",
+      "value" : "Some people can't even afford their medical or grocery bills while others drop $650k on a fake boat.\n\nThis is the worst timeline."
+    } ],
+    "published" : [ "2021-11-30T13:26:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1465673504716738563" ],
+    "url" : [ "https://twitter.com/Infosec_Taylor/status/1465673504716738563" ]
+  },
+  "type" : [ "h-entry" ]
+}
