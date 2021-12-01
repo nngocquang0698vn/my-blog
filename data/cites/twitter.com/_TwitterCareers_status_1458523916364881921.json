@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "this website" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Twitter Careers" ],
+        "nickname" : [ "TwitterCareers" ],
+        "numeric-id" : [ "109184306" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436451453867003905/kDlGh1qL.jpg" ],
+        "published" : [ "2010-01-28T06:35:31+00:00" ],
+        "uid" : [ "tag:twitter.com:TwitterCareers" ],
+        "url" : [ "https://twitter.com/TwitterCareers", "https://careers.twitter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "async really means I’ll do it when I want and I think that’s beautiful" ],
+    "published" : [ "2021-11-10T19:56:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1458523916364881921" ],
+    "url" : [ "https://twitter.com/TwitterCareers/status/1458523916364881921" ]
+  },
+  "type" : [ "h-entry" ]
+}
