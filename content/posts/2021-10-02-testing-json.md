@@ -1,9 +1,10 @@
 ---
-title: "Testing Data Serialisation/Deserialization in Java"
+title: "Testing Data Serialisation/Deserialization in Java (with Jackson)"
 description: "How to validate your JSON types correctly serialise/deserialise."
 tags:
 - java
 - testing
+- jackson
 - blogumentation
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
@@ -203,5 +204,3 @@ class TokenGrantDtoTest {
 ```
 
 This gives us a pretty handy test harness!
-
-I've also used this in the past when using [Moshi](https://github.com/square/moshi) for serialisation, but deserialisation can't be tested through Moshi as well, as it doesn't allow us to use a nice abstract `ObjectNode` that gives us a looser typing for validation.
