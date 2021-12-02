@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Neovim really does feel like a totally future vim now. It's a rapidly changing ecosystem, but the things we can make vim do, and how easy it is to do it with Lua, really is a game changer." ],
+    "published" : [ "2021-12-02T16:45:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1466448424706838531" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1466448424706838531" ]
+  },
+  "type" : [ "h-entry" ]
+}
