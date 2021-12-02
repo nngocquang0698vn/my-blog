@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "😒 <a href=\"https://twitter.com/farazamiruddin\">@farazamiruddin</a> no but seriously, tell me the number",
+      "value" : "😒 @farazamiruddin no but seriously, tell me the number"
+    } ],
+    "published" : [ "2021-12-02T19:25:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1466488709549674498" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1466488709549674498" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1466488518457266176/pu/vid/720x1280/PvC86ujI3PtFhXDE.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
