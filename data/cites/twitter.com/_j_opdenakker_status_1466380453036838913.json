@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium 🇧🇪" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Opdenakker" ],
+        "nickname" : [ "j_opdenakker" ],
+        "numeric-id" : [ "314855212" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288366227199537153/bP4UKjGS.jpg" ],
+        "published" : [ "2011-06-10T22:42:03+00:00" ],
+        "uid" : [ "tag:twitter.com:j_opdenakker" ],
+        "url" : [ "https://twitter.com/j_opdenakker", "https://johnopdenakker.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why are people from Norway so good at editing files in Linux?\n\nTheir ancestors are vi-kings.</div>",
+      "value" : "Why are people from Norway so good at editing files in Linux?\n\nTheir ancestors are vi-kings."
+    } ],
+    "published" : [ "2021-12-02T12:15:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1466380453036838913" ],
+    "url" : [ "https://twitter.com/j_opdenakker/status/1466380453036838913" ]
+  },
+  "type" : [ "h-entry" ]
+}
