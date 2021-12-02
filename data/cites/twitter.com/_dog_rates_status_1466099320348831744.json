@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "all our links ➜" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "WeRateDogs®" ],
+        "nickname" : [ "dog_rates" ],
+        "numeric-id" : [ "4196983835" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455209595085856769/p7NAmmNn.jpg" ],
+        "published" : [ "2015-11-15T21:41:29+00:00" ],
+        "uid" : [ "tag:twitter.com:dog_rates" ],
+        "url" : [ "https://twitter.com/dog_rates", "http://links.weratedogs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is Teddy. He’s found several clues that indicate there’s a good boy around here somewhere. Maybe you’ve seen him. 14/10" ],
+    "photo" : [ {
+      "alt" : "dachshund dressed as sherlock holmes. he’s giving you side eye like he knows something",
+      "value" : "https://pbs.twimg.com/media/FFihj9DVEAA59tv.jpg"
+    } ],
+    "published" : [ "2021-12-01T17:38:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1466099320348831744" ],
+    "url" : [ "https://twitter.com/dog_rates/status/1466099320348831744" ]
+  },
+  "type" : [ "h-entry" ]
+}
