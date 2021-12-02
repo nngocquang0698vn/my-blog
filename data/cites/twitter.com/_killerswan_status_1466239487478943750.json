@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Cantú" ],
+        "nickname" : [ "killerswan" ],
+        "numeric-id" : [ "14367955" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/202909645/2430137243_0223b18eab_o.jpg" ],
+        "published" : [ "2008-04-12T09:25:23+00:00" ],
+        "uid" : [ "tag:twitter.com:killerswan" ],
+        "url" : [ "https://twitter.com/killerswan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "we live in a world where this exists (anything is possible):\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReinH\"></a>",
+      "value" : "we live in a world where this exists (anything is possible):"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1466235545529438210" ],
+    "photo" : [ "https://pbs.twimg.com/media/FFkhCw1UUAcDh7P.jpg" ],
+    "published" : [ "2021-12-02T02:55:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1466239487478943750" ],
+    "url" : [ "https://twitter.com/killerswan/status/1466239487478943750" ]
+  },
+  "type" : [ "h-entry" ]
+}
