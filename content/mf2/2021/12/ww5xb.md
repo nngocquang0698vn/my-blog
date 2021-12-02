@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dog_rates/status/1466099320348831744" ],
     "name" : [ "Like of @dog_rates's tweet" ],
     "published" : [ "2021-12-02T07:10:00+0000" ],
     "category" : [ "cute" ],
