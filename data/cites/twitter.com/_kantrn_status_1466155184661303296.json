@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area Containment Zone" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Noah Kantrowitz" ],
+        "nickname" : [ "kantrn" ],
+        "numeric-id" : [ "1841791" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1170359603/avatar_original.png" ],
+        "published" : [ "2007-03-22T05:51:31+00:00" ],
+        "uid" : [ "tag:twitter.com:kantrn" ],
+        "url" : [ "https://twitter.com/kantrn", "https://coderanger.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is the kind of shit open-source maintainers and visible community members deal with _constantly_. I spend a lot of my time teaching people about Kubernetes and ops stuff, possibly too much time. But I do it on my terms. Maintainers don't owe you training." ],
+    "photo" : [ {
+      "alt" : "A Slack DM conversation in which an internet rando asks if I'll call him to teach him how Kubernetes CPU limits work.",
+      "value" : "https://pbs.twimg.com/media/FFjTg44VkAEEldt.png"
+    } ],
+    "published" : [ "2021-12-01T21:20:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1466155184661303296" ],
+    "url" : [ "https://twitter.com/kantrn/status/1466155184661303296" ]
+  },
+  "type" : [ "h-entry" ]
+}
