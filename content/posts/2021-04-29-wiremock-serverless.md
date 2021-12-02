@@ -16,9 +16,9 @@ I'm a big fan of using [Wiremock](http://wiremock.org/) for stubbing out HTTP se
 
 I've been looking at running Wiremock as part of an AWS Lambda function to cut down costs when not testing, but have found that the overhead of running the HTTP server inside the Lambda to be a bit more than I'd hoped.
 
-Update 2021-10-21: This article has been amended as from v2.32.2 there is planned to be first-class support for the `DirectCallHttpServer`, which can be found [documented on the official docs site](http://wiremock.org/docs/running-without-http-server/).
+Update 2021-10-21: This article has been amended as from v2.32.0 there is planned to be first-class support for the `DirectCallHttpServer`, which can be found [documented on the official docs site](http://wiremock.org/docs/running-without-http-server/).
 
-# Prior to v2.32.2
+# Prior to v2.32.0
 
 However, today, I managed to find a way to solve this, which has given us the following speed improvements (taken fairly unscientifically on a locally running AWS Lambda):
 
