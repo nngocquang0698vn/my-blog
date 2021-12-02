@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter Hironaka" ],
+        "nickname" : [ "peterhironaka" ],
+        "numeric-id" : [ "72783910" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443718559562014720/iunJ8qEr.jpg" ],
+        "published" : [ "2009-09-09T06:28:09+00:00" ],
+        "uid" : [ "tag:twitter.com:peterhironaka" ],
+        "url" : [ "https://twitter.com/peterhironaka", "https://peterhironaka.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I love this initiative by <a href=\"https://twitter.com/Netlify\">@Netlify</a> - ship a site with an unused domain you've purchased to Netlify this moth and they will donate $150 to charity.\n\n<a href=\"https://dusty.domains/\">dusty.domains</a></div>",
+      "value" : "I love this initiative by @Netlify - ship a site with an unused domain you've purchased to Netlify this moth and they will donate $150 to charity.\n\ndusty.domains"
+    } ],
+    "published" : [ "2021-12-01T19:18:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1466124544914059270" ],
+    "url" : [ "https://twitter.com/peterhironaka/status/1466124544914059270" ]
+  },
+  "type" : [ "h-entry" ]
+}
