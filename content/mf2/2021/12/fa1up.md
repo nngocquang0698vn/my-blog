@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Very excited that we've now got support in <a href=\"/tags/wiremock/\">#Wiremock</a> 2.32.2 to run without the underlying HTTP Server (http://wiremock.org/docs/running-without-http-server/) so you now don't need to use my workaround in https://www.jvt.me/posts/2021/04/29/wiremock-serverless/ 🤓"
+      "value" : "Very excited that we've now got support in <a href=\"/tags/wiremock/\">#Wiremock</a> 2.32.0 to run without the underlying HTTP Server (http://wiremock.org/docs/running-without-http-server/) so you now don't need to use my workaround in https://www.jvt.me/posts/2021/04/29/wiremock-serverless/ 🤓"
     } ]
   },
   "kind" : "notes",
