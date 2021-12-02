@@ -15,7 +15,7 @@ It's becoming [more and more common](https://securityintelligence.com/articles/s
 
 However, by using Free and Open Source tooling, we have the ability to independently verify that a built package is byte-for-byte the exact same between the maintainer's machine and your own.
 
-As authors of libraries, we should be striving to provide this functionality for our consumers, by making sure our build and packaging processes apply [practices shared by the Reproducible Builds community](https://reproducible-builds.org/).
+As authors of libraries, we should be striving to provide this functionality for our consumers, by making sure our build and packaging processes apply [practices shared by the Reproducible Builds community](https://reproducible-builds.org/), and applying the [Supply-chain Levels for software Artifacts best practices](https://slsa.dev/requirements#reproducible).
 
 Gradle has supported this since version 3.4, and [the documentation describes how to set it up](https://docs.gradle.org/7.3/userguide/working_with_files.html#sec:reproducible_archives), which I have echoed below, as well as adding a Kotlin example.
 
