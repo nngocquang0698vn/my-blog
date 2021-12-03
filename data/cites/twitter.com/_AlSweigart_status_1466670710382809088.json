@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Al Sweigart" ],
+        "nickname" : [ "AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323917481216364544/jFfHUEmH.jpg" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Uh... \"Bam?\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/denvercoder\"></a>",
+      "value" : "Uh... \"Bam?\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/denvercoder/status/1466613083242070017" ],
+    "published" : [ "2021-12-03T07:28:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1466670710382809088" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1466670710382809088" ]
+  },
+  "type" : [ "h-entry" ]
+}
