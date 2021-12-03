@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🌏" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "//" ],
+        "nickname" : [ "asynchio" ],
+        "numeric-id" : [ "1648999932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455287354231566337/Lc6cdM7N.jpg" ],
+        "published" : [ "2013-08-06T00:23:53+00:00" ],
+        "uid" : [ "tag:twitter.com:asynchio" ],
+        "url" : [ "https://twitter.com/asynchio", "https://OSS.Capital/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Everything but ⁦<a href=\"https://twitter.com/ForgeRock\">@ForgeRock</a>⁩ 🩸",
+      "value" : "Everything but ⁦@ForgeRock⁩ 🩸"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FFt_npBVgAI0ozX.jpg" ],
+    "published" : [ "2021-12-03T23:05:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1466906431001546758" ],
+    "url" : [ "https://twitter.com/asynchio/status/1466906431001546758" ]
+  },
+  "type" : [ "h-entry" ]
+}
