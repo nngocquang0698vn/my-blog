@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "a rock floating in space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Solomon" ],
+        "nickname" : [ "ed_solomon" ],
+        "numeric-id" : [ "609265351" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/664684575658905601/uVmY2oza.jpg" ],
+        "published" : [ "2012-06-15T16:58:06+00:00" ],
+        "uid" : [ "tag:twitter.com:ed_solomon" ],
+        "url" : [ "https://twitter.com/ed_solomon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Today is both a palindrome and an ambigram. Which means it can be read backwards and forwards as well as upside down. This may be my most useful tweet ever. Good day." ],
+    "photo" : [ "https://pbs.twimg.com/media/FFpN6rMXIA0LjD6.jpg" ],
+    "published" : [ "2021-12-03T00:49:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1466570302792503299" ],
+    "url" : [ "https://twitter.com/ed_solomon/status/1466570302792503299" ]
+  },
+  "type" : [ "h-entry" ]
+}
