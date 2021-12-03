@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman 💉💉" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "http://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Getting ready for <a href=\"https://twitter.com/APIdaysGlobal\">@APIdaysGlobal</a> Paris next week.\n<a href=\"https://hopin.com/events/apidays-live-paris-2021?utm_source=IKnowArnaudLauret&utm_campaign=SpeakerCompetition\">hopin.com/events/apidays…</a></div>",
+      "value" : "Getting ready for @APIdaysGlobal Paris next week.\nhopin.com/events/apidays…"
+    } ],
+    "published" : [ "2021-12-03T14:42:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1466779843589296131" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1466779843589296131" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FFsMfX_XEAUw0lz.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
