@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Penelope is in the worthwhile fight" ],
+        "nickname" : [ "penelope_zone" ],
+        "numeric-id" : [ "44341873" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1245788043275108353/tusv5JYP.jpg" ],
+        "published" : [ "2009-06-03T11:41:30+00:00" ],
+        "uid" : [ "tag:twitter.com:penelope_zone" ],
+        "url" : [ "https://twitter.com/penelope_zone", "https://penelope.zone", "http://rubycentral.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some professional news: I've started a role (still at Stripe) as the Technical Advisor to the CTO" ],
+    "photo" : [ {
+      "alt" : "a screenshot of linkedin showing me starting as the Technical Advisor to the CTO at stripe.",
+      "value" : "https://pbs.twimg.com/media/FFsvIL7X0AIM_op.png"
+    } ],
+    "published" : [ "2021-12-03T17:14:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1466818060199895043" ],
+    "url" : [ "https://twitter.com/penelope_zone/status/1466818060199895043" ]
+  },
+  "type" : [ "h-entry" ]
+}
