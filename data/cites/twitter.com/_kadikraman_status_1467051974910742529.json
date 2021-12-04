@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kadi Kraman 💚" ],
+        "nickname" : [ "kadikraman" ],
+        "numeric-id" : [ "914620160" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333156271969742849/2QmpIlRD.jpg" ],
+        "published" : [ "2012-10-30T13:16:09+00:00" ],
+        "uid" : [ "tag:twitter.com:kadikraman" ],
+        "url" : [ "https://twitter.com/kadikraman", "https://github.com/kadikraman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Things in tech that like to stab you in the back:\n\ne2e tests - oh no a random 3rd party API is down and now no one can merge anything\nmonorepos - spend hours configuring CI/CD\nwrite-only secrets - never know if your env vars are right\nusing *cool new tech* - HAHA have fun hiring</div>",
+      "value" : "Things in tech that like to stab you in the back:\n\ne2e tests - oh no a random 3rd party API is down and now no one can merge anything\nmonorepos - spend hours configuring CI/CD\nwrite-only secrets - never know if your env vars are right\nusing *cool new tech* - HAHA have fun hiring"
+    } ],
+    "published" : [ "2021-12-04T08:43:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1467051974910742529" ],
+    "url" : [ "https://twitter.com/kadikraman/status/1467051974910742529" ]
+  },
+  "type" : [ "h-entry" ]
+}
