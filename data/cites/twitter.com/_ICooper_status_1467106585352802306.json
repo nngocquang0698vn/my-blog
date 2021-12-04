@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Cooper" ],
+        "nickname" : [ "ICooper" ],
+        "numeric-id" : [ "11872932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/807278466668367872/2JWCn6d_.jpg" ],
+        "published" : [ "2008-01-05T12:26:00+00:00" ],
+        "uid" : [ "tag:twitter.com:ICooper" ],
+        "url" : [ "https://twitter.com/ICooper", "https://medium.com/@ICooper" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I am still really a vim dabbler, but should I invest my time in discovering neovim or really learning vim. Don't know enough about neovim to know if vim mastery would benefit both in the long run.\n\n//cc <a href=\"https://twitter.com/ianbattersby\">@ianbattersby</a> ?</div>",
+      "value" : "I am still really a vim dabbler, but should I invest my time in discovering neovim or really learning vim. Don't know enough about neovim to know if vim mastery would benefit both in the long run.\n\n//cc @ianbattersby ?"
+    } ],
+    "published" : [ "2021-12-04T12:20:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1467106585352802306" ],
+    "url" : [ "https://twitter.com/ICooper/status/1467106585352802306" ]
+  },
+  "type" : [ "h-entry" ]
+}
