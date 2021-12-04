@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🔎Julia Evans🔍" ],
+        "nickname" : [ "b0rk" ],
+        "numeric-id" : [ "6603532" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr.jpg" ],
+        "published" : [ "2007-06-05T21:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:b0rk" ],
+        "url" : [ "https://twitter.com/b0rk", "http://jvns.ca", "http://wizardzines.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "did you know that if you put `+noall +answer` into `~/.digrc`, it'll make your dig output easier to read? here's a before/after" ],
+    "photo" : [ "https://pbs.twimg.com/media/FFxZ66KX0AIucgD.jpg", "https://pbs.twimg.com/media/FFxZ7tSWQAcShfx.png" ],
+    "published" : [ "2021-12-04T14:59:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1467146557334118405" ],
+    "url" : [ "https://twitter.com/b0rk/status/1467146557334118405" ]
+  },
+  "type" : [ "h-entry" ]
+}
