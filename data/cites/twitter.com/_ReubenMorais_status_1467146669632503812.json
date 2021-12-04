@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Reuben Morais" ],
+        "nickname" : [ "ReubenMorais" ],
+        "numeric-id" : [ "1273691486186385408" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1351623225931943939/PiJrZIqF.jpg" ],
+        "published" : [ "2020-06-18T18:58:20+00:00" ],
+        "uid" : [ "tag:twitter.com:ReubenMorais" ],
+        "url" : [ "https://twitter.com/ReubenMorais", "https://reub.in" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "it's a whole new paradigm, dysfunctional programming\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ellenkorbes\"></a>",
+      "value" : "it's a whole new paradigm, dysfunctional programming"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ellenkorbes/status/1467144200760266754" ],
+    "published" : [ "2021-12-04T14:59:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1467146669632503812" ],
+    "url" : [ "https://twitter.com/ReubenMorais/status/1467146669632503812" ]
+  },
+  "type" : [ "h-entry" ]
+}
