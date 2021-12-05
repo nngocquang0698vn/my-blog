@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hollywood, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Hollywood Reporter" ],
+        "nickname" : [ "THR" ],
+        "numeric-id" : [ "17446621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/528317230367268865/Po8lHinI.jpeg" ],
+        "published" : [ "2008-11-17T18:10:33+00:00" ],
+        "uid" : [ "tag:twitter.com:THR" ],
+        "url" : [ "https://twitter.com/THR", "http://hollywoodreporter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The first teaser for the <a href=\"https://twitter.com/search?q=%23SpiderVerse\">#SpiderVerse</a> sequel has been released, along with the film's official title. \n\n<a href=\"https://twitter.com/search?q=%23SpiderMan\">#SpiderMan</a>: Across the Spider-Verse (Part One) releases exclusively in theaters Oct. 2022</div>",
+      "value" : "The first teaser for the #SpiderVerse sequel has been released, along with the film's official title. \n\n#SpiderMan: Across the Spider-Verse (Part One) releases exclusively in theaters Oct. 2022"
+    } ],
+    "published" : [ "2021-12-05T01:12:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1467300694872899586" ],
+    "url" : [ "https://twitter.com/THR/status/1467300694872899586" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1467299336732090369/vid/1280x720/jHXWOH2ByP6GpdQ9.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
