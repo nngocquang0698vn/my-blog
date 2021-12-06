@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com", "https://courses.kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All these movies I wanna see that are only in theaters vs. all this Omicron I don’t wanna catch." ],
+    "published" : [ "2021-12-06T19:48:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1467944104189325312" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1467944104189325312" ]
+  },
+  "type" : [ "h-entry" ]
+}
