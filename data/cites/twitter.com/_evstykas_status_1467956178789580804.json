@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Thessaloniki" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vangelis tix Stykas" ],
+        "nickname" : [ "evstykas" ],
+        "numeric-id" : [ "96328771" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3705220476/dcbb66e81a653ecc4010e598f4c79692.jpeg" ],
+        "published" : [ "2009-12-12T11:52:47+00:00" ],
+        "uid" : [ "tag:twitter.com:evstykas" ],
+        "url" : [ "https://twitter.com/evstykas" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "API developers that think passing raw sql as a parameter is a good idea. ITS NOT. It never is. It never was. And it will NEVER BE. On a totally unrelated note, you should also have a daily backup." ],
+    "published" : [ "2021-12-06T20:36:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1467956178789580804" ],
+    "url" : [ "https://twitter.com/evstykas/status/1467956178789580804" ]
+  },
+  "type" : [ "h-entry" ]
+}
