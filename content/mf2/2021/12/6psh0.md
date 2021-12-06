@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kaorrosi/status/1467460424274780160" ],
     "name" : [ "Like of @kaorrosi's tweet" ],
     "published" : [ "2021-12-06T15:30:00+0000" ],
     "category" : [ "art" ],
