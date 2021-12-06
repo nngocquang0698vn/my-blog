@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brisbane, Queensland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Merry Kit-mas!" ],
+        "nickname" : [ "KittenFlower" ],
+        "numeric-id" : [ "40785142" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467107214204702722/ngPNjDvG.jpg" ],
+        "published" : [ "2009-05-18T01:45:08+00:00" ],
+        "uid" : [ "tag:twitter.com:KittenFlower" ],
+        "url" : [ "https://twitter.com/KittenFlower", "http://hippiewithadragon.blogspot.com.au" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Mine says, \"I'm sure your own home is missing you\".\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MeredithAlberta\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/medusas_heid\"></a>",
+      "value" : "Mine says, \"I'm sure your own home is missing you\"."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/medusas_heid/status/1467656124992262156" ],
+    "published" : [ "2021-12-06T01:56:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1467674333497606145" ],
+    "url" : [ "https://twitter.com/KittenFlower/status/1467674333497606145" ]
+  },
+  "type" : [ "h-entry" ]
+}
