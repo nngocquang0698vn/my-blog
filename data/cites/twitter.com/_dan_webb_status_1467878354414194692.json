@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Webb 💉💉" ],
+        "nickname" : [ "dan_webb" ],
+        "numeric-id" : [ "16648892" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384984884993798145/Pqd--OOm.jpg" ],
+        "published" : [ "2008-10-08T13:57:10+00:00" ],
+        "uid" : [ "tag:twitter.com:dan_webb" ],
+        "url" : [ "https://twitter.com/dan_webb", "http://about.me/dan_webb" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hitting all the fancy numbers today. \n\nOpened issu #12345 on chef/chef 🪜\nand open pull request #666 on the Java cookbook 😬</div>",
+      "value" : "Hitting all the fancy numbers today. \n\nOpened issu #12345 on chef/chef 🪜\nand open pull request #666 on the Java cookbook 😬"
+    } ],
+    "published" : [ "2021-12-06T15:27:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1467878354414194692" ],
+    "url" : [ "https://twitter.com/dan_webb/status/1467878354414194692" ]
+  },
+  "type" : [ "h-entry" ]
+}
