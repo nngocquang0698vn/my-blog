@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400161856329822208/GrSz46jH.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I hope u don’t sit like that on a bus\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kvlly\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rhiankatie\"></a>",
+      "value" : "I hope u don’t sit like that on a bus"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kvlly/status/1467910329912995844" ],
+    "published" : [ "2021-12-06T18:29:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1467924181006356484" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1467924181006356484" ]
+  },
+  "type" : [ "h-entry" ]
+}
