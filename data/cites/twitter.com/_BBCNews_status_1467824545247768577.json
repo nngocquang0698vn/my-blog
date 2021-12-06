@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BBC News (UK)" ],
+        "nickname" : [ "BBCNews" ],
+        "numeric-id" : [ "612473" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR.png" ],
+        "published" : [ "2007-01-08T08:05:57+00:00" ],
+        "uid" : [ "tag:twitter.com:BBCNews" ],
+        "url" : [ "https://twitter.com/BBCNews", "http://www.bbc.co.uk/news" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Michael Sheen turns himself into a \"not-for-profit\" actor <a href=\"https://bbc.in/31wIc9p\">bbc.in/31wIc9p</a>",
+      "value" : "Michael Sheen turns himself into a \"not-for-profit\" actor bbc.in/31wIc9p"
+    } ],
+    "published" : [ "2021-12-06T11:53:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1467824545247768577" ],
+    "url" : [ "https://twitter.com/BBCNews/status/1467824545247768577" ]
+  },
+  "type" : [ "h-entry" ]
+}
