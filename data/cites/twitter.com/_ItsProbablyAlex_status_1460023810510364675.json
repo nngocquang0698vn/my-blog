@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rainy Fascist Plague Island" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex" ],
+        "nickname" : [ "ItsProbablyAlex" ],
+        "numeric-id" : [ "739875827056312321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1375394249177436161/fbRAREa1.jpg" ],
+        "published" : [ "2016-06-06T17:45:18+00:00" ],
+        "uid" : [ "tag:twitter.com:ItsProbablyAlex" ],
+        "url" : [ "https://twitter.com/ItsProbablyAlex" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today: \n\n✅ Wrote a backend service\n✅ Used Rust for the first time\n✅ Experimented with Aurora + Data API \n✅ Deployed the entire thing on Lambda\n\nLearned and achieved more in the last 24 hours than the last 5 months combined 😌</div>",
+      "value" : "Today: \n\n✅ Wrote a backend service\n✅ Used Rust for the first time\n✅ Experimented with Aurora + Data API \n✅ Deployed the entire thing on Lambda\n\nLearned and achieved more in the last 24 hours than the last 5 months combined 😌"
+    } ],
+    "published" : [ "2021-11-14T23:16:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1460023810510364675" ],
+    "url" : [ "https://twitter.com/ItsProbablyAlex/status/1460023810510364675" ]
+  },
+  "type" : [ "h-entry" ]
+}
