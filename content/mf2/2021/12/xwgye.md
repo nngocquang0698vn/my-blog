@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vader_vixen/status/1467697385782587395" ],
     "name" : [ "Like of @vader_vixen's tweet" ],
     "published" : [ "2021-12-06T07:36:00+0000" ],
     "like-of" : [ "https://twitter.com/vader_vixen/status/1467697385782587395" ],
