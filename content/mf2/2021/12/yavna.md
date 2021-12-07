@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Robritchie409/status/1468214387831885828" ],
     "name" : [ "Like of @Robritchie409's tweet" ],
     "published" : [ "2021-12-07T15:00:00+0000" ],
     "category" : [ "christmas" ],
