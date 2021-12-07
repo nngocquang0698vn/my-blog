@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Currently trying to decide whether it is better to show a petulant, childish message when someone tries to download a browser that isn't yours, or to just not allow anyone to download a browser that isn't yours at all" ],
+    "published" : [ "2021-12-07T11:19:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1468178354855677957" ],
+    "url" : [ "https://twitter.com/sil/status/1468178354855677957" ]
+  },
+  "type" : [ "h-entry" ]
+}
