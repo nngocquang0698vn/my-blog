@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My vacuum cleaner's API has an endpoint that tells you which AWS region to use, but the endpoint in question is hosted in us-east-1" ],
+    "published" : [ "2021-12-07T18:45:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1468290500666871809" ],
+    "url" : [ "https://twitter.com/mjg59/status/1468290500666871809" ]
+  },
+  "type" : [ "h-entry" ]
+}
