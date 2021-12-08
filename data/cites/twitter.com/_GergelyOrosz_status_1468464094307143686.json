@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://blog.pragmaticengineer.com/", "http://newsletter.pragmaticengineer.com", "http://pragmaticurl.com/books", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If you were impacted by the recent AWS outage, the decision to invest in multi-cloud / multi-datacenter is simple:\n\nHow much did this outage cost you vs the cost of adding a (lot) more complexity &amp; maintenance with multi-cloud/DC?\n\nIf outage cost &gt;&gt; this, only then do it.</div>",
+      "value" : "If you were impacted by the recent AWS outage, the decision to invest in multi-cloud / multi-datacenter is simple:\n\nHow much did this outage cost you vs the cost of adding a (lot) more complexity & maintenance with multi-cloud/DC?\n\nIf outage cost >> this, only then do it."
+    } ],
+    "published" : [ "2021-12-08T06:14:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1468464094307143686" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1468464094307143686" ]
+  },
+  "type" : [ "h-entry" ]
+}
