@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://blog.pragmaticengineer.com/", "http://newsletter.pragmaticengineer.com", "http://pragmaticurl.com/books", "http://pragmaticurl.com/jobs" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Roles overlapping in tech and the intersection you should be beware of..." ],
+      "photo" : [ "https://pbs.twimg.com/media/FGGJkwGWUAg1xLW.jpg" ],
+      "published" : [ "2021-12-08T15:40:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1468606386439344139" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1468606386439344139" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466482122030387201/itCDBhSk.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This diagram explains the different shades of being a very senior software engineer, very concisely. One of the best advice I got was from a mentor who recognized I had to split myself into the TPM role. They immediately saw it and helped me to make changes. Beware!!" ],
+    "published" : [ "2021-12-08T17:27:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1468633244723671040" ],
+    "url" : [ "https://twitter.com/rakyll/status/1468633244723671040" ]
+  },
+  "type" : [ "h-entry" ]
+}
