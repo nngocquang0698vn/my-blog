@@ -1,0 +1,46 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Next.js" ],
+          "nickname" : [ "nextjs" ],
+          "numeric-id" : [ "1467726470533754880" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb.png" ],
+          "published" : [ "2021-12-06T05:24:11+00:00" ],
+          "uid" : [ "tag:twitter.com:nextjs" ],
+          "url" : [ "https://twitter.com/nextjs", "http://nextjs.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "echo 'export default () => 'Hello, Twitter' > pages/index.js" ],
+      "published" : [ "2021-12-07T02:27:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1468044361082580995" ],
+      "url" : [ "https://twitter.com/nextjs/status/1468044361082580995" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Zach Leatherman" ],
+        "nickname" : [ "zachleat" ],
+        "numeric-id" : [ "96383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196791261233111040/iWVjazhO.jpg" ],
+        "published" : [ "2006-12-21T04:49:19+00:00" ],
+        "uid" : [ "tag:twitter.com:zachleat" ],
+        "url" : [ "https://twitter.com/zachleat", "https://www.zachleat.com", "http://11ty.dev", "http://netlify.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this code sample generates 228 kB of clientside JavaScript (72.2 kB compressed) " ],
+    "photo" : [ {
+      "alt" : "Page: /\nSize: 245b\nFirst Load JS: 72.4 kB",
+      "value" : "https://pbs.twimg.com/media/FGDeOYaXMAYxlVd.jpg"
+    } ],
+    "published" : [ "2021-12-08T03:19:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1468419834501337088" ],
+    "url" : [ "https://twitter.com/zachleat/status/1468419834501337088" ]
+  },
+  "type" : [ "h-entry" ]
+}
