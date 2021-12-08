@@ -1,15 +1,16 @@
 ---
 title: "Owning my Hashtags"
-description: "Why I decided to treat hashtags in my (syndicated) content as tags on my site."
-tags:
-- indieweb
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2021-12-08T09:00:26+0000
-slug: "owning-hashtags"
+description: "Why I decided to treat hashtags in my (syndicated) content as tags on\
+  \ my site."
+date: "2021-12-08T09:00:26+0000"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
+- "https://news.indieweb.org/en/www.jvt.me/posts/2021/12/08/owning-hashtags/"
+- "https://indieweb.xyz/en/indieweb"
+tags:
+- "indieweb"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "owning-hashtags"
 ---
 Pre-pandemic, I was attending a lot of in-person meetups. One of the things I'd be doing a lot - like others at the events - is regularly tweeting about the great things the speaker is saying, the discussions of the community, or trying to win a prize!
 
