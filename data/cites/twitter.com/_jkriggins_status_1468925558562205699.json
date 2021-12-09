@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Riggins" ],
+        "nickname" : [ "jkriggins" ],
+        "numeric-id" : [ "16789906" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1110871263399104512/7IthTdkv.jpg" ],
+        "published" : [ "2008-10-15T19:38:28+00:00" ],
+        "uid" : [ "tag:twitter.com:jkriggins" ],
+        "url" : [ "https://twitter.com/jkriggins", "http://linkedin.com/in/jkriggins" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "When I’m <a href=\"https://twitter.com/search?q=%23WFH\">#WFH</a> but hosting an event, I go posh af for the food I make myself. For my second day at <a href=\"https://twitter.com/search?q=%23APIdays\">#APIdays</a>, I made scallops with truffle tortellini. 😋",
+      "value" : "When I’m #WFH but hosting an event, I go posh af for the food I make myself. For my second day at #APIdays, I made scallops with truffle tortellini. 😋"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FGKsAfsWQAUiVDK.jpg" ],
+    "published" : [ "2021-12-09T12:48:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1468925558562205699" ],
+    "url" : [ "https://twitter.com/jkriggins/status/1468925558562205699" ]
+  },
+  "type" : [ "h-entry" ]
+}
