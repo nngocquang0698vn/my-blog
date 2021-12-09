@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Astoria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Atom Atkinson" ],
+        "nickname" : [ "AtomAtkinson" ],
+        "numeric-id" : [ "53698983" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1164258532969127936/RQEL8-A3.jpg" ],
+        "published" : [ "2009-07-04T16:05:23+00:00" ],
+        "uid" : [ "tag:twitter.com:AtomAtkinson" ],
+        "url" : [ "https://twitter.com/AtomAtkinson", "http://linktr.ee/atomatkinson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I am begging you to read this engagement announcement from my parents’ local paper" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Arnold, PA" ],
+        "uid" : [ "tag:twitter.com:8cae71c5e622524a" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FGI4-VlWYAcLmk6.jpg" ],
+    "published" : [ "2021-12-09T04:26:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1468799076242182144" ],
+    "url" : [ "https://twitter.com/AtomAtkinson/status/1468799076242182144" ]
+  },
+  "type" : [ "h-entry" ]
+}
