@@ -15,7 +15,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-13-lazy-rubocop
 ---
-{{< partialCached "posts/chef-13/intro.html" >}}
+<blockquote>As part of an <a href="/posts/2018/03/06/chef-13-upgrades/">upgrade from Chef 12 to Chef 13</a>, this is one of the posts in which I've been <a href="/tags/chef-13-upgrade">detailing the issues I've encountered, and how I've resolved them </a>.</blockquote>
 
 When running Rubocop from ChefDK 2 against the following code, we receive the error `Parenthesize the param lazy { ... } to make sure that the block will be associated with the lazy method call` twice:
 

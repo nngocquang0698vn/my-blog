@@ -15,7 +15,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-13-knife-cookbook-doc-rubocop
 ---
-{{< partialCached "posts/chef-13/intro.html" >}}
+<blockquote>As part of an <a href="/posts/2018/03/06/chef-13-upgrades/">upgrade from Chef 12 to Chef 13</a>, this is one of the posts in which I've been <a href="/tags/chef-13-upgrade">detailing the issues I've encountered, and how I've resolved them </a>.</blockquote>
 
 As mentioned in ['Chef 13 Upgrade: `knife-cookbook-doc` gem upgrade'][chef-13-knife-cookbook-doc] I use the [`knife-cookbook-doc`][knife-cookbook-doc] gem to autogenerate my cookbook documentation, with formatting of the formats:
 

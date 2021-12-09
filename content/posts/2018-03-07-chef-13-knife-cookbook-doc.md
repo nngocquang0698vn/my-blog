@@ -14,7 +14,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: chef-13-knife-cookbook-doc
 ---
-{{< partialCached "posts/chef-13/intro.html" >}}
+<blockquote>As part of an <a href="/posts/2018/03/06/chef-13-upgrades/">upgrade from Chef 12 to Chef 13</a>, this is one of the posts in which I've been <a href="/tags/chef-13-upgrade">detailing the issues I've encountered, and how I've resolved them </a>.</blockquote>
 
 I use the gem [`knife-cookbook-doc`][knife-cookbook-doc] to autogenerate documentation from my Chef cookbooks. It allows me to ensure that documentation is kept right next to source files, which promotes changing of documentation at the same time as code, as well as make it easier to keep updated as it's a task that can be automated.
 
