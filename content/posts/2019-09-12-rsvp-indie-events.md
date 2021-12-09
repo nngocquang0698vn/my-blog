@@ -12,9 +12,9 @@ date: 2019-09-12T23:21:42+0100
 slug: "rsvp-indie-events"
 image: /img/vendor/micropub-rocks-icon.png
 ---
-Although I recently added [Micropub support to www.jvt.me]({{< ref "2019-08-26-setting-up-micropub" >}}), I realised a couple of days ago that I didn't actually support RSVPing to Indie Events!
+Although I recently added [Micropub support to www.jvt.me](/posts/2019/08/26/setting-up-micropub/), I realised a couple of days ago that I didn't actually support RSVPing to Indie Events!
 
-When I first set this up, I only supported Meetup.com, through integration with [meetup-mf2]({{< ref "2019-08-31-microformats-meetup" >}}), but with this post I'm now able to RSVP to all the other events I want to!
+When I first set this up, I only supported Meetup.com, through integration with [meetup-mf2](/posts/2019/08/31/microformats-meetup/), but with this post I'm now able to RSVP to all the other events I want to!
 
 I decided to outsource my parsing of these events to [php.microformats.io](https://php.microformats.io) so I didn't have to write my own Microformats parser.
 

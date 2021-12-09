@@ -14,7 +14,7 @@ date: 2019-11-23T19:58:07+0000
 slug: "minify-json-python"
 series: nablopomo-2019
 ---
-Yesterday I wrote about [_Minifying JSON Ruby_]({{< ref "2019-11-22-minify-json-ruby" >}}), but today let's talk about using Python instead.
+Yesterday I wrote about [_Minifying JSON Ruby_](/posts/2019/11/22/minify-json-ruby/), but today let's talk about using Python instead.
 
 Let's say that we have a nicely pretty-printed JSON file, such as:
 

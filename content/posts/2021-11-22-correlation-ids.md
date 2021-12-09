@@ -22,7 +22,7 @@ This ID is commonly referred to as a "tracking ID", "tracing ID", "request ID", 
 
 This ID is something I've seen generally made a required header in the service's contract, ensuring that these are definitely being sent, but it's also possible to not enforce it, and generate a fresh one if it's not already being sent to you in a valid format, so you at least have something to diagnose from your side, even if you can't piece it together with the client's view.
 
-A benefit of this pattern, as well, is that it can make [component or system testing much easier]({{< ref 2021-06-01-better-wiremock-stubbing >}}), as you know that a specific ID is going to be used and can therefore set up expectations more easily.
+A benefit of this pattern, as well, is that it can make [component or system testing much easier](/posts/2021/06/01/better-wiremock-stubbing/), as you know that a specific ID is going to be used and can therefore set up expectations more easily.
 
 You may come up with clients who don't want to perform the work to start sending this header, such as a client we had that was sending it, but it was static and they didn't have the time to prioritise to resolve it. When I explained that each issue that was related to their integration would take _at least_ 2-3 times longer to resolve (and be very costly to everyone involved) - if we even could track things down - they realised that actually they should really be amending their configuration.
 
@@ -62,7 +62,7 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
 }
 ```
 
-If you were using [a structured logging format]({{< ref 2021-05-31-spring-boot-structured-logging >}})), you'd have a log outputted such as:
+If you were using [a structured logging format](/posts/2021/05/31/spring-boot-structured-logging/)), you'd have a log outputted such as:
 
 ```json
 {

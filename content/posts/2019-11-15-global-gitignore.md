@@ -19,7 +19,7 @@ For quite some time, my Git config has had the following entry:
 	excludesfile = /home/jamie/.gitignore_global
 ```
 
-This allows me to globally set patterns that I don't want to see anywhere, ever, such as [my git worktrees]({{< ref "2019-01-29-git-worktree-multiple-branches" >}}).
+This allows me to globally set patterns that I don't want to see anywhere, ever, such as [my git worktrees](/posts/2019/01/29/git-worktree-multiple-branches/).
 
 But it turns out that Git actually has a default location for your `gitignore`s, located in `~/.config/git/ignore`, which means you don't even need that configuration to be set!
 

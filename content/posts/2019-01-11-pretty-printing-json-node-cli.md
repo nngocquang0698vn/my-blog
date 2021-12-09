@@ -13,9 +13,9 @@ slug: "pretty-printing-json-node-cli"
 series: pretty-print-json
 image: /img/vendor/nodejs.png
 ---
-I've previously written about [using Python to pretty print JSON]({{< ref 2017-06-05-pretty-printing-json-cli >}}) and [an alternative using Ruby]({{< ref 2018-06-18-pretty-printing-json-ruby-cli >}}), but another I've not yet spoke about is using Node.JS.
+I've previously written about [using Python to pretty print JSON](/posts/2017/06/05/pretty-printing-json-cli/) and [an alternative using Ruby](/posts/2018/06/18/pretty-printing-json-ruby-cli/), but another I've not yet spoke about is using Node.JS.
 
-As we saw in [Converting X.509 and PKCS#8 `.pem` file to a JWKS (in Node.JS)]({{< ref 2019-01-10-x509-pkcs8-pem-key-to-jwks-node >}}), we can use `JSON.stringify` with an argument to denote how to pretty-print the JSON:
+As we saw in [Converting X.509 and PKCS#8 `.pem` file to a JWKS (in Node.JS)](/posts/2019/01/10/x509-pkcs8-pem-key-to-jwks-node/), we can use `JSON.stringify` with an argument to denote how to pretty-print the JSON:
 
 ```js
 const json = {

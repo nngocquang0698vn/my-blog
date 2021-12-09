@@ -11,7 +11,7 @@ date: 2020-11-04T11:44:42+0000
 slug: "gradle-list-all-plugin-dependencies"
 image: https://media.jvt.me/c25b297eaa.png
 ---
-Similarly to [_Configure Gradle to Allow Listing All Subproject Dependencies_]({{< ref 2020-07-27-gradle-list-all-dependencies >}}), it can be useful to find out the dependencies that are in use by your Gradle plugins.
+Similarly to [_Configure Gradle to Allow Listing All Subproject Dependencies_](/posts/2020/07/27/gradle-list-all-dependencies/), it can be useful to find out the dependencies that are in use by your Gradle plugins.
 
 Fortunately, there is the [`buildEnvironment` Gradle task](https://solidsoft.wordpress.com/2016/06/07/gradle-tricks-display-buildscript-dependencies/) that allows us to list the project's buildscript dependencies (output trimmed for brevity):
 

@@ -32,7 +32,7 @@ We'll use an example of building a REST(ful) API that has an endpoint `/apis`, w
 
 The below code snippets are taken from the example project, which is available [on GitLab](https://gitlab.com/jamietanna/spring-boot-controller-tdd).
 
-Before we start, we'll assume that you've got a [Spring Integration Test for validating your context is configured correctly]({{< ref 2021-06-25-spring-context-test >}}), for instance with a test class called `ApplicationIntegrationTest`.
+Before we start, we'll assume that you've got a [Spring Integration Test for validating your context is configured correctly](/posts/2021/06/25/spring-context-test/), for instance with a test class called `ApplicationIntegrationTest`.
 
 # Unit Test
 
@@ -283,7 +283,7 @@ This gives us enough to get the build passing, and then we're not implementing t
 
 Next, we'd go on to implement the service fully, managing the logic for the slice, perhaps with a `NoopApiRepository`.
 
-We could also start to test drive in validation of the incoming request's contract, for instance requiring a [tracking ID]({{< ref 2021-11-22-correlation-ids >}}).
+We could also start to test drive in validation of the incoming request's contract, for instance requiring a [tracking ID](/posts/2021/11/22/correlation-ids/).
 
 # Conclusion
 

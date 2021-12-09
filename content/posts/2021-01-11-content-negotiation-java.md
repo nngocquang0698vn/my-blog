@@ -10,7 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-11T15:52:01+0000
 slug: "content-negotiation-java"
 ---
-In [Why I Consistently Reach for Server-Driven Content Negotiation (For Versioning)]({{< ref 2021-01-05-why-content-negotiation >}}), I spoke about how useful server-driven content-negotiation can be for versioning or for multiple representations of data for your RESTful APIs.
+In [Why I Consistently Reach for Server-Driven Content Negotiation (For Versioning)](/posts/2021/01/05/why-content-negotiation/), I spoke about how useful server-driven content-negotiation can be for versioning or for multiple representations of data for your RESTful APIs.
 
 But if you're building serverless projects, or projects without a heavy web layer, it may be quite difficult for you to do this, as you need to hand-roll it.
 

@@ -207,7 +207,7 @@ If we were to use the above diff example, we'd end up with quite a few lines sho
              }
 ```
 
-So instead, I'd recommend reaching for something that can sort the JSON documents to make it a bit easier semantically, such as [this JSON script I've written]({{< ref 2020-08-24-sort-recursive-hash-ruby >}}) (as an aside, this is based on the fact that JSON keys should not be order-dependent - if yours are, you'll not have a great time).
+So instead, I'd recommend reaching for something that can sort the JSON documents to make it a bit easier semantically, such as [this JSON script I've written](/posts/2020/08/24/sort-recursive-hash-ruby/) (as an aside, this is based on the fact that JSON keys should not be order-dependent - if yours are, you'll not have a great time).
 
 This means that we can run the following:
 

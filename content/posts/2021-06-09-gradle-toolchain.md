@@ -14,7 +14,7 @@ When working with Java projects, you may end up working across multiple JDKs. It
 
 It can be annoying to constantly change your `JAVA_HOME`, and doesn't work when you may need multiple JDKs in a single project.
 
-Similar to the [Maven Toolchains Plugin]({{< ref 2020-08-24-maven-toolchains >}}), [from Gradle 6.7](https://blog.gradle.org/java-toolchains) there is toolchains support.
+Similar to the [Maven Toolchains Plugin](/posts/2020/08/24/maven-toolchains/), [from Gradle 6.7](https://blog.gradle.org/java-toolchains) there is toolchains support.
 
 This allows you, in your `build.gradle` to add:
 

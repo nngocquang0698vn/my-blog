@@ -67,7 +67,7 @@ You don't need to go this far, but once you start owning some of your data, you 
 
 I'm a backend developer - I work on APIs and their interactions, and am largely happy with that. I know I'm not the best at design and creating user interfaces, but I'm OK with that.
 
-But with this website, I'm able to try out new things, rather than it being on client sites, or on a random new site. I've written bits of front-end JavaScript, I've learned about new [HTML elements like &lt;details&gt;]({{< ref "2019-05-19-html-toggle" >}}) and have looked at some accessibility aspects.
+But with this website, I'm able to try out new things, rather than it being on client sites, or on a random new site. I've written bits of front-end JavaScript, I've learned about new [HTML elements like &lt;details&gt;](/posts/2019/05/19/html-toggle/) and have looked at some accessibility aspects.
 
 This website is without a doubt my largest side project, and a lot of it is trying out new things with the way this renders to a user, rather than just the code that makes it up. That's pretty cool, and it's a nice mix of a sandbox and a real live project.
 
@@ -93,7 +93,7 @@ I know a number of people who blog as a way to express themselves, for expressio
 
 # To improve understanding, or to become a Subject Matter Expert
 
-Those that follow this site and my ramblings will know that I [blog as a form of documentation, aka blogumentation]({{< ref "2017-06-25-blogumentation" >}}). This is a much easier place to remember to go back to rather than thinking "oh, was that post on LinkedIn or Medium?", as well as owning all the posts myself.
+Those that follow this site and my ramblings will know that I [blog as a form of documentation, aka blogumentation](/posts/2017/06/25/blogumentation/). This is a much easier place to remember to go back to rather than thinking "oh, was that post on LinkedIn or Medium?", as well as owning all the posts myself.
 
 I've found it incredibly helpful to blog about what I'm doing - I am regularly told by colleagues that they're searching for something and end up on my site which resolves their problem, as well as having between 600-800 weekly views from organic search traffic, showing that other people want what I've written about.
 

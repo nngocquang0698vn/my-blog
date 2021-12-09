@@ -95,4 +95,4 @@ EDIT: However, as found [the other day](https://gitlab.com/jamietanna/jvt.me/iss
 
 `.Render` looks up [Content Views](https://gohugo.io/templates/views) for the same output format that it's currently rendering. So when I set i.e. my RSS feed to `.Render "content"` it was actually looking up `content.xml`, which didn't exist, as it's `content.html`! The workaround I've now employed is to have a partial that stores the HTML rendering of the page, and can then be called from JSON Feed, HTML or RSS to save on duplication.
 
-Fortunately this didn't break my [h-feed]({{< ref 2019-05-12-implementing-hfeed-making-content-discoverable >}}) - maybe we should be using these instead of JSON Feed/RSS, eh?
+Fortunately this didn't break my [h-feed](/posts/2019/05/12/implementing-hfeed-making-content-discoverable/) - maybe we should be using these instead of JSON Feed/RSS, eh?

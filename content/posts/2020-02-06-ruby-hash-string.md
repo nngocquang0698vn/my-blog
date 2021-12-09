@@ -25,7 +25,7 @@ puts hash_sym.to_s
 # {:key=>[1, 2, 3]}
 ```
 
-But this won't quite work for folks that want to have a format that can be used in i.e. other languages or tools. For this, I would recommend [pretty-printing it as JSON]({{< ref 2018-06-18-pretty-printing-json-ruby-cli >}}):
+But this won't quite work for folks that want to have a format that can be used in i.e. other languages or tools. For this, I would recommend [pretty-printing it as JSON](/posts/2018/06/18/pretty-printing-json-ruby-cli/):
 
 ```ruby
 require 'json'

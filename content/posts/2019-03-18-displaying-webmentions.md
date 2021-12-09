@@ -33,7 +33,7 @@ Note that, for now, I'll only be sharing links to other webmentions, rather than
 I've also added the ability to send a Webmention via an HTML form, in case you don't yet support automagically sending them.
 
 [Webmention]: https://indieweb.org/webmention
-[hwc]: {{< ref 2019-03-14-homebrew-website-club-nottingham >}}
-[microservices]: {{< ref 2018-12-23-microservices-static-site >}}
+[hwc]: /posts/2019/03/14/homebrew-website-club-nottingham/
+[microservices]: /posts/2018/12/23/microservices-static-site/
 [facepile]: https://indieweb.org/facepile
 [indie-what]: https://www.meetup.com/NottsJS/events/qhnpfqyzcblb/

@@ -12,7 +12,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-12T16:23:18+0000
 slug: "generate-jwk-ruby"
 ---
-Sometimes you need to generate a new JWK, and [converting an existing key]({{< ref 2020-12-12-x509-pkcs8-pem-key-to-jwks-ruby>}}) isn't quite what you want.
+Sometimes you need to generate a new JWK, and [converting an existing key](/posts/2020/12/12/x509-pkcs8-pem-key-to-jwks-ruby/) isn't quite what you want.
 
 We can use the [ruby-jose](https://github.com/potatosalad/ruby-jose) library to do this via its handy `generate_key` method, which provides us a JWKS when invoking the script:
 

@@ -12,7 +12,7 @@ date: 2019-08-16T15:20:35+01:00
 slug: "cucumber-json-failed-scenarios"
 image: /img/vendor/cucumber.png
 ---
-Every so often, I have to deal with failing Cucumber tests. And even with [the best visualisations (as per my article _Prettier HTML Reports for Cucumber-JVM_)]({{< ref "2019-04-07-prettier-cucumber-jvm-html-reports" >}}), it can still be a pain to pick through the reporting to work out what's failing, and why.
+Every so often, I have to deal with failing Cucumber tests. And even with [the best visualisations (as per my article _Prettier HTML Reports for Cucumber-JVM_)](/posts/2019/04/07/prettier-cucumber-jvm-html-reports/), it can still be a pain to pick through the reporting to work out what's failing, and why.
 
 So I decided instead I would script the parsing of the Cucumber JSON report, which can help me more easily determine what's wrong.
 

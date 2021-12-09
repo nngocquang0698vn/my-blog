@@ -64,7 +64,7 @@ So what happens if your culture breeds these occurrences of tool shaming?
 
 James also brought up the fact that at the end of the day, your clients or your Product Owner, won't care whether you use Emacs or Vim, they just care whether you're delivering what they're paying you for!
 
-I'd recommend [Alex Stanhope's talk _Fighting toxic working environments_ from DevOpsDays London 2019]({{< ref "2019-10-12-devopsdays-london-2019" >}}#fighting-toxic-working-environments) where he talks about what it's like trying to get out of a toxic work environment, and that'll also help convince you that you really shouldn't make it one.
+I'd recommend [Alex Stanhope's talk _Fighting toxic working environments_ from DevOpsDays London 2019](/posts/2019/10/12/devopsdays-london-2019/#fighting-toxic-working-environments) where he talks about what it's like trying to get out of a toxic work environment, and that'll also help convince you that you really shouldn't make it one.
 
 Technology and Software Engineering is now so much more diverse than it used to be - not just gender identity or race, but whether you have formal education, as well as neurodiversity, and even to the job role. We have so many different lovely people who are now involved in what it means "to be in tech", that we need to make sure we're not actively shunning them by being dogmatic or horrible people.
 

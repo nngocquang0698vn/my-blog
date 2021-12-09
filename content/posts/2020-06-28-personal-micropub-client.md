@@ -17,13 +17,13 @@ syndication:
 ---
 # Why?
 
-I've been using the open standard [Micropub](https://www.w3.org/TR/micropub/) for publishing to my site for [almost a year]({{< ref 2019-08-26-setting-up-micropub >}}).
+I've been using the open standard [Micropub](https://www.w3.org/TR/micropub/) for publishing to my site for [almost a year](/posts/2019/08/26/setting-up-micropub/).
 
 Because it's an open standard, there are [loads of great Micropub clients](https://indieweb.org/Micropub/Clients) that can be used to publish content, so up until now I've been using them.
 
 However, there are certain requests that are very specific to my site and my workflow that don't make sense to general-purpose Micropub clients, or that aren't as widespread as to need support. This means that if I want to create these posts, then I need to perform a manual `curl`, which although possible, isn't as helpful when I'm i.e. on mobile.
 
-Since I [set up a staging Micropub server last year]({{< ref 2019-12-26-micropub-staging-server >}}), I've been using it as a great way to preview posts before it goes to production, which especially helps when I'm trying something new and want to make sure it'll render correctly.
+Since I [set up a staging Micropub server last year](/posts/2019/12/26/micropub-staging-server/), I've been using it as a great way to preview posts before it goes to production, which especially helps when I'm trying something new and want to make sure it'll render correctly.
 
 However, when I want to test these out, I need to trawl back and find a previously created access token, or get a new one.
 
@@ -62,4 +62,4 @@ I already have a number of future improvements to make which are [labelled on my
 
 ~~The most important of these feature requests that I'm looking at implementing is [_Autoconfigure Micropub based on supported properties_](https://gitlab.com/jamietanna/www-api/-/issues/218), which would allow my client to automagically render forms for all the content that my Micropub server supports!~~
 
-Update: I've [now added this support]({{< ref 2020-10-15-micropub-client-autoconfigure >}}).
+Update: I've [now added this support](/posts/2020/10/15/micropub-client-autoconfigure/).

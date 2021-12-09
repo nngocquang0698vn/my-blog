@@ -22,7 +22,7 @@ At the end of June, there was a survey done of engineering teams in Capital One,
 
 As part of this, over the next quarter, the team wrote a series of blog posts and did a talk about what our "Secret Sauce" was, and I wanted to share in my own words what we did as a team to make it great. I'm sad the blog posts themselves couldn't be shared, as it was a really awesome set of posts, with each member contributing to sections, so you had the voice of the whole team, and some fun panda facts.
 
-[Leaving the Purple Pandas]({{< ref 2021-08-19-joining-cabinet-office >}}) was hard, and I want to be able to share some insight into why it was such a great team, and what worked for us so well.
+[Leaving the Purple Pandas](/posts/2021/08/19/joining-cabinet-office/) was hard, and I want to be able to share some insight into why it was such a great team, and what worked for us so well.
 
 (Below are not only my efforts - my manager Shama, our Technical Programme Manager Nic, and the team did input a lot too - but there's a lot that I'm proud of in here and want to shout about)
 
@@ -79,7 +79,7 @@ I have a number of resources, but I'd primarily recommend:
 - [Why do I care?](https://medium.com/@skpodila/why-do-i-care-c2ef43a25837)
 - [heyguys.cc](https://heyguys.cc/)
 
-It's also worth a read of [Context is key: thinking about your audience]({{< ref 2018-08-16-context-is-king >}}), a post I wrote a few years ago, which is also really important - being able to communicate correctly to the stakeholders in the (virtual) room is important, and even though you may be using the most technically correct language, it's very likely to cause members in the room to be excluded / need to seek clarification. Being able to clearly explain a concept so everyone understands is such an important skill, especially as engineers!
+It's also worth a read of [Context is key: thinking about your audience](/posts/2018/08/16/context-is-king/), a post I wrote a few years ago, which is also really important - being able to communicate correctly to the stakeholders in the (virtual) room is important, and even though you may be using the most technically correct language, it's very likely to cause members in the room to be excluded / need to seek clarification. Being able to clearly explain a concept so everyone understands is such an important skill, especially as engineers!
 
 # A consistent and Evolving "Ways of Working"
 
@@ -95,7 +95,7 @@ These, being a public page, meant that not only would be it usable in team, but 
 
 Over the first couple of sprints, we actually put them into action, and found there were tweaks we naturally needed to make, and after a couple of quarters using them, they were fairly different to where they'd started. The team's changing focus, mixing of workstreams, and a few new folks in the team meant that we'd amended them to better fit the team.
 
-The technical ways of working did change, too - largely because I'd originally written things that weren't very clear and needed more examples of what we needed to do, such as [appropriately testing time with Java]({{< ref 2021-03-08-java-test-time >}}). These tweaks came out of us actually having conversations in code review where we could validate whether the practices we said we'd follow actually made sense, and gave us some good conversations.
+The technical ways of working did change, too - largely because I'd originally written things that weren't very clear and needed more examples of what we needed to do, such as [appropriately testing time with Java](/posts/2021/03/08/java-test-time/). These tweaks came out of us actually having conversations in code review where we could validate whether the practices we said we'd follow actually made sense, and gave us some good conversations.
 
 The whole point of your team's ways of working is that it evolves, and doesn't stay static over the years. Chances are if they do, it's that you're probably not having a mix of people join/leave the team, or getting diverse viewpoints which can help improve the way that you all think about things, and tweak the way you approach things.
 
@@ -157,7 +157,7 @@ My previous team had also been doing this with a "coffee chat" twice a day, whic
 
 As a large team of 10-12, we decided to not mandate pair programming, instead focussing it around times where we knew that we'd be able to get good learning opportunities. This came out of experience from being at both sides of the extreme, and wanted to make it something that people could be empowered to ask for, but not feel like they would have to by default.
 
-For instance, implementing a new means for [testing JSON (de)serialisation]({{< ref 2021-06-02-testing-json-spring-boot >}}) was something we'd pair on for new learnings, but there were BAU tasks that wouldn't make sense for multiple peoples' time to be used on it.
+For instance, implementing a new means for [testing JSON (de)serialisation](/posts/2021/06/02/testing-json-spring-boot/) was something we'd pair on for new learnings, but there were BAU tasks that wouldn't make sense for multiple peoples' time to be used on it.
 
 Although there were often enough stories for everyone to be busy, there would be times that support would be needed for the work currently happening - whether that was a second/third opinion or another person to help debug the thing. Being in a team where we know the benefits that getting that support to unblock you is really important, there would generally be someone willing to park what they're doing to support.
 
@@ -219,7 +219,7 @@ Something I really liked at Capital One was that we had a dedicated time for sel
 
 During this time, it was generally free for the team to organise how they wanted to do it - with some days being spent pairing, but generally being self-directed.
 
-We've spent it on a number of improvements, such as writing [assertion helpers]({{< ref 2021-11-04-assertion-helpers >}}) for our libraries for better experience, looking at how to [use structured logging for Spring Boot services]({{< ref 2021-05-31-spring-boot-structured-logging >}}), the initial work for upgrading services to Java 11, and some folks even used the time for Open Source contributions.
+We've spent it on a number of improvements, such as writing [assertion helpers](/posts/2021/11/04/assertion-helpers/) for our libraries for better experience, looking at how to [use structured logging for Spring Boot services](/posts/2021/05/31/spring-boot-structured-logging/), the initial work for upgrading services to Java 11, and some folks even used the time for Open Source contributions.
 
 It was a great chance to invest in working on things that were interesting to you, and may not necessarily make it into sprint delivery quite yet. We built a lot of interesting things and it definitely helped give folks a chance to invest in different opportunities to sprint work.
 
@@ -227,9 +227,9 @@ It was a great chance to invest in working on things that were interesting to yo
 
 Something we didn't get around to trying, but that one of my old teams started doing, was a Maintenance Day.
 
-Some engineers would use their 10% time to get on top of updates to services to i.e. make sure we were on the latest Gradle versions, or using [better dependency management]({{< ref 2021-08-28-java-bom >}}), it was noted that we needed to have an extra day allocated to keeping on top of things. Whereas in my team we only had 3 services, this team had more than 10, and a number of libraries, so the maintenance burden was higher.
+Some engineers would use their 10% time to get on top of updates to services to i.e. make sure we were on the latest Gradle versions, or using [better dependency management](/posts/2021/08/28/java-bom/), it was noted that we needed to have an extra day allocated to keeping on top of things. Whereas in my team we only had 3 services, this team had more than 10, and a number of libraries, so the maintenance burden was higher.
 
-I've heard some really good stuff out of it, and think that we would've wanted to adopt something similar as the maintenance load increased, even with [Whitesource Renovate]({{< ref 2021-09-26-whitesource-renovate-tips >}}) making some of the version bumps easier.
+I've heard some really good stuff out of it, and think that we would've wanted to adopt something similar as the maintenance load increased, even with [Whitesource Renovate](/posts/2021/09/26/whitesource-renovate-tips/) making some of the version bumps easier.
 
 # Team calendar
 
@@ -268,7 +268,7 @@ With Slack being such a prevalent form for our communication, especially while i
 
 I was reading [Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams) the other day, and it struck me that [Learned Helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) is something I've fought before, and it's great to have terminology for this.
 
-In the Purple Pandas, we would be happy to get stuck into things to try and reduce these, such as [Improving Team Efficiency By Measuring and Improving Code Review Cycle Time]({{< ref 2021-10-27-measure-code-review >}}).
+In the Purple Pandas, we would be happy to get stuck into things to try and reduce these, such as [Improving Team Efficiency By Measuring and Improving Code Review Cycle Time](/posts/2021/10/27/measure-code-review/).
 
 It makes a lot of difference to a team being empowered to be able to solve problems that are hampering their development, or in cases that it's not possible to completely solve it, take actions that can make it less of a roadblock.
 

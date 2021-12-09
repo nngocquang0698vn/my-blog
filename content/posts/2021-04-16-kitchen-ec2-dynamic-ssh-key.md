@@ -15,7 +15,7 @@ image: /img/vendor/chef-logo.png
 ---
 As I've mentioned recently, I'm working on rebuilding our Chef pipelines at work.
 
-Although I'm a huge fan of [unit testing cookbooks using ChefSpec]({{< ref 2018-09-04-tdd-chef-cookbooks-chefspec-inspec >}}), there's also a really important place for integration tests. As AWS is the target for our cookbooks, we need to validate against an EC2 to confirm that our cookbook actually works for real-world solutions.
+Although I'm a huge fan of [unit testing cookbooks using ChefSpec](/posts/2018/09/04/tdd-chef-cookbooks-chefspec-inspec/), there's also a really important place for integration tests. As AWS is the target for our cookbooks, we need to validate against an EC2 to confirm that our cookbook actually works for real-world solutions.
 
 When interacting with AWS from Test Kitchen using [kitchen-ec2](https://github.com/test-kitchen/kitchen-ec2/), we need to be able to SSH into the instance so we can set up the instance, and then execute the cookbook.
 

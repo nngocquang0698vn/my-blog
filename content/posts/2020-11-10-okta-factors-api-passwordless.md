@@ -14,7 +14,7 @@ image: https://media.jvt.me/75dad40d86.png
 ---
 This last week I've been setting up my own [IndieAuth server](https://indieauth.spec.indieweb.org/), which I've been thinking about doing for some time.
 
-The key thing I wanted to do was streamline my authentication flow, as if I build a server just for me, I can make it work with my own constraints. On my [staging site]({{< ref 2019-12-26-micropub-staging-server >}}), which I use a lot for testing, I only have email one time passcodes set up, which slows me down more than a regular OAuth2 login.
+The key thing I wanted to do was streamline my authentication flow, as if I build a server just for me, I can make it work with my own constraints. On my [staging site](/posts/2019/12/26/micropub-staging-server/), which I use a lot for testing, I only have email one time passcodes set up, which slows me down more than a regular OAuth2 login.
 
 <span class="h-card"><a class="u-url p-name" href="https://aaronparecki.com">Aaron Parecki</a></span> [wrote about setting up Passwordless authentication on his website](https://aaronparecki.com/2017/10/04/23/passwordless-logins) and since reading it, I was like, yep, I need to implement it.
 

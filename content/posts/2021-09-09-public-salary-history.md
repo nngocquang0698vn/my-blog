@@ -11,7 +11,7 @@ license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "public-salary-history"
 ---
-With [my recent job hunt]({{< ref 2021-08-19-joining-cabinet-office >}}), and quite a few friends and colleagues looking at the job market, I've been keeping an eye on what the going rate for Software Engineering roles are.
+With [my recent job hunt](/posts/2021/08/19/joining-cabinet-office/), and quite a few friends and colleagues looking at the job market, I've been keeping an eye on what the going rate for Software Engineering roles are.
 
 Knowing what you're currently paid is one thing, but knowing what others are being paid for the same / less work, is even more important. It's very important to know if you're being correctly compensated compared to your colleagues, so you can demand the compensation you're owed. Although you can be really happy with the compensation you're getting, finding out that someone sitting next to you earns double, for the same work, is incredibly demoralising.
 

@@ -71,7 +71,7 @@ Where `jwks_uri` is a URI for a given JWKS endpoint, such as `https://jamietanna
 }
 ```
 
-(Aside: if you're interested in what the certs look like, check out [_Extracting `x5c`s from a JSON Web Key Set (JWKS) to PEM files with Ruby_]({{< ref 2020-04-30-jwks-to-pem >}})).
+(Aside: if you're interested in what the certs look like, check out [_Extracting `x5c`s from a JSON Web Key Set (JWKS) to PEM files with Ruby_](/posts/2020/04/30/jwks-to-pem/)).
 
 By running this JWKS URI through the jwks-ical API, you will be returned with the following iCalendar representation:
 

@@ -13,7 +13,7 @@ date: 2019-11-30T00:20:53+0000
 slug: "openssl-verify-connection"
 series: nablopomo-2019
 ---
-As I wrote in [_Trusting Self-Signed Certificates from Ruby_]({{< ref "2019-11-28-self-signed-certs-ruby" >}}), you'll sometimes have to interact with SSL/TLS certificates that aren't trusted by default by your browser / Operating System.
+As I wrote in [_Trusting Self-Signed Certificates from Ruby_](/posts/2019/11/28/self-signed-certs-ruby/), you'll sometimes have to interact with SSL/TLS certificates that aren't trusted by default by your browser / Operating System.
 
 On Linux and some UNIX-based Operating Systems, OpenSSL is used for certificate validation, and usually is at least hooked into the global trust store.
 

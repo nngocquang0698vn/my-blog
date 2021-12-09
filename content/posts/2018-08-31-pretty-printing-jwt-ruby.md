@@ -37,7 +37,7 @@ We don't care about looking at the signature, only the header and payload.
 
 As per [Pretty Printing JSON with Ruby on the CLI], we can take the core of the commandline to perform the pretty printing of `ARGF`, but have two choices as to how to proceed:
 
-We can also use [`Kernel.jj` as a shorter way to pretty-print an object as JSON]({{< ref 2019-03-29-pretty-printing-json-ruby >}}).
+We can also use [`Kernel.jj` as a shorter way to pretty-print an object as JSON](/posts/2019/03/29/pretty-printing-json-ruby/).
 
 # Using Ruby's Standard Library
 
@@ -104,4 +104,4 @@ You can see the asciicast in action:
 <asciinema-player src="/casts/pretty-printing-jwt-ruby-rubyjwt-library.json"></asciinema-player>
 
 [JWT.io]: https://jwt.io
-[Pretty Printing JSON with Ruby on the CLI]: {{< ref 2017-06-05-pretty-printing-json-cli >}}
+[Pretty Printing JSON with Ruby on the CLI]: /posts/2017/06/05/pretty-printing-json-cli/

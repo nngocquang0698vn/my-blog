@@ -16,7 +16,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-In [_Reader Mail: Webmention Spam_]({{< ref "2019-10-30-reader-mail-webmention-spam" >}}) I mentioned that [since I started to send Webmentions post-deployment of this site]({{< ref "2019-09-10-webmentions-on-deploy" >}}) I happened to be spamming everyone multiple times a day with my [Webmentions](https://indieweb.org/Webmention).
+In [_Reader Mail: Webmention Spam_](/posts/2019/10/30/reader-mail-webmention-spam/) I mentioned that [since I started to send Webmentions post-deployment of this site](/posts/2019/09/10/webmentions-on-deploy/) I happened to be spamming everyone multiple times a day with my [Webmentions](https://indieweb.org/Webmention).
 
 I received a few comments from folks about reducing this (or completely stopping it) because some Webmention servers don't de-duplicate sent Webmentions, so a server could see each new Webmention as a new one, and could i.e. send a push notification to the user. Not ideal!
 

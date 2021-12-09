@@ -15,9 +15,9 @@ license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "rsvp-calendar"
 ---
-[Two years ago]({{< ref 2019-07-27-rsvp-calendar >}}), I was attending a lot of in person events, and using a number of platforms to RSVP to them, with an RSVP also posted from my own site for completeness.
+[Two years ago](/posts/2019/07/27/rsvp-calendar/), I was attending a lot of in person events, and using a number of platforms to RSVP to them, with an RSVP also posted from my own site for completeness.
 
-Because I was using different platforms, I would either have to copy events to my personal calendar, or utilise i.e. [Meetup's upcoming events calendar]({{< ref 2019-07-27-meetupcom-calendar >}}).
+Because I was using different platforms, I would either have to copy events to my personal calendar, or utilise i.e. [Meetup's upcoming events calendar](/posts/2019/07/27/meetupcom-calendar/).
 
 To have a central view of them, and as a very IndieWeb-y way of owning my data, I decided to create an RSVP calendar that would be built as part of my site, so I'd always have an up-to-date view of what events I was going to attend.
 

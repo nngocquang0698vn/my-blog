@@ -21,7 +21,7 @@ syndication:
 
 When I first set it up, I decided to have a different content type in Hugo per content type, which meant I had folders such as `content/replies` and `content/rsvps`.
 
-This worked for a time, and gave me an easy way to [determine posting stats]({{< ref 2019-07-09-post-visualisation >}}) as I could just loop through the content types, and I would know how to display a reply as it's in `/replies/`.
+This worked for a time, and gave me an easy way to [determine posting stats](/posts/2019/07/09/post-visualisation/) as I could just loop through the content types, and I would know how to display a reply as it's in `/replies/`.
 
 However, as I've been looking to create a [Micropub endpoint](https://indieweb.org/Micropub) to allow me to more easily publish these content types from my phone / my social reader, I've found that this complicated the logic within my Micropub server. This is because I'd need to take the incoming request, parse the Microformats data from it, and then publish it to my site with the right content type.
 
@@ -33,7 +33,7 @@ I've decided to call this content type `mf2` as it's for anything that has the s
 
 ~~Unfortunately the approach of having a single content type for Microformats means that I've now got a much harder job rendering the content, as there needs to be logic in there to determine what a post's type is. I feel that this complexity makes more sense to be in the theme and how it renders content, rather than in the Micropub endpoint, but I'm still not 100% sure about it so I may revert this in the future!~~
 
-UPDATE: As of [2019-08-28]({{< ref "2019-08-28-content-kind" >}}), this is no longer true! I've now put the logic into my Micropub server and it's made my theme much easier to work with, go me!
+UPDATE: As of [2019-08-28](/posts/2019/08/28/content-kind/), this is no longer true! I've now put the logic into my Micropub server and it's made my theme much easier to work with, go me!
 
 # What did I have to do?
 
@@ -41,11 +41,11 @@ To perform this refactor, I needed to first look at what the content should look
 
 With this, I then added some extra metadata that was required by Hugo, such as the tags and date.
 
-For RSVPs, I had a bit more work, due to [the work I did to create an iCalendar feed for my RSVPs]({{< ref "2019-07-27-rsvp-calendar" >}}), which means that I've got a bit more metadata that I'm storing for each of these events I'm RSVPing to. This required a bit more manual workaround to get it working.
+For RSVPs, I had a bit more work, due to [the work I did to create an iCalendar feed for my RSVPs](/posts/2019/07/27/rsvp-calendar/), which means that I've got a bit more metadata that I'm storing for each of these events I'm RSVPing to. This required a bit more manual workaround to get it working.
 
 As mentioned above, I had the harder work of adding a lot of logic into my templates to render the content type correctly depending on what the underlying type was. Before I could do it based on which content type it was in (i.e. is it in the `content/likes/` folder?) but now we have to do a bit more work.
 
-The largest piece of work was to sort out the [posting frequency statistics]({{< ref 2019-07-09-post-visualisation >}}), as they needed to change how they worked, as it used to loop through all content types, but now that is impossible due to them being all the same content type. After some time I managed to get around it, and it's now functionally the same as the existing view.
+The largest piece of work was to sort out the [posting frequency statistics](/posts/2019/07/09/post-visualisation/), as they needed to change how they worked, as it used to loop through all content types, but now that is impossible due to them being all the same content type. After some time I managed to get around it, and it's now functionally the same as the existing view.
 
 Finally, there was a bit of restructure of the project and how things worked, and getting all the templates being called correctly.
 

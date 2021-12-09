@@ -14,7 +14,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-In August I [announced a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`]({{< ref "2019-08-31-microformats-meetup" >}}) to act as a translation layer between the silo and the IndieWeb.
+In August I [announced a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`](/posts/2019/08/31/microformats-meetup/) to act as a translation layer between the silo and the IndieWeb.
 
 I've been using this as a core part of my own workflow for RSVPing to events, but that's usually when I see the event actually on Meetup.com and then manually RSVP from my website.
 

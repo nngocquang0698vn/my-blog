@@ -15,7 +15,7 @@ I joined on the Graduate scheme, but it looked a little bit different back then,
 
 In just over a year, I broke into the role of Software Development Engineer 2 with a promotion, showing a great level of breadth of impact and some great achievements.
 
-My [move into Quality Engineering]({{< ref 2018-07-06-exciting-news >}}#moving-into-quality-engineering) led me to approach a slightly different angle on my work in Consumer Identity, and then led me to work more broadly on the PSD2 Dedicated Interface, where I worked a lot with team Asgard, who I would then move into.
+My [move into Quality Engineering](/posts/2018/07/06/exciting-news/#moving-into-quality-engineering) led me to approach a slightly different angle on my work in Consumer Identity, and then led me to work more broadly on the PSD2 Dedicated Interface, where I worked a lot with team Asgard, who I would then move into.
 
 It's been a pretty varied few years, and I've worked on some great projects. I've learned a tonne from my colleagues, written a tonne of blogumentation posts, and had some good times.
 
@@ -59,7 +59,7 @@ I've been a key part of pushing the Consumer Identity portion of our Web Servici
 
 ## Health / Time off
 
-- I've lost ~6 months of my life due to my [ruptured appendix]({{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix)
+- I've lost ~6 months of my life due to my [ruptured appendix](/posts/2018/02/14/2017-in-review/#ruptured-appendix)
 - I've had ~1 week off work due to burnout
 
 ## Conferences

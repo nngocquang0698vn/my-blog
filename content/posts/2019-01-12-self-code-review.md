@@ -30,7 +30,7 @@ Not reviewing my own code until I've raised a PR can be seen as an antipattern i
 
 Also, by looking at it under the PR interface, rather than just comparing the diffs between versions, it allows me to add comments to the changes, which helps me make it very obvious to reviewers that I've picked up on an issue, or am at least thinking about something, as well as tackle my poor memory and make sure I have a required correction tracked. I'm very much of the mind that a PR should be a place to discuss openly, and to try and understand the why as well as the what (in conjunction with the commit messages).
 
-On the topic of commit messages, I will raise follow-up commits for required changes. Previously these would be titled i.e `sq! 3e9f73`, but as per [_Using `git commit --fixup=` to track changes that need to be applied on top of another commit_]({{< ref 2019-01-10-git-commit-fixup >}}) I'll now be using `fixup` commits.
+On the topic of commit messages, I will raise follow-up commits for required changes. Previously these would be titled i.e `sq! 3e9f73`, but as per [_Using `git commit --fixup=` to track changes that need to be applied on top of another commit_](/posts/2019/01/10/git-commit-fixup/) I'll now be using `fixup` commits.
 
 Once the changes themselves are happy to be signed off, I'll then perform a Git rebase to clean up the `fixup` commits, as well as rewrite commit messages and ensure all the important things are in there.
 

@@ -16,7 +16,7 @@ Today I've found myself needing to compare a number of JSON files to see whether
 
 Usually this would be a fairly routine task (as I find myself doing this quite often), but some of the JSON files seemed to be structured differently, so I wanted to pretty-print them in the same way so it was more easily to diff them.
 
-To do this, I reused steps from [_Pretty Printing JSON on the Command Line with Ruby_]({{< ref "2019-03-29-pretty-printing-json-ruby" >}}) to perform the pretty-printing, and added a little bit of extra code to perform the inline editing.
+To do this, I reused steps from [_Pretty Printing JSON on the Command Line with Ruby_](/posts/2019/03/29/pretty-printing-json-ruby/) to perform the pretty-printing, and added a little bit of extra code to perform the inline editing.
 
 Let us say that we're wanting to change all JSON files in the directory `config/`, as well as any and all nested subdirectories it has. This would give us the following Ruby code:
 

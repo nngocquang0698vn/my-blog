@@ -15,7 +15,7 @@ Every so often, I need to list the dependency tree for my Gradle projects, which
 
 However, I wondered if there was a better way to do this, as I didn't want to commit this task into each project, but I also didn't have to keep locally adding it to each project, and then removing it before committing.
 
-Fortunately, we can follow [_Configure Gradle to Configure Tasks Globally with an initscript_]({{< ref 2020-07-27-global-gradle-task >}}) and create a file i.e. `~/.gradle/init.d/allDeps.gradle`:
+Fortunately, we can follow [_Configure Gradle to Configure Tasks Globally with an initscript_](/posts/2020/07/27/global-gradle-task/) and create a file i.e. `~/.gradle/init.d/allDeps.gradle`:
 
 ```groovy
 projectsEvaluated {

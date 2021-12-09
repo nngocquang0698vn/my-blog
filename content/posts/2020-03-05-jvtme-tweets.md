@@ -17,7 +17,7 @@ You may have noticed that for the last few months, [my tweets](https://twitter.c
 
 But what's all that about? Why am I constantly posting links to my content?
 
-You may have read before that I'm a large fan of the [IndieWeb]({{< ref 2019-10-20-indieweb-talk >}}), and as part of this, I want to own my data in full. For instance, that tweet above was originally posted at [www.jvt.me/mf2/2020/03/84zwq/](https://www.jvt.me/mf2/2020/03/84zwq/).
+You may have read before that I'm a large fan of the [IndieWeb](/posts/2019/10/20/indieweb-talk/), and as part of this, I want to own my data in full. For instance, that tweet above was originally posted at [www.jvt.me/mf2/2020/03/84zwq/](https://www.jvt.me/mf2/2020/03/84zwq/).
 
 I then used the wonderful IndieWeb tool [Bridgy](https://brid.gy/) which then publishes it to Twitter on my behalf. That URL at the end is used to let folks find the original post as well as enabling me to receive interactions with the syndicated tweet on my own website.
 

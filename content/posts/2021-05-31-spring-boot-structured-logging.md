@@ -102,7 +102,7 @@ Anything in the MDC appears as a top-level key-value pair i.e. `acceptHeader`:
 }
 ```
 
-As mentioned in [a post I wrote over the weekend]({{< ref 2021-05-29-slf4j-test-logback-maven >}}), it can be difficult getting this working if you want to [unit test your logs]({{< ref 2019-09-22-testing-slf4j-logs >}}), if you're using custom fields from the library.
+As mentioned in [a post I wrote over the weekend](/posts/2021/05/29/slf4j-test-logback-maven/), it can be difficult getting this working if you want to [unit test your logs](/posts/2019/09/22/testing-slf4j-logs/), if you're using custom fields from the library.
 
 # Using Log4j2
 

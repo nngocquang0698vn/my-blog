@@ -1,7 +1,7 @@
 ---
 title: My Salary History
 ---
-As discussed in the [blog post announcing this page]({{< ref 2021-09-09-public-salary-history >}}), this is the history of my salary and compensation changes, including bonuses.
+As discussed in the [blog post announcing this page](/posts/2021/09/09/public-salary-history/), this is the history of my salary and compensation changes, including bonuses.
 
 I've broken this down into the:
 

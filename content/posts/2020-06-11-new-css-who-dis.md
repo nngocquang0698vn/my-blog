@@ -17,7 +17,7 @@ Last week, I was reading [a blog post](https://christine.website/blog/why-i-use-
 
 Although I've not spent a lot of time to spend on it the last few nights aside from [Homebrew Website Club last night](https://events.indieweb.org/2020/06/online-homebrew-website-club-nottingham-hSxvQepCBqQl), I've actually been able to migrate to the new theme pretty quickly.
 
-In the past, it's taken me _several weeks_ to actually update the theme to my site - the first was when I set up my Jekyll site, and the second was [moving to Hugo]({{< ref 2019-01-04-goodbye-jekyll-hello-hugo >}}) - which involved a fair bit of extra work. With this, it's taken a matter of days, which is even quicker than I expected.
+In the past, it's taken me _several weeks_ to actually update the theme to my site - the first was when I set up my Jekyll site, and the second was [moving to Hugo](/posts/2019/01/04/goodbye-jekyll-hello-hugo/) - which involved a fair bit of extra work. With this, it's taken a matter of days, which is even quicker than I expected.
 
 So why has it been so easy? I was most worried about moving between themes and having to re-develop all my HTML, which would have impacts on the [Microformats](https://microformats.io/) that power this site, and enable machine-readable HTML that is a super important thing to me, as it allows for more meaningful conversations across the [IndieWeb](https://indieweb.org/) - and beyond! But it turned out that actually I wouldn't need to do any of that, as all I needed was to pull in the new CSS files, and make a few tweaks to put my own stamp on it, and make it feel better for my site design.
 

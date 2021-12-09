@@ -13,9 +13,9 @@ date: 2021-02-22T21:51:24+0000
 slug: "chefdk-gemfile"
 image: /img/vendor/chef-logo.png
 ---
-One of the great things I've found about working with Chef is the ChefDK / Chef Workstation setup, which ensures that you need just one install to be able to get up-and-running in a way that allows you to easily coordinate with others on version of core tools and libraries. This also translates nicely to [running it in Docker]({{< ref 2018-12-05-chefdk-testing-docker >}}), but something that's always been painful, and has plagued me for several years, is working with Ruby Gems.
+One of the great things I've found about working with Chef is the ChefDK / Chef Workstation setup, which ensures that you need just one install to be able to get up-and-running in a way that allows you to easily coordinate with others on version of core tools and libraries. This also translates nicely to [running it in Docker](/posts/2018/12/05/chefdk-testing-docker/), but something that's always been painful, and has plagued me for several years, is working with Ruby Gems.
 
-When running your code against an actual node, i.e. using [the `chef_gem` resource](https://docs.chef.io/resources/chef_gem/) works wonderfully, but as [someone who strongly believes in test-driven development with Chef]({{< ref 2018-09-04-tdd-chef-cookbooks-chefspec-inspec>}}), this doesn't solve the local testing issue.
+When running your code against an actual node, i.e. using [the `chef_gem` resource](https://docs.chef.io/resources/chef_gem/) works wonderfully, but as [someone who strongly believes in test-driven development with Chef](/posts/2018/09/04/tdd-chef-cookbooks-chefspec-inspec/), this doesn't solve the local testing issue.
 
 The "best" solution I've got to is to create a Gem that packages the versions of the key Chef dependencies required, and then deal with the poor developer experience that running `chef exec bundle exec rspec` everywhere. This at least means we're not going to have to manually install gems locally, but has been a pretty poor experience, and makes Chef upgrades that bit harder.
 

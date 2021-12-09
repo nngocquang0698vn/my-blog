@@ -15,9 +15,9 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/microformats
 ---
-Following <span class="h-card"><a class="p-name u-url" href="https://twitter.com/aimeegamble">Aimee Gamble-Milner</a></span>'s talk [Error: Property "X" does not exist on type "Genders"]({{< ref 2019-04-10-tech-nottingham-april >}}#error-property-x-does-not-exist-on-type-genders), I was thinking about making my pronouns more visible.
+Following <span class="h-card"><a class="p-name u-url" href="https://twitter.com/aimeegamble">Aimee Gamble-Milner</a></span>'s talk [Error: Property "X" does not exist on type "Genders"](/posts/2019/04/10/tech-nottingham-april/#error-property-x-does-not-exist-on-type-genders), I was thinking about making my pronouns more visible.
 
-At [DevOpsDays London 2018]({{< ref 2018-10-25-devopsdays-london-2018 >}}#inclusivity), I was incredibly impressed with the use of pronoun stickers to share with other attendees how you want others to refer to you.
+At [DevOpsDays London 2018](/posts/2018/10/25/devopsdays-london-2018/#inclusivity), I was incredibly impressed with the use of pronoun stickers to share with other attendees how you want others to refer to you.
 
 There have been some discussions at [Women in Tech Nottingham](https://twitter.com/WIT_Notts) (after DevOpsDays donated the stickers) since then about it, and how cis-gendered people need to share their pronouns too.
 

@@ -46,9 +46,9 @@ Prior to my work on Lambdas, I'd been working with Spring Boot and had gotten qu
 
 Because we were trying to limit the size of the classpath, we wanted to avoid using a heavier web framework, and ended up writing a homegrown, lightweight HTTP layer.
 
-As we started using [server-driven content negotiation]({{< ref 2021-01-05-why-content-negotiation >}}), we started discovering more areas frameworks abstracted away from us to make our lives as developers easier. Although our use case was specifically for versioning, content negotiation is something that a number of API clients do automagically, such as Rest Assured,  so you need to be able to handle it.
+As we started using [server-driven content negotiation](/posts/2021/01/05/why-content-negotiation/), we started discovering more areas frameworks abstracted away from us to make our lives as developers easier. Although our use case was specifically for versioning, content negotiation is something that a number of API clients do automagically, such as Rest Assured,  so you need to be able to handle it.
 
-Because I knew this was a problem that others would likely want to solve, I ended up [releasing two Open Source libraries for this]({{< ref 2021-01-11-content-negotiation-java >}}) which would manage the content negotiation process, as it can be complex, and we don't need every engineer working on Java Lambdas to need to write their own implementation!
+Because I knew this was a problem that others would likely want to solve, I ended up [releasing two Open Source libraries for this](/posts/2021/01/11/content-negotiation-java/) which would manage the content negotiation process, as it can be complex, and we don't need every engineer working on Java Lambdas to need to write their own implementation!
 
 These make it much easier to manage endpoint(s) that handle multiple media types, but even if you're only expecting `accept: application/json`, remember that it's _very_ likely that someone may send a more complex example!
 
@@ -66,7 +66,7 @@ It's worth having a read of [_Anti-patterns in Lambda-based applications: The La
 
 As Sean mentions, Dependency Injection can be really expensive. We'd tried going the route of "actually we don't need Dependency Injection", but then realised that for a lot of things, it made it much easier, especially when we were starting to have to stub out environment variables for unit test purposes.
 
-Instead, moving to Dagger or Guice is a better option, and gives you real Dependency Injection. I've written [_Lightweight and Powerful Dependency Injection for JVM-based Applications with Dagger_]({{< ref 2021-10-19-dagger-java-lambda >}}) to explain how to switch to Dagger, and the benefits you'll reap from it, and would very much recommend using it.
+Instead, moving to Dagger or Guice is a better option, and gives you real Dependency Injection. I've written [_Lightweight and Powerful Dependency Injection for JVM-based Applications with Dagger_](/posts/2021/10/19/dagger-java-lambda/) to explain how to switch to Dagger, and the benefits you'll reap from it, and would very much recommend using it.
 
 ## Managing JSON (de)serialisation better
 
@@ -74,7 +74,7 @@ As Sean mentions in his post, removing Reflection is important for improving Lam
 
 Jackson is commonly used for JSON (de)serialisation in Java applications, but is Reflection based, so you want to avoid it if you can.
 
-GSON is a common alternative, which [is included in the Lambda runtime]({{< ref 2021-11-17-aws-lambda-java-runtime >}}), and has quite a lot of users inside and outside of Serverless (although note that you really should make sure you keep it updated, rather than rely on the version available in Lambda, otherwise you risk being hit by security issues)
+GSON is a common alternative, which [is included in the Lambda runtime](/posts/2021/11/17/aws-lambda-java-runtime/), and has quite a lot of users inside and outside of Serverless (although note that you really should make sure you keep it updated, rather than rely on the version available in Lambda, otherwise you risk being hit by security issues)
 
 We started using [Moshi](https://github.com/square/moshi), and found that it was performant and had a pretty good developer experience. While investigating Moshi, we found that we couldn't use `aws-lambda-java-events`, as the events classes required the use of Joda Time, which is quite a heavy weight on the classpath.
 
@@ -94,7 +94,7 @@ It's possible that you're using [LocalStack](https://localstack.cloud) for testi
 
 ### Make sure you pin
 
-I'm a strong proponent of version pinning, as it's something that's bitten me quite a few times where teams haven't been pinning various dependencies, and have inevitably been burned. There is the risk that you can be stuck on older versions of software, but hopefully you also have tools like [WhiteSource Renovate]({{< ref 2021-09-26-whitesource-renovate-tips >}}) or Dependabot to keep you updated in a safer way, where you can check all your tests pass.
+I'm a strong proponent of version pinning, as it's something that's bitten me quite a few times where teams haven't been pinning various dependencies, and have inevitably been burned. There is the risk that you can be stuck on older versions of software, but hopefully you also have tools like [WhiteSource Renovate](/posts/2021/09/26/whitesource-renovate-tips/) or Dependabot to keep you updated in a safer way, where you can check all your tests pass.
 
 As LocalStack is still on a 0.x release, there's no stability promised between each release. But not only is that true between minor versions, but patch versions can change things pretty significantly too. Additionally, the `latest` Docker tag is what's just been pushed to the main branch, which means that you're on the bleeding edge, and the version you're using will be very different compared to someone who last pulled a day ago.
 
@@ -110,7 +110,7 @@ This will be a problem if you're pinned to an older version, but upgrading shoul
 
 ### No concurrency controls
 
-As [a general rule]({{< ref 2021-06-01-parallel-tests >}}), I like to have my tests running in parallel. When applying this to the Lambdas we had, I found that they were running _even slower_ which seemed really odd, even after I'd locally solved the cold start issue.
+As [a general rule](/posts/2021/06/01/parallel-tests/), I like to have my tests running in parallel. When applying this to the Lambdas we had, I found that they were running _even slower_ which seemed really odd, even after I'd locally solved the cold start issue.
 
 Unfortunately the real culprit is [that it isn't possible to configure concurrency](https://github.com/localstack/localstack/issues/2483) which means that each Lambda can only be invoked once, so even if your tests are highly parallelised, they'll execute sequentially.
 

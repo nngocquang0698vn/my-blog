@@ -56,7 +56,7 @@ We were very surprised to see no hints of poverty anywhere in Dubrovnik as we di
 
 Anna and I have a very fun way of approaching time off - we're very relaxed and don't want to rush around doing things. But that can be an issue where there's so much to do, but we have no hurry in us! It meant we didn't get around to as many things as we'd hoped, but we had a great time of it and did exactly what we needed to have, at the pace we wanted.
 
-It felt weird, but quite fun, to show off the epic scar I got from my [ruptured appendix]({{< ref "2018-02-14-2017-in-review" >}}#ruptured-appendix) while sunning on the beach - I'm sure it drew some eyes!
+It felt weird, but quite fun, to show off the epic scar I got from my [ruptured appendix](/posts/2018/02/14/2017-in-review/#ruptured-appendix) while sunning on the beach - I'm sure it drew some eyes!
 
 The 0630am flight was _not OK_ to get up for, as we left packing a bit late, so were lucky to have a few hours of sleep before getting up at 0330.
 

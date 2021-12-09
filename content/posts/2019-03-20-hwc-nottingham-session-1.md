@@ -10,7 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-20T22:16:26+00:00
 slug: "hwc-nottingham-session-1"
 ---
-The first <a class="u-in-reply-to" href="{{< ref 2019-03-14-homebrew-website-club-nottingham >}}">Homebrew Website Club: Nottingham</a> is over, and it was great!
+The first <a class="u-in-reply-to" href="/posts/2019/03/14/homebrew-website-club-nottingham/">Homebrew Website Club: Nottingham</a> is over, and it was great!
 
 We had _15_ people, which was a really impressive turnout and we almost filled the cafe area in Ludorati.
 
@@ -20,7 +20,7 @@ A couple of interesting conversations I want to recount:
 
 > How do I start blogging? What do I even blog about?
 
-I spoke about how I [blog as a form of documentation]({{< ref 2017-06-25-blogumentation >}}), and blog for myself. The audience for my blog posts isn't the internet, but myself. Yes, it is in a publicly readable format, but it is primarily for me. Others can read it, which is a great cherry-on-top, but it's not the key reason. This helps reduce the barrier of "what if someone doesn't like my writing".
+I spoke about how I [blog as a form of documentation](/posts/2017/06/25/blogumentation/), and blog for myself. The audience for my blog posts isn't the internet, but myself. Yes, it is in a publicly readable format, but it is primarily for me. Others can read it, which is a great cherry-on-top, but it's not the key reason. This helps reduce the barrier of "what if someone doesn't like my writing".
 
 > How do I get started with my site? I want to do it, but I also want to write the theme from scratch, which then means I need to understand how the tool/framework, and then it balloons in complexity.
 
@@ -28,7 +28,7 @@ To this, I'd recommend just setting your site up with a pre-built theme. Get the
 
 <s>Before the next event I'm planning on creating a custom post type in Hugo to share out the new events - if you're interested [you can follow along on the issue](https://gitlab.com/jamietanna/jvt.me/issues/395).</s>
 
-As per [_Marking up Events with Microformats_]({{< ref 2019-03-23-microformats-hevent >}}), I have created a custom events content type on this blog which renders the [`h-event`](http://microformats.org/wiki/h-event) markup on these events pages.
+As per [_Marking up Events with Microformats_](/posts/2019/03/23/microformats-hevent/), I have created a custom events content type on this blog which renders the [`h-event`](http://microformats.org/wiki/h-event) markup on these events pages.
 
 Something to think about for the next event is maybe more structure / agenda, although like other HWCs, I want to keep it less structured and more fluid for attendees.
 

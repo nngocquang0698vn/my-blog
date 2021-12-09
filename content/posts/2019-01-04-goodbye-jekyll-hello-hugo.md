@@ -16,7 +16,7 @@ Those who will know me or know my site will know I'm a huge fan of Jekyll. I've 
 
 However, I've had a few friends in the Tech community as well as colleagues at work who have been on to me about trying out Hugo and seeing what it's like.
 
-I've been partly hesitant about starting on the investigation because I have enough stuff to do without a complete overhaul of the site, its theme, and structure. But as Christmas came around, I was at my parents' looking for something light on the brain but useful to play around with, and [after creating `blogroll.jvt.me` as my first microservice component for this site]({{< ref 2018-12-23-microservices-static-site >}}) with Hugo, I was in the mood to play around with Hugo on this site.
+I've been partly hesitant about starting on the investigation because I have enough stuff to do without a complete overhaul of the site, its theme, and structure. But as Christmas came around, I was at my parents' looking for something light on the brain but useful to play around with, and [after creating `blogroll.jvt.me` as my first microservice component for this site](/posts/2018/12/23/microservices-static-site/) with Hugo, I was in the mood to play around with Hugo on this site.
 
 I set about changing the directory structures and getting the site building, and after seeing it took ~1 second to build my 88 posts + various pages, I was like "wait what? It can't be _that_ fast". My Jekyll-based site took ~15 seconds to build (in incremental mode), so I was thinking maybe it was due to the various things I'm doing in the theme that was slowing me down.
 
@@ -69,7 +69,7 @@ Notes:
 
 It's been a fun journey, and I'm really loving it!
 
-[explicit-licensing]: {{< ref "2018-07-29-more-explicit-post-licensing.md" >}}
+[explicit-licensing]: /posts/2018/07/29/more-explicit-post-licensing.md/
 [tale-hugo]: https://github.com/EmielH/tale-hugo
 [jvt.me]: https://gitlab.com/jamietanna/jvt.me
 [fork]: https://gitlab.com/jamietanna/tale-hugo-jvt.me

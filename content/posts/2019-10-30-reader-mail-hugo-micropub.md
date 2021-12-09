@@ -35,7 +35,7 @@ A great email, I appreciate you getting in touch and am more than happy to chat 
 
 > If you do have any code to share, no matter how scrappy, I'd be grateful!
 
-Firstly, it turns out that I had not updated my [blog post announcing my Micropub support]({{< ref "2019-08-26-setting-up-micropub" >}}) to share the underlying source code - woops! That is now addressed.
+Firstly, it turns out that I had not updated my [blog post announcing my Micropub support](/posts/2019/08/26/setting-up-micropub/) to share the underlying source code - woops! That is now addressed.
 
 My code can be found at [<i class="fa fa-gitlab"></i> jamietanna/www-api](https://gitlab.com/jamietanna/www-api/tree/master/www-api-web/micropub) and is available as Free Software, under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.en.html) so please do use it, but remember to abide by the license terms.
 

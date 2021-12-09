@@ -19,7 +19,7 @@ slug: self-contained-gatling-jar
 ---
 # Why
 
-The reasoning behind this post is very similar to [_Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests_]({{< ref 2018-08-15-self-contained-cucumber-jar >}}), but doesn't include the comment about the separation of unit tests and cucumber steps.
+The reasoning behind this post is very similar to [_Creating a versionable, self-contained (fat-/uber-) JAR for Cucumber tests_](/posts/2018/08/15/self-contained-cucumber-jar/), but doesn't include the comment about the separation of unit tests and cucumber steps.
 
 This means that the two reasons we'd want a fat JAR is:
 
@@ -876,4 +876,4 @@ You may also want to tweak your [bounds for response times] so your graphs are a
 
 This blog post is supported by the repo [<i class="fa fa-gitlab"></i> fat-gatling-jar](https://gitlab.com/jamietanna/fat-gatling-jar).
 
-[bounds for response times]: {{< ref 2018-11-19-gatling-highcharts-response-time-bounds >}}
+[bounds for response times]: /posts/2018/11/19/gatling-highcharts-response-time-bounds/

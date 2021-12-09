@@ -161,7 +161,7 @@ openssl pkcs12 -export -inkey client-key.pem -in client.pem -out keystore.p12
 
 # Generating the Truststore
 
-To generate the truststore, we need the public certificate (be it a leaf, intermediate, or root certificate) for the server (`ca.pem` in this example). I have documented how you can do this with `openssl` in [_Extracting SSL/TLS Certificate Chains Using OpenSSL_]({{< ref 2017-04-28-extract-tls-certificate >}}).
+To generate the truststore, we need the public certificate (be it a leaf, intermediate, or root certificate) for the server (`ca.pem` in this example). I have documented how you can do this with `openssl` in [_Extracting SSL/TLS Certificate Chains Using OpenSSL_](/posts/2017/04/28/extract-tls-certificate/).
 
 We can then use the `keytool` command from our Java install to import/create a keystore:
 

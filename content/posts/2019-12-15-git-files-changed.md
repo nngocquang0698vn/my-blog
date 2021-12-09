@@ -11,7 +11,7 @@ date: 2019-12-15T22:28:28+0000
 slug: "git-files-changed"
 image: /img/vendor/git.png
 ---
-I've found in the past that it can be useful to know what files have changed in a given commit, i.e. to re-edit them, or to [add whitespace to the end of file]({{< ref "2019-09-02-newlines-all-git-files" >}}).
+I've found in the past that it can be useful to know what files have changed in a given commit, i.e. to re-edit them, or to [add whitespace to the end of file](/posts/2019/09/02/newlines-all-git-files/).
 
 We can do this with the `diff-tree` subcommand, giving it a commit to look at, and it'll return a list of all files changed:
 

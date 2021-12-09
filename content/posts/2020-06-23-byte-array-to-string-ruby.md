@@ -9,7 +9,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-23T13:24:21+0100
 slug: "byte-array-to-string-ruby"
 ---
-In [_Converting a Byte Array to String with `Buffer` in Node.JS_]({{< ref 2020-04-20-buffer-array-to-string >}}) I mentioned about Node.JS `Buffer`s, and how they're a way to serialise an array of bytes into a JSON format.
+In [_Converting a Byte Array to String with `Buffer` in Node.JS_](/posts/2020/04/20/buffer-array-to-string/) I mentioned about Node.JS `Buffer`s, and how they're a way to serialise an array of bytes into a JSON format.
 
 As Ruby is my preferred scripting language, I wanted to document how to convert this back to a String with Ruby, too.
 

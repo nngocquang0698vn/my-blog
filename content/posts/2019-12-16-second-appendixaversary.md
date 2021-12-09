@@ -13,7 +13,7 @@ slug: "second-appendixaversary"
 ---
 Two years ago today, on a Saturday evening, my appendix ruptured, and unfortunately it didn't get properly diagnosed until the following Thursday.
 
-I've [written about the experience in a lot of detail]({{< ref "2018-02-14-2017-in-review" >}}#ruptured-appendix) if you wish to find out a little more in terms of why it took so long to be looked at, and how it took [123 days to get back to work]({{< ref "2018-04-19-returning-to-full-time-work" >}}).
+I've [written about the experience in a lot of detail](/posts/2018/02/14/2017-in-review/#ruptured-appendix) if you wish to find out a little more in terms of why it took so long to be looked at, and how it took [123 days to get back to work](/posts/2018/04/19/returning-to-full-time-work/).
 
 As I've come up to the anniversary I've been thinking about it.
 

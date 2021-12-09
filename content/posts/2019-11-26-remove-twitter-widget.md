@@ -15,7 +15,7 @@ For quite some time, I've made an active effort to strip [Twitter's third-party 
 
 I'm not particularly a fan of allowing Twitter to gain more information about folks' browsing habits and _don't really fancy_ their ability to run arbitrary JavaScript on my site. It also doesn't really provide that much extra benefit to a user, from my point of view, so I'm happy leaving it as just a `<blockquote>`.
 
-However, <span class="h-card"><a class="u-url" href="https://annadodson.co.uk">Anna</a></span> and <span class="h-card"><a class="u-url" href="https://carol.gg/">Carol</a></span> noticed that on [_Reader Mail: What Static Site Generator Would I Recommend?_]({{< ref "2019-11-13-reader-mail-what-static-site-generator" >}}) there were some issues with rendering the page, but I couldn't see it with my Firefox install.
+However, <span class="h-card"><a class="u-url" href="https://annadodson.co.uk">Anna</a></span> and <span class="h-card"><a class="u-url" href="https://carol.gg/">Carol</a></span> noticed that on [_Reader Mail: What Static Site Generator Would I Recommend?_](/posts/2019/11/13/reader-mail-what-static-site-generator/) there were some issues with rendering the page, but I couldn't see it with my Firefox install.
 
 It turns out that it was due to my various privacy-aware extensions that remove things like Twitter's widgets, so I never saw the issue on my own machines, but I had actually missed a couple of instances of the widgets on that post and one from a few years ago - woops!
 

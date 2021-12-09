@@ -51,7 +51,7 @@ The [JSON Web Key (JWK) specification, RFC7517](https://tools.ietf.org/html/rfc7
 }
 ```
 
-However, the form above isn't necessarily the most human-readable format, so how can we convert that to a more readable X.509 certificate, [for use with OpenSSL]({{< ref "2018-11-02-viewing-x509-pem-openssl" >}}).
+However, the form above isn't necessarily the most human-readable format, so how can we convert that to a more readable X.509 certificate, [for use with OpenSSL](/posts/2018/11/02/viewing-x509-pem-openssl/).
 
 Using [this comment from jesseecravens on GitHub](https://github.com/nsarno/knock/issues/148#issuecomment-282581702) we can parse the contents as a certificate, and then output the PEM:
 

@@ -26,7 +26,7 @@ This is my first public engagement speaking about the IndieWeb ([but by no means
 
 The talk's abstract can be found on [the talk description page on this site](/talks/indieweb/).
 
-OggCamp is a great 2-day conference which is best summed up as "Collaborative Culture" and everything that entails. If you're interested in hearing more about what the event is like, [I wrote a fairly involved OggCamp 2018 recap post]({{< ref 2018-08-23-oggcamp-2018 >}}).
+OggCamp is a great 2-day conference which is best summed up as "Collaborative Culture" and everything that entails. If you're interested in hearing more about what the event is like, [I wrote a fairly involved OggCamp 2018 recap post](/posts/2018/08/23/oggcamp-2018/).
 
 The [line-up looks like an incredibly strong set of speakers and interesting talks](https://www.oggcamp.com/speakers/), and I'm especially interested to hear [Anna](https://annadodson.co.uk)'s talk _Noobs on Ubs_ and the ever brilliant [Terence Eden](https://shkspr.mobi) talking about [OpenBenches](https://openbenches.org/).
 

@@ -15,7 +15,7 @@ image: https://media.jvt.me/10b2632abe.png
 ---
 At [Monday's Tech Nottingham](https://www.technottingham.com/events/tech-nottingham-october-2021) it was Lightning Talks from the audience, which are always a fun night.
 
-As I've recently [shared my salary publicly]({{< ref 2021-09-09-public-salary-history >}}), I thought it'd be good to talk about the things that have come out of it.
+As I've recently [shared my salary publicly](/posts/2021/09/09/public-salary-history/), I thought it'd be good to talk about the things that have come out of it.
 
 This is a (rough) writeup of what was said.
 

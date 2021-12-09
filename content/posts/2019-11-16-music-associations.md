@@ -13,7 +13,7 @@ series: nablopomo-2019
 ---
 It's amazing how certain songs can bring back such vivid memories.
 
-While I was off ill with my [my ruptured appendix]({{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix), EDEN (one of my favourite artists) dropped a new album so I was listening to it a lot. One song, _drugs_, weirdly resonated with me despite the fact that I'm not a drug user or feeling the anguish portrayed in the song. But during the time I was listening to this song a lot, I was having a lot of Oramorph (liquid morphine) and Diazepam for pain relief (in a very safe and controlled fashion).
+While I was off ill with my [my ruptured appendix](/posts/2018/02/14/2017-in-review/#ruptured-appendix), EDEN (one of my favourite artists) dropped a new album so I was listening to it a lot. One song, _drugs_, weirdly resonated with me despite the fact that I'm not a drug user or feeling the anguish portrayed in the song. But during the time I was listening to this song a lot, I was having a lot of Oramorph (liquid morphine) and Diazepam for pain relief (in a very safe and controlled fashion).
 
 <p><iframe src="https://open.spotify.com/embed/track/3OXpdrHLT4IqM76RajgM6Q" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 

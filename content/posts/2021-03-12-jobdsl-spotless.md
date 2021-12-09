@@ -11,9 +11,9 @@ date: 2021-03-12T19:05:56+0000
 slug: "jobdsl-spotless"
 image: /img/vendor/jenkins.png
 ---
-We should generally treat our [Job DSL projects]({{< ref 2021-02-23-getting-started-jobdsl-standardised >}}) with the same level of standards that our production code would be fulfilling.
+We should generally treat our [Job DSL projects](/posts/2021/02/23/getting-started-jobdsl-standardised/) with the same level of standards that our production code would be fulfilling.
 
-Without enforcing code style, it's up to code review or engineers "just knowing" the changes to make which is a bit more of a burden than needs to be had, especially as there are tools like [Spotless](https://github.com/diffplug/spotless) which fill this gap so perfectly, especially as [you can locally configure Spotless to always run]({{< ref 2020-05-15-gradle-spotless >}}), ensuring your code style is always consistent.
+Without enforcing code style, it's up to code review or engineers "just knowing" the changes to make which is a bit more of a burden than needs to be had, especially as there are tools like [Spotless](https://github.com/diffplug/spotless) which fill this gap so perfectly, especially as [you can locally configure Spotless to always run](/posts/2020/05/15/gradle-spotless/), ensuring your code style is always consistent.
 
 This is also really important because you may have teams who are coming with different tech backgrounds, or who may not be as used to working in Groovy code, which our pipelines will be based on.
 

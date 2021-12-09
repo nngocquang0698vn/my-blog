@@ -14,7 +14,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-As part of <a href="{{< ref "2019-08-18-restructure-content-types" >}}" class="u-in-reply-to">_Restructuring The Way That My Site's Content Types Work_</a>, I spoke about how I was changing the way that my site's content worked within Hugo, because it made [writing my Micropub server easier]({{< ref "2019-08-26-setting-up-micropub" >}}).
+As part of <a href="/posts/2019/08/18/restructure-content-types/" class="u-in-reply-to">_Restructuring The Way That My Site's Content Types Work_</a>, I spoke about how I was changing the way that my site's content worked within Hugo, because it made [writing my Micropub server easier](/posts/2019/08/26/setting-up-micropub/).
 
 This move was to merge directories such as `/bookmarks/`, `/likes/` and `/replies/` into one, which would make my work a little easier in the Micropub server, so it didn't need to spend as much time working out what a content type was, and then determine what specific format to use. With this new setup, the JSON files that make up the content are formatted as if they are [Microformats2](https://indieweb.org/Microformats), which means they're easier to work with.
 

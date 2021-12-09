@@ -23,7 +23,7 @@ I'd originally started this as a Java hack, but given I was having issues with g
 
 [Micropub](https://micropub.spec.indieweb.org/) is an awesome standard, and makes it straightforward to have a standard API for interacting with content (on your website). I've been really enjoying it over the last year of working with it, and am really glad there's been some good progress to making a standard API for updating content.
 
-As part of the initial local development for my Micropub server, and before I had [built my own client]({{< ref 2020-06-28-personal-micropub-client >}}), whenever I was testing against my Micropub server, I used `curl`. Although this worked, it didn't help all the time, because I'd need to keep re-fetching access tokens, or I would accidentally use a production token locally.
+As part of the initial local development for my Micropub server, and before I had [built my own client](/posts/2020/06/28/personal-micropub-client/), whenever I was testing against my Micropub server, I used `curl`. Although this worked, it didn't help all the time, because I'd need to keep re-fetching access tokens, or I would accidentally use a production token locally.
 
 Another tool that is better targeted for this manual testing is Postman, especially - as I found out while working on this hack - that [it has some great OAuth2 support](/mf2/2021/01/hjfzb/), which integrates nicely with the OAuth2 extension, [IndieAuth](https://indieauth.spec.indieweb.org), that Micropub utilises.
 

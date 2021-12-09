@@ -19,7 +19,7 @@ Because of this, I often find myself, sometimes without thinking, picking up my 
 
 It's not just social media, though. I, many times a day, check my website's tracking analytics to see how many people are viewing my site and what the popular articles seem to be. This is definitely something I don't need to be doing every few hours, and that really I need to get some daily stats breakdown for it, so I don't need to check the app very often myself. It's also something that I'm not really actioning, it's just interesting to know.
 
-I also regularly go into the IndieWeb reader, [Indigenous](https://indgenous.realize.be), to refresh my notifications. That's not the best way of doing it anyway, so I recently set up [push notificactions when I receive Webmentions]({{< ref 2020-01-12-webmention-notifications >}}), which means I can ignore the feed because I'll get them as soon as I need to.
+I also regularly go into the IndieWeb reader, [Indigenous](https://indgenous.realize.be), to refresh my notifications. That's not the best way of doing it anyway, so I recently set up [push notificactions when I receive Webmentions](/posts/2020/01/12/webmention-notifications/), which means I can ignore the feed because I'll get them as soon as I need to.
 
 It's something I know has been an issue for a while, but my own willpower didn't seem to combat it. I'd been wondering what I would be able to do help it, and then this week while I've been in [Tenerife](/tags/tenerife), I discovered (by accident) that Android has [Digital Wellbeing settings](https://www.android.com/digital-wellbeing/) that were designed for these use cases.
 

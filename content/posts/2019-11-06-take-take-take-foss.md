@@ -33,4 +33,4 @@ I unfortunately don't have all the spare time in the world (if I want to keep wo
 
 And as with all of these things, I am doing this very publicly to give me some level of accountability to _go and do it_ but also to hopefully remind others that they, too, could try and be a bit better and help the many other projects that power their lives.
 
-As an aside, I am really disappointed with myself writing this post, because I've been planning on writing it since _at least_ [OggCamp 2018]({{< ref "2018-08-23-oggcamp-2018" >}}), and really wish I had been able to start looking at this sooner. But better late than never, I guess!
+As an aside, I am really disappointed with myself writing this post, because I've been planning on writing it since _at least_ [OggCamp 2018](/posts/2018/08/23/oggcamp-2018/), and really wish I had been able to start looking at this sooner. But better late than never, I guess!

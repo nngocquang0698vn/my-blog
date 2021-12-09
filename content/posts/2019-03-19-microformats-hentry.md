@@ -12,7 +12,7 @@ date: 2019-03-19T21:54:14+00:00
 slug: "microformats-hentry"
 image: /img/vendor/microformats-logo.png
 ---
-As I spoke about in my post [_Setting up a personal hCard for myself_]({{< ref 2019-03-15-personal-hcard >}}), I'm starting to mark up my site with [microformats2].
+As I spoke about in my post [_Setting up a personal hCard for myself_](/posts/2019/03/15/personal-hcard/), I'm starting to mark up my site with [microformats2].
 
 As you're reading this, you're now seeing that my blog posts are being marked up with the [`h-entry`](http://microformats.org/wiki/h-entry) format. This gives a parser client the ability to determine the post's name, summary, URL, published + updated times and then the actual content itself.
 

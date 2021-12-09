@@ -9,7 +9,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-07-15T13:52:32+0100
 slug: "capital-one-promotion-celebration"
 ---
-This morning was the promotion announcements for my tribe at Capital One, and it's something I always look forward to. (This time, especially so as [I am being promoted]({{< ref 2020-07-09-new-job-title-who-dis >}}))
+This morning was the promotion announcements for my tribe at Capital One, and it's something I always look forward to. (This time, especially so as [I am being promoted](/posts/2020/07/09/new-job-title-who-dis/))
 
 This is a great opportunity to celebrate with other associates who have just been promoted, hear about some of their achievements, and some nice words from promoting managers. It's lovely to be able to get this opportunity, especially as not everyone is aware of who has been promoted.
 
@@ -23,6 +23,6 @@ Chris, of course, mentioned my website, with each slide slowly increasing the vi
 
 ![Screenshot of a slide with many variations on my domain name](https://media.jvt.me/afb33db85c.png)
 
-I had good fun, especially as this is the first time I've been around for my own announcement! Last time I was off ill with my [ruptured appendix]({{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix).
+I had good fun, especially as this is the first time I've been around for my own announcement! Last time I was off ill with my [ruptured appendix](/posts/2018/02/14/2017-in-review/#ruptured-appendix).
 
 Due to the Coronavirus situation, the in-person celebration party will be postponed for now, but hopefully that'll mean it'll be combined with the end-of-year promos, which would mean more people there I can celebrate with!

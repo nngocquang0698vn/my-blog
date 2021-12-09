@@ -17,7 +17,7 @@ series: pretty-print-jwt
 ---
 Let's say you're starting to work with JWTs, and to confirm that their payload is correct, you want to introspect their contents. However, you may be aware that JWTs can contain sensitive information such as the hostname of a server, personally identifiable information, or could be used as a bearer token to access a service, so you shouldn't really be introspecting it in some public space such as [JWT.io](https://jwt.io).
 
-This has put you in a difficult position, but no more - decoding a JWT is really easy, and in this example I'll show you how to do it using just GNU Bash and OpenSSL for a dependency-less alternative to [using Ruby]({{< ref 2018-08-31-pretty-printing-jwt-ruby >}}).
+This has put you in a difficult position, but no more - decoding a JWT is really easy, and in this example I'll show you how to do it using just GNU Bash and OpenSSL for a dependency-less alternative to [using Ruby](/posts/2018/08/31/pretty-printing-jwt-ruby/).
 
 **Update 2019-10-22**: This previous version did not work very helpfully when trying to introspect an encrypted JWT (JWE). I have updated the code below to support encrypted and non-encrypted JWTs.
 
@@ -71,7 +71,7 @@ Or with an encrypted JWT (JWE):
 {"alg":"RSA-OAEP","enc":"A256GCM"}
 ```
 
-But that doesn't look _so_ pretty, especially when we have large JSON objects. So instead for an almost dependency-less script, we can use [Python to pretty-print the JSON]({{< ref 2017-06-05-pretty-printing-json-cli >}}):
+But that doesn't look _so_ pretty, especially when we have large JSON objects. So instead for an almost dependency-less script, we can use [Python to pretty-print the JSON](/posts/2017/06/05/pretty-printing-json-cli/):
 
 ```bash
 function jwt() {

@@ -18,7 +18,7 @@ syndication:
 ---
 Those who know me or at least follow me on social media or know me will know that I like attending meetups. On any given month I'll generally go to 4-5 different events, but some months are busier than others.
 
-As I mentioned in my post [_Add your Meetup.com Events to your Calendar_]({{< ref "2019-07-27-meetupcom-calendar" >}}), I've been using the Meetup.com calendar to easily see what events I'm going to, because there are quite a few of them and I don't want to manually add them to my calendar.
+As I mentioned in my post [_Add your Meetup.com Events to your Calendar_](/posts/2019/07/27/meetupcom-calendar/), I've been using the Meetup.com calendar to easily see what events I'm going to, because there are quite a few of them and I don't want to manually add them to my calendar.
 
 [In May I added the ability to start to posting other post types on my website](/notes/6b919e78-c46a-48e3-8866-9d9e9d41bb3d/), one of those content types being RSVPs.
 
@@ -30,7 +30,7 @@ But [a couple of weeks ago](https://gitlab.com/jamietanna/jvt.me/issues/566) I h
 
 I already had some of the data, so I could probably enhance the contents of the RSVPs to include an end time and a location and that'd be as useful as the Meetup.com calendar integration, or manually adding items to my calendar.
 
-Once I'd added all of those, it was then a case of creating a calendar for it. Fortunately, I'd [already done this with a calendar for Homebrew Website Club]({{< ref "2019-05-22-ical-events-hugo" >}}) which is straightforward with Hugo, so all I needed to do was map the RSVP's data to a calendar entry.
+Once I'd added all of those, it was then a case of creating a calendar for it. Fortunately, I'd [already done this with a calendar for Homebrew Website Club](/posts/2019/05/22/ical-events-hugo/) which is straightforward with Hugo, so all I needed to do was map the RSVP's data to a calendar entry.
 
 And there you go, I now have [a handy iCalendar link](/rsvps/index.ics) to an always up to date calendar of all my RSVPs - awesome! And because it's all up on my website, this link is available for anyone who also wants to follow me to events.
 

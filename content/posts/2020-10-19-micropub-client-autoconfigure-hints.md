@@ -13,7 +13,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-So far I'm enjoying using my [autoconfiguring Micropub client]({{< ref 2020-10-15-micropub-client-autoconfigure >}}), but as mentioned in the announce post, I knew there was a glaring usability issue (aside from the poor design of the UI!). I knew I wanted to make it so the editor can understand what type of input to use for a property.
+So far I'm enjoying using my [autoconfiguring Micropub client](/posts/2020/10/15/micropub-client-autoconfigure/), but as mentioned in the announce post, I knew there was a glaring usability issue (aside from the poor design of the UI!). I knew I wanted to make it so the editor can understand what type of input to use for a property.
 
 This means I can take the original event editor page, which was just a row of plain text inputs:
 

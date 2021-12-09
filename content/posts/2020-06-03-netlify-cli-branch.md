@@ -17,7 +17,7 @@ syndication:
 ---
 I'm very excited to say that the Netlify CLI tool ([<i class="fa fa-github"></i>&nbsp;netlify/cli](https://github.com/netlify/cli)) [now](https://github.com/netlify/cli/pull/907) has the ability to deploy a branch on the command-line.
 
-This has been a feature request since [at least 2018](https://github.com/netlify/cli/issues/44) and has been greatly anticipated from the community, and I've been wanting to use it for some time when using [GitLab CI]({{< ref 2018-04-12-gitlab-ci-netlify >}}) pipelines.
+This has been a feature request since [at least 2018](https://github.com/netlify/cli/issues/44) and has been greatly anticipated from the community, and I've been wanting to use it for some time when using [GitLab CI](/posts/2018/04/12/gitlab-ci-netlify/) pipelines.
 
 As of [netlify-cli@2.53.0](https://www.npmjs.com/package/netlify-cli/v/2.53.0), it's now possible to deploy using the `-b $branchName` flag:
 

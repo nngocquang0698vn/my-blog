@@ -13,7 +13,7 @@ slug: "gotcha-netlify-lowercase"
 series: nablopomo-2019
 image: /img/vendor/netlify-full-logo-white.png
 ---
-Yesterday, I posted about [_Making Hugo Generate Case Sensitive URLs_]({{< ref "2019-11-10-hugo-case-sensitive-urls" >}}), as a way to [self-document]({{< ref "2017-06-25-blogumentation" >}}) but also because I wanted to updated my own site to render case-sensitive URLs because I noticed this was not actually rendering them as case-sensitive.
+Yesterday, I posted about [_Making Hugo Generate Case Sensitive URLs_](/posts/2019/11/10/hugo-case-sensitive-urls/), as a way to [self-document](/posts/2017/06/25/blogumentation/) but also because I wanted to updated my own site to render case-sensitive URLs because I noticed this was not actually rendering them as case-sensitive.
 
 I have a number of specifically case-sensitive URLs which are randomly generated, so use mixed cases so I can decrease the chance of filename collisions.
 

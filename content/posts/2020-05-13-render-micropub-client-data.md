@@ -16,7 +16,7 @@ syndication:
 - https://indieweb.xyz/en/indieweb
 - https://indieweb.xyz/en/microformats
 ---
-Aside from [blog posts](/kind/articles/), like this one, content I publish to my site is using the [open standard Micropub](https://www.w3.org/TR/micropub/), which I've supported [since last August]({{< ref 2019-08-26-setting-up-micropub >}}).
+Aside from [blog posts](/kind/articles/), like this one, content I publish to my site is using the [open standard Micropub](https://www.w3.org/TR/micropub/), which I've supported [since last August](/posts/2019/08/26/setting-up-micropub/).
 
 Being an open standard means there are lots of client implementations, so I'm free to use various different Web/mobile apps to interact with my site.
 

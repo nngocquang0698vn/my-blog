@@ -237,4 +237,4 @@ This allows us to much more easily simplify our HTTP logic, allowing our step de
 
 # API Versioning
 
-I've written about how to get your Proxy classes updated to be able to support different versions of your API in [_Adding API Versioning to your Environment-Agnostic Functional Acceptance Tests_]({{< ref 2021-04-28-agnostic-acceptance-tests-api-versioning >}}).
+I've written about how to get your Proxy classes updated to be able to support different versions of your API in [_Adding API Versioning to your Environment-Agnostic Functional Acceptance Tests_](/posts/2021/04/28/agnostic-acceptance-tests-api-versioning/).

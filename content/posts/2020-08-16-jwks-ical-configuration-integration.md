@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-16T20:59:59+0100
 slug: "jwks-ical-configuration-integration"
 ---
-When I first announced the release of [jwks-ical, a solution for _Keeping Track of Certificate Expiry with a JWKS to iCalendar Converter_]({{< ref 2020-06-14-track-certificate-expiry-jwks-ical >}}), it was only possible provide the full `jwks_uri`.
+When I first announced the release of [jwks-ical, a solution for _Keeping Track of Certificate Expiry with a JWKS to iCalendar Converter_](/posts/2020/06/14/track-certificate-expiry-jwks-ical/), it was only possible provide the full `jwks_uri`.
 
 However, it may be better to auto-detect the configuration from the authorization server.
 

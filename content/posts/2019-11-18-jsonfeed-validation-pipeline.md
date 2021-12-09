@@ -17,7 +17,7 @@ Earlier today, I found that my site's JSON feed has been broken since Thursday a
 
 This isn't _as much_ of an issue because I don't believe many folks use my JSON feed, as I have a fully fledged [h-feed](https://indieweb.org/h-feed) and RSS feed, and JSON feed isn't as popular.
 
-However, as mentioned in [_Re-enabling search on my static website_]({{< ref "2019-05-01-reenable-static-search" >}}), this JSON feed is actually to be used for [my search functionality](/search/) on the site. This is more of a problem because it leaves the site broken, and folks aren't able to find previous content on the site.
+However, as mentioned in [_Re-enabling search on my static website_](/posts/2019/05/01/reenable-static-search/), this JSON feed is actually to be used for [my search functionality](/search/) on the site. This is more of a problem because it leaves the site broken, and folks aren't able to find previous content on the site.
 
 [Since September I've had an issue to check whether the feed was valid JSON in my build pipeline](https://gitlab.com/jamietanna/jvt.me/issues/726), but I haven't yet actually done it because I didn't think it could be that bad, and it didn't break that often.
 

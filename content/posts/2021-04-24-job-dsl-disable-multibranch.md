@@ -11,7 +11,7 @@ date: 2021-04-24T19:44:54+0100
 slug: "job-dsl-disable-multibranch"
 image: /img/vendor/jenkins.png
 ---
-Using Job DSL to manage your pipelines is useful, but sometimes you want to not run a pipeline, for instance so it doesn't trigger in your [test environment]({{< ref 2021-04-06-job-dsl-test-environment >}}).
+Using Job DSL to manage your pipelines is useful, but sometimes you want to not run a pipeline, for instance so it doesn't trigger in your [test environment](/posts/2021/04/06/job-dsl-test-environment/).
 
 # Post Jenkins 2.263
 

@@ -12,7 +12,7 @@ image: https://media.jvt.me/2b06cbc075.png
 ---
 Yesterday I was working with a Docker configuration that was set up to use the TCP daemon rather than the Unix daemon. This led to a pretty frustrating day of fighting to get Docker-in-Docker working, as I needed to have the child containers accessing the parent socket, but as I had no control over the configuration, I needed to continue using the TCP socket.
 
-While looking at it, I found several options for how to access the host from a child container, and I wanted to [document them for future reference]({{< ref 2017-06-25-blogumentation >}}).
+While looking at it, I found several options for how to access the host from a child container, and I wanted to [document them for future reference](/posts/2017/06/25/blogumentation/).
 
 In the below examples, I'll try and reach a Hugo server that I'm running (bound to all interfaces) by running:
 

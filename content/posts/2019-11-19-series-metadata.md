@@ -16,4 +16,4 @@ To make them discoverable, I've used tags i.e. [pretty-print](/tags/pretty-print
 
 As part of adding this, I've marked up a number of old posts which fit under this categorisation, as well as everything in [2019's NaBloPoMo](/series/nablopomo-2019/) accordingly.
 
-I've also added a question to my [Merge Request Template for articles]({{< ref "2019-11-17-article-checklist" >}}) to ensure that I remember to tag new articles correctly.
+I've also added a question to my [Merge Request Template for articles](/posts/2019/11/17/article-checklist/) to ensure that I remember to tag new articles correctly.

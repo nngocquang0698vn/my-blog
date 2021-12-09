@@ -16,7 +16,7 @@ syndication:
 - https://indieweb.xyz/en/indieweb
 - https://twitter.com/jamietanna
 ---
-Note: This post is very similar to [Introducing a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`]({{< ref "2019-08-31-microformats-meetup" >}}), so I'd recommend a read of that post for some more of the context of why I'm doing this.
+Note: This post is very similar to [Introducing a Microformats API for Meetup.com: `meetup-mf2.herokuapp.com`](/posts/2019/08/31/microformats-meetup/), so I'd recommend a read of that post for some more of the context of why I'm doing this.
 
 I'm happy to announce that `eventbrite-mf2.herokuapp.com` is now live and provides a Eventbrite translation layer for [Microformats](https://indieweb.org/Microformats). This makes it possible to integrate with your favourite Microformats parser and get programmatic access to a event's metadata.
 

@@ -386,7 +386,7 @@ I would, however, like to make preference to less privileged students who want t
 
 Something close to me recently is also those who are looking to switch careers. I've had a number of friends and community members who have reached out about wanting to transition into tech, and I've been trying to share advice and experiences that may help them with their journey.
 
-[blogumentation]: {{< ref 2017-06-25-blogumentation >}}
+[blogumentation]: /posts/2017/06/25/blogumentation/
 [libelius]: /projects/libelius/
 [Football Facsimile]: /projects/football_facsimile/
 [hacksoc]: http://hacksocnotts.co.uk
@@ -394,6 +394,6 @@ Something close to me recently is also those who are looking to switch careers. 
 [technottingham]: http://technottingham.com
 [Docker Build System for Android on Intel Architecture]: /projects/docker_android_ia/
 [The other non Software Engineering roles that exist]: #the-other-non-software-engineering-roles-that-exist
-[recent move into Quality Engineering]: {{< ref 2018-07-06-exciting-news >}}
-[qe-announce]: {{< ref 2018-07-06-exciting-news >}}#moving-into-quality-engineering
+[recent move into Quality Engineering]: /posts/2018/07/06/exciting-news/
+[qe-announce]: /posts/2018/07/06/exciting-news/#moving-into-quality-engineering
 [chef]: http://chef.io

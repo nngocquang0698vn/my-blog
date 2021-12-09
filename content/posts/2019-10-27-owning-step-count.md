@@ -55,7 +55,7 @@ The first thing I started do was decide how to mark up the data with [Microforma
 
 I decided that because this wasn't any data that someone would want to read in a feed, I would not render it as an `h-entry` that contained an `h-measure`, as well as semantically it not feeling like an entry.
 
-Once I had finalised the format of the data, with the help of looking at some of the historic data via the API, I needed to extend [my Micropub endpoint]({{< ref "2019-08-26-setting-up-micropub" >}}) to support an `h-measure` type, and perform the required validation. This was luckily straightforward due to the way I'd designed the implementation of my Micropub server.
+Once I had finalised the format of the data, with the help of looking at some of the historic data via the API, I needed to extend [my Micropub endpoint](/posts/2019/08/26/setting-up-micropub/) to support an `h-measure` type, and perform the required validation. This was luckily straightforward due to the way I'd designed the implementation of my Micropub server.
 
 With the support in my Micropub server, I now needed to populate this data. For this, I needed to hook into the [Google Fit API](https://developers.google.com/fit) automagically, daily, which meant I'd need to register an OAuth2 client for the Google Fit APIs.
 

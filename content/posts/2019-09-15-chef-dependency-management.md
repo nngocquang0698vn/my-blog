@@ -116,7 +116,7 @@ Used with:
 
 The `Gemfile` and the `Gemfile.lock` are only for development Gem dependencies, used with the [Bundler dependency management tool](https://bundler.io).
 
-If your cookbook depends on a Gem, you need to add it to your `metadata.rb`, or follow [this post]({{< ref 2021-03-24-chef-cookbook-gem-metadata >}}).
+If your cookbook depends on a Gem, you need to add it to your `metadata.rb`, or follow [this post](/posts/2021/03/24/chef-cookbook-gem-metadata/).
 
 Used with:
 

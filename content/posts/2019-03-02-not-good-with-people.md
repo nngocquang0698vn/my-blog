@@ -107,11 +107,11 @@ And then I need to make sure I just get better at talking to people, which is go
 [Anna]: https://annadodson.co.uk
 [Paula]: https://twitter.com/kerpowla
 [Houman]: https://twitter.com/houmanB
-[appendix]: {{< ref 2018-02-14-2017-in-review >}}#ruptured-appendix
+[appendix]: /posts/2018/02/14/2017-in-review/#ruptured-appendix
 [steve]: https://imacode.ninja
 [steve-blog]: https://imacode.ninja/2019/02/06/an-agile-guide-to-being-less-of-an-introvert/
 [stevegal]: https://twitter.com/galsteve
-[fosdem-2019]: {{< ref 2019-02-09-fosdem-2019 >}}
+[fosdem-2019]: /posts/2019/02/09/fosdem-2019/
 [rwdrich]: http://rwdrich.co.uk
 [Ludorati]: https://ludoraticafe.com
 [Vipin]: https://www.vipinajayakumar.com/

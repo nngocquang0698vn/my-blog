@@ -22,7 +22,7 @@ syndication:
 ---
 As some of you may know, I'm a [big advocate](/tags/indieweb/) for the [IndieWeb movement](https://indieweb.org/why).
 
-I have been starting to [own my RSVPs]({{< ref "2019-07-27-rsvp-calendar" >}}), and publishing them from my personal website, but I know not everyone has got to that stage in their IndieWeb journey, and I wanted to give a helping hand.
+I have been starting to [own my RSVPs](/posts/2019/07/27/rsvp-calendar/), and publishing them from my personal website, but I know not everyone has got to that stage in their IndieWeb journey, and I wanted to give a helping hand.
 
 For those of you who attend [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/), you may notice that there is no event on i.e. Meetup.com or Eventbrite. That is partly because I don't want to have to pay to host the event, but mostly because I get some more control when hosting the event, which is the whole point of the IndieWeb.
 

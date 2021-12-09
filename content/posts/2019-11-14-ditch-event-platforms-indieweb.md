@@ -84,7 +84,7 @@ For an attendee, they'll then need to publish [an RSVP post to their site](/mf2/
 </div>
 ```
 
-That's the simplest markup you can use for it, but if you want to add a bit more I've written [a bit more detail in _How to RSVP to an Indie Event from your Website_]({{< ref "2019-08-21-rsvp-from-your-website" >}}), including how you let the event know you've RSVP'd.
+That's the simplest markup you can use for it, but if you want to add a bit more I've written [a bit more detail in _How to RSVP to an Indie Event from your Website_](/posts/2019/08/21/rsvp-from-your-website/), including how you let the event know you've RSVP'd.
 
 This model allows anyone to RSVP to an event, and because it uses your website, costs as little as whatever you're currently paying in server maintenance, but not nearly as much as the Meetup.com charge! There are also some free hosted options for IndieWeb services, so you don't need to host or write your own.
 
@@ -109,4 +109,4 @@ Unfortunately there are a couple of gaps in the solution:
 
 I'd very much appreciate feedback on all this - there are links at the bottom of the page for how to get in touch with me, and please share this to get more feedback from event organisers.
 
-Want to know what this IndieWeb thing is all about? You can read [a transcript of my talk _The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_]({{< ref "2019-10-20-indieweb-talk" >}}) for an overview of what it is and some of the things we stand for.
+Want to know what this IndieWeb thing is all about? You can read [a transcript of my talk _The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/posts/2019/10/20/indieweb-talk/) for an overview of what it is and some of the things we stand for.

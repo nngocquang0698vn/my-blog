@@ -30,4 +30,4 @@ Connection: close
 
 This appears to be because the `ContentCachingRequestWrapper` doesn't cache the raw `ServletInputStream`, which is then consumed further down the line by Spring when trying to use `@RequestBody`.
 
-The solution is detailed in my article [_Reading a Servlet/Spring Request Body Multiple Times_]({{< ref 2020-05-25-read-servlet-request-body-multiple >}}), and involves _not_ using the `ContentCachingRequestWrapper`, but instead using a custom class that can cache the `ServletInputStream`.
+The solution is detailed in my article [_Reading a Servlet/Spring Request Body Multiple Times_](/posts/2020/05/25/read-servlet-request-body-multiple/), and involves _not_ using the `ContentCachingRequestWrapper`, but instead using a custom class that can cache the `ServletInputStream`.

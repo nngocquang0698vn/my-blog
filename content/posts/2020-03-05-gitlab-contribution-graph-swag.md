@@ -27,7 +27,7 @@ I enjoyed showing off my graph, as I use GitLab a tonne for all of my projects -
 
 As mentioned, the use of automated scripts pushing to GitLab removed some of the magic of it, but it was still a large amount of contributions over the year, which was pretty good.
 
-But the icing on the cake was my name was drawn and I won the giveaway! This was the second time in two years that I'd got GitLab swag credit (the first [was due to my blogging about GitLab]({{< ref 2020-01-12-2018-in-review >}}#free-stuff-from-gitlab)), which is pretty cool. But even nicer was that it was another very generous $150!
+But the icing on the cake was my name was drawn and I won the giveaway! This was the second time in two years that I'd got GitLab swag credit (the first [was due to my blogging about GitLab](/posts/2020/01/12/2018-in-review/#free-stuff-from-gitlab)), which is pretty cool. But even nicer was that it was another very generous $150!
 
 I wanted to get some good swag, but at the time I looked most stuff was out of stock or not being sold, so I set it aside and would come back later. After quite a few months of not ordering I got a little panicked and at the start of February I ordered it - which was lucky, as there was some great swag available.
 

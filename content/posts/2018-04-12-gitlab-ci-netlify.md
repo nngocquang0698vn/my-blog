@@ -19,7 +19,7 @@ slug: gitlab-ci-netlify
 
 **Update 2** as of [2018-09-10](https://www.netlify.com/blog/2018/09/10/netlify-cli-2.0-now-in-beta/#our-cli-journey), the `netlify` Node CLI is back to being the preferred commandline interface for Netlify.
 
-**Update 3** as of [2020-06-03]({{< ref 2020-06-03-netlify-cli-branch >}}) it is now possible to use the `netlify` Node CLI to perform branch-based deployments, which is a great fit for using with GitLab review apps - if you're able to predict the full URL Netlify uses, that is.
+**Update 3** as of [2020-06-03](/posts/2020/06/03/netlify-cli-branch/) it is now possible to use the `netlify` Node CLI to perform branch-based deployments, which is a great fit for using with GitLab review apps - if you're able to predict the full URL Netlify uses, that is.
 
 Since I migrated my [meetups + conference talks repo][gl-talks] to Reveal.JS, I've found that I've been wanting to have a branch spun up with the talk's content at a publically accessible URL, exactly how [I have configured Review Apps][review-apps] for my personal site.
 
@@ -65,7 +65,7 @@ I set this as the secret variable `NETLIFY_ACCESS_TOKEN` in the GitLab repo's `C
 Then, [we can see a deploy succeeds][deploy], and you can now access the site at [https://talks.jvt.me](https://talks.jvt.me), with certificates managed by Netlify, and provisioned by [Let's Encrypt][le].
 
 [netlify]: https://netlify.com
-[review-apps]: {{< ref 2017-07-18-gitlab-review-apps-capistrano >}}
+[review-apps]: /posts/2017/07/18/gitlab-review-apps-capistrano/
 [package-deps]: https://gitlab.com/jamietanna/talks/issues/13
 [netlify-cli]: https://www.netlify.com/docs/cli/
 [appl]: https://app.netlify.com/account/applications

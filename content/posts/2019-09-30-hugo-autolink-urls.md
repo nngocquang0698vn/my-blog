@@ -14,7 +14,7 @@ slug: "hugo-autolink-urls"
 
 This was fairly straightforward, but one issue I had with this was that my content was purely plaintext, which meant that if I were to include a URL in a post's body, it would not be converted to a clickable HTML link.
 
-This was fine for a little bit, as I've been not doing too much with it, but over the last month or so I've been starting to publish a lot more on my site using my [Micropub server]({{< ref "2019-08-26-setting-up-micropub" >}}).
+This was fine for a little bit, as I've been not doing too much with it, but over the last month or so I've been starting to publish a lot more on my site using my [Micropub server](/posts/2019/08/26/setting-up-micropub/).
 
 To make it possible to convert these to links for better user experience, both for automated parsing of the posts and humans viewing the posts, I needed to delve into some dark magic and use a regular expression (slight sarcasm!).
 

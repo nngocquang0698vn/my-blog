@@ -76,7 +76,7 @@ It turns out, as of 2.3.1.RELEASE, I also need to now _either_ remove my `<exclu
 </dependency>
 ```
 
-Or exclude both JUnit 4 and JUnit's "Vintage" engine [which allows running both JUnit4 and JUnit5 code side-by-side]({{< ref 2019-12-23-junit4-junit5-gotcha-together-maven>}}):
+Or exclude both JUnit 4 and JUnit's "Vintage" engine [which allows running both JUnit4 and JUnit5 code side-by-side](/posts/2019/12/23/junit4-junit5-gotcha-together-maven/):
 
 ```xml
 <dependency>

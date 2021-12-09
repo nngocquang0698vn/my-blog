@@ -18,7 +18,7 @@ image: https://media.jvt.me/f34f45fbf0.png
 ---
 I've completed my implementation of an [IndieAuth v1.1 server](https://indieauth.spec.indieweb.org/), which has been a goal of mine for some time.
 
-IndieAuth is a great standard for being "OAuth for the Open Web", and within the IndieWeb community, it's seeing some great investment and diversity in use cases. When I was first looking at getting involved in the IndieWeb, I thought that this would be my first project, but instead I ended up going the route of [creating a Micropub server]({{< ref 2019-08-26-setting-up-micropub >}}) and [sending Webmentions]({{< ref 2019-09-10-webmentions-on-deploy >}}).
+IndieAuth is a great standard for being "OAuth for the Open Web", and within the IndieWeb community, it's seeing some great investment and diversity in use cases. When I was first looking at getting involved in the IndieWeb, I thought that this would be my first project, but instead I ended up going the route of [creating a Micropub server](/posts/2019/08/26/setting-up-micropub/) and [sending Webmentions](/posts/2019/09/10/webmentions-on-deploy/).
 
 However, over time, I've found that I am starting to outgrow IndieAuth.com as my hosted server, as there are a few extensions I want to provide that only make sense for me, and it gives me yet another project to spend my time building instead of doing the important things in life!
 
@@ -28,7 +28,7 @@ I also wanted to make it compliant with the latest version of the IndieAuth spec
 
 # Authentication via Push Notification
 
-As mentioned in [_Setting up Passwordless Authentication using the Okta Factors API_]({{< ref 2020-11-10-okta-factors-api-passwordless >}}), one of the key reasons of building my own IndieAuth server is to tailor my authentication flow to me. This is primarily to make testing with my staging Micropub server easier, but is also so I can authenticate on a device without needing access to i.e. silo accounts for social login, or to go through an email OTP, which is slower.
+As mentioned in [_Setting up Passwordless Authentication using the Okta Factors API_](/posts/2020/11/10/okta-factors-api-passwordless/), one of the key reasons of building my own IndieAuth server is to tailor my authentication flow to me. This is primarily to make testing with my staging Micropub server easier, but is also so I can authenticate on a device without needing access to i.e. silo accounts for social login, or to go through an email OTP, which is slower.
 
 I've followed my article and now get a push notification and can allow/deny it, which simplifies things massively! I don't yet have an alternative for when I'm not on my device, however, so there is a single point of failure here, but so far it's made a huge difference.
 

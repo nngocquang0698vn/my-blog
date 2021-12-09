@@ -25,4 +25,4 @@ $ aws lambda invoke --function-name my-function --invocation-type RequestRespons
 
 This outputs information about whether the operation was a success to `stdout`, and the Lambda's response to `response.json`.
 
-Remember that if you're using different AWS accounts/profiles, you'll need to [specify the AWS profile]({{< ref 2018-11-15-aws-profile-cli-sdk >}}) before you run the above command.
+Remember that if you're using different AWS accounts/profiles, you'll need to [specify the AWS profile](/posts/2018/11/15/aws-profile-cli-sdk/) before you run the above command.

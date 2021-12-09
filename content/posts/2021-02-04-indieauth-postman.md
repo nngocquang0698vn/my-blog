@@ -15,9 +15,9 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-When I wrote [Autogenerating Postman Collections for Micropub Servers]({{< ref 2021-01-11-micropub-postman >}}), I had a good bit of fun with generating a Postman collection for Micropub servers - and it didn't hurt that it was to enter a hackathon!
+When I wrote [Autogenerating Postman Collections for Micropub Servers](/posts/2021/01/11/micropub-postman/), I had a good bit of fun with generating a Postman collection for Micropub servers - and it didn't hurt that it was to enter a hackathon!
 
-But over the last few weeks I've been doing a bit more with my [IndieAuth](https://indieauth.spec.indieweb.org/) server, like implementing [refresh tokens]({{< ref 2021-01-31-refresh-token-indieauth >}}).
+But over the last few weeks I've been doing a bit more with my [IndieAuth](https://indieauth.spec.indieweb.org/) server, like implementing [refresh tokens](/posts/2021/01/31/refresh-token-indieauth/).
 
 As part of this, and other changes I work on, there's a fair bit of manual testing to double check that I've done everything right, even though I'm pretty confident that my automated tests will catch things, it's worth ensuring that it actually works when using other tools.
 

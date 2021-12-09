@@ -62,7 +62,7 @@ $ docker run --entrypoint=ls -ti lambci/lambda:java11 /var/runtime/lib/
 
 We can see that this is the [aws-lambda-java-core v1.2.0](https://mvnrepository.com/artifact/com.amazonaws/aws-lambda-java-core/1.2.0) dependency, but the `aws-lambda-java-runtime` and `aws-lambda-java-serialization` don't match anything on Maven Central, nor GitHub, as they appear to be private AWS libraries.
 
-Because [JARs are just ZIP files]({{< ref 2020-02-25-unzip-jar >}}), we can use `unzip` to list the contents:
+Because [JARs are just ZIP files](/posts/2020/02/25/unzip-jar/), we can use `unzip` to list the contents:
 
 ```
 $ unzip -l aws-lambda-java-runtime-0.2.0.jar

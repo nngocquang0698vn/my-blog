@@ -12,7 +12,7 @@ image: /img/vendor/git.png
 ---
 Today I was working on a number of different Git repos that needed exactly the same changes applied to them, including their commit message.
 
-Because it was using a completely different Git repo, I couldn't use [`git cherry-pick`]({{< ref "2018-10-28-git-cherry-pick-backport-replay-changes" >}}) to do this, so needed some way to apply the patch some way.
+Because it was using a completely different Git repo, I couldn't use [`git cherry-pick`](/posts/2018/10/28/git-cherry-pick-backport-replay-changes/) to do this, so needed some way to apply the patch some way.
 
 Luckily this works quite nicely with Git because one of the largest workflows within Git is sending patches via email.
 

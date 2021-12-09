@@ -12,7 +12,7 @@ date: 2019-07-07T11:24:56+0100
 slug: "2019-tyk-community-awards"
 image: /img/vendor/tyk-community-awards-mascots.png
 ---
-Late last year I wrote [the blog post _Unit Testing Your TYK (TYKJS) Middleware_]({{< ref 2018-12-10-testing-tykjs-middleware >}}) about my time getting started with the Tyk API Gateway's 's JavaScript Middleware, with some help from [Stephen Galbraith](https://lifewithcode.blogspot.com/).
+Late last year I wrote [the blog post _Unit Testing Your TYK (TYKJS) Middleware_](/posts/2018/12/10/testing-tykjs-middleware/) about my time getting started with the Tyk API Gateway's 's JavaScript Middleware, with some help from [Stephen Galbraith](https://lifewithcode.blogspot.com/).
 
 It's received some traffic over the last few months, both organic search traffic and via links I'd shared at the time, which is cool to see there's a gap in the market for it.
 

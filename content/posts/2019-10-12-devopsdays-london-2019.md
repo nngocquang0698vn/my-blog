@@ -26,7 +26,7 @@ image: /img/vendor/devopsdays-london-2019.png
 ---
 Note: This is a lengthier writeup than I'd hoped to do, hence it taking a little longer to be written, so feel free to dive into the sections you're interested in.
 
-I had a great time at DevOpsDays London 2019, after the [great time I had at 2018]({{< ref "2018-10-25-devopsdays-london-2018" >}}), and am really glad I went back again.
+I had a great time at DevOpsDays London 2019, after the [great time I had at 2018](/posts/2018/10/25/devopsdays-london-2018/), and am really glad I went back again.
 
 Paul Clarke has a great GIF slideshow to give you a bit of feel about what the event was like:
 
@@ -34,7 +34,7 @@ Paul Clarke has a great GIF slideshow to give you a bit of feel about what the e
 
 # Inclusivity
 
-[As with last year]({{< ref "2018-10-25-devopsdays-london-2018" >}}#inclusivity), DevOpsDays London is without a doubt the most inclusive conference I attend:
+[As with last year](/posts/2018/10/25/devopsdays-london-2018/#inclusivity), DevOpsDays London is without a doubt the most inclusive conference I attend:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is an awesome level of effort from <a href="https://twitter.com/hashtag/DevOpsDaysLDN?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDaysLDN</a> to make this an event that has no boundaries or barriers for folks to join in, such a great length they go to, and I hope other conferences follow suit <a href="https://t.co/pMY9C0gmZj">pic.twitter.com/pMY9C0gmZj</a></p>&mdash; Jamie Tanna | www.jvt.me (@JamieTanna) <a href="https://twitter.com/JamieTanna/status/1177145808933806081?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote>
 
@@ -258,7 +258,7 @@ But this also means that you need to architect your applications in the right wa
 - they should be able to restart cleanly
 - state should not be stored in the application, otherwise sticky sessions make things a whole lot more complicated for scaling
 
-Nicky spoke about the ability to very easily perform a cross-region failover automagically. Nicky spoke about the importance of testing these things before they go bad, which [Euan Finlay's talk _Don't Panic_ at last year's DevOpsDays London]({{< ref "2018-10-25-devopsdays-london-2018" >}}#dont-panic) goes into in a bit more depth.
+Nicky spoke about the ability to very easily perform a cross-region failover automagically. Nicky spoke about the importance of testing these things before they go bad, which [Euan Finlay's talk _Don't Panic_ at last year's DevOpsDays London](/posts/2018/10/25/devopsdays-london-2018/#dont-panic) goes into in a bit more depth.
 
 Nicky warned us against the care required in performing these failovers, and ensuring that the new stack doesn't get infected by the same root cause as the first, leading to both becoming unhealthy or failing altogether! Nicky recommended that to avoid this, you should run a rolling update to be able to ensure that only a few instances are affected at a time, giving you a chance to validate the change before switching more over.
 
@@ -481,7 +481,7 @@ We spoke a little about the way that if your teams don't have some level of chur
 
 As one participant described the quality of documentation - "if you still have to tell people things, your documentation could be better".
 
-As an aside, I'd thoroughly recommend getting into the habit of [writing blog posts as a form of documentation]({{< ref 2017-06-25-blogumentation >}}), preferably public and on your own website, so they're yours and can be non-company specific. I've found this has been a massively useful way for me to store bits of useful information and grow my collection of tips and tricks that I can hold on to regardless of which team or company I work for.
+As an aside, I'd thoroughly recommend getting into the habit of [writing blog posts as a form of documentation](/posts/2017/06/25/blogumentation/), preferably public and on your own website, so they're yours and can be non-company specific. I've found this has been a massively useful way for me to store bits of useful information and grow my collection of tips and tricks that I can hold on to regardless of which team or company I work for.
 
 # Fighting toxic working environments
 
@@ -719,4 +719,4 @@ We talked a little bit about monolithic applications and how to split them down,
 
 One participant shared the talk [From Monolith to Microservices and back](https://www.youtube.com/watch?v=0jODVkkwiMc) that talks through some of the reasons you would actually want a monolith.
 
-It's also worth a read of [the Open Space _What's wrong with a good monolith?_ at DevOpsDays London 2018]({{< ref "2018-10-25-devopsdays-london-2018" >}}#whats-wrong-with-a-good-monolith).
+It's also worth a read of [the Open Space _What's wrong with a good monolith?_ at DevOpsDays London 2018](/posts/2018/10/25/devopsdays-london-2018/#whats-wrong-with-a-good-monolith).

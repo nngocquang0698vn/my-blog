@@ -119,7 +119,7 @@ grant_type=client_credentials&
   client_assertion=eyJ...
 ```
 
-As the name suggests, there's a JSON Web Token (JWT) in there, which can be generated as noted in [Generating the Client Assertion JWT for `private_key_jwt` Authentication with Ruby]({{< ref 2020-06-15-ruby-private-key-jwt-client-assertion >}}):
+As the name suggests, there's a JSON Web Token (JWT) in there, which can be generated as noted in [Generating the Client Assertion JWT for `private_key_jwt` Authentication with Ruby](/posts/2020/06/15/ruby-private-key-jwt-client-assertion/):
 
 ```json
 {

@@ -14,7 +14,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-Since [setting up a micropub server for www.jvt.me in August]({{< ref "2019-08-26-setting-up-micropub" >}}), I've been using it more and more to be able to publish content to my site.
+Since [setting up a micropub server for www.jvt.me in August](/posts/2019/08/26/setting-up-micropub/), I've been using it more and more to be able to publish content to my site.
 
 One of the perks of [Micropub](https://indieweb.org/Micropub) is that it's a [standardised API for creating content, which is currently a W3C Recommendation](https://www.w3.org/TR/micropub/#respecDocument) with a lot of clients using it.
 

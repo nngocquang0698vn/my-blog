@@ -53,7 +53,7 @@ I currently manage things? In [Aperture](https://aperture.p3k.io/), the server I
 - MF2 Testing
   - A general-purpose channel I've got for putting arbitrary feeds in, for instance when I want to drastically change the way my site's Microformats2 feed is set up
 - Jvt.me firehose
-  - My own blog, for all posts aka the ["firehose" feed]({{< ref 2020-05-04-firehose-feed >}})
+  - My own blog, for all posts aka the ["firehose" feed](/posts/2020/05/04/firehose-feed/)
 - Twitter all
   - My full Twitter feed
 - Non-indie aggregators
@@ -91,7 +91,7 @@ friends, and I want to follow their blogs, so I would put them in `Close Friends
 
 ## Platform-aware content
 
-In [_Platform-Aware @-mentioning People on my Blog_]({{< ref 2020-03-22-at-mention-people >}}) I mentioned that I've made it possible to store folks' identity data across platforms in a way that means if a post goes to Twitter I tag the person by their Twitter username instead of their site's URL.
+In [_Platform-Aware @-mentioning People on my Blog_](/posts/2020/03/22/at-mention-people/) I mentioned that I've made it possible to store folks' identity data across platforms in a way that means if a post goes to Twitter I tag the person by their Twitter username instead of their site's URL.
 
 Because I have folks who blog and post content to Twitter, I want to keep up to date with that, and so I'd like to make sure I can follow folks across platforms. In conjunction with Circles, I'd want to have a `Close Friends` for websites and `Close Friends - Twitter` to allow it to break down so I can see their thoughts on the right platform.
 

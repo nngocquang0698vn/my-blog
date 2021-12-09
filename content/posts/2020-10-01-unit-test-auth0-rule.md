@@ -30,9 +30,9 @@ They're a great way to provide some value-add on top of some of the other great 
 
 This is a post in of itself, but having confidence that your code works should be pretty high on your priority list, especially as this code is underpinning your identity solution!
 
-When building [a hack at Hackference's hackathon using Auth0]({{< ref 2018-12-09-hackference-2018 >}}#hackathon), I found that, similar to my [TykJS Middleware testing article]({{< ref 2018-12-10-testing-tykjs-middleware >}}), it wasn't super obvious how to test that the rules worked.
+When building [a hack at Hackference's hackathon using Auth0](/posts/2018/12/09/hackference-2018/#hackathon), I found that, similar to my [TykJS Middleware testing article](/posts/2018/12/10/testing-tykjs-middleware/), it wasn't super obvious how to test that the rules worked.
 
-In the [spirit of Blogumentation]({{< ref 2017-06-25-blogumentation >}}) I'm writing up my experiences as well as providing a how-to with a permissive license so you too can unit test your Auth0 Rules.
+In the [spirit of Blogumentation](/posts/2017/06/25/blogumentation/) I'm writing up my experiences as well as providing a how-to with a permissive license so you too can unit test your Auth0 Rules.
 
 # How?
 

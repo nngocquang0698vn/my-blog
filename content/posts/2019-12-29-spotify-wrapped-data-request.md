@@ -15,7 +15,7 @@ When I saw that the 2019 edition of Spotify Wrapped was available, I was really 
 
 I remember finding it really interesting the previous year, being able to see just how much music I listen to, see which artists have featured so heavily, and even down to describing my genres to me (as I am unable to self-define).
 
-Listening to the playlist that comes out of it truly does sum up the year for me, and that's really amazing [due to the memories that music trigger]({{< ref "2019-11-16-music-associations" >}}), especially with information such as [Uppermost](https://twitter.com/uppermostmusic) being the most listened to artist __of the whole decade__ (which I wholeheartedly agree with!).
+Listening to the playlist that comes out of it truly does sum up the year for me, and that's really amazing [due to the memories that music trigger](/posts/2019/11/16/music-associations/), especially with information such as [Uppermost](https://twitter.com/uppermostmusic) being the most listened to artist __of the whole decade__ (which I wholeheartedly agree with!).
 
 I shared these thoughts after seeing the data, hoping to get a decade's worth of data mined out of it:
 

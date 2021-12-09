@@ -13,7 +13,7 @@ image: /img/vendor/chef-logo.png
 ---
 If you're working with sensitive files, such as those with secrets, on a Chef run, you should ideally delete them from disk once the Chef run is complete, otherwise they could leak sensitive data.
 
-However, this doesn't necessarily play nicely with ChefSpec ([which you should be using for testing your Chef codebase]({{< ref "2018-09-04-tdd-chef-cookbooks-chefspec-inspec" >}})).
+However, this doesn't necessarily play nicely with ChefSpec ([which you should be using for testing your Chef codebase](/posts/2018/09/04/tdd-chef-cookbooks-chefspec-inspec/)).
 
 For instance, let's say we have the following Chef code:
 
@@ -102,4 +102,4 @@ This isn't ideal, but it does mean that we can at least validate the files are b
 
 Unfortunately this may not be future proof, so it's worth using cautiously. I've tested it with ChefDK 3.5.13 (with ChefSpec 7.3.2) and ChefDK 4.4.27 (with ChefSpec 7.4.0).
 
-Note: if you are deleting a file, make sure you [remember to use `backup false`]({{< ref "2018-04-30-beware-chef-file-delete" >}})!
+Note: if you are deleting a file, make sure you [remember to use `backup false`](/posts/2018/04/30/beware-chef-file-delete/)!

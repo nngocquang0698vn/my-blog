@@ -118,7 +118,7 @@ public class TokenGrantDto {
 }
 ```
 
-As mentioned in [_Testing Data Serialisation/Deserialization in Java_]({{< ref 2021-10-02-testing-json >}}), we'd be able to manage this using a unit or unit integration test.
+As mentioned in [_Testing Data Serialisation/Deserialization in Java_](/posts/2021/10/02/testing-json/), we'd be able to manage this using a unit or unit integration test.
 
 Although this works great across Spring Boot and non-Spring Boot projects, there's an even better option in Spring Boot, because the awesome folks working on it have provided the [`@JsonTest` type for verifying serialisation/deserialisation](https://docs.spring.io/spring-boot/docs/2.5.0/reference/html/features.html#features.testing.spring-boot-applications.json-tests), which works across a few different types of JSON libraries.
 

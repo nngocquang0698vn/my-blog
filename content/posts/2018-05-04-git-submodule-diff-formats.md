@@ -142,6 +142,6 @@ And adding:
 
 [Git Submodules]: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
-[git-commit-verbose]: {{< ref 2017-06-01-git-commit-verbose >}}
+[git-commit-verbose]: /posts/2017/06/01/git-commit-verbose/
 [so-submodule-diff]: https://stackoverflow.com/questions/10757091/git-list-of-all-changed-files-including-those-in-submodules
 

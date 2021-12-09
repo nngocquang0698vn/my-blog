@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-04-30T21:30:27+0100
 slug: "jwks-x5c-to-pem"
 ---
-In [_Converting an `x5c` from a JSON Web Key to a PEM with Ruby_]({{< ref 2020-01-15-x5c-to-pem-ruby >}}) I spoke about how to parse the `x5c` parameter to a PEM encode cert.
+In [_Converting an `x5c` from a JSON Web Key to a PEM with Ruby_](/posts/2020/01/15/x5c-to-pem-ruby/) I spoke about how to parse the `x5c` parameter to a PEM encode cert.
 
 However, I've found that taking a whole JWKS and extracting out the certs it references is also something that's useful to do.
 

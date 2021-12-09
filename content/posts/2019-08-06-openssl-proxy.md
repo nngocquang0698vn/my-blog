@@ -12,7 +12,7 @@ slug: "openssl-proxy"
 ---
 When at work, I'm behind a corporate proxy, which requires all my traffic to the outside world needing to pass through the proxy for various security reasons.
 
-However, if I'm trying to i.e. use OpenSSL to get the public certificate for a website using the steps in my article [_Extracting SSL/TLS Certificate Chains Using OpenSSL_]({{< ref "2017-04-28-extract-tls-certificate" >}}), I've found that the requests I send sending are just timing out.
+However, if I'm trying to i.e. use OpenSSL to get the public certificate for a website using the steps in my article [_Extracting SSL/TLS Certificate Chains Using OpenSSL_](/posts/2017/04/28/extract-tls-certificate/), I've found that the requests I send sending are just timing out.
 
 I found that this is because OpenSSL doesn't go via the proxy unless you explicitly tell it with an explicit `-proxy`:
 

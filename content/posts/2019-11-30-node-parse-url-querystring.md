@@ -12,7 +12,7 @@ slug: "node-parse-url-querystring"
 image: /img/vendor/nodejs.png
 series: nablopomo-2019
 ---
-I've [previously written about _Parsing Key-Value URL Fragments with Node.JS_]({{< ref "2019-08-01-node-parse-url-fragment" >}}), but I realised earlier that I don't have an alternative for querystrings.
+I've [previously written about _Parsing Key-Value URL Fragments with Node.JS_](/posts/2019/08/01/node-parse-url-fragment/), but I realised earlier that I don't have an alternative for querystrings.
 
 Following the same pattern, we can use the `url` module to actually parse our URL out, and then the `querystring` module to extract the key-value parameters for the querystring, instead of hand-rolling our own:
 

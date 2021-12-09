@@ -18,7 +18,7 @@ This can complicate things a little if you're using containerised builds in Jenk
 
 You _could_ hardcode them, but then you would need to go round updating all these variables in the future, when settings change, so it's worth always pulling what the host provides.
 
-Fortunately, we can follow the instructions in [_Inheriting the Environment Variables from the Jenkins Host in Docker_]({{< ref 2020-04-14-inherit-environment-docker-host-jenkins >}}), providing the argument:
+Fortunately, we can follow the instructions in [_Inheriting the Environment Variables from the Jenkins Host in Docker_](/posts/2020/04/14/inherit-environment-docker-host-jenkins/), providing the argument:
 
 ```
 -e http_proxy=$http_proxy -e https_proxy=$https_proxy -e no_proxy=$no_proxy

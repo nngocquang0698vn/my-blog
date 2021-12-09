@@ -32,7 +32,7 @@ As part of our initial team forming and ways of working, I mentioned that in one
 
 In this case, we had one project for in-sprint and one for out-of-sprint PRs, which meant we could more easily filter down to just the specific PRs that needed to be delivered as part of our work.
 
-With that in mind, I then utilised [the ability to filter GitHub project boards for PRs]({{< ref 2021-10-26-github-api-list-projects >}}), giving me the list of PRs that were sprint delivery. Next, I needed to look at what metrics would be of interest.
+With that in mind, I then utilised [the ability to filter GitHub project boards for PRs](/posts/2021/10/26/github-api-list-projects/), giving me the list of PRs that were sprint delivery. Next, I needed to look at what metrics would be of interest.
 
 # Measuring
 

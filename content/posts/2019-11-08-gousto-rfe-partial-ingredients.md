@@ -12,7 +12,7 @@ date: 2019-11-08T12:45:14+0000
 slug: "gousto-rfe-partial-ingredients"
 series: nablopomo-2019
 ---
-<span class="h-card"><a class="u-url" href="https://annadodson.co.uk">Anna</a></span> and I have been [cooking with Gousto for some time now]({{< ref "2019-07-07-four-months-gousto" >}}), and have been really enjoying it.
+<span class="h-card"><a class="u-url" href="https://annadodson.co.uk">Anna</a></span> and I have been [cooking with Gousto for some time now](/posts/2019/07/07/four-months-gousto/), and have been really enjoying it.
 
 One of the great things about Gousto is that you get everything prepared for you, and that you get everything you need. There's a bit more plastic waste than we'd hoped, but Gousto are doing some good to reduce that amount where possible, or provide recyclable packaging instead.
 

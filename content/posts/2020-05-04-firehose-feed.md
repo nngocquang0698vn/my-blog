@@ -13,9 +13,9 @@ slug: "firehose-feed"
 syndication:
 - https://news.indieweb.org/en
 ---
-If you visit my site, you'll notice that I'm big on the [IndieWeb](https://indieweb.org/why), and [owning my own data]({{< ref 2019-10-20-indieweb-talk >}}).
+If you visit my site, you'll notice that I'm big on the [IndieWeb](https://indieweb.org/why), and [owning my own data](/posts/2019/10/20/indieweb-talk/).
 
-This means that my site is my castle, and I aim to publish here, first, before publishing elsewhere. However, that means my site serves two purposes - as a home for my [blog posts](/kind/articles/) and collection of [Blogumentation posts]({{< ref 2017-06-25-blogumentation >}}), and as the base for all my social interactions.
+This means that my site is my castle, and I aim to publish here, first, before publishing elsewhere. However, that means my site serves two purposes - as a home for my [blog posts](/kind/articles/) and collection of [Blogumentation posts](/posts/2017/06/25/blogumentation/), and as the base for all my social interactions.
 
 For a while now, I've been wondering about whether having my home page showing all the likes, replies, etc is meaningful, or if folks trying to find my site really care.
 

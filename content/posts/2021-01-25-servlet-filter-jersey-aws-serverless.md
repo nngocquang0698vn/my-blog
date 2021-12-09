@@ -16,7 +16,7 @@ I work with a few Jersey web applications that are built on top of the [aws-serv
 
 We have a lot of shared libraries that solve things in a central way, and for a lot of our Java web services, these are built with `java.servlet.Filter`s. To allow us to continue using these across multiple types of web services, we wanted to be able to integrate the `Filter`s in, but couldn't quite work out how using [Stefano Buliani's comment on this GitHub thread](https://github.com/awslabs/aws-serverless-java-container/issues/209#issuecomment-437987336).
 
-In the interest of [Blogumentation]({{< ref 2017-06-25-blogumentation >}}), I've created [<i class="fa fa-gitlab"></i> jamietanna/jersey-servlet-filter-example](https://gitlab.com/jamietanna/jersey-servlet-filter-example) to show how to do this.
+In the interest of [Blogumentation](/posts/2017/06/25/blogumentation/), I've created [<i class="fa fa-gitlab"></i> jamietanna/jersey-servlet-filter-example](https://gitlab.com/jamietanna/jersey-servlet-filter-example) to show how to do this.
 
 We can do this by replacing the existing logic in [StreamLambdaHandler](https://github.com/awslabs/aws-serverless-java-container/blob/aws-serverless-java-container-1.5.2/samples/jersey/pet-store/src/main/java/com/amazonaws/serverless/sample/jersey/StreamLambdaHandler.java) and, as per Stefano's comment, we can construct the `JerseyLambdaContainerHandler` ourselves, and register our `Filter` for the URLs it needs to handle.
 

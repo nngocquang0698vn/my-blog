@@ -39,7 +39,7 @@ Instead of assuming a gender, ask for it! Having a service that takes a name and
 
 One comment from the audience was that in i.e. a biography for a blog post, conference talk, you could inadvertently leak your pronouns or how you identify, so we need to be extra careful about that and make it possible to change/remove data.
 
-We need to normalise it - something I've seen commented on in the past is that cis-gendered people need to make it more "normal" to share their pronouns on i.e. Twitter, as well as on name badges. [I added my own pronouns on 2019-04-10]({{< ref 2019-04-10-pronouns-microformats >}}).
+We need to normalise it - something I've seen commented on in the past is that cis-gendered people need to make it more "normal" to share their pronouns on i.e. Twitter, as well as on name badges. [I added my own pronouns on 2019-04-10](/posts/2019/04/10/pronouns-microformats/).
 
 # If Building A Great Team Is The Question, Technology Is Not The Answer
 
@@ -70,7 +70,7 @@ If teams can't make their own decisions, then what's the point? We don't want to
 
 For instance, a design team can set out design principles, which means that development teams can make decisions themselves, within these guidelines.
 
-We should be removing bottlenecks and getting decisions closer to the people doing the work, similar to [Damon's talk at DevOpsDays London 2018]({{< ref 2018-10-25-devopsdays-london-2018 >}}#tickets-and-silos-ruin-everything).
+We should be removing bottlenecks and getting decisions closer to the people doing the work, similar to [Damon's talk at DevOpsDays London 2018](/posts/2018/10/25/devopsdays-london-2018/#tickets-and-silos-ruin-everything).
 
 Also, we need to make sure that we're not shifting responsibility to i.e. inflate the ego of management to make them feel important that they get to make the decision.
 

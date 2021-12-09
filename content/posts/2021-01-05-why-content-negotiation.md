@@ -81,7 +81,7 @@ Accept: application/xml
 
 This has also helped recently with my [Micropub](https://micropub.spec.indieweb.org/) server, which I used to manage content on my site. When creating/updating a piece of content on my site, the Micropub server responds with an HTTP 201 Created with a `Location` header pointing to the new entry.
 
-This is great for when interacting via a server, but with [my personal editor]({{< ref 2020-06-28-personal-micropub-client >}}) for the site, I perform all these interactions through the browser. In this case, the browser doesn't show the `Location` header, nor follow the URL like it would with a HTTP 302 Found.
+This is great for when interacting via a server, but with [my personal editor](/posts/2020/06/28/personal-micropub-client/) for the site, I perform all these interactions through the browser. In this case, the browser doesn't show the `Location` header, nor follow the URL like it would with a HTTP 302 Found.
 
 However, I can take advantage of content negotiation and as detailed in [this proposal for the Micropub standard](https://github.com/indieweb/micropub-extensions/issues/28#issuecomment-713132934), allows for negotiation based on whether the consumer is a browser or an API:
 

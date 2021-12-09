@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-05-29T15:44:55+0100
 slug: slf4j-test-logback-maven
 ---
-As I wrote about in [Testing Your SLF4J Logs]({{< ref 2019-09-22-testing-slf4j-logs >}}), the [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), library is awesome for allowing us to add tests for our logs.
+As I wrote about in [Testing Your SLF4J Logs](/posts/2019/09/22/testing-slf4j-logs/), the [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), library is awesome for allowing us to add tests for our logs.
 
 But today I hit a couple of `NoClassDefFoundError`s today when setting this up with Logback on a Spring Boot project today, and it was a unobvious how to solve this - so I thought I'd share what fixed it.
 

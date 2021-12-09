@@ -13,7 +13,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/webmention
 ---
-On [March 18 2019]({{< ref 2019-03-18-displaying-webmentions >}}), I started rendering my Webmentions as part of this site's [Hugo](https://gohugo.io) build process.
+On [March 18 2019](/posts/2019/03/18/displaying-webmentions/), I started rendering my Webmentions as part of this site's [Hugo](https://gohugo.io) build process.
 
 However, this only is useful if there are regular rebuilds of the site. On some days, I'm pushing new content to the site multiple times a day, each which rebuilds the site. However, I also go many days without updating which means that many webmentions are left un-rendered.
 

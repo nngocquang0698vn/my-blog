@@ -9,7 +9,7 @@ date: 2020-05-10T18:04:02+0100
 slug: "homebrew-website-club-nottingham-structure"
 image: /img/vendor/hwc-80s-retro.jpg
 ---
-Since starting [Homebrew Website Club Nottingham](https://events.indieweb.org/tag/hwc-nottingham) [last March]({{< ref 2019-03-14-homebrew-website-club-nottingham >}}), the structure of the event has been pretty consistent - nonexistent.
+Since starting [Homebrew Website Club Nottingham](https://events.indieweb.org/tag/hwc-nottingham) [last March](/posts/2019/03/14/homebrew-website-club-nottingham/), the structure of the event has been pretty consistent - nonexistent.
 
 One of the things that I personally wanted out of it was to not have too much structure. I've found it quite nice having things a bit more fluid, and I hope others have too.
 

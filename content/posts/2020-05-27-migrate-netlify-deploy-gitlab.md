@@ -15,7 +15,7 @@ image: /img/vendor/netlify-full-logo-white.png
 
 I've mentioned in the past that this site is static site which is built on Hugo. Because it is static, it can't automagically send Webmentions when posts are published.
 
-However, [I did set up]({{< ref 2019-09-10-webmentions-on-deploy >}}) the ability to send a post-deployment notification to a service I've written, which on deployments of my site, would send webmentions to any links referenced.
+However, [I did set up](/posts/2019/09/10/webmentions-on-deploy/) the ability to send a post-deployment notification to a service I've written, which on deployments of my site, would send webmentions to any links referenced.
 
 Because I was all-in on GitLab CI, I had it so after a GitLab deployment I would receive a webhook to say that the build had completed, and after doing some validation to make sure it was definitely a successful deployment from `master`, I would continue with processing.
 

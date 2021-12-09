@@ -363,4 +363,4 @@ This gives us the puzzling output below, which has two `jar` hashes:
 
 This will likely fail the Chef run, or at least confuse it, or even worse it'll silently work until an underlying change in the JSON parser.
 
-The solution here is to follow the instructions in my post [_Converting Ruby Hash keys to Strings/Symbols_]({{< ref "2019-09-07-ruby-hash-keys-string-symbol" >}}), making sure that we stringify all the keys, so they get merged correctly.
+The solution here is to follow the instructions in my post [_Converting Ruby Hash keys to Strings/Symbols_](/posts/2019/09/07/ruby-hash-keys-string-symbol/), making sure that we stringify all the keys, so they get merged correctly.

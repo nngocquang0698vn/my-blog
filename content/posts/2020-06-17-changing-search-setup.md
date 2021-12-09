@@ -9,7 +9,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-17T19:49:37+0100
 slug: "changing-search-setup"
 ---
-In [_Re-enabling search on my static website_]({{< ref 2019-05-01-reenable-static-search >}}), I mentioned that I was re-enabling search on my static website.
+In [_Re-enabling search on my static website_](/posts/2019/05/01/reenable-static-search/), I mentioned that I was re-enabling search on my static website.
 
 One of the things I decided at the time was to take advantage of my JSON Feed, to remove the need to store a separate representation of all my posts.
 

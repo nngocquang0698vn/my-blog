@@ -17,7 +17,7 @@ syndication:
 
 But one thing that has made it slightly painful to use is where I want to do things which are more me-specific than the general-purpose functionality that most clients implement.
 
-Although I'm hugely appreciative of the community and their work they _rightfully so_ don't support the special workflow I want for my own site. This was partly what led to me [creating my own personal Micropub client]({{< ref 2020-06-28-personal-micropub-client >}}).
+Although I'm hugely appreciative of the community and their work they _rightfully so_ don't support the special workflow I want for my own site. This was partly what led to me [creating my own personal Micropub client](/posts/2020/06/28/personal-micropub-client/).
 
 Something that particularly interested me in the Micropub community extensions is the ability to [query the server for supported vocabulary](https://github.com/indieweb/micropub-extensions/issues/1). Although most folks had been looking at this as a way to disable certain parts of their rich editor, I've been thinking about it slightly differently.
 

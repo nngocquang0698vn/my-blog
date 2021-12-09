@@ -15,7 +15,7 @@ The meetup was lightning talks and a retro - there were only two talks, but we h
 
 # Blogumentation - Writing Blog Posts as a Method of Documentation
 
-I spoke about [Blogumentation]({{< ref 2017-06-25-blogumentation >}}), something I talk about a fair bit. I'd recommend a read of the linked article, but if not the [slides are on talks.jvt.me](https://talks.jvt.me/blogumentation/).
+I spoke about [Blogumentation](/posts/2017/06/25/blogumentation/), something I talk about a fair bit. I'd recommend a read of the linked article, but if not the [slides are on talks.jvt.me](https://talks.jvt.me/blogumentation/).
 
 Although it was a 5 minute slot, I took a little bit longer and came in at 8 minutes, but from feeling the room it felt ok!
 
@@ -38,5 +38,5 @@ We ended the session with some discussions around PHPMiNDS and what we can do to
   - We talked about the low barrier to entry of PHP led to less professional code, which is being mirrored with the JavaScript ecosystem
 - We wondered about whether variety of speakers were needed, and discussed how [NottsJS](https://nottsjs.org/) have been recently using remote speakers
 - Given how much we were enjoying the casual discussions on the sofas
-  - I mentioned about the [Open Spaces concept I first found at DevOpsDays London 2018]({{< ref 2018-10-25-devopsdays-london-2018 >}}#open-spaces) and that this was a really cool format
+  - I mentioned about the [Open Spaces concept I first found at DevOpsDays London 2018](/posts/2018/10/25/devopsdays-london-2018/#open-spaces) and that this was a really cool format
   - We talked about possibly running more casual discussion sessions, alongside the regular talk schedule

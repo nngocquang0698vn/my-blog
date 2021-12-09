@@ -15,7 +15,7 @@ image: https://media.jvt.me/735ffcb6bd.png
 syndication:
 - https://news.ycombinator.com/item?id=29185457
 ---
-I run a number of personal API services, such as a service for [tracking my step counts]({{< ref 2019-10-27-owning-step-count >}}), a [Micropub server]({{< ref 2019-08-26-setting-up-micropub >}}), and an [IndieAuth Server]({{< ref 2020-12-09-personal-indieauth-server >}}) which are all pretty key for my online identity.
+I run a number of personal API services, such as a service for [tracking my step counts](/posts/2019/10/27/owning-step-count/), a [Micropub server](/posts/2019/08/26/setting-up-micropub/), and an [IndieAuth Server](/posts/2020/12/09/personal-indieauth-server/) which are all pretty key for my online identity.
 
 As a Software Engineer primarily working with Java, it was a good fit to invest in some personal Java Spring Boot services.
 
@@ -23,7 +23,7 @@ Until recently, these were on a single VPS on [Heztner](https://hetzner.cloud). 
 
 As there were 5 services running from `www-api.jvt.me`, 1 from `www-editor.jvt.me` and 1 from `indieauth.jvt.me`, I couldn't easily split the services equally between two VPS instances. I'd tried to split the two separate services out, but it didn't relieve too much pressure on the memory, so I had to decide whether I needed to set up proper load balancing, keep scaling up the memory, or do something else.
 
-I'd been interested in learning a bit more about Kubernetes generally, and with an opportunity to start using Kubernetes at work (at the time), as well as [starting to look around at other jobs]({{< ref 2021-08-19-joining-cabinet-office >}}), I thought it'd be good to have a bit more understanding of how it all works.
+I'd been interested in learning a bit more about Kubernetes generally, and with an opportunity to start using Kubernetes at work (at the time), as well as [starting to look around at other jobs](/posts/2021/08/19/joining-cabinet-office/), I thought it'd be good to have a bit more understanding of how it all works.
 
 Naturally, I thought I'd blog about the things I'd learned, and hopefully get some feedback on things I can do better.
 
@@ -83,7 +83,7 @@ I've used Logz.io at work, and found it to be a really great hosted ELK offering
 
 I was really quite impressed by how easy it was to get Logz.io set up, and their [super handy configuration](https://github.com/logzio/logzio-k8s) made it incredibly easy to get up and running.
 
-While I did the migration, I took the opportunity to migrate to [structured logging]({{< ref 2021-05-31-spring-boot-structured-logging >}}), albeit it did require [some tweaking to make it work with fluentd]({{< ref 2021-09-29-fluentd-inner-json >}}).
+While I did the migration, I took the opportunity to migrate to [structured logging](/posts/2021/05/31/spring-boot-structured-logging/), albeit it did require [some tweaking to make it work with fluentd](/posts/2021/09/29/fluentd-inner-json/).
 
 I've more recently found that this was made more difficult by there being the non-containerd and the containerd configuration for Kubernetes, and after an upgrade of Kubernetes, I needed the latter configured. Took me a fair bit of puzzling why things weren't working!
 
@@ -119,7 +119,7 @@ Static secrets were easily handled through an Opaque secret, but to manage secre
 
 I didn't want to deploy Hashicorp Vault, although that would be the best solution, so instead looked into how to manage it using the Kubernetes secrets APIs.
 
-As mentioned in [_Updating a Secret in Kubernetes with the Java Client_]({{< ref 2021-10-23-kubernetes-java-patch-secret >}}), this wasn't super simple, but I got there in the end.
+As mentioned in [_Updating a Secret in Kubernetes with the Java Client_](/posts/2021/10/23/kubernetes-java-patch-secret/), this wasn't super simple, but I got there in the end.
 
 ## Kubernetes API Client configuration issues
 

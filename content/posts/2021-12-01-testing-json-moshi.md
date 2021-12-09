@@ -12,9 +12,9 @@ date: 2021-12-01T09:42:31+0000
 slug: "testing-json-moshi"
 series: writing-better-tests
 ---
-In [_Testing Data Serialisation/Deserialization in Java (with Jackson)_]({{< ref 2021-10-02-testing-json >}}), I mentioned how you could test your serialisation layer if you're using Jackson.
+In [_Testing Data Serialisation/Deserialization in Java (with Jackson)_](/posts/2021/10/02/testing-json/), I mentioned how you could test your serialisation layer if you're using Jackson.
 
-One of the [learnings from running Java AWS Lambdas]({{< ref 2021-11-17-java-serverless-learnings >}}) is that [Moshi](https://github.com/square/moshi) is a great for your JSON (de)serialisation layer.
+One of the [learnings from running Java AWS Lambdas](/posts/2021/11/17/java-serverless-learnings/) is that [Moshi](https://github.com/square/moshi) is a great for your JSON (de)serialisation layer.
 
 Because this is a pretty integral part of interacting with other services / being interacted with, we need to make sure these models are mapped correctly.
 

@@ -12,7 +12,7 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-[In May I added an iCalendar feed for each type of events on my website]({{< ref "2019-05-22-ical-events-hugo" >}}), which enabled folks to subscribe to a calendar feed for i.e. all [Homebrew Website Club Nottingham events](/events/homebrew-website-club-nottingham/) with a single handy calendar feed.
+[In May I added an iCalendar feed for each type of events on my website](/posts/2019/05/22/ical-events-hugo/), which enabled folks to subscribe to a calendar feed for i.e. all [Homebrew Website Club Nottingham events](/events/homebrew-website-club-nottingham/) with a single handy calendar feed.
 
 However, this doesn't allow someone who's only looking to attend a single event or doesn't particularly want to have all the events in their calendar all the time.
 

@@ -17,7 +17,7 @@ As I've mentioned recently, I'm working on rebuilding our Chef pipelines at work
 
 As we're running a Chef Server, we need some way to sync from our [public Supermarket](https://supermarket.chef.io) to our Chef Server, so we can take advantage of the wonderful work that the community has done with their Free and Open Source cookbooks.
 
-As I'd mentioned in [_Constructing an Ordered Dependency Graph for Chef Cookbooks, using Berkshelf_]({{< ref 2021-04-18-chef-dependency-graph >}}), this can cause issues due to dependency trees, as a cookbook can't be uploaded to the Chef Server unless a dependency is present already uploaded.
+As I'd mentioned in [_Constructing an Ordered Dependency Graph for Chef Cookbooks, using Berkshelf_](/posts/2021/04/18/chef-dependency-graph/), this can cause issues due to dependency trees, as a cookbook can't be uploaded to the Chef Server unless a dependency is present already uploaded.
 
 While looking into it, [a Chef Friend in the Community Slack](https://www.jvt.me/mf2/2021/04/segnf/) mentioned that the solution is generally to use `berks upload`.
 

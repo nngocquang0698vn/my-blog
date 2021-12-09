@@ -11,7 +11,7 @@ date: 2019-09-08T14:04:33+01:00
 slug: "spring-extract-form-request-parameters"
 image: /img/vendor/spring-logo.png
 ---
-While working on my [Micropub endpoint]({{< ref "2019-08-26-setting-up-micropub" >}}) I found that I needed to support `application/x-www-form-urlencoded` requests.
+While working on my [Micropub endpoint](/posts/2019/08/26/setting-up-micropub/) I found that I needed to support `application/x-www-form-urlencoded` requests.
 
 I had to dynamically parse these fields out because on any given request there could be anywhere between 4 and 10 parameters in a given request, and I'd not really ever know what that request would look like until receiving it.
 

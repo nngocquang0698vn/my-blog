@@ -58,7 +58,7 @@ Ton then spoke a little about how we should work to find others who are interest
 
 A nice way of getting to know the folks around us was sitting around having a coffee and a chat before the day started, but also through the personal introductions section.
 
-For this, each attendee came to the front (if they were comfortable with this) and talked through their website, if any, showing off some of the features, be it <span class="h-card"><a class="u-url" href="https://annadodson.co.uk/">Anna</a></span>'s dark mode, my [recent Micropub functionality]({{< ref "2019-08-26-setting-up-micropub" >}}) or <span class="h-card"><a class="u-url" href="https://seblog.nl/">Seb</a></span>'s private posts.
+For this, each attendee came to the front (if they were comfortable with this) and talked through their website, if any, showing off some of the features, be it <span class="h-card"><a class="u-url" href="https://annadodson.co.uk/">Anna</a></span>'s dark mode, my [recent Micropub functionality](/posts/2019/08/26/setting-up-micropub/) or <span class="h-card"><a class="u-url" href="https://seblog.nl/">Seb</a></span>'s private posts.
 
 This was nice, because we were able to easily find out who was who, what level of web experience they had, and then through to experience with the IndieWeb.
 
@@ -126,7 +126,7 @@ Definitely some food for thought, especially with respect to how it'll work with
 
 I started off with a bit of a monologue about the importance of Free and Open Source licenses, as well as things like the Creative Commons, and that it's actually quite difficult currently to have a machine-readable way to share the licensing of a piece of content.
 
-I spoke about how licensing has been an interesting one for me as I practice [Blogumentation - Writing Blog Posts as a Method of Documentation]({{< ref "2017-06-25-blogumentation" >}}) which means I want to be able to share these articles and tips with my colleagues. However, if they're not licensed permissively, a big company (such as the one I work for) will not be happy with it. (Aside: [I went into this a bit more in my post in 2018, _Being More Explicit on Content Licensing_]({{< ref "2018-07-29-more-explicit-post-licensing" >}})).
+I spoke about how licensing has been an interesting one for me as I practice [Blogumentation - Writing Blog Posts as a Method of Documentation](/posts/2017/06/25/blogumentation/) which means I want to be able to share these articles and tips with my colleagues. However, if they're not licensed permissively, a big company (such as the one I work for) will not be happy with it. (Aside: [I went into this a bit more in my post in 2018, _Being More Explicit on Content Licensing_](/posts/2018/07/29/more-explicit-post-licensing/)).
 
 Following a question from one of the participants about how to understand licenses from a non-lawyer, I mentioned that I too was not a lawyer, but had spent some time looking into licensing. I recommended [TL;DR Legal](https://tldrlegal.com/) which is an awesome resource for understanding licenses in a clearer language. We also spoke about "what the best license is", to which I mentioned that unfortunately that question is incredibly personal, and that folks have different thoughts for what they want. Because it depends on whether the person you're asking is thinking of it in terms of a Free Software "this is for the user" perspective, or a permissive license "I just want people to use this".
 
@@ -138,7 +138,7 @@ It was interesting to hear from Ton that in Europe, government need to specify a
 
 And we spoke a lot more about the existing methods of indicating licensing as being a bit wanting, because using `<link rel="license" ...>` applies to the whole document, which is very inflexible for an article that includes photos from different sources as well as code snippets, as all three forms are likely to be licensed under different licenses.
 
-I've written up some of my thoughts in [a separate blog post]({{< ref "2019-09-28-microformats-licensing" >}}) following this session, along with my proposal of how we could alternatively mark it up.
+I've written up some of my thoughts in [a separate blog post](/posts/2019/09/28/microformats-licensing/) following this session, along with my proposal of how we could alternatively mark it up.
 
 Finally we had a little chat about finding other references to your site (i.e. if they don't send webmentions) as well as license violations. I shared a misunderstanding between myself and [sizeof.cat](https://sizeof.cat/) around licensing, and Ton shared a Hong Kong newspaper (as well as 20+ other publications) using photos of his.
 
@@ -176,7 +176,7 @@ There were some mentions about how RSVPing no is very important, as it may show 
 
 We also spent some time talking about calendar feeds, and how some folks delegate to [H2VX](https://h2vx.com/ics/) to provide these feeds, but a couple of us mentioned that we rendered a iCalendar feed as part of our site which means we don't have to rely on others.
 
-We spoke a little about "Add to Calendar", to which I mentioned that [I recently added "Add to Calendar" support]({{< ref "2019-09-02-calendar-single-event" >}}) for both iCalendar format and Google Calendar.
+We spoke a little about "Add to Calendar", to which I mentioned that [I recently added "Add to Calendar" support](/posts/2019/09/02/calendar-single-event/) for both iCalendar format and Google Calendar.
 
 We also talked a little bit about Meetup.com, which many folks use for meetups / usergroups. I spoke about how my workflow still requires some manual work for RSVPing on Meetup.com once I've published it to my site, but that on the hack day I'd be starting work on Meetup.com support for [brid.gy](https://brid.gy/).
 

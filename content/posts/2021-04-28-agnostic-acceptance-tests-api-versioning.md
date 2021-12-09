@@ -15,11 +15,11 @@ date: 2021-04-28T18:59:12+0100
 slug: "agnostic-acceptance-tests-api-versioning"
 series: environment-agnostic-acceptance-tests
 ---
-API versioning is very important, because there are going to be cases where you need to change your API, but don't want to break all your consumers, of which my [preference is using content negotiation]({{< ref 2021-01-05-why-content-negotiation >}}).
+API versioning is very important, because there are going to be cases where you need to change your API, but don't want to break all your consumers, of which my [preference is using content negotiation](/posts/2021/01/05/why-content-negotiation/).
 
 Regardless of how you do it, you're going to have a slightly different API to connect to the service - be that through a different URL, `accept` header, or some other means.
 
-In [_Writing Environment-Agnostic Functional Acceptance Tests_]({{< ref 2021-01-18-agnostic-acceptance-tests >}}), I spoke about a way to structure your Cucumber tests to treat them more like the code you'd write in your production application, and I've found it to be a really nice pattern for working with tests.
+In [_Writing Environment-Agnostic Functional Acceptance Tests_](/posts/2021/01/18/agnostic-acceptance-tests/), I spoke about a way to structure your Cucumber tests to treat them more like the code you'd write in your production application, and I've found it to be a really nice pattern for working with tests.
 
 However, at the time I didn't consider what this would look like for a versioned API.
 
@@ -124,7 +124,7 @@ public enum ApiVersion {
 
 # The Proxy class
 
-And then we have our [proxy class]({{< ref 2021-01-18-agnostic-acceptance-tests >}}) updated with the new parameter on methods that support API versioning:
+And then we have our [proxy class](/posts/2021/01/18/agnostic-acceptance-tests/) updated with the new parameter on methods that support API versioning:
 
 ```java
 public class ProductServiceProxy {

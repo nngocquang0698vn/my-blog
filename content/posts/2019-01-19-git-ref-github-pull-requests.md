@@ -55,7 +55,7 @@ Date:   Sat Oct 21 22:01:36 2017 +0000
     Merge 55f97d19168157a3e6ec5cfbb28b3ca2deadf827 into e57f7e1c7782a9966fbda16ded7fb97954921fdf
 ```
 
-Notice that GitHub exposes two refs, [unlike GitLab]({{< ref 2019-01-19-git-ref-gitlab-merge-requests >}}) - one to show the original commit that has been raised, and one with it merged into the destination branch.
+Notice that GitHub exposes two refs, [unlike GitLab](/posts/2019/01/19/git-ref-gitlab-merge-requests/) - one to show the original commit that has been raised, and one with it merged into the destination branch.
 
 Note: this is documented in [GitLab's Merge Requests documentation](https://docs.gitlab.com/ee/user/project/merge_requests/#checkout-merge-requests-locally).
 

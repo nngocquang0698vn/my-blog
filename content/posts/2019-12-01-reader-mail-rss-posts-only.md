@@ -22,7 +22,7 @@ But then a couple of weeks ago, I raised [_Only have articles in the default RSS
 
 This got me thinking that my RSS feed may be similar, and yep, it was an issue!
 
-I hadn't got around to fixing it (largely because [NaBloPoMo 2019 took a lot of my time this month]({{< ref "2019-11-30-nablopomo-2019-retro" >}})) but as I've now had someone ask for it, I decided to sort it out.
+I hadn't got around to fixing it (largely because [NaBloPoMo 2019 took a lot of my time this month](/posts/2019/11/30/nablopomo-2019-retro/)) but as I've now had someone ask for it, I decided to sort it out.
 
 It's now possible to subscribe to `/posts/feed.xml` and that'll provide you a posts-only RSS feed. It's also made discoverable in the HTML so a well-formed feed reader should be able to discover it when reading `/posts/`:
 
@@ -30,7 +30,7 @@ It's now possible to subscribe to `/posts/feed.xml` and that'll provide you a po
 <link rel="alternate" type="application/rss+xml" href="/posts/feed.xml" title="Jamie Tanna | Software (Quality) Engineer" />
 ```
 
-As part of this change, I've also taken advantage of Hugo's `AlternativeOutputFormats` variable, which allows me to output all output types on a given page, which means that i.e. [the iCalendar entry on an event page]({{< ref "2019-09-02-calendar-single-event" >}}) will be discoverable, too.
+As part of this change, I've also taken advantage of Hugo's `AlternativeOutputFormats` variable, which allows me to output all output types on a given page, which means that i.e. [the iCalendar entry on an event page](/posts/2019/09/02/calendar-single-event/) will be discoverable, too.
 
 This also makes it possible for you to subscribe to a certain taxonomy i.e. `/tags/blogumentation/` or `/series/nablopomo-2019/` if you only care about a subset of my content.
 

@@ -26,4 +26,4 @@ Uploading artifacts for failed job
 ERROR: Job failed: exit status 1
 ````
 
-After some searching online, it appeared that similar to [when receiving `No Such Directory`]({{< ref 2020-06-03-gitlab-ci-shell-no-such-directory >}}), [this comment](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/1379#note_343017515) noted that it's an issue with SKEL - the solution was to delete `.bash_logout` from the `gitlab-runner` user's home, but I also removed `.bashrc` and `.profile`.
+After some searching online, it appeared that similar to [when receiving `No Such Directory`](/posts/2020/06/03/gitlab-ci-shell-no-such-directory/), [this comment](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/1379#note_343017515) noted that it's an issue with SKEL - the solution was to delete `.bash_logout` from the `gitlab-runner` user's home, but I also removed `.bashrc` and `.profile`.

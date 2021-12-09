@@ -25,7 +25,7 @@ But if I set the URL directly as her Twitter URL, then I wasn't being the best I
 
 The solution for this was to have some awareness of where the content was being published to, and then publish the correct URL for that service, if possible.
 
-I decided that I didn't want this to happen when I first created the content (via [my Micropub server]({{< ref 2019-08-26-setting-up-micropub >}}) but when the site renders itself, as then it's more up-to-date.
+I decided that I didn't want this to happen when I first created the content (via [my Micropub server](/posts/2019/08/26/setting-up-micropub/) but when the site renders itself, as then it's more up-to-date.
 
 Following some of <span class="h-card"><a class="u-url p-name" href="https://seblog.nl">Seb</a></span>'s [points on his own implementation of it](https://seblog.nl/2017/06/14/6/at-mentioning-people), I've now set it up for my own site.
 

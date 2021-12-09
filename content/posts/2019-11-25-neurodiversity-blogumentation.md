@@ -11,7 +11,7 @@ date: 2019-11-25T17:39:00+0000
 slug: "neurodiversity-blogumentation"
 series: nablopomo-2019
 ---
-I blog [_a lot_](/tags/blogumentation/) as a [form of documentation, under the term "Blogumentation"]({{< ref "2017-06-25-blogumentation" >}}). The aim is that I'll have an easy reference for myself in the future to find out how I did a thing.
+I blog [_a lot_](/tags/blogumentation/) as a [form of documentation, under the term "Blogumentation"](/posts/2017/06/25/blogumentation/). The aim is that I'll have an easy reference for myself in the future to find out how I did a thing.
 
 A happy side effect of this is that others are able to also use these posts and solve their own issues, as it's publicly accessible on this website, and I've found I get a tonne of organic search traffic which is quite cool.
 

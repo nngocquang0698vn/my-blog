@@ -44,4 +44,4 @@ I feel that we can do something to help services that handle potentially sensiti
 
 What do you think? Am I maybe being a little too sensitive? Am I not being sensitive enough?
 
-Edit: Based on some conversations being had in response to the post, I thought it'd mention I've written about how to [pretty-print a JWT locally with OpenSSL]({{< ref 2019-06-13-pretty-printing-jwt-openssl >}}) and [a Ruby alternative]({{< ref 2018-08-31-pretty-printing-jwt-ruby >}}).
+Edit: Based on some conversations being had in response to the post, I thought it'd mention I've written about how to [pretty-print a JWT locally with OpenSSL](/posts/2019/06/13/pretty-printing-jwt-openssl/) and [a Ruby alternative](/posts/2018/08/31/pretty-printing-jwt-ruby/).

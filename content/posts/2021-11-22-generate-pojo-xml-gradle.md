@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-11-22T17:35:34+0000
 slug: "generate-pojo-xml-gradle"
 ---
-My blog post [_Generate Plain Old Java Objects (POJOs) from XML Schema Definitions with `xjc`_]({{< ref 2020-02-03-generate-pojo-xml-xsd >}}) is pretty popular, and I've enjoyed getting use out of it myself. But the problem with this is that it introduces a number of source files into your repo, which you then need to maintain in terms of your own code style standards, maybe manage Javadoc, and generally add a lot of code to your codebase that isn't _yours_.
+My blog post [_Generate Plain Old Java Objects (POJOs) from XML Schema Definitions with `xjc`_](/posts/2020/02/03/generate-pojo-xml-xsd/) is pretty popular, and I've enjoyed getting use out of it myself. But the problem with this is that it introduces a number of source files into your repo, which you then need to maintain in terms of your own code style standards, maybe manage Javadoc, and generally add a lot of code to your codebase that isn't _yours_.
 
 One thing we can do instead is utilise [Gradle XJC Plugin](https://unbroken-dome.github.io/projects/gradle-xjc-plugin/) to automagically generate these files each time we do a build.
 

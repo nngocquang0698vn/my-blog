@@ -59,7 +59,7 @@ When the job is then seeded, we get our Multibranch pipeline configured to run a
 
 # On CloudBees Jenkins Enterprise
 
-Update 2021-02-23: as I was writing [Getting Started With Jenkins Job DSL Plugin for Standardising Your Pipelines]({{< ref 2021-02-23-getting-started-jobdsl-standardised >}}), I found that the solution below only works when using CloudBees Jenkins Enterprise, which was quite an infuriating evening of using the Open Source Jenkins and trying to track down a plugin that allows for "Custom Script".
+Update 2021-02-23: as I was writing [Getting Started With Jenkins Job DSL Plugin for Standardising Your Pipelines](/posts/2021/02/23/getting-started-jobdsl-standardised/), I found that the solution below only works when using CloudBees Jenkins Enterprise, which was quite an infuriating evening of using the Open Source Jenkins and trying to track down a plugin that allows for "Custom Script".
 
 So the problem that has prompted this blog post is that while it is possible to configure in the Jenkins UI, it doesn't seem to be possible through the bindings for Job DSL's [`multibranchPipelineJob`](https://jenkinsci.github.io/job-dsl-plugin/#path/multibranchPipelineJob), at least as of v1.76.
 
@@ -95,4 +95,4 @@ multibranchPipelineJob('example') {
 
 When the job is then seeded, we get our Multibranch pipeline configured to run a script from an external repo - awesome!
 
-Note that I was able to determine the above by configuring the changes manually in the Jenkins UI, and then [viewing the job's config as XML]({{< ref "2019-11-29-jenkins-config-xml" >}}) to then reverse-engineer the above `configure` block.
+Note that I was able to determine the above by configuring the changes manually in the Jenkins UI, and then [viewing the job's config as XML](/posts/2019/11/29/jenkins-config-xml/) to then reverse-engineer the above `configure` block.

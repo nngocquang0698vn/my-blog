@@ -16,7 +16,7 @@ I've written a fair bit in the past about how I work with Chef as a configuratio
 
 However, some folks don't use Chef as much as my team did which means some of the subtleties or best practices aren't picked up on. It happens, but I hope that this post can help to make some more folks see if they also need to think about how they do things.
 
-Because the team I worked on was very quality-heavy, we wanted to [unit test our cookbooks]({{< ref "2018-09-04-tdd-chef-cookbooks-chefspec-inspec" >}}). This meant that as we started to depend on other cookbooks, we found that there were some issues that the folks who built it won't have seen, specifically around the way that they set up their [attributes](https://docs.chef.io/attributes.html).
+Because the team I worked on was very quality-heavy, we wanted to [unit test our cookbooks](/posts/2018/09/04/tdd-chef-cookbooks-chefspec-inspec/). This meant that as we started to depend on other cookbooks, we found that there were some issues that the folks who built it won't have seen, specifically around the way that they set up their [attributes](https://docs.chef.io/attributes.html).
 
 Before I go any further, I want to clarify that I know I have also been culpable to this in the past, so my angle on this isn't a "boo, you suck", but a "we can all do better, here's what I've learned".
 

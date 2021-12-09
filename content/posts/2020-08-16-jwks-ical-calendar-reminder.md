@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-16T11:42:08+0100
 slug: "jwks-ical-calendar-reminder"
 ---
-Since releasing [_Keeping Track of Certificate Expiry with a JWKS to iCalendar Converter_]({{< ref 2020-06-14-track-certificate-expiry-jwks-ical >}}), I've been using it a fair bit for some certs I manage.
+Since releasing [_Keeping Track of Certificate Expiry with a JWKS to iCalendar Converter_](/posts/2020/06/14/track-certificate-expiry-jwks-ical/), I've been using it a fair bit for some certs I manage.
 
 However, something I wish was possible would be to informed, ahead of the date, something is expiring, because these require manual intervention to update them.
 

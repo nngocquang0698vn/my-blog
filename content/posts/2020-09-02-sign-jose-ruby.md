@@ -12,7 +12,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-02T15:21:01+0100
 slug: "sign-jose-ruby"
 ---
-I've written before about how to [create a Signed JWT with Ruby]({{< ref 2020-06-15-sign-jwt-ruby >}}).
+I've written before about how to [create a Signed JWT with Ruby](/posts/2020/06/15/sign-jwt-ruby/).
 
 But sometimes you don't want a [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519). You actually just want to create a [JSON Object Signing and Encryption (JOSE)](https://www.rfc-editor.org/rfc/rfc7520.html) object. This could be that you want to try and create JWT-like formats, but with invalid fields, or you just want to sign arbitrary objects.
 

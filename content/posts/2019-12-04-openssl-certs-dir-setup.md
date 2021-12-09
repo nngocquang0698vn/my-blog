@@ -10,13 +10,13 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-04T13:35:49+0000
 slug: "openssl-certs-dir-setup"
 ---
-As I mentioned in [_Trusting Self-Signed Certificates from Ruby_]({{< ref "2019-11-28-self-signed-certs-ruby" >}}), it is possible to use the `SSL_CERT_DIR` environment variable to specify where OpenSSL looks for certificates, instead of just pointing to a file with `SSL_CERT_FILE`, but I had some difficulty getting it working.
+As I mentioned in [_Trusting Self-Signed Certificates from Ruby_](/posts/2019/11/28/self-signed-certs-ruby/), it is possible to use the `SSL_CERT_DIR` environment variable to specify where OpenSSL looks for certificates, instead of just pointing to a file with `SSL_CERT_FILE`, but I had some difficulty getting it working.
 
 I managed to work out how to do it, with some help from the [man page for SSL_CTX_LOAD_VERIFY_LOCATIONS(3)](https://linux.die.net/man/3/ssl_ctx_load_verify_locations).
 
 Taking the example of my Ruby post above, we'll add the cert for `keystore.openbanking.org.uk`, which uses an untrusted CA.
 
-We can use the steps in [_Extracting SSL/TLS Certificate Chains Using OpenSSL_]({{< ref "2017-04-28-extract-tls-certificate" >}}) to extract the certificate, and output it as the file `keystore.openbanking.org.uk.pem`:
+We can use the steps in [_Extracting SSL/TLS Certificate Chains Using OpenSSL_](/posts/2017/04/28/extract-tls-certificate/) to extract the certificate, and output it as the file `keystore.openbanking.org.uk.pem`:
 
 ```sh
 # create our new `SSL_CERT_DIR`

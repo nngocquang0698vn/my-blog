@@ -18,7 +18,7 @@ While running [Homebrew Website Club Nottingham](/events/homebrew-website-club-n
 
 However, this hasn't been the best because if I'm not on top of it, it means others won't see the events being posted.
 
-I'd created an [h-feed]({{< ref "2019-05-12-implementing-hfeed-making-content-discoverable" >}}) for the events, but as not everyone has support for an [Indie reader](http://indieweb.org/reader), it doesn't quite make sense.
+I'd created an [h-feed](/posts/2019/05/12/implementing-hfeed-making-content-discoverable/) for the events, but as not everyone has support for an [Indie reader](http://indieweb.org/reader), it doesn't quite make sense.
 
 So I posted in the Slack channel we're using to talk about it, and a couple of the comments were "don't use Meetup.com" and "what about calendar invites".
 

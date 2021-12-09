@@ -12,13 +12,13 @@ slug: git-commit-verbose
 ---
 I really like telling a descriptive story with our Git commit history, and spend a fair bit of time making sure that the history provides the right level of information.
 
-Because writing Git commit messages, and having a good commit history, leads to needing to rewrite Git history, I'm quite comfortable with `git rebase` and [rewriting Git history safely]({{< ref 2018-09-18-safely-force-git-push >}}).
+Because writing Git commit messages, and having a good commit history, leads to needing to rewrite Git history, I'm quite comfortable with `git rebase` and [rewriting Git history safely](/posts/2018/09/18/safely-force-git-push/).
 
 One of my colleagues recently got in touch with me to say that they'd force pushed to the wrong branch, and needed a hand to recover things if possible.
 
 Fortunately, this is something I've had to do numerous times - because I've got it wrong myself - so I was able to help.
 
-In the spirit of [blogumentation]({{< ref 2017-06-25-blogumentation >}}), I thought I'd document it for future me.
+In the spirit of [blogumentation](/posts/2017/06/25/blogumentation/), I thought I'd document it for future me.
 
 # Finding the commit hash to restore
 

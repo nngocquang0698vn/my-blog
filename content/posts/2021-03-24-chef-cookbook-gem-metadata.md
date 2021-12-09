@@ -22,9 +22,9 @@ To tell Chef that we want to have this gem installed before we perform a Chef ru
 gem 'vault', '~> 0.16'
 ```
 
-However, this then causes issues for us, as if we want to do any local testing, such as [unit testing with  ChefSpec]({{< ref 2018-09-04-tdd-chef-cookbooks-chefspec-inspec >}}), we can't rely on Chef to install these gems, as we're not really executing a full Chef run.
+However, this then causes issues for us, as if we want to do any local testing, such as [unit testing with  ChefSpec](/posts/2018/09/04/tdd-chef-cookbooks-chefspec-inspec/), we can't rely on Chef to install these gems, as we're not really executing a full Chef run.
 
-The solution, previously mentioned in [my post about Chef's dependency management tools]({{< ref 2019-09-15-chef-dependency-management >}}), is that we need to add this i.e. to our `Gemfile`, so Bundler can install the dependency:
+The solution, previously mentioned in [my post about Chef's dependency management tools](/posts/2019/09/15/chef-dependency-management/), is that we need to add this i.e. to our `Gemfile`, so Bundler can install the dependency:
 
 ```ruby
 source '...'
@@ -32,7 +32,7 @@ source '...'
 gem 'vault', '~> 0.16'
 ```
 
-This then has the problem of our `Gemfile` and `metadata.rb` becoming misaligned, and can be quite annoying, as we may be testing against a different version than is installed by the cookbook. Fortunately, using the knowledge from my article [_Programatically Determining the Version of a Chef Cookbook_]({{< ref 2021-03-23-chef-cookbook-version >}}), we can take advantage of the `Gemfile` being a Ruby file, and replace the `Gemfile` with:
+This then has the problem of our `Gemfile` and `metadata.rb` becoming misaligned, and can be quite annoying, as we may be testing against a different version than is installed by the cookbook. Fortunately, using the knowledge from my article [_Programatically Determining the Version of a Chef Cookbook_](/posts/2021/03/23/chef-cookbook-version/), we can take advantage of the `Gemfile` being a Ruby file, and replace the `Gemfile` with:
 
 ```ruby
 source '...'

@@ -16,7 +16,7 @@ syndication:
 ---
 With this announcement, I have two great pieces of news.
 
-The first, is that you'll now be able to follow my website's [h-feed](https://indieweb.org/h-feed), which is a [microformats2](http://indieweb.org/microformats2) structure for a feed of data. This is in addition to my RSS feed ([/feed.xml](/feed.xml)) and [my JSON feed]({{< ref "2019-04-07-jsonfeed" >}}) ([/feed.json](/feed.json)), and will allow further interoperability with the IndieWeb.
+The first, is that you'll now be able to follow my website's [h-feed](https://indieweb.org/h-feed), which is a [microformats2](http://indieweb.org/microformats2) structure for a feed of data. This is in addition to my RSS feed ([/feed.xml](/feed.xml)) and [my JSON feed](/posts/2019/04/07/jsonfeed/) ([/feed.json](/feed.json)), and will allow further interoperability with the IndieWeb.
 
 The second is that I've now made all&#42; my content discoverable in these feed formats, including the types announced in [_Extending www.jvt.me to allow for other post types_](/mf2/6b919e78-c46a-48e3-8866-9d9e9d41bb3d/). They are rendering their content accordingly depending on the post type, and I've been able to make them nicely de-duplicated, [which I'll blog about shortly](https://gitlab.com/jamietanna/jvt.me/issues/464).
 

@@ -20,7 +20,7 @@ As well as this, it's also quite awkward to test a new set of changes, as the re
 
 There are two good solutions to this, and some tweaks we can make to our Job DSL to allow us to test much more easily.
 
-The below examples will be based off the code produced by [Getting Started With Jenkins Job DSL Plugin for Standardising Your Pipelines]({{< ref 2021-02-23-getting-started-jobdsl-standardised >}}).
+The below examples will be based off the code produced by [Getting Started With Jenkins Job DSL Plugin for Standardising Your Pipelines](/posts/2021/02/23/getting-started-jobdsl-standardised/).
 
 # Multiple Jenkins Servers
 

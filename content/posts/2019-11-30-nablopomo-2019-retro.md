@@ -81,15 +81,15 @@ I thought I'd reflect on how I've found the month, and whether I've been able to
   </table>
 </details>
 
-As we can see, a large percentage of the posts are [blogumentation-related]({{< ref "2017-06-25-blogumentation" >}}), which is good because it shows in the month I've learned a lot of things that I have documented for posterity! I've also made a fair few changes to this site, as I've blogged about them under the tag `www.jvt.me`.
+As we can see, a large percentage of the posts are [blogumentation-related](/posts/2017/06/25/blogumentation/), which is good because it shows in the month I've learned a lot of things that I have documented for posterity! I've also made a fair few changes to this site, as I've blogged about them under the tag `www.jvt.me`.
 
-When sharing my posts [_Sending Webmentions More Intelligently_]({{< ref "2019-11-20-intelligent-webmentions" >}}), [_Ditching Event Platforms for the IndieWeb_]({{< ref "2019-11-14-ditch-event-platforms-indieweb" >}}) and [_Adulting: The Constant Struggle of Prioritisation_]({{< ref "2019-11-02-adulting" >}}) on various platforms, I've received quite a bit of engagement which was nice.
+When sharing my posts [_Sending Webmentions More Intelligently_](/posts/2019/11/20/intelligent-webmentions/), [_Ditching Event Platforms for the IndieWeb_](/posts/2019/11/14/ditch-event-platforms-indieweb/) and [_Adulting: The Constant Struggle of Prioritisation_](/posts/2019/11/02/adulting/) on various platforms, I've received quite a bit of engagement which was nice.
 
 I've found that of the 30+ posts I've done this month, only 3-4 of them have been posts that I've had [on my backlog](https://gitlab.com/jamietanna/jvt.me/issues?label_name%5B%5D=article) for some time, which is both good because it's meant I've blogged about new things, but as I have 72 articles in my backlog it would've been nice to get some of them done as they'll hopefully be helpful for some else hence me wanting to write them.
 
 I've also still got, at time of writing, another [16 posts to write for NaBloPoMo](https://gitlab.com/jamietanna/jvt.me/issues?label_name%5B%5D=nablopomo), which I felt would would fit the time and size constraints for the month, but didn't get around to writing.
 
-I find it pretty difficult to force content and be productive when I'm not in the mindset for it (as I spoke about in [_Revert 'Some knowledge-sharing news'_]({{< ref "2018-10-28-revert-knowledge-sharing-news" >}}) when I cancelled my training courses with Packt). It's been not helped by going through bereavement, but I feel it has also made it easier as it's been giving me a nice constant and an outlet to focus on.
+I find it pretty difficult to force content and be productive when I'm not in the mindset for it (as I spoke about in [_Revert 'Some knowledge-sharing news'_](/posts/2018/10/28/revert-knowledge-sharing-news/) when I cancelled my training courses with Packt). It's been not helped by going through bereavement, but I feel it has also made it easier as it's been giving me a nice constant and an outlet to focus on.
 
 In the past I've found I'm able to push out articles when they're either blogumentation or it's something that I need to get published. Although I've written a tonne, it's often ad-hoc, not on a strict schedule. I guess this has shown that I _can_ write on a schedule but I don't really enjoy it. Life is quite busy and I feel pretty exhausted by this last month, aside from everything else life-related going on.
 

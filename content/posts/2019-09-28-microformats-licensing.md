@@ -23,7 +23,7 @@ One of the key conversations I wanted to have was around how we mark up licenses
 
 I'm a fan of talking about software licenses, although I am not a lawyer and guarantee that I likely do not know enough to be completely legally watertight. However, it's something really interesting and fundamental for community longevity and learning.
 
-My main angle for the session was a look back to [my post in 2018, _Being More Explicit on Content Licensing_]({{< ref "2018-07-29-more-explicit-post-licensing" >}}) in which I announced my decision to split my posts' licensing between code snippets in the post and the written prose that made up the post's content. This allowed me to use the right license for my written content, which did not make much sense being licensed with a license that was written for code.
+My main angle for the session was a look back to [my post in 2018, _Being More Explicit on Content Licensing_](/posts/2018/07/29/more-explicit-post-licensing/) in which I announced my decision to split my posts' licensing between code snippets in the post and the written prose that made up the post's content. This allowed me to use the right license for my written content, which did not make much sense being licensed with a license that was written for code.
 
 I mentioned in today's session about how the current licensing markup, such as [`rel=license`](http://microformats.org/wiki/rel-license) were insufficient for multi-license content, as it relates to the page as a whole, not allowing for scoping certain areas for license information.
 

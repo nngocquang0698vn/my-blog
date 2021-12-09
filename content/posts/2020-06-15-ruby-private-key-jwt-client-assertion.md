@@ -26,7 +26,7 @@ ruby pkj.rb client_id https://authorization.server:443/path /path/to/signing.pem
 ruby pkj.rb client_id https://authorization.server:443/path /path/to/signing.pem 1800 # for an optional expiration limit
 ```
 
-This builds upon the [json-jwt signing implementation from _Creating Signed JWTs (JWS) with Ruby_]({{< ref 2020-06-15-sign-jwt-ruby >}}#with-ruby-jwt):
+This builds upon the [json-jwt signing implementation from _Creating Signed JWTs (JWS) with Ruby_](/posts/2020/06/15/sign-jwt-ruby/#with-ruby-jwt):
 
 ```ruby
 require 'jwt'

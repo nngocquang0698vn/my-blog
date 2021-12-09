@@ -28,7 +28,7 @@ Note that you **must** put your resources into a directory in the classpath as i
 
 So how do I get this working?
 
-Following similar setup to [_Packaging Wiremock Extensions into the Standalone Server Runner_]({{< ref 2021-09-12-gradle-wiremock-extensions-standalone >}}), we can set up our `build.gradle`:
+Following similar setup to [_Packaging Wiremock Extensions into the Standalone Server Runner_](/posts/2021/09/12/gradle-wiremock-extensions-standalone/), we can set up our `build.gradle`:
 
 ```groovy
 plugins {

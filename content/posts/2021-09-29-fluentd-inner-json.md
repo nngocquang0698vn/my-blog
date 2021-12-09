@@ -13,7 +13,7 @@ license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "fluentd-inner-json"
 ---
-As I wrote about in [Migrating Your Spring Boot Application to use Structured Logging]({{< ref 2021-05-31-spring-boot-structured-logging >}}), structured logging is pretty great.
+As I wrote about in [Migrating Your Spring Boot Application to use Structured Logging](/posts/2021/05/31/spring-boot-structured-logging/), structured logging is pretty great.
 
 I've recently set up fluentd for Logz.io on Kubernetes, via their [super handy configuration](https://github.com/logzio/logzio-k8s), but wanted to make it work for the services I've got that produce JSON logs.
 

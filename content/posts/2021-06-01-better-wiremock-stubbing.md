@@ -14,7 +14,7 @@ slug: "better-wiremock-stubbing"
 series: writing-better-tests
 image: "https://media.jvt.me/2a42816de8.png"
 ---
-As mentioned in [_Default Your Tests to run in Parallel_]({{< ref 2021-06-01-parallel-tests >}}), I recommend looking to run tests in parallel by default, as it can unlock a few benefits, not least for speed!
+As mentioned in [_Default Your Tests to run in Parallel_](/posts/2021/06/01/parallel-tests/), I recommend looking to run tests in parallel by default, as it can unlock a few benefits, not least for speed!
 
 Once such benefit is that we rearchitect our test code to not assume that we'll have the only access to the service, and its dependencies.
 

@@ -28,11 +28,11 @@ This has been on my list for a while, largely as an interesting side project to 
 
 # My Personal Usage
 
-I've got into a really good place with starting to [own my RSVPs on my website](/kind/rsvps/), and even [create an iCalendar feed for RSVPs]({{< ref "2019-07-27-rsvp-calendar" >}}) which means I can easily integrate my RSVPs into my personal/work calendar, as well as let others follow along with what I'm upto.
+I've got into a really good place with starting to [own my RSVPs on my website](/kind/rsvps/), and even [create an iCalendar feed for RSVPs](/posts/2019/07/27/rsvp-calendar/) which means I can easily integrate my RSVPs into my personal/work calendar, as well as let others follow along with what I'm upto.
 
 To make this work, I store some extra metadata in the RSVP about the event, where it is, and the time it starts and ends at. This is a manual process I go through when creating the data for the RSVP, which has been a pain up until now.
 
-However when I got to [writing my Micropub server]({{< ref "2019-08-26-setting-up-micropub" >}}), I knew that I couldn't populate this data myself, as there was no way to provide all of this very specific data to the Micropub request, without writing my own client - and the whole point of using Micropub was the [many clients available](https://indieweb.org/Micropub/Clients). I wanted to have the generation of this event metadata automated, but in the interest of time, I decided not to support RSVPs for now, and at least support the other types of content.
+However when I got to [writing my Micropub server](/posts/2019/08/26/setting-up-micropub/), I knew that I couldn't populate this data myself, as there was no way to provide all of this very specific data to the Micropub request, without writing my own client - and the whole point of using Micropub was the [many clients available](https://indieweb.org/Micropub/Clients). I wanted to have the generation of this event metadata automated, but in the interest of time, I decided not to support RSVPs for now, and at least support the other types of content.
 
 With this API now live, I was able to integrate it with my Micropub server, so it would fetch the data dynamically and integrate it with the RSVP. I've proved this works with a couple of RSVPs just now, so I'm happy to say it's working well!
 

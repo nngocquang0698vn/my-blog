@@ -106,7 +106,7 @@ Date:   Tue Jan 29 20:23:25 2019 +0000
     New Hugo site
 ```
 
-If we say tried to [clean up our Git branches]({{< ref 2017-06-07-clean-up-git-branches >}}), we would see the below error:
+If we say tried to [clean up our Git branches](/posts/2017/06/07/clean-up-git-branches/), we would see the below error:
 
 ```
 repo $ git branch --all --merged | egrep -v "(^\*|master|develop)" | xargs git branch -d

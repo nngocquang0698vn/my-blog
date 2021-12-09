@@ -14,13 +14,13 @@ syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
 ---
-Part of my drive to [implement my own IndieAuth Server]({{< ref 2020-12-09-personal-indieauth-server >}}) was that it would allow me to experiment with IndieAuth, the Open Web extension for OAuth2, and propose tweaks or extensions for the future.
+Part of my drive to [implement my own IndieAuth Server](/posts/2020/12/09/personal-indieauth-server/) was that it would allow me to experiment with IndieAuth, the Open Web extension for OAuth2, and propose tweaks or extensions for the future.
 
 When I implemented my IndieAuth server, I had implemented the ability to limit my access token lifetimes, as I would prefer to have to re-authorize more often, than allow a compromised token to allow limitless access to my accounts.
 
 This limited access is great for cases where I'm involved in what's happening, such as publishing a post in a mobile app, where I could re-authorize the app while I'm going through the publishing flow, but for applications that are meant to be running in the background, that's not possible.
 
-In the case of two services I run - [a service to backfill my step counts]({{< ref 2019-10-27-owning-step-count >}}), and a service which [sends Webmentions after my site has published]({{< ref 2019-09-10-webmentions-on-deploy >}}), and then updates my site with any syndication links - both need an access token to communicate with my Micropub endpoint, but shouldn't require me to be regularly re-authorizing their access.
+In the case of two services I run - [a service to backfill my step counts](/posts/2019/10/27/owning-step-count/), and a service which [sends Webmentions after my site has published](/posts/2019/09/10/webmentions-on-deploy/), and then updates my site with any syndication links - both need an access token to communicate with my Micropub endpoint, but shouldn't require me to be regularly re-authorizing their access.
 
 This, as I found last week, is problematic with expiring tokens because I had forgot over the last few weeks to refresh the configured access token (which was granted by me manually going through the flow, and then storing the issued access token), which has meant my step counts and syndication links have not been publishing to my site.
 

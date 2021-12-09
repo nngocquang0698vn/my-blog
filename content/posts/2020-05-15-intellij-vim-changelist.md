@@ -12,7 +12,7 @@ date: 2020-05-15T23:48:25+0100
 slug: "intellij-vim-changelist"
 image: https://media.jvt.me/ed986893eb.png
 ---
-I'm a big fan of Vim - you can read about how I got started with it in my post [_Getting Started With Vim_]({{< ref 2019-11-12-getting-started-vim >}}) - but the reasons why are better left to another post.
+I'm a big fan of Vim - you can read about how I got started with it in my post [_Getting Started With Vim_](/posts/2019/11/12/getting-started-vim/) - but the reasons why are better left to another post.
 
 Although I would prefer to be in Vim for most of the things I do, unfortunately there are a number of places that an IDE wins. While I was writing a lot of Ruby or Chef code, I was able to keep most of the resources and parameters in my head, but now I'm back to more Java code day-to-day, I need to use a full IDE for its autocomplete and intellisense.
 

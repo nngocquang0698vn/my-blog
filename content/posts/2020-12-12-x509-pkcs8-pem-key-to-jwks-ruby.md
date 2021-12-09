@@ -14,7 +14,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-12T16:58:28+0000
 slug: "x509-pkcs8-pem-key-to-jwks-ruby"
 ---
-Similar to my [article for Node]({{< ref 2019-01-10-x509-pkcs8-pem-key-to-jwks-node >}})), I wanted to be able to easily convert my keys between formats using Ruby.
+Similar to my [article for Node](/posts/2019/01/10/x509-pkcs8-pem-key-to-jwks-node/)), I wanted to be able to easily convert my keys between formats using Ruby.
 
 # The Keys
 

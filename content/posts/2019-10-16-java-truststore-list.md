@@ -84,11 +84,11 @@ H2sMNgcWfzd8qVttevESRmCD1ycEvkvOl77DZypoEd+A5wwzZr8TDRRu838fYxAe
 -----END CERTIFICATE-----
 ```
 
-You can then go on to check the [fingerprint of the certificate]({{< ref "2019-04-03-openssl-fingerprint-x509-pem" >}}) or [view the certificate's details]({{< ref "2018-11-02-viewing-x509-pem-openssl" >}}).
+You can then go on to check the [fingerprint of the certificate](/posts/2019/04/03/openssl-fingerprint-x509-pem/) or [view the certificate's details](/posts/2018/11/02/viewing-x509-pem-openssl/).
 
 # Viewing the Certificates and Further Details
 
-If you wish to see a bit more information about the certs such as the owner, issuer, validity period and information about the algorithms, without [using OpenSSL]({{< ref "2018-11-02-viewing-x509-pem-openssl" >}}), you can use the verbose mode:
+If you wish to see a bit more information about the certs such as the owner, issuer, validity period and information about the algorithms, without [using OpenSSL](/posts/2018/11/02/viewing-x509-pem-openssl/), you can use the verbose mode:
 
 ```
 $ keytool -list /path/to/truststore -storepass ${STOREPASS} -v

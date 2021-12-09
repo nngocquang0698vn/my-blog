@@ -13,7 +13,7 @@ slug: "openssl-encrypt-text"
 ---
 Last week at work, we had a hackathon, in which the recommendation was to give our (production) Hackathon API a go. This required logging in via a GitHub.com account to retrieve a JSON Web Token to use to authenticate yourself to the API.
 
-I have a general policy of trying to keep my personal and work lives generally unentwined, so did not want to do it on my work machine. Instead, I logged in using my personal machine, but then had to send the JWT to my work email, which I didn't want to do in cleartext, because [JWTs are sensitive]({{< ref 2020-09-01-against-online-tooling >}}).
+I have a general policy of trying to keep my personal and work lives generally unentwined, so did not want to do it on my work machine. Instead, I logged in using my personal machine, but then had to send the JWT to my work email, which I didn't want to do in cleartext, because [JWTs are sensitive](/posts/2020/09/01/against-online-tooling/).
 
 To encrypt it, there are fortunately quite a few options, but in my case, it was a throwaway piece of work, so I thought just encrypting it with a shared secret would be enough, instead of i.e. worrying about GPG/PGP keys.
 

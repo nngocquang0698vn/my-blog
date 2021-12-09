@@ -16,7 +16,7 @@ image: /img/vendor/nodejs.png
 ---
 Yesterday I was looking at what search traffic comes to my site, and found that I get a number of hits from folks searching for "converting a JSON Web Key / JWKS to a PEM file".
 
-This links in nicely with my article [_Converting X.509 and PKCS#8 `.pem` file to a JWKS (in Node.JS)_]({{< ref "2019-01-10-x509-pkcs8-pem-key-to-jwks-node" >}}), but I didn't have anything set up for the other way around, so I thought I'd write that up!
+This links in nicely with my article [_Converting X.509 and PKCS#8 `.pem` file to a JWKS (in Node.JS)_](/posts/2019/01/10/x509-pkcs8-pem-key-to-jwks-node/), but I didn't have anything set up for the other way around, so I thought I'd write that up!
 
 # The Keys
 

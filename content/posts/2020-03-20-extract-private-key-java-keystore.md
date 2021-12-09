@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-20T23:57:00+0000
 slug: "extract-private-key-java-keystore"
 ---
-I've written in the past about [extracting a symmetric key from a Java keystore]({{< ref 2019-08-02-extract-secret-key-java-keystore >}}), but didn't have anything to say how to do it with an asymmetric key.
+I've written in the past about [extracting a symmetric key from a Java keystore](/posts/2019/08/02/extract-secret-key-java-keystore/), but didn't have anything to say how to do it with an asymmetric key.
 
 Stealing shamelessly from [_How to export private key from a keystore of self-signed certificate_ on Stack Overflow](https://stackoverflow.com/questions/2640691/how-to-export-private-key-from-a-keystore-of-self-signed-certificate/2641032#2641032):
 

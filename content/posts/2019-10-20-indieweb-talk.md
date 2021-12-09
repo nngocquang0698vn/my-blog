@@ -23,7 +23,7 @@ slug: "indieweb-talk"
 ---
 The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://oggcamp.com).
 
-I've taken the advice given out in [_DDD East Midlands: Speaker Workshop_]({{< ref "2019-07-01-dddem-speaker-workshop" >}}) and decided to write out a transcript of the talk, as a way to drive out the talk's content, as well as give me a good blog post, too! What follows is fairly similar to the words I said live on stage, but includes a bit more detail that I'd not gone into or was a bit rushed to say!
+I've taken the advice given out in [_DDD East Midlands: Speaker Workshop_](/posts/2019/07/01/dddem-speaker-workshop/) and decided to write out a transcript of the talk, as a way to drive out the talk's content, as well as give me a good blog post, too! What follows is fairly similar to the words I said live on stage, but includes a bit more detail that I'd not gone into or was a bit rushed to say!
 
 Thanks again to those who came to the talk, I appreciate it and hope that it helped convince you to investigate the IndieWeb for yourself.
 
@@ -105,7 +105,7 @@ The IndieWeb is built upon a set of [principles](https://indieweb.org/principles
 
 One of the most important principles of the IndieWeb is that you __own your own data__, which we've already spoken about. By integrating things into your personal website / web applications, this means that you're making sure that you really own it, rather than just happening to have access to it, as it currently is with other platforms.
 
-I would say that the biggest benefit I've started seeing from owning my data is how I keep a track of what I'm RSVPing to. I attend a lot of tech meetups and a few conferences throughout the year, and up until owning them I'd been [using the Meetup.com's iCalendar feed with my Google Calendar]({{< ref "2019-07-27-meetupcom-calendar" >}}).
+I would say that the biggest benefit I've started seeing from owning my data is how I keep a track of what I'm RSVPing to. I attend a lot of tech meetups and a few conferences throughout the year, and up until owning them I'd been [using the Meetup.com's iCalendar feed with my Google Calendar](/posts/2019/07/27/meetupcom-calendar/).
 
 But now have I started to own these RSVPs on my website, I had a thought - what if I created a calendar feed from that? This means I now have a calendar that anyone can subscribe to, which shows which events I'm attending. This is super cool, so I can share it with my colleagues, family, or the wide world who want to discover more events.
 
@@ -131,9 +131,9 @@ By making it generic and possible for others to work with it, you'll make tradeo
 
 Next, you need to scratch your own itch. If there's something you really want to do, do it!
 
-For instance, I run the [Homebrew Website Club in Nottingham](/events/homebrew-website-club-nottingham/), which is a usergroup of folks who want to work on their websites, and meet every other Wednesday. One common ask from attendees was "can we please get a reminder before it's the next one", or can we have a calendar sent out? But I went one better. I decided to scratch my itch and [built the capability for events to have calendar feeds into my site]({{< ref "2019-05-22-ical-events-hugo" >}}), after which attendees could just simply add that to their calendar. As a follow-up piece of work, I also added the ability to [add a single instance of an event to your calendarvia iCalendar / Google Calendar]({{< ref "2019-09-02-calendar-single-event" >}}).
+For instance, I run the [Homebrew Website Club in Nottingham](/events/homebrew-website-club-nottingham/), which is a usergroup of folks who want to work on their websites, and meet every other Wednesday. One common ask from attendees was "can we please get a reminder before it's the next one", or can we have a calendar sent out? But I went one better. I decided to scratch my itch and [built the capability for events to have calendar feeds into my site](/posts/2019/05/22/ical-events-hugo/), after which attendees could just simply add that to their calendar. As a follow-up piece of work, I also added the ability to [add a single instance of an event to your calendarvia iCalendar / Google Calendar](/posts/2019/09/02/calendar-single-event/).
 
-Once I started collecting my RSVPs on my website, I found that I didn't want to keep relying on [Meetup's built in calendar support]({{< ref "2019-07-27-meetupcom-calendar" >}}), as it only showed _upcoming_ events, not previous ones. This meant it was less easy to look back in the calendar and see how busy I was for a given week, or try and find what great meetups I'd been to in a month. But at the same time, I also wanted to be able to keep an eye on what non-Meetup events I was attending. So again, [I went ahead and built a calendar for RSVPs on my site]({{< ref "2019-07-27-rsvp-calendar" >}}), including location data.
+Once I started collecting my RSVPs on my website, I found that I didn't want to keep relying on [Meetup's built in calendar support](/posts/2019/07/27/meetupcom-calendar/), as it only showed _upcoming_ events, not previous ones. This meant it was less easy to look back in the calendar and see how busy I was for a given week, or try and find what great meetups I'd been to in a month. But at the same time, I also wanted to be able to keep an eye on what non-Meetup events I was attending. So again, [I went ahead and built a calendar for RSVPs on my site](/posts/2019/07/27/rsvp-calendar/), including location data.
 
 ## Use What You Make / Dogfood
 
@@ -145,11 +145,11 @@ This helps give others confidence in the stuff you're building, and helps you fi
 
 By documenting the work you've done, you'll help to share your journey with others, which may inspire them, as well as helping future you remember how you did certain things!
 
-Those who will have visited my site will know that I blog _a lot_, and am a huge fan of [blogumentation - using blog posts as a form of documentation]({{< ref "2017-06-25-blogumentation" >}}). All of my IndieWeb related posts are tagged [IndieWeb](/tags/indieweb), and anything related to changes on my site are tagged [www.jvt.me](/tags/www.jvt.me).
+Those who will have visited my site will know that I blog _a lot_, and am a huge fan of [blogumentation - using blog posts as a form of documentation](/posts/2017/06/25/blogumentation/). All of my IndieWeb related posts are tagged [IndieWeb](/tags/indieweb), and anything related to changes on my site are tagged [www.jvt.me](/tags/www.jvt.me).
 
 But not only is this a great way to share the cool thing you've just done with the world, it's also a great way to rationalise what you've done. It's a lot like [Rubber Duck Debugging](https://rubberduckdebugging.com/) and I've found has helped picked up issues with thought processes in the past, as well as helping others understand why I've made certain choices!
 
-It can also be a great way to solidify your understanding of a topic by trying to teach it, such as my recent post [_How to RSVP to an Indie Event from your Website_]({{< ref "2019-08-21-rsvp-from-your-website" >}}).
+It can also be a great way to solidify your understanding of a topic by trying to teach it, such as my recent post [_How to RSVP to an Indie Event from your Website_](/posts/2019/08/21/rsvp-from-your-website/).
 
 ## Share Under a Free/Open Source License
 
@@ -358,4 +358,4 @@ In terms of what to start with? [IndieWebify.Me has a good guide](https://indiew
 
 But at the same time, don't feel daunted thinking you need to implement this all yourself for the IndieWeb experience. There's already a tonne of support out there, with projects such as [Known](https://withknown.com/), [Micro.blog](https://micro.blog) or various plugins and themes for WordPress that make it possible to be IndieWeb-ified out-of-the-box!
 
-You may also be interested in reading my post [_Why I Have a Website and You Should Too_]({{< ref "2019-07-22-why-website.md" >}}) which doesn't focus on the social IndieWeb angle of it, just why you'd want to be publishing data on your own site.
+You may also be interested in reading my post [_Why I Have a Website and You Should Too_](/posts/2019/07/22/why-website.md/) which doesn't focus on the social IndieWeb angle of it, just why you'd want to be publishing data on your own site.
