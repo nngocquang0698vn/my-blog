@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Micah Wittman" ],
+        "nickname" : [ "micahwittman" ],
+        "numeric-id" : [ "14086943" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/51562233/micahwittman.jpg" ],
+        "published" : [ "2008-03-06T04:46:44+00:00" ],
+        "uid" : [ "tag:twitter.com:micahwittman" ],
+        "url" : [ "https://twitter.com/micahwittman", "http://wittman.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A beautiful twist. (for those who want to drill down: <a href=\"https://scifi.stackexchange.com/questions/131380/was-rorschachs-pagliacci-joke-a-real-joke\">scifi.stackexchange.com/questions/1313…</a> )\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/spacetwinks\"></a>",
+      "value" : "A beautiful twist. (for those who want to drill down: scifi.stackexchange.com/questions/1313… )"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/spacetwinks/status/965428890830344193" ],
+    "published" : [ "2018-02-19T21:49:19+00:00" ],
+    "uid" : [ "tag:twitter.com:965704877962706946" ],
+    "url" : [ "https://twitter.com/micahwittman/status/965704877962706946" ]
+  },
+  "type" : [ "h-entry" ]
+}
