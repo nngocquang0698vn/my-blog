@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "heige" ],
+        "nickname" : [ "80vul" ],
+        "numeric-id" : [ "268755700" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1076305768368898048/8CDAfPAj.jpg" ],
+        "published" : [ "2011-03-19T11:57:30+00:00" ],
+        "uid" : [ "tag:twitter.com:80vul" ],
+        "url" : [ "https://twitter.com/80vul", "http://www.knownsec.com", "http://zoomeye.org", "http://seebug.org", "http://kcon.knownsec.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Please set log4j2.formatMsgNoLookups to true, or you should upgrade to log4j-2.15.0-rc1 <a href=\"https://github.com/apache/logging-log4j2/releases/tag/log4j-2.15.0-rc1\">github.com/apache/logging…</a> to defend the latest apache log4j2 RCE vulnerability 🤣",
+      "value" : "Please set log4j2.formatMsgNoLookups to true, or you should upgrade to log4j-2.15.0-rc1 github.com/apache/logging… to defend the latest apache log4j2 RCE vulnerability 🤣"
+    } ],
+    "published" : [ "2021-12-09T15:40:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1468968891489857537" ],
+    "url" : [ "https://twitter.com/80vul/status/1468968891489857537" ]
+  },
+  "type" : [ "h-entry" ]
+}
