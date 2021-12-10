@@ -5,6 +5,7 @@ tags:
 - blogumentation
 - command-line
 - bluetoothctl
+- bluetooth
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-27T09:11:29+0000
