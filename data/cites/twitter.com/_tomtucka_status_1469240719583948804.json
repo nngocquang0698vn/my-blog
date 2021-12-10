@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South Staffordshire, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Withers" ],
+        "nickname" : [ "tomtucka" ],
+        "numeric-id" : [ "566646587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/932344334762106880/jzC1JQJf.jpg" ],
+        "published" : [ "2012-04-29T20:25:41+00:00" ],
+        "uid" : [ "tag:twitter.com:tomtucka" ],
+        "url" : [ "https://twitter.com/tomtucka", "https://tomwithers.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’ve decided to take the leap into contracting so I can travel more, I’ll be joining teams in <a href=\"https://twitter.com/GDSTeam\">@GDSTeam</a> next week for the next 12 months, after that I’m planning to take 4 months off to travel south east Asia!",
+      "value" : "I’ve decided to take the leap into contracting so I can travel more, I’ll be joining teams in @GDSTeam next week for the next 12 months, after that I’m planning to take 4 months off to travel south east Asia!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/tomtucka/status/1469240717168025602" ],
+    "published" : [ "2021-12-10T09:40:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1469240719583948804" ],
+    "url" : [ "https://twitter.com/tomtucka/status/1469240719583948804" ]
+  },
+  "type" : [ "h-entry" ]
+}
