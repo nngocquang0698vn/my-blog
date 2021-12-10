@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, Tx" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Sellers" ],
+        "nickname" : [ "TomSellers" ],
+        "numeric-id" : [ "35228258" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1083339532127223809/_tdtlUaA.jpg" ],
+        "published" : [ "2009-04-25T14:57:32+00:00" ],
+        "uid" : [ "tag:twitter.com:TomSellers" ],
+        "url" : [ "https://twitter.com/TomSellers", "http://www.fadedcode.net", "http://LinkedIn.com/in/tomsellers", "http://fadedlab.wordpress.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I see folks making fun of the CVE issued for the default password on Raspberry Pi\n\nI personally want to see CVEs for EVERY _static_ default credential. I want it to show up in searches for the vendor name or product, CVE counts for a vendor, and in risk ratings for the product.</div>",
+      "value" : "I see folks making fun of the CVE issued for the default password on Raspberry Pi\n\nI personally want to see CVEs for EVERY _static_ default credential. I want it to show up in searches for the vendor name or product, CVE counts for a vendor, and in risk ratings for the product."
+    } ],
+    "published" : [ "2021-12-08T16:54:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1468624914508881922" ],
+    "url" : [ "https://twitter.com/TomSellers/status/1468624914508881922" ]
+  },
+  "type" : [ "h-entry" ]
+}
