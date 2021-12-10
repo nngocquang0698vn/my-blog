@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mostly the couch" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Actually," ],
+        "nickname" : [ "eaton" ],
+        "numeric-id" : [ "2582861" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/755858721373233153/R1jV5uS6.jpg" ],
+        "published" : [ "2007-03-28T00:36:25+00:00" ],
+        "uid" : [ "tag:twitter.com:eaton" ],
+        "url" : [ "https://twitter.com/eaton", "https://eaton.fyi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is the best opening to a technical book the world has ever seen and i will fight anyone who says otherwise" ],
+    "photo" : [ {
+      "alt" : "The introduction to Lisa Maria Marquis' book, Everyday Information Architecture. It begins: \"Walter Plecker was an asshole.\"\n\nPlecker, a 1920s bureaucrat in Virginia, used his position in the state's Vital Statistics agency, to codify his views on race and whiteness in the state's official racial taxonomy — dramatically restricting many Virginians' rights and legal agency.\n\nQuoting LMM:\n\n\"Changing a label is a design decision—one calculated, in this case, to disenfranchise specific human beings.\n\nNow, most of us don’t have Walter Plecker’s job. We are, instead, designers, developers, copywriters, strategists. We work on the web, and we may not think our work carries that same weight.\n\nI’m here to argue that it does. Whatever our role, we are designers of information. Our choices alter the presentation and flow of human knowledge. We control how people find, understand, and use information in every facet of their lives.\"",
+      "value" : "https://pbs.twimg.com/media/FF8eBO3WUA0TnSf.jpg"
+    } ],
+    "published" : [ "2021-12-06T18:37:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1467926228720140296" ],
+    "url" : [ "https://twitter.com/eaton/status/1467926228720140296" ]
+  },
+  "type" : [ "h-entry" ]
+}
