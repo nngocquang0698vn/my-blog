@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katy 🐭✨" ],
+        "nickname" : [ "KatyCodesStuff" ],
+        "numeric-id" : [ "1436973353529659395" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436973689115906048/kkvYOP3C.jpg" ],
+        "published" : [ "2021-09-12T08:42:29+00:00" ],
+        "uid" : [ "tag:twitter.com:KatyCodesStuff" ],
+        "url" : [ "https://twitter.com/KatyCodesStuff", "https://katycodesstuff.hashnode.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The annoying thing about working on private codebases is often I write code I'm really pleased with and I'd absolutely love to share it!\n\nBut there's so much business logic baked in that either doesn't make sense or I can't show without upsetting customers 😢</div>",
+      "value" : "The annoying thing about working on private codebases is often I write code I'm really pleased with and I'd absolutely love to share it!\n\nBut there's so much business logic baked in that either doesn't make sense or I can't show without upsetting customers 😢"
+    } ],
+    "published" : [ "2021-12-10T09:31:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1469238438767513605" ],
+    "url" : [ "https://twitter.com/KatyCodesStuff/status/1469238438767513605" ]
+  },
+  "type" : [ "h-entry" ]
+}
