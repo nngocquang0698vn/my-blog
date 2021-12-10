@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pleasant Grove, UT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kent C. Dodds 💿" ],
+        "nickname" : [ "kentcdodds" ],
+        "numeric-id" : [ "389681470" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1444988463216922631/IDffhy4i.jpg" ],
+        "published" : [ "2011-10-12T20:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:kentcdodds" ],
+        "url" : [ "https://twitter.com/kentcdodds", "http://kentcdodds.com", "http://TestingJavaScript.com", "http://EpicReact.Dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Best practices\" are only the \"best\" because nobody's found anything better yet.\n\n(Also, they can be subjective, so calling them \"best\" can sometimes be a misnomer).</div>",
+      "value" : "\"Best practices\" are only the \"best\" because nobody's found anything better yet.\n\n(Also, they can be subjective, so calling them \"best\" can sometimes be a misnomer)."
+    } ],
+    "published" : [ "2021-12-10T14:41:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1469316379840901127" ],
+    "url" : [ "https://twitter.com/kentcdodds/status/1469316379840901127" ]
+  },
+  "type" : [ "h-entry" ]
+}
