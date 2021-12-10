@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Volker Simonis" ],
+          "nickname" : [ "volker_simonis" ],
+          "numeric-id" : [ "778870455058837506" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/778873359303974912/2uX6OFUI.jpg" ],
+          "published" : [ "2016-09-22T08:16:02+00:00" ],
+          "uid" : [ "tag:twitter.com:volker_simonis" ],
+          "url" : [ "https://twitter.com/volker_simonis" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I've written a simple (i.e. standalone, no dependencies) Java program which patches JndiLookup.lookup() to return a fixed string and not parse its arguments. This should fix CVE-2021-44228 (i.e. RCE in Log4j) without restarting your JVM process. <a href=\"https://twitter.com/search?q=%23Log4J\">#Log4J</a>\n\n<a href=\"https://github.com/simonis/Log4jPatch\">github.com/simonis/Log4jP…</a></div>",
+        "value" : "I've written a simple (i.e. standalone, no dependencies) Java program which patches JndiLookup.lookup() to return a fixed string and not parse its arguments. This should fix CVE-2021-44228 (i.e. RCE in Log4j) without restarting your JVM process. #Log4J\n\ngithub.com/simonis/Log4jP…"
+      } ],
+      "published" : [ "2021-12-10T10:45:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1469256987196100608" ],
+      "url" : [ "https://twitter.com/volker_simonis/status/1469256987196100608" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dortmund, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hendrik Ebbers 👾" ],
+        "nickname" : [ "hendrikEbbers" ],
+        "numeric-id" : [ "37876575" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/686294486167719937/H8WvFWmY.png" ],
+        "published" : [ "2009-05-05T07:02:21+00:00" ],
+        "uid" : [ "tag:twitter.com:hendrikEbbers" ],
+        "url" : [ "https://twitter.com/hendrikEbbers", "http://www.guigarage.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is an amazing work by <a href=\"https://twitter.com/volker_simonis\">@volker_simonis</a> to patch the critical <a href=\"https://twitter.com/search?q=%23log4j\">#log4j</a> bug for running JVM instances. If you have services that use Log4J and you can not update them today you should execute this program / agent to patch your running <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> JVM instances on the fly 👍👍👍",
+      "value" : "This is an amazing work by @volker_simonis to patch the critical #log4j bug for running JVM instances. If you have services that use Log4J and you can not update them today you should execute this program / agent to patch your running #Java JVM instances on the fly 👍👍👍"
+    } ],
+    "published" : [ "2021-12-10T11:08:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1469262796932194308" ],
+    "url" : [ "https://twitter.com/hendrikEbbers/status/1469262796932194308" ]
+  },
+  "type" : [ "h-entry" ]
+}
