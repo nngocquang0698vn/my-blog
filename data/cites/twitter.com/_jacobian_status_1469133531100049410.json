@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jacobian" ],
+        "nickname" : [ "jacobian" ],
+        "numeric-id" : [ "18824526" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/70449715/me-as-a-baby.jpg" ],
+        "published" : [ "2009-01-10T02:43:17+00:00" ],
+        "uid" : [ "tag:twitter.com:jacobian" ],
+        "url" : [ "https://twitter.com/jacobian", "http://jacobian.org/", "https://jacobian.org/help/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I deleted an incorrect tweet about mitigations. Here's the correction:\n\nPoC is here: <a href=\"https://github.com/tangxiaofeng7/apache-log4j-poc\">github.com/tangxiaofeng7/…</a> (and it's legit, I've seen verification). Mitigation: update to log4j 2.10 and set the env var  LOG4J_FORMAT_MSG_NO_LOOKUPS=true; OR upgrade to 2.15rc1 or above.</div>",
+      "value" : "I deleted an incorrect tweet about mitigations. Here's the correction:\n\nPoC is here: github.com/tangxiaofeng7/… (and it's legit, I've seen verification). Mitigation: update to log4j 2.10 and set the env var  LOG4J_FORMAT_MSG_NO_LOOKUPS=true; OR upgrade to 2.15rc1 or above."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jacobian/status/1469131850962518017" ],
+    "published" : [ "2021-12-10T02:35:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1469133531100049410" ],
+    "url" : [ "https://twitter.com/jacobian/status/1469133531100049410" ]
+  },
+  "type" : [ "h-entry" ]
+}
