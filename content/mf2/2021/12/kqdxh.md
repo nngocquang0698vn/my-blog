@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WholesomeMeme/status/1469652939388170241" ],
     "name" : [ "Like of @WholesomeMeme's tweet" ],
     "published" : [ "2021-12-11T15:04:00+0000" ],
     "category" : [ "cute", "wallace-and-gromit" ],
