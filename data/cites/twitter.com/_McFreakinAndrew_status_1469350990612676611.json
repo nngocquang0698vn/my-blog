@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Diego & world at large" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tony Hawk" ],
+          "nickname" : [ "tonyhawk" ],
+          "numeric-id" : [ "21879024" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1325015260/1979_driveway_fs_stink.jpg" ],
+          "published" : [ "2009-02-25T15:52:43+00:00" ],
+          "uid" : [ "tag:twitter.com:tonyhawk" ],
+          "url" : [ "https://twitter.com/tonyhawk", "http://linktr.ee/tonyhawk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">At coffee shop this morning:\nGirl behind counter: (not joking) “has anyone told you that you look like Tony Hawk?”\nMe: yes, so much that I sometimes write about it.\nHer: haha, here’s your coffee\nOther girl by exit: (leans toward me as I walk out): “you really do look like him”</div>",
+        "value" : "At coffee shop this morning:\nGirl behind counter: (not joking) “has anyone told you that you look like Tony Hawk?”\nMe: yes, so much that I sometimes write about it.\nHer: haha, here’s your coffee\nOther girl by exit: (leans toward me as I walk out): “you really do look like him”"
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Lincolnton, NC" ],
+          "uid" : [ "tag:twitter.com:e41d169b6d84efb4" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2021-12-10T16:17:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1469340569587568645" ],
+      "url" : [ "https://twitter.com/tonyhawk/status/1469340569587568645" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "andrew 🏳️‍🌈" ],
+        "nickname" : [ "McFreakinAndrew" ],
+        "numeric-id" : [ "1895846911" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411820177101103113/ZQyjKHqA.jpg" ],
+        "published" : [ "2013-09-23T02:00:04+00:00" ],
+        "uid" : [ "tag:twitter.com:McFreakinAndrew" ],
+        "url" : [ "https://twitter.com/McFreakinAndrew" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tony Hawk is proof that no one would think Clark Kent is Superman" ],
+    "published" : [ "2021-12-10T16:59:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1469350990612676611" ],
+    "url" : [ "https://twitter.com/McFreakinAndrew/status/1469350990612676611" ]
+  },
+  "type" : [ "h-entry" ]
+}
