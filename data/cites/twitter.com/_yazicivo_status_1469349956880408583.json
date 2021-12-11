@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/brunoborges/st…" ],
+        "url" : [ "https://twitter.com/brunoborges/status/1469186875608875011" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Potsdam, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Aleksey Shipilëv" ],
+          "nickname" : [ "shipilev" ],
+          "numeric-id" : [ "282739245" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/948694288019394560/p5aIjjTj.jpg" ],
+          "published" : [ "2011-04-15T20:33:54+00:00" ],
+          "uid" : [ "tag:twitter.com:shipilev" ],
+          "url" : [ "https://twitter.com/shipilev", "https://shipilev.net/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Sending hugs to Log4J people. This must be an extraordinarily shitty Friday for them.\n<a class=\"tag\" href=\"https://twitter.com/brunoborges/status/1469186875608875011\">twitter.com/brunoborges/st…</a>",
+        "value" : "Sending hugs to Log4J people. This must be an extraordinarily shitty Friday for them."
+      } ],
+      "published" : [ "2021-12-10T15:26:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1469327572781744132" ],
+      "url" : [ "https://twitter.com/shipilev/status/1469327572781744132" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Volkan Yazıcı" ],
+        "nickname" : [ "yazicivo" ],
+        "numeric-id" : [ "489691940" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1276094582434955264/sLfJ7Vki.jpg" ],
+        "published" : [ "2012-02-11T19:51:40+00:00" ],
+        "uid" : [ "tag:twitter.com:yazicivo" ],
+        "url" : [ "https://twitter.com/yazicivo", "https://vlkan.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Log4j maintainers have been working sleeplessly on mitigation measures; fixes, docs, CVE, replies to inquiries, etc. Yet nothing is stopping people to bash us, for work we aren't paid for, for a feature we all dislike yet needed to keep due to backward compatibility concerns." ],
+    "published" : [ "2021-12-10T16:55:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1469349956880408583" ],
+    "url" : [ "https://twitter.com/yazicivo/status/1469349956880408583" ]
+  },
+  "type" : [ "h-entry" ]
+}
