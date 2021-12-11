@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "stolen Tongva land (LA)" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "shelby spees" ],
+          "nickname" : [ "shelbyspees" ],
+          "numeric-id" : [ "3852838154" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1459350467868200964/JZs4Yu-N.jpg" ],
+          "published" : [ "2015-10-11T00:20:58+00:00" ],
+          "uid" : [ "tag:twitter.com:shelbyspees" ],
+          "url" : [ "https://twitter.com/shelbyspees", "https://spees.dev", "http://pronoun.is/she" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">fun exercise for folks with production code in github: go to the Insights tab in your repo and navigate to the Dependencies page.\n\npick a package that looks interesting and find out how it's funded.</div>",
+        "value" : "fun exercise for folks with production code in github: go to the Insights tab in your repo and navigate to the Dependencies page.\n\npick a package that looks interesting and find out how it's funded."
+      } ],
+      "published" : [ "2021-12-11T16:34:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1469707194878730243" ],
+      "url" : [ "https://twitter.com/shelbyspees/status/1469707194878730243" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SeaTac " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "p🍐ris" ],
+        "nickname" : [ "ParisInBmore" ],
+        "numeric-id" : [ "81538231" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467005798979047427/aK2nRAlg.jpg" ],
+        "published" : [ "2009-10-11T07:04:29+00:00" ],
+        "uid" : [ "tag:twitter.com:ParisInBmore" ],
+        "url" : [ "https://twitter.com/ParisInBmore" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">orgs: hire an oss strategy person to do this for your entire product portfolio. add in “what does the project need” to the “how is this being funded?” question \neng: do this for your tech stack</div>",
+      "value" : "orgs: hire an oss strategy person to do this for your entire product portfolio. add in “what does the project need” to the “how is this being funded?” question \neng: do this for your tech stack"
+    } ],
+    "published" : [ "2021-12-11T16:38:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1469708285582348292" ],
+    "url" : [ "https://twitter.com/ParisInBmore/status/1469708285582348292" ]
+  },
+  "type" : [ "h-entry" ]
+}
