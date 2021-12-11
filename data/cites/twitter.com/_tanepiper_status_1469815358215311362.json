@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396911855063519232/6H5EmEKe.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Nothing to do with the logging library, more just every time I've come up against it being implemented it always results in too many 2FA logins (sometimes more than once a day) - but doesn't always pop up, so no email or teams messages until I notice.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Nothing to do with the logging library, more just every time I've come up against it being implemented it always results in too many 2FA logins (sometimes more than once a day) - but doesn't always pop up, so no email or teams messages until I notice."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1469814802063269888" ],
+    "published" : [ "2021-12-11T23:44:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1469815358215311362" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1469815358215311362" ]
+  },
+  "type" : [ "h-entry" ]
+}
