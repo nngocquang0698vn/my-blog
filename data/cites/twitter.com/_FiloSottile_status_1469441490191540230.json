@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Filippo ${jndi:ldap://filippo.io/x} Valsorda" ],
+        "nickname" : [ "FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The market rate of a developer who can maintain a large open source project is at least $300k/yr. (Conservatively, check <a href=\"https://levels.fyi\">levels.fyi</a>.)\n\nThe most I've seen someone rack up on GitHub Sponsors and Patreon is like $1,000/month.\n\nYou see the problem?</div>",
+      "value" : "The market rate of a developer who can maintain a large open source project is at least $300k/yr. (Conservatively, check levels.fyi.)\n\nThe most I've seen someone rack up on GitHub Sponsors and Patreon is like $1,000/month.\n\nYou see the problem?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/FiloSottile/status/1469441487175880711" ],
+    "published" : [ "2021-12-10T22:58:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1469441490191540230" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1469441490191540230" ]
+  },
+  "type" : [ "h-entry" ]
+}
