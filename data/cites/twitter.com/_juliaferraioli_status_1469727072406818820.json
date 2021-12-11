@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/shelbyspees/st…" ],
+        "url" : [ "https://twitter.com/shelbyspees/status/1469707194878730243" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SeaTac " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "p🍐ris" ],
+          "nickname" : [ "ParisInBmore" ],
+          "numeric-id" : [ "81538231" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1467005798979047427/aK2nRAlg.jpg" ],
+          "published" : [ "2009-10-11T07:04:29+00:00" ],
+          "uid" : [ "tag:twitter.com:ParisInBmore" ],
+          "url" : [ "https://twitter.com/ParisInBmore" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">orgs: hire an oss strategy person to do this for your entire product portfolio. add in “what does the project need” to the “how is this being funded?” question \neng: do this for your tech stack</div>\n<a class=\"tag\" href=\"https://twitter.com/shelbyspees/status/1469707194878730243\">twitter.com/shelbyspees/st…</a>",
+        "value" : "orgs: hire an oss strategy person to do this for your entire product portfolio. add in “what does the project need” to the “how is this being funded?” question \neng: do this for your tech stack"
+      } ],
+      "published" : [ "2021-12-11T16:38:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1469708285582348292" ],
+      "url" : [ "https://twitter.com/ParisInBmore/status/1469708285582348292" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This may seem like overkill, but it's really an investment in your company's stability. <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> may reduce many costs of development, but it's not entirely free.\n\nDon't find out that the library that's integral to your infrastructure is un(der)-funded when it's too late.</div>",
+      "value" : "This may seem like overkill, but it's really an investment in your company's stability. #OpenSource may reduce many costs of development, but it's not entirely free.\n\nDon't find out that the library that's integral to your infrastructure is un(der)-funded when it's too late."
+    } ],
+    "published" : [ "2021-12-11T17:53:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1469727072406818820" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1469727072406818820" ]
+  },
+  "type" : [ "h-entry" ]
+}
