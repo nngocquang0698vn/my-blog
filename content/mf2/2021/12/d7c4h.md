@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shipilev/status/1469327572781744132" ],
     "name" : [ "Like of @shipilev's tweet" ],
     "published" : [ "2021-12-11T11:44:00+0000" ],
     "category" : [ "log4j", "open-source" ],
