@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drpeps92/status/1469607655761231873" ],
     "name" : [ "Like of @drpeps92's tweet" ],
     "published" : [ "2021-12-11T11:39:00+0000" ],
     "like-of" : [ "https://twitter.com/drpeps92/status/1469607655761231873" ],
