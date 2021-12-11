@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Filippo ${jndi:ldap://filippo.io/x} Valsorda" ],
+        "nickname" : [ "FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is the maintainer who fixed the vulnerability that's causing millions(++?) of dollars of damage.\n\n\"I work on Log4j in my spare time\"\n\"always dreamed of working on open source full time\"\n\"3 sponsors are funding <a href=\"https://twitter.com/rgoers\">@rgoers</a>'s work: Michael, Glenn, Matt\"\n\nPeople, what are we doing.</div>",
+      "value" : "This is the maintainer who fixed the vulnerability that's causing millions(++?) of dollars of damage.\n\n\"I work on Log4j in my spare time\"\n\"always dreamed of working on open source full time\"\n\"3 sponsors are funding @rgoers's work: Michael, Glenn, Matt\"\n\nPeople, what are we doing."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/FiloSottile/status/1469441477642178561" ],
+    "photo" : [ "https://pbs.twimg.com/media/FGR_HozXMAAuKwd.jpg" ],
+    "published" : [ "2021-12-10T22:58:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1469441487175880711" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1469441487175880711" ]
+  },
+  "type" : [ "h-entry" ]
+}
