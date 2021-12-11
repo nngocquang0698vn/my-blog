@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com", "https://www.compilersforhumans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Maintainable open source is not an easily solved problem.\n\nAnd yet most of our tech stacks would shut down if open source code was all of a sudden unavailable.</div>",
+      "value" : "Maintainable open source is not an easily solved problem.\n\nAnd yet most of our tech stacks would shut down if open source code was all of a sudden unavailable."
+    } ],
+    "published" : [ "2021-12-11T22:44:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1469800356850905088" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1469800356850905088" ]
+  },
+  "type" : [ "h-entry" ]
+}
