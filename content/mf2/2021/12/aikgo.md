@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hiMaisie/status/1469788477055197194" ],
     "name" : [ "Like of @hiMaisie's tweet" ],
     "published" : [ "2021-12-11T23:48:00+0000" ],
     "category" : [ "cute" ],
