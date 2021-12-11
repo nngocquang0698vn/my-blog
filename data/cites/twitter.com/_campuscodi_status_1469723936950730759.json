@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/shipilev/statu…" ],
+        "url" : [ "https://twitter.com/shipilev/status/1469327572781744132" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Volkan Yazıcı" ],
+          "nickname" : [ "yazicivo" ],
+          "numeric-id" : [ "489691940" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276094582434955264/sLfJ7Vki.jpg" ],
+          "published" : [ "2012-02-11T19:51:40+00:00" ],
+          "uid" : [ "tag:twitter.com:yazicivo" ],
+          "url" : [ "https://twitter.com/yazicivo", "https://vlkan.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Log4j maintainers have been working sleeplessly on mitigation measures; fixes, docs, CVE, replies to inquiries, etc. Yet nothing is stopping people to bash us, for work we aren't paid for, for a feature we all dislike yet needed to keep due to backward compatibility concerns.\n<a class=\"tag\" href=\"https://twitter.com/shipilev/status/1469327572781744132\">twitter.com/shipilev/statu…</a>",
+        "value" : "Log4j maintainers have been working sleeplessly on mitigation measures; fixes, docs, CVE, replies to inquiries, etc. Yet nothing is stopping people to bash us, for work we aren't paid for, for a feature we all dislike yet needed to keep due to backward compatibility concerns."
+      } ],
+      "published" : [ "2021-12-10T16:55:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1469349956880408583" ],
+      "url" : [ "https://twitter.com/yazicivo/status/1469349956880408583" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "EU" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Catalin Cimpanu" ],
+        "nickname" : [ "campuscodi" ],
+        "numeric-id" : [ "39176606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312122090858971138/BO44DPpb.jpg" ],
+        "published" : [ "2009-05-11T02:57:56+00:00" ],
+        "uid" : [ "tag:twitter.com:campuscodi" ],
+        "url" : [ "https://twitter.com/campuscodi", "https://therecord.media" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Apache Log4j project is maintained by three people who are volunteering their spare time. Please don't be a jerk to them because multi-billion dollar companies are using their tool without even bothering to throw $1,000 their way." ],
+    "published" : [ "2021-12-11T17:41:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1469723936950730759" ],
+    "url" : [ "https://twitter.com/campuscodi/status/1469723936950730759" ]
+  },
+  "type" : [ "h-entry" ]
+}
