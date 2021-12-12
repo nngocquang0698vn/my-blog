@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "127.0.0.1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dio Rettori" ],
+        "nickname" : [ "rettori" ],
+        "numeric-id" : [ "48184627" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/983343450874630144/oMtSSkE0.jpg" ],
+        "published" : [ "2009-06-18T00:50:51+00:00" ],
+        "uid" : [ "tag:twitter.com:rettori" ],
+        "url" : [ "https://twitter.com/rettori" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Pretty much every day for the last 10 years.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/liran_tal\"></a>",
+      "value" : "Pretty much every day for the last 10 years."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/liran_tal/status/1469770636356722688" ],
+    "published" : [ "2021-12-11T20:58:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1469773690837610500" ],
+    "url" : [ "https://twitter.com/rettori/status/1469773690837610500" ]
+  },
+  "type" : [ "h-entry" ]
+}
