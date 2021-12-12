@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1469980869754593282" ],
     "published" : [ "2021-12-12T10:34:00+0000" ],
     "category" : [ "open-source", "log4j" ],
     "repost-of" : [ "https://twitter.com/ALRubinger/status/1469925413543550980" ],
