@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "suzuha" ],
+        "nickname" : [ "dystopiabreaker" ],
+        "numeric-id" : [ "1429011571833937921" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437814013572775936/4In4rbjQ.jpg" ],
+        "published" : [ "2021-08-21T09:25:04+00:00" ],
+        "uid" : [ "tag:twitter.com:dystopiabreaker" ],
+        "url" : [ "https://twitter.com/dystopiabreaker" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">since everyone is talking about log4j/supply chains\n\nan experiment years ago i calculated 1-bit offset utf8 strings of the top few hundred npm packages and registered packages under them\n\nthey received thousands of hits per week from machines  trying to download and execute them</div>",
+      "value" : "since everyone is talking about log4j/supply chains\n\nan experiment years ago i calculated 1-bit offset utf8 strings of the top few hundred npm packages and registered packages under them\n\nthey received thousands of hits per week from machines  trying to download and execute them"
+    } ],
+    "published" : [ "2021-12-11T08:06:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1469579222708457473" ],
+    "url" : [ "https://twitter.com/dystopiabreaker/status/1469579222708457473" ]
+  },
+  "type" : [ "h-entry" ]
+}
