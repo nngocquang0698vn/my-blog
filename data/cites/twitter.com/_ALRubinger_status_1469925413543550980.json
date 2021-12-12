@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Calichusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Lee Rubinger" ],
+        "nickname" : [ "ALRubinger" ],
+        "numeric-id" : [ "19385504" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330812387440680961/ZVAo_SqY.jpg" ],
+        "published" : [ "2009-01-23T07:31:30+00:00" ],
+        "uid" : [ "tag:twitter.com:ALRubinger" ],
+        "url" : [ "https://twitter.com/ALRubinger" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This week did not show us weakness in Log4J, Java, or open source.\n\nIt showed us their relevance and resilience.\n\nMy🤘🏻to the folks keeping us safe with timely workarounds, fixes, and communications. This was a masterclass in global incident response.</div>",
+      "value" : "This week did not show us weakness in Log4J, Java, or open source.\n\nIt showed us their relevance and resilience.\n\nMy🤘🏻to the folks keeping us safe with timely workarounds, fixes, and communications. This was a masterclass in global incident response."
+    } ],
+    "published" : [ "2021-12-12T07:01:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1469925413543550980" ],
+    "url" : [ "https://twitter.com/ALRubinger/status/1469925413543550980" ]
+  },
+  "type" : [ "h-entry" ]
+}
