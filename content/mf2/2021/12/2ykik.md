@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZiziFothSi/status/1469995038939783170" ],
     "name" : [ "Like of @ZiziFothSi's tweet" ],
     "published" : [ "2021-12-12T12:51:00+0000" ],
     "category" : [ "star-trek" ],
