@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/marmelab/universal.css/stargazers" ],
     "name" : [ "marmelab/universal.css: The only CSS you will ever need" ],
     "published" : [ "2021-12-12T20:34:53.212610271Z" ],
     "category" : [ "css" ],
