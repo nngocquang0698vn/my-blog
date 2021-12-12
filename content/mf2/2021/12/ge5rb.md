@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/themortalemily/status/1469734635319955456" ],
     "name" : [ "Like of @themortalemily's tweet" ],
     "published" : [ "2021-12-12T03:45:00+0000" ],
     "category" : [ "christmas", "log4j" ],
