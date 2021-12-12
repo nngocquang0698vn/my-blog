@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "london" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "bob" ],
+          "nickname" : [ "rjw1" ],
+          "numeric-id" : [ "328203" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2626031575/oud9vjx58y1ilxu8y0qa.jpeg" ],
+          "published" : [ "2006-12-28T20:41:17+00:00" ],
+          "uid" : [ "tag:twitter.com:rjw1" ],
+          "url" : [ "https://twitter.com/rjw1", "http://randomness.org.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We all join a union who uses the subs to pay maintainers (how we decide what needs maintaining becomes an issue)" ],
+      "in-reply-to" : [ "https://twitter.com/rjw1/status/1470139005559881733" ],
+      "published" : [ "2021-12-12T21:10:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1470139008424546310" ],
+      "url" : [ "https://twitter.com/rjw1/status/1470139008424546310" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "bob" ],
+        "nickname" : [ "rjw1" ],
+        "numeric-id" : [ "328203" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2626031575/oud9vjx58y1ilxu8y0qa.jpeg" ],
+        "published" : [ "2006-12-28T20:41:17+00:00" ],
+        "uid" : [ "tag:twitter.com:rjw1" ],
+        "url" : [ "https://twitter.com/rjw1", "http://randomness.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Joining a union is a good idea anyway. So you should do that. I'm a member of <a href=\"https://twitter.com/ProspectUnion\">@ProspectUnion</a>. Who are best choice of the well established unions in the UK if you work in tech.",
+      "value" : "Joining a union is a good idea anyway. So you should do that. I'm a member of @ProspectUnion. Who are best choice of the well established unions in the UK if you work in tech."
+    } ],
+    "published" : [ "2021-12-12T21:44:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1470147544995008513" ],
+    "url" : [ "https://twitter.com/rjw1/status/1470147544995008513" ]
+  },
+  "type" : [ "h-entry" ]
+}
