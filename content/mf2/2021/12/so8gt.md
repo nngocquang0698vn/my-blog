@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TychoTithonus/status/1469552995042009090" ],
     "name" : [ "Like of @TychoTithonus's tweet" ],
     "published" : [ "2021-12-12T12:47:00+0000" ],
     "category" : [ "log4j" ],
