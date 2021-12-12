@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gunnar Morling 🌍" ],
+        "nickname" : [ "gunnarmorling" ],
+        "numeric-id" : [ "2342011352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411051861415759880/4vzagQao.jpg" ],
+        "published" : [ "2014-02-13T13:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:gunnarmorling" ],
+        "url" : [ "https://twitter.com/gunnarmorling", "https://morling.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If you have a <a href=\"https://twitter.com/search?q=%23Maven\">#Maven</a> parent POM for your org or project, here's an enforcer rule to put into it which will ban any current of future usage of vulnerable <a href=\"https://twitter.com/search?q=%23log4j2\">#log4j2</a> versions.\n\n<a href=\"https://gist.github.com/gunnarmorling/8026d004776313ebfc65674202134e6d\">gist.github.com/gunnarmorling/…</a></div>",
+      "value" : "If you have a #Maven parent POM for your org or project, here's an enforcer rule to put into it which will ban any current of future usage of vulnerable #log4j2 versions.\n\ngist.github.com/gunnarmorling/…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FGUUZX2XsAA-LN2.jpg" ],
+    "published" : [ "2021-12-11T09:42:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1469603432269062146" ],
+    "url" : [ "https://twitter.com/gunnarmorling/status/1469603432269062146" ]
+  },
+  "type" : [ "h-entry" ]
+}
