@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laserllama/status/1469872779294085125" ],
     "name" : [ "Like of @laserllama's tweet" ],
     "published" : [ "2021-12-12T04:01:00+0000" ],
     "like-of" : [ "https://twitter.com/laserllama/status/1469872779294085125" ],
