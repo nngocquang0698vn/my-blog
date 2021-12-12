@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dystopiabreaker/status/1469579222708457473" ],
     "name" : [ "Like of @dystopiabreaker's tweet" ],
     "published" : [ "2021-12-12T09:37:00+0000" ],
     "category" : [ "open-source" ],
