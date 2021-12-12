@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "laserllama" ],
+        "nickname" : [ "laserllama" ],
+        "numeric-id" : [ "52725117" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/655888203451252736/rhPBlRiG.png" ],
+        "published" : [ "2009-07-01T13:30:15+00:00" ],
+        "uid" : [ "tag:twitter.com:laserllama" ],
+        "url" : [ "https://twitter.com/laserllama", "https://www.laserllama.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "developer pro tip: the best way to prevent log4j from executing shell commands or querying LDAP is to not allow any user input of any kind" ],
+    "published" : [ "2021-12-12T03:32:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1469872779294085125" ],
+    "url" : [ "https://twitter.com/laserllama/status/1469872779294085125" ]
+  },
+  "type" : [ "h-entry" ]
+}
