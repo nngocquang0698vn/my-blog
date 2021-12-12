@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Benjie/status/1469971596349689857" ],
     "name" : [ "Like of @Benjie's tweet" ],
     "published" : [ "2021-12-12T11:08:00+0000" ],
     "category" : [ "open-source" ],
