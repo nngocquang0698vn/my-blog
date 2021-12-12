@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "AK (block/unfollow? See link!)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Royce Williams" ],
+        "nickname" : [ "TychoTithonus" ],
+        "numeric-id" : [ "14380106" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411727937359912960/fstBMRpX.jpg" ],
+        "published" : [ "2008-04-14T02:06:19+00:00" ],
+        "uid" : [ "tag:twitter.com:TychoTithonus" ],
+        "url" : [ "https://twitter.com/TychoTithonus", "https://techsolvency.com/roycewilliams/twitter/?wow-lots-of-extra-space-in-this-Twitter-field-max100" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My <a href=\"https://twitter.com/search?q=%23log4j\">#log4j</a> status/tracking page is a little rough in spots, but the list of affected, claimed unaffected, and not-sure-yet products is getting the full undue diligence:\n\n<a href=\"https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/\">techsolvency.com/story-so-far/c…</a></div>",
+      "value" : "My #log4j status/tracking page is a little rough in spots, but the list of affected, claimed unaffected, and not-sure-yet products is getting the full undue diligence:\n\ntechsolvency.com/story-so-far/c…"
+    } ],
+    "published" : [ "2021-12-11T06:21:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1469552995042009090" ],
+    "url" : [ "https://twitter.com/TychoTithonus/status/1469552995042009090" ]
+  },
+  "type" : [ "h-entry" ]
+}
