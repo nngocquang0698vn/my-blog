@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/larsrosenquist/status/1469991420069040128" ],
     "name" : [ "Like of @larsrosenquist's tweet" ],
     "published" : [ "2021-12-13T08:54:00+0000" ],
     "category" : [ "jar", "log4j" ],
