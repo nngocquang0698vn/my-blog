@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeffhollan/status/1470080084308480002" ],
     "name" : [ "Like of @jeffhollan's tweet" ],
     "published" : [ "2021-12-13T08:46:00+0000" ],
     "category" : [ "open-source", "log4j" ],
