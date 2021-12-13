@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam" ],
+        "nickname" : [ "adamrbrts" ],
+        "numeric-id" : [ "506202629" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1250013919361617921/1Olq_ior.jpg" ],
+        "published" : [ "2012-02-27T18:17:44+00:00" ],
+        "uid" : [ "tag:twitter.com:adamrbrts" ],
+        "url" : [ "https://twitter.com/adamrbrts" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Omg stop they’ve made 1 tweet\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BlueLightAlarm\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monzo\"></a>",
+      "value" : "Omg stop they’ve made 1 tweet"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BlueLightAlarm/status/1470333871476641793" ],
+    "published" : [ "2021-12-13T10:06:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1470334193007800322" ],
+    "url" : [ "https://twitter.com/adamrbrts/status/1470334193007800322" ]
+  },
+  "type" : [ "h-entry" ]
+}
