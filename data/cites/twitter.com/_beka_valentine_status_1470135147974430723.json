@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Beka Valentine" ],
+        "nickname" : [ "beka_valentine" ],
+        "numeric-id" : [ "3393781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1079198884356734976/6xWM0RF_.jpg" ],
+        "published" : [ "2007-04-04T04:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:beka_valentine" ],
+        "url" : [ "https://twitter.com/beka_valentine" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">but its not the log4j's responsibility to fix this in a timely fashion\n\nthey didnt make any promises to any big corps about SLAs or any shit like that, and if there are **consequences** for those corps, that is FINE\n\nit might suck, but that's not the dev's responsibility</div>",
+      "value" : "but its not the log4j's responsibility to fix this in a timely fashion\n\nthey didnt make any promises to any big corps about SLAs or any shit like that, and if there are **consequences** for those corps, that is FINE\n\nit might suck, but that's not the dev's responsibility"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/beka_valentine/status/1470134831262564353" ],
+    "published" : [ "2021-12-12T20:55:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1470135147974430723" ],
+    "url" : [ "https://twitter.com/beka_valentine/status/1470135147974430723" ]
+  },
+  "type" : [ "h-entry" ]
+}
