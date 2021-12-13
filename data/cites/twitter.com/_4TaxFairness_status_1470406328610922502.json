@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Americans For Tax Fairness" ],
+        "nickname" : [ "4TaxFairness" ],
+        "numeric-id" : [ "583377732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1238130091252736000/pkW-RPn7.jpg" ],
+        "published" : [ "2012-05-18T00:20:33+00:00" ],
+        "uid" : [ "tag:twitter.com:4TaxFairness" ],
+        "url" : [ "https://twitter.com/4TaxFairness", "http://www.AmericansforTaxFairness.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Fixed it for you, <a href=\"https://twitter.com/TIME\">@TIME</a>.",
+      "value" : "Fixed it for you, @TIME."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FGfuog0XwAMXpuy.jpg" ],
+    "published" : [ "2021-12-13T14:52:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1470406328610922502" ],
+    "url" : [ "https://twitter.com/4TaxFairness/status/1470406328610922502" ]
+  },
+  "type" : [ "h-entry" ]
+}
