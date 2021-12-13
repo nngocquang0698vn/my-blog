@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ClarissaDM/status/1433741560089169923" ],
     "name" : [ "Like of @ClarissaDM's tweet" ],
     "published" : [ "2021-12-13T03:55:00+0000" ],
     "category" : [ "cv" ],
