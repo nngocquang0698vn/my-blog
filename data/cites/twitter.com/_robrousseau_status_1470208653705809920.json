@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob" ],
+        "nickname" : [ "robrousseau" ],
+        "numeric-id" : [ "18000989" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1454997926657282048/2MPn3EvY.jpg" ],
+        "published" : [ "2008-12-09T20:15:54+00:00" ],
+        "uid" : [ "tag:twitter.com:robrousseau" ],
+        "url" : [ "https://twitter.com/robrousseau", "http://www.patreon.com/robrousseau", "http://twitch.tv/robrousseau" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You literally have a castle and you spend your time doing this\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jk_rowling\"></a>",
+      "value" : "You literally have a castle and you spend your time doing this"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jk_rowling/status/1470092815506063365" ],
+    "published" : [ "2021-12-13T01:47:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1470208653705809920" ],
+    "url" : [ "https://twitter.com/robrousseau/status/1470208653705809920" ]
+  },
+  "type" : [ "h-entry" ]
+}
