@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "unceded Coast Salish territory" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian LeRoux" ],
+        "nickname" : [ "brianleroux" ],
+        "numeric-id" : [ "676363" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306006446040133632/aTJNl9XL.jpg" ],
+        "published" : [ "2007-01-21T19:54:27+00:00" ],
+        "uid" : [ "tag:twitter.com:brianleroux" ],
+        "url" : [ "https://twitter.com/brianleroux", "https://brian.io", "http://arc.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Local dev a first class consideration (long way to go now) along with IaC (getting better but still often afterthought).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zackkanter\"></a>",
+      "value" : "Local dev a first class consideration (long way to go now) along with IaC (getting better but still often afterthought)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/zackkanter/status/1470026849023631369" ],
+    "published" : [ "2021-12-12T15:15:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1470049652619636740" ],
+    "url" : [ "https://twitter.com/brianleroux/status/1470049652619636740" ]
+  },
+  "type" : [ "h-entry" ]
+}
