@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Danack" ],
+        "nickname" : [ "MrDanack" ],
+        "numeric-id" : [ "186335496" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/756072334704992256/Z8hrTtgU.jpg" ],
+        "published" : [ "2010-09-03T05:01:58+00:00" ],
+        "uid" : [ "tag:twitter.com:MrDanack" ],
+        "url" : [ "https://twitter.com/MrDanack", "http://www.flickr.com/photos/danack/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A rare insightful comment on the orange site: <a href=\"https://news.ycombinator.com/item?id=29525286\">news.ycombinator.com/item?id=295252…</a>\n\n\"Open source is not broken\".</div>",
+      "value" : "A rare insightful comment on the orange site: news.ycombinator.com/item?id=295252…\n\n\"Open source is not broken\"."
+    } ],
+    "photo" : [ {
+      "alt" : "Funding for Open Source is a serious problem, but I'm kind of tired of seeing article titles and phrasing implicitly suggesting (again, I think completely unintentionally in this case) that it's the Open Source community's problem to solve. You all use our stuff! This is your problem, your stuff broke because projects were underfunded. Why is it our job to make our funding methods more comfortable to you? The company's stuff breaking because their lawyers are irrationally scared of straight no-strings-attached donations is their problem.\n\n... build the software you want to build, and don't let leaches pretend that gives you an extra obligation to them. Particularly don't let leaches argue that your inability to keep leaches away is your fault. Honestly, the Log4j maintainers would have been completely justified in saying, \"hey, yeah, we see this critical vulnerability, but it's the weekend, we'll get to it on Monday.\"",
+      "value" : "https://pbs.twimg.com/media/FGcJQ48XsAgCe6s.png"
+    } ],
+    "published" : [ "2021-12-12T22:11:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1470154370012663815" ],
+    "url" : [ "https://twitter.com/MrDanack/status/1470154370012663815" ]
+  },
+  "type" : [ "h-entry" ]
+}
