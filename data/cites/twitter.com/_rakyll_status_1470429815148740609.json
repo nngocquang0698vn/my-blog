@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Stockholm Sweden" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Daniel 🥌 Stenberg" ],
+          "nickname" : [ "bagder" ],
+          "numeric-id" : [ "14893620" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1407469211136450565/VOQGppj0.jpg" ],
+          "published" : [ "2008-05-24T20:46:13+00:00" ],
+          "uid" : [ "tag:twitter.com:bagder" ],
+          "url" : [ "https://twitter.com/bagder", "https://daniel.haxx.se/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "The log4j case is not a showcase for bad OSS funding. It is a showcase for naive and cheap users not doing their due diligence, code review and testing before using components. Remember goto fail? Silly bugs are shipped even with the greatest funding." ],
+      "published" : [ "2021-12-13T15:05:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1470409522229428225" ],
+      "url" : [ "https://twitter.com/bagder/status/1470409522229428225" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466482122030387201/itCDBhSk.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A project with a footprint like Log4j is not possible to avoid as a transient dependency even if you don’t directly import it. Log4j is a canonical logging utility for a huge ecosystem. Its current radius is beyond doing due diligence." ],
+    "published" : [ "2021-12-13T16:26:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1470429815148740609" ],
+    "url" : [ "https://twitter.com/rakyll/status/1470429815148740609" ]
+  },
+  "type" : [ "h-entry" ]
+}
