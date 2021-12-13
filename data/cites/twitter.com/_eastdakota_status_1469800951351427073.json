@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Park City, UT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Prince 🌥" ],
+        "nickname" : [ "eastdakota" ],
+        "numeric-id" : [ "23275456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2332322635/zhx7hflmmcxdaj0tk9f8.jpeg" ],
+        "published" : [ "2009-03-08T04:21:35+00:00" ],
+        "uid" : [ "tag:twitter.com:eastdakota" ],
+        "url" : [ "https://twitter.com/eastdakota", "http://www.cloudflare.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Earliest evidence we’ve found so far of <a href=\"https://twitter.com/search?q=%23Log4J\">#Log4J</a> exploit is 2021-12-01 04:36:50 UTC. That suggests it was in the wild at least 9 days before publicly disclosed. However, don’t see evidence of mass exploitation until after public disclosure.",
+      "value" : "Earliest evidence we’ve found so far of #Log4J exploit is 2021-12-01 04:36:50 UTC. That suggests it was in the wild at least 9 days before publicly disclosed. However, don’t see evidence of mass exploitation until after public disclosure."
+    } ],
+    "published" : [ "2021-12-11T22:47:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1469800951351427073" ],
+    "url" : [ "https://twitter.com/eastdakota/status/1469800951351427073" ]
+  },
+  "type" : [ "h-entry" ]
+}
