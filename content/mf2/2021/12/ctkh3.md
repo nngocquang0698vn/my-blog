@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RSWestmoreland/status/1469416326452105224" ],
     "name" : [ "Like of @RSWestmoreland's tweet" ],
     "published" : [ "2021-12-13T08:40:00+0000" ],
     "category" : [ "christmas", "log4j" ],
