@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Hollan" ],
+        "nickname" : [ "jeffhollan" ],
+        "numeric-id" : [ "126868398" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1304277469126483968/eMUGJ9NS.jpg" ],
+        "published" : [ "2010-03-27T07:07:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffhollan" ],
+        "url" : [ "https://twitter.com/jeffhollan", "https://hollan.io", "http://aka.ms/devcompute/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Been thinking about the maintainers of log4j2 a ton this weekend. I'm so thankful for open source. While I get to maintain projects with support from my employer - most do this entirely with spare time\n\nMaintainers deserve our thanks (and sponsorships!) for their work 🤗🙏</div>",
+      "value" : "Been thinking about the maintainers of log4j2 a ton this weekend. I'm so thankful for open source. While I get to maintain projects with support from my employer - most do this entirely with spare time\n\nMaintainers deserve our thanks (and sponsorships!) for their work 🤗🙏"
+    } ],
+    "published" : [ "2021-12-12T17:16:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1470080084308480002" ],
+    "url" : [ "https://twitter.com/jeffhollan/status/1470080084308480002" ]
+  },
+  "type" : [ "h-entry" ]
+}
