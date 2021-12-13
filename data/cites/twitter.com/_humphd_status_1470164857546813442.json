@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rural Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Humphrey" ],
+        "nickname" : [ "humphd" ],
+        "numeric-id" : [ "40587957" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/949719100472750080/yqBY6sKJ.jpg" ],
+        "published" : [ "2009-05-17T02:07:28+00:00" ],
+        "uid" : [ "tag:twitter.com:humphd" ],
+        "url" : [ "https://twitter.com/humphd", "http://blog.humphd.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is my problem, trying to bring students onto AWS and AWS Learner Lab isn't the solution.\n\nThere needs to be a way to use Free Tier with its limits imposed sans credit card, and use it as its meant to be used without unnecessary restrictions. Cut off service if you exceed.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/__steele\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rchrdbyd\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/romainmuller\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zackkanter\"></a>",
+      "value" : "This is my problem, trying to bring students onto AWS and AWS Learner Lab isn't the solution.\n\nThere needs to be a way to use Free Tier with its limits imposed sans credit card, and use it as its meant to be used without unnecessary restrictions. Cut off service if you exceed."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/__steele/status/1470148212203814913" ],
+    "published" : [ "2021-12-12T22:53:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1470164857546813442" ],
+    "url" : [ "https://twitter.com/humphd/status/1470164857546813442" ]
+  },
+  "type" : [ "h-entry" ]
+}
