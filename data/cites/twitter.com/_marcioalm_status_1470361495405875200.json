@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Victoria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Márcio Almeida" ],
+        "nickname" : [ "marcioalm" ],
+        "numeric-id" : [ "44940892" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/431233868725624833/O6495vd4.png" ],
+        "published" : [ "2009-06-05T17:10:55+00:00" ],
+        "uid" : [ "tag:twitter.com:marcioalm" ],
+        "url" : [ "https://twitter.com/marcioalm" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just added support to LDAP Serialized Payloads in the JNDI-Exploit-Kit. This attack path works in *ANY* java version as long the classes used in the Serialized payload are in the application classpath. Do not rely on your java version being up-to-date and update your log4j ASAP!" ],
+    "photo" : [ "https://pbs.twimg.com/media/FGfE9qaVcAUweJW.jpg" ],
+    "published" : [ "2021-12-13T11:54:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1470361495405875200" ],
+    "url" : [ "https://twitter.com/marcioalm/status/1470361495405875200" ]
+  },
+  "type" : [ "h-entry" ]
+}
