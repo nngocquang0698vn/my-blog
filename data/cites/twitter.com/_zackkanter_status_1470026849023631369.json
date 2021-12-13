@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Zack Kanter" ],
+        "nickname" : [ "zackkanter" ],
+        "numeric-id" : [ "466880049" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1081180377081798656/wWpBgf27.jpg" ],
+        "published" : [ "2012-01-17T22:02:28+00:00" ],
+        "uid" : [ "tag:twitter.com:zackkanter" ],
+        "url" : [ "https://twitter.com/zackkanter", "http://www.zackkanter.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If AWS were rebuilt today, what high-level incidental complexity do you wish would be eliminated via different design decisions? E.g. issues with ARNs or URL structure, or even ‘I want regions for data sovereignty, not resiliency.’ Bonus for examples creating toil inside AWS." ],
+    "published" : [ "2021-12-12T13:44:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1470026849023631369" ],
+    "url" : [ "https://twitter.com/zackkanter/status/1470026849023631369" ]
+  },
+  "type" : [ "h-entry" ]
+}
