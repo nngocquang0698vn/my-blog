@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "MTN DEW: Spider Juice" ],
+          "nickname" : [ "MtnDewJitsu" ],
+          "numeric-id" : [ "1214678135494627329" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1396917996526964738/eWFaAFxz.jpg" ],
+          "published" : [ "2020-01-07T22:40:18+00:00" ],
+          "uid" : [ "tag:twitter.com:MtnDewJitsu" ],
+          "url" : [ "https://twitter.com/MtnDewJitsu" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I'm dead." ],
+      "photo" : [ "https://pbs.twimg.com/media/FGaVKVhXsAIXyky.jpg" ],
+      "published" : [ "2021-12-12T13:42:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1470026335271673856" ],
+      "url" : [ "https://twitter.com/MtnDewJitsu/status/1470026335271673856" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Encino, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zack Stentz" ],
+        "nickname" : [ "MuseZack" ],
+        "numeric-id" : [ "195129672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199436711631015937/-pnb6swe.jpg" ],
+        "published" : [ "2010-09-25T22:02:28+00:00" ],
+        "uid" : [ "tag:twitter.com:MuseZack" ],
+        "url" : [ "https://twitter.com/MuseZack", "http://expositorymonologue.blogspot.com/", "http://imdb.com/name/nm0826714/", "http://electric-brain.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Real talk: Garak was such a great combination of character & actor that he almost transcended the show & even Star Trek itself. They basically put an ambiguously gay John le Carré  antihero into the middle of a space opera." ],
+    "published" : [ "2021-12-13T02:23:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1470217694087553024" ],
+    "url" : [ "https://twitter.com/MuseZack/status/1470217694087553024" ]
+  },
+  "type" : [ "h-entry" ]
+}
