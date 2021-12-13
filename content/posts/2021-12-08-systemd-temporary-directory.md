@@ -37,4 +37,6 @@ D	/home/jamie/workspaces/tmp	0700	jamie	jamie	1w	-
 
 Something I have noticed is that this gets cleared every time I boot - which is fine, because I'm happy treating it as a scratch space - but it's likely that I need to turn the `D` to a `d`.
 
+Update 2021-12-13: I've since changed it to a `d` and the files persist across reboots, and are deleted after a week of being present - awesome!
+
 Having a "scratch" space to work is really useful, and it's even better when it's truly ephemeral and you don't need to worry about cleaning it out, or that others may be able to see what you're doing, as is possible if using `/tmp` on a shared system.
