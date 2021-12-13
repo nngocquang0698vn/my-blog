@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MuseZack/status/1470217694087553024" ],
     "name" : [ "Like of @MuseZack's tweet" ],
     "published" : [ "2021-12-13T08:39:00+0000" ],
     "category" : [ "star-trek" ],
