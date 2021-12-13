@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Nadeau" ],
+        "nickname" : [ "TheAndrewNadeau" ],
+        "numeric-id" : [ "732678376306188289" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1234276076127444997/ZH66vp75.jpg" ],
+        "published" : [ "2016-05-17T21:05:12+00:00" ],
+        "uid" : [ "tag:twitter.com:TheAndrewNadeau" ],
+        "url" : [ "https://twitter.com/TheAndrewNadeau", "https://ko-fi.com/theandrewnadeau", "http://tinyurl.com/HWIWWPodcast" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There’s not a single line in “Santa claus is coming to town” that makes it sound like a good thing.\nIf it wasn’t for the jaunty tune I’d interpret it the same way as a warning the 4 horsemen of the apocalypse were arriving.</div>",
+      "value" : "There’s not a single line in “Santa claus is coming to town” that makes it sound like a good thing.\nIf it wasn’t for the jaunty tune I’d interpret it the same way as a warning the 4 horsemen of the apocalypse were arriving."
+    } ],
+    "published" : [ "2021-12-13T04:21:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1470247491216019458" ],
+    "url" : [ "https://twitter.com/TheAndrewNadeau/status/1470247491216019458" ]
+  },
+  "type" : [ "h-entry" ]
+}
