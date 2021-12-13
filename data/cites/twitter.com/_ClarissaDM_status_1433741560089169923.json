@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Clarissa Maycock" ],
+        "nickname" : [ "ClarissaDM" ],
+        "numeric-id" : [ "41562575" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457888122541387781/_6ugFruM.jpg" ],
+        "published" : [ "2009-05-21T10:23:41+00:00" ],
+        "uid" : [ "tag:twitter.com:ClarissaDM" ],
+        "url" : [ "https://twitter.com/ClarissaDM", "http://www.clarissamaycock.com/edfringe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Interviewer: Can you explain the gap in your CV? \nMe: I spent 6 hours formatting it in Google Docs and you've opened it in Word.</div>",
+      "value" : "Interviewer: Can you explain the gap in your CV? \nMe: I spent 6 hours formatting it in Google Docs and you've opened it in Word."
+    } ],
+    "published" : [ "2021-09-03T10:40:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1433741560089169923" ],
+    "url" : [ "https://twitter.com/ClarissaDM/status/1433741560089169923" ]
+  },
+  "type" : [ "h-entry" ]
+}
