@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukePlunkett/status/1470130863593586690" ],
     "name" : [ "Like of @LukePlunkett's tweet" ],
     "published" : [ "2021-12-13T08:41:00+0000" ],
     "category" : [ "social-media", "twitter" ],
