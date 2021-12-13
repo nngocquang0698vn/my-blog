@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dildog/status/1469786190144585729" ],
     "name" : [ "Like of @dildog's tweet" ],
     "published" : [ "2021-12-13T08:53:00+0000" ],
     "category" : [ "log4j" ],
