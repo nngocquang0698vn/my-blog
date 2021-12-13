@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pig’s Eye, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "April King 🌀" ],
+        "nickname" : [ "CubicleApril" ],
+        "numeric-id" : [ "88974227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1416073903596736520/fGJL09dZ.jpg" ],
+        "published" : [ "2009-11-10T17:19:57+00:00" ],
+        "uid" : [ "tag:twitter.com:CubicleApril" ],
+        "url" : [ "https://twitter.com/CubicleApril", "https://pokeinthe.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My team could spend an entire year reviewing the code from one “npm install”. I don’t think it’s really feasible to do code review across all OSS components. But funding? Absolutely.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bagder\"></a>",
+      "value" : "My team could spend an entire year reviewing the code from one “npm install”. I don’t think it’s really feasible to do code review across all OSS components. But funding? Absolutely."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bagder/status/1470409522229428225" ],
+    "published" : [ "2021-12-13T15:11:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1470411016056016900" ],
+    "url" : [ "https://twitter.com/CubicleApril/status/1470411016056016900" ]
+  },
+  "type" : [ "h-entry" ]
+}
