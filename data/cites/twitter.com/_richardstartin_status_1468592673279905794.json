@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oxford, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Richard Startin" ],
+        "nickname" : [ "richardstartin" ],
+        "numeric-id" : [ "2783896527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1446607943609298954/Cr_H9J1Q.jpg" ],
+        "published" : [ "2014-09-25T16:42:25+00:00" ],
+        "uid" : [ "tag:twitter.com:richardstartin" ],
+        "url" : [ "https://twitter.com/richardstartin", "https://richardstartin.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s very hard to add tests to code which hasn’t been written to aid testing" ],
+    "published" : [ "2021-12-08T14:45:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1468592673279905794" ],
+    "url" : [ "https://twitter.com/richardstartin/status/1468592673279905794" ]
+  },
+  "type" : [ "h-entry" ]
+}
