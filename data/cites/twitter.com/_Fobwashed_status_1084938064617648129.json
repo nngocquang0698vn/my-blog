@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Kim" ],
+        "nickname" : [ "Fobwashed" ],
+        "numeric-id" : [ "108446116" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1428751046407376897/ot5GOYO6.jpg" ],
+        "published" : [ "2010-01-25T23:50:56+00:00" ],
+        "uid" : [ "tag:twitter.com:Fobwashed" ],
+        "url" : [ "https://twitter.com/Fobwashed", "http://www.sbstevekim.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "TFW u open twitter and a bunch of ppl are vaguely tweeting about the same shit" ],
+    "published" : [ "2019-01-14T22:19:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1084938064617648129" ],
+    "url" : [ "https://twitter.com/Fobwashed/status/1084938064617648129" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1084937396762759168/pu/vid/1280x720/nP1SeUhWpMZZFb4d.mp4?tag=6" ]
+  },
+  "type" : [ "h-entry" ]
+}
