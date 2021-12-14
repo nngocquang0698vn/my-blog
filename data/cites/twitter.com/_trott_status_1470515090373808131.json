@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Trott" ],
+        "nickname" : [ "trott" ],
+        "numeric-id" : [ "8984012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/460204257438748672/NE56U27B.jpeg" ],
+        "published" : [ "2007-09-19T22:36:43+00:00" ],
+        "uid" : [ "tag:twitter.com:trott" ],
+        "url" : [ "https://twitter.com/trott", "https://trott.github.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Something I really love about being involved in <a href=\"https://twitter.com/nodejs\">@nodejs</a> is that I get to have a leadership role in a fairly large organization without having a single person \"reporting\" to me.",
+      "value" : "Something I really love about being involved in @nodejs is that I get to have a leadership role in a fairly large organization without having a single person \"reporting\" to me."
+    } ],
+    "published" : [ "2021-12-13T22:04:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1470515090373808131" ],
+    "url" : [ "https://twitter.com/trott/status/1470515090373808131" ]
+  },
+  "type" : [ "h-entry" ]
+}
