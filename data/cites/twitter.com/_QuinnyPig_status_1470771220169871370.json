@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bristol" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jonny Platt" ],
+          "nickname" : [ "jonnyplatt" ],
+          "numeric-id" : [ "41329277" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1013679064434008064/H-0aBa6f.jpg" ],
+          "published" : [ "2009-05-20T09:53:56+00:00" ],
+          "uid" : [ "tag:twitter.com:jonnyplatt" ],
+          "url" : [ "https://twitter.com/jonnyplatt", "https://seoscout.com", "http://seoscout.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">🎄 Excited to announce I just received my Christmas present from <a href=\"https://twitter.com/awscloud\">@awscloud</a>!\n\n😱 Horrified to see it's $45,000 in charges due to some scammer hacking my account + mining Crypto for the last few weeks\n\n⏰ Had no sleep last night. It's now 23 hrs since my support ticket &amp; no reply.</div>",
+        "value" : "🎄 Excited to announce I just received my Christmas present from @awscloud!\n\n😱 Horrified to see it's $45,000 in charges due to some scammer hacking my account + mining Crypto for the last few weeks\n\n⏰ Had no sleep last night. It's now 23 hrs since my support ticket & no reply."
+      } ],
+      "published" : [ "2021-12-14T11:18:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1470714901412954112" ],
+      "url" : [ "https://twitter.com/jonnyplatt/status/1470714901412954112" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You’re going to kill someone with this kind of thing, <a href=\"https://twitter.com/awscloud\">@awscloud</a>. I’m not being hyperbolic in the least.",
+      "value" : "You’re going to kill someone with this kind of thing, @awscloud. I’m not being hyperbolic in the least."
+    } ],
+    "published" : [ "2021-12-14T15:02:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1470771220169871370" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1470771220169871370" ]
+  },
+  "type" : [ "h-entry" ]
+}
