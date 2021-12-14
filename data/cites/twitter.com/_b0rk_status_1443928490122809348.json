@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🔎Julia Evans🔍" ],
+        "nickname" : [ "b0rk" ],
+        "numeric-id" : [ "6603532" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr.jpg" ],
+        "published" : [ "2007-06-05T21:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:b0rk" ],
+        "url" : [ "https://twitter.com/b0rk", "http://jvns.ca", "http://wizardzines.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">the most important HTTP request headers\n<a href=\"https://wizardzines.com/comics/request-headers/\">wizardzines.com/comics/request…</a></div>",
+      "value" : "the most important HTTP request headers\nwizardzines.com/comics/request…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FAndJODWQAUwzSm.jpg" ],
+    "published" : [ "2021-10-01T13:19:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1443928490122809348" ],
+    "url" : [ "https://twitter.com/b0rk/status/1443928490122809348" ]
+  },
+  "type" : [ "h-entry" ]
+}
