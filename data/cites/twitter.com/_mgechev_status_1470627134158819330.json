@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Minko Gechev" ],
+        "nickname" : [ "mgechev" ],
+        "numeric-id" : [ "178817640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1464689604980719622/uimvQ3nr.jpg" ],
+        "published" : [ "2010-08-15T19:42:23+00:00" ],
+        "uid" : [ "tag:twitter.com:mgechev" ],
+        "url" : [ "https://twitter.com/mgechev", "https://github.com/mgechev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Pro tip: if you don't need the history of a git repository make sure you specify `--depth 1` to significantly speed up the download \n\n🪄 Super useful in CIs</div>",
+      "value" : "Pro tip: if you don't need the history of a git repository make sure you specify `--depth 1` to significantly speed up the download \n\n🪄 Super useful in CIs"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FGi3lMKXMAERorJ.jpg" ],
+    "published" : [ "2021-12-14T05:30:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1470627134158819330" ],
+    "url" : [ "https://twitter.com/mgechev/status/1470627134158819330" ]
+  },
+  "type" : [ "h-entry" ]
+}
