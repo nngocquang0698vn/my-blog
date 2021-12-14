@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed George 🍝" ],
+        "nickname" : [ "Sp4ghettiCode" ],
+        "numeric-id" : [ "991238672812052480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457716158958903296/V8hGmTmF.jpg" ],
+        "published" : [ "2018-05-01T08:51:30+00:00" ],
+        "uid" : [ "tag:twitter.com:Sp4ghettiCode" ],
+        "url" : [ "https://twitter.com/Sp4ghettiCode", "http://ed-george.github.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I really hope the recent Log4J exploit shakes up tech companies enough to make them actively support the OSS projects they use\n\nI can dream right</div>",
+      "value" : "I really hope the recent Log4J exploit shakes up tech companies enough to make them actively support the OSS projects they use\n\nI can dream right"
+    } ],
+    "published" : [ "2021-12-14T11:38:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1470719812888313863" ],
+    "url" : [ "https://twitter.com/Sp4ghettiCode/status/1470719812888313863" ]
+  },
+  "type" : [ "h-entry" ]
+}
