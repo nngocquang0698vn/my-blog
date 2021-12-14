@@ -1,0 +1,80 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/jonnyplatt/sta…" ],
+        "url" : [ "https://twitter.com/jonnyplatt/status/1470714901412954112" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corey Quinn" ],
+          "nickname" : [ "QuinnyPig" ],
+          "numeric-id" : [ "97114171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+          "published" : [ "2009-12-16T02:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:QuinnyPig" ],
+          "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You’re going to kill someone with this kind of thing, <a href=\"https://twitter.com/awscloud\">@awscloud</a>. I’m not being hyperbolic in the least.\n<a class=\"tag\" href=\"https://twitter.com/jonnyplatt/status/1470714901412954112\">twitter.com/jonnyplatt/sta…</a>",
+        "value" : "You’re going to kill someone with this kind of thing, @awscloud. I’m not being hyperbolic in the least."
+      } ],
+      "published" : [ "2021-12-14T15:02:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1470771220169871370" ],
+      "url" : [ "https://twitter.com/QuinnyPig/status/1470771220169871370" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/quinnypig/stat…" ],
+      "url" : [ "https://twitter.com/quinnypig/status/1470771220169871370" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Banks stands 5 feet, 8 inches" ],
+        "nickname" : [ "elchefe" ],
+        "numeric-id" : [ "22486576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1385352492125351939/CCl8hqFc.jpg" ],
+        "published" : [ "2009-03-02T14:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:elchefe" ],
+        "url" : [ "https://twitter.com/elchefe", "https://venmo.com/code?user_id=1781409760935936183" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The ability to set up a spending maximum or subscription-based service would be so fucking trivial for a company of this size, and yet we still get these stories over and over again.\n<a class=\"tag\" href=\"https://twitter.com/quinnypig/status/1470771220169871370\">twitter.com/quinnypig/stat…</a>",
+      "value" : "The ability to set up a spending maximum or subscription-based service would be so fucking trivial for a company of this size, and yet we still get these stories over and over again."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Round Rock, TX" ],
+        "uid" : [ "tag:twitter.com:00c44eeb126d2fcd" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2021-12-14T15:37:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1470779893587787782" ],
+    "url" : [ "https://twitter.com/elchefe/status/1470779893587787782" ]
+  },
+  "type" : [ "h-entry" ]
+}
