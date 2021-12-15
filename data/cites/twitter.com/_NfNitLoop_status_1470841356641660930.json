@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/ZoeSchiffer/st…" ],
+        "url" : [ "https://twitter.com/ZoeSchiffer/status/1469792340365639683" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Cher Scarlett" ],
+          "nickname" : [ "cherthedev" ],
+          "numeric-id" : [ "15790639" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1469060036223660032/IdLRDiGE.jpg" ],
+          "published" : [ "2008-08-09T17:27:02+00:00" ],
+          "uid" : [ "tag:twitter.com:cherthedev" ],
+          "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">PSA:\n\nDo not use EAP therapy resources.\n\nThis is some of the legislation we are working on in Washington... hopefully federally.\n\n<a href=\"https://twitter.com/chelseyglasson\">@chelseyglasson</a> brought it to light that Google is using her EAP therapy notes against her... and the fact that they had access at all is alarming.</div>\n<a class=\"tag\" href=\"https://twitter.com/ZoeSchiffer/status/1469792340365639683\">twitter.com/ZoeSchiffer/st…</a>",
+        "value" : "PSA:\n\nDo not use EAP therapy resources.\n\nThis is some of the legislation we are working on in Washington... hopefully federally.\n\n@chelseyglasson brought it to light that Google is using her EAP therapy notes against her... and the fact that they had access at all is alarming."
+      } ],
+      "published" : [ "2021-12-14T16:51:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1470798526795812868" ],
+      "url" : [ "https://twitter.com/cherthedev/status/1470798526795812868" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cody C. #BLM" ],
+        "nickname" : [ "NfNitLoop" ],
+        "numeric-id" : [ "17857587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/912299004502953985/nRh3iHMr.jpg" ],
+        "published" : [ "2008-12-04T02:46:05+00:00" ],
+        "uid" : [ "tag:twitter.com:NfNitLoop" ],
+        "url" : [ "https://twitter.com/NfNitLoop" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Yikes. TL;DR: Employee talks to HR about discrimination. Google suggests (on-campus) counseling. Google has access to notes from those sessions (!!) and used them against her in court (!!!).\n\nSo much for that employer-provided \"perk\".\n\nStory here: <a href=\"https://www.nytimes.com/2021/07/28/us/google-workplace-complaints-counseling.html\">nytimes.com/2021/07/28/us/…</a></div>",
+      "value" : "Yikes. TL;DR: Employee talks to HR about discrimination. Google suggests (on-campus) counseling. Google has access to notes from those sessions (!!) and used them against her in court (!!!).\n\nSo much for that employer-provided \"perk\".\n\nStory here: nytimes.com/2021/07/28/us/…"
+    } ],
+    "published" : [ "2021-12-14T19:41:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1470841356641660930" ],
+    "url" : [ "https://twitter.com/NfNitLoop/status/1470841356641660930" ]
+  },
+  "type" : [ "h-entry" ]
+}
