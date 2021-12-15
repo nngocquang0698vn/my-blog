@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Wells" ],
+        "nickname" : [ "DavidWells" ],
+        "numeric-id" : [ "13638932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275237909763768321/BDIPmrEP.jpg" ],
+        "published" : [ "2008-02-18T19:59:35+00:00" ],
+        "uid" : [ "tag:twitter.com:DavidWells" ],
+        "url" : [ "https://twitter.com/DavidWells", "https://davidwells.io", "http://cognitobook.com", "http://getanalytics.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">oooo snap <a href=\"http://hackmd.io\">hackmd.io</a> looks like the ticket!\n\nThanks ❤️</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/boyney123\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lifesaverluke\"></a>",
+      "value" : "oooo snap hackmd.io looks like the ticket!\n\nThanks ❤️"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/boyney123/status/1471196823897485315" ],
+    "published" : [ "2021-12-15T19:22:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1471198922555027456" ],
+    "url" : [ "https://twitter.com/DavidWells/status/1471198922555027456" ]
+  },
+  "type" : [ "h-entry" ]
+}
