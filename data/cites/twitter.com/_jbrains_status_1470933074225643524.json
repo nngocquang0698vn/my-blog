@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Summerside, PEI, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "☕ J. B. Rainsberger" ],
+        "nickname" : [ "jbrains" ],
+        "numeric-id" : [ "14554494" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1097981531275096069/VxGsVDoq.jpg" ],
+        "published" : [ "2008-04-27T02:43:50+00:00" ],
+        "uid" : [ "tag:twitter.com:jbrains" ],
+        "url" : [ "https://twitter.com/jbrains", "http://tdd.training" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have CSV. I want to import this into an SQL database. I'm essentially on Ubuntu. I've been trying for 2 hours and I haven't got it working yet. Silly roadblocks at every turn.\n\nI'm open to suggestion.</div>",
+      "value" : "I have CSV. I want to import this into an SQL database. I'm essentially on Ubuntu. I've been trying for 2 hours and I haven't got it working yet. Silly roadblocks at every turn.\n\nI'm open to suggestion."
+    } ],
+    "published" : [ "2021-12-15T01:45:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1470933074225643524" ],
+    "url" : [ "https://twitter.com/jbrains/status/1470933074225643524" ]
+  },
+  "type" : [ "h-entry" ]
+}
