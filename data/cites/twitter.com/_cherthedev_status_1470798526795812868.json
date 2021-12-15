@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Zoë Schiffer" ],
+          "nickname" : [ "ZoeSchiffer" ],
+          "numeric-id" : [ "808464904575299584" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1339414834350182401/Cbwg03OA.jpg" ],
+          "published" : [ "2016-12-13T00:13:48+00:00" ],
+          "uid" : [ "tag:twitter.com:ZoeSchiffer" ],
+          "url" : [ "https://twitter.com/ZoeSchiffer" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Apple VP Deirdre O'Brien sent a video to retail staff acknowledging that this has been a uniquely challenging time but that store NPS is the highest it’s been. She also said the company has a “wide range of mental health resources” on the People Site. She announced…1/" ],
+      "published" : [ "2021-12-11T22:12:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1469792340365639683" ],
+      "url" : [ "https://twitter.com/ZoeSchiffer/status/1469792340365639683" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469060036223660032/IdLRDiGE.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">PSA:\n\nDo not use EAP therapy resources.\n\nThis is some of the legislation we are working on in Washington... hopefully federally.\n\n<a href=\"https://twitter.com/chelseyglasson\">@chelseyglasson</a> brought it to light that Google is using her EAP therapy notes against her... and the fact that they had access at all is alarming.</div>",
+      "value" : "PSA:\n\nDo not use EAP therapy resources.\n\nThis is some of the legislation we are working on in Washington... hopefully federally.\n\n@chelseyglasson brought it to light that Google is using her EAP therapy notes against her... and the fact that they had access at all is alarming."
+    } ],
+    "published" : [ "2021-12-14T16:51:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1470798526795812868" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1470798526795812868" ]
+  },
+  "type" : [ "h-entry" ]
+}
