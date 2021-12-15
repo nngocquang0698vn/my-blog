@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "/dev/null" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tinker" ],
+        "nickname" : [ "TinkerSec" ],
+        "numeric-id" : [ "765305590746722304" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1464363321986064395/BXFRTKiP.jpg" ],
+        "published" : [ "2016-08-15T21:54:06+00:00" ],
+        "uid" : [ "tag:twitter.com:TinkerSec" ],
+        "url" : [ "https://twitter.com/TinkerSec" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I don't care if <a href=\"https://twitter.com/search?q=%23Log4J\">#Log4J</a> is supposed to be pronounced as Log-Forge...\n\n...I'm still gonna pronounce it as Log-Four-Jay.\n\nSame way that Nginx is not Engine-Ex, it's En-Ginx (G pronounced like the G in gif).</div>",
+      "value" : "I don't care if #Log4J is supposed to be pronounced as Log-Forge...\n\n...I'm still gonna pronounce it as Log-Four-Jay.\n\nSame way that Nginx is not Engine-Ex, it's En-Ginx (G pronounced like the G in gif)."
+    } ],
+    "published" : [ "2021-12-14T14:18:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1470760062159360008" ],
+    "url" : [ "https://twitter.com/TinkerSec/status/1470760062159360008" ]
+  },
+  "type" : [ "h-entry" ]
+}
