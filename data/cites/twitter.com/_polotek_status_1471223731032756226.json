@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I don't want to embarrass folks like <a href=\"https://twitter.com/cassidoo\">@cassidoo</a> and <a href=\"https://twitter.com/techgirl1908\">@techgirl1908</a>. But I'm having a moment where I can see how much has changed about who gets recognition and admiration in the dev community. We are choosing better leaders, and it shows the growth we've been pushing for.",
+      "value" : "I don't want to embarrass folks like @cassidoo and @techgirl1908. But I'm having a moment where I can see how much has changed about who gets recognition and admiration in the dev community. We are choosing better leaders, and it shows the growth we've been pushing for."
+    } ],
+    "published" : [ "2021-12-15T21:00:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1471223731032756226" ],
+    "url" : [ "https://twitter.com/polotek/status/1471223731032756226" ]
+  },
+  "type" : [ "h-entry" ]
+}
