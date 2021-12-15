@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Selena" ],
+        "nickname" : [ "selenalarson" ],
+        "numeric-id" : [ "90992943" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1383503079350231044/IubUHOep.jpg" ],
+        "published" : [ "2009-11-19T00:09:35+00:00" ],
+        "uid" : [ "tag:twitter.com:selenalarson" ],
+        "url" : [ "https://twitter.com/selenalarson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "seems like the entire internet is built on either small open source projects run by a couple folkx for free, and the gigantic cloud infrastructure run by a couple of companies. when either one is borked, the world goes poof" ],
+    "published" : [ "2021-12-15T16:14:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1471151751730393089" ],
+    "url" : [ "https://twitter.com/selenalarson/status/1471151751730393089" ]
+  },
+  "type" : [ "h-entry" ]
+}
