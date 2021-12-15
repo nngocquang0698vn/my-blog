@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412996520769560579/Iaa1gcoL.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://nivenly.com/", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Very excited to announce that starting immediately I am starting an exciting new role! From now on my new role on Twitter will be telling each and every one of you how hot you are.\n\nHey you — you’re hot. 🔥</div>",
+      "value" : "Very excited to announce that starting immediately I am starting an exciting new role! From now on my new role on Twitter will be telling each and every one of you how hot you are.\n\nHey you — you’re hot. 🔥"
+    } ],
+    "published" : [ "2021-12-15T01:23:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1470927406408114179" ],
+    "url" : [ "https://twitter.com/krisnova/status/1470927406408114179" ]
+  },
+  "type" : [ "h-entry" ]
+}
