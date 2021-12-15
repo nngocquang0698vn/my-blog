@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Frisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Pete Hunt 🚁" ],
+          "nickname" : [ "floydophone" ],
+          "numeric-id" : [ "14521411" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1234692537756962816/hGQiNYML.jpg" ],
+          "published" : [ "2008-04-25T02:39:55+00:00" ],
+          "uid" : [ "tag:twitter.com:floydophone" ],
+          "url" : [ "https://twitter.com/floydophone" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "If you're surprised about the log4j vulnerability, just wait until you hear what happens when you put a <a href=\"http://java.net\">java.net</a>.URL into a hashtable",
+        "value" : "If you're surprised about the log4j vulnerability, just wait until you hear what happens when you put a java.net.URL into a hashtable"
+      } ],
+      "published" : [ "2021-12-11T21:05:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1469775366562541571" ],
+      "url" : [ "https://twitter.com/floydophone/status/1469775366562541571" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicholas Weaver" ],
+        "nickname" : [ "ncweaver" ],
+        "numeric-id" : [ "2427244933" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400475935372054530/1PnnDGYw.jpg" ],
+        "published" : [ "2014-04-04T12:55:32+00:00" ],
+        "uid" : [ "tag:twitter.com:ncweaver" ],
+        "url" : [ "https://twitter.com/ncweaver", "http://www.icsi.berkeley.edu/~nweaver" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I was today years old that I learned when you hash a URL in Java it does a DNS lookup to get the IP address associated with the hostname as part of the hash function." ],
+    "published" : [ "2021-12-13T17:58:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1470453024870912000" ],
+    "url" : [ "https://twitter.com/ncweaver/status/1470453024870912000" ]
+  },
+  "type" : [ "h-entry" ]
+}
