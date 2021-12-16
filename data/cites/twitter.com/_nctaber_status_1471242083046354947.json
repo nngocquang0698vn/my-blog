@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nate Taber" ],
+        "nickname" : [ "nctaber" ],
+        "numeric-id" : [ "101893152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846504127358107648/DmN5F5Tw.jpg" ],
+        "published" : [ "2010-01-04T23:31:08+00:00" ],
+        "uid" : [ "tag:twitter.com:nctaber" ],
+        "url" : [ "https://twitter.com/nctaber" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "AWS has published a DaemonSet to help mitigate the impact of <a href=\"https://twitter.com/search?q=%23Log4j2\">#Log4j2</a> CVE-2021-44228 on <a href=\"https://twitter.com/search?q=%23Kubernetes\">#Kubernetes</a>  clusters until Java applications can be patched. See more <a href=\"https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent\">github.com/aws-samples/ku…</a>",
+      "value" : "AWS has published a DaemonSet to help mitigate the impact of #Log4j2 CVE-2021-44228 on #Kubernetes  clusters until Java applications can be patched. See more github.com/aws-samples/ku…"
+    } ],
+    "published" : [ "2021-12-15T22:13:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1471242083046354947" ],
+    "url" : [ "https://twitter.com/nctaber/status/1471242083046354947" ]
+  },
+  "type" : [ "h-entry" ]
+}
