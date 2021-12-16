@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Billy Quilty" ],
+          "nickname" : [ "BQuilty" ],
+          "numeric-id" : [ "41132296" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1456591894310498311/Y44qNlfc.jpg" ],
+          "published" : [ "2009-05-19T15:03:34+00:00" ],
+          "uid" : [ "tag:twitter.com:BQuilty" ],
+          "url" : [ "https://twitter.com/BQuilty", "https://www.lshtm.ac.uk/aboutus/people/quilty.billy" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A demo of how fast you can turn positive:\n\nYesterday morning, yesterday lunchtime, yesterday evening, this morning.\n\nDo LFTs *just* before meeting up.</div>",
+        "value" : "A demo of how fast you can turn positive:\n\nYesterday morning, yesterday lunchtime, yesterday evening, this morning.\n\nDo LFTs *just* before meeting up."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FGtv6w4X0AIPOLb.jpg" ],
+      "published" : [ "2021-12-16T08:12:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1471392764004913152" ],
+      "url" : [ "https://twitter.com/BQuilty/status/1471392764004913152" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - containing his snark" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371166559855579150/H9FKP42z.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">4 tests within 24 hours.\n\nPerson thinks:\n\nNegative negative negative positive\n\nActual:\n\nNegative negative *positive* positive\n\n*** Faint lines are lines people ***</div>",
+      "value" : "4 tests within 24 hours.\n\nPerson thinks:\n\nNegative negative negative positive\n\nActual:\n\nNegative negative *positive* positive\n\n*** Faint lines are lines people ***"
+    } ],
+    "published" : [ "2021-12-16T21:45:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1471597339274010626" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1471597339274010626" ]
+  },
+  "type" : [ "h-entry" ]
+}
