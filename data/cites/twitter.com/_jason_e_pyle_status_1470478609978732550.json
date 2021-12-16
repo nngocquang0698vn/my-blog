@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Holly Springs, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Pyle" ],
+        "nickname" : [ "jason_e_pyle" ],
+        "numeric-id" : [ "29255137" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1086681788389511170/kI_SHm4L.jpg" ],
+        "published" : [ "2009-04-06T18:04:29+00:00" ],
+        "uid" : [ "tag:twitter.com:jason_e_pyle" ],
+        "url" : [ "https://twitter.com/jason_e_pyle", "https://www.anthology.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "100% the vulnerability and exploit are bad and mitigation should be done ASAP.  However, that doesn't mean log4j is a bad library to use (which is how I read it and the point I was trying to make is log4j isn't bad, just the vulnerability).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ineedmorecyber\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/trisha_m_clay\"></a>",
+      "value" : "100% the vulnerability and exploit are bad and mitigation should be done ASAP.  However, that doesn't mean log4j is a bad library to use (which is how I read it and the point I was trying to make is log4j isn't bad, just the vulnerability)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/trisha_m_clay/status/1470462300498939907" ],
+    "published" : [ "2021-12-13T19:39:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1470478609978732550" ],
+    "url" : [ "https://twitter.com/jason_e_pyle/status/1470478609978732550" ]
+  },
+  "type" : [ "h-entry" ]
+}
