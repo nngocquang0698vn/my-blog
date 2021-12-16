@@ -18,7 +18,7 @@ Fortunately lots of folks are documenting their APIs, either through separate AP
 
 Since OpenAPI 3.1, you can now link out to JSON Schema definitions for describing the format of the request/response entities. JSON Schema is a great standard for providing a machine-parseable, but more-technical-human-readable, definition of how your data interchange format needs to work, and it's great to have it as a first-class citizen.
 
-As well as just generally having something documented for your API's models, the schema being machine-parseable means that there are some great tools around it to make sure that the schemas work correctly. There's also [quicktype.io](https://quicktype.io/) which provides a hosted version of [an NPM package](https://github.com/quicktype/quicktype) that supports multiple languages, and is very neat, as well as [a number of others listed on the official JSON Schema website](http://json-schema.org/implementations.html#code-generation).
+As well as just generally having something documented for your API's models, the schema being machine-parseable means that there are some great tools around it to make sure that the schemas work correctly. In the Java world, we have a [couple of good options that I've written about before](/posts/2021/11/29/gradle-json-schema/). There's also [quicktype.io](https://quicktype.io/) which provides a hosted version of [an NPM package](https://github.com/quicktype/quicktype) that supports multiple languages, and is very neat, as well as [a number of others listed on the official JSON Schema website](http://json-schema.org/implementations.html#code-generation).
 
 I'd _very_ strongly recommend getting started with this as soon as possible.
 
