@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada / UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Ellis" ],
+        "nickname" : [ "JackEllis" ],
+        "numeric-id" : [ "14964243" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989296839194173440/ZRsVtbV5.jpg" ],
+        "published" : [ "2008-05-31T16:19:32+00:00" ],
+        "uid" : [ "tag:twitter.com:JackEllis" ],
+        "url" : [ "https://twitter.com/JackEllis", "http://jackellis.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There are no slow developers, only codebases without tests." ],
+    "published" : [ "2021-12-16T14:00:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1471480229927563266" ],
+    "url" : [ "https://twitter.com/JackEllis/status/1471480229927563266" ]
+  },
+  "type" : [ "h-entry" ]
+}
