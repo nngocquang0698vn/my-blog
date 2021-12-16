@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mae Capozzi" ],
+        "nickname" : [ "MCapoz" ],
+        "numeric-id" : [ "67340534" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1177415184220114944/dfwxFMBp.jpg" ],
+        "published" : [ "2009-08-20T15:20:38+00:00" ],
+        "uid" : [ "tag:twitter.com:MCapoz" ],
+        "url" : [ "https://twitter.com/MCapoz", "http://maecapozzi.com/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Always always review your own PR before sending it to your team to review. \n\nI always think I'm done. Then I pretend to be someone else and review it, and I end up fixing 20 issues.</div>",
+      "value" : "Always always review your own PR before sending it to your team to review. \n\nI always think I'm done. Then I pretend to be someone else and review it, and I end up fixing 20 issues."
+    } ],
+    "published" : [ "2021-12-15T21:34:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1471232282669338625" ],
+    "url" : [ "https://twitter.com/MCapoz/status/1471232282669338625" ]
+  },
+  "type" : [ "h-entry" ]
+}
