@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Erf" ],
+        "nickname" : [ "KyleErf" ],
+        "numeric-id" : [ "167277005" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137389369994731522/WhGm-qQF.png" ],
+        "published" : [ "2010-07-16T04:58:08+00:00" ],
+        "uid" : [ "tag:twitter.com:KyleErf" ],
+        "url" : [ "https://twitter.com/KyleErf", "http://kyleerf.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "my first experience with corporate america" ],
+    "photo" : [ "https://pbs.twimg.com/media/FGrLqVgWYAwPmg5.jpg" ],
+    "published" : [ "2021-12-15T20:14:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1471212168712491008" ],
+    "url" : [ "https://twitter.com/KyleErf/status/1471212168712491008" ]
+  },
+  "type" : [ "h-entry" ]
+}
