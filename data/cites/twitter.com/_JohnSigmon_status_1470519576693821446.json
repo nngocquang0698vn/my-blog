@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC/SLC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Sigmon (in nyc)" ],
+        "nickname" : [ "JohnSigmon" ],
+        "numeric-id" : [ "543034951" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1219861474199273472/yio2vLyb.jpg" ],
+        "published" : [ "2012-04-02T02:22:15+00:00" ],
+        "uid" : [ "tag:twitter.com:JohnSigmon" ],
+        "url" : [ "https://twitter.com/JohnSigmon", "http://johnsigmon.me", "http://instagram.com/jhnsigmon/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "some of you have never struggled financially and it shows" ],
+    "published" : [ "2021-12-13T22:22:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1470519576693821446" ],
+    "url" : [ "https://twitter.com/JohnSigmon/status/1470519576693821446" ]
+  },
+  "type" : [ "h-entry" ]
+}
