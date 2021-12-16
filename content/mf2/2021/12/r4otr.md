@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KyleErf/status/1471212168712491008" ],
     "name" : [ "Like of @KyleErf's tweet" ],
     "published" : [ "2021-12-16T18:00:00+0000" ],
     "category" : [ "gaming" ],
