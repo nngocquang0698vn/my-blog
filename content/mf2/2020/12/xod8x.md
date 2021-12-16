@@ -1,8 +1,10 @@
 {
   "date" : "2020-12-16T20:25:00+0000",
   "deleted" : false,
+  "draft" : false,
   "h" : "h-entry",
   "properties" : {
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1339307003659882497" ],
     "published" : [ "2020-12-16T20:25:00+0000" ],
     "category" : [ "2020", "coronavirus", "appendix" ],
     "content" : [ {
