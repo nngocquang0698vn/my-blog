@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BQuilty/status/1471392764004913152" ],
     "name" : [ "Like of @BQuilty's tweet" ],
     "published" : [ "2021-12-16T22:12:00+0000" ],
     "category" : [ "coronavirus" ],
