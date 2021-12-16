@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mysteryspoons/status/1471184017017880580" ],
     "name" : [ "Like of @mysteryspoons's tweet" ],
     "published" : [ "2021-12-16T16:48:00+0000" ],
     "category" : [ "communication" ],
