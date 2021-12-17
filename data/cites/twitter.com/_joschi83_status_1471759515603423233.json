@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Interweb" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "(╯°□°）╯︵ ┻━┻" ],
+        "nickname" : [ "joschi83" ],
+        "numeric-id" : [ "15306127" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294914297/yoshi.png" ],
+        "published" : [ "2008-07-03T07:58:03+00:00" ],
+        "uid" : [ "tag:twitter.com:joschi83" ],
+        "url" : [ "https://twitter.com/joschi83", "https://mastodon.social/@joschi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">String interpolation in log messages has been removed in Log4j 2.16.0, so one would have to use this pattern explicitly in the Log4j configuration file.\nIn other words, an attacker would need to be able to overwrite the Log4j configuration to exploit this.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BlueSpaceCanary\"></a>",
+      "value" : "String interpolation in log messages has been removed in Log4j 2.16.0, so one would have to use this pattern explicitly in the Log4j configuration file.\nIn other words, an attacker would need to be able to overwrite the Log4j configuration to exploit this."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BlueSpaceCanary/status/1471695226188099589" ],
+    "published" : [ "2021-12-17T08:29:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1471759515603423233" ],
+    "url" : [ "https://twitter.com/joschi83/status/1471759515603423233" ]
+  },
+  "type" : [ "h-entry" ]
+}
