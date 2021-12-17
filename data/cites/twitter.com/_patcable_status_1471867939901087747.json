@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Somerville, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick Cable" ],
+        "nickname" : [ "patcable" ],
+        "numeric-id" : [ "14403366" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/866858554178842624/KO3koHvJ.jpg" ],
+        "published" : [ "2008-04-16T01:42:35+00:00" ],
+        "uid" : [ "tag:twitter.com:patcable" ],
+        "url" : [ "https://twitter.com/patcable", "http://www.pcable.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the log4j “december to remember” event this year features 0% financing on tech debt 😮" ],
+    "published" : [ "2021-12-17T15:40:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1471867939901087747" ],
+    "url" : [ "https://twitter.com/patcable/status/1471867939901087747" ]
+  },
+  "type" : [ "h-entry" ]
+}
