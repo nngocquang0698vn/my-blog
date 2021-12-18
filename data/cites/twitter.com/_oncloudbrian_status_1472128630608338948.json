@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Wellington City, New Zealand" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kate Pearce 💉💉" ],
+          "nickname" : [ "secvalve" ],
+          "numeric-id" : [ "155858106" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/771473113267732480/8M-mQVB2.jpg" ],
+          "published" : [ "2010-06-15T10:10:20+00:00" ],
+          "uid" : [ "tag:twitter.com:secvalve" ],
+          "url" : [ "https://twitter.com/secvalve", "http://www.secvalve.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Log4j 2.17 out\n\n<a href=\"https://downloads.apache.org/logging/log4j/2.17.0/\">downloads.apache.org/logging/log4j/…</a>\n\n2.17 Release notes (not on main site yet): <a href=\"https://github.com/apache/logging-log4j2/blob/6b1581901ba7a107cdc4a2208ecec03655722b44/RELEASE-NOTES.md\">github.com/apache/logging…</a></div>",
+        "value" : "Log4j 2.17 out\n\ndownloads.apache.org/logging/log4j/…\n\n2.17 Release notes (not on main site yet): github.com/apache/logging…"
+      } ],
+      "published" : [ "2021-12-18T06:04:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1472085410348093441" ],
+      "url" : [ "https://twitter.com/secvalve/status/1472085410348093441" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "On Cloud Brian" ],
+        "nickname" : [ "oncloudbrian" ],
+        "numeric-id" : [ "171028611" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/442369166398337024/9adaQYES.jpeg" ],
+        "published" : [ "2010-07-26T11:23:02+00:00" ],
+        "uid" : [ "tag:twitter.com:oncloudbrian" ],
+        "url" : [ "https://twitter.com/oncloudbrian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/secvalve/status/1472085410348093441?s=21\">twitter.com/secvalve/statu…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "twitter.com/secvalve/statu…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1472126935044079618" ],
+    "published" : [ "2021-12-18T08:56:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1472128630608338948" ],
+    "url" : [ "https://twitter.com/oncloudbrian/status/1472128630608338948" ]
+  },
+  "type" : [ "h-entry" ]
+}
