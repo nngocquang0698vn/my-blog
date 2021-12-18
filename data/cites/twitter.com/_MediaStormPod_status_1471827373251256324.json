@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Media Storm" ],
+        "nickname" : [ "MediaStormPod" ],
+        "numeric-id" : [ "1422534556108959745" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469495411098460166/dcQQEnmr.jpg" ],
+        "published" : [ "2021-08-03T12:27:51+00:00" ],
+        "uid" : [ "tag:twitter.com:MediaStormPod" ],
+        "url" : [ "https://twitter.com/MediaStormPod", "http://mediastormpodcast.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have you heard episode 4 of Media Storm yet? <a href=\"https://twitter.com/ShivaniDave\">@ShivaniDave</a> joins us in the studio👇👇👇",
+      "value" : "Have you heard episode 4 of Media Storm yet? @ShivaniDave joins us in the studio👇👇👇"
+    } ],
+    "published" : [ "2021-12-17T12:59:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1471827373251256324" ],
+    "url" : [ "https://twitter.com/MediaStormPod/status/1471827373251256324" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1471827305840492544/pu/vid/720x720/ErueBudpVKnLDYgd.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
