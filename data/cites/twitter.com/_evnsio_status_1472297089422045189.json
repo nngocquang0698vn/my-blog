@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hertfordshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Evans" ],
+        "nickname" : [ "evnsio" ],
+        "numeric-id" : [ "20139298" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334252782124232704/B-UT-hSe.jpg" ],
+        "published" : [ "2009-02-05T11:23:40+00:00" ],
+        "uid" : [ "tag:twitter.com:evnsio" ],
+        "url" : [ "https://twitter.com/evnsio", "https://evns.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "When it's not CORS it's CSPs. And when CSPs arent the problem it's DNS.  Root cause: acronyms.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>",
+      "value" : "When it's not CORS it's CSPs. And when CSPs arent the problem it's DNS.  Root cause: acronyms."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1472273586060734465" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Baldock, England" ],
+        "uid" : [ "tag:twitter.com:10e71eb371d49619" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2021-12-18T20:05:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1472297089422045189" ],
+    "url" : [ "https://twitter.com/evnsio/status/1472297089422045189" ]
+  },
+  "type" : [ "h-entry" ]
+}
