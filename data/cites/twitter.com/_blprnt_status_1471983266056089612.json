@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jer Thorp" ],
+        "nickname" : [ "blprnt" ],
+        "numeric-id" : [ "17013577" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1.jpg" ],
+        "published" : [ "2008-10-28T02:43:49+00:00" ],
+        "uid" : [ "tag:twitter.com:blprnt" ],
+        "url" : [ "https://twitter.com/blprnt", "https://jerthorp.glitch.me/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Imagine if Jeff Bezos had spent a small piece of his fortune to ship a COVID test with every Amazon package this month." ],
+    "published" : [ "2021-12-17T23:18:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1471983266056089612" ],
+    "url" : [ "https://twitter.com/blprnt/status/1471983266056089612" ]
+  },
+  "type" : [ "h-entry" ]
+}
