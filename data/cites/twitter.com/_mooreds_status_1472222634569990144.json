@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Greece" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Eleftheria Batsou" ],
+          "nickname" : [ "BatsouElef" ],
+          "numeric-id" : [ "757327643826094080" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1470739211129085966/WdoKnxo6.jpg" ],
+          "published" : [ "2016-07-24T21:32:35+00:00" ],
+          "uid" : [ "tag:twitter.com:BatsouElef" ],
+          "url" : [ "https://twitter.com/BatsouElef", "http://linktr.ee/eleftheriabatsou" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "As a developer, what gives you joy? 🥰" ],
+      "published" : [ "2021-12-18T05:58:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1472083706118557699" ],
+      "url" : [ "https://twitter.com/BatsouElef/status/1472083706118557699" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Seeing customer's toil obliterated by software I've written." ],
+    "published" : [ "2021-12-18T15:10:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1472222634569990144" ],
+    "url" : [ "https://twitter.com/mooreds/status/1472222634569990144" ]
+  },
+  "type" : [ "h-entry" ]
+}
