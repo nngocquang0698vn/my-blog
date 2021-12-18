@@ -1,0 +1,56 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "A Christmas Carol 🎄" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467801099201654785/-F0Dypvb.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/GraceMulvey1/status/1471800525834407941\">@GraceMulvey1</a> I can't think of anyone who has had a better year than the QR code. What a comeback."
+    } ],
+    "published" : [ "2021-12-17T22:12:41+00:00" ],
+    "repost-of" : [ {
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "Dublin, Ireland" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "Grace Mulvey" ],
+            "nickname" : [ "GraceMulvey1" ],
+            "numeric-id" : [ "314762458" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1214551095000911874/ghEuZ5GF.jpg" ],
+            "published" : [ "2011-06-10T19:28:30+00:00" ],
+            "uid" : [ "tag:twitter.com:GraceMulvey1" ],
+            "url" : [ "https://twitter.com/GraceMulvey1", "https://open.spotify.com/episode/5kotFBAcDWXg5chnjzh8Pg" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "I can't think of anyone who has had a better year than the QR code. What a comeback." ],
+        "published" : [ "2021-12-17T11:12:44+00:00" ],
+        "uid" : [ "tag:twitter.com:1471800525834407941" ],
+        "url" : [ "https://twitter.com/GraceMulvey1/status/1471800525834407941" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1471966607853432847" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1471966607853432847" ]
+  },
+  "type" : [ "h-entry" ]
+}
