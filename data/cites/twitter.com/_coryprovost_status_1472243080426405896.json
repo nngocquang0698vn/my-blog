@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Kellogg's" ],
+          "nickname" : [ "KelloggsUS" ],
+          "numeric-id" : [ "534249758" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/789507154873032704/pV1_sVfx.jpg" ],
+          "published" : [ "2012-03-23T12:34:51+00:00" ],
+          "uid" : [ "tag:twitter.com:KelloggsUS" ],
+          "url" : [ "https://twitter.com/KelloggsUS", "http://kelloggcompany.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Our data show that consumers routinely focus on the visual of the Pop-Tarts brand name, so we simplified the package design by removing \"Kellogg's\".\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_NevadaMan\"></a>",
+        "value" : "Our data show that consumers routinely focus on the visual of the Pop-Tarts brand name, so we simplified the package design by removing \"Kellogg's\"."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/_NevadaMan/status/1471688995792777217" ],
+      "published" : [ "2021-12-17T16:28:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1471879864479367172" ],
+      "url" : [ "https://twitter.com/KelloggsUS/status/1471879864479367172" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory Provost" ],
+        "nickname" : [ "coryprovost" ],
+        "numeric-id" : [ "18584210" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/884020771441397760/kNSRGPOm.jpg" ],
+        "published" : [ "2009-01-03T18:47:16+00:00" ],
+        "uid" : [ "tag:twitter.com:coryprovost" ],
+        "url" : [ "https://twitter.com/coryprovost" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As Kelloggs moves to redesign their products with their signature name on it, here are a list of their products that you can boycott. \n\nSupport <a href=\"https://twitter.com/BCTGM\">@BCTGM</a>! </div>",
+      "value" : "As Kelloggs moves to redesign their products with their signature name on it, here are a list of their products that you can boycott. \n\nSupport @BCTGM! "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FG51R3BXsAUUzE1.jpg" ],
+    "published" : [ "2021-12-18T16:31:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1472243080426405896" ],
+    "url" : [ "https://twitter.com/coryprovost/status/1472243080426405896" ]
+  },
+  "type" : [ "h-entry" ]
+}
