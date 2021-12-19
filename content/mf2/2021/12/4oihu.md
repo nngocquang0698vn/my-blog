@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jzux/status/1470845861236076544" ],
     "name" : [ "Like of @jzux's tweet" ],
     "published" : [ "2021-12-19T13:06:00+0000" ],
     "like-of" : [ "https://twitter.com/jzux/status/1470845861236076544" ],
