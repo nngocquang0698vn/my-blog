@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lars Rosenquist" ],
+        "nickname" : [ "larsrosenquist" ],
+        "numeric-id" : [ "120242706" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246817078008598528/cnsTkTlY.jpg" ],
+        "published" : [ "2010-03-05T22:23:20+00:00" ],
+        "uid" : [ "tag:twitter.com:larsrosenquist" ],
+        "url" : [ "https://twitter.com/larsrosenquist", "https://www.deployonfriday.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Folks around me investigated some of the alternatives and they found that the time spent in setting/keeping those up cost significantly more than a Docker Desktop subscription. \n\nPeople think their time is free (it's not).</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Docker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/starbuxman\"></a>",
+      "value" : "Folks around me investigated some of the alternatives and they found that the time spent in setting/keeping those up cost significantly more than a Docker Desktop subscription. \n\nPeople think their time is free (it's not)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/starbuxman/status/1471635197292466177" ],
+    "published" : [ "2021-12-17T07:52:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1471750020500275204" ],
+    "url" : [ "https://twitter.com/larsrosenquist/status/1471750020500275204" ]
+  },
+  "type" : [ "h-entry" ]
+}
