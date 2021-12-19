@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Human Rights Campaign" ],
+        "nickname" : [ "HRC" ],
+        "numeric-id" : [ "19608297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466506068876537860/EJoATxo2.png" ],
+        "published" : [ "2009-01-27T18:55:38+00:00" ],
+        "uid" : [ "tag:twitter.com:HRC" ],
+        "url" : [ "https://twitter.com/HRC", "https://www.hrc.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Begin a conversation with, \"Hi, my pronouns are ______. What are yours?\" <a href=\"https://twitter.com/search?q=%23HowToGetOffOnTheRightFoot\">#HowToGetOffOnTheRightFoot</a>",
+      "value" : "Begin a conversation with, \"Hi, my pronouns are ______. What are yours?\" #HowToGetOffOnTheRightFoot"
+    } ],
+    "published" : [ "2021-12-18T14:23:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1472210927894290442" ],
+    "url" : [ "https://twitter.com/HRC/status/1472210927894290442" ],
+    "video" : [ "https://video.twimg.com/tweet_video/EHArdNjWkAA7tLO.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
