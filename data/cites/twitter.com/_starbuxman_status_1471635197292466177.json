@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "in Production 🍃☁️" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Long" ],
+        "nickname" : [ "starbuxman" ],
+        "numeric-id" : [ "4324751" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/868596967139450880/ZdDK0WyW.jpg" ],
+        "published" : [ "2007-04-12T08:47:11+00:00" ],
+        "uid" : [ "tag:twitter.com:starbuxman" ],
+        "url" : [ "https://twitter.com/starbuxman", "http://www.joshlong.com/feed.html", "http://joshlong.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I just found an ingenious way to get around the impending <a href=\"https://twitter.com/Docker\">@Docker</a> Desktop licensing kerfuffle: I paid them money for the software that I use all the time",
+      "value" : "I just found an ingenious way to get around the impending @Docker Desktop licensing kerfuffle: I paid them money for the software that I use all the time"
+    } ],
+    "published" : [ "2021-12-17T00:15:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1471635197292466177" ],
+    "url" : [ "https://twitter.com/starbuxman/status/1471635197292466177" ]
+  },
+  "type" : [ "h-entry" ]
+}
