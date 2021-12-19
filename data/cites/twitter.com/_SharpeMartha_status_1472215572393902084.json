@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martha Sharpe" ],
+        "nickname" : [ "SharpeMartha" ],
+        "numeric-id" : [ "2894061966" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281636034258837509/jEkI654T.jpg" ],
+        "published" : [ "2014-11-08T20:42:09+00:00" ],
+        "uid" : [ "tag:twitter.com:SharpeMartha" ],
+        "url" : [ "https://twitter.com/SharpeMartha", "http://marthacodes.com", "http://youtube.com/channel/UCqL_Y" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My company just announced that next year we’ll be going to a 4-day work week\n\nHappy engineers make happy products 😁</div>",
+      "value" : "My company just announced that next year we’ll be going to a 4-day work week\n\nHappy engineers make happy products 😁"
+    } ],
+    "published" : [ "2021-12-18T14:41:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1472215572393902084" ],
+    "url" : [ "https://twitter.com/SharpeMartha/status/1472215572393902084" ]
+  },
+  "type" : [ "h-entry" ]
+}
