@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Gondelman" ],
+        "nickname" : [ "joshgondelman" ],
+        "numeric-id" : [ "70111948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457723783452798981/9jVr6PKF.jpg" ],
+        "published" : [ "2009-08-30T12:40:22+00:00" ],
+        "uid" : [ "tag:twitter.com:joshgondelman" ],
+        "url" : [ "https://twitter.com/joshgondelman", "https://www.harpercollins.com/9780062959003/nice-try/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Shout out to the stone cold freak at the remote control factory who decided that the batteries always need to be 69ing in there." ],
+    "published" : [ "2021-12-18T19:15:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1472284485072924674" ],
+    "url" : [ "https://twitter.com/joshgondelman/status/1472284485072924674" ]
+  },
+  "type" : [ "h-entry" ]
+}
