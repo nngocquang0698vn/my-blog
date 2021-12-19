@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412996520769560579/Iaa1gcoL.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://nivenly.com/", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i ain’t logger back girl\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ElleArmageddon\"></a>",
+      "value" : "i ain’t logger back girl"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ElleArmageddon/status/1472425522974003202" ],
+    "published" : [ "2021-12-19T04:49:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1472428850684563457" ],
+    "url" : [ "https://twitter.com/krisnova/status/1472428850684563457" ]
+  },
+  "type" : [ "h-entry" ]
+}
