@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jess Shapiro" ],
+        "nickname" : [ "transgingerjess" ],
+        "numeric-id" : [ "978234861377990656" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396900020364840961/oinSNhtM.jpg" ],
+        "published" : [ "2018-03-26T11:39:00+00:00" ],
+        "uid" : [ "tag:twitter.com:transgingerjess" ],
+        "url" : [ "https://twitter.com/transgingerjess", "http://x86.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "don't be silly; software is optional. nobody would be such a monster as to charge for essentials like food and shelter.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Docker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lukego\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/starbuxman\"></a>",
+      "value" : "don't be silly; software is optional. nobody would be such a monster as to charge for essentials like food and shelter."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/lukego/status/1471767738246787077" ],
+    "published" : [ "2021-12-18T04:41:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1472064553672273925" ],
+    "url" : [ "https://twitter.com/transgingerjess/status/1472064553672273925" ]
+  },
+  "type" : [ "h-entry" ]
+}
