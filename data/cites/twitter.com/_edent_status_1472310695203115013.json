@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dublin, Ireland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Grace Mulvey" ],
+          "nickname" : [ "GraceMulvey1" ],
+          "numeric-id" : [ "314762458" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1214551095000911874/ghEuZ5GF.jpg" ],
+          "published" : [ "2011-06-10T19:28:30+00:00" ],
+          "uid" : [ "tag:twitter.com:GraceMulvey1" ],
+          "url" : [ "https://twitter.com/GraceMulvey1", "https://open.spotify.com/episode/5kotFBAcDWXg5chnjzh8Pg" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I can't think of anyone who has had a better year than the QR code. What a comeback." ],
+      "published" : [ "2021-12-17T11:12:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1471800525834407941" ],
+      "url" : [ "https://twitter.com/GraceMulvey1/status/1471800525834407941" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I was told that QR codes would never succeed because no one could make money from them.\n\nThey're \"boring infrastructure\". That's what makes them magical - they're both libre and gratis.</div>",
+      "value" : "I was told that QR codes would never succeed because no one could make money from them.\n\nThey're \"boring infrastructure\". That's what makes them magical - they're both libre and gratis."
+    } ],
+    "published" : [ "2021-12-18T20:59:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1472310695203115013" ],
+    "url" : [ "https://twitter.com/edent/status/1472310695203115013" ]
+  },
+  "type" : [ "h-entry" ]
+}
