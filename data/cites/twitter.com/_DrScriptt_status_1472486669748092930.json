@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Grant Taylor" ],
+        "nickname" : [ "DrScriptt" ],
+        "numeric-id" : [ "179397824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1105784725/gtaylor.jpg" ],
+        "published" : [ "2010-08-17T05:19:58+00:00" ],
+        "uid" : [ "tag:twitter.com:DrScriptt" ],
+        "url" : [ "https://twitter.com/DrScriptt", "http://dotfiles.tnetconsulting.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TIL that it’s possible (if not easy) to use `locate` &amp; `updatedb` with independent directory structures in addition to system wide. A la\n\n# locate -d ./locatedb</div>",
+      "value" : "TIL that it’s possible (if not easy) to use `locate` & `updatedb` with independent directory structures in addition to system wide. A la\n\n# locate -d ./locatedb"
+    } ],
+    "published" : [ "2021-12-19T08:39:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1472486669748092930" ],
+    "url" : [ "https://twitter.com/DrScriptt/status/1472486669748092930" ]
+  },
+  "type" : [ "h-entry" ]
+}
