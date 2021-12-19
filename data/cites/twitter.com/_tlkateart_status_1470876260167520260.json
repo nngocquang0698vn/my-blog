@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TheLatestKate" ],
+        "nickname" : [ "tlkateart" ],
+        "numeric-id" : [ "3950225477" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/731992854835290112/oSGi75XB.jpg" ],
+        "published" : [ "2015-10-13T22:10:59+00:00" ],
+        "uid" : [ "tag:twitter.com:tlkateart" ],
+        "url" : [ "https://twitter.com/tlkateart" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "A drawing of a moose with snow on its antlers resting in a winter landscape. The caption reads, \"You're not a failure for struggling; it IS difficult. Please be careful not to gaslight yourself.\"",
+      "value" : "https://pbs.twimg.com/media/FGXDKmNVUAApF1_.jpg"
+    } ],
+    "published" : [ "2021-12-14T22:00:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1470876260167520260" ],
+    "url" : [ "https://twitter.com/tlkateart/status/1470876260167520260" ]
+  },
+  "type" : [ "h-entry" ]
+}
