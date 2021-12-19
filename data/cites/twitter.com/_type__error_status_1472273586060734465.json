@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353098838085611525/to9mBlEC.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "fucking CORS, I swear to god" ],
+    "published" : [ "2021-12-18T18:32:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1472273586060734465" ],
+    "url" : [ "https://twitter.com/type__error/status/1472273586060734465" ]
+  },
+  "type" : [ "h-entry" ]
+}
