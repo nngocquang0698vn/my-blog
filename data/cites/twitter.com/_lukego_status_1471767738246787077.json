@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Skövde, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luke Gorrie" ],
+        "nickname" : [ "lukego" ],
+        "numeric-id" : [ "362022429" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397848033618956288/W2h5x7E4.png" ],
+        "published" : [ "2011-08-25T18:32:45+00:00" ],
+        "uid" : [ "tag:twitter.com:lukego" ],
+        "url" : [ "https://twitter.com/lukego", "https://www.linkedin.com/in/lukego" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "but if you start paying for software, are you not worried about a slippery slope where you are soon also paying for food and housing?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Docker\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/starbuxman\"></a>",
+      "value" : "but if you start paying for software, are you not worried about a slippery slope where you are soon also paying for food and housing?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/starbuxman/status/1471635197292466177" ],
+    "published" : [ "2021-12-17T09:02:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1471767738246787077" ],
+    "url" : [ "https://twitter.com/lukego/status/1471767738246787077" ]
+  },
+  "type" : [ "h-entry" ]
+}
