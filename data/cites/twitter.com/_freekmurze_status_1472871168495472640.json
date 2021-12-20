@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Antwerp, Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Freek Van der Herten 🔭" ],
+        "nickname" : [ "freekmurze" ],
+        "numeric-id" : [ "97178022" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433390470965735424/f5UiMISj.jpg" ],
+        "published" : [ "2009-12-16T09:56:14+00:00" ],
+        "uid" : [ "tag:twitter.com:freekmurze" ],
+        "url" : [ "https://twitter.com/freekmurze", "https://freek.dev", "https://myray.app", "http://freek.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">When somebody makes an error in our team, we never blame the keypresses of an individual, but rather the team processes that fell short.\n\nWhen bad things happen, we see it as an opportunity to improve our workflow and do it better in the future 👍</div>",
+      "value" : "When somebody makes an error in our team, we never blame the keypresses of an individual, but rather the team processes that fell short.\n\nWhen bad things happen, we see it as an opportunity to improve our workflow and do it better in the future 👍"
+    } ],
+    "published" : [ "2021-12-20T10:07:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1472871168495472640" ],
+    "url" : [ "https://twitter.com/freekmurze/status/1472871168495472640" ]
+  },
+  "type" : [ "h-entry" ]
+}
