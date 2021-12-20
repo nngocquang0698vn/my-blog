@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Schneider" ],
+        "nickname" : [ "davidschneider" ],
+        "numeric-id" : [ "20098015" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/937241076116672513/E31_C1th.jpg" ],
+        "published" : [ "2009-02-04T21:47:34+00:00" ],
+        "uid" : [ "tag:twitter.com:davidschneider" ],
+        "url" : [ "https://twitter.com/davidschneider", "http://instagram.com/davidschneider" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“We are keeping an eye on all the people being eaten by sharks and won’t hesitate to take further action”" ],
+    "photo" : [ "https://pbs.twimg.com/media/FHEfpm6WYAYdDcF.jpg" ],
+    "published" : [ "2021-12-20T18:12:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1472993356921950210" ],
+    "url" : [ "https://twitter.com/davidschneider/status/1472993356921950210" ]
+  },
+  "type" : [ "h-entry" ]
+}
