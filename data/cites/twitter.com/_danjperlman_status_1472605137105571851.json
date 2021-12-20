@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Perlman" ],
+        "nickname" : [ "danjperlman" ],
+        "numeric-id" : [ "408879705" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422690062416941060/waVRzBEl.jpg" ],
+        "published" : [ "2011-11-10T00:43:06+00:00" ],
+        "uid" : [ "tag:twitter.com:danjperlman" ],
+        "url" : [ "https://twitter.com/danjperlman", "http://instagram.com/danjperlman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sometimes I wonder if 20 months of a pandemic has had a mental impact on us" ],
+    "published" : [ "2021-12-19T16:29:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1472605137105571851" ],
+    "url" : [ "https://twitter.com/danjperlman/status/1472605137105571851" ]
+  },
+  "type" : [ "h-entry" ]
+}
