@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patrick" ],
+        "nickname" : [ "lunch_enjoyer" ],
+        "numeric-id" : [ "2912039416" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1448088546045272066/QW1iicUc.jpg" ],
+        "published" : [ "2014-12-09T01:59:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lunch_enjoyer" ],
+        "url" : [ "https://twitter.com/lunch_enjoyer", "http://twitch.tv/podcastaboutlist" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the matrix is a movie about the hottest people in the world using the computer" ],
+    "published" : [ "2021-12-21T02:22:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1473116564333469706" ],
+    "url" : [ "https://twitter.com/lunch_enjoyer/status/1473116564333469706" ]
+  },
+  "type" : [ "h-entry" ]
+}
