@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Russell Howe" ],
+        "nickname" : [ "rhowe212" ],
+        "numeric-id" : [ "760083525676785664" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/821382838780043264/OUKCCqsL.jpg" ],
+        "published" : [ "2016-08-01T12:03:28+00:00" ],
+        "uid" : [ "tag:twitter.com:rhowe212" ],
+        "url" : [ "https://twitter.com/rhowe212" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just had to inform a large UK professional body that maybe using Tomcat 6.0.45 (6.x was EOL'd 5 years ago) on their public website maybe isn't a great idea" ],
+    "published" : [ "2021-12-21T16:34:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1473331142774435851" ],
+    "url" : [ "https://twitter.com/rhowe212/status/1473331142774435851" ]
+  },
+  "type" : [ "h-entry" ]
+}
