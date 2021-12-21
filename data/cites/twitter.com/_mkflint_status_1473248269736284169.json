@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottinghamshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Flint" ],
+        "nickname" : [ "mkflint" ],
+        "numeric-id" : [ "73369438" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/541249367949451264/vDVsZrXM.jpeg" ],
+        "published" : [ "2009-09-11T11:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mkflint" ],
+        "url" : [ "https://twitter.com/mkflint" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">On balance, I think it’s ok.\nI do exactly that with <a href=\"https://twitter.com/1Password\">@1Password</a>.\nYou’ve gotta find a trade-off between security and convenience, and think about your personal threat-model.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "On balance, I think it’s ok.\nI do exactly that with @1Password.\nYou’ve gotta find a trade-off between security and convenience, and think about your personal threat-model."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1473236540138602500" ],
+    "published" : [ "2021-12-21T11:05:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1473248269736284169" ],
+    "url" : [ "https://twitter.com/mkflint/status/1473248269736284169" ]
+  },
+  "type" : [ "h-entry" ]
+}
