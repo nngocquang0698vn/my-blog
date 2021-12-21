@@ -1,0 +1,42 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Kelsey Hightower" ],
+          "nickname" : [ "kelseyhightower" ],
+          "numeric-id" : [ "159822053" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt.jpg" ],
+          "published" : [ "2010-06-26T12:24:45+00:00" ],
+          "uid" : [ "tag:twitter.com:kelseyhightower" ],
+          "url" : [ "https://twitter.com/kelseyhightower" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Human societies are far too complex to be abstracted away behind a set of smart contracts." ],
+      "published" : [ "2021-12-21T11:11:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1473249645115711489" ],
+      "url" : [ "https://twitter.com/kelseyhightower/status/1473249645115711489" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Kelsey Hightower" ],
+        "nickname" : [ "kelseyhightower" ],
+        "numeric-id" : [ "159822053" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt.jpg" ],
+        "published" : [ "2010-06-26T12:24:45+00:00" ],
+        "uid" : [ "tag:twitter.com:kelseyhightower" ],
+        "url" : [ "https://twitter.com/kelseyhightower" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ask yourself, would you really want to live in a society we could define via a collection of code snippets?" ],
+    "published" : [ "2021-12-21T11:30:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1473254610953506820" ],
+    "url" : [ "https://twitter.com/kelseyhightower/status/1473254610953506820" ]
+  },
+  "type" : [ "h-entry" ]
+}
