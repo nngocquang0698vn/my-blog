@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "haroon meer" ],
+        "nickname" : [ "haroonmeer" ],
+        "numeric-id" : [ "15608944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1253353018470301696/1JSVGtVG.jpg" ],
+        "published" : [ "2008-07-26T08:16:54+00:00" ],
+        "uid" : [ "tag:twitter.com:haroonmeer" ],
+        "url" : [ "https://twitter.com/haroonmeer", "http://thinkst.com/", "https://canary.tools" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Good news:\nLog4j is the only library you use that’s been trivially vulnerable for about a decade.</div>",
+      "value" : "Good news:\nLog4j is the only library you use that’s been trivially vulnerable for about a decade."
+    } ],
+    "published" : [ "2021-12-20T11:12:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1472887602659344386" ],
+    "url" : [ "https://twitter.com/haroonmeer/status/1472887602659344386" ]
+  },
+  "type" : [ "h-entry" ]
+}
