@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kelseyhightower/status/1473254610953506820" ],
     "name" : [ "Like of @kelseyhightower's tweet" ],
     "published" : [ "2021-12-21T11:48:00+0000" ],
     "like-of" : [ "https://twitter.com/kelseyhightower/status/1473254610953506820" ],
