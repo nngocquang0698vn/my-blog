@@ -10,7 +10,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "What are folks' thoughts about using a password manager i.e. KeepassXC to store TOTP data for MFA? My initial thought is that this sounds like a Bad Idea, but not sure if I'm being a bit too paranoid?"
+      "value" : "What are folks' thoughts about using a password manager i.e. KeepassXC to store TOTP data (not the recovery codes) for MFA? My initial thought is that this sounds like a Bad Idea, but not sure if I'm being a bit too paranoid?"
     } ]
   },
   "kind" : "notes",
