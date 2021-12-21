@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408707774683533314/_Yb5EmSb.jpg" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today's important soft skill - hearing about a technical issue and being able to identify the difference between being able to fix it, needing to fix it, and it needing to be fixed by the team discussing it\n\nA hard one when your team's gut reaction is so often \"fix it now, fast!\"</div>",
+      "value" : "Today's important soft skill - hearing about a technical issue and being able to identify the difference between being able to fix it, needing to fix it, and it needing to be fixed by the team discussing it\n\nA hard one when your team's gut reaction is so often \"fix it now, fast!\""
+    } ],
+    "published" : [ "2021-12-21T09:57:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1473231176479424515" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1473231176479424515" ]
+  },
+  "type" : [ "h-entry" ]
+}
