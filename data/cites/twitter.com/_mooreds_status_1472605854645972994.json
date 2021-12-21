@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What's your favorite question to ask when you finish an interview (as the interviewee)?" ],
+    "published" : [ "2021-12-19T16:32:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1472605854645972994" ],
+    "url" : [ "https://twitter.com/mooreds/status/1472605854645972994" ]
+  },
+  "type" : [ "h-entry" ]
+}
