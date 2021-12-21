@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RobDenBleyker/status/1473383136914456585" ],
     "name" : [ "Like of @RobDenBleyker's tweet" ],
     "published" : [ "2021-12-21T22:30:00+0000" ],
     "category" : [ "coronavirus", "satire", "politics", "movies" ],
