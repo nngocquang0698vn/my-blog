@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michal Konturek" ],
+        "nickname" : [ "MichalKonturek" ],
+        "numeric-id" : [ "498878362" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/710465207357857792/BwnlffBN.jpg" ],
+        "published" : [ "2012-02-21T14:33:05+00:00" ],
+        "uid" : [ "tag:twitter.com:MichalKonturek" ],
+        "url" : [ "https://twitter.com/MichalKonturek", "http://github.com/michalkonturek" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I have them printed and stored in a safe. It has been almost a decade for some of them.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/1Password\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mkflint\"></a>",
+      "value" : "I have them printed and stored in a safe. It has been almost a decade for some of them."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1473254581773783042" ],
+    "published" : [ "2021-12-21T13:14:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1473280592880062467" ],
+    "url" : [ "https://twitter.com/MichalKonturek/status/1473280592880062467" ]
+  },
+  "type" : [ "h-entry" ]
+}
