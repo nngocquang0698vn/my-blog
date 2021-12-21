@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Maia Bittner" ],
+          "nickname" : [ "maiab" ],
+          "numeric-id" : [ "9667012" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1437091189316931585/1H1AQ5ph.jpg" ],
+          "published" : [ "2007-10-24T21:25:32+00:00" ],
+          "uid" : [ "tag:twitter.com:maiab" ],
+          "url" : [ "https://twitter.com/maiab", "http://maiabittner.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">ugh I feel soooooo sick \n\nsomeone who has kept up on the science: I wouldn’t have a negative Covid test after having symptoms if I had Covid, right?</div>",
+        "value" : "ugh I feel soooooo sick \n\nsomeone who has kept up on the science: I wouldn’t have a negative Covid test after having symptoms if I had Covid, right?"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/maiab/status/1465078813562486786" ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Indianapolis, IN" ],
+          "uid" : [ "tag:twitter.com:018929347840059e" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2021-11-28T23:39:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1465103070677942272" ],
+      "url" : [ "https://twitter.com/maiab/status/1465103070677942272" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Maia Bittner" ],
+        "nickname" : [ "maiab" ],
+        "numeric-id" : [ "9667012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437091189316931585/1H1AQ5ph.jpg" ],
+        "published" : [ "2007-10-24T21:25:32+00:00" ],
+        "uid" : [ "tag:twitter.com:maiab" ],
+        "url" : [ "https://twitter.com/maiab", "http://maiabittner.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "ok so turns out if you’re vaxxed, it’s much more likely to take days of symptoms for a Covid test to detect infection. unvaxxed, it’ll start appearing on tests about the same time as symptoms appear. all of this is a few days (at least) after exposure  <a href=\"https://twitter.com/michaelmina_lab/status/1472024457640394756?s=21\">twitter.com/michaelmina_la…</a>",
+      "value" : "ok so turns out if you’re vaxxed, it’s much more likely to take days of symptoms for a Covid test to detect infection. unvaxxed, it’ll start appearing on tests about the same time as symptoms appear. all of this is a few days (at least) after exposure  twitter.com/michaelmina_la…"
+    } ],
+    "published" : [ "2021-12-20T22:45:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1473062025727074305" ],
+    "url" : [ "https://twitter.com/maiab/status/1473062025727074305" ]
+  },
+  "type" : [ "h-entry" ]
+}
