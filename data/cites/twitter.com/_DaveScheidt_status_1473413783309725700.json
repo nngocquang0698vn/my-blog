@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎃 Dave Scheidt 🎃" ],
+        "nickname" : [ "DaveScheidt" ],
+        "numeric-id" : [ "8546022" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356724947905875968/QxJKhSl6.jpg" ],
+        "published" : [ "2007-08-30T22:54:38+00:00" ],
+        "uid" : [ "tag:twitter.com:DaveScheidt" ],
+        "url" : [ "https://twitter.com/DaveScheidt", "https://linktr.ee/DaveScheidt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Congrats to everyone who managed to write or draw or create ANYTHING this year and shout out to everyone who is still trying." ],
+    "published" : [ "2021-12-21T22:03:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1473413783309725700" ],
+    "url" : [ "https://twitter.com/DaveScheidt/status/1473413783309725700" ]
+  },
+  "type" : [ "h-entry" ]
+}
