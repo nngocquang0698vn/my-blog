@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Boston. MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nick Beauchamp" ],
+          "nickname" : [ "nick_beauchamp" ],
+          "numeric-id" : [ "594048820" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/639937795709005824/2tB0ttWX.jpg" ],
+          "published" : [ "2012-05-29T21:20:20+00:00" ],
+          "uid" : [ "tag:twitter.com:nick_beauchamp" ],
+          "url" : [ "https://twitter.com/nick_beauchamp", "http://nickbeauchamp.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Here's a plot of the \"no smell\" complaints for the top three Yankee Candles on Amazon.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/drewtoothpaste\"></a>",
+        "value" : "Here's a plot of the \"no smell\" complaints for the top three Yankee Candles on Amazon."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/drewtoothpaste/status/1473360059908374539" ],
+      "photo" : [ "https://pbs.twimg.com/media/FHLzLx-WQAA--rE.png" ],
+      "published" : [ "2021-12-22T04:22:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1473509106187223043" ],
+      "url" : [ "https://twitter.com/nick_beauchamp/status/1473509106187223043" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zürich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eleanor" ],
+        "nickname" : [ "zornsllama" ],
+        "numeric-id" : [ "721987063113867264" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1294547313805811713/qroo2Dy1.jpg" ],
+        "published" : [ "2016-04-18T09:01:44+00:00" ],
+        "uid" : [ "tag:twitter.com:zornsllama" ],
+        "url" : [ "https://twitter.com/zornsllama", "https://lnor.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">blue line: daily COVID cases in the USA\n\nred line: bad reviews of Yankee Candles on Amazon saying \"they don't have any scent\"\n\nsources: google and <a href=\"https://twitter.com/nick_beauchamp/status/1473509106187223043?s=21\">twitter.com/nick_beauchamp…</a></div>",
+      "value" : "blue line: daily COVID cases in the USA\n\nred line: bad reviews of Yankee Candles on Amazon saying \"they don't have any scent\"\n\nsources: google and twitter.com/nick_beauchamp…"
+    } ],
+    "photo" : [ {
+      "alt" : "The graphs are correlated almost exactly, with big waves in January and September this year",
+      "value" : "https://pbs.twimg.com/media/FHMw71cWQAMQZCE.png"
+    } ],
+    "published" : [ "2021-12-22T08:45:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1473575508784955394" ],
+    "url" : [ "https://twitter.com/zornsllama/status/1473575508784955394" ]
+  },
+  "type" : [ "h-entry" ]
+}
