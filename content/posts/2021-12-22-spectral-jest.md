@@ -271,4 +271,68 @@ module.exports = {
 }
 ```
 
-We can also remove `test/rules.test.js` as it's no longer relevant, as we don't want to write a complete specification.
+## Severity checking
+
+If we want to make sure our `test/testdata/empty/valid.yaml` works, we should really verify that there are no errors in the spec, which requires we amend our test harness to add:
+
+```javascript
+const { DiagnosticSeverity } = require('@stoplight/types')
+
+// ...
+
+function resultsForSeverity (results, severity) {
+  return results.filter((r) => DiagnosticSeverity[r.severity] === severity)
+}
+
+function getErrors (results) {
+  return resultsForSeverity(results, 'Error')
+}
+
+function getWarnings (results) {
+  return resultsForSeverity(results, 'Warn')
+}
+
+function getInformativeResults (results) {
+  return resultsForSeverity(results, 'Information')
+}
+
+function getHints (results) {
+  return resultsForSeverity(results, 'Hint')
+}
+
+module.exports = {
+  retrieveDocument,
+  setupSpectral,
+  resultsForCode,
+  resultsForSeverity,
+  getErrors,
+  getWarnings,
+  getInformativeResults,
+  getHints
+}
+```
+
+Then, we can amend our `test/rules.test.js` to be:
+
+```javascript
+const { retrieveDocument, setupSpectral, getErrors } = require('./testharness')
+
+test('Complete document passes', async () => {
+  const spectral = await setupSpectral()
+  const document = retrieveDocument('complete/valid.yaml')
+
+  const results = getErrors(await spectral.run(document))
+
+  expect(results).toHaveLength(0)
+})
+```
+
+And note that our `test/testdata/empty/valid.yaml` is renamed to `test/testdata/complete/valid.yaml`, with contents:
+
+```yaml
+openapi: '3.0.0'
+info:
+  title: 'Example API'
+  version: '0.0.0'
+paths: {}
+```
