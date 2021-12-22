@@ -197,4 +197,78 @@ rules:
         match: "^([0-9]+.[0-9]+.[0-9]+)$"
 ```
 
-Unfortunately this setup doesn't currently work with our tests - this will be covered later!
+To make this work, we need to make sure that our specs each declare themselves as OpenAPI:
+
+```diff
++openapi: 3.1
+ info:
+   version: 1.2.3
+```
+
+Then, we'll start to see failing tests:
+
+```
+ FAIL  test/rules.test.js
+  ● Empty document passes
+
+    expect(received).toHaveLength(expected)
+
+    Expected length: 0
+    Received length: 5
+    Received array:  [{"code": "info-contact", "message": "Info object must have \"contact\" object.", "path": [], "range": {"end": {"character": 12, "line": 0}, "start": {"character": 0, "line": 0}}, "severity": 1, "source": "empty/valid.yaml"}, {"code": "info-description", "message": "Info \"description\" must be present and non-empty string.", "path": [], "range": {"end": {"character": 12, "line": 0}, "start": {"character": 0, "line": 0}}, "severity": 1, "source": "empty/valid.yaml"}, {"code": "oas3-api-servers", "message": "OpenAPI \"servers\" must be present and non-empty array.", "path": [], "range": {"end": {"character": 12, "line": 0}, "start": {"character": 0, "line": 0}}, "severity": 1, "source": "empty/valid.yaml"}, {"code": "oas3-schema", "message": "Object must have required property \"info\".", "path": [], "range": {"end": {"character": 12, "line": 0}, "start": {"character": 0, "line": 0}}, "severity": 0, "source": "empty/valid.yaml"}, {"code": "oas3-schema", "message": "\"openapi\" property type must be string.", "path": ["openapi"], "range": {"end": {"character": 12, "line": 0}, "start": {"character": 9, "line": 0}}, "severity": 0, "source": "empty/valid.yaml"}]
+
+       7 |   const results = await spectral.run(document)
+       8 |
+    >  9 |   expect(results).toHaveLength(0)
+         |                   ^
+      10 | })
+      11 |
+
+      at Object.<anonymous> (test/rules.test.js:9:19)
+```
+
+These are due to our extended rules now failing, so we have two choices - either make all our specs valid (a reasonable choice) or amend our tests to only validate the specific rule is failing.
+
+I'd recommend doing the former, but with the fact that we'll likely be adding more tests, each example spec for test cases will need to be more and more complex, so we should probably instead minimise our tests, for instance:
+
+```javascript
+const { retrieveDocument, setupSpectral, resultsForCode } = require('./testharness')
+
+describe('semver', () => {
+  test('fails when not a number', async () => {
+    const spectral = await setupSpectral()
+    const document = retrieveDocument('semver/invalid.yaml')
+
+    const results = resultsForCode(await spectral.run(document), 'semver')
+
+    expect(results.length).toBeGreaterThanOrEqual(1)
+  })
+
+  test('passes when valid format', async () => {
+    const spectral = await setupSpectral()
+    const document = retrieveDocument('semver/valid.yaml')
+
+    const results = resultsForCode(await spectral.run(document), 'semver')
+
+    expect(results).toHaveLength(0)
+  })
+})
+```
+
+And in `test/testharness.js`:
+
+```javascript
+// ...
+
+function resultsForCode(results, code) {
+  return results.filter((r) => r.code === code)
+}
+
+module.exports = {
+  retrieveDocument,
+  setupSpectral,
+  resultsForCode
+}
+```
+
+We can also remove `test/rules.test.js` as it's no longer relevant, as we don't want to write a complete specification.
