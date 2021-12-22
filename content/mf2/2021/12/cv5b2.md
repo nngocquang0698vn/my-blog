@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bodil/status/1473673745508311047" ],
     "name" : [ "Like of @bodil's tweet" ],
     "published" : [ "2021-12-22T18:41:00+0000" ],
     "category" : [ "twitter", "social-media" ],
