@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon J. Bell" ],
+        "nickname" : [ "SimonByte" ],
+        "numeric-id" : [ "22287747" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395204714707496967/4xjiz8_D.jpg" ],
+        "published" : [ "2009-02-28T19:39:09+00:00" ],
+        "uid" : [ "tag:twitter.com:SimonByte" ],
+        "url" : [ "https://twitter.com/SimonByte", "https://SJBell.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I wanted a way to monitor trending CVEs on Twitter\n\nSo I built <a href=\"http://CVEtrends.com\">CVEtrends.com</a> \n\n- data comes from Twitter + NIST NVD APIs\n- back-end: Python, Flask, PostgreSQL, and Redis\n- front-end: React + Bootstrap\n\nIt's a quick MVP, but let me know your thoughts and feedback...</div>",
+      "value" : "I wanted a way to monitor trending CVEs on Twitter\n\nSo I built CVEtrends.com \n\n- data comes from Twitter + NIST NVD APIs\n- back-end: Python, Flask, PostgreSQL, and Redis\n- front-end: React + Bootstrap\n\nIt's a quick MVP, but let me know your thoughts and feedback..."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FE4Zi5NX0AcZBNC.jpg" ],
+    "published" : [ "2021-11-23T13:53:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1463143700230545412" ],
+    "url" : [ "https://twitter.com/SimonByte/status/1463143700230545412" ]
+  },
+  "type" : [ "h-entry" ]
+}
