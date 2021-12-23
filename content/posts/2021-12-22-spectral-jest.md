@@ -3,6 +3,7 @@ title: Test Driven Development for Your Spectral Rules, using Jest
 description: How to write unit tests for Spectral API linting, in a test-driven development fashion.
 tags:
 - blogumentation
+- spectral-test-harness
 - spectral
 - api
 - unit-testing
@@ -29,6 +30,8 @@ At first I was looking at shelling out to `spectral lint` and parsing the JUnit-
 # Example
 
 The code can be found in full in an [example repo on GitLab](https://gitlab.com/jamietanna/spectral-jest).
+
+**Update 2021-12-23**: [I have now released](/posts/2021/12/23/spectral-test-harness/) this test harness as [a separate NPM package](https://www.npmjs.com/package/@jamietanna/spectral-test-harness) which can be used, instead of needing to copy-paste code.
 
 ## Initial Setup
 
