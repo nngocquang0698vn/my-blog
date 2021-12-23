@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "adrie@adrierose.link" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "adrie 🇯🇲" ],
+          "nickname" : [ "adrierising" ],
+          "numeric-id" : [ "1333997875370598407" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1464433194158206982/ss87mXaS.jpg" ],
+          "published" : [ "2020-12-02T04:54:39+00:00" ],
+          "uid" : [ "tag:twitter.com:adrierising" ],
+          "url" : [ "https://twitter.com/adrierising", "https://adrierose.link/links" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "i want discourse. what’s the one thing you’ll never forgive from a tv show or movie?" ],
+      "published" : [ "2021-12-19T06:39:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1472456533388705797" ],
+      "url" : [ "https://twitter.com/adrierising/status/1472456533388705797" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "isaacs" ],
+        "nickname" : [ "izs" ],
+        "numeric-id" : [ "8038312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279598505078611968/XxNORXPs.jpg" ],
+        "published" : [ "2007-08-07T20:44:59+00:00" ],
+        "uid" : [ "tag:twitter.com:izs" ],
+        "url" : [ "https://twitter.com/izs", "https://izs.me", "http://keybase.io/isaacs/chat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The endings of:\n- Game of Thrones\n- Heroes\n- Battlestar Galactica\n\nThe theme song for Star Trek: Enterprise\n\nBig Bang Theory. Just, everything about it.</div>",
+      "value" : "The endings of:\n- Game of Thrones\n- Heroes\n- Battlestar Galactica\n\nThe theme song for Star Trek: Enterprise\n\nBig Bang Theory. Just, everything about it."
+    } ],
+    "published" : [ "2021-12-23T19:17:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1474096759492120595" ],
+    "url" : [ "https://twitter.com/izs/status/1474096759492120595" ]
+  },
+  "type" : [ "h-entry" ]
+}
