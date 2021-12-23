@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Notorious Rambler" ],
+          "nickname" : [ "Stan_Henry" ],
+          "numeric-id" : [ "12770892" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1182117120223657984/qe3bjw71.jpg" ],
+          "published" : [ "2008-01-28T03:31:11+00:00" ],
+          "uid" : [ "tag:twitter.com:Stan_Henry" ],
+          "url" : [ "https://twitter.com/Stan_Henry" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Is this why there weren’t (as far as I remember) fighter jet like spacecraft in the Expanse?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamesSACorey\"></a>",
+        "value" : "Is this why there weren’t (as far as I remember) fighter jet like spacecraft in the Expanse?"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/JamesSACorey/status/1473785111233527809" ],
+      "published" : [ "2021-12-22T22:44:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1473786618687504396" ],
+      "url" : [ "https://twitter.com/Stan_Henry/status/1473786618687504396" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Our feeling is that truly smart and extremely long range missiles make fighters sort of pointless in space." ],
+    "published" : [ "2021-12-22T22:46:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1473787093335756800" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1473787093335756800" ]
+  },
+  "type" : [ "h-entry" ]
+}
