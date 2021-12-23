@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Somerville, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Strandberg" ],
+        "nickname" : [ "The_Lagrangian" ],
+        "numeric-id" : [ "3171417655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1242163863568683010/pXlbA7YK.jpg" ],
+        "published" : [ "2015-04-24T22:51:34+00:00" ],
+        "uid" : [ "tag:twitter.com:The_Lagrangian" ],
+        "url" : [ "https://twitter.com/The_Lagrangian", "http://strandberg.bio" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHFAddCUUAAFNuS.png" ],
+    "published" : [ "2021-12-20T20:35:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1473029432306647040" ],
+    "url" : [ "https://twitter.com/The_Lagrangian/status/1473029432306647040" ]
+  },
+  "type" : [ "h-entry" ]
+}
