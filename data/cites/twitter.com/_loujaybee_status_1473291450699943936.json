@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BorisL" ],
+          "nickname" : [ "RediskaBoriska" ],
+          "numeric-id" : [ "1144600907621044225" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1462948132493438979/FiKFFyZq.jpg" ],
+          "published" : [ "2019-06-28T13:38:16+00:00" ],
+          "uid" : [ "tag:twitter.com:RediskaBoriska" ],
+          "url" : [ "https://twitter.com/RediskaBoriska", "https://www.cloudboundboris.me", "https://www.fraxa.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Document it, I use <a href=\"https://twitter.com/hashnode\">@hashnode</a> personally.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/andrewbrown\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/asbluecio\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cloudbart\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lindavivah\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/loujaybee\"></a>",
+        "value" : "Document it, I use @hashnode personally."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/asbluecio/status/1473048086331244553" ],
+      "published" : [ "2021-12-21T00:36:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1473089887876403202" ],
+      "url" : [ "https://twitter.com/RediskaBoriska/status/1473089887876403202" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lou ☁️ 👨‍💻🏋️‍♂️🎸🚴🏻‍♂️🏍" ],
+        "nickname" : [ "loujaybee" ],
+        "numeric-id" : [ "1290693397" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1315542552720932865/AYvPQ8RA.jpg" ],
+        "published" : [ "2013-03-23T07:07:59+00:00" ],
+        "uid" : [ "tag:twitter.com:loujaybee" ],
+        "url" : [ "https://twitter.com/loujaybee", "http://openupthecloud.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A topic not discussed enough in the \"get into cloud/tech\" circles is: \n\n* How do you gain _confidence_ to post online?\n* How do you \"network\" (read: make friends/add value)?\n\nFor some, social media, <a href=\"https://twitter.com/search?q=%23buildinpublic\">#buildinpublic</a> and networking doesn't come \"naturally\"...</div>",
+      "value" : "A topic not discussed enough in the \"get into cloud/tech\" circles is: \n\n* How do you gain _confidence_ to post online?\n* How do you \"network\" (read: make friends/add value)?\n\nFor some, social media, #buildinpublic and networking doesn't come \"naturally\"..."
+    } ],
+    "published" : [ "2021-12-21T13:57:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1473291450699943936" ],
+    "url" : [ "https://twitter.com/loujaybee/status/1473291450699943936" ]
+  },
+  "type" : [ "h-entry" ]
+}
