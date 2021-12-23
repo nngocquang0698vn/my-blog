@@ -1,5 +1,5 @@
 ---
-title: Announcing a new package: `@jamietanna/spectral-test-harness`
+title: 'Announcing a new package: `@jamietanna/spectral-test-harness`'
 description: Announcing a new NPM package for easier testing of Spectral API linting.
 tags:
 - spectral-test-harness
