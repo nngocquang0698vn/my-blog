@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Spotswood, New Jersey, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Joe Schwartz" ],
+          "nickname" : [ "designr66" ],
+          "numeric-id" : [ "17328486" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2140460643/Behance-head.jpg" ],
+          "published" : [ "2008-11-12T01:54:46+00:00" ],
+          "uid" : [ "tag:twitter.com:designr66" ],
+          "url" : [ "https://twitter.com/designr66", "http://www.behance.net/joeschwartz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FHOSOsdWYAIjKtM.jpg" ],
+      "published" : [ "2021-12-22T15:50:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1473682304027529217" ],
+      "url" : [ "https://twitter.com/designr66/status/1473682304027529217" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mariner Valley, Mars " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Expanse Geeks" ],
+        "nickname" : [ "TheExpanseGeeks" ],
+        "numeric-id" : [ "65048774" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355701137849126913/69NolbX9.jpg" ],
+        "published" : [ "2009-08-12T14:23:53+00:00" ],
+        "uid" : [ "tag:twitter.com:TheExpanseGeeks" ],
+        "url" : [ "https://twitter.com/TheExpanseGeeks", "https://www.facebook.com/groups/ExpanseGeeks/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">He is <a href=\"https://twitter.com/search?q=%23thatguy\">#thatguy</a> 🤓😆 \nWho wants that sweater? <a href=\"https://twitter.com/search?q=%23TheExpanse\">#TheExpanse</a></div>",
+      "value" : "He is #thatguy 🤓😆 \nWho wants that sweater? #TheExpanse"
+    } ],
+    "published" : [ "2021-12-22T16:21:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1473690230561648652" ],
+    "url" : [ "https://twitter.com/TheExpanseGeeks/status/1473690230561648652" ]
+  },
+  "type" : [ "h-entry" ]
+}
