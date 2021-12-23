@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/mamip_aws/stat…" ],
+        "url" : [ "https://twitter.com/mamip_aws/status/1473446177228087299" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Salt Lake City, UT" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Scott Piper" ],
+          "nickname" : [ "0xdabbad00" ],
+          "numeric-id" : [ "731608506" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1467570136034918404/NtJIHkgn.jpg" ],
+          "published" : [ "2012-08-01T22:38:37+00:00" ],
+          "uid" : [ "tag:twitter.com:0xdabbad00" ],
+          "url" : [ "https://twitter.com/0xdabbad00", "http://SummitRoute.com", "http://flaws.cloud" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "AWSSupportServiceRolePolicy just got s3:GetObject. 😱 That role is supposed to only have metadata visibility. <a href=\"https://twitter.com/AWSSecurityInfo\">@AWSSecurityInfo</a> you need to roll that back.\n<a class=\"tag\" href=\"https://twitter.com/mamip_aws/status/1473446177228087299\">twitter.com/mamip_aws/stat…</a>",
+        "value" : "AWSSupportServiceRolePolicy just got s3:GetObject. 😱 That role is supposed to only have metadata visibility. @AWSSecurityInfo you need to roll that back."
+      } ],
+      "published" : [ "2021-12-22T00:22:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1473448889948598275" ],
+      "url" : [ "https://twitter.com/0xdabbad00/status/1473448889948598275" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just to be clear here, this means that for a time <a href=\"https://twitter.com/awscloud\">@awscloud</a> support was able to read all of your S3 data. There is no mitigation; this role is mandatory. \n\nIf you had CloudTrail data events enabled, you can audit. If you didn’t, it may be time to declare a security incident. </div>",
+      "value" : "Just to be clear here, this means that for a time @awscloud support was able to read all of your S3 data. There is no mitigation; this role is mandatory. \n\nIf you had CloudTrail data events enabled, you can audit. If you didn’t, it may be time to declare a security incident. "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHOnfp1WYAUSkqA.jpg" ],
+    "published" : [ "2021-12-22T17:23:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1473705669517791253" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1473705669517791253" ]
+  },
+  "type" : [ "h-entry" ]
+}
