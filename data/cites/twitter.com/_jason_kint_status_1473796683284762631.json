@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "DC, NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Kint" ],
+        "nickname" : [ "jason_kint" ],
+        "numeric-id" : [ "75209239" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371678527360282627/kZFR40_7.jpg" ],
+        "published" : [ "2009-09-18T05:34:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jason_kint" ],
+        "url" : [ "https://twitter.com/jason_kint", "https://digitalcontentnext.org/about/overview/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ha. I hadn’t seen this. Well played timing by Johns Hopkins social media team. " ],
+    "published" : [ "2021-12-22T23:24:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1473796683284762631" ],
+    "url" : [ "https://twitter.com/jason_kint/status/1473796683284762631" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1473328330535583751/vid/720x720/GLOfkjQ0UOXz-RxR.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
