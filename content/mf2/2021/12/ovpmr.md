@@ -7,12 +7,12 @@
     "syndication" : [ "https://twitter.com/larsrosenquist/status/1469991420069040128" ],
     "name" : [ "Like of @larsrosenquist's tweet" ],
     "published" : [ "2021-12-13T08:54:00+0000" ],
-    "category" : [ "jar", "log4j" ],
+    "category" : [ "jar", "log4shell" ],
     "like-of" : [ "https://twitter.com/larsrosenquist/status/1469991420069040128" ],
     "post-status" : [ "published" ]
   },
   "kind" : "likes",
   "slug" : "2021/12/ovpmr",
-  "tags" : [ "jar", "log4j" ],
+  "tags" : [ "jar", "log4shell" ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }

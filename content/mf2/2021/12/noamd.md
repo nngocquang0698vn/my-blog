@@ -8,7 +8,7 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Reply to https://twitter.com/80vul/status/1468968891489857537" ],
     "published" : [ "2021-12-10T08:06:07.173724128Z" ],
-    "category" : [ "log4j" ],
+    "category" : [ "log4shell" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
@@ -17,6 +17,6 @@
   },
   "kind" : "replies",
   "slug" : "2021/12/noamd",
-  "tags" : [ "log4j" ],
+  "tags" : [ "log4shell" ],
   "client_id" : "https://www-editor.jvt.me"
 }
