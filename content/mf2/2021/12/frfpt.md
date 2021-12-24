@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RandomAssault/status/1474451911034220549" ],
     "name" : [ "Like of @RandomAssault's tweet" ],
     "published" : [ "2021-12-24T20:41:00+0000" ],
     "category" : [ "cute" ],
