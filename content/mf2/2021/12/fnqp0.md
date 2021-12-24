@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FrimblesFarm/status/1474134017091981315" ],
     "name" : [ "Like of @FrimblesFarm's tweet" ],
     "published" : [ "2021-12-24T23:23:00+0000" ],
     "category" : [ "christmas", "die-hard" ],
