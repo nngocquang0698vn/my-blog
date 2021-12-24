@@ -1,0 +1,43 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "M" ],
+          "nickname" : [ "seitimmer" ],
+          "numeric-id" : [ "1372697819325345794" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1411652945192628225/0S_Hlr8p.jpg" ],
+          "published" : [ "2021-03-18T23:54:10+00:00" ],
+          "uid" : [ "tag:twitter.com:seitimmer" ],
+          "url" : [ "https://twitter.com/seitimmer" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Von nem Freund der da arbeitet lol" ],
+      "published" : [ "2021-12-23T10:11:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1473959563279880200" ],
+      "url" : [ "https://twitter.com/seitimmer/status/1473959563279880200" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1473959536528666632/pu/vid/480x848/lR16ctRdXrszxdGY.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "mcc" ],
+        "nickname" : [ "mcclure111" ],
+        "numeric-id" : [ "312426579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR.jpg" ],
+        "published" : [ "2011-06-07T03:20:19+00:00" ],
+        "uid" : [ "tag:twitter.com:mcclure111" ],
+        "url" : [ "https://twitter.com/mcclure111", "http://runhello.com/", "http://mastodon.social/@mcc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This video is 12 seconds long and its narrative arc is breathtaking" ],
+    "published" : [ "2021-12-23T20:25:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1474113946776911881" ],
+    "url" : [ "https://twitter.com/mcclure111/status/1474113946776911881" ]
+  },
+  "type" : [ "h-entry" ]
+}
