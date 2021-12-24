@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "wrecks" ],
+          "nickname" : [ "oldredtree" ],
+          "numeric-id" : [ "25695779" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1461345467564912640/QUwC3Hrk.jpg" ],
+          "published" : [ "2009-03-21T16:52:08+00:00" ],
+          "uid" : [ "tag:twitter.com:oldredtree" ],
+          "url" : [ "https://twitter.com/oldredtree" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "got invited to an “alcohol-free christmas carol singalong”" ],
+      "photo" : [ "https://pbs.twimg.com/media/FHZ33Y3X0AAFfDr.jpg" ],
+      "published" : [ "2021-12-24T21:50:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1474497725290979328" ],
+      "url" : [ "https://twitter.com/oldredtree/status/1474497725290979328" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gRegor Morrill" ],
+        "nickname" : [ "gRegorLove" ],
+        "numeric-id" : [ "2788841" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1397073088907411456/KubnKK5O.jpg" ],
+        "published" : [ "2007-03-29T04:43:14+00:00" ],
+        "uid" : [ "tag:twitter.com:gRegorLove" ],
+        "url" : [ "https://twitter.com/gRegorLove", "https://gRegorLove.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "2022 new meme format just dropped:" ],
+    "published" : [ "2021-12-24T22:16:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1474504251418185734" ],
+    "url" : [ "https://twitter.com/gRegorLove/status/1474504251418185734" ]
+  },
+  "type" : [ "h-entry" ]
+}
