@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/Kickstarter/st…" ],
+        "url" : [ "https://twitter.com/Kickstarter/status/1468744619068436480" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kickstarter" ],
+          "nickname" : [ "Kickstarter" ],
+          "numeric-id" : [ "16186995" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1328805344676614151/ydeg3bId.jpg" ],
+          "published" : [ "2008-09-08T16:43:15+00:00" ],
+          "uid" : [ "tag:twitter.com:Kickstarter" ],
+          "url" : [ "https://twitter.com/Kickstarter", "http://kickstarter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "We know our community has a lot of questions about this new direction, including how it will benefit creators, and how we’ll stay true to our environmental commitments. We are listening. We’ve started an FAQ at <a href=\"http://kickstarter.com/protocol\">kickstarter.com/protocol</a> with what we’ve been asked the most.\n<a class=\"tag\" href=\"https://twitter.com/Kickstarter/status/1468744619068436480\">twitter.com/Kickstarter/st…</a>",
+        "value" : "We know our community has a lot of questions about this new direction, including how it will benefit creators, and how we’ll stay true to our environmental commitments. We are listening. We’ve started an FAQ at kickstarter.com/protocol with what we’ve been asked the most."
+      } ],
+      "published" : [ "2021-12-15T18:01:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1471178556034199555" ],
+      "url" : [ "https://twitter.com/Kickstarter/status/1471178556034199555" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ramsey Campbell's Liverpool" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Reppion" ],
+        "nickname" : [ "johnreppion" ],
+        "numeric-id" : [ "15155752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445858777673060359/mfemxKLC.jpg" ],
+        "published" : [ "2008-06-18T08:43:23+00:00" ],
+        "uid" : [ "tag:twitter.com:johnreppion" ],
+        "url" : [ "https://twitter.com/johnreppion", "https://www.moorereppion.com/greenknight", "http://helleborezine.bigcartel.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Carbon offsetting is like promising to have a baby for every person you murder." ],
+    "published" : [ "2021-12-16T10:59:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1471434788842180615" ],
+    "url" : [ "https://twitter.com/johnreppion/status/1471434788842180615" ]
+  },
+  "type" : [ "h-entry" ]
+}
