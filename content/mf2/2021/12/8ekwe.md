@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ohhoe/status/1474280974213079072" ],
     "name" : [ "Like of @ohhoe's tweet" ],
     "published" : [ "2021-12-24T08:18:00+0000" ],
     "category" : [ "tiktok", "the-mandalorian" ],
