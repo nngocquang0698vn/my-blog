@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1474522795707150341" ],
     "published" : [ "2021-12-24T23:24:00+0000" ],
     "category" : [ "christmas", "mental-health", "self-care" ],
     "repost-of" : [ "https://twitter.com/afilina/status/1474368792218198016" ],
