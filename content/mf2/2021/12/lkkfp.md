@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LandTanin/status/1474477207733088262" ],
     "name" : [ "Like of @LandTanin's tweet" ],
     "published" : [ "2021-12-24T20:42:00+0000" ],
     "category" : [ "coronavirus" ],
