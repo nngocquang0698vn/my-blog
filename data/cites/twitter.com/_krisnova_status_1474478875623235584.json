@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412996520769560579/Iaa1gcoL.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://nivenly.com/", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I started hitting them back - a lot of them were chinese and other foreign ASNs with strange ports open that would accept random connections 🤷🏻‍♀️\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bradfitz\"></a>",
+      "value" : "I started hitting them back - a lot of them were chinese and other foreign ASNs with strange ports open that would accept random connections 🤷🏻‍♀️"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bradfitz/status/1474472230696325121" ],
+    "published" : [ "2021-12-24T20:35:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1474478875623235584" ],
+    "url" : [ "https://twitter.com/krisnova/status/1474478875623235584" ]
+  },
+  "type" : [ "h-entry" ]
+}
