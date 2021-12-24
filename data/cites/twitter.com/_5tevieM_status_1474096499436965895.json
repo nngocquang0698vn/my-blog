@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stevie Martin" ],
+        "nickname" : [ "5tevieM" ],
+        "numeric-id" : [ "24408348" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312536180370608128/YNwmGIwe.jpg" ],
+        "published" : [ "2009-03-14T18:32:33+00:00" ],
+        "uid" : [ "tag:twitter.com:5tevieM" ],
+        "url" : [ "https://twitter.com/5tevieM", "https://avalonuk.com/clients/stevie-martin/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "buying food online" ],
+    "published" : [ "2021-12-23T19:16:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1474096499436965895" ],
+    "url" : [ "https://twitter.com/5tevieM/status/1474096499436965895" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1474096013942087680/pu/vid/1280x720/w7OaMheXJCckaOs2.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
