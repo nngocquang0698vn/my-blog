@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sameera" ],
+        "nickname" : [ "SamKap" ],
+        "numeric-id" : [ "24298886" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1449081935293304834/1sEA4XqM.jpg" ],
+        "published" : [ "2009-03-14T01:13:11+00:00" ],
+        "uid" : [ "tag:twitter.com:SamKap" ],
+        "url" : [ "https://twitter.com/SamKap", "http://samkapila.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My love language is removing tracking parts from URLs before sharing them." ],
+    "published" : [ "2021-09-21T17:42:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1440370956816424966" ],
+    "url" : [ "https://twitter.com/SamKap/status/1440370956816424966" ]
+  },
+  "type" : [ "h-entry" ]
+}
