@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Wright" ],
+        "nickname" : [ "JakeWrightUK" ],
+        "numeric-id" : [ "11457312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1452224117327945733/LjJ7Myfi.jpg" ],
+        "published" : [ "2007-12-23T17:30:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JakeWrightUK" ],
+        "url" : [ "https://twitter.com/JakeWrightUK", "https://jakewright.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The festive urge to eat everything in sight" ],
+    "published" : [ "2021-12-24T23:25:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1474521708140937218" ],
+    "url" : [ "https://twitter.com/JakeWrightUK/status/1474521708140937218" ]
+  },
+  "type" : [ "h-entry" ]
+}
