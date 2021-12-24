@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julietteyooo/status/1474478917939466241" ],
     "name" : [ "Like of @Julietteyooo's tweet" ],
     "published" : [ "2021-12-24T20:39:00+0000" ],
     "category" : [ "gaming", "memes" ],
