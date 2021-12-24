@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luca" ],
+        "nickname" : [ "blucaz" ],
+        "numeric-id" : [ "47085445" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/687334939/a.jpeg" ],
+        "published" : [ "2009-06-14T12:45:35+00:00" ],
+        "uid" : [ "tag:twitter.com:blucaz" ],
+        "url" : [ "https://twitter.com/blucaz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Just in time to be loaded on Santa's sleigh, we released <a href=\"https://twitter.com/search?q=%23systemd\">#systemd</a> v250! Coming soon to a Christmas tree near you... unless you've been naughty of course, in which case you'll only get a lump of shell scripts! <a href=\"https://github.com/systemd/systemd/releases/tag/v250\">github.com/systemd/system…</a>",
+      "value" : "Just in time to be loaded on Santa's sleigh, we released #systemd v250! Coming soon to a Christmas tree near you... unless you've been naughty of course, in which case you'll only get a lump of shell scripts! github.com/systemd/system…"
+    } ],
+    "published" : [ "2021-12-23T20:36:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1474116798119297034" ],
+    "url" : [ "https://twitter.com/blucaz/status/1474116798119297034" ]
+  },
+  "type" : [ "h-entry" ]
+}
