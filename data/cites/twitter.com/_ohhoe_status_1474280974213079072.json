@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341993238899675136/Mdwx35dR.jpg" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i am thankful for dumbass content like this" ],
+    "published" : [ "2021-12-24T07:29:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1474280974213079072" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1474280974213079072" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1474280894491942930/pu/vid/592x1280/-8P45QXl2otZMO15.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
