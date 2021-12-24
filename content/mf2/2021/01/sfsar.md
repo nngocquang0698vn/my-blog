@@ -1,6 +1,7 @@
 {
   "date" : "2021-01-05T23:21:00+0000",
-  "deleted" : false,
+  "deleted" : true,
+  "draft" : false,
   "h" : "h-entry",
   "properties" : {
     "syndication" : [ "https://twitter.com/Oh_its_joanna/status/1346455983179112448" ],
