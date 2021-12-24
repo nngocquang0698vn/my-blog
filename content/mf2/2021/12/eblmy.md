@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LouHaigh/status/1474096164865728517" ],
     "name" : [ "Like of @LouHaigh's tweet" ],
     "published" : [ "2021-12-24T22:54:00+0000" ],
     "category" : [ "christmas" ],
