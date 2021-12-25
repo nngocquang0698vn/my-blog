@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "he/she/they/it" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gov. Emilia Sinner 🎃 ❄" ],
+          "nickname" : [ "Sinners4Emily" ],
+          "numeric-id" : [ "1420200505045921793" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1468031083472211969/w7aFwY3L.jpg" ],
+          "published" : [ "2021-07-28T01:53:45+00:00" ],
+          "uid" : [ "tag:twitter.com:Sinners4Emily" ],
+          "url" : [ "https://twitter.com/Sinners4Emily", "https://linktr.ee/coconut_window" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "good morning" ],
+      "photo" : [ "https://pbs.twimg.com/media/FHI1wDOXEAAuOYo.jpg" ],
+      "published" : [ "2021-12-21T14:27:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1473299129887604744" ],
+      "url" : [ "https://twitter.com/Sinners4Emily/status/1473299129887604744" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rosa Astra" ],
+        "nickname" : [ "morganastra" ],
+        "numeric-id" : [ "1385638159" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/944439083874402304/C0TXz6w2.jpg" ],
+        "published" : [ "2013-04-27T22:48:56+00:00" ],
+        "uid" : [ "tag:twitter.com:morganastra" ],
+        "url" : [ "https://twitter.com/morganastra", "http://pronoun.is/she", "http://pronoun.is" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the way Minecraft fans have completely kicked Notch to the curb and removed him from the community is a model for what HP fans need to do with JKR" ],
+    "published" : [ "2021-12-22T00:25:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1473449611687698434" ],
+    "url" : [ "https://twitter.com/morganastra/status/1473449611687698434" ]
+  },
+  "type" : [ "h-entry" ]
+}
