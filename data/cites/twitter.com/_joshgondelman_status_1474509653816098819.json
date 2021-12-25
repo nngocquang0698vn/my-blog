@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Gondelman" ],
+        "nickname" : [ "joshgondelman" ],
+        "numeric-id" : [ "70111948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457723783452798981/9jVr6PKF.jpg" ],
+        "published" : [ "2009-08-30T12:40:22+00:00" ],
+        "uid" : [ "tag:twitter.com:joshgondelman" ],
+        "url" : [ "https://twitter.com/joshgondelman", "https://www.harpercollins.com/9780062959003/nice-try/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think technically we’re living in precedented times again, in that I was also cutting my own hair at home at this point last year." ],
+    "published" : [ "2021-12-24T22:37:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1474509653816098819" ],
+    "url" : [ "https://twitter.com/joshgondelman/status/1474509653816098819" ]
+  },
+  "type" : [ "h-entry" ]
+}
