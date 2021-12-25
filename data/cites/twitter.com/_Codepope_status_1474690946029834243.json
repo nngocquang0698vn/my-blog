@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dj Walker-Morgan" ],
+        "nickname" : [ "Codepope" ],
+        "numeric-id" : [ "617063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/463699445020753920/VMK46fLd.png" ],
+        "published" : [ "2007-01-09T09:05:12+00:00" ],
+        "uid" : [ "tag:twitter.com:Codepope" ],
+        "url" : [ "https://twitter.com/Codepope", "http://www.codepope.com/", "http://codepope.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Merry Christmas Doom Scroll and all those who etch upon it!" ],
+    "published" : [ "2021-12-25T10:38:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1474690946029834243" ],
+    "url" : [ "https://twitter.com/Codepope/status/1474690946029834243" ]
+  },
+  "type" : [ "h-entry" ]
+}
