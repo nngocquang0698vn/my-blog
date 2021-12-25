@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St Petersburg, FL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luke Bayes" ],
+        "nickname" : [ "lukebayes" ],
+        "numeric-id" : [ "14118801" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469826465084628995/lMxq_80e.jpg" ],
+        "published" : [ "2008-03-10T23:59:58+00:00" ],
+        "uid" : [ "tag:twitter.com:lukebayes" ],
+        "url" : [ "https://twitter.com/lukebayes", "https://lukebayes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The primary reason GitHub was so successful was because they namespaced repos behind the account name.\n\nThis made it incredibly easy and low pressure to experiment. Sourceforge and others required globally unique project names, which was a huge barrier to trying something new.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swyx\"></a>",
+      "value" : "The primary reason GitHub was so successful was because they namespaced repos behind the account name.\n\nThis made it incredibly easy and low pressure to experiment. Sourceforge and others required globally unique project names, which was a huge barrier to trying something new."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/swyx/status/1474697989713059841" ],
+    "published" : [ "2021-12-25T15:53:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1474770249702588417" ],
+    "url" : [ "https://twitter.com/lukebayes/status/1474770249702588417" ]
+  },
+  "type" : [ "h-entry" ]
+}
