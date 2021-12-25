@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Maclean" ],
+        "nickname" : [ "mgdm" ],
+        "numeric-id" : [ "5244631" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/909515714121359364/v-VPyZSv.jpg" ],
+        "published" : [ "2007-04-19T16:21:16+00:00" ],
+        "uid" : [ "tag:twitter.com:mgdm" ],
+        "url" : [ "https://twitter.com/mgdm", "http://mgdm.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ah, nice to be on holiday, at Christmas, where I can forget about what happ…" ],
+    "photo" : [ {
+      "alt" : "A photo of the back of a Blu-ray player, featuring the “Java Powered” logo",
+      "value" : "https://pbs.twimg.com/media/FHdKa8GXwAAHCcA.jpg"
+    } ],
+    "published" : [ "2021-12-25T13:11:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1474729437967044611" ],
+    "url" : [ "https://twitter.com/mgdm/status/1474729437967044611" ]
+  },
+  "type" : [ "h-entry" ]
+}
