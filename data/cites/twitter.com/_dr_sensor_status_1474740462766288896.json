@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DrsEnsor" ],
+        "nickname" : [ "dr_sensor" ],
+        "numeric-id" : [ "1025331659363610624" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1025332416213184512/IrqFl_ob.jpg" ],
+        "published" : [ "2018-08-03T10:44:52+00:00" ],
+        "uid" : [ "tag:twitter.com:dr_sensor" ],
+        "url" : [ "https://twitter.com/dr_sensor", "https://github.com/drsensor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If git won and GitHub fail:\n- Code review will be in Gerrit\n- PR replaced by patchset\n- issue/bug tracker replaced either by mailing-list or taskwarrior\n- SourceForge will be home for many OSS code\n\n+<a href=\"http://sourcehut.org\">sourcehut.org</a> is a good example of modernizing git classic workflow</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swyx\"></a>",
+      "value" : "If git won and GitHub fail:\n- Code review will be in Gerrit\n- PR replaced by patchset\n- issue/bug tracker replaced either by mailing-list or taskwarrior\n- SourceForge will be home for many OSS code\n\n+sourcehut.org is a good example of modernizing git classic workflow"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/swyx/status/1474697989713059841" ],
+    "published" : [ "2021-12-25T13:55:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1474740462766288896" ],
+    "url" : [ "https://twitter.com/dr_sensor/status/1474740462766288896" ]
+  },
+  "type" : [ "h-entry" ]
+}
