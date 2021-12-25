@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Laniakea Supercluster" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Earthling" ],
+          "nickname" : [ "ziyatong" ],
+          "numeric-id" : [ "948104532" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1164720962677297152/lLWyZByw.jpg" ],
+          "published" : [ "2012-11-14T17:03:42+00:00" ],
+          "uid" : [ "tag:twitter.com:ziyatong" ],
+          "url" : [ "https://twitter.com/ziyatong", "https://www.mcnallyjackson.com/book/9780735235588" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FHZyazZXIAAfADK.jpg" ],
+      "published" : [ "2021-12-24T21:26:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1474491736328126466" ],
+      "url" : [ "https://twitter.com/ziyatong/status/1474491736328126466" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396911855063519232/6H5EmEKe.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Where does John McClain fall on the Christmas spectrum?" ],
+    "published" : [ "2021-12-25T21:23:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1474853352588693504" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1474853352588693504" ]
+  },
+  "type" : [ "h-entry" ]
+}
