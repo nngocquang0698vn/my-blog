@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Aarhus, Danmark" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gustav Wengel" ],
+        "nickname" : [ "GeeWengel" ],
+        "numeric-id" : [ "760377889074376704" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438415143055110146/n7RT8DoY.jpg" ],
+        "published" : [ "2016-08-02T07:33:10+00:00" ],
+        "uid" : [ "tag:twitter.com:GeeWengel" ],
+        "url" : [ "https://twitter.com/GeeWengel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Pull requests predate Github though.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swyx\"></a>",
+      "value" : "Pull requests predate Github though."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/swyx/status/1474697989713059841" ],
+    "published" : [ "2021-12-25T12:47:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1474723585423982592" ],
+    "url" : [ "https://twitter.com/GeeWengel/status/1474723585423982592" ]
+  },
+  "type" : [ "h-entry" ]
+}
