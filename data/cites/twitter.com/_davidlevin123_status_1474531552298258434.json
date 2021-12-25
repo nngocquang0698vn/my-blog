@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Levin" ],
+        "nickname" : [ "davidlevin123" ],
+        "numeric-id" : [ "23784178" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/976821819150950400/Ih8vho7M.jpg" ],
+        "published" : [ "2009-03-11T16:13:51+00:00" ],
+        "uid" : [ "tag:twitter.com:davidlevin123" ],
+        "url" : [ "https://twitter.com/davidlevin123", "http://www.instagram.com/davidlevin_123" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My mate’s cousin, Matt, is quite laterally a genius. Praise be to his lateral flow church…" ],
+    "photo" : [ "https://pbs.twimg.com/media/FHaWoSAXsA0GByP.jpg" ],
+    "published" : [ "2021-12-25T00:04:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1474531552298258434" ],
+    "url" : [ "https://twitter.com/davidlevin123/status/1474531552298258434" ]
+  },
+  "type" : [ "h-entry" ]
+}
