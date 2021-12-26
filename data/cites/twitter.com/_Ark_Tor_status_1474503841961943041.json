@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Edward" ],
+        "nickname" : [ "Ark_Tor" ],
+        "numeric-id" : [ "293836348" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/702030156374781952/NX8Jvm13.jpg" ],
+        "published" : [ "2011-05-06T02:08:52+00:00" ],
+        "uid" : [ "tag:twitter.com:Ark_Tor" ],
+        "url" : [ "https://twitter.com/Ark_Tor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://www.themarysue.com/cops-arrest-the-grinch-copaganda/\">themarysue.com/cops-arrest-th…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RCMPNL\"></a>",
+      "value" : "themarysue.com/cops-arrest-th…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RCMPNL/status/1474356707283382276" ],
+    "published" : [ "2021-12-24T22:14:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1474503841961943041" ],
+    "url" : [ "https://twitter.com/Ark_Tor/status/1474503841961943041" ]
+  },
+  "type" : [ "h-entry" ]
+}
