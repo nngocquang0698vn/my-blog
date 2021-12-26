@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Baltimore, MD" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bucky with the Good Arm" ],
+        "nickname" : [ "benjancewicz" ],
+        "numeric-id" : [ "14216617" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1386507747991109632/z6CnJFsX.jpg" ],
+        "published" : [ "2008-03-25T16:20:19+00:00" ],
+        "uid" : [ "tag:twitter.com:benjancewicz" ],
+        "url" : [ "https://twitter.com/benjancewicz", "https://BenJancewicz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Remember kids, your differences will be shamed and ridiculed until they can turn a profit." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Baltimore, MD" ],
+        "uid" : [ "tag:twitter.com:c0b8e8dc81930292" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHi-wPtWUAEorET.jpg" ],
+    "published" : [ "2021-12-26T16:17:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1475138619232985089" ],
+    "url" : [ "https://twitter.com/benjancewicz/status/1475138619232985089" ]
+  },
+  "type" : [ "h-entry" ]
+}
