@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Menlo Park, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ceej \"Cat-Warmed\" Silverio" ],
+        "nickname" : [ "ceejbot" ],
+        "numeric-id" : [ "78663" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/857590885743116288/izm__c9I.jpg" ],
+        "published" : [ "2006-12-18T23:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:ceejbot" ],
+        "url" : [ "https://twitter.com/ceejbot", "http://ceejbot.tumblr.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“Open source maintainers are effectively unpaid outsourcing teams for giant corporations.”\n\n<a href=\"https://dev.to/yawaramin/the-human-toll-of-log4j-maintenance-35ap\">dev.to/yawaramin/the-…</a></div>",
+      "value" : "“Open source maintainers are effectively unpaid outsourcing teams for giant corporations.”\n\ndev.to/yawaramin/the-…"
+    } ],
+    "published" : [ "2021-12-25T17:45:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1474798435228258304" ],
+    "url" : [ "https://twitter.com/ceejbot/status/1474798435228258304" ]
+  },
+  "type" : [ "h-entry" ]
+}
