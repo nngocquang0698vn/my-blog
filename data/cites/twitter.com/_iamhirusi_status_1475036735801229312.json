@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ru" ],
+        "nickname" : [ "iamhirusi" ],
+        "numeric-id" : [ "1252888172700119041" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1430163508377837579/_rWiDLoM.jpg" ],
+        "published" : [ "2020-04-22T09:14:03+00:00" ],
+        "uid" : [ "tag:twitter.com:iamhirusi" ],
+        "url" : [ "https://twitter.com/iamhirusi", "https://rusingh.com", "http://fosstodon.org/@celia", "http://rusingh.com/feeds/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Use <a href=\"https://twitter.com/search?q=%23Docker\">#Docker</a> a lot? Should I be getting 16 or 32 GB memory? With Docker for Windows, I struggle with 16 GB RAM. On Linux, I never break that 12-13 GB barrier of my 16.\n\nWhat should I be expecting on an MBP 14/16?\n\n<a href=\"https://twitter.com/search?q=%23apple\">#apple</a> <a href=\"https://twitter.com/search?q=%23advice\">#advice</a> <a href=\"https://twitter.com/search?q=%23mbp\">#mbp</a> <a href=\"https://twitter.com/search?q=%23macbook\">#macbook</a></div>",
+      "value" : "Use #Docker a lot? Should I be getting 16 or 32 GB memory? With Docker for Windows, I struggle with 16 GB RAM. On Linux, I never break that 12-13 GB barrier of my 16.\n\nWhat should I be expecting on an MBP 14/16?\n\n#apple #advice #mbp #macbook"
+    } ],
+    "published" : [ "2021-12-26T09:32:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1475036735801229312" ],
+    "url" : [ "https://twitter.com/iamhirusi/status/1475036735801229312" ]
+  },
+  "type" : [ "h-entry" ]
+}
