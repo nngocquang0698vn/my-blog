@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Global" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "PinkNews" ],
+          "nickname" : [ "PinkNews" ],
+          "numeric-id" : [ "27987687" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/875364846258225152/IlI2URdW.jpg" ],
+          "published" : [ "2009-03-31T23:01:38+00:00" ],
+          "uid" : [ "tag:twitter.com:PinkNews" ],
+          "url" : [ "https://twitter.com/PinkNews", "http://pink.news" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Vladimir Putin uses annual four-hour speech to attack trans people for no reason other than hate  <a href=\"https://www.pinknews.co.uk/2021/12/24/vladimir-putin-russia-trans-coronavirus-pandemic/\">pinknews.co.uk/2021/12/24/vla…</a>",
+        "value" : "Vladimir Putin uses annual four-hour speech to attack trans people for no reason other than hate  pinknews.co.uk/2021/12/24/vla…"
+      } ],
+      "published" : [ "2021-12-25T16:42:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1474782489277308930" ],
+      "url" : [ "https://twitter.com/PinkNews/status/1474782489277308930" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/pinknews/statu…" ],
+      "url" : [ "https://twitter.com/pinknews/status/1474782489277308930" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katherine O'Donnell" ],
+        "nickname" : [ "kathy__odonnell" ],
+        "numeric-id" : [ "258864323" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/507502108888018945/O6-yGtDY.jpeg" ],
+        "published" : [ "2011-02-28T17:30:33+00:00" ],
+        "uid" : [ "tag:twitter.com:kathy__odonnell" ],
+        "url" : [ "https://twitter.com/kathy__odonnell" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Calling all gender criticals and other transphobes! \nGuess who’s on your team?\nGuess who quotes JK Rowling?\nWhy it’s your favourite despot, President Putin of the Russian Federation.\nDo you feel seen? \nI think you do.</div>\n<a class=\"tag\" href=\"https://twitter.com/pinknews/status/1474782489277308930\">twitter.com/pinknews/statu…</a>",
+      "value" : "Calling all gender criticals and other transphobes! \nGuess who’s on your team?\nGuess who quotes JK Rowling?\nWhy it’s your favourite despot, President Putin of the Russian Federation.\nDo you feel seen? \nI think you do."
+    } ],
+    "published" : [ "2021-12-25T16:51:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1474784793887973379" ],
+    "url" : [ "https://twitter.com/kathy__odonnell/status/1474784793887973379" ]
+  },
+  "type" : [ "h-entry" ]
+}
