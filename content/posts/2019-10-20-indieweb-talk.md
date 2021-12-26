@@ -358,4 +358,4 @@ In terms of what to start with? [IndieWebify.Me has a good guide](https://indiew
 
 But at the same time, don't feel daunted thinking you need to implement this all yourself for the IndieWeb experience. There's already a tonne of support out there, with projects such as [Known](https://withknown.com/), [Micro.blog](https://micro.blog) or various plugins and themes for WordPress that make it possible to be IndieWeb-ified out-of-the-box!
 
-You may also be interested in reading my post [_Why I Have a Website and You Should Too_](/posts/2019/07/22/why-website.md/) which doesn't focus on the social IndieWeb angle of it, just why you'd want to be publishing data on your own site.
+You may also be interested in reading my post [_Why I Have a Website and You Should Too_](/posts/2019/07/22/why-website/) which doesn't focus on the social IndieWeb angle of it, just why you'd want to be publishing data on your own site.
