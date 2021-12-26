@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rajat Suresh" ],
+        "nickname" : [ "rajat_suresh" ],
+        "numeric-id" : [ "82085511" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1221209331787583489/lU3_VwYV.jpg" ],
+        "published" : [ "2009-10-13T12:49:05+00:00" ],
+        "uid" : [ "tag:twitter.com:rajat_suresh" ],
+        "url" : [ "https://twitter.com/rajat_suresh", "https://rajatsuresh.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the scene from the matrix with the belts fucking rules" ],
+    "published" : [ "2021-12-22T00:55:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1473457161346949126" ],
+    "url" : [ "https://twitter.com/rajat_suresh/status/1473457161346949126" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1473456794198548481/pu/vid/1280x720/bDSS9SsKgRUGHIKk.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
