@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "WWW" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "APIs You Won't Hate" ],
+        "nickname" : [ "apisyouwonthate" ],
+        "numeric-id" : [ "3872196551" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163517307873837057/tV6D2Rq6.jpg" ],
+        "published" : [ "2015-10-05T15:28:25+00:00" ],
+        "uid" : [ "tag:twitter.com:apisyouwonthate" ],
+        "url" : [ "https://twitter.com/apisyouwonthate", "https://apisyouwonthate.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The goal for our community blog is to have a range of voices showing how to do all sorts of API tasks. We’ve gone down the rabbit-hole of super niche OpenAPI things due to the nature of <a href=\"https://twitter.com/philsturgeon\">@philsturgeon</a>‘s work over the last few years, but time to open it up again. Write for us!",
+      "value" : "The goal for our community blog is to have a range of voices showing how to do all sorts of API tasks. We’ve gone down the rabbit-hole of super niche OpenAPI things due to the nature of @philsturgeon‘s work over the last few years, but time to open it up again. Write for us!"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Pucklechurch, England" ],
+        "uid" : [ "tag:twitter.com:1a3427f7727c9555" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2021-12-26T11:25:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1475065217897934855" ],
+    "url" : [ "https://twitter.com/apisyouwonthate/status/1475065217897934855" ]
+  },
+  "type" : [ "h-entry" ]
+}
