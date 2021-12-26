@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Tilling" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Farmer Jones" ],
+          "nickname" : [ "thefarmerjones" ],
+          "numeric-id" : [ "39801402" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1090021381381726210/wQwhp4ms.jpg" ],
+          "published" : [ "2009-05-13T17:44:11+00:00" ],
+          "uid" : [ "tag:twitter.com:thefarmerjones" ],
+          "url" : [ "https://twitter.com/thefarmerjones", "https://www.goodreads.com/book/show/882588.King_James" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<a href=\"https://www.gawker.com/culture/the-future-is-useless-expensive/\">gawker.com/culture/the-fu…</a>",
+        "value" : "gawker.com/culture/the-fu…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FHOGkX-XwAozciI.jpg" ],
+      "published" : [ "2021-12-22T14:59:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1473669466974302213" ],
+      "url" : [ "https://twitter.com/thefarmerjones/status/1473669466974302213" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the absurd" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scarlett 🔪" ],
+        "nickname" : [ "ScarlettMiracle" ],
+        "numeric-id" : [ "1125139735104638983" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472668374463401988/g8rDPBeL.jpg" ],
+        "published" : [ "2019-05-05T20:46:31+00:00" ],
+        "uid" : [ "tag:twitter.com:ScarlettMiracle" ],
+        "url" : [ "https://twitter.com/ScarlettMiracle", "https://www.patreon.com/scarlettmiracle" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this part kicks ass " ],
+    "photo" : [ {
+      "alt" : "This is how NFTs make me feel: like the future is useless but expensive, and world-altering technology is now in the hands of a culture so aesthetically and spiritually impoverished that it should maybe go back to telling stories around the cooking fire for a while, just to remember how to mean something.\n\n",
+      "value" : "https://pbs.twimg.com/media/FHfHHdCWUAoJu8n.png"
+    } ],
+    "published" : [ "2021-12-25T22:15:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1474866339630227458" ],
+    "url" : [ "https://twitter.com/ScarlettMiracle/status/1474866339630227458" ]
+  },
+  "type" : [ "h-entry" ]
+}
