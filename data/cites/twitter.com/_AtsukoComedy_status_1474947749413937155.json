@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Atsuko Okatsuka" ],
+        "nickname" : [ "AtsukoComedy" ],
+        "numeric-id" : [ "566931882" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293046038912098309/3biubZXs.jpg" ],
+        "published" : [ "2012-04-30T02:40:21+00:00" ],
+        "uid" : [ "tag:twitter.com:AtsukoComedy" ],
+        "url" : [ "https://twitter.com/AtsukoComedy", "https://linktr.ee/Atsuko" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My Grandma got <a href=\"https://twitter.com/ryanharpergray\">@ryanharpergray</a> a Nintendo Switch then immediately threatened him 😂",
+      "value" : "My Grandma got @ryanharpergray a Nintendo Switch then immediately threatened him 😂"
+    } ],
+    "published" : [ "2021-12-26T03:38:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1474947749413937155" ],
+    "url" : [ "https://twitter.com/AtsukoComedy/status/1474947749413937155" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1474947685622812678/pu/vid/720x1280/MGQt1WCom98kKRh0.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
