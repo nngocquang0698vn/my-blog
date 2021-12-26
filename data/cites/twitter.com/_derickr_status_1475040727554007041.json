@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Derick Rethans" ],
+        "nickname" : [ "derickr" ],
+        "numeric-id" : [ "14310583" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1048547436887789569/CxjKr0mt.jpg" ],
+        "published" : [ "2008-04-05T14:57:01+00:00" ],
+        "uid" : [ "tag:twitter.com:derickr" ],
+        "url" : [ "https://twitter.com/derickr", "https://derickrethans.nl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I wonder how <a href=\"https://twitter.com/bagder\">@bagder</a> convinced Wokingham Borough Council to name a street after Curl.",
+      "value" : "I wonder how @bagder convinced Wokingham Borough Council to name a street after Curl."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Wokingham, England" ],
+        "uid" : [ "tag:twitter.com:2cc20622ca18c2f6" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHhlt35XEAcXwI1.jpg" ],
+    "published" : [ "2021-12-26T09:48:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1475040727554007041" ],
+    "url" : [ "https://twitter.com/derickr/status/1475040727554007041" ]
+  },
+  "type" : [ "h-entry" ]
+}
