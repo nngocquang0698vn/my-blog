@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Wilcox 🌴" ],
+        "nickname" : [ "jeffwilcox" ],
+        "numeric-id" : [ "5435752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1255004996988354561/ggUJecd-.jpg" ],
+        "published" : [ "2007-04-23T15:21:49+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffwilcox" ],
+        "url" : [ "https://twitter.com/jeffwilcox", "https://jeffwilcox.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I didn't ask for HackerNews karma for Christmas, but here I am explaining open source licensing and forking to my extended family on FaceTime." ],
+    "published" : [ "2021-12-25T21:02:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1474848111994437636" ],
+    "url" : [ "https://twitter.com/jeffwilcox/status/1474848111994437636" ]
+  },
+  "type" : [ "h-entry" ]
+}
