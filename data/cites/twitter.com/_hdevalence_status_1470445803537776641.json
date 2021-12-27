@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the machinic phylum" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "henry 🌘" ],
+        "nickname" : [ "hdevalence" ],
+        "numeric-id" : [ "529148230" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1187219482294411264/TRUnbKar.jpg" ],
+        "published" : [ "2012-03-19T06:12:13+00:00" ],
+        "uid" : [ "tag:twitter.com:hdevalence" ],
+        "url" : [ "https://twitter.com/hdevalence", "https://calendly.com/hdevalence/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the most important thing about the log4j incident is that it’s clear and incontrovertible evidence in support of whatever beliefs i already have about software development" ],
+    "published" : [ "2021-12-13T17:29:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1470445803537776641" ],
+    "url" : [ "https://twitter.com/hdevalence/status/1470445803537776641" ]
+  },
+  "type" : [ "h-entry" ]
+}
