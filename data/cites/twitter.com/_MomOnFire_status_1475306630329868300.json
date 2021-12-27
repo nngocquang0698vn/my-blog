@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Antonio TEXAS" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Burning Mom" ],
+        "nickname" : [ "MomOnFire" ],
+        "numeric-id" : [ "247481582" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1462543730452410368/3MGJAC-Q.jpg" ],
+        "published" : [ "2011-02-04T22:04:25+00:00" ],
+        "uid" : [ "tag:twitter.com:MomOnFire" ],
+        "url" : [ "https://twitter.com/MomOnFire", "https://mobile.twitter.com/search?q=from%3A%40momonfire%2Fexclude%3Areplies" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Sometimes I zone out and don't listen when people are talking, and then when it's my turn I say, \"That's very Kafka-esque.\" No one knows what that means, but they won't admit it, so they just nod." ],
+    "published" : [ "2021-12-27T03:24:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1475306630329868300" ],
+    "url" : [ "https://twitter.com/MomOnFire/status/1475306630329868300" ]
+  },
+  "type" : [ "h-entry" ]
+}
