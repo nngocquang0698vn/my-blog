@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tierney Cyren, the Cosmic Equine" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433091103318814723/fuQwkhru.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TikTok now has a pronouns field, very closely mimicking the Instagram implementation.\n\nI am… surprised.</div>",
+      "value" : "TikTok now has a pronouns field, very closely mimicking the Instagram implementation.\n\nI am… surprised."
+    } ],
+    "photo" : [ {
+      "alt" : "Screenshot of the pronouns option in the Edit Profile UI.",
+      "value" : "https://pbs.twimg.com/media/FHmmxKfXIAY57zX.jpg"
+    }, {
+      "alt" : "Pronoun selection UI, allowing you to choose up to four pronouns as tags.",
+      "value" : "https://pbs.twimg.com/media/FHmmxKhXEAETwC3.jpg"
+    }, {
+      "alt" : "Display on a profile, with the pronouns under your display name.",
+      "value" : "https://pbs.twimg.com/media/FHmmxKfXMAM9Wd8.jpg"
+    } ],
+    "published" : [ "2021-12-27T09:10:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1475393719247458311" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1475393719247458311" ]
+  },
+  "type" : [ "h-entry" ]
+}
