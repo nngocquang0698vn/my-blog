@@ -1,0 +1,20 @@
+---
+title: Open Source Projects I Maintain
+---
+There are a few Free and Open Source projects that I maintain:
+
+- [Spectral Test Harness](https://gitlab.com/jamietanna/spectral-test-harness)
+- [Cucumber Reporting Plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin)
+- [RSVP Calendar](https://gitlab.com/jamietanna/rsvp-calendar)
+- [Gherkin Formatter](https://gitlab.com/jamietanna/gherkin-formatter)
+- [books-mf2](https://gitlab.com/jamietanna/books-mf2)
+- [meetup-mf2](https://gitlab.com/jamietanna/meetup-mf2)
+- [eventbrite-mf2](https://gitlab.com/jamietanna/eventbrite-mf2)
+- [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin/)
+- [tokens-pls](https://gitlab.com/jamietanna/tokens-pls)
+- [indieauth-postman](https://gitlab.com/jamietanna/indieauth-postman)
+- [micropub-postman](https://gitlab.com/jamietanna/micropub-postman)
+- [jwks-ical](https://gitlab.com/jamietanna/jwks-ical)
+- [media-type](https://gitlab.com/jamietanna/media-type)
+- [content-negotiation](https://gitlab.com/jamietanna/content-negotiation)
+- [multiple-read-servlet](https://gitlab.com/jamietanna/multiple-read-servlet)

@@ -226,6 +226,12 @@ notAlternative = true
     title = "Salary History"
     url = "/salary/"
     weight = 46
+  [[menu.footer]]
+    identifier = "open-source"
+    name = "Open Source Projects I Maintain"
+    title = "Open Source Projects I Maintain"
+    url = "/open-source/"
+    weight = 50
 
 [deployment]
 [[deployment.targets]]
