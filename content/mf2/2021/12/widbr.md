@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1475850042682621959" ],
     "published" : [ "2021-12-28T15:17:00+0000" ],
     "category" : [ "star-trek", "2020", "2021" ],
     "repost-of" : [ "https://twitter.com/NoContextTrek/status/1475481749153107976" ],
