@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "suggestions/requests via dm" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "star wars incorrect quotes" ],
+          "nickname" : [ "starwarsposting" ],
+          "numeric-id" : [ "1642181060" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1349757270024986626/YZXmqXlm.jpg" ],
+          "published" : [ "2013-08-03T06:07:01+00:00" ],
+          "uid" : [ "tag:twitter.com:starwarsposting" ],
+          "url" : [ "https://twitter.com/starwarsposting" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "today marks 5 years since carrie fisher passed away. share with us some of your favorite carrie moments to remember her today 🤍" ],
+      "photo" : [ "https://pbs.twimg.com/media/FHnfYuPXEAEpqkS.jpg" ],
+      "published" : [ "2021-12-27T13:18:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1475455973921857548" ],
+      "url" : [ "https://twitter.com/starwarsposting/status/1475455973921857548" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "17 • she/her • bi" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "caitlin misses carrie #lukestan" ],
+        "nickname" : [ "SITHLEIAS" ],
+        "numeric-id" : [ "851956547513077760" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474872848573349889/-Uwo598z.jpg" ],
+        "published" : [ "2017-04-12T00:34:04+00:00" ],
+        "uid" : [ "tag:twitter.com:SITHLEIAS" ],
+        "url" : [ "https://twitter.com/SITHLEIAS", "http://alderaans.carrd.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "when she gave a cow tongue inside of a tiffany box to a producer who sexually assaulted her friend and left a note that said “if you ever touch my darling heather or any other woman again, the next delivery will be something of yours in a much smaller box”" ],
+    "published" : [ "2021-12-27T15:39:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1475491551010721792" ],
+    "url" : [ "https://twitter.com/SITHLEIAS/status/1475491551010721792" ]
+  },
+  "type" : [ "h-entry" ]
+}
