@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Poindexter" ],
+        "nickname" : [ "engineering_bae" ],
+        "numeric-id" : [ "876448351268380672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1447943097661415430/QCnZ8Uof.jpg" ],
+        "published" : [ "2017-06-18T14:35:45+00:00" ],
+        "uid" : [ "tag:twitter.com:engineering_bae" ],
+        "url" : [ "https://twitter.com/engineering_bae", "http://poindexter.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Stumbled across this picture from a Spartan race I did years ago and I’m still mildly obsessed with it." ],
+    "photo" : [ "https://pbs.twimg.com/media/FHqJ6Z8WQAoTvWY.jpg" ],
+    "published" : [ "2021-12-28T01:43:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1475643471293825029" ],
+    "url" : [ "https://twitter.com/engineering_bae/status/1475643471293825029" ]
+  },
+  "type" : [ "h-entry" ]
+}
