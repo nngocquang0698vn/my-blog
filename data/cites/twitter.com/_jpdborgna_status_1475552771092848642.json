@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Juan Pablo Daniel" ],
+        "nickname" : [ "jpdborgna" ],
+        "numeric-id" : [ "15563081" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1167678237289472001/JuKeiSet.jpg" ],
+        "published" : [ "2008-07-23T14:21:42+00:00" ],
+        "uid" : [ "tag:twitter.com:jpdborgna" ],
+        "url" : [ "https://twitter.com/jpdborgna", "http://www.ekoparty.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How old were you when realized that grep was g/re/p ? I'm 39" ],
+    "published" : [ "2021-12-27T19:42:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1475552771092848642" ],
+    "url" : [ "https://twitter.com/jpdborgna/status/1475552771092848642" ]
+  },
+  "type" : [ "h-entry" ]
+}
