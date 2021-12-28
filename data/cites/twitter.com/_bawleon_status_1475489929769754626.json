@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Honolulu, Hawaii" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Star-Advertiser" ],
+          "nickname" : [ "StarAdvertiser" ],
+          "numeric-id" : [ "126424795" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1299529883203239936/lPXKeXyZ.jpg" ],
+          "published" : [ "2010-03-25T20:54:58+00:00" ],
+          "uid" : [ "tag:twitter.com:StarAdvertiser" ],
+          "url" : [ "https://twitter.com/StarAdvertiser", "https://www.staradvertiser.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : ".<a href=\"https://twitter.com/Facebook\">@Facebook</a> founder buys more <a href=\"https://twitter.com/search?q=%23Kauai\">#Kauai</a> land, including Ka Loko Reservoir <a href=\"https://808ne.ws/3eq7mtf\">808ne.ws/3eq7mtf</a>",
+        "value" : ".@Facebook founder buys more #Kauai land, including Ka Loko Reservoir 808ne.ws/3eq7mtf"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FHjq8MRXoAY8v6j.jpg" ],
+      "published" : [ "2021-12-26T19:30:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1475187200543371268" ],
+      "url" : [ "https://twitter.com/StarAdvertiser/status/1475187200543371268" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Central Pennsylvania" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Keggoat" ],
+        "nickname" : [ "bawleon" ],
+        "numeric-id" : [ "863940451681882114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1283229213366124545/rkT53JLm.jpg" ],
+        "published" : [ "2017-05-15T02:13:49+00:00" ],
+        "uid" : [ "tag:twitter.com:bawleon" ],
+        "url" : [ "https://twitter.com/bawleon", "http://www.furaffinity.net/user/bawleon/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Reminder: Zuckerberg actually formed a fake business designed to trick Hawaiians into selling their land to him by making them think they were selling it to a Hawaiian owned farm, when in reality there was no farm and they were selling the land to a fucking haole." ],
+    "published" : [ "2021-12-27T15:33:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1475489929769754626" ],
+    "url" : [ "https://twitter.com/bawleon/status/1475489929769754626" ]
+  },
+  "type" : [ "h-entry" ]
+}
