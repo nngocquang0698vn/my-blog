@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Serra Abak" ],
+        "nickname" : [ "serraabak" ],
+        "numeric-id" : [ "28229205" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472647333816909827/owwzhiyo.jpg" ],
+        "published" : [ "2009-04-01T23:45:29+00:00" ],
+        "uid" : [ "tag:twitter.com:serraabak" ],
+        "url" : [ "https://twitter.com/serraabak", "http://www.serraabak.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I never realized how lucky I was to not have to deal with log4j until I tried to make a joke about it to my boyfriend over the holidays and he looked like he was about to cry 😟" ],
+    "published" : [ "2021-12-28T16:00:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1475859170393878529" ],
+    "url" : [ "https://twitter.com/serraabak/status/1475859170393878529" ]
+  },
+  "type" : [ "h-entry" ]
+}
