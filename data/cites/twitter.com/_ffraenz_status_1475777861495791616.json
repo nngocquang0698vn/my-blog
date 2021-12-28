@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Luxembourg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Friends" ],
+        "nickname" : [ "ffraenz" ],
+        "numeric-id" : [ "43298329" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1456389178061570082/OmaK1HX0.jpg" ],
+        "published" : [ "2009-05-29T08:40:36+00:00" ],
+        "uid" : [ "tag:twitter.com:ffraenz" ],
+        "url" : [ "https://twitter.com/ffraenz", "https://fraenz.frieder.es" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I've finally done the switch from Chromium to <a href=\"https://twitter.com/search?q=%23Firefox\">#Firefox</a> as my daily driver and I couldn't be happier. It is such an important <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> project and it needs your support, too. <a href=\"https://www.mozilla.org/firefox/\">mozilla.org/firefox/</a>",
+      "value" : "I've finally done the switch from Chromium to #Firefox as my daily driver and I couldn't be happier. It is such an important #OpenSource project and it needs your support, too. mozilla.org/firefox/"
+    } ],
+    "published" : [ "2021-12-28T10:37:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1475777861495791616" ],
+    "url" : [ "https://twitter.com/ffraenz/status/1475777861495791616" ]
+  },
+  "type" : [ "h-entry" ]
+}
