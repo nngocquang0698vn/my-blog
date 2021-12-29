@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lgranger21/status/1476286154768932867" ],
     "name" : [ "Like of @lgranger21's tweet" ],
     "published" : [ "2021-12-29T22:23:00+0000" ],
     "like-of" : [ "https://twitter.com/lgranger21/status/1476286154768932867" ],
