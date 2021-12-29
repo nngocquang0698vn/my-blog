@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Economist" ],
+          "nickname" : [ "TheEconomist" ],
+          "numeric-id" : [ "5988062" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-.jpg" ],
+          "published" : [ "2007-05-12T13:04:50+00:00" ],
+          "uid" : [ "tag:twitter.com:TheEconomist" ],
+          "url" : [ "https://twitter.com/TheEconomist", "http://www.economist.com", "http://bit.ly/3cTCz7v" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The pandemic is like a doorway. Once you pass through, there is no going back <a href=\"https://econ.st/3DZ5DFK\">econ.st/3DZ5DFK</a>",
+        "value" : "The pandemic is like a doorway. Once you pass through, there is no going back econ.st/3DZ5DFK"
+      } ],
+      "published" : [ "2021-12-28T09:25:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1475759750310731781" ],
+      "url" : [ "https://twitter.com/TheEconomist/status/1475759750310731781" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/theeconomist/s…" ],
+      "url" : [ "https://twitter.com/theeconomist/status/1475759750310731781" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottinghamshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hannah Rose Woods" ],
+        "nickname" : [ "hannahrosewoods" ],
+        "numeric-id" : [ "91656941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1216746166429372418/h3jHC770.jpg" ],
+        "published" : [ "2009-11-21T21:25:47+00:00" ],
+        "uid" : [ "tag:twitter.com:hannahrosewoods" ],
+        "url" : [ "https://twitter.com/hannahrosewoods", "http://smarturl.it/rulenostalgia" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I am begging you to think for a moment about your experience of using doors\n<a class=\"tag\" href=\"https://twitter.com/theeconomist/status/1475759750310731781\">twitter.com/theeconomist/s…</a>",
+      "value" : "I am begging you to think for a moment about your experience of using doors"
+    } ],
+    "published" : [ "2021-12-28T22:22:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1475955240126095360" ],
+    "url" : [ "https://twitter.com/hannahrosewoods/status/1475955240126095360" ]
+  },
+  "type" : [ "h-entry" ]
+}
