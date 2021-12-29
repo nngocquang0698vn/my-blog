@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Paris, France" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "API Handyman 💉💉" ],
+          "nickname" : [ "apihandyman" ],
+          "numeric-id" : [ "2943613557" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+          "published" : [ "2014-12-27T11:25:37+00:00" ],
+          "uid" : [ "tag:twitter.com:apihandyman" ],
+          "url" : [ "https://twitter.com/apihandyman", "http://apihandyman.io/", "http://bit.ly/designwebapis" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Choosing interoperable and user-friendly ids and codes is a must do when designing an API <a href=\"https://apihandyman.io/how-to-choose-ids-and-codes-to-build-userfriendly-and-interoperable-apis/\">apihandyman.io/how-to-choose-…</a> <a href=\"https://twitter.com/search?q=%23apidesign\">#apidesign</a>",
+        "value" : "Choosing interoperable and user-friendly ids and codes is a must do when designing an API apihandyman.io/how-to-choose-… #apidesign"
+      } ],
+      "published" : [ "2021-12-29T10:26:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1476137609353207808" ],
+      "url" : [ "https://twitter.com/apihandyman/status/1476137609353207808" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman 💉💉" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "http://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">40 weekly posts in a row! 😱🎉🥳 \nMany thanks to all people I have worked with doing hundreds of reviews and workshops and also readers asking questions. I couldn’t write all that without you. </div>",
+      "value" : "40 weekly posts in a row! 😱🎉🥳 \nMany thanks to all people I have worked with doing hundreds of reviews and workshops and also readers asking questions. I couldn’t write all that without you. "
+    } ],
+    "published" : [ "2021-12-29T20:23:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1476287734662717442" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1476287734662717442" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FHzT3eLXMAg1beF.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
