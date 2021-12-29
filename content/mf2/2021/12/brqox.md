@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/varcharr/status/1476202067551297541" ],
     "name" : [ "Like of @varcharr's tweet" ],
     "published" : [ "2021-12-29T22:24:00+0000" ],
     "like-of" : [ "https://twitter.com/varcharr/status/1476202067551297541" ],
