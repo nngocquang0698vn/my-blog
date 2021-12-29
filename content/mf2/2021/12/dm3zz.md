@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LilahSturges/status/1476253575366029323" ],
     "name" : [ "Like of @LilahSturges's tweet" ],
     "published" : [ "2021-12-29T22:11:00+0000" ],
     "like-of" : [ "https://twitter.com/LilahSturges/status/1476253575366029323" ],
