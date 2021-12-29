@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bower Power" ],
+        "nickname" : [ "So_Truculent" ],
+        "numeric-id" : [ "47464417" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/856334261913362432/n9VMJxKp.jpg" ],
+        "published" : [ "2009-06-15T22:28:40+00:00" ],
+        "uid" : [ "tag:twitter.com:So_Truculent" ],
+        "url" : [ "https://twitter.com/So_Truculent" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is no time for jokes, there’s a headline writer stuck in the Economist’s offices.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheEconomist\"></a>",
+      "value" : "This is no time for jokes, there’s a headline writer stuck in the Economist’s offices."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/TheEconomist/status/1475759750310731781" ],
+    "published" : [ "2021-12-28T11:30:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1475791349878521857" ],
+    "url" : [ "https://twitter.com/So_Truculent/status/1475791349878521857" ]
+  },
+  "type" : [ "h-entry" ]
+}
