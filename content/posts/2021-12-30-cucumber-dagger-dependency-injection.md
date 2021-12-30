@@ -186,4 +186,4 @@ As mentioned in [_Lightweight and Powerful Dependency Injection for JVM-based Ap
 
 Notice that there's no first-class support in Cucumber's dependency tree - this is because Dagger configuration is very personal to the project, so there's no out-of-the-box way to do it.
 
-I'm going to look at working with others on the Cucumber team to see if there's a way we can do this, and even if it's not first-class support, there may be a way we can produce a dependency that makes it easier to utilise.
+I'm going to [look at working with others on the Cucumber team](https://github.com/cucumber/cucumber-jvm/issues/2448) to see if there's a way we can do this, and even if it's not first-class support, there may be a way we can produce a dependency that makes it easier to utilise.
