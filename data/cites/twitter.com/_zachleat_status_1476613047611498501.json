@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corey Quinn" ],
+          "nickname" : [ "QuinnyPig" ],
+          "numeric-id" : [ "97114171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+          "published" : [ "2009-12-16T02:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:QuinnyPig" ],
+          "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Let me be clear: I think the company is molten garbage, but that's a very different thing than dunking on the humans who work there. \n\nI don't want to be remembered for a lack of empathy towards other people.</div>",
+        "value" : "Let me be clear: I think the company is molten garbage, but that's a very different thing than dunking on the humans who work there. \n\nI don't want to be remembered for a lack of empathy towards other people."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1476372236776849408" ],
+      "published" : [ "2021-12-30T02:17:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1476376884418002944" ],
+      "url" : [ "https://twitter.com/QuinnyPig/status/1476376884418002944" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/quinnypig/stat…" ],
+      "url" : [ "https://twitter.com/quinnypig/status/1476376884418002944" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Zach Leatherman" ],
+        "nickname" : [ "zachleat" ],
+        "numeric-id" : [ "96383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196791261233111040/iWVjazhO.jpg" ],
+        "published" : [ "2006-12-21T04:49:19+00:00" ],
+        "uid" : [ "tag:twitter.com:zachleat" ],
+        "url" : [ "https://twitter.com/zachleat", "https://www.zachleat.com", "http://11ty.dev", "http://netlify.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "👍🏻 For folks looking for concrete and impactful steps they can take that aren’t personal: divest from using Facebook tech in your projects. Vote with your tech stack.\n<a class=\"tag\" href=\"https://twitter.com/quinnypig/status/1476376884418002944\">twitter.com/quinnypig/stat…</a>",
+      "value" : "👍🏻 For folks looking for concrete and impactful steps they can take that aren’t personal: divest from using Facebook tech in your projects. Vote with your tech stack."
+    } ],
+    "published" : [ "2021-12-30T17:55:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1476613047611498501" ],
+    "url" : [ "https://twitter.com/zachleat/status/1476613047611498501" ]
+  },
+  "type" : [ "h-entry" ]
+}
