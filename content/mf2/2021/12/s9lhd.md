@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zachleat/status/1476613047611498501" ],
     "name" : [ "Like of @zachleat's tweet" ],
     "published" : [ "2021-12-30T22:11:00+0000" ],
     "category" : [ "ethics", "open-source", "facebook" ],
