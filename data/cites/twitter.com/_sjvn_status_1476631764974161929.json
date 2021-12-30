@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Asheville, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven J. Vaughan-Nichols" ],
+        "nickname" : [ "sjvn" ],
+        "numeric-id" : [ "11099982" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307712256004759552/L-Xh6dfx.jpg" ],
+        "published" : [ "2007-12-12T19:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:sjvn" ],
+        "url" : [ "https://twitter.com/sjvn", "https://www.zdnet.com/meet-the-team/us/steven-j-vaughan-nichols/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One More Log4j Security Hole Before the New Year via <a href=\"https://twitter.com/thenewstack\">@thenewstack</a> &amp; <a href=\"https://twitter.com/sjvn\">@sjvn</a> \n\nYou didn't really want to go to that New Years Party anyway did you? It's time to patch vulnerable <a href=\"https://twitter.com/search?q=%23log4j2\">#log4j2</a> libraries one more time. <a href=\"https://twitter.com/search?q=%23Security\">#Security</a></div>",
+      "value" : "One More Log4j Security Hole Before the New Year via @thenewstack & @sjvn \n\nYou didn't really want to go to that New Years Party anyway did you? It's time to patch vulnerable #log4j2 libraries one more time. #Security"
+    } ],
+    "published" : [ "2021-12-30T19:10:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1476631764974161929" ],
+    "url" : [ "https://twitter.com/sjvn/status/1476631764974161929" ]
+  },
+  "type" : [ "h-entry" ]
+}
