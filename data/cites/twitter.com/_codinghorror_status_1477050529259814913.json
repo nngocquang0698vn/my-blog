@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Washington Post" ],
+          "nickname" : [ "washingtonpost" ],
+          "numeric-id" : [ "2467791" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2.jpg" ],
+          "published" : [ "2007-03-27T11:19:39+00:00" ],
+          "uid" : [ "tag:twitter.com:washingtonpost" ],
+          "url" : [ "https://twitter.com/washingtonpost", "http://washingtonpost.com", "https://wapo.st/3p2kk6G" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Gambling boom in 2021 sets new record after pandemic slump <a href=\"https://wapo.st/3HnZfKe\">wapo.st/3HnZfKe</a>",
+        "value" : "Gambling boom in 2021 sets new record after pandemic slump wapo.st/3HnZfKe"
+      } ],
+      "published" : [ "2021-12-31T22:28:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1477043907737366533" ],
+      "url" : [ "https://twitter.com/washingtonpost/status/1477043907737366533" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Atwood" ],
+        "nickname" : [ "codinghorror" ],
+        "numeric-id" : [ "5637652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246568020991864832/hh4FVqbl.jpg" ],
+        "published" : [ "2007-04-29T20:50:37+00:00" ],
+        "uid" : [ "tag:twitter.com:codinghorror" ],
+        "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "yes, I know, cryptocurrencies are hot right now" ],
+    "published" : [ "2021-12-31T22:54:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1477050529259814913" ],
+    "url" : [ "https://twitter.com/codinghorror/status/1477050529259814913" ]
+  },
+  "type" : [ "h-entry" ]
+}
