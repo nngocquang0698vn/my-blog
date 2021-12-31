@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dundee, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul {Atreides} Wood" ],
+        "nickname" : [ "SuperRetroid" ],
+        "numeric-id" : [ "154545301" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1136016460227026946/-XwuP0zx.png" ],
+        "published" : [ "2010-06-11T14:38:43+00:00" ],
+        "uid" : [ "tag:twitter.com:SuperRetroid" ],
+        "url" : [ "https://twitter.com/SuperRetroid" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "CAN'T WAIT FOR THE <a href=\"https://twitter.com/search?q=%23NEWYEAR\">#NEWYEAR</a>",
+      "value" : "CAN'T WAIT FOR THE #NEWYEAR"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FH9QAW4XsAI4MBY.jpg" ],
+    "published" : [ "2021-12-31T18:43:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1476987322046496768" ],
+    "url" : [ "https://twitter.com/SuperRetroid/status/1476987322046496768" ]
+  },
+  "type" : [ "h-entry" ]
+}
