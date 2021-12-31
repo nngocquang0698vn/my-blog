@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/pfhllnts/statu…" ],
+        "url" : [ "https://twitter.com/pfhllnts/status/1476563360657326086" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Jan-Piet Mens" ],
+          "nickname" : [ "jpmens" ],
+          "numeric-id" : [ "18669708" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1342797784848748545/xF8pMuZq.jpg" ],
+          "published" : [ "2009-01-06T10:44:20+00:00" ],
+          "uid" : [ "tag:twitter.com:jpmens" ],
+          "url" : [ "https://twitter.com/jpmens", "https://jpmens.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Everyone except I has known this for ages, but I’ve adapted and have given up correcting people who said ‘SSL’. <a href=\"https://twitter.com/search?q=%23zeroFucks\">#zeroFucks</a>\n<a class=\"tag\" href=\"https://twitter.com/pfhllnts/status/1476563360657326086\">twitter.com/pfhllnts/statu…</a>",
+        "value" : "Everyone except I has known this for ages, but I’ve adapted and have given up correcting people who said ‘SSL’. #zeroFucks"
+      } ],
+      "published" : [ "2021-12-31T18:17:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1476980745151430661" ],
+      "url" : [ "https://twitter.com/jpmens/status/1476980745151430661" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Robᵉʳᵗ Graham" ],
+        "nickname" : [ "ErrataRob" ],
+        "numeric-id" : [ "15300995" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1765729789/image1326952644.png" ],
+        "published" : [ "2008-07-02T19:35:55+00:00" ],
+        "uid" : [ "tag:twitter.com:ErrataRob" ],
+        "url" : [ "https://twitter.com/ErrataRob", "http://erratasec.blogspot.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's name is TLS (Transport Layer Security).\nIt's called SSL (Secure Socket Layer).\nIt is network encryption.\nIt's name is called Haddock's Eyes.</div>",
+      "value" : "It's name is TLS (Transport Layer Security).\nIt's called SSL (Secure Socket Layer).\nIt is network encryption.\nIt's name is called Haddock's Eyes."
+    } ],
+    "published" : [ "2021-12-31T18:20:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1476981631806328833" ],
+    "url" : [ "https://twitter.com/ErrataRob/status/1476981631806328833" ]
+  },
+  "type" : [ "h-entry" ]
+}
