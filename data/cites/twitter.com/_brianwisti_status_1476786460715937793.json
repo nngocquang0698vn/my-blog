@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bits and bytes" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam" ],
+          "nickname" : [ "adamghill" ],
+          "numeric-id" : [ "19916195" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1261369479/5293_1144503986143_1633822442_355408_6219605_n.jpg" ],
+          "published" : [ "2009-02-02T16:57:55+00:00" ],
+          "uid" : [ "tag:twitter.com:adamghill" ],
+          "url" : [ "https://twitter.com/adamghill", "https://adamghill.com/", "http://devmarks.io", "http://django-unicorn.com", "http://python-utils.com", "http://unsuckjs.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Vaguely considering automatically syncing RSS feeds in <a href=\"http://devmarks.io\">devmarks.io</a>. But, does anyone actually use RSS anymore?! 😅",
+        "value" : "Vaguely considering automatically syncing RSS feeds in devmarks.io. But, does anyone actually use RSS anymore?! 😅"
+      } ],
+      "published" : [ "2021-12-31T05:21:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1476785568608628756" ],
+      "url" : [ "https://twitter.com/adamghill/status/1476785568608628756" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I *know* I got a few RSS fans in my mutuals. Some of them aren't even old white dudes." ],
+    "published" : [ "2021-12-31T05:25:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1476786460715937793" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1476786460715937793" ]
+  },
+  "type" : [ "h-entry" ]
+}
