@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Best City 🌉 " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "NeoNacho" ],
+        "nickname" : [ "NeoNacho" ],
+        "numeric-id" : [ "10341052" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/839830093686050816/c1WsoCk8.jpg" ],
+        "published" : [ "2007-11-17T21:10:40+00:00" ],
+        "uid" : [ "tag:twitter.com:NeoNacho" ],
+        "url" : [ "https://twitter.com/NeoNacho", "http://buegling.com/contact/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Angry Garak from Deep Space Nine:\n\n“Two years — what a waste these past two years have been.”",
+      "value" : "https://pbs.twimg.com/media/FH0qNX1UYAME6A8.jpg"
+    } ],
+    "published" : [ "2021-12-30T02:40:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1476382665330728960" ],
+    "url" : [ "https://twitter.com/NeoNacho/status/1476382665330728960" ]
+  },
+  "type" : [ "h-entry" ]
+}
