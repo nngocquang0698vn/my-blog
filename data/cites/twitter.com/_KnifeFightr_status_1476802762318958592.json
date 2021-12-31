@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nowhere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Snotrocket" ],
+        "nickname" : [ "KnifeFightr" ],
+        "numeric-id" : [ "1202768123037925376" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467420089477652487/56RfcYts.jpg" ],
+        "published" : [ "2019-12-06T01:54:13+00:00" ],
+        "uid" : [ "tag:twitter.com:KnifeFightr" ],
+        "url" : [ "https://twitter.com/KnifeFightr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "dictating others existences isn't good for you\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SpaceBojack\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jesusdersupajew\"></a>",
+      "value" : "dictating others existences isn't good for you"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SpaceBojack/status/1476721352803504135" ],
+    "published" : [ "2021-12-31T06:29:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1476802762318958592" ],
+    "url" : [ "https://twitter.com/KnifeFightr/status/1476802762318958592" ]
+  },
+  "type" : [ "h-entry" ]
+}
