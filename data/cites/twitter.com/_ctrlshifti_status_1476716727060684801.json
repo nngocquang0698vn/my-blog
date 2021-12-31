@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/ctrlshifti/sta…" ],
+        "url" : [ "https://twitter.com/ctrlshifti/status/1476430316201934851" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Simulation" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Daniel Wallen" ],
+          "nickname" : [ "WebWallen" ],
+          "numeric-id" : [ "1158404535418839040" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1296597982905798656/k1o0lGUY.jpg" ],
+          "published" : [ "2019-08-05T15:48:58+00:00" ],
+          "uid" : [ "tag:twitter.com:WebWallen" ],
+          "url" : [ "https://twitter.com/WebWallen", "https://www.danielwallen.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Given this logic, aren't the true heroes folks who work hard to reform these companies from within. 🤔\n<a class=\"tag\" href=\"https://twitter.com/ctrlshifti/status/1476430316201934851\">twitter.com/ctrlshifti/sta…</a>",
+        "value" : "Given this logic, aren't the true heroes folks who work hard to reform these companies from within. 🤔"
+      } ],
+      "published" : [ "2021-12-31T00:45:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1476716134577676295" ],
+      "url" : [ "https://twitter.com/WebWallen/status/1476716134577676295" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gadigal land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Maddox" ],
+        "nickname" : [ "ctrlshifti" ],
+        "numeric-id" : [ "1047644343874465792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1365414681754574849/PygWqtod.jpg" ],
+        "published" : [ "2018-10-04T00:27:30+00:00" ],
+        "uid" : [ "tag:twitter.com:ctrlshifti" ],
+        "url" : [ "https://twitter.com/ctrlshifti", "https://ko-fi.com/katmaddox", "http://leftalign.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "good people don't reform bad companies. bad companies reform good people" ],
+    "published" : [ "2021-12-31T00:47:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1476716727060684801" ],
+    "url" : [ "https://twitter.com/ctrlshifti/status/1476716727060684801" ]
+  },
+  "type" : [ "h-entry" ]
+}
