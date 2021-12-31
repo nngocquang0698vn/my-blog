@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Colin Landforce 🛠" ],
+        "nickname" : [ "landforce" ],
+        "numeric-id" : [ "2534227495" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343030969712840705/AjKy-pxa.jpg" ],
+        "published" : [ "2014-05-30T05:18:08+00:00" ],
+        "uid" : [ "tag:twitter.com:landforce" ],
+        "url" : [ "https://twitter.com/landforce", "http://builders.build" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">DoorDash is rolling out a program where everyone on their team does a delivery at least once a month.\n\nSome of their engineers, who make upwards of $400k, are outraged that they will have to actually use the product that they build.\n\nBunch of losers.</div>",
+      "value" : "DoorDash is rolling out a program where everyone on their team does a delivery at least once a month.\n\nSome of their engineers, who make upwards of $400k, are outraged that they will have to actually use the product that they build.\n\nBunch of losers."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Portland, OR" ],
+        "uid" : [ "tag:twitter.com:ac88a4f17a51c7fc" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHZInlZVQAAgIYn.jpg" ],
+    "published" : [ "2021-12-24T18:24:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1474445775539081218" ],
+    "url" : [ "https://twitter.com/landforce/status/1474445775539081218" ]
+  },
+  "type" : [ "h-entry" ]
+}
