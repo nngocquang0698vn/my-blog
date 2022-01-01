@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "brandon sheffield" ],
+          "nickname" : [ "necrosofty" ],
+          "numeric-id" : [ "182370042" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1286956636/bleh.jpg" ],
+          "published" : [ "2010-08-24T12:54:53+00:00" ],
+          "uid" : [ "tag:twitter.com:necrosofty" ],
+          "url" : [ "https://twitter.com/necrosofty", "http://www.necrosoftgames.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This is the quote right here" ],
+      "in-reply-to" : [ "https://twitter.com/necrosofty/status/1477146246011711490" ],
+      "photo" : [ "https://pbs.twimg.com/media/FH_-kdtVUAEcjj4.jpg" ],
+      "published" : [ "2022-01-01T07:25:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1477179107343736834" ],
+      "url" : [ "https://twitter.com/necrosofty/status/1477179107343736834" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Quinns 🚤" ],
+        "nickname" : [ "Quinns108" ],
+        "numeric-id" : [ "26884913" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/505092928687992832/Ne16eswG.jpeg" ],
+        "published" : [ "2009-03-26T23:22:24+00:00" ],
+        "uid" : [ "tag:twitter.com:Quinns108" ],
+        "url" : [ "https://twitter.com/Quinns108", "http://www.shutupandsitdown.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">2021: Wow this year sucked but 2022 will be an invigorating fresh start\n\nHour 1 of 2022: The president of Square Enix declares the end of fun</div>",
+      "value" : "2021: Wow this year sucked but 2022 will be an invigorating fresh start\n\nHour 1 of 2022: The president of Square Enix declares the end of fun"
+    } ],
+    "published" : [ "2022-01-01T10:52:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1477231201865895939" ],
+    "url" : [ "https://twitter.com/Quinns108/status/1477231201865895939" ]
+  },
+  "type" : [ "h-entry" ]
+}
