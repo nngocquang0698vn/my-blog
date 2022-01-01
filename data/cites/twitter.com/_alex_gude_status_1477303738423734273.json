@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bay Area, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jeff Atwood" ],
+          "nickname" : [ "codinghorror" ],
+          "numeric-id" : [ "5637652" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1246568020991864832/hh4FVqbl.jpg" ],
+          "published" : [ "2007-04-29T20:50:37+00:00" ],
+          "uid" : [ "tag:twitter.com:codinghorror" ],
+          "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "here's a recommendable new years resolution: donate in support of the critical open source tools you rely on. We do this at <a href=\"https://twitter.com/discourse\">@discourse</a> every year.",
+        "value" : "here's a recommendable new years resolution: donate in support of the critical open source tools you rely on. We do this at @discourse every year."
+      } ],
+      "published" : [ "2021-12-31T00:27:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1476711516569178115" ],
+      "url" : [ "https://twitter.com/codinghorror/status/1476711516569178115" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "High-dimensional Latent Space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Gude" ],
+        "nickname" : [ "alex_gude" ],
+        "numeric-id" : [ "745085457646526465" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/745090106722156544/t16yGQfo.jpg" ],
+        "published" : [ "2016-06-21T02:46:30+00:00" ],
+        "uid" : [ "tag:twitter.com:alex_gude" ],
+        "url" : [ "https://twitter.com/alex_gude", "https://alexgude.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As an engineer, <a href=\"https://twitter.com/Neovim\">@Neovim</a> is critical infrastructure for my productivity, so I set up a monthly donation a few years ago through GitHub.\n\nIt's great to be able to support a project that I rely on! ☺️</div>",
+      "value" : "As an engineer, @Neovim is critical infrastructure for my productivity, so I set up a monthly donation a few years ago through GitHub.\n\nIt's great to be able to support a project that I rely on! ☺️"
+    } ],
+    "published" : [ "2022-01-01T15:40:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1477303738423734273" ],
+    "url" : [ "https://twitter.com/alex_gude/status/1477303738423734273" ]
+  },
+  "type" : [ "h-entry" ]
+}
