@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "mx claws" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "*sheds skin*\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/emilyst\"></a>",
+      "value" : "*sheds skin*"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/emilyst/status/1477135697270038529" ],
+    "published" : [ "2022-01-01T04:47:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1477139343030427649" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1477139343030427649" ]
+  },
+  "type" : [ "h-entry" ]
+}
