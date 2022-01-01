@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gregor Suttie | T-Shaped Azure Architect ™" ],
+        "nickname" : [ "gregor_suttie" ],
+        "numeric-id" : [ "3460241" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1450105823485698049/ImDgQca0.jpg" ],
+        "published" : [ "2007-04-04T20:41:35+00:00" ],
+        "uid" : [ "tag:twitter.com:gregor_suttie" ],
+        "url" : [ "https://twitter.com/gregor_suttie", "https://linktr.ee/gregor.suttie", "http://YouTube.com/GregorSuttie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It’s the first day of a new month and a new year! - check your cloud spend, your certs haven’t expired, update your hard coded webpage footers / and twitter headlines / anything else you hard coded to 2021. \n\nHave an awesome day!</div>",
+      "value" : "It’s the first day of a new month and a new year! - check your cloud spend, your certs haven’t expired, update your hard coded webpage footers / and twitter headlines / anything else you hard coded to 2021. \n\nHave an awesome day!"
+    } ],
+    "published" : [ "2022-01-01T11:17:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1477237627183157249" ],
+    "url" : [ "https://twitter.com/gregor_suttie/status/1477237627183157249" ]
+  },
+  "type" : [ "h-entry" ]
+}
