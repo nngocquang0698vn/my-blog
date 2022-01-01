@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Atwood" ],
+        "nickname" : [ "codinghorror" ],
+        "numeric-id" : [ "5637652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246568020991864832/hh4FVqbl.jpg" ],
+        "published" : [ "2007-04-29T20:50:37+00:00" ],
+        "uid" : [ "tag:twitter.com:codinghorror" ],
+        "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "here's a recommendable new years resolution: donate in support of the critical open source tools you rely on. We do this at <a href=\"https://twitter.com/discourse\">@discourse</a> every year.",
+      "value" : "here's a recommendable new years resolution: donate in support of the critical open source tools you rely on. We do this at @discourse every year."
+    } ],
+    "published" : [ "2021-12-31T00:27:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1476711516569178115" ],
+    "url" : [ "https://twitter.com/codinghorror/status/1476711516569178115" ]
+  },
+  "type" : [ "h-entry" ]
+}
