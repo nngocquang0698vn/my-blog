@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Savvas Kλeanthous" ],
+        "nickname" : [ "SKleanthous" ],
+        "numeric-id" : [ "384839483" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/660135190648504320/E384PlvP.jpg" ],
+        "published" : [ "2011-10-04T12:28:33+00:00" ],
+        "uid" : [ "tag:twitter.com:SKleanthous" ],
+        "url" : [ "https://twitter.com/SKleanthous", "https://blog.bulloak.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hyrmn\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hyrmn/status/1477145620666322946" ],
+    "photo" : [ "https://pbs.twimg.com/media/FH_8sK6XMAA7Orj.jpg" ],
+    "published" : [ "2022-01-01T07:17:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1477177040981868545" ],
+    "url" : [ "https://twitter.com/SKleanthous/status/1477177040981868545" ]
+  },
+  "type" : [ "h-entry" ]
+}
