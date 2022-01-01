@@ -1,0 +1,16 @@
+{
+  "date" : "2022-01-01T12:27:00+0000",
+  "deleted" : false,
+  "draft" : false,
+  "h" : "h-entry",
+  "properties" : {
+    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "name" : [ "Like of @ariela1122's tweet" ],
+    "published" : [ "2022-01-01T12:27:00+0000" ],
+    "like-of" : [ "https://twitter.com/ariela1122/status/1476600217285939200" ],
+    "post-status" : [ "published" ]
+  },
+  "kind" : "likes",
+  "slug" : "2022/01/gexr4",
+  "client_id" : "https://indigenous.marksuth.dev/"
+}
