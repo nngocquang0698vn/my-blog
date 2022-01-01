@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319649316965736451/-XOCbnFu.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My word for 2022 is Gratitude.\n\nWhat's yours?</div>",
+      "value" : "My word for 2022 is Gratitude.\n\nWhat's yours?"
+    } ],
+    "published" : [ "2022-01-01T17:32:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1477331855154159620" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1477331855154159620" ]
+  },
+  "type" : [ "h-entry" ]
+}
