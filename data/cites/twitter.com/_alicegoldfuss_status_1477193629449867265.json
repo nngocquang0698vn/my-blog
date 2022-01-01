@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "mx claws" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">ME: welp, it's 2022\nBRAIN: you will never see another year that doesn't have a zero in it\nME:\nME: lol bedtime</div>",
+      "value" : "ME: welp, it's 2022\nBRAIN: you will never see another year that doesn't have a zero in it\nME:\nME: lol bedtime"
+    } ],
+    "published" : [ "2022-01-01T08:23:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1477193629449867265" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1477193629449867265" ]
+  },
+  "type" : [ "h-entry" ]
+}
