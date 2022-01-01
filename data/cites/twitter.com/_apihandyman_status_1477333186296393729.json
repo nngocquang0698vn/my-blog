@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman 💉💉" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "http://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "API new year! May all your POST /wishes return 200 OK" ],
+    "published" : [ "2022-01-01T17:37:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1477333186296393729" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1477333186296393729" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FICKstrXMAAEh2A.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
