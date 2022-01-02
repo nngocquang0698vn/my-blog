@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Finland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@mikko" ],
+        "nickname" : [ "mikko" ],
+        "numeric-id" : [ "23566038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E.jpg" ],
+        "published" : [ "2009-03-10T06:53:11+00:00" ],
+        "uid" : [ "tag:twitter.com:mikko" ],
+        "url" : [ "https://twitter.com/mikko", "https://mikko.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We had a server crash, ie. a tower case physically tipped over and crashed to the floor. We improved our data center set up somewhat after that.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/strandjs\"></a>",
+      "value" : "We had a server crash, ie. a tower case physically tipped over and crashed to the floor. We improved our data center set up somewhat after that."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/strandjs/status/1477337477656502276" ],
+    "published" : [ "2022-01-02T14:25:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1477647129132904455" ],
+    "url" : [ "https://twitter.com/mikko/status/1477647129132904455" ]
+  },
+  "type" : [ "h-entry" ]
+}
