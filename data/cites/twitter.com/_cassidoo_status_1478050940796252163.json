@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassidy" ],
+        "nickname" : [ "cassidoo" ],
+        "numeric-id" : [ "400286802" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471241948853936132/1d5PR5ge.jpg" ],
+        "published" : [ "2011-10-28T19:54:25+00:00" ],
+        "uid" : [ "tag:twitter.com:cassidoo" ],
+        "url" : [ "https://twitter.com/cassidoo", "http://cassidoo.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I have news!!\n\nI'm joining <a href=\"https://twitter.com/remote\">@remote</a> as their Head of Developer Experience and Education! ✨</div>",
+      "value" : "I have news!!\n\nI'm joining @remote as their Head of Developer Experience and Education! ✨"
+    } ],
+    "published" : [ "2022-01-03T17:09:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1478050940796252163" ],
+    "url" : [ "https://twitter.com/cassidoo/status/1478050940796252163" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1478050876740849664/pu/vid/720x1280/CgqWELKhZr7wTrPz.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
