@@ -1,0 +1,39 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471968543897960454/Ruz1Ez9u.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Your timeline is just a <a href=\"https://twitter.com/jenkinsci\">@jenkinsci</a> pipeline with some flaky and hence unstable tests 🤪🤗\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rawkode\"></a>",
+      "value" : "Your timeline is just a @jenkinsci pipeline with some flaky and hence unstable tests 🤪🤗"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rawkode/status/1477984433764540422" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Neuchâtel, Switzerland" ],
+        "uid" : [ "tag:twitter.com:dfbf4ce81da97883" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FIMG3S4XEAEmsp6.jpg" ],
+    "published" : [ "2022-01-03T15:56:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1478032652527706115" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1478032652527706115" ]
+  },
+  "type" : [ "h-entry" ]
+}
