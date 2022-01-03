@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🎆🧁 Mark Dalgleish" ],
+        "nickname" : [ "markdalgleish" ],
+        "numeric-id" : [ "257765996" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1.jpg" ],
+        "published" : [ "2011-02-26T03:41:25+00:00" ],
+        "uid" : [ "tag:twitter.com:markdalgleish" ],
+        "url" : [ "https://twitter.com/markdalgleish" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "API design is product design." ],
+    "published" : [ "2022-01-03T07:54:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1477911157486669826" ],
+    "url" : [ "https://twitter.com/markdalgleish/status/1477911157486669826" ]
+  },
+  "type" : [ "h-entry" ]
+}
