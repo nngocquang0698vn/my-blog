@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1477948872131497985" ],
     "published" : [ "2022-01-03T10:18:00+0000" ],
     "category" : [ "coronavirus" ],
     "repost-of" : [ "https://twitter.com/DrEricLevi/status/1477057391212449793" ],
