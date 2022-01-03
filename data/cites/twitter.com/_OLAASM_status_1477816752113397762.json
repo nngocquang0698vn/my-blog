@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "D.C. – N.Y.C." ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Scott Bixby" ],
+          "nickname" : [ "scottbix" ],
+          "numeric-id" : [ "148116121" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1276564139406737409/F-wyVd6X.jpg" ],
+          "published" : [ "2010-05-25T22:01:27+00:00" ],
+          "uid" : [ "tag:twitter.com:scottbix" ],
+          "url" : [ "https://twitter.com/scottbix", "https://www.thedailybeast.com/author/scott-bixby" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The White House press briefing room is being reduced to only fourteen seats due to concerns about omicron, effective tomorrow, per the <a href=\"https://twitter.com/whca\">@whca</a>.",
+        "value" : "The White House press briefing room is being reduced to only fourteen seats due to concerns about omicron, effective tomorrow, per the @whca."
+      } ],
+      "published" : [ "2022-01-03T01:03:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1477807872746606597" ],
+      "url" : [ "https://twitter.com/scottbix/status/1477807872746606597" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "#ACAB" ],
+        "nickname" : [ "OLAASM" ],
+        "numeric-id" : [ "456794981" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364973153240289283/nGPyW3CB.jpg" ],
+        "published" : [ "2012-01-06T17:29:44+00:00" ],
+        "uid" : [ "tag:twitter.com:OLAASM" ],
+        "url" : [ "https://twitter.com/OLAASM", "https://www.patreon.com/OLAASM" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If Psaki won't even go into the same room with more than 14 triple-vaxxed, regularly tested and masked people, you shouldn't have to go to work and you definitely shouldn't send your kids to school." ],
+    "published" : [ "2022-01-03T01:39:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1477816752113397762" ],
+    "url" : [ "https://twitter.com/OLAASM/status/1477816752113397762" ]
+  },
+  "type" : [ "h-entry" ]
+}
