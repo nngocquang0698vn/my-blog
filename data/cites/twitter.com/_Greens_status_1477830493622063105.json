@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Australian Greens" ],
+        "nickname" : [ "Greens" ],
+        "numeric-id" : [ "7900732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392667500614062089/d7eoflel.jpg" ],
+        "published" : [ "2007-08-02T06:05:44+00:00" ],
+        "uid" : [ "tag:twitter.com:Greens" ],
+        "url" : [ "https://twitter.com/Greens", "https://greens.org.au" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Rapid Antigen Tests should be free." ],
+    "published" : [ "2022-01-03T02:33:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1477830493622063105" ],
+    "url" : [ "https://twitter.com/Greens/status/1477830493622063105" ]
+  },
+  "type" : [ "h-entry" ]
+}
