@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aaron Patterson" ],
+        "nickname" : [ "tenderlove" ],
+        "numeric-id" : [ "14761655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372299370691842052/KHLAURcj.jpg" ],
+        "published" : [ "2008-05-13T17:25:31+00:00" ],
+        "uid" : [ "tag:twitter.com:tenderlove" ],
+        "url" : [ "https://twitter.com/tenderlove", "http://tenderlovemaking.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "From what I understand, you're supposed to use two spaces after a period when using a monospace font. 80% of the text I write is in monospace, so I'm in the habit of using two spaces. 🤷🏻‍♀️" ],
+    "published" : [ "2022-01-04T01:17:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1478173727095328768" ],
+    "url" : [ "https://twitter.com/tenderlove/status/1478173727095328768" ]
+  },
+  "type" : [ "h-entry" ]
+}
