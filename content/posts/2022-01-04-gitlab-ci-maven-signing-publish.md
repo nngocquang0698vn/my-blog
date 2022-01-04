@@ -129,7 +129,6 @@ test:
   only:
     - branches
     - merge_requests
-    - tags
 
 deploy:
   stage: deploy
