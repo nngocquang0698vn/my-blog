@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tech@FTC" ],
+        "nickname" : [ "TechFTC" ],
+        "numeric-id" : [ "519476038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2669957429/8ffc022e3774515697db9aa8a0efe44a.png" ],
+        "published" : [ "2012-03-09T13:15:25+00:00" ],
+        "uid" : [ "tag:twitter.com:TechFTC" ],
+        "url" : [ "https://twitter.com/TechFTC", "http://www.ftc.gov/tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "FTC warns companies to remediate Log4j security vulnerability: <a href=\"http://bit.ly/31oEKxB\">bit.ly/31oEKxB</a>",
+      "value" : "FTC warns companies to remediate Log4j security vulnerability: bit.ly/31oEKxB"
+    } ],
+    "published" : [ "2022-01-04T20:03:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1478456970986373122" ],
+    "url" : [ "https://twitter.com/TechFTC/status/1478456970986373122" ]
+  },
+  "type" : [ "h-entry" ]
+}
