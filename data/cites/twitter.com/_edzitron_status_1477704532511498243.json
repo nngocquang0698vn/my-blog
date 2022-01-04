@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Queens, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Yeet Takeshi" ],
+          "nickname" : [ "alex_navarro" ],
+          "numeric-id" : [ "18892183" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1400195655319146498/dulpcaLK.jpg" ],
+          "published" : [ "2009-01-12T05:10:00+00:00" ],
+          "uid" : [ "tag:twitter.com:alex_navarro" ],
+          "url" : [ "https://twitter.com/alex_navarro", "http://nextlander.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "look i know all this shit sucks beyond comprehension but “did not take proper precautions when moving his ape” is just an objectively funny sentence.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edzitron\"></a>",
+        "value" : "look i know all this shit sucks beyond comprehension but “did not take proper precautions when moving his ape” is just an objectively funny sentence."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/edzitron/status/1477703853944434688" ],
+      "published" : [ "2022-01-02T18:11:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1477704177711263749" ],
+      "url" : [ "https://twitter.com/alex_navarro/status/1477704177711263749" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Ed Zitron" ],
+        "nickname" : [ "edzitron" ],
+        "numeric-id" : [ "18359716" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476357177262718982/JtsEwpz2.jpg" ],
+        "published" : [ "2008-12-24T16:04:52+00:00" ],
+        "uid" : [ "tag:twitter.com:edzitron" ],
+        "url" : [ "https://twitter.com/edzitron", "http://www.ezpr.com", "http://ez.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "One might say they have bad ApeSec" ],
+    "published" : [ "2022-01-02T18:13:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1477704532511498243" ],
+    "url" : [ "https://twitter.com/edzitron/status/1477704532511498243" ]
+  },
+  "type" : [ "h-entry" ]
+}
