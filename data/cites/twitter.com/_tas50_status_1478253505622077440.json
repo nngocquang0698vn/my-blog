@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Smith" ],
+        "nickname" : [ "tas50" ],
+        "numeric-id" : [ "16125527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/720006888503402496/oUvXSF8p.jpg" ],
+        "published" : [ "2008-09-04T05:13:12+00:00" ],
+        "uid" : [ "tag:twitter.com:tas50" ],
+        "url" : [ "https://twitter.com/tas50", "http://www.therealtimsmith.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How will I manage without bursting into a Zoolander gas fight though?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattray\"></a>",
+      "value" : "How will I manage without bursting into a Zoolander gas fight though?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mattray/status/1478252498020225024" ],
+    "published" : [ "2022-01-04T06:34:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1478253505622077440" ],
+    "url" : [ "https://twitter.com/tas50/status/1478253505622077440" ]
+  },
+  "type" : [ "h-entry" ]
+}
