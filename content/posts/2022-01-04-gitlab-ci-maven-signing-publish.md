@@ -168,7 +168,7 @@ Which requires the following variables set in the GitLab UI:
   <tr>
     <td>File</td>
     <td><code>GRADLE_PROPERTIES</code></td>
-    <td>the <code>gradle.properties</code> as mentioned above</td>
+    <td>the <code>gradle.properties</code> as mentioned above, with newline at the end of file / appended when <code>cat</code>ing it</td>
     <td><input type="checkbox" checked readonly></td>
   </tr>
   <tr>
