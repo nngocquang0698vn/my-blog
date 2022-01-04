@@ -18,3 +18,5 @@ There are a few Free and Open Source projects that I maintain:
 - [media-type](https://gitlab.com/jamietanna/media-type)
 - [content-negotiation](https://gitlab.com/jamietanna/content-negotiation)
 - [multiple-read-servlet](https://gitlab.com/jamietanna/multiple-read-servlet)
+
+I also work very hard on producing Free and Open Source solutions as part of the content on this website.
