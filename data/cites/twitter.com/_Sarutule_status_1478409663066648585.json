@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Santa Fe, NM" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Kehoe" ],
+          "nickname" : [ "ben11kehoe" ],
+          "numeric-id" : [ "3326912038" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/938429074543869952/p-Coz-7j.jpg" ],
+          "published" : [ "2015-06-15T12:32:14+00:00" ],
+          "uid" : [ "tag:twitter.com:ben11kehoe" ],
+          "url" : [ "https://twitter.com/ben11kehoe", "https://www.linkedin.com/in/ben11kehoe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Living the serverless dream: Christmas Day 2021, when everybody who has bought a Roomba since Black Friday opens them in about a four hour window on Christmas morning, was completely hands off keyboard for us. Literally nothing needed to handle the massive influx of traffic." ],
+      "published" : [ "2021-12-27T19:58:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1475556704473399297" ],
+      "url" : [ "https://twitter.com/ben11kehoe/status/1475556704473399297" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sara Gerion" ],
+        "nickname" : [ "Sarutule" ],
+        "numeric-id" : [ "83125869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458175200688853004/wm9HMOsA.jpg" ],
+        "published" : [ "2009-10-17T12:55:47+00:00" ],
+        "uid" : [ "tag:twitter.com:Sarutule" ],
+        "url" : [ "https://twitter.com/Sarutule" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is why Operational Excellence is one of my favorite pillars: it can make a considerable positive impact on the work-life balance of developers, eng managers, and product folks.\nIt's a win for everyone involved.\n\nThis whole thread is great!</div>",
+      "value" : "This is why Operational Excellence is one of my favorite pillars: it can make a considerable positive impact on the work-life balance of developers, eng managers, and product folks.\nIt's a win for everyone involved.\n\nThis whole thread is great!"
+    } ],
+    "published" : [ "2022-01-04T16:55:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1478409663066648585" ],
+    "url" : [ "https://twitter.com/Sarutule/status/1478409663066648585" ]
+  },
+  "type" : [ "h-entry" ]
+}
