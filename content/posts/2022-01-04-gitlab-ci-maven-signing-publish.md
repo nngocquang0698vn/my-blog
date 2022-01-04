@@ -139,7 +139,7 @@ deploy:
     - echo signing.gnupg.passphrase=$GPG_PASSPHRASE >> $GRADLE_USER_HOME/gradle.properties
   script:
     - ./gradlew publish closeAndReleaseSonatypeStagingRepository
-  only:
+  only: # TODO: you may want to make this only trigger on `main` if you're using a SNAPSHOT, especially if you're using tags for release uploads
     - main
     - tags
 ```
