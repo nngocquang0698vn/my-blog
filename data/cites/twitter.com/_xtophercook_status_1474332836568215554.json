@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Pouria Hadjibagheri" ],
+          "nickname" : [ "Pouriaaa" ],
+          "numeric-id" : [ "49024357" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1004038214175211520/KrM8qvU-.jpg" ],
+          "published" : [ "2009-06-20T14:56:43+00:00" ],
+          "uid" : [ "tag:twitter.com:Pouriaaa" ],
+          "url" : [ "https://twitter.com/Pouriaaa" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Some personal news (a 🧵):\n\nOn 4 October 2021, I resigned from my role as the Deputy Head of Software Engineering for Web and Data at <a href=\"https://twitter.com/UKHSA\">@UKHSA</a>.\n\nThis means that 1 January 2022 will mark my final day in the agency — but *not* on the dashboard, so this is not goodbye.\n\n...[1/10]</div>",
+        "value" : "Some personal news (a 🧵):\n\nOn 4 October 2021, I resigned from my role as the Deputy Head of Software Engineering for Web and Data at @UKHSA.\n\nThis means that 1 January 2022 will mark my final day in the agency — but *not* on the dashboard, so this is not goodbye.\n\n...[1/10]"
+      } ],
+      "published" : [ "2021-12-24T10:48:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1474331094233362432" ],
+      "url" : [ "https://twitter.com/Pouriaaa/status/1474331094233362432" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Cook" ],
+        "nickname" : [ "xtophercook" ],
+        "numeric-id" : [ "96230203" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/709444266/DSC_0044.JPG" ],
+        "published" : [ "2009-12-11T23:27:00+00:00" ],
+        "uid" : [ "tag:twitter.com:xtophercook" ],
+        "url" : [ "https://twitter.com/xtophercook", "http://www.ft.com/chris-cook" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The coronavirus API documentation, specifically, is the gold standard by which all API docs should be assessed. It’s clear! It generates URLs you can paste into your code! It regards helping people get to the info as a point, rather than seeing the API as an exam you have to pass" ],
+    "published" : [ "2021-12-24T10:55:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1474332836568215554" ],
+    "url" : [ "https://twitter.com/xtophercook/status/1474332836568215554" ]
+  },
+  "type" : [ "h-entry" ]
+}
