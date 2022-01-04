@@ -1,0 +1,46 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Fake PhD Investigator" ],
+          "nickname" : [ "FakePhD_reveal" ],
+          "numeric-id" : [ "1308861434470699009" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1413613818471587840/xILnlbum.jpg" ],
+          "published" : [ "2020-09-23T20:11:17+00:00" ],
+          "uid" : [ "tag:twitter.com:FakePhD_reveal" ],
+          "url" : [ "https://twitter.com/FakePhD_reveal" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You are an intensely public figure, deliberately having thrust yourself into the media. You are a social media influencer with 167k followers here and then act all high and mighty when occasionally someone contacts you for business. <a href=\"https://twitter.com/search?q=%23stophuffingyourownfarts\">#stophuffingyourownfarts</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/evacide\"></a>",
+        "value" : "You are an intensely public figure, deliberately having thrust yourself into the media. You are a social media influencer with 167k followers here and then act all high and mighty when occasionally someone contacts you for business. #stophuffingyourownfarts"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/evacide/status/1478209482433830913" ],
+      "published" : [ "2022-01-04T08:09:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1478277309496901639" ],
+      "url" : [ "https://twitter.com/FakePhD_reveal/status/1478277309496901639" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Eva" ],
+        "nickname" : [ "evacide" ],
+        "numeric-id" : [ "14707266" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6.jpg" ],
+        "published" : [ "2008-05-08T23:34:06+00:00" ],
+        "uid" : [ "tag:twitter.com:evacide" ],
+        "url" : [ "https://twitter.com/evacide", "https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Hey Eva, what is it like to be a woman in tech?\"" ],
+    "published" : [ "2022-01-04T08:55:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1478288910123880450" ],
+    "url" : [ "https://twitter.com/evacide/status/1478288910123880450" ]
+  },
+  "type" : [ "h-entry" ]
+}
