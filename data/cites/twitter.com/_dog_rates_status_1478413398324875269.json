@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "all our links ➜" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "WeRateDogs®" ],
+        "nickname" : [ "dog_rates" ],
+        "numeric-id" : [ "4196983835" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478141668159148033/IOD8SZvx.jpg" ],
+        "published" : [ "2015-11-15T21:41:29+00:00" ],
+        "uid" : [ "tag:twitter.com:dog_rates" ],
+        "url" : [ "https://twitter.com/dog_rates", "http://links.weratedogs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is Millie and Wilbur. They've always flirted with each other on walks. Today they finally booped snoots. A big step. Both 13/10" ],
+    "photo" : [ {
+      "alt" : "two golden puppies touching noses on a walk",
+      "value" : "https://pbs.twimg.com/media/FIRhJljVcAMHQig.jpg"
+    } ],
+    "published" : [ "2022-01-04T17:09:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1478413398324875269" ],
+    "url" : [ "https://twitter.com/dog_rates/status/1478413398324875269" ]
+  },
+  "type" : [ "h-entry" ]
+}
