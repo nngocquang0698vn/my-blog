@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sky News Breaking" ],
+        "nickname" : [ "SkyNewsBreak" ],
+        "numeric-id" : [ "87416722" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400331894638665729/xmSDustN.jpg" ],
+        "published" : [ "2009-11-04T11:25:45+00:00" ],
+        "uid" : [ "tag:twitter.com:SkyNewsBreak" ],
+        "url" : [ "https://twitter.com/SkyNewsBreak", "http://www.skynews.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Jury finds four people accused of criminal damage over the toppling of Edward Colston statue in Bristol not guilty \n\nFor more on this and other news visit <a href=\"http://news.sky.com\">news.sky.com</a></div>",
+      "value" : "Jury finds four people accused of criminal damage over the toppling of Edward Colston statue in Bristol not guilty \n\nFor more on this and other news visit news.sky.com"
+    } ],
+    "published" : [ "2022-01-05T16:09:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1478760563513733127" ],
+    "url" : [ "https://twitter.com/SkyNewsBreak/status/1478760563513733127" ]
+  },
+  "type" : [ "h-entry" ]
+}
