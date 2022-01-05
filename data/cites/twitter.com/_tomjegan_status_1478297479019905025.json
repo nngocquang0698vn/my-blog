@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Egan" ],
+        "nickname" : [ "tomjegan" ],
+        "numeric-id" : [ "76693804" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478164758184538112/LE0NEMjg.jpg" ],
+        "published" : [ "2009-09-23T17:00:10+00:00" ],
+        "uid" : [ "tag:twitter.com:tomjegan" ],
+        "url" : [ "https://twitter.com/tomjegan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Just setup my first website in about 4 years using <a href=\"https://twitter.com/render\">@render</a>. Seriously simple and painless and their docs are amazing! 🎉",
+      "value" : "Just setup my first website in about 4 years using @render. Seriously simple and painless and their docs are amazing! 🎉"
+    } ],
+    "published" : [ "2022-01-04T09:29:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1478297479019905025" ],
+    "url" : [ "https://twitter.com/tomjegan/status/1478297479019905025" ]
+  },
+  "type" : [ "h-entry" ]
+}
