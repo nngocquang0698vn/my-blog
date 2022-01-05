@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kadi Kraman 💚" ],
+        "nickname" : [ "kadikraman" ],
+        "numeric-id" : [ "914620160" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1333156271969742849/2QmpIlRD.jpg" ],
+        "published" : [ "2012-10-30T13:16:09+00:00" ],
+        "uid" : [ "tag:twitter.com:kadikraman" ],
+        "url" : [ "https://twitter.com/kadikraman", "https://github.com/kadikraman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Enjoy that mysterious $0.72 monthly bill you'll be receiving for the rest of your days\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kentcdodds\"></a>",
+      "value" : "Enjoy that mysterious $0.72 monthly bill you'll be receiving for the rest of your days"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kentcdodds/status/1478839450473955329" ],
+    "published" : [ "2022-01-05T21:24:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1478839835532177408" ],
+    "url" : [ "https://twitter.com/kadikraman/status/1478839835532177408" ]
+  },
+  "type" : [ "h-entry" ]
+}
