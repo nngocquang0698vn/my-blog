@@ -11,7 +11,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "👋🏽 My website is https://www.jvt.me, blog posts are at https://www.jvt.me/kind/articles/ but as you're seeing from this reply, I also use it as a means of owning all my data (#IndieWeb) such as social media replies or whet books I'm reading"
+      "value" : "👋🏽 My website is https://www.jvt.me, blog posts are at https://www.jvt.me/kind/articles/ but as you're seeing from this reply, I also use it as a means of owning all my data (#IndieWeb) such as social media replies or whet books I'm reading.\nBuilt with #Hugo, deployed to AWS CloudFront through GitLab CI, and largely managed using [Micropub](https://micropub.spec.indieweb.org/)"
     } ]
   },
   "kind" : "replies",
