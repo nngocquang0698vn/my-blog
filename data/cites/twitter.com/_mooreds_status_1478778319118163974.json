@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Olive Branch, Mississippi" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matt Stine 🚢" ],
+          "nickname" : [ "mstine" ],
+          "numeric-id" : [ "2323131" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1219597783382011904/VNr19X_O.jpg" ],
+          "published" : [ "2007-03-26T17:02:11+00:00" ],
+          "uid" : [ "tag:twitter.com:mstine" ],
+          "url" : [ "https://twitter.com/mstine", "http://www.mattstine.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If you really want to learn a new technology, sign up to give a presentation about it at a meetup." ],
+      "published" : [ "2022-01-05T02:55:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1478560668970274816" ],
+      "url" : [ "https://twitter.com/mstine/status/1478560668970274816" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">FYI, I help run a meetup and have spoken (virtually) at meetups around the world.\n\nIME 90% of meetup organizers are thrilled to have someone reach out. They're volunteers, so it can take some time to connect, but they want your talk!\n\nI wrote more here: <a href=\"https://letterstoanewdeveloper.com/2021/12/06/speak-at-a-meetup/\">letterstoanewdeveloper.com/2021/12/06/spe…</a></div>",
+      "value" : "FYI, I help run a meetup and have spoken (virtually) at meetups around the world.\n\nIME 90% of meetup organizers are thrilled to have someone reach out. They're volunteers, so it can take some time to connect, but they want your talk!\n\nI wrote more here: letterstoanewdeveloper.com/2021/12/06/spe…"
+    } ],
+    "published" : [ "2022-01-05T17:20:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1478778319118163974" ],
+    "url" : [ "https://twitter.com/mooreds/status/1478778319118163974" ]
+  },
+  "type" : [ "h-entry" ]
+}
