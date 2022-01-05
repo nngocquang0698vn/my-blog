@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beautiful Downtown Burbank" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory Doctorow" ],
+        "nickname" : [ "doctorow" ],
+        "numeric-id" : [ "2729061" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1373743438290513920/CiUL5-wz.jpg" ],
+        "published" : [ "2007-03-28T21:40:55+00:00" ],
+        "uid" : [ "tag:twitter.com:doctorow" ],
+        "url" : [ "https://twitter.com/doctorow", "http://craphound.com", "http://attacksurface.com", "http://pluralistic.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is fucking wild. Norton \"Antivirus\" now sneakily installs cryptomining software on your computer, and then SKIMS A COMMISSION. \n\n<a href=\"https://community.norton.com/en/forums/faq-norton-crypto\">community.norton.com/en/forums/faq-…</a></div>",
+      "value" : "This is fucking wild. Norton \"Antivirus\" now sneakily installs cryptomining software on your computer, and then SKIMS A COMMISSION. \n\ncommunity.norton.com/en/forums/faq-…"
+    } ],
+    "published" : [ "2022-01-04T21:32:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1478479483585933312" ],
+    "url" : [ "https://twitter.com/doctorow/status/1478479483585933312" ]
+  },
+  "type" : [ "h-entry" ]
+}
