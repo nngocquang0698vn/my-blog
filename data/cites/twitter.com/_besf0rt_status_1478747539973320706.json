@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brussels" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Bulletin" ],
+          "nickname" : [ "_TheBulletin" ],
+          "numeric-id" : [ "2317163479" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/428523852868489216/eghom5us.png" ],
+          "published" : [ "2014-01-29T13:32:27+00:00" ],
+          "uid" : [ "tag:twitter.com:_TheBulletin" ],
+          "url" : [ "https://twitter.com/_TheBulletin", "http://www.thebulletin.be" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Brussels Airlines runs 3,000 empty flights to maintain take-off and landing slots\n<a href=\"https://www.thebulletin.be/brussels-airlines-runs-3000-empty-flights-maintain-airport-slots\">thebulletin.be/brussels-airli…</a></div>",
+        "value" : "Brussels Airlines runs 3,000 empty flights to maintain take-off and landing slots\nthebulletin.be/brussels-airli…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FIUrxIbXEAQu3Zr.jpg" ],
+      "published" : [ "2022-01-05T07:55:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1478636216262316034" ],
+      "url" : [ "https://twitter.com/_TheBulletin/status/1478636216262316034" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bes D. Marx" ],
+        "nickname" : [ "besf0rt" ],
+        "numeric-id" : [ "820759753945186304" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1420374654364098560/dlMQWc_2.jpg" ],
+        "published" : [ "2017-01-15T22:29:09+00:00" ],
+        "uid" : [ "tag:twitter.com:besf0rt" ],
+        "url" : [ "https://twitter.com/besf0rt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "but don't forget to turn off the lights when you leave home!" ],
+    "published" : [ "2022-01-05T15:17:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1478747539973320706" ],
+    "url" : [ "https://twitter.com/besf0rt/status/1478747539973320706" ]
+  },
+  "type" : [ "h-entry" ]
+}
