@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "University of Toronto" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Roy" ],
+        "nickname" : [ "roydanroy" ],
+        "numeric-id" : [ "44073696" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/647245794249015296/575wCuTG.jpg" ],
+        "published" : [ "2009-06-02T06:32:26+00:00" ],
+        "uid" : [ "tag:twitter.com:roydanroy" ],
+        "url" : [ "https://twitter.com/roydanroy", "http://danroy.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Which of these were ones you had to quit to reveal?!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LBacaj\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SalehCU\"></a>",
+      "value" : "Which of these were ones you had to quit to reveal?!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/LBacaj/status/1478241311392108545" ],
+    "published" : [ "2022-01-05T07:52:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1478635592380465152" ],
+    "url" : [ "https://twitter.com/roydanroy/status/1478635592380465152" ]
+  },
+  "type" : [ "h-entry" ]
+}
