@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Redmond, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nodir T" ],
+        "nickname" : [ "nodirt_" ],
+        "numeric-id" : [ "2854599126" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451733078376738816/gF8xKRUr.jpg" ],
+        "published" : [ "2014-10-13T17:41:50+00:00" ],
+        "uid" : [ "tag:twitter.com:nodirt_" ],
+        "url" : [ "https://twitter.com/nodirt_", "https://nodir.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today a recruiter sent an email to my Amazon email address to invite me to join AWS.\n\nIn the retrospect I should've replied that non-competition clause prevents me from joining cloud providers.</div>",
+      "value" : "Today a recruiter sent an email to my Amazon email address to invite me to join AWS.\n\nIn the retrospect I should've replied that non-competition clause prevents me from joining cloud providers."
+    } ],
+    "published" : [ "2022-01-06T05:35:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1478963449417715713" ],
+    "url" : [ "https://twitter.com/nodirt_/status/1478963449417715713" ]
+  },
+  "type" : [ "h-entry" ]
+}
