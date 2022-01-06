@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Silicon Valley" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Internal Tech Emails" ],
+        "nickname" : [ "TechEmails" ],
+        "numeric-id" : [ "1396491776739905542" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396494130566635520/nO4CTopw.jpg" ],
+        "published" : [ "2021-05-23T15:42:45+00:00" ],
+        "uid" : [ "tag:twitter.com:TechEmails" ],
+        "url" : [ "https://twitter.com/TechEmails", "http://techemails.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Bill Gates: I'm literally losing sleep over Java\n\nSeptember 30, 1996</div>",
+      "value" : "Bill Gates: I'm literally losing sleep over Java\n\nSeptember 30, 1996"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FIWzxaPVUAUb8BO.png" ],
+    "published" : [ "2022-01-05T17:50:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1478785899009875968" ],
+    "url" : [ "https://twitter.com/TechEmails/status/1478785899009875968" ]
+  },
+  "type" : [ "h-entry" ]
+}
