@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Minnesota, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jenn" ],
+          "nickname" : [ "geekgalgroks" ],
+          "numeric-id" : [ "592019229" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1407720030339534851/5J6wbTiC.jpg" ],
+          "published" : [ "2012-05-27T16:07:24+00:00" ],
+          "uid" : [ "tag:twitter.com:geekgalgroks" ],
+          "url" : [ "https://twitter.com/geekgalgroks", "https://jenn.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A rant on behalf of a junior.\n\nAsking your junior engineer to \"build their manager's trust back\" means something went HORRIBLY HORRIBLY WRONG.</div>",
+        "value" : "A rant on behalf of a junior.\n\nAsking your junior engineer to \"build their manager's trust back\" means something went HORRIBLY HORRIBLY WRONG."
+      } ],
+      "published" : [ "2022-01-05T19:18:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1478808254633361415" ],
+      "url" : [ "https://twitter.com/geekgalgroks/status/1478808254633361415" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cleveland, OH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenna Charlton they/them 🏳️‍🌈" ],
+        "nickname" : [ "TheyWrestleTest" ],
+        "numeric-id" : [ "888755269823582208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466087978791546891/p603-_06.jpg" ],
+        "published" : [ "2017-07-22T13:39:03+00:00" ],
+        "uid" : [ "tag:twitter.com:TheyWrestleTest" ],
+        "url" : [ "https://twitter.com/TheyWrestleTest", "http://jenna-tests.proseful.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Juniors don’t fail, seniors fail to support their juniors." ],
+    "published" : [ "2022-01-06T11:42:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1479055660516093956" ],
+    "url" : [ "https://twitter.com/TheyWrestleTest/status/1479055660516093956" ]
+  },
+  "type" : [ "h-entry" ]
+}
