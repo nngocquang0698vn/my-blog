@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexander Demling" ],
+        "nickname" : [ "alexdemling" ],
+        "numeric-id" : [ "24735447" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176529413674078212/hYAcOpeB.jpg" ],
+        "published" : [ "2009-03-16T17:54:47+00:00" ],
+        "uid" : [ "tag:twitter.com:alexdemling" ],
+        "url" : [ "https://twitter.com/alexdemling", "http://www.spiegel.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Looks like they bought a non-fungible Tolkien" ],
+    "photo" : [ "https://pbs.twimg.com/media/FIZgiMlVcAEvHdE.jpg", "https://pbs.twimg.com/media/FIZgiMpVkAIbVzJ.jpg" ],
+    "published" : [ "2022-01-06T06:24:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1478975673796468737" ],
+    "url" : [ "https://twitter.com/alexdemling/status/1478975673796468737" ]
+  },
+  "type" : [ "h-entry" ]
+}
