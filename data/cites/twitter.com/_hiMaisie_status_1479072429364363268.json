@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 🏳️‍⚧️" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1456673471010902021/xe5JrCZV.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "unlocking old memories of “braintree, a paypal company”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheEnbyperor\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jna_sh\"></a>",
+      "value" : "unlocking old memories of “braintree, a paypal company”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1479072053080858628" ],
+    "published" : [ "2022-01-06T12:48:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1479072429364363268" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1479072429364363268" ]
+  },
+  "type" : [ "h-entry" ]
+}
