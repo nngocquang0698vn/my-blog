@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyberspace" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Valerian Saliou" ],
+        "nickname" : [ "valeriansaliou" ],
+        "numeric-id" : [ "560204987" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377341603925348353/M8myj3PF.jpg" ],
+        "published" : [ "2012-04-22T10:37:59+00:00" ],
+        "uid" : [ "tag:twitter.com:valeriansaliou" ],
+        "url" : [ "https://twitter.com/valeriansaliou", "https://valeriansaliou.name/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thinking of open-sourcing the Developer Docs static site generator that we built from scratch at <a href=\"https://twitter.com/crisp_im\">@crisp_im</a> ; anyone interested? Write content in Markdown and API Blueprint. Has a built-in local search engine. Can be deployed to GH Pages. You can test it at <a href=\"https://docs.crisp.chat\">docs.crisp.chat</a>",
+      "value" : "Thinking of open-sourcing the Developer Docs static site generator that we built from scratch at @crisp_im ; anyone interested? Write content in Markdown and API Blueprint. Has a built-in local search engine. Can be deployed to GH Pages. You can test it at docs.crisp.chat"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FHyMLq_X0AMEyo6.jpg", "https://pbs.twimg.com/media/FHyMLrAX0Aknnxa.jpg" ],
+    "published" : [ "2021-12-29T15:12:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1476209397122711562" ],
+    "url" : [ "https://twitter.com/valeriansaliou/status/1476209397122711562" ]
+  },
+  "type" : [ "h-entry" ]
+}
