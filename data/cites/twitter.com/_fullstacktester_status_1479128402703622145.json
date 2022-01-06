@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leeds, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Binns" ],
+        "nickname" : [ "fullstacktester" ],
+        "numeric-id" : [ "932618296595308544" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/932620023302062080/VrtoVZ4p.jpg" ],
+        "published" : [ "2017-11-20T14:35:03+00:00" ],
+        "uid" : [ "tag:twitter.com:fullstacktester" ],
+        "url" : [ "https://twitter.com/fullstacktester" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not something I'd noticed at the time but <a href=\"https://twitter.com/GatlingTool\">@GatlingTool</a> can now be used with Java/Kotlin. \n\nI did quite like that Gatling was my entry point to Scala but it did put a lot of people off.\n\n<a href=\"https://gatling.io/2021/11/gatling-3-7-java-dsl-kotlin-and-much-more/\">gatling.io/2021/11/gatlin…</a></div>",
+      "value" : "Not something I'd noticed at the time but @GatlingTool can now be used with Java/Kotlin. \n\nI did quite like that Gatling was my entry point to Scala but it did put a lot of people off.\n\ngatling.io/2021/11/gatlin…"
+    } ],
+    "published" : [ "2022-01-06T16:31:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1479128402703622145" ],
+    "url" : [ "https://twitter.com/fullstacktester/status/1479128402703622145" ]
+  },
+  "type" : [ "h-entry" ]
+}
