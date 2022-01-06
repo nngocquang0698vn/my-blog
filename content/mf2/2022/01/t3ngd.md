@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matteocollina/status/1479136682674958337" ],
     "name" : [ "Like of @matteocollina's tweet" ],
     "published" : [ "2022-01-06T18:47:00+0000" ],
     "category" : [ "open-source" ],
