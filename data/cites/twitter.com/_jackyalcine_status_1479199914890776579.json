@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Englewood Cliffs, NJ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CNBC" ],
+          "nickname" : [ "CNBC" ],
+          "numeric-id" : [ "20402945" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1451346007594315779/fJq985Yf.png" ],
+          "published" : [ "2009-02-09T00:03:41+00:00" ],
+          "uid" : [ "tag:twitter.com:CNBC" ],
+          "url" : [ "https://twitter.com/CNBC", "https://www.cnbc.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Young employees are losing out 'on a lot' by not going to the office, business experts say (via <a href=\"https://twitter.com/CNBCMakeIt\">@CNBCMakeIt</a>) <a href=\"https://cnb.cx/3mYotXF\">cnb.cx/3mYotXF</a>",
+        "value" : "Young employees are losing out 'on a lot' by not going to the office, business experts say (via @CNBCMakeIt) cnb.cx/3mYotXF"
+      } ],
+      "published" : [ "2022-01-06T15:45:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1479116834334863367" ],
+      "url" : [ "https://twitter.com/CNBC/status/1479116834334863367" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "occupied seminole space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jacky.wtf" ],
+        "nickname" : [ "jackyalcine" ],
+        "numeric-id" : [ "1262855987993563136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476807031872970754/fEtle8sD.jpg" ],
+        "published" : [ "2020-05-19T21:22:07+00:00" ],
+        "uid" : [ "tag:twitter.com:jackyalcine" ],
+        "url" : [ "https://twitter.com/jackyalcine", "http://jacky.wtf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "stfu with this shit" ],
+    "published" : [ "2022-01-06T21:15:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1479199914890776579" ],
+    "url" : [ "https://twitter.com/jackyalcine/status/1479199914890776579" ]
+  },
+  "type" : [ "h-entry" ]
+}
