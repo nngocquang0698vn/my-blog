@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com", "http://youtube.com/shanselman", "http://heyfriends.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In all seriousness though, you don’t need cloud based sentiment analysis to figure out pretty quickly the folks are very sad right now. They are bitter, they are misinformed, and they are generally just down. So they slap the keyboard at Internet strangers to feel better." ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1479211491546992641" ],
+    "published" : [ "2022-01-06T22:12:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1479214271443574784" ],
+    "url" : [ "https://twitter.com/shanselman/status/1479214271443574784" ]
+  },
+  "type" : [ "h-entry" ]
+}
