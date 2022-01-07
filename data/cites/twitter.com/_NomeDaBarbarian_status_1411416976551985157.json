@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Newsrooms everywhere 📰" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Stuff Journalists Like 📰✏️" ],
+          "nickname" : [ "JournalistsLike" ],
+          "numeric-id" : [ "144748652" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/863152258728443904/iEd80pMA.jpg" ],
+          "published" : [ "2010-05-17T05:50:34+00:00" ],
+          "uid" : [ "tag:twitter.com:JournalistsLike" ],
+          "url" : [ "https://twitter.com/JournalistsLike", "http://StuffJournalistsLike.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "My relationship with deadlines" ],
+      "photo" : [ "https://pbs.twimg.com/media/E5TKXu1XEAE39bn.jpg" ],
+      "published" : [ "2021-07-02T14:54:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1410975096521510914" ],
+      "url" : [ "https://twitter.com/JournalistsLike/status/1410975096521510914" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver Metro" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nome" ],
+        "nickname" : [ "NomeDaBarbarian" ],
+        "numeric-id" : [ "1202110874" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478506772310597632/qrKpa5Au.jpg" ],
+        "published" : [ "2013-02-20T20:42:09+00:00" ],
+        "uid" : [ "tag:twitter.com:NomeDaBarbarian" ],
+        "url" : [ "https://twitter.com/NomeDaBarbarian", "https://ko-fi.com/nomedabarbarian" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A reminder:\n\nPeople procrastinate.\n\nBut if what you call \"procrastinating\" is wanting to start, not feeling able to, feeling a deep sense of both dread and shame as the thing simply EXISTS at you?\n\nThat... might not be procrastination. That might be Executive Dysfunction.</div>",
+      "value" : "A reminder:\n\nPeople procrastinate.\n\nBut if what you call \"procrastinating\" is wanting to start, not feeling able to, feeling a deep sense of both dread and shame as the thing simply EXISTS at you?\n\nThat... might not be procrastination. That might be Executive Dysfunction."
+    } ],
+    "published" : [ "2021-07-03T20:10:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1411416976551985157" ],
+    "url" : [ "https://twitter.com/NomeDaBarbarian/status/1411416976551985157" ]
+  },
+  "type" : [ "h-entry" ]
+}
