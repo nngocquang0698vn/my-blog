@@ -17,11 +17,11 @@ So whether you missed our session last week, or you just want to brush up on it 
 
 If this is the first post you're reading, I'd instead recommend following the [first session's catchup](/posts/2015/10/19/itp-session1/).
 
-### <a name="programming-in-python"></a>Programming in Python
+# <a name="programming-in-python"></a>Programming in Python
 
 In the last session, we introduced you to some example programs and how to get some basic input from the user. We're going to build upon that in this session, and make incremental steps to build a more advanced basic calculator.
 
-#### Letting the user specify operations
+## Letting the user specify operations
 
 In the following program, we're going to expand the [Basic Calculator](/posts/2015/10/19/itp-session1/#basic-calculator) we created last session.
 
@@ -65,7 +65,7 @@ Please enter operation 'plus' 'minus' 'divide' 'multiply': plus
 
 One thing to note is that we put the `result` variable up top so we can correctly set values to it. This is so we don't get issues when trying to refer to something nonexistent.
 
-#### Handling errors
+## Handling errors
 
 In the previous section, we created a calculator that can work out calculations given an operator provided by the user. However one thing that is not handled at all are the error cases. When programming, there will often be cases where your code will fail; be it your own code not being 100% correct, or just that the user has done something you haven't expected. In this case, we've been assuming the user will always send us the correct entry. However, what if they were to misspell? The following program allows us to warn the user when they've done something wrong.
 
@@ -99,7 +99,7 @@ You will be able to see that that we've swapped out the `if` for `elif`. `elif` 
 We will return an error if our user didn't give us anything valid, and print the result whether they gave us valid input or not.
 
 
-#### Repeating until we get valid input
+## Repeating until we get valid input
 
 In the previous example, we made the program print out an error if we had invalid input. However, that's not very useful to a user, as it means they then need to re-run the application, and enter all their data again. Instead, we're going to keep asking the user to enter their data until we're sure that it's valid.
 
@@ -132,7 +132,7 @@ while isInvalidInput:
     else:
         print "Woops, you didn't give me a valid operation ('plus' 'minus' 'divide' 'multiply')"
 
-####### end of loop
+##### end of loop
 
 print number1, operation, number2, "equals", result
 ```
@@ -141,7 +141,7 @@ We do this by creating a new variable, `isValidInput`, which is used in the `whi
 
 Note that the `####### end of loop` line is purely for visual context, and would generally be removed.
 
-#### Running multiple calculations
+## Running multiple calculations
 
 However, what if we want to run multiple calculations? We'd have to keep running the program, which could be a bit annoying. Instead, let's keep running calculations until we're told to stop.
 
@@ -190,7 +190,7 @@ We contain the whole program inside a big `while` loop that waits for the value 
 
 We've only got a single if statement at the bottom of the program, instead of two - one for `"yes"` and one for `"no"`. Why?
 
-#### <a name="if-else"></a> If-Else Examples
+## <a name="if-else"></a> If-Else Examples
 
 Try the following examples with varying values of `operation` to verify how the `if`/`elif`/`else` statement works:
 

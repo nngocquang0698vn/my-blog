@@ -17,7 +17,7 @@ So whether you missed our session last week, or you just want to brush up on it 
 
 If you're already set up with Python and Atom, you can [skip to the programming](#programming-in-python), otherwise get started below:
 
-### Setting up your machine
+# Setting up your machine
 
 So first things first, you'll need to install the following:
 
@@ -26,13 +26,13 @@ So first things first, you'll need to install the following:
 - [Atom Text Editor](https://github.com/atom/atom/releases/)
 	- Atom is a text editor which allows you to write all your Python code - but that's not all it does. A great thing about Atom is that it provides *syntax highlighting* (syntax highlighting: you will get colour-coded text which makes it much more easy to work with your code. See [the code in basic calculator](#basic-calculator) for an example of what syntax highlighting looks like). Although you can use any editor, we recommend Atom as having everyone using the same one will make things much easier for teaching, and will also allow you to share tips and tricks with your friends when you get to playing around with it.
 
-#### <a name="setup-windows-path"></a>Windows
+## <a name="setup-windows-path"></a>Windows
 
 You'll also need to [set up your PATH](http://stackoverflow.com/a/4621277).
 
-### Getting used to the command line
+# Getting used to the command line
 
-#### Windows
+## Windows
 
 Navigate to the Start Menu, then type "Command Prompt" and press enter when the icon appears. For a graphical walkthrough, check out [WikiHow's tutorial on it](http://www.wikihow.com/Open-the-Command-Prompt-in-Windows).
 
@@ -58,7 +58,7 @@ Finally, an example of running a Python script.
 
 ![Running a Python script from the command line](https://raw.githubusercontent.com/HackSocNotts/hacksocnotts.github.io/c53dcd00be961ea846aced31da78169f494e13ab/img/itp-s1-python-win.png)
 
-#### Mac
+## Mac
 
 Navigate to the *Applications* folder, then to *Utilities*, then double click on the *Terminal* application.
 
@@ -86,7 +86,7 @@ Finally, we want to run that file.
 
 ![Running a Python script from the command line](https://raw.githubusercontent.com/HackSocNotts/hacksocnotts.github.io/c53dcd00be961ea846aced31da78169f494e13ab/img/itp-s1-python-run-mac.png)
 
-### <a name="programming-in-python"></a>Programming in Python
+# <a name="programming-in-python"></a>Programming in Python
 
 We started off by showing you guys some code, and asked you to try it yourself.
 
@@ -106,7 +106,7 @@ Then to run it, you will need to go into your terminal, `cd` to the correct dire
 
 If this does not work, and you are running on Windows, check out the [Windows extra setup instructions](#setup-windows-path).
 
-#### Your first program
+## Your first program
 
 The below program will be your first Python program. All it does is print\* (`print`: a common programming term for sending text to the terminal) out the *string* (string: sequence of characters, enclosed in `""`) `"Hello World"` to the terminal. This example is the [most common first program in programming](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) - giving the user the quickest way to test the language.
 
@@ -121,7 +121,7 @@ print "Hello World"
 - Can you print out more `string`s?
 
 
-#### Getting some input
+## Getting some input
 
 In the following example, we're going to ask the user for input, and then print our a welcome message. You will notice that the program waits until the user has entered some text, and pressed the enter key.
 
@@ -139,7 +139,7 @@ The statement `print "Hello", name` prints the text `Hello`, followed by the dat
 
 - what's the difference between `name = raw_input()` and `name = raw_input("Please enter your name")`?
 
-#### <a name="basic-calculator"></a>Building something a bit more useful
+## <a name="basic-calculator"></a>Building something a bit more useful
 
 The following program is an incredible feat of programming knowledge - we've worked out how to create a basic calculator! The following program will ask for two numbers, then print out the value of the two numbers added up.
 
@@ -179,7 +179,7 @@ The lines that start with a hash, such as `# basic calculator`, are called *comm
 - What happens if we try to output a fraction? I.e. `1/2`? Can you find a way to output it correctly?
 
 
-#### <a name="working-with-types"></a> Working With Types
+## <a name="working-with-types"></a> Working With Types
 
 To illustrate the different types we've talked about so far, and how we're able to create variables of those types.
 

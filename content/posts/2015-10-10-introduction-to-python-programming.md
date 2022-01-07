@@ -21,7 +21,7 @@ We'll be starting at 7.30 in The Hub in the School of Computer Science on Jubile
 
 Just so we know about rough numbers, and also so we can work out how best to pitch the session, please can you fill in this [very short questionnaire](https://docs.google.com/forms/d/1WttOU51RNuiL2T3GDnHGZ11wOKmKh5DW67ttUa-IrAs/viewform) - it's **literally** 3 questions, and would help us loads to be able to work out what level of knowledge everyone has!
 
-### Setting up your machine
+# Setting up your machine
 
 So we won't have to spend too much time setting up things on Tuesday, please can you install the following:
 

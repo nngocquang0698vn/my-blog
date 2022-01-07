@@ -11,7 +11,7 @@ slug: itp-session3
 ---
 <blockquote>This article was for <a href="https://hacksocnotts.co.uk/">Hacksoc Nottingham</a>, while I was the 2015-2016 General Secretary.</blockquote>
 
-### Error Cases
+# Error Cases
 
 One thing we have to be careful about when coding is the point where we may reach invalid input, or cases that won't work in our program. These cases need to be carefully considered when developing software, otherwise serious issues can occur.
 
@@ -74,7 +74,7 @@ while wantMoreCalculations:
 
 Note that the code above checks if our second number is zero only when we're running a divide. We make sure to keep prompting for input until we get a non-zero number to divide by.
 
-### Cleaning Up Our Logic
+# Cleaning Up Our Logic
 
 This section is actually a very quick example, hence the snippet opposed to the whole file. We aim to clean up the code to make it easier to maintain and work with.
 
@@ -95,7 +95,7 @@ This section is actually a very quick example, hence the snippet opposed to the 
 
 We refactor the logic to not bother with reassigning `False` to `isZero` (which it already must be, otherwise we wouldn't continue in the `while` loop). We also remove the repeated case of setting `isInvalidInput = False`, by moving the assignment out of the `if` statement.
 
-### Don't Repeat Yourself
+# Don't Repeat Yourself
 
 There is a well well known principle in Computer Programming called *Don't Repeat Yourself*, or *DRY*. Repeating your code - be it copy and pasting, or just following similar patterns - is never a good habit to fall into. The repetition means that in the future you will have to update various codeblocks if i.e. you find a bug with the code, or you need to add new functionality. When you start repeating code more than twice, this becomes a maintainability nightmare. Therefore, when you find yourself doing the same thing twice, it is always a good idea to take a step back and think how you can make the pattern of code you're using, repeatable.
 
@@ -143,7 +143,7 @@ We move the main pattern into the function, and then replace it by a call to the
 
 - Is this all we need to do? Check if there is anywhere else we've taken in numbers that we need to convert into calls to `get_number_from_user`.
 
-### Abstracting Common Patterns into Functions
+# Abstracting Common Patterns into Functions
 
 However, we need to make this function more generic. Remember how in previous versions of the code, we would prompt the user with something more useful, such as `Enter the second number: `? To do this, we need to pass in something to each function, via something called *parameters* (parameter: a variable that can be passed into a function). Parameters allow us to give variables to functions, which in turn let our functions do more interesting things.
 
@@ -169,7 +169,7 @@ while wantMoreCalculations:
 
 In this code snippet, we pass in the string that we want to be output, so it will then prompt the user something more obvious. This is done via a parameter, which allows us to specify from our code what we want to be prompted, instead of using the same string.
 
-### You Get a Function, You Get a Function, Everyone Gets a Function!
+# You Get a Function, You Get a Function, Everyone Gets a Function!
 
 Now we get to cleaning up more of the code. In this segment, we will turn more bits of repeated code into functions in order to remove any repetitions.
 

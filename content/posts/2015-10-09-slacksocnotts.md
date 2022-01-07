@@ -10,7 +10,7 @@ license_prose: 'GPL-3.0'
 license_code: 'GPL-3.0'
 slug: slacksocnotts
 ---
-## Introducing Slack
+# Introducing Slack
 
 tl;dr - Request access via [this Google Form](https://docs.google.com/forms/d/1c5XEaYYUUCC-ze3yj2r2LzcLoTqEsrfHhoI3C2L-p94/viewform).
 
@@ -24,7 +24,7 @@ So we've now opened up [hacksocnotts.slack.com](https://hacksocnotts.slack.com) 
 
 ![Slack overview](/img/slack-overview.png)
 
-## How do I use it?
+# How do I use it?
 
 Slack has two separate concepts: `groups` and `channels`. A channel is a *publicly accessible named area*, i.e. Java, where conversations about Java can be discussed.
 
@@ -32,10 +32,10 @@ Channels are an open discussion channel that are usually based around a theme or
 
 There are also groups, which are a private area to discuss a certain topic. These are more useful for conversations you don't want everyone involved in - for instance, having a group for your CS friends where you can chat about uni work, or where you can plan to go to competitive programming sessions. In the exec, we have groups for things like planning [HackNotts](http://hacknotts.com), the [Introduction to Programming Programming sessions](/posts/2015/10/10/introduction-to-python-programming/) and other boring admin stuff.
 
-## How do notifications work?
+# How do notifications work?
 
 So we're hoping that once you're reading this, there will be a lot of conversations happening via Slack. However, this also means that your devices are going to go crazy, because you're going to be getting messages left, right and centre. Because of this, you're going to want to visit your [Notifications settings](https://hacksocnotts.slack.com/account/notifications) and switch to the *Recommended Settings*, which will only alert you when someone directly messages you via an `@mention` or sends a Direct Message.
 
-## Slack Etiquette
+# Slack Etiquette
 
 Slack will be constantly monitored by the Hacksoc Exec. If you feel in any way targeted or uncomfortable about anything someone says to you on Slack, please contact the admins via Slack DM or email as soon as possible and we will help you resolve these issues. We reserve the right to ban users for a minimum of one week, and permanently at our discretion.
