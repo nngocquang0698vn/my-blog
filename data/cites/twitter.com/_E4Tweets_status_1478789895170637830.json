@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "On TV and All 4" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "E4" ],
+        "nickname" : [ "E4Tweets" ],
+        "numeric-id" : [ "25333197" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412790986774822914/vAwiJJ_C.jpg" ],
+        "published" : [ "2009-03-19T16:39:38+00:00" ],
+        "uid" : [ "tag:twitter.com:E4Tweets" ],
+        "url" : [ "https://twitter.com/E4Tweets", "https://www.channel4.com/collection/e4" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "How long has it been since you cleaned your phone? You might want to do it right now! Stream the latest ep of <a href=\"https://twitter.com/search?q=%23GrossUp\">#GrossUp</a> now: <a href=\"https://youtu.be/cdwPJpQkP9g\">youtu.be/cdwPJpQkP9g</a>",
+      "value" : "How long has it been since you cleaned your phone? You might want to do it right now! Stream the latest ep of #GrossUp now: youtu.be/cdwPJpQkP9g"
+    } ],
+    "published" : [ "2022-01-05T18:06:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1478789895170637830" ],
+    "url" : [ "https://twitter.com/E4Tweets/status/1478789895170637830" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1478784283934404610/vid/720x720/MA4AtfhKENXqM4Cd.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
