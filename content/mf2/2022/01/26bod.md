@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/welcomewords/status/1356724663452319744" ],
     "name" : [ "Like of @welcomewords's tweet" ],
     "published" : [ "2022-01-07T12:35:00+0000" ],
     "like-of" : [ "https://twitter.com/welcomewords/status/1356724663452319744" ],
