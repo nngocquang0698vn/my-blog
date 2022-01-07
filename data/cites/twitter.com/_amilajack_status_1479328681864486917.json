@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SF" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amila Welihinda" ],
+        "nickname" : [ "amilajack" ],
+        "numeric-id" : [ "2970738590" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1068309823530295296/QD75NwUe.jpg" ],
+        "published" : [ "2015-01-10T00:53:55+00:00" ],
+        "uid" : [ "tag:twitter.com:amilajack" ],
+        "url" : [ "https://twitter.com/amilajack", "https://amilajack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">htop is a modern `top` replacement\n\n<a href=\"https://github.com/htop-dev/htop\">github.com/htop-dev/htop</a></div>",
+      "value" : "htop is a modern `top` replacement\n\ngithub.com/htop-dev/htop"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/amilajack/status/1479328678601363456" ],
+    "photo" : [ "https://pbs.twimg.com/media/FIeg0liVcAQvHba.jpg" ],
+    "published" : [ "2022-01-07T05:46:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1479328681864486917" ],
+    "url" : [ "https://twitter.com/amilajack/status/1479328681864486917" ]
+  },
+  "type" : [ "h-entry" ]
+}
