@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We've moved into the new <a href=\"https://twitter.com/incident_io\">@incident_io</a> office and I'm in love! It feels like a cool loft apartment. There's an ACTUAL OVEN which means lunchtime baking...  AND I've got a motorised standing desk which goes as low as I need because I'm tiny",
+      "value" : "We've moved into the new @incident_io office and I'm in love! It feels like a cool loft apartment. There's an ACTUAL OVEN which means lunchtime baking...  AND I've got a motorised standing desk which goes as low as I need because I'm tiny"
+    } ],
+    "photo" : [ {
+      "alt" : "An open-plan office with an exposed brick wall on the left. The back wall is dark blue, with a neon sign that says \"incident.io\". There are two bookshelves with vases and plants, and various books. There are two large soundproof booths for calls at the front, opposite two tables and benches. On the left a bit further back there are grey armchairs around a coffee table. Desks are at the back, in front of a whiteboard. ",
+      "value" : "https://pbs.twimg.com/media/FIgsyZLWYA0vosW.jpg"
+    }, {
+      "alt" : "The other side of the office, with tables + benches, and a glass-walled meeting room There is a black lamp against the exposed brick wall, and a radiator painted dark green. The kitchen area has an oven, microwave and hob. There's a breakfast bar against the wall.",
+      "value" : "https://pbs.twimg.com/media/FIgt7-cX0AMFVDx.jpg"
+    }, {
+      "alt" : "My desk, with a monitor and laptop to the side, a keyboard and trackpad. The desk has controls underneath. In front is an Aeron chair. There is an incident.io branded hat on the desk and some AirPods in a Gudetama case.",
+      "value" : "https://pbs.twimg.com/media/FIgusKKXMAgp4pX.jpg"
+    } ],
+    "published" : [ "2022-01-07T16:03:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1479483829215801363" ],
+    "url" : [ "https://twitter.com/type__error/status/1479483829215801363" ]
+  },
+  "type" : [ "h-entry" ]
+}
