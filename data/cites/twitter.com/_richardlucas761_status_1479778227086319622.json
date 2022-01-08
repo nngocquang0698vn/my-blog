@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jamie Bartlett" ],
+          "nickname" : [ "JamieJBartlett" ],
+          "numeric-id" : [ "142998242" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1365233916773302274/kxykov6H.jpg" ],
+          "published" : [ "2010-05-12T09:05:38+00:00" ],
+          "uid" : [ "tag:twitter.com:JamieJBartlett" ],
+          "url" : [ "https://twitter.com/JamieJBartlett", "https://petersfraserdunlop.com/clients/jamie-bartlett/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Name a more iconic duo of pinky-purple liquids stored in similarly sized glass bottles… I’LL WAIT" ],
+      "photo" : [ "https://pbs.twimg.com/media/FIk19rKXMAIxQru.jpg" ],
+      "published" : [ "2022-01-08T11:13:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1479773296983953410" ],
+      "url" : [ "https://twitter.com/JamieJBartlett/status/1479773296983953410" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Richard Lucas" ],
+        "nickname" : [ "richardlucas761" ],
+        "numeric-id" : [ "847848983322136579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1242494626482749441/FmODZM4u.jpg" ],
+        "published" : [ "2017-03-31T16:32:04+00:00" ],
+        "uid" : [ "tag:twitter.com:richardlucas761" ],
+        "url" : [ "https://twitter.com/richardlucas761" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Chambord = The Holy Hand Grenade of Antioch" ],
+    "published" : [ "2022-01-08T11:33:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1479778227086319622" ],
+    "url" : [ "https://twitter.com/richardlucas761/status/1479778227086319622" ]
+  },
+  "type" : [ "h-entry" ]
+}
