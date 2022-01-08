@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Taggart" ],
+        "nickname" : [ "qkate" ],
+        "numeric-id" : [ "37586090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1035671141598285824/48WwuXyb.jpg" ],
+        "published" : [ "2009-05-04T03:38:47+00:00" ],
+        "uid" : [ "tag:twitter.com:qkate" ],
+        "url" : [ "https://twitter.com/qkate", "http://www.katetaggart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "(I only have enough energy for paid labor at the moment, my friends; if you would like my engineering management insights you are welcome to ping me for my consulting rates! 💁💚)" ],
+    "in-reply-to" : [ "https://twitter.com/qkate/status/1479863946391670787" ],
+    "published" : [ "2022-01-08T17:13:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1479863949306654720" ],
+    "url" : [ "https://twitter.com/qkate/status/1479863949306654720" ]
+  },
+  "type" : [ "h-entry" ]
+}
