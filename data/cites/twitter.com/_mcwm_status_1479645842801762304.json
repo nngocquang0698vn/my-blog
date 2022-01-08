@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Murphy" ],
+        "nickname" : [ "mcwm" ],
+        "numeric-id" : [ "15535595" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472066300818120705/nIbOf-vG.jpg" ],
+        "published" : [ "2008-07-22T19:17:53+00:00" ],
+        "uid" : [ "tag:twitter.com:mcwm" ],
+        "url" : [ "https://twitter.com/mcwm", "http://mikeis.online" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this website remains free" ],
+    "photo" : [ "https://pbs.twimg.com/media/FIjCDMwXsAIxz89.jpg", "https://pbs.twimg.com/media/FIjCDTnXEAImgbd.jpg" ],
+    "published" : [ "2022-01-08T02:47:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1479645842801762304" ],
+    "url" : [ "https://twitter.com/mcwm/status/1479645842801762304" ]
+  },
+  "type" : [ "h-entry" ]
+}
