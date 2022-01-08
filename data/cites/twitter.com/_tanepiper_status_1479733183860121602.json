@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Vancouver, British Columbia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brent Toderian" ],
+          "nickname" : [ "BrentToderian" ],
+          "numeric-id" : [ "480196886" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1225177797833846784/FfyoUA0b.jpg" ],
+          "published" : [ "2012-02-01T06:57:12+00:00" ],
+          "uid" : [ "tag:twitter.com:BrentToderian" ],
+          "url" : [ "https://twitter.com/BrentToderian", "http://www.toderianurbanworks.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We’re living in a time when even if you’re not tired, you’re exhausted." ],
+      "published" : [ "2022-01-08T05:27:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1479686280589942784" ],
+      "url" : [ "https://twitter.com/BrentToderian/status/1479686280589942784" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've been on holiday for 3 weeks - the plan was to rest and get back into a good place for 2022.\n\n...I've never slept so much in recent times. My mind says I'm OK, but the body keeps count.</div>",
+      "value" : "I've been on holiday for 3 weeks - the plan was to rest and get back into a good place for 2022.\n\n...I've never slept so much in recent times. My mind says I'm OK, but the body keeps count."
+    } ],
+    "published" : [ "2022-01-08T08:34:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1479733183860121602" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1479733183860121602" ]
+  },
+  "type" : [ "h-entry" ]
+}
