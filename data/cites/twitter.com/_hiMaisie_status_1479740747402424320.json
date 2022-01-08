@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1456673471010902021/xe5JrCZV.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "never thought i’d ever have my dreams yassified" ],
+    "in-reply-to" : [ "https://twitter.com/hiMaisie/status/1479730234530353155" ],
+    "published" : [ "2022-01-08T09:04:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1479740747402424320" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1479740747402424320" ]
+  },
+  "type" : [ "h-entry" ]
+}
