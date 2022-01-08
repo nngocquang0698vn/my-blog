@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northern Hemisphere" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John" ],
+        "nickname" : [ "udarnik" ],
+        "numeric-id" : [ "61482996" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/395769781/P9015901.jpg" ],
+        "published" : [ "2009-07-30T13:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:udarnik" ],
+        "url" : [ "https://twitter.com/udarnik", "http://refugeesfromthecity.blogspot.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The rich?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/r0wdy_\"></a>",
+      "value" : "The rich?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/r0wdy_/status/1479632038952980482" ],
+    "published" : [ "2022-01-08T01:56:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1479632949905657859" ],
+    "url" : [ "https://twitter.com/udarnik/status/1479632949905657859" ]
+  },
+  "type" : [ "h-entry" ]
+}
