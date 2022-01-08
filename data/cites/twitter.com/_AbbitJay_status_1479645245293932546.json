@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hollywood, FL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jay Willard Abbit" ],
+        "nickname" : [ "AbbitJay" ],
+        "numeric-id" : [ "1214435803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469795097189527555/0MM-ygh3.jpg" ],
+        "published" : [ "2013-02-24T04:09:46+00:00" ],
+        "uid" : [ "tag:twitter.com:AbbitJay" ],
+        "url" : [ "https://twitter.com/AbbitJay", "http://www.facebook.com/jay.abbit" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This will never not be funny." ],
+    "photo" : [ "https://pbs.twimg.com/media/FIjBgk2XsAIAy6v.jpg" ],
+    "published" : [ "2022-01-08T02:44:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1479645245293932546" ],
+    "url" : [ "https://twitter.com/AbbitJay/status/1479645245293932546" ]
+  },
+  "type" : [ "h-entry" ]
+}
