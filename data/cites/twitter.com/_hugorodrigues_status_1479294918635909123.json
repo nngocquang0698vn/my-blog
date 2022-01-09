@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "~/" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hugo Rodrigues" ],
+        "nickname" : [ "hugorodrigues" ],
+        "numeric-id" : [ "14528643" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/694703285954027520/SByd-p8p.png" ],
+        "published" : [ "2008-04-25T16:25:59+00:00" ],
+        "uid" : [ "tag:twitter.com:hugorodrigues" ],
+        "url" : [ "https://twitter.com/hugorodrigues", "https://hugorodrigues.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I would say that once you start having *other* people contributing and maintaining is not fully *yours* anymore?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/marak\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/odarbelaeze\"></a>",
+      "value" : "I would say that once you start having *other* people contributing and maintaining is not fully *yours* anymore?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/odarbelaeze/status/1479284733670567939" ],
+    "published" : [ "2022-01-07T03:32:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1479294918635909123" ],
+    "url" : [ "https://twitter.com/hugorodrigues/status/1479294918635909123" ]
+  },
+  "type" : [ "h-entry" ]
+}
