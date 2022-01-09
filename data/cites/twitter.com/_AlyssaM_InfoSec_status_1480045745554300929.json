@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wisconsin, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alyssa Miller 👑 Duchess of Hackington" ],
+        "nickname" : [ "AlyssaM_InfoSec" ],
+        "numeric-id" : [ "922816932860088320" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1430266932507385871/SDYgn5PQ.jpg" ],
+        "published" : [ "2017-10-24T13:27:56+00:00" ],
+        "uid" : [ "tag:twitter.com:AlyssaM_InfoSec" ],
+        "url" : [ "https://twitter.com/AlyssaM_InfoSec", "https://alyssa.link/book" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Men, please add the following to your shouldITweetThis() method:\n\nif (tweet.text.includes('not all men') {\n       tweet.discard();\n}</div>",
+      "value" : "Men, please add the following to your shouldITweetThis() method:\n\nif (tweet.text.includes('not all men') {\n       tweet.discard();\n}"
+    } ],
+    "published" : [ "2022-01-09T05:16:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1480045745554300929" ],
+    "url" : [ "https://twitter.com/AlyssaM_InfoSec/status/1480045745554300929" ]
+  },
+  "type" : [ "h-entry" ]
+}
