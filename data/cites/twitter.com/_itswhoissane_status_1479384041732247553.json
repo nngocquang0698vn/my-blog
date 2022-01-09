@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Husain Bhagat" ],
+        "nickname" : [ "itswhoissane" ],
+        "numeric-id" : [ "933339187830431744" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480135243369648128/aTEDUiL7.png" ],
+        "published" : [ "2017-11-22T14:19:37+00:00" ],
+        "uid" : [ "tag:twitter.com:itswhoissane" ],
+        "url" : [ "https://twitter.com/itswhoissane", "https://husainbhagat.netlify.app" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Really need a decentralised GitHub now don't we?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/marak\"></a>",
+      "value" : "Really need a decentralised GitHub now don't we?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/marak/status/1479200803948830724" ],
+    "published" : [ "2022-01-07T09:26:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1479384041732247553" ],
+    "url" : [ "https://twitter.com/itswhoissane/status/1479384041732247553" ]
+  },
+  "type" : [ "h-entry" ]
+}
