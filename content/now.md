@@ -7,10 +7,6 @@ This page is inspired by <span class="h-card"><a class="p-name u-url" href="http
 
 This is both for longer-lived interests and shorter-lived "what I'm currently doing".
 
-I've been in COVID-19/Coronavirus self-quarantine since 2020-03-12.
-
-I bought a house mid-December, so am still settling in!
-
 What are my interests?
 
 - Blogging
@@ -27,7 +23,7 @@ What are my interests?
 What am I up to right now?
 
 - Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/)
-- I'm curently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
+- I'm currently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
 - I'm actively blogging about technical and personal things
 - I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
 - I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
