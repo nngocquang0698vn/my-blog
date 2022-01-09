@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Italy" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam" ],
+        "nickname" : [ "metruzanca" ],
+        "numeric-id" : [ "2564874441" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273643008265728003/dzzpFtpo.jpg" ],
+        "published" : [ "2014-05-26T07:51:05+00:00" ],
+        "uid" : [ "tag:twitter.com:metruzanca" ],
+        "url" : [ "https://twitter.com/metruzanca", "http://brkfst.io", "http://getbackchannel.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Often OSS developers make the world keep the lights on but aren't compensated for their time.\nMarak was struggling, asked help. Got nothing. In protest, removed his code and github suspended his account for removing something he owned the rights to.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JoshuaKGoldberg\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/marak\"></a>",
+      "value" : "Often OSS developers make the world keep the lights on but aren't compensated for their time.\nMarak was struggling, asked help. Got nothing. In protest, removed his code and github suspended his account for removing something he owned the rights to."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JoshuaKGoldberg/status/1479235187582148609" ],
+    "published" : [ "2022-01-07T01:07:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1479258479084937218" ],
+    "url" : [ "https://twitter.com/metruzanca/status/1479258479084937218" ]
+  },
+  "type" : [ "h-entry" ]
+}
