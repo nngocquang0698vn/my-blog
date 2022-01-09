@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luis Villa" ],
+        "nickname" : [ "luis_in_brief" ],
+        "numeric-id" : [ "1538841" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377736905622577152/Cm_Agc8k.jpg" ],
+        "published" : [ "2007-03-19T18:31:56+00:00" ],
+        "uid" : [ "tag:twitter.com:luis_in_brief" ],
+        "url" : [ "https://twitter.com/luis_in_brief", "https://lawofthe.horse/", "https://my.pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s true that the Web 2.0 we wanted (API-centric, 3rd-party-client-friendly) is not the Web 2.0 we got (piles of teetering, centralized XMLHttpRequest). But if you don’t understand why that happened, then it’s absolutely going to happen again." ],
+    "in-reply-to" : [ "https://twitter.com/luis_in_brief/status/1480020911545716737" ],
+    "published" : [ "2022-01-09T03:59:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1480026455723499521" ],
+    "url" : [ "https://twitter.com/luis_in_brief/status/1480026455723499521" ]
+  },
+  "type" : [ "h-entry" ]
+}
