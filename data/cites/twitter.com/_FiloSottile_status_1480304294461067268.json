@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Roma 🇮🇹 ↔ 🗽 New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Filippo ${jndi:ldap://filippo.io/t} Valsorda" ],
+        "nickname" : [ "FiloSottile" ],
+        "numeric-id" : [ "51049452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246564002538360832/iOH-In8Q.jpg" ],
+        "published" : [ "2009-06-26T13:10:33+00:00" ],
+        "uid" : [ "tag:twitter.com:FiloSottile" ],
+        "url" : [ "https://twitter.com/FiloSottile", "https://filippo.io", "http://mkcert.dev", "http://age-encryption.org", "http://filippo.io/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">How can we even start talking about supply chain security and sustainability if a maintainer publishing a bad npm package version breaks everyone instantly?\n\nStable, deterministic pinning is table stakes.\n\n<a href=\"https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected\">theverge.com/2022/1/9/22874…</a></div>",
+      "value" : "How can we even start talking about supply chain security and sustainability if a maintainer publishing a bad npm package version breaks everyone instantly?\n\nStable, deterministic pinning is table stakes.\n\ntheverge.com/2022/1/9/22874…"
+    } ],
+    "published" : [ "2022-01-09T22:23:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1480304294461067268" ],
+    "url" : [ "https://twitter.com/FiloSottile/status/1480304294461067268" ]
+  },
+  "type" : [ "h-entry" ]
+}
