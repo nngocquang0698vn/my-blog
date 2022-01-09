@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Future" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matt Mullenweg" ],
+          "nickname" : [ "photomatt" ],
+          "numeric-id" : [ "13479" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1290386927594610688/uK9NYeBe.png" ],
+          "published" : [ "2006-11-21T10:08:08+00:00" ],
+          "uid" : [ "tag:twitter.com:photomatt" ],
+          "url" : [ "https://twitter.com/photomatt", "https://ma.tt/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "People seem to be redefining Web 2.0 as Facebook, etc, that own data, but Web 2.0 at the time was platforms like WordPress, Odeo, Six Apart, Flickr, Technorati, and <a href=\"http://del.icio.us\">del.icio.us</a> that had open data and interoperated. <a href=\"https://www.flickr.com/photos/ross/49490304\">flickr.com/photos/ross/49…</a> <a href=\"https://twitter.com/brian_armstrong/status/1479636522282455042\">twitter.com/brian_armstron…</a>",
+        "value" : "People seem to be redefining Web 2.0 as Facebook, etc, that own data, but Web 2.0 at the time was platforms like WordPress, Odeo, Six Apart, Flickr, Technorati, and del.icio.us that had open data and interoperated. flickr.com/photos/ross/49… twitter.com/brian_armstron…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FIoBOQ1UYAQEooV.jpg" ],
+      "published" : [ "2022-01-09T02:10:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1479998907123863554" ],
+      "url" : [ "https://twitter.com/photomatt/status/1479998907123863554" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anil Dash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anil.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is one of the most important aspects of Web 2.0 that web3 advocates have tried to retcon. That generation also started with optimistic creators talking about decentralized, user-owned, open protocols (open standards, even!) that would empower people. Guess how it played out." ],
+    "published" : [ "2022-01-09T05:36:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1480050792363180033" ],
+    "url" : [ "https://twitter.com/anildash/status/1480050792363180033" ]
+  },
+  "type" : [ "h-entry" ]
+}
