@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Barrett" ],
+        "nickname" : [ "schnarfed" ],
+        "numeric-id" : [ "139199211" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi.jpg" ],
+        "published" : [ "2010-05-01T21:42:43+00:00" ],
+        "uid" : [ "tag:twitter.com:schnarfed" ],
+        "url" : [ "https://twitter.com/schnarfed", "https://snarfed.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Today marks 10 years since I first launched <a href=\"https://brid.gy/\">brid.gy</a>, my little IndieWeb side project that connects social networks and personal websites. Happy birthday, buddy! <a href=\"https://snarfed.org/2022-01-08_happy-10th-birthday-bridgy\">snarfed.org/2022-01-08_hap…</a>",
+      "value" : "Today marks 10 years since I first launched brid.gy, my little IndieWeb side project that connects social networks and personal websites. Happy birthday, buddy! snarfed.org/2022-01-08_hap…"
+    } ],
+    "published" : [ "2022-01-09T07:06:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1480073580041805825" ],
+    "url" : [ "https://twitter.com/schnarfed/status/1480073580041805825" ]
+  },
+  "type" : [ "h-entry" ]
+}
