@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "East London-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonty Wareing" ],
+        "nickname" : [ "jonty" ],
+        "numeric-id" : [ "1856851" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1356307719205101571/zka-nKfk.jpg" ],
+        "published" : [ "2007-03-22T10:28:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jonty" ],
+        "url" : [ "https://twitter.com/jonty", "http://jonty.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Out of curiosity I dug into how NFT's actually reference the media you're \"buying\" and my eyebrows are now orbiting the moon" ],
+    "published" : [ "2021-03-17T12:30:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1372163423446917122" ],
+    "url" : [ "https://twitter.com/jonty/status/1372163423446917122" ]
+  },
+  "type" : [ "h-entry" ]
+}
