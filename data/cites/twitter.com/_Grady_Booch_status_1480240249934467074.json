@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Acronyms every front end developer should know." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kaanapali, HI" ],
+        "uid" : [ "tag:twitter.com:386eee0c027ac681" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FIreqNcVIAQcrkv.jpg" ],
+    "published" : [ "2022-01-09T18:09:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1480240249934467074" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1480240249934467074" ]
+  },
+  "type" : [ "h-entry" ]
+}
