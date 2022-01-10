@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Well worth searching your GitHub URL with Google Scholar.\nE.g. <a href=\"https://scholar.google.com/scholar?q=github.com/edent\">scholar.google.com/scholar?q=gith…</a>\nGreat way to find out if your code has made it into any academic publications.</div>",
+        "value" : "Well worth searching your GitHub URL with Google Scholar.\nE.g. scholar.google.com/scholar?q=gith…\nGreat way to find out if your code has made it into any academic publications."
+      } ],
+      "photo" : [ {
+        "alt" : "List of citations. One of them points to my GitHub page.",
+        "value" : "https://pbs.twimg.com/media/FIrANy7XsAQRiQl.png"
+      } ],
+      "published" : [ "2022-01-09T15:56:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1480206980178403337" ],
+      "url" : [ "https://twitter.com/edent/status/1480206980178403337" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks to this tip I just found out Datasette gets a mention in this academic paper! \"What Else Is New? Open Data Users Need to Know What’s Changed\" <a href=\"https://www.computer.org/csdl/magazine/so/2022/01/09576893/1xNJfq0SwG4\">computer.org/csdl/magazine/…</a>",
+      "value" : "Thanks to this tip I just found out Datasette gets a mention in this academic paper! \"What Else Is New? Open Data Users Need to Know What’s Changed\" computer.org/csdl/magazine/…"
+    } ],
+    "published" : [ "2022-01-10T02:07:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1480360552845103104" ],
+    "url" : [ "https://twitter.com/simonw/status/1480360552845103104" ]
+  },
+  "type" : [ "h-entry" ]
+}
