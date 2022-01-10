@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The corner of ops and infosec" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bren Briggs" ],
+        "nickname" : [ "0xfraq" ],
+        "numeric-id" : [ "329380337" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475204446061748225/Ck2kM3LJ.jpg" ],
+        "published" : [ "2011-07-05T00:07:32+00:00" ],
+        "uid" : [ "tag:twitter.com:0xfraq" ],
+        "url" : [ "https://twitter.com/0xfraq", "https://www.fraq.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Quite literally the whole reason I have a job is because hosting, managing, updating, and securing the platforms we use to run our software is a tedious job that nearly everyone loathes, including sysadmins." ],
+    "in-reply-to" : [ "https://twitter.com/0xfraq/status/1480253001981960198" ],
+    "published" : [ "2022-01-09T19:01:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1480253308220723209" ],
+    "url" : [ "https://twitter.com/0xfraq/status/1480253308220723209" ]
+  },
+  "type" : [ "h-entry" ]
+}
