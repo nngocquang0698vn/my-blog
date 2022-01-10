@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The corner of ops and infosec" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bren Briggs" ],
+        "nickname" : [ "0xfraq" ],
+        "numeric-id" : [ "329380337" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475204446061748225/Ck2kM3LJ.jpg" ],
+        "published" : [ "2011-07-05T00:07:32+00:00" ],
+        "uid" : [ "tag:twitter.com:0xfraq" ],
+        "url" : [ "https://twitter.com/0xfraq", "https://www.fraq.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’ve been a professional sysadmin for over a decade and I can say with great confidence that these people saying “running your own infrastructure is easy” are either idiots or liars." ],
+    "published" : [ "2022-01-09T18:53:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1480251391885160452" ],
+    "url" : [ "https://twitter.com/0xfraq/status/1480251391885160452" ]
+  },
+  "type" : [ "h-entry" ]
+}
