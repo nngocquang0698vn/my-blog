@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "boston via mn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "folu" ],
+        "nickname" : [ "notfolu" ],
+        "numeric-id" : [ "265543232" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000662297599/e56fb1d2954819e2e88188d5016fb5e9.jpeg" ],
+        "published" : [ "2011-03-13T18:44:41+00:00" ],
+        "uid" : [ "tag:twitter.com:notfolu" ],
+        "url" : [ "https://twitter.com/notfolu", "http://unsnackable.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I can’t explain it but this is what 2022 feels like so far" ],
+    "published" : [ "2022-01-10T01:24:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1480349879323004933" ],
+    "url" : [ "https://twitter.com/notfolu/status/1480349879323004933" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1480349774935207936/pu/vid/576x1024/zFYsl1_MwJ85NkGK.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
