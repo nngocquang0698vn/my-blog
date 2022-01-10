@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Northeast DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Kaib" ],
+          "nickname" : [ "DavidKaib" ],
+          "numeric-id" : [ "397765811" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1455348467082141699/bDwyPpqo.jpg" ],
+          "published" : [ "2011-10-25T03:54:35+00:00" ],
+          "uid" : [ "tag:twitter.com:DavidKaib" ],
+          "url" : [ "https://twitter.com/DavidKaib", "http://notesonatheory.wordpress.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What’s a major problem in your field that is unsolved?" ],
+      "published" : [ "2022-01-10T02:49:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1480371168326688769" ],
+      "url" : [ "https://twitter.com/DavidKaib/status/1480371168326688769" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "𝑴𝒂𝒋𝒐𝒓 𝑺𝒆𝒏𝒂𝒕𝒐𝒓 𝑾𝒉𝒊𝒑" ],
+        "nickname" : [ "8proxies" ],
+        "numeric-id" : [ "1398407415863955462" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480238422891675650/sh9t_eD8.jpg" ],
+        "published" : [ "2021-05-28T22:35:15+00:00" ],
+        "uid" : [ "tag:twitter.com:8proxies" ],
+        "url" : [ "https://twitter.com/8proxies" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "racism (computer science)" ],
+    "published" : [ "2022-01-10T06:50:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1480431769484677120" ],
+    "url" : [ "https://twitter.com/8proxies/status/1480431769484677120" ]
+  },
+  "type" : [ "h-entry" ]
+}
