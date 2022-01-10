@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris McKee" ],
+        "nickname" : [ "chrismckee" ],
+        "numeric-id" : [ "1283507233565954048" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337087316209377284/ljNdBLNl.jpg" ],
+        "published" : [ "2020-07-15T21:02:35+00:00" ],
+        "uid" : [ "tag:twitter.com:chrismckee" ],
+        "url" : [ "https://twitter.com/chrismckee", "https://chrismckee.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">People screaming as someone fucked up their OSS code on purpose.\n\nIf only there was some way AWS could have, you know, pinned a specific version of a package for cdk... Oh wait there was.</div>",
+      "value" : "People screaming as someone fucked up their OSS code on purpose.\n\nIf only there was some way AWS could have, you know, pinned a specific version of a package for cdk... Oh wait there was."
+    } ],
+    "published" : [ "2022-01-09T23:49:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1480325985643937795" ],
+    "url" : [ "https://twitter.com/chrismckee/status/1480325985643937795" ]
+  },
+  "type" : [ "h-entry" ]
+}
