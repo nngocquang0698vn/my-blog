@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The World" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Java Champions" ],
+        "nickname" : [ "Java_Champions" ],
+        "numeric-id" : [ "1156921489" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3220519779/9928f94d6fb7bc0024781fa68e0bc571.jpeg" ],
+        "published" : [ "2013-02-07T11:51:20+00:00" ],
+        "uid" : [ "tag:twitter.com:Java_Champions" ],
+        "url" : [ "https://twitter.com/Java_Champions", "https://developer.oracle.com/javachampions/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The only <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> conference where *every* speaker is a <a href=\"https://twitter.com/Java_Champions\">@Java_Champions</a> ! And you are invited to join for free, but please register ASAP - <a href=\"https://jchampionsconf.com\">jchampionsconf.com</a> <a href=\"https://twitter.com/java\">@Java</a>",
+      "value" : "The only #Java conference where *every* speaker is a @Java_Champions ! And you are invited to join for free, but please register ASAP - jchampionsconf.com @Java"
+    } ],
+    "published" : [ "2022-01-08T20:21:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1479911195712933890" ],
+    "url" : [ "https://twitter.com/Java_Champions/status/1479911195712933890" ]
+  },
+  "type" : [ "h-entry" ]
+}
