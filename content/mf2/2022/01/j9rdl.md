@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/H3KTlC/status/1480555009234202624" ],
     "name" : [ "Like of @H3KTlC's tweet" ],
     "published" : [ "2022-01-10T16:00:00+0000" ],
     "category" : [ "salary" ],
