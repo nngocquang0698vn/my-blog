@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/edent/status/1480491872757993480" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1480494646111490049" ],
     "name" : [ "Reply to https://twitter.com/edent/status/1480491872757993480" ],
     "published" : [ "2022-01-10T10:54:04.766497173Z" ],
     "post-status" : [ "published" ],
