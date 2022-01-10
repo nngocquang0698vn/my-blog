@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Verge" ],
+          "nickname" : [ "verge" ],
+          "numeric-id" : [ "275686563" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8.jpg" ],
+          "published" : [ "2011-04-01T19:54:22+00:00" ],
+          "uid" : [ "tag:twitter.com:verge" ],
+          "url" : [ "https://twitter.com/verge", "http://www.theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Open source developer corrupts widely-used libraries, affecting tons of projects <a href=\"https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\">theverge.com/2022/1/9/22874…</a>",
+        "value" : "Open source developer corrupts widely-used libraries, affecting tons of projects theverge.com/2022/1/9/22874…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FIsFed5XEAsruEC.jpg" ],
+      "published" : [ "2022-01-09T20:58:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1480282925648199689" ],
+      "url" : [ "https://twitter.com/verge/status/1480282925648199689" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'VE LITERALLY BEEN SAYING FOR YEARS NPM IS BAD AND NPM IS AN ATTACK VECTOR AND NPX IS WORSE.\n\n(I even built a proof of concept to steal shit)\n\nWas told \"that's how it works 🤷‍♂️)\n\n<a href=\"https://github.com/npm/npm/issues/17724\">github.com/npm/npm/issues…</a></div>",
+      "value" : "I'VE LITERALLY BEEN SAYING FOR YEARS NPM IS BAD AND NPM IS AN ATTACK VECTOR AND NPX IS WORSE.\n\n(I even built a proof of concept to steal shit)\n\nWas told \"that's how it works 🤷‍♂️)\n\ngithub.com/npm/npm/issues…"
+    } ],
+    "published" : [ "2022-01-10T07:01:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1480434667899731985" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1480434667899731985" ]
+  },
+  "type" : [ "h-entry" ]
+}
