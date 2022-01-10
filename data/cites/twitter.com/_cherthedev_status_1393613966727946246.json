@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Emily Kager" ],
+          "nickname" : [ "EmilyKager" ],
+          "numeric-id" : [ "2347475803" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+          "published" : [ "2014-02-16T21:34:12+00:00" ],
+          "uid" : [ "tag:twitter.com:EmilyKager" ],
+          "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "🤯 RT this if you’re an engineer working on OS, compilers, APIs, algorithms without an engineering degree! 💅" ],
+      "in-reply-to" : [ "https://twitter.com/EmilyKager/status/1393077087838244864" ],
+      "photo" : [ {
+        "alt" : "TikTok comment “you can be a programmer the word engineer needs a degree”",
+        "value" : "https://pbs.twimg.com/media/E1W5MnHVIAQ1ZHV.jpg"
+      } ],
+      "published" : [ "2021-05-14T15:14:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1393223289233838082" ],
+      "url" : [ "https://twitter.com/EmilyKager/status/1393223289233838082" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469060036223660032/IdLRDiGE.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">✅ High school drop out\n✅ College drop out\n✅ Former stripper\n✅ Single mom\n✅ Worked on a compiler\n✅ Work on APIs\n✅ Writing algorithms</div>",
+      "value" : "✅ High school drop out\n✅ College drop out\n✅ Former stripper\n✅ Single mom\n✅ Worked on a compiler\n✅ Work on APIs\n✅ Writing algorithms"
+    } ],
+    "published" : [ "2021-05-15T17:07:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1393613966727946246" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1393613966727946246" ]
+  },
+  "type" : [ "h-entry" ]
+}
