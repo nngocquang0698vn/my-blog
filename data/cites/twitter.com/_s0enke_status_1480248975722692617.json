@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Soenke Ruempler" ],
+        "nickname" : [ "s0enke" ],
+        "numeric-id" : [ "20242205" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466540691555864579/AheepaTT.jpg" ],
+        "published" : [ "2009-02-06T15:01:13+00:00" ],
+        "uid" : [ "tag:twitter.com:s0enke" ],
+        "url" : [ "https://twitter.com/s0enke", "http://ruempler.eu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Looks like the AWS CDK is broken because the dependency on colors.js which has a totally hilarious bug: <a href=\"https://github.com/aws/aws-cdk/issues/18322\">github.com/aws/aws-cdk/is…</a>\n\nIt shows \"LIBERTY LIBERTY LIBERTY\".</div>",
+      "value" : "Looks like the AWS CDK is broken because the dependency on colors.js which has a totally hilarious bug: github.com/aws/aws-cdk/is…\n\nIt shows \"LIBERTY LIBERTY LIBERTY\"."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FIrl0VqXEAMR8kL.jpg" ],
+    "published" : [ "2022-01-09T18:43:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1480248975722692617" ],
+    "url" : [ "https://twitter.com/s0enke/status/1480248975722692617" ]
+  },
+  "type" : [ "h-entry" ]
+}
