@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trisha_gee/status/1480471464759500806" ],
     "name" : [ "Like of @trisha_gee's tweet" ],
     "published" : [ "2022-01-10T09:34:00+0000" ],
     "like-of" : [ "https://twitter.com/trisha_gee/status/1480471464759500806" ],
