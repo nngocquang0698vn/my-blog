@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Salt & Vinegar Chips" ],
+        "nickname" : [ "agentdero" ],
+        "numeric-id" : [ "674593" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1108174178430009345/jKK6CQ-q.png" ],
+        "published" : [ "2007-01-21T10:15:52+00:00" ],
+        "uid" : [ "tag:twitter.com:agentdero" ],
+        "url" : [ "https://twitter.com/agentdero", "https://brokenco.de/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">tfw somebody modifies every jira that has ever existed\n\n..and sends email updates for each one</div>",
+      "value" : "tfw somebody modifies every jira that has ever existed\n\n..and sends email updates for each one"
+    } ],
+    "published" : [ "2022-01-11T20:14:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1480996615435403265" ],
+    "url" : [ "https://twitter.com/agentdero/status/1480996615435403265" ]
+  },
+  "type" : [ "h-entry" ]
+}
