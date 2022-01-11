@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "KS → TX → NYC → Oakland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mina Markham" ],
+        "nickname" : [ "MinaMarkham" ],
+        "numeric-id" : [ "15442853" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc.jpg" ],
+        "published" : [ "2008-07-15T17:05:02+00:00" ],
+        "uid" : [ "tag:twitter.com:MinaMarkham" ],
+        "url" : [ "https://twitter.com/MinaMarkham", "http://mina.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Is anyone else exhausted?\n\nLike, all the time?</div>",
+      "value" : "Is anyone else exhausted?\n\nLike, all the time?"
+    } ],
+    "published" : [ "2022-01-11T19:16:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1480981965687779330" ],
+    "url" : [ "https://twitter.com/MinaMarkham/status/1480981965687779330" ]
+  },
+  "type" : [ "h-entry" ]
+}
