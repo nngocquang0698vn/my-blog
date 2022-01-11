@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I had great fun with Ratchet &amp; Clank: A Rift Apart!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shanselman\"></a>",
+      "value" : "I had great fun with Ratchet & Clank: A Rift Apart!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1480825289391312898" ],
+    "published" : [ "2022-01-11T08:55:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1480825779026108416" ],
+    "url" : [ "https://twitter.com/type__error/status/1480825779026108416" ]
+  },
+  "type" : [ "h-entry" ]
+}
