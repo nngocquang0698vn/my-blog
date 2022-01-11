@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gunsnrosesgirl3/status/1480944135876055041" ],
     "name" : [ "Like of @gunsnrosesgirl3's tweet" ],
     "published" : [ "2022-01-11T21:36:00+0000" ],
     "category" : [ "social-media", "twitter", "shitpost" ],
