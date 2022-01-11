@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AerialShading/status/1480710144908353536" ],
     "name" : [ "Like of @AerialShading's tweet" ],
     "published" : [ "2022-01-11T21:40:00+0000" ],
     "category" : [ "art" ],
