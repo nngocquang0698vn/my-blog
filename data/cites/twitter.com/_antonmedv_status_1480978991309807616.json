@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anton Medvedev" ],
+        "nickname" : [ "antonmedv" ],
+        "numeric-id" : [ "1577431314" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/817274039865487360/onLFViLs.jpg" ],
+        "published" : [ "2013-07-08T11:32:25+00:00" ],
+        "uid" : [ "tag:twitter.com:antonmedv" ],
+        "url" : [ "https://twitter.com/antonmedv", "https://medv.io", "http://medv.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Reading manuals is extremely helpful. \n\nI discovered the \"accept-new\" option for ssh strict host key checking and now I can delete my buggy code for manually populating known_hosts. 😅\n\nDoes exactly what it says. If the host key not in known_hosts, add it. Fail otherwise.</div>",
+      "value" : "Reading manuals is extremely helpful. \n\nI discovered the \"accept-new\" option for ssh strict host key checking and now I can delete my buggy code for manually populating known_hosts. 😅\n\nDoes exactly what it says. If the host key not in known_hosts, add it. Fail otherwise."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FI1-b9gWYAQGInL.jpg" ],
+    "published" : [ "2022-01-11T19:04:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1480978991309807616" ],
+    "url" : [ "https://twitter.com/antonmedv/status/1480978991309807616" ]
+  },
+  "type" : [ "h-entry" ]
+}
