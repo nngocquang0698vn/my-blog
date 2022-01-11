@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Koonin" ],
+        "nickname" : [ "type__error" ],
+        "numeric-id" : [ "733123902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474717155983773700/sXRdF5e3.jpg" ],
+        "published" : [ "2012-08-02T16:24:42+00:00" ],
+        "uid" : [ "tag:twitter.com:type__error" ],
+        "url" : [ "https://twitter.com/type__error", "http://localghost.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Don’t forget the new emoji channel, which pings every time someone creates a new slack emoji\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MakingMonzo\"></a>",
+      "value" : "Don’t forget the new emoji channel, which pings every time someone creates a new slack emoji"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MakingMonzo/status/1480870403233001473" ],
+    "published" : [ "2022-01-11T18:24:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1480968902079303683" ],
+    "url" : [ "https://twitter.com/type__error/status/1480968902079303683" ]
+  },
+  "type" : [ "h-entry" ]
+}
