@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Making Monzo" ],
+        "nickname" : [ "MakingMonzo" ],
+        "numeric-id" : [ "996421041349189632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1080511517878112256/cZZHxiRa.jpg" ],
+        "published" : [ "2018-05-15T16:04:23+00:00" ],
+        "uid" : [ "tag:twitter.com:MakingMonzo" ],
+        "url" : [ "https://twitter.com/MakingMonzo", "https://community.monzo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We’ve got a Slack channel for everything at Monzo. To name a few, there’s the important ones like ‘Diversity & Inclusion,’ ‘Announcements’ and one literally called ‘Important.’" ],
+    "published" : [ "2022-01-11T11:53:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1480870403233001473" ],
+    "url" : [ "https://twitter.com/MakingMonzo/status/1480870403233001473" ]
+  },
+  "type" : [ "h-entry" ]
+}
