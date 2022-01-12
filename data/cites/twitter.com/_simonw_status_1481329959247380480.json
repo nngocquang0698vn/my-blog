@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I've started hitting publish, then reading it with everyone else who sees my tweet about it and fixing the typos when I spot them\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/smsm1\"></a>",
+      "value" : "I've started hitting publish, then reading it with everyone else who sees my tweet about it and fixing the typos when I spot them"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/smsm1/status/1481310623979954176" ],
+    "published" : [ "2022-01-12T18:19:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1481329959247380480" ],
+    "url" : [ "https://twitter.com/simonw/status/1481329959247380480" ]
+  },
+  "type" : [ "h-entry" ]
+}
