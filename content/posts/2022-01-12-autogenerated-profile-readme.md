@@ -28,7 +28,7 @@ As the screenshot above shows, the README produced has some information like my 
 
 What I particularly like about my approach is that it uses the [Microformats2](https://microformats.io) markup that's already on my pages, as part of interoperability with one of the open standards that the IndieWeb community own, and I have been using for some time now. This has meant that there's absolutely nothing I've needed to do to get this data readily available, and I've been able to populate a lot of interesting things in the READMEs, purely by interacting with the metadata on posts that I use to track my life.
 
-You can check out what it looks like on [my GitLab profile](https://gitlab.com/jamietanna) and on [my GitHub profile](https://github.com/jamietanna), or on [readme.jvt.me](http://readme.jvt.me) which is a platform agnostic version.
+You can check out what it looks like on [my GitLab profile](https://gitlab.com/jamietanna) and on [my GitHub profile](https://github.com/jamietanna), or on [readme.jvt.me](https://readme.jvt.me) which is a platform agnostic version.
 
 The automation is built from [my first real Go program, `readme-generator`](https://gitlab.com/jamietanna/readme-generator) which uses <span class="h-card"><a class="u-url" href="https://willnorris.com">Will Norris</a></span>'s awesome [microformats package for Go](https://github.com/willnorris/microformats) to do the heavy lifting.
 
