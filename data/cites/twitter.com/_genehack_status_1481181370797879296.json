@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Moose" ],
+          "nickname" : [ "LitMoose" ],
+          "numeric-id" : [ "2209164895" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1381088734104391681/wjLABiO2.jpg" ],
+          "published" : [ "2013-11-22T15:45:58+00:00" ],
+          "uid" : [ "tag:twitter.com:LitMoose" ],
+          "url" : [ "https://twitter.com/LitMoose" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Strong opinion: \"Unlimited PTO\" but \"you're compared to how much you take versus your peers\" is not unlimited PTO. \nIt encourages people to keep working and burn out even when they need to take the time out of fear of retribution/not having it later.</div>",
+        "value" : "Strong opinion: \"Unlimited PTO\" but \"you're compared to how much you take versus your peers\" is not unlimited PTO. \nIt encourages people to keep working and burn out even when they need to take the time out of fear of retribution/not having it later."
+      } ],
+      "published" : [ "2022-01-10T23:31:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1480683805732188163" ],
+      "url" : [ "https://twitter.com/LitMoose/status/1480683805732188163" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salem, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "genehack" ],
+        "nickname" : [ "genehack" ],
+        "numeric-id" : [ "753743" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347434954725105665/l2FJWg93.jpg" ],
+        "published" : [ "2007-02-04T03:37:51+00:00" ],
+        "uid" : [ "tag:twitter.com:genehack" ],
+        "url" : [ "https://twitter.com/genehack", "https://genehack.org", "http://genehack.blog", "http://covid.house", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Strong opinion: unlimited PTO is bullshit, period. \n\nUnlimited PTO with a mandatory minimum is what you should be thinking about.</div>",
+      "value" : "Strong opinion: unlimited PTO is bullshit, period. \n\nUnlimited PTO with a mandatory minimum is what you should be thinking about."
+    } ],
+    "published" : [ "2022-01-12T08:28:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1481181370797879296" ],
+    "url" : [ "https://twitter.com/genehack/status/1481181370797879296" ]
+  },
+  "type" : [ "h-entry" ]
+}
