@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stefan Tilkov" ],
+        "nickname" : [ "stilkov" ],
+        "numeric-id" : [ "5325152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1230388498705895425/GAWp0UhW.jpg" ],
+        "published" : [ "2007-04-20T13:45:30+00:00" ],
+        "uid" : [ "tag:twitter.com:stilkov" ],
+        "url" : [ "https://twitter.com/stilkov", "https://www.innoq.com/", "http://innoq.com", "http://tilkov.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My co-worker <a href=\"https://twitter.com/jochen_christ\">@jochen_christ</a> has published <a href=\"https://www.http-feeds.org\">http-feeds.org</a>, a specification for asynchronous event streaming and data replication with plain HTTP APIs",
+      "value" : "My co-worker @jochen_christ has published http-feeds.org, a specification for asynchronous event streaming and data replication with plain HTTP APIs"
+    } ],
+    "published" : [ "2022-01-12T09:28:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1481196444765892610" ],
+    "url" : [ "https://twitter.com/stilkov/status/1481196444765892610" ]
+  },
+  "type" : [ "h-entry" ]
+}
