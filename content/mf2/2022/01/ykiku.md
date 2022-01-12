@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/andykreed/status/1481130665101840386" ],
     "name" : [ "Like of @andykreed's tweet" ],
     "published" : [ "2022-01-12T15:23:00+0000" ],
     "category" : [ "shitpost" ],
