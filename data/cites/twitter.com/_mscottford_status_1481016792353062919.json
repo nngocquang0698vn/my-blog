@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Richmond, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "M. Scott Ford" ],
+        "nickname" : [ "mscottford" ],
+        "numeric-id" : [ "11961202" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1080806722606977024/6W6BuSPh.jpg" ],
+        "published" : [ "2008-01-07T21:48:31+00:00" ],
+        "uid" : [ "tag:twitter.com:mscottford" ],
+        "url" : [ "https://twitter.com/mscottford", "http://corgibytes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A little bit of ruby to communicate how I'm feeling today." ],
+    "photo" : [ {
+      "alt" : "Ruby interactive session:\n\nirb(main):017:1* class Date\nirb(main):018:2*   def to_pandemic_day\nirb(main):019:2*     march_2020 = Date.parse('2020/03/01')\nirb(main):020:2*     pandemic_days = Date.today - march_2020\nirb(main):021:2*     \"March #{pandemic_days.to_i}th, 2020\"\nirb(main):022:1*   end\nirb(main):023:0> end\n=> :to_pandemic_day\nirb(main):024:0> Date.today.to_pandemic_day\n=> \"March 681th, 2020\"\nirb(main):025:0> puts \"Today feels like it's #{Date.today.to_pandemic_day}\"\nToday feels like it's March 681th, 2020\n=> nil\nirb(main):026:0>",
+      "value" : "https://pbs.twimg.com/media/FI2gySRXEAsiGpu.jpg"
+    } ],
+    "published" : [ "2022-01-11T21:34:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1481016792353062919" ],
+    "url" : [ "https://twitter.com/mscottford/status/1481016792353062919" ]
+  },
+  "type" : [ "h-entry" ]
+}
