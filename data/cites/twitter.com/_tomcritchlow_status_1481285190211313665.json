@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Critchlow" ],
+        "nickname" : [ "tomcritchlow" ],
+        "numeric-id" : [ "6419982" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/502213636429852673/-erMjV65.jpeg" ],
+        "published" : [ "2007-05-29T16:59:48+00:00" ],
+        "uid" : [ "tag:twitter.com:tomcritchlow" ],
+        "url" : [ "https://twitter.com/tomcritchlow", "http://tomcritchlow.com", "http://fiercelycurious.com", "http://littlefutures.club", "http://quotebacks.net", "http://seomba.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Looking for a general purpose scraping API to build on.\n\n- not just for Google (can use specialist serpapi for that)\n- needs JavaScript rendering ability\n- has an affordable price\n\nWhat scraping API service do you all use? And why?</div>",
+      "value" : "Looking for a general purpose scraping API to build on.\n\n- not just for Google (can use specialist serpapi for that)\n- needs JavaScript rendering ability\n- has an affordable price\n\nWhat scraping API service do you all use? And why?"
+    } ],
+    "published" : [ "2022-01-12T15:21:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1481285190211313665" ],
+    "url" : [ "https://twitter.com/tomcritchlow/status/1481285190211313665" ]
+  },
+  "type" : [ "h-entry" ]
+}
