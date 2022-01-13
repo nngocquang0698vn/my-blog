@@ -56,6 +56,7 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
     // make sure that the Mapped Diagnostic Context (MDC) has the `correlationId` so it can then
     // be populated in the logs
     try (MDC.MDCCloseable closable = MDC.putCloseable("correlationId", correlationId)) {
+      response.addHeader("correlation-id", correlationId); // so the response contains it, too
       filterChain.doFilter(request, response);
     }
   }
