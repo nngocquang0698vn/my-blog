@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "url" : [ "https://twitter.com/netflix", "http://spotify.link/NetflixHub" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Welcome to Murderville, a new series starring Will Arnett as a detective who, in every episode, has to solve a murder with a new celebrity guest star as his partner. \n\nThe catch is: the guest star is never given a script so they have to improvise their way through the case!</div>",
+      "value" : "Welcome to Murderville, a new series starring Will Arnett as a detective who, in every episode, has to solve a murder with a new celebrity guest star as his partner. \n\nThe catch is: the guest star is never given a script so they have to improvise their way through the case!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FJAB7rYVkAQ-jjr.jpg", "https://pbs.twimg.com/media/FJAB9RsVkAQRrIg.jpg", "https://pbs.twimg.com/media/FJAB_fqVkAErfbb.jpg", "https://pbs.twimg.com/media/FJACAnlVcAAyg3t.jpg" ],
+    "published" : [ "2022-01-13T18:00:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1481687490964729858" ],
+    "url" : [ "https://twitter.com/netflix/status/1481687490964729858" ]
+  },
+  "type" : [ "h-entry" ]
+}
