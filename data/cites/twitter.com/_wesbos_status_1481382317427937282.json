@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamilton, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wes Bos" ],
+        "nickname" : [ "wesbos" ],
+        "numeric-id" : [ "815246" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca.jpg" ],
+        "published" : [ "2007-03-06T16:10:09+00:00" ],
+        "uid" : [ "tag:twitter.com:wesbos" ],
+        "url" : [ "https://twitter.com/wesbos", "http://wesbos.com", "http://BeginnerJavaScript.com", "http://ReactForBeginners.com", "http://JavaScript30.com", "http://wesbos.com/courses" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I often wonder how many phantom servers around the world are just running because no one knows what they do and are too scared to turn them off" ],
+    "published" : [ "2022-01-12T21:47:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1481382317427937282" ],
+    "url" : [ "https://twitter.com/wesbos/status/1481382317427937282" ]
+  },
+  "type" : [ "h-entry" ]
+}
