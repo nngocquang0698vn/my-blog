@@ -49,7 +49,7 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
     String correlationId = request.getHeader("correlation-id");
     if (null == correlationId || !UUID_PATTERN.matcher(correlationId).matches()) {
       // only allow UUIDs, if it's not valid according to our contract, allow it to be rewritten
-      // alternatively, we would rejct the request with an HTTP 400 Bad Request, as a client
+      // alternatively, we would reject the request with an HTTP 400 Bad Request, as a client
       // hasn't fulfilled the contract
       correlationId = UUID.randomUUID().toString();
     }
