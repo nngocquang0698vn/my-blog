@@ -5,6 +5,7 @@ tags:
 - blogumentation
 - java
 - jsr380
+- bean-validation
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-06T10:47:39+0100
