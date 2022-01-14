@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Louis Rosenfeld" ],
+          "nickname" : [ "louisrosenfeld" ],
+          "numeric-id" : [ "1760431" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/465966833070112768/F6-U7OZf.jpeg" ],
+          "published" : [ "2007-03-21T15:40:00+00:00" ],
+          "uid" : [ "tag:twitter.com:louisrosenfeld" ],
+          "url" : [ "https://twitter.com/louisrosenfeld", "http://rosenfeldmedia.com", "http://rosenfeldreview.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Great tip for presenting remotely that I learned from a couple of our <a href=\"https://twitter.com/search?q=%23DesignOps\">#DesignOps</a> Summit speakers: FaceTime with a trusted friend or mentor while presenting. (Muted, of course.) Presenting to one person is more conversational and natural—especially a person you know and trust.",
+        "value" : "Great tip for presenting remotely that I learned from a couple of our #DesignOps Summit speakers: FaceTime with a trusted friend or mentor while presenting. (Muted, of course.) Presenting to one person is more conversational and natural—especially a person you know and trust."
+      } ],
+      "published" : [ "2020-11-09T15:52:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1325828574004342786" ],
+      "url" : [ "https://twitter.com/louisrosenfeld/status/1325828574004342786" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nik Knight" ],
+        "nickname" : [ "kninki" ],
+        "numeric-id" : [ "70655349" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471096856327376898/VrP1yeiP.jpg" ],
+        "published" : [ "2009-09-01T11:17:12+00:00" ],
+        "uid" : [ "tag:twitter.com:kninki" ],
+        "url" : [ "https://twitter.com/kninki", "https://nikhknight.wixsite.com/kickingthecan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Having done a couple of online talks, this sounds like a great tip - it's unnerving talking to yourself/your slides with no audience feedback at all." ],
+    "published" : [ "2022-01-14T07:11:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1481886692025982976" ],
+    "url" : [ "https://twitter.com/kninki/status/1481886692025982976" ]
+  },
+  "type" : [ "h-entry" ]
+}
