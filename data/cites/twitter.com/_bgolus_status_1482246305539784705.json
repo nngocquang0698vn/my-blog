@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kirkland, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Golus" ],
+        "nickname" : [ "bgolus" ],
+        "numeric-id" : [ "182558685" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273725687086452737/s_Utcn9m.jpg" ],
+        "published" : [ "2010-08-24T21:54:52+00:00" ],
+        "uid" : [ "tag:twitter.com:bgolus" ],
+        "url" : [ "https://twitter.com/bgolus", "https://medium.com/@bgolus" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fun fact, the infamous Sony Playstation 2 Development Tool, which while much larger shared a lot of design elements with the consumer Playstation 2, are both based off of their now demolished Sony Playstation Tool building in the Ginza district of Tokyo, Japan." ],
+    "photo" : [ {
+      "alt" : "The Sony Playstation Tool Building.",
+      "value" : "https://pbs.twimg.com/media/FJH--TrUYAEJHYC.jpg"
+    } ],
+    "published" : [ "2022-01-15T07:00:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1482246305539784705" ],
+    "url" : [ "https://twitter.com/bgolus/status/1482246305539784705" ]
+  },
+  "type" : [ "h-entry" ]
+}
