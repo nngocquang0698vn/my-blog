@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, Netherlands 🇳🇱" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gregory Witek" ],
+          "nickname" : [ "gregorywitek" ],
+          "numeric-id" : [ "72492438" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/729710313453428738/TMu-dAWM.jpg" ],
+          "published" : [ "2009-09-08T06:51:42+00:00" ],
+          "uid" : [ "tag:twitter.com:gregorywitek" ],
+          "url" : [ "https://twitter.com/gregorywitek", "https://youtube.com/NotOnlyCode", "http://notonlycode.org", "http://youtube.com/notonlycode" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">What companies should do instead?\n\n* offer dedicated time to learn - and empower employees to actually use this time, so that they don't feel like shit when they study when others are fixing bugs</div>",
+        "value" : "What companies should do instead?\n\n* offer dedicated time to learn - and empower employees to actually use this time, so that they don't feel like shit when they study when others are fixing bugs"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/gregorywitek/status/1482320745237827594" ],
+      "published" : [ "2022-01-15T11:56:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1482320747397894144" ],
+      "url" : [ "https://twitter.com/gregorywitek/status/1482320747397894144" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sverige" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicolas Moutschen" ],
+        "nickname" : [ "NMoutschen" ],
+        "numeric-id" : [ "1076675328" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455550973955514368/xsm4pIYz.jpg" ],
+        "published" : [ "2013-01-10T14:00:49+00:00" ],
+        "uid" : [ "tag:twitter.com:NMoutschen" ],
+        "url" : [ "https://twitter.com/NMoutschen", "https://n14n.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "One thing I love about the SA role at AWS: we can take 20% of our time for self-learning and experimenting." ],
+    "published" : [ "2022-01-16T09:10:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1482641347060326400" ],
+    "url" : [ "https://twitter.com/NMoutschen/status/1482641347060326400" ]
+  },
+  "type" : [ "h-entry" ]
+}
