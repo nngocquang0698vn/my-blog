@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dallas, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dallas Texas TV" ],
+          "nickname" : [ "DallasTexasTV" ],
+          "numeric-id" : [ "1229443127435546627" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1298377827226726405/Np9velkF.jpg" ],
+          "published" : [ "2020-02-17T16:31:09+00:00" ],
+          "uid" : [ "tag:twitter.com:DallasTexasTV" ],
+          "url" : [ "https://twitter.com/DallasTexasTV", "https://instagram.com/dallastexas_tv?utm_medium=copy_link" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "It’s a life or death situation walking outside in Texas today " ],
+      "published" : [ "2022-01-15T16:10:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1482384615184773123" ],
+      "url" : [ "https://twitter.com/DallasTexasTV/status/1482384615184773123" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1007314409318961153/pu/vid/480x480/fUUHQ1Why4fhf9p4.mp4?tag=3" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brynn Tannehill" ],
+        "nickname" : [ "BrynnTannehill" ],
+        "numeric-id" : [ "877981025921638401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389214013045813251/Xrthj4WC.jpg" ],
+        "published" : [ "2017-06-22T20:06:03+00:00" ],
+        "uid" : [ "tag:twitter.com:BrynnTannehill" ],
+        "url" : [ "https://twitter.com/BrynnTannehill", "http://www.brynntannehill.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Worst. TARDIS. Ever." ],
+    "published" : [ "2022-01-16T18:00:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1482774748237029385" ],
+    "url" : [ "https://twitter.com/BrynnTannehill/status/1482774748237029385" ]
+  },
+  "type" : [ "h-entry" ]
+}
