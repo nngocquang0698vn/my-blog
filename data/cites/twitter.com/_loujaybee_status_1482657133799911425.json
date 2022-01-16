@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/gregorywitek/s…" ],
+        "url" : [ "https://twitter.com/gregorywitek/status/1482320747397894144" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Stockholm, Sverige" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nicolas Moutschen" ],
+          "nickname" : [ "NMoutschen" ],
+          "numeric-id" : [ "1076675328" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1455550973955514368/xsm4pIYz.jpg" ],
+          "published" : [ "2013-01-10T14:00:49+00:00" ],
+          "uid" : [ "tag:twitter.com:NMoutschen" ],
+          "url" : [ "https://twitter.com/NMoutschen", "https://n14n.dev/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "One thing I love about the SA role at AWS: we can take 20% of our time for self-learning and experimenting.\n<a class=\"tag\" href=\"https://twitter.com/gregorywitek/status/1482320747397894144\">twitter.com/gregorywitek/s…</a>",
+        "value" : "One thing I love about the SA role at AWS: we can take 20% of our time for self-learning and experimenting."
+      } ],
+      "published" : [ "2022-01-16T09:10:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1482641347060326400" ],
+      "url" : [ "https://twitter.com/NMoutschen/status/1482641347060326400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/nmoutschen/sta…" ],
+      "url" : [ "https://twitter.com/nmoutschen/status/1482641347060326400" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lou ☁️ 👨‍💻🏋️‍♂️🎸🚴🏻‍♂️🏍" ],
+        "nickname" : [ "loujaybee" ],
+        "numeric-id" : [ "1290693397" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476113024192815110/VS-9X4ZI.jpg" ],
+        "published" : [ "2013-03-23T07:07:59+00:00" ],
+        "uid" : [ "tag:twitter.com:loujaybee" ],
+        "url" : [ "https://twitter.com/loujaybee", "https://loujaybee.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I have no idea how folks are effective in tech without devoting a significant portion of time to learning and/or research. This should not be a perk… it’s a mandatory aspect of being a responsible tech professional.\n<a class=\"tag\" href=\"https://twitter.com/nmoutschen/status/1482641347060326400\">twitter.com/nmoutschen/sta…</a>",
+      "value" : "I have no idea how folks are effective in tech without devoting a significant portion of time to learning and/or research. This should not be a perk… it’s a mandatory aspect of being a responsible tech professional."
+    } ],
+    "published" : [ "2022-01-16T10:13:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1482657133799911425" ],
+    "url" : [ "https://twitter.com/loujaybee/status/1482657133799911425" ]
+  },
+  "type" : [ "h-entry" ]
+}
