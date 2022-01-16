@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew S. Wilson (msw)" ],
+        "nickname" : [ "_msw_" ],
+        "numeric-id" : [ "15656207" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457762378506928131/vzTewCB-.jpg" ],
+        "published" : [ "2008-07-30T04:04:46+00:00" ],
+        "uid" : [ "tag:twitter.com:_msw_" ],
+        "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "http://linkedin.com/in/matthewswilson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Securing the (open source) software supply chain\" naturally focuses attention \"upstream\" in the supply chain.\n\nAnd there is so much to do _downstream_ in how we assemble and operate software more securely.\n\nImprovements downstream don't need to wait on investments upstream.</div>",
+      "value" : "\"Securing the (open source) software supply chain\" naturally focuses attention \"upstream\" in the supply chain.\n\nAnd there is so much to do _downstream_ in how we assemble and operate software more securely.\n\nImprovements downstream don't need to wait on investments upstream."
+    } ],
+    "published" : [ "2022-01-16T17:18:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1482764320773591044" ],
+    "url" : [ "https://twitter.com/_msw_/status/1482764320773591044" ]
+  },
+  "type" : [ "h-entry" ]
+}
