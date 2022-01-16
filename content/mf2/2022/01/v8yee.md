@@ -4,9 +4,9 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1482756548938158082" ],
     "published" : [ "2022-01-16T16:42:00+0000" ],
-    "category" : [ "oidc", "oidc", "git-lab", "git-hub", "micropub" ],
+    "category" : [ "oidc", "git-lab", "git-hub", "micropub" ],
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
@@ -15,6 +15,6 @@
   },
   "kind" : "notes",
   "slug" : "2022/01/v8yee",
-  "tags" : [ "oidc", "oidc", "git-lab", "git-hub", "micropub" ],
+  "tags" : [ "oidc", "git-lab", "git-hub", "micropub" ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }
