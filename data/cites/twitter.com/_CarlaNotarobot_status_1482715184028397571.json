@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carla Notarobot 🤖👩🏻‍💻" ],
+        "nickname" : [ "CarlaNotarobot" ],
+        "numeric-id" : [ "1263631110581432320" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1263631273823801344/0h2zbegC.jpg" ],
+        "published" : [ "2020-05-22T00:41:58+00:00" ],
+        "uid" : [ "tag:twitter.com:CarlaNotarobot" ],
+        "url" : [ "https://twitter.com/CarlaNotarobot", "https://www.youtube.com/channel/UCnyWSONkScKMxut5g8iGi0A/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why refactor your code and keep up with dependency deprecations when you can get a new job every 3 years to avoid your own technical debt?" ],
+    "published" : [ "2022-01-16T14:03:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1482715184028397571" ],
+    "url" : [ "https://twitter.com/CarlaNotarobot/status/1482715184028397571" ]
+  },
+  "type" : [ "h-entry" ]
+}
