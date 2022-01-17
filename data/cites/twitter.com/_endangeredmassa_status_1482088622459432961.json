@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean Massa" ],
+        "nickname" : [ "endangeredmassa" ],
+        "numeric-id" : [ "17292674" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/935576199400644608/8lJIItGC.jpg" ],
+        "published" : [ "2008-11-10T19:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:endangeredmassa" ],
+        "url" : [ "https://twitter.com/endangeredmassa", "http://massalabs.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This thread has some great things, but this specifically will filter out a ton of great people. It's not because they fear feedback, but this specific style of delivery sounds like an absolute nightmare.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nathanbarry\"></a>",
+      "value" : "This thread has some great things, but this specifically will filter out a ton of great people. It's not because they fear feedback, but this specific style of delivery sounds like an absolute nightmare."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/nathanbarry/status/1480944074114822147" ],
+    "published" : [ "2022-01-14T20:33:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1482088622459432961" ],
+    "url" : [ "https://twitter.com/endangeredmassa/status/1482088622459432961" ]
+  },
+  "type" : [ "h-entry" ]
+}
