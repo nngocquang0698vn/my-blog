@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Gothenburg, Sweden" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sebastian Bille" ],
+          "nickname" : [ "TastefulElk" ],
+          "numeric-id" : [ "748010593" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1311388116633235456/FvPs1UAz.jpg" ],
+          "published" : [ "2012-08-09T21:50:02+00:00" ],
+          "uid" : [ "tag:twitter.com:TastefulElk" ],
+          "url" : [ "https://twitter.com/TastefulElk", "https://dev.to/tastefulelk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I grew tired of switching back and forth between the <a href=\"https://twitter.com/awscloud\">@awscloud</a> IAM docs and <a href=\"https://twitter.com/code\">@code</a>, so I built an extension to streamline it!\n\nsupports <a href=\"https://twitter.com/goserverless\">@goserverless</a>, AWS SAM, and CloudFormation!\n\n<a href=\"https://twitter.com/search?q=%23serverless\">#serverless</a> <a href=\"https://twitter.com/search?q=%23AWSCommunity\">#AWSCommunity</a>\n<a href=\"https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend\">marketplace.visualstudio.com/items?itemName…</a></div>",
+        "value" : "I grew tired of switching back and forth between the @awscloud IAM docs and @code, so I built an extension to streamline it!\n\nsupports @goserverless, AWS SAM, and CloudFormation!\n\n#serverless #AWSCommunity\nmarketplace.visualstudio.com/items?itemName…"
+      } ],
+      "published" : [ "2022-01-17T10:15:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1483020073728159748" ],
+      "url" : [ "https://twitter.com/TastefulElk/status/1483020073728159748" ],
+      "video" : [ "https://video.twimg.com/tweet_video/FJS99COXoAU9yjw.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gothenburg, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sebastian Bille" ],
+        "nickname" : [ "TastefulElk" ],
+        "numeric-id" : [ "748010593" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1311388116633235456/FvPs1UAz.jpg" ],
+        "published" : [ "2012-08-09T21:50:02+00:00" ],
+        "uid" : [ "tag:twitter.com:TastefulElk" ],
+        "url" : [ "https://twitter.com/TastefulElk", "https://dev.to/tastefulelk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Overwhelmed with the reception of IAM Legend! 🥰\n\nBy far the most requested feature so far has been <a href=\"https://twitter.com/search?q=%23Terraform\">#Terraform</a> support - so here you go!\n\n<a href=\"https://twitter.com/search?q=%23AWSCommunity\">#AWSCommunity</a> <a href=\"https://twitter.com/search?q=%23serverless\">#serverless</a> <a href=\"https://twitter.com/search?q=%23terraform\">#terraform</a>\n</div>",
+      "value" : "Overwhelmed with the reception of IAM Legend! 🥰\n\nBy far the most requested feature so far has been #Terraform support - so here you go!\n\n#AWSCommunity #serverless #terraform\n"
+    } ],
+    "published" : [ "2022-01-18T11:12:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1483396774178009088" ],
+    "url" : [ "https://twitter.com/TastefulElk/status/1483396774178009088" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FJYVGdUXoAIhCvF.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
