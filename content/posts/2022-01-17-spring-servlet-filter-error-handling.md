@@ -106,7 +106,7 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
     errorResponse.setError(ErrorResponse.Error.INVALID_REQUEST);
     errorResponse.setErrorDescription("The correlation-id is not a valid UUID.");
 
-    response.setHeader("content-type", "application/json");
+    response.setContentType("application/json");
     response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
     response.getWriter().write(objectMapper.writeValueAsString(errorResponse));
   }

@@ -56,7 +56,7 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
     errorResponse.setError(ErrorResponse.Error.INVALID_REQUEST);
     errorResponse.setErrorDescription("The correlation-id is not a valid UUID.");
 
-    response.setHeader("content-type", "application/json");
+    response.setContentType("application/json");
     response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
     response.getWriter().write(objectMapper.writeValueAsString(errorResponse));
   }
@@ -135,11 +135,11 @@ public class CorrelationIdFilter extends OncePerRequestFilter {
       errorResponse.setError(ErrorResponse.Error.INVALID_REQUEST);
       errorResponse.setErrorDescription("The correlation-id is not a valid UUID.");
 
-      response.setHeader("content-type", resolved.toString());
+      response.setContentType(resolved.toString());
       response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
       response.getWriter().write(objectMapper.writeValueAsString(errorResponse));
     } else if (MediaType.valueOf("text/plain").isCompatibleWith(resolved)) {
-      response.setHeader("content-type", resolved.toString());
+      response.setContentType(resolved.toString());
       response.setStatus(HttpServletResponse.SC_BAD_REQUEST);
       response.getWriter().write("The correlation-id is not a valid UUID.");
     } else {
