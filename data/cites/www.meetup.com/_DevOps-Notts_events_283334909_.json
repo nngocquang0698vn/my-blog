@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Managing Kubernetes without losing your cool" ],
+    "description" : [ {
+      "html" : "<p>Speaker: Marcus Noble<br/>Twitter; <a href=\"https://twitter.com/Marcus_Noble_\" class=\"linkified\">https://twitter.com/Marcus_Noble_</a><br/>LinkedIn; <a href=\"https://www.linkedin.com/in/marcusnoble/\" class=\"linkified\">https://www.linkedin.com/in/marcusnoble/</a><br/>Website; <a href=\"https://marcusnoble.co.uk/\" class=\"linkified\">https://marcusnoble.co.uk/</a></p> <p>Bio; Marcus is a platform engineer at Giant Swarm, a company dedicated to offering managed Kubernetes solutions. His main area of focus in recent years has been around Go, Kubernetes, containers and DevOps but originally started out as a web developer and JavaScript enthusiast. When not building Kubernetes solutions, Marcus likes to dabble with 3D printing and experimenting with smart home tech.</p> <p>Talk: \"After several years operating and building on Kubernetes clusters I have my fair share of battle scars. From network misconfigurations to soaring cloud costs to deletion of a production control plane, just to name a few. Each time something went wrong, dealing with it became a little easier after and each incident added another tool to my bag of tricks. This talk will cover some practical tips and tricks that everyone using Kubernetes, regardless of experience level, can leverage to make interacting with clusters easier.\"<br/>Agenda:</p> <p>1830 open 'doors'<br/>1845 talk starts<br/>1915 comfort break/ chatting (if needed)<br/>1930 talk resumes<br/>2000 talk ends / chatting</p> <p>A link to the zoom meeting room will be provided for everyone that RSVPs.</p> ",
+      "value" : "Speaker: Marcus Noble Twitter; https://twitter.com/Marcus_Noble_ LinkedIn; https://www.linkedin.com/in/marcusnoble/ Website; https://marcusnoble.co.uk/ Bio; Marcus is a platform engineer at Giant Swarm, a company dedicated to offering managed Kubernetes solutions. His main area of focus in recent years has been around Go, Kubernetes, containers and DevOps but originally started out as a web developer and JavaScript enthusiast. When not building Kubernetes solutions, Marcus likes to dabble with 3D printing and experimenting with smart home tech. Talk: \"After several years operating and building on Kubernetes clusters I have my fair share of battle scars. From network misconfigurations to soaring cloud costs to deletion of a production control plane, just to name a few. Each time something went wrong, dealing with it became a little easier after and each incident added another tool to my bag of tricks. This talk will cover some practical tips and tricks that everyone using Kubernetes, regardless of experience level, can leverage to make interacting with clusters easier.\" Agenda: 1830 open 'doors' 1845 talk starts 1915 comfort break/ chatting (if needed) 1930 talk resumes 2000 talk ends / chatting A link to the zoom meeting room will be provided for everyone that RSVPs."
+    } ],
+    "start" : [ "2022-03-29T17:30:00Z" ],
+    "end" : [ "2022-03-29T19:00:00Z" ],
+    "url" : [ "https://www.meetup.com/DevOps-Notts/events/283334909/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2022-01-18T09:12:50Z" ],
+    "updated" : [ "2022-01-18T09:16:51Z" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "DevOps Notts" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/2/1/a/1/600_482948609.jpeg" ],
+        "url" : [ "https://www.meetup.com/DevOps-Notts" ]
+      },
+      "value" : "DevOps Notts"
+    } ]
+  }
+}
