@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomtucka/status/1483823239826743305" ],
     "name" : [ "Like of @tomtucka's tweet" ],
     "published" : [ "2022-01-19T16:58:00+0000" ],
     "category" : [ "cute" ],
