@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kamala Harris" ],
+          "nickname" : [ "KamalaHarris" ],
+          "numeric-id" : [ "30354991" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1377062766314467332/2hyqngJz.jpg" ],
+          "published" : [ "2009-04-11T00:42:07+00:00" ],
+          "uid" : [ "tag:twitter.com:KamalaHarris" ],
+          "url" : [ "https://twitter.com/KamalaHarris", "https://joebiden.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Rent is due today and countless Americans don’t know how they’re going to make ends meet this month. \n\nA one-time payment wasn’t nearly enough. We can’t wait any longer to pass my bill to provide $2,000 every month throughout this pandemic.</div>",
+        "value" : "Rent is due today and countless Americans don’t know how they’re going to make ends meet this month. \n\nA one-time payment wasn’t nearly enough. We can’t wait any longer to pass my bill to provide $2,000 every month throughout this pandemic."
+      } ],
+      "published" : [ "2020-07-01T14:22:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1278333040209657856" ],
+      "url" : [ "https://twitter.com/KamalaHarris/status/1278333040209657856" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "i bless the rains down in castamere" ],
+        "nickname" : [ "Chinchillazllla" ],
+        "numeric-id" : [ "30799939" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293702397508845569/fphIg8zU.jpg" ],
+        "published" : [ "2009-04-13T03:43:15+00:00" ],
+        "uid" : [ "tag:twitter.com:Chinchillazllla" ],
+        "url" : [ "https://twitter.com/Chinchillazllla", "https://www.patreon.com/RufusTheKunekune?fan_landing=true" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "circling back on this" ],
+    "published" : [ "2022-01-18T16:51:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1483482185118240770" ],
+    "url" : [ "https://twitter.com/Chinchillazllla/status/1483482185118240770" ]
+  },
+  "type" : [ "h-entry" ]
+}
