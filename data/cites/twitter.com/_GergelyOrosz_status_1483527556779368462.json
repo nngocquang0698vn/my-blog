@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/GergelyOrosz/s…" ],
+        "url" : [ "https://twitter.com/GergelyOrosz/status/1483464908742316035" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Tacoma" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Joyce Park" ],
+          "nickname" : [ "troutgirl" ],
+          "numeric-id" : [ "37114816" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1462951962979094532/2gg2H-zD.jpg" ],
+          "published" : [ "2009-05-02T02:23:21+00:00" ],
+          "uid" : [ "tag:twitter.com:troutgirl" ],
+          "url" : [ "https://twitter.com/troutgirl" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I've worked with MANY better coders who were surprised and mad that my career progressed faster because I am a better writer :/\n<a class=\"tag\" href=\"https://twitter.com/GergelyOrosz/status/1483464908742316035\">twitter.com/GergelyOrosz/s…</a>",
+        "value" : "I've worked with MANY better coders who were surprised and mad that my career progressed faster because I am a better writer :/"
+      } ],
+      "published" : [ "2022-01-18T19:36:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1483523641610366976" ],
+      "url" : [ "https://twitter.com/troutgirl/status/1483523641610366976" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://newsletter.pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What no one tells you: coding a is baseline skill in software engineering. Other skills - writing, w with people, influencing others, moving the needle for the business - accelerate your career later on. \n\nA better tactic over being mad is to strengthen skills like writing.\n\n👇</div>",
+      "value" : "What no one tells you: coding a is baseline skill in software engineering. Other skills - writing, w with people, influencing others, moving the needle for the business - accelerate your career later on. \n\nA better tactic over being mad is to strengthen skills like writing.\n\n👇"
+    } ],
+    "published" : [ "2022-01-18T19:51:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1483527556779368462" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1483527556779368462" ]
+  },
+  "type" : [ "h-entry" ]
+}
