@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Burkhart" ],
+        "nickname" : [ "vmikeb" ],
+        "numeric-id" : [ "3254730906" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247447786624356352/99wf2F40.jpg" ],
+        "published" : [ "2015-06-24T16:36:00+00:00" ],
+        "uid" : [ "tag:twitter.com:vmikeb" ],
+        "url" : [ "https://twitter.com/vmikeb", "http://www.vmikeb.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I really like how they captured the Webex of all of the people with VR headsets on. Very meta. Very 2022.\n\nVery redundantly useless.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dbsmasher\"></a>",
+      "value" : "I really like how they captured the Webex of all of the people with VR headsets on. Very meta. Very 2022.\n\nVery redundantly useless."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/dbsmasher/status/1483839265414942724" ],
+    "published" : [ "2022-01-19T16:45:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1483843075126579201" ],
+    "url" : [ "https://twitter.com/vmikeb/status/1483843075126579201" ]
+  },
+  "type" : [ "h-entry" ]
+}
