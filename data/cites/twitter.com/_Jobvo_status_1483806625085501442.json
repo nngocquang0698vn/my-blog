@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Remote" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Job" ],
+        "nickname" : [ "Jobvo" ],
+        "numeric-id" : [ "65750827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415025931069046785/BZN92PdF.jpg" ],
+        "published" : [ "2009-08-14T22:16:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Jobvo" ],
+        "url" : [ "https://twitter.com/Jobvo", "https://www.remote.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Good reminder: Don't start chat conversations with a sole \"Hello\" or \"Hi\" and then nothing. \n\nIf you feel the need (which you shouldn't) preface your entire message with it. \"Hi, what time is the meeting?\"\n\nGreat website: <a href=\"https://nohello.net\">nohello.net</a></div>",
+      "value" : "Good reminder: Don't start chat conversations with a sole \"Hello\" or \"Hi\" and then nothing. \n\nIf you feel the need (which you shouldn't) preface your entire message with it. \"Hi, what time is the meeting?\"\n\nGreat website: nohello.net"
+    } ],
+    "published" : [ "2022-01-19T14:20:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1483806625085501442" ],
+    "url" : [ "https://twitter.com/Jobvo/status/1483806625085501442" ]
+  },
+  "type" : [ "h-entry" ]
+}
