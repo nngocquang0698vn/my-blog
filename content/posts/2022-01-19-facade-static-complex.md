@@ -52,8 +52,6 @@ There are other things we can do here, like be able to apply common configuratio
 ```java
 import java.util.UUID;
 
-import static io.restassured.RestAssured.given;
-
 public class ApiClient {
 
   private final RequestSpecificationFactory factory;
@@ -62,7 +60,10 @@ public class ApiClient {
     this(new RequestSpecificationFactory());
   }
 
-  /* Test only, but could alternatively be for all use cases, and we require a {@link RequestSpecificationFactory} to be injected */
+  /*
+    Test only, but could alternatively be for all use cases, and we require a
+    <code>RequestSpecificationFactory</code> to be injected
+  */
   ApiClient(RequestSpecificationFactory factory) {
     this.factory = factory;
   }
