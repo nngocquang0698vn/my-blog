@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MintPossum/status/1483845931514617863" ],
     "name" : [ "Like of @MintPossum's tweet" ],
     "published" : [ "2022-01-19T22:17:00+0000" ],
     "like-of" : [ "https://twitter.com/MintPossum/status/1483845931514617863" ],
