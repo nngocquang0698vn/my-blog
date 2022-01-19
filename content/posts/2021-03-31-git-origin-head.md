@@ -31,7 +31,7 @@ git remote set-head origin -a
 If it's not set, we need to do it ourselves. Assuming that the Git repo uses the `trunkasaurus` branch:
 
 ```sh
-git update-ref origin/HEAD origin/trunkasaurus
+git remote set-head origin trunkasaurus
 ```
 
 This also works when you don't agree with what's being told to you as default, and you want a different value locally!
