@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jobvo/status/1483806625085501442" ],
     "name" : [ "Like of @Jobvo's tweet" ],
     "published" : [ "2022-01-19T17:06:00+0000" ],
     "like-of" : [ "https://twitter.com/Jobvo/status/1483806625085501442" ],
