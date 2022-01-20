@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Lincoln, NE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stephanie Eckles" ],
+        "nickname" : [ "5t3ph" ],
+        "numeric-id" : [ "18636799" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1288204727205998595/d5OBgBqV.jpg" ],
+        "published" : [ "2009-01-05T16:53:25+00:00" ],
+        "uid" : [ "tag:twitter.com:5t3ph" ],
+        "url" : [ "https://twitter.com/5t3ph", "https://thinkdobecreate.com/links/", "http://ModernCSS.dev", "http://StyleStage.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some of you have never made a <button> that submits form data to a server while the user is navigated to a new page defined by the form `action` attribute - all with no JS involved - and it shows." ],
+    "published" : [ "2022-01-19T22:10:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1483924888515661828" ],
+    "url" : [ "https://twitter.com/5t3ph/status/1483924888515661828" ]
+  },
+  "type" : [ "h-entry" ]
+}
