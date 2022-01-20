@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Maurer" ],
+        "nickname" : [ "JeffMightBWrong" ],
+        "numeric-id" : [ "18990825" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1464467001859088386/QOpstAGB.jpg" ],
+        "published" : [ "2009-01-14T19:24:35+00:00" ],
+        "uid" : [ "tag:twitter.com:JeffMightBWrong" ],
+        "url" : [ "https://twitter.com/JeffMightBWrong", "https://imightbewrong.substack.com/", "http://imightbewrong.substack.com", "http://linktr.ee/JeffMightBeWrong" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Damn...CAPTCHAs getting hard." ],
+    "photo" : [ "https://pbs.twimg.com/media/FJZO72lWQAQMrWi.jpg" ],
+    "published" : [ "2022-01-18T15:23:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1483460030762471436" ],
+    "url" : [ "https://twitter.com/JeffMightBWrong/status/1483460030762471436" ]
+  },
+  "type" : [ "h-entry" ]
+}
