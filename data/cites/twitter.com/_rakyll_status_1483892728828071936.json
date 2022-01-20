@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466482122030387201/itCDBhSk.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "As a senior engineer, you should learn how to be less reactionary and more strategic. Reactionary behavior creates tactical solutions. Tactical solutions create more problems. Learning to think big and fix foundational issues sometimes makes hard problems disappear." ],
+    "published" : [ "2022-01-19T20:02:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1483892728828071936" ],
+    "url" : [ "https://twitter.com/rakyll/status/1483892728828071936" ]
+  },
+  "type" : [ "h-entry" ]
+}
