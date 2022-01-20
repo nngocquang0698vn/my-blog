@@ -8,7 +8,9 @@ image: /img/vendor/git.png
 date: 2021-10-23T10:26:23+0100
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
-slug: git-commit-verbose
+slug: undo-force-push
+aliases:
+- /posts/2021/10/23/git-commit-verbose/
 ---
 I really like telling a descriptive story with our Git commit history, and spend a fair bit of time making sure that the history provides the right level of information.
 
