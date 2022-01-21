@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manhattan, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sarah" ],
+        "nickname" : [ "watermelovsarah" ],
+        "numeric-id" : [ "796244414553354240" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1479551770820968449/18TpuDgv.jpg" ],
+        "published" : [ "2016-11-09T06:53:56+00:00" ],
+        "uid" : [ "tag:twitter.com:watermelovsarah" ],
+        "url" : [ "https://twitter.com/watermelovsarah" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i think abt this post a lot\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Srirachachau\"></a>",
+      "value" : "i think abt this post a lot"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Srirachachau/status/1484333474978795522" ],
+    "photo" : [ "https://pbs.twimg.com/media/FJpFgW3XoAM19Yv.jpg" ],
+    "published" : [ "2022-01-21T17:15:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1484575455483150338" ],
+    "url" : [ "https://twitter.com/watermelovsarah/status/1484575455483150338" ]
+  },
+  "type" : [ "h-entry" ]
+}
