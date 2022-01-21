@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/popeofnathanism/status/1484651828151209984" ],
     "name" : [ "Like of @popeofnathanism's tweet" ],
     "published" : [ "2022-01-21T22:20:00+0000" ],
     "category" : [ "star-wars", "porn" ],
