@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ ".onion" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Micah" ],
+        "nickname" : [ "micahflee" ],
+        "numeric-id" : [ "86424236" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412468612900687874/1E8WBqwx.jpg" ],
+        "published" : [ "2009-10-30T23:56:15+00:00" ],
+        "uid" : [ "tag:twitter.com:micahflee" ],
+        "url" : [ "https://twitter.com/micahflee", "https://theintercept.com/staff/micah-lee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When nazis write code they listen on port 1488 (a nazi codeword for \"14 words\" and \"Heil Hitler\")" ],
+    "in-reply-to" : [ "https://twitter.com/micahflee/status/1484612787414335489" ],
+    "photo" : [ "https://pbs.twimg.com/media/FJp1SbTVcAEtPpp.png", "https://pbs.twimg.com/media/FJp2KhXVUAEc9Vi.png" ],
+    "published" : [ "2022-01-21T20:48:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1484628960637960192" ],
+    "url" : [ "https://twitter.com/micahflee/status/1484628960637960192" ]
+  },
+  "type" : [ "h-entry" ]
+}
