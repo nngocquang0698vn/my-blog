@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Srirachachau/status/1484333474978795522" ],
     "name" : [ "Like of @Srirachachau's tweet" ],
     "published" : [ "2022-01-21T22:19:00+0000" ],
     "category" : [ "star-wars" ],
