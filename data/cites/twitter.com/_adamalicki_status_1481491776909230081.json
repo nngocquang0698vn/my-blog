@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The East coast" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam" ],
+        "nickname" : [ "adamalicki" ],
+        "numeric-id" : [ "150931621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273674068764561422/v6q1H05T.jpg" ],
+        "published" : [ "2010-06-02T05:18:13+00:00" ],
+        "uid" : [ "tag:twitter.com:adamalicki" ],
+        "url" : [ "https://twitter.com/adamalicki", "https://linkerbee.me", "http://tinyurl.com/dev-ldr-shp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One of the interview questions I ask \"How many times have you broke production?\" and I pay close attention to their answer and how it was fixed. This is the one key ingredient to a senior developer.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CarlaNotarobot\"></a>",
+      "value" : "One of the interview questions I ask \"How many times have you broke production?\" and I pay close attention to their answer and how it was fixed. This is the one key ingredient to a senior developer."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CarlaNotarobot/status/1481458190722207747" ],
+    "published" : [ "2022-01-13T05:02:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1481491776909230081" ],
+    "url" : [ "https://twitter.com/adamalicki/status/1481491776909230081" ]
+  },
+  "type" : [ "h-entry" ]
+}
