@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NetflixIsAJoke/status/1484601696336723976" ],
     "name" : [ "Like of @NetflixIsAJoke's tweet" ],
     "published" : [ "2022-01-21T22:22:00+0000" ],
     "like-of" : [ "https://twitter.com/NetflixIsAJoke/status/1484601696336723976" ],
