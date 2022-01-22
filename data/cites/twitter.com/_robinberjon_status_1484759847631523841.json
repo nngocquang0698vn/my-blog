@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/tobie/status/1…" ],
+        "url" : [ "https://twitter.com/tobie/status/1483527048463273987" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Geneva, Switzerland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tobie Langel" ],
+          "nickname" : [ "tobie" ],
+          "numeric-id" : [ "3167301" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1067509333607497728/DZD7vEdd.jpg" ],
+          "published" : [ "2007-04-02T00:15:07+00:00" ],
+          "uid" : [ "tag:twitter.com:tobie" ],
+          "url" : [ "https://twitter.com/tobie", "http://unlockopen.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "So the other day, I compared open source to public infrastructure… and let's say that the reactions weren't exactly the ones I expected.\n<a class=\"tag\" href=\"https://twitter.com/tobie/status/1483527048463273987\">twitter.com/tobie/status/1…</a>",
+        "value" : "So the other day, I compared open source to public infrastructure… and let's say that the reactions weren't exactly the ones I expected."
+      } ],
+      "published" : [ "2022-01-21T19:02:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1484602403550863361" ],
+      "url" : [ "https://twitter.com/tobie/status/1484602403550863361" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Princeton, NJ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Robin Berjon" ],
+        "nickname" : [ "robinberjon" ],
+        "numeric-id" : [ "25805235" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/882349727949266944/LSCjRSrP.jpg" ],
+        "published" : [ "2009-03-22T10:48:59+00:00" ],
+        "uid" : [ "tag:twitter.com:robinberjon" ],
+        "url" : [ "https://twitter.com/robinberjon", "https://berjon.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A lot of effort has gone into explaining to the world how tech works. That's nice, but what we *really* need is to explain to tech people how the world works.\n\nI knew that many in tech struggle with understanding infrastructure, but the reactions to <a href=\"https://twitter.com/tobie\">@tobie</a> are worse.</div>",
+      "value" : "A lot of effort has gone into explaining to the world how tech works. That's nice, but what we *really* need is to explain to tech people how the world works.\n\nI knew that many in tech struggle with understanding infrastructure, but the reactions to @tobie are worse."
+    } ],
+    "published" : [ "2022-01-22T05:28:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1484759847631523841" ],
+    "url" : [ "https://twitter.com/robinberjon/status/1484759847631523841" ]
+  },
+  "type" : [ "h-entry" ]
+}
