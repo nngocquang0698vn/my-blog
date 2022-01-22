@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JenMsft/status/1483947627695665152" ],
     "name" : [ "Like of @JenMsft's tweet" ],
     "published" : [ "2022-01-22T16:59:00+0000" ],
     "category" : [ "unicode" ],
