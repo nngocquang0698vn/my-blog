@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly Struve 🦄" ],
+        "nickname" : [ "molly_struve" ],
+        "numeric-id" : [ "4542932414" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441894091084677123/EIwVtaj2.jpg" ],
+        "published" : [ "2015-12-13T01:44:07+00:00" ],
+        "uid" : [ "tag:twitter.com:molly_struve" ],
+        "url" : [ "https://twitter.com/molly_struve", "https://dev.to/molly_struve" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "push it straight to main, it will be fine" ],
+    "photo" : [ {
+      "alt" : "Black panter meme where the black panther has his hand up and is saying \"we don't do that here\". The text above the picture reads \nMe: So who will review my code?\nthen below Startups: right above the photo",
+      "value" : "https://pbs.twimg.com/media/FJunOq5WUAcHKpB.jpg"
+    } ],
+    "published" : [ "2022-01-22T19:04:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1484965298059026436" ],
+    "url" : [ "https://twitter.com/molly_struve/status/1484965298059026436" ]
+  },
+  "type" : [ "h-entry" ]
+}
