@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShadowTodd/status/1484780761664286724" ],
     "name" : [ "Like of @ShadowTodd's tweet" ],
     "published" : [ "2022-01-22T09:54:00+0000" ],
     "like-of" : [ "https://twitter.com/ShadowTodd/status/1484780761664286724" ],
