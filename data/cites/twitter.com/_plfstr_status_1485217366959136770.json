@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridgeshire, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Foster" ],
+        "nickname" : [ "plfstr" ],
+        "numeric-id" : [ "221392435" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1262374403767230465/kAxiPzHf.jpg" ],
+        "published" : [ "2010-11-30T15:03:35+00:00" ],
+        "uid" : [ "tag:twitter.com:plfstr" ],
+        "url" : [ "https://twitter.com/plfstr", "https://www.paulfosterdesign.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Splendidman\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codepo8\"></a>",
+      "value" : "Splendidman"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/codepo8/status/1485215511642353664" ],
+    "published" : [ "2022-01-23T11:46:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1485217366959136770" ],
+    "url" : [ "https://twitter.com/plfstr/status/1485217366959136770" ]
+  },
+  "type" : [ "h-entry" ]
+}
