@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "alyssa corinne smith" ],
+          "nickname" : [ "_alyssacsmith" ],
+          "numeric-id" : [ "979908252308733952" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1468423337638567937/HxjuQ2aI.jpg" ],
+          "published" : [ "2018-03-31T02:28:27+00:00" ],
+          "uid" : [ "tag:twitter.com:_alyssacsmith" ],
+          "url" : [ "https://twitter.com/_alyssacsmith" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "tenured folks drop your salary in the comments challenge" ],
+      "published" : [ "2022-01-21T18:20:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1484591624407719937" ],
+      "url" : [ "https://twitter.com/_alyssacsmith/status/1484591624407719937" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - trying to be civil (as a service)" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371166559855579150/H9FKP42z.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Salary levels in the US are ridiculous.\n\nAnd don't give me the \"we have to pay for healthcare\" line or the \"you should see our student loans\".\n\nProfessors on $150-200k in the US do not compare to professors in the UK on £55-60k especially as \"tenure\" isn't the same.</div>",
+      "value" : "Salary levels in the US are ridiculous.\n\nAnd don't give me the \"we have to pay for healthcare\" line or the \"you should see our student loans\".\n\nProfessors on $150-200k in the US do not compare to professors in the UK on £55-60k especially as \"tenure\" isn't the same."
+    } ],
+    "published" : [ "2022-01-23T11:52:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1485218894730174468" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1485218894730174468" ]
+  },
+  "type" : [ "h-entry" ]
+}
