@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "M&M'S" ],
+          "nickname" : [ "mmschocolate" ],
+          "numeric-id" : [ "12405142" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1484027732635885576/sHqeVtpw.png" ],
+          "published" : [ "2008-01-18T16:08:39+00:00" ],
+          "uid" : [ "tag:twitter.com:mmschocolate" ],
+          "url" : [ "https://twitter.com/mmschocolate", "http://mms.com/for-all-funkind" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Did my shoes really break the internet?" ],
+      "published" : [ "2022-01-20T22:05:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1484286099426095108" ],
+      "url" : [ "https://twitter.com/mmschocolate/status/1484286099426095108" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1484286055092207621/pu/vid/720x720/YgBUbaB5NqhL-ZOU.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hi Grade" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "YouSeeGundam" ],
+        "nickname" : [ "YouSeeGundam" ],
+        "numeric-id" : [ "1158634369457819649" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484492584261242881/--6gDyJ0.jpg" ],
+        "published" : [ "2019-08-06T07:02:14+00:00" ],
+        "uid" : [ "tag:twitter.com:YouSeeGundam" ],
+        "url" : [ "https://twitter.com/YouSeeGundam", "http://youtube.com/youseegundam" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You could instantly vaporize a medieval peasant by telling them the Hershey’s PR team astroturfed a social media trend by making the green m&m “less sexy” to cover up a child slavery lawsuit" ],
+    "published" : [ "2022-01-21T21:27:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1484638739204820992" ],
+    "url" : [ "https://twitter.com/YouSeeGundam/status/1484638739204820992" ]
+  },
+  "type" : [ "h-entry" ]
+}
