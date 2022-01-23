@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Singer" ],
+        "nickname" : [ "AdamSinger" ],
+        "numeric-id" : [ "14031032" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458221178506694657/7GyZQfB1.jpg" ],
+        "published" : [ "2008-02-26T22:01:28+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamSinger" ],
+        "url" : [ "https://twitter.com/AdamSinger", "https://adamsinger.substack.com/welcome" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FJt3oHcXsAclePm.jpg", "https://pbs.twimg.com/media/FJt3aIyWUAU2DnB.png" ],
+    "published" : [ "2022-01-22T15:33:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1484912094046740483" ],
+    "url" : [ "https://twitter.com/AdamSinger/status/1484912094046740483" ]
+  },
+  "type" : [ "h-entry" ]
+}
