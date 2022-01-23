@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Somewhere, Texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "c0nc0rdance" ],
+        "nickname" : [ "c0nc0rdance" ],
+        "numeric-id" : [ "86377557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346483674884182018/8Xk7E3aP.jpg" ],
+        "published" : [ "2009-10-30T19:15:53+00:00" ],
+        "uid" : [ "tag:twitter.com:c0nc0rdance" ],
+        "url" : [ "https://twitter.com/c0nc0rdance", "http://www.youtube.com/user/c0nc0rdance" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Always limit your global variable changes." ],
+    "photo" : [ "https://pbs.twimg.com/media/FJtoIy4XMAE7z4g.jpg" ],
+    "published" : [ "2022-01-22T14:25:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1484895108688498692" ],
+    "url" : [ "https://twitter.com/c0nc0rdance/status/1484895108688498692" ]
+  },
+  "type" : [ "h-entry" ]
+}
