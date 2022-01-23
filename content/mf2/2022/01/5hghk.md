@@ -8,7 +8,7 @@
     "syndication" : [ "https://brid.gy/publish/meetup" ],
     "published" : [ "2022-01-23T20:24:00+0000" ],
     "post-status" : [ "published" ],
-    "rsvp" : [ "yes" ]
+    "rsvp" : [ "no" ]
   },
   "kind" : "rsvps",
   "slug" : "2022/01/5hghk",
