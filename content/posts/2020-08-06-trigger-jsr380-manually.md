@@ -15,7 +15,7 @@ The [JSR380](https://jcp.org/en/jsr/detail?id=380) standard is a great way of va
 
 But if you're not using something like Spring Boot to orchestrate it happening automagically, it can seem a little difficult to apply it manually.
 
-**Update 2022-01-23**: You may want to read [_How to Create and Unit Test Java Bean Validation Annotations_](/posts/2022/01/22/java-bean-validation/) which covers this in more depth.
+**Update 2022-01-23**: You may want to read [_How to Create and Unit Test Java Bean Validation Annotations_](/posts/2022/01/23/java-bean-validation/) which covers this in more depth.
 
 # Existing Code
 
