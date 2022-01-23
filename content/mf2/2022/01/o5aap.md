@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Home | endoflife.date" ],
+    "name" : [ "endoflife.date: a community-maintained project to document end-of-life dates, and support lifecycles of various products." ],
     "published" : [ "2022-01-22T20:38:00+0000" ],
     "bookmark-of" : [ "https://endoflife.date/" ],
     "post-status" : [ "published" ]
