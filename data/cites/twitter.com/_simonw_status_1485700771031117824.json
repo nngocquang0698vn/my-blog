@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not sure if this is a controversial opinion or not: unit tests should make up a minority segment of your overall automated test suite\n\nI'd absolutely take a project with integration and no unit tests over one with unit tests but no integration tests</div>",
+      "value" : "Not sure if this is a controversial opinion or not: unit tests should make up a minority segment of your overall automated test suite\n\nI'd absolutely take a project with integration and no unit tests over one with unit tests but no integration tests"
+    } ],
+    "published" : [ "2022-01-24T19:47:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1485700771031117824" ],
+    "url" : [ "https://twitter.com/simonw/status/1485700771031117824" ]
+  },
+  "type" : [ "h-entry" ]
+}
