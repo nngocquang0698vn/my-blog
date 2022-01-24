@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🇫🇮+🇨🇦" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "dinosaur" ],
+          "nickname" : [ "dino_comics" ],
+          "numeric-id" : [ "1304794047811325956" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1475889343193571333/MH264bAV.jpg" ],
+          "published" : [ "2020-09-12T14:48:53+00:00" ],
+          "uid" : [ "tag:twitter.com:dino_comics" ],
+          "url" : [ "https://twitter.com/dino_comics", "http://shopdinosaur.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "photo" : [ {
+        "alt" : "Therapist: Why do you feel so down?\n\nKevin: Because I never do anything.\n\nTherapist: And why do you never do anything?\n\nKevin: Because I feel so down.",
+        "value" : "https://pbs.twimg.com/media/FJzsdEGXsAAte9-.jpg"
+      } ],
+      "published" : [ "2022-01-23T18:42:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1485321967137968131" ],
+      "url" : [ "https://twitter.com/dino_comics/status/1485321967137968131" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478296415411609603/wXIdGsCR.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "defo stuck in this loop atm 🥲" ],
+    "published" : [ "2022-01-24T16:23:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1485649377431633929" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1485649377431633929" ]
+  },
+  "type" : [ "h-entry" ]
+}
