@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Minneapolis, MN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ian Coldwater 📦💥" ],
+          "nickname" : [ "IanColdwater" ],
+          "numeric-id" : [ "711367366756720640" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1458952531925680128/ZdwHBcz_.jpg" ],
+          "published" : [ "2016-03-20T01:42:51+00:00" ],
+          "uid" : [ "tag:twitter.com:IanColdwater" ],
+          "url" : [ "https://twitter.com/IanColdwater" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "turned my camera on in the Zoom meeting and then remembered I was wearing this" ],
+      "photo" : [ "https://pbs.twimg.com/media/FJ-VS72XIAULKhj.jpg" ],
+      "published" : [ "2022-01-25T20:16:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1486070557271629836" ],
+      "url" : [ "https://twitter.com/IanColdwater/status/1486070557271629836" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/iancoldwater/s…" ],
+      "url" : [ "https://twitter.com/iancoldwater/status/1486070557271629836" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/they" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tinker Fairy" ],
+        "nickname" : [ "TinkerFairy_Net" ],
+        "numeric-id" : [ "793946314665033728" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476237156628635654/XPq3bKdz.jpg" ],
+        "published" : [ "2016-11-02T22:42:07+00:00" ],
+        "uid" : [ "tag:twitter.com:TinkerFairy_Net" ],
+        "url" : [ "https://twitter.com/TinkerFairy_Net", "https://www.tinkerfairy.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You may not be expecting it, but this is how a Director presents themself. Please adjust your expectations as necessary.\n<a class=\"tag\" href=\"https://twitter.com/iancoldwater/status/1486070557271629836\">twitter.com/iancoldwater/s…</a>",
+      "value" : "You may not be expecting it, but this is how a Director presents themself. Please adjust your expectations as necessary."
+    } ],
+    "published" : [ "2022-01-25T20:18:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1486070931105755142" ],
+    "url" : [ "https://twitter.com/TinkerFairy_Net/status/1486070931105755142" ]
+  },
+  "type" : [ "h-entry" ]
+}
