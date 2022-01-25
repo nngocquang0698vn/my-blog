@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ethan Mollick" ],
+        "nickname" : [ "emollick" ],
+        "numeric-id" : [ "39125788" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/895036147109425154/Xqh3_Qkd.jpg" ],
+        "published" : [ "2009-05-10T22:33:52+00:00" ],
+        "uid" : [ "tag:twitter.com:emollick" ],
+        "url" : [ "https://twitter.com/emollick", "https://mgmt.wharton.upenn.edu/profile/emollick/", "https://interactive.wharton.upenn.edu/experiences/bluesky-ventures-game/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here are the lighthouses of Europe.\n\nThe map is even better than it might seem at first glance: the colors are the real colors, the patterns are the real patterns, and the size of the dots is the distance at which each light is visible. <a href=\"https://geodienst.github.io/lighthousemap/\">geodienst.github.io/lighthousemap/</a></div>",
+      "value" : "Here are the lighthouses of Europe.\n\nThe map is even better than it might seem at first glance: the colors are the real colors, the patterns are the real patterns, and the size of the dots is the distance at which each light is visible. geodienst.github.io/lighthousemap/"
+    } ],
+    "published" : [ "2022-01-24T04:20:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1485467613190832130" ],
+    "url" : [ "https://twitter.com/emollick/status/1485467613190832130" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FJ1vJm8XwAAbh4t.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
