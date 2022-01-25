@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/reduct_rs/status/1465424617430999043" ],
     "name" : [ "Like of @reduct_rs's tweet" ],
     "published" : [ "2022-01-25T21:30:00+0000" ],
     "category" : [ "satire" ],
