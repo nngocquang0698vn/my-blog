@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vaud, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ceki ${jndi:ldap://${log4j1:is}.not.log4j2/}" ],
+        "nickname" : [ "ceki" ],
+        "numeric-id" : [ "14985170" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471205242582753292/PNVYFiV-.jpg" ],
+        "published" : [ "2008-06-02T21:12:35+00:00" ],
+        "uid" : [ "tag:twitter.com:ceki" ],
+        "url" : [ "https://twitter.com/ceki", "http://www.qos.ch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Since log4shell, we have been studying the security of slf4j/logback/reload4j release procedures.  We are using longer keys, longer passwords, with encrypted backups stored in physical vaults." ],
+    "published" : [ "2022-01-25T09:34:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1485908860506365953" ],
+    "url" : [ "https://twitter.com/ceki/status/1485908860506365953" ]
+  },
+  "type" : [ "h-entry" ]
+}
