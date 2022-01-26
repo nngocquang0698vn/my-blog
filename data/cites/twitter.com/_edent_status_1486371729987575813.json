@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I wrote this 11 years ago.\n<a href=\"https://shkspr.mobi/blog/2011/01/oauth-will-murder-your-children-for-one-week-only/\">shkspr.mobi/blog/2011/01/o…</a>\nI really wish more OAuth services would use the `expires_in` response. It would be great if you could authorise a service for a specified and limited amount of time.</div>",
+      "value" : "I wrote this 11 years ago.\nshkspr.mobi/blog/2011/01/o…\nI really wish more OAuth services would use the `expires_in` response. It would be great if you could authorise a service for a specified and limited amount of time."
+    } ],
+    "published" : [ "2022-01-26T16:13:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1486371729987575813" ],
+    "url" : [ "https://twitter.com/edent/status/1486371729987575813" ]
+  },
+  "type" : [ "h-entry" ]
+}
