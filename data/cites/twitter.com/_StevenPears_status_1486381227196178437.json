@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408707774683533314/_Yb5EmSb.jpg" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Yes to variable expiry, but on refresh tokens not access tokens. Access tokens should always be short lived to the point you don't care.\n\nBut stick it on the refresh token (or make it standard to allow no refresh at all, so it expires after that first hour) - that'd be cool!</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edent\"></a>",
+      "value" : "Yes to variable expiry, but on refresh tokens not access tokens. Access tokens should always be short lived to the point you don't care.\n\nBut stick it on the refresh token (or make it standard to allow no refresh at all, so it expires after that first hour) - that'd be cool!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1486371729987575813" ],
+    "published" : [ "2022-01-26T16:51:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1486381227196178437" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1486381227196178437" ]
+  },
+  "type" : [ "h-entry" ]
+}
