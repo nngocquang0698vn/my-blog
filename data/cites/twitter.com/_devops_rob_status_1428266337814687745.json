@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DevOps Rob" ],
+        "nickname" : [ "devops_rob" ],
+        "numeric-id" : [ "700426201400213505" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484461231738077184/0kSCA2I-.jpg" ],
+        "published" : [ "2016-02-18T21:06:34+00:00" ],
+        "uid" : [ "tag:twitter.com:devops_rob" ],
+        "url" : [ "https://twitter.com/devops_rob", "https://youtube.com/devopsrob", "http://linktr.ee/devopsrob" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is what an hour troubleshooting looks like" ],
+    "published" : [ "2021-08-19T08:03:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1428266337814687745" ],
+    "url" : [ "https://twitter.com/devops_rob/status/1428266337814687745" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1428266286673453069/pu/vid/1280x720/Gyo4RfOkUSnobnGg.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
