@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean \"Harbinger of Outages\" Kilgore" ],
+        "nickname" : [ "log1kal" ],
+        "numeric-id" : [ "170793777" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252657829531525120/czeK1O_E.jpg" ],
+        "published" : [ "2010-07-25T19:54:54+00:00" ],
+        "uid" : [ "tag:twitter.com:log1kal" ],
+        "url" : [ "https://twitter.com/log1kal" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Architects/Senior Engineers have a vested interest in org design. If you believe Conway’s law, include those people when you’re planning a re-org." ],
+    "published" : [ "2021-08-10T20:51:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1425198027078135811" ],
+    "url" : [ "https://twitter.com/log1kal/status/1425198027078135811" ]
+  },
+  "type" : [ "h-entry" ]
+}
