@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessie Cannizzaro" ],
+        "nickname" : [ "JessCannizzaro" ],
+        "numeric-id" : [ "1409139950" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445069291141963780/leHWRmwz.jpg" ],
+        "published" : [ "2013-05-07T01:27:16+00:00" ],
+        "uid" : [ "tag:twitter.com:JessCannizzaro" ],
+        "url" : [ "https://twitter.com/JessCannizzaro", "http://www.jessiecannizzaro.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m just saying that “prick” and “wince” back to back last week felt like a threat" ],
+    "in-reply-to" : [ "https://twitter.com/JessCannizzaro/status/1486134850948055051" ],
+    "published" : [ "2022-01-26T02:06:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1486158666084540418" ],
+    "url" : [ "https://twitter.com/JessCannizzaro/status/1486158666084540418" ]
+  },
+  "type" : [ "h-entry" ]
+}
