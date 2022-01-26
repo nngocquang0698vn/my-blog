@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Airport lounges." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Cuthbert" ],
+        "nickname" : [ "dcuthbert" ],
+        "numeric-id" : [ "14461330" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360914543132688387/Mzt6Aklh.jpg" ],
+        "published" : [ "2008-04-21T12:51:06+00:00" ],
+        "uid" : [ "tag:twitter.com:dcuthbert" ],
+        "url" : [ "https://twitter.com/dcuthbert", "https://dcuthbert.exposure.co/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Decades of UNIX and Linux use have taught me to love the terminal more than any other app out there. If there's one thing I'd recommend any newcomer learn, it's how to tame the command line." ],
+    "published" : [ "2022-01-25T16:42:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1486016688625795086" ],
+    "url" : [ "https://twitter.com/dcuthbert/status/1486016688625795086" ]
+  },
+  "type" : [ "h-entry" ]
+}
