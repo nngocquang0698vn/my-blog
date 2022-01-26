@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "$TranslatedCats" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "translated cats" ],
+        "nickname" : [ "TranslatedCats" ],
+        "numeric-id" : [ "1251867613052973056" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252153959390883840/FxHTPYec.jpg" ],
+        "published" : [ "2020-04-19T13:37:58+00:00" ],
+        "uid" : [ "tag:twitter.com:TranslatedCats" ],
+        "url" : [ "https://twitter.com/TranslatedCats", "http://ko-fi.com/translatedcats/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It was a magnificent view from under the glass table." ],
+    "published" : [ "2022-01-26T12:16:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1486312148737400837" ],
+    "url" : [ "https://twitter.com/TranslatedCats/status/1486312148737400837" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1486308059010183168/pu/vid/1280x720/fRVXWhDVu87EFh4Z.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
