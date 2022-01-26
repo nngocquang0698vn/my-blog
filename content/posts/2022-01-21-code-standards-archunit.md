@@ -21,7 +21,7 @@ This led to times where previous code review time was dedicated to commenting on
 
 About 18 months ago, one of my colleagues at the time, <span class="h-card"><a class="u-url" href="https://lewisfoster.me/">Lewis</a></span>, did a talk about [ArchUnit](https://www.archunit.org/) and started to flesh out the rules that were available for common libraries we used, but I'd not gotten around to looking at it in any depth. We'd [recently started to add them into Wiremock](https://github.com/wiremock/wiremock/pull/1634).
 
-After learning about [jMollecules](https://github.com/xmolecules/jmolecules) at [yesterday's jChampions](https://www.youtube.com/watch?v=IzLHmPNmLLw), I've started to properly dig into ArchUnit, and will have more on jMollecules in a later post 👀
+After learning about [jMolecules](https://github.com/xmolecules/jmolecules) at [yesterday's jChampions](https://www.youtube.com/watch?v=IzLHmPNmLLw), I've started to properly dig into ArchUnit, and will have more on jMolecules in a later post 👀
 
 ArchUnit is a great test framework for building unit (integration?) tests around our code style and structure, and it's a really powerful addition to any Java codebase, which can help codify our standards into tests, so we don't need to worry about them when it comes to code review.
 
