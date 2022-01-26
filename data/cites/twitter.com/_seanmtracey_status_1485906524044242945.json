@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean M. Tracey" ],
+        "nickname" : [ "seanmtracey" ],
+        "numeric-id" : [ "42671737" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347217250273660928/ykYox9-J.jpg" ],
+        "published" : [ "2009-05-26T17:27:51+00:00" ],
+        "uid" : [ "tag:twitter.com:seanmtracey" ],
+        "url" : [ "https://twitter.com/seanmtracey", "https://smt.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What do you do when you're a technologist living in Brixton, that works <a href=\"https://twitter.com/awscloud\">@awscloud</a> and is obsessed by the weather?\n\nYou make a piece of Bowie-inspired art that changes colour depending on the weather with AWS IoT and Lambda, of course!</div>",
+      "value" : "What do you do when you're a technologist living in Brixton, that works @awscloud and is obsessed by the weather?\n\nYou make a piece of Bowie-inspired art that changes colour depending on the weather with AWS IoT and Lambda, of course!"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lambeth, London" ],
+        "uid" : [ "tag:twitter.com:4393349f368f67a1" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-01-25T09:24:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1485906524044242945" ],
+    "url" : [ "https://twitter.com/seanmtracey/status/1485906524044242945" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1485906466368376834/pu/vid/1280x720/Bb4F2ZLAZKXZYTFL.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
