@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "gina erle" ],
+        "nickname" : [ "ginasuewhirl" ],
+        "numeric-id" : [ "36222718" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1189340098988429313/-DCIfcyi.jpg" ],
+        "published" : [ "2009-04-29T00:10:18+00:00" ],
+        "uid" : [ "tag:twitter.com:ginasuewhirl" ],
+        "url" : [ "https://twitter.com/ginasuewhirl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I guess we’ll knoll soon enough\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JessCannizzaro\"></a>",
+      "value" : "I guess we’ll knoll soon enough"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JessCannizzaro/status/1486134850948055051" ],
+    "published" : [ "2022-01-26T05:14:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1486205814826176515" ],
+    "url" : [ "https://twitter.com/ginasuewhirl/status/1486205814826176515" ]
+  },
+  "type" : [ "h-entry" ]
+}
