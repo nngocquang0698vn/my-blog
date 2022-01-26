@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sydney, Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Mallon" ],
+          "nickname" : [ "ryiron" ],
+          "numeric-id" : [ "2335823864" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/861150550724812800/carM5JZo.jpg" ],
+          "published" : [ "2014-02-10T00:01:58+00:00" ],
+          "uid" : [ "tag:twitter.com:ryiron" ],
+          "url" : [ "https://twitter.com/ryiron", "http://ryiron.wordpress.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I even wrote a patch at the time, which I sent to the maintainer and polkit-dev list. I can't find it in the archives though, so maybe it got bounced (I don't think I was subscribed). Wonder if the maintainer ever got it.\n\nMy 2013 patch mail is here: <a href=\"https://pastebin.com/MheuF2UY\">pastebin.com/MheuF2UY</a></div>",
+        "value" : "I even wrote a patch at the time, which I sent to the maintainer and polkit-dev list. I can't find it in the archives though, so maybe it got bounced (I don't think I was subscribed). Wonder if the maintainer ever got it.\n\nMy 2013 patch mail is here: pastebin.com/MheuF2UY"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/ryiron/status/1486207182404472832" ],
+      "published" : [ "2022-01-26T05:20:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1486207465918468097" ],
+      "url" : [ "https://twitter.com/ryiron/status/1486207465918468097" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leiden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "badidea 🪐" ],
+        "nickname" : [ "0xabad1dea" ],
+        "numeric-id" : [ "126030998" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443846216169762838/IN_RV73W.jpg" ],
+        "published" : [ "2010-03-24T16:31:05+00:00" ],
+        "uid" : [ "tag:twitter.com:0xabad1dea" ],
+        "url" : [ "https://twitter.com/0xabad1dea", "http://0xabad1dea.github.io/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "we might be having a linux security apocalypse specifically because of the poor usability of mailing lists " ],
+    "published" : [ "2022-01-26T10:09:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1486280035245993984" ],
+    "url" : [ "https://twitter.com/0xabad1dea/status/1486280035245993984" ]
+  },
+  "type" : [ "h-entry" ]
+}
