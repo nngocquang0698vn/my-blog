@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aaron Patterson" ],
+        "nickname" : [ "tenderlove" ],
+        "numeric-id" : [ "14761655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372299370691842052/KHLAURcj.jpg" ],
+        "published" : [ "2008-05-13T17:25:31+00:00" ],
+        "uid" : [ "tag:twitter.com:tenderlove" ],
+        "url" : [ "https://twitter.com/tenderlove", "http://tenderlovemaking.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If people dislike calendly so much, why are they still creating meetings?" ],
+    "published" : [ "2022-01-27T21:53:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1486819799141281793" ],
+    "url" : [ "https://twitter.com/tenderlove/status/1486819799141281793" ]
+  },
+  "type" : [ "h-entry" ]
+}
