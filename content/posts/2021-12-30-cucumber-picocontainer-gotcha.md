@@ -88,4 +88,4 @@ It may not be so much of a problem if we've written all the code we're injecting
 
 Yes, we could create i.e. a `Config` object that provides a container for the dependencies, but this then results in not-great dependency injection, and means we're sidestepping good dependency injection for the case of our library.
 
-If you hit this, I recommend looking at the other options, such as [those called out in the Cucumber docs for _Sharing state between steps_](https://cucumber.io/docs/cucumber/state/), or my article on using [_Using Dagger for Dependency Injection with Cucumber Tests_](/posts/2021-12-30-cucumber-dagger-dependency-injection/).
+If you hit this, I recommend looking at the other options, such as [those called out in the Cucumber docs for _Sharing state between steps_](https://cucumber.io/docs/cucumber/state/), or my article on using [_Using Dagger for Dependency Injection with Cucumber Tests_](/posts/2021/12/30/cucumber-dagger-dependency-injection/).
