@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mountain View, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nicholas C. Zakas" ],
+          "nickname" : [ "slicknet" ],
+          "numeric-id" : [ "17633960" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1316939132392763394/sX89bluY.jpg" ],
+          "published" : [ "2008-11-25T22:28:50+00:00" ],
+          "uid" : [ "tag:twitter.com:slicknet" ],
+          "url" : [ "https://twitter.com/slicknet", "https://humanwhocodes.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Being an open source maintainer: build something popular and you either die a hero or live long enough to be told, “you’re what’s wrong with open source. “ 🤷‍♂️" ],
+      "published" : [ "2022-01-28T01:58:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1486881354960629762" ],
+      "url" : [ "https://twitter.com/slicknet/status/1486881354960629762" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Johansson" ],
+        "nickname" : [ "IndieScripter" ],
+        "numeric-id" : [ "810227672303300608" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/909574304068624384/xxIys505.jpg" ],
+        "published" : [ "2016-12-17T20:58:25+00:00" ],
+        "uid" : [ "tag:twitter.com:IndieScripter" ],
+        "url" : [ "https://twitter.com/IndieScripter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you don't have a paying day job you will likely die of malnutrition while the corporations sponge off your <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> work.",
+      "value" : "If you don't have a paying day job you will likely die of malnutrition while the corporations sponge off your #OpenSource work."
+    } ],
+    "published" : [ "2022-01-28T09:33:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1486995887058423809" ],
+    "url" : [ "https://twitter.com/IndieScripter/status/1486995887058423809" ]
+  },
+  "type" : [ "h-entry" ]
+}
