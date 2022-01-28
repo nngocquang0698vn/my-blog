@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zeist, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthias Noback" ],
+        "nickname" : [ "matthiasnoback" ],
+        "numeric-id" : [ "254060142" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1037226736566628352/LSXBdMqi.jpg" ],
+        "published" : [ "2011-02-18T14:25:42+00:00" ],
+        "uid" : [ "tag:twitter.com:matthiasnoback" ],
+        "url" : [ "https://twitter.com/matthiasnoback", "https://matthiasnoback.nl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every time I think/write about hexagonal architecture, I feel like it's an actual silver bullet. It has so many valuable aspects, e.g. focusing on actor intentions, which allow for better test scenarios, decoupling from specific technologies, which leads to increased testability" ],
+    "published" : [ "2022-01-18T09:52:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1483376737790697478" ],
+    "url" : [ "https://twitter.com/matthiasnoback/status/1483376737790697478" ]
+  },
+  "type" : [ "h-entry" ]
+}
