@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mountain View, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicholas C. Zakas" ],
+        "nickname" : [ "slicknet" ],
+        "numeric-id" : [ "17633960" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316939132392763394/sX89bluY.jpg" ],
+        "published" : [ "2008-11-25T22:28:50+00:00" ],
+        "uid" : [ "tag:twitter.com:slicknet" ],
+        "url" : [ "https://twitter.com/slicknet", "https://humanwhocodes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Being an open source maintainer: build something popular and you either die a hero or live long enough to be told, “you’re what’s wrong with open source. “ 🤷‍♂️" ],
+    "published" : [ "2022-01-28T01:58:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1486881354960629762" ],
+    "url" : [ "https://twitter.com/slicknet/status/1486881354960629762" ]
+  },
+  "type" : [ "h-entry" ]
+}
