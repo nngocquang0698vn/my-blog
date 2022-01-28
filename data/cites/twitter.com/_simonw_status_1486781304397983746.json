@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Boston " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sharon Goldberg" ],
+          "nickname" : [ "goldbe" ],
+          "numeric-id" : [ "31875135" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/552945661251821568/84FCtF7y.jpeg" ],
+          "published" : [ "2009-04-16T15:10:12+00:00" ],
+          "uid" : [ "tag:twitter.com:goldbe" ],
+          "url" : [ "https://twitter.com/goldbe", "https://www.cs.bu.edu/~goldbe", "http://bastionzero.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The federal government just dropped a 29-pg memo laying out its \"transition to a zero trust approach\"\n\nA few surprises:\n✴️ there's more in it than just zero-trust\n✴️ it goes beyond what most orgs do today\n\nI read the whole thing so you don't have to...\n<a href=\"https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to?utm_source=twitter&utm_medium=organic_social&utm_campaign=memo\">bastionzero.com/blog/i-read-th…</a></div>",
+        "value" : "The federal government just dropped a 29-pg memo laying out its \"transition to a zero trust approach\"\n\nA few surprises:\n✴️ there's more in it than just zero-trust\n✴️ it goes beyond what most orgs do today\n\nI read the whole thing so you don't have to...\nbastionzero.com/blog/i-read-th…"
+      } ],
+      "published" : [ "2022-01-27T14:52:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1486713705689587713" ],
+      "url" : [ "https://twitter.com/goldbe/status/1486713705689587713" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Federal government memo: \"Consistent with the practices outlined in SP 800-63B, agencies must remove password policies that require special characters and regular password rotation from all systems within one year of the issuance of this memorandum.\"\n\nYes!</div>",
+      "value" : "Federal government memo: \"Consistent with the practices outlined in SP 800-63B, agencies must remove password policies that require special characters and regular password rotation from all systems within one year of the issuance of this memorandum.\"\n\nYes!"
+    } ],
+    "published" : [ "2022-01-27T19:21:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1486781304397983746" ],
+    "url" : [ "https://twitter.com/simonw/status/1486781304397983746" ]
+  },
+  "type" : [ "h-entry" ]
+}
