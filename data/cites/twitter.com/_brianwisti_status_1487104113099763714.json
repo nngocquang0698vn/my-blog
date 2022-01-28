@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Gizmo Mathboy" ],
+          "nickname" : [ "gizmomathboy" ],
+          "numeric-id" : [ "41309638" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/765911721848561668/1PfXVeAC.jpg" ],
+          "published" : [ "2009-05-20T06:25:59+00:00" ],
+          "uid" : [ "tag:twitter.com:gizmomathboy" ],
+          "url" : [ "https://twitter.com/gizmomathboy" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "you're a good kid, Charlie Brown\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brianwisti\"></a>",
+        "value" : "you're a good kid, Charlie Brown"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/brianwisti/status/1487097503623389186" ],
+      "published" : [ "2022-01-28T16:35:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1487102131484119043" ],
+      "url" : [ "https://twitter.com/gizmomathboy/status/1487102131484119043" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Got to brag a bit.\n\nWhat they gave me to start this project:\n\n- a couple screenshots\n- an old Java Spring project repo w/o tests\n\nWhat the new dev gets:\n\n- Sphinx-generated dev docs\n- REST API explorer\n- integration + browser tests\n- SQL dashboard \n- 32 hours hands-on training</div>",
+      "value" : "Got to brag a bit.\n\nWhat they gave me to start this project:\n\n- a couple screenshots\n- an old Java Spring project repo w/o tests\n\nWhat the new dev gets:\n\n- Sphinx-generated dev docs\n- REST API explorer\n- integration + browser tests\n- SQL dashboard \n- 32 hours hands-on training"
+    } ],
+    "published" : [ "2022-01-28T16:43:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1487104113099763714" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1487104113099763714" ]
+  },
+  "type" : [ "h-entry" ]
+}
