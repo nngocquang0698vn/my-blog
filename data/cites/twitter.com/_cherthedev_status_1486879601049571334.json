@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469060036223660032/IdLRDiGE.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Apple has crushed my soul" ],
+    "published" : [ "2022-01-28T01:51:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1486879601049571334" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1486879601049571334" ]
+  },
+  "type" : [ "h-entry" ]
+}
