@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Petaluma, CA; Coast Miwok land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Simmons" ],
+        "nickname" : [ "joshsimmons" ],
+        "numeric-id" : [ "3649181" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346153496110718976/1lCwzjb3.jpg" ],
+        "published" : [ "2007-04-06T19:37:32+00:00" ],
+        "uid" : [ "tag:twitter.com:joshsimmons" ],
+        "url" : [ "https://twitter.com/joshsimmons", "http://joshsimmons.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thank you! Thrilled this is the direction the company is going. Good for people and good for business!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/outreachy\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tidelift\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/yuvipanda\"></a>",
+      "value" : "Thank you! Thrilled this is the direction the company is going. Good for people and good for business!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/yuvipanda/status/1486815031190704128" ],
+    "published" : [ "2022-01-27T22:07:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1486823167653867520" ],
+    "url" : [ "https://twitter.com/joshsimmons/status/1486823167653867520" ]
+  },
+  "type" : [ "h-entry" ]
+}
