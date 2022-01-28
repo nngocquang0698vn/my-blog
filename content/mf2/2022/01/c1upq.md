@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IndieScripter/status/1486995887058423809" ],
     "name" : [ "Like of @IndieScripter's tweet" ],
     "published" : [ "2022-01-28T10:12:00+0000" ],
     "category" : [ "open-source" ],
