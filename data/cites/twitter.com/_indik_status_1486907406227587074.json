@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sebastiaan de With" ],
+          "nickname" : [ "sdw" ],
+          "numeric-id" : [ "6503412" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1435900467729637381/C7lu0Qyz.jpg" ],
+          "published" : [ "2007-06-01T15:37:33+00:00" ],
+          "uid" : [ "tag:twitter.com:sdw" ],
+          "url" : [ "https://twitter.com/sdw", "http://Instagram.com/sdw" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "iOS 15.4 beta has a new ‘Use Face ID with a Mask’ option and the masked FaceID icon is absolutely adorable." ],
+      "photo" : [ "https://pbs.twimg.com/media/FKIfm_pUUAA3QAu.jpg" ],
+      "published" : [ "2022-01-27T19:38:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1486785584232210432" ],
+      "url" : [ "https://twitter.com/sdw/status/1486785584232210432" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "WTFlorida" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Renaissance Mandalorian" ],
+        "nickname" : [ "indik" ],
+        "numeric-id" : [ "11072852" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476320229085097986/0PT1Agu3.jpg" ],
+        "published" : [ "2007-12-12T02:37:23+00:00" ],
+        "uid" : [ "tag:twitter.com:indik" ],
+        "url" : [ "https://twitter.com/indik", "http://instagram.com/sagreii/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Please do not teach the computers how to recognize us even with most of our facial features covered." ],
+    "published" : [ "2022-01-28T03:42:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1486907406227587074" ],
+    "url" : [ "https://twitter.com/indik/status/1486907406227587074" ]
+  },
+  "type" : [ "h-entry" ]
+}
