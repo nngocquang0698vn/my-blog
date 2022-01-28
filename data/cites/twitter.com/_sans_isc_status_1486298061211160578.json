@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bethesda, MD" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SANS ISC" ],
+        "nickname" : [ "sans_isc" ],
+        "numeric-id" : [ "6821102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/30071042/twitter_isc.jpg" ],
+        "published" : [ "2007-06-14T22:12:07+00:00" ],
+        "uid" : [ "tag:twitter.com:sans_isc" ],
+        "url" : [ "https://twitter.com/sans_isc", "http://isc.sans.edu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Over 20 thousand servers have their iLO exposed to the internet, many are outdated and vulnerable <a href=\"https://i5c.us/d28276\">i5c.us/d28276</a>",
+      "value" : "Over 20 thousand servers have their iLO exposed to the internet, many are outdated and vulnerable i5c.us/d28276"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FKBkNcgXsAY_qtN.jpg" ],
+    "published" : [ "2022-01-26T11:20:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1486298061211160578" ],
+    "url" : [ "https://twitter.com/sans_isc/status/1486298061211160578" ]
+  },
+  "type" : [ "h-entry" ]
+}
