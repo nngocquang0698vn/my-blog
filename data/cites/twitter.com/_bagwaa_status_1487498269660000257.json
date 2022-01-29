@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Richard Bagshaw 💉💉💉" ],
+        "nickname" : [ "bagwaa" ],
+        "numeric-id" : [ "788508" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475565476289908746/UDAei8ue.jpg" ],
+        "published" : [ "2007-02-22T12:20:09+00:00" ],
+        "uid" : [ "tag:twitter.com:bagwaa" ],
+        "url" : [ "https://twitter.com/bagwaa", "https://www.richardbagshaw.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Finally, I can switch my code completion over to true LSPs using neovim's native LSP engine, and it works so well with PHP with intelephense, no need for conquerer of completion anymore!" ],
+    "photo" : [ "https://pbs.twimg.com/media/FKSnwI3X0AY7M5Y.jpg" ],
+    "published" : [ "2022-01-29T18:49:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1487498269660000257" ],
+    "url" : [ "https://twitter.com/bagwaa/status/1487498269660000257" ]
+  },
+  "type" : [ "h-entry" ]
+}
