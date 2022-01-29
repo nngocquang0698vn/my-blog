@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian 🐞" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400161856329822208/GrSz46jH.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It’s release day! 🍼\n\nMeet Freja Jaana Katthöfer 🥰\n\nI am exhausted but my heart is full 😭❤️</div>",
+      "value" : "It’s release day! 🍼\n\nMeet Freja Jaana Katthöfer 🥰\n\nI am exhausted but my heart is full 😭❤️"
+    } ],
+    "photo" : [ {
+      "alt" : "Newborn baby",
+      "value" : "https://pbs.twimg.com/media/FKOLZfTWUAkLu5e.jpg"
+    }, {
+      "alt" : "Kalle holding Freja",
+      "value" : "https://pbs.twimg.com/media/FKOLZfUXoAEOX_5.jpg"
+    }, {
+      "alt" : "Emma holding Freja",
+      "value" : "https://pbs.twimg.com/media/FKOLZfSXEAkaNbS.jpg"
+    } ],
+    "published" : [ "2022-01-28T22:07:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1487185584300961793" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1487185584300961793" ]
+  },
+  "type" : [ "h-entry" ]
+}
