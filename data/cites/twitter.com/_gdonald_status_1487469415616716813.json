@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Clarksville, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Greg Donald" ],
+        "nickname" : [ "gdonald" ],
+        "numeric-id" : [ "17632621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1474826442223542275/ooIbrxTo.jpg" ],
+        "published" : [ "2008-11-25T21:42:28+00:00" ],
+        "uid" : [ "tag:twitter.com:gdonald" ],
+        "url" : [ "https://twitter.com/gdonald", "https://gregdonald.com", "http://github.com/gdonald" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "No one wants to redirect anymore.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/parismarx\"></a>",
+      "value" : "No one wants to redirect anymore."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/parismarx/status/1487468864107593730" ],
+    "published" : [ "2022-01-29T16:55:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1487469415616716813" ],
+    "url" : [ "https://twitter.com/gdonald/status/1487469415616716813" ]
+  },
+  "type" : [ "h-entry" ]
+}
