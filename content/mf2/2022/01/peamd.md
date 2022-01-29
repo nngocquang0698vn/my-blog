@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SylvestreLedru/status/1487393126889185280" ],
     "name" : [ "Like of @SylvestreLedru's tweet" ],
     "published" : [ "2022-01-29T14:16:00+0000" ],
     "category" : [ "rust" ],
