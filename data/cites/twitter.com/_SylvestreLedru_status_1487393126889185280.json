@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sylvestre Ledru" ],
+        "nickname" : [ "SylvestreLedru" ],
+        "numeric-id" : [ "21388780" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/727886050/n782164121_278866_8310.jpg" ],
+        "published" : [ "2009-02-20T10:57:00+00:00" ],
+        "uid" : [ "tag:twitter.com:SylvestreLedru" ],
+        "url" : [ "https://twitter.com/SylvestreLedru", "http://sylvestre.ledru.info/blog/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I published an update the progress on Rust Coreutils:\n<a href=\"https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils\">sylvestre.ledru.info/blog/2022/01/2…</a>\nTLDR: we are making progress on the Rust implementation of the GNU Coreutils and, with the kernel moving to Rust too, it is probably a potential path for the future of Linux!</div>",
+      "value" : "I published an update the progress on Rust Coreutils:\nsylvestre.ledru.info/blog/2022/01/2…\nTLDR: we are making progress on the Rust implementation of the GNU Coreutils and, with the kernel moving to Rust too, it is probably a potential path for the future of Linux!"
+    } ],
+    "published" : [ "2022-01-29T11:52:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1487393126889185280" ],
+    "url" : [ "https://twitter.com/SylvestreLedru/status/1487393126889185280" ]
+  },
+  "type" : [ "h-entry" ]
+}
