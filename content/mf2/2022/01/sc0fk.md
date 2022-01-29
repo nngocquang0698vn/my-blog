@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Sp4ghettiCode/status/1487421398477905921" ],
     "name" : [ "Like of @Sp4ghettiCode's tweet" ],
     "published" : [ "2022-01-29T14:15:00+0000" ],
     "like-of" : [ "https://twitter.com/Sp4ghettiCode/status/1487421398477905921" ],
