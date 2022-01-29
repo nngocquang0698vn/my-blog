@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/parik36/status…" ],
+      "url" : [ "https://twitter.com/parik36/status/1487064195723980804" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've been writing open source software for over 20 years and I'd say it's absolutely no one's duty to contribute to anything - that's conferring a moral or legal obligation on people.\n\nIt should only ever be a choice from a person</div>\n<a class=\"tag\" href=\"https://twitter.com/parik36/status/1487064195723980804\">twitter.com/parik36/status…</a>",
+      "value" : "I've been writing open source software for over 20 years and I'd say it's absolutely no one's duty to contribute to anything - that's conferring a moral or legal obligation on people.\n\nIt should only ever be a choice from a person"
+    } ],
+    "published" : [ "2022-01-29T09:18:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1487354505322762243" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1487354505322762243" ]
+  },
+  "type" : [ "h-entry" ]
+}
