@@ -12,6 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-18T09:03:52+0000
 slug: "spring-negotiate-exception-handler"
 ---
+Update 2022-01-29: You may be interested in using [spring-content-negotiator](https://gitlab.com/jamietanna/spring-content-negotiator) to make this simpler!
+
 I [really like content-negotiation](/posts/2021/01/05/why-content-negotiation/), and have found it to be really useful for both versioning, and i.e. providing HTML error pages instead of JSON when viewed in a web browser.
 
 Spring handles this well with the ability to mark up your controllers with the media types that are consumed/produced by the endpoint:

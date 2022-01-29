@@ -12,6 +12,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-18T12:01:36+0000
 slug: "spring-negotiate-servlet-filter"
 ---
+Update 2022-01-29: You may be interested in using [spring-content-negotiator](https://gitlab.com/jamietanna/spring-content-negotiator) to make this simpler!
+
 As noted in [_Content Negotiation with `ControllerAdvice` and `ExceptionHandler`s in Spring (Boot)_](/posts/2022/01/18/spring-negotiate-exception-handler/), content negotiation is useful for providing different representations of formats for clients.
 
 (I'd recommend a read of that article before this one to understand a bit more of the context for what is recommended below.)
