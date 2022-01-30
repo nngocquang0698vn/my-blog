@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chattanooga, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Long" ],
+        "nickname" : [ "jlongster" ],
+        "numeric-id" : [ "14615235" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1214648242404761600/OoYVL2Tp.jpg" ],
+        "published" : [ "2008-05-01T15:14:30+00:00" ],
+        "uid" : [ "tag:twitter.com:jlongster" ],
+        "url" : [ "https://twitter.com/jlongster", "http://jlongster.com", "http://buymeacoffee.com/jlongster" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I almost want to never write TypeScript again because of how condescending people are.\n\nI know what I’m doing. I’ve been in this field for over 15 years. There are other approaches, ya know? Some of you need to try other types of languages.</div>",
+      "value" : "I almost want to never write TypeScript again because of how condescending people are.\n\nI know what I’m doing. I’ve been in this field for over 15 years. There are other approaches, ya know? Some of you need to try other types of languages."
+    } ],
+    "published" : [ "2022-01-30T01:14:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1487595045771431938" ],
+    "url" : [ "https://twitter.com/jlongster/status/1487595045771431938" ]
+  },
+  "type" : [ "h-entry" ]
+}
