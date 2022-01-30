@@ -45,6 +45,8 @@ My daily drivers for work and play are:
   - Intel i7-6900k
   - NVIDIA TITAN X
 
+I currently use an Elgato Wave:3 as my microphone, and a Logitech C922 as my webcam.
+
 My current colourscheme is [Gruvbox](https://github.com/morhetz/gruvbox).
 
 I'm an Open Source maintainer for a few personal projects, as well as:
