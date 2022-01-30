@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Wall Street Journal" ],
+        "nickname" : [ "WSJ" ],
+        "numeric-id" : [ "3108351" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5.jpg" ],
+        "published" : [ "2007-04-01T06:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:WSJ" ],
+        "url" : [ "https://twitter.com/WSJ", "http://wsj.com", "http://wsj.com/newsletters" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Facebook says it’s helping millions of the world’s poorest people get online through programs that allow them free data. Many of these people end up being charged, collectively, an estimated millions of dollars a month. <a href=\"https://on.wsj.com/32J4uFN\">on.wsj.com/32J4uFN</a>",
+      "value" : "Facebook says it’s helping millions of the world’s poorest people get online through programs that allow them free data. Many of these people end up being charged, collectively, an estimated millions of dollars a month. on.wsj.com/32J4uFN"
+    } ],
+    "published" : [ "2022-01-30T09:00:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1487712207706238978" ],
+    "url" : [ "https://twitter.com/WSJ/status/1487712207706238978" ]
+  },
+  "type" : [ "h-entry" ]
+}
