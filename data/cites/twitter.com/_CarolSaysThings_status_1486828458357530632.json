@@ -1,0 +1,84 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478296415411609603/wXIdGsCR.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "RT <a href=\"https://twitter.com/heyJTK/status/1486798503179276290\">@heyJTK</a> I honestly like — I am genuinely curious — is there some supplement people are taking to find the energy to care this much about the most random shit"
+    } ],
+    "published" : [ "2022-01-27T22:28:23+00:00" ],
+    "repost-of" : [ {
+      "children" : [ {
+        "properties" : {
+          "author" : [ {
+            "properties" : {
+              "location" : [ {
+                "properties" : {
+                  "name" : [ "San Francisco, CA" ]
+                },
+                "type" : [ "h-card", "p-location" ]
+              } ],
+              "name" : [ "sam lessin" ],
+              "nickname" : [ "lessin" ],
+              "numeric-id" : [ "2970511" ],
+              "photo" : [ "https://pbs.twimg.com/profile_images/1484753905456062467/17Q-Nv6N.png" ],
+              "published" : [ "2007-03-30T13:22:33+00:00" ],
+              "uid" : [ "tag:twitter.com:lessin" ],
+              "url" : [ "https://twitter.com/lessin", "https://www.wlessin.com", "https://bit.ly/3uQlm7b" ]
+            },
+            "type" : [ "h-card" ]
+          } ],
+          "content" : [ "‘Calendly’ Etiquette is The Most Raw / Naked Display of Social Capital Dynamics in Business." ],
+          "photo" : [ "https://pbs.twimg.com/media/FKEHP9IUYAcCAQe.jpg" ],
+          "published" : [ "2022-01-26T23:13:14+00:00" ],
+          "uid" : [ "tag:twitter.com:1486477359717187589" ],
+          "url" : [ "https://twitter.com/lessin/status/1486477359717187589" ]
+        },
+        "type" : [ "u-quotation-of", "h-cite" ]
+      } ],
+      "properties" : {
+        "author" : [ {
+          "properties" : {
+            "location" : [ {
+              "properties" : {
+                "name" : [ "NC" ]
+              },
+              "type" : [ "h-card", "p-location" ]
+            } ],
+            "name" : [ "JTK" ],
+            "nickname" : [ "heyJTK" ],
+            "numeric-id" : [ "1023991506934419456" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/1380942316832182277/0bAV1sy3.jpg" ],
+            "published" : [ "2018-07-30T17:59:34+00:00" ],
+            "uid" : [ "tag:twitter.com:heyJTK" ],
+            "url" : [ "https://twitter.com/heyJTK" ]
+          },
+          "type" : [ "h-card" ]
+        } ],
+        "content" : [ "I honestly like — I am genuinely curious — is there some supplement people are taking to find the energy to care this much about the most random shit" ],
+        "published" : [ "2022-01-27T20:29:21+00:00" ],
+        "uid" : [ "tag:twitter.com:1486798503179276290" ],
+        "url" : [ "https://twitter.com/heyJTK/status/1486798503179276290" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "uid" : [ "tag:twitter.com:1486828458357530632" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1486828458357530632" ]
+  },
+  "type" : [ "h-entry" ]
+}
