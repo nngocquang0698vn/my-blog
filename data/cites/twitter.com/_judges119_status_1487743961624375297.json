@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Low Earth Orbit" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Azazoth" ],
+        "nickname" : [ "judges119" ],
+        "numeric-id" : [ "155830878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1292265245692420096/adZSmMEQ.jpg" ],
+        "published" : [ "2010-06-15T07:55:02+00:00" ],
+        "uid" : [ "tag:twitter.com:judges119" ],
+        "url" : [ "https://twitter.com/judges119", "https://az.id.au/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "how is Microsoft now even worse than they were in the 90s with this anticompetitive bullshit?" ],
+    "in-reply-to" : [ "https://twitter.com/judges119/status/1487710098755825665" ],
+    "photo" : [ {
+      "alt" : "a screenshot of Microsoft Bing that shows someone has attempted to search for \"firefox\" and the top part of the page has an anomalous banner promoted by Microsoft telling people to use Microsoft Edge instead.",
+      "value" : "https://pbs.twimg.com/media/FKWGbCmaAAEpHi7.jpg"
+    }, {
+      "alt" : "a screenshot of the default apps settings page in Windows 10. someone is trying to change the default browser but it hijacks their selection and demands they try Microsoft Edge instead. the highlighted and selected button is \"Try it out\" despite that not being the original user intent. there is a small \"Switch anyway\" button.",
+      "value" : "https://pbs.twimg.com/media/FKWGy7HVIAYGNuv.png"
+    } ],
+    "published" : [ "2022-01-30T11:06:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1487743961624375297" ],
+    "url" : [ "https://twitter.com/judges119/status/1487743961624375297" ]
+  },
+  "type" : [ "h-entry" ]
+}
