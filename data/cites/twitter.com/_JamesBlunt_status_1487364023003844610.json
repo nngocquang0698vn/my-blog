@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Blunt" ],
+        "nickname" : [ "JamesBlunt" ],
+        "numeric-id" : [ "82097756" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437455546572017665/wl9NeJdQ.jpg" ],
+        "published" : [ "2009-10-13T13:46:00+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesBlunt" ],
+        "url" : [ "https://twitter.com/JamesBlunt", "https://jamesblunt.lnk.to/SBMF" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If <a href=\"https://twitter.com/Spotify\">@spotify</a> doesn’t immediately remove <a href=\"https://twitter.com/joerogan\">@joerogan</a>, I will release new music onto the platform. <a href=\"https://twitter.com/search?q=%23youwerebeautiful\">#youwerebeautiful</a>",
+      "value" : "If @spotify doesn’t immediately remove @joerogan, I will release new music onto the platform. #youwerebeautiful"
+    } ],
+    "published" : [ "2022-01-29T09:56:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1487364023003844610" ],
+    "url" : [ "https://twitter.com/JamesBlunt/status/1487364023003844610" ]
+  },
+  "type" : [ "h-entry" ]
+}
