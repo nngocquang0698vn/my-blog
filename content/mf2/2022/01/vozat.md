@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Geographhy/status/1487073203033759746" ],
     "name" : [ "Like of @Geographhy's tweet" ],
     "published" : [ "2022-01-30T10:09:00+0000" ],
     "category" : [ "art" ],
