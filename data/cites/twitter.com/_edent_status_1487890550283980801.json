@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Of course… I suppose it makes sense…\nWearing a bit thin.\nI hope the ears are a bit less conspicuous this time!</div>",
+        "value" : "Of course… I suppose it makes sense…\nWearing a bit thin.\nI hope the ears are a bit less conspicuous this time!"
+      } ],
+      "published" : [ "2022-01-28T17:00:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1487108219881275397" ],
+      "url" : [ "https://twitter.com/edent/status/1487108219881275397" ],
+      "video" : [ "https://video.twimg.com/tweet_video/FKM59ZlXwAkvmvX.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">And tomorrow begins a brand new adventure for me!\nI wonder what shenanigans in time and space I'll get into?\nNight all.</div>",
+      "value" : "And tomorrow begins a brand new adventure for me!\nI wonder what shenanigans in time and space I'll get into?\nNight all."
+    } ],
+    "published" : [ "2022-01-30T20:48:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1487890550283980801" ],
+    "url" : [ "https://twitter.com/edent/status/1487890550283980801" ]
+  },
+  "type" : [ "h-entry" ]
+}
