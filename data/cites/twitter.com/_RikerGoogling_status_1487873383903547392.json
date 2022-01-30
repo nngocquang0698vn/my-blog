@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Holodeck 4" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Riker Googling" ],
+        "nickname" : [ "RikerGoogling" ],
+        "numeric-id" : [ "2341337263" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/499021253953347585/COG26p9r.jpeg" ],
+        "published" : [ "2014-02-13T03:42:49+00:00" ],
+        "uid" : [ "tag:twitter.com:RikerGoogling" ],
+        "url" : [ "https://twitter.com/RikerGoogling", "http://patreon.com/JoeSondow" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "why does everyone have a goatee" ],
+    "published" : [ "2022-01-30T19:40:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1487873383903547392" ],
+    "url" : [ "https://twitter.com/RikerGoogling/status/1487873383903547392" ]
+  },
+  "type" : [ "h-entry" ]
+}
