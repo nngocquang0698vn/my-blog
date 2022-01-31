@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EvanFilarca/status/1487971200248672260" ],
     "name" : [ "Like of @EvanFilarca's tweet" ],
     "published" : [ "2022-01-31T22:29:00+0000" ],
     "category" : [ "shitpost", "marvel", "memes" ],
