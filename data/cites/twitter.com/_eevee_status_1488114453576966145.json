@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484360216804085760/6INZzUoH.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the main reason to deploy \"tech is neutral\" is to distract people from your inability to argue the /specific tech in question/ as neutral, probably because it is transparently bad" ],
+    "in-reply-to" : [ "https://twitter.com/eevee/status/1488113152789073923" ],
+    "published" : [ "2022-01-31T11:38:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1488114453576966145" ],
+    "url" : [ "https://twitter.com/eevee/status/1488114453576966145" ]
+  },
+  "type" : [ "h-entry" ]
+}
