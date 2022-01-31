@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_msw_/status/1488215148388962306" ],
     "name" : [ "Like of @_msw_'s tweet" ],
     "published" : [ "2022-01-31T22:28:00+0000" ],
     "category" : [ "cryptocurrency" ],
