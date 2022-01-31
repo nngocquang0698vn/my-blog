@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">That’s where mine was at for the longest time. Tolerable.\n\nToday it saw the headset, connected, then played audio through Line Out. \n\nManually select headset in audio. Pop OS says cool. Play music. Sound from speakers. Setting is Line Out again.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elfsternberg\"></a>",
+      "value" : "That’s where mine was at for the longest time. Tolerable.\n\nToday it saw the headset, connected, then played audio through Line Out. \n\nManually select headset in audio. Pop OS says cool. Play music. Sound from speakers. Setting is Line Out again."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elfsternberg/status/1488025996296998914" ],
+    "published" : [ "2022-01-31T05:51:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1488027093464014848" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1488027093464014848" ]
+  },
+  "type" : [ "h-entry" ]
+}
