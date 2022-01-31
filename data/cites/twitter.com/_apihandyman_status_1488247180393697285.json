@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman 💉💉" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "http://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’m totally thrilled to announce that I’ll join <a href=\"https://twitter.com/getpostman\">@getpostman</a> tomorrow. I’ll work with my good old friend <a href=\"https://twitter.com/kinlane\">@kinlane</a> in the Open Technologies team as OpenAPI lead 🚀👨‍🚀",
+      "value" : "I’m totally thrilled to announce that I’ll join @getpostman tomorrow. I’ll work with my good old friend @kinlane in the Open Technologies team as OpenAPI lead 🚀👨‍🚀"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/apihandyman/status/1488246759956652034" ],
+    "photo" : [ "https://pbs.twimg.com/media/FKdQ6_sWUAgv50I.jpg" ],
+    "published" : [ "2022-01-31T20:25:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1488247180393697285" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1488247180393697285" ]
+  },
+  "type" : [ "h-entry" ]
+}
