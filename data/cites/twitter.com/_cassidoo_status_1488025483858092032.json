@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassidy" ],
+        "nickname" : [ "cassidoo" ],
+        "numeric-id" : [ "400286802" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471241948853936132/1d5PR5ge.jpg" ],
+        "published" : [ "2011-10-28T19:54:25+00:00" ],
+        "uid" : [ "tag:twitter.com:cassidoo" ],
+        "url" : [ "https://twitter.com/cassidoo", "http://cassidoo.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the unbelievable high of getting your 2FA code submitted the second before it expires" ],
+    "published" : [ "2022-01-31T05:44:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1488025483858092032" ],
+    "url" : [ "https://twitter.com/cassidoo/status/1488025483858092032" ]
+  },
+  "type" : [ "h-entry" ]
+}
