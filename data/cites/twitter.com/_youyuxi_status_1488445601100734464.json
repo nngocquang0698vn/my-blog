@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Singapore" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Evan You" ],
+        "nickname" : [ "youyuxi" ],
+        "numeric-id" : [ "182821975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1206997998900850688/cTXTQiHm.jpg" ],
+        "published" : [ "2010-08-25T13:45:01+00:00" ],
+        "uid" : [ "tag:twitter.com:youyuxi" ],
+        "url" : [ "https://twitter.com/youyuxi", "https://github.com/sponsors/yyx990803" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Wordle’s creator deserves to be handsomely compensated for his work and creativity. The game will live on with all the open source clones / spin-offs no matter what NYT decides to do with the original." ],
+    "published" : [ "2022-02-01T09:34:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1488445601100734464" ],
+    "url" : [ "https://twitter.com/youyuxi/status/1488445601100734464" ]
+  },
+  "type" : [ "h-entry" ]
+}
