@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "do you ever think you came up with a unique string of words and then search twitter and realize there is only one person who has ever tweeted the same thing... my soulmate" ],
+    "photo" : [ {
+      "alt" : "twitter search results for \"360 no scope creep\" with only one result from 12/8/17 from someone named Matthew Butler who tweeted the same phrase",
+      "value" : "https://pbs.twimg.com/media/FKfa3KSUYAIOCIl.jpg"
+    } ],
+    "published" : [ "2022-02-01T06:28:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1488398847474683905" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1488398847474683905" ]
+  },
+  "type" : [ "h-entry" ]
+}
