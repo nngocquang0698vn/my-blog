@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/triketora/status/1488287824977743875" ],
     "name" : [ "Like of @triketora's tweet" ],
     "published" : [ "2022-02-01T19:47:00+0000" ],
     "like-of" : [ "https://twitter.com/triketora/status/1488287824977743875" ],
