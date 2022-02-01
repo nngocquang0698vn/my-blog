@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dylan" ],
+        "nickname" : [ "notdylm" ],
+        "numeric-id" : [ "1477188570993631237" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477189165112565762/dHoGLJl5.jpg" ],
+        "published" : [ "2022-01-01T08:03:09+00:00" ],
+        "uid" : [ "tag:twitter.com:notdylm" ],
+        "url" : [ "https://twitter.com/notdylm" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "remember when the flappy bird guy was like \"this game has ruined my life and I am pulling it immediately\"" ],
+    "published" : [ "2022-01-31T22:49:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1488283342034423813" ],
+    "url" : [ "https://twitter.com/notdylm/status/1488283342034423813" ]
+  },
+  "type" : [ "h-entry" ]
+}
