@@ -126,7 +126,7 @@ class ProductServiceClientTest {
   @Autowired private ObjectMapper mapper;
   @Autowired private MockRestServiceServer server;
 
-  @Autowired ProductServiceClient client;
+  @Autowired private ProductServiceClient client;
 
   @Test
   void returnsProductsWhenSuccessful() throws ProductServiceException {
@@ -350,7 +350,7 @@ This is because we instead need to make sure that we wire in a `RestTemplate`, n
    @Autowired private ObjectMapper mapper;
    @Autowired private MockRestServiceServer server;
 
-   @Autowired ProductServiceClient client;
+   @Autowired private ProductServiceClient client;
 
    @Test
    void returnsProductsWhenSuccessful() throws ProductServiceException {
@@ -386,4 +386,180 @@ This is because we instead need to make sure that we wire in a `RestTemplate`, n
      }
    }
  }
+```
+
+# Conflicts when using multiple `RestTemplate`s
+
+However, what happens when we've got multiple `RestTemplate`s? For instance, we may want to have a `RestTemplate` that adds an `Api-Key` header to the request, and another which does not.
+
+The best solution for this is to expose multiple `RestTemplate` beans, but this requires we use `@Qualifier` in the constructor such as:
+
+```java
+public ProductServiceClient(@Qualifier("productServiceRestTemplate") RestTemplate template) {
+  // ...
+}
+```
+
+However, this unfortunately doesn't work super nicely with the `RestClientTest`, as it can't inject it, as it doesn't [allow specifying the bean name](https://github.com/spring-projects/spring-boot/issues/29614).
+
+One option we've got is to use the `@TestConfiguration` configuration option, which we can use to specify our own bean, removing the autoconfiguration that is performed by
+
+```java
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatThrownBy;
+import static org.springframework.test.web.client.match.MockRestRequestMatchers.requestTo;
+import static org.springframework.test.web.client.response.MockRestResponseCreators.withBadRequest;
+import static org.springframework.test.web.client.response.MockRestResponseCreators.withSuccess;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import java.util.List;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.client.AutoConfigureWebClient;
+import org.springframework.boot.test.autoconfigure.web.client.RestClientTest;
+import org.springframework.boot.test.context.TestConfiguration;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Import;
+import org.springframework.http.MediaType;
+import org.springframework.test.web.client.MockRestServiceServer;
+import org.springframework.web.client.RestClientResponseException;
+import org.springframework.web.client.RestTemplate;
+
+// or this can be bundled into @ContextConfiguration(classes = ProductServiceClientTest.Config.class)
+@Import(ProductServiceClientTest.Config.class)
+@RestClientTest // NOTE that we do not call out the `ProductServiceClient`!
+@AutoConfigureWebClient(registerRestTemplate = true)
+class ProductServiceClientTest {
+
+  @TestConfiguration
+  static class Config {
+    @Bean
+    public ProductServiceClient client(RestTemplate restTemplate) {
+      return new ProductServiceClient(restTemplate);
+    }
+  }
+
+  // existing tests
+}
+```
+
+This then works as before, and gives us a handy means to override the configuration, and doesn't require too much overhead.
+
+# Adding tests for multiple `RestTemplates` together
+
+If we want to add tests to validate that the `RestTemplate`s themselves are set up correctly, independent to the classes that test them, we may want to create a common test class.
+
+To do this, we can't unfortunately use `RestClientTest`, as it can't autowire multiple `RestTemplate`s, such as the following definition:
+
+```java
+import java.util.List;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.web.client.RestTemplateBuilder;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.http.MediaType;
+import org.springframework.web.client.RestTemplate;
+
+@Configuration
+public class RestTemplateConfig {
+  @Bean
+  public RestTemplate foo(@Value("1.2.3") String apiKey) {
+    return new RestTemplateBuilder()
+        .additionalInterceptors(
+            (request, body, execution) -> {
+              request.getHeaders().set("api-key", apiKey);
+              return execution.execute(request, body);
+            })
+        .build();
+  }
+
+  @Bean
+  public RestTemplate bar() {
+    return new RestTemplateBuilder()
+        .additionalInterceptors(
+            (request, body, execution) -> {
+              request.getHeaders().setAccept(List.of(MediaType.valueOf("text/plain")));
+              return execution.execute(request, body);
+            })
+        .build();
+  }
+}
+```
+
+To add a central test to validate that their configuration is correct, we can create a lightweight Spring test, only for the `RestTemplateConfig`:
+
+```java
+import static org.springframework.test.web.client.match.MockRestRequestMatchers.header;
+import static org.springframework.test.web.client.match.MockRestRequestMatchers.requestTo;
+import static org.springframework.test.web.client.response.MockRestResponseCreators.withSuccess;
+
+import me.jvt.hacking.application.Application;
+import me.jvt.hacking.application.RestTemplateConfig;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.boot.test.web.client.MockServerRestTemplateCustomizer;
+import org.springframework.context.annotation.Import;
+import org.springframework.http.MediaType;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit.jupiter.SpringExtension;
+import org.springframework.test.web.client.MockRestServiceServer;
+import org.springframework.web.client.RestTemplate;
+
+@ExtendWith(SpringExtension.class)
+@Import(RestTemplateConfig.class)
+@ContextConfiguration(classes = Application.class)
+class RestTemplateIntegrationTest {
+
+  @Autowired
+  @Qualifier("foo")
+  private RestTemplate foo;
+
+  @Autowired
+  @Qualifier("bar")
+  private RestTemplate bar;
+
+  private MockRestServiceServer serverFoo;
+  private MockRestServiceServer serverBar;
+
+  @BeforeEach
+  void setup() {
+    serverFoo = buildServer(foo);
+    serverBar = buildServer(bar);
+  }
+
+  @Test
+  void fooSetsApiKey() {
+    serverFoo
+        .expect(requestTo("/products"))
+        .andExpect(header("Api-Key", "1.2.3"))
+        .andRespond(withSuccess("Foo", MediaType.APPLICATION_JSON));
+
+    foo.getForObject("/products", String.class);
+
+    serverFoo.verify();
+  }
+
+  @Test
+  void barSetsTextPlainAcceptHeader() {
+    serverBar
+        .expect(requestTo("/products"))
+        .andExpect(header("accept", "text/plain"))
+        .andRespond(withSuccess("Bar", MediaType.APPLICATION_JSON));
+
+    bar.getForObject("/products", String.class);
+
+    serverBar.verify();
+  }
+
+  private static MockRestServiceServer buildServer(RestTemplate restTemplate) {
+    MockServerRestTemplateCustomizer serverRestTemplateCustomizer =
+        new MockServerRestTemplateCustomizer();
+    serverRestTemplateCustomizer.customize(restTemplate);
+    return serverRestTemplateCustomizer.getServer();
+  }
+}
 ```
