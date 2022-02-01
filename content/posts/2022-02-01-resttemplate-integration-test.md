@@ -402,7 +402,7 @@ public ProductServiceClient(@Qualifier("productServiceRestTemplate") RestTemplat
 
 However, this unfortunately doesn't work super nicely with the `RestClientTest`, as it can't inject it, as it doesn't [allow specifying the bean name](https://github.com/spring-projects/spring-boot/issues/29614).
 
-One option we've got is to use the `@TestConfiguration` configuration option, which we can use to specify our own bean, removing the autoconfiguration that is performed by
+One option we've got is to use the `@TestConfiguration` configuration option, which we can use to specify our own bean, removing the autoconfiguration that is performed by `RestClientTest`:
 
 ```java
 import static org.assertj.core.api.Assertions.assertThat;
@@ -446,9 +446,11 @@ class ProductServiceClientTest {
 
 This then works as before, and gives us a handy means to override the configuration, and doesn't require too much overhead.
 
-# Adding tests for multiple `RestTemplates` together
+But note that this also removes any custom configuration we've got in our bean definition for `productServiceRestTemplate`.
 
-If we want to add tests to validate that the `RestTemplate`s themselves are set up correctly, independent to the classes that test them, we may want to create a common test class.
+# Adding tests for multiple `RestTemplates` together, with custom configuration
+
+If we want to add tests to validate that the `RestTemplate`s themselves are set up correctly, independent to the classes that test them, we may want to create a common test class, which can allow us to verify any configuration that has been applied to them.
 
 To do this, we can't unfortunately use `RestClientTest`, as it can't autowire multiple `RestTemplate`s, such as the following definition:
 
