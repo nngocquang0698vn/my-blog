@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Legitimately don't know what to do with myself today. \n\nHiring processes require astronomical patience.</div>",
+      "value" : "Legitimately don't know what to do with myself today. \n\nHiring processes require astronomical patience."
+    } ],
+    "published" : [ "2022-02-01T21:38:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1488627825271656450" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1488627825271656450" ]
+  },
+  "type" : [ "h-entry" ]
+}
