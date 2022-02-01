@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beacon, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Willman" ],
+        "nickname" : [ "willmanduffy" ],
+        "numeric-id" : [ "351346221" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486883606026989568/s2ccxJvy.jpg" ],
+        "published" : [ "2011-08-09T03:40:24+00:00" ],
+        "uid" : [ "tag:twitter.com:willmanduffy" ],
+        "url" : [ "https://twitter.com/willmanduffy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "TIL that if you hit <a href=\"https://twitter.com/SlackHQ\">@SlackHQ</a>'s conversations.create API fast enough you can create multiple Slack channels with the same name before the uniqueness validation kicks in",
+      "value" : "TIL that if you hit @SlackHQ's conversations.create API fast enough you can create multiple Slack channels with the same name before the uniqueness validation kicks in"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FKit6o1WUAUNbUO.png" ],
+    "published" : [ "2022-02-01T21:50:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1488630938804400130" ],
+    "url" : [ "https://twitter.com/willmanduffy/status/1488630938804400130" ]
+  },
+  "type" : [ "h-entry" ]
+}
