@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Engelberg" ],
+        "nickname" : [ "alex_engelberg" ],
+        "numeric-id" : [ "2871508254" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1377349108160028674/BDHXLQHb.jpg" ],
+        "published" : [ "2014-10-22T18:26:04+00:00" ],
+        "uid" : [ "tag:twitter.com:alex_engelberg" ],
+        "url" : [ "https://twitter.com/alex_engelberg", "https://beacons.ai/alexengelberg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "published" : [ "2022-02-01T04:36:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1488370618735075585" ],
+    "url" : [ "https://twitter.com/alex_engelberg/status/1488370618735075585" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1488370368985198593/pu/vid/810x720/gHUNSShUH0PTbcQg.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
