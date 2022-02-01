@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington State" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Pepper’s Husband (Kee Hinckley)" ],
+        "nickname" : [ "nazgul" ],
+        "numeric-id" : [ "2084821" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441174368109797381/zH5nsOd6.jpg" ],
+        "published" : [ "2007-03-24T05:49:06+00:00" ],
+        "uid" : [ "tag:twitter.com:nazgul" ],
+        "url" : [ "https://twitter.com/nazgul" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Even better. Twitter in *three* tweets." ],
+    "in-reply-to" : [ "https://twitter.com/nazgul/status/1488317254731112448" ],
+    "photo" : [ "https://pbs.twimg.com/media/FKeVD8lVkAIEBch.jpg" ],
+    "published" : [ "2022-02-01T01:23:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1488322100397961218" ],
+    "url" : [ "https://twitter.com/nazgul/status/1488322100397961218" ]
+  },
+  "type" : [ "h-entry" ]
+}
