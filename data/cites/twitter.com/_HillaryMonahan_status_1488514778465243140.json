@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillary Monahan" ],
+        "nickname" : [ "HillaryMonahan" ],
+        "numeric-id" : [ "257048770" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1482544731867566082/8hJ7_yYv.jpg" ],
+        "published" : [ "2011-02-24T16:27:00+00:00" ],
+        "uid" : [ "tag:twitter.com:HillaryMonahan" ],
+        "url" : [ "https://twitter.com/HillaryMonahan", "http://peculiarityshop.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just a reminder that furby taxidermy is a thing some people inflict upon other people." ],
+    "photo" : [ {
+      "alt" : "This is furby taxidermy--the face of a furby, the body of some kind of monkey thing, all pastel purple.  It has antlers.  It's terrible.",
+      "value" : "https://pbs.twimg.com/media/FKhEQZ9WQAQAopr.jpg"
+    } ],
+    "published" : [ "2022-02-01T14:09:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1488514778465243140" ],
+    "url" : [ "https://twitter.com/HillaryMonahan/status/1488514778465243140" ]
+  },
+  "type" : [ "h-entry" ]
+}
