@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New Orleans, LA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Angie Jones" ],
+          "nickname" : [ "techgirl1908" ],
+          "numeric-id" : [ "2932738834" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1319649316965736451/-XOCbnFu.jpg" ],
+          "published" : [ "2014-12-19T22:13:09+00:00" ],
+          "uid" : [ "tag:twitter.com:techgirl1908" ],
+          "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I told my Gran I would be off work today.\n\nShe did not forget. She called me and told me make my famous mac and cheese and bring it over. She will fry the fish (no air fryer, don't play with my grandma lol)\n\nI planned on sleeping all day but I ain't mad at the change of plans lol</div>",
+        "value" : "I told my Gran I would be off work today.\n\nShe did not forget. She called me and told me make my famous mac and cheese and bring it over. She will fry the fish (no air fryer, don't play with my grandma lol)\n\nI planned on sleeping all day but I ain't mad at the change of plans lol"
+      } ],
+      "published" : [ "2021-08-18T21:01:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1428099847727484934" ],
+      "url" : [ "https://twitter.com/techgirl1908/status/1428099847727484934" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319649316965736451/-XOCbnFu.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I lost my grandmother... my queen.\n\nThose who follow my tweets know how close we were. I'm beyond grateful that I moved back home in time to spend these precious moments with her 🙏🏾❤</div>",
+      "value" : "I lost my grandmother... my queen.\n\nThose who follow my tweets know how close we were. I'm beyond grateful that I moved back home in time to spend these precious moments with her 🙏🏾❤"
+    } ],
+    "published" : [ "2022-02-02T04:24:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1488730005295312902" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1488730005295312902" ]
+  },
+  "type" : [ "h-entry" ]
+}
