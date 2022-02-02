@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco CA, Barcelona" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicolas Grenié" ],
+        "nickname" : [ "picsoung" ],
+        "numeric-id" : [ "7681652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484234937544835073/AeVxTOsk.jpg" ],
+        "published" : [ "2007-07-24T12:11:42+00:00" ],
+        "uid" : [ "tag:twitter.com:picsoung" ],
+        "url" : [ "https://twitter.com/picsoung", "https://nicolasgrenie.com", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Did you try the new huddle feature on <a href=\"https://twitter.com/SlackHQ\">@SlackHQ</a> to get on a quick voice chat with someone?\n\nif they don't show up after a while, Slack plays a waiting music 🤣</div>",
+      "value" : "Did you try the new huddle feature on @SlackHQ to get on a quick voice chat with someone?\n\nif they don't show up after a while, Slack plays a waiting music 🤣"
+    } ],
+    "published" : [ "2022-02-02T21:33:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1488989077529448449" ],
+    "url" : [ "https://twitter.com/picsoung/status/1488989077529448449" ]
+  },
+  "type" : [ "h-entry" ]
+}
