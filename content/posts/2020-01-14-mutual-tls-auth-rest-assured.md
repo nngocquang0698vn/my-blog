@@ -143,7 +143,7 @@ private static KeyStore loadKeyStore(String path, char[] password) {
 
 # Testing
 
-So how can you actually test this thing works? [In January](http://localhost:1313/mf2/2020/01/d311z/) I found [mtls.dev](https://mtls.dev), a great resource for generating all the setup for performing MTLS (both client-side and server-side) as well as example code to run a simple server locally.
+So how can you actually test this thing works? [In January](/mf2/2020/01/d311z/) I found [mtls.dev](https://mtls.dev), a great resource for generating all the setup for performing MTLS (both client-side and server-side) as well as example code to run a simple server locally.
 
 I'd thoroughly recommend using it, especially to validate that you've got Rest Assured set up correctly.
 
