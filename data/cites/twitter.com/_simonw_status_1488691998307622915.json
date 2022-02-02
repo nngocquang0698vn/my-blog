@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Leeds, UK and Amsterdam, NL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Leaning Technologies" ],
+          "nickname" : [ "leaningtech" ],
+          "numeric-id" : [ "1963525874" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/778948099372900352/eatVCwPT.jpg" ],
+          "published" : [ "2013-10-15T22:35:32+00:00" ],
+          "uid" : [ "tag:twitter.com:leaningtech" ],
+          "url" : [ "https://twitter.com/leaningtech", "http://www.leaningtech.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We have made a server-less virtual Linux environment that runs unmodified Debian binaries in the browser. \n\nThis is powered by CheerpX, a WebAssembly virtualization platform. Feel free to play with it and report bugs:\n\n<a href=\"https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/\">leaningtech.com/webvm-server-l…</a></div>",
+        "value" : "We have made a server-less virtual Linux environment that runs unmodified Debian binaries in the browser. \n\nThis is powered by CheerpX, a WebAssembly virtualization platform. Feel free to play with it and report bugs:\n\nleaningtech.com/webvm-server-l…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FKg39kNXsAQkiJY.png" ],
+      "published" : [ "2022-02-01T13:15:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1488501208839077899" ],
+      "url" : [ "https://twitter.com/leaningtech/status/1488501208839077899" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Whoa. <a href=\"https://webvm.io/\">webvm.io</a> runs a full Debian VM entirely in your browser via WebAssembly... and it ships with working Perl, Python, Ruby and Node.js!",
+      "value" : "Whoa. webvm.io runs a full Debian VM entirely in your browser via WebAssembly... and it ships with working Perl, Python, Ruby and Node.js!"
+    } ],
+    "published" : [ "2022-02-02T01:53:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1488691998307622915" ],
+    "url" : [ "https://twitter.com/simonw/status/1488691998307622915" ]
+  },
+  "type" : [ "h-entry" ]
+}
