@@ -57,7 +57,7 @@ to = "/mf2/2020/03/bl33l/"
   posts = "/posts/:year/:month/:day/:slug/"
   tags = "/tags/:title/"
   kinds = "/kind/:title/"
-  week-notes = "/week-notes/:slug/:filename/"
+  week-notes = "/week-notes/:year/:filename/"
   music-in-review = "/music-in-review/:filename/"
 
 [taxonomies]
@@ -238,18 +238,3 @@ notAlternative = true
 name = "prod"
 
 URL = "s3://www-jvt-me?region=eu-west-2"
-
-[[cascade]]
-slug = 2020
-[cascade._target]
-  path = '/week-notes/2020/**'
-
-[[cascade]]
-slug = 2021
-[cascade._target]
-  path = '/week-notes/2021/**'
-
-[[cascade]]
-slug = 2022
-[cascade._target]
-  path = '/week-notes/2022/**'
