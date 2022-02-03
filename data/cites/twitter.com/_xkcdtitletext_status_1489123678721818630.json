@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The interwebz" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "xkcd title text" ],
+        "nickname" : [ "xkcdtitletext" ],
+        "numeric-id" : [ "1339347752304734209" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1341697719270817793/VCFZkyat.png" ],
+        "published" : [ "2020-12-16T23:12:55+00:00" ],
+        "uid" : [ "tag:twitter.com:xkcdtitletext" ],
+        "url" : [ "https://twitter.com/xkcdtitletext", "https://xkcd.com", "https://bit.ly/3hePwvd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Placeble 228 x/6\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/xkcd\"></a>",
+      "value" : "\"Placeble 228 x/6\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/xkcd/status/1489025536714321920" ],
+    "published" : [ "2022-02-03T06:28:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1489123678721818630" ],
+    "url" : [ "https://twitter.com/xkcdtitletext/status/1489123678721818630" ]
+  },
+  "type" : [ "h-entry" ]
+}
