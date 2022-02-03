@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Global" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Spectator Index" ],
+          "nickname" : [ "spectatorindex" ],
+          "numeric-id" : [ "1626294277" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX.png" ],
+          "published" : [ "2013-07-27T20:42:27+00:00" ],
+          "uid" : [ "tag:twitter.com:spectatorindex" ],
+          "url" : [ "https://twitter.com/spectatorindex", "http://spectatorindex.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "BREAKING: Facebook's parent company, Meta, loses over $200 billion in value as share price plunges by over 25%." ],
+      "published" : [ "2022-02-03T15:08:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1489254492076146692" ],
+      "url" : [ "https://twitter.com/spectatorindex/status/1489254492076146692" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "hankchizljaw" ],
+        "numeric-id" : [ "98734097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466423005500878852/reY37ced.jpg" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "uid" : [ "tag:twitter.com:hankchizljaw" ],
+        "url" : [ "https://twitter.com/hankchizljaw", "https://andy-bell.co.uk", "http://cube.fyi", "http://every-layout.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Absolutely delicious" ],
+    "published" : [ "2022-02-03T16:36:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1489276562390323203" ],
+    "url" : [ "https://twitter.com/hankchizljaw/status/1489276562390323203" ]
+  },
+  "type" : [ "h-entry" ]
+}
