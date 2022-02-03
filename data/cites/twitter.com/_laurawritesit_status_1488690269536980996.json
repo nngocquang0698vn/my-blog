@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hong Kong" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laura Dorwart" ],
+        "nickname" : [ "laurawritesit" ],
+        "numeric-id" : [ "4763866872" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1340842956018888705/JpfyxlBV.jpg" ],
+        "published" : [ "2016-01-15T17:49:12+00:00" ],
+        "uid" : [ "tag:twitter.com:laurawritesit" ],
+        "url" : [ "https://twitter.com/laurawritesit", "http://www.lauradorwart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">From the other room: *crash*\n\n4 year old yelling ominously: It's ok to make mistakes!</div>",
+      "value" : "From the other room: *crash*\n\n4 year old yelling ominously: It's ok to make mistakes!"
+    } ],
+    "published" : [ "2022-02-02T01:46:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1488690269536980996" ],
+    "url" : [ "https://twitter.com/laurawritesit/status/1488690269536980996" ]
+  },
+  "type" : [ "h-entry" ]
+}
