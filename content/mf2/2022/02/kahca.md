@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hankchizljaw/status/1489276562390323203" ],
     "name" : [ "Like of @hankchizljaw's tweet" ],
     "published" : [ "2022-02-03T17:03:00+0000" ],
     "category" : [ "facebook" ],
