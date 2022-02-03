@@ -17,6 +17,8 @@ Although the original intent behind this article was to discuss what shouldn't b
 
 These are examples based on non-production logs, and any relation to existences of data found in production systems is purely coincidental.
 
+Finally, if you do see data of this type, especially a JWT or another form, [do not use online tools to inspect them](/posts/2020/09/01/against-online-tooling/).
+
 # Common dangerous log patterns
 
 Below are a number of common things that could be problematic, and where possible, ways to pick up on them using search strings for i.e. your logging aggregation platform.
