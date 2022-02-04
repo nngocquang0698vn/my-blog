@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marcus Hutchins" ],
+          "nickname" : [ "MalwareTechBlog" ],
+          "numeric-id" : [ "1540951016" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1476317407941513218/pSUS2wbr.jpg" ],
+          "published" : [ "2013-06-23T13:10:56+00:00" ],
+          "uid" : [ "tag:twitter.com:MalwareTechBlog" ],
+          "url" : [ "https://twitter.com/MalwareTechBlog", "https://malwaretech.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I’d be like 50% more open to the idea of NFTs if all the popular ones weren’t ugly. It’s basically the digital equivalent of the tasteless billionaire home decor." ],
+      "published" : [ "2022-02-04T00:25:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1489394642885898240" ],
+      "url" : [ "https://twitter.com/MalwareTechBlog/status/1489394642885898240" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/malwaretechblo…" ],
+      "url" : [ "https://twitter.com/malwaretechblog/status/1489394642885898240" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432101325529964545/FH-g7eA4.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "NFTs aren't art; they are game tokens in a game where you pretend to be an art speculator.\n<a class=\"tag\" href=\"https://twitter.com/malwaretechblog/status/1489394642885898240\">twitter.com/malwaretechblo…</a>",
+      "value" : "NFTs aren't art; they are game tokens in a game where you pretend to be an art speculator."
+    } ],
+    "published" : [ "2022-02-04T02:48:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1489430606857396229" ],
+    "url" : [ "https://twitter.com/seldo/status/1489430606857396229" ]
+  },
+  "type" : [ "h-entry" ]
+}
