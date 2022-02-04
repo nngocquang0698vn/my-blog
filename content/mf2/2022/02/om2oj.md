@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mekkaokereke/status/1489457345881001987" ],
     "name" : [ "Like of @mekkaokereke's tweet" ],
     "published" : [ "2022-02-04T16:27:00+0000" ],
     "category" : [ "cryptocurrency" ],
