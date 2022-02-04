@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Should GOV.UK Run A Bug Bounty? <a href=\"http://shkspr.mobi/blog/?p=9760\">shkspr.mobi/blog/?p=9760</a>",
+        "value" : "Should GOV.UK Run A Bug Bounty? shkspr.mobi/blog/?p=9760"
+      } ],
+      "published" : [ "2014-02-04T12:05:39+00:00" ],
+      "uid" : [ "tag:twitter.com:430673504652894208" ],
+      "url" : [ "https://twitter.com/edent/status/430673504652894208" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Eight years later, and this is now a thing 😃\n<a href=\"https://gov.uk/security.txt\">gov.uk/security.txt</a>\nNo monetary reward (sadly, but I get why).</div>",
+      "value" : "Eight years later, and this is now a thing 😃\ngov.uk/security.txt\nNo monetary reward (sadly, but I get why)."
+    } ],
+    "published" : [ "2022-02-04T07:43:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1489504801738178561" ],
+    "url" : [ "https://twitter.com/edent/status/1489504801738178561" ]
+  },
+  "type" : [ "h-entry" ]
+}
