@@ -16,7 +16,7 @@ image: /img/vendor/jekyll-logo-2x.png
 ---
 When I used to use Jekyll, I had a workflow where a post would start as a draft, sitting in the `_drafts` folder, and once it was ready, I would "promote" it to a full-blown post.
 
-This started to get a bit painful, so I automated the process [with a little helper script](https://github.com/jamietanna/dotfiles-arch/blob/master/terminal/home/.jekyll-promote.zsh).
+This started to get a bit painful, so I automated the process [with a little helper script](https://github.com/jamietanna/dotfiles-arch/blob/main/terminal/home/.jekyll-promote.zsh).
 
 Although this is fairly straightforward, the bit that I was really proud of was being able to use my shell's auto-complete to make this an easier process for me.
 

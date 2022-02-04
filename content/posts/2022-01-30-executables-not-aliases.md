@@ -63,6 +63,6 @@ Where the `~/bin/g` script has the contents:
 ./gradlew "$@"
 ```
 
-I've [currently got 17 helpers](https://gitlab.com/jamietanna/dotfiles-arch/-/tree/master/terminal/home/bin), for copy/pasting from the command-line, pretty-printing JWTs, JSON, etc, and it makes life a lot easier.
+I've [currently got 17 helpers](https://gitlab.com/jamietanna/dotfiles-arch/-/tree/main/terminal/home/bin), for copy/pasting from the command-line, pretty-printing JWTs, JSON, etc, and it makes life a lot easier.
 
 There are some aliases in my config that aren't yet migrated over - because I don't need them / use them enough to be useful as an executable script.

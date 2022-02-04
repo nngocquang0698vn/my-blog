@@ -10,7 +10,7 @@
     "published" : [ "2021-02-16T13:24:08.013Z" ],
     "content" : [ {
       "html" : "",
-      "value" : "I've got quite a few set up with shell aliases/functions - they're all available at https://gitlab.com/jamietanna/dotfiles-arch/-/blob/master/terminal/home/.githelpers"
+      "value" : "I've got quite a few set up with shell aliases/functions - they're all available at https://gitlab.com/jamietanna/dotfiles-arch/-/blob/main/terminal/home/.githelpers"
     } ]
   },
   "kind" : "replies",
