@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gordon Haff" ],
+        "nickname" : [ "ghaff" ],
+        "numeric-id" : [ "9151782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/685228806202912768/mnuTt2ww.jpg" ],
+        "published" : [ "2007-09-28T23:39:55+00:00" ],
+        "uid" : [ "tag:twitter.com:ghaff" ],
+        "url" : [ "https://twitter.com/ghaff", "http://www.bitmasons.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm somewhat amused at the Spotify/Rogan fracas being framed as an example of the death of the \"open web\" given that podcasts generally are pretty much the last bastion of RSS and there's zero requirement to sign a licensing deal with someone like Spotify." ],
+    "published" : [ "2022-02-05T18:13:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1490025765945098241" ],
+    "url" : [ "https://twitter.com/ghaff/status/1490025765945098241" ]
+  },
+  "type" : [ "h-entry" ]
+}
