@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leiden, Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martijn Meijering" ],
+        "nickname" : [ "mmeijeri" ],
+        "numeric-id" : [ "376172658" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2466367928/aqcotfp1tzy5n794piof.jpeg" ],
+        "published" : [ "2011-09-19T12:44:50+00:00" ],
+        "uid" : [ "tag:twitter.com:mmeijeri" ],
+        "url" : [ "https://twitter.com/mmeijeri", "https://www.linkedin.com/pub/martijn-meijering/2/314/294" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "From watching Reacher?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kartar\"></a>",
+      "value" : "From watching Reacher?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kartar/status/1490059102365618177" ],
+    "published" : [ "2022-02-05T21:10:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1490070342269874187" ],
+    "url" : [ "https://twitter.com/mmeijeri/status/1490070342269874187" ]
+  },
+  "type" : [ "h-entry" ]
+}
