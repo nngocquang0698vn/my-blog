@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Armand Domalewski" ],
+        "nickname" : [ "ArmandDoma" ],
+        "numeric-id" : [ "25913049" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480654291735961601/Jo1jf1Su.jpg" ],
+        "published" : [ "2009-03-23T00:12:15+00:00" ],
+        "uid" : [ "tag:twitter.com:ArmandDoma" ],
+        "url" : [ "https://twitter.com/ArmandDoma", "http://armanddomalewski.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The “Acceptable To Italians Index” is my new favorite set of metrics" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FKxwq8cVUAEIZkJ.jpg" ],
+    "published" : [ "2022-02-04T19:56:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1489689462602809346" ],
+    "url" : [ "https://twitter.com/ArmandDoma/status/1489689462602809346" ]
+  },
+  "type" : [ "h-entry" ]
+}
