@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarah_edo/status/1490054452098658304" ],
     "name" : [ "Like of @sarah_edo's tweet" ],
     "published" : [ "2022-02-05T22:11:00+0000" ],
     "category" : [ "food" ],
