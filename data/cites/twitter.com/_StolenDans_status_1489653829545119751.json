@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "A Garbage Pail" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "tinybaby" ],
+          "nickname" : [ "tinybaby" ],
+          "numeric-id" : [ "15946976" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1029892272/0e5e9f85-47c3-42a0-8d41-9a0eac017576.png" ],
+          "published" : [ "2008-08-22T16:38:46+00:00" ],
+          "uid" : [ "tag:twitter.com:tinybaby" ],
+          "url" : [ "https://twitter.com/tinybaby" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "the other day i was watching family feud and the question was \"something men love doing together\" and they got 4/5 that were like playing poker or drinking or whatever and they couldn't get the last one and so they reveal it and the sign flips over and it says \"GAY LOVEMAKING\"" ],
+      "published" : [ "2022-02-04T05:29:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1489471143459307523" ],
+      "url" : [ "https://twitter.com/tinybaby/status/1489471143459307523" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "St. Dan" ],
+        "nickname" : [ "StolenDans" ],
+        "numeric-id" : [ "1066794767235915777" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441074201876697089/axPJy6_T.jpg" ],
+        "published" : [ "2018-11-25T20:44:27+00:00" ],
+        "uid" : [ "tag:twitter.com:StolenDans" ],
+        "url" : [ "https://twitter.com/StolenDans" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "oh my god " ],
+    "published" : [ "2022-02-04T17:35:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1489653829545119751" ],
+    "url" : [ "https://twitter.com/StolenDans/status/1489653829545119751" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1489653794619244552/pu/vid/1280x720/_fIJByBu5DsJunIn.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
