@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ldn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "laura" ],
+        "nickname" : [ "freezydorito" ],
+        "numeric-id" : [ "3004020255" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477667324773683201/ZEGyZ8y6.jpg" ],
+        "published" : [ "2015-01-29T10:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:freezydorito" ],
+        "url" : [ "https://twitter.com/freezydorito", "https://laura.monster" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "aw time to log in to <a href=\"https://twitter.com\">twitter.com</a> :)",
+      "value" : "aw time to log in to twitter.com :)"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FKydZZbXEAUFm3o.png" ],
+    "published" : [ "2022-02-04T23:12:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1489738675260989443" ],
+    "url" : [ "https://twitter.com/freezydorito/status/1489738675260989443" ]
+  },
+  "type" : [ "h-entry" ]
+}
