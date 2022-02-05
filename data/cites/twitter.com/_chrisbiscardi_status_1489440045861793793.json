@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ ":party-corgi:" ],
+        "nickname" : [ "chrisbiscardi" ],
+        "numeric-id" : [ "240315182" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1115436090972753920/wYewtvZg.png" ],
+        "published" : [ "2011-01-19T16:57:24+00:00" ],
+        "uid" : [ "tag:twitter.com:chrisbiscardi" ],
+        "url" : [ "https://twitter.com/chrisbiscardi", "http://www.christopherbiscardi.com/", "http://rustadventure.dev", "http://discord.gg/partycorgi", "http://youtube.com/c/chrisbiscardi", "http://cjb.dev/newsletter" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why is asking for help so hard?\n\nbecause people get punished for it.\n\nYou can't fix that by telling them it's safe, you have to show them it's safe, repeatedly, every time.</div>",
+      "value" : "Why is asking for help so hard?\n\nbecause people get punished for it.\n\nYou can't fix that by telling them it's safe, you have to show them it's safe, repeatedly, every time."
+    } ],
+    "published" : [ "2022-02-04T03:25:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1489440045861793793" ],
+    "url" : [ "https://twitter.com/chrisbiscardi/status/1489440045861793793" ]
+  },
+  "type" : [ "h-entry" ]
+}
