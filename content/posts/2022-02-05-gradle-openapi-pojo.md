@@ -19,7 +19,7 @@ One of the benefits of using a very structured format like the format in OpenAPI
 
 # Example OpenAPI specification
 
-We'll base this on the OpenAPI specification demo from the [Petstore](https://petstore3.swagger.io/api/v3/openapi.json).
+We'll base this on the OpenAPI specification demo from the [Petstore](https://petstore3.swagger.io/api/v3/openapi.json), but this also works with OpenAPI specs that have `$ref`s out to JSON schema documents, too!
 
 # Generating the POJOs
 
