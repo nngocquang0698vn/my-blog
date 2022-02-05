@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS.</div>",
+        "value" : "For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS."
+      } ],
+      "published" : [ "2022-02-03T20:02:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1489328529133211651" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1489328529133211651" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/twittersupport…" ],
+      "url" : [ "https://twitter.com/twittersupport/status/1489328529133211651" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emelia 👸🏻" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488213971928858625/dZdcl1hl.jpg" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It's interesting, by the looks, that only men that criticised this feature in the replies received replies back from Twitter but the multiple women who pointed it out as being a terrible idea received no replies.\n<a class=\"tag\" href=\"https://twitter.com/twittersupport/status/1489328529133211651\">twitter.com/twittersupport…</a>",
+      "value" : "It's interesting, by the looks, that only men that criticised this feature in the replies received replies back from Twitter but the multiple women who pointed it out as being a terrible idea received no replies."
+    } ],
+    "published" : [ "2022-02-05T17:04:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1490008325794066434" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1490008325794066434" ]
+  },
+  "type" : [ "h-entry" ]
+}
