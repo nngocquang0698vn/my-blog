@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS.</div>",
+        "value" : "For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS."
+      } ],
+      "published" : [ "2022-02-03T20:02:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1489328529133211651" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1489328529133211651" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I am fucking begging you to have one (1) woman on your team" ],
+    "published" : [ "2022-02-05T00:23:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1489756530840850434" ],
+    "url" : [ "https://twitter.com/ReinH/status/1489756530840850434" ]
+  },
+  "type" : [ "h-entry" ]
+}
