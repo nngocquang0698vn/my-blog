@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Twitter HQ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Twitter Support" ],
+          "nickname" : [ "TwitterSupport" ],
+          "numeric-id" : [ "17874544" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao.jpg" ],
+          "published" : [ "2008-12-04T18:51:57+00:00" ],
+          "uid" : [ "tag:twitter.com:TwitterSupport" ],
+          "url" : [ "https://twitter.com/TwitterSupport", "https://help.twitter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS.</div>",
+        "value" : "For when you want to reply directly to a Tweet's author, we're making it easier to DM them from your timeline to start a conversation.\n\nNow testing a DM icon on Tweets with some of you on iOS."
+      } ],
+      "published" : [ "2022-02-03T20:02:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1489328529133211651" ],
+      "url" : [ "https://twitter.com/TwitterSupport/status/1489328529133211651" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly White" ],
+        "nickname" : [ "molly0xFFF" ],
+        "numeric-id" : [ "545445165" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488233929438027785/xxHMHmJQ.jpg" ],
+        "published" : [ "2012-04-04T19:00:12+00:00" ],
+        "uid" : [ "tag:twitter.com:molly0xFFF" ],
+        "url" : [ "https://twitter.com/molly0xFFF", "http://www.mollywhite.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is how twitter is marketing their new hell-feature " ],
+    "photo" : [ {
+      "alt" : "Screenshot of an email inbox preview: \"From Twitter: [heart emoji], don't be shy Slide that great Tweet into a DM\"",
+      "value" : "https://pbs.twimg.com/media/FK14uGRWQAUUqEr.png"
+    } ],
+    "published" : [ "2022-02-05T15:10:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1489979800001384451" ],
+    "url" : [ "https://twitter.com/molly0xFFF/status/1489979800001384451" ]
+  },
+  "type" : [ "h-entry" ]
+}
