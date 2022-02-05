@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "FusionAuth" ],
+        "nickname" : [ "FusionAuth" ],
+        "numeric-id" : [ "1024339233744379904" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1255981180211453956/58G_5AWU.jpg" ],
+        "published" : [ "2018-07-31T17:01:19+00:00" ],
+        "uid" : [ "tag:twitter.com:FusionAuth" ],
+        "url" : [ "https://twitter.com/FusionAuth", "http://FusionAuth.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">May the YAML be with you!\n\n/via <a href=\"https://twitter.com/justinchronicle\">@justinchronicle</a></div>",
+      "value" : "May the YAML be with you!\n\n/via @justinchronicle"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FKxYOFgXEAoH7bT.png" ],
+    "published" : [ "2022-02-04T18:10:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1489662577336594436" ],
+    "url" : [ "https://twitter.com/FusionAuth/status/1489662577336594436" ]
+  },
+  "type" : [ "h-entry" ]
+}
