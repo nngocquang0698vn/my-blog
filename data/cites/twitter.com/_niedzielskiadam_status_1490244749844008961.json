@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Charity Majors" ],
+          "nickname" : [ "mipsytipsy" ],
+          "numeric-id" : [ "90488576" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1437191689236480000/3ZD1k3lx.jpg" ],
+          "published" : [ "2009-11-16T21:28:13+00:00" ],
+          "uid" : [ "tag:twitter.com:mipsytipsy" ],
+          "url" : [ "https://twitter.com/mipsytipsy", "http://charity.wtf" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We are only just about now reaching the point where I would have argued that a new startup should start on k8s on the technical merits, but the staffing and skill distribution is way out in front.\n\nA similar thing happened with golang a little bit earlier.</div>",
+        "value" : "We are only just about now reaching the point where I would have argued that a new startup should start on k8s on the technical merits, but the staffing and skill distribution is way out in front.\n\nA similar thing happened with golang a little bit earlier."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/mipsytipsy/status/1490233200701886465" ],
+      "published" : [ "2022-02-06T08:00:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1490233862969966592" ],
+      "url" : [ "https://twitter.com/mipsytipsy/status/1490233862969966592" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Niedzielski" ],
+        "nickname" : [ "niedzielskiadam" ],
+        "numeric-id" : [ "2320958905" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437791851260620815/gl_fXAEh.jpg" ],
+        "published" : [ "2014-01-31T15:21:17+00:00" ],
+        "uid" : [ "tag:twitter.com:niedzielskiadam" ],
+        "url" : [ "https://twitter.com/niedzielskiadam", "http://blog.sundaycoding.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I’d still argue for starting with Heroku.\n\nDockerise your app, use Heroku with Docker, move to Kubernetes in the future. If you survive.</div>",
+      "value" : "I’d still argue for starting with Heroku.\n\nDockerise your app, use Heroku with Docker, move to Kubernetes in the future. If you survive."
+    } ],
+    "published" : [ "2022-02-06T08:43:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1490244749844008961" ],
+    "url" : [ "https://twitter.com/niedzielskiadam/status/1490244749844008961" ]
+  },
+  "type" : [ "h-entry" ]
+}
