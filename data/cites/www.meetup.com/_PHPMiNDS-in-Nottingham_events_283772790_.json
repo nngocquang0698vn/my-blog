@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "OpenApi for contract testing" ],
+    "description" : [ {
+      "html" : "<p>Join us on Zoom to hear Phil Sturgeon discuss OpenApi for contract testing</p>",
+      "value" : "Join us on Zoom to hear Phil Sturgeon discuss OpenApi for contract testing"
+    } ],
+    "start" : [ "2022-02-10T18:30:00Z" ],
+    "end" : [ "2022-02-10T20:30:00Z" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/283772790/" ],
+    "location" : [ "Online" ],
+    "published" : [ "2022-02-06T20:00:00+0000" ],
+    "updated" : [ "2022-02-06T20:00:00+0000" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure.meetupstatic.com/photos/event/9/7/e/f/600_443318895.jpeg" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
