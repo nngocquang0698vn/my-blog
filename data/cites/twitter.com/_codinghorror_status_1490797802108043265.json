@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Atwood" ],
+        "nickname" : [ "codinghorror" ],
+        "numeric-id" : [ "5637652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246568020991864832/hh4FVqbl.jpg" ],
+        "published" : [ "2007-04-29T20:50:37+00:00" ],
+        "uid" : [ "tag:twitter.com:codinghorror" ],
+        "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is such a textbook perfect example of building \"just in time\" reminders in software. Where can you do this in *your* product? 🤔" ],
+    "photo" : [ "https://pbs.twimg.com/media/FLBgmMaVgAElvpN.png" ],
+    "published" : [ "2022-02-07T21:21:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1490797802108043265" ],
+    "url" : [ "https://twitter.com/codinghorror/status/1490797802108043265" ]
+  },
+  "type" : [ "h-entry" ]
+}
