@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484358712223404037/0GSAhPIe.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Infrastructure will never become a priority because infrastructure at its core is a liability. \n\nApplications are profit centers.\nPeople and technology are investment centers.\nInfrastructure is a cost center.\n\nYour only role in infrastructure is to bleed less and die slower.</div>",
+      "value" : "Infrastructure will never become a priority because infrastructure at its core is a liability. \n\nApplications are profit centers.\nPeople and technology are investment centers.\nInfrastructure is a cost center.\n\nYour only role in infrastructure is to bleed less and die slower."
+    } ],
+    "published" : [ "2022-02-07T14:00:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1490686822879428616" ],
+    "url" : [ "https://twitter.com/krisnova/status/1490686822879428616" ]
+  },
+  "type" : [ "h-entry" ]
+}
