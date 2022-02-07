@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Michael" ],
+          "nickname" : [ "mmay3r" ],
+          "numeric-id" : [ "229708614" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/884934688900395009/eNbcB1Gd.jpg" ],
+          "published" : [ "2010-12-23T03:40:52+00:00" ],
+          "uid" : [ "tag:twitter.com:mmay3r" ],
+          "url" : [ "https://twitter.com/mmay3r" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Einstein worked out relativity with pure thought experiments and you need an A/B test to change some marketing copy." ],
+      "published" : [ "2022-02-06T03:55:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1490172368706174981" ],
+      "url" : [ "https://twitter.com/mmay3r/status/1490172368706174981" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NorCal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mekka 💉💉💉🎉 *My Mask Protects You* Okereke" ],
+        "nickname" : [ "mekkaokereke" ],
+        "numeric-id" : [ "19847709" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1271138504177639424/FgCZd9QY.png" ],
+        "published" : [ "2009-02-01T05:16:37+00:00" ],
+        "uid" : [ "tag:twitter.com:mekkaokereke" ],
+        "url" : [ "https://twitter.com/mekkaokereke", "http://mekka-tech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Einstein worked out relativity by finding the smartest physicist in his grad school program, dating her, having her do 1/2 his homework, getting her pregnant so she dropped out, then publishing both his and her work as his own, and then sealing her notes.🤷🏿‍♂️\n\nA+B is \"him and her.\" </div>",
+      "value" : "Einstein worked out relativity by finding the smartest physicist in his grad school program, dating her, having her do 1/2 his homework, getting her pregnant so she dropped out, then publishing both his and her work as his own, and then sealing her notes.🤷🏿‍♂️\n\nA+B is \"him and her.\" "
+    } ],
+    "photo" : [ {
+      "alt" : "Albert Einstein and Mileva Maric",
+      "value" : "https://pbs.twimg.com/media/FK8c-oNVQAEcCCd.jpg"
+    } ],
+    "published" : [ "2022-02-06T21:46:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1490441866868760577" ],
+    "url" : [ "https://twitter.com/mekkaokereke/status/1490441866868760577" ]
+  },
+  "type" : [ "h-entry" ]
+}
