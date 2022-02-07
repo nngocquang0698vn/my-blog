@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com", "http://youtube.com/shanselman", "http://heyfriends.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I need 9 seasons of <a href=\"https://twitter.com/search?q=%23ReacherOnPrime\">#ReacherOnPrime</a> STAT",
+      "value" : "I need 9 seasons of #ReacherOnPrime STAT"
+    } ],
+    "published" : [ "2022-02-07T06:07:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1490567889367154692" ],
+    "url" : [ "https://twitter.com/shanselman/status/1490567889367154692" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FK-PlxVUcAIT7wd.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
