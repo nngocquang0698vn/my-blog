@@ -23,3 +23,5 @@ I urge people to not set their publish date as midnight for a few reasons:
 - if I'm scrolling through my feed reader in an afternoon and I've already been reading things today, I'll potentially miss the post, as I may not scroll back as far as the previous day
 - if you're publishing multiple posts in a day, it'll make it clearer the order they were published in
 - it removes the information for you, too, as to when it was published - i.e. "was this a just-before-bed post", or "taking a long lunch break"
+
+As an aside, I realised that I'd not actually pushed the commit with this article live, so although it was finished this afternoon, it's not technically been published until this evening. I decided to keep the publish date accordingly, instead of updating it.
