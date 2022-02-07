@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484358712223404037/0GSAhPIe.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My strategy has always been to 3/4 ass everything. It’s how you sustain the long game. Eyes on the prize.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/emilyst\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/francesc\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shanselman\"></a>",
+      "value" : "My strategy has always been to 3/4 ass everything. It’s how you sustain the long game. Eyes on the prize."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1490610659091832832" ],
+    "published" : [ "2022-02-07T12:42:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1490667198364491777" ],
+    "url" : [ "https://twitter.com/krisnova/status/1490667198364491777" ]
+  },
+  "type" : [ "h-entry" ]
+}
