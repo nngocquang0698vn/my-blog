@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oslo, Norway" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ólafur Waage" ],
+        "nickname" : [ "olafurw" ],
+        "numeric-id" : [ "12514012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1460624561070907394/2q1LX-Jn.jpg" ],
+        "published" : [ "2008-01-21T23:17:09+00:00" ],
+        "uid" : [ "tag:twitter.com:olafurw" ],
+        "url" : [ "https://twitter.com/olafurw", "https://linktr.ee/olafurw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">They call me the 007 of programming.\n\n0 tests\n0 documentation\n7 abandoned side projects last year</div>",
+      "value" : "They call me the 007 of programming.\n\n0 tests\n0 documentation\n7 abandoned side projects last year"
+    } ],
+    "published" : [ "2022-01-30T01:51:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1487604435048140801" ],
+    "url" : [ "https://twitter.com/olafurw/status/1487604435048140801" ]
+  },
+  "type" : [ "h-entry" ]
+}
