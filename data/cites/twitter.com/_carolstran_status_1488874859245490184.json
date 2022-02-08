@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carolyn Stransky" ],
+        "nickname" : [ "carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hello police, I'd like to report a slack crime" ],
+    "photo" : [ {
+      "alt" : "A custom slack emoji shaped like a flower. First of all, it doesn't have a transparent background. Second, it's name \":screenshot-2021-11-11-at-084249\".",
+      "value" : "https://pbs.twimg.com/media/FKmLLxFXMAUbsdw.png"
+    } ],
+    "published" : [ "2022-02-02T14:00:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1488874859245490184" ],
+    "url" : [ "https://twitter.com/carolstran/status/1488874859245490184" ]
+  },
+  "type" : [ "h-entry" ]
+}
