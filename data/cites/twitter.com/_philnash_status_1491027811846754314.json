@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "stolen Chochenyo Ohlone land" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "kat.rs" ],
+          "nickname" : [ "zkat__" ],
+          "numeric-id" : [ "2978661890" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1379317565948788740/dWqUc1nA.jpg" ],
+          "published" : [ "2015-01-13T06:07:49+00:00" ],
+          "uid" : [ "tag:twitter.com:zkat__" ],
+          "url" : [ "https://twitter.com/zkat__", "https://toot.cat/@zkat" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "every open source project is like \"we're a community project!\" and then you look at contributions and it's like 1 person doing 70k commits a day and a long tail of 5 people doing readme fixes" ],
+      "published" : [ "2022-02-08T06:35:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1490937262036508672" ],
+      "url" : [ "https://twitter.com/zkat__/status/1490937262036508672" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Nash 💉💉💉" ],
+        "nickname" : [ "philnash" ],
+        "numeric-id" : [ "9152632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1162140840715702273/fpIYwHJd.jpg" ],
+        "published" : [ "2007-09-29T01:15:10+00:00" ],
+        "uid" : [ "tag:twitter.com:philnash" ],
+        "url" : [ "https://twitter.com/philnash", "https://philna.sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Successful open source is doing enough work to make people like your project, but doing it just poorly enough they feel compelled to help." ],
+    "published" : [ "2022-02-08T12:35:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1491027811846754314" ],
+    "url" : [ "https://twitter.com/philnash/status/1491027811846754314" ]
+  },
+  "type" : [ "h-entry" ]
+}
