@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Verge" ],
+          "nickname" : [ "verge" ],
+          "numeric-id" : [ "275686563" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8.jpg" ],
+          "published" : [ "2011-04-01T19:54:22+00:00" ],
+          "uid" : [ "tag:twitter.com:verge" ],
+          "url" : [ "https://twitter.com/verge", "http://www.theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Spotify is more confused about Joe Rogan than ever <a href=\"https://trib.al/piG3Lpk\">trib.al/piG3Lpk</a>",
+        "value" : "Spotify is more confused about Joe Rogan than ever trib.al/piG3Lpk"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FLDnudmWUAABgSS.jpg" ],
+      "published" : [ "2022-02-08T07:11:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1490946263579308035" ],
+      "url" : [ "https://twitter.com/verge/status/1490946263579308035" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475982162344222721/YhuBDlxu.jpg" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://daybridge.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Cancelling a subscription in protest is the only way consumers can make their voices heard. It's not \"cancel culture\". It's called capitalism. The very thing most of these right-wing podcasters advocate for. And guess what, the pressure is working." ],
+    "published" : [ "2022-02-08T19:45:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1491136082528051201" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1491136082528051201" ]
+  },
+  "type" : [ "h-entry" ]
+}
