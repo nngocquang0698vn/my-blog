@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Christopher Kruse" ],
+        "nickname" : [ "ballpointcarrot" ],
+        "numeric-id" : [ "7845292" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1191613746705125376/hkfE6gtm.jpg" ],
+        "published" : [ "2007-07-31T11:22:15+00:00" ],
+        "uid" : [ "tag:twitter.com:ballpointcarrot" ],
+        "url" : [ "https://twitter.com/ballpointcarrot", "https://www.ballpointcarrot.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do you store a little extra away in queso emergency?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cassidoo\"></a>",
+      "value" : "Do you store a little extra away in queso emergency?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cassidoo/status/1490773183397511173" ],
+    "published" : [ "2022-02-07T19:47:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1490774217733722115" ],
+    "url" : [ "https://twitter.com/ballpointcarrot/status/1490774217733722115" ]
+  },
+  "type" : [ "h-entry" ]
+}
