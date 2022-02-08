@@ -33,8 +33,8 @@ plugins {
 
 openApiGenerate {
   generatorName = "java"
-  inputSpec = "$rootDir/specs/petstore.yaml".toString()
-  outputDir = "$buildDir/generated/sources/openapi".toString()
+  inputSpec = "$rootDir/specs/petstore.yaml"
+  outputDir = "$buildDir/generated/sources/openapi"
   modelPackage = "io.swagger.petstore3.api.models"
   generateModelTests = false // personal preference, as it's JUnit 4
   globalProperties = [
