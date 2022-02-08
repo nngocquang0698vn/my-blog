@@ -11,7 +11,7 @@ slug: java-decompile-command-line
 ---
 Sometimes you come across compiled Java/JVM class files that you need to decompile. It's incredibly convenient when this occurs when this happens while in the midst of development, in your IDE, but sometimes it's when you're SSH'd into a machine, and it's a little more awkward, or if you don't have an IDE installed.
 
-Fortunately, the Fernflower decompiler that IntelliJ uses under the hood is [Open Source]((https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine)) and has a powerful command-line interface that can be used to decompile classes.
+Fortunately, the Fernflower decompiler that IntelliJ uses under the hood is [Open Source](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) and has a powerful command-line interface that can be used to decompile classes.
 
 # Getting Fernflower
 
