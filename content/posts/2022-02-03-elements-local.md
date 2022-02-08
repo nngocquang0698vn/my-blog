@@ -17,7 +17,53 @@ Unfortunately [Swagger UI lacks OpenAPI 3.1.0 support](https://github.com/swagge
 
 Instead of hacking around with the code to get it working, I had a browse of [OpenAPI.tools](https://openapi.tools/#documentation) and found that Stoplight have an excellent Open Source project called [Elements](https://github.com/stoplightio/elements) which is a powerful, visually beautiful API viewer, which does support it.
 
-The simplest way of getting this running is to use a Web Component like so, loading the OpenAPI document (and any other `$ref`s) from a `localhost` URL:
+# Purely client-side
+
+Update 2022-02-08: it appears that this is possible using the `apiDescriptionDocument` property, which means we can use our Web Component like so, allowing us to upload the OpenAPI spec, removing the need to host it anywhere (even localhost).
+
+Note that this will not work if your OpenAPI spec is split across different files.
+
+```html
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Elements API Viewer</title>
+    <!-- Embed elements Elements via Web Component -->
+    <script src="https://unpkg.com/@stoplight/elements/web-components.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/@stoplight/elements/styles.min.css">
+  </head>
+  <body>
+
+    <label for="file-input">API specification
+      <input type="file" name="file-input" id="file-input" value="">
+    </label>
+
+    <hr />
+
+    <elements-api id="docs" router="hash" layout="sidebar"></elements-api>
+
+    <script>
+      let fileInput = document.getElementById('file-input')
+
+      fileInput.onchange = () => {
+        const docs = document.getElementById('docs');
+
+        const reader = new FileReader()
+        reader.onload = (e) => docs.apiDescriptionDocument = e.target.result;
+
+        for (let file of fileInput.files) {
+          reader.readAsText(file)
+        }
+      }
+    </script>
+  </body>
+</html>
+```
+
+# Using an HTTP URL
+
+Alternatively, we can use the Web Component like so, loading the OpenAPI document (and any other `$ref`s) from a `localhost` URL:
 
 ```html
 <!doctype html>
