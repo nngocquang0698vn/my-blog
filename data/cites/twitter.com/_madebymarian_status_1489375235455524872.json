@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Derry, Northern Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marian Avery" ],
+        "nickname" : [ "madebymarian" ],
+        "numeric-id" : [ "118369716" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1265650261386813441/xyiaVxgE.jpg" ],
+        "published" : [ "2010-02-28T13:19:56+00:00" ],
+        "uid" : [ "tag:twitter.com:madebymarian" ],
+        "url" : [ "https://twitter.com/madebymarian", "http://uk.linkedin.com/in/mariandewdney" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Reminder to please <a href=\"https://twitter.com/search?q=%23CamelCase\">#CamelCase</a> your hashtags so screenreaders <a href=\"https://twitter.com/search?q=%23SpeakEveryWordSeparately\">#SpeakEveryWordSeparately</a> and it's generally easier for everyone else to read them.",
+      "value" : "Reminder to please #CamelCase your hashtags so screenreaders #SpeakEveryWordSeparately and it's generally easier for everyone else to read them."
+    } ],
+    "published" : [ "2022-02-03T23:08:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1489375235455524872" ],
+    "url" : [ "https://twitter.com/madebymarian/status/1489375235455524872" ]
+  },
+  "type" : [ "h-entry" ]
+}
