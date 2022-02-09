@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "john spurling" ],
+        "nickname" : [ "synecdotal" ],
+        "numeric-id" : [ "90190748" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410080684077588481/LOnb7z3a.jpg" ],
+        "published" : [ "2009-11-15T16:13:14+00:00" ],
+        "uid" : [ "tag:twitter.com:synecdotal" ],
+        "url" : [ "https://twitter.com/synecdotal", "https://viscous.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My giant dockerfile now builds git from source because that yak's skin is going to be so buttery smooth when I'm done." ],
+    "published" : [ "2022-02-09T03:10:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1491248199109332992" ],
+    "url" : [ "https://twitter.com/synecdotal/status/1491248199109332992" ]
+  },
+  "type" : [ "h-entry" ]
+}
