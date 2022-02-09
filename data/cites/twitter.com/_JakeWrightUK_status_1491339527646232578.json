@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Wright" ],
+        "nickname" : [ "JakeWrightUK" ],
+        "numeric-id" : [ "11457312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1452224117327945733/LjJ7Myfi.jpg" ],
+        "published" : [ "2007-12-23T17:30:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JakeWrightUK" ],
+        "url" : [ "https://twitter.com/JakeWrightUK", "https://jakewright.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hiring based on GitHub profiles is an easy way to end up with zero diversity in your team" ],
+    "in-reply-to" : [ "https://twitter.com/JakeWrightUK/status/1491338583235792896" ],
+    "published" : [ "2022-02-09T09:13:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1491339527646232578" ],
+    "url" : [ "https://twitter.com/JakeWrightUK/status/1491339527646232578" ]
+  },
+  "type" : [ "h-entry" ]
+}
