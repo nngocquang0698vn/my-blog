@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Evangelist" ],
+        "nickname" : [ "apievangelist" ],
+        "numeric-id" : [ "601369792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/922658634483376128/eTKnhFCO.jpg" ],
+        "published" : [ "2012-06-06T23:09:30+00:00" ],
+        "uid" : [ "tag:twitter.com:apievangelist" ],
+        "url" : [ "https://twitter.com/apievangelist", "http://apievangelist.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Unpopular Opinion: Code-first IS API-first if you prioritize the API over applications and integrations -- the key is you still need to arrive at there being a machine readable contract for governing the relationship between producer and consumer." ],
+    "published" : [ "2022-02-09T15:19:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1491431526461894659" ],
+    "url" : [ "https://twitter.com/apievangelist/status/1491431526461894659" ]
+  },
+  "type" : [ "h-entry" ]
+}
