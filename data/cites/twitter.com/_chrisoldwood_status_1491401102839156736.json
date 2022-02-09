@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Burmarsh, Kent, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Simon Wardley" ],
+          "nickname" : [ "swardley" ],
+          "numeric-id" : [ "8592732" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/180727117/Simon.jpg" ],
+          "published" : [ "2007-09-01T17:29:47+00:00" ],
+          "uid" : [ "tag:twitter.com:swardley" ],
+          "url" : [ "https://twitter.com/swardley", "https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I cannot possibly comprehend how anyone, anywhere in business, in finance, in engineering, in software does not use a test driven development model in 2022. \n\nMy mind is blown.</div>",
+        "value" : "I cannot possibly comprehend how anyone, anywhere in business, in finance, in engineering, in software does not use a test driven development model in 2022. \n\nMy mind is blown."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/swardley/status/1491172537216253958" ],
+      "published" : [ "2022-02-08T22:12:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1491173069871882240" ],
+      "url" : [ "https://twitter.com/swardley/status/1491173069871882240" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridgeshire, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Oldwood" ],
+        "nickname" : [ "chrisoldwood" ],
+        "numeric-id" : [ "33246275" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/477932605111685120/vCzZOFJN.jpeg" ],
+        "published" : [ "2009-04-19T16:51:35+00:00" ],
+        "uid" : [ "tag:twitter.com:chrisoldwood" ],
+        "url" : [ "https://twitter.com/chrisoldwood", "http://chrisoldwood.blogspot.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It was only a few years ago that I did a gig at a financial company and when I asked about writing tests I was told “we don’t have time!”. My response of “how will I know it works?” was met with silence.\n\n(I wrote tests and finished well ahead of schedule. Then left.)</div>",
+      "value" : "It was only a few years ago that I did a gig at a financial company and when I asked about writing tests I was told “we don’t have time!”. My response of “how will I know it works?” was met with silence.\n\n(I wrote tests and finished well ahead of schedule. Then left.)"
+    } ],
+    "published" : [ "2022-02-09T13:18:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1491401102839156736" ],
+    "url" : [ "https://twitter.com/chrisoldwood/status/1491401102839156736" ]
+  },
+  "type" : [ "h-entry" ]
+}
