@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Wysopal" ],
+        "nickname" : [ "WeldPond" ],
+        "numeric-id" : [ "14090906" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478875169670184960/lKJ3rkOL.jpg" ],
+        "published" : [ "2008-03-06T19:46:55+00:00" ],
+        "uid" : [ "tag:twitter.com:WeldPond" ],
+        "url" : [ "https://twitter.com/WeldPond", "https://en.wikipedia.org/wiki/Chris_Wysopal" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Since <a href=\"https://twitter.com/search?q=%23Log4j\">#Log4j</a> you've heard how OSS vulns impact most orgs, how OSS is underfunded &amp; we need to do more to help, but did you know OSS security has improved drastically in the last 4 years? \n\nIn 2017, 35% of OSS libs used had a known flaw. In 2022 it's &lt; 10% <a href=\"https://www.veracode.com/state-of-software-security-report\">veracode.com/state-of-softw…</a></div>",
+      "value" : "Since #Log4j you've heard how OSS vulns impact most orgs, how OSS is underfunded & we need to do more to help, but did you know OSS security has improved drastically in the last 4 years? \n\nIn 2017, 35% of OSS libs used had a known flaw. In 2022 it's < 10% veracode.com/state-of-softw…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FLLZq8QXIAUMsAo.jpg" ],
+    "published" : [ "2022-02-09T19:36:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1491496121889349634" ],
+    "url" : [ "https://twitter.com/WeldPond/status/1491496121889349634" ]
+  },
+  "type" : [ "h-entry" ]
+}
