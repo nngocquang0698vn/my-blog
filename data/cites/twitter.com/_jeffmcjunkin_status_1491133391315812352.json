@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Southern Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff McJunkin" ],
+        "nickname" : [ "jeffmcjunkin" ],
+        "numeric-id" : [ "14453990" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281709388646907904/QsKjaaxI.jpg" ],
+        "published" : [ "2008-04-20T18:55:07+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffmcjunkin" ],
+        "url" : [ "https://twitter.com/jeffmcjunkin", "https://roguevalleyinfosec.com", "http://roguevalleyinfosec.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Introducing my new, tweetable universal Linux privilege escalation exploit:\n\n$ alias whoami='echo root'\n$ export PS1='# '\n# whoami\nroot</div>",
+      "value" : "Introducing my new, tweetable universal Linux privilege escalation exploit:\n\n$ alias whoami='echo root'\n$ export PS1='# '\n# whoami\nroot"
+    } ],
+    "published" : [ "2022-02-08T19:34:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1491133391315812352" ],
+    "url" : [ "https://twitter.com/jeffmcjunkin/status/1491133391315812352" ]
+  },
+  "type" : [ "h-entry" ]
+}
