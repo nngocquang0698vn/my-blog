@@ -21,7 +21,7 @@ Instead of hacking around with the code to get it working, I had a browse of [Op
 
 Update 2022-02-08: it appears that this is possible using the `apiDescriptionDocument` property, which means we can use our Web Component like so, allowing us to upload the OpenAPI spec, removing the need to host it anywhere (even localhost).
 
-Note that this will not work if your OpenAPI spec is split across different files.
+Note that this will not work if your OpenAPI spec is split across different files, but you can resolve this by [bundling them into a single file](/posts/2022/02/10/bundle-openapi/).
 
 ```html
 <html>
