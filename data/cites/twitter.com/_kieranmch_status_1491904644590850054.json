@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "East London-ish" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jonty Wareing" ],
+          "nickname" : [ "jonty" ],
+          "numeric-id" : [ "1856851" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1356307719205101571/zka-nKfk.jpg" ],
+          "published" : [ "2007-03-22T10:28:39+00:00" ],
+          "uid" : [ "tag:twitter.com:jonty" ],
+          "url" : [ "https://twitter.com/jonty", "http://jonty.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">NAME THINGS AFTER WHAT THEY DO is the hill I will die on\n\n<a href=\"https://twitter.com/moonpolysoft/status/1491439780865134593\">twitter.com/moonpolysoft/s…</a></div>",
+        "value" : "NAME THINGS AFTER WHAT THEY DO is the hill I will die on\n\ntwitter.com/moonpolysoft/s…"
+      } ],
+      "published" : [ "2022-02-10T15:51:55+00:00" ],
+      "uid" : [ "tag:twitter.com:1491802116247089152" ],
+      "url" : [ "https://twitter.com/jonty/status/1491802116247089152" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475982162344222721/YhuBDlxu.jpg" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://daybridge.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">- Never use codenames for teams or projects\n- Name internal tools with a description of what they do\n- Don't name product features at all if they don't need a name\n- Don't allow acronyms anywhere in the business unless totally avoidable</div>",
+      "value" : "- Never use codenames for teams or projects\n- Name internal tools with a description of what they do\n- Don't name product features at all if they don't need a name\n- Don't allow acronyms anywhere in the business unless totally avoidable"
+    } ],
+    "published" : [ "2022-02-10T22:39:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1491904644590850054" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1491904644590850054" ]
+  },
+  "type" : [ "h-entry" ]
+}
