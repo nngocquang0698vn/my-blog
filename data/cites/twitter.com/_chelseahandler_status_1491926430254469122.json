@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CBS News" ],
+          "nickname" : [ "CBSNews" ],
+          "numeric-id" : [ "15012486" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1374394535883673604/4VIECtDH.jpg" ],
+          "published" : [ "2008-06-05T00:54:31+00:00" ],
+          "uid" : [ "tag:twitter.com:CBSNews" ],
+          "url" : [ "https://twitter.com/CBSNews", "http://CBSNews.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools  <a href=\"https://cbsn.ws/3susMw4\">cbsn.ws/3susMw4</a>",
+        "value" : "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools  cbsn.ws/3susMw4"
+      } ],
+      "published" : [ "2022-02-09T15:40:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1491436729705938954" ],
+      "url" : [ "https://twitter.com/CBSNews/status/1491436729705938954" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/cbsnews/status…" ],
+      "url" : [ "https://twitter.com/cbsnews/status/1491436729705938954" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chelsea Handler" ],
+        "nickname" : [ "chelseahandler" ],
+        "numeric-id" : [ "19877186" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1390403188184866818/Mfw1YI6C.jpg" ],
+        "published" : [ "2009-02-01T21:13:36+00:00" ],
+        "uid" : [ "tag:twitter.com:chelseahandler" ],
+        "url" : [ "https://twitter.com/chelseahandler", "https://linktr.ee/chelseahandler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In Florida, it’s illegal to make a straight, white man uncomfortable.\n<a class=\"tag\" href=\"https://twitter.com/cbsnews/status/1491436729705938954\">twitter.com/cbsnews/status…</a>",
+      "value" : "In Florida, it’s illegal to make a straight, white man uncomfortable."
+    } ],
+    "published" : [ "2022-02-11T00:05:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1491926430254469122" ],
+    "url" : [ "https://twitter.com/chelseahandler/status/1491926430254469122" ]
+  },
+  "type" : [ "h-entry" ]
+}
