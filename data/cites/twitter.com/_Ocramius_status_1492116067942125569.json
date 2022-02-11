@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Frankfurt, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "delete your code" ],
+        "nickname" : [ "Ocramius" ],
+        "numeric-id" : [ "14288063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275002588698730497/Dr3c3ZyN.jpg" ],
+        "published" : [ "2008-04-02T22:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:Ocramius" ],
+        "url" : [ "https://twitter.com/Ocramius", "https://github.com/Ocramius/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you are a SaaS that provides an API as primary product, and you don't show me your JSON Schema, OpenAPI, WSDL or XSD manifest upfront, you lost a client." ],
+    "published" : [ "2022-02-11T12:39:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1492116067942125569" ],
+    "url" : [ "https://twitter.com/Ocramius/status/1492116067942125569" ]
+  },
+  "type" : [ "h-entry" ]
+}
