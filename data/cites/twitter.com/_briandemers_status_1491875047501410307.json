@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Hampshire, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Demers" ],
+        "nickname" : [ "briandemers" ],
+        "numeric-id" : [ "39572206" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/570042130358235136/SnE0mhCW.jpeg" ],
+        "published" : [ "2009-05-12T19:19:52+00:00" ],
+        "uid" : [ "tag:twitter.com:briandemers" ],
+        "url" : [ "https://twitter.com/briandemers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My favorite <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> tool is SDKMAN! I just tested a few projects with multiple flavors of Java with a few commands.\n\nThank you <a href=\"https://twitter.com/sdkman_\">@sdkman_</a>‼️\n\n<a href=\"https://sdkman.io/\">sdkman.io</a></div>",
+      "value" : "My favorite #Java tool is SDKMAN! I just tested a few projects with multiple flavors of Java with a few commands.\n\nThank you @sdkman_‼️\n\nsdkman.io"
+    } ],
+    "published" : [ "2022-02-10T20:41:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1491875047501410307" ],
+    "url" : [ "https://twitter.com/briandemers/status/1491875047501410307" ]
+  },
+  "type" : [ "h-entry" ]
+}
