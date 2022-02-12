@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cennydd" ],
+        "nickname" : [ "Cennydd" ],
+        "numeric-id" : [ "68003" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1454961362917015559/WvcY9lTZ.jpg" ],
+        "published" : [ "2006-12-14T18:16:10+00:00" ],
+        "uid" : [ "tag:twitter.com:Cennydd" ],
+        "url" : [ "https://twitter.com/Cennydd", "http://cennydd.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The four-day working week is starting to feel like a moral obligation." ],
+    "published" : [ "2022-01-30T14:02:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1487788195039350787" ],
+    "url" : [ "https://twitter.com/Cennydd/status/1487788195039350787" ]
+  },
+  "type" : [ "h-entry" ]
+}
