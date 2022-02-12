@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rachel Tobac" ],
+          "nickname" : [ "RachelTobac" ],
+          "numeric-id" : [ "3094974153" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1275847667197730817/EWQUVKJi.jpg" ],
+          "published" : [ "2015-03-18T17:30:53+00:00" ],
+          "uid" : [ "tag:twitter.com:RachelTobac" ],
+          "url" : [ "https://twitter.com/RachelTobac", "https://www.SocialProofSecurity.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GovParsonMO\"></a>"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/GovParsonMO/status/1448697768311132160" ],
+      "photo" : [ "https://pbs.twimg.com/media/FBsVYZNVQAAR-wE.jpg" ],
+      "published" : [ "2021-10-14T22:18:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1448775230365700096" ],
+      "url" : [ "https://twitter.com/RachelTobac/status/1448775230365700096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/racheltobac/st…" ],
+      "url" : [ "https://twitter.com/racheltobac/status/1448775230365700096" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rachel Tobac" ],
+        "nickname" : [ "RachelTobac" ],
+        "numeric-id" : [ "3094974153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275847667197730817/EWQUVKJi.jpg" ],
+        "published" : [ "2015-03-18T17:30:53+00:00" ],
+        "uid" : [ "tag:twitter.com:RachelTobac" ],
+        "url" : [ "https://twitter.com/RachelTobac", "https://www.SocialProofSecurity.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just as we hoped would happen, the prosecutor declined to file charges in the absurd F12 hacking case. It’s done. You may now resume use of your keyboard and all its keys. \n<a href=\"https://joshrenaud.com/pd/josh-renaud-personal-statement.pdf\">joshrenaud.com/pd/josh-renaud…</a></div>\n<a class=\"tag\" href=\"https://twitter.com/racheltobac/status/1448775230365700096\">twitter.com/racheltobac/st…</a>",
+      "value" : "Just as we hoped would happen, the prosecutor declined to file charges in the absurd F12 hacking case. It’s done. You may now resume use of your keyboard and all its keys. \njoshrenaud.com/pd/josh-renaud…"
+    } ],
+    "published" : [ "2022-02-12T03:59:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1492347664133877760" ],
+    "url" : [ "https://twitter.com/RachelTobac/status/1492347664133877760" ]
+  },
+  "type" : [ "h-entry" ]
+}
