@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Salt Lake City, UT" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dr Spencer Bagley 🏳️‍🌈" ],
+          "nickname" : [ "sbagley" ],
+          "numeric-id" : [ "22891502" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1164918681106673665/Q4vMIIwV.jpg" ],
+          "published" : [ "2009-03-05T06:46:59+00:00" ],
+          "uid" : [ "tag:twitter.com:sbagley" ],
+          "url" : [ "https://twitter.com/sbagley", "http://sbagleysd.wordpress.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "My salary as an associate professor of mathematics at Westminster College, three blocks away from this sign, is $61,500." ],
+      "photo" : [ "https://pbs.twimg.com/media/FLVmm_aVIAEd_8d.jpg" ],
+      "published" : [ "2022-02-11T18:59:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1492211674496962563" ],
+      "url" : [ "https://twitter.com/sbagley/status/1492211674496962563" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "大阪" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter🦍🍌" ],
+        "nickname" : [ "PLDroneOperator" ],
+        "numeric-id" : [ "1108784602544553984" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458465489425158144/WQBM7dy1.jpg" ],
+        "published" : [ "2019-03-21T17:37:04+00:00" ],
+        "uid" : [ "tag:twitter.com:PLDroneOperator" ],
+        "url" : [ "https://twitter.com/PLDroneOperator", "http://instagram.com/pldroneoperator" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Probably Because Chow Mein Is Good And Math Sucks" ],
+    "published" : [ "2022-02-12T07:06:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1492394687784636417" ],
+    "url" : [ "https://twitter.com/PLDroneOperator/status/1492394687784636417" ]
+  },
+  "type" : [ "h-entry" ]
+}
