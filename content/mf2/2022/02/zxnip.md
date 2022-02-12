@@ -11,7 +11,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "+1 on this! I share my salary publicly and have had a tonne of interest and positive feedback from it"
+      "value" : "+1 on this! I [[share my salary publicly](/salary/) and have had a tonne of interest and positive feedback from it"
     } ]
   },
   "kind" : "replies",
