@@ -58,3 +58,5 @@ public class GlobalExceptionHandler {
 This also works with subclasses, as they inherit the annotations of a parent class.
 
 Note that this is not without tradeoffs - I find it's easier to be explicit about the handlers and routes that things can happen, and it also will make it more difficult for your unit testing. It's also using Reflection which will slow the response down a little bit more than without using `AnnotationUtils`.
+
+Alternatively, [you may want to extend `ResponseStatusException`](/posts/2022/02/12/spring-responsestatusexception/).
