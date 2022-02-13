@@ -9,9 +9,11 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-12T09:41:41+0000
-slug: "spring-responsestatuson"
+slug: "spring-responsestatusexception"
 syndication:
 - "https://brid.gy/publish/twitter"
+aliases:
+- /posts/2022/02/12/spring-responsestatuson/
 ---
 As mentioned in [_Simplifying Spring (Boot) `onHandler`s with `ResponseStatus` Annotations_](/posts/2022/01/20/spring-annotation-exceptions/), one way we can set up HTTP exception handling us by annotating our exceptions with `@ResponseStatus`, and then using Reflection at runtime to map it to the HTTP response.
 
