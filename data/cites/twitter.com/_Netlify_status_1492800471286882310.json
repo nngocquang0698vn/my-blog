@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netlify" ],
+        "nickname" : [ "Netlify" ],
+        "numeric-id" : [ "2571501973" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi.jpg" ],
+        "published" : [ "2014-06-16T19:11:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Netlify" ],
+        "url" : [ "https://twitter.com/Netlify", "https://www.netlify.com", "http://answers.netlify.com", "http://netlify.com/support" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">💝 Still shopping for Valentine's day? \nHere's the perfect way to show that special somebody you love them.* \n\n*If they are an open source contributor you appreciate. Others might prefer some flowers.\n\nWe ❤️ open source. \nShare your love too.\n\n<a href=\"https://oss.love/\">oss.love</a></div>",
+      "value" : "💝 Still shopping for Valentine's day? \nHere's the perfect way to show that special somebody you love them.* \n\n*If they are an open source contributor you appreciate. Others might prefer some flowers.\n\nWe ❤️ open source. \nShare your love too.\n\noss.love"
+    } ],
+    "published" : [ "2022-02-13T09:59:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1492800471286882310" ],
+    "url" : [ "https://twitter.com/Netlify/status/1492800471286882310" ]
+  },
+  "type" : [ "h-entry" ]
+}
