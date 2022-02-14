@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some folks assume a me/she division of sides after my separation. No. I'm on her side and you're starting to annoy me." ],
+    "published" : [ "2015-04-03T19:04:59+00:00" ],
+    "uid" : [ "tag:twitter.com:584069100089040897" ],
+    "url" : [ "https://twitter.com/brianwisti/status/584069100089040897" ]
+  },
+  "type" : [ "h-entry" ]
+}
