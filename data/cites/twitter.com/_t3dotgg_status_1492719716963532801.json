@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Theo - t3.gg" ],
+        "nickname" : [ "t3dotgg" ],
+        "numeric-id" : [ "786375418685165568" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475643465069301763/FUR05HHs.jpg" ],
+        "published" : [ "2016-10-13T01:18:04+00:00" ],
+        "uid" : [ "tag:twitter.com:t3dotgg" ],
+        "url" : [ "https://twitter.com/t3dotgg", "https://www.youtube.com/c/theobrowne1017", "http://ping.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is how I feel about microservices" ],
+    "photo" : [ "https://pbs.twimg.com/media/FLc0q_zVIAASLym.jpg" ],
+    "published" : [ "2022-02-13T04:38:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1492719716963532801" ],
+    "url" : [ "https://twitter.com/t3dotgg/status/1492719716963532801" ]
+  },
+  "type" : [ "h-entry" ]
+}
