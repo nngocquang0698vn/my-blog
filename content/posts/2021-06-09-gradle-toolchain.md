@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-06-09T09:04:09+0100
 slug: "gradle-toolchain"
+image: https://media.jvt.me/c25b297eaa.png
 ---
 When working with Java projects, you may end up working across multiple JDKs. It may be that you use different vendors, such as Oracle or the OpenJDK, or whether you're working with different Java versions.
 

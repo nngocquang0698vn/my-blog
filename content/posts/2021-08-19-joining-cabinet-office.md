@@ -12,6 +12,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "joining-cabinet-office"
+image: https://media.jvt.me/9142a99cb2.jpeg
 ---
 It is with mixed emotions that I'm announcing that after a wonderful five years at Capital One, I'm leaving the Private Sector to join the Cabinet Office!
 

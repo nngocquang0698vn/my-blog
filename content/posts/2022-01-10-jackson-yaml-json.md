@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-10T17:35:48+0000
 slug: "jackson-yaml-json"
+image: https://media.jvt.me/7e70383567.png
 ---
 There are times where you may want to interact with both JSON and YAML in your Spring Boot services, for instance if your HTTP layer is JSON, and you want to read YAML files from some data source.
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-17T17:14:26+0000
 slug: "spring-servlet-filter-error-handling"
+image: /img/vendor/spring-logo.png
 ---
 If you're using Java Servlet `Filter`s, you've likely come to the situation where you need to fail the request, for instance if there's a mandatory parameter missing, or the request is otherwise deemed to be invalid.
 

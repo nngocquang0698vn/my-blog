@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: self-signed-certs-ruby
 series: nablopomo-2019
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I use Ruby as my primary general-purpose scripting language, and prefer to use it to automate repetitive / awkward tasks.
 

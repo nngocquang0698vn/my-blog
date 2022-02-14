@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-25T22:10:14+0000
 slug: "servlet-filter-jersey-aws-serverless"
+image: /img/vendor/AmazonWebservices_Logo.png
 ---
 I work with a few Jersey web applications that are built on top of the [aws-serverless-java-container](https://github.com/awslabs/aws-serverless-java-container).
 

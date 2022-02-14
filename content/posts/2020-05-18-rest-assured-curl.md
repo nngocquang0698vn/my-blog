@@ -12,6 +12,7 @@ slug: "rest-assured-curl"
 syndication:
 - https://lobste.rs/s/fntzsp/converting_output_from_rest_assured_curl
 - https://news.ycombinator.com/item?id=23221656
+image: https://media.jvt.me/4041b6e524.png
 ---
 I work with [Rest Assured](http://rest-assured.io/) a fair bit for automated testing against RESTful API services.
 

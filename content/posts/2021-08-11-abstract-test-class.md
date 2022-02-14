@@ -10,6 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-08-11T17:28:05+0100
 slug: "abstract-test-class"
 series: writing-better-tests
+image: https://media.jvt.me/7e70383567.png
 ---
 When you're writing unit tests, there are likely going to be cases where you have a lot of tests doing similar things.
 

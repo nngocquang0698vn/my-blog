@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-12T16:23:18+0000
 slug: "generate-jwk-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 Sometimes you need to generate a new JWK, and [converting an existing key](/posts/2020/12/12/x509-pkcs8-pem-key-to-jwks-ruby/) isn't quite what you want.
 

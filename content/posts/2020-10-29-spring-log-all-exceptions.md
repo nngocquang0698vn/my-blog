@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-10-29T22:26:19+0000
 slug: "spring-log-all-exceptions"
+image: /img/vendor/spring-logo.png
 ---
 There are several ways to [set up exception handling in a Spring project](https://www.baeldung.com/exception-handling-for-rest-with-spring), so you can map a Java `Exception` to an HTTP response.
 

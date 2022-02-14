@@ -9,6 +9,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "sqlite-csv"
+image: https://media.jvt.me/0cc01860d8.png
 ---
 I've recently been interacting with a number of CSV files as a data source, and I wanted to fairly quickly query and sort through the data.
 

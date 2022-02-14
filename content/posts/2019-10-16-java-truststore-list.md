@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-16T13:23:07+0100
 slug: "java-truststore-list"
+image: https://media.jvt.me/7e70383567.png
 ---
 If you want to inspect what certificates your Java application/installation trusts, you'll want to look inside the trust store (commonly referred to as `cacerts`, but can be called different things too).
 

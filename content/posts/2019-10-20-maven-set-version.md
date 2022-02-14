@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-20T14:39:07+0100
 slug: "maven-set-version"
+image: https://media.jvt.me/36b6bd31a0.png
 ---
 If you're looking to manually set the versions of a Maven project's versions, i.e. as part of a release, it can be a pain if you've got a large project with lots of version numbers.
 

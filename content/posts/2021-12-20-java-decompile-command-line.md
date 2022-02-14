@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-20T20:49:57+0000
 slug: java-decompile-command-line
+image: https://media.jvt.me/7e70383567.png
 ---
 Sometimes you come across compiled Java/JVM class files that you need to decompile. It's incredibly convenient when this occurs when this happens while in the midst of development, in your IDE, but sometimes it's when you're SSH'd into a machine, and it's a little more awkward, or if you don't have an IDE installed.
 

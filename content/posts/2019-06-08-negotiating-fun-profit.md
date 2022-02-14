@@ -12,6 +12,7 @@ slug: negotiating-fun-profit
 aliases:
 - /replies/4d466773-c859-443a-b3eb-08a70dd9a25e/
 - /mf2/4d466773-c859-443a-b3eb-08a70dd9a25e/
+image: https://media.jvt.me/ac97dde5ff.jpeg
 ---
 This is a writeup of <a href="https://www.meetup.com/Women-In-Tech-Nottingham/events/261461207/" class="u-in-reply-to">Women In Tech June 2019 - Negotiating For Fun And Profit</a>.
 

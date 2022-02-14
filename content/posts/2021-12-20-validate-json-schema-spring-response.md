@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-20T14:43:13+0000
 slug: validate-json-schema-spring-response
+image: /img/vendor/spring-logo.png
 ---
 If you're developing an API in Spring (Boot) it's very likely that you're using MockMVC as a means to validate that your web layer is set up correctly.
 

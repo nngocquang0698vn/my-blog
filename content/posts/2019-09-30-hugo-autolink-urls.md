@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-30T18:07:42+0200
 slug: "hugo-autolink-urls"
+image: /img/vendor/hugo-logo.png
 ---
 [In May](/mf2/6b919e78-c46a-48e3-8866-9d9e9d41bb3d/), I decided that I would start to publish more content types on my site, such as short notes (similar to tweets) as well as bookmarks and replies.
 

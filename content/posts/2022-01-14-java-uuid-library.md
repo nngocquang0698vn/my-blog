@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-14T11:54:26+0000
 slug: "java-uuid-library"
+image: https://media.jvt.me/7e70383567.png
 ---
 As noted in [_Validating UUIDs with Regular Expressions in Java_](/posts/2022/01/14/java-uuid-regex/), I work with UUIDs a fair bit, for various means of random identifiers.
 

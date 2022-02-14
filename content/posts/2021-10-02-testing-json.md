@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-10-02T22:00:14+0100
 slug: "testing-json"
 series: writing-better-tests
+image: https://media.jvt.me/7e70383567.png
 ---
 When working with data models in Java, we'll often have a Plain Old Java Object (POJO) that corresponds to the incoming request body, so we can interact with it more easily and have access to getters/setters.
 

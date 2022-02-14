@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-09-10T16:04:31+0100
 slug: "testing-java-callbacks-mockito"
+image: https://media.jvt.me/35891268eb.png
 ---
 If you're working with Java code that works with callbacks, you may be having some difficulty with mocking the response.
 

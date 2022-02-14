@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-23T21:57:33+0000
 slug: "junit4-junit5-gotcha-together-maven"
+image: https://media.jvt.me/36b6bd31a0.png
 ---
 About a month ago, and earlier today, I found an issue with partially upgrading my Java projects from JUnit4 to JUnit5. I was in a halfway house between upgrading all my tests to JUnit5, so still had some JUnit4 tests, but found that my Gradle build wasn't running the new JUnit5 tests.
 

@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-11-03T13:14:33+0000
 slug: "jira-task-subtask-filter"
+image: https://media.jvt.me/e9aa0d87a6.png
 ---
 On my JIRA sprint board at work, we've got a set of stories which have subtasks, which are then prioritised using JIRA's priority. However, to make standup a bit more effective, I set up a filter that could allow the team to look at stories that were highest priority first.
 

@@ -11,6 +11,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "testing-slf4j-logs"
+image: https://media.jvt.me/adfddc977a.jpeg
 ---
 Logging is a very important part of your application. You can be the best developer and never write a bug, but a service you depend on may go down, or the framework you're using may have an issue, so you need to be able to diagnose it without attaching a debugger to your production server. But if you're not testing that your logging works, you won't be sure until one of these disaster scenarios occur whether it's actually hooked in correctly, as well as not being able to catch if someone accidentally removes a logging line in a refactor.
 

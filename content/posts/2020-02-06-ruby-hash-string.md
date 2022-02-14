@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-06T19:24:39+0000
 slug: "ruby-hash-string"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I noticed today a couple of visitors to the site who were searching for "ruby convert hash to string" - this article is for them, but also for me in the future when I forget!
 

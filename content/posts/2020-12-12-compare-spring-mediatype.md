@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-12T17:28:20+0000
 slug: "compare-spring-mediatype"
+image: /img/vendor/spring-logo.png
 ---
 When we're interacting with a `HttpServletRequest` and we want to do something based on the `Accept` / `Content-Type` header, for instance within a `HandlerMethodArgumentResolver`, we would lean on Spring's `MediaType` class to parse the string value.
 

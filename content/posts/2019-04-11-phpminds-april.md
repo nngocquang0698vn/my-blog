@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-11T23:01:27+0100
 slug: "phpminds-april"
+image: https://media.jvt.me/30335d595d.jpeg
 ---
 [PHPMiNDS](https://phpminds.org/) tonight was quite an informal group, sitting around on sofas and chatting.
 

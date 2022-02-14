@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-02T15:21:01+0100
 slug: "sign-jose-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I've written before about how to [create a Signed JWT with Ruby](/posts/2020/06/15/sign-jwt-ruby/).
 

@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: pretty-printing-json-ruby-cli
 series: pretty-print-json
+image: https://media.jvt.me/00fdea0d32.png
 ---
 This is a follow up to the popular post [Pretty Printing JSON on the Command Line with Python][pp-python-json] that uses Ruby to perform the pretty-printing.
 

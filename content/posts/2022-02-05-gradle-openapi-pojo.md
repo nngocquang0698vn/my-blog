@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-05T19:29:36+0000
 slug: "gradle-openapi-pojo"
+image: https://media.jvt.me/c25b297eaa.png
 ---
 It's possible that you're using OpenAPI specifications to describe the format of your API.
 

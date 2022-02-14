@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-04-30T21:30:27+0100
 slug: "jwks-x5c-to-pem"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 In [_Converting an `x5c` from a JSON Web Key to a PEM with Ruby_](/posts/2020/01/15/x5c-to-pem-ruby/) I spoke about how to parse the `x5c` parameter to a PEM encode cert.
 

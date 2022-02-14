@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-29T11:44:34+0000
 slug: "spotify-wrapped-data-request"
+image: https://media.jvt.me/39fca6d759.png
 ---
 Dear Spotify Customer Support,
 

@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-04-29T19:16:51+0100
 slug: "reflection-get-field"
+image: https://media.jvt.me/7e70383567.png
 ---
 Today, while looking into [server-less Wiremock](/posts/2021/04/29/wiremock-serverless/), I wanted to retrieve a (private) field from a class.
 

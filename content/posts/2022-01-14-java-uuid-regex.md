@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-14T11:54:26+0000
 slug: "java-uuid-regex"
+image: https://media.jvt.me/7e70383567.png
 ---
 [Universally Unique Identifier (UUID)](https://en.wikipedia.org/wiki/Universally_unique_identifier) or UUIDs are a great way of providing practical randomness, for instance for [tracking IDs](/posts/2021/11/22/correlation-ids/) or generated database keys.
 

@@ -13,6 +13,7 @@ slug: "aws-lambda-bref"
 aliases:
 - /notes/dc1e847e-c02f-453b-84d0-91e824be6a57/
 - /mf2/dc1e847e-c02f-453b-84d0-91e824be6a57/
+image: https://media.jvt.me/eb54ad0daf.png
 ---
 Tonight at https://phpminds.org/ we had a talk from Neal (https://medium.com/@nealio82) about https://bref.sh and how you can use it to build serverless PHP applications.
 

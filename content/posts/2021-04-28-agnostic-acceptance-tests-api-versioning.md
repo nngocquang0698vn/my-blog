@@ -14,6 +14,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-04-28T18:59:12+0100
 slug: "agnostic-acceptance-tests-api-versioning"
 series: environment-agnostic-acceptance-tests
+image: /img/vendor/cucumber.png
 ---
 API versioning is very important, because there are going to be cases where you need to change your API, but don't want to break all your consumers, of which my [preference is using content negotiation](/posts/2021/01/05/why-content-negotiation/).
 

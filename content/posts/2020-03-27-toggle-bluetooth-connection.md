@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-27T09:11:29+0000
 slug: "toggle-bluetooth-connection"
+image: https://media.jvt.me/cb4ea1ac04.jpeg
 ---
 Since getting a pair of Bluetooth headphones, I've been thoroughly enjoying being able to be hands-free.
 

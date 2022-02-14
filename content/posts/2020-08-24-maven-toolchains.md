@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-24T21:52:06+0100
 slug: "maven-toolchains"
+image: https://media.jvt.me/36b6bd31a0.png
 ---
 When working with Java projects, you may end up working across multiple JDKs. It may be that you use different vendors, such as Oracle or the OpenJDK, or whether you're working with different Java versions.
 

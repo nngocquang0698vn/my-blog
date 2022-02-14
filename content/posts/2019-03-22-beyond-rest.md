@@ -12,6 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-22T00:00:00+00:00
 slug: "beyond-rest"
+image: https://media.jvt.me/a64d665ca6.jpeg
 ---
 This is a writeup of the event [_Beyond Rest: The Future of Web APIs_](https://www.eventbrite.co.uk/e/beyond-rest-the-future-of-web-apis-tickets-54846386017#) at [BJSS](https://www.bjss.com). The overarching theme was looking ahead to what could be replacing REST APIs, and was split up into a number of talks on different aspects of it.
 

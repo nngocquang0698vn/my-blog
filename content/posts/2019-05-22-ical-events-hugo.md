@@ -13,6 +13,7 @@ slug: "ical-events-hugo"
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
+image: /img/vendor/hugo-logo.png
 ---
 While running [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/), I've been manually reminding the group of when the next event is.
 

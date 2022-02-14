@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-10-07T15:56:02+0100
 slug: "wit-notts-manage-new-manager"
+image: https://media.jvt.me/ac97dde5ff.jpeg
 ---
 Last Thursday, <span class="h-card"><a class="u-url p-name" href="https://www.ruthealee.co.uk/">Ruth Lee</a></span> spoke to <span class="h-card"><a class="u-url p-name" href="https://www.technottingham.com/wit-notts">Women in Tech Nottingham</a></span> about "How to Manage Your New Manager".
 

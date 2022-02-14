@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-30T21:13:24+0000
 slug: "reader-mail-webmention-spam"
+image: /img/vendor/webmention-logo.png
 ---
 I received an email yesterday from <span class="h-card"><a class="u-url" href="https://eli.li/">Eli Mellen</a></span>, and with Eli's consent thought I am replying publicly.
 

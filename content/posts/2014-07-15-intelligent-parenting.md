@@ -9,6 +9,7 @@ date: 2014-07-15T17:07:00+01:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: intelligent-parenting
+image: /img/intel-mimo.jpg
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2014/07/intelligent-parenting/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-12T22:16:12+0000
 slug: "phpminds-march-slim"
+image: https://media.jvt.me/eb54ad0daf.png
 ---
 [Tonight at PHPMiNDS](https://www.meetup.com/PHPMiNDS-in-Nottingham/events/268999773/), we had <span class="h-card"><a class="u-url" href="https://akrabat.com">Rob Allen</a></span> speak about the [Slim PHP Framework](https://www.slimframework.com/).
 

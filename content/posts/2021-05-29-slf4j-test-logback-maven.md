@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-05-29T15:44:55+0100
 slug: slf4j-test-logback-maven
+image: https://media.jvt.me/adfddc977a.jpeg
 ---
 As I wrote about in [Testing Your SLF4J Logs](/posts/2019/09/22/testing-slf4j-logs/), the [slf4j-test](https://projects.lidalia.org.uk/slf4j-test/), library is awesome for allowing us to add tests for our logs.
 

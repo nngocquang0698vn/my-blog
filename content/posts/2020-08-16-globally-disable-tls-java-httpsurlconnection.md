@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-16T16:03:11+0100
 slug: "globally-disable-tls-java-httpsurlconnection"
+image: https://media.jvt.me/7e70383567.png
 ---
 I am going to preface this article with a very strong note that **this is not a good idea**. It is horribly insecure, and will cause you problems if used without really contemplating the repercussions.
 

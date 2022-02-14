@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-08T12:45:14+0000
 slug: "gousto-rfe-partial-ingredients"
 series: nablopomo-2019
+image: https://media.jvt.me/043edfe910.jpeg
 ---
 <span class="h-card"><a class="u-url" href="https://annadodson.co.uk">Anna</a></span> and I have been [cooking with Gousto for some time now](/posts/2019/07/07/four-months-gousto/), and have been really enjoying it.
 

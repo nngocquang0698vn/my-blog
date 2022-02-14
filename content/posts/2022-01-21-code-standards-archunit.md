@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-21T16:34:03+0000
 slug: code-standards-archunit
+image: https://media.jvt.me/9e93be1ba5.png
 ---
 Whether you're in a team that's still meshing with your technical skills, or you've been working as a tight-knit group for years, there are likely going to be cases where someone trips up in terms of following architectural patterns in your codebase.
 

@@ -10,6 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-18T14:13:57+0100
 slug: "squad-healthchecks"
 series: squad-healthcheck
+image: https://media.jvt.me/7df11d59e4.png
 ---
 Keeping an eye on your team is really important. Knowing how your colleagues are doing is key to being a better team, regardless of whether you're friends, a manager, or a direct report. It is only through everyone in the team being invested in each others' mental and physical well-being that the team can move forward (especially in the current Coronavirus situation).
 

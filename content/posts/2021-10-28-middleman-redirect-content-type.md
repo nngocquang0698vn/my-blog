@@ -8,6 +8,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "middleman-redirect-content-type"
+image: https://media.jvt.me/5a4be89ccd.png
 ---
 The [`security.txt` standard](https://securitytxt.org/) is a great one for managing security policies for websites.
 

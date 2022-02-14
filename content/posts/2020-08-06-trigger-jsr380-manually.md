@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-06T10:47:39+0100
 slug: "trigger-jsr380-manually"
+image: https://media.jvt.me/7e70383567.png
 ---
 The [JSR380](https://jcp.org/en/jsr/detail?id=380) standard is a great way of validating your beans in Java.
 

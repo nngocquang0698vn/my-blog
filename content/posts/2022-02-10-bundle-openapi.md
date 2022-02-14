@@ -11,6 +11,7 @@ date: 2022-02-10T11:35:19+0000
 slug: bundle-openapi
 syndication:
 - "https://brid.gy/publish/twitter"
+image: https://media.jvt.me/7be186e7a3.png
 ---
 OpenAPI documents can get pretty large, especially when you're documenting all the various API request and response entities. To simplify this, we can split it into multiple files, and use `$ref`s to "include" the other files.
 

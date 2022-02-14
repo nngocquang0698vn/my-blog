@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-01T14:42:56+0000
 slug: vim-replace-with-command-execution
+image: https://media.jvt.me/efa7085abe.jpeg
 ---
 Let's say that we've got a buffer in Vim, and we want to replace some of the text with the output of a command.
 

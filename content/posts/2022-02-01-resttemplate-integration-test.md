@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-01T10:40:38+0000
 slug: resttemplate-integration-test
+image: /img/vendor/spring-logo.png
 ---
 If you're building Spring Boot services which interact with other services, it's likely that you're using the `RestTemplate` to perform the HTTP calls themselves.
 

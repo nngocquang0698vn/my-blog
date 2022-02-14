@@ -10,6 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-06-25T09:09:35+0100
 slug: "spring-context-test"
 series: writing-better-tests
+image: /img/vendor/spring-logo.png
 ---
 Working with Spring/Spring Boot apps, you've very likely landed with the dreaded:
 

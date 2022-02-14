@@ -11,6 +11,7 @@ date: 2022-02-13T10:01:17+0000
 slug: "spring-debug-mode"
 syndication:
 - "https://brid.gy/publish/twitter"
+image: /img/vendor/spring-logo.png
 ---
 As with any software development process, we can't always build things right the first time, and sometimes we need to up the logging levels, or debug our framework a little more in depth.
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-14T19:50:12+0000
 slug: "ruby-parse-unix-epoch"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 Every so often I have to work with Unix Epochs, and am forever annoyed I can't convert them in my head (a little sarcasm).
 

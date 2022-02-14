@@ -13,6 +13,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-12-12T16:58:28+0000
 slug: "x509-pkcs8-pem-key-to-jwks-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 Similar to my [article for Node](/posts/2019/01/10/x509-pkcs8-pem-key-to-jwks-node/)), I wanted to be able to easily convert my keys between formats using Ruby.
 

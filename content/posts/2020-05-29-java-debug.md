@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-29T23:15:36+0100
 slug: "java-debug"
+image: https://media.jvt.me/7e70383567.png
 ---
 It can be pretty useful to attach a debugging to a Java process, such as when you're running a JAR as a standalone process.
 

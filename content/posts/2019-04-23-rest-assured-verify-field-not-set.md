@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-04-23T22:07:13+0100
 slug: "rest-assured-verify-field-not-set"
+image: https://media.jvt.me/4041b6e524.png
 ---
 Earlier today I was trying to write some assertions on a [Rest Assured](http://rest-assured.io/) `Response`, where I was validating that the resulting JSON had fields that were **not** being returned.
 

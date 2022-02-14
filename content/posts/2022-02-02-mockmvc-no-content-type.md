@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-02T11:54:57+0000
 slug: mockmvc-no-content-type
+image: /img/vendor/spring-logo.png
 ---
 If you're writing tests to validate i.e. that an HTTP 406 is returned from your API when failing to negotiate, you should validate that the `content-type` of the response is not set.
 

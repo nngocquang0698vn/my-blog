@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-06T13:41:08+0000
 slug: "pkce-ruby-rack-oauth2"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 [Proof of Key Code Exchange](https://oauth.net/2/pkce/) is an OAuth2 extension that recently been adopted as the standard for both [OAuth 2.1](https://oauth.net/2.1/) and [IndieAuth](https://indieauth.spec.indieweb.org), and provides additional security for attacks on the Authorization Code flow.
 

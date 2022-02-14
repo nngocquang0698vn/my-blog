@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-07T22:36:36+0100
 slug: "ruby-hash-keys-string-symbol"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 When working with Ruby Hashes, you may find that there are two ways to interact with them, using the String notation commonly seen with JSON, but also using Ruby's Symbol concept.
 

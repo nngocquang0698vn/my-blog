@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-25T19:56:08+0100
 slug: "read-servlet-request-body-multiple"
+image: https://media.jvt.me/7e70383567.png
 ---
 I've recently been writing a [`javax.servlet.Filter`](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/Filter.html) to perform validation on a request coming from [Netlify's Deploy Notifications](https://docs.netlify.com/site-deploys/notifications/#outgoing-webhooks) and have needed to read the request body to validate that the request is correct.
 

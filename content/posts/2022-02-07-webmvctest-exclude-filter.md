@@ -14,6 +14,7 @@ date: 2022-02-07T10:55:12+0000
 slug: webmvctest-exclude-filter
 syndication:
 - "https://brid.gy/publish/twitter"
+image: /img/vendor/spring-logo.png
 ---
 As noted in my article [Shift Your Testing Left with Spring Boot Controllers](/posts/2021/11/28/spring-boot-controller-tdd/#integration-tests), the aim of writing `WebMvcTest`s is to verify that Spring annotations are set on the class, and that it actually responds as a controller.
 

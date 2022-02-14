@@ -11,6 +11,7 @@ date: 2022-02-08T22:00:34+0000
 slug: openapi-client-side
 syndication:
 - "https://brid.gy/publish/twitter"
+image: https://media.jvt.me/7be186e7a3.png
 ---
 As noted in my article, [_Running Elements API Viewer to Verify Local OpenAPI/Swagger Documents_](/posts/2022/02/03/elements-local/), it can be handy viewing OpenAPI files locally.
 

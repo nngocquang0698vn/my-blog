@@ -9,6 +9,7 @@ date: 2014-11-21T17:09:00+00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: smart-is-the-new-black
+image: /img/smart-lightbulbs.png
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2014/11/smart-is-the-new-black-lightbulbs-to-reflect-a-modern-age/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 

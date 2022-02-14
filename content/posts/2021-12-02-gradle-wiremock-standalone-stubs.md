@@ -11,6 +11,7 @@ license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/2a42816de8.png"
 slug: gradle-wiremock-standalone-stubs
+image: https://media.jvt.me/c25b297eaa.png
 ---
 The [Wiremock](http://wiremock.org) project is pretty great for stubbing out HTTP services, and I've been using it for a few years for both local testing, and distributing stubs to consumers of applications.
 

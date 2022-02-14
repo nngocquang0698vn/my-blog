@@ -9,6 +9,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "run-war-locally"
+image: https://media.jvt.me/7e70383567.png
 ---
 If you're working with Web WAR files for your web applications, you may want to deploy and test them locally.
 

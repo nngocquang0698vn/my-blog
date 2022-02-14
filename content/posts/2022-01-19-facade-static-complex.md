@@ -9,6 +9,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-19T13:40:56+0000
 slug: "facade-static-complex"
 series: writing-better-tests
+image: https://media.jvt.me/7e70383567.png
 ---
 Something that came up recently with some cross-organisation colleagues is how to better test a complex interface, such as the AWS SDK in a unit test.
 

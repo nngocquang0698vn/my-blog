@@ -13,6 +13,7 @@ license_code: Apache-2.0
 slug: hacktoberfest
 aliases:
 - /posts/2016/09/30/hacktoberfest/
+image: https://media.jvt.me/afe926ee8b.jpeg
 ---
 # On Hacktoberfest
 

@@ -13,6 +13,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-27T18:15:42+0000
 slug: "pretty-print-yaml-ruby"
 series: pretty-print-yaml
+image: https://media.jvt.me/00fdea0d32.png
 ---
 Today I had a pretty fun little thing to do - validate that a YAML file was well formed (because it turns out, it wasn't).
 

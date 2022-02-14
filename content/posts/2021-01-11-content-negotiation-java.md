@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-01-11T15:52:01+0000
 slug: "content-negotiation-java"
+image: https://media.jvt.me/7e70383567.png
 ---
 In [Why I Consistently Reach for Server-Driven Content Negotiation (For Versioning)](/posts/2021/01/05/why-content-negotiation/), I spoke about how useful server-driven content-negotiation can be for versioning or for multiple representations of data for your RESTful APIs.
 

@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-15T22:40:57+0100
 slug: "sign-jwt-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 When you're working with JSON Web Tokens (JWTs), you'll _almost certainly_ be validating that the contents of the token is sent by the correct service by verifying the token's signature.
 

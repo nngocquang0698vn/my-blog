@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-29T22:07:13+0100
 slug: "extract-public-cert-java-keystore"
+image: https://media.jvt.me/7e70383567.png
 ---
 It can be useful to pull the public certificate out of a Java keystore (maybe called a truststore in this case, as it may just store public certs).
 

@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-20T09:33:16+0000
 slug: "slf4j-not-log4j"
+image: https://media.jvt.me/adfddc977a.jpeg
 ---
 I recently noticed that some of my colleagues were using Log4J as their logging interface with code such as:
 

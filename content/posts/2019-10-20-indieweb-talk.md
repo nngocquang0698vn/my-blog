@@ -20,6 +20,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "indieweb-talk"
+image: https://media.jvt.me/1833d764f8.png
 ---
 The below is a transcript of the talk [_The IndieWeb Movement: Owning Your Data and Being the Change You Want to See in the Web_](/talks/indieweb/) that I gave this afternoon at [OggCamp 2019](https://oggcamp.com).
 

@@ -8,6 +8,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "middleman-debug-logging"
+image: https://media.jvt.me/5a4be89ccd.png
 ---
 I've recently been working with the [Middleman static site generator](https://middlemanapp.com/), which I'm finding a nice experience because it's written in Ruby.
 

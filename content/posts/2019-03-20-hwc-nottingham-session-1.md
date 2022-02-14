@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-20T22:16:26+00:00
 slug: "hwc-nottingham-session-1"
+image: /img/vendor/hwc-80s-retro.jpg
 ---
 The first <a class="u-in-reply-to" href="/posts/2019/03/14/homebrew-website-club-nottingham/">Homebrew Website Club: Nottingham</a> is over, and it was great!
 

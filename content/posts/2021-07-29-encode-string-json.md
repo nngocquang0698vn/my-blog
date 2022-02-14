@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-07-29T22:36:17+0100
 slug: "encode-string-json"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 One of the difficult things about working with JSON, especially when it is used as a format for storing content, such as when working with the [Microformats2 standard](https://microformats.io/).
 

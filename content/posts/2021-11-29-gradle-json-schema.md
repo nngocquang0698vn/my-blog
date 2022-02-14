@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-11-29T09:23:37+0000
 slug: "gradle-json-schema"
+image: https://media.jvt.me/c25b297eaa.png
 ---
 It's possible that you're using [JSON Schema](https://json-schema.org/) as a means for describing and validating your data is formatted correctly.
 

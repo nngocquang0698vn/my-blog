@@ -14,6 +14,7 @@ syndication:
 - "https://brid.gy/publish/twitter"
 aliases:
 - /posts/2022/02/12/spring-responsestatuson/
+image: /img/vendor/spring-logo.png
 ---
 As mentioned in [_Simplifying Spring (Boot) `onHandler`s with `ResponseStatus` Annotations_](/posts/2022/01/20/spring-annotation-exceptions/), one way we can set up HTTP exception handling us by annotating our exceptions with `@ResponseStatus`, and then using Reflection at runtime to map it to the HTTP response.
 

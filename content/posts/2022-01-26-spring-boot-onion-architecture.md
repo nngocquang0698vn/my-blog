@@ -13,6 +13,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-28T13:45:16+0000
 slug: spring-boot-onion-architecture
+image: https://media.jvt.me/9e93be1ba5.png
 ---
 When you're starting on a fresh project, choosing a means for structuring your codebase is a difficult choice, as there are quite a few alternatives, and each of them have trade-offs, and at the end of the day, we're still trying to deliver the same thing.
 

@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-02T21:49:40+0000
 slug: "curl-without-hosts"
+image: https://media.jvt.me/bea93c49be.jpeg
 ---
 Sometimes you need to make requests to sites, but don't want to allow regular DNS lookups for the host. For instance, you may have a passive/side stack you need to test against, but can't get it working without the official DNS working.
 

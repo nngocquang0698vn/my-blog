@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-30T21:24:11+0100
 slug: "spring-boot-junit-vintage-failed-discover"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I've just done an upgrade from Spring Boot 2.2.2.RELEASE to Spring Boot 2.3.1.RELEASE, and have suddenly started getting these errors:
 

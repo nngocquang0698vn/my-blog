@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-25T19:56:08+0100
 slug: "httpmessagenotreadableexception-contentcachingrequestwrapper"
+image: /img/vendor/spring-logo.png
 ---
 If you're using a [`ContentCachingRequestWrapper`](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/ContentCachingRequestWrapper.html) from Spring, you may be confused to find errors, similar to the below, from your application:
 

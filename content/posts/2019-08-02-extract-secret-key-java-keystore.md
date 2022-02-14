@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-02T23:43:03+0100
 slug: "extract-secret-key-java-keystore"
+image: https://media.jvt.me/7e70383567.png
 ---
 Yesterday, I was trying to pull a shared secret (a `SecretKeyEntry` not a `PrivateKeyEntry`) out of a Java keystore.
 

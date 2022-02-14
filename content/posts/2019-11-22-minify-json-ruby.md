@@ -13,6 +13,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-22T19:33:20+0000
 slug: "minify-json-ruby"
 series: nablopomo-2019
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I've written about [pretty-printing JSON](/series/pretty-print-json) in the past, but not about minifying it. Sometimes you don't want an overly verbose format, i.e. when entering logs, or where you're restrained on file-sizes.
 

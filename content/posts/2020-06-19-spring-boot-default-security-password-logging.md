@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-19T17:04:17+0100
 slug: "spring-boot-default-security-password-logging"
+image: /img/vendor/spring-logo.png
 ---
 If you use Spring Boot and Spring Security, you may recognise the following from your logs:
 

@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-07T22:36:36+0100
 slug: "ruby-override-merge-nested-array-hash"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 I have a very specific use case for this, so feel free to discount this if it doesn't make much sense to you.
 

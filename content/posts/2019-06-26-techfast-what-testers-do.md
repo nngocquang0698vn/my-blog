@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-06-26T18:52:51+0100
 slug: "techfast-what-testers-do"
+image: https://media.jvt.me/2c3d7f894f.jpeg
 ---
 <div style="display: none">
   This post is a reply to <a class="u-in-reply-to" href="https://www.meetup.com/Notts-Techfast/events/262030947/">https://www.meetup.com/Notts-Techfast/events/262030947/</a>

@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-11-28T17:31:29+0000
 slug: "spring-boot-controller-tdd"
 series: writing-better-tests
+image: /img/vendor/spring-logo.png
 ---
 If you're building Spring Boot apps, you'll hopefully have some test coverage of the web layer of your application.
 

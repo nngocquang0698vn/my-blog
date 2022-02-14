@@ -13,6 +13,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-23T19:58:07+0000
 slug: "minify-json-python"
 series: nablopomo-2019
+image: /img/vendor/python-logo-notext.png
 ---
 Yesterday I wrote about [_Minifying JSON Ruby_](/posts/2019/11/22/minify-json-ruby/), but today let's talk about using Python instead.
 

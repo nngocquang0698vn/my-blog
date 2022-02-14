@@ -14,6 +14,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-15T21:32:04+0000
 slug: "x5c-to-pem-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 The [JSON Web Key (JWK) specification, RFC7517](https://tools.ietf.org/html/rfc7517#appendix-B) defines the `x5c` parameter to a JWK as the X.509 certificate chain:
 

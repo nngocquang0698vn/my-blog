@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-07-15T13:52:32+0100
 slug: "capital-one-promotion-celebration"
+image: /img/capitalone_logo.png
 ---
 This morning was the promotion announcements for my tribe at Capital One, and it's something I always look forward to. (This time, especially so as [I am being promoted](/posts/2020/07/09/new-job-title-who-dis/))
 

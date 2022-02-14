@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-15T10:59:02+0100
 slug: "vault-no-print-ordering"
+image: https://media.jvt.me/cdf2ea7a28.png
 ---
 Today I've been fighting a bit of an issue with the Vault CLI (v1.1.2) not masking the output of a `vault login`.
 

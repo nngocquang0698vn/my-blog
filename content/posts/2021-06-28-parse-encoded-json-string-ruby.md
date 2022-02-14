@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-06-28T19:12:42+0100
 slug: "parse-encoded-json-string-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 JSON is a pretty common format for serialising of data, and can either be transmitted as the object itself, or as a string that's encoded the JSON structure.
 

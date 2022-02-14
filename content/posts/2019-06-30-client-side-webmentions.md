@@ -12,6 +12,7 @@ slug: "client-side-webmentions"
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/webmention
+image: /img/vendor/webmention-logo.png
 ---
 On [March 18 2019](/posts/2019/03/18/displaying-webmentions/), I started rendering my Webmentions as part of this site's [Hugo](https://gohugo.io) build process.
 

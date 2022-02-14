@@ -10,6 +10,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: gradle-reproducible-builds
+image: https://media.jvt.me/c25b297eaa.png
 ---
 It's becoming [more and more common](https://securityintelligence.com/articles/supply-chain-attacks-open-source-vulnerabilities/) for Free and Open Source dependencies to become poisoned by attackers.It's (fortunately) not solved by using only Proprietary software, as the [SolarWinds breach last year](https://www.sans.org/blog/what-you-need-to-know-about-the-solarwinds-supply-chain-attack/) taught us.
 

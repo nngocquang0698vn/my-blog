@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-31T18:07:02+0000
 slug: swagger-ui-local
+image: https://media.jvt.me/7be186e7a3.png
 ---
 Something that's really handy for visualising OpenAPI, or older Swagger, documents is the [Swagger UI](https://github.com/swagger-api/swagger-ui) project.
 

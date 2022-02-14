@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-20T14:48:47+0000
 slug: "spring-annotation-exceptions"
+image: /img/vendor/spring-logo.png
 ---
 Mapping exceptions to HTTP errors in Spring is pretty handily done using the `ExceptionHandler` and `ControllerAdvice` mechanisms. But, if you're using quite a few exceptions that can be mapped to HTTP errors, you may find that you're having a fair bit of overhead for managing common exception cases, and I have seen it before that we may want to simplify the setup.
 

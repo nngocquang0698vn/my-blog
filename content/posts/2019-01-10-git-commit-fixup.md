@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-10T17:07:19+00:00
 slug: "git-commit-fixup"
+image: /img/vendor/git.png
 ---
 When working on a non-shared feature branch or when creating an article under [the editorial workflow I use for blog posts](/posts/2018/09/11/blog-post-editorial-workflow/), I'll often make quick commits that need to be squashed into a previous commit to ensure a nice Git history.
 

@@ -8,6 +8,7 @@ date: 2015-10-10T23:00:41+01:00
 license_prose: 'GPL-3.0'
 license_code: 'GPL-3.0'
 slug: introduction-to-python-programming
+image: /img/vendor/python-logo-notext.png
 ---
 <blockquote>This article was for <a href="https://hacksocnotts.co.uk/">Hacksoc Nottingham</a>, while I was the 2015-2016 General Secretary.</blockquote>
 

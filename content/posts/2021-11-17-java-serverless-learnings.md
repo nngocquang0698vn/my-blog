@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-11-17T17:21:49+0000
 slug: "java-serverless-learnings"
+image: /img/vendor/AmazonWebservices_Logo.png
 ---
 Recently, some colleagues and I were talking about the use of Java for AWS Lambda, and after our discussion I thought I'd write up some of my experience over the last few years for posterity.
 

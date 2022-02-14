@@ -10,6 +10,7 @@ tags:
 license_code: "MIT"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "cucumber-dagger-dependency-injection"
+image: /img/vendor/cucumber.png
 ---
 # Why Dependency Injection?
 

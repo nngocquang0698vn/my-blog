@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-01-14T19:27:21+0000
 slug: "mutual-tls-auth-rest-assured"
+image: https://media.jvt.me/4041b6e524.png
 ---
 It's possible that you want to perform mutual TLS authentication to further secure your APIs.
 

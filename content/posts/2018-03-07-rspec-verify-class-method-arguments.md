@@ -10,6 +10,7 @@ date: 2018-03-07T15:28:26+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: rspec-verify-class-method-arguments
+image: https://media.jvt.me/343d8c41eb.png
 ---
 While working on [Testing Chef's `ruby_block`s with ChefSpec][testing-ruby_block-chefspec], I found that I was struggling to find any resources explaining my seemingly niche request:
 

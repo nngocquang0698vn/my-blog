@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-03T14:15:44+0000
 slug: "ruby-append-querystring"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 Let's say that you have a URL and you want to append on query parameters, for instance to add tracking data to a URL.
 

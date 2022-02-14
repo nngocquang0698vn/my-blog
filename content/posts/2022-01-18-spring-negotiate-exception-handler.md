@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-18T09:03:52+0000
 slug: "spring-negotiate-exception-handler"
+image: /img/vendor/spring-logo.png
 ---
 Update 2022-01-29: You may be interested in using [spring-content-negotiator](https://www.jvt.me/posts/2022/01/30/spring-content-negotiator/) to make this simpler!
 

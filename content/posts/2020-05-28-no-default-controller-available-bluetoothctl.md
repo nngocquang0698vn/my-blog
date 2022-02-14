@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-28T18:09:57+0100
 slug: "no-default-controller-available-bluetoothctl"
+image: https://media.jvt.me/cb4ea1ac04.jpeg
 ---
 Are you receiving `No default controller available` when trying to use `bluetoothctl`?
 

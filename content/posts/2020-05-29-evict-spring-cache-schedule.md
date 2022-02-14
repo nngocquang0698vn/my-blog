@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-29T10:20:00+0100
 slug: "evict-spring-cache-schedule"
+image: /img/vendor/spring-logo.png
 ---
 If you're using [Spring Cache](https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#cache), you may want to evict the cache on a schedule, to keep it updated.
 

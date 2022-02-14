@@ -11,6 +11,7 @@ date: 2022-02-07T21:52:59+0000
 slug: favicon-cli
 syndication:
 - "https://brid.gy/publish/twitter"
+image: https://media.jvt.me/3974100ec6.png
 ---
 Last week I took a new profile photo, and as such I needed to update my favicon so it would match the new look.
 

@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-03T20:52:40+0000
 slug: "generate-pojo-xml-xsd"
+image: https://media.jvt.me/7e70383567.png
 ---
 Yesterday I was fighting with an _incredibly_ annoying issue with [Jackson's XML extension](https://github.com/FasterXML/jackson-dataformat-xml) suddenly deciding to stop parsing my site's sitemap.xml.
 

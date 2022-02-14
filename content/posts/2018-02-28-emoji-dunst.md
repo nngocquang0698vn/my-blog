@@ -13,6 +13,7 @@ license_code: Apache-2.0
 slug: emoji-dunst
 aliases:
 - /posts/2018/03/01/emoji-dunst/
+image: /img/emoji-dunst/with-emoji.png
 ---
 # TL;DR
 

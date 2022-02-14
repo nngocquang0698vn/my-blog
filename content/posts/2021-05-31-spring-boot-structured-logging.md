@@ -12,6 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-05-31T21:09:17+0100
 slug: "spring-boot-structured-logging"
+image: /img/vendor/spring-logo.png
 ---
 # Why?
 

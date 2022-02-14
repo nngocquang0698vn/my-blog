@@ -12,6 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-15T23:12:26+0100
 slug: "ruby-private-key-jwt-client-assertion"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 OpenID Connect Core 1.0 defines the [`private_key_jwt` authentication method](https://openid.net/specs/openid-connect-core-1_0.html#ClientAuthentication) that can be used to authenticate the client with an Authorization Server's token endpoint.
 

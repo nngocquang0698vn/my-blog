@@ -10,6 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-08-24T22:40:09+0100
 slug: "human-readable-gherkin"
 series: writing-better-tests
+image: /img/vendor/cucumber.png
 ---
 Functional Acceptance Tests are often a testing phase that can be used to be (one of) the final checks of functionality for an application, determining whether it meets the needs of the business.
 

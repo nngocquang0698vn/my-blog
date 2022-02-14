@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-23T13:24:21+0100
 slug: "byte-array-to-string-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 In [_Converting a Byte Array to String with `Buffer` in Node.JS_](/posts/2020/04/20/buffer-array-to-string/) I mentioned about Node.JS `Buffer`s, and how they're a way to serialise an array of bytes into a JSON format.
 

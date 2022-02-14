@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-04-07T18:37:19+0100
 slug: "jackson-map-key-serialise"
+image: https://media.jvt.me/7e70383567.png
 ---
 If you're working with Java and are serialising/deserialising content to or from JSON, you will likely be using [Jackson](https://github.com/FasterXML/jackson-databind).
 

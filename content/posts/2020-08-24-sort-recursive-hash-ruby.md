@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-08-24T20:56:20+0100
 slug: "sort-recursive-hash-ruby"
+image: https://media.jvt.me/00fdea0d32.png
 ---
 As part of [_Diffing Pretty-Printed JSON Files_](/posts/2020/08/24/pretty-print-json-diff/), I wanted to have a method of making JSON documents easier to diff by sorting their keys.
 

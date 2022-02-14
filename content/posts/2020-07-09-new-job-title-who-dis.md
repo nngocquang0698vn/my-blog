@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-07-09T10:04:52+0100
 slug: "new-job-title-who-dis"
+image: /img/capitalone_logo.png
 ---
 I'm very happy to announce I have just been promoted to a Software Development Engineer level 3 at Capital One! This now gives me the opportunity to call myself a "senior engineer", and has come from a year and a bit of some really great achievements in the organisation, and some really great personal and professional development.
 

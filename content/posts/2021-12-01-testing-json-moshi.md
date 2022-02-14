@@ -11,6 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-01T09:42:31+0000
 slug: "testing-json-moshi"
 series: writing-better-tests
+image: https://media.jvt.me/7e70383567.png
 ---
 In [_Testing Data Serialisation/Deserialization in Java (with Jackson)_](/posts/2021/10/02/testing-json/), I mentioned how you could test your serialisation layer if you're using Jackson.
 

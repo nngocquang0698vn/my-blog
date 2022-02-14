@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-08T20:19:50+0000
 slug: "java-test-time"
+image: https://media.jvt.me/7e70383567.png
 ---
 Working with date, time and timezones are probably one of the most difficult problems in software engineering. Dealing with leap years, Daylight Savings Time, and a whole host of other changes cause us difficulty, but why make things harder than it can be when it comes to testing?
 

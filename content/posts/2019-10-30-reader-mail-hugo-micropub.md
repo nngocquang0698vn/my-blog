@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-30T21:12:17+0000
 slug: "reader-mail-hugo-micropub"
+image: /img/vendor/hugo-logo.png
 ---
 I received an email yesterday from <span class="h-card"><a class="u-url" href="https://www.barbersmith.com">Ben Barbersmith</a></span>, and with Ben's consent thought I would reply publicly.
 

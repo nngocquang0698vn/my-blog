@@ -9,6 +9,7 @@ date: 2015-04-14T13:56:00+01:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: sony-hack
+image: /img/sony-hack.png
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2015/04/the-sony-hack/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 

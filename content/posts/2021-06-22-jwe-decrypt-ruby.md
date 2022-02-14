@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-06-22T22:18:49+0100
 slug: "jwe-decrypt-ruby"
+image: /img/vendor/jwt.io.jpg
 ---
 There are a number of great standards for encrypting data, and one I interact with quite a lot is JSON Web Encryption.
 

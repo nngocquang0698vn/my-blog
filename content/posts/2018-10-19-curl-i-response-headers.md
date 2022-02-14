@@ -8,6 +8,7 @@ date: 2018-10-19T12:34:11+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: curl-i-response-headers
+image: https://media.jvt.me/bea93c49be.jpeg
 ---
 Sometimes you want to `curl` a resource, while also receiving the response headers. In the past, I would reach for `curl -v`:
 

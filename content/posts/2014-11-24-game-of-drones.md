@@ -10,6 +10,7 @@ date: 2014-11-24T17:07:00+00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: game-of-drones
+image: /img/game-of-drones.jpg
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2014/11/game-of-drones/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 

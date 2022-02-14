@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-30T08:35:22+0000
 slug: spring-content-negotiator
+image: /img/vendor/spring-logo.png
 ---
 I recently wrote about cases in Spring (Boot) applications where we aren't as easily able to perform content-negotiation, as it's not an easy annotation away for different representations:
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-21T12:48:26+0000
 slug: autowire-controller-spring-cloud-contract-mockmvc
+image: /img/vendor/spring-logo.png
 ---
 If you're building Spring (Boot) web APIs, you may be using [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract) for Consumer Driven Contract testing, to ensure that you're not pushing out breaking changes to your APIs.
 

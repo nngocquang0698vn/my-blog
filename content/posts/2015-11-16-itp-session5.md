@@ -8,6 +8,7 @@ date: 2015-11-16T19:35:14+00:00
 license_prose: 'GPL-3.0'
 license_code: 'GPL-3.0'
 slug: itp-session5
+image: /img/vendor/python-logo-notext.png
 ---
 <blockquote>This article was for <a href="https://hacksocnotts.co.uk/">Hacksoc Nottingham</a>, while I was the 2015-2016 General Secretary.</blockquote>
 

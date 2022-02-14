@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-23T10:24:30+0000
 slug: "java-bean-validation"
+image: https://media.jvt.me/7e70383567.png
 ---
 Aside: I was originally going to name this article something fun like "fantastic beans and how to verify them", but couldn't find a good way of phrasing it that made sense.
 

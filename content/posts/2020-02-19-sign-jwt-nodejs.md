@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-19T19:22:29+0000
 slug: "sign-jwt-nodejs"
+image: /img/vendor/nodejs.png
 ---
 When you're working with JSON Web Tokens (JWTs), you'll _almost certainly_ be validating that the contents of the token is sent by the correct service by verifying the token's signature.
 

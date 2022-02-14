@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-02T22:34:56+0100
 slug: "jwk-thumprint-node"
+image: /img/vendor/nodejs.png
 ---
 As mentioned in [_How are Open Banking Key Ids (`kid`) Generated?_](/posts/2020/06/02/open-banking-key-id/), Open Banking use the JWK thumbprints as defined by [RFC7638: JSON Web Key (JWK) Thumbprint](https://tools.ietf.org/html/rfc7638).
 

@@ -11,6 +11,7 @@ date: 2019-07-07T18:55:19+01:00
 slug: "four-months-gousto"
 syndication:
 - https://indieweb.xyz/en/cooking
+image: https://media.jvt.me/043edfe910.jpeg
 ---
 # Why We Started Gousto
 

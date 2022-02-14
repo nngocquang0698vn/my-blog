@@ -9,8 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-27T11:24:10+0100
 slug: "meetupcom-calendar"
-syndication:
-- https://twitter.com/jamietanna
+image: https://media.jvt.me/aee708169e.png
 ---
 For quite some time I've been using an awesome lifehack to integrate my Meetup.com calendar with my personal calendar. I've not seen it talked about that well, so I thought I'd document it ([two years late](https://gitlab.com/jamietanna/jvt.me/issues/103)!)
 

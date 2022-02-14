@@ -9,6 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-15T13:01:15+0000
 slug: "meetup-api-multiple-redirect-uris"
+image: https://media.jvt.me/aee708169e.png
 ---
 Since roughly September, I've been on-and-off working on [contributing a feature request](https://github.com/snarfed/bridgy/issues/873) to allow [Bridgy](https://brid.gy) to send RSVPs events from my personal website straight to Meetup.com.
 

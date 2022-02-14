@@ -13,6 +13,7 @@ date: 2022-02-07T10:44:19+0000
 slug: webclient-integration-test
 syndication:
 - "https://brid.gy/publish/twitter"
+image: /img/vendor/spring-logo.png
 ---
 If you're building Spring Boot services which interact with other services, it's likely that you're using the `WebClient` from the WebFlux project to use a more reactive and non-blocking HTTP client.
 

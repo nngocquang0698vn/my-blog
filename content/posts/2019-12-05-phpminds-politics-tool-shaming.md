@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-05T11:56:35+0000
 slug: "phpminds-politics-tool-shaming"
+image: https://media.jvt.me/eb54ad0daf.png
 ---
 # Introduction
 

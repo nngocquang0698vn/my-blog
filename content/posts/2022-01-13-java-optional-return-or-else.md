@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-13T09:53:51+0000
 slug: "java-optional-return-or-else"
+image: https://media.jvt.me/7e70383567.png
 ---
 Java `Optional`s are great for giving you flexibility over interacting with values that may not be present, and include a means for more safely retrieving values from nullable types.
 

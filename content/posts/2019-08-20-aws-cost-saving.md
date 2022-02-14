@@ -11,6 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-20T22:32:29+01:00
 slug: "aws-cost-saving"
+image: /img/vendor/AmazonWebservices_Logo.png
 ---
 [Ian Harris](https://twitter.com/ian_x_harris) gave us a really interesting talk <a class="u-in-reply-to" href="https://www.meetup.com/Nottingham-AWS-Meetup/events/263190185/">tonight at AWS Nottingham</a> about AWS and some great ways to not burn money.
 

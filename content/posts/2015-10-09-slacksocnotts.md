@@ -9,6 +9,7 @@ date: 2015-10-09T23:49:33+01:00
 license_prose: 'GPL-3.0'
 license_code: 'GPL-3.0'
 slug: slacksocnotts
+image: https://media.jvt.me/a8e344c2ac.png
 ---
 # Introducing Slack
 

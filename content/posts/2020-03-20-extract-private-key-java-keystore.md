@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-20T23:57:00+0000
 slug: "extract-private-key-java-keystore"
+image: https://media.jvt.me/7e70383567.png
 ---
 I've written in the past about [extracting a symmetric key from a Java keystore](/posts/2019/08/02/extract-secret-key-java-keystore/), but didn't have anything to say how to do it with an asymmetric key.
 

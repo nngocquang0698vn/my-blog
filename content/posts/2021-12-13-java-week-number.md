@@ -8,6 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-13T20:33:47+0000
 slug: "java-week-number"
+image: https://media.jvt.me/7e70383567.png
 ---
 When I started to publish week notes to my site through my Micropub server, I wanted to programmatically set up the metadata for a post, which looks like:
 

@@ -19,6 +19,7 @@ license_code: Apache-2.0
 slug: aws-chef-dev-day
 aliases:
 - /posts/2018/06/25/aws-chef-dev-day/
+image: /img/vendor/chef-logo.png
 ---
 Last Tuesday I travelled to London to attend the [AWS Dev Day Roadshow in London], where I'd be learning all about the intersection between Chef and AWS.
 

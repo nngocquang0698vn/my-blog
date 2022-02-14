@@ -10,6 +10,7 @@ date: 2022-02-07T10:44:19+0000
 slug: okhttp-mockwebserver-takerequest
 syndication:
 - "https://brid.gy/publish/twitter"
+image: /img/vendor/spring-logo.png
 ---
 I came across okhttp's `MockWebServer` as part of [Integration Testing Your Spring `WebClient`s with okhttp's `MockWebServer`](/posts/2022/02/07/webclient-integration-test/), and wanted to verify that HTTP requests made by my HTTP clients were well-formed.
 

@@ -10,6 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-02-03T15:26:23+0000
 slug: elements-local
+image: https://media.jvt.me/7be186e7a3.png
 ---
 Similar to my article yesterday about [locally running Swagger UI](/posts/2022/01/31/swagger-ui-local/), I wanted to load up an OpenAPI document today.
 
