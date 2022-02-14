@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "OpenJS Foundation" ],
+          "nickname" : [ "openjsf" ],
+          "numeric-id" : [ "14538601" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1272964436299599874/Lov9fydo.jpg" ],
+          "published" : [ "2008-04-26T02:35:38+00:00" ],
+          "uid" : [ "tag:twitter.com:openjsf" ],
+          "url" : [ "https://twitter.com/openjsf", "http://openjsf.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Exciting news today! Joyent has transferred ownership of the Node.js trademarks to the OpenJS Foundation to help protect the work of the Node.js collaborators. We’ve worked hard to make OpenJS a stable, neutral home for the JavaScript community. <a href=\"https://openjsf.org/blog/2022/02/14/node-js-trademarks-transferred-to-openjs-foundation/\">openjsf.org/blog/2022/02/1…</a>",
+        "value" : "Exciting news today! Joyent has transferred ownership of the Node.js trademarks to the OpenJS Foundation to help protect the work of the Node.js collaborators. We’ve worked hard to make OpenJS a stable, neutral home for the JavaScript community. openjsf.org/blog/2022/02/1…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FLknmYqWQAMbjRQ.jpg" ],
+      "published" : [ "2022-02-14T17:03:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1493269627232833536" ],
+      "url" : [ "https://twitter.com/openjsf/status/1493269627232833536" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Happy to see <a href=\"https://twitter.com/nodejs\">@nodejs</a> be fully free at last.\n\nWhen considering <a href=\"https://twitter.com/deno_land\">@deno_land</a> and other venture backed similar projects, remember to take the governance model of those projects into account. It can have quite the impact over time.</div>",
+      "value" : "Happy to see @nodejs be fully free at last.\n\nWhen considering @deno_land and other venture backed similar projects, remember to take the governance model of those projects into account. It can have quite the impact over time."
+    } ],
+    "published" : [ "2022-02-14T17:59:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1493283805435772931" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1493283805435772931" ]
+  },
+  "type" : [ "h-entry" ]
+}
