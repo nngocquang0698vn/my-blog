@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "💖 the6p4c 🦈🦈🦈" ],
+          "nickname" : [ "the6p4c" ],
+          "numeric-id" : [ "3129849104" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1401174731408039936/NIXMdwDq.png" ],
+          "published" : [ "2015-04-02T10:23:06+00:00" ],
+          "uid" : [ "tag:twitter.com:the6p4c" ],
+          "url" : [ "https://twitter.com/the6p4c", "http://the6p4c.github.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "omfg this is the dumbest type of user error ever" ],
+      "in-reply-to" : [ "https://twitter.com/the6p4c/status/1493474814312419328" ],
+      "photo" : [ {
+        "alt" : "a bash script. there's an if statement that checks if the TERM variable is alacritty or xterm-256color before selecting an emoji.",
+        "value" : "https://pbs.twimg.com/media/FLnkVUAVQAIRLfq.png"
+      } ],
+      "published" : [ "2022-02-15T06:43:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1493475922078429185" ],
+      "url" : [ "https://twitter.com/the6p4c/status/1493475922078429185" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Unceded Ramaytush Ohlone land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate" ],
+        "nickname" : [ "thingskatedid" ],
+        "numeric-id" : [ "406588289" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483578141557747712/KW9o6UDp.jpg" ],
+        "published" : [ "2011-11-06T22:28:48+00:00" ],
+        "uid" : [ "tag:twitter.com:thingskatedid" ],
+        "url" : [ "https://twitter.com/thingskatedid", "https://www.instagram.com/katelikesrectangles/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "incredible way to display exit status" ],
+    "published" : [ "2022-02-15T07:35:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1493489141035638785" ],
+    "url" : [ "https://twitter.com/thingskatedid/status/1493489141035638785" ]
+  },
+  "type" : [ "h-entry" ]
+}
