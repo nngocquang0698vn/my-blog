@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris McKee" ],
+        "nickname" : [ "chrismckee" ],
+        "numeric-id" : [ "1283507233565954048" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489253328022237190/7t743PyB.jpg" ],
+        "published" : [ "2020-07-15T21:02:35+00:00" ],
+        "uid" : [ "tag:twitter.com:chrismckee" ],
+        "url" : [ "https://twitter.com/chrismckee", "https://chrismckee.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://localstack.cloud/\">localstack.cloud</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rakyll\"></a>",
+      "value" : "localstack.cloud"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/chrismckee/status/1493691886795698178" ],
+    "published" : [ "2022-02-15T21:01:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1493692043654225920" ],
+    "url" : [ "https://twitter.com/chrismckee/status/1493692043654225920" ]
+  },
+  "type" : [ "h-entry" ]
+}
