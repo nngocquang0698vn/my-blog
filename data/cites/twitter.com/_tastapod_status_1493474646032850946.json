@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Terhorst-North" ],
+        "nickname" : [ "tastapod" ],
+        "numeric-id" : [ "14526430" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796961836/bio-photo-square.jpg" ],
+        "published" : [ "2008-04-25T13:46:38+00:00" ],
+        "uid" : [ "tag:twitter.com:tastapod" ],
+        "url" : [ "https://twitter.com/tastapod", "http://dannorth.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“…your illustrators were so preoccupied with whether or not they could that they forgot to think if they should.”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nicolefv\"></a>",
+      "value" : "“…your illustrators were so preoccupied with whether or not they could that they forgot to think if they should.”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/nicolefv/status/1493395449981681664" ],
+    "published" : [ "2022-02-15T06:37:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1493474646032850946" ],
+    "url" : [ "https://twitter.com/tastapod/status/1493474646032850946" ]
+  },
+  "type" : [ "h-entry" ]
+}
