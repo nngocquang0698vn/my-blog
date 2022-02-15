@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Write a blog post about B*tCo*n and you'll get ALL the pingback spam from the dodgiest sites.\n\nThis is such a scammy \"industry\". \n\nOn the pus side, I now now my full name in German is \"Terence Eden, ein britischer Nerd und Blogger,\"</div>",
+      "value" : "Write a blog post about B*tCo*n and you'll get ALL the pingback spam from the dodgiest sites.\n\nThis is such a scammy \"industry\". \n\nOn the pus side, I now now my full name in German is \"Terence Eden, ein britischer Nerd und Blogger,\""
+    } ],
+    "photo" : [ {
+      "alt" : "Screenshot of a dodgy looking German blog",
+      "value" : "https://pbs.twimg.com/media/DWFWkskXcAA7FAS.jpg"
+    }, {
+      "alt" : "Screenshot of dozens of pingbacks to my blog. ",
+      "value" : "https://pbs.twimg.com/media/DWFWlk3X4AAavC_.jpg"
+    } ],
+    "published" : [ "2018-02-15T14:38:56+00:00" ],
+    "uid" : [ "tag:twitter.com:964147018401767424" ],
+    "url" : [ "https://twitter.com/edent/status/964147018401767424" ]
+  },
+  "type" : [ "h-entry" ]
+}
