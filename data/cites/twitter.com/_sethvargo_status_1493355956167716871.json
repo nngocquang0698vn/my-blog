@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Seth Vargo" ],
+        "nickname" : [ "sethvargo" ],
+        "numeric-id" : [ "262914828" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808025120296013825/frGuc14s.jpg" ],
+        "published" : [ "2011-03-09T00:54:05+00:00" ],
+        "uid" : [ "tag:twitter.com:sethvargo" ],
+        "url" : [ "https://twitter.com/sethvargo", "https://www.sethvargo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Did you know you can authenticate to <a href=\"https://twitter.com/googlecloud\">@GoogleCloud</a> from <a href=\"https://twitter.com/gitlab\">@gitlab</a> CI/CD jobs? Check out this docs page that I helped write: <a href=\"https://docs.gitlab.com/ee/ci/cloud_services/google_cloud/index.html\">docs.gitlab.com/ee/ci/cloud_se…</a>",
+      "value" : "Did you know you can authenticate to @GoogleCloud from @gitlab CI/CD jobs? Check out this docs page that I helped write: docs.gitlab.com/ee/ci/cloud_se…"
+    } ],
+    "published" : [ "2022-02-14T22:46:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1493355956167716871" ],
+    "url" : [ "https://twitter.com/sethvargo/status/1493355956167716871" ]
+  },
+  "type" : [ "h-entry" ]
+}
