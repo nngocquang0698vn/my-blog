@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/github/status/…" ],
+        "url" : [ "https://twitter.com/github/status/1493271204303708164" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Winter Park, Fl" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ryan Paul 🍞" ],
+          "nickname" : [ "segphault" ],
+          "numeric-id" : [ "3741671" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/762785618879328256/qvU6aEMG.jpg" ],
+          "published" : [ "2007-04-07T22:39:20+00:00" ],
+          "uid" : [ "tag:twitter.com:segphault" ],
+          "url" : [ "https://twitter.com/segphault", "http://seg.phault.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This is a great feature. But it's worth noting that Mermaid depends heavily on a graph layout library called Dagre, which is now deprecated and unmaintained: <a href=\"https://github.com/dagrejs/dagre\">github.com/dagrejs/dagre</a> Maybe <a href=\"https://twitter.com/github\">@github</a> will consider sponsoring Dagre or one of its forks?\n<a class=\"tag\" href=\"https://twitter.com/github/status/1493271204303708164\">twitter.com/github/status/…</a>",
+        "value" : "This is a great feature. But it's worth noting that Mermaid depends heavily on a graph layout library called Dagre, which is now deprecated and unmaintained: github.com/dagrejs/dagre Maybe @github will consider sponsoring Dagre or one of its forks?"
+      } ],
+      "published" : [ "2022-02-14T18:03:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1493284689905393670" ],
+      "url" : [ "https://twitter.com/segphault/status/1493284689905393670" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ann Arbor, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Edward Vielmetti" ],
+        "nickname" : [ "w8emv" ],
+        "numeric-id" : [ "1292654086173667329" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1446039685768388611/xZCvknwK.jpg" ],
+        "published" : [ "2020-08-10T02:49:31+00:00" ],
+        "uid" : [ "tag:twitter.com:w8emv" ],
+        "url" : [ "https://twitter.com/w8emv", "https://vielmetti.typepad.com/w8emv" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "When <a href=\"https://twitter.com/github\">@github</a> announced a new feature (diagram support in Markdown, called \"Mermaid\") they also created a dependency on a library that is orphaned and no longer maintained. I think there's an xkcd for this that some of us have up on our wall.",
+      "value" : "When @github announced a new feature (diagram support in Markdown, called \"Mermaid\") they also created a dependency on a library that is orphaned and no longer maintained. I think there's an xkcd for this that some of us have up on our wall."
+    } ],
+    "published" : [ "2022-02-16T16:31:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1493986373027647491" ],
+    "url" : [ "https://twitter.com/w8emv/status/1493986373027647491" ]
+  },
+  "type" : [ "h-entry" ]
+}
