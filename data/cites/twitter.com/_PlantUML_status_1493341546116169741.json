@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brest, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "PlantUML" ],
+        "nickname" : [ "PlantUML" ],
+        "numeric-id" : [ "78260542" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/748075113724133376/IcberKHq.jpg" ],
+        "published" : [ "2009-09-29T09:07:45+00:00" ],
+        "uid" : [ "tag:twitter.com:PlantUML" ],
+        "url" : [ "https://twitter.com/PlantUML", "http://bit.ly/32ic1o" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A last option for us may be to use JSweet to transpile PlantUML in pure JavaScript. This means a lot of work on our side but this way we could have both Java and JavaScript implementation. Would that be useful ? <a href=\"http://www.jsweet.org/\">jsweet.org</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dpihac\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pt7be\"></a>",
+      "value" : "A last option for us may be to use JSweet to transpile PlantUML in pure JavaScript. This means a lot of work on our side but this way we could have both Java and JavaScript implementation. Would that be useful ? jsweet.org"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/pt7be/status/1493324897254313985" ],
+    "published" : [ "2022-02-14T21:49:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1493341546116169741" ],
+    "url" : [ "https://twitter.com/PlantUML/status/1493341546116169741" ]
+  },
+  "type" : [ "h-entry" ]
+}
