@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eli is feeling '22" ],
+        "nickname" : [ "elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491973518627643393/q0E2qWcy.jpg" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://www.rupify.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Are you just going to the airport for shopping at this point or are you still pretending to go on trips\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/carolstran\"></a>",
+      "value" : "Are you just going to the airport for shopping at this point or are you still pretending to go on trips"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/carolstran/status/1493570930236403712" ],
+    "published" : [ "2022-02-16T00:52:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1493750166171668480" ],
+    "url" : [ "https://twitter.com/elibelly/status/1493750166171668480" ]
+  },
+  "type" : [ "h-entry" ]
+}
