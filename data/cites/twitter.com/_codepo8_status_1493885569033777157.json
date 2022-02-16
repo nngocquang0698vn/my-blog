@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Heilmann" ],
+        "nickname" : [ "codepo8" ],
+        "numeric-id" : [ "13567" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268171639331737602/M7kMlBuB.jpg" ],
+        "published" : [ "2006-11-21T17:20:09+00:00" ],
+        "uid" : [ "tag:twitter.com:codepo8" ],
+        "url" : [ "https://twitter.com/codepo8", "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's a fair cop ." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Berlin, Germany" ],
+        "uid" : [ "tag:twitter.com:3078869807f9dd36" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Comic of a police officer catching a serial killer with his colleague asking how he caught him. The police officer shows him a room with evidence. The room is full of weapons and skeletons but the officer shows the computer and explains that only a serial killer would code on white background.",
+      "value" : "https://pbs.twimg.com/media/FLtZAf3WQAYCQGz.jpg"
+    } ],
+    "published" : [ "2022-02-16T09:50:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1493885569033777157" ],
+    "url" : [ "https://twitter.com/codepo8/status/1493885569033777157" ]
+  },
+  "type" : [ "h-entry" ]
+}
