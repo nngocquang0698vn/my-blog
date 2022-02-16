@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "GitHub" ],
+          "nickname" : [ "github" ],
+          "numeric-id" : [ "13334762" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9.jpg" ],
+          "published" : [ "2008-02-11T04:41:50+00:00" ],
+          "uid" : [ "tag:twitter.com:github" ],
+          "url" : [ "https://twitter.com/github", "http://git.io/c" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You can now embed diagrams directly into your Markdown files, Issues and PR comments using Mermaid. Learn more - <a href=\"https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/\">github.blog/2022-02-14-inc…</a>",
+        "value" : "You can now embed diagrams directly into your Markdown files, Issues and PR comments using Mermaid. Learn more - github.blog/2022-02-14-inc…"
+      } ],
+      "published" : [ "2022-02-14T17:09:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1493271204303708164" ],
+      "url" : [ "https://twitter.com/github/status/1493271204303708164" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Winter Park, Fl" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Paul 🍞" ],
+        "nickname" : [ "segphault" ],
+        "numeric-id" : [ "3741671" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/762785618879328256/qvU6aEMG.jpg" ],
+        "published" : [ "2007-04-07T22:39:20+00:00" ],
+        "uid" : [ "tag:twitter.com:segphault" ],
+        "url" : [ "https://twitter.com/segphault", "http://seg.phault.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is a great feature. But it's worth noting that Mermaid depends heavily on a graph layout library called Dagre, which is now deprecated and unmaintained: <a href=\"https://github.com/dagrejs/dagre\">github.com/dagrejs/dagre</a> Maybe <a href=\"https://twitter.com/github\">@github</a> will consider sponsoring Dagre or one of its forks?",
+      "value" : "This is a great feature. But it's worth noting that Mermaid depends heavily on a graph layout library called Dagre, which is now deprecated and unmaintained: github.com/dagrejs/dagre Maybe @github will consider sponsoring Dagre or one of its forks?"
+    } ],
+    "published" : [ "2022-02-14T18:03:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1493284689905393670" ],
+    "url" : [ "https://twitter.com/segphault/status/1493284689905393670" ]
+  },
+  "type" : [ "h-entry" ]
+}
