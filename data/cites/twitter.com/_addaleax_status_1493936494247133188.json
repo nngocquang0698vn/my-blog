@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Düsseldorf, Germany | @mongodb" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anna 🏳️‍⚧️ #blm" ],
+        "nickname" : [ "addaleax" ],
+        "numeric-id" : [ "135577613" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1257214686786977793/ahQYRKU8.jpg" ],
+        "published" : [ "2010-04-21T18:03:17+00:00" ],
+        "uid" : [ "tag:twitter.com:addaleax" ],
+        "url" : [ "https://twitter.com/addaleax" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "there is a special place in hell for developers who give their cli’s -v flag a meaning other than version/verbose" ],
+    "published" : [ "2022-02-16T13:13:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1493936494247133188" ],
+    "url" : [ "https://twitter.com/addaleax/status/1493936494247133188" ]
+  },
+  "type" : [ "h-entry" ]
+}
