@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "NBC News" ],
+          "nickname" : [ "NBCNews" ],
+          "numeric-id" : [ "14173315" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG.jpg" ],
+          "published" : [ "2008-03-18T23:19:17+00:00" ],
+          "uid" : [ "tag:twitter.com:NBCNews" ],
+          "url" : [ "https://twitter.com/NBCNews", "http://NBCNews.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "A 9-year-old girl died after she was struck by a bullet fired by a man who had just been been robbed, Houston police say. <a href=\"https://nbcnews.to/3BmCGnw\">nbcnews.to/3BmCGnw</a>",
+        "value" : "A 9-year-old girl died after she was struck by a bullet fired by a man who had just been been robbed, Houston police say. nbcnews.to/3BmCGnw"
+      } ],
+      "published" : [ "2022-02-16T02:02:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1493767605546409989" ],
+      "url" : [ "https://twitter.com/NBCNews/status/1493767605546409989" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City, New York State" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Roth" ],
+        "nickname" : [ "david_j_roth" ],
+        "numeric-id" : [ "171346034" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224136390415437825/De8p8pCJ.png" ],
+        "published" : [ "2010-07-27T03:58:13+00:00" ],
+        "uid" : [ "tag:twitter.com:david_j_roth" ],
+        "url" : [ "https://twitter.com/david_j_roth" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It seems significant, if also ominous, that armed citizens popping off shots blindly are now afforded the same passive-construction rhetorical absolution for killing people that police get. " ],
+    "published" : [ "2022-02-16T05:49:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1493824786031652866" ],
+    "url" : [ "https://twitter.com/david_j_roth/status/1493824786031652866" ]
+  },
+  "type" : [ "h-entry" ]
+}
