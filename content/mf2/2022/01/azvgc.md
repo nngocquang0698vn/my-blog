@@ -7,12 +7,12 @@
     "syndication" : [ "https://brid.gy/publish/twitter" ],
     "name" : [ "Like of @OLAASM's tweet" ],
     "published" : [ "2022-01-03T13:58:00+0000" ],
-    "category" : [ "politics", "coronavirus a" ],
+    "category" : [ "politics", "coronavirus" ],
     "like-of" : [ "https://twitter.com/OLAASM/status/1477816752113397762" ],
     "post-status" : [ "published" ]
   },
   "kind" : "likes",
   "slug" : "2022/01/azvgc",
-  "tags" : [ "politics", "coronavirus a" ],
+  "tags" : [ "politics", "coronavirus" ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }
