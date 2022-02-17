@@ -21,7 +21,7 @@ build_test_site:
     changes:
       - themes/*
   except:
-    - master
+    - main
 
 theme_branch:
   image: alpine:latest
@@ -32,7 +32,7 @@ theme_branch:
   only:
     - branches
   except:
-    - master
+    - main
 # }}}
 
 build:
@@ -50,7 +50,7 @@ build:
   script:
     - hugo --verbose --minify
   only:
-    - master
+    - main
 
 deploy:
   stage: deploy
@@ -67,4 +67,4 @@ deploy:
   script:
     - hugo deploy --log --verbose --maxDeletes -1
   only:
-    - master
+    - main
