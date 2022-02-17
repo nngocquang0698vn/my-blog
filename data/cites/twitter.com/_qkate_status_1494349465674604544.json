@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Taggart" ],
+        "nickname" : [ "qkate" ],
+        "numeric-id" : [ "37586090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1035671141598285824/48WwuXyb.jpg" ],
+        "published" : [ "2009-05-04T03:38:47+00:00" ],
+        "uid" : [ "tag:twitter.com:qkate" ],
+        "url" : [ "https://twitter.com/qkate", "http://www.katetaggart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/SREcon\">@SREcon</a> doing it right. I'm so happy to see an organization actually giving a damn. If my mobility allowed right now, I would actually go IRL to this:\n\n<a href=\"https://s.usenix.org/acton/media/2452/srecon22-americas-covid-safety-updates\">s.usenix.org/acton/media/24…</a></div>",
+      "value" : "@SREcon doing it right. I'm so happy to see an organization actually giving a damn. If my mobility allowed right now, I would actually go IRL to this:\n\ns.usenix.org/acton/media/24…"
+    } ],
+    "published" : [ "2022-02-17T16:34:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1494349465674604544" ],
+    "url" : [ "https://twitter.com/qkate/status/1494349465674604544" ]
+  },
+  "type" : [ "h-entry" ]
+}
