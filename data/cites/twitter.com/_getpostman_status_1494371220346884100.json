@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The magical land of APIs" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Postman" ],
+        "nickname" : [ "getpostman" ],
+        "numeric-id" : [ "517705687" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1420733347131756549/cNnhvGE9.jpg" ],
+        "published" : [ "2012-03-07T15:45:03+00:00" ],
+        "uid" : [ "tag:twitter.com:getpostman" ],
+        "url" : [ "https://twitter.com/getpostman", "https://www.postman.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "With Postman now supporting the latest version of OpenAPI, learn how to import OpenAPI 3.1 files and start working with them today. Postman Software Engineer Ankit Saini explains: <a href=\"https://blog.postman.com/postman-now-supports-openapi-3-1/\">blog.postman.com/postman-now-su…</a>",
+      "value" : "With Postman now supporting the latest version of OpenAPI, learn how to import OpenAPI 3.1 files and start working with them today. Postman Software Engineer Ankit Saini explains: blog.postman.com/postman-now-su…"
+    } ],
+    "published" : [ "2022-02-17T18:00:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1494371220346884100" ],
+    "url" : [ "https://twitter.com/getpostman/status/1494371220346884100" ]
+  },
+  "type" : [ "h-entry" ]
+}
