@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montreal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🔎Julia Evans🔍" ],
+        "nickname" : [ "b0rk" ],
+        "numeric-id" : [ "6603532" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/846106819391115264/iZAxk4qr.jpg" ],
+        "published" : [ "2007-06-05T21:05:09+00:00" ],
+        "uid" : [ "tag:twitter.com:b0rk" ],
+        "url" : [ "https://twitter.com/b0rk", "http://jvns.ca", "http://wizardzines.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">a nice thing about writing with less jargon is that if what I'm saying doesn't make sense, it's easy for readers to call me on it\n\nif you use a lot of impenetrable jargon, people will often think the problem is with *them* instead of with your writing</div>",
+      "value" : "a nice thing about writing with less jargon is that if what I'm saying doesn't make sense, it's easy for readers to call me on it\n\nif you use a lot of impenetrable jargon, people will often think the problem is with *them* instead of with your writing"
+    } ],
+    "published" : [ "2022-02-18T14:50:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1494685741921751047" ],
+    "url" : [ "https://twitter.com/b0rk/status/1494685741921751047" ]
+  },
+  "type" : [ "h-entry" ]
+}
