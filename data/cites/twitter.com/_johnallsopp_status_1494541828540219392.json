@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gadigal Country (Sydney)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Allsopp" ],
+        "nickname" : [ "johnallsopp" ],
+        "numeric-id" : [ "99843" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/647987433112363010/v3xZY1RP.jpg" ],
+        "published" : [ "2006-12-21T07:21:57+00:00" ],
+        "uid" : [ "tag:twitter.com:johnallsopp" ],
+        "url" : [ "https://twitter.com/johnallsopp", "http://webdirections.org", "http://johnfallsopp.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The Batmans will continue until morale improves\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shanselman\"></a>",
+      "value" : "The Batmans will continue until morale improves"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/shanselman/status/1494541633978732547" ],
+    "published" : [ "2022-02-18T05:18:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1494541828540219392" ],
+    "url" : [ "https://twitter.com/johnallsopp/status/1494541828540219392" ]
+  },
+  "type" : [ "h-entry" ]
+}
