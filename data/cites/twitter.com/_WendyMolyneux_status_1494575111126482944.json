@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "City of Vinci" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Wendy Molyneux" ],
+        "nickname" : [ "WendyMolyneux" ],
+        "numeric-id" : [ "13073662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1044085580651528193/DR7QvrwG.jpg" ],
+        "published" : [ "2008-02-05T00:36:43+00:00" ],
+        "uid" : [ "tag:twitter.com:WendyMolyneux" ],
+        "url" : [ "https://twitter.com/WendyMolyneux", "http://www.wendys.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m writing Spider Ma’am, about a middle aged woman who gets bitten by a radioactive spider but keeps it to herself because she doesn’t freaking need this." ],
+    "published" : [ "2022-02-18T07:30:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1494575111126482944" ],
+    "url" : [ "https://twitter.com/WendyMolyneux/status/1494575111126482944" ]
+  },
+  "type" : [ "h-entry" ]
+}
