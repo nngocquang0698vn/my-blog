@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Abby Fuller" ],
+        "nickname" : [ "abbyfuller" ],
+        "numeric-id" : [ "51848919" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379241604481904643/IoGYSCEL.jpg" ],
+        "published" : [ "2009-06-28T21:25:20+00:00" ],
+        "uid" : [ "tag:twitter.com:abbyfuller" ],
+        "url" : [ "https://twitter.com/abbyfuller", "https://aws.amazon.com/security/vulnerability-reporting/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "who could have predicted that smart contracts would turn out to not be smart" ],
+    "published" : [ "2022-02-20T04:46:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1495258475252707328" ],
+    "url" : [ "https://twitter.com/abbyfuller/status/1495258475252707328" ]
+  },
+  "type" : [ "h-entry" ]
+}
