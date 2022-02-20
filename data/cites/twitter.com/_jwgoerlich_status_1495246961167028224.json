@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sandy Frizzle" ],
+          "nickname" : [ "SandyFrizzle" ],
+          "numeric-id" : [ "1217277241131925510" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1457517194364035073/-v439t3S.jpg" ],
+          "published" : [ "2020-01-15T02:48:14+00:00" ],
+          "uid" : [ "tag:twitter.com:SandyFrizzle" ],
+          "url" : [ "https://twitter.com/SandyFrizzle", "https://linktr.ee/SandyFrizzle" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If you get enough followers on twitter some people create their own incorrect lore about your life" ],
+      "published" : [ "2022-02-18T16:12:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1494706390342029328" ],
+      "url" : [ "https://twitter.com/SandyFrizzle/status/1494706390342029328" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/sandyfrizzle/s…" ],
+      "url" : [ "https://twitter.com/sandyfrizzle/status/1494706390342029328" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "J Wolfgang Goerlich" ],
+        "nickname" : [ "jwgoerlich" ],
+        "numeric-id" : [ "35797450" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346880257849233409/4rTLkGlX.jpg" ],
+        "published" : [ "2009-04-27T17:14:44+00:00" ],
+        "uid" : [ "tag:twitter.com:jwgoerlich" ],
+        "url" : [ "https://twitter.com/jwgoerlich", "https://jwgoerlich.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Reminds me of the time I was declared prematurely dead, and y’all wrote a delightfully exciting (though a tad incorrect) obituary.\n<a class=\"tag\" href=\"https://twitter.com/sandyfrizzle/status/1494706390342029328\">twitter.com/sandyfrizzle/s…</a>",
+      "value" : "Reminds me of the time I was declared prematurely dead, and y’all wrote a delightfully exciting (though a tad incorrect) obituary."
+    } ],
+    "published" : [ "2022-02-20T04:00:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1495246961167028224" ],
+    "url" : [ "https://twitter.com/jwgoerlich/status/1495246961167028224" ]
+  },
+  "type" : [ "h-entry" ]
+}
