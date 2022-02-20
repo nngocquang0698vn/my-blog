@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Wroblewski" ],
+        "nickname" : [ "sarahwroblewski" ],
+        "numeric-id" : [ "28888320" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1057262773342748672/MVaely-U.jpg" ],
+        "published" : [ "2009-04-04T22:52:41+00:00" ],
+        "uid" : [ "tag:twitter.com:sarahwroblewski" ],
+        "url" : [ "https://twitter.com/sarahwroblewski", "https://www.facebook.com/MeteorologistSarahWroblewski/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This time-lapse of <a href=\"https://twitter.com/search?q=%23Boston\">#Boston</a> during a snow squall is simply amazing. Check it out!",
+      "value" : "This time-lapse of #Boston during a snow squall is simply amazing. Check it out!"
+    } ],
+    "published" : [ "2022-02-20T01:09:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1495203962416418828" ],
+    "url" : [ "https://twitter.com/sarahwroblewski/status/1495203962416418828" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1495203632295337995/pu/vid/1280x720/e7yLFNX_nY2frPYX.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
