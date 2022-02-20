@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Derby, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob Whitaker" ],
+        "nickname" : [ "RobRWAPP" ],
+        "numeric-id" : [ "21470415" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268088757640671234/_4GnBzQR.jpg" ],
+        "published" : [ "2009-02-21T07:51:37+00:00" ],
+        "uid" : [ "tag:twitter.com:RobRWAPP" ],
+        "url" : [ "https://twitter.com/RobRWAPP", "https://www.apress.com/gp/book/9781484258132" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Do you have experience with htmlproofer?\nIt gleefully tells me there are errors, but will not tell me what these errors are. How do I find out?</div>",
+      "value" : "Do you have experience with htmlproofer?\nIt gleefully tells me there are errors, but will not tell me what these errors are. How do I find out?"
+    } ],
+    "published" : [ "2022-02-20T17:12:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1495446292587233289" ],
+    "url" : [ "https://twitter.com/RobRWAPP/status/1495446292587233289" ]
+  },
+  "type" : [ "h-entry" ]
+}
