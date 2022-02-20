@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "IndieWire" ],
+          "nickname" : [ "IndieWire" ],
+          "numeric-id" : [ "13992132" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1429177637344321542/CZoJpK71.jpg" ],
+          "published" : [ "2008-02-26T08:25:08+00:00" ],
+          "uid" : [ "tag:twitter.com:IndieWire" ],
+          "url" : [ "https://twitter.com/IndieWire", "http://indiewire.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Paul Dano Couldn’t Sleep While Filming ‘The Batman’ Due to Playing a ‘Terrifying’ Riddler <a href=\"https://bit.ly/3I4tBSS\">bit.ly/3I4tBSS</a>",
+        "value" : "Paul Dano Couldn’t Sleep While Filming ‘The Batman’ Due to Playing a ‘Terrifying’ Riddler bit.ly/3I4tBSS"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FL6C5iAWYAAnh5T.jpg" ],
+      "published" : [ "2022-02-19T00:02:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1494824551913607179" ],
+      "url" : [ "https://twitter.com/IndieWire/status/1494824551913607179" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/indiewire/stat…" ],
+      "url" : [ "https://twitter.com/indiewire/status/1494824551913607179" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "sydney" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "james hennessy" ],
+        "nickname" : [ "jrhennessy" ],
+        "numeric-id" : [ "187465681" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1150918161430040576/hr08GTsK.png" ],
+        "published" : [ "2010-09-06T09:12:26+00:00" ],
+        "uid" : [ "tag:twitter.com:jrhennessy" ],
+        "url" : [ "https://twitter.com/jrhennessy", "http://www.theterminal.info" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Love getting to the contractually mandated part of a Batman movie press tour where all the guys who played the villains pretend that they are now hopelessly insane\n<a class=\"tag\" href=\"https://twitter.com/indiewire/status/1494824551913607179\">twitter.com/indiewire/stat…</a>",
+      "value" : "Love getting to the contractually mandated part of a Batman movie press tour where all the guys who played the villains pretend that they are now hopelessly insane"
+    } ],
+    "published" : [ "2022-02-19T23:07:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1495173186832707584" ],
+    "url" : [ "https://twitter.com/jrhennessy/status/1495173186832707584" ]
+  },
+  "type" : [ "h-entry" ]
+}
