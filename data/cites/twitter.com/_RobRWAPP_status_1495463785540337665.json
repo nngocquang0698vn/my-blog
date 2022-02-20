@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Derby, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob Whitaker" ],
+        "nickname" : [ "RobRWAPP" ],
+        "numeric-id" : [ "21470415" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268088757640671234/_4GnBzQR.jpg" ],
+        "published" : [ "2009-02-21T07:51:37+00:00" ],
+        "uid" : [ "tag:twitter.com:RobRWAPP" ],
+        "url" : [ "https://twitter.com/RobRWAPP", "https://www.apress.com/gp/book/9781484258132" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is the output I get\n\nRunning [\"HtmlCheck\", \"ImageCheck\", \"LinkCheck\", \"ScriptCheck\"] on [\"./public\"] on *.html... \n\nAdding 87 links to the cache...\nRemoving 0 links from the cache...\nFound 87 internal links in the cache...\nRan on 74 files!\n\nHTML-Proofer found 9 failures!</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "This is the output I get\n\nRunning [\"HtmlCheck\", \"ImageCheck\", \"LinkCheck\", \"ScriptCheck\"] on [\"./public\"] on *.html... \n\nAdding 87 links to the cache...\nRemoving 0 links from the cache...\nFound 87 internal links in the cache...\nRan on 74 files!\n\nHTML-Proofer found 9 failures!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RobRWAPP/status/1495463708377722880" ],
+    "published" : [ "2022-02-20T18:22:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1495463785540337665" ],
+    "url" : [ "https://twitter.com/RobRWAPP/status/1495463785540337665" ]
+  },
+  "type" : [ "h-entry" ]
+}
