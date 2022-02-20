@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Burroughs" ],
+        "nickname" : [ "richburroughs" ],
+        "numeric-id" : [ "19552154" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1200607261082705920/HMNZOqa-.jpg" ],
+        "published" : [ "2009-01-26T19:35:35+00:00" ],
+        "uid" : [ "tag:twitter.com:richburroughs" ],
+        "url" : [ "https://twitter.com/richburroughs", "https://twitch.tv/richburroughs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "They are writing code that has to be bug free and not exploitable in any unpredictable way. That seems like a systemic problem to me.  Even seniors write bugs.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ChristianKIC\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/abbyfuller\"></a>",
+      "value" : "They are writing code that has to be bug free and not exploitable in any unpredictable way. That seems like a systemic problem to me.  Even seniors write bugs."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ChristianKIC/status/1495318775448707072" ],
+    "published" : [ "2022-02-20T18:25:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1495464522613542913" ],
+    "url" : [ "https://twitter.com/richburroughs/status/1495464522613542913" ]
+  },
+  "type" : [ "h-entry" ]
+}
