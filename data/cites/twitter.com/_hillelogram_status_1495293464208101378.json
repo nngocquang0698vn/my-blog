@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL, USA, The World" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ja Dennis" ],
+          "nickname" : [ "FartSandwich" ],
+          "numeric-id" : [ "14983455" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/136991509/n508674080_1075081_6715.jpg" ],
+          "published" : [ "2008-06-02T18:49:40+00:00" ],
+          "uid" : [ "tag:twitter.com:FartSandwich" ],
+          "url" : [ "https://twitter.com/FartSandwich", "http://www.foodisstupid.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">One day I thought to myself, \"Why can't bread be refreshing?\" So, I replaced all the water in the classic no-knead bread recipe with Gatorade.\n\n<a href=\"https://foodisstupid.substack.com/p/no-knead-gatorade-bread?r=1z40q\">foodisstupid.substack.com/p/no-knead-gat…</a></div>",
+        "value" : "One day I thought to myself, \"Why can't bread be refreshing?\" So, I replaced all the water in the classic no-knead bread recipe with Gatorade.\n\nfoodisstupid.substack.com/p/no-knead-gat…"
+      } ],
+      "published" : [ "2022-02-16T16:19:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1493983427946852355" ],
+      "url" : [ "https://twitter.com/FartSandwich/status/1493983427946852355" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1495311640174153733/W_P3LjFp.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://is.gd/ptlaplus", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Eight years ago I made a bread with hummus instead of water, and it turned out amazingly good\n\nI've been too afraid to repeat in the experiment, in terror that I'll never recapture that magic</div>",
+      "value" : "Eight years ago I made a bread with hummus instead of water, and it turned out amazingly good\n\nI've been too afraid to repeat in the experiment, in terror that I'll never recapture that magic"
+    } ],
+    "published" : [ "2022-02-20T07:05:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1495293464208101378" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1495293464208101378" ]
+  },
+  "type" : [ "h-entry" ]
+}
