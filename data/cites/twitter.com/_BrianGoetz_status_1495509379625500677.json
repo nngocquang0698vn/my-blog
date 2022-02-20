@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Williston, VT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Goetz" ],
+        "nickname" : [ "BrianGoetz" ],
+        "numeric-id" : [ "14639927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196480383572946945/7CpHEspn.jpg" ],
+        "published" : [ "2008-05-03T17:49:06+00:00" ],
+        "uid" : [ "tag:twitter.com:BrianGoetz" ],
+        "url" : [ "https://twitter.com/BrianGoetz", "http://amzn.to/2nzZnkl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you have to prefix it with \"smart\", it probably isn't\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/abbyfuller\"></a>",
+      "value" : "If you have to prefix it with \"smart\", it probably isn't"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/abbyfuller/status/1495258475252707328" ],
+    "published" : [ "2022-02-20T21:23:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1495509379625500677" ],
+    "url" : [ "https://twitter.com/BrianGoetz/status/1495509379625500677" ]
+  },
+  "type" : [ "h-entry" ]
+}
