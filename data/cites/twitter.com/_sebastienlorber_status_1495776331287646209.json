@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "📨 For Serious React Devs 👇" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sebastien Lorber 🇫🇷 🦖 ⚛️ 📨" ],
+        "nickname" : [ "sebastienlorber" ],
+        "numeric-id" : [ "40663578" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/573206276819140608/gKAusMeX.jpeg" ],
+        "published" : [ "2009-05-17T14:04:58+00:00" ],
+        "uid" : [ "tag:twitter.com:sebastienlorber" ],
+        "url" : [ "https://twitter.com/sebastienlorber", "http://ThisWeekInReact.com", "http://ReactHebdo.fr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TIL this GitHub Actions trick\n\nWhen a PR has multiple consecutive commits (ie fixing typos 😏)\n\n➡️ these 3 lines save resources and cancel previous useless CI runs\n\nvia <a href=\"https://twitter.com/bitandbang\">@bitandbang</a> <a href=\"https://twitter.com/targos89\">@targos89</a> in Node.js PR: <a href=\"https://github.com/nodejs/node/pull/42017\">github.com/nodejs/node/pu…</a></div>",
+      "value" : "TIL this GitHub Actions trick\n\nWhen a PR has multiple consecutive commits (ie fixing typos 😏)\n\n➡️ these 3 lines save resources and cancel previous useless CI runs\n\nvia @bitandbang @targos89 in Node.js PR: github.com/nodejs/node/pu…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMIP9K0WYAMhF70.jpg" ],
+    "published" : [ "2022-02-21T15:04:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1495776331287646209" ],
+    "url" : [ "https://twitter.com/sebastienlorber/status/1495776331287646209" ]
+  },
+  "type" : [ "h-entry" ]
+}
