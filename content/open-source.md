@@ -23,3 +23,12 @@ There are a few Free and Open Source projects that I maintain:
 - [openapi.tanna.dev](https://gitlab.com/jamietanna/openapi.tanna.dev)
 
 I also work very hard on producing Free and Open Source solutions as part of the content on this website.
+
+I also host a number of services:
+
+- [rsvp-calendar.tanna.dev](https://rsvp-calendar.tanna.dev/)
+- [books-mf2.herokuapp.com](https://books-mf2.herokuapp.com)
+- [meetup-mf2.herokuapp.com](https://meetup-mf2.herokuapp.com)
+- [eventbrite-mf2.herokuapp.com](https://eventbrite-mf2.herokuapp.com)
+- [tokens-pls.herokuapp.com](https://tokens-pls.herokuapp.com/)
+- [openapi.tanna.dev](https://openapi.tanna.dev)
