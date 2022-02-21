@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Andersen 💉💉💉🎉" ],
+        "nickname" : [ "dave_andersen" ],
+        "numeric-id" : [ "15973037" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334709768284475393/RM3VWM4V.jpg" ],
+        "published" : [ "2008-08-24T21:43:43+00:00" ],
+        "uid" : [ "tag:twitter.com:dave_andersen" ],
+        "url" : [ "https://twitter.com/dave_andersen", "http://www.cs.cmu.edu/~dga/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Dear Medical Twitter: After 2+ years of saving the rest of us from misinformation, please let CS twitter return a tiny favor:\n\nNYT did not make Wordle's words harder.\n\nYour symptoms are valid (it feels harder), but your diagnosis from Twitter info is not.\n\n1/8</div>",
+      "value" : "Dear Medical Twitter: After 2+ years of saving the rest of us from misinformation, please let CS twitter return a tiny favor:\n\nNYT did not make Wordle's words harder.\n\nYour symptoms are valid (it feels harder), but your diagnosis from Twitter info is not.\n\n1/8"
+    } ],
+    "published" : [ "2022-02-20T22:46:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1495530221096873993" ],
+    "url" : [ "https://twitter.com/dave_andersen/status/1495530221096873993" ]
+  },
+  "type" : [ "h-entry" ]
+}
