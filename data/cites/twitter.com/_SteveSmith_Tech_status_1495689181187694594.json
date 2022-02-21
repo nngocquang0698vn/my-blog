@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Smith" ],
+        "nickname" : [ "SteveSmith_Tech" ],
+        "numeric-id" : [ "404991267" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305974341444743169/nWOpSumW.jpg" ],
+        "published" : [ "2011-11-04T18:00:19+00:00" ],
+        "uid" : [ "tag:twitter.com:SteveSmith_Tech" ],
+        "url" : [ "https://twitter.com/SteveSmith_Tech", "http://www.stevesmith.tech", "http://leanpub.com/u/stevesmith", "http://stevesmith.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My blog backlog is empty for the first time in 10 years" ],
+    "in-reply-to" : [ "https://twitter.com/SteveSmith_Tech/status/1495688874332495872" ],
+    "published" : [ "2022-02-21T09:17:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1495689181187694594" ],
+    "url" : [ "https://twitter.com/SteveSmith_Tech/status/1495689181187694594" ]
+  },
+  "type" : [ "h-entry" ]
+}
