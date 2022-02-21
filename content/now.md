@@ -7,6 +7,15 @@ This page is inspired by <span class="h-card"><a class="p-name u-url" href="http
 
 This is both for longer-lived interests and shorter-lived "what I'm currently doing".
 
+What am I up to right now?
+
+- Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/)
+- I'm currently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
+- I'm actively blogging about technical and personal things
+- I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
+- I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
+- I'm looking to play more board games and socialise more
+
 What are my interests?
 
 - Blogging
@@ -19,15 +28,6 @@ What are my interests?
 - Infrastructure-as-code
 - DevOps
 - Tech Meetups
-
-What am I up to right now?
-
-- Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/)
-- I'm currently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
-- I'm actively blogging about technical and personal things
-- I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
-- I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
-- I'm looking to play more board games and socialise more
 
 What are my Operating System preferences?
 
