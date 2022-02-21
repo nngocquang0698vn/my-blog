@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly Struve 🦄" ],
+        "nickname" : [ "molly_struve" ],
+        "numeric-id" : [ "4542932414" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441894091084677123/EIwVtaj2.jpg" ],
+        "published" : [ "2015-12-13T01:44:07+00:00" ],
+        "uid" : [ "tag:twitter.com:molly_struve" ],
+        "url" : [ "https://twitter.com/molly_struve", "https://dev.to/molly_struve" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Aspiring dev: How do I debug my code? How do I read the logs from a server? How do I review a pull request?\n\nCollege: Today we are going to talk about algorithms and computational theory!</div>",
+      "value" : "Aspiring dev: How do I debug my code? How do I read the logs from a server? How do I review a pull request?\n\nCollege: Today we are going to talk about algorithms and computational theory!"
+    } ],
+    "published" : [ "2022-02-21T17:36:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1495814671118577665" ],
+    "url" : [ "https://twitter.com/molly_struve/status/1495814671118577665" ]
+  },
+  "type" : [ "h-entry" ]
+}
