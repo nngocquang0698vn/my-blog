@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "⚡️ Salma | whitep4nth3r" ],
+        "nickname" : [ "whitep4nth3r" ],
+        "numeric-id" : [ "1279007923990134785" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461360329619763206/FbjYze58.jpg" ],
+        "published" : [ "2020-07-03T11:04:15+00:00" ],
+        "uid" : [ "tag:twitter.com:whitep4nth3r" ],
+        "url" : [ "https://twitter.com/whitep4nth3r", "https://whitep4nth3r.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Adding the CSS blur filter on DOM elements you don't want to draw attention to in screenshots for blog posts is 🤌🏼" ],
+    "photo" : [ {
+      "alt" : "A screenshot from the Contentful UI showing three items blurred using the CSS blur filter which draws attention to the remaining non-blurred item.",
+      "value" : "https://pbs.twimg.com/media/FMIb0q0WYAMP76V.png"
+    } ],
+    "published" : [ "2022-02-21T15:53:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1495788689917685763" ],
+    "url" : [ "https://twitter.com/whitep4nth3r/status/1495788689917685763" ]
+  },
+  "type" : [ "h-entry" ]
+}
