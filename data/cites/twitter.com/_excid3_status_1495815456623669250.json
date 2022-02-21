@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "STL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Oliver" ],
+          "nickname" : [ "excid3" ],
+          "numeric-id" : [ "14057736" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/378800000581128889/3b902546b837afd7b3cd20faf95c4be7.jpeg" ],
+          "published" : [ "2008-02-28T22:46:15+00:00" ],
+          "uid" : [ "tag:twitter.com:excid3" ],
+          "url" : [ "https://twitter.com/excid3", "http://excid3.com", "http://GoRails.com", "http://JumpstartRails.com", "http://Hatchbox.io", "http://RailsBytes.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "My next startup is going to be a <a href=\"https://twitter.com/stripe\">@Stripe</a> plugin where we bring you an oversized check to your front door when you hiy major milestones for your business.",
+        "value" : "My next startup is going to be a @Stripe plugin where we bring you an oversized check to your front door when you hiy major milestones for your business."
+      } ],
+      "published" : [ "2021-05-05T23:52:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1390092081188720646" ],
+      "url" : [ "https://twitter.com/excid3/status/1390092081188720646" ],
+      "video" : [ "https://video.twimg.com/tweet_video/E0qZYI2XoAADGdE.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "STL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Oliver" ],
+        "nickname" : [ "excid3" ],
+        "numeric-id" : [ "14057736" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000581128889/3b902546b837afd7b3cd20faf95c4be7.jpeg" ],
+        "published" : [ "2008-02-28T22:46:15+00:00" ],
+        "uid" : [ "tag:twitter.com:excid3" ],
+        "url" : [ "https://twitter.com/excid3", "http://excid3.com", "http://GoRails.com", "http://JumpstartRails.com", "http://Hatchbox.io", "http://RailsBytes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "💳 OMG <a href=\"https://twitter.com/stripe\">@Stripe</a> actually sent me an oversized check for my milestone! 💖 ",
+      "value" : "💳 OMG @Stripe actually sent me an oversized check for my milestone! 💖 "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMI0OpCWUAgVLvS.jpg" ],
+    "published" : [ "2022-02-21T17:39:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1495815456623669250" ],
+    "url" : [ "https://twitter.com/excid3/status/1495815456623669250" ]
+  },
+  "type" : [ "h-entry" ]
+}
