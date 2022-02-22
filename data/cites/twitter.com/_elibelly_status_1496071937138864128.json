@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eli is feeling '22" ],
+        "nickname" : [ "elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491973518627643393/q0E2qWcy.jpg" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://www.rupify.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">happy birthday, <a href=\"https://twitter.com/monzo\">@monzo</a> 🧡🧡🧡\n\nyou da best</div>",
+      "value" : "happy birthday, @monzo 🧡🧡🧡\n\nyou da best"
+    } ],
+    "published" : [ "2022-02-22T10:38:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1496071937138864128" ],
+    "url" : [ "https://twitter.com/elibelly/status/1496071937138864128" ]
+  },
+  "type" : [ "h-entry" ]
+}
