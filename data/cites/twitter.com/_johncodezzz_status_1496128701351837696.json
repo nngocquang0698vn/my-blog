@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John McBride" ],
+        "nickname" : [ "johncodezzz" ],
+        "numeric-id" : [ "1055135508504862720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1327732334238392320/qBd-UrHd.jpg" ],
+        "published" : [ "2018-10-24T16:34:43+00:00" ],
+        "uid" : [ "tag:twitter.com:johncodezzz" ],
+        "url" : [ "https://twitter.com/johncodezzz", "http://youtube.com/c/JohnCodes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s almost like, maintaining software is even harder than writing it??" ],
+    "published" : [ "2022-02-22T14:24:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1496128701351837696" ],
+    "url" : [ "https://twitter.com/johncodezzz/status/1496128701351837696" ]
+  },
+  "type" : [ "h-entry" ]
+}
