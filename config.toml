@@ -227,6 +227,12 @@ notAlternative = true
     url = "/salary/"
     weight = 46
   [[menu.footer]]
+    identifier = "manual-of-me"
+    name = "Manual of Me"
+    title = "Manual of Me"
+    url = "https://manual.jvt.me/"
+    weight = 47
+  [[menu.footer]]
     identifier = "open-source"
     name = "Open Source Projects I Maintain"
     title = "Open Source Projects I Maintain"
