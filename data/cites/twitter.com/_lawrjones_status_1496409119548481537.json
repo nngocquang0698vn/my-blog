@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lawrence Jones" ],
+        "nickname" : [ "lawrjones" ],
+        "numeric-id" : [ "1299926126" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000736665383/483e4d91d596a885561a35c68d95cf5e.jpeg" ],
+        "published" : [ "2013-03-25T15:27:20+00:00" ],
+        "uid" : [ "tag:twitter.com:lawrjones" ],
+        "url" : [ "https://twitter.com/lawrjones", "https://blog.lawrencejones.dev/", "http://blog.lawrencejones.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Turned up for a recruitment session:\n🚩 Greeted by a man called \"Cheesus\", whose sole purpose was to deliver cheese &amp; wine\n🚩 Asked why 100 eng team had ~2 women. \"We care about culture, big part is arrogance. Women less arrogant, don't want to compromise on culture tho\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jesslynnrose\"></a>",
+      "value" : "Turned up for a recruitment session:\n🚩 Greeted by a man called \"Cheesus\", whose sole purpose was to deliver cheese & wine\n🚩 Asked why 100 eng team had ~2 women. \"We care about culture, big part is arrogance. Women less arrogant, don't want to compromise on culture tho\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jesslynnrose/status/1496384401827057665" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Islington, London" ],
+        "uid" : [ "tag:twitter.com:544762ebf7fda780" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-02-23T08:58:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1496409119548481537" ],
+    "url" : [ "https://twitter.com/lawrjones/status/1496409119548481537" ]
+  },
+  "type" : [ "h-entry" ]
+}
