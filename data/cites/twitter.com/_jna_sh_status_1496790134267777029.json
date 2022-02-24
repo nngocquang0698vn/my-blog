@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tech tweeters read the room challenge" ],
+    "published" : [ "2022-02-24T10:12:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1496790134267777029" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1496790134267777029" ]
+  },
+  "type" : [ "h-entry" ]
+}
