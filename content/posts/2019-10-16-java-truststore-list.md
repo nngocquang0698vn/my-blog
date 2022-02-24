@@ -36,7 +36,7 @@ This is very important to verify that it's actually set up as you'd expect, but 
 By running the following command, we can get the list of certs, with the certificate alias for the certificate within the trust store, as well as a fingerprint:
 
 ```
-$ keytool -list /path/to/truststore -storepass ${STOREPASS}
+$ keytool -list -keystore /path/to/truststore -storepass ${STOREPASS}
 Keystore type: jks
 Keystore provider: SUN
 
@@ -51,7 +51,7 @@ Certificate fingerprint (SHA1): 05:63:B8:63:0D:62:D7:5A:BB:C8:AB:1E:4B:DF:B5:A8:
 If you want to be able to view the certificate's information as well as the PEM-encoded certificate details, you will want to use the ["RFC style" output](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/keytool.html#EncodeCertificate):
 
 ```
-$ keytool -list /path/to/truststore -storepass ${STOREPASS} -rfc
+$ keytool -list -keystore /path/to/truststore -storepass ${STOREPASS} -rfc
 Keystore type: jks
 Keystore provider: SUN
 
@@ -92,7 +92,7 @@ You can then go on to check the [fingerprint of the certificate](/posts/2019/04/
 If you wish to see a bit more information about the certs such as the owner, issuer, validity period and information about the algorithms, without [using OpenSSL](/posts/2018/11/02/viewing-x509-pem-openssl/), you can use the verbose mode:
 
 ```
-$ keytool -list /path/to/truststore -storepass ${STOREPASS} -v
+$ keytool -list -keystore /path/to/truststore -storepass ${STOREPASS} -v
 Keystore type: jks
 Keystore provider: SUN
 
