@@ -12,7 +12,7 @@ image: https://media.jvt.me/ec80c5961a.png
 syndication:
 - "https://brid.gy/publish/twitter"
 ---
-Last week, my colleague <span class="h-card"><a class="u-url" href="https://www.byandyparker.com/about.html">Andy</a></span> shared [Manual of Me](https://my.manualof.me/), which was very new to me.
+Last week, my colleague <span class="h-card"><a class="u-url" href="https://www.byandyparker.com">Andy</a></span> shared [Manual of Me](https://my.manualof.me/), which was very new to me.
 
 Andy had a great Manual of Andy which gave a lot of really good detail in how best to work together, and inspired by this I wanted to make a stab at it myself.
 
