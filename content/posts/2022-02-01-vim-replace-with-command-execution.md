@@ -28,3 +28,17 @@ If we have a handy executable called `jwt`, we'd be able to select the text, the
 Which can also be seen in the following Asciicast:
 
 <asciinema-player src="/casts/vim-replace-with-command-execution.json"></asciinema-player>
+
+This does not work, however, if you've got the following, where we want to unpack the internal JWT in this JSON object:
+
+```json
+{
+  "client_assertion": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+}
+```
+
+I've ended up preparing the following Vim keybinding that will replace the _selected text in a line_ with the result of the command [`unpack`](https://gitlab.com/jamietanna/dotfiles-arch/-/blob/main/terminal/home/bin/unpack):
+
+```vim
+vnoremap <leader>u y0"_DpV:'<,'>!unpack<CR>
+```
