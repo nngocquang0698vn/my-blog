@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "hankchizljaw" ],
+        "numeric-id" : [ "98734097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466423005500878852/reY37ced.jpg" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "uid" : [ "tag:twitter.com:hankchizljaw" ],
+        "url" : [ "https://twitter.com/hankchizljaw", "https://andy-bell.co.uk/links", "http://cube.fyi", "http://every-layout.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "me trying to push pixels around a screen while europe is being invaded by russia" ],
+    "photo" : [ {
+      "alt" : "a clown sat at a computer",
+      "value" : "https://pbs.twimg.com/media/FMb2saCXMAkfWeR.jpg"
+    } ],
+    "published" : [ "2022-02-25T10:23:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1497155173684334593" ],
+    "url" : [ "https://twitter.com/hankchizljaw/status/1497155173684334593" ]
+  },
+  "type" : [ "h-entry" ]
+}
