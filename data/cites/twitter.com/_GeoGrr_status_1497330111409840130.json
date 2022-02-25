@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah J" ],
+        "nickname" : [ "GeoGrr" ],
+        "numeric-id" : [ "205442325" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358687114054029315/ddchqtzQ.jpg" ],
+        "published" : [ "2010-10-20T22:14:03+00:00" ],
+        "uid" : [ "tag:twitter.com:GeoGrr" ],
+        "url" : [ "https://twitter.com/GeoGrr", "https://www.linkedin.com/in/sarahjohnsuk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Inspired by my colleague <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> I'm entering the world of IndieWeb. First stop: creating a webpage using a GitHub repo.",
+      "value" : "Inspired by my colleague @JamieTanna I'm entering the world of IndieWeb. First stop: creating a webpage using a GitHub repo."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMeVzMEWYAEe8In.jpg" ],
+    "published" : [ "2022-02-25T21:58:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1497330111409840130" ],
+    "url" : [ "https://twitter.com/GeoGrr/status/1497330111409840130" ]
+  },
+  "type" : [ "h-entry" ]
+}
