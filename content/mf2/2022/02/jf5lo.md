@@ -4,14 +4,14 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "name" : [ "Like of https://changelog.com/podcast/479" ],
+    "name" : [ "Principles for hiring engineers" ],
     "published" : [ "2022-02-15T18:16:00+0000" ],
-    "category" : [ "interviewing", "podcasts" ],
-    "like-of" : [ "https://changelog.com/podcast/479" ],
+    "category" : [ "interviewing" ],
+    "listen-of" : [ "https://changelog.com/podcast/479" ],
     "post-status" : [ "published" ]
   },
-  "kind" : "likes",
+  "kind" : "listens",
   "slug" : "2022/02/jf5lo",
-  "tags" : [ "interviewing", "podcasts" ],
+  "tags" : [ "interviewing" ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }

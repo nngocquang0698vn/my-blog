@@ -6,12 +6,12 @@
   "properties" : {
     "name" : [ "Deploying code rapidly and reliably" ],
     "published" : [ "2022-02-05T13:10:00+0000" ],
-    "category" : [ "podcasts", "starling", "deployment" ],
-    "like-of" : [ "https://player.fm/series/starling-developer-podcast/episode-22-deploying-code-rapidly-and-reliably" ],
+    "category" : [ "starling", "deployment" ],
+    "listen-of" : [ "https://player.fm/series/starling-developer-podcast/episode-22-deploying-code-rapidly-and-reliably" ],
     "post-status" : [ "published" ]
   },
-  "kind" : "likes",
+  "kind" : "listens",
   "slug" : "2022/02/7oisb",
-  "tags" : [ "podcasts", "starling", "deployment" ],
+  "tags" : [ "starling", "deployment" ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }

@@ -6,12 +6,11 @@
   "properties" : {
     "name" : [ "Haunted codebases and complex ops" ],
     "published" : [ "2022-02-14T18:13:00+0000" ],
-    "category" : [ "podcasts" ],
-    "like-of" : [ "https://changelog.com/shipit/39" ],
+    "listen-of" : [ "https://changelog.com/shipit/39" ],
     "post-status" : [ "published" ]
   },
-  "kind" : "likes",
+  "kind" : "listens",
   "slug" : "2022/02/3ier5",
-  "tags" : [ "podcasts" ],
+  "tags" : [ ],
   "client_id" : "https://indigenous.marksuth.dev/"
 }
