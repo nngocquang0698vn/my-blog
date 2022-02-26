@@ -55,7 +55,7 @@ build:
 deploy:
   stage: deploy
   image:
-    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.80.0
+    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.92.0
     entrypoint: ['']
   tags:
   resource_group: production
