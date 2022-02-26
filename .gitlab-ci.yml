@@ -3,6 +3,7 @@ image: docker:19.03
 variables:
   DOCKER_DRIVER: overlay
   GIT_SUBMODULE_STRATEGY: normal
+  HUGO_VERSION: 0.92.0
 
 stages:
   - build
@@ -38,7 +39,7 @@ theme_branch:
 build:
   stage: build
   image:
-    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.92.0
+    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
   tags:
   artifacts:
@@ -55,7 +56,7 @@ build:
 deploy:
   stage: deploy
   image:
-    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:0.92.0
+    name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
   tags:
   resource_group: production
