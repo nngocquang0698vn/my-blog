@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah J" ],
+        "nickname" : [ "GeoGrr" ],
+        "numeric-id" : [ "205442325" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1358687114054029315/ddchqtzQ.jpg" ],
+        "published" : [ "2010-10-20T22:14:03+00:00" ],
+        "uid" : [ "tag:twitter.com:GeoGrr" ],
+        "url" : [ "https://twitter.com/GeoGrr", "https://www.linkedin.com/in/sarahjohnsuk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I built my first API with Python using Flask in Linux on my son's Chromebook. <a href=\"https://twitter.com/charlesbaird\">@charlesbaird</a> <a href=\"https://twitter.com/gothardwrites\">@gothardwrites</a> my time to 200 was about 30 minutes.  <a href=\"https://twitter.com/search?q=%23dataengineering\">#dataengineering</a> <a href=\"https://twitter.com/search?q=%23itsaBingthing\">#itsaBingthing</a>",
+      "value" : "I built my first API with Python using Flask in Linux on my son's Chromebook. @charlesbaird @gothardwrites my time to 200 was about 30 minutes.  #dataengineering #itsaBingthing"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMex5U4XEAU9eVp.jpg" ],
+    "published" : [ "2022-02-26T00:00:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1497361002618306564" ],
+    "url" : [ "https://twitter.com/GeoGrr/status/1497361002618306564" ]
+  },
+  "type" : [ "h-entry" ]
+}
