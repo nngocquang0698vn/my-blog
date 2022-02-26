@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Matt Lee" ],
+        "nickname" : [ "mattl" ],
+        "numeric-id" : [ "661723" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408515554252668952/WG0bCd9M.png" ],
+        "published" : [ "2007-01-18T21:05:24+00:00" ],
+        "uid" : [ "tag:twitter.com:mattl" ],
+        "url" : [ "https://twitter.com/mattl", "http://mat.tl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I found out I can put an ad on the screen in the elevator at work for $15." ],
+    "photo" : [ "https://pbs.twimg.com/media/DVDV8JmX0AA5x_I.jpg" ],
+    "published" : [ "2018-02-02T19:01:11+00:00" ],
+    "uid" : [ "tag:twitter.com:959501972255772675" ],
+    "url" : [ "https://twitter.com/mattl/status/959501972255772675" ]
+  },
+  "type" : [ "h-entry" ]
+}
