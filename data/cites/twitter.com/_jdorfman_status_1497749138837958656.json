@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Dorfman" ],
+        "nickname" : [ "jdorfman" ],
+        "numeric-id" : [ "14139773" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438882715298721795/86cBNCcR.jpg" ],
+        "published" : [ "2008-03-13T14:41:47+00:00" ],
+        "uid" : [ "tag:twitter.com:jdorfman" ],
+        "url" : [ "https://twitter.com/jdorfman", "https://linktr.ee/jdorfman" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Bash logo was one of my proudest  non-code open source contributions. So cool to see it on popular videos and articles. 😎" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Thousand Oaks, CA" ],
+        "uid" : [ "tag:twitter.com:0509a6acb3d27ec4" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMkS57AUcAI2DYU.jpg" ],
+    "published" : [ "2022-02-27T01:43:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1497749138837958656" ],
+    "url" : [ "https://twitter.com/jdorfman/status/1497749138837958656" ]
+  },
+  "type" : [ "h-entry" ]
+}
