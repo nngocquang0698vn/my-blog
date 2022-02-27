@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Czech Republic" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bohuslav Šimek 🐘🇪🇺" ],
+        "nickname" : [ "BohuslavSimek" ],
+        "numeric-id" : [ "3423740153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/632612861232070656/dOyqBK92.jpg" ],
+        "published" : [ "2015-08-15T09:42:29+00:00" ],
+        "uid" : [ "tag:twitter.com:BohuslavSimek" ],
+        "url" : [ "https://twitter.com/BohuslavSimek", "http://bohuslav.simek.si" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Making fun of PHP, same old story.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codinghorror\"></a>",
+      "value" : "Making fun of PHP, same old story."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/codinghorror/status/1498010115894505475" ],
+    "published" : [ "2022-02-27T19:09:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1498012414566096904" ],
+    "url" : [ "https://twitter.com/BohuslavSimek/status/1498012414566096904" ]
+  },
+  "type" : [ "h-entry" ]
+}
