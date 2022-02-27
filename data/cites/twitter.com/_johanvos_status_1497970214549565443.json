@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Johan Vos" ],
+        "nickname" : [ "johanvos" ],
+        "numeric-id" : [ "42373683" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2573497192/e6fy0qy8tc5n996l2cbr.jpeg" ],
+        "published" : [ "2009-05-25T08:22:02+00:00" ],
+        "uid" : [ "tag:twitter.com:johanvos" ],
+        "url" : [ "https://twitter.com/johanvos", "http://gluonhq.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">After so many years, I learned the format of console logging in Java can be defined in logging properties config file. \nSee <a href=\"https://docs.oracle.com/en/java/javase/17/docs/api/java.logging/java/util/logging/SimpleFormatter.html\">docs.oracle.com/en/java/javase…</a> for clear explanation. The \"Since 1.4\" makes me feel very dumb, but better late than never!</div>",
+      "value" : "After so many years, I learned the format of console logging in Java can be defined in logging properties config file. \nSee docs.oracle.com/en/java/javase… for clear explanation. The \"Since 1.4\" makes me feel very dumb, but better late than never!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FMnbC2kXwAIt7tj.png" ],
+    "published" : [ "2022-02-27T16:21:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1497970214549565443" ],
+    "url" : [ "https://twitter.com/johanvos/status/1497970214549565443" ]
+  },
+  "type" : [ "h-entry" ]
+}
