@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ottawa, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris White" ],
+        "nickname" : [ "cmwhite92" ],
+        "numeric-id" : [ "2921575018" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305522232614096904/0Vrzvrfg.jpg" ],
+        "published" : [ "2014-12-14T15:49:36+00:00" ],
+        "uid" : [ "tag:twitter.com:cmwhite92" ],
+        "url" : [ "https://twitter.com/cmwhite92", "https://chriswhite.is/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Not sure if you realize how far PHP has come since you wrote those posts. It’s leaps and bounds better than it was, and a fully fledged language, not just a random collection of functions and keywords like your post says. Look at the new PHP 8.1 features for an idea.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DouglasShieldo\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codinghorror\"></a>",
+      "value" : "Not sure if you realize how far PHP has come since you wrote those posts. It’s leaps and bounds better than it was, and a fully fledged language, not just a random collection of functions and keywords like your post says. Look at the new PHP 8.1 features for an idea."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/codinghorror/status/1498024100555415560" ],
+    "published" : [ "2022-02-27T20:14:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1498028914798698498" ],
+    "url" : [ "https://twitter.com/cmwhite92/status/1498028914798698498" ]
+  },
+  "type" : [ "h-entry" ]
+}
