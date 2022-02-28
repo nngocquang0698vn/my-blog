@@ -56,6 +56,24 @@ Noto Emoji
 Noto Color Emoji
 ```
 
+# A word of warning
+
+Update 2022-02-28: For the last few months, I've been seeing that Instead of the following nice layout in notifications:
+
+![A notification showing a calendar view](https://media.jvt.me/65e69dcfe2.png)
+
+I've instead been seeing:
+
+![A notification showing a calendar view, as above, but with text very unclear to read, with the numbers a different font style, and lots of spacing looking odd](https://media.jvt.me/1729a1e29a.png)
+
+When removing the explicit mention of Noto, we start to see the top notification style again.
+
+```diff
+ [global]
+-    font = Liberation Mono, Noto Emoji 12
++    font = Liberation Mono
+```
+
 [dunst]: https://github.com/dunst-project/dunst
 [woman-gesturing-ok]: https://emojipedia.org/woman-gesturing-ok/
 [aw-emoji]: https://wiki.archlinux.org/index.php/Fonts#Emoji_and_symbols
