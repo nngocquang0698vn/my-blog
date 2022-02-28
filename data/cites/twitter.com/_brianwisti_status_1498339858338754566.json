@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399255221247770627/gNR6M3YX.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just sighed a sufficiently deep sigh that the meeting app told me to unmute if I want to talk." ],
+    "published" : [ "2022-02-28T16:50:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1498339858338754566" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1498339858338754566" ]
+  },
+  "type" : [ "h-entry" ]
+}
