@@ -22,6 +22,7 @@ There are a few Free and Open Source projects that I maintain:
 - [uuid](https://gitlab.com/jamietanna/uuid)
 - [spring-content-negotiator](https://gitlab.com/jamietanna/spring-content-negotiator)
 - [openapi.tanna.dev](https://gitlab.com/jamietanna/openapi.tanna.dev)
+- [micropub-go](https://gitlab.com/jamietanna/micropub-go/)
 
 I also work very hard on producing Free and Open Source solutions as part of the content on this website.
 
