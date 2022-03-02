@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/hillelogram/st…" ],
+        "url" : [ "https://twitter.com/hillelogram/status/1498728165300228103" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Atlanta, GA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Pete Holiday" ],
+          "nickname" : [ "toomuchpete" ],
+          "numeric-id" : [ "1541641" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/755472959477780480/YxbbZSIs.jpg" ],
+          "published" : [ "2007-03-19T18:59:03+00:00" ],
+          "uid" : [ "tag:twitter.com:toomuchpete" ],
+          "url" : [ "https://twitter.com/toomuchpete", "http://pete.holiday" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Here's a thread that I think gets a LOT wrong, and I want to talk about it, but these are arguments made by a  huge number of people and these are the most clear and good-faith way I've seen them presented. \n\nSo, go read Hillel's thread and then come back to this one.</div>\n<a class=\"tag\" href=\"https://twitter.com/hillelogram/status/1498728165300228103\">twitter.com/hillelogram/st…</a>",
+        "value" : "Here's a thread that I think gets a LOT wrong, and I want to talk about it, but these are arguments made by a  huge number of people and these are the most clear and good-faith way I've seen them presented. \n\nSo, go read Hillel's thread and then come back to this one."
+      } ],
+      "published" : [ "2022-03-02T20:46:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1499124014903705609" ],
+      "url" : [ "https://twitter.com/toomuchpete/status/1499124014903705609" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499142382599741449/IFdR1atN.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://is.gd/ptlaplus", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Gets a lot wrong, but presents it in a clear and good-faith way\" is basically the highest compliment you can receive in a Twitter argument" ],
+    "published" : [ "2022-03-02T21:16:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1499131515728445444" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1499131515728445444" ]
+  },
+  "type" : [ "h-entry" ]
+}
