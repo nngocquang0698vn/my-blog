@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Courtney Wang" ],
+        "nickname" : [ "CKWang" ],
+        "numeric-id" : [ "18582091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/963110874230620162/5CzQILr0.jpg" ],
+        "published" : [ "2009-01-03T16:58:33+00:00" ],
+        "uid" : [ "tag:twitter.com:CKWang" ],
+        "url" : [ "https://twitter.com/CKWang", "http://reddit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "my magnum opus" ],
+    "photo" : [ "https://pbs.twimg.com/media/FMzeORbUYAAzO19.png" ],
+    "published" : [ "2022-03-02T00:27:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1498817139838373889" ],
+    "url" : [ "https://twitter.com/CKWang/status/1498817139838373889" ]
+  },
+  "type" : [ "h-entry" ]
+}
