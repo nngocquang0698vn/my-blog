@@ -23,7 +23,7 @@ But on top of that, we also want to get everyone into a more social environment,
 
 So we've now opened up [hacksocnotts.slack.com](https://hacksocnotts.slack.com) for the general public! You'll need to get an administrator to provide you access, so will need to enter your email address in **[this Google Form](https://docs.google.com/forms/d/1c5XEaYYUUCC-ze3yj2r2LzcLoTqEsrfHhoI3C2L-p94/viewform)** and we'll add you as soon as we get a moment.
 
-![Slack overview](/img/slack-overview.png)
+![Slack overview](https://raw.githubusercontent.com/HackSocNotts/hacksocnotts.github.io/c53dcd00be961ea846aced31da78169f494e13ab/img/slack-overview.png)
 
 # How do I use it?
 
