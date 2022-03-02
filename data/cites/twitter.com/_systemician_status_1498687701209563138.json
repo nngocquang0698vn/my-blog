@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tipperary" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "systemician" ],
+        "nickname" : [ "systemician" ],
+        "numeric-id" : [ "1330266084830830592" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330266745601396736/HqzI3-vs.jpg" ],
+        "published" : [ "2020-11-21T21:45:38+00:00" ],
+        "uid" : [ "tag:twitter.com:systemician" ],
+        "url" : [ "https://twitter.com/systemician", "https://emauton.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Good engineering is often about finding ways to make it cheap to be wrong." ],
+    "published" : [ "2022-03-01T15:52:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1498687701209563138" ],
+    "url" : [ "https://twitter.com/systemician/status/1498687701209563138" ]
+  },
+  "type" : [ "h-entry" ]
+}
