@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brussels, Belgium" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Google Europe" ],
+          "nickname" : [ "googleeurope" ],
+          "numeric-id" : [ "743699428448468992" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/806166232147906561/jabyriLw.jpg" ],
+          "published" : [ "2016-06-17T06:58:55+00:00" ],
+          "uid" : [ "tag:twitter.com:googleeurope" ],
+          "url" : [ "https://twitter.com/googleeurope", "https://blog.google/topics/google-europe/", "https://goo.gl/16tkf9" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Due to the ongoing war in Ukraine, we’re blocking YouTube channels connected to RT and Sputnik across Europe, effective immediately. It’ll take time for our systems to fully ramp up. Our teams continue to monitor the situation around the clock to take swift action." ],
+      "published" : [ "2022-03-01T08:15:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1498572529409179648" ],
+      "url" : [ "https://twitter.com/googleeurope/status/1498572529409179648" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, I guess" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Broderick" ],
+        "nickname" : [ "broderick" ],
+        "numeric-id" : [ "18205531" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1419661731324956678/XFT3yMLU.jpg" ],
+        "published" : [ "2008-12-18T01:29:08+00:00" ],
+        "uid" : [ "tag:twitter.com:broderick" ],
+        "url" : [ "https://twitter.com/broderick", "https://www.garbageday.email" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Interesting to find out that during every radicalized election, every genocide, every riot around the world over the last 10 years, huge tech platforms could have swiftly identified disinformation and malicious propaganda and paused their distribution of it, but they didn't." ],
+    "published" : [ "2022-03-01T16:29:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1498696830082818051" ],
+    "url" : [ "https://twitter.com/broderick/status/1498696830082818051" ]
+  },
+  "type" : [ "h-entry" ]
+}
