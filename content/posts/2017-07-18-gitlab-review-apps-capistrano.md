@@ -7,7 +7,7 @@ tags:
 - review-apps
 - capistrano
 - blogumentation
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 date: 2017-07-18T10:24:49+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
@@ -21,7 +21,7 @@ I very recently set up [GitLab's Review Apps][review-apps] for this site, meanin
 
 For example, the [`example/review-apps`][review-apps-branch] branch is deployed under the `review/example/review-apps` environment to `http://example-review-apps.www.review.jvt.me/`:
 
-![`example/review-apps` environment](/img/gitlab-review-apps-capistrano/example-review-apps.png)
+![`example/review-apps` environment](https://media.jvt.me/10e548ef84.png)
 
 This means that each branch I push to will spin up a new instance of my site under the `review.jvt.me` subdomain.
 

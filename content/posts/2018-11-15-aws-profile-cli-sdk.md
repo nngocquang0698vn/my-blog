@@ -7,7 +7,7 @@ tags:
 - aws-cli
 - aws-sdk
 - command-line
-image: /img/vendor/AmazonWebservices_Logo.png
+image: https://media.jvt.me/770ef46545.png
 date: 2018-11-15T00:12:20
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

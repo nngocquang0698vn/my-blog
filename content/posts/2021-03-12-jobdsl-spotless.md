@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-12T19:05:56+0000
 slug: "jobdsl-spotless"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 We should generally treat our [Job DSL projects](/posts/2021/02/23/getting-started-jobdsl-standardised/) with the same level of standards that our production code would be fulfilling.
 

@@ -9,7 +9,7 @@ tags:
 - chefspec
 - chef-13
 - chefspec-7
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 date: 2018-03-06T20:34:46+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-06T21:44:10+0000
 slug: "chefspec-gotcha-render-content-delete"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 If you're working with sensitive files, such as those with secrets, on a Chef run, you should ideally delete them from disk once the Chef run is complete, otherwise they could leak sensitive data.
 

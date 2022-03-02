@@ -12,7 +12,7 @@ date: 2022-02-13T10:01:17+0000
 slug: "log-webflux-client"
 syndication:
 - "https://brid.gy/publish/twitter"
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 If you're working with Spring Boot Webflux, you'll likely be using the `WebClient` as your HTTP client.
 

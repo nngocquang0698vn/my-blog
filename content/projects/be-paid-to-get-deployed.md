@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Be Paid to Get Deployed
-image: /img/projects/be-paid-to-get-deployed.png
+image: https://media.jvt.me/2de9374706.png
 date: 2017-10-22
 github:
 gitlab:

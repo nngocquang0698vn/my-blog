@@ -19,7 +19,7 @@ license_code: Apache-2.0
 slug: aws-chef-dev-day
 aliases:
 - /posts/2018/06/25/aws-chef-dev-day/
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 Last Tuesday I travelled to London to attend the [AWS Dev Day Roadshow in London], where I'd be learning all about the intersection between Chef and AWS.
 
@@ -43,7 +43,7 @@ One key learning over this migration to microservices was that although there wa
 
 This led them to the use of Pessimistic Deployments which ties caution with continuous monitoring:
 
-![AWS' release process using pessimistic deploys](/img/aws-chef-day/pessimistic-deployments.jpg)
+![AWS' release process using pessimistic deploys](https://media.jvt.me/907a172ada.jpeg)
 
 This approach ensures that the minimal set of customers are affected, and that at any point, it can be rolled back to prevent further impact.
 
@@ -57,13 +57,13 @@ Once all AZs in the first region are migrated, the next region can be deployed t
 
 Jonathan discussed some differences that AWS see around key components in a piece of software, and how they largely split into two:
 
-![Application stack built separately to infrastructure](/img/aws-chef-day/application-vs-infrastructure.jpg)
+![Application stack built separately to infrastructure](https://media.jvt.me/ea7f475155.jpeg)
 
 The reasoning for this is that the actual code you write and the configuration for it (be it configuration files, environment variables, or Chef code) is one piece, which is the piece that you fully own. However, the infrastructure, such as where the code sits isn't entirely under your control, i.e. someone else may create your AMIs.
 
 In line with this, they also see a matching split in pipelines, with the aim to automate the whole release process:
 
-![Application pipelines working differently to infrastructure pipelines](/img/aws-chef-day/application-vs-infrastructure-pipeline.jpg)
+![Application pipelines working differently to infrastructure pipelines](https://media.jvt.me/47bccc358c.jpeg)
 
 Application pipeline (i.e Java code, relevant configuration such as cookbooks):
 
@@ -125,7 +125,7 @@ An unfortunate issue with the current architecture of the OpsWorks is that it ca
 
 ## Chef Automate
 
-![The Chef Automate platform](/img/aws-chef-day/chef-automate.jpg)
+![The Chef Automate platform](https://media.jvt.me/e20fba455e.jpeg)
 
 It was my first time seeing Chef Automate, which has some great visualisation over the nodes you had in your Chef environment(s), the breakdown of platforms and versions, as well as which nodes have been having issues converging. It also uses InSpec and audit cookbooks under the hood to ensure that your environment is compliant. This can be configured against any number of pre-defined compliance profiles (such as CIS hardening policies) or you can create your own using InSpec controls. Again, these visualisation tools can help you spot any new configuration drift and work out the health of your fleet.
 
@@ -145,7 +145,7 @@ A note from me is that this is not quite true on a hosted container platform, su
 
 A term I'd not heard used before, but which I quite like is "Enterprise as code":
 
-![Enterprise as Code](/img/aws-chef-day/enterprise-as-code.jpg)
+![Enterprise as Code](https://media.jvt.me/a67fb9b99a.jpeg)
 
 Where
 

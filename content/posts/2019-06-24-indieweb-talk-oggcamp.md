@@ -10,7 +10,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-06-24T22:08:13+0100
-image: /img/vendor/oggcamp-twitter.jpg
+image: https://media.jvt.me/163b16cc7d.jpeg
 slug: "indieweb-talk-oggcamp"
 syndication:
 - https://news.indieweb.org/en

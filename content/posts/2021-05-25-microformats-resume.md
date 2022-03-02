@@ -14,7 +14,7 @@ tags:
 - "hire.jvt.me"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/microformats-logo.png"
+image: https://media.jvt.me/a8371cdde8.png
 slug: "microformats-resume"
 ---
 It's been a while since I've updated my CV, and I thought it'd be a good chance to look at my current skillset against what's currently being looked for on the job market.

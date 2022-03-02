@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-04-06T09:43:25+0100
 slug: "job-dsl-test-environment"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 There's only so much verification we can do with a Job DSL repo before we need to execute it against a real Jenkins server, due to the way it interacts with the Jenkins server's configuration and any other plugins installed.
 

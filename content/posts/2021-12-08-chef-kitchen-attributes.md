@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-08T21:40:47+0000
 slug: "chef-kitchen-attributes"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 _This is an article that's been [on the backlog for four and a half years](https://gitlab.com/jamietanna/jvt.me/-/issues/171), so I thought I should get around to actually writing it. Apologies if the context isn't quite right, as I'm trying to remember what I can for why we needed this._
 

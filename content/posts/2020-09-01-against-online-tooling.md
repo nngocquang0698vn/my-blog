@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-01T14:53:48+0100
 slug: "against-online-tooling"
-image: /img/vendor/jwt.io.jpg
+image: https://media.jvt.me/0b0440faeb.jpeg
 syndication:
 - https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling
 - https://news.ycombinator.com/item?id=24342063

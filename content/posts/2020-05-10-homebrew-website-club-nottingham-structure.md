@@ -7,7 +7,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-10T18:04:02+0100
 slug: "homebrew-website-club-nottingham-structure"
-image: /img/vendor/hwc-80s-retro.jpg
+image: https://media.jvt.me/730a4429f8.jpeg
 ---
 Since starting [Homebrew Website Club Nottingham](https://events.indieweb.org/tag/hwc-nottingham) [last March](/posts/2019/03/14/homebrew-website-club-nottingham/), the structure of the event has been pretty consistent - nonexistent.
 

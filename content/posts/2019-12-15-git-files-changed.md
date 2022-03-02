@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-15T22:28:28+0000
 slug: "git-files-changed"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 I've found in the past that it can be useful to know what files have changed in a given commit, i.e. to re-edit them, or to [add whitespace to the end of file](/posts/2019/09/02/newlines-all-git-files/).
 

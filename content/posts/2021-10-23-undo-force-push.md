@@ -4,7 +4,7 @@ description: How to recover from a force push with Git.
 tags:
 - blogumentation
 - git
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2021-10-23T10:26:23+0100
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

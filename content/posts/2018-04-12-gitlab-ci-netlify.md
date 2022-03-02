@@ -9,7 +9,7 @@ tags:
 - ci
 - deploy
 - howto
-image: /img/vendor/netlify-full-logo-white.png
+image: https://media.jvt.me/4980436d0f.png
 date: 2018-04-12T22:06:06+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

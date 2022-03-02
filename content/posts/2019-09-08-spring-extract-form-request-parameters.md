@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-08T14:04:33+01:00
 slug: "spring-extract-form-request-parameters"
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 While working on my [Micropub endpoint](/posts/2019/08/26/setting-up-micropub/) I found that I needed to support `application/x-www-form-urlencoded` requests.
 

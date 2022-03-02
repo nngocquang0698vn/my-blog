@@ -15,7 +15,7 @@ date: 2018-08-15T10:23:32+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: self-contained-cucumber-jar
-image: /img/vendor/cucumber.png
+image: https://media.jvt.me/be422b5aa6.png
 aliases:
 - /posts/2018/08/16/self-contained-cucumber-jar/
 ---

@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-06T14:42:33+0100
 slug: "aws-sdk-proxy-test-kitchen"
-image: /img/vendor/test-kitchen-logo.png
+image: https://media.jvt.me/799c2a8adf.png
 ---
 I hit an interesting issue today while testing a cookbook, using Test Kitchen against an EC2, that interacts with the AWS SDK.
 

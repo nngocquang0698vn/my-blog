@@ -9,11 +9,11 @@ date: 2015-04-14T13:56:00+01:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: sony-hack
-image: /img/sony-hack.png
+image: https://media.jvt.me/3bb6ac6a03.png
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2015/04/the-sony-hack/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 
-![Stereotypical hacking image](/img/sony-hack.png)
+![Stereotypical hacking image](https://media.jvt.me/3bb6ac6a03.png)
 
 > Image courtesy of Erwin Vindl via Flickr
 

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-04-24T19:44:54+0100
 slug: "job-dsl-disable-multibranch"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 Using Job DSL to manage your pipelines is useful, but sometimes you want to not run a pipeline, for instance so it doesn't trigger in your [test environment](/posts/2021/04/06/job-dsl-test-environment/).
 

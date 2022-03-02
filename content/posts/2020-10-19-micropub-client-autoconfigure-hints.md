@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-10-19T21:20:06+0100
 slug: "micropub-client-autoconfigure-hints"
-image: /img/vendor/micropub-rocks-icon.png
+image: https://media.jvt.me/c4cea26673.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

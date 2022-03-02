@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-12T23:21:42+0100
 slug: "rsvp-indie-events"
-image: /img/vendor/micropub-rocks-icon.png
+image: https://media.jvt.me/c4cea26673.png
 ---
 Although I recently added [Micropub support to www.jvt.me](/posts/2019/08/26/setting-up-micropub/), I realised a couple of days ago that I didn't actually support RSVPing to Indie Events!
 

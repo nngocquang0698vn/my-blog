@@ -17,7 +17,7 @@ tags:
 - agile
 - testing
 - microservices
-image: /img/vendor/devopsdays-london-2018.png
+image: https://media.jvt.me/6f96f698a9.png
 date: 2018-10-25T09:49:20+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

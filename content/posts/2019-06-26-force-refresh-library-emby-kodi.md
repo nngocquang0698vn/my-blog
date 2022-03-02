@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-06-26T21:20:53+0100
 slug: "force-refresh-library-emby-kodi"
-image: /img/vendor/emby.png
+image: https://media.jvt.me/b38405cfa7.png
 ---
 One of my regular annoyances with my Kodi + Emby set up is that I can never seem to refresh the library when I need to.
 

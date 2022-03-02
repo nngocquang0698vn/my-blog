@@ -10,7 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-07T18:49:56+0000
 slug: "chef-default-attributes"
 series: nablopomo-2019
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 I've written a fair bit in the past about how I work with Chef as a configuration management tool a lot every day.
 

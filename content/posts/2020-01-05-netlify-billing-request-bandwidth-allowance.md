@@ -10,7 +10,7 @@ slug: "netlify-billing-request-bandwidth-allowance"
 syndication:
 - https://lobste.rs
 - https://community.netlify.com/t/netlify-billing-request-extra-bandwidth-allowances/6963
-image: /img/vendor/netlify-full-logo-white.png
+image: https://media.jvt.me/4980436d0f.png
 ---
 Dear Netlify,
 

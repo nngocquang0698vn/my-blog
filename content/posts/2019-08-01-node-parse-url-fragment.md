@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-01T18:08:15+0100
 slug: "node-parse-url-fragment"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 Although the URL fragment isn't defined explicitly as a key-value pair, there are times where it may be, for instance during the [OAuth2 Implicit Grant](https://tools.ietf.org/html/rfc6749#section-4.2) or the [OpenID Connect Hybrid Flow](https://openid.net/specs/openid-connect-core-1_0.html#HybridFlowAuth).
 

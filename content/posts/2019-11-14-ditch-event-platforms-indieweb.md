@@ -13,7 +13,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-14T18:52:33+0000
 slug: "ditch-event-platforms-indieweb"
 series: nablopomo-2019
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-30T01:54:45+0000
 slug: "node-parse-url-querystring"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 series: nablopomo-2019
 ---
 I've [previously written about _Parsing Key-Value URL Fragments with Node.JS_](/posts/2019/08/01/node-parse-url-fragment/), but I realised earlier that I don't have an alternative for querystrings.

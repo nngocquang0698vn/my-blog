@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-23T13:16:57+0000
 slug: "trigger-lambda-cli"
-image: /img/vendor/AmazonWebservices_Logo.png
+image: https://media.jvt.me/770ef46545.png
 ---
 As I'm starting to get more involved with playing with AWS Lambdas, I wondered if there was a better way to test the deployed Lambda without using the AWS UI.
 

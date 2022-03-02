@@ -12,7 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-10T18:20:19+0000
 slug: "node-jwk-to-x509-pem"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 Yesterday I was looking at what search traffic comes to my site, and found that I get a number of hits from folks searching for "converting a JSON Web Key / JWKS to a PEM file".
 

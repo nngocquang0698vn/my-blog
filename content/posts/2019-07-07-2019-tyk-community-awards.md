@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-07T11:24:56+0100
 slug: "2019-tyk-community-awards"
-image: /img/vendor/tyk-community-awards-mascots.png
+image: https://media.jvt.me/9d7d4bb76d.png
 ---
 Late last year I wrote [the blog post _Unit Testing Your TYK (TYKJS) Middleware_](/posts/2018/12/10/testing-tykjs-middleware/) about my time getting started with the Tyk API Gateway's 's JavaScript Middleware, with some help from [Stephen Galbraith](https://lifewithcode.blogspot.com/).
 
@@ -22,6 +22,6 @@ And <a class="u-bookmark-of" href="https://tyk.io/blog/tyk-api-management-commun
 
 I'll share an update once I've got my swag bag, too - looking forward to the t-shirt, too! Tyk even created us some custom mascots which look super cool:
 
-<img width="50%" alt="Custom Tyk mascots for me and Steve" src="/img/vendor/tyk-community-awards-mascots.png" />
+<img width="50%" alt="Custom Tyk mascots for me and Steve" src="https://media.jvt.me/9d7d4bb76d.png" />
 
 Thanks Tyk!

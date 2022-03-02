@@ -11,7 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-02-22T21:51:24+0000
 slug: "chefdk-gemfile"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 One of the great things I've found about working with Chef is the ChefDK / Chef Workstation setup, which ensures that you need just one install to be able to get up-and-running in a way that allows you to easily coordinate with others on version of core tools and libraries. This also translates nicely to [running it in Docker](/posts/2018/12/05/chefdk-testing-docker/), but something that's always been painful, and has plagued me for several years, is working with Ruby Gems.
 

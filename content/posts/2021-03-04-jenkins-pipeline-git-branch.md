@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-04T09:01:41+0000
 slug: "jenkins-pipeline-git-branch"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 When running Jenkins' Multibranch pipelines, you get a handy environment variable `GIT_BRANCH` which tells you what the current branch is, so you can do different things in your pipeline.
 

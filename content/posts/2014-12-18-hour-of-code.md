@@ -11,11 +11,11 @@ date: 2014-12-18T11:02:00+00:00
 license_prose: 'All-Rights-Reserved'
 license_code: 'All-Rights-Reserved'
 slug: hour-of-code
-image: /img/hour-of-code.png
+image: https://media.jvt.me/3d7fc01832.png
 ---
 <blockquote>This article was <a href="https://www.impactnottingham.com/2014/12/the-hour-of-code-whats-the-worst-that-could-happen/" class="u-repost-of">originally published</a> for <a href="https://www.impactnottingham.com">Impact Nottingham</a>.</blockquote>
 
-![David Cameron during Hour of Code](/img/hour-of-code.png)
+![David Cameron during Hour of Code](https://media.jvt.me/3d7fc01832.png)
 
 > Image courtesy of Number 10 via Flickr
 

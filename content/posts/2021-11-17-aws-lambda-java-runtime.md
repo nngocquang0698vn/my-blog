@@ -11,7 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-11-17T17:21:49+0000
 slug: "aws-lambda-java-runtime"
-image: /img/vendor/AmazonWebservices_Logo.png
+image: https://media.jvt.me/770ef46545.png
 ---
 If you're building an application on AWS Lambda, you may have gone through the pain of trying to work out what versions of libraries are installed in the runtime.
 

@@ -7,7 +7,7 @@ tags:
 - git
 - workflow
 - automation
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2017-04-17T19:27:56+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-11T19:39:24+0100
 slug: "git-diff-no-prefix"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 Something that has been a pain in my side for quite some time, but I've never thought to find out if there's a fix for, is Git adding a prefix to files when running `git diff`:
 

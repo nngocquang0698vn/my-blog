@@ -7,7 +7,7 @@ tags:
 - chefdk
 - certificates
 - berkshelf
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 date: 2017-08-17T00:10:00+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-19T21:54:14+00:00
 slug: "microformats-hentry"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 ---
 As I spoke about in my post [_Setting up a personal hCard for myself_](/posts/2019/03/15/personal-hcard/), I'm starting to mark up my site with [microformats2].
 

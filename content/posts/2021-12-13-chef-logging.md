@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-13T20:01:06+0000
 slug: "chef-logging"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 When you're developing Chef cookbooks, you're likely to need to debug things that aren't working as expected. One option to do this interactively is [using `chef-shell`](/posts/2018/08/29/debugging-chef-shell/) while developing, but this doesn't necessarily help when we're not developing interactively.
 

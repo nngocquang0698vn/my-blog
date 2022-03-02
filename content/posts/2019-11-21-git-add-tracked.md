@@ -10,7 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-21T22:30:37+0000
 slug: "git-add-tracked"
 series: nablopomo-2019
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 Let's say that we have a Git repo where we've made a number of changes, such as:
 

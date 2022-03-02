@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-06T16:32:31+0000
 slug: "git-ref-github-pull-requests"
-image: /img/vendor/GitHub_Logo.png
+image: https://media.jvt.me/36fd7d2a48.png
 ---
 In early December, I was off work sick, and noticed that although I didn't have my work email set up on my phone, I was still receiving emails from work GitHub repositories as the team were continuing to work.
 

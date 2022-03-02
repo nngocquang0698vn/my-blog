@@ -5,7 +5,7 @@ tags:
 - thoughts
 - capital-one
 - spectat-designs
-image: /img/first-week-back-remote-work.png
+image: https://media.jvt.me/8706e833ec.png
 date: 2018-03-15T17:57:35+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
@@ -21,7 +21,7 @@ As part of looking ahead, we discussed the work I'd be picking up. Firstly, due 
 
 Not only was it great to see Gareth, but it was a really nice change having a little normalcy back, and really nice catching up and hearing how the rest of the team were, as I'd been missing them quite a lot recently.
 
-![My work Macbook Pro + Packed Pixel setup](/img/first-week-back-remote-work.png)
+![My work Macbook Pro + Packed Pixel setup](https://media.jvt.me/8706e833ec.png)
 
 On Thursday I worked through my compliance business training, armed with my [Packed Pixel][packed-pixel] to monitor the billions of updates I had pending. With the boring tasks done, this left my Friday hours free to plan the Chef and documentation work that I'd be undertaking. On both days, I didn't even make use of my full four hours, and when I closed my laptop for the day, I also turned off my work phone. This was a big step for me, given the last few weeks I'd been keeping an eye on Slack and emails, missing work quite a bit. But now I was actually officially working I found it was nice to be able to turn everything off for the night, knowing the next day it would still be there for me.
 

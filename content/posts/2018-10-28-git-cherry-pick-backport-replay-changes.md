@@ -5,7 +5,7 @@ tags:
 - blogumentation
 - git
 - git-cherry-pick
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2018-10-28T22:22:50+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: MIT

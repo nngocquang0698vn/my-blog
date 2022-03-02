@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-02-10T22:33:40+00:00
 slug: "chef-client-noop-json"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 There could be a case where you _may_ want to perform a `chef-client` run so it doesn't actually change any resources.
 

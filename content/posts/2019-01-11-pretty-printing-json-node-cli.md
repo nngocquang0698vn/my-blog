@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-11T16:50:39+00:00
 slug: "pretty-printing-json-node-cli"
 series: pretty-print-json
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 I've previously written about [using Python to pretty print JSON](/posts/2017/06/05/pretty-printing-json-cli/) and [an alternative using Ruby](/posts/2018/06/18/pretty-printing-json-ruby-cli/), but another I've not yet spoke about is using Node.JS.
 

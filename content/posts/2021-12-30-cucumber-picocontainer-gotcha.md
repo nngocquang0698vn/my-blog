@@ -10,7 +10,7 @@ tags:
 - "picocontainer"
 license_code: "MIT"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/cucumber.png"
+image: https://media.jvt.me/be422b5aa6.png
 slug: "cucumber-picocontainer-gotcha"
 ---
 At the time of writing, Cucumber (7.1.0) still recommends using PicoContainer as the default dependency injection framework.

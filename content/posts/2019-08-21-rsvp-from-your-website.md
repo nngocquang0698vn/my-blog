@@ -12,7 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-21T22:55:33+0100
 slug: "rsvp-from-your-website"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

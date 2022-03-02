@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-04-26T09:12:00+0100
 slug: "jenkins-schedule-multibranch"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 There are cases you want to rebuild your Multibranch projects on a schedule, for instance if there are regular updates to the pipeline, but not to the project itself, so you want to make sure that the projects still work, or to ensure that you're constantly rebuilding and running compliance checks against the latest version of the code, especially if there's no active development.
 

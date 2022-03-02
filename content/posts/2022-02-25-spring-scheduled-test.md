@@ -10,7 +10,7 @@ date: 2022-02-25T09:15:46+0000
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: spring-scheduled-test
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 syndication:
 - "https://brid.gy/publish/twitter"
 ---

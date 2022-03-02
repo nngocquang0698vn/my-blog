@@ -10,13 +10,13 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-21T21:53:59+0100
 slug: "croatia-2019-summer-holiday"
-image: /img/croatia-2019-summer-holiday.jpg
+image: https://media.jvt.me/1c2d7d7665.jpeg
 ---
 I'm writing this sitting on the plane home from Dubrovnik, Croatia, where [Anna](https://annadodson.co.uk) and I have been for the last week.
 
 It has been *such* a lovely time, and we're both so sad to see it over. It was our first summer holiday together in the two and a half years we've been together, and was really worth the wait.
 
-![Anna and I on a pier in Dubrovnik, near sunset](/img/croatia-2019-summer-holiday.jpg)
+![Anna and I on a pier in Dubrovnik, near sunset](https://media.jvt.me/1c2d7d7665.jpeg)
 
 We stayed in the lovely [Villa Providenca apartments](https://www.tripadvisor.com/Hotel_Review-g295371-d9702686-Reviews-Apartments_Villa_Providenca-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html) about mid-way between Lapad and Old Town in Dubrovnik, which we felt was a nice compromise between being close to the beach and being close to restaurants. We had a lovely terrace which was in the middle of the property, which originally we were a little worried about as we were hoping for a terrace with a view, but we had privacy and I felt it was loads better than having a sea view which could mean we were overlooked by others.
 

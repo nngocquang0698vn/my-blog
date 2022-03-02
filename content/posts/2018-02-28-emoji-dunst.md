@@ -13,7 +13,7 @@ license_code: Apache-2.0
 slug: emoji-dunst
 aliases:
 - /posts/2018/03/01/emoji-dunst/
-image: /img/emoji-dunst/with-emoji.png
+image: https://media.jvt.me/a7e97be2b1.png
 ---
 # TL;DR
 
@@ -27,7 +27,7 @@ Although I've used [Dunst][dunst] for a couple of years, it wasn't until recentl
 
 It came about when I switched over from Chromium to Firefox Nightly, and found that the WhatsApp Web interface would send notifications via Dunst. For instance, I would receive a popup similar to:
 
-![Dunst notifications without emoji support, showing the raw Unicode characters instead of pictogram representation](/img/emoji-dunst/without-emoji.png)
+![Dunst notifications without emoji support, showing the raw Unicode characters instead of pictogram representation](https://media.jvt.me/88f2d84852.png)
 
 As you can see, instead of receiving a pictogram representing ["Woman Gesturing OK"][woman-gesturing-ok], I was able to see the raw Unicode representation.
 
@@ -35,7 +35,7 @@ It turns out the lack of emojis showing was due to me not having any emoji fonts
 
 Once installed, I found that the font would automagically get loaded into Dunst and would render notifications correctly:
 
-![Dunst notifications with emoji support, showing the correct pictogram representation](/img/emoji-dunst/with-emoji.png)
+![Dunst notifications with emoji support, showing the correct pictogram representation](https://media.jvt.me/a7e97be2b1.png)
 
 Just to ensure this would always reference this font (i.e. in the case multiple emoji fonts were installed), I configured Dunst by adding the following configuration in `~/.config/dunst/dunstrc`:
 

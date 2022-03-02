@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-20T21:30:19+0000
 slug: "intelligent-webmentions"
 series: nablopomo-2019
-image: /img/vendor/webmention-logo.png
+image: https://media.jvt.me/dac61c9880.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

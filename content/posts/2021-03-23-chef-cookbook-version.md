@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-23T22:04:18+0000
 slug: "chef-cookbook-version"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 If you're scripting around your Chef cookbooks, you may want to do things like work out the version of the cookbook, so you can i.e. use it for reporting, check if the cookbook is already uploaded, etc.
 

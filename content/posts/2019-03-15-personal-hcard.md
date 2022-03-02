@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-15T23:29:03+00:00
 slug: "personal-hcard"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 ---
 As you're reading this, I have now implemented an [hcard](http://microformats.org/wiki/h-card) for my personal details! You can see it by inspecting the source code for [my home page](/).
 

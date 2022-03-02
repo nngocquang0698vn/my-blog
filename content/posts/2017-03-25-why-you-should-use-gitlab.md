@@ -5,7 +5,7 @@ tags:
 - gitlab
 - open-source
 - persuasive
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 date: 2017-03-25T10:51:09+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
@@ -55,7 +55,7 @@ For instance, this is how I [distribute this site][jvtme-container-registry], an
 
 Environments are a feature of the CI platform that help capture the different stages that an application must go through before reaching end user consumption, i.e. `dev`, `qa`, `prod`. This is something that is tracked within the [`.gitlab-ci.yml`][jvtme-ci-yaml] file, and then provides an easy way to see what environments are running what code, as well as exposing links to the environments themselves from the GitLab UI:
 
-![The environments page on the repository for `jvt.me`](/img/jvt.me-environments-21-03-17.png)
+![The environments page on the repository for `jvt.me`](https://media.jvt.me/01eacd2af2.png)
 
 GitLab also provides the ability to [check out your deployments locally][gitlab-docs-env-ref] - it does this by creating a Git `ref` which then tracks the commit in each environment. This makes it much less effort to determine which code is currently in which environment in a way that requires no manual (or even scripted) work by yourself, as it is handled through GitLab itself, and you can easily hook into it as the link describes.
 
@@ -75,19 +75,19 @@ Last weekend, while setting up a new repo for [Hack24][hack24], [@anna_hax][anna
 
 By having more of a delve, I found the following options:
 
-![GitLab's approvals section](/img/gitlab-approvals.png "GitLab's approvals section")
+![GitLab's approvals section](https://media.jvt.me/1ee33da6cb.png)
 
 In order to make Merge Requests more robust, it can be useful to enforce the amount of approvals that must be given in order to allow a merge to occur. At the same time, there may be specific people in your project that you'd want to perform an approval for, and therefore you can call them out here, too.
 
 <div class="divider"></div>
 
-![GitLab's protected branches](/img/gitlab-protected-branches.png "GitLab's protected branches")
+![GitLab's protected branches](https://media.jvt.me/ecf059b931.png)
 
 Protected branches on GitLab provide a bit more control over the ability to push and merge - this means that you can limit the two options separately - i.e. you can ensure only your CI or service account can push directly to `develop` (for instance, when running workflows using something like [mvn-jgitflow][jgitflow]) but that any of the developers in your team can perform a merge _into_ `develop`. This extra control can be greatly useful when working on larger, distributed teams, and will make it possible to more tightly restrict access control to ensure that your project is managed correctly.
 
 <div class="divider"></div>
 
-![GitLab's push rules](/img/gitlab-push-rules.png "GitLab's push rules")
+![GitLab's push rules](https://media.jvt.me/38dfc6999b.png)
 
 In addition, GitLab adds some extra controls over what can be pushed up - such as blocking any secrets, which is common to hear about, and I can see being a great thing to have enabled, for that one time you forget and then end up with a [$6000 AWS bill][aws-bill-6k].
 
@@ -95,15 +95,15 @@ Additionally there can be enforcement on the commit messages, making sure that t
 
 <div class="divider"></div>
 
-![GitLab Merge Requests can be automerged when CI pipelines succeed](/img/gitlab-merge-when-ci-succeeds.png "You can set GitLab to automerge a Merge Request when the CI Pipeline succeeds")
+![GitLab Merge Requests can be automerged when CI pipelines succeed](https://media.jvt.me/49b70d9cb1.png)
 
 This is another really great feature - having a MR auto-merge when the CI job finishes. No longer do you have to keep checking back to see if i.e. Jenkins has succeeded for the MR. This is something that can be triggered and then you can just go and work on something else, freeing you up to focus on other things. This may not sound like a killer feature, but when you have relatively large build pipelines, this saves you from context switching back and forth to check if things have passed, so you can then merge them.
 
 <div class="divider"></div>
 
-![GitLab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](/img/gitlab-wip-merge.png "A WIP Merge Request cannot be merged until the `WIP` is removed from the title")
+![GitLab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](https://media.jvt.me/8269541ac7.png)
 
-![GitLab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](/img/gitlab-wip-merge-2.png "A WIP Merge Request cannot be merged until the `WIP` is removed from the title")
+![GitLab stops `WIP` Merge Requests from being merged until the `WIP `is removed from the title](https://media.jvt.me/63da6a80bc.png)
 
 This is something that I've found when working on teams using GitHub - in order to make it obvious that a Merge Request is a WIP that you don't want merged, it's best to set the title to i.e. `WIP: Add Why-GitLab article` and then add a `DO_NOT_MERGE` label. However, GitLab makes this even easier by detecting the `WIP` in the title, and disallowing merging until the title is updated. Although this seems like a minor thing, it means there's a little less overhead that you personally have, as you can't accidentally merge though the changes (if the CI passes, that is).
 

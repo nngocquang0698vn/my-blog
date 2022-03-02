@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MyMLH Backend
-image: /img/projects/mymlh_backend.png
+image: https://media.jvt.me/1dd71063ac.png
 github:
 gitlab:
 description: An open-source backend to enable hackathon organisers to easily and meaningfully integrate the MyMLH backend into their organisation workflow.

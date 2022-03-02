@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-24T13:43:40
 slug: "datetime-hugo"
-image: /img/vendor/hugo-logo.png
+image: https://media.jvt.me/445ff8a8fc.png
 ---
 Over the last week I've been on holiday, so I've been blogging a fair bit on the stuff I've been working on, which in some cases has resulted in me blogging a couple of times a day.
 

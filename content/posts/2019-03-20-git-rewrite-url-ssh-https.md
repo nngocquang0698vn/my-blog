@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-20T10:39:18+00:00
 slug: "git-rewrite-url-https-ssh"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 If you're working with Git repos regularly, be it for personal projects, Open Source work, or your day job, you may have have discovered [SSH keys] and using them to push/pull over SSH connections. They're a great way to remove the reliance on entering your username/password combination, as well as having a number of other security benefits.
 

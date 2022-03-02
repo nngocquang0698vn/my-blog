@@ -4,7 +4,7 @@ description: How to set up your AWS infrastructure to automagically assume IAM r
 tags:
 - blogumentation
 - aws
-image: /img/vendor/AmazonWebservices_Logo.png
+image: https://media.jvt.me/770ef46545.png
 date: 2021-12-02T17:20:42+0000
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

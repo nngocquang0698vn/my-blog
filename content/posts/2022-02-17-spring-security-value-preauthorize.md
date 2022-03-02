@@ -13,7 +13,7 @@ date: 2022-02-17T16:35:03+0000
 slug: "spring-security-value-preauthorize"
 syndication:
 - "https://brid.gy/publish/twitter"
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 If you're using Spring Security to authorize your application's authentication and authorization needs, you may want to extract some of your rules to configuration, rather than code, to allow quicker changes to the rulesets.
 

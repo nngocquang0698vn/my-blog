@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-06T23:24:40+0100
 slug: "netlify-slow-deploy"
-image: /img/vendor/netlify-full-logo-white.png
+image: https://media.jvt.me/4980436d0f.png
 ---
 For some time, my site has been getting slower and slower to deploy. It's definitely become more apparent now I'm publishing more content via my Micropub endpoint, as well as storing more content in the site itself.
 

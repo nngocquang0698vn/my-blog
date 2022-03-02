@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-15T14:59:28+01:00
 slug: "chef-dependency-management"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 I hear a question a fair bit when working with teams on Chef - "do I need to put this cookbook dependency into my `Berksfile` or my `metadata.rb`?"
 

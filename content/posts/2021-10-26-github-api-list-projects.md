@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-10-26T09:20:14+0100
 slug: "github-api-list-projects"
-image: /img/vendor/GitHub_Logo.png
+image: https://media.jvt.me/36fd7d2a48.png
 ---
 Let's say that you want to list the pull requests that are in a given GitHub Project board.
 

@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-29T23:18:37+0000
 slug: "jenkins-config-xml"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 series: nablopomo-2019
 ---
 Today I've been working with the [Jenkins Job DSL plugin](https://plugins.jenkins.io/job-dsl), which although great, doesn't provide native bindings for all the properties you'd want.

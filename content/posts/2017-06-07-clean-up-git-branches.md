@@ -4,7 +4,7 @@ description: Remove any merged local or branches from your local Git repository.
 tags:
 - blogumentation
 - git
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2017-06-07T20:33:14+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-04-14T21:29:14+0100
 slug: "gitlab-docker-runner-tcp-error"
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 ---
 About a month or so ago, I tried to install the [GitLab Runner](https://docs.gitlab.com/runner/) for some personal project usage, and kept getting hit with similar errors to below:
 

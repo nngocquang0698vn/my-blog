@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-16T22:53:50+0100
 slug: "four-years-capital-one"
-image: /img/capitalone_logo.png
+image: https://media.jvt.me/a5428fec17.png
 ---
 Saturday marked the 4th anniversary of my start at Capital One. I find it really quite amazing to think that it's already been four years!
 

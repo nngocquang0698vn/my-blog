@@ -7,7 +7,7 @@ tags:
 - kitchen
 - docker
 - howto
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 date: 2017-09-03T20:23:58+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

@@ -11,7 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-01-13T13:49:17+0000
 slug: "spring-boot-actuator-audit"
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 [Spring Boot Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html) is described in the docs as the "Production-ready features" that can be used for improving Spring Boot applications, and I always reach for it with new Spring Boot applications.
 

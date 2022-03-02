@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-05-27T19:18:58+0100
 slug: "migrate-netlify-deploy-gitlab"
-image: /img/vendor/netlify-full-logo-white.png
+image: https://media.jvt.me/4980436d0f.png
 ---
 # Webmention Sending
 

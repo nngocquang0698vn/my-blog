@@ -7,7 +7,7 @@ tags:
 - blogumentation
 - tools
 - howto
-image: /img/vendor/python-logo-notext.png
+image: https://media.jvt.me/185e2c98ab.png
 date: 2018-04-08T16:07:54+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

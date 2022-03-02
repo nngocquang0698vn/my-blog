@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-17T22:10:57+0000
 slug: "article-checklist"
 series: nablopomo-2019
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 ---
 Since this site existed, it's been managed through [GitLab.com](https://gitlab.com/).
 

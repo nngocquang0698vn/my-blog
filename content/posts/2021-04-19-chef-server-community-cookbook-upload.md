@@ -9,7 +9,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 slug: "chef-server-community-cookbook-upload"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 aliases:
 - /posts/2021/04/19/chef-dependency-graph/
 ---

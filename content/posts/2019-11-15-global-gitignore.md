@@ -10,7 +10,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2019-11-15T00:31:22+0000
 slug: "global-gitignore"
 series: nablopomo-2019
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 For quite some time, my Git config has had the following entry:
 

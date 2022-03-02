@@ -11,7 +11,7 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2021-06-02T09:21:09+0100
 slug: "testing-json-spring-boot"
 series: writing-better-tests
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 When working with data models in Java, we'll often have a Plain Old Java Object (POJO) that corresponds to the incoming request body, so we can interact with it more easily and have access to getters/setters.
 

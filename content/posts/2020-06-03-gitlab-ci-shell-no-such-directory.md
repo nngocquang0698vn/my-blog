@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-03T21:13:41+0100
 slug: "gitlab-ci-shell-no-such-directory"
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 ---
 Tonight I've been playing around with GitLab CI's `shell` executor, and my builds have been failing with this error:
 

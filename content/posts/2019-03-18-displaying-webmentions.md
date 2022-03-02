@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-18T17:22:20+00:00
 slug: "displaying-webmentions"
-image: /img/vendor/webmention-logo.png
+image: https://media.jvt.me/dac61c9880.png
 ---
 As part of my move into the [IndieWeb movement](https://indieweb.org/why), I wanted to increase the social interactions I have across multiple sites. I currently use [social silos](http://indieweb.org/silo) services like Twitter and Slack for a lot of social communication, but I need to have more interactions with the [Social Web](https://indieweb.org/social_web).
 

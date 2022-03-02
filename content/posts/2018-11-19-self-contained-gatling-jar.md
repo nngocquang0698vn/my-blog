@@ -11,7 +11,7 @@ tags:
 - artefact
 - maven
 - uber-jar
-image: /img/vendor/gatling-logo.png
+image: https://media.jvt.me/4f178fe7fb.png
 date: 2018-11-19T22:46:45+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

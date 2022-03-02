@@ -10,7 +10,7 @@ tags:
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "homebrew-website-club-nottingham"
-image: /img/vendor/hwc-80s-retro.jpg
+image: https://media.jvt.me/730a4429f8.jpeg
 ---
 Edit: Looking for the next Homebrew event? Check out [the IndieWeb events site](https://events.indieweb.org/tag/hwc-nottingham) for the next event.
 

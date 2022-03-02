@@ -5,7 +5,7 @@ tags:
 - blogumentation
 - gatling
 - gatling-highcharts
-image: /img/vendor/gatling-logo.png
+image: https://media.jvt.me/4f178fe7fb.png
 date: 2018-11-19T22:46:45+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
@@ -40,7 +40,7 @@ This meant that the graph and results weren't really that effective:
 
 This makes the charts pretty useless, as all the responses are under 800ms, so they're then just within that bound:
 
-![All response times in the "under 800ms" bound in the Gatling report](/img/gatling-highcharts-response-time-bounds/before.png)
+![All response times in the "under 800ms" bound in the Gatling report](https://media.jvt.me/92270f126b.png)
 
 I did some searching, but couldn't find much that documented why I'd be seeing this. I eventually landed on the [gatling-defaults.conf][gatling-defaults] in the source of gatling-core and found that I needed to tweak these values in my project's `gatling.conf` to override the defaults:
 
@@ -84,7 +84,7 @@ Once this was done, the console output correctly split the response times within
 
 As well as doing the same within the report:
 
-![Response times split between the higher and lower bounds within the Gatling report](/img/gatling-highcharts-response-time-bounds/after.png).
+![Response times split between the higher and lower bounds within the Gatling report](https://media.jvt.me/f1ce1f3e54.png).
 
 [fat-gatling-jar]: /posts/2018/11/19/self-contained-gatling-jar/
 [gatling-defaults]: https://github.com/gatling/gatling/blob/master/gatling-core/src/main/resources/gatling-defaults.conf

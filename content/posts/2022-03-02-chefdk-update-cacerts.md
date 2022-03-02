@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2022-03-02T09:59:42+0000
 slug: chefdk-update-cacerts
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 syndication:
 - "https://brid.gy/publish/twitter"
 ---

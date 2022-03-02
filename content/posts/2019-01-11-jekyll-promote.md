@@ -12,7 +12,7 @@ license_code: GPL-3.0-or-later
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-11T11:29:11+00:00
 slug: "jekyll-promote"
-image: /img/vendor/jekyll-logo-2x.png
+image: https://media.jvt.me/6ae9a10486.png
 ---
 When I used to use Jekyll, I had a workflow where a post would start as a draft, sitting in the `_drafts` folder, and once it was ready, I would "promote" it to a full-blown post.
 

@@ -11,7 +11,7 @@ tags:
 - "homebrew-website-club-nottingham"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/hwc-80s-retro.jpg"
+image: https://media.jvt.me/730a4429f8.jpeg
 slug: "homebrew-website-club-nottingham-url"
 ---
 <span class="h-card"><a class="u-url p-name" href="https://aaronparecki.com">Aaron Parecki</a></span> recently [announced the launch](https://aaronparecki.com/2019/12/21/4/indieweb-events) of a new space for events within the IndieWeb, [events.indieweb.org](https://events.indieweb.org). It's a new platform that will make discoverability of IndieWeb events much easier.

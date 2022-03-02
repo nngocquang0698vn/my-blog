@@ -2,7 +2,7 @@
 layout: project
 date: 2015-10-12
 title: Storyti.me
-image: /img/projects/storytime.png
+image: https://media.jvt.me/09ca562aa3.png
 github:
 gitlab:
 site_url:

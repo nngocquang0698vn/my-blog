@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-26T22:34:43+01:00
 slug: "setting-up-micropub"
-image: /img/vendor/micropub-rocks-icon.png
+image: https://media.jvt.me/c4cea26673.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

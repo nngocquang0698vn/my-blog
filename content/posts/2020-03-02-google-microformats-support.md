@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-03-02T21:20:10+0000
 slug: "google-microformats-support"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 syndication:
 - https://indieweb.xyz/en/indieweb
 - https://indieweb.xyz/en/microformats

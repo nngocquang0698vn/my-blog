@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-16T15:20:35+01:00
 slug: "cucumber-json-failed-scenarios"
-image: /img/vendor/cucumber.png
+image: https://media.jvt.me/be422b5aa6.png
 ---
 Every so often, I have to deal with failing Cucumber tests. And even with [the best visualisations (as per my article _Prettier HTML Reports for Cucumber-JVM_)](/posts/2019/04/07/prettier-cucumber-jvm-html-reports/), it can still be a pain to pick through the reporting to work out what's failing, and why.
 

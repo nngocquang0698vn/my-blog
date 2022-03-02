@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-29T21:39:04+00:00
 slug: "git-worktree-multiple-branches"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 On some of the projects I work on (such as this site) I'll be often multi-tasking between pieces of work. I'll be regularly context switching between branches i.e. responding to review comments, or moving further on development of a feature. One of the most painful things about this is only being able to check out one branch at a time.
 

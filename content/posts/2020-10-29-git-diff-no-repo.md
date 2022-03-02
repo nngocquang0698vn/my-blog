@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-10-29T09:24:38+0000
 slug: "git-diff-no-repo"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 I really like using `git diff`, as it's got some good defaults, and has some good options on top of it.
 

@@ -8,7 +8,7 @@ tags:
 - jwt
 - json
 - pretty-print
-image: /img/vendor/jwt.io.jpg
+image: https://media.jvt.me/0b0440faeb.jpeg
 date: 2022-02-26T20:54:40+0000
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

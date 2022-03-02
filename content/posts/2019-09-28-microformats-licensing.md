@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-28T23:46:41+0200
 slug: "microformats-licensing"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/microformats

@@ -8,7 +8,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 slug: "git-origin-head"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 Git provides the `HEAD` pointer to reference the currently checked out branch. Locally, this would be whichever branch you're on, but for a remote Git repo, this can be the default branch to check out the repo for.
 

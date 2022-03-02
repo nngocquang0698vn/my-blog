@@ -9,7 +9,7 @@ tags:
 - testing
 - javascript
 - nodejs
-image: /img/vendor/tyk.io.jpg
+image: https://media.jvt.me/a23b41f74b.jpeg
 date: 2018-12-10T23:39:25+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

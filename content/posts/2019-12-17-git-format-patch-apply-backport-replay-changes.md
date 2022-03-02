@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-17T21:33:54+0000
 slug: "git-format-patch-apply-backport-replay-changes"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 Today I was working on a number of different Git repos that needed exactly the same changes applied to them, including their commit message.
 

@@ -8,7 +8,7 @@ tags:
 - ci
 - gitlab
 - docker
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 date: 2017-01-25T22:16:49+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

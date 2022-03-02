@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-06-03T19:40:19+0100
 slug: "netlify-cli-branch"
-image: /img/vendor/netlify-full-logo-white.png
+image: https://media.jvt.me/4980436d0f.png
 syndication:
 - https://news.ycombinator.com/item?id=23407344
 - https://lobste.rs/s/iuvnzx/deploying_branch_netlify_on_command_line

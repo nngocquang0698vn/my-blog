@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-10-07T22:09:44+0100
 slug: "jenkins-unknown-revision-git"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 A few times this year I've been helping folks at work fighting an odd issue where, after performing Jenkins Git plugin updates, they're suddenly having their projects failing to build with the error:
 

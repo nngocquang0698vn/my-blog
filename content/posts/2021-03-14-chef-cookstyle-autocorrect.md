@@ -12,7 +12,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-03-14T12:41:45+0000
 slug: "chef-cookstyle-autocorrect"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 [Cookstyle](https://docs.chef.io/workstation/cookstyle/) is the primary linting tool for Chef cookbooks, and is a great way of picking up on common issues - be they style, or more substantial like antipatterns that were previously tracked using (the now deprecated) [Foodcritic](https://docs.chef.io/workstation/foodcritic/).
 

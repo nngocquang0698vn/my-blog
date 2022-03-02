@@ -22,7 +22,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-12T12:56:51+0100
 slug: "devopsdays-london-2019"
-image: /img/vendor/devopsdays-london-2019.png
+image: https://media.jvt.me/c7fd9426e2.png
 ---
 Note: This is a lengthier writeup than I'd hoped to do, hence it taking a little longer to be written, so feel free to dive into the sections you're interested in.
 

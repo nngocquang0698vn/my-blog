@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-06T23:49:07+0000
 slug: "jenkins-job-dsl-multibranch-external-script"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 I've recently started working with the [Jenkins Job DSL plugin](https://github.com/jenkinsci/job-dsl-plugin) to manage all my Jenkins jobs' configuration as code.
 

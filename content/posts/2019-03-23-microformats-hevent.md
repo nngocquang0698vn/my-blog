@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-03-23T14:19:49+00:00
 slug: "microformats-hevent"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 ---
 As I called out in [_Homebrew Website Club: Nottingham, Session 1_](/posts/2019/03/20/hwc-nottingham-session-1/), I wanted to have Microformats automagically generated for the content.
 

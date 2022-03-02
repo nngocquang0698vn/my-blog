@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-09-22T13:48:10+0100
 slug: "git-debug-environment-variable"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 One of the frustrating things I've found with Git is that it can be difficult to work out why errors have occurred:
 

@@ -11,7 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-19T18:06:00+00:00
 slug: "git-ref-gitlab-environments"
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 ---
 If you're using GitLab's Environments concept to track your deployments to i.e. Production, or even to a feature branch using [Review Apps](https://docs.gitlab.com/ee/ci/review_apps/), you may be aware that GitLab will map the Environment's deployment back to the commit that created it.
 

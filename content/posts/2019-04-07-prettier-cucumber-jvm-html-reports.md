@@ -11,18 +11,18 @@ tags:
 - "reporting"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/cucumber.png"
+image: https://media.jvt.me/be422b5aa6.png
 slug: "prettier-cucumber-jvm-html-reports"
 ---
 I work a fair bit with [Cucumber-JVM](https://docs.cucumber.io/installation/java/) in my professional life, which runs various acceptance / component tests for Java services. When sharing test results with stakeholders such as Product Owners, I need an easier format to share with them, so have used the built-in Cucumber `html` reporting:
 
-![Built-in HTML report](/img/prettier-cucumber-jvm-html-reports/builtin-report.png)
+![Built-in HTML report](https://media.jvt.me/82c74c57e4.png)
 
 Late last year, <span class="h-card"><a class="u-url p-name" href="https://twitter.com/3lTimbo">Tim Norris</a></span> recommended I try out the Jenkins plugin [`cucumber-reports-plugin`](https://github.com/jenkinsci/cucumber-reports-plugin) for reporting instead of the built-in HTML reporter. He's been using it for some of the services that he owns, and found that the use of the plugin made looking at test results much easier than using the built-in reporting, not least because it was a bit more visual in its usage.
 
 As we can see, it has a much nicer visual breakdown of the steps and features:
 
-![Pretty HTML report](/img/prettier-cucumber-jvm-html-reports/pretty-report.png)
+![Pretty HTML report](https://media.jvt.me/2f5d1c820b.png)
 
 All the plugin needs is to be pointed to your `cucumber-report.json`, after which it'll publish the HTML to the Jenkins UI.
 

@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-02T22:35:40+01:00
 slug: "newlines-all-git-files"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 One of my pet peeves in code review is seeing a file added which does not end with a newline.
 

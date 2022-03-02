@@ -12,7 +12,7 @@ tags:
 - "indieweb"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/webmention-logo.png"
+image: https://media.jvt.me/dac61c9880.png
 slug: "webmention-notifications"
 ---
 Since I set up Webmentions in January 2018 using [Webmention.io](https://webmention.io), I've been starting to receive more interactions with my site across the social web.

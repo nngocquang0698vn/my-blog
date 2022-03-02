@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-05-26T11:15:45+0100
 slug: "hugo-render"
-image: /img/vendor/hugo-logo.png
+image: https://media.jvt.me/445ff8a8fc.png
 ---
 Up until recently, my Hugo site's templates were full of snippets like:
 

@@ -2,7 +2,7 @@
 layout: project
 date: 2013-01-1
 title: disARM
-image: /img/projects/disarm.png
+image: https://media.jvt.me/472981e84d.png
 github: jamietanna/disARM
 gitlab:
 description: A disassembler for ARM assembly ELF files, with symbol decoding.

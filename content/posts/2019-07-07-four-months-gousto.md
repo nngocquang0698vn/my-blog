@@ -27,7 +27,7 @@ We'd end up being more motivated to leave the house and pick up a takeaway than 
 
 So in February, Anna is chatting with one of her colleagues, who happened to mention that he and his wife used [Gousto](https://www.gousto.co.uk/) and found it really great. They gave us a discount code which made it a bit less daunting cost-wise and gave us a good reason to continue using it for a little bit due to the discount over that first month. So on February 12 we ordered our first Gousto box.
 
-![First Gousto unboxed](/img/four-months-gousto/first-unboxed.jpeg)
+![First Gousto unboxed](https://media.jvt.me/e2e2a4d7fc.jpeg)
 
 # On Recipe Length
 
@@ -49,7 +49,7 @@ One unfortunate side effect of the move to having self-contained, healthier port
 
 But that doesn't mean that they're by any means small - each meal has felt like it's had plenty for two people, unless you go for the very healthy meals.
 
-![Extra Special Sausage and Mash](/img/four-months-gousto/sausage-mash.jpg)
+![Extra Special Sausage and Mash](https://media.jvt.me/4d41ee6200.jpeg)
 
 We've found that it's been a really awesome variety, from [Swedish Meatballs, Mash and Green Beans](https://www.gousto.co.uk/cookbook/pork-recipes/swedish-meatballs-mash-green-beans) to [Chicken Katsu Curry](https://www.gousto.co.uk/cookbook/chicken-recipes/chicken-katsu-curry) to [Chinese-Style Beef & Green Pepper Stir-Fry](https://www.gousto.co.uk/cookbook/beef-recipes/chinese-style-beef-green-pepper-stir-fry). As well as the usual food we'd cook, we've found we're venturing into other cuisines we wouldn't usually try, as well as going for more "difficult" recipes compared to what we used to do previously. It's opened our eyes culinarily, and shown that actually we can cook if we have a good recipe, and it's really helped with our confidence with that in mind. Following a recipe is pretty easy, it turns out!
 
@@ -93,7 +93,7 @@ We also eat a lot better, having balanced meals, and end up finding we snack/hav
 
 It's also quite interesting to see how important presentation is! For instance, the [Sticky Chicken With Soy, Sesame & Chilli](https://www.gousto.co.uk/cookbook/chicken-recipes/sticky-chicken-with-soy-sesame-chilli) was such a tasty meal, but no doubt tasted much better because of the sprinkling of sesame seeds:
 
-![Sticky Chicken With Soy, Sesame & Chilli](/img/four-months-gousto/sesame-chicken.jpg)
+![Sticky Chicken With Soy, Sesame & Chilli](https://media.jvt.me/04cc0b3e5d.jpeg)
 
 # Want to try it?
 

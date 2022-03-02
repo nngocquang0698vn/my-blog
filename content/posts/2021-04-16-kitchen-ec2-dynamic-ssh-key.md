@@ -11,7 +11,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 slug: "kitchen-ec2-dynamic-ssh-key"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 As I've mentioned recently, I'm working on rebuilding our Chef pipelines at work.
 

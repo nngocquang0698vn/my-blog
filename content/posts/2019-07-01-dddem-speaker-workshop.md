@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-07-01T22:35:22+01:00
 slug: "dddem-speaker-workshop"
-image: /img/vendor/dddem.jpg
+image: https://media.jvt.me/426eb1a84b.jpeg
 ---
 On Saturday I was fortunate enough to attend the Speaker Workshop for [DDD: East Midlands](https://www.dddeastmidlands.com/), which was aimed to supercharge the speakers' talk game, as well as help support newer speakers and give them a set of more formal tips and tricks to get started with.
 

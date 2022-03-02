@@ -8,7 +8,7 @@ tags:
 - caddy
 - howto
 - deploy
-image: /img/vendor/gitlab-wordmark.png
+image: https://media.jvt.me/c02cdf0130.png
 date: 2018-04-15T15:18:02+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

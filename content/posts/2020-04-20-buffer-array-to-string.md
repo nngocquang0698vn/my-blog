@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-04-20T16:51:10+0100
 slug: "buffer-array-to-string"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 If you're working with Node.JS, you may have encountered [`Buffer`s](https://nodejs.org/api/buffer.html) which are a way to store binary data as a sequence of its bytes.
 

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-23T11:01:55+0000
 slug: "gitlab-ci-npm-publish"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 To be able to more easily release packages to the NPM registry, we likely want to have our CI/CD process publish packages on tagged versions.
 

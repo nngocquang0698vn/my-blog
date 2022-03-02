@@ -6,7 +6,7 @@ tags:
 - command-line
 - shell
 - blogumentation
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2018-09-11T18:27:25+01:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

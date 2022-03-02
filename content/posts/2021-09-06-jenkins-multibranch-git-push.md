@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-09-06T10:00:50+0100
 slug: "jenkins-multibranch-git-push"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 When you're working with Jenkins multibranch pipelines, it's possible that you'd want to push something back to Git after the fact.
 

@@ -11,7 +11,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-08-31T13:12:58+01:00
 slug: "microformats-meetup"
-image: /img/vendor/microformats-logo.png
+image: https://media.jvt.me/a8371cdde8.png
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb

@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-12-06T18:41:19+0000
 slug: "node-data-url"
-image: /img/vendor/nodejs.png
+image: https://media.jvt.me/03019529e6.png
 ---
 [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) are a pretty handy way of encoding small files, or binary data, into HTML.
 

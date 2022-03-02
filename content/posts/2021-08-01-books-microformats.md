@@ -12,7 +12,7 @@ tags:
 - "books-mf2"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "/img/vendor/microformats-logo.png"
+image: https://media.jvt.me/a8371cdde8.png
 slug: "books-microformats"
 ---
 Although I've not read too much lately, I do enjoy reading. As with many things, I like to publish the things I'm reading [to my website](/kind/reads/), using the [Micropub standard](https://micropub.spec.indieweb.org/).

@@ -13,7 +13,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-10-03T19:14:04+0100
 slug: "indiewebcamp-amsterdam-2019"
-image: /img/indiewebcamp-amsterdam-2019/group-aaronpk.jpg
+image: https://media.jvt.me/2b8e86cefb.jpeg
 syndication:
 - https://news.indieweb.org/en
 - https://indieweb.xyz/en/indieweb
@@ -22,7 +22,7 @@ syndication:
 I've had a great couple of days at [IndieWebCamp Amsterdam](https://indieweb.org/2019/Amsterdam). It was my first IndieWebCamp, and it was a great in-person introduction to the wider IndieWeb community, although I've been active on Chat for some time!
 
 <figure>
-  <img src="/img/indiewebcamp-amsterdam-2019/group-aaronpk.jpg" alt="The IndieWebCamp Amsterdam 2019 Attendees on Saturday" />
+  <img src="https://media.jvt.me/2b8e86cefb.jpeg" alt="The IndieWebCamp Amsterdam 2019 Attendees on Saturday" />
   <p><figcaption>The IndieWebCamp Amsterdam 2019 Attendees on Saturday, <a href="https://www.flickr.com/photos/aaronpk/48831590597/in/album-72157711161622328/">original photo CC-BY-2.0 by Aaron Parecki</a>.</figcaption></p>
 </figure>
 

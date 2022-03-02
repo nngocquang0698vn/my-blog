@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2020-02-23T13:03:45+0000
 slug: "jenkins-multibranch-skip-branch-index"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 Jenkins has the ability to set up a [multibranch pipeline](https://jenkins.io/doc/book/pipeline/multibranch/) which allows you to run configure building of your branches and Pull/Merge requests using the same configuration, which is very useful.
 

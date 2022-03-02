@@ -9,7 +9,7 @@ date: 2022-03-01T14:50:55+0000
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0
 slug: micropub-go-cli
-image: /img/vendor/micropub-rocks-icon.png
+image: https://media.jvt.me/c4cea26673.png
 syndication:
 - "https://brid.gy/publish/twitter"
 - https://news.indieweb.org/en

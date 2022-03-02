@@ -10,7 +10,7 @@ tags:
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 slug: "kitchen-docker-ssh-waiting"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 Although the Docker driver is no longer included by default in the Chef Workstation, with [kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) being recommended now, you may still want to use it.
 

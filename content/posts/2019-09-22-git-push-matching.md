@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-09-22T15:33:14+0100
 slug: "git-push-matching"
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 ---
 One of the most annoying things about working with branches in Git is managing to push to the upstream repository without receiving the error:
 

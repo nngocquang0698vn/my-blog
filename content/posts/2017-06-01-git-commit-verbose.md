@@ -7,7 +7,7 @@ tags:
 - commit
 - shell
 - workflow
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2017-06-01T20:04:19+00:00
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

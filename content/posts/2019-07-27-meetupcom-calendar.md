@@ -17,7 +17,7 @@ This is quite a useful way to get your _upcoming_ events hooked into your calend
 
 To do this, all you need to do is log into Meetup.com, and click the `Export to` button, then copy-paste the `iCal calendar` link which appears:
 
-![The Meetup.com login screen, with the Export To menu clicked](/img/meetupcom-calendar.png)
+![The Meetup.com login screen, with the Export To menu clicked](https://media.jvt.me/d3cdd7cdc4.png)
 
 With that link, you can then add that into your favourite calendar client, and it'll show you all your upcoming events.
 

@@ -4,7 +4,7 @@ description: "How to export a Git repo as an archive format, such as a `.tar.gz`
 tags:
 - blogumentation
 - git
-image: /img/vendor/git.png
+image: https://media.jvt.me/53239026de.png
 date: 2022-02-18T14:01:20+0000
 license_prose: CC-BY-NC-SA-4.0
 license_code: Apache-2.0

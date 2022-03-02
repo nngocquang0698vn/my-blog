@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-05-10T15:49:03+0100
 slug: "job-dsl-multibranch-github-trust"
-image: /img/vendor/jenkins.png
+image: https://media.jvt.me/0318664e33.png
 ---
 When creating a Jenkins Multibranch pipeline, you may find that you want to tweak the permissions that are used to allow specifying whether you want to trust PRs from only people with Write/Admin access to a repo, everyone, or no one.
 

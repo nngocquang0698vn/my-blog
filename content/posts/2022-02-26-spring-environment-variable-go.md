@@ -13,7 +13,7 @@ license_code: Apache-2.0
 slug: spring-environment-variable-go
 syndication:
 - "https://brid.gy/publish/twitter"
-image: /img/vendor/spring-logo.png
+image: https://media.jvt.me/3e88e3081a.png
 ---
 Since [I migrated my personal Spring Boot applications to run on Kubernetes](https://www.jvt.me/posts/2021/10/25/kubernetes-migration/), I've been using Spring Boot's [environment variables support](https://docs.spring.io/spring-boot/docs/2.6.4/reference/html/features.html#features.external-config.typesafe-configuration-properties.relaxed-binding.environment-variables) to configure the application.
 

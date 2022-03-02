@@ -9,7 +9,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2021-09-07T09:15:34+0100
 slug: "gherkin-java-formatter"
-image: /img/vendor/cucumber.png
+image: https://media.jvt.me/be422b5aa6.png
 ---
 # Inception
 

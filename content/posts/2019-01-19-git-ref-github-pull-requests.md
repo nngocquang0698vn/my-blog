@@ -10,7 +10,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-01-19T17:18:50+00:00
 slug: "git-ref-github-pull-requests"
-image: /img/vendor/GitHub_Logo.png
+image: https://media.jvt.me/36fd7d2a48.png
 ---
 When reviewing a Pull Request, it can be often more helpful to check out the codebase with the changes applied, rather than just reviewing through the interface.
 

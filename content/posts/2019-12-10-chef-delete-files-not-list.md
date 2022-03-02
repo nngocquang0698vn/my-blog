@@ -8,7 +8,7 @@ license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
 date: 2019-12-10T23:10:25+0000
 slug: "chef-delete-files-not-list"
-image: /img/vendor/chef-logo.png
+image: https://media.jvt.me/57345b1a3e.png
 ---
 I've seen some search traffic recently hitting my site while looking for "chef remove files that aren't in a list". I thought I'd document this for anyone who's trying to work this out.
 
