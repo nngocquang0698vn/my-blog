@@ -4,6 +4,7 @@ description: "How to replace text under the cursor with the output of a command.
 tags:
 - blogumentation
 - vim
+- neovim
 - command-line
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
