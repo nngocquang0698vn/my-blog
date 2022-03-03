@@ -11,6 +11,8 @@ license_prose: CC-BY-NC-SA-4.0
 date: 2022-03-03T09:35:45+0000
 slug: vim-command-visual-selection
 image: https://media.jvt.me/efa7085abe.jpeg
+syndication:
+- "https://brid.gy/publish/twitter"
 ---
 As noted in [Replacing Text in Vim with the Output of a Command](/posts/2022/02/01/vim-replace-with-command-execution/), it can be handy to pipe a bit of text into another command.
 
