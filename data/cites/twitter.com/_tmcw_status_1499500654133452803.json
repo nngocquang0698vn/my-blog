@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn ny" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom MacWright" ],
+        "nickname" : [ "tmcw" ],
+        "numeric-id" : [ "1458271" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1172554769237336065/CIdcAG0d.jpg" ],
+        "published" : [ "2007-03-19T01:06:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tmcw" ],
+        "url" : [ "https://twitter.com/tmcw", "https://macwright.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">interviewer, looking at resume: i see no gaps here, you must be burned out as fuck\njob candidate: yes</div>",
+      "value" : "interviewer, looking at resume: i see no gaps here, you must be burned out as fuck\njob candidate: yes"
+    } ],
+    "published" : [ "2022-03-03T21:43:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1499500654133452803" ],
+    "url" : [ "https://twitter.com/tmcw/status/1499500654133452803" ]
+  },
+  "type" : [ "h-entry" ]
+}
