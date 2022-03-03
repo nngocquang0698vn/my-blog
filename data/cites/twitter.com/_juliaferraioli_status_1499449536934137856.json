@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I don't say stuff like this often, but if you think that <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a> is about one person, you are doing it wrong.",
+      "value" : "I don't say stuff like this often, but if you think that #OpenSource is about one person, you are doing it wrong."
+    } ],
+    "published" : [ "2022-03-03T18:20:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1499449536934137856" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1499449536934137856" ]
+  },
+  "type" : [ "h-entry" ]
+}
