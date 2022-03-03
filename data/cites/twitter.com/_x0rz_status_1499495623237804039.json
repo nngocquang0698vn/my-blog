@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "the interwebs" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Zander Work" ],
+          "nickname" : [ "captainGeech42" ],
+          "numeric-id" : [ "2941364418" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1215363220245897216/xhnKPx6R.jpg" ],
+          "published" : [ "2014-12-24T04:28:40+00:00" ],
+          "uid" : [ "tag:twitter.com:captainGeech42" ],
+          "url" : [ "https://twitter.com/captainGeech42", "https://zanderwork.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Even Trickbot operators can't figure out how to quit vim\n\n(max, AKA Alla Witte, talking to strix)</div>",
+        "value" : "Even Trickbot operators can't figure out how to quit vim\n\n(max, AKA Alla Witte, talking to strix)"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FM8hWYKWYAs6XS3.png" ],
+      "published" : [ "2022-03-03T18:39:26+00:00" ],
+      "uid" : [ "tag:twitter.com:1499454419599077382" ],
+      "url" : [ "https://twitter.com/captainGeech42/status/1499454419599077382" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "x0rz" ],
+        "nickname" : [ "x0rz" ],
+        "numeric-id" : [ "71522953" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/948466032716472320/72zSILqD.jpg" ],
+        "published" : [ "2009-09-04T12:30:39+00:00" ],
+        "uid" : [ "tag:twitter.com:x0rz" ],
+        "url" : [ "https://twitter.com/x0rz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "MFW you’re getting hacked by people that can’t exit vim <a href=\"https://twitter.com/captaingeech42/status/1499454419599077382\">twitter.com/captaingeech42…</a>",
+      "value" : "MFW you’re getting hacked by people that can’t exit vim twitter.com/captaingeech42…"
+    } ],
+    "published" : [ "2022-03-03T21:23:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1499495623237804039" ],
+    "url" : [ "https://twitter.com/x0rz/status/1499495623237804039" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FM9HT_OWQAQDS42.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
