@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "California, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Moxie Marlinspike" ],
+          "nickname" : [ "moxie" ],
+          "numeric-id" : [ "76980293" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1390318592902631429/zQifJNrQ.jpg" ],
+          "published" : [ "2009-09-24T16:31:22+00:00" ],
+          "uid" : [ "tag:twitter.com:moxie" ],
+          "url" : [ "https://twitter.com/moxie", "https://instagram.com/moxiemarlinspike" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">It's amazing to me that after all this time, almost all media coverage of Telegram still refers to it as an \"encrypted messenger.\" \n\nTelegram has a lot of compelling features, but in terms of privacy and data collection, there is no worse choice. Here's how it actually works:\n\n1/</div>",
+        "value" : "It's amazing to me that after all this time, almost all media coverage of Telegram still refers to it as an \"encrypted messenger.\" \n\nTelegram has a lot of compelling features, but in terms of privacy and data collection, there is no worse choice. Here's how it actually works:\n\n1/"
+      } ],
+      "published" : [ "2021-12-23T17:21:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1474067549574688768" ],
+      "url" : [ "https://twitter.com/moxie/status/1474067549574688768" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Moxie Marlinspike" ],
+        "nickname" : [ "moxie" ],
+        "numeric-id" : [ "76980293" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1390318592902631429/zQifJNrQ.jpg" ],
+        "published" : [ "2009-09-24T16:31:22+00:00" ],
+        "uid" : [ "tag:twitter.com:moxie" ],
+        "url" : [ "https://twitter.com/moxie", "https://instagram.com/moxiemarlinspike" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Telegram is the most popular messenger in urban Ukraine. After a decade of misleading marketing and press, most ppl there believe it’s an “encrypted app”\n\nThe reality is the opposite-TG is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd.</div>",
+      "value" : "Telegram is the most popular messenger in urban Ukraine. After a decade of misleading marketing and press, most ppl there believe it’s an “encrypted app”\n\nThe reality is the opposite-TG is by default a cloud database w/ a plaintext copy of every msg everyone has ever sent/recvd."
+    } ],
+    "published" : [ "2022-02-25T00:11:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1497001286444617746" ],
+    "url" : [ "https://twitter.com/moxie/status/1497001286444617746" ]
+  },
+  "type" : [ "h-entry" ]
+}
