@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "can't believe the nerve of some people" ],
+    "photo" : [ {
+      "alt" : "screenshot of text messages where the sender is named \"Roommate\".\n\nroommate: hey amy i noticed the rent was due a couple days ago and you still haven’t venmo’d me your share. can you send it to me when you have time?  \n\nme: It's a real shame that this is the world we find ourselves in now.\n\nme: One so sharply divided by calendars and economic disparity that we can't even share the love of our apartment together without a need to settle scores.",
+      "value" : "https://pbs.twimg.com/media/FM8l_2JVUA8iADt.jpg"
+    } ],
+    "published" : [ "2022-03-03T18:57:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1499458982930370587" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1499458982930370587" ]
+  },
+  "type" : [ "h-entry" ]
+}
