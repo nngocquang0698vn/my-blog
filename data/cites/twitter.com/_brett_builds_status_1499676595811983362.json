@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leeds" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brett 🧑‍💻🚵‍♂️🏃‍♂️💚🇪🇺" ],
+        "nickname" : [ "brett_builds" ],
+        "numeric-id" : [ "1303971817758044162" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1305462025250844673/fnHht__U.jpg" ],
+        "published" : [ "2020-09-10T08:21:35+00:00" ],
+        "uid" : [ "tag:twitter.com:brett_builds" ],
+        "url" : [ "https://twitter.com/brett_builds" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">YOLO in to Production is a valid deployment methodology.\n\nIt usually follows a lengthy CAB and assurance process, such that you've largely forgotten the detail of what you're actually deploying.</div>",
+      "value" : "YOLO in to Production is a valid deployment methodology.\n\nIt usually follows a lengthy CAB and assurance process, such that you've largely forgotten the detail of what you're actually deploying."
+    } ],
+    "published" : [ "2022-03-04T09:22:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1499676595811983362" ],
+    "url" : [ "https://twitter.com/brett_builds/status/1499676595811983362" ]
+  },
+  "type" : [ "h-entry" ]
+}
