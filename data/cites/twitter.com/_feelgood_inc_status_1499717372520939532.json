@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "FGinc" ],
+        "nickname" : [ "feelgood_inc" ],
+        "numeric-id" : [ "14091884" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1367178131946242052/mh7Bk0R3.jpg" ],
+        "published" : [ "2008-03-06T22:42:27+00:00" ],
+        "uid" : [ "tag:twitter.com:feelgood_inc" ],
+        "url" : [ "https://twitter.com/feelgood_inc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You mean the same that already exists on <a href=\"https://twitter.com/gitlab\">@gitlab</a> ?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/danielcroe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>",
+      "value" : "You mean the same that already exists on @gitlab ?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/danielcroe/status/1499406399612329989" ],
+    "published" : [ "2022-03-04T12:04:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1499717372520939532" ],
+    "url" : [ "https://twitter.com/feelgood_inc/status/1499717372520939532" ]
+  },
+  "type" : [ "h-entry" ]
+}
