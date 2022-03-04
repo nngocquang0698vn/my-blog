@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484360216804085760/6INZzUoH.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this country is overflowing with people who proudly boast both that they are goku in their own imaginations and chuckie rugrats in real life" ],
+    "in-reply-to" : [ "https://twitter.com/eevee/status/1499733709318066177" ],
+    "published" : [ "2022-03-04T13:17:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1499735731610132480" ],
+    "url" : [ "https://twitter.com/eevee/status/1499735731610132480" ]
+  },
+  "type" : [ "h-entry" ]
+}
