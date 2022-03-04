@@ -27,9 +27,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
-class E {
+class Example {
   @Test
-  void exampl() {
+  void example() {
     assertThatThrownBy(this::process).isInstanceOf(BusinessLogicException.class);
   }
 
