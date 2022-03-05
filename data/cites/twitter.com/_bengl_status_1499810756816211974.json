@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Occupied Canarsee Land (NYC)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bryan English (💉💉💉)" ],
+        "nickname" : [ "bengl" ],
+        "numeric-id" : [ "14863971" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/829415300693061632/rFywEBk7.jpg" ],
+        "published" : [ "2008-05-22T03:13:29+00:00" ],
+        "uid" : [ "tag:twitter.com:bengl" ],
+        "url" : [ "https://twitter.com/bengl", "http://bryanenglish.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm finding more and more use cases for long/detailed error messages in Node.js.\n\nWhat if we normalized/standardized a `detailedMessage` property containing multiline super-helpful error messages, with ANSI diagrams even.\n\nBuilding support for it into test runners would be cool!</div>",
+      "value" : "I'm finding more and more use cases for long/detailed error messages in Node.js.\n\nWhat if we normalized/standardized a `detailedMessage` property containing multiline super-helpful error messages, with ANSI diagrams even.\n\nBuilding support for it into test runners would be cool!"
+    } ],
+    "published" : [ "2022-03-04T18:15:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1499810756816211974" ],
+    "url" : [ "https://twitter.com/bengl/status/1499810756816211974" ]
+  },
+  "type" : [ "h-entry" ]
+}
