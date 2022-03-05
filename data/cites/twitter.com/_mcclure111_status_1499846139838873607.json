@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Lehi, Utah" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BJ Homer" ],
+          "nickname" : [ "bjhomer" ],
+          "numeric-id" : [ "16130407" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/854369297560358912/iQclwEJv.jpg" ],
+          "published" : [ "2008-09-04T15:41:34+00:00" ],
+          "uid" : [ "tag:twitter.com:bjhomer" ],
+          "url" : [ "https://twitter.com/bjhomer", "http://bjhomer.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Swift understands this. JS does not.\n\n-12219296400 is the timestamp 1 hour before the beginning of October 15, 1582 (UTC). That means it should be October 4, 23:00 hours, because of the skipped days.\n\nJS gives back October 14, 1582. A day that did not exist.</div>",
+        "value" : "Swift understands this. JS does not.\n\n-12219296400 is the timestamp 1 hour before the beginning of October 15, 1582 (UTC). That means it should be October 4, 23:00 hours, because of the skipped days.\n\nJS gives back October 14, 1582. A day that did not exist."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/bjhomer/status/1499825574683889664" ],
+      "photo" : [ "https://pbs.twimg.com/media/FNBzakTUcAE0Tqb.jpg" ],
+      "published" : [ "2022-03-04T19:14:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1499825578488123392" ],
+      "url" : [ "https://twitter.com/bjhomer/status/1499825578488123392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "mcc" ],
+        "nickname" : [ "mcclure111" ],
+        "numeric-id" : [ "312426579" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/852519442047225857/juzc1JeR.jpg" ],
+        "published" : [ "2011-06-07T03:20:19+00:00" ],
+        "uid" : [ "tag:twitter.com:mcclure111" ],
+        "url" : [ "https://twitter.com/mcclure111", "http://runhello.com/", "http://mastodon.social/@mcc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In which JavaScript, which you'd think has enough enemies already, risks incurring the wrath of Pope Gregory XIII" ],
+    "published" : [ "2022-03-04T20:36:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1499846139838873607" ],
+    "url" : [ "https://twitter.com/mcclure111/status/1499846139838873607" ]
+  },
+  "type" : [ "h-entry" ]
+}
