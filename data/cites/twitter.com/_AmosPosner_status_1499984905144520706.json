@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amos Posner" ],
+        "nickname" : [ "AmosPosner" ],
+        "numeric-id" : [ "162477050" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/866724294566522882/lVT19fqp.jpg" ],
+        "published" : [ "2010-07-03T19:55:55+00:00" ],
+        "uid" : [ "tag:twitter.com:AmosPosner" ],
+        "url" : [ "https://twitter.com/AmosPosner" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It’s not a 9/11 joke, it’s a Remember Me joke. Now quit using the mentions of my dumb joke to dig into fights with strangers. You could be doing anything else.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/WilliamBatcake\"></a>",
+      "value" : "It’s not a 9/11 joke, it’s a Remember Me joke. Now quit using the mentions of my dumb joke to dig into fights with strangers. You could be doing anything else."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/WilliamBatcake/status/1499962036146475009" ],
+    "published" : [ "2022-03-05T05:47:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1499984905144520706" ],
+    "url" : [ "https://twitter.com/AmosPosner/status/1499984905144520706" ]
+  },
+  "type" : [ "h-entry" ]
+}
