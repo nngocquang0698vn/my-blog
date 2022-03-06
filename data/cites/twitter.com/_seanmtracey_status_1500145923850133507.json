@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sean M. Tracey" ],
+        "nickname" : [ "seanmtracey" ],
+        "numeric-id" : [ "42671737" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1347217250273660928/ykYox9-J.jpg" ],
+        "published" : [ "2009-05-26T17:27:51+00:00" ],
+        "uid" : [ "tag:twitter.com:seanmtracey" ],
+        "url" : [ "https://twitter.com/seanmtracey", "https://smt.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Meanwhile, in Gran Canaria..." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Santa Brígida, España" ],
+        "uid" : [ "tag:twitter.com:57592f08f275fc5f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FNGWonMWQAUVGXY.jpg" ],
+    "published" : [ "2022-03-05T16:27:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1500145923850133507" ],
+    "url" : [ "https://twitter.com/seanmtracey/status/1500145923850133507" ]
+  },
+  "type" : [ "h-entry" ]
+}
