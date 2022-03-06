@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"You can't have ice cream until you've eaten your vegetables.\" ➡ Sensible.\n\n\"No new features until you've fixed your bugs.\" ➡️ AN OUTRAGE!</div>",
+      "value" : "\"You can't have ice cream until you've eaten your vegetables.\" ➡ Sensible.\n\n\"No new features until you've fixed your bugs.\" ➡️ AN OUTRAGE!"
+    } ],
+    "published" : [ "2016-03-06T13:39:42+00:00" ],
+    "uid" : [ "tag:twitter.com:706474339399557120" ],
+    "url" : [ "https://twitter.com/edent/status/706474339399557120" ]
+  },
+  "type" : [ "h-entry" ]
+}
