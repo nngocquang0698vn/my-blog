@@ -1,6 +1,6 @@
 ---
-title: "Converting an `x5c` from a JSON Web Key to a PEM with Node.JS"
-description: "How to convert a JWK's `x5c` to a PEM-formatted certificate with Node.JS."
+title: "Extracting `x5c`s from a JSON Web Key Set (JWKS) to PEM files with Node.js"
+description: "How to extract the full chain of certificates from a JWKS' `x5c` parameter to files."
 tags:
 - blogumentation
 - nodejs
