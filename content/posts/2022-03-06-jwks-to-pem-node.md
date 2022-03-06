@@ -49,8 +49,8 @@ jose.JWK.asKeyStore(fs.readFileSync(process.argv[2], 'utf-8')).then(async keysto
     const jwk = k.toObject()
     jwk.x5c.forEach((x5c, i) => {
       const cert = new crypto.X509Certificate(Buffer.from(x5c, 'base64'))
-      fs.writeFile(`${jwk.kid}_${i}.pem`, cert.toString(), function(err) {
-        if (err) return console.log(err);
+      fs.writeFile(`${jwk.kid}_${i}.pem`, cert.toString(), function (err) {
+        if (err) return console.log(err)
       })
     })
   })
