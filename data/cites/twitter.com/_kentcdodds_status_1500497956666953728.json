@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pleasant Grove, UT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kent C. Dodds 💿" ],
+        "nickname" : [ "kentcdodds" ],
+        "numeric-id" : [ "389681470" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1444988463216922631/IDffhy4i.jpg" ],
+        "published" : [ "2011-10-12T20:43:38+00:00" ],
+        "uid" : [ "tag:twitter.com:kentcdodds" ],
+        "url" : [ "https://twitter.com/kentcdodds", "http://kentcdodds.com", "http://TestingJavaScript.com", "http://EpicReact.Dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I too like the .config directory. Happy with that. I just want to solve the problem easily with our existing tools and it seems like standardizing on something to the point where editor plugins will build in the convention would be important." ],
+    "in-reply-to" : [ "https://twitter.com/kentcdodds/status/1500296067060928514" ],
+    "published" : [ "2022-03-06T15:46:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1500497956666953728" ],
+    "url" : [ "https://twitter.com/kentcdodds/status/1500497956666953728" ]
+  },
+  "type" : [ "h-entry" ]
+}
