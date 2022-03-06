@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The World" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bob Beer 🌈" ],
+        "nickname" : [ "bobertobeer" ],
+        "numeric-id" : [ "622179004" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275919903757721605/sNIm3Qh3.jpg" ],
+        "published" : [ "2012-06-29T19:34:05+00:00" ],
+        "uid" : [ "tag:twitter.com:bobertobeer" ],
+        "url" : [ "https://twitter.com/bobertobeer", "https://www.instagram.com/bobertobeer" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Tart-sweet with salty-oily meats is a classic pairing in cuisines around the world. Just because the Italians didn’t get the memo, it doesn’t mean pineapple and ham on pizza is wrong in any objective way.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_hood_mona_lisa\"></a>",
+      "value" : "Tart-sweet with salty-oily meats is a classic pairing in cuisines around the world. Just because the Italians didn’t get the memo, it doesn’t mean pineapple and ham on pizza is wrong in any objective way."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/_hood_mona_lisa/status/1499479363657609217" ],
+    "published" : [ "2022-03-04T00:24:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1499541250759823360" ],
+    "url" : [ "https://twitter.com/bobertobeer/status/1499541250759823360" ]
+  },
+  "type" : [ "h-entry" ]
+}
