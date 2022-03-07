@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brum" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica Rose" ],
+        "nickname" : [ "jesslynnrose" ],
+        "numeric-id" : [ "1530096708" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252594551807754246/--PG7H_D.jpg" ],
+        "published" : [ "2013-06-19T07:56:27+00:00" ],
+        "uid" : [ "tag:twitter.com:jesslynnrose" ],
+        "url" : [ "https://twitter.com/jesslynnrose", "http://jessica.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tech folks, back me up on this: technical tests and assessments for tech jobs - they're very bad for no reason?" ],
+    "published" : [ "2022-03-07T16:38:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1500873647073935365" ],
+    "url" : [ "https://twitter.com/jesslynnrose/status/1500873647073935365" ]
+  },
+  "type" : [ "h-entry" ]
+}
