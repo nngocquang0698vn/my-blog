@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Wright" ],
+        "nickname" : [ "JenAshleyWright" ],
+        "numeric-id" : [ "112764405" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1179722752741298177/hkFQgb4R.jpg" ],
+        "published" : [ "2010-02-09T16:48:13+00:00" ],
+        "uid" : [ "tag:twitter.com:JenAshleyWright" ],
+        "url" : [ "https://twitter.com/JenAshleyWright", "http://JenAshleyWright.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When they said “History repeats itself,” I wasn’t expecting all of the twentieth century in two years." ],
+    "published" : [ "2022-03-03T17:06:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1499431032575205380" ],
+    "url" : [ "https://twitter.com/JenAshleyWright/status/1499431032575205380" ]
+  },
+  "type" : [ "h-entry" ]
+}
