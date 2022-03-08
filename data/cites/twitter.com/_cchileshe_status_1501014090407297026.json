@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Chileshe🇿🇲" ],
+        "nickname" : [ "cchileshe" ],
+        "numeric-id" : [ "31281686" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433602648272429059/donKtDbS.jpg" ],
+        "published" : [ "2009-04-15T00:34:56+00:00" ],
+        "uid" : [ "tag:twitter.com:cchileshe" ],
+        "url" : [ "https://twitter.com/cchileshe", "https://www.thezig.io", "https://hrvst.market", "https://ZigOps.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A younger me was once told, if the compiler doesn’t care, neither should I. I couldn’t disagree with this more, now I know better. Code readability by a very junior dev supersedes readability by a compiler or even senior dev. So I add extra lines and invent extra carefully.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JemYoung\"></a>",
+      "value" : "A younger me was once told, if the compiler doesn’t care, neither should I. I couldn’t disagree with this more, now I know better. Code readability by a very junior dev supersedes readability by a compiler or even senior dev. So I add extra lines and invent extra carefully."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JemYoung/status/1500939029952352263" ],
+    "published" : [ "2022-03-08T01:57:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1501014090407297026" ],
+    "url" : [ "https://twitter.com/cchileshe/status/1501014090407297026" ]
+  },
+  "type" : [ "h-entry" ]
+}
