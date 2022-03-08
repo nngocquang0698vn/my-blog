@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "us-west-2" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anna Spysz 💉💉💉" ],
+        "nickname" : [ "annaspies" ],
+        "numeric-id" : [ "137274529" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1384252758216171527/L6tiV7MK.jpg" ],
+        "published" : [ "2010-04-26T09:11:19+00:00" ],
+        "uid" : [ "tag:twitter.com:annaspies" ],
+        "url" : [ "https://twitter.com/annaspies", "http://annaspysz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I made my linter enforce this when I was setting up the repo for my team 😈\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JemYoung\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/thecaitcode\"></a>",
+      "value" : "I made my linter enforce this when I was setting up the repo for my team 😈"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/thecaitcode/status/1500984092749221889" ],
+    "published" : [ "2022-03-08T01:59:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1501014794744131590" ],
+    "url" : [ "https://twitter.com/annaspies/status/1501014794744131590" ]
+  },
+  "type" : [ "h-entry" ]
+}
