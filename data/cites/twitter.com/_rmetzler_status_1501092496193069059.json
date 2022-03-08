@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Potsdam, Deutschland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Richard Metzler" ],
+        "nickname" : [ "rmetzler" ],
+        "numeric-id" : [ "14542025" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1008015099/richard-metzler-twitter.jpg" ],
+        "published" : [ "2008-04-26T09:52:07+00:00" ],
+        "uid" : [ "tag:twitter.com:rmetzler" ],
+        "url" : [ "https://twitter.com/rmetzler", "https://github.com/rmetzler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Stop saying shit like this. You’re hurting your future a elf and other people reading code. At least you need some high level comments about the architecture for people unfamiliar with the code base.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JemYoung\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kevin_peel\"></a>",
+      "value" : "Stop saying shit like this. You’re hurting your future a elf and other people reading code. At least you need some high level comments about the architecture for people unfamiliar with the code base."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kevin_peel/status/1501088209715007493" ],
+    "published" : [ "2022-03-08T07:08:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1501092496193069059" ],
+    "url" : [ "https://twitter.com/rmetzler/status/1501092496193069059" ]
+  },
+  "type" : [ "h-entry" ]
+}
