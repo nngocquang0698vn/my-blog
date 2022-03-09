@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Utah, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nate Silva" ],
+        "nickname" : [ "natessilva" ],
+        "numeric-id" : [ "956047460346023936" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1229203138508275712/qZVGqgzL.jpg" ],
+        "published" : [ "2018-01-24T06:14:11+00:00" ],
+        "uid" : [ "tag:twitter.com:natessilva" ],
+        "url" : [ "https://twitter.com/natessilva", "http://natesilva.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Is this equivalent to `git checkout -b &lt;new_branch&gt;`? \n\nThat’s what I’ve used when I need to bring changes over. Hadn’t heard of switch before.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/joel__lord\"></a>",
+      "value" : "Is this equivalent to `git checkout -b <new_branch>`? \n\nThat’s what I’ve used when I need to bring changes over. Hadn’t heard of switch before."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/joel__lord/status/1501651233219743751" ],
+    "published" : [ "2022-03-09T20:27:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1501655834266320899" ],
+    "url" : [ "https://twitter.com/natessilva/status/1501655834266320899" ]
+  },
+  "type" : [ "h-entry" ]
+}
