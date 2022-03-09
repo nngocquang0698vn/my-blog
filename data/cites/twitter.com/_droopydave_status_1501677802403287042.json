@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North Oak Cliff" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David" ],
+        "nickname" : [ "droopydave" ],
+        "numeric-id" : [ "221500044" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/847652378157342723/IpfULdTe.jpg" ],
+        "published" : [ "2010-11-30T20:54:27+00:00" ],
+        "uid" : [ "tag:twitter.com:droopydave" ],
+        "url" : [ "https://twitter.com/droopydave" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thanks for this.  So version 2.9.3 is older than 2.27.x?  Are they now decrementing the version? Wut?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/joel__lord\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vexx32\"></a>",
+      "value" : "Thanks for this.  So version 2.9.3 is older than 2.27.x?  Are they now decrementing the version? Wut?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/vexx32/status/1501675284696870923" ],
+    "published" : [ "2022-03-09T21:54:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1501677802403287042" ],
+    "url" : [ "https://twitter.com/droopydave/status/1501677802403287042" ]
+  },
+  "type" : [ "h-entry" ]
+}
