@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cornwall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amber Griffiths" ],
+        "nickname" : [ "AmberFirefly" ],
+        "numeric-id" : [ "304593450" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1485746800791326720/uDKcE81U.jpg" ],
+        "published" : [ "2011-05-24T19:40:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AmberFirefly" ],
+        "url" : [ "https://twitter.com/AmberFirefly", "http://thentrythis.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All the deleted tweets are a testament to how clever this bot is" ],
+    "photo" : [ {
+      "alt" : "Gender Pay Gap Bot, retweeting organisation's international women's day tweets with the pay gap at that organisation. The screenshot is of two of these tweets, with the original organisation's tweets deleted.",
+      "value" : "https://pbs.twimg.com/media/FNUbWq6XEAIBUZl.png"
+    } ],
+    "published" : [ "2022-03-08T10:04:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1501136833790582785" ],
+    "url" : [ "https://twitter.com/AmberFirefly/status/1501136833790582785" ]
+  },
+  "type" : [ "h-entry" ]
+}
