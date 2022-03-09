@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amanda Brock" ],
+        "nickname" : [ "AmandaBrockUK" ],
+        "numeric-id" : [ "913494466568359937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1412855491424817152/RmRoZDft.jpg" ],
+        "published" : [ "2017-09-28T20:03:47+00:00" ],
+        "uid" : [ "tag:twitter.com:AmandaBrockUK" ],
+        "url" : [ "https://twitter.com/AmandaBrockUK", "http://www.openuk.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "More info on why I am standing for the <a href=\"https://twitter.com/OpenSourceOrg\">@OpenSourceOrg</a> <a href=\"https://twitter.com/search?q=%23OSI\">#OSI</a> Board on my candidate page <a href=\"https://opensource.org/board/elections/amanda-brock\">opensource.org/board/election…</a> <a href=\"https://twitter.com/luis_in_brief\">@luis_in_brief</a>",
+      "value" : "More info on why I am standing for the @OpenSourceOrg #OSI Board on my candidate page opensource.org/board/election… @luis_in_brief"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FNXBca0UUAEZ0ln.jpg" ],
+    "published" : [ "2022-03-08T22:07:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1501318750871511040" ],
+    "url" : [ "https://twitter.com/AmandaBrockUK/status/1501318750871511040" ]
+  },
+  "type" : [ "h-entry" ]
+}
