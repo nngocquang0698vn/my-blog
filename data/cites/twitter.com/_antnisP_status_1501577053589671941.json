@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nürnberg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anton Pappas He/him🏳️‍🌈 @antnisp@mastodon.social" ],
+        "nickname" : [ "antnisP" ],
+        "numeric-id" : [ "231448977" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1164446367856680961/8VFh2hEA.jpg" ],
+        "published" : [ "2010-12-28T15:13:18+00:00" ],
+        "uid" : [ "tag:twitter.com:antnisP" ],
+        "url" : [ "https://twitter.com/antnisP" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "FOSS is an explicitly political field.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MaxGraey\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/denysdovhan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sniper_elite__\"></a>",
+      "value" : "FOSS is an explicitly political field."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sniper_elite__/status/1501570436211134467" ],
+    "published" : [ "2022-03-09T15:14:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1501577053589671941" ],
+    "url" : [ "https://twitter.com/antnisP/status/1501577053589671941" ]
+  },
+  "type" : [ "h-entry" ]
+}
