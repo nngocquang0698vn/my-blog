@@ -20,6 +20,8 @@ java.lang.IllegalStateException: Failed to load ApplicationContext
 
 It's bad enough when your tests aren't set up, but I've had this after waiting ~2 hours to get a change released to a production environment, only to find we'd missed some config for a specific profile.
 
+Aside: Looking for how to solve this? You may want to read [_How to fix `Failed to load ApplicationContext` in Spring (Boot) applications_](/posts/2022/03/10/spring-failed-applicationcontext/).
+
 Because of this, the first test I write when I start a new Spring Boot project, or pick up an existing one that doesn't have this test, is:
 
 ```java
