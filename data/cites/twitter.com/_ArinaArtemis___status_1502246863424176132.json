@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Empress Persephone's mind" ],
+          "nickname" : [ "MindPersephones" ],
+          "numeric-id" : [ "1257715355994279936" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1257717011087593472/76dKgqHc.jpg" ],
+          "published" : [ "2020-05-05T16:54:54+00:00" ],
+          "uid" : [ "tag:twitter.com:MindPersephones" ],
+          "url" : [ "https://twitter.com/MindPersephones" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Hooking <a href=\"https://twitter.com/buttplugio\">@buttplugio</a> to a thing that monitors you keystrokes, changing the speed of the vibrations depending on your words per minute. At last some encouragement to keep writing.",
+        "value" : "Hooking @buttplugio to a thing that monitors you keystrokes, changing the speed of the vibrations depending on your words per minute. At last some encouragement to keep writing."
+      } ],
+      "published" : [ "2022-03-11T11:31:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1502245735802277890" ],
+      "url" : [ "https://twitter.com/MindPersephones/status/1502245735802277890" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Arina the milky cow" ],
+        "nickname" : [ "ArinaArtemis__" ],
+        "numeric-id" : [ "959886216069107712" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402758739615232002/-QNSSnxW.jpg" ],
+        "published" : [ "2018-02-03T20:28:02+00:00" ],
+        "uid" : [ "tag:twitter.com:ArinaArtemis__" ],
+        "url" : [ "https://twitter.com/ArinaArtemis__" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Okay but that makes me think.\nHas anyone tried to hook <a href=\"https://twitter.com/buttplugio\">@buttplugio</a> to a CI hook?\nReward after your tests pass/Docker build/k8s deployment is successful?</div>",
+      "value" : "Okay but that makes me think.\nHas anyone tried to hook @buttplugio to a CI hook?\nReward after your tests pass/Docker build/k8s deployment is successful?"
+    } ],
+    "published" : [ "2022-03-11T11:35:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1502246863424176132" ],
+    "url" : [ "https://twitter.com/ArinaArtemis__/status/1502246863424176132" ]
+  },
+  "type" : [ "h-entry" ]
+}
