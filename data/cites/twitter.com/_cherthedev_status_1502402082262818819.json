@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Georgina" ],
+          "nickname" : [ "devgeorgina" ],
+          "numeric-id" : [ "1500038610384732165" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1500043298626752512/04qkKADY.jpg" ],
+          "published" : [ "2022-03-05T09:20:59+00:00" ],
+          "uid" : [ "tag:twitter.com:devgeorgina" ],
+          "url" : [ "https://twitter.com/devgeorgina" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Don’t romanticize working for FAANG" ],
+      "published" : [ "2022-03-09T17:56:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1501617820618018817" ],
+      "url" : [ "https://twitter.com/devgeorgina/status/1501617820618018817" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett 💙💛 #FreeUkraine" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488622847081652227/vxNcatYi.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Don't romanticize brands at all.\n\nWe have this weird parasocial/unrequited relationship with certain brands that capitalize on feelings of love, empathy, and loyalty. \n\nIt's especially bad for a workplace, but realistically, bad for society.</div>",
+      "value" : "Don't romanticize brands at all.\n\nWe have this weird parasocial/unrequited relationship with certain brands that capitalize on feelings of love, empathy, and loyalty. \n\nIt's especially bad for a workplace, but realistically, bad for society."
+    } ],
+    "published" : [ "2022-03-11T21:52:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1502402082262818819" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1502402082262818819" ]
+  },
+  "type" : [ "h-entry" ]
+}
