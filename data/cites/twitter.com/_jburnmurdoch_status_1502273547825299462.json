@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Around the world" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Reuters" ],
+          "nickname" : [ "Reuters" ],
+          "numeric-id" : [ "1652541" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa.jpg" ],
+          "published" : [ "2007-03-20T17:46:05+00:00" ],
+          "uid" : [ "tag:twitter.com:Reuters" ],
+          "url" : [ "https://twitter.com/Reuters", "http://www.reuters.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "EXCLUSIVE Facebook and Instagram to temporarily allow calls for violence against Russians <a href=\"http://reut.rs/3tKVeud\">reut.rs/3tKVeud</a>",
+        "value" : "EXCLUSIVE Facebook and Instagram to temporarily allow calls for violence against Russians reut.rs/3tKVeud"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FNhOYbBXIAcAPjr.jpg" ],
+      "published" : [ "2022-03-10T21:40:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1502036658979495940" ],
+      "url" : [ "https://twitter.com/Reuters/status/1502036658979495940" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Doncaster ➡️ London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Burn-Murdoch" ],
+        "nickname" : [ "jburnmurdoch" ],
+        "numeric-id" : [ "43878033" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr.jpg" ],
+        "published" : [ "2009-06-01T12:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:jburnmurdoch" ],
+        "url" : [ "https://twitter.com/jburnmurdoch", "https://www.ft.com/jbm" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Late to this, but this is absolutely nuts.\n\n\"These actions are bad and so they are not allowed. Except when you do them to people we don’t like.\"\n\nSaying the quiet part out loud etc etc</div>",
+      "value" : "Late to this, but this is absolutely nuts.\n\n\"These actions are bad and so they are not allowed. Except when you do them to people we don’t like.\"\n\nSaying the quiet part out loud etc etc"
+    } ],
+    "published" : [ "2022-03-11T13:21:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1502273547825299462" ],
+    "url" : [ "https://twitter.com/jburnmurdoch/status/1502273547825299462" ]
+  },
+  "type" : [ "h-entry" ]
+}
