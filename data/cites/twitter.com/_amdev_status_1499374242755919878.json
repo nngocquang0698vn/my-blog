@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ATL-ish" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amro Mousa" ],
+        "nickname" : [ "amdev" ],
+        "numeric-id" : [ "14335093" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322941708418600975/ezKFyDXk.jpg" ],
+        "published" : [ "2008-04-08T19:12:24+00:00" ],
+        "uid" : [ "tag:twitter.com:amdev" ],
+        "url" : [ "https://twitter.com/amdev", "https://amro.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "writing clickbait titles for JIRA tickets" ],
+    "published" : [ "2022-03-03T13:20:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1499374242755919878" ],
+    "url" : [ "https://twitter.com/amdev/status/1499374242755919878" ]
+  },
+  "type" : [ "h-entry" ]
+}
