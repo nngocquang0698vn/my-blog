@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the interwebs" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sarahnovotny" ],
+        "nickname" : [ "sarahnovotny" ],
+        "numeric-id" : [ "11547582" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000242376545/f317e6f2aa962f29369f3e1639179730.jpeg" ],
+        "published" : [ "2007-12-26T22:31:38+00:00" ],
+        "uid" : [ "tag:twitter.com:sarahnovotny" ],
+        "url" : [ "https://twitter.com/sarahnovotny", "http://sarahnovotny.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "OH: In open source there are no countries." ],
+    "published" : [ "2022-03-10T19:48:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1502008518135607305" ],
+    "url" : [ "https://twitter.com/sarahnovotny/status/1502008518135607305" ]
+  },
+  "type" : [ "h-entry" ]
+}
