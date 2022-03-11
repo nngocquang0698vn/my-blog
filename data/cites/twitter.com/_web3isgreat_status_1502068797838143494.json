@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "the metaverse" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "web3 is going just great" ],
+        "nickname" : [ "web3isgreat" ],
+        "numeric-id" : [ "1477342011875381251" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477343138591219713/H3-jAE_i.jpg" ],
+        "published" : [ "2022-01-01T18:12:43+00:00" ],
+        "uid" : [ "tag:twitter.com:web3isgreat" ],
+        "url" : [ "https://twitter.com/web3isgreat", "https://web3isgoinggreat.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">NFT collector accidentally sells their rock for close to $0 instead of over $1 million\n\nMarch 10, 2022\n<a href=\"https://web3isgoinggreat.com/?id=2022-03-10-0\">web3isgoinggreat.com/?id=2022-03-10…</a></div>",
+      "value" : "NFT collector accidentally sells their rock for close to $0 instead of over $1 million\n\nMarch 10, 2022\nweb3isgoinggreat.com/?id=2022-03-10…"
+    } ],
+    "photo" : [ {
+      "alt" : "NFT collector accidentally sells their rock for close to $0 instead of over $1 million  The owner of EtherRock #44 tried to list their NFT for sale for 444 ETH (almost $1.2 million), but erroneously listed it for 444 WEI—the fractional unit of ETH typically used for paying transaction fees. A bot programmed to look for listings like this one, where a pricey NFT is listed for far below its average or floor price, quickly snapped up the NFT before the buyer could remove the listing. The buyer of the NFT eventually tried to flip the NFT for 234 ETH, (around $625,000). The trader wrote on Twitter, \"In one click my entire net worth of ~$1 million dollars, gone\".",
+      "value" : "https://pbs.twimg.com/media/FNhrgquXMAMloiE.jpg"
+    } ],
+    "published" : [ "2022-03-10T23:48:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1502068797838143494" ],
+    "url" : [ "https://twitter.com/web3isgreat/status/1502068797838143494" ]
+  },
+  "type" : [ "h-entry" ]
+}
