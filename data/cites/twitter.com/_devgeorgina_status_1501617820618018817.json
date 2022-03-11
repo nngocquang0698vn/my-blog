@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Georgina" ],
+        "nickname" : [ "devgeorgina" ],
+        "numeric-id" : [ "1500038610384732165" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1500043298626752512/04qkKADY.jpg" ],
+        "published" : [ "2022-03-05T09:20:59+00:00" ],
+        "uid" : [ "tag:twitter.com:devgeorgina" ],
+        "url" : [ "https://twitter.com/devgeorgina" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don’t romanticize working for FAANG" ],
+    "published" : [ "2022-03-09T17:56:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1501617820618018817" ],
+    "url" : [ "https://twitter.com/devgeorgina/status/1501617820618018817" ]
+  },
+  "type" : [ "h-entry" ]
+}
