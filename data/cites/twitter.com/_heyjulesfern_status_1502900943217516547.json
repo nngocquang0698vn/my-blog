@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Monica, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jules Glegg 🏳️‍⚧️" ],
+        "nickname" : [ "heyjulesfern" ],
+        "numeric-id" : [ "755208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310035674456702976/m1Xebn2Z.jpg" ],
+        "published" : [ "2007-02-06T11:11:16+00:00" ],
+        "uid" : [ "tag:twitter.com:heyjulesfern" ],
+        "url" : [ "https://twitter.com/heyjulesfern", "http://julesfern.gay" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You’re not “agile” you’re just microdosing JIRA" ],
+    "published" : [ "2022-03-13T06:54:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1502900943217516547" ],
+    "url" : [ "https://twitter.com/heyjulesfern/status/1502900943217516547" ]
+  },
+  "type" : [ "h-entry" ]
+}
