@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman 🇺🇦" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We follow the whole person. Be yourself, don’t split yourself. My twitter is tech, life, movies, memes, and Beyoncé.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HaimantikaM\"></a>",
+      "value" : "We follow the whole person. Be yourself, don’t split yourself. My twitter is tech, life, movies, memes, and Beyoncé."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/HaimantikaM/status/1503827539541708800" ],
+    "published" : [ "2022-03-15T21:33:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1503846935316234243" ],
+    "url" : [ "https://twitter.com/shanselman/status/1503846935316234243" ]
+  },
+  "type" : [ "h-entry" ]
+}
