@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Wright" ],
+        "nickname" : [ "joe_jag" ],
+        "numeric-id" : [ "37459345" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/600380976896856064/CsL3riWq.png" ],
+        "published" : [ "2009-05-03T17:35:26+00:00" ],
+        "uid" : [ "tag:twitter.com:joe_jag" ],
+        "url" : [ "https://twitter.com/joe_jag", "https://code.joejag.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I was in favour of space exploration until I realised what it'd mean for date time libraries" ],
+    "published" : [ "2014-09-11T12:54:08+00:00" ],
+    "uid" : [ "tag:twitter.com:510048646482894848" ],
+    "url" : [ "https://twitter.com/joe_jag/status/510048646482894848" ]
+  },
+  "type" : [ "h-entry" ]
+}
