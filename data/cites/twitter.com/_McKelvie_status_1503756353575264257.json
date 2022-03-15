@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Always The Wrong Place" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mean Old Daddy" ],
+          "nickname" : [ "joemuggs" ],
+          "numeric-id" : [ "18630671" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1363629095830118410/GKU_9TUD.jpg" ],
+          "published" : [ "2009-01-05T12:42:50+00:00" ],
+          "uid" : [ "tag:twitter.com:joemuggs" ],
+          "url" : [ "https://twitter.com/joemuggs", "http://joemuggs.tumblr.com", "https://south-evening-bathtub.glitch.me" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I'm putting (not satanic) on all my eBay listings now." ],
+      "photo" : [ "https://pbs.twimg.com/media/FN5R67ZXIAcFzLg.jpg" ],
+      "published" : [ "2022-03-15T13:46:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1503729469139337219" ],
+      "url" : [ "https://twitter.com/joemuggs/status/1503729469139337219" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie McKelvie" ],
+        "nickname" : [ "McKelvie" ],
+        "numeric-id" : [ "14276679" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176926286499012608/7xb-AR38.jpg" ],
+        "published" : [ "2008-04-01T17:55:44+00:00" ],
+        "uid" : [ "tag:twitter.com:McKelvie" ],
+        "url" : [ "https://twitter.com/McKelvie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My \"not satanic\" eBay listing has people asking a lot of questions already answered by my eBay listing." ],
+    "published" : [ "2022-03-15T15:33:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1503756353575264257" ],
+    "url" : [ "https://twitter.com/McKelvie/status/1503756353575264257" ]
+  },
+  "type" : [ "h-entry" ]
+}
