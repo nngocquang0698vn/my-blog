@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319649316965736451/-XOCbnFu.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm thrilled to announce the release of part 1 of my Java 17 course! 🎉\n\nThis course provides a comprehensive overview of Java basics, decision and repetition structures, methods, and objects.\n\nThere's lots of examples and some fun independent challenges!\n\n<a href=\"https://www.linkedin.com/learning/java-17-essential-training-syntax-and-structure/learn-the-essentials-of-java-17\">linkedin.com/learning/java-…</a></div>",
+      "value" : "I'm thrilled to announce the release of part 1 of my Java 17 course! 🎉\n\nThis course provides a comprehensive overview of Java basics, decision and repetition structures, methods, and objects.\n\nThere's lots of examples and some fun independent challenges!\n\nlinkedin.com/learning/java-…"
+    } ],
+    "published" : [ "2022-03-15T18:52:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1503806438392705031" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1503806438392705031" ]
+  },
+  "type" : [ "h-entry" ]
+}
