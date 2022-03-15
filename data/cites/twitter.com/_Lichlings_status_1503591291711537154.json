@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "new york" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "amanda" ],
+          "nickname" : [ "amandabb__" ],
+          "numeric-id" : [ "1431375917402755078" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1468658059950145539/GoO_KVDt.jpg" ],
+          "published" : [ "2021-08-27T21:59:58+00:00" ],
+          "uid" : [ "tag:twitter.com:amandabb__" ],
+          "url" : [ "https://twitter.com/amandabb__", "https://linktr.ee/amandabb_" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "it’s really crazy that there’s no voice or sound in some people’s heads 😭 if i’m not talking to myself in there a song is on loop" ],
+      "published" : [ "2022-03-14T20:59:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1503475881100066823" ],
+      "url" : [ "https://twitter.com/amandabb__/status/1503475881100066823" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "💌 Lichlings@gmail.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🦇 Lichlings" ],
+        "nickname" : [ "Lichlings" ],
+        "numeric-id" : [ "64454902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494910232820166658/yYYBweHU.jpg" ],
+        "published" : [ "2009-08-10T17:11:47+00:00" ],
+        "uid" : [ "tag:twitter.com:Lichlings" ],
+        "url" : [ "https://twitter.com/Lichlings", "http://twitch.tv/lichlings", "http://lichlings.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "WAIT SOME OF YOU CANT HEAR SONGS IN YOUR HEAD?????" ],
+    "published" : [ "2022-03-15T04:37:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1503591291711537154" ],
+    "url" : [ "https://twitter.com/Lichlings/status/1503591291711537154" ]
+  },
+  "type" : [ "h-entry" ]
+}
