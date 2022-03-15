@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "The Dragonites of March" ],
+          "nickname" : [ "EjiaArath" ],
+          "numeric-id" : [ "4272301880" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1498572275280277509/0Rn2yzCb.jpg" ],
+          "published" : [ "2015-11-17T22:36:41+00:00" ],
+          "uid" : [ "tag:twitter.com:EjiaArath" ],
+          "url" : [ "https://twitter.com/EjiaArath" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I'm so glad stuck boat week is an annual event now\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KBSpangler\"></a>",
+        "value" : "I'm so glad stuck boat week is an annual event now"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/KBSpangler/status/1503733241265668099" ],
+      "published" : [ "2022-03-15T15:40:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1503757933917917186" ],
+      "url" : [ "https://twitter.com/EjiaArath/status/1503757933917917186" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North Carolina" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "K.B. Spangler" ],
+        "nickname" : [ "KBSpangler" ],
+        "numeric-id" : [ "991943287" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1036081673904054274/XDNm3bsB.jpg" ],
+        "published" : [ "2012-12-05T22:41:51+00:00" ],
+        "uid" : [ "tag:twitter.com:KBSpangler" ],
+        "url" : [ "https://twitter.com/KBSpangler", "http://kbspangler.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Happy Big Boat Stuck Week to all who celebrate." ],
+    "published" : [ "2022-03-15T15:42:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1503758561653968900" ],
+    "url" : [ "https://twitter.com/KBSpangler/status/1503758561653968900" ]
+  },
+  "type" : [ "h-entry" ]
+}
