@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "0 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 30K/mo" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jon Yongfook" ],
+        "nickname" : [ "yongfook" ],
+        "numeric-id" : [ "7895442" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/691543635779649536/TbHKbCCc.jpg" ],
+        "published" : [ "2007-08-02T00:51:37+00:00" ],
+        "uid" : [ "tag:twitter.com:yongfook" ],
+        "url" : [ "https://twitter.com/yongfook", "http://bannerbear.com", "http://bannerbear.com/open" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Nobody:\n\nHacker News: why does &lt;thing&gt; exist as a paid product when you can achieve the same for free by using &lt;several obscure open source tools&gt;</div>",
+      "value" : "Nobody:\n\nHacker News: why does <thing> exist as a paid product when you can achieve the same for free by using <several obscure open source tools>"
+    } ],
+    "published" : [ "2022-03-15T03:42:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1503577272418435078" ],
+    "url" : [ "https://twitter.com/yongfook/status/1503577272418435078" ]
+  },
+  "type" : [ "h-entry" ]
+}
