@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edsheeran/status/1504103745856339970" ],
     "name" : [ "Like of @edsheeran's tweet" ],
     "published" : [ "2022-03-16T15:08:00+0000" ],
     "like-of" : [ "https://twitter.com/edsheeran/status/1504103745856339970" ],
