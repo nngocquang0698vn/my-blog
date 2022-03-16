@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qkate/status/1504163702756413445" ],
     "name" : [ "Like of @qkate's tweet" ],
     "published" : [ "2022-03-16T18:33:00+0000" ],
     "category" : [ "coronavirus" ],
