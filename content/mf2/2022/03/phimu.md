@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bubbaprog/status/1270451011677798402" ],
     "name" : [ "Like of @bubbaprog's tweet" ],
     "published" : [ "2022-03-16T16:23:00+0000" ],
     "category" : [ "politics" ],
