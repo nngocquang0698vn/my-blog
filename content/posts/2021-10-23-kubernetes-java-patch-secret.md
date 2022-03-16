@@ -103,7 +103,7 @@ CoreV1Api api = new CoreV1Api();
 String rawValue = "this is a super secret value";
 String encoded = Base64.getEncoder().encodeToString(rawValue.getBytes(StandardCharsets.UTF_8));
 
-V1Patch patch = new V1Patch("[{\"op\": \"replace\", \"path\": \"foo\", \"value\": \"" + encoded "\"}]");
+V1Patch patch = new V1Patch("[{\"op\": \"replace\", \"path\": \"/data/foo\", \"value\": \"" + encoded "\"}]");
 V1Secret secret =
   api.patchNamespacedSecret(
       "post-deploy-secrets", "www-api", patch, null, null, "ThisClassName.class", null);
@@ -128,7 +128,7 @@ public class PatchBody {
   public PatchBody(String rawValue, String path) {
     this.encodedSecret =
         Base64.getEncoder().encodeToString(rawValue.getBytes(StandardCharsets.UTF_8));
-    this.path = path;
+    this.path = "/data/" + path;
   }
 
   public String getOp() {
