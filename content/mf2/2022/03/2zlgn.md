@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/carolgilabert/carols-blog/stargazers" ],
     "name" : [ "carolgilabert/carols-blog" ],
     "published" : [ "2022-03-16T17:49:39.553434234Z" ],
     "category" : [ "personal-website" ],
