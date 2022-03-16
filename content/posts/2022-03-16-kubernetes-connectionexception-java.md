@@ -1,17 +1,18 @@
 ---
 title: "Solving `ConnectException`s with the Kubernetes Java `ApiClient`"
-description: "How I solved `ConnectException`s in my Kubernetes Java client usage, by moving to cluster mode."
-tags:
-- blogumentation
-- kubernetes
-- java
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-03-16T17:51:38+0000
-slug: "kubernetes-connectionexception-java"
-image: https://media.jvt.me/735ffcb6bd.png
+description: "How I solved `ConnectException`s in my Kubernetes Java client usage,\
+  \ by moving to cluster mode."
+date: "2022-03-16T17:51:38+0000"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1504155348806086656"
+tags:
+- "blogumentation"
+- "kubernetes"
+- "java"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/735ffcb6bd.png"
+slug: "kubernetes-connectionexception-java"
 ---
 As mentioned in [_Things I Learned Migrating My Personal APIs To Kubernetes_](https://www.jvt.me/posts/2021/10/25/kubernetes-migration/#kubernetes-api-client-configuration-issues), I had an issue plaguing my Kubernetes configuration which was causing any interactions with the API to fail.
 
