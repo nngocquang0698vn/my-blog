@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yehuda Katz" ],
+        "nickname" : [ "wycats" ],
+        "numeric-id" : [ "8526432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/861010112852262912/nbPZKMyR.jpg" ],
+        "published" : [ "2007-08-30T04:07:52+00:00" ],
+        "uid" : [ "tag:twitter.com:wycats" ],
+        "url" : [ "https://twitter.com/wycats", "http://yehudakatz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FN8yyZvUYAEluCy.jpg" ],
+    "published" : [ "2022-03-16T06:09:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1503976823037648897" ],
+    "url" : [ "https://twitter.com/wycats/status/1503976823037648897" ]
+  },
+  "type" : [ "h-entry" ]
+}
