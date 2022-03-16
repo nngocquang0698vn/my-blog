@@ -1,17 +1,17 @@
 ---
 title: "Accessing the OpenAPI Specification for a Kubernetes Cluster"
 description: "How to get the OpenAPI specification for your Kubernetes Cluster."
-tags:
-- blogumentation
-- kubernetes
-- openapi
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-03-16T18:26:04+0000
-slug: "kubernetes-openapi"
-image: https://media.jvt.me/735ffcb6bd.png
+date: "2022-03-16T18:26:04+0000"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1504164009938980864"
+tags:
+- "blogumentation"
+- "kubernetes"
+- "openapi"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/735ffcb6bd.png"
+slug: "kubernetes-openapi"
 ---
 I'm a big fan of working with OpenAPI specifications, and while working with Kubernetes APIs today I wanted to check what the API expected.
 
