@@ -123,6 +123,8 @@ As mentioned in [_Updating a Secret in Kubernetes with the Java Client_](/posts/
 
 ## Kubernetes API Client configuration issues
 
+**Update 2022-03-16**: This is now fixed, as of [this post](https://www.jvt.me/posts/2022/03/16/kubernetes-connectionexception-java/).
+
 Unfortunately I do seem to still be hitting intermittent issues with the Kubernetes Java client not getting the right configuration, which leads to runtime secrets not being retrievable:
 
 ```json
