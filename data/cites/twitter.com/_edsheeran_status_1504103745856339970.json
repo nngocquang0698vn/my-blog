@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Sheeran HQ" ],
+        "nickname" : [ "edsheeran" ],
+        "numeric-id" : [ "85452649" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491337105636794368/LsIOZ_fL.jpg" ],
+        "published" : [ "2009-10-26T23:57:28+00:00" ],
+        "uid" : [ "tag:twitter.com:edsheeran" ],
+        "url" : [ "https://twitter.com/edsheeran", "https://es.lnk.to/TJATQ" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Smiles for miles 😁" ],
+    "photo" : [ "https://pbs.twimg.com/media/FN-mX7JXsAUWVeK.jpg" ],
+    "published" : [ "2022-03-16T14:34:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1504103745856339970" ],
+    "url" : [ "https://twitter.com/edsheeran/status/1504103745856339970" ]
+  },
+  "type" : [ "h-entry" ]
+}
