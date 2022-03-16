@@ -103,7 +103,7 @@ CoreV1Api api = new CoreV1Api();
 String rawValue = "this is a super secret value";
 String encoded = Base64.getEncoder().encodeToString(rawValue.getBytes(StandardCharsets.UTF_8));
 
-V1Patch patch = new V1Patch("{\"op\": \"replace\", \"path\": \"foo\", \"value\": \"" + encoded "\"}");
+V1Patch patch = new V1Patch("[{\"op\": \"replace\", \"path\": \"foo\", \"value\": \"" + encoded "\"}]");
 V1Secret secret =
   api.patchNamespacedSecret(
       "post-deploy-secrets", "www-api", patch, null, null, "ThisClassName.class", null);
@@ -111,6 +111,8 @@ V1Secret secret =
 ```
 
 You'll notice that this isn't super readable, nor will it be super fun to maintain as it's escaped JSON.
+
+Also notice that we've got the whole JSON Patch element wrapped in an array, as there may be many operations.
 
 The solution I ended up with was a helper class that can handle the encoding to Base64, and then serialised more easily:
 
@@ -152,7 +154,7 @@ ObjectMapper mapper = new ObjectMapper();
 
 // encode the secret into Base64
 PatchBody patch = new PatchBody("this is a super secret value", "foo");
-V1Patch patch = new V1Patch(mapper.writeValueAsString(patch));
+V1Patch patch = new V1Patch(mapper.writeValueAsString(List.of(patch)));
 V1Secret secret =
   api.patchNamespacedSecret(
       "post-deploy-secrets", "www-api", patch, null, null, "ThisClassName.class", null);
