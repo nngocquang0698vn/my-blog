@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "shelley" ],
+        "nickname" : [ "codebytere" ],
+        "numeric-id" : [ "3370776527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417957152782790660/pV43lotJ.jpg" ],
+        "published" : [ "2015-07-11T13:42:27+00:00" ],
+        "uid" : [ "tag:twitter.com:codebytere" ],
+        "url" : [ "https://twitter.com/codebytere", "http://codebyte.re" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "current status via amazing new mug from <a href=\"https://twitter.com/honeybee_teddy\">@honeybee_teddy</a>",
+      "value" : "current status via amazing new mug from @honeybee_teddy"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FN9rRVJXwAoRc4z.jpg" ],
+    "published" : [ "2022-03-16T10:18:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1504039343131926531" ],
+    "url" : [ "https://twitter.com/codebytere/status/1504039343131926531" ]
+  },
+  "type" : [ "h-entry" ]
+}
