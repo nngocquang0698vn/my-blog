@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Francesca Specter" ],
+          "nickname" : [ "ChezSpecter" ],
+          "numeric-id" : [ "285091818" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1216865964668657669/z4hV9Pyj.jpg" ],
+          "published" : [ "2011-04-20T14:23:26+00:00" ],
+          "uid" : [ "tag:twitter.com:ChezSpecter" ],
+          "url" : [ "https://twitter.com/ChezSpecter", "https://pod.fo/e/1108e3" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "But can we appreciate how bonkers it is that, in the 21st century, taking your husband's surname is still very much seen as the default, no-questions-asked option for married, heterosexual couples in UK (90% women do so)? Even among 18-30s, it's still 85% <a href=\"https://bbc.in/35RHxBX\">bbc.in/35RHxBX</a>",
+        "value" : "But can we appreciate how bonkers it is that, in the 21st century, taking your husband's surname is still very much seen as the default, no-questions-asked option for married, heterosexual couples in UK (90% women do so)? Even among 18-30s, it's still 85% bbc.in/35RHxBX"
+      } ],
+      "published" : [ "2022-03-15T12:56:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1503716673328664586" ],
+      "url" : [ "https://twitter.com/ChezSpecter/status/1503716673328664586" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nik Knight" ],
+        "nickname" : [ "kninki" ],
+        "numeric-id" : [ "70655349" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486428895477915649/ygtDgf33.jpg" ],
+        "published" : [ "2009-09-01T11:17:12+00:00" ],
+        "uid" : [ "tag:twitter.com:kninki" ],
+        "url" : [ "https://twitter.com/kninki", "https://nikknight.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I took my husband's name because a) I was never that keen on my maiden name and b) my married name sounds like I should be Batman's girlfriend." ],
+    "published" : [ "2022-03-16T07:03:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1503990296106967046" ],
+    "url" : [ "https://twitter.com/kninki/status/1503990296106967046" ]
+  },
+  "type" : [ "h-entry" ]
+}
