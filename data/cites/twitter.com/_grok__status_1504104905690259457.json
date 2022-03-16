@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Darling" ],
+        "nickname" : [ "grok_" ],
+        "numeric-id" : [ "9172102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137788932542873601/fpVf7eaW.png" ],
+        "published" : [ "2007-09-30T13:55:12+00:00" ],
+        "uid" : [ "tag:twitter.com:grok_" ],
+        "url" : [ "https://twitter.com/grok_", "http://katedarling.org", "http://rb.gy/uykksn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "MIT no longer has a mask requirement. Our research group discussed whether to keep masks on for indoor meetings so that everyone feels comfortable attending. Today, an email from the Vice Chancellor says that’s not allowed." ],
+    "published" : [ "2022-03-16T14:38:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1504104905690259457" ],
+    "url" : [ "https://twitter.com/grok_/status/1504104905690259457" ]
+  },
+  "type" : [ "h-entry" ]
+}
