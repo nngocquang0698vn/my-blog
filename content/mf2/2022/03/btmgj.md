@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nixcraft/status/1504359605601665027" ],
     "name" : [ "Like of @nixcraft's tweet" ],
     "published" : [ "2022-03-17T07:41:00+0000" ],
     "like-of" : [ "https://twitter.com/nixcraft/status/1504359605601665027" ],
