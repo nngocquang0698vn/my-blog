@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com", "https://www.compilersforhumans.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Includes vs contains when switching languages will never not mess me up" ],
+    "published" : [ "2022-03-17T19:47:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1504544894953537545" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1504544894953537545" ]
+  },
+  "type" : [ "h-entry" ]
+}
