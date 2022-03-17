@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Holding Biden Accountable" ],
+          "nickname" : [ "WaitingOnBiden" ],
+          "numeric-id" : [ "796241086960271360" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1350163258930589701/UcEWIX5D.jpg" ],
+          "published" : [ "2016-11-09T06:40:43+00:00" ],
+          "uid" : [ "tag:twitter.com:WaitingOnBiden" ],
+          "url" : [ "https://twitter.com/WaitingOnBiden", "http://waitingonbiden.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"Nothing would fundamentally change.\" - Joe Biden" ],
+      "photo" : [ "https://pbs.twimg.com/media/FOAz4tfXIAkffzF.jpg" ],
+      "published" : [ "2022-03-17T13:00:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1504442435295846408" ],
+      "url" : [ "https://twitter.com/WaitingOnBiden/status/1504442435295846408" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/waitingonbiden…" ],
+      "url" : [ "https://twitter.com/waitingonbiden/status/1504442435295846408" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433091103318814723/fuQwkhru.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "imagine how many problems our society could fix if we applied $782b to them.\n<a class=\"tag\" href=\"https://twitter.com/waitingonbiden/status/1504442435295846408\">twitter.com/waitingonbiden…</a>",
+      "value" : "imagine how many problems our society could fix if we applied $782b to them."
+    } ],
+    "published" : [ "2022-03-17T14:08:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1504459724233879564" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1504459724233879564" ]
+  },
+  "type" : [ "h-entry" ]
+}
