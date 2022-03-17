@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484358712223404037/0GSAhPIe.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "OH: “I thought horny on main meant horny in your main git branch”" ],
+    "published" : [ "2022-03-17T19:58:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1504547822770610177" ],
+    "url" : [ "https://twitter.com/krisnova/status/1504547822770610177" ]
+  },
+  "type" : [ "h-entry" ]
+}
