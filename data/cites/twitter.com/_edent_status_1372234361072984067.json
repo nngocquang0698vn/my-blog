@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Second Hand Books Are Theft <a href=\"https://shkspr.mobi/blog/2021/03/second-hand-books-are-theft/\">shkspr.mobi/blog/2021/03/s…</a>",
+        "value" : "Second Hand Books Are Theft shkspr.mobi/blog/2021/03/s…"
+      } ],
+      "published" : [ "2021-03-17T12:53:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1372169111439048711" ],
+      "url" : [ "https://twitter.com/edent/status/1372169111439048711" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is my 2,000th blog post.\nUsual array of tech, snark, and howling into the void.\nLIKE AND SUBSCRIBE!</div>",
+      "value" : "This is my 2,000th blog post.\nUsual array of tech, snark, and howling into the void.\nLIKE AND SUBSCRIBE!"
+    } ],
+    "published" : [ "2021-03-17T17:12:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1372234361072984067" ],
+    "url" : [ "https://twitter.com/edent/status/1372234361072984067" ]
+  },
+  "type" : [ "h-entry" ]
+}
