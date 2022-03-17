@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LunaFoxgirlVT/status/1504025503757475848" ],
     "name" : [ "Like of @LunaFoxgirlVT's tweet" ],
     "published" : [ "2022-03-17T10:36:00+0000" ],
     "category" : [ "memes" ],
