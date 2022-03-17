@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Armon Dadgar" ],
+        "nickname" : [ "armon" ],
+        "numeric-id" : [ "25858695" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1157291121841713152/nZzT6gZb.jpg" ],
+        "published" : [ "2009-03-22T18:50:31+00:00" ],
+        "uid" : [ "tag:twitter.com:armon" ],
+        "url" : [ "https://twitter.com/armon", "http://armondadgar.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "My favorite thing about Single Sign On is that I get to sign on 20 times per day." ],
+    "published" : [ "2022-03-17T21:03:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1504564009378398208" ],
+    "url" : [ "https://twitter.com/armon/status/1504564009378398208" ]
+  },
+  "type" : [ "h-entry" ]
+}
