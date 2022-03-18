@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "brooklyn " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "rachel" ],
+          "nickname" : [ "ohhoe" ],
+          "numeric-id" : [ "2141321" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1341993238899675136/Mdwx35dR.jpg" ],
+          "published" : [ "2007-03-24T23:28:38+00:00" ],
+          "uid" : [ "tag:twitter.com:ohhoe" ],
+          "url" : [ "https://twitter.com/ohhoe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">this is one of the dumbest examples of performative activism in tech that i have ever seen\n\n<a href=\"https://www.bleepingcomputer.com/news/security/big-sabotage-famous-npm-package-deletes-files-to-protest-ukraine-war/amp/\">bleepingcomputer.com/news/security/…</a></div>",
+        "value" : "this is one of the dumbest examples of performative activism in tech that i have ever seen\n\nbleepingcomputer.com/news/security/…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FOEGDYMWUAYJDyF.jpg" ],
+      "published" : [ "2022-03-17T16:15:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1504491519918624775" ],
+      "url" : [ "https://twitter.com/ohhoe/status/1504491519918624775" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "☆ previously puzzlerabbit" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rabbit" ],
+        "nickname" : [ "ruffianrabbit" ],
+        "numeric-id" : [ "1161799075748077569" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441893781943451650/lSB2vq7p.jpg" ],
+        "published" : [ "2019-08-15T00:37:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ruffianrabbit" ],
+        "url" : [ "https://twitter.com/ruffianrabbit" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A weird issue with programmer culture is that they often literally do not think about non-abstract consequences, so I’d like to offer up the following extremely simple guideline: “If somewhere, somehow, hospital infrastructure is dependent on this code, could it kill someone?”" ],
+    "published" : [ "2022-03-17T21:30:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1504570934702874630" ],
+    "url" : [ "https://twitter.com/ruffianrabbit/status/1504570934702874630" ]
+  },
+  "type" : [ "h-entry" ]
+}
