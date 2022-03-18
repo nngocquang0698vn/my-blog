@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shaOVERIT/status/1504589749801164801" ],
     "name" : [ "Like of @shaOVERIT's tweet" ],
     "published" : [ "2022-03-18T12:41:00+0000" ],
     "category" : [ "therapy" ],
