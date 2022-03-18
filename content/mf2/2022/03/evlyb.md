@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/film_girl/status/1504902852593954817" ],
     "name" : [ "Like of @film_girl's tweet" ],
     "published" : [ "2022-03-18T20:06:00+0000" ],
     "category" : [ "open-source" ],
