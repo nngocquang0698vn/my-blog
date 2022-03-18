@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ohio, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Derek Arnold @ SRECon Americas 2022" ],
+        "nickname" : [ "darnold0714" ],
+        "numeric-id" : [ "3657331" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1218185483366387716/G1N8OWPD.jpg" ],
+        "published" : [ "2007-04-06T21:28:10+00:00" ],
+        "uid" : [ "tag:twitter.com:darnold0714" ],
+        "url" : [ "https://twitter.com/darnold0714" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "...and said thingie has nary not a man page.  Not even a -h flag.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dbsmasher\"></a>",
+      "value" : "...and said thingie has nary not a man page.  Not even a -h flag."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/dbsmasher/status/1504846254580269063" ],
+    "published" : [ "2022-03-18T21:39:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1504935602835316737" ],
+    "url" : [ "https://twitter.com/darnold0714/status/1504935602835316737" ]
+  },
+  "type" : [ "h-entry" ]
+}
