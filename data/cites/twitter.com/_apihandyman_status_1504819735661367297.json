@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "https://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The PSD2 European regulations forced banks to put APIs in place for various use cases, one of them being account information: the problem, only current accounts have been put in the scope (excluding savings for instance). So, limited interest for aggregators who scraped websites.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "The PSD2 European regulations forced banks to put APIs in place for various use cases, one of them being account information: the problem, only current accounts have been put in the scope (excluding savings for instance). So, limited interest for aggregators who scraped websites."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1504818546714550297" ],
+    "published" : [ "2022-03-18T13:59:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1504819735661367297" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1504819735661367297" ]
+  },
+  "type" : [ "h-entry" ]
+}
