@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Kingston" ],
+        "nickname" : [ "KingstonTime" ],
+        "numeric-id" : [ "38462153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415240792462012430/H4Ai9z9m.jpg" ],
+        "published" : [ "2009-05-07T16:24:41+00:00" ],
+        "uid" : [ "tag:twitter.com:KingstonTime" ],
+        "url" : [ "https://twitter.com/KingstonTime" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Can I set up a smart contract to unfollow anyone who ads .eth or hex profile pictures tho?" ],
+    "published" : [ "2022-02-18T00:15:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1494465518488719363" ],
+    "url" : [ "https://twitter.com/KingstonTime/status/1494465518488719363" ]
+  },
+  "type" : [ "h-entry" ]
+}
