@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dbsmasher/status/1504846254580269063" ],
     "name" : [ "Like of @dbsmasher's tweet" ],
     "published" : [ "2022-03-18T22:29:00+0000" ],
     "like-of" : [ "https://twitter.com/dbsmasher/status/1504846254580269063" ],
