@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Techmeme" ],
+          "nickname" : [ "Techmeme" ],
+          "numeric-id" : [ "817386" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg.jpg" ],
+          "published" : [ "2007-03-07T07:10:46+00:00" ],
+          "uid" : [ "tag:twitter.com:Techmeme" ],
+          "url" : [ "https://twitter.com/Techmeme", "http://techmeme.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Maintainer of the popular open source networking tool node-ipc appears to have sabotaged the tool's code to wipe data on computers based in Russia and Belarus (<a href=\"https://twitter.com/josephfcox\">@josephfcox</a> / VICE)\n\n<a href=\"https://www.vice.com/en/article/dypeek/open-source-sabotage-node-ipc-wipe-russia-belraus-computers\">vice.com/en/article/dyp…</a>\n<a href=\"http://www.techmeme.com/220318/p9#a220318p9\">techmeme.com/220318/p9#a220…</a></div>",
+        "value" : "Maintainer of the popular open source networking tool node-ipc appears to have sabotaged the tool's code to wipe data on computers based in Russia and Belarus (@josephfcox / VICE)\n\nvice.com/en/article/dyp…\ntechmeme.com/220318/p9#a220…"
+      } ],
+      "published" : [ "2022-03-18T16:51:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1504862987944833027" ],
+      "url" : [ "https://twitter.com/Techmeme/status/1504862987944833027" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/techmeme/statu…" ],
+      "url" : [ "https://twitter.com/techmeme/status/1504862987944833027" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "SEA via NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Christina Warren" ],
+        "nickname" : [ "film_girl" ],
+        "numeric-id" : [ "9866582" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1308921120360288256/17MPMqYU.jpg" ],
+        "published" : [ "2007-11-01T22:45:37+00:00" ],
+        "uid" : [ "tag:twitter.com:film_girl" ],
+        "url" : [ "https://twitter.com/film_girl", "http://www.christina.is" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I talked about this yesterday wrt pinning your dependencies, but these sorts of actions, even if the rationale comes from a good place, are NOT OK.\n<a class=\"tag\" href=\"https://twitter.com/techmeme/status/1504862987944833027\">twitter.com/techmeme/statu…</a>",
+      "value" : "I talked about this yesterday wrt pinning your dependencies, but these sorts of actions, even if the rationale comes from a good place, are NOT OK."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Seattle, WA" ],
+        "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-03-18T19:29:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1504902852593954817" ],
+    "url" : [ "https://twitter.com/film_girl/status/1504902852593954817" ]
+  },
+  "type" : [ "h-entry" ]
+}
