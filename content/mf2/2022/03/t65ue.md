@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ruffianrabbit/status/1504570934702874630" ],
     "name" : [ "Like of @ruffianrabbit's tweet" ],
     "published" : [ "2022-03-18T22:33:00+0000" ],
     "like-of" : [ "https://twitter.com/ruffianrabbit/status/1504570934702874630" ],
