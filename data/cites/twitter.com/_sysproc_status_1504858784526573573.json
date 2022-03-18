@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Johnson" ],
+        "nickname" : [ "sysproc" ],
+        "numeric-id" : [ "2996586901" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/930658370444513288/10BbKWw7.jpg" ],
+        "published" : [ "2015-01-26T04:47:44+00:00" ],
+        "uid" : [ "tag:twitter.com:sysproc" ],
+        "url" : [ "https://twitter.com/sysproc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Gotta wrap the CLI thingie in a gitlab runner and now you're gitopsing with style.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dbsmasher\"></a>",
+      "value" : "Gotta wrap the CLI thingie in a gitlab runner and now you're gitopsing with style."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/dbsmasher/status/1504846254580269063" ],
+    "published" : [ "2022-03-18T16:34:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1504858784526573573" ],
+    "url" : [ "https://twitter.com/sysproc/status/1504858784526573573" ]
+  },
+  "type" : [ "h-entry" ]
+}
