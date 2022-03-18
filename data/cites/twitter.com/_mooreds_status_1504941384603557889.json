@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "capistrano anyone?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codefolio\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dbsmasher\"></a>",
+      "value" : "capistrano anyone?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/codefolio/status/1504853960548573188" ],
+    "published" : [ "2022-03-18T22:02:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1504941384603557889" ],
+    "url" : [ "https://twitter.com/mooreds/status/1504941384603557889" ]
+  },
+  "type" : [ "h-entry" ]
+}
