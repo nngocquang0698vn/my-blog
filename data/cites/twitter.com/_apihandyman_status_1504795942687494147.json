@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam DuVander" ],
+          "nickname" : [ "adamd" ],
+          "numeric-id" : [ "818902" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/790470287569682432/i7uMR7dT.jpg" ],
+          "published" : [ "2007-03-07T17:49:58+00:00" ],
+          "uid" : [ "tag:twitter.com:adamd" ],
+          "url" : [ "https://twitter.com/adamd", "https://everydeveloper.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Unofficial or reverse engineered APIs are often a sign of developer interest in a fully supported API. Or holes in a product. Or both." ],
+      "published" : [ "2022-03-17T22:20:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1504583510060937219" ],
+      "url" : [ "https://twitter.com/adamd/status/1504583510060937219" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "https://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Corollary to that thread: the day you decide to propose APIs, you should really ensure they cover everything people could do when using your shadow APIs (yes, I'm looking at you, PSD2 regulation)" ],
+    "published" : [ "2022-03-18T12:24:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1504795942687494147" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1504795942687494147" ]
+  },
+  "type" : [ "h-entry" ]
+}
