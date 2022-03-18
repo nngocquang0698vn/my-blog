@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/matteocollina/status/1504790932239101959" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1504794502942367752" ],
     "name" : [ "Reply to https://twitter.com/matteocollina/status/1504790932239101959" ],
     "published" : [ "2022-03-18T12:12:00+0000" ],
     "post-status" : [ "published" ],
