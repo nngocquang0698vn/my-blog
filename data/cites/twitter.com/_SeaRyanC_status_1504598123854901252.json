@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Cavanaugh" ],
+        "nickname" : [ "SeaRyanC" ],
+        "numeric-id" : [ "1177182800" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/877614294694739969/2Y5axr8F.jpg" ],
+        "published" : [ "2013-02-14T00:01:43+00:00" ],
+        "uid" : [ "tag:twitter.com:SeaRyanC" ],
+        "url" : [ "https://twitter.com/SeaRyanC" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Running npm scripts on install should require opt-in from both 'npm install' and from indicating that you expect an upstream dependency to run scripts in the first place, e.g.\n\n\"dependencies\": {\n  \"foo\": \"1.2.3:with_scripts\"\n}</div>",
+      "value" : "Running npm scripts on install should require opt-in from both 'npm install' and from indicating that you expect an upstream dependency to run scripts in the first place, e.g.\n\n\"dependencies\": {\n  \"foo\": \"1.2.3:with_scripts\"\n}"
+    } ],
+    "published" : [ "2022-03-17T23:18:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1504598123854901252" ],
+    "url" : [ "https://twitter.com/SeaRyanC/status/1504598123854901252" ]
+  },
+  "type" : [ "h-entry" ]
+}
