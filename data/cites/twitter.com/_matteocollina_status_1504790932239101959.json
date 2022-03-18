@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Forlì, Emilia Romagna" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matteo Collina" ],
+        "nickname" : [ "matteocollina" ],
+        "numeric-id" : [ "15979784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796295496071606276/ssY_GJrF.jpg" ],
+        "published" : [ "2008-08-25T10:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:matteocollina" ],
+        "url" : [ "https://twitter.com/matteocollina", "https://nodeland.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don't really understand how you all can develop without digging deep in your dependencies to understand how they work and take them apart." ],
+    "in-reply-to" : [ "https://twitter.com/matteocollina/status/1504790929621803011" ],
+    "published" : [ "2022-03-18T12:04:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1504790932239101959" ],
+    "url" : [ "https://twitter.com/matteocollina/status/1504790932239101959" ]
+  },
+  "type" : [ "h-entry" ]
+}
