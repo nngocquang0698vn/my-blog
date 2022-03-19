@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1505152472737882114" ],
     "photo" : [ {
       "alt" : "The outside of the box from Homemade, wrapped with a ribbon",
       "photo" : "https://media.jvt.me/f3e2cf2324.jpeg"
