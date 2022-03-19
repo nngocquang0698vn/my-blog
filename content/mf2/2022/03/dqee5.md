@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_msw_/status/1504837924696719360" ],
     "name" : [ "Like of @_msw_'s tweet" ],
     "published" : [ "2022-03-19T14:48:00+0000" ],
     "category" : [ "open-source" ],
