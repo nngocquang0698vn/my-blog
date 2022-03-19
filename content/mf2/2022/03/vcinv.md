@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/medus4_cdc/status/1505281047986069505" ],
     "name" : [ "Like of @medus4_cdc's tweet" ],
     "published" : [ "2022-03-19T21:38:00+0000" ],
     "category" : [ "tiktok" ],
