@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Rochelle, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Laiacano" ],
+        "nickname" : [ "adamlaiacano" ],
+        "numeric-id" : [ "208789178" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1470888517429600258/oO5wka16.jpg" ],
+        "published" : [ "2010-10-27T23:23:11+00:00" ],
+        "uid" : [ "tag:twitter.com:adamlaiacano" ],
+        "url" : [ "https://twitter.com/adamlaiacano" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "T.O.S.S. = “technically open source software”. It’s when someone _tosses_ some code onto GitHub but takes zero community feedback." ],
+    "published" : [ "2022-03-17T20:19:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1504552943365857281" ],
+    "url" : [ "https://twitter.com/adamlaiacano/status/1504552943365857281" ]
+  },
+  "type" : [ "h-entry" ]
+}
