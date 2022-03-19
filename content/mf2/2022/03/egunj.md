@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoahVerrier/status/1504433139162263552" ],
     "name" : [ "Like of @NoahVerrier's tweet" ],
     "published" : [ "2022-03-19T22:16:00+0000" ],
     "category" : [ "art", "food" ],
