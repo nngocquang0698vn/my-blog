@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cherthedev/status/1505614316300427268" ],
     "name" : [ "Like of @cherthedev's tweet" ],
     "published" : [ "2022-03-20T19:16:00+0000" ],
     "like-of" : [ "https://twitter.com/cherthedev/status/1505614316300427268" ],
