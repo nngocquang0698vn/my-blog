@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sarah Pappalardo" ],
+        "nickname" : [ "yourpappalardo" ],
+        "numeric-id" : [ "18618373" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1130187950380257280/1svhtE46.png" ],
+        "published" : [ "2009-01-05T00:56:25+00:00" ],
+        "uid" : [ "tag:twitter.com:yourpappalardo" ],
+        "url" : [ "https://twitter.com/yourpappalardo", "http://www.sarahpappalardo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Here it is: The perfect headline" ],
+    "photo" : [ "https://pbs.twimg.com/media/DJ2doQEX0AEHL89.jpg" ],
+    "published" : [ "2017-09-16T14:06:58+00:00" ],
+    "uid" : [ "tag:twitter.com:909056018558148608" ],
+    "url" : [ "https://twitter.com/yourpappalardo/status/909056018558148608" ]
+  },
+  "type" : [ "h-entry" ]
+}
