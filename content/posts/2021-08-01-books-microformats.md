@@ -36,43 +36,43 @@ GET https://books-mf2.herokuapp.com/isbn/9780316332910
 {
   "items": [
     {
-      "type": [
-        "h-book"
-      ],
       "properties": {
-        "url": [
-          "https://openlibrary.org/books/OL32667399M"
+        "author": [
+          {
+            "properties": {
+              "name": [
+                "James S. A. Corey"
+              ],
+              "url": [
+                "http://www.danielabraham.com/james-s-a-corey/"
+              ],
+              "photo": {
+                "alt": "Picture of James S. A. Corey",
+                "value": "https://covers.openlibrary.org/b/id/11112303.jpg"
+              }
+            },
+            "type": [
+              "h-card"
+            ]
+          }
         ],
+        "name": [
+          "Leviathan Falls"
+        ],
+        "photo": {
+          "alt": "Cover picture of Leviathan Falls",
+          "value": "https://covers.openlibrary.org/b/id/11295220.jpg"
+        },
         "uid": [
           "isbn:9780316332910"
+        ],
+        "url": [
+          "https://openlibrary.org/books/OL32667399M"
         ]
       },
-      "name": [
-        "Leviathan Falls"
-      ],
-      "author": [
-        {
-          "type": [
-            "h-card"
-          ],
-          "properties": {
-            "name": [
-              "James S. A. Corey"
-            ],
-            "url": [
-              "http://www.danielabraham.com/james-s-a-corey/"
-            ]
-          },
-          "photo": {
-            "value": "https://covers.openlibrary.org/b/id/11112303.jpg",
-            "alt": "Picture of James S. A. Corey"
-          }
-        }
-      ],
-      "photo": {
-        "value": "https://covers.openlibrary.org/b/id/11295220.jpg",
-        "alt": "Cover picture of Leviathan Falls"
-      }
+      "type": [
+        "h-book"
+      ]
     }
   ]
 }
