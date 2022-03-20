@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MikeDrucker/status/1505611104399110154" ],
     "name" : [ "Like of @MikeDrucker's tweet" ],
     "published" : [ "2022-03-20T19:20:00+0000" ],
     "category" : [ "batman" ],
