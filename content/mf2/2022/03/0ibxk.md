@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yourpappalardo/status/909056018558148608" ],
     "name" : [ "Like of @yourpappalardo's tweet" ],
     "published" : [ "2022-03-20T13:27:00+0000" ],
     "like-of" : [ "https://twitter.com/yourpappalardo/status/909056018558148608" ],
