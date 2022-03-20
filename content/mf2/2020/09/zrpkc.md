@@ -11,24 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "name": [
-            "Abaddon's Gate"
-          ],
-          "author": [
-            "James S. A. Corey"
-          ],
-          "uid": [
-            "isbn:1841499935"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/1841499935"
     ]
   }
 }
-
-

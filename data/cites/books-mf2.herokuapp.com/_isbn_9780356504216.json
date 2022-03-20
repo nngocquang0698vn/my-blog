@@ -1,0 +1,37 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://openlibrary.org/books/OL33449106M"
+    ],
+    "uid": [
+      "isbn:9780356504216"
+    ],
+    "name": [
+      "Churn An Expanse Novella"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "James S. A. Corey"
+          ],
+          "url": [
+            "http://www.danielabraham.com/james-s-a-corey/"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/11112303.jpg",
+              "alt": "Picture of James S. A. Corey"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

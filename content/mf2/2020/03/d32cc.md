@@ -11,23 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "name": [
-            "Star Wars: Thrawn: Treason"
-          ],
-          "author": [
-            "Timothy Zahn"
-          ],
-          "uid": [
-            "isbn:1529124018"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/1529124018"
     ]
   }
 }
-

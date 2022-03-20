@@ -1,0 +1,43 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://openlibrary.org/books/OL28177759M"
+    ],
+    "uid": [
+      "isbn:9781529124019"
+    ],
+    "name": [
+      "Thrawn Treason"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Timothy Zahn"
+          ],
+          "url": [
+            "https://en.wikipedia.org/wiki/Timothy_Zahn"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/7222125.jpg",
+              "alt": "Picture of Timothy Zahn"
+            }
+          ]
+        }
+      }
+    ],
+    "photo": [
+      {
+        "value": "https://covers.openlibrary.org/b/id/10114927.jpg",
+        "alt": "Cover picture of Thrawn Treason"
+      }
+    ]
+  }
+}

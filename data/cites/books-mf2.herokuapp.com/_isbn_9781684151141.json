@@ -1,0 +1,69 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://openlibrary.org/books/OL27370264M"
+    ],
+    "uid": [
+      "isbn:9781684151141"
+    ],
+    "name": [
+      "The Expanse Origins"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "James S. A. Corey"
+          ],
+          "url": [
+            "http://www.danielabraham.com/james-s-a-corey/"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/11112303.jpg",
+              "alt": "Picture of James S. A. Corey"
+            }
+          ]
+        }
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hallie Lambert"
+          ],
+          "url": [
+            "https://openlibrary.org/authors/OL7648040A"
+          ]
+        }
+      },
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Georgia Lee"
+          ],
+          "url": [
+            "https://openlibrary.org/authors/OL7648041A"
+          ]
+        }
+      }
+    ],
+    "photo": [
+      {
+        "value": "https://covers.openlibrary.org/b/id/8833453.jpg",
+        "alt": "Cover picture of The Expanse Origins"
+      }
+    ]
+  }
+}

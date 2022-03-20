@@ -11,23 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "name": [
-            "Leviathan Wakes"
-          ],
-          "author": [
-            "James S. A. Corey"
-          ],
-          "uid": [
-            "isbn:1841499889"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/1841499889"
     ]
   }
 }
-

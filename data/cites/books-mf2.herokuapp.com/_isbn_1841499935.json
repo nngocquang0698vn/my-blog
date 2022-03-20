@@ -1,0 +1,43 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://openlibrary.org/books/OL26101918M"
+    ],
+    "uid": [
+      "isbn:9781841499932"
+    ],
+    "name": [
+      "Abaddons Gate\r\n            \r\n                Expanse"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "James S. A. Corey"
+          ],
+          "url": [
+            "http://www.danielabraham.com/james-s-a-corey/"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/11112303.jpg",
+              "alt": "Picture of James S. A. Corey"
+            }
+          ]
+        }
+      }
+    ],
+    "photo": [
+      {
+        "value": "https://covers.openlibrary.org/b/id/7728514.jpg",
+        "alt": "Cover picture of Abaddons Gate\r\n            \r\n                Expanse"
+      }
+    ]
+  }
+}

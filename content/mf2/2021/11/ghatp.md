@@ -11,29 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "url": [
-            "https://openlibrary.org/books/OL26318312M"
-          ],
-          "uid": [
-            "isbn:9780316217651"
-          ],
-          "name": [
-            "Gods of risk"
-          ],
-          "author": [
-            "James S. A. Corey"
-          ],
-          "photo": {
-            "value": "https://covers.openlibrary.org/b/id/7992542.jpg",
-            "alt": "Cover picture of Gods of risk"
-          }
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/9780316217651"
     ]
   }
 }

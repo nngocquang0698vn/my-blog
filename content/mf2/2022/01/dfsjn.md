@@ -11,22 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "uid": [
-            "isbn:9780316332910"
-          ],
-          "name": [
-            "Leviathan Falls"
-          ],
-          "author": [
-            "James S. A. Corey"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/9780316332910"
     ],
     "published": [
       "2022-01-13T09:03:00+0000"

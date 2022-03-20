@@ -11,22 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "name": [
-            "Star Wars: Thrawn"
-          ],
-          "author": [
-            "Timothy Zahn"
-          ],
-          "uid": [
-            "isbn:0345511271"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/0345511271"
     ]
   }
 }

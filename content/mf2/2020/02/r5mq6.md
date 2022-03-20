@@ -11,23 +11,7 @@
       "finished"
     ],
     "read-of": [
-      {
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "name": [
-            "Star Wars: Thrawn: Alliances"
-          ],
-          "author": [
-            "Timothy Zahn"
-          ],
-          "uid": [
-            "isbn:052548048X"
-          ]
-        }
-      }
+      "https://books-mf2.herokuapp.com/isbn/052548048X"
     ]
   }
 }
-

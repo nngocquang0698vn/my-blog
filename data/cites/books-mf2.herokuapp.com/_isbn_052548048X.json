@@ -1,0 +1,43 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://openlibrary.org/books/OL27603834M"
+    ],
+    "uid": [
+      "isbn:9780525480488"
+    ],
+    "name": [
+      "Thrawn: Alliances (Star Wars)"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Timothy Zahn"
+          ],
+          "url": [
+            "https://en.wikipedia.org/wiki/Timothy_Zahn"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/7222125.jpg",
+              "alt": "Picture of Timothy Zahn"
+            }
+          ]
+        }
+      }
+    ],
+    "photo": [
+      {
+        "value": "https://covers.openlibrary.org/b/id/9054124.jpg",
+        "alt": "Cover picture of Thrawn: Alliances (Star Wars)"
+      }
+    ]
+  }
+}
