@@ -308,7 +308,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.concurrent.TimeUnit;
 import me.jvt.hacking.application.Application;
-import me.jvt.hacking.application.RestTemplateConfig;
+import me.jvt.hacking.application.WebClientConfig;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 import okhttp3.mockwebserver.RecordedRequest;
@@ -324,7 +324,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.web.reactive.function.client.WebClient;
 
 @ExtendWith(SpringExtension.class)
-@Import(RestTemplateConfig.class)
+@Import(WebClientConfig.class)
 @ContextConfiguration(classes = Application.class)
 class WebClientIntegrationTest {
 
