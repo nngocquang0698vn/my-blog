@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GergelyOrosz/status/1505525681500962816" ],
     "name" : [ "Like of @GergelyOrosz's tweet" ],
     "published" : [ "2022-03-20T13:24:00+0000" ],
     "category" : [ "interviewing" ],
