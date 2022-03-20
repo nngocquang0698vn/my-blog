@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Drucker" ],
+        "nickname" : [ "MikeDrucker" ],
+        "numeric-id" : [ "17158189" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1114375044774469632/9I5UnOMa.jpg" ],
+        "published" : [ "2008-11-04T15:23:12+00:00" ],
+        "uid" : [ "tag:twitter.com:MikeDrucker" ],
+        "url" : [ "https://twitter.com/MikeDrucker", "https://www.youtube.com/watch?v=FqT2uOa1-d0" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In \"The Batman,\" they said Bruce Wayne's parents were murdered in October of 2001. Meaning if you go by release dates, it's possible they were leaving a screening of Zoolander when it happened" ],
+    "published" : [ "2022-03-20T18:23:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1505611104399110154" ],
+    "url" : [ "https://twitter.com/MikeDrucker/status/1505611104399110154" ]
+  },
+  "type" : [ "h-entry" ]
+}
