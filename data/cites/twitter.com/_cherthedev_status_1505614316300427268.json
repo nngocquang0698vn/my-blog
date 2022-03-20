@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/hussien_coding…" ],
+        "url" : [ "https://twitter.com/hussien_coding/status/1505272836524589058" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Edmond, OK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam Rackis" ],
+          "nickname" : [ "AdamRackis" ],
+          "numeric-id" : [ "68567860" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1183169082243375104/FwXKVe5H.jpg" ],
+          "published" : [ "2009-08-25T01:15:35+00:00" ],
+          "uid" : [ "tag:twitter.com:AdamRackis" ],
+          "url" : [ "https://twitter.com/AdamRackis", "https://github.com/arackaf" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "We need to normalize sharing *good* stories about interviewing. Between AWS, Riot, Spotify and Citadel, I was never asked a single comp sci leetcode question. No quicksort, no red/black trees, etc. Plenty of coding, but absolutely nothing you’d need to prepare for.\n<a class=\"tag\" href=\"https://twitter.com/hussien_coding/status/1505272836524589058\">twitter.com/hussien_coding…</a>",
+        "value" : "We need to normalize sharing *good* stories about interviewing. Between AWS, Riot, Spotify and Citadel, I was never asked a single comp sci leetcode question. No quicksort, no red/black trees, etc. Plenty of coding, but absolutely nothing you’d need to prepare for."
+      } ],
+      "published" : [ "2022-03-20T16:33:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1505583366183153664" ],
+      "url" : [ "https://twitter.com/AdamRackis/status/1505583366183153664" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/adamrackis/sta…" ],
+      "url" : [ "https://twitter.com/adamrackis/status/1505583366183153664" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488622847081652227/vxNcatYi.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Spotify, Riot, &amp; AWS all gave me coding exercises I never come close to in my actual job.\n\nNone of them handled my accommodations request very well (no live audience), either.\n\nI can count on one hand the “good” interview processes I’ve had. Most interview processes are daunting.</div>\n<a class=\"tag\" href=\"https://twitter.com/adamrackis/status/1505583366183153664\">twitter.com/adamrackis/sta…</a>",
+      "value" : "Spotify, Riot, & AWS all gave me coding exercises I never come close to in my actual job.\n\nNone of them handled my accommodations request very well (no live audience), either.\n\nI can count on one hand the “good” interview processes I’ve had. Most interview processes are daunting."
+    } ],
+    "published" : [ "2022-03-20T18:36:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1505614316300427268" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1505614316300427268" ]
+  },
+  "type" : [ "h-entry" ]
+}
