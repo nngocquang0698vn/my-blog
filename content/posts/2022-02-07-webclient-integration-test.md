@@ -326,7 +326,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 @ExtendWith(SpringExtension.class)
 @Import(RestTemplateConfig.class)
 @ContextConfiguration(classes = Application.class)
-class RestTemplateIntegrationTest {
+class WebClientIntegrationTest {
 
   @Autowired
   @Qualifier("foo")
