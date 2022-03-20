@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LucyDavinhart/status/1505626936781033477" ],
     "name" : [ "Like of @LucyDavinhart's tweet" ],
     "published" : [ "2022-03-20T21:03:00+0000" ],
     "category" : [ "terraform" ],
