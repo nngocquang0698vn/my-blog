@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Montreal, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "☁David Moreau-Simard" ],
+          "nickname" : [ "dmsimard" ],
+          "numeric-id" : [ "25678303" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1255177913688866817/QBMMlOb5.jpg" ],
+          "published" : [ "2009-03-21T14:23:50+00:00" ],
+          "uid" : [ "tag:twitter.com:dmsimard" ],
+          "url" : [ "https://twitter.com/dmsimard", "https://dmsimard.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "/r/linux: This was the first step in the interview process at Canonical - I withdrew my application. <a href=\"https://old.reddit.com/r/linux/comments/thsrcp/this_was_the_first_step_in_the_interview_process/\">old.reddit.com/r/linux/commen…</a>",
+        "value" : "/r/linux: This was the first step in the interview process at Canonical - I withdrew my application. old.reddit.com/r/linux/commen…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FOPEKGbWUAAzYxS.jpg" ],
+      "published" : [ "2022-03-19T19:18:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1505262381609406467" ],
+      "url" : [ "https://twitter.com/dmsimard/status/1505262381609406467" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Having a written step in engineering interview processes is becoming more common, especially with remote/async work. Typically along the line of write a few paragraphs answering one or two questions. Eg Amazon does this for EMs.\n\nBut this below is way over the top. 👇</div>",
+      "value" : "Having a written step in engineering interview processes is becoming more common, especially with remote/async work. Typically along the line of write a few paragraphs answering one or two questions. Eg Amazon does this for EMs.\n\nBut this below is way over the top. 👇"
+    } ],
+    "published" : [ "2022-03-20T12:44:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1505525681500962816" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1505525681500962816" ]
+  },
+  "type" : [ "h-entry" ]
+}
