@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aaronhoyland/status/1504832904962056193" ],
     "name" : [ "Like of @aaronhoyland's tweet" ],
     "published" : [ "2022-03-20T22:42:00+0000" ],
     "category" : [ "coronavirus" ],
