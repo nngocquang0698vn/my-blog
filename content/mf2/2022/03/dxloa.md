@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BigGarfFan37/status/1505514189690912771" ],
     "name" : [ "Like of @BigGarfFan37's tweet" ],
     "published" : [ "2022-03-21T08:39:00+0000" ],
     "like-of" : [ "https://twitter.com/BigGarfFan37/status/1505514189690912771" ],
