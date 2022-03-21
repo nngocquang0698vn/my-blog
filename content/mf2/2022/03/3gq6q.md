@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drewtoothpaste/status/1505371263228956675" ],
     "name" : [ "Like of @drewtoothpaste's tweet" ],
     "published" : [ "2022-03-21T08:44:00+0000" ],
     "like-of" : [ "https://twitter.com/drewtoothpaste/status/1505371263228956675" ],
