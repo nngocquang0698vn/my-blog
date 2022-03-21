@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dmofengineering/status/1505952029868363778" ],
     "name" : [ "Like of @dmofengineering's tweet" ],
     "published" : [ "2022-03-21T22:56:00+0000" ],
     "like-of" : [ "https://twitter.com/dmofengineering/status/1505952029868363778" ],
