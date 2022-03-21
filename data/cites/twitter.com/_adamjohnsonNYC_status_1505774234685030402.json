@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam H. Johnson" ],
+        "nickname" : [ "adamjohnsonNYC" ],
+        "numeric-id" : [ "756331316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1144823684303118337/XqcU44nc.png" ],
+        "published" : [ "2012-08-14T02:56:06+00:00" ],
+        "uid" : [ "tag:twitter.com:adamjohnsonNYC" ],
+        "url" : [ "https://twitter.com/adamjohnsonNYC", "http://thecolumn.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You’re all bad people\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/breadchain_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/crypto_pochi\"></a>",
+      "value" : "You’re all bad people"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/crypto_pochi/status/1505774020649795586" ],
+    "published" : [ "2022-03-21T05:12:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1505774234685030402" ],
+    "url" : [ "https://twitter.com/adamjohnsonNYC/status/1505774234685030402" ]
+  },
+  "type" : [ "h-entry" ]
+}
