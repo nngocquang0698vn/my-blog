@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicolai von Neudeck 🇺🇦" ],
+        "nickname" : [ "vonneudeck" ],
+        "numeric-id" : [ "192600434" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477056866001854464/u3xJFA7g.jpg" ],
+        "published" : [ "2010-09-19T16:37:29+00:00" ],
+        "uid" : [ "tag:twitter.com:vonneudeck" ],
+        "url" : [ "https://twitter.com/vonneudeck", "https://linkedin.com/in/vonneudeck", "http://tourdeniu.vonneudeck.com", "http://about.vonneudeck.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I got into the best university of my country with less formalities 🤪\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/dmsimard\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elahmo\"></a>",
+      "value" : "I got into the best university of my country with less formalities 🤪"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elahmo/status/1505532462054711303" ],
+    "published" : [ "2022-03-20T15:10:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1505562422945406978" ],
+    "url" : [ "https://twitter.com/vonneudeck/status/1505562422945406978" ]
+  },
+  "type" : [ "h-entry" ]
+}
