@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/JodaOrg/global-tz/stargazers" ],
     "name" : [ "JodaOrg/global-tz: Global database of timezone information" ],
     "published" : [ "2022-03-21T09:09:00+0000" ],
     "like-of" : [ "https://github.com/JodaOrg/global-tz" ],
