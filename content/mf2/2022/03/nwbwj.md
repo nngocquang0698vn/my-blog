@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PoorlyAgedStuff/status/1505893301915987972" ],
     "name" : [ "Like of @PoorlyAgedStuff's tweet" ],
     "published" : [ "2022-03-21T15:34:00+0000" ],
     "category" : [ "netflix" ],
