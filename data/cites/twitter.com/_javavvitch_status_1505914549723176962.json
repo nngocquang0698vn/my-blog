@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Outer, Space" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Erik 🛸💨" ],
+          "nickname" : [ "iamaponte" ],
+          "numeric-id" : [ "571759573" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1493687784707608580/hDpJxCO5.jpg" ],
+          "published" : [ "2012-05-05T13:43:12+00:00" ],
+          "uid" : [ "tag:twitter.com:iamaponte" ],
+          "url" : [ "https://twitter.com/iamaponte" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">You need to get some \"business\" handled... \n\nWho are you bringing?</div>",
+        "value" : "You need to get some \"business\" handled... \n\nWho are you bringing?"
+      } ],
+      "photo" : [ {
+        "alt" : "Denzel Washington in the equalizer pointing a gun",
+        "value" : "https://pbs.twimg.com/media/FOYUfcrXoAUlFJU.jpg"
+      }, {
+        "alt" : "Liam Neeson in Taken, on the phone.",
+        "value" : "https://pbs.twimg.com/media/FOYUfcqXMAQDSQD.jpg"
+      } ],
+      "published" : [ "2022-03-21T14:26:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1505913659016495116" ],
+      "url" : [ "https://twitter.com/iamaponte/status/1505913659016495116" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1502489995755626499/MdxusKI1.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Denzel. Cant trust that the other’s daughter won’t go missing in the middle of a mission and he’d bail." ],
+    "published" : [ "2022-03-21T14:29:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1505914549723176962" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1505914549723176962" ]
+  },
+  "type" : [ "h-entry" ]
+}
