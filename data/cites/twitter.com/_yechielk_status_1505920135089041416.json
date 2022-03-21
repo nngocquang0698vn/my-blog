@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Home" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yechiel" ],
+        "nickname" : [ "yechielk" ],
+        "numeric-id" : [ "2433609804" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389240686000619529/14-L8yd0.jpg" ],
+        "published" : [ "2014-04-08T13:25:52+00:00" ],
+        "uid" : [ "tag:twitter.com:yechielk" ],
+        "url" : [ "https://twitter.com/yechielk", "https://yechiel.me", "http://RabbiOnRails.io", "http://torahandtech.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Mondays are just capitalism's way of punishing us for the weekend." ],
+    "published" : [ "2022-03-21T14:51:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1505920135089041416" ],
+    "url" : [ "https://twitter.com/yechielk/status/1505920135089041416" ]
+  },
+  "type" : [ "h-entry" ]
+}
