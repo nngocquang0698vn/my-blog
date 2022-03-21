@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lizthegrey/status/1505924907971932160" ],
     "name" : [ "Like of @lizthegrey's tweet" ],
     "published" : [ "2022-03-21T15:23:00+0000" ],
     "category" : [ "interviewing", "diversity-and-inclusion", "recruitment" ],
