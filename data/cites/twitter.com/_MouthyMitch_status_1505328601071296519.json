@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mitchy" ],
+        "nickname" : [ "MouthyMitch" ],
+        "numeric-id" : [ "628055388" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2375705607/5mhrkkbhoresr5mrb1h3.jpeg" ],
+        "published" : [ "2012-07-06T02:54:12+00:00" ],
+        "uid" : [ "tag:twitter.com:MouthyMitch" ],
+        "url" : [ "https://twitter.com/MouthyMitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JordanUhl\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JordanUhl/status/1505328029740019718" ],
+    "photo" : [ "https://pbs.twimg.com/media/FOQAYqhWUAIMiOG.jpg" ],
+    "published" : [ "2022-03-19T23:41:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1505328601071296519" ],
+    "url" : [ "https://twitter.com/MouthyMitch/status/1505328601071296519" ]
+  },
+  "type" : [ "h-entry" ]
+}
