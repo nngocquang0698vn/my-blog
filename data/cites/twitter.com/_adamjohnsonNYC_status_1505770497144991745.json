@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam H. Johnson" ],
+        "nickname" : [ "adamjohnsonNYC" ],
+        "numeric-id" : [ "756331316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1144823684303118337/XqcU44nc.png" ],
+        "published" : [ "2012-08-14T02:56:06+00:00" ],
+        "uid" : [ "tag:twitter.com:adamjohnsonNYC" ],
+        "url" : [ "https://twitter.com/adamjohnsonNYC", "http://thecolumn.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "read this exchange, now want to eat arsenic" ],
+    "photo" : [ "https://pbs.twimg.com/media/FOWSSQNXEAEfMYK.jpg" ],
+    "published" : [ "2022-03-21T04:57:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1505770497144991745" ],
+    "url" : [ "https://twitter.com/adamjohnsonNYC/status/1505770497144991745" ]
+  },
+  "type" : [ "h-entry" ]
+}
