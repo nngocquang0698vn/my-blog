@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SorenSpicknall/status/1505669145861541888" ],
     "name" : [ "Like of @SorenSpicknall's tweet" ],
     "published" : [ "2022-03-21T08:44:00+0000" ],
     "like-of" : [ "https://twitter.com/SorenSpicknall/status/1505669145861541888" ],
