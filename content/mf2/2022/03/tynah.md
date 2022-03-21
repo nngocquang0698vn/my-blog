@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheSpaceshipper/status/1505771183211429889" ],
     "name" : [ "Like of @TheSpaceshipper's tweet" ],
     "published" : [ "2022-03-21T15:32:00+0000" ],
     "category" : [ "the-expanse" ],
