@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anna_bynature/status/1505303345853988865" ],
     "name" : [ "Like of @anna_bynature's tweet" ],
     "published" : [ "2022-03-21T08:45:00+0000" ],
     "like-of" : [ "https://twitter.com/anna_bynature/status/1505303345853988865" ],
