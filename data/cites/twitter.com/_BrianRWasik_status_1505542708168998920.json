@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Columbus, OH" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "drewtoothpaste" ],
+          "nickname" : [ "drewtoothpaste" ],
+          "numeric-id" : [ "14248784" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1122873805582544896/HAfCAnKr.png" ],
+          "published" : [ "2008-03-29T02:33:11+00:00" ],
+          "uid" : [ "tag:twitter.com:drewtoothpaste" ],
+          "url" : [ "https://twitter.com/drewtoothpaste", "https://patreon.com/garbagebrainuniversity", "http://patreon.com/garbagebrainun", "http://instagram.com/drewtoothpaste", "http://crudbump.bandcamp.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "bad news: the one-star reviews are coming back!" ],
+      "in-reply-to" : [ "https://twitter.com/drewtoothpaste/status/1473360059908374539" ],
+      "photo" : [ "https://pbs.twimg.com/media/FOQnJB4XsAIrMgN.jpg" ],
+      "published" : [ "2022-03-20T02:30:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1505371263228956675" ],
+      "url" : [ "https://twitter.com/drewtoothpaste/status/1505371263228956675" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ithaca, NY, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Wasik" ],
+        "nickname" : [ "BrianRWasik" ],
+        "numeric-id" : [ "928196912" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1455544895121334283/4iai9N4L.jpg" ],
+        "published" : [ "2012-11-05T18:53:55+00:00" ],
+        "uid" : [ "tag:twitter.com:BrianRWasik" ],
+        "url" : [ "https://twitter.com/BrianRWasik", "https://scholar.google.com/citations?user=3dVyIWQAAAAJ&hl=en" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The natural progression of pathogen surveillance. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FOTDHWXWYA0VGUq.jpg" ],
+    "published" : [ "2022-03-20T13:52:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1505542708168998920" ],
+    "url" : [ "https://twitter.com/BrianRWasik/status/1505542708168998920" ]
+  },
+  "type" : [ "h-entry" ]
+}
