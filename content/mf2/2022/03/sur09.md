@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/benegotherit/status/1503846384339865602" ],
     "name" : [ "Like of @benegotherit's tweet" ],
     "published" : [ "2022-03-21T22:58:00+0000" ],
     "like-of" : [ "https://twitter.com/benegotherit/status/1503846384339865602" ],
