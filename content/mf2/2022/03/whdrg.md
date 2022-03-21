@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marypcbuk/status/1505925849236881415" ],
     "name" : [ "Like of @marypcbuk's tweet" ],
     "published" : [ "2022-03-21T15:23:00+0000" ],
     "category" : [ "diversity-and-inclusion" ],
