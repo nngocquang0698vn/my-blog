@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dorksofprey/status/1505560322601627649" ],
     "name" : [ "Like of @dorksofprey's tweet" ],
     "published" : [ "2022-03-21T10:20:00+0000" ],
     "like-of" : [ "https://twitter.com/dorksofprey/status/1505560322601627649" ],
