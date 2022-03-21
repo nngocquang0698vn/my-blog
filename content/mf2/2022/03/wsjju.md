@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shukran___/status/1505625725935755275" ],
     "name" : [ "Like of @shukran___'s tweet" ],
     "published" : [ "2022-03-21T08:37:00+0000" ],
     "like-of" : [ "https://twitter.com/shukran___/status/1505625725935755275" ],
