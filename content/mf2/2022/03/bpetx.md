@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/aleclearmind/split-patch/stargazers" ],
     "name" : [ "aleclearmind/split-patch: Split your patch similarly to `git add -p` but supporting multiple buckets" ],
     "published" : [ "2022-03-21T10:32:00+0000" ],
     "category" : [ "git" ],
