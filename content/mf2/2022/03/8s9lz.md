@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lilwonder0/status/1505626083084935170" ],
     "name" : [ "Like of @lilwonder0's tweet" ],
     "published" : [ "2022-03-21T08:37:00+0000" ],
     "like-of" : [ "https://twitter.com/lilwonder0/status/1505626083084935170" ],
