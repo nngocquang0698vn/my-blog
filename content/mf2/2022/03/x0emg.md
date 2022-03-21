@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PoorlyAgedStuff/status/1495581745227382784" ],
     "name" : [ "Like of @PoorlyAgedStuff's tweet" ],
     "published" : [ "2022-03-21T15:35:00+0000" ],
     "category" : [ "cute" ],
