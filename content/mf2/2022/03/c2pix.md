@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/geoffreyhill/status/1505639956642865154" ],
     "name" : [ "Like of @geoffreyhill's tweet" ],
     "published" : [ "2022-03-21T08:28:00+0000" ],
     "category" : [ "captcha" ],
