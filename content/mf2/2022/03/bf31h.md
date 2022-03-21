@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swyx/status/1505913116990836739" ],
     "name" : [ "Like of @swyx's tweet" ],
     "published" : [ "2022-03-21T15:30:00+0000" ],
     "category" : [ "salary", "compensation" ],
