@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/genehack/status/1505762835095121921" ],
     "name" : [ "Like of @genehack's tweet" ],
     "published" : [ "2022-03-21T08:34:00+0000" ],
     "like-of" : [ "https://twitter.com/genehack/status/1505762835095121921" ],
