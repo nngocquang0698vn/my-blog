@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/edent/status/1…" ],
+        "url" : [ "https://twitter.com/edent/status/1241844811717644288" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "A year ago today. Still pisses me off that the \"put together a website in half an hour\" crowd had such a cavalier attitude to health data.\n<a class=\"tag\" href=\"https://twitter.com/edent/status/1241844811717644288\">twitter.com/edent/status/1…</a>",
+        "value" : "A year ago today. Still pisses me off that the \"put together a website in half an hour\" crowd had such a cavalier attitude to health data."
+      } ],
+      "published" : [ "2021-03-22T06:47:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1373889107475230722" ],
+      "url" : [ "https://twitter.com/edent/status/1373889107475230722" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">And now we're seeing the same thing with the war in Ukraine.\nOstensibly well-meaning, but utterly ignorant folk trying to \"save the day\" by building a website or app.</div>",
+      "value" : "And now we're seeing the same thing with the war in Ukraine.\nOstensibly well-meaning, but utterly ignorant folk trying to \"save the day\" by building a website or app."
+    } ],
+    "published" : [ "2022-03-22T06:26:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1506155417952563206" ],
+    "url" : [ "https://twitter.com/edent/status/1506155417952563206" ]
+  },
+  "type" : [ "h-entry" ]
+}
