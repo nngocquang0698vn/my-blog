@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canberra, ACT, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave Hall 🌻" ],
+        "nickname" : [ "skwashd" ],
+        "numeric-id" : [ "8018342" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176042000178507776/UndEd-4_.jpg" ],
+        "published" : [ "2007-08-07T09:56:04+00:00" ],
+        "uid" : [ "tag:twitter.com:skwashd" ],
+        "url" : [ "https://twitter.com/skwashd", "https://skwashd.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The more I see on okta the more I feel like this is going to be one of those “fuck me, I didn’t realise *that* company used X” incidents. Almost everyone will have some contact with this breach but many of them won’t realise cos it is 5 levels deep in the saas vendor stack.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Zemmiph0bia\"></a>",
+      "value" : "The more I see on okta the more I feel like this is going to be one of those “fuck me, I didn’t realise *that* company used X” incidents. Almost everyone will have some contact with this breach but many of them won’t realise cos it is 5 levels deep in the saas vendor stack."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Zemmiph0bia/status/1506139385556660229" ],
+    "published" : [ "2022-03-22T05:27:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1506140550751129604" ],
+    "url" : [ "https://twitter.com/skwashd/status/1506140550751129604" ]
+  },
+  "type" : [ "h-entry" ]
+}
