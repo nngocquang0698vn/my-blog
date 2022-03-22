@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frank McGovern" ],
+        "nickname" : [ "FrankMcG" ],
+        "numeric-id" : [ "863115334085160960" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1157277713981423616/sHURYdg3.jpg" ],
+        "published" : [ "2017-05-12T19:35:06+00:00" ],
+        "uid" : [ "tag:twitter.com:FrankMcG" ],
+        "url" : [ "https://twitter.com/FrankMcG", "https://www.frankmcg.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23Okta\">#Okta</a>:\n\n1. Share the information internally.\n\n2. Collect and retain related logs.\n\n3. Hunt logs for bad.\n\n4. Rotate Okta privileged passwords.\n\n5. Move on unless Okta reaches out to you that you are involved. Adjust DFIR to their context.\n\nThat’s about all you can do right now.</div>",
+      "value" : "#Okta:\n\n1. Share the information internally.\n\n2. Collect and retain related logs.\n\n3. Hunt logs for bad.\n\n4. Rotate Okta privileged passwords.\n\n5. Move on unless Okta reaches out to you that you are involved. Adjust DFIR to their context.\n\nThat’s about all you can do right now."
+    } ],
+    "published" : [ "2022-03-22T05:42:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1506144210713563138" ],
+    "url" : [ "https://twitter.com/FrankMcG/status/1506144210713563138" ]
+  },
+  "type" : [ "h-entry" ]
+}
