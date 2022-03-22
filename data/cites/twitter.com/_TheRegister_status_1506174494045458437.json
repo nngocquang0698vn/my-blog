@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NA-EMEA-APAC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Register" ],
+        "nickname" : [ "TheRegister" ],
+        "numeric-id" : [ "78012548" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364.png" ],
+        "published" : [ "2009-09-28T13:24:46+00:00" ],
+        "uid" : [ "tag:twitter.com:TheRegister" ],
+        "url" : [ "https://twitter.com/TheRegister", "https://www.theregister.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Authentication providers getting pwned by ransomware gangs is not the zero-trust future we had in mind" ],
+    "published" : [ "2022-03-22T07:42:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1506174494045458437" ],
+    "url" : [ "https://twitter.com/TheRegister/status/1506174494045458437" ]
+  },
+  "type" : [ "h-entry" ]
+}
