@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TeeOsoLovely/status/1505781794041303040" ],
     "name" : [ "Like of @TeeOsoLovely's tweet" ],
     "published" : [ "2022-03-22T13:50:00+0000" ],
     "like-of" : [ "https://twitter.com/TeeOsoLovely/status/1505781794041303040" ],
