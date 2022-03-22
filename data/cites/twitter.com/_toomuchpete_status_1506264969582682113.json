@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Holiday" ],
+        "nickname" : [ "toomuchpete" ],
+        "numeric-id" : [ "1541641" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/755472959477780480/YxbbZSIs.jpg" ],
+        "published" : [ "2007-03-19T18:59:03+00:00" ],
+        "uid" : [ "tag:twitter.com:toomuchpete" ],
+        "url" : [ "https://twitter.com/toomuchpete", "http://pete.holiday" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All of the hot takes on the Okta breach which amount to \"every company should roll their own authentication\" tell me you've never worked in security or startups." ],
+    "published" : [ "2022-03-22T13:42:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1506264969582682113" ],
+    "url" : [ "https://twitter.com/toomuchpete/status/1506264969582682113" ]
+  },
+  "type" : [ "h-entry" ]
+}
