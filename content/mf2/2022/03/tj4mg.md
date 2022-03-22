@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NSQE/status/1506130604508680192" ],
     "name" : [ "Like of @NSQE's tweet" ],
     "published" : [ "2022-03-22T07:48:00+0000" ],
     "category" : [ "okta" ],
