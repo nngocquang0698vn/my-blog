@@ -20,6 +20,8 @@ Although we can unit test these methods nicely, we're still going to want to bui
 
 A common choice for this is Wiremock or MockServer, but you can actually do it all using Spring Boot's `RestClientTest`, which provides the means to [test an auto-configured, and mocked, rest client](https://docs.spring.io/spring-boot/docs/2.6.3/reference/html/features.html#features.testing.spring-boot-applications.autoconfigured-rest-client).
 
+Sample code for this blog post can be found [on GitLab](https://gitlab.com/jamietanna/spring-boot-http-client-integration-testing).
+
 # Base setup
 
 Let's say that we have a class, `ProductServiceClient`, which can be described using the following interface:

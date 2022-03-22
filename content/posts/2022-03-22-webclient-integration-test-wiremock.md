@@ -1,6 +1,6 @@
 ---
-title: "Integration Testing Your Spring `WebClient`s with okhttp's `MockWebServer`"
-description: "How to write integration tests using `MockWebServer` with Spring Boot, for use with `WebClient`s."
+title: "Integration Testing Your Spring `WebClient`s with Wiremock"
+description: "How to write integration tests using Wiremock, for use with `WebClient`s."
 tags:
 - blogumentation
 - java
@@ -9,8 +9,8 @@ tags:
 - tdd
 license_code: Apache-2.0
 license_prose: CC-BY-NC-SA-4.0
-date: 2022-02-07T10:44:19+0000
-slug: webclient-integration-test
+date: 2022-03-22T10:38:47+0000
+slug: webclient-integration-test-wiremock
 syndication:
 - "https://brid.gy/publish/twitter"
 image: https://media.jvt.me/3e88e3081a.png
@@ -19,9 +19,7 @@ If you're building Spring Boot services which interact with other services, it's
 
 Although we can unit test these methods nicely, we're still going to want to build an integration test to validate that the HTTP layer works correctly.
 
-A common choice for this is Wiremock or MockServer, and I'd hoped to say that, similar to [integration testing our `RestTemplate`s](/posts/2022/02/01/resttemplate-integration-test/), we'd be able to use Spring Boot's `RestClientTest`, but [there's no plan for Spring Boot to have this functionality](https://github.com/spring-projects/spring-boot/issues/8404).
-
-We can, however, use okhttp3's `MockWebServer` as noted on the issue above, and in [this blog by Mimacom](https://blog.mimacom.com/spring-webclient-testing/), which may be slightly more lightweight than our other options.
+As noted in [the version of this article, using OkHttp](https://www.jvt.me/posts/2022/02/07/webclient-integration-test/), we can't use a built-in Spring means to test this, but we can use an HTTP server like [Wiremock](https://wiremock.org/).
 
 Sample code for this blog post can be found [on GitLab](https://gitlab.com/jamietanna/spring-boot-http-client-integration-testing).
 
@@ -74,7 +72,6 @@ And finally, we have our `ProductServiceClient`:
 ```java
 import java.util.List;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
@@ -93,7 +90,6 @@ public class ProductServiceClient {
         webClient
             .get()
             .uri("/products")
-            .accept(MediaType.APPLICATION_JSON, MediaType.valueOf("application/*+json"))
             .retrieve()
             .onStatus(
                 HttpStatus::is4xxClientError,
@@ -110,36 +106,36 @@ public class ProductServiceClient {
 }
 ```
 
-# Setting up `MockWebServer`
+# Setting up Wiremock
 
-Firstly, we need to add both the core okhttp library, and `mockwebserver` to the classpath, i.e. for Gradle:
+Firstly, we need to add Wiremock to the classpath, i.e. for Gradle:
 
 ```groovy
 dependencies {
-  testImplementation "com.squareup.okhttp3:okhttp:4.9.3"
-  testImplementation "com.squareup.okhttp3:mockwebserver:4.9.3"
+  testImplementation 'com.github.tomakehurst:wiremock-jre8:2.32.0'
 }
 ```
 
 Next, we set up the following Spring integration test, so we can make use of the autowired `ObjectMapper` from Spring:
 
 ```java
+import static com.github.tomakehurst.wiremock.client.WireMock.*;
+import static com.github.tomakehurst.wiremock.core.WireMockConfiguration.options;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.github.tomakehurst.wiremock.WireMockServer;
 import java.util.List;
-import me.jvt.hacking.application.Application;
-import okhttp3.mockwebserver.MockResponse;
-import okhttp3.mockwebserver.MockWebServer;
+import me.jvt.hacking.webclient.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.context.annotation.Bean;
-import org.springframework.http.HttpHeaders;
+import org.springframework.context.annotation.Import;
 import org.springframework.http.MediaType;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -151,13 +147,16 @@ class ProductServiceClientTest {
   @TestConfiguration
   static class Config {
     @Bean
-    public MockWebServer webServer() {
-      return new MockWebServer();
+    public WireMockServer webServer() {
+      WireMockServer wireMockServer = new WireMockServer(options().dynamicPort());
+      // required so we can use `baseUrl()` in the construction of `webClient` below
+      wireMockServer.start();
+      return wireMockServer;
     }
 
     @Bean
-    public WebClient webClient(MockWebServer webServer) {
-      return WebClient.builder().baseUrl(webServer.url("").toString()).build();
+    public WebClient webClient(WireMockServer server) {
+      return WebClient.builder().baseUrl(server.baseUrl()).build();
     }
 
     @Bean
@@ -167,17 +166,18 @@ class ProductServiceClientTest {
   }
 
   @Autowired private ObjectMapper mapper;
-  @Autowired private MockWebServer server;
+  @Autowired private WireMockServer server;
 
   @Autowired private ProductServiceClient client;
 
   @Test
   void returnsProductsWhenSuccessful() throws ProductServiceException {
-    server.enqueue(
-        new MockResponse()
-            .setResponseCode(200)
-            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
-            .setBody(successBody()));
+    server.stubFor(
+        get(urlEqualTo("/products"))
+            .willReturn(
+                aResponse()
+                    .withHeader("Content-Type", MediaType.APPLICATION_JSON_VALUE)
+                    .withBody(successBody())));
 
     List<Product> products = client.retrieveProducts();
 
@@ -188,26 +188,25 @@ class ProductServiceClientTest {
 
   @Test
   void throwsProductServiceExceptionWhenErrorStatus() {
-    server.enqueue(new MockResponse().setResponseCode(400));
+    server.stubFor(get(anyUrl()).willReturn(aResponse().withStatus(400)));
 
     assertThatThrownBy(() -> client.retrieveProducts())
         .hasCauseInstanceOf(ProductServiceException.class);
   }
 
   @Test
-  void setsAcceptHeader() throws ProductServiceException, InterruptedException {
-    server.enqueue(
-        new MockResponse()
-            .setResponseCode(200)
-            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
-            .setBody(successBody()));
+  void setsAcceptHeader() throws ProductServiceException {
+    server.stubFor(
+        get(urlEqualTo("/products"))
+            .willReturn(
+                aResponse()
+                    .withHeader("Content-Type", MediaType.APPLICATION_JSON_VALUE)
+                    .withBody(successBody())));
 
     client.retrieveProducts();
 
-    var request = server.takeRequest(100, TimeUnit.MILLISECONDS);
-    assertThat(request).isNotNull();
-
-    assertThat(request.getHeader("accept")).isEqualTo("application/json, appli");
+    server.verify(
+        getRequestedFor(urlEqualTo("/products")).withHeader("accept", equalTo("application/json")));
   }
 
   private String successBody() {
@@ -223,85 +222,7 @@ class ProductServiceClientTest {
 }
 ```
 
-If you're happy constructing an `ObjectMapper` another way, you can remove the need for Spring:
-
-```java
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import java.util.List;
-import okhttp3.mockwebserver.MockResponse;
-import okhttp3.mockwebserver.MockWebServer;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
-import org.springframework.web.reactive.function.client.WebClient;
-
-class ProductServiceClientTest {
-
-  private static final ObjectMapper MAPPER = new ObjectMapper();
-
-  private MockWebServer server;
-  private ProductServiceClient client;
-
-  @BeforeEach
-  void setup() {
-    server = new MockWebServer();
-    WebClient webClient = WebClient.builder().baseUrl(server.url("").toString()).build();
-    client = new ProductServiceClient(webClient);
-  }
-
-  @Test
-  void returnsProductsWhenSuccessful() throws ProductServiceException {
-    server.enqueue(
-        new MockResponse()
-            .setResponseCode(200)
-            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
-            .setBody(successBody()));
-
-    List<Product> products = client.retrieveProducts();
-
-    assertThat(products)
-        .containsExactly(
-            new Product("123", "Credit Card"), new Product("456", "Debit Card (Express)"));
-  }
-
-  @Test
-  void throwsProductServiceExceptionWhenErrorStatus() {
-    server.enqueue(new MockResponse().setResponseCode(400));
-
-    assertThatThrownBy(() -> client.retrieveProducts())
-        .hasCauseInstanceOf(ProductServiceException.class);
-  }
-
-  @Test
-  void setsAcceptHeader() throws ProductServiceException, InterruptedException {
-    server.enqueue(
-        new MockResponse()
-            .setResponseCode(200)
-            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
-            .setBody(successBody()));
-
-    client.retrieveProducts();
-
-    var request = server.takeRequest(100, TimeUnit.MILLISECONDS);
-    assertThat(request).isNotNull();
-
-    assertThat(request.getHeader("accept")).isEqualTo("application/json, appli");
-  }
-
-  private String successBody() {
-    ProductContainer container = new ProductContainer();
-    container.setProducts(
-        List.of(new Product("123", "Credit Card"), new Product("456", "Debit Card (Express)")));
-    try {
-      return MAPPER.writeValueAsString(container);
-    } catch (JsonProcessingException e) {
-      throw new IllegalStateException(e);
-    }
-  }
-}
-```
+If you're happy constructing an `ObjectMapper` another way, I'll leave it as an exercise to the reader, [based on how we did it for OkHttp's tests](https://www.jvt.me/posts/2022/02/07/webclient-integration-test/#setting-up-mockwebserver).
 
 # Adding tests for multiple `WebClient` together, with custom configuration
 
@@ -337,17 +258,13 @@ public class WebClientConfig {
 
 This allows us to write the following test to verify that the HTTP requests are sent correctly.
 
-**Note** the need for enqueueing a `MockResponse`, as without it the tests will fail.
-
 ```java
-import static org.assertj.core.api.Assertions.assertThat;
+import static com.github.tomakehurst.wiremock.client.WireMock.*;
+import static com.github.tomakehurst.wiremock.core.WireMockConfiguration.options;
 
-import java.util.concurrent.TimeUnit;
-import me.jvt.hacking.application.Application;
-import me.jvt.hacking.application.WebClientConfig;
-import okhttp3.mockwebserver.MockResponse;
-import okhttp3.mockwebserver.MockWebServer;
-import okhttp3.mockwebserver.RecordedRequest;
+import com.github.tomakehurst.wiremock.WireMockServer;
+import me.jvt.hacking.webclient.Application;
+import me.jvt.hacking.webclient.WebClientConfig;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -372,32 +289,28 @@ class WebClientIntegrationTest {
   @Qualifier("bar")
   private WebClient bar;
 
-  private final MockWebServer server = new MockWebServer();
+  private final WireMockServer server = new WireMockServer(options().dynamicPort());
 
   @BeforeEach
   void setup() {
-    // required to be set, otherwise `takeRequest` will never return anything
-    server.enqueue(new MockResponse());
+    server.start();
+    server.stubFor(get(anyUrl()).willReturn(aResponse().withStatus(200)));
   }
 
   @Test
   void fooSetsApiKey() throws InterruptedException {
-    foo.get().uri(server.url("/products").toString()).retrieve().toBodilessEntity().block();
+    foo.get().uri(server.url("/products")).retrieve().toBodilessEntity().block();
 
-    RecordedRequest request = server.takeRequest(1, TimeUnit.SECONDS);
-    assertThat(request).isNotNull(); // could also be wrapped in an `Optional`
-    assertThat(request.getPath()).isEqualTo("/products");
-    assertThat(request.getHeader("Api-Key")).isEqualTo("1.2.3");
+    server.verify(getRequestedFor(urlEqualTo("/products")).withHeader("Api-Key", equalTo("1.2.3")));
   }
 
   @Test
   void barSetsTextPlainAcceptHeader() throws InterruptedException {
-    bar.get().uri(server.url("/products").toString()).retrieve().bodyToMono(String.class).block();
+    bar.get().uri(server.url("/products")).retrieve().bodyToMono(String.class).block();
 
-    RecordedRequest request = server.takeRequest(1, TimeUnit.SECONDS);
-    assertThat(request).isNotNull(); // could also be wrapped in an `Optional`
-    assertThat(request.getPath()).isEqualTo("/products");
-    assertThat(request.getHeader("accept")).isEqualTo(MediaType.TEXT_PLAIN_VALUE);
+    server.verify(
+        getRequestedFor(urlEqualTo("/products"))
+            .withHeader("accept", equalTo(MediaType.TEXT_PLAIN_VALUE)));
   }
 }
 ```
