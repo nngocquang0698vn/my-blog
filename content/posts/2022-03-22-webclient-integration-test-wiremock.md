@@ -1,19 +1,19 @@
 ---
 title: "Integration Testing Your Spring `WebClient`s with Wiremock"
 description: "How to write integration tests using Wiremock, for use with `WebClient`s."
-tags:
-- blogumentation
-- java
-- spring-boot
-- testing
-- tdd
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-03-22T10:38:47+0000
-slug: webclient-integration-test-wiremock
+date: "2022-03-22T10:38:47+0000"
 syndication:
-- "https://brid.gy/publish/twitter"
-image: https://media.jvt.me/3e88e3081a.png
+- "https://twitter.com/JamieTanna/status/1506220842514010112"
+tags:
+- "blogumentation"
+- "java"
+- "spring-boot"
+- "testing"
+- "tdd"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/3e88e3081a.png"
+slug: "webclient-integration-test-wiremock"
 ---
 If you're building Spring Boot services which interact with other services, it's likely that you're using the `WebClient` from the WebFlux project to use a more reactive and non-blocking HTTP client.
 
