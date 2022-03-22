@@ -72,6 +72,7 @@ And finally, we have our `ProductServiceClient`:
 ```java
 import java.util.List;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
@@ -90,6 +91,7 @@ public class ProductServiceClient {
         webClient
             .get()
             .uri("/products")
+            .accept(MediaType.APPLICATION_JSON, MediaType.valueOf("application/*+json"))
             .retrieve()
             .onStatus(
                 HttpStatus::is4xxClientError,
@@ -190,6 +192,22 @@ class ProductServiceClientTest {
         .hasCauseInstanceOf(ProductServiceException.class);
   }
 
+  @Test
+  void setsAcceptHeader() throws ProductServiceException, InterruptedException {
+    server.enqueue(
+        new MockResponse()
+            .setResponseCode(200)
+            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
+            .setBody(successBody()));
+
+    client.retrieveProducts();
+
+    var request = server.takeRequest(100, TimeUnit.MILLISECONDS);
+    assertThat(request).isNotNull();
+
+    assertThat(request.getHeader("accept")).isEqualTo("application/json, appli");
+  }
+
   private String successBody() {
     ProductContainer container = new ProductContainer();
     container.setProducts(
@@ -252,6 +270,22 @@ class ProductServiceClientTest {
 
     assertThatThrownBy(() -> client.retrieveProducts())
         .hasCauseInstanceOf(ProductServiceException.class);
+  }
+
+  @Test
+  void setsAcceptHeader() throws ProductServiceException, InterruptedException {
+    server.enqueue(
+        new MockResponse()
+            .setResponseCode(200)
+            .setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON)
+            .setBody(successBody()));
+
+    client.retrieveProducts();
+
+    var request = server.takeRequest(100, TimeUnit.MILLISECONDS);
+    assertThat(request).isNotNull();
+
+    assertThat(request.getHeader("accept")).isEqualTo("application/json, appli");
   }
 
   private String successBody() {

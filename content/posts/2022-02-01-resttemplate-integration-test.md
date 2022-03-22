@@ -152,6 +152,17 @@ class ProductServiceClientTest {
         .hasCauseInstanceOf(RestClientResponseException.class);
   }
 
+  @Test
+  void setsAcceptHeader() throws ProductServiceException {
+    server
+        .expect(header("accept", "application/json, application/*+json"))
+        .andRespond(withSuccess(successBody(), MediaType.APPLICATION_JSON));
+
+    client.retrieveProducts();
+
+    server.verify();
+  }
+
   private String successBody() {
     ProductContainer container = new ProductContainer();
     container.setProducts(
