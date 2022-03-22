@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "My name is not Heather." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "H. Poteat" ],
+        "nickname" : [ "NSQE" ],
+        "numeric-id" : [ "67665407" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/422794362141933568/gRzOow-w.png" ],
+        "published" : [ "2009-08-21T17:33:02+00:00" ],
+        "uid" : [ "tag:twitter.com:NSQE" ],
+        "url" : [ "https://twitter.com/NSQE", "https://github.com/nsqe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">For everyone having collective heart attacks over the Okta breach:\n\nGo check the Okta setting to \"Give access to Okta Support\" and \"Give directory debugger access to Okta Support.\" Make sure those are turned off.\n\nI am not an Okta admin. Just passing along what I've got.</div>",
+      "value" : "For everyone having collective heart attacks over the Okta breach:\n\nGo check the Okta setting to \"Give access to Okta Support\" and \"Give directory debugger access to Okta Support.\" Make sure those are turned off.\n\nI am not an Okta admin. Just passing along what I've got."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/NSQE/status/1506122590368137216" ],
+    "published" : [ "2022-03-22T04:48:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1506130604508680192" ],
+    "url" : [ "https://twitter.com/NSQE/status/1506130604508680192" ]
+  },
+  "type" : [ "h-entry" ]
+}
