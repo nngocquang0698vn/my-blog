@@ -1,9 +1,10 @@
 ---
-title: "Integration Testing Your Spring `RestTemplate`s with `RestClientTest`"
+title: "Integration Testing Your Spring `RestTemplate`s with `RestClientTest`, using spring-test"
 description: "How to write integration tests using `RestClientTest` with Spring Boot, for use with `RestTemplate` and `RestTemplateBuilder`s."
 tags:
 - blogumentation
 - java
+- spring
 - spring-boot
 - testing
 - tdd

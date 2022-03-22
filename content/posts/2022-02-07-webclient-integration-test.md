@@ -1,6 +1,6 @@
 ---
 title: "Integration Testing Your Spring `WebClient`s with okhttp's `MockWebServer`"
-description: "How to write integration tests using `RestClientTest` with Spring Boot, for use with `RestTemplate` and `RestTemplateBuilder`s."
+description: "How to write integration tests using `MockWebServer` with Spring Boot, for use with `WebClient`s."
 tags:
 - blogumentation
 - java
