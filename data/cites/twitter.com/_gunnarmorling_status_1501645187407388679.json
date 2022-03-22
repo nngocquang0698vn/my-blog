@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gunnar Morling 🌍" ],
+        "nickname" : [ "gunnarmorling" ],
+        "numeric-id" : [ "2342011352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411051861415759880/4vzagQao.jpg" ],
+        "published" : [ "2014-02-13T13:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:gunnarmorling" ],
+        "url" : [ "https://twitter.com/gunnarmorling", "https://morling.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What to focus on during a code review? Don't waste your time with automatable formalities like code style. Rather spend your review budget on those aspects which will be hard/expensive to change later on. The \"Code Review Pyramid\" provides some guidance on what to look for." ],
+    "photo" : [ "https://pbs.twimg.com/media/FNboZnbXMAQ7-xq.jpg" ],
+    "published" : [ "2022-03-09T19:44:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1501645187407388679" ],
+    "url" : [ "https://twitter.com/gunnarmorling/status/1501645187407388679" ]
+  },
+  "type" : [ "h-entry" ]
+}
