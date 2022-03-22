@@ -72,7 +72,45 @@ $ unzip -l aws-lambda-java-serialization-0.2.0.jar
 
 This, unfortunately, still doesn't give us much information about the versions, just the dependencies.
 
-In Jackson, we fortunately have the class `PackageVersion` class which when decompiled shows this is Jackson v2.10.0:
+Looking at a byte-by-byte comparison of the JAR against a freshly built JAR [using the initial version of the `aws-lambda-java-serialization` sources](https://github.com/aws/aws-lambda-java-libs/blob/50c7260261af249cbe40847795d7dcc9cb8dea90/aws-lambda-java-serialization/pom.xml), we can see that it is almost certainly the same:
+
+<details>
+
+<summary>Diff of <code>du path/to/extracted-jar/com</code></summary>
+
+```diff
+diff --git fresh-build lambci
+--- fresh-build
++++ lambci
+@@ -48,16 +48,16 @@
+ 160	com/amazonaws/lambda/thirdparty/org
+ 8424	com/amazonaws/lambda/thirdparty
+ 8428	com/amazonaws/lambda
+-92	com/amazonaws/services/lambda/runtime/serialization/events/mixins
++100	com/amazonaws/services/lambda/runtime/serialization/events/mixins
+ 32	com/amazonaws/services/lambda/runtime/serialization/events/serializers
+ 28	com/amazonaws/services/lambda/runtime/serialization/events/modules
+-184	com/amazonaws/services/lambda/runtime/serialization/events
++192	com/amazonaws/services/lambda/runtime/serialization/events
+ 164	com/amazonaws/services/lambda/runtime/serialization/util
+ 48	com/amazonaws/services/lambda/runtime/serialization/factories
+-404	com/amazonaws/services/lambda/runtime/serialization
+-408	com/amazonaws/services/lambda/runtime
+-412	com/amazonaws/services/lambda
+-416	com/amazonaws/services
+-8848	com/amazonaws
+-8852	com
++412	com/amazonaws/services/lambda/runtime/serialization
++416	com/amazonaws/services/lambda/runtime
++420	com/amazonaws/services/lambda
++424	com/amazonaws/services
++8856	com/amazonaws
++8860	com
+```
+
+</details>
+
+This also matches Jackson's `PackageVersion` class which when decompiled shows this is Jackson v2.10.0, which matches the version from the POM:
 
 <details>
 
@@ -104,5 +142,3 @@ public final class PackageVersion implements Versioned
 ```
 
 </details>
-
-Unfortunately I've not found a straightforward way to determine the versions for the other classes, if you find a way, please write in to let me know!
