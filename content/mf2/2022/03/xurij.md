@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FrankMcG/status/1506144210713563138" ],
     "name" : [ "Like of @FrankMcG's tweet" ],
     "published" : [ "2022-03-22T07:59:00+0000" ],
     "category" : [ "okta" ],
