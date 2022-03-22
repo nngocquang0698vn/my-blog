@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheRegister/status/1506174494045458437" ],
     "name" : [ "Like of @TheRegister's tweet" ],
     "published" : [ "2022-03-22T07:46:00+0000" ],
     "like-of" : [ "https://twitter.com/TheRegister/status/1506174494045458437" ],
