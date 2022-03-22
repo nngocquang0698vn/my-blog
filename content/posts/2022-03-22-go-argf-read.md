@@ -1,17 +1,18 @@
 ---
 title: "Providing a basic implementation of Ruby's `ARGF.read` in Go"
-description: "Creating a Go helper method to read from `stdin` or a file, inspired by Ruby's `ARGF.read` method."
-tags:
-- blogumentation
-- go
-- ruby
-date: 2022-03-22T11:22:30+0000
-license_prose: CC-BY-NC-SA-4.0
-license_code: Apache-2.0
-slug: go-argf-read
-image: https://media.jvt.me/b41202acf7.png
+description: "Creating a Go helper method to read from `stdin` or a file, inspired\
+  \ by Ruby's `ARGF.read` method."
+date: "2022-03-22T11:22:30+0000"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1506231935286362131"
+tags:
+- "blogumentation"
+- "go"
+- "ruby"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/b41202acf7.png"
+slug: "go-argf-read"
 ---
 While I write more Go command-line utilities, I find that I'm generally reading from `stdin`, but sometimes need to read input from files.
 
