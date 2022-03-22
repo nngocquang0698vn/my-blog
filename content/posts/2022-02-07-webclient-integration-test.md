@@ -112,8 +112,8 @@ Firstly, we need to add both the core okhttp library, and `mockwebserver` to the
 
 ```groovy
 dependencies {
-  testImplementation"com.squareup.okhttp3:okhttp:4.9.3"
-  testImplementation"com.squareup.okhttp3:mockwebserver:4.9.3"
+  testImplementation "com.squareup.okhttp3:okhttp:4.9.3"
+  testImplementation "com.squareup.okhttp3:mockwebserver:4.9.3"
 }
 ```
 
