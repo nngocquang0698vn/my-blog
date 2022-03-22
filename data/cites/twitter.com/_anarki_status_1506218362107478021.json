@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anarki" ],
+        "nickname" : [ "anarki" ],
+        "numeric-id" : [ "73693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/78218143/dex.gif" ],
+        "published" : [ "2006-12-16T13:48:26+00:00" ],
+        "uid" : [ "tag:twitter.com:anarki" ],
+        "url" : [ "https://twitter.com/anarki", "http://soundcloud.com/anarrki" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "name someone who you think has been cancelled ?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulg\"></a>",
+      "value" : "name someone who you think has been cancelled ?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/paulg/status/1506217635947720712" ],
+    "published" : [ "2022-03-22T10:36:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1506218362107478021" ],
+    "url" : [ "https://twitter.com/anarki/status/1506218362107478021" ]
+  },
+  "type" : [ "h-entry" ]
+}
