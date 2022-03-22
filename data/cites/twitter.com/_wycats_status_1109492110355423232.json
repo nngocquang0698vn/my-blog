@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yehuda Katz" ],
+        "nickname" : [ "wycats" ],
+        "numeric-id" : [ "8526432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/861010112852262912/nbPZKMyR.jpg" ],
+        "published" : [ "2007-08-30T04:07:52+00:00" ],
+        "uid" : [ "tag:twitter.com:wycats" ],
+        "url" : [ "https://twitter.com/wycats", "http://yehudakatz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">In my first serious job, my boss took me out to lunch and offered to increase my salary if I agreed to give my full effort to migrating from Rails to Java.\n\nI told him I already had an offer paying me 2x his proposed salary increase.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jesslynnrose\"></a>",
+      "value" : "In my first serious job, my boss took me out to lunch and offered to increase my salary if I agreed to give my full effort to migrating from Rails to Java.\n\nI told him I already had an offer paying me 2x his proposed salary increase."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jesslynnrose/status/1108765817989222400" ],
+    "published" : [ "2019-03-23T16:28:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1109492110355423232" ],
+    "url" : [ "https://twitter.com/wycats/status/1109492110355423232" ]
+  },
+  "type" : [ "h-entry" ]
+}
