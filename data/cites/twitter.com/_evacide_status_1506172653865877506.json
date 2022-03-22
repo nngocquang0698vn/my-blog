@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corey Quinn" ],
+          "nickname" : [ "QuinnyPig" ],
+          "numeric-id" : [ "97114171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+          "published" : [ "2009-12-16T02:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:QuinnyPig" ],
+          "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Reuters claims <a href=\"https://twitter.com/okta\">@okta</a> is “investigating reports” which implies they were caught unaware. That is definitely the worse option.  <a href=\"https://www.reuters.com/article/okta-breach-idUSL2N2VP07B\">reuters.com/article/okta-b…</a>",
+        "value" : "Reuters claims @okta is “investigating reports” which implies they were caught unaware. That is definitely the worse option.  reuters.com/article/okta-b…"
+      } ],
+      "published" : [ "2022-03-22T05:04:39+00:00" ],
+      "uid" : [ "tag:twitter.com:1506134739303903234" ],
+      "url" : [ "https://twitter.com/QuinnyPig/status/1506134739303903234" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Eva" ],
+        "nickname" : [ "evacide" ],
+        "numeric-id" : [ "14707266" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6.jpg" ],
+        "published" : [ "2008-05-08T23:34:06+00:00" ],
+        "uid" : [ "tag:twitter.com:evacide" ],
+        "url" : [ "https://twitter.com/evacide", "https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Okta has a lot of customers and all of their security teams are about to have a very bad week." ],
+    "published" : [ "2022-03-22T07:35:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1506172653865877506" ],
+    "url" : [ "https://twitter.com/evacide/status/1506172653865877506" ]
+  },
+  "type" : [ "h-entry" ]
+}
