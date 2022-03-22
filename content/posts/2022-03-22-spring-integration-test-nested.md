@@ -1,9 +1,11 @@
 ---
-title: "Avoiding Spring context issues when parallelising `@Nested` Spring integration tests"
-description: "Using abstract base classes to reduce risk of Spring context overall issues with Spring (Boot) integration tests."
-date: 2022-03-22T11:44:08+0000
+title: "Avoiding Spring context issues when parallelising `@Nested` Spring integration\
+  \ tests"
+description: "Using abstract base classes to reduce risk of Spring context overall\
+  \ issues with Spring (Boot) integration tests."
+date: "2022-03-22T11:44:08+0000"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1506237053561978886"
 tags:
 - "blogumentation"
 - "java"
