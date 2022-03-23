@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hughrawlinson/status/1506689431922786309" ],
     "name" : [ "Like of @hughrawlinson's tweet" ],
     "published" : [ "2022-03-23T20:55:00+0000" ],
     "category" : [ "coronavirus" ],
