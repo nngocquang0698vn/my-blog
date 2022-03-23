@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lichlings/status/1506667777788194829" ],
     "name" : [ "Like of @Lichlings's tweet" ],
     "published" : [ "2022-03-23T16:29:00+0000" ],
     "like-of" : [ "https://twitter.com/Lichlings/status/1506667777788194829" ],
