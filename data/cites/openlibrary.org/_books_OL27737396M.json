@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-book" ],
+  "properties" : {
+    "url" : [ "https://openlibrary.org/books/OL27737396M" ],
+    "uid" : [ "isbn:9780316434287" ],
+    "name" : [ "Auberon" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "James S. A. Corey" ],
+        "url" : [ "http://www.danielabraham.com/james-s-a-corey/" ],
+        "photo" : [ {
+          "value" : "https://covers.openlibrary.org/b/id/11112303.jpg",
+          "alt" : "Picture of James S. A. Corey"
+        } ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://covers.openlibrary.org/b/id/9158815.jpg",
+      "alt" : "Cover picture of Auberon"
+    } ]
+  }
+}
