@@ -1,9 +1,26 @@
 {
   "type" : [ "h-entry" ],
   "properties" : {
-    "name" : [ "\n/mf2/2022/03/yljxw/ · Jamie Tanna | Software Engineer\n" ],
-    "featured" : [ null ],
-    "photo" : [ null ],
-    "url" : [ "https://www.jvt.me/mf2/2022/03/yljxw/" ]
-  }
+    "bridgy-twitter-content" : [ "Think I've managed to track down the versions of libraries used in AWS Lambda on JDK11 - I've updated my previous post about it with more details, and am hoping to get confirmation from AWS about it!" ],
+    "uid" : [ "https://www.jvt.me/mf2/2022/03/yljxw/" ],
+    "url" : [ "https://www.jvt.me/mf2/2022/03/yljxw/" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1506300044516995081" ],
+    "published" : [ "2022-03-22T15:50:27.093748352Z" ],
+    "content" : [ {
+      "html" : "<p>Think I've managed to track down the versions of libraries used in AWS Lambda on JDK11 - I've updated <a href=\"https://www.jvt.me/posts/2021/11/17/aws-lambda-java-runtime/\">my previous post about it</a> with more details, and am hoping to get confirmation from AWS about it!</p>",
+      "value" : "Think I've managed to track down the versions of libraries used in AWS Lambda on JDK11 - I've updated my previous post about it with more details, and am hoping to get confirmation from AWS about it!",
+      "lang" : "en-gb"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jamie Tanna" ],
+        "photo" : [ "https://www.jvt.me/img/profile.png" ],
+        "url" : [ "https://www.jvt.me" ]
+      },
+      "lang" : "en-gb",
+      "value" : "Jamie Tanna"
+    } ]
+  },
+  "lang" : "en-gb"
 }
