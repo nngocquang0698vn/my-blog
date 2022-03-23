@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lingerie_addict/status/1506654814939271173" ],
     "name" : [ "Like of @lingerie_addict's tweet" ],
     "published" : [ "2022-03-23T16:32:00+0000" ],
     "like-of" : [ "https://twitter.com/lingerie_addict/status/1506654814939271173" ],
