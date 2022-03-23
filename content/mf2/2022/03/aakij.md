@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/delabassee/status/1506579054589353992" ],
     "name" : [ "Like of @delabassee's tweet" ],
     "published" : [ "2022-03-23T10:49:00+0000" ],
     "category" : [ "java" ],
