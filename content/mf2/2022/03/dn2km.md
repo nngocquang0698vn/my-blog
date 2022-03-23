@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GeorgeTakei/status/1503931626258149378" ],
     "name" : [ "Like of @GeorgeTakei's tweet" ],
     "published" : [ "2022-03-23T19:21:00+0000" ],
     "category" : [ "politics" ],
