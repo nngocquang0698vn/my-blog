@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "@manticlops@mastodon.social" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Manticlops" ],
+        "nickname" : [ "manticlops" ],
+        "numeric-id" : [ "234733379" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1979561109/AlienAvatar.jpg" ],
+        "published" : [ "2011-01-06T12:40:15+00:00" ],
+        "uid" : [ "tag:twitter.com:manticlops" ],
+        "url" : [ "https://twitter.com/manticlops" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "John but not forgotten\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/verge\"></a>",
+      "value" : "John but not forgotten"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/verge/status/1506723135990767630" ],
+    "published" : [ "2022-03-23T21:12:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1506740746774265867" ],
+    "url" : [ "https://twitter.com/manticlops/status/1506740746774265867" ]
+  },
+  "type" : [ "h-entry" ]
+}
