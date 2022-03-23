@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jillsville7/status/1506264802376790027" ],
     "name" : [ "Like of @jillsville7's tweet" ],
     "published" : [ "2022-03-23T12:09:00+0000" ],
     "category" : [ "the-expanse" ],
