@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Episode 22 - Deploying code rapidly and reliably" ],
+    "summary" : [ "Starling generally deploys software to production at least once a day during working hours. How do we ensure that this deployment process is easy for engineers and not disruptive for customers? Host Jason Maude finds out about Starling deployment strategies from Starling Site Reliability Engineers Nassos Antoniou and Andrew Cochrane." ],
+    "featured" : [ "https://cdn.player.fm/images/14999896/series/gRsH94bkg4wKXZ6q/512.png" ],
+    "photo" : [ "https://cdn.player.fm/images/14999896/series/gRsH94bkg4wKXZ6q/512.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Player FM" ]
+      }
+    } ],
+    "url" : [ "https://player.fm/episodes/237340855" ]
+  }
+}
