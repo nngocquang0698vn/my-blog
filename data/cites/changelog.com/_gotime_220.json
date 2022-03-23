@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Bob Logblaw Log Blog with Ed Welch from the Loki project (Go Time #220)" ],
+    "summary" : [ "Ed Welch joins Mat and Jon to discuss logging. They explore the different options for logging in Go, and discuss what data is worth including. Everything from log levels, formats, non-structured vs structured logs, along with common gotchas and good practices when dealing with logs at scale. " ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-gotime-a47cdd7bb3e3357398eda827d9cc3615.png" ],
+    "photo" : [ "https://cdn.changelog.com/static/images/share/twitter-gotime-a47cdd7bb3e3357398eda827d9cc3615.png" ],
+    "url" : [ "https://changelog.com/gotime/220" ]
+  }
+}
