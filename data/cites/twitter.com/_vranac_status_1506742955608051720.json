@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Verge" ],
+          "nickname" : [ "verge" ],
+          "numeric-id" : [ "275686563" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8.jpg" ],
+          "published" : [ "2011-04-01T19:54:22+00:00" ],
+          "uid" : [ "tag:twitter.com:verge" ],
+          "url" : [ "https://twitter.com/verge", "http://www.theverge.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Stephen Wilhite, creator of the GIF, has died <a href=\"https://www.theverge.com/2022/3/23/22992066/stephen-wilhite-gif-creator-dies?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter\">theverge.com/2022/3/23/2299…</a>",
+        "value" : "Stephen Wilhite, creator of the GIF, has died theverge.com/2022/3/23/2299…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FOj0tQ1WQAQ9ZXX.jpg" ],
+      "published" : [ "2022-03-23T20:02:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1506723135990767630" ],
+      "url" : [ "https://twitter.com/verge/status/1506723135990767630" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Novi Sad, Vojvodina" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vranac Srdjan" ],
+        "nickname" : [ "vranac" ],
+        "numeric-id" : [ "15318630" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/840233318952124416/12u05l_z.jpg" ],
+        "published" : [ "2008-07-04T16:02:23+00:00" ],
+        "uid" : [ "tag:twitter.com:vranac" ],
+        "url" : [ "https://twitter.com/vranac", "http://vranac.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "jodspeed" ],
+    "published" : [ "2022-03-23T21:21:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1506742955608051720" ],
+    "url" : [ "https://twitter.com/vranac/status/1506742955608051720" ]
+  },
+  "type" : [ "h-entry" ]
+}
