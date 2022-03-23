@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "200 OK Boomer" ],
+    "summary" : [ "<p>Phil, Mike and Matt talk about Matt's adventures with APIs returning 200 OK while having an error message in the body, causing extra work and frustration. We look at why this is a common thing in API development and what we can do to help people utilize the codes that are there instead of relying on 200 OK. </p><p>Mike brings up Microsoft and what they are doing with their push to not only go Carbon Neutral but also Carbon Negative to make up for their past. We wonder what that will look like, and also bring up what an individual person with a developers salary can do to start helping out more since we (developers) can generally afford it over a lot of other people. </p><p>Keeping on the environment, we also take look at some things a developer can do with code to help the environment, particularly around caching and responses. </p><p><strong>Sponsors:<br></strong><a href=\"https://stoplight.io/\">Stoplight </a>makes it possible for us to bring you this podcast while we nerd out about APIs. Check them out for their tooling around documentation with Studio, an app that makes API...</p>" ],
+    "featured" : [ "https://cdn.player.fm/images/19392375/series/s9wi96gqiquxaxms/512.jpg" ],
+    "photo" : [ "https://cdn.player.fm/images/19392375/series/s9wi96gqiquxaxms/512.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Player FM" ]
+      }
+    } ],
+    "url" : [ "https://player.fm/episodes/253468411" ]
+  }
+}
