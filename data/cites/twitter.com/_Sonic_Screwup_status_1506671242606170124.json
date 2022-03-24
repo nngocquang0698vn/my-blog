@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Petzal" ],
+        "nickname" : [ "Sonic_Screwup" ],
+        "numeric-id" : [ "19785093" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488127416249851907/HSBQZKdS.jpg" ],
+        "published" : [ "2009-01-30T20:01:33+00:00" ],
+        "uid" : [ "tag:twitter.com:Sonic_Screwup" ],
+        "url" : [ "https://twitter.com/Sonic_Screwup" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some absolute bangers of anecdotes in the replies here. Well done everyone. We’re all fucking idiots." ],
+    "in-reply-to" : [ "https://twitter.com/Sonic_Screwup/status/1506655987167551497" ],
+    "published" : [ "2022-03-23T16:36:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1506671242606170124" ],
+    "url" : [ "https://twitter.com/Sonic_Screwup/status/1506671242606170124" ]
+  },
+  "type" : [ "h-entry" ]
+}
