@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aschmelyun/status/1506960015063625733" ],
     "name" : [ "Like of @aschmelyun's tweet" ],
     "published" : [ "2022-03-24T19:20:00+0000" ],
     "category" : [ "automation", "open-source", "github" ],
