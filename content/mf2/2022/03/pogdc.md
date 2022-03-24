@@ -6,7 +6,7 @@
   "properties" : {
     "read-status" : [ "finished" ],
     "syndication" : [ "https://brid.gy/publish/twitter" ],
-    "read-of" : [ "http://books-mf2.herokuapp.com/isbn/9781441759986" ],
+    "read-of" : [ "https://books-mf2.herokuapp.com/isbn/9781441759986" ],
     "published" : [ "2022-03-24T09:26:52.01635056Z" ],
     "post-status" : [ "published" ]
   },
