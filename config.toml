@@ -32,6 +32,7 @@ paginate = 50
   IgnoreInFeeds = ["", "contacts", "projects", "talks"]
   MaxRssItems = 100
   MaxJsonFeedItems = 100
+  CiteTruncateWords = 200
 [[params.redirect]]
 from = "/tags/archlinux/"
 to = "/tags/arch-linux/"
