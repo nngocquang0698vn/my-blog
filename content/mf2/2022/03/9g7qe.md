@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PDLComics/status/1507009350300147721" ],
     "name" : [ "Like of @PDLComics's tweet" ],
     "published" : [ "2022-03-24T15:04:00+0000" ],
     "like-of" : [ "https://twitter.com/PDLComics/status/1507009350300147721" ],
