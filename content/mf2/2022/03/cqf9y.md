@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hiMaisie/status/1507008892844195855" ],
     "name" : [ "Like of @hiMaisie's tweet" ],
     "published" : [ "2022-03-24T15:05:00+0000" ],
     "category" : [ "therapy" ],
