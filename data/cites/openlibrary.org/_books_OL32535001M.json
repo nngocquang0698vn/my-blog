@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-book" ],
+  "properties" : {
+    "url" : [ "https://openlibrary.org/books/OL32535001M" ],
+    "uid" : [ "isbn:9781441759986" ],
+    "name" : [ "Zak George's Dog Training Revolution The Complete Guide to Raising the Perfect Pet with Love" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Zak George" ],
+        "url" : [ "https://openlibrary.org/authors/OL7608607A" ]
+      }
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Dina Roth Port" ],
+        "url" : [ "https://openlibrary.org/authors/OL7296156A" ]
+      }
+    } ],
+    "photo" : [ {
+      "value" : "https://covers.openlibrary.org/b/id/11184325.jpg",
+      "alt" : "Cover picture of Zak George's Dog Training Revolution The Complete Guide to Raising the Perfect Pet with Love"
+    } ]
+  }
+}
