@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "read-status" : [ "finished" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1506929043568005120" ],
     "read-of" : [ "https://books-mf2.herokuapp.com/isbn/9781441759986" ],
     "published" : [ "2022-03-24T09:26:52.01635056Z" ],
     "post-status" : [ "published" ]
