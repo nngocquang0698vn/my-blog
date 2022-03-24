@@ -1,0 +1,43 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily 🌦" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498926538795859968/DBKCGARY.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Absolutely cannot believe that I spent this much time and money making my Good TV look like my Bad TV.\n\n(This uses a hardware-accelerated, 14-pass video shader, rendered at 4Kp60 resolution.)</div>",
+      "value" : "Absolutely cannot believe that I spent this much time and money making my Good TV look like my Bad TV.\n\n(This uses a hardware-accelerated, 14-pass video shader, rendered at 4Kp60 resolution.)"
+    } ],
+    "photo" : [ {
+      "alt" : "Title screen of the original Super Mario Bros. game for the NES, filtered to look like the phosphors of a CRT",
+      "value" : "https://pbs.twimg.com/media/FNm-XPzUYAQxTDF.jpg"
+    }, {
+      "alt" : "Starting screen of the original Legend of Zelda game for the NES, filtered to look like the phosphors of a CRT",
+      "value" : "https://pbs.twimg.com/media/FNm-XP0VUAAhRX-.jpg"
+    }, {
+      "alt" : "Title screen of the Super Mario World game for the SNES, filtered to look like the phosphors of a CRT",
+      "value" : "https://pbs.twimg.com/media/FNm-XPyVIAEIwtu.jpg"
+    }, {
+      "alt" : "Gameplay of the Link to the Past game for the SNES, filtered to look like the phosphors of a CRT",
+      "value" : "https://pbs.twimg.com/media/FNm-XPzVEAATvwu.jpg"
+    } ],
+    "published" : [ "2022-03-12T00:30:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1502441760227618818" ],
+    "url" : [ "https://twitter.com/emilyst/status/1502441760227618818" ]
+  },
+  "type" : [ "h-entry" ]
+}
