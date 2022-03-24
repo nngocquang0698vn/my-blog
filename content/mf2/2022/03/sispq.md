@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ofcAnthony/status/1506907181555331076" ],
     "name" : [ "Like of @ofcAnthony's tweet" ],
     "published" : [ "2022-03-24T11:07:00+0000" ],
     "category" : [ "capitalism" ],
