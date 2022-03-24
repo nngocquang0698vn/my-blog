@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SecondeJ/status/1507072111340400652" ],
     "name" : [ "Like of @SecondeJ's tweet" ],
     "published" : [ "2022-03-24T19:21:00+0000" ],
     "like-of" : [ "https://twitter.com/SecondeJ/status/1507072111340400652" ],
