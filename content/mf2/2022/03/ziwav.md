@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophie_e_hill/status/1506640989947060233" ],
     "name" : [ "Like of @sophie_e_hill's tweet" ],
     "published" : [ "2022-03-24T08:02:00+0000" ],
     "like-of" : [ "https://twitter.com/sophie_e_hill/status/1506640989947060233" ],
