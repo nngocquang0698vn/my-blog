@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Seconde" ],
+        "nickname" : [ "SecondeJ" ],
+        "numeric-id" : [ "3172509796" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498684326149603339/jwf2KFnm.jpg" ],
+        "published" : [ "2015-04-16T11:30:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SecondeJ" ],
+        "url" : [ "https://twitter.com/SecondeJ", "http://devtheatre.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today our team went through <a href=\"https://twitter.com/abdulajet\">@abdulajet</a>'s Dev sticker collection, and I found an Octocat with <a href=\"https://twitter.com/jna_sh\">@jna_sh</a>'s face on it. \n\nI was not allowed to keep it, so I can now officially tell all of <a href=\"https://twitter.com/search?q=%23devrel\">#devrel</a> that my train fare to London was wasted.</div>",
+      "value" : "Today our team went through @abdulajet's Dev sticker collection, and I found an Octocat with @jna_sh's face on it. \n\nI was not allowed to keep it, so I can now officially tell all of #devrel that my train fare to London was wasted."
+    } ],
+    "published" : [ "2022-03-24T19:09:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1507072111340400652" ],
+    "url" : [ "https://twitter.com/SecondeJ/status/1507072111340400652" ]
+  },
+  "type" : [ "h-entry" ]
+}
