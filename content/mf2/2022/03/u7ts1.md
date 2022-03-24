@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ginnyhogan_/status/1504195664254746636" ],
     "name" : [ "Like of @ginnyhogan_'s tweet" ],
     "published" : [ "2022-03-24T11:06:00+0000" ],
     "like-of" : [ "https://twitter.com/ginnyhogan_/status/1504195664254746636" ],
