@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Randall Hunt" ],
+        "nickname" : [ "jrhunt" ],
+        "numeric-id" : [ "14157064" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1353501969873178624/N3iAjjrH.jpg" ],
+        "published" : [ "2008-03-16T11:12:29+00:00" ],
+        "uid" : [ "tag:twitter.com:jrhunt" ],
+        "url" : [ "https://twitter.com/jrhunt", "https://caylent.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">AWS Lambdas are now configurable up to:\n10GB deployment size\n10GB RAM (6vCPU)\n10GB  /tmp\n15 minute runtime\n\nSo your most expensive per-invocation lambda cost ends up: ~$0.13 \n\nOn Fargate, nonspot, (4vCPU) that same task:\n~$0.07\n\nWorth it? Totally depends on the workload.</div>",
+      "value" : "AWS Lambdas are now configurable up to:\n10GB deployment size\n10GB RAM (6vCPU)\n10GB  /tmp\n15 minute runtime\n\nSo your most expensive per-invocation lambda cost ends up: ~$0.13 \n\nOn Fargate, nonspot, (4vCPU) that same task:\n~$0.07\n\nWorth it? Totally depends on the workload."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Los Angeles, CA" ],
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-03-24T21:39:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1507109793915289630" ],
+    "url" : [ "https://twitter.com/jrhunt/status/1507109793915289630" ]
+  },
+  "type" : [ "h-entry" ]
+}
