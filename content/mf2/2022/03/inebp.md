@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/voxpelli/status/1507254598536417313" ],
     "name" : [ "Like of @voxpelli's tweet" ],
     "published" : [ "2022-03-25T11:40:00+0000" ],
     "like-of" : [ "https://twitter.com/voxpelli/status/1507254598536417313" ],
