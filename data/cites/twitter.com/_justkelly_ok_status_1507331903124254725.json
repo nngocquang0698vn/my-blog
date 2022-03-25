@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kelly Ellis 💉💉💉" ],
+        "nickname" : [ "justkelly_ok" ],
+        "numeric-id" : [ "2586997621" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295789781834584064/5RaolPav.jpg" ],
+        "published" : [ "2014-06-25T06:18:56+00:00" ],
+        "uid" : [ "tag:twitter.com:justkelly_ok" ],
+        "url" : [ "https://twitter.com/justkelly_ok", "http://ko-fi.com/kellyellis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">No, it’s not totally necessary at all. It’s just not.\n\nSigned, a principal engineer who doesn’t like public speaking.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sarah_edo\"></a>",
+      "value" : "No, it’s not totally necessary at all. It’s just not.\n\nSigned, a principal engineer who doesn’t like public speaking."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sarah_edo/status/1507085904199880704" ],
+    "published" : [ "2022-03-25T12:21:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1507331903124254725" ],
+    "url" : [ "https://twitter.com/justkelly_ok/status/1507331903124254725" ]
+  },
+  "type" : [ "h-entry" ]
+}
