@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jonnyt19w/status/1506686938232889346" ],
     "name" : [ "Like of @jonnyt19w's tweet" ],
     "published" : [ "2022-03-25T13:38:00+0000" ],
     "like-of" : [ "https://twitter.com/jonnyt19w/status/1506686938232889346" ],
