@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/elonmusk/statu…" ],
+        "url" : [ "https://twitter.com/elonmusk/status/1507041396242407424" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🌊" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "jack⚡️" ],
+          "nickname" : [ "jack" ],
+          "numeric-id" : [ "12" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8.jpg" ],
+          "published" : [ "2006-03-21T20:50:14+00:00" ],
+          "uid" : [ "tag:twitter.com:jack" ],
+          "url" : [ "https://twitter.com/jack" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The choice of which algorithm to use (or not) should be open to everyone\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1507041396242407424\">twitter.com/elonmusk/statu…</a>",
+        "value" : "The choice of which algorithm to use (or not) should be open to everyone"
+      } ],
+      "published" : [ "2022-03-25T00:04:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1507146276416098307" ],
+      "url" : [ "https://twitter.com/jack/status/1507146276416098307" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Malmö, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pelle Wessman" ],
+        "nickname" : [ "voxpelli" ],
+        "numeric-id" : [ "18331731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1496763164846927872/HQhKhxn9.png" ],
+        "published" : [ "2008-12-23T11:58:32+00:00" ],
+        "uid" : [ "tag:twitter.com:voxpelli" ],
+        "url" : [ "https://twitter.com/voxpelli", "https://voxpelli.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Or rather the social media silos should be seen as its four distinct parts:\n\n- Content hosting\n- Content authoring\n- Content consumption\n- Content aggregation\n\nBy adapting an <a href=\"https://twitter.com/indiewebcamp\">@indiewebcamp</a> approach one can enable actual plurality that a simple algorithm choice can’t.</div>",
+      "value" : "Or rather the social media silos should be seen as its four distinct parts:\n\n- Content hosting\n- Content authoring\n- Content consumption\n- Content aggregation\n\nBy adapting an @indiewebcamp approach one can enable actual plurality that a simple algorithm choice can’t."
+    } ],
+    "published" : [ "2022-03-25T07:14:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1507254598536417313" ],
+    "url" : [ "https://twitter.com/voxpelli/status/1507254598536417313" ]
+  },
+  "type" : [ "h-entry" ]
+}
