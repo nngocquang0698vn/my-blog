@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sdh100Shaun/status/1507434775648350211" ],
     "name" : [ "Like of @sdh100Shaun's tweet" ],
     "published" : [ "2022-03-25T20:49:00+0000" ],
     "like-of" : [ "https://twitter.com/sdh100Shaun/status/1507434775648350211" ],
