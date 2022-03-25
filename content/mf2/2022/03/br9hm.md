@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Can anyone else remember a movie(?) from a few years back where there was a faked attack on a beach holiday that was to improve what I think was couples' relationships? It's stuck in my head and I can't work out what it was ���� It was a jokey film / more lighthearted than a horror movie"
+      "value" : "Can anyone else remember a movie(?) from a few years back where there was a faked attack on a beach holiday that was to improve what I think was couples' relationships? It's stuck in my head and I can't work out what it was 😅 It was a jokey film / more lighthearted than a horror movie"
     } ]
   },
   "kind" : "notes",
