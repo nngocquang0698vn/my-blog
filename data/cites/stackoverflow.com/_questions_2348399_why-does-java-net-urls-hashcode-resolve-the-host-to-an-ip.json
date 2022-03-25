@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Why does java.net.URL's hashcode resolve the host to an IP?" ],
+    "summary" : [ "Is the idea after the first resolution it'll rely on OS caching?  Still this seems inefficient and in cases of multiple domains resolving to the same IP, incorrect. What am I missing?" ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "photo" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/2348399/why-does-java-net-urls-hashcode-resolve-the-host-to-an-ip" ]
+  }
+}
