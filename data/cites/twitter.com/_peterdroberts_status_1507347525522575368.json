@@ -1,0 +1,39 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "peter 🐇🐇" ],
+        "nickname" : [ "peterdroberts" ],
+        "numeric-id" : [ "73607873" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1192864149694488581/uIWGs1bu.jpg" ],
+        "published" : [ "2009-09-12T09:21:02+00:00" ],
+        "uid" : [ "tag:twitter.com:peterdroberts" ],
+        "url" : [ "https://twitter.com/peterdroberts", "http://instagram.com/declan.and.furiosa" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "never not relevant\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SkyNews\"></a>",
+      "value" : "never not relevant"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SkyNews/status/1507333553448800309" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Salford, England" ],
+        "uid" : [ "tag:twitter.com:31fffbe34de66921" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FOsslfyXoAIz8jJ.jpg" ],
+    "published" : [ "2022-03-25T13:23:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1507347525522575368" ],
+    "url" : [ "https://twitter.com/peterdroberts/status/1507347525522575368" ]
+  },
+  "type" : [ "h-entry" ]
+}
