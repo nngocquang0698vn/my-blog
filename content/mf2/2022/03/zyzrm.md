@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/peterdroberts/status/1507347525522575368" ],
     "name" : [ "Like of @peterdroberts's tweet" ],
     "published" : [ "2022-03-25T15:17:00+0000" ],
     "like-of" : [ "https://twitter.com/peterdroberts/status/1507347525522575368" ],
