@@ -41,7 +41,6 @@ build:
   image:
     name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
-  tags:
   artifacts:
     expire_in: 30 minutes
     name: "$CI_COMMIT_REF_SLUG"
@@ -58,7 +57,6 @@ deploy:
   image:
     name: registry.gitlab.com/jamietanna/jvt.me/hugo-base:$HUGO_VERSION
     entrypoint: ['']
-  tags:
   resource_group: production
   artifacts:
     name: "$CI_COMMIT_REF_SLUG"
