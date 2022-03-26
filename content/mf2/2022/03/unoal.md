@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BeeBabs/status/1507735939426172938" ],
     "name" : [ "Like of @BeeBabs's tweet" ],
     "published" : [ "2022-03-26T15:13:00+0000" ],
     "like-of" : [ "https://twitter.com/BeeBabs/status/1507735939426172938" ],
