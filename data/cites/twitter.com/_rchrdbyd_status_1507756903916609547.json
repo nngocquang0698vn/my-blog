@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Richard H. Boyd" ],
+        "nickname" : [ "rchrdbyd" ],
+        "numeric-id" : [ "174342233" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336183192995368961/p2_0YL8m.jpg" ],
+        "published" : [ "2010-08-03T18:08:25+00:00" ],
+        "uid" : [ "tag:twitter.com:rchrdbyd" ],
+        "url" : [ "https://twitter.com/rchrdbyd", "http://rboyd.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In today's lesson titled \"don't roll your own auth\". I just realized the \"protected\" part of my personal web app was just validating that the Yubikey OTP was a valid OTP not that it was a valid OTP for MY Yubikey." ],
+    "published" : [ "2022-03-26T16:30:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1507756903916609547" ],
+    "url" : [ "https://twitter.com/rchrdbyd/status/1507756903916609547" ]
+  },
+  "type" : [ "h-entry" ]
+}
