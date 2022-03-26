@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CiaranMcNulty/status/1507732556753612804" ],
     "name" : [ "Like of @CiaranMcNulty's tweet" ],
     "published" : [ "2022-03-26T18:39:00+0000" ],
     "like-of" : [ "https://twitter.com/CiaranMcNulty/status/1507732556753612804" ],
