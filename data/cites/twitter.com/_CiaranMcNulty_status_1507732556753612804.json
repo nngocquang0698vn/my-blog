@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wandsworth, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ciaran McNulty" ],
+        "nickname" : [ "CiaranMcNulty" ],
+        "numeric-id" : [ "12019422" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942121649633153024/k7rdKXve.jpg" ],
+        "published" : [ "2008-01-09T09:32:32+00:00" ],
+        "uid" : [ "tag:twitter.com:CiaranMcNulty" ],
+        "url" : [ "https://twitter.com/CiaranMcNulty", "http://ciaranmcnulty.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is not how to behave in a community tech chat" ],
+    "photo" : [ "https://pbs.twimg.com/media/FOyKrp7WUAEbt7s.jpg" ],
+    "published" : [ "2022-03-26T14:53:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1507732556753612804" ],
+    "url" : [ "https://twitter.com/CiaranMcNulty/status/1507732556753612804" ]
+  },
+  "type" : [ "h-entry" ]
+}
