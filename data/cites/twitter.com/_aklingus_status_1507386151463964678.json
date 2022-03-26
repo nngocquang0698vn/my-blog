@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "somewhere in California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "AK Lingus" ],
+        "nickname" : [ "aklingus" ],
+        "numeric-id" : [ "42041929" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1493605365174386689/7T6rxtHN.jpg" ],
+        "published" : [ "2009-05-23T15:17:12+00:00" ],
+        "uid" : [ "tag:twitter.com:aklingus" ],
+        "url" : [ "https://twitter.com/aklingus" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tough but fair" ],
+    "photo" : [ "https://pbs.twimg.com/media/FOtPtrlVkAMJ9ei.jpg" ],
+    "published" : [ "2022-03-25T15:57:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1507386151463964678" ],
+    "url" : [ "https://twitter.com/aklingus/status/1507386151463964678" ]
+  },
+  "type" : [ "h-entry" ]
+}
