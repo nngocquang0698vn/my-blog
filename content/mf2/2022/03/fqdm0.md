@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HowertonNews/status/1507503128186392581" ],
     "name" : [ "Like of @HowertonNews's tweet" ],
     "published" : [ "2022-03-26T20:30:00+0000" ],
     "category" : [ "nature", "climate-change" ],
