@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cuteandcanread/status/1507509173159817218" ],
     "name" : [ "Like of @cuteandcanread's tweet" ],
     "published" : [ "2022-03-26T16:19:00+0000" ],
     "like-of" : [ "https://twitter.com/cuteandcanread/status/1507509173159817218" ],
