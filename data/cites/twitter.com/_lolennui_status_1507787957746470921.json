@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1507785854839889933/GIj2AQnb.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "http://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "can someone please hire me so I can stop posting, this is hell" ],
+    "in-reply-to" : [ "https://twitter.com/lolennui/status/1507785907885289478" ],
+    "published" : [ "2022-03-26T18:33:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1507787957746470921" ],
+    "url" : [ "https://twitter.com/lolennui/status/1507787957746470921" ]
+  },
+  "type" : [ "h-entry" ]
+}
