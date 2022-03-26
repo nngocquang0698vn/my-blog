@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PoIitics4All/status/1507396100054994947" ],
     "name" : [ "Like of @PoIitics4All's tweet" ],
     "published" : [ "2022-03-26T09:31:00+0000" ],
     "category" : [ "satire" ],
