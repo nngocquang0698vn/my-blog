@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/whoisgraham/status/1507486363293302790" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1507615403887022088" ],
     "name" : [ "Reply to https://twitter.com/whoisgraham/status/1507486363293302790" ],
     "published" : [ "2022-03-26T07:01:00+0000" ],
     "post-status" : [ "published" ],
