@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "covid", "quarantine" ],
+    "url" : [ "https://aaronparecki.com/2022/03/26/7/smell" ],
+    "syndication" : [ "https://micro.blog/aaronpk/12626916" ],
+    "published" : [ "2022-03-26T09:15:39+01:00" ],
+    "content" : [ {
+      "html" : "I'm sitting in my hotel room eating this m&#xFC;sli with yogurt and strawberries thinking \"wow these strawberries sure don't have much flavor\" ...and then it hit me... <br> <br>I opened up Thursday's leftovers of extremely pungent lentil salad with blue cheese and it doesn't smell like anything either. <br> <br>The only thing I can smell is the hand sanitizer which frankly was way too smelly before, that and a hint of coffee.",
+      "value" : "I'm sitting in my hotel room eating this müsli with yogurt and strawberries thinking \"wow these strawberries sure don't have much flavor\" ...and then it hit me...\n\nI opened up Thursday's leftovers of extremely pungent lentil salad with blue cheese and it doesn't smell like anything either.\n\nThe only thing I can smell is the hand sanitizer which frankly was way too smelly before, that and a hint of coffee."
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Wien" ],
+        "region" : [ "Wien" ]
+      },
+      "value" : "Wien, Wien"
+    } ]
+  }
+}
