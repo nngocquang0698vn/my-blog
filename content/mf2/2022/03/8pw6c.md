@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aklingus/status/1507386151463964678" ],
     "name" : [ "Like of @aklingus's tweet" ],
     "published" : [ "2022-03-26T17:32:00+0000" ],
     "category" : [ "coronavirus" ],
