@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ClubPhotos_/status/1507809637894078475" ],
     "name" : [ "Like of @ClubPhotos_'s tweet" ],
     "published" : [ "2022-03-26T20:34:00+0000" ],
     "like-of" : [ "https://twitter.com/ClubPhotos_/status/1507809637894078475" ],
