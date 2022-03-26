@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/clundoff/status/1507092847102767120" ],
     "name" : [ "Like of @clundoff's tweet" ],
     "published" : [ "2022-03-26T15:28:00+0000" ],
     "like-of" : [ "https://twitter.com/clundoff/status/1507092847102767120" ],
