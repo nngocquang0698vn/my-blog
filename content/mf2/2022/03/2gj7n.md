@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ina__el/status/1507486712108404738" ],
     "name" : [ "Like of @ina__el's tweet" ],
     "published" : [ "2022-03-26T20:48:00+0000" ],
     "category" : [ "food" ],
