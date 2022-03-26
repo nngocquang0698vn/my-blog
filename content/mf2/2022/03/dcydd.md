@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/the6p4c/status/1507239774112821252" ],
     "name" : [ "Like of @the6p4c's tweet" ],
     "published" : [ "2022-03-26T18:36:00+0000" ],
     "like-of" : [ "https://twitter.com/the6p4c/status/1507239774112821252" ],
