@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "adlerweb|BitBastelei" ],
+        "nickname" : [ "adlerweb" ],
+        "numeric-id" : [ "18378924" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/588376230208139264/9SpRc5YP.png" ],
+        "published" : [ "2008-12-25T20:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:adlerweb" ],
+        "url" : [ "https://twitter.com/adlerweb", "https://adlerweb.info" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Question was text editor, not web browser running full-screen ;)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/UlluKyPatthy\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ivanvihe\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nixcraft\"></a>",
+      "value" : "Question was text editor, not web browser running full-screen ;)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/UlluKyPatthy/status/1508047949862952960" ],
+    "published" : [ "2022-03-27T12:01:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1508051606138413062" ],
+    "url" : [ "https://twitter.com/adlerweb/status/1508051606138413062" ]
+  },
+  "type" : [ "h-entry" ]
+}
