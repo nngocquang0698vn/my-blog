@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Unceded Ramaytush Ohlone land" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kate" ],
+          "nickname" : [ "thingskatedid" ],
+          "numeric-id" : [ "406588289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1500304369366962180/8rRkdNEp.png" ],
+          "published" : [ "2011-11-06T22:28:48+00:00" ],
+          "uid" : [ "tag:twitter.com:thingskatedid" ],
+          "url" : [ "https://twitter.com/thingskatedid", "https://www.instagram.com/katelikesrectangles/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "went outside again today, did some physical doomscrolling" ],
+      "published" : [ "2022-03-27T12:01:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1508051624970752004" ],
+      "url" : [ "https://twitter.com/thingskatedid/status/1508051624970752004" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her/hers" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@uint8_t@chaos.social" ],
+        "nickname" : [ "uint8_t" ],
+        "numeric-id" : [ "37682488" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484301240909680640/k6sC-x4o.png" ],
+        "published" : [ "2009-05-04T15:26:54+00:00" ],
+        "uid" : [ "tag:twitter.com:uint8_t" ],
+        "url" : [ "https://twitter.com/uint8_t", "https://chaos.social/@uint8_t" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "doomstrolling" ],
+    "published" : [ "2022-03-27T13:56:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1508080475318988800" ],
+    "url" : [ "https://twitter.com/uint8_t/status/1508080475318988800" ]
+  },
+  "type" : [ "h-entry" ]
+}
