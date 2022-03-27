@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "By the way if you tweet at me \"I follow you for your X tweets, not your Y tweets so shut up about Y\" I am going to fix that for you by blocking you." ],
+    "published" : [ "2022-03-27T17:10:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1508129266419978240" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1508129266419978240" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FO3zkjuVsAAiKPL.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
