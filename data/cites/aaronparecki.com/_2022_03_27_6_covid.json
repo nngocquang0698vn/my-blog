@@ -1,0 +1,47 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "covid" ],
+    "pk-num-likes" : [ "1" ],
+    "url" : [ "https://aaronparecki.com/2022/03/27/6/covid" ],
+    "syndication" : [ "https://micro.blog/aaronpk/12634503" ],
+    "published" : [ "2022-03-27T10:23:25+02:00" ],
+    "content" : [ {
+      "html" : "Good news! Yesterday morning's test came back negative! I'm definitely still feeling a little bit sick though, but the covid officer says I can go outside with a mask on now!  <br> <br>Since today is Sunday and things are closed, my morning test probably won't come back until late Monday night. Time to go do a rapid antigen test to double check the negative result now.",
+      "value" : "Good news! Yesterday morning's test came back negative! I'm definitely still feeling a little bit sick though, but the covid officer says I can go outside with a mask on now!\n\nSince today is Sunday and things are closed, my morning test probably won't come back until late Monday night. Time to go do a rapid antigen test to double check the negative result now."
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Wien" ],
+        "region" : [ "Wien" ]
+      },
+      "value" : "Wien, Wien"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://layer8.space/users/RyunoKi#likes/120327" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Ryuno-Ki" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://layer8.space/users/RyunoKi" ]
+          },
+          "value" : "Ryuno-Ki"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Ryuno-Ki"
+    } ]
+  }
+}
