@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "We always forget to select a Postman environment" ],
+    "summary" : [ "When using Postman, it’s a best practice to store API token values in environment secret variables. Environment variables can also be used to store other variables uses in scripts. But when opening a collection, we often forget to select an environment and spend a few seconds if not minutes or more trying to figure out what the problem is with a request. Just to realize in the end that we just forgot to select an environment. How can this be avoided?" ],
+    "featured" : [ "https://apihandyman.io/images/we-always-forget-to-select-a-postman-environment/banner.jpg" ],
+    "photo" : [ "https://apihandyman.io/images/we-always-forget-to-select-a-postman-environment/banner.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Arnaud Lauret" ]
+      }
+    } ],
+    "url" : [ "https://apihandyman.io/we-always-forget-to-select-a-postman-environment/" ]
+  }
+}
