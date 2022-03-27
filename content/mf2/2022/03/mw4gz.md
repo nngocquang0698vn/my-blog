@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jrhunt/status/1508131083983892482" ],
     "name" : [ "Like of @jrhunt's tweet" ],
     "published" : [ "2022-03-27T19:45:00+0100" ],
     "category" : [ "shitpost" ],
