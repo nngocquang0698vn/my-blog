@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jhawthorn/status/1508128968502775808" ],
     "name" : [ "Like of @jhawthorn's tweet" ],
     "published" : [ "2022-03-27T19:47:00+0100" ],
     "category" : [ "star-trek" ],
