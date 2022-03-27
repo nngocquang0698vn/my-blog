@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JaneSlavin/status/1507683163912474634" ],
     "name" : [ "Like of @JaneSlavin's tweet" ],
     "published" : [ "2022-03-27T11:38:00+0100" ],
     "category" : [ "food", "shitpost" ],
