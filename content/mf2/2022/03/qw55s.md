@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/RobRWAPP/status/1508082838448619520" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1508086987248574469" ],
     "name" : [ "Reply to https://twitter.com/RobRWAPP/status/1508082838448619520" ],
     "published" : [ "2022-03-27T15:15:00+0100" ],
     "category" : [ "mario" ],
