@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hiMaisie/status/1508130590985494533" ],
     "name" : [ "Like of @hiMaisie's tweet" ],
     "published" : [ "2022-03-27T18:38:00+0100" ],
     "like-of" : [ "https://twitter.com/hiMaisie/status/1508130590985494533" ],
