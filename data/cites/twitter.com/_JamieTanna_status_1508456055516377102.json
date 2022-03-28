@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie Tanna | www.jvt.me" ],
+        "nickname" : [ "JamieTanna" ],
+        "numeric-id" : [ "2292531098" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489593363233976323/xBkjT_8W.jpg" ],
+        "published" : [ "2014-01-15T10:55:11+00:00" ],
+        "uid" : [ "tag:twitter.com:JamieTanna" ],
+        "url" : [ "https://twitter.com/JamieTanna", "https://www.jvt.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey thanks for reaching out - do you have any code / snippets that could help? Not sure if I've seen that one before (<a href=\"https://www.jvt.me/mf2/2022/03/4xplo/\">jvt.me/mf2/2022/03/4x…</a>)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/samueel1\"></a>",
+      "value" : "Hey thanks for reaching out - do you have any code / snippets that could help? Not sure if I've seen that one before (jvt.me/mf2/2022/03/4x…)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/samueel1/status/1508450025134825476" ],
+    "published" : [ "2022-03-28T14:48:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1508456055516377102" ],
+    "url" : [ "https://twitter.com/JamieTanna/status/1508456055516377102" ]
+  },
+  "type" : [ "h-entry" ]
+}
