@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eli is feeling '22" ],
+        "nickname" : [ "elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491973518627643393/q0E2qWcy.jpg" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://www.rupify.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "these Oscars slapped" ],
+    "published" : [ "2022-03-28T14:07:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1508445705509158918" ],
+    "url" : [ "https://twitter.com/elibelly/status/1508445705509158918" ]
+  },
+  "type" : [ "h-entry" ]
+}
