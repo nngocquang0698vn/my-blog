@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PoIitics4All/status/1508381205502337030" ],
     "name" : [ "Like of @PoIitics4All's tweet" ],
     "published" : [ "2022-03-28T11:52:00+0100" ],
     "like-of" : [ "https://twitter.com/PoIitics4All/status/1508381205502337030" ],
