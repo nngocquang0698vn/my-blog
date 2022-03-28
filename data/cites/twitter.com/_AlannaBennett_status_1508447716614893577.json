@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam S" ],
+          "nickname" : [ "lobsterbooty" ],
+          "numeric-id" : [ "48918084" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1178141833697857537/Snr_ahrd.jpg" ],
+          "published" : [ "2009-06-20T03:42:53+00:00" ],
+          "uid" : [ "tag:twitter.com:lobsterbooty" ],
+          "url" : [ "https://twitter.com/lobsterbooty" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Jonathan Bailey with a very strong entrance into the category. He did exactly what was required! <a href=\"https://twitter.com/search?q=%23bridgertonS2\">#bridgertonS2</a> <a href=\"https://twitter.com/alannabennett/status/979018396670054400\">twitter.com/alannabennett/…</a>",
+        "value" : "Jonathan Bailey with a very strong entrance into the category. He did exactly what was required! #bridgertonS2 twitter.com/alannabennett/…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FO8NBqXXEAQ8HLS.jpg" ],
+      "published" : [ "2022-03-28T13:39:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1508438725604356096" ],
+      "url" : [ "https://twitter.com/lobsterbooty/status/1508438725604356096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she / her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nervous Eyes Bennett" ],
+        "nickname" : [ "AlannaBennett" ],
+        "numeric-id" : [ "122085859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1452825048025231360/yJrQmgtr.jpg" ],
+        "published" : [ "2010-03-11T15:00:48+00:00" ],
+        "uid" : [ "tag:twitter.com:AlannaBennett" ],
+        "url" : [ "https://twitter.com/AlannaBennett" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "For all who liked him in Bridgerton, I suggest you find Phoebe Waller-Bridge's Crashing on Netflix next. He gives one of my favorite bi-panic-yearning performances " ],
+    "published" : [ "2022-03-28T14:15:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1508447716614893577" ],
+    "url" : [ "https://twitter.com/AlannaBennett/status/1508447716614893577" ]
+  },
+  "type" : [ "h-entry" ]
+}
