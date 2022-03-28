@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IntergalacticQ/status/1508367328668438531" ],
     "name" : [ "Like of @IntergalacticQ's tweet" ],
     "published" : [ "2022-03-28T21:10:00+0100" ],
     "like-of" : [ "https://twitter.com/IntergalacticQ/status/1508367328668438531" ],
