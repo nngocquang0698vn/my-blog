@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Public Citizen" ],
+          "nickname" : [ "Public_Citizen" ],
+          "numeric-id" : [ "14335586" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1121521882682077186/f1_RS9s9.png" ],
+          "published" : [ "2008-04-08T20:07:57+00:00" ],
+          "uid" : [ "tag:twitter.com:Public_Citizen" ],
+          "url" : [ "https://twitter.com/Public_Citizen", "http://www.citizen.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "BREAKING: Biden proposes a $813,000,000,000 Pentagon budget, a $31 BILLION increase from last year’s budget." ],
+      "published" : [ "2022-03-28T15:20:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1508464041232117765" ],
+      "url" : [ "https://twitter.com/Public_Citizen/status/1508464041232117765" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washoe land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rabbi Sara Zober BLM" ],
+        "nickname" : [ "RebbeSMZ" ],
+        "numeric-id" : [ "863222366775541760" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196655135046242305/SlmqDtRV.jpg" ],
+        "published" : [ "2017-05-13T02:40:24+00:00" ],
+        "uid" : [ "tag:twitter.com:RebbeSMZ" ],
+        "url" : [ "https://twitter.com/RebbeSMZ", "http://www.rebbesmz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Things we could do instead:\n\nCancel student debt.\n\nProvide money so people can afford housing and don't go hungry.\n\nDo something about climate change.</div>",
+      "value" : "Things we could do instead:\n\nCancel student debt.\n\nProvide money so people can afford housing and don't go hungry.\n\nDo something about climate change."
+    } ],
+    "published" : [ "2022-03-28T19:09:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1508521739541614596" ],
+    "url" : [ "https://twitter.com/RebbeSMZ/status/1508521739541614596" ]
+  },
+  "type" : [ "h-entry" ]
+}
