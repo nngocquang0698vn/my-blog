@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "In your phone." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rob Manuel 🧻" ],
+        "nickname" : [ "robmanuel" ],
+        "numeric-id" : [ "2285051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1394269040265285636/_7k8OyW-.jpg" ],
+        "published" : [ "2007-03-26T11:48:34+00:00" ],
+        "uid" : [ "tag:twitter.com:robmanuel" ],
+        "url" : [ "https://twitter.com/robmanuel", "http://b3ta.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Weird how COVID is over and yet I personally know more people with it than at any time in the entire pandemic" ],
+    "published" : [ "2022-03-28T10:12:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1508386451624443910" ],
+    "url" : [ "https://twitter.com/robmanuel/status/1508386451624443910" ]
+  },
+  "type" : [ "h-entry" ]
+}
