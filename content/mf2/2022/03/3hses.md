@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/getbentsaggy/status/1508465687202836490" ],
     "name" : [ "Like of @getbentsaggy's tweet" ],
     "published" : [ "2022-03-28T16:31:00+0100" ],
     "category" : [ "satire" ],
