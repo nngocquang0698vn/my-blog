@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "USA " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mia Farrow" ],
+          "nickname" : [ "MiaFarrow" ],
+          "numeric-id" : [ "33235771" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1507411803625635856/wPe7LuQC.jpg" ],
+          "published" : [ "2009-04-19T16:10:21+00:00" ],
+          "uid" : [ "tag:twitter.com:MiaFarrow" ],
+          "url" : [ "https://twitter.com/MiaFarrow" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Oscar’s ugliest moment -photo by Myung Chun/ LA Times" ],
+      "photo" : [ "https://pbs.twimg.com/media/FO57uTKWYAU3yJb.jpg" ],
+      "published" : [ "2022-03-28T03:05:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1508278968545390595" ],
+      "url" : [ "https://twitter.com/MiaFarrow/status/1508278968545390595" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Bronx, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Genie Lauren" ],
+        "nickname" : [ "MoreAndAgain" ],
+        "numeric-id" : [ "18302204" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480216768224313349/4i81BhCg.jpg" ],
+        "published" : [ "2008-12-22T06:15:08+00:00" ],
+        "uid" : [ "tag:twitter.com:MoreAndAgain" ],
+        "url" : [ "https://twitter.com/MoreAndAgain", "http://www.genielauren.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is definitely not the ugliest moment, ma'am.\n\nThey gave a fucking standing ovation to Roland Polanski for winning an award that he couldn't even show up to accept, without risking arrest.\n\nI'd say that's definitely uglier.</div>",
+      "value" : "This is definitely not the ugliest moment, ma'am.\n\nThey gave a fucking standing ovation to Roland Polanski for winning an award that he couldn't even show up to accept, without risking arrest.\n\nI'd say that's definitely uglier."
+    } ],
+    "published" : [ "2022-03-28T03:06:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1508279416811630594" ],
+    "url" : [ "https://twitter.com/MoreAndAgain/status/1508279416811630594" ]
+  },
+  "type" : [ "h-entry" ]
+}
