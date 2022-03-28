@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you haven't signed up for the preview of the new GitHub code search you're missing out - I use it every day now, being able to execute complex searches (including regular expression matches!) against every line of code on GitHub is absurdly useful <a href=\"https://cs.github.com/\">cs.github.com</a>",
+      "value" : "If you haven't signed up for the preview of the new GitHub code search you're missing out - I use it every day now, being able to execute complex searches (including regular expression matches!) against every line of code on GitHub is absurdly useful cs.github.com"
+    } ],
+    "published" : [ "2022-03-28T04:51:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1508305661402124292" ],
+    "url" : [ "https://twitter.com/simonw/status/1508305661402124292" ]
+  },
+  "type" : [ "h-entry" ]
+}
