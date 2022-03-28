@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "listen-of" : [ "https://podcastaddict.com/episode/136950600 " ],
+    "listen-of" : [ "https://theadultscorner.podbean.com/e/cherry-dana-s-life-before-plastic-surgery/" ],
     "name" : [ "Adults corner 1" ],
     "published" : [ "2022-03-28T11:45:57.622697291Z" ],
     "post-status" : [ "published" ]
