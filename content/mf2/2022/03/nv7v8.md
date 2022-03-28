@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CPHigson/status/1508359320609636352" ],
     "name" : [ "Like of @CPHigson's tweet" ],
     "published" : [ "2022-03-28T10:33:00+0100" ],
     "like-of" : [ "https://twitter.com/CPHigson/status/1508359320609636352" ],
