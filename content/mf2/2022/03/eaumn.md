@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nicosomb/status/1508427363746517005" ],
     "name" : [ "Like of @nicosomb's tweet" ],
     "published" : [ "2022-03-28T13:59:00+0100" ],
     "like-of" : [ "https://twitter.com/nicosomb/status/1508427363746517005" ],
