@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fellawhomstdve/status/1508277766856314886" ],
     "name" : [ "Like of @fellawhomstdve's tweet" ],
     "published" : [ "2022-03-28T19:10:00+0100" ],
     "like-of" : [ "https://twitter.com/fellawhomstdve/status/1508277766856314886" ],
