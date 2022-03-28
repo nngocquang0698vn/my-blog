@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "ABC News Politics" ],
+          "nickname" : [ "ABCPolitics" ],
+          "numeric-id" : [ "16815644" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1083377873811984386/EONbRz3x.jpg" ],
+          "published" : [ "2008-10-16T22:43:16+00:00" ],
+          "uid" : [ "tag:twitter.com:ABCPolitics" ],
+          "url" : [ "https://twitter.com/ABCPolitics", "http://abcnews.go.com/politics" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">BREAKING: Florida Gov. Ron DeSantis signs controversial 'Don't Say Gay' bill into law.\n\nThe bill bans lessons on sexual orientation or gender identity in some grades. <a href=\"https://abcn.ws/3qHfzzT\">abcn.ws/3qHfzzT</a></div>",
+        "value" : "BREAKING: Florida Gov. Ron DeSantis signs controversial 'Don't Say Gay' bill into law.\n\nThe bill bans lessons on sexual orientation or gender identity in some grades. abcn.ws/3qHfzzT"
+      } ],
+      "published" : [ "2022-03-28T17:12:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1508492291710849026" ],
+      "url" : [ "https://twitter.com/ABCPolitics/status/1508492291710849026" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1508492234613796873/vid/540x540/oh0uLqLxbXySWnmS.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/abcpolitics/st…" ],
+      "url" : [ "https://twitter.com/abcpolitics/status/1508492291710849026" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "In your liquor cabinet. " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Openly Black Studs Twerkel." ],
+        "nickname" : [ "thewayoftheid" ],
+        "numeric-id" : [ "14578312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501399051329232896/N9cH3Cme.jpg" ],
+        "published" : [ "2008-04-29T01:04:42+00:00" ],
+        "uid" : [ "tag:twitter.com:thewayoftheid" ],
+        "url" : [ "https://twitter.com/thewayoftheid", "http://blockclubchi.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Definitely more violent than a slap between two rich black dudes but hey\n<a class=\"tag\" href=\"https://twitter.com/abcpolitics/status/1508492291710849026\">twitter.com/abcpolitics/st…</a>",
+      "value" : "Definitely more violent than a slap between two rich black dudes but hey"
+    } ],
+    "published" : [ "2022-03-28T17:24:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1508495209662922754" ],
+    "url" : [ "https://twitter.com/thewayoftheid/status/1508495209662922754" ]
+  },
+  "type" : [ "h-entry" ]
+}
