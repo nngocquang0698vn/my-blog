@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jameelajamil/status/1508379714011947009" ],
     "name" : [ "Like of @jameelajamil's tweet" ],
     "published" : [ "2022-03-28T10:51:00+0100" ],
     "like-of" : [ "https://twitter.com/jameelajamil/status/1508379714011947009" ],
