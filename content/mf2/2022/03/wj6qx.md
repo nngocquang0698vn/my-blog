@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kiridluffy/status/1508273736620908546" ],
     "name" : [ "Like of @kiridluffy's tweet" ],
     "published" : [ "2022-03-28T21:06:00+0100" ],
     "like-of" : [ "https://twitter.com/kiridluffy/status/1508273736620908546" ],
