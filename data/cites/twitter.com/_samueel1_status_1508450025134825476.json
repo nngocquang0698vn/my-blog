@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Meu perfil" ],
+        "nickname" : [ "samueel1" ],
+        "numeric-id" : [ "176770822" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176997892860628995/QQ5qhKHN.jpg" ],
+        "published" : [ "2010-08-10T11:46:54+00:00" ],
+        "uid" : [ "tag:twitter.com:samueel1" ],
+        "url" : [ "https://twitter.com/samueel1", "http://salveseusdados.com.br" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a>, about your article <a href=\"https://www.jvt.me/posts/2022/02/17/spring-security-value-preauthorize/\">jvt.me/posts/2022/02/…</a> . An error EL1057E: No bean resolver registered in the context to resolve access to bean 'apisEndpointAuthorizer' was thrown. I'm using 5.1.5-realese version of spring. Can you help me about it? Congrats for the article.",
+      "value" : "Hi @JamieTanna, about your article jvt.me/posts/2022/02/… . An error EL1057E: No bean resolver registered in the context to resolve access to bean 'apisEndpointAuthorizer' was thrown. I'm using 5.1.5-realese version of spring. Can you help me about it? Congrats for the article."
+    } ],
+    "published" : [ "2022-03-28T14:24:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1508450025134825476" ],
+    "url" : [ "https://twitter.com/samueel1/status/1508450025134825476" ]
+  },
+  "type" : [ "h-entry" ]
+}
