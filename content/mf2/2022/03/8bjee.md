@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anastazjadavis/status/1500852115496865795" ],
     "name" : [ "Like of @anastazjadavis's tweet" ],
     "published" : [ "2022-03-29T07:43:00+0100" ],
     "category" : [ "coronavirus" ],
