@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1508814714926735371" ],
     "photo" : [ {
       "alt" : "Cookie sleeping on a red blanket, and above, Jamie is holding a Lidl double chocolate cookie on a plate",
       "photo" : "https://media.jvt.me/7b822181e3.jpeg"
