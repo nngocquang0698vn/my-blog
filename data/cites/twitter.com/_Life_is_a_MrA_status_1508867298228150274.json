@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Politics" ],
+          "nickname" : [ "BBCPolitics" ],
+          "numeric-id" : [ "621533" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW.png" ],
+          "published" : [ "2007-01-10T12:34:33+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCPolitics" ],
+          "url" : [ "https://twitter.com/BBCPolitics", "http://www.bbc.co.uk/politics" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Jackie Weaver did not \"have the authority\" after all, reports say\n\n<a href=\"https://bbc.in/3NsytnP\">bbc.in/3NsytnP</a></div>",
+        "value" : "Jackie Weaver did not \"have the authority\" after all, reports say\n\nbbc.in/3NsytnP"
+      } ],
+      "published" : [ "2022-03-29T14:14:11+00:00" ],
+      "uid" : [ "tag:twitter.com:1508809750657617923" ],
+      "url" : [ "https://twitter.com/BBCPolitics/status/1508809750657617923" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mr. A" ],
+        "nickname" : [ "Life_is_a_MrA" ],
+        "numeric-id" : [ "1469254862735126536" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469256556134998019/6vTmej2j.jpg" ],
+        "published" : [ "2021-12-10T10:37:22+00:00" ],
+        "uid" : [ "tag:twitter.com:Life_is_a_MrA" ],
+        "url" : [ "https://twitter.com/Life_is_a_MrA" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's crazy we live in a world where Jackie Weaver is being held more accountable than the actual Prime Minister" ],
+    "published" : [ "2022-03-29T18:02:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1508867298228150274" ],
+    "url" : [ "https://twitter.com/Life_is_a_MrA/status/1508867298228150274" ]
+  },
+  "type" : [ "h-entry" ]
+}
