@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Tamarionette/status/1508053715445424132" ],
     "name" : [ "Like of @Tamarionette's tweet" ],
     "published" : [ "2022-03-29T09:41:00+0100" ],
     "category" : [ "music" ],
