@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sunglassesface/status/1508775910723436551" ],
     "name" : [ "Like of @sunglassesface's tweet" ],
     "published" : [ "2022-03-29T13:08:00+0100" ],
     "like-of" : [ "https://twitter.com/sunglassesface/status/1508775910723436551" ],
