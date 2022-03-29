@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Browtweaten/status/1508529783919067137" ],
     "name" : [ "Like of @Browtweaten's tweet" ],
     "published" : [ "2022-03-29T07:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Browtweaten/status/1508529783919067137" ],
