@@ -1,20 +1,21 @@
 ---
 title: "Creating an iCalendar feed for my RSVPs"
-description: "How and why I've created a public calendar for the RSVPs I send from this site."
-tags:
-- calendar
-- blogumentation
-- indieweb
-- www.jvt.me
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2019-07-27T11:24:48+0100
-slug: "rsvp-calendar"
+description: "How and why I've created a public calendar for the RSVPs I send from\
+  \ this site."
+date: "2019-07-27T11:24:48+0100"
 syndication:
-- https://news.indieweb.org/en
-- https://indieweb.xyz/en/indieweb
-- https://lobste.rs
-- https://twitter.com/jamietanna
+- "https://news.indieweb.org/en/www.jvt.me/posts/2019/07/27/rsvp-calendar/"
+- "https://indieweb.xyz/en/indieweb"
+- "https://lobste.rs"
+- "https://twitter.com/jamietanna"
+tags:
+- "calendar"
+- "blogumentation"
+- "indieweb"
+- "www.jvt.me"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "rsvp-calendar"
 ---
 Those who know me or at least follow me on social media or know me will know that I like attending meetups. On any given month I'll generally go to 4-5 different events, but some months are busier than others.
 
