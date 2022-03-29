@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1508870340444835840" ],
     "published" : [ "2022-03-29T19:08:00+0100" ],
     "category" : [ "apex-legends", "ea-origin" ],
     "post-status" : [ "published" ],
