@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1493567854070927365/3X7ODQ4S.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">it’s absolutely horrendous to see olympians, multiple newspapers, and countless tv pundits relentlessly harassing and smearing emily bridges for… being a good cyclist who happens to be trans?\n\nthis country is terrified that trans people can and will thrive despite everything.</div>",
+      "value" : "it’s absolutely horrendous to see olympians, multiple newspapers, and countless tv pundits relentlessly harassing and smearing emily bridges for… being a good cyclist who happens to be trans?\n\nthis country is terrified that trans people can and will thrive despite everything."
+    } ],
+    "published" : [ "2022-03-29T19:03:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1508882512302465030" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1508882512302465030" ]
+  },
+  "type" : [ "h-entry" ]
+}
