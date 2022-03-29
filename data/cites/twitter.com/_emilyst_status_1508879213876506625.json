@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily 🌦" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498926538795859968/DBKCGARY.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Step one of getting changes merged into the Linux kernel, per the included documentation? \"Figure out whose pond you’ve been pissing in.\"\n\n<a href=\"https://www.kernel.org/doc/html/latest/kernel-hacking/hacking.html#putting-your-stuff-in-the-kernel\">kernel.org/doc/html/lates…</a></div>",
+      "value" : "Step one of getting changes merged into the Linux kernel, per the included documentation? \"Figure out whose pond you’ve been pissing in.\"\n\nkernel.org/doc/html/lates…"
+    } ],
+    "published" : [ "2022-03-29T18:50:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1508879213876506625" ],
+    "url" : [ "https://twitter.com/emilyst/status/1508879213876506625" ]
+  },
+  "type" : [ "h-entry" ]
+}
