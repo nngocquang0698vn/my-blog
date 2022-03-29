@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brum" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica Rose" ],
+        "nickname" : [ "jesslynnrose" ],
+        "numeric-id" : [ "1530096708" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1252594551807754246/--PG7H_D.jpg" ],
+        "published" : [ "2013-06-19T07:56:27+00:00" ],
+        "uid" : [ "tag:twitter.com:jesslynnrose" ],
+        "url" : [ "https://twitter.com/jesslynnrose", "http://jessica.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I just passed a <a href=\"https://twitter.com/megabus\">@megabus</a> named “Octobussy” and I have a number of questions.",
+      "value" : "I just passed a @megabus named “Octobussy” and I have a number of questions."
+    } ],
+    "published" : [ "2022-03-29T18:22:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1508872259775180810" ],
+    "url" : [ "https://twitter.com/jesslynnrose/status/1508872259775180810" ]
+  },
+  "type" : [ "h-entry" ]
+}
