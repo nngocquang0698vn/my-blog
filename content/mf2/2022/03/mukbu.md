@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RabbiGreenberg/status/1508693616902000641" ],
     "name" : [ "Like of @RabbiGreenberg's tweet" ],
     "published" : [ "2022-03-29T11:11:00+0100" ],
     "category" : [ "accessibility", "public-speaking" ],
