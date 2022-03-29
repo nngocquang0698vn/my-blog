@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lorin Hochstein.fiat" ],
+        "nickname" : [ "norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If your incident writeup lists “human error” as a cause, it’s a sign that you don’t really understand how the incident happened. Instead, you stopped asking questions too soon. \n\nIf your system depends on humans never making errors, you have a systems problem.</div>",
+      "value" : "If your incident writeup lists “human error” as a cause, it’s a sign that you don’t really understand how the incident happened. Instead, you stopped asking questions too soon. \n\nIf your system depends on humans never making errors, you have a systems problem."
+    } ],
+    "published" : [ "2022-03-28T19:41:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1508529733104898053" ],
+    "url" : [ "https://twitter.com/norootcause/status/1508529733104898053" ]
+  },
+  "type" : [ "h-entry" ]
+}
