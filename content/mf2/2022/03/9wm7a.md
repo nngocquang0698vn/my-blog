@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/purrrhica/status/1509091528559398919" ],
     "name" : [ "Like of @purrrhica's tweet" ],
     "published" : [ "2022-03-30T10:20:00+0100" ],
     "like-of" : [ "https://twitter.com/purrrhica/status/1509091528559398919" ],
