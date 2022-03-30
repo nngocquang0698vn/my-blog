@@ -6,5 +6,6 @@ LABEL me.jvt.www.version=0.95.0
 RUN apk --update --no-cache add git tzdata && \
 	cp /usr/share/zoneinfo/Europe/London /etc/localtime && \
 	echo 'Europe/London' > /etc/timezone
+RUN apk --update --no-cache add aws-cli
 ENV HUGO_DESTINATION /public
 WORKDIR /site
