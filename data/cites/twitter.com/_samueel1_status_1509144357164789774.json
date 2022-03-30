@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Meu perfil" ],
+        "nickname" : [ "samueel1" ],
+        "numeric-id" : [ "176770822" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1176997892860628995/QQ5qhKHN.jpg" ],
+        "published" : [ "2010-08-10T11:46:54+00:00" ],
+        "uid" : [ "tag:twitter.com:samueel1" ],
+        "url" : [ "https://twitter.com/samueel1", "http://salveseusdados.com.br" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Thank you very much Jamie. I tried in a different updated spring boot project and everything worked well. I don't know exactly the version that was fixed, but in spring-boot-starter-security version 2.1.4.RELEASE doesn't work.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/autowired\"></a>",
+      "value" : "Thank you very much Jamie. I tried in a different updated spring boot project and everything worked well. I don't know exactly the version that was fixed, but in spring-boot-starter-security version 2.1.4.RELEASE doesn't work."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1509061243482652676" ],
+    "published" : [ "2022-03-30T12:23:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1509144357164789774" ],
+    "url" : [ "https://twitter.com/samueel1/status/1509144357164789774" ]
+  },
+  "type" : [ "h-entry" ]
+}
