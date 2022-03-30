@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Markham, Ontario, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Neil H. Watson" ],
+          "nickname" : [ "neil_h_watson" ],
+          "numeric-id" : [ "397285066" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/418768331529678848/4e-J6Reu.png" ],
+          "published" : [ "2011-10-24T13:49:16+00:00" ],
+          "uid" : [ "tag:twitter.com:neil_h_watson" ],
+          "url" : [ "https://twitter.com/neil_h_watson", "http://watson-wilson.ca" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I had an interviewer ask me to type some commands from memory recently. I replied that on the job one is not going to rely on pure memory and If I can look it up fast enough in front of them that should be sufficient.  They relented and we continued.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laurieontech\"></a>",
+        "value" : "I had an interviewer ask me to type some commands from memory recently. I replied that on the job one is not going to rely on pure memory and If I can look it up fast enough in front of them that should be sufficient.  They relented and we continued."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/laurieontech/status/1509151316022636547" ],
+      "published" : [ "2022-03-30T13:00:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1509153468287795200" ],
+      "url" : [ "https://twitter.com/neil_h_watson/status/1509153468287795200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK ➼" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lex Lofthouse" ],
+        "nickname" : [ "Loftio" ],
+        "numeric-id" : [ "19788371" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1138757469176508417/Hc1FJP7a.png" ],
+        "published" : [ "2009-01-30T21:03:02+00:00" ],
+        "uid" : [ "tag:twitter.com:Loftio" ],
+        "url" : [ "https://twitter.com/Loftio", "http://loftio.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I saw the Creative Director at an old job of mine put an unplugged keyboard in front of a designer during an interview and asked him to show him Adobe shortcuts.\n\nThe candidate had well over a decade of experience and was a Senior Designer. It was  embarrassing to watch.</div>",
+      "value" : "I saw the Creative Director at an old job of mine put an unplugged keyboard in front of a designer during an interview and asked him to show him Adobe shortcuts.\n\nThe candidate had well over a decade of experience and was a Senior Designer. It was  embarrassing to watch."
+    } ],
+    "published" : [ "2022-03-30T13:07:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1509155232210735110" ],
+    "url" : [ "https://twitter.com/Loftio/status/1509155232210735110" ]
+  },
+  "type" : [ "h-entry" ]
+}
