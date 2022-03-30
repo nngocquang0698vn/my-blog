@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Treabhar Mac Oireabaird" ],
+        "nickname" : [ "riadach" ],
+        "numeric-id" : [ "224226789" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1220722248958476293/q0rptg8W.jpg" ],
+        "published" : [ "2010-12-08T13:31:17+00:00" ],
+        "uid" : [ "tag:twitter.com:riadach" ],
+        "url" : [ "https://twitter.com/riadach" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yes The (short for Theodore) Rock.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/papasombra\"></a>",
+      "value" : "Yes The (short for Theodore) Rock."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/papasombra/status/1508315755582005250" ],
+    "published" : [ "2022-03-28T10:20:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1508388545815318540" ],
+    "url" : [ "https://twitter.com/riadach/status/1508388545815318540" ]
+  },
+  "type" : [ "h-entry" ]
+}
