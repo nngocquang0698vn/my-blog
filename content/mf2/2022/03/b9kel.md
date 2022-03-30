@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/nobodypanicpod/status/1508766179334238212" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1509176545042128908" ],
     "name" : [ "Reply to https://twitter.com/nobodypanicpod/status/1508766179334238212" ],
     "published" : [ "2022-03-30T15:24:00+0100" ],
     "post-status" : [ "published" ],
