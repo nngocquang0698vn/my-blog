@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Florent Castelli" ],
+        "nickname" : [ "OrphisFlo" ],
+        "numeric-id" : [ "152643787" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1548202662/312267_10150300825257973_787507972_7618121_1133226617_n.jpg" ],
+        "published" : [ "2010-06-06T14:08:31+00:00" ],
+        "uid" : [ "tag:twitter.com:OrphisFlo" ],
+        "url" : [ "https://twitter.com/OrphisFlo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You need to use a newer version as this one doesn't reflect the current specs: <a href=\"http://wpt.live/acid/acid3/test.html\">wpt.live/acid/acid3/tes…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/QUENTISSOU\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/awesomekling\"></a>",
+      "value" : "You need to use a newer version as this one doesn't reflect the current specs: wpt.live/acid/acid3/tes…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QUENTISSOU/status/1508954080953184256" ],
+    "published" : [ "2022-03-29T23:49:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1508954585993461763" ],
+    "url" : [ "https://twitter.com/OrphisFlo/status/1508954585993461763" ]
+  },
+  "type" : [ "h-entry" ]
+}
