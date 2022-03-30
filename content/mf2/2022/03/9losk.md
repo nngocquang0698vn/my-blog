@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TechnicallyRon/status/1509098680460230656" ],
     "name" : [ "Like of @TechnicallyRon's tweet" ],
     "published" : [ "2022-03-30T10:28:00+0100" ],
     "category" : [ "politics", "diversity-and-inclusion" ],
