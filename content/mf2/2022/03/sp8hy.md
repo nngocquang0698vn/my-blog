@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1509086771950362635" ],
     "photo" : [ {
       "alt" : "Shot looking down at Jamie's right arm, resting on his laptop keyboard, with Cookie nestled into the outside of his arm",
       "photo" : "https://media.jvt.me/fbde200256.jpeg"
