@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CAMxTUN/status/1508415376425689090" ],
     "name" : [ "Like of @CAMxTUN's tweet" ],
     "published" : [ "2022-03-30T08:34:00+0100" ],
     "like-of" : [ "https://twitter.com/CAMxTUN/status/1508415376425689090" ],
