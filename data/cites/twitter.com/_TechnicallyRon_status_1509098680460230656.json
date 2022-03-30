@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/JamieWallisMP/…" ],
+        "url" : [ "https://twitter.com/JamieWallisMP/status/1508984487102844931" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Boris Johnson" ],
+          "nickname" : [ "BorisJohnson" ],
+          "numeric-id" : [ "3131144855" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1500170386520129536/Rr2G6A-N.jpg" ],
+          "published" : [ "2015-04-01T20:15:49+00:00" ],
+          "uid" : [ "tag:twitter.com:BorisJohnson" ],
+          "url" : [ "https://twitter.com/BorisJohnson", "https://compiled.social/BorisJohnson" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Sharing this very intimate story would have taken an immense amount of courage. Thank you <a href=\"https://twitter.com/JamieWallisMP\">@JamieWallisMP</a> for your bravery, which will undoubtedly support others.\n\nThe Conservative Party I lead will always give you, and everyone else, the love and support you need to be yourself.</div>\n<a class=\"tag\" href=\"https://twitter.com/JamieWallisMP/status/1508984487102844931\">twitter.com/JamieWallisMP/…</a>",
+        "value" : "Sharing this very intimate story would have taken an immense amount of courage. Thank you @JamieWallisMP for your bravery, which will undoubtedly support others.\n\nThe Conservative Party I lead will always give you, and everyone else, the love and support you need to be yourself."
+      } ],
+      "published" : [ "2022-03-30T08:57:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1509092404061687810" ],
+      "url" : [ "https://twitter.com/BorisJohnson/status/1509092404061687810" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "TechnicallyRon" ],
+        "nickname" : [ "TechnicallyRon" ],
+        "numeric-id" : [ "108140114" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1197053190732230656/s78J8STZ.jpg" ],
+        "published" : [ "2010-01-25T00:18:06+00:00" ],
+        "uid" : [ "tag:twitter.com:TechnicallyRon" ],
+        "url" : [ "https://twitter.com/TechnicallyRon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You quite literally started your speech in front of them last night with this 'joke' you embarrassing haystack of a man " ],
+    "photo" : [ "https://pbs.twimg.com/media/FPFlMKmWUAEBDOT.jpg" ],
+    "published" : [ "2022-03-30T09:22:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1509098680460230656" ],
+    "url" : [ "https://twitter.com/TechnicallyRon/status/1509098680460230656" ]
+  },
+  "type" : [ "h-entry" ]
+}
