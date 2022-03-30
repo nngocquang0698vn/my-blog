@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mikewhoatv/status/1508820194554171395" ],
     "name" : [ "Like of @mikewhoatv's tweet" ],
     "published" : [ "2022-03-30T10:36:00+0100" ],
     "category" : [ "politics" ],
