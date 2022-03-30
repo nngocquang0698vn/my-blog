@@ -5,7 +5,7 @@ description: "How to use GitLab's OpenID Connect support with AWS, to allow depl
   \ using the Architect Framework automagically on GitLab CI."
 date: "2022-03-30T15:17:18.082250086Z"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1509190323431432193"
 tags:
 - "blogumentation"
 - "oidc"
