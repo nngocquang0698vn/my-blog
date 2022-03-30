@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/awesomekling/status/1508953394836353024" ],
     "name" : [ "Like of @awesomekling's tweet" ],
     "published" : [ "2022-03-30T08:35:00+0100" ],
     "like-of" : [ "https://twitter.com/awesomekling/status/1508953394836353024" ],
