@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unfortunatalie/status/1508877923612303368" ],
     "name" : [ "Like of @unfortunatalie's tweet" ],
     "published" : [ "2022-03-30T21:39:00+0100" ],
     "category" : [ "memes", "music" ],
