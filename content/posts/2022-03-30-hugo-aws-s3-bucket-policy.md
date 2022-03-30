@@ -5,7 +5,7 @@ description: "How to configure an AWS S3 Bucket for `hugo deploy` with the minim
   \ access required for a role to write objects to."
 date: "2022-03-30T17:17:58.907886854Z"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1509220124116590600"
 tags:
 - "blogumentation"
 - "aws"
