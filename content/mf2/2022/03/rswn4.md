@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/latkedelrey/status/1508815341270487046" ],
     "name" : [ "Like of @latkedelrey's tweet" ],
     "published" : [ "2022-03-30T08:24:00+0100" ],
     "like-of" : [ "https://twitter.com/latkedelrey/status/1508815341270487046" ],
