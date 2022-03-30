@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/riadach/status/1508388545815318540" ],
     "name" : [ "Like of @riadach's tweet" ],
     "published" : [ "2022-03-30T08:34:00+0100" ],
     "like-of" : [ "https://twitter.com/riadach/status/1508388545815318540" ],
