@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BriannaWu/status/1508821087852929032" ],
     "name" : [ "Like of @BriannaWu's tweet" ],
     "published" : [ "2022-03-30T12:14:00+0100" ],
     "category" : [ "security", "banking", "legacy" ],
