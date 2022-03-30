@@ -18,7 +18,7 @@ license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/4bea95efe8.png"
 slug: "architect-aws-gitlab-ci"
 ---
-I have a number of services that I use the [Architect Framework](https: //arc.codes), as it's _really_ handy for creating an event-based, multi-Lambda (HTTP) application.
+I have a number of services that I use the [Architect Framework](https://arc.codes), as it's _really_ handy for creating an event-based, multi-Lambda (HTTP) application.
 
 Up until today, I've been manually deploying these from my local machine, which isn't ideal, as it means contributions from external contributors, or when I'm only able to access my phone, I can't get deployments released.
 
@@ -26,7 +26,7 @@ I'm a heavy user of GitLab and GitLab CI, and so I wanted to set up deployments 
 
 One option is to add long-lived AWS access keys to GitLab CI, and regularly rotate them, but that's a bit of a pain.
 
-with GitLab's recent support for [OpenID Connect Authentication](https: //docs.gitlab.com/ee/ci/cloud_services/) for cloud services, we can avoid the need for long-lived credentials, and instead use the OpenID Connect support in AWS to allow us to grant limited access to jobs using an ID Token for a specific job.
+With GitLab's recent support for [OpenID Connect Authentication](https://docs.gitlab.com/ee/ci/cloud_services/) for cloud services, we can avoid the need for long-lived credentials, and instead use the OpenID Connect support in AWS to allow us to grant limited access to jobs using an ID Token for a specific job.
 
 This ID Token is stored in the `CI_JOB_JWT_V2` environment variable, and unpacks to the following sample payload:
 
