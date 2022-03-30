@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lāniē" ],
+        "nickname" : [ "byelanie" ],
+        "numeric-id" : [ "2434242560" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1443648289631465472/LWvkF79M.jpg" ],
+        "published" : [ "2014-04-08T20:39:52+00:00" ],
+        "uid" : [ "tag:twitter.com:byelanie" ],
+        "url" : [ "https://twitter.com/byelanie", "https://lanie.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "writing clickbait titles for pull requests to get a review" ],
+    "published" : [ "2022-03-03T21:11:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1499492728018653185" ],
+    "url" : [ "https://twitter.com/byelanie/status/1499492728018653185" ]
+  },
+  "type" : [ "h-entry" ]
+}
