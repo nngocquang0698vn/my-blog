@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LauraKalbag/status/1509104374835990532" ],
     "name" : [ "Like of @LauraKalbag's tweet" ],
     "published" : [ "2022-03-30T14:27:00+0100" ],
     "category" : [ "ethics", "google" ],
