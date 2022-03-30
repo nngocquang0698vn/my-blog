@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jameelajamil/status/1509085512153325572" ],
     "name" : [ "Like of @jameelajamil's tweet" ],
     "published" : [ "2022-03-30T10:05:00+0100" ],
     "category" : [ "the-good-place" ],
