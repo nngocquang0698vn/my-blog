@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PaintYourDragon/status/1509042632206348290" ],
     "name" : [ "Like of @PaintYourDragon's tweet" ],
     "published" : [ "2022-03-30T07:57:00+0100" ],
     "like-of" : [ "https://twitter.com/PaintYourDragon/status/1509042632206348290" ],
