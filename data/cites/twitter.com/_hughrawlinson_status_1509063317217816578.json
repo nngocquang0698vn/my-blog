@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Sky Palace" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hugh Rawlinson (he/him)" ],
+        "nickname" : [ "hughrawlinson" ],
+        "numeric-id" : [ "30527632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355307004617748481/rRTnA5og.jpg" ],
+        "published" : [ "2009-04-11T21:25:35+00:00" ],
+        "uid" : [ "tag:twitter.com:hughrawlinson" ],
+        "url" : [ "https://twitter.com/hughrawlinson", "https://hughrawlinson.me/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Meanwhile, at my current employer GitBook (~30 employees), our CEO _asked me_ to organize Open Source sponsorship! We’re on track to spend over $20,000 this year supporting FOSS.\n\n<a href=\"https://opencollective.com/gitbook\">opencollective.com/gitbook</a>\n\n<a href=\"https://github.com/orgs/GitbookIO/sponsoring\">github.com/orgs/GitbookIO…</a></div>",
+      "value" : "Meanwhile, at my current employer GitBook (~30 employees), our CEO _asked me_ to organize Open Source sponsorship! We’re on track to spend over $20,000 this year supporting FOSS.\n\nopencollective.com/gitbook\n\ngithub.com/orgs/GitbookIO…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hughrawlinson/status/1509063315074473985" ],
+    "published" : [ "2022-03-30T07:01:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1509063317217816578" ],
+    "url" : [ "https://twitter.com/hughrawlinson/status/1509063317217816578" ]
+  },
+  "type" : [ "h-entry" ]
+}
