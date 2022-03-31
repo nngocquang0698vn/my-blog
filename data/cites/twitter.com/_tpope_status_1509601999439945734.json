@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tim Pope" ],
+        "nickname" : [ "tpope" ],
+        "numeric-id" : [ "8000842" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248728796565516288/zFSsiDD_.jpg" ],
+        "published" : [ "2007-08-06T20:05:32+00:00" ],
+        "uid" : [ "tag:twitter.com:tpope" ],
+        "url" : [ "https://twitter.com/tpope", "https://tpo.pe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i have decided i am tired of the stupid dance where you type out #!/usr/bin/env bash and then save and reload the file to detect the file type <a href=\"https://github.com/tpope/vim-eunuch/commit/c70b0ed50b5c0d806df012526104fc5342753749\">github.com/tpope/vim-eunu…</a>",
+      "value" : "i have decided i am tired of the stupid dance where you type out #!/usr/bin/env bash and then save and reload the file to detect the file type github.com/tpope/vim-eunu…"
+    } ],
+    "published" : [ "2022-03-31T18:42:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1509601999439945734" ],
+    "url" : [ "https://twitter.com/tpope/status/1509601999439945734" ]
+  },
+  "type" : [ "h-entry" ]
+}
