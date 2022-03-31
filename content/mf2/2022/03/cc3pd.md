@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bendhalpern/status/1509553078411968513" ],
     "name" : [ "Like of @bendhalpern's tweet" ],
     "published" : [ "2022-03-31T16:34:00+0100" ],
     "like-of" : [ "https://twitter.com/bendhalpern/status/1509553078411968513" ],
