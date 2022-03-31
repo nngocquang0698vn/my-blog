@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oxfordshire, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matt Hobbs v2.0 💉💉💉💉" ],
+          "nickname" : [ "TheRealNooshu" ],
+          "numeric-id" : [ "16544408" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1462390875280052230/PvlNUfj1.jpg" ],
+          "published" : [ "2008-10-01T14:29:20+00:00" ],
+          "uid" : [ "tag:twitter.com:TheRealNooshu" ],
+          "url" : [ "https://twitter.com/TheRealNooshu", "https://nooshu.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "🧵As I mentioned last week <a href=\"http://GOV.UK\">GOV.UK</a> removed jQuery as a dependency for all frontend apps, meaning 32 KB of minified &amp; compressed JS was removed. So let's see what difference this has made for users by examining our RUM data. Thread will mainly focus on JS CPU time.",
+        "value" : "🧵As I mentioned last week GOV.UK removed jQuery as a dependency for all frontend apps, meaning 32 KB of minified & compressed JS was removed. So let's see what difference this has made for users by examining our RUM data. Thread will mainly focus on JS CPU time."
+      } ],
+      "published" : [ "2022-03-31T11:05:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1509487050122276864" ],
+      "url" : [ "https://twitter.com/TheRealNooshu/status/1509487050122276864" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/therealnooshu/…" ],
+      "url" : [ "https://twitter.com/therealnooshu/status/1509487050122276864" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is so inspiring: <a href=\"http://GOV.UK\">GOV.UK</a> really sweating the details here on performance, removing 32KB of jQuery for a ~5-10% improvement on various metrics for low-powered devices\n<a class=\"tag\" href=\"https://twitter.com/therealnooshu/status/1509487050122276864\">twitter.com/therealnooshu/…</a>",
+      "value" : "This is so inspiring: GOV.UK really sweating the details here on performance, removing 32KB of jQuery for a ~5-10% improvement on various metrics for low-powered devices"
+    } ],
+    "published" : [ "2022-03-31T16:53:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1509574602225176577" ],
+    "url" : [ "https://twitter.com/simonw/status/1509574602225176577" ]
+  },
+  "type" : [ "h-entry" ]
+}
