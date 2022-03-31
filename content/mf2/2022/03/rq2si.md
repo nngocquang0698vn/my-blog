@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1509517807624540167" ],
     "photo" : [ {
       "alt" : "Black cat sleeping on his tower, flopped over on his side, in a sunny conservatory",
       "photo" : "https://media.jvt.me/275937bceb.jpeg"
