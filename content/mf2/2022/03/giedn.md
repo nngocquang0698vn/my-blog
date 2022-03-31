@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theworstdev/status/1509265743933808642" ],
     "name" : [ "Like of @theworstdev's tweet" ],
     "published" : [ "2022-03-31T08:50:00+0100" ],
     "like-of" : [ "https://twitter.com/theworstdev/status/1509265743933808642" ],
