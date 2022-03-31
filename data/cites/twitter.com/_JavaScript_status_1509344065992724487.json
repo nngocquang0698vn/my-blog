@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "JavaScript" ],
+        "nickname" : [ "JavaScript" ],
+        "numeric-id" : [ "539345368" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/827354992377860096/sUe4dG_L.jpg" ],
+        "published" : [ "2012-03-28T20:08:01+00:00" ],
+        "uid" : [ "tag:twitter.com:JavaScript" ],
+        "url" : [ "https://twitter.com/JavaScript", "https://developer.oracle.com/free/", "http://developer.oracle.com/team/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey <a href=\"https://twitter.com/QuinnyPig\">@QuinnyPig</a> someone told me you are a huge fan of <a href=\"https://twitter.com/search?q=%23JavaScript\">#JavaScript</a>",
+      "value" : "Hey @QuinnyPig someone told me you are a huge fan of #JavaScript"
+    } ],
+    "published" : [ "2022-03-31T01:37:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1509344065992724487" ],
+    "url" : [ "https://twitter.com/JavaScript/status/1509344065992724487" ]
+  },
+  "type" : [ "h-entry" ]
+}
