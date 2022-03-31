@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/yo_bj/status/1…" ],
+        "url" : [ "https://twitter.com/yo_bj/status/1507472829125521419" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Queens, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Talya Cooper" ],
+          "nickname" : [ "talya_cooper" ],
+          "numeric-id" : [ "1688530843" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/900809214121066496/SLoXYPx4.jpg" ],
+          "published" : [ "2013-08-21T14:51:37+00:00" ],
+          "uid" : [ "tag:twitter.com:talya_cooper" ],
+          "url" : [ "https://twitter.com/talya_cooper" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "a school library system vendor has \"begun working on\" the ability to automatically notify parents when their kids check a book out of the school library and to allow parents to prevent kids their kids from checking out books on certain topics. this..............sucks\n<a class=\"tag\" href=\"https://twitter.com/yo_bj/status/1507472829125521419\">twitter.com/yo_bj/status/1…</a>",
+        "value" : "a school library system vendor has \"begun working on\" the ability to automatically notify parents when their kids check a book out of the school library and to allow parents to prevent kids their kids from checking out books on certain topics. this..............sucks"
+      } ],
+      "published" : [ "2022-03-28T17:40:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1508499331657130001" ],
+      "url" : [ "https://twitter.com/talya_cooper/status/1508499331657130001" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Zealand" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sacha Judd" ],
+        "nickname" : [ "sachajudd" ],
+        "numeric-id" : [ "1835701" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/847340315312668673/lwwVo3Bv.jpg" ],
+        "published" : [ "2007-03-22T04:38:53+00:00" ],
+        "uid" : [ "tag:twitter.com:sachajudd" ],
+        "url" : [ "https://twitter.com/sachajudd", "http://sachajudd.com", "http://hoku.nz", "https://www.sachajudd.com/speaking" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you’re a developer working on this quit your job." ],
+    "published" : [ "2022-03-29T18:41:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1508876911258345472" ],
+    "url" : [ "https://twitter.com/sachajudd/status/1508876911258345472" ]
+  },
+  "type" : [ "h-entry" ]
+}
