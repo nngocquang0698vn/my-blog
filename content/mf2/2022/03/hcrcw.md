@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Inferivix/status/1509393437929316353" ],
     "name" : [ "Like of @Inferivix's tweet" ],
     "published" : [ "2022-03-31T08:45:00+0100" ],
     "like-of" : [ "https://twitter.com/Inferivix/status/1509393437929316353" ],
