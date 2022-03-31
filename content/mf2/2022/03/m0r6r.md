@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qikipedia/status/1509515870925725703" ],
     "name" : [ "Like of @qikipedia's tweet" ],
     "published" : [ "2022-03-31T15:00:00+0100" ],
     "like-of" : [ "https://twitter.com/qikipedia/status/1509515870925725703" ],
