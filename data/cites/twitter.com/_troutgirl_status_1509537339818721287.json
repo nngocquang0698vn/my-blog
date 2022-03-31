@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "anildash" ],
+          "nickname" : [ "anildash" ],
+          "numeric-id" : [ "36823" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62.jpg" ],
+          "published" : [ "2006-12-02T09:15:15+00:00" ],
+          "uid" : [ "tag:twitter.com:anildash" ],
+          "url" : [ "https://twitter.com/anildash", "https://anil.fun/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What’s something people think is boring but you know is secretly incredibly interesting?" ],
+      "published" : [ "2022-03-31T13:47:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1509527854119227392" ],
+      "url" : [ "https://twitter.com/anildash/status/1509527854119227392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tacoma" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joyce Park" ],
+        "nickname" : [ "troutgirl" ],
+        "numeric-id" : [ "37114816" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1462951962979094532/2gg2H-zD.jpg" ],
+        "published" : [ "2009-05-02T02:23:21+00:00" ],
+        "uid" : [ "tag:twitter.com:troutgirl" ],
+        "url" : [ "https://twitter.com/troutgirl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Web2" ],
+    "published" : [ "2022-03-31T14:25:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1509537339818721287" ],
+    "url" : [ "https://twitter.com/troutgirl/status/1509537339818721287" ]
+  },
+  "type" : [ "h-entry" ]
+}
