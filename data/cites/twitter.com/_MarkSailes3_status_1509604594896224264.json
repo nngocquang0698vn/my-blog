@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leeds, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Sailes" ],
+        "nickname" : [ "MarkSailes3" ],
+        "numeric-id" : [ "1277491435365957633" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491146726111121408/-YeDoHA7.jpg" ],
+        "published" : [ "2020-06-29T06:38:34+00:00" ],
+        "uid" : [ "tag:twitter.com:MarkSailes3" ],
+        "url" : [ "https://twitter.com/MarkSailes3", "https://mark-sailes.medium.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🥳 <a href=\"https://twitter.com/GDSTeam\">@GDSTeam</a> were testing the changes from my latest blog within an hour of its release. That's an impressive setup.\n\n<a href=\"https://twitter.com/search?q=%23Java\">#Java</a> <a href=\"https://twitter.com/search?q=%23AWSLambda\">#AWSLambda</a>\n\n<a href=\"https://github.com/alphagov/di-authentication-api/pull/1621\">github.com/alphagov/di-au…</a></div>",
+      "value" : "🥳 @GDSTeam were testing the changes from my latest blog within an hour of its release. That's an impressive setup.\n\n#Java #AWSLambda\n\ngithub.com/alphagov/di-au…"
+    } ],
+    "published" : [ "2022-03-31T18:52:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1509604594896224264" ],
+    "url" : [ "https://twitter.com/MarkSailes3/status/1509604594896224264" ]
+  },
+  "type" : [ "h-entry" ]
+}
