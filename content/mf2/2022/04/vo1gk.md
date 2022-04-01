@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jesseniaabby/status/1509586863236988937" ],
     "name" : [ "Like of @jesseniaabby's tweet" ],
     "published" : [ "2022-04-01T18:23:00+0100" ],
     "like-of" : [ "https://twitter.com/jesseniaabby/status/1509586863236988937" ],
