@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karlstoney/status/1509772555611222019" ],
     "name" : [ "Like of @karlstoney's tweet" ],
     "published" : [ "2022-04-01T07:45:00+0100" ],
     "like-of" : [ "https://twitter.com/karlstoney/status/1509772555611222019" ],
