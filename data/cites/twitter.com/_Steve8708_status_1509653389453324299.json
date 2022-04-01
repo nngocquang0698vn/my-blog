@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Sewell" ],
+        "nickname" : [ "Steve8708" ],
+        "numeric-id" : [ "16705419" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1310631475306401792/23DVFeUv.jpg" ],
+        "published" : [ "2008-10-12T06:30:51+00:00" ],
+        "uid" : [ "tag:twitter.com:Steve8708" ],
+        "url" : [ "https://twitter.com/Steve8708", "https://builder.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "PSA: number inputs have a `.valueAsNumber` property that you may find handy" ],
+    "photo" : [ "https://pbs.twimg.com/media/FPNcgQdUcAAUHwm.jpg" ],
+    "published" : [ "2022-03-31T22:06:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1509653389453324299" ],
+    "url" : [ "https://twitter.com/Steve8708/status/1509653389453324299" ]
+  },
+  "type" : [ "h-entry" ]
+}
