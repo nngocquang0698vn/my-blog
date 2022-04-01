@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bentonville, AR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bryan Finster" ],
+        "nickname" : [ "BryanFinster" ],
+        "numeric-id" : [ "4513802052" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/675001708288716800/m4kt5sEV.jpg" ],
+        "published" : [ "2015-12-10T03:29:20+00:00" ],
+        "uid" : [ "tag:twitter.com:BryanFinster" ],
+        "url" : [ "https://twitter.com/BryanFinster", "http://MinimumCD.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "OH: “You’re good at CI/CD”. Response: “Saying I'm good at CI/CD is like saying I'm good at wearing pants. Why aren't the rest of you wearing pants?”" ],
+    "published" : [ "2022-03-31T10:19:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1509475386014453763" ],
+    "url" : [ "https://twitter.com/BryanFinster/status/1509475386014453763" ]
+  },
+  "type" : [ "h-entry" ]
+}
