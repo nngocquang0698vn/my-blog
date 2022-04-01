@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ali Spagnola" ],
+        "nickname" : [ "alispagnola" ],
+        "numeric-id" : [ "87403396" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/619430896328818690/kU-tALRM.jpg" ],
+        "published" : [ "2009-11-04T09:48:32+00:00" ],
+        "uid" : [ "tag:twitter.com:alispagnola" ],
+        "url" : [ "https://twitter.com/alispagnola", "http://www.facebook.com/alispagnola", "http://patreon.com/alispagnola" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I made her car see-through for April Fools" ],
+    "published" : [ "2022-04-01T18:12:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1509956963639054338" ],
+    "url" : [ "https://twitter.com/alispagnola/status/1509956963639054338" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1509658476032585747/vid/1280x720/SBNBVT8KhZoVr4N4.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
