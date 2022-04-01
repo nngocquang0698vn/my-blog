@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wandsworth, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ciaran McNulty" ],
+        "nickname" : [ "CiaranMcNulty" ],
+        "numeric-id" : [ "12019422" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942121649633153024/k7rdKXve.jpg" ],
+        "published" : [ "2008-01-09T09:32:32+00:00" ],
+        "uid" : [ "tag:twitter.com:CiaranMcNulty" ],
+        "url" : [ "https://twitter.com/CiaranMcNulty", "http://ciaranmcnulty.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oh... is it just Gravatar??\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gitlab\"></a>",
+      "value" : "Oh... is it just Gravatar??"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1509953761002807299" ],
+    "published" : [ "2022-04-01T18:51:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1509966803904217094" ],
+    "url" : [ "https://twitter.com/CiaranMcNulty/status/1509966803904217094" ]
+  },
+  "type" : [ "h-entry" ]
+}
