@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CiaranMcNulty/status/1509927523051839490" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1509953761002807299" ],
     "name" : [ "Reply to https://twitter.com/CiaranMcNulty/status/1509927523051839490" ],
     "published" : [ "2022-04-01T17:25:00+0100" ],
     "post-status" : [ "published" ],
