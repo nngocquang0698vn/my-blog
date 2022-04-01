@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gameralphabeta/status/1508934236195205126" ],
     "name" : [ "Like of @gameralphabeta's tweet" ],
     "published" : [ "2022-04-01T19:34:00+0100" ],
     "category" : [ "gaming" ],
