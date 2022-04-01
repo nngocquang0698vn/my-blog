@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JOSEPH_HAS_TWR/status/1509839519624966146" ],
     "name" : [ "Like of @JOSEPH_HAS_TWR's tweet" ],
     "published" : [ "2022-04-01T18:26:00+0100" ],
     "like-of" : [ "https://twitter.com/JOSEPH_HAS_TWR/status/1509839519624966146" ],
