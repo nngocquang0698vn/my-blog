@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jonmsterling/status/1509953541024227331" ],
     "name" : [ "Like of @jonmsterling's tweet" ],
     "published" : [ "2022-04-01T19:34:00+0100" ],
     "like-of" : [ "https://twitter.com/jonmsterling/status/1509953541024227331" ],
