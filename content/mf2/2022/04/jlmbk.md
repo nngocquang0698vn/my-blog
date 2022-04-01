@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/UnrealEngine/status/1509908587111399427" ],
     "name" : [ "Like of @UnrealEngine's tweet" ],
     "published" : [ "2022-04-01T17:18:00+0100" ],
     "like-of" : [ "https://twitter.com/UnrealEngine/status/1509908587111399427" ],
