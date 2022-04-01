@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hudson Valley,  NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Halpern" ],
+        "nickname" : [ "bendhalpern" ],
+        "numeric-id" : [ "161419043" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414364172272427008/iTrqj55T.jpg" ],
+        "published" : [ "2010-06-30T20:15:57+00:00" ],
+        "uid" : [ "tag:twitter.com:bendhalpern" ],
+        "url" : [ "https://twitter.com/bendhalpern", "http://dev.to/ben" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The <a href=\"http://dev.to\">dev.to</a> April Fool's joke on the home page is going offline in a few hours, so check it out while you can.\n\nI made it myself and really had fun with it, so I want you to see it before it goes down. 😂</div>",
+      "value" : "The dev.to April Fool's joke on the home page is going offline in a few hours, so check it out while you can.\n\nI made it myself and really had fun with it, so I want you to see it before it goes down. 😂"
+    } ],
+    "published" : [ "2022-04-01T18:26:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1509960308521152513" ],
+    "url" : [ "https://twitter.com/bendhalpern/status/1509960308521152513" ]
+  },
+  "type" : [ "h-entry" ]
+}
