@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Papa Johns UK" ],
+        "nickname" : [ "PapaJohnsUK" ],
+        "numeric-id" : [ "78017243" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508365958813003781/laFoEqcM.jpg" ],
+        "published" : [ "2009-09-28T13:44:42+00:00" ],
+        "uid" : [ "tag:twitter.com:PapaJohnsUK" ],
+        "url" : [ "https://twitter.com/PapaJohnsUK" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Whilst we feel this is a crime, we've got a new kid on the block, welcome the <a href=\"https://twitter.com/search?q=%23PotPizza\">#PotPizza</a> - thoughts @Deliveroo ?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Deliveroo\"></a>",
+      "value" : "Whilst we feel this is a crime, we've got a new kid on the block, welcome the #PotPizza - thoughts @Deliveroo ?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Deliveroo/status/1509757450546606082" ],
+    "photo" : [ "https://pbs.twimg.com/media/FPP2gxUXwAICFPt.jpg" ],
+    "published" : [ "2022-04-01T09:15:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1509821852411117568" ],
+    "url" : [ "https://twitter.com/PapaJohnsUK/status/1509821852411117568" ]
+  },
+  "type" : [ "h-entry" ]
+}
