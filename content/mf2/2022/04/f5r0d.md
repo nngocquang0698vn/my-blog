@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChuckWendig/status/1509846950304272396" ],
     "name" : [ "Like of @ChuckWendig's tweet" ],
     "published" : [ "2022-04-01T12:23:00+0100" ],
     "like-of" : [ "https://twitter.com/ChuckWendig/status/1509846950304272396" ],
