@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nick_Pettigrew/status/1509844153697509376" ],
     "name" : [ "Like of @Nick_Pettigrew's tweet" ],
     "published" : [ "2022-04-01T22:45:00+0100" ],
     "like-of" : [ "https://twitter.com/Nick_Pettigrew/status/1509844153697509376" ],
