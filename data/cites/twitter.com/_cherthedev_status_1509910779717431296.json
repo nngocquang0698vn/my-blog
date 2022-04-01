@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488622847081652227/vxNcatYi.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🎉Washington will require all job postings to have salary band information posted on them on January 1, 2023. \n\nColorado has faced exclusion from software jobs because of this law, but good luck doing the same for coveted Google, Microsoft, Amazon, Meta, and Apple engineers.</div>",
+      "value" : "🎉Washington will require all job postings to have salary band information posted on them on January 1, 2023. \n\nColorado has faced exclusion from software jobs because of this law, but good luck doing the same for coveted Google, Microsoft, Amazon, Meta, and Apple engineers."
+    } ],
+    "published" : [ "2022-04-01T15:09:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1509910779717431296" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1509910779717431296" ]
+  },
+  "type" : [ "h-entry" ]
+}
