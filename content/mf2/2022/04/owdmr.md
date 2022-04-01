@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SmatthewAF/status/1509597000777416705" ],
     "name" : [ "Like of @SmatthewAF's tweet" ],
     "published" : [ "2022-04-01T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/SmatthewAF/status/1509597000777416705" ],
