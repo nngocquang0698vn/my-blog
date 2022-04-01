@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "🌎" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "UberFacts" ],
+          "nickname" : [ "UberFacts" ],
+          "numeric-id" : [ "95023423" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1340165521992372226/zJ0Zo4rD.jpg" ],
+          "published" : [ "2009-12-06T16:07:01+00:00" ],
+          "uid" : [ "tag:twitter.com:UberFacts" ],
+          "url" : [ "https://twitter.com/UberFacts", "https://www.instagram.com/uberfacts/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">In 1956, Harper Lee's friends gave her a full year's salary for Christmas so that she could take a year off from work to write\n\nLee used that time to write \"To Kill A Mockingbird\" and sold more than 40 million copies</div>",
+        "value" : "In 1956, Harper Lee's friends gave her a full year's salary for Christmas so that she could take a year off from work to write\n\nLee used that time to write \"To Kill A Mockingbird\" and sold more than 40 million copies"
+      } ],
+      "published" : [ "2022-04-01T04:31:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1509750154907295747" ],
+      "url" : [ "https://twitter.com/UberFacts/status/1509750154907295747" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/uberfacts/stat…" ],
+      "url" : [ "https://twitter.com/uberfacts/status/1509750154907295747" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "U S of A" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tiya Sircar" ],
+        "nickname" : [ "tiyasircar" ],
+        "numeric-id" : [ "180004522" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1218915497787392000/V0AiGU5H.jpg" ],
+        "published" : [ "2010-08-18T16:25:11+00:00" ],
+        "uid" : [ "tag:twitter.com:tiyasircar" ],
+        "url" : [ "https://twitter.com/tiyasircar" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My main takeaway from this fun fact is that I need better friends. 👀\n<a class=\"tag\" href=\"https://twitter.com/uberfacts/status/1509750154907295747\">twitter.com/uberfacts/stat…</a>",
+      "value" : "My main takeaway from this fun fact is that I need better friends. 👀"
+    } ],
+    "published" : [ "2022-04-01T06:13:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1509775923779756035" ],
+    "url" : [ "https://twitter.com/tiyasircar/status/1509775923779756035" ]
+  },
+  "type" : [ "h-entry" ]
+}
