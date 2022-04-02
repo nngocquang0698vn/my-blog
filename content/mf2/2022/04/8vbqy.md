@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/pascaldoesgo/status/1510321156385083394" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1510326552847867915" ],
     "name" : [ "Reply to https://twitter.com/pascaldoesgo/status/1510321156385083394" ],
     "published" : [ "2022-04-02T19:34:00+0100" ],
     "post-status" : [ "published" ],
