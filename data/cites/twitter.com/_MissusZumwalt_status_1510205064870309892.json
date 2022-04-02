@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Santa Monica, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Steve Kosareff" ],
+          "nickname" : [ "steve_kosareff" ],
+          "numeric-id" : [ "828048806641954816" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1506439665041100804/HWcFRgYv.jpg" ],
+          "published" : [ "2017-02-05T01:13:14+00:00" ],
+          "uid" : [ "tag:twitter.com:steve_kosareff" ],
+          "url" : [ "https://twitter.com/steve_kosareff", "http://stevekosareff.com", "http://youtu.be/IIQcMsVdP2M" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "That was my thought. I still think the fitting punishment would be to have his Oscar revoked.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DrGJackBrown\"></a>",
+        "value" : "That was my thought. I still think the fitting punishment would be to have his Oscar revoked."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/DrGJackBrown/status/1510037542820671489" ],
+      "published" : [ "2022-04-02T00:11:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1510047195268988931" ],
+      "url" : [ "https://twitter.com/steve_kosareff/status/1510047195268988931" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kentucky, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mrs Z ✌🏻❤🇺🇦" ],
+        "nickname" : [ "MissusZumwalt" ],
+        "numeric-id" : [ "992146330834391040" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1500517552786653186/u8MKuJrZ.jpg" ],
+        "published" : [ "2018-05-03T20:58:13+00:00" ],
+        "uid" : [ "tag:twitter.com:MissusZumwalt" ],
+        "url" : [ "https://twitter.com/MissusZumwalt", "https://www.iyasawellness.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you want to start ripping Oscars away from people who have displayed shitty behavior then there's about 100 white men that should go first. When Mel Gibson, Harvey Weinstein, Roman Polanski and Kevin Spacey get theirs taken, then we can talk. So tired of this bullshit." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kentucky, USA" ],
+        "uid" : [ "tag:twitter.com:6ffcf3b0b904bbcb" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-04-02T10:38:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1510205064870309892" ],
+    "url" : [ "https://twitter.com/MissusZumwalt/status/1510205064870309892" ]
+  },
+  "type" : [ "h-entry" ]
+}
