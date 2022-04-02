@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/acony_belle/status/1510115101373714575" ],
     "name" : [ "Like of @acony_belle's tweet" ],
     "published" : [ "2022-04-02T18:45:00+0100" ],
     "like-of" : [ "https://twitter.com/acony_belle/status/1510115101373714575" ],
