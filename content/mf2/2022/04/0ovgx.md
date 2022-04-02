@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/badblades/status/1510007696073756673" ],
     "name" : [ "Like of @badblades's tweet" ],
     "published" : [ "2022-04-02T17:34:00+0100" ],
     "like-of" : [ "https://twitter.com/badblades/status/1510007696073756673" ],
