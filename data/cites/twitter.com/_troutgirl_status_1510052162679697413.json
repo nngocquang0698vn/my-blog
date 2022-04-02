@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tacoma" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joyce Park" ],
+        "nickname" : [ "troutgirl" ],
+        "numeric-id" : [ "37114816" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1462951962979094532/2gg2H-zD.jpg" ],
+        "published" : [ "2009-05-02T02:23:21+00:00" ],
+        "uid" : [ "tag:twitter.com:troutgirl" ],
+        "url" : [ "https://twitter.com/troutgirl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I mean, not tryna be a jerk here. I realized I have no idea how to do something with node that I've done a billion times with Apache httpd: set up a bunch of vhosts on a single server." ],
+    "in-reply-to" : [ "https://twitter.com/troutgirl/status/1510050777015889923" ],
+    "published" : [ "2022-04-02T00:31:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1510052162679697413" ],
+    "url" : [ "https://twitter.com/troutgirl/status/1510052162679697413" ]
+  },
+  "type" : [ "h-entry" ]
+}
