@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "all our links ➜" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "WeRateDogs®" ],
+          "nickname" : [ "dog_rates" ],
+          "numeric-id" : [ "4196983835" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1478141668159148033/IOD8SZvx.jpg" ],
+          "published" : [ "2015-11-15T21:41:29+00:00" ],
+          "uid" : [ "tag:twitter.com:dog_rates" ],
+          "url" : [ "https://twitter.com/dog_rates", "http://links.weratedogs.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This is Herbert. Today he was officially named the longest wiener dog in the world. He’s nearly 3 feet in length, a full foot longer than your average dachshund. 14/10 very impressive Herbert" ],
+      "photo" : [ {
+        "alt" : "the world’s longest wiener dog stands outside in his three feet of glory",
+        "value" : "https://pbs.twimg.com/media/FPQ7l4BXIAQTzuv.jpg"
+      }, {
+        "alt" : "now the wiener dog is standing on his hind legs, showing off his incredibly long body while someone takes a photo with their phone",
+        "value" : "https://pbs.twimg.com/media/FPQ7l3_X0AYSyvD.jpg"
+      } ],
+      "published" : [ "2022-04-01T14:15:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1509897301346635778" ],
+      "url" : [ "https://twitter.com/dog_rates/status/1509897301346635778" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dalton, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "JD" ],
+        "nickname" : [ "TheDonlon94" ],
+        "numeric-id" : [ "449960708" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274785944227495936/jgMuYU8w.jpg" ],
+        "published" : [ "2011-12-29T18:10:28+00:00" ],
+        "uid" : [ "tag:twitter.com:TheDonlon94" ],
+        "url" : [ "https://twitter.com/TheDonlon94" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is two daschunds in a trench coat" ],
+    "published" : [ "2022-04-01T14:17:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1509897810212237321" ],
+    "url" : [ "https://twitter.com/TheDonlon94/status/1509897810212237321" ]
+  },
+  "type" : [ "h-entry" ]
+}
