@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zone_astronomy/status/1510067170738376712" ],
     "name" : [ "Like of @zone_astronomy's tweet" ],
     "published" : [ "2022-04-02T22:13:00+0100" ],
     "category" : [ "space" ],
