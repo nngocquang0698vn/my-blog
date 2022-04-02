@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MissusZumwalt/status/1510205064870309892" ],
     "name" : [ "Like of @MissusZumwalt's tweet" ],
     "published" : [ "2022-04-02T14:32:00+0100" ],
     "like-of" : [ "https://twitter.com/MissusZumwalt/status/1510205064870309892" ],
