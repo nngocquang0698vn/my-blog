@@ -11,8 +11,7 @@ What am I up to right now?
 
 - Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/)
   - We're in the process of getting a new addition to the family - a little puppy!
-- I'm currently at the Cabinet Office as a Tech Lead in the Data Standards Authority, under the Central Digital and Data Office (CDDO)
-  - I'm currently working my notice period, and will be announcing where I'm going soon!
+- I'm currently taking a few weeks between jobs, and will be announcing where I'm off to soon!
 - I'm actively blogging about technical and personal things
 - I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
 - I'm organising [Homebrew Website Club Nottingham](/events/homebrew-website-club-nottingham/)
