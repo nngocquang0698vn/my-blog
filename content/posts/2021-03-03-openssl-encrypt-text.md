@@ -40,3 +40,5 @@ openssl enc -d -aes-256-cbc -pbkdf2 -md sha512 < file.enc
 # or if Base64-encoded
 openssl enc -d -aes-256-cbc -pbkdf2 -md sha512 -base64 < file.enc
 ```
+
+Note that if you're on MacOS, with a LibreSSL version ~2.7, you may find that you need to remove the `-pbkdf2` argument for this to work.
