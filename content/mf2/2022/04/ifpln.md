@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CannotHaveSex/status/1509687671127379986" ],
     "name" : [ "Like of @CannotHaveSex's tweet" ],
     "published" : [ "2022-04-02T15:43:00+0100" ],
     "category" : [ "tiktok" ],
