@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tri-Cities, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "another feather in your lap" ],
+        "nickname" : [ "anderson_jon" ],
+        "numeric-id" : [ "307676586" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1201284858833620992/9kY1R2o5.jpg" ],
+        "published" : [ "2011-05-30T02:54:05+00:00" ],
+        "uid" : [ "tag:twitter.com:anderson_jon" ],
+        "url" : [ "https://twitter.com/anderson_jon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "jira is insanely configurable which means the setup at company A will be entirely different from company B. You can absolutely make it sane and fine to use; but flows will almost certainly not translate between companies which means a lot of relearning\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/saronyitbarek\"></a>",
+      "value" : "jira is insanely configurable which means the setup at company A will be entirely different from company B. You can absolutely make it sane and fine to use; but flows will almost certainly not translate between companies which means a lot of relearning"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/saronyitbarek/status/1510117187570192386" ],
+    "published" : [ "2022-04-02T04:57:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1510119112025935876" ],
+    "url" : [ "https://twitter.com/anderson_jon/status/1510119112025935876" ]
+  },
+  "type" : [ "h-entry" ]
+}
