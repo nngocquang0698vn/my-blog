@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ButNotTheCity/status/1510002711919570945" ],
     "name" : [ "Like of @ButNotTheCity's tweet" ],
     "published" : [ "2022-04-02T07:35:00+0100" ],
     "like-of" : [ "https://twitter.com/ButNotTheCity/status/1510002711919570945" ],
