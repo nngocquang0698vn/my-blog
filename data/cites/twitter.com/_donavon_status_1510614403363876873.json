@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "west, donavon west | jsmerch.dev" ],
+        "nickname" : [ "donavon" ],
+        "numeric-id" : [ "5413282" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498439337716899847/r8tFwvwq.png" ],
+        "published" : [ "2007-04-22T22:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:donavon" ],
+        "url" : [ "https://twitter.com/donavon", "https://donavon.com", "http://dwe.st/coffee", "http://jsmerch.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">⭐️ I wrote another thing! ⭐️\n\nIt's a markdown transformer that converts a web address into a beautiful website preview, much like Twitter does. It's built on <a href=\"https://twitter.com/kentcdodds\">@kentcdodds</a> remark-embedder/core and uses <a href=\"https://twitter.com/selbekk\">@selbekk</a> Open Graph Ninja API\n\ncc: <a href=\"https://twitter.com/MichaelDeBoey93\">@MichaelDeBoey93</a> \n\n<a href=\"https://github.com/donavon/transformer-open-graph\">github.com/donavon/transf…</a></div>",
+      "value" : "⭐️ I wrote another thing! ⭐️\n\nIt's a markdown transformer that converts a web address into a beautiful website preview, much like Twitter does. It's built on @kentcdodds remark-embedder/core and uses @selbekk Open Graph Ninja API\n\ncc: @MichaelDeBoey93 \n\ngithub.com/donavon/transf…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FPbFt6yXMAE3AdA.jpg" ],
+    "published" : [ "2022-04-03T13:45:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1510614403363876873" ],
+    "url" : [ "https://twitter.com/donavon/status/1510614403363876873" ]
+  },
+  "type" : [ "h-entry" ]
+}
