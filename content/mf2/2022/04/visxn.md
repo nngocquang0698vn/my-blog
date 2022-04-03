@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elchefe/status/1510410502043844615" ],
     "name" : [ "Like of @elchefe's tweet" ],
     "published" : [ "2022-04-03T07:22:00+0100" ],
     "like-of" : [ "https://twitter.com/elchefe/status/1510410502043844615" ],
