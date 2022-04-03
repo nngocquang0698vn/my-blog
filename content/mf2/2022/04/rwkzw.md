@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lovelacecoding/status/1510512324658053121" ],
     "name" : [ "Like of @lovelacecoding's tweet" ],
     "published" : [ "2022-04-03T09:29:00+0100" ],
     "like-of" : [ "https://twitter.com/lovelacecoding/status/1510512324658053121" ],
