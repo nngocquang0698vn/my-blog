@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/650743198348808192/LT6SeOJr.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://reactjsconsulting.com", "http://pluralsight.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I just participated in my first \"Swarm testing\" session.\n\nThe big idea: Get a group of people together, and try to break the app in a pre-release environment.\n\nWe used different users, browsers, phones, and screen readers. We discussed and logged bugs. \n\nIt was quite insightful!</div>",
+      "value" : "I just participated in my first \"Swarm testing\" session.\n\nThe big idea: Get a group of people together, and try to break the app in a pre-release environment.\n\nWe used different users, browsers, phones, and screen readers. We discussed and logged bugs. \n\nIt was quite insightful!"
+    } ],
+    "published" : [ "2022-04-01T18:14:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1509957320335368198" ],
+    "url" : [ "https://twitter.com/housecor/status/1509957320335368198" ]
+  },
+  "type" : [ "h-entry" ]
+}
