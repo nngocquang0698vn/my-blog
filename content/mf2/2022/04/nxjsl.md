@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ImFinallyJen/status/1446829945880252419" ],
     "name" : [ "Like of @ImFinallyJen's tweet" ],
     "published" : [ "2022-04-03T08:24:00+0100" ],
     "like-of" : [ "https://twitter.com/ImFinallyJen/status/1446829945880252419" ],
