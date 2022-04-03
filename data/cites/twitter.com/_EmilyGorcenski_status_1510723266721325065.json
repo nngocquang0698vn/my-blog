@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily G" ],
+        "nickname" : [ "EmilyGorcenski" ],
+        "numeric-id" : [ "1483064670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411586357781204992/1Bq162C2.jpg" ],
+        "published" : [ "2013-06-04T19:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyGorcenski" ],
+        "url" : [ "https://twitter.com/EmilyGorcenski", "https://www.emilygorcenski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why\n\ndo i have to sign in\n\nto a website\n\nto scan a document\n\nfrom my scanner\n\nthat is attached via USB\n\nto my computer</div>",
+      "value" : "Why\n\ndo i have to sign in\n\nto a website\n\nto scan a document\n\nfrom my scanner\n\nthat is attached via USB\n\nto my computer"
+    } ],
+    "published" : [ "2022-04-03T20:57:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1510723266721325065" ],
+    "url" : [ "https://twitter.com/EmilyGorcenski/status/1510723266721325065" ]
+  },
+  "type" : [ "h-entry" ]
+}
