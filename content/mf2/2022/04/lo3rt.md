@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WUTangKids/status/1510298364356841482" ],
     "name" : [ "Like of @WUTangKids's tweet" ],
     "published" : [ "2022-04-03T08:11:00+0100" ],
     "like-of" : [ "https://twitter.com/WUTangKids/status/1510298364356841482" ],
