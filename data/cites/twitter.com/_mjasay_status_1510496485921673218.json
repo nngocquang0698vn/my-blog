@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Zoom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Benedict Evans" ],
+          "nickname" : [ "benedictevans" ],
+          "numeric-id" : [ "1236101" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn.jpg" ],
+          "published" : [ "2007-03-15T17:33:00+00:00" ],
+          "uid" : [ "tag:twitter.com:benedictevans" ],
+          "url" : [ "https://twitter.com/benedictevans", "http://www.ben-evans.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "In a lot of ways crypto is open source 2.0, and a big part of that Is the adamant belief that your complex and impossible-to use system does not need to be simplified and abstracted-  instead consumers will all learn how to change the spark plugs…." ],
+      "published" : [ "2022-04-02T21:37:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1510370756802273283" ],
+      "url" : [ "https://twitter.com/benedictevans/status/1510370756802273283" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salt Lake City, Utah" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Asay" ],
+        "nickname" : [ "mjasay" ],
+        "numeric-id" : [ "7617702" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/665151466013765633/Oxvp02hU.png" ],
+        "published" : [ "2007-07-20T20:24:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjasay" ],
+        "url" : [ "https://twitter.com/mjasay", "http://www.infoworld.com/author/Matt-Asay/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'd prefer not to compare the two as I love open source (and less-than-love crypto), but it *is* true many OSS projects never focused on a clean UX/DX, which clouds have cleaned up. Rather than rage at clouds for \"taking and not giving,\" recognize their UX as a significant \"give\"" ],
+    "published" : [ "2022-04-03T05:56:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1510496485921673218" ],
+    "url" : [ "https://twitter.com/mjasay/status/1510496485921673218" ]
+  },
+  "type" : [ "h-entry" ]
+}
