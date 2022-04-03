@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "brooklyn" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "vero" ],
+          "nickname" : [ "thenyjew" ],
+          "numeric-id" : [ "1470064832" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1505990533575069698/npXQ49y0.jpg" ],
+          "published" : [ "2013-05-30T15:53:27+00:00" ],
+          "uid" : [ "tag:twitter.com:thenyjew" ],
+          "url" : [ "https://twitter.com/thenyjew" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "obsessed with the person who was playing heads up at the club yesterday" ],
+      "published" : [ "2022-04-02T22:46:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1510388307724849165" ],
+      "url" : [ "https://twitter.com/thenyjew/status/1510388307724849165" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1510388267962806275/pu/vid/720x1280/uy56HTRLS03orq8q.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Ms. Grace Kuhlenschmidt" ],
+        "nickname" : [ "GKuhlenschmidt" ],
+        "numeric-id" : [ "816921205785538560" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273483951412252673/ATVI6wN_.jpg" ],
+        "published" : [ "2017-01-05T08:16:07+00:00" ],
+        "uid" : [ "tag:twitter.com:GKuhlenschmidt" ],
+        "url" : [ "https://twitter.com/GKuhlenschmidt", "http://instagram.com/gkuhlenschmidt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is, genuinely, me" ],
+    "published" : [ "2022-04-02T23:33:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1510400174421692417" ],
+    "url" : [ "https://twitter.com/GKuhlenschmidt/status/1510400174421692417" ]
+  },
+  "type" : [ "h-entry" ]
+}
