@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Florida" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ron Filipkowski 🇺🇦" ],
+          "nickname" : [ "RonFilipkowski" ],
+          "numeric-id" : [ "1298372735383605249" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1416869035996758020/R0cKz3Gc.jpg" ],
+          "published" : [ "2020-08-25T21:32:51+00:00" ],
+          "uid" : [ "tag:twitter.com:RonFilipkowski" ],
+          "url" : [ "https://twitter.com/RonFilipkowski" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Woman at Trump rally today is asked why she loves Trump: “He’s honest. He’s a Christian. He’s anti-abortion, and he calls it like it is. He says what all of us are thinking.”" ],
+      "published" : [ "2022-04-02T19:06:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1510332893100453891" ],
+      "url" : [ "https://twitter.com/RonFilipkowski/status/1510332893100453891" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1510332847500017667/pu/vid/888x476/DzD1v1FVhP4rqcFq.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/ronfilipkowski…" ],
+      "url" : [ "https://twitter.com/ronfilipkowski/status/1510332893100453891" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Melissa Jo Peltier" ],
+        "nickname" : [ "MelissaJPeltier" ],
+        "numeric-id" : [ "18184205" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1507764911153332229/juSHWNzf.jpg" ],
+        "published" : [ "2008-12-17T06:38:31+00:00" ],
+        "uid" : [ "tag:twitter.com:MelissaJPeltier" ],
+        "url" : [ "https://twitter.com/MelissaJPeltier", "https://americandignitypac.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“He says what all of us are thinking”\nThat ought to give you chills for a lifetime.</div>\n<a class=\"tag\" href=\"https://twitter.com/ronfilipkowski/status/1510332893100453891\">twitter.com/ronfilipkowski…</a>",
+      "value" : "“He says what all of us are thinking”\nThat ought to give you chills for a lifetime."
+    } ],
+    "published" : [ "2022-04-02T19:11:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1510334049885335564" ],
+    "url" : [ "https://twitter.com/MelissaJPeltier/status/1510334049885335564" ]
+  },
+  "type" : [ "h-entry" ]
+}
