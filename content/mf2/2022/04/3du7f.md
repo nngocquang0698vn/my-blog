@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/donavon/status/1510614403363876873" ],
     "name" : [ "Like of @donavon's tweet" ],
     "published" : [ "2022-04-03T15:54:00+0100" ],
     "like-of" : [ "https://twitter.com/donavon/status/1510614403363876873" ],
