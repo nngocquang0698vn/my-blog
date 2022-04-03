@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salt Lake City, Utah" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Asay" ],
+        "nickname" : [ "mjasay" ],
+        "numeric-id" : [ "7617702" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/665151466013765633/Oxvp02hU.png" ],
+        "published" : [ "2007-07-20T20:24:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjasay" ],
+        "url" : [ "https://twitter.com/mjasay", "http://www.infoworld.com/author/Matt-Asay/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "For those hoping to monetize an open source project, the goal then is simple: create a better (easier to use, and more powerful) managed service than the clouds can or will, running across multiple clouds (which none of them can/will)" ],
+    "in-reply-to" : [ "https://twitter.com/mjasay/status/1510496485921673218" ],
+    "published" : [ "2022-04-03T05:56:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1510496487482011651" ],
+    "url" : [ "https://twitter.com/mjasay/status/1510496487482011651" ]
+  },
+  "type" : [ "h-entry" ]
+}
