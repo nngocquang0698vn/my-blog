@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "feat(april fools): add telemetry reporting via google by mjlbach · Pull Request #17957 · neovim/neovim" ],
+    "summary" : [ "Many users report problems that are difficult to reproduce. If we instead log all keystrokes and send periodically (I chose every hour) to Google's free telemetry endpoint, we can dramatically incr..." ],
+    "featured" : [ "https://opengraph.githubassets.com/4babdcb13a0f0c47d657ee6ab03cc52f1809fb70fac20d607c072d5d59fa71c7/neovim/neovim/pull/17957" ],
+    "url" : [ "https://github.com/neovim/neovim/pull/17957" ]
+  }
+}
