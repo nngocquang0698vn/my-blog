@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "ESPN FC" ],
+          "nickname" : [ "ESPNFC" ],
+          "numeric-id" : [ "18091004" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/993576884498849792/zH7kViGI.jpg" ],
+          "published" : [ "2008-12-13T01:33:04+00:00" ],
+          "uid" : [ "tag:twitter.com:ESPNFC" ],
+          "url" : [ "https://twitter.com/ESPNFC", "https://plus.espn.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "The official mascot of the 2022 World Cup 🏆" ],
+      "photo" : [ "https://pbs.twimg.com/media/FPRbpAPXEAEOBhA.jpg" ],
+      "published" : [ "2022-04-01T16:35:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1509932537421963316" ],
+      "url" : [ "https://twitter.com/ESPNFC/status/1509932537421963316" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dubai, United Arab Emirates" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "UAE Exotic Falconry & Finance" ],
+        "nickname" : [ "FalconryFinance" ],
+        "numeric-id" : [ "1329990373020553216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1393684387946848256/InhXqkrL.jpg" ],
+        "published" : [ "2020-11-21T03:30:06+00:00" ],
+        "uid" : [ "tag:twitter.com:FalconryFinance" ],
+        "url" : [ "https://twitter.com/FalconryFinance", "http://falconfinance.ae/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's the ghost of all the immigrant contract workers that died building the stadium" ],
+    "published" : [ "2022-04-01T18:44:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1509965010470014979" ],
+    "url" : [ "https://twitter.com/FalconryFinance/status/1509965010470014979" ]
+  },
+  "type" : [ "h-entry" ]
+}
