@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MavenOfMayhem/status/1510410364768305152" ],
     "name" : [ "Like of @MavenOfMayhem's tweet" ],
     "published" : [ "2022-04-03T10:43:00+0100" ],
     "like-of" : [ "https://twitter.com/MavenOfMayhem/status/1510410364768305152" ],
