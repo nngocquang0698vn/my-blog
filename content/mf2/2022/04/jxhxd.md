@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/imangelothomas/status/1509663788420808708" ],
     "name" : [ "Like of @imangelothomas's tweet" ],
     "published" : [ "2022-04-03T08:47:00+0100" ],
     "like-of" : [ "https://twitter.com/imangelothomas/status/1509663788420808708" ],
