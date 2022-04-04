@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/orlik_kuba/status/1510883288981905408" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1510937228922478598" ],
     "name" : [ "Reply to https://twitter.com/orlik_kuba/status/1510883288981905408" ],
     "published" : [ "2022-04-04T12:00:00+0100" ],
     "post-status" : [ "published" ],
