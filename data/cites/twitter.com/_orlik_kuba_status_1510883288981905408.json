@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Poznan, Greater Poland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kuba Orlik 💙💛" ],
+        "nickname" : [ "orlik_kuba" ],
+        "numeric-id" : [ "212499207" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1198319934582992897/3bPxXICA.jpg" ],
+        "published" : [ "2010-11-06T07:23:17+00:00" ],
+        "uid" : [ "tag:twitter.com:orlik_kuba" ],
+        "url" : [ "https://twitter.com/orlik_kuba", "https://www.kuba-orlik.name/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Wallabag :)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fhemberger\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wallabagapp\"></a>",
+      "value" : "Wallabag :)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/fhemberger/status/1510653282137645059" ],
+    "published" : [ "2022-04-04T07:33:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1510883288981905408" ],
+    "url" : [ "https://twitter.com/orlik_kuba/status/1510883288981905408" ]
+  },
+  "type" : [ "h-entry" ]
+}
