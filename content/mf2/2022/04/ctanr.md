@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brandur/status/1511078210720579588" ],
     "name" : [ "Like of @brandur's tweet" ],
     "published" : [ "2022-04-04T22:19:00+0100" ],
     "category" : [ "cryptocurrency" ],
