@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zoewhittall/status/1510647297096437763" ],
     "name" : [ "Like of @zoewhittall's tweet" ],
     "published" : [ "2022-04-04T08:23:00+0100" ],
     "category" : [ "coronavirus" ],
