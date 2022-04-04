@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jstemmer/go-junit-report/stargazers" ],
     "name" : [ "jstemmer/go-junit-report: Convert go test output to junit xml" ],
     "published" : [ "2022-04-04T20:03:02.905050682Z" ],
     "category" : [ "go", "junit" ],
