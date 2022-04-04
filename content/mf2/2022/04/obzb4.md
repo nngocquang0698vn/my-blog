@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lovedoveclarke/status/1510831931264540672" ],
     "name" : [ "Like of @lovedoveclarke's tweet" ],
     "published" : [ "2022-04-04T15:16:00+0100" ],
     "like-of" : [ "https://twitter.com/lovedoveclarke/status/1510831931264540672" ],
