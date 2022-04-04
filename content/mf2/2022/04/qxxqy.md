@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PCSpecialist/status/1510937473597251594" ],
     "name" : [ "Like of @PCSpecialist's tweet" ],
     "published" : [ "2022-04-04T14:08:00+0100" ],
     "category" : [ "april-fools" ],
