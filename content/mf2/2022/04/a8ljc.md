@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KevinRothrock/status/1510309994436210690" ],
     "name" : [ "Like of @KevinRothrock's tweet" ],
     "published" : [ "2022-04-04T10:02:00+0100" ],
     "like-of" : [ "https://twitter.com/KevinRothrock/status/1510309994436210690" ],
