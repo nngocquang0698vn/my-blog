@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/myumyulovemyu/status/1510590414646312960" ],
     "name" : [ "Like of @myumyulovemyu's tweet" ],
     "published" : [ "2022-04-04T13:22:00+0100" ],
     "category" : [ "cute" ],
