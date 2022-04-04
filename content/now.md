@@ -49,7 +49,7 @@ I currently use an Elgato Wave:3 as my microphone, and a Logitech C922 as my web
 
 My current colourscheme is [Gruvbox](https://github.com/morhetz/gruvbox).
 
-I'm an Open Source maintainer for a few personal projects, as well as:
+I'm an Open Source maintainer for [a few projects](/open-source/), as well as:
 
 - [Jenkins Job DSL Plugin](https://github.com/jenkinsci/job-dsl-plugin/)
 - [Cucumber Reporting Plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin)
