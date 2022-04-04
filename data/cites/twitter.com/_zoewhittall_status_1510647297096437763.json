@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zoe Whittall" ],
+        "nickname" : [ "zoewhittall" ],
+        "numeric-id" : [ "26378009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1343245445875822593/eh9YufNP.jpg" ],
+        "published" : [ "2009-03-25T00:42:47+00:00" ],
+        "uid" : [ "tag:twitter.com:zoewhittall" ],
+        "url" : [ "https://twitter.com/zoewhittall", "https://linktr.ee/Zoewhittall" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What’s worse for our mental health, wearing masks or knowing that 90% of everyone around you doesn’t care if you die." ],
+    "published" : [ "2022-04-03T15:55:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1510647297096437763" ],
+    "url" : [ "https://twitter.com/zoewhittall/status/1510647297096437763" ]
+  },
+  "type" : [ "h-entry" ]
+}
