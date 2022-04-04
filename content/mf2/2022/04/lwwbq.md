@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MakingMonzo/status/1510994311252525062" ],
     "name" : [ "Like of @MakingMonzo's tweet" ],
     "published" : [ "2022-04-04T16:44:00+0100" ],
     "like-of" : [ "https://twitter.com/MakingMonzo/status/1510994311252525062" ],
