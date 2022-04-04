@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Haven, CT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Rothrock" ],
+        "nickname" : [ "KevinRothrock" ],
+        "numeric-id" : [ "117856715" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457636307719577603/dPc6CJ7C.jpg" ],
+        "published" : [ "2010-02-26T21:07:56+00:00" ],
+        "uid" : [ "tag:twitter.com:KevinRothrock" ],
+        "url" : [ "https://twitter.com/KevinRothrock", "https://meduza.io/en" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Kharkiv’s zoo is being evacuated and this footage of tapirs in transit might be the best video I’ve seen in weeks." ],
+    "published" : [ "2022-04-02T17:35:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1510309994436210690" ],
+    "url" : [ "https://twitter.com/KevinRothrock/status/1510309994436210690" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1510309933862035461/pu/vid/720x1280/NCOHuHXoAtTDs0yH.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
