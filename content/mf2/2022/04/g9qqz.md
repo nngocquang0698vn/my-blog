@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/annarages/status/1511061905158377476" ],
     "name" : [ "Like of @annarages's tweet" ],
     "published" : [ "2022-04-05T08:54:00+0100" ],
     "like-of" : [ "https://twitter.com/annarages/status/1511061905158377476" ],
