@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/living_marble/status/1509545853966434306" ],
     "name" : [ "Like of @living_marble's tweet" ],
     "published" : [ "2022-04-05T07:44:00+0100" ],
     "category" : [ "politics", "climate-change" ],
