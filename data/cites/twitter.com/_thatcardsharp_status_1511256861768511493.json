@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Las Vegas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik :: they/them" ],
+        "nickname" : [ "thatcardsharp" ],
+        "numeric-id" : [ "1437739951" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494194065239207938/AZmmbRz6.jpg" ],
+        "published" : [ "2013-05-18T07:58:25+00:00" ],
+        "uid" : [ "tag:twitter.com:thatcardsharp" ],
+        "url" : [ "https://twitter.com/thatcardsharp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/halomancer1\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/halomancer1/status/1511243788210958337" ],
+    "photo" : [ "https://pbs.twimg.com/media/FPkQG0fUcAM-dOT.jpg" ],
+    "published" : [ "2022-04-05T08:18:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1511256861768511493" ],
+    "url" : [ "https://twitter.com/thatcardsharp/status/1511256861768511493" ]
+  },
+  "type" : [ "h-entry" ]
+}
