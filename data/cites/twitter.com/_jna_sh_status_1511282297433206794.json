@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "we haven't seen their like in a long time\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IAmJerdog\"></a>",
+      "value" : "we haven't seen their like in a long time"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/IAmJerdog/status/1511282109238939654" ],
+    "published" : [ "2022-04-05T09:59:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1511282297433206794" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1511282297433206794" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FPknPGXWUAQ0rBF.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
