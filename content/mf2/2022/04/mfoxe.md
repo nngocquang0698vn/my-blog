@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pasrealiste/status/1509952731196313605" ],
     "name" : [ "Like of @pasrealiste's tweet" ],
     "published" : [ "2022-04-05T07:45:00+0100" ],
     "category" : [ "politics", "climate-change" ],
