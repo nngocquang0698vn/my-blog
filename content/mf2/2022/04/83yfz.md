@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Hopstradamus/status/1511354766651187216" ],
     "name" : [ "Like of @Hopstradamus's tweet" ],
     "published" : [ "2022-04-05T22:09:00+0100" ],
     "like-of" : [ "https://twitter.com/Hopstradamus/status/1511354766651187216" ],
