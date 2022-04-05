@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Senn_Spud/status/1487131186270912512" ],
     "name" : [ "Like of @Senn_Spud's tweet" ],
     "published" : [ "2022-04-05T16:04:00+0100" ],
     "like-of" : [ "https://twitter.com/Senn_Spud/status/1487131186270912512" ],
