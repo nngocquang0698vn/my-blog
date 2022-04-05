@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/globalnews/sta…" ],
+        "url" : [ "https://twitter.com/globalnews/status/1509222671330029578" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Vancouver, Canada" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mary Gillis" ],
+          "nickname" : [ "living_marble" ],
+          "numeric-id" : [ "2535327366" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1483850087335751681/BM3MSBBR.jpg" ],
+          "published" : [ "2014-05-30T15:48:39+00:00" ],
+          "uid" : [ "tag:twitter.com:living_marble" ],
+          "url" : [ "https://twitter.com/living_marble", "https://www.thebeaverton.com/author/mary-gillis/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The world is not addicted to plastic. People don't buy products in plastic packages because they just can't get enough plastic, they buy them because there's no other choice.\nCorporations are addicted to plastic, and governments are addicted to not regulating corporations.</div>\n<a class=\"tag\" href=\"https://twitter.com/globalnews/status/1509222671330029578\">twitter.com/globalnews/sta…</a>",
+        "value" : "The world is not addicted to plastic. People don't buy products in plastic packages because they just can't get enough plastic, they buy them because there's no other choice.\nCorporations are addicted to plastic, and governments are addicted to not regulating corporations."
+      } ],
+      "published" : [ "2022-03-31T14:59:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1509545853966434306" ],
+      "url" : [ "https://twitter.com/living_marble/status/1509545853966434306" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "mumbi" ],
+        "nickname" : [ "pasrealiste" ],
+        "numeric-id" : [ "90661746" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254791155344171008/7aG4cpZ7.jpg" ],
+        "published" : [ "2009-11-17T16:20:14+00:00" ],
+        "uid" : [ "tag:twitter.com:pasrealiste" ],
+        "url" : [ "https://twitter.com/pasrealiste" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Coke switched to plastic bottles not because consumers wanted it ( we all used to take bottles back to the shops lol) but because they figured that disposable plastic was cheaper than maintaining the bottle collection system" ],
+    "published" : [ "2022-04-01T17:55:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1509952731196313605" ],
+    "url" : [ "https://twitter.com/pasrealiste/status/1509952731196313605" ]
+  },
+  "type" : [ "h-entry" ]
+}
