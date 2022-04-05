@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShawnChapek1/status/1511394539839397890" ],
     "name" : [ "Like of @ShawnChapek1's tweet" ],
     "published" : [ "2022-04-05T20:45:00+0100" ],
     "like-of" : [ "https://twitter.com/ShawnChapek1/status/1511394539839397890" ],
