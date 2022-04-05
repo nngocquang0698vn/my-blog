@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511171143280996353/YyUCBw7w.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Gotta admire the chutzpah of a conference talk attendee who passes gas, loudly I might add, during the talk without batting an eye" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "London, England" ],
+        "uid" : [ "tag:twitter.com:457b4814b4240d87" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-04-05T09:58:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1511282109238939654" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1511282109238939654" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FPknEJHWYAc8IIi.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
