@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ " (South) London 🇪🇺" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alexandra D-S (she/her)" ],
+          "nickname" : [ "iotwatch" ],
+          "numeric-id" : [ "156967608" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1456746639029321734/CiMltqWU.jpg" ],
+          "published" : [ "2010-06-18T12:56:03+00:00" ],
+          "uid" : [ "tag:twitter.com:iotwatch" ],
+          "url" : [ "https://twitter.com/iotwatch", "https://www.designswarm.com/books" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I lasted two years but here we are because a colleague came to work while feeling ‘under the weather’." ],
+      "photo" : [ "https://pbs.twimg.com/media/FPfY049XMAARay6.jpg" ],
+      "published" : [ "2022-04-04T09:38:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1510914623230332931" ],
+      "url" : [ "https://twitter.com/iotwatch/status/1510914623230332931" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Croxley Green (near London)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Audree Fletcher" ],
+        "nickname" : [ "avfletcher" ],
+        "numeric-id" : [ "724647542" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501899576168570884/qWusjjNr.jpg" ],
+        "published" : [ "2012-07-29T21:13:23+00:00" ],
+        "uid" : [ "tag:twitter.com:avfletcher" ],
+        "url" : [ "https://twitter.com/avfletcher" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Folks, we have an expanded COVID-19 symptoms list now: <a href=\"https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/main-symptoms/\">nhs.uk/conditions/cor…</a> \n\nTL;DR: \"feeling under the weather\" is a symptom, and choosing to come into the office while feeling that way makes you a dick, not a trooper.</div>",
+      "value" : "Folks, we have an expanded COVID-19 symptoms list now: nhs.uk/conditions/cor… \n\nTL;DR: \"feeling under the weather\" is a symptom, and choosing to come into the office while feeling that way makes you a dick, not a trooper."
+    } ],
+    "published" : [ "2022-04-04T12:46:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1510961903794900996" ],
+    "url" : [ "https://twitter.com/avfletcher/status/1510961903794900996" ]
+  },
+  "type" : [ "h-entry" ]
+}
