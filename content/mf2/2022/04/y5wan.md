@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeriLRyan/status/1511427069963489281" ],
     "name" : [ "Like of @JeriLRyan's tweet" ],
     "published" : [ "2022-04-05T22:22:00+0100" ],
     "category" : [ "star-trek" ],
