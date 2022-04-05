@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/avfletcher/status/1510961903794900996" ],
     "name" : [ "Like of @avfletcher's tweet" ],
     "published" : [ "2022-04-05T13:31:00+0100" ],
     "category" : [ "coronavirus" ],
