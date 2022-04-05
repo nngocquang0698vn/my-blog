@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/isotopp/status/1359895925876011019" ],
     "name" : [ "Like of @isotopp's tweet" ],
     "published" : [ "2022-04-05T14:47:00+0100" ],
     "like-of" : [ "https://twitter.com/isotopp/status/1359895925876011019" ],
