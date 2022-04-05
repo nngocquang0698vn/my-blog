@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Middletown, CT" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anna" ],
+        "nickname" : [ "annarages" ],
+        "numeric-id" : [ "1165632288127889408" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1507086129375453188/-UOZS18_.jpg" ],
+        "published" : [ "2019-08-25T14:29:41+00:00" ],
+        "uid" : [ "tag:twitter.com:annarages" ],
+        "url" : [ "https://twitter.com/annarages" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Some guy interviewing me just called me a junior developer based on my skills and told me \"software is not for me\" while smirking. How is your Monday going?" ],
+    "published" : [ "2022-04-04T19:23:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1511061905158377476" ],
+    "url" : [ "https://twitter.com/annarages/status/1511061905158377476" ]
+  },
+  "type" : [ "h-entry" ]
+}
