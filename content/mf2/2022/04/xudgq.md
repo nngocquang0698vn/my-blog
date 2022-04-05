@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lunarkam/status/1510796553136611330" ],
     "name" : [ "Like of @lunarkam's tweet" ],
     "published" : [ "2022-04-05T15:18:00+0100" ],
     "category" : [ "memes" ],
