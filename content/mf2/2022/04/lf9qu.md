@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kirawontmiss/status/1511392126529159171" ],
     "name" : [ "Like of @kirawontmiss's tweet" ],
     "published" : [ "2022-04-05T20:44:00+0100" ],
     "like-of" : [ "https://twitter.com/kirawontmiss/status/1511392126529159171" ],
