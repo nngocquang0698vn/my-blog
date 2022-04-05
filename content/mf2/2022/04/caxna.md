@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alove_1980/status/1511093773337518091" ],
     "name" : [ "Like of @alove_1980's tweet" ],
     "published" : [ "2022-04-05T21:04:00+0100" ],
     "like-of" : [ "https://twitter.com/alove_1980/status/1511093773337518091" ],
