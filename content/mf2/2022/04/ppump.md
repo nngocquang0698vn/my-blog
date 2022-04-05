@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thatcardsharp/status/1511256861768511493" ],
     "name" : [ "Like of @thatcardsharp's tweet" ],
     "published" : [ "2022-04-05T16:04:00+0100" ],
     "like-of" : [ "https://twitter.com/thatcardsharp/status/1511256861768511493" ],
