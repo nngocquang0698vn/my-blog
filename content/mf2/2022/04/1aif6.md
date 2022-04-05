@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lazerwalker/status/1511412884676521995" ],
     "name" : [ "Like of @lazerwalker's tweet" ],
     "published" : [ "2022-04-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/lazerwalker/status/1511412884676521995" ],
