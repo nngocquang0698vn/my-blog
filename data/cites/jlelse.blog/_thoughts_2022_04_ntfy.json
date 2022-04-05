@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "ntfy – open source push notifications" ],
+    "category" : [ "Open Source", "Tools" ],
+    "url" : [ "https://jlelse.blog/thoughts/2022/04/ntfy" ],
+    "published" : [ "2022-04-04T21:28:48+02:00" ],
+    "content" : [ {
+      "html" : "<p>In December, <a href=\"https://jlelse.blog/links/2021/12/ntfy-sh\">I wrote about ntfy.sh</a>:</p><blockquote><p>ntfy.sh can be used without registration and messages can be sent with a simple HTTP request and received via Android app or Curl (among other methods).</p><p>Until now, I have always used Telegram for such purposes. But it doesn&#x2019;t hurt to have an even simpler alternative. I have also added support for ntfy.sh directly to GoBlog and will test that over the next weeks.</p></blockquote><p>And my conclusion of the test is great! There have been many updates with new features (access control, message titles, attachments etc.) since then and I must say I really like ntfy. I even installed my own instance now, which wasn&#x2019;t complicated at all thanks to <a href=\"https://ntfy.sh/docs/\" target=\"_blank\" rel=\"noopener\">the good documentation</a>. The Android app was also improved, I was reliably informed about new webmentions, comments or news from my websites all the time.</p><p>I like such small open-source tools that are easy to configure and use, and also do their tasks very well. Now I don&#x2019;t have to abuse Telegram for notifications anymore.</p><p>All contributors did a great job. &#x1F44D; If at some point I do notice a missing feature, I can also try to contribute, after all ntfy is written in Go.</p>",
+      "value" : "In December, I wrote about ntfy.sh:\nntfy.sh can be used without registration and messages can be sent with a simple HTTP request and received via Android app or Curl (among other methods).\nUntil now, I have always used Telegram for such purposes. But it doesn’t hurt to have an even simpler alternative. I have also added support for ntfy.sh directly to GoBlog and will test that over the next weeks.\nAnd my conclusion of the test is great! There have been many updates with new features (access control, message titles, attachments etc.) since then and I must say I really like ntfy. I even installed my own instance now, which wasn’t complicated at all thanks to the good documentation. The Android app was also improved, I was reliably informed about new webmentions, comments or news from my websites all the time.\nI like such small open-source tools that are easy to configure and use, and also do their tasks very well. Now I don’t have to abuse Telegram for notifications anymore.\nAll contributors did a great job. 👍 If at some point I do notice a missing feature, I can also try to contribute, after all ntfy is written in Go.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan-Lukas Else" ],
+        "photo" : [ "https://jlelse.dev/profile.png" ],
+        "url" : [ "https://jlelse.blog/" ]
+      },
+      "lang" : "en",
+      "value" : "Jan-Lukas Else"
+    } ]
+  },
+  "lang" : "en"
+}
