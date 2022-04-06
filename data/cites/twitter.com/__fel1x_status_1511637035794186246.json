@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Zürich, Switzerland" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Felix Wilhelm" ],
+          "nickname" : [ "_fel1x" ],
+          "numeric-id" : [ "212962007" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1026455354912194560/XfIi7TUN.jpg" ],
+          "published" : [ "2010-11-07T15:27:05+00:00" ],
+          "uid" : [ "tag:twitter.com:_fel1x" ],
+          "url" : [ "https://twitter.com/_fel1x" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "I stumbled upon a fun heap overflow in Github's markdown rendering library. RCE via a malicious README 🤔 Demonstrates the risk of memory unsafe dependencies used by scripting languages.  <a href=\"https://github.com/github/cmark-gfm/security/advisories/GHSA-mc3g-88wq-6f4x\">github.com/github/cmark-g…</a>",
+        "value" : "I stumbled upon a fun heap overflow in Github's markdown rendering library. RCE via a malicious README 🤔 Demonstrates the risk of memory unsafe dependencies used by scripting languages.  github.com/github/cmark-g…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FM_wH3vXoAAC0dk.jpg" ],
+      "published" : [ "2022-03-04T10:19:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1499691103934681088" ],
+      "url" : [ "https://twitter.com/_fel1x/status/1499691103934681088" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zürich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Felix Wilhelm" ],
+        "nickname" : [ "_fel1x" ],
+        "numeric-id" : [ "212962007" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1026455354912194560/XfIi7TUN.jpg" ],
+        "published" : [ "2010-11-07T15:27:05+00:00" ],
+        "uid" : [ "tag:twitter.com:_fel1x" ],
+        "url" : [ "https://twitter.com/_fel1x" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My report for this bug is now public: <a href=\"https://bugs.chromium.org/p/project-zero/issues/detail?id=2258\">bugs.chromium.org/p/project-zero…</a>. Thanks <a href=\"https://twitter.com/github\">@github</a> for donating a 40000$ bounty to Médecins Sans Frontières (<a href=\"https://www.msf.org/\">msf.org</a>)",
+      "value" : "My report for this bug is now public: bugs.chromium.org/p/project-zero…. Thanks @github for donating a 40000$ bounty to Médecins Sans Frontières (msf.org)"
+    } ],
+    "published" : [ "2022-04-06T09:28:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1511637035794186246" ],
+    "url" : [ "https://twitter.com/_fel1x/status/1511637035794186246" ]
+  },
+  "type" : [ "h-entry" ]
+}
