@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wearechildfree_/status/1511622488383438851" ],
     "name" : [ "Like of @wearechildfree_'s tweet" ],
     "published" : [ "2022-04-06T10:33:00+0100" ],
     "like-of" : [ "https://twitter.com/wearechildfree_/status/1511622488383438851" ],
