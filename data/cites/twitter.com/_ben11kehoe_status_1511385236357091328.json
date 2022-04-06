@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Fe, NM" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Kehoe" ],
+        "nickname" : [ "ben11kehoe" ],
+        "numeric-id" : [ "3326912038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/938429074543869952/p-Coz-7j.jpg" ],
+        "published" : [ "2015-06-15T12:32:14+00:00" ],
+        "uid" : [ "tag:twitter.com:ben11kehoe" ],
+        "url" : [ "https://twitter.com/ben11kehoe", "https://www.linkedin.com/in/ben11kehoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When they connect, they’re greeted with a (serverless on AWS) stub replicating some basic functionality of that previous system that basically exists to say “Welcome! We’re glad you’re here. Here’s a firmware update that will change everything about you.”" ],
+    "in-reply-to" : [ "https://twitter.com/ben11kehoe/status/1511383759848833028" ],
+    "published" : [ "2022-04-05T16:48:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1511385236357091328" ],
+    "url" : [ "https://twitter.com/ben11kehoe/status/1511385236357091328" ]
+  },
+  "type" : [ "h-entry" ]
+}
