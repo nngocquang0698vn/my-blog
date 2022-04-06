@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "EricaJoy" ],
+        "nickname" : [ "EricaJoy" ],
+        "numeric-id" : [ "817083" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484272048268398594/lrCpiEFJ.jpg" ],
+        "published" : [ "2007-03-07T04:30:38+00:00" ],
+        "uid" : [ "tag:twitter.com:EricaJoy" ],
+        "url" : [ "https://twitter.com/EricaJoy", "https://www.ericabaker.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "this ain’t it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sadialatifi\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/soundslikecanoe\"></a>",
+      "value" : "this ain’t it."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sadialatifi/status/1511162148780654592" ],
+    "published" : [ "2022-04-06T18:04:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1511766808818159620" ],
+    "url" : [ "https://twitter.com/EricaJoy/status/1511766808818159620" ]
+  },
+  "type" : [ "h-entry" ]
+}
