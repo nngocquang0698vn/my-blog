@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/syntacticalcrab/status/1511471442554097667" ],
     "name" : [ "Like of @syntacticalcrab's tweet" ],
     "published" : [ "2022-04-06T21:38:00+0100" ],
     "like-of" : [ "https://twitter.com/syntacticalcrab/status/1511471442554097667" ],
