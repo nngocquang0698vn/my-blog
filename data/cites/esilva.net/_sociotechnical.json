@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Sociotechnical" ],
+    "summary" : [ "Articles and projects of a Tech Leader, Sociotechnical Architect, Software Engineer & Continuous Learner." ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Eduardo da Silva" ]
+      }
+    } ],
+    "url" : [ "https://esilva.net/sociotechnical" ]
+  }
+}
