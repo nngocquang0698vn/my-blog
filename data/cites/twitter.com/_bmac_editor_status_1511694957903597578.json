@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian MacDonald" ],
+        "nickname" : [ "bmac_editor" ],
+        "numeric-id" : [ "1879477758" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319046908116193287/GWNNy1iw.jpg" ],
+        "published" : [ "2013-09-18T13:37:41+00:00" ],
+        "uid" : [ "tag:twitter.com:bmac_editor" ],
+        "url" : [ "https://twitter.com/bmac_editor" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What's amazing to me is how often Ship of Theseus situations come up in everyday life, and how many people make the reference correctly now.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/genehack\"></a>",
+      "value" : "What's amazing to me is how often Ship of Theseus situations come up in everyday life, and how many people make the reference correctly now."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/genehack/status/1511546727945310210" ],
+    "published" : [ "2022-04-06T13:18:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1511694957903597578" ],
+    "url" : [ "https://twitter.com/bmac_editor/status/1511694957903597578" ]
+  },
+  "type" : [ "h-entry" ]
+}
