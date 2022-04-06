@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Fe, NM" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Kehoe" ],
+        "nickname" : [ "ben11kehoe" ],
+        "numeric-id" : [ "3326912038" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/938429074543869952/p-Coz-7j.jpg" ],
+        "published" : [ "2015-06-15T12:32:14+00:00" ],
+        "uid" : [ "tag:twitter.com:ben11kehoe" ],
+        "url" : [ "https://twitter.com/ben11kehoe", "https://www.linkedin.com/in/ben11kehoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you want an idea of the challenges of consumer IoT: we stopped making robots with firmware that talked to our pre-AWS system in July 2017. Last month, for the first time, we went a full day without a robot with that firmware newly coming online." ],
+    "published" : [ "2022-04-05T16:42:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1511383759848833028" ],
+    "url" : [ "https://twitter.com/ben11kehoe/status/1511383759848833028" ]
+  },
+  "type" : [ "h-entry" ]
+}
