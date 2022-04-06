@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Charalanahzard/status/1511199884291952642" ],
     "name" : [ "Like of @Charalanahzard's tweet" ],
     "published" : [ "2022-04-06T21:38:00+0100" ],
     "like-of" : [ "https://twitter.com/Charalanahzard/status/1511199884291952642" ],
