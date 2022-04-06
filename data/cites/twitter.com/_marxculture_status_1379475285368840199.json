@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark O'Neill" ],
+        "nickname" : [ "marxculture" ],
+        "numeric-id" : [ "16343659" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1237737072229638145/ZHeI----.png" ],
+        "published" : [ "2008-09-18T05:59:41+00:00" ],
+        "uid" : [ "tag:twitter.com:marxculture" ],
+        "url" : [ "https://twitter.com/marxculture", "https://www.gov.ie/en/campaigns/bc537-irelands-response-to-the-situation-in-ukraine/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Er, well, it depends. Has a death certificate been issued?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/edent\"></a>",
+      "value" : "Er, well, it depends. Has a death certificate been issued?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1379474984024821764" ],
+    "published" : [ "2021-04-06T16:45:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1379475285368840199" ],
+    "url" : [ "https://twitter.com/marxculture/status/1379475285368840199" ]
+  },
+  "type" : [ "h-entry" ]
+}
