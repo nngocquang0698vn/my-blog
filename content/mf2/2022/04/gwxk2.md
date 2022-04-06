@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ben11kehoe/status/1511385236357091328" ],
     "name" : [ "Like of @ben11kehoe's tweet" ],
     "published" : [ "2022-04-06T12:08:00+0100" ],
     "like-of" : [ "https://twitter.com/ben11kehoe/status/1511385236357091328" ],
