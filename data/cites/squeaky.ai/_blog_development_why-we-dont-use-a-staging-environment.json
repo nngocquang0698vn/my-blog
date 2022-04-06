@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Squeaky Blog | Why we don’t use a staging environment" ],
+    "summary" : [ "Do you need a staging environment? We've written this short blog post to share how an alternative approach is saving us time, and helping us ship better code." ],
+    "featured" : [ "https://cdn.squeaky.ai/blog/cat-in-space.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Lewis Monteith" ]
+      }
+    } ],
+    "url" : [ "https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment" ]
+  }
+}
