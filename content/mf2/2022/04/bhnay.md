@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JackRhysider/status/1511749839112994817" ],
     "name" : [ "Like of @JackRhysider's tweet" ],
     "published" : [ "2022-04-06T18:30:00+0100" ],
     "category" : [ "swag" ],
