@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Memphis" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Mclane" ],
+        "nickname" : [ "JoshuaMclane" ],
+        "numeric-id" : [ "491650690" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1399075732668698632/iA3VsOLo.jpg" ],
+        "published" : [ "2012-02-13T21:33:30+00:00" ],
+        "uid" : [ "tag:twitter.com:JoshuaMclane" ],
+        "url" : [ "https://twitter.com/JoshuaMclane", "http://heelsmemphisband.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/emilyst\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1498368393153421312" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Memphis, TN" ],
+        "uid" : [ "tag:twitter.com:f995a9bd45d4a867" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-02-28T18:53:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1498370903012429824" ],
+    "url" : [ "https://twitter.com/JoshuaMclane/status/1498370903012429824" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FMtIZDxXoAAPJQG.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
