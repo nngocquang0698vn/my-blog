@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yourolly/status/1511313444871487495" ],
     "name" : [ "Like of @yourolly's tweet" ],
     "published" : [ "2022-04-06T10:33:00+0100" ],
     "like-of" : [ "https://twitter.com/yourolly/status/1511313444871487495" ],
