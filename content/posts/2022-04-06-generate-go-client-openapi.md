@@ -1,13 +1,14 @@
 ---
 title: "Generating a Go HTTP Client from OpenAPI schemas"
-description: "How to generate a Go HTTP client really quickly and easily, with no manual work, using the oapi-codegen project."
-date: 2022-04-06T14:59:28+0100
+description: "How to generate a Go HTTP client really quickly and easily, with no\
+  \ manual work, using the oapi-codegen project."
+date: "2022-04-06T14:59:28+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1511706977847681029"
 tags:
 - "blogumentation"
 - "go"
-- openapi
+- "openapi"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
