@@ -1,13 +1,14 @@
 ---
 title: "Setting up GitLab CI for Go projects"
-description: "How to set up a basic set of automated builds for Go projects on GitLab CI, for modern Go projects."
-date: 2022-04-06T09:36:32+0100
+description: "How to set up a basic set of automated builds for Go projects on GitLab\
+  \ CI, for modern Go projects."
+date: "2022-04-06T09:36:32+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1511625662683131909"
 tags:
 - "blogumentation"
 - "go"
-- gitlab-ci
+- "gitlab-ci"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
