@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Cromwell606/status/1511361486286999557" ],
     "name" : [ "Like of @Cromwell606's tweet" ],
     "published" : [ "2022-04-06T18:06:00+0100" ],
     "category" : [ "politics" ],
