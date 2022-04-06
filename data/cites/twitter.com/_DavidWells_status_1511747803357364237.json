@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jani Eväkallio" ],
+          "nickname" : [ "jevakallio" ],
+          "numeric-id" : [ "15930040" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1451840850582032384/XIewqgQA.jpg" ],
+          "published" : [ "2008-08-21T11:16:59+00:00" ],
+          "uid" : [ "tag:twitter.com:jevakallio" ],
+          "url" : [ "https://twitter.com/jevakallio", "https://jevakallio.dev", "http://toptweets.by/jevakallio", "http://github.com/jevakallio" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"A watched build never finishes\" — An old programming proverb" ],
+      "published" : [ "2022-04-06T12:31:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1511682974571499522" ],
+      "url" : [ "https://twitter.com/jevakallio/status/1511682974571499522" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Wells" ],
+        "nickname" : [ "DavidWells" ],
+        "numeric-id" : [ "13638932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275237909763768321/BDIPmrEP.jpg" ],
+        "published" : [ "2008-02-18T19:59:35+00:00" ],
+        "uid" : [ "tag:twitter.com:DavidWells" ],
+        "url" : [ "https://twitter.com/DavidWells", "https://davidwells.io", "http://cognitobook.com", "http://getanalytics.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“If a build fails in the forest, does it make any alerts?” — Ancient dev scrolls" ],
+    "published" : [ "2022-04-06T16:48:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1511747803357364237" ],
+    "url" : [ "https://twitter.com/DavidWells/status/1511747803357364237" ]
+  },
+  "type" : [ "h-entry" ]
+}
