@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheUnderfold/status/1512044770067161090" ],
     "name" : [ "Like of @TheUnderfold's tweet" ],
     "published" : [ "2022-04-07T15:45:00+0100" ],
     "like-of" : [ "https://twitter.com/TheUnderfold/status/1512044770067161090" ],
