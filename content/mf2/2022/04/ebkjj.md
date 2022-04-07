@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Impala_Drive/status/1511538615708373001" ],
     "name" : [ "Like of @Impala_Drive's tweet" ],
     "published" : [ "2022-04-07T15:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Impala_Drive/status/1511538615708373001" ],
