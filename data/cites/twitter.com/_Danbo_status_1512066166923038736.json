@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "People's Republic of Yorkshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Atkinson" ],
+        "nickname" : [ "Danbo" ],
+        "numeric-id" : [ "3087531" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907260020328464391/-cUbjq1I.jpg" ],
+        "published" : [ "2007-03-31T23:28:31+00:00" ],
+        "uid" : [ "tag:twitter.com:Danbo" ],
+        "url" : [ "https://twitter.com/Danbo", "https://danbo.me/github" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What's the exchange rate between Schrute Bucks and Stanley Nickels?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/guardiantech\"></a>",
+      "value" : "What's the exchange rate between Schrute Bucks and Stanley Nickels?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/guardiantech/status/1512049057216098309" ],
+    "published" : [ "2022-04-07T13:54:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1512066166923038736" ],
+    "url" : [ "https://twitter.com/Danbo/status/1512066166923038736" ]
+  },
+  "type" : [ "h-entry" ]
+}
