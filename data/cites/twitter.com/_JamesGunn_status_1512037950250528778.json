@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Gunn" ],
+        "nickname" : [ "JamesGunn" ],
+        "numeric-id" : [ "14982315" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415680553852948485/ZZ6UchuW.jpg" ],
+        "published" : [ "2008-06-02T17:09:39+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesGunn" ],
+        "url" : [ "https://twitter.com/JamesGunn", "http://www.instagram.com/jamesgunn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don't know why Rogue One is trending, but I'm glad it is, as it's the most underrated Star Wars anything." ],
+    "published" : [ "2022-04-07T12:01:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1512037950250528778" ],
+    "url" : [ "https://twitter.com/JamesGunn/status/1512037950250528778" ]
+  },
+  "type" : [ "h-entry" ]
+}
