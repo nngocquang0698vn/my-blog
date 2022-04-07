@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JuttaEckstein/status/1511995201581162496" ],
     "name" : [ "Like of @JuttaEckstein's tweet" ],
     "published" : [ "2022-04-07T15:23:00+0100" ],
     "like-of" : [ "https://twitter.com/JuttaEckstein/status/1511995201581162496" ],
