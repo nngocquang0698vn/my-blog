@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/650743198348808192/LT6SeOJr.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://reactjsconsulting.com", "http://pluralsight.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Ever forget what npm scripts are available? Run this:\n\nnpm run\n\nThis produces a list of scripts, and displays the code that each script runs. Quite handy.</div>",
+      "value" : "Ever forget what npm scripts are available? Run this:\n\nnpm run\n\nThis produces a list of scripts, and displays the code that each script runs. Quite handy."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FPl7gHTXIAI9RS8.jpg" ],
+    "published" : [ "2022-04-05T16:07:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1511374967308443651" ],
+    "url" : [ "https://twitter.com/housecor/status/1511374967308443651" ]
+  },
+  "type" : [ "h-entry" ]
+}
