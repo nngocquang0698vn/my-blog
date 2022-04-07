@@ -50,7 +50,7 @@ func ArgfRead() (string, error) {
 		bytes, err = os.ReadFile(os.Args[1])
 	} else {
 		bytes, err = io.ReadAll(os.Stdin)
-  }
+	}
 
 	if err != nil {
 		return "", err
