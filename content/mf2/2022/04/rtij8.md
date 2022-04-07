@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Chris_CPH/status/1511990290760015872" ],
     "name" : [ "Like of @Chris_CPH's tweet" ],
     "published" : [ "2022-04-07T15:21:00+0100" ],
     "category" : [ "cute" ],
