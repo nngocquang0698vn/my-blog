@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1511989846008639488" ],
     "photo" : [ {
       "alt" : "Black Cat's face framed in a window of a grey hidey hole in his tower, looking a little bit crabby",
       "photo" : "https://media.jvt.me/5e3837caa1.jpeg"
