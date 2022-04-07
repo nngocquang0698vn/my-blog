@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xsullengirlx/status/1511858489018118144" ],
     "name" : [ "Like of @xsullengirlx's tweet" ],
     "published" : [ "2022-04-07T07:50:00+0100" ],
     "like-of" : [ "https://twitter.com/xsullengirlx/status/1511858489018118144" ],
