@@ -1,9 +1,10 @@
 ---
 title: "Parsing the `Cookie` and `Set-Cookie` headers with Go"
-description: "How to parse the value of a `Cookie` or `Set-Cookie` header to a JSON object."
-date: 2022-04-07T10:18:06+0100
+description: "How to parse the value of a `Cookie` or `Set-Cookie` header to a JSON\
+  \ object."
+date: "2022-04-07T10:18:06+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1511998478343417859"
 tags:
 - "blogumentation"
 - "go"
