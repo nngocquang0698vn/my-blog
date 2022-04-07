@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Peter" ],
+        "nickname" : [ "LolOverruled" ],
+        "numeric-id" : [ "213427681" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487592675415052290/6GI3Sa1E.jpg" ],
+        "published" : [ "2010-11-08T22:16:01+00:00" ],
+        "uid" : [ "tag:twitter.com:LolOverruled" ],
+        "url" : [ "https://twitter.com/LolOverruled", "http://www.venmo.com/aclavs", "http://linktr.ee/Loloverruled" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is an incredible tweet. Hall of fame" ],
+    "photo" : [ "https://pbs.twimg.com/media/FPnPa2TXsAMjbz8.jpg" ],
+    "published" : [ "2022-04-05T22:14:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1511467213659725824" ],
+    "url" : [ "https://twitter.com/LolOverruled/status/1511467213659725824" ]
+  },
+  "type" : [ "h-entry" ]
+}
