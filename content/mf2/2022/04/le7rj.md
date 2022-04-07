@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sw_holocron/status/1512061778968072199" ],
     "name" : [ "Like of @sw_holocron's tweet" ],
     "published" : [ "2022-04-07T21:11:00+0100" ],
     "category" : [ "star-wars" ],
