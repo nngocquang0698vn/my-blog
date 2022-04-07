@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/runwithskizzers/status/1511880955987902466" ],
     "name" : [ "Like of @runwithskizzers's tweet" ],
     "published" : [ "2022-04-07T07:43:00+0100" ],
     "like-of" : [ "https://twitter.com/runwithskizzers/status/1511880955987902466" ],
