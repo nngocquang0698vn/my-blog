@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Are men talking too much?" ],
+    "summary" : [ "Check who's dominating the conversation" ],
+    "featured" : [ "http://arementalkingtoomuch.com/screencap.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Cathy Deng" ]
+      }
+    } ],
+    "url" : [ "http://arementalkingtoomuch.com/" ]
+  }
+}
