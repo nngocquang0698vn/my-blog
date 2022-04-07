@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I didn't watch the trailers for Force Awakens and I think my experience was better for it. Wonder if I can do the same for the new one?" ],
+      "published" : [ "2016-04-07T12:21:02+00:00" ],
+      "uid" : [ "tag:twitter.com:718050954101317632" ],
+      "url" : [ "https://twitter.com/edent/status/718050954101317632" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just realised that the reason I loved the new Spider-Man movie was because I hadn't seen the trailers or any media. I had no idea about the \"twist\".\nWhy are trailers so spoiler heavy?</div>",
+      "value" : "Just realised that the reason I loved the new Spider-Man movie was because I hadn't seen the trailers or any media. I had no idea about the \"twist\".\nWhy are trailers so spoiler heavy?"
+    } ],
+    "published" : [ "2022-04-07T05:41:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1511942171158581250" ],
+    "url" : [ "https://twitter.com/edent/status/1511942171158581250" ]
+  },
+  "type" : [ "h-entry" ]
+}
