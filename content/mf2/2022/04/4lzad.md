@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/popey/unsnap/stargazers" ],
     "name" : [ "popey/unsnap: Quickly migrate from using snap packages to flatpaks" ],
     "published" : [ "2022-04-07T15:12:00+0100" ],
     "like-of" : [ "https://github.com/popey/unsnap" ],
