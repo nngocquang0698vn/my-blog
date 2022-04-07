@@ -17,48 +17,34 @@ When working with HTTP services, you're likely to encounter cookies for passing 
 
 Although we could inspect the `Cookie` or `Set-Cookie` headers by hand, it's easier to have a tool automagically parse them for us, as they're not the easiest to read.
 
-I've created the following Go program, with helper methods to parse the values of the headers, which requires we construct an HTTP response as a string and then retrieve the cookies, like so:
+I've created the following Go program, with helper methods to parse the values of the headers, following [this StackOverflow](https://stackoverflow.com/a/33926065) post:
 
 ```go
 package main
 
 import (
-	"bufio"
 	"bytes"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
-	"strings"
 )
 
-func cookieHeader(rawCookies string) ([]*http.Cookie, error) {
-	rawRequest := fmt.Sprintf("GET / HTTP/1.0\r\nCookie: %s\r\n\r\n", rawCookies)
-
-	req, err := http.ReadRequest(bufio.NewReader(strings.NewReader(rawRequest)))
-	if err != nil {
-		return nil, err
-	}
-
-	return req.Cookies(), nil
+func cookieHeader(rawCookies string) []*http.Cookie {
+	header := http.Header{}
+	header.Add("Cookie", rawCookies)
+	req := http.Request{Header: header}
+	return req.Cookies()
 }
 
-func setCookieHeader(cookie string) ([]*http.Cookie, error) {
-	rawResponse := fmt.Sprintf("HTTP/1.1 200 OK\r\nSet-Cookie: %s\r\n\r\n", cookie)
-
-	resp, err := http.ReadResponse(bufio.NewReader(strings.NewReader(rawResponse)), nil)
-	if err != nil {
-		return nil, err
-	}
-
-	return resp.Cookies(), nil
+func setCookieHeader(cookie string) []*http.Cookie {
+	header := http.Header{}
+	header.Add("Set-Cookie", cookie)
+	req := http.Response{Header: header}
+	return req.Cookies()
 }
 
-func prettyPrint(cookies []*http.Cookie, err error) error {
-	if err != nil {
-		return err
-	}
-
+func prettyPrint(cookies []*http.Cookie) error {
 	b, err := json.Marshal(cookies)
 	if err != nil {
 		return err
@@ -74,14 +60,14 @@ func prettyPrint(cookies []*http.Cookie, err error) error {
 }
 
 func main() {
-	cookies, err := cookieHeader("indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDg4NDYwNzYsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5qdnQubWVcLyJ9.; redirect_uri=/authorize/consent?client_id=https://www-editor.jvt.me&request_uri=urn:ietf:params:oauth:request_uri:fS6ri8Ue8S")
-	err = prettyPrint(cookies, err)
+	cookies := cookieHeader("indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDg4NDYwNzYsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5qdnQubWVcLyJ9.; redirect_uri=/authorize/consent?client_id=https://www-editor.jvt.me&request_uri=urn:ietf:params:oauth:request_uri:fS6ri8Ue8S")
+	err := prettyPrint(cookies)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	cookies, err = setCookieHeader("indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.; Secure; HttpOnly")
-	err = prettyPrint(cookies, err)
+	cookies = setCookieHeader("indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.v_0JC3xuGZN0e1CzN-bxexJ5JYDQsEUYWF4UPcILi98; Secure; HttpOnly")
+	err = prettyPrint(cookies)
 	if err != nil {
 		log.Fatal(err)
 	}
