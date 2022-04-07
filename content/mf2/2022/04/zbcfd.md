@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LolOverruled/status/1511467213659725824" ],
     "name" : [ "Like of @LolOverruled's tweet" ],
     "published" : [ "2022-04-07T15:43:00+0100" ],
     "like-of" : [ "https://twitter.com/LolOverruled/status/1511467213659725824" ],
