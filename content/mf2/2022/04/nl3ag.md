@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lpowell092020/status/1512483794221244416" ],
     "name" : [ "Like of @lpowell092020's tweet" ],
     "published" : [ "2022-04-08T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/lpowell092020/status/1512483794221244416" ],
