@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kf" ],
+        "nickname" : [ "kf" ],
+        "numeric-id" : [ "7178502" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477774122633424897/oQHJ4q0t.jpg" ],
+        "published" : [ "2007-07-01T00:14:33+00:00" ],
+        "uid" : [ "tag:twitter.com:kf" ],
+        "url" : [ "https://twitter.com/kf" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">company messages to me as IC: \"sorry, you don't have X years of experience in [very specific thing] so we are less interested\"\n\ncompany messages to me as a line manager: \"who cares if you have no experience in product eng? managers are managers! come manage our product eng team!\"</div>",
+      "value" : "company messages to me as IC: \"sorry, you don't have X years of experience in [very specific thing] so we are less interested\"\n\ncompany messages to me as a line manager: \"who cares if you have no experience in product eng? managers are managers! come manage our product eng team!\""
+    } ],
+    "published" : [ "2022-04-08T17:55:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1512489236435390466" ],
+    "url" : [ "https://twitter.com/kf/status/1512489236435390466" ]
+  },
+  "type" : [ "h-entry" ]
+}
