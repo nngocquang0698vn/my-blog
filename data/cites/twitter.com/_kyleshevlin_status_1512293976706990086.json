@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "outside my comfort zone" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam Karpiak" ],
+          "nickname" : [ "Adam_Karpiak" ],
+          "numeric-id" : [ "433350023" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1323104104294526977/kiYVzaAR.jpg" ],
+          "published" : [ "2011-12-10T13:12:28+00:00" ],
+          "uid" : [ "tag:twitter.com:Adam_Karpiak" ],
+          "url" : [ "https://twitter.com/Adam_Karpiak", "http://linktr.ee/akarpiak" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Looking for a job *is* a job. When you finally accept a job offer, take a break. Try to schedule your start date after 1-2 weeks off to decompress and start your new job recharged." ],
+      "published" : [ "2022-04-07T14:42:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1512078422654160914" ],
+      "url" : [ "https://twitter.com/Adam_Karpiak/status/1512078422654160914" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/adam_karpiak/s…" ],
+      "url" : [ "https://twitter.com/adam_karpiak/status/1512078422654160914" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Shoot, I did 4 weeks. It was worth it.\n<a class=\"tag\" href=\"https://twitter.com/adam_karpiak/status/1512078422654160914\">twitter.com/adam_karpiak/s…</a>",
+      "value" : "Shoot, I did 4 weeks. It was worth it."
+    } ],
+    "published" : [ "2022-04-08T04:59:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1512293976706990086" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1512293976706990086" ]
+  },
+  "type" : [ "h-entry" ]
+}
