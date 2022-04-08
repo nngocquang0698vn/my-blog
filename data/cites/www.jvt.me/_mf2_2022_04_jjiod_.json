@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "bridgy-twitter-content" : [ "Is there a standard way to do content-negotiation in #Go? Preferably not as part of a Web framework, but as a standalone library" ],
+    "category" : [ "go" ],
+    "uid" : [ "https://www.jvt.me/mf2/2022/04/jjiod/" ],
+    "url" : [ "https://www.jvt.me/mf2/2022/04/jjiod/" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1512440237833822208" ],
+    "published" : [ "2022-04-08T15:33:00+0100" ],
+    "content" : [ {
+      "html" : "<p>Is there a standard way to do content-negotiation in <a href=\"https://www.jvt.me/tags/go/\">#Go</a>? Preferably not as part of a Web framework, but as a standalone library</p>",
+      "value" : "Is there a standard way to do content-negotiation in #Go? Preferably not as part of a Web framework, but as a standalone library",
+      "lang" : "en-gb"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jamie Tanna" ],
+        "photo" : [ "https://www.jvt.me/img/profile.png" ],
+        "url" : [ "https://www.jvt.me" ]
+      },
+      "lang" : "en-gb",
+      "value" : "Jamie Tanna"
+    } ]
+  },
+  "lang" : "en-gb"
+}
