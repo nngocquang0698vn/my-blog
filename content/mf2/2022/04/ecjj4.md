@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FatandBlasted/status/1512421051921227795" ],
     "name" : [ "Like of @FatandBlasted's tweet" ],
     "published" : [ "2022-04-08T17:47:00+0100" ],
     "like-of" : [ "https://twitter.com/FatandBlasted/status/1512421051921227795" ],
