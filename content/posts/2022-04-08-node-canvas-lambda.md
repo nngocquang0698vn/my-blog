@@ -1,9 +1,10 @@
 ---
 title: "Getting node-canvas to run on AWS Lambda"
-description: "Some common issues that occur when using node-canvas on AWS Lambda, and how to solve them."
-date: 2022-04-08T14:29:16+0100
+description: "Some common issues that occur when using node-canvas on AWS Lambda,\
+  \ and how to solve them."
+date: "2022-04-08T14:29:16+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1512424148164915206"
 tags:
 - "blogumentation"
 - "javascript"
