@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Brain" ],
+        "nickname" : [ "bluepnume" ],
+        "numeric-id" : [ "280713662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/562840940973264896/gyKLhRO4.jpeg" ],
+        "published" : [ "2011-04-11T22:15:35+00:00" ],
+        "uid" : [ "tag:twitter.com:bluepnume" ],
+        "url" : [ "https://twitter.com/bluepnume", "https://github.com/bluepnume" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "As an exercise: every time you get a production bug, see if the bug could have been prevented with better types. I've found this is true more often than not.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JoshuaKGoldberg\"></a>",
+      "value" : "As an exercise: every time you get a production bug, see if the bug could have been prevented with better types. I've found this is true more often than not."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JoshuaKGoldberg/status/1512210604681048075" ],
+    "published" : [ "2022-04-08T03:56:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1512278173056221206" ],
+    "url" : [ "https://twitter.com/bluepnume/status/1512278173056221206" ]
+  },
+  "type" : [ "h-entry" ]
+}
