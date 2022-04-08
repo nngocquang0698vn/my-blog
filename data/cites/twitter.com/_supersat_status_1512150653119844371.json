@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karl" ],
+        "nickname" : [ "supersat" ],
+        "numeric-id" : [ "17404765" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/64577300/134179.jpeg" ],
+        "published" : [ "2008-11-15T08:16:14+00:00" ],
+        "uid" : [ "tag:twitter.com:supersat" ],
+        "url" : [ "https://twitter.com/supersat", "https://homes.cs.washington.edu/~supersat/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/foosecn00b\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/wallofsheep\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/foosecn00b/status/1512135604112306178" ],
+    "photo" : [ "https://pbs.twimg.com/media/FPw8_2fVUBIHi1B.jpg" ],
+    "published" : [ "2022-04-07T19:29:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1512150653119844371" ],
+    "url" : [ "https://twitter.com/supersat/status/1512150653119844371" ]
+  },
+  "type" : [ "h-entry" ]
+}
