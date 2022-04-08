@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/johanbove/status/1512528724020928514" ],
     "name" : [ "Like of @johanbove's tweet" ],
     "published" : [ "2022-04-08T21:45:00+0100" ],
     "like-of" : [ "https://twitter.com/johanbove/status/1512528724020928514" ],
