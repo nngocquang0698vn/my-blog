@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LunaLeViege/status/1512386930301935617" ],
     "name" : [ "Like of @LunaLeViege's tweet" ],
     "published" : [ "2022-04-08T22:44:00+0100" ],
     "category" : [ "art" ],
