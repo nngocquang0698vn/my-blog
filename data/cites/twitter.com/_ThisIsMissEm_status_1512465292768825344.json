@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Josh Goldberg 💖" ],
+          "nickname" : [ "JoshuaKGoldberg" ],
+          "numeric-id" : [ "2551208653" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1397424957475459073/k7mkfweR.jpg" ],
+          "published" : [ "2014-06-06T23:50:34+00:00" ],
+          "uid" : [ "tag:twitter.com:JoshuaKGoldberg" ],
+          "url" : [ "https://twitter.com/JoshuaKGoldberg", "https://hi.joshuakgoldberg.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I have converted dozens of projects to TypeScript at this point, and in *every single one* there have been multiple bugs found as a result.\n\nEvery! Single! One!</div>",
+        "value" : "I have converted dozens of projects to TypeScript at this point, and in *every single one* there have been multiple bugs found as a result.\n\nEvery! Single! One!"
+      } ],
+      "published" : [ "2022-04-07T23:27:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1512210604681048075" ],
+      "url" : [ "https://twitter.com/JoshuaKGoldberg/status/1512210604681048075" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/joshuakgoldber…" ],
+      "url" : [ "https://twitter.com/joshuakgoldberg/status/1512210604681048075" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emelia 👸🏻 • 💙💛" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488213971928858625/dZdcl1hl.jpg" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I regularly review code written by senior developers who reject typescript, and am always finding small bugs that tsc would've pointed out, like missing required arguments, code that expects one type but receives another, heck, even dead code.\n<a class=\"tag\" href=\"https://twitter.com/joshuakgoldberg/status/1512210604681048075\">twitter.com/joshuakgoldber…</a>",
+      "value" : "I regularly review code written by senior developers who reject typescript, and am always finding small bugs that tsc would've pointed out, like missing required arguments, code that expects one type but receives another, heck, even dead code."
+    } ],
+    "published" : [ "2022-04-08T16:20:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1512465292768825344" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1512465292768825344" ]
+  },
+  "type" : [ "h-entry" ]
+}
