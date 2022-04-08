@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "chaosmonster (Martin)" ],
+        "nickname" : [ "chaos_monster" ],
+        "numeric-id" : [ "268960747" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3079057730/4322053c9ee255e66ff0db59224b55c1.jpeg" ],
+        "published" : [ "2011-03-19T20:43:45+00:00" ],
+        "uid" : [ "tag:twitter.com:chaos_monster" ],
+        "url" : [ "https://twitter.com/chaos_monster", "https://chaosmonster.github.io/", "http://unown-fashion.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey <a href=\"https://twitter.com/SlackHQ\">@SlackHQ</a> I have a feature request. Can I get a notifier like here/ channel but for every1 who logged into the office so I can notify everyone in the office? Or to make it more generic a feature to log into a place (like status) and a @ operator for those logged into the place",
+      "value" : "Hey @SlackHQ I have a feature request. Can I get a notifier like here/ channel but for every1 who logged into the office so I can notify everyone in the office? Or to make it more generic a feature to log into a place (like status) and a @ operator for those logged into the place"
+    } ],
+    "published" : [ "2022-04-07T10:02:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1512007954886967299" ],
+    "url" : [ "https://twitter.com/chaos_monster/status/1512007954886967299" ]
+  },
+  "type" : [ "h-entry" ]
+}
