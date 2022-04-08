@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily 🌦" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498926538795859968/DBKCGARY.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Composing an enormous image description should be called an \"writing an alticle\"" ],
+    "published" : [ "2022-04-08T05:05:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1512295627605962754" ],
+    "url" : [ "https://twitter.com/emilyst/status/1512295627605962754" ]
+  },
+  "type" : [ "h-entry" ]
+}
