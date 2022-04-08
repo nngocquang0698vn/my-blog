@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TRyanGregory/status/1512254856060416001" ],
     "name" : [ "Like of @TRyanGregory's tweet" ],
     "published" : [ "2022-04-08T10:53:00+0100" ],
     "category" : [ "coronavirus" ],
