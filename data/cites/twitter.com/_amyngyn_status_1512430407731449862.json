@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Redmond" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Fowler 🇧🇧🇺🇸" ],
+          "nickname" : [ "davidfowl" ],
+          "numeric-id" : [ "19481808" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1320061631339126786/gHKfzYft.jpg" ],
+          "published" : [ "2009-01-25T08:20:53+00:00" ],
+          "uid" : [ "tag:twitter.com:davidfowl" ],
+          "url" : [ "https://twitter.com/davidfowl", "http://ASP.NET" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "How many years of experience do you need to be a senior software senior engineer?" ],
+      "published" : [ "2022-04-08T00:49:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1512231170771386370" ],
+      "url" : [ "https://twitter.com/davidfowl/status/1512231170771386370" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "amy nguyen" ],
+        "nickname" : [ "amyngyn" ],
+        "numeric-id" : [ "961861063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1013642778708832256/qPuV1FO_.jpg" ],
+        "published" : [ "2012-11-21T06:09:57+00:00" ],
+        "uid" : [ "tag:twitter.com:amyngyn" ],
+        "url" : [ "https://twitter.com/amyngyn", "http://amy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i find these discussions pointless because everyone's using different definitions, and title inflation is bonkers. how would you compare levels/titles across these three companies? what's the point of quibbling over the meaning of senior when this is what ladders look like? " ],
+    "photo" : [ {
+      "alt" : "levels.fyi screenshot for linkedin, dropbox, and google. linkedin senior software engineer lines up with L4 at google, and staff software engineer lines up with L5 / senior SWE. dropbox's \"staff SWE\" lines up with linkedin's \"senior staff SWE\" and google's \"staff SWE\", but dropbox's staff is L5 and google's is L6.",
+      "value" : "https://pbs.twimg.com/media/FP07cKpVEAEGD70.jpg"
+    } ],
+    "published" : [ "2022-04-08T14:01:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1512430407731449862" ],
+    "url" : [ "https://twitter.com/amyngyn/status/1512430407731449862" ]
+  },
+  "type" : [ "h-entry" ]
+}
