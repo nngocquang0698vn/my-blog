@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cassiecodes/status/1512383001631641602" ],
     "name" : [ "Like of @cassiecodes's tweet" ],
     "published" : [ "2022-04-08T12:31:00+0100" ],
     "like-of" : [ "https://twitter.com/cassiecodes/status/1512383001631641602" ],
