@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jschauma/status/1512422713817718788" ],
     "name" : [ "Like of @jschauma's tweet" ],
     "published" : [ "2022-04-08T18:14:00+0100" ],
     "category" : [ "command-line" ],
