@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/janl/status/1512492926785527811" ],
     "name" : [ "Like of @janl's tweet" ],
     "published" : [ "2022-04-08T20:19:00+0100" ],
     "category" : [ "star-wars" ],
