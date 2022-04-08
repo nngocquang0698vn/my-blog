@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kf/status/1512489236435390466" ],
     "name" : [ "Like of @kf's tweet" ],
     "published" : [ "2022-04-08T21:50:00+0100" ],
     "category" : [ "interviewing", "recruitment" ],
