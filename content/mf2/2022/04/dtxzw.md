@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Julietteyooo/status/1512539913262022657" ],
     "name" : [ "Like of @Julietteyooo's tweet" ],
     "published" : [ "2022-04-08T23:02:00+0100" ],
     "like-of" : [ "https://twitter.com/Julietteyooo/status/1512539913262022657" ],
