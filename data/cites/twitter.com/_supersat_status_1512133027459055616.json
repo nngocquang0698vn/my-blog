@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karl" ],
+        "nickname" : [ "supersat" ],
+        "numeric-id" : [ "17404765" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/64577300/134179.jpeg" ],
+        "published" : [ "2008-11-15T08:16:14+00:00" ],
+        "uid" : [ "tag:twitter.com:supersat" ],
+        "url" : [ "https://twitter.com/supersat", "https://homes.cs.washington.edu/~supersat/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Apparently the Buffalo Wild Wings online ordering platform has a base64-encoded list of words it won't accept\n\nThe list is... interesting</div>",
+      "value" : "Apparently the Buffalo Wild Wings online ordering platform has a base64-encoded list of words it won't accept\n\nThe list is... interesting"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FPws9aLVcAAidjR.png" ],
+    "published" : [ "2022-04-07T18:19:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1512133027459055616" ],
+    "url" : [ "https://twitter.com/supersat/status/1512133027459055616" ]
+  },
+  "type" : [ "h-entry" ]
+}
