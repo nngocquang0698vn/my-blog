@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rstevens/status/1512494271831625730" ],
     "name" : [ "Like of @rstevens's tweet" ],
     "published" : [ "2022-04-08T20:17:00+0100" ],
     "category" : [ "star-wars" ],
