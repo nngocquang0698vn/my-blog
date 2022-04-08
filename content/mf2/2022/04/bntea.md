@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NerdPyle/status/1512465616820527111" ],
     "name" : [ "Like of @NerdPyle's tweet" ],
     "published" : [ "2022-04-08T18:06:00+0100" ],
     "category" : [ "cute" ],
