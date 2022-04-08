@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Schaumann" ],
+        "nickname" : [ "jschauma" ],
+        "numeric-id" : [ "169213944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/551217713230528512/t4O7Iflt.jpeg" ],
+        "published" : [ "2010-07-21T20:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:jschauma" ],
+        "url" : [ "https://twitter.com/jschauma", "https://www.netmeister.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TIL zgrep(1) is a shell script. BSD basically does “zcat | grep”, but GNU does “gzip -dc | sed”.\n\nHow did I learn that? The fun way!  CVE-2022-1271, arbitrary-file-write _and_ code execution vulnerability in GNU zgrep / gzip.\n\n<a href=\"https://www.openwall.com/lists/oss-security/2022/04/08/2\">openwall.com/lists/oss-secu…</a></div>",
+      "value" : "TIL zgrep(1) is a shell script. BSD basically does “zcat | grep”, but GNU does “gzip -dc | sed”.\n\nHow did I learn that? The fun way!  CVE-2022-1271, arbitrary-file-write _and_ code execution vulnerability in GNU zgrep / gzip.\n\nopenwall.com/lists/oss-secu…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FP0xXE5XIAIw8l7.png" ],
+    "published" : [ "2022-04-08T13:30:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1512422713817718788" ],
+    "url" : [ "https://twitter.com/jschauma/status/1512422713817718788" ]
+  },
+  "type" : [ "h-entry" ]
+}
