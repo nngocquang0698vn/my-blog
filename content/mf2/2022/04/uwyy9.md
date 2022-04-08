@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1512330393286062081" ],
     "photo" : [ {
       "alt" : "Cookie the dog standing on an upper level in the garden, on top of a grey stone wall, looking out over the garden",
       "photo" : "https://media.jvt.me/5f881d1a02.jpeg"
