@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/kyleshevlin/status/1512293976706990086" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1512326239419314179" ],
     "name" : [ "Reply to https://twitter.com/kyleshevlin/status/1512293976706990086" ],
     "published" : [ "2022-04-08T07:59:00+0100" ],
     "post-status" : [ "published" ],
