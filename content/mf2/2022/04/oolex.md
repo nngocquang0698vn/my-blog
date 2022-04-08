@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fyrishere/status/1511780682049204224" ],
     "name" : [ "Like of @fyrishere's tweet" ],
     "published" : [ "2022-04-08T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/fyrishere/status/1511780682049204224" ],
