@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/Mr_DrEsquire/s…" ],
+        "url" : [ "https://twitter.com/Mr_DrEsquire/status/1512462862530322433" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Massachusetts" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Molly White" ],
+          "nickname" : [ "molly0xFFF" ],
+          "numeric-id" : [ "545445165" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1488233929438027785/xxHMHmJQ.jpg" ],
+          "published" : [ "2012-04-04T19:00:12+00:00" ],
+          "uid" : [ "tag:twitter.com:molly0xFFF" ],
+          "url" : [ "https://twitter.com/molly0xFFF", "http://www.mollywhite.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">the trick was not to be cool to begin with\n\nmost people don't go around writing \"stay nerdy\" in yearbooks, but they wouldn't have been disappointed if they had!</div>\n<a class=\"tag\" href=\"https://twitter.com/Mr_DrEsquire/status/1512462862530322433\">twitter.com/Mr_DrEsquire/s…</a>",
+        "value" : "the trick was not to be cool to begin with\n\nmost people don't go around writing \"stay nerdy\" in yearbooks, but they wouldn't have been disappointed if they had!"
+      } ],
+      "published" : [ "2022-04-09T15:14:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1512811280268206081" ],
+      "url" : [ "https://twitter.com/molly0xFFF/status/1512811280268206081" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Tyler Morley" ],
+        "nickname" : [ "tylerpmorley" ],
+        "numeric-id" : [ "700868369914810368" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/700870738799034368/3f_h7l_y.jpg" ],
+        "published" : [ "2016-02-20T02:23:35+00:00" ],
+        "uid" : [ "tag:twitter.com:tylerpmorley" ],
+        "url" : [ "https://twitter.com/tylerpmorley", "http://tylermorley.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "One of my friends wrote in my yearbook \"Tyler you are much too school for cool\" and I've never recovered" ],
+    "published" : [ "2022-04-09T15:30:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1512815229327097860" ],
+    "url" : [ "https://twitter.com/tylerpmorley/status/1512815229327097860" ]
+  },
+  "type" : [ "h-entry" ]
+}
