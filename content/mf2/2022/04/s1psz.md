@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MenshevikM/status/1512440404859367427" ],
     "name" : [ "Like of @MenshevikM's tweet" ],
     "published" : [ "2022-04-09T17:56:00+0100" ],
     "like-of" : [ "https://twitter.com/MenshevikM/status/1512440404859367427" ],
