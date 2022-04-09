@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Jada Pinkett Smith 'never' wanted to marry Will, cried at 'horrible' wedding <a href=\"https://trib.al/uMpujN9\">trib.al/uMpujN9</a>",
+        "value" : "Jada Pinkett Smith 'never' wanted to marry Will, cried at 'horrible' wedding trib.al/uMpujN9"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FP2KYkpX0AgdjhM.jpg" ],
+      "published" : [ "2022-04-08T19:46:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1512517206235561990" ],
+      "url" : [ "https://twitter.com/nypost/status/1512517206235561990" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The world" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jameela Jamil 🌈" ],
+        "nickname" : [ "jameelajamil" ],
+        "numeric-id" : [ "21753847" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503669054279716865/-cLbYM2m.jpg" ],
+        "published" : [ "2009-02-24T13:36:35+00:00" ],
+        "uid" : [ "tag:twitter.com:jameelajamil" ],
+        "url" : [ "https://twitter.com/jameelajamil", "http://apple.co/iweigh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is a horrible framing of what was said here. She said she just wanted to be with Will, and that marriage was never for her, but that her mother pressured them to get married due to her pregnancy. Will is in this video supporting her." ],
+    "published" : [ "2022-04-09T11:26:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1512753773017546759" ],
+    "url" : [ "https://twitter.com/jameelajamil/status/1512753773017546759" ]
+  },
+  "type" : [ "h-entry" ]
+}
