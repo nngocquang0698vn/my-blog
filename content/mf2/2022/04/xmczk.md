@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoJoFromJerz/status/1512606886910119938" ],
     "name" : [ "Like of @JoJoFromJerz's tweet" ],
     "published" : [ "2022-04-09T22:06:00+0100" ],
     "category" : [ "politics" ],
