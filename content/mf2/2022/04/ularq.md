@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tylerpmorley/status/1512815229327097860" ],
     "name" : [ "Like of @tylerpmorley's tweet" ],
     "published" : [ "2022-04-09T17:00:00+0100" ],
     "like-of" : [ "https://twitter.com/tylerpmorley/status/1512815229327097860" ],
