@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justkelly_ok/status/1512873730380210177" ],
     "name" : [ "Like of @justkelly_ok's tweet" ],
     "published" : [ "2022-04-09T20:35:00+0100" ],
     "like-of" : [ "https://twitter.com/justkelly_ok/status/1512873730380210177" ],
