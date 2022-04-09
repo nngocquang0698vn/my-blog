@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Copenhagen, Denmark" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dardan Bekteshi" ],
+        "nickname" : [ "dardan_bekteshi" ],
+        "numeric-id" : [ "1445472649166028807" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1454356684676141060/kyk0nXPX.jpg" ],
+        "published" : [ "2021-10-05T19:36:22+00:00" ],
+        "uid" : [ "tag:twitter.com:dardan_bekteshi" ],
+        "url" : [ "https://twitter.com/dardan_bekteshi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Unit tests make me slow\". Said the developer who proceeded with manually setting up a scenario for the 18th time that day." ],
+    "published" : [ "2022-04-08T08:01:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1512339889001574401" ],
+    "url" : [ "https://twitter.com/dardan_bekteshi/status/1512339889001574401" ]
+  },
+  "type" : [ "h-entry" ]
+}
