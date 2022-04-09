@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NIAbbot/status/1512749742639534089" ],
     "name" : [ "Like of @NIAbbot's tweet" ],
     "published" : [ "2022-04-09T20:34:00+0100" ],
     "like-of" : [ "https://twitter.com/NIAbbot/status/1512749742639534089" ],
