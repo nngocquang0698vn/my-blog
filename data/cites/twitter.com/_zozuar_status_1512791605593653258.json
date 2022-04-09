@@ -1,0 +1,22 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "yonatan" ],
+        "nickname" : [ "zozuar" ],
+        "numeric-id" : [ "2435639028" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1040346769312428032/BzNsi7UX.jpg" ],
+        "published" : [ "2014-04-09T15:54:00+00:00" ],
+        "uid" : [ "tag:twitter.com:zozuar" ],
+        "url" : [ "https://twitter.com/zozuar" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "float i,s,e;for(vec3 p,q,d=vec3((FC.xy-.5*r)/r.y,-1);i++<1e2;e=length(p)/s){p=q+=i<50.?d*e:p-p+1e-4+e;p.z+=7.;o+=sqrt(e)/70.;p.xz*=rotate2D(t/8.);p=vec3(log(s=length(p)),atan(p.y,p.x),sin(t/4.+p.z/s));s=1.;for(int j;j++<6;)s*=e=PI/min(dot(p,p),.8),p=abs(p)*e-3.,p.y-=round(p.y);}" ],
+    "published" : [ "2022-04-09T13:56:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1512791605593653258" ],
+    "url" : [ "https://twitter.com/zozuar/status/1512791605593653258" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1512791229775462405/pu/vid/720x720/sVDqd_bAmKw0dswc.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
