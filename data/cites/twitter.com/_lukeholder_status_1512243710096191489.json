@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Perth, Western Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Luke Holder" ],
+        "nickname" : [ "lukeholder" ],
+        "numeric-id" : [ "24677137" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1207175637145796609/tGYzqlZN.jpg" ],
+        "published" : [ "2009-03-16T11:18:16+00:00" ],
+        "uid" : [ "tag:twitter.com:lukeholder" ],
+        "url" : [ "https://twitter.com/lukeholder", "http://lukeholder.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "TIL MacOS has a built-in speed test tool." ],
+    "photo" : [ "https://pbs.twimg.com/media/FPyRlsRacAAOdFM.jpg" ],
+    "published" : [ "2022-04-08T01:39:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1512243710096191489" ],
+    "url" : [ "https://twitter.com/lukeholder/status/1512243710096191489" ]
+  },
+  "type" : [ "h-entry" ]
+}
