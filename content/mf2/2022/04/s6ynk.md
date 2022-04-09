@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dardan_bekteshi/status/1512339889001574401" ],
     "name" : [ "Like of @dardan_bekteshi's tweet" ],
     "published" : [ "2022-04-09T13:28:00+0100" ],
     "like-of" : [ "https://twitter.com/dardan_bekteshi/status/1512339889001574401" ],
