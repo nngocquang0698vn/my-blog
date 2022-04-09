@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Strong 🧀" ],
+        "nickname" : [ "RapidOwl" ],
+        "numeric-id" : [ "2903281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/925420454898266112/4bSGaIn-.jpg" ],
+        "published" : [ "2007-03-29T22:32:48+00:00" ],
+        "uid" : [ "tag:twitter.com:RapidOwl" ],
+        "url" : [ "https://twitter.com/RapidOwl", "https://samstrong.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We tried it, but they didn’t seem to come out any crispier than putting them in the normal oven with the other stuff.\n\nWhich brand of oven chips do you use?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "We tried it, but they didn’t seem to come out any crispier than putting them in the normal oven with the other stuff.\n\nWhich brand of oven chips do you use?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1512900237391769605" ],
+    "published" : [ "2022-04-09T21:29:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1512905544356581383" ],
+    "url" : [ "https://twitter.com/RapidOwl/status/1512905544356581383" ]
+  },
+  "type" : [ "h-entry" ]
+}
