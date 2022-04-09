@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HistoricalNoOne/status/1512653691588952064" ],
     "name" : [ "Like of @HistoricalNoOne's tweet" ],
     "published" : [ "2022-04-09T14:48:00+0100" ],
     "like-of" : [ "https://twitter.com/HistoricalNoOne/status/1512653691588952064" ],
