@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zozuar/status/1512791605593653258" ],
     "name" : [ "Like of @zozuar's tweet" ],
     "published" : [ "2022-04-09T15:17:00+0100" ],
     "category" : [ "art" ],
