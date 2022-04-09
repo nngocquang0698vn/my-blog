@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coinmamba/status/1512792083702206468" ],
     "name" : [ "Like of @coinmamba's tweet" ],
     "published" : [ "2022-04-09T15:13:00+0100" ],
     "like-of" : [ "https://twitter.com/coinmamba/status/1512792083702206468" ],
