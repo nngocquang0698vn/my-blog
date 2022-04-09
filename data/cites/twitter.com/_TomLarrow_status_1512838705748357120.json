@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "On the internets " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Larrow" ],
+        "nickname" : [ "TomLarrow" ],
+        "numeric-id" : [ "18375663" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1219084153620193280/RmYzt4VR.jpg" ],
+        "published" : [ "2008-12-25T15:42:26+00:00" ],
+        "uid" : [ "tag:twitter.com:TomLarrow" ],
+        "url" : [ "https://twitter.com/TomLarrow", "http://www.youtube.com/skraut" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I want websites to stop asking me if I accept cookies.\n\nBut more importantly I want this to happen because websites have stopped using cookies so there is nothing for me to accept</div>",
+      "value" : "I want websites to stop asking me if I accept cookies.\n\nBut more importantly I want this to happen because websites have stopped using cookies so there is nothing for me to accept"
+    } ],
+    "published" : [ "2022-04-09T17:03:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1512838705748357120" ],
+    "url" : [ "https://twitter.com/TomLarrow/status/1512838705748357120" ]
+  },
+  "type" : [ "h-entry" ]
+}
