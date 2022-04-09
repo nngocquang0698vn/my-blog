@@ -1,0 +1,463 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "housefiles" ],
+    "pk-num-likes" : [ "16" ],
+    "pk-num-replies" : [ "8" ],
+    "pk-num-mentions" : [ "1" ],
+    "photo" : [ "https://aaronparecki.com/img/1240x0/2022/04/08/13/photo.jpg" ],
+    "url" : [ "https://aaronparecki.com/2022/04/08/13/lighting" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1512612259301797890", "https://micro.blog/aaronpk/12684282" ],
+    "published" : [ "2022-04-08T19:03:57-07:00" ],
+    "content" : [ {
+      "html" : "yall I am appliance shopping right now and I didn't even know that \"enhanced cinematic lighting\" was a feature that dishwashers could even have",
+      "value" : "yall I am appliance shopping right now and I didn't even know that \"enhanced cinematic lighting\" was a feature that dishwashers could even have"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Portland" ],
+        "region" : [ "Oregon" ]
+      },
+      "value" : "Portland, Oregon"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://fosstodon.org/users/geekgonecrazy#likes/1523597" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Ogle :linux: :manjaro:" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://fosstodon.org/users/geekgonecrazy" ]
+          },
+          "value" : "Aaron Ogle :linux: :manjaro:"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Aaron Ogle :linux: :manjaro:"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://smores.town/users/touk#likes/46855" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Touk" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://smores.town/users/touk" ]
+          },
+          "value" : "Touk"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Touk"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/users/AFresh1#likes/787191" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andrew Hewus Fresh" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bsd.network/users/AFresh1" ]
+          },
+          "value" : "Andrew Hewus Fresh"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Andrew Hewus Fresh"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-353442929" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jason Flynn" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Flynn1123" ]
+          },
+          "value" : "Jason Flynn"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Jason Flynn"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-51185384" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Shawn Recinto 💻🎮💡" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/shawnrecinto" ]
+          },
+          "value" : "Shawn Recinto 💻🎮💡"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Shawn Recinto 💻🎮💡"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-46416755" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Lillian Karabaic" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/anomalily" ]
+          },
+          "value" : "Lillian Karabaic"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Lillian Karabaic"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-14741448" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Vittorio" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/vibronet" ]
+          },
+          "value" : "Vittorio"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Vittorio"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-14498374" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Nathan Fritz 🌯🤔" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/fritzy" ]
+          },
+          "value" : "Nathan Fritz 🌯🤔"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Nathan Fritz 🌯🤔"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-107722405" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Bob Allen, M.Sc." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/BugBobPhoto" ]
+          },
+          "value" : "Bob Allen, M.Sc."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Bob Allen, M.Sc."
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-41506847" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Greg Elgie" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/GregElgie" ]
+          },
+          "value" : "Greg Elgie"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Greg Elgie"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-772493501632225280" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "mirawgi" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/mirawgi" ]
+          },
+          "value" : "mirawgi"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png mirawgi"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-1062980721025810432" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "theswayambhu" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/theswayambhu" ]
+          },
+          "value" : "theswayambhu"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png theswayambhu"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-802112" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sam Grover" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/samgrover" ]
+          },
+          "value" : "Sam Grover"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Sam Grover"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-1207340557657346050" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "INUX3D®" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Inux3D" ]
+          },
+          "value" : "INUX3D®"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png INUX3D®"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-220981525" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "JAYTEE - 🇦🇺" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/JAYTEEAU" ]
+          },
+          "value" : "JAYTEE - 🇦🇺"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png JAYTEE - 🇦🇺"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/aaronpk/status/1512612259301797890#favorited-by-3855491354" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Heather Ramirez" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/justcreatemore" ]
+          },
+          "value" : "Heather Ramirez"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Heather Ramirez"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/Inux3D/status/1512716971175038979" ],
+        "published" : [ "2022-04-09T09:00:05+00:00" ],
+        "content" : [ {
+          "html" : "Go for it then! &#x1F923;\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "Go for it then! 🤣"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "INUX3D®" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/Inux3D" ]
+          },
+          "value" : "INUX3D®"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png INUX3D® twitter.com/Inux3D Go for it then! 🤣 Sat, Apr 9, 2022 9:00am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/Cheri/12685134" ],
+        "published" : [ "2022-04-09T08:07:21+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> This must be what happens when the marketing team is over caffeinated. &#x1F606; </p>",
+          "value" : "@aaronpk This must be what happens when the marketing team is over caffeinated. 😆"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Cheri" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/Cheri" ]
+          },
+          "value" : "Cheri"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Cheri micro.blog/Cheri\n@aaronpk This must be what happens when the marketing team is over caffeinated. 😆 Sat, Apr 9, 2022 8:07am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/PostColorGear/status/1512638106675122182" ],
+        "published" : [ "2022-04-09T03:46:42+00:00" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dave - Post. Color. Gear." ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/PostColorGear" ]
+          },
+          "value" : "Dave - Post. Color. Gear."
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dave - Post. Color. Gear. twitter.com/PostColorGear Sat, Apr 9, 2022 3:46am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/richText/12684499" ],
+        "published" : [ "2022-04-09T03:36:45+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/rnv\" rel=\"nofollow\">@rnv</a> &#x1F602;</p>",
+          "value" : "@rnv 😂"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "richText" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/richText" ]
+          },
+          "value" : "richText"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png richText micro.blog/richText\n@rnv 😂 Sat, Apr 9, 2022 3:36am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/petervcook/status/1512627418355359754" ],
+        "published" : [ "2022-04-09T03:04:14+00:00" ],
+        "content" : [ {
+          "html" : "You could do your livestream from INSIDE the dishwasher!\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "You could do your livestream from INSIDE the dishwasher!"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Peter V Cook" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/petervcook" ]
+          },
+          "value" : "Peter V Cook"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Peter V Cook twitter.com/petervcook You could do your livestream from INSIDE the dishwasher! Sat, Apr 9, 2022 3:04am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://micro.blog/rnv/12684364" ],
+        "published" : [ "2022-04-09T02:46:49+00:00" ],
+        "content" : [ {
+          "html" : "<p><a href=\"https://micro.blog/aaronpk\" rel=\"nofollow\">@aaronpk</a> Wow. Now I kinda want a surround-sound refrigerator and maybe a stove with GPS.</p>",
+          "value" : "@aaronpk Wow. Now I kinda want a surround-sound refrigerator and maybe a stove with GPS."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "rnv" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://micro.blog/rnv" ]
+          },
+          "value" : "rnv"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png rnv micro.blog/rnv\n@aaronpk Wow. Now I kinda want a surround-sound refrigerator and maybe a stove with GPS. Sat, Apr 9, 2022 2:46am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "http://aaronpk.tv/", "http://pk1.tv/", "https://aaronparecki.com/", "https://oauth2simplified.com/", "https://twitter.com/aaronpk" ],
+        "url" : [ "https://twitter.com/bcomnes/status/1512622413250322433" ],
+        "published" : [ "2022-04-09T02:44:21+00:00" ],
+        "content" : [ {
+          "html" : "damn...\n<a class=\"u-mention\" href=\"http://aaronpk.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"http://pk1.tv/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://aaronparecki.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://oauth2simplified.com/\" rel=\"nofollow\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/aaronpk\" rel=\"nofollow\"></a>",
+          "value" : "damn..."
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "🌥🌲Bret🥔👨‍👩‍👧" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/bcomnes" ]
+          },
+          "value" : "🌥🌲Bret🥔👨‍👩‍👧"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png 🌥🌲Bret🥔👨‍👩‍👧 twitter.com/bcomnes damn... Sat, Apr 9, 2022 2:44am +00:00 (via brid.gy)"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://bsd.network/@AFresh1/108099684146292776" ],
+        "published" : [ "2022-04-09T02:11:18+00:00" ],
+        "content" : [ {
+          "html" : "<p><span class=\"h-card\"><a href=\"https://aaronparecki.com/aaronpk\" class=\"u-url\" rel=\"nofollow\">@<span>aaronpk</span></a></span> and now you need to have it, don't you?</p>",
+          "value" : "@aaronpk and now you need to have it, don't you?"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Andrew Hewus Fresh" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://bsd.network/@AFresh1" ]
+          },
+          "value" : "Andrew Hewus Fresh"
+        } ]
+      },
+      "children" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "url" : [ "https://aaronparecki.com/aaronpk" ],
+          "name" : [ "@aaronpk" ]
+        }
+      } ],
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Andrew Hewus Fresh bsd.network/@AFresh1\n@aaronpk and now you need to have it, don't you? Sat, Apr 9, 2022 2:11am +00:00"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "mention" : [ "https://aaronparecki.com/2022/04/08/13/lighting" ],
+        "url" : [ "https://twitter.com/mooreds/status/1512751631724515330" ],
+        "published" : [ "2022-04-09T11:17:49+00:00" ],
+        "content" : [ {
+          "html" : "It's like another, weirder version of <a href=\"https://twitter.com/jwz\" rel=\"nofollow\">@jwz</a> 's law: \"appliance features will expand until they include cinematic lighting\".\n\n&#x1F923;&#x1F923;\n<a class=\"u-mention\" href=\"https://aaronparecki.com/2022/04/08/13/lighting\" rel=\"nofollow\"></a>",
+          "value" : "It's like another, weirder version of @jwz 's law: \"appliance features will expand until they include cinematic lighting\". 🤣🤣"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Dan Moore" ],
+            "photo" : [ "https://aaronparecki.com/assets/images/no-profile-photo.png" ],
+            "url" : [ "https://twitter.com/mooreds" ]
+          },
+          "value" : "Dan Moore"
+        } ]
+      },
+      "value" : "https://aaronparecki.com/assets/images/no-profile-photo.png Dan Moore twitter.com/mooreds It's like another, weirder version of @jwz 's law: \"appliance features will expand until they include cinematic lighting\". 🤣🤣 Sat, Apr 9, 2022 11:17am +00:00 (via brid.gy)"
+    } ]
+  }
+}
