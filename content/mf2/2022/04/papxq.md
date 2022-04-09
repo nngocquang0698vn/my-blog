@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/caraesten/status/1512817143938621442" ],
     "name" : [ "Like of @caraesten's tweet" ],
     "published" : [ "2022-04-09T16:55:00+0100" ],
     "like-of" : [ "https://twitter.com/caraesten/status/1512817143938621442" ],
