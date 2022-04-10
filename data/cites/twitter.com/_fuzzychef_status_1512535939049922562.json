@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "www.fuzzychef.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Berkubernetus" ],
+        "nickname" : [ "fuzzychef" ],
+        "numeric-id" : [ "14804841" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1450166432654712833/_tvvPyQ8.jpg" ],
+        "published" : [ "2008-05-16T22:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:fuzzychef" ],
+        "url" : [ "https://twitter.com/fuzzychef", "http://www.databasesoup.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hey, students and professors:\n\nMaking fake commits against real OSS projects is not a valid class assignment.  It wastes people's time, irritates them, and gives the student a bad reputation on Github and OSS.\n\nDon't do it.</div>",
+      "value" : "Hey, students and professors:\n\nMaking fake commits against real OSS projects is not a valid class assignment.  It wastes people's time, irritates them, and gives the student a bad reputation on Github and OSS.\n\nDon't do it."
+    } ],
+    "published" : [ "2022-04-08T21:00:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1512535939049922562" ],
+    "url" : [ "https://twitter.com/fuzzychef/status/1512535939049922562" ]
+  },
+  "type" : [ "h-entry" ]
+}
