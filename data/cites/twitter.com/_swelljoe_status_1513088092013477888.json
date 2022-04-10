@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Cooper 🌻🇺🇦🌻" ],
+        "nickname" : [ "swelljoe" ],
+        "numeric-id" : [ "14489844" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/949853735924088833/JsXSKm4b.jpg" ],
+        "published" : [ "2008-04-23T08:48:02+00:00" ],
+        "uid" : [ "tag:twitter.com:swelljoe" ],
+        "url" : [ "https://twitter.com/swelljoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You can't just pick some repo on github and demand the maintainer teach you how to participate in an Open Source project. That's not how any of this works.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/erikbtweets\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fuzzychef\"></a>",
+      "value" : "You can't just pick some repo on github and demand the maintainer teach you how to participate in an Open Source project. That's not how any of this works."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/erikbtweets/status/1513072362752823298" ],
+    "published" : [ "2022-04-10T09:34:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1513088092013477888" ],
+    "url" : [ "https://twitter.com/swelljoe/status/1513088092013477888" ]
+  },
+  "type" : [ "h-entry" ]
+}
