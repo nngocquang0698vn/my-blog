@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katelyn Gadd" ],
+        "nickname" : [ "antumbral" ],
+        "numeric-id" : [ "19837512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1469080882954735616/wGJLM-fi.png" ],
+        "published" : [ "2009-01-31T23:30:23+00:00" ],
+        "uid" : [ "tag:twitter.com:antumbral" ],
+        "url" : [ "https://twitter.com/antumbral", "http://luminance.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "orange website classics like \"here is my anecdote about why I dislike unions (the union got me higher pay)\"" ],
+    "photo" : [ {
+      "alt" : "Half the reason I'm ambivalent about unionization is that I was involved with the graduate student union when I was in school. The nominal reason for it was to improve working conditions and pay for grad students. In practice, it improved very little, and added a modest amount of overhead, in the form of a union apparatus which fed itself by taking a little bite out of those paychecks every month. To be clear, the net result was still higher pay overall, but not a lot.",
+      "value" : "https://pbs.twimg.com/media/FP6K827XwAYBsDG.png"
+    } ],
+    "published" : [ "2022-04-09T14:27:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1512799397058293765" ],
+    "url" : [ "https://twitter.com/antumbral/status/1512799397058293765" ]
+  },
+  "type" : [ "h-entry" ]
+}
