@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Una/status/1506383666548822020" ],
     "name" : [ "Like of @Una's tweet" ],
     "published" : [ "2022-04-10T07:42:00+0100" ],
     "category" : [ "css" ],
