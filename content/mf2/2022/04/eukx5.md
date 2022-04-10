@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SpillerOfTea/status/1513100093276184585" ],
     "name" : [ "Like of @SpillerOfTea's tweet" ],
     "published" : [ "2022-04-10T22:38:00+0100" ],
     "like-of" : [ "https://twitter.com/SpillerOfTea/status/1513100093276184585" ],
