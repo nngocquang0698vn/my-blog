@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeffGrigg1/status/1513148577895309313" ],
     "name" : [ "Like of @JeffGrigg1's tweet" ],
     "published" : [ "2022-04-10T15:15:00+0100" ],
     "like-of" : [ "https://twitter.com/JeffGrigg1/status/1513148577895309313" ],
