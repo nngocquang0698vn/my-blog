@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "una.css 👩🏻‍💻🇺🇦" ],
+        "nickname" : [ "Una" ],
+        "numeric-id" : [ "17178315" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF.jpg" ],
+        "published" : [ "2008-11-05T02:54:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Una" ],
+        "url" : [ "https://twitter.com/Una", "http://una.im" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">`accent-color` is now supported in all modern browsers 🎉🎨\n\nOne line of code enables you to style previously-hard-to-access form controls like checkboxes and radio buttons\n\nbody {\n  accent-color: hotpink;\n}\n\nWorks really nicely with the `color-scheme` property too!</div>",
+      "value" : "`accent-color` is now supported in all modern browsers 🎉🎨\n\nOne line of code enables you to style previously-hard-to-access form controls like checkboxes and radio buttons\n\nbody {\n  accent-color: hotpink;\n}\n\nWorks really nicely with the `color-scheme` property too!"
+    } ],
+    "published" : [ "2022-03-22T21:33:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1506383666548822020" ],
+    "url" : [ "https://twitter.com/Una/status/1506383666548822020" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FOe_VCdWYAcDkbn.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
