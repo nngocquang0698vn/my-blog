@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NotHoodlum/status/1512574917295943681" ],
     "name" : [ "Like of @NotHoodlum's tweet" ],
     "published" : [ "2022-04-10T08:44:00+0100" ],
     "category" : [ "politics" ],
