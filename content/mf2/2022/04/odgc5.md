@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Pilnok/status/1513009805593559041" ],
     "name" : [ "Like of @Pilnok's tweet" ],
     "published" : [ "2022-04-10T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/Pilnok/status/1513009805593559041" ],
