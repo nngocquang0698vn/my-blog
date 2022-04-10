@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MisterABK/status/1512715116185370628" ],
     "name" : [ "Like of @MisterABK's tweet" ],
     "published" : [ "2022-04-10T08:42:00+0100" ],
     "category" : [ "capitalism", "politics" ],
