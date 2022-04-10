@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swelljoe/status/1513088092013477888" ],
     "name" : [ "Like of @swelljoe's tweet" ],
     "published" : [ "2022-04-10T22:24:00+0100" ],
     "category" : [ "open-source" ],
