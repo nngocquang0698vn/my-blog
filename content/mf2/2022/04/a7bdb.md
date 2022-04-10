@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DrUnicornPhD/status/1512907514567802881" ],
     "name" : [ "Like of @DrUnicornPhD's tweet" ],
     "published" : [ "2022-04-10T08:55:00+0100" ],
     "like-of" : [ "https://twitter.com/DrUnicornPhD/status/1512907514567802881" ],
