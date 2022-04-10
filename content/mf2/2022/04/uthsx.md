@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnxietySugar_/status/1512910621855072263" ],
     "name" : [ "Like of @AnxietySugar_'s tweet" ],
     "published" : [ "2022-04-10T18:08:00+0100" ],
     "category" : [ "politics", "diversity-and-inclusion" ],
