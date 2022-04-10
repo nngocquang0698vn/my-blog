@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1513058761631576067" ],
     "photo" : [ {
       "alt" : "A bowl of cereal, with a fork instead of a spoon, resting on top of it by accident",
       "photo" : "https://media.jvt.me/6ba6cacbb5.jpeg"
