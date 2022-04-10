@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mommajessiec/status/1512424738764775424" ],
     "name" : [ "Like of @mommajessiec's tweet" ],
     "published" : [ "2022-04-10T05:28:00+0100" ],
     "like-of" : [ "https://twitter.com/mommajessiec/status/1512424738764775424" ],
