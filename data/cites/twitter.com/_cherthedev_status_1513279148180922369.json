@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "git pull union" ],
+          "nickname" : [ "git_pull_union" ],
+          "numeric-id" : [ "1428511503489978371" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1511462831425687557/A8vkI7sY.jpg" ],
+          "published" : [ "2021-08-20T00:18:43+00:00" ],
+          "uid" : [ "tag:twitter.com:git_pull_union" ],
+          "url" : [ "https://twitter.com/git_pull_union" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Many tech companies, including GitHub, use their geographically distributed workforce as a way to steal wages from workers. They call it \"location-based pay grades\" and other such nonsense. But it's wrong. So we've written something you can share:" ],
+      "published" : [ "2022-04-10T21:33:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1513268997952659457" ],
+      "url" : [ "https://twitter.com/git_pull_union/status/1513268997952659457" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510388326183755778/eWE02Qqe.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is a symptom, not the disease.\n\nThe problem is that certain market values are depressed, and if you look at the data, you'll see it's areas that are not predominately made up of white, mid-to-high class incomes. \n\nPaying based on the cost of living is about equity, actually.</div>",
+      "value" : "This is a symptom, not the disease.\n\nThe problem is that certain market values are depressed, and if you look at the data, you'll see it's areas that are not predominately made up of white, mid-to-high class incomes. \n\nPaying based on the cost of living is about equity, actually."
+    } ],
+    "published" : [ "2022-04-10T22:13:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1513279148180922369" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1513279148180922369" ]
+  },
+  "type" : [ "h-entry" ]
+}
