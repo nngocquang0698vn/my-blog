@@ -1,21 +1,23 @@
 ---
-title: "Protecting an Architect Framework Application with OAuth2 or OpenID Connect Authentication"
-description: "How to set up OAuth2/OpenID Connect authentication with an Architect Framework application."
-date: 2022-04-11T11:10:29+0100
+title: "Protecting an Architect Framework Application with OAuth2 or OpenID Connect\
+  \ Authentication"
+description: "How to set up OAuth2/OpenID Connect authentication with an Architect\
+  \ Framework application."
+date: "2022-04-11T11:10:29+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1513461209563115524"
 tags:
 - "blogumentation"
 - "architect-framework"
 - "nodejs"
 - "aws-lambda"
 - "oidc"
-- indieauth
-- oauth2
+- "indieauth"
+- "oauth2"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "https://media.jvt.me/4bea95efe8.png" ###
-slug: architect-oidc-login
+image: "https://media.jvt.me/4bea95efe8.png"
+slug: "architect-oidc-login"
 ---
 I have a number of services that I use the [Architect Framework](https://arc.codes), as it's _really_ handy for creating an event-based, multi-Lambda (HTTP) application.
 
