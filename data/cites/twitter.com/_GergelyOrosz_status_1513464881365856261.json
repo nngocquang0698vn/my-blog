@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Kjartan Rekdal Müller" ],
+          "nickname" : [ "kjartanmuller" ],
+          "numeric-id" : [ "68446914" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/3395798828/09474939608669650627f9e060de2959.jpeg" ],
+          "published" : [ "2009-08-24T16:35:11+00:00" ],
+          "uid" : [ "tag:twitter.com:kjartanmuller" ],
+          "url" : [ "https://twitter.com/kjartanmuller" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We just got this from Atlassian😳😬:\n\"We were unable to confirm a more firm ETA until now due to the complexity of the rebuild process for your site. While we are beginning to bring some customers back online, we estimate the rebuilding effort to last for up to 2 more weeks.\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GergelyOrosz\"></a>",
+        "value" : "We just got this from Atlassian😳😬:\n\"We were unable to confirm a more firm ETA until now due to the complexity of the rebuild process for your site. While we are beginning to bring some customers back online, we estimate the rebuilding effort to last for up to 2 more weeks.\""
+      } ],
+      "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1513447588946710532" ],
+      "published" : [ "2022-04-11T10:23:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1513462616030683138" ],
+      "url" : [ "https://twitter.com/kjartanmuller/status/1513462616030683138" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">For some customers, the downtime will be up to 3 weeks (!!!)\n\nIf you can run your company for 3 weeks without JIRA, do you really need it though or just keep using the alternative you’ve put in place in those 3 weeks?</div>",
+      "value" : "For some customers, the downtime will be up to 3 weeks (!!!)\n\nIf you can run your company for 3 weeks without JIRA, do you really need it though or just keep using the alternative you’ve put in place in those 3 weeks?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1513448446656667648" ],
+    "published" : [ "2022-04-11T10:32:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1513464881365856261" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1513464881365856261" ]
+  },
+  "type" : [ "h-entry" ]
+}
