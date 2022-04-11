@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Srirachachau/status/1513338398966104068" ],
     "name" : [ "Like of @Srirachachau's tweet" ],
     "published" : [ "2022-04-11T19:49:00+0100" ],
     "like-of" : [ "https://twitter.com/Srirachachau/status/1513338398966104068" ],
