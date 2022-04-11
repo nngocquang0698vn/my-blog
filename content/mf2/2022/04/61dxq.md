@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/QuinnyPig/status/1512492427960934400" ],
     "name" : [ "Like of @QuinnyPig's tweet" ],
     "published" : [ "2022-04-11T21:18:00+0100" ],
     "like-of" : [ "https://twitter.com/QuinnyPig/status/1512492427960934400" ],
