@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SilentDawnLB/status/1513333505693990925" ],
     "name" : [ "Like of @SilentDawnLB's tweet" ],
     "published" : [ "2022-04-11T19:49:00+0100" ],
     "like-of" : [ "https://twitter.com/SilentDawnLB/status/1513333505693990925" ],
