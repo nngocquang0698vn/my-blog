@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joshharrison/status/1513303441497546757" ],
     "name" : [ "Like of @joshharrison's tweet" ],
     "published" : [ "2022-04-11T22:18:00+0100" ],
     "category" : [ "wordle" ],
