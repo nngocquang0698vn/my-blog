@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emmy_zje/status/1512925806854643715" ],
     "name" : [ "Like of @emmy_zje's tweet" ],
     "published" : [ "2022-04-11T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/emmy_zje/status/1512925806854643715" ],
