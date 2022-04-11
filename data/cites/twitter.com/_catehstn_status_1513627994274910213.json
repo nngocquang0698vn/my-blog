@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Baltimore, MD" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Benjamin Young Savage (ᐱᓐᒋᐱᓐ)" ],
+          "nickname" : [ "benjancewicz" ],
+          "numeric-id" : [ "14216617" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1386507747991109632/z6CnJFsX.jpg" ],
+          "published" : [ "2008-03-25T16:20:19+00:00" ],
+          "uid" : [ "tag:twitter.com:benjancewicz" ],
+          "url" : [ "https://twitter.com/benjancewicz", "https://BenJancewicz.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Sounds like excuses to me" ],
+      "photo" : [ "https://pbs.twimg.com/media/FQCDW8EX0AQ5ksp.jpg" ],
+      "published" : [ "2022-04-11T03:11:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1513353907807957002" ],
+      "url" : [ "https://twitter.com/benjancewicz/status/1513353907807957002" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cork 🇨🇮 / Rotterdam 🇳🇱" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "cate, a human being" ],
+        "nickname" : [ "catehstn" ],
+        "numeric-id" : [ "22161956" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475180809657143301/Ell-_1KS.jpg" ],
+        "published" : [ "2009-02-27T17:10:52+00:00" ],
+        "uid" : [ "tag:twitter.com:catehstn" ],
+        "url" : [ "https://twitter.com/catehstn", "http://cate.blog", "http://wherethehelliscate.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I have long suspected this was why. But also: did they really know how to do that irl? 🤔" ],
+    "published" : [ "2022-04-11T21:20:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1513627994274910213" ],
+    "url" : [ "https://twitter.com/catehstn/status/1513627994274910213" ]
+  },
+  "type" : [ "h-entry" ]
+}
