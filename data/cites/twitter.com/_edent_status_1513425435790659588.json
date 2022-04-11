@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Parag Agrawal" ],
+          "nickname" : [ "paraga" ],
+          "numeric-id" : [ "14486697" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1375285353146327052/y6jeByyD.jpg" ],
+          "published" : [ "2008-04-23T06:45:48+00:00" ],
+          "uid" : [ "tag:twitter.com:paraga" ],
+          "url" : [ "https://twitter.com/paraga" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Elon has decided not to join our board. I sent a brief note to the company, sharing with you all here." ],
+      "photo" : [ {
+        "alt" : "Elon Musk decided not to join the Twitter Board. We were excited by the opportunity to collaborate and clear about the risks. We believed the best path forward was having Elon as a fiduciary of Twitter where he, like all board members, must act in the best interests of our company and our shareholders. The board offered him a seat (contingent on a background check and formal acceptance). The effective date was 4/9, but the same day Elon shared that he will no longer be joining. I believe this is for the best. We will always value input from shareholders and remain open to his. Our goals and priorities are unchanged. Let's tune out the noise and stay focused on what we’re building.",
+        "value" : "https://pbs.twimg.com/media/FQCEAWKacAI2zNi.jpg"
+      } ],
+      "published" : [ "2022-04-11T03:13:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1513354622466867201" ],
+      "url" : [ "https://twitter.com/paraga/status/1513354622466867201" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The other interesting thing about this Tweet is the difference between the image and the alt text.\nIt is probably because the message is over the 1,000 char limit for alt.\nBut goes to show how brevity makes a message clearer.</div>",
+      "value" : "The other interesting thing about this Tweet is the difference between the image and the alt text.\nIt is probably because the message is over the 1,000 char limit for alt.\nBut goes to show how brevity makes a message clearer."
+    } ],
+    "published" : [ "2022-04-11T07:55:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1513425435790659588" ],
+    "url" : [ "https://twitter.com/edent/status/1513425435790659588" ]
+  },
+  "type" : [ "h-entry" ]
+}
