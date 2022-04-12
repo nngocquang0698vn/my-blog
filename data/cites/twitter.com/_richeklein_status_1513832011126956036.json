@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Klein" ],
+        "nickname" : [ "richeklein" ],
+        "numeric-id" : [ "15620983" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1020747664034430976/JPVqzg4W.jpg" ],
+        "published" : [ "2008-07-27T15:47:51+00:00" ],
+        "uid" : [ "tag:twitter.com:richeklein" ],
+        "url" : [ "https://twitter.com/richeklein" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Any recommendations for a good tutorial or just read the docs?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/assertchris\"></a>",
+      "value" : "Any recommendations for a good tutorial or just read the docs?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/assertchris/status/1513750356332789769" ],
+    "published" : [ "2022-04-12T10:50:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1513832011126956036" ],
+    "url" : [ "https://twitter.com/richeklein/status/1513832011126956036" ]
+  },
+  "type" : [ "h-entry" ]
+}
