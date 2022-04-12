@@ -1,18 +1,19 @@
 ---
 title: "Prefactoring: Preparatory Refactoring"
-description: "Why I use prefactoring as a means to perform up-front refactoring for codebases, splitting these into separate PRs/MRs where possible."
-date: 2022-04-12T21:03:48+0100
+description: "Why I use prefactoring as a means to perform up-front refactoring for\
+  \ codebases, splitting these into separate PRs/MRs where possible."
+date: "2022-04-12T21:03:48+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1513973505662062593"
 tags:
 - "blogumentation"
 - "git"
 - "workflow"
-- refactoring
-- code-review
+- "refactoring"
+- "code-review"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: https://media.jvt.me/53239026de.png
+image: "https://media.jvt.me/53239026de.png"
 slug: "prefactor"
 ---
 Whether you're working on a new feature, a bug fix, or maybe even just a documentation tweak, touching an codebase gives you the opportunity to spot areas for refactoring.
