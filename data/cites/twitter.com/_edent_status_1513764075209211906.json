@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/SubstackInc\">@SubstackInc</a> heya - how do I import my *new* blog posts into Substack?\nI don't want to have to copy and paste them in manually every day.\nMy WordPress blog has an RSS feed and an API. Can I hook that up to your service?\nThanks!</div>",
+        "value" : "@SubstackInc heya - how do I import my *new* blog posts into Substack?\nI don't want to have to copy and paste them in manually every day.\nMy WordPress blog has an RSS feed and an API. Can I hook that up to your service?\nThanks!"
+      } ],
+      "published" : [ "2021-04-12T16:13:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1381641698711908359" ],
+      "url" : [ "https://twitter.com/edent/status/1381641698711908359" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The answer to this appears to be a resounding \"no\". So I've abandoned Substack.\nInteroperability with the open web is essential.</div>",
+      "value" : "The answer to this appears to be a resounding \"no\". So I've abandoned Substack.\nInteroperability with the open web is essential."
+    } ],
+    "published" : [ "2022-04-12T06:20:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1513764075209211906" ],
+    "url" : [ "https://twitter.com/edent/status/1513764075209211906" ]
+  },
+  "type" : [ "h-entry" ]
+}
