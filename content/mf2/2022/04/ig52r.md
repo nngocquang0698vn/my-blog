@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Milkjelly5/status/1513204895507169289" ],
     "name" : [ "Like of @Milkjelly5's tweet" ],
     "published" : [ "2022-04-11T22:37:00+0100" ],
     "category" : [ "cute" ],
