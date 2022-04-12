@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Troy, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "austin from new york" ],
+        "nickname" : [ "austinlparker" ],
+        "numeric-id" : [ "1855843464" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395403996739821568/hQIfKRgl.jpg" ],
+        "published" : [ "2013-09-12T00:58:38+00:00" ],
+        "uid" : [ "tag:twitter.com:austinlparker" ],
+        "url" : [ "https://twitter.com/austinlparker", "http://aparker.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "twitter is cool because you can do that and someone will dm asking for feet pics\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>",
+      "value" : "twitter is cool because you can do that and someone will dm asking for feet pics"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1513885949352198155" ],
+    "published" : [ "2022-04-12T14:25:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1513886059695906823" ],
+    "url" : [ "https://twitter.com/austinlparker/status/1513886059695906823" ]
+  },
+  "type" : [ "h-entry" ]
+}
