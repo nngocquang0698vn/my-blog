@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Johannes Gehrs 🥑" ],
+        "nickname" : [ "jogehrs" ],
+        "numeric-id" : [ "79454416" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1492559552222486528/YCDK20kF.jpg" ],
+        "published" : [ "2009-10-03T12:55:41+00:00" ],
+        "uid" : [ "tag:twitter.com:jogehrs" ],
+        "url" : [ "https://twitter.com/jogehrs", "http://jogehrs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The Go 1 runtime is quasi-deprecated and as a user it is very easy to substitute it with the custom runtime. Literally just name your binary \"bootstrap\" and it works! AWS does a bad job communicating this.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/QuinnyPig\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/awscloud\"></a>",
+      "value" : "The Go 1 runtime is quasi-deprecated and as a user it is very easy to substitute it with the custom runtime. Literally just name your binary \"bootstrap\" and it works! AWS does a bad job communicating this."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1513736475921174529" ],
+    "published" : [ "2022-04-12T04:35:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1513737552750071809" ],
+    "url" : [ "https://twitter.com/jogehrs/status/1513737552750071809" ]
+  },
+  "type" : [ "h-entry" ]
+}
