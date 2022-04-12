@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "✈️🌍" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andreas" ],
+        "nickname" : [ "i_x_s" ],
+        "numeric-id" : [ "76102788" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1081948922271150080/JrkTpr_b.jpg" ],
+        "published" : [ "2009-09-21T18:34:38+00:00" ],
+        "uid" : [ "tag:twitter.com:i_x_s" ],
+        "url" : [ "https://twitter.com/i_x_s", "http://blog.vodkamelone.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Uhm. Could you please elaborate a little bit?\n\nI'd consider tools like Puppet, Chef and Salt pretty much interchangable on CfgMgmt. Salt has way more options but one can run it pretty much the same way Puppet does.\n\nWhat is the thing that makes Puppet stand out?</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/KrisBuytaert\"></a>",
+      "value" : "Uhm. Could you please elaborate a little bit?\n\nI'd consider tools like Puppet, Chef and Salt pretty much interchangable on CfgMgmt. Salt has way more options but one can run it pretty much the same way Puppet does.\n\nWhat is the thing that makes Puppet stand out?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/KrisBuytaert/status/1513770170468208641" ],
+    "published" : [ "2022-04-12T06:56:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1513773017603710976" ],
+    "url" : [ "https://twitter.com/i_x_s/status/1513773017603710976" ]
+  },
+  "type" : [ "h-entry" ]
+}
