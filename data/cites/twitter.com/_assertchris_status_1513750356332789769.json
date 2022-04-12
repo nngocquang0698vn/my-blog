@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cape Town, South Africa" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "assertchris" ],
+        "nickname" : [ "assertchris" ],
+        "numeric-id" : [ "79140061" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254053770830532610/WWRMHczd.png" ],
+        "published" : [ "2009-10-02T09:34:38+00:00" ],
+        "uid" : [ "tag:twitter.com:assertchris" ],
+        "url" : [ "https://twitter.com/assertchris", "https://assertchris.io", "http://assertchris.itch.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Don't wait until you have an emergency to learn about git rebasing and cherrypicking. You won't need them often; but it's a superpower to be able to say; \"I know how to fix this problem, here's what you do...\"" ],
+    "published" : [ "2022-04-12T05:26:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1513750356332789769" ],
+    "url" : [ "https://twitter.com/assertchris/status/1513750356332789769" ]
+  },
+  "type" : [ "h-entry" ]
+}
