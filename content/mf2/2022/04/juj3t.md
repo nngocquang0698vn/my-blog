@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/splitbrain/blogrng/stargazers" ],
     "name" : [ "splitbrain/blogrng: Discover the indieweb, one blog post at a time." ],
     "published" : [ "2022-04-12T20:05:31.836907548Z" ],
     "like-of" : [ "https://github.com/splitbrain/blogrng" ],
