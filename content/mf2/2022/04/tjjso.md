@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jogehrs/status/1513737552750071809" ],
     "name" : [ "Like of @jogehrs's tweet" ],
     "published" : [ "2022-04-12T07:44:00+0100" ],
     "category" : [ "go", "aws-lambda" ],
