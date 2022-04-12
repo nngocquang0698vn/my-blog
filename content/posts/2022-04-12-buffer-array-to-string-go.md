@@ -1,17 +1,17 @@
 ---
 title: "Converting a Byte Array to String from a Node.JS `Buffer`, in Go"
 description: "How to convert an array of bytes to a string using Go."
-tags:
-- blogumentation
-- go
-- nodejs
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-04-12T21:40:41+0100
-slug: "buffer-array-to-string-go"
-image: "https://media.jvt.me/b41202acf7.png"
+date: "2022-04-12T21:40:41+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1513982167105351688"
+tags:
+- "blogumentation"
+- "go"
+- "nodejs"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/b41202acf7.png"
+slug: "buffer-array-to-string-go"
 ---
 As noted in [_Converting a Byte Array to String with `Buffer` in Node.JS_](https://www.jvt.me/posts/2020/04/20/buffer-array-to-string/), you may encounter serialised `Buffer`s when working with Node.JS projects.
 
