@@ -8,7 +8,7 @@
     "name" : [ "lestrrat-go/jwx at develop/v1" ],
     "published" : [ "2022-04-12T12:53:47.383098795Z" ],
     "category" : [ "go", "jose", "jwt" ],
-    "like-of" : [ "https://github.com/lestrrat-go/jwx/tree/develop/v1" ],
+    "like-of" : [ "https://github.com/lestrrat-go/jwx" ],
     "post-status" : [ "published" ]
   },
   "kind" : "likes",
