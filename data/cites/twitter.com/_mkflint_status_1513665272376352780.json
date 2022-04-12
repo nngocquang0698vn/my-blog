@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottinghamshire" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matthew Flint" ],
+          "nickname" : [ "mkflint" ],
+          "numeric-id" : [ "73369438" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/541249367949451264/vDVsZrXM.jpeg" ],
+          "published" : [ "2009-09-11T11:59:20+00:00" ],
+          "uid" : [ "tag:twitter.com:mkflint" ],
+          "url" : [ "https://twitter.com/mkflint" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I don’t talk about work much, but today has been fun:\n\nStarted the day by receiving a customer complaint, and ended the day with a pull request to fix the problem.</div>",
+        "value" : "I don’t talk about work much, but today has been fun:\n\nStarted the day by receiving a customer complaint, and ended the day with a pull request to fix the problem."
+      } ],
+      "published" : [ "2022-01-04T20:01:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1478456660440109056" ],
+      "url" : [ "https://twitter.com/mkflint/status/1478456660440109056" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottinghamshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Flint" ],
+        "nickname" : [ "mkflint" ],
+        "numeric-id" : [ "73369438" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/541249367949451264/vDVsZrXM.jpeg" ],
+        "published" : [ "2009-09-11T11:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:mkflint" ],
+        "url" : [ "https://twitter.com/mkflint" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This pull request was merged today.\nSo, yay, I guess…?</div>",
+      "value" : "This pull request was merged today.\nSo, yay, I guess…?"
+    } ],
+    "published" : [ "2022-04-11T23:48:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1513665272376352780" ],
+    "url" : [ "https://twitter.com/mkflint/status/1513665272376352780" ]
+  },
+  "type" : [ "h-entry" ]
+}
