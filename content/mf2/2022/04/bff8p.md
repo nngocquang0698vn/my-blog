@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SLandweird/status/1513111984807596036" ],
     "name" : [ "Like of @SLandweird's tweet" ],
     "published" : [ "2022-04-12T10:09:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
