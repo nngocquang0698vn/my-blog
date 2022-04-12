@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Leaving Debian - CoRecursive Podcast" ],
+    "summary" : [ "Today's story is an insider view of Debian. One of the oldest Linux distributions and probably one of the longest-running volunteer-based open-source projects. Joey Hess is my guest, and he dedicated significant parts of his adult life to working on Debian. He's going to share what that was like. The good and the bad, and it's almost all good. It's... […]" ],
+    "featured" : [ "https://corecursive.com/assets/images/070/wide.png" ],
+    "audio" : [ "https://chtbl.com/track/7D91G/traffic.libsyn.com/secure/corecursive/070_Leaving_Debian.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Gordon Bell" ]
+      }
+    } ],
+    "url" : [ "https://corecursive.com/leaving-debian/" ]
+  }
+}
