@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Redmond" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Fowler 🇧🇧🇺🇸" ],
+        "nickname" : [ "davidfowl" ],
+        "numeric-id" : [ "19481808" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1320061631339126786/gHKfzYft.jpg" ],
+        "published" : [ "2009-01-25T08:20:53+00:00" ],
+        "uid" : [ "tag:twitter.com:davidfowl" ],
+        "url" : [ "https://twitter.com/davidfowl", "http://ASP.NET" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Trying to find someone that knows how this piece of code works but everyone who knew has left the company..." ],
+    "published" : [ "2022-04-12T20:46:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1513981899521200135" ],
+    "url" : [ "https://twitter.com/davidfowl/status/1513981899521200135" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FQK-bj1VUAMuwaO.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
