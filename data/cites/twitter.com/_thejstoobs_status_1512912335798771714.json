@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Will Smith Must Return His Oscar to Restore the Award’s Honor (Guest Column) <a href=\"https://variety.com/2022/film/columns/harry-lennix-will-smith-chris-rock-slap-oscars-1235228965/\">variety.com/2022/film/colu…</a>",
+        "value" : "Will Smith Must Return His Oscar to Restore the Award’s Honor (Guest Column) variety.com/2022/film/colu…"
+      } ],
+      "published" : [ "2022-04-09T17:01:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1512838057866801155" ],
+      "url" : [ "https://twitter.com/Variety/status/1512838057866801155" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "jstoobs" ],
+        "nickname" : [ "thejstoobs" ],
+        "numeric-id" : [ "1347018118137311233" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489057858088054784/4NnTXTK6.jpg" ],
+        "published" : [ "2021-01-07T03:12:20+00:00" ],
+        "uid" : [ "tag:twitter.com:thejstoobs" ],
+        "url" : [ "https://twitter.com/thejstoobs", "https://direct.me/jstoobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Harrison Ford presenting Roman Polanski an Oscar in France, 2002. Polanski can’t attend the ceremony bc he plead guilty to raping a 13 year old in 1978 & fled. When he was announced the winner during the Oscars there was a standing ovation. This is the ‘honor’ they’re defending. " ],
+    "photo" : [ "https://pbs.twimg.com/media/FP7xwBkXIAUeqEY.jpg" ],
+    "published" : [ "2022-04-09T21:56:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1512912335798771714" ],
+    "url" : [ "https://twitter.com/thejstoobs/status/1512912335798771714" ]
+  },
+  "type" : [ "h-entry" ]
+}
