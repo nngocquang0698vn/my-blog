@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/austinlparker/status/1513886059695906823" ],
     "name" : [ "Like of @austinlparker's tweet" ],
     "published" : [ "2022-04-12T19:58:00+0100" ],
     "like-of" : [ "https://twitter.com/austinlparker/status/1513886059695906823" ],
