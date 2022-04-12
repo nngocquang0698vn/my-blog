@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/assertchris/status/1513750356332789769" ],
     "name" : [ "Like of @assertchris's tweet" ],
     "published" : [ "2022-04-12T12:06:00+0100" ],
     "category" : [ "git" ],
