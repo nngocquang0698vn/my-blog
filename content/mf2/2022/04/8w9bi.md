@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mkflint/status/1513665272376352780" ],
     "name" : [ "Like of @mkflint's tweet" ],
     "published" : [ "2022-04-12T07:36:00+0100" ],
     "like-of" : [ "https://twitter.com/mkflint/status/1513665272376352780" ],
