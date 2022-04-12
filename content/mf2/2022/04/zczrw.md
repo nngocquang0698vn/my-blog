@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EricHolthaus/status/1513552949838032903" ],
     "name" : [ "Like of @EricHolthaus's tweet" ],
     "published" : [ "2022-04-12T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/EricHolthaus/status/1513552949838032903" ],
