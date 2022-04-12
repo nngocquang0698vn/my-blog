@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mountain View, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chrome Developers" ],
+          "nickname" : [ "ChromiumDev" ],
+          "numeric-id" : [ "113713261" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1493981041073299465/Lf-9cv4V.png" ],
+          "published" : [ "2010-02-12T19:48:38+00:00" ],
+          "uid" : [ "tag:twitter.com:ChromiumDev" ],
+          "url" : [ "https://twitter.com/ChromiumDev", "https://web.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "🐡 <a href=\"https://twitter.com/LEGO_Education\">@LEGO_Education</a> developers use <a href=\"https://twitter.com/search?q=%23SerialAPI\">#SerialAPI</a> and <a href=\"https://twitter.com/search?q=%23WebBluetooth\">#WebBluetooth</a> in their newly launched web app <a href=\"https://spike.legoeducation.com\">spike.legoeducation.com</a> to connect to fun education robotics devices.",
+        "value" : "🐡 @LEGO_Education developers use #SerialAPI and #WebBluetooth in their newly launched web app spike.legoeducation.com to connect to fun education robotics devices."
+      } ],
+      "photo" : [ {
+        "alt" : "Screenshot of the DevTools panel featuring Web Bluetooth and Serial API in spike.legoeducation.com",
+        "value" : "https://pbs.twimg.com/media/FOl8CaAXEAMsB6X.jpg"
+      } ],
+      "published" : [ "2022-03-24T05:54:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1506872142796832769" ],
+      "url" : [ "https://twitter.com/ChromiumDev/status/1506872142796832769" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belfast, Northern Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Callahan" ],
+        "nickname" : [ "callahad" ],
+        "numeric-id" : [ "14431173" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1318561461677993985/QpcHRkC9.jpg" ],
+        "published" : [ "2008-04-18T08:47:21+00:00" ],
+        "uid" : [ "tag:twitter.com:callahad" ],
+        "url" : [ "https://twitter.com/callahad" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is what the Open Web is up against: Google rams a non-standard feature into Chromium against opposition from other vendors, and now your kid can't play with their LEGO unless you're using Chrome." ],
+    "published" : [ "2022-04-12T09:57:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1513818464980545536" ],
+    "url" : [ "https://twitter.com/callahad/status/1513818464980545536" ]
+  },
+  "type" : [ "h-entry" ]
+}
