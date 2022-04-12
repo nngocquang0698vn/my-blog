@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Online" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483456365960089603/p-J7gZwI.jpg" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "LinkedIn is cool because I can post about a k8s removal purely to ensure people's clusters don't fall over, and some jackass will use it to write a post about how this was great customer marketing and I'm \"re-engaging users to promote new features\" or \"leveraging the deprecation\"" ],
+    "published" : [ "2022-04-12T14:25:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1513885949352198155" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1513885949352198155" ]
+  },
+  "type" : [ "h-entry" ]
+}
