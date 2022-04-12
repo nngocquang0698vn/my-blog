@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/richeklein/status/1513832011126956036" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1513840557000466440" ],
     "name" : [ "Reply to https://twitter.com/richeklein/status/1513832011126956036" ],
     "published" : [ "2022-04-12T12:17:00+0100" ],
     "category" : [ "git" ],
