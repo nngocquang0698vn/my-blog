@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/apihandyman/status/1514184514662187009" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1514218632175304710" ],
     "name" : [ "Reply to https://twitter.com/apihandyman/status/1514184514662187009" ],
     "published" : [ "2022-04-13T13:19:00+0100" ],
     "post-status" : [ "published" ],
