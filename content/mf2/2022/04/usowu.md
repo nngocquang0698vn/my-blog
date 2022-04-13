@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ironicsans/status/1514095094449598468" ],
     "name" : [ "Like of @ironicsans's tweet" ],
     "published" : [ "2022-04-13T07:44:00+0100" ],
     "like-of" : [ "https://twitter.com/ironicsans/status/1514095094449598468" ],
