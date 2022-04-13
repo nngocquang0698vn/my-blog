@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AaronBastani/status/1514290168848543744" ],
     "name" : [ "Like of @AaronBastani's tweet" ],
     "published" : [ "2022-04-13T18:19:00+0100" ],
     "category" : [ "politics", "capitalism" ],
