@@ -1,0 +1,70 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, Sydney, Austin" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Atlassian" ],
+          "nickname" : [ "Atlassian" ],
+          "numeric-id" : [ "18060279" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1377989668189405192/II6ZfJPK.png" ],
+          "published" : [ "2008-12-11T21:01:28+00:00" ],
+          "uid" : [ "tag:twitter.com:Atlassian" ],
+          "url" : [ "https://twitter.com/Atlassian", "http://www.atlassian.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Update on cloud outage impacting ~400 customers. As part of scheduled maintenance our team ran a script to delete legacy data from a deprecated service. Instead of deleting the data the script erroneously deleted sites, and connected products, users, and 3rd party apps. (1/5)" ],
+      "published" : [ "2022-04-12T16:12:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1513913041540333569" ],
+      "url" : [ "https://twitter.com/Atlassian/status/1513913041540333569" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/atlassian/stat…" ],
+      "url" : [ "https://twitter.com/atlassian/status/1513913041540333569" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hertfordshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Evans" ],
+        "nickname" : [ "evnsio" ],
+        "numeric-id" : [ "20139298" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1513949478281170951/O91yfjrq.jpg" ],
+        "published" : [ "2009-02-05T11:23:40+00:00" ],
+        "uid" : [ "tag:twitter.com:evnsio" ],
+        "url" : [ "https://twitter.com/evnsio", "https://evns.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's so easy to throw shade on folks when things like this happen. Easy to jump to assumptions of incompetence and suggestions of how you'd have avoided getting in a similar situation.\n\nNo-one is immune to bad things happening.</div>\n<a class=\"tag\" href=\"https://twitter.com/atlassian/status/1513913041540333569\">twitter.com/atlassian/stat…</a>",
+      "value" : "It's so easy to throw shade on folks when things like this happen. Easy to jump to assumptions of incompetence and suggestions of how you'd have avoided getting in a similar situation.\n\nNo-one is immune to bad things happening."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Tías, Spain" ],
+        "uid" : [ "tag:twitter.com:5b9ed38cde4461e1" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-04-13T18:06:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1514304154780454917" ],
+    "url" : [ "https://twitter.com/evnsio/status/1514304154780454917" ]
+  },
+  "type" : [ "h-entry" ]
+}
