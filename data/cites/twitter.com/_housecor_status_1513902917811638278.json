@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cory House" ],
+        "nickname" : [ "housecor" ],
+        "numeric-id" : [ "19268321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/650743198348808192/LT6SeOJr.jpg" ],
+        "published" : [ "2009-01-21T00:57:19+00:00" ],
+        "uid" : [ "tag:twitter.com:housecor" ],
+        "url" : [ "https://twitter.com/housecor", "http://www.reactjsconsulting.com", "http://reactjsconsulting.com", "http://pluralsight.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One of the nice things about opinionated frameworks: They’re friendly to new developers.\n\nFewer decisions and more prescriptive guidance = less stress.\n\nAnd, it’s easier to move between different projects each project follows the same conventions.</div>",
+      "value" : "One of the nice things about opinionated frameworks: They’re friendly to new developers.\n\nFewer decisions and more prescriptive guidance = less stress.\n\nAnd, it’s easier to move between different projects each project follows the same conventions."
+    } ],
+    "published" : [ "2022-04-12T15:32:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1513902917811638278" ],
+    "url" : [ "https://twitter.com/housecor/status/1513902917811638278" ]
+  },
+  "type" : [ "h-entry" ]
+}
