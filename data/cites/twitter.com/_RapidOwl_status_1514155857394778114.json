@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Strong 🧀" ],
+        "nickname" : [ "RapidOwl" ],
+        "numeric-id" : [ "2903281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/925420454898266112/4bSGaIn-.jpg" ],
+        "published" : [ "2007-03-29T22:32:48+00:00" ],
+        "uid" : [ "tag:twitter.com:RapidOwl" ],
+        "url" : [ "https://twitter.com/RapidOwl", "https://samstrong.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey <a href=\"https://twitter.com/BuzzFeed\">@BuzzFeed</a>, where's our \"15 Disgraced British Politicians and the Reasons They Resigned\" listicle.",
+      "value" : "Hey @BuzzFeed, where's our \"15 Disgraced British Politicians and the Reasons They Resigned\" listicle."
+    } ],
+    "published" : [ "2022-04-13T08:17:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1514155857394778114" ],
+    "url" : [ "https://twitter.com/RapidOwl/status/1514155857394778114" ]
+  },
+  "type" : [ "h-entry" ]
+}
