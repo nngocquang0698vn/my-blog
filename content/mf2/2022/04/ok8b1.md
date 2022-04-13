@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TweatLdn/status/1514199335692652550" ],
     "name" : [ "Like of @TweatLdn's tweet" ],
     "published" : [ "2022-04-13T13:17:00+0100" ],
     "category" : [ "food" ],
