@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessica_schalz/status/1513924961928425476" ],
     "name" : [ "Like of @jessica_schalz's tweet" ],
     "published" : [ "2022-04-13T07:46:00+0100" ],
     "category" : [ "technical-writing", "documentation" ],
