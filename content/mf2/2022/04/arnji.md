@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Eve6/status/1514085126195466248" ],
     "name" : [ "Like of @Eve6's tweet" ],
     "published" : [ "2022-04-13T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/Eve6/status/1514085126195466248" ],
