@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RapidOwl/status/1514155857394778114" ],
     "name" : [ "Like of @RapidOwl's tweet" ],
     "published" : [ "2022-04-13T09:26:00+0100" ],
     "like-of" : [ "https://twitter.com/RapidOwl/status/1514155857394778114" ],
