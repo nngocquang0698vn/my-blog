@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "https://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Looking for <a href=\"https://twitter.com/search?q=%23HTTP\">#HTTP</a> status codes information but annoyed by the new full-of-advertising look of httpstatusesdotcom? <a href=\"https://twitter.com/davidbiesack\">@davidbiesack</a> has your back, he recreated an ad-free version <a href=\"https://davidbiesack.github.io/http-status-codes/\">davidbiesack.github.io/http-status-co…</a>",
+      "value" : "Looking for #HTTP status codes information but annoyed by the new full-of-advertising look of httpstatusesdotcom? @davidbiesack has your back, he recreated an ad-free version davidbiesack.github.io/http-status-co…"
+    } ],
+    "published" : [ "2022-04-13T10:11:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1514184514662187009" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1514184514662187009" ]
+  },
+  "type" : [ "h-entry" ]
+}
