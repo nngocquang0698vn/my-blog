@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bigfootjinx/status/1513987961632612358" ],
     "name" : [ "Like of @bigfootjinx's tweet" ],
     "published" : [ "2022-04-13T13:51:00+0100" ],
     "category" : [ "cute" ],
