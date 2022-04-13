@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VideosFolder/status/1514008968116457478" ],
     "name" : [ "Like of @VideosFolder's tweet" ],
     "published" : [ "2022-04-13T10:33:00+0100" ],
     "category" : [ "cute" ],
