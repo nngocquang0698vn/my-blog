@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Rylan/status/1514130861024817160" ],
     "name" : [ "Like of @Rylan's tweet" ],
     "published" : [ "2022-04-13T11:44:00+0100" ],
     "category" : [ "politics" ],
