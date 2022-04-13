@@ -9,7 +9,7 @@
     "post-status" : [ "draft" ],
     "content" : [ {
       "html" : "",
-      "value" : "Draft post for emoji testing.. please ignore / let me know if you see it 👀"
+      "value" : "Draft post for emoji testing.. please ignore / let me know if you see it ����\r\n\r\nAnd a change here"
     } ]
   },
   "kind" : "notes",
