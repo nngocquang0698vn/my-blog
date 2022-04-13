@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511501454678310918/tgfKpXkZ.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "These the same people that don’t test.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_breeeeen_\"></a>",
+      "value" : "These the same people that don’t test."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/_breeeeen_/status/1514091816412401666" ],
+    "published" : [ "2022-04-13T04:03:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1514091928563896321" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1514091928563896321" ]
+  },
+  "type" : [ "h-entry" ]
+}
