@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarahroseetter/status/1513558857003450372" ],
     "name" : [ "Like of @sarahroseetter's tweet" ],
     "published" : [ "2022-04-13T07:55:00+0100" ],
     "like-of" : [ "https://twitter.com/sarahroseetter/status/1513558857003450372" ],
