@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Otto" ],
+        "nickname" : [ "mdo" ],
+        "numeric-id" : [ "8207832" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196263867178872832/BET9cPgr.jpg" ],
+        "published" : [ "2007-08-15T17:23:32+00:00" ],
+        "uid" : [ "tag:twitter.com:mdo" ],
+        "url" : [ "https://twitter.com/mdo", "https://markdotto.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Watched Free Guy the other day and saw an Octocat sticker! Someone on the set design team should get a promotion. Awesome movie and attention to detail, <a href=\"https://twitter.com/VancityReynolds\">@VancityReynolds</a>! 😻",
+      "value" : "Watched Free Guy the other day and saw an Octocat sticker! Someone on the set design team should get a promotion. Awesome movie and attention to detail, @VancityReynolds! 😻"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FQPj2BSVgAE8_ej.jpg" ],
+    "published" : [ "2022-04-13T18:08:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1514304421588398086" ],
+    "url" : [ "https://twitter.com/mdo/status/1514304421588398086" ]
+  },
+  "type" : [ "h-entry" ]
+}
