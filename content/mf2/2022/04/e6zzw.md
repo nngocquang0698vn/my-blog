@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AidanCTweets/status/1513822345366061056" ],
     "name" : [ "Like of @AidanCTweets's tweet" ],
     "published" : [ "2022-04-13T16:00:00+0100" ],
     "like-of" : [ "https://twitter.com/AidanCTweets/status/1513822345366061056" ],
