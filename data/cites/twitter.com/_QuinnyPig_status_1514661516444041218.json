@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Corey Quinn" ],
+          "nickname" : [ "QuinnyPig" ],
+          "numeric-id" : [ "97114171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+          "published" : [ "2009-12-16T02:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:QuinnyPig" ],
+          "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This is entirely true:\n\nIn addition to being a great guy, <a href=\"https://twitter.com/SeamusBlackley\">@SeamusBlackley</a> is married to my wife’s first cousin once removed. \n\nSeamus is the father of the Xbox. \n\nTherefore: by marriage the <a href=\"https://twitter.com/Xbox\">@Xbox</a> is my second cousin, and I don’t gossip on Twitter about family.</div>",
+        "value" : "This is entirely true:\n\nIn addition to being a great guy, @SeamusBlackley is married to my wife’s first cousin once removed. \n\nSeamus is the father of the Xbox. \n\nTherefore: by marriage the @Xbox is my second cousin, and I don’t gossip on Twitter about family."
+      } ],
+      "published" : [ "2022-01-19T18:31:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1483869777676275713" ],
+      "url" : [ "https://twitter.com/QuinnyPig/status/1483869777676275713" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/quinnypig/stat…" ],
+      "url" : [ "https://twitter.com/quinnypig/status/1483869777676275713" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My cousin is awesome.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ChrisShort\"></a>\n<a class=\"tag\" href=\"https://twitter.com/quinnypig/status/1483869777676275713\">twitter.com/quinnypig/stat…</a>",
+      "value" : "My cousin is awesome."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ChrisShort/status/1514603340084043786" ],
+    "published" : [ "2022-04-14T17:47:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1514661516444041218" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1514661516444041218" ]
+  },
+  "type" : [ "h-entry" ]
+}
