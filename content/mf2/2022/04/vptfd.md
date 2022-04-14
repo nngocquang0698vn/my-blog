@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/victoriadrake/hugo-theme-introduction/stargazers" ],
     "name" : [ "Like of https://github.com/victoriadrake/hugo-theme-introduction" ],
     "published" : [ "2022-04-14T22:44:00+0100" ],
     "category" : [ "hugo" ],
