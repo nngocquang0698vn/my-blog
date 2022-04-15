@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SlowVibesPics/status/1515051373624184840" ],
     "name" : [ "Like of @SlowVibesPics's tweet" ],
     "published" : [ "2022-04-15T20:57:00+0100" ],
     "category" : [ "art" ],
