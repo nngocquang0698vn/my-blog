@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/electrifying/status/1514943794000633856" ],
     "name" : [ "Like of @electrifying's tweet" ],
     "published" : [ "2022-04-15T20:55:00+0100" ],
     "like-of" : [ "https://twitter.com/electrifying/status/1514943794000633856" ],
