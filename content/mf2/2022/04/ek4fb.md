@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EJFoody/status/1300110645694812160" ],
     "name" : [ "Like of @EJFoody's tweet" ],
     "published" : [ "2022-04-15T08:45:00+0100" ],
     "like-of" : [ "https://twitter.com/EJFoody/status/1300110645694812160" ],
