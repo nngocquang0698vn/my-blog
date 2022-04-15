@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeffLowell/status/1514764759668731942" ],
     "name" : [ "Like of @JeffLowell's tweet" ],
     "published" : [ "2022-04-15T08:46:00+0100" ],
     "like-of" : [ "https://twitter.com/JeffLowell/status/1514764759668731942" ],
