@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessitron/status/1471351025252519936" ],
     "name" : [ "Like of @jessitron's tweet" ],
     "published" : [ "2022-04-15T10:18:00+0100" ],
     "category" : [ "api" ],
