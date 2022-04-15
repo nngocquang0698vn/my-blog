@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kevinmarks/status/1514753504010776576" ],
     "name" : [ "Like of @kevinmarks's tweet" ],
     "published" : [ "2022-04-15T13:44:00+0100" ],
     "like-of" : [ "https://twitter.com/kevinmarks/status/1514753504010776576" ],
