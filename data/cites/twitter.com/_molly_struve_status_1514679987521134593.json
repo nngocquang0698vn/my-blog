@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly Struve 🦄" ],
+        "nickname" : [ "molly_struve" ],
+        "numeric-id" : [ "4542932414" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441894091084677123/EIwVtaj2.jpg" ],
+        "published" : [ "2015-12-13T01:44:07+00:00" ],
+        "uid" : [ "tag:twitter.com:molly_struve" ],
+        "url" : [ "https://twitter.com/molly_struve", "https://dev.to/molly_struve" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When you experience your first production outage" ],
+    "photo" : [ {
+      "alt" : "Two pictures.\nPicture one is on top and has Jesse from Toy story in it and she is looking at a big burly white dude. Jesse is labeled New CS grad and the guy is labeled Sr. Engineer. The text at the bottom of the picture reads, Jessie, listen to me! Remember your training!\n\nThe bottom picture is Jessie who has a terrified look on her face and the text at the bottom of that reads \"But I don't have any training\"",
+      "value" : "https://pbs.twimg.com/media/FQU4QzjXsAAYjho.png"
+    } ],
+    "published" : [ "2022-04-14T19:00:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1514679987521134593" ],
+    "url" : [ "https://twitter.com/molly_struve/status/1514679987521134593" ]
+  },
+  "type" : [ "h-entry" ]
+}
