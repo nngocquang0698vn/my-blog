@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Metropolis, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Superman Always" ],
+          "nickname" : [ "RickLeeJames4" ],
+          "numeric-id" : [ "1185741843474059264" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1350034865513766913/KxTwGUeZ.jpg" ],
+          "published" : [ "2019-10-20T02:17:52+00:00" ],
+          "uid" : [ "tag:twitter.com:RickLeeJames4" ],
+          "url" : [ "https://twitter.com/RickLeeJames4" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Saw this online and now it’s the only Superman movie I really want to see made." ],
+      "photo" : [ "https://pbs.twimg.com/media/FQRtGXLXoAAeHGk.jpg" ],
+      "published" : [ "2022-04-14T04:07:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1514455334882009091" ],
+      "url" : [ "https://twitter.com/RickLeeJames4/status/1514455334882009091" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "John Tuld 2024" ],
+        "nickname" : [ "TheMrDubois" ],
+        "numeric-id" : [ "1232853412510871552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1243376382425600001/opGR6ues.jpg" ],
+        "published" : [ "2020-02-27T02:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:TheMrDubois" ],
+        "url" : [ "https://twitter.com/TheMrDubois" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'd be willing to show up unmasked for this:\n\n<a href=\"https://twitter.com/RickLeeJames4/status/1514455334882009091?t=2kHEnYKXnDFYUjaPCwPWjA&s=19\">twitter.com/RickLeeJames4/…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AdamSerwer\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RickLeeJames4\"></a>",
+      "value" : "I'd be willing to show up unmasked for this:\n\ntwitter.com/RickLeeJames4/…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RickLeeJames4/status/1514455334882009091" ],
+    "published" : [ "2022-04-15T03:33:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1514809185422086155" ],
+    "url" : [ "https://twitter.com/TheMrDubois/status/1514809185422086155" ]
+  },
+  "type" : [ "h-entry" ]
+}
