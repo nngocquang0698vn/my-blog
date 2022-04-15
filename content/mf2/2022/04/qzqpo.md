@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1515007336158576647" ],
     "published" : [ "2022-04-15T17:33:00+0100" ],
     "category" : [ "production", "incident-management" ],
     "repost-of" : [ "https://twitter.com/markimbriaco/status/1514951855633227778" ],
