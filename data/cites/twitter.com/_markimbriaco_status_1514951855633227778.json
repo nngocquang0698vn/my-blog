@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Apex, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Imbriaco" ],
+        "nickname" : [ "markimbriaco" ],
+        "numeric-id" : [ "9887162" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1372959873802104836/i8zfbdRD.jpg" ],
+        "published" : [ "2007-11-02T14:56:54+00:00" ],
+        "uid" : [ "tag:twitter.com:markimbriaco" ],
+        "url" : [ "https://twitter.com/markimbriaco" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hot take: Anyone dunking on Atlassian about the fact that an outage like this could happen should not be trusted near production environments because they're either lying or don't have the experience to know what they're talking about." ],
+    "published" : [ "2022-04-15T13:00:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1514951855633227778" ],
+    "url" : [ "https://twitter.com/markimbriaco/status/1514951855633227778" ]
+  },
+  "type" : [ "h-entry" ]
+}
