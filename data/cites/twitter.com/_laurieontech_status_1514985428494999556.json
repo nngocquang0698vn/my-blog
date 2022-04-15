@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I imagine this is an issue for people whose work isn't public. But yes, especially for new engineers, that's often a great place to see their work.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SailorsBen\"></a>",
+      "value" : "I imagine this is an issue for people whose work isn't public. But yes, especially for new engineers, that's often a great place to see their work."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SailorsBen/status/1514985196696834054" ],
+    "published" : [ "2022-04-15T15:14:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1514985428494999556" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1514985428494999556" ]
+  },
+  "type" : [ "h-entry" ]
+}
