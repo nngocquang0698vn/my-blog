@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1431046769262006274/7GJFLo-A.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I just learned that *THIS* is the sudo logo and I'm going back to logging in as root for everything." ],
+    "photo" : [ "https://pbs.twimg.com/media/FQVtZX9VgBUnFas.jpg" ],
+    "published" : [ "2022-04-14T22:47:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1514737151862210564" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1514737151862210564" ]
+  },
+  "type" : [ "h-entry" ]
+}
