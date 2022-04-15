@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/LinuxSeb/status/1514827362700959744" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1515000705576312842" ],
     "name" : [ "Reply to https://twitter.com/LinuxSeb/status/1514827362700959744" ],
     "published" : [ "2022-04-15T17:07:00+0100" ],
     "post-status" : [ "published" ],
