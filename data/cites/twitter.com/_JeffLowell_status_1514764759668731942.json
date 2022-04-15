@@ -1,0 +1,47 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "E.J.Foody" ],
+          "nickname" : [ "EJFoody" ],
+          "numeric-id" : [ "994265867125899264" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/994267902025940992/TZeHmiYa.jpg" ],
+          "published" : [ "2018-05-09T17:20:30+00:00" ],
+          "uid" : [ "tag:twitter.com:EJFoody" ],
+          "url" : [ "https://twitter.com/EJFoody" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I want to see a comic about the CIA trying to murder Clark Kent and making it look like an accident. Not because they know he's Superman but because he's a really good journalist. Make it a comedy because the CIA assassins can't figure out why their attempts keep failing." ],
+      "photo" : [ "https://pbs.twimg.com/media/EgrrvbjX0AID53N.jpg" ],
+      "published" : [ "2020-08-30T16:38:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1300110645694812160" ],
+      "url" : [ "https://twitter.com/EJFoody/status/1300110645694812160" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "JeffLowell" ],
+        "nickname" : [ "JeffLowell" ],
+        "numeric-id" : [ "15134087" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/935354204230639616/Wy4oFBMd.jpg" ],
+        "published" : [ "2008-06-16T13:39:58+00:00" ],
+        "uid" : [ "tag:twitter.com:JeffLowell" ],
+        "url" : [ "https://twitter.com/JeffLowell", "http://www.imdb.com/name/nm0523094/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/ejfoody/status/1300110645694812160\">twitter.com/ejfoody/status…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RickLeeJames4\"></a>",
+      "value" : "twitter.com/ejfoody/status…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JeffLowell/status/1514763841720135698" ],
+    "published" : [ "2022-04-15T00:37:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1514764759668731942" ],
+    "url" : [ "https://twitter.com/JeffLowell/status/1514764759668731942" ]
+  },
+  "type" : [ "h-entry" ]
+}
