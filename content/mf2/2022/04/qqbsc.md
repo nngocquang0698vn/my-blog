@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elonmusk/status/1466942645545099272" ],
     "name" : [ "Like of @elonmusk's tweet" ],
     "published" : [ "2022-04-15T14:15:00+0100" ],
     "category" : [ "cryptocurrency", "memes" ],
