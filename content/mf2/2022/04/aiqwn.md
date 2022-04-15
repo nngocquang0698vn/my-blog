@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1514878100135464962" ],
     "published" : [ "2022-04-15T08:41:00+0100" ],
     "category" : [ "politics", "capitalism" ],
     "repost-of" : [ "https://twitter.com/Strandjunker/status/1514600683797839873" ],
