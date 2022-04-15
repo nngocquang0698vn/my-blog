@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "St. Louis, MO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica Joy Kerr" ],
+        "nickname" : [ "jessitron" ],
+        "numeric-id" : [ "25103" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312152929047056387/XlyllELc.jpg" ],
+        "published" : [ "2006-11-27T15:57:55+00:00" ],
+        "uid" : [ "tag:twitter.com:jessitron" ],
+        "url" : [ "https://twitter.com/jessitron", "http://jessitron.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">An API needs designing. It needs a conscious language and consistent conventions. \nStandard auth.\nPaging. \nCareful error codes and messages. \nVersioning.</div>",
+      "value" : "An API needs designing. It needs a conscious language and consistent conventions. \nStandard auth.\nPaging. \nCareful error codes and messages. \nVersioning."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jessitron/status/1471351023033720834" ],
+    "published" : [ "2021-12-16T05:26:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1471351025252519936" ],
+    "url" : [ "https://twitter.com/jessitron/status/1471351025252519936" ]
+  },
+  "type" : [ "h-entry" ]
+}
