@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThisIsMissEm/status/1514932163095023617" ],
     "name" : [ "Like of @ThisIsMissEm's tweet" ],
     "published" : [ "2022-04-15T13:48:00+0100" ],
     "like-of" : [ "https://twitter.com/ThisIsMissEm/status/1514932163095023617" ],
