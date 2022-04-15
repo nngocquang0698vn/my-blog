@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Gorman" ],
+        "nickname" : [ "jasongorman" ],
+        "numeric-id" : [ "18771008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1263155607143661570/l0XqgOna.jpg" ],
+        "published" : [ "2009-01-08T17:30:45+00:00" ],
+        "uid" : [ "tag:twitter.com:jasongorman" ],
+        "url" : [ "https://twitter.com/jasongorman", "http://www.codemanship.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If I had a database that was handling 90% reads and 10% writes, I'd optimise it for reads. On a totally unrelated note, software developers spend 10x as much time reading code as they do writing it." ],
+    "published" : [ "2022-04-14T09:34:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1514537523019669506" ],
+    "url" : [ "https://twitter.com/jasongorman/status/1514537523019669506" ]
+  },
+  "type" : [ "h-entry" ]
+}
