@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cleveland, OH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "null" ],
+        "nickname" : [ "thetechtokham" ],
+        "numeric-id" : [ "1394098295841202184" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1422327375107346442/JOILPmQd.jpg" ],
+        "published" : [ "2021-05-17T01:12:13+00:00" ],
+        "uid" : [ "tag:twitter.com:thetechtokham" ],
+        "url" : [ "https://twitter.com/thetechtokham", "https://beacons.page/ad8g" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think it’s in bad taste to screenshot and re-post private tweets publicly.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kefimochi\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ryanisnan\"></a>",
+      "value" : "I think it’s in bad taste to screenshot and re-post private tweets publicly."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ryanisnan/status/1514627593235927040" ],
+    "published" : [ "2022-04-14T16:50:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1514647202391597058" ],
+    "url" : [ "https://twitter.com/thetechtokham/status/1514647202391597058" ]
+  },
+  "type" : [ "h-entry" ]
+}
