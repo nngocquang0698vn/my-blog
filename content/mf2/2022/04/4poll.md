@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrittanyBronso1/status/1514647871278096389" ],
     "name" : [ "Like of @BrittanyBronso1's tweet" ],
     "published" : [ "2022-04-15T13:59:00+0100" ],
     "category" : [ "interviewing" ],
