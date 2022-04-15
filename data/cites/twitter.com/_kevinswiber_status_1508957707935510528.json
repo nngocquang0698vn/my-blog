@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Oakland, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kin Lane (he/him/it)" ],
+          "nickname" : [ "kinlane" ],
+          "numeric-id" : [ "5954192" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1398418826304184320/XSXDBskx.jpg" ],
+          "published" : [ "2007-05-11T08:17:59+00:00" ],
+          "uid" : [ "tag:twitter.com:kinlane" ],
+          "url" : [ "https://twitter.com/kinlane", "https://www.postman.com/events/breaking-changes/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "How would you define contract testing?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kevinswiber\"></a>",
+        "value" : "How would you define contract testing?"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/kevinswiber/status/1508847909197942785" ],
+      "published" : [ "2022-03-29T22:44:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1508938283211898884" ],
+      "url" : [ "https://twitter.com/kinlane/status/1508938283211898884" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Santa Cruz, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kevin Swiber" ],
+        "nickname" : [ "kevinswiber" ],
+        "numeric-id" : [ "15478303" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1392683005785763841/CAMp4K_g.jpg" ],
+        "published" : [ "2008-07-18T04:05:27+00:00" ],
+        "uid" : [ "tag:twitter.com:kevinswiber" ],
+        "url" : [ "https://twitter.com/kevinswiber", "https://swiber.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Contract testing allows quality-checking API producer code and API consumer code in isolation. The contract is the authority. This is faster and cheaper than testing a complete producer-consumer integration. Test results offer concrete discussion points when evolving APIs." ],
+    "published" : [ "2022-03-30T00:02:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1508957707935510528" ],
+    "url" : [ "https://twitter.com/kevinswiber/status/1508957707935510528" ]
+  },
+  "type" : [ "h-entry" ]
+}
