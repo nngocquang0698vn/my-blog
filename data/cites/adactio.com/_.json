@@ -1,0 +1,20 @@
+{
+  "type" : [ "h-card" ],
+  "properties" : {
+    "name" : [ "Jeremy Keith" ],
+    "role" : [ "web developer" ],
+    "job-title" : [ "author" ],
+    "url" : [ "https://adactio.com/" ],
+    "email" : [ "mailto:jeremy@adactio.com" ],
+    "adr" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Brighton" ],
+        "country-name" : [ "England" ]
+      },
+      "lang" : "en-ie",
+      "value" : "Brighton, England"
+    } ]
+  },
+  "lang" : "en-ie"
+}
