@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlexStrook/status/1514275301076918274" ],
     "name" : [ "Like of @AlexStrook's tweet" ],
     "published" : [ "2022-04-15T07:43:00+0100" ],
     "category" : [ "security" ],
