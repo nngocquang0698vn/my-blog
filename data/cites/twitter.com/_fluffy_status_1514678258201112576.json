@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@fluffy@plush.city" ],
+        "nickname" : [ "fluffy" ],
+        "numeric-id" : [ "993171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484774203127590919/6I3SicmB.png" ],
+        "published" : [ "2007-03-12T07:02:53+00:00" ],
+        "uid" : [ "tag:twitter.com:fluffy" ],
+        "url" : [ "https://twitter.com/fluffy", "http://beesbuzz.biz/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Also IndieWeb doesn't necessarily mean \"a blog\" or the like, and it doesn't mean having to go down the rabbit hole of supporting the various push protocols. At its core, it just means:\n\n1. Have your own web address\n2. Publish something, *anything*, to it</div>",
+      "value" : "Also IndieWeb doesn't necessarily mean \"a blog\" or the like, and it doesn't mean having to go down the rabbit hole of supporting the various push protocols. At its core, it just means:\n\n1. Have your own web address\n2. Publish something, *anything*, to it"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/fluffy/status/1514678013698453507" ],
+    "published" : [ "2022-04-14T18:53:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1514678258201112576" ],
+    "url" : [ "https://twitter.com/fluffy/status/1514678258201112576" ]
+  },
+  "type" : [ "h-entry" ]
+}
