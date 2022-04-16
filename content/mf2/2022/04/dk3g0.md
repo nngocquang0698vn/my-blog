@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ManateeControl/status/1515007053126905858" ],
     "name" : [ "Like of @ManateeControl's tweet" ],
     "published" : [ "2022-04-16T22:32:00+0100" ],
     "like-of" : [ "https://twitter.com/ManateeControl/status/1515007053126905858" ],
