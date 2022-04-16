@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StevenErick1976/status/1515297081853939712" ],
     "name" : [ "Like of @StevenErick1976's tweet" ],
     "published" : [ "2022-04-16T19:54:00+0100" ],
     "like-of" : [ "https://twitter.com/StevenErick1976/status/1515297081853939712" ],
