@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarah_edo/status/1515108624074358786" ],
     "name" : [ "Like of @sarah_edo's tweet" ],
     "published" : [ "2022-04-16T09:37:00+0100" ],
     "category" : [ "burnout" ],
