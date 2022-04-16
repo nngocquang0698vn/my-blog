@@ -1,0 +1,71 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "North of England, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "🇪🇺Jönathan💙Matthews🌈" ],
+          "nickname" : [ "JplusCplusM" ],
+          "numeric-id" : [ "37892604" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486461658398609409/G--ohuZf.jpg" ],
+          "published" : [ "2009-05-05T09:42:44+00:00" ],
+          "uid" : [ "tag:twitter.com:JplusCplusM" ],
+          "url" : [ "https://twitter.com/JplusCplusM", "https://pronoun.is/he/him" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "One thing that I /try/ and convince my clients to do, that could have reduced this attack's severity, is to link 3rd parties into your <a href=\"https://twitter.com/search?q=%23GitHub\">#GitHub</a> Org with per-party users and not individuals' accounts. This implies curating each 3rd-party's repo access via per-party Teams, which ... <a href=\"https://twitter.com/GitHubSecurity/status/1515101093419646976\">twitter.com/GitHubSecurity…</a>",
+        "value" : "One thing that I /try/ and convince my clients to do, that could have reduced this attack's severity, is to link 3rd parties into your #GitHub Org with per-party users and not individuals' accounts. This implies curating each 3rd-party's repo access via per-party Teams, which ... twitter.com/GitHubSecurity…"
+      } ],
+      "photo" : [ {
+        "alt" : "A screenshot of GitHub's Teams GUI, showing a Team called Systems, containing a Team called SaaS, containing a Team called Terraform Cloud,  which has 1 member.",
+        "value" : "https://pbs.twimg.com/media/FQcsKX0XIAIraQH.jpg"
+      } ],
+      "published" : [ "2022-04-16T07:21:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1515228975655788549" ],
+      "url" : [ "https://twitter.com/JplusCplusM/status/1515228975655788549" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/jpluscplusm/st…" ],
+      "url" : [ "https://twitter.com/jpluscplusm/status/1515228975655788549" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "To my knowledge the way to control per-repo permissions for a given OAuth integration at the moment is to create a dedicated user account - which is both highly non-obvious and presumably costs $48/user/year or more depending on your GitHub plan\n<a class=\"tag\" href=\"https://twitter.com/jpluscplusm/status/1515228975655788549\">twitter.com/jpluscplusm/st…</a>",
+      "value" : "To my knowledge the way to control per-repo permissions for a given OAuth integration at the moment is to create a dedicated user account - which is both highly non-obvious and presumably costs $48/user/year or more depending on your GitHub plan"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1515304808474832897" ],
+    "published" : [ "2022-04-16T12:38:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1515308609592201216" ],
+    "url" : [ "https://twitter.com/simonw/status/1515308609592201216" ]
+  },
+  "type" : [ "h-entry" ]
+}
