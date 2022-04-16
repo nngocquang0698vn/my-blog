@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/memesiwish/status/1515287776039645185" ],
     "name" : [ "Like of @memesiwish's tweet" ],
     "published" : [ "2022-04-16T13:53:00+0100" ],
     "category" : [ "cute" ],
