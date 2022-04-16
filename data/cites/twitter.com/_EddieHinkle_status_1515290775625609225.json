@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY. More 👉" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Thiago Ghisi" ],
+          "nickname" : [ "thiagoghisi" ],
+          "numeric-id" : [ "49197917" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1318348892853932033/FxMKmypV.jpg" ],
+          "published" : [ "2009-06-21T02:17:03+00:00" ],
+          "uid" : [ "tag:twitter.com:thiagoghisi" ],
+          "url" : [ "https://twitter.com/thiagoghisi", "https://typefully.com/thiagoghisi" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Not Incrementally Better, Fundamentally Different.\n\nWhen it comes to “staff engineering”, the old management saying of “what got you here won’t get you there” applies.\n\nBecoming a Staff Engineer is almost like becoming a Manager.\n\nIt’s a lateral move, It’s a completely new job.</div>",
+        "value" : "Not Incrementally Better, Fundamentally Different.\n\nWhen it comes to “staff engineering”, the old management saying of “what got you here won’t get you there” applies.\n\nBecoming a Staff Engineer is almost like becoming a Manager.\n\nIt’s a lateral move, It’s a completely new job."
+      } ],
+      "published" : [ "2022-04-16T11:08:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1515285912686522368" ],
+      "url" : [ "https://twitter.com/thiagoghisi/status/1515285912686522368" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eddie" ],
+        "nickname" : [ "EddieHinkle" ],
+        "numeric-id" : [ "308803734" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515231739316097027/IqauhHx0.png" ],
+        "published" : [ "2011-06-01T01:17:33+00:00" ],
+        "uid" : [ "tag:twitter.com:EddieHinkle" ],
+        "url" : [ "https://twitter.com/EddieHinkle", "https://eddiehinkle.com/?utm_source=Twitter&utm_medium=Social&utm_content=Profile" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Senior and Staff Engineers are different.\n\nSenior:\n\n- Focus on their team\n- Invest in individuals\n- Evaluated on personal growth \n\nStaff+:\n\n- Focus on the org or company\n- Invest in improving systems and processes\n- Evaluated on functional area growth\n\nStaff+ != Senior</div>",
+      "value" : "Senior and Staff Engineers are different.\n\nSenior:\n\n- Focus on their team\n- Invest in individuals\n- Evaluated on personal growth \n\nStaff+:\n\n- Focus on the org or company\n- Invest in improving systems and processes\n- Evaluated on functional area growth\n\nStaff+ != Senior"
+    } ],
+    "published" : [ "2022-04-16T11:27:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1515290775625609225" ],
+    "url" : [ "https://twitter.com/EddieHinkle/status/1515290775625609225" ]
+  },
+  "type" : [ "h-entry" ]
+}
