@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Everywhere software is built" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "GitHub Security" ],
+          "nickname" : [ "GitHubSecurity" ],
+          "numeric-id" : [ "1602746592" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/558392148697939968/FSHEYq_5.png" ],
+          "published" : [ "2013-07-18T07:00:48+00:00" ],
+          "uid" : [ "tag:twitter.com:GitHubSecurity" ],
+          "url" : [ "https://twitter.com/GitHubSecurity", "https://github.com/security" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "GitHub has uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI. Read more about the impact to GitHub, npm, and our users. <a href=\"https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/\">github.blog/2022-04-15-sec…</a>",
+        "value" : "GitHub has uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI. Read more about the impact to GitHub, npm, and our users. github.blog/2022-04-15-sec…"
+      } ],
+      "published" : [ "2022-04-15T22:53:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1515101093419646976" ],
+      "url" : [ "https://twitter.com/GitHubSecurity/status/1515101093419646976" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/githubsecurity…" ],
+      "url" : [ "https://twitter.com/githubsecurity/status/1515101093419646976" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The feature I most want from <a href=\"https://twitter.com/github\">@github</a> in response to this: make it MUCH easier to issue OAuth tokens (including personal access tokens) that are scoped to only allow access to specific repositories!\n<a class=\"tag\" href=\"https://twitter.com/githubsecurity/status/1515101093419646976\">twitter.com/githubsecurity…</a>",
+      "value" : "The feature I most want from @github in response to this: make it MUCH easier to issue OAuth tokens (including personal access tokens) that are scoped to only allow access to specific repositories!"
+    } ],
+    "published" : [ "2022-04-16T12:19:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1515303912324038658" ],
+    "url" : [ "https://twitter.com/simonw/status/1515303912324038658" ]
+  },
+  "type" : [ "h-entry" ]
+}
