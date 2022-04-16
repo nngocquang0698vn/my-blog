@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "All Kinds of Nope" ],
+        "nickname" : [ "woozleweasels" ],
+        "numeric-id" : [ "31251948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498877633605644291/DqB_uDWy.jpg" ],
+        "published" : [ "2009-04-14T22:44:21+00:00" ],
+        "uid" : [ "tag:twitter.com:woozleweasels" ],
+        "url" : [ "https://twitter.com/woozleweasels" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davenewworld_2\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/davenewworld_2/status/1515284320184934403" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQeDk1vXsAEhNxb.png" ],
+    "published" : [ "2022-04-16T13:41:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1515324479970451462" ],
+    "url" : [ "https://twitter.com/woozleweasels/status/1515324479970451462" ]
+  },
+  "type" : [ "h-entry" ]
+}
