@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators | The GitHub Blog" ],
+    "summary" : [ "On April 12, GitHub Security began an investigation that uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including npm. Read on to learn more about the impact to GitHub, npm, and our users." ],
+    "featured" : [ "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png" ],
+    "url" : [ "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/" ],
+    "published" : [ "2022-04-15T22:56:41+00:00" ]
+  }
+}
