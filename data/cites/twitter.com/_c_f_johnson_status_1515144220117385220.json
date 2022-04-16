@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Johnson" ],
+        "nickname" : [ "c_f_johnson" ],
+        "numeric-id" : [ "16224454" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789143382450774018/pezcW1-q.jpg" ],
+        "published" : [ "2008-09-10T17:50:21+00:00" ],
+        "uid" : [ "tag:twitter.com:c_f_johnson" ],
+        "url" : [ "https://twitter.com/c_f_johnson", "http://www.chrisjohnson.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you use Travis or Heroku you might want to consider all your code in GitHub compromised and your packages in NPM compromised. Nasty nasty stuff.   <a href=\"https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/\">github.blog/2022-04-15-sec…</a>",
+      "value" : "If you use Travis or Heroku you might want to consider all your code in GitHub compromised and your packages in NPM compromised. Nasty nasty stuff.   github.blog/2022-04-15-sec…"
+    } ],
+    "published" : [ "2022-04-16T01:45:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1515144220117385220" ],
+    "url" : [ "https://twitter.com/c_f_johnson/status/1515144220117385220" ]
+  },
+  "type" : [ "h-entry" ]
+}
