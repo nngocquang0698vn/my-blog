@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wkimeria/status/1515339945937817601" ],
     "name" : [ "Like of @wkimeria's tweet" ],
     "published" : [ "2022-04-16T16:08:00+0100" ],
     "like-of" : [ "https://twitter.com/wkimeria/status/1515339945937817601" ],
