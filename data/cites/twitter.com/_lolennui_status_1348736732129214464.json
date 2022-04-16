@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515109050052231169/cDmGvnFr.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "http://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "my gatsby themed wedding is just a regular wedding but with a dead guy in the pool for vibes" ],
+    "published" : [ "2021-01-11T21:01:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1348736732129214464" ],
+    "url" : [ "https://twitter.com/lolennui/status/1348736732129214464" ]
+  },
+  "type" : [ "h-entry" ]
+}
