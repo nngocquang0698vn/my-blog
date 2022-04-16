@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/madibskatin/status/1263550367327019014" ],
     "name" : [ "Like of @madibskatin's tweet" ],
     "published" : [ "2022-04-16T15:17:00+0100" ],
     "like-of" : [ "https://twitter.com/madibskatin/status/1263550367327019014" ],
