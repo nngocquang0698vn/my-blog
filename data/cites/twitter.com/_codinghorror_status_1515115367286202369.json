@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeff Atwood" ],
+        "nickname" : [ "codinghorror" ],
+        "numeric-id" : [ "5637652" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1246568020991864832/hh4FVqbl.jpg" ],
+        "published" : [ "2007-04-29T20:50:37+00:00" ],
+        "uid" : [ "tag:twitter.com:codinghorror" ],
+        "url" : [ "https://twitter.com/codinghorror", "http://blog.codinghorror.com", "http://stackoverflow.com", "http://discourse.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "when your own team schools you on what \"your own web\" means 🤣 cc <a href=\"https://twitter.com/anildash\">@anildash</a> <a href=\"https://twitter.com/oblakeerickson\">@oblakeerickson</a>",
+      "value" : "when your own team schools you on what \"your own web\" means 🤣 cc @anildash @oblakeerickson"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FQbFUZRVsAMi10J.png" ],
+    "published" : [ "2022-04-15T23:50:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1515115367286202369" ],
+    "url" : [ "https://twitter.com/codinghorror/status/1515115367286202369" ]
+  },
+  "type" : [ "h-entry" ]
+}
