@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Sacks" ],
+          "nickname" : [ "DavidSacks" ],
+          "numeric-id" : [ "1137701" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1398157893774413825/vQ-FwRtP.jpg" ],
+          "published" : [ "2007-03-14T04:14:58+00:00" ],
+          "uid" : [ "tag:twitter.com:DavidSacks" ],
+          "url" : [ "https://twitter.com/DavidSacks", "http://sacks.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">New Twitter CEO Checklist\n- Open-source the algorithm\n- Eliminate all bots\n- Restore free speech\n- Implement Coinbase policy on workplace politics\n- Fire useless employees (50%?)\n- No more company-wide days of rest (take vacation if you’re tired)</div>",
+        "value" : "New Twitter CEO Checklist\n- Open-source the algorithm\n- Eliminate all bots\n- Restore free speech\n- Implement Coinbase policy on workplace politics\n- Fire useless employees (50%?)\n- No more company-wide days of rest (take vacation if you’re tired)"
+      } ],
+      "published" : [ "2022-04-16T16:14:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1515363131249213444" ],
+      "url" : [ "https://twitter.com/DavidSacks/status/1515363131249213444" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Faraday Cage" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Smasher of DBs. First of her name." ],
+        "nickname" : [ "dbsmasher" ],
+        "numeric-id" : [ "20235586" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432719795162685455/eBFWpiKe.jpg" ],
+        "published" : [ "2009-02-06T13:16:46+00:00" ],
+        "uid" : [ "tag:twitter.com:dbsmasher" ],
+        "url" : [ "https://twitter.com/dbsmasher", "https://blog.dbsmasher.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Welcome to trash takes by brain worm VCs. \n\nSo much trash here I can’t even.</div>",
+      "value" : "Welcome to trash takes by brain worm VCs. \n\nSo much trash here I can’t even."
+    } ],
+    "published" : [ "2022-04-16T21:07:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1515436696959029252" ],
+    "url" : [ "https://twitter.com/dbsmasher/status/1515436696959029252" ]
+  },
+  "type" : [ "h-entry" ]
+}
