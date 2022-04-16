@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Califano" ],
+        "nickname" : [ "jackcalifano" ],
+        "numeric-id" : [ "776121625229991936" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476272947476451328/eASAwYer.jpg" ],
+        "published" : [ "2016-09-14T18:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:jackcalifano" ],
+        "url" : [ "https://twitter.com/jackcalifano", "http://dsausa.org/join" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One thing I love trying is forming a union with my coworkers.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Starbucks\"></a>",
+      "value" : "One thing I love trying is forming a union with my coworkers."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Starbucks/status/1514981898140852231" ],
+    "published" : [ "2022-04-15T20:05:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1515058829968519183" ],
+    "url" : [ "https://twitter.com/jackcalifano/status/1515058829968519183" ]
+  },
+  "type" : [ "h-entry" ]
+}
