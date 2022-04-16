@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/selfcare_tech/status/1515219669312933892" ],
     "name" : [ "Like of @selfcare_tech's tweet" ],
     "published" : [ "2022-04-16T11:42:00+0100" ],
     "like-of" : [ "https://twitter.com/selfcare_tech/status/1515219669312933892" ],
