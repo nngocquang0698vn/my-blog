@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/skilldrick/status/1515386676243156994" ],
     "name" : [ "Like of @skilldrick's tweet" ],
     "published" : [ "2022-04-16T19:59:00+0100" ],
     "like-of" : [ "https://twitter.com/skilldrick/status/1515386676243156994" ],
