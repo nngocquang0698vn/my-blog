@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AndrewIpsoFacto/status/1515276396482150403" ],
     "name" : [ "Like of @AndrewIpsoFacto's tweet" ],
     "published" : [ "2022-04-16T14:50:00+0100" ],
     "like-of" : [ "https://twitter.com/AndrewIpsoFacto/status/1515276396482150403" ],
