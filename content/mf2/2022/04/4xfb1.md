@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/glennpolley/status/1515319854227759109" ],
     "name" : [ "Like of @glennpolley's tweet" ],
     "published" : [ "2022-04-16T19:56:00+0100" ],
     "like-of" : [ "https://twitter.com/glennpolley/status/1515319854227759109" ],
