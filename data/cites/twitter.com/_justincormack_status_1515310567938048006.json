@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Suffolk, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Justin Cormack" ],
+        "nickname" : [ "justincormack" ],
+        "numeric-id" : [ "64172365" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1003388174503170048/gX41RPcq.jpg" ],
+        "published" : [ "2009-08-09T13:24:29+00:00" ],
+        "uid" : [ "tag:twitter.com:justincormack" ],
+        "url" : [ "https://twitter.com/justincormack", "https://www.cloudatomiclab.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You can create a github app - you actually don't really need to integrate an app, see examples like <a href=\"https://wesbos.com/scoped-github-access-token\">wesbos.com/scoped-github-…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>",
+      "value" : "You can create a github app - you actually don't really need to integrate an app, see examples like wesbos.com/scoped-github-…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1515308609592201216" ],
+    "published" : [ "2022-04-16T12:46:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1515310567938048006" ],
+    "url" : [ "https://twitter.com/justincormack/status/1515310567938048006" ]
+  },
+  "type" : [ "h-entry" ]
+}
