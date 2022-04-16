@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ResNeXtGuesser/status/1514764631067177011" ],
     "name" : [ "Like of @ResNeXtGuesser's tweet" ],
     "published" : [ "2022-04-16T11:42:00+0100" ],
     "category" : [ "ai" ],
