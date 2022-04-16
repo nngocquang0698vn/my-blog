@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codyogden/status/1515337958873833480" ],
     "name" : [ "Like of @codyogden's tweet" ],
     "published" : [ "2022-04-16T18:20:00+0100" ],
     "like-of" : [ "https://twitter.com/codyogden/status/1515337958873833480" ],
