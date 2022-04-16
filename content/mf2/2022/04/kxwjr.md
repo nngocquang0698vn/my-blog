@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jamie_hunsaker/status/1514996977557069828" ],
     "name" : [ "Like of @jamie_hunsaker's tweet" ],
     "published" : [ "2022-04-16T16:14:00+0100" ],
     "like-of" : [ "https://twitter.com/jamie_hunsaker/status/1514996977557069828" ],
