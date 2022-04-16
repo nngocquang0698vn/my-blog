@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly White" ],
+        "nickname" : [ "molly0xFFF" ],
+        "numeric-id" : [ "545445165" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488233929438027785/xxHMHmJQ.jpg" ],
+        "published" : [ "2012-04-04T19:00:12+00:00" ],
+        "uid" : [ "tag:twitter.com:molly0xFFF" ],
+        "url" : [ "https://twitter.com/molly0xFFF", "http://www.mollywhite.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/search?q=%23hugops\">#hugops</a> to the github/heroku folks. nothing like receiving an urgent security notification at midnight on a friday night to tell you they're having a bad time 😞",
+      "value" : "#hugops to the github/heroku folks. nothing like receiving an urgent security notification at midnight on a friday night to tell you they're having a bad time 😞"
+    } ],
+    "published" : [ "2022-04-16T14:52:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1515342405905616897" ],
+    "url" : [ "https://twitter.com/molly0xFFF/status/1515342405905616897" ]
+  },
+  "type" : [ "h-entry" ]
+}
