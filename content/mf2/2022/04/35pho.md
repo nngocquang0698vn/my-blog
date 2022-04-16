@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matress_island/status/1514746686043836428" ],
     "name" : [ "Like of @matress_island's tweet" ],
     "published" : [ "2022-04-16T22:32:00+0100" ],
     "like-of" : [ "https://twitter.com/matress_island/status/1514746686043836428" ],
