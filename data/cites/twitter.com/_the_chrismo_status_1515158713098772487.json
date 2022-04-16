@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "denton, tx" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "chrismo" ],
+        "nickname" : [ "the_chrismo" ],
+        "numeric-id" : [ "15043650" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/694396321411649536/Til_oHwC.png" ],
+        "published" : [ "2008-06-08T02:42:29+00:00" ],
+        "uid" : [ "tag:twitter.com:the_chrismo" ],
+        "url" : [ "https://twitter.com/the_chrismo", "http://clabs.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you need to verify the ID of the OAuth application, check the number at the end of the url like <a href=\"https://github.com/orgs/\">github.com/orgs/</a>&lt;org&gt;/policies/applications/145909 coming from the <a href=\"https://github.com/organizations/\">github.com/organizations/</a>&lt;org&gt;/settings/oauth_application_policy page.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GitHubSecurity\"></a>",
+      "value" : "If you need to verify the ID of the OAuth application, check the number at the end of the url like github.com/orgs/<org>/policies/applications/145909 coming from the github.com/organizations/<org>/settings/oauth_application_policy page."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GitHubSecurity/status/1515101093419646976" ],
+    "published" : [ "2022-04-16T02:42:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1515158713098772487" ],
+    "url" : [ "https://twitter.com/the_chrismo/status/1515158713098772487" ]
+  },
+  "type" : [ "h-entry" ]
+}
