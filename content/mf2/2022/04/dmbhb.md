@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CHlMERAERA/status/1375601258128547843" ],
     "name" : [ "Like of @CHlMERAERA's tweet" ],
     "published" : [ "2022-04-16T15:19:00+0100" ],
     "like-of" : [ "https://twitter.com/CHlMERAERA/status/1375601258128547843" ],
