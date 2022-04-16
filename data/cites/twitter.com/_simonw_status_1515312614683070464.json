@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Suffolk, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Justin Cormack" ],
+          "nickname" : [ "justincormack" ],
+          "numeric-id" : [ "64172365" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1003388174503170048/gX41RPcq.jpg" ],
+          "published" : [ "2009-08-09T13:24:29+00:00" ],
+          "uid" : [ "tag:twitter.com:justincormack" ],
+          "url" : [ "https://twitter.com/justincormack", "https://www.cloudatomiclab.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You can create a github app - you actually don't really need to integrate an app, see examples like <a href=\"https://wesbos.com/scoped-github-access-token\">wesbos.com/scoped-github-…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>",
+        "value" : "You can create a github app - you actually don't really need to integrate an app, see examples like wesbos.com/scoped-github-…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/simonw/status/1515308609592201216" ],
+      "published" : [ "2022-04-16T12:46:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1515310567938048006" ],
+      "url" : [ "https://twitter.com/justincormack/status/1515310567938048006" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Turns out there is another way to get a repository-scoped token using the \"GitHub Apps\" mechanism (which I've never managed to understand before) - this guide is really helpful\n\n<a href=\"https://twitter.com/github\">@github</a>: make this easier! And I really want this capability for personal access tokens</div>",
+      "value" : "Turns out there is another way to get a repository-scoped token using the \"GitHub Apps\" mechanism (which I've never managed to understand before) - this guide is really helpful\n\n@github: make this easier! And I really want this capability for personal access tokens"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1515308609592201216" ],
+    "published" : [ "2022-04-16T12:54:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1515312614683070464" ],
+    "url" : [ "https://twitter.com/simonw/status/1515312614683070464" ]
+  },
+  "type" : [ "h-entry" ]
+}
