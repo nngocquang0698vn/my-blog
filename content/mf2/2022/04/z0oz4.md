@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thecroc15/status/1514747188634660870" ],
     "name" : [ "Like of @thecroc15's tweet" ],
     "published" : [ "2022-04-16T15:55:00+0100" ],
     "like-of" : [ "https://twitter.com/thecroc15/status/1514747188634660870" ],
