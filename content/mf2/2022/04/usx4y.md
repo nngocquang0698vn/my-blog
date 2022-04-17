@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/suziegeewizz/status/1515675008009482241" ],
     "name" : [ "Like of @suziegeewizz's tweet" ],
     "published" : [ "2022-04-17T20:29:00+0100" ],
     "like-of" : [ "https://twitter.com/suziegeewizz/status/1515675008009482241" ],
