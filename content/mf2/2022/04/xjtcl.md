@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BootstrapCook/status/1515600903532863489" ],
     "name" : [ "Like of @BootstrapCook's tweet" ],
     "published" : [ "2022-04-17T15:55:00+0100" ],
     "like-of" : [ "https://twitter.com/BootstrapCook/status/1515600903532863489" ],
