@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/peckshield/sta…" ],
+        "url" : [ "https://twitter.com/peckshield/status/1515671775085928448" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "sf/nyc" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "surya" ],
+          "nickname" : [ "sdand" ],
+          "numeric-id" : [ "800117847774986240" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1501791949203853312/b4tl_AK0.jpg" ],
+          "published" : [ "2016-11-19T23:25:35+00:00" ],
+          "uid" : [ "tag:twitter.com:sdand" ],
+          "url" : [ "https://twitter.com/sdand", "http://sdan.io/s" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Beanstalk is a credit based stablecoin protocol that was hacked for ~$80 million an hour ago\n\nHow? By flashloan-ing enough collateral to become a supermajority voter and create a proposal(BIP) to effectively rug the protocol all in 1 tx\n\nlets dive in 👇</div>\n<a class=\"tag\" href=\"https://twitter.com/peckshield/status/1515671775085928448\">twitter.com/peckshield/sta…</a>",
+        "value" : "Beanstalk is a credit based stablecoin protocol that was hacked for ~$80 million an hour ago\n\nHow? By flashloan-ing enough collateral to become a supermajority voter and create a proposal(BIP) to effectively rug the protocol all in 1 tx\n\nlets dive in 👇"
+      } ],
+      "published" : [ "2022-04-17T14:14:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1515695132502380545" ],
+      "url" : [ "https://twitter.com/sdand/status/1515695132502380545" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Is it considered stealing if the attacker goes by the rules coded in the protocol?\n\nDeFi is learning the lessons the rest of the finance industry has done so the past ~100 years, and put guardrails against them.\n\nAll I can say it’s very profitable to exploit DeFi right now:</div>",
+      "value" : "Is it considered stealing if the attacker goes by the rules coded in the protocol?\n\nDeFi is learning the lessons the rest of the finance industry has done so the past ~100 years, and put guardrails against them.\n\nAll I can say it’s very profitable to exploit DeFi right now:"
+    } ],
+    "published" : [ "2022-04-17T19:03:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1515767913000710155" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1515767913000710155" ]
+  },
+  "type" : [ "h-entry" ]
+}
