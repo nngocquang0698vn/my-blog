@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/palmer_eldritch/status/1515353081008963584" ],
     "name" : [ "Like of @palmer_eldritch's tweet" ],
     "published" : [ "2022-04-17T08:27:00+0100" ],
     "like-of" : [ "https://twitter.com/palmer_eldritch/status/1515353081008963584" ],
