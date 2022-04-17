@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/g3thaunted/status/1515253186860306433" ],
     "name" : [ "Like of @g3thaunted's tweet" ],
     "published" : [ "2022-04-17T15:21:00+0100" ],
     "like-of" : [ "https://twitter.com/g3thaunted/status/1515253186860306433" ],
