@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/laurapeek_/status/1515224589227360262" ],
     "name" : [ "Like of @laurapeek_'s tweet" ],
     "published" : [ "2022-04-17T15:27:00+0100" ],
     "like-of" : [ "https://twitter.com/laurapeek_/status/1515224589227360262" ],
