@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GergelyOrosz/status/1515767913000710155" ],
     "name" : [ "Like of @GergelyOrosz's tweet" ],
     "published" : [ "2022-04-17T20:09:00+0100" ],
     "category" : [ "cryptocurrency" ],
