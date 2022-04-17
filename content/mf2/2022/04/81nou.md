@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/weirdlilguys/status/1514798917556314112" ],
     "name" : [ "Like of @weirdlilguys's tweet" ],
     "published" : [ "2022-04-17T07:53:00+0100" ],
     "category" : [ "cute" ],
