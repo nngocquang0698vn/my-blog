@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Telegram is now a super-app?" ],
+    "category" : [ "Telegram" ],
+    "url" : [ "https://jlelse.blog/thoughts/2022/04/telegram-super-app" ],
+    "published" : [ "2022-04-16T17:24:20+02:00" ],
+    "content" : [ {
+      "html" : "<p>It seems that there is a new <em><a href=\"https://en.wikipedia.org/wiki/Super-app\" target=\"_blank\" rel=\"noopener\">super-app</a></em>: Telegram. <a href=\"https://core.telegram.org/bots/webapps\" target=\"_blank\" rel=\"noopener\">Bots can now also use HTML5 and JavaScript and thus &#x201C;replace websites&#x201D;.</a></p><blockquote><p>Telegram bots can completely replace <strong>any website</strong>. They support seamless authorization, integrated payments via <strong>15</strong> payment providers (with <em>Google Pay</em> and <em>Apple Pay</em> out of the box), delivering tailored push notifications to users, and much more.</p><p>With <strong>Web Apps</strong>, bots get a whole new dimension. Bot developers can create <strong>infinitely flexible interfaces</strong> with <em>JavaScript</em>, the most widely used programming language in the world.</p></blockquote><p>On the one hand, it&#x2019;s exciting to see what kind of bots will develop and whether one can try something oneself. On the other hand, I would prefer an open web that is not limited to a few <em>super-apps</em>.</p><p>And in general: Telegram is a great messaging app so far, but I&#x2019;m afraid that the focus can get lost and Telegram tries too much, but then doesn&#x2019;t implement it very well.</p>",
+      "value" : "It seems that there is a new super-app: Telegram. Bots can now also use HTML5 and JavaScript and thus “replace websites”.\nTelegram bots can completely replace any website. They support seamless authorization, integrated payments via 15 payment providers (with Google Pay and Apple Pay out of the box), delivering tailored push notifications to users, and much more.\nWith Web Apps, bots get a whole new dimension. Bot developers can create infinitely flexible interfaces with JavaScript, the most widely used programming language in the world.\nOn the one hand, it’s exciting to see what kind of bots will develop and whether one can try something oneself. On the other hand, I would prefer an open web that is not limited to a few super-apps.\nAnd in general: Telegram is a great messaging app so far, but I’m afraid that the focus can get lost and Telegram tries too much, but then doesn’t implement it very well.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan-Lukas Else" ],
+        "photo" : [ "https://jlelse.dev/profile.png" ],
+        "url" : [ "https://jlelse.blog/" ]
+      },
+      "lang" : "en",
+      "value" : "Jan-Lukas Else"
+    } ]
+  },
+  "lang" : "en"
+}
