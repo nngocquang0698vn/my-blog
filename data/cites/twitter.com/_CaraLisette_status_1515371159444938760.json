@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cara Lisette" ],
+        "nickname" : [ "CaraLisette" ],
+        "numeric-id" : [ "2257107310" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1507676506813878273/JvRNns-t.jpg" ],
+        "published" : [ "2014-01-01T22:58:33+00:00" ],
+        "uid" : [ "tag:twitter.com:CaraLisette" ],
+        "url" : [ "https://twitter.com/CaraLisette", "http://www.caras-corner.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is the funniest headline I’ve ever seen" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQeuCZtWQAQ8MP2.jpg" ],
+    "published" : [ "2022-04-16T16:46:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1515371159444938760" ],
+    "url" : [ "https://twitter.com/CaraLisette/status/1515371159444938760" ]
+  },
+  "type" : [ "h-entry" ]
+}
