@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "AWS Lambda battle 2021: performance comparison for all languages (cold and warm start)" ],
+    "summary" : [ "Let’s compare the performance of all supported runtimes + 2 custom runtimes (Rust and GraalVM)." ],
+    "featured" : [ "https://miro.medium.com/max/1200/1*25p4ORG8OoX0MWE019kvWg.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aleksandr Filichkin" ]
+      }
+    } ],
+    "url" : [ "https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1" ],
+    "published" : [ "2021-11-05T17:24:14.550Z" ]
+  }
+}
