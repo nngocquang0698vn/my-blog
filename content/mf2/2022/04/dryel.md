@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chunkyfila/status/1515337105483964423" ],
     "name" : [ "Like of @chunkyfila's tweet" ],
     "published" : [ "2022-04-17T07:58:00+0100" ],
     "like-of" : [ "https://twitter.com/chunkyfila/status/1515337105483964423" ],
