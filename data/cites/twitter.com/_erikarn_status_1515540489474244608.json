@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adrian Chadd" ],
+        "nickname" : [ "erikarn" ],
+        "numeric-id" : [ "16497099" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494541784885579776/PZeq1zp2.jpg" ],
+        "published" : [ "2008-09-28T10:49:10+00:00" ],
+        "uid" : [ "tag:twitter.com:erikarn" ],
+        "url" : [ "https://twitter.com/erikarn", "http://adrianchadd.blogspot.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Excellent!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ohadelaide\"></a>",
+      "value" : "Excellent!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ohadelaide/status/1515539665234890760" ],
+    "published" : [ "2022-04-17T03:59:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1515540489474244608" ],
+    "url" : [ "https://twitter.com/erikarn/status/1515540489474244608" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FQhICXgVEAUzwZm.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
