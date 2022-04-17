@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sydney, New South Wales" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dave O'Flynn" ],
+        "nickname" : [ "daveoflynn" ],
+        "numeric-id" : [ "12929322" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/546695599022931969/xkYrIRgF.jpeg" ],
+        "published" : [ "2008-02-01T02:54:44+00:00" ],
+        "uid" : [ "tag:twitter.com:daveoflynn" ],
+        "url" : [ "https://twitter.com/daveoflynn", "http://engagetech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Would it be rude to log into work on a date just so you could say “your AWS certification is out of date boyo”?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/editingemily\"></a>",
+      "value" : "Would it be rude to log into work on a date just so you could say “your AWS certification is out of date boyo”?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/editingemily/status/1515506678917083140" ],
+    "published" : [ "2022-04-17T03:43:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1515536337302351874" ],
+    "url" : [ "https://twitter.com/daveoflynn/status/1515536337302351874" ]
+  },
+  "type" : [ "h-entry" ]
+}
