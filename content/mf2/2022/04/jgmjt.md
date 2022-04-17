@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/qirenni/status/1515511726275452931" ],
     "name" : [ "Like of @qirenni's tweet" ],
     "published" : [ "2022-04-17T08:20:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
