@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "127.0.0.1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Marino" ],
+        "nickname" : [ "Geekdomo" ],
+        "numeric-id" : [ "408422795" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1475113870087884813/XbbAiA_N.jpg" ],
+        "published" : [ "2011-11-09T12:01:53+00:00" ],
+        "uid" : [ "tag:twitter.com:Geekdomo" ],
+        "url" : [ "https://twitter.com/Geekdomo", "https://www.joepx.com", "https://bit.ly/OurSolarArray" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Happy Easter <a href=\"https://twitter.com/neilhimself\">@neilhimself</a> <a href=\"https://twitter.com/terryandrob\">@terryandrob</a> ❤️",
+      "value" : "Happy Easter @neilhimself @terryandrob ❤️"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FQjXAcyXsAEjbLN.jpg" ],
+    "published" : [ "2022-04-17T14:24:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1515697681087307786" ],
+    "url" : [ "https://twitter.com/Geekdomo/status/1515697681087307786" ]
+  },
+  "type" : [ "h-entry" ]
+}
