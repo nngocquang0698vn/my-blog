@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Vanity URL for Go packages" ],
+    "summary" : [ "Introduction If you have been working with Go programming language for a while, you would have noticed that a lot of open source packages that you import start with github.com/…. You would then use go get command to download the package and add it to your go.mod file. For instance:\n$ go get -u github.com/abvarun226/goiplookup What if you did not want this dependency on Github and rather wanted to host your own git server?" ],
+    "featured" : [ "https://ayada.dev/images/home-page.jpg" ],
+    "url" : [ "https://ayada.dev/posts/vanity-url-for-go-packages/" ],
+    "published" : [ "2020-12-03T00:00:00+00:00" ]
+  }
+}
