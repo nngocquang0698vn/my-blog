@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gurlcode/status/1515723439029600260" ],
     "name" : [ "Like of @gurlcode's tweet" ],
     "published" : [ "2022-04-17T20:09:00+0100" ],
     "like-of" : [ "https://twitter.com/gurlcode/status/1515723439029600260" ],
