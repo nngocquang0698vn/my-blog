@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/losslessdefi/s…" ],
+        "url" : [ "https://twitter.com/losslessdefi/status/1515710356433289216" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Beanstalk Farms" ],
+          "nickname" : [ "BeanstalkFarms" ],
+          "numeric-id" : [ "1435649312504041475" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1512090681132544003/IwsWciRu.jpg" ],
+          "published" : [ "2021-09-08T17:00:53+00:00" ],
+          "uid" : [ "tag:twitter.com:BeanstalkFarms" ],
+          "url" : [ "https://twitter.com/BeanstalkFarms", "https://bean.money", "http://discord.gg/jjAKBsc4mz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "We’re engaging all efforts to try to move forward. As a decentralized project, we are asking the DeFi community and experts in chain analytics to help us limit the exploiter's ability to withdraw funds via CEXes. If the exploiter is open to a discussion, we are as well.\n<a class=\"tag\" href=\"https://twitter.com/losslessdefi/status/1515710356433289216\">twitter.com/losslessdefi/s…</a>",
+        "value" : "We’re engaging all efforts to try to move forward. As a decentralized project, we are asking the DeFi community and experts in chain analytics to help us limit the exploiter's ability to withdraw funds via CEXes. If the exploiter is open to a discussion, we are as well."
+      } ],
+      "published" : [ "2022-04-17T17:40:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1515747114894065664" ],
+      "url" : [ "https://twitter.com/BeanstalkFarms/status/1515747114894065664" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/beanstalkfarms…" ],
+      "url" : [ "https://twitter.com/beanstalkfarms/status/1515747114894065664" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stealing $100M in diamonds is a criminal act, and those committing it were caught and imprisoned.\n\nExploiting $80M via a DeFi protocol is… not even stealing, apparently? No police involved, and all the DeFi protocol can do is… ask nicely to return the money:</div>\n<a class=\"tag\" href=\"https://twitter.com/beanstalkfarms/status/1515747114894065664\">twitter.com/beanstalkfarms…</a>",
+      "value" : "Stealing $100M in diamonds is a criminal act, and those committing it were caught and imprisoned.\n\nExploiting $80M via a DeFi protocol is… not even stealing, apparently? No police involved, and all the DeFi protocol can do is… ask nicely to return the money:"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1515769139482316812" ],
+    "published" : [ "2022-04-17T19:10:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1515769722381471754" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1515769722381471754" ]
+  },
+  "type" : [ "h-entry" ]
+}
