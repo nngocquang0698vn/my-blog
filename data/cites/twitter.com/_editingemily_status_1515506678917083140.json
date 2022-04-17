@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "us-emily-1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emily freeman 🇺🇸🇺🇦" ],
+        "nickname" : [ "editingemily" ],
+        "numeric-id" : [ "1066151600" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435023239126781953/YJth58YJ.jpg" ],
+        "published" : [ "2013-01-06T16:49:03+00:00" ],
+        "uid" : [ "tag:twitter.com:editingemily" ],
+        "url" : [ "https://twitter.com/editingemily", "https://givingatechtalk.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why I almost never date in tech:\n\nHim: I’m a Cloud Enterprise Architect. What do you do?\n\nMe: I run a developer relations program. \n\nHim: At least you have some clue what I’m talking about. \n\nMe: More than a clue.</div>",
+      "value" : "Why I almost never date in tech:\n\nHim: I’m a Cloud Enterprise Architect. What do you do?\n\nMe: I run a developer relations program. \n\nHim: At least you have some clue what I’m talking about. \n\nMe: More than a clue."
+    } ],
+    "published" : [ "2022-04-17T01:45:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1515506678917083140" ],
+    "url" : [ "https://twitter.com/editingemily/status/1515506678917083140" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FQgpSjdVcAECsW1.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
