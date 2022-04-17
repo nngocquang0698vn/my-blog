@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/damienkronfeld/status/1515418329921564681" ],
     "name" : [ "Like of @damienkronfeld's tweet" ],
     "published" : [ "2022-04-17T14:28:00+0100" ],
     "like-of" : [ "https://twitter.com/damienkronfeld/status/1515418329921564681" ],
