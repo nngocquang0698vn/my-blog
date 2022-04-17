@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Liz_Alfreda/status/1515585938461655041" ],
     "name" : [ "Like of @Liz_Alfreda's tweet" ],
     "published" : [ "2022-04-17T08:51:00+0100" ],
     "like-of" : [ "https://twitter.com/Liz_Alfreda/status/1515585938461655041" ],
