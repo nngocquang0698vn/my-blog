@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1515637896950206468" ],
     "photo" : [ {
       "alt" : "Cookie the dog lying on the decking, with her belly showing, and the sunlight warming her",
       "photo" : "https://media.jvt.me/bc2b1dbe61.jpeg"
