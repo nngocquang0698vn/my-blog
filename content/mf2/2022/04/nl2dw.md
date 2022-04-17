@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rootpilot/status/1515390913907867650" ],
     "name" : [ "Like of @rootpilot's tweet" ],
     "published" : [ "2022-04-17T11:07:00+0100" ],
     "category" : [ "gaming" ],
