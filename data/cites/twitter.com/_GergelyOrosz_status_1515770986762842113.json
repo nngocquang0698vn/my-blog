@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Dr. Ray" ],
+          "nickname" : [ "doctorrayhaan" ],
+          "numeric-id" : [ "995505258628464641" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1498394237523697667/dtyJeEw2.jpg" ],
+          "published" : [ "2018-05-13T03:25:24+00:00" ],
+          "uid" : [ "tag:twitter.com:doctorrayhaan" ],
+          "url" : [ "https://twitter.com/doctorrayhaan", "https://linktr.ee/doctorrayhaan" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Inside job probably\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BeanstalkFarms\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ConorMcTether\"></a>",
+        "value" : "Inside job probably"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/ConorMcTether/status/1515747310205952000" ],
+      "published" : [ "2022-04-17T17:47:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1515748795308519424" ],
+      "url" : [ "https://twitter.com/doctorrayhaan/status/1515748795308519424" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">And let’s not forget how thanks to the nature of DeFi, inside jobs are just as plausible as an attack.\n\nIf you develop a protocol, would you not be tempted to leave a small door to make off with tens of millions, and never be charged with any crimes?\n\nIt’s so tempting.</div>",
+      "value" : "And let’s not forget how thanks to the nature of DeFi, inside jobs are just as plausible as an attack.\n\nIf you develop a protocol, would you not be tempted to leave a small door to make off with tens of millions, and never be charged with any crimes?\n\nIt’s so tempting."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1515769722381471754" ],
+    "published" : [ "2022-04-17T19:15:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1515770986762842113" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1515770986762842113" ]
+  },
+  "type" : [ "h-entry" ]
+}
