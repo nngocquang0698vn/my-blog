@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ben Dreyfuss" ],
+        "nickname" : [ "bendreyfuss" ],
+        "numeric-id" : [ "18269124" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59.jpg" ],
+        "published" : [ "2008-12-20T17:19:32+00:00" ],
+        "uid" : [ "tag:twitter.com:bendreyfuss" ],
+        "url" : [ "https://twitter.com/bendreyfuss", "http://bendreyfuss.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Number of times I was sold “magic” beans that turned out just to be normal beans but it didn’t matter because I was able to imbue the beans with magic myself: 7-8" ],
+    "in-reply-to" : [ "https://twitter.com/bendreyfuss/status/1515880011537866757" ],
+    "published" : [ "2022-04-18T02:40:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1515882817380519937" ],
+    "url" : [ "https://twitter.com/bendreyfuss/status/1515882817380519937" ]
+  },
+  "type" : [ "h-entry" ]
+}
