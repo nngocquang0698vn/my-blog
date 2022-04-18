@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GlennIsZen/status/1515977928223436803" ],
     "name" : [ "Like of @GlennIsZen's tweet" ],
     "published" : [ "2022-04-18T10:40:00+0100" ],
     "category" : [ "art" ],
