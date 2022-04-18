@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Lazzaro" ],
+        "nickname" : [ "FreedomFilmLLC" ],
+        "numeric-id" : [ "17993557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1105608389382553604/cJH3Lur7.jpg" ],
+        "published" : [ "2008-12-09T15:44:17+00:00" ],
+        "uid" : [ "tag:twitter.com:FreedomFilmLLC" ],
+        "url" : [ "https://twitter.com/FreedomFilmLLC", "http://www.FreedomFIlmLLC.com", "http://FreedomFIlmLLC.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "4 days but still first thing I thought of.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kgreifeld\"></a>",
+      "value" : "4 days but still first thing I thought of."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kgreifeld/status/1515740332469755914" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQmJLOdXoAImwLB.jpg" ],
+    "published" : [ "2022-04-18T03:22:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1515893578609872902" ],
+    "url" : [ "https://twitter.com/FreedomFilmLLC/status/1515893578609872902" ]
+  },
+  "type" : [ "h-entry" ]
+}
