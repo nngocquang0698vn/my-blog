@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Artie Vierkant" ],
+          "nickname" : [ "avierkant" ],
+          "numeric-id" : [ "15805332" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486497331214266368/fYJAD1cH.jpg" ],
+          "published" : [ "2008-08-11T05:22:28+00:00" ],
+          "uid" : [ "tag:twitter.com:avierkant" ],
+          "url" : [ "https://twitter.com/avierkant", "https://www.patreon.com/deathpanelpod", "https://bit.ly/3Af2YaJ", "http://patreon.com/deathpanelpod" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "These two things are not comparable" ],
+      "photo" : [ "https://pbs.twimg.com/media/FQkAVwRX0AIjXzu.jpg" ],
+      "published" : [ "2022-04-17T17:24:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1515743126211674114" ],
+      "url" : [ "https://twitter.com/avierkant/status/1515743126211674114" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Thrasher" ],
+        "nickname" : [ "thrasherxy" ],
+        "numeric-id" : [ "1731805261" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371659901357936640/Hcj9VAdl.jpg" ],
+        "published" : [ "2013-09-05T12:19:29+00:00" ],
+        "uid" : [ "tag:twitter.com:thrasherxy" ],
+        "url" : [ "https://twitter.com/thrasherxy", "https://bit.ly/3I5BIxR", "http://bit.ly/3I5BIxR" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">48,000 ppl died in car crashes in the US in *all* of 2021 \n\n60,000 people died of Covid in *January*</div>",
+      "value" : "48,000 ppl died in car crashes in the US in *all* of 2021 \n\n60,000 people died of Covid in *January*"
+    } ],
+    "published" : [ "2022-04-17T18:02:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1515752580424650753" ],
+    "url" : [ "https://twitter.com/thrasherxy/status/1515752580424650753" ]
+  },
+  "type" : [ "h-entry" ]
+}
