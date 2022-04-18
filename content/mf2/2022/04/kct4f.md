@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/co0lsky/status/1516066558648455179" ],
     "name" : [ "Like of @co0lsky's tweet" ],
     "published" : [ "2022-04-18T17:19:00+0100" ],
     "category" : [ "leadership", "management" ],
