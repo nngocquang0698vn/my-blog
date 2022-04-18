@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/slvppy/status/1515722955132526598" ],
     "name" : [ "Like of @slvppy's tweet" ],
     "published" : [ "2022-04-18T12:44:00+0100" ],
     "like-of" : [ "https://twitter.com/slvppy/status/1515722955132526598" ],
