@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FreedomFilmLLC/status/1515893578609872902" ],
     "name" : [ "Like of @FreedomFilmLLC's tweet" ],
     "published" : [ "2022-04-18T08:50:00+0100" ],
     "category" : [ "coronavirus" ],
