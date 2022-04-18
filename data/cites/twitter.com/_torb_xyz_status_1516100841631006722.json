@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Norway" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Torb 🦋" ],
+        "nickname" : [ "torb_xyz" ],
+        "numeric-id" : [ "83771697" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1451979691003416579/muO7JVEp.jpg" ],
+        "published" : [ "2009-10-20T04:57:02+00:00" ],
+        "uid" : [ "tag:twitter.com:torb_xyz" ],
+        "url" : [ "https://twitter.com/torb_xyz", "https://www.torb.no" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Isn’t that literally how Lua got created? (I may be misremembering.)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mcclure111\"></a>",
+      "value" : "Isn’t that literally how Lua got created? (I may be misremembering.)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mcclure111/status/1516098196409307146" ],
+    "published" : [ "2022-04-18T17:06:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1516100841631006722" ],
+    "url" : [ "https://twitter.com/torb_xyz/status/1516100841631006722" ]
+  },
+  "type" : [ "h-entry" ]
+}
