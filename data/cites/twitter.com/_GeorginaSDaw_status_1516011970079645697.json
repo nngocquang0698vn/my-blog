@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Glasgow, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Darren Tarbard" ],
+          "nickname" : [ "tarbard" ],
+          "numeric-id" : [ "49304596" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/766329151317999616/hHXF8e75.jpg" ],
+          "published" : [ "2009-06-21T12:34:20+00:00" ],
+          "uid" : [ "tag:twitter.com:tarbard" ],
+          "url" : [ "https://twitter.com/tarbard" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I made a device that checks the council website and lights up to show you what colour bin to put out. I call it the Bindicator." ],
+      "photo" : [ "https://pbs.twimg.com/media/Del3rp-WsAES2IE.jpg", "https://pbs.twimg.com/media/Del3xAmXkAAWzYs.jpg" ],
+      "published" : [ "2018-06-01T08:17:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1002464120447397888" ],
+      "url" : [ "https://twitter.com/tarbard/status/1002464120447397888" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Georgina Daw" ],
+        "nickname" : [ "GeorginaSDaw" ],
+        "numeric-id" : [ "71093818" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1198681826954563584/JawheQYH.png" ],
+        "published" : [ "2009-09-02T22:22:59+00:00" ],
+        "uid" : [ "tag:twitter.com:GeorginaSDaw" ],
+        "url" : [ "https://twitter.com/GeorginaSDaw" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ncackerman\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tarbard\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ncackerman/status/1516006080094285825" ],
+    "published" : [ "2022-04-18T11:13:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1516011970079645697" ],
+    "url" : [ "https://twitter.com/GeorginaSDaw/status/1516011970079645697" ]
+  },
+  "type" : [ "h-entry" ]
+}
