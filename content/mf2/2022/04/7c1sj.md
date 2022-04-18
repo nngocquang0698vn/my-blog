@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/torb_xyz/status/1516100841631006722" ],
     "name" : [ "Like of @torb_xyz's tweet" ],
     "published" : [ "2022-04-18T20:19:00+0100" ],
     "category" : [ "lua" ],
