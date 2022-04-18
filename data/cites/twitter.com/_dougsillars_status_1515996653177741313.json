@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Coastal Maine" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Doug Sillars 🌻" ],
+        "nickname" : [ "dougsillars" ],
+        "numeric-id" : [ "17539957" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1437906333756530688/wmDn3_Bl.jpg" ],
+        "published" : [ "2008-11-21T16:46:18+00:00" ],
+        "uid" : [ "tag:twitter.com:dougsillars" ],
+        "url" : [ "https://twitter.com/dougsillars", "http://dougsillars.com", "http://orkes.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Happy 418!\n\nToday's HTTP status:\nI am a teapot.</div>",
+      "value" : "Happy 418!\n\nToday's HTTP status:\nI am a teapot."
+    } ],
+    "published" : [ "2022-04-18T10:12:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1515996653177741313" ],
+    "url" : [ "https://twitter.com/dougsillars/status/1515996653177741313" ]
+  },
+  "type" : [ "h-entry" ]
+}
