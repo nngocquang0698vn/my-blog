@@ -58,7 +58,7 @@ staticcheck:
   stage: build
   script:
     - go install honnef.co/go/tools/cmd/staticcheck@latest # ideally we should version pin
-    - staticcheck
+    - staticcheck ./...
 
 golint:
   stage: build
@@ -69,7 +69,7 @@ golint:
 build:
   stage: build
   script:
-    - go build
+    - go build ./...
   artifacts:
     # instead of manually adding i.e. the built binaries, we can instead just
     # grab anything not tracked in Git
