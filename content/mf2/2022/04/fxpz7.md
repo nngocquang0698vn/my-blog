@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dougsillars/status/1515996653177741313" ],
     "name" : [ "Like of @dougsillars's tweet" ],
     "published" : [ "2022-04-18T11:45:00+0100" ],
     "like-of" : [ "https://twitter.com/dougsillars/status/1515996653177741313" ],
