@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "steveklabnik" ],
+        "nickname" : [ "steveklabnik" ],
+        "numeric-id" : [ "22386062" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354221605359144961/DVfdZYms.jpg" ],
+        "published" : [ "2009-03-01T18:00:55+00:00" ],
+        "uid" : [ "tag:twitter.com:steveklabnik" ],
+        "url" : [ "https://twitter.com/steveklabnik", "https://www.steveklabnik.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Dying" ],
+    "photo" : [ {
+      "alt" : "Alexis onhanian “a ton of us (myself included) just learned about poison pills this week and they’re really not a good look”",
+      "value" : "https://pbs.twimg.com/media/FQllmHZXEAAynRB.jpg"
+    } ],
+    "published" : [ "2022-04-18T00:47:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1515854459078905860" ],
+    "url" : [ "https://twitter.com/steveklabnik/status/1515854459078905860" ]
+  },
+  "type" : [ "h-entry" ]
+}
