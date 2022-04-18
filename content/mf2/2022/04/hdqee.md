@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexisohanian/status/1515849006479515651" ],
     "name" : [ "Like of @alexisohanian's tweet" ],
     "published" : [ "2022-04-18T08:47:00+0100" ],
     "like-of" : [ "https://twitter.com/alexisohanian/status/1515849006479515651" ],
