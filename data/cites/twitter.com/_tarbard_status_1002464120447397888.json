@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Darren Tarbard" ],
+        "nickname" : [ "tarbard" ],
+        "numeric-id" : [ "49304596" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/766329151317999616/hHXF8e75.jpg" ],
+        "published" : [ "2009-06-21T12:34:20+00:00" ],
+        "uid" : [ "tag:twitter.com:tarbard" ],
+        "url" : [ "https://twitter.com/tarbard" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I made a device that checks the council website and lights up to show you what colour bin to put out. I call it the Bindicator." ],
+    "photo" : [ "https://pbs.twimg.com/media/Del3rp-WsAES2IE.jpg", "https://pbs.twimg.com/media/Del3xAmXkAAWzYs.jpg" ],
+    "published" : [ "2018-06-01T08:17:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1002464120447397888" ],
+    "url" : [ "https://twitter.com/tarbard/status/1002464120447397888" ]
+  },
+  "type" : [ "h-entry" ]
+}
