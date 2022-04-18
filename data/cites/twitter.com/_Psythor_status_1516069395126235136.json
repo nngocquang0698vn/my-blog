@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Glasgow, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Darren Tarbard" ],
+          "nickname" : [ "tarbard" ],
+          "numeric-id" : [ "49304596" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/766329151317999616/hHXF8e75.jpg" ],
+          "published" : [ "2009-06-21T12:34:20+00:00" ],
+          "uid" : [ "tag:twitter.com:tarbard" ],
+          "url" : [ "https://twitter.com/tarbard" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I made a device that checks the council website and lights up to show you what colour bin to put out. I call it the Bindicator." ],
+      "photo" : [ "https://pbs.twimg.com/media/Del3rp-WsAES2IE.jpg", "https://pbs.twimg.com/media/Del3xAmXkAAWzYs.jpg" ],
+      "published" : [ "2018-06-01T08:17:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1002464120447397888" ],
+      "url" : [ "https://twitter.com/tarbard/status/1002464120447397888" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James O'Malley" ],
+        "nickname" : [ "Psythor" ],
+        "numeric-id" : [ "629133" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/568745955562778624/xawiEt8-.jpeg" ],
+        "published" : [ "2007-01-12T16:05:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Psythor" ],
+        "url" : [ "https://twitter.com/Psythor", "http://jamesomalley.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A brilliant public service for some enterprising nerd would be to reverse engineer every local authority’s bin day API and document how to make calls to it. Like <a href=\"https://twitter.com/edent\">@edent</a> has done with Bexley here:\n\n<a href=\"https://shkspr.mobi/blog/2019/11/alexa-which-bins-do-i-need-to-take-out-reverse-engineering-the-bexley-council-bin-collection-api/\">shkspr.mobi/blog/2019/11/a…</a></div>",
+      "value" : "A brilliant public service for some enterprising nerd would be to reverse engineer every local authority’s bin day API and document how to make calls to it. Like @edent has done with Bexley here:\n\nshkspr.mobi/blog/2019/11/a…"
+    } ],
+    "published" : [ "2022-04-18T15:01:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1516069395126235136" ],
+    "url" : [ "https://twitter.com/Psythor/status/1516069395126235136" ]
+  },
+  "type" : [ "h-entry" ]
+}
