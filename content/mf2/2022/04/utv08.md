@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AssBoss80085/status/1515844398646546432" ],
     "name" : [ "Like of @AssBoss80085's tweet" ],
     "published" : [ "2022-04-18T11:45:00+0100" ],
     "like-of" : [ "https://twitter.com/AssBoss80085/status/1515844398646546432" ],
