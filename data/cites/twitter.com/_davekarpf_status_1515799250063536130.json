@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "dave karpf" ],
+        "nickname" : [ "davekarpf" ],
+        "numeric-id" : [ "18165124" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786635042671906816/w5eYzyMe.jpg" ],
+        "published" : [ "2008-12-16T16:12:08+00:00" ],
+        "uid" : [ "tag:twitter.com:davekarpf" ],
+        "url" : [ "https://twitter.com/davekarpf", "http://davekarpf.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Also Silicon Valley: “the future is going to built on distributed databases of jpeg receipts. It requires more computational power than several nation states.\n\nAfter we make a trillion dollars from this idea, we’ll fund some carbon offsets or something.”</div>",
+      "value" : "Also Silicon Valley: “the future is going to built on distributed databases of jpeg receipts. It requires more computational power than several nation states.\n\nAfter we make a trillion dollars from this idea, we’ll fund some carbon offsets or something.”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/davekarpf/status/1515798540806668290" ],
+    "published" : [ "2022-04-17T21:07:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1515799250063536130" ],
+    "url" : [ "https://twitter.com/davekarpf/status/1515799250063536130" ]
+  },
+  "type" : [ "h-entry" ]
+}
