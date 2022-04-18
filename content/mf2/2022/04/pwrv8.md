@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tarbard/status/1002464120447397888" ],
     "name" : [ "Like of @tarbard's tweet" ],
     "published" : [ "2022-04-18T18:52:00+0100" ],
     "like-of" : [ "https://twitter.com/tarbard/status/1002464120447397888" ],
