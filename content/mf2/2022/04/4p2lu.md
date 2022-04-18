@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KimComstock5/status/1515920569543409671" ],
     "name" : [ "Like of @KimComstock5's tweet" ],
     "published" : [ "2022-04-18T13:44:00+0100" ],
     "like-of" : [ "https://twitter.com/KimComstock5/status/1515920569543409671" ],
