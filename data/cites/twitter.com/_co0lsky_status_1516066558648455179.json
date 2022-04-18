@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Taylor Poindexter" ],
+          "nickname" : [ "engineering_bae" ],
+          "numeric-id" : [ "876448351268380672" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1447943097661415430/QCnZ8Uof.jpg" ],
+          "published" : [ "2017-06-18T14:35:45+00:00" ],
+          "uid" : [ "tag:twitter.com:engineering_bae" ],
+          "url" : [ "https://twitter.com/engineering_bae", "http://poindexter.dev" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What’s an important lesson you had to learn to become a better leader or manager?" ],
+      "published" : [ "2022-02-15T14:59:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1493600838048268302" ],
+      "url" : [ "https://twitter.com/engineering_bae/status/1493600838048268302" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Sky Chin" ],
+        "nickname" : [ "co0lsky" ],
+        "numeric-id" : [ "43306213" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/792549413935722498/B7x9-MlK.jpg" ],
+        "published" : [ "2009-05-29T10:12:43+00:00" ],
+        "uid" : [ "tag:twitter.com:co0lsky" ],
+        "url" : [ "https://twitter.com/co0lsky" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Remember, you're not in charge. You're responsible for those in your charge\" - Simon Sinek" ],
+    "published" : [ "2022-04-18T14:50:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1516066558648455179" ],
+    "url" : [ "https://twitter.com/co0lsky/status/1516066558648455179" ]
+  },
+  "type" : [ "h-entry" ]
+}
