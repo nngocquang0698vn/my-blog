@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/ryanbethel/arc-plugin-oauth/stargazers" ],
     "name" : [ "Like of https://github.com/ryanbethel/arc-plugin-oauth" ],
     "published" : [ "2022-04-18T20:16:00+0100" ],
     "category" : [ "architect-framework" ],
