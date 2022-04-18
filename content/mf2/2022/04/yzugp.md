@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WTMMP/status/1251285960819687426" ],
     "name" : [ "Like of @WTMMP's tweet" ],
     "published" : [ "2022-04-18T11:28:00+0100" ],
     "category" : [ "memes" ],
