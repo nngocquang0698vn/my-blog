@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515109050052231169/cDmGvnFr.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "http://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "are tech companies just gonna reinvent conference calls every six months until the meteor" ],
+    "published" : [ "2022-04-18T17:19:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1516104142011486215" ],
+    "url" : [ "https://twitter.com/lolennui/status/1516104142011486215" ]
+  },
+  "type" : [ "h-entry" ]
+}
