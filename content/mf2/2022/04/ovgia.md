@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dannyodwyer/status/1516318008502751232" ],
     "name" : [ "Like of @dannyodwyer's tweet" ],
     "published" : [ "2022-04-19T10:03:00+0100" ],
     "like-of" : [ "https://twitter.com/dannyodwyer/status/1516318008502751232" ],
