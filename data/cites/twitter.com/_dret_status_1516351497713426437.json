@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zurich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik Wilde" ],
+        "nickname" : [ "dret" ],
+        "numeric-id" : [ "13072452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/828971507820982272/5IhAUAal.jpg" ],
+        "published" : [ "2008-02-05T00:01:31+00:00" ],
+        "uid" : [ "tag:twitter.com:dret" ],
+        "url" : [ "https://twitter.com/dret", "https://www.youtube.com/c/ErikWilde" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Unpopular opinion: If your <a href=\"https://twitter.com/jsonschema\">@jsonschema</a> doesn't say `additionalProperties: false`, then your <a href=\"https://twitter.com/search?q=%23API\">#API</a> should have an explicit processing model for additional properties. And your sandbox/mock should randomly generate some, just to make sure that forward compatibility will be working.",
+      "value" : "Unpopular opinion: If your @jsonschema doesn't say `additionalProperties: false`, then your #API should have an explicit processing model for additional properties. And your sandbox/mock should randomly generate some, just to make sure that forward compatibility will be working."
+    } ],
+    "published" : [ "2022-04-19T09:42:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1516351497713426437" ],
+    "url" : [ "https://twitter.com/dret/status/1516351497713426437" ]
+  },
+  "type" : [ "h-entry" ]
+}
