@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Pittsburgh, PA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Michael Granovetter" ],
+          "nickname" : [ "mgranovetter" ],
+          "numeric-id" : [ "1071553595735203840" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1071638775808311297/ecOSYb6i.jpg" ],
+          "published" : [ "2018-12-08T23:54:20+00:00" ],
+          "uid" : [ "tag:twitter.com:mgranovetter" ],
+          "url" : [ "https://twitter.com/mgranovetter", "https://www.cmu.edu/dietrich/behrmannlab/People/current-researchers/michaelgranovetter.html" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Wearing a mask when exposed to a carrier with no mask: upper bound risk of infection is 30%\n\nWhen everyone is masked: upper bound risk of infection is 0.4%\n\nPublic health breaks down when one makes it about personal choice\n\n<a href=\"https://www.pnas.org/doi/10.1073/pnas.2110117118#sec-2\">pnas.org/doi/10.1073/pn…</a></div>",
+        "value" : "Wearing a mask when exposed to a carrier with no mask: upper bound risk of infection is 30%\n\nWhen everyone is masked: upper bound risk of infection is 0.4%\n\nPublic health breaks down when one makes it about personal choice\n\npnas.org/doi/10.1073/pn…"
+      } ],
+      "published" : [ "2022-04-19T03:01:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1516250661524058125" ],
+      "url" : [ "https://twitter.com/mgranovetter/status/1516250661524058125" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kate Taggart" ],
+        "nickname" : [ "qkate" ],
+        "numeric-id" : [ "37586090" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1035671141598285824/48WwuXyb.jpg" ],
+        "published" : [ "2009-05-04T03:38:47+00:00" ],
+        "uid" : [ "tag:twitter.com:qkate" ],
+        "url" : [ "https://twitter.com/qkate", "http://www.katetaggart.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I am begging you to internalize this math and also educate everyone around you on it:" ],
+    "published" : [ "2022-04-19T16:40:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1516456816598609921" ],
+    "url" : [ "https://twitter.com/qkate/status/1516456816598609921" ]
+  },
+  "type" : [ "h-entry" ]
+}
