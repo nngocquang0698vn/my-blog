@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gRegorLove/status/1516292012101693440" ],
     "name" : [ "Like of @gRegorLove's tweet" ],
     "published" : [ "2022-04-19T07:46:00+0100" ],
     "like-of" : [ "https://twitter.com/gRegorLove/status/1516292012101693440" ],
