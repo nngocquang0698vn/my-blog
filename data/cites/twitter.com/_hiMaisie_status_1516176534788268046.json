@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511368927913381891/vYI1PRLS.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "look. if you have a crush on me, you legally have to tell me, i'm far too oblivious to pick up signals 😅" ],
+    "published" : [ "2022-04-18T22:07:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1516176534788268046" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1516176534788268046" ]
+  },
+  "type" : [ "h-entry" ]
+}
