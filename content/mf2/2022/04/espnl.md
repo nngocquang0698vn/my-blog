@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/projectfunction/status/1516526389448654856" ],
     "name" : [ "Like of @projectfunction's tweet" ],
     "published" : [ "2022-04-19T22:31:00+0100" ],
     "category" : [ "project-function" ],
