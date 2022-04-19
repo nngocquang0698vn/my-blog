@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Custom Go Vanity URL for Cheap Using Amazon Lambda" ],
+    "summary" : [ "go’s CLI tool provides a very powerful way of accessing your code, specifically the subcommand go get. Typical people use go get for it’s resolving and adding dependencies to their package but it can also be used as a proxy for git clone. It can also resolve these dependencies from any domain that returns the right html." ],
+    "featured" : [ "https://hein.dev/images/chrishein-black.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Chris Hein" ]
+      }
+    } ],
+    "url" : [ "https://hein.dev/blog/2019/08/using-go-path-router/" ]
+  }
+}
