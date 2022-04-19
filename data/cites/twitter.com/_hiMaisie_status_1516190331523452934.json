@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "maisie 💖" ],
+        "nickname" : [ "hiMaisie" ],
+        "numeric-id" : [ "1339394528" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511368927913381891/vYI1PRLS.jpg" ],
+        "published" : [ "2013-04-09T14:51:23+00:00" ],
+        "uid" : [ "tag:twitter.com:hiMaisie" ],
+        "url" : [ "https://twitter.com/hiMaisie", "https://mbell.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "ngl it took izzy multiple times for me to get the bloody hint, i literally read everything as \"just being friendly\" 🥲" ],
+    "in-reply-to" : [ "https://twitter.com/hiMaisie/status/1516176534788268046" ],
+    "published" : [ "2022-04-18T23:01:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1516190331523452934" ],
+    "url" : [ "https://twitter.com/hiMaisie/status/1516190331523452934" ]
+  },
+  "type" : [ "h-entry" ]
+}
