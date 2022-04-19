@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/H3KTlC/status/1516455912332050434" ],
     "name" : [ "Like of @H3KTlC's tweet" ],
     "published" : [ "2022-04-19T17:47:00+0100" ],
     "category" : [ "incident-management" ],
