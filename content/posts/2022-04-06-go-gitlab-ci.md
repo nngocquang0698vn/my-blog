@@ -64,7 +64,7 @@ golint:
   stage: build
   script:
     - go install golang.org/x/lint/golint@latest # ideally we should version pin
-    - golint ./... -set_exit_status
+    - golint -set_exit_status ./...
 
 build:
   stage: build
