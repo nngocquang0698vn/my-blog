@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "São Paulo, Brasil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vitor Ferreira" ],
+        "nickname" : [ "VitorCSF" ],
+        "numeric-id" : [ "1494754441798504452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503344231120781328/7OYsZKFd.jpg" ],
+        "published" : [ "2022-02-18T19:23:45+00:00" ],
+        "uid" : [ "tag:twitter.com:VitorCSF" ],
+        "url" : [ "https://twitter.com/VitorCSF" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "New meme format\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MarvelStudios\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/thorofficial\"></a>",
+      "value" : "New meme format"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MarvelStudios/status/1516054059156865030" ],
+    "photo" : [ "https://pbs.twimg.com/media/FQoeWWXWYAAulh8.jpg" ],
+    "published" : [ "2022-04-18T14:14:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1516057599187329032" ],
+    "url" : [ "https://twitter.com/VitorCSF/status/1516057599187329032" ]
+  },
+  "type" : [ "h-entry" ]
+}
