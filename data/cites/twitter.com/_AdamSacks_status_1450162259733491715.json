@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Sacks" ],
+        "nickname" : [ "AdamSacks" ],
+        "numeric-id" : [ "18736750" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1104405398059212800/P0U_Tey7.jpg" ],
+        "published" : [ "2009-01-07T20:28:32+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamSacks" ],
+        "url" : [ "https://twitter.com/AdamSacks", "http://AdamSacks.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If I gave this neon colors and drew Frodo holding a bong, could I get rich selling it as an NFT?" ],
+    "photo" : [ "https://pbs.twimg.com/media/FCACt3-XoAcjCS7.jpg" ],
+    "published" : [ "2021-10-18T18:10:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1450162259733491715" ],
+    "url" : [ "https://twitter.com/AdamSacks/status/1450162259733491715" ]
+  },
+  "type" : [ "h-entry" ]
+}
