@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Testing in Go: Subtests" ],
+    "summary" : [ "Before we begin: The content in this article assumes knowledge of table-driven tests in Go." ],
+    "featured" : [ "https://ieftimov.com/cards/testing-in-go-subtests.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ilija Eftimov" ]
+      }
+    } ],
+    "url" : [ "https://ieftimov.com/posts/testing-in-go-subtests/" ],
+    "published" : [ "2021-06-12T00:00:00+00:00" ]
+  }
+}
