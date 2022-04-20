@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KnowNothingTV/status/1516596183036215296" ],
     "name" : [ "Like of @KnowNothingTV's tweet" ],
     "published" : [ "2022-04-20T17:31:00+0100" ],
     "like-of" : [ "https://twitter.com/KnowNothingTV/status/1516596183036215296" ],
