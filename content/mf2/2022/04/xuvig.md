@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/skamille/status/1516725122983333890" ],
     "name" : [ "Like of @skamille's tweet" ],
     "published" : [ "2022-04-20T12:07:00+0100" ],
     "like-of" : [ "https://twitter.com/skamille/status/1516725122983333890" ],
