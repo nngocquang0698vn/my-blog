@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/grmpyprogrammer/status/1516813385639370761" ],
     "name" : [ "Like of @grmpyprogrammer's tweet" ],
     "published" : [ "2022-04-20T18:00:00+0100" ],
     "category" : [ "vim" ],
