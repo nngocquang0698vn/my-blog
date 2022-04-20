@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tqbf/status/1516570590211153922" ],
     "name" : [ "Like of @tqbf's tweet" ],
     "published" : [ "2022-04-20T12:40:00+0100" ],
     "like-of" : [ "https://twitter.com/tqbf/status/1516570590211153922" ],
