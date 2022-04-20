@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JCNiN9/status/1516467535444647942" ],
     "name" : [ "Like of @JCNiN9's tweet" ],
     "published" : [ "2022-04-20T22:35:00+0100" ],
     "category" : [ "memes", "marvel" ],
