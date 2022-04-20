@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Trumpshanz/status/1516740443672911873" ],
     "name" : [ "Like of @Trumpshanz's tweet" ],
     "published" : [ "2022-04-20T16:20:00+0100" ],
     "like-of" : [ "https://twitter.com/Trumpshanz/status/1516740443672911873" ],
