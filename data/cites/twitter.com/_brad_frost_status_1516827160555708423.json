@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Frost" ],
+        "nickname" : [ "brad_frost" ],
+        "numeric-id" : [ "11855482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR.jpg" ],
+        "published" : [ "2008-01-04T21:57:10+00:00" ],
+        "uid" : [ "tag:twitter.com:brad_frost" ],
+        "url" : [ "https://twitter.com/brad_frost", "http://bradfrost.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Your health is more important than your deadline." ],
+    "published" : [ "2022-04-20T17:12:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1516827160555708423" ],
+    "url" : [ "https://twitter.com/brad_frost/status/1516827160555708423" ]
+  },
+  "type" : [ "h-entry" ]
+}
