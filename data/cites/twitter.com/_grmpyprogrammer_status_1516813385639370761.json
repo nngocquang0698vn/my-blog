@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nashville, TN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Ramsey 💙💛" ],
+          "nickname" : [ "ramsey" ],
+          "numeric-id" : [ "7794552" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1505243661625344005/wNAemKGJ.jpg" ],
+          "published" : [ "2007-07-29T02:44:40+00:00" ],
+          "uid" : [ "tag:twitter.com:ramsey" ],
+          "url" : [ "https://twitter.com/ramsey", "https://benramsey.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Okay. It looks like it still works, as long as the Project tab is focused, but if anything else has focus, it doesn't work." ],
+      "in-reply-to" : [ "https://twitter.com/ramsey/status/1516797338861412353" ],
+      "published" : [ "2022-04-20T15:15:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1516797746853912580" ],
+      "url" : [ "https://twitter.com/ramsey/status/1516797746853912580" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Great Kanuckistanni Pixel Mines" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grumpily Fungible Token" ],
+        "nickname" : [ "grmpyprogrammer" ],
+        "numeric-id" : [ "7418052" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509965645542268933/tdYuU1fo.jpg" ],
+        "published" : [ "2007-07-12T02:36:44+00:00" ],
+        "uid" : [ "tag:twitter.com:grmpyprogrammer" ],
+        "url" : [ "https://twitter.com/grmpyprogrammer", "https://grumpy-learning.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Vim never hurts me like this" ],
+    "published" : [ "2022-04-20T16:17:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1516813385639370761" ],
+    "url" : [ "https://twitter.com/grmpyprogrammer/status/1516813385639370761" ]
+  },
+  "type" : [ "h-entry" ]
+}
