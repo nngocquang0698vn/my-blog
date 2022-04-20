@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1516842261296082944" ],
     "published" : [ "2022-04-20T19:05:00+0100" ],
     "category" : [ "climate-change" ],
     "repost-of" : [ "https://twitter.com/orbuch/status/1379204056044945408" ],
