@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ethelredunread/status/1516746437782081536" ],
     "name" : [ "Like of @ethelredunread's tweet" ],
     "published" : [ "2022-04-20T16:20:00+0100" ],
     "like-of" : [ "https://twitter.com/ethelredunread/status/1516746437782081536" ],
