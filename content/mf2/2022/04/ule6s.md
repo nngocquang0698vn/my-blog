@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/YouGov/status/1516486467043971074" ],
     "name" : [ "Like of @YouGov's tweet" ],
     "published" : [ "2022-04-20T12:08:00+0100" ],
     "like-of" : [ "https://twitter.com/YouGov/status/1516486467043971074" ],
