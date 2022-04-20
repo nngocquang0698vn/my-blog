@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dixie3Flatline/status/1516812753012346884" ],
     "name" : [ "Like of @Dixie3Flatline's tweet" ],
     "published" : [ "2022-04-20T19:11:00+0100" ],
     "category" : [ "coronavirus" ],
