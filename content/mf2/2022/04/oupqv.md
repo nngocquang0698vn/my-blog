@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/VitorCSF/status/1516057599187329032" ],
     "name" : [ "Like of @VitorCSF's tweet" ],
     "published" : [ "2022-04-20T22:35:00+0100" ],
     "category" : [ "memes" ],
