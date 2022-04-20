@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/coledelbyck/status/1516467893143232516" ],
     "name" : [ "Like of @coledelbyck's tweet" ],
     "published" : [ "2022-04-19T20:44:00+0100" ],
     "like-of" : [ "https://twitter.com/coledelbyck/status/1516467893143232516" ],
