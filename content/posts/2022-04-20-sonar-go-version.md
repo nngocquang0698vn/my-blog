@@ -1,9 +1,10 @@
 ---
 title: "Automagically setting the project version for Go projects"
-description: "How to automagically set `sonar.projectVersion` for Go projects, based on Git tags."
-date: 2022-04-20T22:17:47+0100
+description: "How to automagically set `sonar.projectVersion` for Go projects, based\
+  \ on Git tags."
+date: "2022-04-20T22:17:47+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1516890673995124736"
 tags:
 - "blogumentation"
 - "go"
