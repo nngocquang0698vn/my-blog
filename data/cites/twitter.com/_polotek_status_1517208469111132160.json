@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I've gone back and forth on this. But I'm pretty sure Amazon S3 has had the biggest impact on designing applications in the last 20 years. It's hard to overstate how often you wanna reach for easy blog storage that is highly available globally." ],
+    "published" : [ "2022-04-21T18:27:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1517208469111132160" ],
+    "url" : [ "https://twitter.com/polotek/status/1517208469111132160" ]
+  },
+  "type" : [ "h-entry" ]
+}
