@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dawntraoz/status/1467940643246903301" ],
     "name" : [ "Like of @dawntraoz's tweet" ],
     "published" : [ "2022-04-21T21:58:00+0100" ],
     "like-of" : [ "https://twitter.com/dawntraoz/status/1467940643246903301" ],
