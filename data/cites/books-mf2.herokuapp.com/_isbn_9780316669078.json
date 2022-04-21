@@ -1,0 +1,44 @@
+{
+  "type": [
+    "h-book"
+  ],
+  "properties": {
+    "url": [
+      "https://books-mf2.herokuapp.com/isbn/9780316669078",
+      "https://openlibrary.org/books/OL37785514M"
+    ],
+    "uid": [
+      "isbn:9780316669078"
+    ],
+    "name": [
+      "The Sins of Our Fathers"
+    ],
+    "author": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "James S. A. Corey"
+          ],
+          "url": [
+            "http://www.danielabraham.com/james-s-a-corey/"
+          ],
+          "photo": [
+            {
+              "value": "https://covers.openlibrary.org/b/id/11112303.jpg",
+              "alt": "Picture of James S. A. Corey"
+            }
+          ]
+        }
+      }
+    ],
+    "photo": [
+      {
+        "value": "https://covers.openlibrary.org/b/id/12690145.jpg",
+        "alt": "Cover picture of The Sins of Our Fathers"
+      }
+    ]
+  }
+}
