@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lincoln Michel" ],
+          "nickname" : [ "TheLincoln" ],
+          "numeric-id" : [ "17781739" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/925517007528718336/VuNNZfRR.jpg" ],
+          "published" : [ "2008-12-01T16:04:19+00:00" ],
+          "uid" : [ "tag:twitter.com:TheLincoln" ],
+          "url" : [ "https://twitter.com/TheLincoln", "http://lincolnmichel.com", "http://tinyurl.com/5f6nxu24", "http://countercraft.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What's the name of this album?" ],
+      "photo" : [ "https://pbs.twimg.com/media/FQ0nIMUXEAA9pIR.png" ],
+      "published" : [ "2022-04-20T22:48:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1516911677312274443" ],
+      "url" : [ "https://twitter.com/TheLincoln/status/1516911677312274443" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jon Eaves" ],
+        "nickname" : [ "joneaves" ],
+        "numeric-id" : [ "23010108" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1453994408790020097/49xFyJEi.jpg" ],
+        "published" : [ "2009-03-06T01:21:30+00:00" ],
+        "uid" : [ "tag:twitter.com:joneaves" ],
+        "url" : [ "https://twitter.com/joneaves", "http://www.eaves.org/blog/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ack Street Boys" ],
+    "published" : [ "2022-04-20T23:54:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1516928379072937984" ],
+    "url" : [ "https://twitter.com/joneaves/status/1516928379072937984" ]
+  },
+  "type" : [ "h-entry" ]
+}
