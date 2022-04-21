@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517244537952952321/nxwYovSn.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://is.gd/ptlaplus", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Markdown: \"I'm so much easier to use than rST\"\nAlso Markdown: \"Want to put a fenced code block inside a quote? Good fucking luck, idiot\"</div>",
+      "value" : "Markdown: \"I'm so much easier to use than rST\"\nAlso Markdown: \"Want to put a fenced code block inside a quote? Good fucking luck, idiot\""
+    } ],
+    "published" : [ "2022-04-21T18:30:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1517209299210092546" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1517209299210092546" ]
+  },
+  "type" : [ "h-entry" ]
+}
