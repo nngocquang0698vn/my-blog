@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David R. MacIver" ],
+        "nickname" : [ "DRMacIver" ],
+        "numeric-id" : [ "14368342" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1379848103117910018/S9QuMkFY.jpg" ],
+        "published" : [ "2008-04-12T11:34:23+00:00" ],
+        "uid" : [ "tag:twitter.com:DRMacIver" ],
+        "url" : [ "https://twitter.com/DRMacIver", "http://drmaciver.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Markdown reduces the effort I spend on writing significantly, because it makes so many things not worth the effort of writing\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hillelogram\"></a>",
+      "value" : "Markdown reduces the effort I spend on writing significantly, because it makes so many things not worth the effort of writing"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hillelogram/status/1517209299210092546" ],
+    "published" : [ "2022-04-21T18:33:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1517209948169682944" ],
+    "url" : [ "https://twitter.com/DRMacIver/status/1517209948169682944" ]
+  },
+  "type" : [ "h-entry" ]
+}
