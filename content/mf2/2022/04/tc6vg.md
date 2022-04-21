@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hillelogram/status/1517209299210092546" ],
     "name" : [ "Like of @hillelogram's tweet" ],
     "published" : [ "2022-04-21T21:52:00+0100" ],
     "category" : [ "markdown" ],
