@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlyssaM_InfoSec/status/1517116239423975424" ],
     "name" : [ "Like of @AlyssaM_InfoSec's tweet" ],
     "published" : [ "2022-04-21T16:49:00+0100" ],
     "like-of" : [ "https://twitter.com/AlyssaM_InfoSec/status/1517116239423975424" ],
