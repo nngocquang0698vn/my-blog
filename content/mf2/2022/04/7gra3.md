@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joneaves/status/1516928379072937984" ],
     "name" : [ "Like of @joneaves's tweet" ],
     "published" : [ "2022-04-21T12:22:00+0100" ],
     "like-of" : [ "https://twitter.com/joneaves/status/1516928379072937984" ],
