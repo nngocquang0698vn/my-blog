@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Holly Brockwell" ],
+        "nickname" : [ "holly" ],
+        "numeric-id" : [ "7555262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487910591234772992/KqtJxi-8.jpg" ],
+        "published" : [ "2007-07-18T10:27:16+00:00" ],
+        "uid" : [ "tag:twitter.com:holly" ],
+        "url" : [ "https://twitter.com/holly", "https://www.patreon.com/hollysmerrymoggies" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My dad would have been 69 today.\n\nI hope he was the sort of man who'd appreciate it when I say: nice.</div>",
+      "value" : "My dad would have been 69 today.\n\nI hope he was the sort of man who'd appreciate it when I say: nice."
+    } ],
+    "published" : [ "2022-04-21T17:52:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1517199586116489224" ],
+    "url" : [ "https://twitter.com/holly/status/1517199586116489224" ]
+  },
+  "type" : [ "h-entry" ]
+}
