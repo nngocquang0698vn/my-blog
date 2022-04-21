@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DanMentos/status/1516641990858842113" ],
     "name" : [ "Like of @DanMentos's tweet" ],
     "published" : [ "2022-04-21T11:17:00+0100" ],
     "category" : [ "therapy" ],
