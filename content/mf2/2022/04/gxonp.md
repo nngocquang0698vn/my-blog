@@ -4,6 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
+    "read-status": ["finished"],
     "read-of" : [ "https://books-mf2.herokuapp.com/isbn/9780316669078" ],
     "published" : [ "2022-04-21T13:49:06Z" ]
   },
