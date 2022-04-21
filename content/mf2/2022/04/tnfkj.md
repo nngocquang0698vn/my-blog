@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/The_Ada_Rhodes/status/1516800850579968003" ],
     "name" : [ "Like of @The_Ada_Rhodes's tweet" ],
     "published" : [ "2022-04-21T16:48:00+0100" ],
     "like-of" : [ "https://twitter.com/The_Ada_Rhodes/status/1516800850579968003" ],
