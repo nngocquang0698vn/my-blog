@@ -1,5 +1,5 @@
 ---
-title: "Automagically setting the project version for Go projects"
+title: "Automagically setting the project version for Go projects in SonarQube"
 description: "How to automagically set `sonar.projectVersion` for Go projects, based\
   \ on Git tags."
 date: "2022-04-20T22:17:47+0100"
