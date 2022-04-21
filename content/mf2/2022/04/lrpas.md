@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DRMacIver/status/1517209948169682944" ],
     "name" : [ "Like of @DRMacIver's tweet" ],
     "published" : [ "2022-04-21T21:52:00+0100" ],
     "category" : [ "markdown" ],
