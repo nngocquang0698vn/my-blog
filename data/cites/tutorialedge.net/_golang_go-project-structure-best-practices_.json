@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Go Project Structure Best Practices" ],
+    "summary" : [ "In this article, we are going to look at some of the best practices that you should consider when structuring your Go applications." ],
+    "featured" : [ "https://images.tutorialedge.net/cards/golang/go-project-structure-best-practices/card.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Elliot Forbes" ]
+      }
+    } ],
+    "url" : [ "https://tutorialedge.net/golang/go-project-structure-best-practices/" ]
+  }
+}
