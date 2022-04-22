@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Molly Struve 🦄" ],
+          "nickname" : [ "molly_struve" ],
+          "numeric-id" : [ "4542932414" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1441894091084677123/EIwVtaj2.jpg" ],
+          "published" : [ "2015-12-13T01:44:07+00:00" ],
+          "uid" : [ "tag:twitter.com:molly_struve" ],
+          "url" : [ "https://twitter.com/molly_struve", "https://dev.to/molly_struve" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Tell me you took down production without telling me you took down production" ],
+      "published" : [ "2022-04-20T21:16:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1516888633642565636" ],
+      "url" : [ "https://twitter.com/molly_struve/status/1516888633642565636" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432101325529964545/FH-g7eA4.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"I deleted the cache file\"\n\"No, you deleted the database\"</div>",
+      "value" : "\"I deleted the cache file\"\n\"No, you deleted the database\""
+    } ],
+    "published" : [ "2022-04-22T04:23:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1517358449671106560" ],
+    "url" : [ "https://twitter.com/seldo/status/1517358449671106560" ]
+  },
+  "type" : [ "h-entry" ]
+}
