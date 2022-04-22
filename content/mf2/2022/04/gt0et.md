@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rycardoantunes/status/1515819004056817671" ],
     "name" : [ "Like of @rycardoantunes's tweet" ],
     "published" : [ "2022-04-22T08:45:00+0100" ],
     "category" : [ "memes" ],
