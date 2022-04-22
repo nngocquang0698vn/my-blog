@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Sam Biddle" ],
+          "nickname" : [ "samfbiddle" ],
+          "numeric-id" : [ "44123487" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1160934672899215361/MC6roERd.jpg" ],
+          "published" : [ "2009-06-02T14:06:36+00:00" ],
+          "uid" : [ "tag:twitter.com:samfbiddle" ],
+          "url" : [ "https://twitter.com/samfbiddle", "http://sambiddle.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Phone-tracking firm Anomaly Six has amassed so much app data it recently held an incredible closed-door demonstration: The company geofenced the CIA and NSA, tracked someone who had visited both sites around the country, and then de-anonymized them <a href=\"https://theintercept.com/2022/04/22/anomaly-six-phone-tracking-zignal-surveillance-cia-nsa/\">theintercept.com/2022/04/22/ano…</a>",
+        "value" : "Phone-tracking firm Anomaly Six has amassed so much app data it recently held an incredible closed-door demonstration: The company geofenced the CIA and NSA, tracked someone who had visited both sites around the country, and then de-anonymized them theintercept.com/2022/04/22/ano…"
+      } ],
+      "published" : [ "2022-04-22T15:38:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1517528390437199873" ],
+      "url" : [ "https://twitter.com/samfbiddle/status/1517528390437199873" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Smith" ],
+        "nickname" : [ "SteveSmith_Tech" ],
+        "numeric-id" : [ "404991267" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501575939515469825/MrYHdBEO.jpg" ],
+        "published" : [ "2011-11-04T18:00:19+00:00" ],
+        "uid" : [ "tag:twitter.com:SteveSmith_Tech" ],
+        "url" : [ "https://twitter.com/SteveSmith_Tech", "http://www.stevesmith.tech", "http://leanpub.com/u/stevesmith", "http://stevesmith.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Worse than 1984\n\nThe sale of personal location data to the highest bidder is terrifying</div>",
+      "value" : "Worse than 1984\n\nThe sale of personal location data to the highest bidder is terrifying"
+    } ],
+    "published" : [ "2022-04-22T17:07:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1517550745280733186" ],
+    "url" : [ "https://twitter.com/SteveSmith_Tech/status/1517550745280733186" ]
+  },
+  "type" : [ "h-entry" ]
+}
