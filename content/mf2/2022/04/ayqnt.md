@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AngeBassa/status/1517550646815305729" ],
     "name" : [ "Like of @AngeBassa's tweet" ],
     "published" : [ "2022-04-22T18:20:00+0100" ],
     "like-of" : [ "https://twitter.com/AngeBassa/status/1517550646815305729" ],
