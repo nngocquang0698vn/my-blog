@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ManMilk2/status/1517214270559301634" ],
     "name" : [ "Like of @ManMilk2's tweet" ],
     "published" : [ "2022-04-22T09:07:00+0100" ],
     "category" : [ "memes" ],
