@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1517617597944147968" ],
     "photo" : [ {
       "alt" : "Cookie the dog wearing her blue collar and orange harness with the harness pushing her fur up so she has a big thick tuft of hair built up around her neck that looks like an Elizabethan collar",
       "photo" : "https://media.jvt.me/1a8ae14cae.jpeg"
