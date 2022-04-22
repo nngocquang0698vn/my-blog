@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/urlichsanais/status/1517408235485114368" ],
     "name" : [ "Like of @urlichsanais's tweet" ],
     "published" : [ "2022-04-22T09:53:00+0100" ],
     "category" : [ "coronavirus", "conference" ],
