@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "SF" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam Altman" ],
+          "nickname" : [ "sama" ],
+          "numeric-id" : [ "1605" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa.jpg" ],
+          "published" : [ "2006-07-16T22:01:55+00:00" ],
+          "uid" : [ "tag:twitter.com:sama" ],
+          "url" : [ "https://twitter.com/sama", "http://blog.samaltman.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">At the likely risk of really embarrassing myself:\n\nHere are 2 from the latest version of GPT-3 trying to write startup advice tweets as me, 2 from <a href=\"https://twitter.com/ryancohen25\">@ryancohen25</a> trying to do the same thing, and 2 from me.\n\nCan you tell which is which?</div>",
+        "value" : "At the likely risk of really embarrassing myself:\n\nHere are 2 from the latest version of GPT-3 trying to write startup advice tweets as me, 2 from @ryancohen25 trying to do the same thing, and 2 from me.\n\nCan you tell which is which?"
+      } ],
+      "published" : [ "2022-04-21T22:00:30+00:00" ],
+      "uid" : [ "tag:twitter.com:1517262022123003904" ],
+      "url" : [ "https://twitter.com/sama/status/1517262022123003904" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Ryan Cohen" ],
+        "nickname" : [ "ryancohen25" ],
+        "numeric-id" : [ "779197578394992641" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1514736878456504330/nUxbTR9I.jpg" ],
+        "published" : [ "2016-09-23T05:55:54+00:00" ],
+        "uid" : [ "tag:twitter.com:ryancohen25" ],
+        "url" : [ "https://twitter.com/ryancohen25" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "vc twitter will be the first job replaced by AI and no one is complaining" ],
+    "published" : [ "2022-04-22T06:45:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1517394189775900673" ],
+    "url" : [ "https://twitter.com/ryancohen25/status/1517394189775900673" ]
+  },
+  "type" : [ "h-entry" ]
+}
