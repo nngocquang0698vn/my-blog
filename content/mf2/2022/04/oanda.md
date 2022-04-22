@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PitterPatterPTA/status/1517141167405559808" ],
     "name" : [ "Like of @PitterPatterPTA's tweet" ],
     "published" : [ "2022-04-22T07:48:00+0100" ],
     "like-of" : [ "https://twitter.com/PitterPatterPTA/status/1517141167405559808" ],
