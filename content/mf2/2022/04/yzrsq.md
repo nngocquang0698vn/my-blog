@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_localstack/status/1517425931115446272" ],
     "name" : [ "Like of @_localstack's tweet" ],
     "published" : [ "2022-04-22T19:48:00+0100" ],
     "category" : [ "localstack" ],
