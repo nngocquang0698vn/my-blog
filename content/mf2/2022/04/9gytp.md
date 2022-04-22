@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Credubuddhabear/status/1517505405697597440" ],
     "name" : [ "Like of @Credubuddhabear's tweet" ],
     "published" : [ "2022-04-22T18:23:00+0100" ],
     "like-of" : [ "https://twitter.com/Credubuddhabear/status/1517505405697597440" ],
