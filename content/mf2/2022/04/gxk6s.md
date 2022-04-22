@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thealinapenny/status/1517270425511743489" ],
     "name" : [ "Like of @thealinapenny's tweet" ],
     "published" : [ "2022-04-22T21:53:00+0100" ],
     "like-of" : [ "https://twitter.com/thealinapenny/status/1517270425511743489" ],
