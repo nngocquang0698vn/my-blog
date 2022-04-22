@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "danielle 🏳️‍🌈" ],
+        "nickname" : [ "endocrimes" ],
+        "numeric-id" : [ "233679538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410271158759460870/UIMDFj6r.jpg" ],
+        "published" : [ "2011-01-03T21:14:17+00:00" ],
+        "uid" : [ "tag:twitter.com:endocrimes" ],
+        "url" : [ "https://twitter.com/endocrimes", "https://github.com/endocrimes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Welp. <a href=\"https://twitter.com/KubeCon_\">@KubeCon_</a> / <a href=\"https://twitter.com/CloudNativeFdn\">@CloudNativeFdn</a> just dropped the mask requirement for KubeCon EU in Valencia next month.\n\nNot sure I’m comfortable going any more. This continent has massive Covid problems and it’s fucking airborne, not requiring masks is begging for people to get sick.</div>",
+      "value" : "Welp. @KubeCon_ / @CloudNativeFdn just dropped the mask requirement for KubeCon EU in Valencia next month.\n\nNot sure I’m comfortable going any more. This continent has massive Covid problems and it’s fucking airborne, not requiring masks is begging for people to get sick."
+    } ],
+    "published" : [ "2022-04-22T10:09:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1517445402378838016" ],
+    "url" : [ "https://twitter.com/endocrimes/status/1517445402378838016" ]
+  },
+  "type" : [ "h-entry" ]
+}
