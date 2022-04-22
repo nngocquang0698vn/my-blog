@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NICKIMINAJ/status/1517218976455032832" ],
     "name" : [ "Like of @NICKIMINAJ's tweet" ],
     "published" : [ "2022-04-22T07:47:00+0100" ],
     "like-of" : [ "https://twitter.com/NICKIMINAJ/status/1517218976455032832" ],
