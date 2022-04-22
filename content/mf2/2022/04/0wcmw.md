@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GGrofit/status/1517250387883040771" ],
     "name" : [ "Like of @GGrofit's tweet" ],
     "published" : [ "2022-04-22T14:23:00+0100" ],
     "like-of" : [ "https://twitter.com/GGrofit/status/1517250387883040771" ],
