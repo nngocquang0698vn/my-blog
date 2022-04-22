@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyKaitlinnn/status/1517229500127342592" ],
     "name" : [ "Like of @EmilyKaitlinnn's tweet" ],
     "published" : [ "2022-04-22T07:47:00+0100" ],
     "like-of" : [ "https://twitter.com/EmilyKaitlinnn/status/1517229500127342592" ],
