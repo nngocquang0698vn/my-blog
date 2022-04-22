@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "All around the world" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "LocalStack" ],
+        "nickname" : [ "_localstack" ],
+        "numeric-id" : [ "887169845430702082" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/889456972042444801/hiEiNYpr.jpg" ],
+        "published" : [ "2017-07-18T04:39:08+00:00" ],
+        "uid" : [ "tag:twitter.com:_localstack" ],
+        "url" : [ "https://twitter.com/_localstack", "http://localstack.cloud/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We're trending on <a href=\"https://twitter.com/github\">@github</a> today 🤩🚀\n\nWe are also quickly approaching 40K stargazers on GitHub ✨\n\nIf you haven't already, drop us a 🌟 here 👇\n\n<a href=\"https://github.com/localstack/localstack\">github.com/localstack/loc…</a>\n\n<a href=\"https://twitter.com/search?q=%23LocalStack\">#LocalStack</a> <a href=\"https://twitter.com/search?q=%23AWS\">#AWS</a> <a href=\"https://twitter.com/search?q=%23DevOps\">#DevOps</a></div>",
+      "value" : "We're trending on @github today 🤩🚀\n\nWe are also quickly approaching 40K stargazers on GitHub ✨\n\nIf you haven't already, drop us a 🌟 here 👇\n\ngithub.com/localstack/loc…\n\n#LocalStack #AWS #DevOps"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FQ76sDpaQAAlbAm.jpg" ],
+    "published" : [ "2022-04-22T08:51:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1517425931115446272" ],
+    "url" : [ "https://twitter.com/_localstack/status/1517425931115446272" ]
+  },
+  "type" : [ "h-entry" ]
+}
