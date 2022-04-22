@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wussypizard/status/1517522752357421058" ],
     "name" : [ "Like of @wussypizard's tweet" ],
     "published" : [ "2022-04-22T18:21:00+0100" ],
     "like-of" : [ "https://twitter.com/wussypizard/status/1517522752357421058" ],
