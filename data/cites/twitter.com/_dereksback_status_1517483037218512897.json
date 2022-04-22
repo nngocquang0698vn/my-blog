@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "d to the erek" ],
+        "nickname" : [ "dereksback" ],
+        "numeric-id" : [ "1486717692073558016" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515672936560173064/nDo5EZz5.jpg" ],
+        "published" : [ "2022-01-27T15:08:24+00:00" ],
+        "uid" : [ "tag:twitter.com:dereksback" ],
+        "url" : [ "https://twitter.com/dereksback" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Your tweet reminded me immediately of Janeway in Year of Hell.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/crowkids\"></a>",
+      "value" : "Your tweet reminded me immediately of Janeway in Year of Hell."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/crowkids/status/1517178344151961606" ],
+    "photo" : [ {
+      "alt" : "Captain Janeway stands on the bridge of Voyager which is dark and ruined. She is dirty and wearing a tank top with her comm badge. Her left hand is on her hip as she addresses the crew. Scene from \"Year if Hell\".",
+      "value" : "https://pbs.twimg.com/media/FQ8ux6wWYAAnLwl.jpg"
+    } ],
+    "published" : [ "2022-04-22T12:38:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1517483037218512897" ],
+    "url" : [ "https://twitter.com/dereksback/status/1517483037218512897" ]
+  },
+  "type" : [ "h-entry" ]
+}
