@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515701863609421827/EB0zhFiA.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Damn. Mask mandate dropped at KubeCon. Not sure if I’ll be attending now." ],
+    "published" : [ "2022-04-22T07:03:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1517398548995837953" ],
+    "url" : [ "https://twitter.com/rawkode/status/1517398548995837953" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FQ7h7y4XoAAAq5Z.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
