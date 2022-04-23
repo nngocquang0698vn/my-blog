@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eddie" ],
+        "nickname" : [ "EddieHinkle" ],
+        "numeric-id" : [ "308803734" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517969457972486144/DAUWzjFK.png" ],
+        "published" : [ "2011-06-01T01:17:33+00:00" ],
+        "uid" : [ "tag:twitter.com:EddieHinkle" ],
+        "url" : [ "https://twitter.com/EddieHinkle", "https://eddiehinkle.com/?utm_source=Twitter&utm_medium=Social&utm_content=Profile" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Being a Senior Engineer is 10% programming skills, 20% knowledge from learning, and 70% understanding from previous mistakes." ],
+    "published" : [ "2022-04-23T16:00:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1517896103257116674" ],
+    "url" : [ "https://twitter.com/EddieHinkle/status/1517896103257116674" ]
+  },
+  "type" : [ "h-entry" ]
+}
