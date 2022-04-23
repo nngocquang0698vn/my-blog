@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CNCF" ],
+          "nickname" : [ "CloudNativeFdn" ],
+          "numeric-id" : [ "3286770860" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1499440612290015233/stz0js72.jpg" ],
+          "published" : [ "2015-07-21T18:46:10+00:00" ],
+          "uid" : [ "tag:twitter.com:CloudNativeFdn" ],
+          "url" : [ "https://twitter.com/CloudNativeFdn", "https://cncf.io/", "http://Kubecon.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<a href=\"https://twitter.com/search?q=%23KubeCon\">#KubeCon</a> + <a href=\"https://twitter.com/search?q=%23CloudNativeCon\">#CloudNativeCon</a> Europe mask mandate update:",
+        "value" : "#KubeCon + #CloudNativeCon Europe mask mandate update:"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FQ-y6NAWYAMV1Uj.png" ],
+      "published" : [ "2022-04-22T22:16:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1517628314952818689" ],
+      "url" : [ "https://twitter.com/CloudNativeFdn/status/1517628314952818689" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Online" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483456365960089603/p-J7gZwI.jpg" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Thankfully, the <a href=\"https://twitter.com/CloudNativeFdn\">@CloudNativeFdn</a> has reversed their decision to remove the masking requirement at KubeCon EU. See y'all in Valencia, with a mask on!\n\n</div>",
+      "value" : "Thankfully, the @CloudNativeFdn has reversed their decision to remove the masking requirement at KubeCon EU. See y'all in Valencia, with a mask on!\n\n"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Dixie3Flatline/status/1517495843502182400" ],
+    "published" : [ "2022-04-22T22:18:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1517628869661978624" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1517628869661978624" ]
+  },
+  "type" : [ "h-entry" ]
+}
