@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SamAllenX/status/1517951889685368832" ],
     "name" : [ "Like of @SamAllenX's tweet" ],
     "published" : [ "2022-04-23T20:48:00+0100" ],
     "like-of" : [ "https://twitter.com/SamAllenX/status/1517951889685368832" ],
