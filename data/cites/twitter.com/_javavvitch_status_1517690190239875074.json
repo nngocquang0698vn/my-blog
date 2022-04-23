@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/pritianka/stat…" ],
+        "url" : [ "https://twitter.com/pritianka/status/1517513840912519168" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Emily Fox" ],
+          "nickname" : [ "TheMoxieFox" ],
+          "numeric-id" : [ "2634543789" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1505300634731532297/Lw0u9SDQ.jpg" ],
+          "published" : [ "2014-06-23T13:44:19+00:00" ],
+          "uid" : [ "tag:twitter.com:TheMoxieFox" ],
+          "url" : [ "https://twitter.com/TheMoxieFox" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Folks - The team IS WORKING ON THIS. \nAs a reminder: Demonstrating **empathy** &amp; **kindness** toward other people is part of the Code of Conduct. \n<a href=\"https://github.com/cncf/foundation/blob/main/code-of-conduct.md#our-standards\">github.com/cncf/foundatio…</a>\nPlease consider the stress of local changes on those coordinating this event as they navigate options.</div>\n<a class=\"tag\" href=\"https://twitter.com/pritianka/status/1517513840912519168\">twitter.com/pritianka/stat…</a>",
+        "value" : "Folks - The team IS WORKING ON THIS. \nAs a reminder: Demonstrating **empathy** & **kindness** toward other people is part of the Code of Conduct. \ngithub.com/cncf/foundatio…\nPlease consider the stress of local changes on those coordinating this event as they navigate options."
+      } ],
+      "published" : [ "2022-04-22T19:49:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1517591406063276034" ],
+      "url" : [ "https://twitter.com/TheMoxieFox/status/1517591406063276034" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511501454678310918/tgfKpXkZ.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Are you trying to gaslight your way into making people not be rightfuly upset at the drop of the mask mandate by *checks notes* referring to the Code of Conduct as some thinly veiled threat?" ],
+    "published" : [ "2022-04-23T02:21:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1517690190239875074" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1517690190239875074" ]
+  },
+  "type" : [ "h-entry" ]
+}
