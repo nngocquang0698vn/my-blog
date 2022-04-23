@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kokomo" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ham Elliot" ],
+        "nickname" : [ "r0wdy_" ],
+        "numeric-id" : [ "2185274887" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498910655067275264/DBuc8-6U.jpg" ],
+        "published" : [ "2013-11-10T00:15:43+00:00" ],
+        "uid" : [ "tag:twitter.com:r0wdy_" ],
+        "url" : [ "https://twitter.com/r0wdy_" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’m sorry this is happening to you, industry event twitter account\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CloudNativeFdn\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheMoxieFox\"></a>",
+      "value" : "I’m sorry this is happening to you, industry event twitter account"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/CloudNativeFdn/status/1517662575193825280" ],
+    "published" : [ "2022-04-23T03:04:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1517700972167974914" ],
+    "url" : [ "https://twitter.com/r0wdy_/status/1517700972167974914" ]
+  },
+  "type" : [ "h-entry" ]
+}
