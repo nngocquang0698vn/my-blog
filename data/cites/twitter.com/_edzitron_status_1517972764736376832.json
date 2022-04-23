@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vegas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Zitron" ],
+        "nickname" : [ "edzitron" ],
+        "numeric-id" : [ "18359716" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476357177262718982/JtsEwpz2.jpg" ],
+        "published" : [ "2008-12-24T16:04:52+00:00" ],
+        "uid" : [ "tag:twitter.com:edzitron" ],
+        "url" : [ "https://twitter.com/edzitron", "http://www.ezpr.com", "http://ez.substack.com", "http://edzitron.medium.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "[gru from despicable me voice] I am a material gorl and I live in a material world\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kyliebytes\"></a>",
+      "value" : "[gru from despicable me voice] I am a material gorl and I live in a material world"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kyliebytes/status/1517972593793323008" ],
+    "published" : [ "2022-04-23T21:04:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1517972764736376832" ],
+    "url" : [ "https://twitter.com/edzitron/status/1517972764736376832" ]
+  },
+  "type" : [ "h-entry" ]
+}
