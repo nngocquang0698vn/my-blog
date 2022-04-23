@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington DC / Boston MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Cortland" ],
+        "nickname" : [ "mattbc" ],
+        "numeric-id" : [ "276688330" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1284620887199830017/zmstUdeg.jpg" ],
+        "published" : [ "2011-04-03T21:49:28+00:00" ],
+        "uid" : [ "tag:twitter.com:mattbc" ],
+        "url" : [ "https://twitter.com/mattbc", "https://www.instagram.com/cmattb/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Not limiting replies so as to learn who I should block" ],
+    "in-reply-to" : [ "https://twitter.com/mattbc/status/1517611925085069317" ],
+    "published" : [ "2022-04-22T21:14:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1517612798347513857" ],
+    "url" : [ "https://twitter.com/mattbc/status/1517612798347513857" ]
+  },
+  "type" : [ "h-entry" ]
+}
