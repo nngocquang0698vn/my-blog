@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LauraJedeed/status/1517699608008396801" ],
     "name" : [ "Like of @LauraJedeed's tweet" ],
     "published" : [ "2022-04-23T21:01:00+0100" ],
     "like-of" : [ "https://twitter.com/LauraJedeed/status/1517699608008396801" ],
