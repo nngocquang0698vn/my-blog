@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163536220686864384/SP6Xu8tl.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://xbarapp.com", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "BREAKING: Alice and Bob “no longer see eye to eye” on most tech patterns." ],
+    "published" : [ "2022-04-23T18:12:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1517929522108276737" ],
+    "url" : [ "https://twitter.com/matryer/status/1517929522108276737" ]
+  },
+  "type" : [ "h-entry" ]
+}
