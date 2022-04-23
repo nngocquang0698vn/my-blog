@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cmclymer/status/1517647503289638915" ],
     "name" : [ "Like of @cmclymer's tweet" ],
     "published" : [ "2022-04-23T18:55:00+0100" ],
     "like-of" : [ "https://twitter.com/cmclymer/status/1517647503289638915" ],
