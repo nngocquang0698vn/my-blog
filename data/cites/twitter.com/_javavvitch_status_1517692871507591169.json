@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CNCF" ],
+          "nickname" : [ "CloudNativeFdn" ],
+          "numeric-id" : [ "3286770860" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1499440612290015233/stz0js72.jpg" ],
+          "published" : [ "2015-07-21T18:46:10+00:00" ],
+          "uid" : [ "tag:twitter.com:CloudNativeFdn" ],
+          "url" : [ "https://twitter.com/CloudNativeFdn", "https://cncf.io/", "http://Kubecon.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "All cloud native community members who intend to attend our events in-person or virtually should familiarize themselves with the document: <a href=\"https://events.linuxfoundation.org/about/code-of-conduct/\">events.linuxfoundation.org/about/code-of-…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Dixie3Flatline\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheMoxieFox\"></a>",
+        "value" : "All cloud native community members who intend to attend our events in-person or virtually should familiarize themselves with the document: events.linuxfoundation.org/about/code-of-…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/CloudNativeFdn/status/1517662575193825280" ],
+      "published" : [ "2022-04-23T00:32:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1517662634060902400" ],
+      "url" : [ "https://twitter.com/CloudNativeFdn/status/1517662634060902400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511501454678310918/tgfKpXkZ.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Their further Tweet into that thread further proves why I don't go to large confererences like this anymore. While we have witnessed massive changes to CoCs in open source in terms of language, they are often weaponized to suppress marginalized groups.\n\n<a href=\"https://twitter.com/CloudNativeFdn/status/1517662634060902400?s=20&t=rqYlU0tZAoiJnKqzaI4IIQ\">twitter.com/CloudNativeFdn…</a></div>",
+      "value" : "Their further Tweet into that thread further proves why I don't go to large confererences like this anymore. While we have witnessed massive changes to CoCs in open source in terms of language, they are often weaponized to suppress marginalized groups.\n\ntwitter.com/CloudNativeFdn…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/javavvitch/status/1517692193296818176" ],
+    "published" : [ "2022-04-23T02:32:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1517692871507591169" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1517692871507591169" ]
+  },
+  "type" : [ "h-entry" ]
+}
