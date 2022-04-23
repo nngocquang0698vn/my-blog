@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Culture Crave 🍿" ],
+          "nickname" : [ "CultureCrave" ],
+          "numeric-id" : [ "932786452739407872" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/934381355231723522/TJ5PuWkP.jpg" ],
+          "published" : [ "2017-11-21T01:43:15+00:00" ],
+          "uid" : [ "tag:twitter.com:CultureCrave" ],
+          "url" : [ "https://twitter.com/CultureCrave", "https://linktr.ee/culturecrave" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23Lightyear\">#Lightyear</a> is a movie based in the <a href=\"https://twitter.com/search?q=%23ToyStory\">#ToyStory</a> universe \n\n[It's] the movie that Andy saw that changed his life. Andy’s Star Wars\"\n\n(via <a href=\"https://twitter.com/io9\">@io9</a>)</div>",
+        "value" : "#Lightyear is a movie based in the #ToyStory universe \n\n[It's] the movie that Andy saw that changed his life. Andy’s Star Wars\"\n\n(via @io9)"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FQ5jM5pUUAAPkgO.jpg" ],
+      "published" : [ "2022-04-21T22:00:08+00:00" ],
+      "uid" : [ "tag:twitter.com:1517261932893335552" ],
+      "url" : [ "https://twitter.com/CultureCrave/status/1517261932893335552" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Nathan Bernhardt" ],
+        "nickname" : [ "jonbernhardt" ],
+        "numeric-id" : [ "21946225" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1243695949416935424/8dFa8Rig.png" ],
+        "published" : [ "2009-02-26T00:33:18+00:00" ],
+        "uid" : [ "tag:twitter.com:jonbernhardt" ],
+        "url" : [ "https://twitter.com/jonbernhardt", "https://www.patreon.com/jonbernhardt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this man about to turn off his body cam" ],
+    "published" : [ "2022-04-22T19:44:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1517590232463560704" ],
+    "url" : [ "https://twitter.com/jonbernhardt/status/1517590232463560704" ]
+  },
+  "type" : [ "h-entry" ]
+}
