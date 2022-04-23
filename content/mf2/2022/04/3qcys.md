@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jenelleriley/status/1517568363844669440" ],
     "name" : [ "Like of @jenelleriley's tweet" ],
     "published" : [ "2022-04-23T20:01:00+0100" ],
     "category" : [ "food", "nature" ],
