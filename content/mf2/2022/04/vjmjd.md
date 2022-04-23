@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CrownedRat/status/1517528336838369281" ],
     "name" : [ "Like of @CrownedRat's tweet" ],
     "published" : [ "2022-04-23T18:22:00+0100" ],
     "like-of" : [ "https://twitter.com/CrownedRat/status/1517528336838369281" ],
