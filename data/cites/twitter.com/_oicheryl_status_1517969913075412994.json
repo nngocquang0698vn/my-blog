@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cheryl Hung" ],
+        "nickname" : [ "oicheryl" ],
+        "numeric-id" : [ "809834579104268290" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1434903427117580300/U7HOoPga.jpg" ],
+        "published" : [ "2016-12-16T18:56:24+00:00" ],
+        "uid" : [ "tag:twitter.com:oicheryl" ],
+        "url" : [ "https://twitter.com/oicheryl", "http://oicheryl.com", "http://cloudnativelon.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🧵 on KubeCon mask drama:\n\n(1/6) 2 years ago, I saw a big change inside CNCF. It lost the ability to accept criticism, sincerely apologize and do better. The culture became style over substance. \n\nIt's no coincidence that I quit when pregnant.</div>",
+      "value" : "🧵 on KubeCon mask drama:\n\n(1/6) 2 years ago, I saw a big change inside CNCF. It lost the ability to accept criticism, sincerely apologize and do better. The culture became style over substance. \n\nIt's no coincidence that I quit when pregnant."
+    } ],
+    "published" : [ "2022-04-23T20:53:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1517969913075412994" ],
+    "url" : [ "https://twitter.com/oicheryl/status/1517969913075412994" ]
+  },
+  "type" : [ "h-entry" ]
+}
