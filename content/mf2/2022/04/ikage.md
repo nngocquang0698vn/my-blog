@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simpfifi/status/1517947344980828160" ],
     "name" : [ "Like of @simpfifi's tweet" ],
     "published" : [ "2022-04-24T17:31:00+0100" ],
     "like-of" : [ "https://twitter.com/simpfifi/status/1517947344980828160" ],
