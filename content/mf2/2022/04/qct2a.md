@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattstratton/status/1518272946955071495" ],
     "name" : [ "Like of @mattstratton's tweet" ],
     "published" : [ "2022-04-24T18:15:00+0100" ],
     "like-of" : [ "https://twitter.com/mattstratton/status/1518272946955071495" ],
