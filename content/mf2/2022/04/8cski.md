@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/golfman1974/status/1518127433249333248" ],
     "name" : [ "Like of @golfman1974's tweet" ],
     "published" : [ "2022-04-24T17:26:00+0100" ],
     "like-of" : [ "https://twitter.com/golfman1974/status/1518127433249333248" ],
