@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518209665317888004/3LJPNgwm.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Dude I saw your tweets. Ain’t nobody gonna miss your ass in this community or at any event, given how I’ve heard you have acted. And you’re not a big deal, despite somehow thinking you’re relevant." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Colorado, USA" ],
+        "uid" : [ "tag:twitter.com:e21c8e4914eef2b3" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "A submarine with the overlay text “subtweet”",
+      "value" : "https://pbs.twimg.com/media/FRH8zcUXEAAlVkM.jpg"
+    } ],
+    "published" : [ "2022-04-24T16:55:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1518272514065059842" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1518272514065059842" ]
+  },
+  "type" : [ "h-entry" ]
+}
