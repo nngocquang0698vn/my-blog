@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Peter Krantz" ],
+        "nickname" : [ "peterkz_swe" ],
+        "numeric-id" : [ "8769542" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1462836872342908928/GTfllPPo.jpg" ],
+        "published" : [ "2007-09-09T18:39:04+00:00" ],
+        "uid" : [ "tag:twitter.com:peterkz_swe" ],
+        "url" : [ "https://twitter.com/peterkz_swe", "https://www.peterkrantz.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Spent a day migrating 17 years of blogging from Wordpress to static site CMS with <a href=\"https://twitter.com/GoHugoIO\">@GoHugoIO</a> and <a href=\"https://twitter.com/caddyserver\">@caddyserver</a>. Love the simplicity of TLS in Caddy. Support for HTTP/3 as a bonus.",
+      "value" : "Spent a day migrating 17 years of blogging from Wordpress to static site CMS with @GoHugoIO and @caddyserver. Love the simplicity of TLS in Caddy. Support for HTTP/3 as a bonus."
+    } ],
+    "published" : [ "2022-04-24T16:03:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1518259402289164291" ],
+    "url" : [ "https://twitter.com/peterkz_swe/status/1518259402289164291" ]
+  },
+  "type" : [ "h-entry" ]
+}
