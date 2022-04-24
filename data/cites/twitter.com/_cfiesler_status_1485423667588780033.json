@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Casey Fiesler, PhD, JD, geekD" ],
+        "nickname" : [ "cfiesler" ],
+        "numeric-id" : [ "194203770" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1316398339450187776/FD3K6GsY.jpg" ],
+        "published" : [ "2010-09-23T17:41:56+00:00" ],
+        "uid" : [ "tag:twitter.com:cfiesler" ],
+        "url" : [ "https://twitter.com/cfiesler", "http://www.caseyfiesler.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Random commenter: Why does CS need an ethics focus?\nMe: Because technology hurts people and maybe if doesn’t have to. \nThem: Technology is just a tool. \nMe: That. That is why CS people need more ethics focused training. \n\nI swear this is 100% real.</div>",
+      "value" : "Random commenter: Why does CS need an ethics focus?\nMe: Because technology hurts people and maybe if doesn’t have to. \nThem: Technology is just a tool. \nMe: That. That is why CS people need more ethics focused training. \n\nI swear this is 100% real."
+    } ],
+    "published" : [ "2022-01-24T01:26:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1485423667588780033" ],
+    "url" : [ "https://twitter.com/cfiesler/status/1485423667588780033" ]
+  },
+  "type" : [ "h-entry" ]
+}
