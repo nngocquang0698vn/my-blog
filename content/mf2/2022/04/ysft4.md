@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BBCLauraKT/status/1518160825034452992" ],
     "name" : [ "Like of @BBCLauraKT's tweet" ],
     "published" : [ "2022-04-24T11:07:00+0100" ],
     "like-of" : [ "https://twitter.com/BBCLauraKT/status/1518160825034452992" ],
