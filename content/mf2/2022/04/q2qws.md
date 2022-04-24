@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoshuaPotash/status/1518000560213004289" ],
     "name" : [ "Like of @JoshuaPotash's tweet" ],
     "published" : [ "2022-04-24T13:45:00+0100" ],
     "like-of" : [ "https://twitter.com/JoshuaPotash/status/1518000560213004289" ],
