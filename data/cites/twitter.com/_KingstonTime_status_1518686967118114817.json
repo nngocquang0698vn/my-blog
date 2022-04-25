@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago, IL" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chicago Sun-Times" ],
+          "nickname" : [ "Suntimes" ],
+          "numeric-id" : [ "12811952" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/985223834243493888/Hjb8ei6L.jpg" ],
+          "published" : [ "2008-01-29T02:38:26+00:00" ],
+          "uid" : [ "tag:twitter.com:Suntimes" ],
+          "url" : [ "https://twitter.com/Suntimes", "https://chicago.suntimes.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What changes would you like to see Twitter make after completing its sale to Elon Musk?" ],
+      "published" : [ "2022-04-25T20:11:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1518684235133034498" ],
+      "url" : [ "https://twitter.com/Suntimes/status/1518684235133034498" ],
+      "video" : [ "https://video.twimg.com/tweet_video/FRNzQekWYAIPXuV.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Kingston" ],
+        "nickname" : [ "KingstonTime" ],
+        "numeric-id" : [ "38462153" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415240792462012430/H4Ai9z9m.jpg" ],
+        "published" : [ "2009-05-07T16:24:41+00:00" ],
+        "uid" : [ "tag:twitter.com:KingstonTime" ],
+        "url" : [ "https://twitter.com/KingstonTime" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Solve world hunger you capitalist cowards" ],
+    "published" : [ "2022-04-25T20:22:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1518686967118114817" ],
+    "url" : [ "https://twitter.com/KingstonTime/status/1518686967118114817" ]
+  },
+  "type" : [ "h-entry" ]
+}
