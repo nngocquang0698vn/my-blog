@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaana Dogan ヤナ ドガン" ],
+        "nickname" : [ "rakyll" ],
+        "numeric-id" : [ "10809412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1492548437996310529/waX1aEU-.jpg" ],
+        "published" : [ "2007-12-03T13:08:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rakyll" ],
+        "url" : [ "https://twitter.com/rakyll", "https://github.com/rakyll" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Next week, I'm joining GitHub as a Distinguished Engineer. As a long time GitHub user, it's going to be a true privilege to join the team to broadly work on our products, infrastructure and engineering culture." ],
+    "published" : [ "2022-04-24T21:13:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1518337323657797633" ],
+    "url" : [ "https://twitter.com/rakyll/status/1518337323657797633" ]
+  },
+  "type" : [ "h-entry" ]
+}
