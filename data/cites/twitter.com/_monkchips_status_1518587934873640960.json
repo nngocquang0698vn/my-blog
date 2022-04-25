@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "facemask holdout" ],
+        "nickname" : [ "monkchips" ],
+        "numeric-id" : [ "61233" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1336307464564862976/TmUP3ovh.jpg" ],
+        "published" : [ "2006-12-12T17:35:55+00:00" ],
+        "uid" : [ "tag:twitter.com:monkchips" ],
+        "url" : [ "https://twitter.com/monkchips", "http://monkchips.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "so back to RSS, then?" ],
+    "published" : [ "2022-04-25T13:49:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1518587934873640960" ],
+    "url" : [ "https://twitter.com/monkchips/status/1518587934873640960" ]
+  },
+  "type" : [ "h-entry" ]
+}
