@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mcmillen/status/1518633249056202754" ],
     "name" : [ "Like of @mcmillen's tweet" ],
     "published" : [ "2022-04-25T19:03:00+0100" ],
     "like-of" : [ "https://twitter.com/mcmillen/status/1518633249056202754" ],
