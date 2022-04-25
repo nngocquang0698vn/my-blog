@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexkealy/status/1518537130842144768" ],
     "name" : [ "Like of @alexkealy's tweet" ],
     "published" : [ "2022-04-25T14:06:00+0100" ],
     "like-of" : [ "https://twitter.com/alexkealy/status/1518537130842144768" ],
