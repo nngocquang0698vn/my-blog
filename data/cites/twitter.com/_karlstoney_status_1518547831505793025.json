@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karl" ],
+        "nickname" : [ "karlstoney" ],
+        "numeric-id" : [ "198432208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1322147582852870144/t_75XeF7.jpg" ],
+        "published" : [ "2010-10-04T08:52:40+00:00" ],
+        "uid" : [ "tag:twitter.com:karlstoney" ],
+        "url" : [ "https://twitter.com/karlstoney", "https://karlstoney.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Once again... \n\nme: \"brew install ansible\"\nbrew: \"sure i'll upgrade everything everywhere without checking that's OK with you first\"</div>",
+      "value" : "Once again... \n\nme: \"brew install ansible\"\nbrew: \"sure i'll upgrade everything everywhere without checking that's OK with you first\""
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FRL3CrTXsAEVTPU.jpg" ],
+    "published" : [ "2022-04-25T11:09:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1518547831505793025" ],
+    "url" : [ "https://twitter.com/karlstoney/status/1518547831505793025" ]
+  },
+  "type" : [ "h-entry" ]
+}
