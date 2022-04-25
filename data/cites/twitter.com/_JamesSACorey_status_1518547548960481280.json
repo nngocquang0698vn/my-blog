@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "NBC News" ],
+          "nickname" : [ "NBCNews" ],
+          "numeric-id" : [ "14173315" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG.jpg" ],
+          "published" : [ "2008-03-18T23:19:17+00:00" ],
+          "uid" : [ "tag:twitter.com:NBCNews" ],
+          "url" : [ "https://twitter.com/NBCNews", "http://NBCNews.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Guns became the leading cause of death among children and teens in 2020, killing more people ages 1 to 19 in the U.S. than vehicle crashes, drugs overdoses or cancer. <a href=\"https://nbcnews.to/3vabwid\">nbcnews.to/3vabwid</a>",
+        "value" : "Guns became the leading cause of death among children and teens in 2020, killing more people ages 1 to 19 in the U.S. than vehicle crashes, drugs overdoses or cancer. nbcnews.to/3vabwid"
+      } ],
+      "published" : [ "2022-04-24T14:01:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1518228546501623809" ],
+      "url" : [ "https://twitter.com/NBCNews/status/1518228546501623809" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Remember when one shoe bomb failed to kill anyone and the government made everyone take their shoes off at security checkpoints for the next few decades? Ever think america is just really terrible at risk assessment?" ],
+    "published" : [ "2022-04-25T11:08:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1518547548960481280" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1518547548960481280" ]
+  },
+  "type" : [ "h-entry" ]
+}
