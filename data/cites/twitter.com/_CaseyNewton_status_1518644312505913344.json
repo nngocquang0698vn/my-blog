@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Casey Newton" ],
+        "nickname" : [ "CaseyNewton" ],
+        "numeric-id" : [ "69426451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe.jpg" ],
+        "published" : [ "2009-08-27T22:37:09+00:00" ],
+        "uid" : [ "tag:twitter.com:CaseyNewton" ],
+        "url" : [ "https://twitter.com/CaseyNewton", "https://www.platformer.news/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "None of this would be happening if you all simply did as I do, and pay Twitter $3 a month for no reason" ],
+    "published" : [ "2022-04-25T17:33:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1518644312505913344" ],
+    "url" : [ "https://twitter.com/CaseyNewton/status/1518644312505913344" ]
+  },
+  "type" : [ "h-entry" ]
+}
