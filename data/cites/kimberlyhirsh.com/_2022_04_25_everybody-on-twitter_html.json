@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Kimberly Hirsh" ],
+    "summary" : [ "Everybody on Twitter wants to know where to go now. The answer is your own website, syndicating out to wherever else people end up. This is the IndieWeb. Let me know if you’d be interested in a talk about how to get set up." ],
+    "featured" : [ "https://micro.blog/kimberlyhirsh/avatar.jpg", "https://indieweb.org/img/indieweb-badge.png", "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Kimberly Hirsh" ]
+      }
+    } ],
+    "url" : [ "https://kimberlyhirsh.com/2022/04/25/everybody-on-twitter.html" ],
+    "published" : [ "2022-04-25T13:02:46-04:00" ]
+  }
+}
