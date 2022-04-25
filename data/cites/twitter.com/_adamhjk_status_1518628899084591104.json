@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Jacob" ],
+        "nickname" : [ "adamhjk" ],
+        "numeric-id" : [ "13682312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+        "published" : [ "2008-02-19T18:02:55+00:00" ],
+        "uid" : [ "tag:twitter.com:adamhjk" ],
+        "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I thought he was going to open source the whole thing?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bcantrill\"></a>",
+      "value" : "I thought he was going to open source the whole thing?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bcantrill/status/1518619152755224576" ],
+    "published" : [ "2022-04-25T16:31:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1518628899084591104" ],
+    "url" : [ "https://twitter.com/adamhjk/status/1518628899084591104" ]
+  },
+  "type" : [ "h-entry" ]
+}
