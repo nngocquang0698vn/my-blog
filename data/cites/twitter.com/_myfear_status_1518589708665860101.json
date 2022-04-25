@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Markus Eisele" ],
+        "nickname" : [ "myfear" ],
+        "numeric-id" : [ "14206328" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1274015948668837890/uanA8_Zw.jpg" ],
+        "published" : [ "2008-03-24T08:57:46+00:00" ],
+        "uid" : [ "tag:twitter.com:myfear" ],
+        "url" : [ "https://twitter.com/myfear", "https://keybase.io/myfear" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Back? I've never left.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monkchips\"></a>",
+      "value" : "Back? I've never left."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/monkchips/status/1518587934873640960" ],
+    "published" : [ "2022-04-25T13:56:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1518589708665860101" ],
+    "url" : [ "https://twitter.com/myfear/status/1518589708665860101" ]
+  },
+  "type" : [ "h-entry" ]
+}
