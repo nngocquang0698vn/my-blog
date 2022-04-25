@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Jose, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gabriella Gonzalez" ],
+          "nickname" : [ "GabriellaG439" ],
+          "numeric-id" : [ "1729289012" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1425613762556358660/vbvo9zh1.jpg" ],
+          "published" : [ "2013-09-04T16:44:17+00:00" ],
+          "uid" : [ "tag:twitter.com:GabriellaG439" ],
+          "url" : [ "https://twitter.com/GabriellaG439", "https://github.com/Gabriel439", "http://haskellforall.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "There's no need to panic, everybody.  The Hacker News comment section told me that a real programmer can build a Twitter clone in a day" ],
+      "published" : [ "2022-04-25T15:03:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1518606642954203137" ],
+      "url" : [ "https://twitter.com/GabriellaG439/status/1518606642954203137" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Somerville, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Colin McMillen" ],
+        "nickname" : [ "mcmillen" ],
+        "numeric-id" : [ "14244141" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409622471742038018/4dOBxbgF.jpg" ],
+        "published" : [ "2008-03-28T14:51:28+00:00" ],
+        "uid" : [ "tag:twitter.com:mcmillen" ],
+        "url" : [ "https://twitter.com/mcmillen", "https://www.mcmillen.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">as someone who wrote a social network in a weekend: yes, it's possible to do that\n\nas someone who's seen the Google App Engine bills for what that social network would've cost if launched publicly: you absolutely cannot afford to grow to 100k users without a serious cash infusion</div>",
+      "value" : "as someone who wrote a social network in a weekend: yes, it's possible to do that\n\nas someone who's seen the Google App Engine bills for what that social network would've cost if launched publicly: you absolutely cannot afford to grow to 100k users without a serious cash infusion"
+    } ],
+    "published" : [ "2022-04-25T16:49:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1518633249056202754" ],
+    "url" : [ "https://twitter.com/mcmillen/status/1518633249056202754" ]
+  },
+  "type" : [ "h-entry" ]
+}
