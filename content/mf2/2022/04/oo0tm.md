@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/slutpilled/status/1518628203622977536" ],
     "name" : [ "Like of @slutpilled's tweet" ],
     "published" : [ "2022-04-25T19:49:00+0100" ],
     "like-of" : [ "https://twitter.com/slutpilled/status/1518628203622977536" ],
