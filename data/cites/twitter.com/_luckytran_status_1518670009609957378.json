@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City and Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Lucky Tran" ],
+        "nickname" : [ "luckytran" ],
+        "numeric-id" : [ "159955958" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323870356663357440/ddZMou05.jpg" ],
+        "published" : [ "2010-06-26T19:47:02+00:00" ],
+        "uid" : [ "tag:twitter.com:luckytran" ],
+        "url" : [ "https://twitter.com/luckytran", "https://linktr.ee/luckytran" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The $44 billion Elon Musk just spent on Twitter could buy roughly 2 billion mRNA COVID vaccine doses for the world." ],
+    "published" : [ "2022-04-25T19:15:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1518670009609957378" ],
+    "url" : [ "https://twitter.com/luckytran/status/1518670009609957378" ]
+  },
+  "type" : [ "h-entry" ]
+}
