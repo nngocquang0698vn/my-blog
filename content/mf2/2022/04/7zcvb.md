@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/apearlma/status/1518548680739020800" ],
     "name" : [ "Like of @apearlma's tweet" ],
     "published" : [ "2022-04-25T13:12:00+0100" ],
     "like-of" : [ "https://twitter.com/apearlma/status/1518548680739020800" ],
