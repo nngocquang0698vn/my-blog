@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/karlstoney/status/1518547831505793025" ],
     "name" : [ "Like of @karlstoney's tweet" ],
     "published" : [ "2022-04-25T13:12:00+0100" ],
     "category" : [ "homebrew" ],
