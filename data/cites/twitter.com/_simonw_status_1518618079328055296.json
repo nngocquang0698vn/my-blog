@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "People who read RSS on a daily basis: what's your preferred RSS Reader?" ],
+    "published" : [ "2022-04-25T15:48:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1518618079328055296" ],
+    "url" : [ "https://twitter.com/simonw/status/1518618079328055296" ]
+  },
+  "type" : [ "h-entry" ]
+}
