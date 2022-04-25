@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Canada / UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Ellis" ],
+        "nickname" : [ "JackEllis" ],
+        "numeric-id" : [ "14964243" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/989296839194173440/ZRsVtbV5.jpg" ],
+        "published" : [ "2008-05-31T16:19:32+00:00" ],
+        "uid" : [ "tag:twitter.com:JackEllis" ],
+        "url" : [ "https://twitter.com/JackEllis", "http://jackellis.me", "http://serverlesslaravelcourse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Elon. It's not a call about Twitter but I'm obviously going to bring it up.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/earthlingworks\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mijustin\"></a>",
+      "value" : "Elon. It's not a call about Twitter but I'm obviously going to bring it up."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/earthlingworks/status/1518677276207947776" ],
+    "published" : [ "2022-04-25T19:49:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1518678539255484416" ],
+    "url" : [ "https://twitter.com/JackEllis/status/1518678539255484416" ]
+  },
+  "type" : [ "h-entry" ]
+}
