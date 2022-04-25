@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Doylestown, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Maney" ],
+        "nickname" : [ "the_spinmd" ],
+        "numeric-id" : [ "8673932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1361735380282839044/j1TtsTtw.jpg" ],
+        "published" : [ "2007-09-05T11:17:06+00:00" ],
+        "uid" : [ "tag:twitter.com:the_spinmd" ],
+        "url" : [ "https://twitter.com/the_spinmd", "http://maneydigital.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Some of us never left.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/monkchips\"></a>",
+      "value" : "Some of us never left."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/monkchips/status/1518587934873640960" ],
+    "published" : [ "2022-04-25T13:49:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1518588070521708545" ],
+    "url" : [ "https://twitter.com/the_spinmd/status/1518588070521708545" ]
+  },
+  "type" : [ "h-entry" ]
+}
