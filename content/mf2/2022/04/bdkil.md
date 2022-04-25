@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/luckytran/status/1518670009609957378" ],
     "name" : [ "Like of @luckytran's tweet" ],
     "published" : [ "2022-04-25T22:17:00+0100" ],
     "like-of" : [ "https://twitter.com/luckytran/status/1518670009609957378" ],
