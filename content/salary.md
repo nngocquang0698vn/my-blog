@@ -7,6 +7,7 @@ I've broken this down into the:
 
 - <span class=new-salary>Updated salary</span> amounts
 - <span class=bonus>Bonus</span> amounts
+- <span class=stock>Stock</span> amounts
 - Increments themselves that make up a salary increase
 
 It may be worth looking at [my CV](https://hire.jvt.me) to see what work was required as part of the different roles.
@@ -20,6 +21,74 @@ It may be worth looking at [my CV](https://hire.jvt.me) to see what work was req
     <th>Level</th>
     <th>Location</th>
     <th>Role</th>
+  </tr>
+
+  <tr class=new-salary>
+    <td>
+      2022-04-25
+    </td>
+    <td>
+      90000.00
+    </td>
+    <td>
+      Hiring salary
+    </td>
+    <td>
+      Deliveroo
+    </td>
+    <td>
+      L5
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+      Senior Software Engineer
+    </td>
+  </tr>
+
+  <tr class=bonus>
+    <td>
+    </td>
+    <td>
+      9000.00
+    </td>
+    <td>
+      Starting bonus
+    </td>
+    <td>
+      Deliveroo
+    </td>
+    <td>
+      L5
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr class=stock>
+    <td>
+    </td>
+    <td>
+      21400
+    </td>
+    <td>
+      Stock
+    </td>
+    <td>
+      Deliveroo
+    </td>
+    <td>
+      L5
+    </td>
+    <td>
+      Remote
+    </td>
+    <td>
+    </td>
   </tr>
 
   <tr class=new-salary>
@@ -759,5 +828,8 @@ table.salary td:nth-child(2) {
 }
 .bonus {
   color: #b8bb26;
+}
+.stock {
+  color: #fabd2f;
 }
 </style>
