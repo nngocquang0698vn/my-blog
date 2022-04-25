@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1518502234878889984" ],
     "published" : [ "2022-04-25T08:00:54.833646778Z" ],
     "post-status" : [ "published" ],
     "content" : [ {
