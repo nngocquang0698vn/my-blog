@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Container Security with Maya Kaczorowski" ],
+    "summary" : [ "Deploying software to a container presents a different security model than deploying an application to a VM. There is a smaller attack surface per container, but the container is colocated on a node with other containers. Containers are meant to have a shorter lifetime than VMs, so there are generally fewer consequences if a container" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2018/05/kubernetes_google-1.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED6166287357.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2018/05/22/container-security-with-maya-kaczorowski/" ],
+    "published" : [ "2021-11-01T11:50:12+00:00" ]
+  }
+}
