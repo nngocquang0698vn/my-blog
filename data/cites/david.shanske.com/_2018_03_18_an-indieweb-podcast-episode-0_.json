@@ -1,0 +1,301 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast Episode 0" ],
+    "url" : [ "https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/" ],
+    "syndication" : [ "https://www.facebook.com/100002356503167/posts/1637022556386279", "https://twitter.com/dshanske/status/975554726266916864" ],
+    "published" : [ "2018-03-18T22:09:01-04:00" ],
+    "updated" : [ "2018-10-13T22:04:05-04:00" ],
+    "content" : [ {
+      "html" : "This is a test episode of An Indieweb Podcast(working title). In it, <a href=\"http://boffosocko.com\">Chris Aldrich</a> and I talk about a variety of Indieweb topics, with the theme of Considering the User, inspired by <a href=\"https://eli.li/entry.php?id=20180318015703\">an article</a> we were reading.\n<p>Part of this is an opportunity to improve audio post presentation on my website, so you will see audio posts improve over time.</p>",
+      "value" : "This is a test episode of An Indieweb Podcast(working title). In it, Chris Aldrich and I talk about a variety of Indieweb topics, with the theme of Considering the User, inspired by an article we were reading.\nPart of this is an opportunity to improve audio post presentation on my website, so you will see audio posts improve over time.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "I’ve been listening to the inaugural episode of the currently unnamed IndieWeb podcast this evening. The episode offers some great context about the history of the IndieWeb, specifically the WordPress plugins. I haven’t finished listening to the episode yet, but am excited to continue listening…especially since the conversation is partially orbiting one of my recent posts!\nI’ve got to go to sleep before I can finish listening, but I wanted to take a moment to send a quick thanks to Chris Aldrich and David Shanks for the great conversation, and to let them both know that I am 100% willing and excited to roll up my sleeves and help out with this! My professional background is mostly in front-end dev. and product design, so I can’t help but to think of the IndieWeb in those contexts. 🎉" ],
+        "url" : [ "https://eli.li/entry.php?id=20180319033630" ],
+        "published" : [ "2018-03-18T23:36:30-04:00" ],
+        "content" : [ {
+          "html" : "<p>I&#x2019;ve been listening to the inaugural episode of the currently unnamed IndieWeb podcast this evening. The episode offers some great context about the history of the IndieWeb, specifically the WordPress plugins. I haven&#x2019;t finished listening to the episode yet, but am excited to continue listening&#x2026;especially since the conversation is partially orbiting one of <a href=\"https://eli.li/entry.php?id=20180318015703\" rel=\"nofollow\">my recent posts</a>!<br>\nI&#x2019;ve got to go to sleep before I can finish listening, but I wanted to take a moment to send a quick thanks to <a href=\"http://boffosocko.com\" rel=\"nofollow\">Chris Aldrich</a> and <a href=\"https://david.shanske.com\">David Shanks</a> for the great conversation, and to let them both know that I am 100% willing and excited to roll up my sleeves and help out with this! My professional background is mostly in front-end dev. and product design, so I can&#x2019;t help but to think of the IndieWeb in those contexts. &#x1F389;</p>",
+          "value" : "I’ve been listening to the inaugural episode of the currently unnamed IndieWeb podcast this evening. The episode offers some great context about the history of the IndieWeb, specifically the WordPress plugins. I haven’t finished listening to the episode yet, but am excited to continue listening…especially since the conversation is partially orbiting one of my recent posts!\nI’ve got to go to sleep before I can finish listening, but I wanted to take a moment to send a quick thanks to Chris Aldrich and David Shanks for the great conversation, and to let them both know that I am 100% willing and excited to roll up my sleeves and help out with this! My professional background is mostly in front-end dev. and product design, so I can’t help but to think of the IndieWeb in those contexts. 🎉",
+          "lang" : "en-US"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eli Mellen" ],
+            "photo" : [ "https://eli.li/images/e&a-square.jpg" ],
+            "url" : [ "https://eli.li" ]
+          },
+          "lang" : "en-US",
+          "value" : "https://eli.li"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://eli.li/entry.php?id=20180319033630"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://brub.ca/likes/62750/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Stéphane Bérubé" ],
+            "url" : [ "https://brub.ca" ],
+            "photo" : [ "https://brub.ca/images/profile.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Stéphane Bérubé"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://brub.ca/likes/62750/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://seblog.nl/2018/03/19/1/like" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Sebastiaan Andeweg" ],
+            "url" : [ "https://seblog.nl" ],
+            "photo" : [ "https://seblog.nl/photo.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Sebastiaan Andeweg"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://seblog.nl/2018/03/19/1/like"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://www.facebook.com/100002356503167/posts/1637022556386279#liked-by-503237795" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "url" : [ "https://www.facebook.com/503237795" ],
+            "photo" : [ "https://graph.facebook.com/v2.10/503237795/picture?type=large" ]
+          },
+          "lang" : "en-US",
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://www.facebook.com/100002356503167/posts/1637022556386279#liked-by-503237795"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/975554726266916864#favorited-by-13645402" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Aldrich" ],
+            "url" : [ "https://twitter.com/ChrisAldrich" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Chris Aldrich"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/975554726266916864#favorited-by-13645402"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/975554726266916864#favorited-by-961661" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "TomWithTheWeather" ],
+            "url" : [ "https://twitter.com/tomwiththeweath" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/52629372/flickr.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "TomWithTheWeather"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/975554726266916864#favorited-by-961661"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/975554726266916864#favorited-by-8739" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Joe Crawford" ],
+            "url" : [ "https://twitter.com/artlung" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/964619826806235136/KEfUyWLz.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Joe Crawford"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/975554726266916864#favorited-by-8739"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/975554726266916864#favorited-by-76772442" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "url" : [ "https://twitter.com/Johannes_Ernst" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/462335209015238656/ie0cRjdx.jpeg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/975554726266916864#favorited-by-76772442"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://eli.li/entry.php?id=20180319024630" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eli Mellen" ],
+            "url" : [ "https://eli.li" ],
+            "photo" : [ "https://eli.li/images/e&a-square.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Eli Mellen"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://eli.li/entry.php?id=20180319024630"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://colinwalker.blog/bridging-the-gap/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Colin Walker" ],
+            "url" : [ "https://colinwalker.blog" ],
+            "photo" : [ "https://colinwalker.blog/Colin%20Walker.png" ]
+          },
+          "lang" : "en-US",
+          "value" : "Colin Walker"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://colinwalker.blog/bridging-the-gap/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://collect.readwriterespond.com/indieweb-podcast-000/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Davis" ],
+            "url" : [ "https://readwriterespond.com/" ],
+            "photo" : [ "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g" ]
+          },
+          "lang" : "en-US",
+          "value" : "Aaron Davis"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://collect.readwriterespond.com/indieweb-podcast-000/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://martymcgui.re/2018/03/19/100719/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Marty McGuire" ],
+            "url" : [ "https://martymcgui.re/" ],
+            "photo" : [ "https://martymcgui.re/images/logo.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Marty McGuire"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://martymcgui.re/2018/03/19/100719/"
+    } ]
+  },
+  "lang" : "en-US",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "I enjoyed listening to this podcast. Nice format, just informal chatting about a bunch of Indieweb related topics. I’d like to hear more of these." ],
+      "url" : [ "https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/#comment-4735" ],
+      "published" : [ "2018-03-29T22:48:52-04:00" ],
+      "content" : [ {
+        "html" : "<p>I enjoyed listening to this podcast. Nice format, just informal chatting about a bunch of Indieweb related topics. I&#x2019;d like to hear more of these.</p>",
+        "value" : "I enjoyed listening to this podcast. Nice format, just informal chatting about a bunch of Indieweb related topics. I’d like to hear more of these.",
+        "lang" : "en-US"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Craig Hepworth" ],
+          "photo" : [ "https://secure.gravatar.com/avatar/385db8c86893a637f6bd7a6af91b33f0?s=42&d=mm&r=g" ],
+          "url" : [ "https://floridafruitgeek.com" ]
+        },
+        "lang" : "en-US",
+        "value" : "https://floridafruitgeek.com"
+      } ]
+    },
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "name" : [ "This Article was mentioned on indieweb.org" ],
+      "url" : [ "https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/#comment-6992" ],
+      "published" : [ "2018-08-23T08:51:02-04:00" ],
+      "content" : [ {
+        "html" : "<p>This Article was mentioned on <a href=\"https://indieweb.org/Atom\" rel=\"nofollow\">indieweb.org</a></p>",
+        "value" : "This Article was mentioned on indieweb.org",
+        "lang" : "en-US"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Atom - IndieWeb" ],
+          "url" : [ "https://indieweb.org/Atom" ]
+        },
+        "lang" : "en-US",
+        "value" : "https://indieweb.org/Atom"
+      } ]
+    },
+    "lang" : "en-US"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "url" : [ "https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/" ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Atom - IndieWeb" ],
+          "url" : [ "https://indieweb.org/Atom" ]
+        },
+        "lang" : "en-US",
+        "value" : "Atom - IndieWeb"
+      } ]
+    },
+    "lang" : "en-US"
+  } ]
+}
