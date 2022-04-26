@@ -1,0 +1,68 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast Episode 13 – Lack a Theme" ],
+    "url" : [ "https://david.shanske.com/2019/01/28/an-indieweb-podcast-episode-13-lack-a-theme/" ],
+    "duration" : [ "PT1H25M29S-05:00" ],
+    "published" : [ "2019-01-28T01:12:18-05:00" ],
+    "content" : [ {
+      "html" : "Chris Aldrich and I reunited for the first episode of 2019. Special apologies to Jeremy Cherfas, as the recording equipment was not working to specifications this week.",
+      "value" : "Chris Aldrich and I reunited for the first episode of 2019. Special apologies to Jeremy Cherfas, as the recording equipment was not working to specifications this week.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Forewarned is forearmed; thanks." ],
+        "url" : [ "https://stream.jeremycherfas.net/2019/forewarned-is-forearmed-thanks" ],
+        "published" : [ "2019-01-29T06:51:00-05:00" ],
+        "content" : [ {
+          "html" : "<p>Forewarned is forearmed; thanks.</p>",
+          "value" : "Forewarned is forearmed; thanks.",
+          "lang" : "en-US"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jeremy Cherfas" ],
+            "photo" : [ "https://stream.jeremycherfas.net/file/ef801e05730eba56004c5b712ad84731/thumb.jpg" ],
+            "url" : [ "https://stream.jeremycherfas.net/profile/jeremy" ]
+          },
+          "lang" : "en-US",
+          "value" : "https://stream.jeremycherfas.net/profile/jeremy"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://stream.jeremycherfas.net/2019/forewarned-is-forearmed-thanks"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://quickthoughts.jgregorymcverry.com/2019/01/28/indieweb-podcast-episode-13-lack-a-theme" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Greg McVerry" ],
+            "url" : [ "https://quickthoughts.jgregorymcverry.com/profile/jgmac1106" ],
+            "photo" : [ "https://quickthoughts.jgregorymcverry.com/file/2d6c9cfed7ac8e849f492b5bc7e6a630/thumb.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Greg McVerry"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://quickthoughts.jgregorymcverry.com/2019/01/28/indieweb-podcast-episode-13-lack-a-theme"
+    } ]
+  },
+  "lang" : "en-US"
+}
