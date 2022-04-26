@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zürich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Martin Splitt" ],
+        "nickname" : [ "g33konaut" ],
+        "numeric-id" : [ "15381265" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517080957198737411/W10I6rMR.jpg" ],
+        "published" : [ "2008-07-10T18:34:58+00:00" ],
+        "uid" : [ "tag:twitter.com:g33konaut" ],
+        "url" : [ "https://twitter.com/g33konaut", "https://50linesofco.de", "http://50linesofco.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Bus driver blasting folk music at max volume. \n\nThat's S1E1 of things I didn't miss about the commute.</div>",
+      "value" : "Bus driver blasting folk music at max volume. \n\nThat's S1E1 of things I didn't miss about the commute."
+    } ],
+    "published" : [ "2022-04-26T08:11:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1518865297465393152" ],
+    "url" : [ "https://twitter.com/g33konaut/status/1518865297465393152" ]
+  },
+  "type" : [ "h-entry" ]
+}
