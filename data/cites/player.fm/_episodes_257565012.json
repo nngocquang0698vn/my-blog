@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Episode 26 - Monolithic deployments" ],
+    "summary" : [ "Up till now Starling has deployed its back-end server code as a single entity, even though it is split into multiple different services. As we grow this has become less and less tenable. Why have we been deploying like this so far and how are we changing our deployment process as we expand? Host Jason Maude chats virtually with Starling engineers Saff Soobratty and Matthew Salt." ],
+    "featured" : [ "https://cdn.player.fm/images/14999896/series/gRsH94bkg4wKXZ6q/512.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Player FM" ]
+      }
+    } ],
+    "url" : [ "https://player.fm/episodes/257565012" ]
+  }
+}
