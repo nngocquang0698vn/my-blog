@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "LLVM with Morgan Wilde" ],
+    "summary" : [ "Every program gets compiled down to 1s and 0s before it can be executed against hardware. Before being translated to machine code, programs that are written in a language like Rust, Swift, or Java spend time in an intermediate representation. In Java, this intermediate representation is Java bytecode. Many different languages–such as Scala–translate to Java" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2017/04/LLVM-Logo-Derivative-1.jpg" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED3040642606.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2017/04/10/llvm-with-morgan-wilde/" ],
+    "published" : [ "2021-11-02T14:08:25+00:00" ]
+  }
+}
