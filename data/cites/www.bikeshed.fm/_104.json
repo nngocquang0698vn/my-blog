@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "104: It's Dangerous to Refactor Alone!" ],
+    "summary" : [ "Google's carrot-and-stick HTTPS policies and how playing The Legend of Zelda is like refactoring." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_medium.jpg?v=0" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/167c01a1-0eb9-4640-b488-c2f6d6866650/50a4a189-9ef6-4d2b-8819-e44eba6b545a.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "thoughtbot" ]
+      }
+    } ],
+    "url" : [ "https://www.bikeshed.fm/104" ]
+  }
+}
