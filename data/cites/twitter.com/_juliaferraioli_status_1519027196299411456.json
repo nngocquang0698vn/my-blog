@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "data portability and interoperability\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rakyll\"></a>",
+      "value" : "data portability and interoperability"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/rakyll/status/1519019723375058944" ],
+    "published" : [ "2022-04-26T18:54:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1519027196299411456" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1519027196299411456" ]
+  },
+  "type" : [ "h-entry" ]
+}
