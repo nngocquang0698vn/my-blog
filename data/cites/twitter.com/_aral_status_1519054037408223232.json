@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Fediverse" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aral Balkan" ],
+        "nickname" : [ "aral" ],
+        "numeric-id" : [ "48903" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3.jpg" ],
+        "published" : [ "2006-12-07T19:55:38+00:00" ],
+        "uid" : [ "tag:twitter.com:aral" ],
+        "url" : [ "https://twitter.com/aral", "https://ar.al", "http://mastodon.ar.al/@aral", "http://joinmastodon.org", "http://ar.al/index.xml" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Tesla, Starlink, Twitter… data from cars, satellites/Internet connectivity, news/sentiment/conversations including direct messages… all in the hands of one person.\n\nNothing to worry about.</div>",
+      "value" : "Tesla, Starlink, Twitter… data from cars, satellites/Internet connectivity, news/sentiment/conversations including direct messages… all in the hands of one person.\n\nNothing to worry about."
+    } ],
+    "published" : [ "2022-04-26T20:41:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1519054037408223232" ],
+    "url" : [ "https://twitter.com/aral/status/1519054037408223232" ]
+  },
+  "type" : [ "h-entry" ]
+}
