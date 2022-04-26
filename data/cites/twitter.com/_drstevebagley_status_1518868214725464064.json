@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham\n" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Bagley" ],
+        "nickname" : [ "drstevebagley" ],
+        "numeric-id" : [ "97518097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/726283776/1977_basil_brush_radio3.jpg" ],
+        "published" : [ "2009-12-17T20:24:36+00:00" ],
+        "uid" : [ "tag:twitter.com:drstevebagley" ],
+        "url" : [ "https://twitter.com/drstevebagley" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I dunno — I got a large proportion of my PhD done when travelling on trains due to the lack of internet connectivity :)\n\nYou don’t need the 'net to code or write :)</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MichelValstar\"></a>",
+      "value" : "I dunno — I got a large proportion of my PhD done when travelling on trains due to the lack of internet connectivity :)\n\nYou don’t need the 'net to code or write :)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MichelValstar/status/1518865862744330243" ],
+    "published" : [ "2022-04-26T08:22:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1518868214725464064" ],
+    "url" : [ "https://twitter.com/drstevebagley/status/1518868214725464064" ]
+  },
+  "type" : [ "h-entry" ]
+}
