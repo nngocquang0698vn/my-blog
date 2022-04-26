@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "A diner on Venus" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "D.J." ],
+        "nickname" : [ "ItsJustDJ" ],
+        "numeric-id" : [ "1187521203344248833" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1262139224012144642/yx5Yztod.jpg" ],
+        "published" : [ "2019-10-25T00:08:43+00:00" ],
+        "uid" : [ "tag:twitter.com:ItsJustDJ" ],
+        "url" : [ "https://twitter.com/ItsJustDJ", "https://itsjustdj.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Elon Musk bought Twitter when he could have hosted his own Mastadon server for ~$60/month." ],
+    "published" : [ "2022-04-25T22:49:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1518723904302321665" ],
+    "url" : [ "https://twitter.com/ItsJustDJ/status/1518723904302321665" ]
+  },
+  "type" : [ "h-entry" ]
+}
