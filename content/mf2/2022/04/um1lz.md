@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WUTM/status/1518637988095434752" ],
     "name" : [ "Like of @WUTM's tweet" ],
     "published" : [ "2022-04-26T12:44:00+0100" ],
     "like-of" : [ "https://twitter.com/WUTM/status/1518637988095434752" ],
