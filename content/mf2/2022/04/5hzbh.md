@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeremyLittau/status/1519043291668439041" ],
     "name" : [ "Like of @JeremyLittau's tweet" ],
     "published" : [ "2022-04-26T22:25:00+0100" ],
     "like-of" : [ "https://twitter.com/JeremyLittau/status/1519043291668439041" ],
