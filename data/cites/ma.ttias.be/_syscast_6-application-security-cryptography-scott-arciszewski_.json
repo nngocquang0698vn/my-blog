@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Application Security & Cryptography with Scott Arciszewski" ],
+    "summary" : [ "For the 6th episode of SysCast I’m joined by Scott Arciszewski.\nWe talk about PHP, cryptography, securing online applications, cache timing attacks, his CMS called Airship and so much more." ],
+    "featured" : [ "https://ma.ttias.be//podcast/img/syscast-social-image-v3.png" ],
+    "audio" : [ "/podcast/episodes/Syscast-006-application-security-cryptography-scott-arciszewski.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mattias Geniar" ]
+      }
+    } ],
+    "url" : [ "https://ma.ttias.be/syscast/6-application-security-cryptography-scott-arciszewski/" ],
+    "published" : [ "2016-08-26T10:11:24+00:00" ]
+  }
+}
