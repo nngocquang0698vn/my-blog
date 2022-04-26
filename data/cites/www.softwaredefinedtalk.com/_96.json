@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An AWS private cloud strategy, kubernetes aplenty, microservices by yaml, & detailed hot-dog creature analysis" ],
+    "summary" : [ "The cat-nip of Mary Meeker's Internet Trends report is out this week so we discuss the highlights which leads to a sudden discussion of what an Amazon private cloud product would look like. Then, with a raft of new container related news we sort out what CoreOS is doing with their Tectonic managed service, what Heptio is (the Mirantis of  Kubernetes?), and then a deep dive into the newly announced Istio which seems to be looking to create a yaml-based(!) standard for microservices configuration and policy and, then, the actual code for managing it all. Also, an extensive analysis of a hot-dog display, which is either basting itself or putting on some condiment-hair." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9b74150b-3553-49dc-8332-f89bbbba9f92/episodes/6/68584370-e131-458b-8af1-45d22e054a52/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://chtbl.com/track/E8DGG/aphid.fireside.fm/d/1437767933/9b74150b-3553-49dc-8332-f89bbbba9f92/68584370-e131-458b-8af1-45d22e054a52.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Software Defined Talk LLC" ]
+      }
+    } ],
+    "url" : [ "https://www.softwaredefinedtalk.com/96" ]
+  }
+}
