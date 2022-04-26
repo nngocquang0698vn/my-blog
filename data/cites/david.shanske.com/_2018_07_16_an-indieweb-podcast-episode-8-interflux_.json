@@ -1,0 +1,113 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast: Episode 8 – Interflux" ],
+    "url" : [ "https://david.shanske.com/2018/07/16/an-indieweb-podcast-episode-8-interflux/" ],
+    "syndication" : [ "https://twitter.com/dshanske/status/1018830085900636160" ],
+    "published" : [ "2018-07-16T08:09:51-04:00" ],
+    "updated" : [ "2018-10-13T22:02:20-04:00" ],
+    "content" : [ {
+      "html" : "In this episode, Chris and I recap our takeaways and stories from the <a href=\"http://indieweb.org/2018\">Indieweb Summit 2018</a> last month in Portland, Oregon, discuss Microsub, Vouch, and other ideas.\n<ul>\n<li><a href=\"http://indieweb.org/Vouch\">Vouch</a></li>\n<li><a href=\"https://david.shanske.com/2018/07/01/brainstorming-on-implementing-vouch-following-and-blogrolls/\">Brainstorming on Implementing Vouch, Following, and Blogrolls &#x2013; David Shanske</a></li>\n<li><a href=\"http://indieweb.org/refback\">Refbacks</a></li>\n<li>The Year of the Reader</li>\n<li><a href=\"https://granary.io\">Granary</a></li>\n<li><a href=\"http://indieweb.org/Microsub\">Microsub</a></li>\n<li><a href=\"http://indieweb.org/indiewebring\">Indiewebring</a></li>\n<li><a href=\"https://aaronparecki.com/2018/06/30/11/your-first-webmention\">Sending Your First Webmention &#x2013; Aaron Parecki</a></li>\n<li><a href=\"https://aaronparecki.com/2018/07/07/7/oauth-for-the-open-web\">OAuth for the Open Web &#x2013; Aaron Parecki</a></li>\n</ul>",
+      "value" : "In this episode, Chris and I recap our takeaways and stories from the Indieweb Summit 2018 last month in Portland, Oregon, discuss Microsub, Vouch, and other ideas. Vouch Brainstorming on Implementing Vouch, Following, and Blogrolls – David Shanske Refbacks The Year of the Reader Granary Microsub Indiewebring Sending Your First Webmention – Aaron Parecki OAuth for the Open Web – Aaron Parecki",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/1018830085900636160#favorited-by-76772442" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "url" : [ "https://twitter.com/Johannes_Ernst" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/462335209015238656/ie0cRjdx.jpeg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/1018830085900636160#favorited-by-76772442"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/1018830085900636160#favorited-by-13645402" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Aldrich" ],
+            "url" : [ "https://twitter.com/ChrisAldrich" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Chris Aldrich"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/1018830085900636160#favorited-by-13645402"
+    } ],
+    "listen" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://xavierroy.com/2018/07/24/an-indieweb-podcast-episode-8-interflux/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "An Indieweb Podcast: Episode 8 – Interflux – Odyssey" ],
+            "url" : [ "https://xavierroy.com/2018/07/24/an-indieweb-podcast-episode-8-interflux/" ],
+            "photo" : [ "https://david.shanske.com/wp-content/plugins/webmention/img/mm.jpg" ]
+          },
+          "lang" : "en-US",
+          "value" : "An Indieweb Podcast: Episode 8 – Interflux – Odyssey"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://xavierroy.com/2018/07/24/an-indieweb-podcast-episode-8-interflux/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://collect.readwriterespond.com/indieweb-podcast-008/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Davis" ],
+            "url" : [ "https://readwriterespond.com/" ],
+            "photo" : [ "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g" ]
+          },
+          "lang" : "en-US",
+          "value" : "Aaron Davis"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://collect.readwriterespond.com/indieweb-podcast-008/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://dougbeal.com/2018/07/16/1889/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Douglas Beal" ],
+            "url" : [ "https://dougbeal.com" ],
+            "photo" : [ "https://secure.gravatar.com/avatar/4aef6f46cd0c5c51bbf5c15d4e66b35e?s=125&d=default&r=g" ]
+          },
+          "lang" : "en-US",
+          "value" : "Douglas Beal"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://dougbeal.com/2018/07/16/1889/"
+    } ]
+  },
+  "lang" : "en-US"
+}
