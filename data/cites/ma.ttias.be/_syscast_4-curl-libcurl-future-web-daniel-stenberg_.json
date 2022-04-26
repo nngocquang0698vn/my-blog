@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Curl, libcurl and the future of the web, with Daniel Stenberg" ],
+    "summary" : [ "If you’re a sysadmin or a developer, you’ve probably used curl before. Or some kind of project, like PHP, Python, Ruby, … that uses libcurl." ],
+    "featured" : [ "https://ma.ttias.be//podcast/img/syscast-social-image-v3.png" ],
+    "audio" : [ "/podcast/episodes/Syscast-004-4-curl-libcurl-and-the-future-of-the-web.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mattias Geniar" ]
+      }
+    } ],
+    "url" : [ "https://ma.ttias.be/syscast/4-curl-libcurl-future-web-daniel-stenberg/" ],
+    "published" : [ "2016-06-22T07:11:29+00:00" ]
+  }
+}
