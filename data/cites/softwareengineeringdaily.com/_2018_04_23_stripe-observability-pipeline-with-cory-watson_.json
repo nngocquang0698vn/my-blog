@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Stripe Observability Pipeline with Cory Watson" ],
+    "summary" : [ "Stripe processes payments for thousands of businesses. A single payment could involve 10 different networked services. If a payment fails, engineers need to be able to diagnose what happened. The root cause could lie in any of those services. Distributed tracing is used to find the causes of failures and latency within networked services. In" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2018/04/stripe.jpeg" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED5972385455.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2018/04/23/stripe-observability-pipeline-with-cory-watson/" ],
+    "published" : [ "2021-11-01T10:19:37+00:00" ]
+  }
+}
