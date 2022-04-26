@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/astrophotosnap/status/1518602352080863232" ],
     "name" : [ "Like of @astrophotosnap's tweet" ],
     "published" : [ "2022-04-26T19:10:00+0100" ],
     "category" : [ "space" ],
