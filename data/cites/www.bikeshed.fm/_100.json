@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "100: Nouns You Can Verb" ],
+    "summary" : [ "Sam Phippen helps us celebrate episode 100, as we discuss Diesel bugs, REST, RPC, and more." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_medium.jpg?v=0" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/167c01a1-0eb9-4640-b488-c2f6d6866650/0a05be51-d0da-4fe8-afc8-eb21d631db60.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "thoughtbot" ]
+      }
+    } ],
+    "url" : [ "https://www.bikeshed.fm/100" ]
+  }
+}
