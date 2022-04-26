@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michel Valstar" ],
+        "nickname" : [ "MichelValstar" ],
+        "numeric-id" : [ "24862386" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/910242167800631296/MU_UwgZg.jpg" ],
+        "published" : [ "2009-03-17T09:58:52+00:00" ],
+        "uid" : [ "tag:twitter.com:MichelValstar" ],
+        "url" : [ "https://twitter.com/MichelValstar", "http://www.cs.nott.ac.uk/~pszmv" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Has anyone calculated the hit to productivity for not having proper mobile Internet coverage on the train line Nottingham <-> London? It must be immense!" ],
+    "published" : [ "2022-04-26T08:13:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1518865862744330243" ],
+    "url" : [ "https://twitter.com/MichelValstar/status/1518865862744330243" ]
+  },
+  "type" : [ "h-entry" ]
+}
