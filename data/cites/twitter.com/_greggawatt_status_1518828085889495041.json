@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Solano County" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Greggawatt@kolektiva.social" ],
+        "nickname" : [ "greggawatt" ],
+        "numeric-id" : [ "14964459" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518793144426319872/USpfYYjP.jpg" ],
+        "published" : [ "2008-05-31T16:50:18+00:00" ],
+        "uid" : [ "tag:twitter.com:greggawatt" ],
+        "url" : [ "https://twitter.com/greggawatt", "http://gregghorton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Mastodon isn't the solution, it's just another thing with different problems. Each instance will have to defend itself from a court order if people want info, also it's not secure as you'd think.\n\nTake care of what you put out there</div>",
+      "value" : "Mastodon isn't the solution, it's just another thing with different problems. Each instance will have to defend itself from a court order if people want info, also it's not secure as you'd think.\n\nTake care of what you put out there"
+    } ],
+    "published" : [ "2022-04-26T05:43:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1518828085889495041" ],
+    "url" : [ "https://twitter.com/greggawatt/status/1518828085889495041" ]
+  },
+  "type" : [ "h-entry" ]
+}
