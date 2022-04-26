@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I’m getting Kubernetes Stockholm syndrome" ],
+    "summary" : [ "Docker’s now into kubernetes, being the last major vendor outside of Amazon to latch the orchestration framework into its strategy. Yup, as usual, it’s pretty much just kubernetes business yappin’." ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9b74150b-3553-49dc-8332-f89bbbba9f92/episodes/7/7ecafa03-b6fd-4744-a9f3-afd052839302/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://chtbl.com/track/E8DGG/aphid.fireside.fm/d/1437767933/9b74150b-3553-49dc-8332-f89bbbba9f92/7ecafa03-b6fd-4744-a9f3-afd052839302.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Software Defined Talk LLC" ]
+      }
+    } ],
+    "url" : [ "https://www.softwaredefinedtalk.com/109" ]
+  }
+}
