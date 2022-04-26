@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "All over the world" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Firefox 🔥" ],
+        "nickname" : [ "firefox" ],
+        "numeric-id" : [ "2142731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1493584652979818499/OfhdDwqT.png" ],
+        "published" : [ "2007-03-24T23:58:14+00:00" ],
+        "uid" : [ "tag:twitter.com:firefox" ],
+        "url" : [ "https://twitter.com/firefox", "http://mozilla.org/firefox" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We promise not to sell Firefox to a billionaire." ],
+    "published" : [ "2022-04-25T23:44:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1518737666442809344" ],
+    "url" : [ "https://twitter.com/firefox/status/1518737666442809344" ]
+  },
+  "type" : [ "h-entry" ]
+}
