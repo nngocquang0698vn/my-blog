@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "107: \"Composition\" Over Inheritance" ],
+    "summary" : [ "Single table inheritance, polymorphic associations, state machines and service objects, oh my!" ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_medium.jpg?v=0" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/167c01a1-0eb9-4640-b488-c2f6d6866650/0877b2ae-172c-441d-a948-fffa6d2afd5a.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "thoughtbot" ]
+      }
+    } ],
+    "url" : [ "https://www.bikeshed.fm/107" ]
+  }
+}
