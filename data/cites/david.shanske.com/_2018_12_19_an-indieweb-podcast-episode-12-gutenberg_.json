@@ -1,0 +1,75 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast Episode 12 – Gutenberg" ],
+    "url" : [ "https://david.shanske.com/2018/12/19/an-indieweb-podcast-episode-12-gutenberg/" ],
+    "duration" : [ "PT1H49M2S-05:00" ],
+    "published" : [ "2018-12-19T19:50:47-05:00" ],
+    "updated" : [ "2021-01-10T14:48:43-05:00" ],
+    "content" : [ {
+      "html" : "In the latest episode of An Indieweb Podcast, Chris Aldrich joined me for a late night(for me at least) discussion of Gutenberg, the new WordPress editor, and the usual project talk. I felt I was a bit off due the lateness of the hour, but I still enjoyed the conversation.",
+      "value" : "In the latest episode of An Indieweb Podcast, Chris Aldrich joined me for a late night(for me at least) discussion of Gutenberg, the new WordPress editor, and the usual project talk. I felt I was a bit off due the lateness of the hour, but I still enjoyed the conversation.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Another great podcast with yourself and Chris. I am slowly understanding post kinds and how the plugin works. Is the recording of the data outside of the post the reason that the information does not show up within the site search? I have a tendency to include quotes in the quote/summary box, but have trouble surfacing these after the fact. My habit with Diigo was to search quotes and posts. I am guessing the answer might be to include these quotes within the body of the text?" ],
+        "url" : [ "https://collect.readwriterespond.com/an-indieweb-podcast-episode-12-gutenberg/" ],
+        "published" : [ "2018-12-22T22:10:21-05:00" ],
+        "content" : [ {
+          "html" : "<p>Another great podcast with yourself and <a href=\"https://boffosocko.com/\" rel=\"nofollow\">Chris</a>. I am slowly understanding post kinds and how the plugin works. Is the recording of the data outside of the post the reason that the information does not show up within the site search? I have a tendency to include quotes in the quote/summary box, but have trouble surfacing these after the fact. My habit with Diigo was to search quotes and posts. I am guessing the answer might be to include these quotes within the body of the text?</p>",
+          "value" : "Another great podcast with yourself and Chris. I am slowly understanding post kinds and how the plugin works. Is the recording of the data outside of the post the reason that the information does not show up within the site search? I have a tendency to include quotes in the quote/summary box, but have trouble surfacing these after the fact. My habit with Diigo was to search quotes and posts. I am guessing the answer might be to include these quotes within the body of the text?",
+          "lang" : "en-US"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Davis" ],
+            "photo" : [ "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g" ],
+            "url" : [ "https://readwriterespond.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "https://readwriterespond.com/"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://collect.readwriterespond.com/an-indieweb-podcast-episode-12-gutenberg/"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "David, your audio is always quite low, Chris’ audio is worse quality but much louder so it’s good, but yours is too low and I can’t hear you when it’s a bit louder like in my car or on the plane or train when a lot of people are loud." ],
+        "url" : [ "https://jeena.net/comments/992" ],
+        "published" : [ "2018-12-30T05:15:52-05:00" ],
+        "content" : [ {
+          "html" : "<p>David, your audio is always quite low, Chris&#x2019; audio is worse quality but much louder so it&#x2019;s good, but yours is too low and I can&#x2019;t hear you when it&#x2019;s a bit louder like in my car or on the plane or train when a lot of people are loud.</p>",
+          "value" : "David, your audio is always quite low, Chris’ audio is worse quality but much louder so it’s good, but yours is too low and I can’t hear you when it’s a bit louder like in my car or on the plane or train when a lot of people are loud.",
+          "lang" : "en-US"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Jeena" ],
+            "photo" : [ "https://jeena.net/avatar.jpg" ],
+            "url" : [ "https://jeena.net/" ]
+          },
+          "lang" : "en-US",
+          "value" : "https://jeena.net/"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://jeena.net/comments/992"
+    } ]
+  },
+  "lang" : "en-US"
+}
