@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Lorenz" ],
+        "nickname" : [ "TaylorLorenz" ],
+        "numeric-id" : [ "208725869" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487520401731174404/SwXwcxuH.jpg" ],
+        "published" : [ "2010-10-27T20:40:40+00:00" ],
+        "uid" : [ "tag:twitter.com:TaylorLorenz" ],
+        "url" : [ "https://twitter.com/TaylorLorenz", "https://linktr.ee/TaylorLorenz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Went on the BBC to chat about Elon buying Twitter" ],
+    "published" : [ "2022-04-26T06:00:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1518832336728576007" ],
+    "url" : [ "https://twitter.com/TaylorLorenz/status/1518832336728576007" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1518832256021721089/pu/vid/720x404/YE1whB7YVJ38lBRX.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
