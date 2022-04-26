@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/elperroeplaya/status/1518613550893346816" ],
     "name" : [ "Like of @elperroeplaya's tweet" ],
     "published" : [ "2022-04-26T18:18:00+0100" ],
     "category" : [ "capitalism" ],
