@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/willnorris/status/1518694675909013504" ],
     "name" : [ "Like of @willnorris's tweet" ],
     "published" : [ "2022-04-26T20:26:00+0100" ],
     "category" : [ "shitpost" ],
