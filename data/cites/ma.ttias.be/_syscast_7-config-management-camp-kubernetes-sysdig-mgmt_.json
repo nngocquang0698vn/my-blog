@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Config Management Camp: Kubernetes, Sysdig & Mgmt" ],
+    "summary" : [ "I’m back! Sort of.\nThis is a mono-episode where it’s just me talking about Config Management Camp, a conference held in Gent in February 2017." ],
+    "featured" : [ "https://ma.ttias.be//podcast/img/syscast-social-image-v3.png" ],
+    "audio" : [ "/podcast/episodes/Syscast-007-Syscast-Config-Mgt-Camp-2017-recap.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mattias Geniar" ]
+      }
+    } ],
+    "url" : [ "https://ma.ttias.be/syscast/7-config-management-camp-kubernetes-sysdig-mgmt/" ],
+    "published" : [ "2017-02-09T11:40:59+00:00" ]
+  }
+}
