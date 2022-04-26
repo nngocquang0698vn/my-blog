@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "146: Dependency Injection, Inversion of Control, and HttpClientFactory" ],
+    "summary" : [ "You read it right! James is going all in on DI and IoC... or is he? We chat about the pros, cons, and reasons why James hasn't gone all in for many years and why he has started to change his mind using the new Microsoft.Extensions.Host library!" ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/0/02d84890-e58d-43eb-ab4c-26bcc8524289/cover_medium.jpg?v=0" ],
+    "audio" : [ "https://chtbl.com/track/84EGD/aphid.fireside.fm/d/1437767933/02d84890-e58d-43eb-ab4c-26bcc8524289/eea24d42-da42-4799-b077-d7032e7176cc.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "soundbite.fm" ]
+      }
+    } ],
+    "url" : [ "http://www.mergeconflict.fm/146" ]
+  }
+}
