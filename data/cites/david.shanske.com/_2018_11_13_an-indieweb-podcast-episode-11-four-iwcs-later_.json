@@ -1,0 +1,69 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast – Episode 11 – Four IWCs Later" ],
+    "url" : [ "https://david.shanske.com/2018/11/13/an-indieweb-podcast-episode-11-four-iwcs-later/" ],
+    "duration" : [ "PT1H46M34S-05:00" ],
+    "published" : [ "2018-11-13T07:17:11-05:00" ],
+    "updated" : [ "2018-11-13T07:18:43-05:00" ],
+    "content" : [ {
+      "html" : "<audio class=\"wp-audio-shortcode\" id=\"audio-2330-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://david.shanske.com/wp-content/uploads/2018/11/Indieweb11.mp3?_=2\"></source><a href=\"https://david.shanske.com/wp-content/uploads/2018/11/Indieweb11.mp3\">https://david.shanske.com/wp-content/uploads/2018/11/Indieweb11.mp3</a></audio>\n<p>In the latest episode of An Indieweb Podcast, Chris Aldrich and I get together to talk about what we&#x2019;ve been up to since the last episode in September.</p>\n<p>&#xA0;</p>",
+      "value" : "https://david.shanske.com/wp-content/uploads/2018/11/Indieweb11.mp3\nIn the latest episode of An Indieweb Podcast, Chris Aldrich and I get together to talk about what we’ve been up to since the last episode in September.\n ",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "name" : [ "Finally!! lol" ],
+        "url" : [ "https://eddiehinkle.com/2018/11/13/12/reply/" ],
+        "published" : [ "2018-11-13T10:55:22-05:00" ],
+        "content" : [ {
+          "html" : "<p>Finally!! lol</p>",
+          "value" : "Finally!! lol",
+          "lang" : "en-US"
+        } ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Eddie Hinkle" ],
+            "photo" : [ "https://eddiehinkle.com/images/profile.jpg" ],
+            "url" : [ "https://eddiehinkle.com/" ]
+          },
+          "lang" : "en-US",
+          "value" : "https://eddiehinkle.com/"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://eddiehinkle.com/2018/11/13/12/reply/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/1062318535089758208#favorited-by-27620289" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Greg McVerry" ],
+            "url" : [ "https://twitter.com/jgmac1106" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/565227710104883200/g4MDcTnx.jpeg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Greg McVerry"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/1062318535089758208#favorited-by-27620289"
+    } ]
+  },
+  "lang" : "en-US"
+}
