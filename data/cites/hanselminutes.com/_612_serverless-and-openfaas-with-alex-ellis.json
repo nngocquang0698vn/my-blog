@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Serverless and OpenFaas with Alex Ellis" ],
+    "summary" : [ "Scott talks to Docker Captain and Open Source programmer Alex Ellis about the rise of Kubernetes, Serverless, and his project \"OpenFaas.\" Alex also shares details on the obsession (and usefulness) of Raspberry Pi clusters for learning large systems development.\r\n\r\n" ],
+    "featured" : [ "https://images.hanselminutes.com/podcast/shows/612.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Scott Hanselman" ]
+      }
+    } ],
+    "url" : [ "https://hanselminutes.com/612/serverless-and-openfaas-with-alex-ellis" ]
+  }
+}
