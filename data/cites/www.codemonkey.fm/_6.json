@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Governing Open Source Usage with Brian Fox" ],
+    "summary" : [ "Brian Fox, CTO at Sonatype joins us to discuss how to secure and govern open source usage in your company; In the News: Evernote migrates to Google Cloud; Java 9's Jigsaw Auto Modules are a step down with designing dependency management properly; ThoughtWorks shuts down SnapCI" ],
+    "featured" : [ "https://assets.fireside.fm/file/fireside-images/podcasts/images/2/26bc9846-c20e-4f38-871c-435f374b2867/cover_medium.jpg?v=1" ],
+    "audio" : [ "https://aphid.fireside.fm/d/1437767933/26bc9846-c20e-4f38-871c-435f374b2867/d727558d-1841-4ba8-b8b8-745c2ef8db7e.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Brian R. Jackson, Brian Demers" ]
+      }
+    } ],
+    "url" : [ "http://www.codemonkey.fm/6" ]
+  }
+}
