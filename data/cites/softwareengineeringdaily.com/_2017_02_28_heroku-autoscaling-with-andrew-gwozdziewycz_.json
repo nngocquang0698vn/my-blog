@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Heroku Autoscaling with Andrew Gwozdziewycz" ],
+    "summary" : [ "When an application is using all of its available resources, that application needs to be scaled. Scaling an application means giving it more resources–typically servers. Autoscaling is an engineering practice where an application is automatically given more or less resources based on how healthy the application performance is at a given time. Applications on Heroku" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2017/02/HerokuAutoscaling.png" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED7173276239.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2017/02/28/heroku-autoscaling-with-andrew-gwozdziewycz/" ],
+    "published" : [ "2021-11-02T13:25:22+00:00" ]
+  }
+}
