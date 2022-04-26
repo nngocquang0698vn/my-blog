@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "My Url Is jgregorymcverry.com (Episode 3)" ],
+    "author" : [ "https://myurlis.com/" ],
+    "featured" : [ "https://myurlis.com/assets/images/episode_003.jpg" ],
+    "audio" : [ "https://myurlis.com/assets/audio/003-jgregorymcverry.mp3" ],
+    "url" : [ "https://myurlis.com/episodes/003/" ],
+    "published" : [ "2018-12-07T09:30:00-05:00" ],
+    "content" : [ {
+      "html" : "<p>In this episode <a href=\"https://eddiehinkle.com\" class=\"u-category h-card\">Eddie</a> interviews <a href=\"https://jgregorymcverry.com\" class=\"u-category h-card\">Greg McVerry</a>. We talk about how Greg has used blogging and the IndieWeb as a professor, how his kids are an important part of what the IndieWeb means to him, his website woes and finally brainstorm how private groups could work on the IndieWeb.</p>\n\n<ul>\n  <li>Article: <a href=\"http://quickthoughts.jgregorymcverry.com/2018/10/17/some-indieweb-firsts\">Greg summarizes some of his IndieWeb firsts</a></li>\n  <li>Article: <a href=\"https://eddiehinkle.com/2018/10/17/12/article/\">Following in the IndieWeb: The Next Frontier</a>\n    <ul>\n      <li>Greg wrote some short posts and Eddie replied with this follow-up article discussing some of the topics that this episode touched on.</li>\n    </ul>\n  </li>\n  <li><a href=\"https://indieweb.org/AutoAuth\">AutoAuth</a> A new concept around communicating privately on the IndieWeb.</li>\n</ul>\n\n<p>If you enjoyed this podcast:</p>\n<ul>\n  <li>Please <a href=\"https://itunes.apple.com/us/podcast/my-url-is/id1437744240?mt=2\">leave a review in Apple Podcasts</a> and recommend it using your favorite podcast player.</li>\n  <li>You can help support the development of the show by <a href=\"https://eddiehinkle.com/sponsor\" rel=\"payment\">sponsoring Eddie</a></li>\n</ul>",
+      "value" : "In this episode Eddie interviews Greg McVerry. We talk about how Greg has used blogging and the IndieWeb as a professor, how his kids are an important part of what the IndieWeb means to him, his website woes and finally brainstorm how private groups could work on the IndieWeb. Article: Greg summarizes some of his IndieWeb firsts Article: Following in the IndieWeb: The Next Frontier Greg wrote some short posts and Eddie replied with this follow-up article discussing some of the topics that this episode touched on. AutoAuth A new concept around communicating privately on the IndieWeb.\nIf you enjoyed this podcast: Please leave a review in Apple Podcasts and recommend it using your favorite podcast player. You can help support the development of the show by sponsoring Eddie"
+    } ],
+    "photo" : [ "https://myurlis.com/assets/images/episode_003.jpg" ],
+    "category" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Eddie" ],
+        "url" : [ "https://eddiehinkle.com" ]
+      },
+      "value" : "https://eddiehinkle.com"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Greg McVerry" ],
+        "url" : [ "https://jgregorymcverry.com" ]
+      },
+      "value" : "https://jgregorymcverry.com"
+    } ]
+  }
+}
