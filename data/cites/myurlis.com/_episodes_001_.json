@@ -1,0 +1,31 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "My Url Is aaronparecki.com (Episode 1)" ],
+    "author" : [ "https://myurlis.com/" ],
+    "featured" : [ "https://myurlis.com/assets/images/episode_001.jpg" ],
+    "audio" : [ "https://myurlis.com/assets/audio/001-aaronparecki.mp3" ],
+    "url" : [ "https://myurlis.com/episodes/001/" ],
+    "published" : [ "2018-10-03T08:30:00-04:00" ],
+    "content" : [ {
+      "html" : "<p>In this episode <a href=\"https://eddiehinkle.com\" class=\"u-category h-card\">Eddie</a> interviews <a href=\"https://aaronparecki.com\" class=\"u-category h-card\">Aaron Parecki</a>, one of the co-founders of the <a href=\"https://indieweb.org\">IndieWeb</a>. We talk about how the IndieWeb got started, what makes an IndieWebCamp particularly memorable and how he decides if a new feature should be a public service or part of his website.</p>\n\n<ul>\n  <li>Service: <a href=\"https://indielogin.com\">IndieLogin</a></li>\n  <li>Service: <a href=\"http://telegraph.p3k.io\">Telegraph</a> (Sending Webmentions)</li>\n  <li>Service: <a href=\"http://webmention.io\">Webmention.io</a> (Receive Webmentions)</li>\n  <li><a href=\"https://indieweb.org/2018/NYC\">Aaron <em>was</em> able to attend IndieWebCamp NYC 2018</a></li>\n  <li><a href=\"https://indieweb.org/2018/Nuremberg\">IndieWebCamp Nuremberg 2018 is coming soon</a></li>\n  <li><a href=\"https://micro.blog\">Micro.blog, an easy way to get started in the IndieWeb</a></li>\n  <li><a href=\"https://myurlis.com/assets/show_notes/aaronparecki_trip_status.png\">Screenshot of Aaron&#x2019;s trip status on his website</a></li>\n  <li>Article: <a href=\"https://aaronparecki.com/2018/06/30/11/your-first-webmention\">Sending your First Webmention from Scratch</a></li>\n  <li>Article: <a href=\"https://aaronparecki.com/2018/04/20/46/indieweb-reader-my-new-home-on-the-internet\">An IndieWeb reader: My new home on the internet</a></li>\n  <li><a href=\"https://indieweb.org/p3k#Address_Book\">Aaron completed some initial work on his Address Book</a></li>\n</ul>\n\n<p>If you enjoyed this podcast:</p>\n<ul>\n  <li>Please <a href=\"https://itunes.apple.com/us/podcast/my-url-is/id1437744240?mt=2\">leave a review in Apple Podcasts</a> and recommend it using your favorite podcast player.</li>\n  <li>You can help support the development of the show by <a href=\"https://eddiehinkle.com/sponsor\" rel=\"payment\">sponsoring Eddie</a></li>\n</ul>",
+      "value" : "In this episode Eddie interviews Aaron Parecki, one of the co-founders of the IndieWeb. We talk about how the IndieWeb got started, what makes an IndieWebCamp particularly memorable and how he decides if a new feature should be a public service or part of his website. Service: IndieLogin Service: Telegraph (Sending Webmentions) Service: Webmention.io (Receive Webmentions) Aaron was able to attend IndieWebCamp NYC 2018 IndieWebCamp Nuremberg 2018 is coming soon Micro.blog, an easy way to get started in the IndieWeb Screenshot of Aaron’s trip status on his website Article: Sending your First Webmention from Scratch Article: An IndieWeb reader: My new home on the internet Aaron completed some initial work on his Address Book\nIf you enjoyed this podcast: Please leave a review in Apple Podcasts and recommend it using your favorite podcast player. You can help support the development of the show by sponsoring Eddie"
+    } ],
+    "photo" : [ "https://myurlis.com/assets/images/episode_001.jpg" ],
+    "category" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Eddie" ],
+        "url" : [ "https://eddiehinkle.com" ]
+      },
+      "value" : "https://eddiehinkle.com"
+    }, {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com" ]
+      },
+      "value" : "https://aaronparecki.com"
+    } ]
+  }
+}
