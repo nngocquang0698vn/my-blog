@@ -1,0 +1,24 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "Twitter" ],
+    "url" : [ "https://jlelse.blog/micro/2022/04/2022-04-25-yhtwa" ],
+    "published" : [ "2022-04-25T22:26:00+02:00" ],
+    "content" : [ {
+      "html" : "<p>Just for the record: <a href=\"https://jlelse.blog/posts/deleted-twitter\">I left Twitter</a> before it was cool to do so. &#x1F60A; But seriously, it was the right decision back then and I have no regrets.</p>",
+      "value" : "Just for the record: I left Twitter before it was cool to do so. 😊 But seriously, it was the right decision back then and I have no regrets.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan-Lukas Else" ],
+        "photo" : [ "https://jlelse.dev/profile.png" ],
+        "url" : [ "https://jlelse.blog/" ]
+      },
+      "lang" : "en",
+      "value" : "Jan-Lukas Else"
+    } ]
+  },
+  "lang" : "en"
+}
