@@ -1,0 +1,11 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Podcast Infrastructure with Mikael Emtinger" ],
+    "summary" : [ "The technology underlying podcasts is simple–a podcaster publishes mp3 files to an RSS feed, and the listener subscribes to that feed, receiving mp3s whenever the feed is updated. Unfortunately, the simplicity of podcasts makes it difficult to build automated advertising infrastructure on top of that simple RSS model. This lack of rich automated advertising has" ],
+    "featured" : [ "http://softwareengineeringdaily.com/wp-content/uploads/2016/07/podcast-infra.jpg" ],
+    "audio" : [ "https://traffic.megaphone.fm/SED2208064181.mp3?_=1" ],
+    "url" : [ "https://softwareengineeringdaily.com/2016/08/09/podcast-infrastructure-with-mikael-emtinger/" ],
+    "published" : [ "2021-11-05T09:40:22+00:00" ]
+  }
+}
