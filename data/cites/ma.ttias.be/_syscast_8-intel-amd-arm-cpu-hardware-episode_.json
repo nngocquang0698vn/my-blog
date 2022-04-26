@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "CPU wars: Intel vs. AMD vs. ARM" ],
+    "summary" : [ "In this new episode of Syscast, I talk to Jan Somers for a deep-dive into CPUs." ],
+    "featured" : [ "https://ma.ttias.be//podcast/img/syscast-social-image-v3.png" ],
+    "audio" : [ "/podcast/episodes/Syscast-008-Intel-Amd-Arm-CPU.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mattias Geniar" ]
+      }
+    } ],
+    "url" : [ "https://ma.ttias.be/syscast/8-intel-amd-arm-cpu-hardware-episode/" ],
+    "published" : [ "2020-01-16T10:00:59+00:00" ]
+  }
+}
