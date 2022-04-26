@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York and Miami " ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Arielle Castillo" ],
+          "nickname" : [ "ariellec" ],
+          "numeric-id" : [ "9149492" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1512449191964024836/PhrNdviv.jpg" ],
+          "published" : [ "2007-09-28T20:51:41+00:00" ],
+          "uid" : [ "tag:twitter.com:ariellec" ],
+          "url" : [ "https://twitter.com/ariellec", "http://linktr.ee/arielleccastillo" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We need three more before I’ll feel comfortable" ],
+      "published" : [ "2022-04-26T19:26:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1519035179217600512" ],
+      "url" : [ "https://twitter.com/ariellec/status/1519035179217600512" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "awakening" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "darth™" ],
+        "nickname" : [ "darth" ],
+        "numeric-id" : [ "1337271" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505918295924359172/boRtqZDb.jpg" ],
+        "published" : [ "2007-03-17T05:38:49+00:00" ],
+        "uid" : [ "tag:twitter.com:darth" ],
+        "url" : [ "https://twitter.com/darth" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "me when someone orders a plate of french fries 'for the table'" ],
+    "published" : [ "2022-04-26T19:37:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1519037901165670401" ],
+    "url" : [ "https://twitter.com/darth/status/1519037901165670401" ]
+  },
+  "type" : [ "h-entry" ]
+}
