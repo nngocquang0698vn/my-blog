@@ -1,0 +1,62 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "An Indieweb Podcast – Episode 6: WordPress and Types of Posts" ],
+    "url" : [ "https://david.shanske.com/2018/06/05/an-indieweb-podcast-episode-6-wordpress-and-types-of-posts/" ],
+    "syndication" : [ "https://twitter.com/dshanske/status/1004165794618658818" ],
+    "published" : [ "2018-06-05T20:59:11-04:00" ],
+    "updated" : [ "2018-10-13T22:03:49-04:00" ],
+    "content" : [ {
+      "html" : "In this episode, Chris and I discuss how Post Kinds mapped Indieweb types of posts to the WordPress system and why, the defined as opposed to implied types set up, and avatars.\n<p>While this is very WordPress centric, there are a lot of discussions here relevant to a broader Indieweb audience about adding new types of posts to your site, trying to design things flexibly(although a developer&#x2019;s guide is probably needed), etc.</p>",
+      "value" : "In this episode, Chris and I discuss how Post Kinds mapped Indieweb types of posts to the WordPress system and why, the defined as opposed to implied types set up, and avatars.\nWhile this is very WordPress centric, there are a lot of discussions here relevant to a broader Indieweb audience about adding new types of posts to your site, trying to design things flexibly(although a developer’s guide is probably needed), etc.",
+      "lang" : "en-US"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "David Shanske" ],
+        "photo" : [ "https://david.shanske.com/avatar/dshanske?s=42" ],
+        "url" : [ "https://david.shanske.com/" ]
+      },
+      "lang" : "en-US",
+      "value" : "David Shanske"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/dshanske/status/1004165794618658818#favorited-by-76772442" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Johannes Ernst" ],
+            "url" : [ "https://twitter.com/Johannes_Ernst" ],
+            "photo" : [ "https://pbs.twimg.com/profile_images/462335209015238656/ie0cRjdx.jpeg" ]
+          },
+          "lang" : "en-US",
+          "value" : "Johannes Ernst"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://twitter.com/dshanske/status/1004165794618658818#favorited-by-76772442"
+    } ],
+    "mention" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://collect.readwriterespond.com/avoiding-the-lock-in-effect-in-wordpress-nelio-software/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Aaron Davis" ],
+            "url" : [ "https://readwriterespond.com/" ],
+            "photo" : [ "https://secure.gravatar.com/avatar/d00e7ca24ca1b9c853da43af229c0e0e?s=125&d=default&r=g" ]
+          },
+          "lang" : "en-US",
+          "value" : "Aaron Davis"
+        } ]
+      },
+      "lang" : "en-US",
+      "value" : "https://collect.readwriterespond.com/avoiding-the-lock-in-effect-in-wordpress-nelio-software/"
+    } ]
+  },
+  "lang" : "en-US"
+}
