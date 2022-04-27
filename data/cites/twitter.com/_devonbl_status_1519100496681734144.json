@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🖤devon🖤" ],
+        "nickname" : [ "devonbl" ],
+        "numeric-id" : [ "42673587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1472775462329860099/J8rEGEJo.jpg" ],
+        "published" : [ "2009-05-26T17:36:16+00:00" ],
+        "uid" : [ "tag:twitter.com:devonbl" ],
+        "url" : [ "https://twitter.com/devonbl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">hear me out:\nexponential back off, but for people who make me sad</div>",
+      "value" : "hear me out:\nexponential back off, but for people who make me sad"
+    } ],
+    "published" : [ "2022-04-26T23:45:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1519100496681734144" ],
+    "url" : [ "https://twitter.com/devonbl/status/1519100496681734144" ]
+  },
+  "type" : [ "h-entry" ]
+}
