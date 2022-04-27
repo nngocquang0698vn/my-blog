@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Nerdskull" ],
+        "nickname" : [ "the_nerd_skull" ],
+        "numeric-id" : [ "1288553498695483394" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1312906642283884544/zAddIhpR.jpg" ],
+        "published" : [ "2020-07-29T19:14:41+00:00" ],
+        "uid" : [ "tag:twitter.com:the_nerd_skull" ],
+        "url" : [ "https://twitter.com/the_nerd_skull", "http://twitch.tv/m_nerdskull" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "To the point that it's a meme that the tech industry is full of furries." ],
+    "in-reply-to" : [ "https://twitter.com/the_nerd_skull/status/1519176575039672320" ],
+    "photo" : [ "https://pbs.twimg.com/media/FRUzjvQUcAAV-D1.jpg" ],
+    "published" : [ "2022-04-27T04:50:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1519177139760730112" ],
+    "url" : [ "https://twitter.com/the_nerd_skull/status/1519177139760730112" ]
+  },
+  "type" : [ "h-entry" ]
+}
