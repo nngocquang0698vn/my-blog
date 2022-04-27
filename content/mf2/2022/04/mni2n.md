@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amandamull/status/1518999759528382464" ],
     "name" : [ "Like of @amandamull's tweet" ],
     "published" : [ "2022-04-27T16:25:00+0100" ],
     "like-of" : [ "https://twitter.com/amandamull/status/1518999759528382464" ],
