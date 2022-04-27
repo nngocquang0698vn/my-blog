@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gordon Haff" ],
+        "nickname" : [ "ghaff" ],
+        "numeric-id" : [ "9151782" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/685228806202912768/mnuTt2ww.jpg" ],
+        "published" : [ "2007-09-28T23:39:55+00:00" ],
+        "uid" : [ "tag:twitter.com:ghaff" ],
+        "url" : [ "https://twitter.com/ghaff", "http://www.bitmasons.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In all fairness, you probably see different standards applied too. (Not that I really disagree with you.) While Kubecon was a complete footgun, People don't really expect companies to act in the same manner as foundations (even of the more commercial sort).\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mjasay\"></a>",
+      "value" : "In all fairness, you probably see different standards applied too. (Not that I really disagree with you.) While Kubecon was a complete footgun, People don't really expect companies to act in the same manner as foundations (even of the more commercial sort)."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mjasay/status/1519321584829313024" ],
+    "published" : [ "2022-04-27T14:33:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1519323917432852481" ],
+    "url" : [ "https://twitter.com/ghaff/status/1519323917432852481" ]
+  },
+  "type" : [ "h-entry" ]
+}
