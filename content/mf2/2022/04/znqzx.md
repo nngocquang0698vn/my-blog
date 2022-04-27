@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/devonbl/status/1519100496681734144" ],
     "name" : [ "Like of @devonbl's tweet" ],
     "published" : [ "2022-04-27T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/devonbl/status/1519100496681734144" ],
