@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/gitlab/status/1519392693503381504" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1519413121332428802" ],
     "name" : [ "Reply to https://twitter.com/gitlab/status/1519392693503381504" ],
     "published" : [ "2022-04-27T21:15:00+0100" ],
     "post-status" : [ "published" ],
