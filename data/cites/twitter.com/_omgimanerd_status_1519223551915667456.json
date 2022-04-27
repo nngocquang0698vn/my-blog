@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alvin Lin" ],
+        "nickname" : [ "omgimanerd" ],
+        "numeric-id" : [ "3796395033" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/720055011867111426/8FXBfI4g.jpg" ],
+        "published" : [ "2015-09-27T20:36:00+00:00" ],
+        "uid" : [ "tag:twitter.com:omgimanerd" ],
+        "url" : [ "https://twitter.com/omgimanerd", "http://omgimanerd.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Sea urchin is very soft and almost creamy when you press it with your tongue, kind of like soft scrambled eggs. It's naturally kind of salty and unctuous.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sabsthebabs\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/thedirtbird\"></a>",
+      "value" : "Sea urchin is very soft and almost creamy when you press it with your tongue, kind of like soft scrambled eggs. It's naturally kind of salty and unctuous."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sabsthebabs/status/1519193421453271040" ],
+    "published" : [ "2022-04-27T07:54:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1519223551915667456" ],
+    "url" : [ "https://twitter.com/omgimanerd/status/1519223551915667456" ]
+  },
+  "type" : [ "h-entry" ]
+}
