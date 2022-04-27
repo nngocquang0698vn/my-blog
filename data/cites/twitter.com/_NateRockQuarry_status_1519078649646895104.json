@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beautiful Rainy Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nathan Quarry" ],
+        "nickname" : [ "NateRockQuarry" ],
+        "numeric-id" : [ "22502456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2884189391/3a68de962140da1aa6b41d911124cca8.jpeg" ],
+        "published" : [ "2009-03-02T16:43:03+00:00" ],
+        "uid" : [ "tag:twitter.com:NateRockQuarry" ],
+        "url" : [ "https://twitter.com/NateRockQuarry", "http://www.nathanquarry.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Does this mean you're going to unblock all those you've blocked in the past?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "Does this mean you're going to unblock all those you've blocked in the past?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1519020176884305920" ],
+    "published" : [ "2022-04-26T22:19:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1519078649646895104" ],
+    "url" : [ "https://twitter.com/NateRockQuarry/status/1519078649646895104" ]
+  },
+  "type" : [ "h-entry" ]
+}
