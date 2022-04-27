@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BiFFaWashington/status/1519134943401627653" ],
     "name" : [ "Like of @BiFFaWashington's tweet" ],
     "published" : [ "2022-04-27T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/BiFFaWashington/status/1519134943401627653" ],
