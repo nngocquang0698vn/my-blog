@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HARDlNGHALE/status/1519047303117606914" ],
     "name" : [ "Like of @HARDlNGHALE's tweet" ],
     "published" : [ "2022-04-27T21:18:00+0100" ],
     "like-of" : [ "https://twitter.com/HARDlNGHALE/status/1519047303117606914" ],
