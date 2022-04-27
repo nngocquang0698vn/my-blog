@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/adam_baldwin/status/1519318528708382720" ],
     "name" : [ "Like of @adam_baldwin's tweet" ],
     "published" : [ "2022-04-27T16:28:00+0100" ],
     "like-of" : [ "https://twitter.com/adam_baldwin/status/1519318528708382720" ],
