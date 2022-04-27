@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston + Omaha" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Changelog" ],
+        "nickname" : [ "changelog" ],
+        "numeric-id" : [ "90286855" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199065640331595776/BNCgPsAw.jpg" ],
+        "published" : [ "2009-11-16T00:47:38+00:00" ],
+        "uid" : [ "tag:twitter.com:changelog" ],
+        "url" : [ "https://twitter.com/changelog", "https://changelog.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Things I can’t do on macOS which I can do on Ubuntu\n🖋 by <a href=\"https://twitter.com/edent\">@edent</a>\n🗄️ <a href=\"https://twitter.com/search?q=%23ubuntu\">#ubuntu</a> <a href=\"https://twitter.com/search?q=%23linux\">#linux</a> <a href=\"https://twitter.com/search?q=%23macos\">#macos</a>\n<a href=\"https://changelog.com/news/o9Y8\">changelog.com/news/o9Y8</a></div>",
+      "value" : "Things I can’t do on macOS which I can do on Ubuntu\n🖋 by @edent\n🗄️ #ubuntu #linux #macos\nchangelog.com/news/o9Y8"
+    } ],
+    "published" : [ "2022-04-27T15:43:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1519341353901121537" ],
+    "url" : [ "https://twitter.com/changelog/status/1519341353901121537" ]
+  },
+  "type" : [ "h-entry" ]
+}
