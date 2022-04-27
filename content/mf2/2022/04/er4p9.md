@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mjg59/status/1519225514975645698" ],
     "name" : [ "Like of @mjg59's tweet" ],
     "published" : [ "2022-04-27T11:07:00+0100" ],
     "like-of" : [ "https://twitter.com/mjg59/status/1519225514975645698" ],
