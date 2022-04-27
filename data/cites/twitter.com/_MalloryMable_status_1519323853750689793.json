@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Richmond" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mallory Mable" ],
+        "nickname" : [ "MalloryMable" ],
+        "numeric-id" : [ "4163491276" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1497685412604694534/X6VxCVVE.jpg" ],
+        "published" : [ "2015-11-11T11:24:44+00:00" ],
+        "uid" : [ "tag:twitter.com:MalloryMable" ],
+        "url" : [ "https://twitter.com/MalloryMable" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I think, every day about the traffic ticket I paid where the price of the ticket was tracked only in the url\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/janusrose\"></a>",
+      "value" : "I think, every day about the traffic ticket I paid where the price of the ticket was tracked only in the url"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/janusrose/status/1519322924171337728" ],
+    "published" : [ "2022-04-27T14:33:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1519323853750689793" ],
+    "url" : [ "https://twitter.com/MalloryMable/status/1519323853750689793" ]
+  },
+  "type" : [ "h-entry" ]
+}
