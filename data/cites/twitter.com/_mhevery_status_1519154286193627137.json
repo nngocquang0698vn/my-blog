@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Saratoga, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Misko Hevery" ],
+        "nickname" : [ "mhevery" ],
+        "numeric-id" : [ "14822853" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389683812968194049/MhsEUijj.jpg" ],
+        "published" : [ "2008-05-18T18:07:07+00:00" ],
+        "uid" : [ "tag:twitter.com:mhevery" ],
+        "url" : [ "https://twitter.com/mhevery", "http://misko.hevery.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The curse of engineering is that everything is obvious after the fact. \n\nThe fact that it took you n weeks and a half dozen design docs to figure it out is instantly forgotten.</div>",
+      "value" : "The curse of engineering is that everything is obvious after the fact. \n\nThe fact that it took you n weeks and a half dozen design docs to figure it out is instantly forgotten."
+    } ],
+    "published" : [ "2022-04-27T03:19:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1519154286193627137" ],
+    "url" : [ "https://twitter.com/mhevery/status/1519154286193627137" ]
+  },
+  "type" : [ "h-entry" ]
+}
