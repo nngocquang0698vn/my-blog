@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Income" ],
+    "summary" : [ "Cloud Native Platform Engineer" ],
+    "featured" : [ "https://blog.heyal.co.uk/images/me.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Alistair Hey" ]
+      }
+    } ],
+    "url" : [ "https://blog.heyal.co.uk/income/" ]
+  }
+}
