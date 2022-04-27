@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/faith_chancelor/status/1519142075853418497" ],
     "name" : [ "Like of @faith_chancelor's tweet" ],
     "published" : [ "2022-04-27T07:42:00+0100" ],
     "like-of" : [ "https://twitter.com/faith_chancelor/status/1519142075853418497" ],
