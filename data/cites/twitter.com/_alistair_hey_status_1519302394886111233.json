@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alistair Hey" ],
+        "nickname" : [ "alistair_hey" ],
+        "numeric-id" : [ "716872930853040128" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1189190333118070785/ICUkjI-c.jpg" ],
+        "published" : [ "2016-04-04T06:20:00+00:00" ],
+        "uid" : [ "tag:twitter.com:alistair_hey" ],
+        "url" : [ "https://twitter.com/alistair_hey" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Alright I'll do mine\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tomtucka\"></a>",
+      "value" : "Alright I'll do mine"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1519302177721884675" ],
+    "published" : [ "2022-04-27T13:08:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1519302394886111233" ],
+    "url" : [ "https://twitter.com/alistair_hey/status/1519302394886111233" ]
+  },
+  "type" : [ "h-entry" ]
+}
