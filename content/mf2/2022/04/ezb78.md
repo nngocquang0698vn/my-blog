@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Trustyalt/status/1519016570688708609" ],
     "name" : [ "Like of @Trustyalt's tweet" ],
     "published" : [ "2022-04-27T07:48:00+0100" ],
     "category" : [ "pokemon" ],
