@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/omgimanerd/status/1519223551915667456" ],
     "name" : [ "Like of @omgimanerd's tweet" ],
     "published" : [ "2022-04-27T17:01:00+0100" ],
     "category" : [ "food" ],
