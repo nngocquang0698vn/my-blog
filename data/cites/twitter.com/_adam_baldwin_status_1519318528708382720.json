@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Internet" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Hacker News" ],
+          "nickname" : [ "TheHackersNews" ],
+          "numeric-id" : [ "209811713" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/723571201449295877/-KeG1OdO.jpg" ],
+          "published" : [ "2010-10-29T23:55:25+00:00" ],
+          "uid" : [ "tag:twitter.com:TheHackersNews" ],
+          "url" : [ "https://twitter.com/TheHackersNews", "https://thehackernews.com/", "http://t.me/thehackernews" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A \"logical flaw\" has been disclosed in the <a href=\"https://twitter.com/search?q=%23NPM\">#NPM</a> package manager that allowed attackers to pass off malicious libraries as legitimate by adding notable developers as contributors without their knowledge, tricking unsuspecting devs into installing them.\n\n<a href=\"https://thehackernews.com/2022/04/npm-bug-allowed-attackers-to-distribute.html\">thehackernews.com/2022/04/npm-bu…</a></div>",
+        "value" : "A \"logical flaw\" has been disclosed in the #NPM package manager that allowed attackers to pass off malicious libraries as legitimate by adding notable developers as contributors without their knowledge, tricking unsuspecting devs into installing them.\n\nthehackernews.com/2022/04/npm-bu…"
+      } ],
+      "published" : [ "2022-04-27T05:00:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1519179714967240704" ],
+      "url" : [ "https://twitter.com/TheHackersNews/status/1519179714967240704" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thehackersnews…" ],
+      "url" : [ "https://twitter.com/thehackersnews/status/1519179714967240704" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🌲 PNW 🌲" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Baldwin" ],
+        "nickname" : [ "adam_baldwin" ],
+        "numeric-id" : [ "14878068" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1407814210914979842/exjUcIob.jpg" ],
+        "published" : [ "2008-05-23T05:38:53+00:00" ],
+        "uid" : [ "tag:twitter.com:adam_baldwin" ],
+        "url" : [ "https://twitter.com/adam_baldwin", "https://evilpacket.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This was a pentest finding from 8 years ago.\n<a class=\"tag\" href=\"https://twitter.com/thehackersnews/status/1519179714967240704\">twitter.com/thehackersnews…</a>",
+      "value" : "This was a pentest finding from 8 years ago."
+    } ],
+    "published" : [ "2022-04-27T14:12:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1519318528708382720" ],
+    "url" : [ "https://twitter.com/adam_baldwin/status/1519318528708382720" ]
+  },
+  "type" : [ "h-entry" ]
+}
