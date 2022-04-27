@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "All Remote 🌏" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🦊 GitLab" ],
+        "nickname" : [ "gitlab" ],
+        "numeric-id" : [ "390167291" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1519273706824126464/38nwZ4YY.jpg" ],
+        "published" : [ "2011-10-13T15:27:13+00:00" ],
+        "uid" : [ "tag:twitter.com:gitlab" ],
+        "url" : [ "https://twitter.com/gitlab", "https://linktr.ee/GitLab" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">New swag just dropped 👀\n<a href=\"https://shop.gitlab.com/shop/sale/\">shop.gitlab.com/shop/sale/</a></div>",
+      "value" : "New swag just dropped 👀\nshop.gitlab.com/shop/sale/"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FRX3mktXwAAChNa.jpg" ],
+    "published" : [ "2022-04-27T19:07:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1519392693503381504" ],
+    "url" : [ "https://twitter.com/gitlab/status/1519392693503381504" ]
+  },
+  "type" : [ "h-entry" ]
+}
