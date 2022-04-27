@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "hankchizljaw" ],
+        "numeric-id" : [ "98734097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466423005500878852/reY37ced.jpg" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "uid" : [ "tag:twitter.com:hankchizljaw" ],
+        "url" : [ "https://twitter.com/hankchizljaw", "https://andy-bell.co.uk/links", "http://cube.fyi", "http://every-layout.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Crypto and founded by a massive homophobe\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/delarge\"></a>",
+      "value" : "Crypto and founded by a massive homophobe"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/delarge/status/1519229697510584320" ],
+    "published" : [ "2022-04-27T08:38:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1519234607614464000" ],
+    "url" : [ "https://twitter.com/hankchizljaw/status/1519234607614464000" ]
+  },
+  "type" : [ "h-entry" ]
+}
