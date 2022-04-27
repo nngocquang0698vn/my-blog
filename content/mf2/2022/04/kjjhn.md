@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stubbornella/status/1519158188867694592" ],
     "name" : [ "Like of @stubbornella's tweet" ],
     "published" : [ "2022-04-27T17:04:00+0100" ],
     "like-of" : [ "https://twitter.com/stubbornella/status/1519158188867694592" ],
