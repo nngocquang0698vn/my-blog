@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/heauxrgeoisie/status/1518980089450487808" ],
     "name" : [ "Like of @heauxrgeoisie's tweet" ],
     "published" : [ "2022-04-27T19:18:00+0100" ],
     "like-of" : [ "https://twitter.com/heauxrgeoisie/status/1518980089450487808" ],
