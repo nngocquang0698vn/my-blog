@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/yenzie/status/…" ],
+        "url" : [ "https://twitter.com/yenzie/status/1519357911306321921" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Near Seattle WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "brian wisti" ],
+          "nickname" : [ "brianwisti" ],
+          "numeric-id" : [ "10376902" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+          "published" : [ "2007-11-19T07:40:48+00:00" ],
+          "uid" : [ "tag:twitter.com:brianwisti" ],
+          "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Me I just take a tired drag off a cigarette and go \"Best Practices? I haven't heard that name in years.\"\n<a class=\"tag\" href=\"https://twitter.com/yenzie/status/1519357911306321921\">twitter.com/yenzie/status/…</a>",
+        "value" : "Me I just take a tired drag off a cigarette and go \"Best Practices? I haven't heard that name in years.\""
+      } ],
+      "published" : [ "2022-04-27T17:04:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1519361838147801089" ],
+      "url" : [ "https://twitter.com/brianwisti/status/1519361838147801089" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Orlando, FL, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris (usually)" ],
+        "nickname" : [ "perigrin" ],
+        "numeric-id" : [ "798335" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1196616050961457152/wkm_nTip.jpg" ],
+        "published" : [ "2007-02-27T15:26:03+00:00" ],
+        "uid" : [ "tag:twitter.com:perigrin" ],
+        "url" : [ "https://twitter.com/perigrin", "http://perigr.in" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“Best practices? Yeah they’re one of those two things.”" ],
+    "published" : [ "2022-04-27T17:53:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1519374162795634688" ],
+    "url" : [ "https://twitter.com/perigrin/status/1519374162795634688" ]
+  },
+  "type" : [ "h-entry" ]
+}
