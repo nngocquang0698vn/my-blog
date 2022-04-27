@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Calvin Wong Tze Loon 黃子倫 🇲🇾" ],
+          "nickname" : [ "ithayla" ],
+          "numeric-id" : [ "63384057" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1510035347777884161/d8e4WXdk.jpg" ],
+          "published" : [ "2009-08-06T05:36:46+00:00" ],
+          "uid" : [ "tag:twitter.com:ithayla" ],
+          "url" : [ "https://twitter.com/ithayla", "http://www.dinganddentcast.com", "http://ko-fi.com/ithayla" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">elon financed his Twitter bid for 43bn (he hasn't officially bought it yet) with a loan leveraged against tesla stock. \n\ntesla dropped 11 percent today. 110bn market value lost. \n\nif it loses 40 percent he has to repay his loan. \n\nit would be funny except- no. wait. it is.</div>",
+        "value" : "elon financed his Twitter bid for 43bn (he hasn't officially bought it yet) with a loan leveraged against tesla stock. \n\ntesla dropped 11 percent today. 110bn market value lost. \n\nif it loses 40 percent he has to repay his loan. \n\nit would be funny except- no. wait. it is."
+      } ],
+      "published" : [ "2022-04-26T19:32:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1519036616513257472" ],
+      "url" : [ "https://twitter.com/ithayla/status/1519036616513257472" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cher Scarlett" ],
+        "nickname" : [ "cherthedev" ],
+        "numeric-id" : [ "15790639" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516133517612122114/DXEcz_tr.jpg" ],
+        "published" : [ "2008-08-09T17:27:02+00:00" ],
+        "uid" : [ "tag:twitter.com:cherthedev" ],
+        "url" : [ "https://twitter.com/cherthedev", "http://cher.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How is this legal" ],
+    "published" : [ "2022-04-27T14:32:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1519323724628905985" ],
+    "url" : [ "https://twitter.com/cherthedev/status/1519323724628905985" ]
+  },
+  "type" : [ "h-entry" ]
+}
