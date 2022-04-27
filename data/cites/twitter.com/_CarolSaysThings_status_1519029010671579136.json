@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Nottingham, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "ProjectFunction" ],
+          "nickname" : [ "projectfunction" ],
+          "numeric-id" : [ "1075373010515824640" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1399805852081610762/87FLxX_L.jpg" ],
+          "published" : [ "2018-12-19T12:51:19+00:00" ],
+          "uid" : [ "tag:twitter.com:projectfunction" ],
+          "url" : [ "https://twitter.com/projectfunction", "https://projectfunction.io/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/CarolSaysThings\">@CarolSaysThings</a> recapping her story into becoming a Web Engineer from 🇧🇷 to 🇬🇧! Carol also mentions the power of community 💙🥺\n\n<a href=\"https://twitter.com/search?q=%23PFWave7\">#PFWave7</a></div>",
+        "value" : "@CarolSaysThings recapping her story into becoming a Web Engineer from 🇧🇷 to 🇬🇧! Carol also mentions the power of community 💙🥺\n\n#PFWave7"
+      } ],
+      "photo" : [ {
+        "alt" : "Carol speaking to our learners",
+        "value" : "https://pbs.twimg.com/media/FRSqBzJXMAIJfkj.jpg"
+      } ],
+      "published" : [ "2022-04-26T18:49:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1519025929183543296" ],
+      "url" : [ "https://twitter.com/projectfunction/status/1519025929183543296" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499765989831065607/fzAUmgRa.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Meeting folks who are getting into tech always fills me with hope and enthusiasm 💛✨" ],
+    "published" : [ "2022-04-26T19:01:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1519029010671579136" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1519029010671579136" ]
+  },
+  "type" : [ "h-entry" ]
+}
