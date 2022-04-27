@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/janusrose/status/1519322924171337728" ],
     "name" : [ "Like of @janusrose's tweet" ],
     "published" : [ "2022-04-27T16:20:00+0100" ],
     "like-of" : [ "https://twitter.com/janusrose/status/1519322924171337728" ],
