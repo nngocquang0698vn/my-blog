@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alistair_hey/status/1519315520373338112" ],
     "name" : [ "Like of @alistair_hey's tweet" ],
     "published" : [ "2022-04-27T15:01:00+0100" ],
     "category" : [ "salary" ],
