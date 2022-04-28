@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/faketitojohnsON/status/1518945299951235078" ],
     "name" : [ "Like of @faketitojohnsON's tweet" ],
     "published" : [ "2022-04-28T10:11:00+0100" ],
     "like-of" : [ "https://twitter.com/faketitojohnsON/status/1518945299951235078" ],
