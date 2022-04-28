@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/reduct_rs/status/1399835185718435848" ],
     "name" : [ "Like of @reduct_rs's tweet" ],
     "published" : [ "2022-04-28T19:36:00+0100" ],
     "like-of" : [ "https://twitter.com/reduct_rs/status/1399835185718435848" ],
