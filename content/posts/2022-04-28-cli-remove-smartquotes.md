@@ -1,14 +1,14 @@
 ---
 title: "Removing 'smart' quotes from a file, on the command-line"
 description: "A one-liner with `sed` to replace 'smart' quotes with regular quotes."
-date: 2022-04-28T13:57:44+0100
+date: "2022-04-28T13:57:44+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1519664592967843841"
 tags:
-- blogumentation
-- command-line
-- mac
-- linux
+- "blogumentation"
+- "command-line"
+- "mac"
+- "linux"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "cli-remove-smartquotes"
