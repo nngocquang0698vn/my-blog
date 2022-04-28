@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "portland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rachel Kelly 🌈" ],
+        "nickname" : [ "wholemilk" ],
+        "numeric-id" : [ "14989163" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508210055086153732/IpprnDJZ.jpg" ],
+        "published" : [ "2008-06-03T04:23:58+00:00" ],
+        "uid" : [ "tag:twitter.com:wholemilk" ],
+        "url" : [ "https://twitter.com/wholemilk", "http://rkode.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I did it, I made a website for my little posts at <a href=\"http://rachel.live\">rachel.live</a>, more to dial in but a start!",
+      "value" : "I did it, I made a website for my little posts at rachel.live, more to dial in but a start!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/wholemilk/status/1519680987634020352" ],
+    "published" : [ "2022-04-28T14:16:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1519681881758830593" ],
+    "url" : [ "https://twitter.com/wholemilk/status/1519681881758830593" ]
+  },
+  "type" : [ "h-entry" ]
+}
