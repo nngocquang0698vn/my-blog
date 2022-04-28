@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Seth Vargo" ],
+        "nickname" : [ "sethvargo" ],
+        "numeric-id" : [ "262914828" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808025120296013825/frGuc14s.jpg" ],
+        "published" : [ "2011-03-09T00:54:05+00:00" ],
+        "uid" : [ "tag:twitter.com:sethvargo" ],
+        "url" : [ "https://twitter.com/sethvargo", "https://www.sethvargo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I've been coding and managing computer systems for nearly 20 years, and I just got the argument order for creating a symlink incorrect, blowing away a weeks worth of work. AMA." ],
+    "published" : [ "2022-04-28T14:31:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1519685636990672896" ],
+    "url" : [ "https://twitter.com/sethvargo/status/1519685636990672896" ]
+  },
+  "type" : [ "h-entry" ]
+}
