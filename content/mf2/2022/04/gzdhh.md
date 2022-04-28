@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/conradludgate/terraform-provider-spotify/stargazers" ],
     "name" : [ "Like of https://github.com/conradludgate/terraform-provider-spotify" ],
     "published" : [ "2022-04-28T13:15:00+0100" ],
     "like-of" : [ "https://github.com/conradludgate/terraform-provider-spotify" ],
