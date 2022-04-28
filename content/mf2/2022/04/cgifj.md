@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bodhisappho/status/1518955847103168513" ],
     "name" : [ "Like of @bodhisappho's tweet" ],
     "published" : [ "2022-04-28T19:02:00+0100" ],
     "like-of" : [ "https://twitter.com/bodhisappho/status/1518955847103168513" ],
