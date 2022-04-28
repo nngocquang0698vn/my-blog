@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheBloggess/status/1519443789491970049" ],
     "name" : [ "Like of @TheBloggess's tweet" ],
     "published" : [ "2022-04-28T07:32:00+0100" ],
     "like-of" : [ "https://twitter.com/TheBloggess/status/1519443789491970049" ],
