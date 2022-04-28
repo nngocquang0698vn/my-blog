@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Gijón" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Francisco Moreno" ],
+        "nickname" : [ "morvader" ],
+        "numeric-id" : [ "191130308" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1114776131536850945/d61h6GfC.jpg" ],
+        "published" : [ "2010-09-15T17:42:29+00:00" ],
+        "uid" : [ "tag:twitter.com:morvader" ],
+        "url" : [ "https://twitter.com/morvader", "http://testingfromthetrenches.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Friendly reminder" ],
+    "photo" : [ {
+      "alt" : "Testers don't break the code, they break your illusions about the code",
+      "value" : "https://pbs.twimg.com/media/FRazjduWQAItnue.jpg"
+    } ],
+    "published" : [ "2022-04-28T08:49:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1519599680325406722" ],
+    "url" : [ "https://twitter.com/morvader/status/1519599680325406722" ]
+  },
+  "type" : [ "h-entry" ]
+}
