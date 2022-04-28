@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CthuhluRisen/status/1519215942928146433" ],
     "name" : [ "Like of @CthuhluRisen's tweet" ],
     "published" : [ "2022-04-28T07:35:00+0100" ],
     "like-of" : [ "https://twitter.com/CthuhluRisen/status/1519215942928146433" ],
