@@ -1,0 +1,63 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "This Week in the IndieWeb Audio Edition • September 1st - 7th, 2018" ],
+    "category" : [ "podcast", "IndieWeb", "this-week-indieweb-podcast" ],
+    "audio" : [ "https://media.martymcgui.re/cf/50/d1/06/bc3f08c9c8dd0f326af14683c16c1e24962b0680d99d71272405ede6.mp3" ],
+    "url" : [ "https://martymcgui.re/2018/09/11/this-week-in-the-indieweb-audio-edition-september-1st-7th-2018/" ],
+    "syndication" : [ "https://huffduffer.com/schmarty/501712", "https://twitter.com/schmarty/status/1039665112406212608", "https://www.facebook.com/marty.mcguire.54/posts/10212840930640037" ],
+    "published" : [ "2018-09-11T19:57:43-0400" ],
+    "content" : [ {
+      "html" : "<div class=\"audios\">\n    \n      <audio controls=\"\" style=\"width: 100%\" preload=\"none\">\n    <source class=\"u-audio\" type=\"audio/mpeg\" src=\"https://media.martymcgui.re/cf/50/d1/06/bc3f08c9c8dd0f326af14683c16c1e24962b0680d99d71272405ede6.mp3\"></source>\n  </audio>\n  <details>\n      <summary style=\"display: list-item; margin: 0.5em 0\">Show/Hide Transcript</summary>\n      <iframe src=\"https://media.martymcgui.re/4f/19/30/e3/931fbc3a699499b41946fd605eeb5d81ff9da45559b2c3381f73c63e.txt\" style=\"box-sizing: border-box; width: 100%; height: 100vh; border: black 1px solid; background-color: rgba(255,255,255,0.4);\"></iframe>\n    </details>\n  <script src=\"https://martymcgui.re/js/media_fragment.js\"></script>\n</div>\n  <p>XOXO Fest happened, fighting in the Fediverse, and new microsub clients bloom. It&#x2019;s the audio edition for <a href=\"https://indieweb.org/this-week/2018-09-07.html\">This Week in the IndieWeb for September 1st - 7th, 2018</a>.</p>\n\n<p>You can find all of my audio editions and subscribe with your favorite podcast app here: <a href=\"https://martymcgui.re/podcasts/indieweb/\">martymcgui.re/podcasts/indieweb/</a>.</p>\n\n<p>Music from <a href=\"https://aaronparecki.com/\">Aaron Parecki</a>&#x2019;s <a href=\"https://100.aaronparecki.com/\">100DaysOfMusic project</a>: <a href=\"https://aaronparecki.com/2017/03/15/14/day85\">Day 85 - Suit</a>, <a href=\"https://aaronparecki.com/2017/02/06/7/day48\">Day 48 - Glitch</a>, <a href=\"https://aaronparecki.com/2017/02/07/4/day49\">Day 49 - Floating</a>, <a href=\"https://aaronparecki.com/2016/12/29/21/day-9\">Day 9</a>, and <a href=\"https://aaronparecki.com/2016/12/31/15/\">Day 11</a></p>\n\n<p>Thanks to everyone in the <a href=\"https://chat.indieweb.org/\">IndieWeb chat</a> for their feedback and suggestions. Please drop me a note if there are any changes you&#x2019;d like to see for this audio edition!</p>",
+      "value" : "Show/Hide Transcript\nXOXO Fest happened, fighting in the Fediverse, and new microsub clients bloom. It’s the audio edition for This Week in the IndieWeb for September 1st - 7th, 2018.\nYou can find all of my audio editions and subscribe with your favorite podcast app here: martymcgui.re/podcasts/indieweb/.\nMusic from Aaron Parecki’s 100DaysOfMusic project: Day 85 - Suit, Day 48 - Glitch, Day 49 - Floating, Day 9, and Day 11\nThanks to everyone in the IndieWeb chat for their feedback and suggestions. Please drop me a note if there are any changes you’d like to see for this audio edition!",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ "https://martymcgui.re/images/logo.jpg" ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schmarty/status/1039665112406212608#favorited-by-817204" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/pbs.twimg.com/198e8f24fb7e93b7cfc1574ff9cbe86e0b717ef889059ee25b2ae27e61d8c15b.jpg" ],
+            "name" : [ "paul dot x" ]
+          },
+          "lang" : "en",
+          "value" : "paul dot x"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "paul dot x"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "Listened This Week in the IndieWeb Audio Edition • September 1st - 7th, 2018 by Marty McGuire from martymcgui.re XOXO Fest happened, fighting in the Fediverse, and new microsub clients bloom. It’s the audio edition for This Week in the IndieWeb for September 1st - 7th, 2018. If possible, click to play, otherwise your browser may be unable to play this audio file. Syndicated copies to:" ],
+        "name" : [ "Listened This Week in the IndieWeb Audio Edition • September 1st - 7th, 2018 by Marty McGuire from martymcgui.re XOXO Fest happened, fighting in the Fediverse, and new microsub clients bloom. It’s the audio edition for This Week in the IndieWeb for September 1st - 7th, 2018. If possible, click to play, otherwise your browser may be unable to play this audio file. Syndicated copies to:" ],
+        "url" : [ "https://boffosocko.com/2018/09/11/this-week-in-the-indieweb-audio-edition-%e2%80%a2-september-1st-7th-2018/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Aldrich" ],
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/secure.gravatar.com/f5329269ffe65205eec710dad09b891b6f6f7f7795fc182197922f851b9d0a7e.jpg" ]
+          },
+          "lang" : "en",
+          "value" : "https://boffosocko.com/"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "https://boffosocko.com/2018/09/11/this-week-in-the-indieweb-audio-edition-%e2%80%a2-september-1st-7th-2018/"
+    } ]
+  },
+  "lang" : "en"
+}
