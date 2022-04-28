@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/winonaparadise/status/1519445990327132160" ],
     "name" : [ "Like of @winonaparadise's tweet" ],
     "published" : [ "2022-04-28T07:27:00+0100" ],
     "like-of" : [ "https://twitter.com/winonaparadise/status/1519445990327132160" ],
