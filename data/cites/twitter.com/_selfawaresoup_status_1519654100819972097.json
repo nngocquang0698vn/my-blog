@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Esther" ],
+        "nickname" : [ "selfawaresoup" ],
+        "numeric-id" : [ "17742694" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515770966428815366/58MegbZN.jpg" ],
+        "published" : [ "2008-11-29T22:02:54+00:00" ],
+        "uid" : [ "tag:twitter.com:selfawaresoup" ],
+        "url" : [ "https://twitter.com/selfawaresoup", "https://www.selfawaresoup.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Chances are if you can publicly complain about “free speech” without any risk to your safety, you already have it." ],
+    "published" : [ "2022-04-28T12:25:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1519654100819972097" ],
+    "url" : [ "https://twitter.com/selfawaresoup/status/1519654100819972097" ]
+  },
+  "type" : [ "h-entry" ]
+}
