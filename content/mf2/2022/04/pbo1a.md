@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1519505482511269892" ],
     "name" : [ "Like of @jackyalcine's tweet" ],
     "published" : [ "2022-04-28T07:36:00+0100" ],
     "like-of" : [ "https://twitter.com/jackyalcine/status/1519505482511269892" ],
