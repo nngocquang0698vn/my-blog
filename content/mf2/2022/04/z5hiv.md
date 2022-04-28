@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EdOverflow/status/1519415583896481792" ],
     "name" : [ "Like of @EdOverflow's tweet" ],
     "published" : [ "2022-04-28T10:06:00+0100" ],
     "like-of" : [ "https://twitter.com/EdOverflow/status/1519415583896481792" ],
