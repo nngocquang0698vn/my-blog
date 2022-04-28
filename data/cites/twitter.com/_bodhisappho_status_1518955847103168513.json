@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "rock bottom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kira" ],
+        "nickname" : [ "bodhisappho" ],
+        "numeric-id" : [ "1461919840151785472" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461922015003217920/d5OGbwgE.jpg" ],
+        "published" : [ "2021-11-20T04:51:03+00:00" ],
+        "uid" : [ "tag:twitter.com:bodhisappho" ],
+        "url" : [ "https://twitter.com/bodhisappho" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "heroes, every last one\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HerbBride\"></a>",
+      "value" : "heroes, every last one"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/HerbBride/status/1518942446327144448" ],
+    "published" : [ "2022-04-26T14:11:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1518955847103168513" ],
+    "url" : [ "https://twitter.com/bodhisappho/status/1518955847103168513" ]
+  },
+  "type" : [ "h-entry" ]
+}
