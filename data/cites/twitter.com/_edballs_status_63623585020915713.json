@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London-Castleford-Cambridge MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ed Balls" ],
+        "nickname" : [ "edballs" ],
+        "numeric-id" : [ "16708655" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1381164154007007232/XvYzqJwE.jpg" ],
+        "published" : [ "2008-10-12T15:15:01+00:00" ],
+        "uid" : [ "tag:twitter.com:edballs" ],
+        "url" : [ "https://twitter.com/edballs", "http://www.edballs.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ed Balls" ],
+    "published" : [ "2011-04-28T15:20:19+00:00" ],
+    "uid" : [ "tag:twitter.com:63623585020915713" ],
+    "url" : [ "https://twitter.com/edballs/status/63623585020915713" ]
+  },
+  "type" : [ "h-entry" ]
+}
