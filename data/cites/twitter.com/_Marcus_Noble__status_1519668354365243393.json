@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "PID 1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marcus Noble" ],
+        "nickname" : [ "Marcus_Noble_" ],
+        "numeric-id" : [ "14732545" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1425187193094615054/dVWI-e4W.png" ],
+        "published" : [ "2008-05-11T09:51:36+00:00" ],
+        "uid" : [ "tag:twitter.com:Marcus_Noble_" ],
+        "url" : [ "https://twitter.com/Marcus_Noble_", "https://marcusnoble.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Any reason for `sed` rather than `tr`?\n\nE.g.\n\n```\necho \"git commit -m “Publish blog post“\" | tr '“' '\"'\n```</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "Any reason for `sed` rather than `tr`?\n\nE.g.\n\n```\necho \"git commit -m “Publish blog post“\" | tr '“' '\"'\n```"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1519664592967843841" ],
+    "published" : [ "2022-04-28T13:22:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1519668354365243393" ],
+    "url" : [ "https://twitter.com/Marcus_Noble_/status/1519668354365243393" ]
+  },
+  "type" : [ "h-entry" ]
+}
