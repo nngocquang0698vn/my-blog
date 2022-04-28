@@ -1,17 +1,17 @@
 ---
 title: "Extracting Podcast Addict listening history from the SQLite database"
 description: "How to get raw listening history from the Podcast Addict database."
-date: 2022-04-28T21:04:10+0100
+date: "2022-04-28T21:04:10+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1519771446695841793"
 tags:
 - "blogumentation"
-- podcast-addict
-- sqlite
+- "podcast-addict"
+- "sqlite"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/28059848fe.jpeg"
 slug: "podcast-addict-sqlite"
-image: https://media.jvt.me/28059848fe.jpeg
 ---
 I listen to a lot of podcasts, especially recently where I'm finding it easier than listening to text-to-speech of my to-read list of articles, and I use the excellent [Podcast Addict](https://podcastaddict.com/).
 
