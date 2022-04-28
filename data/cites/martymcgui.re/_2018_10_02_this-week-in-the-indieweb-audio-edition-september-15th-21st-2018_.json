@@ -1,0 +1,95 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "This Week in the IndieWeb Audio Edition • September 15th - 21st, 2018" ],
+    "category" : [ "podcast", "IndieWeb", "this-week-indieweb-podcast" ],
+    "audio" : [ "https://media.martymcgui.re/f4/a6/f3/65/8867e678e715f4760d327422903606093376dce304a39c084c7066da.mp3" ],
+    "url" : [ "https://martymcgui.re/2018/10/02/this-week-in-the-indieweb-audio-edition-september-15th-21st-2018/" ],
+    "syndication" : [ "https://huffduffer.com/schmarty/504740", "https://twitter.com/schmarty/status/1046909525926842368", "https://www.facebook.com/marty.mcguire.54/posts/10212971376261096" ],
+    "published" : [ "2018-10-02T01:44:52+0200" ],
+    "content" : [ {
+      "html" : "<div class=\"audios\">\n    \n      <audio controls=\"\" style=\"width: 100%\" preload=\"none\">\n    <source class=\"u-audio\" type=\"audio/mpeg\" src=\"https://media.martymcgui.re/f4/a6/f3/65/8867e678e715f4760d327422903606093376dce304a39c084c7066da.mp3\"></source>\n  </audio>\n  <details>\n      <summary style=\"display: list-item; margin: 0.5em 0\">Show/Hide Transcript</summary>\n      <iframe src=\"https://media.martymcgui.re/84/cc/00/f1/8e043c8be7bd494deae272edfd5bc7851c722392d6c68866ca3699c1.txt\" style=\"box-sizing: border-box; width: 100%; height: 100vh; border: black 1px solid; background-color: rgba(255,255,255,0.4);\"></iframe>\n    </details>\n  <script src=\"https://martymcgui.re/js/media_fragment.js\"></script>\n</div>\n  <p>Another late one but a great one. Mastodon adds rel-me, geocaching with WordPress, and Path ends their incredible journey. It&#x2019;s the audio edition for <a href=\"https://indieweb.org/this-week/2018-09-21.html\">This Week in the IndieWeb for September 15th - 21st, 2018</a>.</p>\n\n<p>You can find all of my audio editions and subscribe with your favorite podcast app here: <a href=\"https://martymcgui.re/podcasts/indieweb/\">martymcgui.re/podcasts/indieweb/</a>.</p>\n\n<p>Music from <a href=\"https://aaronparecki.com/\">Aaron Parecki</a>&#x2019;s <a href=\"https://100.aaronparecki.com/\">100DaysOfMusic project</a>: <a href=\"https://aaronparecki.com/2017/03/15/14/day85\">Day 85 - Suit</a>, <a href=\"https://aaronparecki.com/2017/02/06/7/day48\">Day 48 - Glitch</a>, <a href=\"https://aaronparecki.com/2017/02/07/4/day49\">Day 49 - Floating</a>, <a href=\"https://aaronparecki.com/2016/12/29/21/day-9\">Day 9</a>, and <a href=\"https://aaronparecki.com/2016/12/31/15/\">Day 11</a></p>\n\n<p>Thanks to everyone in the <a href=\"https://chat.indieweb.org/\">IndieWeb chat</a> for their feedback and suggestions. Please drop me a note if there are any changes you&#x2019;d like to see for this audio edition!</p>",
+      "value" : "Show/Hide Transcript\nAnother late one but a great one. Mastodon adds rel-me, geocaching with WordPress, and Path ends their incredible journey. It’s the audio edition for This Week in the IndieWeb for September 15th - 21st, 2018.\nYou can find all of my audio editions and subscribe with your favorite podcast app here: martymcgui.re/podcasts/indieweb/.\nMusic from Aaron Parecki’s 100DaysOfMusic project: Day 85 - Suit, Day 48 - Glitch, Day 49 - Floating, Day 9, and Day 11\nThanks to everyone in the IndieWeb chat for their feedback and suggestions. Please drop me a note if there are any changes you’d like to see for this audio edition!",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ "https://martymcgui.re/images/logo.jpg" ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schmarty/status/1046909525926842368#favorited-by-9717342" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/pbs.twimg.com/edce3fb0d8bf5e79938dce3469e52953370d7ce62e15456672e27265cfc804de.jpeg" ],
+            "name" : [ "Atul Varma" ]
+          },
+          "lang" : "en",
+          "value" : "Atul Varma"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Atul Varma"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schmarty/status/1046909525926842368#favorited-by-14140351" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/pbs.twimg.com/90154908e92a8845343edcd976154db51ef3fd0990fd4d208276b31e4e4c74bc.png" ],
+            "name" : [ "Chris Burnell" ]
+          },
+          "lang" : "en",
+          "value" : "Chris Burnell"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Chris Burnell"
+    }, {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schmarty/status/1046909525926842368#favorited-by-961661" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/pbs.twimg.com/ce4f2f04b015ad5bd826584ceac5e6dbf0c8c1b9be2bdce80df7bc7a1d83bdcd.jpeg" ],
+            "name" : [ "TomWithTheWeather" ]
+          },
+          "lang" : "en",
+          "value" : "TomWithTheWeather"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "TomWithTheWeather"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "Just finished listening to \"This week in the #IndieWeb, audio edition\". I enjoy these every week. martymcgui.re/2018/10/01/194…" ],
+        "name" : [ "Just finished listening to \"This week in the #IndieWeb, audio edition\". I enjoy these every week. martymcgui.re/2018/10/01/194…" ],
+        "url" : [ "https://twitter.com/cswordpress/status/1046943922629562368" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Amanda J. Rush" ],
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/pbs.twimg.com/f857ae597fa2ca438c5d8450fd707a8a8f9f2d48ea6295797a96a9c8d453e68b.jpg" ]
+          },
+          "lang" : "en",
+          "value" : "https://www.customerservant.com"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "https://twitter.com/cswordpress/status/1046943922629562368"
+    } ]
+  },
+  "lang" : "en"
+}
