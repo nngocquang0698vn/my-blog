@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amanda Smith" ],
+        "nickname" : [ "AmandaSmithSays" ],
+        "numeric-id" : [ "74297967" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459295208399540232/jU0HBwPe.jpg" ],
+        "published" : [ "2009-09-14T23:22:00+00:00" ],
+        "uid" : [ "tag:twitter.com:AmandaSmithSays" ],
+        "url" : [ "https://twitter.com/AmandaSmithSays", "https://www.amazon.com/dp/1693922061" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Him: what are you thinking about? \nMe: nothing\n\nwhat I’m actually thinking about:</div>",
+      "value" : "Him: what are you thinking about? \nMe: nothing\n\nwhat I’m actually thinking about:"
+    } ],
+    "published" : [ "2022-04-08T18:15:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1512494373115621381" ],
+    "url" : [ "https://twitter.com/AmandaSmithSays/status/1512494373115621381" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1512494281616855043/pu/vid/720x720/Q5wEINNsM4tFyYEg.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
