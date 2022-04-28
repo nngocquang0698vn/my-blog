@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tinymakesthings/status/1519729322646409216" ],
     "name" : [ "Like of @tinymakesthings's tweet" ],
     "published" : [ "2022-04-28T19:06:00+0100" ],
     "category" : [ "mechanical-keyboard" ],
