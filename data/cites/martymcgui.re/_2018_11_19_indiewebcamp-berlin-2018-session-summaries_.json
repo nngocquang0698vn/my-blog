@@ -1,0 +1,64 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "IndieWebCamp Berlin 2018 Session Summaries" ],
+    "category" : [ "podcast", "this-week-indieweb-podcast", "IndieWeb", "IWC", "Berlin" ],
+    "audio" : [ "https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin-2018.mp3" ],
+    "repost-of" : [ "https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin" ],
+    "url" : [ "https://martymcgui.re/2018/11/19/indiewebcamp-berlin-2018-session-summaries/" ],
+    "syndication" : [ "https://huffduffer.com/schmarty/512241", "https://twitter.com/schmarty/status/1064560664507793408", "https://www.facebook.com/marty.mcguire.54/posts/10213293755360372" ],
+    "published" : [ "2018-11-19T09:34:53-0500" ],
+    "content" : [ {
+      "html" : "<div class=\"audios\">\n    \n      <audio controls=\"\" style=\"width: 100%\" preload=\"none\">\n    <source class=\"u-audio\" type=\"audio/mpeg\" src=\"https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin-2018.mp3\"></source>\n  </audio>\n  <script src=\"https://martymcgui.re/js/media_fragment.js\"></script>\n</div>\n  <p>Listen to a summary of all the sessions at IndieWebCamp Berlin 2018!</p>\n\n<p>Session notes: <a href=\"https://indieweb.org/2018/Berlin/Sessions\">https://indieweb.org/2018/Berlin/Sessions</a></p>\n\n<p>Narration by <a href=\"https://martymcgui.re/\">Marty McGuire</a></p>\n\n<p>Edited by <a href=\"https://aaronparecki.com/\">Aaron Parecki</a></p>\n\n<p>This is a repost of <a href=\"https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin\" class=\"u-repost-of\"><a href=\"https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin\">https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin</a></a>.</p>",
+      "value" : "Listen to a summary of all the sessions at IndieWebCamp Berlin 2018!\nSession notes: https://indieweb.org/2018/Berlin/Sessions\nNarration by Marty McGuire\nEdited by Aaron Parecki\nThis is a repost of https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Marty McGuire" ],
+        "photo" : [ "https://martymcgui.re/images/logo.jpg" ],
+        "url" : [ "https://martymcgui.re/" ]
+      },
+      "lang" : "en",
+      "value" : "https://martymcgui.re/"
+    } ],
+    "like" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "url" : [ "https://twitter.com/schmarty/status/1064560664507793408#favorited-by-14209841" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_60,c_fill/https://webmention.io/avatar/pbs.twimg.com/97177fda70bd398a0ed8ab8c83355c7542358c510899708196ac4c4abdb5099e.jpg" ],
+            "name" : [ "Robert Barat 🌹" ]
+          },
+          "lang" : "en",
+          "value" : "Robert Barat 🌹"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Robert Barat 🌹"
+    } ],
+    "comment" : [ {
+      "type" : [ "h-cite" ],
+      "properties" : {
+        "content" : [ "Listened to IndieWebCamp Berlin 2018 Session Summaries by Marty McGuire from martymcgui.re Listen to a summary of all the sessions at IndieWebCamp Berlin 2018! If possible, click to play, otherwise your browser may be unable to play this audio file. Session notes: https://indieweb.org/2018/Berlin/Sessions Narration by Marty McGuire Edited by Aaron Parecki This is a repost of https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin. Interesting to see this served from Aaron’s domain when it …" ],
+        "name" : [ "Listened to IndieWebCamp Berlin 2018 Session Summaries by Marty McGuire from martymcgui.re Listen to a summary of all the sessions at IndieWebCamp Berlin 2018! If possible, click to play, otherwise your browser may be unable to play this audio file. Session notes: https://indieweb.org/2018/Berlin/Sessions Narration by Marty McGuire Edited by Aaron Parecki This is a repost of https://aaronparecki.com/2018/11/18/7/indiewebcamp-berlin. Interesting to see this served from Aaron’s domain when it …" ],
+        "url" : [ "https://boffosocko.com/2019/01/08/indiewebcamp-berlin-2018-session-summaries-marty-mcguire/" ],
+        "author" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Chris Aldrich" ],
+            "photo" : [ "https://res.cloudinary.com/schmarty/image/fetch/w_30,c_fill/https://webmention.io/avatar/secure.gravatar.com/f5329269ffe65205eec710dad09b891b6f6f7f7795fc182197922f851b9d0a7e.jpg" ]
+          },
+          "lang" : "en",
+          "value" : "https://boffosocko.com/"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "https://boffosocko.com/2019/01/08/indiewebcamp-berlin-2018-session-summaries-marty-mcguire/"
+    } ]
+  },
+  "lang" : "en"
+}
