@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/crowsx3/status/1519354777905283073" ],
     "name" : [ "Like of @crowsx3's tweet" ],
     "published" : [ "2022-04-28T05:30:00+0100" ],
     "like-of" : [ "https://twitter.com/crowsx3/status/1519354777905283073" ],
