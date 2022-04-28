@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California | London | Manila" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Boyd 🇬🇧🇵🇭🇺🇦" ],
+        "nickname" : [ "paperghost" ],
+        "numeric-id" : [ "2883191" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468636628570750985/tHXyZ7c4.jpg" ],
+        "published" : [ "2007-03-29T19:36:15+00:00" ],
+        "uid" : [ "tag:twitter.com:paperghost" ],
+        "url" : [ "https://twitter.com/paperghost", "https://about.me/christopher.boyd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "we're just normal men. we're just innocent men\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/spectator\"></a>",
+      "value" : "we're just normal men. we're just innocent men"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/spectator/status/1519580756888236034" ],
+    "published" : [ "2022-04-28T08:25:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1519593537142149121" ],
+    "url" : [ "https://twitter.com/paperghost/status/1519593537142149121" ]
+  },
+  "type" : [ "h-entry" ]
+}
