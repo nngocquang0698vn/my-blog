@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dianahorizons/status/1519471815910899716" ],
     "name" : [ "Like of @dianahorizons's tweet" ],
     "published" : [ "2022-04-28T22:13:00+0100" ],
     "like-of" : [ "https://twitter.com/dianahorizons/status/1519471815910899716" ],
