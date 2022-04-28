@@ -1,0 +1,17 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The differences between Linux and BSD" ],
+    "summary" : [ "In this episode of Syscast, I talk to Jan-Piet Mens to discuss the differences between Linux and BSD systems." ],
+    "featured" : [ "https://ma.ttias.be//podcast/img/syscast-social-image-v3.png" ],
+    "audio" : [ "/podcast/episodes/Syscast-009-Linux-vs-BSD.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Mattias Geniar" ]
+      }
+    } ],
+    "url" : [ "https://ma.ttias.be/syscast/9-linux-vs-bsd/" ],
+    "published" : [ "2020-03-03T12:00:59+00:00" ]
+  }
+}
