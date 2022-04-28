@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sethvargo/status/1519685636990672896" ],
     "name" : [ "Like of @sethvargo's tweet" ],
     "published" : [ "2022-04-28T16:44:00+0100" ],
     "like-of" : [ "https://twitter.com/sethvargo/status/1519685636990672896" ],
