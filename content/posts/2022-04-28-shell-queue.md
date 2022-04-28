@@ -1,17 +1,19 @@
 ---
-title: "Building a fault-tolerant work queue for command-line executions with GNU Parallel"
-description: "How to use `parallel` to create a lightweight work queue of commands, with retry logic and a record of what's been executed."
-date: 2022-04-28T21:04:10+0100
+title: "Building a fault-tolerant work queue for command-line executions with GNU\
+  \ Parallel"
+description: "How to use `parallel` to create a lightweight work queue of commands,\
+  \ with retry logic and a record of what's been executed."
+date: "2022-04-28T21:04:10+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1519771387031863298"
 tags:
 - "blogumentation"
 - "command-line"
-- gnu-parallel
+- "gnu-parallel"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/934679881f.png"
 slug: "shell-queue"
-image: https://media.jvt.me/934679881f.png
 ---
 I've recently been backfilling my listening history from Podcast Addict, which has involved [scraping the database](https://www.jvt.me/posts/2022/04/28/podcast-addict-sqlite/) and then converting the posts to [Micropub commands](https://www.jvt.me/posts/2022/03/01/micropub-go-cli/).
 
