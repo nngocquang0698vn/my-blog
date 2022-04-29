@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Fediverse" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aral Balkan" ],
+        "nickname" : [ "aral" ],
+        "numeric-id" : [ "48903" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3.jpg" ],
+        "published" : [ "2006-12-07T19:55:38+00:00" ],
+        "uid" : [ "tag:twitter.com:aral" ],
+        "url" : [ "https://twitter.com/aral", "https://ar.al", "http://mastodon.ar.al/@aral", "http://joinmastodon.org", "http://ar.al/index.xml" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Funny how we used to tweet in the old days when Tweets started with your name: Aral … is something, something." ],
+    "in-reply-to" : [ "https://twitter.com/aral/status/1519971783377625088" ],
+    "photo" : [ {
+      "alt" : "Screenshot of my twitter data from December, 2006. Example tweets: “is wondering why he can't get twitter to verify his AIM account and mobile number.” “thinks that Richard could totally get away with it :)”",
+      "value" : "https://pbs.twimg.com/media/FRgK8UaXwAMYlm6.jpg"
+    } ],
+    "published" : [ "2022-04-29T09:49:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1519977245158293504" ],
+    "url" : [ "https://twitter.com/aral/status/1519977245158293504" ]
+  },
+  "type" : [ "h-entry" ]
+}
