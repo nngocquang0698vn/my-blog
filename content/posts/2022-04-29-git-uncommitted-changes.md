@@ -1,17 +1,17 @@
 ---
 title: "Determining if there are uncommitted changes in Git"
 description: "A one-liner to work out whether there are uncommitted changes in a repository."
-date: 2022-04-29T16:45:02+0100
+date: "2022-04-29T16:45:02+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1520068964029800454"
 tags:
-- blogumentation
-- command-line
-- git
+- "blogumentation"
+- "command-line"
+- "git"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/53239026de.png"
 slug: "git-uncommitted-changes"
-image: https://media.jvt.me/53239026de.png
 ---
 Sometimes you want to validate that your Git worktree is clean, for instance to make sure that there aren't any uncommitted formatting changes when building your project in CI/CD.
 
