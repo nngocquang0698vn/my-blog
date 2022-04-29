@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alicegoldfuss/status/1519868398112452609" ],
     "name" : [ "Like of @alicegoldfuss's tweet" ],
     "published" : [ "2022-04-29T17:05:00+0100" ],
     "category" : [ "gatekeeping" ],
