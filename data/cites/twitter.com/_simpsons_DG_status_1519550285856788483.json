@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Springfield" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simpsons Daily Glavins" ],
+        "nickname" : [ "simpsons_DG" ],
+        "numeric-id" : [ "1291032276546080768" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1519717513965285377/qngT0j5f.jpg" ],
+        "published" : [ "2020-08-05T15:24:28+00:00" ],
+        "uid" : [ "tag:twitter.com:simpsons_DG" ],
+        "url" : [ "https://twitter.com/simpsons_DG" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Wait a minute. There's something bothering me about this place... \n\n<a href=\"https://twitter.com/search?q=%23lesbianvisability\">#lesbianvisability</a></div>",
+      "value" : "Wait a minute. There's something bothering me about this place... \n\n#lesbianvisability"
+    } ],
+    "published" : [ "2022-04-28T05:33:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1519550285856788483" ],
+    "url" : [ "https://twitter.com/simpsons_DG/status/1519550285856788483" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1519550151270014987/pu/vid/640x480/YYmHcX3PHDZM5tNl.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
