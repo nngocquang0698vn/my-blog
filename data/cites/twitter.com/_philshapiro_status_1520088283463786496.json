@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Phil Shapiro" ],
+        "nickname" : [ "philshapiro" ],
+        "numeric-id" : [ "40720843" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/718722605570768896/LjKZjF17.jpg" ],
+        "published" : [ "2009-05-17T19:36:05+00:00" ],
+        "uid" : [ "tag:twitter.com:philshapiro" ],
+        "url" : [ "https://twitter.com/philshapiro", "https://sites.google.com/site/philshapirobookreviews/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The United States should elect a president who does not want to be president. \n\n  That is where you find the highest quality leadership.</div>",
+      "value" : "The United States should elect a president who does not want to be president. \n\n  That is where you find the highest quality leadership."
+    } ],
+    "published" : [ "2022-04-29T17:11:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1520088283463786496" ],
+    "url" : [ "https://twitter.com/philshapiro/status/1520088283463786496" ]
+  },
+  "type" : [ "h-entry" ]
+}
