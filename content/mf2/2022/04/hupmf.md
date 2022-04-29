@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/infinitsummer/status/1519737487278678019" ],
     "name" : [ "Like of @infinitsummer's tweet" ],
     "published" : [ "2022-04-29T13:10:00+0100" ],
     "like-of" : [ "https://twitter.com/infinitsummer/status/1519737487278678019" ],
