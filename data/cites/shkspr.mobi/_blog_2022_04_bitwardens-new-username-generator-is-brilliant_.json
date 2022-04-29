@@ -1,0 +1,25 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Bitwarden's new username generator is brilliant" ],
+    "category" : [ "bitwarden", "security" ],
+    "url" : [ "https://shkspr.mobi/blog/2022/04/bitwardens-new-username-generator-is-brilliant/" ],
+    "published" : [ "2022-04-29" ],
+    "updated" : [ "2022-04-29" ],
+    "content" : [ {
+      "html" : "<a href=\"https://shkspr.mobi/blog/wp-content/uploads/2022/04/Screenshot-from-2022-04-28-20-48-28.png\" itemprop=\"https://schema.org/image\"></a><p>I've been using <a href=\"https://bitwarden.com/\">Bitwarden</a> for years. It generates a unique password for every website I visit.  There's only been one small problem - I want a unique <em>username</em> for each website.</p><p>Let me explain. Sometimes websites sell or leak your email address to spammers. If you're using <code>yourname@example.com</code> for every site, you'll never know who leaked your details.  Bitwarden can fix that!</p><blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Why use a <a href=\"https://twitter.com/hashtag/username?src=hash&amp;ref_src=twsrc%5Etfw\">#username</a> generator? Let's talk about it. <a href=\"https://t.co/0o6D4CMhnJ\">pic.twitter.com/0o6D4CMhnJ</a></p><p>&#x2014; Bitwarden (@Bitwarden) <a href=\"https://twitter.com/Bitwarden/status/1519717197970616322?ref_src=twsrc%5Etfw\">April 28, 2022</a></p></blockquote><p><script data-optimized=\"1\" async=\"\" src=\"https://shkspr.mobi/blog/wp-content/litespeed/js/e977ef4213d778fa58919251dec3b331.js?ver=3b331\" charset=\"utf-8\"></script></p><p>So now, with a couple of clicks, you can tell Bitwarden to generate a unique random email address. If the email attracts spam, you'll know where it has come from and will be able to easily block it.</p><p>Here's what the process looks like:</p><p><img src=\"https://shkspr.mobi/blog/wp-content/uploads/2022/04/Screenshot-from-2022-04-28-20-48-28.png\" alt=\"Screenshot of Bitwarden generating a username.\" width=\"461\" height=\"702\" class=\"aligncenter size-full wp-image-42529\"></p><p>You can also tell it to use <a href=\"https://blog.mailfence.com/plus-addressing-to-track-spammers/\">plus addressing</a> - <code>yourname+random@example.com</code>. Or you can have it generate an address based on the domain you're logging in to - <code>facebook.com@example.com</code></p><p>You can <a href=\"https://bitwarden.com/blog/whats-in-a-user-name/\">read more about the new feature on Bitwarden's blog</a>.</p><p>I thoroughly recommend using a unique password <em>and</em> email address on every service you use. It increases your security and protects your privacy.</p>",
+      "value" : "I've been using Bitwarden for years. It generates a unique password for every website I visit. There's only been one small problem - I want a unique username for each website.\nLet me explain. Sometimes websites sell or leak your email address to spammers. If you're using yourname@example.com for every site, you'll never know who leaked your details. Bitwarden can fix that!\nWhy use a #username generator? Let's talk about it. pic.twitter.com/0o6D4CMhnJ\n— Bitwarden (@Bitwarden) April 28, 2022\n\nSo now, with a couple of clicks, you can tell Bitwarden to generate a unique random email address. If the email attracts spam, you'll know where it has come from and will be able to easily block it.\nHere's what the process looks like:\nScreenshot of Bitwarden generating a username.\nYou can also tell it to use plus addressing - yourname+random@example.com. Or you can have it generate an address based on the domain you're logging in to - facebook.com@example.com\nYou can read more about the new feature on Bitwarden's blog.\nI thoroughly recommend using a unique password and email address on every service you use. It increases your security and protects your privacy.",
+      "lang" : "en-GB"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "@edent" ],
+        "url" : [ "https://edent.tel/" ]
+      },
+      "lang" : "en-GB",
+      "value" : "@edent"
+    } ]
+  },
+  "lang" : "en-GB"
+}
