@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seldo/status/1519903638436544512" ],
     "name" : [ "Like of @seldo's tweet" ],
     "published" : [ "2022-04-29T18:29:00+0100" ],
     "like-of" : [ "https://twitter.com/seldo/status/1519903638436544512" ],
