@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Road trip" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Allie K. Miller - in Paris" ],
+          "nickname" : [ "alliekmiller" ],
+          "numeric-id" : [ "39289455" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1221821474790494208/ALX9y7KT.jpg" ],
+          "published" : [ "2009-05-11T16:57:34+00:00" ],
+          "uid" : [ "tag:twitter.com:alliekmiller" ],
+          "url" : [ "https://twitter.com/alliekmiller", "https://linktr.ee/alliekmiller" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Airbnb just announced its new remote work policy for its employees. \n\nAs someone who has lived in airbnbs the last two years, here are the lines that stood out to me the most… 🧵 \n\n<a href=\"https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/\">news.airbnb.com/airbnbs-design…</a></div>",
+        "value" : "Airbnb just announced its new remote work policy for its employees. \n\nAs someone who has lived in airbnbs the last two years, here are the lines that stood out to me the most… 🧵 \n\nnews.airbnb.com/airbnbs-design…"
+      } ],
+      "published" : [ "2022-04-29T01:31:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1519851778971422725" ],
+      "url" : [ "https://twitter.com/alliekmiller/status/1519851778971422725" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432101325529964545/FH-g7eA4.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Airbnb has announced a blueprint for a large tech company working entirely remotely. Notable features: there is one pay tier per country, regardless of where you live -- SF and Jackson pay the same. I think this is where everyone is going to end up." ],
+    "published" : [ "2022-04-29T04:57:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1519903638436544512" ],
+    "url" : [ "https://twitter.com/seldo/status/1519903638436544512" ]
+  },
+  "type" : [ "h-entry" ]
+}
