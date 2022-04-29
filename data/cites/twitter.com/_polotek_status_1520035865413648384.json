@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do you think most companies will eventually settle on the SF rate or the Jackson rate?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/seldo\"></a>",
+      "value" : "Do you think most companies will eventually settle on the SF rate or the Jackson rate?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/seldo/status/1519903638436544512" ],
+    "published" : [ "2022-04-29T13:42:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1520035865413648384" ],
+    "url" : [ "https://twitter.com/polotek/status/1520035865413648384" ]
+  },
+  "type" : [ "h-entry" ]
+}
