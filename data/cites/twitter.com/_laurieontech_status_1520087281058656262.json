@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As a developer who studied mathematics there is one fact I use above all else.\n\n!(x || y) === !x &amp; !y</div>",
+      "value" : "As a developer who studied mathematics there is one fact I use above all else.\n\n!(x || y) === !x & !y"
+    } ],
+    "published" : [ "2022-04-29T17:07:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1520087281058656262" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1520087281058656262" ]
+  },
+  "type" : [ "h-entry" ]
+}
