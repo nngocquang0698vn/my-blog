@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jennplusplus/status/1520078112989618177" ],
     "name" : [ "Like of @jennplusplus's tweet" ],
     "published" : [ "2022-04-29T18:34:00+0100" ],
     "like-of" : [ "https://twitter.com/jennplusplus/status/1520078112989618177" ],
