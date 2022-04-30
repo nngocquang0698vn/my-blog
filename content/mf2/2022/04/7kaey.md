@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ripixelcodes/status/1520352039703912453" ],
     "name" : [ "Like of @ripixelcodes's tweet" ],
     "published" : [ "2022-04-30T13:47:00+0100" ],
     "like-of" : [ "https://twitter.com/ripixelcodes/status/1520352039703912453" ],
