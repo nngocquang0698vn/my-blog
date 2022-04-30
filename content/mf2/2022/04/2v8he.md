@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rizbizkits/status/1520045101753454592" ],
     "name" : [ "Like of @rizbizkits's tweet" ],
     "published" : [ "2022-04-30T12:50:00+0100" ],
     "category" : [ "food" ],
