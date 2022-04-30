@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RHenderson91/status/1517568674936377344" ],
     "name" : [ "Like of @RHenderson91's tweet" ],
     "published" : [ "2022-04-30T16:15:00+0100" ],
     "like-of" : [ "https://twitter.com/RHenderson91/status/1517568674936377344" ],
