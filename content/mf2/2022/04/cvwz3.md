@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/The_Law_Boy/status/1520057358478680064" ],
     "name" : [ "Like of @The_Law_Boy's tweet" ],
     "published" : [ "2022-04-30T10:09:00+0100" ],
     "like-of" : [ "https://twitter.com/The_Law_Boy/status/1520057358478680064" ],
