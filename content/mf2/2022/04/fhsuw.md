@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DawnButlerBrent/status/1520309064084897793" ],
     "name" : [ "Like of @DawnButlerBrent's tweet" ],
     "published" : [ "2022-04-30T10:19:00+0100" ],
     "like-of" : [ "https://twitter.com/DawnButlerBrent/status/1520309064084897793" ],
