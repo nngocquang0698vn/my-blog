@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Aqua’s ‘Barbie Girl’ Song Won’t Appear in the Margot Robbie ‘Barbie’ Movie <a href=\"https://variety.com/2022/film/news/barbie-girl-movie-aqua-1235254222/\">variety.com/2022/film/news…</a>",
+        "value" : "Aqua’s ‘Barbie Girl’ Song Won’t Appear in the Margot Robbie ‘Barbie’ Movie variety.com/2022/film/news…"
+      } ],
+      "published" : [ "2022-04-29T14:42:05+00:00" ],
+      "uid" : [ "tag:twitter.com:1520050793524736001" ],
+      "url" : [ "https://twitter.com/Variety/status/1520050793524736001" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin, Ireland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Valondar" ],
+        "nickname" : [ "VK_HM" ],
+        "numeric-id" : [ "973799466" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/875835993429073921/fUYHtgg-.jpg" ],
+        "published" : [ "2012-11-27T12:33:29+00:00" ],
+        "uid" : [ "tag:twitter.com:VK_HM" ],
+        "url" : [ "https://twitter.com/VK_HM", "http://valondar.wordpress.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What is even the point then" ],
+    "published" : [ "2022-04-29T14:42:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1520050963960238081" ],
+    "url" : [ "https://twitter.com/VK_HM/status/1520050963960238081" ]
+  },
+  "type" : [ "h-entry" ]
+}
