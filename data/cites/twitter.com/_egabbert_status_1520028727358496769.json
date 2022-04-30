@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Denver" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Elisa Gabbert" ],
+        "nickname" : [ "egabbert" ],
+        "numeric-id" : [ "39498324" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1296418523141423104/B0ePnZx_.jpg" ],
+        "published" : [ "2009-05-12T13:28:28+00:00" ],
+        "uid" : [ "tag:twitter.com:egabbert" ],
+        "url" : [ "https://twitter.com/egabbert", "http://www.elisagabbert.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I didn't get the Wordle today (look it's been a long week) but then it TOLD ME THE ANSWER where it usually says \"Splendid\" or \"Phew\" or whatever so I THOUGHT IT WAS CALLING ME AND MY GAMEPLAY THAT WORD!?!" ],
+    "published" : [ "2022-04-29T13:14:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1520028727358496769" ],
+    "url" : [ "https://twitter.com/egabbert/status/1520028727358496769" ]
+  },
+  "type" : [ "h-entry" ]
+}
