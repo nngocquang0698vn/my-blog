@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pedsmd2b/status/1520144093711585283" ],
     "name" : [ "Like of @pedsmd2b's tweet" ],
     "published" : [ "2022-04-30T10:12:00+0100" ],
     "category" : [ "burnout" ],
