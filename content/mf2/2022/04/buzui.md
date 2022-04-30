@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StarTrekOnPPlus/status/1520047754667610113" ],
     "name" : [ "Like of @StarTrekOnPPlus's tweet" ],
     "published" : [ "2022-04-30T10:33:00+0100" ],
     "category" : [ "star-trek" ],
