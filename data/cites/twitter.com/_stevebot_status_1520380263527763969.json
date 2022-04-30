@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Martinelli" ],
+        "nickname" : [ "stevebot" ],
+        "numeric-id" : [ "550643609" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511857726284042245/sAfiK5NB.jpg" ],
+        "published" : [ "2012-04-11T02:54:13+00:00" ],
+        "uid" : [ "tag:twitter.com:stevebot" ],
+        "url" : [ "https://twitter.com/stevebot", "http://www.stevemar.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Netlify has one of the easiest gh pages integrations ever. It's what I use. My blog costs me ~$10/year to own the domain.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Cloudflare\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/github\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/majorhayden\"></a>",
+      "value" : "Netlify has one of the easiest gh pages integrations ever. It's what I use. My blog costs me ~$10/year to own the domain."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/majorhayden/status/1520376884785201152" ],
+    "published" : [ "2022-04-30T12:31:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1520380263527763969" ],
+    "url" : [ "https://twitter.com/stevebot/status/1520380263527763969" ]
+  },
+  "type" : [ "h-entry" ]
+}
