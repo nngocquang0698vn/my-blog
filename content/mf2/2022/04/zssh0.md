@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JackDLinke/status/1520429506485530624" ],
     "name" : [ "Like of @JackDLinke's tweet" ],
     "published" : [ "2022-04-30T18:36:00+0100" ],
     "like-of" : [ "https://twitter.com/JackDLinke/status/1520429506485530624" ],
