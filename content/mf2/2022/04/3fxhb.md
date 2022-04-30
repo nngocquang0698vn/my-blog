@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrMichaelSpicer/status/1520371337545625600" ],
     "name" : [ "Like of @MrMichaelSpicer's tweet" ],
     "published" : [ "2022-04-30T13:56:00+0100" ],
     "category" : [ "politics" ],
