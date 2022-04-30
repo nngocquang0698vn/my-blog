@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kent and London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Spicer" ],
+        "nickname" : [ "MrMichaelSpicer" ],
+        "numeric-id" : [ "93222172" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1470769589487345666/CskorzkA.jpg" ],
+        "published" : [ "2009-11-28T17:19:58+00:00" ],
+        "uid" : [ "tag:twitter.com:MrMichaelSpicer" ],
+        "url" : [ "https://twitter.com/MrMichaelSpicer", "http://www.michaelspicer.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Conservative Party in 2022." ],
+    "published" : [ "2022-04-30T11:55:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1520371337545625600" ],
+    "url" : [ "https://twitter.com/MrMichaelSpicer/status/1520371337545625600" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1520371146323070978/pu/vid/608x1080/eLJWkLzqILohll7S.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
