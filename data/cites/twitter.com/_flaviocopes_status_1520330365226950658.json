@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chattanooga, TN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "James Long" ],
+          "nickname" : [ "jlongster" ],
+          "numeric-id" : [ "14615235" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1214648242404761600/OoYVL2Tp.jpg" ],
+          "published" : [ "2008-05-01T15:14:30+00:00" ],
+          "uid" : [ "tag:twitter.com:jlongster" ],
+          "url" : [ "https://twitter.com/jlongster", "http://jlongster.com", "http://buymeacoffee.com/jlongster" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I'm open-sourcing Actual.\n\nI'm sad that I couldn't make it work as a sustainable company, but I've seen the magic of open-source before and I'm excited about what can happen here. Read more!\n\n<a href=\"https://actualbudget.com/open-source\">actualbudget.com/open-source</a></div>",
+        "value" : "I'm open-sourcing Actual.\n\nI'm sad that I couldn't make it work as a sustainable company, but I've seen the magic of open-source before and I'm excited about what can happen here. Read more!\n\nactualbudget.com/open-source"
+      } ],
+      "published" : [ "2022-04-29T15:30:46+00:00" ],
+      "uid" : [ "tag:twitter.com:1520063046101700610" ],
+      "url" : [ "https://twitter.com/jlongster/status/1520063046101700610" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Italy. visit →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "flavio" ],
+        "nickname" : [ "flaviocopes" ],
+        "numeric-id" : [ "9011502" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1084880084090146819/uFLTp7C1.jpg" ],
+        "published" : [ "2007-09-21T08:14:45+00:00" ],
+        "uid" : [ "tag:twitter.com:flaviocopes" ],
+        "url" : [ "https://twitter.com/flaviocopes", "https://flaviocopes.com", "http://flaviocopes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This is how every product should \"shut down\" once the owners decide to move on to something different, and at the same time give the project the chance to get a new life. \nJames decided to open source the project instead of just closing down.</div>",
+      "value" : "This is how every product should \"shut down\" once the owners decide to move on to something different, and at the same time give the project the chance to get a new life. \nJames decided to open source the project instead of just closing down."
+    } ],
+    "published" : [ "2022-04-30T09:13:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1520330365226950658" ],
+    "url" : [ "https://twitter.com/flaviocopes/status/1520330365226950658" ]
+  },
+  "type" : [ "h-entry" ]
+}
