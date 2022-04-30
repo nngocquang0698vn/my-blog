@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aayush Sahu" ],
+        "nickname" : [ "aayushmau5" ],
+        "numeric-id" : [ "1306472885624635394" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1382181384391774208/PnurWgHn.jpg" ],
+        "published" : [ "2020-09-17T06:00:01+00:00" ],
+        "uid" : [ "tag:twitter.com:aayushmau5" ],
+        "url" : [ "https://twitter.com/aayushmau5", "https://aayushsahu.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I built a personal site!\n\nThough it's always \"in-progress\" where I keep reiterating, adding new stuff, changing the styles, etc. But I'm ready to show it to the world :D\n\nMade using <a href=\"https://twitter.com/nextjs\">@nextjs</a>, hosted on <a href=\"https://twitter.com/vercel\">@vercel</a>, here's a thread of features my site has:</div>",
+      "value" : "I built a personal site!\n\nThough it's always \"in-progress\" where I keep reiterating, adding new stuff, changing the styles, etc. But I'm ready to show it to the world :D\n\nMade using @nextjs, hosted on @vercel, here's a thread of features my site has:"
+    } ],
+    "published" : [ "2022-04-29T23:43:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1520187136242159616" ],
+    "url" : [ "https://twitter.com/aayushmau5/status/1520187136242159616" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1520187011964956672/pu/vid/1320x720/4TYfq8HXgFxWDQlq.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
