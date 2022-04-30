@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "anildash" ],
+          "nickname" : [ "anildash" ],
+          "numeric-id" : [ "36823" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62.jpg" ],
+          "published" : [ "2006-12-02T09:15:15+00:00" ],
+          "uid" : [ "tag:twitter.com:anildash" ],
+          "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "A reminder that may not be obvious: amplification on social networks has monetary value. Twitter’s algorithm counts it as engagement even if you shared a tweet to criticize it or mock it, and uses that signal to amplify the tweet further. Only RT what you would pay to promote." ],
+      "published" : [ "2020-03-01T22:23:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1234242828328407041" ],
+      "url" : [ "https://twitter.com/anildash/status/1234242828328407041" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anildash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This still applies, especially to any billionaires who certainly don’t need your amplification." ],
+    "published" : [ "2022-04-30T12:28:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1520379617915375616" ],
+    "url" : [ "https://twitter.com/anildash/status/1520379617915375616" ]
+  },
+  "type" : [ "h-entry" ]
+}
