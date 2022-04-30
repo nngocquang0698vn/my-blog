@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mississauga, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Shankar" ],
+        "nickname" : [ "bradshankar" ],
+        "numeric-id" : [ "1872224844" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1395011183393054725/rqFxiOM1.jpg" ],
+        "published" : [ "2013-09-16T16:34:23+00:00" ],
+        "uid" : [ "tag:twitter.com:bradshankar" ],
+        "url" : [ "https://twitter.com/bradshankar", "http://www.mobilesyrup.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Variety\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Variety/status/1520050793524736001" ],
+    "published" : [ "2022-04-29T14:49:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1520052650879954945" ],
+    "url" : [ "https://twitter.com/bradshankar/status/1520052650879954945" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FRhP052XsAA-ags.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
