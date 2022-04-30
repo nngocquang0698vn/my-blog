@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GoodPoliticGuy/status/1520202057302659074" ],
     "name" : [ "Like of @GoodPoliticGuy's tweet" ],
     "published" : [ "2022-04-30T16:56:00+0100" ],
     "like-of" : [ "https://twitter.com/GoodPoliticGuy/status/1520202057302659074" ],
