@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "LBC" ],
+          "nickname" : [ "LBC" ],
+          "numeric-id" : [ "20973388" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1410859252655267842/J36ofGqb.jpg" ],
+          "published" : [ "2009-02-16T09:36:59+00:00" ],
+          "uid" : [ "tag:twitter.com:LBC" ],
+          "url" : [ "https://twitter.com/LBC", "http://www.lbc.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The Tory MP said he 'opened something on his phone in error' but his wife called the allegation 'breath taking and embarrassing' <a href=\"https://bit.ly/3KstQYf\">bit.ly/3KstQYf</a>",
+        "value" : "The Tory MP said he 'opened something on his phone in error' but his wife called the allegation 'breath taking and embarrassing' bit.ly/3KstQYf"
+      } ],
+      "published" : [ "2022-04-30T06:00:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1520281850778112002" ],
+      "url" : [ "https://twitter.com/LBC/status/1520281850778112002" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brent" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dawn Butler MP✊🏾💙" ],
+        "nickname" : [ "DawnButlerBrent" ],
+        "numeric-id" : [ "114505454" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1332325783289929729/Te2cb8pB.jpg" ],
+        "published" : [ "2010-02-15T16:59:03+00:00" ],
+        "uid" : [ "tag:twitter.com:DawnButlerBrent" ],
+        "url" : [ "https://twitter.com/DawnButlerBrent", "http://www.dawnbutler.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">And there it is....\n\nAmbushed by porn. 🙄</div>",
+      "value" : "And there it is....\n\nAmbushed by porn. 🙄"
+    } ],
+    "published" : [ "2022-04-30T07:48:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1520309064084897793" ],
+    "url" : [ "https://twitter.com/DawnButlerBrent/status/1520309064084897793" ]
+  },
+  "type" : [ "h-entry" ]
+}
