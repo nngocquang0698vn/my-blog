@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik Bernhardsson" ],
+        "nickname" : [ "bernhardsson" ],
+        "numeric-id" : [ "1191207924" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1245012019557871617/hk-YIKm1.jpg" ],
+        "published" : [ "2013-02-17T21:32:04+00:00" ],
+        "uid" : [ "tag:twitter.com:bernhardsson" ],
+        "url" : [ "https://twitter.com/bernhardsson", "https://erikbern.com/", "http://modal.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Blog formats ranked by reader friendliness:\n1. Self-hosted blog\n2. Github Pages\n...\n57. Pinning theses on a church door\n...\n275. Medium</div>",
+      "value" : "Blog formats ranked by reader friendliness:\n1. Self-hosted blog\n2. Github Pages\n...\n57. Pinning theses on a church door\n...\n275. Medium"
+    } ],
+    "published" : [ "2022-04-29T14:58:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1520054993365127170" ],
+    "url" : [ "https://twitter.com/bernhardsson/status/1520054993365127170" ]
+  },
+  "type" : [ "h-entry" ]
+}
