@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OMacMan/status/1520786075714736131" ],
     "name" : [ "Like of @OMacMan's tweet" ],
     "published" : [ "2022-05-01T16:34:00+0100" ],
     "like-of" : [ "https://twitter.com/OMacMan/status/1520786075714736131" ],
