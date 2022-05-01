@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amore_orless/status/1520471585752117248" ],
     "name" : [ "Like of @amore_orless's tweet" ],
     "published" : [ "2022-05-01T13:01:00+0100" ],
     "like-of" : [ "https://twitter.com/amore_orless/status/1520471585752117248" ],
