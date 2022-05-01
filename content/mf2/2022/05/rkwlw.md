@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SarahKSilverman/status/1520752322724433923" ],
     "name" : [ "Like of @SarahKSilverman's tweet" ],
     "published" : [ "2022-05-01T18:15:00+0100" ],
     "like-of" : [ "https://twitter.com/SarahKSilverman/status/1520752322724433923" ],
