@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doubleAWilson/status/1520584536047996929" ],
     "name" : [ "Like of @doubleAWilson's tweet" ],
     "published" : [ "2022-05-01T17:18:00+0100" ],
     "like-of" : [ "https://twitter.com/doubleAWilson/status/1520584536047996929" ],
