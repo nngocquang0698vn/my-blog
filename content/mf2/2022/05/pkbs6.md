@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RisuToInu/status/1520669644859785218" ],
     "name" : [ "Like of @RisuToInu's tweet" ],
     "published" : [ "2022-05-01T08:48:00+0100" ],
     "like-of" : [ "https://twitter.com/RisuToInu/status/1520669644859785218" ],
