@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/hherman1/gq/stargazers" ],
     "name" : [ "hherman1/gq: jq but using go instead" ],
     "published" : [ "2022-05-01T07:34:00+0100" ],
     "like-of" : [ "https://github.com/hherman1/gq" ],
