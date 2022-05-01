@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wandsworth, London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ciaran McNulty" ],
+        "nickname" : [ "CiaranMcNulty" ],
+        "numeric-id" : [ "12019422" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/942121649633153024/k7rdKXve.jpg" ],
+        "published" : [ "2008-01-09T09:32:32+00:00" ],
+        "uid" : [ "tag:twitter.com:CiaranMcNulty" ],
+        "url" : [ "https://twitter.com/CiaranMcNulty", "http://ciaranmcnulty.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Knowing about incognito mode doesn't make you a nerd\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Brunty\"></a>",
+      "value" : "Knowing about incognito mode doesn't make you a nerd"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Brunty/status/1520870533914673153" ],
+    "published" : [ "2022-05-01T21:01:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1520870935984758785" ],
+    "url" : [ "https://twitter.com/CiaranMcNulty/status/1520870935984758785" ]
+  },
+  "type" : [ "h-entry" ]
+}
