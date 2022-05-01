@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zefrrrrrrr/status/1520060624897781762" ],
     "name" : [ "Like of @zefrrrrrrr's tweet" ],
     "published" : [ "2022-05-01T16:32:00+0100" ],
     "like-of" : [ "https://twitter.com/zefrrrrrrr/status/1520060624897781762" ],
