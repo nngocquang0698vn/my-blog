@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "atlanta" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "hotep quark" ],
+        "nickname" : [ "borgposting" ],
+        "numeric-id" : [ "1518579295416897536" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518649049854976000/bq9JBFJl.jpg" ],
+        "published" : [ "2022-04-25T13:15:09+00:00" ],
+        "uid" : [ "tag:twitter.com:borgposting" ],
+        "url" : [ "https://twitter.com/borgposting", "http://spacelight.substack.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "its may day" ],
+    "photo" : [ "https://pbs.twimg.com/media/FRqbhHiXEAAYfYE.jpg" ],
+    "published" : [ "2022-05-01T09:37:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1520698819507376129" ],
+    "url" : [ "https://twitter.com/borgposting/status/1520698819507376129" ]
+  },
+  "type" : [ "h-entry" ]
+}
