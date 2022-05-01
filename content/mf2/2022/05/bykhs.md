@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/angrybooklady/status/1520746649986940929" ],
     "name" : [ "Like of @angrybooklady's tweet" ],
     "published" : [ "2022-05-01T15:16:00+0100" ],
     "like-of" : [ "https://twitter.com/angrybooklady/status/1520746649986940929" ],
