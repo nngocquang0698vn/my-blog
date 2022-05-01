@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DoctorKraft/status/1520870060247691265" ],
     "name" : [ "Like of @DoctorKraft's tweet" ],
     "published" : [ "2022-05-01T22:32:00+0100" ],
     "like-of" : [ "https://twitter.com/DoctorKraft/status/1520870060247691265" ],
