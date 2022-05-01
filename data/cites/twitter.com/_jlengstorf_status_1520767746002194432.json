@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Lengstorf" ],
+        "nickname" : [ "jlengstorf" ],
+        "numeric-id" : [ "15668072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499047632554979329/4oOY20OZ.jpg" ],
+        "published" : [ "2008-07-30T23:49:03+00:00" ],
+        "uid" : [ "tag:twitter.com:jlengstorf" ],
+        "url" : [ "https://twitter.com/jlengstorf", "https://jason.af/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What’s a quote from one of your mutuals that lives rent-free in your head?\n\nI’ll start:\n<a href=\"https://twitter.com/sarah_edo\">@sarah_edo</a> once told a group of us not to donate time to for-profit conferences because “you can die of exposure”\n\n💀💀💀</div>",
+      "value" : "What’s a quote from one of your mutuals that lives rent-free in your head?\n\nI’ll start:\n@sarah_edo once told a group of us not to donate time to for-profit conferences because “you can die of exposure”\n\n💀💀💀"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Portland, OR" ],
+        "uid" : [ "tag:twitter.com:ac88a4f17a51c7fc" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-01T14:10:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1520767746002194432" ],
+    "url" : [ "https://twitter.com/jlengstorf/status/1520767746002194432" ]
+  },
+  "type" : [ "h-entry" ]
+}
