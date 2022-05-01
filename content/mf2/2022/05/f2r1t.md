@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/realcyberpanda/status/1520179941538766849" ],
     "name" : [ "Like of @realcyberpanda's tweet" ],
     "published" : [ "2022-05-01T07:36:00+0100" ],
     "category" : [ "networking" ],
