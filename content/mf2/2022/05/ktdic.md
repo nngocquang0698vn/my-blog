@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/opinionatedpie/status/1520137585808580608" ],
     "name" : [ "Like of @opinionatedpie's tweet" ],
     "published" : [ "2022-05-01T07:34:00+0100" ],
     "like-of" : [ "https://twitter.com/opinionatedpie/status/1520137585808580608" ],
