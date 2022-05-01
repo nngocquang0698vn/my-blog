@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soychotic/status/1520126831478951936" ],
     "name" : [ "Like of @soychotic's tweet" ],
     "published" : [ "2022-05-01T07:38:00+0100" ],
     "like-of" : [ "https://twitter.com/soychotic/status/1520126831478951936" ],
