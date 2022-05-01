@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Games Asylum" ],
+          "nickname" : [ "gamesasylum" ],
+          "numeric-id" : [ "22638140" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1516125097727340550/M5XYdlZj.jpg" ],
+          "published" : [ "2009-03-03T16:02:35+00:00" ],
+          "uid" : [ "tag:twitter.com:gamesasylum" ],
+          "url" : [ "https://twitter.com/gamesasylum", "http://www.gamesasylum.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If you're wondering if the War of Worlds game is worth the current £2.49 asking price, here's your answer." ],
+      "published" : [ "2022-04-29T17:11:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1520088492960882690" ],
+      "url" : [ "https://twitter.com/gamesasylum/status/1520088492960882690" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1520088072809025537/pu/vid/1280x720/gbSm9SrhBVqVUHpL.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Sarah Drasner" ],
+        "nickname" : [ "sarah_edo" ],
+        "numeric-id" : [ "813333008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK.jpg" ],
+        "published" : [ "2012-09-09T15:24:34+00:00" ],
+        "uid" : [ "tag:twitter.com:sarah_edo" ],
+        "url" : [ "https://twitter.com/sarah_edo", "https://sarah.dev/", "http://github.com/sdras" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me after 10 hours of meetings" ],
+    "published" : [ "2022-05-01T05:04:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1520630111980060672" ],
+    "url" : [ "https://twitter.com/sarah_edo/status/1520630111980060672" ]
+  },
+  "type" : [ "h-entry" ]
+}
