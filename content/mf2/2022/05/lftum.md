@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Saxomopho/status/1514649797768089600" ],
     "name" : [ "Like of @Saxomopho's tweet" ],
     "published" : [ "2022-05-01T08:02:00+0100" ],
     "like-of" : [ "https://twitter.com/Saxomopho/status/1514649797768089600" ],
