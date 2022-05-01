@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "london" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kaushal" ],
+          "nickname" : [ "kaushall_shah" ],
+          "numeric-id" : [ "129925261" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/814397923374944256/oPVmQc7F.jpg" ],
+          "published" : [ "2010-04-05T20:37:16+00:00" ],
+          "uid" : [ "tag:twitter.com:kaushall_shah" ],
+          "url" : [ "https://twitter.com/kaushall_shah" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Top story: <a href=\"https://twitter.com/AutomationPanda\">@AutomationPanda</a>: 'At <a href=\"https://twitter.com/search?q=%23PyConUS2022\">#PyConUS2022</a> ' , see more <a href=\"https://tweetedtimes.com/kaushall_shah?s=tnp\">tweetedtimes.com/kaushall_shah?…</a>",
+        "value" : "Top story: @AutomationPanda: 'At #PyConUS2022 ' , see more tweetedtimes.com/kaushall_shah?…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FReDMrYVUAAfvHs.jpg" ],
+      "published" : [ "2022-05-01T05:39:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1520639042160840704" ],
+      "url" : [ "https://twitter.com/kaushall_shah/status/1520639042160840704" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When most of your job is writing pipelines and configuration." ],
+    "published" : [ "2022-05-01T07:20:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1520664330827616257" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1520664330827616257" ]
+  },
+  "type" : [ "h-entry" ]
+}
