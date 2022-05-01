@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/destroyed4com4t/status/1520679475452686336" ],
     "name" : [ "Like of @destroyed4com4t's tweet" ],
     "published" : [ "2022-05-01T21:24:00+0100" ],
     "like-of" : [ "https://twitter.com/destroyed4com4t/status/1520679475452686336" ],
