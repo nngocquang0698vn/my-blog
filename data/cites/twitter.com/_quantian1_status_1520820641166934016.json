@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/CityBureaucrat…" ],
+        "url" : [ "https://twitter.com/CityBureaucrat/status/1507532657869000705" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Menlo Park, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Marc Andreessen" ],
+          "nickname" : [ "pmarca" ],
+          "numeric-id" : [ "5943622" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1405739314303037445/YbBg1Lhn.jpg" ],
+          "published" : [ "2007-05-10T23:39:54+00:00" ],
+          "uid" : [ "tag:twitter.com:pmarca" ],
+          "url" : [ "https://twitter.com/pmarca" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Elites -- they're just like us!\n<a class=\"tag\" href=\"https://twitter.com/CityBureaucrat/status/1507532657869000705\">twitter.com/CityBureaucrat…</a>",
+        "value" : "Elites -- they're just like us!"
+      } ],
+      "published" : [ "2022-03-26T21:07:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1507826573746995206" ],
+      "url" : [ "https://twitter.com/pmarca/status/1507826573746995206" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "武汉金融数学究所" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Quantian" ],
+        "nickname" : [ "quantian1" ],
+        "numeric-id" : [ "2962715181" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510062884096815107/psXqGcns.jpg" ],
+        "published" : [ "2015-01-05T21:16:35+00:00" ],
+        "uid" : [ "tag:twitter.com:quantian1" ],
+        "url" : [ "https://twitter.com/quantian1", "http://www.archegoscapital.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "“I’m not an elite” — sent from my $177 million Malibu mansion by managing partner of the largest VC firm in Silicon Valley" ],
+    "published" : [ "2022-05-01T17:41:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1520820641166934016" ],
+    "url" : [ "https://twitter.com/quantian1/status/1520820641166934016" ]
+  },
+  "type" : [ "h-entry" ]
+}
