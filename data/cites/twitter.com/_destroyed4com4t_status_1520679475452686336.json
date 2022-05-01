@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York City" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Neil deGrasse Tyson" ],
+          "nickname" : [ "neiltyson" ],
+          "numeric-id" : [ "19725644" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop.jpg" ],
+          "published" : [ "2009-01-29T18:40:26+00:00" ],
+          "uid" : [ "tag:twitter.com:neiltyson" ],
+          "url" : [ "https://twitter.com/neiltyson", "http://www.haydenplanetarium.org/tyson/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">If a human bites a Vampire then shouldn’t the Vampire turn back into a human?\n\nAnd while we’re at it, if a human bites a Zombie shouldn’t it cure the Zombie too?</div>",
+        "value" : "If a human bites a Vampire then shouldn’t the Vampire turn back into a human?\n\nAnd while we’re at it, if a human bites a Zombie shouldn’t it cure the Zombie too?"
+      } ],
+      "published" : [ "2022-05-01T05:03:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1520629890537730049" ],
+      "url" : [ "https://twitter.com/neiltyson/status/1520629890537730049" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "probably Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "👾Rani Timekey Baker, Noise Channel $400C-$400F" ],
+        "nickname" : [ "destroyed4com4t" ],
+        "numeric-id" : [ "866741827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1504437682511835136/CjGTywp8.jpg" ],
+        "published" : [ "2012-10-07T18:21:25+00:00" ],
+        "uid" : [ "tag:twitter.com:destroyed4com4t" ],
+        "url" : [ "https://twitter.com/destroyed4com4t", "https://linktr.ee/destroyed4com4t" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I mean, no? I can't sneeze on someone with a cold and make them well but they can make me sick.\n\nThis may be the dumbest thing you've ever said.</div>",
+      "value" : "I mean, no? I can't sneeze on someone with a cold and make them well but they can make me sick.\n\nThis may be the dumbest thing you've ever said."
+    } ],
+    "published" : [ "2022-05-01T08:20:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1520679475452686336" ],
+    "url" : [ "https://twitter.com/destroyed4com4t/status/1520679475452686336" ]
+  },
+  "type" : [ "h-entry" ]
+}
