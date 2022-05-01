@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Zach Rose" ],
+          "nickname" : [ "djairportpanini" ],
+          "numeric-id" : [ "1074391297270603776" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1123391735537852418/II_SbiVt.jpg" ],
+          "published" : [ "2018-12-16T19:50:21+00:00" ],
+          "uid" : [ "tag:twitter.com:djairportpanini" ],
+          "url" : [ "https://twitter.com/djairportpanini" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Do not silence the part of yourself that is cringe, silence the part that cringes\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/grmpyprogrammer\"></a>",
+        "value" : "Do not silence the part of yourself that is cringe, silence the part that cringes"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/grmpyprogrammer/status/1520563589853196289" ],
+      "published" : [ "2022-05-01T01:40:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1520578850614386688" ],
+      "url" : [ "https://twitter.com/djairportpanini/status/1520578850614386688" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "At some point I learned this lesson and it was made all the other wonderful things since possible." ],
+    "published" : [ "2022-05-01T02:42:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1520594430184464385" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1520594430184464385" ]
+  },
+  "type" : [ "h-entry" ]
+}
