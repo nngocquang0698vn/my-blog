@@ -1,13 +1,13 @@
 ---
 title: "Installing Nokogiri on an M1 Mac"
 description: "How to get Nokogiri building on an M1 Mac, when using `Bundler`."
-date: 2022-05-01T14:39:42+0100
+date: "2022-05-01T14:39:42+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1520761755676385283"
 tags:
 - "blogumentation"
-- mac
-- ruby
+- "mac"
+- "ruby"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/bd953e5578.png"
