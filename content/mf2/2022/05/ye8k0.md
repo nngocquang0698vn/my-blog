@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/UnheimlichManvr/status/1520414710146994176" ],
     "name" : [ "Like of @UnheimlichManvr's tweet" ],
     "published" : [ "2022-05-02T14:35:00+0100" ],
     "category" : [ "uk" ],
