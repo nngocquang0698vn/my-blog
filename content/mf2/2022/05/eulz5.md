@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/owillis/status/1521117184692568064" ],
     "name" : [ "Like of @owillis's tweet" ],
     "published" : [ "2022-05-02T19:19:00+0100" ],
     "category" : [ "satire" ],
