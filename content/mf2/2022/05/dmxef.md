@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/alexsteacy/status/1520840006813642753" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1521053163763159040" ],
     "name" : [ "Reply to https://twitter.com/alexsteacy/status/1520840006813642753" ],
     "published" : [ "2022-05-02T09:56:00+0100" ],
     "post-status" : [ "published" ],
