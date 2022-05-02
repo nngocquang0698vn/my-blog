@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Heilmann" ],
+        "nickname" : [ "codepo8" ],
+        "numeric-id" : [ "13567" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268171639331737602/M7kMlBuB.jpg" ],
+        "published" : [ "2006-11-21T17:20:09+00:00" ],
+        "uid" : [ "tag:twitter.com:codepo8" ],
+        "url" : [ "https://twitter.com/codepo8", "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "One problem I had in the past is that some RSS readers really messed up my code display.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SaraSoueidan\"></a>",
+      "value" : "One problem I had in the past is that some RSS readers really messed up my code display."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SaraSoueidan/status/1521146345179996163" ],
+    "published" : [ "2022-05-02T15:20:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1521147656860577792" ],
+    "url" : [ "https://twitter.com/codepo8/status/1521147656860577792" ]
+  },
+  "type" : [ "h-entry" ]
+}
