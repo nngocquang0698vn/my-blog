@@ -1,22 +1,23 @@
 ---
 title: "Lessons learned from the recent job hunt"
-description: "A recap of the recent interview process with several companies, what I learned, and what others should know."
-date: 2022-05-02T16:50:20+0100
+description: "A recap of the recent interview process with several companies, what\
+  \ I learned, and what others should know."
+date: "2022-05-02T16:50:20+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1521157522421334017"
 tags:
-- job
-- interviewing
-- recruitment
-- monzo
-- starling
-- gitpod
-- deliveroo
-- atom-bank
-- compensation
-- negotiation
-- gov.uk
-- cddo
+- "job"
+- "interviewing"
+- "recruitment"
+- "monzo"
+- "starling"
+- "gitpod"
+- "deliveroo"
+- "atom-bank"
+- "compensation"
+- "negotiation"
+- "gov.uk"
+- "cddo"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "lessons-learned-job-hunt"
