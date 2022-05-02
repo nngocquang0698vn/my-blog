@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/24hrken/status/1520444650884108288" ],
     "name" : [ "Like of @24hrken's tweet" ],
     "published" : [ "2022-05-02T14:02:00+0100" ],
     "like-of" : [ "https://twitter.com/24hrken/status/1520444650884108288" ],
