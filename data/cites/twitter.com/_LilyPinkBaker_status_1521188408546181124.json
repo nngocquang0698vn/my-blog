@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belfast" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "👻 Claire" ],
+        "nickname" : [ "LilyPinkBaker" ],
+        "numeric-id" : [ "121517552" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349187879222829056/IvtG48t0.jpg" ],
+        "published" : [ "2010-03-09T19:06:15+00:00" ],
+        "uid" : [ "tag:twitter.com:LilyPinkBaker" ],
+        "url" : [ "https://twitter.com/LilyPinkBaker", "http://www.lilypinkbakery.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Don’t feel bad, I love karaoke too.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Kristen_Arnett\"></a>",
+      "value" : "Don’t feel bad, I love karaoke too."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Kristen_Arnett/status/1521153289529831426" ],
+    "published" : [ "2022-05-02T18:02:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1521188408546181124" ],
+    "url" : [ "https://twitter.com/LilyPinkBaker/status/1521188408546181124" ]
+  },
+  "type" : [ "h-entry" ]
+}
