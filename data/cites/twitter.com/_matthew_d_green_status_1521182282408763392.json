@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Baltimore, MD" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Green" ],
+        "nickname" : [ "matthew_d_green" ],
+        "numeric-id" : [ "106234268" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1298759911082528769/lUT23GUT.jpg" ],
+        "published" : [ "2010-01-18T22:45:09+00:00" ],
+        "uid" : [ "tag:twitter.com:matthew_d_green" ],
+        "url" : [ "https://twitter.com/matthew_d_green", "http://blog.cryptographyengineering.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Friends don’t let friends invent weird new software licenses." ],
+    "published" : [ "2022-05-02T17:38:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1521182282408763392" ],
+    "url" : [ "https://twitter.com/matthew_d_green/status/1521182282408763392" ]
+  },
+  "type" : [ "h-entry" ]
+}
