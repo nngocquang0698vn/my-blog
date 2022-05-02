@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/seaotta/status/1521090474651656194" ],
     "name" : [ "Like of @seaotta's tweet" ],
     "published" : [ "2022-05-02T13:15:00+0100" ],
     "like-of" : [ "https://twitter.com/seaotta/status/1521090474651656194" ],
