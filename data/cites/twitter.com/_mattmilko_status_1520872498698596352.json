@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mattmilko" ],
+        "nickname" : [ "mattmilko" ],
+        "numeric-id" : [ "571325714" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1331242109110792193/csYh-wrf.jpg" ],
+        "published" : [ "2012-05-05T01:37:00+00:00" ],
+        "uid" : [ "tag:twitter.com:mattmilko" ],
+        "url" : [ "https://twitter.com/mattmilko", "http://www.mattmilkowski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Recently observed Gopher Tortoises in SW Florida:\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jamieamalea\"></a>",
+      "value" : "Recently observed Gopher Tortoises in SW Florida:"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jamieamalea/status/1520385618928455681" ],
+    "published" : [ "2022-05-01T21:07:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1520872498698596352" ],
+    "url" : [ "https://twitter.com/mattmilko/status/1520872498698596352" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1520872384366104578/pu/vid/1280x720/O8wyXz1NAiddww0w.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
