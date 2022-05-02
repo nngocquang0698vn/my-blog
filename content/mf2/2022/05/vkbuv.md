@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jolyonralph/status/1520895318778384386" ],
     "name" : [ "Like of @jolyonralph's tweet" ],
     "published" : [ "2022-05-02T09:32:00+0100" ],
     "like-of" : [ "https://twitter.com/jolyonralph/status/1520895318778384386" ],
