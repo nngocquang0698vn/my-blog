@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/willnorris/status/1521237235282063360" ],
     "name" : [ "Like of @willnorris's tweet" ],
     "published" : [ "2022-05-02T22:37:00+0100" ],
     "like-of" : [ "https://twitter.com/willnorris/status/1521237235282063360" ],
