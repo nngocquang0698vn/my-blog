@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Fipples19/status/1521206807871594496" ],
     "name" : [ "Like of @Fipples19's tweet" ],
     "published" : [ "2022-05-02T22:00:00+0100" ],
     "like-of" : [ "https://twitter.com/Fipples19/status/1521206807871594496" ],
