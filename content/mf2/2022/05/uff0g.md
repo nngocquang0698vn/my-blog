@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/palegreenmist/status/1520934345531445254" ],
     "name" : [ "Like of @palegreenmist's tweet" ],
     "published" : [ "2022-05-02T17:45:00+0100" ],
     "like-of" : [ "https://twitter.com/palegreenmist/status/1520934345531445254" ],
