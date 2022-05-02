@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn Prefecture" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "whit," ],
+          "nickname" : [ "whitneyarner" ],
+          "numeric-id" : [ "14213001" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1435515394060660736/bCuwC3Hm.jpg" ],
+          "published" : [ "2008-03-25T03:48:04+00:00" ],
+          "uid" : [ "tag:twitter.com:whitneyarner" ],
+          "url" : [ "https://twitter.com/whitneyarner", "http://patreon.com/whitneyarner" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "me just casually trying to wash my hands in like 2022" ],
+      "photo" : [ "https://pbs.twimg.com/media/EW8n2dEX0AUmIKQ.png" ],
+      "published" : [ "2020-05-01T16:58:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1256266649830858756" ],
+      "url" : [ "https://twitter.com/whitneyarner/status/1256266649830858756" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn Prefecture" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "whit," ],
+        "nickname" : [ "whitneyarner" ],
+        "numeric-id" : [ "14213001" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435515394060660736/bCuwC3Hm.jpg" ],
+        "published" : [ "2008-03-25T03:48:04+00:00" ],
+        "uid" : [ "tag:twitter.com:whitneyarner" ],
+        "url" : [ "https://twitter.com/whitneyarner", "http://patreon.com/whitneyarner" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "actually turns out this is now government policy" ],
+    "published" : [ "2022-05-02T04:05:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1520977775494156289" ],
+    "url" : [ "https://twitter.com/whitneyarner/status/1520977775494156289" ]
+  },
+  "type" : [ "h-entry" ]
+}
