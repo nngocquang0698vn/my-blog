@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Prahran, Victoria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Nottingham" ],
+        "nickname" : [ "mnot" ],
+        "numeric-id" : [ "5832482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/712785847058178048/Na0n8zCV.jpg" ],
+        "published" : [ "2007-05-07T13:29:44+00:00" ],
+        "uid" : [ "tag:twitter.com:mnot" ],
+        "url" : [ "https://twitter.com/mnot", "https://www.mnot.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> truly doesn't care about the economics of <a href=\"https://twitter.com/Twitter\">@twitter</a>, can we please have each account's feed as RSS or Atom, and allow it to ingest feeds from elsewhere?",
+      "value" : "If @elonmusk truly doesn't care about the economics of @twitter, can we please have each account's feed as RSS or Atom, and allow it to ingest feeds from elsewhere?"
+    } ],
+    "published" : [ "2022-05-02T03:12:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1520964529462853633" ],
+    "url" : [ "https://twitter.com/mnot/status/1520964529462853633" ]
+  },
+  "type" : [ "h-entry" ]
+}
