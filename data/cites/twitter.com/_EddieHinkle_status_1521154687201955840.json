@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eddie" ],
+        "nickname" : [ "EddieHinkle" ],
+        "numeric-id" : [ "308803734" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521167254435639298/bZe1Dvy-.png" ],
+        "published" : [ "2011-06-01T01:17:33+00:00" ],
+        "uid" : [ "tag:twitter.com:EddieHinkle" ],
+        "url" : [ "https://twitter.com/EddieHinkle", "https://eddiehinkle.com/?utm_source=Twitter&utm_medium=Social&utm_content=Profile" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My to-list today? Untold number of Slack channels and messages 🤯\n\nShout out to my team and company. I didn’t get a single @-mention over the course of those 6 weeks!</div>",
+      "value" : "My to-list today? Untold number of Slack channels and messages 🤯\n\nShout out to my team and company. I didn’t get a single @-mention over the course of those 6 weeks!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/EddieHinkle/status/1521142506750201856" ],
+    "published" : [ "2022-05-02T15:48:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1521154687201955840" ],
+    "url" : [ "https://twitter.com/EddieHinkle/status/1521154687201955840" ]
+  },
+  "type" : [ "h-entry" ]
+}
