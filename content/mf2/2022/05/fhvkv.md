@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/makeyourday25/status/1520834702889816064" ],
     "name" : [ "Like of @makeyourday25's tweet" ],
     "published" : [ "2022-05-02T11:03:00+0100" ],
     "like-of" : [ "https://twitter.com/makeyourday25/status/1520834702889816064" ],
