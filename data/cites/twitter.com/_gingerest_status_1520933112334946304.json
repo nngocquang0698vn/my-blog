@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Moira Donegan" ],
+          "nickname" : [ "MoiraDonegan" ],
+          "numeric-id" : [ "785461610" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1508473015339790339/gZ6pkcFd.jpg" ],
+          "published" : [ "2012-08-27T20:55:02+00:00" ],
+          "uid" : [ "tag:twitter.com:MoiraDonegan" ],
+          "url" : [ "https://twitter.com/MoiraDonegan" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If nothing else, Peter Thiel’s choice to use his fortune to eradicate Gawker via litigation as punishment for speech he didn’t like should suggest that the existence of billionaires and freedom of the press are incompatible." ],
+      "in-reply-to" : [ "https://twitter.com/MoiraDonegan/status/1520931216647757824" ],
+      "published" : [ "2022-05-02T01:01:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1520931575252328448" ],
+      "url" : [ "https://twitter.com/MoiraDonegan/status/1520931575252328448" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Melbourne" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BLACK LIVES MATTER ginger" ],
+        "nickname" : [ "gingerest" ],
+        "numeric-id" : [ "16045397" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1314364876614107136/kmj4vnPc.jpg" ],
+        "published" : [ "2008-08-29T18:20:12+00:00" ],
+        "uid" : [ "tag:twitter.com:gingerest" ],
+        "url" : [ "https://twitter.com/gingerest" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "1) there is no such thing as an ethical billionaire 2) the fragile man-babies who become public-figure billionaires are particularly  pathetic and repulsive" ],
+    "published" : [ "2022-05-02T01:08:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1520933112334946304" ],
+    "url" : [ "https://twitter.com/gingerest/status/1520933112334946304" ]
+  },
+  "type" : [ "h-entry" ]
+}
