@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Worldwide" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Doctor Hurdy Gurdy" ],
+        "nickname" : [ "NotReallyaDr" ],
+        "numeric-id" : [ "110290979" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1519098924077928448/QIpExrWH.jpg" ],
+        "published" : [ "2010-02-01T01:41:29+00:00" ],
+        "uid" : [ "tag:twitter.com:NotReallyaDr" ],
+        "url" : [ "https://twitter.com/NotReallyaDr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "oh" ],
+    "photo" : [ {
+      "alt" : "Most Tweeters don't post things like this\nWe're asking Tweeters to review posts with potentially false or misleading information.\nWant to take another look before tweeting?\n\n\"I'm in a really good place mentally right now\"\ndid we get this wrong?",
+      "value" : "https://pbs.twimg.com/media/FRxVaB6XEAE_7IO.jpg"
+    } ],
+    "published" : [ "2022-05-02T17:47:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1521184684516024320" ],
+    "url" : [ "https://twitter.com/NotReallyaDr/status/1521184684516024320" ]
+  },
+  "type" : [ "h-entry" ]
+}
