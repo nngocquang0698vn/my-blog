@@ -369,8 +369,6 @@ The only company that gave me any compensation for the interview process was Git
 
 Another thing to note is that I ended up not really preparing for the interviews. I feel like this is a bit of an arrogant move by me, and I probably should've worked a bit harder for them, but it's also a good sign to myself of what I can do at the level I'm at!
 
-I will caveat that with
-
 # Conclusion
 
 I found it handy to collate a list of companies that may be interesting to work for. Although I didn't get around to applying to their roles, I've now considered they're a good company, and if something interesting pops up, who knows?
