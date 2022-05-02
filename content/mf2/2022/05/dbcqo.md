@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/owlyowlnow/status/1521170795187347460" ],
     "name" : [ "Like of @owlyowlnow's tweet" ],
     "published" : [ "2022-05-02T22:05:00+0100" ],
     "like-of" : [ "https://twitter.com/owlyowlnow/status/1521170795187347460" ],
