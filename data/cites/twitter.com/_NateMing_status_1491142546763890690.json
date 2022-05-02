@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Soju Hennessey" ],
+          "nickname" : [ "damazingtoys" ],
+          "numeric-id" : [ "896478221268643841" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1487832934757318663/YHL4pdLB.jpg" ],
+          "published" : [ "2017-08-12T21:07:18+00:00" ],
+          "uid" : [ "tag:twitter.com:damazingtoys" ],
+          "url" : [ "https://twitter.com/damazingtoys", "http://d-amazing.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "There is a special place in SUPER HELL. for the person who invented the customer is always right" ],
+      "published" : [ "2022-02-08T19:52:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1491137981755060224" ],
+      "url" : [ "https://twitter.com/damazingtoys/status/1491137981755060224" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Momona" ],
+        "nickname" : [ "NateMing" ],
+        "numeric-id" : [ "373561824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488983931013664771/4Iv2n9Ox.jpg" ],
+        "published" : [ "2011-09-14T20:09:10+00:00" ],
+        "uid" : [ "tag:twitter.com:NateMing" ],
+        "url" : [ "https://twitter.com/NateMing", "https://tapas.io/series/Shaw-City-Strikers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">remember that the full quote from Harry Selfridge is \"the customer is always right, in matters of taste,\" which means that if they wanna buy an ugly hat, let them--they're still buying it\n\nlike a lot of sayings, it's been cut in half to cater to the absolute worst kind of people</div>",
+      "value" : "remember that the full quote from Harry Selfridge is \"the customer is always right, in matters of taste,\" which means that if they wanna buy an ugly hat, let them--they're still buying it\n\nlike a lot of sayings, it's been cut in half to cater to the absolute worst kind of people"
+    } ],
+    "published" : [ "2022-02-08T20:11:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1491142546763890690" ],
+    "url" : [ "https://twitter.com/NateMing/status/1491142546763890690" ]
+  },
+  "type" : [ "h-entry" ]
+}
