@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Mountain View, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Addy Osmani" ],
+        "nickname" : [ "addyosmani" ],
+        "numeric-id" : [ "35432643" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1471646681082990593/DBu9tgLk.jpg" ],
+        "published" : [ "2009-04-26T08:40:11+00:00" ],
+        "uid" : [ "tag:twitter.com:addyosmani" ],
+        "url" : [ "https://twitter.com/addyosmani", "https://addyosmani.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The \"Software Engineering at Google\" book is now free to read online: <a href=\"http://bit.ly/swe-book\">bit.ly/swe-book</a>. Great insights on improving code quality &amp; scaling engineering teams.",
+      "value" : "The \"Software Engineering at Google\" book is now free to read online: bit.ly/swe-book. Great insights on improving code quality & scaling engineering teams."
+    } ],
+    "photo" : [ {
+      "alt" : "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering.\n\nHow can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. \n\nThis book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization.",
+      "value" : "https://pbs.twimg.com/media/FRpvM4hVsAE9xDv.jpg"
+    } ],
+    "published" : [ "2022-05-01T06:43:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1520655031036354560" ],
+    "url" : [ "https://twitter.com/addyosmani/status/1520655031036354560" ]
+  },
+  "type" : [ "h-entry" ]
+}
