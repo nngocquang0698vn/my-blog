@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SoozUK/status/1521042343494926336" ],
     "name" : [ "Like of @SoozUK's tweet" ],
     "published" : [ "2022-05-02T22:40:00+0100" ],
     "like-of" : [ "https://twitter.com/SoozUK/status/1521042343494926336" ],
