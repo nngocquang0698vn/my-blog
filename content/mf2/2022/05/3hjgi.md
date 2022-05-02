@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LukeExton/status/1521088824838963202" ],
     "name" : [ "Like of @LukeExton's tweet" ],
     "published" : [ "2022-05-02T12:33:00+0100" ],
     "like-of" : [ "https://twitter.com/LukeExton/status/1521088824838963202" ],
