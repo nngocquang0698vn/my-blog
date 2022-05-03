@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1521590098898399236" ],
     "photo" : [ {
       "alt" : "Selfie of Anna, Cookie and Jamie. Anna's face is partially obscured by Cookie the dog, who's in the middle of licking her lips, and looking slightly away from camera. Anna and Jamie are both smiling at the camera",
       "photo" : "https://media.jvt.me/9d080eec7e.jpeg"
