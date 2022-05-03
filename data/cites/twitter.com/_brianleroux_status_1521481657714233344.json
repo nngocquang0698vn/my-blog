@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Yan Cui is making the AppSync Masterclass" ],
+          "nickname" : [ "theburningmonk" ],
+          "numeric-id" : [ "245821992" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1313922196339920898/dc1SALIM.jpg" ],
+          "published" : [ "2011-02-01T15:04:02+00:00" ],
+          "uid" : [ "tag:twitter.com:theburningmonk" ],
+          "url" : [ "https://twitter.com/theburningmonk", "http://theburningmonk.com", "http://productionreadyserverless.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "There's value in testing YOUR code locally, but don't bother with simulating AWS locally, too much effort to set up and too brittle to maintain. Seen many teams spend weeks trying to get localstack running and then waste even more time whenever it breaks in mysterious ways 😠" ],
+      "in-reply-to" : [ "https://twitter.com/theburningmonk/status/1521474752963096583" ],
+      "published" : [ "2022-05-03T13:00:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1521474761385291777" ],
+      "url" : [ "https://twitter.com/theburningmonk/status/1521474761385291777" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "unceded Coast Salish territory" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian LeRoux" ],
+        "nickname" : [ "brianleroux" ],
+        "numeric-id" : [ "676363" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1479833446763536390/RwWLuYIW.jpg" ],
+        "published" : [ "2007-01-21T19:54:27+00:00" ],
+        "uid" : [ "tag:twitter.com:brianleroux" ],
+        "url" : [ "https://twitter.com/brianleroux", "https://brian.io", "http://arc.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We've had stable local testing in <a href=\"http://arc.codes\">arc.codes</a> for five years now\n\nthe future is here but it's not well distributed..choose frameworks wisely and you don't have to suffer hacks. \n\nwe also support staging stacks of you insist on slow dev velocity!</div>",
+      "value" : "We've had stable local testing in arc.codes for five years now\n\nthe future is here but it's not well distributed..choose frameworks wisely and you don't have to suffer hacks. \n\nwe also support staging stacks of you insist on slow dev velocity!"
+    } ],
+    "published" : [ "2022-05-03T13:27:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1521481657714233344" ],
+    "url" : [ "https://twitter.com/brianleroux/status/1521481657714233344" ]
+  },
+  "type" : [ "h-entry" ]
+}
