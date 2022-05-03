@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "@rubynerd" ],
+        "nickname" : [ "rubynerd" ],
+        "numeric-id" : [ "207100150" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/821314749929553921/zvYJvU4J.jpg" ],
+        "published" : [ "2010-10-24T14:28:28+00:00" ],
+        "uid" : [ "tag:twitter.com:rubynerd" ],
+        "url" : [ "https://twitter.com/rubynerd", "https://rubynerd.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "golang's html/template package must make sense to the person that designed it, and that's it" ],
+    "published" : [ "2022-05-02T22:39:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1521258039818563584" ],
+    "url" : [ "https://twitter.com/rubynerd/status/1521258039818563584" ]
+  },
+  "type" : [ "h-entry" ]
+}
