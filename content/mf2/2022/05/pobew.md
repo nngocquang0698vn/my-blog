@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/brianleroux/status/1521481657714233344" ],
     "name" : [ "Like of @brianleroux's tweet" ],
     "published" : [ "2022-05-03T16:06:00+0100" ],
     "like-of" : [ "https://twitter.com/brianleroux/status/1521481657714233344" ],
