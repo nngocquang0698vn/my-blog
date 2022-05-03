@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Buffalo, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "nor." ],
+          "nickname" : [ "grooovynor" ],
+          "numeric-id" : [ "1427764604956971010" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1520105535303036928/l5F5ENPJ.jpg" ],
+          "published" : [ "2021-08-17T22:49:50+00:00" ],
+          "uid" : [ "tag:twitter.com:grooovynor" ],
+          "url" : [ "https://twitter.com/grooovynor" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Abortions save lives \n\nAbortion is health care \n\nFuck you</div>",
+        "value" : "Abortions save lives \n\nAbortion is health care \n\nFuck you"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/grooovynor/status/1521500156381782019" ],
+      "published" : [ "2022-05-03T14:42:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1521500544170442753" ],
+      "url" : [ "https://twitter.com/grooovynor/status/1521500544170442753" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "pumpy 🍋" ],
+        "nickname" : [ "pumpylumpkin" ],
+        "numeric-id" : [ "4607793492" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1496617021605302274/lYnWRozJ.jpg" ],
+        "published" : [ "2015-12-20T01:02:52+00:00" ],
+        "uid" : [ "tag:twitter.com:pumpylumpkin" ],
+        "url" : [ "https://twitter.com/pumpylumpkin", "http://instagram.com/enchantingauradesigns" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">i had an abortion at 17\n\n13 years later the father is still strung out on drugs\n\ni have never wanted nor will ever want children\n\nit saved me 🖕🏻</div>",
+      "value" : "i had an abortion at 17\n\n13 years later the father is still strung out on drugs\n\ni have never wanted nor will ever want children\n\nit saved me 🖕🏻"
+    } ],
+    "published" : [ "2022-05-03T20:39:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1521590268193120257" ],
+    "url" : [ "https://twitter.com/pumpylumpkin/status/1521590268193120257" ]
+  },
+  "type" : [ "h-entry" ]
+}
