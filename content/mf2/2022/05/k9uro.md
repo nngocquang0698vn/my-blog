@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ExpanseNContext/status/1521505294949359616" ],
     "name" : [ "Like of @ExpanseNContext's tweet" ],
     "published" : [ "2022-05-03T16:09:00+0100" ],
     "like-of" : [ "https://twitter.com/ExpanseNContext/status/1521505294949359616" ],
