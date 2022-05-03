@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SmartAssJen/status/1521298266335313922" ],
     "name" : [ "Like of @SmartAssJen's tweet" ],
     "published" : [ "2022-05-03T14:52:00+0100" ],
     "like-of" : [ "https://twitter.com/SmartAssJen/status/1521298266335313922" ],
