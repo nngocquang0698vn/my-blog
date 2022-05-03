@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/t_enabler/status/1521536721577512961" ],
     "name" : [ "Like of @t_enabler's tweet" ],
     "published" : [ "2022-05-03T18:51:00+0100" ],
     "like-of" : [ "https://twitter.com/t_enabler/status/1521536721577512961" ],
