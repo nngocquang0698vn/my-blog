@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JordanLeviLV/status/1521573018786357249" ],
     "name" : [ "Like of @JordanLeviLV's tweet" ],
     "published" : [ "2022-05-03T22:11:00+0100" ],
     "like-of" : [ "https://twitter.com/JordanLeviLV/status/1521573018786357249" ],
