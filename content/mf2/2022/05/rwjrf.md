@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rubynerd/status/1521258039818563584" ],
     "name" : [ "Like of @rubynerd's tweet" ],
     "published" : [ "2022-05-03T09:39:21.706240768Z" ],
     "like-of" : [ "https://twitter.com/rubynerd/status/1521258039818563584" ],
