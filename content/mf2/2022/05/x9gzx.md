@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rob_sheridan/status/1521264331895107584" ],
     "name" : [ "Like of @rob_sheridan's tweet" ],
     "published" : [ "2022-05-03T21:38:00+0100" ],
     "like-of" : [ "https://twitter.com/rob_sheridan/status/1521264331895107584" ],
