@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomrade_/status/1521398058579378177" ],
     "name" : [ "Like of @tomrade_'s tweet" ],
     "published" : [ "2022-05-03T21:02:00+0100" ],
     "like-of" : [ "https://twitter.com/tomrade_/status/1521398058579378177" ],
