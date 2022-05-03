@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Here" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Josh Gad" ],
+          "nickname" : [ "joshgad" ],
+          "numeric-id" : [ "40100270" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1492568504444223493/qiOp7Y2g.jpg" ],
+          "published" : [ "2009-05-14T22:13:49+00:00" ],
+          "uid" : [ "tag:twitter.com:joshgad" ],
+          "url" : [ "https://twitter.com/joshgad", "https://youtube.com/c/joshgad" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "By the way, now would be a good time to register to vote" ],
+      "published" : [ "2022-05-03T01:40:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1521303668322037761" ],
+      "url" : [ "https://twitter.com/joshgad/status/1521303668322037761" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC via LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ashley Reese" ],
+        "nickname" : [ "offbeatorbit" ],
+        "numeric-id" : [ "20325951" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1233217676266307584/tSIe-Fwx.jpg" ],
+        "published" : [ "2009-02-07T18:54:52+00:00" ],
+        "uid" : [ "tag:twitter.com:offbeatorbit" ],
+        "url" : [ "https://twitter.com/offbeatorbit" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "now would be a good time for the dems we already voted into office to do their damn jobs" ],
+    "published" : [ "2022-05-03T02:18:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1521313155359678470" ],
+    "url" : [ "https://twitter.com/offbeatorbit/status/1521313155359678470" ]
+  },
+  "type" : [ "h-entry" ]
+}
