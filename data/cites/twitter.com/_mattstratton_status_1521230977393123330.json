@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Lena" ],
+          "nickname" : [ "banalplay" ],
+          "numeric-id" : [ "1024717448002629637" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1480522928584376323/c-swIVda.jpg" ],
+          "published" : [ "2018-08-01T18:04:12+00:00" ],
+          "uid" : [ "tag:twitter.com:banalplay" ],
+          "url" : [ "https://twitter.com/banalplay" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"Dilbert\" creator Dilbert introduces first black character in 33-year run, introduced solely to hate trans people" ],
+      "photo" : [ "https://pbs.twimg.com/media/FRwkKqnXMAA1o8h.png" ],
+      "published" : [ "2022-05-02T14:13:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1521130676795453440" ],
+      "url" : [ "https://twitter.com/banalplay/status/1521130676795453440" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521456106186358794/zzU5btIi.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Reminder that if you’re still using Dilbert shit in your slides/presentations you should stop now. \n\nI mean you should have stopped a while ago, but especially now.</div>",
+      "value" : "Reminder that if you’re still using Dilbert shit in your slides/presentations you should stop now. \n\nI mean you should have stopped a while ago, but especially now."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lisle, IL" ],
+        "uid" : [ "tag:twitter.com:3009292baa8dda23" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-02T20:51:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1521230977393123330" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1521230977393123330" ]
+  },
+  "type" : [ "h-entry" ]
+}
