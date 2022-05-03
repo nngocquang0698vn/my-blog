@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "philadelphia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "smanny" ],
+          "nickname" : [ "smanny" ],
+          "numeric-id" : [ "15923923" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/586241907640107010/oUQdQdQm.jpg" ],
+          "published" : [ "2008-08-20T21:58:10+00:00" ],
+          "uid" : [ "tag:twitter.com:smanny" ],
+          "url" : [ "https://twitter.com/smanny", "http://staceymann.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "There’s gonna be a whole lotta feelings out in the world tomorrow. Word to the wise… Get out of the way.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>",
+        "value" : "There’s gonna be a whole lotta feelings out in the world tomorrow. Word to the wise… Get out of the way."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/mattstratton/status/1521301135960727555" ],
+      "published" : [ "2022-05-03T01:50:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1521306204580065281" ],
+      "url" : [ "https://twitter.com/smanny/status/1521306204580065281" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521456106186358794/zzU5btIi.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My dudes - take this advice today. \n\nAmplify the voices. You don’t need to add your own.</div>",
+      "value" : "My dudes - take this advice today. \n\nAmplify the voices. You don’t need to add your own."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lisle, IL" ],
+        "uid" : [ "tag:twitter.com:3009292baa8dda23" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-03T12:47:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1521471463919861761" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1521471463919861761" ]
+  },
+  "type" : [ "h-entry" ]
+}
