@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/offbeatorbit/status/1521313155359678470" ],
     "name" : [ "Like of @offbeatorbit's tweet" ],
     "published" : [ "2022-05-03T07:47:00+0100" ],
     "like-of" : [ "https://twitter.com/offbeatorbit/status/1521313155359678470" ],
