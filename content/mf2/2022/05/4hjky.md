@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fake_api/status/1521546178764197890" ],
     "name" : [ "Like of @fake_api's tweet" ],
     "published" : [ "2022-05-03T18:51:00+0100" ],
     "like-of" : [ "https://twitter.com/fake_api/status/1521546178764197890" ],
