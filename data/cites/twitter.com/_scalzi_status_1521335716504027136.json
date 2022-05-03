@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, D.C." ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SCOTUSblog" ],
+          "nickname" : [ "SCOTUSblog" ],
+          "numeric-id" : [ "16228479" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1353415064645197829/1bfvuYXE.jpg" ],
+          "published" : [ "2008-09-10T21:18:43+00:00" ],
+          "uid" : [ "tag:twitter.com:SCOTUSblog" ],
+          "url" : [ "https://twitter.com/SCOTUSblog", "http://www.scotusblog.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "It’s impossible to overstate the earthquake this will cause inside the Court, in terms of the destruction of trust among the Justices and staff. This leak is the gravest, most unforgivable sin." ],
+      "published" : [ "2022-05-03T01:07:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1521295411545260035" ],
+      "url" : [ "https://twitter.com/SCOTUSblog/status/1521295411545260035" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bradford, Ohio, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Scalzi" ],
+        "nickname" : [ "scalzi" ],
+        "numeric-id" : [ "14202817" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3475245194/59992708a306aaa836bf1699f8b47d5d.png" ],
+        "published" : [ "2008-03-23T17:23:32+00:00" ],
+        "uid" : [ "tag:twitter.com:scalzi" ],
+        "url" : [ "https://twitter.com/scalzi", "http://whatever.scalzi.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don't know, maybe the Supreme Court shouldn't have decided that people with uteruses should have less say over what happens to their bodies than the people who rape them, that seems a smidge more unforgivable" ],
+    "published" : [ "2022-05-03T03:47:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1521335716504027136" ],
+    "url" : [ "https://twitter.com/scalzi/status/1521335716504027136" ]
+  },
+  "type" : [ "h-entry" ]
+}
