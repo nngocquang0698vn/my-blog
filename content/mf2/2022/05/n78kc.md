@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/leyawn/status/1521503575435788290" ],
     "name" : [ "Like of @leyawn's tweet" ],
     "published" : [ "2022-05-03T22:06:00+0100" ],
     "like-of" : [ "https://twitter.com/leyawn/status/1521503575435788290" ],
