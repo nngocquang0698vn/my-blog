@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/npryce/adr-tools/stargazers" ],
     "name" : [ "npryce/adr-tools: Command-line tools for working with Architecture Decision Records" ],
     "published" : [ "2022-05-03T14:47:28.57653075Z" ],
     "like-of" : [ "https://github.com/npryce/adr-tools" ],
