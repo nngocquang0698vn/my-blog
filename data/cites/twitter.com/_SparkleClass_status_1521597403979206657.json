@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rachel Morgan-Trimmer" ],
+        "nickname" : [ "SparkleClass" ],
+        "numeric-id" : [ "928764030688296960" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297460757563609089/G2ObglHR.jpg" ],
+        "published" : [ "2017-11-09T23:19:35+00:00" ],
+        "uid" : [ "tag:twitter.com:SparkleClass" ],
+        "url" : [ "https://twitter.com/SparkleClass", "http://www.sparkleclass.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You're such a cute quartet!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/anna_hax\"></a>",
+      "value" : "You're such a cute quartet!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1521590098898399236" ],
+    "published" : [ "2022-05-03T21:07:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1521597403979206657" ],
+    "url" : [ "https://twitter.com/SparkleClass/status/1521597403979206657" ]
+  },
+  "type" : [ "h-entry" ]
+}
