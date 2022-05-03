@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pumpylumpkin/status/1521590268193120257" ],
     "name" : [ "Like of @pumpylumpkin's tweet" ],
     "published" : [ "2022-05-03T22:11:00+0100" ],
     "like-of" : [ "https://twitter.com/pumpylumpkin/status/1521590268193120257" ],
