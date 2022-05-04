@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Willy Lowry" ],
+        "nickname" : [ "willy_lowry" ],
+        "numeric-id" : [ "27664969" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1103578317049999360/vhnuOh3u.jpg" ],
+        "published" : [ "2009-03-30T15:55:07+00:00" ],
+        "uid" : [ "tag:twitter.com:willy_lowry" ],
+        "url" : [ "https://twitter.com/willy_lowry", "http://www.tremblaylowry.com/willy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A visibly shaken and angry Senator Elizabeth Warren just spoke in-front of <a href=\"https://twitter.com/search?q=%23SCOTUS\">#SCOTUS</a>. <a href=\"https://twitter.com/TheNationalNews\">@TheNationalNews</a>",
+      "value" : "A visibly shaken and angry Senator Elizabeth Warren just spoke in-front of #SCOTUS. @TheNationalNews"
+    } ],
+    "published" : [ "2022-05-03T15:51:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1521517935155679237" ],
+    "url" : [ "https://twitter.com/willy_lowry/status/1521517935155679237" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1521517408531460100/pu/vid/720x1280/Bx6G9tCvafig0rMp.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
