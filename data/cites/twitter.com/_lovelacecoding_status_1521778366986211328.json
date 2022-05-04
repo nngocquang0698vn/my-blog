@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Find out more about me →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lou" ],
+        "nickname" : [ "lovelacecoding" ],
+        "numeric-id" : [ "1405430507748352000" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477386656839839753/O6EpKE4F.jpg" ],
+        "published" : [ "2021-06-17T07:42:46+00:00" ],
+        "uid" : [ "tag:twitter.com:lovelacecoding" ],
+        "url" : [ "https://twitter.com/lovelacecoding", "http://louella.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "May the 4th be with you, Star Wars buddies" ],
+    "published" : [ "2022-05-04T09:06:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1521778366986211328" ],
+    "url" : [ "https://twitter.com/lovelacecoding/status/1521778366986211328" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FR5xWuYWUAITWD4.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
