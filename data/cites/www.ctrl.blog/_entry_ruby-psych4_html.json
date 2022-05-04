@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Ruby 3.1’s incompatible changes to its YAML module (Psych 4)" ],
+    "summary" : [ "Ruby made its YAML interpreter more secure by default at the cost of backward compatibility. Developers weren’t given heads up warning about the changes." ],
+    "featured" : [ "https://www.ctrl.blog/media/hero/yaml.1280x720.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Daniel Aleksandersen" ]
+      }
+    } ],
+    "url" : [ "https://www.ctrl.blog/entry/ruby-psych4.html" ],
+    "published" : [ "2022-04-30T18:30:00Z" ]
+  }
+}
