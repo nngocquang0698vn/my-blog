@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/hawx/indieauth/stargazers" ],
     "name" : [ "Like of https://github.com/hawx/indieauth" ],
     "published" : [ "2022-05-04T22:07:00+0100" ],
     "category" : [ "go", "indieauth" ],
