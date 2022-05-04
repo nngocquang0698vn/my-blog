@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Intelligence Squared" ],
+          "nickname" : [ "intelligence2" ],
+          "numeric-id" : [ "16219226" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1093544381230055425/8X8W5M9d.jpg" ],
+          "published" : [ "2008-09-10T10:45:22+00:00" ],
+          "uid" : [ "tag:twitter.com:intelligence2" ],
+          "url" : [ "https://twitter.com/intelligence2", "http://www.intelligencesquared.com", "http://apple.co/2HwbNpA", "http://bit.ly/2G6gwKK" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">What do you think? \nHas the time come to try something new? \nWe've partnered with <a href=\"https://twitter.com/SlackHQ\">@slackhq</a> for a free event to debate the future of the 5-day working week. \nJoin us on Mon 9 May to hear both sides of the argument <a href=\"https://bit.ly/3kkbLAP\">bit.ly/3kkbLAP</a> <a href=\"https://twitter.com/karlnicholson\">@karlnicholson</a> <a href=\"https://twitter.com/n_srnck\">@n_srnck</a> <a href=\"https://twitter.com/annemcelvoy\">@annemcelvoy</a></div>",
+        "value" : "What do you think? \nHas the time come to try something new? \nWe've partnered with @slackhq for a free event to debate the future of the 5-day working week. \nJoin us on Mon 9 May to hear both sides of the argument bit.ly/3kkbLAP @karlnicholson @n_srnck @annemcelvoy"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FRcMPCpXMAEL9gc.jpg" ],
+      "published" : [ "2022-04-28T15:29:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1519700367302447107" ],
+      "url" : [ "https://twitter.com/intelligence2/status/1519700367302447107" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Slack" ],
+        "nickname" : [ "SlackHQ" ],
+        "numeric-id" : [ "1305940272" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461144163789983748/N5iAWd2d.jpg" ],
+        "published" : [ "2013-03-26T23:44:06+00:00" ],
+        "uid" : [ "tag:twitter.com:SlackHQ" ],
+        "url" : [ "https://twitter.com/SlackHQ", "https://slack.com/frontiers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hot take: the work week as we know it may be a thing of the past.😲" ],
+    "published" : [ "2022-05-04T20:14:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1521946282511814656" ],
+    "url" : [ "https://twitter.com/SlackHQ/status/1521946282511814656" ]
+  },
+  "type" : [ "h-entry" ]
+}
