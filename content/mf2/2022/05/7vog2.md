@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DudeWhoCode/status/1521771348476895232" ],
     "name" : [ "Like of @DudeWhoCode's tweet" ],
     "published" : [ "2022-05-04T12:01:00+0100" ],
     "like-of" : [ "https://twitter.com/DudeWhoCode/status/1521771348476895232" ],
