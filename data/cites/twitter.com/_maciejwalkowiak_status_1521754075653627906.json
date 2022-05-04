@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://youtube.com/springacademy", "http://youtube.com/springacademy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Big thanks to <a href=\"https://twitter.com/_localstack\">@_localstack</a> for giving PRO licenses to Spring Cloud AWS core team!\n\nBtw our first sponsor 🙃</div>",
+      "value" : "Big thanks to @_localstack for giving PRO licenses to Spring Cloud AWS core team!\n\nBtw our first sponsor 🙃"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FR5a1VYX0AIJDgC.jpg" ],
+    "published" : [ "2022-05-04T07:30:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1521754075653627906" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1521754075653627906" ]
+  },
+  "type" : [ "h-entry" ]
+}
