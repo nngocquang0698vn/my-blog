@@ -327,7 +327,7 @@ When I went into the job market, I knew what I was being paid, and it's likely o
 
 Although it was all public, and my current salary was £69k, I was asked by companies what I was expecting, of which the minimum I specified was £80. I knew from chatting to others around the community that was a reasonable request of the companies I was going to, and I noted that the salary I was leaving was a public sector one, which are generally lower than private sector anyway, as well as the fact that I was leaving a _very nice_ pension behind.
 
-So when I received whopping £90k offers, what did I do? I thought back to something a friend of mine says, "channel your inner middle-aged white man who'd feel entitled to ask for more".
+So when I received whopping £90k offers, what did I do? I thought back to something a friend of mine says, "channel your inner middle-aged white man who'd feel entitled to ask for more". (Note that this is a statement said in jest, based on research that men are more likely to ask for raises, and doesn't have any racist undertones)
 
 Knowing that I had two offers, and that I had gone through a very long process with them and having received an offer, I knew that I was a candidate they'd like to hire. This is the perfect time to get that extra worth, as you hold a lot of the chips, especially with two offers.
 
