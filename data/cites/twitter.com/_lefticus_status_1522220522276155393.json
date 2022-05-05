@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jason Turner" ],
+        "nickname" : [ "lefticus" ],
+        "numeric-id" : [ "36126520" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1375964859704086528/yA1wt1lx.jpg" ],
+        "published" : [ "2009-04-28T17:35:30+00:00" ],
+        "uid" : [ "tag:twitter.com:lefticus" ],
+        "url" : [ "https://twitter.com/lefticus", "http://emptycrate.com", "http://CppCast.com", "http://cppbestpractices.com", "http://chaiscript.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "in-reply-to" : [ "https://twitter.com/lefticus/status/1522214618009022466" ],
+    "published" : [ "2022-05-05T14:23:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1522220522276155393" ],
+    "url" : [ "https://twitter.com/lefticus/status/1522220522276155393" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FSADfonVUAAHFU2.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
