@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/m_ou_se/status/1522123451124834304" ],
     "name" : [ "Like of @m_ou_se's tweet" ],
     "published" : [ "2022-05-05T08:58:00+0100" ],
     "like-of" : [ "https://twitter.com/m_ou_se/status/1522123451124834304" ],
