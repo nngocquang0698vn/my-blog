@@ -1,7 +1,7 @@
 ---
 title: "When should I use `env` to start a command with environment variables?"
 description: "When you should use the `env` command to specify environment variables when executing a command on the command-line (TL;DR: always)."
-date: 2022-05-05 #
+date: 2022-05-05T21:02:00+0100
 syndication:
 - "https://brid.gy/publish/twitter"
 tags:
@@ -10,7 +10,7 @@ tags:
 - "shell"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: "" # TODO
+image: "https://media.jvt.me/af86a85714.png"
 slug: "env-environment-variables"
 ---
 I've always followed the principle of running shell commands that require environment variables with the [`env` command](https://linux.die.net/man/1/env) for as long as I've been writing shell scripts, and can't remember the exact reason for this, but I remember the place I read it sounded pretty sure about it, and it took me many years to understand why.
