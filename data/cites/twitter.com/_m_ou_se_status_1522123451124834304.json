@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">When at Uber, I remember this change to make sure a female interviewer is present on every hiring loop.\n\nThe strangest thing happened.\n\nWe started rejecting candidates just because they were unwilling to make eye contact with the female interviewer or acknowledge their presence.</div>",
+        "value" : "When at Uber, I remember this change to make sure a female interviewer is present on every hiring loop.\n\nThe strangest thing happened.\n\nWe started rejecting candidates just because they were unwilling to make eye contact with the female interviewer or acknowledge their presence."
+      } ],
+      "published" : [ "2022-05-04T22:42:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1521983607925055489" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1521983607925055489" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Delft, Nederland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mara Bos" ],
+        "nickname" : [ "m_ou_se" ],
+        "numeric-id" : [ "35833187" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378283500349054976/ikBbFGV1.jpg" ],
+        "published" : [ "2009-04-27T19:27:01+00:00" ],
+        "uid" : [ "tag:twitter.com:m_ou_se" ],
+        "url" : [ "https://twitter.com/m_ou_se", "https://m-ou.se/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This happened to me several times, even when I was introduced as the CTO or founder. I asked technical questions, and the (engineering) candidate would not even look at me and give the answer to the man in the room. I asked follow up questions, but the responses went only to him." ],
+    "published" : [ "2022-05-05T07:58:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1522123451124834304" ],
+    "url" : [ "https://twitter.com/m_ou_se/status/1522123451124834304" ]
+  },
+  "type" : [ "h-entry" ]
+}
