@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GergelyOrosz/status/1521983874846371841" ],
     "name" : [ "Like of @GergelyOrosz's tweet" ],
     "published" : [ "2022-05-05T08:59:00+0100" ],
     "like-of" : [ "https://twitter.com/GergelyOrosz/status/1521983874846371841" ],
