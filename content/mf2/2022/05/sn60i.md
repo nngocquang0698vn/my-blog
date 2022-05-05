@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IndecisiveRease/status/1521966295268401154" ],
     "name" : [ "Like of @IndecisiveRease's tweet" ],
     "published" : [ "2022-05-05T15:36:00+0100" ],
     "like-of" : [ "https://twitter.com/IndecisiveRease/status/1521966295268401154" ],
