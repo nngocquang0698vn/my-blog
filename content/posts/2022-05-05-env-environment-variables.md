@@ -1,9 +1,10 @@
 ---
 title: "When should I use `env` to start a command with environment variables?"
-description: "When you should use the `env` command to specify environment variables when executing a command on the command-line (TL;DR: always)."
-date: 2022-05-05T21:02:00+0100
+description: "When you should use the `env` command to specify environment variables\
+  \ when executing a command on the command-line (TL;DR: always)."
+date: "2022-05-05T21:02:00+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522308070763810816"
 tags:
 - "blogumentation"
 - "command-line"
