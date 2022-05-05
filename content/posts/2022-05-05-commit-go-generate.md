@@ -1,9 +1,10 @@
 ---
 title: "Should I commit generated Go code?"
-description: "Answering whether `go:generate`d code should be committed (TL;DR is yes)."
-date: 2022-05-05T09:31:10+0100
+description: "Answering whether `go:generate`d code should be committed (TL;DR is\
+  \ yes)."
+date: "2022-05-05T09:31:10+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522133850398330880"
 tags:
 - "blogumentation"
 - "go"
