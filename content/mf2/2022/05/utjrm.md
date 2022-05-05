@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ColinMacphee1/status/1522318031661285379" ],
     "name" : [ "Like of @ColinMacphee1's tweet" ],
     "published" : [ "2022-05-05T22:32:00+0100" ],
     "like-of" : [ "https://twitter.com/ColinMacphee1/status/1522318031661285379" ],
