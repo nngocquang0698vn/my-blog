@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kokeshimum/status/1522169027895955457" ],
     "name" : [ "Like of @kokeshimum's tweet" ],
     "published" : [ "2022-05-05T13:47:00+0100" ],
     "category" : [ "politics" ],
