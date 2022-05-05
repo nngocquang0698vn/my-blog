@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1522248546912817157" ],
     "photo" : [ {
       "alt" : "A box with the Deliveroo name and logo on it, in the Deliveroo grey",
       "photo" : "https://media.jvt.me/8f236828ae.jpeg"
