@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "UX Collective" ],
+          "nickname" : [ "uxdesigncc" ],
+          "numeric-id" : [ "16814473" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/982990409453334529/Mrnz3KJ6.jpg" ],
+          "published" : [ "2008-10-16T21:19:49+00:00" ],
+          "uid" : [ "tag:twitter.com:uxdesigncc" ],
+          "url" : [ "https://twitter.com/uxdesigncc", "http://uxdesign.cc" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Unethical design of cookie consent windows <a href=\"https://buff.ly/3OM9Rae\">buff.ly/3OM9Rae</a> — by <a href=\"https://twitter.com/thenicatmanafov\">@thenicatmanafov</a>",
+        "value" : "Unethical design of cookie consent windows buff.ly/3OM9Rae — by @thenicatmanafov"
+      } ],
+      "published" : [ "2022-05-04T12:14:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1521825473092800514" ],
+      "url" : [ "https://twitter.com/uxdesigncc/status/1521825473092800514" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kitty Giraudel" ],
+        "nickname" : [ "KittyGiraudel" ],
+        "numeric-id" : [ "551949534" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489602799344263170/fN3eP-pe.jpg" ],
+        "published" : [ "2012-04-12T13:39:49+00:00" ],
+        "uid" : [ "tag:twitter.com:KittyGiraudel" ],
+        "url" : [ "https://twitter.com/KittyGiraudel", "https://kittygiraudel.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I literally worked on that cookie banner, and I can tell you this ain’t it. Do you think designers go out of their way to make shitty UX? Have you ever worked anywhere before? Data privacy in fintech is a never-ending battle with the legal department, not with designers. " ],
+    "photo" : [ {
+      "alt" : "Instead of showing the “accept necessary cookies” button by default in this window, the designers decided to hide it. Because they know people doesn’t read and won’t scroll through the window. So they just keep “accept all cookies” button in front of us and offer “one choice”.",
+      "value" : "https://pbs.twimg.com/media/FR-4RH5WYAEboIp.jpg"
+    } ],
+    "published" : [ "2022-05-05T08:56:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1522138254698496001" ],
+    "url" : [ "https://twitter.com/KittyGiraudel/status/1522138254698496001" ]
+  },
+  "type" : [ "h-entry" ]
+}
