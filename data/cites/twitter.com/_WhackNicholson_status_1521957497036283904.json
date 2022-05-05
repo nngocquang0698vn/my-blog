@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "New York Post" ],
+          "nickname" : [ "nypost" ],
+          "numeric-id" : [ "17469289" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e.jpg" ],
+          "published" : [ "2008-11-18T19:46:36+00:00" ],
+          "uid" : [ "tag:twitter.com:nypost" ],
+          "url" : [ "https://twitter.com/nypost", "http://www.nypost.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Pansexual Florida teacher canned for discussing orientation with students <a href=\"https://trib.al/REDK64l\">trib.al/REDK64l</a>",
+        "value" : "Pansexual Florida teacher canned for discussing orientation with students trib.al/REDK64l"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FR7k0vlXMAIfpW1.jpg" ],
+      "published" : [ "2022-05-04T17:31:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1521905320490057732" ],
+      "url" : [ "https://twitter.com/nypost/status/1521905320490057732" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "He, Him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Whack, with a silent 'H'" ],
+        "nickname" : [ "WhackNicholson" ],
+        "numeric-id" : [ "1061454999572701184" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508958853613903880/uk3L-IZ5.png" ],
+        "published" : [ "2018-11-11T03:06:07+00:00" ],
+        "uid" : [ "tag:twitter.com:WhackNicholson" ],
+        "url" : [ "https://twitter.com/WhackNicholson", "https://soundcloud.com/whack-nicholson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "A lot of free speech guys here very excited she lost her job." ],
+    "published" : [ "2022-05-04T20:58:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1521957497036283904" ],
+    "url" : [ "https://twitter.com/WhackNicholson/status/1521957497036283904" ]
+  },
+  "type" : [ "h-entry" ]
+}
