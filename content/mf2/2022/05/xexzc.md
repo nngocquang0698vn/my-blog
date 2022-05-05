@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mech_mouse/status/1522183712292712453" ],
     "name" : [ "Like of @mech_mouse's tweet" ],
     "published" : [ "2022-05-05T13:47:00+0100" ],
     "like-of" : [ "https://twitter.com/mech_mouse/status/1522183712292712453" ],
