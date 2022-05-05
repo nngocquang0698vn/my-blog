@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yatil/status/1522145077954494464" ],
     "name" : [ "Like of @yatil's tweet" ],
     "published" : [ "2022-05-05T10:28:00+0100" ],
     "like-of" : [ "https://twitter.com/yatil/status/1522145077954494464" ],
