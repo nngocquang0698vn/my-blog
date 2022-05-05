@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/artyom/alblogs/stargazers" ],
     "name" : [ "Like of https://github.com/artyom/alblogs" ],
     "published" : [ "2022-05-05T15:22:00+0100" ],
     "category" : [ "aws", "logs" ],
