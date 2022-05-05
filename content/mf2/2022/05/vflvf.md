@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KittyGiraudel/status/1522138254698496001" ],
     "name" : [ "Like of @KittyGiraudel's tweet" ],
     "published" : [ "2022-05-05T10:27:00+0100" ],
     "like-of" : [ "https://twitter.com/KittyGiraudel/status/1522138254698496001" ],
