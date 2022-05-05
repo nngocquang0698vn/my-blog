@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Throne0fBlood/status/1507075305365811220" ],
     "name" : [ "Like of @Throne0fBlood's tweet" ],
     "published" : [ "2022-05-05T12:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Throne0fBlood/status/1507075305365811220" ],
