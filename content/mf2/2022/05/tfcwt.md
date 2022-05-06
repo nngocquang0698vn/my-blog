@@ -12,7 +12,7 @@
     "published" : [ "2022-05-06T09:04:19.921648977Z" ],
     "content" : [ {
       "html" : "",
-      "value" : "I'd been wondering why I was seeing a _tonne_ of regular traffic to my article [How to Undo a ](https://www.jvt.me/posts/2021/10/23/undo-force-push/) and it turns out it's cause I'm a 'featured snippet' on the top of Google! Pretty cool for my lil' old blog"
+      "value" : "I'd been wondering why I was seeing a _tonne_ of regular traffic to my article [How to Undo a `git push --force`](https://www.jvt.me/posts/2021/10/23/undo-force-push/) and it turns out it's cause I'm a 'featured snippet' on the top of Google! Pretty cool for my lil' old blog"
     } ]
   },
   "kind" : "photos",
