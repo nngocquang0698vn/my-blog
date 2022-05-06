@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Thereisnocat_/status/1522603041165295617" ],
     "name" : [ "Like of @Thereisnocat_'s tweet" ],
     "published" : [ "2022-05-06T18:50:00+0100" ],
     "category" : [ "cute" ],
