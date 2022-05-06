@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Utrecht" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oliver" ],
+        "nickname" : [ "oliverver" ],
+        "numeric-id" : [ "18583022" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/935098202692423680/8BDwFeYQ.jpg" ],
+        "published" : [ "2009-01-03T17:48:47+00:00" ],
+        "uid" : [ "tag:twitter.com:oliverver" ],
+        "url" : [ "https://twitter.com/oliverver" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I don't recognize myself in this!\nI'd use Headless-CMS JAMStack Edge Functions  SvelteKit SSR Atomic CSS TypeScript Webmention PWA that's completely different</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Maaikees\"></a>",
+      "value" : "I don't recognize myself in this!\nI'd use Headless-CMS JAMStack Edge Functions  SvelteKit SSR Atomic CSS TypeScript Webmention PWA that's completely different"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Maaikees/status/1522514651640119296" ],
+    "published" : [ "2022-05-06T10:07:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1522518325724594176" ],
+    "url" : [ "https://twitter.com/oliverver/status/1522518325724594176" ]
+  },
+  "type" : [ "h-entry" ]
+}
