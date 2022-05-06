@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jeff Hodges" ],
+          "nickname" : [ "jmhodges" ],
+          "numeric-id" : [ "9267272" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175462517155323904/kZk7MN8D.jpg" ],
+          "published" : [ "2007-10-05T17:07:25+00:00" ],
+          "uid" : [ "tag:twitter.com:jmhodges" ],
+          "url" : [ "https://twitter.com/jmhodges" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "GraphQL is a trap" ],
+      "published" : [ "2022-05-05T18:31:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1522282897905840128" ],
+      "url" : [ "https://twitter.com/jmhodges/status/1522282897905840128" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emelia 👸🏻 • 💙💛" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488213971928858625/dZdcl1hl.jpg" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "That explains why I like it! Solidarity with other traps!" ],
+    "published" : [ "2022-05-06T11:28:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1522538852933586947" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1522538852933586947" ]
+  },
+  "type" : [ "h-entry" ]
+}
