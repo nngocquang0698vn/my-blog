@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Manchester, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ax Sharma" ],
+          "nickname" : [ "Ax_Sharma" ],
+          "numeric-id" : [ "720302090296238080" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1521018282643492865/U_S-tphe.jpg" ],
+          "published" : [ "2016-04-13T17:26:15+00:00" ],
+          "uid" : [ "tag:twitter.com:Ax_Sharma" ],
+          "url" : [ "https://twitter.com/Ax_Sharma", "http://axsharma.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Google has confirmed to us the presence of a bug that crashes Google Docs as soon as you type... \"And. And. And. And. And.\" into the doc and refresh.\n\nThere's no way left then to easily re-access the doc as the crash would trigger as soon as you reopen it.\n<a href=\"https://www.bleepingcomputer.com/news/technology/google-docs-crashes-on-seeing-and-and-and-and-and/\">bleepingcomputer.com/news/technolog…</a></div>",
+        "value" : "Google has confirmed to us the presence of a bug that crashes Google Docs as soon as you type... \"And. And. And. And. And.\" into the doc and refresh.\n\nThere's no way left then to easily re-access the doc as the crash would trigger as soon as you reopen it.\nbleepingcomputer.com/news/technolog…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSDbX-aWQAAaXUr.jpg" ],
+      "published" : [ "2022-05-06T06:13:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1522459529744687105" ],
+      "url" : [ "https://twitter.com/Ax_Sharma/status/1522459529744687105" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "*.*" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "I'll follow elon when he follows me" ],
+        "nickname" : [ "robdykedotcom" ],
+        "numeric-id" : [ "272436777" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489632016731713542/CWOH48iU.jpg" ],
+        "published" : [ "2011-03-26T14:21:09+00:00" ],
+        "uid" : [ "tag:twitter.com:robdykedotcom" ],
+        "url" : [ "https://twitter.com/robdykedotcom", "https://robdyke.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What?" ],
+    "published" : [ "2022-05-06T06:17:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1522460472989081601" ],
+    "url" : [ "https://twitter.com/robdykedotcom/status/1522460472989081601" ]
+  },
+  "type" : [ "h-entry" ]
+}
