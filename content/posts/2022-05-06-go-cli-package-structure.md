@@ -1,9 +1,10 @@
 ---
 title: "Setting up a Go package structure for a combined library and CLI tool"
-description: "How to structure a Go repository to be both a library and command-line tool(s)."
-date: 2022-05-06T09:20:03+0100
+description: "How to structure a Go repository to be both a library and command-line\
+  \ tool(s)."
+date: "2022-05-06T09:20:03+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522496405616701445"
 tags:
 - "blogumentation"
 - "go"
