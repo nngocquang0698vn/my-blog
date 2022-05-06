@@ -1,15 +1,16 @@
 ---
 title: "Getting the OpenID Connect thumbprint for AWS on the command-line with Go"
-description: "How to automagically retrieve an OpenID Connect thumbprint for use with AWS' OpenID Connect federated identity."
-date: 2022-05-06T21:20:26+0100
+description: "How to automagically retrieve an OpenID Connect thumbprint for use with\
+  \ AWS' OpenID Connect federated identity."
+date: "2022-05-06T21:20:26+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522674642506461185"
 tags:
 - "blogumentation"
 - "go"
 - "certificates"
-- aws
-- oidc
+- "aws"
+- "oidc"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
