@@ -1,9 +1,9 @@
 ---
 title: "Getting the fingerprint of a certificate in Go"
 description: "How to retrieve an X.509 thumbprint from a remote server, in Go."
-date: 2022-05-06T21:20:26+0100
+date: "2022-05-06T21:20:26+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522674611330207745"
 tags:
 - "blogumentation"
 - "go"
