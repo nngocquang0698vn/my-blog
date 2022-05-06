@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, BC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "YK (aka CS Dojo)" ],
+        "nickname" : [ "ykdojo" ],
+        "numeric-id" : [ "101369581" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1376825810900819968/RPtw5WuB.jpg" ],
+        "published" : [ "2010-01-03T02:10:09+00:00" ],
+        "uid" : [ "tag:twitter.com:ykdojo" ],
+        "url" : [ "https://twitter.com/ykdojo", "https://www.youtube.com/csdojo", "http://csdojo.io/d" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "interesting lifehack for programmers 👀" ],
+    "photo" : [ "https://pbs.twimg.com/media/FR-qhtTUUAAs0X9.png" ],
+    "published" : [ "2022-05-05T07:55:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1522122881190494209" ],
+    "url" : [ "https://twitter.com/ykdojo/status/1522122881190494209" ]
+  },
+  "type" : [ "h-entry" ]
+}
