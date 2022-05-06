@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JayJurden/status/1522021443252498433" ],
     "name" : [ "Like of @JayJurden's tweet" ],
     "published" : [ "2022-05-06T22:39:00+0100" ],
     "category" : [ "art", "xmen" ],
