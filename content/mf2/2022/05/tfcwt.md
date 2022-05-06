@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1522504678629650432" ],
     "photo" : [ {
       "alt" : "Screenshot of the top of a Google search for \"undo force push\", showing my article \"How to Undo a git push --force\" as a \"featured snippet\" at the top of the page, which is very prominently displayed above other results (that are not pictured)",
       "photo" : "https://media.jvt.me/8b2b7f7e44.png"
