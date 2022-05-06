@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rusingh.com" ],
+        "nickname" : [ "MaybeThisIsRu" ],
+        "numeric-id" : [ "1252888172700119041" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517497403997552640/VmeaR1yJ.png" ],
+        "published" : [ "2020-04-22T09:14:03+00:00" ],
+        "uid" : [ "tag:twitter.com:MaybeThisIsRu" ],
+        "url" : [ "https://twitter.com/MaybeThisIsRu", "https://rusingh.com", "http://fosstodon.org/@ru", "http://smallcamp.art/@ru", "http://rusingh.com/feeds/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If your newsletter doesn't have an RSS feed, I don't care for your newsletter." ],
+    "published" : [ "2022-05-06T18:23:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1522643192197558277" ],
+    "url" : [ "https://twitter.com/MaybeThisIsRu/status/1522643192197558277" ]
+  },
+  "type" : [ "h-entry" ]
+}
