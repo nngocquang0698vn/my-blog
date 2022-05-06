@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oliverver/status/1522518325724594176" ],
     "name" : [ "Like of @oliverver's tweet" ],
     "published" : [ "2022-05-06T12:49:26.245704485Z" ],
     "like-of" : [ "https://twitter.com/oliverver/status/1522518325724594176" ],
