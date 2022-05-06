@@ -1,9 +1,10 @@
 ---
 title: "Parsing AWS ALB/ELB access logs into SQLite"
-description: "How to take a set of ALB/ELB logs and convert them to an SQLite database for further processing."
-date: 2022-05-06T07:49:13+0100
+description: "How to take a set of ALB/ELB logs and convert them to an SQLite database\
+  \ for further processing."
+date: "2022-05-06T07:49:13+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1522470759704272896"
 tags:
 - "blogumentation"
 - "sqlite"
