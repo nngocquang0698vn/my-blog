@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wisconsin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian P. Hogan" ],
+        "nickname" : [ "bphogan" ],
+        "numeric-id" : [ "11374142" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522171536727318528/S6qTQGYx.jpg" ],
+        "published" : [ "2007-12-20T15:14:38+00:00" ],
+        "uid" : [ "tag:twitter.com:bphogan" ],
+        "url" : [ "https://twitter.com/bphogan", "https://linktr.ee/bphogan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm very bad at Go. I feel I barely know what I'm doing. I miss some of the convenience Ruby and Elixir give me. \n\nBut if you wanna be good at something you have to be comfortable being bad at it for a while.</div>",
+      "value" : "I'm very bad at Go. I feel I barely know what I'm doing. I miss some of the convenience Ruby and Elixir give me. \n\nBut if you wanna be good at something you have to be comfortable being bad at it for a while."
+    } ],
+    "published" : [ "2022-05-06T18:22:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1522643028518780928" ],
+    "url" : [ "https://twitter.com/bphogan/status/1522643028518780928" ]
+  },
+  "type" : [ "h-entry" ]
+}
