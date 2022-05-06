@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheAnkurTyagi/status/1522462918062788611" ],
     "name" : [ "Like of @TheAnkurTyagi's tweet" ],
     "published" : [ "2022-05-06T12:49:39.156961151Z" ],
     "like-of" : [ "https://twitter.com/TheAnkurTyagi/status/1522462918062788611" ],
