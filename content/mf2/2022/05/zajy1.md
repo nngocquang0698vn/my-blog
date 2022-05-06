@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robdykedotcom/status/1522460472989081601" ],
     "name" : [ "Like of @robdykedotcom's tweet" ],
     "published" : [ "2022-05-06T09:29:00+0100" ],
     "like-of" : [ "https://twitter.com/robdykedotcom/status/1522460472989081601" ],
