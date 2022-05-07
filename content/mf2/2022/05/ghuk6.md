@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/minecraftboy822/status/1522770717594595335" ],
     "name" : [ "Like of @minecraftboy822's tweet" ],
     "published" : [ "2022-05-07T08:22:00+0100" ],
     "like-of" : [ "https://twitter.com/minecraftboy822/status/1522770717594595335" ],
