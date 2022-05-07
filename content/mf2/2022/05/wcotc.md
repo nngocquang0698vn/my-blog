@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1522768781851959297" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2022-05-07T06:33:00+0100" ],
     "category" : [ "art" ],
