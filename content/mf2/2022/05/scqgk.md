@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TaylorLorenz/status/1522766642580623360" ],
     "name" : [ "Like of @TaylorLorenz's tweet" ],
     "published" : [ "2022-05-07T06:36:00+0100" ],
     "category" : [ "memes" ],
