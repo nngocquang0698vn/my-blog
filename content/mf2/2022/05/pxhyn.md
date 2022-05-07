@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FloridaDem108/status/1522168165685465089" ],
     "name" : [ "Like of @FloridaDem108's tweet" ],
     "published" : [ "2022-05-07T08:46:00+0100" ],
     "like-of" : [ "https://twitter.com/FloridaDem108/status/1522168165685465089" ],
