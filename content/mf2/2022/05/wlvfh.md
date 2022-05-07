@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ECNALHANID/status/1522924611452739587" ],
     "name" : [ "Like of @ECNALHANID's tweet" ],
     "published" : [ "2022-05-07T21:24:32.094797582Z" ],
     "like-of" : [ "https://twitter.com/ECNALHANID/status/1522924611452739587" ],
