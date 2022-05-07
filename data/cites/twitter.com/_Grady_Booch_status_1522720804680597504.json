@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I know one or two things.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/OldunCow\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "I know one or two things."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/OldunCow/status/1522709334739673088" ],
+    "published" : [ "2022-05-06T23:31:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1522720804680597504" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1522720804680597504" ]
+  },
+  "type" : [ "h-entry" ]
+}
