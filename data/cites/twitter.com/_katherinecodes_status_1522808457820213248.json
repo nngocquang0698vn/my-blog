@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katherine Oelsner" ],
+        "nickname" : [ "katherinecodes" ],
+        "numeric-id" : [ "1354159191296864256" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1354163904213966848/4dOl8di8.jpg" ],
+        "published" : [ "2021-01-26T20:08:29+00:00" ],
+        "uid" : [ "tag:twitter.com:katherinecodes" ],
+        "url" : [ "https://twitter.com/katherinecodes", "http://katherinempeterson.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "wow TIL about <a href=\"http://repo.new\">repo.new</a> to create a new github repo",
+      "value" : "wow TIL about repo.new to create a new github repo"
+    } ],
+    "published" : [ "2022-05-07T05:20:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1522808457820213248" ],
+    "url" : [ "https://twitter.com/katherinecodes/status/1522808457820213248" ]
+  },
+  "type" : [ "h-entry" ]
+}
