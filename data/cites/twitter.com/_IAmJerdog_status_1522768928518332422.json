@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522754907207524352/d3pAsM_E.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I've been working full-time in tech for over 27 years. I'm feeling this so hard right now, and need a break. Or a hobby. Or both?" ],
+    "published" : [ "2022-05-07T02:42:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1522768928518332422" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1522768928518332422" ]
+  },
+  "type" : [ "h-entry" ]
+}
