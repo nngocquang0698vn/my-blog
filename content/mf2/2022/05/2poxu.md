@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Brunty/status/1522872122405699584" ],
     "name" : [ "Like of @Brunty's tweet" ],
     "published" : [ "2022-05-07T21:10:45.172113542Z" ],
     "like-of" : [ "https://twitter.com/Brunty/status/1522872122405699584" ],
