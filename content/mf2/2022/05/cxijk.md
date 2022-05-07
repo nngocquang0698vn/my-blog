@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/javavvitch/status/1486879369851199488" ],
     "name" : [ "Like of @javavvitch's tweet" ],
     "published" : [ "2022-05-07T06:12:00+0100" ],
     "like-of" : [ "https://twitter.com/javavvitch/status/1486879369851199488" ],
