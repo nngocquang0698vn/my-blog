@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Kansas, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy, The Patronizing Saint of DevOps 🇺🇲🇺🇦" ],
+        "nickname" : [ "IAmJerdog" ],
+        "numeric-id" : [ "237293113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522912972921839619/Qsx5ofmJ.png" ],
+        "published" : [ "2011-01-12T14:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:IAmJerdog" ],
+        "url" : [ "https://twitter.com/IAmJerdog", "http://jmeiss.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm almost 46, and I just realized I don't have a hobby. 🥺\n\nSend me your hobby for me to see about trying.</div>",
+      "value" : "I'm almost 46, and I just realized I don't have a hobby. 🥺\n\nSend me your hobby for me to see about trying."
+    } ],
+    "published" : [ "2022-05-07T02:40:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1522768390343041024" ],
+    "url" : [ "https://twitter.com/IAmJerdog/status/1522768390343041024" ]
+  },
+  "type" : [ "h-entry" ]
+}
