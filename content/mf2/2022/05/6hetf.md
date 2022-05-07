@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/FakeHusky/status/1522391410539995136" ],
     "name" : [ "Like of @FakeHusky's tweet" ],
     "published" : [ "2022-05-07T08:21:00+0100" ],
     "like-of" : [ "https://twitter.com/FakeHusky/status/1522391410539995136" ],
