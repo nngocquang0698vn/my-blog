@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bark_maul/status/1522693735842263040" ],
     "name" : [ "Like of @bark_maul's tweet" ],
     "published" : [ "2022-05-07T06:37:00+0100" ],
     "category" : [ "cute" ],
