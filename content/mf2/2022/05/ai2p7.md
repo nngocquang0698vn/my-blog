@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheRealNooshu/status/1522690191252951040" ],
     "name" : [ "Like of @TheRealNooshu's tweet" ],
     "published" : [ "2022-05-07T06:40:00+0100" ],
     "like-of" : [ "https://twitter.com/TheRealNooshu/status/1522690191252951040" ],
