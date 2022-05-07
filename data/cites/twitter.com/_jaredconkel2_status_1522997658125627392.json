@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cincinnati, OH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jared" ],
+        "nickname" : [ "jaredconkel2" ],
+        "numeric-id" : [ "2973886653" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487993151050633219/UbQPJTNR.jpg" ],
+        "published" : [ "2015-01-12T00:50:45+00:00" ],
+        "uid" : [ "tag:twitter.com:jaredconkel2" ],
+        "url" : [ "https://twitter.com/jaredconkel2", "http://www.twitch.tv/jared_conkel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "is it only freedom of speech when it’s in direct favor of elon?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ArmandoJRubioD\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ElonJet\"></a>",
+      "value" : "is it only freedom of speech when it’s in direct favor of elon?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ArmandoJRubioD/status/1522735039573864450" ],
+    "published" : [ "2022-05-07T17:51:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1522997658125627392" ],
+    "url" : [ "https://twitter.com/jaredconkel2/status/1522997658125627392" ]
+  },
+  "type" : [ "h-entry" ]
+}
