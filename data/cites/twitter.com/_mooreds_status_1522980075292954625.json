@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Ryan Petersen" ],
+          "nickname" : [ "typesfast" ],
+          "numeric-id" : [ "395978320" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1521636008147636224/HUGVqZ1J.jpg" ],
+          "published" : [ "2011-10-22T15:16:59+00:00" ],
+          "uid" : [ "tag:twitter.com:typesfast" ],
+          "url" : [ "https://twitter.com/typesfast", "http://Flexport.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You're not a real container company  <a href=\"https://twitter.com/Docker\">@Docker</a>",
+        "value" : "You're not a real container company  @Docker"
+      } ],
+      "published" : [ "2022-05-06T15:22:17+00:00" ],
+      "uid" : [ "tag:twitter.com:1522597627220529155" ],
+      "url" : [ "https://twitter.com/typesfast/status/1522597627220529155" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fighting words. 🤣🤣🤣" ],
+    "published" : [ "2022-05-07T16:42:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1522980075292954625" ],
+    "url" : [ "https://twitter.com/mooreds/status/1522980075292954625" ]
+  },
+  "type" : [ "h-entry" ]
+}
