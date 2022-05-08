@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "MovieRankings.net" ],
+          "nickname" : [ "LightsCameraPod" ],
+          "numeric-id" : [ "894899924051136512" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1346926243170672643/Wv4zblvg.jpg" ],
+          "published" : [ "2017-08-08T12:35:43+00:00" ],
+          "uid" : [ "tag:twitter.com:LightsCameraPod" ],
+          "url" : [ "https://twitter.com/LightsCameraPod", "http://barstool.link/lightscamerapod", "http://MovieRankings.net" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Be Kind, Rewind\n\nFirst look at Melissa Fumero and Randall Park in Netflix's upcoming Blockbuster series</div>",
+        "value" : "Be Kind, Rewind\n\nFirst look at Melissa Fumero and Randall Park in Netflix's upcoming Blockbuster series"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSA3grvXoAAcKhq.jpg" ],
+      "published" : [ "2022-05-05T18:12:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1522277986506055681" ],
+      "url" : [ "https://twitter.com/LightsCameraPod/status/1522277986506055681" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/lightscamerapo…" ],
+      "url" : [ "https://twitter.com/lightscamerapod/status/1522277986506055681" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hoboken, NJ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Christian Becker" ],
+        "nickname" : [ "TheAmazingBeck" ],
+        "numeric-id" : [ "181206777" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1259824024575713286/0aWQGSV4.jpg" ],
+        "published" : [ "2010-08-21T15:45:34+00:00" ],
+        "uid" : [ "tag:twitter.com:TheAmazingBeck" ],
+        "url" : [ "https://twitter.com/TheAmazingBeck", "https://www.pastemagazine.com/search?t=Christian+Becker" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is like Hannibal Lecter wearing the face of his victim.\n<a class=\"tag\" href=\"https://twitter.com/lightscamerapod/status/1522277986506055681\">twitter.com/lightscamerapo…</a>",
+      "value" : "This is like Hannibal Lecter wearing the face of his victim."
+    } ],
+    "published" : [ "2022-05-07T03:10:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1522775864508882945" ],
+    "url" : [ "https://twitter.com/TheAmazingBeck/status/1522775864508882945" ]
+  },
+  "type" : [ "h-entry" ]
+}
