@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Testing in Go: HTTP Servers" ],
+    "summary" : [ "Go’s a great hammer for a lot of nails, one of the areas where I find it fitting is building HTTP servers." ],
+    "featured" : [ "https://ieftimov.com/cards/testing-in-go-testing-http-servers.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ilija Eftimov" ]
+      }
+    } ],
+    "url" : [ "https://ieftimov.com/posts/testing-in-go-testing-http-servers/" ],
+    "published" : [ "2020-03-02T00:00:00+00:00" ]
+  }
+}
