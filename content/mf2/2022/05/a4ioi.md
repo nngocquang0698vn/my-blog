@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/joshgondelman/status/1523134476527837184" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1523276589886500864" ],
     "name" : [ "Reply to https://twitter.com/joshgondelman/status/1523134476527837184" ],
     "published" : [ "2022-05-08T13:12:00+0100" ],
     "post-status" : [ "published" ],
