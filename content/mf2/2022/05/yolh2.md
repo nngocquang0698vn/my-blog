@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomhollandfiles/status/1522964481055199233" ],
     "name" : [ "Like of @tomhollandfiles's tweet" ],
     "published" : [ "2022-05-08T22:44:00+0100" ],
     "like-of" : [ "https://twitter.com/tomhollandfiles/status/1522964481055199233" ],
