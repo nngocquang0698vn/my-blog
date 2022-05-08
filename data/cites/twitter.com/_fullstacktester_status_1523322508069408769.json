@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Leeds, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Binns" ],
+        "nickname" : [ "fullstacktester" ],
+        "numeric-id" : [ "932618296595308544" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/932620023302062080/VrtoVZ4p.jpg" ],
+        "published" : [ "2017-11-20T14:35:03+00:00" ],
+        "uid" : [ "tag:twitter.com:fullstacktester" ],
+        "url" : [ "https://twitter.com/fullstacktester" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I like that you made this public. Even the bits that you \"failed\" at.\n\nThis had me shaking my head for a good 5 mins though:\n\n\"if this was how you worked on a team, it'd be perfect, and we love it. But in an interview, that's not what we want\"</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "I like that you made this public. Even the bits that you \"failed\" at.\n\nThis had me shaking my head for a good 5 mins though:\n\n\"if this was how you worked on a team, it'd be perfect, and we love it. But in an interview, that's not what we want\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1523274470131003399" ],
+    "published" : [ "2022-05-08T15:22:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1523322508069408769" ],
+    "url" : [ "https://twitter.com/fullstacktester/status/1523322508069408769" ]
+  },
+  "type" : [ "h-entry" ]
+}
