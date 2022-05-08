@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BBC/status/1523263945783525378" ],
     "name" : [ "Like of @BBC's tweet" ],
     "published" : [ "2022-05-08T13:34:00+0100" ],
     "category" : [ "doctor-who" ],
