@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Brilliant news!\nObviously it would be nice if <a href=\"https://twitter.com/search?q=%23DoctorWho\">#DoctorWho</a> could keep this a secret until the actual episode - but that's almost impossible these days.\n <a href=\"https://www.bbc.co.uk/news/uk-61371123\">bbc.co.uk/news/uk-613711…</a></div>",
+      "value" : "Brilliant news!\nObviously it would be nice if #DoctorWho could keep this a secret until the actual episode - but that's almost impossible these days.\n bbc.co.uk/news/uk-613711…"
+    } ],
+    "published" : [ "2022-05-08T11:56:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1523270491569815552" ],
+    "url" : [ "https://twitter.com/edent/status/1523270491569815552" ]
+  },
+  "type" : [ "h-entry" ]
+}
