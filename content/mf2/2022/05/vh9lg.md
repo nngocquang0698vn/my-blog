@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_fenn/status/1523076140906205185" ],
     "name" : [ "Like of @katie_fenn's tweet" ],
     "published" : [ "2022-05-08T10:41:00+0100" ],
     "category" : [ "star-trek" ],
