@@ -1,0 +1,14 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "testing-in-go" ],
+    "summary" : [ "Documenting my experiences and learnings, with the goal of helping other software engineers on their journey" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ilija Eftimov" ]
+      }
+    } ],
+    "url" : [ "https://ieftimov.com/categories/testing-in-go/" ]
+  }
+}
