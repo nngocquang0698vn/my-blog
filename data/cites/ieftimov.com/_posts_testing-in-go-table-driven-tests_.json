@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Testing in Go: Table-Driven Tests" ],
+    "summary" : [ "Coming from Ruby, which has excellent testing tools and libraries, the notion of table-driven tests was unusual for me." ],
+    "featured" : [ "https://ieftimov.com/cards/testing-in-go-table-driven-tests.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ilija Eftimov" ]
+      }
+    } ],
+    "url" : [ "https://ieftimov.com/posts/testing-in-go-table-driven-tests/" ],
+    "published" : [ "2021-06-12T00:00:00+00:00" ]
+  }
+}
