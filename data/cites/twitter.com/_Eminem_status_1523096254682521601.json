@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Detroit" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marshall Mathers" ],
+        "nickname" : [ "Eminem" ],
+        "numeric-id" : [ "22940219" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477000326213509125/Bx2Gkyjx.jpg" ],
+        "published" : [ "2009-03-05T16:33:48+00:00" ],
+        "uid" : [ "tag:twitter.com:Eminem" ],
+        "url" : [ "https://twitter.com/Eminem", "http://www.eminem.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : ".<a href=\"https://twitter.com/Minions\">@minions</a> got my back. Shout out to Gru and them…",
+      "value" : ".@minions got my back. Shout out to Gru and them…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FSMc18yVgAABkMM.jpg" ],
+    "published" : [ "2022-05-08T00:23:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1523096254682521601" ],
+    "url" : [ "https://twitter.com/Eminem/status/1523096254682521601" ]
+  },
+  "type" : [ "h-entry" ]
+}
