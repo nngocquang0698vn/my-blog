@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unite_whovians/status/1523267130598518784" ],
     "name" : [ "Like of @unite_whovians's tweet" ],
     "published" : [ "2022-05-08T13:11:00+0100" ],
     "category" : [ "doctor-who" ],
