@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "oauth", "udemy" ],
+    "url" : [ "https://aaronparecki.com/2022/05/08/25/oauth-course" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1523242716791930880", "https://micro.blog/aaronpk/12842096" ],
+    "published" : [ "2022-05-08T12:05:36+02:00" ],
+    "content" : [ {
+      "html" : "My video course on OAuth 2.0 just crossed 13,000 students enrolled! <a href=\"https://aaronparecki.com/emoji/&#x1F389;\" class=\"emoji\">&#x1F389;</a> I never expected so many people would be interested in the \"nuts and bolts of OAuth\" but I am absolutely thrilled! I hope it's been helpful to you for your work! <br> <br><a href=\"https://oauth2simplified.com/course\"><span class=\"protocol\">https://</span>oauth2simplified.com/course</a>",
+      "value" : "My video course on OAuth 2.0 just crossed 13,000 students enrolled! 🎉 I never expected so many people would be interested in the \"nuts and bolts of OAuth\" but I am absolutely thrilled! I hope it's been helpful to you for your work!\n\nhttps://oauth2simplified.com/course"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "København V" ],
+        "region" : [ "Hovedstaden" ]
+      },
+      "value" : "København V, Hovedstaden"
+    } ]
+  }
+}
