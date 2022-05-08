@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Scotland, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Flanagan" ],
+        "nickname" : [ "rawkode" ],
+        "numeric-id" : [ "22761152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1515701863609421827/EB0zhFiA.jpg" ],
+        "published" : [ "2009-03-04T12:06:23+00:00" ],
+        "uid" : [ "tag:twitter.com:rawkode" ],
+        "url" : [ "https://twitter.com/rawkode", "https://rawkode.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Here’s something interesting for you, <a href=\"https://twitter.com/spences10\">@spences10</a> and <a href=\"https://twitter.com/eddiejaoude\">@eddiejaoude</a>; since you both posted interesting Git content this morning. \n\nThere’s no such thing as a fork.</div>",
+      "value" : "Here’s something interesting for you, @spences10 and @eddiejaoude; since you both posted interesting Git content this morning. \n\nThere’s no such thing as a fork."
+    } ],
+    "published" : [ "2022-05-08T09:28:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1523233284645441537" ],
+    "url" : [ "https://twitter.com/rawkode/status/1523233284645441537" ]
+  },
+  "type" : [ "h-entry" ]
+}
