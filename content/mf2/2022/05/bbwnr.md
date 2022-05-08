@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/bemmu/status/1523248695843598336" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1523251176904749056" ],
     "name" : [ "Reply to https://twitter.com/bemmu/status/1523248695843598336" ],
     "published" : [ "2022-05-08T11:31:00+0100" ],
     "post-status" : [ "published" ],
