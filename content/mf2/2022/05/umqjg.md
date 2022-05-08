@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/fullstacktester/status/1523322508069408769" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1523341837150593024" ],
     "name" : [ "Reply to https://twitter.com/fullstacktester/status/1523322508069408769" ],
     "published" : [ "2022-05-08T17:31:00+0100" ],
     "post-status" : [ "published" ],
