@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "He/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "cool dude" ],
+        "nickname" : [ "NickmuffinR" ],
+        "numeric-id" : [ "3319988141" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1129184317589139458/wIpSfSnU.jpg" ],
+        "published" : [ "2015-06-12T01:01:23+00:00" ],
+        "uid" : [ "tag:twitter.com:NickmuffinR" ],
+        "url" : [ "https://twitter.com/NickmuffinR" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Woke = seeing a black person\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MattBinder\"></a>",
+      "value" : "Woke = seeing a black person"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MattBinder/status/1522563105854742528" ],
+    "published" : [ "2022-05-06T13:08:57+00:00" ],
+    "uid" : [ "tag:twitter.com:1522564072448921601" ],
+    "url" : [ "https://twitter.com/NickmuffinR/status/1522564072448921601" ]
+  },
+  "type" : [ "h-entry" ]
+}
