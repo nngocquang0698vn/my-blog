@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Testing in Go: Dependency Injection" ],
+    "summary" : [ "In software engineering, over the years folks have developed many patterns, techniques and refactoring maneuvers." ],
+    "featured" : [ "https://ieftimov.com/cards/testing-in-go-dependency-injection.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ilija Eftimov" ]
+      }
+    } ],
+    "url" : [ "https://ieftimov.com/posts/testing-in-go-dependency-injection/" ],
+    "published" : [ "2019-12-01T00:00:00+00:00" ]
+  }
+}
