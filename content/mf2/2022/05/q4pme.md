@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/barton_kell/status/1521411851086667777" ],
     "name" : [ "Like of @barton_kell's tweet" ],
     "published" : [ "2022-05-08T07:38:00+0100" ],
     "category" : [ "accessibility" ],
