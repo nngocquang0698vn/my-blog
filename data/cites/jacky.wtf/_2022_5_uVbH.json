@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://jacky.wtf/2022/5/uVbH" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1523369893092945921", "https://todon.eu/@jalcine/108267743602387360" ],
+    "published" : [ "2022-05-08T18:30:51Z" ],
+    "content" : [ {
+      "html" : "Tumblr just took a big step in making the default experience of their blogs more IndieWeb friendly (and in turn, more attuned to a people-centric Web). It's noted at https://changes.tumblr.com/post/683524731509653505/friday-may-6th-2022",
+      "value" : "Tumblr just took a big step in making the default experience of their blogs more IndieWeb friendly (and in turn, more attuned to a people-centric Web). It's noted at https://changes.tumblr.com/post/683524731509653505/friday-may-6th-2022",
+      "lang" : "en"
+    } ],
+    "generator" : [ {
+      "type" : [ "h-app" ],
+      "properties" : {
+        "name" : [ "Quill" ],
+        "url" : [ "https://quill.p3k.io/" ]
+      },
+      "lang" : "en",
+      "value" : "https://quill.p3k.io/"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "" ],
+        "url" : [ "https://jacky.wtf/about" ]
+      },
+      "lang" : "en",
+      "value" : "https://jacky.wtf/about"
+    } ]
+  },
+  "lang" : "en"
+}
