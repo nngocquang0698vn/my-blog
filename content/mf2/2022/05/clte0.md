@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Beardy/status/1523452974445383680" ],
     "name" : [ "Like of @Beardy's tweet" ],
     "published" : [ "2022-05-09T07:31:00+0100" ],
     "like-of" : [ "https://twitter.com/Beardy/status/1523452974445383680" ],
