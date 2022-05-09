@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Las Vegas, NV" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cody Krecicki" ],
+        "nickname" : [ "krecicki" ],
+        "numeric-id" : [ "1556180239" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521587812914528256/7dxC7iI7.jpg" ],
+        "published" : [ "2013-06-29T17:28:14+00:00" ],
+        "uid" : [ "tag:twitter.com:krecicki" ],
+        "url" : [ "https://twitter.com/krecicki", "http://Instagram.com/ckrecicki" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It’s a CSS snippet and he’s trying to use a isolated style to hack to. But he’s used !important to tape up another problem and he just want to smoke a joint and have a sparkling water.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/spences10\"></a>",
+      "value" : "It’s a CSS snippet and he’s trying to use a isolated style to hack to. But he’s used !important to tape up another problem and he just want to smoke a joint and have a sparkling water."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/spences10/status/1523573504003563521" ],
+    "published" : [ "2022-05-09T18:34:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1523733256398548992" ],
+    "url" : [ "https://twitter.com/krecicki/status/1523733256398548992" ]
+  },
+  "type" : [ "h-entry" ]
+}
