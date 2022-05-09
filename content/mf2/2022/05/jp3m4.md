@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shanselman/status/1523760977149263872" ],
     "name" : [ "Like of @shanselman's tweet" ],
     "published" : [ "2022-05-09T22:07:00+0100" ],
     "like-of" : [ "https://twitter.com/shanselman/status/1523760977149263872" ],
