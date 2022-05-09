@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sexbreakfast365/status/1520782259124682752" ],
     "name" : [ "Like of @sexbreakfast365's tweet" ],
     "published" : [ "2022-05-09T12:59:00+0100" ],
     "like-of" : [ "https://twitter.com/sexbreakfast365/status/1520782259124682752" ],
