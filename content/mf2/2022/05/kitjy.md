@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StefanFerrol/status/1523271184854712320" ],
     "name" : [ "Like of @StefanFerrol's tweet" ],
     "published" : [ "2022-05-09T13:00:00+0100" ],
     "category" : [ "doctor-who" ],
