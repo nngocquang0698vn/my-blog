@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belgium" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maartje Eyskens 😷" ],
+        "nickname" : [ "MaartjeME" ],
+        "numeric-id" : [ "1483447088" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445321080575512576/LaYVL9Ym.jpg" ],
+        "published" : [ "2013-06-04T22:30:24+00:00" ],
+        "uid" : [ "tag:twitter.com:MaartjeME" ],
+        "url" : [ "https://twitter.com/MaartjeME", "https://eyskens.me", "https://blahaj.social/@maartje" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Writing an exam and starting with \n ```\nThe key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHOULD\", \"SHOULD NOT\", \"RECOMMENDED\",  \"MAY\", and \"OPTIONAL\" in this document are to be interpreted as described in RFC 2119.\n```\njust made my day 🤓</div>",
+      "value" : "Writing an exam and starting with \n ```\nThe key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHOULD\", \"SHOULD NOT\", \"RECOMMENDED\",  \"MAY\", and \"OPTIONAL\" in this document are to be interpreted as described in RFC 2119.\n```\njust made my day 🤓"
+    } ],
+    "published" : [ "2022-05-09T11:00:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1523618802239422464" ],
+    "url" : [ "https://twitter.com/MaartjeME/status/1523618802239422464" ]
+  },
+  "type" : [ "h-entry" ]
+}
