@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Manchester" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Mellor" ],
+        "nickname" : [ "stayleyvegas" ],
+        "numeric-id" : [ "506570388" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1054791947007737858/UFJRmeVW.jpg" ],
+        "published" : [ "2012-02-27T23:37:45+00:00" ],
+        "uid" : [ "tag:twitter.com:stayleyvegas" ],
+        "url" : [ "https://twitter.com/stayleyvegas" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is like saying banning child Labour hurt innovation.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/s8mb\"></a>",
+      "value" : "This is like saying banning child Labour hurt innovation."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/s8mb/status/1523559411259650049" ],
+    "published" : [ "2022-05-09T09:16:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1523592705846046720" ],
+    "url" : [ "https://twitter.com/stayleyvegas/status/1523592705846046720" ]
+  },
+  "type" : [ "h-entry" ]
+}
