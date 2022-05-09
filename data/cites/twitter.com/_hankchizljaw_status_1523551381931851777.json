@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago + Mumbai" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Amrit Singh 🌻" ],
+          "nickname" : [ "amritxyz" ],
+          "numeric-id" : [ "959088093105213441" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1478474323501502469/Shb4Cf01.jpg" ],
+          "published" : [ "2018-02-01T15:36:35+00:00" ],
+          "uid" : [ "tag:twitter.com:amritxyz" ],
+          "url" : [ "https://twitter.com/amritxyz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I don't think talented people want sky-high salaries and crazy perks. \n\nThey want to work on a great mission and solve hard f*cking problems.</div>",
+        "value" : "I don't think talented people want sky-high salaries and crazy perks. \n\nThey want to work on a great mission and solve hard f*cking problems."
+      } ],
+      "published" : [ "2022-05-05T18:56:47+00:00" ],
+      "uid" : [ "tag:twitter.com:1522289221003788290" ],
+      "url" : [ "https://twitter.com/amritxyz/status/1522289221003788290" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cheltenham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Bell" ],
+        "nickname" : [ "hankchizljaw" ],
+        "numeric-id" : [ "98734097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466423005500878852/reY37ced.jpg" ],
+        "published" : [ "2009-12-22T22:28:06+00:00" ],
+        "uid" : [ "tag:twitter.com:hankchizljaw" ],
+        "url" : [ "https://twitter.com/hankchizljaw", "https://andy-bell.co.uk/links", "http://cube.fyi", "http://every-layout.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "pay me a sky-high salary and I’ll commit the most atrocious code the the trough like a good little piggy" ],
+    "published" : [ "2022-05-09T06:32:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1523551381931851777" ],
+    "url" : [ "https://twitter.com/hankchizljaw/status/1523551381931851777" ]
+  },
+  "type" : [ "h-entry" ]
+}
