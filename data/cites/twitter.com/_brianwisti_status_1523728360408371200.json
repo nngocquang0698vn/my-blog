@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "htmx.org" ],
+          "nickname" : [ "htmx_org" ],
+          "numeric-id" : [ "1037022474762768384" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1261307812577075202/6erqpJdp.jpg" ],
+          "published" : [ "2018-09-04T16:59:59+00:00" ],
+          "uid" : [ "tag:twitter.com:htmx_org" ],
+          "url" : [ "https://twitter.com/htmx_org", "https://htmx.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">MVC frameworks like Django, Spring, etc. are going to make a massive comeback in the next decade\n\nthe hypermedia architecture is just starting to reemerge &amp; these tools are *perfectly* positioned to be the backend for this shift\n\nthe once &amp; future kings!\n\n<a href=\"https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks\">david-dahan.com/blog/10-reason…</a></div>",
+        "value" : "MVC frameworks like Django, Spring, etc. are going to make a massive comeback in the next decade\n\nthe hypermedia architecture is just starting to reemerge & these tools are *perfectly* positioned to be the backend for this shift\n\nthe once & future kings!\n\ndavid-dahan.com/blog/10-reason…"
+      } ],
+      "published" : [ "2022-05-09T13:21:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1523654306204856321" ],
+      "url" : [ "https://twitter.com/htmx_org/status/1523654306204856321" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There are plenty of good uses for microservices and lambdas. But so often they accrete requirements solved a long time ago by the monoliths.\n\nAnyways now I'm thinking about a lambda emitting HTML fragments for htmx handling on a static site and I should go lay down for a bit.</div>",
+      "value" : "There are plenty of good uses for microservices and lambdas. But so often they accrete requirements solved a long time ago by the monoliths.\n\nAnyways now I'm thinking about a lambda emitting HTML fragments for htmx handling on a static site and I should go lay down for a bit."
+    } ],
+    "published" : [ "2022-05-09T18:15:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1523728360408371200" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1523728360408371200" ]
+  },
+  "type" : [ "h-entry" ]
+}
