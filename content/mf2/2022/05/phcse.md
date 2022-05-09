@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Glazgow/status/1523734094688833536" ],
     "name" : [ "Like of @Glazgow's tweet" ],
     "published" : [ "2022-05-09T22:09:00+0100" ],
     "category" : [ "nature" ],
