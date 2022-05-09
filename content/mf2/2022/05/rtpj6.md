@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/kyleconroy/sqlc/stargazers" ],
     "name" : [ "kyleconroy/sqlc: Generate type-safe code from SQL" ],
     "published" : [ "2022-05-09T15:22:36.370459765Z" ],
     "category" : [ "sql", "go" ],
