@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stayleyvegas/status/1523592705846046720" ],
     "name" : [ "Like of @stayleyvegas's tweet" ],
     "published" : [ "2022-05-09T12:09:00+0100" ],
     "like-of" : [ "https://twitter.com/stayleyvegas/status/1523592705846046720" ],
