@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Kent, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Scott Spence 🥐" ],
+          "nickname" : [ "spences10" ],
+          "numeric-id" : [ "4897735439" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1438534136008937477/O9lW3Pji.jpg" ],
+          "published" : [ "2016-02-11T12:05:13+00:00" ],
+          "uid" : [ "tag:twitter.com:spences10" ],
+          "url" : [ "https://twitter.com/spences10", "https://scottspence.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">They say \"a picture is worth a thousand words\"\n\nHow about using just one word to describe this.</div>",
+        "value" : "They say \"a picture is worth a thousand words\"\n\nHow about using just one word to describe this."
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSTSBq7VEAEw3Xp.jpg" ],
+      "published" : [ "2022-05-09T08:00:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1523573504003563521" ],
+      "url" : [ "https://twitter.com/spences10/status/1523573504003563521" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Belfast" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul McBride" ],
+        "nickname" : [ "ThePaulMcBride" ],
+        "numeric-id" : [ "607791742" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520728127982424067/LAxyQbHC.jpg" ],
+        "published" : [ "2012-06-14T03:40:32+00:00" ],
+        "uid" : [ "tag:twitter.com:ThePaulMcBride" ],
+        "url" : [ "https://twitter.com/ThePaulMcBride", "https://paulmcbride.net", "http://wecodeni.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Senior" ],
+    "published" : [ "2022-05-09T20:11:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1523757648570896384" ],
+    "url" : [ "https://twitter.com/ThePaulMcBride/status/1523757648570896384" ]
+  },
+  "type" : [ "h-entry" ]
+}
