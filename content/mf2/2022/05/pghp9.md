@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CATBRAINCELL/status/1523301358140502019" ],
     "name" : [ "Like of @CATBRAINCELL's tweet" ],
     "published" : [ "2022-05-09T12:57:00+0100" ],
     "category" : [ "cute" ],
