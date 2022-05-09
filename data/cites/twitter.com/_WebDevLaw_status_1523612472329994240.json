@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/rdmetcalfe/sta…" ],
+        "url" : [ "https://twitter.com/rdmetcalfe/status/1523536661115654144" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sam Bowman 🇺🇦" ],
+          "nickname" : [ "s8mb" ],
+          "numeric-id" : [ "645503" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1288107866037972993/vxpP30Nj.jpg" ],
+          "published" : [ "2007-01-16T11:18:46+00:00" ],
+          "uid" : [ "tag:twitter.com:s8mb" ],
+          "url" : [ "https://twitter.com/s8mb", "https://sambowman.substack.com/", "http://worksinprogress.co" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This paper suggests that the introduction of the GDPR led to a halving in the rate of new app entry on the Google Play Store. Seems like a massive drag on innovation.\n<a class=\"tag\" href=\"https://twitter.com/rdmetcalfe/status/1523536661115654144\">twitter.com/rdmetcalfe/sta…</a>",
+        "value" : "This paper suggests that the introduction of the GDPR led to a halving in the rate of new app entry on the Google Play Store. Seems like a massive drag on innovation."
+      } ],
+      "published" : [ "2022-05-09T07:04:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1523559411259650049" ],
+      "url" : [ "https://twitter.com/s8mb/status/1523559411259650049" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🏴󠁧󠁢󠁳󠁣󠁴󠁿 ↔️🐝" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Heather Burns" ],
+        "nickname" : [ "WebDevLaw" ],
+        "numeric-id" : [ "3437929966" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1089504974642515968/usXxtKGc.jpg" ],
+        "published" : [ "2015-08-24T12:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:WebDevLaw" ],
+        "url" : [ "https://twitter.com/WebDevLaw", "https://webdevlaw.uk/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "That's quite a way to frame \"half of the new entrant apps in the Google Play store were engaging in the illegal harvesting of private data.\" 🎻" ],
+    "published" : [ "2022-05-09T10:34:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1523612472329994240" ],
+    "url" : [ "https://twitter.com/WebDevLaw/status/1523612472329994240" ]
+  },
+  "type" : [ "h-entry" ]
+}
