@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "España" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jorge 💻" ],
+        "nickname" : [ "ja_codes" ],
+        "numeric-id" : [ "301614324" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349616367754997762/JxrZatuC.jpg" ],
+        "published" : [ "2011-05-19T19:20:24+00:00" ],
+        "uid" : [ "tag:twitter.com:ja_codes" ],
+        "url" : [ "https://twitter.com/ja_codes", "https://jorge.aguirre.sexy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If you are working on a large JS project run\n\n$&gt; npx unimported\n\nIt will tell you what dependencies are not being used in your code.\n\nIn my case I found 5 npm modules and over 20 React components that were no longer part of the UI 🤯</div>",
+      "value" : "If you are working on a large JS project run\n\n$> npx unimported\n\nIt will tell you what dependencies are not being used in your code.\n\nIn my case I found 5 npm modules and over 20 React components that were no longer part of the UI 🤯"
+    } ],
+    "published" : [ "2022-05-10T11:00:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1523981184224608256" ],
+    "url" : [ "https://twitter.com/ja_codes/status/1523981184224608256" ]
+  },
+  "type" : [ "h-entry" ]
+}
