@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RaxKingIsDead/status/1524100216688885761" ],
     "name" : [ "Like of @RaxKingIsDead's tweet" ],
     "published" : [ "2022-05-10T21:38:00+0100" ],
     "like-of" : [ "https://twitter.com/RaxKingIsDead/status/1524100216688885761" ],
