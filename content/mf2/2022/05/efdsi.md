@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Prestonboi83/status/1522672447723646977" ],
     "name" : [ "Like of @Prestonboi83's tweet" ],
     "published" : [ "2022-05-10T12:01:00+0100" ],
     "category" : [ "star-trek" ],
