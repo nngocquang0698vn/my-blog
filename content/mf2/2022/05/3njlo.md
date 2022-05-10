@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ja_codes/status/1523981184224608256" ],
     "name" : [ "Like of @ja_codes's tweet" ],
     "published" : [ "2022-05-10T22:22:00+0100" ],
     "category" : [ "nodejs", "javascript" ],
