@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/human_not_bees/status/1523961431326089218" ],
     "name" : [ "Like of @human_not_bees's tweet" ],
     "published" : [ "2022-05-10T12:20:00+0100" ],
     "like-of" : [ "https://twitter.com/human_not_bees/status/1523961431326089218" ],
