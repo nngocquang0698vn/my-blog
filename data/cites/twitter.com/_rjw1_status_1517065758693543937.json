@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "london" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "bob" ],
+        "nickname" : [ "rjw1" ],
+        "numeric-id" : [ "328203" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2626031575/oud9vjx58y1ilxu8y0qa.jpeg" ],
+        "published" : [ "2006-12-28T20:41:17+00:00" ],
+        "uid" : [ "tag:twitter.com:rjw1" ],
+        "url" : [ "https://twitter.com/rjw1", "http://randomness.org.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "being senior is saying have you read the error message enough that people read the error message." ],
+    "photo" : [ {
+      "alt" : "bernie saudners meme saying \"i am once again asking you to read and understand the error message\"",
+      "value" : "https://pbs.twimg.com/media/FQ2zBsYWYAAGiag.jpg"
+    } ],
+    "published" : [ "2022-04-21T09:00:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1517065758693543937" ],
+    "url" : [ "https://twitter.com/rjw1/status/1517065758693543937" ]
+  },
+  "type" : [ "h-entry" ]
+}
