@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Pop Base" ],
+          "nickname" : [ "PopBase" ],
+          "numeric-id" : [ "1138458175663988738" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW.jpg" ],
+          "published" : [ "2019-06-11T14:49:15+00:00" ],
+          "uid" : [ "tag:twitter.com:PopBase" ],
+          "url" : [ "https://twitter.com/PopBase" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Twitter implements new policy to limit visibility of, and even permanently ban, accounts who post duplicative or ‘copypasta’ tweets.\n\nThis includes “identical or near-identical content Tweeted by an individual account or many accounts.”</div>",
+        "value" : "Twitter implements new policy to limit visibility of, and even permanently ban, accounts who post duplicative or ‘copypasta’ tweets.\n\nThis includes “identical or near-identical content Tweeted by an individual account or many accounts.”"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSau8e1UYAAxC5P.jpg" ],
+      "published" : [ "2022-05-10T18:43:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1524097880197267458" ],
+      "url" : [ "https://twitter.com/PopBase/status/1524097880197267458" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/popbase/status…" ],
+      "url" : [ "https://twitter.com/popbase/status/1524097880197267458" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1523694871223181312/4dIHOJ6C.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "http://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "good thing our humor isn’t based on near replication with small variation\n<a class=\"tag\" href=\"https://twitter.com/popbase/status/1524097880197267458\">twitter.com/popbase/status…</a>",
+      "value" : "good thing our humor isn’t based on near replication with small variation"
+    } ],
+    "published" : [ "2022-05-10T20:15:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1524120859249676291" ],
+    "url" : [ "https://twitter.com/lolennui/status/1524120859249676291" ]
+  },
+  "type" : [ "h-entry" ]
+}
