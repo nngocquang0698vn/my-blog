@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tomcritchlow/status/1524053232099729413" ],
     "name" : [ "Like of @tomcritchlow's tweet" ],
     "published" : [ "2022-05-10T17:03:00+0100" ],
     "category" : [ "blogging" ],
