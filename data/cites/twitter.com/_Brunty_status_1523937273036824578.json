@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498963563033018374/Hd6rtNUK.jpg" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm inspired to make an \"integration bingo\" card for anyone integrating with 3rd party services to mark off when they hit certain issues.\n\nI feel like I've already completed it all though.</div>",
+      "value" : "I'm inspired to make an \"integration bingo\" card for anyone integrating with 3rd party services to mark off when they hit certain issues.\n\nI feel like I've already completed it all though."
+    } ],
+    "published" : [ "2022-05-10T08:05:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1523937273036824578" ],
+    "url" : [ "https://twitter.com/Brunty/status/1523937273036824578" ]
+  },
+  "type" : [ "h-entry" ]
+}
