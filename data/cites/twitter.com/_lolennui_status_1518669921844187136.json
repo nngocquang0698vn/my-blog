@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1523694871223181312/4dIHOJ6C.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "http://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "my prediction is trump back on twitter and then the run up to 2024 is identical to 2016. for my part idk I’ll probably be on ketamine." ],
+    "published" : [ "2022-04-25T19:14:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1518669921844187136" ],
+    "url" : [ "https://twitter.com/lolennui/status/1518669921844187136" ]
+  },
+  "type" : [ "h-entry" ]
+}
