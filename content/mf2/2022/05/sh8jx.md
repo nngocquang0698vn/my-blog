@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maestromorte/status/1523832651995561984" ],
     "name" : [ "Like of @maestromorte's tweet" ],
     "published" : [ "2022-05-10T12:59:00+0100" ],
     "category" : [ "politics" ],
