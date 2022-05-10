@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EddieHinkle/status/1523767402940575757" ],
     "name" : [ "Like of @EddieHinkle's tweet" ],
     "published" : [ "2022-05-10T12:16:00+0100" ],
     "like-of" : [ "https://twitter.com/EddieHinkle/status/1523767402940575757" ],
