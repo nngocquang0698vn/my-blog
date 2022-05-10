@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1524050467604639749" ],
     "photo" : [ {
       "alt" : "A view of the side of Jamie's leg, with Cookie the dog lying pushed up against him, on her side asleep, in a cute Zeedog harness",
       "photo" : "https://media.jvt.me/a99914b1d0.jpeg"
