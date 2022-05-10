@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Bloomberg UK" ],
+          "nickname" : [ "BloombergUK" ],
+          "numeric-id" : [ "774195721000087552" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1437401585286516738/DXVWhz9G.jpg" ],
+          "published" : [ "2016-09-09T10:40:19+00:00" ],
+          "uid" : [ "tag:twitter.com:BloombergUK" ],
+          "url" : [ "https://twitter.com/BloombergUK", "http://bloomberg.com", "http://bloom.bg/3unXtSj" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Prince Charles announces the government's top priority is to \"help ease the cost-of-living for families,\" with a promise to \"level up opportunity in all parts of the country\" <a href=\"http://bloom.bg/3srLLZ0\">bloom.bg/3srLLZ0</a>",
+        "value" : "Prince Charles announces the government's top priority is to \"help ease the cost-of-living for families,\" with a promise to \"level up opportunity in all parts of the country\" bloom.bg/3srLLZ0"
+      } ],
+      "published" : [ "2022-05-10T10:43:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1523977008262352903" ],
+      "url" : [ "https://twitter.com/BloombergUK/status/1523977008262352903" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1523975844586303488/vid/1280x720/Fw-vb8SffIcHLA8B.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rax ‘leads with her crotch’ king" ],
+        "nickname" : [ "RaxKingIsDead" ],
+        "numeric-id" : [ "2254014308" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1449359551145422852/juRXky9O.jpg" ],
+        "published" : [ "2013-12-19T20:27:43+00:00" ],
+        "uid" : [ "tag:twitter.com:RaxKingIsDead" ],
+        "url" : [ "https://twitter.com/RaxKingIsDead", "https://www.raxkingisdead.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i simply would have made this announcement from any other room, wearing any other outfit" ],
+    "published" : [ "2022-05-10T18:53:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1524100216688885761" ],
+    "url" : [ "https://twitter.com/RaxKingIsDead/status/1524100216688885761" ]
+  },
+  "type" : [ "h-entry" ]
+}
