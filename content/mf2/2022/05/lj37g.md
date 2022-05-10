@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lolennui/status/1518669921844187136" ],
     "name" : [ "Like of @lolennui's tweet" ],
     "published" : [ "2022-05-10T22:09:00+0100" ],
     "like-of" : [ "https://twitter.com/lolennui/status/1518669921844187136" ],
