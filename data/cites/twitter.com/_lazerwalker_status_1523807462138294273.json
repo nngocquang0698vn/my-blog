@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Mülheim an der Ruhr, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "John ✨" ],
+          "nickname" : [ "AdemoyeJohn" ],
+          "numeric-id" : [ "2739814325" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1476638302350581764/NOvEAsDZ.jpg" ],
+          "published" : [ "2014-08-11T11:12:12+00:00" ],
+          "uid" : [ "tag:twitter.com:AdemoyeJohn" ],
+          "url" : [ "https://twitter.com/AdemoyeJohn", "https://johna.hashnode.dev/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What did the developers of old use before Stackoverflow?" ],
+      "published" : [ "2022-05-09T06:00:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1523543292620656640" ],
+      "url" : [ "https://twitter.com/AdemoyeJohn/status/1523543292620656640" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/ademoyejohn/st…" ],
+      "url" : [ "https://twitter.com/ademoyejohn/status/1523543292620656640" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/her 🏳️‍⚧️ 💕" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emilia ✨" ],
+        "nickname" : [ "lazerwalker" ],
+        "numeric-id" : [ "19924413" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1421175366874386437/KEb99BxA.jpg" ],
+        "published" : [ "2009-02-02T19:25:55+00:00" ],
+        "uid" : [ "tag:twitter.com:lazerwalker" ],
+        "url" : [ "https://twitter.com/lazerwalker", "http://www.lazerwalker.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "being accused of trolling zoomers when I try to explain the most popular website was literally called “expertsexchange”\n<a class=\"tag\" href=\"https://twitter.com/ademoyejohn/status/1523543292620656640\">twitter.com/ademoyejohn/st…</a>",
+      "value" : "being accused of trolling zoomers when I try to explain the most popular website was literally called “expertsexchange”"
+    } ],
+    "published" : [ "2022-05-09T23:29:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1523807462138294273" ],
+    "url" : [ "https://twitter.com/lazerwalker/status/1523807462138294273" ]
+  },
+  "type" : [ "h-entry" ]
+}
