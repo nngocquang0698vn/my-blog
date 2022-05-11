@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, Canada" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Trottier" ],
+        "nickname" : [ "atomicpoet" ],
+        "numeric-id" : [ "19127403" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/833210716886675457/dXTMr0UB.jpg" ],
+        "published" : [ "2009-01-17T23:04:38+00:00" ],
+        "uid" : [ "tag:twitter.com:atomicpoet" ],
+        "url" : [ "https://twitter.com/atomicpoet", "http://christrottier.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">FYI, I staunchly disagree with Bryan Lunduke's general views. \n\nHowever, I also don't think anyone should be discriminated against on account of ethnicity or religion.</div>",
+      "value" : "FYI, I staunchly disagree with Bryan Lunduke's general views. \n\nHowever, I also don't think anyone should be discriminated against on account of ethnicity or religion."
+    } ],
+    "published" : [ "2022-05-10T00:37:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1523824510918606849" ],
+    "url" : [ "https://twitter.com/atomicpoet/status/1523824510918606849" ]
+  },
+  "type" : [ "h-entry" ]
+}
