@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zurich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik Wilde" ],
+        "nickname" : [ "dret" ],
+        "numeric-id" : [ "13072452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/828971507820982272/5IhAUAal.jpg" ],
+        "published" : [ "2008-02-05T00:01:31+00:00" ],
+        "uid" : [ "tag:twitter.com:dret" ],
+        "url" : [ "https://twitter.com/dret", "https://www.youtube.com/c/ErikWilde" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "so much buzz around how <a href=\"https://twitter.com/search?q=%23openbanking\">#openbanking</a> fuels innovation in fintech. and yet most major credit cards have pretty apps but zero useful new features. who has one with individually expirable custom numbers like <a href=\"https://twitter.com/RevolutApp\">@RevolutApp</a>, for example?",
+      "value" : "so much buzz around how #openbanking fuels innovation in fintech. and yet most major credit cards have pretty apps but zero useful new features. who has one with individually expirable custom numbers like @RevolutApp, for example?"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Wutöschingen, Deutschland" ],
+        "uid" : [ "tag:twitter.com:710c4401c63ca675" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-11T11:17:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1524347966705840128" ],
+    "url" : [ "https://twitter.com/dret/status/1524347966705840128" ]
+  },
+  "type" : [ "h-entry" ]
+}
