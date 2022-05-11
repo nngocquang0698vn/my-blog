@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bastetfurry/status/1524268998233313280" ],
     "name" : [ "Like of @bastetfurry's tweet" ],
     "published" : [ "2022-05-11T08:47:00+0100" ],
     "like-of" : [ "https://twitter.com/bastetfurry/status/1524268998233313280" ],
