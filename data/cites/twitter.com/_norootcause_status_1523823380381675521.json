@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Chana" ],
+          "nickname" : [ "ChanaMessinger" ],
+          "numeric-id" : [ "25215071" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1448711727537868802/UmSVoTZ5.jpg" ],
+          "published" : [ "2009-03-19T02:14:50+00:00" ],
+          "uid" : [ "tag:twitter.com:ChanaMessinger" ],
+          "url" : [ "https://twitter.com/ChanaMessinger", "http://www.chanamessinger.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Estimation Exercise:\n\nAbout how many packets of ketchup will fill the container?</div>",
+        "value" : "Estimation Exercise:\n\nAbout how many packets of ketchup will fill the container?"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSUa5U1X0AERdRQ.jpg" ],
+      "published" : [ "2022-05-09T13:18:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1523653632050163712" ],
+      "url" : [ "https://twitter.com/ChanaMessinger/status/1523653632050163712" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lorin Hochstein" ],
+        "nickname" : [ "norootcause" ],
+        "numeric-id" : [ "13097242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/789328571374276609/st1qefx4.jpg" ],
+        "published" : [ "2008-02-05T15:49:35+00:00" ],
+        "uid" : [ "tag:twitter.com:norootcause" ],
+        "url" : [ "https://twitter.com/norootcause", "https://surfingcomplexity.blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "New coding interview question just dropped" ],
+    "published" : [ "2022-05-10T00:32:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1523823380381675521" ],
+    "url" : [ "https://twitter.com/norootcause/status/1523823380381675521" ]
+  },
+  "type" : [ "h-entry" ]
+}
