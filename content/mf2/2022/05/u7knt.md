@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lrvick/status/1523774962909298690" ],
     "name" : [ "Like of @lrvick's tweet" ],
     "published" : [ "2022-05-11T20:19:00+0100" ],
     "category" : [ "security", "npm" ],
