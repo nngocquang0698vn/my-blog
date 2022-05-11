@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ConSelfOwns/status/1524224947907964928" ],
     "name" : [ "Like of @ConSelfOwns's tweet" ],
     "published" : [ "2022-05-11T18:51:00+0100" ],
     "like-of" : [ "https://twitter.com/ConSelfOwns/status/1524224947907964928" ],
