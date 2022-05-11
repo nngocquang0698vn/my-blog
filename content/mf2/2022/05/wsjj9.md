@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hermit_hwarang/status/1524184178279038977" ],
     "name" : [ "Like of @hermit_hwarang's tweet" ],
     "published" : [ "2022-05-11T20:12:00+0100" ],
     "like-of" : [ "https://twitter.com/hermit_hwarang/status/1524184178279038977" ],
