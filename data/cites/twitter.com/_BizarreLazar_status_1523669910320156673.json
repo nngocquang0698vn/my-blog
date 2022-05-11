@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Az" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bizarre Lazar" ],
+        "nickname" : [ "BizarreLazar" ],
+        "numeric-id" : [ "24457210" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1266771812353892352/-D54r-bg.jpg" ],
+        "published" : [ "2009-03-15T00:23:50+00:00" ],
+        "uid" : [ "tag:twitter.com:BizarreLazar" ],
+        "url" : [ "https://twitter.com/BizarreLazar", "https://twitter.com/search?q=(from%3Abizarrelazar)%20min_retweets%3A100&src=typed_query" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’ve been on Twitter since 2009. I’m just now realizing the home button is a bird house." ],
+    "published" : [ "2022-05-09T14:23:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1523669910320156673" ],
+    "url" : [ "https://twitter.com/BizarreLazar/status/1523669910320156673" ]
+  },
+  "type" : [ "h-entry" ]
+}
