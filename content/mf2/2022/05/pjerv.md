@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HalloLad/status/1524034084623855616" ],
     "name" : [ "Like of @HalloLad's tweet" ],
     "published" : [ "2022-05-11T08:46:00+0100" ],
     "like-of" : [ "https://twitter.com/HalloLad/status/1524034084623855616" ],
