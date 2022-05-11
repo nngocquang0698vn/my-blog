@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Pop Base" ],
+          "nickname" : [ "PopBase" ],
+          "numeric-id" : [ "1138458175663988738" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW.jpg" ],
+          "published" : [ "2019-06-11T14:49:15+00:00" ],
+          "uid" : [ "tag:twitter.com:PopBase" ],
+          "url" : [ "https://twitter.com/PopBase" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Twitter implements new policy to limit visibility of, and even permanently ban, accounts who post duplicative or ‘copypasta’ tweets.\n\nThis includes “identical or near-identical content Tweeted by an individual account or many accounts.”</div>",
+        "value" : "Twitter implements new policy to limit visibility of, and even permanently ban, accounts who post duplicative or ‘copypasta’ tweets.\n\nThis includes “identical or near-identical content Tweeted by an individual account or many accounts.”"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FSau8e1UYAAxC5P.jpg" ],
+      "published" : [ "2022-05-10T18:43:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1524097880197267458" ],
+      "url" : [ "https://twitter.com/PopBase/status/1524097880197267458" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Looking forward to the wave of bans that'll sweep the people all commenting \"COREY.\" in response to my latest pun." ],
+    "published" : [ "2022-05-11T05:08:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1524255180283207681" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1524255180283207681" ]
+  },
+  "type" : [ "h-entry" ]
+}
