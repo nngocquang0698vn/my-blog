@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Adam Jacob" ],
+          "nickname" : [ "adamhjk" ],
+          "numeric-id" : [ "13682312" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/942839783402889216/H44OYbaK.jpg" ],
+          "published" : [ "2008-02-19T18:02:55+00:00" ],
+          "uid" : [ "tag:twitter.com:adamhjk" ],
+          "url" : [ "https://twitter.com/adamhjk", "http://systeminit.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "You shouldn’t have to suffer if you work in technology. There is plenty of work, and everyone needs help. There is a place for you that fits, and doesn’t believe destroying you is in its best interest." ],
+      "in-reply-to" : [ "https://twitter.com/adamhjk/status/1524471304950145026" ],
+      "published" : [ "2022-05-11T19:27:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1524471306300710912" ],
+      "url" : [ "https://twitter.com/adamhjk/status/1524471306300710912" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Duane O'Brien" ],
+        "nickname" : [ "DuaneOBrien" ],
+        "numeric-id" : [ "428058083" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1195231012701130755/SqNLEQPb.jpg" ],
+        "published" : [ "2011-12-04T08:55:50+00:00" ],
+        "uid" : [ "tag:twitter.com:DuaneOBrien" ],
+        "url" : [ "https://twitter.com/DuaneOBrien", "http://opensource.indeed.com", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I wish I'd believed this sooner.\n\nI put up with things earlier in my career that I'd never tolerate now, because I felt I had no other options and I was the primary earner with dependents. It can be really hard to let go of the rope when you don't have another one in your hand.</div>",
+      "value" : "I wish I'd believed this sooner.\n\nI put up with things earlier in my career that I'd never tolerate now, because I felt I had no other options and I was the primary earner with dependents. It can be really hard to let go of the rope when you don't have another one in your hand."
+    } ],
+    "published" : [ "2022-05-11T19:48:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1524476647734321152" ],
+    "url" : [ "https://twitter.com/DuaneOBrien/status/1524476647734321152" ]
+  },
+  "type" : [ "h-entry" ]
+}
