@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DKThomp/status/1523998512228323328" ],
     "name" : [ "Like of @DKThomp's tweet" ],
     "published" : [ "2022-05-11T09:07:00+0100" ],
     "like-of" : [ "https://twitter.com/DKThomp/status/1523998512228323328" ],
