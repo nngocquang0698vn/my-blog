@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dusty_bun6o4/status/1524024618901716992" ],
     "name" : [ "Like of @dusty_bun6o4's tweet" ],
     "published" : [ "2022-05-11T12:59:00+0100" ],
     "like-of" : [ "https://twitter.com/dusty_bun6o4/status/1524024618901716992" ],
