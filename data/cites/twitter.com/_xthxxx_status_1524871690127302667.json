@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Yorkshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Holmes" ],
+        "nickname" : [ "xthxxx" ],
+        "numeric-id" : [ "291279660" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2898014021/30fa47a980ce0f6a335a24dc99c93bcf.png" ],
+        "published" : [ "2011-05-01T18:54:43+00:00" ],
+        "uid" : [ "tag:twitter.com:xthxxx" ],
+        "url" : [ "https://twitter.com/xthxxx" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you set fire to it it will heat your house for 48 hours\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/frankieboyle\"></a>",
+      "value" : "If you set fire to it it will heat your house for 48 hours"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/frankieboyle/status/1524871402771341318" ],
+    "published" : [ "2022-05-12T21:58:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1524871690127302667" ],
+    "url" : [ "https://twitter.com/xthxxx/status/1524871690127302667" ]
+  },
+  "type" : [ "h-entry" ]
+}
