@@ -1,0 +1,30 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "category" : [ "security", "eic", "mfa", "eic2022" ],
+    "url" : [ "https://aaronparecki.com/2022/05/12/7/security" ],
+    "syndication" : [ "https://twitter.com/aaronpk/status/1524663225693794304", "https://micro.blog/aaronpk/12863941" ],
+    "published" : [ "2022-05-12T10:10:12+02:00" ],
+    "content" : [ {
+      "html" : "There's nothing like being at <a href=\"https://aaronparecki.com/tag/eic2022\">#EIC2022</a>, a conference all about identity and security, where phishing and hacking have been a major theme across all the talks, and then getting a \"is this you?\" push on my phone from an IP on a sketchy VPN followed by a password reset email",
+      "value" : "There's nothing like being at #EIC2022, a conference all about identity and security, where phishing and hacking have been a major theme across all the talks, and then getting a \"is this you?\" push on my phone from an IP on a sketchy VPN followed by a password reset email"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Parecki" ],
+        "url" : [ "https://aaronparecki.com/" ],
+        "photo" : [ "https://aaronparecki.com/images/profile.jpg" ]
+      },
+      "value" : "https://aaronparecki.com/"
+    } ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "locality" : [ "Berlin" ],
+        "region" : [ "Berlin" ]
+      },
+      "value" : "Berlin, Berlin"
+    } ]
+  }
+}
