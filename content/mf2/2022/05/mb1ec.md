@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElleArmageddon/status/1524608755391815681" ],
     "name" : [ "Like of @ElleArmageddon's tweet" ],
     "published" : [ "2022-05-12T05:50:00+0100" ],
     "like-of" : [ "https://twitter.com/ElleArmageddon/status/1524608755391815681" ],
