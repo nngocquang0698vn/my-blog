@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1524773657695989761" ],
     "photo" : [ {
       "alt" : "the view from the back of the crowd with at least a hundred people crowding around two desks where swag is being given out",
       "photo" : "https://media.jvt.me/feca21178f.jpeg"
