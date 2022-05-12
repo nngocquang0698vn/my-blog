@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1524649887912140801" ],
     "published" : [ "2022-05-12T08:08:00+0100" ],
     "category" : [ "deliveroo", "hackaroo" ],
     "post-status" : [ "published" ],
