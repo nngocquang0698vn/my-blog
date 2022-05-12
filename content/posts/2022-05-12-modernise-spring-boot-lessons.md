@@ -1,20 +1,21 @@
 ---
 title: "Lessons learned from modernising a lesser maintained (Spring Boot) service"
-description: "What I learned from taking ownership of a lesser maintained service and bringing it up to a better standard."
-tags:
-- blogumentation
-- spring-boot
-- supportability
-- incident-management
-- production
-- capital-one
-- technical-leadership
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-05-12T08:55:38+0100
-slug: "modernise-spring-boot-lessons"
+description: "What I learned from taking ownership of a lesser maintained service\
+  \ and bringing it up to a better standard."
+date: "2022-05-12T08:55:38+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1524661431366557697"
+tags:
+- "blogumentation"
+- "spring-boot"
+- "supportability"
+- "incident-management"
+- "production"
+- "capital-one"
+- "technical-leadership"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "modernise-spring-boot-lessons"
 ---
 As part of the recent interviews I've done in the job hunt, I'd been asked about a time that I'd had a bit of push back persuading stakeholders of a piece of work, or working on a complex project. I wanted to write about it in a bit more depth, so it can help others, as well as be a chance for me to reflect on in the future.
 
