@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1524871764198711302" ],
     "photo" : [ {
       "alt" : "A late evening view of The Shard with clouds above it and just peeking out is the moon, brightly shining. It's a lovely bright photo despite being shot so late in the evening, and a sign of the lovely summer evenings",
       "photo" : "https://media.jvt.me/5f962654ad.jpeg"
