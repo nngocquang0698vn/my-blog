@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "2027 Westlake Ave, Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Devil’s Triangle Seattle" ],
+        "nickname" : [ "ADevilsTriangle" ],
+        "numeric-id" : [ "1039250346734891013" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1405296187800915968/XGHCPjEk.jpg" ],
+        "published" : [ "2018-09-10T20:32:45+00:00" ],
+        "uid" : [ "tag:twitter.com:ADevilsTriangle" ],
+        "url" : [ "https://twitter.com/ADevilsTriangle", "https://linktr.ee/thedt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We have plenty of shitty competitors, we’re not worried 💋\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/QuinnyPig\"></a>",
+      "value" : "We have plenty of shitty competitors, we’re not worried 💋"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1524585069569998848" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Seattle, WA" ],
+        "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-12T03:04:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1524586340473446401" ],
+    "url" : [ "https://twitter.com/ADevilsTriangle/status/1524586340473446401" ]
+  },
+  "type" : [ "h-entry" ]
+}
