@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA // Bainbridge" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Fitzpatrick 🌻" ],
+        "nickname" : [ "bradfitz" ],
+        "numeric-id" : [ "650013" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350628585942388740/5nPKOyDc.jpg" ],
+        "published" : [ "2007-01-16T23:05:57+00:00" ],
+        "uid" : [ "tag:twitter.com:bradfitz" ],
+        "url" : [ "https://twitter.com/bradfitz", "http://bradfitz.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">oh dear god\n<a href=\"https://ijmacd.github.io/rfc3339-iso8601\">ijmacd.github.io/rfc3339-iso8601</a></div>",
+      "value" : "oh dear god\nijmacd.github.io/rfc3339-iso8601"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FSfuCqlVkAAJBuo.jpg" ],
+    "published" : [ "2022-05-11T17:58:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1524448788290568192" ],
+    "url" : [ "https://twitter.com/bradfitz/status/1524448788290568192" ]
+  },
+  "type" : [ "h-entry" ]
+}
