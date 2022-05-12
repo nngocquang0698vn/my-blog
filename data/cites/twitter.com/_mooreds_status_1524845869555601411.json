@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Unpopular opinion: I like leftovers.\n\nThey are like a gift from past me to present me.</div>",
+      "value" : "Unpopular opinion: I like leftovers.\n\nThey are like a gift from past me to present me."
+    } ],
+    "published" : [ "2022-05-12T20:16:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1524845869555601411" ],
+    "url" : [ "https://twitter.com/mooreds/status/1524845869555601411" ]
+  },
+  "type" : [ "h-entry" ]
+}
