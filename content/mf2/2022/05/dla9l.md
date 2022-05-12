@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Bastard0fY/status/1524614578251968524" ],
     "name" : [ "Like of @Bastard0fY's tweet" ],
     "published" : [ "2022-05-13T00:06:00+0100" ],
     "category" : [ "cryptocurrency" ],
