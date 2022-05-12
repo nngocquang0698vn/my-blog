@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DonnaspahrDonna/status/1524560518366830592" ],
     "name" : [ "Like of @DonnaspahrDonna's tweet" ],
     "published" : [ "2022-05-12T06:08:00+0100" ],
     "like-of" : [ "https://twitter.com/DonnaspahrDonna/status/1524560518366830592" ],
