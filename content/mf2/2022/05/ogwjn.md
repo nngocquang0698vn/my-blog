@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lykachu_/status/1524959591888560128" ],
     "name" : [ "Like of @lykachu_'s tweet" ],
     "published" : [ "2022-05-13T22:33:00+0100" ],
     "like-of" : [ "https://twitter.com/lykachu_/status/1524959591888560128" ],
