@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/taylor_atx/status/1524960442149478404" ],
     "name" : [ "Like of @taylor_atx's tweet" ],
     "published" : [ "2022-05-13T08:41:00+0100" ],
     "category" : [ "cute" ],
