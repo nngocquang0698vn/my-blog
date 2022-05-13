@@ -1,0 +1,27 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Syndicating to IndieNews" ],
+    "category" : [ "indieweb", "webmention", "posse" ],
+    "url" : [ "https://jan.boddez.net/articles/syndicating-to-indienews" ],
+    "syndication" : [ "https://news.indieweb.org/en/jan.boddez.net/articles/syndicating-to-indienews" ],
+    "published" : [ "2022-05-11T20:59:53+02:00" ],
+    "content" : [ {
+      "html" : "<p><a href=\"https://jan.boddez.net/notes/97d226960d\">Reminded of IndieNews</a>, I set out to create a <a href=\"https://github.com/janboddez/share-on-indienews\">smallish WordPress plugin</a> to enable sharing over there.</p>\n<p>Now, my (WordPress) blog already supports automatic outgoing webmentions, so this could&#x2019;ve been as easy as adding the correct outgoing hyperlink, no extra plugin required.</p>\n<p>Except &#x2026; While I <em>have</em> always supported microformats&#x2014;little more than HTML <code>class</code> attributes, <em>mostly</em>&#x2014;<a href=\"https://jan.boddez.net/notes/d86d135ed9\">inside post content rather than as separate post meta</a>, separate post meta is <em>exactly</em> how I&#x2019;ve implemented syndication links.</p>\n<p>The reason? I&#x2019;ve got to first publish a post, then syndicate to (possibly multiple) third-party sites, and finally, store the response somewhere. In this last step, rather than parse and append to the actual post, I instead store syndication links in custom (or meta) fields: <code>_share_on_mastodon_url</code>, for instance, or <code>_share_on_pixelfed_url</code> or &#x2026; well, <code>_share_on_indienews_url</code>.</p>\n<p>My front-end code then grabs the values for these and outputs something along the lines of &#x201C;Also on <a href=\"https://geekcompass.com/@jan\">Mastodon</a>, <a href=\"https://pixelfed.social/janboddez\">Pixelfed</a>.&#x201D;</p>\n<p>Still, because it&#x2019;s &#x201C;just a webmention,&#x201D; this plugin&#x2019;s much simpler than my Mastodon and Pixelfed plugins. (Another difference is that I&#x2019;ve got to set that temporary URL.)</p>\n<p>Up next: adding IndieNews to my Micropub configuration&#x2019;s <em>syndication targets</em>.</p>",
+      "value" : "Reminded of IndieNews, I set out to create a smallish WordPress plugin to enable sharing over there.\nNow, my (WordPress) blog already supports automatic outgoing webmentions, so this could’ve been as easy as adding the correct outgoing hyperlink, no extra plugin required.\nExcept … While I have always supported microformats—little more than HTML class attributes, mostly—inside post content rather than as separate post meta, separate post meta is exactly how I’ve implemented syndication links.\nThe reason? I’ve got to first publish a post, then syndicate to (possibly multiple) third-party sites, and finally, store the response somewhere. In this last step, rather than parse and append to the actual post, I instead store syndication links in custom (or meta) fields: _share_on_mastodon_url, for instance, or _share_on_pixelfed_url or … well, _share_on_indienews_url.\nMy front-end code then grabs the values for these and outputs something along the lines of “Also on Mastodon, Pixelfed.”\nStill, because it’s “just a webmention,” this plugin’s much simpler than my Mastodon and Pixelfed plugins. (Another difference is that I’ve got to set that temporary URL.)\nUp next: adding IndieNews to my Micropub configuration’s syndication targets.",
+      "lang" : "en-us"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Jan Boddez" ],
+        "uid" : [ "https://jan.boddez.net/" ],
+        "url" : [ "https://jan.boddez.net/" ],
+        "photo" : [ "https://jan.boddez.net/images/photo.jpg" ]
+      },
+      "lang" : "en-us",
+      "value" : "Jan Boddez"
+    } ]
+  },
+  "lang" : "en-us"
+}
