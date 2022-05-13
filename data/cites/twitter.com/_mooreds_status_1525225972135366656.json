@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "TFW you finally complete the task that you'd left a slack mention unread for a week to remind you of." ],
+    "published" : [ "2022-05-13T21:26:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1525225972135366656" ],
+    "url" : [ "https://twitter.com/mooreds/status/1525225972135366656" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FSqw71cUUAAiKcl.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
