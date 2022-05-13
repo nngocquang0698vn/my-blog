@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Murdoch" ],
+        "nickname" : [ "alexgmurd" ],
+        "numeric-id" : [ "3243633596" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499483458032254982/qlyTxAfy.jpg" ],
+        "published" : [ "2015-06-12T21:44:35+00:00" ],
+        "uid" : [ "tag:twitter.com:alexgmurd" ],
+        "url" : [ "https://twitter.com/alexgmurd", "http://instagram.com/friendislanduk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i’ve started reading before bed instead of scrolling twitter and not only am i sleeping really well, but i also think i’m better than everyone" ],
+    "published" : [ "2022-05-12T17:16:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1524800775179968513" ],
+    "url" : [ "https://twitter.com/alexgmurd/status/1524800775179968513" ]
+  },
+  "type" : [ "h-entry" ]
+}
