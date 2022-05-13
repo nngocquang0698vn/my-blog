@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ggronvall/status/1524721066190544902" ],
     "name" : [ "Like of @ggronvall's tweet" ],
     "published" : [ "2022-05-13T08:25:00+0100" ],
     "category" : [ "coronavirus" ],
