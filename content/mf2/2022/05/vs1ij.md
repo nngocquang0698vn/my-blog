@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/scootertheworst/status/1525331283320119296" ],
     "name" : [ "Like of @scootertheworst's tweet" ],
     "published" : [ "2022-05-14T22:33:00+0100" ],
     "like-of" : [ "https://twitter.com/scootertheworst/status/1525331283320119296" ],
