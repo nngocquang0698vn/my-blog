@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SociableBarely/status/1525326307243851776" ],
     "name" : [ "Like of @SociableBarely's tweet" ],
     "published" : [ "2022-05-14T17:22:00+0100" ],
     "category" : [ "memes" ],
