@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philly Burbs" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eric Wagner" ],
+        "nickname" : [ "ProfessorE59" ],
+        "numeric-id" : [ "115060310" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000553264300/7f119391d3d7bbddaa7712e20f1948df.jpeg" ],
+        "published" : [ "2010-02-17T13:50:51+00:00" ],
+        "uid" : [ "tag:twitter.com:ProfessorE59" ],
+        "url" : [ "https://twitter.com/ProfessorE59" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have them checked for flubber\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/scootertheworst\"></a>",
+      "value" : "Have them checked for flubber"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/scootertheworst/status/1525112175202906113" ],
+    "published" : [ "2022-05-13T21:55:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1525233274485985280" ],
+    "url" : [ "https://twitter.com/ProfessorE59/status/1525233274485985280" ]
+  },
+  "type" : [ "h-entry" ]
+}
