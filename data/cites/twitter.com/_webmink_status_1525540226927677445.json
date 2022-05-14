@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Guardian" ],
+          "nickname" : [ "guardian" ],
+          "numeric-id" : [ "87818409" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla.png" ],
+          "published" : [ "2009-11-05T23:49:19+00:00" ],
+          "uid" : [ "tag:twitter.com:guardian" ],
+          "url" : [ "https://twitter.com/guardian", "https://www.theguardian.com", "https://support.theguardian.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Fifty refugees to be sent to Rwanda in a fortnight, says Boris Johnson <a href=\"https://www.theguardian.com/uk-news/2022/may/14/fifty-migrants-to-be-sent-from-uk-to-rwanda-in-a-fortnight-says-boris-johnson?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1652534443\">theguardian.com/uk-news/2022/m…</a>",
+        "value" : "Fifty refugees to be sent to Rwanda in a fortnight, says Boris Johnson theguardian.com/uk-news/2022/m…"
+      } ],
+      "published" : [ "2022-05-14T13:20:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1525466140406960130" ],
+      "url" : [ "https://twitter.com/guardian/status/1525466140406960130" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Southampton, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Phipps" ],
+        "nickname" : [ "webmink" ],
+        "numeric-id" : [ "752133" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/500396771319640064/hQ96ZD39.jpeg" ],
+        "published" : [ "2007-02-03T17:37:34+00:00" ],
+        "uid" : [ "tag:twitter.com:webmink" ],
+        "url" : [ "https://twitter.com/webmink", "https://meshedinsights.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why does this sound like a ransom demand. Just missing the \"unless\" clause." ],
+    "published" : [ "2022-05-14T18:15:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1525540226927677445" ],
+    "url" : [ "https://twitter.com/webmink/status/1525540226927677445" ]
+  },
+  "type" : [ "h-entry" ]
+}
