@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North West, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Bacon" ],
+        "nickname" : [ "TomABacon" ],
+        "numeric-id" : [ "346476440" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/770251864625541120/bmluAVXK.jpg" ],
+        "published" : [ "2011-08-01T09:53:05+00:00" ],
+        "uid" : [ "tag:twitter.com:TomABacon" ],
+        "url" : [ "https://twitter.com/TomABacon", "https://screenrant.com/author/thob/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm not surprised he doesn't need a computer. His only job is to troll the country by being as inefficient and old-fashioned as possible.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Jacob_Rees_Mogg\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/christopherhope\"></a>",
+      "value" : "I'm not surprised he doesn't need a computer. His only job is to troll the country by being as inefficient and old-fashioned as possible."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/christopherhope/status/1525476112737964032" ],
+    "published" : [ "2022-05-14T14:35:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1525485050405474305" ],
+    "url" : [ "https://twitter.com/TomABacon/status/1525485050405474305" ]
+  },
+  "type" : [ "h-entry" ]
+}
