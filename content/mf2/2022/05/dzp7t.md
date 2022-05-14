@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChrisHopkins99/status/1525477469842718720" ],
     "name" : [ "Like of @ChrisHopkins99's tweet" ],
     "published" : [ "2022-05-14T16:22:00+0100" ],
     "like-of" : [ "https://twitter.com/ChrisHopkins99/status/1525477469842718720" ],
