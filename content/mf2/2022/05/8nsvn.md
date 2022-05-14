@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ProfTomCrick/status/1525493163867181056" ],
     "name" : [ "Like of @ProfTomCrick's tweet" ],
     "published" : [ "2022-05-14T16:21:00+0100" ],
     "like-of" : [ "https://twitter.com/ProfTomCrick/status/1525493163867181056" ],
