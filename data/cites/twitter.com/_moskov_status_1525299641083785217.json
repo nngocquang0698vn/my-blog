@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dustin Moskovitz" ],
+        "nickname" : [ "moskov" ],
+        "numeric-id" : [ "23289019" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484707077163405313/WIb05C_S.jpg" ],
+        "published" : [ "2009-03-08T08:03:54+00:00" ],
+        "uid" : [ "tag:twitter.com:moskov" ],
+        "url" : [ "https://twitter.com/moskov", "https://asana.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "🚩🚩🚩" ],
+    "photo" : [ "https://pbs.twimg.com/media/FSrz8GRUYAA7eDd.jpg" ],
+    "published" : [ "2022-05-14T02:19:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1525299641083785217" ],
+    "url" : [ "https://twitter.com/moskov/status/1525299641083785217" ]
+  },
+  "type" : [ "h-entry" ]
+}
