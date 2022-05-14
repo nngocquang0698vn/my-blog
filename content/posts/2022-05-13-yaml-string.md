@@ -1,17 +1,18 @@
 ---
 title: "Constructing a serialised YAML string in Ruby"
-description: "How to convert a YAML document to a string representation, preserving escaped newlines, with Ruby."
-tags:
-- blogumentation
-- command-line
-- ruby
-- yaml
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-05-13T18:19:03+0100
-slug: "yaml-string"
+description: "How to convert a YAML document to a string representation, preserving\
+  \ escaped newlines, with Ruby."
+date: "2022-05-13T18:19:03+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1525264685767053313"
+tags:
+- "blogumentation"
+- "command-line"
+- "ruby"
+- "yaml"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+slug: "yaml-string"
 ---
 Sometimes you want to convert a YAML document to an encoded format that can then i.e. be base64-encoded, or stored in another form.
 
