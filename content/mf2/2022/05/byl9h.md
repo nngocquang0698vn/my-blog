@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/afi_maame/status/1525185909796360192" ],
     "name" : [ "Like of @afi_maame's tweet" ],
     "published" : [ "2022-05-15T12:34:00+0100" ],
     "like-of" : [ "https://twitter.com/afi_maame/status/1525185909796360192" ],
