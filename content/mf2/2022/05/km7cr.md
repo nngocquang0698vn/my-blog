@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1525798835263610881" ],
     "photo" : [ {
       "alt" : "Cookie flopped on her side, with one paw mid-scratch on the side of her face, stretched out and enjoying the sun",
       "photo" : "https://media.jvt.me/653f293a76.jpeg"
