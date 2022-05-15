@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Elie Mystal" ],
+          "nickname" : [ "ElieNYC" ],
+          "numeric-id" : [ "40353407" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1518946408656683009/J_TAe_aF.jpg" ],
+          "published" : [ "2009-05-15T22:47:11+00:00" ],
+          "uid" : [ "tag:twitter.com:ElieNYC" ],
+          "url" : [ "https://twitter.com/ElieNYC", "https://www.thenation.com/authors/elie-mystal/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Everybody is on the \"This is Fox News's fault\" and, it is. But I want to focus on another community I follow closely: Gamers.\nI tend to follow streamers/YouTubers who explicitly *don't* go in for these white supremacist dog whistles (obviously) but a lot of them don't call it out</div>",
+        "value" : "Everybody is on the \"This is Fox News's fault\" and, it is. But I want to focus on another community I follow closely: Gamers.\nI tend to follow streamers/YouTubers who explicitly *don't* go in for these white supremacist dog whistles (obviously) but a lot of them don't call it out"
+      } ],
+      "published" : [ "2022-05-15T04:52:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1525700674633322497" ],
+      "url" : [ "https://twitter.com/ElieNYC/status/1525700674633322497" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Occupied Massachusett land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anna phylaxis" ],
+        "nickname" : [ "quatoria" ],
+        "numeric-id" : [ "15982882" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1301576207247573002/5_lVo_8d.jpg" ],
+        "published" : [ "2008-08-25T15:44:53+00:00" ],
+        "uid" : [ "tag:twitter.com:quatoria" ],
+        "url" : [ "https://twitter.com/quatoria", "https://www.bostondykemarch.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Gamers\" has been a wholly right wing captured demographic since 2014. 'Gamergate' was nothing but a mainstreaming of white supremacist ideals into gaming culture. \n\nYou will now find someone repeating them in almost every mainstream gaming outpost you go.</div>",
+      "value" : "\"Gamers\" has been a wholly right wing captured demographic since 2014. 'Gamergate' was nothing but a mainstreaming of white supremacist ideals into gaming culture. \n\nYou will now find someone repeating them in almost every mainstream gaming outpost you go."
+    } ],
+    "published" : [ "2022-05-15T12:52:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1525821542176792577" ],
+    "url" : [ "https://twitter.com/quatoria/status/1525821542176792577" ]
+  },
+  "type" : [ "h-entry" ]
+}
