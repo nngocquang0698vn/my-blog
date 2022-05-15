@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chelsea M. Cameron" ],
+        "nickname" : [ "chel_c_cam" ],
+        "numeric-id" : [ "217920349" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1304934085396176901/a2mZQm65.jpg" ],
+        "published" : [ "2010-11-20T22:32:05+00:00" ],
+        "uid" : [ "tag:twitter.com:chel_c_cam" ],
+        "url" : [ "https://twitter.com/chel_c_cam", "http://chelseamcameron.com", "http://ow.ly/lCnt50FIZyr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My friend Liz is a vet tech, and they call the cats they have to wrap up so they don’t claw the vet “spicy purritos” \nI thought everyone needed to know</div>",
+      "value" : "My friend Liz is a vet tech, and they call the cats they have to wrap up so they don’t claw the vet “spicy purritos” \nI thought everyone needed to know"
+    } ],
+    "published" : [ "2022-05-14T02:33:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1525303261930172418" ],
+    "url" : [ "https://twitter.com/chel_c_cam/status/1525303261930172418" ]
+  },
+  "type" : [ "h-entry" ]
+}
