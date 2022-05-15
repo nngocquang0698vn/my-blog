@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chromakode/status/1524796921461735425" ],
     "name" : [ "Like of @chromakode's tweet" ],
     "published" : [ "2022-05-15T16:21:00+0100" ],
     "category" : [ "linux" ],
