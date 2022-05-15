@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "feminist next door" ],
+        "nickname" : [ "emrazz" ],
+        "numeric-id" : [ "30395567" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/974196423586656256/tTVyL3bb.jpg" ],
+        "published" : [ "2009-04-11T04:15:57+00:00" ],
+        "uid" : [ "tag:twitter.com:emrazz" ],
+        "url" : [ "https://twitter.com/emrazz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not   all   men   but\n\nall   men   benefit   and\n\nall   men   know   that’s   why\n\nfew   men   care.</div>",
+      "value" : "Not   all   men   but\n\nall   men   benefit   and\n\nall   men   know   that’s   why\n\nfew   men   care."
+    } ],
+    "published" : [ "2022-05-14T19:16:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1525555607906000898" ],
+    "url" : [ "https://twitter.com/emrazz/status/1525555607906000898" ]
+  },
+  "type" : [ "h-entry" ]
+}
