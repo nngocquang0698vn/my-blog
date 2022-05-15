@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/amday1978/status/1525691384480550913" ],
     "name" : [ "Like of @amday1978's tweet" ],
     "published" : [ "2022-05-15T09:56:00+0100" ],
     "like-of" : [ "https://twitter.com/amday1978/status/1525691384480550913" ],
