@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "All someone needs to do here is implement RFC 8705 and write like 150 lines of Go in a front-end proxy and you've got yourself a very well funded startup please do this so I don't have to" ],
+    "in-reply-to" : [ "https://twitter.com/mjg59/status/1525785013991530496" ],
+    "published" : [ "2022-05-15T10:30:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1525785760292433921" ],
+    "url" : [ "https://twitter.com/mjg59/status/1525785760292433921" ]
+  },
+  "type" : [ "h-entry" ]
+}
