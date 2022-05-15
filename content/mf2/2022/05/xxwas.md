@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rothgar/status/1525804702977368064" ],
     "name" : [ "Like of @rothgar's tweet" ],
     "published" : [ "2022-05-15T13:25:00+0100" ],
     "category" : [ "cryptocurrency" ],
