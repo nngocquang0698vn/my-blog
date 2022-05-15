@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ryanair/status/1525083159725056002" ],
     "name" : [ "Like of @Ryanair's tweet" ],
     "published" : [ "2022-05-15T07:49:00+0100" ],
     "category" : [ "cryptocurrency" ],
