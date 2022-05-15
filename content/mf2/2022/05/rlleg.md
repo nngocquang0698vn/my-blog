@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlexJaySINGER/status/1525507702985830404" ],
     "name" : [ "Like of @AlexJaySINGER's tweet" ],
     "published" : [ "2022-05-15T18:57:00+0100" ],
     "like-of" : [ "https://twitter.com/AlexJaySINGER/status/1525507702985830404" ],
