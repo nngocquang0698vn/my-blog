@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Phender/status/1525633788444827650" ],
     "name" : [ "Like of @Phender's tweet" ],
     "published" : [ "2022-05-16T12:58:00+0100" ],
     "like-of" : [ "https://twitter.com/Phender/status/1525633788444827650" ],
