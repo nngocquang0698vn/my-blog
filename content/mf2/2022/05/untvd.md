@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CodeNewbies/status/1522320313941467138" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1526105355415076865" ],
     "name" : [ "Reply to https://twitter.com/CodeNewbies/status/1522320313941467138" ],
     "published" : [ "2022-05-16T08:32:00+0100" ],
     "category" : [ "interviewing" ],
