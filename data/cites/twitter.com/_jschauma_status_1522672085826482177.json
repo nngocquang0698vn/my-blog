@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Schaumann" ],
+        "nickname" : [ "jschauma" ],
+        "numeric-id" : [ "169213944" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/551217713230528512/t4O7Iflt.jpeg" ],
+        "published" : [ "2010-07-21T20:33:15+00:00" ],
+        "uid" : [ "tag:twitter.com:jschauma" ],
+        "url" : [ "https://twitter.com/jschauma", "https://www.netmeister.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Me: \"Oh, json, sweet, I can use jq(1), because jq(1) is awesome!\"\n\nAlso me:\n\njq '.field'\njq '.[] | .field'\njq '.[].element.field'\njq '.element.field | .[]'\njq '.element.[] | .field'\njq '.element | .select(field)'\njq '.element | [].field'\njq '.element | .[].field'\n\nEvery. Time.</div>",
+      "value" : "Me: \"Oh, json, sweet, I can use jq(1), because jq(1) is awesome!\"\n\nAlso me:\n\njq '.field'\njq '.[] | .field'\njq '.[].element.field'\njq '.element.field | .[]'\njq '.element.[] | .field'\njq '.element | .select(field)'\njq '.element | [].field'\njq '.element | .[].field'\n\nEvery. Time."
+    } ],
+    "published" : [ "2022-05-06T20:18:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1522672085826482177" ],
+    "url" : [ "https://twitter.com/jschauma/status/1522672085826482177" ]
+  },
+  "type" : [ "h-entry" ]
+}
