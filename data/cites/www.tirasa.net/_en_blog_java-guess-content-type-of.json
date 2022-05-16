@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Java: guess content type of byte array" ],
+    "summary" : [ "Maybe it is a not a common usecase, but I've just had need to know the content type of a bare byte[ ]. After been searching the whole Internet and ..." ],
+    "featured" : [ "images/blog/default/code_experience.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Francesco Chicchiriccò" ]
+      }
+    } ],
+    "url" : [ "https://www.tirasa.net/en/blog/java-guess-content-type-of" ]
+  }
+}
