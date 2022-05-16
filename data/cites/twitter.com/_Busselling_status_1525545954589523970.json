@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Bussell" ],
+        "nickname" : [ "Busselling" ],
+        "numeric-id" : [ "524395923" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524710479909822467/Q9m56kei.jpg" ],
+        "published" : [ "2012-03-14T14:19:56+00:00" ],
+        "uid" : [ "tag:twitter.com:Busselling" ],
+        "url" : [ "https://twitter.com/Busselling", "http://www.uncannykingdom.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Caught Sideshow Bob out driving today." ],
+    "photo" : [ "https://pbs.twimg.com/media/FSvT8YOXEAA1MdP.jpg" ],
+    "published" : [ "2022-05-14T18:37:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1525545954589523970" ],
+    "url" : [ "https://twitter.com/Busselling/status/1525545954589523970" ]
+  },
+  "type" : [ "h-entry" ]
+}
