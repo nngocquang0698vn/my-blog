@@ -1,0 +1,25 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Kelsey Hightower" ],
+        "nickname" : [ "kelseyhightower" ],
+        "numeric-id" : [ "159822053" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204077305271705606/j5XjhPAt.jpg" ],
+        "published" : [ "2010-06-26T12:24:45+00:00" ],
+        "uid" : [ "tag:twitter.com:kelseyhightower" ],
+        "url" : [ "https://twitter.com/kelseyhightower" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">How are Go developers handling errors in defer statements?\n\nI gotta feeling most people are ignoring them, because logging the error feels like noise, especially when there isn't much you can do about it.</div>",
+      "value" : "How are Go developers handling errors in defer statements?\n\nI gotta feeling most people are ignoring them, because logging the error feels like noise, especially when there isn't much you can do about it."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FS52t0BVsAARcFA.jpg" ],
+    "published" : [ "2022-05-16T19:46:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1526288016129462272" ],
+    "url" : [ "https://twitter.com/kelseyhightower/status/1526288016129462272" ]
+  },
+  "type" : [ "h-entry" ]
+}
