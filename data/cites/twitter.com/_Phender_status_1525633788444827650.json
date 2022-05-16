@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Elon Duck, King of Quacker" ],
+        "nickname" : [ "Phender" ],
+        "numeric-id" : [ "17817858" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484621993878200328/MZel7Wb_.jpg" ],
+        "published" : [ "2008-12-02T20:40:04+00:00" ],
+        "uid" : [ "tag:twitter.com:Phender" ],
+        "url" : [ "https://twitter.com/Phender", "http://www.1800gotbats.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "So, Twitter Legal just called you about breaking the NDA you agreed to, and your first thought was to tweet about it? Smart.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/PPathole\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Twitter\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/elonmusk\"></a>",
+      "value" : "So, Twitter Legal just called you about breaking the NDA you agreed to, and your first thought was to tweet about it? Smart."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/elonmusk/status/1525615849167589380" ],
+    "published" : [ "2022-05-15T00:26:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1525633788444827650" ],
+    "url" : [ "https://twitter.com/Phender/status/1525633788444827650" ]
+  },
+  "type" : [ "h-entry" ]
+}
