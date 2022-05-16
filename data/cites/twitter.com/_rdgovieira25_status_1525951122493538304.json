@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Florianópolis, Brasil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rodrigo" ],
+        "nickname" : [ "rdgovieira25" ],
+        "numeric-id" : [ "184591072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415982097228083203/HidkOLGX.jpg" ],
+        "published" : [ "2010-08-29T23:55:02+00:00" ],
+        "uid" : [ "tag:twitter.com:rdgovieira25" ],
+        "url" : [ "https://twitter.com/rdgovieira25", "http://instagram.com/rdgovieira25" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Sysadmin without root access\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/maybeayes\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rothgar\"></a>",
+      "value" : "Sysadmin without root access"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/maybeayes/status/1525930313280393216" ],
+    "published" : [ "2022-05-15T21:27:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1525951122493538304" ],
+    "url" : [ "https://twitter.com/rdgovieira25/status/1525951122493538304" ]
+  },
+  "type" : [ "h-entry" ]
+}
