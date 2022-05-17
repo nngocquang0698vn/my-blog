@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophiebits/status/1526426166881419264" ],
     "name" : [ "Like of @sophiebits's tweet" ],
     "published" : [ "2022-05-17T09:17:00+0100" ],
     "category" : [ "coronavirus", "memes" ],
