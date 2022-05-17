@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Haggis_UK/status/1526561372791775238" ],
     "name" : [ "Like of @Haggis_UK's tweet" ],
     "published" : [ "2022-05-17T22:06:00+0100" ],
     "like-of" : [ "https://twitter.com/Haggis_UK/status/1526561372791775238" ],
