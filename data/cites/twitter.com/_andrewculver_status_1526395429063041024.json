@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andrew Culver" ],
+        "nickname" : [ "andrewculver" ],
+        "numeric-id" : [ "11467732" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1142674011211497472/Xi4HaRJv.jpg" ],
+        "published" : [ "2007-12-24T03:04:28+00:00" ],
+        "uid" : [ "tag:twitter.com:andrewculver" ],
+        "url" : [ "https://twitter.com/andrewculver", "https://discord.gg/bullettrain", "http://bullettrain.co", "http://basicstand.com", "http://rails.new", "http://magicte.st", "http://partia.ls", "http://churnbuster.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Funniest part of implementing this was I had to rework the system test suite because it started failing everywhere we were using passwords like \"password123\". <a href=\"https://github.com/bullet-train-co/bullet_train/commit/cd1acd7b615925559444efa41f308befac647b61\">github.com/bullet-train-c…</a>",
+      "value" : "Funniest part of implementing this was I had to rework the system test suite because it started failing everywhere we were using passwords like \"password123\". github.com/bullet-train-c…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/andrewculver/status/1526388973077114880" ],
+    "published" : [ "2022-05-17T02:53:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1526395429063041024" ],
+    "url" : [ "https://twitter.com/andrewculver/status/1526395429063041024" ]
+  },
+  "type" : [ "h-entry" ]
+}
