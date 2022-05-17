@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "san francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Alpert" ],
+        "nickname" : [ "sophiebits" ],
+        "numeric-id" : [ "5697222" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg" ],
+        "published" : [ "2007-05-01T23:04:08+00:00" ],
+        "uid" : [ "tag:twitter.com:sophiebits" ],
+        "url" : [ "https://twitter.com/sophiebits", "https://sophiebits.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "photo of a book cover edited to say \"all my friends have covid\" (though you can't see the original title in the photo, it could be recognized as the book \"all my friends are dead\" and has a dino on the cover. authored by Avery Monsen and Jory John)",
+      "value" : "https://pbs.twimg.com/media/FS70eG8UAAAzkEu.jpg"
+    } ],
+    "published" : [ "2022-05-17T04:55:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1526426166881419264" ],
+    "url" : [ "https://twitter.com/sophiebits/status/1526426166881419264" ]
+  },
+  "type" : [ "h-entry" ]
+}
