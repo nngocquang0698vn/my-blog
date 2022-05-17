@@ -12,5 +12,5 @@
   "kind" : "likes",
   "slug" : "2022/04/5qac9",
   "tags" : [ "indieweb" ],
-  "client_id" : "https://gitlab.com/jamietanna/micropub-go/"
+  "client_id" : "https://micropub-go.tanna.dev/"
 }

@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-app",
+    "h-x-app"
+  ],
+  "properties": {
+    "name": [
+      "micropub-go"
+    ],
+    "url": [
+      "https://micropub-go.tanna.dev/"
+    ],
+    "author": [
+      {
+        "value": "Jamie Tanna",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "https://www.jvt.me/"
+          ],
+          "name": [
+            "Jamie Tanna"
+          ]
+        }
+      }
+    ]
+  }
+}

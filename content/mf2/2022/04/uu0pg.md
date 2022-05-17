@@ -13,5 +13,5 @@
   "kind" : "likes",
   "slug" : "2022/04/uu0pg",
   "tags" : [ "ruby", "refactoring" ],
-  "client_id" : "https://gitlab.com/jamietanna/micropub-go/"
+  "client_id" : "https://micropub-go.tanna.dev/"
 }

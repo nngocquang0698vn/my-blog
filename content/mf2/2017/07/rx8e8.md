@@ -9,5 +9,5 @@
   },
   "kind" : "listens",
   "slug" : "2017/07/rx8e8",
-  "client_id" : "https://gitlab.com/jamietanna/micropub-go/"
+  "client_id" : "https://micropub-go.tanna.dev/"
 }

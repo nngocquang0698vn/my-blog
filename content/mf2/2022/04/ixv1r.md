@@ -9,5 +9,5 @@
   },
   "kind" : "listens",
   "slug" : "2022/04/ixv1r",
-  "client_id" : "https://gitlab.com/jamietanna/micropub-go/"
+  "client_id" : "https://micropub-go.tanna.dev/"
 }
