@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/EddieHinkle/status/1526276329066450944" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1526466352344621056" ],
     "published" : [ "2022-05-17T08:27:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
