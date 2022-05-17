@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Tacoviva" ],
+          "nickname" : [ "madatmeagain" ],
+          "numeric-id" : [ "1505567251990294528" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1505568859234914313/FiR2kqkA.jpg" ],
+          "published" : [ "2022-03-20T15:29:50+00:00" ],
+          "uid" : [ "tag:twitter.com:madatmeagain" ],
+          "url" : [ "https://twitter.com/madatmeagain" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "The world doesn’t need to change to accommodate your illness. YOU need to fix your illness to get right with the world.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MsMelChen\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zookmann\"></a>",
+        "value" : "The world doesn’t need to change to accommodate your illness. YOU need to fix your illness to get right with the world."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/zookmann/status/1526424473192177664" ],
+      "published" : [ "2022-05-17T05:05:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1526428755207630848" ],
+      "url" : [ "https://twitter.com/madatmeagain/status/1526428755207630848" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Olympia, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jesse Zook Mann" ],
+        "nickname" : [ "zookmann" ],
+        "numeric-id" : [ "15857447" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524527011326095360/4sS9HGBv.jpg" ],
+        "published" : [ "2008-08-14T23:51:08+00:00" ],
+        "uid" : [ "tag:twitter.com:zookmann" ],
+        "url" : [ "https://twitter.com/zookmann", "https://zookmann.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "People living with mental illness do our absolute best to heal. We still deserve to live a full life as much as everyone." ],
+    "published" : [ "2022-05-17T05:46:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1526439093227270144" ],
+    "url" : [ "https://twitter.com/zookmann/status/1526439093227270144" ]
+  },
+  "type" : [ "h-entry" ]
+}
