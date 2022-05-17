@@ -9,7 +9,7 @@
     "post-status" : [ "published" ],
     "content" : [ {
       "html" : "",
-      "value" : "Has anyone got a good example of a CLI that allows CRUD operations across many fields, some which are optional and some which are multi-value?"
+      "value" : "Has anyone got a good example of a CLI that allows CRUD operations across many fields, some which are optional and some which are multi-value?\r\n\r\nI'm using `glab` and `gh` as inspiration, but wondered if there are other ones I can follow"
     } ]
   },
   "kind" : "notes",
