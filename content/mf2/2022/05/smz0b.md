@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/molly0xFFF/status/1526201427604946947" ],
     "name" : [ "Like of @molly0xFFF's tweet" ],
     "published" : [ "2022-05-17T07:55:00+0100" ],
     "category" : [ "cryptocurrency" ],
