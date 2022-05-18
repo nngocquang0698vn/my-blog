@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BBCLauraKT/status/1526684888543506432" ],
     "name" : [ "Like of @BBCLauraKT's tweet" ],
     "published" : [ "2022-05-18T22:15:00+0100" ],
     "category" : [ "brexshit" ],
