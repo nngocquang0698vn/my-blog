@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie Gerard 🏳️‍🌈" ],
+        "nickname" : [ "devdevcharlie" ],
+        "numeric-id" : [ "99135401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499428216108294152/KA6f3tkM.jpg" ],
+        "published" : [ "2009-12-24T16:53:15+00:00" ],
+        "uid" : [ "tag:twitter.com:devdevcharlie" ],
+        "url" : [ "https://twitter.com/devdevcharlie", "https://charliegerard.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Oh no...\n\nI highly recommend reading this new research about how users' email addresses are exfiltrated to marketing and analytics domains BEFORE form submission and giving consent.\n\nTested it on GitLab and yep, email address leaked before submission.🙃\n\n<a href=\"https://homes.esat.kuleuven.be/~asenol/leaky-forms/\">homes.esat.kuleuven.be/~asenol/leaky-…</a></div>",
+      "value" : "Oh no...\n\nI highly recommend reading this new research about how users' email addresses are exfiltrated to marketing and analytics domains BEFORE form submission and giving consent.\n\nTested it on GitLab and yep, email address leaked before submission.🙃\n\nhomes.esat.kuleuven.be/~asenol/leaky-…"
+    } ],
+    "published" : [ "2022-05-18T03:03:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1526760243710943233" ],
+    "url" : [ "https://twitter.com/devdevcharlie/status/1526760243710943233" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FTAiAGFVUAA52Of.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
