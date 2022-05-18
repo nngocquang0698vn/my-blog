@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ivan Pedrazas" ],
+        "nickname" : [ "ipedrazas" ],
+        "numeric-id" : [ "3222041" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923462845135835137/p4GALShZ.jpg" ],
+        "published" : [ "2007-04-02T15:15:29+00:00" ],
+        "uid" : [ "tag:twitter.com:ipedrazas" ],
+        "url" : [ "https://twitter.com/ipedrazas", "https://github.com/ipedrazas" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My tweet has the text. This is a distributed tweet.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/danielbryantuk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/devopsdomi\"></a>",
+      "value" : "My tweet has the text. This is a distributed tweet."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/devopsdomi/status/1526933709672284161" ],
+    "published" : [ "2022-05-18T14:33:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1526934027806056449" ],
+    "url" : [ "https://twitter.com/ipedrazas/status/1526934027806056449" ]
+  },
+  "type" : [ "h-entry" ]
+}
