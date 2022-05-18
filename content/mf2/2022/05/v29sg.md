@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NoContextBrits/status/1526848756100091904" ],
     "name" : [ "Like of @NoContextBrits's tweet" ],
     "published" : [ "2022-05-18T21:55:00+0100" ],
     "like-of" : [ "https://twitter.com/NoContextBrits/status/1526848756100091904" ],
