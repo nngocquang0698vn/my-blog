@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anaïs Urlichs @ KubeCon ☀️" ],
+        "nickname" : [ "urlichsanais" ],
+        "numeric-id" : [ "992776956662906880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526898440843796482/F3L8dVEL.jpg" ],
+        "published" : [ "2018-05-05T14:44:06+00:00" ],
+        "uid" : [ "tag:twitter.com:urlichsanais" ],
+        "url" : [ "https://twitter.com/urlichsanais", "https://www.youtube.com/c/AnaisUrlichs?sub_confirmation=1", "http://anaisurl.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I learnt yesterday to not network after dinner\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ScribblingOn\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/veekorbes\"></a>",
+      "value" : "I learnt yesterday to not network after dinner"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/veekorbes/status/1526989364777168896" ],
+    "published" : [ "2022-05-19T05:29:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1527159385419571200" ],
+    "url" : [ "https://twitter.com/urlichsanais/status/1527159385419571200" ]
+  },
+  "type" : [ "h-entry" ]
+}
