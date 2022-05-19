@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK ➼" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lex Lofthouse" ],
+        "nickname" : [ "Loftio" ],
+        "numeric-id" : [ "19788371" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1138757469176508417/Hc1FJP7a.png" ],
+        "published" : [ "2009-01-30T21:03:02+00:00" ],
+        "uid" : [ "tag:twitter.com:Loftio" ],
+        "url" : [ "https://twitter.com/Loftio", "http://loftio.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">hot desking\n\nwhoever thought that was a good idea is a menace</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jesslynnrose\"></a>",
+      "value" : "hot desking\n\nwhoever thought that was a good idea is a menace"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jesslynnrose/status/1526948399404171264" ],
+    "published" : [ "2022-05-18T15:33:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1526948999160373249" ],
+    "url" : [ "https://twitter.com/Loftio/status/1526948999160373249" ]
+  },
+  "type" : [ "h-entry" ]
+}
