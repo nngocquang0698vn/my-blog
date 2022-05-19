@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Warsaw" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "pur3speed" ],
+          "nickname" : [ "pur3speed" ],
+          "numeric-id" : [ "1310485572721532928" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1310497236699222018/ZZ8AO4aO.jpg" ],
+          "published" : [ "2020-09-28T07:45:01+00:00" ],
+          "uid" : [ "tag:twitter.com:pur3speed" ],
+          "url" : [ "https://twitter.com/pur3speed" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\"stay punk\" - still wearing a mask 😂😂😂 such a posers\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/IanColdwater\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bigendiansmalls\"></a>",
+        "value" : "\"stay punk\" - still wearing a mask 😂😂😂 such a posers"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/IanColdwater/status/1527277064688377857" ],
+      "published" : [ "2022-05-19T13:42:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1527283493385818113" ],
+      "url" : [ "https://twitter.com/pur3speed/status/1527283493385818113" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ian Coldwater @KubeCon 📦💥" ],
+        "nickname" : [ "IanColdwater" ],
+        "numeric-id" : [ "711367366756720640" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458952531925680128/ZdwHBcz_.jpg" ],
+        "published" : [ "2016-03-20T01:42:51+00:00" ],
+        "uid" : [ "tag:twitter.com:IanColdwater" ],
+        "url" : [ "https://twitter.com/IanColdwater" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Caring about other people is punk as fuck" ],
+    "published" : [ "2022-05-19T14:12:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1527291178848096258" ],
+    "url" : [ "https://twitter.com/IanColdwater/status/1527291178848096258" ]
+  },
+  "type" : [ "h-entry" ]
+}
