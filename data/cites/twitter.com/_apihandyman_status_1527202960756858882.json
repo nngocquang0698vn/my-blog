@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Paris, France" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "API Handyman" ],
+        "nickname" : [ "apihandyman" ],
+        "numeric-id" : [ "2943613557" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf.jpg" ],
+        "published" : [ "2014-12-27T11:25:37+00:00" ],
+        "uid" : [ "tag:twitter.com:apihandyman" ],
+        "url" : [ "https://twitter.com/apihandyman", "https://apihandyman.io/", "http://bit.ly/designwebapis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The Rules of the Standards club:\n1. Check if you actually need to create one\n2. Check you can't use an existing one\n3. Take advantage of other standards and practices\n4. Put a version number inside documents\n5. Provide tools from the start\n6. Think extensibility\nWhat else?</div>",
+      "value" : "The Rules of the Standards club:\n1. Check if you actually need to create one\n2. Check you can't use an existing one\n3. Take advantage of other standards and practices\n4. Put a version number inside documents\n5. Provide tools from the start\n6. Think extensibility\nWhat else?"
+    } ],
+    "published" : [ "2022-05-19T08:22:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1527202960756858882" ],
+    "url" : [ "https://twitter.com/apihandyman/status/1527202960756858882" ]
+  },
+  "type" : [ "h-entry" ]
+}
