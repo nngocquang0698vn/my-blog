@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Loftio/status/1526948999160373249" ],
     "name" : [ "Like of @Loftio's tweet" ],
     "published" : [ "2022-05-19T10:00:00+0100" ],
     "like-of" : [ "https://twitter.com/Loftio/status/1526948999160373249" ],
