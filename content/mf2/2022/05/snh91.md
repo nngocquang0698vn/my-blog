@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/apihandyman/status/1527202960756858882" ],
     "name" : [ "Like of @apihandyman's tweet" ],
     "published" : [ "2022-05-19T21:09:00+0100" ],
     "like-of" : [ "https://twitter.com/apihandyman/status/1527202960756858882" ],
