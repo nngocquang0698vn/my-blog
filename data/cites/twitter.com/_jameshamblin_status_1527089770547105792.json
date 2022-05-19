@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Hamblin" ],
+        "nickname" : [ "jameshamblin" ],
+        "numeric-id" : [ "332993870" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1047592657076334593/FUhOVbrY.jpg" ],
+        "published" : [ "2011-07-10T19:59:20+00:00" ],
+        "uid" : [ "tag:twitter.com:jameshamblin" ],
+        "url" : [ "https://twitter.com/jameshamblin", "http://body.bulletin.com/subscribe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Before you criticize Elon Musk’s politics, remember he’s the reason we have the hyperloop train that gets you from LA to SF in one hour." ],
+    "published" : [ "2022-05-19T00:52:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1527089770547105792" ],
+    "url" : [ "https://twitter.com/jameshamblin/status/1527089770547105792" ]
+  },
+  "type" : [ "h-entry" ]
+}
