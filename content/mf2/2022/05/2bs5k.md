@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/frankieboyle/status/1527756396682420224" ],
     "name" : [ "Like of @frankieboyle's tweet" ],
     "published" : [ "2022-05-20T22:34:00+0100" ],
     "like-of" : [ "https://twitter.com/frankieboyle/status/1527756396682420224" ],
