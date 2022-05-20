@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Saarland / Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Thomas Darimont" ],
+        "nickname" : [ "thomasdarimont" ],
+        "numeric-id" : [ "89477419" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1073004979508666369/UrAhYjkx.jpg" ],
+        "published" : [ "2009-11-12T16:09:34+00:00" ],
+        "uid" : [ "tag:twitter.com:thomasdarimont" ],
+        "url" : [ "https://twitter.com/thomasdarimont", "http://www.tutorials.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Passwordless <a href=\"https://twitter.com/search?q=%23keycloak\">#keycloak</a> login via <a href=\"https://twitter.com/search?q=%23webauthn\">#webauthn</a> with Fingerprint on <a href=\"https://twitter.com/search?q=%23android\">#android</a> (Pixel5)",
+      "value" : "Passwordless #keycloak login via #webauthn with Fingerprint on #android (Pixel5)"
+    } ],
+    "published" : [ "2022-05-20T05:57:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1527528836379844611" ],
+    "url" : [ "https://twitter.com/thomasdarimont/status/1527528836379844611" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1527528437849669634/pu/vid/720x1280/IWUNgA8bDFffMtjX.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
