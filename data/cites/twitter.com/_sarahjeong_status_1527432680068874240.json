@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "WokeMindVirusHat" ],
+          "nickname" : [ "Popehat" ],
+          "numeric-id" : [ "18839937" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/884879301190967296/oTCsTck5.jpg" ],
+          "published" : [ "2009-01-10T17:24:58+00:00" ],
+          "uid" : [ "tag:twitter.com:Popehat" ],
+          "url" : [ "https://twitter.com/Popehat", "https://popehat.substack.com/", "http://popehat.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "When Mr. \"I Am A Super Genius So I Can Do Anything Better Than So-Called Experts\" tries his hand at public relations crisis management" ],
+      "photo" : [ "https://pbs.twimg.com/media/FTJ6fEzUsAAkHfg.jpg" ],
+      "published" : [ "2022-05-19T22:36:24+00:00" ],
+      "uid" : [ "tag:twitter.com:1527417918257999872" ],
+      "url" : [ "https://twitter.com/Popehat/status/1527417918257999872" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/popehat/status…" ],
+      "url" : [ "https://twitter.com/popehat/status/1527417918257999872" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "sarah jeong" ],
+        "nickname" : [ "sarahjeong" ],
+        "numeric-id" : [ "47509268" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1409002235455967234/ZcTT1Xq-.jpg" ],
+        "published" : [ "2009-06-16T01:50:52+00:00" ],
+        "uid" : [ "tag:twitter.com:sarahjeong" ],
+        "url" : [ "https://twitter.com/sarahjeong" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I once did a fun cute little blog about how elon musk follows zero women on Twitter (not even his own mother). I asked SpaceX and Tesla for comment because duh and they (the PR professionals!!!) came back to me with “but he follows more women than men on Instagram.”\n<a class=\"tag\" href=\"https://twitter.com/popehat/status/1527417918257999872\">twitter.com/popehat/status…</a>",
+      "value" : "I once did a fun cute little blog about how elon musk follows zero women on Twitter (not even his own mother). I asked SpaceX and Tesla for comment because duh and they (the PR professionals!!!) came back to me with “but he follows more women than men on Instagram.”"
+    } ],
+    "published" : [ "2022-05-19T23:35:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1527432680068874240" ],
+    "url" : [ "https://twitter.com/sarahjeong/status/1527432680068874240" ]
+  },
+  "type" : [ "h-entry" ]
+}
