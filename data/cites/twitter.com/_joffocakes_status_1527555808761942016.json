@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Dillon" ],
+        "nickname" : [ "joffocakes" ],
+        "numeric-id" : [ "14257636" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466062133775450115/xS1VdQxX.png" ],
+        "published" : [ "2008-03-30T11:39:39+00:00" ],
+        "uid" : [ "tag:twitter.com:joffocakes" ],
+        "url" : [ "https://twitter.com/joffocakes", "https://youtube.com/playlist?list=PLAefg7D_HSkDoCoP53_fm8VLGtZ5mGR3v" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "is there a difference\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RhiannonNft\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/YorkshireTea\"></a>",
+      "value" : "is there a difference"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RhiannonNft/status/1527330692329136132" ],
+    "published" : [ "2022-05-20T07:44:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1527555808761942016" ],
+    "url" : [ "https://twitter.com/joffocakes/status/1527555808761942016" ]
+  },
+  "type" : [ "h-entry" ]
+}
