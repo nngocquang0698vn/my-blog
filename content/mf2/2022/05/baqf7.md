@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joffocakes/status/1527555808761942016" ],
     "name" : [ "Like of @joffocakes's tweet" ],
     "published" : [ "2022-05-20T15:55:00+0100" ],
     "category" : [ "cryptocurrency" ],
