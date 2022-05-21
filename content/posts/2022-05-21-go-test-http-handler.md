@@ -1,9 +1,9 @@
 ---
 title: "Testing Go `net/http` handlers"
 description: "How to write unit tests to validate an HTTP handler."
-date: 2022-05-21T21:44:24+0100
+date: "2022-05-21T21:44:24+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
+- "https://twitter.com/JamieTanna/status/1528116825938075648"
 tags:
 - "blogumentation"
 - "go"
