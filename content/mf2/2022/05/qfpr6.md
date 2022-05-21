@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WilsonCusack/status/1528131721702555648" ],
     "name" : [ "Like of @WilsonCusack's tweet" ],
     "published" : [ "2022-05-21T23:56:00+0100" ],
     "like-of" : [ "https://twitter.com/WilsonCusack/status/1528131721702555648" ],
