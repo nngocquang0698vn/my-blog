@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GBBranstetter/status/1528082140143009793" ],
     "name" : [ "Like of @GBBranstetter's tweet" ],
     "published" : [ "2022-05-21T22:01:00+0100" ],
     "like-of" : [ "https://twitter.com/GBBranstetter/status/1528082140143009793" ],
