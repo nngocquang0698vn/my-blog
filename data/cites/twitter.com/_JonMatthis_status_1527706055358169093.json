@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston MA USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Samir Matthis" ],
+        "nickname" : [ "JonMatthis" ],
+        "numeric-id" : [ "2788574204" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417652686065967104/uq830qlF.jpg" ],
+        "published" : [ "2014-09-03T20:31:01+00:00" ],
+        "uid" : [ "tag:twitter.com:JonMatthis" ],
+        "url" : [ "https://twitter.com/JonMatthis", "http://freemocap.org", "https://twitter.com/freemocap", "https://twitch.tv/freemocap" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Do you have any favorite resources for new-ish developers who are looking to learn how to develop great docs? \n\n..asking for a friend 😅</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kelseyhightower\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/simonw\"></a>",
+      "value" : "Do you have any favorite resources for new-ish developers who are looking to learn how to develop great docs? \n\n..asking for a friend 😅"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1527681345010339840" ],
+    "published" : [ "2022-05-20T17:41:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1527706055358169093" ],
+    "url" : [ "https://twitter.com/JonMatthis/status/1527706055358169093" ]
+  },
+  "type" : [ "h-entry" ]
+}
