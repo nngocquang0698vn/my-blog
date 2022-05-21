@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shelbyspees/status/1528081497722216449" ],
     "name" : [ "Like of @shelbyspees's tweet" ],
     "published" : [ "2022-05-22T00:00:00+0100" ],
     "category" : [ "interviewing" ],
