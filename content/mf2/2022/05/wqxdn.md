@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/danielgtaylor/huma//stargazers" ],
     "published" : [ "2022-05-21T08:33:00+0100" ],
     "category" : [ "go", "api" ],
     "like-of" : [ "https://github.com/danielgtaylor/huma/" ],
