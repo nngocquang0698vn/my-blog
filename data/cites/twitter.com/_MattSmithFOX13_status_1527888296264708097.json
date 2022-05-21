@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Smith" ],
+        "nickname" : [ "MattSmithFOX13" ],
+        "numeric-id" : [ "398036662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1357391541795315713/BSVc928p.jpg" ],
+        "published" : [ "2011-10-25T13:58:02+00:00" ],
+        "uid" : [ "tag:twitter.com:MattSmithFOX13" ],
+        "url" : [ "https://twitter.com/MattSmithFOX13", "https://www.q13fox.com/person/s/matthew-smith" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Does taking late-night swings at people you don't know on the internet count?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/boobeoisie\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/drewhastings\"></a>",
+      "value" : "Does taking late-night swings at people you don't know on the internet count?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/drewhastings/status/1527880210250612738" ],
+    "published" : [ "2022-05-21T05:45:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1527888296264708097" ],
+    "url" : [ "https://twitter.com/MattSmithFOX13/status/1527888296264708097" ]
+  },
+  "type" : [ "h-entry" ]
+}
