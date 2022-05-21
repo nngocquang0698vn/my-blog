@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alsowoodie/status/1360707517643247616" ],
     "name" : [ "Like of @alsowoodie's tweet" ],
     "published" : [ "2022-05-21T23:49:00+0100" ],
     "like-of" : [ "https://twitter.com/alsowoodie/status/1360707517643247616" ],
