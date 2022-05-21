@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Cubr" ],
+        "nickname" : [ "kylecubr" ],
+        "numeric-id" : [ "31582311" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1220490044538007552/HdmPPEzE.jpg" ],
+        "published" : [ "2009-04-16T00:58:02+00:00" ],
+        "uid" : [ "tag:twitter.com:kylecubr" ],
+        "url" : [ "https://twitter.com/kylecubr", "http://www.cinefile.info" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I love my job" ],
+    "photo" : [ "https://pbs.twimg.com/media/FTOvdvaWUAEh3ff.jpg" ],
+    "published" : [ "2022-05-20T21:06:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1527757634195046401" ],
+    "url" : [ "https://twitter.com/kylecubr/status/1527757634195046401" ]
+  },
+  "type" : [ "h-entry" ]
+}
