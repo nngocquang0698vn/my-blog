@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dmitry Novikov" ],
+        "nickname" : [ "novikoff" ],
+        "numeric-id" : [ "15277208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467650649169043459/YxfbIsBM.jpg" ],
+        "published" : [ "2008-06-30T07:37:40+00:00" ],
+        "uid" : [ "tag:twitter.com:novikoff" ],
+        "url" : [ "https://twitter.com/novikoff", "https://www.behance.net/dmitrynovikoff" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">What if Food Delivery app icon looks like Delivery bag?\n\n<a href=\"https://twitter.com/Deliveroo\">@Deliveroo</a> <a href=\"https://twitter.com/search?q=%23ux\">#ux</a> <a href=\"https://twitter.com/search?q=%23ui\">#ui</a> <a href=\"https://twitter.com/search?q=%23icon\">#icon</a> <a href=\"https://twitter.com/search?q=%23concept\">#concept</a></div>",
+      "value" : "What if Food Delivery app icon looks like Delivery bag?\n\n@Deliveroo #ux #ui #icon #concept"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Hackney, London" ],
+        "uid" : [ "tag:twitter.com:2a3f152d1ac5044a" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FTSHiDrWUAIXm7V.jpg", "https://pbs.twimg.com/media/FTSHiDpWQAMF-5E.jpg" ],
+    "published" : [ "2022-05-21T12:50:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1527995196260106242" ],
+    "url" : [ "https://twitter.com/novikoff/status/1527995196260106242" ]
+  },
+  "type" : [ "h-entry" ]
+}
