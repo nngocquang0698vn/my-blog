@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kvlly/status/1528020781070000128" ],
     "name" : [ "Like of @kvlly's tweet" ],
     "published" : [ "2022-05-21T15:40:00+0100" ],
     "like-of" : [ "https://twitter.com/kvlly/status/1528020781070000128" ],
