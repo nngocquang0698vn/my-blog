@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Somewhere north of Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Savage (he/him/his) 🌧" ],
+        "nickname" : [ "Mat__Savage" ],
+        "numeric-id" : [ "19154281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517290434036330496/nOYJFy4J.jpg" ],
+        "published" : [ "2009-01-18T19:15:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Mat__Savage" ],
+        "url" : [ "https://twitter.com/Mat__Savage" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "With a rusty rake\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/juliaferraioli\"></a>",
+      "value" : "With a rusty rake"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/juliaferraioli/status/1528219237713600513" ],
+    "published" : [ "2022-05-22T03:41:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1528219410925645825" ],
+    "url" : [ "https://twitter.com/Mat__Savage/status/1528219410925645825" ]
+  },
+  "type" : [ "h-entry" ]
+}
