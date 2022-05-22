@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MikeIsaac/status/1528216570832400384" ],
     "name" : [ "Like of @MikeIsaac's tweet" ],
     "published" : [ "2022-05-22T07:38:00+0100" ],
     "category" : [ "cryptocurrency" ],
