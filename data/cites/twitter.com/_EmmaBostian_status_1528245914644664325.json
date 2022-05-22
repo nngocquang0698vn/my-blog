@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1511940045065834497/COH-Et84.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Since I’m now outdated and obsolete, here are some baby photos to prove how happy my baby is and how successful I am as a mom since, you know, I can’t be a programmer anymore 💁‍♀️" ],
+    "photo" : [ {
+      "alt" : "Freja in a pink outfit and headband smiling slyly.",
+      "value" : "https://pbs.twimg.com/media/FTVriZXWQAATeuW.jpg"
+    }, {
+      "alt" : "Freja in a pink outfit and headband smiling big!",
+      "value" : "https://pbs.twimg.com/media/FTVriZaX0AEUeQQ.jpg"
+    }, {
+      "alt" : "Freja in a Siena College onesie smiling big.",
+      "value" : "https://pbs.twimg.com/media/FTVricDXoAAOR1A.jpg"
+    } ],
+    "published" : [ "2022-05-22T05:26:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1528245914644664325" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1528245914644664325" ]
+  },
+  "type" : [ "h-entry" ]
+}
