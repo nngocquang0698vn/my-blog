@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/caedmonr_/status/1528107425269698565" ],
     "name" : [ "Like of @caedmonr_'s tweet" ],
     "published" : [ "2022-05-22T20:55:00+0100" ],
     "category" : [ "latex" ],
