@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/juliaferraioli/status/1528219566626639874" ],
     "name" : [ "Like of @juliaferraioli's tweet" ],
     "published" : [ "2022-05-22T07:40:00+0100" ],
     "like-of" : [ "https://twitter.com/juliaferraioli/status/1528219566626639874" ],
