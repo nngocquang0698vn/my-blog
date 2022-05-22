@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oulu, Finland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simo Nurmi" ],
+        "nickname" : [ "NurmiSimo" ],
+        "numeric-id" : [ "28980295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/122518023/2410_64590954168_827079168_1308195_553_n.jpg" ],
+        "published" : [ "2009-04-05T12:36:19+00:00" ],
+        "uid" : [ "tag:twitter.com:NurmiSimo" ],
+        "url" : [ "https://twitter.com/NurmiSimo" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "These are not mutually exclusive concepts. A runtime crash is an accessibility concern for sure.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/argyleink\"></a>",
+      "value" : "These are not mutually exclusive concepts. A runtime crash is an accessibility concern for sure."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/argyleink/status/1528448088502718464" ],
+    "published" : [ "2022-05-22T19:13:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1528454043294654464" ],
+    "url" : [ "https://twitter.com/NurmiSimo/status/1528454043294654464" ]
+  },
+  "type" : [ "h-entry" ]
+}
