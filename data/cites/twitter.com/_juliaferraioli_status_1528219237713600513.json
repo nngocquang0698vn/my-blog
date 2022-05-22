@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ah, fuck that guy" ],
+    "published" : [ "2022-05-22T03:40:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1528219237713600513" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1528219237713600513" ]
+  },
+  "type" : [ "h-entry" ]
+}
