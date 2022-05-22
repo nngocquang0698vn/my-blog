@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "julia ferraioli" ],
+        "nickname" : [ "juliaferraioli" ],
+        "numeric-id" : [ "16597587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1023607536530989056/9Euw7-kF.jpg" ],
+        "published" : [ "2008-10-05T01:43:10+00:00" ],
+        "uid" : [ "tag:twitter.com:juliaferraioli" ],
+        "url" : [ "https://twitter.com/juliaferraioli", "https://juliaferraioli.com/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey, even rusty rakes gather leaves\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Mat__Savage\"></a>",
+      "value" : "Hey, even rusty rakes gather leaves"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Mat__Savage/status/1528219410925645825" ],
+    "published" : [ "2022-05-22T03:41:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1528219566626639874" ],
+    "url" : [ "https://twitter.com/juliaferraioli/status/1528219566626639874" ]
+  },
+  "type" : [ "h-entry" ]
+}
