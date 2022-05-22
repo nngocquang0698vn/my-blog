@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kittylyst/status/1528307686282088449" ],
     "name" : [ "Like of @kittylyst's tweet" ],
     "published" : [ "2022-05-22T11:12:00+0100" ],
     "like-of" : [ "https://twitter.com/kittylyst/status/1528307686282088449" ],
