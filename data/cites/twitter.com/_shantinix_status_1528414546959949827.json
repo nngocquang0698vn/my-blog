@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Shantini" ],
+        "nickname" : [ "shantinix" ],
+        "numeric-id" : [ "34347046" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1528207472489644033/U1Wfiz9T.jpg" ],
+        "published" : [ "2009-04-22T18:08:56+00:00" ],
+        "uid" : [ "tag:twitter.com:shantinix" ],
+        "url" : [ "https://twitter.com/shantinix" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "normalize telling friends you love them" ],
+    "published" : [ "2022-05-22T16:36:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1528414546959949827" ],
+    "url" : [ "https://twitter.com/shantinix/status/1528414546959949827" ]
+  },
+  "type" : [ "h-entry" ]
+}
