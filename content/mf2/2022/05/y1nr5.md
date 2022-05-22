@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/boobeoisie/status/1527837502819774464" ],
     "name" : [ "Like of @boobeoisie's tweet" ],
     "published" : [ "2022-05-21T19:21:00+0100" ],
     "like-of" : [ "https://twitter.com/boobeoisie/status/1527837502819774464" ],
