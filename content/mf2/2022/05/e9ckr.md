@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theillustrious/status/1528192120615469056" ],
     "name" : [ "Like of @theillustrious's tweet" ],
     "published" : [ "2022-05-22T22:18:00+0100" ],
     "like-of" : [ "https://twitter.com/theillustrious/status/1528192120615469056" ],
