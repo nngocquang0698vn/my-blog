@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/huwartthou/status/1528112332681138176" ],
     "name" : [ "Like of @huwartthou's tweet" ],
     "published" : [ "2022-05-22T13:45:00+0100" ],
     "like-of" : [ "https://twitter.com/huwartthou/status/1528112332681138176" ],
