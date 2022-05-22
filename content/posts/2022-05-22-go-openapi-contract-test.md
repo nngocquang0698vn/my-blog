@@ -1,18 +1,19 @@
 ---
 title: "Introducing a library for OpenAPI contract testing with Go's `net/http` package"
-description: "Creating a Go library that can verify `net/http` handlers implement an OpenAPI contract, for use with testing."
-tags:
-- go
-- openapi
-- testing
-- contract-testing
-license_code: Apache-2.0
-license_prose: CC-BY-NC-SA-4.0
-date: 2022-05-22T19:00:12+0100
-slug: go-openapi-contract-test
+description: "Creating a Go library that can verify `net/http` handlers implement\
+  \ an OpenAPI contract, for use with testing."
+date: "2022-05-22T19:00:12+0100"
 syndication:
-- "https://brid.gy/publish/twitter"
-image: https://media.jvt.me/7be186e7a3.png
+- "https://twitter.com/JamieTanna/status/1528438121892913152"
+tags:
+- "go"
+- "openapi"
+- "testing"
+- "contract-testing"
+license_code: "Apache-2.0"
+license_prose: "CC-BY-NC-SA-4.0"
+image: "https://media.jvt.me/7be186e7a3.png"
+slug: "go-openapi-contract-test"
 ---
 I've recently been working on building a Go API, which is driven through an [OpenAPI](https://openapis.org) specification, and has almost all of the code generated through the awesome [oapi-codegen](https://github.com/deepmap/oapi-codegen).
 
