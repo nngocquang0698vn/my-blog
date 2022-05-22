@@ -111,7 +111,7 @@ This produces the following JSON (pretty printed for readability):
 [
   {
     "Name": "indieauth-authentication",
-    "Value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.v_0JC3xuGZN0e1CzN-bxexJ5JYDQsEUYWF4UPcILi98",
+    "Value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.",
     "Path": "",
     "Domain": "",
     "Expires": "0001-01-01T00:00:00Z",
@@ -120,7 +120,7 @@ This produces the following JSON (pretty printed for readability):
     "Secure": true,
     "HttpOnly": true,
     "SameSite": 0,
-    "Raw": "indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.v_0JC3xuGZN0e1CzN-bxexJ5JYDQsEUYWF4UPcILi98; Secure; HttpOnly",
+    "Raw": "indieauth-authentication=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkyMzQ3NjIsInByb2ZpbGVfdXJsIjoiaHR0cHM6XC9cL3d3dy5zdGFnaW5nLmp2dC5tZVwvIn0.; Secure; HttpOnly",
     "Unparsed": null
   }
 ]
