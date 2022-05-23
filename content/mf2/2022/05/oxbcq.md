@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BuzzFeed/status/1528517431731298304" ],
     "name" : [ "Like of @BuzzFeed's tweet" ],
     "published" : [ "2022-05-23T07:44:00+0100" ],
     "category" : [ "snl" ],
