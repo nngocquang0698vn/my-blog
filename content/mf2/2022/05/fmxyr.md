@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/julieklausner/status/1528459987931914240" ],
     "name" : [ "Like of @julieklausner's tweet" ],
     "published" : [ "2022-05-23T20:54:00+0100" ],
     "like-of" : [ "https://twitter.com/julieklausner/status/1528459987931914240" ],
