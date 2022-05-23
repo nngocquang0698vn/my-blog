@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brandon West" ],
+        "nickname" : [ "bwest" ],
+        "numeric-id" : [ "16517063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415449869389471744/bYZA7D_d.jpg" ],
+        "published" : [ "2008-09-29T19:44:02+00:00" ],
+        "uid" : [ "tag:twitter.com:bwest" ],
+        "url" : [ "https://twitter.com/bwest", "http://bwe.st" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hey Ryan, good tweet! Still offering beer on tap at the office? <a href=\"https://www.builtinla.com/company/flexport/benefits\">builtinla.com/company/flexpo…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/typesfast\"></a>",
+      "value" : "Hey Ryan, good tweet! Still offering beer on tap at the office? builtinla.com/company/flexpo…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/typesfast/status/1527690318857981953" ],
+    "photo" : [ "https://pbs.twimg.com/media/FTP7e8ZVIAEkdiZ.jpg" ],
+    "published" : [ "2022-05-21T02:38:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1527841210039009280" ],
+    "url" : [ "https://twitter.com/bwest/status/1527841210039009280" ]
+  },
+  "type" : [ "h-entry" ]
+}
