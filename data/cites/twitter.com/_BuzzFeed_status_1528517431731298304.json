@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BuzzFeed" ],
+        "nickname" : [ "BuzzFeed" ],
+        "numeric-id" : [ "5695632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520685657496055809/OGFvmDA0.jpg" ],
+        "published" : [ "2007-05-01T21:40:03+00:00" ],
+        "uid" : [ "tag:twitter.com:BuzzFeed" ],
+        "url" : [ "https://twitter.com/BuzzFeed", "http://buzzfeed.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The Kate McKinnon/Aidy Bryant/Kyle Mooney/Pete Davidson era of Saturday Night Live has ended. \nKate and Aidy have both been on the show for 10 years, Kyle for 9, and Pete for 8. Kate is also the first cast member to win an acting Emmy on the show, and she has two of 'em.</div>",
+      "value" : "The Kate McKinnon/Aidy Bryant/Kyle Mooney/Pete Davidson era of Saturday Night Live has ended. \nKate and Aidy have both been on the show for 10 years, Kyle for 9, and Pete for 8. Kate is also the first cast member to win an acting Emmy on the show, and she has two of 'em."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/BuzzFeed/status/1528499707194101770" ],
+    "published" : [ "2022-05-22T23:25:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1528517431731298304" ],
+    "url" : [ "https://twitter.com/BuzzFeed/status/1528517431731298304" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FTZif9pXsAQlT6Q.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
