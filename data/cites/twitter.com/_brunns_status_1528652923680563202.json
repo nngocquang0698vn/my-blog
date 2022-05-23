@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Thoughtworks" ],
+          "nickname" : [ "thoughtworks" ],
+          "numeric-id" : [ "23009949" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1410154790001205250/doYOQtrs.jpg" ],
+          "published" : [ "2009-03-06T01:20:09+00:00" ],
+          "uid" : [ "tag:twitter.com:thoughtworks" ],
+          "url" : [ "https://twitter.com/thoughtworks", "http://www.thoughtworks.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Is the 'best' software architecture always the most useful one for your client? Thoughtworkers Aleix Vérges and Jorge Agudo give us their thoughts: <a href=\"https://thght.works/3wAS8dB\">thght.works/3wAS8dB</a> <a href=\"https://twitter.com/search?q=%23software\">#software</a> <a href=\"https://twitter.com/search?q=%23architecture\">#architecture</a>",
+        "value" : "Is the 'best' software architecture always the most useful one for your client? Thoughtworkers Aleix Vérges and Jorge Agudo give us their thoughts: thght.works/3wAS8dB #software #architecture"
+      } ],
+      "photo" : [ {
+        "alt" : "“Today many companies rely on web analytics data to make the right decisions and drive their business to a better place.”",
+        "value" : "https://pbs.twimg.com/media/FTbYTGOWAAA5XBs.jpg"
+      } ],
+      "published" : [ "2022-05-23T08:00:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1528646953621409793" ],
+      "url" : [ "https://twitter.com/thoughtworks/status/1528646953621409793" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Brunning" ],
+        "nickname" : [ "brunns" ],
+        "numeric-id" : [ "14409295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/793123097222213632/-8PD3aeR.jpg" ],
+        "published" : [ "2008-04-16T15:45:52+00:00" ],
+        "uid" : [ "tag:twitter.com:brunns" ],
+        "url" : [ "https://twitter.com/brunns", "http://brunni.ng" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There is no \"best\" architecture, just as there's no \"best\" technology, nor any \"best\" practice. There's only ever what you hope is best in your context." ],
+    "published" : [ "2022-05-23T08:23:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1528652923680563202" ],
+    "url" : [ "https://twitter.com/brunns/status/1528652923680563202" ]
+  },
+  "type" : [ "h-entry" ]
+}
