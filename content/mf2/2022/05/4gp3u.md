@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ri_Science/status/1528716237945044992" ],
     "name" : [ "Like of @Ri_Science's tweet" ],
     "published" : [ "2022-05-23T14:42:00+0100" ],
     "category" : [ "science" ],
