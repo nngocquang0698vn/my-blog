@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Roman Polanski's producer says France is icing the filmmaker out, as it's almost impossible to get the director's new film sold in his adopted country: “If this film doesn’t get released in France, it’s a crime.” <a href=\"https://variety.com/2022/film/news/france-falls-out-of-love-with-roman-polanski-1235272794/\">variety.com/2022/film/news…</a>",
+        "value" : "Roman Polanski's producer says France is icing the filmmaker out, as it's almost impossible to get the director's new film sold in his adopted country: “If this film doesn’t get released in France, it’s a crime.” variety.com/2022/film/news…"
+      } ],
+      "published" : [ "2022-05-22T18:05:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1528436781103841280" ],
+      "url" : [ "https://twitter.com/Variety/status/1528436781103841280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/variety/status…" ],
+      "url" : [ "https://twitter.com/variety/status/1528436781103841280" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Julie Klausner" ],
+        "nickname" : [ "julieklausner" ],
+        "numeric-id" : [ "18169589" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366084125489307652/WOz_sXlb.jpg" ],
+        "published" : [ "2008-12-16T19:06:45+00:00" ],
+        "uid" : [ "tag:twitter.com:julieklausner" ],
+        "url" : [ "https://twitter.com/julieklausner", "https://new.hotelcafe.com/event/julie-klausner-medleys-and-other-new-variants/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "you know what else is a crime\n<a class=\"tag\" href=\"https://twitter.com/variety/status/1528436781103841280\">twitter.com/variety/status…</a>",
+      "value" : "you know what else is a crime"
+    } ],
+    "published" : [ "2022-05-22T19:37:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1528459987931914240" ],
+    "url" : [ "https://twitter.com/julieklausner/status/1528459987931914240" ]
+  },
+  "type" : [ "h-entry" ]
+}
