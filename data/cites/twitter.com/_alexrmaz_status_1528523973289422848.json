@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "seantcollins.com" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sean T. Collins" ],
+          "nickname" : [ "theseantcollins" ],
+          "numeric-id" : [ "22040252" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/826276255565770754/Xxf0Ksya.jpg" ],
+          "published" : [ "2009-02-26T18:12:21+00:00" ],
+          "uid" : [ "tag:twitter.com:theseantcollins" ],
+          "url" : [ "https://twitter.com/theseantcollins", "http://patreon.com/theseantcollins" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What's the single best line reading you've ever heard in a  movie or TV show?" ],
+      "published" : [ "2022-05-21T18:55:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1528087159865057282" ],
+      "url" : [ "https://twitter.com/theseantcollins/status/1528087159865057282" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex" ],
+        "nickname" : [ "alexrmaz" ],
+        "numeric-id" : [ "1166534956107161600" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516282842405171201/oRWHi8jh.jpg" ],
+        "published" : [ "2019-08-28T02:16:30+00:00" ],
+        "uid" : [ "tag:twitter.com:alexrmaz" ],
+        "url" : [ "https://twitter.com/alexrmaz", "http://letterboxd.com/mazzayzay" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Ok this immediately comes to mind " ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Los Angeles, CA" ],
+        "uid" : [ "tag:twitter.com:3b77caf94bfc81fe" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-22T23:51:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1528523973289422848" ],
+    "url" : [ "https://twitter.com/alexrmaz/status/1528523973289422848" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1528523879651479552/pu/vid/1076x720/AQr94W7BIsAo9N5S.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
