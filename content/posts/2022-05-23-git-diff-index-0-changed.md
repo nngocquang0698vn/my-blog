@@ -1,9 +1,11 @@
 ---
-title: "Weirdness with `git diff-index` showing `1 file changed, 0 insertions(+), 0 deletions(-)`"
-description: "Something weird I hit last week with `git diff-index`, which shows 1 file changed, but no changes."
-date: 2022-05-23T09:11:22+0100
+title: "Weirdness with `git diff-index` showing `1 file changed, 0 insertions(+),\
+  \ 0 deletions(-)`"
+description: "Something weird I hit last week with `git diff-index`, which shows 1\
+  \ file changed, but no changes."
+date: "2022-05-23T09:11:22+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1528652334565294080"
 tags:
 - "blogumentation"
 - "command-line"
