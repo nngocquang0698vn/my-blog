@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Gondelman" ],
+        "nickname" : [ "joshgondelman" ],
+        "numeric-id" : [ "70111948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457723783452798981/9jVr6PKF.jpg" ],
+        "published" : [ "2009-08-30T12:40:22+00:00" ],
+        "uid" : [ "tag:twitter.com:joshgondelman" ],
+        "url" : [ "https://twitter.com/joshgondelman", "https://www.harpercollins.com/9780062959003/nice-try/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every browser wants to be your default browser, and I think they should stop being so clingy and trying to put labels on things." ],
+    "published" : [ "2022-05-23T13:17:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1528726917058273281" ],
+    "url" : [ "https://twitter.com/joshgondelman/status/1528726917058273281" ]
+  },
+  "type" : [ "h-entry" ]
+}
