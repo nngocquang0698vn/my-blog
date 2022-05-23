@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/urlichsanais/status/1528623249432752128" ],
     "name" : [ "Like of @urlichsanais's tweet" ],
     "published" : [ "2022-05-23T07:32:00+0100" ],
     "like-of" : [ "https://twitter.com/urlichsanais/status/1528623249432752128" ],
