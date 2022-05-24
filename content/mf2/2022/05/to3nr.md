@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/artbymadeleine/status/1143283097938595842" ],
     "name" : [ "Like of @artbymadeleine's tweet" ],
     "published" : [ "2022-05-24T21:58:00+0100" ],
     "like-of" : [ "https://twitter.com/artbymadeleine/status/1143283097938595842" ],
