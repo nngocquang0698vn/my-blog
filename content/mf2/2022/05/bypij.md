@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlexofBrown/status/1528758359951802375" ],
     "name" : [ "Like of @AlexofBrown's tweet" ],
     "published" : [ "2022-05-24T13:01:00+0100" ],
     "like-of" : [ "https://twitter.com/AlexofBrown/status/1528758359951802375" ],
