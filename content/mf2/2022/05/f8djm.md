@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessicashortall/status/1239966176626671619" ],
     "name" : [ "Like of @jessicashortall's tweet" ],
     "published" : [ "2022-05-24T07:38:00+0100" ],
     "like-of" : [ "https://twitter.com/jessicashortall/status/1239966176626671619" ],
