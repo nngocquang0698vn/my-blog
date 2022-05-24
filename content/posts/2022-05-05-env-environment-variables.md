@@ -35,7 +35,13 @@ This solidified the need to always add it, and I don't think this very poorly re
 Instead, let's consider other options. Let's say that we want to take the following command, which works in `sh`/`bash`/`zsh`/`fish`:
 
 ```sh
-FILE={} ./env.sh
+FILE=/foo/bar ./env.sh
+```
+
+And has the source:
+
+```sh
+echo "FILE=$FILE"
 ```
 
 When we want to execute this script when passing it to another command, we need to add `env`, or shell out, otherwise it's not interpreted correctly:
