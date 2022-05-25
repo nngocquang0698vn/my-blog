@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KateAMcMullen/status/1529207297691602944" ],
     "name" : [ "Like of @KateAMcMullen's tweet" ],
     "published" : [ "2022-05-25T20:17:00+0100" ],
     "like-of" : [ "https://twitter.com/KateAMcMullen/status/1529207297691602944" ],
