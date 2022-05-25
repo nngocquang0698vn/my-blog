@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NeckbeardHacker/status/208227276624637953" ],
     "name" : [ "Like of @NeckbeardHacker's tweet" ],
     "published" : [ "2022-05-25T11:37:00+0100" ],
     "like-of" : [ "https://twitter.com/NeckbeardHacker/status/208227276624637953" ],
