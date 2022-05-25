@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1529370780856946688" ],
     "published" : [ "2022-05-25T08:48:00+0100" ],
     "category" : [ "job", "deliveroo" ],
     "post-status" : [ "published" ],
