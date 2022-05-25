@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rickrudescalves/status/1526600756496834561" ],
     "name" : [ "Like of @rickrudescalves's tweet" ],
     "published" : [ "2022-05-25T11:38:00+0100" ],
     "like-of" : [ "https://twitter.com/rickrudescalves/status/1526600756496834561" ],
