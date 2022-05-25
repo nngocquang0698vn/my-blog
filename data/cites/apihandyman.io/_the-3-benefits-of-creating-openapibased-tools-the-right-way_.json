@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The 3 benefits of creating OpenAPI-based tools (the right way)" ],
+    "summary" : [ "Supporting The OpenAPI Specification (fka. Swagger Specification) format when creating Web API tools is a must-have. Not for the sake of the format itself but rather because of the benefits you’ll get from it. But those benefits will come only if OpenAPI is used the right way." ],
+    "featured" : [ "https://apihandyman.io/images/the-3-benefits-of-creating-openapibased-tools-the-right-way/banner.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Arnaud Lauret" ]
+      }
+    } ],
+    "url" : [ "https://apihandyman.io/the-3-benefits-of-creating-openapibased-tools-the-right-way/" ]
+  }
+}
