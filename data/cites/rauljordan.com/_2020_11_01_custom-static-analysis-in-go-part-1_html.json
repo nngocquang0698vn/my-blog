@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Custom Static Analysis in Go, Part I" ],
+    "featured" : [ "https://www.scylladb.com/wp-content/uploads/1200x628-fb-golang-scylla-gocqlx-package.png", "https://i.imgur.com/qvqSsVn.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Raul Jordan" ]
+      }
+    } ],
+    "url" : [ "https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html" ],
+    "published" : [ "2020-11-01T00:00:00-05:00" ]
+  }
+}
