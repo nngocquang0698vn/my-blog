@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rocam54/status/1528782308899274752" ],
     "name" : [ "Like of @rocam54's tweet" ],
     "published" : [ "2022-05-25T08:08:00+0100" ],
     "like-of" : [ "https://twitter.com/rocam54/status/1528782308899274752" ],
