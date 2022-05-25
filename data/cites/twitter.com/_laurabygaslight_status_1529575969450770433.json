@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sky News" ],
+          "nickname" : [ "SkyNews" ],
+          "numeric-id" : [ "7587032" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF.jpg" ],
+          "published" : [ "2007-07-19T14:42:53+00:00" ],
+          "uid" : [ "tag:twitter.com:SkyNews" ],
+          "url" : [ "https://twitter.com/SkyNews", "http://news.sky.com/", "http://onelink.to/skynews" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The PM says some events identified in Sue Gray's report were held for the purpose of \"saying goodbye to valued colleagues\".\n\nHe adds that \"some people will think it was wrong even to do that\" but \"I respectfully disagree.\"\n\nLive: <a href=\"https://trib.al/DkRY0kS\">trib.al/DkRY0kS</a>\n\n📺 Sky 501 and YouTube</div>",
+        "value" : "The PM says some events identified in Sue Gray's report were held for the purpose of \"saying goodbye to valued colleagues\".\n\nHe adds that \"some people will think it was wrong even to do that\" but \"I respectfully disagree.\"\n\nLive: trib.al/DkRY0kS\n\n📺 Sky 501 and YouTube"
+      } ],
+      "published" : [ "2022-05-25T15:11:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1529480372236566533" ],
+      "url" : [ "https://twitter.com/SkyNews/status/1529480372236566533" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1529479743673978880/vid/1280x720/5BOpqK8DHBC1jNUM.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/skynews/status…" ],
+      "url" : [ "https://twitter.com/skynews/status/1529480372236566533" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London E12" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Newham’s hottest 45 year old" ],
+        "nickname" : [ "laurabygaslight" ],
+        "numeric-id" : [ "166935550" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/982647280443559936/Wwgbp94m.jpg" ],
+        "published" : [ "2010-07-15T10:26:25+00:00" ],
+        "uid" : [ "tag:twitter.com:laurabygaslight" ],
+        "url" : [ "https://twitter.com/laurabygaslight" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Awesome, we had 8 people at my dad’s funeral and I wasn’t allowed to hug my own mother.\n<a class=\"tag\" href=\"https://twitter.com/skynews/status/1529480372236566533\">twitter.com/skynews/status…</a>",
+      "value" : "Awesome, we had 8 people at my dad’s funeral and I wasn’t allowed to hug my own mother."
+    } ],
+    "published" : [ "2022-05-25T21:31:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1529575969450770433" ],
+    "url" : [ "https://twitter.com/laurabygaslight/status/1529575969450770433" ]
+  },
+  "type" : [ "h-entry" ]
+}
