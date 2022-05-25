@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Aaron Rupar" ],
+          "nickname" : [ "atrupar" ],
+          "numeric-id" : [ "288277167" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg.jpg" ],
+          "published" : [ "2011-04-26T15:22:47+00:00" ],
+          "uid" : [ "tag:twitter.com:atrupar" ],
+          "url" : [ "https://twitter.com/atrupar", "http://aaronrupar.substack.com", "https://aaronrupar.substack.com/p/ketanji-brown-jackson-hearing-qanon-republicans?s=w" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Ted Cruz proposes armed cops in elementary schools to deter school shootings" ],
+      "published" : [ "2022-05-25T00:00:54+00:00" ],
+      "uid" : [ "tag:twitter.com:1529251122661179397" ],
+      "url" : [ "https://twitter.com/atrupar/status/1529251122661179397" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1529251019586162688/pu/vid/720x406/kFyrF24U-hcb7AqS.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Because cops never shoot children." ],
+    "published" : [ "2022-05-25T21:17:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1529572390304419841" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1529572390304419841" ]
+  },
+  "type" : [ "h-entry" ]
+}
