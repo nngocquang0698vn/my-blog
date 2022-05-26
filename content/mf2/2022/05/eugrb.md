@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WajahatAli/status/1529210786739933185" ],
     "name" : [ "Like of @WajahatAli's tweet" ],
     "published" : [ "2022-05-26T09:29:00+0100" ],
     "like-of" : [ "https://twitter.com/WajahatAli/status/1529210786739933185" ],
