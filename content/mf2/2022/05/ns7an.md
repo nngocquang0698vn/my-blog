@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kylekinane/status/1529904755815895051" ],
     "name" : [ "Like of @kylekinane's tweet" ],
     "published" : [ "2022-05-26T21:13:00+0100" ],
     "like-of" : [ "https://twitter.com/kylekinane/status/1529904755815895051" ],
