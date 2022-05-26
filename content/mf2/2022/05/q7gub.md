@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/saintdle/status/1529788117904936963" ],
     "name" : [ "Like of @saintdle's tweet" ],
     "published" : [ "2022-05-26T20:52:00+0100" ],
     "like-of" : [ "https://twitter.com/saintdle/status/1529788117904936963" ],
