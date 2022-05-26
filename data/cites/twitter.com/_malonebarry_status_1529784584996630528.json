@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Barry Malone" ],
+        "nickname" : [ "malonebarry" ],
+        "numeric-id" : [ "18753586" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369333967414038533/1zmvPofh.jpg" ],
+        "published" : [ "2009-01-08T04:27:43+00:00" ],
+        "uid" : [ "tag:twitter.com:malonebarry" ],
+        "url" : [ "https://twitter.com/malonebarry", "https://proximities.substack.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Excellent, persistent interviewing from <a href=\"https://twitter.com/Stone_SkyNews\">@Stone_SkyNews</a>.\n\nThis is how it's done. </div>",
+      "value" : "Excellent, persistent interviewing from @Stone_SkyNews.\n\nThis is how it's done. "
+    } ],
+    "published" : [ "2022-05-26T11:20:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1529784584996630528" ],
+    "url" : [ "https://twitter.com/malonebarry/status/1529784584996630528" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1529727095726800896/vid/720x720/_R77ZSUqDyGoSbE7.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
