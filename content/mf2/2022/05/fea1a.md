@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/null_jesse/status/1529898247598526464" ],
     "name" : [ "Like of @null_jesse's tweet" ],
     "published" : [ "2022-05-26T20:11:00+0100" ],
     "like-of" : [ "https://twitter.com/null_jesse/status/1529898247598526464" ],
