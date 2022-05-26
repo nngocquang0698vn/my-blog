@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "ubiquitous" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "QTip" ],
+        "nickname" : [ "QtipTheAbstract" ],
+        "numeric-id" : [ "8320242" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/794591361165099008/AR7AgmYL.jpg" ],
+        "published" : [ "2007-08-21T02:30:08+00:00" ],
+        "uid" : [ "tag:twitter.com:QtipTheAbstract" ],
+        "url" : [ "https://twitter.com/QtipTheAbstract", "http://www.facebook.com/qtip" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Theres been more mass shootings (212)\nThan days in 2022 (144)</div>",
+      "value" : "Theres been more mass shootings (212)\nThan days in 2022 (144)"
+    } ],
+    "published" : [ "2022-05-25T14:01:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1529462786224422912" ],
+    "url" : [ "https://twitter.com/QtipTheAbstract/status/1529462786224422912" ]
+  },
+  "type" : [ "h-entry" ]
+}
