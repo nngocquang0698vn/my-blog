@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SeanMcElwee/status/1529895379348619264" ],
     "name" : [ "Like of @SeanMcElwee's tweet" ],
     "published" : [ "2022-05-26T20:10:00+0100" ],
     "like-of" : [ "https://twitter.com/SeanMcElwee/status/1529895379348619264" ],
