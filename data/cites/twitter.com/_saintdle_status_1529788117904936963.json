@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North of the Wall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jurgen Kubernetes Klopp" ],
+        "nickname" : [ "saintdle" ],
+        "numeric-id" : [ "588623458" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389573342588456963/zuQGPRIf.jpg" ],
+        "published" : [ "2012-05-23T22:15:29+00:00" ],
+        "uid" : [ "tag:twitter.com:saintdle" ],
+        "url" : [ "https://twitter.com/saintdle", "http://vEducate.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Broadcom Software Group will rebrand and operate as VMware\"\n\nNot quite the same, broadcom will still be it's own brand, but I understand that things like CA and Symantec will role into VMware brand</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stu\"></a>",
+      "value" : "\"Broadcom Software Group will rebrand and operate as VMware\"\n\nNot quite the same, broadcom will still be it's own brand, but I understand that things like CA and Symantec will role into VMware brand"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/stu/status/1529783022022803456" ],
+    "published" : [ "2022-05-26T11:34:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1529788117904936963" ],
+    "url" : [ "https://twitter.com/saintdle/status/1529788117904936963" ]
+  },
+  "type" : [ "h-entry" ]
+}
