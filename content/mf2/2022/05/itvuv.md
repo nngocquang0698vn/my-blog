@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/faileral/status/1529341208278945792" ],
     "name" : [ "Like of @faileral's tweet" ],
     "published" : [ "2022-05-25T23:35:00+0100" ],
     "like-of" : [ "https://twitter.com/faileral/status/1529341208278945792" ],
