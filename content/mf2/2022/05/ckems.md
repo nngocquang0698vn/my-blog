@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HikeMix/status/1529763290775183360" ],
     "name" : [ "Like of @HikeMix's tweet" ],
     "published" : [ "2022-05-26T15:10:00+0100" ],
     "like-of" : [ "https://twitter.com/HikeMix/status/1529763290775183360" ],
