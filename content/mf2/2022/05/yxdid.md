@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MikeDrucker/status/1529246346670231554" ],
     "name" : [ "Like of @MikeDrucker's tweet" ],
     "published" : [ "2022-05-25T23:29:00+0100" ],
     "like-of" : [ "https://twitter.com/MikeDrucker/status/1529246346670231554" ],
