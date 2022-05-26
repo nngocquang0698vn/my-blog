@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThatMarkElliott/status/1529884910747537409" ],
     "name" : [ "Like of @ThatMarkElliott's tweet" ],
     "published" : [ "2022-05-26T20:08:00+0100" ],
     "like-of" : [ "https://twitter.com/ThatMarkElliott/status/1529884910747537409" ],
