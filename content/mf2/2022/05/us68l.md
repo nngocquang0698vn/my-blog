@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RawbertBeef/status/1530000608391987222" ],
     "name" : [ "Like of @RawbertBeef's tweet" ],
     "published" : [ "2022-05-27T11:52:00+0100" ],
     "like-of" : [ "https://twitter.com/RawbertBeef/status/1530000608391987222" ],
