@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Houston, Texas" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ted Cruz" ],
+          "nickname" : [ "tedcruz" ],
+          "numeric-id" : [ "23022687" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL.jpg" ],
+          "published" : [ "2009-03-06T03:20:20+00:00" ],
+          "uid" : [ "tag:twitter.com:tedcruz" ],
+          "url" : [ "https://twitter.com/tedcruz", "http://www.OneVoteAway.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Heidi &amp; I are fervently lifting up in prayer the children and families in the horrific shooting in Uvalde.\n\nWe are in close contact with local officials, but the precise details are still unfolding.\n\nThank you to heroic law enforcement &amp; first responders for acting so swiftly.</div>",
+        "value" : "Heidi & I are fervently lifting up in prayer the children and families in the horrific shooting in Uvalde.\n\nWe are in close contact with local officials, but the precise details are still unfolding.\n\nThank you to heroic law enforcement & first responders for acting so swiftly."
+      } ],
+      "published" : [ "2022-05-24T19:59:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1529190433091461123" ],
+      "url" : [ "https://twitter.com/tedcruz/status/1529190433091461123" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The cops who heroically stayed outside while 20 people were shot?" ],
+    "published" : [ "2022-05-27T17:43:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1530243320177303553" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1530243320177303553" ]
+  },
+  "type" : [ "h-entry" ]
+}
