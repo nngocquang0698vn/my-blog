@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SmnLlyd5/status/1529918427514736640" ],
     "name" : [ "Like of @SmnLlyd5's tweet" ],
     "published" : [ "2022-05-27T14:41:00+0100" ],
     "like-of" : [ "https://twitter.com/SmnLlyd5/status/1529918427514736640" ],
