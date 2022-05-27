@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "ComicBook.com" ],
+          "nickname" : [ "ComicBook" ],
+          "numeric-id" : [ "22490294" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/875767134969876481/7G8BkNSg.jpg" ],
+          "published" : [ "2009-03-02T14:50:43+00:00" ],
+          "uid" : [ "tag:twitter.com:ComicBook" ],
+          "url" : [ "https://twitter.com/ComicBook", "http://www.comicbook.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The Summer of <a href=\"https://twitter.com/search?q=%23Morbius\">#Morbius</a> continues as Morbin trends for the 3rd straight day\n\n<a href=\"https://comicbook.com/marvel/news/morbius-kfc-morbin-meme-trends/\">comicbook.com/marvel/news/mo…</a></div>",
+        "value" : "The Summer of #Morbius continues as Morbin trends for the 3rd straight day\n\ncomicbook.com/marvel/news/mo…"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FTsDsUJUcAASiPd.jpg" ],
+      "published" : [ "2022-05-26T13:43:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1529820578193887234" ],
+      "url" : [ "https://twitter.com/ComicBook/status/1529820578193887234" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/comicbook/stat…" ],
+      "url" : [ "https://twitter.com/comicbook/status/1529820578193887234" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "CLE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kasey-Wan Kenobi" ],
+        "nickname" : [ "RawbertBeef" ],
+        "numeric-id" : [ "1099145939107880961" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529846111204155393/VzC47uqa.jpg" ],
+        "published" : [ "2019-02-23T03:16:27+00:00" ],
+        "uid" : [ "tag:twitter.com:RawbertBeef" ],
+        "url" : [ "https://twitter.com/RawbertBeef", "https://discord.gg/zKTTrCHQFX" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Guys it’s not funny anymore, they’re going to make a second movie if we keep this up\n<a class=\"tag\" href=\"https://twitter.com/comicbook/status/1529820578193887234\">twitter.com/comicbook/stat…</a>",
+      "value" : "Guys it’s not funny anymore, they’re going to make a second movie if we keep this up"
+    } ],
+    "published" : [ "2022-05-27T01:39:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1530000608391987222" ],
+    "url" : [ "https://twitter.com/RawbertBeef/status/1530000608391987222" ]
+  },
+  "type" : [ "h-entry" ]
+}
