@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tony Iommi" ],
+        "nickname" : [ "tonyiommi" ],
+        "numeric-id" : [ "606264558" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2406391308/xsa86gvhchei9ek1z99o.jpeg" ],
+        "published" : [ "2012-06-12T09:40:02+00:00" ],
+        "uid" : [ "tag:twitter.com:tonyiommi" ],
+        "url" : [ "https://twitter.com/tonyiommi", "http://www.iommi.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Remembering my friend Christopher Lee who would have been 100 today." ],
+    "photo" : [ "https://pbs.twimg.com/media/FTxlxfnWAAA853n.jpg" ],
+    "published" : [ "2022-05-27T15:30:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1530209903075262464" ],
+    "url" : [ "https://twitter.com/tonyiommi/status/1530209903075262464" ]
+  },
+  "type" : [ "h-entry" ]
+}
