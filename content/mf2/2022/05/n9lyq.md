@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matt_clawson/status/1530242852638318595" ],
     "name" : [ "Like of @matt_clawson's tweet" ],
     "published" : [ "2022-05-27T22:10:00+0100" ],
     "like-of" : [ "https://twitter.com/matt_clawson/status/1530242852638318595" ],
