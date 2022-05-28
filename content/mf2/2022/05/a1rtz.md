@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cassianapozzi/status/1530074068375982081" ],
     "name" : [ "Like of @cassianapozzi's tweet" ],
     "published" : [ "2022-05-28T14:42:00+0100" ],
     "like-of" : [ "https://twitter.com/cassianapozzi/status/1530074068375982081" ],
