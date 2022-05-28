@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drewharwell/status/1530494402195509248" ],
     "name" : [ "Like of @drewharwell's tweet" ],
     "published" : [ "2022-05-28T17:34:00+0100" ],
     "like-of" : [ "https://twitter.com/drewharwell/status/1530494402195509248" ],
