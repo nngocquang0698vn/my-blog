@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Internet" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laura Tacho 🌮" ],
+        "nickname" : [ "rhein_wein" ],
+        "numeric-id" : [ "166583984" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1156193517414301697/ougSD5pR.jpg" ],
+        "published" : [ "2010-07-14T14:34:14+00:00" ],
+        "uid" : [ "tag:twitter.com:rhein_wein" ],
+        "url" : [ "https://twitter.com/rhein_wein", "http://lauratacho.com", "http://bit.ly/high-perf-software-teams" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">When mid-sized companies say: \"We don't believe in job titles so everyone is a just a software engineer\"\n\nI hear: \"We expect people to be more interested in building our company than building their own careers\"\n\nHere's why:</div>",
+      "value" : "When mid-sized companies say: \"We don't believe in job titles so everyone is a just a software engineer\"\n\nI hear: \"We expect people to be more interested in building our company than building their own careers\"\n\nHere's why:"
+    } ],
+    "published" : [ "2022-05-27T13:50:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1530184778682535939" ],
+    "url" : [ "https://twitter.com/rhein_wein/status/1530184778682535939" ]
+  },
+  "type" : [ "h-entry" ]
+}
