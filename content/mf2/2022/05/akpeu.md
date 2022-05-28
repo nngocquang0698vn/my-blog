@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ShotsOfNotts/status/1530629553315581952" ],
     "name" : [ "Like of @ShotsOfNotts's tweet" ],
     "published" : [ "2022-05-28T20:23:00+0100" ],
     "category" : [ "nottingham" ],
