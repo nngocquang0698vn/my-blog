@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Wales, United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "JustSteveKing" ],
+          "nickname" : [ "JustSteveKing" ],
+          "numeric-id" : [ "1137428664" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1530564557835485184/0cyCXA8l.png" ],
+          "published" : [ "2013-01-31T17:18:30+00:00" ],
+          "uid" : [ "tag:twitter.com:JustSteveKing" ],
+          "url" : [ "https://twitter.com/JustSteveKing", "https://www.juststeveking.uk", "http://youtube.com/c/JustSteveKing" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I created a PHP micro-framework for fun 🎉\n\nNo idea why, but it's something I've always wanted to do 🙃</div>",
+        "value" : "I created a PHP micro-framework for fun 🎉\n\nNo idea why, but it's something I've always wanted to do 🙃"
+      } ],
+      "published" : [ "2022-05-27T15:52:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1530215453276229633" ],
+      "url" : [ "https://twitter.com/JustSteveKing/status/1530215453276229633" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Dragoonis" ],
+        "nickname" : [ "dr4goonis" ],
+        "numeric-id" : [ "87676072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1231185506232393730/1RN7npz7.jpg" ],
+        "published" : [ "2009-11-05T12:39:41+00:00" ],
+        "uid" : [ "tag:twitter.com:dr4goonis" ],
+        "url" : [ "https://twitter.com/dr4goonis", "https://www.php.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Writing a framework or library teaches you software architecture. This is more valueable than actually using the framework." ],
+    "published" : [ "2022-05-28T15:06:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1530566073938071553" ],
+    "url" : [ "https://twitter.com/dr4goonis/status/1530566073938071553" ]
+  },
+  "type" : [ "h-entry" ]
+}
