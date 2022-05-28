@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ndrew_lawrence/status/1530328429983408128" ],
     "name" : [ "Like of @ndrew_lawrence's tweet" ],
     "published" : [ "2022-05-28T22:27:00+0100" ],
     "like-of" : [ "https://twitter.com/ndrew_lawrence/status/1530328429983408128" ],
