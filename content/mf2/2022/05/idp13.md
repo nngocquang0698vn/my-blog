@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/based_marvel/status/1530045196615950336" ],
     "name" : [ "Like of @based_marvel's tweet" ],
     "published" : [ "2022-05-28T13:49:00+0100" ],
     "like-of" : [ "https://twitter.com/based_marvel/status/1530045196615950336" ],
