@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Golden State" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jackson Boren" ],
+          "nickname" : [ "JacksonBoren" ],
+          "numeric-id" : [ "19599378" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1458535285306712067/4r6hoKlD.jpg" ],
+          "published" : [ "2009-01-27T16:19:14+00:00" ],
+          "uid" : [ "tag:twitter.com:JacksonBoren" ],
+          "url" : [ "https://twitter.com/JacksonBoren" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Stop what you’re doing & drop your Top 4 Tom Cruise" ],
+      "photo" : [ "https://pbs.twimg.com/media/FTxMnvLUAAESU56.jpg", "https://pbs.twimg.com/media/FTxMnvMVUAINL92.jpg", "https://pbs.twimg.com/media/FTxMnvQUsAAyAH6.jpg", "https://pbs.twimg.com/media/FTxMnvsUcAICDrp.jpg" ],
+      "published" : [ "2022-05-27T13:40:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1530182221922852864" ],
+      "url" : [ "https://twitter.com/JacksonBoren/status/1530182221922852864" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "staid" ],
+        "nickname" : [ "staidindoors" ],
+        "numeric-id" : [ "1259590797332111360" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1500007628822368257/fZNCrUvQ.jpg" ],
+        "published" : [ "2020-05-10T21:07:10+00:00" ],
+        "uid" : [ "tag:twitter.com:staidindoors" ],
+        "url" : [ "https://twitter.com/staidindoors" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Vincent Collateral " ],
+    "photo" : [ "https://pbs.twimg.com/media/FT3-dlrVEAASkXc.jpg" ],
+    "published" : [ "2022-05-28T21:16:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1530659236438429696" ],
+    "url" : [ "https://twitter.com/staidindoors/status/1530659236438429696" ]
+  },
+  "type" : [ "h-entry" ]
+}
