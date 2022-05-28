@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jadedcreative/status/1530208114171166722" ],
     "name" : [ "Like of @jadedcreative's tweet" ],
     "published" : [ "2022-05-28T09:13:00+0100" ],
     "like-of" : [ "https://twitter.com/jadedcreative/status/1530208114171166722" ],
