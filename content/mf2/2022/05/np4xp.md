@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mmoths_/status/1530334266479022084" ],
     "name" : [ "Like of @Mmoths_'s tweet" ],
     "published" : [ "2022-05-28T09:22:00+0100" ],
     "like-of" : [ "https://twitter.com/Mmoths_/status/1530334266479022084" ],
