@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CERNUNNIA_/status/1530936876328275968" ],
     "name" : [ "Like of @CERNUNNIA_'s tweet" ],
     "published" : [ "2022-05-29T17:14:00+0100" ],
     "like-of" : [ "https://twitter.com/CERNUNNIA_/status/1530936876328275968" ],
