@@ -1,9 +1,9 @@
 ---
 title: "Describing JSON Patch operations with OpenAPI"
 description: "How to describe your JSON Patch endpoints using OpenAPI."
-date: 2022-05-29T14:27:00+0100
+date: "2022-05-29T14:27:00+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1530905519900196864"
 tags:
 - "go"
 - "openapi"
