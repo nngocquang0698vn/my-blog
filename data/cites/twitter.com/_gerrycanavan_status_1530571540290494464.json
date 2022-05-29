@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Milwaukee, WI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gerry Canavan" ],
+        "nickname" : [ "gerrycanavan" ],
+        "numeric-id" : [ "18048935" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1248609307915980808/nrPfDCpR.jpg" ],
+        "published" : [ "2008-12-11T15:08:37+00:00" ],
+        "uid" : [ "tag:twitter.com:gerrycanavan" ],
+        "url" : [ "https://twitter.com/gerrycanavan", "http://gerrycanavan.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Obi-Wan on Twitter telling people how important it is to vote" ],
+    "in-reply-to" : [ "https://twitter.com/gerrycanavan/status/1530571343460286464" ],
+    "published" : [ "2022-05-28T15:27:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1530571540290494464" ],
+    "url" : [ "https://twitter.com/gerrycanavan/status/1530571540290494464" ]
+  },
+  "type" : [ "h-entry" ]
+}
