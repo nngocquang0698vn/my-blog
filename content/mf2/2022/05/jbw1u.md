@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/barisanhantu/status/1530771298204647425" ],
     "name" : [ "Like of @barisanhantu's tweet" ],
     "published" : [ "2022-05-29T11:17:00+0100" ],
     "like-of" : [ "https://twitter.com/barisanhantu/status/1530771298204647425" ],
