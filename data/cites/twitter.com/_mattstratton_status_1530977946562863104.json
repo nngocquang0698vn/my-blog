@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, jewish prank dinosaur 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1531005573000531972/KbEVKKuQ.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This tweet is a clever way to get folks to list accounts that are both deranged and hot.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/luke_metro\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/seldo\"></a>",
+      "value" : "This tweet is a clever way to get folks to list accounts that are both deranged and hot."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/luke_metro/status/1530328792027107329" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Franklin Park, IL" ],
+        "uid" : [ "tag:twitter.com:da64cd6b4a6e157c" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-05-29T18:22:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1530977946562863104" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1530977946562863104" ]
+  },
+  "type" : [ "h-entry" ]
+}
