@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Online" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kat Cosgrove" ],
+        "nickname" : [ "Dixie3Flatline" ],
+        "numeric-id" : [ "835996764" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483456365960089603/p-J7gZwI.jpg" ],
+        "published" : [ "2012-09-20T17:27:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Dixie3Flatline" ],
+        "url" : [ "https://twitter.com/Dixie3Flatline", "https://linktr.ee/katcosgrove" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I sure do have a personal brand\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>",
+      "value" : "I sure do have a personal brand"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mattstratton/status/1530977692891348993" ],
+    "published" : [ "2022-05-29T18:26:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1530978932152889344" ],
+    "url" : [ "https://twitter.com/Dixie3Flatline/status/1530978932152889344" ]
+  },
+  "type" : [ "h-entry" ]
+}
