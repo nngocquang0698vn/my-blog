@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1531010943806758918" ],
     "photo" : [ {
       "alt" : "POV of Jamie's legs, with a hint of his laptop at the bottom of the photo, with Cookie the dog leaning on Jamie's legs, lying on a swanky new dark green velvet footstool. Cookie is fast asleep, and is actually snoring",
       "photo" : "https://media.jvt.me/895626157c.jpeg"
