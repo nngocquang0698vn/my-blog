@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "KubeCon Valencia 2022 Wrapup" ],
+    "summary" : [ "A look at the KubeCon + CloudNativeCon Europe 2022 conference held in Valencia Spain." ],
+    "featured" : [ "https://loft.sh/blog/images/content/kubecon-valencia-balloons.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Rich Burroughs" ]
+      }
+    } ],
+    "url" : [ "https://loft.sh/blog/kubecon-valencia-2022-wrapup/" ]
+  }
+}
