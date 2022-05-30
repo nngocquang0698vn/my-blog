@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/arnett_jonathan/status/1531111722794237952" ],
     "name" : [ "Like of @arnett_jonathan's tweet" ],
     "published" : [ "2022-05-30T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/arnett_jonathan/status/1531111722794237952" ],
