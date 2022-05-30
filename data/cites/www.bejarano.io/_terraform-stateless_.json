@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Terraform should have remained stateless" ],
+    "summary" : [ "TL;DR: for major providers, Terraform does not really need state. My proposal: add a “none” backend that uses the provider APIs as state." ],
+    "featured" : [ "https://www.bejarano.io/apple-touch-icon.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Ricard Bejarano" ]
+      }
+    } ],
+    "url" : [ "https://www.bejarano.io/terraform-stateless/" ]
+  }
+}
