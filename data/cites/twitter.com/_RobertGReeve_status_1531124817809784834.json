@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Detroit, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Robert G. Reeve" ],
+        "nickname" : [ "RobertGReeve" ],
+        "numeric-id" : [ "183372176" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300917900581253120/l3SHvFUF.jpg" ],
+        "published" : [ "2010-08-26T21:05:41+00:00" ],
+        "uid" : [ "tag:twitter.com:RobertGReeve" ],
+        "url" : [ "https://twitter.com/RobertGReeve", "http://RobertGReeve.ctcin.bio" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "time has told that the answer is no\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/arnett_jonathan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ohadelaide\"></a>",
+      "value" : "time has told that the answer is no"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ohadelaide/status/1531113119472304128" ],
+    "published" : [ "2022-05-30T04:06:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1531124817809784834" ],
+    "url" : [ "https://twitter.com/RobertGReeve/status/1531124817809784834" ]
+  },
+  "type" : [ "h-entry" ]
+}
