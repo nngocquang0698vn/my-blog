@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ZiziFothSi/status/1531577830965903360" ],
     "name" : [ "Like of @ZiziFothSi's tweet" ],
     "published" : [ "2022-05-31T12:41:00+0100" ],
     "like-of" : [ "https://twitter.com/ZiziFothSi/status/1531577830965903360" ],
