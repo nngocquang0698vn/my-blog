@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Bussy_Fajitas/status/1531412658775330816" ],
     "name" : [ "Like of @Bussy_Fajitas's tweet" ],
     "published" : [ "2022-05-31T07:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Bussy_Fajitas/status/1531412658775330816" ],
