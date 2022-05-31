@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HardDriveMag/status/1531325439997788160" ],
     "name" : [ "Like of @HardDriveMag's tweet" ],
     "published" : [ "2022-05-31T07:41:00+0100" ],
     "like-of" : [ "https://twitter.com/HardDriveMag/status/1531325439997788160" ],
