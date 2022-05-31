@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TaylorLorenz/status/1531504779347734531" ],
     "name" : [ "Like of @TaylorLorenz's tweet" ],
     "published" : [ "2022-05-31T09:09:00+0100" ],
     "like-of" : [ "https://twitter.com/TaylorLorenz/status/1531504779347734531" ],
