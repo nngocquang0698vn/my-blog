@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nathanielro/status/1531369107177672704" ],
     "name" : [ "Like of @nathanielro's tweet" ],
     "published" : [ "2022-05-31T07:45:00+0100" ],
     "like-of" : [ "https://twitter.com/nathanielro/status/1531369107177672704" ],
