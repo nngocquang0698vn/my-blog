@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tech Insider" ],
+          "nickname" : [ "TechInsider" ],
+          "numeric-id" : [ "3224616765" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1197961125641494529/MVjp8tHL.jpg" ],
+          "published" : [ "2015-04-30T15:15:08+00:00" ],
+          "uid" : [ "tag:twitter.com:TechInsider" ],
+          "url" : [ "https://twitter.com/TechInsider", "http://www.techinsider.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This clock uses shadows to tell time" ],
+      "published" : [ "2022-05-27T10:55:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1530140595414568960" ],
+      "url" : [ "https://twitter.com/TechInsider/status/1530140595414568960" ],
+      "video" : [ "https://video.twimg.com/amplify_video/938407452860715008/vid/720x720/55NzIkp-G5eWa4Ov.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/techinsider/st…" ],
+      "url" : [ "https://twitter.com/techinsider/status/1530140595414568960" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "the thicc husband & father" ],
+        "nickname" : [ "lukeisamazing" ],
+        "numeric-id" : [ "22865027" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/996537835212521472/HGqICDMn.jpg" ],
+        "published" : [ "2009-03-05T02:14:16+00:00" ],
+        "uid" : [ "tag:twitter.com:lukeisamazing" ],
+        "url" : [ "https://twitter.com/lukeisamazing" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "oh good, tech bros invented the sundial\n<a class=\"tag\" href=\"https://twitter.com/techinsider/status/1530140595414568960\">twitter.com/techinsider/st…</a>",
+      "value" : "oh good, tech bros invented the sundial"
+    } ],
+    "published" : [ "2022-05-30T11:26:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1531235657032601600" ],
+    "url" : [ "https://twitter.com/lukeisamazing/status/1531235657032601600" ]
+  },
+  "type" : [ "h-entry" ]
+}
