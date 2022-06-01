@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ginaskandari/status/1531678014853062656" ],
     "name" : [ "Like of @ginaskandari's tweet" ],
     "published" : [ "2022-06-01T12:04:00+0100" ],
     "like-of" : [ "https://twitter.com/ginaskandari/status/1531678014853062656" ],
