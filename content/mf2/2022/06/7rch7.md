@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TobyonTV/status/1531598308749230083" ],
     "name" : [ "Like of @TobyonTV's tweet" ],
     "published" : [ "2022-06-01T12:04:00+0100" ],
     "like-of" : [ "https://twitter.com/TobyonTV/status/1531598308749230083" ],
