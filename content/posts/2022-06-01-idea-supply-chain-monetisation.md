@@ -1,7 +1,7 @@
 ---
 title: "Idea for Open Source/Startup: monetising the supply chain"
 description: "An idea I've had for how to better distribute support to Open Source libraries in the supply chain for your software."
-date: ""
+date: 2022-06-01T22:06:19+0100
 syndication:
 - https://brid.gy/publish/twitter
 tags:
@@ -26,6 +26,6 @@ For instance, I'm a hobbyist who has enough of a problem prioritising my own pro
 
 But even if the projects aren't set up for financial contributions, there may be other things you can do with that information, even if it's just getting contributions going upstream, or looking at how the maintainers can be supported if they were to need a hand, as well as whether your company could support development through a fork.
 
-I feel like this, in partnership with a supply chain healthcheck like [Socket.dev](https://socket.dev/), this would be a great
+I feel like this could work really nicely in partnership with a supply chain healthcheck like [Socket.dev](https://socket.dev/), and would be able to provide an easy way for companies to say "we want to give ££££/month for Open Source, where is best?" and it spit out a prioritised list by how much it's in use by your projects.
 
 Maybe I'll end up looking at it one day, but you're welcome to the idea, just gimme a shout out 😉
