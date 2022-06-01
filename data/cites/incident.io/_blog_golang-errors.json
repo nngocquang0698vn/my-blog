@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Making Go errors play nice with Sentry | incident.io" ],
+    "summary" : [ "Getting Go errors to work well with Sentry is hard. This post explains how we got them playing nicely by deduping stacktraces.\n" ],
+    "featured" : [ "https://incident.io/social-cards/golang-errors-social-card.png" ],
+    "url" : [ "https://incident.io/blog/golang-errors" ]
+  }
+}
