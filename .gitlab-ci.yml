@@ -63,6 +63,8 @@ deploy:
     expire_in: 30 minutes
     paths:
       - public/
+  variables:
+    GIT_STRATEGY: none
   before_script:
     - >
       STS=($(aws sts assume-role-with-web-identity
