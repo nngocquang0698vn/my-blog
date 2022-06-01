@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/prettyinpinks/status/1531762722752405504" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1531885575292207104" ],
     "published" : [ "2022-06-01T07:11:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
