@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ASovietOnion/status/1531752787486330880" ],
     "name" : [ "Like of @ASovietOnion's tweet" ],
     "published" : [ "2022-06-01T14:38:00+0100" ],
     "like-of" : [ "https://twitter.com/ASovietOnion/status/1531752787486330880" ],
