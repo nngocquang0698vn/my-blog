@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mekkaokereke/status/1531989665107939328" ],
     "name" : [ "Like of @mekkaokereke's tweet" ],
     "published" : [ "2022-06-01T14:38:00+0100" ],
     "like-of" : [ "https://twitter.com/mekkaokereke/status/1531989665107939328" ],
