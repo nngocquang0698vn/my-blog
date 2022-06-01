@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pattonoswalt/status/1531830683664109569" ],
     "name" : [ "Like of @pattonoswalt's tweet" ],
     "published" : [ "2022-06-01T08:29:00+0100" ],
     "like-of" : [ "https://twitter.com/pattonoswalt/status/1531830683664109569" ],
