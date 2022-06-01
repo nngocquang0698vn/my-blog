@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/billjings/status/1531693954793558016" ],
     "name" : [ "Like of @billjings's tweet" ],
     "published" : [ "2022-06-01T08:24:00+0100" ],
     "like-of" : [ "https://twitter.com/billjings/status/1531693954793558016" ],
