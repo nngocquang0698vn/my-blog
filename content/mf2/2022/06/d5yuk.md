@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/socialistdogmom/status/1531675646660837376" ],
     "name" : [ "Like of @socialistdogmom's tweet" ],
     "published" : [ "2022-06-01T12:44:00+0100" ],
     "like-of" : [ "https://twitter.com/socialistdogmom/status/1531675646660837376" ],
