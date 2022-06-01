@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Watchman_5/status/1531454405978882048" ],
     "name" : [ "Like of @Watchman_5's tweet" ],
     "published" : [ "2022-06-01T12:42:00+0100" ],
     "like-of" : [ "https://twitter.com/Watchman_5/status/1531454405978882048" ],
