@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/panocidex/status/1531738384195932160" ],
     "name" : [ "Like of @panocidex's tweet" ],
     "published" : [ "2022-06-01T12:45:00+0100" ],
     "like-of" : [ "https://twitter.com/panocidex/status/1531738384195932160" ],
