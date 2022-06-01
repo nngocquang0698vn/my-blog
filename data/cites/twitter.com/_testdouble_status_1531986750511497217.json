@@ -1,0 +1,37 @@
+{
+  "children" : [ {
+    "properties" : {
+      "name" : [ "twitter.com/elonmusk/statu…" ],
+      "url" : [ "https://twitter.com/elonmusk/status/1531867103854317568" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Columbus, OH" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Test Double" ],
+        "nickname" : [ "testdouble" ],
+        "numeric-id" : [ "394231327" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1125411341349601280/JFbOcBfQ.png" ],
+        "published" : [ "2011-10-19T19:30:35+00:00" ],
+        "uid" : [ "tag:twitter.com:testdouble" ],
+        "url" : [ "https://twitter.com/testdouble", "http://www.testdouble.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Unlike Elon, we don't pretend to know where you'll do your best work.\n<a class=\"tag\" href=\"https://twitter.com/elonmusk/status/1531867103854317568\">twitter.com/elonmusk/statu…</a>",
+      "value" : "Unlike Elon, we don't pretend to know where you'll do your best work."
+    } ],
+    "published" : [ "2022-06-01T13:11:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1531986750511497217" ],
+    "url" : [ "https://twitter.com/testdouble/status/1531986750511497217" ]
+  },
+  "type" : [ "h-entry" ]
+}
