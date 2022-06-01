@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/marcuschown/status/1531880378578964481" ],
     "name" : [ "Like of @marcuschown's tweet" ],
     "published" : [ "2022-06-01T12:32:00+0100" ],
     "like-of" : [ "https://twitter.com/marcuschown/status/1531880378578964481" ],
