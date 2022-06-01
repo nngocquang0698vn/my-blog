@@ -1,13 +1,14 @@
 ---
 title: "Idea for Open Source/Startup: monetising the supply chain"
-description: "An idea I've had for how to better distribute support to Open Source libraries in the supply chain for your software."
-date: 2022-06-01T22:06:19+0100
+description: "An idea I've had for how to better distribute support to Open Source\
+  \ libraries in the supply chain for your software."
+date: "2022-06-01T22:06:19+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1532108648301854720"
 tags:
-- ideas
-- security
-- open-source
+- "ideas"
+- "security"
+- "open-source"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 slug: "idea-supply-chain-monetisation"
