@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Untold Story of SQLite - CoRecursive Podcast" ],
+    "summary" : [ "On today's show, I'm talking to Richard Hipp about surviving becoming core infrastructure for the world. SQLite is everywhere. It's in your web browser, it's in your phone, it's probably in your car, and it's definitely in commercial planes. It's where your iMessages and WhatsApp messages are stored, and if you do a find on your computer for *.db, you'll... […]" ],
+    "featured" : [ "https://corecursive.com/assets/images/066/wide.png" ],
+    "audio" : [ "https://chtbl.com/track/7D91G/traffic.libsyn.com/secure/corecursive/066-sqlite.mp3" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Adam Gordon Bell" ]
+      }
+    } ],
+    "url" : [ "https://corecursive.com/066-sqlite-with-richard-hipp/" ]
+  }
+}
