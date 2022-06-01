@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marco Rogers" ],
+        "nickname" : [ "polotek" ],
+        "numeric-id" : [ "20079975" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3603780451/4775e8c65a9f6f70c824a5b689e6295c.jpeg" ],
+        "published" : [ "2009-02-04T18:59:19+00:00" ],
+        "uid" : [ "tag:twitter.com:polotek" ],
+        "url" : [ "https://twitter.com/polotek", "http://www.buzzfeed.com/doree/this-san-francisco-man-delivered-his-wifes-baby-at-home#.vxXKegR8n" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I'm officially an old hater when it comes to frontend. Everything is slower by default. Nothing is actually easier than it was before. Things are still buggy af despite all the linting and type systems and build steps. And it's not even fun anymore. Sorry not sorry." ],
+    "in-reply-to" : [ "https://twitter.com/polotek/status/1531803113262264320" ],
+    "published" : [ "2022-06-01T01:04:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1531803858824884224" ],
+    "url" : [ "https://twitter.com/polotek/status/1531803858824884224" ]
+  },
+  "type" : [ "h-entry" ]
+}
