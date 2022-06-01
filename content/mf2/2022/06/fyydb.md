@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codylablabcody/status/1531512154225901568" ],
     "name" : [ "Like of @codylablabcody's tweet" ],
     "published" : [ "2022-06-01T12:43:00+0100" ],
     "like-of" : [ "https://twitter.com/codylablabcody/status/1531512154225901568" ],
