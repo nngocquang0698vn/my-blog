@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Karlsruhe, Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicolai Parlog 🇺🇦🕊️" ],
+        "nickname" : [ "nipafx" ],
+        "numeric-id" : [ "2847809129" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1321418768212500482/X1ftSCRy.jpg" ],
+        "published" : [ "2014-10-28T06:29:56+00:00" ],
+        "uid" : [ "tag:twitter.com:nipafx" ],
+        "url" : [ "https://twitter.com/nipafx", "https://nipafx.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">TIL about Maven Central from <a href=\"https://twitter.com/sonatype\">@sonatype</a>'s Joel Orlina:\n\n* 496 Billion requests in 2021\n* probably &gt;600 Billion in 2022\n* ~54 PB (petabyte!) of bandwidth in 2021\n* 8.8 million component versions\n* 27 TB of memory in an S3 bucket\n\n<a href=\"https://twitter.com/search?q=%23DevoxxUK\">#DevoxxUK</a></div>",
+      "value" : "TIL about Maven Central from @sonatype's Joel Orlina:\n\n* 496 Billion requests in 2021\n* probably >600 Billion in 2022\n* ~54 PB (petabyte!) of bandwidth in 2021\n* 8.8 million component versions\n* 27 TB of memory in an S3 bucket\n\n#DevoxxUK"
+    } ],
+    "published" : [ "2022-05-11T15:30:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1524411540492980225" ],
+    "url" : [ "https://twitter.com/nipafx/status/1524411540492980225" ]
+  },
+  "type" : [ "h-entry" ]
+}
