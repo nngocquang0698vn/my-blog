@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/celeste_game/status/1531764079638876160" ],
     "name" : [ "Like of @celeste_game's tweet" ],
     "published" : [ "2022-06-01T08:25:00+0100" ],
     "like-of" : [ "https://twitter.com/celeste_game/status/1531764079638876160" ],
