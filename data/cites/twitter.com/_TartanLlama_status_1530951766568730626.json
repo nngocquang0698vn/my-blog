@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Edinburgh, Scotland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sy Brand" ],
+        "nickname" : [ "TartanLlama" ],
+        "numeric-id" : [ "36158849" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1481292449150550021/oDdYWeEd.jpg" ],
+        "published" : [ "2009-04-28T19:38:21+00:00" ],
+        "uid" : [ "tag:twitter.com:TartanLlama" ],
+        "url" : [ "https://twitter.com/TartanLlama", "https://sybrand.ink" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If you've been programming for a long time, I think it's easy to lose sight of how powerful it is to have an idea and just, make it real." ],
+    "published" : [ "2022-05-29T16:38:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1530951766568730626" ],
+    "url" : [ "https://twitter.com/TartanLlama/status/1530951766568730626" ]
+  },
+  "type" : [ "h-entry" ]
+}
