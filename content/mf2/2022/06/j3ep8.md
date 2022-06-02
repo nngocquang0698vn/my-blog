@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AdamMGrant/status/1530217869241458689" ],
     "name" : [ "Like of @AdamMGrant's tweet" ],
     "published" : [ "2022-06-02T14:13:00+0100" ],
     "like-of" : [ "https://twitter.com/AdamMGrant/status/1530217869241458689" ],
