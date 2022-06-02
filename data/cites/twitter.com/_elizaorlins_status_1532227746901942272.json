@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Alex Zimmerman" ],
+          "nickname" : [ "AGZimmerman" ],
+          "numeric-id" : [ "434624246" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1296104278235414529/emp03alZ.jpg" ],
+          "published" : [ "2011-12-12T03:18:37+00:00" ],
+          "uid" : [ "tag:twitter.com:AGZimmerman" ],
+          "url" : [ "https://twitter.com/AGZimmerman", "http://www.chalkbeat.org/author/azimmerman/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">.<a href=\"https://twitter.com/NYCSchools\">@NYCSchools</a> just released a statement that says the cost of the legislature's class size proposal will be $500M/year (for K-5 alone) and will force them to \"defund several critical programs\" if it passes\n<a href=\"https://www.documentcloud.org/documents/22049412-press-release-n-21-2021-2022-statement-from-schools-chancellor-david-c-banks-on-proposed-changes-to-mayoral-accountability-and-class-sizes\">documentcloud.org/documents/2204…</a></div>",
+        "value" : ".@NYCSchools just released a statement that says the cost of the legislature's class size proposal will be $500M/year (for K-5 alone) and will force them to \"defund several critical programs\" if it passes\ndocumentcloud.org/documents/2204…"
+      } ],
+      "published" : [ "2022-06-01T20:51:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1532102593044000770" ],
+      "url" : [ "https://twitter.com/AGZimmerman/status/1532102593044000770" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/agzimmerman/st…" ],
+      "url" : [ "https://twitter.com/agzimmerman/status/1532102593044000770" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Eliza Orlins" ],
+        "nickname" : [ "elizaorlins" ],
+        "numeric-id" : [ "7391432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1408536211367604227/bq5ncmCX.jpg" ],
+        "published" : [ "2007-07-11T03:29:33+00:00" ],
+        "uid" : [ "tag:twitter.com:elizaorlins" ],
+        "url" : [ "https://twitter.com/elizaorlins", "https://elizaorlins.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "THE NYPD HAS A BUDGET OF $11 BILLION.\n<a class=\"tag\" href=\"https://twitter.com/agzimmerman/status/1532102593044000770\">twitter.com/agzimmerman/st…</a>",
+      "value" : "THE NYPD HAS A BUDGET OF $11 BILLION."
+    } ],
+    "published" : [ "2022-06-02T05:08:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1532227746901942272" ],
+    "url" : [ "https://twitter.com/elizaorlins/status/1532227746901942272" ]
+  },
+  "type" : [ "h-entry" ]
+}
