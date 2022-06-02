@@ -46,6 +46,7 @@ build:
     name: "$CI_COMMIT_REF_SLUG"
     paths:
       - public/
+      - config.toml
   interruptible: true
   script:
     - hugo --verbose --minify
