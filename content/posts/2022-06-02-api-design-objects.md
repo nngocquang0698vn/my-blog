@@ -1,14 +1,14 @@
 ---
 title: "API Design tip: use objects for similar data"
 description: "Why you should use objects to nest similar data in JSON responses."
-date: 2022-06-02T17:21:22+0100
+date: "2022-06-02T17:21:22+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1532398907451494407"
 tags:
 - "api"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-image: https://media.jvt.me/5e284286be.jpeg
+image: "https://media.jvt.me/5e284286be.jpeg"
 slug: "api-design-objects"
 ---
 Let's say you're building an API, be it RESTful or GraphQL, and you want to provide a few bits of similar data. Or maybe you've only got one piece of data (i.e an external identifier, but you rightfully so are thinking about future-proofing your API.
