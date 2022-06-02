@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "node_modules/" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Socket" ],
+        "nickname" : [ "SocketSecurity" ],
+        "numeric-id" : [ "1458247940640690176" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510053189122342914/OlP9Sx-9.jpg" ],
+        "published" : [ "2021-11-10T01:42:48+00:00" ],
+        "uid" : [ "tag:twitter.com:SocketSecurity" ],
+        "url" : [ "https://twitter.com/SocketSecurity", "https://socket.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "We’d love to do more to help direct funding to projects that need it. We’re still thinking about how we can best help here\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "We’d love to do more to help direct funding to projects that need it. We’re still thinking about how we can best help here"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1532108610947391491" ],
+    "published" : [ "2022-06-01T21:40:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1532114781125197825" ],
+    "url" : [ "https://twitter.com/SocketSecurity/status/1532114781125197825" ]
+  },
+  "type" : [ "h-entry" ]
+}
