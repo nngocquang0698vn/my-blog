@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/watsoncomedian/status/1532305836315447296" ],
     "name" : [ "Like of @watsoncomedian's tweet" ],
     "published" : [ "2022-06-02T12:33:00+0100" ],
     "like-of" : [ "https://twitter.com/watsoncomedian/status/1532305836315447296" ],
