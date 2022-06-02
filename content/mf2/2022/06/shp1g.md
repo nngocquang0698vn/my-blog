@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1532313677101252609" ],
     "photo" : [ {
       "alt" : "Cookie the puppy, sitting up on a black sofa, next to a chill blondy dog lying down. Cookie looks beside herself with happiness, smiling at the camera with her tongue out at a jaunty angle. She's stolen two tennis balls and has them sat underneath her",
       "photo" : "https://media.jvt.me/b5612f6374.jpeg"
