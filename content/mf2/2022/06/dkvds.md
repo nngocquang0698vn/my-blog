@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RealLyndaCarter/status/1532024708077600784" ],
     "name" : [ "Like of @RealLyndaCarter's tweet" ],
     "published" : [ "2022-06-02T14:15:00+0100" ],
     "like-of" : [ "https://twitter.com/RealLyndaCarter/status/1532024708077600784" ],
