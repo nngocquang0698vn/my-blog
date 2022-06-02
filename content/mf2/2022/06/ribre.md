@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/queercryptoid/status/1531894198747598848" ],
     "name" : [ "Like of @queercryptoid's tweet" ],
     "published" : [ "2022-06-01T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/queercryptoid/status/1531894198747598848" ],
