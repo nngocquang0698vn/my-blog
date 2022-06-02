@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Athens, Greece" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "George Tsiolis ⚡" ],
+        "nickname" : [ "gtsiolis" ],
+        "numeric-id" : [ "47412457" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524505111367720960/Fjm3NnSx.jpg" ],
+        "published" : [ "2009-06-15T19:00:05+00:00" ],
+        "uid" : [ "tag:twitter.com:gtsiolis" ],
+        "url" : [ "https://twitter.com/gtsiolis", "https://gitlab.com/gtsiolis" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The keys to make software engineering more collaborative, joyful, and secure." ],
+    "photo" : [ {
+      "alt" : "A keyring with @gitpod and @gitlab logos attached.",
+      "value" : "https://pbs.twimg.com/media/FUAByk-WAAM5Weu.jpg"
+    } ],
+    "published" : [ "2022-05-30T10:48:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1531226000494891008" ],
+    "url" : [ "https://twitter.com/gtsiolis/status/1531226000494891008" ]
+  },
+  "type" : [ "h-entry" ]
+}
