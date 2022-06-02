@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarisaKabas/status/1532139352964358144" ],
     "name" : [ "Like of @MarisaKabas's tweet" ],
     "published" : [ "2022-06-02T09:38:00+0100" ],
     "like-of" : [ "https://twitter.com/MarisaKabas/status/1532139352964358144" ],
