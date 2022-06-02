@@ -46,7 +46,6 @@ build:
     name: "$CI_COMMIT_REF_SLUG"
     paths:
       - public/
-      - config.toml
   interruptible: true
   script:
     - hugo --verbose --minify
@@ -65,7 +64,7 @@ deploy:
     paths:
       - public/
   variables:
-    GIT_STRATEGY: none
+    GIT_DEPTH: 1
   before_script:
     - >
       STS=($(aws sts assume-role-with-web-identity
