@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam Grant" ],
+        "nickname" : [ "AdamMGrant" ],
+        "numeric-id" : [ "1059273780" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1427272847643316232/9CeNBJAr.jpg" ],
+        "published" : [ "2013-01-04T01:59:16+00:00" ],
+        "uid" : [ "tag:twitter.com:AdamMGrant" ],
+        "url" : [ "https://twitter.com/AdamMGrant", "http://www.adamgrant.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">During the Great Resignation, people who stay are paying a loyalty tax.\n\nData on ~20k job titles: new hires are making 7% more than people currently working in the same job.\n\nHey managers: why not offer a retention raise instead? Commitment should be rewarded, not punished.</div>",
+      "value" : "During the Great Resignation, people who stay are paying a loyalty tax.\n\nData on ~20k job titles: new hires are making 7% more than people currently working in the same job.\n\nHey managers: why not offer a retention raise instead? Commitment should be rewarded, not punished."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FTxr2PHXoAATjht.jpg" ],
+    "published" : [ "2022-05-27T16:02:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1530217869241458689" ],
+    "url" : [ "https://twitter.com/AdamMGrant/status/1530217869241458689" ]
+  },
+  "type" : [ "h-entry" ]
+}
