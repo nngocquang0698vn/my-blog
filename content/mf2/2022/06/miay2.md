@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SocketSecurity/status/1532114781125197825" ],
     "name" : [ "Like of @SocketSecurity's tweet" ],
     "published" : [ "2022-06-02T07:34:00+0100" ],
     "like-of" : [ "https://twitter.com/SocketSecurity/status/1532114781125197825" ],
