@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nipafx/status/1524411540492980225" ],
     "name" : [ "Like of @nipafx's tweet" ],
     "published" : [ "2022-06-01T22:29:00+0100" ],
     "like-of" : [ "https://twitter.com/nipafx/status/1524411540492980225" ],
