@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SSlayer456/status/1531993513566605313" ],
     "name" : [ "Like of @SSlayer456's tweet" ],
     "published" : [ "2022-06-02T08:44:00+0100" ],
     "like-of" : [ "https://twitter.com/SSlayer456/status/1531993513566605313" ],
