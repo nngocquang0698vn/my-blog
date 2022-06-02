@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dada78641/status/1531984290111803392" ],
     "name" : [ "Like of @dada78641's tweet" ],
     "published" : [ "2022-06-02T10:55:00+0100" ],
     "like-of" : [ "https://twitter.com/dada78641/status/1531984290111803392" ],
