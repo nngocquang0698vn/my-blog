@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/modeltrees/status/1532080341682364417" ],
     "name" : [ "Like of @modeltrees's tweet" ],
     "published" : [ "2022-06-02T10:48:00+0100" ],
     "like-of" : [ "https://twitter.com/modeltrees/status/1532080341682364417" ],
