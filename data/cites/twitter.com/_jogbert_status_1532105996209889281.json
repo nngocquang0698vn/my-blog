@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James O'Gorman" ],
+        "nickname" : [ "jogbert" ],
+        "numeric-id" : [ "20328380" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/910117442122342400/iEKsqH9u.jpg" ],
+        "published" : [ "2009-02-07T19:38:57+00:00" ],
+        "uid" : [ "tag:twitter.com:jogbert" ],
+        "url" : [ "https://twitter.com/jogbert", "https://mastodon.social/@jamesog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This person wins Reddit for this answer on \"How to mock DBs\"" ],
+    "photo" : [ "https://pbs.twimg.com/media/FUMiSGPWIAEaDL-.jpg" ],
+    "published" : [ "2022-06-01T21:05:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1532105996209889281" ],
+    "url" : [ "https://twitter.com/jogbert/status/1532105996209889281" ]
+  },
+  "type" : [ "h-entry" ]
+}
