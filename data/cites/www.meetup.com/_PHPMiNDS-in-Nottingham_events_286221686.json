@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "The art and science of technical debt: the good, the bad and the costly." ],
+    "description" : [ {
+      "html" : "This talk by Ismael Velasco covers assessing, measuring, monitoring and transforming technical debt, its effects on operational and environmental debt and its risk trajectory. This includes a green amber red model, from when technical debt is good to when it's an emergency; metrics to judge the severity, from code complexity, coupling and fan out, to defect escape rate, versioning hotspots, critical incidents and financial cost attribution. It also covers how to integrate tech debt management into CI; how to prioritise what to refactor, alternative strategies for recovery, some relevant tooling, and how to make the business case to management in a persuasive, non-technical way.",
+      "value" : "This talk by Ismael Velasco covers assessing, measuring, monitoring and transforming technical debt, its effects on operational and environmental debt and its risk trajectory. This includes a green amber red model, from when technical debt is good to when it's an emergency; metrics to judge the severity, from code complexity, coupling and fan out, to defect escape rate, versioning hotspots, critical incidents and financial cost attribution. It also covers how to integrate tech debt management into CI; how to prioritise what to refactor, alternative strategies for recovery, some relevant tooling, and how to make the business case to management in a persuasive, non-technical way."
+    } ],
+    "start" : [ "2022-06-09T18:30+01:00" ],
+    "end" : [ "2022-06-09T20:30+01:00" ],
+    "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/286221686" ],
+    "location" : [ "Online" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure-content.meetupstatic.com/images/classic-events/443318895/600x600.webp" ],
+        "url" : [ "https://www.meetup.com/PHPMiNDS-in-Nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
