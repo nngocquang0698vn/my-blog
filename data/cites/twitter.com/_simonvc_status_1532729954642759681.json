@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "1 au" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Vans-Colina" ],
+        "nickname" : [ "simonvc" ],
+        "numeric-id" : [ "4963861" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459465348894310402/YVUh9YZL.jpg" ],
+        "published" : [ "2007-04-17T06:59:15+00:00" ],
+        "uid" : [ "tag:twitter.com:simonvc" ],
+        "url" : [ "https://twitter.com/simonvc", "http://simon.vc" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Did someone design this as part of a whiteboard coding challenge?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/GoogleOSS\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/adrianco\"></a>",
+      "value" : "Did someone design this as part of a whiteboard coding challenge?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/GoogleOSS/status/1532438528424038432" ],
+    "published" : [ "2022-06-03T14:24:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1532729954642759681" ],
+    "url" : [ "https://twitter.com/simonvc/status/1532729954642759681" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FUVZxARUAAIqAHN.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
