@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "VSCodium - Open Source Binaries of VSCode" ],
+    "summary" : [ "Free/Libre Open Source Software Binaries of VSCode" ],
+    "featured" : [ "https://img.shields.io/github/release/vscodium/vscodium.svg", "https://img.shields.io/github/license/VSCodium/vscodium.svg", "https://img.shields.io/gitter/room/vscodium/vscodium.svg" ],
+    "url" : [ "https://vscodium.com/" ]
+  }
+}
