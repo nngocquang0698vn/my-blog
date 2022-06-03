@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andy Wentland" ],
+        "nickname" : [ "djcentos6" ],
+        "numeric-id" : [ "300738645" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1523226226634018818/1R1WDbnv.jpg" ],
+        "published" : [ "2011-05-18T08:32:54+00:00" ],
+        "uid" : [ "tag:twitter.com:djcentos6" ],
+        "url" : [ "https://twitter.com/djcentos6", "http://www.andywentland.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I once worked somewhere where they sent an email out asking everyone to donate our paid sick time to a colleague who eventually died of cancer.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jzux\"></a>",
+      "value" : "I once worked somewhere where they sent an email out asking everyone to donate our paid sick time to a colleague who eventually died of cancer."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jzux/status/1532022057927680003" ],
+    "published" : [ "2022-06-02T09:00:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1532285935097769984" ],
+    "url" : [ "https://twitter.com/djcentos6/status/1532285935097769984" ]
+  },
+  "type" : [ "h-entry" ]
+}
