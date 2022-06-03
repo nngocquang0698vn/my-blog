@@ -1,5 +1,5 @@
 ---
-title: "Only testing your public interface API in a Go package"
+title: "Only testing your public API in a Go package"
 description: "How to test only exported parts of a package in Go."
 date: "2022-06-03T13:23:08+0100"
 syndication:
