@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jon Cooper" ],
+        "nickname" : [ "joncoopertweets" ],
+        "numeric-id" : [ "27493883" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1530358747511631874/G8bvUIHV.jpg" ],
+        "published" : [ "2009-03-29T20:12:52+00:00" ],
+        "uid" : [ "tag:twitter.com:joncoopertweets" ],
+        "url" : [ "https://twitter.com/joncoopertweets" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Friendly reminder that GOP <a href=\"https://twitter.com/RepThomasMassie\">@RepThomasMassie</a> BLOCKED me because I posted a photo of his family holding giant dildos instead of guns. 😂\n\nWhatever you do, don't share it - he HATES it!</div>",
+      "value" : "Friendly reminder that GOP @RepThomasMassie BLOCKED me because I posted a photo of his family holding giant dildos instead of guns. 😂\n\nWhatever you do, don't share it - he HATES it!"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FUQu6VZX0AYxLFr.jpg" ],
+    "published" : [ "2022-06-02T16:39:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1532401510335881217" ],
+    "url" : [ "https://twitter.com/joncoopertweets/status/1532401510335881217" ]
+  },
+  "type" : [ "h-entry" ]
+}
