@@ -1,13 +1,13 @@
 ---
 title: "Only testing your public interface API in a Go package"
 description: "How to test only exported parts of a package in Go."
-date: 2022-06-03T13:23:08+0100
+date: "2022-06-03T13:23:08+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1532701264961753088"
 tags:
-- blogumentation
+- "blogumentation"
 - "go"
-- testing
+- "testing"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
