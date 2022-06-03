@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "us-emily-1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "emily freeman 🇺🇸🇺🇦" ],
+        "nickname" : [ "editingemily" ],
+        "numeric-id" : [ "1066151600" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1435023239126781953/YJth58YJ.jpg" ],
+        "published" : [ "2013-01-06T16:49:03+00:00" ],
+        "uid" : [ "tag:twitter.com:editingemily" ],
+        "url" : [ "https://twitter.com/editingemily", "https://givingatechtalk.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’ve pivoted away from going to things because of it. It’s undermined my trust.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/laurieontech\"></a>",
+      "value" : "I’ve pivoted away from going to things because of it. It’s undermined my trust."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/laurieontech/status/1532366190206717954" ],
+    "published" : [ "2022-06-03T05:54:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1532601520834744320" ],
+    "url" : [ "https://twitter.com/editingemily/status/1532601520834744320" ]
+  },
+  "type" : [ "h-entry" ]
+}
