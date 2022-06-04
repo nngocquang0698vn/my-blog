@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/AlSweigart/status/1533183900477956097" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1533198656802889735" ],
     "published" : [ "2022-06-04T22:19:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
