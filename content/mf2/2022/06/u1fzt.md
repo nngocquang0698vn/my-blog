@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Infosec_Taylor/status/1532731460150501377" ],
     "name" : [ "Like of @Infosec_Taylor's tweet" ],
     "published" : [ "2022-06-04T07:36:00+0100" ],
     "like-of" : [ "https://twitter.com/Infosec_Taylor/status/1532731460150501377" ],
