@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Times" ],
+        "nickname" : [ "thetimes" ],
+        "numeric-id" : [ "6107422" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1273572997614440450/ULkR08Er.png" ],
+        "published" : [ "2007-05-17T13:35:19+00:00" ],
+        "uid" : [ "tag:twitter.com:thetimes" ],
+        "url" : [ "https://twitter.com/thetimes", "http://www.thetimes.co.uk", "http://thetim.es/subscribe", "http://thetimes.co.uk/livechat", "https://t.me/thetimes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🎥 WATCH: Boris and Carrie Johnson booed before thanksgiving service\n\n🔗: <a href=\"https://www.thetimes.co.uk/article/harry-and-william-reunited-for-queens-thanksgiving-service-at-st-pauls-7rz3ztg60\">thetimes.co.uk/article/harry-…</a></div>",
+      "value" : "🎥 WATCH: Boris and Carrie Johnson booed before thanksgiving service\n\n🔗: thetimes.co.uk/article/harry-…"
+    } ],
+    "published" : [ "2022-06-03T11:32:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1532686702258622465" ],
+    "url" : [ "https://twitter.com/thetimes/status/1532686702258622465" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1532686607253487616/pu/vid/1280x720/bqqnukhSM88wF0SW.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
