@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23EverythingEverywhereAllAtOnce\">#EverythingEverywhereAllAtOnce</a>, A24’s genre-bending dark comedy that people can’t stop talking about, hits streaming next week.\n\n<a href=\"https://variety.com/shop/how-to-watch-everything-everywhere-all-at-once-1235282555/\">variety.com/shop/how-to-wa…</a></div>",
+        "value" : "#EverythingEverywhereAllAtOnce, A24’s genre-bending dark comedy that people can’t stop talking about, hits streaming next week.\n\nvariety.com/shop/how-to-wa…"
+      } ],
+      "published" : [ "2022-06-04T20:00:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1533176765496979456" ],
+      "url" : [ "https://twitter.com/Variety/status/1533176765496979456" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "occupied seminole space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jalcine" ],
+        "nickname" : [ "jackyalcine" ],
+        "numeric-id" : [ "1262855987993563136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525219572739100672/0XXECqS0.jpg" ],
+        "published" : [ "2020-05-19T21:22:07+00:00" ],
+        "uid" : [ "tag:twitter.com:jackyalcine" ],
+        "url" : [ "https://twitter.com/jackyalcine", "https://jacky.wtf/about", "https://jacky.wtf/contact" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Going to watch it the minute it's available." ],
+    "published" : [ "2022-06-04T20:23:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1533182789889171456" ],
+    "url" : [ "https://twitter.com/jackyalcine/status/1533182789889171456" ]
+  },
+  "type" : [ "h-entry" ]
+}
