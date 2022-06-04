@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Singapore" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Andreas Ehn" ],
+        "nickname" : [ "ehn" ],
+        "numeric-id" : [ "811087" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/451915084005007360/ISKNKgXF.jpeg" ],
+        "published" : [ "2007-03-05T00:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:ehn" ],
+        "url" : [ "https://twitter.com/ehn", "https://approach.world/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I wonder if RMS anticipated that 37 years after he founded FSF, Mercedes would be shipping these mini CDs with its vehicles to fulfill GPL requirements" ],
+    "photo" : [ "https://pbs.twimg.com/media/FUZez5oX0AE0vKu.jpg" ],
+    "published" : [ "2022-06-04T09:25:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1533016975999393793" ],
+    "url" : [ "https://twitter.com/ehn/status/1533016975999393793" ]
+  },
+  "type" : [ "h-entry" ]
+}
