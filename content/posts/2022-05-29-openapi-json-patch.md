@@ -5,6 +5,7 @@ date: "2022-05-29T14:27:00+0100"
 syndication:
 - "https://twitter.com/JamieTanna/status/1530905519900196864"
 tags:
+- "blogumentation"
 - "go"
 - "openapi"
 - "api"
