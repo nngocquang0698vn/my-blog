@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Beany_1/status/1531330014486179841" ],
     "name" : [ "Like of @Beany_1's tweet" ],
     "published" : [ "2022-06-04T09:16:00+0100" ],
     "like-of" : [ "https://twitter.com/Beany_1/status/1531330014486179841" ],
