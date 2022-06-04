@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/itscoffeyagain/status/1532746610152570880" ],
     "name" : [ "Like of @itscoffeyagain's tweet" ],
     "published" : [ "2022-06-04T13:42:00+0100" ],
     "like-of" : [ "https://twitter.com/itscoffeyagain/status/1532746610152570880" ],
