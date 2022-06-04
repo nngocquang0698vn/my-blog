@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jairo_I_Funez/status/1532735091646021634" ],
     "name" : [ "Like of @Jairo_I_Funez's tweet" ],
     "published" : [ "2022-06-04T07:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Jairo_I_Funez/status/1532735091646021634" ],
