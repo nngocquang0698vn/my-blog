@@ -1,0 +1,39 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Mergy🇺🇦" ],
+        "nickname" : [ "jmergy" ],
+        "numeric-id" : [ "99401071" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499437020870942723/pEItC7H3.jpg" ],
+        "published" : [ "2009-12-26T02:04:30+00:00" ],
+        "uid" : [ "tag:twitter.com:jmergy" ],
+        "url" : [ "https://twitter.com/jmergy", "https://mergy.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Putting the company name in front of every product then changing the product names all the time\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tomgara\"></a>",
+      "value" : "Putting the company name in front of every product then changing the product names all the time"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/tomgara/status/1532038543769489408" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "San Francisco, CA" ],
+        "uid" : [ "tag:twitter.com:5a110d312052166f" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-01T23:56:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1532149180843499520" ],
+    "url" : [ "https://twitter.com/jmergy/status/1532149180843499520" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FUNJjpOUEAAxFCt.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
