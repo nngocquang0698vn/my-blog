@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/donachaidh/status/1532516843864223744" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1533110153309999104" ],
     "published" : [ "2022-06-04T16:26:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
