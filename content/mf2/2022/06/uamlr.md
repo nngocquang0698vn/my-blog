@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justinbaragona/status/1532700301706285056" ],
     "name" : [ "Like of @justinbaragona's tweet" ],
     "published" : [ "2022-06-04T11:45:00+0100" ],
     "like-of" : [ "https://twitter.com/justinbaragona/status/1532700301706285056" ],
