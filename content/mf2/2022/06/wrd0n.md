@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JPedro_Monteiro/status/1532446149730258945" ],
     "name" : [ "Like of @JPedro_Monteiro's tweet" ],
     "published" : [ "2022-06-04T07:40:00+0100" ],
     "like-of" : [ "https://twitter.com/JPedro_Monteiro/status/1532446149730258945" ],
