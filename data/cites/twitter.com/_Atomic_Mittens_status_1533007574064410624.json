@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt 😄" ],
+        "nickname" : [ "Atomic_Mittens" ],
+        "numeric-id" : [ "1487843911083171841" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524087225771872257/X4mRSXj3.jpg" ],
+        "published" : [ "2022-01-30T17:43:34+00:00" ],
+        "uid" : [ "tag:twitter.com:Atomic_Mittens" ],
+        "url" : [ "https://twitter.com/Atomic_Mittens" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "What the fuck?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ClareCoffey\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/abefromanofchi\"></a>",
+      "value" : "What the fuck?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/abefromanofchi/status/1532844507758305283" ],
+    "published" : [ "2022-06-04T08:47:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1533007574064410624" ],
+    "url" : [ "https://twitter.com/Atomic_Mittens/status/1533007574064410624" ]
+  },
+  "type" : [ "h-entry" ]
+}
