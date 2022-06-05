@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Atlanta, GA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Mike Britton" ],
+          "nickname" : [ "mbritton" ],
+          "numeric-id" : [ "8736512" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/619668529814503424/PlU5gBBg.jpg" ],
+          "published" : [ "2007-09-08T00:22:14+00:00" ],
+          "uid" : [ "tag:twitter.com:mbritton" ],
+          "url" : [ "https://twitter.com/mbritton" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">What is a developer advocate? People are right to snicker. It comes across as a \"can't cut it, moving to marketing\" position—and high paying!\n\nKind of like real scientists vs people who speak professionally about it but do no formal research. Your image is about science.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>",
+        "value" : "What is a developer advocate? People are right to snicker. It comes across as a \"can't cut it, moving to marketing\" position—and high paying!\n\nKind of like real scientists vs people who speak professionally about it but do no formal research. Your image is about science."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/mattstratton/status/1532863533385658369" ],
+      "published" : [ "2022-06-04T18:45:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1533158136034611200" ],
+      "url" : [ "https://twitter.com/mbritton/status/1533158136034611200" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, jewish prank dinosaur 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533319114135064576/vBhJN0PS.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Behold, everyone, a “real developer”, unlike all you fakers in devrel!" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lisle, IL" ],
+        "uid" : [ "tag:twitter.com:3009292baa8dda23" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-04T19:11:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1533164661041938433" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1533164661041938433" ]
+  },
+  "type" : [ "h-entry" ]
+}
