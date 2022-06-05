@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Probably breakfast" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie Gaskins, your pickle friend" ],
+        "nickname" : [ "jamie_gaskins" ],
+        "numeric-id" : [ "195645259" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/928817947228999681/2bb5TEcf.jpg" ],
+        "published" : [ "2010-09-27T06:37:43+00:00" ],
+        "uid" : [ "tag:twitter.com:jamie_gaskins" ],
+        "url" : [ "https://twitter.com/jamie_gaskins" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is like the \"those who can't do, teach\" takes from people who can't teach.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mbritton\"></a>",
+      "value" : "This is like the \"those who can't do, teach\" takes from people who can't teach."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mbritton/status/1533158136034611200" ],
+    "published" : [ "2022-06-04T20:50:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1533189499483738112" ],
+    "url" : [ "https://twitter.com/jamie_gaskins/status/1533189499483738112" ]
+  },
+  "type" : [ "h-entry" ]
+}
