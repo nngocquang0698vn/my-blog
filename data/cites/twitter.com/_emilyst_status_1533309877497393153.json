@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily 🌦" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520073109788717058/EG3Rl0En.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">roommate: when you live with another person\n\nroomcheckmate: when you live with another person and there is no possible escape</div>",
+      "value" : "roommate: when you live with another person\n\nroomcheckmate: when you live with another person and there is no possible escape"
+    } ],
+    "published" : [ "2022-06-05T04:48:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1533309877497393153" ],
+    "url" : [ "https://twitter.com/emilyst/status/1533309877497393153" ]
+  },
+  "type" : [ "h-entry" ]
+}
