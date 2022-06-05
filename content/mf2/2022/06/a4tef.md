@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/blackgirlbytes/status/1533166969989615617" ],
     "name" : [ "Like of @blackgirlbytes's tweet" ],
     "published" : [ "2022-06-05T08:33:00+0100" ],
     "like-of" : [ "https://twitter.com/blackgirlbytes/status/1533166969989615617" ],
