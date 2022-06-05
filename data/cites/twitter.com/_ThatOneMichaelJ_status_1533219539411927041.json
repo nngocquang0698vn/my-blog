@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Johnson" ],
+        "nickname" : [ "ThatOneMichaelJ" ],
+        "numeric-id" : [ "4845502013" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1371104292753481731/PV6Oxnr7.jpg" ],
+        "published" : [ "2016-01-25T13:18:02+00:00" ],
+        "uid" : [ "tag:twitter.com:ThatOneMichaelJ" ],
+        "url" : [ "https://twitter.com/ThatOneMichaelJ", "http://twitch.tv/sprint6864" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I hear there's a \"Leto Cut\", where Jared Leto is completely cut from the movie\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/That1flowergirl\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/vlzxero\"></a>",
+      "value" : "I hear there's a \"Leto Cut\", where Jared Leto is completely cut from the movie"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/That1flowergirl/status/1533190459190824966" ],
+    "published" : [ "2022-06-04T22:49:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1533219539411927041" ],
+    "url" : [ "https://twitter.com/ThatOneMichaelJ/status/1533219539411927041" ]
+  },
+  "type" : [ "h-entry" ]
+}
