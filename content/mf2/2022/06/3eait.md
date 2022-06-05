@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MishmoshTv/status/1532821083698569216" ],
     "name" : [ "Like of @MishmoshTv's tweet" ],
     "published" : [ "2022-06-05T17:15:00+0100" ],
     "like-of" : [ "https://twitter.com/MishmoshTv/status/1532821083698569216" ],
