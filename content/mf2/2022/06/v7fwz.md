@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheTumboy/status/1533185177555546112" ],
     "name" : [ "Like of @TheTumboy's tweet" ],
     "published" : [ "2022-06-05T09:45:00+0100" ],
     "like-of" : [ "https://twitter.com/TheTumboy/status/1533185177555546112" ],
