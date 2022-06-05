@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rainbowmessengr/status/1533165029981405184" ],
     "name" : [ "Like of @rainbowmessengr's tweet" ],
     "published" : [ "2022-06-05T08:32:00+0100" ],
     "like-of" : [ "https://twitter.com/rainbowmessengr/status/1533165029981405184" ],
