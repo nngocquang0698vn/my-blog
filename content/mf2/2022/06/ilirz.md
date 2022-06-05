@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ThatOneMichaelJ/status/1533219539411927041" ],
     "name" : [ "Like of @ThatOneMichaelJ's tweet" ],
     "published" : [ "2022-06-05T11:02:00+0100" ],
     "like-of" : [ "https://twitter.com/ThatOneMichaelJ/status/1533219539411927041" ],
