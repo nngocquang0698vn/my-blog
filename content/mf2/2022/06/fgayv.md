@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Hoodie_Milly/status/1533438954250313728" ],
     "name" : [ "Like of @Hoodie_Milly's tweet" ],
     "published" : [ "2022-06-05T15:29:00+0100" ],
     "like-of" : [ "https://twitter.com/Hoodie_Milly/status/1533438954250313728" ],
