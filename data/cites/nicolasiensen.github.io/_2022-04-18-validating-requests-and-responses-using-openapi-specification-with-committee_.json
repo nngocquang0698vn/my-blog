@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Validating requests and responses using OpenAPI specification with Committee" ],
+    "summary" : [ "This tutorial shows how to reuse the OpenAPI specification to validate requests and responses in a Rails application using the gem Committee." ],
+    "featured" : [ "https://nicolasiensen.github.io/assets/img/nico.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Nícolas Iensen" ]
+      }
+    } ],
+    "url" : [ "https://nicolasiensen.github.io/2022-04-18-validating-requests-and-responses-using-openapi-specification-with-committee/" ]
+  }
+}
