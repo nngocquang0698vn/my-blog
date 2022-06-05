@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EliErlick/status/1532814362477469696" ],
     "name" : [ "Like of @EliErlick's tweet" ],
     "published" : [ "2022-06-05T17:18:00+0100" ],
     "like-of" : [ "https://twitter.com/EliErlick/status/1532814362477469696" ],
