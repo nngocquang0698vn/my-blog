@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "toronto" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jenny (phire)" ],
+        "nickname" : [ "phirephoenix" ],
+        "numeric-id" : [ "9254512" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1442713308323274756/nqw3mYSm.jpg" ],
+        "published" : [ "2007-10-04T23:54:26+00:00" ],
+        "uid" : [ "tag:twitter.com:phirephoenix" ],
+        "url" : [ "https://twitter.com/phirephoenix", "https://www.phirephoenix.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Intentionally leaking a security credential at the beginning of a talk (on not leaking security credentials in git/docker) and then showing where it’s been picked up and pinged from at the end of the talk might be the most effective live demo I’ve ever seen" ],
+    "published" : [ "2022-06-05T18:35:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1533517841923600384" ],
+    "url" : [ "https://twitter.com/phirephoenix/status/1533517841923600384" ]
+  },
+  "type" : [ "h-entry" ]
+}
