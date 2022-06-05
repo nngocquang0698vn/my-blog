@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty stratton, jewish prank dinosaur 🇺🇦 💜" ],
+        "nickname" : [ "mattstratton" ],
+        "numeric-id" : [ "46113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533319114135064576/vBhJN0PS.png" ],
+        "published" : [ "2006-12-06T18:20:17+00:00" ],
+        "uid" : [ "tag:twitter.com:mattstratton" ],
+        "url" : [ "https://twitter.com/mattstratton", "http://mattstratton.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Wow, did you wake up this morning and say “you know what? I think I’ll be a jerk on the internet?”\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mbritton\"></a>",
+      "value" : "Wow, did you wake up this morning and say “you know what? I think I’ll be a jerk on the internet?”"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mbritton/status/1533158136034611200" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Lisle, IL" ],
+        "uid" : [ "tag:twitter.com:3009292baa8dda23" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-04T19:10:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1533164409488539648" ],
+    "url" : [ "https://twitter.com/mattstratton/status/1533164409488539648" ]
+  },
+  "type" : [ "h-entry" ]
+}
