@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "heathers" ],
+        "nickname" : [ "HeddaMeow" ],
+        "numeric-id" : [ "1444102075479060483" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445855028061753348/mvxBnMsP.jpg" ],
+        "published" : [ "2021-10-02T00:49:13+00:00" ],
+        "uid" : [ "tag:twitter.com:HeddaMeow" ],
+        "url" : [ "https://twitter.com/HeddaMeow" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You remind me of all the developers I ever worked with who said I wasn’t a “real” engineer because I was in devops / SRE, but who always needed my help to pull their nuts out of the fire when their code brought down production\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mattstratton\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mbritton\"></a>",
+      "value" : "You remind me of all the developers I ever worked with who said I wasn’t a “real” engineer because I was in devops / SRE, but who always needed my help to pull their nuts out of the fire when their code brought down production"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mbritton/status/1533158136034611200" ],
+    "published" : [ "2022-06-04T21:00:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1533191979890225152" ],
+    "url" : [ "https://twitter.com/HeddaMeow/status/1533191979890225152" ]
+  },
+  "type" : [ "h-entry" ]
+}
