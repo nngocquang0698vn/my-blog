@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/interagent/committee/stargazers" ],
     "name" : [ "interagent/committee: A collection of Rack middleware to support JSON Schema." ],
     "published" : [ "2022-06-05T12:18:34.776323311Z" ],
     "category" : [ "openapi", "ruby" ],
