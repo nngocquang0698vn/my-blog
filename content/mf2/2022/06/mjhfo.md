@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RANK10YGO/status/1510361009621450761" ],
     "name" : [ "Like of @RANK10YGO's tweet" ],
     "published" : [ "2022-06-05T22:02:00+0100" ],
     "like-of" : [ "https://twitter.com/RANK10YGO/status/1510361009621450761" ],
