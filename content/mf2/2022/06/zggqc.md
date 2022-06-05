@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AndallthatjASS/status/1532736546402623488" ],
     "name" : [ "Like of @AndallthatjASS's tweet" ],
     "published" : [ "2022-06-05T08:30:00+0100" ],
     "like-of" : [ "https://twitter.com/AndallthatjASS/status/1532736546402623488" ],
