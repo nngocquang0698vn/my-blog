@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Gondelman" ],
+        "nickname" : [ "joshgondelman" ],
+        "numeric-id" : [ "70111948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457723783452798981/9jVr6PKF.jpg" ],
+        "published" : [ "2009-08-30T12:40:22+00:00" ],
+        "uid" : [ "tag:twitter.com:joshgondelman" ],
+        "url" : [ "https://twitter.com/joshgondelman", "https://www.harpercollins.com/9780062959003/nice-try/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Am I a gambling man? Well I did wait until this morning to try on a suit that I haven’t worn in two years and need to wear today." ],
+    "published" : [ "2022-06-04T12:57:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1533070358580019200" ],
+    "url" : [ "https://twitter.com/joshgondelman/status/1533070358580019200" ]
+  },
+  "type" : [ "h-entry" ]
+}
