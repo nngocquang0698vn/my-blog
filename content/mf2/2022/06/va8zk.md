@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/willnet/committee-rails/stargazers" ],
     "published" : [ "2022-06-05T16:04:00+0100" ],
     "category" : [ "openapi", "rails" ],
     "like-of" : [ "https://github.com/willnet/committee-rails" ],
