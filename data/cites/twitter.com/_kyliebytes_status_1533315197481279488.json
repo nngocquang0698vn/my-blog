@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kylie Robison" ],
+        "nickname" : [ "kyliebytes" ],
+        "numeric-id" : [ "253350725" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1494053476233453569/_Q50YFWo.jpg" ],
+        "published" : [ "2011-02-17T02:10:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kyliebytes" ],
+        "url" : [ "https://twitter.com/kyliebytes", "https://linktr.ee/kylierobison" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I like having a black cat because he always looks like he’s haunting me" ],
+    "published" : [ "2022-06-05T05:10:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1533315197481279488" ],
+    "url" : [ "https://twitter.com/kyliebytes/status/1533315197481279488" ]
+  },
+  "type" : [ "h-entry" ]
+}
