@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Remote" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Job" ],
+        "nickname" : [ "Jobvo" ],
+        "numeric-id" : [ "65750827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1415025931069046785/BZN92PdF.jpg" ],
+        "published" : [ "2009-08-14T22:16:13+00:00" ],
+        "uid" : [ "tag:twitter.com:Jobvo" ],
+        "url" : [ "https://twitter.com/Jobvo", "https://www.remote.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tech CEOs wanting to go back to the office." ],
+    "published" : [ "2022-02-23T15:28:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1496507164445356032" ],
+    "url" : [ "https://twitter.com/Jobvo/status/1496507164445356032" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1496507072954916872/pu/vid/576x1024/5XH2O7eXANbPa-x8.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
