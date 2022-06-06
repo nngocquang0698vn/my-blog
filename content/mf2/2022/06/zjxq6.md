@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thegrumpygirl/status/1533767613066747905" ],
     "name" : [ "Like of @thegrumpygirl's tweet" ],
     "published" : [ "2022-06-06T16:26:00+0100" ],
     "like-of" : [ "https://twitter.com/thegrumpygirl/status/1533767613066747905" ],
