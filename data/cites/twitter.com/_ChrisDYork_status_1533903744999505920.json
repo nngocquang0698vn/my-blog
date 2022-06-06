@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "BBC Newsnight" ],
+          "nickname" : [ "BBCNewsnight" ],
+          "numeric-id" : [ "20543416" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1168387012602355714/wSsxD5-Z.jpg" ],
+          "published" : [ "2009-02-10T20:37:57+00:00" ],
+          "uid" : [ "tag:twitter.com:BBCNewsnight" ],
+          "url" : [ "https://twitter.com/BBCNewsnight", "http://bbc.co.uk/newsnight", "http://facebook.com/bbcnewsnight", "http://bbc.in/2J72V7O" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">“This is a very bad result for the prime minister, 117 votes against her… much worse than she thought” says Jacob Rees-Mogg MP, who insists the result is worse that it looks as an ”overwhelming majority of backbenchers have voted against her” \n\n<a href=\"https://twitter.com/search?q=%23newsnight\">#newsnight</a> | <a href=\"https://twitter.com/Jacob_Rees_Mogg\">@Jacob_Rees_Mogg</a></div>",
+        "value" : "“This is a very bad result for the prime minister, 117 votes against her… much worse than she thought” says Jacob Rees-Mogg MP, who insists the result is worse that it looks as an ”overwhelming majority of backbenchers have voted against her” \n\n#newsnight | @Jacob_Rees_Mogg"
+      } ],
+      "published" : [ "2018-12-12T23:03:57+00:00" ],
+      "uid" : [ "tag:twitter.com:1072990467598385152" ],
+      "url" : [ "https://twitter.com/BBCNewsnight/status/1072990467598385152" ],
+      "video" : [ "https://video.twimg.com/amplify_video/1072990418189467648/vid/1280x720/DiQbolHef3sJ7wCZ.mp4?tag=9" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/bbcnewsnight/s…" ],
+      "url" : [ "https://twitter.com/bbcnewsnight/status/1072990467598385152" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Chris York" ],
+        "nickname" : [ "ChrisDYork" ],
+        "numeric-id" : [ "227423066" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/476728517564973056/76yFsItz.jpeg" ],
+        "published" : [ "2010-12-16T20:19:29+00:00" ],
+        "uid" : [ "tag:twitter.com:ChrisDYork" ],
+        "url" : [ "https://twitter.com/ChrisDYork" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“This is a very bad result for the prime minister, 148 votes against him…”\n<a class=\"tag\" href=\"https://twitter.com/bbcnewsnight/status/1072990467598385152\">twitter.com/bbcnewsnight/s…</a>",
+      "value" : "“This is a very bad result for the prime minister, 148 votes against him…”"
+    } ],
+    "published" : [ "2022-06-06T20:08:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1533903744999505920" ],
+    "url" : [ "https://twitter.com/ChrisDYork/status/1533903744999505920" ]
+  },
+  "type" : [ "h-entry" ]
+}
