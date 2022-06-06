@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Why does rspec-rails skip the middleware?" ],
+    "summary" : [ "I have a Rails app (3.2.12) that I wanted to add locale switching via HTTP Accept-Language header.\n\nWhat I did to achieve that:\n\nI added rack-contrib to my Gemfile:\n\ngem 'rack-contrib', require: 'r..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/15026571/why-does-rspec-rails-skip-the-middleware" ]
+  }
+}
