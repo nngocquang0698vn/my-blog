@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/carolstran/status/1533700495591751681" ],
     "name" : [ "Like of @carolstran's tweet" ],
     "published" : [ "2022-06-06T08:29:00+0100" ],
     "like-of" : [ "https://twitter.com/carolstran/status/1533700495591751681" ],
