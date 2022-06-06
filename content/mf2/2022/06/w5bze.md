@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/millheif/status/1533561487842844672" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1533706480100196355" ],
     "published" : [ "2022-06-06T07:57:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
