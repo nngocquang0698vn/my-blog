@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JimMFelton/status/1533905565637804039" ],
     "name" : [ "Like of @JimMFelton's tweet" ],
     "published" : [ "2022-06-06T22:23:00+0100" ],
     "like-of" : [ "https://twitter.com/JimMFelton/status/1533905565637804039" ],
