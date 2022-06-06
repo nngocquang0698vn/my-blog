@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/morganastra/status/1532984107851870208" ],
     "name" : [ "Like of @morganastra's tweet" ],
     "published" : [ "2022-06-06T16:22:00+0100" ],
     "like-of" : [ "https://twitter.com/morganastra/status/1532984107851870208" ],
