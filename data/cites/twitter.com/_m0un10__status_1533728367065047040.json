@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brisbane, Australia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Craig Barr" ],
+        "nickname" : [ "m0un10_" ],
+        "numeric-id" : [ "1366914511" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146759818989850624/AAduds5g.jpg" ],
+        "published" : [ "2013-04-20T12:19:51+00:00" ],
+        "uid" : [ "tag:twitter.com:m0un10_" ],
+        "url" : [ "https://twitter.com/m0un10_", "https://github.com/m0un10" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/search?q=%23TIL\">#TIL</a> setting up a testable mail server can fit in a tweet\n\nSetup:\ndocker run -p 8025:8025 -p 1025:1025 mailhog/mailhog\n\nTest:\ncurl \"smtp://localhost:1025\" --mail-from 'from@foo.com' --mail-rcpt 'to@bar.com' -T &lt;(echo -e 'Subject: Hello\\n\\nWorld!')\nopen http://localhost:8025</div>",
+      "value" : "#TIL setting up a testable mail server can fit in a tweet\n\nSetup:\ndocker run -p 8025:8025 -p 1025:1025 mailhog/mailhog\n\nTest:\ncurl \"smtp://localhost:1025\" --mail-from 'from@foo.com' --mail-rcpt 'to@bar.com' -T <(echo -e 'Subject: Hello\\n\\nWorld!')\nopen http://localhost:8025"
+    } ],
+    "published" : [ "2022-06-06T08:31:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1533728367065047040" ],
+    "url" : [ "https://twitter.com/m0un10_/status/1533728367065047040" ]
+  },
+  "type" : [ "h-entry" ]
+}
