@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Holly Cummins" ],
+        "nickname" : [ "holly_cummins" ],
+        "numeric-id" : [ "154083210" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525059308538437632/hlaOHAnN.jpg" ],
+        "published" : [ "2010-06-10T09:38:55+00:00" ],
+        "uid" : [ "tag:twitter.com:holly_cummins" ],
+        "url" : [ "https://twitter.com/holly_cummins", "https://hollycummins.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Even if you’re not doing serverless, if you’re doing true continuous delivery (deploy every 5m or so) Java warmup times will mean you’re not reaching peak performance before another deploy puts you back to zero.  -<a href=\"https://twitter.com/SanneGrinovero\">@SanneGrinovero</a> <a href=\"https://twitter.com/search?q=%23quarkus\">#quarkus</a> <a href=\"https://twitter.com/search?q=%23jnation\">#jnation</a>",
+      "value" : "Even if you’re not doing serverless, if you’re doing true continuous delivery (deploy every 5m or so) Java warmup times will mean you’re not reaching peak performance before another deploy puts you back to zero.  -@SanneGrinovero #quarkus #jnation"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FUj34xUWQAAiOox.jpg", "https://pbs.twimg.com/media/FUj34xcXwAAf_VX.jpg" ],
+    "published" : [ "2022-06-06T09:51:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1533748336196468738" ],
+    "url" : [ "https://twitter.com/holly_cummins/status/1533748336196468738" ]
+  },
+  "type" : [ "h-entry" ]
+}
