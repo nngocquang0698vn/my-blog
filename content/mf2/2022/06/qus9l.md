@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aaronbassett/status/1533811127708172289" ],
     "name" : [ "Like of @aaronbassett's tweet" ],
     "published" : [ "2022-06-07T07:10:00+0100" ],
     "like-of" : [ "https://twitter.com/aaronbassett/status/1533811127708172289" ],
