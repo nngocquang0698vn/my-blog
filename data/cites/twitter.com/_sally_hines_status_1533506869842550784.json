@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sally Hines" ],
+        "nickname" : [ "sally_hines" ],
+        "numeric-id" : [ "1511371880" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457270108167024648/qhn3svd7.jpg" ],
+        "published" : [ "2013-06-12T19:10:36+00:00" ],
+        "uid" : [ "tag:twitter.com:sally_hines" ],
+        "url" : [ "https://twitter.com/sally_hines" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hello Helen, could you please help me understand how wanting a population to disappear is not eugenics. Thank you. Sally.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HJoyceGender\"></a>",
+      "value" : "Hello Helen, could you please help me understand how wanting a population to disappear is not eugenics. Thank you. Sally."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/HJoyceGender/status/1533505229982932993" ],
+    "published" : [ "2022-06-05T17:51:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1533506869842550784" ],
+    "url" : [ "https://twitter.com/sally_hines/status/1533506869842550784" ]
+  },
+  "type" : [ "h-entry" ]
+}
