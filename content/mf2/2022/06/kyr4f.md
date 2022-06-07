@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NaChaSaeed/status/1533897497768251394" ],
     "name" : [ "Like of @NaChaSaeed's tweet" ],
     "published" : [ "2022-06-07T07:47:00+0100" ],
     "like-of" : [ "https://twitter.com/NaChaSaeed/status/1533897497768251394" ],
