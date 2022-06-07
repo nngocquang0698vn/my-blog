@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shiftleftberlin/status/1533865132194930688" ],
     "name" : [ "Like of @shiftleftberlin's tweet" ],
     "published" : [ "2022-06-07T07:10:00+0100" ],
     "like-of" : [ "https://twitter.com/shiftleftberlin/status/1533865132194930688" ],
