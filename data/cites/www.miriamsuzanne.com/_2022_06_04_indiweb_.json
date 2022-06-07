@@ -1,0 +1,1482 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Am I on the IndieWeb Yet?" ],
+    "category" : [ "code", "indieweb" ],
+    "summary" : [ "I’m really into the IndieWeb, or the ideas behind it. I like to own my data, I like a space to play and experiment, I like the idea of syndicating content to be read/experienced in a variety of formats. I love microformats, and RSS feeds, and… wait… how do webmentions work?" ],
+    "org" : [ "OddBird", "Sass", "W3C CSS Working Group", "CSS Tricks", "Mozilla Developer Channel" ],
+    "in-reply-to" : [ "https://chriscoyier.net/2022/04/29/rss-3/" ],
+    "url" : [ "https://www.miriamsuzanne.com/2022/06/04/indiweb/" ],
+    "published" : [ "2022-06-07" ],
+    "content" : [ {
+      "html" : "<footer data-meta=\"page\">\n    \n\n    <p>\n      \n\n  <time datetime=\"2022-06-07\" pubdate=\"\" class=\"dt-published\">\n    \n\n    \n      \n      \n      June 4, 2022\n    \n  </time>\n\n    </p>\n\n    \n\n    \n\n    \n      <p class=\"page-tags\">\n        in \n\n  <a href=\"https://www.miriamsuzanne.com/tags/code/\" class=\"p-category\">code</a>, <a href=\"https://www.miriamsuzanne.com/tags/indieweb/\" class=\"p-category\">indieweb</a>\n\n      </p>\n    \n      <p>(26 web-likes)</p>\n    \n\n  </footer>\n\n\n\n    \n\n    \n      <div class=\"intro p-summary\">\n        <p>I&#x2019;m really into the <a href=\"https://indieweb.org/\">IndieWeb</a>,\nor the ideas behind it.\nI like to own my data,\nI like a space to play and experiment,\nI like the idea of syndicating content\nto be read/experienced in a variety of formats.\nI love <a href=\"https://microformats.org/wiki/microformats2\">microformats</a>,\nand <a href=\"https://en.wikipedia.org/wiki/RSS\"><span class=\"caps\">RSS</span> feeds</a>,\nand&#x2026; wait&#x2026; how do <a href=\"https://indieweb.org/Webmention\">webmentions</a><span class=\"widont\">&#xA0;</span>work?</p>\n\n      </div>\n    \n\n    \n      <h2>Slow Social</h2>\n<p>A few weeks back\nthere was another round of social-media panic\n(which is reasonable),\nand the ever-present reminders\nto Use A Personal<span class=\"widont\">&#xA0;</span>Site.</p>\n<p>Personal sites are great!\nBut I have some issues with that reply,\nand I posted about it on<span class=\"widont\">&#xA0;</span>Twitter:</p>\n<blockquote>\n<p>Personal sites are wonderful.\nBut they can be a lot of work to set up <span class=\"amp\">&amp;</span> maintain.\nAlso: personal solutions don&#x2019;t solve\nthe problem of building networks\n<span class=\"amp\">&amp;</span> public digital<span class=\"widont\">&#xA0;</span>spaces.</p>\n<p>If we want &#x2018;personal sites&#x2019; to be an answer to social platforms,\nwe have a lot of work to<span class=\"widont\">&#xA0;</span>do.</p>\n<p>&#x2014;<a href=\"https://twitter.com/TerribleMia/status/1519404061711224833\">Me, on Twitter</a></p>\n</blockquote>\n<p>At the core,\nI&#x2019;m skeptical about\ntreating &#x201C;public space&#x201D; issues\nas a matter of personal<span class=\"widont\">&#xA0;</span>responsibility.</p>\n<p>Chris Coyier\nmade a point of\n<a href=\"https://chriscoyier.net/2022/04/29/rss-3/\" class=\"u-in-reply-to\">\nreplying on his personal site\n</a> &#x2013;\na lovely little post\nabout how cool <span class=\"caps\">RSS</span> is,\nand the benefits of &#x201C;slow social&#x201D; web<span class=\"widont\">&#xA0;</span>interactions.</p>\n<p>And I agree completely!\n<em>[insert requisite mourning for<span class=\"widont\">&#xA0;</span>Reader]</em></p>\n<p>But then I look at my site &#x2013;\nthis site, here &#x2013;\nand it&#x2019;s a struggle to get all the pieces working\nthe way that I want,\nespecially when it comes to<span class=\"widont\">&#xA0;</span>syndication.</p>\n<p>I do have <a href=\"https://www.miriamsuzanne.com/feed.xml\">a feed that you can subscribe to</a>,\nbut I&#x2019;ve struggled to categorize\nwhat on my site is a &#x201C;post&#x201D; worth syndicating\nvs a &#x201C;page&#x201D; vs<span class=\"widont\">&#xA0;</span>???.</p>\n<p>And I&#x2019;m not always sure I have it set up right?\nValidators flag the <code>style</code> attribute\n(setting custom props in some content),\nor embedded <code>iframe</code>s (for audio/video),\nor <code>script</code>s (usually for embedding content).\nHow much should I worry about these issues?\nDo I need to run my content through\na tool like <code>sanitize-html</code>,\nand if so,\nhow strict should it be?\nI often have similar questions\nwhen setting up microformats,\nand trying to match the needs of the format\nto the needs of my<span class=\"widont\">&#xA0;</span>content.</p>\n<p>These are very solvable problems\nwith testing and research &#x2013;\nbut they start to add<span class=\"widont\">&#xA0;</span>up.</p>\n<h2>WebMentions</h2>\n<p>Since making that post,\nI&#x2019;ve also started to explore WebMentions,\nfollowing instructions from\n<a href=\"https://matthiasott.com/articles/into-the-personal-website-verse\">Matthias Ott</a>,\n<a href=\"https://keithjgrant.com/posts/2019/02/adding-webmention-support-to-a-static-site\">Keith Grant</a>,\nand <a href=\"https://mxb.dev/blog/using-webmentions-on-static-sites/\">Max B&#xF6;ck</a>.\nI recommend all three articles,\nbut the first thing that becomes clear\nis that this requires multiple steps,\nand is not a simple\nor straight-forward<span class=\"widont\">&#xA0;</span>process.</p>\n<p>The first round required several online services\nalong with <span class=\"caps\">HTML</span> <span class=\"amp\">&amp;</span> <span class=\"caps\">JS</span> changes to my static site,\njust to verify my indieweb identity.\nThen more changes to the site\nand more online services to help fetch any mentions\n<s>(so far, nothing to see, but that&#x2019;s probably expected)</s>.\nIt seems the only way to test the setup\nis to launch all those changes publicly,\nand then ask for other devs to send you<span class=\"widont\">&#xA0;</span>mentions.</p>\n<p>(That&#x2019;s partly the goal of this<span class=\"widont\">&#xA0;</span>post.)</p>\n<p>Every time I think I have the basics in place,\nI find some other set of instructions\nsuggesting there&#x2019;s another step to<span class=\"widont\">&#xA0;</span>take.</p>\n<p><strong>Update:</strong>\nI seem to have things working here now,\nbut I&#x2019;m still not entirely clear\non how it works.\nIn the end\nI&#x2019;ve added some metadata to the site <code>head</code>,\na number of microformats to the markup,\nseveral third-party services,\nand an <span class=\"caps\">API</span> call to download the data from one of them.\nI&#x2019;m not convinced I have all the details right,\nand I&#x2019;m not sure which validators to test<span class=\"widont\">&#xA0;</span>against.</p>\n<p>If I want live updates\n(this is a static site)\nthere&#x2019;s still more to<span class=\"widont\">&#xA0;</span>learn.</p>\n<h2>A Proof Of Concept (for developers<span class=\"widont\">&#xA0;</span>only)</h2>\n<p>I&#x2019;m an experienced web developer,\nand I can figure it out.\nBut the steps aren&#x2019;t simple,\nand most of my friends <em>are not web developers</em>.\nSo, to me,\nthis all feels like the prototype of an idea &#x2013;\na proof of<span class=\"widont\">&#xA0;</span>concept.</p>\n<p>We have the technology\nto implement a slow social network\nof personal sites.\nI&#x2019;m excited to keep playing\nwith that code.\nBut proving the concept is not the same\nas actually making it easy <span class=\"amp\">&amp;</span> accessible\nin a way that can replace<span class=\"widont\">&#xA0;</span>platforms.</p>\n<h2>What&#x2019;s Next?</h2>\n<p>I know there are plugins\nfor WordPress and other blogging software\nto help make the setup simpler.\nThat&#x2019;s<span class=\"widont\">&#xA0;</span>great!</p>\n<p>What I would like to see\nis a tool that helps bring\nthe entire system together\nin one place.\nSomewhere that non-technical people<span class=\"widont\">&#xA0;</span>can:</p>\n<ul>\n<li>build their own site, with support for<span class=\"widont\">&#xA0;</span>feeds/mentions</li>\n<li>see what feeds are available on other sites, and subscribe to<span class=\"widont\">&#xA0;</span>them</li>\n<li>easily respond to other sites, and see the resulting<span class=\"widont\">&#xA0;</span>threads</li>\n</ul>\n<p>That&#x2019;s <em>a large feature set</em>, I know.\nIn my mind, it would make the most sense\nfor those features to live\n<a href=\"https://twitter.com/TerribleMia/status/1488582497382408197\">in a browser</a>,\nbut it might be possible\nto build as a web service with browser<span class=\"widont\">&#xA0;</span>plugins?</p>\n<p>Whatever it looks like,\n<em>it will take a lot of work to get<span class=\"widont\">&#xA0;</span>there</em>.</p>",
+      "value" : "June 4, 2022\nin code, indieweb\n(26 web-likes)\nI’m really into the IndieWeb, or the ideas behind it. I like to own my data, I like a space to play and experiment, I like the idea of syndicating content to be read/experienced in a variety of formats. I love microformats, and RSS feeds, and… wait… how do webmentions work? Slow Social\nA few weeks back there was another round of social-media panic (which is reasonable), and the ever-present reminders to Use A Personal Site.\nPersonal sites are great! But I have some issues with that reply, and I posted about it on Twitter:\nPersonal sites are wonderful. But they can be a lot of work to set up & maintain. Also: personal solutions don’t solve the problem of building networks & public digital spaces.\nIf we want ‘personal sites’ to be an answer to social platforms, we have a lot of work to do.\n—Me, on Twitter\nAt the core, I’m skeptical about treating “public space” issues as a matter of personal responsibility.\nChris Coyier made a point of replying on his personal site – a lovely little post about how cool RSS is, and the benefits of “slow social” web interactions.\nAnd I agree completely! [insert requisite mourning for Reader]\nBut then I look at my site – this site, here – and it’s a struggle to get all the pieces working the way that I want, especially when it comes to syndication.\nI do have a feed that you can subscribe to, but I’ve struggled to categorize what on my site is a “post” worth syndicating vs a “page” vs ???.\nAnd I’m not always sure I have it set up right? Validators flag the style attribute (setting custom props in some content), or embedded iframes (for audio/video), or scripts (usually for embedding content). How much should I worry about these issues? Do I need to run my content through a tool like sanitize-html, and if so, how strict should it be? I often have similar questions when setting up microformats, and trying to match the needs of the format to the needs of my content.\nThese are very solvable problems with testing and research – but they start to add up. WebMentions\nSince making that post, I’ve also started to explore WebMentions, following instructions from Matthias Ott, Keith Grant, and Max Böck. I recommend all three articles, but the first thing that becomes clear is that this requires multiple steps, and is not a simple or straight-forward process.\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my indieweb identity. Then more changes to the site and more online services to help fetch any mentions (so far, nothing to see, but that’s probably expected). It seems the only way to test the setup is to launch all those changes publicly, and then ask for other devs to send you mentions.\n(That’s partly the goal of this post.)\nEvery time I think I have the basics in place, I find some other set of instructions suggesting there’s another step to take.\nUpdate: I seem to have things working here now, but I’m still not entirely clear on how it works. In the end I’ve added some metadata to the site head, a number of microformats to the markup, several third-party services, and an API call to download the data from one of them. I’m not convinced I have all the details right, and I’m not sure which validators to test against.\nIf I want live updates (this is a static site) there’s still more to learn. A Proof Of Concept (for developers only)\nI’m an experienced web developer, and I can figure it out. But the steps aren’t simple, and most of my friends are not web developers. So, to me, this all feels like the prototype of an idea – a proof of concept.\nWe have the technology to implement a slow social network of personal sites. I’m excited to keep playing with that code. But proving the concept is not the same as actually making it easy & accessible in a way that can replace platforms. What’s Next?\nI know there are plugins for WordPress and other blogging software to help make the setup simpler. That’s great!\nWhat I would like to see is a tool that helps bring the entire system together in one place. Somewhere that non-technical people can: build their own site, with support for feeds/mentions see what feeds are available on other sites, and subscribe to them easily respond to other sites, and see the resulting threads\nThat’s a large feature set, I know. In my mind, it would make the most sense for those features to live in a browser, but it might be possible to build as a web service with browser plugins?\nWhatever it looks like, it will take a lot of work to get there.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Miriam Eric Suzanne" ],
+        "note" : [ "I’m an artist, activist, teacher, and web developer. As a co-founder of OddBird, Teacup Gorilla, and Grapefruit Lab I hope to create art & software that celebrate the queerness & complexity of human experience." ],
+        "url" : [ "https://miariamsuzanne.com/who/", "https://twitter.com/TerribleMia", "https://github.com/mirisuzanne", "https://codepen.io/miriamsuzanne/", "https://stackoverflow.com/users/1930386/", "https://keybase.io/mirisuzanne" ],
+        "uid" : [ "https://miariamsuzanne.com/who/" ],
+        "org" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "OddBird" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/oddbird/" ]
+          },
+          "lang" : "en",
+          "value" : "OddBird"
+        }, {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Teacup Gorilla" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/teacup-gorilla/" ]
+          },
+          "lang" : "en",
+          "value" : "Teacup Gorilla"
+        }, {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Grapefruit Lab" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/grapefruit-lab/" ]
+          },
+          "lang" : "en",
+          "value" : "Grapefruit Lab"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Miriam Eric Suzanne"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Chris Coyier" ],
+          "content" : [ "Right now I think if I had a full day-or-two to dedicate to it I’m not sure I could pull it off. Particularly the “if someone tweets a comment, pull it into my own DB and display it automatically”. Too hard." ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/fe17827fe542a95c9bfbe5d1bcd9a1dd2890b5efc270bf77b5776b244bb0e0f9.jpg" ],
+          "url" : [ "https://twitter.com/chriscoyier/status/1534188978747805699" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Chris Coyier"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Hidde" ],
+          "content" : [ "Fully agree with the need you're identifying… the need for something that makes setting all this up a whole lot easier. Even if for selfish reasons… I want to be able to read great content from all those non technical but interesting people" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/aec18d4e6514f5b156c5e7ef838f9bd1f81e3bfc4ac847a88be97a480eef77be.jpg" ],
+          "url" : [ "https://twitter.com/hdv/status/1534096238785794048" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Hidde"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Adactio Links" ],
+          "content" : [ "Am I on the IndieWeb Yet? | Miriam Eric Suzanne miriamsuzanne.com/2022/06/04/ind…" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/8e0a805eae6791b05c23541931a123a5446393bb9929fcdd274f7e5c33d7792f.jpeg" ],
+          "url" : [ "https://twitter.com/adactioLinks/status/1534094660326547456" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Adactio Links"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Matthias Ott" ],
+          "content" : [ "“The steps aren’t simple, and most of my friends are not web developers. So, to me, this all feels like the prototype of an idea – a proof of concept. […] What I would like to see is a tool that helps bring the entire system together in one place.” @TerribleMia about #webmention twitter.com/terriblemia/st…" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/a34d0a855d4336e07245950e108a3d322445dabff46cfb01e805208ca3d8abcc.jpg" ],
+          "url" : [ "https://twitter.com/m_ott/status/1534055442472656898" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Matthias Ott"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Mia (not her best work)" ],
+          "content" : [ "Thank you also for demonstrating that I need to filter duplicate mentions, where one is a syndication of the other. I also needed spacing between multiple mentions. Both issues should be fixed once the page rebuilds. :)" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/0070719556938ae95053b104df74ca15213d4a99abb84c5e03fe27b0c52e139e.jpg" ],
+          "url" : [ "https://twitter.com/TerribleMia/status/1533993624957898752" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Mia (not her best work)"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Chris Aldrich" ],
+          "content" : [ "@TerribleMia You've got your own site and control your URLs, so you're definitely on it! And you've got Webmentions for additional icing on the cake. Kudos! I'm glad you've managed to get things set up and working for yourself. It definitely helps to have small bite-sized pieces of technology to rely on to get it all going.\n\nYou're right that it's a lot of work on individuals, but there are some emerging platforms/providers attempting to make all of this technology easier on the general public who don't have the time, technical skills, or desire to maintain any of their own systems. Micro.blog is one of these options to be sure. A few others can be found here: https://indieweb.org/Quick_Start With available small building blocks that interoperate, hopefully it will be easier for companies to provide a variety and plurality of tools to make the entire enterprise easier for all of our friends and family.\n\nCongratulations again!" ],
+          "photo" : [ "https://webmention.io/avatar/stream.boffosocko.com/d0ba9f65fcbf0cef3bdbcccc0b6a1f42b1310f7ab2e07208c7a396166cde26b1.jpeg" ],
+          "url" : [ "http://stream.boffosocko.com/2022/terriblemia-youve-got-your-own-site-and-control-your-urls" ],
+          "published" : [ "2022-06-07" ]
+        },
+        "lang" : "en",
+        "value" : "Chris Aldrich"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-feed" ],
+    "properties" : {
+      "name" : [ "155 ‘code’ episodes" ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Styling the Intrinsic Web @ Smashing Conf | San Francisco, CA" ],
+        "summary" : [ "Over the last decade, Responsive Web Design and Object Oriented CSS have grown from exciting new trends into the foundations of modern, component-driven web design. But our medium is not done evolving." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/intrinsic-web/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Am I on the IndieWeb Yet?" ],
+        "url" : [ "https://www.miriamsuzanne.com/2022/06/04/indiweb/Am I on the IndieWeb Yet" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "A Complete Guide to CSS Cascade Layers @ CSS Tricks" ],
+        "summary" : [ "Cascade layers are a new CSS feature that allows us to define explicit contained layers of specificity." ],
+        "url" : [ "https://www.miriamsuzanne.com/2022/02/21/layers-guide/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Released in Browsers" ],
+        "summary" : [ "Cascade & Inheritance Level 5 defines Cascade Layers – allowing authors to define explicit contained layers of specificity." ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Containment 3 (Container Queries) @ Working Draft" ],
+        "summary" : [ "CSS Containment Level 3 defines Container Queries and container-relative units – allowing authors to build more intrinsic responsive components without knowledge of the overall layout." ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/contain-3/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 6 (Scope) @ Working Draft" ],
+        "summary" : [ "Cascade & Inheritance Level 6 defines scoped styles – allowing authors to provide bounded ranges for selector-matching, and give priority to more ‘proximate’ scope origins." ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-6/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Developing the Future of the Internet @ Wix, Now What?" ],
+        "summary" : [ "Miriam talks to Now What? about why the internet looks the way it does, why designers and developers need to collaborate and how the future of the web must be built around inclusivity and respect." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/10/12/wix/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Styling the Intrinsic Web @ An Event Apart Fall Summit | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/intrinsic-web/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "What’s the job of a “design engineer”? @ Pencil & Paper" ],
+        "summary" : [ "We discuss the role of the ‘design engineer’ and what it means for workflows, collab with their product team, and the end-user experience." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/10/04/pencilandpaper/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Styling the Intrinsic Web @ TPAC 6-Minute Summary | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/intrinsic-web/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Monkey Writr" ],
+        "summary" : [ "A monkey hitting keys at random for an infinite amount of time will eventually want some help writing Hamlet (or whatever). You’re the monkey. We’re here to help." ],
+        "url" : [ "https://www.miriamsuzanne.com/projects/monkey-writr/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "What’s Happening in CSS & Sass @ Front End Nerdery" ],
+        "summary" : [ "A podcast focusing on front end development but also covering a wide range of web development and design topics. We talked about CSS, Sass, and work being done in the W3C CSS Working Group." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/08/15/fe-nerdery-10/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 6 (Scope) @ Editor’s Draft" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-6/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & The Future of CSS @ Smashing Meets CSSummer | Online" ],
+        "summary" : [ "New CSS proposals like Container Queries, Cascade Layers, Scoped Styles, and Nesting are all aimed at improving the way we write responsive components and design systems." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/responsive-components/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & The Future of CSS @ CSS Café | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/responsive-components/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Web Ecosystem Health Part VI @ Igalia Chats" ],
+        "summary" : [ "Igalia’s Brian Kardell sits down to chat with Miriam and Rachel Andrew about who works on standards, and who pays for that work." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/06/21/igalia-6/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Container Queries, Layers, Scoping and More @ Syntax.fm" ],
+        "summary" : [ "In this episode of Syntax, Scott and Wes talk with Miriam about all things CSS – container queries, layers, scoping, and more!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/06/16/syntaxfm-362/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & The Future of CSS @ Front Range Front-End | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/responsive-components/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSSWG, Container Queries, Scope, and Layers @ Word Wrap Show" ],
+        "summary" : [ "I talk with Claire and Steph about my journey into webdev and onto the CSSWG, what I find frustrating about how others use CSS, and the three specs I’m working on." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/05/17/word-wrap-11/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Support (Not) Unknown @ OddBird.net" ],
+        "summary" : [ "Working on a new CSS feature like Container Queries, one of the most important considerations is to ensure a “migration path” – a way for developers to start integrating the new code, without breaking their sites on legacy browsers." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/05/14/support-unknown/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & the CSSWG @ The F-Word" ],
+        "summary" : [ "I chat with Bruce Lawson & Vadim Makeev about Sass & Susy, CSS Layers & compatibility, Container Queries, and the CSS Working Group." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/05/06/f-word-11/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & The Future of CSS @ Front-end Development South Africa | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/responsive-components/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "What Is The Future Of CSS? @ Smashing Magazine" ],
+        "summary" : [ "Starting a new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to Miriam to find out." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/05/04/smashing-36/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries Explainer & Proposal @ CSSWG" ],
+        "summary" : [ "Media-queries allow an author to make style changes based on the overall viewport dimensions – but in many cases, authors would prefer styling modular components based on their context within a layout." ],
+        "url" : [ "https://www.miriamsuzanne.com/2021/05/02/container-queries/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Container Queries & The Future of CSS @ Web Directions, Hover | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/responsive-components/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Beyond CSS Variables @ An Event Apart Spring Summit | Online" ],
+        "summary" : [ "CSS Custom Properties (aka Cascading Variables) have gained broad browser support since 2015 – but what are they good for, and why do we need them?" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/beyond-vars/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Containment 3 (Container Queries) @ Editor’s Draft" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/contain-3/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Working Draft" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Explainer" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Containment 3 (Container Queries) @ Proposal & Explainer" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/contain-3/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 6 (Scope) @ Proposal & Explainer" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-6/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Very Extremely Practical CSS Art @ CSS Tricks" ],
+        "summary" : [ "“What is one thing you learned about building websites this year?”" ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/12/08/css-art/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS, Sass, and Playwriting @ Enjoy The Vue" ],
+        "summary" : [ "I join Ari, Ben, and Tessa to talk about getting into CSS from other languages, the absurdly massive problem CSS is designed to solve, and the mental model behind the language." ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/11/30/enjoy-the-vue-44/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Open CSS Notebook @ css.oddbird.net" ],
+        "summary" : [ "As I spend more of my time working on the CSS language, I wanted a place to take notes and explore new ideas in the open." ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/11/17/notes/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Containment 3 (Container Queries) @ Public Notes" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/contain-3/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Public Notes" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 6 (Scope) @ Public Notes" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-6/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dissecting CSS Conventions @ An Event Apart Fall Summit | Online" ],
+        "summary" : [ "How do we write code that is modular & maintainable, in a language designed to be systematic & contextual?" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/css-conventions/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "When Variables Cascade @ SmashingConf Austin/NY | Online" ],
+        "summary" : [ "The Cascade makes CSS unique – forcing us to revisit even the most common programming feature: the variable." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/vars-cascade/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Editor’s Draft" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS is Rad @ Design 4 Drupal Webinar Series | Online" ],
+        "summary" : [ "The web is designed to work across platforms, devices, languages, and interfaces – but how can we possibly design for that unknown and always-changing canvas?" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/css-rad/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS is Rad @ SmashingConf Live | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/css-rad/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Design Engineering Handbook @ inVision" ],
+        "summary" : [ "Learn how design engineering brings together form and function." ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/08/18/design-engineering/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Shift Remote | Online" ],
+        "summary" : [ "Don’t let the declarative syntax fool you – CSS is a powerful and dynamic programming language." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Cascade Aligned Programming @ Front Range Front End | Online" ],
+        "summary" : [ "From the very start, “web design” has posed a nearly impossible paradox." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/cascade-aligned/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Custom Property “Stacks\" @ CSS Tricks" ],
+        "summary" : [ "CSS Custom Properties allow us to manage and control both cascade and inheritance in new ways." ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/06/22/stacks/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Resilient Web Systems @ Smashing Workshops | Online" ],
+        "summary" : [ "From building beautiful sites to maintaining complex design systems across multiple applications, CSS is the web-language of design." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/resilient/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Design Systems AMA @ Jina Anne" ],
+        "summary" : [ "Jina and I answer questions about CSS, Sass, Design Systems, and more!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/05/05/jina-ama/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Authoring the future of CSS @ Party Corgi" ],
+        "summary" : [ "A spinoff of the Party Corgi Network discord. I chat with Chris Biscardi about The CSS Working Group, open-source projects, art, and music." ],
+        "url" : [ "https://www.miriamsuzanne.com/2020/04/13/party-corgi/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Embracing the Universal Web @ CSS Tricks" ],
+        "summary" : [ "“What about building websites has you interested this year?”" ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/11/26/universal/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Selector Support Queries @ Mozilla Developer" ],
+        "summary" : [ "Firefox 69 was the first to implement selector feature queries, but other browsers are following suit. I’ll show you how it works, and how to start using this new feature query right away." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/11/20/supports-selector/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS is Rad @ Front Range Front End | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/css-rad/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Overflow-Wrap in CSS @ Mozilla Developer" ],
+        "summary" : [ "Horizontal text overflow has always been difficult to manage on the web. The default visible overflow is designed to make sure content remains accessible no matter the size of a containing box, but it’s not our only option." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/11/06/overflow-wrap/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Most Normalizer-est" ],
+        "summary" : [ "Why waste your time on half-measures? Make your site THE MOST NORMALEST with this ULTIMATE CSS RESET." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/11/02/most-normal/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Scroll Snap in CSS @ Mozilla Developer" ],
+        "summary" : [ "When we’re scrolling down a page, or through a gallery of images, snap-targets can help guide us from one section or image to the next. In the past, developers have used JavaScript to hijack scrolling, but now we can manage scroll alignment directly in CSS with only a few lines of code." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/31/scroll-snap/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Cascade 5 (Layers) @ Initial Proposal" ],
+        "url" : [ "https://www.miriamsuzanne.com/specs/cascade-5/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "On Sass & CSS @ Shop Talk Show" ],
+        "summary" : [ "I drop by the show to talk about Sass in 2019, design tokens, Oddbird, unused CSS, new CSS properties, and Dave & Chris’ explanation of revert." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/28/shop-talk19/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Inner & Outer Values of the Display Property @ Mozilla Developer" ],
+        "summary" : [ "The display property has been in CSS from the beginning, handling everything from block and inline boxes to list-items and full layout systems like flexbox or grid. Now the display syntax is getting an upgrade to match it’s multiple uses." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/28/display-multi/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Why isn’t this CSS doing anything? @ Mozilla Developer" ],
+        "summary" : [ "There are a number of property & value combinations that can lead to CSS being inactive, and now Firefox will tell you why. Open the developer tools, and look for the greyed-out property with an info-box on hover." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/21/inactive-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Laying out Forms using Subgrid @ Mozilla Developer" ],
+        "summary" : [ "It’s a common pattern to align form labels and inputs in grid-like layout. I’ll show you how to do it quickly using CSS subgrid, with several quick fallbacks." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/16/subgrid-forms/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS is Rad @ Smashing Conf NY | New York, NY" ],
+        "summary" : [ "The web is designed to work across platforms, devices, languages, and interfaces – but how can we possibly design for that unknown and always-changing canvas?" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/css-rad/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Subgrid for Better Card Layouts @ Mozilla Developer" ],
+        "summary" : [ "Card layouts are popular on the web, rows and columns of boxes with similar content. CSS grids can help align those cards, but it’s still be hard to line-up content inside the cards – headers and footers that might need more or less room." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/15/subgrid-cards/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Faster Layouts with CSS Grid @ Mozilla Developer" ],
+        "summary" : [ "For years, we’ve struggled to build resilient layouts on the web, but CSS Grid promises to change all that – and you can start using it now, with only a few properties and basic concepts." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/14/grids/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Revert @ Mozilla Developer" ],
+        "summary" : [ "I’ve often used initial and unset in my CSS – global keywords that can be applied to any property. The difference is small, but important: unset allows inheritance, while initial does not. But then Firefox implemented revert and I was confused – how is this one different from the others?!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/09/revert/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Introducing Sass Modules @ CSS Tricks" ],
+        "summary" : [ "Sass recently launched a new module system. The new syntax will replace @import with @use and @forward – a big step forward for making Sass partials more readable, performant, and safe." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/07/sass-modules/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Why is CSS so Weird? @ Mozilla Developer" ],
+        "summary" : [ "Love it or hate it, CSS is weird: not quite markup, not quite programming in the imperative sense, and nothing like the design programs we use for print. How did we get here?" ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/03/css-is-weird/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Styling Lists in CSS @ Mozilla Developer" ],
+        "summary" : [ "When you create lists in HTML, browsers add bullet-points or numbers we call list markers. Now CSS gives us the tools to style those list markers, and even create our own!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/10/01/list-marker/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Agnes Scott College | Atlanta, GA" ],
+        "summary" : [ "A project-manager’s reflections on human-centered problem-solving, client communication, and user feedback in agile web development." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "F*CSS" ],
+        "summary" : [ "In the CSS naming-convention arms race to lowest specificity, I’ve decided to only use universal * selectors. I call it F*CSS." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/08/28/f_css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Develop Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Agile Design Systems @ Agile Alliance | Washington, DC" ],
+        "summary" : [ "Style Guides & Pattern Libraries are great tools for documenting the relationships between code and design, but beautiful docs are only half the battle." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/agile-systems/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Design Systems & CSS @ Views on Vue" ],
+        "summary" : [ "We start by talking about design systems and design tooling – how they differ, and the problems they solve." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/07/02/vov-068/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "CSS Custom Properties @ Smashing Magazine" ],
+        "summary" : [ "Pushing past the “variable” metaphor, CSS Custom Properties can provide new ways to balance context and isolation in our patterns and components." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/07/01/custom-props/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Design 4 Drupal [keynote] | Boston, MA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Open Source Conference | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Advanced CSS & Sass @ Generate New York | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/resilient/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Generate New York | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Has CSS finally come of age? @ Creative Bloq" ],
+        "summary" : [ "Steve Jenkins interviews me about the state of CSS, and what’s coming next for the language – from Intrinsic Design to Dynamic CSS." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/04/23/creative-bloq/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Advanced CSS & Sass @ Smashing Conf | San Francisco, CA" ],
+        "summary" : [ "From building beautiful sites to maintaining complex design systems across multiple applications, CSS is the web-language of design." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/resilient/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Smashing Conf | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ VueConf US | Tampa, FL" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "On Dynamic CSS @ Thunder Nerds" ],
+        "summary" : [ "Thunder Nerds interview me before her talk at VueConf US 2019." ],
+        "url" : [ "https://www.miriamsuzanne.com/2019/03/26/thunder-nerds/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Agile Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ Boulder Python | Boulder, CO" ],
+        "summary" : [ "Explore the history of web layout with the creator of Susy – why grid systems exist, how they work, and practical tips to avoid using them." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ Covalence Conf | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Fonts & more @ Views on Vue" ],
+        "summary" : [ "The panel and the guest talk about grid systems, fonts, and more!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2018/12/04/vov-040/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Front Range Front-End | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Agile Design Systems @ Agile Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/agile-systems/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ Full Stack Fest | Barcelona, Spain" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Ethics, ES6 in Practice, and Dynamic CSS @ TalkScript" ],
+        "summary" : [ "On Episode 18, the TalkScript team continues the live-ish at JSConfUS podcast series with guests Myles Borins, Tim Doherty, and Miriam Suzanne. Listen in!" ],
+        "url" : [ "https://www.miriamsuzanne.com/2018/09/06/talkscript/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ JSConf US | Carlsbad, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Dynamic CSS @ CSSConf Argentina | Buenos Aires, Argentina" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/dynamic-css/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Planning Your Web Project @ Boost Biz Ed | Westminster, CO" ],
+        "summary" : [ "A non-technical guide for taking your project from concept to launch, without ever losing sight of the goals." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/web-project/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ Beyond Tellerand | Düsseldorf, Germany" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ AIGA Colorado | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Creative Connections | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ Metro State Mobile Prototyping | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Agile Design Systems @ Front-End Front Range | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/agile-systems/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Agile Design Systems @ VueConf US | New Orleans, LA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/agile-systems/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Agile Design Systems @ Tech Confluence | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/agile-systems/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "18 designers predict UI/UX trends for 2018 @ Figma Design" ],
+        "url" : [ "https://www.miriamsuzanne.com/2017/12/15/figma/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Planning Your Web Project @ EdTech Colorado | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/web-project/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ Clarity | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ CSS Dev Conf | New Orleans, LA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ Refresh Denver | Denver, CO" ],
+        "summary" : [ "Style Guides & Pattern Libraries are great tools for documenting the relationships between code and design, but beautiful docs are only half the battle." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Practical Layouts, Past & Future @ Women Who Code Fort Collins | Fort Collins, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Don’t Use My Grid System @ DjangoCon US | Spokane, WA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "More CSS Charts, with Grid & Custom Properties @ CSS Tricks" ],
+        "summary" : [ "Inspired by Robin Rendle, I demonstrate some of my early experiments combining CSS Grids and custom properties to create dynamic layouts and data-visualizations." ],
+        "url" : [ "https://www.miriamsuzanne.com/2017/08/11/charts/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Practical Layouts, Past & Future @ Develop Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Practical Layouts, Past & Future @ Refresh Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/no-grid-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Fun with Viewport Units @ CSS Tricks" ],
+        "summary" : [ "Viewport units have been around for several years now, with near-perfect support in the major browsers, but I keep finding new and exciting ways to use them. I thought it would be fun to review the basics, and then round-up some of my favorite use-cases." ],
+        "url" : [ "https://www.miriamsuzanne.com/2017/06/05/viewport-units/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ Front Range Front End | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Getting Started with CSS Grid @ CSS Tricks" ],
+        "summary" : [ "It feels like CSS Grid has been coming for a long time now, but it just now seems to be reaching a point where folks are talking more and more about it and that it’s becoming something we should learning." ],
+        "url" : [ "https://www.miriamsuzanne.com/2017/02/20/grids-video/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Losing Control @ UVA Scholars’ Lab | Charlottesville, VA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/losing-control/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ Open Grounds | Charlottesville, VA" ],
+        "summary" : [ "It’s been a month since our country pseudo-elected a bigoted blow-hard for president. I’m heading to DC to protest his inauguration in January, visit friends, and go on a mixed-media resistance tour…" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ Women’s March | Washington, DC" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ Small Rain | Fredrick, MD" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ House Show | Silver Spring, MD" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ House Show | Baltimore, MD" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ Wooden Shoe Books | Philadelphia, PA" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ in your ear | Washington, DC" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour @ The Operating System | Brooklyn, NY" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ Gotham Sass | New York, NY" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Some Kind of Resistance Tour" ],
+        "summary" : [ "It’s been a month since our country pseudo-elected a bigoted blow-hard for president. I’m heading to DC to protest his inauguration in January, visit friends, and go on a mixed-media resistance tour…" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/09/resistence-tour/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ CSSDay.io | Chandler, AZ" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Loops in CSS Preprocessors @ CSS Tricks" ],
+        "summary" : [ "No matter what acronym drives your selectors (BEM, OOCSS, SMACSS, ETC), loops can help keep your patterns more readable and maintainable, baking them directly into your code. We’ll take a look at what loops can do, and how to use them in the major CSS preprocessors." ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/02/loops/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "*Beyond Pixels Profile @ Net Magazine" ],
+        "summary" : [ "Miriam Suzanne creates experimental experiences with her band and her fellow developers." ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/12/01/netmag-profile/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "An Interview with Miriam Suzanne @ CSS Tricks" ],
+        "summary" : [ "Chris Coyier interviews Miriam when she joins the CSS Tricks team as a Staff Writer. We talk about gettting started in the industry, name confusion, fouding OddBird, building Susy, and more." ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/10/15/interview/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Versioning Show, Episode 8 @ SitePoint" ],
+        "summary" : [ "In this episode of the Versioning Show, Tim and David are joined by Miriam Suzanne, best known for Susy, a responsive layout toolkit for Sass. They discuss going from being a lurker to finding your voice, the importance of writing about what you’re learning, stumbling into fame, approaching new projects, and unit testing in Sass." ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/10/13/versioning/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Map Magic @ CSSConf 2016 | Boston, MA" ],
+        "summary" : [ "Maps are a powerful data type in Sass – perfect for managing color and scale palettes, framework configuration, data storage, and more." ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-map-magic/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Toolkits, Live Q&A @ SitePoint" ],
+        "url" : [ "https://www.miriamsuzanne.com/2016/08/18/sitepoint-qa/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ CascadiaFest" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ CSS Summit" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ DublinCSS" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Code Patterns @ Clarity | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/code-patterns/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Jump Start Sass @ SitePoint" ],
+        "summary" : [ "Using Sass, you can write your stylesheets in a more concise, dynamic, and readable way, and cut down many of the repetitive tasks that come with writing vanilla CSS. This book provides a thorough introduction to Sass for the beginner. Co-writen with my friend Kitty Giraudel." ],
+        "url" : [ "https://www.miriamsuzanne.com/books/jumpstartsass/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Herman @ OddBird" ],
+        "summary" : [ "Design systems streamline development, communication, and consistency – but often rely on dedicated teams and extended budgets." ],
+        "url" : [ "https://www.miriamsuzanne.com/projects/herman/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "User Unfriendly @ SassConf 2015 | Austin, TX" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/user-unfriendly/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sassy Toolkits @ Frontend Zurich | Zurich, Switzerland" ],
+        "summary" : [ "a case-study in building and sharing open-source Sass" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sassy-toolkits/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Map Magic @ CSS Summit | Online" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-map-magic/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sassy Toolkits @ WordCamp Denver | Denver, CO" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sassy-toolkits/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Map Magic @ Future Insights Live | Las Vegas, NV" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-map-magic/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Accoutrement @ OddBird" ],
+        "summary" : [ "Design systems must be meaningful to both humans and machines Accoutrement provides Sass design-token management that improves readability and consistency, while encouraging automation." ],
+        "url" : [ "https://www.miriamsuzanne.com/projects/accoutrement/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Map Magic @ SassConf 2014 | New York, NY" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-map-magic/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Map Magic @ BlendConf | Charlotte, NC" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-map-magic/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Your Own Damn [Susy] System @ Bmore Sass | Baltimore, MD" ],
+        "summary" : [ "an introduction to the Susy layout toolkit" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/susy-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Show Your Work & Share Your Toys @ Camp Sass | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sassy-toolkits/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Your Own Damn [Susy] System @ The Mixin | San Francisco, CA" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/susy-system/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Organizing Sass Partials @ NYCSass Meetup" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sass-partials/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Show Your Work & Share Your Toys @ SassConf 2013 | New York, NY" ],
+        "url" : [ "https://www.miriamsuzanne.com/speaking/sassy-toolkits/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "True @ OddBird" ],
+        "summary" : [ "True is a full-featured unit-testing library for Sass. The core functionality is written in pure SassScript, so it can be used anywhere Sass is compiled. Advanced features are available with our JS test-runner integration." ],
+        "url" : [ "https://www.miriamsuzanne.com/projects/true/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Susy 1.0 Release" ],
+        "url" : [ "https://www.miriamsuzanne.com/2012/08/14/susy-1-0/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Sass Striped Backgrounds" ],
+        "url" : [ "https://www.miriamsuzanne.com/2012/07/20/sass-striped-background/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Into the Green Green Mud @ greengreenmud.com" ],
+        "summary" : [ "A novel about new love, moving apart, and what comes next. A love story, and an after-love story – told wiith poetry and pictures." ],
+        "url" : [ "https://www.miriamsuzanne.com/books/greenmud/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Susy @ OddBird" ],
+        "summary" : [ "Susy is a lightweight grid-layout engine for Sass, designed to simplify and clarify responsive grid layouts without ever getting in your way. Originally released in 2009, Susy has become one of the most popular layout frameworks on the web." ],
+        "url" : [ "https://www.miriamsuzanne.com/projects/susy/" ],
+        "published" : [ "2022-06-07" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
