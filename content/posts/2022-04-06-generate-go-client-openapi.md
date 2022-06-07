@@ -26,9 +26,9 @@ We'll base this on the OpenAPI specification demo from the [Petstore](https://pe
 
 Note that if you have an OpenAPI schema that uses `$ref`s, we will need to [bundle the OpenAPI document](https://www.jvt.me/posts/2022/02/10/bundle-openapi/) into a single file.
 
-# Generating the structs
+# Generating the client
 
-We can take advantage of the great [oapi-codegen](https://github.com/deepmap/oapi-codegen) project, to give us a generator that we can use to produce our types.
+We can take advantage of the great [oapi-codegen](https://github.com/deepmap/oapi-codegen) project, to give us a generator that we can use to produce our client implementation.
 
 We can install it as a command-line utility by running:
 
@@ -40,7 +40,7 @@ go install github.com/deepmap/oapi-codegen/cmd/oapi-codegen
 This then allows us to use the really handy Go directive `go:generate` which we embed in (any) source file in the project:
 
 ```go
-//go:generate oapi-codegen --package=main -generate=types -o ./petstore.gen.go https://petstore3.swagger.io/api/v3/openapi.json
+//go:generate oapi-codegen --package=main -generate=types,client -o ./petstore.gen.go https://petstore3.swagger.io/api/v3/openapi.json
 ```
 
 This allows us to execute the `oapi-codegen` when we execute `go generate` on the command-line.
