@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/peterejhamilton/status/1534128141563834368" ],
     "name" : [ "Like of @peterejhamilton's tweet" ],
     "published" : [ "2022-06-07T12:47:00+0100" ],
     "category" : [ "swag" ],
