@@ -1,9 +1,9 @@
 ---
 title: "Setting up OpenAPI Contract Tests with a Rails and RSpec codebase"
 description: "How to run OpenAPI-driven contract tests against a Rails API."
-date: 2022-06-07T21:43:17+0100
+date: "2022-06-07T21:43:17+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1534276774741278721"
 tags:
 - "blogumentation"
 - "ruby"
