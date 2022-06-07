@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Harry Potter and the Cursed Child NYC" ],
+          "nickname" : [ "CursedChildNYC" ],
+          "numeric-id" : [ "804365278012391424" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1491436861298028550/jCKbIgx9.jpg" ],
+          "published" : [ "2016-12-01T16:43:21+00:00" ],
+          "uid" : [ "tag:twitter.com:CursedChildNYC" ],
+          "url" : [ "https://twitter.com/CursedChildNYC", "https://broadway.harrypottertheplay.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Happy Pride Month from everyone at <a href=\"https://twitter.com/search?q=%23CursedChild\">#CursedChild</a>!",
+        "value" : "Happy Pride Month from everyone at #CursedChild!"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FUlS4RtWIAEFyDG.jpg" ],
+      "published" : [ "2022-06-06T16:34:49+00:00" ],
+      "uid" : [ "tag:twitter.com:1533849904665206784" ],
+      "url" : [ "https://twitter.com/CursedChildNYC/status/1533849904665206784" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "she/hurt" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cloudy ⛅ (estrogen angel)" ],
+        "nickname" : [ "oncloud_e" ],
+        "numeric-id" : [ "1477117070512898054" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1483151033090117634/zJZzfoRq.jpg" ],
+        "published" : [ "2022-01-01T03:18:57+00:00" ],
+        "uid" : [ "tag:twitter.com:oncloud_e" ],
+        "url" : [ "https://twitter.com/oncloud_e", "https://onlyfans.com/oncloud_e" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "is the curse that the kid is trans" ],
+    "published" : [ "2022-06-07T17:53:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1534232008250888193" ],
+    "url" : [ "https://twitter.com/oncloud_e/status/1534232008250888193" ]
+  },
+  "type" : [ "h-entry" ]
+}
