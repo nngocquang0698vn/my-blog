@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">If you’re paying attention to ReactEurasia’s choice for conference location, you’re witnessing why committees with diversity are important.\n\nIt would’ve taken just a _single_ voice to express how poor &amp; harmful that choice was for the community they’re serving.</div>",
+      "value" : "If you’re paying attention to ReactEurasia’s choice for conference location, you’re witnessing why committees with diversity are important.\n\nIt would’ve taken just a _single_ voice to express how poor & harmful that choice was for the community they’re serving."
+    } ],
+    "published" : [ "2022-06-06T17:26:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1533862901445840896" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1533862901445840896" ]
+  },
+  "type" : [ "h-entry" ]
+}
