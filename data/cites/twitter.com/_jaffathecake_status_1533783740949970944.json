@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Haywards Heath" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Archibald" ],
+        "nickname" : [ "jaffathecake" ],
+        "numeric-id" : [ "15390783" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1695239906/me.jpg" ],
+        "published" : [ "2008-07-11T12:42:42+00:00" ],
+        "uid" : [ "tag:twitter.com:jaffathecake" ],
+        "url" : [ "https://twitter.com/jaffathecake", "http://www.jakearchibald.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "nope, it's a whole lot of whataboutery\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zachleat\"></a>",
+      "value" : "nope, it's a whole lot of whataboutery"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/zachleat/status/1533783415333470211" ],
+    "published" : [ "2022-06-06T12:11:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1533783740949970944" ],
+    "url" : [ "https://twitter.com/jaffathecake/status/1533783740949970944" ]
+  },
+  "type" : [ "h-entry" ]
+}
