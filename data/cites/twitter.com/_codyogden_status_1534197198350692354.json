@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Austin, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Drew Bredvick" ],
+          "nickname" : [ "DBredvick" ],
+          "numeric-id" : [ "291449508" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1462081803745775623/T539s4P6.jpg" ],
+          "published" : [ "2011-05-02T01:34:26+00:00" ],
+          "uid" : [ "tag:twitter.com:DBredvick" ],
+          "url" : [ "https://twitter.com/DBredvick", "https://drew.tech" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Domain backlog:\n\n• vow art print .com\nEasy button to print vows as a one year anniversary gift \n\n• jumpstart .dev\nIf I ever start a podcast, this will be the name\n\n• saas class .dev \nin case I start a course\n\n• find a call time .com\nproject to show off Edge Middleware</div>",
+        "value" : "Domain backlog:\n\n• vow art print .com\nEasy button to print vows as a one year anniversary gift \n\n• jumpstart .dev\nIf I ever start a podcast, this will be the name\n\n• saas class .dev \nin case I start a course\n\n• find a call time .com\nproject to show off Edge Middleware"
+      } ],
+      "published" : [ "2022-06-06T17:00:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1533856269911502850" ],
+      "url" : [ "https://twitter.com/DBredvick/status/1533856269911502850" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/dbredvick/stat…" ],
+      "url" : [ "https://twitter.com/dbredvick/status/1533856269911502850" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cody Ogden" ],
+        "nickname" : [ "codyogden" ],
+        "numeric-id" : [ "15080082" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480727306679328768/NGzHFIE6.jpg" ],
+        "published" : [ "2008-06-11T01:28:13+00:00" ],
+        "uid" : [ "tag:twitter.com:codyogden" ],
+        "url" : [ "https://twitter.com/codyogden", "https://codyogden.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My backlog;\n\n• ugh .social\nTracking tech twitter’s “person of the day.”\n\n• regret .dev\nA podcast where I interview who took down prod.\n\n• darkmode .wtf\nA one pager rant about not doing dark mode badly.\n\n• products .fail\nA blog discussing product failure.</div>\n<a class=\"tag\" href=\"https://twitter.com/dbredvick/status/1533856269911502850\">twitter.com/dbredvick/stat…</a>",
+      "value" : "My backlog;\n\n• ugh .social\nTracking tech twitter’s “person of the day.”\n\n• regret .dev\nA podcast where I interview who took down prod.\n\n• darkmode .wtf\nA one pager rant about not doing dark mode badly.\n\n• products .fail\nA blog discussing product failure."
+    } ],
+    "published" : [ "2022-06-07T15:34:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1534197198350692354" ],
+    "url" : [ "https://twitter.com/codyogden/status/1534197198350692354" ]
+  },
+  "type" : [ "h-entry" ]
+}
