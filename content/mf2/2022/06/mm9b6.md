@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BarnabyRaine/status/1533061638303240193" ],
     "name" : [ "Like of @BarnabyRaine's tweet" ],
     "published" : [ "2022-06-07T18:55:00+0100" ],
     "like-of" : [ "https://twitter.com/BarnabyRaine/status/1533061638303240193" ],
