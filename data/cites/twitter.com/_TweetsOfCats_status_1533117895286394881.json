@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Texas" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tweets of Cats" ],
+        "nickname" : [ "TweetsOfCats" ],
+        "numeric-id" : [ "1467075696463917056" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533719820205686786/OxCn6vBL.jpg" ],
+        "published" : [ "2021-12-04T10:18:05+00:00" ],
+        "uid" : [ "tag:twitter.com:TweetsOfCats" ],
+        "url" : [ "https://twitter.com/TweetsOfCats" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i tell my cat “i know” whenever he meows. but i’ll be honest, i don’t fucking know." ],
+    "published" : [ "2022-06-04T16:06:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1533117895286394881" ],
+    "url" : [ "https://twitter.com/TweetsOfCats/status/1533117895286394881" ]
+  },
+  "type" : [ "h-entry" ]
+}
