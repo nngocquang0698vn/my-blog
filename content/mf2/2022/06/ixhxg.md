@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sidbranca/status/1533506711872585729" ],
     "name" : [ "Like of @sidbranca's tweet" ],
     "published" : [ "2022-06-07T07:46:00+0100" ],
     "like-of" : [ "https://twitter.com/sidbranca/status/1533506711872585729" ],
