@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tinywienerbabe/status/1534205015568461827" ],
     "name" : [ "Like of @tinywienerbabe's tweet" ],
     "published" : [ "2022-06-07T22:44:00+0100" ],
     "like-of" : [ "https://twitter.com/tinywienerbabe/status/1534205015568461827" ],
