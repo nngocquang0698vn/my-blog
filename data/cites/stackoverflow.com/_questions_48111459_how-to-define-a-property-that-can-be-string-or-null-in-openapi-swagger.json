@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to define a property that can be string or null in OpenAPI (Swagger)?" ],
+    "summary" : [ "I have JSON schema file where one of the properties is defined as either string or null:\n\n\"type\":[\"string\", \"null\"]\r\nWhen converted to YAML (for use with OpenAPI/Swagger), it becomes:\n\ntype:\n  - 'n..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/48111459/how-to-define-a-property-that-can-be-string-or-null-in-openapi-swagger" ]
+  }
+}
