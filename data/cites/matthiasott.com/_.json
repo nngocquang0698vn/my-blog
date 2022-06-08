@@ -1,0 +1,33 @@
+{
+  "type" : [ "h-card" ],
+  "properties" : {
+    "name" : [ "Matthias Ott" ],
+    "url" : [ "https://matthiasott.com/" ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-entry" ],
+    "properties" : {
+      "name" : [ "How to Delete Your Commit History in Git" ],
+      "summary" : [ "" ],
+      "url" : [ "https://matthiasott.com/notes/how-to-delete-your-commit-history-in-git" ],
+      "uid" : [ "https://matthiasott.com/notes/how-to-delete-your-commit-history-in-git" ],
+      "published" : [ "2022-06-09 01:06:00" ],
+      "content" : [ {
+        "html" : "<script async=\"\" type=\"text/javascript\" src=\"https://cdn.carbonads.com/carbon.js?serve=CEBI65QJ&amp;placement=matthiasottcom\" id=\"_carbonads_js\"></script>\n\t\t\n\t\t<div class=\"b-content__intro p-summary\">\n</div>\n\t\t\n\t    \t    \t\t\t\t    \t\t      \t    \t<p>Maybe you want to publish a project but don&#x2019;t want everyone to see what mess you created before your initial release. Maybe you want to hand over a Git repository to a third party who should not peek into your complete git commit history. Whatever the reason, here is how you can get rid of all past commits in a branch without losing your latest work.</p>\n\n<p>Disclaimer: what follows are a few Git commands for the terminal. If you are a little bit like me, you probably prefer a GUI like <a href=\"https://www.git-tower.com/mac\">Git Tower</a> (&#x2764;&#xFE0F;). But in this case, using the command line seems to be the fastest solution. Also make sure to <a href=\"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\">install Git on your machine</a>. </p>\n\n<p>First, make sure you are in a your project root directory and checkout a new branch with the <code>--orphan</code> flag.</p>\n\n<p><code>git checkout --orphan latest_branch</code></p>\n\n<p>This will create a new, empty (&#x201C;orphaned&#x201D;) branch without any commits. Then, add all the files in your working directory:</p>\n\n<p><code>git add -A</code></p>\n\n<p>Now commit all your changes.</p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t    \t    \t\t\t\t\t\t\t    \t<pre><code> git commit -am \"first commit message\"</code></pre>\n\t\t\t\t\t\t\t\t\t\t\t\n\t    \t    \t\t\t\t    \t\t      \t    \t<p>With all your work safely stored in the new branch, it is time to delete the old branch, e.g. the <code>main</code> branch:</p>\n\n<p><code>git branch -D main</code></p>\n\n<p>Now &#x2013; and you probably already guessed it, right? &#x2013; rename the current branch (the one you just created) into <code>main</code>:</p>\n\n<p><code>git branch -m main</code></p>\n\n<p>And finally, update your remote repository using the force of Git.</p>\n\n<p><code>git push -f origin main</code></p>\n\n<p>&#x1F64C;&#x1F389;</p>\n\n<p>I know this might sound obvious to some of you and yes, I found this solution <a href=\"https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github/26000395#26000395\">on StackOverflow</a>, but I wanted to write it down to have it at hand the next time I need it. And maybe it is useful for you as well? </p>\n\n<p>BTW, do you know what&#x2019;s also useful when working with Git in the command line? <a href=\"https://ohshitgit.com\">Oh Shit, Git!</a></p>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p>~</p>\n\t\t<div>\n    \t<form class=\"webmention-form\" method=\"post\" action=\"/webmention\">\n\t<label for=\"webmention-source\">Have you published a response to this? Send me a <a href=\"http://indiewebcamp.com/webmention\">webmention</a> by letting me know the <abbr title=\"Uniform Resource Locator\">URL</abbr>.</label>\n\t<input type=\"url\" name=\"source\" id=\"webmention-source\" placeholder=\"URL / permalink of your article\">\n\t<input type=\"hidden\" name=\"target\" value=\"https://matthiasott.com/notes/how-to-delete-your-commit-history-in-git\">\n\t<button type=\"submit\">Ping!</button>\n</form>\n    </div>",
+        "value" : "Maybe you want to publish a project but don’t want everyone to see what mess you created before your initial release. Maybe you want to hand over a Git repository to a third party who should not peek into your complete git commit history. Whatever the reason, here is how you can get rid of all past commits in a branch without losing your latest work.\nDisclaimer: what follows are a few Git commands for the terminal. If you are a little bit like me, you probably prefer a GUI like Git Tower (❤️). But in this case, using the command line seems to be the fastest solution. Also make sure to install Git on your machine.\nFirst, make sure you are in a your project root directory and checkout a new branch with the --orphan flag.\ngit checkout --orphan latest_branch\nThis will create a new, empty (“orphaned”) branch without any commits. Then, add all the files in your working directory:\ngit add -A\nNow commit all your changes. git commit -am \"first commit message\"\nWith all your work safely stored in the new branch, it is time to delete the old branch, e.g. the main branch:\ngit branch -D main\nNow – and you probably already guessed it, right? – rename the current branch (the one you just created) into main:\ngit branch -m main\nAnd finally, update your remote repository using the force of Git.\ngit push -f origin main\n🙌🎉\nI know this might sound obvious to some of you and yes, I found this solution on StackOverflow, but I wanted to write it down to have it at hand the next time I need it. And maybe it is useful for you as well?\nBTW, do you know what’s also useful when working with Git in the command line? Oh Shit, Git!\n~ Have you published a response to this? Send me a webmention by letting me know the URL. Ping!",
+        "lang" : "en"
+      } ],
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "photo" : [ "https://matthiasott.com/apple-touch-icon-120x120.png" ],
+          "name" : [ "Matthias Ott" ]
+        },
+        "lang" : "en",
+        "value" : "Matthias Ott"
+      } ]
+    },
+    "lang" : "en"
+  } ]
+}
