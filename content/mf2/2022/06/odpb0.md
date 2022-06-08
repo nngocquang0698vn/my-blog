@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/antonystarr/status/1534397735050391553" ],
     "name" : [ "Like of @antonystarr's tweet" ],
     "published" : [ "2022-06-08T06:14:00+0100" ],
     "like-of" : [ "https://twitter.com/antonystarr/status/1534397735050391553" ],
