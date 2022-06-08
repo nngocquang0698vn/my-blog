@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Storing state in the URL" ],
+    "summary" : [ "So that the app does not reset to zero after page refresh." ],
+    "featured" : [ "https://antonz.org/storing-state/cover.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Anton Zhiyanov" ]
+      }
+    } ],
+    "url" : [ "https://antonz.org/storing-state/" ]
+  }
+}
