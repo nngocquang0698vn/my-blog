@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver / Melbourne" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Misty" ],
+        "nickname" : [ "mistydemeo" ],
+        "numeric-id" : [ "296622166" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1099352223744552961/TC2TTEAt.jpg" ],
+        "published" : [ "2011-05-11T03:34:21+00:00" ],
+        "uid" : [ "tag:twitter.com:mistydemeo" ],
+        "url" : [ "https://twitter.com/mistydemeo", "https://cdrom.ca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m not *surprised* at Atom being sunset, the fact that the announcement post highlights closed source and proprietary components of VS Code really isn’t a good look. Atom was fully open source." ],
+    "published" : [ "2022-06-08T23:15:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1534675415553347584" ],
+    "url" : [ "https://twitter.com/mistydemeo/status/1534675415553347584" ]
+  },
+  "type" : [ "h-entry" ]
+}
