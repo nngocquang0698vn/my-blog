@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alexhern/status/1534615226406125568" ],
     "name" : [ "Like of @alexhern's tweet" ],
     "published" : [ "2022-06-09T00:36:00+0100" ],
     "like-of" : [ "https://twitter.com/alexhern/status/1534615226406125568" ],
