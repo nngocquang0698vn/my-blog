@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bach_tigh/status/1534525124132601856" ],
     "name" : [ "Like of @bach_tigh's tweet" ],
     "published" : [ "2022-06-09T00:58:00+0100" ],
     "like-of" : [ "https://twitter.com/bach_tigh/status/1534525124132601856" ],
