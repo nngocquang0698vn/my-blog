@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Meatspace" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Concoda 🌻" ],
+          "nickname" : [ "concodanomics" ],
+          "numeric-id" : [ "1032371282116063235" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1521797982898769921/oKZSns8O.jpg" ],
+          "published" : [ "2018-08-22T20:57:48+00:00" ],
+          "uid" : [ "tag:twitter.com:concodanomics" ],
+          "url" : [ "https://twitter.com/concodanomics", "http://concoda.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Crypto bros discover physical cash" ],
+      "photo" : [ "https://pbs.twimg.com/media/FUvn-lnWQAMLp_m.jpg", "https://pbs.twimg.com/media/FUvn-lzWIAAG_4e.jpg", "https://pbs.twimg.com/media/FUvn-lyX0AEwsWG.jpg", "https://pbs.twimg.com/media/FUvn-l6XoAAz2Ms.jpg" ],
+      "published" : [ "2022-06-08T16:36:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1534575165698453506" ],
+      "url" : [ "https://twitter.com/concodanomics/status/1534575165698453506" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Sea Ranch & San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie Voss" ],
+        "nickname" : [ "seldo" ],
+        "numeric-id" : [ "15453" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1432101325529964545/FH-g7eA4.jpg" ],
+        "published" : [ "2006-11-22T15:57:48+00:00" ],
+        "uid" : [ "tag:twitter.com:seldo" ],
+        "url" : [ "https://twitter.com/seldo", "http://seldo.com", "http://lgbtq.technology" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Why is everything in crypto so extremely stupid" ],
+    "published" : [ "2022-06-09T01:05:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1534703235839037440" ],
+    "url" : [ "https://twitter.com/seldo/status/1534703235839037440" ]
+  },
+  "type" : [ "h-entry" ]
+}
