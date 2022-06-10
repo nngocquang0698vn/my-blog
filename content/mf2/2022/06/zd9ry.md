@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AriDrennen/status/1534910361479962625" ],
     "name" : [ "Like of @AriDrennen's tweet" ],
     "published" : [ "2022-06-10T08:37:00+0100" ],
     "like-of" : [ "https://twitter.com/AriDrennen/status/1534910361479962625" ],
