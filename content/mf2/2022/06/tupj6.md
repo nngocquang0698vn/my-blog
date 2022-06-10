@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/golang/status/1535320464419082240" ],
     "name" : [ "Like of @golang's tweet" ],
     "published" : [ "2022-06-10T20:14:00+0100" ],
     "category" : [ "go" ],
