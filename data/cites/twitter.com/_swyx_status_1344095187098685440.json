@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "CSS-Tricks" ],
+          "nickname" : [ "css" ],
+          "numeric-id" : [ "285019665" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1080202898372362240/akqRGyta.jpg" ],
+          "published" : [ "2011-04-20T11:40:04+00:00" ],
+          "uid" : [ "tag:twitter.com:css" ],
+          "url" : [ "https://twitter.com/css", "https://bit.ly/34XYr12", "http://CSS-Tricks.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "We tend to judge things based on when *we* started, but that's different for everyone. Reexamine what you know, says <a href=\"https://twitter.com/swyx\">@swyx</a>. <a href=\"https://css-tricks.com/its-always-year-zero/\">css-tricks.com/its-always-yea…</a>",
+        "value" : "We tend to judge things based on when *we* started, but that's different for everyone. Reexamine what you know, says @swyx. css-tricks.com/its-always-yea…"
+      } ],
+      "published" : [ "2020-12-16T01:17:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1339016889285140481" ],
+      "url" : [ "https://twitter.com/css/status/1339016889285140481" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Singapore" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One thing I learned from getting published in <a href=\"https://twitter.com/css\">@CSS</a> Tricks is the *sheer amount* of sites that solely exist to repost CSS Tricks.\n\nI made an open source domain blocklist of these spam sites: <a href=\"https://github.com/sw-yx/domainblocklist\">github.com/sw-yx/domainbl…</a>\n\nAnyone know why they do this? They set canonicals to themselves.. </div>",
+      "value" : "One thing I learned from getting published in @CSS Tricks is the *sheer amount* of sites that solely exist to repost CSS Tricks.\n\nI made an open source domain blocklist of these spam sites: github.com/sw-yx/domainbl…\n\nAnyone know why they do this? They set canonicals to themselves.. "
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/Eqcu6rTU0AYv39Q.png", "https://pbs.twimg.com/media/EqcvDPOVgAEpmic.jpg", "https://pbs.twimg.com/media/EqcvHYqVQAEMHiZ.png", "https://pbs.twimg.com/media/EqcvObFUwAAyFiF.jpg" ],
+    "published" : [ "2020-12-30T01:37:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1344095187098685440" ],
+    "url" : [ "https://twitter.com/swyx/status/1344095187098685440" ]
+  },
+  "type" : [ "h-entry" ]
+}
