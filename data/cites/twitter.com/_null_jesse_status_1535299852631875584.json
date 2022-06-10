@@ -1,0 +1,76 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam, The Netherlands" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Gergely Orosz" ],
+          "nickname" : [ "GergelyOrosz" ],
+          "numeric-id" : [ "30192824" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+          "published" : [ "2009-04-10T10:01:11+00:00" ],
+          "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+          "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I cannot believe companies are using a tool like Pluralsight flow for sw engineers.\n\nIt measures targets like coding days, lines of code &amp; target impact (whatever that is).\n\nIt's the definition of micromanagement. Good luck to anyone managed by this software. From an ad they run:</div>",
+        "value" : "I cannot believe companies are using a tool like Pluralsight flow for sw engineers.\n\nIt measures targets like coding days, lines of code & target impact (whatever that is).\n\nIt's the definition of micromanagement. Good luck to anyone managed by this software. From an ad they run:"
+      } ],
+      "photo" : [ {
+        "alt" : "Screenshot from Pluralisight Flow ad",
+        "value" : "https://pbs.twimg.com/media/FU5yqbIWAAARC8C.jpg"
+      }, {
+        "alt" : "Screenshot from Pluralisight Flow ad",
+        "value" : "https://pbs.twimg.com/media/FU5yqbHWUAEtsq3.jpg"
+      }, {
+        "alt" : "Screenshot from Pluralisight Flow ad",
+        "value" : "https://pbs.twimg.com/media/FU5yqbHX0AAmi9p.jpg"
+      } ],
+      "published" : [ "2022-06-10T16:00:27+00:00" ],
+      "uid" : [ "tag:twitter.com:1535290809288892418" ],
+      "url" : [ "https://twitter.com/GergelyOrosz/status/1535290809288892418" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/gergelyorosz/s…" ],
+      "url" : [ "https://twitter.com/gergelyorosz/status/1535290809288892418" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jesse null 🖤" ],
+        "nickname" : [ "null_jesse" ],
+        "numeric-id" : [ "1056221232822022144" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529689768191066112/O2vubdrl.jpg" ],
+        "published" : [ "2018-10-27T16:29:00+00:00" ],
+        "uid" : [ "tag:twitter.com:null_jesse" ],
+        "url" : [ "https://twitter.com/null_jesse", "http://instagram.com/mxrubyrailed" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "my toxic manager at my last job installed LinearB to analyze our Github activity and the only thing we learned was how to game the metrics\n<a class=\"tag\" href=\"https://twitter.com/gergelyorosz/status/1535290809288892418\">twitter.com/gergelyorosz/s…</a>",
+      "value" : "my toxic manager at my last job installed LinearB to analyze our Github activity and the only thing we learned was how to game the metrics"
+    } ],
+    "published" : [ "2022-06-10T16:36:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1535299852631875584" ],
+    "url" : [ "https://twitter.com/null_jesse/status/1535299852631875584" ]
+  },
+  "type" : [ "h-entry" ]
+}
