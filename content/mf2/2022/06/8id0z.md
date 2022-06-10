@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HKesvani/status/1535360229734498305" ],
     "name" : [ "Like of @HKesvani's tweet" ],
     "published" : [ "2022-06-10T21:58:00+0100" ],
     "like-of" : [ "https://twitter.com/HKesvani/status/1535360229734498305" ],
