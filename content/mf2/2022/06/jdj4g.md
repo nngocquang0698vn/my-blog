@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gritty20202/status/1535242143677173762" ],
     "name" : [ "Like of @Gritty20202's tweet" ],
     "published" : [ "2022-06-10T19:01:00+0100" ],
     "like-of" : [ "https://twitter.com/Gritty20202/status/1535242143677173762" ],
