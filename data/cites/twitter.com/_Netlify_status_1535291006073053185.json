@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netlify" ],
+        "nickname" : [ "Netlify" ],
+        "numeric-id" : [ "2571501973" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi.jpg" ],
+        "published" : [ "2014-06-16T19:11:55+00:00" ],
+        "uid" : [ "tag:twitter.com:Netlify" ],
+        "url" : [ "https://twitter.com/Netlify", "https://www.netlify.com", "http://answers.netlify.com", "http://netlify.com/support" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Wondering how <a href=\"https://twitter.com/philhawksworth\">@philhawksworth</a> spent his <a href=\"https://twitter.com/search?q=%23Matterday\">#Matterday</a>? He created some homemade ASMR full of your favorite phrases to put your mind at ease. 😌",
+      "value" : "Wondering how @philhawksworth spent his #Matterday? He created some homemade ASMR full of your favorite phrases to put your mind at ease. 😌"
+    } ],
+    "published" : [ "2022-06-10T16:01:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1535291006073053185" ],
+    "url" : [ "https://twitter.com/Netlify/status/1535291006073053185" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1535290829362831362/pu/vid/1280x720/Kwa16ht1ZrRwLOss.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
