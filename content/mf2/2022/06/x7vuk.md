@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/edent/status/1535242185662136320" ],
     "name" : [ "Like of @edent's tweet" ],
     "published" : [ "2022-06-10T15:44:00+0100" ],
     "like-of" : [ "https://twitter.com/edent/status/1535242185662136320" ],
