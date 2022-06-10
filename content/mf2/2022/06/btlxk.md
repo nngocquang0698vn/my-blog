@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Akatsuki_Kels/status/1534931913395273729" ],
     "name" : [ "Like of @Akatsuki_Kels's tweet" ],
     "published" : [ "2022-06-10T22:30:00+0100" ],
     "like-of" : [ "https://twitter.com/Akatsuki_Kels/status/1534931913395273729" ],
