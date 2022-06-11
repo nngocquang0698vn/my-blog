@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Snowden/status/1535623829078392832" ],
     "name" : [ "Like of @Snowden's tweet" ],
     "published" : [ "2022-06-11T15:19:00+0100" ],
     "like-of" : [ "https://twitter.com/Snowden/status/1535623829078392832" ],
