@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulxl/status/1535553594103107585" ],
     "name" : [ "Like of @paulxl's tweet" ],
     "published" : [ "2022-06-11T12:05:00+0100" ],
     "like-of" : [ "https://twitter.com/paulxl/status/1535553594103107585" ],
