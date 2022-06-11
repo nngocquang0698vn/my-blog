@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Announcing “Code” 2nd Edition" ],
+    "summary" : [ "I am overjoyed to announce that the 2nd edition of my book Code: The Hidden Language of Computer Hardware and Software will be published by Pearson on August 19, 2022. As you can see, the covers of the two editions are nearly identical except that the 2nd edition uses the “dark mode” option:" ],
+    "featured" : [ "https://www.charlespetzold.com/blog/2022/06/Code2H450.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Charles Petzold" ]
+      }
+    } ],
+    "url" : [ "http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html" ]
+  }
+}
