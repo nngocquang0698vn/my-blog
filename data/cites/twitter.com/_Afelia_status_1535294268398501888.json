@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Münster" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marina Weisband" ],
+        "nickname" : [ "Afelia" ],
+        "numeric-id" : [ "16569660" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1514935820641316872/ih9lS-qN.jpg" ],
+        "published" : [ "2008-10-03T00:22:54+00:00" ],
+        "uid" : [ "tag:twitter.com:Afelia" ],
+        "url" : [ "https://twitter.com/Afelia", "http://marinaweisband.de", "http://aula.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Nicht meins, aber based" ],
+    "photo" : [ {
+      "alt" : "Stickerei mit der Aufschrift: \"Warning. This is proof I have the patience to stab something 1000 times.\" ",
+      "value" : "https://pbs.twimg.com/media/FU51__OWYAAqZuf.jpg"
+    } ],
+    "published" : [ "2022-06-10T16:14:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1535294268398501888" ],
+    "url" : [ "https://twitter.com/Afelia/status/1535294268398501888" ]
+  },
+  "type" : [ "h-entry" ]
+}
