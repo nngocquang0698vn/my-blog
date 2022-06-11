@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "scheming (New York, NY)" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Omar Rizwan" ],
+        "nickname" : [ "rsnous" ],
+        "numeric-id" : [ "223613150" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/646523069343793152/qXmq04Eq.png" ],
+        "published" : [ "2010-12-06T21:34:56+00:00" ],
+        "uid" : [ "tag:twitter.com:rsnous" ],
+        "url" : [ "https://twitter.com/rsnous", "https://omar.website" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "programming language that comes in Red and Blue editions and some constructs and APIs are exclusive to each edition" ],
+    "published" : [ "2021-11-26T20:45:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1464334490550026240" ],
+    "url" : [ "https://twitter.com/rsnous/status/1464334490550026240" ]
+  },
+  "type" : [ "h-entry" ]
+}
