@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Berlin, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "SF" ],
+          "nickname" : [ "segunfamisa" ],
+          "numeric-id" : [ "53065383" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1484112476052639745/X716wlnf.jpg" ],
+          "published" : [ "2009-07-02T13:42:47+00:00" ],
+          "uid" : [ "tag:twitter.com:segunfamisa" ],
+          "url" : [ "https://twitter.com/segunfamisa", "https://segunfamisa.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Damn. I would expect to see this at a Späti, but not at an airport.\n\nCard payments only from 10€ purchases and up. It's really 2020.\n\nIf one doesn't have cash, can't buy water lol. So you have to buy random shit you don't need just so you can pay by card.</div>",
+        "value" : "Damn. I would expect to see this at a Späti, but not at an airport.\n\nCard payments only from 10€ purchases and up. It's really 2020.\n\nIf one doesn't have cash, can't buy water lol. So you have to buy random shit you don't need just so you can pay by card."
+      } ],
+      "photo" : [ {
+        "alt" : "photo showing a sign that says \"card purchases only from 10€ up\"",
+        "value" : "https://pbs.twimg.com/media/FVCH0BfXEAAhAhM.jpg"
+      } ],
+      "published" : [ "2022-06-12T06:49:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1535876808519962624" ],
+      "url" : [ "https://twitter.com/segunfamisa/status/1535876808519962624" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "danielle 🏳️‍🌈" ],
+        "nickname" : [ "endocrimes" ],
+        "numeric-id" : [ "233679538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1410271158759460870/UIMDFj6r.jpg" ],
+        "published" : [ "2011-01-03T21:14:17+00:00" ],
+        "uid" : [ "tag:twitter.com:endocrimes" ],
+        "url" : [ "https://twitter.com/endocrimes", "https://github.com/endocrimes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Mastercard rules 5.12.3:\nA Merchant must not require, or indicate that it requires, a minimum or maximum Transaction amount to accept a valid and properly presented Mastercard or Maestro Card.\n\n(hey <a href=\"https://twitter.com/MastercardEU\">@MastercardEU</a> looks like <a href=\"https://twitter.com/berlinairport\">@berlinairport</a> are breaking your rules)</div>",
+      "value" : "Mastercard rules 5.12.3:\nA Merchant must not require, or indicate that it requires, a minimum or maximum Transaction amount to accept a valid and properly presented Mastercard or Maestro Card.\n\n(hey @MastercardEU looks like @berlinairport are breaking your rules)"
+    } ],
+    "published" : [ "2022-06-12T08:12:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1535897754928660483" ],
+    "url" : [ "https://twitter.com/endocrimes/status/1535897754928660483" ]
+  },
+  "type" : [ "h-entry" ]
+}
