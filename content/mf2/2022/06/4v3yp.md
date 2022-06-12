@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jessiegender/status/1535911708438327297" ],
     "name" : [ "Like of @jessiegender's tweet" ],
     "published" : [ "2022-06-12T18:35:00+0100" ],
     "like-of" : [ "https://twitter.com/jessiegender/status/1535911708438327297" ],
