@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Perth, Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Peter N Lewis" ],
+          "nickname" : [ "peternlewis" ],
+          "numeric-id" : [ "8825142" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/25506152/SungroperIcon.jpg" ],
+          "published" : [ "2007-09-12T03:12:31+00:00" ],
+          "uid" : [ "tag:twitter.com:peternlewis" ],
+          "url" : [ "https://twitter.com/peternlewis", "http://www.peter.com.au/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I've been seriously program C/C++ for decades. I'd cheerfully and humbly say I'm an expert programmer.  And I have to look up how to do a repeat until loop. So never, ever, worry about having to look things up." ],
+      "published" : [ "2022-06-12T07:11:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1535882400185880576" ],
+      "url" : [ "https://twitter.com/peternlewis/status/1535882400185880576" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rosemary Orchard" ],
+        "nickname" : [ "RosemaryOrchard" ],
+        "numeric-id" : [ "418213412" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1444028033837449220/jL8yjz2G.jpg" ],
+        "published" : [ "2011-11-21T22:10:54+00:00" ],
+        "uid" : [ "tag:twitter.com:RosemaryOrchard" ],
+        "url" : [ "https://twitter.com/RosemaryOrchard", "https://rosemaryorchard.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Good programmers know what they're doing and how to solve the problem. Remembering which function takes which arguments or parameters is not required for that." ],
+    "published" : [ "2022-06-12T08:10:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1535897214723170309" ],
+    "url" : [ "https://twitter.com/RosemaryOrchard/status/1535897214723170309" ]
+  },
+  "type" : [ "h-entry" ]
+}
