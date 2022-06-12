@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Strong 🧀" ],
+        "nickname" : [ "RapidOwl" ],
+        "numeric-id" : [ "2903281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/925420454898266112/4bSGaIn-.jpg" ],
+        "published" : [ "2007-03-29T22:32:48+00:00" ],
+        "uid" : [ "tag:twitter.com:RapidOwl" ],
+        "url" : [ "https://twitter.com/RapidOwl", "https://samstrong.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Sadly the data is in Apple Health. But I wonder if I can automate it going into a third party that has an API.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/whoisgraham\"></a>",
+      "value" : "Sadly the data is in Apple Health. But I wonder if I can automate it going into a third party that has an API."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/whoisgraham/status/1535913836124979200" ],
+    "published" : [ "2022-06-12T09:40:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1535919901080276992" ],
+    "url" : [ "https://twitter.com/RapidOwl/status/1535919901080276992" ]
+  },
+  "type" : [ "h-entry" ]
+}
