@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/zimmski/go-mutesting/stargazers" ],
     "published" : [ "2022-06-13T16:35:00+0100" ],
     "category" : [ "testing", "mutation-testing" ],
     "like-of" : [ "https://github.com/zimmski/go-mutesting" ],
