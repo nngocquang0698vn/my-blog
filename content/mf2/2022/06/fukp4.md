@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/technottingham/status/1536245034110025729" ],
     "name" : [ "Like of @technottingham's tweet" ],
     "published" : [ "2022-06-13T14:02:00+0100" ],
     "like-of" : [ "https://twitter.com/technottingham/status/1536245034110025729" ],
