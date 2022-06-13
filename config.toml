@@ -164,6 +164,12 @@ notAlternative = true
     url = "/search/"
     weight = 50
   [[menu.main]]
+    identifier = "salary"
+    name = "Salary History"
+    title = "Salary History"
+    url = "/salary/"
+    weight = 55
+  [[menu.main]]
     identifier = "support-me"
     name = "Support Me"
     title = "Support Me"
@@ -218,12 +224,6 @@ notAlternative = true
     title = "Post Visualisation"
     url = "/post-frequency/"
     weight = 45
-  [[menu.footer]]
-    identifier = "salary"
-    name = "Salary History"
-    title = "Salary History"
-    url = "/salary/"
-    weight = 46
   [[menu.footer]]
     identifier = "manual-of-me"
     name = "Manual of Me"
