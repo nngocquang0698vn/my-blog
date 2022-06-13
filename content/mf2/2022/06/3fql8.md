@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/zero_chill_tea/status/1536189766982520832" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1536239089070096389" ],
     "published" : [ "2022-06-13T07:39:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
