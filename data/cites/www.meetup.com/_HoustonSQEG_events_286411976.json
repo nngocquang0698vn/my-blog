@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Enter bidirectional contract testing (BDCT)" ],
+    "description" : [ {
+      "html" : "Consumer-driven contract testing has proven itself as a way to lighten the burden of large-scale integration testing in highly distributed software systems. However, implementing full-blown 'traditional' contract testing, for example using Pact, is a significant effort, and that has kept quite a few teams from adopting contract testing.\n\nEnter bidirectional contract testing (BDCT). This new approach to contract testing makes it much easier for both consumers and providers to adopt contract testing, as it leverages existing tools, techniques and infrastructure to generate and compare contracts.\n\nIn this talk, our guest speaker Bas Dijkstra will show you how BDCT works and how it is different from 'traditional' contract testing. He will also show you a working example in Java to illustrate how BDCT works, and how it simplifies the adoption of contract testing.",
+      "value" : "Consumer-driven contract testing has proven itself as a way to lighten the burden of large-scale integration testing in highly distributed software systems. However, implementing full-blown 'traditional' contract testing, for example using Pact, is a significant effort, and that has kept quite a few teams from adopting contract testing.\n\nEnter bidirectional contract testing (BDCT). This new approach to contract testing makes it much easier for both consumers and providers to adopt contract testing, as it leverages existing tools, techniques and infrastructure to generate and compare contracts.\n\nIn this talk, our guest speaker Bas Dijkstra will show you how BDCT works and how it is different from 'traditional' contract testing. He will also show you a working example in Java to illustrate how BDCT works, and how it simplifies the adoption of contract testing."
+    } ],
+    "start" : [ "2022-06-22T12:00-05:00" ],
+    "end" : [ "2022-06-22T13:00-05:00" ],
+    "url" : [ "https://www.meetup.com/HoustonSQEG/events/286411976" ],
+    "location" : [ "Online" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Houston Software Quality Engineering Group" ],
+        "photo" : [ "https://secure-content.meetupstatic.com/images/classic-events/496917102/600x600.webp" ],
+        "url" : [ "https://www.meetup.com/HoustonSQEG" ]
+      },
+      "value" : "Houston Software Quality Engineering Group"
+    } ]
+  }
+}
