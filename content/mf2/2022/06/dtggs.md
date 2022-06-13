@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zuwynnmuva/status/1536169456032010242" ],
     "name" : [ "Like of @zuwynnmuva's tweet" ],
     "published" : [ "2022-06-13T17:18:00+0100" ],
     "like-of" : [ "https://twitter.com/zuwynnmuva/status/1536169456032010242" ],
