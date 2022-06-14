@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mnot/status/1536574097312055296" ],
     "name" : [ "Like of @mnot's tweet" ],
     "published" : [ "2022-06-14T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/mnot/status/1536574097312055296" ],
