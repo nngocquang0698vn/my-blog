@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Ball of Rotting Flesh" ],
+          "nickname" : [ "Cantankeloupe" ],
+          "numeric-id" : [ "1372738696164835331" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1515293752897724417/TlCn9amQ.jpg" ],
+          "published" : [ "2021-03-19T02:36:57+00:00" ],
+          "uid" : [ "tag:twitter.com:Cantankeloupe" ],
+          "url" : [ "https://twitter.com/Cantankeloupe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "What kind of grown man eats nuggets?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamesSACorey\"></a>",
+        "value" : "What kind of grown man eats nuggets?"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/JamesSACorey/status/1536626574778200064" ],
+      "published" : [ "2022-06-14T08:36:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1536628551834910720" ],
+      "url" : [ "https://twitter.com/Cantankeloupe/status/1536628551834910720" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Grown men don't need to ask this." ],
+    "published" : [ "2022-06-14T08:37:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1536628924771274752" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1536628924771274752" ]
+  },
+  "type" : [ "h-entry" ]
+}
