@@ -1,0 +1,230 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The Spam Has Arrived" ],
+    "category" : [ "indieweb", "code", "webmentions" ],
+    "summary" : [ "The other day, I posted an article about implementing webmentions on this site. Today, I’m battling an endless stream of spam in my mentions." ],
+    "url" : [ "https://www.miriamsuzanne.com/2022/06/09/the-spam/" ],
+    "published" : [ "2022-06-09" ],
+    "content" : [ {
+      "html" : "<footer data-meta=\"page\">\n    \n\n    <p>\n      \n\n  <time datetime=\"2022-06-09\" pubdate=\"\" class=\"dt-published\">\n    \n\n    \n      June 9, 2022\n    \n  </time>\n\n    </p>\n\n    \n\n    \n\n    \n      <p class=\"page-tags\">\n        in \n\n  <a href=\"https://www.miriamsuzanne.com/tags/indieweb/\" class=\"p-category\">indieweb</a>, <a href=\"https://www.miriamsuzanne.com/tags/code/\" class=\"p-category\">code</a>, <a href=\"https://www.miriamsuzanne.com/tags/webmentions/\" class=\"p-category\">webmentions</a>\n\n      </p>\n    \n  </footer>\n\n\n\n    \n\n    \n      <div class=\"intro p-summary\">\n        <p>The other day, I posted an article about\n<a href=\"https://www.miriamsuzanne.com/2022/06/04/indiweb/\">implementing webmentions</a>\non this site.\nToday, I&#x2019;m battling an endless stream\nof spam in my<span class=\"widont\">&#xA0;</span>mentions.</p>\n\n      </div>\n    \n\n    \n      <p>I first noticed it on a Netlify deploy preview.\nA faceless mention from &#x2018;admin&#x2019;\nat<span class=\"widont\">&#xA0;</span>&#x2018;imoneyhub&#x2019;.</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://d33wubrfki0l68.cloudfront.net/8235989abd72200bb7bfcd3491ba91dd2c35b4d7/97852/images/2022/b-0sps2d_t-960.avif 960w, https://d33wubrfki0l68.cloudfront.net/5ab18cc443bdcd4aa52864f75c75388623c8f332/a46bb/images/2022/b-0sps2d_t-1600.avif 1600w\" sizes=\"(min-width: 65em) 60vw, 95vw\"></source><source type=\"image/jpeg\" srcset=\"https://d33wubrfki0l68.cloudfront.net/b5b4d657df7d88577eb56afca71040d403f4284e/e153b/images/2022/b-0sps2d_t-960.jpeg 960w, https://d33wubrfki0l68.cloudfront.net/7a4cdbd5b233699009d2dcb80dd576473a2b1182/43ea9/images/2022/b-0sps2d_t-1600.jpeg 1600w\" sizes=\"(min-width: 65em) 60vw, 95vw\"></source><img alt=\"screenshot: admin, June 9, 2022, mentioned this in imoneyhub.com\" loading=\"lazy\" decoding=\"async\" src=\"https://d33wubrfki0l68.cloudfront.net/b5b4d657df7d88577eb56afca71040d403f4284e/e153b/images/2022/b-0sps2d_t-960.jpeg\" width=\"1600\" height=\"332\"></picture></p>\n<p>I assumed right away it must be spam,\nbut I&#x2019;m glad I clicked through.\nIt turns out\n<a href=\"https://css-tricks.com/author/geoffgraham/\">Geoff Graham</a>\nwrote\n<a href=\"https://css-tricks.com/am-i-on-the-indieweb-yet/\">a lovely <span class=\"caps\">CSS</span>-Tricks reply</a>\nabout his own struggle\nsetting up webmentions,\nand some of the Wordpress plugins\nthat can<span class=\"widont\">&#xA0;</span>help.</p>\n<p>But I didn&#x2019;t see a mention from <span class=\"caps\">CSS</span>-Tricks\n(at least not right away).\nInstead,\nGeoff&#x2019;s post has been re-posted by &#x2018;admin&#x2019;\non a long list of random URLs,\nall (web)mentioning my original post.\nThe <a href=\"http://webmention.io\">webmention.io</a> dashboard shows me all of them\n(with a few legit mentions scattered<span class=\"widont\">&#xA0;</span>through):</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://d33wubrfki0l68.cloudfront.net/1fc4e73d6c841ef78257efd33c20025a00bfc160/d8ecb/images/2022/upagxwkyth-960.avif 960w\" sizes=\"(min-width: 65em) 60vw, 95vw\"></source><img alt=\"screenshot: Recent Webmentions, and a small-print list of faceless random urls, and a few blurred-out legit mentions\" loading=\"lazy\" decoding=\"async\" src=\"https://d33wubrfki0l68.cloudfront.net/07dd37c8f34842833244f5d063dc975a46771356/dabcb/images/2022/upagxwkyth-960.jpeg\" width=\"960\" height=\"1091\"></picture></p>\n<p>All of these mentions made it into my local cache,\nbut only one made it into a build.\nIt seems the rest were caught in a simple filter\nthat came from\nMax B&#xF6;ck&#x2019;s\n<a href=\"https://github.com/maxboeck/eleventy-webmentions\">Eleventy Webmentions</a>\nstarter.\nIt&#x2019;s a quick <span class=\"caps\">JS</span> function\nthat ensures every mention has an author name\nand a<span class=\"widont\">&#xA0;</span>timestamp.</p>\n<pre class=\"language-js\"><code class=\"language-js\"><span class=\"token comment\">// only allow webmentions that have an author name and a timestamp</span><br><span class=\"token keyword\">const</span> <span class=\"token function-variable function\">checkRequiredFields</span> <span class=\"token operator\">=</span> <span class=\"token punctuation\">(</span><span class=\"token parameter\">entry</span><span class=\"token punctuation\">)</span> <span class=\"token operator\">=&gt;</span> <span class=\"token punctuation\">{</span><br>  <span class=\"token keyword\">const</span> <span class=\"token punctuation\">{</span> author<span class=\"token punctuation\">,</span> published <span class=\"token punctuation\">}</span> <span class=\"token operator\">=</span> entry<span class=\"token punctuation\">;</span><br>  <span class=\"token keyword\">return</span> <span class=\"token function\">Boolean</span><span class=\"token punctuation\">(</span>author<span class=\"token punctuation\">)</span> <span class=\"token operator\">&amp;&amp;</span> <span class=\"token function\">Boolean</span><span class=\"token punctuation\">(</span>author<span class=\"token punctuation\">.</span>name<span class=\"token punctuation\">)</span> <span class=\"token operator\">&amp;&amp;</span> <span class=\"token function\">Boolean</span><span class=\"token punctuation\">(</span>published<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span><br><span class=\"token punctuation\">}</span><span class=\"token punctuation\">;</span></code></pre>\n<p>That caught all but one of the spam mentions\n(&#x2018;admin&#x2019; made it through!),\nbut it also caught the mention from <span class=\"caps\">CSS</span>-Tricks,\nwhich doesn&#x2019;t include Geoff&#x2019;s info,\na timestamp,\nor even content.\nSo I already have both\nfalse negatives and false positives\nin my filtering.<span class=\"widont\">&#xA0;</span>Fun!</p>\n<p>I can go through these by hand,\nand delete/block each one in the dashboard.\nI also have to delete them in my local cache.\nAnd while I&#x2019;m at it,\nI&#x2019;ve added author info in the cache for Geoff?\nWe&#x2019;ll see if that sticks.\nBut there has to be a better way,<span class=\"widont\">&#xA0;</span>right?</p>\n<p>Right?</p>\n<p><em>There has to be a better way,<span class=\"widont\">&#xA0;</span>right?</em></p>\n<h2>Update (2022-06-11)</h2>\n<p>There is a <a href=\"https://github.com/sw-yx/domainblocklist\">shared blocklist</a>\nmaintained by <a href=\"https://www.swyx.io/\">Shawn Wang</a>,\nwhich I&#x2019;m now using and will contribute back<span class=\"widont\">&#xA0;</span>to.</p>",
+      "value" : "June 9, 2022\nin indieweb, code, webmentions\nThe other day, I posted an article about implementing webmentions on this site. Today, I’m battling an endless stream of spam in my mentions.\nI first noticed it on a Netlify deploy preview. A faceless mention from ‘admin’ at ‘imoneyhub’.\nscreenshot: admin, June 9, 2022, mentioned this in imoneyhub.com\nI assumed right away it must be spam, but I’m glad I clicked through. It turns out Geoff Graham wrote a lovely CSS-Tricks reply about his own struggle setting up webmentions, and some of the Wordpress plugins that can help.\nBut I didn’t see a mention from CSS-Tricks (at least not right away). Instead, Geoff’s post has been re-posted by ‘admin’ on a long list of random URLs, all (web)mentioning my original post. The webmention.io dashboard shows me all of them (with a few legit mentions scattered through):\nscreenshot: Recent Webmentions, and a small-print list of faceless random urls, and a few blurred-out legit mentions\nAll of these mentions made it into my local cache, but only one made it into a build. It seems the rest were caught in a simple filter that came from Max Böck’s Eleventy Webmentions starter. It’s a quick JS function that ensures every mention has an author name and a timestamp. // only allow webmentions that have an author name and a timestamp\nconst checkRequiredFields = (entry) => {\nconst { author, published } = entry;\nreturn Boolean(author) && Boolean(author.name) && Boolean(published);\n};\nThat caught all but one of the spam mentions (‘admin’ made it through!), but it also caught the mention from CSS-Tricks, which doesn’t include Geoff’s info, a timestamp, or even content. So I already have both false negatives and false positives in my filtering. Fun!\nI can go through these by hand, and delete/block each one in the dashboard. I also have to delete them in my local cache. And while I’m at it, I’ve added author info in the cache for Geoff? We’ll see if that sticks. But there has to be a better way, right?\nRight?\nThere has to be a better way, right? Update (2022-06-11)\nThere is a shared blocklist maintained by Shawn Wang, which I’m now using and will contribute back to.",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Miriam Eric Suzanne" ],
+        "note" : [ "I’m an artist, activist, teacher, and web developer. As a co-founder of OddBird, Teacup Gorilla, and Grapefruit Lab I hope to create art & software that celebrate the queerness & complexity of human experience." ],
+        "url" : [ "https://miariamsuzanne.com/who/", "https://twitter.com/TerribleMia", "https://github.com/mirisuzanne", "https://codepen.io/miriamsuzanne/", "https://www.miriamsuzanne.com/feed.xml", "https://stackoverflow.com/users/1930386/", "https://keybase.io/mirisuzanne" ],
+        "uid" : [ "https://miariamsuzanne.com/who/" ],
+        "org" : [ {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "OddBird" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/oddbird/" ]
+          },
+          "lang" : "en",
+          "value" : "OddBird"
+        }, {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Teacup Gorilla" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/teacup-gorilla/" ]
+          },
+          "lang" : "en",
+          "value" : "Teacup Gorilla"
+        }, {
+          "type" : [ "h-card" ],
+          "properties" : {
+            "name" : [ "Grapefruit Lab" ],
+            "url" : [ "https://www.miriamsuzanne.com/orgs/grapefruit-lab/" ]
+          },
+          "lang" : "en",
+          "value" : "Grapefruit Lab"
+        } ]
+      },
+      "lang" : "en",
+      "value" : "Miriam Eric Suzanne"
+    } ]
+  },
+  "lang" : "en",
+  "children" : [ {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Baldur Bjarnason" ],
+          "content" : [ "“The Spam Has Arrived - Miriam Eric Suzanne” Tackbacks, pingbacks, webmentions—they all seem to handwave their way through the spam problem. miriamsuzanne.com/2022/06/09/the…" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/8b4860c1e17e03b0e225e1d12c623f991c801297243686b3eeffff32dd038c7b.jpg" ],
+          "url" : [ "https://twitter.com/fakebaldur/status/1535201942254891009" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Baldur Bjarnason"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Max Böck" ],
+          "content" : [ "You may also be interested in this blocklist by @swyx - it tracks domains that usually spam automated reposts of popular sites. Can be used for a simple filter as well: github.com/sw-yx/domainbl…" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/18a4e83da23e07a465feab2cd21362105938e9ac05ff774c757bec8f39bf6141.jpg" ],
+          "url" : [ "https://twitter.com/mxbck/status/1535280787351805953" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Max Böck"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Eric Portis" ],
+          "content" : [ "This makes me desperately want to finish my drafted post comparing IndieWeb w/ ham radio: a similarly decentralized network of fiercely independent hobbyists who pride themselves robustness, except that when you spam ham, you go to JAIL wiki.c2.com/?HamRadioPests" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/558b4c45b7bd5a1107c170e4bb77e2f8cd7f59bf7eda42756b5a7b93c24753a2.png" ],
+          "url" : [ "https://twitter.com/etportis/status/1535281740326916096" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Eric Portis"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Eric Portis" ],
+          "content" : [ "I can't post this yet because I'm still ironing out my IndieWeb implementation and the ol' blog is in shambles meanwhile." ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/558b4c45b7bd5a1107c170e4bb77e2f8cd7f59bf7eda42756b5a7b93c24753a2.png" ],
+          "url" : [ "https://twitter.com/etportis/status/1535282047341580289" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Eric Portis"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Eric Portis" ],
+          "content" : [ "Anyways indieweb.org/Vouch is kind of interesting but the whole concept of decentralization is indeed a double-edged sword!!!" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/558b4c45b7bd5a1107c170e4bb77e2f8cd7f59bf7eda42756b5a7b93c24753a2.png" ],
+          "url" : [ "https://twitter.com/etportis/status/1535282516407353344" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Eric Portis"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "jules" ],
+          "content" : [ "I’d love to see cross site mentions work but this is what scares me off." ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/2544ac1d66613cf532680413db6350efcd612598a6b0f58965a101493fccb7ab.jpg" ],
+          "url" : [ "https://twitter.com/julesisuppose/status/1535324810653274117" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "jules"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "Mia (not her best work)" ],
+          "content" : [ "I expect the blocklist linked in comments will be pretty useful. It does seem like all the spam so far is coming from scrapes of the css-tricks article." ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/0070719556938ae95053b104df74ca15213d4a99abb84c5e03fe27b0c52e139e.jpg" ],
+          "url" : [ "https://twitter.com/TerribleMia/status/1535325276527132672" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "Mia (not her best work)"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "jules" ],
+          "content" : [ "I wouldn’t be upset about spam if a human had to write it. Not sure how to limit access while not invading privacy. Cool space to work on and anything to get content control back into peoples hands." ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/2544ac1d66613cf532680413db6350efcd612598a6b0f58965a101493fccb7ab.jpg" ],
+          "url" : [ "https://twitter.com/julesisuppose/status/1535325880012025857" ],
+          "published" : [ "2022-06-10" ]
+        },
+        "lang" : "en",
+        "value" : "jules"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-cite" ],
+    "properties" : {
+      "author" : [ {
+        "type" : [ "h-card" ],
+        "properties" : {
+          "name" : [ "swyx" ],
+          "content" : [ "crowdsourcing to beat the spambots 💪" ],
+          "photo" : [ "https://webmention.io/avatar/pbs.twimg.com/db2f1b4f7620d308acdd2562063783371b46809901ece09d2f99835e59a75980.jpg" ],
+          "url" : [ "https://twitter.com/swyx/status/1535680254890545152" ],
+          "published" : [ "2022-06-11" ]
+        },
+        "lang" : "en",
+        "value" : "swyx"
+      } ]
+    },
+    "lang" : "en"
+  }, {
+    "type" : [ "h-feed" ],
+    "properties" : {
+      "name" : [ "2 ‘indieweb’ episodes" ]
+    },
+    "lang" : "en",
+    "children" : [ {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "The Spam Has Arrived" ],
+        "url" : [ "https://www.miriamsuzanne.com/2022/06/09/the-spam/The Spam Has Arrived" ],
+        "published" : [ "2022-06-09" ]
+      },
+      "lang" : "en"
+    }, {
+      "type" : [ "h-entry" ],
+      "properties" : {
+        "name" : [ "Am I on the IndieWeb Yet?" ],
+        "summary" : [ "I’m really into the IndieWeb, or the ideas behind it. I like to own my data, I like a space to play and experiment, I like the idea of syndicating content to be read/experienced in a variety of formats. I love microformats, and RSS feeds, and… wait… how do webmentions work?" ],
+        "url" : [ "https://www.miriamsuzanne.com/2022/06/04/indiweb/" ],
+        "published" : [ "2022-06-04" ]
+      },
+      "lang" : "en"
+    } ]
+  } ]
+}
