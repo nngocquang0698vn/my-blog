@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DuendeenF/status/1536070938227159040" ],
     "name" : [ "Like of @DuendeenF's tweet" ],
     "published" : [ "2022-06-14T07:14:00+0100" ],
     "like-of" : [ "https://twitter.com/DuendeenF/status/1536070938227159040" ],
