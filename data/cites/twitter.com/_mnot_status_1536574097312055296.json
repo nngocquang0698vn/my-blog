@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Prahran, Victoria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Nottingham" ],
+        "nickname" : [ "mnot" ],
+        "numeric-id" : [ "5832482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/712785847058178048/Na0n8zCV.jpg" ],
+        "published" : [ "2007-05-07T13:29:44+00:00" ],
+        "uid" : [ "tag:twitter.com:mnot" ],
+        "url" : [ "https://twitter.com/mnot", "https://www.mnot.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Pro tip: adding a number to 'web' does absolutely nothing for your credibility." ],
+    "published" : [ "2022-06-14T04:59:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1536574097312055296" ],
+    "url" : [ "https://twitter.com/mnot/status/1536574097312055296" ]
+  },
+  "type" : [ "h-entry" ]
+}
