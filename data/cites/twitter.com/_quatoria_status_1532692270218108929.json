@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "𝐛𝐫𝐞𝐚𝐤𝐛𝐞𝐚𝐭 𝐭𝐚𝐤𝐞𝐬𝐡𝐢 🏳️‍🌈" ],
+          "nickname" : [ "disco_socialist" ],
+          "numeric-id" : [ "14949094" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1506632559064616963/ncHHeWbU.png" ],
+          "published" : [ "2008-05-29T22:34:49+00:00" ],
+          "uid" : [ "tag:twitter.com:disco_socialist" ],
+          "url" : [ "https://twitter.com/disco_socialist", "http://cash.me/$discosocialist" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "allyship without class consciousness is a farce." ],
+      "photo" : [ "https://pbs.twimg.com/media/FUQjXLfUYAA7uB5.jpg" ],
+      "published" : [ "2022-06-02T15:48:22+00:00" ],
+      "uid" : [ "tag:twitter.com:1532388663014793217" ],
+      "url" : [ "https://twitter.com/disco_socialist/status/1532388663014793217" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Occupied Massachusett land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anna phylaxis" ],
+        "nickname" : [ "quatoria" ],
+        "numeric-id" : [ "15982882" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1301576207247573002/5_lVo_8d.jpg" ],
+        "published" : [ "2008-08-25T15:44:53+00:00" ],
+        "uid" : [ "tag:twitter.com:quatoria" ],
+        "url" : [ "https://twitter.com/quatoria", "https://www.bostondykemarch.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"yeah i transitioned so i could sacrifice 40% of my lifetime earnings in order to have people tell me my right to exist is a bourgeois, luxury problem\"" ],
+    "published" : [ "2022-06-03T11:54:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1532692270218108929" ],
+    "url" : [ "https://twitter.com/quatoria/status/1532692270218108929" ]
+  },
+  "type" : [ "h-entry" ]
+}
