@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AliceRoseAnew/status/1536310369219751941" ],
     "name" : [ "Like of @AliceRoseAnew's tweet" ],
     "published" : [ "2022-06-14T07:14:00+0100" ],
     "like-of" : [ "https://twitter.com/AliceRoseAnew/status/1536310369219751941" ],
