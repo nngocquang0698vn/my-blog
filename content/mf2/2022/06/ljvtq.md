@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cedlacrambe/status/1536665821140877314" ],
     "name" : [ "Like of @cedlacrambe's tweet" ],
     "published" : [ "2022-06-14T19:31:00+0100" ],
     "like-of" : [ "https://twitter.com/cedlacrambe/status/1536665821140877314" ],
