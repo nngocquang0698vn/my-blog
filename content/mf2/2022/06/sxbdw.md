@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Eltresdeasada_/status/1535628629035524097" ],
     "name" : [ "Like of @Eltresdeasada_'s tweet" ],
     "published" : [ "2022-06-14T10:05:00+0100" ],
     "like-of" : [ "https://twitter.com/Eltresdeasada_/status/1535628629035524097" ],
