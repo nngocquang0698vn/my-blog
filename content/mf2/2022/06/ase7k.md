@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/davechensky/status/1536599416911429634" ],
     "name" : [ "Like of @davechensky's tweet" ],
     "published" : [ "2022-06-14T22:29:00+0100" ],
     "like-of" : [ "https://twitter.com/davechensky/status/1536599416911429634" ],
