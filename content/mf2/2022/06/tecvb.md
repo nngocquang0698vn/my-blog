@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/iamdevloper/status/1536328285650550784" ],
     "name" : [ "Like of @iamdevloper's tweet" ],
     "published" : [ "2022-06-14T22:22:00+0100" ],
     "like-of" : [ "https://twitter.com/iamdevloper/status/1536328285650550784" ],
