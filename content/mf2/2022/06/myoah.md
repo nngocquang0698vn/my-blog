@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Amogeez8/status/1536451407443812352" ],
     "name" : [ "Like of @Amogeez8's tweet" ],
     "published" : [ "2022-06-14T19:31:00+0100" ],
     "like-of" : [ "https://twitter.com/Amogeez8/status/1536451407443812352" ],
