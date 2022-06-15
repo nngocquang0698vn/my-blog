@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Killmon" ],
+          "nickname" : [ "kohidave" ],
+          "numeric-id" : [ "14572270" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1390099342971658240/8bflA6gu.jpg" ],
+          "published" : [ "2008-04-28T17:34:19+00:00" ],
+          "uid" : [ "tag:twitter.com:kohidave" ],
+          "url" : [ "https://twitter.com/kohidave" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We, as folks in the tech industry, really need to take a deep look at how we handle on calls \n\nWe can’t say, on one hand, say that we want to encourage folks to have a healthy work life balance while also saying that every third week, you have to sleep with a pager.</div>",
+        "value" : "We, as folks in the tech industry, really need to take a deep look at how we handle on calls \n\nWe can’t say, on one hand, say that we want to encourage folks to have a healthy work life balance while also saying that every third week, you have to sleep with a pager."
+      } ],
+      "location" : [ {
+        "properties" : {
+          "name" : [ "Seattle, WA" ],
+          "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+        },
+        "type" : [ "h-card", "p-location" ]
+      } ],
+      "published" : [ "2022-06-12T23:05:06+00:00" ],
+      "uid" : [ "tag:twitter.com:1536122448025747458" ],
+      "url" : [ "https://twitter.com/kohidave/status/1536122448025747458" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I run a primary, a secondary, and an escalation on call.\n\nThis ensures:\n- On-call is adequately supported\n- People who have spent their whole careers on call are not initial triage points\n- People can rotate on/off incidents to rest\n- People spend more time off than on call</div>",
+      "value" : "I run a primary, a secondary, and an escalation on call.\n\nThis ensures:\n- On-call is adequately supported\n- People who have spent their whole careers on call are not initial triage points\n- People can rotate on/off incidents to rest\n- People spend more time off than on call"
+    } ],
+    "published" : [ "2022-06-15T14:47:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1537084345051062277" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1537084345051062277" ]
+  },
+  "type" : [ "h-entry" ]
+}
