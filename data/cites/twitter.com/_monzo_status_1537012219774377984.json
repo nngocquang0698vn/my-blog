@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Monzo" ],
+        "nickname" : [ "monzo" ],
+        "numeric-id" : [ "3224409977" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537011287586119680/ew26wLU4.png" ],
+        "published" : [ "2015-04-30T12:53:58+00:00" ],
+        "uid" : [ "tag:twitter.com:monzo" ],
+        "url" : [ "https://twitter.com/monzo", "https://monzo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hello, neon 😎\n\nIntroducing...\n🕺  disco pink\n🌞  sunshine yellow\n🥝  juicy green\n\n3 limited edition colours inspired by our original hot coral card ✨</div>",
+      "value" : "Hello, neon 😎\n\nIntroducing...\n🕺  disco pink\n🌞  sunshine yellow\n🥝  juicy green\n\n3 limited edition colours inspired by our original hot coral card ✨"
+    } ],
+    "published" : [ "2022-06-15T10:00:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1537012219774377984" ],
+    "url" : [ "https://twitter.com/monzo/status/1537012219774377984" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1537002974173712386/pu/vid/720x720/iJ6RCfoIKwLThKyb.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
