@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hillel" ],
+        "nickname" : [ "hillelogram" ],
+        "numeric-id" : [ "397782926" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537028400367472640/rt1PDDFW.png" ],
+        "published" : [ "2011-10-25T04:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:hillelogram" ],
+        "url" : [ "https://twitter.com/hillelogram", "http://hillelwayne.com", "http://is.gd/ptlaplus", "http://is.gd/zWfYjd" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">More tech things need a \"conceptual overview\", which explains the why and core ideas to an outsider who wants to know what it's all about, but isn't necessarily interested in deeply understanding it.\n\nLemme try doing this with vim:</div>",
+      "value" : "More tech things need a \"conceptual overview\", which explains the why and core ideas to an outsider who wants to know what it's all about, but isn't necessarily interested in deeply understanding it.\n\nLemme try doing this with vim:"
+    } ],
+    "published" : [ "2022-06-15T03:54:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1536920106445447168" ],
+    "url" : [ "https://twitter.com/hillelogram/status/1536920106445447168" ]
+  },
+  "type" : [ "h-entry" ]
+}
