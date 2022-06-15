@@ -1,9 +1,10 @@
 ---
 title: "Managing your Go tool versions with `go.mod` and a `tools.go`"
-description: "Better dependency management for your tools and without needing to `go install` the tools before executing them."
-date: 2022-06-15T22:21:37+0100
+description: "Better dependency management for your tools and without needing to `go\
+  \ install` the tools before executing them."
+date: "2022-06-15T22:21:37+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1537185383913488384"
 tags:
 - "blogumentation"
 - "go"
