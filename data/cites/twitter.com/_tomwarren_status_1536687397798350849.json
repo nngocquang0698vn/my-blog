@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Warren" ],
+        "nickname" : [ "tomwarren" ],
+        "numeric-id" : [ "12273252" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484240745280294926/DiRkwtc0.jpg" ],
+        "published" : [ "2008-01-15T14:42:09+00:00" ],
+        "uid" : [ "tag:twitter.com:tomwarren" ],
+        "url" : [ "https://twitter.com/tomwarren", "https://linktr.ee/tomwarren" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "is Internet Explorer ever truly dead?" ],
+    "photo" : [ "https://pbs.twimg.com/media/FVNICRYXoAEN56K.png" ],
+    "published" : [ "2022-06-14T12:30:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1536687397798350849" ],
+    "url" : [ "https://twitter.com/tomwarren/status/1536687397798350849" ]
+  },
+  "type" : [ "h-entry" ]
+}
