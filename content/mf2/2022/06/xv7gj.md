@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wilnyl/status/1537040461852033024" ],
     "name" : [ "Like of @wilnyl's tweet" ],
     "published" : [ "2022-06-15T18:46:00+0100" ],
     "like-of" : [ "https://twitter.com/wilnyl/status/1537040461852033024" ],
