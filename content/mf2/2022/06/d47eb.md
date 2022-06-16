@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophiebits/status/1537531673591459840" ],
     "name" : [ "Like of @sophiebits's tweet" ],
     "published" : [ "2022-06-16T22:13:00+0100" ],
     "like-of" : [ "https://twitter.com/sophiebits/status/1537531673591459840" ],
