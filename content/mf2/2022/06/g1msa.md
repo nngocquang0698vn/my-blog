@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/not_a_heather/status/1537213895076626434" ],
     "name" : [ "Like of @not_a_heather's tweet" ],
     "published" : [ "2022-06-16T18:05:00+0100" ],
     "like-of" : [ "https://twitter.com/not_a_heather/status/1537213895076626434" ],
