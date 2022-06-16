@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/herridot/status/1536727271582711810" ],
     "name" : [ "Like of @herridot's tweet" ],
     "published" : [ "2022-06-16T07:58:00+0100" ],
     "like-of" : [ "https://twitter.com/herridot/status/1536727271582711810" ],
