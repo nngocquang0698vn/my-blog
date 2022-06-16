@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Carlsbad, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Scholta" ],
+        "nickname" : [ "visormatt" ],
+        "numeric-id" : [ "22697774" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1335782075903852549/P7LOtR-S.jpg" ],
+        "published" : [ "2009-03-03T23:14:57+00:00" ],
+        "uid" : [ "tag:twitter.com:visormatt" ],
+        "url" : [ "https://twitter.com/visormatt", "https://mattscholta.com", "http://Haldi.com", "http://BarGuide.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Isn't this your GH profile <a href=\"https://github.com/rohitgulam\">github.com/rohitgulam</a>?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RohitGulam\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/maestrowscki10\"></a>",
+      "value" : "Isn't this your GH profile github.com/rohitgulam?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RohitGulam/status/1536661166969298944" ],
+    "photo" : [ "https://pbs.twimg.com/media/FVOppvsVUAAAvff.jpg" ],
+    "published" : [ "2022-06-14T17:12:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1536758474834530304" ],
+    "url" : [ "https://twitter.com/visormatt/status/1536758474834530304" ]
+  },
+  "type" : [ "h-entry" ]
+}
