@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/fplanque/status/1537438036815777795" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1537522308511842305" ],
     "published" : [ "2022-06-16T20:40:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
