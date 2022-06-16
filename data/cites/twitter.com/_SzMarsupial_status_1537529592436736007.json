@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Ankara, Turkiye" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Figen" ],
+          "nickname" : [ "TheFigen" ],
+          "numeric-id" : [ "213831700" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1533197405809786880/b5LDGHrX.jpg" ],
+          "published" : [ "2010-11-09T22:22:21+00:00" ],
+          "uid" : [ "tag:twitter.com:TheFigen" ],
+          "url" : [ "https://twitter.com/TheFigen", "https://www.instagram.com/thefigen/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The future is coming...\n\n</div>",
+        "value" : "The future is coming...\n\n"
+      } ],
+      "published" : [ "2022-06-15T18:51:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1537145721442410497" ],
+      "url" : [ "https://twitter.com/TheFigen/status/1537145721442410497" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1082621604746670080/pu/vid/720x720/xbs-LQwW7716_Y88.mp4?tag=6" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thefigen/statu…" ],
+      "url" : [ "https://twitter.com/thefigen/status/1537145721442410497" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "tweets dont represent employer" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "michael wave" ],
+        "nickname" : [ "SzMarsupial" ],
+        "numeric-id" : [ "467835117" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1534304099331723264/GBO8j7pT.jpg" ],
+        "published" : [ "2012-01-18T22:10:48+00:00" ],
+        "uid" : [ "tag:twitter.com:SzMarsupial" ],
+        "url" : [ "https://twitter.com/SzMarsupial" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "sick man i also want to zoom past the multiple vehicle traffic collision on the 100 person capacity 1980s novelty revolving restaurant train\n<a class=\"tag\" href=\"https://twitter.com/thefigen/status/1537145721442410497\">twitter.com/thefigen/statu…</a>",
+      "value" : "sick man i also want to zoom past the multiple vehicle traffic collision on the 100 person capacity 1980s novelty revolving restaurant train"
+    } ],
+    "published" : [ "2022-06-16T20:16:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1537529592436736007" ],
+    "url" : [ "https://twitter.com/SzMarsupial/status/1537529592436736007" ]
+  },
+  "type" : [ "h-entry" ]
+}
