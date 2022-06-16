@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Europe" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Francois Planque" ],
+        "nickname" : [ "fplanque" ],
+        "numeric-id" : [ "11891462" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/504904210220347392/YpSXvnVl.jpeg" ],
+        "published" : [ "2008-01-06T00:21:15+00:00" ],
+        "uid" : [ "tag:twitter.com:fplanque" ],
+        "url" : [ "https://twitter.com/fplanque", "http://fplanque.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> Thank you for <a href=\"https://www.jvt.me/posts/2019/09/30/hugo-autolink-urls/\">jvt.me/posts/2019/09/…</a> . Can you please extend on **where** in the hugo file tree you would add this {{ replaceRE | safeHTML }} (yes, I'm a Hugo noob ;)",
+      "value" : "@JamieTanna Thank you for jvt.me/posts/2019/09/… . Can you please extend on **where** in the hugo file tree you would add this {{ replaceRE | safeHTML }} (yes, I'm a Hugo noob ;)"
+    } ],
+    "published" : [ "2022-06-16T14:12:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1537438036815777795" ],
+    "url" : [ "https://twitter.com/fplanque/status/1537438036815777795" ]
+  },
+  "type" : [ "h-entry" ]
+}
