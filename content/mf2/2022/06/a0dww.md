@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GradStdntBurner/status/1537065337954324480" ],
     "name" : [ "Like of @GradStdntBurner's tweet" ],
     "published" : [ "2022-06-16T08:00:00+0100" ],
     "like-of" : [ "https://twitter.com/GradStdntBurner/status/1537065337954324480" ],
