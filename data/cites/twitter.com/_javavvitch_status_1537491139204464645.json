@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United States" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josie" ],
+        "nickname" : [ "javavvitch" ],
+        "numeric-id" : [ "16609069" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525277293584826368/Z1vxKTr5.jpg" ],
+        "published" : [ "2008-10-06T02:31:06+00:00" ],
+        "uid" : [ "tag:twitter.com:javavvitch" ],
+        "url" : [ "https://twitter.com/javavvitch", "https://linktr.ee/javavvitch" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Recruiter from <a href=\"https://twitter.com/OpenSesame\">@OpenSesame</a> :)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/codeability\"></a>",
+      "value" : "Recruiter from @OpenSesame :)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/codeability/status/1537490839747719168" ],
+    "published" : [ "2022-06-16T17:43:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1537491139204464645" ],
+    "url" : [ "https://twitter.com/javavvitch/status/1537491139204464645" ]
+  },
+  "type" : [ "h-entry" ]
+}
