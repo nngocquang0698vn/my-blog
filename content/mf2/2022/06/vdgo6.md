@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kefimochi/status/1537232570441641985" ],
     "name" : [ "Like of @kefimochi's tweet" ],
     "published" : [ "2022-06-16T17:06:00+0100" ],
     "like-of" : [ "https://twitter.com/kefimochi/status/1537232570441641985" ],
