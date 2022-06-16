@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jesse null 🖤" ],
+        "nickname" : [ "null_jesse" ],
+        "numeric-id" : [ "1056221232822022144" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529689768191066112/O2vubdrl.jpg" ],
+        "published" : [ "2018-10-27T16:29:00+00:00" ],
+        "uid" : [ "tag:twitter.com:null_jesse" ],
+        "url" : [ "https://twitter.com/null_jesse", "http://instagram.com/mxrubyrailed" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "talk to your child about sanitizing inputs before someone else does\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sophiebits\"></a>",
+      "value" : "talk to your child about sanitizing inputs before someone else does"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sophiebits/status/1537531673591459840" ],
+    "published" : [ "2022-06-16T20:43:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1537536473020264448" ],
+    "url" : [ "https://twitter.com/null_jesse/status/1537536473020264448" ]
+  },
+  "type" : [ "h-entry" ]
+}
