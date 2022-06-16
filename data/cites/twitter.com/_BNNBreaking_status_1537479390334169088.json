@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Worldwide" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BNN Newsroom" ],
+        "nickname" : [ "BNNBreaking" ],
+        "numeric-id" : [ "2985479932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1528499715767431168/EBHFcUSB.jpg" ],
+        "published" : [ "2015-01-19T09:28:21+00:00" ],
+        "uid" : [ "tag:twitter.com:BNNBreaking" ],
+        "url" : [ "https://twitter.com/BNNBreaking", "https://bnn.network" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "BREAKING: <a href=\"https://twitter.com/elonmusk\">@elonmusk</a> sued for $258 BILLION over alleged $DOGE 'Pyramid Scheme'",
+      "value" : "BREAKING: @elonmusk sued for $258 BILLION over alleged $DOGE 'Pyramid Scheme'"
+    } ],
+    "published" : [ "2022-06-16T16:57:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1537479390334169088" ],
+    "url" : [ "https://twitter.com/BNNBreaking/status/1537479390334169088" ]
+  },
+  "type" : [ "h-entry" ]
+}
