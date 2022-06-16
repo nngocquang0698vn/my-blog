@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SzMarsupial/status/1537529592436736007" ],
     "name" : [ "Like of @SzMarsupial's tweet" ],
     "published" : [ "2022-06-16T22:17:00+0100" ],
     "like-of" : [ "https://twitter.com/SzMarsupial/status/1537529592436736007" ],
