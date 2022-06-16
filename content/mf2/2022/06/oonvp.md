@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Eradicator_NYC/status/1537512725437460482" ],
     "name" : [ "Like of @Eradicator_NYC's tweet" ],
     "published" : [ "2022-06-16T20:24:00+0100" ],
     "like-of" : [ "https://twitter.com/Eradicator_NYC/status/1537512725437460482" ],
