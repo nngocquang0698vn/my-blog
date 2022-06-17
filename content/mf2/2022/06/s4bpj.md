@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/purpleaxel/status/1537622489739804675" ],
     "name" : [ "Like of @purpleaxel's tweet" ],
     "published" : [ "2022-06-17T08:01:00+0100" ],
     "like-of" : [ "https://twitter.com/purpleaxel/status/1537622489739804675" ],
