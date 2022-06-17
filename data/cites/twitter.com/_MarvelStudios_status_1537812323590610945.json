@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Jersey City, NJ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marvel Studios" ],
+        "nickname" : [ "MarvelStudios" ],
+        "numeric-id" : [ "750751206427860992" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417330576109932545/31jZb_az.jpg" ],
+        "published" : [ "2016-07-06T18:00:10+00:00" ],
+        "uid" : [ "tag:twitter.com:MarvelStudios" ],
+        "url" : [ "https://twitter.com/MarvelStudios", "http://fandango.com/DoctorStrange" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Check out the newsstand cover (L) and subscriber-exclusive cover (R) of the <a href=\"https://twitter.com/search?q=%23ThorLoveAndThunder\">#ThorLoveAndThunder</a> <a href=\"https://twitter.com/totalfilm\">@TotalFilm</a> issue, on sale June 23 👀",
+      "value" : "Check out the newsstand cover (L) and subscriber-exclusive cover (R) of the #ThorLoveAndThunder @TotalFilm issue, on sale June 23 👀"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FVauLyFVUAAOrhr.jpg", "https://pbs.twimg.com/media/FVauLxiUYAAcGCa.jpg" ],
+    "published" : [ "2022-06-17T15:00:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1537812323590610945" ],
+    "url" : [ "https://twitter.com/MarvelStudios/status/1537812323590610945" ]
+  },
+  "type" : [ "h-entry" ]
+}
