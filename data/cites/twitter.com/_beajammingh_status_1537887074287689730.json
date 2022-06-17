@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The stolen land of the Yelamu" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bea Hughes" ],
+        "nickname" : [ "beajammingh" ],
+        "numeric-id" : [ "42007556" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1536177174813609984/tbzv5wRP.jpg" ],
+        "published" : [ "2009-05-23T10:33:32+00:00" ],
+        "uid" : [ "tag:twitter.com:beajammingh" ],
+        "url" : [ "https://twitter.com/beajammingh", "https://mumble.org.uk/blog" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\"it's so close to working\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/veekorbes\"></a>",
+      "value" : "\"it's so close to working\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/veekorbes/status/1537882517025398785" ],
+    "published" : [ "2022-06-17T19:57:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1537887074287689730" ],
+    "url" : [ "https://twitter.com/beajammingh/status/1537887074287689730" ]
+  },
+  "type" : [ "h-entry" ]
+}
