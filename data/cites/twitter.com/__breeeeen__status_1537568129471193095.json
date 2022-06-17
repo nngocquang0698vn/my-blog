@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northern Virginia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Breen" ],
+        "nickname" : [ "_breeeeen_" ],
+        "numeric-id" : [ "476530679" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516438070538690564/ITPoAAhB.jpg" ],
+        "published" : [ "2012-01-28T07:04:31+00:00" ],
+        "uid" : [ "tag:twitter.com:_breeeeen_" ],
+        "url" : [ "https://twitter.com/_breeeeen_", "https://breen.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oof.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CapitalOne\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/javavvitch\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/woman_hattan\"></a>",
+      "value" : "Oof."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/woman_hattan/status/1537543338492051456" ],
+    "published" : [ "2022-06-16T22:49:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1537568129471193095" ],
+    "url" : [ "https://twitter.com/_breeeeen_/status/1537568129471193095" ]
+  },
+  "type" : [ "h-entry" ]
+}
