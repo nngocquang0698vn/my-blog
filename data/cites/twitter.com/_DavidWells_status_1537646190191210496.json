@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Rotten Tomatoes" ],
+          "nickname" : [ "RottenTomatoes" ],
+          "numeric-id" : [ "20108560" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1531993296456888320/106Regvd.jpg" ],
+          "published" : [ "2009-02-05T00:06:55+00:00" ],
+          "uid" : [ "tag:twitter.com:RottenTomatoes" ],
+          "url" : [ "https://twitter.com/RottenTomatoes", "http://www.rottentomatoes.com", "http://rottentomatoes.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">A <a href=\"https://twitter.com/search?q=%23GameOfThrones\">#GameOfThrones</a> sequel series following Jon Snow is in the works at HBO. \n\nKit Harington is attached to reprise his role.\n\nvia <a href=\"https://twitter.com/THR\">@THR</a> - <a href=\"https://bit.ly/3tG8LEc\">bit.ly/3tG8LEc</a></div>",
+        "value" : "A #GameOfThrones sequel series following Jon Snow is in the works at HBO. \n\nKit Harington is attached to reprise his role.\n\nvia @THR - bit.ly/3tG8LEc"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FVa7PdRVIAA7WRg.jpg" ],
+      "published" : [ "2022-06-17T02:26:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1537622703439417345" ],
+      "url" : [ "https://twitter.com/RottenTomatoes/status/1537622703439417345" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Wells" ],
+        "nickname" : [ "DavidWells" ],
+        "numeric-id" : [ "13638932" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275237909763768321/BDIPmrEP.jpg" ],
+        "published" : [ "2008-02-18T19:59:35+00:00" ],
+        "uid" : [ "tag:twitter.com:DavidWells" ],
+        "url" : [ "https://twitter.com/DavidWells", "https://davidwells.io", "http://cognitobook.com", "http://getanalytics.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Excited for this. In the show Jon Snow goes to school because bullies told him \"He knows nothing\"\n\nIt's a story of learning, triumph and a picture into a boy's journey growing up in the world. \n\nThe night king will play the stern but lovable father figure teacher.</div>",
+      "value" : "Excited for this. In the show Jon Snow goes to school because bullies told him \"He knows nothing\"\n\nIt's a story of learning, triumph and a picture into a boy's journey growing up in the world. \n\nThe night king will play the stern but lovable father figure teacher."
+    } ],
+    "published" : [ "2022-06-17T03:59:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1537646190191210496" ],
+    "url" : [ "https://twitter.com/DavidWells/status/1537646190191210496" ]
+  },
+  "type" : [ "h-entry" ]
+}
