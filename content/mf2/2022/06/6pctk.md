@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Hudinart/status/1536765949965115393" ],
     "name" : [ "Like of @Hudinart's tweet" ],
     "published" : [ "2022-06-17T09:06:00+0100" ],
     "like-of" : [ "https://twitter.com/Hudinart/status/1536765949965115393" ],
