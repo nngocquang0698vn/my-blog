@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1537700896309665795" ],
     "published" : [ "2022-06-17T08:29:00+0100" ],
     "category" : [ "oidc", "indie-auth" ],
     "repost-of" : [ "https://twitter.com/erikaheidi/status/1537432578298216458" ],
