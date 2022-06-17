@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "glennis" ],
+        "nickname" : [ "theglennisshow" ],
+        "numeric-id" : [ "1346209471148781569" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526705267416645633/Ul3HLkY5.jpg" ],
+        "published" : [ "2021-01-04T21:39:05+00:00" ],
+        "uid" : [ "tag:twitter.com:theglennisshow" ],
+        "url" : [ "https://twitter.com/theglennisshow", "http://www.glennislaroe.com/oh-hi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "POV: you’re this tweet and I’m reading you\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jenbegakis\"></a>",
+      "value" : "POV: you’re this tweet and I’m reading you"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jenbegakis/status/1537568738861531136" ],
+    "photo" : [ "https://pbs.twimg.com/media/FVaMNSMXoAAy6Ku.jpg" ],
+    "published" : [ "2022-06-16T22:59:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1537570537764970496" ],
+    "url" : [ "https://twitter.com/theglennisshow/status/1537570537764970496" ]
+  },
+  "type" : [ "h-entry" ]
+}
