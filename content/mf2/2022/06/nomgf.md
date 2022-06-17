@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robrousseau/status/1537455022971174913" ],
     "name" : [ "Like of @robrousseau's tweet" ],
     "published" : [ "2022-06-17T08:00:00+0100" ],
     "like-of" : [ "https://twitter.com/robrousseau/status/1537455022971174913" ],
