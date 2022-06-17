@@ -10,7 +10,6 @@ This is both for longer-lived interests and shorter-lived "what I'm currently do
 What am I up to right now?
 
 - Living with my partner <span class="h-card"><a class="p-name u-url" href="https://annadodson.co.uk">Anna Dodson</a></span> and our beautiful terror of a cat [Morph](/tags/morph/) and our puppy [Cookie](/tags/cookie/)
-- I'm currently taking a few weeks between jobs, and will be announcing where I'm off to soon!
 - I'm currently at Deliveroo as a Senior Software Engineer
 - I'm actively blogging about technical and personal things
 - I'm stepping into the IndieWeb movement, one [#IndieWeb](/tags/indieweb) post at a time
