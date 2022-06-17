@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Burroughs" ],
+        "nickname" : [ "richburroughs" ],
+        "numeric-id" : [ "19552154" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1200607261082705920/HMNZOqa-.jpg" ],
+        "published" : [ "2009-01-26T19:35:35+00:00" ],
+        "uid" : [ "tag:twitter.com:richburroughs" ],
+        "url" : [ "https://twitter.com/richburroughs", "https://linktr.ee/richburroughs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I’m not gonna ask for more details 😂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/veekorbes\"></a>",
+      "value" : "I’m not gonna ask for more details 😂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/veekorbes/status/1537882517025398785" ],
+    "published" : [ "2022-06-17T19:44:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1537883985426075649" ],
+    "url" : [ "https://twitter.com/richburroughs/status/1537883985426075649" ]
+  },
+  "type" : [ "h-entry" ]
+}
