@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cianmaher0/status/1537866789790568449" ],
     "name" : [ "Like of @cianmaher0's tweet" ],
     "published" : [ "2022-06-17T22:11:00+0100" ],
     "like-of" : [ "https://twitter.com/cianmaher0/status/1537866789790568449" ],
