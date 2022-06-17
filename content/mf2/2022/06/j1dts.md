@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pjayevans/status/1537471408116097024" ],
     "name" : [ "Like of @pjayevans's tweet" ],
     "published" : [ "2022-06-17T22:38:00+0100" ],
     "like-of" : [ "https://twitter.com/pjayevans/status/1537471408116097024" ],
