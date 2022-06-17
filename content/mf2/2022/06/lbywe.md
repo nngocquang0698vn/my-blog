@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/veekorbes/status/1537882517025398785" ],
     "name" : [ "Like of @veekorbes's tweet" ],
     "published" : [ "2022-06-17T22:09:00+0100" ],
     "like-of" : [ "https://twitter.com/veekorbes/status/1537882517025398785" ],
