@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lupinity Labs | Freelance Software Dev" ],
+        "nickname" : [ "LupinityLabs" ],
+        "numeric-id" : [ "903412344994369536" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/918075255540928514/a0jLVHar.jpg" ],
+        "published" : [ "2017-09-01T00:21:02+00:00" ],
+        "uid" : [ "tag:twitter.com:LupinityLabs" ],
+        "url" : [ "https://twitter.com/LupinityLabs", "http://lupinitylabs.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why not? I'm currently at 4200-4300 contribs last year, and it's mostly about the way you work. If you work on one huge PR spanning weeks or squash commits, you'll end up with 10% of that max.\n\nWe try to keep PRs atomic and also the history in place for meaningful annotations.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/grmpyprogrammer\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ralsina\"></a>",
+      "value" : "Why not? I'm currently at 4200-4300 contribs last year, and it's mostly about the way you work. If you work on one huge PR spanning weeks or squash commits, you'll end up with 10% of that max.\n\nWe try to keep PRs atomic and also the history in place for meaningful annotations."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ralsina/status/1537752086678577153" ],
+    "published" : [ "2022-06-17T17:40:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1537852816961818626" ],
+    "url" : [ "https://twitter.com/LupinityLabs/status/1537852816961818626" ]
+  },
+  "type" : [ "h-entry" ]
+}
