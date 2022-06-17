@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/robpalkwriter/status/1537685887257018370" ],
     "name" : [ "Like of @robpalkwriter's tweet" ],
     "published" : [ "2022-06-17T10:25:00+0100" ],
     "like-of" : [ "https://twitter.com/robpalkwriter/status/1537685887257018370" ],
