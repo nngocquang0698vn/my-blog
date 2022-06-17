@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Hague, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erika Heidi 🌵✨" ],
+        "nickname" : [ "erikaheidi" ],
+        "numeric-id" : [ "19625601" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526225259770400772/a1zbCKFC.jpg" ],
+        "published" : [ "2009-01-27T23:55:15+00:00" ],
+        "uid" : [ "tag:twitter.com:erikaheidi" ],
+        "url" : [ "https://twitter.com/erikaheidi", "https://eheidi.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The <a href=\"https://twitter.com/projectsigstore\">@projectsigstore</a> documentation has a new Gitsign section explaining everything you need to know to start signing your commits with an OpenID identity, such as your GitHub or Google account. No need for dealing with GPG keys!\n\n<a href=\"https://docs.sigstore.dev/gitsign/overview\">docs.sigstore.dev/gitsign/overvi…</a></div>",
+      "value" : "The @projectsigstore documentation has a new Gitsign section explaining everything you need to know to start signing your commits with an OpenID identity, such as your GitHub or Google account. No need for dealing with GPG keys!\n\ndocs.sigstore.dev/gitsign/overvi…"
+    } ],
+    "published" : [ "2022-06-16T13:51:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1537432578298216458" ],
+    "url" : [ "https://twitter.com/erikaheidi/status/1537432578298216458" ]
+  },
+  "type" : [ "h-entry" ]
+}
