@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gunsnrosesgirl3/status/1537784944210190338" ],
     "name" : [ "Like of @gunsnrosesgirl3's tweet" ],
     "published" : [ "2022-06-18T09:36:00+0100" ],
     "category" : [ "nature" ],
