@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Deploy with Docker" ],
+    "description" : [ {
+      "html" : "```\nLearn the six essentials steps to deploying applications.\n\nAre you tired of hearing how \"simple\" it is to deploy apps with Docker Compose, because your experience is more one of frustration? Have you read countless blog posts and forum threads that promised to teach you how to deploy apps with Docker Compose, only for one or more essential steps to be missing, outdated, or broken?\n\nSome years back, I was in exactly this position. In my quest to deploy apps that I'd developed locally with Docker Compose, I'd read the documentation along with countless blog posts, yet was left more frustrated than anything else.\n\nSo, I decided to sit down and figure out the simplest approach to deploying apps with Docker Compose and then to document my findings.\n```",
+      "value" : "```\nLearn the six essentials steps to deploying applications.\n\nAre you tired of hearing how \"simple\" it is to deploy apps with Docker Compose, because your experience is more one of frustration? Have you read countless blog posts and forum threads that promised to teach you how to deploy apps with Docker Compose, only for one or more essential steps to be missing, outdated, or broken?\n\nSome years back, I was in exactly this position. In my quest to deploy apps that I'd developed locally with Docker Compose, I'd read the documentation along with countless blog posts, yet was left more frustrated than anything else.\n\nSo, I decided to sit down and figure out the simplest approach to deploying apps with Docker Compose and then to document my findings.\n```"
+    } ],
+    "start" : [ "2022-07-14T18:30+01:00" ],
+    "end" : [ "2022-07-14T20:30+01:00" ],
+    "url" : [ "https://www.meetup.com/phpminds-in-nottingham/events/286571656" ],
+    "location" : [ "Online" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "PHPMiNDS" ],
+        "photo" : [ "https://secure-content.meetupstatic.com/images/classic-events/443318895/600x600.webp" ],
+        "url" : [ "https://www.meetup.com/phpminds-in-nottingham" ]
+      },
+      "value" : "PHPMiNDS"
+    } ]
+  }
+}
