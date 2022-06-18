@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gronnet/status/1537792232278958080" ],
     "name" : [ "Like of @Gronnet's tweet" ],
     "published" : [ "2022-06-18T22:18:00+0100" ],
     "category" : [ "coronavirus" ],
