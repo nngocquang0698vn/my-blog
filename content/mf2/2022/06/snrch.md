@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WholesomeMeme/status/1537932855652798464" ],
     "name" : [ "Like of @WholesomeMeme's tweet" ],
     "published" : [ "2022-06-18T19:51:00+0100" ],
     "category" : [ "cute" ],
