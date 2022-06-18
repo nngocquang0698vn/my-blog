@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily 🌦" ],
+        "nickname" : [ "emilyst" ],
+        "numeric-id" : [ "17088295" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520073109788717058/EG3Rl0En.jpg" ],
+        "published" : [ "2008-10-31T17:11:38+00:00" ],
+        "uid" : [ "tag:twitter.com:emilyst" ],
+        "url" : [ "https://twitter.com/emilyst" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "economic meltdown speedrun lfg\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/krisnova\"></a>",
+      "value" : "economic meltdown speedrun lfg"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/krisnova/status/1538082686434254849" ],
+    "published" : [ "2022-06-18T08:59:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1538084080998309888" ],
+    "url" : [ "https://twitter.com/emilyst/status/1538084080998309888" ]
+  },
+  "type" : [ "h-entry" ]
+}
