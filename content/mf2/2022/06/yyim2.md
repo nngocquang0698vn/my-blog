@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Spice8Rack/status/1537709726892425216" ],
     "name" : [ "Like of @Spice8Rack's tweet" ],
     "published" : [ "2022-06-18T10:34:00+0100" ],
     "like-of" : [ "https://twitter.com/Spice8Rack/status/1537709726892425216" ],
