@@ -1,17 +1,17 @@
 ---
 title: "Automagically determining feeds provided for a given URL on the command-line"
 description: "Creating a command-line application to discover feeds for a given URL."
-date: 2022-06-19T21:21:36+0100
+date: "2022-06-19T21:21:36+0100"
+syndication:
+- "https://twitter.com/JamieTanna/status/1538628193418194944"
 tags:
-- go
-- rss
-- feed
-- slack
+- "go"
+- "rss"
+- "feed"
+- "slack"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
-slug: cli-feed-discovery
-syndication:
-- https://brid.gy/publish/twitter
+slug: "cli-feed-discovery"
 ---
 I'm a big fan of feed formats like RSS/Atom, Microformats2 and JSON feed, and like to use a feed reader as my primary reading source.
 
