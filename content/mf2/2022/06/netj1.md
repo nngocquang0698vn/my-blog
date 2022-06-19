@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hackdotxxx/status/1538168939041136640" ],
     "name" : [ "Like of @hackdotxxx's tweet" ],
     "published" : [ "2022-06-19T14:23:00+0100" ],
     "like-of" : [ "https://twitter.com/hackdotxxx/status/1538168939041136640" ],
