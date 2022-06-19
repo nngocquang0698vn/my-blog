@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jpbrammer/status/1538620196847554566" ],
     "name" : [ "Like of @jpbrammer's tweet" ],
     "published" : [ "2022-06-19T22:34:00+0100" ],
     "like-of" : [ "https://twitter.com/jpbrammer/status/1538620196847554566" ],
