@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SaraSoueidan/status/1538510583666028545" ],
     "name" : [ "Like of @SaraSoueidan's tweet" ],
     "published" : [ "2022-06-19T14:21:00+0100" ],
     "like-of" : [ "https://twitter.com/SaraSoueidan/status/1538510583666028545" ],
