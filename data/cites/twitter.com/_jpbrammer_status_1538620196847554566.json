@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "JP" ],
+        "nickname" : [ "jpbrammer" ],
+        "numeric-id" : [ "74087670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1190049285842329600/qwCL5mdU.png" ],
+        "published" : [ "2009-09-14T06:01:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jpbrammer" ],
+        "url" : [ "https://twitter.com/jpbrammer", "https://www.jpbrammer.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "grackles always look like they just saw somebody get slapped at a fancy restaurant" ],
+    "photo" : [ "https://pbs.twimg.com/media/FVpG4zYWUAAwfnW.jpg", "https://pbs.twimg.com/media/FVpG4zZX0AE1Zm8.jpg" ],
+    "published" : [ "2022-06-19T20:30:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1538620196847554566" ],
+    "url" : [ "https://twitter.com/jpbrammer/status/1538620196847554566" ]
+  },
+  "type" : [ "h-entry" ]
+}
