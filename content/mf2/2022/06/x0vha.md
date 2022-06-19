@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/memesiwish/status/1538404494475526144" ],
     "name" : [ "Like of @memesiwish's tweet" ],
     "published" : [ "2022-06-19T10:55:00+0100" ],
     "like-of" : [ "https://twitter.com/memesiwish/status/1538404494475526144" ],
