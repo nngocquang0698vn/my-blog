@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zaproxy/status/1537823718117888000" ],
     "name" : [ "Like of @zaproxy's tweet" ],
     "published" : [ "2022-06-19T14:20:00+0100" ],
     "like-of" : [ "https://twitter.com/zaproxy/status/1537823718117888000" ],
