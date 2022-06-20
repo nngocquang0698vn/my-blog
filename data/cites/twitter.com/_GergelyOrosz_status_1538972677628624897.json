@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">One of the myths is how, when companies like Amazon include non-compete agreements in contracts for all employees, they only enforce it for executives.\n\nOh no. Amazon can enforce it for anyone.\n\nLike for this L4 software engineer - the lowest level - who tried to join Microsoft:</div>",
+      "value" : "One of the myths is how, when companies like Amazon include non-compete agreements in contracts for all employees, they only enforce it for executives.\n\nOh no. Amazon can enforce it for anyone.\n\nLike for this L4 software engineer - the lowest level - who tried to join Microsoft:"
+    } ],
+    "photo" : [ {
+      "alt" : "A former Amazon employee thought she was free to work where she wanted — until the company's lawyers came knocking.\n\nThe employee, who asked not to be named to protect current and prospective employment, worked as a Level 4 software engineer for the company's Amazon Web Services cloud computing business – the lowest engineering level at Amazon. Her colleagues frequently moved between engineering roles at Amazon and its competitors without incident, she said.\n\nSo when she took a job at Microsoft, she didn't expect any issues with her former employers at Amazon. That is, until about a month into her new gig, when she says she was asked to sign an agreement blocking her from performing specific job functions for at least one year — part of a settlement agreement between Amazon and Microsoft.",
+      "value" : "https://pbs.twimg.com/media/FVuHZNRWIAAJByc.jpg"
+    } ],
+    "published" : [ "2022-06-20T19:50:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1538972677628624897" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1538972677628624897" ]
+  },
+  "type" : [ "h-entry" ]
+}
