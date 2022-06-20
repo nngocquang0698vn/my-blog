@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Forlì, Emilia Romagna" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matteo Collina" ],
+        "nickname" : [ "matteocollina" ],
+        "numeric-id" : [ "15979784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/796295496071606276/ssY_GJrF.jpg" ],
+        "published" : [ "2008-08-25T10:17:31+00:00" ],
+        "uid" : [ "tag:twitter.com:matteocollina" ],
+        "url" : [ "https://twitter.com/matteocollina", "https://nodeland.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Once upon a time, I was an heavy practitioner of Conference-Driven Development. I applied to speak at conferences and present technologies I had only prototyped. Again, I'm writing abstracts about tech I'm about to create. I'm thrilled to present this to you in fall." ],
+    "published" : [ "2022-06-20T16:04:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1538915582573158402" ],
+    "url" : [ "https://twitter.com/matteocollina/status/1538915582573158402" ]
+  },
+  "type" : [ "h-entry" ]
+}
