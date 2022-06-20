@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mer__edith/status/1538974201582866432" ],
     "name" : [ "Like of @mer__edith's tweet" ],
     "published" : [ "2022-06-20T22:14:00+0100" ],
     "like-of" : [ "https://twitter.com/mer__edith/status/1538974201582866432" ],
