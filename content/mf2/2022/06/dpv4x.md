@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/matteocollina/status/1538915582573158402" ],
     "name" : [ "Like of @matteocollina's tweet" ],
     "published" : [ "2022-06-20T17:08:00+0100" ],
     "like-of" : [ "https://twitter.com/matteocollina/status/1538915582573158402" ],
