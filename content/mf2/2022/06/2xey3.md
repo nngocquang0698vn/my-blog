@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aklee_writes/status/1538540417435979776" ],
     "name" : [ "Like of @aklee_writes's tweet" ],
     "published" : [ "2022-06-20T16:54:00+0100" ],
     "like-of" : [ "https://twitter.com/aklee_writes/status/1538540417435979776" ],
