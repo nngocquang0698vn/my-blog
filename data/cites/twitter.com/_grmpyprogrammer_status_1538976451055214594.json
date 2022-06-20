@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Great Kanuckistanni Pixel Mines" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Hartjes" ],
+        "nickname" : [ "grmpyprogrammer" ],
+        "numeric-id" : [ "7418052" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529806748990717954/mUYBHpM6.jpg" ],
+        "published" : [ "2007-07-12T02:36:44+00:00" ],
+        "uid" : [ "tag:twitter.com:grmpyprogrammer" ],
+        "url" : [ "https://twitter.com/grmpyprogrammer", "https://grumpy-learning.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Lots of technical debt occurs because nobody at the time knew how to solve a specific problem or set of related problems. You tend to recognize patterns in a code base or project" ],
+    "published" : [ "2022-06-20T20:05:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1538976451055214594" ],
+    "url" : [ "https://twitter.com/grmpyprogrammer/status/1538976451055214594" ]
+  },
+  "type" : [ "h-entry" ]
+}
