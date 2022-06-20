@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TauOmicronMu/status/1484142098760843266" ],
     "name" : [ "Like of @TauOmicronMu's tweet" ],
     "published" : [ "2022-06-20T22:16:00+0100" ],
     "like-of" : [ "https://twitter.com/TauOmicronMu/status/1484142098760843266" ],
