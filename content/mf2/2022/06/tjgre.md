@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stimmo/status/1538944875474853890" ],
     "name" : [ "Like of @stimmo's tweet" ],
     "published" : [ "2022-06-20T22:09:00+0100" ],
     "like-of" : [ "https://twitter.com/stimmo/status/1538944875474853890" ],
