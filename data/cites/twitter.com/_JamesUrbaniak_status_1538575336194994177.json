@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Urbaniak" ],
+        "nickname" : [ "JamesUrbaniak" ],
+        "numeric-id" : [ "16956955" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000545452095/2895e97d94d6bc114eec8cfc08f70cbc.jpeg" ],
+        "published" : [ "2008-10-24T21:06:45+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesUrbaniak" ],
+        "url" : [ "https://twitter.com/JamesUrbaniak", "https://www.cameo.com/jamesurbaniak" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This nostalgic throwback to early '80s \"Real Men Don't Eat Quiche\" style humor has all of Twitter abuzz\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SethAbramovitch\"></a>",
+      "value" : "This nostalgic throwback to early '80s \"Real Men Don't Eat Quiche\" style humor has all of Twitter abuzz"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SethAbramovitch/status/1538533877244841984" ],
+    "published" : [ "2022-06-19T17:32:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1538575336194994177" ],
+    "url" : [ "https://twitter.com/JamesUrbaniak/status/1538575336194994177" ]
+  },
+  "type" : [ "h-entry" ]
+}
