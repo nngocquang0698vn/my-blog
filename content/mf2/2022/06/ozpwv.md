@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/freezydorito/status/1538971632152223746" ],
     "name" : [ "Like of @freezydorito's tweet" ],
     "published" : [ "2022-06-20T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/freezydorito/status/1538971632152223746" ],
