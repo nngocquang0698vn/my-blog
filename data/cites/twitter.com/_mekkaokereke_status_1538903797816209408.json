@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Echo Park" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Seth Abramovitch" ],
+          "nickname" : [ "SethAbramovitch" ],
+          "numeric-id" : [ "14053627" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1503571512200028160/cxCfrWXe.jpg" ],
+          "published" : [ "2008-02-28T07:51:37+00:00" ],
+          "uid" : [ "tag:twitter.com:SethAbramovitch" ],
+          "url" : [ "https://twitter.com/SethAbramovitch", "https://www.sethabramovitch.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Don’t emasculate your dad with “brunch”" ],
+      "published" : [ "2022-06-19T14:47:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1538533877244841984" ],
+      "url" : [ "https://twitter.com/SethAbramovitch/status/1538533877244841984" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NorCal" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mekka 💉💉💉🎉 *My Mask Protects You* Okereke" ],
+        "nickname" : [ "mekkaokereke" ],
+        "numeric-id" : [ "19847709" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1271138504177639424/FgCZd9QY.png" ],
+        "published" : [ "2009-02-01T05:16:37+00:00" ],
+        "uid" : [ "tag:twitter.com:mekkaokereke" ],
+        "url" : [ "https://twitter.com/mekkaokereke", "http://mekka-tech.com", "https://mastodon.cloud/@mekkaokereke" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Imma tell you like this: If you can be emasculated by eggs Benedict or a stack of pancakes, then just give up now. You weren't going to make it.\n\nSurrender to the abyss of *checks notes* femininity, and suffer the eternal pain of *checks notes* enjoying meals with your family.</div>",
+      "value" : "Imma tell you like this: If you can be emasculated by eggs Benedict or a stack of pancakes, then just give up now. You weren't going to make it.\n\nSurrender to the abyss of *checks notes* femininity, and suffer the eternal pain of *checks notes* enjoying meals with your family."
+    } ],
+    "published" : [ "2022-06-20T15:17:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1538903797816209408" ],
+    "url" : [ "https://twitter.com/mekkaokereke/status/1538903797816209408" ]
+  },
+  "type" : [ "h-entry" ]
+}
