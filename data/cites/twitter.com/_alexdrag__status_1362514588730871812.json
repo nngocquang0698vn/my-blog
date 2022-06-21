@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Dragicevich" ],
+        "nickname" : [ "alexdrag_" ],
+        "numeric-id" : [ "2605643827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1344749992494456833/FQ1ypai-.jpg" ],
+        "published" : [ "2014-07-05T15:01:51+00:00" ],
+        "uid" : [ "tag:twitter.com:alexdrag_" ],
+        "url" : [ "https://twitter.com/alexdrag_", "http://instagram.com/alexdrags" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">therapist: a lot of my clients are feeling that way right now \n\nme: ok rank us</div>",
+      "value" : "therapist: a lot of my clients are feeling that way right now \n\nme: ok rank us"
+    } ],
+    "published" : [ "2021-02-18T21:29:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1362514588730871812" ],
+    "url" : [ "https://twitter.com/alexdrag_/status/1362514588730871812" ]
+  },
+  "type" : [ "h-entry" ]
+}
