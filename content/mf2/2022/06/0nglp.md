@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RussInCheshire/status/1539260920693772289" ],
     "name" : [ "Like of @RussInCheshire's tweet" ],
     "published" : [ "2022-06-21T17:20:00+0100" ],
     "like-of" : [ "https://twitter.com/RussInCheshire/status/1539260920693772289" ],
