@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GossiTheDog/status/1539155182046560256" ],
     "name" : [ "Like of @GossiTheDog's tweet" ],
     "published" : [ "2022-06-21T09:11:00+0100" ],
     "like-of" : [ "https://twitter.com/GossiTheDog/status/1539155182046560256" ],
