@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Sydney, New South Wales" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "icon jen" ],
+          "nickname" : [ "iconjen" ],
+          "numeric-id" : [ "328550593" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1398287568471400449/bDPdh7UY.jpg" ],
+          "published" : [ "2011-07-03T15:56:54+00:00" ],
+          "uid" : [ "tag:twitter.com:iconjen" ],
+          "url" : [ "https://twitter.com/iconjen", "https://bit.ly/tww_ph", "http://instagram.com/iconjen" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">List of services that are down atm: <a href=\"https://twitter.com/search?q=%23internetdown\">#internetdown</a> \n\n2K Games\nLeague of Legends\nMinecraft\nSteam\nAmazon Web Services\nDiscord\nDoorDash\nGitlab\nShopify\nSkype\nUPS\nCloudflare\nDigitalOcean\nUdemy\nCoinbase\nValorant\nCrunchyroll\nPatreon\nLegends of Runeterra\nAmericas Cardroom\neToro\nBetfair</div>",
+        "value" : "List of services that are down atm: #internetdown \n\n2K Games\nLeague of Legends\nMinecraft\nSteam\nAmazon Web Services\nDiscord\nDoorDash\nGitlab\nShopify\nSkype\nUPS\nCloudflare\nDigitalOcean\nUdemy\nCoinbase\nValorant\nCrunchyroll\nPatreon\nLegends of Runeterra\nAmericas Cardroom\neToro\nBetfair"
+      } ],
+      "published" : [ "2022-06-21T06:52:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1539139252537237505" ],
+      "url" : [ "https://twitter.com/iconjen/status/1539139252537237505" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A Cloudflare outage knocked off a good part of the internet. \n\nThis outage reminds me in impact when Facebook's SDK started crashing, breaking all mobile apps that used this SDK (which was a large number of mobile apps).\n\nNext up: how to mitigate when Cloudflare is down?</div>",
+      "value" : "A Cloudflare outage knocked off a good part of the internet. \n\nThis outage reminds me in impact when Facebook's SDK started crashing, breaking all mobile apps that used this SDK (which was a large number of mobile apps).\n\nNext up: how to mitigate when Cloudflare is down?"
+    } ],
+    "published" : [ "2022-06-21T07:58:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1539155844843159553" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1539155844843159553" ]
+  },
+  "type" : [ "h-entry" ]
+}
