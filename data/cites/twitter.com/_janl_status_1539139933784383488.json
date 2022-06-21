@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "HTX📍" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "d🦕n" ],
+          "nickname" : [ "javroar" ],
+          "numeric-id" : [ "1374847169811771393" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1508712111857360896/XtJs8fAA.jpg" ],
+          "published" : [ "2021-03-24T22:14:50+00:00" ],
+          "uid" : [ "tag:twitter.com:javroar" ],
+          "url" : [ "https://twitter.com/javroar" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "congratulations to them" ],
+      "photo" : [ "https://pbs.twimg.com/media/FVtD4uLXsAEcDxZ.jpg" ],
+      "published" : [ "2022-06-20T14:55:30+00:00" ],
+      "uid" : [ "tag:twitter.com:1538898342826197001" ],
+      "url" : [ "https://twitter.com/javroar/status/1538898342826197001" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jan Lehnardt" ],
+        "nickname" : [ "janl" ],
+        "numeric-id" : [ "819606" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1151406614752169984/pJdsa0mM.png" ],
+        "published" : [ "2007-03-07T21:36:26+00:00" ],
+        "uid" : [ "tag:twitter.com:janl" ],
+        "url" : [ "https://twitter.com/janl", "https://neighbourhood.ie" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Young man in back suit and young woman in white dress, wedding scene in front of anlake",
+      "value" : "https://pbs.twimg.com/media/FVwfnIVXsAAhadI.jpg"
+    } ],
+    "published" : [ "2022-06-21T06:55:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1539139933784383488" ],
+    "url" : [ "https://twitter.com/janl/status/1539139933784383488" ]
+  },
+  "type" : [ "h-entry" ]
+}
