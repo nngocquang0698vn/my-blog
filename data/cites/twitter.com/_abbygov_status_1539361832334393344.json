@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "houston & nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "abby govindan" ],
+        "nickname" : [ "abbygov" ],
+        "numeric-id" : [ "2536561231" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509715356373368834/RTwn0Afn.jpg" ],
+        "published" : [ "2014-05-31T04:00:42+00:00" ],
+        "uid" : [ "tag:twitter.com:abbygov" ],
+        "url" : [ "https://twitter.com/abbygov", "http://linktr.ee/abbygov" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "getting cancelled by email twitter, this is all I’ve ever wanted" ],
+    "in-reply-to" : [ "https://twitter.com/abbygov/status/1539255941039804419" ],
+    "published" : [ "2022-06-21T21:37:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1539361832334393344" ],
+    "url" : [ "https://twitter.com/abbygov/status/1539361832334393344" ]
+  },
+  "type" : [ "h-entry" ]
+}
