@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Seconde" ],
+        "nickname" : [ "SecondeJ" ],
+        "numeric-id" : [ "3172509796" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538895660879073280/erg6WgTJ.jpg" ],
+        "published" : [ "2015-04-16T11:30:26+00:00" ],
+        "uid" : [ "tag:twitter.com:SecondeJ" ],
+        "url" : [ "https://twitter.com/SecondeJ", "http://devtheatre.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Github: we made a free tool to help you write code because we trained it using ML on all your <a href=\"https://twitter.com/search?q=%23oss\">#oss</a> libraries \n\nAlso Github: k we got what we want, money now pls</div>",
+      "value" : "Github: we made a free tool to help you write code because we trained it using ML on all your #oss libraries \n\nAlso Github: k we got what we want, money now pls"
+    } ],
+    "published" : [ "2022-06-22T07:13:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1539506842203787266" ],
+    "url" : [ "https://twitter.com/SecondeJ/status/1539506842203787266" ]
+  },
+  "type" : [ "h-entry" ]
+}
