@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/abbygov/status/1539361832334393344" ],
     "name" : [ "Like of @abbygov's tweet" ],
     "published" : [ "2022-06-22T17:06:00+0100" ],
     "like-of" : [ "https://twitter.com/abbygov/status/1539361832334393344" ],
