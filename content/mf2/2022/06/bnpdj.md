@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CharMcew/status/1539218715803373570" ],
     "name" : [ "Like of @CharMcew's tweet" ],
     "published" : [ "2022-06-22T06:12:00+0100" ],
     "like-of" : [ "https://twitter.com/CharMcew/status/1539218715803373570" ],
