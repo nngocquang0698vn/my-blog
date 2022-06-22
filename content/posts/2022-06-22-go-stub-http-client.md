@@ -22,30 +22,47 @@ Note that this is a separate set of testing to just testing the handlers in isol
 It's actually pretty straightforward by taking advantage of Go's `httptest` package, and interface types, which allow us to write the following:
 
 ```go
-type server {
-  func ServeHTTP(w ResponseWriter, r *Request)
+import (
+	"context"
+	"fmt"
+	"net/http"
+	"net/http/httptest"
+	"testing"
+
+	"github.com/gorilla/mux"
+	// this would also include the `api` package, which is expected to contain the `oapi-codegen`'d API client
+)
+
+type server interface {
+	ServeHTTP(w http.ResponseWriter, r *http.Request)
 }
 
 type fakeClient struct {
-  server server
+	server server
+}
+
+func (c *fakeClient) Do(r *http.Request) (*http.Response, error) {
+	rr := httptest.NewRecorder()
+	c.server.ServeHTTP(rr, r)
+	return rr.Result(), nil
 }
 
 func TestRouter(t *testing.T) {
-  var server server
-  // construct the server i.e. by `mux.NewRouter()`
+	var server server
+	// construct the server i.e. by `mux.NewRouter()`
 
-  fakeClient := fakeClient{
-    server: server,
-  }
+	fakeClient := fakeClient{
+		server: server,
+	}
 
-  client, err := api.NewClientWithResponses("", api.WithHTTPClient(&fakeClient))
+	client, err := api.NewClientWithResponses("", api.WithHTTPClient(&fakeClient))
 
-  resp, err := client.Healthcheck()
-  if err != nil {
-    t.Errorf(err)
-  }
-  if 200 != resp.StatusCode {
-    t.Errorf("Expected status code 200, but was %d", resp.StatusCode)
-  }
+	resp, err := client.Healthcheck(context.TODO())
+	if err != nil {
+		t.Errorf(err.Error())
+	}
+	if 200 != resp.StatusCode {
+		t.Errorf("Expected status code 200, but was %d", resp.StatusCode)
+	}
 }
 ```
