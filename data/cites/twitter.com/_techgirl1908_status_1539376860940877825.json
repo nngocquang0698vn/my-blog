@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Orleans, LA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angie Jones" ],
+        "nickname" : [ "techgirl1908" ],
+        "numeric-id" : [ "2932738834" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319649316965736451/-XOCbnFu.jpg" ],
+        "published" : [ "2014-12-19T22:13:09+00:00" ],
+        "uid" : [ "tag:twitter.com:techgirl1908" ],
+        "url" : [ "https://twitter.com/techgirl1908", "https://angiejones.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "no they only do it when you specifically don't ask\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/captainsafia\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/clauer\"></a>",
+      "value" : "no they only do it when you specifically don't ask"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/clauer/status/1539360159193083904" ],
+    "published" : [ "2022-06-21T22:36:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1539376860940877825" ],
+    "url" : [ "https://twitter.com/techgirl1908/status/1539376860940877825" ]
+  },
+  "type" : [ "h-entry" ]
+}
