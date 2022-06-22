@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Leo" ],
+        "nickname" : [ "thisisathingido" ],
+        "numeric-id" : [ "3474794056" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/642070227442868225/4P537xgw.jpg" ],
+        "published" : [ "2015-08-29T00:11:08+00:00" ],
+        "uid" : [ "tag:twitter.com:thisisathingido" ],
+        "url" : [ "https://twitter.com/thisisathingido" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's simple\n\n\"CC\" is for passive aggression\n\"BCC\" is for gossip and snitches.\n\nThose options makes up the full, tepid spectrum of professional personas, or \"prosonas\" as they hate to be called.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/abbygov\"></a>",
+      "value" : "It's simple\n\n\"CC\" is for passive aggression\n\"BCC\" is for gossip and snitches.\n\nThose options makes up the full, tepid spectrum of professional personas, or \"prosonas\" as they hate to be called."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/abbygov/status/1539255941039804419" ],
+    "published" : [ "2022-06-22T00:20:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1539402859451756545" ],
+    "url" : [ "https://twitter.com/thisisathingido/status/1539402859451756545" ]
+  },
+  "type" : [ "h-entry" ]
+}
