@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarlosCamp51/status/1538972081127411713" ],
     "name" : [ "Like of @CarlosCamp51's tweet" ],
     "published" : [ "2022-06-22T06:17:00+0100" ],
     "like-of" : [ "https://twitter.com/CarlosCamp51/status/1538972081127411713" ],
