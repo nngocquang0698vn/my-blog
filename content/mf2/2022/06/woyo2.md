@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/stuherbert/status/1539508699953250304" ],
     "name" : [ "Like of @stuherbert's tweet" ],
     "published" : [ "2022-06-22T08:23:00+0100" ],
     "like-of" : [ "https://twitter.com/stuherbert/status/1539508699953250304" ],
