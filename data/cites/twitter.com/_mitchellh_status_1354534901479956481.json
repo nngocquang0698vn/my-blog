@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mitchell Hashimoto" ],
+        "nickname" : [ "mitchellh" ],
+        "numeric-id" : [ "12819682" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1141762999838842880/64_Y4_XB.jpg" ],
+        "published" : [ "2008-01-29T07:56:05+00:00" ],
+        "uid" : [ "tag:twitter.com:mitchellh" ],
+        "url" : [ "https://twitter.com/mitchellh", "https://mitchellh.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I miss Dropbox (the product) circa 2012. It was perfect. It was done. A growth mindset forced all sorts of weird products that I don’t want. I miss the small, lightweight, always works file syncing. This seems like a renewed opportunity for a small lifestyle company." ],
+    "published" : [ "2021-01-27T21:01:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1354534901479956481" ],
+    "url" : [ "https://twitter.com/mitchellh/status/1354534901479956481" ]
+  },
+  "type" : [ "h-entry" ]
+}
