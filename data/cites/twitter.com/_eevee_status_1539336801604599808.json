@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484360216804085760/6INZzUoH.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "certainly not.  if anything, this is an admission that it can happen, and merely adding an /opt-out/ for it is a joke\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/moyix\"></a>",
+      "value" : "certainly not.  if anything, this is an admission that it can happen, and merely adding an /opt-out/ for it is a joke"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/moyix/status/1539320416136613889" ],
+    "published" : [ "2022-06-21T19:57:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1539336801604599808" ],
+    "url" : [ "https://twitter.com/eevee/status/1539336801604599808" ]
+  },
+  "type" : [ "h-entry" ]
+}
