@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NWTelcoConsult/status/1539423090974674944" ],
     "name" : [ "Like of @NWTelcoConsult's tweet" ],
     "published" : [ "2022-06-22T17:06:00+0100" ],
     "like-of" : [ "https://twitter.com/NWTelcoConsult/status/1539423090974674944" ],
