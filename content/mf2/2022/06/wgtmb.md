@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/techgirl1908/status/1539376860940877825" ],
     "name" : [ "Like of @techgirl1908's tweet" ],
     "published" : [ "2022-06-22T06:20:00+0100" ],
     "like-of" : [ "https://twitter.com/techgirl1908/status/1539376860940877825" ],
