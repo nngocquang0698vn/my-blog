@@ -1,9 +1,10 @@
 ---
 title: "Stubbing out the Go `http.Client` to test an HTTP `HandlerFunc`"
-description: "How to write a unit test to validate your router's HTTP handlers work, by stubbing out the `http.Client` implementation."
-date: 2022-06-22T09:27:28+0100
+description: "How to write a unit test to validate your router's HTTP handlers work,\
+  \ by stubbing out the `http.Client` implementation."
+date: "2022-06-22T09:27:28+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1539528996496592899"
 tags:
 - "blogumentation"
 - "go"
