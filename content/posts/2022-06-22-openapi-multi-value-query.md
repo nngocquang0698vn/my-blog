@@ -1,9 +1,9 @@
 ---
 title: "Describing a multi-value querystring parameter in OpenAPI"
 description: "How to define a querystring parameter that has multiple values, in OpenAPI."
-date: 2022-06-22T18:24:21+0100
+date: "2022-06-22T18:24:21+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1539662949060644864"
 tags:
 - "blogumentation"
 - "openapi"
