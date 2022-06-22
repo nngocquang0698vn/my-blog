@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "So… any update on this? You’ve raised prices, failed to support modern macOS, and effectively made me feel foolish for choosing Dropbox at this point.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mitchellh\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/timyoung\"></a>",
+      "value" : "So… any update on this? You’ve raised prices, failed to support modern macOS, and effectively made me feel foolish for choosing Dropbox at this point."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/timyoung/status/1354696257780936706" ],
+    "published" : [ "2022-06-21T04:15:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1539099561175592960" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1539099561175592960" ]
+  },
+  "type" : [ "h-entry" ]
+}
