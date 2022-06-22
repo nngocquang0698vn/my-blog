@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Crew - Muppets Gatsby" ],
+          "nickname" : [ "BenjaminCrew1" ],
+          "numeric-id" : [ "1350554190855237640" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1353130176805294081/zPUBYD2n.jpg" ],
+          "published" : [ "2021-01-16T21:24:09+00:00" ],
+          "uid" : [ "tag:twitter.com:BenjaminCrew1" ],
+          "url" : [ "https://twitter.com/BenjaminCrew1", "https://linktr.ee/bencrew" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "If you think this editing choice doesn't absolutely rule, don't see the Elvis film" ],
+      "published" : [ "2022-06-21T14:51:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1539259673148370944" ],
+      "url" : [ "https://twitter.com/BenjaminCrew1/status/1539259673148370944" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1539255793660440576/pu/vid/1280x720/xJjbJecKA1SJuyeq.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ontario " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mace" ],
+        "nickname" : [ "MaceLikeSpace" ],
+        "numeric-id" : [ "1176289225823653888" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1535693388145647617/upZb-K3Y.jpg" ],
+        "published" : [ "2019-09-24T00:16:28+00:00" ],
+        "uid" : [ "tag:twitter.com:MaceLikeSpace" ],
+        "url" : [ "https://twitter.com/MaceLikeSpace" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Imagine being the camera guy and being dropped down a building like this. Scary! But good art comes from courage" ],
+    "published" : [ "2022-06-21T16:12:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1539280212734758913" ],
+    "url" : [ "https://twitter.com/MaceLikeSpace/status/1539280212734758913" ]
+  },
+  "type" : [ "h-entry" ]
+}
