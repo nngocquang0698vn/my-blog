@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/spotfoss/status/1537831539190419456" ],
     "name" : [ "Like of @spotfoss's tweet" ],
     "published" : [ "2022-06-22T17:02:00+0100" ],
     "category" : [ "swag" ],
