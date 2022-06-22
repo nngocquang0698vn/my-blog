@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle, WA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Safia" ],
+          "nickname" : [ "captainsafia" ],
+          "numeric-id" : [ "1595809370" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1326233825936961536/xtgedVye.jpg" ],
+          "published" : [ "2013-07-15T13:05:08+00:00" ],
+          "uid" : [ "tag:twitter.com:captainsafia" ],
+          "url" : [ "https://twitter.com/captainsafia", "https://safia.rocks/", "http://ASP.NET" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Why would I pay GitHub $100/year for an AI to tell me what code to write when men do it for free?🤔" ],
+      "published" : [ "2022-06-21T20:53:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1539350831723520000" ],
+      "url" : [ "https://twitter.com/captainsafia/status/1539350831723520000" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tane Piper" ],
+        "nickname" : [ "tanepiper" ],
+        "numeric-id" : [ "20693" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478096337757511689/TQeWfq_z.jpg" ],
+        "published" : [ "2006-11-24T17:31:50+00:00" ],
+        "uid" : [ "tag:twitter.com:tanepiper" ],
+        "url" : [ "https://twitter.com/tanepiper", "https://tane.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Minus the good joke, yea I was like WTF with the <a href=\"https://twitter.com/github\">@github</a> CoPilot pricing. It's not that good. It helps mostly with finishing comments and occasionally getting option properties right. But I've yet to see it solve any issues for me 🤷‍♂️",
+      "value" : "Minus the good joke, yea I was like WTF with the @github CoPilot pricing. It's not that good. It helps mostly with finishing comments and occasionally getting option properties right. But I've yet to see it solve any issues for me 🤷‍♂️"
+    } ],
+    "published" : [ "2022-06-22T07:20:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1539508548090093568" ],
+    "url" : [ "https://twitter.com/tanepiper/status/1539508548090093568" ]
+  },
+  "type" : [ "h-entry" ]
+}
