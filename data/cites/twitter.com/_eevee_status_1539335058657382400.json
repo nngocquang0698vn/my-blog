@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brendan Dolan-Gavitt" ],
+          "nickname" : [ "moyix" ],
+          "numeric-id" : [ "15194897" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/851124181995589638/67s_2qnD.jpg" ],
+          "published" : [ "2008-06-22T04:06:26+00:00" ],
+          "uid" : [ "tag:twitter.com:moyix" ],
+          "url" : [ "https://twitter.com/moyix", "http://moyix.net", "http://keybase.io/moyix/", "https://messlab.moyix.net/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Looks like GitHub Copilot is going public as a paid product! I have to admit that their \"first hit is free\" strategy worked perfectly, writing code without it is now somewhat painful and I'll happily pay for it" ],
+      "photo" : [ {
+        "alt" : "Screenshot:\nDon't fly solo\nEnjoy a 60 day free trial then $10/month or $100/year per user\nLearn about GitHub Copilot Terms and Conditions",
+        "value" : "https://pbs.twimg.com/media/FVzDC76UsAA4b4q.jpg"
+      } ],
+      "published" : [ "2022-06-21T18:50:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1539319829051584512" ],
+      "url" : [ "https://twitter.com/moyix/status/1539319829051584512" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484360216804085760/6INZzUoH.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "and there it is.  github takes all our free code, puts it in a blender, uses us for free QA on the result, and finally turns around and charges for it" ],
+    "published" : [ "2022-06-21T19:50:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1539335058657382400" ],
+    "url" : [ "https://twitter.com/eevee/status/1539335058657382400" ]
+  },
+  "type" : [ "h-entry" ]
+}
