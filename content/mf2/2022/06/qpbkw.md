@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/makeupbyshaniah/status/1452799902308880387" ],
     "name" : [ "Like of @makeupbyshaniah's tweet" ],
     "published" : [ "2022-06-22T17:54:00+0100" ],
     "like-of" : [ "https://twitter.com/makeupbyshaniah/status/1452799902308880387" ],
