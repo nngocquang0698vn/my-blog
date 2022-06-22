@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/eevee/status/1539335058657382400" ],
     "name" : [ "Like of @eevee's tweet" ],
     "published" : [ "2022-06-22T06:43:00+0100" ],
     "category" : [ "github", "ai", "ethics" ],
