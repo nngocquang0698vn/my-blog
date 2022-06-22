@@ -6,7 +6,6 @@ syndication:
 - "https://twitter.com/JamieTanna/status/1530905519900196864"
 tags:
 - "blogumentation"
-- "go"
 - "openapi"
 - "api"
 - "json-patch"
