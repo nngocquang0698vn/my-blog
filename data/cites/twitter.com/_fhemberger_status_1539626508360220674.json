@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cologne, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frederic" ],
+        "nickname" : [ "fhemberger" ],
+        "numeric-id" : [ "47944587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1189849484643180544/B4kgF-zM.jpg" ],
+        "published" : [ "2009-06-17T12:31:43+00:00" ],
+        "uid" : [ "tag:twitter.com:fhemberger" ],
+        "url" : [ "https://twitter.com/fhemberger", "https://frederic-hemberger.de" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "For JavaScript, I switched to \"standard\", which is an opinionated set of ESLint rules. (Almost) no config options, saves you a lot of style discussions.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/m_ott\"></a>",
+      "value" : "For JavaScript, I switched to \"standard\", which is an opinionated set of ESLint rules. (Almost) no config options, saves you a lot of style discussions."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/m_ott/status/1539625983510200320" ],
+    "published" : [ "2022-06-22T15:08:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1539626508360220674" ],
+    "url" : [ "https://twitter.com/fhemberger/status/1539626508360220674" ]
+  },
+  "type" : [ "h-entry" ]
+}
