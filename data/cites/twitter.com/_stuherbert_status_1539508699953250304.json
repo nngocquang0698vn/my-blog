@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Paul Brand" ],
+          "nickname" : [ "PaulBrandITV" ],
+          "numeric-id" : [ "93419198" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1501629889551552513/TN2FS7Du.jpg" ],
+          "published" : [ "2009-11-29T15:23:10+00:00" ],
+          "uid" : [ "tag:twitter.com:PaulBrandITV" ],
+          "url" : [ "https://twitter.com/PaulBrandITV", "https://podcasts.apple.com/gb/podcast/acting-prime-minister/id1452702407" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">The government is announcing a new plan today to allow it to ignore the European Court and deport asylum seekers to Rwanda.\n\nA new Bill of Rights would adjust the Human Rights Act and allow ministers to overlook injunctions from the European Court of Human Rights.</div>",
+        "value" : "The government is announcing a new plan today to allow it to ignore the European Court and deport asylum seekers to Rwanda.\n\nA new Bill of Rights would adjust the Human Rights Act and allow ministers to overlook injunctions from the European Court of Human Rights."
+      } ],
+      "published" : [ "2022-06-22T06:05:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1539489628062990340" ],
+      "url" : [ "https://twitter.com/PaulBrandITV/status/1539489628062990340" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South Wales, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Herbert 🖤🇪🇺💉💉🎸" ],
+        "nickname" : [ "stuherbert" ],
+        "numeric-id" : [ "9450192" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1424726643537584129/b_1hvViT.jpg" ],
+        "published" : [ "2007-10-15T06:58:03+00:00" ],
+        "uid" : [ "tag:twitter.com:stuherbert" ],
+        "url" : [ "https://twitter.com/stuherbert", "http://blog.stuartherbert.com", "http://youtube.com/c/GanbaroDigital" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It's incredibly worrying that the UK Government wants to bypass a court that was setup to *checks notes* prevent future Nazis from doing Nazi things.\n\nIf you're cheering this on, just remember - you're a human too. The rights being removed are your rights too.</div>",
+      "value" : "It's incredibly worrying that the UK Government wants to bypass a court that was setup to *checks notes* prevent future Nazis from doing Nazi things.\n\nIf you're cheering this on, just remember - you're a human too. The rights being removed are your rights too."
+    } ],
+    "published" : [ "2022-06-22T07:20:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1539508699953250304" ],
+    "url" : [ "https://twitter.com/stuherbert/status/1539508699953250304" ]
+  },
+  "type" : [ "h-entry" ]
+}
