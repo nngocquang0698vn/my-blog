@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Base Camp Kiron" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Steve King" ],
+          "nickname" : [ "SteveKingIA" ],
+          "numeric-id" : [ "48117116" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1489975136434507777/7IIDbGcR.jpg" ],
+          "published" : [ "2009-06-17T21:09:41+00:00" ],
+          "uid" : [ "tag:twitter.com:SteveKingIA" ],
+          "url" : [ "https://twitter.com/SteveKingIA", "https://www.steveking.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I spent Juneteenth all day in the hot sun hoeing and pulling weeds and thinking about what it would have been like to have been a slave. At the end of the day, I thought about what it would be like to be an aborted baby. I got to see the sunrise and the sunset." ],
+      "published" : [ "2022-06-21T11:32:02+00:00" ],
+      "uid" : [ "tag:twitter.com:1539209524711768070" ],
+      "url" : [ "https://twitter.com/SteveKingIA/status/1539209524711768070" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Illadelph & Fi-Di NYC & 31Rock" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dr. Love" ],
+        "nickname" : [ "questlove" ],
+        "numeric-id" : [ "14939981" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1402716027318935553/9cYZbr-3.jpg" ],
+        "published" : [ "2008-05-29T02:17:23+00:00" ],
+        "uid" : [ "tag:twitter.com:questlove" ],
+        "url" : [ "https://twitter.com/questlove", "http://www.questlove.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "fuck you say??!" ],
+    "published" : [ "2022-06-21T21:03:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1539353381910810629" ],
+    "url" : [ "https://twitter.com/questlove/status/1539353381910810629" ]
+  },
+  "type" : [ "h-entry" ]
+}
