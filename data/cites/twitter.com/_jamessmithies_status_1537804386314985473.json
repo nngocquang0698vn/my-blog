@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Smithies" ],
+        "nickname" : [ "jamessmithies" ],
+        "numeric-id" : [ "150590236" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438431646399836160/sxtbl81-.jpg" ],
+        "published" : [ "2010-06-01T09:23:06+00:00" ],
+        "uid" : [ "tag:twitter.com:jamessmithies" ],
+        "url" : [ "https://twitter.com/jamessmithies", "https://jamessmithies.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Interesting to see that the latest release of phpMyAdmin (used to enable a vast number of websites, and a tool I haven't installed in years) replaces \"master/slave\" terms with \"primary/replica\". Hope can spring from unexpected places. <a href=\"https://www.phpmyadmin.net/files/5.2.0/\">phpmyadmin.net/files/5.2.0/</a>",
+      "value" : "Interesting to see that the latest release of phpMyAdmin (used to enable a vast number of websites, and a tool I haven't installed in years) replaces \"master/slave\" terms with \"primary/replica\". Hope can spring from unexpected places. phpmyadmin.net/files/5.2.0/"
+    } ],
+    "published" : [ "2022-06-17T14:28:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1537804386314985473" ],
+    "url" : [ "https://twitter.com/jamessmithies/status/1537804386314985473" ]
+  },
+  "type" : [ "h-entry" ]
+}
