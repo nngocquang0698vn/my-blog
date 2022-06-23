@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Malte Ubl" ],
+        "nickname" : [ "cramforce" ],
+        "numeric-id" : [ "15534471" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1247154720080191490/RTBtUks5.jpg" ],
+        "published" : [ "2008-07-22T18:04:13+00:00" ],
+        "uid" : [ "tag:twitter.com:cramforce" ],
+        "url" : [ "https://twitter.com/cramforce", "https://www.industrialempathy.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Successfully deployed the only sentence you need to be able to say to be a principal engineer: \"What are you actually trying to do?\"" ],
+    "published" : [ "2022-06-23T01:32:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1539783414466748416" ],
+    "url" : [ "https://twitter.com/cramforce/status/1539783414466748416" ]
+  },
+  "type" : [ "h-entry" ]
+}
