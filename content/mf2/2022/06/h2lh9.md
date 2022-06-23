@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaclynf/status/1539357935280832512" ],
     "name" : [ "Like of @jaclynf's tweet" ],
     "published" : [ "2022-06-23T10:40:00+0100" ],
     "like-of" : [ "https://twitter.com/jaclynf/status/1539357935280832512" ],
