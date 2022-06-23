@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gerhard Lazu" ],
+        "nickname" : [ "gerhardlazu" ],
+        "numeric-id" : [ "14770251" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458889403317858308/7xhx4d0L.jpg" ],
+        "published" : [ "2008-05-14T07:03:50+00:00" ],
+        "uid" : [ "tag:twitter.com:gerhardlazu" ],
+        "url" : [ "https://twitter.com/gerhardlazu", "https://gerhard.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Not a coincidence:\n\n<a href=\"https://shipit.show/58\">shipit.show/58</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mitchellh\"></a>",
+      "value" : "Not a coincidence:\n\nshipit.show/58"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mitchellh/status/1539646565937057792" ],
+    "published" : [ "2022-06-23T12:19:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1539946327911677956" ],
+    "url" : [ "https://twitter.com/gerhardlazu/status/1539946327911677956" ]
+  },
+  "type" : [ "h-entry" ]
+}
