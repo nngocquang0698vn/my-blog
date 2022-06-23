@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Layne McNish" ],
+        "nickname" : [ "laynemcnish" ],
+        "numeric-id" : [ "23724232" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/721733767157518336/5TLwIzUX.jpg" ],
+        "published" : [ "2009-03-11T04:48:00+00:00" ],
+        "uid" : [ "tag:twitter.com:laynemcnish" ],
+        "url" : [ "https://twitter.com/laynemcnish" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "💀" ],
+    "photo" : [ {
+      "alt" : "Cover of the book \"All my friends are dead\" with \"dead\" struck out so it says \"All my friends are managers now\" instead.",
+      "value" : "https://pbs.twimg.com/media/FV0Ksc1UUAA5WDa.jpg"
+    } ],
+    "published" : [ "2022-06-22T00:03:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1539398570389872640" ],
+    "url" : [ "https://twitter.com/laynemcnish/status/1539398570389872640" ]
+  },
+  "type" : [ "h-entry" ]
+}
