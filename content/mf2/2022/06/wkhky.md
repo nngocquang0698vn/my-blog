@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jamessmithies/status/1537804386314985473" ],
     "name" : [ "Like of @jamessmithies's tweet" ],
     "published" : [ "2022-06-23T20:58:00+0100" ],
     "like-of" : [ "https://twitter.com/jamessmithies/status/1537804386314985473" ],
