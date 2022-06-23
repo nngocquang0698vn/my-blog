@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JulitoGuwop/status/1539640742817067009" ],
     "name" : [ "Like of @JulitoGuwop's tweet" ],
     "published" : [ "2022-06-23T11:04:00+0100" ],
     "like-of" : [ "https://twitter.com/JulitoGuwop/status/1539640742817067009" ],
