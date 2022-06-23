@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jackieaina/status/1539802331176239106" ],
     "name" : [ "Like of @jackieaina's tweet" ],
     "published" : [ "2022-06-23T10:26:00+0100" ],
     "like-of" : [ "https://twitter.com/jackieaina/status/1539802331176239106" ],
