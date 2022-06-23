@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Confirmed that Sourcegraph let go 8% of staff: 24 folks on Tuesday. No engineers were let go, but 5 directors were laid off and non-tech teams impacted.\n\nThe curious part of this is how Sourcegraph has yet to touch its $125M raised in 2021. Tells a lot about market predictions.</div>",
+      "value" : "Confirmed that Sourcegraph let go 8% of staff: 24 folks on Tuesday. No engineers were let go, but 5 directors were laid off and non-tech teams impacted.\n\nThe curious part of this is how Sourcegraph has yet to touch its $125M raised in 2021. Tells a lot about market predictions."
+    } ],
+    "published" : [ "2022-06-23T18:41:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1540042402974638084" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1540042402974638084" ]
+  },
+  "type" : [ "h-entry" ]
+}
