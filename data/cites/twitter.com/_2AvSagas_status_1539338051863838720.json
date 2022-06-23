@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Second Ave. Sagas" ],
+        "nickname" : [ "2AvSagas" ],
+        "numeric-id" : [ "16563573" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/489868896812285954/3AGkYqfP.png" ],
+        "published" : [ "2008-10-02T18:23:45+00:00" ],
+        "uid" : [ "tag:twitter.com:2AvSagas" ],
+        "url" : [ "https://twitter.com/2AvSagas", "http://www.secondavenuesagas.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Have you considered not charging $138 to take a 7 a.m. train on a Sunday morning?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Amtrak\"></a>",
+      "value" : "Have you considered not charging $138 to take a 7 a.m. train on a Sunday morning?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Amtrak/status/1539329802921975808" ],
+    "published" : [ "2022-06-21T20:02:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1539338051863838720" ],
+    "url" : [ "https://twitter.com/2AvSagas/status/1539338051863838720" ]
+  },
+  "type" : [ "h-entry" ]
+}
