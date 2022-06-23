@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/Shopify/status…" ],
+        "url" : [ "https://twitter.com/Shopify/status/1539610296200974338" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Berlin" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Esther" ],
+          "nickname" : [ "selfawaresoup" ],
+          "numeric-id" : [ "17742694" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1524430995931422726/wABYJ2By.jpg" ],
+          "published" : [ "2008-11-29T22:02:54+00:00" ],
+          "uid" : [ "tag:twitter.com:selfawaresoup" ],
+          "url" : [ "https://twitter.com/selfawaresoup", "https://www.selfawaresoup.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Well, now that it's public at least I can talk about it:\n\nThis is a major reason why I quit, and specifically why I quit much earlier than I had originally planned. I don't want to be associated with anyone dealing in crypto nonsense.</div>\n<a class=\"tag\" href=\"https://twitter.com/Shopify/status/1539610296200974338\">twitter.com/Shopify/status…</a>",
+        "value" : "Well, now that it's public at least I can talk about it:\n\nThis is a major reason why I quit, and specifically why I quit much earlier than I had originally planned. I don't want to be associated with anyone dealing in crypto nonsense."
+      } ],
+      "published" : [ "2022-06-22T14:37:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1539618640294715393" ],
+      "url" : [ "https://twitter.com/selfawaresoup/status/1539618640294715393" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Amsterdam, The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gergely Orosz" ],
+        "nickname" : [ "GergelyOrosz" ],
+        "numeric-id" : [ "30192824" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV.png" ],
+        "published" : [ "2009-04-10T10:01:11+00:00" ],
+        "uid" : [ "tag:twitter.com:GergelyOrosz" ],
+        "url" : [ "https://twitter.com/GergelyOrosz", "https://pragmaticengineer.com/", "http://pragmaticengineer.com", "http://pragmaticurl.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">She’s not the only one quitting for not wanting to work on stuff promoting or endorsing crypto.\n\nTalked with a software engineer who quit Block after the course changed to crypto and another dev leaving a FinTech pivoting to crypto.\n\nI applaud people voting with their feet.</div>",
+      "value" : "She’s not the only one quitting for not wanting to work on stuff promoting or endorsing crypto.\n\nTalked with a software engineer who quit Block after the course changed to crypto and another dev leaving a FinTech pivoting to crypto.\n\nI applaud people voting with their feet."
+    } ],
+    "published" : [ "2022-06-23T11:43:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1539937157346983938" ],
+    "url" : [ "https://twitter.com/GergelyOrosz/status/1539937157346983938" ]
+  },
+  "type" : [ "h-entry" ]
+}
