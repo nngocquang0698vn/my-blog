@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/copyconstruct/status/1540364142426542080" ],
     "name" : [ "Like of @copyconstruct's tweet" ],
     "published" : [ "2022-06-24T17:01:00+0100" ],
     "like-of" : [ "https://twitter.com/copyconstruct/status/1540364142426542080" ],
