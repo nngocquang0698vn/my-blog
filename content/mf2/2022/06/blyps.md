@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wdormann/status/1540068462025969674" ],
     "name" : [ "Like of @wdormann's tweet" ],
     "published" : [ "2022-06-24T15:16:00+0100" ],
     "like-of" : [ "https://twitter.com/wdormann/status/1540068462025969674" ],
