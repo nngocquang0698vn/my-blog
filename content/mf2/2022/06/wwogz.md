@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LiveFromBrexit/status/1540195660363972609" ],
     "name" : [ "Like of @LiveFromBrexit's tweet" ],
     "published" : [ "2022-06-24T09:31:00+0100" ],
     "like-of" : [ "https://twitter.com/LiveFromBrexit/status/1540195660363972609" ],
