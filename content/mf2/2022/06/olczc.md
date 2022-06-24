@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/evacide/status/1540358180789620736" ],
     "name" : [ "Like of @evacide's tweet" ],
     "published" : [ "2022-06-24T21:41:00+0100" ],
     "like-of" : [ "https://twitter.com/evacide/status/1540358180789620736" ],
