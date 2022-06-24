@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York - Suburbs Edition" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol" ],
+        "nickname" : [ "caroledwine" ],
+        "numeric-id" : [ "148365388" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1482083326412394498/XCUgAs7f.jpg" ],
+        "published" : [ "2010-05-26T14:27:23+00:00" ],
+        "uid" : [ "tag:twitter.com:caroledwine" ],
+        "url" : [ "https://twitter.com/caroledwine" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I'm afraid of my kids being shot to death in school.\n\nYou're afraid of your kids knowing about trans people.\n\nWe are not the same.</div>",
+      "value" : "I'm afraid of my kids being shot to death in school.\n\nYou're afraid of your kids knowing about trans people.\n\nWe are not the same."
+    } ],
+    "published" : [ "2022-06-23T18:25:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1540038347762040834" ],
+    "url" : [ "https://twitter.com/caroledwine/status/1540038347762040834" ]
+  },
+  "type" : [ "h-entry" ]
+}
