@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yourcompanionAI/status/1540366144120422400" ],
     "name" : [ "Like of @yourcompanionAI's tweet" ],
     "published" : [ "2022-06-24T19:49:00+0100" ],
     "like-of" : [ "https://twitter.com/yourcompanionAI/status/1540366144120422400" ],
