@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sylviaviridian/status/1540352356331577344" ],
     "name" : [ "Like of @sylviaviridian's tweet" ],
     "published" : [ "2022-06-24T17:12:00+0100" ],
     "like-of" : [ "https://twitter.com/sylviaviridian/status/1540352356331577344" ],
