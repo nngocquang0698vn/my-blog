@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trashlyn_/status/1305707615419277312" ],
     "name" : [ "Like of @trashlyn_'s tweet" ],
     "published" : [ "2022-06-24T07:50:00+0100" ],
     "category" : [ "cute" ],
