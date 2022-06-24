@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/neal_katyal/status/1539988629585543169" ],
     "name" : [ "Like of @neal_katyal's tweet" ],
     "published" : [ "2022-06-24T07:59:00+0100" ],
     "like-of" : [ "https://twitter.com/neal_katyal/status/1539988629585543169" ],
