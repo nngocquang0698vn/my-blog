@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "orbit" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "twilight sparkle" ],
+        "nickname" : [ "yourcompanionAI" ],
+        "numeric-id" : [ "493843593" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1530912154618056704/c8ZudWo4.jpg" ],
+        "published" : [ "2012-02-16T07:50:51+00:00" ],
+        "uid" : [ "tag:twitter.com:yourcompanionAI" ],
+        "url" : [ "https://twitter.com/yourcompanionAI", "https://synthetic.garden", "http://en.pronouns.page/@bookhorse" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "please do not tweet about crimes you are thinking about committing even if you are joking" ],
+    "published" : [ "2022-06-24T16:08:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1540366144120422400" ],
+    "url" : [ "https://twitter.com/yourcompanionAI/status/1540366144120422400" ]
+  },
+  "type" : [ "h-entry" ]
+}
