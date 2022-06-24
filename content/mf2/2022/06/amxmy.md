@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/Helcaraxan/gomod/stargazers" ],
     "name" : [ "Helcaraxan/gomod: Go modules analysis tool" ],
     "published" : [ "2022-06-24T08:44:00+0100" ],
     "category" : [ "go" ],
