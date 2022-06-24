@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marques Brownlee" ],
+        "nickname" : [ "MKBHD" ],
+        "numeric-id" : [ "29873662" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468001914302390278/B_Xv_8gu.jpg" ],
+        "published" : [ "2009-04-09T00:50:00+00:00" ],
+        "uid" : [ "tag:twitter.com:MKBHD" ],
+        "url" : [ "https://twitter.com/MKBHD", "http://MKBHD.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Age limits for people in power seems smart" ],
+    "published" : [ "2022-06-24T14:57:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1540348372674318339" ],
+    "url" : [ "https://twitter.com/MKBHD/status/1540348372674318339" ]
+  },
+  "type" : [ "h-entry" ]
+}
