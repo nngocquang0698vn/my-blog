@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MemphisQuinn/status/1540194987660509184" ],
     "name" : [ "Like of @MemphisQuinn's tweet" ],
     "published" : [ "2022-06-24T12:28:00+0100" ],
     "category" : [ "memes" ],
