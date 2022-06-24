@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Amsterdam" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Devopsdays Amsterdam" ],
+          "nickname" : [ "devopsams" ],
+          "numeric-id" : [ "2383620548" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1481893992862212097/1AREhKfN.jpg" ],
+          "published" : [ "2014-03-11T12:07:30+00:00" ],
+          "uid" : [ "tag:twitter.com:devopsams" ],
+          "url" : [ "https://twitter.com/devopsams", "https://www.meetup.com/DevOpsAmsterdam/events/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Steffan Norberhuis and Elke Salzmann from <a href=\"https://twitter.com/PostNL\">@PostNL</a> on onboarding new DevOps engineering hires, at <a href=\"https://twitter.com/search?q=%23devopsdays\">#devopsdays</a> Amsterdam: <a href=\"https://youtu.be/eenoelrr9Kc\">youtu.be/eenoelrr9Kc</a>",
+        "value" : "Steffan Norberhuis and Elke Salzmann from @PostNL on onboarding new DevOps engineering hires, at #devopsdays Amsterdam: youtu.be/eenoelrr9Kc"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FWBQVlmWYAERnnp.jpg" ],
+      "published" : [ "2022-06-24T13:02:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1540319408576397313" ],
+      "url" : [ "https://twitter.com/devopsams/status/1540319408576397313" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Floor - we're gonna need a bigger node" ],
+        "nickname" : [ "FloorDrees" ],
+        "numeric-id" : [ "16541865" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1527718157137346567/y0vpFwEn.jpg" ],
+        "published" : [ "2008-10-01T08:57:54+00:00" ],
+        "uid" : [ "tag:twitter.com:FloorDrees" ],
+        "url" : [ "https://twitter.com/FloorDrees", "https://floor.dev", "http://contributing.today" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Putting people on call one month in shows trust.\" \nYeah, na. Hard na.</div>",
+      "value" : "\"Putting people on call one month in shows trust.\" \nYeah, na. Hard na."
+    } ],
+    "published" : [ "2022-06-24T13:05:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1540320204936384514" ],
+    "url" : [ "https://twitter.com/FloorDrees/status/1540320204936384514" ]
+  },
+  "type" : [ "h-entry" ]
+}
