@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "C'ville, Virginia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "GeePaw Hill" ],
+        "nickname" : [ "GeePawHill" ],
+        "numeric-id" : [ "21333111" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/841401262830678021/VmJuKGjL.jpg" ],
+        "published" : [ "2009-02-19T20:03:02+00:00" ],
+        "uid" : [ "tag:twitter.com:GeePawHill" ],
+        "url" : [ "https://twitter.com/GeePawHill", "http://geepawhill.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Managers receive every bit as much training, support, mentoring, and plain ol' love as the geeks they manage, which is to say, to an arbitary error epsilon, zero.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/somesheep\"></a>",
+      "value" : "Managers receive every bit as much training, support, mentoring, and plain ol' love as the geeks they manage, which is to say, to an arbitary error epsilon, zero."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/somesheep/status/1539974446080880647" ],
+    "published" : [ "2022-06-24T02:10:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1540155364691288066" ],
+    "url" : [ "https://twitter.com/GeePawHill/status/1540155364691288066" ]
+  },
+  "type" : [ "h-entry" ]
+}
