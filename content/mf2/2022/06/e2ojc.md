@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TristanSnell/status/1540379532896641025" ],
     "name" : [ "Like of @TristanSnell's tweet" ],
     "published" : [ "2022-06-24T21:55:00+0100" ],
     "like-of" : [ "https://twitter.com/TristanSnell/status/1540379532896641025" ],
