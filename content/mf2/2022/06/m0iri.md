@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TomLinzi/status/1540357396098256896" ],
     "name" : [ "Like of @TomLinzi's tweet" ],
     "published" : [ "2022-06-25T15:25:00+0100" ],
     "like-of" : [ "https://twitter.com/TomLinzi/status/1540357396098256896" ],
