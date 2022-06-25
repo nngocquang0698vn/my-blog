@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doree/status/1540474162262982656" ],
     "name" : [ "Like of @doree's tweet" ],
     "published" : [ "2022-06-25T10:20:00+0100" ],
     "like-of" : [ "https://twitter.com/doree/status/1540474162262982656" ],
