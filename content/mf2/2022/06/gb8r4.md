@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shannonwoodward/status/1540347561919320066" ],
     "name" : [ "Like of @shannonwoodward's tweet" ],
     "published" : [ "2022-06-25T15:25:00+0100" ],
     "like-of" : [ "https://twitter.com/shannonwoodward/status/1540347561919320066" ],
