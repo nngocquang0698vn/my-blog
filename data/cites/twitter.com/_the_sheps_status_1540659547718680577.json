@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "North West, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sheps" ],
+        "nickname" : [ "the_sheps" ],
+        "numeric-id" : [ "59202357" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1267566207357648899/CqVY02q4.jpg" ],
+        "published" : [ "2009-07-22T18:19:31+00:00" ],
+        "uid" : [ "tag:twitter.com:the_sheps" ],
+        "url" : [ "https://twitter.com/the_sheps", "https://www.thesheps.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've been studying up on the <a href=\"https://twitter.com/golang\">@golang</a> language the last couple days, and I've got to say The Go Programming Language book <a href=\"https://www.gopl.io\">gopl.io</a> is an absolute masterpiece!\n\nSome of the example coding exercises and homework tasks are really fun and actually applicable!</div>",
+      "value" : "I've been studying up on the @golang language the last couple days, and I've got to say The Go Programming Language book gopl.io is an absolute masterpiece!\n\nSome of the example coding exercises and homework tasks are really fun and actually applicable!"
+    } ],
+    "published" : [ "2022-06-25T11:33:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1540659547718680577" ],
+    "url" : [ "https://twitter.com/the_sheps/status/1540659547718680577" ]
+  },
+  "type" : [ "h-entry" ]
+}
