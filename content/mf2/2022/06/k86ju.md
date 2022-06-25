@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElaDarling/status/1540347191843328003" ],
     "name" : [ "Like of @ElaDarling's tweet" ],
     "published" : [ "2022-06-25T13:35:00+0100" ],
     "like-of" : [ "https://twitter.com/ElaDarling/status/1540347191843328003" ],
