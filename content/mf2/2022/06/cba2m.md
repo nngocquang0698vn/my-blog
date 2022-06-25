@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lebang_moloi/status/1540469804657790977" ],
     "name" : [ "Like of @lebang_moloi's tweet" ],
     "published" : [ "2022-06-25T22:22:00+0100" ],
     "like-of" : [ "https://twitter.com/lebang_moloi/status/1540469804657790977" ],
