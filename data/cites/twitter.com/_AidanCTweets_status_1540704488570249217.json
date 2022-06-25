@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Helen Staniland" ],
+          "nickname" : [ "helenstaniland" ],
+          "numeric-id" : [ "271603436" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1122568752166506498/PbBJyto3.jpg" ],
+          "published" : [ "2011-03-24T21:02:23+00:00" ],
+          "uid" : [ "tag:twitter.com:helenstaniland" ],
+          "url" : [ "https://twitter.com/helenstaniland", "http://youtube.com/c/HelenStanila" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "It's still fascinating to see a movement whose whole front is 'fighting for inclusion', openly and without shame declaring people not being welcome in various places. The inner self-righteous fight would be interesting to eavesdrop on." ],
+      "photo" : [ "https://pbs.twimg.com/media/FWF8ZnYWYAACJ77.jpg" ],
+      "published" : [ "2022-06-25T10:53:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1540649331010818048" ],
+      "url" : [ "https://twitter.com/helenstaniland/status/1540649331010818048" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dublin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Aidan Comerford" ],
+        "nickname" : [ "AidanCTweets" ],
+        "numeric-id" : [ "362946550" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1197071789484064769/bjEacw0m.jpg" ],
+        "published" : [ "2011-08-27T07:39:35+00:00" ],
+        "uid" : [ "tag:twitter.com:AidanCTweets" ],
+        "url" : [ "https://twitter.com/AidanCTweets" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Pride is a protest against people like you, Helen.\n\nHow come you don't get that?</div>",
+      "value" : "Pride is a protest against people like you, Helen.\n\nHow come you don't get that?"
+    } ],
+    "published" : [ "2022-06-25T14:32:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1540704488570249217" ],
+    "url" : [ "https://twitter.com/AidanCTweets/status/1540704488570249217" ]
+  },
+  "type" : [ "h-entry" ]
+}
