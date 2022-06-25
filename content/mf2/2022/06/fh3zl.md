@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/baysueb/status/1540511378061926400" ],
     "name" : [ "Like of @baysueb's tweet" ],
     "published" : [ "2022-06-25T03:16:00+0100" ],
     "like-of" : [ "https://twitter.com/baysueb/status/1540511378061926400" ],
