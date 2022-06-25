@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin!" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stoned Adulterer" ],
+        "nickname" : [ "ElaDarling" ],
+        "numeric-id" : [ "89549802" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461253528815644677/V3ksHwEl.jpg" ],
+        "published" : [ "2009-11-12T21:48:21+00:00" ],
+        "uid" : [ "tag:twitter.com:ElaDarling" ],
+        "url" : [ "https://twitter.com/ElaDarling", "http://www.eladarling.com", "http://zez.am/eladarling" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "So glad to live in a nation with gun care and health control." ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Austin, TX" ],
+        "uid" : [ "tag:twitter.com:c3f37afa9efcf94b" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-24T14:52:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1540347191843328003" ],
+    "url" : [ "https://twitter.com/ElaDarling/status/1540347191843328003" ]
+  },
+  "type" : [ "h-entry" ]
+}
