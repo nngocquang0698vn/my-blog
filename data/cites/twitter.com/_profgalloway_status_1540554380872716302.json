@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Galloway" ],
+        "nickname" : [ "profgalloway" ],
+        "numeric-id" : [ "9273802" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508524267708764160/pFVMOZ7u.jpg" ],
+        "published" : [ "2007-10-06T02:08:16+00:00" ],
+        "uid" : [ "tag:twitter.com:profgalloway" ],
+        "url" : [ "https://twitter.com/profgalloway", "http://profgmedia.com", "http://section4.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Never would this happen if men were the ones having babies. \n— <a href=\"https://twitter.com/GavinNewsom\">@GavinNewsom</a></div>",
+      "value" : "Never would this happen if men were the ones having babies. \n— @GavinNewsom"
+    } ],
+    "published" : [ "2022-06-25T04:36:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1540554380872716302" ],
+    "url" : [ "https://twitter.com/profgalloway/status/1540554380872716302" ]
+  },
+  "type" : [ "h-entry" ]
+}
