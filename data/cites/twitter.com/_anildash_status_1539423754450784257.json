@@ -1,0 +1,29 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "anildash" ],
+        "nickname" : [ "anildash" ],
+        "numeric-id" : [ "36823" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538205790619807744/g2X5fi-M.jpg" ],
+        "published" : [ "2006-12-02T09:15:15+00:00" ],
+        "uid" : [ "tag:twitter.com:anildash" ],
+        "url" : [ "https://twitter.com/anildash", "https://anildash.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Run over this embarrassing shit with a bulldozer" ],
+    "in-reply-to" : [ "https://twitter.com/anildash/status/1539422916802224134" ],
+    "photo" : [ "https://pbs.twimg.com/media/FV0hvltXEAA198G.jpg" ],
+    "published" : [ "2022-06-22T01:43:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1539423754450784257" ],
+    "url" : [ "https://twitter.com/anildash/status/1539423754450784257" ]
+  },
+  "type" : [ "h-entry" ]
+}
