@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Add a Pride flag background to the web in CSS:\nbackground:linear-gradient(to left,#000,#000 12.5%,<a href=\"https://twitter.com/search?q=%23784f16\">#784f16</a> 12.5%,<a href=\"https://twitter.com/search?q=%23784f16\">#784f16</a> 25%,<a href=\"https://twitter.com/search?q=%23e40303\">#e40303</a> 25%,<a href=\"https://twitter.com/search?q=%23e40303\">#e40303</a> 37.5%,<a href=\"https://twitter.com/search?q=%23ff8c00\">#ff8c00</a> 37.5%,<a href=\"https://twitter.com/search?q=%23ff8c00\">#ff8c00</a> 50%,<a href=\"https://twitter.com/search?q=%23ffed00\">#ffed00</a> 50%,<a href=\"https://twitter.com/search?q=%23ffed00\">#ffed00</a> 62.5%,#008026 62.5%,#008026 75%,<a href=\"https://twitter.com/search?q=%23004dff\">#004dff</a> 75%,<a href=\"https://twitter.com/search?q=%23004dff\">#004dff</a> 87.5%,#750787 87.5%,#750787)</div>",
+        "value" : "Add a Pride flag background to the web in CSS:\nbackground:linear-gradient(to left,#000,#000 12.5%,#784f16 12.5%,#784f16 25%,#e40303 25%,#e40303 37.5%,#ff8c00 37.5%,#ff8c00 50%,#ffed00 50%,#ffed00 62.5%,#008026 62.5%,#008026 75%,#004dff 75%,#004dff 87.5%,#750787 87.5%,#750787)"
+      } ],
+      "published" : [ "2022-06-25T12:51:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1540679031065960451" ],
+      "url" : [ "https://twitter.com/edent/status/1540679031065960451" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Anyway, I got bored of having a dull and dark website - so I added this to my blog to give it a little sparkle." ],
+    "published" : [ "2022-06-25T21:14:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1540805682504486914" ],
+    "url" : [ "https://twitter.com/edent/status/1540805682504486914" ]
+  },
+  "type" : [ "h-entry" ]
+}
