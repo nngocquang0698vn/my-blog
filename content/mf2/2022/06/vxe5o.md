@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_Rest_less_/status/1540496827329286145" ],
     "name" : [ "Like of @_Rest_less_'s tweet" ],
     "published" : [ "2022-06-25T19:54:00+0100" ],
     "like-of" : [ "https://twitter.com/_Rest_less_/status/1540496827329286145" ],
