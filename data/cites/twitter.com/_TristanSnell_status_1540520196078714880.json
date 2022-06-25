@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tristan Snell" ],
+        "nickname" : [ "TristanSnell" ],
+        "numeric-id" : [ "15801906" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275819007887708161/0UlOvCQz.jpg" ],
+        "published" : [ "2008-08-10T22:13:03+00:00" ],
+        "uid" : [ "tag:twitter.com:TristanSnell" ],
+        "url" : [ "https://twitter.com/TristanSnell", "http://mainstreet.law", "http://MainStreet.law" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "We asked them to ban AR-15s, and they banned abortions instead." ],
+    "published" : [ "2022-06-25T02:20:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1540520196078714880" ],
+    "url" : [ "https://twitter.com/TristanSnell/status/1540520196078714880" ]
+  },
+  "type" : [ "h-entry" ]
+}
