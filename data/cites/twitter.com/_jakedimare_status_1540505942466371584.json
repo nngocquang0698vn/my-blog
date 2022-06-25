@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Capitol" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Manu Raju" ],
+          "nickname" : [ "mkraju" ],
+          "numeric-id" : [ "39155029" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1036076785312718849/DqKNeMaJ.jpg" ],
+          "published" : [ "2009-05-11T01:13:00+00:00" ],
+          "uid" : [ "tag:twitter.com:mkraju" ],
+          "url" : [ "https://twitter.com/mkraju", "http://www.facebook.com/mkraju00" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "On way to the court" ],
+      "published" : [ "2022-06-24T15:55:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1540362945921785856" ],
+      "url" : [ "https://twitter.com/mkraju/status/1540362945921785856" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1540362867605635073/pu/vid/1280x720/MZY9qVm7R6Cq09Mb.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston, Massachusetts" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake" ],
+        "nickname" : [ "jakedimare" ],
+        "numeric-id" : [ "19065008" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1539655531874422786/ukXsuFGZ.jpg" ],
+        "published" : [ "2009-01-16T12:58:30+00:00" ],
+        "uid" : [ "tag:twitter.com:jakedimare" ],
+        "url" : [ "https://twitter.com/jakedimare" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Weird. Where were these shock troops on Jan 6?" ],
+    "published" : [ "2022-06-25T01:23:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1540505942466371584" ],
+    "url" : [ "https://twitter.com/jakedimare/status/1540505942466371584" ]
+  },
+  "type" : [ "h-entry" ]
+}
