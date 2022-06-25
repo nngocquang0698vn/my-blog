@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeffrey Sica" ],
+        "nickname" : [ "jeefy" ],
+        "numeric-id" : [ "14293328" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1074437661836767232/3ieAANf0.jpg" ],
+        "published" : [ "2008-04-03T13:55:43+00:00" ],
+        "uid" : [ "tag:twitter.com:jeefy" ],
+        "url" : [ "https://twitter.com/jeefy", "https://jeefy.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Oh right this is a tech account. I'll tweet about CICD instead. \n\nContinuous Injustice\nContinuous Disappointment</div>",
+      "value" : "Oh right this is a tech account. I'll tweet about CICD instead. \n\nContinuous Injustice\nContinuous Disappointment"
+    } ],
+    "published" : [ "2022-06-24T18:21:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1540399626234241024" ],
+    "url" : [ "https://twitter.com/jeefy/status/1540399626234241024" ]
+  },
+  "type" : [ "h-entry" ]
+}
