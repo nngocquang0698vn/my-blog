@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/zei_squirrel/status/1540396041215827969" ],
     "name" : [ "Like of @zei_squirrel's tweet" ],
     "published" : [ "2022-06-25T09:26:00+0100" ],
     "like-of" : [ "https://twitter.com/zei_squirrel/status/1540396041215827969" ],
