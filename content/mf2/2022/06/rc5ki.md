@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LarryWoods16/status/1540425104017850368" ],
     "name" : [ "Like of @LarryWoods16's tweet" ],
     "published" : [ "2022-06-25T03:17:00+0100" ],
     "like-of" : [ "https://twitter.com/LarryWoods16/status/1540425104017850368" ],
