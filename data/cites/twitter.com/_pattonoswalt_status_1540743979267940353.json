@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ben Yahr" ],
+          "nickname" : [ "benyahr" ],
+          "numeric-id" : [ "24996233" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1536542329015783425/ak7DgntA.jpg" ],
+          "published" : [ "2009-03-18T01:02:46+00:00" ],
+          "uid" : [ "tag:twitter.com:benyahr" ],
+          "url" : [ "https://twitter.com/benyahr", "http://www.benyahr.com", "http://www.Instagram.com/benyahr" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I. Don’t. Care. If. You’re. Christian.  " ],
+      "published" : [ "2022-06-24T14:49:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1540346407785226242" ],
+      "url" : [ "https://twitter.com/benyahr/status/1540346407785226242" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1521763363516297216/pu/vid/576x1024/l66YvDTSAUOajVmo.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Patton Oswalt" ],
+        "nickname" : [ "pattonoswalt" ],
+        "numeric-id" : [ "139162440" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/948289341322702853/gAHQK9vY.jpg" ],
+        "published" : [ "2010-05-01T19:00:10+00:00" ],
+        "uid" : [ "tag:twitter.com:pattonoswalt" ],
+        "url" : [ "https://twitter.com/pattonoswalt", "https://linktr.ee/pattonoswalt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "77 seconds of truth that I hope you take the time to WATCH AND RETWEET." ],
+    "published" : [ "2022-06-25T17:09:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1540743979267940353" ],
+    "url" : [ "https://twitter.com/pattonoswalt/status/1540743979267940353" ]
+  },
+  "type" : [ "h-entry" ]
+}
