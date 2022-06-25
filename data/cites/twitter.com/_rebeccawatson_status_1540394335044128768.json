@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "The Capitol" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Manu Raju" ],
+          "nickname" : [ "mkraju" ],
+          "numeric-id" : [ "39155029" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1036076785312718849/DqKNeMaJ.jpg" ],
+          "published" : [ "2009-05-11T01:13:00+00:00" ],
+          "uid" : [ "tag:twitter.com:mkraju" ],
+          "url" : [ "https://twitter.com/mkraju", "http://www.facebook.com/mkraju00" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "On way to the court" ],
+      "published" : [ "2022-06-24T15:55:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1540362945921785856" ],
+      "url" : [ "https://twitter.com/mkraju/status/1540362945921785856" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1540362867605635073/pu/vid/1280x720/MZY9qVm7R6Cq09Mb.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rebecca Watson" ],
+        "nickname" : [ "rebeccawatson" ],
+        "numeric-id" : [ "14188985" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1366448749665419266/WW1y97F2.jpg" ],
+        "published" : [ "2008-03-21T02:19:12+00:00" ],
+        "uid" : [ "tag:twitter.com:rebeccawatson" ],
+        "url" : [ "https://twitter.com/rebeccawatson", "http://patreon.com/rebecca" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "In the US, teachers buy their own chalk while cops get Captain America shields to protect themselves from women who want healthcare" ],
+    "published" : [ "2022-06-24T18:00:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1540394335044128768" ],
+    "url" : [ "https://twitter.com/rebeccawatson/status/1540394335044128768" ]
+  },
+  "type" : [ "h-entry" ]
+}
