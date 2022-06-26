@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/soledadobrien/status/1540367534565777409" ],
     "name" : [ "Like of @soledadobrien's tweet" ],
     "published" : [ "2022-06-26T07:31:00+0100" ],
     "like-of" : [ "https://twitter.com/soledadobrien/status/1540367534565777409" ],
