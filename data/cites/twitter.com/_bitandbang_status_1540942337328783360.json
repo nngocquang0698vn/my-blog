@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "United States" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jordan Liggitt" ],
+          "nickname" : [ "liggitt" ],
+          "numeric-id" : [ "6421052" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/2551011062/ou99229wsjx0o0gm4wfl.jpeg" ],
+          "published" : [ "2007-05-29T17:48:27+00:00" ],
+          "uid" : [ "tag:twitter.com:liggitt" ],
+          "url" : [ "https://twitter.com/liggitt" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I have prayed for this for so long, it's hard to believe Roe was finally overturned. This should spur on our efforts to support and care for women and families tempted to see abortion as their best or only option, to point them to the truth." ],
+      "published" : [ "2022-06-25T16:43:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1540737518303207424" ],
+      "url" : [ "https://twitter.com/liggitt/status/1540737518303207424" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "nyc" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tierney cyren" ],
+        "nickname" : [ "bitandbang" ],
+        "numeric-id" : [ "622960227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1517668176431132673/KXQdgb9H.jpg" ],
+        "published" : [ "2012-06-30T14:57:31+00:00" ],
+        "uid" : [ "tag:twitter.com:bitandbang" ],
+        "url" : [ "https://twitter.com/bitandbang", "https://bnb.im/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">wow this seems like an amazing example of \"inclusive rather than exclusive\" from someone in <a href=\"https://twitter.com/kubernetesio\">@kubernetesio</a>.\n\ndefinitely creating a psychologically safe and inclusive environment for women and other marginalized folks. </div>",
+      "value" : "wow this seems like an amazing example of \"inclusive rather than exclusive\" from someone in @kubernetesio.\n\ndefinitely creating a psychologically safe and inclusive environment for women and other marginalized folks. "
+    } ],
+    "photo" : [ {
+      "alt" : "Inclusive is better than exclusive \nBroadly successful and useful technologies require different perspectives and skill sets, which can only be heard in a welcoming and respectful environment. Community membership is a privilege, not a right. Community members earn leadership through effort, scope, quality, quantity, and duration of contributions. Our community respects the time and effort put into a discussion, regardless of where a contributor is on their growth path.",
+      "value" : "https://pbs.twimg.com/media/FWKF5noXoAA1AiJ.jpg"
+    } ],
+    "published" : [ "2022-06-26T06:17:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1540942337328783360" ],
+    "url" : [ "https://twitter.com/bitandbang/status/1540942337328783360" ]
+  },
+  "type" : [ "h-entry" ]
+}
