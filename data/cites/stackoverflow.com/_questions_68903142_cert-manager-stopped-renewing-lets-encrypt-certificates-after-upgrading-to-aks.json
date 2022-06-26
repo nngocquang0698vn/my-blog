@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Cert-manager stopped renewing Let'S Encrypt certificates after upgrading to AKS 1.20.7" ],
+    "summary" : [ "Our AKS cluster was configured to auto-renew Let's Encrypt certificates through Ingress Cert-Manager annotation and this worked perfectly until we upgraded to AKS 1.20.7. This then stopped working ..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/68903142/cert-manager-stopped-renewing-lets-encrypt-certificates-after-upgrading-to-aks" ]
+  }
+}
