@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Terence Eden" ],
+          "nickname" : [ "edent" ],
+          "numeric-id" : [ "14054507" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+          "published" : [ "2008-02-28T13:10:25+00:00" ],
+          "uid" : [ "tag:twitter.com:edent" ],
+          "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Hey gang,\nWe've now published the *full* git commit history for the NHSX Isle of Wight beta apps.\n🤖 <a href=\"https://github.com/nhsx/COVID-19-app-Android-BETA\">github.com/nhsx/COVID-19-…</a>\n🍏 <a href=\"https://github.com/nhsx/COVID-19-app-iOS-BETA\">github.com/nhsx/COVID-19-…</a>\nTook a bit longer than expected, but glad we got there. Much more to come, I hope.</div>",
+        "value" : "Hey gang,\nWe've now published the *full* git commit history for the NHSX Isle of Wight beta apps.\n🤖 github.com/nhsx/COVID-19-…\n🍏 github.com/nhsx/COVID-19-…\nTook a bit longer than expected, but glad we got there. Much more to come, I hope."
+      } ],
+      "photo" : [ {
+        "alt" : "Thousands of commits to iOS. ",
+        "value" : "https://pbs.twimg.com/media/Ebbyh3DX0AIEY8q.png"
+      }, {
+        "alt" : "Thousands of commits to Android. ",
+        "value" : "https://pbs.twimg.com/media/EbbyiFaWoAAZq2G.png"
+      } ],
+      "published" : [ "2020-06-26T11:15:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1276474216729194497" ],
+      "url" : [ "https://twitter.com/edent/status/1276474216729194497" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Two years ago today…!\nI'm no longer there, but the code for the main app is *still* being updated.\nDon't let anyone in Government tell you that coding in the open isn't important, or that it is impossible.</div>",
+      "value" : "Two years ago today…!\nI'm no longer there, but the code for the main app is *still* being updated.\nDon't let anyone in Government tell you that coding in the open isn't important, or that it is impossible."
+    } ],
+    "published" : [ "2022-06-26T06:01:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1540938309836341250" ],
+    "url" : [ "https://twitter.com/edent/status/1540938309836341250" ]
+  },
+  "type" : [ "h-entry" ]
+}
