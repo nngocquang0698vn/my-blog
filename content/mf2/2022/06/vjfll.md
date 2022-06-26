@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sil/status/1541127949797281795" ],
     "name" : [ "Like of @sil's tweet" ],
     "published" : [ "2022-06-26T22:12:00+0100" ],
     "like-of" : [ "https://twitter.com/sil/status/1541127949797281795" ],
