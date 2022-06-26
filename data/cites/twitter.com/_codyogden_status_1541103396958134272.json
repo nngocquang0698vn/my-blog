@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cody Ogden" ],
+        "nickname" : [ "codyogden" ],
+        "numeric-id" : [ "15080082" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480727306679328768/NGzHFIE6.jpg" ],
+        "published" : [ "2008-06-11T01:28:13+00:00" ],
+        "uid" : [ "tag:twitter.com:codyogden" ],
+        "url" : [ "https://twitter.com/codyogden", "https://codyogden.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Happy Pride! 🏳️‍🌈" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Loring Park" ],
+        "uid" : [ "tag:twitter.com:07d9db0e69085003" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ {
+      "alt" : "Photo of Cody Ogden wearing a Pride-themed shirt sleeve button down shirt showing the many colors of the Pride flag in a mixed plaid.",
+      "value" : "https://pbs.twimg.com/media/FWMZXjMWYAA3LXH.jpg"
+    } ],
+    "published" : [ "2022-06-26T16:57:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1541103396958134272" ],
+    "url" : [ "https://twitter.com/codyogden/status/1541103396958134272" ]
+  },
+  "type" : [ "h-entry" ]
+}
