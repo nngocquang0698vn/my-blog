@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "BWI-SFO-SEA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🇺🇦 p🍐ris 🇺🇦" ],
+        "nickname" : [ "ParisInBmore" ],
+        "numeric-id" : [ "81538231" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1467005798979047427/aK2nRAlg.jpg" ],
+        "published" : [ "2009-10-11T07:04:29+00:00" ],
+        "uid" : [ "tag:twitter.com:ParisInBmore" ],
+        "url" : [ "https://twitter.com/ParisInBmore" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I’m always so thankful that the folks who started the kubernetes community didn’t go with the BDFL model. No one person speaks for us all." ],
+    "published" : [ "2022-06-26T04:13:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1540911037565702144" ],
+    "url" : [ "https://twitter.com/ParisInBmore/status/1540911037565702144" ]
+  },
+  "type" : [ "h-entry" ]
+}
