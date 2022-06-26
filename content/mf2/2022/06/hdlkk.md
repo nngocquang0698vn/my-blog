@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fathernathan/status/1540863066421731330" ],
     "name" : [ "Like of @fathernathan's tweet" ],
     "published" : [ "2022-06-26T18:41:00+0100" ],
     "like-of" : [ "https://twitter.com/fathernathan/status/1540863066421731330" ],
