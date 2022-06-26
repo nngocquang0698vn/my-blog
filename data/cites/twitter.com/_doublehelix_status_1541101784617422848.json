@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "following you, but not on twitter" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "CHOAM Nomsky" ],
+          "nickname" : [ "samthielman" ],
+          "numeric-id" : [ "17220917" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1495090372468527120/TEXULmur.jpg" ],
+          "published" : [ "2008-11-06T22:20:23+00:00" ],
+          "uid" : [ "tag:twitter.com:samthielman" ],
+          "url" : [ "https://twitter.com/samthielman", "http://samthielman.com", "http://foreverwars.substack.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This is an elephant fetus." ],
+      "in-reply-to" : [ "https://twitter.com/samthielman/status/1540706180464517121" ],
+      "photo" : [ "https://pbs.twimg.com/media/FWHxOkBUsAILnrx.jpg" ],
+      "published" : [ "2022-06-25T19:23:44+00:00" ],
+      "uid" : [ "tag:twitter.com:1540777784435298308" ],
+      "url" : [ "https://twitter.com/samthielman/status/1540777784435298308" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Allsopp" ],
+        "nickname" : [ "doublehelix" ],
+        "numeric-id" : [ "5862962" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/535556057779556352/9gDoIDIZ.jpeg" ],
+        "published" : [ "2007-05-08T13:24:44+00:00" ],
+        "uid" : [ "tag:twitter.com:doublehelix" ],
+        "url" : [ "https://twitter.com/doublehelix" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Matt WaIsh deleted his tweet. \n\nI guess he doesn't want to discuss the elephant in the womb.</div>",
+      "value" : "Matt WaIsh deleted his tweet. \n\nI guess he doesn't want to discuss the elephant in the womb."
+    } ],
+    "published" : [ "2022-06-26T16:51:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1541101784617422848" ],
+    "url" : [ "https://twitter.com/doublehelix/status/1541101784617422848" ]
+  },
+  "type" : [ "h-entry" ]
+}
