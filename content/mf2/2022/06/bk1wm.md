@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GrahamB47/status/1540054585431101440" ],
     "name" : [ "Like of @GrahamB47's tweet" ],
     "published" : [ "2022-06-26T09:28:00+0100" ],
     "like-of" : [ "https://twitter.com/GrahamB47/status/1540054585431101440" ],
