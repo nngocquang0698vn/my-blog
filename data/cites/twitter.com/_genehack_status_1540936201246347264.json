@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Central West NSW, Australia." ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Dana Sibera" ],
+          "nickname" : [ "NanoRaptor" ],
+          "numeric-id" : [ "2312854706" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1459644799133241344/WGhSm2Yt.jpg" ],
+          "published" : [ "2014-01-27T02:23:00+00:00" ],
+          "uid" : [ "tag:twitter.com:NanoRaptor" ],
+          "url" : [ "https://twitter.com/NanoRaptor", "http://irc.slashnet.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Gender keypad implies gender strings  which imply gender regular expressions." ],
+      "in-reply-to" : [ "https://twitter.com/NanoRaptor/status/1540910916795244549" ],
+      "published" : [ "2022-06-26T05:32:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1540930976775172096" ],
+      "url" : [ "https://twitter.com/NanoRaptor/status/1540930976775172096" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Salem, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "genehack" ],
+        "nickname" : [ "genehack" ],
+        "numeric-id" : [ "753743" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1512670162717376516/g9VRQYB6.jpg" ],
+        "published" : [ "2007-02-04T03:37:51+00:00" ],
+        "uid" : [ "tag:twitter.com:genehack" ],
+        "url" : [ "https://twitter.com/genehack", "https://genehack.org", "http://genehack.blog", "http://covid.house", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Gender regular expressions is a great big giant <a href=\"https://twitter.com/search?q=%23Perl\">#Perl</a> feel.",
+      "value" : "Gender regular expressions is a great big giant #Perl feel."
+    } ],
+    "published" : [ "2022-06-26T05:53:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1540936201246347264" ],
+    "url" : [ "https://twitter.com/genehack/status/1540936201246347264" ]
+  },
+  "type" : [ "h-entry" ]
+}
