@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Around the world" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Reuters" ],
+          "nickname" : [ "Reuters" ],
+          "numeric-id" : [ "1652541" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa.jpg" ],
+          "published" : [ "2007-03-20T17:46:05+00:00" ],
+          "uid" : [ "tag:twitter.com:Reuters" ],
+          "url" : [ "https://twitter.com/Reuters", "http://www.reuters.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "John McAfee's corpse still in Spanish morgue a year after his death <a href=\"http://reut.rs/3ycibd4\">reut.rs/3ycibd4</a>",
+        "value" : "John McAfee's corpse still in Spanish morgue a year after his death reut.rs/3ycibd4"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FV8FKA0WQAAn9YZ.jpg" ],
+      "published" : [ "2022-06-23T12:55:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1539955269161156610" ],
+      "url" : [ "https://twitter.com/Reuters/status/1539955269161156610" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "graham" ],
+        "nickname" : [ "GrahamB47" ],
+        "numeric-id" : [ "758929935104737280" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1487928104332849155/ULznE21s.jpg" ],
+        "published" : [ "2016-07-29T07:39:31+00:00" ],
+        "uid" : [ "tag:twitter.com:GrahamB47" ],
+        "url" : [ "https://twitter.com/GrahamB47" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "the morgue gets a pop up every day that its mcafee is expired" ],
+    "published" : [ "2022-06-23T19:30:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1540054585431101440" ],
+    "url" : [ "https://twitter.com/GrahamB47/status/1540054585431101440" ]
+  },
+  "type" : [ "h-entry" ]
+}
