@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thee_gabster/status/1540922500913123331" ],
     "name" : [ "Like of @thee_gabster's tweet" ],
     "published" : [ "2022-06-26T22:19:00+0100" ],
     "like-of" : [ "https://twitter.com/thee_gabster/status/1540922500913123331" ],
