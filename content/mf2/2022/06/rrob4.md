@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nhripps/status/1540743958497611776" ],
     "name" : [ "Like of @nhripps's tweet" ],
     "published" : [ "2022-06-26T07:29:00+0100" ],
     "like-of" : [ "https://twitter.com/nhripps/status/1540743958497611776" ],
