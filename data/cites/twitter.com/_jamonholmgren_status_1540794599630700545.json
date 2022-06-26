@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vancouver, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamon" ],
+        "nickname" : [ "jamonholmgren" ],
+        "numeric-id" : [ "30273948" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1514628527596838914/csOZadQU.jpg" ],
+        "published" : [ "2009-04-10T18:09:08+00:00" ],
+        "uid" : [ "tag:twitter.com:jamonholmgren" ],
+        "url" : [ "https://twitter.com/jamonholmgren", "https://jamonholmgren.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How some developers think “separation of concerns” works. " ],
+    "published" : [ "2022-06-25T20:30:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1540794599630700545" ],
+    "url" : [ "https://twitter.com/jamonholmgren/status/1540794599630700545" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1540748479307206658/pu/vid/960x540/EcDT01n2sup5Tzg1.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
