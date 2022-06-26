@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ariannahuff/status/1540366118866587648" ],
     "name" : [ "Like of @ariannahuff's tweet" ],
     "published" : [ "2022-06-26T10:32:00+0100" ],
     "like-of" : [ "https://twitter.com/ariannahuff/status/1540366118866587648" ],
