@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1525554027378925569/mn5TlOFG.jpg" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://daybridge.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Can you even call yourself a “full stack software engineer” if you’re not at the piano recording notification sounds for your product yourself?" ],
+    "photo" : [ "https://pbs.twimg.com/media/FWLOaZtXoAIwVVh.jpg" ],
+    "published" : [ "2022-06-26T11:30:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1541020979635396608" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1541020979635396608" ]
+  },
+  "type" : [ "h-entry" ]
+}
