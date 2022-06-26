@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Princeton, NJ" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Arvind Narayanan" ],
+        "nickname" : [ "random_walker" ],
+        "numeric-id" : [ "10834752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1080225396422070273/IbPxWKb3.jpg" ],
+        "published" : [ "2007-12-04T11:14:14+00:00" ],
+        "uid" : [ "tag:twitter.com:random_walker" ],
+        "url" : [ "https://twitter.com/random_walker", "https://www.cs.princeton.edu/~arvindn/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I mis-clicked on one of my 150 open tabs and it happened to be a tab that's been open since 2019 with a paper that has a solution to the exact research problem I've been puzzling over today. This is the moment I've been waiting for and I've decided to never close any tabs again" ],
+    "published" : [ "2022-05-30T22:44:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1531406325787160577" ],
+    "url" : [ "https://twitter.com/random_walker/status/1531406325787160577" ]
+  },
+  "type" : [ "h-entry" ]
+}
