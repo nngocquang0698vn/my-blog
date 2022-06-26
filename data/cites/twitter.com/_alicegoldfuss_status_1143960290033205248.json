@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "/usr/local/sin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "bletchley punk" ],
+        "nickname" : [ "alicegoldfuss" ],
+        "numeric-id" : [ "163154809" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+        "published" : [ "2010-07-05T17:51:34+00:00" ],
+        "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+        "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Maybe we should stop calling them CTFs and start calling them \"computer escape rooms\" so people stop self-selecting out of them" ],
+    "published" : [ "2019-06-26T19:12:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1143960290033205248" ],
+    "url" : [ "https://twitter.com/alicegoldfuss/status/1143960290033205248" ]
+  },
+  "type" : [ "h-entry" ]
+}
