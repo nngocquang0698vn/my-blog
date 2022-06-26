@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/kevinhwang91/nvim-ufo/stargazers" ],
     "name" : [ "kevinhwang91/nvim-ufo: Not UFO in the sky, but an ultra fold in Neovim." ],
     "published" : [ "2022-06-26T08:54:00+0100" ],
     "category" : [ "neovim" ],
