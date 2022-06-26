@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexandra Haddow" ],
+        "nickname" : [ "MissAHaddow" ],
+        "numeric-id" : [ "172497818" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1164144412622053376/PVJ2jnbx.jpg" ],
+        "published" : [ "2010-07-29T21:27:23+00:00" ],
+        "uid" : [ "tag:twitter.com:MissAHaddow" ],
+        "url" : [ "https://twitter.com/MissAHaddow", "http://instagram.com/alexandrahaddow" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Paul McCartney is a great advert for vegetarianism, look at him, 80! John Lennon never embraced it and he didn’t live half as long. Makes you think" ],
+    "published" : [ "2022-06-25T22:00:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1540817182006837248" ],
+    "url" : [ "https://twitter.com/MissAHaddow/status/1540817182006837248" ]
+  },
+  "type" : [ "h-entry" ]
+}
