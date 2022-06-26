@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/sethvargo/ratchet/stargazers" ],
     "name" : [ "sethvargo/ratchet: A tool for securing CI/CD workflows with version pinning." ],
     "published" : [ "2022-06-26T12:06:00+0100" ],
     "category" : [ "security", "ci", "cicd" ],
