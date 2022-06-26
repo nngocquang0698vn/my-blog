@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "/usr/local/sin" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "bletchley punk" ],
+          "nickname" : [ "alicegoldfuss" ],
+          "numeric-id" : [ "163154809" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1149452202827759616/1blf87Kn.jpg" ],
+          "published" : [ "2010-07-05T17:51:34+00:00" ],
+          "uid" : [ "tag:twitter.com:alicegoldfuss" ],
+          "url" : [ "https://twitter.com/alicegoldfuss", "http://blog.alicegoldfuss.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Maybe we should stop calling them CTFs and start calling them \"computer escape rooms\" so people stop self-selecting out of them" ],
+      "published" : [ "2019-06-26T19:12:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1143960290033205248" ],
+      "url" : [ "https://twitter.com/alicegoldfuss/status/1143960290033205248" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "True. I always associate Capture The Flag with stupid shooting games. Escape rooms is a much more apt description." ],
+    "published" : [ "2019-06-26T20:22:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1143977745636044803" ],
+    "url" : [ "https://twitter.com/edent/status/1143977745636044803" ]
+  },
+  "type" : [ "h-entry" ]
+}
