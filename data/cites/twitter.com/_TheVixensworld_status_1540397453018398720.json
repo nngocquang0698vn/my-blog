@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "The Vixen" ],
+        "nickname" : [ "TheVixensworld" ],
+        "numeric-id" : [ "112336688" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538244694743736320/UyL6MILI.jpg" ],
+        "published" : [ "2010-02-08T03:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:TheVixensworld" ],
+        "url" : [ "https://twitter.com/TheVixensworld", "https://linktr.ee/thevixensworld" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "And I'll say it again 👇🏾" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Seattle, WA" ],
+        "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FWCXT5DUUAAn10A.jpg" ],
+    "published" : [ "2022-06-24T18:12:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1540397453018398720" ],
+    "url" : [ "https://twitter.com/TheVixensworld/status/1540397453018398720" ]
+  },
+  "type" : [ "h-entry" ]
+}
