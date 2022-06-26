@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The moon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kristi" ],
+        "nickname" : [ "KristiG917" ],
+        "numeric-id" : [ "19243152" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1185685508/49231_71001099_438465_q.jpg" ],
+        "published" : [ "2009-01-20T16:23:35+00:00" ],
+        "uid" : [ "tag:twitter.com:KristiG917" ],
+        "url" : [ "https://twitter.com/KristiG917" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Woo. That’s an excellent example of missing the point.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/fathernathan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/korporateface\"></a>",
+      "value" : "Woo. That’s an excellent example of missing the point."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/korporateface/status/1541097880764780545" ],
+    "published" : [ "2022-06-26T16:39:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1541098946692530176" ],
+    "url" : [ "https://twitter.com/KristiG917/status/1541098946692530176" ]
+  },
+  "type" : [ "h-entry" ]
+}
