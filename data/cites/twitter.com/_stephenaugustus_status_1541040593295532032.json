@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stephen Augustus (he/him)" ],
+        "nickname" : [ "stephenaugustus" ],
+        "numeric-id" : [ "21621562" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1527451540528717829/gT4YK8aS.jpg" ],
+        "published" : [ "2009-02-23T01:56:07+00:00" ],
+        "uid" : [ "tag:twitter.com:stephenaugustus" ],
+        "url" : [ "https://twitter.com/stephenaugustus", "https://whois.auggie.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">An important note\n(with the disclaimer that this itself is an individual reflection):\n\nIndividual members of the <a href=\"https://twitter.com/kubernetesio\">@kubernetesio</a> Steering Committee DO NOT speak for the committee or the community at large.</div>",
+      "value" : "An important note\n(with the disclaimer that this itself is an individual reflection):\n\nIndividual members of the @kubernetesio Steering Committee DO NOT speak for the committee or the community at large."
+    } ],
+    "published" : [ "2022-06-26T12:48:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1541040593295532032" ],
+    "url" : [ "https://twitter.com/stephenaugustus/status/1541040593295532032" ]
+  },
+  "type" : [ "h-entry" ]
+}
