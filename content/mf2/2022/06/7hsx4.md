@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/doublehelix/status/1541101784617422848" ],
     "name" : [ "Like of @doublehelix's tweet" ],
     "published" : [ "2022-06-26T19:59:00+0100" ],
     "like-of" : [ "https://twitter.com/doublehelix/status/1541101784617422848" ],
