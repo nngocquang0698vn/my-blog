@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/imshanereaction/status/1540806022482210816" ],
     "name" : [ "Like of @imshanereaction's tweet" ],
     "published" : [ "2022-06-26T14:08:00+0100" ],
     "like-of" : [ "https://twitter.com/imshanereaction/status/1540806022482210816" ],
