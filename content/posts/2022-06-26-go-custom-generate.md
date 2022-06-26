@@ -1,9 +1,10 @@
 ---
 title: "Automating boilerplate/scaffolding code with custom code generation in Go"
-description: "How to use Go's code generation tooling to add custom code generation to your project."
-date: 2022-06-26T08:39:28+0100
+description: "How to use Go's code generation tooling to add custom code generation\
+  \ to your project."
+date: "2022-06-26T08:39:28+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1540965219270381570"
 tags:
 - "blogumentation"
 - "go"
