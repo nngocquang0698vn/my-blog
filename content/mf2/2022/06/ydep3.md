@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nachtfunke/status/1540785903777378304" ],
     "name" : [ "Like of @nachtfunke's tweet" ],
     "published" : [ "2022-06-25T21:00:00+0100" ],
     "like-of" : [ "https://twitter.com/nachtfunke/status/1540785903777378304" ],
