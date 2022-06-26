@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ballistari/status/1540344418108116995" ],
     "name" : [ "Like of @Ballistari's tweet" ],
     "published" : [ "2022-06-26T07:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Ballistari/status/1540344418108116995" ],
