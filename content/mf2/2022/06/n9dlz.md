@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swearyanthony/status/1541348093400350721" ],
     "name" : [ "Like of @swearyanthony's tweet" ],
     "published" : [ "2022-06-27T14:19:00+0100" ],
     "like-of" : [ "https://twitter.com/swearyanthony/status/1541348093400350721" ],
