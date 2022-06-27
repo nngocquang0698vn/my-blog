@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Dr. M.F. Khan" ],
+          "nickname" : [ "Dr_TheHistories" ],
+          "numeric-id" : [ "1464160197828657153" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1486051209572061185/JhVPRW1c.jpg" ],
+          "published" : [ "2021-11-26T09:13:07+00:00" ],
+          "uid" : [ "tag:twitter.com:Dr_TheHistories" ],
+          "url" : [ "https://twitter.com/Dr_TheHistories" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "This weird engine is 18th Century CE; It allowed researchers to work efficiently with up to 8 open books at the same time." ],
+      "photo" : [ "https://pbs.twimg.com/media/FWN_lu2agAA6TeN.jpg" ],
+      "published" : [ "2022-06-27T00:24:14+00:00" ],
+      "uid" : [ "tag:twitter.com:1541215794029158400" ],
+      "url" : [ "https://twitter.com/Dr_TheHistories/status/1541215794029158400" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington and elsewhere." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matt blaze" ],
+        "nickname" : [ "mattblaze" ],
+        "numeric-id" : [ "26567591" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1146982498125193216/IiIjunPd.jpg" ],
+        "published" : [ "2009-03-25T19:18:25+00:00" ],
+        "uid" : [ "tag:twitter.com:mattblaze" ],
+        "url" : [ "https://twitter.com/mattblaze", "http://www.mattblaze.org/blog/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How on earth did 18th C researchers accomplish anything limited to only 8 open tabs?" ],
+    "published" : [ "2022-06-27T01:06:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1541226376954519557" ],
+    "url" : [ "https://twitter.com/mattblaze/status/1541226376954519557" ]
+  },
+  "type" : [ "h-entry" ]
+}
