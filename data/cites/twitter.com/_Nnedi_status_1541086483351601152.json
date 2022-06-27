@@ -1,0 +1,38 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oomza University" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nnedi Okorafor, PhD" ],
+        "nickname" : [ "Nnedi" ],
+        "numeric-id" : [ "16504257" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1458606568186920962/7S45wxH3.jpg" ],
+        "published" : [ "2008-09-28T23:37:59+00:00" ],
+        "uid" : [ "tag:twitter.com:Nnedi" ],
+        "url" : [ "https://twitter.com/Nnedi", "http://nnedi.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It’s this simple.\nIt’s not a discussion.</div>",
+      "value" : "It’s this simple.\nIt’s not a discussion."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Phoenix, AZ" ],
+        "uid" : [ "tag:twitter.com:5c62ffb0f0f3479d" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FWMJ_QdUsAEASc-.jpg" ],
+    "published" : [ "2022-06-26T15:50:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1541086483351601152" ],
+    "url" : [ "https://twitter.com/Nnedi/status/1541086483351601152" ]
+  },
+  "type" : [ "h-entry" ]
+}
