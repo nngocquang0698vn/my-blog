@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gothardwrites/status/1541391677092511744" ],
     "name" : [ "Like of @gothardwrites's tweet" ],
     "published" : [ "2022-06-27T15:10:00+0100" ],
     "like-of" : [ "https://twitter.com/gothardwrites/status/1541391677092511744" ],
