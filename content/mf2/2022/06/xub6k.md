@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ckarion/status/1541175566166097920" ],
     "name" : [ "Like of @Ckarion's tweet" ],
     "published" : [ "2022-06-27T12:32:00+0100" ],
     "like-of" : [ "https://twitter.com/Ckarion/status/1541175566166097920" ],
