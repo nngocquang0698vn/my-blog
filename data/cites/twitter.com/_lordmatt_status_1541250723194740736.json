@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Thanet, Kent, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew D. Brown 🔶🤎🇺🇦" ],
+        "nickname" : [ "lordmatt" ],
+        "numeric-id" : [ "5805622" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/746423525506846720/3Ml3rCNq.jpg" ],
+        "published" : [ "2007-05-06T10:42:35+00:00" ],
+        "uid" : [ "tag:twitter.com:lordmatt" ],
+        "url" : [ "https://twitter.com/lordmatt", "https://lordmatt.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I've got two replies on <a href=\"http://brid.gy\">brid.gy</a> that are marked as failed. What do I need to look at on my end to get those to arrive? <a href=\"https://twitter.com/search?q=%23Indieweb\">#Indieweb</a> <a href=\"https://twitter.com/search?q=%23webmentions\">#webmentions</a>",
+      "value" : "I've got two replies on brid.gy that are marked as failed. What do I need to look at on my end to get those to arrive? #Indieweb #webmentions"
+    } ],
+    "published" : [ "2022-06-27T02:43:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1541250723194740736" ],
+    "url" : [ "https://twitter.com/lordmatt/status/1541250723194740736" ]
+  },
+  "type" : [ "h-entry" ]
+}
