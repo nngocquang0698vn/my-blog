@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Nnedi/status/1541086483351601152" ],
     "name" : [ "Like of @Nnedi's tweet" ],
     "published" : [ "2022-06-27T12:31:00+0100" ],
     "like-of" : [ "https://twitter.com/Nnedi/status/1541086483351601152" ],
