@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrandonDunne3/status/1540411536698511361" ],
     "name" : [ "Like of @BrandonDunne3's tweet" ],
     "published" : [ "2022-06-27T21:37:00+0100" ],
     "like-of" : [ "https://twitter.com/BrandonDunne3/status/1540411536698511361" ],
