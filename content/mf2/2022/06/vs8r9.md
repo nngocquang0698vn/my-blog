@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/womanontherun/status/1540835583265742848" ],
     "name" : [ "Like of @womanontherun's tweet" ],
     "published" : [ "2022-06-27T19:08:00+0100" ],
     "like-of" : [ "https://twitter.com/womanontherun/status/1540835583265742848" ],
