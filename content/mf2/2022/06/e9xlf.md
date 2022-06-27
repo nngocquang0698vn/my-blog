@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/agile_memes/status/1541369633550151680" ],
     "name" : [ "Like of @agile_memes's tweet" ],
     "published" : [ "2022-06-27T21:36:00+0100" ],
     "category" : [ "agile" ],
