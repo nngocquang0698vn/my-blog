@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "How to fix parsing go.mod module declares its path as \"x\" but was required as \"y\"" ],
+    "summary" : [ "I am working on a go project, which has a dependency on original-project. I now want to change the behavior in this project by modifying original-project. So I cloned github.com/y/original-project to " ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/61311436/how-to-fix-parsing-go-mod-module-declares-its-path-as-x-but-was-required-as-y" ]
+  }
+}
