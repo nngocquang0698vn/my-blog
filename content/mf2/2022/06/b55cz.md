@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SandyFrizzle/status/1541399411703660544" ],
     "name" : [ "Like of @SandyFrizzle's tweet" ],
     "published" : [ "2022-06-27T17:13:00+0100" ],
     "like-of" : [ "https://twitter.com/SandyFrizzle/status/1541399411703660544" ],
