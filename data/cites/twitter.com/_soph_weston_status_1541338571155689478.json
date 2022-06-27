@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "York, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sophie Weston" ],
+        "nickname" : [ "soph_weston" ],
+        "numeric-id" : [ "829583627881168896" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1183020698853355525/if78tr3t.jpg" ],
+        "published" : [ "2017-02-09T06:52:04+00:00" ],
+        "uid" : [ "tag:twitter.com:soph_weston" ],
+        "url" : [ "https://twitter.com/soph_weston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just used a vim macro for the first time in a loooong time! Feeling like a proper techie for once. 🤓" ],
+    "published" : [ "2022-06-27T08:32:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1541338571155689478" ],
+    "url" : [ "https://twitter.com/soph_weston/status/1541338571155689478" ]
+  },
+  "type" : [ "h-entry" ]
+}
