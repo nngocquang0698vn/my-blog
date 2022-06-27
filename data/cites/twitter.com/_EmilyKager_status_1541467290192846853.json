@@ -1,0 +1,40 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily Kager" ],
+        "nickname" : [ "EmilyKager" ],
+        "numeric-id" : [ "2347475803" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440383938426327042/98GiEsMu.jpg" ],
+        "published" : [ "2014-02-16T21:34:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyKager" ],
+        "url" : [ "https://twitter.com/EmilyKager", "https://linktr.ee/ekager" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Got married this weekend and it was perfect 💍👰‍♀️🤵‍♂️❤️" ],
+    "photo" : [ {
+      "alt" : "My husband and I taking a photo in a different direction",
+      "value" : "https://pbs.twimg.com/media/FWRkUloVsAAOjQe.jpg"
+    }, {
+      "alt" : "A bouquet of wildflowers as a centerpiece",
+      "value" : "https://pbs.twimg.com/media/FWRkUluUcAAiHgJ.jpg"
+    }, {
+      "alt" : "Me standing in a doorway to a cabin laughing",
+      "value" : "https://pbs.twimg.com/media/FWRkUyhUsAAyOOg.jpg"
+    }, {
+      "alt" : "My husband and I standing at dinner to give a speech",
+      "value" : "https://pbs.twimg.com/media/FWRkUyeUIAAZ9G6.jpg"
+    } ],
+    "published" : [ "2022-06-27T17:03:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1541467290192846853" ],
+    "url" : [ "https://twitter.com/EmilyKager/status/1541467290192846853" ]
+  },
+  "type" : [ "h-entry" ]
+}
