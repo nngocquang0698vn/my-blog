@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lindseybieda/status/1541294844768686080" ],
     "name" : [ "Like of @lindseybieda's tweet" ],
     "published" : [ "2022-06-27T07:56:00+0100" ],
     "like-of" : [ "https://twitter.com/lindseybieda/status/1541294844768686080" ],
