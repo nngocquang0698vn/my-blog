@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe Zieja" ],
+        "nickname" : [ "JoeZieja" ],
+        "numeric-id" : [ "627929452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1263883541135233024/e459MWe-.jpg" ],
+        "published" : [ "2012-07-06T01:40:16+00:00" ],
+        "uid" : [ "tag:twitter.com:JoeZieja" ],
+        "url" : [ "https://twitter.com/JoeZieja", "https://linktr.ee/joezieja" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "what it feels like to be on social media right now" ],
+    "published" : [ "2022-06-27T04:22:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1541275860786810880" ],
+    "url" : [ "https://twitter.com/JoeZieja/status/1541275860786810880" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1541275616653152257/pu/vid/720x1280/V0MfzM1-RG5U6r2i.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
