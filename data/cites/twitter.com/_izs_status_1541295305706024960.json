@@ -1,0 +1,63 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NYC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Suzanne" ],
+          "nickname" : [ "SJohnsdottire" ],
+          "numeric-id" : [ "913090672839847936" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1490162485923651584/fhdSXmU-.jpg" ],
+          "published" : [ "2017-09-27T17:19:15+00:00" ],
+          "uid" : [ "tag:twitter.com:SJohnsdottire" ],
+          "url" : [ "https://twitter.com/SJohnsdottire" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Pro-lifers don't like complexity. At 17 weeks my placenta detached and he was much too small. I thought I felt my baby's frantic attempts to breathe. My OBGYN advised me to terminate the pregnancy, there wasn't much time. But I couldn't." ],
+      "published" : [ "2022-06-25T20:42:32+00:00" ],
+      "uid" : [ "tag:twitter.com:1540797614945439744" ],
+      "url" : [ "https://twitter.com/SJohnsdottire/status/1540797614945439744" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/sjohnsdottire/…" ],
+      "url" : [ "https://twitter.com/sjohnsdottire/status/1540797614945439744" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "isaacs" ],
+        "nickname" : [ "izs" ],
+        "numeric-id" : [ "8038312" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1279598505078611968/XxNORXPs.jpg" ],
+        "published" : [ "2007-08-07T20:44:59+00:00" ],
+        "uid" : [ "tag:twitter.com:izs" ],
+        "url" : [ "https://twitter.com/izs", "https://izs.me", "http://keybase.io/isaacs/chat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Holy wow, this thread. Oof.\n<a class=\"tag\" href=\"https://twitter.com/sjohnsdottire/status/1540797614945439744\">twitter.com/sjohnsdottire/…</a>",
+      "value" : "Holy wow, this thread. Oof."
+    } ],
+    "published" : [ "2022-06-27T05:40:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1541295305706024960" ],
+    "url" : [ "https://twitter.com/izs/status/1541295305706024960" ]
+  },
+  "type" : [ "h-entry" ]
+}
