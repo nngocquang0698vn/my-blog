@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaicesd/status/1541181055566131200" ],
     "name" : [ "Like of @jaicesd's tweet" ],
     "published" : [ "2022-06-28T08:08:00+0100" ],
     "like-of" : [ "https://twitter.com/jaicesd/status/1541181055566131200" ],
