@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ahmedhankir/status/1541401439725309952" ],
     "name" : [ "Like of @ahmedhankir's tweet" ],
     "published" : [ "2022-06-28T12:13:00+0100" ],
     "like-of" : [ "https://twitter.com/ahmedhankir/status/1541401439725309952" ],
