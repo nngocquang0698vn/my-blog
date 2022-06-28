@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Go: Tracing HTTP requests" ],
+    "summary" : [ "The HTTP protocol is fast, secure, and reliable. However, it needs other protocols and services to work properly, and when things don’t go well it is necessary to have access to detailed information about the time spent in each step.\nThe steps to make an HTTP call are as follows:\n DNS Lookup  The client sends a DNS query to the DNS server. The DNS server responds with the IP for the name." ],
+    "url" : [ "https://hi.thiagonbcarvalho.com/en/posts/httptrace/" ],
+    "published" : [ "2022-06-06T07:07:15-03:00" ]
+  }
+}
