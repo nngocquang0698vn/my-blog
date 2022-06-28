@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, DE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Charlie Don't Surf" ],
+        "nickname" : [ "whalecoiner" ],
+        "numeric-id" : [ "160687830" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1535268946018029570/2m_PaXGL.jpg" ],
+        "published" : [ "2010-06-28T21:49:23+00:00" ],
+        "uid" : [ "tag:twitter.com:whalecoiner" ],
+        "url" : [ "https://twitter.com/whalecoiner" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Try not going to events when you have symptoms, eh?" ],
+    "in-reply-to" : [ "https://twitter.com/whalecoiner/status/1541754607919046656" ],
+    "published" : [ "2022-06-28T12:05:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1541754768053485569" ],
+    "url" : [ "https://twitter.com/whalecoiner/status/1541754768053485569" ]
+  },
+  "type" : [ "h-entry" ]
+}
