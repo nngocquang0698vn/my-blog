@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🌎 " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lake Superior" ],
+        "nickname" : [ "LakeSuperior" ],
+        "numeric-id" : [ "25236245" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411302686595690498/D5Ar3-2c.jpg" ],
+        "published" : [ "2009-03-19T04:17:38+00:00" ],
+        "uid" : [ "tag:twitter.com:LakeSuperior" ],
+        "url" : [ "https://twitter.com/LakeSuperior", "https://en.m.wikipedia.org/wiki/Lake_Superior" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This lake vehemently stands with women having the right to choose." ],
+    "published" : [ "2022-06-24T16:56:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1540378352724344833" ],
+    "url" : [ "https://twitter.com/LakeSuperior/status/1540378352724344833" ]
+  },
+  "type" : [ "h-entry" ]
+}
