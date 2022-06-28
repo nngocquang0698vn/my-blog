@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Heilmann" ],
+        "nickname" : [ "codepo8" ],
+        "numeric-id" : [ "13567" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268171639331737602/M7kMlBuB.jpg" ],
+        "published" : [ "2006-11-21T17:20:09+00:00" ],
+        "uid" : [ "tag:twitter.com:codepo8" ],
+        "url" : [ "https://twitter.com/codepo8", "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "That new Disney Plus Star Wars content is full of mind blowing easter eggs." ],
+    "photo" : [ {
+      "alt" : "In \"Obi-Wan Kenobi\" Obi-Wan tells Leia \"You're ten years old, but you won't always be\". This is subtle foreshadowing her appearance in Star Wars Episode IV: A New Hope in which she is above the age of ten.",
+      "value" : "https://pbs.twimg.com/media/FWXhs-QXgAE9IDR.png"
+    } ],
+    "published" : [ "2022-06-28T20:49:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1541886641224273921" ],
+    "url" : [ "https://twitter.com/codepo8/status/1541886641224273921" ]
+  },
+  "type" : [ "h-entry" ]
+}
