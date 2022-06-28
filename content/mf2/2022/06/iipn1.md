@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheOkayestLyz/status/1541439749755441152" ],
     "name" : [ "Like of @TheOkayestLyz's tweet" ],
     "published" : [ "2022-06-28T12:11:00+0100" ],
     "like-of" : [ "https://twitter.com/TheOkayestLyz/status/1541439749755441152" ],
