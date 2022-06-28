@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LakeSuperior/status/1540378352724344833" ],
     "name" : [ "Like of @LakeSuperior's tweet" ],
     "published" : [ "2022-06-28T12:10:00+0100" ],
     "like-of" : [ "https://twitter.com/LakeSuperior/status/1540378352724344833" ],
