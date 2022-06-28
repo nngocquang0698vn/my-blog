@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Adwoa_Naii/status/1541252137308545025" ],
     "name" : [ "Like of @Adwoa_Naii's tweet" ],
     "published" : [ "2022-06-28T07:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Adwoa_Naii/status/1541252137308545025" ],
