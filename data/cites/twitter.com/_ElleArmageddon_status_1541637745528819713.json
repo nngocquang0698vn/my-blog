@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Remote Nomad" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Peer Richelsen 🗓🍊" ],
+          "nickname" : [ "peer_rich" ],
+          "numeric-id" : [ "1004742187" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1514977144346415104/AYTJHNnW.jpg" ],
+          "published" : [ "2012-12-11T19:38:18+00:00" ],
+          "uid" : [ "tag:twitter.com:peer_rich" ],
+          "url" : [ "https://twitter.com/peer_rich", "https://cal.com/peer", "http://Cal.com", "http://cal.com/open" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">ok serious question, what keeps the average American (that can afford it) from moving to Europe?\n\nplease enlighten me</div>",
+        "value" : "ok serious question, what keeps the average American (that can afford it) from moving to Europe?\n\nplease enlighten me"
+      } ],
+      "published" : [ "2022-06-25T20:20:10+00:00" ],
+      "uid" : [ "tag:twitter.com:1540791985627312129" ],
+      "url" : [ "https://twitter.com/peer_rich/status/1540791985627312129" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "the apocalypse, but make it fashion. ✨" ],
+        "nickname" : [ "ElleArmageddon" ],
+        "numeric-id" : [ "385847731" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1491669526206763009/6oSONCkb.jpg" ],
+        "published" : [ "2011-10-06T07:23:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ElleArmageddon" ],
+        "url" : [ "https://twitter.com/ElleArmageddon", "http://blog.totallynotmalware.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The same problems that exist in the US also exist in Europe.\n\nI have more means to address them here than I do there.</div>",
+      "value" : "The same problems that exist in the US also exist in Europe.\n\nI have more means to address them here than I do there."
+    } ],
+    "published" : [ "2022-06-28T04:20:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1541637745528819713" ],
+    "url" : [ "https://twitter.com/ElleArmageddon/status/1541637745528819713" ]
+  },
+  "type" : [ "h-entry" ]
+}
