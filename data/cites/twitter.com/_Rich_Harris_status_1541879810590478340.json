@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Harris" ],
+        "nickname" : [ "Rich_Harris" ],
+        "numeric-id" : [ "19487837" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu.jpeg" ],
+        "published" : [ "2009-01-25T13:25:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Rich_Harris" ],
+        "url" : [ "https://twitter.com/Rich_Harris", "http://bit.ly/IqT6zt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "jesus christ brian you are intolerable. here i am trying to have a good faith conversation, answering your questions, and you literally cannot help but try and start a fight. it's pathetic. i'm out\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/brianleroux\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/remix_run\"></a>",
+      "value" : "jesus christ brian you are intolerable. here i am trying to have a good faith conversation, answering your questions, and you literally cannot help but try and start a fight. it's pathetic. i'm out"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/brianleroux/status/1541878412301574144" ],
+    "published" : [ "2022-06-28T20:22:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1541879810590478340" ],
+    "url" : [ "https://twitter.com/Rich_Harris/status/1541879810590478340" ]
+  },
+  "type" : [ "h-entry" ]
+}
