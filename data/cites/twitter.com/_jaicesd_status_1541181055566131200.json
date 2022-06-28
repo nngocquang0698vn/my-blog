@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland/Vancouver" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaice (they/them)" ],
+        "nickname" : [ "jaicesd" ],
+        "numeric-id" : [ "181421156" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1482251059066073088/B_ymneSw.jpg" ],
+        "published" : [ "2010-08-22T04:23:06+00:00" ],
+        "uid" : [ "tag:twitter.com:jaicesd" ],
+        "url" : [ "https://twitter.com/jaicesd", "http://github.com/jdumars" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I had to unfollow someone today from my <a href=\"https://twitter.com/search?q=%23Kubernetes\">#Kubernetes</a> community. \n\nIn normal circumstances this wouldn't be notable because people follow/unfollow all the time. But, this is different. Very different.</div>",
+      "value" : "I had to unfollow someone today from my #Kubernetes community. \n\nIn normal circumstances this wouldn't be notable because people follow/unfollow all the time. But, this is different. Very different."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Vancouver, WA" ],
+        "uid" : [ "tag:twitter.com:5a16f6443a850916" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-26T22:06:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1541181055566131200" ],
+    "url" : [ "https://twitter.com/jaicesd/status/1541181055566131200" ]
+  },
+  "type" : [ "h-entry" ]
+}
