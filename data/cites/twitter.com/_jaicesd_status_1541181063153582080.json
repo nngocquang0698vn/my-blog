@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland/Vancouver" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jaice (they/them)" ],
+        "nickname" : [ "jaicesd" ],
+        "numeric-id" : [ "181421156" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1482251059066073088/B_ymneSw.jpg" ],
+        "published" : [ "2010-08-22T04:23:06+00:00" ],
+        "uid" : [ "tag:twitter.com:jaicesd" ],
+        "url" : [ "https://twitter.com/jaicesd", "http://github.com/jdumars" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There's no recourse to be had. It's just me and probably others deciding to unfollow today. And tomorrow, we'll have to do our own calculus about safety and trust. I never wanted to feel this way about someone whom I've worked so closely with. It's heartbreaking." ],
+    "in-reply-to" : [ "https://twitter.com/jaicesd/status/1541181062243827712" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Vancouver, WA" ],
+        "uid" : [ "tag:twitter.com:5a16f6443a850916" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-06-26T22:06:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1541181063153582080" ],
+    "url" : [ "https://twitter.com/jaicesd/status/1541181063153582080" ]
+  },
+  "type" : [ "h-entry" ]
+}
