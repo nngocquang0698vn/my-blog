@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/aubryjoi/status/1541577338604982277" ],
     "name" : [ "Like of @aubryjoi's tweet" ],
     "published" : [ "2022-06-28T20:12:00+0100" ],
     "like-of" : [ "https://twitter.com/aubryjoi/status/1541577338604982277" ],
