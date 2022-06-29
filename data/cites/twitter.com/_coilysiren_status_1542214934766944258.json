@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Chicago | LA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Hope Rehak" ],
+          "nickname" : [ "HopeRehak" ],
+          "numeric-id" : [ "24996956" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1540437932997169152/rrZIVX9A.jpg" ],
+          "published" : [ "2009-03-18T01:07:30+00:00" ],
+          "uid" : [ "tag:twitter.com:HopeRehak" ],
+          "url" : [ "https://twitter.com/HopeRehak", "https://tinyurl.com/2a77ksz3" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I’ve lived my life correctly because I’ve never been invited to a gender reveal party" ],
+      "published" : [ "2022-06-29T16:58:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1542190663101337600" ],
+      "url" : [ "https://twitter.com/HopeRehak/status/1542190663101337600" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kai (they)" ],
+        "nickname" : [ "coilysiren" ],
+        "numeric-id" : [ "2212879538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1520875544132399105/lNxPPATh.jpg" ],
+        "published" : [ "2013-11-24T18:16:52+00:00" ],
+        "uid" : [ "tag:twitter.com:coilysiren" ],
+        "url" : [ "https://twitter.com/coilysiren", "https://linkedin.com/in/coilysiren/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">0 gender reveal parties, multiple gay weddings\n\nliving life in the most perfect way</div>",
+      "value" : "0 gender reveal parties, multiple gay weddings\n\nliving life in the most perfect way"
+    } ],
+    "published" : [ "2022-06-29T18:34:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1542214934766944258" ],
+    "url" : [ "https://twitter.com/coilysiren/status/1542214934766944258" ]
+  },
+  "type" : [ "h-entry" ]
+}
