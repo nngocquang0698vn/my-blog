@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HailEternal/status/1541932419510681604" ],
     "name" : [ "Like of @HailEternal's tweet" ],
     "published" : [ "2022-06-29T17:12:00+0100" ],
     "like-of" : [ "https://twitter.com/HailEternal/status/1541932419510681604" ],
