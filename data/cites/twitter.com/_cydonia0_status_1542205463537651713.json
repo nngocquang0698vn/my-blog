@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cydonia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Berg" ],
+        "nickname" : [ "cydonia0" ],
+        "numeric-id" : [ "1229527631139418116" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529831046786719751/fr1HREWy.jpg" ],
+        "published" : [ "2020-02-17T22:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:cydonia0" ],
+        "url" : [ "https://twitter.com/cydonia0" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Radiosmash\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/RadioShack\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/TheCensoredRock\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/lizzo\"></a>",
+      "value" : "Radiosmash"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/RadioShack/status/1541931244509835264" ],
+    "published" : [ "2022-06-29T17:56:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1542205463537651713" ],
+    "url" : [ "https://twitter.com/cydonia0/status/1542205463537651713" ]
+  },
+  "type" : [ "h-entry" ]
+}
