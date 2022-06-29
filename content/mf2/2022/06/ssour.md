@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1542069120736321537" ],
     "photo" : [ {
       "alt" : "Morph, the black cat, looking slightly away from the camera, mid yawn with his toofies quite visible and a hot coral Zeedog collar (with Zeecat written on it) showing off",
       "photo" : "https://media.jvt.me/79a832d819.jpeg"
