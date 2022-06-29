@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/phil_lol_ogist/status/1542202511259586567" ],
     "name" : [ "Like of @phil_lol_ogist's tweet" ],
     "published" : [ "2022-06-29T21:06:00+0100" ],
     "like-of" : [ "https://twitter.com/phil_lol_ogist/status/1542202511259586567" ],
