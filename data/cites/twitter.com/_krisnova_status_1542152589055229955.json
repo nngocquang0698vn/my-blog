@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484358712223404037/0GSAhPIe.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "http://hackingcapitalism.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Roses are red,\nViolets are gay.\nSweety -- you're a violet.</div>",
+      "value" : "Roses are red,\nViolets are gay.\nSweety -- you're a violet."
+    } ],
+    "published" : [ "2022-06-29T14:26:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1542152589055229955" ],
+    "url" : [ "https://twitter.com/krisnova/status/1542152589055229955" ]
+  },
+  "type" : [ "h-entry" ]
+}
