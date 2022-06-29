@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Harris" ],
+        "nickname" : [ "Rich_Harris" ],
+        "numeric-id" : [ "19487837" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu.jpeg" ],
+        "published" : [ "2009-01-25T13:25:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Rich_Harris" ],
+        "url" : [ "https://twitter.com/Rich_Harris", "http://bit.ly/IqT6zt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">as someone who does ✨the developer job✨ and has been using tabs for over a decade, this is the most biazrre, disingenuous argument i've heard yet\n\nbut if you really are that bad at typing, just use prettier and you'll never manually indent again</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Killyce\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mac_hour\"></a>",
+      "value" : "as someone who does ✨the developer job✨ and has been using tabs for over a decade, this is the most biazrre, disingenuous argument i've heard yet\n\nbut if you really are that bad at typing, just use prettier and you'll never manually indent again"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Killyce/status/1541803276655542274" ],
+    "published" : [ "2022-06-28T15:39:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1541808482353045504" ],
+    "url" : [ "https://twitter.com/Rich_Harris/status/1541808482353045504" ]
+  },
+  "type" : [ "h-entry" ]
+}
