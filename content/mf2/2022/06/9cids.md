@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gabsmashh/status/1542154330836553728" ],
     "name" : [ "Like of @gabsmashh's tweet" ],
     "published" : [ "2022-06-29T21:15:00+0100" ],
     "like-of" : [ "https://twitter.com/gabsmashh/status/1542154330836553728" ],
