@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "he/him" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Nettle ⌨️🎱🧙‍♂️" ],
+        "nickname" : [ "CoderMiddy" ],
+        "numeric-id" : [ "44076587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1404971897280946177/i0FZUq8s.jpg" ],
+        "published" : [ "2009-06-02T06:59:35+00:00" ],
+        "uid" : [ "tag:twitter.com:CoderMiddy" ],
+        "url" : [ "https://twitter.com/CoderMiddy", "https://github.com/nettlep" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">This deck of cards has a bar code printed on the edge of each card. Scanning these bar codes would reveal where every card is (or isn't - if cards are missing.)\n\nThink card magic.\n\n1/</div>",
+      "value" : "This deck of cards has a bar code printed on the edge of each card. Scanning these bar codes would reveal where every card is (or isn't - if cards are missing.)\n\nThink card magic.\n\n1/"
+    } ],
+    "photo" : [ {
+      "alt" : "A deck of cards with digital marks printed on the edge of each card.",
+      "value" : "https://pbs.twimg.com/media/FWYe-PJXwAAgj-b.jpg"
+    } ],
+    "published" : [ "2022-06-29T02:04:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1541965867671494656" ],
+    "url" : [ "https://twitter.com/CoderMiddy/status/1541965867671494656" ]
+  },
+  "type" : [ "h-entry" ]
+}
