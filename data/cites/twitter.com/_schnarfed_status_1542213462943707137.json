@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan Barrett" ],
+        "nickname" : [ "schnarfed" ],
+        "numeric-id" : [ "139199211" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1031786031832420352/w2Eyoxbi.jpg" ],
+        "published" : [ "2010-05-01T21:42:43+00:00" ],
+        "uid" : [ "tag:twitter.com:schnarfed" ],
+        "url" : [ "https://twitter.com/schnarfed", "https://snarfed.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yes! Related: <a href=\"https://github.com/snarfed/bridgy/issues/693\">github.com/snarfed/bridgy…</a> and <a href=\"https://snarfed.org/backfeed-without-code\">snarfed.org/backfeed-witho…</a>, especially with HN's public firehose: <a href=\"https://github.com/HackerNews/API\">github.com/HackerNews/API</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SachaGreif\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SidebarIO\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/aaronpk\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jackyalcine\"></a>",
+      "value" : "Yes! Related: github.com/snarfed/bridgy… and snarfed.org/backfeed-witho…, especially with HN's public firehose: github.com/HackerNews/API"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jackyalcine/status/1542151998522494979" ],
+    "published" : [ "2022-06-29T18:28:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1542213462943707137" ],
+    "url" : [ "https://twitter.com/schnarfed/status/1542213462943707137" ]
+  },
+  "type" : [ "h-entry" ]
+}
