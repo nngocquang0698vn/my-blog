@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Quack like a wha-? (Go Time #118)" ],
+    "summary" : [ "Interfaces are everywhere in Go. The basic error type is an interface, writing with the fmt package means you are probably using an interface, and there are countless other instances where they pop up. In this episode Mark, Mat, Johnny, and Jon discuss interfaces at length, exploring what they are, how they are using t..." ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-gotime-a47cdd7bb3e3357398eda827d9cc3615.png" ],
+    "audio" : [ "https://cdn.changelog.com/uploads/gotime/118/go-time-118.mp3" ],
+    "url" : [ "https://changelog.com/gotime/118" ]
+  }
+}
