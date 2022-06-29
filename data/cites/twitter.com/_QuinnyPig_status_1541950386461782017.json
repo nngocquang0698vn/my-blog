@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "BREAKING: AI ethicist warns that Google may produce a self-aware engineer within the next five years." ],
+    "published" : [ "2022-06-29T01:03:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1541950386461782017" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1541950386461782017" ]
+  },
+  "type" : [ "h-entry" ]
+}
