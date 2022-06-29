@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Norwich, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Tom Sherman" ],
+          "nickname" : [ "tomus_sherman" ],
+          "numeric-id" : [ "443693878" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1360279449070166018/gPwr-IRH.jpg" ],
+          "published" : [ "2011-12-22T12:50:57+00:00" ],
+          "uid" : [ "tag:twitter.com:tomus_sherman" ],
+          "url" : [ "https://twitter.com/tomus_sherman", "https://www.polywork.com/tomsherman" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Maybe one day it'll be the default... <a href=\"https://github.com/prettier/prettier/issues/7475\">github.com/prettier/prett…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CherryJimbo\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/petebd\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/threepointone\"></a>",
+        "value" : "Maybe one day it'll be the default... github.com/prettier/prett…"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/threepointone/status/1541713676180361218" ],
+      "published" : [ "2022-06-28T09:30:01+00:00" ],
+      "uid" : [ "tag:twitter.com:1541715535456600065" ],
+      "url" : [ "https://twitter.com/tomus_sherman/status/1541715535456600065" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich Harris" ],
+        "nickname" : [ "Rich_Harris" ],
+        "numeric-id" : [ "19487837" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu.jpeg" ],
+        "published" : [ "2009-01-25T13:25:09+00:00" ],
+        "uid" : [ "tag:twitter.com:Rich_Harris" ],
+        "url" : [ "https://twitter.com/Rich_Harris", "http://bit.ly/IqT6zt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "TIL Prettier is considering making tabs the default in 3.0. This is huge — it would make an entire set of programming languages more accessible (if you're somehow still pro-spaces, read this comment to instantly convert), and, more importantly, vindicate my personal preferences " ],
+    "photo" : [ {
+      "alt" : "GitHub comment from MarcoZehe on 4 Aug 2020:\n\nThe main reason I would like to see this change is for refreshable braille displays that are used by blind programmers a lot. Each space wastes one braille cell and takes away valuable braille realestate. So if the default indentation of a project is 4 spaces per level, a 3rd level indentation wastes 12 braaille cells before code starts. On a 40 cell display, which is the most commonly used with notebooks, this is more than a quarter of the available cells wasted with no information. If each indentation level was represented by only one tab character, there would be three cells occupied by a tab character each, and on the 4th cell, the code would start. That's less than 10 percent occupied on the same length display, but all cells contain valuable information that is easily discoverable and immediately comprehensible.",
+      "value" : "https://pbs.twimg.com/media/FWVvmqqWAAAtiAM.jpg"
+    } ],
+    "published" : [ "2022-06-28T12:34:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1541761871585464323" ],
+    "url" : [ "https://twitter.com/Rich_Harris/status/1541761871585464323" ]
+  },
+  "type" : [ "h-entry" ]
+}
