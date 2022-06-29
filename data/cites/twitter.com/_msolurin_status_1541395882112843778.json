@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nick Encalada-Malinowski" ],
+          "nickname" : [ "nwmalinowski" ],
+          "numeric-id" : [ "313315283" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/889462178519986176/tQGTgvvY.jpg" ],
+          "published" : [ "2011-06-08T13:33:11+00:00" ],
+          "uid" : [ "tag:twitter.com:nwmalinowski" ],
+          "url" : [ "https://twitter.com/nwmalinowski" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">An LAPD officer was beaten to death by fellow officers during a training that simulated a mob attack:\n\n<a href=\"https://nypost.com/2022/06/26/lapd-cop-houston-tipping-was-beaten-to-death-by-officers-in-mob-training-mom-claims/\">nypost.com/2022/06/26/lap…</a></div>",
+        "value" : "An LAPD officer was beaten to death by fellow officers during a training that simulated a mob attack:\n\nnypost.com/2022/06/26/lap…"
+      } ],
+      "published" : [ "2022-06-27T11:56:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1541390065271701505" ],
+      "url" : [ "https://twitter.com/nwmalinowski/status/1541390065271701505" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Olayemi Olurin" ],
+        "nickname" : [ "msolurin" ],
+        "numeric-id" : [ "1046938994766958592" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1508247835539562496/M7uYXyCy.jpg" ],
+        "published" : [ "2018-10-02T01:44:42+00:00" ],
+        "uid" : [ "tag:twitter.com:msolurin" ],
+        "url" : [ "https://twitter.com/msolurin", "https://www.olayemiolurin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The police literally killed another officer by simulating how they respond to civilians. Remember this when I tell you policing is inherently violent, police brutality isn’t an accident" ],
+    "published" : [ "2022-06-27T12:19:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1541395882112843778" ],
+    "url" : [ "https://twitter.com/msolurin/status/1541395882112843778" ]
+  },
+  "type" : [ "h-entry" ]
+}
