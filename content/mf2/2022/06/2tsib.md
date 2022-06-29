@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JurassicPark2go/status/1541285285547216896" ],
     "name" : [ "Like of @JurassicPark2go's tweet" ],
     "published" : [ "2022-06-29T17:45:00+0100" ],
     "like-of" : [ "https://twitter.com/JurassicPark2go/status/1541285285547216896" ],
