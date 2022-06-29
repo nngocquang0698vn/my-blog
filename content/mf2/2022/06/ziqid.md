@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/thedavidcrosby/status/1541472895154520064" ],
     "name" : [ "Like of @thedavidcrosby's tweet" ],
     "published" : [ "2022-06-29T08:13:00+0100" ],
     "like-of" : [ "https://twitter.com/thedavidcrosby/status/1541472895154520064" ],
