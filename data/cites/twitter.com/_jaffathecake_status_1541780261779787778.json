@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Haywards Heath" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jake Archibald" ],
+          "nickname" : [ "jaffathecake" ],
+          "numeric-id" : [ "15390783" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1695239906/me.jpg" ],
+          "published" : [ "2008-07-11T12:42:42+00:00" ],
+          "uid" : [ "tag:twitter.com:jaffathecake" ],
+          "url" : [ "https://twitter.com/jaffathecake", "http://www.jakearchibald.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Web developers: Avoid fixed dimensions! Layout should be fluid to cater for folks with different screens, preferences, and accessibility needs.\n\nAlso web developers: An indent must be exactly two spaces wide and prose must hard wrap at 100 chars.</div>",
+        "value" : "Web developers: Avoid fixed dimensions! Layout should be fluid to cater for folks with different screens, preferences, and accessibility needs.\n\nAlso web developers: An indent must be exactly two spaces wide and prose must hard wrap at 100 chars."
+      } ],
+      "published" : [ "2021-02-24T07:16:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1364474359944007680" ],
+      "url" : [ "https://twitter.com/jaffathecake/status/1364474359944007680" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Haywards Heath" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jake Archibald" ],
+        "nickname" : [ "jaffathecake" ],
+        "numeric-id" : [ "15390783" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1695239906/me.jpg" ],
+        "published" : [ "2008-07-11T12:42:42+00:00" ],
+        "uid" : [ "tag:twitter.com:jaffathecake" ],
+        "url" : [ "https://twitter.com/jaffathecake", "http://www.jakearchibald.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yes haha! YES <a href=\"https://twitter.com/jaffathecake/status/1364474359944007680?t=FiF7NUZkwQ7q-dJPBBaA7Q&s=19\">twitter.com/jaffathecake/s…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Rich_Harris\"></a>",
+      "value" : "Yes haha! YES twitter.com/jaffathecake/s…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Rich_Harris/status/1541761871585464323" ],
+    "published" : [ "2022-06-28T13:47:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1541780261779787778" ],
+    "url" : [ "https://twitter.com/jaffathecake/status/1541780261779787778" ]
+  },
+  "type" : [ "h-entry" ]
+}
