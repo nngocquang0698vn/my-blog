@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cydonia0/status/1542205463537651713" ],
     "name" : [ "Like of @cydonia0's tweet" ],
     "published" : [ "2022-06-29T19:50:00+0100" ],
     "like-of" : [ "https://twitter.com/cydonia0/status/1542205463537651713" ],
