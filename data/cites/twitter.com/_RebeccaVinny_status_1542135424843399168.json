@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rebecca Vincent" ],
+        "nickname" : [ "RebeccaVinny" ],
+        "numeric-id" : [ "23387257" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1414495729477988354/JS19itvF.jpg" ],
+        "published" : [ "2009-03-09T02:01:13+00:00" ],
+        "uid" : [ "tag:twitter.com:RebeccaVinny" ],
+        "url" : [ "https://twitter.com/RebeccaVinny", "https://www.octopusbooks.co.uk/titles/rebecca-vincent/tiny-tattoos/9781784726843/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Why is this bad?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/MailOnline\"></a>",
+      "value" : "Why is this bad?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/MailOnline/status/1542107266274451456" ],
+    "published" : [ "2022-06-29T13:18:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1542135424843399168" ],
+    "url" : [ "https://twitter.com/RebeccaVinny/status/1542135424843399168" ]
+  },
+  "type" : [ "h-entry" ]
+}
