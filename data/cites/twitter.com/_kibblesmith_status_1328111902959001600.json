@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hollywood, U.S.A." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Kibblesmith" ],
+        "nickname" : [ "kibblesmith" ],
+        "numeric-id" : [ "14641347" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516115908716081162/jH3sCTEl.jpg" ],
+        "published" : [ "2008-05-03T20:42:01+00:00" ],
+        "uid" : [ "tag:twitter.com:kibblesmith" ],
+        "url" : [ "https://twitter.com/kibblesmith", "http://Kibblesmith.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "How am I supposed to concentrate when I do not wish to and there are no immediate rewards" ],
+    "published" : [ "2020-11-15T23:05:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1328111902959001600" ],
+    "url" : [ "https://twitter.com/kibblesmith/status/1328111902959001600" ]
+  },
+  "type" : [ "h-entry" ]
+}
