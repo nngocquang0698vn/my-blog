@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/egeofanatolia/status/1542098547159355392" ],
     "name" : [ "Like of @egeofanatolia's tweet" ],
     "published" : [ "2022-06-29T16:03:00+0100" ],
     "like-of" : [ "https://twitter.com/egeofanatolia/status/1542098547159355392" ],
