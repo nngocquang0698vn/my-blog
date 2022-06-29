@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Crosby" ],
+        "nickname" : [ "thedavidcrosby" ],
+        "numeric-id" : [ "275361193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1295576713/crosby1.jpg" ],
+        "published" : [ "2011-04-01T03:49:09+00:00" ],
+        "uid" : [ "tag:twitter.com:thedavidcrosby" ],
+        "url" : [ "https://twitter.com/thedavidcrosby", "https://bit.ly/3eTL8Rv" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tax the churches" ],
+    "published" : [ "2022-06-27T17:25:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1541472895154520064" ],
+    "url" : [ "https://twitter.com/thedavidcrosby/status/1541472895154520064" ]
+  },
+  "type" : [ "h-entry" ]
+}
