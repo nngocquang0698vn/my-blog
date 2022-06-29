@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Atlanta GA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Chris Farris" ],
+          "nickname" : [ "jcfarris" ],
+          "numeric-id" : [ "30826770" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/399865009/avatar.jpg" ],
+          "published" : [ "2009-04-13T07:30:04+00:00" ],
+          "uid" : [ "tag:twitter.com:jcfarris" ],
+          "url" : [ "https://twitter.com/jcfarris", "http://www.chrisfarris.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I'm generally horrified to find this setting...." ],
+      "photo" : [ "https://pbs.twimg.com/media/FEej-tZXIAoJ5ms.png" ],
+      "published" : [ "2021-11-18T12:55:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1461317040267042816" ],
+      "url" : [ "https://twitter.com/jcfarris/status/1461317040267042816" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Seth Vargo" ],
+        "nickname" : [ "sethvargo" ],
+        "numeric-id" : [ "262914828" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/808025120296013825/frGuc14s.jpg" ],
+        "published" : [ "2011-03-09T00:54:05+00:00" ],
+        "uid" : [ "tag:twitter.com:sethvargo" ],
+        "url" : [ "https://twitter.com/sethvargo", "https://www.sethvargo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hey <a href=\"https://twitter.com/jcfarris\">@jcfarris</a> - thank you for the feedback. We listened, and our team created a way to disable this functionality via an Organizational Policy Constraint. You can read more about it here: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/disabling-exempted-users-cloud-audit-logging\">cloud.google.com/blog/topics/de…</a>\n\n/cc <a href=\"https://twitter.com/philvenables\">@philvenables</a></div>",
+      "value" : "Hey @jcfarris - thank you for the feedback. We listened, and our team created a way to disable this functionality via an Organizational Policy Constraint. You can read more about it here: cloud.google.com/blog/topics/de…\n\n/cc @philvenables"
+    } ],
+    "published" : [ "2022-06-29T12:54:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1542129283803611142" ],
+    "url" : [ "https://twitter.com/sethvargo/status/1542129283803611142" ]
+  },
+  "type" : [ "h-entry" ]
+}
