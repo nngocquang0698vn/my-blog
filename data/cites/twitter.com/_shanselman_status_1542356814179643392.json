@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, Oregon" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Hanselman 🇺🇦" ],
+        "nickname" : [ "shanselman" ],
+        "numeric-id" : [ "5676102" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6.jpg" ],
+        "published" : [ "2007-05-01T05:55:26+00:00" ],
+        "uid" : [ "tag:twitter.com:shanselman" ],
+        "url" : [ "https://twitter.com/shanselman", "http://hanselman.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I can’t believe Steve Martin is 76. I should look that good NOW. This man has been 43 my entire life. <a href=\"https://twitter.com/search?q=%23OnlyMurders\">#OnlyMurders</a>",
+      "value" : "I can’t believe Steve Martin is 76. I should look that good NOW. This man has been 43 my entire life. #OnlyMurders"
+    } ],
+    "published" : [ "2022-06-30T03:58:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1542356814179643392" ],
+    "url" : [ "https://twitter.com/shanselman/status/1542356814179643392" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FWeNV44UEAALhGq.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
