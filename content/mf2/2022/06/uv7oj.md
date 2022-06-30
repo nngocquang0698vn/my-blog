@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rivbutcher/status/1542288519116095488" ],
     "name" : [ "Like of @rivbutcher's tweet" ],
     "published" : [ "2022-06-30T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/rivbutcher/status/1542288519116095488" ],
