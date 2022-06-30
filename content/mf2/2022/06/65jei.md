@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChrisShort/status/1542366419568017416" ],
     "name" : [ "Like of @ChrisShort's tweet" ],
     "published" : [ "2022-06-30T07:25:00+0100" ],
     "like-of" : [ "https://twitter.com/ChrisShort/status/1542366419568017416" ],
