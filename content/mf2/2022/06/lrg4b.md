@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/trevor_massett/status/1542348878896418818" ],
     "name" : [ "Like of @trevor_massett's tweet" ],
     "published" : [ "2022-06-30T09:58:00+0100" ],
     "like-of" : [ "https://twitter.com/trevor_massett/status/1542348878896418818" ],
