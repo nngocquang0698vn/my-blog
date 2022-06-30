@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/alyssam_infose…" ],
+        "url" : [ "https://twitter.com/alyssam_infosec/status/1542351574219079680" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Nicole Sullivan" ],
+          "nickname" : [ "stubbornella" ],
+          "numeric-id" : [ "15629200" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1460696974106132480/JFhEpr4i.jpg" ],
+          "published" : [ "2008-07-28T07:42:21+00:00" ],
+          "uid" : [ "tag:twitter.com:stubbornella" ],
+          "url" : [ "https://twitter.com/stubbornella", "https://www.linkedin.com/in/nicolesullivan/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Hi, I’m Nicole and I’d give better conference talks if I straightened my hair. 🙃\n<a class=\"tag\" href=\"https://twitter.com/alyssam_infosec/status/1542351574219079680\">twitter.com/alyssam_infose…</a>",
+        "value" : "Hi, I’m Nicole and I’d give better conference talks if I straightened my hair. 🙃"
+      } ],
+      "published" : [ "2022-06-30T04:18:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1542361935307370496" ],
+      "url" : [ "https://twitter.com/stubbornella/status/1542361935307370496" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Hi, I'm Terence. I need to dress for the job I want, not the job I have. 👔" ],
+    "published" : [ "2022-06-30T05:08:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1542374551711109121" ],
+    "url" : [ "https://twitter.com/edent/status/1542374551711109121" ]
+  },
+  "type" : [ "h-entry" ]
+}
