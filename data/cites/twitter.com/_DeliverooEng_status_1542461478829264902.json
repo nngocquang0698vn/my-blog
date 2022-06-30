@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DeliverooEng" ],
+        "nickname" : [ "DeliverooEng" ],
+        "numeric-id" : [ "3200498391" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1204361659059507202/u-DXddut.jpg" ],
+        "published" : [ "2015-04-24T10:08:05+00:00" ],
+        "uid" : [ "tag:twitter.com:DeliverooEng" ],
+        "url" : [ "https://twitter.com/DeliverooEng", "http://deliveroo.engineering" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "New on the blog: <a href=\"https://twitter.com/JamieTanna\">@JamieTanna</a> writes about how we've been able to ship a service more effectively using an API Design first approach with <a href=\"https://twitter.com/search?q=%23OpenAPI\">#OpenAPI</a> <a href=\"https://deliveroo.engineering/2022/06/27/openapi-design-first\">deliveroo.engineering/2022/06/27/ope…</a>",
+      "value" : "New on the blog: @JamieTanna writes about how we've been able to ship a service more effectively using an API Design first approach with #OpenAPI deliveroo.engineering/2022/06/27/ope…"
+    } ],
+    "published" : [ "2022-06-30T10:54:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1542461478829264902" ],
+    "url" : [ "https://twitter.com/DeliverooEng/status/1542461478829264902" ]
+  },
+  "type" : [ "h-entry" ]
+}
