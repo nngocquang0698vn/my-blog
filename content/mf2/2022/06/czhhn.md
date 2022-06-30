@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sesamestreet/status/1541775926014492672" ],
     "name" : [ "Like of @sesamestreet's tweet" ],
     "published" : [ "2022-06-30T07:17:00+0100" ],
     "like-of" : [ "https://twitter.com/sesamestreet/status/1541775926014492672" ],
