@@ -1,0 +1,64 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/sesamestreet/s…" ],
+        "url" : [ "https://twitter.com/sesamestreet/status/1541775926014492672" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Houston, Texas" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Ted Cruz" ],
+          "nickname" : [ "tedcruz" ],
+          "numeric-id" : [ "23022687" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL.jpg" ],
+          "published" : [ "2009-03-06T03:20:20+00:00" ],
+          "uid" : [ "tag:twitter.com:tedcruz" ],
+          "url" : [ "https://twitter.com/tedcruz", "http://www.OneVoteAway.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Thanks, <a href=\"https://twitter.com/sesamestreet\">@sesamestreet</a> for saying parents are allowed to have questions!\n\nYou then have <a href=\"https://twitter.com/elmo\">@elmo</a> aggressively advocate for vaccinating children UNDER 5. \n\nBut you cite ZERO scientific evidence for this. Learn more:\n\n<a href=\"https://www.cruz.senate.gov/newsroom/press-releases/sen-cruz-colleagues-demand-answers-from-fda-panel-regarding-covid-vaccines-for-babies-and-toddlers\">cruz.senate.gov/newsroom/press…</a></div>\n<a class=\"tag\" href=\"https://twitter.com/sesamestreet/status/1541775926014492672\">twitter.com/sesamestreet/s…</a>",
+        "value" : "Thanks, @sesamestreet for saying parents are allowed to have questions!\n\nYou then have @elmo aggressively advocate for vaccinating children UNDER 5. \n\nBut you cite ZERO scientific evidence for this. Learn more:\n\ncruz.senate.gov/newsroom/press…"
+      } ],
+      "published" : [ "2022-06-28T16:39:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1541823544325246977" ],
+      "url" : [ "https://twitter.com/tedcruz/status/1541823544325246977" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Rocinante" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James S.A. Corey" ],
+        "nickname" : [ "JamesSACorey" ],
+        "numeric-id" : [ "550270216" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1306298999293407232/bTvc_7HB.jpg" ],
+        "published" : [ "2012-04-10T16:59:23+00:00" ],
+        "uid" : [ "tag:twitter.com:JamesSACorey" ],
+        "url" : [ "https://twitter.com/JamesSACorey", "http://www.the-expanse.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You're arguing with a puppet, dipshit." ],
+    "published" : [ "2022-06-30T06:16:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1542391657349320704" ],
+    "url" : [ "https://twitter.com/JamesSACorey/status/1542391657349320704" ]
+  },
+  "type" : [ "h-entry" ]
+}
