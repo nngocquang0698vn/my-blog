@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Commerce, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Short 🇺🇸🇺🇦" ],
+        "nickname" : [ "ChrisShort" ],
+        "numeric-id" : [ "5610072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503385439704657921/9_jxSFRu.jpg" ],
+        "published" : [ "2007-04-28T19:14:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ChrisShort" ],
+        "url" : [ "https://twitter.com/ChrisShort", "https://linktr.ee/TheChrisShort", "http://devopsish.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Today is my last day on the EKS team. I'm heading over to work on a new project that I'm VERY excited about\n\nI'll be working on an open source tool I had the idea for and shelved because I couldn't support by myself.\n\nNo job title change. Just not directly focused on <a href=\"https://twitter.com/search?q=%23Kubernetes\">#Kubernetes</a>.</div>",
+      "value" : "Today is my last day on the EKS team. I'm heading over to work on a new project that I'm VERY excited about\n\nI'll be working on an open source tool I had the idea for and shelved because I couldn't support by myself.\n\nNo job title change. Just not directly focused on #Kubernetes."
+    } ],
+    "published" : [ "2022-07-01T14:07:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1542872509326000133" ],
+    "url" : [ "https://twitter.com/ChrisShort/status/1542872509326000133" ]
+  },
+  "type" : [ "h-entry" ]
+}
