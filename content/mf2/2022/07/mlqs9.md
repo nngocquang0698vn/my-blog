@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MarlenaStell/status/1542527729827995649" ],
     "name" : [ "Like of @MarlenaStell's tweet" ],
     "published" : [ "2022-07-01T18:54:00+0100" ],
     "like-of" : [ "https://twitter.com/MarlenaStell/status/1542527729827995649" ],
