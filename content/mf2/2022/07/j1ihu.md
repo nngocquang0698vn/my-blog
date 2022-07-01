@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StopFundingHate/status/1542823612750696448" ],
     "name" : [ "Like of @StopFundingHate's tweet" ],
     "published" : [ "2022-07-01T17:14:00+0100" ],
     "like-of" : [ "https://twitter.com/StopFundingHate/status/1542823612750696448" ],
