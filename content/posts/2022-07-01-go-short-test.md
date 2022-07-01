@@ -7,6 +7,7 @@ syndication:
 tags:
 - "blogumentation"
 - "go"
+- testing
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
