@@ -1,13 +1,13 @@
 ---
 title: "Ignoring slow-running tests in Go"
 description: "How to use Go's `-short` testing mode to avoid running slower tests."
-date: 2022-07-01T16:23:11+0100
+date: "2022-07-01T16:23:11+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1542895116540600320"
 tags:
 - "blogumentation"
 - "go"
-- testing
+- "testing"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
