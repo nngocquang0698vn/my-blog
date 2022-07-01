@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Prague, Czech Republic" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michal Špaček" ],
+        "nickname" : [ "spazef0rze" ],
+        "numeric-id" : [ "15823805" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2486136032/48y4qlw7i7u0wed6q4ju.jpeg" ],
+        "published" : [ "2008-08-12T15:42:49+00:00" ],
+        "uid" : [ "tag:twitter.com:spazef0rze" ],
+        "url" : [ "https://twitter.com/spazef0rze", "https://www.michalspacek.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Use emoji in your Git branch names they said. It will be fun they said 😅" ],
+    "photo" : [ {
+      "alt" : "Screenshot from GitHub that says \"merged 6 commits into master from spaze/re🏭ing\" with a factory emoji in the branch name",
+      "value" : "https://pbs.twimg.com/media/FWiRDLLWAAISipe.png"
+    }, {
+      "alt" : "Screenshot of a chat that says \"heh so the emoji in the branch name breaks git in Terminal for me here 😃\"",
+      "value" : "https://pbs.twimg.com/media/FWiRKHGXoAAjawi.png"
+    } ],
+    "published" : [ "2022-06-30T22:55:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1542643059246211073" ],
+    "url" : [ "https://twitter.com/spazef0rze/status/1542643059246211073" ]
+  },
+  "type" : [ "h-entry" ]
+}
