@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jazzraptwink/status/1542628346214875138" ],
     "name" : [ "Like of @jazzraptwink's tweet" ],
     "published" : [ "2022-07-01T20:03:00+0100" ],
     "like-of" : [ "https://twitter.com/jazzraptwink/status/1542628346214875138" ],
