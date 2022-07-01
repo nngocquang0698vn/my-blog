@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jamieclimate/status/1542492105838403584" ],
     "name" : [ "Like of @jamieclimate's tweet" ],
     "published" : [ "2022-07-01T09:45:00+0100" ],
     "like-of" : [ "https://twitter.com/jamieclimate/status/1542492105838403584" ],
