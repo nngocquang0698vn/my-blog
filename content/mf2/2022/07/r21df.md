@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/armonz2408/status/1542854899230294016" ],
     "name" : [ "Like of @armonz2408's tweet" ],
     "published" : [ "2022-07-01T19:01:00+0100" ],
     "like-of" : [ "https://twitter.com/armonz2408/status/1542854899230294016" ],
