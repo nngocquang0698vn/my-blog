@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "www.frankieboyle.com" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frankie Boyle" ],
+        "nickname" : [ "frankieboyle" ],
+        "numeric-id" : [ "17336372" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1523967596906823683/C2wfXbzG.jpg" ],
+        "published" : [ "2008-11-12T09:48:13+00:00" ],
+        "uid" : [ "tag:twitter.com:frankieboyle" ],
+        "url" : [ "https://twitter.com/frankieboyle", "https://linktr.ee/meantimebook" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The pandas wanted to die before it got to this, and we wouldn’t let them" ],
+    "published" : [ "2022-07-02T06:39:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1543122240899776514" ],
+    "url" : [ "https://twitter.com/frankieboyle/status/1543122240899776514" ]
+  },
+  "type" : [ "h-entry" ]
+}
