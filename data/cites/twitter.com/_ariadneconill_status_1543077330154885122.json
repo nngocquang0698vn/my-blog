@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northeast Oklahoma" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ariadne Conill" ],
+        "nickname" : [ "ariadneconill" ],
+        "numeric-id" : [ "15869538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522755713902288896/WxRWRwu8.jpg" ],
+        "published" : [ "2008-08-16T01:04:18+00:00" ],
+        "uid" : [ "tag:twitter.com:ariadneconill" ],
+        "url" : [ "https://twitter.com/ariadneconill", "https://ariadne.space" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "what honestly is needed is a self-hostable blogging engine that provides the same experience as tumblr, but is built on indieweb technology like webmention.  there could then be many different hosting providers with different business and governance models to choose from." ],
+    "in-reply-to" : [ "https://twitter.com/ariadneconill/status/1543072913540239361" ],
+    "published" : [ "2022-07-02T03:41:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1543077330154885122" ],
+    "url" : [ "https://twitter.com/ariadneconill/status/1543077330154885122" ]
+  },
+  "type" : [ "h-entry" ]
+}
