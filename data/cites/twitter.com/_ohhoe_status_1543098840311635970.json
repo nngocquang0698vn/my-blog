@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524121166054633473/gcnmxOdf.jpg" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "😑" ],
+    "photo" : [ "https://pbs.twimg.com/media/FWowNyHWYAQwEbm.jpg", "https://pbs.twimg.com/media/FWowNyuWYAAHn1u.jpg" ],
+    "published" : [ "2022-07-02T05:06:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1543098840311635970" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1543098840311635970" ]
+  },
+  "type" : [ "h-entry" ]
+}
