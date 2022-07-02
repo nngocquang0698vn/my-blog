@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northeast Oklahoma" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ariadne Conill" ],
+        "nickname" : [ "ariadneconill" ],
+        "numeric-id" : [ "15869538" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522755713902288896/WxRWRwu8.jpg" ],
+        "published" : [ "2008-08-16T01:04:18+00:00" ],
+        "uid" : [ "tag:twitter.com:ariadneconill" ],
+        "url" : [ "https://twitter.com/ariadneconill", "https://ariadne.space" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "i don’t think <a href=\"http://micro.blog\">micro.blog</a> is self hostable though\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jackyalcine\"></a>",
+      "value" : "i don’t think micro.blog is self hostable though"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jackyalcine/status/1543272310983073796" ],
+    "published" : [ "2022-07-02T16:36:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1543272504789291010" ],
+    "url" : [ "https://twitter.com/ariadneconill/status/1543272504789291010" ]
+  },
+  "type" : [ "h-entry" ]
+}
