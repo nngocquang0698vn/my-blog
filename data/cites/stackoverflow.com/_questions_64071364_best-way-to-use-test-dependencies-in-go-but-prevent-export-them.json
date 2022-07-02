@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Best way to use test dependencies in Go but prevent export them" ],
+    "summary" : [ "Given a project in Golang (1.14+) which is using test dependencies (like github.com/stretchr/testify) and now assume this project is a public library which can be used by others.\nUsually when I now..." ],
+    "featured" : [ "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" ],
+    "url" : [ "https://stackoverflow.com/questions/64071364/best-way-to-use-test-dependencies-in-go-but-prevent-export-them" ]
+  }
+}
