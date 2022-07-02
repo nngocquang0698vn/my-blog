@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SourdoughEyepa1/status/1542758192861495296" ],
     "name" : [ "Like of @SourdoughEyepa1's tweet" ],
     "published" : [ "2022-07-02T09:07:00+0100" ],
     "like-of" : [ "https://twitter.com/SourdoughEyepa1/status/1542758192861495296" ],
