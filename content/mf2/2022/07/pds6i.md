@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/ariadneconill/status/1543077330154885122" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1543167072963805189" ],
     "published" : [ "2022-07-02T09:29:40.921739282Z" ],
     "post-status" : [ "published" ],
     "content" : [ {
