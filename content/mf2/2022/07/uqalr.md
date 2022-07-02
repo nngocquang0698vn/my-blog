@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmilyRNunn/status/1542987128895950854" ],
     "name" : [ "Like of @EmilyRNunn's tweet" ],
     "published" : [ "2022-07-02T20:08:00+0100" ],
     "category" : [ "cute" ],
