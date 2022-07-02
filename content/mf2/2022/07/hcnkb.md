@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/rudeanaseal/status/1543017816319598592" ],
     "name" : [ "Like of @rudeanaseal's tweet" ],
     "published" : [ "2022-07-02T09:07:00+0100" ],
     "like-of" : [ "https://twitter.com/rudeanaseal/status/1543017816319598592" ],
