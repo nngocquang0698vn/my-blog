@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ADHDdesigner/status/1542924746068676608" ],
     "name" : [ "Like of @ADHDdesigner's tweet" ],
     "published" : [ "2022-07-02T14:16:00+0100" ],
     "like-of" : [ "https://twitter.com/ADHDdesigner/status/1542924746068676608" ],
