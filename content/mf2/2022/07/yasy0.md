@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/l_krishnan/status/1543433037555326978" ],
     "name" : [ "Like of @l_krishnan's tweet" ],
     "published" : [ "2022-07-03T15:00:00+0100" ],
     "like-of" : [ "https://twitter.com/l_krishnan/status/1543433037555326978" ],
