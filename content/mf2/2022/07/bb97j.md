@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/juliacarriew/status/1543582130441166849" ],
     "name" : [ "Like of @juliacarriew's tweet" ],
     "published" : [ "2022-07-03T21:04:00+0100" ],
     "like-of" : [ "https://twitter.com/juliacarriew/status/1543582130441166849" ],
