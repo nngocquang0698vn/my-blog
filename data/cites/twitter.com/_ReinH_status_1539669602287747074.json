@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/ReinH/status/1…" ],
+        "url" : [ "https://twitter.com/ReinH/status/1539626662274269185" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "San Francisco, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "“fifth”" ],
+          "nickname" : [ "mffwww" ],
+          "numeric-id" : [ "872679851143999489" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1021897874601201664/GRiwZdns.jpg" ],
+          "published" : [ "2017-06-08T05:01:04+00:00" ],
+          "uid" : [ "tag:twitter.com:mffwww" ],
+          "url" : [ "https://twitter.com/mffwww" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "This is going to be settled in court eventually, and the sooner the better. Anyone should be able to apply a license that says “you may not use this to train any machine learning model”.\n<a class=\"tag\" href=\"https://twitter.com/ReinH/status/1539626662274269185\">twitter.com/ReinH/status/1…</a>",
+        "value" : "This is going to be settled in court eventually, and the sooner the better. Anyone should be able to apply a license that says “you may not use this to train any machine learning model”."
+      } ],
+      "published" : [ "2022-06-22T17:58:33+00:00" ],
+      "uid" : [ "tag:twitter.com:1539669182215729152" ],
+      "url" : [ "https://twitter.com/mffwww/status/1539669182215729152" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "brb adding this clause to MIT and calling it the \"fuck machine learning\" or FML License " ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1539667686778470400" ],
+    "published" : [ "2022-06-22T18:00:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1539669602287747074" ],
+    "url" : [ "https://twitter.com/ReinH/status/1539669602287747074" ]
+  },
+  "type" : [ "h-entry" ]
+}
