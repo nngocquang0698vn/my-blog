@@ -1,0 +1,8 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "JSON improvements in SQLite 3.38.0" ],
+    "summary" : [ "SQLite 3.38.0 introduced improvements to JSON query syntax using -> and ->> operators that are similar to PostgreSQL JSON functions. In this post we..." ],
+    "url" : [ "http://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html" ]
+  }
+}
