@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/WidebandMaid/status/1543299279976013828" ],
     "name" : [ "Like of @WidebandMaid's tweet" ],
     "published" : [ "2022-07-03T11:04:00+0100" ],
     "like-of" : [ "https://twitter.com/WidebandMaid/status/1543299279976013828" ],
