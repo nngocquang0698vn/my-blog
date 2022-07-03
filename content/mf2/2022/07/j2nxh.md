@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NMdoglover/status/1543306998476705792" ],
     "name" : [ "Like of @NMdoglover's tweet" ],
     "published" : [ "2022-07-03T18:35:00+0100" ],
     "like-of" : [ "https://twitter.com/NMdoglover/status/1543306998476705792" ],
