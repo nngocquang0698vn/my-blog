@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theleftbible/status/1540789187884072960" ],
     "name" : [ "Like of @theleftbible's tweet" ],
     "published" : [ "2022-07-03T18:34:00+0100" ],
     "like-of" : [ "https://twitter.com/theleftbible/status/1540789187884072960" ],
