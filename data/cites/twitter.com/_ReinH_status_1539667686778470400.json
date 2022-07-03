@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "what github / microsoft is counting on here is that open source developers do not have enough collective power to do anything to stop this, and sadly they are probably right" ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1539664321147375616" ],
+    "published" : [ "2022-06-22T17:52:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1539667686778470400" ],
+    "url" : [ "https://twitter.com/ReinH/status/1539667686778470400" ]
+  },
+  "type" : [ "h-entry" ]
+}
