@@ -23,6 +23,8 @@ But it's not immediately obvious how we can actually set it up within Rest Assur
 
 The solution, as per [rohitkadam19's reply on _How to make HTTPS GET call with certificate in Rest-Assured java_](https://stackoverflow.com/a/37436519) is to create a custom [`org.apache.http.conn.ssl.SSLSocketFactory`](http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/org/apache/http/conn/ssl/SSLSocketFactory.html) that can be used by Rest Assured, which will provide the client certificates.
 
+Note: This uses a deprecated setup, which as mentioned in [an issue thread on GitHub](https://github.com/rest-assured/rest-assured/issues/1325#issuecomment-1172911836) cannot yet be updated without work in Rest Assured.
+
 I would recommend extracting this out into a couple of helper methods which can be found below:
 
 ```java
