@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/staticbluebat/status/1543630159718359044" ],
     "name" : [ "Like of @staticbluebat's tweet" ],
     "published" : [ "2022-07-03T18:10:00+0100" ],
     "like-of" : [ "https://twitter.com/staticbluebat/status/1543630159718359044" ],
