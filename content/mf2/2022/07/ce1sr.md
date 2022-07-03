@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/darylginn/status/1542862388386402304" ],
     "name" : [ "Like of @darylginn's tweet" ],
     "published" : [ "2022-07-03T13:08:00+0100" ],
     "like-of" : [ "https://twitter.com/darylginn/status/1542862388386402304" ],
