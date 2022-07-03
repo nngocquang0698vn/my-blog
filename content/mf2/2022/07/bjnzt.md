@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TechNinja150/status/1543347929192079362" ],
     "name" : [ "Like of @TechNinja150's tweet" ],
     "published" : [ "2022-07-03T19:05:00+0100" ],
     "like-of" : [ "https://twitter.com/TechNinja150/status/1543347929192079362" ],
