@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/katie_jr/status/1543624635400462336" ],
     "name" : [ "Like of @katie_jr's tweet" ],
     "published" : [ "2022-07-03T18:30:00+0100" ],
     "like-of" : [ "https://twitter.com/katie_jr/status/1543624635400462336" ],
