@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lesbianlawfirm/status/1542995513846423552" ],
     "name" : [ "Like of @lesbianlawfirm's tweet" ],
     "published" : [ "2022-07-03T14:16:00+0100" ],
     "like-of" : [ "https://twitter.com/lesbianlawfirm/status/1542995513846423552" ],
