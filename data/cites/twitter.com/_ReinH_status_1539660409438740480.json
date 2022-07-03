@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Boston, MA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "milo" ],
+          "nickname" : [ "i2talics" ],
+          "numeric-id" : [ "1220432920604823552" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1528452941157474305/-KUAYcyQ.jpg" ],
+          "published" : [ "2020-01-23T19:47:47+00:00" ],
+          "uid" : [ "tag:twitter.com:i2talics" ],
+          "url" : [ "https://twitter.com/i2talics", "http://pronoun.is/they?or=he" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "every rebuttal is just \"yes but ... its useful for me. so i dont care\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReinH\"></a>",
+        "value" : "every rebuttal is just \"yes but ... its useful for me. so i dont care\""
+      } ],
+      "in-reply-to" : [ "https://twitter.com/ReinH/status/1539626662274269185" ],
+      "published" : [ "2022-06-22T17:01:40+00:00" ],
+      "uid" : [ "tag:twitter.com:1539654866699575296" ],
+      "url" : [ "https://twitter.com/i2talics/status/1539654866699575296" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "if you only act ethically when it is convenient you are not in fact an ethical person <a href=\"https://twitter.com/i2talics/status/1539654866699575296?s=20&t=iSjxSFx-96VrmH96fr-aqw\">twitter.com/i2talics/statu…</a>",
+      "value" : "if you only act ethically when it is convenient you are not in fact an ethical person twitter.com/i2talics/statu…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1539627618902847488" ],
+    "published" : [ "2022-06-22T17:23:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1539660409438740480" ],
+    "url" : [ "https://twitter.com/ReinH/status/1539660409438740480" ]
+  },
+  "type" : [ "h-entry" ]
+}
