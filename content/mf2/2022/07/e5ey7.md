@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IxAmxInevitable/status/1543503758642102272" ],
     "name" : [ "Like of @IxAmxInevitable's tweet" ],
     "published" : [ "2022-07-03T11:04:00+0100" ],
     "like-of" : [ "https://twitter.com/IxAmxInevitable/status/1543503758642102272" ],
