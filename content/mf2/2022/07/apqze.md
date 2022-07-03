@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RasputinRee/status/1543257605497167872" ],
     "name" : [ "Like of @RasputinRee's tweet" ],
     "published" : [ "2022-07-03T18:30:00+0100" ],
     "like-of" : [ "https://twitter.com/RasputinRee/status/1543257605497167872" ],
