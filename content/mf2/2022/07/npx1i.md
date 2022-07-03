@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TurnBuckl/status/1458463032506568713" ],
     "name" : [ "Like of @TurnBuckl's tweet" ],
     "published" : [ "2022-07-03T11:05:00+0100" ],
     "like-of" : [ "https://twitter.com/TurnBuckl/status/1458463032506568713" ],
