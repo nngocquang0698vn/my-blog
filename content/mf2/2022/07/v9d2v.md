@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dino_comics/status/1543364766273617920" ],
     "name" : [ "Like of @dino_comics's tweet" ],
     "published" : [ "2022-07-03T15:48:00+0100" ],
     "like-of" : [ "https://twitter.com/dino_comics/status/1543364766273617920" ],
