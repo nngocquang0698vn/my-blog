@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Clark County, Ohio" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Bob Golen" ],
+        "nickname" : [ "BobGolen" ],
+        "numeric-id" : [ "891251263" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1297960829975920641/0ikmnSOu.jpg" ],
+        "published" : [ "2012-10-19T15:48:57+00:00" ],
+        "uid" : [ "tag:twitter.com:BobGolen" ],
+        "url" : [ "https://twitter.com/BobGolen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "50% of Roger Federer‘s name is “er”" ],
+    "published" : [ "2022-07-02T14:59:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1543248015779045377" ],
+    "url" : [ "https://twitter.com/BobGolen/status/1543248015779045377" ]
+  },
+  "type" : [ "h-entry" ]
+}
