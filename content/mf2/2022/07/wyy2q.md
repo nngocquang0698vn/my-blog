@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kalehummus/status/1543805633975164928" ],
     "name" : [ "Like of @kalehummus's tweet" ],
     "published" : [ "2022-07-04T17:14:00+0100" ],
     "like-of" : [ "https://twitter.com/kalehummus/status/1543805633975164928" ],
