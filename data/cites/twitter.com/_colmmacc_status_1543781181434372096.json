@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Colm MacCárthaigh" ],
+        "nickname" : [ "colmmacc" ],
+        "numeric-id" : [ "14340150" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/696813823584374784/I2mByZE_.jpg" ],
+        "published" : [ "2008-04-09T08:47:22+00:00" ],
+        "uid" : [ "tag:twitter.com:colmmacc" ],
+        "url" : [ "https://twitter.com/colmmacc", "http://shufflesharding.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Here's a few seconds of live logs for real people using <a href=\"http://neverssl.com\">neverssl.com</a> , on a relatively quiet holiday weekend Sunday. It's about 4 or 5 a second. You can also see bursts of retries from Browsers dealing with flaky networks.",
+      "value" : "Here's a few seconds of live logs for real people using neverssl.com , on a relatively quiet holiday weekend Sunday. It's about 4 or 5 a second. You can also see bursts of retries from Browsers dealing with flaky networks."
+    } ],
+    "published" : [ "2022-07-04T02:18:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1543781181434372096" ],
+    "url" : [ "https://twitter.com/colmmacc/status/1543781181434372096" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1543780513957023744/pu/vid/2644x1080/9a-PYdZFQ-K3UaV9.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
