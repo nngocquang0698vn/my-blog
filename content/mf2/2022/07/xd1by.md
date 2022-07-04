@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/_mjwills/status/1543530919805743104" ],
     "name" : [ "Like of @_mjwills's tweet" ],
     "published" : [ "2022-07-04T08:14:00+0100" ],
     "like-of" : [ "https://twitter.com/_mjwills/status/1543530919805743104" ],
