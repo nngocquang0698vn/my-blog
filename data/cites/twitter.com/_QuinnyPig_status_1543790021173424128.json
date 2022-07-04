@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/colmmacc\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cperciva\"></a>"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/cperciva/status/1543788720976846852" ],
+    "published" : [ "2022-07-04T02:53:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1543790021173424128" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1543790021173424128" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FWyk1x7VUAI6kk0.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
