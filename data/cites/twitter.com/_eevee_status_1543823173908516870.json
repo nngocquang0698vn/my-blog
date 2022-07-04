@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado Springs, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eevee" ],
+        "nickname" : [ "eevee" ],
+        "numeric-id" : [ "14412937" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484360216804085760/6INZzUoH.jpg" ],
+        "published" : [ "2008-04-16T21:08:32+00:00" ],
+        "uid" : [ "tag:twitter.com:eevee" ],
+        "url" : [ "https://twitter.com/eevee", "https://eev.ee/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "there is no excuse for hitting your children" ],
+    "published" : [ "2022-07-04T05:05:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1543823173908516870" ],
+    "url" : [ "https://twitter.com/eevee/status/1543823173908516870" ]
+  },
+  "type" : [ "h-entry" ]
+}
