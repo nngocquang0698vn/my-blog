@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adrian Bliss" ],
+        "nickname" : [ "adrianbliss" ],
+        "numeric-id" : [ "115223378" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457042414263324679/iZh7nhw1.jpg" ],
+        "published" : [ "2010-02-18T00:45:40+00:00" ],
+        "uid" : [ "tag:twitter.com:adrianbliss" ],
+        "url" : [ "https://twitter.com/adrianbliss", "http://linktr.ee/adrianbliss" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Welcome to the stomach" ],
+    "published" : [ "2022-07-03T20:30:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1543693628211695616" ],
+    "url" : [ "https://twitter.com/adrianbliss/status/1543693628211695616" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1543693544308834305/pu/vid/720x1280/VqYAxsLXK1uWGHRi.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
