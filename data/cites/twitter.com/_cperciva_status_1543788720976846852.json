@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maple Ridge, British Columbia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Colin Percival" ],
+        "nickname" : [ "cperciva" ],
+        "numeric-id" : [ "17428767" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/427942491/Colin.png" ],
+        "published" : [ "2008-11-16T22:11:16+00:00" ],
+        "uid" : [ "tag:twitter.com:cperciva" ],
+        "url" : [ "https://twitter.com/cperciva", "http://www.daemonology.net/blog/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I wonder what would happen if you started redirecting the bots to HTTPS.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/colmmacc\"></a>",
+      "value" : "I wonder what would happen if you started redirecting the bots to HTTPS."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/colmmacc/status/1543788359033663489" ],
+    "published" : [ "2022-07-04T02:48:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1543788720976846852" ],
+    "url" : [ "https://twitter.com/cperciva/status/1543788720976846852" ]
+  },
+  "type" : [ "h-entry" ]
+}
