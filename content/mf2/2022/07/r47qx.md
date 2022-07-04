@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shiamuz/status/1543675157683867650" ],
     "name" : [ "Like of @shiamuz's tweet" ],
     "published" : [ "2022-07-04T14:41:00+0100" ],
     "like-of" : [ "https://twitter.com/shiamuz/status/1543675157683867650" ],
