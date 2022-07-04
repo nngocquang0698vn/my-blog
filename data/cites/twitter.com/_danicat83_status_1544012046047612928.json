@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bournemouth, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniela Petruzalek" ],
+        "nickname" : [ "danicat83" ],
+        "numeric-id" : [ "1901819173" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533181643158085634/2iMEbDsk.jpg" ],
+        "published" : [ "2013-09-24T21:12:26+00:00" ],
+        "uid" : [ "tag:twitter.com:danicat83" ],
+        "url" : [ "https://twitter.com/danicat83", "https://github.com/danicat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm curious about what companies in the UK have a strong <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> base and are NOT working with crypto. Bonus points if they are not financial services!",
+      "value" : "I'm curious about what companies in the UK have a strong #golang base and are NOT working with crypto. Bonus points if they are not financial services!"
+    } ],
+    "published" : [ "2022-07-04T17:35:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1544012046047612928" ],
+    "url" : [ "https://twitter.com/danicat83/status/1544012046047612928" ]
+  },
+  "type" : [ "h-entry" ]
+}
