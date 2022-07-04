@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/crissles/status/1543658314852188164" ],
     "name" : [ "Like of @crissles's tweet" ],
     "published" : [ "2022-07-04T17:15:00+0100" ],
     "like-of" : [ "https://twitter.com/crissles/status/1543658314852188164" ],
