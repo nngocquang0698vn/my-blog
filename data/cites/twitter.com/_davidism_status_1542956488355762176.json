@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Lord" ],
+        "nickname" : [ "davidism" ],
+        "numeric-id" : [ "14826719" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1346490357299613701/h3x1ti0k.jpg" ],
+        "published" : [ "2008-05-19T01:09:17+00:00" ],
+        "uid" : [ "tag:twitter.com:davidism" ],
+        "url" : [ "https://twitter.com/davidism", "https://davidism.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I've done it. I've achieved the open source maintainer platinum trophy. There are ✨no open issues or pull requests on Flask ✨, a framework downloaded 75 million times in the last month." ],
+    "photo" : [ {
+      "alt" : "Screenshot of the GitHub issues page for Flask, showing no open issues.",
+      "value" : "https://pbs.twimg.com/media/FWmuKQEUsAAVZlY.jpg"
+    } ],
+    "published" : [ "2022-07-01T19:41:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1542956488355762176" ],
+    "url" : [ "https://twitter.com/davidism/status/1542956488355762176" ]
+  },
+  "type" : [ "h-entry" ]
+}
