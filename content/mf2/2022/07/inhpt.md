@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Gahostan/status/1543810861202014208" ],
     "name" : [ "Like of @Gahostan's tweet" ],
     "published" : [ "2022-07-04T21:17:00+0100" ],
     "like-of" : [ "https://twitter.com/Gahostan/status/1543810861202014208" ],
