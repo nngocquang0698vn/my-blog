@@ -1,30 +1,30 @@
 {
-  "type" : [ "h-entry" ],
   "properties" : {
-    "uid" : [ "tag:twitter.com:1397006727724232707" ],
-    "url" : [ "https://twitter.com/fingerbIaster/status/1397006727724232707" ],
-    "published" : [ "2021-05-25T01:48:53+00:00" ],
     "author" : [ {
-      "type" : [ "h-card" ],
       "properties" : {
-        "uid" : [ "tag:twitter.com:fingerbIaster" ],
-        "numeric-id" : [ "1031553656192036864" ],
-        "name" : [ "j̴̢͘҉i̸̢͞z̛̛̀҉͞z̡͞w̶̵̢͜͞i̡͘t̸͝͝c̸͝h̀͏" ],
-        "nickname" : [ "fingerbIaster" ],
-        "url" : [ "https://twitter.com/fingerbIaster", "https://www.amazon.com/hz/wishlist/ls/2DFNFDJ09IOKG", "http://cash.me/jizzwitch" ],
-        "published" : [ "2018-08-20T14:48:51+00:00" ],
         "location" : [ {
-          "type" : [ "h-card", "p-location" ],
           "properties" : {
             "name" : [ "the forest, oregon" ]
-          }
+          },
+          "type" : [ "h-card", "p-location" ]
         } ],
-        "photo" : [ "https://pbs.twimg.com/profile_images/1391824319001415689/oE5wRxzX.jpg" ]
-      }
+        "name" : [ "j̴̢͘҉i̸̢͞z̛̛̀҉͞z̡͞w̶̵̢͜͞i̡͘t̸͝͝c̸͝h̀͏" ],
+        "nickname" : [ "fingerbIaster" ],
+        "numeric-id" : [ "1031553656192036864" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510371288463790083/i8PtzKar.jpg" ],
+        "published" : [ "2018-08-20T14:48:51+00:00" ],
+        "uid" : [ "tag:twitter.com:fingerbIaster" ],
+        "url" : [ "https://twitter.com/fingerbIaster", "https://linktr.ee/jizzwitch" ]
+      },
+      "type" : [ "h-card" ]
     } ],
     "content" : [ {
-      "value" : "why don't the \"No Kink At Pride\" people freak out about tits at mardi gras?  what, oh what, could be the difference?  \n\nwell I guess we'll never know",
-      "html" : "<div style=\"white-space: pre\">why don't the \"No Kink At Pride\" people freak out about tits at mardi gras?  what, oh what, could be the difference?  \n\nwell I guess we'll never know</div>"
-    } ]
-  }
+      "html" : "<div style=\"white-space: pre\">why don't the \"No Kink At Pride\" people freak out about tits at mardi gras?  what, oh what, could be the difference?  \n\nwell I guess we'll never know</div>",
+      "value" : "why don't the \"No Kink At Pride\" people freak out about tits at mardi gras?  what, oh what, could be the difference?  \n\nwell I guess we'll never know"
+    } ],
+    "published" : [ "2021-05-25T01:48:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1397006727724232707" ],
+    "url" : [ "https://twitter.com/fingerbIaster/status/1397006727724232707" ]
+  },
+  "type" : [ "h-entry" ]
 }
