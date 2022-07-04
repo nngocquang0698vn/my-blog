@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jes_chastain/status/1543971124819755010" ],
     "name" : [ "Like of @jes_chastain's tweet" ],
     "published" : [ "2022-07-04T18:56:00+0100" ],
     "like-of" : [ "https://twitter.com/jes_chastain/status/1543971124819755010" ],
