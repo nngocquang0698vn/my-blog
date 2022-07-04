@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Wellington City, New Zealand" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Matthew @SwordsComic" ],
+          "nickname" : [ "_mjwills" ],
+          "numeric-id" : [ "18576332" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1521258160303968258/JbtAIiNH.jpg" ],
+          "published" : [ "2009-01-03T08:31:07+00:00" ],
+          "uid" : [ "tag:twitter.com:_mjwills" ],
+          "url" : [ "https://twitter.com/_mjwills", "https://linktr.ee/swordscomic" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I will never be this funny." ],
+      "photo" : [ "https://pbs.twimg.com/media/FWu5J8eaQAEoRs_.jpg" ],
+      "published" : [ "2022-07-03T09:43:43+00:00" ],
+      "uid" : [ "tag:twitter.com:1543530919805743104" ],
+      "url" : [ "https://twitter.com/_mjwills/status/1543530919805743104" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Indiana" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "matty @ MEGALOS!! | am both shark and goblin" ],
+        "nickname" : [ "Gahostan" ],
+        "numeric-id" : [ "173517576" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541582457723551745/GvG17COs.jpg" ],
+        "published" : [ "2010-08-01T17:56:18+00:00" ],
+        "uid" : [ "tag:twitter.com:Gahostan" ],
+        "url" : [ "https://twitter.com/Gahostan", "https://mataramg.itch.io/", "http://ko-fi.com/mattyd0432" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Standup comedians be like \"we can't be funny without being racist or transphobic\".\n\nMeanwhile, this single image is funnier than 12 hours of Dave Chappelle.</div>",
+      "value" : "Standup comedians be like \"we can't be funny without being racist or transphobic\".\n\nMeanwhile, this single image is funnier than 12 hours of Dave Chappelle."
+    } ],
+    "published" : [ "2022-07-04T04:16:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1543810861202014208" ],
+    "url" : [ "https://twitter.com/Gahostan/status/1543810861202014208" ]
+  },
+  "type" : [ "h-entry" ]
+}
