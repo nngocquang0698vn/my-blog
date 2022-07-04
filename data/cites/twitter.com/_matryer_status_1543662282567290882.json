@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163536220686864384/SP6Xu8tl.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://xbarapp.com", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Would anybody be willing to join a Go Time episode to talk about Burnout? Whether you’ve experienced it yourself, or coached people through it, I’m looking for Gophers who can shed some light on the subject, with the goal of helping others recover or to avoid altogether. <a href=\"https://twitter.com/search?q=%23golang\">#golang</a>",
+      "value" : "Would anybody be willing to join a Go Time episode to talk about Burnout? Whether you’ve experienced it yourself, or coached people through it, I’m looking for Gophers who can shed some light on the subject, with the goal of helping others recover or to avoid altogether. #golang"
+    } ],
+    "published" : [ "2022-07-03T18:25:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1543662282567290882" ],
+    "url" : [ "https://twitter.com/matryer/status/1543662282567290882" ]
+  },
+  "type" : [ "h-entry" ]
+}
