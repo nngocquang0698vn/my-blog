@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Hamburg, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gunnar Morling 🌍" ],
+        "nickname" : [ "gunnarmorling" ],
+        "numeric-id" : [ "2342011352" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1411051861415759880/4vzagQao.jpg" ],
+        "published" : [ "2014-02-13T13:48:11+00:00" ],
+        "uid" : [ "tag:twitter.com:gunnarmorling" ],
+        "url" : [ "https://twitter.com/gunnarmorling", "https://morling.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Oddly satisfying to rework <a href=\"https://twitter.com/search?q=%23Java\">#Java</a> code to make use of record types. Removed code is good code, I guess 💪. <a href=\"https://twitter.com/search?q=%23kcctl\">#kcctl</a>🐻\n\n<a href=\"https://github.com/kcctl/kcctl/commit/2628df2095994a25ae8883d7eb92ac66bae35d99\">github.com/kcctl/kcctl/co…</a></div>",
+      "value" : "Oddly satisfying to rework #Java code to make use of record types. Removed code is good code, I guess 💪. #kcctl🐻\n\ngithub.com/kcctl/kcctl/co…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FW0PKJVX0AAYjko.png" ],
+    "published" : [ "2022-07-04T10:42:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1543908160985042946" ],
+    "url" : [ "https://twitter.com/gunnarmorling/status/1543908160985042946" ]
+  },
+  "type" : [ "h-entry" ]
+}
