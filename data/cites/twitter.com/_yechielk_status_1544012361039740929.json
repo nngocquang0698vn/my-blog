@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/BrianEntin/sta…" ],
+        "url" : [ "https://twitter.com/BrianEntin/status/1543998342316888064" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Brian Entin" ],
+          "nickname" : [ "BrianEntin" ],
+          "numeric-id" : [ "566445645" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1260722248719257601/lUhyFzZj.jpg" ],
+          "published" : [ "2012-04-29T14:48:32+00:00" ],
+          "uid" : [ "tag:twitter.com:BrianEntin" ],
+          "url" : [ "https://twitter.com/BrianEntin", "http://www.NewsNationNow.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Authorities say shooter is still at large -- so neighboring cities are cancelling 4th of July events.\n<a class=\"tag\" href=\"https://twitter.com/BrianEntin/status/1543998342316888064\">twitter.com/BrianEntin/sta…</a>",
+        "value" : "Authorities say shooter is still at large -- so neighboring cities are cancelling 4th of July events."
+      } ],
+      "published" : [ "2022-07-04T16:59:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1544002968655200256" ],
+      "url" : [ "https://twitter.com/BrianEntin/status/1544002968655200256" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Home" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Yechiel" ],
+        "nickname" : [ "yechielk" ],
+        "numeric-id" : [ "2433609804" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389240686000619529/14-L8yd0.jpg" ],
+        "published" : [ "2014-04-08T13:25:52+00:00" ],
+        "uid" : [ "tag:twitter.com:yechielk" ],
+        "url" : [ "https://twitter.com/yechielk", "https://yechiel.me", "http://RabbiOnRails.io", "http://torahandtech.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">America.\n\nWhere our freedom to carry guns trumps our freedom to celebrate our freedom.</div>",
+      "value" : "America.\n\nWhere our freedom to carry guns trumps our freedom to celebrate our freedom."
+    } ],
+    "published" : [ "2022-07-04T17:36:47+00:00" ],
+    "uid" : [ "tag:twitter.com:1544012361039740929" ],
+    "url" : [ "https://twitter.com/yechielk/status/1544012361039740929" ]
+  },
+  "type" : [ "h-entry" ]
+}
