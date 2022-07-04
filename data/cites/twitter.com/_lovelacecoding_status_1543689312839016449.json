@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Find out more about me →" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lou Creemers" ],
+        "nickname" : [ "lovelacecoding" ],
+        "numeric-id" : [ "1405430507748352000" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477386656839839753/O6EpKE4F.jpg" ],
+        "published" : [ "2021-06-17T07:42:46+00:00" ],
+        "uid" : [ "tag:twitter.com:lovelacecoding" ],
+        "url" : [ "https://twitter.com/lovelacecoding", "http://louella.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I don't know if TTCon is a smart or dumb name. It reminds me of chest area's 😆\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FrancescoCiull4\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/eddiejaoude\"></a>",
+      "value" : "I don't know if TTCon is a smart or dumb name. It reminds me of chest area's 😆"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/eddiejaoude/status/1543497248478298113" ],
+    "published" : [ "2022-07-03T20:13:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1543689312839016449" ],
+    "url" : [ "https://twitter.com/lovelacecoding/status/1543689312839016449" ]
+  },
+  "type" : [ "h-entry" ]
+}
