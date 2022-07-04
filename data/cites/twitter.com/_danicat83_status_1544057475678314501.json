@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bournemouth, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniela Petruzalek" ],
+        "nickname" : [ "danicat83" ],
+        "numeric-id" : [ "1901819173" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533181643158085634/2iMEbDsk.jpg" ],
+        "published" : [ "2013-09-24T21:12:26+00:00" ],
+        "uid" : [ "tag:twitter.com:danicat83" ],
+        "url" : [ "https://twitter.com/danicat83", "https://github.com/danicat" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I had the impression that Deliveroo was mostly a Java shop for some reason. Nice to know you are doing Go\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/DeliverooEng\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>",
+      "value" : "I had the impression that Deliveroo was mostly a Java shop for some reason. Nice to know you are doing Go"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1544038357310767104" ],
+    "published" : [ "2022-07-04T20:36:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1544057475678314501" ],
+    "url" : [ "https://twitter.com/danicat83/status/1544057475678314501" ]
+  },
+  "type" : [ "h-entry" ]
+}
