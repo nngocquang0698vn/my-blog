@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/camerobradford/status/1544021207254712321" ],
     "name" : [ "Like of @camerobradford's tweet" ],
     "published" : [ "2022-07-05T16:45:00+0100" ],
     "like-of" : [ "https://twitter.com/camerobradford/status/1544021207254712321" ],
