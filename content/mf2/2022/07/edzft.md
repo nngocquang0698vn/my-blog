@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CryptoZemer/status/1543976040925732864" ],
     "name" : [ "Like of @CryptoZemer's tweet" ],
     "published" : [ "2022-07-05T18:51:00+0100" ],
     "like-of" : [ "https://twitter.com/CryptoZemer/status/1543976040925732864" ],
