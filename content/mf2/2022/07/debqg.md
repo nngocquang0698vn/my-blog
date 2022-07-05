@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/candiwrites/status/1544393234419417089" ],
     "name" : [ "Like of @candiwrites's tweet" ],
     "published" : [ "2022-07-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/candiwrites/status/1544393234419417089" ],
