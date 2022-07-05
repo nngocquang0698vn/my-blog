@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasonsfolly/status/1544382235322753024" ],
     "name" : [ "Like of @jasonsfolly's tweet" ],
     "published" : [ "2022-07-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/jasonsfolly/status/1544382235322753024" ],
