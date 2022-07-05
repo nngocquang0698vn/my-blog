@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MitchBenn/status/1544370686487105536" ],
     "name" : [ "Like of @MitchBenn's tweet" ],
     "published" : [ "2022-07-05T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/MitchBenn/status/1544370686487105536" ],
