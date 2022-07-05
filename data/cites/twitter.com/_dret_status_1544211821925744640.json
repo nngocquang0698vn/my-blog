@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "HTTP Working Group" ],
+          "nickname" : [ "http_wg" ],
+          "numeric-id" : [ "2324602596" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1179534326385373185/rfTuhx0g.png" ],
+          "published" : [ "2014-02-03T01:30:59+00:00" ],
+          "uid" : [ "tag:twitter.com:http_wg" ],
+          "url" : [ "https://twitter.com/http_wg", "http://httpwg.org/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "New revision 03 of The HTTP QUERY Method published. <a href=\"https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body/\">datatracker.ietf.org/doc/draft-ietf…</a>",
+        "value" : "New revision 03 of The HTTP QUERY Method published. datatracker.ietf.org/doc/draft-ietf…"
+      } ],
+      "published" : [ "2022-07-04T20:30:52+00:00" ],
+      "uid" : [ "tag:twitter.com:1544056168665980930" ],
+      "url" : [ "https://twitter.com/http_wg/status/1544056168665980930" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Zurich, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erik Wilde" ],
+        "nickname" : [ "dret" ],
+        "numeric-id" : [ "13072452" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/828971507820982272/5IhAUAal.jpg" ],
+        "published" : [ "2008-02-05T00:01:31+00:00" ],
+        "uid" : [ "tag:twitter.com:dret" ],
+        "url" : [ "https://twitter.com/dret", "https://www.youtube.com/c/ErikWilde" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In some cases, an HTTP <a href=\"https://twitter.com/search?q=%23API\">#API</a> only uses POST because there's no better fitting alternative: POST is the \"do anything\" fallback of HTTP. But if you're using POST for GET-like requests just because GET doesn't allow request bodies, then the proposed QUERY method is a better choice.",
+      "value" : "In some cases, an HTTP #API only uses POST because there's no better fitting alternative: POST is the \"do anything\" fallback of HTTP. But if you're using POST for GET-like requests just because GET doesn't allow request bodies, then the proposed QUERY method is a better choice."
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Zurich, Switzerland" ],
+        "uid" : [ "tag:twitter.com:3acb748d0f1e9265" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-07-05T06:49:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1544211821925744640" ],
+    "url" : [ "https://twitter.com/dret/status/1544211821925744640" ]
+  },
+  "type" : [ "h-entry" ]
+}
