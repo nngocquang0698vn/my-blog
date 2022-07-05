@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MythraWasTaken/status/1544196322315554816" ],
     "name" : [ "Like of @MythraWasTaken's tweet" ],
     "published" : [ "2022-07-05T08:36:00+0100" ],
     "like-of" : [ "https://twitter.com/MythraWasTaken/status/1544196322315554816" ],
