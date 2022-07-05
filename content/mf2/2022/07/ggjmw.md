@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sophiasgaler/status/1544369829129371649" ],
     "name" : [ "Like of @sophiasgaler's tweet" ],
     "published" : [ "2022-07-05T19:13:00+0100" ],
     "like-of" : [ "https://twitter.com/sophiasgaler/status/1544369829129371649" ],
