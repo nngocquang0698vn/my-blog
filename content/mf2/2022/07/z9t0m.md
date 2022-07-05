@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LauraJHyatt/status/1543885001518899200" ],
     "name" : [ "Like of @LauraJHyatt's tweet" ],
     "published" : [ "2022-07-05T16:41:00+0100" ],
     "like-of" : [ "https://twitter.com/LauraJHyatt/status/1543885001518899200" ],
