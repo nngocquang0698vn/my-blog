@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Amy Hupe" ],
+          "nickname" : [ "Amy_Hupe" ],
+          "numeric-id" : [ "823335972" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1543160206976319488/p-qao-tv.jpg" ],
+          "published" : [ "2012-09-14T13:54:47+00:00" ],
+          "uid" : [ "tag:twitter.com:Amy_Hupe" ],
+          "url" : [ "https://twitter.com/Amy_Hupe", "https://www.amyhupe.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">I’ve written about why we need to change the way we describe bad design patterns - and what to say instead.\n\nThanks to <a href=\"https://twitter.com/candiwrites\">@candiwrites</a> and <a href=\"https://twitter.com/CuriousScutter\">@CuriousScutter</a> for making me aware of this issue in the first place.\n\n⚠️ Content warning: racist language\n\n<a href=\"https://bit.ly/3nuC3lt\">bit.ly/3nuC3lt</a></div>",
+        "value" : "I’ve written about why we need to change the way we describe bad design patterns - and what to say instead.\n\nThanks to @candiwrites and @CuriousScutter for making me aware of this issue in the first place.\n\n⚠️ Content warning: racist language\n\nbit.ly/3nuC3lt"
+      } ],
+      "published" : [ "2022-07-01T15:16:19+00:00" ],
+      "uid" : [ "tag:twitter.com:1542889844573175810" ],
+      "url" : [ "https://twitter.com/Amy_Hupe/status/1542889844573175810" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/amy_hupe/statu…" ],
+      "url" : [ "https://twitter.com/amy_hupe/status/1542889844573175810" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy Hupe" ],
+        "nickname" : [ "Amy_Hupe" ],
+        "numeric-id" : [ "823335972" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543160206976319488/p-qao-tv.jpg" ],
+        "published" : [ "2012-09-14T13:54:47+00:00" ],
+        "uid" : [ "tag:twitter.com:Amy_Hupe" ],
+        "url" : [ "https://twitter.com/Amy_Hupe", "https://www.amyhupe.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just a blanket notice here, if you’re white and replying to this:\n\na) don’t use the racist term\n\nb) feel free to keep your assessment of whether this is reasonable, proportionate or valid entirely to yourself\n\nc) you don’t have to have a take on everything, we’ll cope without it</div>\n<a class=\"tag\" href=\"https://twitter.com/amy_hupe/status/1542889844573175810\">twitter.com/amy_hupe/statu…</a>",
+      "value" : "Just a blanket notice here, if you’re white and replying to this:\n\na) don’t use the racist term\n\nb) feel free to keep your assessment of whether this is reasonable, proportionate or valid entirely to yourself\n\nc) you don’t have to have a take on everything, we’ll cope without it"
+    } ],
+    "published" : [ "2022-07-05T15:37:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1544344686315204608" ],
+    "url" : [ "https://twitter.com/Amy_Hupe/status/1544344686315204608" ]
+  },
+  "type" : [ "h-entry" ]
+}
