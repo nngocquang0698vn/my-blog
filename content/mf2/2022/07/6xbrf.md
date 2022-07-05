@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CertifiedLeggi/status/1543977266627190787" ],
     "name" : [ "Like of @CertifiedLeggi's tweet" ],
     "published" : [ "2022-07-05T10:10:00+0100" ],
     "category" : [ "cute" ],
