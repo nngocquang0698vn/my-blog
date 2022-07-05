@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dret/status/1544211821925744640" ],
     "name" : [ "Like of @dret's tweet" ],
     "published" : [ "2022-07-05T10:21:00+0100" ],
     "like-of" : [ "https://twitter.com/dret/status/1544211821925744640" ],
