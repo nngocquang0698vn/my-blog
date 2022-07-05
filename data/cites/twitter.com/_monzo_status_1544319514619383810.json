@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Monzo" ],
+        "nickname" : [ "monzo" ],
+        "numeric-id" : [ "3224409977" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541345623777202176/w2sgiSOe.jpg" ],
+        "published" : [ "2015-04-30T12:53:58+00:00" ],
+        "uid" : [ "tag:twitter.com:monzo" ],
+        "url" : [ "https://twitter.com/monzo", "https://monzo.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Nobody will remember:\n- Your salary\n- Your fancy title\n- How ‘busy’ you were\n- How stressed you were\n- How many hours you worked\n\nPeople will remember:\n- The colour of your bank card</div>",
+      "value" : "Nobody will remember:\n- Your salary\n- Your fancy title\n- How ‘busy’ you were\n- How stressed you were\n- How many hours you worked\n\nPeople will remember:\n- The colour of your bank card"
+    } ],
+    "published" : [ "2022-07-05T13:57:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1544319514619383810" ],
+    "url" : [ "https://twitter.com/monzo/status/1544319514619383810" ]
+  },
+  "type" : [ "h-entry" ]
+}
