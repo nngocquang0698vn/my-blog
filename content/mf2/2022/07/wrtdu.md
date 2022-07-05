@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PplsCityCouncil/status/1544037747442065413" ],
     "name" : [ "Like of @PplsCityCouncil's tweet" ],
     "published" : [ "2022-07-05T10:09:00+0100" ],
     "like-of" : [ "https://twitter.com/PplsCityCouncil/status/1544037747442065413" ],
