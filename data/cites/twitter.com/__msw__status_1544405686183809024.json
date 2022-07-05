@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt 'msw' Wilson" ],
+        "nickname" : [ "_msw_" ],
+        "numeric-id" : [ "15656207" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457762378506928131/vzTewCB-.jpg" ],
+        "published" : [ "2008-07-30T04:04:46+00:00" ],
+        "uid" : [ "tag:twitter.com:_msw_" ],
+        "url" : [ "https://twitter.com/_msw_", "http://aws.amazon.com/", "http://linkedin.com/in/matthewswilson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It is also different (at least today), in that if the service detects it has generated a suggestion that may be similar to code in the training corpus, it provides a reference to that code so you can learn more about it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/voxpelli\"></a>",
+      "value" : "It is also different (at least today), in that if the service detects it has generated a suggestion that may be similar to code in the training corpus, it provides a reference to that code so you can learn more about it."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/voxpelli/status/1543894929851686913" ],
+    "published" : [ "2022-07-05T19:39:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1544405686183809024" ],
+    "url" : [ "https://twitter.com/_msw_/status/1544405686183809024" ]
+  },
+  "type" : [ "h-entry" ]
+}
