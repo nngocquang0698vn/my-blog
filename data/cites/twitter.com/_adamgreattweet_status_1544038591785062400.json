@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Richmond, VA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Adam" ],
+        "nickname" : [ "adamgreattweet" ],
+        "numeric-id" : [ "1178074432100868097" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1476754198175830016/8m2WZej8.jpg" ],
+        "published" : [ "2019-09-28T22:30:27+00:00" ],
+        "uid" : [ "tag:twitter.com:adamgreattweet" ],
+        "url" : [ "https://twitter.com/adamgreattweet", "https://twitter.com/search/from:adamgreattweet(exclude:replies)" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">united states           mcflurry machine \n\n                          🤝 \n\n      not working for the people</div>",
+      "value" : "united states           mcflurry machine \n\n                          🤝 \n\n      not working for the people"
+    } ],
+    "published" : [ "2022-07-04T19:21:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1544038591785062400" ],
+    "url" : [ "https://twitter.com/adamgreattweet/status/1544038591785062400" ]
+  },
+  "type" : [ "h-entry" ]
+}
