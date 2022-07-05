@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Toronto, Ontario" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lisa ✊" ],
+        "nickname" : [ "thedoh" ],
+        "numeric-id" : [ "14946551" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1120808505580183552/Z3Sp_Sum.png" ],
+        "published" : [ "2008-05-29T18:28:14+00:00" ],
+        "uid" : [ "tag:twitter.com:thedoh" ],
+        "url" : [ "https://twitter.com/thedoh", "https://lisa.dev", "http://pronoun.is/she/her" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Small personal note: Cats rule." ],
+    "published" : [ "2022-07-05T13:55:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1544319128462413824" ],
+    "url" : [ "https://twitter.com/thedoh/status/1544319128462413824" ]
+  },
+  "type" : [ "h-entry" ]
+}
