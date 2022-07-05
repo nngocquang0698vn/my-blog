@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Nicer struct literals in Go templates" ],
+    "summary" : [ "Go templates (text/template, html/template) accept a single argument to render. That’s generally enough when you’re executing them from Go code. But when invoking a template from another template, you often want to pass multiple things to it.\nFor example, we might have a template that renders a nav bar item. It requires a title, a url, and an “enabled” bool. We want to invoke it from another template.\nHow do you do that?" ],
+    "featured" : [ "https://commaok.xyz/images/avatar.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Josh Bleecher Snyder" ]
+      }
+    } ],
+    "url" : [ "https://commaok.xyz/post/tstruct/" ],
+    "published" : [ "2022-06-24T08:12:48-07:00" ]
+  }
+}
