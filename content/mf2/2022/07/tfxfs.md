@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KwajoHousing/status/1544395992480595968" ],
     "name" : [ "Like of @KwajoHousing's tweet" ],
     "published" : [ "2022-07-05T21:38:00+0100" ],
     "like-of" : [ "https://twitter.com/KwajoHousing/status/1544395992480595968" ],
