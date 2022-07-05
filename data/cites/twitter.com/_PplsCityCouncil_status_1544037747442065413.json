@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "KATY PERRY" ],
+          "nickname" : [ "katyperry" ],
+          "numeric-id" : [ "21447363" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1392465354622791687/w_KwtKcE.jpg" ],
+          "published" : [ "2009-02-20T23:45:56+00:00" ],
+          "uid" : [ "tag:twitter.com:katyperry" ],
+          "url" : [ "https://twitter.com/katyperry", "http://linktr.ee/katyperry" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "“Baby you’re a firework” is a 10 but women in the US have fewer rights than an actual sparkler smh" ],
+      "published" : [ "2022-07-04T09:44:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1543893624865583104" ],
+      "url" : [ "https://twitter.com/katyperry/status/1543893624865583104" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "People’s City Council - Los Angeles" ],
+        "nickname" : [ "PplsCityCouncil" ],
+        "numeric-id" : [ "1253939558514692098" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1253939834160177152/9KvUzGYT.jpg" ],
+        "published" : [ "2020-04-25T06:51:11+00:00" ],
+        "uid" : [ "tag:twitter.com:PplsCityCouncil" ],
+        "url" : [ "https://twitter.com/PplsCityCouncil", "http://peoplescitycouncil-la.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "You supported anti-abortion billionaire Rick Caruso for mayor" ],
+    "published" : [ "2022-07-04T19:17:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1544037747442065413" ],
+    "url" : [ "https://twitter.com/PplsCityCouncil/status/1544037747442065413" ]
+  },
+  "type" : [ "h-entry" ]
+}
