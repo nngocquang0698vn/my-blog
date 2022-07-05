@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/indiesleazebag/status/1543856426778443776" ],
     "name" : [ "Like of @indiesleazebag's tweet" ],
     "published" : [ "2022-07-05T16:47:00+0100" ],
     "like-of" : [ "https://twitter.com/indiesleazebag/status/1543856426778443776" ],
