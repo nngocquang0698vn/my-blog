@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/goldengateblond/status/1544016473202446336" ],
     "name" : [ "Like of @goldengateblond's tweet" ],
     "published" : [ "2022-07-05T08:34:00+0100" ],
     "like-of" : [ "https://twitter.com/goldengateblond/status/1544016473202446336" ],
