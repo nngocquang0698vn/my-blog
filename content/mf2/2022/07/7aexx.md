@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dawne_yarbrough/status/1543974469957328897" ],
     "name" : [ "Like of @Dawne_yarbrough's tweet" ],
     "published" : [ "2022-07-05T10:21:00+0100" ],
     "like-of" : [ "https://twitter.com/Dawne_yarbrough/status/1543974469957328897" ],
