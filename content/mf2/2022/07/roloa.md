@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/PantiBliss/status/1543984002092175360" ],
     "name" : [ "Like of @PantiBliss's tweet" ],
     "published" : [ "2022-07-05T16:33:00+0100" ],
     "like-of" : [ "https://twitter.com/PantiBliss/status/1543984002092175360" ],
