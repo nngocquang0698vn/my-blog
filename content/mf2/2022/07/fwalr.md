@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ValiMD/status/1544077709680300033" ],
     "name" : [ "Like of @ValiMD's tweet" ],
     "published" : [ "2022-07-05T10:18:00+0100" ],
     "like-of" : [ "https://twitter.com/ValiMD/status/1544077709680300033" ],
