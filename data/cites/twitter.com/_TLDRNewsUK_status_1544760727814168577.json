@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "East London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Scott Bryan" ],
+          "nickname" : [ "scottygb" ],
+          "numeric-id" : [ "15721456" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT.jpg" ],
+          "published" : [ "2008-08-04T12:33:01+00:00" ],
+          "uid" : [ "tag:twitter.com:scottygb" ],
+          "url" : [ "https://twitter.com/scottygb", "http://www.scottybryan.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">INCREDIBLE SCENES:\n\nBBC News accidentally cut away to their news studio, showing a presenter with their feet on the desk.</div>",
+        "value" : "INCREDIBLE SCENES:\n\nBBC News accidentally cut away to their news studio, showing a presenter with their feet on the desk."
+      } ],
+      "published" : [ "2022-07-06T19:09:07+00:00" ],
+      "uid" : [ "tag:twitter.com:1544760371998871552" ],
+      "url" : [ "https://twitter.com/scottygb/status/1544760371998871552" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1544760338058543106/pu/vid/1264x720/Sb0KQIaCFohbu8Ed.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "TLDR News UK" ],
+        "nickname" : [ "TLDRNewsUK" ],
+        "numeric-id" : [ "892125759963312128" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1349817668904300544/zHaLsh22.jpg" ],
+        "published" : [ "2017-07-31T20:52:10+00:00" ],
+        "uid" : [ "tag:twitter.com:TLDRNewsUK" ],
+        "url" : [ "https://twitter.com/TLDRNewsUK", "https://www.youtube.com/channel/UCSMqateX8OA2s1wsOR2EgJA", "http://tldrnews.co.uk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's been a long day for everybody 😴" ],
+    "published" : [ "2022-07-06T19:10:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1544760727814168577" ],
+    "url" : [ "https://twitter.com/TLDRNewsUK/status/1544760727814168577" ]
+  },
+  "type" : [ "h-entry" ]
+}
