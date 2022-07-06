@@ -1,0 +1,73 @@
+{
+  "children" : [ {
+    "children" : [ {
+      "properties" : {
+        "name" : [ "twitter.com/mikeysmith/sta…" ],
+        "url" : [ "https://twitter.com/mikeysmith/status/1544658131183190019" ]
+      },
+      "type" : [ "h-cite" ]
+    } ],
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, UK" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jack Blackburn 🇺🇦" ],
+          "nickname" : [ "HackBlackburn" ],
+          "numeric-id" : [ "20243048" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1445823116479852545/_vlekbEm.jpg" ],
+          "published" : [ "2009-02-06T15:12:11+00:00" ],
+          "uid" : [ "tag:twitter.com:HackBlackburn" ],
+          "url" : [ "https://twitter.com/HackBlackburn", "http://www.thetimes.co.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">This would activate the Queen. \n\nLascelles Principles will direct her to decline his request for a dissolution. She then is left with the choice to dismiss him or not.</div>\n<a class=\"tag\" href=\"https://twitter.com/mikeysmith/status/1544658131183190019\">twitter.com/mikeysmith/sta…</a>",
+        "value" : "This would activate the Queen. \n\nLascelles Principles will direct her to decline his request for a dissolution. She then is left with the choice to dismiss him or not."
+      } ],
+      "published" : [ "2022-07-06T12:24:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1544658518162161664" ],
+      "url" : [ "https://twitter.com/HackBlackburn/status/1544658518162161664" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/hackblackburn/…" ],
+      "url" : [ "https://twitter.com/hackblackburn/status/1544658518162161664" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Glasgow" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "yer da" ],
+        "nickname" : [ "ynwatp" ],
+        "numeric-id" : [ "1315352069587513344" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1544773620458831873/sbHWPOzz.jpg" ],
+        "published" : [ "2020-10-11T18:02:36+00:00" ],
+        "uid" : [ "tag:twitter.com:ynwatp" ],
+        "url" : [ "https://twitter.com/ynwatp", "https://onlyfans.com/madamecersei" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "“activate the queen” even the ukraine flags are admitting she’s a hologram\n<a class=\"tag\" href=\"https://twitter.com/hackblackburn/status/1544658518162161664\">twitter.com/hackblackburn/…</a>",
+      "value" : "“activate the queen” even the ukraine flags are admitting she’s a hologram"
+    } ],
+    "published" : [ "2022-07-06T20:40:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1544783253625790465" ],
+    "url" : [ "https://twitter.com/ynwatp/status/1544783253625790465" ]
+  },
+  "type" : [ "h-entry" ]
+}
