@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sarah_edo/status/1544563333868621824" ],
     "name" : [ "Like of @sarah_edo's tweet" ],
     "published" : [ "2022-07-06T09:43:00+0100" ],
     "like-of" : [ "https://twitter.com/sarah_edo/status/1544563333868621824" ],
