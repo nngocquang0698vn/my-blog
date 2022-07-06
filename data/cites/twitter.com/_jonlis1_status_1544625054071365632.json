@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonathan Lis" ],
+        "nickname" : [ "jonlis1" ],
+        "numeric-id" : [ "166426325" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1300509508909912070/7uV1PCl4.jpg" ],
+        "published" : [ "2010-07-14T03:29:38+00:00" ],
+        "uid" : [ "tag:twitter.com:jonlis1" ],
+        "url" : [ "https://twitter.com/jonlis1" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Awful lot of people who’ve spent three years in a sewer suddenly taking issue with the smell" ],
+    "published" : [ "2022-07-06T10:11:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1544625054071365632" ],
+    "url" : [ "https://twitter.com/jonlis1/status/1544625054071365632" ]
+  },
+  "type" : [ "h-entry" ]
+}
