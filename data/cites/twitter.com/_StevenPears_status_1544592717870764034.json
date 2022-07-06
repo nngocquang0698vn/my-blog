@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522906463685033984/HF2aFRQt.jpg" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Mid-twenties? Now I just get \"you're clearly smart but maybe you could curb the attitude a little?\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JessPWhite\"></a>",
+      "value" : "Mid-twenties? Now I just get \"you're clearly smart but maybe you could curb the attitude a little?\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JessPWhite/status/1544591641805209600" ],
+    "published" : [ "2022-07-06T08:02:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1544592717870764034" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1544592717870764034" ]
+  },
+  "type" : [ "h-entry" ]
+}
