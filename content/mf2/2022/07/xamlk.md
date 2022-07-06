@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ynwatp/status/1544783253625790465" ],
     "name" : [ "Like of @ynwatp's tweet" ],
     "published" : [ "2022-07-06T22:50:00+0100" ],
     "like-of" : [ "https://twitter.com/ynwatp/status/1544783253625790465" ],
