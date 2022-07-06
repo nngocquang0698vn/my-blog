@@ -1,0 +1,59 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Miami 🌴" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "swyx 🌴" ],
+          "nickname" : [ "swyx" ],
+          "numeric-id" : [ "33521530" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+          "published" : [ "2009-04-20T14:04:41+00:00" ],
+          "uid" : [ "tag:twitter.com:swyx" ],
+          "url" : [ "https://twitter.com/swyx", "http://swyx.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">one bot to suggest a new index,\none bot to rebuild with a database branch,\none bot to measure the cost impact,\n\nand one bot to rule them all, \nand in darkness merge them.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bernhardsson\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/rauchg\"></a>",
+        "value" : "one bot to suggest a new index,\none bot to rebuild with a database branch,\none bot to measure the cost impact,\n\nand one bot to rule them all, \nand in darkness merge them."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/rauchg/status/1544745561462554624" ],
+      "published" : [ "2022-07-06T20:54:59+00:00" ],
+      "uid" : [ "tag:twitter.com:1544787012112228359" ],
+      "url" : [ "https://twitter.com/swyx/status/1544787012112228359" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Miami 🌴" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "swyx 🌴" ],
+        "nickname" : [ "swyx" ],
+        "numeric-id" : [ "33521530" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1510319731466993664/tGoqnzGK.jpg" ],
+        "published" : [ "2009-04-20T14:04:41+00:00" ],
+        "uid" : [ "tag:twitter.com:swyx" ],
+        "url" : [ "https://twitter.com/swyx", "http://swyx.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this isn't so far from reality - the paperclip maximizer of doom will probably be born on github " ],
+    "photo" : [ "https://pbs.twimg.com/media/FXAxTZ9WAAEt3fz.png" ],
+    "published" : [ "2022-07-06T21:02:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1544788886437642245" ],
+    "url" : [ "https://twitter.com/swyx/status/1544788886437642245" ]
+  },
+  "type" : [ "h-entry" ]
+}
