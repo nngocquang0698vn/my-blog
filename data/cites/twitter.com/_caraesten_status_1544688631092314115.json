@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "2040 presidential candidate" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Braden 🏺" ],
+          "nickname" : [ "BradenIsBased" ],
+          "numeric-id" : [ "745675797843709952" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1538034270685515777/86oREi_s.jpg" ],
+          "published" : [ "2016-06-22T17:52:19+00:00" ],
+          "uid" : [ "tag:twitter.com:BradenIsBased" ],
+          "url" : [ "https://twitter.com/BradenIsBased", "http://twitch.tv/bradenisbased" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I CAN'T BREATHE THIS IS THE FUNNIEST THING I'VE EVER HEARD" ],
+      "published" : [ "2022-07-05T22:29:20+00:00" ],
+      "uid" : [ "tag:twitter.com:1544448370500161543" ],
+      "url" : [ "https://twitter.com/BradenIsBased/status/1544448370500161543" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1544448353420836873/pu/vid/1280x720/stxauLW1G_oQcQa2.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Oakland, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cara" ],
+        "nickname" : [ "caraesten" ],
+        "numeric-id" : [ "15374401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1480662828314890243/kVcUmBCm.jpg" ],
+        "published" : [ "2008-07-10T05:22:16+00:00" ],
+        "uid" : [ "tag:twitter.com:caraesten" ],
+        "url" : [ "https://twitter.com/caraesten", "http://my.pronoun.is/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "THIS IS WHAT HE SOUNDS LIKE?" ],
+    "published" : [ "2022-07-06T14:24:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1544688631092314115" ],
+    "url" : [ "https://twitter.com/caraesten/status/1544688631092314115" ]
+  },
+  "type" : [ "h-entry" ]
+}
