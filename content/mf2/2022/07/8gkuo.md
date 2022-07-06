@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Transgirlpinup/status/1544330360263098369" ],
     "name" : [ "Like of @Transgirlpinup's tweet" ],
     "published" : [ "2022-07-06T09:32:00+0100" ],
     "like-of" : [ "https://twitter.com/Transgirlpinup/status/1544330360263098369" ],
