@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IAmJerdog/status/1544687869553508352" ],
     "name" : [ "Like of @IAmJerdog's tweet" ],
     "published" : [ "2022-07-06T16:35:00+0100" ],
     "like-of" : [ "https://twitter.com/IAmJerdog/status/1544687869553508352" ],
