@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AstroKatie/status/1544125344697012225" ],
     "name" : [ "Like of @AstroKatie's tweet" ],
     "published" : [ "2022-07-06T18:12:00+0100" ],
     "like-of" : [ "https://twitter.com/AstroKatie/status/1544125344697012225" ],
