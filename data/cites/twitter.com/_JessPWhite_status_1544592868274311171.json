@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica White 🦎" ],
+        "nickname" : [ "JessPWhite" ],
+        "numeric-id" : [ "3021209961" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540325418292723712/OqTRXAT8.jpg" ],
+        "published" : [ "2015-02-06T10:02:36+00:00" ],
+        "uid" : [ "tag:twitter.com:JessPWhite" ],
+        "url" : [ "https://twitter.com/JessPWhite", "https://bio.link/jesswhite" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "That made me cackle 😂\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/StevenPears\"></a>",
+      "value" : "That made me cackle 😂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/StevenPears/status/1544592717870764034" ],
+    "published" : [ "2022-07-06T08:03:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1544592868274311171" ],
+    "url" : [ "https://twitter.com/JessPWhite/status/1544592868274311171" ]
+  },
+  "type" : [ "h-entry" ]
+}
