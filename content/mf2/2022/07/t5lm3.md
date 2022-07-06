@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/anon_opin/status/1537871462735945730" ],
     "name" : [ "Like of @anon_opin's tweet" ],
     "published" : [ "2022-07-06T13:32:00+0100" ],
     "like-of" : [ "https://twitter.com/anon_opin/status/1537871462735945730" ],
