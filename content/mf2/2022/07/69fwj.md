@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dirtsquirrel2/status/1544356976297123841" ],
     "name" : [ "Like of @dirtsquirrel2's tweet" ],
     "published" : [ "2022-07-06T09:47:00+0100" ],
     "like-of" : [ "https://twitter.com/dirtsquirrel2/status/1544356976297123841" ],
