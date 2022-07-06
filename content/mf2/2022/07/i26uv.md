@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StopTweetingMia/status/1544105321206915072" ],
     "name" : [ "Like of @StopTweetingMia's tweet" ],
     "published" : [ "2022-07-06T09:32:00+0100" ],
     "like-of" : [ "https://twitter.com/StopTweetingMia/status/1544105321206915072" ],
