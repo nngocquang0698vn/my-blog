@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/MrNishKumar/status/1544372542097559554" ],
     "name" : [ "Like of @MrNishKumar's tweet" ],
     "published" : [ "2022-07-06T13:36:00+0100" ],
     "like-of" : [ "https://twitter.com/MrNishKumar/status/1544372542097559554" ],
