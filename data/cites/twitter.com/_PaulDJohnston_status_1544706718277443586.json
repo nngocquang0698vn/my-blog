@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - trying to be civil (as a service)" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489994130004533259/gz6LI1oW.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">As someone who has been doing serverless for nearly 8 years, and worked for AWS on serverless, and currently supporting a large org to deliver a very big serverless solution...\n\n... trying to build/waiting for the abstraction means you don't understand serverless.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davidand393\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/swardley\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/trylks\"></a>",
+      "value" : "As someone who has been doing serverless for nearly 8 years, and worked for AWS on serverless, and currently supporting a large org to deliver a very big serverless solution...\n\n... trying to build/waiting for the abstraction means you don't understand serverless."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/trylks/status/1544705834420260869" ],
+    "published" : [ "2022-07-06T15:35:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1544706718277443586" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1544706718277443586" ]
+  },
+  "type" : [ "h-entry" ]
+}
