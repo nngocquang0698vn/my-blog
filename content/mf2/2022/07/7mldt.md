@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KA_Doore/status/1544337491091750912" ],
     "name" : [ "Like of @KA_Doore's tweet" ],
     "published" : [ "2022-07-06T17:46:00+0100" ],
     "like-of" : [ "https://twitter.com/KA_Doore/status/1544337491091750912" ],
