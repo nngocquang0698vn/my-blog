@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "East London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Scott Bryan" ],
+        "nickname" : [ "scottygb" ],
+        "numeric-id" : [ "15721456" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1070655857858355200/e34lucdT.jpg" ],
+        "published" : [ "2008-08-04T12:33:01+00:00" ],
+        "uid" : [ "tag:twitter.com:scottygb" ],
+        "url" : [ "https://twitter.com/scottygb", "http://www.scottybryan.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Tbh we’re all doing the same right now" ],
+    "in-reply-to" : [ "https://twitter.com/scottygb/status/1544760371998871552" ],
+    "photo" : [ {
+      "alt" : "BBC News presenter with feet on desk",
+      "value" : "https://pbs.twimg.com/media/FXAXnj-XkAImbD0.jpg"
+    } ],
+    "published" : [ "2022-07-06T19:10:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1544760647216668672" ],
+    "url" : [ "https://twitter.com/scottygb/status/1544760647216668672" ]
+  },
+  "type" : [ "h-entry" ]
+}
