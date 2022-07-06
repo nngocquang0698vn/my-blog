@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">It clearly has some niceties to it, and I'm not one to say \"oh, just learn tmux instead of using this.\"\n\nI would however learn tmux rather than investing $23 million into this thing.</div>",
+      "value" : "It clearly has some niceties to it, and I'm not one to say \"oh, just learn tmux instead of using this.\"\n\nI would however learn tmux rather than investing $23 million into this thing."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1544494786953875456" ],
+    "published" : [ "2022-07-06T01:35:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1544495226995150848" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1544495226995150848" ]
+  },
+  "type" : [ "h-entry" ]
+}
