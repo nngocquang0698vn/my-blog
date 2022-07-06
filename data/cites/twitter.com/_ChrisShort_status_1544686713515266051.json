@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Commerce, MI" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Short 🇺🇸🇺🇦" ],
+        "nickname" : [ "ChrisShort" ],
+        "numeric-id" : [ "5610072" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503385439704657921/9_jxSFRu.jpg" ],
+        "published" : [ "2007-04-28T19:14:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ChrisShort" ],
+        "url" : [ "https://twitter.com/ChrisShort", "https://chrisshort.me", "http://devopsish.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">There are a lot of open source tools in the space and I suggest you do not run any of them yourself. Email is WAY harder than you think. You'd probably get blacklisted in a week.\n\nUse a service that has a vested interest in maintaining clean IP addresses for sending email.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/emailoctopus\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kunalstwt\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/urlichsanais\"></a>",
+      "value" : "There are a lot of open source tools in the space and I suggest you do not run any of them yourself. Email is WAY harder than you think. You'd probably get blacklisted in a week.\n\nUse a service that has a vested interest in maintaining clean IP addresses for sending email."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ChrisShort/status/1544686257305010177" ],
+    "published" : [ "2022-07-06T14:16:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1544686713515266051" ],
+    "url" : [ "https://twitter.com/ChrisShort/status/1544686713515266051" ]
+  },
+  "type" : [ "h-entry" ]
+}
