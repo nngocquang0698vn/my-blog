@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ElleMaeGal/status/1544718383228133376" ],
     "name" : [ "Like of @ElleMaeGal's tweet" ],
     "published" : [ "2022-07-07T07:18:00+0100" ],
     "like-of" : [ "https://twitter.com/ElleMaeGal/status/1544718383228133376" ],
