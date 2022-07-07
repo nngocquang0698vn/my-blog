@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vienna, Austria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Manuel Matuzović" ],
+        "nickname" : [ "mmatuzo" ],
+        "numeric-id" : [ "22161724" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4.jpg" ],
+        "published" : [ "2009-02-27T17:09:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mmatuzo" ],
+        "url" : [ "https://twitter.com/mmatuzo", "http://www.matuzo.at", "http://wien.gv.at" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "What a nice way to make new friends." ],
+    "photo" : [ {
+      "alt" : "Heeeey Manuel What's up?\n\nTo be honest, the design of your blog is so ugly, but once inside I discover a lot of value content to show to my mates and employees. Thanks for writing about dev and helping us!\n\nBut that's not the main reason I'm writing this email...",
+      "value" : "https://pbs.twimg.com/media/FXCsc3PX0AAOmWk.jpg"
+    } ],
+    "published" : [ "2022-07-07T06:00:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1544924315245846528" ],
+    "url" : [ "https://twitter.com/mmatuzo/status/1544924315245846528" ]
+  },
+  "type" : [ "h-entry" ]
+}
