@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Bernhardt" ],
+        "nickname" : [ "jackbern23" ],
+        "numeric-id" : [ "257431018" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1400788184875909124/VfCvcOI_.jpg" ],
+        "published" : [ "2011-02-25T12:02:20+00:00" ],
+        "uid" : [ "tag:twitter.com:jackbern23" ],
+        "url" : [ "https://twitter.com/jackbern23", "http://theagency.co.uk/the-agency/jack-bernhardt" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think at a certain point the idea \"nothing in comedy is off-limits\" (which is true, but often misinterpreted) got mangled into meaning \"any joke can be told by (and at the expense of) any person at any time\" which is fundamentally not true" ],
+    "in-reply-to" : [ "https://twitter.com/jackbern23/status/1544651654645121025" ],
+    "published" : [ "2022-07-06T12:07:56+00:00" ],
+    "uid" : [ "tag:twitter.com:1544654378690387968" ],
+    "url" : [ "https://twitter.com/jackbern23/status/1544654378690387968" ]
+  },
+  "type" : [ "h-entry" ]
+}
