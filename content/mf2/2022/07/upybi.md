@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DiscussingFilm/status/1544950247855738883" ],
     "name" : [ "Like of @DiscussingFilm's tweet" ],
     "published" : [ "2022-07-07T14:58:00+0100" ],
     "like-of" : [ "https://twitter.com/DiscussingFilm/status/1544950247855738883" ],
