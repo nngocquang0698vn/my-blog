@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LilNasX/status/1544723339633012742" ],
     "name" : [ "Like of @LilNasX's tweet" ],
     "published" : [ "2022-07-07T07:13:00+0100" ],
     "like-of" : [ "https://twitter.com/LilNasX/status/1544723339633012742" ],
