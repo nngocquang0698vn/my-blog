@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Karl Sharro" ],
+        "nickname" : [ "KarlreMarks" ],
+        "numeric-id" : [ "25058787" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199728839125065729/Tiddp1sK.jpg" ],
+        "published" : [ "2009-03-18T11:35:02+00:00" ],
+        "uid" : [ "tag:twitter.com:KarlreMarks" ],
+        "url" : [ "https://twitter.com/KarlreMarks", "https://twitter.com/search?q=(from%3Akarlremarks)%20min_faves%3A2000&src=typed_query&f=live" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's great that the British are discovering how difficult it is to get rid of British rule" ],
+    "published" : [ "2022-07-07T07:34:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1544947960135520256" ],
+    "url" : [ "https://twitter.com/KarlreMarks/status/1544947960135520256" ]
+  },
+  "type" : [ "h-entry" ]
+}
