@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dabberblabber/status/1544709773383401473" ],
     "name" : [ "Like of @dabberblabber's tweet" ],
     "published" : [ "2022-07-07T07:07:00+0100" ],
     "like-of" : [ "https://twitter.com/dabberblabber/status/1544709773383401473" ],
