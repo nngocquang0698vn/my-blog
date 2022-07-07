@@ -1,9 +1,9 @@
 ---
 title: "Pointing to a fork of a Go module"
 description: "How to pin your Go modules to a given fork of a repository."
-date: 2022-07-07T09:51:47+0100
+date: "2022-07-07T09:51:47+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1544969659874680832"
 tags:
 - "blogumentation"
 - "go"
