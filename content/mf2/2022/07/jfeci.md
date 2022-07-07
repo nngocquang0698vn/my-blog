@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CodeFoodPixels/status/1545008247953920001" ],
     "name" : [ "Like of @CodeFoodPixels's tweet" ],
     "published" : [ "2022-07-07T13:29:00+0100" ],
     "like-of" : [ "https://twitter.com/CodeFoodPixels/status/1545008247953920001" ],
