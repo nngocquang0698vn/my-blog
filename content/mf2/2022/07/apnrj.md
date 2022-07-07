@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maw/status/1544938000643153921" ],
     "name" : [ "Like of @maw's tweet" ],
     "published" : [ "2022-07-07T09:03:00+0100" ],
     "like-of" : [ "https://twitter.com/maw/status/1544938000643153921" ],
