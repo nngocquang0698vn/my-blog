@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/geoffberner/status/1544858049856151553" ],
     "name" : [ "Like of @geoffberner's tweet" ],
     "published" : [ "2022-07-07T22:56:00+0100" ],
     "like-of" : [ "https://twitter.com/geoffberner/status/1544858049856151553" ],
