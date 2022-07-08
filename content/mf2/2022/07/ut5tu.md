@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mike_Coop20/status/1545394258332590080" ],
     "name" : [ "Like of @Mike_Coop20's tweet" ],
     "published" : [ "2022-07-08T20:31:00+0100" ],
     "like-of" : [ "https://twitter.com/Mike_Coop20/status/1545394258332590080" ],
