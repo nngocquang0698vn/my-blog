@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pennsylvania, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Coutermarsh" ],
+        "nickname" : [ "mscccc" ],
+        "numeric-id" : [ "99121168" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/993728316757590016/8iIJr13n.jpg" ],
+        "published" : [ "2009-12-24T15:19:15+00:00" ],
+        "uid" : [ "tag:twitter.com:mscccc" ],
+        "url" : [ "https://twitter.com/mscccc", "https://m--c.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just saw a race condition where a Ruby app beat a Go app.\n\nClearly this is evidence that Ruby is faster than Go.</div>",
+      "value" : "Just saw a race condition where a Ruby app beat a Go app.\n\nClearly this is evidence that Ruby is faster than Go."
+    } ],
+    "published" : [ "2022-07-08T16:40:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1545447696709853186" ],
+    "url" : [ "https://twitter.com/mscccc/status/1545447696709853186" ]
+  },
+  "type" : [ "h-entry" ]
+}
