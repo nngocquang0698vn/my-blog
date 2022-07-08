@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/clichedout/status/1545262008613879814" ],
     "name" : [ "Like of @clichedout's tweet" ],
     "published" : [ "2022-07-08T22:25:00+0100" ],
     "like-of" : [ "https://twitter.com/clichedout/status/1545262008613879814" ],
