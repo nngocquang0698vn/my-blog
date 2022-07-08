@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jasondesrosiers/status/1545480547639603200" ],
     "name" : [ "Like of @jasondesrosiers's tweet" ],
     "published" : [ "2022-07-08T23:04:00+0100" ],
     "like-of" : [ "https://twitter.com/jasondesrosiers/status/1545480547639603200" ],
