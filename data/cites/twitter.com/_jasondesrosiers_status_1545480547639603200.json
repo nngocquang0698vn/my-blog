@@ -1,0 +1,24 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Jason Desrosiers" ],
+        "nickname" : [ "jasondesrosiers" ],
+        "numeric-id" : [ "23365849" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/439996213639643137/7Ee0jMLR.jpeg" ],
+        "published" : [ "2009-03-08T22:47:11+00:00" ],
+        "uid" : [ "tag:twitter.com:jasondesrosiers" ],
+        "url" : [ "https://twitter.com/jasondesrosiers" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Do you use the \"application/schema+json\" media type when serving <a href=\"https://twitter.com/search?q=%23JSONSchema\">#JSONSchema</a> documents in your APIs? It's been in use for years, but has never been officially registered with the IANA. Getting that sorted is one of my primary goals this year.",
+      "value" : "Do you use the \"application/schema+json\" media type when serving #JSONSchema documents in your APIs? It's been in use for years, but has never been officially registered with the IANA. Getting that sorted is one of my primary goals this year."
+    } ],
+    "published" : [ "2022-07-08T18:50:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1545480547639603200" ],
+    "url" : [ "https://twitter.com/jasondesrosiers/status/1545480547639603200" ]
+  },
+  "type" : [ "h-entry" ]
+}
