@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "url" : [ "https://twitter.com/netflix", "https://www.netflix.com/tudum" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Currently losing my mind over <a href=\"https://twitter.com/Metallica\">@Metallica</a> duetting with Eddie Munson on Master of Puppets!",
+      "value" : "Currently losing my mind over @Metallica duetting with Eddie Munson on Master of Puppets!"
+    } ],
+    "published" : [ "2022-07-08T19:35:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1545491778538590208" ],
+    "url" : [ "https://twitter.com/netflix/status/1545491778538590208" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1545491720896360448/pu/vid/576x1024/i1cA1KDdvW-wjOjH.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
