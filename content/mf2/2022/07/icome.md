@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1545373720604205056" ],
     "published" : [ "2022-07-08T12:38:00+0100" ],
     "category" : [ "marvel", "thor-love-and-thunder" ],
     "post-status" : [ "published" ],
