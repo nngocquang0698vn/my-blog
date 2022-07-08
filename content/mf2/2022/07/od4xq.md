@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/browniepoints/status/1545462375179886595" ],
     "name" : [ "Like of @browniepoints's tweet" ],
     "published" : [ "2022-07-08T19:44:00+0100" ],
     "like-of" : [ "https://twitter.com/browniepoints/status/1545462375179886595" ],
