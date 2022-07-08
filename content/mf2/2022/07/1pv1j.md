@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mitsuhiko/status/1545100148916817920" ],
     "name" : [ "Like of @mitsuhiko's tweet" ],
     "published" : [ "2022-07-08T13:32:00+0100" ],
     "like-of" : [ "https://twitter.com/mitsuhiko/status/1545100148916817920" ],
