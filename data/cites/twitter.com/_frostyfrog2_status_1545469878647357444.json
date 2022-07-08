@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cyberspace" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Frosty ❄️🌨️ Whiskateers" ],
+        "nickname" : [ "frostyfrog2" ],
+        "numeric-id" : [ "38374068" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1509990811936571393/-26LIpzb.jpg" ],
+        "published" : [ "2009-05-07T05:07:01+00:00" ],
+        "uid" : [ "tag:twitter.com:frostyfrog2" ],
+        "url" : [ "https://twitter.com/frostyfrog2", "https://frostyfrog.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "It sounds like the failover server did its job. It failed over there instead of right here.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/HNStatus\"></a>",
+      "value" : "It sounds like the failover server did its job. It failed over there instead of right here."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/HNStatus/status/1545461511870566400" ],
+    "published" : [ "2022-07-08T18:08:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1545469878647357444" ],
+    "url" : [ "https://twitter.com/frostyfrog2/status/1545469878647357444" ]
+  },
+  "type" : [ "h-entry" ]
+}
