@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dinglexxl/status/1545438927636635649" ],
     "name" : [ "Like of @dinglexxl's tweet" ],
     "published" : [ "2022-07-08T20:09:00+0100" ],
     "like-of" : [ "https://twitter.com/dinglexxl/status/1545438927636635649" ],
