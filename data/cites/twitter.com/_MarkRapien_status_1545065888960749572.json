@@ -1,0 +1,35 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Florida, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mark Rapien" ],
+        "nickname" : [ "MarkRapien" ],
+        "numeric-id" : [ "230933515" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1225082943015739392/wB01-__r.jpg" ],
+        "published" : [ "2010-12-27T03:45:24+00:00" ],
+        "uid" : [ "tag:twitter.com:MarkRapien" ],
+        "url" : [ "https://twitter.com/MarkRapien", "http://markrapien.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "So cool to get a rainbow and lightning in one shot!" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "St Petersburg, FL" ],
+        "uid" : [ "tag:twitter.com:5d231ed8656fcf5a" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FXEtPHiUcAA0mVw.jpg" ],
+    "published" : [ "2022-07-07T15:23:08+00:00" ],
+    "uid" : [ "tag:twitter.com:1545065888960749572" ],
+    "url" : [ "https://twitter.com/MarkRapien/status/1545065888960749572" ]
+  },
+  "type" : [ "h-entry" ]
+}
