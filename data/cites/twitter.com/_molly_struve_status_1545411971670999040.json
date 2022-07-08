@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Molly Struve 🦄" ],
+        "nickname" : [ "molly_struve" ],
+        "numeric-id" : [ "4542932414" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1441894091084677123/EIwVtaj2.jpg" ],
+        "published" : [ "2015-12-13T01:44:07+00:00" ],
+        "uid" : [ "tag:twitter.com:molly_struve" ],
+        "url" : [ "https://twitter.com/molly_struve", "https://dev.to/molly_struve" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Me trying to make a decision when coding" ],
+    "photo" : [ {
+      "alt" : "A meme from the office where the first picture is Michael Scott on the phone and the text reads I think you're overthinking it and the bottom picture is a picture of Jim with a surprise look on his face and the text reads I think you're under thinking it",
+      "value" : "https://pbs.twimg.com/media/FXJn_33WQAEQUi2.jpg"
+    } ],
+    "published" : [ "2022-07-08T14:18:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1545411971670999040" ],
+    "url" : [ "https://twitter.com/molly_struve/status/1545411971670999040" ]
+  },
+  "type" : [ "h-entry" ]
+}
