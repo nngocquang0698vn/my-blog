@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "traitor joe" ],
+        "nickname" : [ "phoebe_bridgers" ],
+        "numeric-id" : [ "574631672" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1099440461574373383/nVsMtHi_.jpg" ],
+        "published" : [ "2012-05-08T17:08:50+00:00" ],
+        "uid" : [ "tag:twitter.com:phoebe_bridgers" ],
+        "url" : [ "https://twitter.com/phoebe_bridgers", "http://www.phoebefuckingbridgers.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "shut the fuck up.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/meoakie\"></a>",
+      "value" : "shut the fuck up."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/meoakie/status/1545081130944167937" ],
+    "published" : [ "2022-07-07T17:00:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1545090487337357312" ],
+    "url" : [ "https://twitter.com/phoebe_bridgers/status/1545090487337357312" ]
+  },
+  "type" : [ "h-entry" ]
+}
