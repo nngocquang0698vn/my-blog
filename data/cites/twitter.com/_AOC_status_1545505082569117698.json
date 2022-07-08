@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Andy Campbell" ],
+          "nickname" : [ "AndyBCampbell" ],
+          "numeric-id" : [ "472987747" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1508203685964353538/70GQY87X.jpg" ],
+          "published" : [ "2012-01-24T14:33:55+00:00" ],
+          "uid" : [ "tag:twitter.com:AndyBCampbell" ],
+          "url" : [ "https://twitter.com/AndyBCampbell", "https://www.hachettebookgroup.com/titles/andy-campbell/we-are-proud-boys/9780306827464/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Politico clutching pearls today after a handful of \"unruly\" protesters \"targeted\" Brett Kavanaugh by standing outside during his steak dinner.\n\nJust an absolutely terrifying night for Kavanaugh, who \"did not hear or see the protesters and ate a full meal but left before dessert.\"</div>",
+        "value" : "Politico clutching pearls today after a handful of \"unruly\" protesters \"targeted\" Brett Kavanaugh by standing outside during his steak dinner.\n\nJust an absolutely terrifying night for Kavanaugh, who \"did not hear or see the protesters and ate a full meal but left before dessert.\""
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FXJGXHoWIAI32pu.jpg" ],
+      "published" : [ "2022-07-08T11:51:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1545375105479589889" ],
+      "url" : [ "https://twitter.com/AndyBCampbell/status/1545375105479589889" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/andybcampbell/…" ],
+      "url" : [ "https://twitter.com/andybcampbell/status/1545375105479589889" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bronx + Queens, NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alexandria Ocasio-Cortez" ],
+        "nickname" : [ "AOC" ],
+        "numeric-id" : [ "138203134" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl.jpg" ],
+        "published" : [ "2010-04-28T22:38:40+00:00" ],
+        "uid" : [ "tag:twitter.com:AOC" ],
+        "url" : [ "https://twitter.com/AOC", "http://www.ocasiocortez.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Poor guy. He left before his soufflé because he decided half the country should risk death if they have an ectopic pregnancy within the wrong state lines. It’s all very unfair to him. \n\nThe least they could do is let him eat cake 🍰</div>\n<a class=\"tag\" href=\"https://twitter.com/andybcampbell/status/1545375105479589889\">twitter.com/andybcampbell/…</a>",
+      "value" : "Poor guy. He left before his soufflé because he decided half the country should risk death if they have an ectopic pregnancy within the wrong state lines. It’s all very unfair to him. \n\nThe least they could do is let him eat cake 🍰"
+    } ],
+    "published" : [ "2022-07-08T20:28:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1545505082569117698" ],
+    "url" : [ "https://twitter.com/AOC/status/1545505082569117698" ]
+  },
+  "type" : [ "h-entry" ]
+}
