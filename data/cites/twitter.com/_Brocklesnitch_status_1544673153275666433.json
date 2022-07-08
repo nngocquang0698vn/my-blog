@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Florida, Bastion of Freedom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kaiyla Moondancer" ],
+          "nickname" : [ "HanKaiyla" ],
+          "numeric-id" : [ "1095505919947862016" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1544808941552635905/6jQabBej.jpg" ],
+          "published" : [ "2019-02-13T02:12:19+00:00" ],
+          "uid" : [ "tag:twitter.com:HanKaiyla" ],
+          "url" : [ "https://twitter.com/HanKaiyla" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "You do know that is technically breaking Federal Law, correct?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Brocklesnitch\"></a>",
+        "value" : "You do know that is technically breaking Federal Law, correct?"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/Brocklesnitch/status/1544646152389160962" ],
+      "published" : [ "2022-07-06T11:44:23+00:00" ],
+      "uid" : [ "tag:twitter.com:1544648452155625474" ],
+      "url" : [ "https://twitter.com/HanKaiyla/status/1544648452155625474" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Bec Shaw" ],
+        "nickname" : [ "Brocklesnitch" ],
+        "numeric-id" : [ "48525566" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/551692633966252032/XpHVESSm.jpeg" ],
+        "published" : [ "2009-06-18T23:05:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Brocklesnitch" ],
+        "url" : [ "https://twitter.com/Brocklesnitch", "https://podcasts.apple.com/au/podcast/bring-a-plate/id673" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Incredible “you won’t guess what this is in response to”" ],
+    "published" : [ "2022-07-06T13:22:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1544673153275666433" ],
+    "url" : [ "https://twitter.com/Brocklesnitch/status/1544673153275666433" ]
+  },
+  "type" : [ "h-entry" ]
+}
