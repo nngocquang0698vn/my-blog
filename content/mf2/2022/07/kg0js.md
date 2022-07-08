@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mscccc/status/1545447696709853186" ],
     "name" : [ "Like of @mscccc's tweet" ],
     "published" : [ "2022-07-08T19:54:00+0100" ],
     "like-of" : [ "https://twitter.com/mscccc/status/1545447696709853186" ],
