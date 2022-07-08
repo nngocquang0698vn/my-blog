@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Go Community" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Go Time ⏰" ],
+        "nickname" : [ "GoTimeFM" ],
+        "numeric-id" : [ "4444394117" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/719641490989789184/n6GGkDEo.jpg" ],
+        "published" : [ "2015-12-11T03:47:27+00:00" ],
+        "uid" : [ "tag:twitter.com:GoTimeFM" ],
+        "url" : [ "https://twitter.com/GoTimeFM", "https://gotime.fm" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Did y'all catch <a href=\"https://twitter.com/deadprogram\">@deadprogram</a> going *off* on what the world is like in 2053 bc <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> never got enums? 🤣",
+      "value" : "Did y'all catch @deadprogram going *off* on what the world is like in 2053 bc #golang never got enums? 🤣"
+    } ],
+    "published" : [ "2022-07-08T13:46:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1545403999213346816" ],
+    "url" : [ "https://twitter.com/GoTimeFM/status/1545403999213346816" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1545403782686683137/pu/vid/1280x720/tdS7e5DuDavTPM-z.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
