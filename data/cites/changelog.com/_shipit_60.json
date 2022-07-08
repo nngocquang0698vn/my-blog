@@ -1,0 +1,10 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Kaizen! Post-migration cleanup (Ship It! #60)" ],
+    "summary" : [ "In our 6th Kaizen, we talk with Jerod about all the things that we cleaned up after migrating changelog.com from a managed Kubernetes to Fly.io. We deleted the K8s cluster and moved wildcard cert management to Fastly &amp;amp; all our vanity domain certs to Fly.io. We migrated the Docker Engine that our GitHub Actions is u..." ],
+    "featured" : [ "https://cdn.changelog.com/static/images/share/twitter-shipit-feb3710d53361bb8a02164926b99f023.png" ],
+    "audio" : [ "https://cdn.changelog.com/uploads/shipit/60/ship-it-60.mp3" ],
+    "url" : [ "https://changelog.com/shipit/60" ]
+  }
+}
