@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Bellevue, Washington" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Lilly Tao" ],
+          "nickname" : [ "girlhacker" ],
+          "numeric-id" : [ "15915193" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/725315310/lilly2010.JPG" ],
+          "published" : [ "2008-08-20T07:50:11+00:00" ],
+          "uid" : [ "tag:twitter.com:girlhacker" ],
+          "url" : [ "https://twitter.com/girlhacker", "http://www.girlhacker.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "My husband correctly guessed what caused today's Hacker News failure. He'd experienced it before. <a href=\"https://news.ycombinator.com/item?id=32028511\">news.ycombinator.com/item?id=320285…</a>",
+        "value" : "My husband correctly guessed what caused today's Hacker News failure. He'd experienced it before. news.ycombinator.com/item?id=320285…"
+      } ],
+      "published" : [ "2022-07-09T05:49:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1545646297348050946" ],
+      "url" : [ "https://twitter.com/girlhacker/status/1545646297348050946" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR / K7JDE" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jonah Edwards" ],
+        "nickname" : [ "jonahedwards" ],
+        "numeric-id" : [ "21937328" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/804521557481652224/GUAC8loi.jpg" ],
+        "published" : [ "2009-02-25T23:42:28+00:00" ],
+        "uid" : [ "tag:twitter.com:jonahedwards" ],
+        "url" : [ "https://twitter.com/jonahedwards", "http://jonahedwards.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "There's psychic debugging, and then there's this " ],
+    "photo" : [ {
+      "alt" : "screenshot of text reading:\nI once had a small fleet of SSDs fail because they had some uptime counters that overflowed after 4.5 years, and that somehow persistently wrecked some internal data structures. It turned them into little, unrecoverable bricks.\nIt was not awesome seeing a bunch of servers go dark in just about the order we had originally powered them on. Not a fun day at all.\n\nYou are never going to guess how long the HN SSDs were in the servers... never ever... OK... I'll tell you: 4.5years. I am not even kidding.\n\nLet me narrow my guess: They hit 4 years, 206 days and 16 hours . . . or 40,000 hours.\nAnd that they were sold by HP or Dell, and manufactured by SanDisk.\n\nDo I win a prize?\n\n(None of us win prizes on this one).\n\nThese were made by SanDisk (SanDisk Optimus Lightning II) and the number of hours is between 39,984 and 40,032...",
+      "value" : "https://pbs.twimg.com/media/FXM-zElUUAAgKym.jpg"
+    } ],
+    "published" : [ "2022-07-09T05:57:06+00:00" ],
+    "uid" : [ "tag:twitter.com:1545648218158993409" ],
+    "url" : [ "https://twitter.com/jonahedwards/status/1545648218158993409" ]
+  },
+  "type" : [ "h-entry" ]
+}
