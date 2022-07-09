@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Donald Stufft" ],
+        "nickname" : [ "dstufft" ],
+        "numeric-id" : [ "250397632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2589562873/85j1remox0wdwpycnmpt.jpeg" ],
+        "published" : [ "2011-02-11T00:55:49+00:00" ],
+        "uid" : [ "tag:twitter.com:dstufft" ],
+        "url" : [ "https://twitter.com/dstufft" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm too busy thinking up more ways to destroy open source software by requiring maintainers of software downloaded millions of times a month to implement a modicum of security best practices.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/workingjubilee\"></a>",
+      "value" : "I'm too busy thinking up more ways to destroy open source software by requiring maintainers of software downloaded millions of times a month to implement a modicum of security best practices."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/workingjubilee/status/1545584552722108416" ],
+    "published" : [ "2022-07-09T01:46:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1545585090494873600" ],
+    "url" : [ "https://twitter.com/dstufft/status/1545585090494873600" ]
+  },
+  "type" : [ "h-entry" ]
+}
