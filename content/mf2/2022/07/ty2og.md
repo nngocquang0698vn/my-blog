@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/balloob/status/1545509863651811333" ],
     "name" : [ "Like of @balloob's tweet" ],
     "published" : [ "2022-07-09T16:44:00+0100" ],
     "like-of" : [ "https://twitter.com/balloob/status/1545509863651811333" ],
