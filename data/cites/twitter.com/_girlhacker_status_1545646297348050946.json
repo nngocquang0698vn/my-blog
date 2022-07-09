@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bellevue, Washington" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lilly Tao" ],
+        "nickname" : [ "girlhacker" ],
+        "numeric-id" : [ "15915193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/725315310/lilly2010.JPG" ],
+        "published" : [ "2008-08-20T07:50:11+00:00" ],
+        "uid" : [ "tag:twitter.com:girlhacker" ],
+        "url" : [ "https://twitter.com/girlhacker", "http://www.girlhacker.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "My husband correctly guessed what caused today's Hacker News failure. He'd experienced it before. <a href=\"https://news.ycombinator.com/item?id=32028511\">news.ycombinator.com/item?id=320285…</a>",
+      "value" : "My husband correctly guessed what caused today's Hacker News failure. He'd experienced it before. news.ycombinator.com/item?id=320285…"
+    } ],
+    "published" : [ "2022-07-09T05:49:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1545646297348050946" ],
+    "url" : [ "https://twitter.com/girlhacker/status/1545646297348050946" ]
+  },
+  "type" : [ "h-entry" ]
+}
