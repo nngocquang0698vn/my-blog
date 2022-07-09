@@ -1,0 +1,68 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hollywood, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Hollywood Reporter" ],
+          "nickname" : [ "THR" ],
+          "numeric-id" : [ "17446621" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/528317230367268865/Po8lHinI.jpeg" ],
+          "published" : [ "2008-11-17T18:10:33+00:00" ],
+          "uid" : [ "tag:twitter.com:THR" ],
+          "url" : [ "https://twitter.com/THR", "http://hollywoodreporter.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Anthony Mackie is reprising his long-time Marvel character of Sam Wilson, but will not, however, portray Wilson’s long-time alter ego and <a href=\"https://twitter.com/search?q=%23CaptainAmerica\">#CaptainAmerica</a> sidekick, Falcon <a href=\"http://thr.cm/JsZzsB5\">thr.cm/JsZzsB5</a>",
+        "value" : "Anthony Mackie is reprising his long-time Marvel character of Sam Wilson, but will not, however, portray Wilson’s long-time alter ego and #CaptainAmerica sidekick, Falcon thr.cm/JsZzsB5"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/THR/status/1545497972594450432" ],
+      "photo" : [ "https://pbs.twimg.com/media/FXK2oX9VEAAcCOM.jpg" ],
+      "published" : [ "2022-07-08T20:02:35+00:00" ],
+      "uid" : [ "tag:twitter.com:1545498604021813249" ],
+      "url" : [ "https://twitter.com/THR/status/1545498604021813249" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thr/status/154…" ],
+      "url" : [ "https://twitter.com/thr/status/1545498604021813249" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Coy Jandreau" ],
+        "nickname" : [ "CoyJandreau" ],
+        "numeric-id" : [ "30037319" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360779768296136704/yPs4pK4j.jpg" ],
+        "published" : [ "2009-04-09T18:30:33+00:00" ],
+        "uid" : [ "tag:twitter.com:CoyJandreau" ],
+        "url" : [ "https://twitter.com/CoyJandreau", "https://linktr.ee/Coy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "BREAKING: Captain America to star in Captain America 4\n<a class=\"tag\" href=\"https://twitter.com/thr/status/1545498604021813249\">twitter.com/thr/status/154…</a>",
+      "value" : "BREAKING: Captain America to star in Captain America 4"
+    } ],
+    "published" : [ "2022-07-08T20:20:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1545502995508408322" ],
+    "url" : [ "https://twitter.com/CoyJandreau/status/1545502995508408322" ]
+  },
+  "type" : [ "h-entry" ]
+}
