@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Corey Quinn" ],
+        "nickname" : [ "QuinnyPig" ],
+        "numeric-id" : [ "97114171" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516563018829627392/WeOsEMDz.jpg" ],
+        "published" : [ "2009-12-16T02:19:14+00:00" ],
+        "uid" : [ "tag:twitter.com:QuinnyPig" ],
+        "url" : [ "https://twitter.com/QuinnyPig", "http://www.duckbillgroup.com", "http://lastweekinaws.com/t/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fairly tired of this pattern to be honest; if you believe that bigotry is wrong, there isn’t an exception list to it." ],
+    "in-reply-to" : [ "https://twitter.com/QuinnyPig/status/1545834231988793344" ],
+    "photo" : [ {
+      "alt" : "What do you think\nabout plural people?\nAre they valid and\nworthy of being\nthemselves in your\neyes?",
+      "value" : "https://pbs.twimg.com/media/FXPpLLHUYAIrSDY.jpg"
+    } ],
+    "published" : [ "2022-07-09T18:21:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1545835477382488064" ],
+    "url" : [ "https://twitter.com/QuinnyPig/status/1545835477382488064" ]
+  },
+  "type" : [ "h-entry" ]
+}
