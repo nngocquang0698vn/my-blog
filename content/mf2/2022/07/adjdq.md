@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/OmegaJeannie/status/1545214717400080385" ],
     "name" : [ "Like of @OmegaJeannie's tweet" ],
     "published" : [ "2022-07-09T15:18:00+0100" ],
     "like-of" : [ "https://twitter.com/OmegaJeannie/status/1545214717400080385" ],
