@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jennifer Wright" ],
+        "nickname" : [ "JenAshleyWright" ],
+        "numeric-id" : [ "112764405" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1179722752741298177/hkFQgb4R.jpg" ],
+        "published" : [ "2010-02-09T16:48:13+00:00" ],
+        "uid" : [ "tag:twitter.com:JenAshleyWright" ],
+        "url" : [ "https://twitter.com/JenAshleyWright", "https://www.hachettebooks.com/titles/jennifer-wright/madame-restell/9780306826825/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Brett Kavanaugh can still eat at restaurants in other states, I don’t know why he’s so upset." ],
+    "published" : [ "2022-07-09T02:02:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1545589131836735491" ],
+    "url" : [ "https://twitter.com/JenAshleyWright/status/1545589131836735491" ]
+  },
+  "type" : [ "h-entry" ]
+}
