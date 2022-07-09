@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Donald Stufft" ],
+        "nickname" : [ "dstufft" ],
+        "numeric-id" : [ "250397632" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2589562873/85j1remox0wdwpycnmpt.jpeg" ],
+        "published" : [ "2011-02-11T00:55:49+00:00" ],
+        "uid" : [ "tag:twitter.com:dstufft" ],
+        "url" : [ "https://twitter.com/dstufft" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "That's an interesting take, since I've devoted a non-trivial portion of my adult life, well over a decade at this point, to securing and maintaining PyPI.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/balloob\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bryanbrake\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/pypi\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/workingjubilee\"></a>",
+      "value" : "That's an interesting take, since I've devoted a non-trivial portion of my adult life, well over a decade at this point, to securing and maintaining PyPI."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/workingjubilee/status/1545580958643916801" ],
+    "published" : [ "2022-07-09T01:36:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1545582524344242176" ],
+    "url" : [ "https://twitter.com/dstufft/status/1545582524344242176" ]
+  },
+  "type" : [ "h-entry" ]
+}
