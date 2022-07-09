@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kennykeil/status/1545441905902686208" ],
     "name" : [ "Like of @kennykeil's tweet" ],
     "published" : [ "2022-07-09T23:19:00+0100" ],
     "like-of" : [ "https://twitter.com/kennykeil/status/1545441905902686208" ],
