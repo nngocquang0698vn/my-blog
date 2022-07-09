@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Go generics are not bad" ],
+    "summary" : [ "When programming, we often need to write ‘generic’ functions where the exact data type is not important. For example, you might want to write a simple function that sums up numbers. Go lacked this notion until recently, but it was recently added (as of version 1.18). So I took it out for a spin. In … Continue reading Go generics are not bad" ],
+    "featured" : [ "https://lemire.me/img/portrait2018facebook.jpg" ],
+    "url" : [ "https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/" ]
+  }
+}
