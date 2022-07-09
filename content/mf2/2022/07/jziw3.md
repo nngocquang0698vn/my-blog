@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nemerevermore/status/1545549211600429056" ],
     "name" : [ "Like of @nemerevermore's tweet" ],
     "published" : [ "2022-07-09T15:09:00+0100" ],
     "category" : [ "art", "nature" ],
