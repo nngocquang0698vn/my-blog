@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dstufft/status/1545585090494873600" ],
     "name" : [ "Like of @dstufft's tweet" ],
     "published" : [ "2022-07-09T16:45:00+0100" ],
     "like-of" : [ "https://twitter.com/dstufft/status/1545585090494873600" ],
