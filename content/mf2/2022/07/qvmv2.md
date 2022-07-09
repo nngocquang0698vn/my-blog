@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Kit_Yates_Maths/status/1545672602609262593" ],
     "name" : [ "Like of @Kit_Yates_Maths's tweet" ],
     "published" : [ "2022-07-09T12:58:00+0100" ],
     "like-of" : [ "https://twitter.com/Kit_Yates_Maths/status/1545672602609262593" ],
