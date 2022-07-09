@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nickchapsas/status/1545441268083433478" ],
     "name" : [ "Like of @nickchapsas's tweet" ],
     "published" : [ "2022-07-09T14:54:00+0100" ],
     "category" : [ "agile" ],
