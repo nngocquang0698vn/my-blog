@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Iciclethor/status/1545569571939446785" ],
     "name" : [ "Like of @Iciclethor's tweet" ],
     "published" : [ "2022-07-09T15:17:00+0100" ],
     "like-of" : [ "https://twitter.com/Iciclethor/status/1545569571939446785" ],
