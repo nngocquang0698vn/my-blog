@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Purp_Stax/status/1545765810001481728" ],
     "name" : [ "Like of @Purp_Stax's tweet" ],
     "published" : [ "2022-07-09T15:13:00+0100" ],
     "like-of" : [ "https://twitter.com/Purp_Stax/status/1545765810001481728" ],
