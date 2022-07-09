@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kieran McHugh" ],
+        "nickname" : [ "kieranmch" ],
+        "numeric-id" : [ "50420707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545453943228170242/DEMaYxE-.jpg" ],
+        "published" : [ "2009-06-24T20:13:29+00:00" ],
+        "uid" : [ "tag:twitter.com:kieranmch" ],
+        "url" : [ "https://twitter.com/kieranmch", "https://daybridge.com/jobs" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is just peak <a href=\"https://twitter.com/StateOfLinkedIn\">@StateOfLinkedIn</a> cringe. I can't even.",
+      "value" : "This is just peak @StateOfLinkedIn cringe. I can't even."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FXN2I0dX0AIL9hZ.jpg" ],
+    "published" : [ "2022-07-09T09:59:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1545709195005140992" ],
+    "url" : [ "https://twitter.com/kieranmch/status/1545709195005140992" ]
+  },
+  "type" : [ "h-entry" ]
+}
