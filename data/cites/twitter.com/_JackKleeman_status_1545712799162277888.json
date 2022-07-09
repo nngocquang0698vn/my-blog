@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jack Kleeman" ],
+        "nickname" : [ "JackKleeman" ],
+        "numeric-id" : [ "2664217047" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1516472702810431494/eo8IVzdt.jpg" ],
+        "published" : [ "2014-07-02T15:02:27+00:00" ],
+        "uid" : [ "tag:twitter.com:JackKleeman" ],
+        "url" : [ "https://twitter.com/JackKleeman", "https://kleeman.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "jokes on them, I *always* avoid eye contact\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/StateOfLinkedIn\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kieranmch\"></a>",
+      "value" : "jokes on them, I *always* avoid eye contact"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kieranmch/status/1545709195005140992" ],
+    "published" : [ "2022-07-09T10:13:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1545712799162277888" ],
+    "url" : [ "https://twitter.com/JackKleeman/status/1545712799162277888" ]
+  },
+  "type" : [ "h-entry" ]
+}
