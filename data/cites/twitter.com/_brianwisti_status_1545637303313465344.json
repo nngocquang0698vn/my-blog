@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Near Seattle WA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "brian wisti" ],
+        "nickname" : [ "brianwisti" ],
+        "numeric-id" : [ "10376902" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1505324789958733826/ypzKnCZN.jpg" ],
+        "published" : [ "2007-11-19T07:40:48+00:00" ],
+        "uid" : [ "tag:twitter.com:brianwisti" ],
+        "url" : [ "https://twitter.com/brianwisti", "https://randomgeekery.org", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Sufficiently annoyed with Pop OS, especially that I don't know whether to blame it or my own puttering.\n\nTrying EndeavorOS with Qtile. By installing an Arch-based distro, I know who to blame if something goes wrong: me, for installing an Arch.</div>",
+      "value" : "Sufficiently annoyed with Pop OS, especially that I don't know whether to blame it or my own puttering.\n\nTrying EndeavorOS with Qtile. By installing an Arch-based distro, I know who to blame if something goes wrong: me, for installing an Arch."
+    } ],
+    "published" : [ "2022-07-09T05:13:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1545637303313465344" ],
+    "url" : [ "https://twitter.com/brianwisti/status/1545637303313465344" ]
+  },
+  "type" : [ "h-entry" ]
+}
