@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://jacky.wtf/2022/7/gKrJ" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1545747808237617152", "https://todon.eu/@jalcine/108617398530912424" ],
+    "published" : [ "2022-07-09T12:32:31Z" ],
+    "content" : [ {
+      "html" : "<p>I know that I'll be comfortable blogging more once I can control who can see what I post. Like I do want to write about things like my move, new job, etc. But I don't want that indexed by the Internet Archive, lol. Probably should just spec that out. The way I want it to work would be a bit similar to how Facebook's lists and visibility&#x2014;being able to set one to posts and moving people in and out of them.</p>",
+      "value" : "I know that I'll be comfortable blogging more once I can control who can see what I post. Like I do want to write about things like my move, new job, etc. But I don't want that indexed by the Internet Archive, lol. Probably should just spec that out. The way I want it to work would be a bit similar to how Facebook's lists and visibility—being able to set one to posts and moving people in and out of them.",
+      "lang" : "en"
+    } ],
+    "generator" : [ {
+      "type" : [ "h-app" ],
+      "properties" : {
+        "name" : [ "Quill" ],
+        "url" : [ "https://quill.p3k.io/" ]
+      },
+      "lang" : "en",
+      "value" : "https://quill.p3k.io/"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "" ],
+        "url" : [ "https://jacky.wtf/about" ]
+      },
+      "lang" : "en",
+      "value" : "https://jacky.wtf/about"
+    } ]
+  },
+  "lang" : "en"
+}
