@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wifi_princess/status/1545770319763357696" ],
     "name" : [ "Like of @wifi_princess's tweet" ],
     "published" : [ "2022-07-09T18:00:00+0100" ],
     "category" : [ "mansplaining" ],
