@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ExtraneousMalc1/status/1545743145480376321" ],
     "name" : [ "Like of @ExtraneousMalc1's tweet" ],
     "published" : [ "2022-07-09T15:13:00+0100" ],
     "like-of" : [ "https://twitter.com/ExtraneousMalc1/status/1545743145480376321" ],
