@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Tanuku, India" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sri Harsha Chilakapati" ],
+        "nickname" : [ "shchilak" ],
+        "numeric-id" : [ "883240934732742656" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1307612373629378560/tIE6j8xF.jpg" ],
+        "published" : [ "2017-07-07T08:27:03+00:00" ],
+        "uid" : [ "tag:twitter.com:shchilak" ],
+        "url" : [ "https://twitter.com/shchilak", "https://goharsha.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Try doing interactive rebase into a new branch and edit each commit which has secrets. Then delete old branch and prune old commits before pushing online.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JayGohil_\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gd3kr\"></a>",
+      "value" : "Try doing interactive rebase into a new branch and edit each commit which has secrets. Then delete old branch and prune old commits before pushing online."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/gd3kr/status/1545437338007998466" ],
+    "published" : [ "2022-07-08T19:00:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1545482923079376906" ],
+    "url" : [ "https://twitter.com/shchilak/status/1545482923079376906" ]
+  },
+  "type" : [ "h-entry" ]
+}
