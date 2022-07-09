@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChicagoMSTie/status/1545249982692921348" ],
     "name" : [ "Like of @ChicagoMSTie's tweet" ],
     "published" : [ "2022-07-09T18:43:00+0100" ],
     "like-of" : [ "https://twitter.com/ChicagoMSTie/status/1545249982692921348" ],
