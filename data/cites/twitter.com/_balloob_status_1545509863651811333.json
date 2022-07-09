@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Irvine, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paulus Schoutsen" ],
+        "nickname" : [ "balloob" ],
+        "numeric-id" : [ "16395840" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/720116845509021699/cEEDEX3f.jpg" ],
+        "published" : [ "2008-09-21T22:16:11+00:00" ],
+        "uid" : [ "tag:twitter.com:balloob" ],
+        "url" : [ "https://twitter.com/balloob", "https://www.home-assistant.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Looks like Python just had a left-pad like incident.\n\n<a href=\"https://twitter.com/pypi\">@pypi</a> today required 2FA for top 1% downloaded projects.\n\nAuthor of python-atomicwrites hates it. Deletes their package, re-creates it and uploaded a new version and is no longer marked as critical. Now all old versions gone!</div>",
+      "value" : "Looks like Python just had a left-pad like incident.\n\n@pypi today required 2FA for top 1% downloaded projects.\n\nAuthor of python-atomicwrites hates it. Deletes their package, re-creates it and uploaded a new version and is no longer marked as critical. Now all old versions gone!"
+    } ],
+    "published" : [ "2022-07-08T20:47:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1545509863651811333" ],
+    "url" : [ "https://twitter.com/balloob/status/1545509863651811333" ]
+  },
+  "type" : [ "h-entry" ]
+}
