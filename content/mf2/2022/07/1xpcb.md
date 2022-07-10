@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DNAgentz313/status/1545540066063392768" ],
     "name" : [ "Like of @DNAgentz313's tweet" ],
     "published" : [ "2022-07-10T12:37:00+0100" ],
     "like-of" : [ "https://twitter.com/DNAgentz313/status/1545540066063392768" ],
