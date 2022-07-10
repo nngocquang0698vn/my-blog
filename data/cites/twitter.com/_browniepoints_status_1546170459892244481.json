@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bellevue" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Brown’s Extended Reality" ],
+        "nickname" : [ "browniepoints" ],
+        "numeric-id" : [ "14222410" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1532731483772928001/-eZTOA-Z.jpg" ],
+        "published" : [ "2008-03-26T03:02:10+00:00" ],
+        "uid" : [ "tag:twitter.com:browniepoints" ],
+        "url" : [ "https://twitter.com/browniepoints", "http://aguywhocodes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "GitHub Codespaces is effin magical. Add in Liveshare and it’s like WHAT? I can run server on my machine and it creates an ssh tunnel exposing the server on the guest’s machine TRANSPARENTLY (have to run in desktop). Like this is one of those “It just effin’ works” experiences." ],
+    "published" : [ "2022-07-10T16:32:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1546170459892244481" ],
+    "url" : [ "https://twitter.com/browniepoints/status/1546170459892244481" ]
+  },
+  "type" : [ "h-entry" ]
+}
