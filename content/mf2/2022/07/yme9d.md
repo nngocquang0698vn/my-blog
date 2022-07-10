@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/alisonphipps/status/1546075329801977856" ],
     "name" : [ "Like of @alisonphipps's tweet" ],
     "published" : [ "2022-07-10T17:58:00+0100" ],
     "like-of" : [ "https://twitter.com/alisonphipps/status/1546075329801977856" ],
