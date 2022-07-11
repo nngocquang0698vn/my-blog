@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/cellorusso/status/1546332905772826625" ],
     "name" : [ "Like of @cellorusso's tweet" ],
     "published" : [ "2022-07-11T11:16:00+0100" ],
     "like-of" : [ "https://twitter.com/cellorusso/status/1546332905772826625" ],
