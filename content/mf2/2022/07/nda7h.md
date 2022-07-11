@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GaymerChat/status/1546404400775790592" ],
     "name" : [ "Like of @GaymerChat's tweet" ],
     "published" : [ "2022-07-11T14:52:00+0100" ],
     "like-of" : [ "https://twitter.com/GaymerChat/status/1546404400775790592" ],
