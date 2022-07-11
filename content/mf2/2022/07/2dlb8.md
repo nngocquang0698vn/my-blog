@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/apapsch/go-jsonmerge/stargazers" ],
     "name" : [ "apapsch/go-jsonmerge: Merge JSON objects to one (replaces only existent values)" ],
     "published" : [ "2022-07-11T19:51:04.208954989Z" ],
     "category" : [ "go" ],
