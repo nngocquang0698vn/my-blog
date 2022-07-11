@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "new orleans" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "richard" ],
+        "nickname" : [ "richard_normal" ],
+        "numeric-id" : [ "325715180" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1160978497658974209/LV3GMQs2.jpg" ],
+        "published" : [ "2011-06-28T19:07:52+00:00" ],
+        "uid" : [ "tag:twitter.com:richard_normal" ],
+        "url" : [ "https://twitter.com/richard_normal", "https://sifjar.bandcamp.com/releases" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "one of lifes great pleasures is purchasing some overly expensive canned drink from some company youve never heard of and then its just kind of whatever" ],
+    "published" : [ "2022-07-10T16:44:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1546173442298224640" ],
+    "url" : [ "https://twitter.com/richard_normal/status/1546173442298224640" ]
+  },
+  "type" : [ "h-entry" ]
+}
