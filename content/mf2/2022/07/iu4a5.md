@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Oneironautilus/status/1546253493425643523" ],
     "name" : [ "Like of @Oneironautilus's tweet" ],
     "published" : [ "2022-07-11T13:01:00+0100" ],
     "like-of" : [ "https://twitter.com/Oneironautilus/status/1546253493425643523" ],
