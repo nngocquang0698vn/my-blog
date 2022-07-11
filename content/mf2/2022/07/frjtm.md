@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RadioShack/status/1546363019298586624" ],
     "name" : [ "Like of @RadioShack's tweet" ],
     "published" : [ "2022-07-11T07:50:00+0100" ],
     "like-of" : [ "https://twitter.com/RadioShack/status/1546363019298586624" ],
