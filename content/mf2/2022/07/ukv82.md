@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jlkardon/status/1546630082650841089" ],
     "name" : [ "Like of @jlkardon's tweet" ],
     "published" : [ "2022-07-12T17:56:00+0100" ],
     "like-of" : [ "https://twitter.com/jlkardon/status/1546630082650841089" ],
