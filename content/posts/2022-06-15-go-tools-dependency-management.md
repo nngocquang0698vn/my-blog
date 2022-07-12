@@ -45,6 +45,19 @@ This approach isn't ideal, and leads to another command needing to execute befor
 
 Alternatively, because we've already got the dependencies and their versions pinned in our `go.mod`, through the declaration in the `tools.go`, we can actually get rid of the `Makefile` magic.
 
+To do this explicitly, we'd create a `tools.go` with the following in it:
+
+```go
+//go:build tools
+// +build tools
+
+package main
+
+import (
+	_ "golang.org/x/tools/cmd/stringer"
+)
+```
+
 Thanks to [this comment on GitHub](https://github.com/golang/go/issues/25922#issuecomment-1065971260), we can replace our invocations of the command-line application with a `go run` invocation on the package, like so:
 
 ```diff
