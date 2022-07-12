@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1546870050749136897" ],
     "photo" : [ {
       "alt" : "A fairly grainy quality photo from a Blink security camera heavily zoomed in on Cookie the puppy, lying on a blue towel that is next to her bed in the dining room, stretched out asleep. In front of Cookie is a naturally shed ram's horn",
       "photo" : "https://media.jvt.me/88dd1461cf.png"
