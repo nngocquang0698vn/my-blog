@@ -1,0 +1,51 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "InfoQ" ],
+          "nickname" : [ "InfoQ" ],
+          "numeric-id" : [ "14073560" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1514212711797825541/jlGPZt1D.png" ],
+          "published" : [ "2008-03-03T17:43:10+00:00" ],
+          "uid" : [ "tag:twitter.com:InfoQ" ],
+          "url" : [ "https://twitter.com/InfoQ", "http://www.infoq.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Transitioning into the Staff+ Engineer Role - from Player to Coach <a href=\"http://bit.ly/3RCX2AG\">bit.ly/3RCX2AG</a> authored by <a href=\"https://twitter.com/NickyWrightson\">@nickywrightson</a>, reviewed by <a href=\"https://twitter.com/BenLinders\">@BenLinders</a>",
+        "value" : "Transitioning into the Staff+ Engineer Role - from Player to Coach bit.ly/3RCX2AG authored by @nickywrightson, reviewed by @BenLinders"
+      } ],
+      "published" : [ "2022-07-12T11:18:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1546816192706293760" ],
+      "url" : [ "https://twitter.com/InfoQ/status/1546816192706293760" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nicky Wrightson" ],
+        "nickname" : [ "NickyWrightson" ],
+        "numeric-id" : [ "4177393036" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1068228773391273985/g0ru6U3A.jpg" ],
+        "published" : [ "2015-11-13T07:57:21+00:00" ],
+        "uid" : [ "tag:twitter.com:NickyWrightson" ],
+        "url" : [ "https://twitter.com/NickyWrightson", "https://speakerdeck.com/nickywrightson/the-bumpy-road-towards-containerised-microservices-why-early-" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Becoming a Staff+ engineer you go from being a good engineer to helping others become great engineers. It can be easy to continue the behaviours that got you to this role without adopting new ways of working. So I wrote up what I think that transition to Staff looks like" ],
+    "published" : [ "2022-07-12T16:51:55+00:00" ],
+    "uid" : [ "tag:twitter.com:1546900172747296768" ],
+    "url" : [ "https://twitter.com/NickyWrightson/status/1546900172747296768" ]
+  },
+  "type" : [ "h-entry" ]
+}
