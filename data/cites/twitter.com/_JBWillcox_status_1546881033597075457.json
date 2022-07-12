@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Josh Willcox" ],
+        "nickname" : [ "JBWillcox" ],
+        "numeric-id" : [ "102733503" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/928276942817656832/XekCkmhf.jpg" ],
+        "published" : [ "2010-01-07T17:07:37+00:00" ],
+        "uid" : [ "tag:twitter.com:JBWillcox" ],
+        "url" : [ "https://twitter.com/JBWillcox" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I made a quick overlay comparison with the Hubble image - such an incredible difference.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/shannonmstirone\"></a>",
+      "value" : "I made a quick overlay comparison with the Hubble image - such an incredible difference."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/shannonmstirone/status/1546877449291579392" ],
+    "published" : [ "2022-07-12T15:35:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1546881033597075457" ],
+    "url" : [ "https://twitter.com/JBWillcox/status/1546881033597075457" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FXef9WqWYAMuRYE.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
