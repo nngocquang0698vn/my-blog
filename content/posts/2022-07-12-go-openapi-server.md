@@ -1,18 +1,19 @@
 ---
 title: "Building a Go RESTful API with design-first OpenAPI contracts"
-description: "How to use `oapi-codegen` to generate an RESTful API using design-first OpenAPI and code generation."
-date: 2022-07-12T15:54:33+0100
+description: "How to use `oapi-codegen` to generate an RESTful API using design-first\
+  \ OpenAPI and code generation."
+date: "2022-07-12T15:54:33+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1546873278479978498"
 tags:
-- blogumentation
-- openapi
-- go
-- api
+- "blogumentation"
+- "openapi"
+- "go"
+- "api"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/7be186e7a3.png"
-slug: go-openapi-server
+slug: "go-openapi-server"
 ---
 As mentioned in my post about [_Shipping services more quickly with design-first OpenAPI contracts_](https://www.jvt.me/posts/2022/06/27/roo-openapi-design-first/), I've recently been working on a fair bit of OpenAPI-driven design-first APIs, in Go. For more info on what that is, and why you'd want to do it, I'd recommend having a read of that post.
 
