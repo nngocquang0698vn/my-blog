@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/lowkyeu/status/1546494339005939712" ],
     "name" : [ "Like of @lowkyeu's tweet" ],
     "published" : [ "2022-07-12T17:56:00+0100" ],
     "like-of" : [ "https://twitter.com/lowkyeu/status/1546494339005939712" ],
