@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JBWillcox/status/1546881033597075457" ],
     "name" : [ "Like of @JBWillcox's tweet" ],
     "published" : [ "2022-07-12T17:53:00+0100" ],
     "category" : [ "space", "art" ],
