@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Washington, DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Laurie" ],
+        "nickname" : [ "laurieontech" ],
+        "numeric-id" : [ "948609064484864006" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1389766211291000835/xJ_YnqNg.jpg" ],
+        "published" : [ "2018-01-03T17:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:laurieontech" ],
+        "url" : [ "https://twitter.com/laurieontech", "http://www.laurieontech.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In our defense, sometimes the sound comes along with a feel!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jina\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/jordienr\"></a>",
+      "value" : "In our defense, sometimes the sound comes along with a feel!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/jordienr/status/1546766953020379137" ],
+    "published" : [ "2022-07-12T13:14:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1546845491891159040" ],
+    "url" : [ "https://twitter.com/laurieontech/status/1546845491891159040" ]
+  },
+  "type" : [ "h-entry" ]
+}
