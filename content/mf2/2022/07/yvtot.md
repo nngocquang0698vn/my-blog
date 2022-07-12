@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AsnoDeBuridan/status/1546882002250514432" ],
     "name" : [ "Like of @AsnoDeBuridan's tweet" ],
     "published" : [ "2022-07-12T17:57:00+0100" ],
     "like-of" : [ "https://twitter.com/AsnoDeBuridan/status/1546882002250514432" ],
