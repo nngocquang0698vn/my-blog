@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC / SF / 🎿" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ev" ],
+        "nickname" : [ "ev" ],
+        "numeric-id" : [ "20" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1112521685045923840/PNTlqJOF.jpg" ],
+        "published" : [ "2006-03-21T21:02:31+00:00" ],
+        "uid" : [ "tag:twitter.com:ev" ],
+        "url" : [ "https://twitter.com/ev", "http://ev.medium.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Ten years ago, I was brainstorming with <a href=\"https://twitter.com/biz\">@biz</a> about a publishing platform. We talked about having a constraint (like Twitter) — not too short, but not too long. I went to the whiteboard and wrote \"MEDIUM.\" Whatever it is, I said, we should call it that.",
+      "value" : "Ten years ago, I was brainstorming with @biz about a publishing platform. We talked about having a constraint (like Twitter) — not too short, but not too long. I went to the whiteboard and wrote \"MEDIUM.\" Whatever it is, I said, we should call it that."
+    } ],
+    "published" : [ "2022-07-12T17:36:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1546911470671241218" ],
+    "url" : [ "https://twitter.com/ev/status/1546911470671241218" ]
+  },
+  "type" : [ "h-entry" ]
+}
