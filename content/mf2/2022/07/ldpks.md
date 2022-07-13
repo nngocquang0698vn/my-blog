@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CianClarke1/status/1547120664653578240" ],
     "name" : [ "Like of @CianClarke1's tweet" ],
     "published" : [ "2022-07-13T14:54:00+0100" ],
     "category" : [ "vegan", "shitpost" ],
