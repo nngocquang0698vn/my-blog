@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ocramius/status/1547307479171846144" ],
     "name" : [ "Like of @Ocramius's tweet" ],
     "published" : [ "2022-07-13T22:46:00+0100" ],
     "category" : [ "apex-legends" ],
