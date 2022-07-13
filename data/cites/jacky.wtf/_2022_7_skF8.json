@@ -1,0 +1,32 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://jacky.wtf/2022/7/skF8" ],
+    "syndication" : [ "https://twitter.com/jackyalcine/status/1547255200452431872", "https://todon.eu/@jalcine/108640951533409858" ],
+    "published" : [ "2022-07-13T16:22:27Z" ],
+    "content" : [ {
+      "html" : "<p>Let's say I want to make a Ruby app that shows one HTML page and when requested, presents JSON. Something like <a href=\"https://ruby.microformats.io/\">https://ruby.microformats.io/</a>. How would one do that today without something like Rails? Or is Rails still the \"defacto\" means for this? I'm thinking something like <a href=\"http://sinatrarb.com/\">Sinatra</a>.</p>\n<p>I ask this because I'm curious about reducing the dependency radius of this project, and in turn, making the life of maintainers easier.</p>",
+      "value" : "Let's say I want to make a Ruby app that shows one HTML page and when requested, presents JSON. Something like https://ruby.microformats.io/. How would one do that today without something like Rails? Or is Rails still the \"defacto\" means for this? I'm thinking something like Sinatra.\nI ask this because I'm curious about reducing the dependency radius of this project, and in turn, making the life of maintainers easier.",
+      "lang" : "en"
+    } ],
+    "generator" : [ {
+      "type" : [ "h-app" ],
+      "properties" : {
+        "name" : [ "Quill" ],
+        "url" : [ "https://quill.p3k.io/" ]
+      },
+      "lang" : "en",
+      "value" : "https://quill.p3k.io/"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "" ],
+        "url" : [ "https://jacky.wtf/about" ]
+      },
+      "lang" : "en",
+      "value" : "https://jacky.wtf/about"
+    } ]
+  },
+  "lang" : "en"
+}
