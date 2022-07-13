@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chris Stephens" ],
+        "nickname" : [ "ChrisStephensMD" ],
+        "numeric-id" : [ "110316274" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/821816051004342272/mUS8i3bC.jpg" ],
+        "published" : [ "2010-02-01T03:42:55+00:00" ],
+        "uid" : [ "tag:twitter.com:ChrisStephensMD" ],
+        "url" : [ "https://twitter.com/ChrisStephensMD", "https://www.buttcomedy.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "When I pack too much for a short trip." ],
+    "photo" : [ "https://pbs.twimg.com/media/FW7IaeHUYAMk1aW.jpg" ],
+    "published" : [ "2022-07-05T18:45:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1544392083640709122" ],
+    "url" : [ "https://twitter.com/ChrisStephensMD/status/1544392083640709122" ]
+  },
+  "type" : [ "h-entry" ]
+}
