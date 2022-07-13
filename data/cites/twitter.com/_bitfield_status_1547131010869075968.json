@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cornwall" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Arundel" ],
+        "nickname" : [ "bitfield" ],
+        "numeric-id" : [ "14375294" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af.jpeg" ],
+        "published" : [ "2008-04-13T14:37:00+00:00" ],
+        "uid" : [ "tag:twitter.com:bitfield" ],
+        "url" : [ "https://twitter.com/bitfield", "https://bitfieldconsulting.com/books" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Well, I agree completely, but I don't think <a href=\"https://twitter.com/maccaw\">@maccaw</a> is saying you should *reject* candidates if they *don't* have a GitHub. Rather, if they *do*, it's a great source of extra info about them. This is a good tip for candidates too.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/type__error\"></a>",
+      "value" : "Well, I agree completely, but I don't think @maccaw is saying you should *reject* candidates if they *don't* have a GitHub. Rather, if they *do*, it's a great source of extra info about them. This is a good tip for candidates too."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/type__error/status/1546505915884519425" ],
+    "published" : [ "2022-07-13T08:09:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1547131010869075968" ],
+    "url" : [ "https://twitter.com/bitfield/status/1547131010869075968" ]
+  },
+  "type" : [ "h-entry" ]
+}
