@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany — ::1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Till" ],
+        "nickname" : [ "klimpong" ],
+        "numeric-id" : [ "4600051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/851140011047219200/yaBhhj1R.jpg" ],
+        "published" : [ "2007-04-14T13:09:04+00:00" ],
+        "uid" : [ "tag:twitter.com:klimpong" ],
+        "url" : [ "https://twitter.com/klimpong", "http://till.klampaeckel.de/blog/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "If you’re early in your career or generally think you are not good enough etc., check this out: Here’s my 20+ years of experience (with “computers”) and the PRs I made, AND additional commits to `main` to deploy a service on k8s. 😂 <a href=\"https://twitter.com/search?q=%23devops\">#devops</a>",
+      "value" : "If you’re early in your career or generally think you are not good enough etc., check this out: Here’s my 20+ years of experience (with “computers”) and the PRs I made, AND additional commits to `main` to deploy a service on k8s. 😂 #devops"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FXiwYO3XwAIM5PA.jpg", "https://pbs.twimg.com/media/FXiwYJYXwAAuNfZ.jpg" ],
+    "published" : [ "2022-07-13T11:25:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1547180409494142976" ],
+    "url" : [ "https://twitter.com/klimpong/status/1547180409494142976" ]
+  },
+  "type" : [ "h-entry" ]
+}
