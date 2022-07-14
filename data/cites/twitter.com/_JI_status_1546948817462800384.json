@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "James Ide" ],
+        "nickname" : [ "JI" ],
+        "numeric-id" : [ "170866050" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484801712514748418/1Dq_msLM.jpg" ],
+        "published" : [ "2010-07-26T00:02:47+00:00" ],
+        "uid" : [ "tag:twitter.com:JI" ],
+        "url" : [ "https://twitter.com/JI", "https://jameside.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">With the newest version of Git 2.37.0, you can run just \"git push\" to push new branches. No more \"--set-upstream origin\". Enable with:\n\ngit config --global --add --bool push.autoSetupRemote true</div>",
+      "value" : "With the newest version of Git 2.37.0, you can run just \"git push\" to push new branches. No more \"--set-upstream origin\". Enable with:\n\ngit config --global --add --bool push.autoSetupRemote true"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FXfdkMvUYAAAsWZ.jpg" ],
+    "published" : [ "2022-07-12T20:05:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1546948817462800384" ],
+    "url" : [ "https://twitter.com/JI/status/1546948817462800384" ]
+  },
+  "type" : [ "h-entry" ]
+}
