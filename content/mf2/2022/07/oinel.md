@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Genki_Rocket/status/1547265423997112321" ],
     "name" : [ "Like of @Genki_Rocket's tweet" ],
     "published" : [ "2022-07-14T19:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Genki_Rocket/status/1547265423997112321" ],
