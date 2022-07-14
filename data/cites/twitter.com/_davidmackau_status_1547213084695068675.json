@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Mack" ],
+        "nickname" : [ "davidmackau" ],
+        "numeric-id" : [ "304932002" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1466793250468122628/tBys_hHJ.jpg" ],
+        "published" : [ "2011-05-25T10:46:00+00:00" ],
+        "uid" : [ "tag:twitter.com:davidmackau" ],
+        "url" : [ "https://twitter.com/davidmackau", "https://www.instagram.com/davidmackau/", "https://www.buzzfeednews.com/article/davidmack" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i hate how commercialized prime day has become 😞" ],
+    "published" : [ "2022-07-13T13:35:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1547213084695068675" ],
+    "url" : [ "https://twitter.com/davidmackau/status/1547213084695068675" ]
+  },
+  "type" : [ "h-entry" ]
+}
