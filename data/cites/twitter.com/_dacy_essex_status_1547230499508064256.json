@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "DB" ],
+        "nickname" : [ "dacy_essex" ],
+        "numeric-id" : [ "25316136" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459162625254821889/jVQAlpaH.jpg" ],
+        "published" : [ "2009-03-19T15:22:45+00:00" ],
+        "uid" : [ "tag:twitter.com:dacy_essex" ],
+        "url" : [ "https://twitter.com/dacy_essex" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Oh you like prime day? Name all prime numbers then\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/davidmackau\"></a>",
+      "value" : "Oh you like prime day? Name all prime numbers then"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/davidmackau/status/1547213084695068675" ],
+    "published" : [ "2022-07-13T14:44:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1547230499508064256" ],
+    "url" : [ "https://twitter.com/dacy_essex/status/1547230499508064256" ]
+  },
+  "type" : [ "h-entry" ]
+}
