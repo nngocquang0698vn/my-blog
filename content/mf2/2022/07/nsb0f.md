@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnotherRGB/status/1547496982104653826" ],
     "name" : [ "Like of @AnotherRGB's tweet" ],
     "published" : [ "2022-07-14T19:44:00+0100" ],
     "category" : [ "the-grinch" ],
