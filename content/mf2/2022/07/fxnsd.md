@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tlakomy/status/1547331578816303104" ],
     "name" : [ "Like of @tlakomy's tweet" ],
     "published" : [ "2022-07-14T08:56:00+0100" ],
     "like-of" : [ "https://twitter.com/tlakomy/status/1547331578816303104" ],
