@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ChippSkylarkk/status/1547434015128436738" ],
     "name" : [ "Like of @ChippSkylarkk's tweet" ],
     "published" : [ "2022-07-14T06:58:00+0100" ],
     "like-of" : [ "https://twitter.com/ChippSkylarkk/status/1547434015128436738" ],
