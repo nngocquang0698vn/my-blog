@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pleas4nt/status/1546704829837447171" ],
     "name" : [ "Like of @pleas4nt's tweet" ],
     "published" : [ "2022-07-14T06:49:00+0100" ],
     "like-of" : [ "https://twitter.com/pleas4nt/status/1546704829837447171" ],
