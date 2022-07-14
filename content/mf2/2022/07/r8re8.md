@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JossFong/status/1546947162268901378" ],
     "name" : [ "Like of @JossFong's tweet" ],
     "published" : [ "2022-07-14T06:43:00+0100" ],
     "like-of" : [ "https://twitter.com/JossFong/status/1546947162268901378" ],
