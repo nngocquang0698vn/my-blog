@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ji/status/1546948817462800384" ],
     "name" : [ "Like of @ji's tweet" ],
     "published" : [ "2022-07-14T08:17:13.825231217Z" ],
     "category" : [ "git" ],
