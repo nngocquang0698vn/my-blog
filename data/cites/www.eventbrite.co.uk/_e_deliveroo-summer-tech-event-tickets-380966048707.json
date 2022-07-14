@@ -1,0 +1,19 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "Deliveroo Summer Tech Event" ],
+    "description" : [ "Deliveroo Summer Tech Event - Aug 4th 6pm-8pm" ],
+    "start" : [ "2022-08-04T17:00:00Z" ],
+    "end" : [ "2022-08-04T19:00:00Z" ],
+    "url" : [ "https://www.eventbrite.co.uk/e/deliveroo-summer-tech-event-tickets-380966048707" ],
+    "location" : [ {
+      "type" : [ "h-adr" ],
+      "properties" : {
+        "name" : [ "Deliveroo HQ" ],
+        "locality" : [ "London" ],
+        "street-address" : [ "1 Cousin Lane, " ],
+        "postal-code" : [ "EC4R 3XJ" ]
+      }
+    } ]
+  }
+}
