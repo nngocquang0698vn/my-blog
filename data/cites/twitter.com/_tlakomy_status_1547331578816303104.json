@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Poznan, Poland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tomasz Łakomy 🌩 cloudash.dev 🇺🇦" ],
+        "nickname" : [ "tlakomy" ],
+        "numeric-id" : [ "1903060381" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1459438026996781056/laeweE3r.jpg" ],
+        "published" : [ "2013-09-25T06:04:20+00:00" ],
+        "uid" : [ "tag:twitter.com:tlakomy" ],
+        "url" : [ "https://twitter.com/tlakomy", "https://cloudash.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Fixing tech debt in an enterprise codebase" ],
+    "photo" : [ "https://pbs.twimg.com/media/FXk53p9WAAApegG.jpg" ],
+    "published" : [ "2022-07-13T21:26:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1547331578816303104" ],
+    "url" : [ "https://twitter.com/tlakomy/status/1547331578816303104" ]
+  },
+  "type" : [ "h-entry" ]
+}
