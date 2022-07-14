@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "CT, US" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nire Bryce" ],
+        "nickname" : [ "NireBryce" ],
+        "numeric-id" : [ "398859493" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/900478234038460416/7VjQACda.jpg" ],
+        "published" : [ "2011-10-26T17:04:35+00:00" ],
+        "uid" : [ "tag:twitter.com:NireBryce" ],
+        "url" : [ "https://twitter.com/NireBryce", "https://pronoun.is/they/:or/she" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">linux: `ls` (LiSt directories)\n\nmacOS: `ls` (LiSt directories)\n\nwindows CMD: `dir` (list DIRectories)\n\nPowerShell, who no one asked to the party: `Get-ChildItem` (steal candy from baby)</div>",
+      "value" : "linux: `ls` (LiSt directories)\n\nmacOS: `ls` (LiSt directories)\n\nwindows CMD: `dir` (list DIRectories)\n\nPowerShell, who no one asked to the party: `Get-ChildItem` (steal candy from baby)"
+    } ],
+    "published" : [ "2022-07-14T03:33:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1547423892939186183" ],
+    "url" : [ "https://twitter.com/NireBryce/status/1547423892939186183" ]
+  },
+  "type" : [ "h-entry" ]
+}
