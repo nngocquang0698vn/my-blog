@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/unlambda/status/1547361746121277446" ],
     "name" : [ "Like of @unlambda's tweet" ],
     "published" : [ "2022-07-14T06:46:00+0100" ],
     "like-of" : [ "https://twitter.com/unlambda/status/1547361746121277446" ],
