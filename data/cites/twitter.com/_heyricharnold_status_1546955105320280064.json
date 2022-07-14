@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rich 🤌" ],
+        "nickname" : [ "heyricharnold" ],
+        "numeric-id" : [ "31465593" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1378578330463711233/Ev-vVXSG.jpg" ],
+        "published" : [ "2009-04-15T17:43:31+00:00" ],
+        "uid" : [ "tag:twitter.com:heyricharnold" ],
+        "url" : [ "https://twitter.com/heyricharnold", "http://rich-arnold.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "One thing I've learned working in tech is that every shit product experience you've had is a result of someone in a meeting nodding their head instead of saying, \"Buddy, I'm gonna keep it real. I got no idea what the fuck you're talking about\"" ],
+    "published" : [ "2022-07-12T20:30:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1546955105320280064" ],
+    "url" : [ "https://twitter.com/heyricharnold/status/1546955105320280064" ]
+  },
+  "type" : [ "h-entry" ]
+}
