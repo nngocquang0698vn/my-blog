@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vermont" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Campbell" ],
+        "nickname" : [ "unlambda" ],
+        "numeric-id" : [ "25347465" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1278816184461258752/qsDwmIrf.jpg" ],
+        "published" : [ "2009-03-19T17:47:41+00:00" ],
+        "uid" : [ "tag:twitter.com:unlambda" ],
+        "url" : [ "https://twitter.com/unlambda" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I cannot understand how many folks think \"I have a problem! I know, now I'll use git submodules\" and don't realize that they now have many problems.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/zkat__\"></a>",
+      "value" : "I cannot understand how many folks think \"I have a problem! I know, now I'll use git submodules\" and don't realize that they now have many problems."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/zkat__/status/1547361334123286528" ],
+    "published" : [ "2022-07-13T23:26:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1547361746121277446" ],
+    "url" : [ "https://twitter.com/unlambda/status/1547361746121277446" ]
+  },
+  "type" : [ "h-entry" ]
+}
