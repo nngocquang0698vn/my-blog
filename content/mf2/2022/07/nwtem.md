@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Vicky_ACAB/status/1547354510141579275" ],
     "name" : [ "Like of @Vicky_ACAB's tweet" ],
     "published" : [ "2022-07-14T06:57:00+0100" ],
     "like-of" : [ "https://twitter.com/Vicky_ACAB/status/1547354510141579275" ],
