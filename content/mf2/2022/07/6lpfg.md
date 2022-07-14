@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AydenPerkins9/status/1547562439704621056" ],
     "name" : [ "Like of @AydenPerkins9's tweet" ],
     "published" : [ "2022-07-14T19:44:00+0100" ],
     "like-of" : [ "https://twitter.com/AydenPerkins9/status/1547562439704621056" ],
