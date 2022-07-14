@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/howardtayler/status/1546894059356037120" ],
     "name" : [ "Like of @howardtayler's tweet" ],
     "published" : [ "2022-07-14T10:08:00+0100" ],
     "like-of" : [ "https://twitter.com/howardtayler/status/1546894059356037120" ],
