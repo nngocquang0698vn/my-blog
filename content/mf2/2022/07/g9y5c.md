@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JackElsom/status/1547846783467802630" ],
     "name" : [ "Like of @JackElsom's tweet" ],
     "published" : [ "2022-07-15T14:30:00+0100" ],
     "category" : [ "politics" ],
