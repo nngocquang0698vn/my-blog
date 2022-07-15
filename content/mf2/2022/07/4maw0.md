@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/medus4_cdc/status/1547676572756299777" ],
     "name" : [ "Like of @medus4_cdc's tweet" ],
     "published" : [ "2022-07-15T07:49:00+0100" ],
     "like-of" : [ "https://twitter.com/medus4_cdc/status/1547676572756299777" ],
