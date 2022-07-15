@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/the_sheps/status/1547826271798693888" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1547912913439956993" ],
     "published" : [ "2022-07-15T12:47:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
