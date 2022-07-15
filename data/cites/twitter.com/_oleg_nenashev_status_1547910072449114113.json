@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "cloud" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "keptn" ],
+          "nickname" : [ "keptnProject" ],
+          "numeric-id" : [ "1087363408675123200" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1504823028848410637/MmxpD_pi.jpg" ],
+          "published" : [ "2019-01-21T14:56:53+00:00" ],
+          "uid" : [ "tag:twitter.com:keptnProject" ],
+          "url" : [ "https://twitter.com/keptnProject", "https://keptn.sh" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We have been promoted to the <a href=\"https://twitter.com/search?q=%23CNCF\">#CNCF</a> Incubator 🚀🚀\n\n<a href=\"https://medium.com/keptn/keptn-reaches-the-incubating-status-in-the-cncf-67291e2dda7\">medium.com/keptn/keptn-re…</a>\n\n<a href=\"https://twitter.com/search?q=%23opensource\">#opensource</a> <a href=\"https://twitter.com/search?q=%23cloudnative\">#cloudnative</a></div>",
+        "value" : "We have been promoted to the #CNCF Incubator 🚀🚀\n\nmedium.com/keptn/keptn-re…\n\n#opensource #cloudnative"
+      } ],
+      "published" : [ "2022-07-15T06:14:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1547826918178693120" ],
+      "url" : [ "https://twitter.com/keptnProject/status/1547826918178693120" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Neuchâtel, Switzerland" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Oleg Nenashev 🤍💙🤍&💙💛" ],
+        "nickname" : [ "oleg_nenashev" ],
+        "numeric-id" : [ "3344624523" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1501485394432516099/kuZTQVCe.jpg" ],
+        "published" : [ "2015-06-24T22:25:29+00:00" ],
+        "uid" : [ "tag:twitter.com:oleg_nenashev" ],
+        "url" : [ "https://twitter.com/oleg_nenashev", "https://linktr.ee/onenashev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "And, after <a href=\"https://twitter.com/keptnProject\">@keptnProject</a> incubation announcement, I can go on vacation. There is a lot of work ahead in the project's security audit and the CNCF transition checklist, but now some rest is desperately needed",
+      "value" : "And, after @keptnProject incubation announcement, I can go on vacation. There is a lot of work ahead in the project's security audit and the CNCF transition checklist, but now some rest is desperately needed"
+    } ],
+    "published" : [ "2022-07-15T11:44:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1547910072449114113" ],
+    "url" : [ "https://twitter.com/oleg_nenashev/status/1547910072449114113" ]
+  },
+  "type" : [ "h-entry" ]
+}
