@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Auckland, New Zealand" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gregor" ],
+        "nickname" : [ "LoadingArtist" ],
+        "numeric-id" : [ "28534645" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1461639974470651909/VOGgTiOV.jpg" ],
+        "published" : [ "2009-04-03T09:53:45+00:00" ],
+        "uid" : [ "tag:twitter.com:LoadingArtist" ],
+        "url" : [ "https://twitter.com/LoadingArtist", "https://www.loadingartist.com/", "http://twitch.tv/LoadingArtist", "http://patreon.com/LoadingArtist" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "a trip down memory lame 🙃" ],
+    "photo" : [ "https://pbs.twimg.com/media/FXs8Wn9UEAENnON.jpg" ],
+    "published" : [ "2022-07-15T12:04:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1547914877762785280" ],
+    "url" : [ "https://twitter.com/LoadingArtist/status/1547914877762785280" ]
+  },
+  "type" : [ "h-entry" ]
+}
