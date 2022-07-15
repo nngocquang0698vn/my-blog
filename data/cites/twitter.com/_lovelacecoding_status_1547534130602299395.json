@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lou Creemers" ],
+        "nickname" : [ "lovelacecoding" ],
+        "numeric-id" : [ "1405430507748352000" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1477386656839839753/O6EpKE4F.jpg" ],
+        "published" : [ "2021-06-17T07:42:46+00:00" ],
+        "uid" : [ "tag:twitter.com:lovelacecoding" ],
+        "url" : [ "https://twitter.com/lovelacecoding", "http://louella.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Why do people that enjoy drugs also enjoy coding?\n\nThey like hash tables</div>",
+      "value" : "Why do people that enjoy drugs also enjoy coding?\n\nThey like hash tables"
+    } ],
+    "published" : [ "2022-07-14T10:51:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1547534130602299395" ],
+    "url" : [ "https://twitter.com/lovelacecoding/status/1547534130602299395" ]
+  },
+  "type" : [ "h-entry" ]
+}
