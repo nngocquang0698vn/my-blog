@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "South Staffordshire, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Withers" ],
+        "nickname" : [ "tomtucka" ],
+        "numeric-id" : [ "566646587" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522893604301250560/FGkAsNQ8.jpg" ],
+        "published" : [ "2012-04-29T20:25:41+00:00" ],
+        "uid" : [ "tag:twitter.com:tomtucka" ],
+        "url" : [ "https://twitter.com/tomtucka", "https://tomwithers.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Has anyone done semantic versioning on GitLab? If so, can you show me an example?" ],
+    "published" : [ "2022-07-15T10:49:28+00:00" ],
+    "uid" : [ "tag:twitter.com:1547896121808211968" ],
+    "url" : [ "https://twitter.com/tomtucka/status/1547896121808211968" ]
+  },
+  "type" : [ "h-entry" ]
+}
