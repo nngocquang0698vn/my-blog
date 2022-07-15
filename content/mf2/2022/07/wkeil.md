@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maisieccino/status/1547904055141249024" ],
     "name" : [ "Like of @maisieccino's tweet" ],
     "published" : [ "2022-07-15T13:57:00+0100" ],
     "category" : [ "diversity-and-inclusion" ],
