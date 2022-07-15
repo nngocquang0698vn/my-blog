@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gradle" ],
+        "nickname" : [ "gradle" ],
+        "numeric-id" : [ "42404217" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1103064013200601093/ZPTbaU2z.png" ],
+        "published" : [ "2009-05-25T13:26:01+00:00" ],
+        "uid" : [ "tag:twitter.com:gradle" ],
+        "url" : [ "https://twitter.com/gradle", "https://gradle.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🎉 Gradle 7.5 is out!\n\n<a href=\"https://gradl.es/3O8p9on\">gradl.es/3O8p9on</a>\n\nBug fixes and...\n☕ Support for Java 18\n🪜 Support for building with Groovy 4\n🧰 Much more responsive continuous builds\n🔍 Improved diagnostics for dependency resolution\n\nReport new 🐛 on GitHub.</div>",
+      "value" : "🎉 Gradle 7.5 is out!\n\ngradl.es/3O8p9on\n\nBug fixes and...\n☕ Support for Java 18\n🪜 Support for building with Groovy 4\n🧰 Much more responsive continuous builds\n🔍 Improved diagnostics for dependency resolution\n\nReport new 🐛 on GitHub."
+    } ],
+    "published" : [ "2022-07-14T14:00:05+00:00" ],
+    "uid" : [ "tag:twitter.com:1547581703257960454" ],
+    "url" : [ "https://twitter.com/gradle/status/1547581703257960454" ]
+  },
+  "type" : [ "h-entry" ]
+}
