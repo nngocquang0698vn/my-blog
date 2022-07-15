@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">just thought up a little trick for showing \"help\" as a sort of popover modal:\n&lt;details&gt;&lt;summary&gt;help&lt;/summary&gt;blahblah&lt;/details&gt;\ndetails[open] {position: absolute;}\nto make it a \"dialog\" when open, and \ndetails[open] summary::after { content:\"×\";float:right }\nfor a close button</div>",
+      "value" : "just thought up a little trick for showing \"help\" as a sort of popover modal:\n<details><summary>help</summary>blahblah</details>\ndetails[open] {position: absolute;}\nto make it a \"dialog\" when open, and \ndetails[open] summary::after { content:\"×\";float:right }\nfor a close button"
+    } ],
+    "published" : [ "2022-07-14T20:21:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1547677637316751362" ],
+    "url" : [ "https://twitter.com/sil/status/1547677637316751362" ]
+  },
+  "type" : [ "h-entry" ]
+}
