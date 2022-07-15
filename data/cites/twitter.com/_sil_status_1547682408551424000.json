@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Birmingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Stuart Langridge" ],
+        "nickname" : [ "sil" ],
+        "numeric-id" : [ "1389781" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/55108762/hackergotchi-simpler.png" ],
+        "published" : [ "2007-03-18T01:52:55+00:00" ],
+        "uid" : [ "tag:twitter.com:sil" ],
+        "url" : [ "https://twitter.com/sil", "https://www.kryogenix.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Simple demo of the details[open] \"dialog\" thing: <a href=\"https://jsbin.com/robizun/3/edit?html,css,output\">jsbin.com/robizun/3/edit…</a>",
+      "value" : "Simple demo of the details[open] \"dialog\" thing: jsbin.com/robizun/3/edit…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/sil/status/1547677787871358976" ],
+    "published" : [ "2022-07-14T20:40:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1547682408551424000" ],
+    "url" : [ "https://twitter.com/sil/status/1547682408551424000" ]
+  },
+  "type" : [ "h-entry" ]
+}
