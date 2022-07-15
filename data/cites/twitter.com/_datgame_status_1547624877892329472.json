@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Niklas Lundberg" ],
+        "nickname" : [ "datgame" ],
+        "numeric-id" : [ "65358928" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/997839390037741569/sM7npUJj.jpg" ],
+        "published" : [ "2009-08-13T13:14:06+00:00" ],
+        "uid" : [ "tag:twitter.com:datgame" ],
+        "url" : [ "https://twitter.com/datgame", "https://jahej.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Coinbase: \"Our business is to scam people, here's how we do it efficiently\"\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulg\"></a>",
+      "value" : "Coinbase: \"Our business is to scam people, here's how we do it efficiently\""
+    } ],
+    "in-reply-to" : [ "https://twitter.com/paulg/status/1547624192966742022" ],
+    "published" : [ "2022-07-14T16:51:39+00:00" ],
+    "uid" : [ "tag:twitter.com:1547624877892329472" ],
+    "url" : [ "https://twitter.com/datgame/status/1547624877892329472" ]
+  },
+  "type" : [ "h-entry" ]
+}
