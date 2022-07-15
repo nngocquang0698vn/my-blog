@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New Mexico, USA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "David Funk 🇺🇦🦊" ],
+          "nickname" : [ "5seas" ],
+          "numeric-id" : [ "21382715" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1226510169518903297/py9MLPyG.jpg" ],
+          "published" : [ "2009-02-20T07:58:02+00:00" ],
+          "uid" : [ "tag:twitter.com:5seas" ],
+          "url" : [ "https://twitter.com/5seas" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\"><a href=\"https://twitter.com/Grady_Booch\">@Grady_Booch</a>\nSo now we have \"raindrop software factories\", how is that going? Serious question.\n<a href=\"https://breakingdefense.com/2022/07/air-force-needs-more-efficiency-from-raindrop-software-factories-former-dod-cyber-official/\">breakingdefense.com/2022/07/air-fo…</a></div>",
+        "value" : "@Grady_Booch\nSo now we have \"raindrop software factories\", how is that going? Serious question.\nbreakingdefense.com/2022/07/air-fo…"
+      } ],
+      "published" : [ "2022-07-14T14:02:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1547582330142728194" ],
+      "url" : [ "https://twitter.com/5seas/status/1547582330142728194" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maui" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Grady Booch" ],
+        "nickname" : [ "Grady_Booch" ],
+        "numeric-id" : [ "397689316" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk.jpg" ],
+        "published" : [ "2011-10-25T01:21:41+00:00" ],
+        "uid" : [ "tag:twitter.com:Grady_Booch" ],
+        "url" : [ "https://twitter.com/Grady_Booch", "https://computingthehumanexperience.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Raindrops on ROSEs\n\nSCRUM masters with patterns\n\nBright colored PostIts and worn weary whiteboards\n\nSearching my YAML with regex  strings\n\nThese are a few of my favorite things.\n\n(With apologies to Rogers and Hammerstein)</div>",
+      "value" : "Raindrops on ROSEs\n\nSCRUM masters with patterns\n\nBright colored PostIts and worn weary whiteboards\n\nSearching my YAML with regex  strings\n\nThese are a few of my favorite things.\n\n(With apologies to Rogers and Hammerstein)"
+    } ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Kaanapali, HI" ],
+        "uid" : [ "tag:twitter.com:386eee0c027ac681" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-07-14T18:30:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1547649762077204480" ],
+    "url" : [ "https://twitter.com/Grady_Booch/status/1547649762077204480" ]
+  },
+  "type" : [ "h-entry" ]
+}
