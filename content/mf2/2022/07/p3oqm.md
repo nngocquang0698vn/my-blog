@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/oleg_nenashev/status/1547910072449114113" ],
     "name" : [ "Like of @oleg_nenashev's tweet" ],
     "published" : [ "2022-07-15T13:55:00+0100" ],
     "like-of" : [ "https://twitter.com/oleg_nenashev/status/1547910072449114113" ],
