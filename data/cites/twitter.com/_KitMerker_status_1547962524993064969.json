@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle, WA, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kit “Reasonable Promises for your Service” Merker" ],
+        "nickname" : [ "KitMerker" ],
+        "numeric-id" : [ "311750553" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1444173562/kit_twitter.png" ],
+        "published" : [ "2011-06-06T00:28:48+00:00" ],
+        "uid" : [ "tag:twitter.com:KitMerker" ],
+        "url" : [ "https://twitter.com/KitMerker", "http://nobl9.com/signup", "http://slodlc.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "feed two nerds with one scone\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ahidalgosre\"></a>",
+      "value" : "feed two nerds with one scone"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ahidalgosre/status/1547961345550610437" ],
+    "published" : [ "2022-07-15T15:13:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1547962524993064969" ],
+    "url" : [ "https://twitter.com/KitMerker/status/1547962524993064969" ]
+  },
+  "type" : [ "h-entry" ]
+}
