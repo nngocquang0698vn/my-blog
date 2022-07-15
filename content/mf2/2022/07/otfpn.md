@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/acameron78/status/1547853956595851268" ],
     "name" : [ "Like of @acameron78's tweet" ],
     "published" : [ "2022-07-15T14:31:00+0100" ],
     "category" : [ "politics" ],
