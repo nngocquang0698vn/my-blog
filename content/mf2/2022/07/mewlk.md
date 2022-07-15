@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/vardmin/status/1547672338446950402" ],
     "name" : [ "Like of @vardmin's tweet" ],
     "published" : [ "2022-07-15T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/vardmin/status/1547672338446950402" ],
