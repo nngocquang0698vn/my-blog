@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Montevideo, Uruguay" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Esteban Ordano ⚡️" ],
+        "nickname" : [ "eordano" ],
+        "numeric-id" : [ "30473929" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1521582769666764802/5fzCuAXi.png" ],
+        "published" : [ "2009-04-11T16:25:02+00:00" ],
+        "uid" : [ "tag:twitter.com:eordano" ],
+        "url" : [ "https://twitter.com/eordano" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Yep\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cburniske\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ns_human\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/paulg\"></a>",
+      "value" : "Yep"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ns_human/status/1547626576308609024" ],
+    "published" : [ "2022-07-14T17:53:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1547640411769868291" ],
+    "url" : [ "https://twitter.com/eordano/status/1547640411769868291" ]
+  },
+  "type" : [ "h-entry" ]
+}
