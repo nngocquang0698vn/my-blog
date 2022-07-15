@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Probably breakfast" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jamie Gaskins, your pickle friend" ],
+        "nickname" : [ "jamie_gaskins" ],
+        "numeric-id" : [ "195645259" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/928817947228999681/2bb5TEcf.jpg" ],
+        "published" : [ "2010-09-27T06:37:43+00:00" ],
+        "uid" : [ "tag:twitter.com:jamie_gaskins" ],
+        "url" : [ "https://twitter.com/jamie_gaskins" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Pet two dogs with one hand\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ahidalgosre\"></a>",
+      "value" : "Pet two dogs with one hand"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ahidalgosre/status/1547961345550610437" ],
+    "published" : [ "2022-07-15T15:27:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1547965976305512449" ],
+    "url" : [ "https://twitter.com/jamie_gaskins/status/1547965976305512449" ]
+  },
+  "type" : [ "h-entry" ]
+}
