@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Memphis, TN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "FedEx Help" ],
+        "nickname" : [ "FedExHelp" ],
+        "numeric-id" : [ "952293073" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478040742517948416/3EQ-YPeh.jpg" ],
+        "published" : [ "2012-11-16T19:34:50+00:00" ],
+        "uid" : [ "tag:twitter.com:FedExHelp" ],
+        "url" : [ "https://twitter.com/FedExHelp", "http://fedex.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Hello there. \n\nMy name is Gaby. This is not the experience we want to provide. I am very sorry for the pending delivery. Please send a direct message, I would be happy to assist. <a href=\"https://twitter.com/messages/compose?recipient_id=952293073\">twitter.com/messages/compo…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ajc\"></a>",
+      "value" : "Hello there. \n\nMy name is Gaby. This is not the experience we want to provide. I am very sorry for the pending delivery. Please send a direct message, I would be happy to assist. twitter.com/messages/compo…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ajc/status/1547755374433800192" ],
+    "published" : [ "2022-07-15T02:53:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1547776371165777920" ],
+    "url" : [ "https://twitter.com/FedExHelp/status/1547776371165777920" ]
+  },
+  "type" : [ "h-entry" ]
+}
