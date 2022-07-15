@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wongmjane/status/1535232358504624128" ],
     "name" : [ "Like of @wongmjane's tweet" ],
     "published" : [ "2022-07-15T17:19:00+0100" ],
     "like-of" : [ "https://twitter.com/wongmjane/status/1535232358504624128" ],
