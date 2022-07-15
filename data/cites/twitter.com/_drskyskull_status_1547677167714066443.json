@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York City / Worldwide" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "ABC News" ],
+          "nickname" : [ "ABC" ],
+          "numeric-id" : [ "28785486" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1453073578790948873/4bg2Xr0L.jpg" ],
+          "published" : [ "2009-04-04T12:40:32+00:00" ],
+          "uid" : [ "tag:twitter.com:ABC" ],
+          "url" : [ "https://twitter.com/ABC", "https://abcnews.go.com/", "http://abcn.ws/3bJ62RK" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "BREAKING: Ivana Trump, the ex-wife of former Pres. Donald Trump, has died at age 73, the family told <a href=\"https://twitter.com/ABC\">@ABC</a> News. <a href=\"https://abcn.ws/3z4aZQG\">abcn.ws/3z4aZQG</a>",
+        "value" : "BREAKING: Ivana Trump, the ex-wife of former Pres. Donald Trump, has died at age 73, the family told @ABC News. abcn.ws/3z4aZQG"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FXprK7OVEAA40CI.jpg" ],
+      "published" : [ "2022-07-14T19:40:04+00:00" ],
+      "uid" : [ "tag:twitter.com:1547667261493719044" ],
+      "url" : [ "https://twitter.com/ABC/status/1547667261493719044" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Charlotte, NC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "skullsinthestars - Black lives matter" ],
+        "nickname" : [ "drskyskull" ],
+        "numeric-id" : [ "110772878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1445098755443728391/BjQe8Kcx.jpg" ],
+        "published" : [ "2010-02-02T18:38:44+00:00" ],
+        "uid" : [ "tag:twitter.com:drskyskull" ],
+        "url" : [ "https://twitter.com/drskyskull", "http://skullsinthestars.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I will mostly remember her for warning us, years before Donald ran for office, that he kept a book of Hitler’s speeches by his bedside." ],
+    "published" : [ "2022-07-14T20:19:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1547677167714066443" ],
+    "url" : [ "https://twitter.com/drskyskull/status/1547677167714066443" ]
+  },
+  "type" : [ "h-entry" ]
+}
