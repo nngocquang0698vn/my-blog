@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/srikrsna/oauth-introspection/stargazers" ],
     "published" : [ "2022-07-15T08:23:01.090128797Z" ],
     "category" : [ "oauth2", "go" ],
     "like-of" : [ "https://github.com/srikrsna/oauth-introspection" ]
