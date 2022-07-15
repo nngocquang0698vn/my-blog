@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/drskyskull/status/1547677167714066443" ],
     "name" : [ "Like of @drskyskull's tweet" ],
     "published" : [ "2022-07-15T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/drskyskull/status/1547677167714066443" ],
