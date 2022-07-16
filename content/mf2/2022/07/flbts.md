@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/editingemily/status/1547081076731891713" ],
     "name" : [ "Like of @editingemily's tweet" ],
     "published" : [ "2022-07-16T18:02:00+0100" ],
     "like-of" : [ "https://twitter.com/editingemily/status/1547081076731891713" ],
