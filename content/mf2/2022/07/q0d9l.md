@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shadowcat_mdk/status/1548220704574672896" ],
     "name" : [ "Like of @shadowcat_mdk's tweet" ],
     "published" : [ "2022-07-16T11:08:00+0100" ],
     "like-of" : [ "https://twitter.com/shadowcat_mdk/status/1548220704574672896" ],
