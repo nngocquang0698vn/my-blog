@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Froggy Makes (sometimes)" ],
+        "nickname" : [ "FroggyMakes" ],
+        "numeric-id" : [ "1331228928" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/898591752981970945/fgmIMzKU.jpg" ],
+        "published" : [ "2013-04-06T10:22:22+00:00" ],
+        "uid" : [ "tag:twitter.com:FroggyMakes" ],
+        "url" : [ "https://twitter.com/FroggyMakes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Open question: what is a large group of furries called?\n\nWe're torn between a herd and a pack but feel like there's a proper word for it.</div>",
+      "value" : "Open question: what is a large group of furries called?\n\nWe're torn between a herd and a pack but feel like there's a proper word for it."
+    } ],
+    "published" : [ "2022-07-16T18:50:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1548379599863590914" ],
+    "url" : [ "https://twitter.com/FroggyMakes/status/1548379599863590914" ]
+  },
+  "type" : [ "h-entry" ]
+}
