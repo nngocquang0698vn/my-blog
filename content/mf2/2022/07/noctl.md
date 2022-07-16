@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AnnieLeymarie/status/1547548820887707650" ],
     "name" : [ "Like of @AnnieLeymarie's tweet" ],
     "published" : [ "2022-07-16T11:09:00+0100" ],
     "like-of" : [ "https://twitter.com/AnnieLeymarie/status/1547548820887707650" ],
