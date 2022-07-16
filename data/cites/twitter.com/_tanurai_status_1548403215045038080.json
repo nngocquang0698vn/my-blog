@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Plague Island" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tanya Fish" ],
+        "nickname" : [ "tanurai" ],
+        "numeric-id" : [ "23038280" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1058118494414389249/j-ubw5PC.jpg" ],
+        "published" : [ "2009-03-06T06:20:21+00:00" ],
+        "uid" : [ "tag:twitter.com:tanurai" ],
+        "url" : [ "https://twitter.com/tanurai", "http://tanyafish.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "In that case I maintain my stance.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FroggyMakes\"></a>",
+      "value" : "In that case I maintain my stance."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/FroggyMakes/status/1548402654832836609" ],
+    "published" : [ "2022-07-16T20:24:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1548403215045038080" ],
+    "url" : [ "https://twitter.com/tanurai/status/1548403215045038080" ]
+  },
+  "type" : [ "h-entry" ]
+}
