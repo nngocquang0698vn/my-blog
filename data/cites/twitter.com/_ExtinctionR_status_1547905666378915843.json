@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Earth" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Extinction Rebellion" ],
+        "nickname" : [ "ExtinctionR" ],
+        "numeric-id" : [ "1019974187975430144" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330524262994743296/hVrRvj4d.png" ],
+        "published" : [ "2018-07-19T15:56:11+00:00" ],
+        "uid" : [ "tag:twitter.com:ExtinctionR" ],
+        "url" : [ "https://twitter.com/ExtinctionR", "https://rebellion.global" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "If a heatwave’s been freaking you out, here’s some advice." ],
+    "photo" : [ {
+      "alt" : "Advice on “how to survive the global heatwave” including “Dismantle the fossil fuel industry”",
+      "value" : "https://pbs.twimg.com/media/FXtD_qRVUAE9SSw.jpg"
+    } ],
+    "published" : [ "2022-07-15T11:27:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1547905666378915843" ],
+    "url" : [ "https://twitter.com/ExtinctionR/status/1547905666378915843" ]
+  },
+  "type" : [ "h-entry" ]
+}
