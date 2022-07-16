@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Pete Holmes" ],
+        "nickname" : [ "peteholmes" ],
+        "numeric-id" : [ "20322986" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/481269537862471681/hUxgx3P1.jpeg" ],
+        "published" : [ "2009-02-07T18:00:53+00:00" ],
+        "uid" : [ "tag:twitter.com:peteholmes" ],
+        "url" : [ "https://twitter.com/peteholmes", "http://www.peteholmes.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Batman doesn’t believe in death ft. <a href=\"https://twitter.com/pattonoswalt\">@pattonoswalt</a>",
+      "value" : "Batman doesn’t believe in death ft. @pattonoswalt"
+    } ],
+    "published" : [ "2022-07-15T20:44:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1548045866442711040" ],
+    "url" : [ "https://twitter.com/peteholmes/status/1548045866442711040" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1548045707700871169/pu/vid/720x1280/r-Prc5y48P1HKhqC.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
