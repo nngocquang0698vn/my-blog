@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Plague Island" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tanya Fish" ],
+        "nickname" : [ "tanurai" ],
+        "numeric-id" : [ "23038280" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1058118494414389249/j-ubw5PC.jpg" ],
+        "published" : [ "2009-03-06T06:20:21+00:00" ],
+        "uid" : [ "tag:twitter.com:tanurai" ],
+        "url" : [ "https://twitter.com/tanurai", "http://tanyafish.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Infrastructure\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/FroggyMakes\"></a>",
+      "value" : "Infrastructure"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/FroggyMakes/status/1548379599863590914" ],
+    "published" : [ "2022-07-16T18:53:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1548380347670220802" ],
+    "url" : [ "https://twitter.com/tanurai/status/1548380347670220802" ]
+  },
+  "type" : [ "h-entry" ]
+}
