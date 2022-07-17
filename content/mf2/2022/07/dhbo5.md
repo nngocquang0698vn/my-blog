@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mattschier68/status/1547898142909116417" ],
     "name" : [ "Like of @Mattschier68's tweet" ],
     "published" : [ "2022-07-17T21:14:00+0100" ],
     "like-of" : [ "https://twitter.com/Mattschier68/status/1547898142909116417" ],
