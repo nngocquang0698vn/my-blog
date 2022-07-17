@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Washington, DC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "philip lewis" ],
+          "nickname" : [ "Phil_Lewis_" ],
+          "numeric-id" : [ "286998245" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1367933008616038403/pY-eIQWA.jpg" ],
+          "published" : [ "2011-04-24T03:45:44+00:00" ],
+          "uid" : [ "tag:twitter.com:Phil_Lewis_" ],
+          "url" : [ "https://twitter.com/Phil_Lewis_", "https://www.instagram.com/phil.lewis/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "UVALDE, Texas (AP) — Report: Findings reveal nearly 400 officers were at Uvalde elementary school as police waited to confront gunman." ],
+      "published" : [ "2022-07-17T18:08:18+00:00" ],
+      "uid" : [ "tag:twitter.com:1548731332766961665" ],
+      "url" : [ "https://twitter.com/Phil_Lewis_/status/1548731332766961665" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/phil_lewis_/st…" ],
+      "url" : [ "https://twitter.com/phil_lewis_/status/1548731332766961665" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Kashana" ],
+        "nickname" : [ "kashanacauley" ],
+        "numeric-id" : [ "433439383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/939596663085088768/z5LXJE1Y.jpg" ],
+        "published" : [ "2011-12-10T15:30:58+00:00" ],
+        "uid" : [ "tag:twitter.com:kashanacauley" ],
+        "url" : [ "https://twitter.com/kashanacauley", "http://kashanacauley.com", "https://bit.ly/3N91kMy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "For the low, low price of 40% of your town’s budget, you too can have 400 dudes heroically ignore a massacre.\n<a class=\"tag\" href=\"https://twitter.com/phil_lewis_/status/1548731332766961665\">twitter.com/phil_lewis_/st…</a>",
+      "value" : "For the low, low price of 40% of your town’s budget, you too can have 400 dudes heroically ignore a massacre."
+    } ],
+    "published" : [ "2022-07-17T19:27:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1548751268943777793" ],
+    "url" : [ "https://twitter.com/kashanacauley/status/1548751268943777793" ]
+  },
+  "type" : [ "h-entry" ]
+}
