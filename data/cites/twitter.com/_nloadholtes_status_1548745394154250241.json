@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Atlanta, GA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Nick Loadholtes" ],
+        "nickname" : [ "nloadholtes" ],
+        "numeric-id" : [ "197884428" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/455534079111217152/H6qoNozJ.jpeg" ],
+        "published" : [ "2010-10-02T18:43:27+00:00" ],
+        "uid" : [ "tag:twitter.com:nloadholtes" ],
+        "url" : [ "https://twitter.com/nloadholtes", "https://blog.ironboundsoftware.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It's strange to read the hn comments on a story that you have inside knowledge of." ],
+    "published" : [ "2022-07-17T19:04:10+00:00" ],
+    "uid" : [ "tag:twitter.com:1548745394154250241" ],
+    "url" : [ "https://twitter.com/nloadholtes/status/1548745394154250241" ]
+  },
+  "type" : [ "h-entry" ]
+}
