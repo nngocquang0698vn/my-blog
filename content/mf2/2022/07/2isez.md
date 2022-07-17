@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/martienvdberg/status/1548546799429980161" ],
     "name" : [ "Like of @martienvdberg's tweet" ],
     "published" : [ "2022-07-17T09:08:00+0100" ],
     "like-of" : [ "https://twitter.com/martienvdberg/status/1548546799429980161" ],
