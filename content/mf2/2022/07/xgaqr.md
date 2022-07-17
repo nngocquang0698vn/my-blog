@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KevalSShah/status/1548760138370240512" ],
     "name" : [ "Like of @KevalSShah's tweet" ],
     "published" : [ "2022-07-17T21:10:00+0100" ],
     "category" : [ "food" ],
