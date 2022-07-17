@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JoJoFromJerz/status/1548400959130202115" ],
     "name" : [ "Like of @JoJoFromJerz's tweet" ],
     "published" : [ "2022-07-17T16:51:00+0100" ],
     "like-of" : [ "https://twitter.com/JoJoFromJerz/status/1548400959130202115" ],
