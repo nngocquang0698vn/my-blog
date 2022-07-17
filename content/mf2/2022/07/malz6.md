@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesSACorey/status/1548534405441863681" ],
     "name" : [ "Like of @JamesSACorey's tweet" ],
     "published" : [ "2022-07-17T09:08:00+0100" ],
     "like-of" : [ "https://twitter.com/JamesSACorey/status/1548534405441863681" ],
