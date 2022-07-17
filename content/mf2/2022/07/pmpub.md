@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NessieAvery/status/1548687550054912002" ],
     "name" : [ "Like of @NessieAvery's tweet" ],
     "published" : [ "2022-07-17T19:44:00+0100" ],
     "like-of" : [ "https://twitter.com/NessieAvery/status/1548687550054912002" ],
