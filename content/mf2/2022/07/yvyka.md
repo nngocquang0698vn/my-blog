@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kashanacauley/status/1548751268943777793" ],
     "name" : [ "Like of @kashanacauley's tweet" ],
     "published" : [ "2022-07-17T21:14:00+0100" ],
     "like-of" : [ "https://twitter.com/kashanacauley/status/1548751268943777793" ],
