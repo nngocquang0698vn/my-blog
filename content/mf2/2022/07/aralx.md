@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KiDCuDi/status/1548720695177228289" ],
     "name" : [ "Like of @KiDCuDi's tweet" ],
     "published" : [ "2022-07-18T07:57:00+0100" ],
     "like-of" : [ "https://twitter.com/KiDCuDi/status/1548720695177228289" ],
