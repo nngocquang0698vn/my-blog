@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/genteelhart/status/1548839468911583232" ],
     "name" : [ "Like of @genteelhart's tweet" ],
     "published" : [ "2022-07-18T10:00:00+0100" ],
     "like-of" : [ "https://twitter.com/genteelhart/status/1548839468911583232" ],
