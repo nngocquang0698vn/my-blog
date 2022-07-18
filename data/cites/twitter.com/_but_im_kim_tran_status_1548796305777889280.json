@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Diaspora" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kim Tran" ],
+        "nickname" : [ "but_im_kim_tran" ],
+        "numeric-id" : [ "758731561592246272" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1376762513891618817/ibu1YtgT.jpg" ],
+        "published" : [ "2016-07-28T18:31:15+00:00" ],
+        "uid" : [ "tag:twitter.com:but_im_kim_tran" ],
+        "url" : [ "https://twitter.com/but_im_kim_tran", "https://www.kimtranphd.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Absolutely. People can watch and love what they want so long as we can recognize the cognitive dissonance in front of us.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/scottcisco\"></a>",
+      "value" : "Absolutely. People can watch and love what they want so long as we can recognize the cognitive dissonance in front of us."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/scottcisco/status/1548795680084307968" ],
+    "published" : [ "2022-07-17T22:26:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1548796305777889280" ],
+    "url" : [ "https://twitter.com/but_im_kim_tran/status/1548796305777889280" ]
+  },
+  "type" : [ "h-entry" ]
+}
