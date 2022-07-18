@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/starfader/status/1548882438188781568" ],
     "name" : [ "Like of @starfader's tweet" ],
     "published" : [ "2022-07-18T08:01:00+0100" ],
     "like-of" : [ "https://twitter.com/starfader/status/1548882438188781568" ],
