@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Michael Krakovskiy" ],
+        "nickname" : [ "deadprogrammer" ],
+        "numeric-id" : [ "1520431" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522201422263160833/IFm-W4Ho.jpg" ],
+        "published" : [ "2007-03-19T15:52:04+00:00" ],
+        "uid" : [ "tag:twitter.com:deadprogrammer" ],
+        "url" : [ "https://twitter.com/deadprogrammer", "http://www.deadprogrammer.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "AWS is not about paying for what you use, it’s about paying for what you forgot to turn off." ],
+    "published" : [ "2019-04-24T04:26:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1120906784544296961" ],
+    "url" : [ "https://twitter.com/deadprogrammer/status/1120906784544296961" ]
+  },
+  "type" : [ "h-entry" ]
+}
