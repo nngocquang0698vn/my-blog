@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SgtSinical/status/1548801745278623744" ],
     "name" : [ "Like of @SgtSinical's tweet" ],
     "published" : [ "2022-07-18T20:29:00+0100" ],
     "like-of" : [ "https://twitter.com/SgtSinical/status/1548801745278623744" ],
