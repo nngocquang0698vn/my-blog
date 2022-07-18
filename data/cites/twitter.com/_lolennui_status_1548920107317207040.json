@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543025115247661057/3_vlV1Ck.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "https://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I just wondered which of todays’s shootings someone was tweeting about and I don’t think this is great for our brains" ],
+    "published" : [ "2022-07-18T06:38:25+00:00" ],
+    "uid" : [ "tag:twitter.com:1548920107317207040" ],
+    "url" : [ "https://twitter.com/lolennui/status/1548920107317207040" ]
+  },
+  "type" : [ "h-entry" ]
+}
