@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berkeley, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Allen Holub" ],
+        "nickname" : [ "allenholub" ],
+        "numeric-id" : [ "21375846" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1042085119505227777/l3Xhlcse.jpg" ],
+        "published" : [ "2009-02-20T05:05:57+00:00" ],
+        "uid" : [ "tag:twitter.com:allenholub" ],
+        "url" : [ "https://twitter.com/allenholub", "http://holub.com", "http://holub.com/services", "http://holub.com/subscribe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I see \"regulated\" as an excuse for bad process entirely too often. I've worked in regulated environments. Auditors were perfectly happy with TDD tests as specs & git logs as an audit trail. You don't need bureaucratic process & artifacts & heavyweight surveillance tools like Jira" ],
+    "published" : [ "2022-07-17T19:53:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1548757930614214656" ],
+    "url" : [ "https://twitter.com/allenholub/status/1548757930614214656" ]
+  },
+  "type" : [ "h-entry" ]
+}
