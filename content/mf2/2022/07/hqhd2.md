@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Fred_Delicious/status/1265758435175534594" ],
     "name" : [ "Like of @Fred_Delicious's tweet" ],
     "published" : [ "2022-07-18T07:45:00+0100" ],
     "like-of" : [ "https://twitter.com/Fred_Delicious/status/1265758435175534594" ],
