@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattbooshell/status/1547965971305902081" ],
     "name" : [ "Like of @mattbooshell's tweet" ],
     "published" : [ "2022-07-18T07:55:00+0100" ],
     "like-of" : [ "https://twitter.com/mattbooshell/status/1547965971305902081" ],
