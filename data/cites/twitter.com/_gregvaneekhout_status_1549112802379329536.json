@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Diaspora" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kim Tran" ],
+          "nickname" : [ "but_im_kim_tran" ],
+          "numeric-id" : [ "758731561592246272" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1376762513891618817/ibu1YtgT.jpg" ],
+          "published" : [ "2016-07-28T18:31:15+00:00" ],
+          "uid" : [ "tag:twitter.com:but_im_kim_tran" ],
+          "url" : [ "https://twitter.com/but_im_kim_tran", "https://www.kimtranphd.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What is copaganda? It's Disney's Ms. Marvel showing us the NYPD protecting a Pakistani girl when in reality the NYPD settled a suit in 2018 because it surveilled 20 mosques, 14 restaurants, 11 stores, two schools and two Muslim student groups in New Jersey alone." ],
+      "published" : [ "2022-07-17T22:19:31+00:00" ],
+      "uid" : [ "tag:twitter.com:1548794555511611392" ],
+      "url" : [ "https://twitter.com/but_im_kim_tran/status/1548794555511611392" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Diego" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Greg van Eekhout" ],
+        "nickname" : [ "gregvaneekhout" ],
+        "numeric-id" : [ "11025642" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1187227642853871616/KZxm_fwg.jpg" ],
+        "published" : [ "2007-12-10T18:52:37+00:00" ],
+        "uid" : [ "tag:twitter.com:gregvaneekhout" ],
+        "url" : [ "https://twitter.com/gregvaneekhout", "http://www.writingandsnacks.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I really, really enjoyed Ms. Marvel, but, yes, this, absolutely." ],
+    "published" : [ "2022-07-18T19:24:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1549112802379329536" ],
+    "url" : [ "https://twitter.com/gregvaneekhout/status/1549112802379329536" ]
+  },
+  "type" : [ "h-entry" ]
+}
