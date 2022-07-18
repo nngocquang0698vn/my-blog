@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "brooklyn " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "rachel" ],
+        "nickname" : [ "ohhoe" ],
+        "numeric-id" : [ "2141321" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1524121166054633473/gcnmxOdf.jpg" ],
+        "published" : [ "2007-03-24T23:28:38+00:00" ],
+        "uid" : [ "tag:twitter.com:ohhoe" ],
+        "url" : [ "https://twitter.com/ohhoe" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Security friends: what’s the best method to scan a network to check for devices? worried about potential undisclosed cameras. I downloaded an app called “Fing”, but wonder if there are any other better simpler solutions. Planned on going to any unnamed ip’s to check for gateways" ],
+    "published" : [ "2022-07-16T18:29:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1548374223533400070" ],
+    "url" : [ "https://twitter.com/ohhoe/status/1548374223533400070" ]
+  },
+  "type" : [ "h-entry" ]
+}
