@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "The Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Joe" ],
+        "nickname" : [ "jna_sh" ],
+        "numeric-id" : [ "18840827" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484542748606799873/D4zrLdmM.png" ],
+        "published" : [ "2009-01-10T17:54:58+00:00" ],
+        "uid" : [ "tag:twitter.com:jna_sh" ],
+        "url" : [ "https://twitter.com/jna_sh", "https://Interhacktive.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "doubly so because that is not documented by the device manufacturer, who will sell you premium access to their API, so I can pay for the same data once it's sent from my home to their cloud." ],
+    "in-reply-to" : [ "https://twitter.com/jna_sh/status/1549055350300721153" ],
+    "published" : [ "2022-07-18T15:36:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1549055553929969664" ],
+    "url" : [ "https://twitter.com/jna_sh/status/1549055553929969664" ]
+  },
+  "type" : [ "h-entry" ]
+}
