@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jna_sh/status/1549055553929969664" ],
     "name" : [ "Like of @jna_sh's tweet" ],
     "published" : [ "2022-07-18T16:37:00+0100" ],
     "like-of" : [ "https://twitter.com/jna_sh/status/1549055553929969664" ],
