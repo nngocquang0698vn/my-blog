@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London, United Kingdom" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Holly Cummins" ],
+          "nickname" : [ "holly_cummins" ],
+          "numeric-id" : [ "154083210" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1542149739277434880/5f0jQkTG.jpg" ],
+          "published" : [ "2010-06-10T09:38:55+00:00" ],
+          "uid" : [ "tag:twitter.com:holly_cummins" ],
+          "url" : [ "https://twitter.com/holly_cummins", "https://hollycummins.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"No one ever sets out to build legacy apps.\"\n\n-<a href=\"https://twitter.com/ags313\">@ags313</a> <a href=\"https://twitter.com/search?q=%23JBCNConf\">#JBCNConf</a></div>",
+        "value" : "\"No one ever sets out to build legacy apps.\"\n\n-@ags313 #JBCNConf"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/holly_cummins/status/1549050309787500549" ],
+      "published" : [ "2022-07-18T15:21:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1549051759422849024" ],
+      "url" : [ "https://twitter.com/holly_cummins/status/1549051759422849024" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Wolverton, Milton Keynes, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Paul Johnston - trying to be civil (as a service)" ],
+        "nickname" : [ "PaulDJohnston" ],
+        "numeric-id" : [ "32193" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489994130004533259/gz6LI1oW.jpg" ],
+        "published" : [ "2006-11-30T11:53:49+00:00" ],
+        "uid" : [ "tag:twitter.com:PaulDJohnston" ],
+        "url" : [ "https://twitter.com/PaulDJohnston", "http://medium.com/@PaulDJohnston" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Well some of us go out to build apps that are much easier to manage and maintain to *try* to avoid legacy.\n\nThis gets us in to trouble with people who think that the important thing is \"going fast\" which means they invariably \"break things\".\n\nUnfortunately, they often \"break me\".</div>",
+      "value" : "Well some of us go out to build apps that are much easier to manage and maintain to *try* to avoid legacy.\n\nThis gets us in to trouble with people who think that the important thing is \"going fast\" which means they invariably \"break things\".\n\nUnfortunately, they often \"break me\"."
+    } ],
+    "published" : [ "2022-07-18T15:23:04+00:00" ],
+    "uid" : [ "tag:twitter.com:1549052136574820352" ],
+    "url" : [ "https://twitter.com/PaulDJohnston/status/1549052136574820352" ]
+  },
+  "type" : [ "h-entry" ]
+}
