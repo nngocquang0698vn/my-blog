@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/The_Siemek/status/1548921992887169024" ],
     "name" : [ "Like of @The_Siemek's tweet" ],
     "published" : [ "2022-07-18T08:00:00+0100" ],
     "like-of" : [ "https://twitter.com/The_Siemek/status/1548921992887169024" ],
