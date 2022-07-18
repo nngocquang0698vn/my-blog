@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gregvaneekhout/status/1549112802379329536" ],
     "name" : [ "Like of @gregvaneekhout's tweet" ],
     "published" : [ "2022-07-18T20:28:00+0100" ],
     "like-of" : [ "https://twitter.com/gregvaneekhout/status/1549112802379329536" ],
