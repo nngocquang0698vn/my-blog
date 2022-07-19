@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philly" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steve Hofmann" ],
+        "nickname" : [ "TheHof24" ],
+        "numeric-id" : [ "328807707" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/462331697455833088/znOksc0A.jpeg" ],
+        "published" : [ "2011-07-04T02:14:25+00:00" ],
+        "uid" : [ "tag:twitter.com:TheHof24" ],
+        "url" : [ "https://twitter.com/TheHof24" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Comedians stop crying 'I'm being canceled' any time someone criticizes you challenge\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kylekinane\"></a>",
+      "value" : "Comedians stop crying 'I'm being canceled' any time someone criticizes you challenge"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kylekinane/status/1549461975448821760" ],
+    "published" : [ "2022-07-19T19:48:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1549481246790717440" ],
+    "url" : [ "https://twitter.com/TheHof24/status/1549481246790717440" ]
+  },
+  "type" : [ "h-entry" ]
+}
