@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/codebytere/status/1549342605284200448" ],
     "name" : [ "Like of @codebytere's tweet" ],
     "published" : [ "2022-07-19T12:15:00+0100" ],
     "like-of" : [ "https://twitter.com/codebytere/status/1549342605284200448" ],
