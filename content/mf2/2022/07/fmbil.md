@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1549421684326895616" ],
     "photo" : [ {
       "alt" : "Jamie holding a meat thermometer in the sun, showing a temperature of 41 degrees Celsius",
       "photo" : "https://media.jvt.me/a8e791c60c.jpeg"
