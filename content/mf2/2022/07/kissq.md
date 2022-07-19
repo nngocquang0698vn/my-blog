@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/manu_11663/status/1549426290515656704" ],
     "name" : [ "Like of @manu_11663's tweet" ],
     "published" : [ "2022-07-19T19:24:00+0100" ],
     "like-of" : [ "https://twitter.com/manu_11663/status/1549426290515656704" ],
