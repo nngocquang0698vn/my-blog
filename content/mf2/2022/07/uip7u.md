@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Dat_Dude_Graham/status/1549369314817544192" ],
     "name" : [ "Like of @Dat_Dude_Graham's tweet" ],
     "published" : [ "2022-07-19T19:26:00+0100" ],
     "like-of" : [ "https://twitter.com/Dat_Dude_Graham/status/1549369314817544192" ],
