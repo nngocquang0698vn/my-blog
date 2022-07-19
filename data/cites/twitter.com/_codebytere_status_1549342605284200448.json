@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "shelley" ],
+        "nickname" : [ "codebytere" ],
+        "numeric-id" : [ "3370776527" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417957152782790660/pV43lotJ.jpg" ],
+        "published" : [ "2015-07-11T13:42:27+00:00" ],
+        "uid" : [ "tag:twitter.com:codebytere" ],
+        "url" : [ "https://twitter.com/codebytere", "http://codebyte.re" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">everyone in my family except me has now had covid *twice* and have non-trivial lasting effects 🫠\n\nkind of hard not to sit around and get progressively more existentially depressed about the future and health of our communities the way things are going</div>",
+      "value" : "everyone in my family except me has now had covid *twice* and have non-trivial lasting effects 🫠\n\nkind of hard not to sit around and get progressively more existentially depressed about the future and health of our communities the way things are going"
+    } ],
+    "published" : [ "2022-07-19T10:37:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1549342605284200448" ],
+    "url" : [ "https://twitter.com/codebytere/status/1549342605284200448" ]
+  },
+  "type" : [ "h-entry" ]
+}
