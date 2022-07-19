@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "America" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Barstool Sports" ],
+        "nickname" : [ "barstoolsports" ],
+        "numeric-id" : [ "22637974" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1222128514624892935/zC0ABl3m.jpg" ],
+        "published" : [ "2009-03-03T16:01:13+00:00" ],
+        "uid" : [ "tag:twitter.com:barstoolsports" ],
+        "url" : [ "https://twitter.com/barstoolsports", "http://www.Barstoolsports.com", "http://barstoolsports.com/download" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">The Dark Knight hit theaters 14 years ago today.\n\nHarvey Dent not knowing who the Joker is until he took of his mask is iconic <a href=\"https://twitter.com/LightsCameraPod\">@LightsCameraPod</a> </div>",
+      "value" : "The Dark Knight hit theaters 14 years ago today.\n\nHarvey Dent not knowing who the Joker is until he took of his mask is iconic @LightsCameraPod "
+    } ],
+    "published" : [ "2022-07-18T16:10:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1549063959533297664" ],
+    "url" : [ "https://twitter.com/barstoolsports/status/1549063959533297664" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1501602031588757504/pu/vid/640x260/WRWPeg7L4hW-0AJZ.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
