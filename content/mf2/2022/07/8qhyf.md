@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DevOpsDaysLDN/status/1546857987192520704" ],
     "name" : [ "Like of @DevOpsDaysLDN's tweet" ],
     "published" : [ "2022-07-19T12:16:00+0100" ],
     "category" : [ "devopsdays" ],
