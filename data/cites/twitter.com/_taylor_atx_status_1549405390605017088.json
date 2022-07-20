@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Austin, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Taylor Barnett" ],
+        "nickname" : [ "taylor_atx" ],
+        "numeric-id" : [ "521769198" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1440531897910583304/0Mj460zE.jpg" ],
+        "published" : [ "2012-03-11T23:20:35+00:00" ],
+        "uid" : [ "tag:twitter.com:taylor_atx" ],
+        "url" : [ "https://twitter.com/taylor_atx", "https://taylorbar.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "tell me you are a male tech speaker without telling me you are a male tech speaker" ],
+    "photo" : [ {
+      "alt" : "tweet text: Conference speakers, please don’t spend the first few minutes introducing yourself and giving a capsule summary of your incredible career. We either already know who you are, or we don’t care. Either way, we’re here for your talk, not your life story.",
+      "value" : "https://pbs.twimg.com/media/FYCX_ZfXgAAklhV.jpg"
+    } ],
+    "published" : [ "2022-07-19T14:46:46+00:00" ],
+    "uid" : [ "tag:twitter.com:1549405390605017088" ],
+    "url" : [ "https://twitter.com/taylor_atx/status/1549405390605017088" ]
+  },
+  "type" : [ "h-entry" ]
+}
