@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kathsnc/status/1548946910500687872" ],
     "name" : [ "Like of @kathsnc's tweet" ],
     "published" : [ "2022-07-20T14:34:00+0100" ],
     "like-of" : [ "https://twitter.com/kathsnc/status/1548946910500687872" ],
