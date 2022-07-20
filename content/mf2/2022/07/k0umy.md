@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Xavier2Nice/status/1549542541414092802" ],
     "name" : [ "Like of @Xavier2Nice's tweet" ],
     "published" : [ "2022-07-20T22:02:00+0100" ],
     "like-of" : [ "https://twitter.com/Xavier2Nice/status/1549542541414092802" ],
