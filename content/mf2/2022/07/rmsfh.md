@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/GergelyOrosz/status/1549718411034378242" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1549729677949997057" ],
     "published" : [ "2022-07-20T13:06:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
