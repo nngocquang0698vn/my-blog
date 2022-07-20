@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Jx2John/status/1549491991607664640" ],
     "name" : [ "Like of @Jx2John's tweet" ],
     "published" : [ "2022-07-20T07:44:00+0100" ],
     "like-of" : [ "https://twitter.com/Jx2John/status/1549491991607664640" ],
