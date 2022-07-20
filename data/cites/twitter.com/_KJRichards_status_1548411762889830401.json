@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Michigan" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Katie Richards" ],
+        "nickname" : [ "KJRichards" ],
+        "numeric-id" : [ "17953559" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1465504419563421696/JXhGHWO4.jpg" ],
+        "published" : [ "2008-12-08T02:23:46+00:00" ],
+        "uid" : [ "tag:twitter.com:KJRichards" ],
+        "url" : [ "https://twitter.com/KJRichards" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I put on Lego Movie 2 for our kids yesterday and my two oldest have done nothing but build creatively since then. \n10/10. Would do again.</div>",
+      "value" : "I put on Lego Movie 2 for our kids yesterday and my two oldest have done nothing but build creatively since then. \n10/10. Would do again."
+    } ],
+    "published" : [ "2022-07-16T20:58:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1548411762889830401" ],
+    "url" : [ "https://twitter.com/KJRichards/status/1548411762889830401" ]
+  },
+  "type" : [ "h-entry" ]
+}
