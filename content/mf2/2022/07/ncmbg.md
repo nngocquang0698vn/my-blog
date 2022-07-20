@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Mitsuwa_Merinis/status/1549520619519311872" ],
     "name" : [ "Like of @Mitsuwa_Merinis's tweet" ],
     "published" : [ "2022-07-20T22:13:00+0100" ],
     "like-of" : [ "https://twitter.com/Mitsuwa_Merinis/status/1549520619519311872" ],
