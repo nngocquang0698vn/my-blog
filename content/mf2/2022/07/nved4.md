@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sonicmega/status/1549657082319712256" ],
     "name" : [ "Like of @sonicmega's tweet" ],
     "published" : [ "2022-07-20T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/sonicmega/status/1549657082319712256" ],
