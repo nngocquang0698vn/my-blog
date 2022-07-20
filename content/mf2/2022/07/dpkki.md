@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/briantylercohen/status/1549514209708298241" ],
     "name" : [ "Like of @briantylercohen's tweet" ],
     "published" : [ "2022-07-20T20:46:00+0100" ],
     "like-of" : [ "https://twitter.com/briantylercohen/status/1549514209708298241" ],
