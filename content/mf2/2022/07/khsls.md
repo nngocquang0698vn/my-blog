@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/glurpo/status/1548165848518787072" ],
     "name" : [ "Like of @glurpo's tweet" ],
     "published" : [ "2022-07-20T22:22:00+0100" ],
     "like-of" : [ "https://twitter.com/glurpo/status/1548165848518787072" ],
