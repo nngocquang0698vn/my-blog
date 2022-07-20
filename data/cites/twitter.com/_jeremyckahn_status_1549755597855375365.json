@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeremy Kahn" ],
+        "nickname" : [ "jeremyckahn" ],
+        "numeric-id" : [ "24949617" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/998547818812923904/7MeJxc0j.jpg" ],
+        "published" : [ "2009-03-17T20:38:39+00:00" ],
+        "uid" : [ "tag:twitter.com:jeremyckahn" ],
+        "url" : [ "https://twitter.com/jeremyckahn", "https://github.com/jeremyckahn" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "This is a harmfully bad take. Detailed code reviews bring everybody up together. I don’t want to be on a team that doesn’t take code review seriously.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_swanson\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/hejsna\"></a>",
+      "value" : "This is a harmfully bad take. Detailed code reviews bring everybody up together. I don’t want to be on a team that doesn’t take code review seriously."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/hejsna/status/1549651114315898882" ],
+    "published" : [ "2022-07-20T13:58:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1549755597855375365" ],
+    "url" : [ "https://twitter.com/jeremyckahn/status/1549755597855375365" ]
+  },
+  "type" : [ "h-entry" ]
+}
