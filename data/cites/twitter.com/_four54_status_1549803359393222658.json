@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Op Scheveningen" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Petrik de Heus" ],
+        "nickname" : [ "four54" ],
+        "numeric-id" : [ "20393980" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/825066976515149824/Pe6KZsPw.jpg" ],
+        "published" : [ "2009-02-08T21:24:45+00:00" ],
+        "uid" : [ "tag:twitter.com:four54" ],
+        "url" : [ "https://twitter.com/four54", "http://petrik.deheus.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Writing a great commit message explaining why the change was made will automatically fill the PR  description, and you won’t loose any context when you switch git hosting.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_swanson\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/mauviles\"></a>",
+      "value" : "Writing a great commit message explaining why the change was made will automatically fill the PR  description, and you won’t loose any context when you switch git hosting."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mauviles/status/1549558099199025152" ],
+    "published" : [ "2022-07-20T17:08:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1549803359393222658" ],
+    "url" : [ "https://twitter.com/four54/status/1549803359393222658" ]
+  },
+  "type" : [ "h-entry" ]
+}
