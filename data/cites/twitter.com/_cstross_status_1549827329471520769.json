@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "California" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Sean Chiplock" ],
+          "nickname" : [ "sonicmega" ],
+          "numeric-id" : [ "59731401" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1323715115166752768/_kEuUOP8.jpg" ],
+          "published" : [ "2009-07-24T08:52:33+00:00" ],
+          "uid" : [ "tag:twitter.com:sonicmega" ],
+          "url" : [ "https://twitter.com/sonicmega", "http://twitch.tv/sonicmega" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "All the people who laughed off the “worrywarts” years ago for freaking out about the Funny Dancing Robot Dogs (tm) should be forced to watch this video once a day for the remainder of the year." ],
+      "published" : [ "2022-07-20T07:04:42+00:00" ],
+      "uid" : [ "tag:twitter.com:1549651495997476864" ],
+      "url" : [ "https://twitter.com/sonicmega/status/1549651495997476864" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1549651415739469829/pu/vid/1280x720/-k1Mts5Im6EMw0nQ.mp4?tag=12" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Charlie Stross" ],
+        "nickname" : [ "cstross" ],
+        "numeric-id" : [ "390039185" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1538600381609136130/ZYF1KEzT.jpg" ],
+        "published" : [ "2011-10-13T11:15:11+00:00" ],
+        "uid" : [ "tag:twitter.com:cstross" ],
+        "url" : [ "https://twitter.com/cstross", "https://www.antipope.org/charlie/blog-static/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Yo, new Robocop just dropped and by Robocop I mean \"unaccountable robot death squad your coming neofascist dictatorship is drooling over in the sales catalog\"" ],
+    "published" : [ "2022-07-20T18:43:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1549827329471520769" ],
+    "url" : [ "https://twitter.com/cstross/status/1549827329471520769" ]
+  },
+  "type" : [ "h-entry" ]
+}
