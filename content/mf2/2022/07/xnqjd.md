@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ou1ch/status/1549243667411525632" ],
     "name" : [ "Like of @ou1ch's tweet" ],
     "published" : [ "2022-07-20T07:43:00+0100" ],
     "like-of" : [ "https://twitter.com/ou1ch/status/1549243667411525632" ],
