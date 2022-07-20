@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jeremyckahn/status/1549755597855375365" ],
     "name" : [ "Like of @jeremyckahn's tweet" ],
     "published" : [ "2022-07-20T19:47:00+0100" ],
     "like-of" : [ "https://twitter.com/jeremyckahn/status/1549755597855375365" ],
