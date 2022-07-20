@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily G" ],
+        "nickname" : [ "EmilyGorcenski" ],
+        "numeric-id" : [ "1483064670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518141395235704832/5k1rzR6N.jpg" ],
+        "published" : [ "2013-06-04T19:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyGorcenski" ],
+        "url" : [ "https://twitter.com/EmilyGorcenski", "https://www.emilygorcenski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It’s me, the millennial, who in 2022 still reflexively hits Ctrl+S every 5 minutes in a Google doc, because that particular trauma never goes away." ],
+    "published" : [ "2022-07-20T11:50:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1549723295574118400" ],
+    "url" : [ "https://twitter.com/EmilyGorcenski/status/1549723295574118400" ]
+  },
+  "type" : [ "h-entry" ]
+}
