@@ -1,0 +1,53 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Mercadoodles 💜⁷" ],
+          "nickname" : [ "mercadoodles" ],
+          "numeric-id" : [ "86106861" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1387583966715256832/MC2Y4ETC.jpg" ],
+          "published" : [ "2009-10-29T16:35:41+00:00" ],
+          "uid" : [ "tag:twitter.com:mercadoodles" ],
+          "url" : [ "https://twitter.com/mercadoodles", "http://mercadoodles.squarespace.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "OMG\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/BTSOriented\"></a>",
+        "value" : "OMG"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/BTSOriented/status/1325167102039191552" ],
+      "published" : [ "2020-11-07T20:46:25+00:00" ],
+      "uid" : [ "tag:twitter.com:1325177811305287681" ],
+      "url" : [ "https://twitter.com/mercadoodles/status/1325177811305287681" ],
+      "video" : [ "https://video.twimg.com/tweet_video/EmP6LSlUYAAVgTP.mp4" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "$silvergelpen" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "jen 🌬️" ],
+        "nickname" : [ "silvergelpen" ],
+        "numeric-id" : [ "288532338" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1254300674965344256/ZooHo9Ex.jpg" ],
+        "published" : [ "2011-04-27T01:05:17+00:00" ],
+        "uid" : [ "tag:twitter.com:silvergelpen" ],
+        "url" : [ "https://twitter.com/silvergelpen", "https://onlyfans.com/silvergelpen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The worst thing about knowing French is that it's actually omelette au fromage" ],
+    "published" : [ "2022-07-20T12:40:44+00:00" ],
+    "uid" : [ "tag:twitter.com:1549736059793195009" ],
+    "url" : [ "https://twitter.com/silvergelpen/status/1549736059793195009" ]
+  },
+  "type" : [ "h-entry" ]
+}
