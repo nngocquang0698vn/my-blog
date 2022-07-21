@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522906463685033984/HF2aFRQt.jpg" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've seen a noticeable increase in \"sorry for the direct approach\" recruitment - mostly email, but one getting hold of me on a community slack channel!\n\nLinkedIn is there for a reason - if you're starting with an apology, maybe don't do it?</div>",
+      "value" : "I've seen a noticeable increase in \"sorry for the direct approach\" recruitment - mostly email, but one getting hold of me on a community slack channel!\n\nLinkedIn is there for a reason - if you're starting with an apology, maybe don't do it?"
+    } ],
+    "published" : [ "2022-07-21T12:58:17+00:00" ],
+    "uid" : [ "tag:twitter.com:1550102867301769219" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1550102867301769219" ]
+  },
+  "type" : [ "h-entry" ]
+}
