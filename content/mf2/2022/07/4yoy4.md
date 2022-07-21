@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/RapidOwl/status/1550181271829204995" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1550253479981113344" ],
     "published" : [ "2022-07-21T23:45:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
