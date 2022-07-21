@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Minneapolis, MN" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "First Avenue" ],
+          "nickname" : [ "FirstAvenue" ],
+          "numeric-id" : [ "14437620" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/882026220413624320/c9ncow4Y.jpg" ],
+          "published" : [ "2008-04-18T21:21:24+00:00" ],
+          "uid" : [ "tag:twitter.com:FirstAvenue" ],
+          "url" : [ "https://twitter.com/FirstAvenue", "http://www.first-avenue.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "We hear you. Tonight’s show has been cancelled at First Avenue and is moving to the Varsity Theater. See our full statement for more." ],
+      "photo" : [ {
+        "alt" : "The Dave Chappelle show tonight at First Avenue has been cancelled and is moving to the Varsity Theater.  \n \nTo staff, artists, and our community, we hear you and we are sorry. We know we must hold ourselves to the highest standards, and we know we let you down. We are not just a black box with people in it, and we understand that First Ave is not just a room, but meaningful beyond our walls.  \n \nThe First Avenue team and you have worked hard to make our venues the safest spaces in the country, and we will continue with that mission.  \n \nWe believe in diverse voices and the freedom of artistic expression, but in honoring that, we lost sight of the impact this would have. We know there are some who will not agree with this decision; you are welcome to send feedback.  \n \nIf you are a ticket holder, look for an email with information on your ticket(s) transferring to the show at Varsity Theater.  ",
+        "value" : "https://pbs.twimg.com/media/FYI6rXOWYAEayiP.jpg"
+      } ],
+      "published" : [ "2022-07-20T21:18:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1549866287572160512" ],
+      "url" : [ "https://twitter.com/FirstAvenue/status/1549866287572160512" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Cambridge, MA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alejandra Caraballo" ],
+        "nickname" : [ "Esqueer_" ],
+        "numeric-id" : [ "409389074" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542689700489695232/3WDW90vZ.jpg" ],
+        "published" : [ "2011-11-10T17:29:14+00:00" ],
+        "uid" : [ "tag:twitter.com:Esqueer_" ],
+        "url" : [ "https://twitter.com/Esqueer_", "https://www.buzzsprout.com/1949544" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The staff all called out and refused to work the venue for Dave Chappelle. Labor solidarity is undefeated." ],
+    "published" : [ "2022-07-21T02:26:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1549943907181596672" ],
+    "url" : [ "https://twitter.com/Esqueer_/status/1549943907181596672" ]
+  },
+  "type" : [ "h-entry" ]
+}
