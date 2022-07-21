@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Prime Video" ],
+          "nickname" : [ "PrimeVideo" ],
+          "numeric-id" : [ "17220817" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1491111046634954757/sXe-3Zt-.png" ],
+          "published" : [ "2008-11-06T22:14:23+00:00" ],
+          "uid" : [ "tag:twitter.com:PrimeVideo" ],
+          "url" : [ "https://twitter.com/PrimeVideo", "https://amzn.to/3cixiJH" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : ".<a href=\"https://twitter.com/GillianA\">@GillianA</a> should be everyone’s boss.",
+        "value" : ".@GillianA should be everyone’s boss."
+      } ],
+      "published" : [ "2022-06-22T20:00:37+00:00" ],
+      "uid" : [ "tag:twitter.com:1539699902220881920" ],
+      "url" : [ "https://twitter.com/PrimeVideo/status/1539699902220881920" ],
+      "video" : [ "https://video.twimg.com/ext_tw_video/1539698318875324416/pu/vid/1080x1080/S5EnY8u0vGLlLMvg.mp4?tag=14" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gillian Anderson" ],
+        "nickname" : [ "GillianA" ],
+        "numeric-id" : [ "625022363" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499404582765666309/mR44v5Zt.jpg" ],
+        "published" : [ "2012-07-02T21:42:06+00:00" ],
+        "uid" : [ "tag:twitter.com:GillianA" ],
+        "url" : [ "https://twitter.com/GillianA", "https://sayesmentoring.org/sayes-mentoring-uk-get-involved-in-2021/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Am I not?" ],
+    "published" : [ "2022-06-24T10:17:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1540277905355177985" ],
+    "url" : [ "https://twitter.com/GillianA/status/1540277905355177985" ]
+  },
+  "type" : [ "h-entry" ]
+}
