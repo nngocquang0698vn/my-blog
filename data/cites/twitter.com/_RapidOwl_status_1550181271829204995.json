@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sam Strong 🧀" ],
+        "nickname" : [ "RapidOwl" ],
+        "numeric-id" : [ "2903281" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/925420454898266112/4bSGaIn-.jpg" ],
+        "published" : [ "2007-03-29T22:32:48+00:00" ],
+        "uid" : [ "tag:twitter.com:RapidOwl" ],
+        "url" : [ "https://twitter.com/RapidOwl", "https://samstrong.dev" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Checked the government website and it’s basically “try and be nice”. I guess we need to ration our remaining lateral flow tests because they aren’t being distributed any more unless you’re at risk?" ],
+    "in-reply-to" : [ "https://twitter.com/RapidOwl/status/1550180759905964039" ],
+    "published" : [ "2022-07-21T18:09:50+00:00" ],
+    "uid" : [ "tag:twitter.com:1550181271829204995" ],
+    "url" : [ "https://twitter.com/RapidOwl/status/1550181271829204995" ]
+  },
+  "type" : [ "h-entry" ]
+}
