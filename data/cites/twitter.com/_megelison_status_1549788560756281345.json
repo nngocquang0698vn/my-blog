@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Maryland, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Meg Elison" ],
+        "nickname" : [ "megelison" ],
+        "numeric-id" : [ "16889723" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1503942163876364289/Zv4t6niU.jpg" ],
+        "published" : [ "2008-10-21T17:27:50+00:00" ],
+        "uid" : [ "tag:twitter.com:megelison" ],
+        "url" : [ "https://twitter.com/megelison", "http://megelison.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "deeply disgusted to discover that in order to get good at a thing I have to do it badly first" ],
+    "published" : [ "2022-07-20T16:09:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1549788560756281345" ],
+    "url" : [ "https://twitter.com/megelison/status/1549788560756281345" ]
+  },
+  "type" : [ "h-entry" ]
+}
