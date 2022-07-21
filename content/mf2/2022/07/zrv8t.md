@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GillianA/status/1540277905355177985" ],
     "name" : [ "Like of @GillianA's tweet" ],
     "published" : [ "2022-07-21T15:47:00+0100" ],
     "like-of" : [ "https://twitter.com/GillianA/status/1540277905355177985" ],
