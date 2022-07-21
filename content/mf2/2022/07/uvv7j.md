@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RealRobGarrison/status/1549899947838828550" ],
     "name" : [ "Like of @RealRobGarrison's tweet" ],
     "published" : [ "2022-07-22T00:12:00+0100" ],
     "like-of" : [ "https://twitter.com/RealRobGarrison/status/1549899947838828550" ],
