@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessica White 🦎" ],
+        "nickname" : [ "JessPWhite" ],
+        "numeric-id" : [ "3021209961" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1540325418292723712/OqTRXAT8.jpg" ],
+        "published" : [ "2015-02-06T10:02:36+00:00" ],
+        "uid" : [ "tag:twitter.com:JessPWhite" ],
+        "url" : [ "https://twitter.com/JessPWhite", "https://bio.link/jesswhite" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I've had a recruiter get my phone number from meetup organiser and ring me directly, followed by a message when I screened the call...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/StevenPears\"></a>",
+      "value" : "I've had a recruiter get my phone number from meetup organiser and ring me directly, followed by a message when I screened the call..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/StevenPears/status/1550102867301769219" ],
+    "published" : [ "2022-07-21T17:37:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1550173119175868416" ],
+    "url" : [ "https://twitter.com/JessPWhite/status/1550173119175868416" ]
+  },
+  "type" : [ "h-entry" ]
+}
