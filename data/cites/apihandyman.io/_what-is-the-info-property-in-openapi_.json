@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "What is the info property in OpenAPI?" ],
+    "summary" : [ "The info property of an OpenAPI document contains metadata that provides an overview of an API, but what does it represent exactly? How did it evolve across the OpenAPI Specification versions? And how to can it be used and misused? This is the second post in the OpenAPI Specification Reference series." ],
+    "featured" : [ "https://apihandyman.io/images/what-is-the-info-property-in-openapi/banner.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Arnaud Lauret" ]
+      }
+    } ],
+    "url" : [ "https://apihandyman.io/what-is-the-info-property-in-openapi/" ]
+  }
+}
