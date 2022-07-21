@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/jszwec/s3fs/stargazers" ],
     "name" : [ "jszwec/s3fs: S3 FileSystem (fs.FS) implementation" ],
     "published" : [ "2022-07-21T13:24:08.117980088Z" ],
     "like-of" : [ "https://github.com/jszwec/s3fs" ],
