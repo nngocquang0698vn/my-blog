@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Stockholm, Sweden" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emma Bostian" ],
+        "nickname" : [ "EmmaBostian" ],
+        "numeric-id" : [ "491821358" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1549721143124414465/kmXr1tX9.jpg" ],
+        "published" : [ "2012-02-14T01:57:07+00:00" ],
+        "uid" : [ "tag:twitter.com:EmmaBostian" ],
+        "url" : [ "https://twitter.com/EmmaBostian", "https://technicalinterviews.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Shoutout to <a href=\"https://twitter.com/figma\">@figma</a> for determining the background color of a shape and automatically setting the text color as black or white depending on contrast ratios to ensure accessibility.",
+      "value" : "Shoutout to @figma for determining the background color of a shape and automatically setting the text color as black or white depending on contrast ratios to ensure accessibility."
+    } ],
+    "published" : [ "2022-07-21T09:53:18+00:00" ],
+    "uid" : [ "tag:twitter.com:1550056313291522054" ],
+    "url" : [ "https://twitter.com/EmmaBostian/status/1550056313291522054" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1550056052070154240/pu/vid/1176x720/lbt6U9BHRVB8OTKk.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
