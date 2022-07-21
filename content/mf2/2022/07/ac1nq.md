@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tubbsOreally/status/1549713198428856325" ],
     "name" : [ "Like of @tubbsOreally's tweet" ],
     "published" : [ "2022-07-21T14:32:00+0100" ],
     "like-of" : [ "https://twitter.com/tubbsOreally/status/1549713198428856325" ],
