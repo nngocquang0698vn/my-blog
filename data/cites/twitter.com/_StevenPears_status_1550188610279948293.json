@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Steven Pears" ],
+        "nickname" : [ "StevenPears" ],
+        "numeric-id" : [ "404697859" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522906463685033984/HF2aFRQt.jpg" ],
+        "published" : [ "2011-11-04T08:54:04+00:00" ],
+        "uid" : [ "tag:twitter.com:StevenPears" ],
+        "url" : [ "https://twitter.com/StevenPears", "https://github.com/stoiveyp" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "😳 how can this be seen as productive communication!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JessPWhite\"></a>",
+      "value" : "😳 how can this be seen as productive communication!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JessPWhite/status/1550173119175868416" ],
+    "published" : [ "2022-07-21T18:39:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1550188610279948293" ],
+    "url" : [ "https://twitter.com/StevenPears/status/1550188610279948293" ]
+  },
+  "type" : [ "h-entry" ]
+}
