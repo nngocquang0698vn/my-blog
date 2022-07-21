@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/clsimooo/status/1549352005310742528" ],
     "name" : [ "Like of @clsimooo's tweet" ],
     "published" : [ "2022-07-21T15:53:38.929180636Z" ],
     "category" : [ "monzo" ],
