@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/duckatali/status/1550500660206084097" ],
     "name" : [ "Like of @duckatali's tweet" ],
     "published" : [ "2022-07-22T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/duckatali/status/1550500660206084097" ],
