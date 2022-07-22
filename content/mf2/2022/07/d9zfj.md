@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mattyyspencer/status/1550542095861317632" ],
     "name" : [ "Like of @mattyyspencer's tweet" ],
     "published" : [ "2022-07-22T22:34:00+0100" ],
     "like-of" : [ "https://twitter.com/mattyyspencer/status/1550542095861317632" ],
