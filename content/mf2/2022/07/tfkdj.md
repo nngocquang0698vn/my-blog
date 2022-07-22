@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fullStackRacc/status/1550322516115218433" ],
     "name" : [ "Like of @fullStackRacc's tweet" ],
     "published" : [ "2022-07-22T12:29:00+0100" ],
     "like-of" : [ "https://twitter.com/fullStackRacc/status/1550322516115218433" ],
