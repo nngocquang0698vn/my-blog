@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lauren_phill/status/1550127163528998914" ],
     "name" : [ "Like of @Lauren_phill's tweet" ],
     "published" : [ "2022-07-22T10:29:00+0100" ],
     "like-of" : [ "https://twitter.com/Lauren_phill/status/1550127163528998914" ],
