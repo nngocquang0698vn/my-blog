@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/comradejumpshot/status/1550472387774353409" ],
     "name" : [ "Like of @comradejumpshot's tweet" ],
     "published" : [ "2022-07-22T22:35:00+0100" ],
     "like-of" : [ "https://twitter.com/comradejumpshot/status/1550472387774353409" ],
