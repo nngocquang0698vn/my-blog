@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "California, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Netflix" ],
+        "nickname" : [ "netflix" ],
+        "numeric-id" : [ "16573941" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S.jpg" ],
+        "published" : [ "2008-10-03T04:16:17+00:00" ],
+        "uid" : [ "tag:twitter.com:netflix" ],
+        "url" : [ "https://twitter.com/netflix", "https://www.netflix.com/tudum" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Chris Evans calling Ryan Gosling \"a Ken doll\" in The Gray Man is *chef's kiss*" ],
+    "photo" : [ "https://pbs.twimg.com/media/FYS1_YHUcAAwTEm.jpg" ],
+    "published" : [ "2022-07-22T19:35:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1550565176339861505" ],
+    "url" : [ "https://twitter.com/netflix/status/1550565176339861505" ]
+  },
+  "type" : [ "h-entry" ]
+}
