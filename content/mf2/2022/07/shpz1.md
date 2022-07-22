@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hrtzbyers/status/1550262204016082944" ],
     "name" : [ "Like of @hrtzbyers's tweet" ],
     "published" : [ "2022-07-22T22:41:00+0100" ],
     "like-of" : [ "https://twitter.com/hrtzbyers/status/1550262204016082944" ],
