@@ -1,9 +1,9 @@
 ---
 title: "Optional configuration for configuring Go code"
 description: "How to use optional types to allow configuring your library's Go code."
-date: 2022-07-22T16:55:20+0100
+date: "2022-07-22T16:55:20+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1550511978463895552"
 tags:
 - "blogumentation"
 - "go"
