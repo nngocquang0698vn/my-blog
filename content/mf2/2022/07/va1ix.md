@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonleggsays/status/1550507982689128453" ],
     "name" : [ "Like of @simonleggsays's tweet" ],
     "published" : [ "2022-07-22T21:09:00+0100" ],
     "like-of" : [ "https://twitter.com/simonleggsays/status/1550507982689128453" ],
