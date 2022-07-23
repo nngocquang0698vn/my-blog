@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "test && commit || revert with Kent Beck " ],
+    "summary" : [ "Kent Beck is an American software engineer and the creator of extreme programming, an original signer of the Agile Manifesto, and the author of the Extreme Programming book series, and a proponent of Test-Driven Development. Today he's chatting with Scott about how \"test && commit || revert\" might offer us a new programming workflow to explore!" ],
+    "featured" : [ "https://images.hanselminutes.com/podcast/shows/663.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Scott Hanselman" ]
+      }
+    } ],
+    "url" : [ "https://hanselminutes.com/663/test-commit-revert-with-kent-beck" ]
+  }
+}
