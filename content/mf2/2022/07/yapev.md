@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SpryPunk/status/1550563478309576712" ],
     "name" : [ "Like of @SpryPunk's tweet" ],
     "published" : [ "2022-07-23T14:40:00+0100" ],
     "like-of" : [ "https://twitter.com/SpryPunk/status/1550563478309576712" ],
