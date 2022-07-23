@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mhmyhre/status/1550687438829277186" ],
     "name" : [ "Like of @mhmyhre's tweet" ],
     "published" : [ "2022-07-23T15:24:00+0100" ],
     "like-of" : [ "https://twitter.com/mhmyhre/status/1550687438829277186" ],
