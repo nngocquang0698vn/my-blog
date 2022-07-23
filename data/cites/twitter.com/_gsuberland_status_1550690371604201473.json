@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "gsuberland@chaos.social" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Graham Sutherland (Polynomial^DSS)" ],
+        "nickname" : [ "gsuberland" ],
+        "numeric-id" : [ "432513392" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1334873065306591234/1PYOlhio.jpg" ],
+        "published" : [ "2011-12-09T13:39:53+00:00" ],
+        "uid" : [ "tag:twitter.com:gsuberland" ],
+        "url" : [ "https://twitter.com/gsuberland", "https://poly.nomial.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The audio and soundrack on that movie are second to none. Hans Zimmer truly outdid himself.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SwiftOnSecurity\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gnomon\"></a>",
+      "value" : "The audio and soundrack on that movie are second to none. Hans Zimmer truly outdid himself."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/gnomon/status/1550688471353905153" ],
+    "published" : [ "2022-07-23T03:52:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1550690371604201473" ],
+    "url" : [ "https://twitter.com/gsuberland/status/1550690371604201473" ]
+  },
+  "type" : [ "h-entry" ]
+}
