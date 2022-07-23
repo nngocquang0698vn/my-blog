@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/loujaybee/status/1550790898023387137" ],
     "name" : [ "Like of @loujaybee's tweet" ],
     "published" : [ "2022-07-23T11:36:00+0100" ],
     "like-of" : [ "https://twitter.com/loujaybee/status/1550790898023387137" ],
