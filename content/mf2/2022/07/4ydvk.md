@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/IamHappyToast/status/1550503483362656264" ],
     "name" : [ "Like of @IamHappyToast's tweet" ],
     "published" : [ "2022-07-23T06:26:00+0100" ],
     "like-of" : [ "https://twitter.com/IamHappyToast/status/1550503483362656264" ],
