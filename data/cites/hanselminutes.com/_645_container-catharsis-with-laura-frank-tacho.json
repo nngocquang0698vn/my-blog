@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Container Catharsis with Laura Frank Tacho" ],
+    "summary" : [ "Laura Frank Tacho is the Director of Engineering at CloudBees and has been working with Docker almost since its inception. She shares her experiences in running teams that constantly rely on and deploy containers at scale. How have containers changed effectively everything and where are we heading?" ],
+    "featured" : [ "https://images.hanselminutes.com/podcast/shows/645.jpg" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Scott Hanselman" ]
+      }
+    } ],
+    "url" : [ "https://hanselminutes.com/645/container-catharsis-with-laura-frank-tacho" ]
+  }
+}
