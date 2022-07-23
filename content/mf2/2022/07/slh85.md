@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/GrahSeeYa/status/1547262631190224896" ],
     "name" : [ "Like of @GrahSeeYa's tweet" ],
     "published" : [ "2022-07-23T06:02:00+0100" ],
     "like-of" : [ "https://twitter.com/GrahSeeYa/status/1547262631190224896" ],
