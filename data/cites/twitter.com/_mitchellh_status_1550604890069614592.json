@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mitchell Hashimoto" ],
+        "nickname" : [ "mitchellh" ],
+        "numeric-id" : [ "12819682" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1141762999838842880/64_Y4_XB.jpg" ],
+        "published" : [ "2008-01-29T07:56:05+00:00" ],
+        "uid" : [ "tag:twitter.com:mitchellh" ],
+        "url" : [ "https://twitter.com/mitchellh", "https://mitchellh.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Congrats <a href=\"https://twitter.com/_localstack\">@_localstack</a> on 1.0. LS is an excellent product, and honestly one that initially I felt \"no way they can do this\" ironically in the same way people looked at Terraform early on and told me the same! Big fan of their commercialization as well. <a href=\"https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/\">localstack.cloud/blog/2022-07-1…</a>",
+      "value" : "Congrats @_localstack on 1.0. LS is an excellent product, and honestly one that initially I felt \"no way they can do this\" ironically in the same way people looked at Terraform early on and told me the same! Big fan of their commercialization as well. localstack.cloud/blog/2022-07-1…"
+    } ],
+    "published" : [ "2022-07-22T22:13:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1550604890069614592" ],
+    "url" : [ "https://twitter.com/mitchellh/status/1550604890069614592" ]
+  },
+  "type" : [ "h-entry" ]
+}
