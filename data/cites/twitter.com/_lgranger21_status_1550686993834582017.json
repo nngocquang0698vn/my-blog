@@ -1,0 +1,65 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "us-emily-1" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "emily freeman 🇺🇸🇺🇦" ],
+          "nickname" : [ "editingemily" ],
+          "numeric-id" : [ "1066151600" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1435023239126781953/YJth58YJ.jpg" ],
+          "published" : [ "2013-01-06T16:49:03+00:00" ],
+          "uid" : [ "tag:twitter.com:editingemily" ],
+          "url" : [ "https://twitter.com/editingemily", "https://givingatechtalk.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "It’s Ryan Gosling killing people for two hours while being gorgeous.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/burgessdryan\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/sarah_edo\"></a>",
+        "value" : "It’s Ryan Gosling killing people for two hours while being gorgeous."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/sarah_edo/status/1550662593848545282" ],
+      "published" : [ "2022-07-23T03:25:28+00:00" ],
+      "uid" : [ "tag:twitter.com:1550683487115440128" ],
+      "url" : [ "https://twitter.com/editingemily/status/1550683487115440128" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Seattle" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lauren Granger" ],
+        "nickname" : [ "lgranger21" ],
+        "numeric-id" : [ "16322645" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529268176290127872/fddrycdp.jpg" ],
+        "published" : [ "2008-09-17T02:49:47+00:00" ],
+        "uid" : [ "tag:twitter.com:lgranger21" ],
+        "url" : [ "https://twitter.com/lgranger21", "http://laurengranger.com", "http://pronoun.is/they" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The Barbie movie we need:" ],
+    "location" : [ {
+      "properties" : {
+        "name" : [ "Seattle, WA" ],
+        "uid" : [ "tag:twitter.com:300bcc6e23a88361" ]
+      },
+      "type" : [ "h-card", "p-location" ]
+    } ],
+    "published" : [ "2022-07-23T03:39:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1550686993834582017" ],
+    "url" : [ "https://twitter.com/lgranger21/status/1550686993834582017" ]
+  },
+  "type" : [ "h-entry" ]
+}
