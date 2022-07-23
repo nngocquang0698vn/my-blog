@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jordon Nardino" ],
+        "nickname" : [ "jnardino" ],
+        "numeric-id" : [ "21326353" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1449529654780465152/thSWN3Be.jpg" ],
+        "published" : [ "2009-02-19T18:47:20+00:00" ],
+        "uid" : [ "tag:twitter.com:jnardino" ],
+        "url" : [ "https://twitter.com/jnardino", "http://instagram.com/jnardino" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "The emergency docking sequence is a butt clencher\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/SwiftOnSecurity\"></a>",
+      "value" : "The emergency docking sequence is a butt clencher"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/SwiftOnSecurity/status/1550684775454744576" ],
+    "published" : [ "2022-07-23T03:37:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1550686491894063104" ],
+    "url" : [ "https://twitter.com/jnardino/status/1550686491894063104" ]
+  },
+  "type" : [ "h-entry" ]
+}
