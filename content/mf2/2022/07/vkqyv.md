@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/astro_eden/status/1550996430831390721" ],
     "name" : [ "Like of @astro_eden's tweet" ],
     "published" : [ "2022-07-24T17:34:00+0100" ],
     "like-of" : [ "https://twitter.com/astro_eden/status/1550996430831390721" ],
