@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/birdhermit/status/1550889577770061831" ],
     "name" : [ "Like of @birdhermit's tweet" ],
     "published" : [ "2022-07-24T20:07:00+0100" ],
     "like-of" : [ "https://twitter.com/birdhermit/status/1550889577770061831" ],
