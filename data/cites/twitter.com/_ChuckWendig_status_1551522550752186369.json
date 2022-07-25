@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Guardian" ],
+          "nickname" : [ "guardian" ],
+          "numeric-id" : [ "87818409" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla.png" ],
+          "published" : [ "2009-11-05T23:49:19+00:00" ],
+          "uid" : [ "tag:twitter.com:guardian" ],
+          "url" : [ "https://twitter.com/guardian", "https://www.theguardian.com", "https://support.theguardian.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Chess robot grabs and breaks finger of seven-year-old opponent <a href=\"https://www.theguardian.com/sport/2022/jul/24/chess-robot-grabs-and-breaks-finger-of-seven-year-old-opponent-moscow?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1658666375-1\">theguardian.com/sport/2022/jul…</a>",
+        "value" : "Chess robot grabs and breaks finger of seven-year-old opponent theguardian.com/sport/2022/jul…"
+      } ],
+      "published" : [ "2022-07-24T12:39:36+00:00" ],
+      "uid" : [ "tag:twitter.com:1551185329960411141" ],
+      "url" : [ "https://twitter.com/guardian/status/1551185329960411141" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bucks County, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Chuck Wendig" ],
+        "nickname" : [ "ChuckWendig" ],
+        "numeric-id" : [ "26029878" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1405613863295455239/Ey9y4GPh.jpg" ],
+        "published" : [ "2009-03-23T16:10:29+00:00" ],
+        "uid" : [ "tag:twitter.com:ChuckWendig" ],
+        "url" : [ "https://twitter.com/ChuckWendig", "http://www.terribleminds.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "And that seven-year-old’s name was John Connor." ],
+    "published" : [ "2022-07-25T10:59:36+00:00" ],
+    "uid" : [ "tag:twitter.com:1551522550752186369" ],
+    "url" : [ "https://twitter.com/ChuckWendig/status/1551522550752186369" ]
+  },
+  "type" : [ "h-entry" ]
+}
