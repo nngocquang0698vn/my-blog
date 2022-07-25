@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matt Brunt" ],
+        "nickname" : [ "Brunty" ],
+        "numeric-id" : [ "1099517012" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498963563033018374/Hd6rtNUK.jpg" ],
+        "published" : [ "2013-01-17T23:19:21+00:00" ],
+        "uid" : [ "tag:twitter.com:Brunty" ],
+        "url" : [ "https://twitter.com/Brunty", "https://brunty.me/now" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I could fix it, but it shouldn't be needed for auth which is a simple form -&gt; post to backend.\n\nIf blocking things for privacy purposes breaks their site, then they're doing bad things for consumer data and I want no part of them for our renewal.</div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JamieTanna\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/tescobankhelp\"></a>",
+      "value" : "I could fix it, but it shouldn't be needed for auth which is a simple form -> post to backend.\n\nIf blocking things for privacy purposes breaks their site, then they're doing bad things for consumer data and I want no part of them for our renewal."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/JamieTanna/status/1551526745920212992" ],
+    "published" : [ "2022-07-25T11:18:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1551527226390331392" ],
+    "url" : [ "https://twitter.com/Brunty/status/1551527226390331392" ]
+  },
+  "type" : [ "h-entry" ]
+}
