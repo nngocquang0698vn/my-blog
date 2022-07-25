@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1551507034675318785" ],
     "published" : [ "2022-07-25T10:49:00+0100" ],
     "category" : [ "security", "postman" ],
     "post-status" : [ "published" ],
