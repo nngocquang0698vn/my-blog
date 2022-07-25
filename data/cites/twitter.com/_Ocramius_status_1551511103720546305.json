@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Frankfurt, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🇺🇦" ],
+        "nickname" : [ "Ocramius" ],
+        "numeric-id" : [ "14288063" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1275002588698730497/Dr3c3ZyN.jpg" ],
+        "published" : [ "2008-04-02T22:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:Ocramius" ],
+        "url" : [ "https://twitter.com/Ocramius", "https://github.com/Ocramius/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Fun one with mutation tests: one mutant caused a side-effect to trigger within a unit test suite, resulting in a `git push` happening.\n\nLuckily, that didn't do anything, because it only prompted me to unlock my YubiKey with a pin, rather than destroying upstream :D</div>",
+      "value" : "Fun one with mutation tests: one mutant caused a side-effect to trigger within a unit test suite, resulting in a `git push` happening.\n\nLuckily, that didn't do anything, because it only prompted me to unlock my YubiKey with a pin, rather than destroying upstream :D"
+    } ],
+    "published" : [ "2022-07-25T10:14:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1551511103720546305" ],
+    "url" : [ "https://twitter.com/Ocramius/status/1551511103720546305" ]
+  },
+  "type" : [ "h-entry" ]
+}
