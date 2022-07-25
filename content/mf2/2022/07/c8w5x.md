@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/docfemme83/status/1551407335959957505" ],
     "name" : [ "Like of @docfemme83's tweet" ],
     "published" : [ "2022-07-25T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/docfemme83/status/1551407335959957505" ],
