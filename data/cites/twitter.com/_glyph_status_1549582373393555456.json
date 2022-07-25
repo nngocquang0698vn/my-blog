@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "here" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "glyph" ],
+        "nickname" : [ "glyph" ],
+        "numeric-id" : [ "9859562" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/480054701220560896/LCQcjh6_.png" ],
+        "published" : [ "2007-11-01T18:21:23+00:00" ],
+        "uid" : [ "tag:twitter.com:glyph" ],
+        "url" : [ "https://twitter.com/glyph", "https://blog.glyph.im/", "http://blog.glyph.im/pages/disclosu" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I know how difficult interviewing software developers is, but it’s not hard to spare a moment to check “am I asking the candidate to demonstrate job-relevant skills or am I asking them to cosplay as an academic computer scientist”" ],
+    "published" : [ "2022-07-20T02:30:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1549582373393555456" ],
+    "url" : [ "https://twitter.com/glyph/status/1549582373393555456" ]
+  },
+  "type" : [ "h-entry" ]
+}
