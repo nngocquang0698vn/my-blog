@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Jose, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Piece of Cake 💫" ],
+        "nickname" : [ "kefimochi" ],
+        "numeric-id" : [ "1009594769817796608" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1302862083944456192/HxMstsQP.jpg" ],
+        "published" : [ "2018-06-21T00:32:05+00:00" ],
+        "uid" : [ "tag:twitter.com:kefimochi" ],
+        "url" : [ "https://twitter.com/kefimochi", "https://linktr.ee/Kefimochi" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hi :D\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/kylewelch\"></a>",
+      "value" : "Hi :D"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/kylewelch/status/1551588032020889601" ],
+    "published" : [ "2022-07-25T15:22:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1551588807396323328" ],
+    "url" : [ "https://twitter.com/kefimochi/status/1551588807396323328" ]
+  },
+  "type" : [ "h-entry" ]
+}
