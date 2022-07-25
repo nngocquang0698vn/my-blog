@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/valliant/status/1551449710866485248" ],
     "name" : [ "Like of @valliant's tweet" ],
     "published" : [ "2022-07-25T07:53:00+0100" ],
     "like-of" : [ "https://twitter.com/valliant/status/1551449710866485248" ],
