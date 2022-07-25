@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Ms_J_No/status/1551340242627690498" ],
     "name" : [ "Like of @Ms_J_No's tweet" ],
     "published" : [ "2022-07-25T07:54:00+0100" ],
     "like-of" : [ "https://twitter.com/Ms_J_No/status/1551340242627690498" ],
