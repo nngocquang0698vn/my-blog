@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Hickory, NC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jason Hughes" ],
+          "nickname" : [ "wk057" ],
+          "numeric-id" : [ "3063324590" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1532847515682365441/vjwXJ4Kh.jpg" ],
+          "published" : [ "2015-03-05T17:17:21+00:00" ],
+          "uid" : [ "tag:twitter.com:wk057" ],
+          "url" : [ "https://twitter.com/wk057", "https://057tech.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Later on, while the car is parked in his driveway, Tesla calls him to tell him that they found and fixed a configuration mistake with his car.\n\nThey remotely software locked the car to be a 60 again, despite having been a 90 for years.\n\nHe now has ~80 miles less range.\n\n(3/*)</div>",
+        "value" : "Later on, while the car is parked in his driveway, Tesla calls him to tell him that they found and fixed a configuration mistake with his car.\n\nThey remotely software locked the car to be a 60 again, despite having been a 90 for years.\n\nHe now has ~80 miles less range.\n\n(3/*)"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/wk057/status/1551713025815707648" ],
+      "published" : [ "2022-07-25T23:36:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1551713027480817670" ],
+      "url" : [ "https://twitter.com/wk057/status/1551713027480817670" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">You're halfway to Mars. God-Emperor Musk remotely logs into your ship.\nThe computer blithely chirps \n\"To access this spacecraft's full oxygen capacity, please deposit 5 ElonCoin.\"\nYou check the exchange rate. That's nearly 3 litres of blood!\nSighing, you grab the needle again.</div>",
+      "value" : "You're halfway to Mars. God-Emperor Musk remotely logs into your ship.\nThe computer blithely chirps \n\"To access this spacecraft's full oxygen capacity, please deposit 5 ElonCoin.\"\nYou check the exchange rate. That's nearly 3 litres of blood!\nSighing, you grab the needle again."
+    } ],
+    "published" : [ "2022-07-26T06:40:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1551819853673238532" ],
+    "url" : [ "https://twitter.com/edent/status/1551819853673238532" ]
+  },
+  "type" : [ "h-entry" ]
+}
