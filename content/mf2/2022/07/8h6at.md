@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/twistingmyleg/status/1551961448120729601" ],
     "name" : [ "Like of @twistingmyleg's tweet" ],
     "published" : [ "2022-07-26T20:36:00+0100" ],
     "category" : [ "pokemon", "memes" ],
