@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ianthembd/status/1551616385691914240" ],
     "name" : [ "Like of @ianthembd's tweet" ],
     "published" : [ "2022-07-26T22:16:00+0100" ],
     "like-of" : [ "https://twitter.com/ianthembd/status/1551616385691914240" ],
