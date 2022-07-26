@@ -1,7 +1,5 @@
 baseURL = ""
 
-theme = "www.jvt.me-theme"
-
 title = "Jamie Tanna | Software Engineer"
 
 languageCode = "en-GB"
@@ -257,3 +255,6 @@ slug = 2021
 slug = 2022
 [cascade._target]
   path = '/week-notes/2022/**'
+
+[[module.imports]]
+path = "gitlab.com/jamietanna/www.jvt.me-theme"

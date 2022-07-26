@@ -2,7 +2,6 @@ image: docker:19.03
 
 variables:
   DOCKER_DRIVER: overlay
-  GIT_SUBMODULE_STRATEGY: normal
   HUGO_VERSION: 0.95.0
 
 stages:
