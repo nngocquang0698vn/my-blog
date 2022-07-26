@@ -1,0 +1,55 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Schrödinger's Sneetch Belly" ],
+          "nickname" : [ "RTodKelly" ],
+          "numeric-id" : [ "345474486" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1489666803970166784/YeK4A0Jf.jpg" ],
+          "published" : [ "2011-07-30T17:19:28+00:00" ],
+          "uid" : [ "tag:twitter.com:RTodKelly" ],
+          "url" : [ "https://twitter.com/RTodKelly", "http://marieclaire.com.au" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "\"This summer from New Line Cinema...\"" ],
+      "photo" : [ "https://pbs.twimg.com/media/FYimT96UIAINSeE.jpg" ],
+      "published" : [ "2022-07-25T20:57:53+00:00" ],
+      "uid" : [ "tag:twitter.com:1551673112051204103" ],
+      "url" : [ "https://twitter.com/RTodKelly/status/1551673112051204103" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Florence, Tuscany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lontra longicaudis" ],
+        "nickname" : [ "AsnoDeBuridan" ],
+        "numeric-id" : [ "3039048208" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1535999568554369025/gQrnYz5M.jpg" ],
+        "published" : [ "2015-02-15T13:36:50+00:00" ],
+        "uid" : [ "tag:twitter.com:AsnoDeBuridan" ],
+        "url" : [ "https://twitter.com/AsnoDeBuridan" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Could it be any more obvious? 🎶" ],
+    "published" : [ "2022-07-26T17:20:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1551980779139366913" ],
+    "url" : [ "https://twitter.com/AsnoDeBuridan/status/1551980779139366913" ]
+  },
+  "type" : [ "h-entry" ]
+}
