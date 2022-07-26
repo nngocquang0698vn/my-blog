@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "brian" ],
+          "nickname" : [ "10inchbrian" ],
+          "numeric-id" : [ "1551065012709445634" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1551065803151118342/IMcpX9j5.jpg" ],
+          "published" : [ "2022-07-24T04:42:44+00:00" ],
+          "uid" : [ "tag:twitter.com:10inchbrian" ],
+          "url" : [ "https://twitter.com/10inchbrian" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "who tf is keeping burger king in business???" ],
+      "published" : [ "2022-07-25T21:04:58+00:00" ],
+      "uid" : [ "tag:twitter.com:1551674895058145280" ],
+      "url" : [ "https://twitter.com/10inchbrian/status/1551674895058145280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "kee 🇩🇲🇩🇲" ],
+        "nickname" : [ "kiya_starr" ],
+        "numeric-id" : [ "67361068" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1460328739481522183/g30t9tBk.jpg" ],
+        "published" : [ "2009-08-20T16:59:34+00:00" ],
+        "uid" : [ "tag:twitter.com:kiya_starr" ],
+        "url" : [ "https://twitter.com/kiya_starr", "http://www.instagram.com/kiyastarrr" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Burger King is better than McDonald’s!!" ],
+    "published" : [ "2022-07-26T16:58:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1551975217114882049" ],
+    "url" : [ "https://twitter.com/kiya_starr/status/1551975217114882049" ]
+  },
+  "type" : [ "h-entry" ]
+}
