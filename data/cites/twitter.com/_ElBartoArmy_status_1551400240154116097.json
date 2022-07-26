@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "EL BARTO ANTI-WORK" ],
+        "nickname" : [ "ElBartoArmy" ],
+        "numeric-id" : [ "788872004577300480" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1280539089670987776/EQiY3Mc7.jpg" ],
+        "published" : [ "2016-10-19T22:38:37+00:00" ],
+        "uid" : [ "tag:twitter.com:ElBartoArmy" ],
+        "url" : [ "https://twitter.com/ElBartoArmy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "this is a next level reply guy\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/trash_ebooks\"></a>",
+      "value" : "this is a next level reply guy"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/trash_ebooks/status/1551399403948281858" ],
+    "published" : [ "2022-07-25T02:53:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1551400240154116097" ],
+    "url" : [ "https://twitter.com/ElBartoArmy/status/1551400240154116097" ]
+  },
+  "type" : [ "h-entry" ]
+}
