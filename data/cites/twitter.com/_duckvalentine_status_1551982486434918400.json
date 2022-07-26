@@ -1,0 +1,58 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "IndieWire" ],
+          "nickname" : [ "IndieWire" ],
+          "numeric-id" : [ "13992132" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1429177637344321542/CZoJpK71.jpg" ],
+          "published" : [ "2008-02-26T08:25:08+00:00" ],
+          "uid" : [ "tag:twitter.com:IndieWire" ],
+          "url" : [ "https://twitter.com/IndieWire", "http://indiewire.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\"You can’t ignore the violence that was perpetrated on women by men in that time,\" <a href=\"https://twitter.com/search?q=%23HouseoftheDragon\">#HouseoftheDragon</a> co-showrunner Miguel Sapochnik said. \"It shouldn’t be downplayed and it shouldn’t be glorified.\" <a href=\"https://bit.ly/3omXmG2\">bit.ly/3omXmG2</a>",
+        "value" : "\"You can’t ignore the violence that was perpetrated on women by men in that time,\" #HouseoftheDragon co-showrunner Miguel Sapochnik said. \"It shouldn’t be downplayed and it shouldn’t be glorified.\" bit.ly/3omXmG2"
+      } ],
+      "photo" : [ "https://pbs.twimg.com/media/FYTKue7XgAAi2Yr.jpg" ],
+      "published" : [ "2022-07-22T22:00:00+00:00" ],
+      "uid" : [ "tag:twitter.com:1550601582768623617" ],
+      "url" : [ "https://twitter.com/IndieWire/status/1550601582768623617" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Rebekah Valentine" ],
+        "nickname" : [ "duckvalentine" ],
+        "numeric-id" : [ "2611622852" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484986225555488768/nJlIn2qX.jpg" ],
+        "published" : [ "2014-07-08T12:53:54+00:00" ],
+        "uid" : [ "tag:twitter.com:duckvalentine" ],
+        "url" : [ "https://twitter.com/duckvalentine", "https://www.ign.com/person/duckvalentine" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "lot of men really just very badly want to graphically depict sexual violence against women in their made-up fantasy worlds for some reason!!!" ],
+    "published" : [ "2022-07-26T17:27:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1551982486434918400" ],
+    "url" : [ "https://twitter.com/duckvalentine/status/1551982486434918400" ]
+  },
+  "type" : [ "h-entry" ]
+}
