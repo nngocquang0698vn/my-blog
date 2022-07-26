@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Lionesses/status/1552035777672003585" ],
     "name" : [ "Like of @Lionesses's tweet" ],
     "published" : [ "2022-07-26T22:20:00+0100" ],
     "like-of" : [ "https://twitter.com/Lionesses/status/1552035777672003585" ],
