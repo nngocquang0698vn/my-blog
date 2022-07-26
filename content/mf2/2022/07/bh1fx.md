@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CHERUBKlN/status/1551980203433394183" ],
     "name" : [ "Like of @CHERUBKlN's tweet" ],
     "published" : [ "2022-07-26T20:36:00+0100" ],
     "category" : [ "pokemon" ],
