@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/duckvalentine/status/1551982486434918400" ],
     "name" : [ "Like of @duckvalentine's tweet" ],
     "published" : [ "2022-07-26T19:17:00+0100" ],
     "like-of" : [ "https://twitter.com/duckvalentine/status/1551982486434918400" ],
