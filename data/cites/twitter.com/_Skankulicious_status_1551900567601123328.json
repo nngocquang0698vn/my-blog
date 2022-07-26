@@ -1,0 +1,32 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Tom Foolery" ],
+        "nickname" : [ "Skankulicious" ],
+        "numeric-id" : [ "1098687530856341510" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1355323666242949123/JjuujMN-.jpg" ],
+        "published" : [ "2019-02-21T20:54:54+00:00" ],
+        "uid" : [ "tag:twitter.com:Skankulicious" ],
+        "url" : [ "https://twitter.com/Skankulicious" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "For those who didn't see it I got a screenshot.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/CraigSJ\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/caraesten\"></a>",
+      "value" : "For those who didn't see it I got a screenshot."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/caraesten/status/1551576176547704838" ],
+    "photo" : [ "https://pbs.twimg.com/media/FYl1V5gWYAEembG.jpg" ],
+    "published" : [ "2022-07-26T12:01:42+00:00" ],
+    "uid" : [ "tag:twitter.com:1551900567601123328" ],
+    "url" : [ "https://twitter.com/Skankulicious/status/1551900567601123328" ]
+  },
+  "type" : [ "h-entry" ]
+}
