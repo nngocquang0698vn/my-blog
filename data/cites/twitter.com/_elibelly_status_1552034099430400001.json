@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "St. George's Park, England" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "England" ],
+          "nickname" : [ "England" ],
+          "numeric-id" : [ "1903382054" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1471075525082988551/TbLV9AIa.jpg" ],
+          "published" : [ "2013-09-25T08:23:07+00:00" ],
+          "uid" : [ "tag:twitter.com:England" ],
+          "url" : [ "https://twitter.com/England", "http://www.EnglandFootball.com", "http://the-fa.com/dnt0Rz" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">OUR <a href=\"https://twitter.com/Lionesses\">@LIONESSES</a> HAVE DONE IT!\n\nWE ARE <a href=\"https://twitter.com/search?q=%23WEURO2022\">#WEURO2022</a> FINALISTS 👏</div>",
+        "value" : "OUR @LIONESSES HAVE DONE IT!\n\nWE ARE #WEURO2022 FINALISTS 👏"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/England/status/1552029412111048704" ],
+      "photo" : [ {
+        "alt" : "Full time: England 4-0 Sweden",
+        "value" : "https://pbs.twimg.com/media/FYntncCX0AAVs4b.jpg"
+      } ],
+      "published" : [ "2022-07-26T20:49:03+00:00" ],
+      "uid" : [ "tag:twitter.com:1552033278533799936" ],
+      "url" : [ "https://twitter.com/England/status/1552033278533799936" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "eli schutze" ],
+        "nickname" : [ "elibelly" ],
+        "numeric-id" : [ "19629753" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1537726596001431555/dk9eWbVP.jpg" ],
+        "published" : [ "2009-01-28T01:36:40+00:00" ],
+        "uid" : [ "tag:twitter.com:elibelly" ],
+        "url" : [ "https://twitter.com/elibelly", "https://www.rupify.fun/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "is it \"coming home\" as they say?!?" ],
+    "published" : [ "2022-07-26T20:52:19+00:00" ],
+    "uid" : [ "tag:twitter.com:1552034099430400001" ],
+    "url" : [ "https://twitter.com/elibelly/status/1552034099430400001" ]
+  },
+  "type" : [ "h-entry" ]
+}
