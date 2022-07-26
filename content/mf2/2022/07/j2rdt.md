@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/kiya_starr/status/1551975217114882049" ],
     "name" : [ "Like of @kiya_starr's tweet" ],
     "published" : [ "2022-07-26T19:19:00+0100" ],
     "like-of" : [ "https://twitter.com/kiya_starr/status/1551975217114882049" ],
