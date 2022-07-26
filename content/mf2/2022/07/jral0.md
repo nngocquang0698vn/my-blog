@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RandallKanna/status/1551643493377851392" ],
     "name" : [ "Like of @RandallKanna's tweet" ],
     "published" : [ "2022-07-26T12:17:00+0100" ],
     "category" : [ "interviewing" ],
