@@ -1,0 +1,56 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "New York" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Josh Marshall" ],
+          "nickname" : [ "joshtpm" ],
+          "numeric-id" : [ "21268897" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1436730976026124294/vnE9F6XL.jpg" ],
+          "published" : [ "2009-02-19T02:41:22+00:00" ],
+          "uid" : [ "tag:twitter.com:joshtpm" ],
+          "url" : [ "https://twitter.com/joshtpm", "http://talkingpointsmemo.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "🤣🤣🤣" ],
+      "in-reply-to" : [ "https://twitter.com/joshtpm/status/1552151532480651265" ],
+      "photo" : [ "https://pbs.twimg.com/media/FYpZ9o1XkAY0WSe.jpg" ],
+      "published" : [ "2022-07-27T04:40:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1552151940414541824" ],
+      "url" : [ "https://twitter.com/joshtpm/status/1552151940414541824" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mx. D. E. Anderson" ],
+        "nickname" : [ "diannaeanderson" ],
+        "numeric-id" : [ "41939243" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1360036269234016258/Cwj5qSmQ.jpg" ],
+        "published" : [ "2009-05-23T00:46:34+00:00" ],
+        "uid" : [ "tag:twitter.com:diannaeanderson" ],
+        "url" : [ "https://twitter.com/diannaeanderson", "https://linktr.ee/diannaeanderson" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "It will never not be funny to me when transphobes do this." ],
+    "published" : [ "2022-07-27T04:57:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1552156135976833024" ],
+    "url" : [ "https://twitter.com/diannaeanderson/status/1552156135976833024" ]
+  },
+  "type" : [ "h-entry" ]
+}
