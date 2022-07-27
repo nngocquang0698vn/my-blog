@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KerenKenzi/status/1552243481099345920" ],
     "name" : [ "Like of @KerenKenzi's tweet" ],
     "published" : [ "2022-07-27T12:04:00+0100" ],
     "category" : [ "personal-website" ],
