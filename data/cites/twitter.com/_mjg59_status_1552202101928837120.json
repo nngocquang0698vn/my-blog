@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "(Whereas on HN they're very rudely being extremely wrong at each other)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/antranigv\"></a>",
+      "value" : "(Whereas on HN they're very rudely being extremely wrong at each other)"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mjg59/status/1552201962015186944" ],
+    "published" : [ "2022-07-27T07:59:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1552202101928837120" ],
+    "url" : [ "https://twitter.com/mjg59/status/1552202101928837120" ]
+  },
+  "type" : [ "h-entry" ]
+}
