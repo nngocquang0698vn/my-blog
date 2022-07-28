@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emilyst/status/1552189419662102528" ],
     "name" : [ "Like of @emilyst's tweet" ],
     "published" : [ "2022-07-28T09:43:00+0100" ],
     "category" : [ "shitpost", "vim" ],
