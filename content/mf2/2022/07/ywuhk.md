@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jaboukie/status/1552723214287224832" ],
     "name" : [ "Like of @jaboukie's tweet" ],
     "published" : [ "2022-07-28T19:32:00+0100" ],
     "category" : [ "food" ],
