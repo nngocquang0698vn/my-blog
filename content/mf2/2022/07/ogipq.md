@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EveForster/status/1551911362137292800" ],
     "name" : [ "Like of @EveForster's tweet" ],
     "published" : [ "2022-07-28T07:52:00+0100" ],
     "like-of" : [ "https://twitter.com/EveForster/status/1551911362137292800" ],
