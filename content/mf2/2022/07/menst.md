@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KeatonPatti/status/1552105434273570816" ],
     "name" : [ "Like of @KeatonPatti's tweet" ],
     "published" : [ "2022-07-28T12:24:12.855224101Z" ],
     "like-of" : [ "https://twitter.com/KeatonPatti/status/1552105434273570816" ],
