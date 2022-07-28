@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RitzScythe/status/1552105726176141313" ],
     "name" : [ "Like of @RitzScythe's tweet" ],
     "published" : [ "2022-07-28T12:24:21.601817184Z" ],
     "like-of" : [ "https://twitter.com/RitzScythe/status/1552105726176141313" ],
