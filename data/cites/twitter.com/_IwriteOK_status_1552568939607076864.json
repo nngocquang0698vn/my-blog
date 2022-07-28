@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "northern california" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "fatiguefluencer" ],
+          "nickname" : [ "naxuu" ],
+          "numeric-id" : [ "18821904" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/797853167811629056/koDzKAgD.jpg" ],
+          "published" : [ "2009-01-10T00:41:52+00:00" ],
+          "uid" : [ "tag:twitter.com:naxuu" ],
+          "url" : [ "https://twitter.com/naxuu", "http://polygloss.bandcamp.com", "http://tinyletter.com/naxuu" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "it's fucking hilarious to me that a seemingly innocuous iOS update - allowing users to do a single-click opt in or out of data collection/tracking/analysis by apps - single-handedly torpedoed $10 billion and counting in Facebook's ad revenue" ],
+      "photo" : [ "https://pbs.twimg.com/media/FYsOj8baUAA3-TM.jpg" ],
+      "published" : [ "2022-07-27T17:52:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1552351165647441920" ],
+      "url" : [ "https://twitter.com/naxuu/status/1552351165647441920" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Robert Evans (The Only Robert Evans)" ],
+        "nickname" : [ "IwriteOK" ],
+        "numeric-id" : [ "137395584" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/598663964340301824/im3Wzn-o.jpg" ],
+        "published" : [ "2010-04-26T16:39:21+00:00" ],
+        "uid" : [ "tag:twitter.com:IwriteOK" ],
+        "url" : [ "https://twitter.com/IwriteOK" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "this is honestly the coolest thing I've learned in a long time. As a former Cracked employee it's nice to see Facebook's profits get nuked because some other company flipped a switch" ],
+    "published" : [ "2022-07-28T08:17:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1552568939607076864" ],
+    "url" : [ "https://twitter.com/IwriteOK/status/1552568939607076864" ]
+  },
+  "type" : [ "h-entry" ]
+}
