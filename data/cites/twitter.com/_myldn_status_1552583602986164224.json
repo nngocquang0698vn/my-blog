@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "My London" ],
+        "nickname" : [ "myldn" ],
+        "numeric-id" : [ "1054672443246292992" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1206235431592976384/Zc8mwtiC.png" ],
+        "published" : [ "2018-10-23T09:54:40+00:00" ],
+        "uid" : [ "tag:twitter.com:myldn" ],
+        "url" : [ "https://twitter.com/myldn", "https://www.mylondon.news/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Doctor Who and Carry On actor Bernard Cribbins dies aged 93 💔\n\n[THREAD] 🧵⤵️\n<a href=\"https://bit.ly/3oBpHso\">bit.ly/3oBpHso</a></div>",
+      "value" : "Doctor Who and Carry On actor Bernard Cribbins dies aged 93 💔\n\n[THREAD] 🧵⤵️\nbit.ly/3oBpHso"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FYvhmT5XkAImWFU.jpg" ],
+    "published" : [ "2022-07-28T09:15:51+00:00" ],
+    "uid" : [ "tag:twitter.com:1552583602986164224" ],
+    "url" : [ "https://twitter.com/myldn/status/1552583602986164224" ]
+  },
+  "type" : [ "h-entry" ]
+}
