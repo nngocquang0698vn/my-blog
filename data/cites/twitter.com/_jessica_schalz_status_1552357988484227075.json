@@ -1,0 +1,60 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Seattle + San Francisco" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kim Vu (she/her)" ],
+          "nickname" : [ "kimmilyn" ],
+          "numeric-id" : [ "35807425" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1539343084084834305/waSiQmpN.jpg" ],
+          "published" : [ "2009-04-27T17:52:39+00:00" ],
+          "uid" : [ "tag:twitter.com:kimmilyn" ],
+          "url" : [ "https://twitter.com/kimmilyn", "http://www.linkedin.com/in/kimtvu" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">Workers are avoiding their colleagues because of conflicting political views—and employers are afraid to choose sides, HR expert says\n <a href=\"https://flip.it/zZlRxa\">flip.it/zZlRxa</a></div>",
+        "value" : "Workers are avoiding their colleagues because of conflicting political views—and employers are afraid to choose sides, HR expert says\n flip.it/zZlRxa"
+      } ],
+      "published" : [ "2022-07-27T18:14:56+00:00" ],
+      "uid" : [ "tag:twitter.com:1552356880936161281" ],
+      "url" : [ "https://twitter.com/kimmilyn/status/1552356880936161281" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Occupied Dakota land" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "grem" ],
+        "nickname" : [ "jessica_schalz" ],
+        "numeric-id" : [ "853040153874620417" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1549872388740988934/PMftvOpr.jpg" ],
+        "published" : [ "2017-04-15T00:19:56+00:00" ],
+        "uid" : [ "tag:twitter.com:jessica_schalz" ],
+        "url" : [ "https://twitter.com/jessica_schalz", "http://polywork.com/grem" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I will say that usually, if I'm avoiding a coworker, it's not usually because of conflicting \"political\" views.\n\nIt's usually because I'm queer and trans and disabled and a woman, and they think I shouldn't have human rights.</div>",
+      "value" : "I will say that usually, if I'm avoiding a coworker, it's not usually because of conflicting \"political\" views.\n\nIt's usually because I'm queer and trans and disabled and a woman, and they think I shouldn't have human rights."
+    } ],
+    "published" : [ "2022-07-27T18:19:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1552357988484227075" ],
+    "url" : [ "https://twitter.com/jessica_schalz/status/1552357988484227075" ]
+  },
+  "type" : [ "h-entry" ]
+}
