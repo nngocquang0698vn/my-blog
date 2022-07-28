@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/noahgittell/status/1552278808740433921" ],
     "name" : [ "Like of @noahgittell's tweet" ],
     "published" : [ "2022-07-28T07:51:00+0100" ],
     "like-of" : [ "https://twitter.com/noahgittell/status/1552278808740433921" ],
