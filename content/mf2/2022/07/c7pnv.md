@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/skatie420/status/1552404467991003136" ],
     "name" : [ "Like of @skatie420's tweet" ],
     "published" : [ "2022-07-28T07:54:00+0100" ],
     "like-of" : [ "https://twitter.com/skatie420/status/1552404467991003136" ],
