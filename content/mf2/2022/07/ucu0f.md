@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/justinboldaji/status/1552865738167177221" ],
     "name" : [ "Like of @justinboldaji's tweet" ],
     "published" : [ "2022-07-29T16:54:00+0100" ],
     "like-of" : [ "https://twitter.com/justinboldaji/status/1552865738167177221" ],
