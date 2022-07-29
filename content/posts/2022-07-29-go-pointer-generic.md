@@ -1,9 +1,10 @@
 ---
 title: "Using generics to get a pointer to any type, in Go"
-description: "How to use Go generics to create a helper method for getting a pointer to any type."
-date: 2022-07-29T16:21:42+0100
+description: "How to use Go generics to create a helper method for getting a pointer\
+  \ to any type."
+date: "2022-07-29T16:21:42+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1553042105634807808"
 tags:
 - "blogumentation"
 - "go"
