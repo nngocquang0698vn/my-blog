@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamesLeonDavid1/status/1552836577927331841" ],
     "name" : [ "Like of @JamesLeonDavid1's tweet" ],
     "published" : [ "2022-07-29T16:28:00+0100" ],
     "like-of" : [ "https://twitter.com/JamesLeonDavid1/status/1552836577927331841" ],
