@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boston" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tim cappalli | 📍Philly" ],
+        "nickname" : [ "timcappalli" ],
+        "numeric-id" : [ "290319395" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1319766338001391616/7iL9Jh_m.jpg" ],
+        "published" : [ "2011-04-30T02:57:28+00:00" ],
+        "uid" : [ "tag:twitter.com:timcappalli" ],
+        "url" : [ "https://twitter.com/timcappalli", "https://timcappalli.me" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "revocation is really important." ],
+    "published" : [ "2022-07-28T19:16:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1552734702523539456" ],
+    "url" : [ "https://twitter.com/timcappalli/status/1552734702523539456" ]
+  },
+  "type" : [ "h-entry" ]
+}
