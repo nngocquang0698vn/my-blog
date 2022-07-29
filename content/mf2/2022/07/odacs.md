@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ala22cran/status/1553049475182215168" ],
     "name" : [ "Like of @ala22cran's tweet" ],
     "published" : [ "2022-07-29T21:33:00+0100" ],
     "like-of" : [ "https://twitter.com/ala22cran/status/1553049475182215168" ],
