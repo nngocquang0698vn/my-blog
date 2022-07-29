@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston + Omaha" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Changelog" ],
+        "nickname" : [ "changelog" ],
+        "numeric-id" : [ "90286855" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199065640331595776/BNCgPsAw.jpg" ],
+        "published" : [ "2009-11-16T00:47:38+00:00" ],
+        "uid" : [ "tag:twitter.com:changelog" ],
+        "url" : [ "https://twitter.com/changelog", "https://changelog.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Shipping services more quickly with design-first OpenAPI contracts\n\n📝 by <a href=\"https://twitter.com/JamieTanna\">@jamietanna</a>\n🗂 <a href=\"https://twitter.com/search?q=%23api\">#api</a> <a href=\"https://twitter.com/search?q=%23practices\">#practices</a>\n\n<a href=\"https://changelog.com/news/2lYZ\">changelog.com/news/2lYZ</a></div>",
+      "value" : "Shipping services more quickly with design-first OpenAPI contracts\n\n📝 by @jamietanna\n🗂 #api #practices\n\nchangelog.com/news/2lYZ"
+    } ],
+    "published" : [ "2022-07-29T15:43:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1553043424667910144" ],
+    "url" : [ "https://twitter.com/changelog/status/1553043424667910144" ]
+  },
+  "type" : [ "h-entry" ]
+}
