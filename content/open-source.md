@@ -3,6 +3,7 @@ title: Open Source Projects I Maintain
 ---
 There are a few Free and Open Source projects that I maintain:
 
+- [oapi-codegen](https://github.com/deepmap/oapi-codegen)
 - [Wiremock](https://github.com/wiremock/wiremock)
 - [Spectral Test Harness](https://gitlab.com/jamietanna/spectral-test-harness)
 - [Cucumber Reporting Plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin)
