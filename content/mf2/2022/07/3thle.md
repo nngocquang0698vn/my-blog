@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/SandyPugGames/status/1552756027380191232" ],
     "name" : [ "Like of @SandyPugGames's tweet" ],
     "published" : [ "2022-07-29T21:31:00+0100" ],
     "like-of" : [ "https://twitter.com/SandyPugGames/status/1552756027380191232" ],
