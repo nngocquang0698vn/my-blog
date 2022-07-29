@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Terence Eden" ],
+        "nickname" : [ "edent" ],
+        "numeric-id" : [ "14054507" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1228067445153452033/_A8Uq2VY.jpg" ],
+        "published" : [ "2008-02-28T13:10:25+00:00" ],
+        "uid" : [ "tag:twitter.com:edent" ],
+        "url" : [ "https://twitter.com/edent", "https://shkspr.mobi/blog/", "http://edent.tel" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">To sum up.\nIn July, we paid £32.28 for 118kWh of electricity from the grid.\n\nWe *sold*  384kWh of solar electricity back to the grid and earned £95.21.</div>",
+      "value" : "To sum up.\nIn July, we paid £32.28 for 118kWh of electricity from the grid.\n\nWe *sold*  384kWh of solar electricity back to the grid and earned £95.21."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/edent/status/1552926808726769664" ],
+    "published" : [ "2022-07-29T08:06:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1552928479670304768" ],
+    "url" : [ "https://twitter.com/edent/status/1552928479670304768" ]
+  },
+  "type" : [ "h-entry" ]
+}
