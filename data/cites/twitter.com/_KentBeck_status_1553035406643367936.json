@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kent Beck 🌻" ],
+        "nickname" : [ "KentBeck" ],
+        "numeric-id" : [ "16891384" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1457857343568244742/FVQ4hpRx.jpg" ],
+        "published" : [ "2008-10-21T18:56:26+00:00" ],
+        "uid" : [ "tag:twitter.com:KentBeck" ],
+        "url" : [ "https://twitter.com/KentBeck", "http://www.kentbeck.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "\"Outsourcing unit testing\" -- wtaf? That's like wanting to be fit so you pay someone else to exercise." ],
+    "published" : [ "2022-07-29T15:11:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1553035406643367936" ],
+    "url" : [ "https://twitter.com/KentBeck/status/1553035406643367936" ]
+  },
+  "type" : [ "h-entry" ]
+}
