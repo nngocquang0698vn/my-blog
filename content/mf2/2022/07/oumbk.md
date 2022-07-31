@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/buitengebieden/status/1553477769648029697" ],
     "name" : [ "Like of @buitengebieden's tweet" ],
     "published" : [ "2022-07-31T16:38:00+0100" ],
     "category" : [ "cute" ],
