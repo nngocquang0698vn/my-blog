@@ -1,0 +1,9 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Spring Authorization Server Is Going 1.0" ],
+    "summary" : [ "<div class=\"paragraph\"> \n <p>We are excited to announce that we’ve started preparing for Spring Authorization Server 1.0 with plans to release the GA version in November 2022. It has been just over two years since we <a href=\"https://spring.io/blog/2020/04/15/announcing-the-spring-authorization-server\">initially announced</a> this new project, and we have come a long way since its initial development. The project has a full <a href=\"https://docs.spring.io/spring-authorization-server/docs/current/reference/html/overview.html#feature-list\">feature set</a>, and the APIs have stabilized and matured over this time. A lot of effort and care was put into this project to ensure that it can grow and adapt over the next few years.</p> \n</div>\n<div class=\"paragraph\"> \n <p>Spring Authorization Server 1.0 will be based on Spring Security 6.0, which will be based off of <a href=\"https://spring.io/blog/2021/09/02/a-java-17-and-jakarta-ee-9-baseline-for-spring-framework-6\">Spring Framework 6.0</a> and will require a minimum of Java 17 at runtime, as well as a minimum of Tomcat 10 or Jetty 11 (for Jakarta EE 9 compatibility). This major release will inherit the <a href=\"https://tanzu.vmware.com/support/oss\">VMware Tanzu OSS support policy</a>. <a href=\"https://tanzu.vmware.com/spring-runtime\">Commercial support</a>, which offers an extended support period, is also available from VMware.</p> \n</div>\n" ],
+    "featured" : [ "https://avatars.githubusercontent.com/u/10884212?v=4?s=200" ],
+    "url" : [ "https://spring.io/blog/2022/07/28/spring-authorization-server-is-going-1-0" ]
+  }
+}
