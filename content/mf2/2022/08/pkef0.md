@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/jrc1921/status/1553693502923571201" ],
     "name" : [ "Like of @jrc1921's tweet" ],
     "published" : [ "2022-08-01T07:28:00+0100" ],
     "like-of" : [ "https://twitter.com/jrc1921/status/1553693502923571201" ],
