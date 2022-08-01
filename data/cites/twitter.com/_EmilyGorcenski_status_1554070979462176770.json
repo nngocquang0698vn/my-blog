@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Space" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emily G" ],
+        "nickname" : [ "EmilyGorcenski" ],
+        "numeric-id" : [ "1483064670" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1518141395235704832/5k1rzR6N.jpg" ],
+        "published" : [ "2013-06-04T19:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:EmilyGorcenski" ],
+        "url" : [ "https://twitter.com/EmilyGorcenski", "https://www.emilygorcenski.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Absolutely cool that I get like monthly inquiries for some code I presented at a conference five years ago :)" ],
+    "published" : [ "2022-08-01T11:46:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1554070979462176770" ],
+    "url" : [ "https://twitter.com/EmilyGorcenski/status/1554070979462176770" ]
+  },
+  "type" : [ "h-entry" ]
+}
