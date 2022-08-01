@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Coley2202/status/1554214427376984065" ],
     "name" : [ "Like of @Coley2202's tweet" ],
     "published" : [ "2022-08-01T22:18:00+0100" ],
     "category" : [ "game-of-thrones" ],
