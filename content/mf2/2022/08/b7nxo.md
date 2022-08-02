@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Beavs/status/1554339913276870656" ],
     "name" : [ "Like of @Beavs's tweet" ],
     "published" : [ "2022-08-02T22:02:00+0100" ],
     "category" : [ "tiktok" ],
