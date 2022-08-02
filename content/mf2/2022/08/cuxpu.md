@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://jacky.wtf/2022/8/7lZt" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1554575711733780480" ],
     "published" : [ "2022-08-02T22:01:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
