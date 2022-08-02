@@ -1,0 +1,48 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "London NW1 2DB" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The British Library" ],
+          "nickname" : [ "britishlibrary" ],
+          "numeric-id" : [ "21744554" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1543908757431779330/uAh4Zhmk.jpg" ],
+          "published" : [ "2009-02-24T10:56:49+00:00" ],
+          "uid" : [ "tag:twitter.com:britishlibrary" ],
+          "url" : [ "https://twitter.com/britishlibrary", "http://www.bl.uk" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "What’s your guilty pleasure read? 😎📚" ],
+      "published" : [ "2022-08-02T12:58:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1554451664047841280" ],
+      "url" : [ "https://twitter.com/britishlibrary/status/1554451664047841280" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Kate Owen" ],
+        "nickname" : [ "BooksAndGuts" ],
+        "numeric-id" : [ "904964036588122113" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541830556551417858/XstQ6R65.jpg" ],
+        "published" : [ "2017-09-05T07:06:54+00:00" ],
+        "uid" : [ "tag:twitter.com:BooksAndGuts" ],
+        "url" : [ "https://twitter.com/BooksAndGuts" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don’t believe in guilty pleasures. Enjoy what you enjoy and don’t let others make you feel less than because you’re not reading doorstopper novels." ],
+    "published" : [ "2022-08-02T13:23:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1554457860666433536" ],
+    "url" : [ "https://twitter.com/BooksAndGuts/status/1554457860666433536" ]
+  },
+  "type" : [ "h-entry" ]
+}
