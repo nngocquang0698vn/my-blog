@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BooksAndGuts/status/1554457860666433536" ],
     "name" : [ "Like of @BooksAndGuts's tweet" ],
     "published" : [ "2022-08-02T17:44:00+0100" ],
     "like-of" : [ "https://twitter.com/BooksAndGuts/status/1554457860666433536" ],
