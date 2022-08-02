@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Berkeley, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Allen Holub" ],
+          "nickname" : [ "allenholub" ],
+          "numeric-id" : [ "21375846" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1042085119505227777/l3Xhlcse.jpg" ],
+          "published" : [ "2009-02-20T05:05:57+00:00" ],
+          "uid" : [ "tag:twitter.com:allenholub" ],
+          "url" : [ "https://twitter.com/allenholub", "http://holub.com", "http://holub.com/services", "http://holub.com/subscribe" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">\"If you can't say with absolute certainty that you'll build something, it has no business on your backlog.\"\n\n\"But most of the things on our backlog are likely to change, or maybe disappear altogether, as we learn!\" \n\n\"Yes, and your point is?\"</div>",
+        "value" : "\"If you can't say with absolute certainty that you'll build something, it has no business on your backlog.\"\n\n\"But most of the things on our backlog are likely to change, or maybe disappear altogether, as we learn!\" \n\n\"Yes, and your point is?\""
+      } ],
+      "published" : [ "2022-08-02T17:35:51+00:00" ],
+      "uid" : [ "tag:twitter.com:1554521374500200450" ],
+      "url" : [ "https://twitter.com/allenholub/status/1554521374500200450" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "people really need to find a place to put ideas that isn't the backlog" ],
+    "published" : [ "2022-08-02T17:47:15+00:00" ],
+    "uid" : [ "tag:twitter.com:1554524240182796288" ],
+    "url" : [ "https://twitter.com/ReinH/status/1554524240182796288" ]
+  },
+  "type" : [ "h-entry" ]
+}
