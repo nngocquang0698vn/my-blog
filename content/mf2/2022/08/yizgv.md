@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ReinH/status/1554524352439234560" ],
     "name" : [ "Like of @ReinH's tweet" ],
     "published" : [ "2022-08-02T21:55:00+0100" ],
     "like-of" : [ "https://twitter.com/ReinH/status/1554524352439234560" ],
