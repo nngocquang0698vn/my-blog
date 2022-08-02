@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Neil Jones" ],
+          "nickname" : [ "N_G_Jones" ],
+          "numeric-id" : [ "355732705" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1809153970/Twitter_pic.jpg" ],
+          "published" : [ "2011-08-15T20:13:48+00:00" ],
+          "uid" : [ "tag:twitter.com:N_G_Jones" ],
+          "url" : [ "https://twitter.com/N_G_Jones" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/EleanorMorton\"></a>"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/EleanorMorton/status/1551855576069586947" ],
+      "photo" : [ "https://pbs.twimg.com/media/FYmiKlhXkAEW0GN.jpg" ],
+      "published" : [ "2022-07-26T15:17:34+00:00" ],
+      "uid" : [ "tag:twitter.com:1551949856041746432" ],
+      "url" : [ "https://twitter.com/N_G_Jones/status/1551949856041746432" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/n_g_jones/stat…" ],
+      "url" : [ "https://twitter.com/n_g_jones/status/1551949856041746432" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol 🌻" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499765989831065607/fzAUmgRa.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "and they were roommates!\n<a class=\"tag\" href=\"https://twitter.com/n_g_jones/status/1551949856041746432\">twitter.com/n_g_jones/stat…</a>",
+      "value" : "and they were roommates!"
+    } ],
+    "published" : [ "2022-08-01T18:40:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1554175175335215105" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1554175175335215105" ]
+  },
+  "type" : [ "h-entry" ]
+}
