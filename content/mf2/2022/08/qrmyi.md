@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/swartable/status/1554215939436032000" ],
     "name" : [ "Like of @swartable's tweet" ],
     "published" : [ "2022-08-02T08:42:00+0100" ],
     "like-of" : [ "https://twitter.com/swartable/status/1554215939436032000" ],
