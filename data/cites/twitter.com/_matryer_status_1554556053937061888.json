@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "NA-EMEA-APAC" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "The Register" ],
+          "nickname" : [ "TheRegister" ],
+          "numeric-id" : [ "78012548" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364.png" ],
+          "published" : [ "2009-09-28T13:24:46+00:00" ],
+          "uid" : [ "tag:twitter.com:TheRegister" ],
+          "url" : [ "https://twitter.com/TheRegister", "https://www.theregister.com/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Robinhood's crypto unit hit with $30m fine over security, anti-crime misses <a href=\"https://reg.cx/455Z?utm_source=twitter&utm_medium=twitter&utm_campaign=auto&utm_content=article\">reg.cx/455Z?utm_sourc…</a>",
+        "value" : "Robinhood's crypto unit hit with $30m fine over security, anti-crime misses reg.cx/455Z?utm_sourc…"
+      } ],
+      "published" : [ "2022-08-02T19:44:21+00:00" ],
+      "uid" : [ "tag:twitter.com:1554553708742168580" ],
+      "url" : [ "https://twitter.com/TheRegister/status/1554553708742168580" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/theregister/st…" ],
+      "url" : [ "https://twitter.com/theregister/status/1554553708742168580" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163536220686864384/SP6Xu8tl.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://xbarapp.com", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Hope they give it to the poor. 🏹\n<a class=\"tag\" href=\"https://twitter.com/theregister/status/1554553708742168580\">twitter.com/theregister/st…</a>",
+      "value" : "Hope they give it to the poor. 🏹"
+    } ],
+    "published" : [ "2022-08-02T19:53:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1554556053937061888" ],
+    "url" : [ "https://twitter.com/matryer/status/1554556053937061888" ]
+  },
+  "type" : [ "h-entry" ]
+}
