@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "of course! this code isn't going to steal itself! literally!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/_breeeeen_\"></a>",
+      "value" : "of course! this code isn't going to steal itself! literally!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/_breeeeen_/status/1554665624047058945" ],
+    "published" : [ "2022-08-03T03:09:37+00:00" ],
+    "uid" : [ "tag:twitter.com:1554665763834712064" ],
+    "url" : [ "https://twitter.com/ReinH/status/1554665763834712064" ]
+  },
+  "type" : [ "h-entry" ]
+}
