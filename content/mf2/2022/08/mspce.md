@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ErickLorinc/status/1554487405352140801" ],
     "name" : [ "Like of @ErickLorinc's tweet" ],
     "published" : [ "2022-08-03T16:07:00+0100" ],
     "like-of" : [ "https://twitter.com/ErickLorinc/status/1554487405352140801" ],
