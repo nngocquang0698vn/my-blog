@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fingerbIaster/status/1554938198820016128" ],
     "name" : [ "Like of @fingerbIaster's tweet" ],
     "published" : [ "2022-08-03T22:27:00+0100" ],
     "like-of" : [ "https://twitter.com/fingerbIaster/status/1554938198820016128" ],
