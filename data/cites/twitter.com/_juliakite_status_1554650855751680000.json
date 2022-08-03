@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York City" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Julia Kite-Laidlaw" ],
+        "nickname" : [ "juliakite" ],
+        "numeric-id" : [ "17993644" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1153495166331887616/rvLEHJQZ.jpg" ],
+        "published" : [ "2008-12-09T15:48:09+00:00" ],
+        "uid" : [ "tag:twitter.com:juliakite" ],
+        "url" : [ "https://twitter.com/juliakite", "http://www.juliakite.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Sadly fake: <a href=\"https://www.snopes.com/fact-check/jack-sparrow-house-quibi/\">snopes.com/fact-check/jac…</a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/captainfez\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ellehardy\"></a>",
+      "value" : "Sadly fake: snopes.com/fact-check/jac…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ellehardy/status/1554633881252515841" ],
+    "published" : [ "2022-08-03T02:10:22+00:00" ],
+    "uid" : [ "tag:twitter.com:1554650855751680000" ],
+    "url" : [ "https://twitter.com/juliakite/status/1554650855751680000" ]
+  },
+  "type" : [ "h-entry" ]
+}
