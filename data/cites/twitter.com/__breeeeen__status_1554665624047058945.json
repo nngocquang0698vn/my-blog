@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Northern Virginia" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "John Breen" ],
+        "nickname" : [ "_breeeeen_" ],
+        "numeric-id" : [ "476530679" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1545944747428249600/wGGcvB3F.jpg" ],
+        "published" : [ "2012-01-28T07:04:31+00:00" ],
+        "uid" : [ "tag:twitter.com:_breeeeen_" ],
+        "url" : [ "https://twitter.com/_breeeeen_", "https://breen.tech" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Of course it’s opt-out 😤\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ReinH\"></a>",
+      "value" : "Of course it’s opt-out 😤"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1554665231439126530" ],
+    "published" : [ "2022-08-03T03:09:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1554665624047058945" ],
+    "url" : [ "https://twitter.com/_breeeeen_/status/1554665624047058945" ]
+  },
+  "type" : [ "h-entry" ]
+}
