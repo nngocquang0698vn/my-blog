@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/allissunnyy/status/860725214505816064" ],
     "name" : [ "Like of @allissunnyy's tweet" ],
     "published" : [ "2022-08-03T15:17:00+0100" ],
     "like-of" : [ "https://twitter.com/allissunnyy/status/860725214505816064" ],
