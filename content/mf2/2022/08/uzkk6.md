@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/whatthella/status/1554710905631432705" ],
     "name" : [ "Like of @whatthella's tweet" ],
     "published" : [ "2022-08-03T15:16:00+0100" ],
     "like-of" : [ "https://twitter.com/whatthella/status/1554710905631432705" ],
