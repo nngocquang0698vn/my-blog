@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gstrod/status/1555245400197668865" ],
     "name" : [ "Like of @gstrod's tweet" ],
     "published" : [ "2022-08-04T17:51:23.274045115Z" ],
     "category" : [ "deliveroo" ],
