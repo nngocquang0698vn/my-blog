@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Vienna, Austria" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Armin Ronacher" ],
+        "nickname" : [ "mitsuhiko" ],
+        "numeric-id" : [ "12963432" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1433982028/profile.png" ],
+        "published" : [ "2008-02-01T23:12:59+00:00" ],
+        "uid" : [ "tag:twitter.com:mitsuhiko" ],
+        "url" : [ "https://twitter.com/mitsuhiko", "http://lucumr.pocoo.org/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Quite a few of my repos that people actually download libraries regularly are not touched in a year. Last update 2019 (<a href=\"https://github.com/mitsuhiko/might-be-minified\">github.com/mitsuhiko/migh…</a>). It’s a stable library used by sentry every day.",
+      "value" : "Quite a few of my repos that people actually download libraries regularly are not touched in a year. Last update 2019 (github.com/mitsuhiko/migh…). It’s a stable library used by sentry every day."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mitsuhiko/status/1555194736465543169" ],
+    "published" : [ "2022-08-04T14:15:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1555195604212514827" ],
+    "url" : [ "https://twitter.com/mitsuhiko/status/1555195604212514827" ]
+  },
+  "type" : [ "h-entry" ]
+}
