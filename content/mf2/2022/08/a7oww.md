@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/arslannmrv/status/1555232296332140552" ],
     "name" : [ "Like of @arslannmrv's tweet" ],
     "published" : [ "2022-08-04T17:16:25.561396308Z" ],
     "category" : [ "deliveroo" ],
