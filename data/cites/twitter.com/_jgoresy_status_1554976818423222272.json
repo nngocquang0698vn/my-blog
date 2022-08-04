@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Bay Area" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jared" ],
+        "nickname" : [ "jgoresy" ],
+        "numeric-id" : [ "251924961" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000024332368/9e10a1e326f5c27105480695f2abdc93.jpeg" ],
+        "published" : [ "2011-02-14T03:34:32+00:00" ],
+        "uid" : [ "tag:twitter.com:jgoresy" ],
+        "url" : [ "https://twitter.com/jgoresy", "http://jaredgores.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "movie pirate to film preservationist pipeline" ],
+    "published" : [ "2022-08-03T23:45:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1554976818423222272" ],
+    "url" : [ "https://twitter.com/jgoresy/status/1554976818423222272" ]
+  },
+  "type" : [ "h-entry" ]
+}
