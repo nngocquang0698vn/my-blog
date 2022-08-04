@@ -1,0 +1,62 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Haywards Heath" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Jake Archibald" ],
+          "nickname" : [ "jaffathecake" ],
+          "numeric-id" : [ "15390783" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1695239906/me.jpg" ],
+          "published" : [ "2008-07-11T12:42:42+00:00" ],
+          "uid" : [ "tag:twitter.com:jaffathecake" ],
+          "url" : [ "https://twitter.com/jaffathecake", "http://www.jakearchibald.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Best comment so far:\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ChromiumDev\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/cassiecodes\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/heypresents\"></a>",
+        "value" : "Best comment so far:"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/heypresents/status/1555129139165892612" ],
+      "photo" : [ {
+        "alt" : "YouTube comment: I'm not looking for cutesy chit chat when I have my time to learn tech hat on.",
+        "value" : "https://pbs.twimg.com/media/FZT0e3_XgAEjNo-.jpg"
+      } ],
+      "published" : [ "2022-08-04T10:21:15+00:00" ],
+      "uid" : [ "tag:twitter.com:1555136779002515459" ],
+      "url" : [ "https://twitter.com/jaffathecake/status/1555136779002515459" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brighton, England" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Cassie Evans" ],
+        "nickname" : [ "cassiecodes" ],
+        "numeric-id" : [ "758598429115310080" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1486429238941134861/y11F6GrI.jpg" ],
+        "published" : [ "2016-07-28T09:42:14+00:00" ],
+        "uid" : [ "tag:twitter.com:cassiecodes" ],
+        "url" : [ "https://twitter.com/cassiecodes", "https://cassie.codes" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Whoops. I annoyed the serious tech men with my personality again." ],
+    "published" : [ "2022-08-04T11:33:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1555154932017336320" ],
+    "url" : [ "https://twitter.com/cassiecodes/status/1555154932017336320" ]
+  },
+  "type" : [ "h-entry" ]
+}
