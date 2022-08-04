@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Valencia, Spain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gustavo A. Rodríguez Suárez" ],
+        "nickname" : [ "gstrod" ],
+        "numeric-id" : [ "2434694401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543556082760572930/D8BruRlR.jpg" ],
+        "published" : [ "2014-04-09T01:30:09+00:00" ],
+        "uid" : [ "tag:twitter.com:gstrod" ],
+        "url" : [ "https://twitter.com/gstrod", "https://github.com/octohedron" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My kind of place \n<a href=\"https://twitter.com/search?q=%23deliveroo\">#deliveroo</a></div>",
+      "value" : "My kind of place \n#deliveroo"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FZVhFO-X0AIyCs9.jpg" ],
+    "published" : [ "2022-08-04T18:15:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1555256003641352192" ],
+    "url" : [ "https://twitter.com/gstrod/status/1555256003641352192" ]
+  },
+  "type" : [ "h-entry" ]
+}
