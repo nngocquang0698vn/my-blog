@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Valencia, Spain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gustavo A. Rodríguez Suárez" ],
+        "nickname" : [ "gstrod" ],
+        "numeric-id" : [ "2434694401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543556082760572930/D8BruRlR.jpg" ],
+        "published" : [ "2014-04-09T01:30:09+00:00" ],
+        "uid" : [ "tag:twitter.com:gstrod" ],
+        "url" : [ "https://twitter.com/gstrod", "https://github.com/octohedron" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Next presentation: Shipping services more quickly with design-first OpenAPI contracts \n\n<a href=\"https://twitter.com/search?q=%23deliveroo\">#deliveroo</a>\n⁦<a href=\"https://twitter.com/Deliveroo\">@Deliveroo</a>⁩</div>",
+      "value" : "Next presentation: Shipping services more quickly with design-first OpenAPI contracts \n\n#deliveroo\n⁦@Deliveroo⁩"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FZVl9v1WAAAIEM8.jpg" ],
+    "published" : [ "2022-08-04T18:36:20+00:00" ],
+    "uid" : [ "tag:twitter.com:1555261369351651328" ],
+    "url" : [ "https://twitter.com/gstrod/status/1555261369351651328" ]
+  },
+  "type" : [ "h-entry" ]
+}
