@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/autumnnsonata/status/1554979602195394560" ],
     "name" : [ "Like of @autumnnsonata's tweet" ],
     "published" : [ "2022-08-04T21:47:00+0100" ],
     "like-of" : [ "https://twitter.com/autumnnsonata/status/1554979602195394560" ],
