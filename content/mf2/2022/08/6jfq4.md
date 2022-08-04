@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/tom_moulard/status/1555106956951670784" ],
     "name" : [ "Like of @tom_moulard's tweet" ],
     "published" : [ "2022-08-04T10:13:00+0100" ],
     "category" : [ "git" ],
