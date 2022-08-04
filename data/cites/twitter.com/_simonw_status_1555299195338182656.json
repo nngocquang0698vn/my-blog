@@ -1,0 +1,66 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Kangaroo island, Australia" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "GEOFF 🦩🎼" ],
+          "nickname" : [ "GeoffreyHuntley" ],
+          "numeric-id" : [ "14961859" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1537663992889417728/g3WpO4j_.png" ],
+          "published" : [ "2008-05-31T09:05:00+00:00" ],
+          "uid" : [ "tag:twitter.com:GeoffreyHuntley" ],
+          "url" : [ "https://twitter.com/GeoffreyHuntley", "https://ghuntley.com/linktree", "http://thenftbay.org" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "ugh GitLab are you alright? <a href=\"https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/\">theregister.com/2022/08/04/git…</a>",
+        "value" : "ugh GitLab are you alright? theregister.com/2022/08/04/git…"
+      } ],
+      "published" : [ "2022-08-04T02:50:29+00:00" ],
+      "uid" : [ "tag:twitter.com:1555023338468438020" ],
+      "url" : [ "https://twitter.com/GeoffreyHuntley/status/1555023338468438020" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/geoffreyhuntle…" ],
+      "url" : [ "https://twitter.com/geoffreyhuntley/status/1555023338468438020" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"GitLab plans to automatically delete projects if they've been inactive for a year and are owned by users of its free tier.\"\n\nAbsolutely shocking decision from <a href=\"https://twitter.com/gitlab\">@gitlab</a>, I very much hope they reconsider this</div>\n<a class=\"tag\" href=\"https://twitter.com/geoffreyhuntley/status/1555023338468438020\">twitter.com/geoffreyhuntle…</a>",
+      "value" : "\"GitLab plans to automatically delete projects if they've been inactive for a year and are owned by users of its free tier.\"\n\nAbsolutely shocking decision from @gitlab, I very much hope they reconsider this"
+    } ],
+    "published" : [ "2022-08-04T21:06:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1555299195338182656" ],
+    "url" : [ "https://twitter.com/simonw/status/1555299195338182656" ]
+  },
+  "type" : [ "h-entry" ]
+}
