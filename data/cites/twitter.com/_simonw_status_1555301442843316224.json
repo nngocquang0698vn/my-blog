@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Suggestion: auto-archive projects instead: code is still available, issues etc are flattened to read-only static copies. Have a \"reactivate project\" button the user can click to re-inflate their project back to live status\n\nNot trivial to build, but SO MUCH better than deletion</div>",
+      "value" : "Suggestion: auto-archive projects instead: code is still available, issues etc are flattened to read-only static copies. Have a \"reactivate project\" button the user can click to re-inflate their project back to live status\n\nNot trivial to build, but SO MUCH better than deletion"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/simonw/status/1555300681329692672" ],
+    "published" : [ "2022-08-04T21:15:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1555301442843316224" ],
+    "url" : [ "https://twitter.com/simonw/status/1555301442843316224" ]
+  },
+  "type" : [ "h-entry" ]
+}
