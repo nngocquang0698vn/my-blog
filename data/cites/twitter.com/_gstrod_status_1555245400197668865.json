@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Valencia, Spain" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Gustavo A. Rodríguez Suárez" ],
+        "nickname" : [ "gstrod" ],
+        "numeric-id" : [ "2434694401" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1543556082760572930/D8BruRlR.jpg" ],
+        "published" : [ "2014-04-09T01:30:09+00:00" ],
+        "uid" : [ "tag:twitter.com:gstrod" ],
+        "url" : [ "https://twitter.com/gstrod", "https://github.com/octohedron" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Documents enable efficient decision making 👏\n\nThat’s why I love writing documentation\n\n<a href=\"https://twitter.com/search?q=%23deliveroo\">#deliveroo</a></div>",
+      "value" : "Documents enable efficient decision making 👏\n\nThat’s why I love writing documentation\n\n#deliveroo"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FZVXcWjWAAMUuV-.jpg" ],
+    "published" : [ "2022-08-04T17:32:53+00:00" ],
+    "uid" : [ "tag:twitter.com:1555245400197668865" ],
+    "url" : [ "https://twitter.com/gstrod/status/1555245400197668865" ]
+  },
+  "type" : [ "h-entry" ]
+}
