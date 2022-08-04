@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "localhost" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "tommoulard" ],
+        "nickname" : [ "tom_moulard" ],
+        "numeric-id" : [ "1369932026950864897" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1369932197713575936/oVm6d6Be.jpg" ],
+        "published" : [ "2021-03-11T08:44:09+00:00" ],
+        "uid" : [ "tag:twitter.com:tom_moulard" ],
+        "url" : [ "https://twitter.com/tom_moulard", "https://tom.moulard.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Just add the following to your ~/.gitconfig\n\n    [format]\n    signOff = true\n\n<a href=\"https://git-scm.com/docs/git-config#Documentation/git-config.txt-formatsignOff\">git-scm.com/docs/git-confi…</a></div>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ibuildthecloud\"></a>",
+      "value" : "Just add the following to your ~/.gitconfig\n\n    [format]\n    signOff = true\n\ngit-scm.com/docs/git-confi…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ibuildthecloud/status/1555074318446387200" ],
+    "published" : [ "2022-08-04T08:22:45+00:00" ],
+    "uid" : [ "tag:twitter.com:1555106956951670784" ],
+    "url" : [ "https://twitter.com/tom_moulard/status/1555106956951670784" ]
+  },
+  "type" : [ "h-entry" ]
+}
