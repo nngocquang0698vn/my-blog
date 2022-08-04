@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy", "http://github.com/awspring/sprin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The most recommended tech book in the history" ],
+    "photo" : [ "https://pbs.twimg.com/media/FZS7YnKWQAU9tse.jpg" ],
+    "published" : [ "2022-08-04T06:11:01+00:00" ],
+    "uid" : [ "tag:twitter.com:1555073804514328576" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1555073804514328576" ]
+  },
+  "type" : [ "h-entry" ]
+}
