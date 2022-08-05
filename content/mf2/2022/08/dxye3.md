@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Very_Lexi/status/1554933500922544128" ],
     "name" : [ "Like of @Very_Lexi's tweet" ],
     "published" : [ "2022-08-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Very_Lexi/status/1554933500922544128" ],
