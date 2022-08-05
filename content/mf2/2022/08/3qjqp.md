@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/angel_0f_deathx/status/1555354159183851520" ],
     "name" : [ "Like of @angel_0f_deathx's tweet" ],
     "published" : [ "2022-08-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/angel_0f_deathx/status/1555354159183851520" ],
