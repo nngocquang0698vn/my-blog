@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonw/status/1555412333626740736" ],
     "name" : [ "Like of @simonw's tweet" ],
     "published" : [ "2022-08-05T08:00:00+0100" ],
     "category" : [ "gitlab" ],
