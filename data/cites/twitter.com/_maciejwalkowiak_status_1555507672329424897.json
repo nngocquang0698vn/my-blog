@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Maciej Walkowiak 🍃" ],
+        "nickname" : [ "maciejwalkowiak" ],
+        "numeric-id" : [ "454916297" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1224987243556888578/EkXISGKi.jpg" ],
+        "published" : [ "2012-01-04T14:45:51+00:00" ],
+        "uid" : [ "tag:twitter.com:maciejwalkowiak" ],
+        "url" : [ "https://twitter.com/maciejwalkowiak", "https://maciejwalkowiak.com", "http://youtube.com/springacademy", "http://github.com/awspring/sprin" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Every complaining Java developer should switch to NodeJS to start appreciating Java again" ],
+    "published" : [ "2022-08-05T10:55:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1555507672329424897" ],
+    "url" : [ "https://twitter.com/maciejwalkowiak/status/1555507672329424897" ]
+  },
+  "type" : [ "h-entry" ]
+}
