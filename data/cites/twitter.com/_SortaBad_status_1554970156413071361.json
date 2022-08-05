@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Registered Voter" ],
+        "nickname" : [ "SortaBad" ],
+        "numeric-id" : [ "248540363" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1438341517714751489/5k7Bc1XZ.jpg" ],
+        "published" : [ "2011-02-07T06:26:33+00:00" ],
+        "uid" : [ "tag:twitter.com:SortaBad" ],
+        "url" : [ "https://twitter.com/SortaBad" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Totally agree. I would’ve guessed like 400\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/JENCOOLIDGE\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Nickidewbear\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nypost\"></a>",
+      "value" : "Totally agree. I would’ve guessed like 400"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Nickidewbear/status/1554962973294268422" ],
+    "published" : [ "2022-08-03T23:19:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1554970156413071361" ],
+    "url" : [ "https://twitter.com/SortaBad/status/1554970156413071361" ]
+  },
+  "type" : [ "h-entry" ]
+}
