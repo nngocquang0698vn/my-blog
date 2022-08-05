@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DavidWeiss9/status/1555120687576129536" ],
     "name" : [ "Like of @DavidWeiss9's tweet" ],
     "published" : [ "2022-08-05T06:50:00+0100" ],
     "like-of" : [ "https://twitter.com/DavidWeiss9/status/1555120687576129536" ],
