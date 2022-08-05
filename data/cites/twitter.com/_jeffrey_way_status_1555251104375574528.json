@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Winter Park, FL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jeffrey Way" ],
+        "nickname" : [ "jeffrey_way" ],
+        "numeric-id" : [ "99858582" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1179539487086514177/cl6UdqIS.jpg" ],
+        "published" : [ "2009-12-28T04:19:37+00:00" ],
+        "uid" : [ "tag:twitter.com:jeffrey_way" ],
+        "url" : [ "https://twitter.com/jeffrey_way", "https://laracasts.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Three programmer superpowers that have nothing to do with programming, and everything to do with whether you'd be hired or not.\n\n1. Write well.\n2. Do what you say you will - on time.\n3. Take ownership of the projects you work on.</div>",
+      "value" : "Three programmer superpowers that have nothing to do with programming, and everything to do with whether you'd be hired or not.\n\n1. Write well.\n2. Do what you say you will - on time.\n3. Take ownership of the projects you work on."
+    } ],
+    "published" : [ "2022-08-04T17:55:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1555251104375574528" ],
+    "url" : [ "https://twitter.com/jeffrey_way/status/1555251104375574528" ]
+  },
+  "type" : [ "h-entry" ]
+}
