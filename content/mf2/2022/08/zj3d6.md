@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sixinchbeys/status/1555312974792986624" ],
     "name" : [ "Like of @sixinchbeys's tweet" ],
     "published" : [ "2022-08-05T18:41:00+0100" ],
     "category" : [ "food", "tiktok" ],
