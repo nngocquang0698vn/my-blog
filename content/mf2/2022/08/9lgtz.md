@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/xanabon/status/1554928920025235463" ],
     "name" : [ "Like of @xanabon's tweet" ],
     "published" : [ "2022-08-05T07:37:00+0100" ],
     "like-of" : [ "https://twitter.com/xanabon/status/1554928920025235463" ],
