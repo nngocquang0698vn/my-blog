@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/themillenialfa1/status/1555164437811716097" ],
     "name" : [ "Like of @themillenialfa1's tweet" ],
     "published" : [ "2022-08-05T06:48:00+0100" ],
     "like-of" : [ "https://twitter.com/themillenialfa1/status/1555164437811716097" ],
