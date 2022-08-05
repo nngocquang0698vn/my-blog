@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "All Remote 🌏" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🦊 GitLab" ],
+        "nickname" : [ "gitlab" ],
+        "numeric-id" : [ "390167291" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1526219998741647362/8KKDKESj.jpg" ],
+        "published" : [ "2011-10-13T15:27:13+00:00" ],
+        "uid" : [ "tag:twitter.com:gitlab" ],
+        "url" : [ "https://twitter.com/gitlab", "https://linktr.ee/GitLab" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We discussed internally what to do with inactive repositories.\nWe reached a decision to move unused repos to object storage.\nOnce implemented, they will still be accessible but take a bit longer to access after a long period of inactivity.</div>",
+      "value" : "We discussed internally what to do with inactive repositories.\nWe reached a decision to move unused repos to object storage.\nOnce implemented, they will still be accessible but take a bit longer to access after a long period of inactivity."
+    } ],
+    "published" : [ "2022-08-04T22:50:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1555325376687226883" ],
+    "url" : [ "https://twitter.com/gitlab/status/1555325376687226883" ]
+  },
+  "type" : [ "h-entry" ]
+}
