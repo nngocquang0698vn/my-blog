@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "All Remote 🌏" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "🦊 GitLab" ],
+          "nickname" : [ "gitlab" ],
+          "numeric-id" : [ "390167291" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1526219998741647362/8KKDKESj.jpg" ],
+          "published" : [ "2011-10-13T15:27:13+00:00" ],
+          "uid" : [ "tag:twitter.com:gitlab" ],
+          "url" : [ "https://twitter.com/gitlab", "https://linktr.ee/GitLab" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">We discussed internally what to do with inactive repositories.\nWe reached a decision to move unused repos to object storage.\nOnce implemented, they will still be accessible but take a bit longer to access after a long period of inactivity.</div>",
+        "value" : "We discussed internally what to do with inactive repositories.\nWe reached a decision to move unused repos to object storage.\nOnce implemented, they will still be accessible but take a bit longer to access after a long period of inactivity."
+      } ],
+      "published" : [ "2022-08-04T22:50:41+00:00" ],
+      "uid" : [ "tag:twitter.com:1555325376687226883" ],
+      "url" : [ "https://twitter.com/gitlab/status/1555325376687226883" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "To celebrate GitLab making the right call on their inactive accounts policy, here are some things that really impress me about them as a company 🧵" ],
+    "published" : [ "2022-08-05T04:36:13+00:00" ],
+    "uid" : [ "tag:twitter.com:1555412333626740736" ],
+    "url" : [ "https://twitter.com/simonw/status/1555412333626740736" ]
+  },
+  "type" : [ "h-entry" ]
+}
