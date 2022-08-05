@@ -1,12 +1,12 @@
 ---
 title: "Releasing a Go library for content-type negotiation"
 description: "Introducing a new Go library for performing server-driven content negotiation."
-date: 2022-08-05T09:28:10+0100
+date: "2022-08-05T09:28:10+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1555473139957645313"
 tags:
 - "go"
-- content-negotiation
+- "content-negotiation"
 license_code: "Apache-2.0"
 license_prose: "CC-BY-NC-SA-4.0"
 image: "https://media.jvt.me/b41202acf7.png"
