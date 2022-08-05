@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maciejwalkowiak/status/1555507672329424897" ],
     "name" : [ "Like of @maciejwalkowiak's tweet" ],
     "published" : [ "2022-08-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/maciejwalkowiak/status/1555507672329424897" ],
