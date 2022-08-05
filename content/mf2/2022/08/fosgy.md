@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nypost/status/1554905112572723202" ],
     "name" : [ "Like of @nypost's tweet" ],
     "published" : [ "2022-08-05T06:48:00+0100" ],
     "like-of" : [ "https://twitter.com/nypost/status/1554905112572723202" ],
