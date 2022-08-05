@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Ring -1" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "David Buchanan" ],
+        "nickname" : [ "David3141593" ],
+        "numeric-id" : [ "2242426383" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/824035276620238848/bdPI4Q1t.jpg" ],
+        "published" : [ "2013-12-24T23:44:16+00:00" ],
+        "uid" : [ "tag:twitter.com:David3141593" ],
+        "url" : [ "https://twitter.com/David3141593", "https://www.da.vidbuchanan.co.uk/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Stop doing UNIX.\n\n(Is this meme format overdone enough yet?)</div>",
+      "value" : "Stop doing UNIX.\n\n(Is this meme format overdone enough yet?)"
+    } ],
+    "photo" : [ {
+      "alt" : "\"Stop Doing UNIX\" meme (styled like \"Stop Doing Math\"):\n\n[bullet points]\n\n- Devices were not supposed to be given file nodes.\n\n- Years Of Computing, and yet No Real-World Use Found for having more than one Thread.\n\n- Wanted concurrency anyway, for a laugh? We had a tool for that: It was called \"Event Loops\".\n\n- \"Yes, please write this file to /dev/null. Please cat infinite bytes from /dev/zero\" — Statements dreamed up by the utterly Deranged.\n\n[end bullet points]\n\nLook at what Programmers have been demanding your Respect for all this time, with all the CPUs and peripherals we built for them. (This is Real Code, written by Real Programmers):\n\n[three small images follow, containing text]\n\n- \"# rm -rf /\"\n\n- \"Segmentation fault\" repeated over 8 lines\n\n- [The classic bash fork-bomb command] :(){:|:&};:\n\n[end images]\n\nUnder each image is an increasing number of red question marks.\n\n\"Hello I would like $(wc -l</etc/passwd) apples please\"\n\nThey have played us for absolute fools",
+      "value" : "https://pbs.twimg.com/media/EvfZtefWYAUOY1Y.png"
+    } ],
+    "published" : [ "2021-03-02T17:33:31+00:00" ],
+    "uid" : [ "tag:twitter.com:1366803872812068864" ],
+    "url" : [ "https://twitter.com/David3141593/status/1366803872812068864" ]
+  },
+  "type" : [ "h-entry" ]
+}
