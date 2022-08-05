@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Erin Ryan" ],
+        "nickname" : [ "morninggloria" ],
+        "numeric-id" : [ "25375836" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1337559448873705472/m-QIz5ZO.jpg" ],
+        "published" : [ "2009-03-19T20:18:43+00:00" ],
+        "uid" : [ "tag:twitter.com:morninggloria" ],
+        "url" : [ "https://twitter.com/morninggloria", "http://eringloriaryan.bulletin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "GOOD FOR HER\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/nypost\"></a>",
+      "value" : "GOOD FOR HER"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/nypost/status/1554905112572723202" ],
+    "published" : [ "2022-08-04T00:29:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1554987868056985602" ],
+    "url" : [ "https://twitter.com/morninggloria/status/1554987868056985602" ]
+  },
+  "type" : [ "h-entry" ]
+}
