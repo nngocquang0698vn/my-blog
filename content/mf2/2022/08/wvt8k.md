@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/David3141593/status/1366803872812068864" ],
     "name" : [ "Like of @David3141593's tweet" ],
     "published" : [ "2022-08-05T20:41:00+0100" ],
     "like-of" : [ "https://twitter.com/David3141593/status/1366803872812068864" ],
