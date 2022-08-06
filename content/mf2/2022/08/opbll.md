@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StarWarsUK/status/1555856206601674754" ],
     "name" : [ "Like of @StarWarsUK's tweet" ],
     "published" : [ "2022-08-06T11:12:00+0100" ],
     "category" : [ "star-wars" ],
