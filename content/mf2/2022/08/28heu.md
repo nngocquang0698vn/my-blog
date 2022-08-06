@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/yoongiblunt/status/1553973621206519809" ],
     "name" : [ "Like of @yoongiblunt's tweet" ],
     "published" : [ "2022-08-06T09:08:00+0100" ],
     "like-of" : [ "https://twitter.com/yoongiblunt/status/1553973621206519809" ],
