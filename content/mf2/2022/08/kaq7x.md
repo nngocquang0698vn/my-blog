@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/NewStatesman/status/1555478619253776390" ],
     "name" : [ "Like of @NewStatesman's tweet" ],
     "published" : [ "2022-08-06T12:18:00+0100" ],
     "category" : [ "politics" ],
