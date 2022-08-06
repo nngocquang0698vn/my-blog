@@ -1,0 +1,37 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Simon Willison" ],
+        "nickname" : [ "simonw" ],
+        "numeric-id" : [ "12497" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg" ],
+        "published" : [ "2006-11-15T13:18:50+00:00" ],
+        "uid" : [ "tag:twitter.com:simonw" ],
+        "url" : [ "https://twitter.com/simonw", "https://simonwillison.net/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">New hobby: prototyping video games in 60 seconds using a combination of GPT-3 and DALL-E\n\nHere's \"Raccoon Heist\"</div>",
+      "value" : "New hobby: prototyping video games in 60 seconds using a combination of GPT-3 and DALL-E\n\nHere's \"Raccoon Heist\""
+    } ],
+    "photo" : [ {
+      "alt" : "GPT-3 playground interface\n\nMy prompt: Write a detailed product description of a computer game where a team of raccoons go on heists\n\nGPT-3 response:\n\nIn \"Raccoon Heist\", you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew. You'll need to use your wits and your skills to avoid the police and make a clean\ngetaway with the loot. With exciting gameplay and a charming cast of characters, \"Raccoon Heist\" is the perfect game for anyone looking for a light-hearted caper.",
+      "value" : "https://pbs.twimg.com/media/FZaxPRRUcAA2Lsn.jpg"
+    }, {
+      "alt" : "A stylish image of a 3D computer game, with two raccoons sneaking down a street past a futuristic looking building, looking like they want to steal something\n\nPrompt was: \"Screenshot from a video game where a team of raccoons go on a heist\"",
+      "value" : "https://pbs.twimg.com/media/FZaxld4VsAAbaho.jpg"
+    } ],
+    "published" : [ "2022-08-05T18:45:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1555626060384911360" ],
+    "url" : [ "https://twitter.com/simonw/status/1555626060384911360" ]
+  },
+  "type" : [ "h-entry" ]
+}
