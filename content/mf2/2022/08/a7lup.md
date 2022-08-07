@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/plsleaveamsg_/status/1555981769555542017" ],
     "name" : [ "Like of @plsleaveamsg_'s tweet" ],
     "published" : [ "2022-08-07T18:14:00+0100" ],
     "like-of" : [ "https://twitter.com/plsleaveamsg_/status/1555981769555542017" ],
