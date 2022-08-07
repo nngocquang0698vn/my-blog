@@ -6,6 +6,7 @@ There are a few Free and Open Source projects that I maintain:
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen)
 - [Wiremock](https://github.com/wiremock/wiremock)
 - [content-negotiation-go](https://gitlab.com/jamietanna/content-negotiation-go)
+- [content-negotiation-test-cases](https://gitlab.com/jamietanna/content-negotiation-test-cases)
 - [Spectral Test Harness](https://gitlab.com/jamietanna/spectral-test-harness)
 - [Cucumber Reporting Plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin)
 - [RSVP Calendar](https://gitlab.com/jamietanna/rsvp-calendar)
