@@ -1,9 +1,10 @@
 ---
 title: "Releasing a set of test cases for Content Negotiation"
-description: "Introducing a repo for test cases to validate how you're performing server-driven content negotiation."
-date: 2022-08-07T21:13:59+0100
+description: "Introducing a repo for test cases to validate how you're performing\
+  \ server-driven content negotiation."
+date: "2022-08-07T21:13:59+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1556375899871789057"
 tags:
 - "content-negotiation"
 license_code: "Apache-2.0"
