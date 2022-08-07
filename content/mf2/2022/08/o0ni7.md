@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/chrismarget/status/1555886701217808384" ],
     "name" : [ "Like of @chrismarget's tweet" ],
     "published" : [ "2022-08-07T14:21:00+0100" ],
     "like-of" : [ "https://twitter.com/chrismarget/status/1555886701217808384" ],
