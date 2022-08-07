@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New Hampshire" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "🌻 Chris Marget" ],
+        "nickname" : [ "chrismarget" ],
+        "numeric-id" : [ "168271570" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1498836799929606146/zRlManVW.jpg" ],
+        "published" : [ "2010-07-18T22:13:41+00:00" ],
+        "uid" : [ "tag:twitter.com:chrismarget" ],
+        "url" : [ "https://twitter.com/chrismarget", "http://fragmentationneeded.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">UNIX epoch time uses a signed 32-bit counter for seconds since 1970. It's only good for ~68 years, will roll over in 2036.\n\nNTP uses an *unsigned* 32-bit counter, so it's good for 136 years.\n\nBut it counts from 1900, will roll over in 2036.\n\n&lt;sigh&gt;</div>",
+      "value" : "UNIX epoch time uses a signed 32-bit counter for seconds since 1970. It's only good for ~68 years, will roll over in 2036.\n\nNTP uses an *unsigned* 32-bit counter, so it's good for 136 years.\n\nBut it counts from 1900, will roll over in 2036.\n\n<sigh>"
+    } ],
+    "published" : [ "2022-08-06T12:01:11+00:00" ],
+    "uid" : [ "tag:twitter.com:1555886701217808384" ],
+    "url" : [ "https://twitter.com/chrismarget/status/1555886701217808384" ]
+  },
+  "type" : [ "h-entry" ]
+}
