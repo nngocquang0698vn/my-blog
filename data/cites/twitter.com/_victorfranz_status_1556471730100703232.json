@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "São Paulo, Brasil" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Victor Franzonatto" ],
+        "nickname" : [ "victorfranz" ],
+        "numeric-id" : [ "37104241" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1493217445779283970/AvIQ4Tfq.jpg" ],
+        "published" : [ "2009-05-02T01:35:20+00:00" ],
+        "uid" : [ "tag:twitter.com:victorfranz" ],
+        "url" : [ "https://twitter.com/victorfranz" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">“instead of deciding on microservices or monolithic, we should expect software to be team sized, to fit the cognitive load of the team building and running it”\n\n- <a href=\"https://twitter.com/TeamTopologies\">@TeamTopologies</a></div>",
+      "value" : "“instead of deciding on microservices or monolithic, we should expect software to be team sized, to fit the cognitive load of the team building and running it”\n\n- @TeamTopologies"
+    } ],
+    "published" : [ "2022-08-08T02:45:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1556471730100703232" ],
+    "url" : [ "https://twitter.com/victorfranz/status/1556471730100703232" ]
+  },
+  "type" : [ "h-entry" ]
+}
