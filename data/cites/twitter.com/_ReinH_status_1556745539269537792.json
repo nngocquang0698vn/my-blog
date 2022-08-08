@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A brief explanation of my ethical stance on crypto bros\n\nA. Crypto is unethical\nB. Crypto bros either believe that it is ethical or do not care that it is unethical\nC. From A and B it follows that crypto bros are unethical</div>",
+      "value" : "A brief explanation of my ethical stance on crypto bros\n\nA. Crypto is unethical\nB. Crypto bros either believe that it is ethical or do not care that it is unethical\nC. From A and B it follows that crypto bros are unethical"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1556744525321682946" ],
+    "published" : [ "2022-08-08T20:53:54+00:00" ],
+    "uid" : [ "tag:twitter.com:1556745539269537792" ],
+    "url" : [ "https://twitter.com/ReinH/status/1556745539269537792" ]
+  },
+  "type" : [ "h-entry" ]
+}
