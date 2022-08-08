@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/paulienuh/status/1556001198095962115" ],
     "name" : [ "Like of @paulienuh's tweet" ],
     "published" : [ "2022-08-08T10:00:00+0100" ],
     "like-of" : [ "https://twitter.com/paulienuh/status/1556001198095962115" ],
