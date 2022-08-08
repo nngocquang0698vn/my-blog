@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/victorfranz/status/1556471730100703232" ],
     "name" : [ "Like of @victorfranz's tweet" ],
     "published" : [ "2022-08-08T08:05:00+0100" ],
     "like-of" : [ "https://twitter.com/victorfranz/status/1556471730100703232" ],
