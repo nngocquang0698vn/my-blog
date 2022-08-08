@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/summeranne/status/1556677755101749249" ],
     "name" : [ "Like of @summeranne's tweet" ],
     "published" : [ "2022-08-08T22:23:00+0100" ],
     "like-of" : [ "https://twitter.com/summeranne/status/1556677755101749249" ],
