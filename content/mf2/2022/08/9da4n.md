@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wagatwe/status/1556679009181634560" ],
     "name" : [ "Like of @wagatwe's tweet" ],
     "published" : [ "2022-08-08T22:21:00+0100" ],
     "like-of" : [ "https://twitter.com/wagatwe/status/1556679009181634560" ],
