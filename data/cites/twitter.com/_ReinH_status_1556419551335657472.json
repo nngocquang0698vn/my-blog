@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Senior Oops Engineer" ],
+        "nickname" : [ "ReinH" ],
+        "numeric-id" : [ "10255262" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1268216560285437952/-8h3sAoJ.jpg" ],
+        "published" : [ "2007-11-14T18:48:39+00:00" ],
+        "uid" : [ "tag:twitter.com:ReinH" ],
+        "url" : [ "https://twitter.com/ReinH", "https://blacklivesmatter.com/", "http://pronoun.is/he" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "a reliable guide to what is ethical is the opposite of whatever crypto bros believe" ],
+    "in-reply-to" : [ "https://twitter.com/ReinH/status/1556419175332978688" ],
+    "published" : [ "2022-08-07T23:18:32+00:00" ],
+    "uid" : [ "tag:twitter.com:1556419551335657472" ],
+    "url" : [ "https://twitter.com/ReinH/status/1556419551335657472" ]
+  },
+  "type" : [ "h-entry" ]
+}
