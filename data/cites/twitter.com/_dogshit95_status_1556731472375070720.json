@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Los Angeles, CA" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Variety" ],
+          "nickname" : [ "Variety" ],
+          "numeric-id" : [ "17525171" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ.jpg" ],
+          "published" : [ "2008-11-20T23:02:29+00:00" ],
+          "uid" : [ "tag:twitter.com:Variety" ],
+          "url" : [ "https://twitter.com/Variety", "http://www.variety.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "Sean Bean speaks out against the  use of intimacy coordinators on set: “I think the natural way lovers behave would be ruined by someone bringing it right down to a technical exercise.\" <a href=\"https://variety.com/2022/tv/news/sean-bean-intimacy-coordinators-1235335687/\">variety.com/2022/tv/news/s…</a>",
+        "value" : "Sean Bean speaks out against the  use of intimacy coordinators on set: “I think the natural way lovers behave would be ruined by someone bringing it right down to a technical exercise.\" variety.com/2022/tv/news/s…"
+      } ],
+      "published" : [ "2022-08-08T13:17:38+00:00" ],
+      "uid" : [ "tag:twitter.com:1556630715781025794" ],
+      "url" : [ "https://twitter.com/Variety/status/1556630715781025794" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "alex (bad and wrong) 🦬🦬🦬" ],
+        "nickname" : [ "dogshit95" ],
+        "numeric-id" : [ "900067814106570752" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1541423155729801217/Bs9P8f_M.jpg" ],
+        "published" : [ "2017-08-22T18:51:04+00:00" ],
+        "uid" : [ "tag:twitter.com:dogshit95" ],
+        "url" : [ "https://twitter.com/dogshit95", "https://youtu.be/PMyDK3VHYPw", "http://boxd.it/2EwL" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "This is easily one of the worst takes I've ever seen." ],
+    "published" : [ "2022-08-08T19:58:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1556731472375070720" ],
+    "url" : [ "https://twitter.com/dogshit95/status/1556731472375070720" ]
+  },
+  "type" : [ "h-entry" ]
+}
