@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Marcus_Noble_/status/1557095667851579396" ],
     "name" : [ "Like of @Marcus_Noble_'s tweet" ],
     "published" : [ "2022-08-09T21:41:00+0100" ],
     "like-of" : [ "https://twitter.com/Marcus_Noble_/status/1557095667851579396" ],
