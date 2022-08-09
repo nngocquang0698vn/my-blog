@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "I Don’t Like Go’s Default HTTP Handlers" ],
+    "summary" : [ "Explicit > Implicit" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Preslav Rachev" ]
+      }
+    } ],
+    "url" : [ "https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/" ],
+    "published" : [ "2022-08-09T00:00:00+00:00" ]
+  }
+}
