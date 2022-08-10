@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/theironstudley/status/1557341926088757250" ],
     "name" : [ "Like of @theironstudley's tweet" ],
     "published" : [ "2022-08-10T22:28:00+0100" ],
     "like-of" : [ "https://twitter.com/theironstudley/status/1557341926088757250" ],
