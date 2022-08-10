@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542524892263976960/Gqi9PTFa.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://twitch.tv/krisnova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">For anyone else who didn't get the memo:\n\nAuthN (auth-N-tication) = You are you. Legit. Glad you aren't spoofing.\n\nAuthZ (authori-Z-ation) = You have permission for this door. Welcome. Oh -- but not that door. Sorry.</div>",
+      "value" : "For anyone else who didn't get the memo:\n\nAuthN (auth-N-tication) = You are you. Legit. Glad you aren't spoofing.\n\nAuthZ (authori-Z-ation) = You have permission for this door. Welcome. Oh -- but not that door. Sorry."
+    } ],
+    "published" : [ "2022-08-10T12:46:23+00:00" ],
+    "uid" : [ "tag:twitter.com:1557347628765028353" ],
+    "url" : [ "https://twitter.com/krisnova/status/1557347628765028353" ]
+  },
+  "type" : [ "h-entry" ]
+}
