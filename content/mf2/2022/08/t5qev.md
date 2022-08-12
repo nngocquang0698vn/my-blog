@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/bugsmaytrix/status/1557777939047104512" ],
     "name" : [ "Like of @bugsmaytrix's tweet" ],
     "published" : [ "2022-08-12T22:44:00+0100" ],
     "like-of" : [ "https://twitter.com/bugsmaytrix/status/1557777939047104512" ],
