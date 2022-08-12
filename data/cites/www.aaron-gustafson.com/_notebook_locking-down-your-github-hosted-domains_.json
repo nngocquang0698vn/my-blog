@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Locking down your GitHub-hosted Domains  ::  Aaron Gustafson" ],
+    "summary" : [ "The other day someone claimed a hostname on a domain I own and it took me a while to track down how. After a lot of digging around, trying to figure out how the hijack was accomplished, it turns out it was via GitHub Pages." ],
+    "featured" : [ "https://res.cloudinary.com/aarongustafson/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:2C2825,g_south_west,x_480,y_205,l_text:Source Serif Pro_72_700_line_spacing_-18:Locking%20down%20your%20GitHub-hosted%20Domains/w_760,c_fit,co_rgb:505050,g_north_west,x_480,y_505,l_text:Open Sans_36_light_line_spacing_-5:%2523hazards%20%2523urls%20%2523the-web/share-card" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Aaron Gustafson" ]
+      }
+    } ],
+    "url" : [ "https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/" ]
+  }
+}
