@@ -1,9 +1,10 @@
 ---
 title: "Learning a new language, or how I gained familiarity with Go"
-description: "How I've eased into a new language, Go, as a Senior Software Engineer, and some initial thoughts on the language."
-date: 2022-08-12T15:58:06+0100
+description: "How I've eased into a new language, Go, as a Senior Software Engineer,\
+  \ and some initial thoughts on the language."
+date: "2022-08-12T15:58:06+0100"
 syndication:
-- https://brid.gy/publish/twitter
+- "https://twitter.com/JamieTanna/status/1558108436176445443"
 tags:
 - "go"
 license_code: "Apache-2.0"
