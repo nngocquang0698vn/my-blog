@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/EmergMedDr/status/1558008302155489280" ],
     "name" : [ "Like of @EmergMedDr's tweet" ],
     "published" : [ "2022-08-12T14:27:00+0100" ],
     "category" : [ "politics" ],
