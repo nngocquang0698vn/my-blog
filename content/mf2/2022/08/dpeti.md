@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TheSamHaskell/status/1558126920549769216" ],
     "name" : [ "Like of @TheSamHaskell's tweet" ],
     "published" : [ "2022-08-12T17:25:00+0100" ],
     "like-of" : [ "https://twitter.com/TheSamHaskell/status/1558126920549769216" ],
