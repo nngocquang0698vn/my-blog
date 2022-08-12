@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/HeyChelseaTroy/status/1558081526495170560" ],
     "name" : [ "Like of @HeyChelseaTroy's tweet" ],
     "published" : [ "2022-08-12T14:32:00+0100" ],
     "like-of" : [ "https://twitter.com/HeyChelseaTroy/status/1558081526495170560" ],
