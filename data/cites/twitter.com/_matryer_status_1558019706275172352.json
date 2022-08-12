@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mat Ryer at the Fringe" ],
+        "nickname" : [ "matryer" ],
+        "numeric-id" : [ "29481227" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1163536220686864384/SP6Xu8tl.jpg" ],
+        "published" : [ "2009-04-07T16:22:46+00:00" ],
+        "uid" : [ "tag:twitter.com:matryer" ],
+        "url" : [ "https://twitter.com/matryer", "http://github.com/sponsors/matryer", "http://xbarapp.com", "http://amzn.to/2sNiQCl" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "(It’s cruel to like this tweet)" ],
+    "in-reply-to" : [ "https://twitter.com/matryer/status/1558015444979798016" ],
+    "published" : [ "2022-08-12T09:16:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1558019706275172352" ],
+    "url" : [ "https://twitter.com/matryer/status/1558019706275172352" ]
+  },
+  "type" : [ "h-entry" ]
+}
