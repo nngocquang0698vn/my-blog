@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1558092011563106305" ],
     "photo" : [ {
       "alt" : "Morph the cat on his grey tower in the conservatory, inside a little hidey hole, with a meat thermometer showing the air temperature in the box as currently 36 degrees Celsius",
       "photo" : "https://media.jvt.me/7459e86755.jpeg"
