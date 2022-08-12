@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/simonw/status/1558157422388076545" ],
     "name" : [ "Like of @simonw's tweet" ],
     "published" : [ "2022-08-12T19:34:00+0100" ],
     "category" : [ "aws" ],
