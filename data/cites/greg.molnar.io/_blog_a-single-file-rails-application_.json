@@ -1,0 +1,16 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "A Single file Rails Application" ],
+    "summary" : [ "Did you know that you can create a single-file Rails application?" ],
+    "featured" : [ "https://greg.molnar.io/images/ruby-logo.png" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Greg Molnar" ]
+      }
+    } ],
+    "url" : [ "https://greg.molnar.io/blog/a-single-file-rails-application/" ],
+    "published" : [ "2022-08-09T00:00:00+02:00" ]
+  }
+}
