@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Angela Li" ],
+        "nickname" : [ "hiangelali" ],
+        "numeric-id" : [ "361494995" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1539101350843367424/_iUzf0w-.jpg" ],
+        "published" : [ "2011-08-24T21:38:30+00:00" ],
+        "uid" : [ "tag:twitter.com:hiangelali" ],
+        "url" : [ "https://twitter.com/hiangelali", "http://instagram.com/angela" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">*me on the brink of a mental breakdown*\ncan you see my screen</div>",
+      "value" : "*me on the brink of a mental breakdown*\ncan you see my screen"
+    } ],
+    "published" : [ "2022-08-11T20:39:14+00:00" ],
+    "uid" : [ "tag:twitter.com:1557829014575783937" ],
+    "url" : [ "https://twitter.com/hiangelali/status/1557829014575783937" ]
+  },
+  "type" : [ "h-entry" ]
+}
