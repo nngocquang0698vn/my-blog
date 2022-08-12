@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/RyanSAdams/status/1558044593937170433" ],
     "name" : [ "Like of @RyanSAdams's tweet" ],
     "published" : [ "2022-08-12T14:29:00+0100" ],
     "like-of" : [ "https://twitter.com/RyanSAdams/status/1558044593937170433" ],
