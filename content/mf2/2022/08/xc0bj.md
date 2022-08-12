@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/wienerwilson/status/1557380957602299905" ],
     "name" : [ "Like of @wienerwilson's tweet" ],
     "published" : [ "2022-08-12T13:42:00+0100" ],
     "like-of" : [ "https://twitter.com/wienerwilson/status/1557380957602299905" ],
