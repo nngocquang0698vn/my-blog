@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/0xabad1dea/status/1558019305526394881" ],
     "name" : [ "Like of @0xabad1dea's tweet" ],
     "published" : [ "2022-08-12T14:27:00+0100" ],
     "category" : [ "latex" ],
