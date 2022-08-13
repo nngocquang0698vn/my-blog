@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "NYC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Amy" ],
+        "nickname" : [ "lolennui" ],
+        "numeric-id" : [ "201337460" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1558290090706845696/UckMFT8n.jpg" ],
+        "published" : [ "2010-10-11T16:42:52+00:00" ],
+        "uid" : [ "tag:twitter.com:lolennui" ],
+        "url" : [ "https://twitter.com/lolennui", "https://beacons.ai/amyy" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "they budget for that, relax" ],
+    "in-reply-to" : [ "https://twitter.com/lolennui/status/1558517583732678657" ],
+    "published" : [ "2022-08-13T18:17:29+00:00" ],
+    "uid" : [ "tag:twitter.com:1558518117109846016" ],
+    "url" : [ "https://twitter.com/lolennui/status/1558518117109846016" ]
+  },
+  "type" : [ "h-entry" ]
+}
