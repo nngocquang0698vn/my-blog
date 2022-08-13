@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/emmaketchup7/status/1557850614264016896" ],
     "name" : [ "Like of @emmaketchup7's tweet" ],
     "published" : [ "2022-08-13T22:10:00+0100" ],
     "like-of" : [ "https://twitter.com/emmaketchup7/status/1557850614264016896" ],
