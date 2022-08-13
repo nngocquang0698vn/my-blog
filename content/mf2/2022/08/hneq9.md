@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/holly/status/1558443723771502592" ],
     "name" : [ "Like of @holly's tweet" ],
     "published" : [ "2022-08-13T15:10:00+0100" ],
     "like-of" : [ "https://twitter.com/holly/status/1558443723771502592" ],
