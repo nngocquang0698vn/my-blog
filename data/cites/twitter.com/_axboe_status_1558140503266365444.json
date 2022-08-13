@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Park City, Utah" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jens Axboe" ],
+        "nickname" : [ "axboe" ],
+        "numeric-id" : [ "24425280" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/631891659953823744/Gl9HJJF7.jpg" ],
+        "published" : [ "2009-03-14T20:34:25+00:00" ],
+        "uid" : [ "tag:twitter.com:axboe" ],
+        "url" : [ "https://twitter.com/axboe", "https://git.kernel.dk" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Running a successful open source project is just Good Will Hunting in reverse, where you start out as a respected genius and end up being a janitor who gets into fights.\"\n\nQuote attributed to <a href=\"https://twitter.com/cra\">@cra</a>, and I don't think I've ever seen anything more true posted.</div>",
+      "value" : "\"Running a successful open source project is just Good Will Hunting in reverse, where you start out as a respected genius and end up being a janitor who gets into fights.\"\n\nQuote attributed to @cra, and I don't think I've ever seen anything more true posted."
+    } ],
+    "published" : [ "2022-08-12T17:16:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1558140503266365444" ],
+    "url" : [ "https://twitter.com/axboe/status/1558140503266365444" ]
+  },
+  "type" : [ "h-entry" ]
+}
