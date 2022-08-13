@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Coventry" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Royston Dooley" ],
+        "nickname" : [ "RoystonDooley" ],
+        "numeric-id" : [ "491534543" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1175105555657969664/AfOtctND.jpg" ],
+        "published" : [ "2012-02-13T18:57:03+00:00" ],
+        "uid" : [ "tag:twitter.com:RoystonDooley" ],
+        "url" : [ "https://twitter.com/RoystonDooley", "https://www.youtube.com/user/royston1992/videos" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Surely it should be Brick-a-brak in this case...\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/holly\"></a>",
+      "value" : "Surely it should be Brick-a-brak in this case..."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/holly/status/1558443723771502592" ],
+    "published" : [ "2022-08-13T13:23:03+00:00" ],
+    "uid" : [ "tag:twitter.com:1558444019692326913" ],
+    "url" : [ "https://twitter.com/RoystonDooley/status/1558444019692326913" ]
+  },
+  "type" : [ "h-entry" ]
+}
