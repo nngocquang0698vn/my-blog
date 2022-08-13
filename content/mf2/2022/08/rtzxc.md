@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BBCWorld/status/1558498934842081285" ],
     "name" : [ "Like of @BBCWorld's tweet" ],
     "published" : [ "2022-08-13T22:03:00+0100" ],
     "like-of" : [ "https://twitter.com/BBCWorld/status/1558498934842081285" ],
