@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ayroned/status/1557909564002971648" ],
     "name" : [ "Like of @ayroned's tweet" ],
     "published" : [ "2022-08-13T12:58:00+0100" ],
     "like-of" : [ "https://twitter.com/ayroned/status/1557909564002971648" ],
