@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "chain" ],
+          "nickname" : [ "eatatchain" ],
+          "numeric-id" : [ "1357459042231193601" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1357500949065920512/wnlt_lYt.jpg" ],
+          "published" : [ "2021-02-04T22:40:42+00:00" ],
+          "uid" : [ "tag:twitter.com:eatatchain" ],
+          "url" : [ "https://twitter.com/eatatchain", "http://instagram.com/eatatchain" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "They're the same age🤯" ],
+      "photo" : [ "https://pbs.twimg.com/media/FZ5dcTWUEAEkODT.jpg", "https://pbs.twimg.com/media/FZ5dcTUVUAAA-W_.jpg", "https://pbs.twimg.com/media/FZ5dgvCUsAYmj6y.jpg", "https://pbs.twimg.com/media/FZ5div1UEAA1H3t.jpg" ],
+      "published" : [ "2022-08-11T17:47:50+00:00" ],
+      "uid" : [ "tag:twitter.com:1557785879636168707" ],
+      "url" : [ "https://twitter.com/eatatchain/status/1557785879636168707" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Firaga Walk With Me" ],
+        "nickname" : [ "firagawalkwthme" ],
+        "numeric-id" : [ "1253821443529338881" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1429945499306450944/oxWhFRtr.jpg" ],
+        "published" : [ "2020-04-24T23:02:01+00:00" ],
+        "uid" : [ "tag:twitter.com:firagawalkwthme" ],
+        "url" : [ "https://twitter.com/firagawalkwthme", "https://boxd.it/1g48F" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "*trying to explain the passage of time to an american* so imagine a McRib" ],
+    "published" : [ "2022-08-12T17:24:26+00:00" ],
+    "uid" : [ "tag:twitter.com:1558142376580771840" ],
+    "url" : [ "https://twitter.com/firagawalkwthme/status/1558142376580771840" ]
+  },
+  "type" : [ "h-entry" ]
+}
