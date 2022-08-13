@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Chicago, IL" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Lesley Carhart" ],
+        "nickname" : [ "hacks4pancakes" ],
+        "numeric-id" : [ "207617689" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1513331066706223107/NYREz3FR.jpg" ],
+        "published" : [ "2010-10-25T17:46:44+00:00" ],
+        "uid" : [ "tag:twitter.com:hacks4pancakes" ],
+        "url" : [ "https://twitter.com/hacks4pancakes", "http://tisiphone.net" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "A “mild” COVID case almost sent me into heart failure, Matt. People giving a shit about people like me really matters…\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/defcon\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/msuiche\"></a>",
+      "value" : "A “mild” COVID case almost sent me into heart failure, Matt. People giving a shit about people like me really matters…"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/msuiche/status/1558500581165084672" ],
+    "published" : [ "2022-08-13T17:32:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1558506709181669381" ],
+    "url" : [ "https://twitter.com/hacks4pancakes/status/1558506709181669381" ]
+  },
+  "type" : [ "h-entry" ]
+}
