@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis, MN" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Ryan O'Horo" ],
+        "nickname" : [ "redteamwrangler" ],
+        "numeric-id" : [ "200950703" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1484348778542878723/XjFKxZRc.jpg" ],
+        "published" : [ "2010-10-10T18:19:12+00:00" ],
+        "uid" : [ "tag:twitter.com:redteamwrangler" ],
+        "url" : [ "https://twitter.com/redteamwrangler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You do not understand. Liberation comes when the least of us are freed, not when you feel comfortable.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/defcon\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/msuiche\"></a>",
+      "value" : "You do not understand. Liberation comes when the least of us are freed, not when you feel comfortable."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/msuiche/status/1558500581165084672" ],
+    "published" : [ "2022-08-13T17:23:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1558504584586399749" ],
+    "url" : [ "https://twitter.com/redteamwrangler/status/1558504584586399749" ]
+  },
+  "type" : [ "h-entry" ]
+}
