@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Portland, OR" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kyle Shevlin" ],
+        "nickname" : [ "kyleshevlin" ],
+        "numeric-id" : [ "85008547" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+        "published" : [ "2009-10-25T04:24:24+00:00" ],
+        "uid" : [ "tag:twitter.com:kyleshevlin" ],
+        "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">My toxic trait is I either do the work of 4 people in half a day…\n\n…or I do the work of half a person in 4 days.</div>",
+      "value" : "My toxic trait is I either do the work of 4 people in half a day…\n\n…or I do the work of half a person in 4 days."
+    } ],
+    "published" : [ "2022-08-11T17:55:48+00:00" ],
+    "uid" : [ "tag:twitter.com:1557787882143682560" ],
+    "url" : [ "https://twitter.com/kyleshevlin/status/1557787882143682560" ]
+  },
+  "type" : [ "h-entry" ]
+}
