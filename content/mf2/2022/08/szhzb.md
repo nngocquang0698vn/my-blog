@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/fribllkril/status/1558516715398615041" ],
     "name" : [ "Like of @fribllkril's tweet" ],
     "published" : [ "2022-08-13T22:04:00+0100" ],
     "like-of" : [ "https://twitter.com/fribllkril/status/1558516715398615041" ],
