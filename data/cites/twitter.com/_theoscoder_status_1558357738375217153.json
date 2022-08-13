@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "DOM" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emmanuel ⚡️" ],
+        "nickname" : [ "theoscoder" ],
+        "numeric-id" : [ "4656087168" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1533247927296172033/b2aeN3hi.jpg" ],
+        "published" : [ "2015-12-26T16:14:01+00:00" ],
+        "uid" : [ "tag:twitter.com:theoscoder" ],
+        "url" : [ "https://twitter.com/theoscoder", "https://github.com/Akhigbe-E" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">\"Testing is costly...\"\n\n<a href=\"https://twitter.com/kentcdodds\">@kentcdodds</a> :\n\"Cross your fingers and push to prod.\nSo... click click click hope for the best? That’s what we’re doing?\"\n\nMe:</div>",
+      "value" : "\"Testing is costly...\"\n\n@kentcdodds :\n\"Cross your fingers and push to prod.\nSo... click click click hope for the best? That’s what we’re doing?\"\n\nMe:"
+    } ],
+    "published" : [ "2022-08-13T07:40:12+00:00" ],
+    "uid" : [ "tag:twitter.com:1558357738375217153" ],
+    "url" : [ "https://twitter.com/theoscoder/status/1558357738375217153" ],
+    "video" : [ "https://video.twimg.com/tweet_video/FaBmGRSXEAAqCFd.mp4" ]
+  },
+  "type" : [ "h-entry" ]
+}
