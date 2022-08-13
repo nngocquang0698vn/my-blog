@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/DaThurm/status/1554014042758516743" ],
     "name" : [ "Like of @DaThurm's tweet" ],
     "published" : [ "2022-08-13T13:16:00+0100" ],
     "like-of" : [ "https://twitter.com/DaThurm/status/1554014042758516743" ],
