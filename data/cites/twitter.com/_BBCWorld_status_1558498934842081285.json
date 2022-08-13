@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "London, UK" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "BBC News (World)" ],
+        "nickname" : [ "BBCWorld" ],
+        "numeric-id" : [ "742143" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38.jpg" ],
+        "published" : [ "2007-02-01T07:44:29+00:00" ],
+        "uid" : [ "tag:twitter.com:BBCWorld" ],
+        "url" : [ "https://twitter.com/BBCWorld", "http://www.bbc.com/news" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Climate activists fill golf holes with cement after water ban exemption <a href=\"https://bbc.in/3QmuqdR\">bbc.in/3QmuqdR</a>",
+      "value" : "Climate activists fill golf holes with cement after water ban exemption bbc.in/3QmuqdR"
+    } ],
+    "published" : [ "2022-08-13T17:01:16+00:00" ],
+    "uid" : [ "tag:twitter.com:1558498934842081285" ],
+    "url" : [ "https://twitter.com/BBCWorld/status/1558498934842081285" ]
+  },
+  "type" : [ "h-entry" ]
+}
