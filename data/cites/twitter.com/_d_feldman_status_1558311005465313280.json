@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Minneapolis " ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Daniel Feldman" ],
+        "nickname" : [ "d_feldman" ],
+        "numeric-id" : [ "218999041" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1266820896242782209/Eq6KE41g.jpg" ],
+        "published" : [ "2010-11-23T17:28:02+00:00" ],
+        "uid" : [ "tag:twitter.com:d_feldman" ],
+        "url" : [ "https://twitter.com/d_feldman", "https://youtu.be/wkKGR-FMqOQ?t=24" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">They also used a different key (symmetric) from a NIST reference document \n\nThis is not what “industry standard encryption” means 😂</div>",
+      "value" : "They also used a different key (symmetric) from a NIST reference document \n\nThis is not what “industry standard encryption” means 😂"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/d_feldman/status/1558309868431450113" ],
+    "published" : [ "2022-08-13T04:34:30+00:00" ],
+    "uid" : [ "tag:twitter.com:1558311005465313280" ],
+    "url" : [ "https://twitter.com/d_feldman/status/1558311005465313280" ]
+  },
+  "type" : [ "h-entry" ]
+}
