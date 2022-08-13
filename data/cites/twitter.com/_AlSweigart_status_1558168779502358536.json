@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Al Sweigart" ],
+        "nickname" : [ "AlSweigart" ],
+        "numeric-id" : [ "14738418" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323917481216364544/jFfHUEmH.jpg" ],
+        "published" : [ "2008-05-12T00:22:27+00:00" ],
+        "uid" : [ "tag:twitter.com:AlSweigart" ],
+        "url" : [ "https://twitter.com/AlSweigart", "https://inventwithpython.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Buddy, I get it. I, too, want to live in a world where I just tweet about Python stuff and make my little video games and don't concern myself with politics.\n\nBut we don't live in that world. And I figured much too late in life that we've never lived in that world.</div>",
+      "value" : "Buddy, I get it. I, too, want to live in a world where I just tweet about Python stuff and make my little video games and don't concern myself with politics.\n\nBut we don't live in that world. And I figured much too late in life that we've never lived in that world."
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FZ-5_yKXgAcPE8L.png" ],
+    "published" : [ "2022-08-12T19:09:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1558168779502358536" ],
+    "url" : [ "https://twitter.com/AlSweigart/status/1558168779502358536" ]
+  },
+  "type" : [ "h-entry" ]
+}
