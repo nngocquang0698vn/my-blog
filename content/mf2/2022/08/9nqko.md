@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/clogowena65/status/1558500135272841216" ],
     "name" : [ "Like of @clogowena65's tweet" ],
     "published" : [ "2022-08-13T22:04:00+0100" ],
     "like-of" : [ "https://twitter.com/clogowena65/status/1558500135272841216" ],
