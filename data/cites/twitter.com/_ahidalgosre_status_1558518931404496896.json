@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Brooklyn, NY" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Hidalgo" ],
+        "nickname" : [ "ahidalgosre" ],
+        "numeric-id" : [ "1137169652025630720" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1478763704728629249/jOLH7CBA.jpg" ],
+        "published" : [ "2019-06-08T01:29:07+00:00" ],
+        "uid" : [ "tag:twitter.com:ahidalgosre" ],
+        "url" : [ "https://twitter.com/ahidalgosre", "http://alex-hidalgo.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Taco frequently likes to inform me that he has never eaten in his entire life and would really like to try it one day.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/juliaferraioli\"></a>",
+      "value" : "Taco frequently likes to inform me that he has never eaten in his entire life and would really like to try it one day."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/juliaferraioli/status/1558518291018027008" ],
+    "published" : [ "2022-08-13T18:20:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1558518931404496896" ],
+    "url" : [ "https://twitter.com/ahidalgosre/status/1558518931404496896" ]
+  },
+  "type" : [ "h-entry" ]
+}
