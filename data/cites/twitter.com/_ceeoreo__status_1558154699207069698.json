@@ -1,0 +1,57 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Portland, OR" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Kyle Shevlin" ],
+          "nickname" : [ "kyleshevlin" ],
+          "numeric-id" : [ "85008547" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk.jpg" ],
+          "published" : [ "2009-10-25T04:24:24+00:00" ],
+          "uid" : [ "tag:twitter.com:kyleshevlin" ],
+          "url" : [ "https://twitter.com/kyleshevlin", "https://kyleshevlin.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "<div style=\"white-space: pre\">My toxic trait is I either do the work of 4 people in half a day…\n\n…or I do the work of half a person in 4 days.</div>",
+        "value" : "My toxic trait is I either do the work of 4 people in half a day…\n\n…or I do the work of half a person in 4 days."
+      } ],
+      "published" : [ "2022-08-11T17:55:48+00:00" ],
+      "uid" : [ "tag:twitter.com:1557787882143682560" ],
+      "url" : [ "https://twitter.com/kyleshevlin/status/1557787882143682560" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Philadelphia, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ceora🌺🌸" ],
+        "nickname" : [ "ceeoreo_" ],
+        "numeric-id" : [ "1042530264532971520" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1417492250662252555/BmCHo4zC.jpg" ],
+        "published" : [ "2018-09-19T21:45:59+00:00" ],
+        "uid" : [ "tag:twitter.com:ceeoreo_" ],
+        "url" : [ "https://twitter.com/ceeoreo_", "https://www.ceora.dev/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "✨ADHD✨" ],
+    "published" : [ "2022-08-12T18:13:24+00:00" ],
+    "uid" : [ "tag:twitter.com:1558154699207069698" ],
+    "url" : [ "https://twitter.com/ceeoreo_/status/1558154699207069698" ]
+  },
+  "type" : [ "h-entry" ]
+}
