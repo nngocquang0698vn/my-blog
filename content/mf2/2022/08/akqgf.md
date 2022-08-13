@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1558383355602898944" ],
     "photo" : [ {
       "alt" : "Closeup view of Cookie the dog slightly nomming on a yellow pillow, looking straight at the camera. Her nose is focused on well and looks very boop-able. She's just spent a bit of time being cuddly, before deciding to be a gremlin",
       "photo" : "https://media.jvt.me/90a539f2d7.jpeg"
