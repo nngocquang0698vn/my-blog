@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Khesezzi_Uye/status/1557736907119144960" ],
     "name" : [ "Like of @Khesezzi_Uye's tweet" ],
     "published" : [ "2022-08-13T10:02:00+0100" ],
     "like-of" : [ "https://twitter.com/Khesezzi_Uye/status/1557736907119144960" ],
