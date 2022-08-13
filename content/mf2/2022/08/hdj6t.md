@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/axboe/status/1558140503266365444" ],
     "name" : [ "Like of @axboe's tweet" ],
     "published" : [ "2022-08-13T12:26:00+0100" ],
     "category" : [ "open-source" ],
