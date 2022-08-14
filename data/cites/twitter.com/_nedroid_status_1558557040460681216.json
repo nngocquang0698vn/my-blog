@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Indianapolis" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Anthony Clark" ],
+        "nickname" : [ "nedroid" ],
+        "numeric-id" : [ "15029953" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/3255084982/98e23a4f7b56811cf364397a9f6cd214.png" ],
+        "published" : [ "2008-06-06T14:42:39+00:00" ],
+        "uid" : [ "tag:twitter.com:nedroid" ],
+        "url" : [ "https://twitter.com/nedroid", "http://www.nedroid.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I don’t think it’s my fault that I was initially very mistaken about what flavor this was" ],
+    "photo" : [ "https://pbs.twimg.com/media/FaEbXTHXwAYQEGT.jpg" ],
+    "published" : [ "2022-08-13T20:52:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1558557040460681216" ],
+    "url" : [ "https://twitter.com/nedroid/status/1558557040460681216" ]
+  },
+  "type" : [ "h-entry" ]
+}
