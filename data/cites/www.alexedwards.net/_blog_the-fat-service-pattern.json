@@ -1,0 +1,13 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "The ‘fat service’ pattern for Go web applications - Alex Edwards" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Alex Edwards" ]
+      }
+    } ],
+    "url" : [ "https://www.alexedwards.net/blog/the-fat-service-pattern" ]
+  }
+}
