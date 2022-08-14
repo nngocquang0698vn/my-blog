@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/TweetFrmPkmn/status/1558687464541171712" ],
     "name" : [ "Like of @TweetFrmPkmn's tweet" ],
     "published" : [ "2022-08-14T11:38:00+0100" ],
     "category" : [ "pokemon" ],
