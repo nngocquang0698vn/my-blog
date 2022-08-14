@@ -102,6 +102,8 @@ One thing that has been a little difficult is knowing what a "good" project stru
 
 Ignore the Gophers who say things like "don't bring in dependencies, and only use the standard library", because it's not super realistic, and, in my experience, you shouldn't be fighting the verbosity of Go's inbuilt test assertions when you can instead use something nice like [stretchr/testify](https://github.com/stretchr/testify).
 
+I've not really dug into concurrency yet - both because I've not done much of it before, but also because I'm not yet needing to do much of it right now.
+
 I've also found it very weird going back to Java and trying to type Go 😅 Over the weekend I was writing some Java and really struggling. It's amazing how quickly my muscle memory has disappeared.
 
 # Conclusion
