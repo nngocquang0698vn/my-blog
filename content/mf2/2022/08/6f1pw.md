@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/joshgondelman/status/1558836185837015040" ],
     "name" : [ "Like of @joshgondelman's tweet" ],
     "published" : [ "2022-08-14T21:14:00+0100" ],
     "category" : [ "capitalism" ],
