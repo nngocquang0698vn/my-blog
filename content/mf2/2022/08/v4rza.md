@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/pvrekhs/status/1558548249207664640" ],
     "name" : [ "Like of @pvrekhs's tweet" ],
     "published" : [ "2022-08-14T21:15:00+0100" ],
     "like-of" : [ "https://twitter.com/pvrekhs/status/1558548249207664640" ],
