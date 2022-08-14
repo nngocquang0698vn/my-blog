@@ -1,0 +1,15 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "name" : [ "Diving deep into net/http : A look at http.RoundTripper" ],
+    "summary" : [ "Learn how to perform some operations before a request is processed in Go" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Lanre Adelowo" ]
+      }
+    } ],
+    "url" : [ "https://lanre.wtf/blog/2017/07/24/roundtripper-go/" ],
+    "published" : [ "2020-07-09T05:36:16+01:00" ]
+  }
+}
