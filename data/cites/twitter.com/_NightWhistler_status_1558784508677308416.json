@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Voorburg, Netherlands" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Alex Kuiper" ],
+        "nickname" : [ "NightWhistler" ],
+        "numeric-id" : [ "18117082" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1522924523712094208/WTkK9XNH.jpg" ],
+        "published" : [ "2008-12-14T14:49:58+00:00" ],
+        "uid" : [ "tag:twitter.com:NightWhistler" ],
+        "url" : [ "https://twitter.com/NightWhistler", "https://medium.com/@nightwhistler", "http://medium.com/@nightwhistler" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Engineering is literally the art / science of making the appropriate trade-offs for a given situation. Dogmatism has no place there.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/gunnarmorling\"></a>",
+      "value" : "Engineering is literally the art / science of making the appropriate trade-offs for a given situation. Dogmatism has no place there."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/gunnarmorling/status/1558509857615003648" ],
+    "published" : [ "2022-08-14T11:56:02+00:00" ],
+    "uid" : [ "tag:twitter.com:1558784508677308416" ],
+    "url" : [ "https://twitter.com/NightWhistler/status/1558784508677308416" ]
+  },
+  "type" : [ "h-entry" ]
+}
