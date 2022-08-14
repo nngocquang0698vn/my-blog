@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/hammyhavoc/status/1558604403443130369" ],
     "name" : [ "Like of @hammyhavoc's tweet" ],
     "published" : [ "2022-08-14T06:28:00+0100" ],
     "like-of" : [ "https://twitter.com/hammyhavoc/status/1558604403443130369" ],
