@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Liverpool, United Kingdom" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hammy Havoc" ],
+        "nickname" : [ "hammyhavoc" ],
+        "numeric-id" : [ "15738051" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1330616132252934146/-ZVon0Ln.jpg" ],
+        "published" : [ "2008-08-05T16:26:42+00:00" ],
+        "uid" : [ "tag:twitter.com:hammyhavoc" ],
+        "url" : [ "https://twitter.com/hammyhavoc", "https://www.hammyhavoc.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I absolutely love all the smallweb/IndieWeb stuff. Wish there was far more of it. The good old days of when sites were run for fun instead of profit.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/AlexMulkerrin\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/LizardSlack\"></a>",
+      "value" : "I absolutely love all the smallweb/IndieWeb stuff. Wish there was far more of it. The good old days of when sites were run for fun instead of profit."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/AlexMulkerrin/status/1558603640583200768" ],
+    "published" : [ "2022-08-14T00:00:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1558604403443130369" ],
+    "url" : [ "https://twitter.com/hammyhavoc/status/1558604403443130369" ]
+  },
+  "type" : [ "h-entry" ]
+}
