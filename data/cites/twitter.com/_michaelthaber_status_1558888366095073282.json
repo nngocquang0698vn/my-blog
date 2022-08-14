@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Nottingham, UK." ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Mike Haber" ],
+        "nickname" : [ "michaelthaber" ],
+        "numeric-id" : [ "2803845338" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1512389567520858116/6qOMDiT6.jpg" ],
+        "published" : [ "2014-09-11T15:13:35+00:00" ],
+        "uid" : [ "tag:twitter.com:michaelthaber" ],
+        "url" : [ "https://twitter.com/michaelthaber", "http://mikehaber.co" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I'm ex 24/7 linux and now Mac. If you get offered an M1/2 go for it.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Samathy_Barratt\"></a>",
+      "value" : "I'm ex 24/7 linux and now Mac. If you get offered an M1/2 go for it."
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Samathy_Barratt/status/1558887677826453504" ],
+    "published" : [ "2022-08-14T18:48:43+00:00" ],
+    "uid" : [ "tag:twitter.com:1558888366095073282" ],
+    "url" : [ "https://twitter.com/michaelthaber/status/1558888366095073282" ]
+  },
+  "type" : [ "h-entry" ]
+}
