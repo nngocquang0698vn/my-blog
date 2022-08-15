@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/drwpow/openapi-typescript/stargazers" ],
     "published" : [ "2022-08-15T14:05:50.33898075Z" ],
     "category" : [ "openapi", "typescript" ],
     "like-of" : [ "https://github.com/drwpow/openapi-typescript" ],
