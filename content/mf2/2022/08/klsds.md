@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/AlisabethO/status/1558689254271754240" ],
     "name" : [ "Like of @AlisabethO's tweet" ],
     "published" : [ "2022-08-15T08:16:00+0100" ],
     "like-of" : [ "https://twitter.com/AlisabethO/status/1558689254271754240" ],
