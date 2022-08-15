@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Themolian/status/1559222304411901952" ],
     "name" : [ "Like of @Themolian's tweet" ],
     "published" : [ "2022-08-15T17:58:00+0100" ],
     "like-of" : [ "https://twitter.com/Themolian/status/1559222304411901952" ],
