@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/LDSCultureNerd/status/1558699920546078720" ],
     "name" : [ "Like of @LDSCultureNerd's tweet" ],
     "published" : [ "2022-08-15T08:17:00+0100" ],
     "like-of" : [ "https://twitter.com/LDSCultureNerd/status/1558699920546078720" ],
