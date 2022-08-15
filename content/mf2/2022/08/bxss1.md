@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/github" ],
+    "syndication" : [ "https://github.com/anttiviljami/openapi-backend/stargazers" ],
     "published" : [ "2022-08-15T16:10:10.11893855Z" ],
     "category" : [ "openapi", "javascript", "typescript" ],
     "like-of" : [ "https://github.com/anttiviljami/openapi-backend" ],
