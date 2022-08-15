@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ihrtLhl/status/1559106207931158529" ],
     "name" : [ "Like of @ihrtLhl's tweet" ],
     "published" : [ "2022-08-15T13:22:00+0100" ],
     "like-of" : [ "https://twitter.com/ihrtLhl/status/1559106207931158529" ],
