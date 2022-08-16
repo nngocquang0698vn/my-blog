@@ -1,0 +1,30 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Houston + Omaha" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Changelog" ],
+        "nickname" : [ "changelog" ],
+        "numeric-id" : [ "90286855" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1199065640331595776/BNCgPsAw.jpg" ],
+        "published" : [ "2009-11-16T00:47:38+00:00" ],
+        "uid" : [ "tag:twitter.com:changelog" ],
+        "url" : [ "https://twitter.com/changelog", "https://changelog.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Learning a new language, or how I gained familiarity with Go\n\n✍ by <a href=\"https://twitter.com/JamieTanna\">@jamietanna</a>\n🗄️ <a href=\"https://twitter.com/search?q=%23golang\">#golang</a> <a href=\"https://twitter.com/search?q=%23learn\">#learn</a>\n\n<a href=\"https://changelog.com/news/Eq13\">changelog.com/news/Eq13</a></div>",
+      "value" : "Learning a new language, or how I gained familiarity with Go\n\n✍ by @jamietanna\n🗄️ #golang #learn\n\nchangelog.com/news/Eq13"
+    } ],
+    "published" : [ "2022-08-16T15:43:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1559566403191054338" ],
+    "url" : [ "https://twitter.com/changelog/status/1559566403191054338" ]
+  },
+  "type" : [ "h-entry" ]
+}
