@@ -1,0 +1,49 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Dallas, TX" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Brian Denicola" ],
+          "nickname" : [ "brianjdenicola" ],
+          "numeric-id" : [ "14315641" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1293309036163735560/PniBD1go.jpg" ],
+          "published" : [ "2008-04-06T14:34:38+00:00" ],
+          "uid" : [ "tag:twitter.com:brianjdenicola" ],
+          "url" : [ "https://twitter.com/brianjdenicola", "http://www.denicolafamily.com" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "I can finally say that I have 42 years of experience with Docker !" ],
+      "photo" : [ "https://pbs.twimg.com/media/FaTF8ykWAAA3aVL.png" ],
+      "published" : [ "2022-08-16T17:13:09+00:00" ],
+      "uid" : [ "tag:twitter.com:1559589089824874498" ],
+      "url" : [ "https://twitter.com/brianjdenicola/status/1559589089824874498" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "name" : [ "Solomon Hykes" ],
+        "nickname" : [ "solomonstre" ],
+        "numeric-id" : [ "9551792" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1481072550570381315/hMBPQ9K-.jpg" ],
+        "published" : [ "2007-10-19T22:03:37+00:00" ],
+        "uid" : [ "tag:twitter.com:solomonstre" ],
+        "url" : [ "https://twitter.com/solomonstre", "http://dagger.io" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I can relate, working on Docker definitely made me age at least 42 years." ],
+    "published" : [ "2022-08-16T20:38:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1559640785313665029" ],
+    "url" : [ "https://twitter.com/solomonstre/status/1559640785313665029" ]
+  },
+  "type" : [ "h-entry" ]
+}
