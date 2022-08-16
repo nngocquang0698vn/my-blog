@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mujzayy/status/1559626261747699716" ],
     "name" : [ "Like of @mujzayy's tweet" ],
     "published" : [ "2022-08-16T22:09:00+0100" ],
     "like-of" : [ "https://twitter.com/mujzayy/status/1559626261747699716" ],
