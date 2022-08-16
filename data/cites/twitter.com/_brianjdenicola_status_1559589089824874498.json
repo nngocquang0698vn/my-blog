@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Dallas, TX" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brian Denicola" ],
+        "nickname" : [ "brianjdenicola" ],
+        "numeric-id" : [ "14315641" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1293309036163735560/PniBD1go.jpg" ],
+        "published" : [ "2008-04-06T14:34:38+00:00" ],
+        "uid" : [ "tag:twitter.com:brianjdenicola" ],
+        "url" : [ "https://twitter.com/brianjdenicola", "http://www.denicolafamily.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I can finally say that I have 42 years of experience with Docker !" ],
+    "photo" : [ "https://pbs.twimg.com/media/FaTF8ykWAAA3aVL.png" ],
+    "published" : [ "2022-08-16T17:13:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1559589089824874498" ],
+    "url" : [ "https://twitter.com/brianjdenicola/status/1559589089824874498" ]
+  },
+  "type" : [ "h-entry" ]
+}
