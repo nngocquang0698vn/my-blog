@@ -5,7 +5,7 @@
   "h" : "h-entry",
   "properties" : {
     "in-reply-to" : [ "https://twitter.com/CarolSaysThings/status/1559440919291695111" ],
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JamieTanna/status/1559443759401771009" ],
     "published" : [ "2022-08-16T08:26:00+0100" ],
     "post-status" : [ "published" ],
     "content" : [ {
