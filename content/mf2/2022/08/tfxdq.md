@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/nirushika/status/1559940556796600320" ],
     "name" : [ "Like of @nirushika's tweet" ],
     "published" : [ "2022-08-17T17:32:00+0100" ],
     "like-of" : [ "https://twitter.com/nirushika/status/1559940556796600320" ],
