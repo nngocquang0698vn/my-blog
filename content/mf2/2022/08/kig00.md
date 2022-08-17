@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/P_Ensarguet/status/1559994902766911492" ],
     "name" : [ "Like of @P_Ensarguet's tweet" ],
     "published" : [ "2022-08-17T21:10:00+0100" ],
     "like-of" : [ "https://twitter.com/P_Ensarguet/status/1559994902766911492" ],
