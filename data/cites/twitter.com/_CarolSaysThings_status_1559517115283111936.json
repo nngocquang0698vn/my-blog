@@ -1,0 +1,54 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Brooklyn, NY" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Anna Lytical: coding drag queen" ],
+          "nickname" : [ "theannalytical" ],
+          "numeric-id" : [ "904194049929830400" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1537754497581297666/EKh2jd9v.jpg" ],
+          "published" : [ "2017-09-03T04:07:15+00:00" ],
+          "uid" : [ "tag:twitter.com:theannalytical" ],
+          "url" : [ "https://twitter.com/theannalytical", "https://linktr.ee/theAnnaLytical" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Note to self: remember to put things in the backlog rather than just starting every task thrown your way" ],
+      "published" : [ "2022-08-15T20:08:45+00:00" ],
+      "uid" : [ "tag:twitter.com:1559270894379405312" ],
+      "url" : [ "https://twitter.com/theannalytical/status/1559270894379405312" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "🇧🇷🇺🇾🇪🇸🇬🇧 · Nottingham" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carol ✈️🇮🇹😌" ],
+        "nickname" : [ "CarolSaysThings" ],
+        "numeric-id" : [ "36382927" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1499765989831065607/fzAUmgRa.jpg" ],
+        "published" : [ "2009-04-29T15:22:13+00:00" ],
+        "uid" : [ "tag:twitter.com:CarolSaysThings" ],
+        "url" : [ "https://twitter.com/CarolSaysThings", "https://carol.gg" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "i need to get this tattooed on my arm" ],
+    "published" : [ "2022-08-16T12:27:09+00:00" ],
+    "uid" : [ "tag:twitter.com:1559517115283111936" ],
+    "url" : [ "https://twitter.com/CarolSaysThings/status/1559517115283111936" ]
+  },
+  "type" : [ "h-entry" ]
+}
