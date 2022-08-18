@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Carolyn" ],
+        "nickname" : [ "carolstran" ],
+        "numeric-id" : [ "837424448085110784" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1364910845092847616/Y1sXcsnQ.jpg" ],
+        "published" : [ "2017-03-02T22:08:41+00:00" ],
+        "uid" : [ "tag:twitter.com:carolstran" ],
+        "url" : [ "https://twitter.com/carolstran", "https://workwithcarolyn.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I like you and also strong relate!!!\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/bitandbang\"></a>",
+      "value" : "I like you and also strong relate!!!"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/bitandbang/status/1560156959831216132" ],
+    "published" : [ "2022-08-18T08:16:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1560178831033602048" ],
+    "url" : [ "https://twitter.com/carolstran/status/1560178831033602048" ]
+  },
+  "type" : [ "h-entry" ]
+}
