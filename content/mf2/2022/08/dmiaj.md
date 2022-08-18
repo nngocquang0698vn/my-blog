@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/dddeastmidlands/status/1560185927036805120" ],
     "name" : [ "Like of @dddeastmidlands's tweet" ],
     "published" : [ "2022-08-18T12:54:00+0100" ],
     "category" : [ "dddem" ],
