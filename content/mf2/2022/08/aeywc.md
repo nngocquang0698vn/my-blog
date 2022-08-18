@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CatsOfYore/status/1559790117518180352" ],
     "name" : [ "Like of @CatsOfYore's tweet" ],
     "published" : [ "2022-08-18T19:57:00+0100" ],
     "category" : [ "cute" ],
