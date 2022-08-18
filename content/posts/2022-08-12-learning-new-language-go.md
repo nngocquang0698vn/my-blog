@@ -56,7 +56,7 @@ These small pieces of automation are a huge part of my quality-of-life and impro
 
 # `shorten`, a CLI tool for Bitly URL shortening
 
-For a while I'd been thinking about using my short domain `u.jvt.me` a bit more. It was originally mean to be more useful when I was posting to `jamietanna.co.uk`, but since my identity is now `www.jvt.me`, the shorter `u.` didn't make as much sense.
+For a while I'd been thinking about using my short domain `u.jvt.me` a bit more. It was originally meant to be more useful when I was posting to `jamietanna.co.uk`, but since my identity is now `www.jvt.me`, the shorter `u.` didn't make as much sense.
 
 But regardless, I thought it'd be good as a chance to more easily shorten URLs, especially as I'd been wanting to look a bit more [generating Go code from OpenAPI](https://www.jvt.me/posts/2022/04/06/generate-go-client-openapi/), ahead of hoping to make use of OpenAPI-driven code generation in the new job.
 
