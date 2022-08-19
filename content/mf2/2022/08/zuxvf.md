@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/ScribblingOn/status/1559889100248911873" ],
     "name" : [ "Like of @ScribblingOn's tweet" ],
     "published" : [ "2022-08-19T15:18:00+0100" ],
     "like-of" : [ "https://twitter.com/ScribblingOn/status/1559889100248911873" ],
