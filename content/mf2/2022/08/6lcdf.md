@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/CarolSaysThings/status/1560276285129048071" ],
     "name" : [ "Like of @CarolSaysThings's tweet" ],
     "published" : [ "2022-08-19T10:59:00+0100" ],
     "category" : [ "cryptocurrency", "art" ],
