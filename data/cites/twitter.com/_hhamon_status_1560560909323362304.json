@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "48.899694,2.309307" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Hugo Hamon" ],
+        "nickname" : [ "hhamon" ],
+        "numeric-id" : [ "28322862" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1235339752636919810/pm-Zve1q.jpg" ],
+        "published" : [ "2009-04-02T11:51:55+00:00" ],
+        "uid" : [ "tag:twitter.com:hhamon" ],
+        "url" : [ "https://twitter.com/hhamon", "https://fr.linkedin.com/in/hugohamon" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "You mispelled \"Copilot\", it's \"Copirate\" !\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/ProgrammerDude\"></a>",
+      "value" : "You mispelled \"Copilot\", it's \"Copirate\" !"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/ProgrammerDude/status/1560548247286022145" ],
+    "published" : [ "2022-08-19T09:34:49+00:00" ],
+    "uid" : [ "tag:twitter.com:1560560909323362304" ],
+    "url" : [ "https://twitter.com/hhamon/status/1560560909323362304" ]
+  },
+  "type" : [ "h-entry" ]
+}
