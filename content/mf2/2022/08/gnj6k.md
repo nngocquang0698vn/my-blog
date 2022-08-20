@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/sexeducation/status/1560642745269571584" ],
     "name" : [ "Like of @sexeducation's tweet" ],
     "published" : [ "2022-08-20T08:12:00+0100" ],
     "like-of" : [ "https://twitter.com/sexeducation/status/1560642745269571584" ],
