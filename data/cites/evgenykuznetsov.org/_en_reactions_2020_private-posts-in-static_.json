@@ -1,0 +1,26 @@
+{
+  "type" : [ "h-entry" ],
+  "properties" : {
+    "url" : [ "https://evgenykuznetsov.org/en/reactions/2020/private-posts-in-static/" ],
+    "in-reply-to" : [ "https://www.jvt.me/posts/2020/08/26/static-site-private-posts/" ],
+    "published" : [ "2020-08-27T08:44:46+0300" ],
+    "updated" : [ "2021-08-14T22:55:02+0300" ],
+    "content" : [ {
+      "html" : "<p>Interesting. So basically you have a static site, but <code>www-private</code> is a separate dynamic part for serving <em>limited-eyes-only</em> content? I&#x2019;ll be very interested to see how this turns out without <code>www-private</code> evolving into a separate full-blown dynamic CMS on its own. ;)</p>",
+      "value" : "Interesting. So basically you have a static site, but www-private is a separate dynamic part for serving limited-eyes-only content? I’ll be very interested to see how this turns out without www-private evolving into a separate full-blown dynamic CMS on its own. ;)",
+      "lang" : "en"
+    } ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "Evgeny Kuznetsov" ],
+        "sex" : [ "M" ],
+        "url" : [ "https://evgenykuznetsov.org" ],
+        "photo" : [ "https://evgenykuznetsov.org/img/wed_hu9e00c2bdd111c1606346a3a16d35fd52_87356_150x150_fit_q90_box.jpg" ]
+      },
+      "lang" : "en",
+      "value" : "Evgeny Kuznetsov"
+    } ]
+  },
+  "lang" : "en"
+}
