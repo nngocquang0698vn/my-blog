@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/KrauseFx/status/1560370732705742848" ],
     "name" : [ "Like of @KrauseFx's tweet" ],
     "published" : [ "2022-08-20T11:48:00+0100" ],
     "category" : [ "tiktok", "privacy" ],
