@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "https://howisFelix.today" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Felix Krause" ],
+        "nickname" : [ "KrauseFx" ],
+        "numeric-id" : [ "50055757" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1130377046616625152/QUqMEpG6.png" ],
+        "published" : [ "2009-06-23T18:24:14+00:00" ],
+        "uid" : [ "tag:twitter.com:KrauseFx" ],
+        "url" : [ "https://twitter.com/KrauseFx", "https://krausefx.com/about", "http://fastlane.tools", "http://iOS-factor.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">🔥 New Post: Announcing InAppBrowser - see what JavaScript commands get injected through an in-app browser\n\n👀 TikTok, when opening any website in their app, injects tracking code that can monitor all keystrokes, including passwords, and all taps.\n\n<a href=\"https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser\">krausefx.com/blog/announcin…</a></div>",
+      "value" : "🔥 New Post: Announcing InAppBrowser - see what JavaScript commands get injected through an in-app browser\n\n👀 TikTok, when opening any website in their app, injects tracking code that can monitor all keystrokes, including passwords, and all taps.\n\nkrausefx.com/blog/announcin…"
+    } ],
+    "photo" : [ "https://pbs.twimg.com/media/FaeM575XoAEbO11.png" ],
+    "published" : [ "2022-08-18T20:59:07+00:00" ],
+    "uid" : [ "tag:twitter.com:1560370732705742848" ],
+    "url" : [ "https://twitter.com/KrauseFx/status/1560370732705742848" ]
+  },
+  "type" : [ "h-entry" ]
+}
