@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/orientaljanedoe/status/1560641275119996928" ],
     "name" : [ "Like of @orientaljanedoe's tweet" ],
     "published" : [ "2022-08-20T21:45:00+0100" ],
     "like-of" : [ "https://twitter.com/orientaljanedoe/status/1560641275119996928" ],
