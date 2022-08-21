@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Crypt0Kirito/status/1561412590839992323" ],
     "name" : [ "Like of @Crypt0Kirito's tweet" ],
     "published" : [ "2022-08-21T20:54:00+0100" ],
     "like-of" : [ "https://twitter.com/Crypt0Kirito/status/1561412590839992323" ],
