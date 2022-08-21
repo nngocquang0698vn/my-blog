@@ -1,0 +1,61 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Phoenix, AZ" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Darren Shepherd" ],
+          "nickname" : [ "ibuildthecloud" ],
+          "numeric-id" : [ "1591197324" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/482750788519731201/Fcs5tabg.jpeg" ],
+          "published" : [ "2013-07-13T15:16:57+00:00" ],
+          "uid" : [ "tag:twitter.com:ibuildthecloud" ],
+          "url" : [ "https://twitter.com/ibuildthecloud", "https://acorn.io" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "FWIW today is the first time in months I’ve been able to view your profile without a warning.\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Twitter\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/krisnova\"></a>",
+        "value" : "FWIW today is the first time in months I’ve been able to view your profile without a warning."
+      } ],
+      "in-reply-to" : [ "https://twitter.com/krisnova/status/1560706447343620096" ],
+      "published" : [ "2022-08-21T00:23:16+00:00" ],
+      "uid" : [ "tag:twitter.com:1561146884172836866" ],
+      "url" : [ "https://twitter.com/ibuildthecloud/status/1561146884172836866" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Kris Nóva" ],
+        "nickname" : [ "krisnova" ],
+        "numeric-id" : [ "3236271451" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1542524892263976960/Gqi9PTFa.jpg" ],
+        "published" : [ "2015-06-04T19:13:46+00:00" ],
+        "uid" : [ "tag:twitter.com:krisnova" ],
+        "url" : [ "https://twitter.com/krisnova", "https://twitch.tv/krisnova" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">Can confirm. <a href=\"https://twitter.com/Twitter\">@Twitter</a> finally fixed my shit. It has been almost 2 years. Wow.\n\nAll it took was making it to the front page of hacker news, a petition, a medium blog post, 37 emails to support, reverse engineering their API and a GitHub issue with over 100 contributions.</div>",
+      "value" : "Can confirm. @Twitter finally fixed my shit. It has been almost 2 years. Wow.\n\nAll it took was making it to the front page of hacker news, a petition, a medium blog post, 37 emails to support, reverse engineering their API and a GitHub issue with over 100 contributions."
+    } ],
+    "published" : [ "2022-08-21T00:36:21+00:00" ],
+    "uid" : [ "tag:twitter.com:1561150175552454656" ],
+    "url" : [ "https://twitter.com/krisnova/status/1561150175552454656" ]
+  },
+  "type" : [ "h-entry" ]
+}
