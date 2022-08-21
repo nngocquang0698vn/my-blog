@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrianScottLang/status/1560854063134408704" ],
     "name" : [ "Like of @BrianScottLang's tweet" ],
     "published" : [ "2022-08-21T17:10:00+0100" ],
     "like-of" : [ "https://twitter.com/BrianScottLang/status/1560854063134408704" ],
