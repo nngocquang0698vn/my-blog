@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/gatodejazz/status/1556531544671391744" ],
     "name" : [ "Like of @gatodejazz's tweet" ],
     "published" : [ "2022-08-21T11:02:00+0100" ],
     "like-of" : [ "https://twitter.com/gatodejazz/status/1556531544671391744" ],
