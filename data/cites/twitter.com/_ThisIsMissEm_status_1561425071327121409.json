@@ -1,0 +1,67 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "location" : [ {
+            "properties" : {
+              "name" : [ "Berlin, Germany" ]
+            },
+            "type" : [ "h-card", "p-location" ]
+          } ],
+          "name" : [ "Emelia 👸🏻 • 💙💛" ],
+          "nickname" : [ "ThisIsMissEm" ],
+          "numeric-id" : [ "14063149" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1488213971928858625/dZdcl1hl.jpg" ],
+          "published" : [ "2008-03-01T01:50:08+00:00" ],
+          "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+          "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ {
+        "html" : "So you slow down every git operation you do because someone might have forgotten to setup their editor correctly? (Not to mention these tools often choke when staging partial files or when rebasing)\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/NickOlszanski\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/niblince\"></a>\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/stevendotjs\"></a>",
+        "value" : "So you slow down every git operation you do because someone might have forgotten to setup their editor correctly? (Not to mention these tools often choke when staging partial files or when rebasing)"
+      } ],
+      "in-reply-to" : [ "https://twitter.com/NickOlszanski/status/1561423948557975553" ],
+      "published" : [ "2022-08-21T18:46:13+00:00" ],
+      "uid" : [ "tag:twitter.com:1561424449257480193" ],
+      "url" : [ "https://twitter.com/ThisIsMissEm/status/1561424449257480193" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  }, {
+    "properties" : {
+      "name" : [ "twitter.com/thisismissem/s…" ],
+      "url" : [ "https://twitter.com/thisismissem/status/1561424449257480193" ]
+    },
+    "type" : [ "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Berlin, Germany" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Emelia 👸🏻 • 💙💛" ],
+        "nickname" : [ "ThisIsMissEm" ],
+        "numeric-id" : [ "14063149" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1488213971928858625/dZdcl1hl.jpg" ],
+        "published" : [ "2008-03-01T01:50:08+00:00" ],
+        "uid" : [ "tag:twitter.com:ThisIsMissEm" ],
+        "url" : [ "https://twitter.com/ThisIsMissEm", "https://medium.com/@thisismissem/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "I will stand by this: husky &amp; tools like it were completely unnecessary to add into development workflows and are something of a cargo cult. They don't really add anything.\n<a class=\"tag\" href=\"https://twitter.com/thisismissem/status/1561424449257480193\">twitter.com/thisismissem/s…</a>",
+      "value" : "I will stand by this: husky & tools like it were completely unnecessary to add into development workflows and are something of a cargo cult. They don't really add anything."
+    } ],
+    "published" : [ "2022-08-21T18:48:41+00:00" ],
+    "uid" : [ "tag:twitter.com:1561425071327121409" ],
+    "url" : [ "https://twitter.com/ThisIsMissEm/status/1561425071327121409" ]
+  },
+  "type" : [ "h-entry" ]
+}
