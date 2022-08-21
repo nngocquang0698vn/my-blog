@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Earth, Solar System" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Vladi" ],
+        "nickname" : [ "vbjelak" ],
+        "numeric-id" : [ "10569482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1092578709511520256/S-zdTqJW.jpg" ],
+        "published" : [ "2007-11-25T20:55:42+00:00" ],
+        "uid" : [ "tag:twitter.com:vbjelak" ],
+        "url" : [ "https://twitter.com/vbjelak" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<a href=\"https://twitter.com/wallabagapp\">@wallabagapp</a> for self hosting or <a href=\"https://twitter.com/wallabagit\">@wallabagit</a> for a small fee\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/plantpowerjames\"></a>",
+      "value" : "@wallabagapp for self hosting or @wallabagit for a small fee"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/plantpowerjames/status/1560920634523271169" ],
+    "published" : [ "2022-08-20T12:17:38+00:00" ],
+    "uid" : [ "tag:twitter.com:1560964274352160770" ],
+    "url" : [ "https://twitter.com/vbjelak/status/1560964274352160770" ]
+  },
+  "type" : [ "h-entry" ]
+}
