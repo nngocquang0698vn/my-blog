@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "New York, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Sigma Margaux" ],
+        "nickname" : [ "SigmaMargaux" ],
+        "numeric-id" : [ "1495352227128619009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1551864243653410821/jgA7VQZH.jpg" ],
+        "published" : [ "2022-02-20T10:58:59+00:00" ],
+        "uid" : [ "tag:twitter.com:SigmaMargaux" ],
+        "url" : [ "https://twitter.com/SigmaMargaux", "http://markets.sh" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "Ever occurred to you that this is an ad?\n<a class=\"u-mention\" aria-hidden=\"true\" href=\"https://twitter.com/Cokedupoptions\"></a>",
+      "value" : "Ever occurred to you that this is an ad?"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/Cokedupoptions/status/1561371678478934016" ],
+    "published" : [ "2022-08-21T16:36:35+00:00" ],
+    "uid" : [ "tag:twitter.com:1561391828808699904" ],
+    "url" : [ "https://twitter.com/SigmaMargaux/status/1561391828808699904" ]
+  },
+  "type" : [ "h-entry" ]
+}
