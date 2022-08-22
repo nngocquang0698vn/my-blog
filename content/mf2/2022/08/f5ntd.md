@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Addison_Peacock/status/1561522900892405760" ],
     "name" : [ "Like of @Addison_Peacock's tweet" ],
     "published" : [ "2022-08-22T15:59:00+0100" ],
     "like-of" : [ "https://twitter.com/Addison_Peacock/status/1561522900892405760" ],
