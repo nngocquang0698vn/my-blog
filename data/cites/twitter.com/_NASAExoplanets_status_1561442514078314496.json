@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Beyond" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "NASA Exoplanets" ],
+        "nickname" : [ "NASAExoplanets" ],
+        "numeric-id" : [ "17781165" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1323321342154829824/7nQklAls.jpg" ],
+        "published" : [ "2008-12-01T15:37:03+00:00" ],
+        "uid" : [ "tag:twitter.com:NASAExoplanets" ],
+        "url" : [ "https://twitter.com/NASAExoplanets", "http://exoplanets.nasa.gov" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The misconception that there is no sound in space originates because most space is a ~vacuum, providing no way for sound waves to travel. A galaxy cluster has so much gas that we've picked up actual sound. Here it's amplified, and mixed with other data, to hear a black hole!" ],
+    "published" : [ "2022-08-21T19:58:00+00:00" ],
+    "uid" : [ "tag:twitter.com:1561442514078314496" ],
+    "url" : [ "https://twitter.com/NASAExoplanets/status/1561442514078314496" ],
+    "video" : [ "https://video.twimg.com/amplify_video/1560740795212214273/vid/720x720/LAeEqX-IRjSuv005.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
