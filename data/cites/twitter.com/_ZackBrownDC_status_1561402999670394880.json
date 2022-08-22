@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "DC" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Zack Brown" ],
+        "nickname" : [ "ZackBrownDC" ],
+        "numeric-id" : [ "1426543527287304192" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1550175381172502531/HuYMx4yO.jpg" ],
+        "published" : [ "2021-08-14T13:57:42+00:00" ],
+        "uid" : [ "tag:twitter.com:ZackBrownDC" ],
+        "url" : [ "https://twitter.com/ZackBrownDC", "http://www.zackbrown.us" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "George Lucas randomly appearing in the background of this dude's documentary will never not be hilarious to me." ],
+    "published" : [ "2022-08-21T17:20:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1561402999670394880" ],
+    "url" : [ "https://twitter.com/ZackBrownDC/status/1561402999670394880" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1561402757189406720/pu/vid/1280x720/hOqHVpvFxT5h2oGJ.mp4?tag=14" ]
+  },
+  "type" : [ "h-entry" ]
+}
