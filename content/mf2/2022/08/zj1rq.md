@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/shriiiitt/status/1561536443540918272" ],
     "name" : [ "Like of @shriiiitt's tweet" ],
     "published" : [ "2022-08-22T22:36:00+0100" ],
     "category" : [ "game-of-thrones" ],
