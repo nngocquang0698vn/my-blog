@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/BrickinNick/status/1560688029357989888" ],
     "name" : [ "Like of @BrickinNick's tweet" ],
     "published" : [ "2022-08-22T08:13:00+0100" ],
     "category" : [ "memes", "lego" ],
