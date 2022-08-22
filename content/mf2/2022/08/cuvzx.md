@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/StardustMaiden/status/1561556237199745024" ],
     "name" : [ "Like of @StardustMaiden's tweet" ],
     "published" : [ "2022-08-22T13:01:00+0100" ],
     "like-of" : [ "https://twitter.com/StardustMaiden/status/1561556237199745024" ],
