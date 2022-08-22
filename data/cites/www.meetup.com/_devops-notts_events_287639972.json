@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "*IN-PERSON* Repo and branching strategy!" ],
+    "description" : [ {
+      "html" : "Talk Description;\nRepository and branching strategy. A talk explaining the different ways to structure code repositories, detailing Pros and Cons, when you could separate source code, CI code and IAC, briefly touching on application architecture and how monolithic and microservice design decisions can influence repo structure. Also how we can create effective branching processes using either gitflow or trunk based development.\n\nSpeaker Bio;\nAndy has worked for 18 years in technology with the majority of that as a Network and Telecoms engineer. Before making the move to Cloud and all things DevOps.\n\nHe currently works as a Platform Engineer at BJSS based in Nottingham, he has also worked at Capital One as an Infrastructure Engineer and at AWS Professional Services as a DevOps Consultant.\n\nHe has designed and built serverless applications, ETL solutions, data warehouse solutions and digital forensics platforms for a variety of commercial and public sector customers.\n\n(Get in touch with him here; [https://LinkedIn.com/in/Andrew-Scott-mcmi](https://LinkedIn.com/in/Andrew-Scott-mcmi))\n\nAgenda;\n18:30; Doors Open\n19:00; Andy Scott delivers his talk\n19:45; Pizza and catch up\n20:00; wrap up",
+      "value" : "Talk Description;\nRepository and branching strategy. A talk explaining the different ways to structure code repositories, detailing Pros and Cons, when you could separate source code, CI code and IAC, briefly touching on application architecture and how monolithic and microservice design decisions can influence repo structure. Also how we can create effective branching processes using either gitflow or trunk based development.\n\nSpeaker Bio;\nAndy has worked for 18 years in technology with the majority of that as a Network and Telecoms engineer. Before making the move to Cloud and all things DevOps.\n\nHe currently works as a Platform Engineer at BJSS based in Nottingham, he has also worked at Capital One as an Infrastructure Engineer and at AWS Professional Services as a DevOps Consultant.\n\nHe has designed and built serverless applications, ETL solutions, data warehouse solutions and digital forensics platforms for a variety of commercial and public sector customers.\n\n(Get in touch with him here; [https://LinkedIn.com/in/Andrew-Scott-mcmi](https://LinkedIn.com/in/Andrew-Scott-mcmi))\n\nAgenda;\n18:30; Doors Open\n19:00; Andy Scott delivers his talk\n19:45; Pizza and catch up\n20:00; wrap up"
+    } ],
+    "start" : [ "2022-08-30T18:30+01:00" ],
+    "end" : [ "2022-08-30T20:00+01:00" ],
+    "url" : [ "https://www.meetup.com/devops-notts/events/287639972" ],
+    "location" : [ "Rebel Recruiters, Huntingdon Street, Nottingham, NG1 3BY, gb" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "DevOps Notts" ],
+        "photo" : [ "https://secure-content.meetupstatic.com/images/classic-events/482948609/600x600.webp" ],
+        "url" : [ "https://www.meetup.com/devops-notts" ]
+      },
+      "value" : "DevOps Notts"
+    } ]
+  }
+}
