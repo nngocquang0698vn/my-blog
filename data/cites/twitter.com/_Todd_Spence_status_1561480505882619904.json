@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Los Angeles" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "SPENCE, TODD" ],
+        "nickname" : [ "Todd_Spence" ],
+        "numeric-id" : [ "175264457" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1439390884269727744/yZj2HdZY.jpg" ],
+        "published" : [ "2010-08-06T03:39:37+00:00" ],
+        "uid" : [ "tag:twitter.com:Todd_Spence" ],
+        "url" : [ "https://twitter.com/Todd_Spence", "https://www.youtube.com/midnightvideo", "http://instagram.com/toddspenceplus/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Matt Damon explains why they don't make movies like they used to." ],
+    "published" : [ "2022-08-21T22:28:58+00:00" ],
+    "uid" : [ "tag:twitter.com:1561480505882619904" ],
+    "url" : [ "https://twitter.com/Todd_Spence/status/1561480505882619904" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1561480457631305728/pu/vid/1280x720/Rb3utO0ry6rzE_il.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
