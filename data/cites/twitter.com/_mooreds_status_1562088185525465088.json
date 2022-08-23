@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Boulder, CO" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Dan Moore" ],
+        "nickname" : [ "mooreds" ],
+        "numeric-id" : [ "5166091" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/420369960/dsm-bw.jpg" ],
+        "published" : [ "2007-04-18T23:38:12+00:00" ],
+        "uid" : [ "tag:twitter.com:mooreds" ],
+        "url" : [ "https://twitter.com/mooreds", "https://www.mooreds.com/wordpress/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">A few weeks ago the <a href=\"https://twitter.com/FusionAuth\">@FusionAuth</a> team went to <a href=\"https://twitter.com/kc_dc\">@kc_dc</a>. We had a great time chatting with folks, talking <a href=\"https://twitter.com/search?q=%23webauthn\">#webauthn</a>, discussing dev's <a href=\"https://twitter.com/search?q=%23auth\">#auth</a> challenges, and, oh yeah, feasting on KC BBQ.\n\nHere's team members Tharon and Evan preparing to dig in at <a href=\"https://twitter.com/jackstackbbq\">@jackstackbbq</a></div>",
+      "value" : "A few weeks ago the @FusionAuth team went to @kc_dc. We had a great time chatting with folks, talking #webauthn, discussing dev's #auth challenges, and, oh yeah, feasting on KC BBQ.\n\nHere's team members Tharon and Evan preparing to dig in at @jackstackbbq"
+    } ],
+    "photo" : [ {
+      "alt" : "Two people at a restaurant getting ready to eat barbecue.",
+      "value" : "https://pbs.twimg.com/media/Fa2m7OGUEAABTfa.jpg"
+    } ],
+    "published" : [ "2022-08-23T14:43:40+00:00" ],
+    "uid" : [ "tag:twitter.com:1562088185525465088" ],
+    "url" : [ "https://twitter.com/mooreds/status/1562088185525465088" ]
+  },
+  "type" : [ "h-entry" ]
+}
