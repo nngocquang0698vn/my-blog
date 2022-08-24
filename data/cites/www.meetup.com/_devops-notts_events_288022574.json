@@ -1,0 +1,23 @@
+{
+  "type" : [ "h-event" ],
+  "properties" : {
+    "name" : [ "The Wonders and Woes of Webhooks (in Kubernetes)" ],
+    "description" : [ {
+      "html" : "**The Talk;**\n**The Wonders and Woes of Webhooks (in Kubernetes)**\nSince introduced in Kubernetes v1.9, webhooks have been a key feature, making up one of the cornerstones of Kubernetes extensibility. When used right, they can allow operators to have much more control over their clusters and with tooling like Kyverno and Gatekeeper it’s easier than ever to leverage their full power. But, when misused, things can get very, very messy.\nSo how do we ensure our webhooks are full of wonders and not woes?\nBy taking a look at the history of webhooks in Kubernetes, the driving force behind their adoption and through several horror stories of webhooks gone wrong, we can develop a set of best practices and guidelines to follow to ensure our webhooks stay full of wonder without the woes.\n\n**Speaker Bio** \\- Marcus is a platform engineer at Giant Swarm\\, a company dedicated to offering managed Kubernetes solutions\\. His main area of focus in recent years has been around Go\\, Kubernetes\\, containers and DevOps but originally started out as a web developer and JavaScript enthusiast\\. A self\\-described \"tinkerer\"\\, when not building Kubernetes solutions\\, Marcus likes to dabble with 3D printing and experimenting with smart home tech\\.\nFind Marcus on socials;\nTwitter; [https://twitter.com/Marcus_Noble_](https://twitter.com/Marcus_Noble_)\nLinkedIn; [https://www.linkedin.com/in/marcusnoble/](https://www.linkedin.com/in/marcusnoble/)\nBlog; [https://marcusnoble.co.uk/](https://marcusnoble.co.uk/)\n\n**Agenda**;\n\n18:30; Doors Open\n19:00; Marcus Noble delivers his talk\n19:45; Pizza and catch up\n20:00; wrap up",
+      "value" : "**The Talk;**\n**The Wonders and Woes of Webhooks (in Kubernetes)**\nSince introduced in Kubernetes v1.9, webhooks have been a key feature, making up one of the cornerstones of Kubernetes extensibility. When used right, they can allow operators to have much more control over their clusters and with tooling like Kyverno and Gatekeeper it’s easier than ever to leverage their full power. But, when misused, things can get very, very messy.\nSo how do we ensure our webhooks are full of wonders and not woes?\nBy taking a look at the history of webhooks in Kubernetes, the driving force behind their adoption and through several horror stories of webhooks gone wrong, we can develop a set of best practices and guidelines to follow to ensure our webhooks stay full of wonder without the woes.\n\n**Speaker Bio** \\- Marcus is a platform engineer at Giant Swarm\\, a company dedicated to offering managed Kubernetes solutions\\. His main area of focus in recent years has been around Go\\, Kubernetes\\, containers and DevOps but originally started out as a web developer and JavaScript enthusiast\\. A self\\-described \"tinkerer\"\\, when not building Kubernetes solutions\\, Marcus likes to dabble with 3D printing and experimenting with smart home tech\\.\nFind Marcus on socials;\nTwitter; [https://twitter.com/Marcus_Noble_](https://twitter.com/Marcus_Noble_)\nLinkedIn; [https://www.linkedin.com/in/marcusnoble/](https://www.linkedin.com/in/marcusnoble/)\nBlog; [https://marcusnoble.co.uk/](https://marcusnoble.co.uk/)\n\n**Agenda**;\n\n18:30; Doors Open\n19:00; Marcus Noble delivers his talk\n19:45; Pizza and catch up\n20:00; wrap up"
+    } ],
+    "start" : [ "2022-09-27T18:30+01:00" ],
+    "end" : [ "2022-09-27T20:00+01:00" ],
+    "url" : [ "https://www.meetup.com/devops-notts/events/288022574" ],
+    "location" : [ "Rebel Recruiters, Huntingdon Street, Nottingham, NG1 3BY, gb" ],
+    "author" : [ {
+      "type" : [ "h-card" ],
+      "properties" : {
+        "name" : [ "DevOps Notts" ],
+        "photo" : [ "https://secure-content.meetupstatic.com/images/classic-events/482948609/600x600.webp" ],
+        "url" : [ "https://www.meetup.com/devops-notts" ]
+      },
+      "value" : "DevOps Notts"
+    } ]
+  }
+}
