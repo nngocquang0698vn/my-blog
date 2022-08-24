@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/mar15sa/status/1562546535480512512" ],
     "name" : [ "Like of @mar15sa's tweet" ],
     "published" : [ "2022-08-24T22:13:00+0100" ],
     "like-of" : [ "https://twitter.com/mar15sa/status/1562546535480512512" ],
