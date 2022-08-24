@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Colorado, USA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Marissa Goldberg" ],
+        "nickname" : [ "mar15sa" ],
+        "numeric-id" : [ "3035393668" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/566329118489194496/f_ALTi7v.jpeg" ],
+        "published" : [ "2015-02-13T20:10:57+00:00" ],
+        "uid" : [ "tag:twitter.com:mar15sa" ],
+        "url" : [ "https://twitter.com/mar15sa", "https://marissagoldberg.com/" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">I've worked with companies leading excellent async-first teams using simply Slack and Notion.\n\nYou don't need lots of fancy tools.\n\nYou do need:\n• Good meeting habits\n• Clear comms expectations\n• Updated tool settings/processes</div>",
+      "value" : "I've worked with companies leading excellent async-first teams using simply Slack and Notion.\n\nYou don't need lots of fancy tools.\n\nYou do need:\n• Good meeting habits\n• Clear comms expectations\n• Updated tool settings/processes"
+    } ],
+    "in-reply-to" : [ "https://twitter.com/mar15sa/status/1562457914450644992" ],
+    "published" : [ "2022-08-24T21:04:59+00:00" ],
+    "uid" : [ "tag:twitter.com:1562546535480512512" ],
+    "url" : [ "https://twitter.com/mar15sa/status/1562546535480512512" ]
+  },
+  "type" : [ "h-entry" ]
+}
