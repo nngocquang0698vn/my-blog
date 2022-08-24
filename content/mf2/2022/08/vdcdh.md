@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/maisieccino/status/1562357804849037312" ],
     "name" : [ "Like of @maisieccino's tweet" ],
     "published" : [ "2022-08-24T12:40:00+0100" ],
     "like-of" : [ "https://twitter.com/maisieccino/status/1562357804849037312" ],
