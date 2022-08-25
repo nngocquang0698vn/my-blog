@@ -1,0 +1,27 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "San Francisco, CA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Matthew Garrett" ],
+        "nickname" : [ "mjg59" ],
+        "numeric-id" : [ "229502009" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/459378005689630720/4f7Dml5q.png" ],
+        "published" : [ "2010-12-22T15:28:52+00:00" ],
+        "uid" : [ "tag:twitter.com:mjg59" ],
+        "url" : [ "https://twitter.com/mjg59", "http://mjg59.dreamwidth.org" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "I think the world would be a better place if we viewed forks of free software as officially endorsed fan fiction" ],
+    "published" : [ "2022-08-25T10:03:33+00:00" ],
+    "uid" : [ "tag:twitter.com:1562742468973473792" ],
+    "url" : [ "https://twitter.com/mjg59/status/1562742468973473792" ]
+  },
+  "type" : [ "h-entry" ]
+}
