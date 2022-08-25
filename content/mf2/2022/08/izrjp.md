@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/Trantifa/status/1562652760528416769" ],
     "name" : [ "Like of @Trantifa's tweet" ],
     "published" : [ "2022-08-25T07:31:00+0100" ],
     "like-of" : [ "https://twitter.com/Trantifa/status/1562652760528416769" ],
