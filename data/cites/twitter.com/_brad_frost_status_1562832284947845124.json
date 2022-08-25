@@ -1,0 +1,31 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Pittsburgh, PA" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Brad Frost" ],
+        "nickname" : [ "brad_frost" ],
+        "numeric-id" : [ "11855482" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR.jpg" ],
+        "published" : [ "2008-01-04T21:57:10+00:00" ],
+        "uid" : [ "tag:twitter.com:brad_frost" ],
+        "url" : [ "https://twitter.com/brad_frost", "http://bradfrost.com" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "Just another day in my buddy's inbox. (He sent this along since I have an appreciation for such things.)" ],
+    "photo" : [ {
+      "alt" : "Hello Viable, My name is undefined and I work with undefined a undefined as their undefined. My team and I are looking to create undefined that helps us undefined.We would like to keep the project costs between $undefined and $undefined. We would like to complete this project by undefined.Sincerely,undefinedundefined",
+      "value" : "https://pbs.twimg.com/media/FbBLPs1X0AAs98F.jpg"
+    } ],
+    "published" : [ "2022-08-25T16:00:27+00:00" ],
+    "uid" : [ "tag:twitter.com:1562832284947845124" ],
+    "url" : [ "https://twitter.com/brad_frost/status/1562832284947845124" ]
+  },
+  "type" : [ "h-entry" ]
+}
