@@ -1,0 +1,52 @@
+{
+  "children" : [ {
+    "properties" : {
+      "author" : [ {
+        "properties" : {
+          "name" : [ "Oven (Bun) is hiring engineers" ],
+          "nickname" : [ "oven_sh" ],
+          "numeric-id" : [ "1545025796003139590" ],
+          "photo" : [ "https://pbs.twimg.com/profile_images/1562126150926626816/djKwtymK.jpg" ],
+          "published" : [ "2022-07-07T12:43:56+00:00" ],
+          "uid" : [ "tag:twitter.com:oven_sh" ],
+          "url" : [ "https://twitter.com/oven_sh" ]
+        },
+        "type" : [ "h-card" ]
+      } ],
+      "content" : [ "Oven is going to be a grind, especially the first nine months or so. If work-life balance to you means a lot of time spent not working, it’s probably not a good fit right now." ],
+      "in-reply-to" : [ "https://twitter.com/oven_sh/status/1562248120611885056" ],
+      "published" : [ "2022-08-24T01:19:12+00:00" ],
+      "uid" : [ "tag:twitter.com:1562248121656102914" ],
+      "url" : [ "https://twitter.com/oven_sh/status/1562248121656102914" ]
+    },
+    "type" : [ "u-quotation-of", "h-cite" ]
+  } ],
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "berlin" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "ani betts" ],
+        "nickname" : [ "anaisbetts" ],
+        "numeric-id" : [ "7482442" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1489102828924817410/V5m0095-.jpg" ],
+        "published" : [ "2007-07-15T05:43:22+00:00" ],
+        "uid" : [ "tag:twitter.com:anaisbetts" ],
+        "url" : [ "https://twitter.com/anaisbetts" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ {
+      "html" : "<div style=\"white-space: pre\">We built all of GitHub, with zero initial funding, with absolutely no grind culture of any kind, ever.\n\nI promise, whatever Thing you're building, it does Not Need culturally enforced exploitation to happen</div>",
+      "value" : "We built all of GitHub, with zero initial funding, with absolutely no grind culture of any kind, ever.\n\nI promise, whatever Thing you're building, it does Not Need culturally enforced exploitation to happen"
+    } ],
+    "published" : [ "2022-08-24T16:30:52+00:00" ],
+    "uid" : [ "tag:twitter.com:1562477553314861058" ],
+    "url" : [ "https://twitter.com/anaisbetts/status/1562477553314861058" ]
+  },
+  "type" : [ "h-entry" ]
+}
