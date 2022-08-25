@@ -4,7 +4,7 @@
   "draft" : false,
   "h" : "h-entry",
   "properties" : {
-    "syndication" : [ "https://brid.gy/publish/twitter" ],
+    "syndication" : [ "https://twitter.com/JeremyMonjo/status/1562512104976162817" ],
     "name" : [ "Like of @JeremyMonjo's tweet" ],
     "published" : [ "2022-08-25T18:47:00+0100" ],
     "like-of" : [ "https://twitter.com/JeremyMonjo/status/1562512104976162817" ],
