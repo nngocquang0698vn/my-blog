@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "author" : [ {
+      "properties" : {
+        "location" : [ {
+          "properties" : {
+            "name" : [ "Phoenix" ]
+          },
+          "type" : [ "h-card", "p-location" ]
+        } ],
+        "name" : [ "Jessie Sweet, born to tweet" ],
+        "nickname" : [ "jessiejensen" ],
+        "numeric-id" : [ "15768933" ],
+        "photo" : [ "https://pbs.twimg.com/profile_images/1468681934171561984/HTTDdi4t.jpg" ],
+        "published" : [ "2008-08-07T20:19:45+00:00" ],
+        "uid" : [ "tag:twitter.com:jessiejensen" ],
+        "url" : [ "https://twitter.com/jessiejensen" ]
+      },
+      "type" : [ "h-card" ]
+    } ],
+    "content" : [ "The caption explains that the doormat says “gayest place in town”" ],
+    "published" : [ "2022-08-24T14:24:34+00:00" ],
+    "uid" : [ "tag:twitter.com:1562445767523966981" ],
+    "url" : [ "https://twitter.com/jessiejensen/status/1562445767523966981" ],
+    "video" : [ "https://video.twimg.com/ext_tw_video/1562445743427727362/pu/vid/1024x576/RSnruWYH4gjl6pNy.mp4?tag=12" ]
+  },
+  "type" : [ "h-entry" ]
+}
